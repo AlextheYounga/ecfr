@@ -1,3 +1,0 @@
-##### § 550.180 May I perform fiduciary services for, or purchase fiduciary services from, another association or entity?
-
-You may perform services related to the exercise of fiduciary powers for another association or other entity under a written agreement. You may also purchase services related to the exercise of fiduciary powers from another association or other entity under a written agreement.

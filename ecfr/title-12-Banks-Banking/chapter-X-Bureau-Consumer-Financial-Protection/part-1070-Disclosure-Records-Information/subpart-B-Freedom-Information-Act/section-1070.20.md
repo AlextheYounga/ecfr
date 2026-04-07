@@ -18,7 +18,7 @@
 
 (ii) The CFPB has reason to believe that the information may be protected from disclosure under Exemption 4.
 
-(2) The notice requirements of this paragraph shall not apply if:
+(2) The notice requirements of this paragraph (e) shall not apply if:
 
 (i) The CFPB determines that the information is exempt under the FOIA;
 
@@ -28,11 +28,11 @@
 
 (iv) The designation made by the submitter under paragraph (e)(1)(i) of this section appears obviously frivolous, except that, in such a case, the CFPB shall, within a reasonable time prior to a specified disclosure date, give the submitter written notice of any final decision to disclose the information.
 
-(f) *Opportunity to object to disclosure.* (1) Through the notice described in paragraph (d) of this section, the CFPB shall afford a submitter ten (10) business days from the date of the notice to provide the CFPB with a detailed statement of any objection to disclosure. Such statement shall specify all grounds for withholding any of the information under any exemption of the FOIA and, in the case of Exemption 4, shall demonstrate why the information is considered to be a trade secret or commercial or financial information that is privileged or confidential. In the event that a submitter fails to respond to the notice within the time specified in it, the submitter shall be considered to have no objection to disclosure of the information. Information provided by a submitter pursuant to this paragraph may itself be subject to disclosure under the FOIA.
+(f) *Opportunity to object to disclosure before release.* (1) Through the notice described in paragraph (d) of this section, the CFPB shall delay any release in order to afford a submitter ten (10) business days from the date of the notice to provide the CFPB with a detailed statement of any objection to disclosure. Such statement shall specify all grounds for withholding any of the information under any exemption of the FOIA and, in the case of Exemption 4, shall demonstrate why the information is considered to be a trade secret or commercial or financial information that is privileged or confidential. In the event that a submitter fails to respond to the notice within the time specified in it, the submitter shall be considered to have no objection to disclosure of the information. Information provided by a submitter pursuant to this paragraph (f) may itself be subject to disclosure under the FOIA.
 
 (2) When notice is given to a submitter under this section, the requester shall be advised that such notice has been given to the submitter. The requester shall be further advised that a delay in responding to the request may be considered a denial of access to records and that the requester may proceed with an administrative appeal or seek judicial review, if appropriate. However, the requester will be invited to agree to a voluntary extension of time so that the CFPB may review the submitter's objection to disclose, if any.
 
-(g) *Notice of intent to disclose.* The CFPB shall consider carefully a submitter's objections and specific grounds for nondisclosure prior to determining whether to disclose business information. Whenever the CFPB decides to disclose business information over the objection of a submitter, the CFPB shall forward to the submitter a written notice which shall include:
+(g) *Notice of intent to disclose.* The CFPB shall consider a submitter's objections and specific grounds for nondisclosure prior to determining whether to disclose business information. Whenever the CFPB decides to disclose business information over the objection of a submitter, the CFPB shall forward to the submitter a written notice which shall include:
 
 (1) A statement of the reasons for which the submitter's disclosure objections were not sustained;
 

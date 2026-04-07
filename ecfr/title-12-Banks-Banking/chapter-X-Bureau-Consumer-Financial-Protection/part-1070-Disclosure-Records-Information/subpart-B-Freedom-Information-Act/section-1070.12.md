@@ -12,4 +12,4 @@
 
 (5) Each amendment, revision, or repeal of matters referred to in paragraphs (a)(1) through (4) of this section.
 
-(b) *Exceptions.* Publication of the information under clause (a) of this subpart shall be subject to the application of the FOIA exemptions and exclusions (5 U.S.C. 552(b) and (c)) and the limitations provided in 5 U.S.C. 552(a)(1).
+(b) *Exceptions.* Publication of the information under paragraph (a) of this section shall be subject to the application of the FOIA exemptions and exclusions (5 U.S.C. 552(b) and (c)) and the limitations provided in 5 U.S.C. 552(a)(1).
