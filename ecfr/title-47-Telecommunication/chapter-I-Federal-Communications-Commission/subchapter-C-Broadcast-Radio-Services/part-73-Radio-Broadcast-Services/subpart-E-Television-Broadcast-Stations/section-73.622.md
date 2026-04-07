@@ -1432,7 +1432,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Albany               | 10, 12                                              |
 | Athens               | \*8, 48                                             |
 | Atlanta              | 10, 19, 20, \*21, 25, 27, 39, \*41, 43              |
-| Augusta              | 12, 30, 31, 42                                      |
+| Augusta              | 27, 30, 31, 42                                      |
 | Bainbridge           | 50                                                  |
 | Baxley               | 35                                                  |
 | Brunswick            | 24                                                  |
@@ -1685,7 +1685,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Vicksburg            | 41                                                  |
 | West Point           | 16                                                  |
 | MISSOURI             |                                                     |
-| Cape Girardeau       | 12, 22                                              |
+| Cape Girardeau       | 22, 32                                              |
 | Columbia             | 17, 27                                              |
 | Hannibal             | 7                                                   |
 | Jefferson City       | 20, 29                                              |
