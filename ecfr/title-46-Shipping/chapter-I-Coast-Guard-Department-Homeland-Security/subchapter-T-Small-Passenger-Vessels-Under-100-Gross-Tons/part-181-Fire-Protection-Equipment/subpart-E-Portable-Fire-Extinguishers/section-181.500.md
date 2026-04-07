@@ -1,8 +1,8 @@
 ##### § 181.500 Required number, type, and location.
 
-(a) Each portable fire extinguisher on a vessel must be of an approved type. The minimum number of portable fire extinguishers required on a vessel must be acceptable to the cognizant Officer in Charge, Marine Inspection, but must not be fewer than the minimum number required by table 1 to § 181.500(b) and other provisions of this section.
+(a) Each portable fire extinguisher on a vessel must be of an approved type. The minimum number of portable fire extinguishers required on a vessel must be acceptable to the cognizant Officer in Charge, Marine Inspection, but must not be fewer than the minimum number required by table 1 to § 181.500(b) and other provisions of this section. 
 
-(b) Table 1 to § 181.500(b) indicates the minimum required classification for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.
+(b) Table 1 to § 181.500(b) indicates the minimum required classification for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table. 
 
 Table 1 to § 181.500(b)—Required Portable Fire Extinguishers
 | Space                    | Portable fire extinguishers |
@@ -14,8 +14,8 @@ Table 1 to § 181.500(b)—Required Portable Fire Extinguishers
 | Galley                   | 40-B:C                      |
 | Pantry, concession stand | 2-A                         |
 
-(c) A vehicle deck without a fixed sprinkler system and exposed to weather must have one 40-B portable fire extinguisher for every five vehicles, located near an entrance to the space.
+(c) A vehicle deck without a fixed sprinkler system and exposed to weather must have one 40-B portable fire extinguisher for every five vehicles, located near an entrance to the space. 
 
-(d) The frame or support of each semi-portable fire extinguisher permitted by paragraph (a) of this section must be welded or otherwise permanently attached to a bulkhead or deck.
+(d) The frame or support of each semi-portable fire extinguisher permitted by paragraph (a) of this section must be welded or otherwise permanently attached to a bulkhead or deck. 
 
 \[USCG-2012-0196, 81 FR 48300, July 22, 2016, as amended by USCG-2020-0519, 89 FR 76707, Sept. 18, 2024\]

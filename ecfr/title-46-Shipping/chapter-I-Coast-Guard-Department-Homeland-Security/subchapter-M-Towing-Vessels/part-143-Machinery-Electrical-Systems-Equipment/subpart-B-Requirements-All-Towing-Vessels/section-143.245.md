@@ -1,8 +1,8 @@
 ##### § 143.245 Readiness and testing.
 
-(a) Essential systems or equipment must be regularly tested and examined. Tests and examinations must verify that the system or equipment functions as designed. If a component is found unsatisfactory, it must be repaired or replaced. Test and examination procedures must be in accordance with manufacturer's instructions or the Towing Safety Management System (TSMS) applicable to the vessel, if the vessel has a TSMS.
+(a) Essential systems or equipment must be regularly tested and examined. Tests and examinations must verify that the system or equipment functions as designed. If a component is found unsatisfactory, it must be repaired or replaced. Test and examination procedures must be in accordance with manufacturer's instructions or the Towing Safety Management System (TSMS) applicable to the vessel, if the vessel has a TSMS. 
 
-(b) Each towing vessel must perform the applicable tests in Table 143.245(b) of this section. The tests required by this section must be recorded in accordance with part 140 of this subchapter.
+(b) Each towing vessel must perform the applicable tests in Table 143.245(b) of this section. The tests required by this section must be recorded in accordance with part 140 of this subchapter. 
 
 Table 143.245(b)—Required Tests and Frequency
 | Tests of:                                                                                  | Frequency:                                                                    |

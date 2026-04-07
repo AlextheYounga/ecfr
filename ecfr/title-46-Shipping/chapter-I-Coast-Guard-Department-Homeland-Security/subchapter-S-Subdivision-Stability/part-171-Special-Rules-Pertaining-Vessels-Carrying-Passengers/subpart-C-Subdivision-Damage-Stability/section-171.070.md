@@ -1,40 +1,40 @@
 ##### § 171.070 Subdivision requirements—Type II.
 
-(a) Each vessel, except a ferry vessel, must be designed so that, while in each condition of loading and operation, it complies with the standard of flooding specified in Table 171.070(a).
+(a) Each vessel, except a ferry vessel, must be designed so that, while in each condition of loading and operation, it complies with the standard of flooding specified in Table 171.070(a). 
 
-(b) Except as provided in paragraph (c), each ferry vessel must be designed so that, while in each condition of loading and operation, it meets the standard of flooding specified in Table 171.070(b).
+(b) Except as provided in paragraph (c), each ferry vessel must be designed so that, while in each condition of loading and operation, it meets the standard of flooding specified in Table 171.070(b). 
 
-(c) A ferry vessel described in paragraph (d) of this section need not meet the standard of flooding specified in Table 171.070(b), except that a ferry vessel in Great Lakes service must at least have a collision bulkhead.
+(c) A ferry vessel described in paragraph (d) of this section need not meet the standard of flooding specified in Table 171.070(b), except that a ferry vessel in Great Lakes service must at least have a collision bulkhead. 
 
-(d) Paragraph (c) of this section applies to a ferry vessel that—
+(d) Paragraph (c) of this section applies to a ferry vessel that— 
 
-(1) Is 150 feet (46 meters) or less in length; and
+(1) Is 150 feet (46 meters) or less in length; and 
 
-(2) Has sufficient air tankage, or other internal buoyancy to float the vessel with no part of the margin line submerged when the vessel is completely flooded. If foam is used to comply with this paragraph, it must be installed in accordance with the requirements in § 170.245 of this subchapter.
+(2) Has sufficient air tankage, or other internal buoyancy to float the vessel with no part of the margin line submerged when the vessel is completely flooded. If foam is used to comply with this paragraph, it must be installed in accordance with the requirements in § 170.245 of this subchapter. 
 
-(e) Except as specified in paragraph (f) of this section, each main transverse watertight bulkhead must be spaced as follows:
+(e) Except as specified in paragraph (f) of this section, each main transverse watertight bulkhead must be spaced as follows: 
 
-(1) Unless otherwise permitted, if the LBP of the vessel is 143 feet (43.5 meters) or more, or the vessel makes international voyages, each main transverse watertight bulkhead must be at least 10 feet (3 meters) plus 3 percent of the vessel's LBP from—
+(1) Unless otherwise permitted, if the LBP of the vessel is 143 feet (43.5 meters) or more, or the vessel makes international voyages, each main transverse watertight bulkhead must be at least 10 feet (3 meters) plus 3 percent of the vessel's LBP from— 
 
-(i) Every other main transverse watertight bulkhead;
+(i) Every other main transverse watertight bulkhead; 
 
-(ii) The collision bulkhead; and
+(ii) The collision bulkhead; and 
 
-(iii) The aftermost point on the bulkhead deck.
+(iii) The aftermost point on the bulkhead deck. 
 
-(2) If the LBP of the vessel is less than 143 feet (43.5 meters) and the vessel does not make international voyages, each main transverse watertight bulkhead must be no less than 10 percent of the vessel's LBP or 6 feet (1.8 meters), whichever is greater, from—
+(2) If the LBP of the vessel is less than 143 feet (43.5 meters) and the vessel does not make international voyages, each main transverse watertight bulkhead must be no less than 10 percent of the vessel's LBP or 6 feet (1.8 meters), whichever is greater, from— 
 
-(i) Every other main transverse watertight bulkhead;
+(i) Every other main transverse watertight bulkhead; 
 
-(ii) The collision bulkhead; and
+(ii) The collision bulkhead; and 
 
-(iii) The aftermost point on the bulkhead deck.
+(iii) The aftermost point on the bulkhead deck. 
 
-(f) If a vessel is required by § 171.060 to have a collision bulkhead in each end of the vessel, then each main transverse watertight bulkhead must be no less than the distance specified in paragraph (e) of this section from—
+(f) If a vessel is required by § 171.060 to have a collision bulkhead in each end of the vessel, then each main transverse watertight bulkhead must be no less than the distance specified in paragraph (e) of this section from— 
 
-(1) Every other main transverse watertight bulkhead; and
+(1) Every other main transverse watertight bulkhead; and 
 
-(2) Each collision bulkhead.
+(2) Each collision bulkhead. 
 
 Table 171.070(a)—Standard of Flooding
 | Passengers carried                                                                                                         | Part of vessel                                                                                                              | Standard of flooding (compartments) |

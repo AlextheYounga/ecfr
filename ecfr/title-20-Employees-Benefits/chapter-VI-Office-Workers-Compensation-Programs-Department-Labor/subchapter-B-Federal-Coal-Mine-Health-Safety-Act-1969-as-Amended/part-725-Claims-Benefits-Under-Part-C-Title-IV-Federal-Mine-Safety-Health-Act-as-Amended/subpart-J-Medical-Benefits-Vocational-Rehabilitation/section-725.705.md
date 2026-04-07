@@ -1,5 +1,5 @@
 ##### § 725.705 Is prior authorization for medical services required?
 
-(a) Except as provided in paragraph (b) of this section, medical services from an authorized provider which are payable under § 725.701 do not require prior approval of OWCP or the responsible operator.
+(a) Except as provided in paragraph (b) of this section, medical services from an authorized provider which are payable under § 725.701 do not require prior approval of OWCP or the responsible operator. 
 
 (b) Except where emergency treatment is required, prior approval of OWCP or the responsible operator must be obtained before any hospitalization or surgery, or before ordering medical equipment where the purchase price exceeds $300. A request for approval of non-emergency hospitalization or surgery must be acted upon expeditiously, and approval or disapproval will be given by telephone if a written response cannot be given within 7 days following the request. No employee of the Department of Labor, other than a district director or the Chief, Medical Audit and Operations Section, DCMWC, is authorized to approve a request for hospitalization or surgery by telephone.

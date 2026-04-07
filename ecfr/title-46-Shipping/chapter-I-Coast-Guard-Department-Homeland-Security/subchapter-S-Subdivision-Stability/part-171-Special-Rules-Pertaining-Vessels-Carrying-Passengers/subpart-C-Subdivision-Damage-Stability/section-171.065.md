@@ -1,56 +1,56 @@
 ##### § 171.065 Subdivision requirements— Type I.
 
-(a) Except as provided in paragraphs (c) and (f) of this section, the separation between main transverse watertight bulkheads on a vessel, other than one described in paragraph (b) of this section, must not exceed—
+(a) Except as provided in paragraphs (c) and (f) of this section, the separation between main transverse watertight bulkheads on a vessel, other than one described in paragraph (b) of this section, must not exceed— 
 
 (floodable length) × (factor of subdivision) where— the factor of subdivision is listed under FS in Table 171.065(a).
 
-(b) The factor of subdivision used to determine compliance with paragraph (a) of this section must be the smaller of 0.5 or the value determined from Table 171.065(a) if—
+(b) The factor of subdivision used to determine compliance with paragraph (a) of this section must be the smaller of 0.5 or the value determined from Table 171.065(a) if— 
 
-(1) The vessel is 430 feet (131 meters) or more in LBP; and
+(1) The vessel is 430 feet (131 meters) or more in LBP; and 
 
-(2) The greater of the values of Y as determined by the following equations equals or exceeds the value of X in Table 171.065(b):
+(2) The greater of the values of Y as determined by the following equations equals or exceeds the value of X in Table 171.065(b): 
 
 ![](/graphics/ec01mr91.018.gif)orY = (M + 2P1)/(V + P1−P) where— M, V, and P have the same value as listed in Table 171.065(a); and P1 = the smaller of the following: (i) 0.6LN (0.056LN) where— N = the total number of passengers; and L = LBP in feet (meters). (ii) The greater of the following: (A) 0.4LN (0.037LN). (B) The sum of P and the total volume of passenger spaces above the margin line.
 
-(c) The distance A in Figure 171.065 between main transverse watertight bulkheads may exceed the maximum allowed by paragraphs (a) or (b) of this section if each of the distances B and C between adjacent main transverse watertight bulkheads in Figure 171.065 does not exceed the smaller of the following:
+(c) The distance A in Figure 171.065 between main transverse watertight bulkheads may exceed the maximum allowed by paragraphs (a) or (b) of this section if each of the distances B and C between adjacent main transverse watertight bulkheads in Figure 171.065 does not exceed the smaller of the following: 
 
-(1) The floodable length.
+(1) The floodable length. 
 
-(2) Twice the separation allowed by paragraphs (a) or (b) of this section.
+(2) Twice the separation allowed by paragraphs (a) or (b) of this section. 
 
-(d) In each vessel 330 feet (100 meters) or more in LBP, one of the main transverse watertight bulkheads aft of the collision bulkhead must be located at a distance from the forward perpendicular that is not greater than the maximum separation allowed by paragraph (a) or (b) of this section.
+(d) In each vessel 330 feet (100 meters) or more in LBP, one of the main transverse watertight bulkheads aft of the collision bulkhead must be located at a distance from the forward perpendicular that is not greater than the maximum separation allowed by paragraph (a) or (b) of this section. 
 
-(e) The minimum separation between two adjacent main transverse watertight bulkheads must be at least 10 feet (3.05 meters) plus 3 percent of the LBP of the vessel, or 35 feet (10.7 meters), whichever is less.
+(e) The minimum separation between two adjacent main transverse watertight bulkheads must be at least 10 feet (3.05 meters) plus 3 percent of the LBP of the vessel, or 35 feet (10.7 meters), whichever is less. 
 
-(f) The maximum separation of bulkheads allowed by paragraphs (a) or (b) of this section may be increased by the amount allowed in paragraph (g) of this section if—
+(f) The maximum separation of bulkheads allowed by paragraphs (a) or (b) of this section may be increased by the amount allowed in paragraph (g) of this section if— 
 
-(1) The space between two adjacent main transverse watertight bulkheads contains internal watertight volume; and
+(1) The space between two adjacent main transverse watertight bulkheads contains internal watertight volume; and 
 
-(2) After the assumed side damage specified in paragraph (h) of this section is applied, the internal watertight volume will not be flooded.
+(2) After the assumed side damage specified in paragraph (h) of this section is applied, the internal watertight volume will not be flooded. 
 
-(g) For the purpose of paragraph (f) of this section, the allowable increase in separation is as follows:
+(g) For the purpose of paragraph (f) of this section, the allowable increase in separation is as follows: 
 
 ![](/graphics/ec01mr91.020.gif)where— “total volume of allowed local subdivision” is determined by calculating the unflooded volume on each side of the centerline and multiplying the smaller volume by two.
 
-(h) The assumed extents of side damage are as follows:
+(h) The assumed extents of side damage are as follows: 
 
-(1) *The longitudinal extent of damage* must be assumed to extend over a length equal to the minimum spacing of bulkheads specified in paragraph (e) of this section.
+(1) *The longitudinal extent of damage* must be assumed to extend over a length equal to the minimum spacing of bulkheads specified in paragraph (e) of this section. 
 
-(2) *The transverse extent of damage* must be assumed to penetrate a distance from the shell plating equal to one-fifth the maximum beam of the vessel and at right angles to the centerline at the level of the deepest subdivision load line.
+(2) *The transverse extent of damage* must be assumed to penetrate a distance from the shell plating equal to one-fifth the maximum beam of the vessel and at right angles to the centerline at the level of the deepest subdivision load line. 
 
-(3) *The vertical extent of damage* must be assumed to extend vertically from the baseline to the margin line.
+(3) *The vertical extent of damage* must be assumed to extend vertically from the baseline to the margin line. 
 
-(i) The maximum separation between the following bulkheads must not exceed the maximum separation between main transverse watertight bulkheads:
+(i) The maximum separation between the following bulkheads must not exceed the maximum separation between main transverse watertight bulkheads: 
 
-(1) The collision bulkhead and the first main transverse watertight bulkhead aft of the collision bulkhead; and
+(1) The collision bulkhead and the first main transverse watertight bulkhead aft of the collision bulkhead; and 
 
-(2) The last main transverse watertight bulkhead and the aftermost point on the bulkhead deck.
+(2) The last main transverse watertight bulkhead and the aftermost point on the bulkhead deck. 
 
-(j) The minimum separation between the following bulkheads must not be less than the minimum separation between main transverse watertight bulkheads:
+(j) The minimum separation between the following bulkheads must not be less than the minimum separation between main transverse watertight bulkheads: 
 
-(1) The collision bulkhead and the first main transverse watertight bulkhead aft of the collision bulkhead; and
+(1) The collision bulkhead and the first main transverse watertight bulkhead aft of the collision bulkhead; and 
 
-(2) The last main transverse watertight bulkhead and the aftermost point on the bulkhead deck.
+(2) The last main transverse watertight bulkhead and the aftermost point on the bulkhead deck. 
 
 ![](/graphics/ec01mr91.021.gif)
 

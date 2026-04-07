@@ -1,6 +1,6 @@
 ##### § 72.25-15 Passenger accommodations for excursion boats, ferryboats, and passenger barges.
 
-(a) Except as specifically excluded by this section, separate public toilet spaces shall be provided for male and female passengers with at least the minimum equipment in each based upon the number of passengers permitted to be carried as set forth in table 72.25-15(a).
+(a) Except as specifically excluded by this section, separate public toilet spaces shall be provided for male and female passengers with at least the minimum equipment in each based upon the number of passengers permitted to be carried as set forth in table 72.25-15(a). 
 
 Table 72.25-15(a)
 | Number of passengers                      | Toilets | Washbasins |
@@ -18,6 +18,6 @@ Table 72.25-15(a)
 | 4,000                                     |         | (1)        |
 | 1 Additional facilities by extrapolation. |         |            |
 
-(b) In the men's spaces, urinals may be substituted for toilets, provided at least one-half the required toilets are fitted.
+(b) In the men's spaces, urinals may be substituted for toilets, provided at least one-half the required toilets are fitted. 
 
 (c) On ferryboats and barges having a short run, passenger toilet facilities need not be fitted.

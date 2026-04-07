@@ -1,71 +1,73 @@
 ##### § 12.602 Basic training.
 
-(a) Applicants seeking an STCW rating endorsement must provide evidence, with their application, of meeting the standard of competence for basic training as described below:
+Link to an amendment published at 89 FR 93103, Nov. 25, 2024.
 
-(1) Personal survival techniques, as set out in Table A-VI/1-1 of the STCW Code (incorporated by reference, see § 12.103 of this part).
+(a) Applicants seeking an STCW rating endorsement must provide evidence, with their application, of meeting the standard of competence for basic training as described below: 
 
-(2) Fire prevention and firefighting, as set out in Table A-VI/1-2 of the STCW Code.
+(1) Personal survival techniques, as set out in Table A-VI/1-1 of the STCW Code (incorporated by reference, see § 12.103 of this part). 
 
-(3) Elementary first aid, as set out in Table A-VI/1-3 of the STCW Code.
+(2) Fire prevention and firefighting, as set out in Table A-VI/1-2 of the STCW Code. 
 
-(4) Personal safety and social responsibilities, as set out in Table A-VI/1-4 of the STCW Code.
+(3) Elementary first aid, as set out in Table A-VI/1-3 of the STCW Code. 
 
-(b) Every 5 years, seafarers qualified in accordance with § 12.601 (a) of this subpart must provide evidence of maintaining the standard of competence for basic training (BT).
+(4) Personal safety and social responsibilities, as set out in Table A-VI/1-4 of the STCW Code. 
 
-(c) The Coast Guard will accept onboard training and experience, through evidence of 1 year of sea service within the last 5 years for the following areas:
+(b) Every 5 years, seafarers qualified in accordance with § 12.601 (a) of this subpart must provide evidence of maintaining the standard of competence for basic training (BT). 
 
-(1) Personal survival techniques, as set out in Table A-VI/1-1 of the STCW Code:
+(c) The Coast Guard will accept onboard training and experience, through evidence of 1 year of sea service within the last 5 years for the following areas: 
 
-(i) Donning a lifejacket.
+(1) Personal survival techniques, as set out in Table A-VI/1-1 of the STCW Code: 
 
-(ii) Boarding a survival craft from the ship, while wearing a lifejacket.
+(i) Donning a lifejacket. 
 
-(iii) Taking initial actions on boarding a lifeboat to enhance chance of survival.
+(ii) Boarding a survival craft from the ship, while wearing a lifejacket. 
 
-(iv) Streaming a lifeboat drogue or sea-anchor.
+(iii) Taking initial actions on boarding a lifeboat to enhance chance of survival. 
 
-(v) Operating survival craft equipment.
+(iv) Streaming a lifeboat drogue or sea-anchor. 
 
-(vi) Operating location devices, including radio equipment.
+(v) Operating survival craft equipment. 
 
-(2) Fire prevention and firefighting, as set out in Table A-VI/1-2 of the STCW Code:
+(vi) Operating location devices, including radio equipment. 
 
-(i) Using self-contained breathing apparatus.
+(2) Fire prevention and firefighting, as set out in Table A-VI/1-2 of the STCW Code: 
 
-(ii) Performing a rescue in a smoke-filled space, using an approved smoke-generating device aboard, while wearing a breathing apparatus.
+(i) Using self-contained breathing apparatus. 
 
-(3) Elementary first aid, as set out in Table A-VI/1-3 of the STCW Code.
+(ii) Performing a rescue in a smoke-filled space, using an approved smoke-generating device aboard, while wearing a breathing apparatus. 
 
-(4) Personal safety and social responsibilities, as set out in Table A-VI/1-4 of the STCW Code.
+(3) Elementary first aid, as set out in Table A-VI/1-3 of the STCW Code. 
 
-(d) The Coast Guard will only accept evidence of approved assessments conducted ashore for the following areas:
+(4) Personal safety and social responsibilities, as set out in Table A-VI/1-4 of the STCW Code. 
 
-(1) Personal survival techniques, as set out in Table A-VI/1-1 of the STCW Code:
+(d) The Coast Guard will only accept evidence of approved assessments conducted ashore for the following areas: 
 
-(i) Donning and use an immersion suit.
+(1) Personal survival techniques, as set out in Table A-VI/1-1 of the STCW Code: 
 
-(ii) Safely jumping from a height into the water.
+(i) Donning and use an immersion suit. 
 
-(iii) Righting an inverted liferaft while wearing a lifejacket.
+(ii) Safely jumping from a height into the water. 
 
-(iv) Swimming while wearing a lifejacket.
+(iii) Righting an inverted liferaft while wearing a lifejacket. 
 
-(v) Keeping afloat without a lifejacket.
+(iv) Swimming while wearing a lifejacket. 
 
-(2) Fire prevention and firefighting as set out in Table A-VI/1-2 of the STCW Code:
+(v) Keeping afloat without a lifejacket. 
 
-(i) Using various types of portable fire extinguishers.
+(2) Fire prevention and firefighting as set out in Table A-VI/1-2 of the STCW Code: 
 
-(ii) Extinguishing smaller fires. e.g., electrical fires, oil fires, and propane fires.
+(i) Using various types of portable fire extinguishers. 
 
-(iii) Extinguishing extensive fires with water, using jet and spray nozzles.
+(ii) Extinguishing smaller fires. e.g., electrical fires, oil fires, and propane fires. 
 
-(iv) Extinguishing fires with foam, powder, or any other suitable chemical agent.
+(iii) Extinguishing extensive fires with water, using jet and spray nozzles. 
 
-(v) Fighting fire in smoke-filled enclosed spaces wearing self-contained breathing apparatuses.
+(iv) Extinguishing fires with foam, powder, or any other suitable chemical agent. 
 
-(vi) Extinguishing fire with water fog or any other suitable firefighting agent in an accommodation room or simulated engine room with fire and heavy smoke.
+(v) Fighting fire in smoke-filled enclosed spaces wearing self-contained breathing apparatuses. 
 
-(vii) Extinguishing oil fire with fog applicator and spray nozzles, dry chemical powder, or foam applicators.
+(vi) Extinguishing fire with water fog or any other suitable firefighting agent in an accommodation room or simulated engine room with fire and heavy smoke. 
+
+(vii) Extinguishing oil fire with fog applicator and spray nozzles, dry chemical powder, or foam applicators. 
 
 (e) Applicants who cannot meet the requirement for 1 year of sea service within the last 5 years, as described in paragraph (c) of this section, will be required to meet the requirements of paragraph (a) of this section or complete approved or accepted refresher training.

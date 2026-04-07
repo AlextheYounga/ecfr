@@ -1,26 +1,26 @@
 ##### § 132.350 Tests and inspections of fire-extinguishing equipment.
 
-(a) Each master of a vessel shall ensure that the tests and inspections, of fire-extinguishing equipment, described by paragraph (b) of this section are performed—
+(a) Each master of a vessel shall ensure that the tests and inspections, of fire-extinguishing equipment, described by paragraph (b) of this section are performed— 
 
-(1) Every 12 months; or
+(1) Every 12 months; or 
 
-(2) Not later than the next inspection for certification and periodic inspection, unless the total time from the date of the last tests and inspections exceeds 15 months.
+(2) Not later than the next inspection for certification and periodic inspection, unless the total time from the date of the last tests and inspections exceeds 15 months. 
 
-(b) The master shall provide satisfactory evidence of the servicing of fire-extinguishing equipment, required by paragraph (c) of this section, to the marine inspector. If any of the equipment or records have not been properly maintained, a qualified servicing facility may be required to perform the required inspections, maintenance, and hydrostatic tests.
+(b) The master shall provide satisfactory evidence of the servicing of fire-extinguishing equipment, required by paragraph (c) of this section, to the marine inspector. If any of the equipment or records have not been properly maintained, a qualified servicing facility may be required to perform the required inspections, maintenance, and hydrostatic tests. 
 
-(c) The following tests and inspections of fire-extinguishing equipment must be performed by the owner, operator, or master, or by a qualified servicing facility, to verify compliance with paragraph (a) of this section:
+(c) The following tests and inspections of fire-extinguishing equipment must be performed by the owner, operator, or master, or by a qualified servicing facility, to verify compliance with paragraph (a) of this section: 
 
-(1) Each portable fire extinguisher must be inspected, maintained, and hydrostatically tested as required by Chapter 4 of NFPA 10 with the frequency specified by NFPA 10. Carbon-dioxide and halon portable fire extinguishers must be refilled when the weight loss of net content exceeds that specified for fixed systems by Table 132.350. Further, each must be examined for excessive corrosion and for general condition. A tag issued by a qualified servicing facility, and attached to each extinguisher, will be acceptable evidence that the necessary maintenance has been conducted.
+(1) Each portable fire extinguisher must be inspected, maintained, and hydrostatically tested as required by Chapter 4 of NFPA 10 with the frequency specified by NFPA 10. Carbon-dioxide and halon portable fire extinguishers must be refilled when the weight loss of net content exceeds that specified for fixed systems by Table 132.350. Further, each must be examined for excessive corrosion and for general condition. A tag issued by a qualified servicing facility, and attached to each extinguisher, will be acceptable evidence that the necessary maintenance has been conducted. 
 
-(2) Each semiportable fire extinguisher and each fixed fire-extinguishing system must be—
+(2) Each semiportable fire extinguisher and each fixed fire-extinguishing system must be— 
 
-(i) Inspected and tested as required by Table 132.350 of this subpart;
+(i) Inspected and tested as required by Table 132.350 of this subpart; 
 
-(ii) Inspected, tested, and marked as required by §§ 147.60 and 147.65 of this chapter;
+(ii) Inspected, tested, and marked as required by §§ 147.60 and 147.65 of this chapter; 
 
-(iii) Inspected to ensure that piping, controls, and valves are in good general condition with no excessive corrosion; and
+(iii) Inspected to ensure that piping, controls, and valves are in good general condition with no excessive corrosion; and 
 
-(iv) Inspected and tested to determine that alarms and ventilation shutdowns for each fire-extinguishing system operate properly.
+(iv) Inspected and tested to determine that alarms and ventilation shutdowns for each fire-extinguishing system operate properly. 
 
 Table 132.350—Tests of Semiportable and Fixed Fire-Extinguishing Systems
 | Type of system                    | Test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -33,8 +33,8 @@ Table 132.350—Tests of Semiportable and Fixed Fire-Extinguishing Systems
 | Inert gas                         | Recharge or replace cylinder if cylinder pressure loss exceeds 5 percent of the specified gauge pressure, adjusted for temperature. Test time delays, alarms, and ventilation shutdowns with carbon dioxide, nitrogen, or other nonflammable gas as stated in the system manufacturer's instruction manual. Inspect hoses for damage or decay. Ensure that nozzles are unobstructed. Cylinders must be tested and marked, and all flexible connections on fixed inert extinguishers must be tested or renewed as required by 46 CFR 147.60 and 147.66.                                                                                                                                                                                                                                                                                       |
 | Water mist                        | Maintain system in accordance with the maintenance instructions in the system manufacturer's design, installation, operation, and maintenance manual.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-(3) The fire-main system must be operated, and the pressure checked at the remotest and highest outlets. Each fire hose must be subjected to a test pressure, equivalent either to the maximal pressure to which it may be subjected in service or to 690 kPa (100 psi), whichever is greater.
+(3) The fire-main system must be operated, and the pressure checked at the remotest and highest outlets. Each fire hose must be subjected to a test pressure, equivalent either to the maximal pressure to which it may be subjected in service or to 690 kPa (100 psi), whichever is greater. 
 
-(4) All systems for detecting smoke and fire, including sensors and alarms, must be inspected and tested.
+(4) All systems for detecting smoke and fire, including sensors and alarms, must be inspected and tested. 
 
 \[CGD 82-004 and CGD 86-074, 62 FR 49348, Sept. 19, 1997, as amended by USCG-1999-4976, 65 FR 6507, Feb. 9, 2000; USCG-2006-24797, 77 FR 33884, June 7, 2012\]

@@ -1,24 +1,24 @@
 ##### § 67.211 Requirement for citizenship declaration.
 
-(a) Instruments in the nature of a bill of sale or deed of gift, mortgages, and assignments of mortgages conveying an interest in a documented vessel are ineligible for filing and recording unless accompanied by a declaration of citizenship, except as provided in paragraph (c) and (d) of this section.
+(a) Instruments in the nature of a bill of sale or deed of gift, mortgages, and assignments of mortgages conveying an interest in a documented vessel are ineligible for filing and recording unless accompanied by a declaration of citizenship, except as provided in paragraph (c) and (d) of this section. 
 
-(b) Citizenship declarations must be executed on the form prescribed by the Maritime Administration in 46 CFR part 221. These forms are available from the National Vessel Documentation Center and from the Vessel Transfer and Disposal Officer (MAR-745.1), Maritime Administration, United States Department of Transportation, Washington, DC 20590.
+(b) Citizenship declarations must be executed on the form prescribed by the Maritime Administration in 46 CFR part 221. These forms are available from the National Vessel Documentation Center and from the Vessel Transfer and Disposal Officer (MAR-745.1), Maritime Administration, United States Department of Transportation, Washington, DC 20590. 
 
-(c) The requirement for presentation of a citizenship declaration does not apply to a transaction conveying an interest in a vessel:
+(c) The requirement for presentation of a citizenship declaration does not apply to a transaction conveying an interest in a vessel: 
 
-(1) Described in 46 CFR 221.11(b)(1) (i) through (iv);
+(1) Described in 46 CFR 221.11(b)(1) (i) through (iv); 
 
-(2) To a person making application for documentation; or
+(2) To a person making application for documentation; or 
 
-(3) To an entity of the Federal Government of the United States or of a State or political subdivision thereof, or a corporate entity which is an agency of any such government or political subdivision.
+(3) To an entity of the Federal Government of the United States or of a State or political subdivision thereof, or a corporate entity which is an agency of any such government or political subdivision. 
 
-(d) The requirement for presentation of a citizenship declaration is waived when the instrument(s) presented for filing effects a transfer for which:
+(d) The requirement for presentation of a citizenship declaration is waived when the instrument(s) presented for filing effects a transfer for which: 
 
-(1) The Maritime Administration has given general approval in 46 CFR part 221; or
+(1) The Maritime Administration has given general approval in 46 CFR part 221; or 
 
-(2) Written approval of the Maritime Administrator has been obtained in accordance with 46 CFR part 221.
+(2) Written approval of the Maritime Administrator has been obtained in accordance with 46 CFR part 221. 
 
-(e) If the transfer of interest is one which requires written approval of the Maritime Administrator in accordance with rules in 46 CFR part 221, evidence of that approval must be presented for filing with the instrument effecting the transfer of interest.
+(e) If the transfer of interest is one which requires written approval of the Maritime Administrator in accordance with rules in 46 CFR part 221, evidence of that approval must be presented for filing with the instrument effecting the transfer of interest. 
 
 Note:
 

@@ -1,34 +1,36 @@
 ##### § 11.315 Requirements to qualify for an STCW endorsement as master of vessels of less than 500 GT (management level).
 
-(a) To qualify for an STCW endorsement as master, an applicant must—
+Link to an amendment published at 89 FR 93073, Nov. 25, 2024.
 
-(1) Provide evidence of 36 months of seagoing service as OICNW on vessels operating in oceans, near-coastal waters, and/or Great Lakes; however, this period may be reduced to not less than 24 months if not less than 12 months of such seagoing service has been served as chief mate. Service on inland waters, bays, or sounds that are navigable waters of the United States may be substituted for up to 50 percent of the total required service. Experience gained in the engine department may be creditable for up to 3 months of the service requirements;
+(a) To qualify for an STCW endorsement as master, an applicant must— 
 
-(2) Provide evidence of meeting the standard of competence specified in Section A-II/2 of the STCW Code (incorporated by reference, see § 11.102 of this part); and
+(1) Provide evidence of 36 months of seagoing service as OICNW on vessels operating in oceans, near-coastal waters, and/or Great Lakes; however, this period may be reduced to not less than 24 months if not less than 12 months of such seagoing service has been served as chief mate. Service on inland waters, bays, or sounds that are navigable waters of the United States may be substituted for up to 50 percent of the total required service. Experience gained in the engine department may be creditable for up to 3 months of the service requirements; 
 
-(3) Provide evidence of having satisfactorily completed approved training in the following subject areas:
+(2) Provide evidence of meeting the standard of competence specified in Section A-II/2 of the STCW Code (incorporated by reference, see § 11.102 of this part); and 
 
-(i) Search and rescue.
+(3) Provide evidence of having satisfactorily completed approved training in the following subject areas: 
 
-(ii) Management of medical care.
+(i) Search and rescue. 
 
-(iii) Leadership and managerial skills.
+(ii) Management of medical care. 
 
-(iv) ECDIS, if serving on a vessel with this equipment.
+(iii) Leadership and managerial skills. 
 
-(v) ARPA, if serving on a vessel with this equipment.
+(iv) ECDIS, if serving on a vessel with this equipment. 
 
-(vi) GMDSS, if serving on a vessel with this equipment.
+(v) ARPA, if serving on a vessel with this equipment. 
 
-(b) For a renewal of an STCW endorsement as master of vessels of less than 500 GT to be valid on or after January 1, 2017, each candidate must provide evidence of successful completion of approved training in the following:
+(vi) GMDSS, if serving on a vessel with this equipment. 
 
-(1) Leadership and managerial skills.
+(b) For a renewal of an STCW endorsement as master of vessels of less than 500 GT to be valid on or after January 1, 2017, each candidate must provide evidence of successful completion of approved training in the following: 
 
-(2) ECDIS, if serving on a vessel with this equipment.
+(1) Leadership and managerial skills. 
 
-(c) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-II/2 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the credential may include a corresponding limitation.
+(2) ECDIS, if serving on a vessel with this equipment. 
 
-(d) Seafarers with one of the following national officer endorsements are eligible to apply for this endorsement upon completion of the requirements in the following table:
+(c) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-II/2 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the credential may include a corresponding limitation. 
+
+(d) Seafarers with one of the following national officer endorsements are eligible to apply for this endorsement upon completion of the requirements in the following table: 
 
 Table 1 to § 11.315(d)—STCW Endorsement as Master of Vessels of Less Than 500 GT
 | Entry path from national endorsements                                                                                             | Sea service under authority of the endorsement 1 | Competence—STCW Table A-II/2 2 | Training required by this section 3 |

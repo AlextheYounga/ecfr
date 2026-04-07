@@ -1,20 +1,20 @@
 ##### § 97.05-5 Charts and nautical publications.
 
-As appropriate for the intended voyage, all vessels except barges, vessels operating exclusively on rivers, and motorboats other than those certificated for ocean or coastwise route, must carry adequate and up-to-date—
+As appropriate for the intended voyage, all vessels except barges, vessels operating exclusively on rivers, and motorboats other than those certificated for ocean or coastwise route, must carry adequate and up-to-date— 
 
-(a) Charts;
+(a) Charts; 
 
-(b) Sailing directions;
+(b) Sailing directions; 
 
-(c) Coast pilots;
+(c) Coast pilots; 
 
-(d) Light lists;
+(d) Light lists; 
 
-(e) Notices to mariners;
+(e) Notices to mariners; 
 
-(f) Tide tables;
+(f) Tide tables; 
 
-(g) Current tables; and
+(g) Current tables; and 
 
 (h) All other nautical publications necessary. 1
 

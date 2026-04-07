@@ -1,61 +1,63 @@
 ##### § 10.403 General standards.
 
-(a) Each school with an approved course must—
+Link to an amendment published at 89 FR 93067, Nov. 25, 2024.
 
-(1) Have a well-maintained facility that accommodates the students in a safe and comfortable environment conducive to learning;
+(a) Each school with an approved course must— 
 
-(2) Have the necessary equipment, including simulators where appropriate, sufficient for the number of students to be accommodated, and support the objectives of the course;
+(1) Have a well-maintained facility that accommodates the students in a safe and comfortable environment conducive to learning; 
 
-(3) Administer training entirely in the English language unless specifically approved to be presented in another language;
+(2) Have the necessary equipment, including simulators where appropriate, sufficient for the number of students to be accommodated, and support the objectives of the course; 
 
-(4) Administer written examinations to each student appropriate for the course material and the knowledge requirements of the position or endorsement for which the student is being trained. For a course approved to substitute for a Coast Guard-administered examination, the courses must be of such a degree of difficulty that a student who successfully completes them would most likely pass, on the first attempt, an examination prepared by the Coast Guard;
+(3) Administer training entirely in the English language unless specifically approved to be presented in another language; 
 
-(5) Require each student to successfully demonstrate practical skills appropriate for the course material and equal to the level of endorsement for which the course is approved;
+(4) Administer written examinations to each student appropriate for the course material and the knowledge requirements of the position or endorsement for which the student is being trained. For a course approved to substitute for a Coast Guard-administered examination, the courses must be of such a degree of difficulty that a student who successfully completes them would most likely pass, on the first attempt, an examination prepared by the Coast Guard; 
 
-(6) Effective March 24, 2014, keep physical or electronic copies of the following records for at least 5 years after the end of each student's completion or disenrollment from a course or program:
+(5) Require each student to successfully demonstrate practical skills appropriate for the course material and equal to the level of endorsement for which the course is approved; 
 
-(i) A copy of each student's examination scores.
+(6) Effective March 24, 2014, keep physical or electronic copies of the following records for at least 5 years after the end of each student's completion or disenrollment from a course or program: 
 
-(ii) A copy of each examination or, in the case of a practical test, a report of such test.
+(i) A copy of each student's examination scores. 
 
-(iii) A record of each student's classroom attendance.
+(ii) A copy of each examination or, in the case of a practical test, a report of such test. 
 
-(iv) A copy of each student's course completion certificate or program completion certificate, as appropriate.
+(iii) A record of each student's classroom attendance. 
 
-(v) A summary of changes or modification to the last course submittal.
+(iv) A copy of each student's course completion certificate or program completion certificate, as appropriate. 
 
-(vi) A list of all locations at which the training course was presented and the number of times it was presented at each location.
+(v) A summary of changes or modification to the last course submittal. 
 
-(vii) The name(s) of the instructor(s) who taught the course, which does not include lab assistants or other non-teaching assistants.
+(vi) A list of all locations at which the training course was presented and the number of times it was presented at each location. 
 
-(viii) The number of students who began the training.
+(vii) The name(s) of the instructor(s) who taught the course, which does not include lab assistants or other non-teaching assistants. 
 
-(ix) The number of students who successfully completed the training.
+(viii) The number of students who began the training. 
 
-(x) The number of students who were required to retest.
+(ix) The number of students who successfully completed the training. 
 
-(xi) The number of students who were required to retake the entire course.
+(x) The number of students who were required to retest. 
 
-(xii) The number of students who were required to retake a portion of the course;
+(xi) The number of students who were required to retake the entire course. 
 
-(7) Not significantly change its approved curriculum without approval from the NMC as specified in § 10.402(e) of this subpart;
+(xii) The number of students who were required to retake a portion of the course; 
 
-(8) Conduct an internal audit midway through the term of the course's approval and maintain the results of the audit for a period of not less than 5 years. The audit will evaluate whether—
+(7) Not significantly change its approved curriculum without approval from the NMC as specified in § 10.402(e) of this subpart; 
 
-(i) Records are being maintained according to these regulations;
+(8) Conduct an internal audit midway through the term of the course's approval and maintain the results of the audit for a period of not less than 5 years. The audit will evaluate whether— 
 
-(ii) The course is being presented in accordance with the approval letter; and
+(i) Records are being maintained according to these regulations; 
 
-(iii) Surveys from students indicate that the course is meeting their needs; and
+(ii) The course is being presented in accordance with the approval letter; and 
 
-(9) At any time, allow the Coast Guard to—
+(iii) Surveys from students indicate that the course is meeting their needs; and 
 
-(i) Inspect its facilities, equipment, and records, including scholastic records;
+(9) At any time, allow the Coast Guard to— 
 
-(ii) Conduct interviews and surveys of students to aid in course evaluation and improvement;
+(i) Inspect its facilities, equipment, and records, including scholastic records; 
 
-(iii) Assign personnel to observe or participate in the course of instruction; and
+(ii) Conduct interviews and surveys of students to aid in course evaluation and improvement; 
 
-(iv) Supervise or administer the required examinations or practical demonstrations, including the substitution of an applicable Coast Guard examination in a course approved to substitute for a Coast Guard administered examination.
+(iii) Assign personnel to observe or participate in the course of instruction; and 
+
+(iv) Supervise or administer the required examinations or practical demonstrations, including the substitution of an applicable Coast Guard examination in a course approved to substitute for a Coast Guard administered examination. 
 
 (b) \[Reserved\]

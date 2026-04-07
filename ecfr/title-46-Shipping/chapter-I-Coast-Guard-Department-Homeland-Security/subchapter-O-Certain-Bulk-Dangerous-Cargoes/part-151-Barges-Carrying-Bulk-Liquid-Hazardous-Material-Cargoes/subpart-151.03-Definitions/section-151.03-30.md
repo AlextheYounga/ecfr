@@ -1,12 +1,12 @@
 ##### § 151.03-30 Hazardous material.
 
-In this part *hazardous material* means a liquid material or substance that is—
+In this part *hazardous material* means a liquid material or substance that is— 
 
-(a) Flammable or combustible;
+(a) Flammable or combustible; 
 
-(b) Designated a hazardous substance under section 311(b) of the Federal Water Pollution Control Act (33 U.S.C. 1321); or
+(b) Designated a hazardous substance under section 311(b) of the Federal Water Pollution Control Act (33 U.S.C. 1321); or 
 
-(c) Designated a hazardous material under 49 U.S.C. 5103.
+(c) Designated a hazardous material under 49 U.S.C. 5103. 
 
 Note:
 

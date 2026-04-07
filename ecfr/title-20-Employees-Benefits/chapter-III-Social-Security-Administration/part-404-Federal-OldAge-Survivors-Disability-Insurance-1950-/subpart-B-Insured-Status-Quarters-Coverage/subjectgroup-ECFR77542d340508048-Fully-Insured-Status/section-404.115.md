@@ -1,6 +1,6 @@
 ##### § 404.115 Table for determining the quarters of coverage you need to be fully insured.
 
-(a) *General.* You may use the following table to determine the number of quarters of coverage (QCs) you need to be fully insured under § 404.110. Paragraphs (b) and (c) of this section tell you how to use this table.
+(a) *General.* You may use the following table to determine the number of quarters of coverage (QCs) you need to be fully insured under § 404.110. Paragraphs (b) and (c) of this section tell you how to use this table. 
 
 | Worker who reaches retirement age as described in § 404.110(b)(2)                                                  | Worker who dies before reaching retirement age as described in § 404.110(b)(2) |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
@@ -50,10 +50,10 @@
 | 6 Or younger.                                                                                                      |                                                                                |
 | 7 Or later.                                                                                                        |                                                                                |
 
-(b) *Number of QCs you need.* The QCs you need for fully insured status are in column II opposite your date of birth in column I. If a worker dies before reaching retirement age as described in § 404.110(b)(2), the QCs needed for fully insured status are shown in column IV opposite—
+(b) *Number of QCs you need.* The QCs you need for fully insured status are in column II opposite your date of birth in column I. If a worker dies before reaching retirement age as described in § 404.110(b)(2), the QCs needed for fully insured status are shown in column IV opposite— 
 
-(1) The year of death in column III, if the worker was born before January 2, 1930; or
+(1) The year of death in column III, if the worker was born before January 2, 1930; or 
 
-(2) The age in the year of death in column V, if the worker was born after January 1, 1930.
+(2) The age in the year of death in column V, if the worker was born after January 1, 1930. 
 
 (c) *How a period of disability affects the number of QCs you need.* If you had a period of disability established for you, it affects the number of QCs you need to be fully insured (see § 404.110(c)). For each year which is wholly or partly in a period of disability, subtract one QC from the number of QCs shown in the appropriate line and column of the table as explained in paragraph (b) of this section.

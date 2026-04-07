@@ -1,20 +1,20 @@
 ##### § 160.005-1 Incorporation by reference.
 
-(a) *Specifications and Standards.* This subpart makes reference to the following documents:
+(a) *Specifications and Standards.* This subpart makes reference to the following documents: 
 
-(1) Federal Specification:
+(1) Federal Specification: 
 
 L-P-375C—Plastic Film, Flexible, Vinyl Chloride.
 
-(2) Federal Standards:
+(2) Federal Standards: 
 
 No. 191—Textile Test Methods. No. 751A—Stitches, Seams, and Stitchings.
 
-(3) Military Specification:
+(3) Military Specification: 
 
 MIL-W-530F—Webbing, Textiles, Cotton, General Purpose, Natural and in colors. MIL-R-2766B—Batt, Fibrous Glass, Lifesaving Equipment.
 
-(b) *Plans.* The following plans, of the issue in effect on the date life preservers are manufactured, form a part of this subpart:
+(b) *Plans.* The following plans, of the issue in effect on the date life preservers are manufactured, form a part of this subpart: 
 
 Dwg. No. 160.005-1: (Sheet 1) Cutting Pattern and General Arrangement (Adult). (Sheet 2) Alternate Stitching of Tapes and Webbing (Adult and Child). (Sheet 3) Pad Detail (Adult). (Sheet 4) Cutting Pattern and General Arrangement (Child). (Sheet 5) Pad Detail (Child).
 

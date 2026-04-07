@@ -1,6 +1,6 @@
 ##### § 28.165 Injury placard.
 
-Each vessel must have posted in a highly visible location accessible to the crew a placard measuring at least 5 inches by 7 inches (127 millimeters by 178 millimeters) which reads:
+Each vessel must have posted in a highly visible location accessible to the crew a placard measuring at least 5 inches by 7 inches (127 millimeters by 178 millimeters) which reads: 
 
 Notice Report All Injuries
 

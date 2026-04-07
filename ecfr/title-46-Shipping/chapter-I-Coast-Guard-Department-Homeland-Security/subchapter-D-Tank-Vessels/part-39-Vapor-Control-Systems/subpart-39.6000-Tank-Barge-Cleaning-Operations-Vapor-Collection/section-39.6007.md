@@ -1,34 +1,34 @@
 ##### § 39.6007 Operational requirements for tank barge cleaning—B/ALL.
 
-(a) During cleaning operations, vapors from a tank barge cannot be transferred to a cleaning facility which does not have a marine vapor control system (VCS) certified by a certifying entity, and its facility operations manual endorsed by the Captain of the Port (COTP) as meeting the requirements of 33 CFR part 154, subpart P.
+(a) During cleaning operations, vapors from a tank barge cannot be transferred to a cleaning facility which does not have a marine vapor control system (VCS) certified by a certifying entity, and its facility operations manual endorsed by the Captain of the Port (COTP) as meeting the requirements of 33 CFR part 154, subpart P. 
 
-(b) Prior to commencing stripping operations, the maximum allowable stripping rate must be determined. The maximum allowable stripping rate must not exceed the volumetric flow capacity of the vacuum relief valve protecting the cargo tank.
+(b) Prior to commencing stripping operations, the maximum allowable stripping rate must be determined. The maximum allowable stripping rate must not exceed the volumetric flow capacity of the vacuum relief valve protecting the cargo tank. 
 
-(c) The maximum gas-freeing rate is determined by the following:
+(c) The maximum gas-freeing rate is determined by the following: 
 
-(1) For a vacuum displacement system—
+(1) For a vacuum displacement system— 
 
-(i) The maximum allowable gas-freeing rate is a function of the area open to the atmosphere for the cargo tank being gas-freed. The area open to the atmosphere must be large enough to maintain the pressure in the cargo tank being gas-freed at or above 14.5 pounds per square inch absolute (psia) (−0.2 pounds per square inch gauge (psig));
+(i) The maximum allowable gas-freeing rate is a function of the area open to the atmosphere for the cargo tank being gas-freed. The area open to the atmosphere must be large enough to maintain the pressure in the cargo tank being gas-freed at or above 14.5 pounds per square inch absolute (psia) (−0.2 pounds per square inch gauge (psig)); 
 
-(ii) The maximum allowable gas-freeing rate must be calculated from Table 1 of this section, using the area open to the atmosphere for the cargo tank being gas-freed as the entering determination;
+(ii) The maximum allowable gas-freeing rate must be calculated from Table 1 of this section, using the area open to the atmosphere for the cargo tank being gas-freed as the entering determination; 
 
-(2) For a fluid displacement system, the maximum allowable gas-freeing rate is determined by the lesser of the following:
+(2) For a fluid displacement system, the maximum allowable gas-freeing rate is determined by the lesser of the following: 
 
-(i) Eighty percent of the total venting capacity of the pressure relief valve in the cargo tank venting system when relieving at its set pressure;
+(i) Eighty percent of the total venting capacity of the pressure relief valve in the cargo tank venting system when relieving at its set pressure; 
 
-(ii) Eighty percent of the total vacuum relieving capacity of the vacuum relief valve in the cargo tank venting system when relieving at its set pressure; or
+(ii) Eighty percent of the total vacuum relieving capacity of the vacuum relief valve in the cargo tank venting system when relieving at its set pressure; or 
 
-(iii) The rate based on pressure drop calculations at which, for a given pressure at the facility vapor connection, the pressure in the cargo tank being gas-freed exceeds 80 percent of the setting of any pressure relief valve in the cargo tank venting system.
+(iii) The rate based on pressure drop calculations at which, for a given pressure at the facility vapor connection, the pressure in the cargo tank being gas-freed exceeds 80 percent of the setting of any pressure relief valve in the cargo tank venting system. 
 
-(d) Any hatch and/or fitting used to calculate the minimum area required to be open to the atmosphere must be opened and secured in such a manner as to prevent accidental closure during gas freeing. All flame screens for the hatch and/or fitting opened must be removed in order to allow for maximum airflow. The hatch and/or fitting must be secured open before the pressure in the cargo tank falls below 10 percent of the highest setting of any of the barge's vacuum relief valves.
+(d) Any hatch and/or fitting used to calculate the minimum area required to be open to the atmosphere must be opened and secured in such a manner as to prevent accidental closure during gas freeing. All flame screens for the hatch and/or fitting opened must be removed in order to allow for maximum airflow. The hatch and/or fitting must be secured open before the pressure in the cargo tank falls below 10 percent of the highest setting of any of the barge's vacuum relief valves. 
 
-(e) “Do Not Close Hatch/Fitting” signs must be conspicuously posted near the hatch and/or fitting opened during gas-freeing operations.
+(e) “Do Not Close Hatch/Fitting” signs must be conspicuously posted near the hatch and/or fitting opened during gas-freeing operations. 
 
-(f) To minimize the dangers of static electricity, all equipment used on the barge during gas-freeing and cleaning operations must be electrically bonded to the barge and tested to ensure electrical continuity before each use.
+(f) To minimize the dangers of static electricity, all equipment used on the barge during gas-freeing and cleaning operations must be electrically bonded to the barge and tested to ensure electrical continuity before each use. 
 
-(g) If the barge is equipped with an inert gas system, the inert gas main isolation valve must remain closed during cleaning operations.
+(g) If the barge is equipped with an inert gas system, the inert gas main isolation valve must remain closed during cleaning operations. 
 
-(h) Vapors from incompatible cargoes that are collected simultaneously must be kept separated throughout the barge's entire vapor collection system. Chemical compatibility must be determined in accordance with the procedures contained in 46 CFR part 150, part A.
+(h) Vapors from incompatible cargoes that are collected simultaneously must be kept separated throughout the barge's entire vapor collection system. Chemical compatibility must be determined in accordance with the procedures contained in 46 CFR part 150, part A. 
 
 Table 1—Minimum Open Area for Barge Cleaning Hatches
 | Air flow (CFM)   (cubic feet/minute) | Air flow (CFS)   (cubic feet/   second) | Open area   (square inches) | Diameter   opening   (inches) | Square opening   (inches) |

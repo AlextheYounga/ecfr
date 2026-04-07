@@ -1,6 +1,6 @@
 ##### § 164.023-5 Performance; standard thread.
 
-(a) *Use Codes 1, 2, 3, 4BC, 4RB, 5 (any).* Each thread which complies with all of the requirements of a specification listed in table 164.023-5(a) is assigned Use Codes 1, 2, 3, 4BC, 4RB, and 5 (any).
+(a) *Use Codes 1, 2, 3, 4BC, 4RB, 5 (any).* Each thread which complies with all of the requirements of a specification listed in table 164.023-5(a) is assigned Use Codes 1, 2, 3, 4BC, 4RB, and 5 (any). 
 
 Table 164.023-5(a)
 

@@ -4,8 +4,8 @@
 
 (b) International Maritime Organization (IMO) Publishing, 4 Albert Embankment, London SE1 7SR, United Kingdom, +44 (0)20 7735 7611, *http://www.imo.org.*
 
-(1) 2010 FTP Code, International Code for Application of Fire Test Procedures, 2010 (Resolution MSC.307(88)), 2012 Edition (“FTP Code”), IBR approved for § 164.137-3(a).
+(1) 2010 FTP Code, International Code for Application of Fire Test Procedures, 2010 (Resolution MSC.307(88)), 2012 Edition (“FTP Code”), IBR approved for § 164.137-3(a). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 \[USCG-2012-0196, 81 FR 48287, July 22, 2016, as amended by USCG-2020-0519, 89 FR 76705, Sept. 18, 2024\]

@@ -1,10 +1,10 @@
 ##### § 67.15 Form of document—all endorsements.
 
-(a) The form of document is a Certificate of Documentation, form CG-1270.
+(a) The form of document is a Certificate of Documentation, form CG-1270. 
 
-(b) Upon application in accordance with subpart K of this part and determination of qualification by the Director, National Vessel Documentation Center, a Certificate of Documentation may be issued with a registry, coastwise, fishery, or recreational endorsement.
+(b) Upon application in accordance with subpart K of this part and determination of qualification by the Director, National Vessel Documentation Center, a Certificate of Documentation may be issued with a registry, coastwise, fishery, or recreational endorsement. 
 
-(c) A Certificate of Documentation may bear simultaneous endorsements for recreation and more than one trade, including operation under 46 CFR part 68.
+(c) A Certificate of Documentation may bear simultaneous endorsements for recreation and more than one trade, including operation under 46 CFR part 68. 
 
 Note:
 

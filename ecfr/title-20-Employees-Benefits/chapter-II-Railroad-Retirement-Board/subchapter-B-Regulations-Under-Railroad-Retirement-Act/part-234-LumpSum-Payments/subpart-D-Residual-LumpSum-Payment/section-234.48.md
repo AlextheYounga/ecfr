@@ -1,6 +1,6 @@
 ##### § 234.48 Computation of the gross RLS amount.
 
-The amount of the gross RLS is equal to the percentages of the employee's creditable compensation shown in Table I. However, compensation may only be credited up to the maximum amounts shown in Table II.
+The amount of the gross RLS is equal to the percentages of the employee's creditable compensation shown in Table I. However, compensation may only be credited up to the maximum amounts shown in Table II. 
 
 (a) *Percentages of the employee's creditable compensation and the periods to which those percentages apply:*
 

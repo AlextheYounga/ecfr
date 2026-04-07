@@ -1,16 +1,16 @@
 ##### § 62.25-10 Manual alternate control systems.
 
-(a) Manual alternate control systems must—
+(a) Manual alternate control systems must— 
 
-(1) Be operable in an emergency and after a remote or automatic primary control system failure;
+(1) Be operable in an emergency and after a remote or automatic primary control system failure; 
 
-(2) Be suitable for manual control for prolonged periods;
+(2) Be suitable for manual control for prolonged periods; 
 
-(3) Be readily accessible and operable; and
+(3) Be readily accessible and operable; and 
 
-(4) Include means to override automatic controls and interlocks, as applicable.
+(4) Include means to override automatic controls and interlocks, as applicable. 
 
-(b) Permanent communications must be provided between primary remote control locations and manual alternate control locations if operator attendance is necessary to maintain safe alternate control.
+(b) Permanent communications must be provided between primary remote control locations and manual alternate control locations if operator attendance is necessary to maintain safe alternate control. 
 
 Note 1 to paragraph (b):
 

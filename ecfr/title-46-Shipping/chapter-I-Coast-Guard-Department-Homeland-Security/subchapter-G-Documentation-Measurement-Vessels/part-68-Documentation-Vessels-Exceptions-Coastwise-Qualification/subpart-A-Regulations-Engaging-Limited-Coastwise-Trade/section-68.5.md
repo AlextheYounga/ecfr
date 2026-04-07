@@ -1,18 +1,18 @@
 ##### § 68.5 Requirements for citizenship under 46 U.S.C. App. 883-1.
 
-A corporation seeking to establish its citizenship under the Act of September 2, 1958 (46 U.S.C. App. 883-1) must meet the following criteria as specified in the Act:
+A corporation seeking to establish its citizenship under the Act of September 2, 1958 (46 U.S.C. App. 883-1) must meet the following criteria as specified in the Act: 
 
-(a) It must be incorporated under the laws of the United States, or any state, territory, district, or possession of the United States;
+(a) It must be incorporated under the laws of the United States, or any state, territory, district, or possession of the United States; 
 
-(b) A majority of the officers and directors of the corporation must be citizens of the United States;
+(b) A majority of the officers and directors of the corporation must be citizens of the United States; 
 
-(c) Not less than 90 percent of the employees of the corporation must be residents of the United States;
+(c) Not less than 90 percent of the employees of the corporation must be residents of the United States; 
 
-(d) Such corporation must be engaged primarily in a manufacturing or mineral industry in the United States or any territory, district, or possession of the United States;
+(d) Such corporation must be engaged primarily in a manufacturing or mineral industry in the United States or any territory, district, or possession of the United States; 
 
-(e) The aggregate book value of the vessels owned by the corporation must not exceed 10 percent of the aggregate book value of the assets of the corporation; and
+(e) The aggregate book value of the vessels owned by the corporation must not exceed 10 percent of the aggregate book value of the assets of the corporation; and 
 
-(f) The corporation must purchase or produce in the United States, its territories or possessions, not less than 75 percent of the raw materials used or sold in its operations.
+(f) The corporation must purchase or produce in the United States, its territories or possessions, not less than 75 percent of the raw materials used or sold in its operations. 
 
 Note:
 

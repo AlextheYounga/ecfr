@@ -1,18 +1,18 @@
 ##### § 30.25-1 Cargoes carried in vessels certificated under the rules of this subchapter.
 
-(a) Table 30.25-1 lists flammable or combustible cargoes that, when transported in bulk, must be in vessels certificated under this subchapter D.
+(a) Table 30.25-1 lists flammable or combustible cargoes that, when transported in bulk, must be in vessels certificated under this subchapter D. 
 
-(b) A mixture or blend of two or more cargoes appearing in Table 30.25-1 may be transported under this subchapter D.
+(b) A mixture or blend of two or more cargoes appearing in Table 30.25-1 may be transported under this subchapter D. 
 
-(c) A mixture or blend of one or more cargoes appearing in Table 30.25-1 and one or more cargoes appearing in Table 2, 46 CFR part 153, may be carried under this subchapter D if the mixture is flammable or combustible.
+(c) A mixture or blend of one or more cargoes appearing in Table 30.25-1 and one or more cargoes appearing in Table 2, 46 CFR part 153, may be carried under this subchapter D if the mixture is flammable or combustible. 
 
-(d) Any mixture containing one or more cargoes categorized by the International Maritime Organization (IMO) and listed in Table 30.25-1 as a category X, Y, or Z noxious liquid substance (NLS) may be carried in bulk—
+(d) Any mixture containing one or more cargoes categorized by the International Maritime Organization (IMO) and listed in Table 30.25-1 as a category X, Y, or Z noxious liquid substance (NLS) may be carried in bulk— 
 
-(1) Under this subchapter D if the vessel is not regulated under 46 CFR part 153;
+(1) Under this subchapter D if the vessel is not regulated under 46 CFR part 153; 
 
-(2) Under part 153 if the vessel is regulated under that part; or alternatively under 33 CFR part 151 if the cargo is listed in 33 CFR 151.49; or
+(2) Under part 153 if the vessel is regulated under that part; or alternatively under 33 CFR part 151 if the cargo is listed in 33 CFR 151.49; or 
 
-(3) Under 33 CFR part 151 if the cargo is listed in 33 CFR 151.47.
+(3) Under 33 CFR part 151 if the cargo is listed in 33 CFR 151.47. 
 
 Table 30.25-1—List of Flammable and Combustible Bulk Liquid Cargoes
 

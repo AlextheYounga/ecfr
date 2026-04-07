@@ -4,8 +4,8 @@
 
 (b) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169, 617-770-3000, *http://www.nfpa.org.*
 
-(1) NFPA 10, Standard for Portable Fire Extinguishers, 2010 Edition, effective December 5, 2009, IBR approved for § 189.25-20(a).
+(1) NFPA 10, Standard for Portable Fire Extinguishers, 2010 Edition, effective December 5, 2009, IBR approved for § 189.25-20(a). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 \[USCG-2012-0196, 81 FR 48301, July 22, 2016\]

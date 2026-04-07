@@ -1,6 +1,6 @@
 ##### § 45.119 Freeing port area: Changes from standard sheer.
 
-The freeing port area required by § 45.117(b) must be multiplied by the factor in the following table 5 if the sheer differs from the standard sheer defined in § 45.63. table 4.
+The freeing port area required by § 45.117(b) must be multiplied by the factor in the following table 5 if the sheer differs from the standard sheer defined in § 45.63. table 4. 
 
 Table 5
 

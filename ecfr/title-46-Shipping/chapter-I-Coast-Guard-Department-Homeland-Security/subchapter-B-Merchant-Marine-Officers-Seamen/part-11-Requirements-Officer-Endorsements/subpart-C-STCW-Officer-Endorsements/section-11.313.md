@@ -1,40 +1,42 @@
 ##### § 11.313 Requirements to qualify for an STCW endorsement as chief mate of vessels of 500 GT or more and less than 3,000 GT (management level).
 
-(a) To qualify for an STCW endorsement as chief mate, an applicant must—
+Link to an amendment published at 89 FR 93072, Nov. 25, 2024.
 
-(1) Provide evidence of 12 months of service as OICNW on vessels operating in oceans, near-coastal waters, and/or Great Lakes. Service on inland waters, bays, or sounds that are navigable waters of the United States may be substituted for up to 50 percent of the total required service. Experience gained in the engine department on vessels may be creditable for up to 1 month of the service requirements;
+(a) To qualify for an STCW endorsement as chief mate, an applicant must— 
 
-(2) Provide evidence of meeting the standard of competence specified in Section A-II/2 of the STCW Code (incorporated by reference, see § 11.102 of this part); and
+(1) Provide evidence of 12 months of service as OICNW on vessels operating in oceans, near-coastal waters, and/or Great Lakes. Service on inland waters, bays, or sounds that are navigable waters of the United States may be substituted for up to 50 percent of the total required service. Experience gained in the engine department on vessels may be creditable for up to 1 month of the service requirements; 
 
-(3) Provide evidence of having satisfactorily completed approved training in the following subject areas:
+(2) Provide evidence of meeting the standard of competence specified in Section A-II/2 of the STCW Code (incorporated by reference, see § 11.102 of this part); and 
 
-(i) Advanced ship handling.
+(3) Provide evidence of having satisfactorily completed approved training in the following subject areas: 
 
-(ii) Advanced stability.
+(i) Advanced ship handling. 
 
-(iii) Advanced meteorology.
+(ii) Advanced stability. 
 
-(iv) Leadership and managerial skills.
+(iii) Advanced meteorology. 
 
-(v) Search and rescue.
+(iv) Leadership and managerial skills. 
 
-(vi) Management of medical care.
+(v) Search and rescue. 
 
-(vii) ECDIS, if serving on a vessel with this equipment.
+(vi) Management of medical care. 
 
-(viii) ARPA, if serving on a vessel with this equipment.
+(vii) ECDIS, if serving on a vessel with this equipment. 
 
-(ix) GMDSS, if serving on a vessel with this equipment.
+(viii) ARPA, if serving on a vessel with this equipment. 
 
-(b) For a renewal of an STCW endorsement as chief mate of vessels of 500 GT or more and less than 3,000 GT to be valid on or after January 1, 2017, each candidate must provide evidence of successful completion of approved training in the following:
+(ix) GMDSS, if serving on a vessel with this equipment. 
 
-(1) Leadership and managerial skills.
+(b) For a renewal of an STCW endorsement as chief mate of vessels of 500 GT or more and less than 3,000 GT to be valid on or after January 1, 2017, each candidate must provide evidence of successful completion of approved training in the following: 
 
-(2) ECDIS, if serving on a vessel with this equipment.
+(1) Leadership and managerial skills. 
 
-(c) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-II/2 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the credential may include a corresponding limitation.
+(2) ECDIS, if serving on a vessel with this equipment. 
 
-(d) Seafarers with one of the following national officer endorsements are eligible to apply for this endorsement upon completion of the requirements in the following table:
+(c) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-II/2 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the credential may include a corresponding limitation. 
+
+(d) Seafarers with one of the following national officer endorsements are eligible to apply for this endorsement upon completion of the requirements in the following table: 
 
 Table 1 to § 11.313(d)—STCW Endorsement as Chief Mate of Vessels of 500 GT or More and Less Than 3,000 GT
 | Entry path from national endorsements                                                                                             | Sea service under authority of the endorsement 1 | Competence—STCW Table A-II/2 2 | Training required by this   section 3 |

@@ -1,10 +1,10 @@
 ##### § 160.053-1 Applicable specifications.
 
-(a) *Specification.* The following specification of the issue in effect on the date unicellular plastic foam work vests are manufactured, form a part of this subpart:
+(a) *Specification.* The following specification of the issue in effect on the date unicellular plastic foam work vests are manufactured, form a part of this subpart: 
 
-(1) Military specification: MIL-L-17653A—Life Preserver, Vest, Work Type, Unicellular Plastic.
+(1) Military specification: MIL-L-17653A—Life Preserver, Vest, Work Type, Unicellular Plastic. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 (b) *Copies on file.* Copies of the specification referred to in this section, as well as the various specifications forming a part thereof, shall be kept on file by the manufacturer, together with the certificate of approval. They shall be kept for a period consisting of the duration of approval and 6 months after termination of approval. Federal specifications may be purchased from the General Services Administration, Federal Acquisition Service, Office of the FAS Commissioner, 2200 Crystal Drive, 11th Floor, Arlington, VA 22202, 703-605-5400. Military specifications may be obtained from the Military Specifications and Standards, Standardization Documents Order Desk, Building 4D, 700 Robbins Avenue, Philadelphia, PA 19111-5094, *https://assist.daps.dla.mil/quicksearch/.*
 

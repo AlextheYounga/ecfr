@@ -1,10 +1,10 @@
 ##### § 108.233 Location and size.
 
-(a) Each helicopter deck must be—
+(a) Each helicopter deck must be— 
 
-(1) At least the size of the rotor diameter of the largest single main rotor helicopter that will be used on the facility; or
+(1) At least the size of the rotor diameter of the largest single main rotor helicopter that will be used on the facility; or 
 
-(2) If tandem main rotor helicopters use the facility, at least of a size to provide a longitudinal axis of 9/10 the overall length of the helicopter, and a width of 3/4 of the overall length of the helicopter.
+(2) If tandem main rotor helicopters use the facility, at least of a size to provide a longitudinal axis of 9/10 the overall length of the helicopter, and a width of 3/4 of the overall length of the helicopter. 
 
 Note:
 

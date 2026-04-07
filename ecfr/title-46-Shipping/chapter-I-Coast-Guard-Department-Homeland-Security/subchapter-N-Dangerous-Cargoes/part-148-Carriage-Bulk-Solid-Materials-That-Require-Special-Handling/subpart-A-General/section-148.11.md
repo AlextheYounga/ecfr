@@ -1,8 +1,8 @@
 ##### § 148.11 Hazardous or potentially dangerous characteristics.
 
-(a) General. When Column 5 refers to a code for a hazardous material or PDM, the meaning of that code is set forth in this section.
+(a) General. When Column 5 refers to a code for a hazardous material or PDM, the meaning of that code is set forth in this section. 
 
-(b) Table of Hazardous or Potentially Dangerous Characteristics.
+(b) Table of Hazardous or Potentially Dangerous Characteristics. 
 
 | Code | Hazardous or potentially dangerous characteristic                                                                                                                                                                                                 |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

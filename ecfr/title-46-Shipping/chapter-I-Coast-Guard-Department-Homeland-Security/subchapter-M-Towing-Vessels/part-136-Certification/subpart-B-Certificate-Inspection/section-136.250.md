@@ -1,6 +1,6 @@
 ##### § 136.250 Load lines.
 
-Vessels described in Table 136.250 of this section that operate on the Great Lakes or outside the Boundary Lines, as set forth in 46 CFR part 7, are subject to load line requirements in subchapter E of this chapter in the following circumstances:
+Vessels described in Table 136.250 of this section that operate on the Great Lakes or outside the Boundary Lines, as set forth in 46 CFR part 7, are subject to load line requirements in subchapter E of this chapter in the following circumstances: 
 
 Table 136.250
 | A vessel that—                     | Is subject to load line requirements in subchapter E of this chapter if it is—                     |

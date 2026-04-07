@@ -1,6 +1,6 @@
 ##### § 113.05-5 Approved equipment.
 
-If approved equipment is required in this part, that equipment must be specifically approved by the Commandant.
+If approved equipment is required in this part, that equipment must be specifically approved by the Commandant. 
 
 Note:
 

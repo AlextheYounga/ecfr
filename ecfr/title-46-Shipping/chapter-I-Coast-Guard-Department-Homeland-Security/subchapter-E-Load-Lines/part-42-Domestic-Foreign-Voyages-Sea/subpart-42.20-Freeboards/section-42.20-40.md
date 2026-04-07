@@ -1,6 +1,6 @@
 ##### § 42.20-40 Standard height of superstructure.
 
-(a) The standard height of a superstructure shall be as given in table 42.20-40(a):
+(a) The standard height of a superstructure shall be as given in table 42.20-40(a): 
 
 Table 42.20-40(a) Standard Heights (in Feet) 1
 | Length (L) (in feet)                                                                                    | Raised quarter deck | All other super structures |

@@ -1,24 +1,26 @@
 ##### § 12.607 Requirements to qualify for an STCW endorsement as rating as able seafarer-engine.
 
-(a) To qualify for an STCW endorsement as an able seafarer-engine, an applicant must—
+Link to an amendment published at 89 FR 93104, Nov. 25, 2024.
 
-(1) Be not less than 18 years of age;
+(a) To qualify for an STCW endorsement as an able seafarer-engine, an applicant must— 
 
-(2) Meet the requirements for certification as a ratings forming part of an engineering watch (RFPEW);
+(1) Be not less than 18 years of age; 
 
-(3) While qualified as an RFPEW, have seagoing service in the engine department of—
+(2) Meet the requirements for certification as a ratings forming part of an engineering watch (RFPEW); 
 
-(i) Not less than 12 months; or
+(3) While qualified as an RFPEW, have seagoing service in the engine department of— 
 
-(ii) Not less than 6 months and have completed approved training; and
+(i) Not less than 12 months; or 
 
-(4) Provide evidence of meeting the standard of competence specified in Table A-III/5 of the STCW Code (incorporated by reference, see § 12.103 of this part).
+(ii) Not less than 6 months and have completed approved training; and 
 
-(b) Seafarers holding a rating endorsement as QMED, junior engineer, electrician or electrician/refrigerating engineer, pumpman or pumpman/machinist, refrigerating engineer, or machinist before January 1, 2017, will be eligible for this endorsement upon showing evidence of holding an endorsement as an RFPEW.
+(4) Provide evidence of meeting the standard of competence specified in Table A-III/5 of the STCW Code (incorporated by reference, see § 12.103 of this part). 
 
-(c) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-III/5 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the endorsement may include a corresponding limitation.
+(b) Seafarers holding a rating endorsement as QMED, junior engineer, electrician or electrician/refrigerating engineer, pumpman or pumpman/machinist, refrigerating engineer, or machinist before January 1, 2017, will be eligible for this endorsement upon showing evidence of holding an endorsement as an RFPEW. 
 
-(d) Except as provided in paragraph (b) of this section, seafarers with the following national rating endorsements will be eligible for this endorsement upon completion of requirements designated in this section:
+(c) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-III/5 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the endorsement may include a corresponding limitation. 
+
+(d) Except as provided in paragraph (b) of this section, seafarers with the following national rating endorsements will be eligible for this endorsement upon completion of requirements designated in this section: 
 
 Table 1 to § 12.607(d)—STCW Endorsement as Able Seafarer-Engine
 | Domestic QMED   endorsement                                                                                  | Additional sea service for AS-E |

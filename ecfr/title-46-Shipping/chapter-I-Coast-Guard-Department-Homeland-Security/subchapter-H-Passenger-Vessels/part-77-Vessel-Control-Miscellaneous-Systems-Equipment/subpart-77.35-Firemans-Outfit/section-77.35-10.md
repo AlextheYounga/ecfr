@@ -1,8 +1,8 @@
 ##### § 77.35-10 Fireman's outfit.
 
-(a) Each fireman's outfit must consist of one self-contained breathing apparatus, one lifeline with a belt or a suitable harness, one flashlight, one flame safety lamp, one rigid helmet, boots and gloves, protective clothing, and one fire ax. In lieu of the flame safety lamp, vessels may carry an oxygen depletion meter which is listed by a Coast Guard recognized independent laboratory as intrinsically safe.
+(a) Each fireman's outfit must consist of one self-contained breathing apparatus, one lifeline with a belt or a suitable harness, one flashlight, one flame safety lamp, one rigid helmet, boots and gloves, protective clothing, and one fire ax. In lieu of the flame safety lamp, vessels may carry an oxygen depletion meter which is listed by a Coast Guard recognized independent laboratory as intrinsically safe. 
 
-(b) The number of fireman's outfits required are as set forth in table 77.35-10(b).
+(b) The number of fireman's outfits required are as set forth in table 77.35-10(b). 
 
 Table 77.35-10(b)
 | Gross tonnage | Minimum number of fireman's outfits |

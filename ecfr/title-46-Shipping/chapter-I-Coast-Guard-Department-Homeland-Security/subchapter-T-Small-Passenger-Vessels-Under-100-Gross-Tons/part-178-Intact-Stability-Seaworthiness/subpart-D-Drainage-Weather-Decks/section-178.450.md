@@ -1,9 +1,9 @@
 ##### § 178.450 Calculation of drainage area for cockpit and well deck vessels.
 
-(a) The drainage area required on a vessel must be computed using the following formula:
+(a) The drainage area required on a vessel must be computed using the following formula: 
 
 For protected waters required drainage = .1 × Basic Drainage For partially protected waters required drainage = .5 × Basic Drainage For exposed waters required drainage = Basic Drainage where: Basic Drainage area in centimeters 2 = 4389.12 × \[(Recess Volume × Recess Ratio) + (Weather Deck Volume × Weather Deck Ratio)\]; or Basic Drainage area in inch 2 = (Recess Volume × Recess Ratio) + (Weather Deck Volume × Weather Deck Ratio) Recess Volume = (BR × DR) − VRBR = average height in centimeters (feet) of the bulwark above the well deck or cockpit deck; DR = total deck area of the cockpit or well deck in the after 2/3 of the vessel length (LOD) measured in centimeters 2 (feet 2). VR = volume of any weather tight structure below the bulwark of the well deck or cockpit deck.Recess Ratio = LR / LCLR = the length of the recess in the after 2/3 vessel length (LOD). LC\= 2/3 vessel length (LOD).Weather Deck Volume = (BD × DD) − VSBD = average height in centimeters (feet) of the bulwark above the weather deck; DD = total deck area of the weather deck adjacent to bulwarks but not in way of the cockpit or well deck in the after 2/3 of the vessel length (LOD) measured in centimenters 2 (feet 2). VS = volume of any weather tight superstructure below the bulwark on the weather deck located within DD.Weather Deck Ratio = LD / LCLD = the length of the weather deck bulwark in the after 2/3 of the vessel length (LOD). LC\= 2/3 vessel length (LOD).
 
-(b) Vessels with bulwarks in the forward part of the vessel shall not form a well with the deckhouse which retains water.
+(b) Vessels with bulwarks in the forward part of the vessel shall not form a well with the deckhouse which retains water. 
 
 \[CGD 85-080, 61 FR 966, Jan. 10, 1996; 61 FR 20557, May 7, 1996; USCG-2022-0323, 88 FR 10032, Feb. 16, 2023 \]

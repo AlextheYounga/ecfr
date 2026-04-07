@@ -1,8 +1,8 @@
 ##### § 28.20 OMB control numbers.
 
-(a) This section collects and displays the control numbers assigned to information collection and recordkeeping requirements in this part by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 *et seq.*). This section complies with the requirements of 44 U.S.C. 3507(f) which requires that agencies display a current control number assigned by the Director of the OMB for each approved agency information collection requirement.
+(a) This section collects and displays the control numbers assigned to information collection and recordkeeping requirements in this part by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 *et seq.*). This section complies with the requirements of 44 U.S.C. 3507(f) which requires that agencies display a current control number assigned by the Director of the OMB for each approved agency information collection requirement. 
 
-(b) Display.
+(b) Display. 
 
 | 46 CFR part or section where identified or described | Current OMB control No. |
 | ---------------------------------------------------- | ----------------------- |

@@ -1,30 +1,32 @@
 ##### § 11.333 Requirements to qualify for an STCW endorsement as second engineer officer on vessels powered by main propulsion machinery of 750kW/1,000 HP or more and less than 3,000 kW/4,000 HP propulsion power (management level).
 
-(a) To qualify for an STCW endorsement as second engineer officer, an applicant must—
+Link to an amendment published at 89 FR 93078, Nov. 25, 2024.
 
-(1) Provide evidence of meeting the requirements for certification as OICEW, as well as serving for not less than 12 months as assistant engineer officer or engineer officer on vessels powered by main propulsion machinery of not less than 750 kW/1,000 HP. Experience gained in the deck department may be creditable for up to 1 month of the total service requirements;
+(a) To qualify for an STCW endorsement as second engineer officer, an applicant must— 
 
-(2) Provide evidence of meeting the standard of competence specified in Section A-III/3 of the STCW Code (incorporated by reference, see § 11.102 of this part); and
+(1) Provide evidence of meeting the requirements for certification as OICEW, as well as serving for not less than 12 months as assistant engineer officer or engineer officer on vessels powered by main propulsion machinery of not less than 750 kW/1,000 HP. Experience gained in the deck department may be creditable for up to 1 month of the total service requirements; 
 
-(3) Provide evidence of having satisfactorily completed approved training in the following areas:
+(2) Provide evidence of meeting the standard of competence specified in Section A-III/3 of the STCW Code (incorporated by reference, see § 11.102 of this part); and 
 
-(i) Engineroom resource management (ERM) if not completed at the operational level.
+(3) Provide evidence of having satisfactorily completed approved training in the following areas: 
 
-(ii) Leadership and managerial skills.
+(i) Engineroom resource management (ERM) if not completed at the operational level. 
 
-(iii) Management of electrical and electronic control equipment.
+(ii) Leadership and managerial skills. 
 
-(b) For a renewal of an STCW endorsement as second engineer officer on vessels powered by main propulsion machinery of 750 kW/1,000 HP or more and less than 3,000 kW/4,000 HP propulsion power to be valid on or after January 1, 2017, each candidate must provide evidence of successful completion of approved training in the following:
+(iii) Management of electrical and electronic control equipment. 
 
-(1) ERM if not completed at the operational level.
+(b) For a renewal of an STCW endorsement as second engineer officer on vessels powered by main propulsion machinery of 750 kW/1,000 HP or more and less than 3,000 kW/4,000 HP propulsion power to be valid on or after January 1, 2017, each candidate must provide evidence of successful completion of approved training in the following: 
 
-(2) Leadership and managerial skills.
+(1) ERM if not completed at the operational level. 
 
-(3) Management of electrical and electronic control equipment.
+(2) Leadership and managerial skills. 
 
-(c) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-III/3 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the credential may include a corresponding limitation.
+(3) Management of electrical and electronic control equipment. 
 
-(d) Seafarers with one of the following national officer endorsements are eligible to apply for this endorsement upon completion of the requirements in the following table:
+(c) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-III/3 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the credential may include a corresponding limitation. 
+
+(d) Seafarers with one of the following national officer endorsements are eligible to apply for this endorsement upon completion of the requirements in the following table: 
 
 Table 1 to § 11.333(d)—STCW Endorsement as Second Engineer Officer on Vessels Powered by Main Propulsion Machinery of 750 kW/1,000 HP or More and Less Than 3,000 kW/4,000 HP Propulsion Power
 | Entry path from national endorsements                                                                                             | Sea service 1 | Competence—STCW Table A-III/3 2 | Training required   by this section 3 |

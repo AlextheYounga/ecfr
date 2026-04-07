@@ -1,14 +1,14 @@
 ##### § 234.53 Computation of the lump-sum refund payment.
 
-(a) The lump-sum refund payment is calculated as follows:
+(a) The lump-sum refund payment is calculated as follows: 
 
-(1) Combine the railroad employee's creditable earnings, including military service, under the Social Security Act and Railroad Retirement Act for each of the years 1951 through 1974;
+(1) Combine the railroad employee's creditable earnings, including military service, under the Social Security Act and Railroad Retirement Act for each of the years 1951 through 1974; 
 
-(2) Determine the amount of the employee's creditable earnings in excess of the amounts for each year shown in the chart in paragraph (b) of this section;
+(2) Determine the amount of the employee's creditable earnings in excess of the amounts for each year shown in the chart in paragraph (b) of this section; 
 
-(3) Multiply the results of paragraph (a)(2) of this section by the percentage shown in the chart in paragraph (b) of this section; and
+(3) Multiply the results of paragraph (a)(2) of this section by the percentage shown in the chart in paragraph (b) of this section; and 
 
-(4) Add the results of paragraph (a)(3) of this section. The total is the amount of the lump-sum refund payment.
+(4) Add the results of paragraph (a)(3) of this section. The total is the amount of the lump-sum refund payment. 
 
 (b) *Chart for calculation of lump-sum refund payment.*
 

@@ -1,6 +1,6 @@
 ##### § 52.01-2 Adoption of Section I of the ASME BPVC.
 
-(a) Main power boilers and auxiliary boilers must be designed, constructed, inspected, tested, and stamped in accordance with Section I of the ASME BPVC (incorporated by reference; see § 52.01-1), as limited, modified, or replaced by specific requirements in this part. The appendices to Section I of the ASME BPVC are adopted and must be followed when the requirements in Section I make them mandatory. For general information, table 1 to § 52.01-2(a) lists the various paragraphs in Section I of the ASME BPVC that are limited, modified, or replaced by regulations in this part.
+(a) Main power boilers and auxiliary boilers must be designed, constructed, inspected, tested, and stamped in accordance with Section I of the ASME BPVC (incorporated by reference; see § 52.01-1), as limited, modified, or replaced by specific requirements in this part. The appendices to Section I of the ASME BPVC are adopted and must be followed when the requirements in Section I make them mandatory. For general information, table 1 to § 52.01-2(a) lists the various paragraphs in Section I of the ASME BPVC that are limited, modified, or replaced by regulations in this part. 
 
 Table 1 to § 52.01-2(a)—Limitations and Modifications in the Adoption of Section I of the ASME BPVC
 | Paragraphs in section I, ASME BPVC and disposition                                                                                                                                                                                                                                                                                                                                        | Unit of this part     |
@@ -39,20 +39,20 @@ Table 1 to § 52.01-2(a)—Limitations and Modifications in the Adoption of Sect
 | A-19 through A-21 modified by                                                                                                                                                                                                                                                                                                                                                             | 52.01-50.             |
 | **Note 1 to table 1 to § 52.01-2(a):** The references to specific provisions in the ASME BPVC are coded. The first letter “P” refers to section I, while the letter “A” refers to the appendix to section I. The letter or letters following “P” refer to a specific subsection of section I. The number following the letter or letters refers to the paragraph so numbered in the text. |                       |
 
-(b) References to the ASME BPVC, such as paragraph PG-1, indicate:
+(b) References to the ASME BPVC, such as paragraph PG-1, indicate: 
 
-(1) P=Section I, Power Boilers.
+(1) P=Section I, Power Boilers. 
 
-(2) G=Subsection—General Requirements.
+(2) G=Subsection—General Requirements. 
 
-(3) 1=Paragraph 1.
+(3) 1=Paragraph 1. 
 
-(c) When a section or paragraph of the regulations in this part relates to Section I of the ASME BPVC, the relationship with the code will be shown immediately following the heading of the section or at the beginning of the paragraph as follows:
+(c) When a section or paragraph of the regulations in this part relates to Section I of the ASME BPVC, the relationship with the code will be shown immediately following the heading of the section or at the beginning of the paragraph as follows: 
 
-(1) (Modifies P \_\_.) This indicates that the material in P \_\_ is generally applicable but is being altered, amplified, or augmented.
+(1) (Modifies P \_\_.) This indicates that the material in P \_\_ is generally applicable but is being altered, amplified, or augmented. 
 
-(2) (Replaces P \_\_.) This indicates that P \_\_ does not apply.
+(2) (Replaces P \_\_.) This indicates that P \_\_ does not apply. 
 
-(3) (Reproduces P \_\_.) This indicates that P \_\_ is being identically reproduced for convenience, not for emphasis.
+(3) (Reproduces P \_\_.) This indicates that P \_\_ is being identically reproduced for convenience, not for emphasis. 
 
 \[CGFR 68-82, 33 FR 18815, Dec. 18, 1968, as amended by CGFR 69-127, 35 FR 9975, June 17, 1970; CGD 81-79, 50 FR 9431, Mar. 8, 1985. Redesignated and amended by CGD 88-032, 56 FR 35821, July 29, 1991; USCG-2003-16630, 73 FR 65160, Oct. 31, 2008\]
