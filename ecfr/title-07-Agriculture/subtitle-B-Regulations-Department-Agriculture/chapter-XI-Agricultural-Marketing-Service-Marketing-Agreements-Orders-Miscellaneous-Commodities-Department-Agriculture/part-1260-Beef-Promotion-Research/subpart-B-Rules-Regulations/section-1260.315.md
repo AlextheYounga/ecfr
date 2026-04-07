@@ -1,7 +1,93 @@
 ##### § 1260.315 Qualified State Beef Councils.
 
-Link to an amendment published at 84 FR 20771, May 13, 2019.
+The following State beef promotion entities have been certified by the Board as Qualified State Beef Councils:
 
-The following State beef promotion entities have been certified by the Board as qualified State beef councils:
+(a) Alabama Cattlemen's Association.
 
-Alabama Cattlemen's Association Arizona Beef Council Arkansas Beef Council California Beef Council Colorado Beef Council Florida Beef Council, Inc. Georgia Beef Board, Inc. Idaho Beef Council Illinois Beef Council Indiana Beef Council Iowa Beef Cattle Producers Association Kansas Beef Council Kentucky Beef Cattle Association Louisiana Beef Industry Council Maryland Beef Council Michigan Beef Industry Commission Minnesota Beef Council Mississippi Cattle Industry Board Missouri Beef Industry Council Montana Beef Council Nebraska Beef Industry Development Board Nevada Beef Council New Mexico Beef Council New York Beef Industry Council North Carolina Cattlemen's Association North Dakota Beef Commission Ohio Beef Council Oklahoma Beef Commission Oregon Beef Council Pennsylvania Beef Council, Inc. South Carolina Cattle and Beef Board South Dakota Beef Industry Council Tennessee Beef Industry Council Texas Beef Industry Council Utah Beef Council Vermont Beef Council Virginia Cattle Industry Board Washington State Beef Commission West Virginia Beef Industry Wisconsin Beef Council Wyoming Beef Council
+(b) Arizona Beef Council.
+
+(c) Arkansas Beef Council.
+
+(d) California Beef Council.
+
+(e) Colorado Beef Council Authority.
+
+(f) Delaware Beef Advisory Board.
+
+(g) Florida Beef Council, Inc.
+
+(h) Georgia Beef Board, Inc.
+
+(i) Hawaii Beef Industry Council.
+
+(j) Idaho Beef Council.
+
+(k) Illinois Beef Association, Inc.
+
+(l) Indiana Beef Council, Inc.
+
+(m) Iowa Beef Cattle Producers Association/dba/Iowa Beef Industry Council.
+
+(n) Kansas Beef Council.
+
+(o) Kentucky Cattlemen's Association, Inc.
+
+(p) Louisiana Beef Industry Council.
+
+(q) Maryland Beef Council.
+
+(r) Michigan Beef Industry Commission.
+
+(s) Minnesota Beef Council.
+
+(t) Mississippi Beef Council.
+
+(u) Missouri Beef Industry Council, Inc.
+
+(v) Montana Beef Council.
+
+(w) Nebraska Beef Council.
+
+(x) Nevada Beef Council.
+
+(y) New Jersey Beef Industry Council.
+
+(z) New Mexico Beef Council.
+
+(aa) New York Beef Industry Council.
+
+(bb) North Carolina Cattlemen's Beef Council.
+
+(cc) North Dakota Beef Commission.
+
+(dd) Ohio Beef Council.
+
+(ee) Oklahoma Beef Council.
+
+(ff) Oregon Beef Council.
+
+(gg) Pennsylvania Beef Council.
+
+(hh) South Carolina Beef Council.
+
+(ii) South Dakota Beef Industry Council.
+
+(jj) Tennessee Beef Industry Council.
+
+(kk) Texas Beef Council.
+
+(ll) Utah Beef Council.
+
+(mm) Vermont Beef Industry Council.
+
+(nn) Virginia Beef Industry Council.
+
+(oo) Washington State Beef Commission.
+
+(pp) West Virginia Beef Council, Inc.
+
+(qq) Wisconsin Beef Council, Inc.
+
+(rr) Wyoming Beef Council.
+
+\[84 FR 20771, May 13, 2019\]
