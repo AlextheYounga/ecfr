@@ -1,5 +1,7 @@
 ##### § 457.155 Processing bean crop insurance provisions.
 
+Link to an amendment published at 89 FR 53844, June 27, 2024.
+
 The Processing Bean Crop Insurance Provisions for the 2017 and succeeding crop years are as follows:
 
 FCIC Policies United States Department of Agriculture Federal Crop Insurance Corporation Reinsured Policies (Appropriate title for insurance provider) Both FCIC and reinsured policies: Processing Bean Crop Provisions

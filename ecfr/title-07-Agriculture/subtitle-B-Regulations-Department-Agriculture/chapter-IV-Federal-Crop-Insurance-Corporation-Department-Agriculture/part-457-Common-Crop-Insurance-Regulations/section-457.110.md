@@ -1,5 +1,7 @@
 ##### § 457.110 Fig crop insurance provisions.
 
+Link to an amendment published at 89 FR 53835, June 27, 2024.
+
 The Fig Crop Insurance Provisions for the 2001 and succeeding crop years are as follows:
 
 United States Department of Agriculture Federal Crop Insurance Corporation Fig Crop Provisions

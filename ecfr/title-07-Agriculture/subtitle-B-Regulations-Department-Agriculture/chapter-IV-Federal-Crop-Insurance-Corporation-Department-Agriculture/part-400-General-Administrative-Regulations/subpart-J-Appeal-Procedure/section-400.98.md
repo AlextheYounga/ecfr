@@ -1,5 +1,7 @@
 ##### § 400.98 Reconsideration process.
 
+Link to an amendment published at 89 FR 53828, June 27, 2024.
+
 (a) This reconsideration process only applies to determinations of good farming practices under § 400.91(a)(2).
 
 (b) There is no appeal to NAD of determinations or reconsideration decisions regarding good farming practices.

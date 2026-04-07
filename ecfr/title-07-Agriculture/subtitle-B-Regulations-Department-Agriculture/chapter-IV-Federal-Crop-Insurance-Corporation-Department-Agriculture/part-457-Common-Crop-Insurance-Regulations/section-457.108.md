@@ -1,5 +1,7 @@
 ##### § 457.108 Sunflower seed crop insurance provisions.
 
+Link to an amendment published at 89 FR 53834, June 27, 2024.
+
 The Sunflower Seed Crop Insurance Provisions for the 2022 and succeeding crop years are as follows:
 
 Department of Agriculture Federal Crop Insurance Corporation Sunflower Seed Crop Provisions 1\. Definitions
