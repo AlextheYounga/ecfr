@@ -1,5 +1,7 @@
 ##### § 622.384 Quotas.
 
+Link to an amendment published at 87 FR 74990, Dec. 7, 2022.
+
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. See § 622.369 for the descriptions of the zones. This section provides quotas and specific quota closure restrictions for coastal migratory pelagic fish. All weights are in round and eviscerated weight combined, unless specified otherwise.
 
 (a) King and Spanish mackerel quotas apply to persons who fish under commercial vessel permits for king or Spanish mackerel, as required under § 622.370(a)(1) or (3). A fish is counted against the quota for the area where it is caught, not where it is landed.
