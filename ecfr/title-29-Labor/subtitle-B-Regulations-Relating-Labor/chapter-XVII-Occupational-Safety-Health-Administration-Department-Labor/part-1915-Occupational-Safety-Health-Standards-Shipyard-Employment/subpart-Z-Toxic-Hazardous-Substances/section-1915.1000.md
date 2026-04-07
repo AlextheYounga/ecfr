@@ -1,7 +1,5 @@
 ##### § 1915.1000 Air contaminants.
 
-Link to an amendment published at 82 FR 2744, Jan. 9, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8901, Feb. 1, 2017.This amendment was further delayed until May 20, 2017, at 82 FR 14439, Mar. 21, 2017.
-
 Wherever this section applies, an employee's exposure to any substance listed in Table Z - Shipyards of this section shall be limited in accordance with the requirements of the following paragraphs of this section.
 
 (a)(1) *Substances with limits preceded by “C” - Ceiling values.* An employee's exposure to any substance in Table Z - Shipyards, the exposure limit of which is preceded by a “C,” shall at no time exceed the exposure limit given for that substance. If instantaneous monitoring is not feasible, then the ceiling shall be assessed as a 15-minute time weighted average exposure which shall not be exceeded at any time over a working day.
@@ -109,7 +107,7 @@ Table Z - Shipyards
 | Benzo(a)pyrene; see Coal tar pitch volatiles                                                                   |                      |                        |             |                  |
 | Benzoyl peroxide                                                                                               | 94-36-0              | -                      | 5           | -                |
 | Benzyl chloride                                                                                                | 100-44-7             | 1                      | 5           | -                |
-| Beryllium and beryllium compounds (as Be)                                                                      | 7440-41-7            | -                      | 0.002       | -                |
+| Beryllium and beryllium compounds (as Be); see 1915.1024 (q)                                                   | 7440-41-7            |                        | 0.002       |                  |
 | Biphenyl; see Diphenyl                                                                                         |                      |                        |             |                  |
 | Bismuth telluride, Undoped                                                                                     | 1304-82-1            |                        |             |                  |
 | Total dust                                                                                                     |                      | -                      | 15          | -                |
@@ -769,6 +767,8 @@ o If the exposure limit in § 1915.1026 is stayed or is otherwise not in effect,
 
 p This standard applies to any operations or sectors for which the respirable crystalline silica standard, 1915.1053, is stayed or otherwise is not in effect.
 
+q This standard applies to any operations or sectors for which the beryllium standard, 1915.1024, is stayed or otherwise is not in effect.
+
 The 1970 TLV uses letter designations instead of a numerical value as follows:
 
 A 1 \[Reserved\]
@@ -779,4 +779,4 @@ A 3 Gasoline and/or Petroleum Distillates. The composition of these materials va
 
 E Simple asphyxiants. The limiting factor is the available oxygen which shall be at least 18% and be within the requirement addressing explosion in subpart B of part 1915.
 
-\[58 FR 35514, July 1, 1993, as amended at 61 FR 56856, Nov. 4, 1996; 62 FR 1619, Jan. 10, 1997; 67 FR 44545, July 3, 2002; 71 FR 10377, Feb. 28, 2006; 71 FR 36009, June 23, 2006; 76 FR 80740, Dec. 27, 2011; 81 FR 16874, Mar. 2 2016; 81 FR 31167, May 19, 2016; 81 FR 60273, Sept. 2, 2016\]
+\[58 FR 35514, July 1, 1993, as amended at 61 FR 56856, Nov. 4, 1996; 62 FR 1619, Jan. 10, 1997; 67 FR 44545, July 3, 2002; 71 FR 10377, Feb. 28, 2006; 71 FR 36009, June 23, 2006; 76 FR 80740, Dec. 27, 2011; 81 FR 16874, Mar. 2 2016; 81 FR 31167, May 19, 2016; 81 FR 60273, Sept. 2, 2016; 82 FR 2744, Jan. 9, 2017\]
