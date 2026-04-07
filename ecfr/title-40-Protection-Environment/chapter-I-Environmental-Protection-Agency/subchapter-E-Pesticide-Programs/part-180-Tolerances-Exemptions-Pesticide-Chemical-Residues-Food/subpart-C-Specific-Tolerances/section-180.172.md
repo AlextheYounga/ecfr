@@ -1,6 +1,6 @@
 ##### § 180.172 Dodine; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide dodine, including its metabolites and degradates, in or on the commodities in table 1 to this paragraph (a). Compliance with the tolerance levels specified in table 1 is to be determined by measuring only dodine, *N*-dodecylguanidine acetate; in or on the following commodities. 
+(a) *General.* Tolerances are established for residues of the fungicide dodine, including its metabolites and degradates, in or on the commodities in table 1 to this paragraph (a). Compliance with the tolerance levels specified in table 1 is to be determined by measuring only dodine, *N*-dodecylguanidine acetate; in or on the following commodities.
 
 Table 1 to Paragraph (a)
 | Commodity                 | Parts   per million |
@@ -15,6 +15,6 @@ Table 1 to Paragraph (a)
 | Peanut                    | 0.013               |
 | Strawberry                | 5.0                 |
 
-(b)-(d) \[Reserved\] 
+(b)-(d) \[Reserved\]
 
 \[88 FR 86273, Dec. 13, 2023\]

@@ -1,6 +1,6 @@
 ##### § 73.603 Numerical designation of television channels.
 
-(a)
+(a) 
 
 | Channel No. | Frequency band (MHz) |
 | ----------- | -------------------- |
@@ -41,10 +41,10 @@
 | 36          | 602-608              |
 | 37          | 608-614              |
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
-(c) Channel 37, 608-614 MHz is reserved exclusively for the radio astronomy service.
+(c) Channel 37, 608-614 MHz is reserved exclusively for the radio astronomy service. 
 
-(d) In Hawaii, the frequency band 488-494 MHz is allocated for non-broadcast use. This frequency band (Channel 17) will not be assigned in Hawaii for use by television broadcast stations.
+(d) In Hawaii, the frequency band 488-494 MHz is allocated for non-broadcast use. This frequency band (Channel 17) will not be assigned in Hawaii for use by television broadcast stations. 
 
 \[28 FR 13660, Dec. 14, 1963, as amended at 35 FR 11179, July 11, 1970; 39 FR 10576, Mar. 21, 1974; 47 FR 16789, Apr. 20, 1982; 47 FR 30068, July 12, 1982; 47 FR 35989, Aug. 18, 1982; 51 FR 18450, May 20, 1986; 70 FR 46676, Aug. 10, 2005; 86 FR 66195, Nov. 22, 2021\]

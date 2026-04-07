@@ -1,6 +1,6 @@
 ##### § 180.396 Hexazinone; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the herbicide hexazinone, 3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of hexazinone, 3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, and its plant metabolites: metabolite A, 3-(4-hydroxycyclohexyl)-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, metabolite B, 3-cyclohexyl-6-(methylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, metabolite C, 3-(4-hydroxycyclohexyl)-6-(methylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, metabolite D, 3-cyclohexyl-1-methyl-1,3,5-triazine-2,4,6-(1*H*, 3*H*, 5*H*)-trione, and metabolite E, 3-(4-hydroxycyclohexyl)-1-methyl-1,3,5-triazine-2,4,6-(1*H*, 3*H*, 5*H*)-trione, calculated as the stoichiometric equivalent of hexazinone, in or on the commodity. 
+(a) *General.* (1) Tolerances are established for residues of the herbicide hexazinone, 3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of hexazinone, 3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, and its plant metabolites: metabolite A, 3-(4-hydroxycyclohexyl)-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, metabolite B, 3-cyclohexyl-6-(methylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, metabolite C, 3-(4-hydroxycyclohexyl)-6-(methylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, metabolite D, 3-cyclohexyl-1-methyl-1,3,5-triazine-2,4,6-(1*H*, 3*H*, 5*H*)-trione, and metabolite E, 3-(4-hydroxycyclohexyl)-1-methyl-1,3,5-triazine-2,4,6-(1*H*, 3*H*, 5*H*)-trione, calculated as the stoichiometric equivalent of hexazinone, in or on the commodity.
 
 | Commodity           | Parts per million |
 | ------------------- | ----------------- |
@@ -14,7 +14,7 @@
 | Sugarcane, cane     | 0.6               |
 | Sugarcane, molasses | 4.0               |
 
-(2) Tolerances are established for residues of the herbicide hexazinone, 3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of hexazinone, 3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, and its animal tissue metabolites: metabolite B, 3-cyclohexyl-6-(methylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, and metabolite F, 3-cyclohexyl-6-amino-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, calculated as the stoichiometric equivalent of hexazinone, in or on the commodity. 
+(2) Tolerances are established for residues of the herbicide hexazinone, 3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of hexazinone, 3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, and its animal tissue metabolites: metabolite B, 3-cyclohexyl-6-(methylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, and metabolite F, 3-cyclohexyl-6-amino-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, calculated as the stoichiometric equivalent of hexazinone, in or on the commodity.
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -34,16 +34,16 @@
 | Sheep, meat             | 0.5               |
 | Sheep, meat byproducts  | 4.0               |
 
-(3) A tolerance is established for residues of the herbicide hexazinone, 3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, including its metabolites and degradates, in or on the commodity in the following table. Compliance with the tolerance level specified in this paragraph is to be determined by measuring only the sum of hexazinone, 3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, and its metabolites: metabolite B, 3-cyclohexyl-6-(methylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, metabolite C, 3-(4-hydroxycyclohexyl)-6-(methylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, metabolite C-2, 3-(3-hydroxycyclohexyl)-6-(methylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, and metabolite F, 3-cyclohexyl-6-amino-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, calculated as the stoichiometric equivalent of hexazinone, in or on the commodity. 
+(3) A tolerance is established for residues of the herbicide hexazinone, 3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, including its metabolites and degradates, in or on the commodity in the following table. Compliance with the tolerance level specified in this paragraph is to be determined by measuring only the sum of hexazinone, 3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, and its metabolites: metabolite B, 3-cyclohexyl-6-(methylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, metabolite C, 3-(4-hydroxycyclohexyl)-6-(methylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, metabolite C-2, 3-(3-hydroxycyclohexyl)-6-(methylamino)-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, and metabolite F, 3-cyclohexyl-6-amino-1-methyl-1,3,5-triazine-2,4-(1*H*, 3*H*)-dione, calculated as the stoichiometric equivalent of hexazinone, in or on the commodity.
 
 | Commodity | Parts per million |
 | --------- | ----------------- |
 | Milk      | 11                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[65 FR 33713, May 24, 2000, as amended at 71 FR 56399, Sept. 27, 2006; 75 FR 60244, Sept. 29, 2010\]

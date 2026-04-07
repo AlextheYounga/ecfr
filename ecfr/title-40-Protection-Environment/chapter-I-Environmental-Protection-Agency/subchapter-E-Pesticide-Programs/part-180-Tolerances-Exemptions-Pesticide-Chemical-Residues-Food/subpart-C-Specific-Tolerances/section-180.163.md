@@ -1,6 +1,6 @@
 ##### § 180.163 Dicofol; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide dicofol, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only dicofol as the sum of its p,p-dicofol and o,p-dicofol isomers: 4-chloro-α-(4-chlorophenyl)-α-(trichloromethyl)benzenemethanol and 2-chloro-α-(4-chlorophenyl)-α-(trichloromethyl)benzenemethanol, in or on the commodity. 
+(a) *General.* (1) Tolerances are established for residues of the insecticide dicofol, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only dicofol as the sum of its p,p-dicofol and o,p-dicofol isomers: 4-chloro-α-(4-chlorophenyl)-α-(trichloromethyl)benzenemethanol and 2-chloro-α-(4-chlorophenyl)-α-(trichloromethyl)benzenemethanol, in or on the commodity.
 
 | Commodity                    | Parts per million | Expiration/revocation date |
 | ---------------------------- | ----------------- | -------------------------- |
@@ -35,7 +35,7 @@
 | Vegetable, fruiting, group 8 | 2.0               | 10/31/16                   |
 | Walnut                       | 0.1               | 10/31/16                   |
 
-(2) Tolerances are established for residues of the insecticide dicofol, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of p,p-dicofol, 4-chloro-α-(4-chlorophenyl)-α-(trichloromethyl)benzenemethanol, its isomer o,p-dicofol, 2-chloro-α-(4-chlorophenyl)-α-(trichloromethyl)benzenemethanol, and its metabolites 4-chloro-α-(4-chlorophenyl)-α-(dichloromethyl)benzenemethanol and 2-chloro-α-(4-chlorophenyl)-α-(dichloromethyl)benzenemethanol, calculated as the stoichiometric equivalent of p,p-dicofol, 4-chloro-α-(4-chlorophenyl)-α-(trichloromethyl)benzenemethanol, in or on the commodity. 
+(2) Tolerances are established for residues of the insecticide dicofol, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of p,p-dicofol, 4-chloro-α-(4-chlorophenyl)-α-(trichloromethyl)benzenemethanol, its isomer o,p-dicofol, 2-chloro-α-(4-chlorophenyl)-α-(trichloromethyl)benzenemethanol, and its metabolites 4-chloro-α-(4-chlorophenyl)-α-(dichloromethyl)benzenemethanol and 2-chloro-α-(4-chlorophenyl)-α-(dichloromethyl)benzenemethanol, calculated as the stoichiometric equivalent of p,p-dicofol, 4-chloro-α-(4-chlorophenyl)-α-(trichloromethyl)benzenemethanol, in or on the commodity.
 
 | Commodity                                     | Parts per million | Expiration/Revocation Date |
 | --------------------------------------------- | ----------------- | -------------------------- |
@@ -65,10 +65,10 @@
 | Sheep, meat                                   | 3.0               | 10/31/16                   |
 | Sheep, meat byproducts, except liver          | 3.0               | 10/31/16                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[63 FR 34826, June 26, 1998, as amended at 72 FR 35665, June 29, 2007; 72 FR 41928, Aug. 1, 2007; 77 FR 59124, Sept. 26, 2012\]

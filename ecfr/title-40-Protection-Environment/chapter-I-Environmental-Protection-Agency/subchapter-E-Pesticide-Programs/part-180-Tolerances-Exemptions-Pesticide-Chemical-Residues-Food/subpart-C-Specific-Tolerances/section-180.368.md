@@ -1,6 +1,6 @@
 ##### § 180.368 Metolachlor; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for the combined residues (free and bound) of the herbicide metolachlor, 2-chloro-*N*-(2- ethyl-6-methylphenyl)-*N*-(2-methoxy-1-methylethyl)acetamide, and its metabolites, determined as the derivatives, 2- \[(2-ethyl-6- methylphenyl)amino\]-1-propanol and 4-(2-ethyl-6-methylphenyl)-2- hydroxy-5-methyl-3-morpholinone, each expressed as the parent compound in the following raw agricultural commodities: 
+(a) *General.* (1) Tolerances are established for the combined residues (free and bound) of the herbicide metolachlor, 2-chloro-*N*-(2- ethyl-6-methylphenyl)-*N*-(2-methoxy-1-methylethyl)acetamide, and its metabolites, determined as the derivatives, 2- \[(2-ethyl-6- methylphenyl)amino\]-1-propanol and 4-(2-ethyl-6-methylphenyl)-2- hydroxy-5-methyl-3-morpholinone, each expressed as the parent compound in the following raw agricultural commodities:
 
 | Commodity                                                 | Parts per million |
 | --------------------------------------------------------- | ----------------- |
@@ -61,7 +61,7 @@
 | Vegetable, foliage of legume, subgroup 7A, except soybean | 15.0              |
 | Vegetable, legume, group 6                                | 0.30              |
 
-(2) Tolerances are established for residues of S-metolachlor, including its metabolites and degradates, in or on the commodity(s), as defined. Compliance with the tolerance levels specified in the following table below is to be determined by measuring only the sum of free and bound S-metolachlor, S-2-chloro-N-(2-ethyl-6-methylphenyl)-N-(2-methoxy-1-methylethyl)acetamide, its R-enantiomer, and its metabolites, determined as the derivatives, 2-(2-ethyl-6-methylphenyl)amino-1-propanol and 4-(2-ethyl-6-methylphenyl)-2-hydroxy-5-methyl-3-morpholinone, calculated as the stoichiometric equivalent of S-metolachlor, in or on the commodity. 
+(2) Tolerances are established for residues of S-metolachlor, including its metabolites and degradates, in or on the commodity(s), as defined. Compliance with the tolerance levels specified in the following table below is to be determined by measuring only the sum of free and bound S-metolachlor, S-2-chloro-N-(2-ethyl-6-methylphenyl)-N-(2-methoxy-1-methylethyl)acetamide, its R-enantiomer, and its metabolites, determined as the derivatives, 2-(2-ethyl-6-methylphenyl)amino-1-propanol and 4-(2-ethyl-6-methylphenyl)-2-hydroxy-5-methyl-3-morpholinone, calculated as the stoichiometric equivalent of S-metolachlor, in or on the commodity.
 
 Table 2 to Paragraph (a)(2)
 | Commodity                                                       | Parts per   million |
@@ -155,21 +155,21 @@ Table 2 to Paragraph (a)(2)
 | Vegetable, root, except sugar beet, subgroup 1B, except carrot  | 0.30                |
 | Vegetable, tuberous and corm, subgroup 1C                       | 0.20                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* (1) Tolerances with regional registration as defined in 180.1(l) are established for the combined residues (free and bound) of the herbicide metolachlor \[2-chloro-*N*-(2-ethyl-6-methylphenyl)-*N*-(2-methoxy-1-methylethyl)acetamide\] and its metabolites, determined as the derivatives, 2-\[2-ethyl-6-methylphenyl)amino\]-1-propanol and 4-(2-ethyl-6-methylphenyl)-2-hydroxy-5-methyl-3-morpholinone, each expressed as the parent compound, in or on the following raw agricultural commodities: 
+(c) *Tolerances with regional registrations.* (1) Tolerances with regional registration as defined in 180.1(l) are established for the combined residues (free and bound) of the herbicide metolachlor \[2-chloro-*N*-(2-ethyl-6-methylphenyl)-*N*-(2-methoxy-1-methylethyl)acetamide\] and its metabolites, determined as the derivatives, 2-\[2-ethyl-6-methylphenyl)amino\]-1-propanol and 4-(2-ethyl-6-methylphenyl)-2-hydroxy-5-methyl-3-morpholinone, each expressed as the parent compound, in or on the following raw agricultural commodities:
 
 | Commodity       | Parts per million |
 | --------------- | ----------------- |
 | Pepper, nonbell | 0.50              |
 
-(2) Tolerances with regional registration are established for residues of S-metolachlor, including its metabolites and degradates, in or on the commodities identified in the following table below. Compliance with the tolerance levels specified in the following table below is to be determined by measuring only the sum of free and bound S-metolachlor, S-2-chloro-N-(2-ethyl-6-methylphenyl)-N-(2-methoxy-1-methylethyl)acetamide, its R-enantiomer, and its metabolites, determined as the derivatives, 2-(2-ethyl-6-methylphenyl)amino-1-propanol and 4-(2-ethyl-6-methylphenyl)-2-hydroxy-5-methyl-3-morpholinone, calculated as the stoichiometric equivalent of S-metolachlor, in or on the commodity. 
+(2) Tolerances with regional registration are established for residues of S-metolachlor, including its metabolites and degradates, in or on the commodities identified in the following table below. Compliance with the tolerance levels specified in the following table below is to be determined by measuring only the sum of free and bound S-metolachlor, S-2-chloro-N-(2-ethyl-6-methylphenyl)-N-(2-methoxy-1-methylethyl)acetamide, its R-enantiomer, and its metabolites, determined as the derivatives, 2-(2-ethyl-6-methylphenyl)amino-1-propanol and 4-(2-ethyl-6-methylphenyl)-2-hydroxy-5-methyl-3-morpholinone, calculated as the stoichiometric equivalent of S-metolachlor, in or on the commodity.
 
 | Commodity       | Parts per million |
 | --------------- | ----------------- |
 | Pepper, tabasco | 0.50              |
 
-(d) *Indirect or inadvertent residues.* (1) Tolerances are established for the indirect or inadvertent combined residues (free and bound) of the herbicide metolachlor, 2-chloro-*N*-(2-ethyl-6- methylphenyl)-*N*-(2-methoxy-1-methylethyl)acetamide, and its metabolites, determined as the derivatives, 2-\[(2-ethyl-6-methylphenyl)amino\]-1-propanol and 4-(2-ethyl-6-methylphenyl)-2- hydroxy-5-methyl-3-morpholinone, each expressed as the parent compound in the following raw agricultural commodities: 
+(d) *Indirect or inadvertent residues.* (1) Tolerances are established for the indirect or inadvertent combined residues (free and bound) of the herbicide metolachlor, 2-chloro-*N*-(2-ethyl-6- methylphenyl)-*N*-(2-methoxy-1-methylethyl)acetamide, and its metabolites, determined as the derivatives, 2-\[(2-ethyl-6-methylphenyl)amino\]-1-propanol and 4-(2-ethyl-6-methylphenyl)-2- hydroxy-5-methyl-3-morpholinone, each expressed as the parent compound in the following raw agricultural commodities:
 
 | Commodity                       | Parts per million |
 | ------------------------------- | ----------------- |
@@ -195,7 +195,7 @@ Table 2 to Paragraph (a)(2)
 | Wheat, hay                      | 0.80              |
 | Wheat, straw                    | 0.80              |
 
-(2) Tolerances for are established for the indirect or inadvertent residues of S-metolachlor, including its metabolites and degradates, in or on the commodities identified in the following table below. Compliance with the tolerance levels specified in the following table below is to be determined by measuring only the sum of free and bound S-metolachlor, S-2-chloro-N-(2-ethyl-6-methylphenyl)-N-(2-methoxy-1-methylethyl)acetamide, its R-enantiomer, and its metabolites, determined as the derivatives, 2-(2-ethyl-6-methylphenyl)amino-1-propanol and 4-(2-ethyl-6-methylphenyl)-2-hydroxy-5-methyl-3-morpholinone, calculated as the stoichiometric equivalent of S-metolachlor, in or on the commodity. 
+(2) Tolerances for are established for the indirect or inadvertent residues of S-metolachlor, including its metabolites and degradates, in or on the commodities identified in the following table below. Compliance with the tolerance levels specified in the following table below is to be determined by measuring only the sum of free and bound S-metolachlor, S-2-chloro-N-(2-ethyl-6-methylphenyl)-N-(2-methoxy-1-methylethyl)acetamide, its R-enantiomer, and its metabolites, determined as the derivatives, 2-(2-ethyl-6-methylphenyl)amino-1-propanol and 4-(2-ethyl-6-methylphenyl)-2-hydroxy-5-methyl-3-morpholinone, calculated as the stoichiometric equivalent of S-metolachlor, in or on the commodity.
 
 | Commodity                       | Parts per million |
 | ------------------------------- | ----------------- |

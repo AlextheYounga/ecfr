@@ -1,6 +1,6 @@
 ##### § 180.435 Deltamethrin; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of deltamethrin, including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the tolerance levels specified is to be determined by measuring only deltamethrin, (1*R,*3*R*)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylic acid (*S*)-*alpha*-cyano-3-phenoxybenzyl ester, and its major metabolites, *trans*-deltamethrin, (*S*)-*alpha*-cyano-*m*-phenoxybenzyl(1*R,*3*S*)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate, and *alpha-R*-deltamethrin, (*R*)-*alpha*-cyano-*m*-phenoxybenzyl-(1*R,*3*R*)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate, in or on the commodity. 
+(a) *General.* (1) Tolerances are established for residues of deltamethrin, including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the tolerance levels specified is to be determined by measuring only deltamethrin, (1*R,*3*R*)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylic acid (*S*)-*alpha*-cyano-3-phenoxybenzyl ester, and its major metabolites, *trans*-deltamethrin, (*S*)-*alpha*-cyano-*m*-phenoxybenzyl(1*R,*3*S*)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate, and *alpha-R*-deltamethrin, (*R*)-*alpha*-cyano-*m*-phenoxybenzyl-(1*R,*3*R*)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate, in or on the commodity.
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                           | Parts per million |
@@ -74,12 +74,12 @@ Table 1 to Paragraph (a)(1)
 | \* There are no U.S. registrations.                                                 |                   |
 | 1 There are no U.S. registrations as of April 4, 2023.                              |                   |
 
-(2) A tolerance of 0.05 ppm is established for residues of the insecticide deltamethrin, including its metabolites and degradates, in or on all food/feed items (other than those covered by a higher tolerance as a result of use on growing crops) when deltamethrin is used in food/feed handling establishments or as a wide-area mosquito adulticide. Compliance with the tolerance levels specified is to be determined by measuring only deltamethrin, (1*R*,3*R*)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylic acid (*S*)-*alpha*-cyano-3-phenoxybenzyl ester, and its major metabolites, *trans*-deltamethrin, (*S*)-*alpha*-cyano-*m*-phenoxybenzyl(1*R*,3*S*)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate, and *alpha-R*-deltamethrin, (*R*)-*alpha*-cyano-*m*-phenoxybenzyl-(1*R*,3*R*)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate, in or on the commodity. 
+(2) A tolerance of 0.05 ppm is established for residues of the insecticide deltamethrin, including its metabolites and degradates, in or on all food/feed items (other than those covered by a higher tolerance as a result of use on growing crops) when deltamethrin is used in food/feed handling establishments or as a wide-area mosquito adulticide. Compliance with the tolerance levels specified is to be determined by measuring only deltamethrin, (1*R*,3*R*)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylic acid (*S*)-*alpha*-cyano-3-phenoxybenzyl ester, and its major metabolites, *trans*-deltamethrin, (*S*)-*alpha*-cyano-*m*-phenoxybenzyl(1*R*,3*S*)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate, and *alpha-R*-deltamethrin, (*R*)-*alpha*-cyano-*m*-phenoxybenzyl-(1*R*,3*R*)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate, in or on the commodity.
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[62 FR 63001, Nov. 26, 1997, as amended at 63 FR 45414, Aug. 26, 1998; 69 FR 62614, Oct. 27, 2004; 74 FR 46375, Sept. 9, 2009; 76 FR34885, June 15, 2011; 79 FR 66301, Nov. 7, 2014; 80 FR 16302, Mar. 27, 2015; 82 FR 18580, Apr. 20, 2017; 88 FR 19879, Apr. 4, 2023\]

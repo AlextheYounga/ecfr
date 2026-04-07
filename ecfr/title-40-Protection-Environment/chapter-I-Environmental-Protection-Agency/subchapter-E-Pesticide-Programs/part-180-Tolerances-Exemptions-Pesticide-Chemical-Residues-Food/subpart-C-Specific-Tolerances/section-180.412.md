@@ -1,6 +1,6 @@
 ##### § 180.412 Sethoxydim; tolerances for residues.
 
-(a) Tolerances are established for the herbicide sethoxydim, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of the herbicide 2-\[1-(ethoxyimino)butyl\]-5-\[2-(ethylthio)propyl\]-3-hydroxy-2-cyclohexen-1-one (CAS Reg. No. 74051-80-2) and its metabolites containing the 2-cyclohexen-1-one moiety, calculated as the stoichiometric equivalent of sethoxydim, in or on the commodity. 
+(a) Tolerances are established for the herbicide sethoxydim, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of the herbicide 2-\[1-(ethoxyimino)butyl\]-5-\[2-(ethylthio)propyl\]-3-hydroxy-2-cyclohexen-1-one (CAS Reg. No. 74051-80-2) and its metabolites containing the 2-cyclohexen-1-one moiety, calculated as the stoichiometric equivalent of sethoxydim, in or on the commodity.
 
 Table 1 to Paragraph (a)
 | Commodity                                                                                      | Parts per    million |
@@ -124,9 +124,9 @@ Table 1 to Paragraph (a)
 | Vernonia, meal                                                                                 | 20                   |
 | 1 The individual tolerances for Juneberry, Lingonberry, and Salal expire on December 15, 2015. |                      |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registration.* Tolerances are established for the herbicide sethoxydim, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of the herbicide 2-\[1-(ethoxyimino)butyl\]-5-\[2-(ethylthio)propyl\]-3-hydroxy-2-cyclohexen-1-one) and its metabolites containing the 2-cyclohexen-1-one moiety, calculated as the stoichiometric equivalent of sethoxydim, in or on the commodity. 
+(c) *Tolerances with regional registration.* Tolerances are established for the herbicide sethoxydim, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of the herbicide 2-\[1-(ethoxyimino)butyl\]-5-\[2-(ethylthio)propyl\]-3-hydroxy-2-cyclohexen-1-one) and its metabolites containing the 2-cyclohexen-1-one moiety, calculated as the stoichiometric equivalent of sethoxydim, in or on the commodity.
 
 | Commodity        | Parts per   million |
 | ---------------- | ------------------- |
@@ -135,6 +135,6 @@ Table 1 to Paragraph (a)
 | Fescue, hay      | 4.0                 |
 | Rhubarb          | 0.3                 |
 
-(d) *Indirect and inadvertent residues.* \[Reserved\] 
+(d) *Indirect and inadvertent residues.* \[Reserved\]
 
 \[80 FR 34077, June 15, 2015, as amended at 85 FR 78002, Dec. 3, 2020\]

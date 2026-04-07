@@ -1,6 +1,6 @@
 ##### § 180.681 Isofetamid; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide isofetamid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only isofetamid, *N*-\[1,1-dimethyl-2-\[2-methyl-4-(1-methylethoxy)phenyl\]-2-oxoethyl\]-3-methyl-2-thiophenecarboxamide, in or on the following commodities: 
+(a) *General.* Tolerances are established for residues of the fungicide isofetamid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only isofetamid, *N*-\[1,1-dimethyl-2-\[2-methyl-4-(1-methylethoxy)phenyl\]-2-oxoethyl\]-3-methyl-2-thiophenecarboxamide, in or on the following commodities:
 
 Table 1 to Paragraph (a)
 | Commodity                                                           | Parts per   million |
@@ -147,10 +147,10 @@ Table 1 to Paragraph (a)
 | Velvetbean, succulent shelled                                       | 0.04                |
 | Yam bean, African, dry seed                                         | 0.04                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[80 FR 45443, July 30, 2015, as amended at 81 FR 70974, Oct. 14, 2016; 82 FR 27154, June 14, 2017; 87 FR 45668, July 29, 2022\]

@@ -1,6 +1,6 @@
 ##### § 180.515 Carfentrazone-ethyl; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide carfentrazone-ethyl, including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the following tolerance levels is to be determined by measuring only the sum of carfentrazone-ethyl (ethyl-alpha-2-dichloro-5-\[-4-(difluoromethyl)-4,5-dihydro-3-methyl-5-oxo-1*H* -1,2,4-triazol-1-yl\]-4-fluorobenzenepropanoate) and its metabolite carfentrazone-chloropropionic acid (alpha, 2-dichloro-5-\[-4-difluoromethyl)-4,5-dihydro-3-methyl-5-oxo-1*H*-1,2,4-triazol-1-yl\]-4-fluorobenzenepropanoic acid), calculated as the stoichiometric equivalent of carfentrazone-ethyl, in or on the following commodities: 
+(a) *General.* Tolerances are established for residues of the herbicide carfentrazone-ethyl, including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the following tolerance levels is to be determined by measuring only the sum of carfentrazone-ethyl (ethyl-alpha-2-dichloro-5-\[-4-(difluoromethyl)-4,5-dihydro-3-methyl-5-oxo-1*H* -1,2,4-triazol-1-yl\]-4-fluorobenzenepropanoate) and its metabolite carfentrazone-chloropropionic acid (alpha, 2-dichloro-5-\[-4-difluoromethyl)-4,5-dihydro-3-methyl-5-oxo-1*H*-1,2,4-triazol-1-yl\]-4-fluorobenzenepropanoic acid), calculated as the stoichiometric equivalent of carfentrazone-ethyl, in or on the following commodities:
 
 | Commodity                                                           | Parts per million |
 | ------------------------------------------------------------------- | ----------------- |
@@ -127,10 +127,10 @@
 | Wax jambu                                                           | 0.10              |
 | 1 Effective Date to be removed: May 18, 2016.                       |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[63 FR 52180, Sept. 30, 1998\] Editorial Note:For Federal Register citations affecting § 180.515, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

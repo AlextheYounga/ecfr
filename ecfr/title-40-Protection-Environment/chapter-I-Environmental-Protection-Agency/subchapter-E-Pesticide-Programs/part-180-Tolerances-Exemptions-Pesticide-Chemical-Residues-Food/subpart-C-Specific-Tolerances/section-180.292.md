@@ -1,6 +1,6 @@
 ##### § 180.292 Picloram; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide picloram, 4-amino-3,5,6-trichloropicolinic acid, including its metabolites and degradates, in or on the commodities in the following table from its application in the acid form or in the form of its salts. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only picloram, 4-amino-3,5,6-trichloropicolinic acid, in or on the commodity. 
+(a) *General.* Tolerances are established for residues of the herbicide picloram, 4-amino-3,5,6-trichloropicolinic acid, including its metabolites and degradates, in or on the commodities in the following table from its application in the acid form or in the form of its salts. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only picloram, 4-amino-3,5,6-trichloropicolinic acid, in or on the commodity.
 
 | Commodity                  | Parts per million |
 | -------------------------- | ----------------- |
@@ -42,10 +42,10 @@
 | Wheat, shorts              | 3.0               |
 | Wheat, straw               | 1.0               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[41 FR 19221, May 11, 1976, as amended at 47 FR 53005, Nov. 24, 1982; 64 FR 425, Jan. 5, 1999; 64 FR 39082, July 21, 1999; 72 FR 41930, Aug. 1, 2007; 75 FR 60243, Sept. 29, 2010\]

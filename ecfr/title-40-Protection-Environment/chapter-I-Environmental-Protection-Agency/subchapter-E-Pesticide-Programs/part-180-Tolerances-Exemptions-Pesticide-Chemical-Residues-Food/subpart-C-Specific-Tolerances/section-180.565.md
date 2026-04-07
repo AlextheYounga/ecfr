@@ -1,6 +1,6 @@
 ##### § 180.565 Thiamethoxam; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide thiamethoxam, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels specified below is to be determined by measuring only thiamethoxam 3-\[(2-chloro-5-thiazolyl)methyl\]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine and its metabolite CGA-322704 N-\[(2-chloro-thiazol-5-yl)methyl\]-N′-methyl-N″-nitro-guanidine, calculated as the stoichiometric equivalent of thiamethoxam, in or on the following commodities: 
+(a) *General.* Tolerances are established for residues of the insecticide thiamethoxam, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels specified below is to be determined by measuring only thiamethoxam 3-\[(2-chloro-5-thiazolyl)methyl\]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine and its metabolite CGA-322704 N-\[(2-chloro-thiazol-5-yl)methyl\]-N′-methyl-N″-nitro-guanidine, calculated as the stoichiometric equivalent of thiamethoxam, in or on the following commodities:
 
 Table 1 to Paragraph (a)
 | Commodity                                                                                                                                                       | Parts per   million |
@@ -109,7 +109,7 @@ Table 1 to Paragraph (a)
 | 1 There are no U.S. registrations for these commodities as of February 15, 2017.                                                                                |                     |
 | 2 There are no U.S. registrations for these commodities as of June 15, 2022.                                                                                    |                     |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances specified in the table are established for residues of the insecticide thiamethoxam, including its metabolites and degradates. Compliance with the tolerance levels specified below is to be determined by measuring only thiamethoxam 3-\[(2-chloro-5-thiazolyl)methyl\]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine and its metabolite CGA-322704 N-\[(2-chloro-thiazol-5-yl)methyl\]-N′-methyl-N″-nitro-guanidine, calculated as the stoichiometric equivalent of thiamethoxam, in or on the specified agricultural commodities, resulting from use of the pesticide pursuant to FFIFRA section 18 emergency exemptions. The tolerances expire on the date specified in the table. 
+(b) *Section 18 emergency exemptions.* Time-limited tolerances specified in the table are established for residues of the insecticide thiamethoxam, including its metabolites and degradates. Compliance with the tolerance levels specified below is to be determined by measuring only thiamethoxam 3-\[(2-chloro-5-thiazolyl)methyl\]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine and its metabolite CGA-322704 N-\[(2-chloro-thiazol-5-yl)methyl\]-N′-methyl-N″-nitro-guanidine, calculated as the stoichiometric equivalent of thiamethoxam, in or on the specified agricultural commodities, resulting from use of the pesticide pursuant to FFIFRA section 18 emergency exemptions. The tolerances expire on the date specified in the table.
 
 Table 2 to Paragraph (b)
 | Commodity   | Parts per   million | Expiration   date |
@@ -117,8 +117,8 @@ Table 2 to Paragraph (b)
 | Rice, grain | 6                   | 12/31/2027        |
 | Rice, straw | 2                   | 12/31/2027        |
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[65 FR 79762, Dec. 20, 2000\] Editorial Note:For Federal Register citations affecting § 180.565, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

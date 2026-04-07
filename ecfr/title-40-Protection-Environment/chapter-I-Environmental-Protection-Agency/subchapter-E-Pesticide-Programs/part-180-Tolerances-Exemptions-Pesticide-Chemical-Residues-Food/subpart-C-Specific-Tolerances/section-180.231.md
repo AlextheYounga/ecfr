@@ -1,6 +1,6 @@
 ##### § 180.231 Dichlobenil; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of dichlobenil, including its metabolites and degradates, in or on the commodities in the table in this paragraph (a). Compliance with the tolerance levels specified in this paragraph (a) is to be determined by measuring only the sum of dichlobenil (2,6-dichlorobenzonitrile) and its BAM metabolite (2,6-dichlorobenzamide), calculated as the stoichiometric equivalent of dichlobenil, in or on the commodity. 
+(a) *General.* Tolerances are established for residues of dichlobenil, including its metabolites and degradates, in or on the commodities in the table in this paragraph (a). Compliance with the tolerance levels specified in this paragraph (a) is to be determined by measuring only the sum of dichlobenil (2,6-dichlorobenzonitrile) and its BAM metabolite (2,6-dichlorobenzamide), calculated as the stoichiometric equivalent of dichlobenil, in or on the commodity.
 
 Table 1 to Paragraph (a)
 | Commodity                                     | Parts per million |
@@ -17,10 +17,10 @@ Table 1 to Paragraph (a)
 | Rhubarb                                       | 0.06              |
 | 1 This tolerance expires on January 19, 2024. |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registration.* \[Reserved\] 
+(c) *Tolerances with regional registration.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[36 FR 22540, Nov. 25, 1971, as amended at 63 FR 57075, Oct. 26, 1998; 66 FR 63198, Dec. 5, 2001; 73 FR 50570, Aug. 27, 2008; 88 FR 46083, July 19, 2023\]

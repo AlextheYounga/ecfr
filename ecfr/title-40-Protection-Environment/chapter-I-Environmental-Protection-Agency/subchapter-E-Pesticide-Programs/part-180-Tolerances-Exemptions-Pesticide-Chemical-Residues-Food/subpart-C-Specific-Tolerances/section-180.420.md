@@ -1,13 +1,13 @@
 ##### § 180.420 Fluridone; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the herbicide fluridone, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of fluridone, 1-methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4(1*H*)-pyridinone, and its bound residues, calculated as the stoichiometric equivalent of fluridone, in or on the commodity. 
+(a) *General.* (1) Tolerances are established for residues of the herbicide fluridone, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of fluridone, 1-methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4(1*H*)-pyridinone, and its bound residues, calculated as the stoichiometric equivalent of fluridone, in or on the commodity.
 
 | Commodity | Parts per million |
 | --------- | ----------------- |
 | Crayfish  | 0.5               |
 | Fish      | 0.5               |
 
-(2) Tolerances are established for residues of the herbicide fluridone, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only fluridone, 1-methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4(1*H*)-pyridinone, in or on the commodity. 
+(2) Tolerances are established for residues of the herbicide fluridone, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only fluridone, 1-methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4(1*H*)-pyridinone, in or on the commodity.
 
 | Commodity                                                                            | Parts per million |
 | ------------------------------------------------------------------------------------ | ----------------- |
@@ -59,11 +59,11 @@
 | Tropical and subtropical, small fruit, edible peel, subgroup 23A                     | 0.1               |
 | Tropical and subtropical, medium to large fruit, smooth, inedible peel, subgroup 24B | 0.1               |
 
-(b) \[Reserved\] 
+(b) \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of the herbicide fluridone, including its metabolites and degradates, in or on the irrigated crop commodities and crop groupings in the table in this paragraph, resulting from use of irrigation water containing residues of 0.15 parts per million following applications of fluridone on or around aquatic sites. Where tolerances are established at higher levels from other uses of fluridone on the crops in the table in this paragraph, the higher tolerance also applies to residues in or on the irrigated commodity. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only fluridone, 1-methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4(1*H*)-pyridinone, in or on the commodity. 
+(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of the herbicide fluridone, including its metabolites and degradates, in or on the irrigated crop commodities and crop groupings in the table in this paragraph, resulting from use of irrigation water containing residues of 0.15 parts per million following applications of fluridone on or around aquatic sites. Where tolerances are established at higher levels from other uses of fluridone on the crops in the table in this paragraph, the higher tolerance also applies to residues in or on the irrigated commodity. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only fluridone, 1-methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4(1*H*)-pyridinone, in or on the commodity.
 
 | Commodity                                         | Parts per million |
 | ------------------------------------------------- | ----------------- |

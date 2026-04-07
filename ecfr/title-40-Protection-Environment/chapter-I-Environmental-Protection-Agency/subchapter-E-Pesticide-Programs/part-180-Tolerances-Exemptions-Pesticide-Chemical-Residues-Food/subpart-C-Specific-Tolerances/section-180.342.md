@@ -1,6 +1,6 @@
 ##### § 180.342 Chlorpyrifos; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the pesticide chlorpyrifos *per se* (*O,O*-diethyl-*O*-(3,5,6-trichloro-2-pyridyl) phosphorothioate) in or on the following food commodities: 
+(a) *General.* (1) Tolerances are established for residues of the pesticide chlorpyrifos *per se* (*O,O*-diethyl-*O*-(3,5,6-trichloro-2-pyridyl) phosphorothioate) in or on the following food commodities:
 
 | Commodity                                      | Parts per million |
 | ---------------------------------------------- | ----------------- |
@@ -85,41 +85,41 @@
 | Wheat, grain                                   | 0.5               |
 | Wheat, straw                                   | 6.0               |
 
-(2) Chlorpyrifos \[*O,O-*diethyl *O-*(3,5,6-trichloro-2-pyridyl) phosphorothioate\] may be safely used in accordance with the following prescribed conditions. 
+(2) Chlorpyrifos \[*O,O-*diethyl *O-*(3,5,6-trichloro-2-pyridyl) phosphorothioate\] may be safely used in accordance with the following prescribed conditions.
 
-(i) Application shall be limited solely to spot and/or crack and crevice treatment in food handling establishments where food and food products are held, processed, prepared or served. Contamination of food or food contact surfaces shall be avoided. Food must be removed or covered during treatment. 
+(i) Application shall be limited solely to spot and/or crack and crevice treatment in food handling establishments where food and food products are held, processed, prepared or served. Contamination of food or food contact surfaces shall be avoided. Food must be removed or covered during treatment.
 
-(ii) Spray concentration for spot treatment shall be limited to a maximum of 0.5 percent of the active ingredient by weight. A course, low-pressure spray shall be used to avoid atomization or splashing of the spray. 
+(ii) Spray concentration for spot treatment shall be limited to a maximum of 0.5 percent of the active ingredient by weight. A course, low-pressure spray shall be used to avoid atomization or splashing of the spray.
 
-(iii) Paint-on application for spot treatment shall be limited to a maximum of 2 percent of the active ingredient by weight. 
+(iii) Paint-on application for spot treatment shall be limited to a maximum of 2 percent of the active ingredient by weight.
 
-(iv) Crack and crevice treatment shall be limited to a maximum of 2 percent of the active ingredient by weight. Equipment capable of delivering a pin-stream of insecticide shall be used. 
+(iv) Crack and crevice treatment shall be limited to a maximum of 2 percent of the active ingredient by weight. Equipment capable of delivering a pin-stream of insecticide shall be used.
 
-(v) Application via adhesive strips shall contain a maximum of 10% by weight of the controlled-release product in food-handling establishments where food and food products are held, processed, prepared, or served. A maximum of 36 strips (or 5.15 grams of chlorpyrifos) is to be used per 100 square feet of floor space. The strips are not to be placed in exposed areas where direct contact with food, utensils, and food-contact surfaces would be likely to occur. 
+(v) Application via adhesive strips shall contain a maximum of 10% by weight of the controlled-release product in food-handling establishments where food and food products are held, processed, prepared, or served. A maximum of 36 strips (or 5.15 grams of chlorpyrifos) is to be used per 100 square feet of floor space. The strips are not to be placed in exposed areas where direct contact with food, utensils, and food-contact surfaces would be likely to occur.
 
-(vi) To assure safe use of the insecticide, its label and labeling shall conform to that registered by the U.S. Environmental Protection Agency, and it shall be used in accordance with such label and labeling. 
+(vi) To assure safe use of the insecticide, its label and labeling shall conform to that registered by the U.S. Environmental Protection Agency, and it shall be used in accordance with such label and labeling.
 
-(3) A tolerance of 0.1 part per million is established for residues of chlorpyrifos, per se, in or on food commodities (other than those already covered by a higher tolerance as a result of use on growing crops) in food service establishments where food and food products are prepared and served, as a result of the application of chlorpyrifos in microencapsulated form. 
+(3) A tolerance of 0.1 part per million is established for residues of chlorpyrifos, per se, in or on food commodities (other than those already covered by a higher tolerance as a result of use on growing crops) in food service establishments where food and food products are prepared and served, as a result of the application of chlorpyrifos in microencapsulated form.
 
-(i) Application of a microencapsulated product shall be limited solely to spot and/or crack and crevice treatment in food handling establishments where food and food products are prepared and served. All treatments shall be applied in such a manner as to avoid contamination of food or food contact surfaces. 
+(i) Application of a microencapsulated product shall be limited solely to spot and/or crack and crevice treatment in food handling establishments where food and food products are prepared and served. All treatments shall be applied in such a manner as to avoid contamination of food or food contact surfaces.
 
-(ii) Spray concentrations shall be limited to a maximum of 0.5 percent of the active ingredient by weight. 
+(ii) Spray concentrations shall be limited to a maximum of 0.5 percent of the active ingredient by weight.
 
-(iii) For crack and crevice treatment, equipment capable of delivering a pin stream of spray directly into cracks and crevices or capable of applying small amounts of insecticide into cracks and crevices shall be used. 
+(iii) For crack and crevice treatment, equipment capable of delivering a pin stream of spray directly into cracks and crevices or capable of applying small amounts of insecticide into cracks and crevices shall be used.
 
-(iv) For spot treatment, an individual spot shall not exceed 2 square feet. 
+(iv) For spot treatment, an individual spot shall not exceed 2 square feet.
 
-(v) To assure safe use of the insecticide, its label and labeling shall conform to that registered by the U.S. Environmental Protection Agency, and it shall be used in accordance with such label and labeling. 
+(v) To assure safe use of the insecticide, its label and labeling shall conform to that registered by the U.S. Environmental Protection Agency, and it shall be used in accordance with such label and labeling.
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in 180.1(l), are established for residues of the pesticide chlorpyrifos *per se* (*O,O*-diethyl- *O*-(3,5,6-trichloro-2-pyridyl) phosphorothioate) in or on the following food commodities: 
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in 180.1(l), are established for residues of the pesticide chlorpyrifos *per se* (*O,O*-diethyl- *O*-(3,5,6-trichloro-2-pyridyl) phosphorothioate) in or on the following food commodities:
 
 | Commodity | Parts per million |
 | --------- | ----------------- |
 | Asparagus | 5.0               |
 | Grape     | 0.01              |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[65 FR 33711, May 24, 2000, as amended at 67 FR 49617, July 31, 2002; 71 FR 74817, Dec. 13, 2006; 73 FR 53739, Sept. 17, 2008; 76 FR 56656, Sept. 14, 2011; 86 FR 48336, Aug. 30, 2021; 89 FR 7627, Feb. 5, 2024\]

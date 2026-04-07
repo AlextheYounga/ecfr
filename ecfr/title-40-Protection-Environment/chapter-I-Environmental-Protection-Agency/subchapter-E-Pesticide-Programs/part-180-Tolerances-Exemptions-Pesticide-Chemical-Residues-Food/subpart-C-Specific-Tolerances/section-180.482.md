@@ -1,6 +1,6 @@
 ##### § 180.482 Tebufenozide; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide tebufenozide, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only tebufenozide, 3,5-dimethylbenzoic acid 1-(1,1-dimethylethyl)-2-(4-ethylbenzoyl)hydrazide, in or on the commodity. 
+(a) *General.* (1) Tolerances are established for residues of the insecticide tebufenozide, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only tebufenozide, 3,5-dimethylbenzoic acid 1-(1,1-dimethylethyl)-2-(4-ethylbenzoyl)hydrazide, in or on the commodity.
 
 | Commodity                                                | Parts per million |
 | -------------------------------------------------------- | ----------------- |
@@ -36,7 +36,7 @@
 | 1 This tolerance expires on May 16, 2018.                |                   |
 | 2 There are no U.S. registrations on kiwifruit.          |                   |
 
-(2) Tolerances are established for residues of the insecticide tebufenozide, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of tebufenozide, 3,5-dimethylbenzoic acid 1-(1,1-dimethylethyl)-2-(4-ethylbenzoyl)hydrazide, and its metabolites, 3,5-dimethylbenzoic acid 1-(1,1-dimethylethyl)-2-((4-carboxymethyl)benzoyl)hydrazide, 3-hydroxymethyl-5-methylbenzoic acid 1-(1,1-dimethylethyl)-2-(4-ethylbenzoyl)hydrazide, stearic acid conjugate of 3-hydroxymethyl-5-methylbenzoic acid 1-(1,1-dimethylethyl)-2-(4-ethylbenzoyl)hydrazide, and 3-hydroxymethyl-5-methylbenzoic acid 1-(1,1-dimethylethyl)-2-(4-(1-hydroxyethyl)benzoyl)hydrazide, calculated as the stoichiometric equivalent of tebufenozide, in or on the commodity. 
+(2) Tolerances are established for residues of the insecticide tebufenozide, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of tebufenozide, 3,5-dimethylbenzoic acid 1-(1,1-dimethylethyl)-2-(4-ethylbenzoyl)hydrazide, and its metabolites, 3,5-dimethylbenzoic acid 1-(1,1-dimethylethyl)-2-((4-carboxymethyl)benzoyl)hydrazide, 3-hydroxymethyl-5-methylbenzoic acid 1-(1,1-dimethylethyl)-2-(4-ethylbenzoyl)hydrazide, stearic acid conjugate of 3-hydroxymethyl-5-methylbenzoic acid 1-(1,1-dimethylethyl)-2-(4-ethylbenzoyl)hydrazide, and 3-hydroxymethyl-5-methylbenzoic acid 1-(1,1-dimethylethyl)-2-(4-(1-hydroxyethyl)benzoyl)hydrazide, calculated as the stoichiometric equivalent of tebufenozide, in or on the commodity.
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -57,11 +57,11 @@
 | Sheep, meat             | 0.08              |
 | Sheep, meat byproducts  | 0.08              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of the insecticide tebufenozide, including its metabolites and degradates, in or on the commodities in the table in this paragraph when present therein as a result of the application of tebufenozide to growing crops listed in the table to paragraph (a)(1) of this section. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of tebufenozide, 3,5-dimethylbenzoic acid 1-(1,1-dimethylethyl)-2-(4-ethylbenzoyl)hydrazide, and its metabolite, 3,5-dimethylbenzoic acid 1-(1,1-dimethylethyl)-2-(4-(1-hydroxyethyl)benzoyl)hydrazide, calculated as the stoichiometric equivalent of tebufenozide, in or on the commodity. 
+(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of the insecticide tebufenozide, including its metabolites and degradates, in or on the commodities in the table in this paragraph when present therein as a result of the application of tebufenozide to growing crops listed in the table to paragraph (a)(1) of this section. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of tebufenozide, 3,5-dimethylbenzoic acid 1-(1,1-dimethylethyl)-2-(4-ethylbenzoyl)hydrazide, and its metabolite, 3,5-dimethylbenzoic acid 1-(1,1-dimethylethyl)-2-(4-(1-hydroxyethyl)benzoyl)hydrazide, calculated as the stoichiometric equivalent of tebufenozide, in or on the commodity.
 
 | Commodity                                         | Parts per million |
 | ------------------------------------------------- | ----------------- |

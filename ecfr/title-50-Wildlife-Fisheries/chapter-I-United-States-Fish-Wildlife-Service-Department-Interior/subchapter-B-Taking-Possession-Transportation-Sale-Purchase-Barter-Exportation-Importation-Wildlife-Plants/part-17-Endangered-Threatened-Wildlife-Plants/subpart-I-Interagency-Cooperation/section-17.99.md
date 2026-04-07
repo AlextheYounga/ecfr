@@ -1,6 +1,6 @@
 ##### § 17.99 Critical habitat; plants on the Hawaiian Islands.
 
-(a) *Maps and critical habitat unit descriptions for the islands of Kauai and Niihau, HI.* The following paragraphs contain the legal descriptions of the critical habitat units designated for the Hawaiian Islands of Kauai and Niihau. Existing manmade features and structures within the boundaries of the mapped areas, such as buildings; roads; aqueducts and other water system features, including but not limited to pumping stations, irrigation ditches, pipelines, siphons, tunnels, water tanks, gaging stations, intakes, reservoirs, diversions, flumes, and wells; existing trails; campgrounds and their immediate surrounding landscaped area; scenic lookouts; remote helicopter landing sites; existing fences; telecommunications equipment towers and associated structures and equipment; electrical power transmission lines and distribution, and communication facilities and regularly maintained associated rights-of-way and access ways; radars, telemetry antennas; missile launch sites; arboreta and gardens; heiau (indigenous places of worship or shrines), and other archaeological sites; airports; other paved areas; and lawns and other rural residential landscaped areas do not contain one or more of the primary constituent elements described for each species in paragraph (b) of this section and therefore are not included in the critical habitat designations.
+(a) *Maps and critical habitat unit descriptions for the islands of Kauai and Niihau, HI.* The following paragraphs contain the legal descriptions of the critical habitat units designated for the Hawaiian Islands of Kauai and Niihau. Existing manmade features and structures within the boundaries of the mapped areas, such as buildings; roads; aqueducts and other water system features, including but not limited to pumping stations, irrigation ditches, pipelines, siphons, tunnels, water tanks, gaging stations, intakes, reservoirs, diversions, flumes, and wells; existing trails; campgrounds and their immediate surrounding landscaped area; scenic lookouts; remote helicopter landing sites; existing fences; telecommunications equipment towers and associated structures and equipment; electrical power transmission lines and distribution, and communication facilities and regularly maintained associated rights-of-way and access ways; radars, telemetry antennas; missile launch sites; arboreta and gardens; heiau (indigenous places of worship or shrines), and other archaeological sites; airports; other paved areas; and lawns and other rural residential landscaped areas do not contain one or more of the primary constituent elements described for each species in paragraph (b) of this section and therefore are not included in the critical habitat designations.Note:
 
 (1) *Kauai.* Critical habitat units are described below. Coordinates are in UTM Zone 4 with units in meters using North American Datum of 1983 (NAD83). The following map shows the general locations of the critical habitat units designated on the island of Kauai.
 
@@ -3760,7 +3760,7 @@
 
 (b) *Plants on Kauai and Niihau; Constituent elements.* (1) *Flowering plants.*
 
-Family Amaranathaceae: Charpentiera densiflora (papala)
+Family Amaranathaceae: Charpentiera densiflora (papala) *imbricata*
 
 Kauai 7-*Charpentiera densiflora*-a, Kauai 10-*Charpentiera densiflora*-b, Kauai 11-*Charpentiera densiflora*-c, Kauai 11-*Charpentiera densiflora*-d, and Kauai 20-*Charpentiera densiflora*-e, identified in the legal descriptions in paragraph (a)(1) of this section, constitute critical habitat for *Charpentiera densiflora* on Kauai.
 
@@ -5826,7 +5826,7 @@ Kauai 7-*Doryopteris angelica*-a and Kauai 11-*Doryopteris angelica*-b, identifi
 
 (1) *Flowering plants.*
 
-Family Apiaceae Peucedanum sandwicense (MAKOU)
+Family Apiaceae Peucedanum sandwicense (MAKOU)*macrocephalum*
 
 Molokai—Coastal—Unit 1, Molokai—Coastal—Unit 2, Molokai—Coastal—Unit 3, Molokai—Coastal—Unit 4, Molokai—Coastal—Unit 5, Molokai—Coastal—Unit 6, Molokai—Coastal—Unit 7, Molokai—Lowland Wet—Unit 1, Molokai—Lowland Wet—Unit 2, and Molokai—Lowland Wet—Unit 3, identified in the legal descriptions in paragraph (c) of this section, constitute critical habitat for *Peucedanum sandwicense* on Molokai.
 
@@ -17748,7 +17748,7 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 
 (1) Index map follows:
 
-Figure 1 to paragraph (k) Map 1 Hawaii Critical Habitat—Island Index Map ![](/graphics/er12mr24.010.gif)(2) Hawaii 1—*Clermontia lindseyana*—a (1,337 ha, 3,303 ac)
+Figure 1 to paragraph (k) *Cyanea tritomantha*Map 1 Hawaii Critical Habitat—Island Index Map ![](/graphics/er12mr24.010.gif)(2) Hawaii 1—*Clermontia lindseyana*—a (1,337 ha, 3,303 ac)
 
 (i) \[Reserved\]
 

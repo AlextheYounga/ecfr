@@ -1,6 +1,6 @@
 ##### § 180.288 2-(Thiocyanomethylthio)benzothiazole; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide 2-(thiocyanomethylthio)benzothiazole in or on the following food commodities: 
+(a) *General.* Tolerances are established for residues of the fungicide 2-(thiocyanomethylthio)benzothiazole in or on the following food commodities:
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -29,10 +29,10 @@
 | Wheat, hay              | 0.1(N)            |
 | Wheat, straw            | 0.1(N)            |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[68 FR 39440, July 1, 2003, as amended at 74 FR 46374, Sept. 9, 2009; 80 FR 72598, Nov. 20, 2015\]

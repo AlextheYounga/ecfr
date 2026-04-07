@@ -1,6 +1,6 @@
 ##### § 180.687 Teflubenzuron; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide teflubenzuron, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only teflubenzuron (*N*-\[\[(3,5-dichloro-2,4-difluorophenyl)amino\]carbonyl\]-2,6-difluorobenzamide). 
+(a) *General.* (1) Tolerances are established for residues of the insecticide teflubenzuron, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only teflubenzuron (*N*-\[\[(3,5-dichloro-2,4-difluorophenyl)amino\]carbonyl\]-2,6-difluorobenzamide).
 
 Table 1 to Paragraph (a)(1)
 | Commodity                              | Parts per   million |
@@ -27,8 +27,8 @@ Table 1 to Paragraph (a)(1)
 | Tomato 1                               | 1.5                 |
 | 1 Tolerance without U.S. registration. |                     |
 
-(2) \[Reserved\] 
+(2) \[Reserved\]
 
-(b)-(d) \[Reserved\] 
+(b)-(d) \[Reserved\]
 
 \[80 FR 66809, Oct. 30, 2015, as amended at 87 FR 34209, June 6, 2022\]

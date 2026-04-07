@@ -1,6 +1,6 @@
 ##### § 180.500 Imazapyr; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide, imazapyr, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only the residues of imazapyr \[2-\[4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1*H*-imidazol-2-yl\]-3-pyridinecarboxylic acid\]. 
+(a) *General.* Tolerances are established for residues of the herbicide, imazapyr, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only the residues of imazapyr \[2-\[4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1*H*-imidazol-2-yl\]-3-pyridinecarboxylic acid\].
 
 Table 1 to Paragraph (a)
 | Commodity                                                | Parts per million |
@@ -38,10 +38,10 @@ Table 1 to Paragraph (a)
 | Sunflower subgroup 20B 1                                 | 0.05              |
 | 1 There are no U.S. registrations as of August 24, 2023. |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[68 FR 55484, Sept. 26, 2003, as amended at 78 FR 66653, Nov. 6, 2013; 79 FR 19487, Apr. 9, 2014; 88 FR 57894, Aug. 24, 2023\]

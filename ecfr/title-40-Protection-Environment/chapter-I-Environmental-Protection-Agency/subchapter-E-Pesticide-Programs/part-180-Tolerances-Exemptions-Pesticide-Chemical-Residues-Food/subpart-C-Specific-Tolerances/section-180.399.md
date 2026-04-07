@@ -1,6 +1,6 @@
 ##### § 180.399 Iprodione; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for the combined residues of the fungicide iprodione \[3-(3,5-dichlorophenyl)-*N*-(1-methylethyl)-2,4-dioxo-1-imidazolidinecarboxamide\], its isomer 3-(1-methylethyl)-*N*-(3,5-dichlorophenyl)-2,4-dioxo-1-imidazolidinecarboxamide, and its metabolite 3-(3,5-dichlorophenyl)-2,4-dioxo-1-imidazolidine-carboxamide in or on the following food commodities: 
+(a) *General.* (1) Tolerances are established for the combined residues of the fungicide iprodione \[3-(3,5-dichlorophenyl)-*N*-(1-methylethyl)-2,4-dioxo-1-imidazolidinecarboxamide\], its isomer 3-(1-methylethyl)-*N*-(3,5-dichlorophenyl)-2,4-dioxo-1-imidazolidinecarboxamide, and its metabolite 3-(3,5-dichlorophenyl)-2,4-dioxo-1-imidazolidine-carboxamide in or on the following food commodities:
 
 | Commodity                  | Parts per million |
 | -------------------------- | ----------------- |
@@ -41,7 +41,7 @@
 | Rice, hulls                | 50.0              |
 | Strawberry                 | 15.0              |
 
-(2) Tolerances are established for the combined residues of iprodione \[3-(3,5-dichlorophenyl)-*N*-(1-methylethyl)-2,4-dioxo-1-imidazolidinecarboxamide\], its isomer \[3-(1-methylethyl)-*N*-(3,5-dichlorophenyl)-2,4-dioxo-1-imidazolidinecarboxamide, and its metabolites \[3-(3,5-dichlorophenyl)-2,4-dioxo-1-imidazolidine-carboxamide\] and \[*N*-(3,5-dichloro-4-hydroxyphenyl)-ureido-carboxamide\], all expressed as iprodione equivalents in or on the following food commodities of animal origin: 
+(2) Tolerances are established for the combined residues of iprodione \[3-(3,5-dichlorophenyl)-*N*-(1-methylethyl)-2,4-dioxo-1-imidazolidinecarboxamide\], its isomer \[3-(1-methylethyl)-*N*-(3,5-dichlorophenyl)-2,4-dioxo-1-imidazolidinecarboxamide, and its metabolites \[3-(3,5-dichlorophenyl)-2,4-dioxo-1-imidazolidine-carboxamide\] and \[*N*-(3,5-dichloro-4-hydroxyphenyl)-ureido-carboxamide\], all expressed as iprodione equivalents in or on the following food commodities of animal origin:
 
 | Commodity                                        | Parts per million |
 | ------------------------------------------------ | ----------------- |
@@ -77,14 +77,14 @@
 | Sheep, meat                                      | 0.5               |
 | Sheep, meat byproducts, except kidney and liver  | 0.5               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for the combined residues of the fungicide iprodione \[3-(3,5-dichlorophenyl)-N-(1-methylethyl)-2,4-dioxo-1-imidazolidinecarboxamide\], its isomer \[3-(1-methylethyl)-N-(3,5-dichlorophenyl)-2,4-dioxo-1-imidazolidinecarboxamide\], and its metabolite \[3-(3,5-dichlorophenyl)-2,4-dioxo-1-imidazolidinecarboxamide\] in or on the following food commodity: 
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for the combined residues of the fungicide iprodione \[3-(3,5-dichlorophenyl)-N-(1-methylethyl)-2,4-dioxo-1-imidazolidinecarboxamide\], its isomer \[3-(1-methylethyl)-N-(3,5-dichlorophenyl)-2,4-dioxo-1-imidazolidinecarboxamide\], and its metabolite \[3-(3,5-dichlorophenyl)-2,4-dioxo-1-imidazolidinecarboxamide\] in or on the following food commodity:
 
 | Commodity      | Parts per million |
 | -------------- | ----------------- |
 | Mustard greens | 15.0              |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[48 FR 40385, Sept. 7, 1983\] Editorial Note:For Federal Register citations affecting § 180.399, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

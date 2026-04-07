@@ -1,6 +1,6 @@
 ##### § 180.594 Thiacloprid; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide thiacloprid, including its metabolites and degradates in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only thiacloprid (\[3-\[(6-chloro-3-pyridinyl)methyl\]-2-thiazolidinylidene\] cyanamide) in or on the commodity. 
+(a) *General.* Tolerances are established for residues of the insecticide thiacloprid, including its metabolites and degradates in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only thiacloprid (\[3-\[(6-chloro-3-pyridinyl)methyl\]-2-thiazolidinylidene\] cyanamide) in or on the commodity.
 
 Table 1 to Paragraph (a)
 | Commodity                                                                 | Parts per million |
@@ -36,10 +36,10 @@ Table 1 to Paragraph (a)
 | Sheep, meat byproducts 1                                                  | 0.050             |
 | 1 There are no U.S. registrations for the commodity since August 6, 2014. |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[68 FR 55512, Sept. 26, 2003, as amended at 78 FR 8416, Feb. 6, 2013; 81 FR 34907, June 1, 2016; 88 FR 46086, July 19, 2023\]

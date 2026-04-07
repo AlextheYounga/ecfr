@@ -1,6 +1,6 @@
 ##### § 180.680 Fluensulfone; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the nematicide fluensulfone, including its metabolites and degradates, in or on the commodities in the table 1 to § 180.680. Compliance with the tolerance levels specified in the following table below is to be determined by measuring only the sum of fluensulfone, 5-chloro-2-\[(3,4,4-trifluoro-3-buten-1-yl)sulfonyl\]thiazole and its metabolite, 3,4,4-trifluoro-but-3-ene-1-sulfonic acid, calculated as the stoichiometric equivalent of fluensulfone, in or on the commodity. 
+(a) *General.* Tolerances are established for residues of the nematicide fluensulfone, including its metabolites and degradates, in or on the commodities in the table 1 to § 180.680. Compliance with the tolerance levels specified in the following table below is to be determined by measuring only the sum of fluensulfone, 5-chloro-2-\[(3,4,4-trifluoro-3-buten-1-yl)sulfonyl\]thiazole and its metabolite, 3,4,4-trifluoro-but-3-ene-1-sulfonic acid, calculated as the stoichiometric equivalent of fluensulfone, in or on the commodity.
 
 Table 1 to § 180.680
 | Commodity                                                        | Parts per million |
@@ -37,11 +37,11 @@ Table 1 to § 180.680
 | Vegetables, tuberous and corm, subgroup 1C                       | 0.8               |
 | 1 This tolerance expires on May 2, 2022.                         |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for residues of the nematicide fluensulfone, including its metabolites and degradates, in or on the commodities in table 2 to § 180.680. Compliance with the tolerance levels specified in the following table below is to be determined by measuring only the sum of fluensulfone, 5-chloro-2-\[(3,4,4-trifluoro-3-buten-1-yl)sulfonyl\]thiazole and its metabolite, 3,4,4-trifluoro-but-3-ene-1-sulfonic acid, calculated as the stoichiometric equivalent of fluensulfone, in or on the commodity. 
+(d) *Indirect or inadvertent residues.* Tolerances are established for residues of the nematicide fluensulfone, including its metabolites and degradates, in or on the commodities in table 2 to § 180.680. Compliance with the tolerance levels specified in the following table below is to be determined by measuring only the sum of fluensulfone, 5-chloro-2-\[(3,4,4-trifluoro-3-buten-1-yl)sulfonyl\]thiazole and its metabolite, 3,4,4-trifluoro-but-3-ene-1-sulfonic acid, calculated as the stoichiometric equivalent of fluensulfone, in or on the commodity.
 
 Table 2 to § 180.680
 | Commodity                                         | Parts per   million |

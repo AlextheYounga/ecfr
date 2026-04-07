@@ -1,6 +1,6 @@
 ##### § 180.507 Azoxystrobin; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the fungicide, azoxystrobin, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the table is to be determined by measuring only the sum of azoxystrobin, \[methyl(*E*)-2-(2-(6-(2-cyanophenoxy) pyrimidin-4-yloxy)phenyl)-3-methoxyacrylate\], and the Z-isomer of azoxystrobin \[methyl(*Z*)-2-(2-(6-(2-cyanophenoxy)pyrimidin-4-yloxy)phenyl)-3 methoxyacrylate\] in or on the commodity. 
+(a) *General.* (1) Tolerances are established for residues of the fungicide, azoxystrobin, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the table is to be determined by measuring only the sum of azoxystrobin, \[methyl(*E*)-2-(2-(6-(2-cyanophenoxy) pyrimidin-4-yloxy)phenyl)-3-methoxyacrylate\], and the Z-isomer of azoxystrobin \[methyl(*Z*)-2-(2-(6-(2-cyanophenoxy)pyrimidin-4-yloxy)phenyl)-3 methoxyacrylate\] in or on the commodity.
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                                                                      | Parts per million |
@@ -141,7 +141,7 @@ Table 1 to Paragraph (a)(1)
 | 1 There are no United States registrations for use of azoxystrobin on coffee, green bean; ginseng; pear, Asian and tea, dried. |                   |
 | 2 There are no U.S. registrations on palm, oil as of March 20, 2023.                                                           |                   |
 
-(2) Tolerances are established for residues of the fungicide, azoxystrobin, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the table is to be determined by measuring only azoxystrobin, \[methyl(*E*)-2-(2-(6-(2-cyanophenoxy) pyrimidin-4-yloxy)phenyl)-3-methoxyacrylate\] in or on the commodity. 
+(2) Tolerances are established for residues of the fungicide, azoxystrobin, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the table is to be determined by measuring only azoxystrobin, \[methyl(*E*)-2-(2-(6-(2-cyanophenoxy) pyrimidin-4-yloxy)phenyl)-3-methoxyacrylate\] in or on the commodity.
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -162,10 +162,10 @@ Table 1 to Paragraph (a)(1)
 | Sheep, meat             | 0.01              |
 | Sheep, meat byproducts  | 0.07              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registration.* \[Reserved\] 
+(c) *Tolerances with regional registration.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[62 FR 32235, June 13, 1997\] Editorial Note:For Federal Register citations affecting § 180.507, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

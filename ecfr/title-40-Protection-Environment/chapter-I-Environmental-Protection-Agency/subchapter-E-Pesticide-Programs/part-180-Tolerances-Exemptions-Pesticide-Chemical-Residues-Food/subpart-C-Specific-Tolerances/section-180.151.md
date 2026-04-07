@@ -1,6 +1,6 @@
 ##### § 180.151 Ethylene oxide; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the antimicrobial agent and insecticide ethylene oxide, when used as a postharvest fumigant in or on the following food commodities: 
+(a) *General.* (1) Tolerances are established for residues of the antimicrobial agent and insecticide ethylene oxide, when used as a postharvest fumigant in or on the following food commodities:
 
 | Commodity                                     | Parts per million |
 | --------------------------------------------- | ----------------- |
@@ -12,7 +12,7 @@
 | Vegetable, dried                              | 7                 |
 | Walnut                                        | 50                |
 
-(2) Tolerances are established for residues of the ethylene oxide reaction product, 2-chloroethanol, commonly referred to as ethylene chlorohydrin, when ethylene oxide is used as a postharvest fumigant in or on food commodities as follows: 
+(2) Tolerances are established for residues of the ethylene oxide reaction product, 2-chloroethanol, commonly referred to as ethylene chlorohydrin, when ethylene oxide is used as a postharvest fumigant in or on food commodities as follows:
 
 | Commodity                                     | Parts per million |
 | --------------------------------------------- | ----------------- |
@@ -23,10 +23,10 @@
 | Spearmint, tops, dried                        | 940               |
 | Vegetable, dried                              | 940               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[65 FR 33695, May 24, 2000, as amended at 74 FR 46696, Sept. 11, 2009\]

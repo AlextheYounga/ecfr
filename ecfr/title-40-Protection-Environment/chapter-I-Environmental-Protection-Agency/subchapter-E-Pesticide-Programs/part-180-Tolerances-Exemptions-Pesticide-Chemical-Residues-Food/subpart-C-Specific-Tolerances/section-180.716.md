@@ -1,6 +1,6 @@
 ##### § 180.716 Fluindapyr; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the fungicide fluindapyr, including its metabolites and degradates, in or on the commodities in Table 1 of this section. Compliance with the tolerance levels specified in Table 1 is to be determined by measuring only fluindapyr, 3-(difluoromethyl)-*N*-(7-fluoro-1,1,3-trimethyl-2,3-dihydro-1*H*-inden-4-yl)-1-methyl-1*H*-pyrazole-4-carboxamide, in or on the commodity. 
+(a) *General.* (1) Tolerances are established for residues of the fungicide fluindapyr, including its metabolites and degradates, in or on the commodities in Table 1 of this section. Compliance with the tolerance levels specified in Table 1 is to be determined by measuring only fluindapyr, 3-(difluoromethyl)-*N*-(7-fluoro-1,1,3-trimethyl-2,3-dihydro-1*H*-inden-4-yl)-1-methyl-1*H*-pyrazole-4-carboxamide, in or on the commodity.
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                               | Parts per   million |
@@ -35,7 +35,7 @@ Table 1 to Paragraph (a)(1)
 | Soybean, hulls                                                          | 0.6                 |
 | Soybean, seed                                                           | 0.2                 |
 
-(2) Tolerances are established for residues of the fungicide fluindapyr, including its metabolites and degradates, in or on the commodities in Table 2 of this section. Compliance with the tolerance levels specified in Table 2 is to be determined by measuring the sum of fluindapyr, 3-(difluoromethyl)-*N*-(7-fluoro-1,1,3-trimethyl-2,3-dihydro-1*H*-inden-4-yl)-1-methyl-1*H*-pyrazole-4-carboxamide, and 3-(difluoromethyl)-*N*-(7-fluoro-1-hydroxymethyl-1,3-dimethyl-2,3-dihydro-l*H*-inden-4-yl)-1-methyl-l*H*-pyrazole-4-carboxamide, calculated as the stoichiometric equivalent of fluindapyr, in or on the commodity. 
+(2) Tolerances are established for residues of the fungicide fluindapyr, including its metabolites and degradates, in or on the commodities in Table 2 of this section. Compliance with the tolerance levels specified in Table 2 is to be determined by measuring the sum of fluindapyr, 3-(difluoromethyl)-*N*-(7-fluoro-1,1,3-trimethyl-2,3-dihydro-1*H*-inden-4-yl)-1-methyl-1*H*-pyrazole-4-carboxamide, and 3-(difluoromethyl)-*N*-(7-fluoro-1-hydroxymethyl-1,3-dimethyl-2,3-dihydro-l*H*-inden-4-yl)-1-methyl-l*H*-pyrazole-4-carboxamide, calculated as the stoichiometric equivalent of fluindapyr, in or on the commodity.
 
 Table 2 to Paragraph (a)(2)
 | Commodity                | Parts per   million |
@@ -47,6 +47,6 @@ Table 2 to Paragraph (a)(2)
 | Poultry, meat byproducts | 0.01                |
 | Sheep, meat byproducts   | 0.3                 |
 
-(b)-(d) \[Reserved\] 
+(b)-(d) \[Reserved\]
 
 \[86 FR 13465, Mar. 8, 2021, as amended at 89 FR 88660, Nov. 8, 2024\]

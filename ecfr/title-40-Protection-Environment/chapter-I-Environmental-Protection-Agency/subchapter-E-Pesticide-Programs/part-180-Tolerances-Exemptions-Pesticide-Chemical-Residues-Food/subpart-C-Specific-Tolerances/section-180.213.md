@@ -1,6 +1,6 @@
 ##### § 180.213 Simazine; tolerances for residues.
 
-(a) *General.* Tolerances are established residues of the herbicide simazine, including its metabolites and degradates, in or on the commodities in table 1 to this paragraph (a). Compliance with the tolerance levels specified in table 1 to this paragraph (a) is to be determined by measuring only the sum of simazine, 6-chloro-N,N′-diethyl-1,3,5-triazine-2,4-diamine, and its metabolites 6-chloro-N-ethyl-1,3,5-triazine-2,4-diamine, and 6-chloro-1,3,5-triazine-2,4-diamine, calculated as the stoichiometric equivalent of simazine, in or on the commodity. 
+(a) *General.* Tolerances are established residues of the herbicide simazine, including its metabolites and degradates, in or on the commodities in table 1 to this paragraph (a). Compliance with the tolerance levels specified in table 1 to this paragraph (a) is to be determined by measuring only the sum of simazine, 6-chloro-N,N′-diethyl-1,3,5-triazine-2,4-diamine, and its metabolites 6-chloro-N-ethyl-1,3,5-triazine-2,4-diamine, and 6-chloro-1,3,5-triazine-2,4-diamine, calculated as the stoichiometric equivalent of simazine, in or on the commodity.
 
 Table 1 to Paragraph (a)
 | Commodity                                       | Parts per   million |
@@ -53,6 +53,6 @@ Table 1 to Paragraph (a)
 | Walnut 1                                        | 0.2                 |
 | 1 This tolerance expires on June 22, 2023.      |                     |
 
-(b)-(d) \[Reserved\] 
+(b)-(d) \[Reserved\]
 
 \[87 FR 78567, Dec. 22, 2022\]

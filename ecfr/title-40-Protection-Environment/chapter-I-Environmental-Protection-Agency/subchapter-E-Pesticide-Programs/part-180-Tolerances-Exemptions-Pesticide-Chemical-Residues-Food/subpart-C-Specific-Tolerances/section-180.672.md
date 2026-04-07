@@ -1,6 +1,6 @@
 ##### § 180.672 Cyantraniliprole; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the insecticide cyantraniliprole, 3-bromo-1-(3-chloro-2-pyridinyl)-N-\[4-cyano-2-methyl-6-\[((methylamino)carbonyl\]phenyl\]-1H-pyrazole-5-carboxamide, including its metabolites and degradates, in or on commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only cyantraniliprole in or on the commodity. 
+(a) *General.* Tolerances are established for the combined residues of the insecticide cyantraniliprole, 3-bromo-1-(3-chloro-2-pyridinyl)-N-\[4-cyano-2-methyl-6-\[((methylamino)carbonyl\]phenyl\]-1H-pyrazole-5-carboxamide, including its metabolites and degradates, in or on commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only cyantraniliprole in or on the commodity.
 
 Table 1 to Paragraph (a)
 | Commodity                                                                                         | Parts per   million |
@@ -83,11 +83,11 @@ Table 1 to Paragraph (a)
 | 1 There are no U.S. registrations for these commodities.                                          |                     |
 | 2 There are no U.S. registrations for these commodities as of May 15, 2024.                       |                     |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertant residues.* Tolerances are established for indirect or inadvertant tolerances for residues of cyantraniliprole, 3-bromo-1-(3-chloro-2-pyridinyl)-N-\[4-cyano-2-methyl-6-\[((methylamino)carbonyl\]phenyl\]-1H-pyrazole-5-carboxamide, including its metabolites and degradates, in or on commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only cyantraniliprole in or on the commodity. 
+(d) *Indirect or inadvertant residues.* Tolerances are established for indirect or inadvertant tolerances for residues of cyantraniliprole, 3-bromo-1-(3-chloro-2-pyridinyl)-N-\[4-cyano-2-methyl-6-\[((methylamino)carbonyl\]phenyl\]-1H-pyrazole-5-carboxamide, including its metabolites and degradates, in or on commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only cyantraniliprole in or on the commodity.
 
 Table 2 to Paragraph (d)
 | Commodity                                         | Parts per   million |

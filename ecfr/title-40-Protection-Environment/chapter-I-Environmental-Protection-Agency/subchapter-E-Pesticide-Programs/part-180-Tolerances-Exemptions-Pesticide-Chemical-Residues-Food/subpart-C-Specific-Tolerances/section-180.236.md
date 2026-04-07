@@ -1,6 +1,6 @@
 ##### § 180.236 Triphenyltin hydroxide; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the fungicide triphenyltin hydroxide (TPTH) and its monophenyltin (MPTH) and diphenyltin (DPTH) hydroxide and oxide metabolites, expressed in terms of parent TPTH, in or on the following raw agricultural commodities: 
+(a) *General.* Tolerances are established for the combined residues of the fungicide triphenyltin hydroxide (TPTH) and its monophenyltin (MPTH) and diphenyltin (DPTH) hydroxide and oxide metabolites, expressed in terms of parent TPTH, in or on the following raw agricultural commodities:
 
 | Commodity            | Parts per million |
 | -------------------- | ----------------- |
@@ -29,10 +29,10 @@
 | Sheep, liver         | 4.0               |
 | Sheep, meat          | 0.5               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[72 FR 41929, Aug. 1, 2007\]

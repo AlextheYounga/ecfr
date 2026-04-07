@@ -1,6 +1,6 @@
 ##### § 180.458 Clethodim; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide clethodim, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of clethodim, 2-\[(1E)-1-\[\[\[(2E)-3-chloro-2-propenyl\]oxy\]imino\]propyl\]-5-\[2-(ethylthio)propyl\]-3-hydroxy-2-cyclohexen-1-one, and its metabolites containing the 5-(2-ethylthiopropyl)cyclohexene-3-one and 5-(2-ethylthiopropyl)-5-hydroxycyclohexene-3-one moieties and their sulphoxides and sulphones, calculated as the stoichiometric equivalent of clethodim, in or on the commodity. 
+(a) *General.* Tolerances are established for residues of the herbicide clethodim, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of clethodim, 2-\[(1E)-1-\[\[\[(2E)-3-chloro-2-propenyl\]oxy\]imino\]propyl\]-5-\[2-(ethylthio)propyl\]-3-hydroxy-2-cyclohexen-1-one, and its metabolites containing the 5-(2-ethylthiopropyl)cyclohexene-3-one and 5-(2-ethylthiopropyl)-5-hydroxycyclohexene-3-one moieties and their sulphoxides and sulphones, calculated as the stoichiometric equivalent of clethodim, in or on the commodity.
 
 | Commodity                                             | Parts per million |
 | ----------------------------------------------------- | ----------------- |
@@ -80,10 +80,10 @@
 | Vegetable, tuberous and corm, subgroup 1C             | 1.0               |
 | 1 This tolerance expires on October 12, 2018.         |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[76 FR 23496, Apr. 27, 2011, as amended at 77 FR 59128, Sept. 26, 2012; 81 FR 27342, May 6, 2016; 83 FR 15753, Apr. 12, 2018\]

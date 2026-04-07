@@ -1,6 +1,6 @@
 ##### § 180.566 Fenpyroximate; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide fenpyroximate, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only the sum of fenpyroximate, (*E*)-1,1-dimethylethyl 4-\[\[\[\[(1,3-dimethyl-5-phenoxy-1*H*-pyrazol-4-yl)methylene\]amino\]oxy\]methyl\]benzoate and its Z-isomer, (*Z*)-1,1-dimethylethyl 4-\[\[\[\[(1,3-dimethyl-5-phenoxy-1*H*-pyrazol-4-yl)methylene\]amino\]oxy\]methyl\]benzoate, calculated as the stoichiometric equivalent of fenpyroximate. 
+(a) *General.* (1) Tolerances are established for residues of the insecticide fenpyroximate, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only the sum of fenpyroximate, (*E*)-1,1-dimethylethyl 4-\[\[\[\[(1,3-dimethyl-5-phenoxy-1*H*-pyrazol-4-yl)methylene\]amino\]oxy\]methyl\]benzoate and its Z-isomer, (*Z*)-1,1-dimethylethyl 4-\[\[\[\[(1,3-dimethyl-5-phenoxy-1*H*-pyrazol-4-yl)methylene\]amino\]oxy\]methyl\]benzoate, calculated as the stoichiometric equivalent of fenpyroximate.
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                                          | Parts per   million |
@@ -56,7 +56,7 @@ Table 1 to Paragraph (a)(1)
 | Velvet bean, succulent shelled                                                                     | 0.4                 |
 | 1 There are no U.S. Registrations.                                                                 |                     |
 
-(2) Tolerances are established for residues of the insecticide fenpyroximate, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only the sum of fenpyroximate, (*E*)-1,1-dimethylethyl 4-\[\[\[\[(1,3-dimethyl-5-phenoxy-1*H*-pyrazol-4-yl)methylene\]amino\]oxy\]methyl\]benzoate and its metabolites (*E*)-4-\[(1,3-dimethyl-5-phenoxypyrazol-4-yl)-methyleneaminooxymethyl\]benzoic acid and (*E*)-1,1-dimethylethyl-2-hydroxyethyl 4-\[\[\[\[(1,3-dimethyl-5-phenoxy-1*H*-pyrazol-4-yl)methylene\]amino\]oxy\]methyl\]benzoate, calculated as the stoichiometric equivalent of fenpyroximate. 
+(2) Tolerances are established for residues of the insecticide fenpyroximate, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only the sum of fenpyroximate, (*E*)-1,1-dimethylethyl 4-\[\[\[\[(1,3-dimethyl-5-phenoxy-1*H*-pyrazol-4-yl)methylene\]amino\]oxy\]methyl\]benzoate and its metabolites (*E*)-4-\[(1,3-dimethyl-5-phenoxypyrazol-4-yl)-methyleneaminooxymethyl\]benzoic acid and (*E*)-1,1-dimethylethyl-2-hydroxyethyl 4-\[\[\[\[(1,3-dimethyl-5-phenoxy-1*H*-pyrazol-4-yl)methylene\]amino\]oxy\]methyl\]benzoate, calculated as the stoichiometric equivalent of fenpyroximate.
 
 Table 2 of Paragraph (a)(2)
 | Commodity                                        | Parts per   million |
@@ -75,7 +75,7 @@ Table 2 of Paragraph (a)(2)
 | Sheep, meat                                      | 0.03                |
 | Sheep, meat byproducts, except kidney and liver  | 0.03                |
 
-(3) Tolerances are established for residues of the insecticide fenpyroximate, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only the sum of fenpyroximate, (*E*)-1,1-dimethylethyl 4-\[\[\[\[(1,3-dimethyl-5-phenoxy-1*H*-pyrazol-4-yl)methylene\]amino\]oxy\]methyl\]benzoate and its metabolite (*E*)-4-\[(1,3-dimethyl-5-phenoxypyrazol-4-yl)-methyleneaminooxymethyl\]benzoic acid, calculated as the stoichiometric equivalent of fenpyroximate. 
+(3) Tolerances are established for residues of the insecticide fenpyroximate, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only the sum of fenpyroximate, (*E*)-1,1-dimethylethyl 4-\[\[\[\[(1,3-dimethyl-5-phenoxy-1*H*-pyrazol-4-yl)methylene\]amino\]oxy\]methyl\]benzoate and its metabolite (*E*)-4-\[(1,3-dimethyl-5-phenoxypyrazol-4-yl)-methyleneaminooxymethyl\]benzoic acid, calculated as the stoichiometric equivalent of fenpyroximate.
 
 Table 3 of Paragraph (a)(3)
 | Commodity      | Parts per   million |
@@ -89,10 +89,10 @@ Table 3 of Paragraph (a)(3)
 | Sheep, kidney  | 0.5                 |
 | Sheep, liver   | 0.7                 |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[66 FR 18568, Apr. 10, 2001, as amended at 69 FR 32464, June 10, 2004; 71 FR 49368, Aug. 23, 2006; 72 FR 26321, May 9, 2007; 74 FR 37617, July 29, 2009; 74 FR 63079, Dec. 2, 2009; 75 FR 80346, Dec. 22, 2010; 77 FR 73951, Dec. 12, 2012; 78 FR 36097, June 17, 2013; 82 FR 34875, July 27, 2017; 84 FR 66625, Dec. 5, 2019; 85 FR 36758, June 18, 2020\]

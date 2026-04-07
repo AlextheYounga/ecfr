@@ -1,6 +1,6 @@
 ##### § 180.700 Afidopyropen; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of afidopyropen, including its metabolites and degradates, in or on the commodities in table 1 to this paragraph (a)(1). Compliance with the tolerance levels specified in this paragraph (a)(1) is to be determined by measuring only afidopyropen, \[(3*S,*4*R,*4a*R,*6*S,*6a*S,*12*R,*12a*S,*12b*S*)-3-\[(cyclopropylcarbonyl)oxy\]-1,3,4,4a,5,6a,12,12a,12b-decahydro-6,12-dihydroxy-4,6a,12b-trimethyl-11-oxo-9-(3-pyridinyl)2*H,*11*H*-naphtho\[2,1-*b*\]pyrano\[3,4-*e*\]pyran-4-yl\]methyl cyclopropanecarboxylate, in or on the following food commodities: 
+(a) *General.* (1) Tolerances are established for residues of afidopyropen, including its metabolites and degradates, in or on the commodities in table 1 to this paragraph (a)(1). Compliance with the tolerance levels specified in this paragraph (a)(1) is to be determined by measuring only afidopyropen, \[(3*S,*4*R,*4a*R,*6*S,*6a*S,*12*R,*12a*S,*12b*S*)-3-\[(cyclopropylcarbonyl)oxy\]-1,3,4,4a,5,6a,12,12a,12b-decahydro-6,12-dihydroxy-4,6a,12b-trimethyl-11-oxo-9-(3-pyridinyl)2*H,*11*H*-naphtho\[2,1-*b*\]pyrano\[3,4-*e*\]pyran-4-yl\]methyl cyclopropanecarboxylate, in or on the following food commodities:
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                 | Parts per   million |
@@ -40,7 +40,7 @@ Table 1 to Paragraph (a)(1)
 | Vegetable, fruiting, group 8-10           | 0.2                 |
 | Vegetable, tuberous and corm, subgroup 1C | 0.01                |
 
-(2) Tolerances are established for residues of afidopyropen, including its metabolites and degradates, in or on the commodities in table 2 to this paragraph (a)(2). Compliance with the tolerance levels specified in this paragraph (a)(2) is to be determined by measuring only the sum of afidopyropen, \[(3*S,*4*R,*4a*R,*6*S,*6a*S,*12*R,*12a*S,*12b*S*)-3-\[(cyclopropylcarbonyl)oxy\]-1,3,4,4a,5,6a,12,12a,12b-decahydro-6,12-dihydroxy-4,6a,12b-trimethyl-11-oxo-9-(3-pyridinyl)2*H,*11*H*-naphtho\[2,1-*b*\]pyrano\[3,4-*e*\]pyran-4-yl\]methyl cyclopropanecarboxylate and its metabolite cyclopropanecarboxylic acid carnitine (CPCA-carnitine), calculated as the stoichiometric equivalent of afidopyropen in or on the following animal commodities: 
+(2) Tolerances are established for residues of afidopyropen, including its metabolites and degradates, in or on the commodities in table 2 to this paragraph (a)(2). Compliance with the tolerance levels specified in this paragraph (a)(2) is to be determined by measuring only the sum of afidopyropen, \[(3*S,*4*R,*4a*R,*6*S,*6a*S,*12*R,*12a*S,*12b*S*)-3-\[(cyclopropylcarbonyl)oxy\]-1,3,4,4a,5,6a,12,12a,12b-decahydro-6,12-dihydroxy-4,6a,12b-trimethyl-11-oxo-9-(3-pyridinyl)2*H,*11*H*-naphtho\[2,1-*b*\]pyrano\[3,4-*e*\]pyran-4-yl\]methyl cyclopropanecarboxylate and its metabolite cyclopropanecarboxylic acid carnitine (CPCA-carnitine), calculated as the stoichiometric equivalent of afidopyropen in or on the following animal commodities:
 
 Table 2 to Paragraph (a)(2)
 | Commodity CHED H='1'>Parts per million |
@@ -55,15 +55,15 @@ Table 2 to Paragraph (a)(2)
 | Sheep, meat                            |
 | Sheep, meat byproducts                 |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances specified in the following table are established for residues of afidopyropen, including its metabolites and degradates, in or on the commodities in table 3 to this paragraph (b). Compliance with the tolerance levels specified in this paragraph (b) is to be determined by measuring only afidopyropen, \[(3*S,*4*R,*4a*R,*6*S,*6a*S,*12*R,*12a*S,*12b*S*)-3-\[(cyclopropylcarbonyl)oxy\]-1,3,4,4a,5,6a,12,12a,12b-decahydro-6,12-dihydroxy-4,6a,12b-trimethyl-11-oxo-9-(3-pyridinyl)2*H,*11*H*-naphtho\[2,1-*b*\]pyrano\[3,4-*e*\]pyran-4-yl\]methyl cyclopropanecarboxylate, in or on the specified agricultural commodities, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. The tolerances expire on the dates specified in table 3 to this paragraph (b). 
+(b) *Section 18 emergency exemptions.* Time-limited tolerances specified in the following table are established for residues of afidopyropen, including its metabolites and degradates, in or on the commodities in table 3 to this paragraph (b). Compliance with the tolerance levels specified in this paragraph (b) is to be determined by measuring only afidopyropen, \[(3*S,*4*R,*4a*R,*6*S,*6a*S,*12*R,*12a*S,*12b*S*)-3-\[(cyclopropylcarbonyl)oxy\]-1,3,4,4a,5,6a,12,12a,12b-decahydro-6,12-dihydroxy-4,6a,12b-trimethyl-11-oxo-9-(3-pyridinyl)2*H,*11*H*-naphtho\[2,1-*b*\]pyrano\[3,4-*e*\]pyran-4-yl\]methyl cyclopropanecarboxylate, in or on the specified agricultural commodities, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. The tolerances expire on the dates specified in table 3 to this paragraph (b).
 
 Table 3 to Paragraph (b)
 | Commodity  | Parts per million | Expiration date |
 | ---------- | ----------------- | --------------- |
 | Strawberry | 0.3               | 12/31/2027      |
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[83 FR 46401, Sept. 13, 2018, as amended at 85 FR 63459, Oct. 8, 2020; 89 FR 51848, June 20, 2024\]

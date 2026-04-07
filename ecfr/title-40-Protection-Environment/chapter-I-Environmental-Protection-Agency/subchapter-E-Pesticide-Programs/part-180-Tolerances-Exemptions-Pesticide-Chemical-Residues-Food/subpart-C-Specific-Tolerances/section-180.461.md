@@ -1,6 +1,6 @@
 ##### § 180.461 Cadusafos; tolerances for residues.
 
-A tolerance is established for the residues of the nematicide/insecticide cadusafos, *O*-ethyl *S,S*-di-*sec*-butyl phosphorodithioate, in or on the following raw agricultural commodity: 
+A tolerance is established for the residues of the nematicide/insecticide cadusafos, *O*-ethyl *S,S*-di-*sec*-butyl phosphorodithioate, in or on the following raw agricultural commodity:
 
 | Commodity | Parts per million |
 | --------- | ----------------- |

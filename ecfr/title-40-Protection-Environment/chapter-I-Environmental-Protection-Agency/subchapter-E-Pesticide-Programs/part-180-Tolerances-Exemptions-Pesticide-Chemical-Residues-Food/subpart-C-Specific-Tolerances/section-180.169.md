@@ -1,6 +1,6 @@
 ##### § 180.169 Carbaryl; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide carbaryl, 1-naphthyl *N*-methylcarbamate *per se*, in or on the following food commodities: 
+(a) *General.* (1) Tolerances are established for residues of the insecticide carbaryl, 1-naphthyl *N*-methylcarbamate *per se*, in or on the following food commodities:
 
 | Commodity                                                              | Parts per million | Expiration/revocation date |
 | ---------------------------------------------------------------------- | ----------------- | -------------------------- |
@@ -82,7 +82,7 @@
 | Wheat, hay                                                             | 30                | None                       |
 | Wheat, straw                                                           | 20                | None                       |
 
-(2) Tolerances are established for residues of the insecticide carbaryl, 1-naphthyl *N*-methylcarbamate, including its metabolites: 1-naphthol (naphthyl-sulfate); 5,6-dihydrodihydroxycarbaryl; and 5,6-dihydrodihydroxy naphthol, calculated as 1-naphthyl *N*-methylcarbamate and the free and conjugated residues of carbaryl: 5,6-dihydro-5,6-dihydroxy carbaryl and 5-methoxy-6-hydroxy carbaryl, in or on the following food commodities: 
+(2) Tolerances are established for residues of the insecticide carbaryl, 1-naphthyl *N*-methylcarbamate, including its metabolites: 1-naphthol (naphthyl-sulfate); 5,6-dihydrodihydroxycarbaryl; and 5,6-dihydrodihydroxy naphthol, calculated as 1-naphthyl *N*-methylcarbamate and the free and conjugated residues of carbaryl: 5,6-dihydro-5,6-dihydroxy carbaryl and 5-methoxy-6-hydroxy carbaryl, in or on the following food commodities:
 
 | Commodity               | Parts per million | Expiration/revocation date |
 | ----------------------- | ----------------- | -------------------------- |
@@ -106,14 +106,14 @@
 | Sheep, meat             | 1.0               | None                       |
 | Sheep, meat byproducts  | 3.0               | None                       |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registrations, as defined in § 180.1(l), are established for residues of the insecticide carbaryl, 1-naphthyl *N*-methylcarbamate *per se*, in or on the following food commodities: 
+(c) *Tolerances with regional registrations.* Tolerances with regional registrations, as defined in § 180.1(l), are established for residues of the insecticide carbaryl, 1-naphthyl *N*-methylcarbamate *per se*, in or on the following food commodities:
 
 | Commodity              | Parts per million |
 | ---------------------- | ----------------- |
 | Dillweed, fresh leaves | 0.2               |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[65 FR 33695, May 24, 2000, as amended at 66 FR 38955, July 26, 2001; 67 FR 49615, July 31, 2002; 70 FR 44492, Aug. 3, 2005; 73 FR 52611, Sept. 10, 2008; 74 FR 10490, Mar. 11, 2009; 80 FR 72597, Nov. 20, 2015\]

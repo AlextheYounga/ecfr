@@ -1,44 +1,44 @@
 ##### § 180.950 Tolerance exemptions for minimal risk active and inert ingredients.
 
-Unless specifically excluded, residues resulting from the use of the following substances as either an inert or an active ingredient in a pesticide chemical formulation, including antimicrobial pesticide chemicals, are exempted from the requirement of a tolerance under FFDCA section 408, if such use is in accordance with good agricultural or manufacturing practices. 
+Unless specifically excluded, residues resulting from the use of the following substances as either an inert or an active ingredient in a pesticide chemical formulation, including antimicrobial pesticide chemicals, are exempted from the requirement of a tolerance under FFDCA section 408, if such use is in accordance with good agricultural or manufacturing practices.
 
-(a) *Commonly consumed food commodities.* Commonly consumed food commodities means foods that are commonly consumed for their nutrient properties. The term commonly consumed food commodities shall only apply to food commodities (whether a raw agricultural commodity or a processed commodity) in the form the commodity is sold or distributed to the public for consumption. 
+(a) *Commonly consumed food commodities.* Commonly consumed food commodities means foods that are commonly consumed for their nutrient properties. The term commonly consumed food commodities shall only apply to food commodities (whether a raw agricultural commodity or a processed commodity) in the form the commodity is sold or distributed to the public for consumption.
 
-(1) Included within the term commonly consumed food commodities are: 
+(1) Included within the term commonly consumed food commodities are:
 
-(i) Sugars such as sucrose, lactose, dextrose and fructose, and invert sugar and syrup. 
+(i) Sugars such as sucrose, lactose, dextrose and fructose, and invert sugar and syrup.
 
-(ii) Spices such as cinnamon, cloves, and red pepper. 
+(ii) Spices such as cinnamon, cloves, and red pepper.
 
-(iii) Herbs such as basil, anise, or fenugreek. 
+(iii) Herbs such as basil, anise, or fenugreek.
 
-(2) Excluded from the term commonly consumed food commodities are: 
+(2) Excluded from the term commonly consumed food commodities are:
 
-(i) Any food commodity that is adulterated under 21 U.S.C. 342. 
+(i) Any food commodity that is adulterated under 21 U.S.C. 342.
 
-(ii) Both the raw and processed forms of peanuts, tree nuts, milk, soybeans, eggs, fish, crustacea, and wheat. 
+(ii) Both the raw and processed forms of peanuts, tree nuts, milk, soybeans, eggs, fish, crustacea, and wheat.
 
-(iii) Alcoholic beverages. 
+(iii) Alcoholic beverages.
 
-(iv) Dietary supplements. 
+(iv) Dietary supplements.
 
-(b) *Animal feed items.* Animal feed items means meat meal and all items derived from field crops that are fed to livestock excluding both the raw and processed forms of peanuts, tree nuts, milk, soybeans, eggs, fish, crustacea, and wheat. Meat meal is an animal feed composed of dried animal fat and protein that has been sterilized. Other than meat meal, the term animal feed item does not extend to any item designed to be fed to animals that contains, to any extent, components of animals. Included within the term animal feed items are: 
+(b) *Animal feed items.* Animal feed items means meat meal and all items derived from field crops that are fed to livestock excluding both the raw and processed forms of peanuts, tree nuts, milk, soybeans, eggs, fish, crustacea, and wheat. Meat meal is an animal feed composed of dried animal fat and protein that has been sterilized. Other than meat meal, the term animal feed item does not extend to any item designed to be fed to animals that contains, to any extent, components of animals. Included within the term animal feed items are:
 
-(1) The hulls and shells of the commodities specified in paragraph (a)(2)(ii) of this section, and cocoa bean. 
+(1) The hulls and shells of the commodities specified in paragraph (a)(2)(ii) of this section, and cocoa bean.
 
-(2) Bird feed such as canary seed. 
+(2) Bird feed such as canary seed.
 
-(3) Any feed component of a medicated feed meeting the definition of an animal feed item. 
+(3) Any feed component of a medicated feed meeting the definition of an animal feed item.
 
-(c) *Edible fats and oils.* Edible fats and oils means all edible (food or feed) fats and oils, derived from either plants or animals, whether or not commonly consumed, including products derived from hydrogenating (food or feed) oils, or liquefying (food or feed) fats. 
+(c) *Edible fats and oils.* Edible fats and oils means all edible (food or feed) fats and oils, derived from either plants or animals, whether or not commonly consumed, including products derived from hydrogenating (food or feed) oils, or liquefying (food or feed) fats.
 
-(1) Included within the term edible fats and oils are oils (such as soybean oil) that are derived from the commodities specified in paragraph (a)(2)(ii) of this section when such oils are highly refined via a solvent extraction procedure. 
+(1) Included within the term edible fats and oils are oils (such as soybean oil) that are derived from the commodities specified in paragraph (a)(2)(ii) of this section when such oils are highly refined via a solvent extraction procedure.
 
-(2) Excluded from the term edible fats and oils are plant oils used in the pesticide chemical formulation specifically to impart their characteristic fragrance and/or flavoring. 
+(2) Excluded from the term edible fats and oils are plant oils used in the pesticide chemical formulation specifically to impart their characteristic fragrance and/or flavoring.
 
-(d) \[Reserved\] 
+(d) \[Reserved\]
 
-(e) *Specific chemical substances.* Residues resulting from the use of the following substances as either an inert or an active ingredient in a pesticide chemical formulation, including antimicrobial pesticide chemicals, are exempted from the requirement of a tolerance under FFDCA section 408, if such use is in accordance with good agricultural or manufacturing practices. 
+(e) *Specific chemical substances.* Residues resulting from the use of the following substances as either an inert or an active ingredient in a pesticide chemical formulation, including antimicrobial pesticide chemicals, are exempted from the requirement of a tolerance under FFDCA section 408, if such use is in accordance with good agricultural or manufacturing practices.
 
 | Chemical                                                                                                                                                      | CAS No.     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |

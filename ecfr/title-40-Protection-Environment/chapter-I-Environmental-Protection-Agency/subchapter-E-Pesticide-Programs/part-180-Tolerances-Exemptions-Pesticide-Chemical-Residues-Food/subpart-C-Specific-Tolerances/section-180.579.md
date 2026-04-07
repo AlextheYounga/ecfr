@@ -1,6 +1,6 @@
 ##### § 180.579 Fenamidone; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the fungicide, fenamidone, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels is to be determined by measuring only fenamidone (4H-Imidazol-4-one, 3,5-dihydro-5-methyl-2-(methylthio)-5-phenyl-3 (phenylamino)-,(S)-), in or on the commodities: 
+(a) *General.* (1) Tolerances are established for residues of the fungicide, fenamidone, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels is to be determined by measuring only fenamidone (4H-Imidazol-4-one, 3,5-dihydro-5-methyl-2-(methylthio)-5-phenyl-3 (phenylamino)-,(S)-), in or on the commodities:
 
 | Commodity                                                      | Parts per million |
 | -------------------------------------------------------------- | ----------------- |
@@ -30,7 +30,7 @@
 | Vegetable, root, except sugar beet, subgroup 1B, except radish | 0.15              |
 | Vegetable, tuberous and corm, subgroup 1C                      | 0.02              |
 
-(2) Tolerances are established for residues of the fungicide fenamidone, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels is to be determined by measuring fenamidone (4H-Imidazol-4-one, 3,5-dihydro-5-methyl-2-(methylthio)-5-phenyl-3 (phenylamino)-,(S)-), and its metabolite RPA 717879 (2,4-imidazolidinedione, 5-methyl-5-phenyl), in or on the commodities: 
+(2) Tolerances are established for residues of the fungicide fenamidone, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels is to be determined by measuring fenamidone (4H-Imidazol-4-one, 3,5-dihydro-5-methyl-2-(methylthio)-5-phenyl-3 (phenylamino)-,(S)-), and its metabolite RPA 717879 (2,4-imidazolidinedione, 5-methyl-5-phenyl), in or on the commodities:
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -45,16 +45,16 @@
 | Sheep, meat             | 0.10              |
 | Sheep, meat byproducts  | 0.10              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* A tolerance with regional registration as defined in § 180.1(l) is established for residues of the fungicide fenamidone, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels is to be determined by measuring only fenamidone (4H-Imidazol-4-one, 3,5-dihydro-5-methyl-2-(methylthio)-5-phenyl-3 (phenylam-ino)-,(S)-), in or on the commodity: 
+(c) *Tolerances with regional registrations.* A tolerance with regional registration as defined in § 180.1(l) is established for residues of the fungicide fenamidone, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels is to be determined by measuring only fenamidone (4H-Imidazol-4-one, 3,5-dihydro-5-methyl-2-(methylthio)-5-phenyl-3 (phenylam-ino)-,(S)-), in or on the commodity:
 
 | Commodity                                                 | Parts per million |
 | --------------------------------------------------------- | ----------------- |
 | Grape1                                                    | 1.0               |
 | 1 Applicable to grapes grown East of the Rocky Mountains. |                   |
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for residues of the fungicide fenamidone, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels is to be determined by measuring fenamidone (4H-Imidazol-4-one, 3,5-dihydro-5-methyl-2-(methylthio)-5-phenyl-3 (phenylamino)-,(S)-), and its metabolite RPA 717879 (2,4-imidazolidinedione, 5-methyl-5-phenyl), in or on the following commodities when present therein as a result of application of fenamidone to the crops in paragraph (a)(1). 
+(d) *Indirect or inadvertent residues.* Tolerances are established for residues of the fungicide fenamidone, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels is to be determined by measuring fenamidone (4H-Imidazol-4-one, 3,5-dihydro-5-methyl-2-(methylthio)-5-phenyl-3 (phenylamino)-,(S)-), and its metabolite RPA 717879 (2,4-imidazolidinedione, 5-methyl-5-phenyl), in or on the following commodities when present therein as a result of application of fenamidone to the crops in paragraph (a)(1).
 
 | Commodity                                                      | Parts per   million |
 | -------------------------------------------------------------- | ------------------- |

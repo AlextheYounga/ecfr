@@ -1,6 +1,6 @@
 ##### § 180.206 Phorate; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the insecticide phorate (*O,O*-diethyl *S* (ethylthio) methyl\]phosphorodithioate), phorate sulfoxide, phorate sulfone, phorate oxygen analog, phorate oxygen analog sulfoxide, and phorate oxygen analog sulfone in or on the following food commodities: 
+(a) *General.* Tolerances are established for the combined residues of the insecticide phorate (*O,O*-diethyl *S* (ethylthio) methyl\]phosphorodithioate), phorate sulfoxide, phorate sulfone, phorate oxygen analog, phorate oxygen analog sulfoxide, and phorate oxygen analog sulfone in or on the following food commodities:
 
 | Commodity                                                                                                     | Parts per million |
 | ------------------------------------------------------------------------------------------------------------- | ----------------- |
@@ -27,10 +27,10 @@
 | Wheat, straw                                                                                                  | 0.05              |
 | 1 There are no U.S. registrations as of September 1, 1993 for the use of phorate on the growing crop, coffee. |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[58 FR 62038, Nov. 24, 1993, as amended at 63 FR 2165, Jan. 14, 1998; 63 FR 57074, Oct. 26, 1998; 66 FR 50833, Oct. 5, 2001; 67 FR 49616, July 31, 2002; 71 FR 74816, Dec. 13, 2006; 73 FR 53738, Sept. 17, 2008\]

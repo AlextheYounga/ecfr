@@ -1,6 +1,6 @@
 ##### § 180.304 Oryzalin; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide oryzalin, 3,5-dinitro-*N*4,*N*4-dipropylsulfanilamide, in or on the following raw agricultural commodities: 
+(a) *General.* Tolerances are established for residues of the herbicide oryzalin, 3,5-dinitro-*N*4,*N*4-dipropylsulfanilamide, in or on the following raw agricultural commodities:
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -20,15 +20,15 @@
 | Pomegranate             | 0.05              |
 | Strawberry              | 0.05              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for residues of oryzalin, 3,5-dinitro-*N*4,*N*4-dipropylsulfanilamide, in or on the following raw agricultural commodities: 
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for residues of oryzalin, 3,5-dinitro-*N*4,*N*4-dipropylsulfanilamide, in or on the following raw agricultural commodities:
 
 | Commodity | Parts per million |
 | --------- | ----------------- |
 | Guava     | 0.05              |
 | Papaya    | 0.05              |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[71 FR 54434, Sept. 15, 2006, as amended at 76 FR 34885, June 15, 2011\]

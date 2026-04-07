@@ -1,6 +1,6 @@
 ##### § 180.597 Mesosulfuron-methyl; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide mesosulfuron-methyl, (methyl 2-\[\[\[\[(4,6-dimethoxy-2-pyrimidinyl) amino\]carbonyl\]amino\]sulfonyl\] -4-\[\[(methylsulfonyl)amino\] methyl\]benzoate\]) in or on the following raw agricultural commodities: 
+(a) *General.* Tolerances are established for residues of the herbicide mesosulfuron-methyl, (methyl 2-\[\[\[\[(4,6-dimethoxy-2-pyrimidinyl) amino\]carbonyl\]amino\]sulfonyl\] -4-\[\[(methylsulfonyl)amino\] methyl\]benzoate\]) in or on the following raw agricultural commodities:
 
 | Commodity                  | Parts per million |
 | -------------------------- | ----------------- |
@@ -15,10 +15,10 @@
 | Wheat, hay                 | 0.06              |
 | Wheat, straw               | 0.30              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[69 FR 18263, Apr. 7, 2004\]

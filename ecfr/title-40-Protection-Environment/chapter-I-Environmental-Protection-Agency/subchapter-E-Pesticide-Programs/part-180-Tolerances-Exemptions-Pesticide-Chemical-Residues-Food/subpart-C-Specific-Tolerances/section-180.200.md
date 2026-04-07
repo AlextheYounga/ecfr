@@ -1,6 +1,6 @@
 ##### § 180.200 Dicloran; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide dicloran, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only dicloran, 2,6-dichloro-4-nitroaniline, in or on the commodity. 
+(a) *General.* Tolerances are established for residues of the fungicide dicloran, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only dicloran, 2,6-dichloro-4-nitroaniline, in or on the commodity.
 
 | Commodity             | Parts per   million | Expiration/revocation date |
 | --------------------- | ------------------- | -------------------------- |
@@ -23,10 +23,10 @@
 | Sweet potato, roots   | 10                  | None                       |
 | Tomato                | 5                   | None                       |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[77 FR 40815, July 11, 2012\]

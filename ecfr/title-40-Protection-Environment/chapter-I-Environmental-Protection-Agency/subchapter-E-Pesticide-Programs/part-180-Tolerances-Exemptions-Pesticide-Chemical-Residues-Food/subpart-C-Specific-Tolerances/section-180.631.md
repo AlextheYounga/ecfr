@@ -1,6 +1,6 @@
 ##### § 180.631 Pyrasulfotole; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide pyrasulfotole, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyrasulfotole ((5-hydroxy-1,3-dimethyl-1*H*-pyrazol-4-yl)\[2-(methylsulfonyl)-4-(trifluoromethyl)phenyl\]methanone) and its desmethyl metabolite (5-hydroxy-3-methyl-1*H*-pyrazol-4-yl)\[2-(methylsulfonyl)-4-(trifluoromethyl)phenyl\]methanone), calculated as the stoichiometric equivalent of pyrasulfotole, in or on the commodities: 
+(a) *General.* Tolerances are established for residues of the herbicide pyrasulfotole, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyrasulfotole ((5-hydroxy-1,3-dimethyl-1*H*-pyrazol-4-yl)\[2-(methylsulfonyl)-4-(trifluoromethyl)phenyl\]methanone) and its desmethyl metabolite (5-hydroxy-3-methyl-1*H*-pyrazol-4-yl)\[2-(methylsulfonyl)-4-(trifluoromethyl)phenyl\]methanone), calculated as the stoichiometric equivalent of pyrasulfotole, in or on the commodities:
 
 | Commodity                             | Parts per million |
 | ------------------------------------- | ----------------- |
@@ -50,10 +50,10 @@
 | Wheat, hay                            | 0.80              |
 | Wheat, straw                          | 0.20              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[72 FR 45649, Aug. 15, 2007, as amended at 76 FR 23898, Apr. 29, 2011\]

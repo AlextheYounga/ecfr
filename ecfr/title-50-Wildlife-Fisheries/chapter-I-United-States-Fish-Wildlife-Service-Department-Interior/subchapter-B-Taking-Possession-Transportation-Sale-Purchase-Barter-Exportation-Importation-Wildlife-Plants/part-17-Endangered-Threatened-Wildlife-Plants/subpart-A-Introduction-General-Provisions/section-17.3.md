@@ -1,6 +1,6 @@
 ##### § 17.3 Definitions.
 
-In addition to the definitions contained in part 10 of this subchapter, and unless the context otherwise requires, in this part 17:
+In addition to the definitions contained in part 10 of this subchapter, and unless the context otherwise requires, in this part 17:*Act*
 
 *Act* means the Endangered Species Act of 1973 (16 U.S.C. 1531-1543; 87 Stat. 884);
 
