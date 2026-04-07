@@ -10,14 +10,16 @@
 
 (3) The applicant's demonstrated performance of financially sound business practices as evidenced by reports of regulators, auditors and credit rating agencies;
 
-(4) The extent to which the applicant is subject to supervision, examination, and safety and soundness regulation by an independent federal agency;
+(4) The extent to which the applicant is subject to supervision, examination, and safety and soundness regulation by an independent Federal or state agency;
 
-(5) The extent of concentration of financial risk that RUS may have resulting from previous guarantees made under section 313A of the RE Act; and
+(5) The extent of concentration of financial risk that RUS may have resulting from previous guarantees made under section 313A of the RE Act;
 
-(6) The extent to which providing the guarantee to the applicant will help reduce the cost and/or increase the supply of credit to rural America, or generate other economic benefits, including the amount of fee income available to be deposited into the Rural Economic Development Subaccount, maintained under section 313(b)(2)(A) of the RE Act (7 U.S.C. 940c(b)(2)(A)), after payment of the subsidy amount.
+(6) The extent to which providing the guarantee to the applicant will help reduce the cost and/or increase the supply of credit to rural America, or generate other economic benefits, including the amount of fee income available to be deposited into the Rural Economic Development Subaccount, maintained under section 313(b)(2)(A) of the RE Act (7 U.S.C. 940c(b)(2)(A)), after payment of the subsidy amount; and
 
-(c) *Independent Assessment.* Before a guarantee decision is made by the Secretary, the Secretary shall request that the Federal Financing Bank review the adequacy of the determination by the Rating Agency, required under § 1720.5(b)(2) as to whether the bond or note to be issued would be below investment grade without the guarantee.
+(7) The geographic or economic distribution of funds made available through this program or use of such funds to advance rural development infrastructure goals.
+
+(c) *Independent assessment.* Before a guarantee decision is made by the Secretary, the Secretary shall request that the Federal Financing Bank review the adequacy of the determination by the rating agency required under § 1720.5(b)(2) as to whether the bond or note to be issued would be below investment grade without the guarantee, or such other evidence of creditworthiness as may be required by the Administrator under § 1720.5(b)(2).
 
 (d) *Decisions by the Secretary.* The Secretary shall approve or deny applications in a timely manner as such applications are received; provided, however, that in order to facilitate competitive evaluation of applications, the Secretary may from time to time defer a decision until more than one application is pending. The Secretary may limit the number of guarantees made to a maximum of five per year, to ensure a sufficient examination is conducted of applicant requests. RUS shall notify the applicant in writing of the Secretary's approval or denial of an application. Approvals for guarantees shall be conditioned upon compliance with 7 CFR 1720.4 and 1720.6 of this part. The Secretary reserves the discretion to approve an application for an amount less than that requested.
 
-\[69 FR 63049, Oct. 29, 2004, as amended at 75 FR 42574, July 22, 2010\]
+\[69 FR 63049, Oct. 29, 2004, as amended at 75 FR 42574, July 22, 2010; 87 FR 74501, Dec. 6, 2022\]

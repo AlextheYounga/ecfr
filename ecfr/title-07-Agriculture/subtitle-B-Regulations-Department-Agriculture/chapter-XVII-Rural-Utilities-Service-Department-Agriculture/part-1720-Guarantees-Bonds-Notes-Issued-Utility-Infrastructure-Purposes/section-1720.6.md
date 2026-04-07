@@ -8,13 +8,13 @@
 
 (3) A statement by the applicant as to how it proposes to use the proceeds of the guaranteed bonds, and the financial benefit it anticipates deriving from participating in the program;
 
-(4) A pro-forma cash flow projection or business plan for the next five years, demonstrating that there is reasonable assurance that the applicant will be able to repay the guaranteed bonds in accordance with their terms;
+(4) A pro-forma financial statement and cash flow projection or business plan including detailed assumptions for the next five years, demonstrating that there is reasonable assurance that the applicant will be able to repay the guaranteed bonds in accordance with their terms;
 
 (5) Consolidated financial statements of the guaranteed lender for the previous three years that have been audited by an independent certified public accountant, including any associated notes, as well as any interim financial statements and associated notes for the current fiscal year;
 
-(6) Evidence of having been assigned an investment grade rating on the debt obligations for which it is seeking the guarantee, without regard to the guarantee;
+(6) Evidence of having been assigned an investment grade rating on the debt obligations for which it is seeking the guarantee, without regard to the guarantee or such other evidence of creditworthiness as required by the Administrator under § 1720.5(b)(2);
 
-(7) Evidence of a credit rating, from a Rating Agency, on its senior secured debt or its corporate credit rating, as applicable, without regard to the government guarantee and satisfactory to the Secretary; and
+(7) Evidence of a credit rating, from a rating agency, on its senior secured debt, its corporate credit rating, or such other evidence of creditworthiness as required by the Administrator under § 1720.5(b)(2); and
 
 (8) Such other application documents and submissions deemed necessary by the Secretary for the evaluation of applicants.
 
@@ -32,4 +32,4 @@
 
 (c) If requested by the applicant at the time it files its application, the General Counsel of the Department of Agriculture shall provide the Secretary with an opinion regarding the validity and authority of a guarantee issued to the lender under section 313A of the RE Act.
 
-\[69 FR 63049, Oct. 29, 2004, as amended at 75 FR 42574, July 22, 2010\]
+\[69 FR 63049, Oct. 29, 2004, as amended at 75 FR 42574, July 22, 2010; 87 FR 74500, Dec. 6, 2022\]
