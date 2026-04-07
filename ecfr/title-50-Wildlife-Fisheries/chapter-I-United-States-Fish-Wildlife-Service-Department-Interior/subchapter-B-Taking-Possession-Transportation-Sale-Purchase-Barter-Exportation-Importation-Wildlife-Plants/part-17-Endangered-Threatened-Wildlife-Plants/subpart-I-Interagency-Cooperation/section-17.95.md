@@ -1,7 +1,5 @@
 ##### § 17.95 Critical habitat - fish and wildlife.
 
-Link to an amendment published at 85 FR 11262, Feb. 26, 2020.
-
 (a) *Mammals.*
 
 Indiana Bat (*Myotis sodalis*)
@@ -1160,7 +1158,7 @@ The map provided is for informational purposes only. Map follows:
 
 *Minnesota.* Areas of land, water, and airspace in Beltrami, Cook, Itasca, Koochiching, Lake, Lake of the Woods, Roseau, and St. Louis Counties, with boundaries (4th and 5th Principal meridians) identical to those of zones 1, 2, and 3, as delineated in § 17.40(d)(l).
 
-Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 85 FR 39090, June 30, 2020.
+Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (b) *Birds.*
 
@@ -8912,7 +8910,65 @@ T. 19 S., R. 2 W.: secs. 1, W 1/2SW 1/4NW 1/4; 2, S 1/2NE 1/4NE 1/4, NW 1/4NE 1/
 
 *Primary constituent elements:* riverine and floodplain habitats (particularly willow-dominated riparian woodland with dense understory vegetation maintained, in part, in a non-climax stage by periodic floods or other agents) and adjacent coastal sage scrub,
 
-Rota Bridled White-Eye (*Zosterops rotensis*)
+Elfin-woods Warbler (*Setophaga angelae*)
+
+(1) Critical habitat units are depicted for Puerto Rico, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the elfin-woods warbler consist of the following components:
+
+(i) Wet and rain montane forest types:
+
+(A) *Podocarpus* forest at elevations between 600 and 900 meters (m) (1,968 and 2,952 feet (ft)) with continuous closed canopy of 20 m (66 ft) in height, dominated by *Podocarpus coriaceus* trees with well-developed understory.
+
+(B) Dwarf forest at elevations above 900 m (2,952 ft) with a single story of trees between 1 and 6 m (3 and 19 ft) in height, with an understory of mosses, epiphytes, and liverworts.
+
+(C) Palo Colorado forest at elevations between 600 and 900 m (1,968 and 2,952 ft) with a closed canopy of approximately 20 m (66 ft) and an understory dominated by grasses, ferns, bromeliads, and sedges.
+
+(ii) Forested habitat areas that contain:
+
+(A) Active shade-grown coffee plantations or forested agricultural lands that are above 300 m in elevation and dominated primarily by native vegetation; or
+
+(B) Abandoned coffee plantations or agricultural lands (*i.e.,* agricultural practices were discontinued) with native forest cover and a closed canopy found above 300 m in elevation.
+
+(iii) Forested habitat (at elevations between 300 and 850 m (984 and 2,788 ft)) not contained within the habitats described in paragraphs (2)(i) and (ii) of this entry:
+
+(A) Exposed ridge woodland forest found in valleys, slopes, and shallow soils with a more or less continuous canopy at elevations ranging from 550 to 750 m (1,804 to 2,460 ft);
+
+(B) Timber plantation forest at elevations ranging from 630 to 850 m (2,066 to 2,788 ft); or
+
+(C) Secondary forests dominated by native tree species with a closed canopy of approximately 20-30 m (66-100 ft) in height at elevations ranging from 300 to 750 m (984 to 2,460 ft).
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 30, 2020.
+
+(4) *Critical habitat map units.* Data layers defining map units were created by delineating habitats that contain at least one or more of the physical or biological features defined in paragraph (2) of this entry, over a U.S. Department of Agriculture 2007 digital orthophoto mosaic, over a base of U.S. Geological Survey digital topographic map quadrangle, and with the use of a digital landcover layer. The resulting critical habitat unit was then mapped using State Plane North American Datum 83 coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site, *http://www.regulations.gov* under Docket No. FWS-R4-ES-2020-0030, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er30jn20.082.gif)
+
+(6) Unit 1: Maricao; Maricao, San Germán, Sabana Grande, and Yauco Municipalities, Puerto Rico.
+
+(i) *General description:* Unit 1 consists of 12,978 ac (5,252 ha). Approximately 8,861 ac (3,586 ha) are owned by the Commonwealth and managed by the Puerto Rico Department of Natural and Environmental Resources, and 4,117 ac (1,666 ha) are in private ownership. The unit is located north of State Road PR-2, south of State Road PR-105, and approximately 105 kilometers 65 mi (105 km) west of the International Airport Luis Muñoz Marin.
+
+(ii) Map of Unit 1 habitat follows:
+
+![](/graphics/er30jn20.083.gif)
+
+(7) Unit 2: El Yunque; Río Grande, Canovanas, Las Piedras, Naguabo, and Ceiba Municipalities, Puerto Rico.
+
+(i) *General description:* Unit 2 consists of 11,430 ac (4,626 ha) of federally owned land managed by the U.S. Forest Service (El Yunque National Forest). The unit is located within El Yunque National Forest, east of State Road PR-186, north of State Road PR-31, and approximately 24 km (15 mi) east of the International Airport Luis Muñoz Marin.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er30jn20.084.gif)
+
+(8) Unit 3: Carite; Cayey, San Lorenzo, Guayama, and Patillas Municipalities, Puerto Rico.
+
+(i) *General description:* Unit 3 consists of 3,080 ac (1,247 ha) of lands owned by the Commonwealth and managed by the Puerto Rico Department of Natural and Environmental Resources. The unit is located within the Carite Commonwealth Forest west of State Road PR-7740 and State Road PR-184 that run within the Carite Commonwealth Forest, and approximately 23 mi (37 km) south of the International Airport Luis Muñoz Marin.
+
+(ii) Map of Unit 3 follows:
+
+![](/graphics/er30jn20.085.gif)Rota Bridled White-Eye (*Zosterops rotensis*)
 
 (1) Critical habitat units are depicted for Rota, Commonwealth of the Northern Mariana Islands, on the map below.
 
