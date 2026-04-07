@@ -18,7 +18,7 @@
 
 (c) Any person landing groundfish must retain on board the vessel from which groundfish is landed, and provide to an authorized officer upon request, copies of any and all reports of groundfish landings containing all data, and in the exact manner, required by the applicable state law throughout the cumulative limit period during which a landing occurred and for 15 days thereafter.
 
-(d) *Declaration reporting requirements* - When the operator of a vessel registers a VMS unit with NMFS OLE, the vessel operator must provide NMFS with a declaration report as specified at paragraph (d)(4)(iv) of this section. The operator of any vessel that has already registered a VMS unit with NMFS OLE but has not yet made a declaration, as specified at paragraph (d)(4)(iv) of this section, must provide NMFS with a declaration report upon request from NMFS OLE.
+(d) *Declaration reporting requirements.* When the operator of a vessel registers a VMS unit with NMFS OLE, the vessel operator must provide NMFS with a declaration report as specified at paragraph (d)(4)(iv) of this section. The operator of any vessel that has already registered a VMS unit with NMFS OLE but has not yet made a declaration, as specified at paragraph (d)(4)(iv) of this section, must provide NMFS with a declaration report upon request from NMFS OLE.
 
 (1) *Declaration reports for vessels registered to limited entry permits.* The operator of any vessel registered to a limited entry permit must provide NMFS OLE with a declaration report, as specified at paragraph (d)(4)(iv) of this section, before the vessel leaves port on a trip in which the vessel is used to fish in U.S. ocean waters between 0 and 200 nm offshore of Washington, Oregon, or California.
 
