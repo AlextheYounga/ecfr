@@ -12,4 +12,4 @@ Each importer, person marketing cattle, beef or beef products of that person's o
 
 (e) The date any assessment was paid.
 
-Effective Date Note:At 51 FR 26138, July 18, 1986, § 1260.201 was added. The section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+Effective Date Note:At 51 FR 26138, July 18, 1986, § 1260.201 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
