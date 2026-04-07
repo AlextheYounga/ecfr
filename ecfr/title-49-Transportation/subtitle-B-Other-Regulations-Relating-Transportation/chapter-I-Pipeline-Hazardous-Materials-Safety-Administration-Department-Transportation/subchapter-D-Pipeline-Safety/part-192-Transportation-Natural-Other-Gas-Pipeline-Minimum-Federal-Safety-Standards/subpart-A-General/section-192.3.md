@@ -36,7 +36,7 @@ As used in this part:
 
 *Engineering critical assessment (ECA)* means a documented analytical procedure based on fracture mechanics principles, relevant material properties (mechanical and fracture resistance properties), operating history, operational environment, in-service degradation, possible failure mechanisms, initial and final defect sizes, and usage of future operating and maintenance procedures to determine the maximum tolerable sizes for imperfections based upon the pipeline segment maximum allowable operating pressure.
 
-*Entirely replaced onshore transmission pipeline segments* means, for the purposes of §§ 192.179 and 192.634, where 2 or more miles, in the aggregate, of onshore transmission pipeline have been replaced within any 5 contiguous miles of pipeline within any 24-month period.
+*Entirely replaced onshore transmission pipeline segments* means, for the purposes of §§ 192.179 and 192.634, where 2 or more miles, in the aggregate, of onshore transmission pipeline have been replaced within any 5 contiguous miles of pipeline within any 24-month period. This definition does not apply to any gathering line.
 
 *Exposed underwater pipeline* means an underwater pipeline where the top of the pipe protrudes above the underwater natural bottom (as determined by recognized and generally accepted practices) in waters less than 15 feet (4.6 meters) deep, as measured from mean low water.
 
@@ -80,7 +80,7 @@ As used in this part:
 
 *Municipality* means a city, county, or any other political subdivision of a State.
 
-*Notification of potential rupture* means the notification to, or observation by, an operator of indicia identified in § 192.635 of a potential unintentional or uncontrolled release of a large volume of gas from a pipeline.
+*Notification of potential rupture* means the notification to, or observation by, an operator of indicia identified in § 192.635 of a potential unintentional or uncontrolled release of a large volume of gas from a pipeline. This definition does not apply to any gathering line.
 
 *Offshore* means beyond the line of ordinary low water along that portion of the coast of the United States that is in direct contact with the open seas and beyond the line marking the seaward limit of inland waters.
 
@@ -100,7 +100,7 @@ As used in this part:
 
 *Pipeline facility* means new and existing pipelines, rights-of-way, and any equipment, facility, or building used in the transportation of gas or in the treatment of gas during the course of transportation.
 
-*Rupture-mitigation valve* (RMV) means an automatic shut-off valve (ASV) or a remote-control valve (RCV) that a pipeline operator uses to minimize the volume of gas released from the pipeline and to mitigate the consequences of a rupture.
+*Rupture-mitigation valve* (RMV) means an automatic shut-off valve (ASV) or a remote-control valve (RCV) that a pipeline operator uses to minimize the volume of gas released from the pipeline and to mitigate the consequences of a rupture. This definition does not apply to any gathering line.
 
 *Service line* means a distribution line that transports gas from a common source of supply to an individual customer, to two adjacent or adjoining residential or small commercial customers, or to multiple residential or small commercial customers served through a meter header or manifold. A service line ends at the outlet of the customer meter or at the connection to a customer's piping, whichever is further downstream, or at the connection to customer piping if there is no meter.
 
