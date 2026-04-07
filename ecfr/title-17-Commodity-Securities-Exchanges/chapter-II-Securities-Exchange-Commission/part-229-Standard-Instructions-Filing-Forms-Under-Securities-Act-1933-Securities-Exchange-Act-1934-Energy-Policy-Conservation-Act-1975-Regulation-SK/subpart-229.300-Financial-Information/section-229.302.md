@@ -1,5 +1,7 @@
 ##### § 229.302 (Item 302) Supplementary financial information.
 
+Link to an amendment published at 86 FR 2126, Jan. 11, 2021.
+
 (a) *Selected quarterly financial data.* Registrants specified in paragraph (a)(5) of this Item shall provide the information specified below.
 
 (1) Disclosure shall be made of net sales, gross profit (net sales less costs and expenses associated directly with or allocated to products sold or services rendered), income (loss) from continuing operations, per share data based upon income (loss) from continuing operations, net income (loss), per share data based upon net income (loss) and net income (loss) attributable to the registrant, for each full quarter within the two most recent fiscal years and any subsequent interim period for which financial statements are included or are required to be included by 17 CFR 210.3-01 through 210.3-20 (Article 3 of Regulation S-X).
