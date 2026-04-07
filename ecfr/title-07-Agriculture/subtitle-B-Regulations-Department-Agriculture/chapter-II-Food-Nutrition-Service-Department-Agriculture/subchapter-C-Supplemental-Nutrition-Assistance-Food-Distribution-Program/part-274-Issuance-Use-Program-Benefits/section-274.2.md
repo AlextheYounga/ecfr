@@ -1,12 +1,12 @@
 ##### § 274.2 Providing benefits to participants.
 
-Link to an amendment published at 85 FR 52032, Aug. 24, 2020.
-
 (a) *General.* Each State agency is responsible for the timely and accurate issuance of benefits to certified eligible households, including EBT system compliance with the expedited service benefit delivery standard and the normal application processing standards, as prescribed by these regulations. Those households located in rural areas or comprised of elderly or disabled members who have difficulty reaching issuance offices, and households which do not reside in a permanent dwelling or of a fixed mailing address shall be given assistance in obtaining an EBT card. State agencies shall assist these households by arranging for the mailing of EBT cards to them, by assisting them in finding authorized representatives who can act on their behalf, or by using other appropriate means.
 
 (b) *Availability of benefits.* All newly certified households, except those that are given expedited service, shall be given an opportunity to participate no later than 30 calendar days following the date the application was filed. An opportunity to participate consists of providing households with an active EBT card and PIN, and benefits that have been posted to the household's EBT account and are available for spending. State agencies, utilizing a centralized mailing system, must mail EBT cards and PINs, if applicable, in time to assure that the benefits can be spent after they are received but before the 30-day standard expires. A household has not been provided an opportunity to participate within the 30-day standard if the EBT card or PIN is mailed on the 29th or 30th day. For households entitled to expedited service, the State agency shall make benefits available to the household not later than the seventh calendar day following the date of application.
 
-(c) *Combined allotments.* For those households which are to receive a combined allotment, the State agency shall provide the benefits for both months as an aggregate (combined) allotment, or as two separate allotments, made available at the same time, in accordance with the timeframes specified in § 273.2 of this chapter.
+(c) *Benefit allotments.* (1) State agencies shall not issue ongoing monthly benefit allotments to a household in more than one issuance during a month except with respect to the issuance of benefits to a resident of a drug and alcohol treatment and rehabilitation program in accordance with § 273.11(e) of this chapter or when a benefit correction is necessary.
+
+(2) For those households which are to receive a combined allotment, the State agency shall provide the benefits for both months as an aggregate (combined) allotment, or as two separate allotments, made available at the same time in accordance with the timeframes specified in § 273.2 of this chapter.
 
 (d) *Ongoing households.* State agencies shall establish an availability date for household access to their benefits and inform households of this date. All households shall be placed on an issuance schedule so that they receive their benefits on or about the same date each month. The date upon which a household receives its initial allotment after certification need not be the date that the household must receive its subsequent allotments.
 
@@ -20,7 +20,7 @@ Link to an amendment published at 85 FR 52032, Aug. 24, 2020.
 
 (e) *Household training.* The State agency shall provide training to each household prior to implementation and as needed during ongoing operation of the EBT system. Training functions for an EBT system may be incorporated into certification procedures. At a minimum, the household training shall include:
 
-(1) Content which will familiarize each household with the provisions of paragraphs (e) through (h) of this section and § 274.6 and § 274.7;
+(1) Content which will familiarize each household with the provisions of this section and §§ 274.6 and 274.7;
 
 (2) Notification to the household of the procedures for manual transactions and re-presentation as described in § 274.8(d);
 
@@ -54,18 +54,50 @@ Link to an amendment published at 85 FR 52032, Aug. 24, 2020.
 
 (B) Should the household dispute the adjustment and request a hearing within 10 days of the notice, a provisional credit must be made to the household's account by releasing the hold on the adjustment balance within 48 hours of the request by the household, pending resolution of the fair hearing. If no request for a hearing is made within 10 days of the notice, the hold is released on the adjustment balance, and this amount is credited to the retailer's account. If there are insufficient funds available in the current month to cover the full adjustment amount, the hold may be maintained and settled at one time after the next month's benefits become available.
 
-(3) The appropriate management controls and procedures for accessing benefit accounts after the posting shall be instituted to ensure that no unauthorized adjustments are made in accordance with paragraph (h)(3) of this section.
+(3) The appropriate management controls and procedures for accessing benefit accounts after the posting shall be instituted to ensure that no unauthorized adjustments are made in accordance with paragraph (j) of this section.
 
-(h) *Stale account handling.* Stale benefit accounts are those Program benefit accounts which are not accessed for three months or longer.
+(h) *Off-line storage.* If a household's EBT account is inactive for three months (91 days) or longer, State agencies may elect to store all benefits in that account off-line.
 
-(1) If EBT accounts are inactive for 3 months or longer, the State agency may store such benefits offline.
+(1) An EBT account is inactive if the household has not initiated activity that affects the balance of the household's SNAP EBT account, such as a purchase or return.
 
-(i) Benefits stored off-line shall be made available upon reapplication or re-contact by the household;
+(2) Taking benefits off-line means that the household's SNAP EBT account, including all existing benefits in the account and any new issuances deposited into the account, is no longer accessible to the household unless and until the account and its benefits are reinstated upon contact by the household.
 
-(ii) The State agency shall attempt to notify the household of this action before storage of the benefits off-line and describe the steps necessary to bring the benefits back on-line;
+(3) The State agency shall send written notification to the household up to 10 days prior to or concurrent with the action to store benefits off-line. If an inactive account has a zero balance, a notice to the household is not required. At a minimum, the notice shall include information on:
 
-(2) The State agency shall expunge benefits that have not been accessed by the household after a period of one year. Issuance reports shall reflect the adjustment to the State agency issuance totals to comply with monthly issuance reporting requirements prescribed under § 274.4.
+(i) The steps necessary to bring the benefits back on-line; and
 
-(3) Procedures shall be established to permit the appropriate managers to adjust benefits that have already been posted to a benefit account prior to the household accessing the account; or, after an account has become dormant. The procedures shall also be applicable to removing stale accounts for off-line storage of benefits or when the benefits are expunged. Whenever benefits are expunged or stored off-line, the State agency shall document the date, amount of the benefits and storage location in the household case file.
+(ii) The State agency's permanent expungement policy.
 
-\[75 FR 18381, Apr. 12, 2010,, as amended at 78 FR 51657, Aug. 21, 2013\]
+(4) Benefits stored off-line that have not been expunged in accordance with paragraph (i) of this section shall be reinstated and made available within 48 hours of reapplication or contact by the household. In addition to a specific request for benefit restoration, household contact shall include, but is not limited to:
+
+(i) Recertification or reapplication for benefits; and
+
+(ii) A general request for assistance.
+
+(i) *Expungement.* (1) State agencies shall apply SNAP transactions against a household's SNAP benefits on a first-in-first-out basis. As a result, the oldest SNAP benefits are used first. On a daily basis, the State agency shall expunge benefits from EBT accounts at the monthly benefit allotment level in accordance with either paragraph (i)(1)(i) or (ii) of this section. State agencies must designate which approach will be used in its State plan and use the same approach for all households within the State.
+
+(i) *Inactive EBT accounts.* Benefits allotments, or portion thereof, shall be expunged from EBT accounts that have been inactive, per paragraph (h)(1) of this section, for a period of nine months (274 days) in accordance with the following:
+
+(A) When the oldest benefit allotment has not been accessed by the household for nine months, the State agency shall expunge benefits from the EBT account or off-line storage at the monthly benefit allotment level as each benefit allotment ages to nine months since the date of issuance or since the last date of account activity, whichever date is later.
+
+(B) The State agency shall not expunge any benefits from active accounts even if there are benefit allotments older than nine months. If at any time after the expungement process begins, the household initiates activity affecting the balance of the account, the State shall stop expunging benefits from the account and start the account aging process over again for the remaining benefits.
+
+(ii) *Unused benefits.* The State agency shall expunge individual benefit allotments, or portion thereof, that remain in a household's EBT account nine months (274 days) after the date the allotment was issued to the household, regardless of any account activity that may have taken place.
+
+(2) Not later than 30 days before benefit expungement is scheduled to begin, State agencies shall provide notice to the household that benefits in their EBT account are approaching expungement due to nonuse/inactivity. At a minimum, the notice shall include:
+
+(i) The date upon which benefits are scheduled to be expunged; and
+
+(ii) The steps necessary to prevent the expungement, including an opportunity to request that any benefits stored off-line be restored to the household in accordance with paragraph (h) of this section;
+
+(3) Expunged benefits shall be removed from the Account Management Agent and shall not be reinstated.
+
+(4) Notwithstanding paragraph (i)(1) of this section, in instances when the State agency verifies a death match for all certified members of the household and closes the SNAP case in accordance with § 272.14 of this chapter, the State agency shall expunge the remaining SNAP balance in the household's EBT account at that time. In accordance with § 273.13(b)(2) of this chapter, expungement notices, per paragraph (i)(2) of this section, are not required for these households.
+
+(j) *Procedures to adjust SNAP accounts.* Procedures shall be established to permit the appropriate managers to adjust SNAP benefits that have already been posted to an EBT account prior to the household accessing the account, or to remove benefits from inactive accounts for off-line storage or expungement in accordance with paragraphs (h) and (i) of this section.
+
+(1) Whenever benefits are stored off-line or expunged, the State agency shall document the date, amount of the benefits, and storage location in the household case file.
+
+(2) Issuance reports shall reflect the adjustment to the State agency issuance totals to comply with monthly issuance reporting requirements prescribed under § 274.4.
+
+\[75 FR 18381, Apr. 12, 2010,, as amended at 78 FR 51657, Aug. 21, 2013; 85 FR 52032, Aug. 24, 2020\]

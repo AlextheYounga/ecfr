@@ -1,7 +1,5 @@
 ##### § 271.2 Definitions.
 
-Link to an amendment published at 85 FR 52031, Aug. 24, 2020.
-
 *Access device* means any card, plate, code, account number, or other means of access that can be used alone, or in conjunction with another access device, to obtain payments, allotments, benefits, money, goods, or other things of value, or that can be used to initiate a transfer of funds under the Food and Nutrition Act of 2008, as amended.
 
 *Active case* means a household which was certified prior to, or during, the sample month and issued SNAP benefits for the sample month.
@@ -12,7 +10,7 @@ Link to an amendment published at 85 FR 52031, Aug. 24, 2020.
 
 *Alien Status Verification Index (ASVI)* means the automated database maintained by the United States Citizenship and Immigration Services (USCIS) which may be accessed by State agencies to verify immigration status.
 
-*Allotment* means the total value of coupons a household is authorized to receive during each month or other time period.
+*Allotment* means the total value of benefits a household is authorized to receive during each month or other time period.
 
 *Application form* means: (1) The application form designed or approved by FNS, which is completed by a household member or authorized representative; or
 
@@ -22,25 +20,21 @@ Link to an amendment published at 85 FR 52031, Aug. 24, 2020.
 
 *Authorization document* means an intermediary document issued by the State agency and used in an issuance system to authorize a specific benefit amount for a household.
 
-*Authorization to participate card (ATP)* means a document which is issued by the State agency to a certified household to show the allotment the household is authorized to receive on presentation of such document.
-
 *Beginning month(s)* in a Monthly Reporting and Retrospective Budgeting system means either the first month for which the household is certified for SNAP benefits (where the State agency has adopted a one month accounting system) or the first month for which the household is certified for SNAP benefits and the month thereafter (where the State agency has adopted a two month accounting system). Except for beginning months in sequence as described in the preceding sentences, a beginning month cannot be any month which immediately follows a month in which a household is certified. The month following the month of termination resulting from a one-month temporary change in household circumstances shall not be considered a beginning month.
 
-*Budget month* in a Monthly Reporting and Retrospective Budgeting system means the fiscal or calendar month from which the State agency uses income and other circumstances of the household to calculate the household's SNAP allotment to be provided for the corresponding issuance month.
+*Benefit* means the value of supplemental nutrition assistance provided to a household by means of an EBT system or other means of providing assistance, as determined by the Secretary.
 
-*Bulk storage point* means an office of the State agency or any person, partnership, corporation, organization, political subdivision, or other entity with which a State agency has contracted for, or to which it has assigned responsibility for, the security and storage of food coupons.
+*Benefit issuer* means any office of the State agency or any person, partnership, corporation, organization, political subdivision or other entity with which a State agency has contracted for, or to which it has delegated functional responsibility, in connection with the issuance of benefits to households.
+
+*Budget month* in a Monthly Reporting and Retrospective Budgeting system means the fiscal or calendar month from which the State agency uses income and other circumstances of the household to calculate the household's SNAP allotment to be provided for the corresponding issuance month.
 
 *Communal dining facility* means a public or nonprofit private establishment, approved by FNS, which prepares and serves meals for elderly persons, or for supplemental security income (SSI) recipients, and their spouses, a public or private nonprofit establishment (eating or otherwise) that feeds elderly persons or SSI recipients, and their spouses, and federally subsidized housing for the elderly at which meals are prepared for and served to the residents. It also includes private establishments that contract with an appropriate State or local agency to offer meals at concessional prices to elderly persons or SSI recipients, and their spouses.
 
 *Coupon* means any coupon, stamp, type of certificate, authorization card, cash or check issued in lieu of a coupon, or access device, including an electronic benefit transfer card or personal identification number issued pursuant to the provisions of the Food and Nutrition Act of 2008, as amended, for the purchase of eligible food.
 
-*Coupon issuer* means any office of the State agency or any person, partnership, corporation, organization, political subdivision, or other entity with which a State agency has contracted for, or to which it has assigned responsibility for, the issuance of coupons to households.
-
 *Deficiency* means any aspect of a State's program operations determined to be out of compliance with the Food and Nutrition Act of 2008, FNS Regulations, or program requirements as contained in the State agency's manual, the State agency's approved Plan of Operation or other State agency plans.
 
 *Department* means the U.S. Department of Agriculture.
-
-*Direct access system* means an issuance system in which benefits are issued directly to the household, without the use of an intermediary document, based on the issuance agent's direct access to information in the household's individual record on the master issuance file, which may be a card document or an on-line computer system.
 
 *Drug addiction or alcoholic treatment and rehabilitation program* means any drug addiction or alcoholic treatment and rehabilitation program conducted by a private, nonprofit organization or institution, or a publicly operated community mental health center, under part B of title XIX of the Public Health Service Act (42 U.S.C. 300x *et seq.*). Under part B of title XIX of the Public Health Service Act is defined as meeting the criteria which would make it eligible to receive funds, even if it does not actually receive funding under part B of title XIX.
 
@@ -66,13 +60,21 @@ Link to an amendment published at 85 FR 52031, Aug. 24, 2020.
 
 (11) Is a recipient of interim assistance benefits pending the receipt of Supplemented Security Income, a recipient of disability related medical assistance under title XIX of the Social Security Act, or a recipient of disability-based State general assistance benefits *provided* that the eligibility to receive any of these benefits is based upon disability or blindness criteria established by the State agency which are at least as stringent as those used under title XVI of the Social Security Act (as set forth at 20 CFR part 416, subpart I, Determining Disability and Blindness as defined in Title XVI).
 
+*Electronic Benefit Transfer (EBT) account* means a set of records containing demographic, card, benefit, transaction and balance data for an individual household within the EBT system that is maintained and managed by a State or its contractor as part of the client case record.
+
+*Electronic Benefit Transfer (EBT) card* means a method to access EBT benefits issued to a household member or authorized representative through the EBT system by a benefit issuer. This method may include an on-line magnetic stripe card, an off-line smart card, a chip card, a contactless digital wallet with a stored card, or any other similar benefit access technology approved by FNS.
+
+*Electronic Benefit Transfer (EBT) contractor or vendor* means an entity that is selected to perform EBT-related services for the State agency.
+
+*Electronic Benefit Transfer (EBT) system* means an electronic payments system under which household benefits are issued from and stored in a central databank, maintained and managed by a State or its contractor, and uses electronic funds transfer technology for the delivery and control of food and other public assistance benefits.
+
 *Eligible foods* means:
 
 (1) Any food or food product intended for human consumption except alcoholic beverages, tobacco, and hot foods and hot food products prepared for immediate consumption and any deposit fee in excess of the amount of the State fee reimbursement (if any) required to purchase any food or food product contained in a returnable bottle, can, or other container, regardless of whether the fee is included in the shelf price posted for the food or food product;
 
 (2) Seeds and plants to grow foods for the personal consumption of eligible households;
 
-(3) Meals prepared and delivered by an authorized meal delivery service to households eligible to use coupons to purchase delivered meals; or meals served by an authorized communal dining facility for the elderly, for SSI households or both, to households eligible to use coupons for communal dining;
+(3) Meals prepared and delivered by an authorized meal delivery service to households eligible to use SNAP benefits to purchase delivered meals; or meals served by an authorized communal dining facility for the elderly, for SSI households or both, to households eligible to use SNAP benefits for communal dining;
 
 (4) Meals prepared and served by a drug addict or alcoholic treatment and rehabilitation center to narcotic addicts or alcoholics and their children who live with them;
 
@@ -110,7 +112,7 @@ Link to an amendment published at 85 FR 52031, Aug. 24, 2020.
 
 (2) For purposes of the regulations in this subchapter and SNAP policies, the terms firm, entity, retailer, and store are used interchangeably.
 
-*Firm's practice* means the usual manner in which personnel of a firm or store accept food coupons as shown by the actions of the personnel at the time of the investigation.
+*Firm's practice* means the usual manner in which personnel of a firm or store accept SNAP benefits as shown by the actions of the personnel at the time of the investigation.
 
 *FNS* means the Food and Nutrition Service of the U.S. Department of Agriculture.
 
@@ -144,6 +146,8 @@ Link to an amendment published at 85 FR 52031, Aug. 24, 2020.
 
 *Insured financial institution* means a financial institution insured by the Federal Deposit Insurance Corporation (FDIC) or financial institutions which are insured under the Federal Credit Union Act and which have retail food stores or wholesale food concerns in their field of membership.
 
+*Interoperability* means a system that enables program benefits issued to be redeemed outside the State that issued the benefits.
+
 *Issuance month* in a Monthly Reporting and Retrospective Budgeting system means the fiscal or calendar month for which the State agency shall issue a SNAP allotment. Issuance is based upon income and circumstances in the corresponding budget month. In prospective budgeting, the budget month and issuance month are the same. In retrospective budgeting, the issuance month follows the budget month and the issuance month shall begin within 32 days after the end of the budget month.
 
 *Large project area* means those project areas/management units with monthly active caseloads of more than 25,000 households based on the most current information available at the time the large project area review schedule is developed.
@@ -153,6 +157,10 @@ Link to an amendment published at 85 FR 52031, Aug. 24, 2020.
 *Management Evaluation (ME) reviews* means reviews conducted by States at the project area level to determine if State agencies are administering and operating SNAP in accordance with program requirements.
 
 *Management unit* means an area based on a welfare district, region, or other administrative structure designated by the State agency and approved by FNS to be reviewed for ME review purposes.
+
+*Manual transaction* means an EBT transaction that is processed with the use of a paper manual voucher when there is an EBT system outage.
+
+*Manual voucher* means a paper document signed by the EBT cardholder that allows a retailer to redeem benefits through a manual transaction.
 
 *Master issuance file* means a cumulative file containing the individual records and status of households, and the amount of benefits, if any, each household is authorized to receive.
 
@@ -176,7 +184,7 @@ Link to an amendment published at 85 FR 52031, Aug. 24, 2020.
 
 *Offset year* means the calendar year during which offsets may be made to collect certain recipient claims from individuals' Federal income tax refunds.
 
-*Overissuance* means the amount by which coupons issued to a household exceeds the amount it was eligible to receive.
+*Overissuance* means the amount by which benefits issued to a household exceeds the amount it was eligible to receive.
 
 *Overpayment error rate* means the percentage of the value of all allotments issued in a fiscal year that are either: (1) Issued to households that fail to meet basic program eligibility requirements, or
 
@@ -184,9 +192,13 @@ Link to an amendment published at 85 FR 52031, Aug. 24, 2020.
 
 *Payment error rate* means the sum of the point estimates of two component error rates: an overpayment error rate and an underpayment error rate. Each component error rate is the value of allotments either overissued or underissued expressed as a percentage of all allotments issued to completed active sample cases, excluding those cases processed by SSA personnel or participating in certain demonstration projects designated by FNS.
 
+*Personal identification number (PIN)* means a numeric code selected by or assigned to a household and used to verify the identity of an EBT cardholder when performing an EBT transaction.
+
 *Placed in an employment and training (E&T) program* means a State agency may count a person as “placed” in an E&T program when the individual commences a component.
 
-*Program* means SNAP conducted under the Food and Nutrition Act of 2008 and regulations.
+*Point-of-Sale (POS) terminal* means a range of devices deployed at authorized retail food stores for redeeming benefits by initiating electronic debits and credits of household EBT accounts and retailer bank accounts.
+
+*Primary account number (PAN)* means a number embossed or printed on the EBT card and encoded onto the card to identify the State and EBT account holder.
 
 *Project area* means the county or similar political subdivision designated by a State as the administrative unit for program operations. Upon prior FNS approval, a city, Indian reservation, welfare district, or any other entity with clearly defined geographic boundaries, or any combination of such entities, may be designated as a project area, or a State as a whole may be designated as a single project area.
 
@@ -213,6 +225,8 @@ Link to an amendment published at 85 FR 52031, Aug. 24, 2020.
 (4) Any private nonprofit cooperative food purchasing venture, including those whose members pay for food prior to receipt of the food; and
 
 (5) A farmers' market.
+
+*Retailer EBT Data Exchange (REDE) system* means the FNS system that allows the automated exchange of authorized retailer demographic data between FNS and the State and/or EBT contractor for notification of changes in retailer Program participation.
 
 *Retrospective budgeting* in a Monthly Reporting and Retrospective Budgeting system means the computation of a household's SNAP allotment for an issuance month based on actual income and circumstances which existed in a previous month, the “budget month.”
 
@@ -245,6 +259,8 @@ Link to an amendment published at 85 FR 52031, Aug. 24, 2020.
 *State Wage Information Collection Agency (SWICA)* means the State agency administering the State unemployment compensation law, another agency administering a quarterly wage reporting system, or a State agency administering an alternative system which has been determined by the Secretary of Labor, in consultation with the Secretary of Agriculture and the Secretary of Health and Human Services, to be as effective and timely in providing employment related income and eligibility data as the two just mentioned agencies.
 
 *Sub-units* means the physical location of an organizational entity within a project area/management unit involved in the operation of SNAP, excluding Post Offices.
+
+*Supplemental Nutrition Assistance Program (SNAP or Program)* means the program operated pursuant to the Food and Nutrition Act of 2008.
 
 *Supplemental Security Income (SSI)* means monthly cash payments made under the authority of: (1) Title XVI of the Social Security Act, as amended, to the aged, blind and disabled; (2) section 1616(a) of the Social Security Act; or (3) section 212(a) of Pub. L. 93-66.
 
