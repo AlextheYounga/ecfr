@@ -70,7 +70,9 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Border transfer (BT)* means the amount of herring specified pursuant to § 648.200 that may be transferred to a Canadian transport vessel that is permitted under the provisions of Pub. L. 104-297, section 105(e).
 
-*Bottom-tending mobile gear,* with respect to the NE multispecies and tilefish fisheries, means gear in contact with the ocean bottom, and towed from a vessel, which is moved through the water during fishing in order to capture fish, and includes otter trawls, beam trawls, hydraulic dredges, non-hydraulic dredges, and seines (with the exception of a purse seine).
+*Bottom-tending mobile gear,* means gear in contact with the ocean bottom, and towed from a vessel, which is moved through the water during fishing in order to capture fish, and includes otter trawls, beam trawls, hydraulic dredges, non-hydraulic dredges, and seines (with the exception of a purse seine).
+
+*Bridles* connect the wings of a bottom trawl to the ground cables. The ground cables lead to the doors or otter boards. The doors are attached to the towing vessel via steel cables, referred to as wires or warps. Each net has two sets of bridles, one on each side.
 
 *Brush-sweep trawl gear* means trawl gear consisting of alternating roller discs and bristle brushes that are strung along cables, chains, or footropes, and aligned together to form the sweep of the trawl net, designed to allow the trawl sweep to maintain contact with the ocean floor, or any modification to trawl gear that is substantially similar in design or effect.
 
@@ -158,11 +160,13 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Full-processing (fully process or fully processed), with respect to the Atlantic deep-sea red crab fishery,* means any activity that removes meat from any part of a red crab.
 
-*Gillnet gear capable of catching multispecies* means all gillnet gear except pelagic gillnet gear specified at § 648.81(f)(5)(ii) and pelagic gillnet gear that is designed to fish for and is used to fish for or catch tunas, swordfish, and sharks.
+*Gillnet gear capable of catching multispecies* means all gillnet gear except pelagic gillnet gear specified at § 648.81(b)(2)(ii) and (d)(5)(ii) and pelagic gillnet gear that is designed to fish for and is used to fish for or catch tunas, swordfish, and sharks.
 
 *Golden tilefish* means *Lopholatilus chamaeleonticeps.*
 
 *Gross registered tonnage* (GRT) means the gross registered tonnage specified on the USCG documentation for a vessel.
+
+*Ground cables* on a bottom trawl run between the bridles, which attach directly to the wings of the net, and the doors, or otter boards. The doors are attached to the towing vessel via steel cables, referred to as wires or warps.
 
 *Hagfish* means *Myxine glutinosa.*
 
@@ -490,7 +494,7 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 
 *Offload* or *offloading* means to begin to remove, to remove, to pass over the rail, or otherwise take away fish from any vessel. For purposes of the surfclam and ocean quahog fishery, it means to separate physically a cage from a vessel, such as by removing the sling or wire used to remove the cage from the harvesting vessel.
 
-*Open areas,* with respect to the Atlantic sea scallop fishery, means any area that is not subject to restrictions of the Sea Scallop Rotational Areas specified in §§ 648.59 and 648.60, EFH Closed Areas specified in § 648.61, or the Northern Gulf of Maine Management Area specified in § 648.62.
+*Open areas,* with respect to the Atlantic sea scallop fishery, means any area that is not subject to restrictions of the Sea Scallop Rotational Areas specified in §§ 648.59 and 648.60, the Northern Gulf of Maine Management Area specified in § 648.62, EFH Closed Areas specified in §§ 648.61 and 648.370, Dedicated Habitat Research areas specified in § 648.371, or the Frank R. Lautenberg Deep-Sea Coral Protection Area described in § 648.372.
 
 *Operational discards in the Atlantic herring fishery* means small amounts of fish that cannot be pumped on board and remain in the codend or seine at the end of pumping operations. Leaving small amounts of fish in the codend or seine at the end of pumping operations is operationally discarding catch.
 
