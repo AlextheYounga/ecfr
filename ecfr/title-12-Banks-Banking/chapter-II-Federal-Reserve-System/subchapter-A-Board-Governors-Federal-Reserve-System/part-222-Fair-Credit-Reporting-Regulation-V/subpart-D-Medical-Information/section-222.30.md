@@ -2,7 +2,7 @@
 
 (a) *Scope.* This section applies to
 
-(1) Any of the following that participates as a creditor in a transaction -
+(1) Any of the following that participates as a creditor in a transaction—
 
 (i) A bank that is a member of the Federal Reserve System (other than national banks) and its subsidiaries;
 
@@ -16,7 +16,7 @@
 
 (2) Any other person that participates as a creditor in a transaction involving a person described in paragraph (a)(1) of this section.
 
-(b) *General prohibition on obtaining or using medical information* - (1) *In general.* A creditor may not obtain or use medical information pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit, except as provided in this section.
+(b) *General prohibition on obtaining or using medical information*—(1) *In general.* A creditor may not obtain or use medical information pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit, except as provided in this section.
 
 (2) *Definitions.* (i) *Credit* has the same meaning as in section 702 of the Equal Credit Opportunity Act, 15 U.S.C. 1691a.
 
@@ -30,7 +30,7 @@
 
 (C) Maintaining or servicing the consumer's account in a manner that does not involve a determination of the consumer's eligibility, or continued eligibility, for credit.
 
-(c) *Rule of construction for obtaining and using unsolicited medical information* - (1) *In general.* A creditor does not obtain medical information in violation of the prohibition if it receives medical information pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit without specifically requesting medical information.
+(c) *Rule of construction for obtaining and using unsolicited medical information*—(1) *In general.* A creditor does not obtain medical information in violation of the prohibition if it receives medical information pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit without specifically requesting medical information.
 
 (2) *Use of unsolicited medical information.* A creditor that receives unsolicited medical information in the manner described in paragraph (c)(1) of this section may use that information in connection with any determination of the consumer's eligibility, or continued eligibility, for credit to the extent the creditor can rely on at least one of the exceptions in § 222.30(d) or (e).
 
@@ -42,7 +42,7 @@
 
 (iii) In connection with a consumer's application for an extension of credit, the creditor requests a consumer report from a consumer reporting agency and receives medical information in the consumer report furnished by the agency even though the creditor did not specifically request medical information from the consumer reporting agency.
 
-(d) *Financial information exception for obtaining and using medical information* - (1) *In general.* A creditor may obtain and use medical information pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit so long as:
+(d) *Financial information exception for obtaining and using medical information*—(1) *In general.* A creditor may obtain and use medical information pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit so long as:
 
 (i) The information is the type of information routinely used in making credit eligibility determinations, such as information relating to debts, expenses, income, benefits, assets, collateral, or the purpose of the loan, including the use of proceeds;
 
@@ -50,7 +50,7 @@
 
 (iii) The creditor does not take the consumer's physical, mental, or behavioral health, condition or history, type of treatment, or prognosis into account as part of any such determination.
 
-(2) *Examples.* (i) *Examples of the types of information routinely used in making credit eligibility determinations.* Paragraph (d)(1)(i) of this section permits a creditor, for example, to obtain and use information about:
+(2) *Examples*—(i) *Examples of the types of information routinely used in making credit eligibility determinations.* Paragraph (d)(1)(i) of this section permits a creditor, for example, to obtain and use information about:
 
 (A) The dollar amount, repayment terms, repayment history, and similar information regarding medical debts to calculate, measure, or verify the repayment ability of the consumer, the use of proceeds, or the terms for granting credit;
 
@@ -72,17 +72,17 @@
 
 (C) A consumer who has an apparent medical condition, such as a consumer who uses a wheelchair or an oxygen tank, meets with a loan officer to apply for a home equity loan. The consumer meets the creditor's established requirements for the requested home equity loan and the creditor typically does not require consumers to obtain a debt cancellation contract, debt suspension agreement, or credit insurance product in connection with such loans. However, based on the consumer's apparent medical condition, the loan officer recommends to the credit committee that credit be extended to the consumer only if the consumer obtains a debt cancellation contract, debt suspension agreement, or credit insurance product from a nonaffiliated third party. The credit committee agrees with the loan officer's recommendation. The loan officer informs the consumer that the consumer must obtain a debt cancellation contract, debt suspension agreement, or credit insurance product from a nonaffiliated third party to qualify for the loan. The consumer obtains one of these products and the creditor approves the loan. The creditor has used medical information in a manner inconsistent with the exception by taking into account the consumer's physical, mental, or behavioral health, condition, or history, type of treatment, or prognosis in setting conditions on the consumer's eligibility for credit.
 
-(e) *Specific exceptions for obtaining and using medical information* - (1) *In general.* A creditor may obtain and use medical information pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit -
+(e) *Specific exceptions for obtaining and using medical information*—(1) *In general.* A creditor may obtain and use medical information pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit—
 
 (i) To determine whether the use of a power of attorney or legal representative that is triggered by a medical condition or event is necessary and appropriate or whether the consumer has the legal capacity to contract when a person seeks to exercise a power of attorney or act as legal representative for a consumer based on an asserted medical condition or event;
 
 (ii) To comply with applicable requirements of local, state, or Federal laws;
 
-(iii) To determine, at the consumer's request, whether the consumer qualifies for a legally permissible special credit program or credit-related assistance program that is -
+(iii) To determine, at the consumer's request, whether the consumer qualifies for a legally permissible special credit program or credit-related assistance program that is—
 
 (A) Designed to meet the special needs of consumers with medical conditions; and
 
-(B) Established and administered pursuant to a written plan that -
+(B) Established and administered pursuant to a written plan that—
 
 (*1*) Identifies the class of persons that the program is designed to benefit; and
 

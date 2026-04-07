@@ -26,7 +26,7 @@
 
 (5) State whether the owner or developer is a subsidiary corporation. If either the owner or developer is a subsidiary corporation or if any of the principals of the owner or developer are corporate entities, name the parent and/or corporate entity and state the principals of each to the ultimate parent entity.
 
-(d) *Documentation .* (1) Submit a copy of the property report, subdivision report, offering statement or similar document filed with the state or states with which the subdivision has been registered.
+(d) *Documentation.* (1) Submit a copy of the property report, subdivision report, offering statement or similar document filed with the state or states with which the subdivision has been registered.
 
 (2) Submit a copy of a general plan of the subdivision. This general plan must consist of a map, prepared to scale, and it must identify the various proposed sections or blocks within the subdivision, the existing or proposed roads or streets, and the location of the existing or proposed recreational and/or common facilities. In an initial filing, this map must at least show the area included in the Statement of Record. In a consolidated Statement of Record, show areas being added, as well as the areas previously registered. If a map of the entire subdivision is submitted with the initial Statement of Record, and if no substantial changes are made when material for a consolidated Statement of Record is submitted, the original map may be included by reference.
 

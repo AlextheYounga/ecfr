@@ -1,7 +1,5 @@
 ##### § 165.160 Safety Zones; fireworks displays and swim events in Coast Guard Captain of the Port New York Zone.
 
-Link to an amendment published at 85 FR 5570, Jan. 31, 2020.
-
 (a) *Regulations.* The general regulations contained in 33 CFR 165.23 as well as the following regulations apply to the fireworks displays and swim events listed in Tables 1 and 2 to § 165.160. These regulations will be enforced for the duration of each event. Notifications will be made to the local maritime community through the Local Notice to Mariners and Broadcast Notice to Mariners well in advance of the events. If the event does not have a date listed, then exact dates and times of the enforcement period will be announced through a Notice of Enforcement in the Federal Register. Mariners should consult the Federal Register or their Local Notice to Mariners to remain apprised of schedule or event changes. First Coast Guard District Local Notice to Mariners can be found at *http://www.navcen.uscg.gov/.* The Captain of the Port Sector New York Marine Events schedule can also be viewed electronically at *www.homeport.uscg.mil*/newyork. Although listed in the Code of Federal Regulations, sponsors of events listed in Tables 1 and 2 to § 165.160 are still required to submit marine event applications in accordance with 33 CFR 100.15.
 
 (b) *Definitions.* The following definitions apply to this section:
@@ -22,25 +20,11 @@ Link to an amendment published at 85 FR 5570, Jan. 31, 2020.
 
 (f) The regulated area for all fireworks displays listed in Table 1 to § 165.160 is that area of navigable waters within a 360 yard radius of the launch platform or launch site for each fireworks display, unless otherwise noted in TABLE 1 to § 165.160 or modified in USCG First District Local Notice to Mariners at: *http://www.navcen.uscg.gov/.*
 
-(g) Fireworks barges used in these locations will also have a sign on their port and starboard side labeled “Fireworks - Stay Away”. This sign will consist of 10 inch high by 1.5 inch wide red lettering on a white background. Shore sites used in these locations will display a sign labeled “Fireworks - Stay Away” with the same dimensions. These zones will be enforced from 6 p.m. (E.S.T.) to 1 a.m. (E.S.T.) each day a barge with a “Fireworks - Stay Away” sign on the port and starboard side is on-scene or a “Fireworks - Stay Away” sign is posted in a location listed in TABLE 1 to § 165.160.
+(g) Fireworks barges used in these locations will also have a sign on their port and starboard side labeled “Fireworks—Stay Away”. This sign will consist of 10 inch high by 1.5 inch wide red lettering on a white background. Shore sites used in these locations will display a sign labeled “Fireworks—Stay Away” with the same dimensions. These zones will be enforced from 6 p.m. (E.S.T.) to 1 a.m. (E.S.T.) each day a barge with a “Fireworks—Stay Away” sign on the port and starboard side is on-scene or a “Fireworks—Stay Away” sign is posted in a location listed in TABLE 1 to § 165.160.
 
 (h) For all swim events listed in Table 2 to § 165.160, vessels not associated with the event shall maintain a separation of at least 100 yards from the participants.
 
 Table 1 to § 165.160
-
-1.0
-
-Hudson River 
-
-1.1 Macy's 4th of July Fireworks
-
-• Event Type: Fireworks. 
-
-• Date: July 4th. 
-
-• Rain Date: July 5th. 
-
-• Location: All waters of the Hudson River bounded by a line drawn east from approximate position 40°46′35.43″ N, 074°00′37.53″ W in New Jersey, to approximate position 40°46′16.98″ N, 073°59′52.34″ W in New York, thence south along the Manhattan shoreline to approximate position 40°44′48.98″ N, 074°00′41.06″ W, then west to approximate position 40°44′55.91″ N, 074°01′24.94″ W, (NAD 83). Then north along the New Jersey shoreline and back to the point of origin. 
 
 2.0
 
@@ -374,4 +358,4 @@ Upper New York Bay, Lower New York Bay
 
 • This Safety Zone includes all waters within a 100-yard radius of each participating swimmer.
 
-\[USCG-2010-1001, 76 FR 69617, Nov. 9, 2011, as amended by USCG-2015-0433, 80 FR 44283, July 27, 2015\]
+\[USCG-2010-1001, 76 FR 69617, Nov. 9, 2011, as amended by USCG-2015-0433, 80 FR 44283, July 27, 2015; USCG-2018-0532, 85 FR 5570, Jan. 31, 2020\]

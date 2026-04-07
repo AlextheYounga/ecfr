@@ -34,7 +34,7 @@ For the purposes of this part, unless the context indicates otherwise, the follo
 
 (f) *Application* means an oral or written request for an extension of credit that is made in accordance with procedures used by a creditor for the type of credit requested. The term application does not include the use of an account or line of credit to obtain an amount of credit that is within a previously established credit limit. A *completed application* means an application in connection with which a creditor has received all the information that the creditor regularly obtains and considers in evaluating applications for the amount and type of credit requested (including, but not limited to, credit reports, any additional information requested from the applicant, and any approvals or reports by governmental agencies or other persons that are necessary to guarantee, insure, or provide security for the credit or collateral). The creditor shall exercise reasonable diligence in obtaining such information.
 
-(g) *Business credit* refers to extensions of credit primarily for business or commercial (including agricultural) purposes, but excluding extensions of credit of the types described in §§ 1002.3(a)-(d).
+(g) *Business credit* refers to extensions of credit primarily for business or commercial (including agricultural) purposes, but excluding extensions of credit of the types described in § 1002.3(a)-(d).
 
 (h) *Consumer credit* means credit extended to a natural person primarily for personal, family, or household purposes.
 
@@ -52,7 +52,7 @@ For the purposes of this part, unless the context indicates otherwise, the follo
 
 (o) *Elderly* means age 62 or older.
 
-(p) *Empirically derived and other credit scoring systems* - (1) *A credit scoring system* is a system that evaluates an applicant's creditworthiness mechanically, based on key attributes of the applicant and aspects of the transaction, and that determines, alone or in conjunction with an evaluation of additional information about the applicant, whether an applicant is deemed creditworthy. To qualify as an *empirically derived, demonstrably and statistically sound, credit scoring system,* the system must be:
+(p) *Empirically derived and other credit scoring systems*—(1) *A credit scoring system* is a system that evaluates an applicant's creditworthiness mechanically, based on key attributes of the applicant and aspects of the transaction, and that determines, alone or in conjunction with an evaluation of additional information about the applicant, whether an applicant is deemed creditworthy. To qualify as an *empirically derived, demonstrably and statistically sound, credit scoring system,* the system must be:
 
 (i) Based on data that are derived from an empirical comparison of sample groups or the population of creditworthy and non-creditworthy applicants who applied for credit within a reasonable preceding period of time;
 

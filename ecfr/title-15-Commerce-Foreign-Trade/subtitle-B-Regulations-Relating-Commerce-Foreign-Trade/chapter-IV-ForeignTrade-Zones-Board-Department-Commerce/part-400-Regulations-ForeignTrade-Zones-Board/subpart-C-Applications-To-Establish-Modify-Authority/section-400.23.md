@@ -22,7 +22,7 @@ In addition to any applicable requirements set forth in § 400.21, an applicatio
 
 (7) Annual production capacity (current and planned) for the proposed FTZ activity, in units;
 
-(8) Information to assist the Board in making a determination under §§ 400.27(a)(3) and 400.27(b);
+(8) Information to assist the Board in making a determination under § 400.27(a)(3) and 400.27(b);
 
 (9) Information as to whether alternative procedures have been considered as a means of obtaining the benefits sought;
 

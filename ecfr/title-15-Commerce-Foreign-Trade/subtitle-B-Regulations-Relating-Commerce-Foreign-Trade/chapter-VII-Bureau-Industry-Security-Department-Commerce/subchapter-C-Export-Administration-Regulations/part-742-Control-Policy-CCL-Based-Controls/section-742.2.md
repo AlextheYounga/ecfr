@@ -96,7 +96,7 @@
 
 (ii) Could be destined for the design, development, production, stockpiling, or use of chemical or biological weapons, or for a facility engaged in such activities.
 
-(4) License applications for items described in paragraph (a) of this section, when destined for the People's Republic of China or Russia, will be reviewed in accordance with the licensing policies in both paragraph (b) of this section and § 742.4(b)(7).
+(4) License applications for items described in paragraph (a) of this section, when destined for the People's Republic of China will be reviewed in accordance with the licensing policies in both paragraph (b) of this section and § 742.4(b)(7). When such items are destined to Russia, license applications will be reviewed under a presumption of denial.
 
 (c) *Contract sanctity.* Contract sanctity dates are set forth in supplement no. 1 to part 742. Applicants who wish that a preexisting contract be considered in reviewing their license applications must submit documentation sufficient to establish the existence of such a contract.
 

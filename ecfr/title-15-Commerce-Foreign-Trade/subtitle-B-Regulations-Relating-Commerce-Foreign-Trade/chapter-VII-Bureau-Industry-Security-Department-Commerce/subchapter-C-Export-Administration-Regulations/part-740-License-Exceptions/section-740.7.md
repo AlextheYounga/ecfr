@@ -14,7 +14,7 @@
 
 (4) You may not use this License Exception to export or reexport items that you know will be used to enhance the APP beyond the eligibility limit allowed to your country of destination.
 
-(5) License Exception APP does not authorize exports, reexports and transfers (in-country) for nuclear, chemical, biological, or missile end-users and end-uses subject to license requirements under § 744.2, § 744.3, § 744.4, and § 744.5 of the EAR. Such exports, reexports and transfers (in-country) will continue to require a license and will be considered on a case-by-case basis. Reexports and transfers (in-country) to these end-users and end-uses in eligible countries are strictly prohibited without prior authorization.
+(5) License Exception APP does not authorize exports, reexports and transfers (in-country) for nuclear, chemical, biological, or missile end-users and end-uses subject to license requirements under §§ 744.2, 744.3, 744.4, and 744.5 of the EAR. Such exports, reexports and transfers (in-country) will continue to require a license and will be considered on a case-by-case basis. Reexports and transfers (in-country) to these end-users and end-uses in eligible countries are strictly prohibited without prior authorization.
 
 (6) Foreign nationals in an expired visa status are not eligible to receive deemed exports of technology or source code under this License Exception. It is the responsibility of the exporter to ensure that, in the case of deemed exports, the foreign national maintains a valid U.S. visa, if required to hold a visa from the United States.
 

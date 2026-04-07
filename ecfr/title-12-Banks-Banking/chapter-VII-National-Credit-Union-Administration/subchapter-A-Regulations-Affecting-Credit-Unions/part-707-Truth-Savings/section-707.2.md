@@ -8,7 +8,7 @@ For purposes of this part, the following definitions apply:
 
 (1) The availability or terms of, or a deposit in, a new account; and
 
-(2) For purposes of § 707.8(a) and § 707.11 of this part, the terms of, or a deposit in, a new or existing account.
+(2) For purposes of §§ 707.8(a) and 707.11 of this part, the terms of, or a deposit in, a new or existing account.
 
 (c) *Annual percentage yield* means a percentage rate reflecting the total amount of dividends paid on an account, based on the dividend rate and the frequency of compounding for a 365-day period and calculated according to the rules in appendix A of this part.
 
