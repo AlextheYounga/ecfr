@@ -1,5 +1,7 @@
 ##### § 120.17 Export.
 
+Link to an amendment published at 84 FR 70892, Dec. 26, 2019.
+
 (a) Except as set forth in § 126.16 or § 126.17, *export* means:
 
 (1) An actual shipment or transmission out of the United States, including the sending or taking of a defense article out of the United States in any manner;

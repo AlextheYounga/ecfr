@@ -1,5 +1,7 @@
 ##### § 120.51 Retransfer.
 
+Link to an amendment published at 84 FR 70892, Dec. 26, 2019.
+
 (a) *Retransfer,* except as set forth in § 126.16 or § 126.17, means:
 
 (1) A change in end use or end user, or a temporary transfer to a third party, of a defense article within the same foreign country; or
