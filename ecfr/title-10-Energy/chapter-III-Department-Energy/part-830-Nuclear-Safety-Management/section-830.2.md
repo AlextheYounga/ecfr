@@ -4,7 +4,7 @@ This part does not apply to:
 
 (a) Activities that are regulated through a license by the Nuclear Regulatory Commission (NRC) or a State under an Agreement with the NRC, including activities certified by the NRC under section 1701 of the Atomic Energy Act (Act);
 
-(b) Activities conducted under the authority of the Director, Naval Nuclear Propulsion, pursuant to Executive Order 12344, as set forth in Public Law 106-65;
+(b) Activities conducted under the authority of the Director, Naval Nuclear Propulsion, pursuant to Executive Order 12344, as set forth in Public Law 106- 65;
 
 (c) Transportation activities which are regulated by the Department of Transportation;
 

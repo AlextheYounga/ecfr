@@ -1,7 +1,5 @@
 ##### § 541.3 Prohibited acts and available sanctions.
 
-Link to an amendment published at 85 FR 66229, Oct. 19, 2020.
-
 (a) *Prohibited acts.* The list of prohibited acts are divided into four separate categories based on severity: Greatest; High; Moderate; and Low. We describe the prohibited acts in Table 1 - Prohibited Acts and Available Sanctions. Aiding, attempting, abetting, or making plans to commit any of the prohibited acts is treated the same as committing the act itself.
 
 (b) *Available sanctions.* The list of available sanctions for committing prohibited acts is listed in Table 1 - Prohibited Acts and Available Sanctions. If you commit repetitive prohibited acts, we can impose increased sanctions, as listed in Table 2 - Additional Available Sanctions for Repeated Prohibited Acts Within the Same Severity Level.
@@ -269,6 +267,10 @@ Tattooing or self-mutilation.
 229
 
 Sexual assault of any person, involving non-consensual touching without force or threat of force. 
+
+231
+
+Requesting, demanding, pressuring, or otherwise intentionally creating a situation, which causes an inmate to produce or display his/her own court documents for any unauthorized purpose to another inmate. 
 
 296
 
@@ -679,4 +681,4 @@ Table 2 - Additional Available Sanctions for Repeated Prohibited Acts Within the
 |                               |                                               | 3rd or more offense             | Any available Greatest severity level sanction (100 series).                                                                                                                       |
 | Greatest Severity (100 level) | 24 months                                     | 2nd or more offense             | Disciplinary Segregation (up to 18 months).                                                                                                                                        |
 
-\[75 FR 76267, Dec. 8, 2010; 75 FR 81854, Dec. 29, 2010\]
+\[75 FR 76267, Dec. 8, 2010; 75 FR 81854, Dec. 29, 2010, as amended at 85 FR 66229, Oct. 19, 2020\]
