@@ -7,7 +7,6 @@
 (1) *Minimum standards and enforcement provisions for well control equipment.* (i) A well control device shall be installed at the surface that is capable of complete closure of the well bore. This device shall be closed whenever the well is unattended.
 
 Table 1 to § 3172.6(b)(1)(i)
-
 | Violation | Corrective action                  | Normal abatement period     |
 | --------- | ---------------------------------- | --------------------------- |
 | Major     | Install the equipment as specified | Prompt correction required. |
@@ -35,7 +34,6 @@ Table 1 to § 3172.6(b)(1)(i)
 (J) Fill-up line above the uppermost preventer.
 
 Table 2 to § 3172.6(b)(1)(ii)
-
 | Violation            | Corrective action                  | Normal abatement period     |
 | -------------------- | ---------------------------------- | --------------------------- |
 | Minor                | Install the equipment as specified | 24 hours.                   |
@@ -70,7 +68,6 @@ Table 2 to § 3172.6(b)(1)(ii)
 (M) Fill-up line above the uppermost preventer.
 
 Table 3 to § 3172.6(b)(1)(iii)
-
 | Violation            | Corrective action                  | Normal abatement period     |
 | -------------------- | ---------------------------------- | --------------------------- |
 | Minor                | Install the equipment as specified | 24 hours.                   |
@@ -113,7 +110,6 @@ Table 3 to § 3172.6(b)(1)(iii)
 (Q) Fill-up line above the uppermost preventer.
 
 Table 4 to § 3172.6(b)(1)(iv)
-
 | Violation            | Corrective action                  | Normal abatement period     |
 | -------------------- | ---------------------------------- | --------------------------- |
 | Minor                | Install the equipment as specified | 24 hours.                   |
@@ -156,7 +152,6 @@ Table 4 to § 3172.6(b)(1)(iv)
 (Q) Fill-up line installed above the uppermost preventer.
 
 Table 5 to § 3172.6(b)(1)(v)
-
 | Violation            | Corrective action                  | Normal abatement period     |
 | -------------------- | ---------------------------------- | --------------------------- |
 | Minor                | Install the equipment as specified | 24 hours.                   |
@@ -165,7 +160,6 @@ Table 5 to § 3172.6(b)(1)(v)
 (vi) If repair or replacement of the BOPE is required after testing, this work shall be performed prior to drilling out the casing shoe.
 
 Table 6 to § 3172.6(b)(1)(vi)
-
 | Violation | Corrective action                  | Normal abatement period     |
 | --------- | ---------------------------------- | --------------------------- |
 | Major     | Install the equipment as specified | Prompt correction required. |
@@ -173,7 +167,6 @@ Table 6 to § 3172.6(b)(1)(vi)
 (vii) When the BOPE cannot function to secure the hole, the hole shall be secured using cement, retrievable packer or a bridge plug packer, bridge plug, or other acceptable approved method to assure safe well conditions.
 
 Table 7 to § 3172.6(b)(1)(vii)
-
 | Violation | Corrective action                  | Normal abatement period     |
 | --------- | ---------------------------------- | --------------------------- |
 | Major     | Install the equipment as specified | Prompt correction required. |
@@ -181,7 +174,6 @@ Table 7 to § 3172.6(b)(1)(vii)
 (2) *Minimum standards and enforcement provisions for choke manifold equipment.* (i) All choke lines shall be straight lines unless turns use tee blocks or are targeted with running tees, and shall be anchored to prevent whip and reduce vibration.
 
 Table 8 to § 3172.6(b)(2)(i)
-
 | Violation | Corrective action                  | Normal abatement period |
 | --------- | ---------------------------------- | ----------------------- |
 | Minor     | Install the equipment as specified | 24 hours.               |
@@ -189,7 +181,6 @@ Table 8 to § 3172.6(b)(2)(i)
 (ii) Choke manifold equipment configuration shall be functionally equivalent to the appropriate example diagram shown in appendix A of this subpart. The configuration of the chokes may vary.
 
 Table 9 to § 3172.6(b)(2)(ii)
-
 | Violation | Corrective action                  | Normal abatement period     |
 | --------- | ---------------------------------- | --------------------------- |
 | Minor     | Install the equipment as specified | Prompt correction required. |
@@ -201,7 +192,6 @@ Table 9 to § 3172.6(b)(2)(ii)
 (3) *Minimum standards and enforcement provisions for pressure accumulator system.* (i) 2M system—accumulator shall have sufficient capacity to close all BOP's and retain 200 psi above precharge. Nitrogen bottles that meet manufacturer's specifications may be used as the backup to the required independent power source.
 
 Table 10 to § 3172.6(b)(3)(i)
-
 | Violation | Corrective action                  | Normal abatement period |
 | --------- | ---------------------------------- | ----------------------- |
 | Minor     | Install the equipment as specified | 24 hours.               |
@@ -209,7 +199,6 @@ Table 10 to § 3172.6(b)(3)(i)
 (ii) 3M system—accumulator shall have sufficient capacity to open the hydraulically controlled choke line valve (if so equipped), close all rams plus the annual preventer, and retain a minimum of 200 psi above precharge on the closing manifold without the use of the closing unit pumps. This is a minimum requirement. The fluid reservoir capacity shall be double the usable fluid volume of the accumulator system capacity and the fluid level of the reservoir shall be maintained at the manufacturer's recommendations. The 3M system shall have 2 independent power sources to close the preventers. Nitrogen bottles (3 minimum) may be 1 of the independent power sources and, if so, shall maintain a charge equal to the manufacturer's specifications.
 
 Table 11 to § 3172.6(b)(3)(ii)
-
 | Violation | Corrective action                  | Normal abatement period |
 | --------- | ---------------------------------- | ----------------------- |
 | Minor     | Install the equipment as specified | 24 hours.               |
@@ -217,7 +206,6 @@ Table 11 to § 3172.6(b)(3)(ii)
 (iii) 5M and higher system—accumulator shall have sufficient capacity to open the hydraulically controlled gate valve (if so equipped) and close all rams plus the annular preventer (for 3 ram systems add a 50 percent safety factor to compensate for any fluid loss in the control system or preventers) and retain a minimum pressure of 200 psi above precharge on the closing manifold without use of the closing unit pumps. The fluid reservoir capacity shall be double the usable fluid volume of the accumulator system capacity and the fluid level of the reservoir shall be maintained at the manufacturer's recommendations. Two independent sources of power shall be available for powering the closing unit pumps. Sufficient nitrogen bottles are suitable as a backup power source only, and shall be recharged when the pressure falls below manufacturer's specifications.
 
 Table 12 to § 3172.6(b)(3)(iii)
-
 | Violation | Corrective action                  | Normal abatement period |
 | --------- | ---------------------------------- | ----------------------- |
 | Minor     | Install the equipment as specified | 24 hours.               |
@@ -225,7 +213,6 @@ Table 12 to § 3172.6(b)(3)(iii)
 (4) *Minimum standards and enforcement provisions for accumulator precharge pressure test.* This test shall be conducted prior to connecting the closing unit to the BOP stack and at least once every 6 months. The accumulator pressure shall be corrected if the measured precharge pressure is found to be above or below the maximum or minimum limit specified in table 13 to this paragraph (b)(4) (only nitrogen gas may be used to precharge):
 
 Table 13 to § 3172.6(b)(4)
-
 | Accumulator working   pressure rating   (psi) | Minimum acceptable   operating pressure   (psi) | Desired precharge   pressure   (psi) | Maximum acceptable   precharge pressure   (psi) | Minimum acceptable   precharge pressure   (psi) |
 | --------------------------------------------- | ----------------------------------------------- | ------------------------------------ | ----------------------------------------------- | ----------------------------------------------- |
 | 1,500                                         | 1,500                                           | 750                                  | 800                                             | 700                                             |
@@ -233,7 +220,6 @@ Table 13 to § 3172.6(b)(4)
 | 3,000                                         | 3,000                                           | 1,000                                | 1,100                                           | 900                                             |
 
 Table 14 to § 3172.6(b)(4)
-
 | Violation | Corrective action | Normal abatement period |
 | --------- | ----------------- | ----------------------- |
 | Minor     | Perform test      | 24 hours.               |
@@ -241,7 +227,6 @@ Table 14 to § 3172.6(b)(4)
 (5) *Minimum standards and enforcement provisions for power availability.* Power for the closing unit pumps shall be available to the unit at all times so that the pumps shall automatically start when the closing unit manifold pressure has decreased to a pre-set level.
 
 Table 15 to § 3172.6(b)(5)
-
 | Violation | Corrective action                  | Normal abatement period     |
 | --------- | ---------------------------------- | --------------------------- |
 | Major     | Install the equipment as specified | Prompt correction required. |
@@ -249,7 +234,6 @@ Table 15 to § 3172.6(b)(5)
 (6) *Minimum standards and enforcement provisions for accumulator pump capacity.* Each BOP closing unit shall be equipped with sufficient number and sizes of pumps so that, with the accumulator system isolated from service, the pumps shall be capable of opening the hydraulically operated gate valve (if so equipped), plus closing the annular preventer on the smallest size drill pipe to be used within 2 minutes, and obtain a minimum of 200 psi above specified accumulator precharge pressure.
 
 Table 16 to § 3172.6(b)(6)
-
 | Violation | Corrective action                  | Normal abatement period |
 | --------- | ---------------------------------- | ----------------------- |
 | Minor     | Install the equipment as specified | 24 hours.               |
@@ -257,7 +241,6 @@ Table 16 to § 3172.6(b)(6)
 (7) *Minimum standards and enforcement provisions for locking devices.* A manual locking device (*i.e.,* hand wheels) or automatic locking devices shall be installed on all systems of 2M or greater. A valve shall be installed in the closing line as close as possible to the annular preventer to act as a locking device. This valve shall be maintained in the open position and shall be closed only when the power source for the accumulator system is inoperative.
 
 Table 17 to § 3172.6(b)(7)
-
 | Violation | Corrective action                  | Normal abatement period |
 | --------- | ---------------------------------- | ----------------------- |
 | Minor     | Install the equipment as specified | 24 hours.               |
@@ -265,7 +248,6 @@ Table 17 to § 3172.6(b)(7)
 (8) *Minimum standards and enforcement provisions for remote controls.* Remote controls shall be readily accessible to the driller. Remote controls for all 3M or greater systems shall be capable of closing all preventers. Remote controls for 5M or greater systems shall be capable of both opening and closing all preventers. Master controls shall be at the accumulator and shall be capable of opening and closing all preventers and the choke line valve (if so equipped). No remote control for a 2M system is required.
 
 Table 18 to § 3172.6(b)(8)
-
 | Violation | Corrective action                  | Normal abatement period |
 | --------- | ---------------------------------- | ----------------------- |
 | Minor     | Install the equipment as specified | 24 hours.               |
@@ -276,7 +258,7 @@ Table 18 to § 3172.6(b)(8)
 
 (iii) Annular type preventers shall be tested to 50 percent of rated working pressure. Pressure shall be maintained at least 10 minutes or until provisions of test are met, whichever is longer.
 
-(iv) As a minimum, the test in paragraph (b)(9)(iii) of this section shall be performed:
+(iv) As a minimum, the test in paragraphs (b)(9)(ii) and (iii) of this section shall be performed:
 
 (A) When initially installed;
 
@@ -298,10 +280,11 @@ Table 18 to § 3172.6(b)(8)
 
 (x) Pressure tests shall apply to all related well control equipment.
 
-(xi) All of the tests described in paragraphs (b)(1)(ii) through (x) of this section and/or drills shall be recorded in the drilling log.
+(xi) All of the tests described in paragraphs (b)(9)(ii) through (x) of this section and/or drills shall be recorded in the drilling log.
 
 Table 19 to § 3172.6(b)(9)
-
 | Violation | Corrective action                                   | Normal abatement period                     |
 | --------- | --------------------------------------------------- | ------------------------------------------- |
 | Minor     | Perform the necessary test or provide documentation | 24 hours or next trip, as most appropriate. |
+
+\[81 FR 81421, Nov. 17, 2016, as amended at 88 FR 74890, Nov. 1, 2023\]
