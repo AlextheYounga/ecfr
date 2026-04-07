@@ -1,8 +1,6 @@
 ##### 22.1904 Annual Executive Order Minimum Wage Rate.
 
-Link to an amendment published at 87 FR 4122, Jan. 26, 2022.
-
-(a) For the E.O. minimum wage rate that becomes effective on January 1, 2016, and annually thereafter, the Administrator will -
+(a) For the E.O. minimum wage rate that becomes effective on January 30, 2022, and annually thereafter, the Administrator will—
 
 (1) Notify the public of the new E.O. minimum wage rate at least 90 days before it becomes effective by publishing a notice in the Federal Register;
 
@@ -14,24 +12,13 @@ Link to an amendment published at 87 FR 4122, Jan. 26, 2022.
 
 (2) The wage rate price adjustment under this clause is the lowest amount calculated by subtracting from the new E.O. wage rate the following: The current E.O. minimum wage rate; the current service or construction wage determination rate under the contract (if the wage rate is applicable to that worker); or the actual wage currently paid the worker. If the amount is zero or below, there will be no increase paid for this worker.
 
-(i) Example 1 - New E.O. wage rate is $11.10 
-
-Previous E.O. wage rate is $10.70  
-The current service or construction wage determination rate applicable to this worker under the contract is $10.75
-
-Analysis: The calculation is $11.10 − $10.80 = $.30. The price adjustment for this worker is $.30. 
-
-The actual wage currently paid to the worker is $10.80. 
-
-(ii) Example 2 - New E.O. wage rate is $10.50 
-
-Previous E.O. wage rate is $10.10  
-The current service or construction wage determination rate applicable to this worker under the contract is $10.75
-
-Analysis: The calculation is $10.50−$10.80 = −$.30. There is no price adjustment for this worker. 
-
-The actual wage currently paid to the worker is $10.80.
+| (i) Example 1—New E.O. wage rate is $16.10.                                                                                                              |                                                                                                   |
+| Previous E.O. wage rate is $15.70.   The current service or construction wage determination rate applicable to this worker under the contract is $15.75. | Analysis: The calculation is $16.10−$15.80 = $.30. The price adjustment for this worker is $.30.  |
+| The actual wage currently paid to the worker is $15.80.                                                                                                  |                                                                                                   |
+| (ii) Example 2—New E.O. wage rate is $15.50.                                                                                                             |                                                                                                   |
+| Previous E.O. wage rate is $15.10.   The current service or construction wage determination rate applicable to this worker under the contract is $15.75. | Analysis: The calculation is $15.50−$15.80 = −$.30. There is no price adjustment for this worker. |
+| The actual wage currently paid to the worker is $15.80.                                                                                                  |                                                                                                   |
 
 (3) The contracting officer shall not adjust the contract price for any costs other than those identified in paragraph (b)(1) of this section, and shall not provide duplicate price adjustments with any price adjustment under clauses implementing the Service Contract Labor Standards statute or the Wage Rate Requirements (Construction) statute.
 
-\[79 FR 74550, Dec. 15, 2014, as amended at 80 FR 75917, Dec. 4, 2015; 81 FR 11992, Mar. 7, 2016; 86 FR 71325, Dec. 15, 2021\]
+\[79 FR 74550, Dec. 15, 2014, as amended at 80 FR 75917, Dec. 4, 2015; 81 FR 11992, Mar. 7, 2016; 86 FR 71325, Dec. 15, 2021; 87 FR 4123, Jan. 26, 2022\]
