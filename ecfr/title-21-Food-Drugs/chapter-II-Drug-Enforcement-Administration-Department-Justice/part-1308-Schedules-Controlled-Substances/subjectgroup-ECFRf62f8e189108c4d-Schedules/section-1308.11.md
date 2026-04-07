@@ -814,6 +814,6 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (9811) 
 
-\[39 FR 22141, June 20, 1974\] Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Notes:At 82 FR 20544, May 3, 2017, § 1308.11 was amended by adding (h)(16), effective May 3, 2017 until May 3, 2019.
+\[39 FR 22141, June 20, 1974\] Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Notes:At 82 FR 20544, May 3, 2017, § 1308.11 was amended by adding (h)(16), effective May 3, 2017, until May 3, 2019.
 
-2\. At 82 FR 32457, July 14, 2017, § 1308.11 was amended by adding (h)(17) effective July 14, 2017 until July 15, 2019.
+2\. At 82 FR 32457, July 14, 2017, § 1308.11 was amended by adding (h)(17) effective July 14, 2017, until July 15, 2019.
