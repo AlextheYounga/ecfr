@@ -16,6 +16,6 @@
 
 (6) Such that the text of the notice is large and conspicuous enough to be read easily and is presented in a format, location, or manner that impedes or prevents the notice being altered, defaced, removed, or covered by other material.
 
-(c) *Content of the notice text.* The recipient and the Department should consider using the model text provided in Appendix A for the notice, but may tailor its notice to address its particular circumstances and to more specifically address the laws that apply to it under this rule.
+(c) *Content of the notice text.* The recipient and the Department should consider using the model text provided in appendix A for the notice, but may tailor its notice to address its particular circumstances and to more specifically address the laws that apply to it under this rule.
 
 (d) *Combined nondiscrimination notices.* The Department and each recipient may post the notice text provided in appendix A of this part, or a notice it drafts itself, along with the content of other notices (such as other non-discrimination notices).
