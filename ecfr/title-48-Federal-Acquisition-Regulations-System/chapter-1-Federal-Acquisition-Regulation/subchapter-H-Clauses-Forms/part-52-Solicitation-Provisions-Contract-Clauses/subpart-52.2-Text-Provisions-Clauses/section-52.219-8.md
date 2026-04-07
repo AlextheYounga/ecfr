@@ -8,6 +8,16 @@ Utilization of Small Business Concerns (NOV 2016)
 
 *HUBZone small business concern* means a small business concern, certified by the Small Business Administration, that appears on the List of Qualified HUBZone Small Business Concerns maintained by the Small Business Administration.
 
+*Service-disabled veteran-owned small business concern* -
+
+(1) Means a small business concern -
+
+(i) Not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
+
+(ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.
+
+(2) Service-disabled veteran means a veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16).
+
 *Small business concern* means a small business as defined pursuant to Section 3 of the Small Business Act and relevant regulations promulgated pursuant thereto.
 
 *Small disadvantaged business concern,* consistent with 13 CFR 124.1002, means a small business concern under the size standard applicable to the acquisition, that -
