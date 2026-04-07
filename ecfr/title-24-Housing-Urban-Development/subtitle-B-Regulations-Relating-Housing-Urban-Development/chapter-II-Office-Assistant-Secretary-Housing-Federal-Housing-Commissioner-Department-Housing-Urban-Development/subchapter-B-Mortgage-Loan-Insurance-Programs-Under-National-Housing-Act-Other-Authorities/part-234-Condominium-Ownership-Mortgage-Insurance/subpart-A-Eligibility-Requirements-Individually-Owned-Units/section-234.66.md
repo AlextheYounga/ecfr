@@ -1,0 +1,3 @@
+##### § 234.66 Free assumability; exceptions.
+
+For purposes of HUD's policy of free assumability with no restrictions, as provided in § 203.41 of this chapter, the definition of *Legal restrictions on conveyance* in § 203.41(a)(3) of this chapter does not include rights of first refusal held by a condominium association for a project approved by the Secretary under this subpart prior to September 10, 1993.

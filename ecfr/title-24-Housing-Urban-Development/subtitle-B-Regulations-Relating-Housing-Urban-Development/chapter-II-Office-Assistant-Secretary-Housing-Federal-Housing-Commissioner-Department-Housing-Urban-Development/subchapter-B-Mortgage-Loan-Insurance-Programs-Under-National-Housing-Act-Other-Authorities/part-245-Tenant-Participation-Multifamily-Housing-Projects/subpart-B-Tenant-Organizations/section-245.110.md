@@ -1,0 +1,3 @@
+##### § 245.110 Legitimate tenant organizations.
+
+A tenant organization is legitimate if it has been established by the tenants of a multifamily housing project covered under § 245.10 for the purpose described in § 245.100, and meets regularly, operates democratically, is representative of all residents in the development, and is completely independent of owners, management, and their representatives.

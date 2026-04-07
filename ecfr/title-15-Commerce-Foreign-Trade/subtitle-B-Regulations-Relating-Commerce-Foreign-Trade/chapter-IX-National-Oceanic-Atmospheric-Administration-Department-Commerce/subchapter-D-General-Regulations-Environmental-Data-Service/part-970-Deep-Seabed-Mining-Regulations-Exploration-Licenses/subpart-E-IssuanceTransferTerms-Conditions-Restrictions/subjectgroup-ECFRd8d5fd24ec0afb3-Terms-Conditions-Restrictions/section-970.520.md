@@ -1,0 +1,3 @@
+##### § 970.520 Freedom of the high seas requirements.
+
+Each license issued under this part must include such restrictions as may be necessary and appropriate to ensure that the exploration activities do not unreasonably interfere with the interests of other nations in their exercise of the freedoms of the high seas, as recognized under general principles of international law, such as fishing, navigation, submarine pipeline and cable laying, and scientific research. The Administrator will consider the provisions in § 970.503 in establishing these restrictions.

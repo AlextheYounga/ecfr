@@ -1,0 +1,3 @@
+##### § 143.4 Confidentiality of data.
+
+The electronic data received and exchanged by a service bureau shall be considered confidential, and the service bureau shall maintain the accuracy of data received in the process of formatting and transmitting such data on behalf of a filer, and shall not disclose this data or any information connected therewith to any persons other than the filer or Customs (see § 111.24 of this chapter).

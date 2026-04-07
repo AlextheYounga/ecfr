@@ -1,0 +1,3 @@
+##### § 971.207 Antitrust information.
+
+In order to support the antitrust review referenced in § 971.211, the application must contain information sufficient, in the applicant's view and based on preapplication consultations pursuant to § 971.200(g), to identify the applicant and describe any significant existing market share it has with respect to the mining or marketing of the metals proposed to be recovered under the permit.
