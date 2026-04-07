@@ -74,6 +74,8 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (ii) Release halibut caught with longline gear by any method other than -
 
+(A) Cutting the gangion.
+
 (B) Positioning the gaff on the hook and twisting the hook from the halibut.
 
 (C) Straightening the hook by using the gaff to catch the bend of the hook and bracing the gaff against the vessel or any gear attached to the vessel.
