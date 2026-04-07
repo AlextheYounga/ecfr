@@ -1,6 +1,6 @@
 ##### § 1308.33 Exemption of certain anabolic steroid products; application.
 
-(a) The Administrator, upon the recommendation of Secretary of Health and Human Services, may, by regulation, exempt from the application of all or any part of the Act any compound, mixture, or preparation containing an anabolic steroid as defined in part 1300 of this chapter, which is intended for administration to a human being or animal, if, because of its concentration, preparation, formulation, or delivery system, it has no significant potential for abuse.
+(a) The Administrator, upon the recommendation of Secretary of Health and Human Services, may, by regulation, exempt from the application of all or any part of the Act any compound, mixture, or preparation containing an anabolic steroid as defined in part 1300 of this chapter, which is intended for administration to a human being or animal, if, because of its concentration, preparation, formulation, or delivery system, it has no significant potential for abuse.Federal Register
 
 (b) Any person seeking to have any compound, mixture, or preparation containing an anabolic steroid as defined in part 1300 of this chapter exempted from the application of all or any part of the Act, pursuant to paragraph (a) of this section, may apply to the Drug and Chemical Evaluation Section, Diversion Control Division, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 

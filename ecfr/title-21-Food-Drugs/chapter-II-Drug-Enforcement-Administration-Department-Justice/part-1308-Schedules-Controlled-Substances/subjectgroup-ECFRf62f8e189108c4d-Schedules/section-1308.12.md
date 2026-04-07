@@ -1,12 +1,12 @@
 ##### § 1308.12 Schedule II.
 
-(a) Schedule II shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the Controlled Substances Code Number set forth opposite it.
+(a) Schedule II shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the Controlled Substances Code Number set forth opposite it.*Substances, vegetable origin or chemical synthesis.*123
 
 (b) *Substances, vegetable origin or chemical synthesis.* Unless specifically excepted or unless listed in another schedule, any of the following substances whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
 
 (1) Opium and opiate, and any salt, compound, derivative, or preparation of opium or opiate excluding apomorphine, thebaine-derived butorphanol, dextrorphan, nalbuphine, naldemedine, nalmefene, naloxegol, naloxone, 6β-naltrexol, naltrexone, and samidorphan, and their respective salts, but including the following:
 
-| (i) Codeine                  | 9050 |
+| (i) CodeineN                 | 9050 |
 | (ii) Dihydroetorphine        | 9334 |
 | (iii) Ethylmorphine          | 9190 |
 | (iv) Etorphine hydrochloride | 9059 |

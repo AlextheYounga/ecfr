@@ -1,6 +1,6 @@
 ##### § 1308.23 Exemption of certain chemical preparations; application.
 
-(a) The Administrator may, by regulation, exempt from the application of all or any part of the Act any chemical preparation or mixture containing one or more controlled substances listed in any schedule, which preparation or mixture is intended for laboratory, industrial, educational, or special research purposes and not for general administration to a human being or other animal, if the preparation or mixture either:
+(a) The Administrator may, by regulation, exempt from the application of all or any part of the Act any chemical preparation or mixture containing one or more controlled substances listed in any schedule, which preparation or mixture is intended for laboratory, industrial, educational, or special research purposes and not for general administration to a human being or other animal, if the preparation or mixture either:Federal Register
 
 (1) Contains no narcotic controlled substance and is packaged in such a form or concentration that the packaged quantity does not present any significant potential for abuse (the type of packaging and the history of abuse of the same or similar preparations may be considered in determining the potential for abuse of the preparation or mixture); or
 
