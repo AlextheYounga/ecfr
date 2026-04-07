@@ -1,6 +1,6 @@
 ##### 552.236-11 Use and Possession Prior to Completion.
 
-As prescribed in 536.511, insert the following clause:
+As prescribed in 536.511, insert the following clause: 
 
 Use and Possession Prior to Completion (MAR 2019)
 

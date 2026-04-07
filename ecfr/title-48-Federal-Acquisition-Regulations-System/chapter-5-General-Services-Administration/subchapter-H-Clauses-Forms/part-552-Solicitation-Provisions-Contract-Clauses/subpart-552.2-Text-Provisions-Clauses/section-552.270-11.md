@@ -1,6 +1,6 @@
 ##### 552.270-11 Successors Bound.
 
-As prescribed in 570.703, insert the following clause:
+As prescribed in 570.703, insert the following clause: 
 
 Successors Bound (SEP 1999)
 

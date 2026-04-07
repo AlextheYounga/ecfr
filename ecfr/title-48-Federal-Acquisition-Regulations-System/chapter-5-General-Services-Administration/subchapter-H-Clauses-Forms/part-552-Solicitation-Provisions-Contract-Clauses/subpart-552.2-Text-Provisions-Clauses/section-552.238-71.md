@@ -1,6 +1,6 @@
 ##### 552.238-71 Notice of Total Small Business Set-Aside.
 
-As prescribed in 538.273(a)(2), insert the following provision:
+As prescribed in 538.273(a)(2), insert the following provision: 
 
 Notice of Total Small Business Set-Aside (MAY 2019)
 

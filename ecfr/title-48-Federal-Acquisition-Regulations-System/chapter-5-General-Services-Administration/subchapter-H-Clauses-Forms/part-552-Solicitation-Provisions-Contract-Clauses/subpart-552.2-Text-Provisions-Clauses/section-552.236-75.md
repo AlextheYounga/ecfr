@@ -1,6 +1,6 @@
 ##### 552.236-75 Evaluation Exclusive of Options.
 
-As prescribed in 536.270-5(b), insert a provision substantially the same as the following provision:
+As prescribed in 536.270-5(b), insert a provision substantially the same as the following provision: 
 
 Evaluation Exclusive of Options (MAR 2019)
 

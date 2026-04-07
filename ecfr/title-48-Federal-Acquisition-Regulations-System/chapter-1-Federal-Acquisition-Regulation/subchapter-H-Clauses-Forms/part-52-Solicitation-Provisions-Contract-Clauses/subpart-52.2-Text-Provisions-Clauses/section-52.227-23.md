@@ -1,6 +1,6 @@
 ##### 52.227-23 Rights to Proposal Data (Technical).
 
-As prescribed in 27.409(l), insert the following clause:
+As prescribed in 27.409(l), insert the following clause: 
 
 Rights to Proposal Data (Technical) (JUN 1987)
 

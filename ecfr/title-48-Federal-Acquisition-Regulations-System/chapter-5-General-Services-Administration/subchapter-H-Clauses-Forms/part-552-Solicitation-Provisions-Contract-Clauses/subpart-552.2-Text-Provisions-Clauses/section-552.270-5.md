@@ -1,6 +1,6 @@
 ##### 552.270-5 Subletting and Assignment.
 
-As prescribed in 570.703, insert the following clause:
+As prescribed in 570.703, insert the following clause: 
 
 Subletting and Assignment (SEP 1999)
 

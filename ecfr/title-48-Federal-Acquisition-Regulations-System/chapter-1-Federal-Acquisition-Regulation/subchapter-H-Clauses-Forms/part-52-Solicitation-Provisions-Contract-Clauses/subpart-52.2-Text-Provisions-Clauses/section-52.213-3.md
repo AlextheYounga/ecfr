@@ -1,6 +1,6 @@
 ##### 52.213-3 Notice to Supplier.
 
-As prescribed in 13.302-5(c), insert the following clause:
+As prescribed in 13.302-5(c), insert the following clause: 
 
 Notice to Supplier (APR 1984)
 

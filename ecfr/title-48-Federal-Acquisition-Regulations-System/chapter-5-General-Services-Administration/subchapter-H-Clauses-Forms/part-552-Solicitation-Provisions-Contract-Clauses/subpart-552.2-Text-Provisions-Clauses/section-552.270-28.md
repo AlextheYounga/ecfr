@@ -1,6 +1,6 @@
 ##### 552.270-28 Mutuality of Obligation.
 
-As prescribed in 570.703, insert the following clause:
+As prescribed in 570.703, insert the following clause: 
 
 Mutuality of Obligation (SEP 1999)
 

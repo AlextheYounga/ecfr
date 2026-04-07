@@ -1,6 +1,6 @@
 ##### 552.232-72 Final Payment Under Building Services Contracts.
 
-As prescribed in 532.908(a), insert the following clause:
+As prescribed in 532.908(a), insert the following clause: 
 
 Final Payment Under Building Services Contracts (MAR 2012)
 

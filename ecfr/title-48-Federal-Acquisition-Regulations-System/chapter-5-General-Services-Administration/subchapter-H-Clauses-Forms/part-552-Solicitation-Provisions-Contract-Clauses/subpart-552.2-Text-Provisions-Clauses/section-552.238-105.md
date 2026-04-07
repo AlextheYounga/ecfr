@@ -1,6 +1,6 @@
 ##### 552.238-105 Deliveries Beyond the Contractual Period—Placing of Orders.
 
-As prescribed in 538.273(d)(29), insert the following clause:
+As prescribed in 538.273(d)(29), insert the following clause: 
 
 Deliveries Beyond the Contractual Period—Placing of Orders (Mar 2024)
 

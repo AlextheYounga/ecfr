@@ -1,6 +1,6 @@
 ##### 52.232-6 Payment Under Communication Service Contracts With Common Carriers.
 
-As prescribed in 32.111(a)(6), insert the following clause, appropriately modified with respect to payment due dates in accordance with agency regulations, in solicitations and contracts for regulated communication services by common carriers:
+As prescribed in 32.111(a)(6), insert the following clause, appropriately modified with respect to payment due dates in accordance with agency regulations, in solicitations and contracts for regulated communication services by common carriers: 
 
 Payment Under Communication Service Contracts With Common Carriers (APR 1984)
 

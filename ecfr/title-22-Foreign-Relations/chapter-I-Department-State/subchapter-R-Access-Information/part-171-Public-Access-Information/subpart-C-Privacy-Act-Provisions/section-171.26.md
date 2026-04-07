@@ -1,18 +1,18 @@
 ##### § 171.26 Exemptions.
 
-Systems of records maintained by the Department are authorized to be exempt from certain provisions of the PA under both general and specific exemptions set forth in the Act. In utilizing these exemptions, the Department is exempting only those portions of systems that are necessary for the proper functioning of the Department and that are consistent with the PA. Where compliance would not interfere with or adversely affect the law enforcement process, and/or where it may be appropriate to permit individuals to contest the accuracy of the information collected, the applicable exemption may be waived, either partially or totally, by the Department or the OIG, in the sole discretion of the Department or the OIG, as appropriate. Records exempt under 5 U.S.C. 552a(j) or (k) by the originator of the record remain exempt if subsequently incorporated into any Department system of records, provided the reason for the exemption remains valid and necessary.
+Systems of records maintained by the Department are authorized to be exempt from certain provisions of the PA under both general and specific exemptions set forth in the Act. In utilizing these exemptions, the Department is exempting only those portions of systems that are necessary for the proper functioning of the Department and that are consistent with the PA. Where compliance would not interfere with or adversely affect the law enforcement process, and/or where it may be appropriate to permit individuals to contest the accuracy of the information collected, the applicable exemption may be waived, either partially or totally, by the Department or the OIG, in the sole discretion of the Department or the OIG, as appropriate. Records exempt under 5 U.S.C. 552a(j) or (k) by the originator of the record remain exempt if subsequently incorporated into any Department system of records, provided the reason for the exemption remains valid and necessary. 
 
-(a) *General exemptions.* If exempt records are the subject of an access request, the Department will advise the requester of their existence and of the name and address of the source agency, unless that information is itself exempt from disclosure.
+(a) *General exemptions.* If exempt records are the subject of an access request, the Department will advise the requester of their existence and of the name and address of the source agency, unless that information is itself exempt from disclosure. 
 
-(1) Individuals may not have access to records maintained by the Department that are maintained or originated by the Central Intelligence Agency under 5 U.S.C. 552a(j)(1).
+(1) Individuals may not have access to records maintained by the Department that are maintained or originated by the Central Intelligence Agency under 5 U.S.C. 552a(j)(1). 
 
-(2) In accordance with 5 U.S.C. 552a(j)(2), individuals may not have access to records maintained or originated by an agency or component thereof that performs as its principal function any activity pertaining to the enforcement of criminal laws, including police efforts to prevent, control, or reduce crime or to apprehend criminals, and the activities of prosecutors, courts, correctional, probation, pardon, or parole authorities, and which consists of:
+(2) In accordance with 5 U.S.C. 552a(j)(2), individuals may not have access to records maintained or originated by an agency or component thereof that performs as its principal function any activity pertaining to the enforcement of criminal laws, including police efforts to prevent, control, or reduce crime or to apprehend criminals, and the activities of prosecutors, courts, correctional, probation, pardon, or parole authorities, and which consists of: 
 
-(i) Information compiled for the purpose of identifying individual criminal offenders and alleged offenders and consisting only of identifying data and notations of arrests, the nature and disposition of criminal charges, sentencing, confinement, release, and parole and probation status;
+(i) Information compiled for the purpose of identifying individual criminal offenders and alleged offenders and consisting only of identifying data and notations of arrests, the nature and disposition of criminal charges, sentencing, confinement, release, and parole and probation status; 
 
-(ii) Information compiled for the purpose of a criminal investigation, including reports of informants and investigators, and associated with an identifiable individual; or
+(ii) Information compiled for the purpose of a criminal investigation, including reports of informants and investigators, and associated with an identifiable individual; or 
 
-(iii) Reports identifiable to an individual compiled at any stage of the process of enforcement of the criminal laws from arrest or indictment through release from supervision. The reason for invoking these exemptions is to ensure effective criminal law enforcement processes. Records maintained by the Department in the following systems of records are exempt from all of the provisions of the PA except paragraphs (b), (c)(1) and (2), (e)(4)(A) through (F), (e)(6), (e)(7), (e)(9), (e)(10), and (e)(11), and (i), to the extent to which they meet the criteria of section (j)(2) of 5 U.S.C. 552a. The names of the systems correspond to those published in the Federal Register by the Department.
+(iii) Reports identifiable to an individual compiled at any stage of the process of enforcement of the criminal laws from arrest or indictment through release from supervision. The reason for invoking these exemptions is to ensure effective criminal law enforcement processes. Records maintained by the Department in the following systems of records are exempt from all of the provisions of the PA except paragraphs (b), (c)(1) and (2), (e)(4)(A) through (F), (e)(6), (e)(7), (e)(9), (e)(10), and (e)(11), and (i), to the extent to which they meet the criteria of section (j)(2) of 5 U.S.C. 552a. The names of the systems correspond to those published in the Federal Register by the Department. 
 
 Table 1 to Paragraph (a)(2)(iii)
 | Title                                                       | No.       |
@@ -22,9 +22,9 @@ Table 1 to Paragraph (a)(2)(iii)
 | Risk Analysis and Management                                | STATE-78. |
 | Security Records                                            | STATE-36. |
 
-(b) *Specific exemptions.* Portions of the following systems of records are exempt from 5 U.S.C. 552a(c)(3), (d), (e)(1), and (4), (G), (H), and (I), and (f). The names of the systems correspond to those published in the Federal Register by the Department.
+(b) *Specific exemptions.* Portions of the following systems of records are exempt from 5 U.S.C. 552a(c)(3), (d), (e)(1), and (4), (G), (H), and (I), and (f). The names of the systems correspond to those published in the Federal Register by the Department. 
 
-(1) *Exempt under 5 U.S.C. 552a(k)(1).* Records contained within the following systems of records are exempt under this section to the extent that they are subject to the provisions of 5 U.S.C. 552(b)(1).
+(1) *Exempt under 5 U.S.C. 552a(k)(1).* Records contained within the following systems of records are exempt under this section to the extent that they are subject to the provisions of 5 U.S.C. 552(b)(1). 
 
 Table 2 to Paragraph (b)(1)
 | Title                                                                                                 | No.       |
@@ -58,7 +58,7 @@ Table 2 to Paragraph (b)(1)
 | Security Records                                                                                      | STATE-36. |
 | Visa Records                                                                                          | STATE-39. |
 
-(2) *Exempt under 5 U.S.C. 552a(k)(2).* Records contained within the following systems of records are exempt under this section to the extent that they consist of investigatory material compiled for law enforcement purposes, subject to the limitations set forth in 5 U.S.C. 552a(k)(2).
+(2) *Exempt under 5 U.S.C. 552a(k)(2).* Records contained within the following systems of records are exempt under this section to the extent that they consist of investigatory material compiled for law enforcement purposes, subject to the limitations set forth in 5 U.S.C. 552a(k)(2). 
 
 Table 3 to Paragraph (b)(2)
 | Title                                                                     | No.       |
@@ -81,7 +81,7 @@ Table 3 to Paragraph (b)(2)
 | Security Records                                                          | STATE-36. |
 | Visa Records                                                              | STATE-39. |
 
-(3) *Exempt under 5 U.S.C. 552a(k)(3).* Records contained within the following systems of records are exempt under this section to the extent that they are maintained in connection with providing protective services pursuant to 18 U.S.C. 3056.
+(3) *Exempt under 5 U.S.C. 552a(k)(3).* Records contained within the following systems of records are exempt under this section to the extent that they are maintained in connection with providing protective services pursuant to 18 U.S.C. 3056. 
 
 Table 4 to Paragraph (b)(3)
 | Title                                                                     | No.       |
@@ -95,7 +95,7 @@ Table 4 to Paragraph (b)(3)
 | Security Records                                                          | STATE-36. |
 | Visa Records                                                              | STATE-39. |
 
-(4) *Exempt under 5 U.S.C. 552a(k)(4).* Records contained within the following systems of records are exempt under this section to the extent that they are required by statute to be maintained and are used solely as statistical records.
+(4) *Exempt under 5 U.S.C. 552a(k)(4).* Records contained within the following systems of records are exempt under this section to the extent that they are required by statute to be maintained and are used solely as statistical records. 
 
 Table 5 to Paragraph (b)(4)
 | Title                               | No.       |
@@ -107,7 +107,7 @@ Table 5 to Paragraph (b)(4)
 | Personnel Payroll Records           | STATE-30. |
 | Security Records                    | STATE-36. |
 
-(5) *Exempt under 5 U.S.C. 552a(k)(5).* Records contained within the following systems of records are exempt under this section to the extent that they consist of investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for Federal civilian employment, military service, Federal contracts, or access to classified information, but only to the extent that disclosure of such material would reveal the identity of a confidential informant.
+(5) *Exempt under 5 U.S.C. 552a(k)(5).* Records contained within the following systems of records are exempt under this section to the extent that they consist of investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for Federal civilian employment, military service, Federal contracts, or access to classified information, but only to the extent that disclosure of such material would reveal the identity of a confidential informant. 
 
 Table 6 to Paragraph (b)(5)
 | Title                                                                     | No.       |
@@ -127,7 +127,7 @@ Table 6 to Paragraph (b)(5)
 | Security Records                                                          | STATE-36. |
 | Senior Personnel Appointments Records                                     | STATE-47. |
 
-(6) *Exempt under 5 U.S.C. 552a(k)(6).* Records contained within the following systems of records are exempt under this section to the extent that they consist of testing or examination material used solely to determine individual qualifications for appointment or promotion in the Federal service the disclosure of which would compromise the objectivity or fairness of the testing or examination process.
+(6) *Exempt under 5 U.S.C. 552a(k)(6).* Records contained within the following systems of records are exempt under this section to the extent that they consist of testing or examination material used solely to determine individual qualifications for appointment or promotion in the Federal service the disclosure of which would compromise the objectivity or fairness of the testing or examination process. 
 
 Table 7 to Paragraph (b)(6)
 | Title                                            | No.       |
@@ -138,7 +138,7 @@ Table 7 to Paragraph (b)(6)
 | Records Maintained by the Office of Civil Rights | STATE-09. |
 | Security Records                                 | STATE-36. |
 
-(7) *Exempt under 5 U.S.C. 552a(k)(7).* Records contained within the following systems of records are exempt under this section to the extent that they consist of evaluation material used to determine potential for promotion in the armed services, but only to the extent that such disclosure would reveal the identity of a confidential informant.
+(7) *Exempt under 5 U.S.C. 552a(k)(7).* Records contained within the following systems of records are exempt under this section to the extent that they consist of evaluation material used to determine potential for promotion in the armed services, but only to the extent that such disclosure would reveal the identity of a confidential informant. 
 
 Table 8 to Paragraph (b)(7)
 | Title                                                                     | No.       |

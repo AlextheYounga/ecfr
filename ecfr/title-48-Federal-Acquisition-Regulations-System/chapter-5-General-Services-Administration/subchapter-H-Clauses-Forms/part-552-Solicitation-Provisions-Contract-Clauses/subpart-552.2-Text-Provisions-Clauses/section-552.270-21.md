@@ -1,6 +1,6 @@
 ##### 552.270-21 Effect of Acceptance and Occupancy.
 
-As prescribed in 570.703, insert the following clause:
+As prescribed in 570.703, insert the following clause: 
 
 Effect of Acceptance and Occupancy (SEP 1999)
 

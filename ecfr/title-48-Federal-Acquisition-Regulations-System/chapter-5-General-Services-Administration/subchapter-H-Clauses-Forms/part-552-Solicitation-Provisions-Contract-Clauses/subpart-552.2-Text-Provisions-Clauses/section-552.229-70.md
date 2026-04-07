@@ -1,6 +1,6 @@
 ##### 552.229-70 Federal, State, and Local Taxes.
 
-As prescribed in 529.470a, insert the following clause:
+As prescribed in 529.470a, insert the following clause: 
 
 Federal, State, and Local Taxes (APR 1984)
 

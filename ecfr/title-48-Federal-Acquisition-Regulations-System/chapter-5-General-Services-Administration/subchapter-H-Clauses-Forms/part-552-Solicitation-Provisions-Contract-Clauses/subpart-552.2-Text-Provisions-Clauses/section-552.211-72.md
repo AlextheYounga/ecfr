@@ -1,6 +1,6 @@
 ##### 552.211-72 Reference to Specifications in Drawings.
 
-As prescribed in 511.204(a), insert the following clause:
+As prescribed in 511.204(a), insert the following clause: 
 
 References to Specifications in Drawings (FEB 1996)
 
