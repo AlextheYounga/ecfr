@@ -1,5 +1,7 @@
 ##### § 2806.64 Rents and fees for wind energy development leases.
 
+Link to an amendment published at 89 FR 35682, May 1, 2024.
+
 If you hold a wind energy development lease obtained through competitive bidding under subpart 2809 of this part, you must make annual payments in accordance with this section and subpart, in addition to the one-time, up front bonus bid you paid to obtain the lease. The annual payment includes an acreage rent for the number of acres included within the wind energy lease and an additional MW capacity fee based on the total authorized MW capacity for the approved wind energy project on the public lands.
 
 (a) *Acreage rent.* The BLM will calculate and bill you an acreage rent that must be paid prior to issuance of your lease as described in § 2806.62(a). This acreage rent will be based on the following:

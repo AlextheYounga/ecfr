@@ -1,5 +1,7 @@
 ##### § 2806.62 Rents and fees for wind energy development grants.
 
+Link to an amendment published at 89 FR 35682, May 1, 2024.
+
 You must pay an annual acreage rent and MW capacity fee for your wind energy development grant as follows:
 
 (a) *Acreage rent.* The BLM will calculate the acreage rent by multiplying the number of acres (rounded up to the nearest tenth of an acre) within the authorized area times the per acre zone rate from the wind energy acreage rent schedule in effect at the time the authorization is issued.

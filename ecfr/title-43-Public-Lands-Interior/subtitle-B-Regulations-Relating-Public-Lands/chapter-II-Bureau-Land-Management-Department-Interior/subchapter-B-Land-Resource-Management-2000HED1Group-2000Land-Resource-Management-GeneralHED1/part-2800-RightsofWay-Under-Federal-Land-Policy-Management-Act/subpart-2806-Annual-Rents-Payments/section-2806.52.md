@@ -1,6 +1,6 @@
 ##### § 2806.52 Rents and fees for solar energy development grants.
 
-Link to an amendment published at 89 FR 25964, Apr. 12, 2024.
+Link to an amendment published at 89 FR 25964, Apr. 12, 2024.Link to an amendment published at 89 FR 35680, May 1, 2024.
 
 You must pay an annual acreage rent and MW capacity fee for your solar energy development grant as follows:
 
