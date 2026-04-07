@@ -4,7 +4,7 @@
 
 (1) Has a composite rating of 3, 4, or 5 under the Uniform Financial Institution's Rating System (*CAMELS* rating), or in the case of an insured branch of a foreign bank, an equivalent rating;
 
-(2) Is undercapitalized, as defined under the prompt corrective action provisions of 12 CFR part 325; or
+(2) Is undercapitalized, as defined under the prompt corrective action provisions of 12 CFR part 324; or
 
 (3) Is determined by the appropriate federal banking agency or the FDIC in consultation with the appropriate federal banking agency to be experiencing a significant deterioration of capital or significant funding difficulties or liquidity stress, notwithstanding the composite rating of the covered institution by its appropriate federal banking agency in its most recent report of examination.
 
