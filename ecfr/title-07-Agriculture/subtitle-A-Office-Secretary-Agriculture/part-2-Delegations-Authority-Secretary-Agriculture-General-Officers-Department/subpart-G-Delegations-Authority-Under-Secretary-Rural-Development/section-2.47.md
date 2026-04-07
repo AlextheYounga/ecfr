@@ -1,8 +1,8 @@
 ##### § 2.47 Administrator, Rural Utilities Service.
 
-(a) *Delegations.* Pursuant to §§ 2.17(a)(14) and (a)(16) through (a)(20), and subject to policy guidance and direction by the Assistant to the Secretary for Rural Development, the following delegations of authority are made by the Assistant to the Secretary for Rural Development to the Administrator, Rural Utilities Service:
+(a) *Delegations.* Pursuant to §§ 2.17(a)(14) and (a)(16) through (a)(20), and subject to policy guidance and direction by the Under Secretary for Rural Development, the following delegations of authority are made by the Under Secretary for Rural Development to the Administrator, Rural Utilities Service:
 
-(1) Administer the Rural Electrification Act of 1936, as amended (7 U.S.C. 901, *et seq.*) except for rural economic development loan and grant programs (7 U.S.C. 940c and 950aa, *et seq.*): Provided, however, that the Administrator may utilize consultants and attorneys for the provision of legal services pursuant to 7 U.S.C. 918, with the concurrence of the General Counsel.
+(1) Administer the Rural Electrification Act of 1936, as amended (7 U.S.C. 901, *et seq.*): Provided, however, that the Administrator may utilize consultants and attorneys for the provision of legal services pursuant to 7 U.S.C. 918, with the concurrence of the General Counsel.
 
 (2) Administer the Rural Electrification Act of 1938 (7 U.S.C. 903 note).
 
@@ -44,17 +44,19 @@
 
 (8) Collect, service, and liquidate loans made, insured, or guaranteed by the Rural Utilities Service or its predecessor agencies.
 
-(9) \[Reserved\]
+(9) Consult with the Assistant Secretary of Commerce for Communications and Information to assist in the verification of eligibility of the broadband loan and grant programs of the Department of Agriculture (7 U.S.C. 950bb-6).
 
 (10) Administer responsibilities and function assigned under the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 *et seq.*) and title VI of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5195 *et seq.*), relating to rural development credit and financial assistance.
 
-(11)-(12) \[Reserved\]
+(11) In coordination with the Federal Communications Commission, administer Section 12511 of the Agriculture Improvement Act of 2018 (Pub. L. 115-334) relating to the precision agriculture connectivity task force.
+
+((12) \[Reserved\]
 
 (13) Administer the Distance Learning and Medical Link Programs (7 U.S.C. 950aaa *et seq.*).
 
 (14) Administer water and waste facility programs and activities (7 U.S.C. 1926-1).
 
-(15) \[Reserved\]
+(15) In coordination with the Office of Tribal Relations, provide technical assistance to improve access by Tribal entities to rural development programs funded by the Department of Agriculture through available cooperative agreement authorities (7 U.S.C. 2671).
 
 (16) In coordination with the Director, Office of Advocacy and Outreach, issue receipts under section 2501A(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1(e)).
 
@@ -64,10 +66,10 @@
 
 (19) Administer the authority under Sec. 746 of Division A of the Consolidated Appropriations Act, 2018 (Pub. L. 115-141), and any successor provisions in subsequent appropriations acts, to issue waivers to the U.S. iron and steel requirements for the construction, alteration, maintenance, or repair of a public water or wastewater system.
 
-(b) *Reservations.* The following authority is reserved to the Assistant to the Secretary for Rural Development:
+(b) *Reservations.* The following authority is reserved to the Under Secretary for Rural Development:
 
 (1) Making and issuing notes to the Secretary of the Treasury for the purposes of the Rural Development Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929a).
 
 (2) Administering loans for rural telephone facilities and service in rural areas as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 *et seq.*).
 
-\[60 FR 56393, Nov. 8, 1995, as amended at 66 FR 16593, Mar. 27, 2001; 68 FR 27443, May 20, 2003; 74 FR 3407, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44113, July 30, 2014; 83 FR 22188, May 14, 2018; 83 FR 61314, Nov. 29, 2018\]
+\[60 FR 56393, Nov. 8, 1995, as amended at 66 FR 16593, Mar. 27, 2001; 68 FR 27443, May 20, 2003; 74 FR 3407, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44113, July 30, 2014; 83 FR 22188, May 14, 2018; 83 FR 61314, Nov. 29, 2018; 85 FR 65516, Oct. 15, 2020\]

@@ -1,6 +1,6 @@
 ##### § 2.49 Administrator, Rural Housing Service.
 
-(a) *Delegations.* Pursuant to §§ 2.17(a)(14), (a)(16) through (a)(19) and (a)(22), and subject to policy guidance and direction by the Assistant to the Secretary for Rural Development, the following delegations of authority are made by the Assistant to the Secretary for Rural Development to the Administrator, Rural Housing Service:
+(a) *Delegations.* Pursuant to §§ 2.17(a)(14), (a)(16) through (a)(19) and (a)(22), and subject to policy guidance and direction by the Under Secretary for Rural Developmentt, the following delegations of authority are made by the Under Secretary for Rural Development to the Administrator, Rural Housing Service:
 
 (1) Administer the following under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 *et seq.*):
 
@@ -32,11 +32,13 @@
 
 (iii) Enter into contracts with private sector attorneys for the conduct of litigation, with the concurrence of the General Counsel, after determining that the attorneys will provide competent and cost effective representation for the Rural Housing Service and representation by the attorney will either accelerate the process by which a family or person eligible for assistance under section 502 of the Housing Act of 1949 will be able to purchase and occupy the housing involved, or preserve the quality of the housing involved.
 
-(7) \[Reserved\]
+(7) In coordination with the Office of Tribal Relations, provide technical assistance to improve access by Tribal entities to rural development programs funded by the Department of Agriculture through available cooperative agreement authorities (7 U.S.C. 2671).
 
 (8) Administer responsibilities and function assigned under the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 *et seq.*) and title VI of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5195 *et seq.*), relating to rural housing and community development credit and financial assistance.
 
-(9)-(10) \[Reserved\]
+(9) In consultation with the Department of Justice, Secretary of Housing and Urban Development, and Secretary of Health and Human Services, administer the emergency and transitional pet shelter and housing assistance grant program (34 U.S.C. 20127).
+
+(10) \[Reserved\]
 
 (11) Administer the Rural Firefighters and Emergency Personnel Grant program (7 U.S.C. 2655).
 
@@ -44,6 +46,6 @@
 
 (13) In coordination with the Director, Office of Advocacy and Outreach, issue receipts under section 2501A(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1(e)).
 
-(b) *Reservation.* The following authority is reserved to the Assistant to the Secretary for Rural Development: Making and issuing notes to the Secretary of the Treasury for the purposes the Rural Development Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929(a)) and the Rural Housing Insurance Fund as authorized by title V of the Housing Act of 1949 (41 U.S.C. 1487).
+(b) *Reservation.* The following authority is reserved to the Under Secretary for Rural Development: Making and issuing notes to the Secretary of the Treasury for the purposes the Rural Development Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929(a)) and the Rural Housing Insurance Fund as authorized by title V of the Housing Act of 1949 (41 U.S.C. 1487).
 
-\[60 FR 56393, Nov. 8, 1995, as amended at 66 FR 16593, Mar. 27, 2001; 68 FR 27444, May 20, 2003; 74 FR 3408, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44114, July 30, 2014\]
+\[60 FR 56393, Nov. 8, 1995, as amended at 66 FR 16593, Mar. 27, 2001; 68 FR 27444, May 20, 2003; 74 FR 3408, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44114, July 30, 2014; 85 FR 65516, Oct. 15, 2020\]

@@ -1,6 +1,6 @@
 ##### § 2.48 Administrator, Rural Business-Cooperative Service.
 
-(a) *Delegations.* Pursuant to §§ 2.17(a)(1), (a)(2), (a)(14), (a)(16) through (a)(19), and (a)(21), subject to reservations in § 2.17(b)(1), and subject to policy guidance and direction by the Assistant to the Secretary for Rural Development, the following delegations of authority are made by the Assistant to the Secretary for Rural Development to the Administrator, Rural Business-Cooperative Service:
+(a) *Delegations.* Pursuant to §§ 2.17(a)(1), (a)(2), (a)(14), (a)(16) through (a)(19), and (a)(21), subject to reservations in § 2.17(b)(1), and subject to policy guidance and direction by the Under Secretary for Rural Development , the following delegations of authority are made by the Under Secretary for Rural Development to the Administrator, Rural Business-Cooperative Service:
 
 (1) Administer the rural economic development loan and grant programs under the Rural Electrification Act (7 U.S.C. 940c and 950aa *et seq.*).
 
@@ -64,7 +64,7 @@
 
 (14) Collect, service, and liquidate loans made, insured, or guaranteed by the Rural Business-Cooperative Service or its predecessor agencies.
 
-(15) \[Reserved\]
+(15) In coordination with the Office of Tribal Relations, provide technical assistance to improve access by Tribal entities to rural development programs funded by the Department of Agriculture through available cooperative agreement authorities (7 U.S.C. 2671).
 
 (16) Administer responsibilities and functions assigned under the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 *et seq.*), and title VI of the Robert T. Stafford Disaster Relief and Assistance Act (42 U.S.C. 5195 *et seq.*), relating to rural development credit and financial assistance.
 
@@ -74,7 +74,7 @@
 
 (20) Provide leadership and coordination within the executive branch at the state and local level of Federal rural development program utilizing the services of executive branch departments and agencies and the agencies, bureaus, offices, and services of the Department of Agriculture in coordination with rural development programs of State and local governments (7 U.S.C. 2204).
 
-(21) Coordinate, at the state and local level, activities relative to rural development among agencies reporting to the Assistant to the Secretary for Rural Development and, through appropriate channels, serve as the coordinating agency for other departmental agencies having primary responsibilities, in coordination with rural development programs of State and local governments (7 U.S.C. 2204).
+(21) Coordinate, at the state and local level, activities relative to rural development among agencies reporting to the Under Secretary for Rural Development and, through appropriate channels, serve as the coordinating agency for other departmental agencies having primary responsibilities, in coordination with rural development programs of State and local governments (7 U.S.C. 2204).
 
 (22) Work with Federal agencies in encouraging the creation of local rural community development organizations. Within a State, assist other Federal agencies in developing means for extending their services effectively to rural areas and in designating pilot projects in rural areas (7 U.S.C. 2204).
 
@@ -88,9 +88,9 @@
 
 (27) Administer the assets of the Alternative Agricultural Research and Commercialization Corporation and the funds in the Alternative Agricultural Research and Commercialization Fund in accordance with section 6201 of the Farm Security and Rural Investment Act of 2000 (*see* note to 7 U.S.C. 5901 (repealed)).
 
-(28) Administer the Value-Added Agricultural Product Market Development Grant program (note to 7 U.S.C. 1621).
+(28) In coordination with the Administrator of the Agricultural Marketing Service, administer the value-added producer grants program and farmers' markets and local food promotion program (7 U.S.C. 1627c(d)(5)-(6)).
 
-(29) Administer the Agriculture Innovation Center Demonstration program (note to 7 U.S.C. 1621).
+(29) Administer the Agriculture Innovation Center Demonstration program (7 U.S.C. 1632b).
 
 (30) Administer the Renewable Energy Systems and Energy Efficiency Improvements program (7 U.S.C. 8106).
 
@@ -104,6 +104,10 @@
 
 (34) Administer section 6209 of the Agricultural Act of 2014 (7 U.S.C. 2207b), relating to the collection and reporting of program metrics.
 
-(b) *Reservation.* The following authority is reserved to the Assistant to the Secretary for Rural Development: Making and issuing notes to the Secretary of the Treasury for the purposes of the Rural Development Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929a).
+(35) Implementation of a program for the Federal procurement of biobased products and of a voluntary “USDA Certified Biobased product” labeling program (7 U.S.C. 8102).
 
-\[60 FR 56393, Nov. 8, 1995, as amended at 66 FR 33107, June 11, 2001; 68 FR 27444, May 20, 2003; 73 FR 3407, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44114, July 30, 2014; 83 FR 61314, Nov. 29, 2018\]
+(36) Entering into cooperative agreements to further research programs in the food and agricultural sciences, related to establishing and implementing Federal biobased procurement and voluntary biobased labeling programs (7 U.S.C. 3318).
+
+(b) *Reservation.* The following authority is reserved to the Under Secretary for Rural Development: Making and issuing notes to the Secretary of the Treasury for the purposes of the Rural Development Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929a).
+
+\[60 FR 56393, Nov. 8, 1995, as amended at 66 FR 33107, June 11, 2001; 68 FR 27444, May 20, 2003; 73 FR 3407, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44114, July 30, 2014; 83 FR 61314, Nov. 29, 2018; 85 FR 65516, Oct. 15, 2020\]
