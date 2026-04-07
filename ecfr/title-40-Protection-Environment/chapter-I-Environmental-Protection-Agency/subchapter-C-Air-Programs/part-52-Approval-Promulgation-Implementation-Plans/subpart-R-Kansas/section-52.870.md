@@ -1,10 +1,10 @@
 ##### § 52.870 Identification of plan.
 
-(a) *Purpose and scope.* This section sets forth the applicable SIP for Kansas under Section 110 of the CAA, 42 U.S.C. 7401 *et seq.* and 40 CFR Part 51 to meet NAAQS. 
+(a) *Purpose and scope.* This section sets forth the applicable SIP for Kansas under Section 110 of the CAA, 42 U.S.C. 7401 *et seq.* and 40 CFR Part 51 to meet NAAQS.
 
-(b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to December 31, 2014, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with EPA approval dates after December 31, 2014, will be incorporated by reference in the next update to the SIP compilation. 
+(b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to December 31, 2014, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with EPA approval dates after December 31, 2014, will be incorporated by reference in the next update to the SIP compilation.
 
-(2) EPA Region 7 certifies that the rules/regulations provided by EPA in the SIP compilation at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated state rules/regulations which have been approved as part of the SIP as of December 31, 2014. 
+(2) EPA Region 7 certifies that the rules/regulations provided by EPA in the SIP compilation at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated state rules/regulations which have been approved as part of the SIP as of December 31, 2014.
 
 (3) Copies of the materials incorporated by reference may be inspected at the Environmental Protection Agency, Region 7, Air Planning and Development Branch, 11201 Renner Boulevard, Lenexa, Kansas 66219; at the EPA, Air and Radiation Docket and Information Center, and the National Archives and Records Administration (NARA). If you wish to obtain material from the EPA Regional Office, please call (913) 551-7089. For information on the availability of this material at NARA, call (202) 741-6030, or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 

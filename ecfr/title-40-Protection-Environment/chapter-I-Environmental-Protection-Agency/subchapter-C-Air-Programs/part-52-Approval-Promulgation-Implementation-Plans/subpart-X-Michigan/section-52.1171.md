@@ -1,6 +1,6 @@
 ##### § 52.1171 Classification of regions.
 
-The Michigan plan was evaluated on the basis of the following classifications: 
+The Michigan plan was evaluated on the basis of the following classifications:
 
 | Air quality control region                                       | Pollutant |
 | ---------------------------------------------------------------- | --------- |

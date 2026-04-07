@@ -1,6 +1,6 @@
 ##### § 52.2577 Attainment dates for national standards.
 
-The following table presents the latest dates by which the national standards are to be attained. The dates reflect the information presented in Wisconsin's plan, except where noted. 
+The following table presents the latest dates by which the national standards are to be attained. The dates reflect the information presented in Wisconsin's plan, except where noted.
 
 | Air Quality Control Region                                                                                                                                                                                                                                                                               | Pollutant |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |

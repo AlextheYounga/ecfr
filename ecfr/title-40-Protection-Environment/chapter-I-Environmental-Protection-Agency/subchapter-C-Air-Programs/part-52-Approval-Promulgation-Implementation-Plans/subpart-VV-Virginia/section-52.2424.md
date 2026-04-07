@@ -1,10 +1,10 @@
 ##### § 52.2424 Motor vehicle emissions budgets.
 
-(a) Motor vehicle emissions budget for the Hampton Roads maintenance area adjusting the mobile emissions budget contained in the maintenance plan for the horizon years 2015 and beyond adopted on August 29, 1996 and submitted by the Virginia Department of Environmental Quality on August 29, 1996. 
+(a) Motor vehicle emissions budget for the Hampton Roads maintenance area adjusting the mobile emissions budget contained in the maintenance plan for the horizon years 2015 and beyond adopted on August 29, 1996 and submitted by the Virginia Department of Environmental Quality on August 29, 1996.
 
-(b) Motor vehicle emissions budget for the Richmond maintenance area adjusting the mobile emissions budget contained in the maintenance plan for the horizon years 2015 and beyond adopted on July 30, 1996 and submitted by the Virginia Department of Environmental Quality on July 30, 1996. 
+(b) Motor vehicle emissions budget for the Richmond maintenance area adjusting the mobile emissions budget contained in the maintenance plan for the horizon years 2015 and beyond adopted on July 30, 1996 and submitted by the Virginia Department of Environmental Quality on July 30, 1996.
 
-(c) EPA approves the following revised 2009 and 2015 motor vehicle emissions budgets (MVEBs) for the Fredericksburg 8-Hour Ozone Maintenance Area submitted by the Virginia Department of Environmental Quality (VADEQ) on September 26, 2011: 
+(c) EPA approves the following revised 2009 and 2015 motor vehicle emissions budgets (MVEBs) for the Fredericksburg 8-Hour Ozone Maintenance Area submitted by the Virginia Department of Environmental Quality (VADEQ) on September 26, 2011:
 
 | Applicable geographic area                                                          | Year | Tons per day (TPD) NOX |
 | ----------------------------------------------------------------------------------- | ---- | ---------------------- |

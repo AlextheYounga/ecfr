@@ -1,6 +1,6 @@
 ##### § 52.1271 Classification of regions.
 
-The Mississippi plan was evaluated on the basis of the following classifications: 
+The Mississippi plan was evaluated on the basis of the following classifications:
 
 | Air quality control region                                                         | Pollutant |
 | ---------------------------------------------------------------------------------- | --------- |

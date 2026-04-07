@@ -1,6 +1,6 @@
 ##### § 52.1921 Classification of regions.
 
-The Oklahoma plan was evaluated on the basis of the following classifications: 
+The Oklahoma plan was evaluated on the basis of the following classifications:
 
 | Air quality control region            | Pollutant |
 | ------------------------------------- | --------- |

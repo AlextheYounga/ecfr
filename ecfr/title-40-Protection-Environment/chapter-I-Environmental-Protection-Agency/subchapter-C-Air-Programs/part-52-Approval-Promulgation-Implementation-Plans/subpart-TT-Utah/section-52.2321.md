@@ -1,6 +1,6 @@
 ##### § 52.2321 Classification of regions.
 
-The Utah plan was evaluated on the basis of the following classifications: 
+The Utah plan was evaluated on the basis of the following classifications:
 
 | Air quality control region | Pollutant |
 | -------------------------- | --------- |

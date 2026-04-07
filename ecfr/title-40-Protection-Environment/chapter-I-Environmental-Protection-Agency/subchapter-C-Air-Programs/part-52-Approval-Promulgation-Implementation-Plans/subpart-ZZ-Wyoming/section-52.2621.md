@@ -1,6 +1,6 @@
 ##### § 52.2621 Classification of regions.
 
-The Wyoming plan was evaluated on the basis of the following classifications: 
+The Wyoming plan was evaluated on the basis of the following classifications:
 
 | Air quality control region | Pollutant |
 | -------------------------- | --------- |

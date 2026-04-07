@@ -1,6 +1,6 @@
 ##### § 52.971 Classification of regions.
 
-The Louisiana plan was evaluated on the basis of the following classifications: 
+The Louisiana plan was evaluated on the basis of the following classifications:
 
 | Air quality control region                    | Pollutant |
 | --------------------------------------------- | --------- |

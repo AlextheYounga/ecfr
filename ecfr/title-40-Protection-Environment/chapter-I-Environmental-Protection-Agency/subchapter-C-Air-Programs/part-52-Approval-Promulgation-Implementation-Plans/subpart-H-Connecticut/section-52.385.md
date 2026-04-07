@@ -1,6 +1,6 @@
 ##### § 52.385 EPA-approved Connecticut regulations.
 
-The following table identifies the State regulations which have been submitted to and approved by EPA as revisions to the Connecticut State Implementation Plan. This table is for informational purposes only and does not have any independent regulatory effect. To determine regulatory requirements for a specific situation, consult the plan identified in § 52.370. To the extent that this table conflicts with § 52.370, § 52.370 governs. 
+The following table identifies the State regulations which have been submitted to and approved by EPA as revisions to the Connecticut State Implementation Plan. This table is for informational purposes only and does not have any independent regulatory effect. To determine regulatory requirements for a specific situation, consult the plan identified in § 52.370. To the extent that this table conflicts with § 52.370, § 52.370 governs.
 
 Table 52.385—EPA-Approved Regulations
 | Connecticut State citation                                  | Title/subject                                                                                                         | Dates                          | **Federal Register** citation | Section 52.370          | Comments/description                                   |

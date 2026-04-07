@@ -1,16 +1,16 @@
 ##### § 52.122 Negative declarations.
 
-(a) The following air pollution control districts submitted negative declarations for volatile organic compound source categories to satisfy the requirements of section 182 of the Clean Air Act, as amended. The following negative declarations are approved as additional information to the State Implementation Plan. 
+(a) The following air pollution control districts submitted negative declarations for volatile organic compound source categories to satisfy the requirements of section 182 of the Clean Air Act, as amended. The following negative declarations are approved as additional information to the State Implementation Plan.
 
-(1) Maricopa County Environmental Services Department. 
+(1) Maricopa County Environmental Services Department.
 
-(i) Refinery Sources (Refinery Process Turnarounds), Automobile and Light Duty Trucks, Magnet Wire, Flatwood Paneling, Pharmaceuticals and Cosmetic Manufacturing Operations, Rubber Tire Manufacturing, Polymer Manufacturing, Industrial Wastewater, Ship Building and Repair, Synthetic Organic Chemical Manufacturing Industry (SOCMI) Batch Processing, SOCMI Reactors, and SOCMI Distillation were adopted on April 26, 2000 and submitted on December 14, 2000. 
+(i) Refinery Sources (Refinery Process Turnarounds), Automobile and Light Duty Trucks, Magnet Wire, Flatwood Paneling, Pharmaceuticals and Cosmetic Manufacturing Operations, Rubber Tire Manufacturing, Polymer Manufacturing, Industrial Wastewater, Ship Building and Repair, Synthetic Organic Chemical Manufacturing Industry (SOCMI) Batch Processing, SOCMI Reactors, and SOCMI Distillation were adopted on April 26, 2000 and submitted on December 14, 2000.
 
-(ii) Fiberglass Boat Manufacturing was adopted on March 24, 2004 and submitted on April 21, 2004. 
+(ii) Fiberglass Boat Manufacturing was adopted on March 24, 2004 and submitted on April 21, 2004.
 
-(2) Pinal County Air Quality Control District. 
+(2) Pinal County Air Quality Control District.
 
-(i) The following negative declarations for the 2008 ozone NAAQS were adopted on November 30, 2016 and submitted on February 3, 2017. 
+(i) The following negative declarations for the 2008 ozone NAAQS were adopted on November 30, 2016 and submitted on February 3, 2017.
 
 | EPA document No.                        | Title                                                                                                                       |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -54,7 +54,7 @@
 | EPA 453/R-08-005                        | Miscellaneous Industrial Adhesives.                                                                                         |
 | EPA 453/R-08-006                        | Automobile and Light-Duty Truck Assembly Coatings.                                                                          |
 
-(ii) The following negative declarations for the 2008 ozone NAAQS were adopted on August 5, 2020 and submitted on August 20, 2020. 
+(ii) The following negative declarations for the 2008 ozone NAAQS were adopted on August 5, 2020 and submitted on August 20, 2020.
 
 | EPA document No. | Title                                                                                                                                                                                             |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,9 +64,9 @@
 | N/A              | Major non CTG VOC sources.                                                                                                                                                                        |
 | N/A              | Major NOX sources.                                                                                                                                                                                |
 
-(3) Maricopa County Air Quality Department. 
+(3) Maricopa County Air Quality Department.
 
-(i) The following negative declarations for the 2008 ozone NAAQS were adopted by the Maricopa County Air Quality Department. 
+(i) The following negative declarations for the 2008 ozone NAAQS were adopted by the Maricopa County Air Quality Department.
 
 | EPA document No.      | Title                                                                                                                                                               | Adopted:   05/24/2017   Submitted:   6/22/2017   SIP approved:   01/07/2021 | Adopted:   09/01/2021   Submitted:   09/17/2021   SIP approved:   1/16/2025 |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -100,8 +100,8 @@
 | (BB) EPA 453/R-08-006 | Automobile and Light-Duty Truck Assembly Coatings                                                                                                                   | X                                                                           |                                                                             |
 | (CC) EPA 453/B16-001  | Oil and Natural Gas Industry                                                                                                                                        | X                                                                           |                                                                             |
 
-(ii) \[Reserved\] 
+(ii) \[Reserved\]
 
-(b) \[Reserved\] 
+(b) \[Reserved\]
 
 \[67 FR 54743, Aug. 26, 2002, as amended at 70 FR 7041, Feb. 10, 2005; 84 FR 39200, Aug. 9, 2019; 86 FR 976, Jan. 7, 2021; 86 FR 46989, Aug. 23, 2021; 90 FR 4654, Jan. 16, 2025\]

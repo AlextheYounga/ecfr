@@ -1,6 +1,6 @@
 ##### § 52.571 Classification of regions.
 
-The Georgia plan was evaluated on the basis of the following classifications: 
+The Georgia plan was evaluated on the basis of the following classifications:
 
 | Air quality control region                              | Pollutant |
 | ------------------------------------------------------- | --------- |

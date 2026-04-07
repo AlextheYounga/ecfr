@@ -1,6 +1,6 @@
 ##### § 52.2076 Attainment of dates for national standards.
 
-The following table presents the latest dates by which the national standards are to be attained. These dates reflect the information presented in Rhode Island's plan, except where noted. 
+The following table presents the latest dates by which the national standards are to be attained. These dates reflect the information presented in Rhode Island's plan, except where noted.
 
 | Air quality control region                                                                | Pollutant |
 | ----------------------------------------------------------------------------------------- | --------- |

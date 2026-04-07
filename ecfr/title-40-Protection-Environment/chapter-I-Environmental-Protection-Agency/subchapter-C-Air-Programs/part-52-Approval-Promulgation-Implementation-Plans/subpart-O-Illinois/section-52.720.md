@@ -2,11 +2,11 @@
 
 Link to an amendment published at 89 FR 106359, Dec. 30, 2024.Link to a delay of the above amendment published at 90 FR 8254, Jan. 28, 2025.
 
-(a) *Purpose and scope.* This section sets forth the applicable State implementation plan for the State of Illinois under section 110 of the Clean Air Act, 42 U.S.C. 7401-7671q and 40 CFR part 51 to meet national ambient air quality standards. 
+(a) *Purpose and scope.* This section sets forth the applicable State implementation plan for the State of Illinois under section 110 of the Clean Air Act, 42 U.S.C. 7401-7671q and 40 CFR part 51 to meet national ambient air quality standards.
 
-(b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to December 31, 2016, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Entries in paragraphs (c) and (d) of this section with the EPA approval dates after December 31, 2016, have been approved by EPA for inclusion in the State implementation plan and for incorporation by reference into the plan as it is contained in this section, and will be considered by the Director of the Federal Register for approval in the next update to the SIP compilation. 
+(b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to December 31, 2016, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Entries in paragraphs (c) and (d) of this section with the EPA approval dates after December 31, 2016, have been approved by EPA for inclusion in the State implementation plan and for incorporation by reference into the plan as it is contained in this section, and will be considered by the Director of the Federal Register for approval in the next update to the SIP compilation.
 
-(2) EPA Region 5 certifies that the materials provided by EPA at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated state rules/regulations which have been approved as part of the state implementation plan as of the dates referenced in paragraph (b)(1). 
+(2) EPA Region 5 certifies that the materials provided by EPA at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated state rules/regulations which have been approved as part of the state implementation plan as of the dates referenced in paragraph (b)(1).
 
 (3) Copies of the materials incorporated by reference may be inspected at the Environmental Protection Agency, Region 5, Air Programs Branch, 77 West Jackson Boulevard, Chicago, IL 60604, or the National Archives and Records Administration. For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
@@ -2257,6 +2257,6 @@ EPA-Approved Illinois Nonregulatory and Quasi-Regulatory Provisions
 
 \[82 FR 30638, June 30, 2017\] Editorial Notes:1\. For Federal Register citations affecting § 52.720, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*.
 
-2\. At 83 FR 50855, Oct. 10, 2018, § 52.720(c) was amended in part by revising entries for 201.103, 201.104, and 211.4720; however, the revisions could not be completed because those entries did not exist. 
+2\. At 83 FR 50855, Oct. 10, 2018, § 52.720(c) was amended in part by revising entries for 201.103, 201.104, and 211.4720; however, the revisions could not be completed because those entries did not exist.
 
 3\. At 86 FR 54627, Oct. 4, 2021, § 52.720(c) was amended in part by adding entries for 243.120, 243.122, 243.123, 243.124, and 243.126 under the heading “Subpart B: Standards and Measurement Methods.” Those entries already existed, resulting in duplicate entries. At 89 FR 2885, Jan. 17, 2024, the duplicate entry for 243.122 in § 52.720(c) was removed, effective Feb. 16, 2024.

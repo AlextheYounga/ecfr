@@ -1,6 +1,6 @@
 ##### § 52.1525 EPA-approved new Hampshire state regulations.
 
-The following table identifies that State regulations which have been submitted to and approved by EPA as revisions to the New Hampshire State Implementation Plan. This table is for informational purposes only and does not have any independent regulatory effect. To determine regulatory requirements for a specific situation consult the plan identified in § 52.1520. To the extent that this table conflicts with § 52.1520, § 52.1520 governs. 
+The following table identifies that State regulations which have been submitted to and approved by EPA as revisions to the New Hampshire State Implementation Plan. This table is for informational purposes only and does not have any independent regulatory effect. To determine regulatory requirements for a specific situation consult the plan identified in § 52.1520. To the extent that this table conflicts with § 52.1520, § 52.1520 governs.
 
 Table 52.1525—EPA-Approved Rules and Regulations 1—New Hampshire
 | Title/subject                                                                                                                                                           | State citation chapter 2                                                | Date adopted State          | Date approved EPA | **Federal Register** citation | 52.1520 | Explanation                                                                                                                                                                |

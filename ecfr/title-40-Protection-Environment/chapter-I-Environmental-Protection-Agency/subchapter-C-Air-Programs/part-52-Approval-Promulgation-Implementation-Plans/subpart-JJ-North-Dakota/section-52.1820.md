@@ -1,12 +1,12 @@
 ##### § 52.1820 Identification of plan.
 
-(a) *Purpose and scope.* This section sets forth the applicable State Implementation Plan for North Dakota under section 110 of the Clean Air Act, 42 U.S.C. 7410 and 40 CFR part 51 to meet national ambient air quality standards or other requirements under the Clean Air Act. 
+(a) *Purpose and scope.* This section sets forth the applicable State Implementation Plan for North Dakota under section 110 of the Clean Air Act, 42 U.S.C. 7410 and 40 CFR part 51 to meet national ambient air quality standards or other requirements under the Clean Air Act.
 
-(b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to August 1, 2015, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with EPA approval dates after August 1, 2015, will be incorporated by reference in the next update to the SIP compilation. 
+(b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to August 1, 2015, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with EPA approval dates after August 1, 2015, will be incorporated by reference in the next update to the SIP compilation.
 
-(2) EPA Region 8 certifies that the rules/regulations provided by EPA in the SIP compilation at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated state rules/regulations which have been approved as part of the SIP as of August 1, 2015. 
+(2) EPA Region 8 certifies that the rules/regulations provided by EPA in the SIP compilation at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated state rules/regulations which have been approved as part of the SIP as of August 1, 2015.
 
-(3) Copies of the materials incorporated by reference may be inspected at the EPA Region 8 Office, Office of Partnerships and Regulatory Assistance (OPRA), Air Program, 1595 Wynkoop Street, Denver, Colorado 80202-1129. 
+(3) Copies of the materials incorporated by reference may be inspected at the EPA Region 8 Office, Office of Partnerships and Regulatory Assistance (OPRA), Air Program, 1595 Wynkoop Street, Denver, Colorado 80202-1129.
 
 (c) *EPA-approved regulations.*
 

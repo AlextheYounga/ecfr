@@ -1,6 +1,6 @@
 ##### § 52.1335 Compliance schedules.
 
-(a) The compliance schedule for the source identified below is approved as a revision to the plan pursuant to § 51.104 and subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted. 
+(a) The compliance schedule for the source identified below is approved as a revision to the plan pursuant to § 51.104 and subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted.
 
 Missouri
 | Source                                                                | Location              | Regulation involved                 | Adopted date  | Effective date | Final compliance date |
@@ -14,7 +14,7 @@ Missouri
 | St. Joe Lead Co                                                       | Herculaneum, MO       | § 203.050.1(5) RSM01978             | Aug. 15, 1980 | Immediately    | Oct. 27, 1984.        |
 | AMAX Lead Co                                                          | Boss, MO              | ......do                            | ......do      | ......do       | Apr. 27, 1985.        |
 
-(b) The compliance schedule submitted for the source identified below is disapproved as not meeting the requirements of subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted. 
+(b) The compliance schedule submitted for the source identified below is disapproved as not meeting the requirements of subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted.
 
 | Source                                                                                | Location          | Regulation involved                       | Date adopted   |
 | ------------------------------------------------------------------------------------- | ----------------- | ----------------------------------------- | -------------- |

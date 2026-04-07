@@ -1,6 +1,6 @@
 ##### § 52.1425 Compliance schedules.
 
-(a) The compliance schedules for the sources identified below are approved as revisions to the plan pursuant to § 51.104 and subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted. 
+(a) The compliance schedules for the sources identified below are approved as revisions to the plan pursuant to § 51.104 and subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted.
 
 Nebraska—Compliance Schedules
 | Source      | Location  | Regulation involved                                      | Date adopted  | Variance expiration date | Final compliance date |

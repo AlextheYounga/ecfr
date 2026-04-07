@@ -1,6 +1,6 @@
 ##### § 52.2221 Classification of regions.
 
-The Tennessee plan was evaluated on the basis of the following classifications: 
+The Tennessee plan was evaluated on the basis of the following classifications:
 
 | Air quality control region                             | Pollutant |
 | ------------------------------------------------------ | --------- |
