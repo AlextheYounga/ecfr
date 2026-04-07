@@ -1,5 +1,7 @@
 ##### § 210.12-29 Mortgage loans on real estate. 1
 
+Link to an amendment published at 83 FR 50209, Oct. 4, 2018.
+
 \[For Certain Real Estate Companies\]
 
 | Column A - Description 2 3 4 | Column B - Interest rate | Column C - Final maturity date | Column D - Periodic payment terms 5 | Column E - Prior liens | Column F - Face amount of mortgages | Column G - Carrying amount of mortgages 3 6 7 8 9 | Column H - Principal amount of loans subject to delinquent principal or interest 10 |

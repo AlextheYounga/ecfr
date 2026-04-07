@@ -1,5 +1,7 @@
 ##### § 210.12-23 Mortgage loans on real estate and interest earned on mortgages. 1
 
+Link to an amendment published at 83 FR 50208, Oct. 4, 2018.
+
 | Part 1 - Mortgage loans on real estate at close of period | Part 2 - Interest earned on mortgages |
 | --------------------------------------------------------- | ------------------------------------- |
 | Liens on:                                                 |                                       |

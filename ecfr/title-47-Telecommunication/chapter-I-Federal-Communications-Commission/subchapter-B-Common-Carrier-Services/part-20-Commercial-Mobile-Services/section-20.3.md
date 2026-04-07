@@ -68,7 +68,7 @@
 
 *Non-individual.* A non-individual is a partnership and each partner is eighteen years of age or older; a corporation; an association; a state, territorial, or local government unit; or a legal entity.
 
-*Private Mobile Radio Service.* A mobile service that meets neither the paragraph (a) nor paragraph (b) definitions of commercial mobile radio service set forth in this section. A mobile service that does not meet the paragraph (a) definition of commercial mobile radio service in this section is presumed to be a private mobile radio service. Private mobile radio service includes the following:
+*Private mobile radio service.* A mobile service that meets neither the paragraph (a) nor paragraph (b) definitions of commercial mobile radio service set forth in this section. A mobile service that does not meet the paragraph (a) definition of commercial mobile radio service in this section is presumed to be a private mobile radio service. Private mobile radio service includes the following:
 
 (a) Not-for-profit land mobile radio and paging services that serve the licensee's internal communications needs as defined in part 90 of this chapter. Shared-use, cost-sharing, or cooperative arrangements, multiple licensed systems that use third party managers or users combining resources to meet compatible needs for specialized internal communications facilities in compliance with the safeguards of § 90.179 of this chapter are presumptively private mobile radio services;
 

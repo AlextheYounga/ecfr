@@ -1,5 +1,7 @@
 ##### § 210.12-21 Investments in securities of unaffiliated issuers.
 
+Link to an amendment published at 83 FR 50208, Oct. 4, 2018.
+
 | Column A - Name of issuer and title of issue 1 | Column B - Balance held at close of period. Number of shares - principal amount of bonds and notes 2 | Column C - Cost of each item 3 4 | Column D - Value of each item at close of period 3 5 |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------- |
 |                                                |                                                                                                      |                                  |                                                      |

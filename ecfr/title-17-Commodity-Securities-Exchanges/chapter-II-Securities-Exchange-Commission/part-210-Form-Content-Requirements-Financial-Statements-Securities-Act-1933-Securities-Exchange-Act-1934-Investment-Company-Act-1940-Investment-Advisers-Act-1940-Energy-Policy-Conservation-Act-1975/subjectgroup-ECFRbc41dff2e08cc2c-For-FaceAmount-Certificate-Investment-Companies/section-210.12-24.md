@@ -1,5 +1,7 @@
 ##### § 210.12-24 Real estate owned and rental income. 1
 
+Link to an amendment published at 83 FR 50208, Oct. 4, 2018.
+
 | Part 1 - Real estate owned at end of period | Part 2 - Rental income |
 | ------------------------------------------- | ---------------------- |
 | Farms                                       |                        |
