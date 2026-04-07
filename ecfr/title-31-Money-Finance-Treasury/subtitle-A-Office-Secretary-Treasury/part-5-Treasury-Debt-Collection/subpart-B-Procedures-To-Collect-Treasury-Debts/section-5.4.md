@@ -58,7 +58,7 @@
 
 (viii) That proceedings with respect to such debt are governed by 5 U.S.C. 5514 and 31 U.S.C. 3716;
 
-(12) How the debtor may request a waiver of the debt, if applicable (*see, for example,* Treasury Directive 34-01 (Waiving Claims Against Treasury Employees for Erroneous Payments), set forth at Appendix A of this part and at *http://www.treas.gov/regs*);
+(12) How the debtor may request a waiver of the debt, if applicable (*see, for example,* Treasury Directive 34-01 (Waiving Claims Against Treasury Employees for Erroneous Payments), set forth at appendix A of this part and at *http://www.treas.gov/regs*);
 
 (13) How the debtor's spouse may claim his or her share of a joint income tax refund by filing Form 8379 with the Internal Revenue Service (*see http://www.irs.gov*)
 
