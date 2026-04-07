@@ -2,7 +2,7 @@
 
 (a) *Rules for determining present value.* For purposes of sections 170, 2055, 2106, and 2522, the fair market value of a remainder interest in a charitable remainder unitrust (as described in § 1.664-3) is its present value determined under paragraph (d) of this section. The present value determined under this section shall be computed on the basis of—
 
-(1) Life contingencies determined as to each life involved, from the values of *lx* set forth in Table 2000CM contained in § 20.2031-7(d)(7) of this chapter in the case of transfers for which the valuation date is on or after May 1, 2009; or from Table 90CM contained in § 20.2031-7A(f)(4) in the case of transfers for which the valuation date is after April 30, 1999, and before May 1, 2009. See § 20.2031-7A(a) through (e), whichever is applicable, for transfers for which the valuation date is before May 1, 1999;
+(1) Life contingencies determined as to each life involved, from the values of lX set forth in Table 2010CM in § 20.2031-7(d)(7)(ii) of this chapter in the case of transfers for which the valuation date is on or after June 1, 2023; or from Table 2000CM contained in § 20.2031-7A(g)(4) of this chapter in the case of transfers for which the valuation date is on or after May 1, 2009, and before June 1, 2023. See § 20.2031-7A(a) through (f) of this chapter, whichever is applicable, for transfers for which the valuation date is before May 1, 2009;
 
 (2) Interest at the section 7520 rate in the case of transfers for which the valuation date is after April 30, 1989, or 10 percent in the case of transfers to charitable remainder unitrusts made after November 30, 1983, for which the valuation date is before May 1, 1989. See § 20.2031-7A (a) through (c) of this chapter, whichever is applicable, for transfers for which the valuation date is before December 1, 1983; and
 
@@ -12,24 +12,22 @@
 
 (c) *Statement supporting deduction required.* Any claim for a deduction on any return for the value of a remainder interest in a charitable remainder unitrust must be supported by a full statement attached to the return showing the computation of the present value of such interest.
 
-(d) *Valuation.* The fair market value of a remainder interest in a charitable remainder unitrust (as described in § 1.664-3) for transfers for which the valuation date is on or after May 1, 2009, is its present value determined under paragraph (e) of this section. The fair market value of a remainder interest in a charitable remainder unitrust (as described in § 1.664-3) for transfers for which the valuation date is before May 1, 2009, is its present value determined under the following sections:
+(d) *Valuation.* The fair market value of a remainder interest in a charitable remainder unitrust (as described in § 1.664-3) for transfers for which the valuation date is on or after June 1, 2023, is its present value determined under paragraph (e) of this section. The fair market value of a remainder interest in a charitable remainder unitrust (as described in § 1.664-3) for transfers for which the valuation date is before June 1, 2023, is its present value determined under the following sections:
 
-| Valuation dates | Applicable regulations |
-| --------------- | ---------------------- |
-| —               | 01-01-52               |
-| 12-31-51        | 01-01-71               |
-| 12-31-70        | 12-01-83               |
-| 11-30-83        | 05-01-89               |
-| 04-30-89        | 05-01-99               |
-| 04-30-99        | 05-01-09               |
+Table 1 to Paragraph (d)
+| Valuation dates | Applicable   regulations |
+| --------------- | ------------------------ |
+|                 | 01-01-52                 |
+| 12-31-51        | 01-01-71                 |
+| 12-31-70        | 12-01-83                 |
+| 11-30-83        | 05-01-89                 |
+| 04-30-89        | 05-01-99                 |
+| 04-30-99        | 05-01-09                 |
+| 04-30-09        | 06-01-23                 |
 
-(e) *Valuation of charitable remainder unitrusts having certain payout sequences for transfers for which the valuation date is on or after May 1, 2009*—(1) *In general.* Except as otherwise provided in paragraph (e)(2) of this section, in the case of transfers for which the valuation date is on or after May 1, 2009, the present value of a remainder interest is determined under paragraphs (e)(3) through (e)(7) of this section, provided that the amount of the payout as of any payout date during any taxable year of the trust is not larger than the amount that the trust could distribute on such date under § 1.664-3(a)(1)(v) if the taxable year of the trust were to end on such date. See, however, § 1.7520-3(b) (relating to exceptions to the use of the prescribed tables under certain circumstances).
+(e) *Valuation of charitable remainder unitrusts having certain payout sequences for transfers for which the valuation date is on or after June 1, 2023*—(1) *In general.* Except as otherwise provided in paragraph (e)(2) of this section, in the case of transfers for which the valuation date is on or after June 1, 2023, the present value of a remainder interest is determined under paragraphs (e)(3) through (7) of this section, provided that, in a short taxable year, the trustee must prorate the unitrust amount as provided in § 1.664-3(a)(1)(v). See, however, § 1.7520-3(b) (relating to exceptions to the use of the prescribed tables under certain circumstances).
 
-(2) *Transitional rules for valuation of charitable remainder unitrusts.* (i) For purposes of sections 2055, 2106, or 2624, if on May 1, 2009, the decedent was mentally incompetent so that the disposition of the property could not be changed, and the decedent died on or after May 1, 2009, without having regained competency to dispose of the decedent's property, or the decedent died within 90 days of the date that the decedent first regained competency on or after May 1, 2009, the present value of a remainder interest under this section is determined as if the valuation date with respect to the decedent's gross estate is either before or after May 1, 2009, at the option of the decedent's executor.
-
-(ii) For purposes of sections 170, 2055, 2106, 2522, or 2624, in the case of transfers to a charitable remainder unitrust for which the valuation date is on or after May 1, 2009, and before July 1, 2009, the present value of a remainder interest based on one or more measuring lives is determined under this section by use of the section 7520 interest rate for the month in which the valuation date occurs (see §§ 1.7520-1(b) and 1.7520-2(a)(2)) and the appropriate actuarial tables under either paragraph (e)(7) of this section or § 1.664-4A(f)(6), at the option of the donor or the decedent's executor, as the case may be.
-
-(iii) For purposes of paragraphs (e)(2)(i) and (e)(2)(ii) of this section, where the donor or decedent's executor is given the option to use the appropriate actuarial tables under either paragraph (e)(7) of this section or § 1.664-4A(f)(6), the donor or decedent's executor must use the same actuarial table with respect to each individual transaction and with respect to all transfers occurring on the valuation date (for example, gift and income tax charitable deductions with respect to the same transfer must be determined based on the same tables, and all assets includible in the gross estate and/or estate tax deductions claimed must be valued based on the same tables).
+(2) *Transitional rule for valuation of charitable remainder unitrusts.* For purposes of section 170, 2055, 2106, 2522, or 2624, in the case of transfers to a charitable remainder unitrust for which the valuation date is after April 30, 2019, and on or before June 1, 2023, the present value of a remainder interest based on one or more measuring lives is determined under this section by using the section 7520 interest rate for the month in which the valuation date occurs (see §§ 1.7520-1(b) and 1.7520-2(a)(2)) and the appropriate actuarial factors derived from the selected mortality table, either Table 2010CM in § 20.2031-7(d)(7)(ii) of this chapter or Table 2000CM in § 20.2031-7A(g)(4) of this chapter, at the option of the donor or the decedent's executor, as the case may be. If any previously filed income tax return is amended to use the actuarial factors based on Table 2010CM, the amended return must state at the top “AMENDED PURSUANT TO TD 9974.” If any previously filed gift or estate tax return is supplemented to use the actuarial factors based on Table 2010CM, the supplemental return must state at the top “SUPPLEMENTED PURSUANT TO TD 9974.” For the convenience of taxpayers, actuarial factors based on Table 2010CM appear in the current version of Table U(1), and actuarial factors based on Table 2000CM appear in the previous version of Table U(1). Both versions of Table U(1) currently are available, at no charge, electronically via the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables* (or a corresponding URL as may be updated from time to time). The donor or decedent's executor must consistently use the same mortality basis with respect to each interest (income, remainder, partial, etc.) in the same property, and with respect to all transfers occurring on the same valuation date. For example, gift and income tax charitable deductions with respect to the same transfer must be determined based on factors with the same mortality basis, and all assets includible in the gross estate and/or estate tax deductions claimed must be valued based on factors with the same mortality basis.
 
 (3) *Adjusted payout rate.* For transfers for which the valuation date is after April 30, 1989, the adjusted payout rate is determined by using the appropriate Table F in paragraph (e)(6) of this section, for the section 7520 interest rate applicable to the transfer. If the interest rate is between 4.2 and 14 percent, see paragraph (e)(6) of this section. If the interest rate is below 4.2 percent or greater than 14 percent, see paragraph (b) of this section. The adjusted payout rate is determined by multiplying the fixed percentage described in § 1.664-3(a)(1)(i)(*a*) by the factor describing the payout sequence of the trust and the number of months by which the valuation date for the first full taxable year of the trust precedes the first payout date for such taxable year. If the governing instrument does not prescribe when the distribution or distributions shall be made during the taxable year of the trust, see paragraph (a) of this section. In the case of a trust having a payout sequence for which no figures have been provided by the appropriate table, and in the case of a trust that determines the fair market value of the trust assets by taking the average of valuations on more than one date during the taxable year, see paragraph (b) of this section.
 
@@ -37,46 +35,54 @@
 
 Example.D transfers $100,000 to a charitable remainder unitrust on January 1. The trust instrument requires that the trust pay 8 percent of the fair market value of the trust assets as of January 1st for a term of 12 years to D in quarterly payments (March 31, June 30, September 30, and December 31). The section 7520 rate for January (the month that the transfer occurred) is 9.6 percent. Under Table F(9.6) in paragraph (e)(6) of this section, the appropriate adjustment factor is .944628 for quarterly payments payable at the end of each quarter. The adjusted payout rate is 7.557 (8% × .944628). Based on the remainder factors in Table D in paragraph (e)(6) of this section, the present value of the remainder interest is $38,950.30, computed as follows:
 
-Factor at 7.4 percent for 12 years
-
-.397495 
-
-Factor at 7.6 percent for 12 years
-
-.387314 
-
-Difference
-
-.010181
+| Factor at 7.4 percent for 12 years | .397495 |
+| Factor at 7.6 percent for 12 years | .387314 |
+| Difference                         | .010181 |
 
 Interpolation adjustment: ![](/graphics/er12jn00.002.gif)
 
-Factor at 7.4 percent for 12 years
-
-.397495 
-
-Less: Interpolation adjustment
-
-.007992 
-
-Interpolated factor
-
-.389503
+| Factor at 7.4 percent for 12 years | .397495 |
+| Less: Interpolation adjustment     | .007992 |
+| Interpolated factor                | .389503 |
 
 Present value of remainder interest: ($100,000 × .389503)..........$38,950.30
 
-(5) *Period is the life of one individual.* (i) If the period described in § 1.664-3(a)(5) is the life of one individual, the factor that is used in determining the present value of the remainder interest for transfers for which the valuation date is on or after May 1, 2009, is the factor in Table U(1) in paragraph (e)(7) of this section under the appropriate adjusted payout. For purposes of the computations described in this paragraph (e)(5), the age of an individual is the age of that individual at the individual's nearest birthday. If the adjusted payout rate is an amount that is between adjusted payout rates for which factors are provided in the appropriate table, a linear interpolation must be made. The present value of the remainder interest is determined by multiplying the net fair market value (as of the valuation date as determined in paragraph (e)(4) of this section) of the property placed in trust by the factor determined under this paragraph (e)(5). If the adjusted payout rate is between 4.2 and 14 percent, see paragraph (e)(7) of this section. If the adjusted payout rate is below 4.2 percent or greater than 14 percent, see paragraph (b) of this section.
+(5) *Period is the life of one individual*—(i) *Factor.* If the period described in § 1.664-3(a)(5) is the life of one individual, the factor that is used in determining the present value of the remainder interest for transfers for which the valuation date is on or after June 1, 2023, is the factor obtained through the use of the formula in Figure 1 to this paragraph (e)(5)(i) to at least five decimal places. The prescribed mortality table is Table 2010CM as set forth in § 20.2031-7(d)(7)(ii) of this chapter, or for periods before June 1, 2023, the appropriate table found in § 20.2031-7A of this chapter. Table 2010CM is referenced by IRS Publication 1458, *Actuarial Values Version 4B.* The mortality tables prescribed for periods before June 1, 2023, are referenced by prior versions of IRS Publication 1458. Alternatively, the remainder factors have been determined for the convenience of taxpayers and appear in Table U(1) under the appropriate adjusted payout rate. Table U(1) currently is available, at no charge, electronically via the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables* (or a corresponding URL as may be updated from time to time). Table U(1) is referenced and explained by IRS Publication 1458, *Actuarial Valuations Version 4B,* which will be available within a reasonable time after June 1, 2023. For purposes of the computations described in this paragraph (e)(5), the age of an individual is the age of that individual at the individual's nearest birthday. If the adjusted payout rate is an amount that is between adjusted payout rates for which factors are provided in the appropriate table, an exact method of obtaining the applicable remainder factors (such as through software using the actual adjusted payout rate and the actuarial formula in this paragraph (e)(5)) or a linear interpolation must be used, provided whichever method used is applied consistently in valuing all interests in the same property. The applicable remainder factors derived by an exact method or by interpolation must be expressed to at least five decimal places. The present value of the remainder interest is determined by multiplying the net fair market value (as of the valuation date as determined in § 1.664-4(e)(4)) of the property placed in trust by the factor determined under this paragraph (e)(5). If the adjusted payout rate is from 0.2 to 20.0 percent, inclusive, taxpayers may see the actuarial tables referenced and explained by IRS Publication 1458, *Actuarial Valuations Version 4B.* Alternatively, the Commissioner may supply a factor upon a request for a ruling. See paragraph (b) of this section.
 
-(ii) The application of paragraph (e)(5)(i) of this section may be illustrated by the following example:
+Figure 1 to Paragraph (e)(5)(i)—Formula for Determining Unitrust Remainder Factors ![](/graphics/er07jn23.008.gif)
 
-Example.A, who is 44 years and 11 months old, transfers $100,000 to a charitable remainder unitrust on January 1st. The trust instrument requires that the trust pay to A semiannually (on June 30 and December 31) 8 percent of the fair market value of the trust assets as of January 1st during A's life. The section 7520 rate for January is 6.6 percent. Under Table F(6.6) in paragraph (e)(6) of this section, the appropriate adjustment factor is .953317 for semiannual payments payable at the end of the semiannual period. The adjusted payout rate is 7.627% (8% × .953317). Based on the remainder factors in Table U(1) in this section, the present value of the remainder interest is $11,075.00, computed as follows: ![](/graphics/er10au11.023.gif)
+(ii) *Sample factors from actuarial Table U(1).* For purposes of the example in paragraph (e)(5)(iii) of this section, the following factors from Table U(1) and Table F(3.2) (see paragraph (e)(6)(ii) of this section) will be used:
 
-(6) *Actuarial Table D and F (4.2 through 14.0) for transfers for which the valuation date is after April 30, 1989.* For transfers for which the valuation date is after April 30, 1989, the present value of a charitable remainder unitrust interest that is dependent upon a term of years is determined by using the section 7520 rate and the tables in this paragraph (e)(6). For transfers for which the valuation date is on or after May 1, 2009, where the present value of a charitable remainder unitrust interest is dependent on the termination of a life interest, see Paragraph (e)(5) of this section. See, however, § 1.7520-3(b) (relating to exceptions to the use of prescribed tables under certain circumstances). Many actuarial factors not contained in the following tables are contained in Internal Revenue Service Publication 1458, “Actuarial Valuations Version 3B” (2009). This publication will be available beginning May 1, 2009, at no charge, electronically via the IRS Internet site at *http://www.irs.gov.*
+Table 2 to Paragraph (e)(5)(ii)
+
+Factors From Table U(1)—Based on Table 2010CM
+| Adjusted payout rate                                          |
+| ------------------------------------------------------------- |
+| 77                                                            |
+| **Factors from Table F(3.2)**                                 |
+| **Factors for Computing Adjusted Payout Rates for Unitrusts** |
+| **Interest at 3.2 Percent**                                   |
+| \# of Months from Annual Valuation to First Payout            |
+| At Least                                                      |
+| 6                                                             |
+
+(iii) *Example of interpolation.* After June 1, 2023, A, whose age is 76 years and 11 months, transfers $100,000 to a charitable remainder unitrust on January 1st. The trust instrument requires that the trust pay to A semiannually (on June 30 and December 31) 5 percent of the fair market value of the trust assets as of January 1st during A's life. The section 7520 rate for January is 3.2 percent. Under Table F(3.2), the appropriate adjustment factor is 0.976683 for semiannual payments payable at the end of the semiannual period. The adjusted payout rate is 4.883% (5% × 0.976683). Based on interpolating between the remainder factors in Table U(1), the present value of the remainder interest is $61,015, computed as illustrated in Figure 2 to this paragraph (e)(5)(iii).
+
+Figure 2 to Paragraph (e)(5)(iii)—Illustration of Unitrust Interpolation Method ![](/graphics/er07jn23.009.gif)
+
+(6) *Actuarial Table D and Tables F(0.2) through F(20.0) for transfers for which the valuation date is on or after May 1, 1989*—(i) *Remainder factors for charitable remainder unitrusts.* For transfers for which the valuation date is on or after May 1, 1989, the present value of a charitable remainder unitrust interest that is dependent upon a term of years is determined by using the formula in Figure 3 to this paragraph (e)(6)(i) and calculating the final result to at least six decimal places. For the convenience of taxpayers, actuarial factors have been computed by the IRS and appear in Table D. Table D can be found on the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables* (or a corresponding URL as may be updated from time to time). Table D is referenced and explained in IRS Publication 1458, *Actuarial Valuations Version 4B,* which will be available within a reasonable time after June 1, 2023. The remainder factors from Table D also can be found in paragraph (e)(6)(iii) of this section, but only for adjusted payout rates from 4.2 to 14 percent, inclusive. For transfers for which the valuation date is on or after June 1, 2023, where the present value of a charitable remainder unitrust interest is dependent on the termination of a life interest, see paragraph (e)(5) of this section. See, however, § 1.7520-3(b) (relating to exceptions to the use of prescribed tables under certain circumstances).
+
+Figure 3 to Paragraph (e)(6)(i)—Formula for Determining Term Certain Unitrust Remainder Factors ![](/graphics/er07jn23.010.gif)
+
+(ii) *Unitrust payout rate adjustment factors.* For transfers for which the valuation date is on or after May 1, 1989, the unitrust payout rate adjustment factors are determined by using the formula in Figure 4 to this paragraph (e)(6)(ii) and calculating the final result to at least six decimal places. For the convenience of taxpayers, actuarial factors have been computed by the IRS, for interest rates from 0.2 to 20 percent, inclusive, and appear in Tables F(0.2) through F(20.0). Tables F(0.2) through F(20.0) can be found on the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables* (or a corresponding URL as may be updated from time to time). Tables F(0.2) through F(20.0) are referenced and explained in IRS Publication 1458, *Actuarial Valuations Version 4B,* which will be available within a reasonable time after June 1, 2023. The factors from Table F also can be found in paragraph (e)(6)(iii) of this section, but only for interest rates from 4.2 to 14 percent, inclusive.
+
+Figure 4 to Paragraph (e)(6)(ii)—Formula for Determining Unitrust Payout Rate Adjustment Factors ![](/graphics/er07jn23.011.gif)
+
+(iii) *Table D and Tables F(4.2) through F(14.0).* The unitrust remainder factors from Table D, for interest rates from 4.2 to 14 percent, inclusive, and the unitrust payout factors from Tables F(4.2) through F(14.0) are as follows:
 
 Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term Certain in a Charitable Remainder Unitrust
 
 \[Applicable after April 30, 1989\]
-
 | Years | Adjusted payout rate |
 | ----- | -------------------- |
 | 1     | .958000              |
@@ -103,7 +109,6 @@ Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term
 Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term Certain in a Charitable Remainder Unitrust
 
 \[Applicable after April 30, 1989\]
-
 | Years | Adjusted payout rate |
 | ----- | -------------------- |
 | 1     | .938000              |
@@ -130,7 +135,6 @@ Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term
 Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term Certain in a Charitable Remainder Unitrust
 
 \[Applicable after April 30, 1989\]
-
 | Years | Adjusted payout rate |
 | ----- | -------------------- |
 | 1     | .918000              |
@@ -157,7 +161,6 @@ Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term
 Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term Certain in a Charitable Remainder Unitrust
 
 \[Applicable after April 30, 1989\]
-
 | Years | Adjusted payout rate |
 | ----- | -------------------- |
 | 1     | .898000              |
@@ -184,7 +187,6 @@ Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term
 Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term Certain in a Charitable Remainder Unitrust
 
 \[Applicable after April 30, 1989\]
-
 | Years | Adjusted payout rate |
 | ----- | -------------------- |
 | 1     | .878000              |
@@ -211,7 +213,6 @@ Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term
 Table F(4.2)—With Interest at 4.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -231,7 +232,6 @@ Table F(4.2)—With Interest at 4.2 Percent, Showing Factors for Computation of 
 Table F(4.4)—With Interest at 4.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         |                                                  |
@@ -252,7 +252,6 @@ Table F(4.4)—With Interest at 4.4 Percent, Showing Factors for Computation of 
 Table F(4.6)—With Interest at 4.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -272,7 +271,6 @@ Table F(4.6)—With Interest at 4.6 Percent, Showing Factors for Computation of 
 Table F(4.8)—With Interest at 4.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -292,7 +290,6 @@ Table F(4.8)—With Interest at 4.8 Percent, Showing Factors for Computation of 
 Table F(5.0)—With Interest at 5.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -312,7 +309,6 @@ Table F(5.0)—With Interest at 5.0 Percent, Showing Factors for Computation of 
 Table F(5.2)—With Interest at 5.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -332,7 +328,6 @@ Table F(5.2)—With Interest at 5.2 Percent, Showing Factors for Computation of 
 Table F(5.4)—With Interest at 5.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -352,7 +347,6 @@ Table F(5.4)—With Interest at 5.4 Percent, Showing Factors for Computation of 
 Table F(5.6)—With Interest at 5.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -372,7 +366,6 @@ Table F(5.6)—With Interest at 5.6 Percent, Showing Factors for Computation of 
 Table F(5.8)—With Interest at 5.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -392,7 +385,6 @@ Table F(5.8)—With Interest at 5.8 Percent, Showing Factors for Computation of 
 Table F(6.0)—With Interest at 6.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -412,7 +404,6 @@ Table F(6.0)—With Interest at 6.0 Percent, Showing Factors for Computation of 
 Table F(6.2)—With Interest at 6.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         |                                                  |
@@ -433,7 +424,6 @@ Table F(6.2)—With Interest at 6.2 Percent, Showing Factors for Computation of 
 Table F(6.4)—With Interest at 6.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         |                                                  |
@@ -454,7 +444,6 @@ Table F(6.4)—With Interest at 6.4 Percent, Showing Factors for Computation of 
 Table F(6.6)—With Interest at 6.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -474,7 +463,6 @@ Table F(6.6)—With Interest at 6.6 Percent, Showing Factors for Computation of 
 Table F(6.8)—With Interest at 6.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -494,7 +482,6 @@ Table F(6.8)—With Interest at 6.8 Percent, Showing Factors for Computation of 
 Table F(7.0)—With Interest at 7.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         |                                                  |
@@ -515,7 +502,6 @@ Table F(7.0)—With Interest at 7.0 Percent, Showing Factors for Computation of 
 Table F(7.2)—With Interest at 7.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         |                                                  |
@@ -536,7 +522,6 @@ Table F(7.2)—With Interest at 7.2 Percent, Showing Factors for Computation of 
 Table F(7.4)—With Interest at 7.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -556,7 +541,6 @@ Table F(7.4)—With Interest at 7.4 Percent, Showing Factors for Computation of 
 Table F(7.6)—With Interest at 7.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -576,7 +560,6 @@ Table F(7.6)—With Interest at 7.6 Percent, Showing Factors for Computation of 
 Table F(7.8)—With Interest at 7.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -596,7 +579,6 @@ Table F(7.8)—With Interest at 7.8 Percent, Showing Factors for Computation of 
 Table F(8.0)—With Interest at 8.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -616,7 +598,6 @@ Table F(8.0)—With Interest at 8.0 Percent, Showing Factors for Computation of 
 Table F(8.2)—With Interest at 8.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -636,7 +617,6 @@ Table F(8.2)—With Interest at 8.2 Percent, Showing Factors for Computation of 
 Table F(8.2)—With Interest at 8.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -656,7 +636,6 @@ Table F(8.2)—With Interest at 8.2 Percent, Showing Factors for Computation of 
 Table F(8.6)—With Interest at 8.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -676,7 +655,6 @@ Table F(8.6)—With Interest at 8.6 Percent, Showing Factors for Computation of 
 Table F(8.8)—With Interest at 8.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -696,7 +674,6 @@ Table F(8.8)—With Interest at 8.8 Percent, Showing Factors for Computation of 
 Table F(9.0)—With Interest at 9.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -716,7 +693,6 @@ Table F(9.0)—With Interest at 9.0 Percent, Showing Factors for Computation of 
 Table F(9.2)—With Interest at 9.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -736,7 +712,6 @@ Table F(9.2)—With Interest at 9.2 Percent, Showing Factors for Computation of 
 Table F(9.4)—With Interest at 9.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -756,7 +731,6 @@ Table F(9.4)—With Interest at 9.4 Percent, Showing Factors for Computation of 
 Table F(9.6)—With Interest at 9.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -776,7 +750,6 @@ Table F(9.6)—With Interest at 9.6 Percent, Showing Factors for Computation of 
 Table F(9.8)—With Interest at 9.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -796,7 +769,6 @@ Table F(9.8)—With Interest at 9.8 Percent, Showing Factors for Computation of 
 Table F(10.0)—With Interest at 10.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -816,7 +788,6 @@ Table F(10.0)—With Interest at 10.0 Percent, Showing Factors for Computation o
 Table F(10.2)—With Interest at 10.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -836,7 +807,6 @@ Table F(10.2)—With Interest at 10.2 Percent, Showing Factors for Computation o
 Table F(10.4)—With Interest at 10.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -856,7 +826,6 @@ Table F(10.4)—With Interest at 10.4 Percent, Showing Factors for Computation o
 Table F(10.6)—With Interest at 10.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -876,7 +845,6 @@ Table F(10.6)—With Interest at 10.6 Percent, Showing Factors for Computation o
 Table F(10.8)—With Interest at 10.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -896,7 +864,6 @@ Table F(10.8)—With Interest at 10.8 Percent, Showing Factors for Computation o
 Table F(11.0)—With Interest at 11.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -916,7 +883,6 @@ Table F(11.0)—With Interest at 11.0 Percent, Showing Factors for Computation o
 Table F(11.2)—With Interest at 11.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -936,7 +902,6 @@ Table F(11.2)—With Interest at 11.2 Percent, Showing Factors for Computation o
 Table F(11.4)—With Interest at 11.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -956,7 +921,6 @@ Table F(11.4)—With Interest at 11.4 Percent, Showing Factors for Computation o
 Table F(11.6)—With Interest at 11.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -976,7 +940,6 @@ Table F(11.6)—With Interest at 11.6 Percent, Showing Factors for Computation o
 Table F(11.8)—With Interest at 11.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -996,7 +959,6 @@ Table F(11.8)—With Interest at 11.8 Percent, Showing Factors for Computation o
 Table F(12.0)—With Interest at 12.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -1016,7 +978,6 @@ Table F(12.0)—With Interest at 12.0 Percent, Showing Factors for Computation o
 Table F(12.2)—With Interest at 12.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         |                                                  |
@@ -1037,7 +998,6 @@ Table F(12.2)—With Interest at 12.2 Percent, Showing Factors for Computation o
 Table F(12.4)—With Interest at 12.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         |                                                  |
@@ -1058,7 +1018,6 @@ Table F(12.4)—With Interest at 12.4 Percent, Showing Factors for Computation o
 Table F(12.6)—With Interest at 12.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -1078,7 +1037,6 @@ Table F(12.6)—With Interest at 12.4 Percent, Showing Factors for Computation o
 Table F(12.8)—With Interest at 12.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -1098,7 +1056,6 @@ Table F(12.8)—With Interest at 12.8 Percent, Showing Factors for Computation o
 Table F(13.0)—With Interest at 13.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -1118,7 +1075,6 @@ Table F(13.0)—With Interest at 13.0 Percent, Showing Factors for Computation o
 Table F(13.2)—With Interest at 13.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -1138,7 +1094,6 @@ Table F(13.2)—With Interest at 13.2 Percent, Showing Factors for Computation o
 Table F(13.4)—With Interest at 13.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -1158,7 +1113,6 @@ Table F(13.4)—With Interest at 13.4 Percent, Showing Factors for Computation o
 Table F(13.6)—With Interest at 13.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -1178,7 +1132,6 @@ Table F(13.6)—With Interest at 13.6 Percent, Showing Factors for Computation o
 Table F(13.8)—With Interest at 13.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         | 1                                                |
@@ -1198,7 +1151,6 @@ Table F(13.8)—With Interest at 13.8 Percent, Showing Factors for Computation o
 Table F(14.0)—With Interest at 14.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
 
 \[Applicable after April 30, 1989\]
-
 | 1   Number of months by which the valuation date for the first rull taxable year of the trust precedes the first payout | 2   Factors for payout at the end of each period |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 |                                                                                                                         |                                                  |
@@ -1216,10 +1168,8 @@ Table F(14.0)—With Interest at 14.0 Percent, Showing Factors for Computation o
 | 11                                                                                                                      | 12                                               |
 | 12                                                                                                                      |                                                  |
 
-(7) *Actuarial Table U(1) for transfers for which the valuation date is on or after May 1, 2009.* For transfers for which the valuation date is on or after May 1, 2009, the present value of a charitable remainder unitrust interest that is dependent on the termination of a life interest is determined by using the section 7520 rate, Table U(1) in this paragraph (e)(7) and Table F(4.2) through (14.0) in paragraph (e)(6) of this section. See, however, § 1.7520-3(b) (relating to exceptions to the use of prescribed tables under certain circumstances). Many actuarial factors not contained in the following tables are contained in Internal Revenue Service Publication 1458, “Actuarial Valuations Version 3B” (2009). This publication is available, at no charge, electronically via the IRS Internet site at *http://www.irs.gov.*
+(7) *Actuarial Table U(1) for transfers for which the valuation date is on or after June 1, 2023.* The present value of a remainder interest in a charitable remainder unitrust that is dependent on the termination of a life interest is determined by using the section 7520 rate, Tables F(0.2) through (20.0) (see paragraph (e)(6)(ii) of this section), and the formula in paragraph (e)(5)(i) of this section to derive a remainder factor from the appropriate mortality table to at least five decimal places. For the convenience of taxpayers, actuarial factors have been computed by the IRS and appear in Table U(1). For transfers for which the valuation date is on or after June 1, 2023, the actuarial tables are currently available, at no charge, electronically via the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables.* These actuarial tables are referenced and explained by IRS Publication 1458, *Actuarial Valuations Version 4B* (2023). This publication will be available within a reasonable time after June 1, 2023. See, however, § 1.7520-3(b) (relating to exceptions to the use of prescribed tables under certain circumstances).
 
-![](/graphics/er10au11.024.gif)![](/graphics/er10au11.025.gif)![](/graphics/er10au11.026.gif)![](/graphics/er10au11.027.gif)![](/graphics/er10au11.028.gif)![](/graphics/er10au11.029.gif)![](/graphics/er10au11.030.gif)![](/graphics/er10au11.031.gif)![](/graphics/er10au11.032.gif)![](/graphics/er10au11.033.gif)![](/graphics/er10au11.034.gif)![](/graphics/er10au11.035.gif)![](/graphics/er10au11.036.gif)![](/graphics/er10au11.037.gif)![](/graphics/er10au11.038.gif)
+(f) *Applicability date.* This section applies on and after June 1, 2023.
 
-(f) *Effective/applicability date.* This section applies on and after May 1, 2009.
-
-\[T.D. 8540, 59 FR 30117, June 10, 1994, as amended by T.D. 8819, 64 FR 23199, Apr. 30, 1999; T.D. 8886, 65 FR 36919, 36943, June 12, 2000; T.D. 9448, 74 FR 21465, May 7, 2009; T.D. 9540, 76 FR 49595, Aug. 10, 2011\]
+\[T.D. 8540, 59 FR 30117, June 10, 1994, as amended by T.D. 8819, 64 FR 23199, Apr. 30, 1999; T.D. 8886, 65 FR 36919, 36943, June 12, 2000; T.D. 9448, 74 FR 21465, May 7, 2009; T.D. 9540, 76 FR 49595, Aug. 10, 2011; T.D. 9974, 88 FR 37433, June 7, 2023\]

@@ -1,4 +1,4 @@
-##### § 20.2031-7A Valuation of annuities, interests for life or term of years, and remainder or reversionary interests for estates of decedents for which the valuation date of the gross estate is before May 1, 2009.
+##### § 20.2031-7A Valuation of annuities, interests for life or a term of years, and remainder or reversionary interests for estates of decedents for which the valuation date of the gross estate is before June 1, 2023.
 
 (a) *Valuation of annuities, interests for life or term of years, and remainder or reversionary interests for estates of decedents for which the valuation date of the gross estate is before January 1, 1952.* Except as otherwise provided in § 20.2031-7(b), if the valuation date of the decedent's gross estate is before January 1, 1952, the present value of annuities, life estates, terms for years, remainders, and reversions is their present value determined under this section. If the valuation of the interest involved is dependent upon the continuation or termination of one or more lives or upon a term certain concurrent with one or more lives, the factor for the present value is computed on the basis of interest at the rate of 4 percent a year, compounded annually, and life contingencies as to each life involved from values that are based on the Actuaries' or Combined Experience Table of Mortality, as extended. This table and related factors are described in former § 81.10 (as contained in the 26 CFR part 81 edition revised as of April 1, 1958). The present value of an interest measured by a term of years is computed on the basis of interest at the rate of 4 percent a year.
 
@@ -41,7 +41,6 @@ Example.The decedent was entitled to receive certain property worth $50,000 upon
 (6) *Tables.* The following tables shall be used in the application of the provisions of this section:
 
 Table A—Single Life, Unisex, 10 Percent—Table Showing the Present Worth of an Annuity, of a Life Estate, and a Remainder Interest—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
 | (1) Age | (2) Annuity | (3) Life estate | (4) Remainder |
 | ------- | ----------- | --------------- | ------------- |
 | 0       | 9.7188      | .97188          | .02812        |
@@ -156,7 +155,6 @@ Table A—Single Life, Unisex, 10 Percent—Table Showing the Present Worth of a
 | 109     | .4545       | .04545          | .95455        |
 
 Table B—Term Certain, Unisex, 10 Percent—Table Showing the Present Worth of an Annuity for a Term Certain, of an Income Interest for a Term Certain, and of a Remainder Interest Postponed for a Term Certain—Applicable for Transfers After November 30, 1983, and before May 1, 1989
-
 | (1) Number of years | (2) Annuity | (3) Term certain | (4) Remainder |
 | ------------------- | ----------- | ---------------- | ------------- |
 | 1                   | .9091       | .090909          | .909091       |
@@ -221,7 +219,6 @@ Table B—Term Certain, Unisex, 10 Percent—Table Showing the Present Worth of 
 | 60                  | 9.9672      | .996716          | .003284       |
 
 Table LN—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
 | (1) Age X | (2) lx  |
 | --------- | ------- |
 | 0         | 100,000 |
@@ -349,7 +346,6 @@ Table LN—Applicable for Transfers After November 30, 1983, and Before May 1, 1
 Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 
 \[Applicable After April 30, 1989, and Before May 1, 1999\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .07389        |
@@ -466,7 +462,6 @@ Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 
 \[Applicable After April 30, 1989, and Before May 1, 1999\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .03535        |
@@ -583,7 +578,6 @@ Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 
 \[Applicable After April 30, 1989, and Before May 1, 1999\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .02341        |
@@ -700,7 +694,6 @@ Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 
 \[Applicable After April 30, 1989, and Before May 1, 1999\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .01891        |
@@ -817,7 +810,6 @@ Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 
 \[Applicable After April 30, 1989, and Before May 1, 1999\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .01683        |
@@ -932,7 +924,6 @@ Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 | 109 | .94563        |
 
 Table 80CNSMT—Applicable After April 30, 1989, and Before May 1, 1999
-
 | Age × | 1( × ) | Age × | 1( × ) | Age × | 1( × ) |
 | ----- | ------ | ----- | ------ | ----- | ------ |
 | (1)   | (2)    | (1)   | (2)    | (1)   | (2)    |
@@ -991,7 +982,6 @@ Table 80CNSMT—Applicable After April 30, 1989, and Before May 1, 1999
 Table S—Based on Life on Life Table 90CM Single Life Remainder Factors, Applicable After April 30, 1999, and Before May 1, 2009
 
 \[Interest rate\]
-
 | Age | 4.2%   | 4.4%   | 4.6%   | 4.8%   | 5.0%   | 5.2%   | 5.4%   | 5.6%   | 5.8%   | 6.0%   |
 | --- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 0   | .06752 | .06130 | .05586 | .05109 | .04691 | .04322 | .03998 | .03711 | .03458 | .03233 |
@@ -1558,7 +1548,6 @@ Table S—Based on Life on Life Table 90CM Single Life Remainder Factors, Applic
 | 109 | .94563 | .94484 | .94405 | .94326 | .94248 | .94170 | .94092 | .94014 | .93937 | .93860 |
 
 Table 90CM—Applicable After April 30, 1999, and Before May 1, 2009
-
 | Age ×   (1) | l(x)   (2) | Age ×   (1) | l(x)   (2) | Age ×   (1) | l(x)   (2) |
 | ----------- | ---------- | ----------- | ---------- | ----------- | ---------- |
 | 0           | 100000     | 37          | 95969      | 74          | 62852      |
@@ -1599,4 +1588,22 @@ Table 90CM—Applicable After April 30, 1999, and Before May 1, 2009
 | 35          | 96322      | 72          | 67344      | 109         | 17         |
 | 36          | 96150      | 73          | 65154      | 110         | 0          |
 
-\[T.D. 8540, 59 FR 30151, June 10, 1994, as amended at 59 FR 30152, June 10, 1994; T.D. 8819, 64 FR 23211, 23212, Apr. 30, 1999; 64 FR 33195, June 22, 1999; T.D. 8886, 65 FR 36943, June 12, 2000; T.D. 9448, 74 FR 21509, May 7, 2009; T.D. 9540, 76 FR 49637, Aug. 10, 2011\]
+(g) *Valuation of annuities, interests for life or a term of years, and remainder or reversionary interests for estates of decedents for which the valuation date of the gross estate is on or after May 1, 2009, and before June 1, 2023*—(1) *In general.* Except as otherwise provided in §§ 20.2031-7(b) and 20.7520-3(b) (pertaining to certain limitations on the use of prescribed tables), if the valuation date for the gross estate of the decedent is on or after May 1, 2009, and before June 1, 2023, the fair market value of annuities, interests for life or a term of years, and remainder or reversionary interests is the present value of the interests determined by using standard or special section 7520 actuarial factors and the valuation methodology described in § 20.2031-7(d). These factors are derived by using the appropriate section 7520 interest rate and, if applicable, the mortality component for the valuation date of the interest that is being valued. See §§ 20.7520-1 through 20.7520-4. See paragraph (g)(4) of this section for determination of the appropriate table for use in valuing these interests.
+
+(2) *Transitional rules.* (i) If a decedent dies on or after May 1, 2009, and if, on May 1, 2009, the decedent was under a mental disability so that the disposition of the decedent's property could not be changed, and the decedent dies on or before June 1, 2023, either without having regained the ability to dispose of the decedent's property or within 90 days of the date on which the decedent first regains that ability, the fair market value of annuities, interests for life or a term of years, and remainder or reversionary interests included in the gross estate of the decedent is their present value determined either under this section or under the corresponding section applicable at the time the decedent first became subject to the mental disability, at the option of the decedent's executor. For example, see paragraph (d) of this section.
+
+(ii) If a decedent dies on or after May 1, 2009, and before July 1, 2009, the fair market value of annuities, interests for life or a term of years, and remainder or reversionary interests based on one or more measuring lives included in the gross estate of the decedent is their present value determined under this section by using the section 7520 interest rate for the month in which the valuation date occurs (see §§ 20.7520-1(b) and 20.7520-2(a)(2)) and the appropriate actuarial tables under either paragraph (f)(4) or (g)(4) of this section, at the option of the decedent's executor.
+
+(iii) For purposes of paragraphs (g)(2)(i) and (ii) of this section, where the decedent's executor is given the option to use the appropriate actuarial tables under either paragraph (f)(4) or (g)(4) of this section, the decedent's executor must consistently use the same mortality basis with respect to each interest (income, remainder, partial, etc.) in the same property, and with respect to all transfers occurring on the same valuation date. For example, gift and income tax charitable deductions with respect to the same transfer must be determined based on factors with the same mortality basis, and all assets includible in the gross estate and/or estate tax deductions claimed must be valued based on factors with the same mortality basis.
+
+(iv) If a decedent dies after April 30, 2019, and before June 1, 2023, the fair market value of annuities, interests for life or a term of years, and remainder or reversionary interests based on one or more measuring lives included in the gross estate is their present value determined under § 20.2031-7(d)(3).
+
+(3) *Publications and actuarial computations by the Internal Revenue Service.* The factor for determining the present value of a remainder interest that is dependent on the termination of the life of one individual may be computed by using the formula in § 20.2031-7(d)(2)(ii)(B) to derive a remainder factor from the appropriate mortality table expressed to at least five decimal places. For the convenience of taxpayers, actuarial factors have been computed by the IRS and appear in Table S. The factor for determining the present value of a remainder interest following a term certain may be computed by using the formula in § 20.2031-7(d)(2)(ii)(A) expressed to at least six decimal places. For the convenience of taxpayers, actuarial factors have been computed by the IRS and appear in Table B. Adjustment factors for term certain annuities payable at the beginning of each interval may be computed by using the formula in § 20.2031-7(d)(2)(iv)(C) expressed to at least four decimal places. For the convenience of taxpayers, actuarial factors have been computed by the IRS and appear in Table J. Adjustment factors for annuities payable at the end of each interval may be computed by using the formula in § 20.2031-7(d)(2)(iv)(B) expressed to at least four decimal places. For the convenience of taxpayers, actuarial factors have been computed by the IRS and appear in Table K. These tables are referenced and explained by IRS Publication 1457, *Actuarial Values Version 3A* (2009). Publication 1457 includes examples that illustrate how to compute many special factors for more unusual situations. The actuarial tables are available, at no charge, electronically via the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables* (or a corresponding URL as may be updated from time to time). Table S also can be found in paragraph (g)(4) of this section, but only for interest rates from 0.2 to 14 percent, inclusive. Tables B, J, and K also can be found in § 20.2031-7(d)(6), but only for interest rates from 4.2 to 14 percent, inclusive. If a special factor is required in the case of an actual decedent, the special factor may be calculated by the executor using the actuarial formulas in § 20.2031-7(d)(2) or the executor may request a ruling to obtain the factor from the Internal Revenue Service. The request for a ruling must be accompanied by a recitation of the facts including a statement of the date of birth for each measuring life, the date of the decedent's death, any other applicable dates, and a copy of the will, trust, or other relevant documents. A request for a ruling must comply with the instructions for requesting a ruling published periodically in the Internal Revenue Bulletin (see §§ 601.201 and 601.601(d)(2)(ii)(*b*) of this chapter) and must include payment of the required user fee.
+
+(4) *Actuarial tables.* Except as provided in § 20.7520-3(b) (pertaining to certain limitations on the use of prescribed tables), actuarial factors based on Table 2000CM must be used in the application of the provisions of this section. The factor for determining the present value of a remainder interest that is dependent on the termination of the life of one individual may be computed by using the formula in § 20.2031-7(d)(2)(ii)(B) to derive a remainder factor from the appropriate mortality table to at least five decimal places. For the convenience of taxpayers, actuarial factors, when the section 7520 interest rate component is from 0.2 to 20 percent, inclusive, have been computed by the IRS and appear in Table S (applicable on and after May 1, 2009, and before June 1, 2023). These actuarial tables, as referenced and explained by IRS Publication 1457, *Actuarial Valuations Version 3A,* are available, at no charge, electronically via the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables.* Table S (notwithstanding the lack of the applicable termination date in its heading), where the section 7520 interest rate component is from 0.2 to 14 percent, inclusive, and Table 2000CM are as follows:
+
+![](/graphics/er10au11.039.gif)![](/graphics/er10au11.040.gif)![](/graphics/er10au11.041.gif)![](/graphics/er10au11.042.gif)![](/graphics/er10au11.043.gif)![](/graphics/er10au11.044.gif)![](/graphics/er10au11.045.gif)![](/graphics/er10au11.046.gif)![](/graphics/er10au11.047.gif)![](/graphics/er10au11.048.gif)![](/graphics/er10au11.049.gif)![](/graphics/er10au11.050.gif)![](/graphics/er10au11.051.gif)![](/graphics/er10au11.052.gif)![](/graphics/er10au11.053.gif)![](/graphics/er10au11.054.gif)![](/graphics/er10au11.055.gif)![](/graphics/er10au11.056.gif)![](/graphics/er10au11.057.gif)![](/graphics/er10au11.058.gif)![](/graphics/er10au11.059.gif)![](/graphics/er10au11.060.gif)
+
+(5) *Applicability dates.* Paragraphs (g)(1) through (4) of this section apply on and after May 1, 2009, and before June 1, 2023.
+
+\[T.D. 8540, 59 FR 30151, June 10, 1994, as amended at 59 FR 30152, June 10, 1994; T.D. 8819, 64 FR 23211, 23212, Apr. 30, 1999; 64 FR 33195, June 22, 1999; T.D. 8886, 65 FR 36943, June 12, 2000; T.D. 9448, 74 FR 21509, May 7, 2009; T.D. 9540, 76 FR 49637, Aug. 10, 2011; T.D. 9974, 88 FR 37445, June 7, 2023\]

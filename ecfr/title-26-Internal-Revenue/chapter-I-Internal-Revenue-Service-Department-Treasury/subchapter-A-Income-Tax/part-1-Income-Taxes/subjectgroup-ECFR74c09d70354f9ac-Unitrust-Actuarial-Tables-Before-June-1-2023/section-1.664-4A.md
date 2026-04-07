@@ -1,4 +1,4 @@
-##### § 1.664-4A Valuation of charitable remainder interests for which the valuation date is before May 1, 2009.
+##### § 1.664-4A Valuation of charitable remainder interests for which the valuation date is before June 1, 2023.
 
 (a) *Valuation of charitable remainder interests for which the valuation date is before January 1, 1952.* There was no provision for the qualification of a charitable remainder unitrust under section 664 until 1969. See § 20.2031-7A(a) of this chapter (Estate Tax Regulations) for the determination of the present value of a charitable interest for which the valuation date is before January 1, 1952.
 
@@ -20,76 +20,37 @@
 
 Example.D transfers $100,000 to a charitable remainder unitrust on January 1, 1985. The trust instrument requires that the trust pay to D semiannually (on June 30 and December 31) 10 percent of the fair market value of the trust assets as of June 30th for a term of 15 years. The adjusted payout rate is 9.767 percent (10% × 0.976731). The present value of the remainder interest is $21,404.90, computed as follows:
 
-Factor at 9.6 percent for 15 years
-
-0.220053 
-
-Factor at 9.8 percent for 15 years
-
-.212862 
-
-Difference
-
-.007191
+| Factor at 9.6 percent for 15 years | 0.220053 |
+| Factor at 9.8 percent for 15 years | .212862  |
+| Difference                         | .007191  |
 
 ![](/graphics/ec14no91.134.gif)9.767% − 9.6 ÷ 0.2% == ÷ .007191 X === .006004
 
-Factor at 9.6 percent for 15 years
-
-0.220053 
-
-Less: X
-
-.006004 
-
-Interpolated factor
-
-.214049 
-
-Present value of remainder interest = $100,000 × 0.214049 = $21,404.90
+| Factor at 9.6 percent for 15 years                                     | 0.220053 |
+| Less: X                                                                | .006004  |
+| Interpolated factor                                                    | .214049  |
+| Present value of remainder interest = $100,000 × 0.214049 = $21,404.90 |          |
 
 (5) *Period is the life of one individual.* If the period described in paragraph (a)(5) of § 1.664-3 is the life of one individual, the factor that is used in determining the present value of the remainder interest is the factor under the appropriate adjusted payout rate in column (2) of Table E in paragraph (d)(6) of this section opposite the number in column (1) that corresponds to the age of the individual whose life measures the period. For purposes of the computations described in this paragraph (b)(5), the age of an individual is to be taken as the age of that individual at the individual's nearest birthday. If the adjusted payout rate is an amount which is between adjusted payout rates for which factors are provided for in Table E, a linear interpolation must be made. The present value of the remainder interest is determined by multiplying the net fair market value (as of the appropriate valuation date) of the property placed in trust by the factor determined under this paragraph (b)(5). If the adjusted payout rate is greater than 14 percent, see § 1.664-4(b). The application of this paragraph may be illustrated by the following example:
 
 Example.A, who will be 50 years old on April 15, 1985, transfers $100,000 to a charitable remainder unitrust on January 1, 1985. The trust instrument requires that the trust pay to A at the end of each taxable year of the trust 10 percent of the fair market value of the trust assets as of the beginning of each taxable year of the trust. The adjusted payout rate is 9.091 percent (10 percent × .909091). The present value of the remainder interest is $15,259.00 computed as follows:
 
-Factor at 9 percent at age 50
-
-0.15472 
-
-Factor at 9.2 percent at age 50
-
-.15003 
-
-Difference
-
-.00469 
-
-9.091% − 9% ÷ 0.2% = X ÷ 0.00469 
-
-x = 0.00213 
-
-Factor at 9 percent at age 50
-
-.15472 
-
-Less: X
-
-.00213 
-
-Interpolated factor
-
-.15259 
-
-Present value of remainder interest = 
-
-$100,000 × 0.15259 = $15,259.00
+| Factor at 9 percent at age 50         | 0.15472 |
+| Factor at 9.2 percent at age 50       | .15003  |
+| Difference                            | .00469  |
+| 9.091% − 9% ÷ 0.2% = X ÷ 0.00469      |         |
+| x = 0.00213                           |         |
+| Factor at 9 percent at age 50         | .15472  |
+| Less: X                               | .00213  |
+| Interpolated factor                   | .15259  |
+| Present value of remainder interest = |         |
+| $100,000 × 0.15259 = $15,259.00       |         |
 
 (6) *Actuarial tables for transfers for which the valuation date is after November 30, 1983, and before May 1, 1989.* Table D in § 1.664-4(e)(6) and the following tables shall be used in the application of the provisions of this section:
 
 Table E
 
-Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
+**Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 | (1) Age | (2) Adjusted payout rate |
 | ------- | ------------------------ |
 | 0       | .23253                   |
@@ -205,8 +166,7 @@ Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 
 Table E
 
-Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
+**Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 | (1) Years | (2) Adjusted payout rate |
 | --------- | ------------------------ |
 | 0         | .13196                   |
@@ -322,8 +282,7 @@ Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 
 Table E
 
-Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
+**Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 | (1) Age | (2) Adjusted payout rate |
 | ------- | ------------------------ |
 | 0       | .08183                   |
@@ -439,8 +398,7 @@ Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 
 Table E
 
-Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
+**Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 | (1) Age | (2) Adjusted payout rate |
 | ------- | ------------------------ |
 | 0       | .05615                   |
@@ -556,8 +514,7 @@ Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 
 Table E
 
-Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
+**Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 | (1) Age | (2) Adjusted Payout Rate |
 | ------- | ------------------------ |
 | 0       | .04253                   |
@@ -673,8 +630,7 @@ Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 
 Table E
 
-Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
+**Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 | (1) Age | (2) Adjusted payout rate |
 | ------- | ------------------------ |
 | 0       | .03499                   |
@@ -790,8 +746,7 @@ Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 
 Table E
 
-Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
+**Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 | (1) Age | (2) Adjusted payout rate |
 | ------- | ------------------------ |
 | 0       | .03059                   |
@@ -907,8 +862,7 @@ Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 
 Table E
 
-Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
+**Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 | (1) Age | (2) Adjusted payout Rate |
 | ------- | ------------------------ |
 | 0       | .02788                   |
@@ -1024,8 +978,7 @@ Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 
 Table E
 
-Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
+**Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 | (1) Age | (2) Adjusted payout rate |
 | ------- | ------------------------ |
 | 0       | .02610                   |
@@ -1141,8 +1094,7 @@ Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 
 Table E
 
-Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
+**Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 | (1) Age | (2) Adjusted payout rate |
 | ------- | ------------------------ |
 | 0       | .02487                   |
@@ -1258,8 +1210,7 @@ Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 
 Table E
 
-Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
+**Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 | (1) Age | (2) Adjusted payout rate |
 | ------- | ------------------------ |
 | 0       | .02396                   |
@@ -1375,8 +1326,7 @@ Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 
 Table E
 
-Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
+**Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 | (1) Age | (2) Adjusted payout rate |
 | ------- | ------------------------ |
 | 0       | .02325                   |
@@ -1492,8 +1442,7 @@ Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 
 Table F(1)
 
-Table F(1)—10 Percent—Table Showing Factors for Computations of the Adjusted Payout Rate for Certain Valuations and Payout Sequences—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
+**Table F(1)—10 Percent—Table Showing Factors for Computations of the Adjusted Payout Rate for Certain Valuations and Payout Sequences—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 | (1) Number of months by which the valuation date precedes the first payout | (2) Factors for payout at the end of each |
 | -------------------------------------------------------------------------- | ----------------------------------------- |
 |                                                                            | 1                                         |
@@ -1527,7 +1476,6 @@ Table F(1)—10 Percent—Table Showing Factors for Computations of the Adjusted
 Table U(1)—Unitrust Single Life Remainder Factors—Based on Life Table 80CNSMT
 
 \[Applicable for Transfers After April 30, 1989, and Before May 1, 1999\]
-
 | Age | Adjusted payout rate |
 | --- | -------------------- |
 | 0   | .06797               |
@@ -1644,7 +1592,6 @@ Table U(1)—Unitrust Single Life Remainder Factors—Based on Life Table 80CNSM
 Table U(1)—Based on Life Table 80CNSMT Unitrust Single Life Remainder Factors
 
 \[Applicable After April 30, 1989\]
-
 | Age | Adjusted payout rate |
 | --- | -------------------- |
 | 0   | .03176               |
@@ -1761,7 +1708,6 @@ Table U(1)—Based on Life Table 80CNSMT Unitrust Single Life Remainder Factors
 Table U(1)—Based on Life Table 80CNSMT Unitrust Single Life Remainder Factors
 
 \[Applicable after APRIL 30, 1989\]
-
 | Age | Adjusted payout rate |
 | --- | -------------------- |
 | 0   | .02130               |
@@ -1878,7 +1824,6 @@ Table U(1)—Based on Life Table 80CNSMT Unitrust Single Life Remainder Factors
 Table U(1)—Based on Life Table 80CNSMT Unitrust Single Life Remainder Factors
 
 \[Applicable after APRIL 30, 1989\]
-
 | Age | Adjusted payout rate |
 | --- | -------------------- |
 | 0   | .01754               |
@@ -1995,7 +1940,6 @@ Table U(1)—Based on Life Table 80CNSMT Unitrust Single Life Remainder Factors
 Table U(1)—Based on Life Table 80CNSMT Unitrust Single Life Remainder Factors
 
 \[Applicable after April 30, 1989\]
-
 | Age | Adjusted payout rate |
 | --- | -------------------- |
 | 0   | .01581               |
@@ -2128,7 +2072,6 @@ Table U(1)—Based on Life Table 80CNSMT Unitrust Single Life Remainder Factors
 Table U(1)—Based on Life Table 90CM Unitrust Single Life Remainder Factors
 
 \[Applicable After April 30, 1999, and Before May 1, 2009\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .06177        |
@@ -2245,7 +2188,6 @@ Table U(1)—Based on Life Table 90CM Unitrust Single Life Remainder Factors
 Table U(1)—Based on Life Table 90CM Unitrust Single Life Remainder Factors
 
 \[Applicable After April 30, 1999, and Before May 1, 2009\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .02693        |
@@ -2362,7 +2304,6 @@ Table U(1)—Based on Life Table 90CM Unitrust Single Life Remainder Factors
 Table U(1)—Based on Life Table 90CM Unitrust Single Life Remainder Factors
 
 \[Applicable After April 30, 1999, and Before May 1, 2009\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .01709        |
@@ -2479,7 +2420,6 @@ Table U(1)—Based on Life Table 90CM Unitrust Single Life Remainder Factors
 Table U(1)—Based on Life Table 90CM Unitrust Single Life Remainder Factors
 
 \[Applicable After April 30, 1999, and Before May 1, 2009\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .01363        |
@@ -2596,7 +2536,6 @@ Table U(1)—Based on Life Table 90CM Unitrust Single Life Remainder Factors
 Table U(1)—Based on Life Table 90CM Unitrust Single Life Remainder Factors
 
 \[Applicable After April 30, 1999, and Before May 1, 2009\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .01208        |
@@ -2712,4 +2651,26 @@ Table U(1)—Based on Life Table 90CM Unitrust Single Life Remainder Factors
 
 (7) *Effective/applicability dates.* Paragraphs (f)(1) through (f)(6) apply after April 30, 1999, and before May 1, 2009.
 
-\[T.D. 8540, 59 FR 30102, 30116, 30117, 30148, June 10, 1994, as amended by T.D. 8819, 64 FR 23199, 23209, Apr. 30, 1999; T.D. 8886, 65 FR 36943, June 12, 2000; T.D. 9448, 74 FR 21465, 21482, May 7, 2009; T.D. 9540, 76 FR 49612, Aug. 10, 2011\]
+(g) *Valuation of charitable remainder unitrusts having certain payout sequences for transfers for which the valuation date is on or after May 1, 2009, and before June 1, 2023*—(1) *In general.* Except as otherwise provided in paragraph (g)(2) of this section, in the case of transfers for which the valuation date is on or after May 1, 2009, and before June 1, 2023, the present value of a remainder interest is determined under paragraphs (g)(3) through (6) of this section, provided that the amount of the payout as of any payout date during any taxable year of the trust is not larger than the amount that the trust could distribute on such date under § 1.664-3(a)(1)(v) if the taxable year of the trust were to end on such date. See, however, § 1.7520-3(b) (relating to exceptions to the use of the prescribed tables under certain circumstances).
+
+(2) *Transitional rules for valuation of charitable remainder unitrusts.* (i) For purposes of section 2055, 2106, or 2624, if on May 1, 2009, the decedent was under a mental disability so that the disposition of the property could not be changed, and the decedent died on or after May 1, 2009, but before June 2, 2023, without having regained the ability to dispose of the decedent's property, or if the decedent died within 90 days of the date that the decedent first regained that ability on or after May 1, 2009, but before June 2, 2023, the present value of a remainder interest under this section is determined as if the valuation date with respect to the decedent's gross estate is either before May 1, 2009, or after April 30, 2009, at the option of the decedent's executor.
+
+(ii) For purposes of section 170, 2055, 2106, 2522, or 2624, in the case of transfers to a charitable remainder unitrust for which the valuation date is on or after May 1, 2009, and before July 1, 2009, the present value of a remainder interest based on one or more measuring lives is determined under this section by using the section 7520 interest rate for the month in which the valuation date occurs (see §§ 1.7520-1(b) and 1.7520-2(a)(2)) and the appropriate actuarial tables under either paragraph (f)(6) or (g)(6) of this section, at the option of the donor or the decedent's executor, as the case may be.
+
+(iii) For purposes of paragraphs (g)(2)(i) and (ii) of this section, where the donor or decedent's executor is given the option to use the appropriate actuarial tables under either paragraph (f)(6) or (g)(6) of this section, the donor or decedent's executor must consistently use the same mortality basis with respect to each interest (income, remainder, partial, etc.) in the same property, and with respect to all transfers occurring on the same valuation date. For example, gift and income tax charitable deductions with respect to the same transfer must be determined based on factors with the same mortality basis, and all assets includible in the gross estate and/or estate tax deductions claimed must be valued based on factors with the same mortality basis.
+
+(iv) In the case of transfers to a charitable remainder unitrust for which the valuation date is after April 30, 2019, and before June 1, 2023, the present value of the remainder interest under this section is determined under § 1.664(c)-4(e)(2).
+
+(3) *Adjusted payout rate.* The adjusted payout rate is determined by applying the formula in § 1.664-4(e)(6)(ii) for the section 7520 interest rate applicable to the transfer to derive a factor and calculating the final result to at least six decimal places. For the convenience of taxpayers, actuarial factors have been computed by the IRS, for interest rates from 0.2 to 20 percent, inclusive, and appear in Tables F(0.2) through F(20.0). Tables F(0.2) through F(20.0) can be found on the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables* (or a corresponding URL as may be updated from time to time). Tables F(0.2) through F(20.0) are referenced and explained in IRS Publication 1458, *Actuarial Valuations Version 3B.* The payout adjustment factors from Table F can also be found in § 1.664-4(e)(6)(iii), but only for interest rates from 4.2 to 14 percent, inclusive. Alternatively, the Commissioner may supply a factor upon a request for a ruling. See § 1.664-4(b). See § 1.664-4(e) for rules applicable in determining the adjusted payout rate.
+
+(4) *Period is a term of years.* If the period described in § 1.664-3(a)(5) is a term of years, the factor that is used in determining the present value of the remainder interest is determined by applying the formula in § 1.664-4(e)(6)(i) under the appropriate adjusted payout rate corresponding to the number of years in the term and calculating the final result to at least six decimal places. For the convenience of taxpayers, actuarial factors have been computed by the IRS and appear in Table D. Table D can be found on the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables* (or a corresponding URL as may be updated from time to time). Table D is referenced and explained in IRS Publication 1458, *Actuarial Valuations Version 3B.* The remainder factors from Table D also can be found in § 1.664-4(e)(6)(iii), but only for adjusted payout rates from 4.2 to 14 percent, inclusive. If the adjusted payout rate is a percentage that is between the adjusted payout rate for which factors are provided by Table D, an exact method of obtaining the applicable remainder factors (such as through software using the actual rate of return and the actuarial formula provided in § 1.664-4(e)(6)(i)) or a linear interpolation must be used, provided whichever method used is applied consistently in valuing all interests in the same property. The applicable remainder factors derived by an exact method or by interpolation must be expressed to at least six decimal places. The present value of the remainder interest is determined by multiplying the net fair market value (as of the appropriate valuation date) of the property placed in trust by the factor determined under this paragraph (g)(4). Generally, for purposes of this section, the valuation date is, in the case of an inter vivos transfer, the date on which the property is transferred to the trust by the donor, and, in the case of a testamentary transfer under section 2055, 2106, or 2624, the valuation date is the date of death. See § 1.664-4(e)(4) for additional rules regarding the valuation date, and for an example that illustrates the application of this paragraph (g)(4).
+
+(5) *Period is the life of one individual.* If the period described in § 1.664-3(a)(5) is the life of one individual, the factor that is used in determining the present value of the remainder interest for transfers for which the valuation date is on or after May 1, 2009, and before June 1, 2023, may be computed directly by using the formula in § 1.664-4(e)(5)(i) to derive a remainder factor from the appropriate mortality table and calculating the final result to at least five decimal places. For the convenience of taxpayers, actuarial factors have been computed by the IRS and appear in Table U(1). Table U(1) can be found on the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables* (or a corresponding URL as may be updated from time to time). Table U(1) is referenced and explained in IRS Publication 1458, *Actuarial Valuations Version 3B.* The remainder factors from Table U(1) also can be found in paragraph (g)(6) of this section, but only for adjusted payout rates from 4.2 to 14 percent, inclusive. For purposes of the computations described in this paragraph (g)(5), the age of an individual is the age of that individual at the individual's nearest birthday. If the adjusted payout rate is a percentage that is between the adjusted payout rate for which factors are provided by Table U(1), an exact method of obtaining the applicable factors (such as through software using the actual rate of return and the actuarial formula provided in § 1.664-4(e)(5)(i)) or a linear interpolation must be used, provided whichever method used is applied consistently in valuing all interests in the same property. The applicable remainder factors derived by an exact method or by interpolation must be expressed to at least five decimal places. The rules provided in § 1.664-4(e)(5) apply for determining the present value of the remainder interest. See § 1.664-4(e)(5) for an example illustrating the application of this paragraph (g)(5) (using current actuarial tables).
+
+(6) *Actuarial Table U(1) for transfers for which the valuation date is on or after May 1, 2009, and before June 1, 2023.* For transfers for which the valuation date is on or after May 1, 2009, and before June 1, 2023, and without regard to the headings in the tables in this paragraph (g)(6) that do not contain this termination date for the applicability of the tables, the present value of a charitable remainder unitrust interest that is dependent on the termination of a life interest is determined by using the section 7520 rate, Table U(1) in this paragraph (g)(6), and Tables F(4.2) through F(14.0) in § 1.664-4(e)(6)(iii). See, however, § 1.7520-3(b) (relating to exceptions to the use of prescribed tables under certain circumstances). Actuarial factors that do not appear in the following tables may be computed directly by using the formula in § 1.664-4(e)(5)(i) to derive remainder factors from the appropriate mortality table and calculating the result to at least five decimal places. For the convenience of taxpayers, actuarial factors have been computed by the IRS and appear in Table U(1) that is referenced and explained by IRS Publication 1458, *Actuarial Valuations Version 3B* (2009). The table is available at no charge, electronically via the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables* (or a corresponding URL as may be updated from time to time).
+
+![](/graphics/er10au11.024.gif)![](/graphics/er10au11.025.gif)![](/graphics/er10au11.026.gif)![](/graphics/er10au11.027.gif)![](/graphics/er10au11.028.gif)![](/graphics/er10au11.029.gif)![](/graphics/er10au11.030.gif)![](/graphics/er10au11.031.gif)![](/graphics/er10au11.032.gif)![](/graphics/er10au11.033.gif)![](/graphics/er10au11.034.gif)![](/graphics/er10au11.035.gif)![](/graphics/er10au11.036.gif)![](/graphics/er10au11.037.gif)![](/graphics/er10au11.038.gif)
+
+(7) *Applicability dates.* Paragraphs (g)(1) through (6) of this section apply on and after May 1, 2009, and before June 1, 2023.
+
+\[T.D. 8540, 59 FR 30102, 30116, 30117, 30148, June 10, 1994, as amended by T.D. 8819, 64 FR 23199, 23209, Apr. 30, 1999; T.D. 8886, 65 FR 36943, June 12, 2000; T.D. 9448, 74 FR 21465, 21482, May 7, 2009; T.D. 9540, 76 FR 49612, Aug. 10, 2011; T.D. 9974, 88 FR 37433, June 7, 2023; 88 FR 37436, June 7, 2023\]

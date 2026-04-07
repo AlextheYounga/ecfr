@@ -1,4 +1,4 @@
-##### § 1.642(c)-6A Valuation of charitable remainder interests for which the valuation date is before May 1, 2009.
+##### § 1.642(c)-6A Valuation of charitable remainder interests for which the valuation date is before June 1, 2023.
 
 (a) *Valuation of charitable remainder interests for which the valuation date is before January 1, 1952.* There was no provision for the qualification of pooled income funds under section 642 until 1969. See § 20.2031-7A(a) of this chapter (Estate Tax Regulations) for the determination of the present value of a charitable remainder interest created before January 1, 1952.
 
@@ -18,46 +18,24 @@
 
 Example.A, who will be 50 years old on April 15, 1985, transfers $100,000 to a pooled income fund on January 1, 1985, and retains a life income interest in such property. The highest yearly rate of return earned by the fund for its 3 preceding taxable years is 9.9 percent. In Table G the figure in column (2) opposite 50 years under 9.8 percent is .15653 and under 10 percent is .15257. The present value of the remainder interest is $15,455, computed as follows:
 
-Factor at 9.8 percent for person aged 50
-
-.15653 
-
-Factor at 10 percent for person aged 50
-
-.15257 
-
-Difference
-
-.00396 
-
-Interpolation adjustment:
+| Factor at 9.8 percent for person aged 50 | .15653 |
+| Factor at 10 percent for person aged 50  | .15257 |
+| Difference                               | .00396 |
+| Interpolation adjustment:                |        |
 
 ![](/graphics/ec14no91.133.gif)
 
-Factor at 9.8 percent for person aged 50
-
-0.15653 
-
-Less: 
-
-Interpolation adjustment
-
-.00198 
-
-Interpolated factor
-
-.15455 
-
-Present value of remainder interest ($100,000 × .15455
-
-$15,455
+| Factor at 9.8 percent for person aged 50               | 0.15653 |
+| Less:                                                  |         |
+| Interpolation adjustment                               | .00198  |
+| Interpolated factor                                    | .15455  |
+| Present value of remainder interest ($100,000 × .15455 | $15,455 |
 
 (4) *Actuarial tables.* The following tables shall be used in the application of the provisions of this section.
 
 Table G
 
 Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Pooled Income Fund Having the Yearly Rate of Return Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
 | (1) Age | (2) Yearly rate of return |
 | ------- | ------------------------- |
 | 0       | .23930                    |
@@ -174,7 +152,6 @@ Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 Table G
 
 Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Pooled Income Fund Having the Yearly Rate of Return Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
 | (1) Age | (2) Yearly rate of return |
 | ------- | ------------------------- |
 | 0       | .13908                    |
@@ -291,7 +268,6 @@ Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 Table G
 
 Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Pooled Income Fund Having the Yearly Rate of Return Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
 | (1) Age | (2) Yearly rate of return |
 | ------- | ------------------------- |
 | 0       | .08811                    |
@@ -408,7 +384,6 @@ Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 Table G
 
 Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Pooled Income Fund Having the Yearly Rate of Return Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
 | (1) Age | (2) Yearly rate of return |
 | ------- | ------------------------- |
 | 0       | .06126                    |
@@ -525,7 +500,6 @@ Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 Table G
 
 Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Pooled Income Fund Having the Yearly Rate of Return Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
 | (1) Age | (2) Yearly rate of return |
 | ------- | ------------------------- |
 | 0       | .04653                    |
@@ -642,7 +616,6 @@ Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 Table G
 
 Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Pooled Income Fund Having the Yearly Rate of Return Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
 | (1) Age | (2) Yearly rate of return |
 | ------- | ------------------------- |
 | 0       | .03811                    |
@@ -759,7 +732,6 @@ Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 Table G
 
 Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Pooled Income Fund Having the Yearly Rate of Return Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
 | (1) Age | (2) Yearly rate of return |
 | ------- | ------------------------- |
 | 0       | .03305                    |
@@ -876,7 +848,6 @@ Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 Table G
 
 Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Pooled Income Fund Having the Yearly Rate of Return Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
 | (1) Age | (2) Yearly rate of return |
 | ------- | ------------------------- |
 | 0       | .02987                    |
@@ -993,7 +964,6 @@ Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 Table G
 
 Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Pooled Income Fund Having the Yearly Rate of Return Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
 | (1) Age | (2) Yearly rate of return |
 | ------- | ------------------------- |
 | 0       | .02776                    |
@@ -1110,7 +1080,6 @@ Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 Table G
 
 Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Pooled Income Fund Having the Yearly Rate of Return Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
 | (1) Age | (2) Yearly rate of return |
 | ------- | ------------------------- |
 | 0       | .02630                    |
@@ -1227,7 +1196,6 @@ Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 Table G
 
 Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Pooled Income Fund Having the Yearly Rate of Return Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
 | (1) Age | (2) Yearly rate of return |
 | ------- | ------------------------- |
 | 0       | .02523                    |
@@ -1344,7 +1312,6 @@ Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 Table G
 
 Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Pooled Income Fund Having the Yearly Rate of Return Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989
-
 | (1) Age | (2) Yearly rate of return |
 | ------- | ------------------------- |
 | 0       | .02442                    |
@@ -1475,7 +1442,6 @@ Table G—Single Life, Unisex—Table Showing the Present Worth of the Remainder
 Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 
 \[Applicable After April 30, 1989, and Before May 1, 1999\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .07389        |
@@ -1592,7 +1558,6 @@ Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 
 \[Applicable After April 30, 1989, and Before May 1, 1999\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .03535        |
@@ -1709,7 +1674,6 @@ Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 
 \[Applicable After April 30, 1989, and Before May 1, 1999\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .02341        |
@@ -1826,7 +1790,6 @@ Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 
 \[Applicable After April 30, 1989, Before May 1, 1999\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .01891        |
@@ -1943,7 +1906,6 @@ Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 
 \[Applicable After April 30, 1989, and Before May 1, 1999\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .01683        |
@@ -2080,7 +2042,6 @@ Table S—Based on Life Table 80CNSMT Single Life Remainder Factors
 Table S—Based on Life Table 90CM Single Life Remainder Factors
 
 \[Applicable After April 30, 1999, and Before May 1, 2009\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .06752        |
@@ -2197,7 +2158,6 @@ Table S—Based on Life Table 90CM Single Life Remainder Factors
 Table S—Based on Life Table 90CM Single Life Remainder Factors
 
 \[Applicable After April 30, 1999, and Before May 1, 2009\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .03034        |
@@ -2314,7 +2274,6 @@ Table S—Based on Life Table 90CM Single Life Remainder Factors
 Table S—Based on Life Table 90CM Single Life Remainder Factors
 
 \[Applicable After April 30, 1999, and Before May 1, 2009\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .01906        |
@@ -2431,7 +2390,6 @@ Table S—Based on Life Table 90CM Single Life Remainder Factors
 Table S—Based on Life Table 90CM Single Life Remainder Factors
 
 \[Applicable After April 30, 1999, and Before May 1, 2009\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .01488        |
@@ -2548,7 +2506,6 @@ Table S—Based on Life Table 90CM Single Life Remainder Factors
 Table S—Based on Life Table 90CM Single Life Remainder Factors
 
 \[Applicable After April 30, 1999, and Before May 1, 2009\]
-
 | Age | Interest rate |
 | --- | ------------- |
 | 0   | .01298        |
@@ -2664,4 +2621,30 @@ Table S—Based on Life Table 90CM Single Life Remainder Factors
 
 (7) *Effective/applicability dates.* Paragraphs (f)(1) through (f)(6) apply after April 30, 1999, and before May 1, 2009.
 
-\[Redesignated at 36 FR 6480, Apr. 6, 1971, as amended by T.D. 8540, 59 FR 30102, 30105, 30116, June 10, 1994; T.D. 8819, 64 FR 23190, 23199, 23228, Apr. 30, 1999; 64 FR 33196, June 22, 1999; T.D. 8886, 65 FR 36943, June 12, 2000; T.D. 9448, 74 FR 21440, 21464, May 7, 2009; T.D. 9540, 76 FR 49612, Aug. 10, 2011\]
+(g) *Present value of the remainder interest in the case of transfers to pooled income funds for which the valuation date is on or after May 1, 2009, and before June 1, 2023*—(1) *In general.* In the case of transfers to pooled income funds for which the valuation date is on or after May 1, 2009, and before June 1, 2023, the present value of a remainder interest is determined under this section. See, however, § 1.7520-3(b) (relating to exceptions to the use of prescribed tables under certain circumstances). The present value of a remainder interest that is dependent on the termination of the life of one individual is computed by the use of Table S in paragraph (g)(6) of this section. For purposes of the computations under this section, the age of an individual is the age at the individual's nearest birthday.
+
+(2) *Transitional rules for valuation of transfers to pooled income funds.* (i) For purposes of section 2055, 2106, or 2624, if on May 1, 2009, the decedent was under a mental disability so that the disposition of the property could not be changed, and the decedent died on or after May 1, 2009, but before June 2, 2023, without having regained the ability to dispose of the decedent's property, or if the decedent died within 90 days of the date that the decedent first regained that ability on or after May 1, 2009, but before June 2, 2023, the present value of a remainder interest is determined as if the valuation date with respect to the decedent's gross estate is either before May 1, 2009, or after April 30, 2009, at the option of the decedent's executor.
+
+(ii) For purposes of section 170, 2055, 2106, 2522, or 2624, in the case of transfers to a pooled income fund for which the valuation date is on or after May 1, 2009, and before July 1, 2009, the present value of the remainder interest under this section is determined by using the section 7520 interest rate for the month in which the valuation date occurs (see §§ 1.7520-1(b) and 1.7520-2(a)(2)) and the appropriate actuarial tables under either paragraph (f)(6) or (g)(6) of this section, at the option of the donor or the decedent's executor, as the case may be.
+
+(iii) For purposes of paragraphs (g)(2)(i) and (ii) of this section, where the donor or decedent's executor is given the option to use the appropriate actuarial tables under either paragraph (f)(6) or (g)(6) of this section, the donor or decedent's executor must consistently use the same mortality basis with respect to each interest (income, remainder, partial, etc.) in the same property, and with respect to all transfers occurring on the same valuation date. For example, gift and income tax charitable deductions with respect to the same transfer must be determined based on factors with the same mortality basis, and all assets includible in the gross estate and/or estate tax deductions claimed must be valued based on factors with the same mortality basis.
+
+(iv) In the case of transfers to a pooled income fund for which the valuation date is after April 30, 2019, and before June 1, 2023, the present value of the remainder interest under this section is determined under § 1.642(c)-6(e)(2).
+
+(3) *Present value of a remainder interest.* The present value of a remainder interest in property transferred to a pooled income fund is computed on the basis of—
+
+(i) Life contingencies determined from the values of *l*X that are set forth in Table 2000CM in § 20.2031-7A(g)(4) of this chapter; and
+
+(ii) Discount at a rate of interest, compounded annually, equal to the highest yearly rate of return of the pooled income fund for the three taxable years immediately preceding its taxable year in which the transfer of property to the fund is made. The provisions of § 1.642(c)-6(c) apply for determining the yearly rate of return. However, where the taxable year is less than 12 months, the provisions of § 1.642(c)-6(e)(3)(ii) apply for the determining the yearly rate of return.
+
+(4) *Pooled income funds in existence less than three taxable years.* The provisions of § 1.642(c)-6(e)(4) apply for determining the highest yearly rate of return when the pooled income fund has been in existence less than three taxable years.
+
+(5) *Computation of value of remainder interest.* The factor that is used in determining the present value of a remainder interest that is dependent on the termination of the life of one individual is the factor from Table S in paragraph (g)(6) of this section under the appropriate yearly rate of return opposite the number that corresponds to the age of the individual upon whose life the value of the remainder interest is based. Table S in paragraph (g)(6) of this section includes factors for yearly rates of return from 0.2 to 14 percent, inclusive, in increments of two-tenths of one percent. Actuarial factors that do not appear in paragraph (g)(6) of this section may be computed directly by using the formula in § 20.2031-7(d)(2)(ii)(B) of this chapter to derive a remainder factor from the appropriate mortality table to at least five decimal places. For the convenience of taxpayers, actuarial factors have been computed by the IRS and appear in Table S that is referenced and explained by IRS Publication 1457, *Actuarial Valuations Version 3A* (2009). The table is available at no charge, electronically via the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables* (or a corresponding URL as may be updated from time to time). For other situations, see § 1.642(c)-6(b). If the yearly rate of return is a percentage that is between the yearly rates of return for which factors are provided by Table S, an exact method of obtaining the applicable factors (such as through software using the actual rate of return and actuarial formulas provided in § 20.2031-7(d)(2)(ii)(B) of this chapter) or a linear interpolation must be used, provided whichever method used is applied consistently in valuing all interests in the same property. The present value of the remainder interest is determined by multiplying the fair market value of the property on the valuation date by the appropriate remainder factor. For an example of a computation of the present value of a remainder interest requiring a linear interpolation adjustment, see § 1.642(c)-6(e)(5).
+
+(6) *Actuarial tables.* In the case of transfers for which the valuation date is on or after May 1, 2009, and before June 1, 2023, and without regard to the headings in the tables in this paragraph (g)(6) that do not contain this termination date for the applicability of the tables, the present value of a remainder interest dependent on the termination of one life in the case of a transfer to a pooled income fund is determined by using the following tables:
+
+![](/graphics/er10au11.002.gif)![](/graphics/er10au11.003.gif)![](/graphics/er10au11.004.gif)![](/graphics/er10au11.005.gif)![](/graphics/er10au11.006.gif)![](/graphics/er10au11.007.gif)![](/graphics/er10au11.008.gif)![](/graphics/er10au11.009.gif)![](/graphics/er10au11.010.gif)![](/graphics/er10au11.011.gif)![](/graphics/er10au11.012.gif)![](/graphics/er10au11.013.gif)![](/graphics/er10au11.014.gif)![](/graphics/er10au11.015.gif)![](/graphics/er10au11.016.gif)![](/graphics/er10au11.017.gif)![](/graphics/er10au11.018.gif)![](/graphics/er10au11.019.gif)![](/graphics/er10au11.020.gif)![](/graphics/er10au11.021.gif)![](/graphics/er10au11.022.gif)
+
+(7) *Applicability dates.* Paragraphs (g)(1) through (6) of this section apply on and after May 1, 2009, and before June 1, 2023.
+
+\[Redesignated at 36 FR 6480, Apr. 6, 1971, as amended by T.D. 8540, 59 FR 30102, 30105, 30116, June 10, 1994; T.D. 8819, 64 FR 23190, 23199, 23228, Apr. 30, 1999; 64 FR 33196, June 22, 1999; T.D. 8886, 65 FR 36943, June 12, 2000; T.D. 9448, 74 FR 21440, 21464, May 7, 2009; T.D. 9540, 76 FR 49612, Aug. 10, 2011; T.D. 9974, 88 FR 37429, June 7, 2023; 88 FR 37432, June 7, 2023\]
