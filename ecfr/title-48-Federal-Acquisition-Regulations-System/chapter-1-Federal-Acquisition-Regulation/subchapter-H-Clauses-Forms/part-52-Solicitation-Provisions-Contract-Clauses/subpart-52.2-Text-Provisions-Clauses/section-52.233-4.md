@@ -1,6 +1,6 @@
 ##### 52.233-4 Applicable Law for Breach of Contract Claim.
 
-As prescribed in 33.215(b), insert the following clause: 
+As prescribed in 33.215(b), insert the following clause:
 
 Applicable Law for Breach of Contract Claim (OCT 2004)
 

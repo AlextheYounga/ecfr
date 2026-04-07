@@ -1,6 +1,6 @@
 ##### 52.216-27 Single or Multiple Awards.
 
-As prescribed in 16.506(f), insert the following provision: 
+As prescribed in 16.506(f), insert the following provision:
 
 Single or Multiple Awards (OCT 1995)
 

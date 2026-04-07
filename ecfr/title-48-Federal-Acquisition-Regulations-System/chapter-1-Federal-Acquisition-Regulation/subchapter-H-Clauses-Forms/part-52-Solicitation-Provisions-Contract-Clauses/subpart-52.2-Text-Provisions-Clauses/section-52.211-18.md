@@ -1,6 +1,6 @@
 ##### 52.211-18 Variation in Estimated Quantity.
 
-As prescribed in 11.703(c), insert the following clause in solicitations and contracts when a fixed-price construction contract is contemplated that authorizes a variation in the estimated quantity of unit-priced items: 
+As prescribed in 11.703(c), insert the following clause in solicitations and contracts when a fixed-price construction contract is contemplated that authorizes a variation in the estimated quantity of unit-priced items:
 
 Variation in Estimated Quantity (APR 1984)
 

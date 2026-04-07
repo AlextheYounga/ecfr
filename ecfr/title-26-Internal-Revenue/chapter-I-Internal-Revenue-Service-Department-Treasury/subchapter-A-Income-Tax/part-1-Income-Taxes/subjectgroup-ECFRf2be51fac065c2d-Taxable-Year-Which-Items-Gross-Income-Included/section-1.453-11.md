@@ -28,7 +28,7 @@ Example 1.(i) The stated purchase price for T's assets is $3,500,000. In conside
 
 | Item                    | Qualifying installment obligations | Cash and other property |
 | ----------------------- | ---------------------------------- | ----------------------- |
-| Cash                    |                                    | $190,000                |
+| Cash1                   |                                    | $190,000                |
 | B note                  | $200,000                           |                         |
 | C note                  | $100,000                           |                         |
 | D note                  | $170,000                           |                         |

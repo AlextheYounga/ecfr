@@ -76,7 +76,7 @@ For taxable years beginning after December 31, 1954, and before January 1, 1958,
 
 Example:During 1964, A, B, and C formed a closely held corporation, and A was appointed as president of the organization. On July 1, 1964, A received for consideration 100 shares of common stock in the corporation subject to the agreement that, if A should retire from the management of the corporation or die, A or his estate would first offer his shares of stock to the corporation for purchase and that, if the corporation did not buy the stock within 60 days, the stock could be sold to any party other than the corporation. On September 1, 1970, A retired from the management of the corporation and offered his shares to the corporation for purchase. Pursuant to the agreement, the corporation purchased A's stock on September 30, 1970. A's sale of such stock was pursuant to a binding contract entered into on or before October 9, 1969.
 
-| Tax Under Section 112                                                                                               |          |  |
+| Tax Under Section 112Alternative Tax Under Section 1201(b)                                                          |          |  |
 | Taxable income exclusive of capital gains and losses                                                                | $99,400  |  |
 | Net long-term capital gain (100 percent of $50,000)                                                                 | $50,000  |  |
 | Net short-term capital loss (100 percent of $20,000)                                                                | 20,000   |  |

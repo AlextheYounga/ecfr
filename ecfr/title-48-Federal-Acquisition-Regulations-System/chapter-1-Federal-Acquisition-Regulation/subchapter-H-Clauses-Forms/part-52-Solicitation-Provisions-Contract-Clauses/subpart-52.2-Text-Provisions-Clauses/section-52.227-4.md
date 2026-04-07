@@ -1,6 +1,6 @@
 ##### 52.227-4 Patent Indemnity—Construction Contracts.
 
-As prescribed in 27.201-2(d)(1), insert the following clause: 
+As prescribed in 27.201-2(d)(1), insert the following clause:
 
 Patent Indemnity—Construction Contracts (DEC 2007)
 
@@ -8,11 +8,11 @@ Except as otherwise provided, the Contractor shall indemnify the Government and 
 
 (End of clause)
 
-*Alternate I* (DEC 2007). As prescribed in 27.201-2(d)(2), designate the first paragraph of the basic clause as paragraph (a) and add the following paragraph (b) to the basic clause: 
+*Alternate I* (DEC 2007). As prescribed in 27.201-2(d)(2), designate the first paragraph of the basic clause as paragraph (a) and add the following paragraph (b) to the basic clause:
 
-(b) This patent indemnification shall not apply to the following items: 
+(b) This patent indemnification shall not apply to the following items:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \[*Contracting Officer list the items to be excluded.*\]
 

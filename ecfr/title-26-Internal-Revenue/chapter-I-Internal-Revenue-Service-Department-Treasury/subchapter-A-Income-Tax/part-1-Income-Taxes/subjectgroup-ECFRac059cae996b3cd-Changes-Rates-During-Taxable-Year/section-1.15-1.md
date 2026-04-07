@@ -12,7 +12,7 @@
 
 Example 1.Assume that the law provides that a change in a certain rate of tax shall be effective only with respect to taxable years beginning after December 31, 1969. The effective date of change for purposes of section 21 is January 1, 1970, and section 21 must be applied to any taxable year which begins before and ends on or after January 1, 1970.1/2
 
-| **Tentative Tax**                                                                                          |         |         |  |
+| **Tentative Tax**12                                                                                        |         |         |  |
 | Taxable income exclusive of capital gains and losses                                                       | $50,000 |         |  |
 | Long-term capital gain                                                                                     | 75,000  |         |  |
 |                                                                                                            | 125,000 |         |  |

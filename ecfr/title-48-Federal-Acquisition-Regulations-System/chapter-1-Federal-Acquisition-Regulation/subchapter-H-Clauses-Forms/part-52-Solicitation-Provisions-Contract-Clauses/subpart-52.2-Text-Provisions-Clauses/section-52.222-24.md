@@ -1,6 +1,6 @@
 ##### 52.222-24 Preaward On-Site Equal Opportunity Compliance Evaluation.
 
-As prescribed in 22.810(c), insert the following provision: 
+As prescribed in 22.810(c), insert the following provision:
 
 Preaward On-Site Equal Opportunity Compliance Evaluation (FEB 1999)
 

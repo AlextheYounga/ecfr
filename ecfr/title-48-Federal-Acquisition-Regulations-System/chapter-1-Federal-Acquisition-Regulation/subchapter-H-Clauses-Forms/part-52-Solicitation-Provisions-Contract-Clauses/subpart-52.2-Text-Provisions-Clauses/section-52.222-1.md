@@ -1,6 +1,6 @@
 ##### 52.222-1 Notice to the Government of Labor Disputes.
 
-As prescribed in 22.103-5(a), insert the following clause: 
+As prescribed in 22.103-5(a), insert the following clause:
 
 Notice to the Government of Labor Disputes (FEB 1997)
 

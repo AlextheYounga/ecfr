@@ -22,7 +22,7 @@ Furthermore, the amount of the required payment is determined without regard to 
 
 Example 1.A, a partnership, makes a section 444 election to retain its taxable year ending September 30. For A's first applicable election year, A's required payment, as defined in paragraph (a)(3) of this section, is $400. Thus, A does not have to make a required payment for that year. However, A is required to file the return prescribed by § 1.7519-2T(a)(2).*1*3/12
 
-| Net income multiplied by deferral ratio                                                     | $140,000 |         |         |
+| Net income multiplied by deferral ratio312                                                  | $140,000 |         |         |
 |                                                                                             | × 3⁄12   |         |         |
 |                                                                                             |          |         | $35,000 |
 | Plus the excess, if any, of applicable payments multiplied by deferral ratio                | $60,000  |         |         |

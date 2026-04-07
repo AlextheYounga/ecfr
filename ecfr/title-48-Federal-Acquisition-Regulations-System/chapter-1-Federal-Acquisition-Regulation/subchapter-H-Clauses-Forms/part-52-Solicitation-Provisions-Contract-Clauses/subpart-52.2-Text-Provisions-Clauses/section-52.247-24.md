@@ -1,6 +1,6 @@
 ##### 52.247-24 Advance Notification by the Government.
 
-As prescribed in 47.207-8(a)(1), insert the following clause in solicitations and contracts for transportation or for transportation-related services when the Government is responsible for notifying the contractor of specific service times or unusual shipments: 
+As prescribed in 47.207-8(a)(1), insert the following clause in solicitations and contracts for transportation or for transportation-related services when the Government is responsible for notifying the contractor of specific service times or unusual shipments:
 
 Advance Notification by the Government (APR 1984)
 

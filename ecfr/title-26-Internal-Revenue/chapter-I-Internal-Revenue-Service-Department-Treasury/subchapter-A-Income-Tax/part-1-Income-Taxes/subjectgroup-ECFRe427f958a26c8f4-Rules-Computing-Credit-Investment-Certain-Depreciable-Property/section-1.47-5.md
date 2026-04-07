@@ -43,12 +43,12 @@ For the taxable year 1962, XYZ Trust and beneficiary A each had a credit earned 
 
 (ii) The actual useful life of asset No. 3 is three years and six months. The recomputed qualified investment with respect to XYZ Trust's and beneficiary A's share of the basis of asset No. 3 is zero ($15,000 share of basis multiplied by zero applicable percentage) and for the taxable year 1962, XYZ Trust's and beneficiary A's recomputed credit earned is $1,050 (7 percent of $15,000). The income tax imposed by chapter 1 of the Code on XYZ Trust and on beneficiary A for the taxable year 1965 is increased by the $1,050 decrease in his credit earned for the taxable year 1962 (that is, $2,100 original credit earned minus $1,050 recomputed credit earned).
 
-| Basis  | Applicable percentage | Qualified investment |
-| ------ | --------------------- | -------------------- |
-| $7,500 | 331⁄3                 | $2,500               |
-| $7,500 | 662⁄3                 | 5,000                |
-| $7,500 | 100                   | 7,500                |
-|        |                       | 15,000               |
+| Basis    | Applicable percentage | Qualified investment |
+| -------- | --------------------- | -------------------- |
+| $7,50013 | 331⁄3                 | $2,500               |
+| $7,500   | 662⁄3                 | 5,000                |
+| $7,500   | 100                   | 7,500                |
+|          |                       | 15,000               |
 
 For the taxable year 1962 beneficiary A's recomputed credit earned is $1,050 (7 percent of $15,000). The income tax imposed by chapter 1 of the Code on beneficiary A for the taxable year 1964 is increased by the $1,050 decrease in his credit earned for the taxable year 1962 (that is, $2,100 original credit earned minus $1,050 recomputed credit earned). Example 2.(i) On December 3, 1964, beneficiary A sells 50 percent of his interest in the income of XYZ Trust to B, and on December 3, 1965, A sells his remaining 50 percent interest to C. In addition, on January 2, 1966, XYZ Trust sells asset No. 3 to Y Corporation.
 

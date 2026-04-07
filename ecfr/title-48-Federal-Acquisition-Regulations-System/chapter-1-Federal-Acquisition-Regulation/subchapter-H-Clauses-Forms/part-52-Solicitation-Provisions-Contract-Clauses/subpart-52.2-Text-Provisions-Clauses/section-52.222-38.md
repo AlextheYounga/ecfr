@@ -1,6 +1,6 @@
 ##### 52.222-38 Compliance with Veterans' Employment Reporting Requirements.
 
-As prescribed in 22.1310(c), insert the following provision: 
+As prescribed in 22.1310(c), insert the following provision:
 
 Compliance With Veterans' Employment Reporting Requirements (FEB 2016)
 

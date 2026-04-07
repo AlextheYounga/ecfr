@@ -1,6 +1,6 @@
 ##### 52.217-6 Option for Increased Quantity.
 
-As prescribed in 17.208(d), insert a clause substantially the same as the following: 
+As prescribed in 17.208(d), insert a clause substantially the same as the following:
 
 Option for Increased Quantity (MAR 1989)
 

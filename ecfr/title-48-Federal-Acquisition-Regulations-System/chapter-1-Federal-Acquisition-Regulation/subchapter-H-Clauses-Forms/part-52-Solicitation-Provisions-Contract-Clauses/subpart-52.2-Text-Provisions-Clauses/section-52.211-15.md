@@ -1,6 +1,6 @@
 ##### 52.211-15 Defense Priority and Allocation Requirements.
 
-As prescribed in 11.604(b), insert the following clause: 
+As prescribed in 11.604(b), insert the following clause:
 
 Defense Priority and Allocation Requirements (APR 2008)
 

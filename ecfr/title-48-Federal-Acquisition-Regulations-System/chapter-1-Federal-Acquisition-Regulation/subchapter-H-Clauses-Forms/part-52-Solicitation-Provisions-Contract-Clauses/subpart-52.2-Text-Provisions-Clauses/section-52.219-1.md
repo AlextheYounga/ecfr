@@ -1,126 +1,126 @@
 ##### 52.219-1 Small Business Program Representations.
 
-As prescribed in 19.309(a)(1), insert the following provision: 
+As prescribed in 19.309(a)(1), insert the following provision:
 
 Small Business Program Representations (FEB 2024)
 
-(a) *Definitions.* As used in this provision— 
+(a) *Definitions.* As used in this provision—
 
-*Economically disadvantaged women-owned small business (EDWOSB) concern* means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States and who are economically disadvantaged in accordance with 13 CFR part 127, and the concern is certified by SBA or an approved third-party certifier in accordance with 13 CFR 127.300. It automatically qualifies as a women-owned small business concern eligible under the WOSB Program. 
+*Economically disadvantaged women-owned small business (EDWOSB) concern* means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States and who are economically disadvantaged in accordance with 13 CFR part 127, and the concern is certified by SBA or an approved third-party certifier in accordance with 13 CFR 127.300. It automatically qualifies as a women-owned small business concern eligible under the WOSB Program.
 
-*Service-disabled veteran-owned small business (SDVOSB) concern* means a small business concern— 
+*Service-disabled veteran-owned small business (SDVOSB) concern* means a small business concern—
 
-(1)(i) Not less than 51 percent of which is owned and controlled by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and 
+(1)(i) Not less than 51 percent of which is owned and controlled by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
 
-(ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran or; 
+(ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran or;
 
-(2) A small business concern eligible under the SDVOSB Program in accordance with 13 CFR part 128 (see subpart 19.14). 
+(2) A small business concern eligible under the SDVOSB Program in accordance with 13 CFR part 128 (see subpart 19.14).
 
-(3) *Service-disabled veteran,* as used in this definition, means a veteran as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16), and who is registered in the Beneficiary Identification and Records Locator Subsystem, or successor system that is maintained by the Department of Veterans Affairs' Veterans Benefits Administration, as a service-disabled veteran. 
+(3) *Service-disabled veteran,* as used in this definition, means a veteran as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16), and who is registered in the Beneficiary Identification and Records Locator Subsystem, or successor system that is maintained by the Department of Veterans Affairs' Veterans Benefits Administration, as a service-disabled veteran.
 
-*Service*-*disabled veteran-owned small business (SDVOSB) concern eligible under the SDVOSB Program* means an SDVOSB concern that— 
+*Service*-*disabled veteran-owned small business (SDVOSB) concern eligible under the SDVOSB Program* means an SDVOSB concern that—
 
-(1) Effective January 1, 2024, is designated in the System for Award Management (SAM) as certified by the Small Business Administration (SBA) in accordance with 13 CFR 128.300; or 
+(1) Effective January 1, 2024, is designated in the System for Award Management (SAM) as certified by the Small Business Administration (SBA) in accordance with 13 CFR 128.300; or
 
-(2) Has represented that it is an SDVOSB concern in SAM and submitted a complete application for certification to SBA on or before December 31, 2023. 
+(2) Has represented that it is an SDVOSB concern in SAM and submitted a complete application for certification to SBA on or before December 31, 2023.
 
-*Service-disabled veteran-owned small business (SDVOSB) Program* means a program that authorizes contracting officers to limit competition, including award on a sole-source basis, to SDVOSB concerns eligible under the SDVOSB Program. 
+*Service-disabled veteran-owned small business (SDVOSB) Program* means a program that authorizes contracting officers to limit competition, including award on a sole-source basis, to SDVOSB concerns eligible under the SDVOSB Program.
 
-*Small business concern*—(1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation, and qualified as a small business under the criteria in 13 CFR part 121 and the size standard in paragraph (b) of this provision. 
+*Small business concern*—(1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation, and qualified as a small business under the criteria in 13 CFR part 121 and the size standard in paragraph (b) of this provision.
 
-(2) *Affiliates,* as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103. 
+(2) *Affiliates,* as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103.
 
-*Small disadvantaged business concern,* consistent with 13 CFR 124.1001, means a small business concern under the size standard applicable to the acquisition, that— 
+*Small disadvantaged business concern,* consistent with 13 CFR 124.1001, means a small business concern under the size standard applicable to the acquisition, that—
 
-(1) Is at least 51 percent unconditionally and directly owned (as defined at 13 CFR 124.105) by— 
+(1) Is at least 51 percent unconditionally and directly owned (as defined at 13 CFR 124.105) by—
 
-(i) One or more socially disadvantaged (as defined at 13 CFR 124.103) and economically disadvantaged (as defined at 13 CFR 124.104) individuals who are citizens of the United States, and 
+(i) One or more socially disadvantaged (as defined at 13 CFR 124.103) and economically disadvantaged (as defined at 13 CFR 124.104) individuals who are citizens of the United States, and
 
-(ii) Each individual claiming economic disadvantage has a net worth not exceeding the threshold at 13 CFR 124.104(c)(2) after taking into account the applicable exclusions set forth at 13 CFR 124.104(c)(2); and 
+(ii) Each individual claiming economic disadvantage has a net worth not exceeding the threshold at 13 CFR 124.104(c)(2) after taking into account the applicable exclusions set forth at 13 CFR 124.104(c)(2); and
 
-(2) The management and daily business operations of which are controlled (as defined at 13 CFR 124.106) by individuals who meet the criteria in paragraphs (1)(i) and (ii) of this definition. 
+(2) The management and daily business operations of which are controlled (as defined at 13 CFR 124.106) by individuals who meet the criteria in paragraphs (1)(i) and (ii) of this definition.
 
-*Veteran-owned small business concern* means a small business concern— 
+*Veteran-owned small business concern* means a small business concern—
 
-(1) Not less than 51 percent of which is owned by one or more veterans (as defined at 38 U.S.C. 101(2)) or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and 
+(1) Not less than 51 percent of which is owned by one or more veterans (as defined at 38 U.S.C. 101(2)) or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
 
-(2) The management and daily business operations of which are controlled by one or more veterans. 
+(2) The management and daily business operations of which are controlled by one or more veterans.
 
-*Women-owned small business concern* means a small business concern— 
+*Women-owned small business concern* means a small business concern—
 
-(1) That is at least 51 percent owned by one or more women; or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and 
+(1) That is at least 51 percent owned by one or more women; or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
 
-(2) Whose management and daily business operations are controlled by one or more women. 
+(2) Whose management and daily business operations are controlled by one or more women.
 
-*Women-owned small business (WOSB) concern eligible under the WOSB Program* (in accordance with 13 CFR part 127) means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States, and the concern is certified by SBA or an approved third-party certifier in accordance with 13 CFR 127.300. 
+*Women-owned small business (WOSB) concern eligible under the WOSB Program* (in accordance with 13 CFR part 127) means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States, and the concern is certified by SBA or an approved third-party certifier in accordance with 13 CFR 127.300.
 
-(b)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_\[*insert NAICS code*\]. 
+(b)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_\[*insert NAICS code*\].
 
-(2) The small business size standard is \_\_\_\_\[*insert size standard*\]. 
+(2) The small business size standard is \_\_\_\_\[*insert size standard*\].
 
-(3) The small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce (*i.e.,* nonmanufacturer), is 500 employees, or 150 employees for information technology value-added resellers under NAICS code 541519, if the acquisition— 
+(3) The small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce (*i.e.,* nonmanufacturer), is 500 employees, or 150 employees for information technology value-added resellers under NAICS code 541519, if the acquisition—
 
-(i) Is set aside for small business and has a value above the simplified acquisition threshold; 
+(i) Is set aside for small business and has a value above the simplified acquisition threshold;
 
-(ii) Uses the HUBZone price evaluation preference regardless of dollar value, unless the offeror waives the price evaluation preference; or 
+(ii) Uses the HUBZone price evaluation preference regardless of dollar value, unless the offeror waives the price evaluation preference; or
 
-(iii) Is an 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged women-owned, or women-owned small business set-aside or sole-source award regardless of dollar value. 
+(iii) Is an 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged women-owned, or women-owned small business set-aside or sole-source award regardless of dollar value.
 
-(c) *Representations.* (1) The offeror represents as part of its offer that— 
+(c) *Representations.* (1) The offeror represents as part of its offer that—
 
-(i) It □ is, □ is not a small business concern; or 
+(i) It □ is, □ is not a small business concern; or
 
-(ii) It □ is, □ is not a small business joint venture that complies with the requirements of 13 CFR 121.103(h) and 13 CFR 125.8(a) and (b). \[*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.\] 
+(ii) It □ is, □ is not a small business joint venture that complies with the requirements of 13 CFR 121.103(h) and 13 CFR 125.8(a) and (b). \[*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.\]
 
-(2) \[*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*\] The offeror represents that it □ is, □ is not, a small disadvantaged business concern as defined in 13 CFR 124.1001. 
+(2) \[*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*\] The offeror represents that it □ is, □ is not, a small disadvantaged business concern as defined in 13 CFR 124.1001.
 
-(3) \[*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*\] The offeror represents as part of its offer that it □ is, □ is not a women-owned small business concern. 
+(3) \[*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*\] The offeror represents as part of its offer that it □ is, □ is not a women-owned small business concern.
 
-(4) *Women-owned small business (WOSB) joint venture eligible under the WOSB Program.* The offeror represents as part of its offer that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). \[*The offeror shall enter the name and unique entity identifier of each party to the joint venture:* \_\_.\] 
+(4) *Women-owned small business (WOSB) joint venture eligible under the WOSB Program.* The offeror represents as part of its offer that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). \[*The offeror shall enter the name and unique entity identifier of each party to the joint venture:* \_\_.\]
 
-(5) *Economically disadvantaged women-owned small business (EDWOSB) joint venture.* The offeror represents as part of its offer that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). \[*The offeror shall enter the name and unique entity identifier of each party to the joint venture:* \_\_.\] 
+(5) *Economically disadvantaged women-owned small business (EDWOSB) joint venture.* The offeror represents as part of its offer that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). \[*The offeror shall enter the name and unique entity identifier of each party to the joint venture:* \_\_.\]
 
-(6) *Veteran-owned small business concern.* \[*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*\] The offeror represents as part of its offer that it □ is, □ is not a veteran-owned small business concern. 
+(6) *Veteran-owned small business concern.* \[*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*\] The offeror represents as part of its offer that it □ is, □ is not a veteran-owned small business concern.
 
-(7) *SDVOSB concern.* \[*Complete only if the offeror represented itself as a veteran-owned small business concern in paragraph (c)(6) of this provision.*\] The offeror represents as part of its offer that it □ is, □ is not an SDVOSB concern. 
+(7) *SDVOSB concern.* \[*Complete only if the offeror represented itself as a veteran-owned small business concern in paragraph (c)(6) of this provision.*\] The offeror represents as part of its offer that it □ is, □ is not an SDVOSB concern.
 
-(8) *SDVOSB joint venture eligible under the SDVOSB Program.* \[*Complete only if the offeror represented itself as a SDVOSB concern in paragraph (c)(7) of this provision*\]. The offeror represents as part of its offer that it *□* is, *□* is not a SDVOSB joint venture eligible under the SDVOSB Program that complies with the requirements of 13 CFR 128.402. \[*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_. 
+(8) *SDVOSB joint venture eligible under the SDVOSB Program.* \[*Complete only if the offeror represented itself as a SDVOSB concern in paragraph (c)(7) of this provision*\]. The offeror represents as part of its offer that it *□* is, *□* is not a SDVOSB joint venture eligible under the SDVOSB Program that complies with the requirements of 13 CFR 128.402. \[*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.
 
-(9) *HUBZone small business concern.* \[*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*\] The offeror represents, as part of its offer, that— 
+(9) *HUBZone small business concern.* \[*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*\] The offeror represents, as part of its offer, that—
 
-(i) It □ is, □ is not a HUBZone small business concern listed, on the date of this representation, as having been certified by SBA as a HUBZone small business concern in the Dynamic Small Business Search and SAM, and will attempt to maintain an employment rate of HUBZone residents of 35 percent of its employees during performance of a HUBZone contract (see 13 CFR 126.200(e)(1)); and 
+(i) It □ is, □ is not a HUBZone small business concern listed, on the date of this representation, as having been certified by SBA as a HUBZone small business concern in the Dynamic Small Business Search and SAM, and will attempt to maintain an employment rate of HUBZone residents of 35 percent of its employees during performance of a HUBZone contract (see 13 CFR 126.200(e)(1)); and
 
-(ii) It □ is, □ is not a HUBZone joint venture that complies with the requirements of 13 CFR 126.616(a) through (c). \[*The offeror shall enter the name and unique entity identifier of each party to the joint venture:* \_\_.\] Each HUBZone small business concern participating in the HUBZone joint venture shall provide representation of its HUBZone status. 
+(ii) It □ is, □ is not a HUBZone joint venture that complies with the requirements of 13 CFR 126.616(a) through (c). \[*The offeror shall enter the name and unique entity identifier of each party to the joint venture:* \_\_.\] Each HUBZone small business concern participating in the HUBZone joint venture shall provide representation of its HUBZone status.
 
-(d) *Notice.* Under 15 U.S.C. 645(d), any person who misrepresents a firm's status as a business concern that is small, HUBZone small, small disadvantaged, service-disabled veteran-owned small, economically disadvantaged women-owned small, or women-owned small eligible under the WOSB Program in order to obtain a contract to be awarded under the preference programs established pursuant to section 8, 9, 15, 31, and 36 of the Small Business Act or any other provision of Federal law that specifically references section 8(d) for a definition of program eligibility, shall— 
+(d) *Notice.* Under 15 U.S.C. 645(d), any person who misrepresents a firm's status as a business concern that is small, HUBZone small, small disadvantaged, service-disabled veteran-owned small, economically disadvantaged women-owned small, or women-owned small eligible under the WOSB Program in order to obtain a contract to be awarded under the preference programs established pursuant to section 8, 9, 15, 31, and 36 of the Small Business Act or any other provision of Federal law that specifically references section 8(d) for a definition of program eligibility, shall—
 
-(1) Be punished by imposition of fine, imprisonment, or both; 
+(1) Be punished by imposition of fine, imprisonment, or both;
 
-(2) Be subject to administrative remedies, including suspension and debarment; and 
+(2) Be subject to administrative remedies, including suspension and debarment; and
 
 (3) Be ineligible for participation in programs conducted under the authority of the Act.
 
 (End of provision)
 
-*Alternate I* (FEB 2024). As prescribed in 19.309(a)(2), add the following paragraph (c)(10) to the basic provision: 
+*Alternate I* (FEB 2024). As prescribed in 19.309(a)(2), add the following paragraph (c)(10) to the basic provision:
 
-(c)(10) \[*Complete if offeror represented itself as disadvantaged in paragraph (c)(2) of this provision.* The offeror shall check the category in which its ownership falls: 
+(c)(10) \[*Complete if offeror represented itself as disadvantaged in paragraph (c)(2) of this provision.* The offeror shall check the category in which its ownership falls:
 
-\_\_ Black American. 
+\_\_ Black American.
 
-\_\_ Hispanic American. 
+\_\_ Hispanic American.
 
-\_\_ Native American (American Indians, Eskimos, Aleuts, or Native Hawaiians). 
+\_\_ Native American (American Indians, Eskimos, Aleuts, or Native Hawaiians).
 
-\_\_ Asian-Pacific American (persons with origins from Burma, Thailand, Malaysia, Indonesia, Singapore, Brunei, Japan, China, Taiwan, Laos, Cambodia (Kampuchea), Vietnam, Korea, The Philippines, Republic of Palau, Republic of the Marshall Islands, Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, Guam, Samoa, Macao, Hong Kong, Fiji, Tonga, Kiribati, Tuvalu, or Nauru). 
+\_\_ Asian-Pacific American (persons with origins from Burma, Thailand, Malaysia, Indonesia, Singapore, Brunei, Japan, China, Taiwan, Laos, Cambodia (Kampuchea), Vietnam, Korea, The Philippines, Republic of Palau, Republic of the Marshall Islands, Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, Guam, Samoa, Macao, Hong Kong, Fiji, Tonga, Kiribati, Tuvalu, or Nauru).
 
-\_\_ Subcontinent Asian (Asian-Indian) American (persons with origins from India, Pakistan, Bangladesh, Sri Lanka, Bhutan, the Maldives Islands, or Nepal). 
+\_\_ Subcontinent Asian (Asian-Indian) American (persons with origins from India, Pakistan, Bangladesh, Sri Lanka, Bhutan, the Maldives Islands, or Nepal).
 
 \_\_ Individual/concern, other than one of the preceding.
 
-*Alternate II* (MAR 2023). As prescribed in 19.309(a)(3), substitute the following paragraphs (b) and (c)(1) for paragraphs (b) and (c)(1) of the basic provision: 
+*Alternate II* (MAR 2023). As prescribed in 19.309(a)(3), substitute the following paragraphs (b) and (c)(1) for paragraphs (b) and (c)(1) of the basic provision:
 
-(b)(1) The North American Industry Classification System (NAICS) codes and corresponding size standards for this acquisition are as follows; the categories or portions these NAICS codes are assigned to are specified elsewhere in the solicitation: 
+(b)(1) The North American Industry Classification System (NAICS) codes and corresponding size standards for this acquisition are as follows; the categories or portions these NAICS codes are assigned to are specified elsewhere in the solicitation:
 
 | NAICS code                           | Size standard                        |
 | ------------------------------------ | ------------------------------------ |
@@ -128,17 +128,17 @@ Small Business Program Representations (FEB 2024)
 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 
-\[Contracting Officer to insert NAICS codes and size standards\]. 
+\[Contracting Officer to insert NAICS codes and size standards\].
 
-(2) The small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce (*i.e.,* nonmanufacturer), is 500 employees, or 150 employees for information technology value-added resellers under NAICS code 541519, if the acquisition— 
+(2) The small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce (*i.e.,* nonmanufacturer), is 500 employees, or 150 employees for information technology value-added resellers under NAICS code 541519, if the acquisition—
 
-(i) Is set aside for small business and has a value above the simplified acquisition threshold; 
+(i) Is set aside for small business and has a value above the simplified acquisition threshold;
 
-(ii) Uses the HUBZone price evaluation preference regardless of dollar value, unless the offeror waives the price evaluation preference; or 
+(ii) Uses the HUBZone price evaluation preference regardless of dollar value, unless the offeror waives the price evaluation preference; or
 
-(iii) Is an 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged women-owned, or women-owned small business set-aside or sole-source award regardless of dollar value. 
+(iii) Is an 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged women-owned, or women-owned small business set-aside or sole-source award regardless of dollar value.
 
-(c) *Representations.* (1) The Offeror shall represent its small business size status for each one of the NAICS codes assigned to this acquisition under which it is submitting an offer. 
+(c) *Representations.* (1) The Offeror shall represent its small business size status for each one of the NAICS codes assigned to this acquisition under which it is submitting an offer.
 
 | NAICS code                           | Small business   concern   (yes/no)  |
 | ------------------------------------ | ------------------------------------ |

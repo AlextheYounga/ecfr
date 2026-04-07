@@ -1,6 +1,6 @@
 ##### 52.224-1 Privacy Act Notification.
 
-As prescribed in 24.104, insert the following clause in solicitations and contracts, when the design, development, or operation of a system of records on individuals is required to accomplish an agency function: 
+As prescribed in 24.104, insert the following clause in solicitations and contracts, when the design, development, or operation of a system of records on individuals is required to accomplish an agency function:
 
 Privacy Act Notification (APR 1984)
 

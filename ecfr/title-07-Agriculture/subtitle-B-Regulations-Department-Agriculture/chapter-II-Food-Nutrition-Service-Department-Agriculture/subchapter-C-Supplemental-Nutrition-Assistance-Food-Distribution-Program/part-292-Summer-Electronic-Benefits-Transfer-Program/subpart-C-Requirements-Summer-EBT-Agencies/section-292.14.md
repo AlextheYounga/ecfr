@@ -1,6 +1,6 @@
 ##### § 292.14 Verification requirements.
 
-(a) Summer EBT applications are subject to the following verification requirements:
+(a) Summer EBT applications are subject to the following verification requirements:*Verification for cause.*
 
 (1) *Verification for cause.* (i) The Summer EBT agency must verify for cause applications, on a case-by-case basis, such as in an instance when the agency is aware of conflicting or inconsistent information from what was provided on the application.
 
@@ -109,3 +109,5 @@
 (12) *Nondiscrimination.* The verification efforts must be applied without regard to race, sex, color, national origin, age, or disability.
 
 (g) *Verification of alternative income applications in 2024.* In 2024, Summer EBT agencies or LEAs should, on a case-by-case basis, verify for cause any questionable Summer EBT application or alternate income applications used to confer Summer EBT eligibility and follow the procedures in paragraphs (e) and (f) of this section.
+
+\[88 FR 90355, Dec. 29, 2023, as amended at 90 FR 24508, June 11, 2025\]

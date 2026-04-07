@@ -76,7 +76,7 @@ Example 1.(i) S1 owns all of the T stock and T owns all of the stock of T1 and T
 
 | Assets    | Basis   | FMV     | Fraction | Allocable ADSP |
 | --------- | ------- | ------- | -------- | -------------- |
-| Land      | $50,000 | $75,000 | 5⁄9      | $66,667        |
+| Land59    | $50,000 | $75,000 | 5⁄9      | $66,667        |
 | Equipment | 30,000  | 60,000  | 4⁄9      | 53,333         |
 | Total     | 80,000  | 135,000 | 1        | 120,000        |
 

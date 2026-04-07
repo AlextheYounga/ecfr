@@ -58,16 +58,16 @@ Example 1.On September 19, 1971, H transfers property to a trust over which he r
 
 (ii) Trust B will be charitable remainder trust from the date of its funding because it will function exclusively as a charitable remainder trust from its creation. For purposes of section 2055, Trust B will be deemed created at H's death if the obligation to pay the annuity amount begins on the date of H's death. For purposes of section 664, Trust B becomes a charitable remainder trust as soon as it is partially or completely funded. Consequently, unless Trust B has unrelated business taxable income, the income of the trust is exempt from all taxes imposed by subtitle A of the Code, and any distributions by the trust, even before it is completely funded, are governed by the rules of section 664. Any distributions made by Trust A, including distributions to a recipient in respect of annuity amounts, are governed by the rules of subchapter J, chapter 1, subtitle A of the Code other than section 664.
 
-| 1.0 minus 0.814506 (factor at 5 percent for 4 years) | 0.185494 |
-| 1.0 minus 0.857375 (factor at 5 percent for 3 years) | .142625  |
-| Difference                                           | .042869  |
-| 181 ÷ 365=X ÷ 0.042869                               |          |
-|                                                      |          |
-| X = 0.021258                                         |          |
-|                                                      |          |
-| 1.0 minus 0.857375 (factor at 5 percent for 3 years  | 0.142625 |
-| Plus: X                                              | .021258  |
-| Interpolated factor                                  | .163883  |
+| 1.0 minus 0.814506 (factor at 5 percent for 4 years)X | 0.185494 |
+| 1.0 minus 0.857375 (factor at 5 percent for 3 years)  | .142625  |
+| Difference                                            | .042869  |
+| 181 ÷ 365=X ÷ 0.042869                                |          |
+|                                                       |          |
+| X = 0.021258                                          |          |
+|                                                       |          |
+| 1.0 minus 0.857375 (factor at 5 percent for 3 years   | 0.142625 |
+| Plus: X                                               | .021258  |
+| Interpolated factor                                   | .163883  |
 
 Thus, the amount payable for the period from January 1, 1974, to June 30, 1977, is $16,388.30 ($100,000 × 0.163883). Thereafter, the trust assets must be valued on December 31 of each year and 5 percent of such value paid annually to W for her life.Example 2.The facts are the same as in *example 1,* except that H retains the inter vivos power to revoke only one-half of the trust. For purposes of section 664, the trust is deemed created on September 19, 1971, because on that date the grantor is not treated as the owner of the entire trust under subpart E. Consequently, a charitable deduction is not allowable either at the creation of the trust or at H's death because the trust does not meet the definition of a charitable remainder trust from the date of its creation. The trust does not meet the definition of a charitable remainder trust from the date of its creation because the trust is subject to a partial power to revoke on such date.Example 3.The facts are the same as in *example 1,* except that the residue of H's estate is to be paid to the trust and the trust is required to pay H's debts. The trust is not a charitable remainder trust at H's death because it does not function exclusively as a charitable remainder trust from the date of its creation which, in this case, is the date it becomes irrevocable.Example 4.(i) In 1971, H transfers property to Trust A over which he retains an inter vivos power of revocation. Trust A, which is not a charitable remainder trust, is to provide income or corpus to W until the death of H. Upon H's death the trust is required by its governing instrument to pay the debts and administration expenses of H's estate, and then to terminate and distribute all of the remaining assets to a separate Trust B which meets the definition of a charitable remainder annuity trust.
 

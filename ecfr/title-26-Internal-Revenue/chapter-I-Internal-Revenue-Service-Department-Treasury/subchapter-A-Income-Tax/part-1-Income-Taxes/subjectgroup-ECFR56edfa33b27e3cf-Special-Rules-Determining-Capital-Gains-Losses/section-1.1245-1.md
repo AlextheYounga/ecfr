@@ -24,7 +24,7 @@ Example 1.On January 1, 1964, Brown purchases section 1245 property for use in h
 
 (ii) *Year 1.* In its first year of operations, AB has $1,000 of depreciation from the partnership equipment. In accordance with the partnership agreement, AB allocates 90 percent ($900) of the depreciation to A and 10 percent ($100) of the depreciation to B. At the end of the year, AB sells the equipment for $5,200, recognizing $1,200 of gain ($5,200 amount realized less $4,000 adjusted tax basis). In accordance with the partnership agreement, the first $800 of gain is allocated to A to equalize the partners' capital accounts, and the remaining $400 of gain is allocated $200 to A and $200 to B.1/4
 
-| (1) Adjusted basis:                                                                                                                     |        |         |
+| (1) Adjusted basis:13                                                                                                                   |        |         |
 | D's portion of partnership adjusted basis (1⁄3 of $24,000)                                                                              | $8,000 |         |
 | D's special basis adjustment as of December 31, 1964 ($5,000 minus $800)                                                                | 4,200  |         |
 | D's adjusted basis                                                                                                                      |        | $12,200 |

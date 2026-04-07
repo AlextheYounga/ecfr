@@ -64,7 +64,7 @@ Example 1.Individual A uses the calendar year as his taxable year. On April 10, 
 
 | Payment No.1251                                                                                          | Applicable sections |
 | -------------------------------------------------------------------------------------------------------- | ------------------- |
-| (1) Aggregate of deductions allowed under sections 175 and 182                                           | $18,000             |
+| (1) Aggregate of deductions allowed under sections 175 and 182a                                          | $18,000             |
 | (2) Minus: Gain recognized as ordinary income under section 1251(c)(1)                                   | $13,000             |
 | (3) Difference                                                                                           | $5,000              |
 | (4) Multiply: Applicable percentage for property disposed of within the fifth year after it was acquired | 100%                |

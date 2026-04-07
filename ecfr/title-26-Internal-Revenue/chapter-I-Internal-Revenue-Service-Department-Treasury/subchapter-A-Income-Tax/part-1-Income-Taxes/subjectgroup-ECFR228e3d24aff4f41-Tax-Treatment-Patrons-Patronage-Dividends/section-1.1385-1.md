@@ -22,7 +22,7 @@ The amounts described in subparagraphs (1) and (2) of this paragraph are includi
 
 Example:A, a farmer, receives a patronage dividend from the X Cooperative, in the form of a nonqualified written notice of allocation, which is attributable to the sale of his crop to that cooperative organization. The stated dollar amount of the nonqualified written notice of allocation is $100. The basis of the written notice of allocation in the hands of A is zero and he must report any amount up to $100 received by him on its redemption, sale, or other disposition, as ordinary income. If A gives the written notice of allocation to his son B, B takes A's (the donor's) basis which is zero, and any gain up to $100 which B later realizes on its redemption, sale, or other disposition is ordinary income. Similarly, if A dies before realizing any gain on the nonqualified written notice of allocation, B, his legatee, has a zero basis for such written notice of allocation and any gain up to $100 which he then realizes on its redemption, sale, or other disposition is also ordinary income. Such gain is income in respect of a decedent within the meaning of section 691(a) and § 1.691(a)-1.
 
-| Cost of farm implement, July 1, 1964                                                 | $2,900 |
+| Cost of farm implement, July 1, 196412                                               | $2,900 |
 | Less:                                                                                |        |
 | Salvage value                                                                        | 200    |
 | Depreciation for 1964 (6 months)                                                     | 450    |

@@ -1,6 +1,6 @@
 ##### 52.211-14 Notice of Priority Rating for National Defense, Emergency Preparedness, and Energy Program Use.
 
-As prescribed in 11.604(a), insert the following provision: 
+As prescribed in 11.604(a), insert the following provision:
 
 Notice of Priority Rating for National Defense, Emergency Preparedness, and Energy Program Use (APR 2008)
 

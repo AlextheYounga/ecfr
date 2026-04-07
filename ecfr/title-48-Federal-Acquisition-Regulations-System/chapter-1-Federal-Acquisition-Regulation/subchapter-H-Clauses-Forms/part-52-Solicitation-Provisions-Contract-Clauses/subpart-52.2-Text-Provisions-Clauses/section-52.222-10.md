@@ -1,6 +1,6 @@
 ##### 52.222-10 Compliance With Copeland Act Requirements.
 
-As prescribed in 22.407(a), insert the following clause: 
+As prescribed in 22.407(a), insert the following clause:
 
 Compliance With Copeland Act Requirements (FEB 1988)
 

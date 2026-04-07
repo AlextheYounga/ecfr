@@ -1,6 +1,6 @@
 ##### 52.214-35 Submission of Offers in U.S. Currency.
 
-As prescribed in 14.201-6(x), insert the following provision: 
+As prescribed in 14.201-6(x), insert the following provision:
 
 Submission of Offers in U.S. Currency (APR 1991)
 

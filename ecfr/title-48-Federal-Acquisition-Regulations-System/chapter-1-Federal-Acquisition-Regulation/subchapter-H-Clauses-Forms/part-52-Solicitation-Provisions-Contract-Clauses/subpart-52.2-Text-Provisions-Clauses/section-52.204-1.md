@@ -1,6 +1,6 @@
 ##### 52.204-1 Approval of Contract.
 
-As prescribed in 4.103, insert the following clause: 
+As prescribed in 4.103, insert the following clause:
 
 Approval of Contract (DEC 1989)
 

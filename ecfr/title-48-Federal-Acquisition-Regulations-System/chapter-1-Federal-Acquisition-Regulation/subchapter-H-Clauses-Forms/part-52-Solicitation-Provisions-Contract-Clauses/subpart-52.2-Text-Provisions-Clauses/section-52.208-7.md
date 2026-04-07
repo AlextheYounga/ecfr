@@ -1,6 +1,6 @@
 ##### 52.208-7 Tagging of Leased Vehicles.
 
-As prescribed in 8.1104(d), insert a clause substantially as follows: 
+As prescribed in 8.1104(d), insert a clause substantially as follows:
 
 Tagging of Leased Vehicles (MAY 1986)
 

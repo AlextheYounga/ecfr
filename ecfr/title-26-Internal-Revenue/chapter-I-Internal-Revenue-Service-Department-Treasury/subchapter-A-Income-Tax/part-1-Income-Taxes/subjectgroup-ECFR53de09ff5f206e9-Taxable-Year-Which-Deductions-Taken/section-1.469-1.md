@@ -14,7 +14,7 @@ Example.In 1993, an individual derives $10,000 of ordinary income from passive a
 
 |                                                                                              | Restaurant | Catering business |
 | -------------------------------------------------------------------------------------------- | ---------- | ----------------- |
-| 1993:                                                                                        |            |                   |
+| 1993:1                                                                                       |            |                   |
 | Gross income                                                                                 | $20,000    | $60,000           |
 | Deductions                                                                                   | 40,000     | 60,000            |
 | Net income (loss)                                                                            | (20,000)   |                   |

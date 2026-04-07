@@ -26,7 +26,7 @@ Example 1.(i) On May 15, 1967, Smith transfers section 1250 property to his son 
 
 |                                                                                                        | Fair market value of property |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------- |
-| The first limitation:1                                                                                 |                               |
+| The first limitation:1a                                                                                |                               |
 | (a) Amount of gain recognized under section 1033(a)(3), determined without regard to section 1250(a)   | $1,000                        |
 | (b) Fair market value of stock in a corporation which qualifies under section 1033(a)(3)(A)            | 5,000                         |
 | (c) Sum of (a) plus (b)                                                                                | 6,000                         |

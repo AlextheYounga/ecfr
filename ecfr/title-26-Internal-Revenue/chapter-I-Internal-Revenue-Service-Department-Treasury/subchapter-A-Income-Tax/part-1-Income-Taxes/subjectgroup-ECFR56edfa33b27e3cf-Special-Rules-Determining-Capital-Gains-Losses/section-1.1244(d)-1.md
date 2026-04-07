@@ -10,7 +10,7 @@
 
 Example 1.B transfers property with an adjusted basis of $1,000 and a fair market value of $250 to a corporation for 10 shares of section 1244 stock in an exchange that qualifies under section 351. The basis of B's stock is $1,000 ($100 per share), but, solely for purposes of section 1244, the total basis of the stock must be reduced by $750, the excess of the adjusted basis of the property exchanged over its fair market value. Thus, the basis of such stock for purposes of section 1244 is $250 and the basis of each share for such purposes is $25. If B sells his 10 shares for $250, he will recognize a loss of $750, all of which must be treated as a capital loss. If he sells the 10 shares for $200, then $50 of his total loss of $800 will be treated as an ordinary loss under section 1244, assuming the various requirements of such section are satisfied, and the remaining $750 will be a capital loss.
 
-|                      | Basis   | Fair market value |
+| Basis                | Basis   | Fair market value |
 | -------------------- | ------- | ----------------- |
 | Cash                 | $10,000 | $10,000           |
 | Inventory            | 15,000  | 30,000            |

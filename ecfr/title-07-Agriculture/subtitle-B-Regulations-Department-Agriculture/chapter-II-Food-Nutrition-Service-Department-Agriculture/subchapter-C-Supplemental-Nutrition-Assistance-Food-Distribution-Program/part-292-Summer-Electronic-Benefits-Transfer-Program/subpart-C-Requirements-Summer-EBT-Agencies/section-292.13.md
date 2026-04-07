@@ -1,6 +1,6 @@
 ##### § 292.13 Application requirements.
 
-(a) Statewide application. By 2025, the Summer EBT agency must make a Summer EBT application available to households whose children are enrolled in NSLP- or SBP-participating schools and who do not already have an individual eligibility determination.
+(a) Statewide application. By 2025, the Summer EBT agency must make a Summer EBT application available to households whose children are enrolled in NSLP- or SBP-participating schools and who do not already have an individual eligibility determination.*Household applications.*
 
 (b) Contracting application processes. Summer EBT agencies may not delegate to LEAs the responsibility of making a Summer EBT application available. However, a Summer EBT agency may contract with another entity into order to fulfill the requirement in this paragraph (b).
 
@@ -75,3 +75,5 @@
 (3) The Comptroller General of the United States for purposes of audit and examination.
 
 (q) *Phase-in flexibility.* For 2024, alternative income applications that do not meet the criteria in paragraph (i) of this section can be used to confer eligibility for Summer EBT if the information provided on the alternative application is sufficient for the Summer EBT agency or LEA to determine that the household meets the income eligibility guidelines for Summer EBT. In 2024, Summer EBT agencies may delegate application processing to LEAs. If a Summer EBT agency delegates application processing to LEAs, then it must cover all administrative costs incurred by the LEAs with respect to Summer EBT application processing.
+
+\[88 FR 90355, Dec. 29, 2023, as amended at 90 FR 24508, June 11, 2025\]

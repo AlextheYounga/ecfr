@@ -1,22 +1,22 @@
 ##### 52.214-3 Amendments to Invitations for Bids.
 
-As prescribed in 14.201-6(b)(1), insert the following provision: 
+As prescribed in 14.201-6(b)(1), insert the following provision:
 
 Amendments to Invitations for Bids (DEC 2016)
 
-(a) If this solicitation is amended, then all terms and conditions which are not modified remain unchanged. 
+(a) If this solicitation is amended, then all terms and conditions which are not modified remain unchanged.
 
-(b)(1) Bidders shall acknowledge receipt of any amendment to this solicitation— 
+(b)(1) Bidders shall acknowledge receipt of any amendment to this solicitation—
 
-(i) By signing and returning the amendment; 
+(i) By signing and returning the amendment;
 
-(ii) By identifying the amendment number and date in space provided for this purpose on the form for submitting a bid; 
+(ii) By identifying the amendment number and date in space provided for this purpose on the form for submitting a bid;
 
-(iii) By letter; 
+(iii) By letter;
 
-(iv) By facsimile, if facsimile bids are authorized in the solicitation; or 
+(iv) By facsimile, if facsimile bids are authorized in the solicitation; or
 
-(v) By email, if email bids are authorized in the solicitation. 
+(v) By email, if email bids are authorized in the solicitation.
 
 (2) The Government must receive the acknowledgement by the time and at the place specified for receipt of bids.
 

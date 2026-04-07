@@ -1,12 +1,12 @@
 ##### 52.207-4 Economic Purchase Quantity—Supplies.
 
-As prescribed in 7.203, insert the following provision: 
+As prescribed in 7.203, insert the following provision:
 
 Economic Purchase Quantity—Supplies (AUG 1987)
 
-(a) Offerors are invited to state an opinion on whether the quantity(ies) of supplies on which bids, proposals or quotes are requested in this solicitation is (are) economically advantageous to the Government. 
+(a) Offerors are invited to state an opinion on whether the quantity(ies) of supplies on which bids, proposals or quotes are requested in this solicitation is (are) economically advantageous to the Government.
 
-(b) Each offeror who believes that acquisitions in different quantities would be more advantageous is invited to recommend an economic purchase quantity. If different quantities are recommended, a total and a unit price must be quoted for applicable items. An economic purchase quantity is that quantity at which a significant price break occurs. If there are significant price breaks at different quantity points, this information is desired as well. 
+(b) Each offeror who believes that acquisitions in different quantities would be more advantageous is invited to recommend an economic purchase quantity. If different quantities are recommended, a total and a unit price must be quoted for applicable items. An economic purchase quantity is that quantity at which a significant price break occurs. If there are significant price breaks at different quantity points, this information is desired as well.
 
 Offeror Recommendations
 | Item | Quantity | Price quotation | Total |

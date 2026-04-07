@@ -1,6 +1,6 @@
 ##### 52.242-13 Bankruptcy.
 
-As prescribed in 42.903, insert the following clause: 
+As prescribed in 42.903, insert the following clause:
 
 Bankruptcy (JUL 1995)
 

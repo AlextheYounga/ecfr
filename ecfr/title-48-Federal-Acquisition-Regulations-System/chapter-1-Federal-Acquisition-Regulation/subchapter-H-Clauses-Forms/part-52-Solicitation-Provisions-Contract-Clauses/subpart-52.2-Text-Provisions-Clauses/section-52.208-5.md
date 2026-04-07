@@ -1,6 +1,6 @@
 ##### 52.208-5 Condition of Leased Vehicles.
 
-As prescribed in 8.1104(b), insert the following clause in solicitations and contracts for leasing motor vehicles, unless the motor vehicles are leased in foreign countries: 
+As prescribed in 8.1104(b), insert the following clause in solicitations and contracts for leasing motor vehicles, unless the motor vehicles are leased in foreign countries:
 
 Condition of Leased Vehicles (APR 1984)
 

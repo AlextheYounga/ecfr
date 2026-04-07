@@ -1,6 +1,6 @@
 ##### § 292.8 Plan for Operations and Management.
 
-(a) Not later than August 15 of each year, the Summer EBT agency must submit to the FNS Regional Office its intent to administer the Summer EBT Program the following summer, along with an interim Plan for Operations and Management (POM) and expenditure plan for the Summer EBT Program for the upcoming fiscal year. For 2024 only, the Summer EBT agency must submit to the FNS regional office its intent to administer the Summer EBT Program by January 1, 2024, and the interim POM and expenditure plan as soon as is practicable. The interim POM must:
+(a) Not later than August 15 of each year, the Summer EBT agency must submit to the FNS Regional Office its intent to administer the Summer EBT Program the following summer, along with an interim Plan for Operations and Management (POM) and expenditure plan for the Summer EBT Program for the upcoming fiscal year. For 2024 only, the Summer EBT agency must submit to the FNS regional office its intent to administer the Summer EBT Program by January 1, 2024, and the interim POM and expenditure plan as soon as is practicable. The interim POM must:*e.g.,*
 
 (1) Include the Summer EBT agency's forecasted program participation, anticipated administrative funding needs as part of an expenditure plan, and other programmatic information required in paragraphs (e) and (f) of this section, if applicable, to the extent that such information has been determined at the time of submission.
 

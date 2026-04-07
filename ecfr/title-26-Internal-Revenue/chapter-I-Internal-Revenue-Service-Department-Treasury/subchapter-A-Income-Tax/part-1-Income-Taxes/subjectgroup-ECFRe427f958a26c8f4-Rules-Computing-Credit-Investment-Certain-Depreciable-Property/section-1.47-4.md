@@ -49,12 +49,12 @@ For the taxable year 1962, each shareholder's credit earned of $2,100 (7 percent
 
 (ii) The actual useful life of asset No. 3 is three years and six months. The recomputed qualified investment with respect to each shareholder's share of the basis of asset No. 3 is zero ($15,000 share of basis multiplied by zero applicable percentage) and for the taxable year 1962 each shareholder's recomputed credit earned is $1,050 (7 percent of $15,000). The income tax imposed by chapter 1 of the Code on each of the shareholders for the taxable year 1965 is increased by the $1,050 decrease in his credit earned for the taxable year 1962 (that is, $2,100 original credit earned minus $1,050 recomputed credit earned).
 
-| Basis  | Applicable percentage | Recomputed qualified investment |
-| ------ | --------------------- | ------------------------------- |
-| $7,500 | 331⁄3                 | $2,500                          |
-| $7,500 | 662⁄3                 | 5,000                           |
-| $7,500 | 100                   | 7,500                           |
-|        |                       | 15,000                          |
+| Basis    | Applicable percentage | Recomputed qualified investment |
+| -------- | --------------------- | ------------------------------- |
+| $7,50013 | 331⁄3                 | $2,500                          |
+| $7,500   | 662⁄3                 | 5,000                           |
+| $7,500   | 100                   | 7,500                           |
+|          |                       | 15,000                          |
 
 For the taxable year 1962 shareholder A's recomputed credit earned is $1,050 (7 percent of $15,000). The income tax imposed by chapter 1 of the Code on shareholder A for the taxable year 1964 is increased by the $1,050 decrease in his credit earned for the taxable year 1962 (that is, $2,100 original credit earned minus $1,050 recomputed credit earned). Example 2.(i) On December 3, 1964, shareholder A sells 5 of his 10 shares of stock in X Corporation to C, and on December 3, 1965, A sells his remaining 5 shares of stock to D. In addition, on January 2, 1966, X Corporation sells asset No. 3 to Y Corporation.
 

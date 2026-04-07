@@ -43,7 +43,7 @@ For the taxable year 1962, each partner's credit earned of $2,100 (7 percent of 
 
 | Partnership asset No. | Share of basis | Applicable percentage | Qualified investment |
 | --------------------- | -------------- | --------------------- | -------------------- |
-| 1                     | $7,500         | 331⁄3                 | $2,500               |
+| 113                   | $7,500         | 331⁄3                 | $2,500               |
 | 2                     | 7,500          | 662⁄3                 | 5,000                |
 | 3                     | 7,500          | 100                   | 7,500                |
 |                       |                |                       | 15,000               |
