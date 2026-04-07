@@ -1,8 +1,8 @@
 ##### § 78.47-40 Exit signs.
 
-(a) Illuminated exit signs are required and must be installed in accordance with subchapter J (Electrical Engineering Regulations) of this chapter. 
+(a) Illuminated exit signs are required and must be installed in accordance with subchapter J (Electrical Engineering Regulations) of this chapter.
 
-(b) Small rooms or spaces having a secondary means of escape which is not obviously apparent shall have a suitable sign in red letters “EMERGENCY EXIT” directing attention to such escape. 
+(b) Small rooms or spaces having a secondary means of escape which is not obviously apparent shall have a suitable sign in red letters “EMERGENCY EXIT” directing attention to such escape.
 
 Cross Reference:
 

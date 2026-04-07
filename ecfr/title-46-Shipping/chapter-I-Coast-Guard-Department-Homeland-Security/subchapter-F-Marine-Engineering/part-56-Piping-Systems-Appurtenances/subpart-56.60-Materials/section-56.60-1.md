@@ -1,20 +1,20 @@
 ##### § 56.60-1 Acceptable materials and specifications (replaces 123 and Table 126.1 in ASME B31.1).
 
-(a)(1) The material requirements in this subpart must be followed in lieu of those in 123 in ASME B31.1 (incorporated by reference; see § 56.01-2). 
+(a)(1) The material requirements in this subpart must be followed in lieu of those in 123 in ASME B31.1 (incorporated by reference; see § 56.01-2).
 
-(2) Materials used in piping systems must be selected from: 
+(2) Materials used in piping systems must be selected from:
 
-(i) The pipe, tubing, and fitting specifications that appear in table 1 to § 56.60-1or the accepted materials for use as piping system components that appear in table 1 to § 56.60-2; 
+(i) The pipe, tubing, and fitting specifications that appear in table 1 to § 56.60-1or the accepted materials for use as piping system components that appear in table 1 to § 56.60-2;
 
-(ii) ASTM F1155 (incorporated by reference; see § 56.01-2); or 
+(ii) ASTM F1155 (incorporated by reference; see § 56.01-2); or
 
-(iii) The material specifications of Sections I or VIII of the ASME BPVC (both incorporated by reference; see § 56.01-2) if not prohibited by a regulation of this subchapter. 
+(iii) The material specifications of Sections I or VIII of the ASME BPVC (both incorporated by reference; see § 56.01-2) if not prohibited by a regulation of this subchapter.
 
-(3) Materials conforming to specifications not described in paragraph (a)(2) of this section must receive the specific approval of the Marine Safety Center. 
+(3) Materials conforming to specifications not described in paragraph (a)(2) of this section must receive the specific approval of the Marine Safety Center.
 
-(4) Materials listed in Table 126.1 of ASME B31.1 are not accepted unless specifically permitted by this paragraph. 
+(4) Materials listed in Table 126.1 of ASME B31.1 are not accepted unless specifically permitted by this paragraph.
 
-(b) Components made in accordance with the commercial standards listed in table 2 to § 56.60-1 and made of materials complying with paragraph (a) this section may be used in piping systems within the limitations of the standards and within any further limitations specified in this subchapter. 
+(b) Components made in accordance with the commercial standards listed in table 2 to § 56.60-1 and made of materials complying with paragraph (a) this section may be used in piping systems within the limitations of the standards and within any further limitations specified in this subchapter.
 
 Table 1 to § 56.60-1—Adopted Specifications and Standards
 | ASTM standards                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | ASME standards                                                                                        | Notes             |

@@ -1,6 +1,6 @@
 ##### Sec. 18 Group classification.
 
-In the preparation of specifications, Job Orders, Supplemental Job Orders and WORKSMALREP Contracts costs by Group Numbers as set forth and described below are to be inserted thereon: 
+In the preparation of specifications, Job Orders, Supplemental Job Orders and WORKSMALREP Contracts costs by Group Numbers as set forth and described below are to be inserted thereon:
 
 | Number | Classification                                                                                                                                                                                                                                                         |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

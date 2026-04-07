@@ -1,42 +1,42 @@
 ##### § 11.321 Requirements to qualify for an STCW endorsement as officer in charge of a navigational watch (OICNW) of vessels of less than 500 GT limited to near-coastal waters (operational level).
 
-(a) To qualify for an STCW endorsement as OICNW, an applicant must— 
+(a) To qualify for an STCW endorsement as OICNW, an applicant must—
 
-(1) Provide evidence of seagoing service as follows: 
+(1) Provide evidence of seagoing service as follows:
 
-(i) Twenty-four months of seagoing service in the deck department on vessels operating in oceans, near-coastal waters, and/or Great Lakes. Service on inland waters, bays, or sounds that are navigable waters of the United States may be substituted for up to 50 percent of the total required service. Experience gained in the engine department may be creditable for up to 3 months of the service requirements; or 
+(i) Twenty-four months of seagoing service in the deck department on vessels operating in oceans, near-coastal waters, and/or Great Lakes. Service on inland waters, bays, or sounds that are navigable waters of the United States may be substituted for up to 50 percent of the total required service. Experience gained in the engine department may be creditable for up to 3 months of the service requirements; or
 
-(ii) Successful completion of an approved training program that includes seagoing service as required by the Coast Guard; or 
+(ii) Successful completion of an approved training program that includes seagoing service as required by the Coast Guard; or
 
-(iii) Successful completion of approved training for this section and obtain 12 months of seagoing service; 
+(iii) Successful completion of approved training for this section and obtain 12 months of seagoing service;
 
-(2) Provide evidence of meeting the standard of competence specified in Section A-II/3 of the STCW Code (incorporated by reference, see § 11.102 of this part); and 
+(2) Provide evidence of meeting the standard of competence specified in Section A-II/3 of the STCW Code (incorporated by reference, see § 11.102 of this part); and
 
-(3) Provide evidence of having satisfactorily completed approved training in the following subject areas: 
+(3) Provide evidence of having satisfactorily completed approved training in the following subject areas:
 
-(i) Medical first-aid provider. 
+(i) Medical first-aid provider.
 
-(ii) Basic and advanced firefighting in accordance with § 11.303 of this subpart. 
+(ii) Basic and advanced firefighting in accordance with § 11.303 of this subpart.
 
-(iii) Proficiency in survival craft and rescue boats other than fast rescue boats (PSC) or proficiency in survival craft and rescue boats other than lifeboats and fast rescue boats (PSC-limited). 
+(iii) Proficiency in survival craft and rescue boats other than fast rescue boats (PSC) or proficiency in survival craft and rescue boats other than lifeboats and fast rescue boats (PSC-limited).
 
-(iv) Bridge resource management; 
+(iv) Bridge resource management;
 
-(v) ECDIS, if serving on a vessel with this equipment. 
+(v) ECDIS, if serving on a vessel with this equipment.
 
-(vi) Radar observer, if serving on a vessel with this equipment. 
+(vi) Radar observer, if serving on a vessel with this equipment.
 
-(vii) ARPA, if serving on a vessel with this equipment. 
+(vii) ARPA, if serving on a vessel with this equipment.
 
-(b) For a renewal of an STCW endorsement as OICNW of vessels of less than 500 GT limited to near-coastal waters to be valid on or after January 1, 2017, each candidate must provide the following: 
+(b) For a renewal of an STCW endorsement as OICNW of vessels of less than 500 GT limited to near-coastal waters to be valid on or after January 1, 2017, each candidate must provide the following:
 
-(1) Evidence of meeting the standard of competence in leadership and teamworking skills. 
+(1) Evidence of meeting the standard of competence in leadership and teamworking skills.
 
-(2) Completion of approved training in ECDIS, if serving on a vessel with this equipment. 
+(2) Completion of approved training in ECDIS, if serving on a vessel with this equipment.
 
-(c) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-II/3 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the credential may include a corresponding limitation. 
+(c) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-II/3 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the credential may include a corresponding limitation.
 
-(d) Seafarers with one of the following national officer endorsements are eligible to apply for this endorsement upon completion of the requirements in the following table: 
+(d) Seafarers with one of the following national officer endorsements are eligible to apply for this endorsement upon completion of the requirements in the following table:
 
 Table 1 to § 11.321(d)—STCW Endorsement as OICNW of Vessels of Less Than 500 GT Limited to Near-Coastal Waters
 | Entry path from national endorsements                                                                                             | Sea service under authority of the endorsement 1 | Competence—STCW   Table A-II/3 2 | Training required by this   section 3 |

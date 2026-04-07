@@ -1,12 +1,12 @@
 ##### § 153.558 Special requirements for phosphoric acid.
 
-A phosphoric acid containment system must be: 
+A phosphoric acid containment system must be:
 
-(a) Lined with natural rubber or neoprene; 
+(a) Lined with natural rubber or neoprene;
 
-(b) Lined with a material approved for phosphoric acid tanks by the Commandant (CG-ENG); or 
+(b) Lined with a material approved for phosphoric acid tanks by the Commandant (CG-ENG); or
 
-(c) Made of a stainless steel that resists corrosion by phosphoric acid. 
+(c) Made of a stainless steel that resists corrosion by phosphoric acid.
 
 Note:
 

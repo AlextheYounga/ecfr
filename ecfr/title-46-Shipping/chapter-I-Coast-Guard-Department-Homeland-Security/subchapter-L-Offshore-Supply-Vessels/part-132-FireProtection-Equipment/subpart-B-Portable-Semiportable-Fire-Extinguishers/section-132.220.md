@@ -1,6 +1,6 @@
 ##### § 132.220 Installation.
 
-(a) Each portable fire extinguisher approved under subpart 162.028 of this chapter and each semi-portable fire extinguisher approved under subpart 162.039 of this chapter must be installed in compliance with Table 132.220 of this section. The placement of each extinguisher must satisfy the cognizant OCMI, who may also deem added extinguishers necessary for the proper protection of the vessel. 
+(a) Each portable fire extinguisher approved under subpart 162.028 of this chapter and each semi-portable fire extinguisher approved under subpart 162.039 of this chapter must be installed in compliance with Table 132.220 of this section. The placement of each extinguisher must satisfy the cognizant OCMI, who may also deem added extinguishers necessary for the proper protection of the vessel.
 
 Table 132.220—Required Portable and Semi-Portable Fire Extinguishers
 | Space                                                                        | Minimum required rating | Number and placement                                                                                                          |
@@ -21,16 +21,16 @@ Table 132.220—Required Portable and Semi-Portable Fire Extinguishers
 | 1 Not required where a fixed gaseous fire extinguishing system is installed. |                         |                                                                                                                               |
 | 2 Not required on vessels of less than 300 GT.                               |                         |                                                                                                                               |
 
-(b) Table 132.220 of this section indicates the minimum required number and type of extinguishers for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table. 
+(b) Table 132.220 of this section indicates the minimum required number and type of extinguishers for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.
 
-(c) Each semi-portable fire extinguisher must be mounted or otherwise placed in the open so as to be readily visible. 
+(c) Each semi-portable fire extinguisher must be mounted or otherwise placed in the open so as to be readily visible.
 
-(d) Except as provided by paragraph (d) of this section, each portable fire extinguisher must be mounted or otherwise placed in the open or behind glass so as to be readily visible. 
+(d) Except as provided by paragraph (d) of this section, each portable fire extinguisher must be mounted or otherwise placed in the open or behind glass so as to be readily visible.
 
-(e) A portable fire extinguisher may be mounted or otherwise placed in an enclosure together with the firehose, if the enclosure is marked in compliance with § 131.830 of this subchapter. 
+(e) A portable fire extinguisher may be mounted or otherwise placed in an enclosure together with the firehose, if the enclosure is marked in compliance with § 131.830 of this subchapter.
 
-(f) Each portable fire extinguisher and its station must be numbered to comply with § 131.835 of this subchapter. 
+(f) Each portable fire extinguisher and its station must be numbered to comply with § 131.835 of this subchapter.
 
-(g) No portable or semi-portable fire extinguisher with a nameplate indicating that it needs protection from freezing may be mounted or otherwise placed where freezing temperatures are foreseeable. 
+(g) No portable or semi-portable fire extinguisher with a nameplate indicating that it needs protection from freezing may be mounted or otherwise placed where freezing temperatures are foreseeable.
 
 \[CGD 82-004 and CGD 86-074, 62 FR 49348, Sept. 19, 1997, as amended by USCG-2012-0196, 81 FR 48271, July 22, 2016\]

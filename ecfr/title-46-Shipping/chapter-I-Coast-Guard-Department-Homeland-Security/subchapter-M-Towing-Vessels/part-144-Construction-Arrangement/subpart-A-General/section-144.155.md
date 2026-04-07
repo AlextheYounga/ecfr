@@ -1,18 +1,18 @@
 ##### § 144.155 Verification of compliance with design standards for a sister vessel.
 
-(a) Verification of compliance required by § 144.135 is not required for a sister vessel, provided that: 
+(a) Verification of compliance required by § 144.135 is not required for a sister vessel, provided that:
 
-(1) The original vessel has been verified as complying with this part; 
+(1) The original vessel has been verified as complying with this part;
 
-(2) The owner authorizes the use of the plans for the original vessels for the new construction of the sister vessel; 
+(2) The owner authorizes the use of the plans for the original vessels for the new construction of the sister vessel;
 
-(3) The standards used in the design and construction of the original vessel have not changed since the original verification of compliance; 
+(3) The standards used in the design and construction of the original vessel have not changed since the original verification of compliance;
 
-(4) The sister vessel is built to the same verified plans, drawings, schematics, calculations, and other documents and equipped with machinery of the same make and model as the original vessel, and has not been subsequently modified; 
+(4) The sister vessel is built to the same verified plans, drawings, schematics, calculations, and other documents and equipped with machinery of the same make and model as the original vessel, and has not been subsequently modified;
 
-(5) The sister vessel is built in the same shipyard facility as the original vessel; and 
+(5) The sister vessel is built in the same shipyard facility as the original vessel; and
 
-(6) For a sister vessel subject to a stability standard, that the conditions in Table 144.155 of this section are met: 
+(6) For a sister vessel subject to a stability standard, that the conditions in Table 144.155 of this section are met:
 
 Table 144.155
 | If—                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Then—                                                                                                                                                                                                                             |

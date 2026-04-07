@@ -1,12 +1,12 @@
 ##### § 28.115 Ring life buoys.
 
-(a) Except as provided in paragraph (b) of this section and § 28.305, each vessel must be equipped with a throwable flotation device or a ring life buoy as specified in table 28.115. If the vessel is equipped with a ring life buoy, at least one ring life buoy must be equipped with a line which is at least: 
+(a) Except as provided in paragraph (b) of this section and § 28.305, each vessel must be equipped with a throwable flotation device or a ring life buoy as specified in table 28.115. If the vessel is equipped with a ring life buoy, at least one ring life buoy must be equipped with a line which is at least:
 
-(1) 60 feet (18.3 meters) in length for a vessel less than 65 feet (19.8 meters) in length; or 
+(1) 60 feet (18.3 meters) in length for a vessel less than 65 feet (19.8 meters) in length; or
 
-(2) 90 feet (27.4 meters) in length for a vessel 65 feet (19.8 meters) or more in length. 
+(2) 90 feet (27.4 meters) in length for a vessel 65 feet (19.8 meters) or more in length.
 
-(b) For each vessel less than 65 feet (19.8 meters) in length, an approved 20 inch (0.51 meters) or larger ring life buoy which is in serviceable condition and which was installed on board before September 15, 1991, may be used to meet the requirements of paragraph (a) of this section. 
+(b) For each vessel less than 65 feet (19.8 meters) in length, an approved 20 inch (0.51 meters) or larger ring life buoy which is in serviceable condition and which was installed on board before September 15, 1991, may be used to meet the requirements of paragraph (a) of this section.
 
 Table 28.115—Throwable Flotation Devices
 | Vessel length                                                     | Devices required                                                                                                |

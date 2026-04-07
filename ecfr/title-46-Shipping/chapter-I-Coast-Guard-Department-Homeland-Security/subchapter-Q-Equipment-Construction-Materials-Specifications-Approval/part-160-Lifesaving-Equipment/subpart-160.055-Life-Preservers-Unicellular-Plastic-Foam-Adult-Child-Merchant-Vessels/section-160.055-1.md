@@ -1,28 +1,28 @@
 ##### § 160.055-1 Incorporation by reference.
 
-(a) *Specifications and Standards.* This subpart makes reference to the following documents: 
+(a) *Specifications and Standards.* This subpart makes reference to the following documents:
 
 (1) *Military Specifications:*
 
 MIL-W-530F—Webbing, Textile, Cotton, General Purpose, Natural or in Colors. MIL-T-3530E—Thread and Twine; Mildew Resistant or Water Repellant Treated. MIL-W-17337D—Webbing, Woven, Nylon. MIL-C-43006D—Cloth and Strip Laminated, Vinyl-Nylon High Strength, Flexible.
 
-(2) Federal Specifications: 
+(2) Federal Specifications:
 
 CCC-C-700G—Cloth, Coated, Vinyl, Coated (Artificial Leather). CCC-C-426D—Cloth, Drill, Cotton.
 
-(3) Federal Standards: 
+(3) Federal Standards:
 
 No. 191—Textile Test Methods. No. 595A—Color. No. 751A—Stitches, Seams, and Stitchings.
 
-(4) Standards of ASTM: 
+(4) Standards of ASTM:
 
 ASTM D 413-82 (1993), Standard Test Methods for Rubber Property—Adhesion to Flexible Substrate—160.055-3 ASTM D 570-95, Standard Test Method for Water Absorption of Plastics—160.055-3 ASTM D 882-97, Standard Test Method for Tensile Properties of Thin Plastic Sheeting—160.055-3 ASTM D 1004-94a, Standard Test Method for Initial Tear Resistance of Plastic Film and Sheeting—160.055-3
 
-(5) Coast Guard specification: 
+(5) Coast Guard specification:
 
 164.015—Plastic Foam, Unicellular, Buoyant, Sheet and Molded Shape.
 
-(b) *Plans.* The following plans, of the issue in effect on the date unicellular plastic foam life preservers are manufactured, form a part of this subpart: 
+(b) *Plans.* The following plans, of the issue in effect on the date unicellular plastic foam life preservers are manufactured, form a part of this subpart:
 
 Dwg. No. 160.055-IA: Sheet 1—Construction and Arrangement, Vinyl Dip Coated, Model 62, Adult. Sheet 2—Construction and Arrangement, Vinyl Dip Coated, Model 66, Child. Dwg. No. 160.055-IB: Sheet 1—Construction and Arrangement, Cloth Covered, Model 63, Adult. Sheet 2—Buoyant Inserts, Model 63. Sheet 3—Construction and Arrangement, Cloth Covered, Model 67, Child. Sheet 4—Buoyant Inserts, Model 67.
 

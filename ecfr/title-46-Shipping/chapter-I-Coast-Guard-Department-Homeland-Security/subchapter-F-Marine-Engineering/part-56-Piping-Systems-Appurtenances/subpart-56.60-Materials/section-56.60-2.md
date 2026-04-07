@@ -1,18 +1,18 @@
 ##### § 56.60-2 Limitations on materials.
 
-The following restrictions apply to the use of welded pipe and tubing specifications when utilized in piping systems, and not when utilized in heat exchanger, boiler, pressure vessel, or similar components: 
+The following restrictions apply to the use of welded pipe and tubing specifications when utilized in piping systems, and not when utilized in heat exchanger, boiler, pressure vessel, or similar components:
 
-(a) *Longitudinal joint.* Wherever possible, the longitudinal joint of a welded pipe must not be pierced with holes for branch connections or other purposes. 
+(a) *Longitudinal joint.* Wherever possible, the longitudinal joint of a welded pipe must not be pierced with holes for branch connections or other purposes.
 
-(b) *Class II.* Use unlimited except as restricted by maximum temperature or pressure specified in table 1 to § 56.60-1 or by the requirements contained in § 56.10-5(b). 
+(b) *Class II.* Use unlimited except as restricted by maximum temperature or pressure specified in table 1 to § 56.60-1 or by the requirements contained in § 56.10-5(b).
 
-(c) *Class I.* (1) For those specifications in which a filler metal is used, the following applies to the material as furnished prior to any fabrication: 
+(c) *Class I.* (1) For those specifications in which a filler metal is used, the following applies to the material as furnished prior to any fabrication:
 
-(i) For use in service above 800 °F full welding procedure qualifications by the Coast Guard are required. See part 57 of this subchapter. 
+(i) For use in service above 800 °F full welding procedure qualifications by the Coast Guard are required. See part 57 of this subchapter.
 
-(ii) Ultrasonic examination as required by item S-6 in ASTM A376 (incorporated by reference; see § 56.01-2) must be certified as having been met in all applications except where 100 percent radiography is a requirement of the particular material specification. 
+(ii) Ultrasonic examination as required by item S-6 in ASTM A376 (incorporated by reference; see § 56.01-2) must be certified as having been met in all applications except where 100 percent radiography is a requirement of the particular material specification.
 
-(2) For those specifications in which no filler material is used in the welding process, the ultrasonic examination as required by item S-6 in ASTM A376 must be certified as having been met for service above 800 °F. 
+(2) For those specifications in which no filler material is used in the welding process, the ultrasonic examination as required by item S-6 in ASTM A376 must be certified as having been met for service above 800 °F.
 
 Table 1 to § 56.60-2—Adopted Specifications Not Listed in the ASME BPVC
 | ASTM specifications                                                                                                                                                                                                                                                                                                                                                                                                                             | Supplementary requirements                                                                                                                                                                                                                                                                                                              |

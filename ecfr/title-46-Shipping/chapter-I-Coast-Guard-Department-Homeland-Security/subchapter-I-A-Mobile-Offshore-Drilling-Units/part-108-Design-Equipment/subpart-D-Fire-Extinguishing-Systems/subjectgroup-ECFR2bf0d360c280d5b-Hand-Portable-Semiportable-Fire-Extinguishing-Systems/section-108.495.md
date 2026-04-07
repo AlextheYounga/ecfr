@@ -2,7 +2,7 @@
 
 Link to an amendment published at 89 FR 76699, Sept. 18, 2024.
 
-Table 108.495 of this section indicates the minimum required number and type of fire extinguishers for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table. 
+Table 108.495 of this section indicates the minimum required number and type of fire extinguishers for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.
 
 Table 108.495—Carriage of Portable Fire Extinguishers
 | Space                                                                                                                  | Minimum required rating | Quantity and location                                                                                                              |

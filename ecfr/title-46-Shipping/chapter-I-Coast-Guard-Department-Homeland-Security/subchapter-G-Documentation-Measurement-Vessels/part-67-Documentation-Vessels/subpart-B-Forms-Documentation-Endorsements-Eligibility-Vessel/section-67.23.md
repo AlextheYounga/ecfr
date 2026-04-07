@@ -1,8 +1,8 @@
 ##### § 67.23 Recreational endorsement.
 
-(a) A recreational endorsement entitles a vessel to pleasure use only. 
+(a) A recreational endorsement entitles a vessel to pleasure use only.
 
-(b) Any vessel eligible for documentation under § 67.5 is eligible for a recreational endorsement. 
+(b) Any vessel eligible for documentation under § 67.5 is eligible for a recreational endorsement.
 
 Note:
 

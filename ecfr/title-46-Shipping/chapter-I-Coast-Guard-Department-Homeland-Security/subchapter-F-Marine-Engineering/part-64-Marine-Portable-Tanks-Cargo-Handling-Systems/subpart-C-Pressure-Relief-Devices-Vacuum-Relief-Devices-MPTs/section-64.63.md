@@ -1,16 +1,16 @@
 ##### § 64.63 Minimum emergency venting capacity.
 
-(a) The total emergency venting capacity (*Q*) of the relief devices of an uninsulated MPT must be in accordance with table 1 to § 64.63 or the following formula based upon the pressure relief device operating at a pressure not to exceed the test pressure: 
+(a) The total emergency venting capacity (*Q*) of the relief devices of an uninsulated MPT must be in accordance with table 1 to § 64.63 or the following formula based upon the pressure relief device operating at a pressure not to exceed the test pressure:
 
 Formula 1 to Paragraph (a) ![](/graphics/er12jn24.018.gif)Where: *Q* = Minimum required rate of discharge in cubic feet per minute of free air at standard conditions (60 °F and 14.7 psia). *M* = Molecular weight of the product, or 86.7. *T* = Temperature, degrees Rankine (460° + temperature in °F of gas at relieving temperature), or 710 °R. *A* = Total external surface area of the tank compartment in square feet. *L* = Latent heat of the product being vaporized at relieving conditions in Btu per pound, or 144 Btu per pound. *Z* = Compressibility factor of the gas at relieving conditions, or 1.0. *C* = Constant based on relation of specific heats, equal to 315.
 
-(b) The total emergency venting capacity (*Q*) of an insulated portable tank may have a reduction if— 
+(b) The total emergency venting capacity (*Q*) of an insulated portable tank may have a reduction if—
 
-(1) It is shown to the Coast Guard that the insulation reduces the heat transmission to the tank; 
+(1) It is shown to the Coast Guard that the insulation reduces the heat transmission to the tank;
 
-(2) The present reduction of the emergency venting capacity (*Q*) is limited to the percent reduction of the heat transmission to the tank or 50 percent, whichever is less; and 
+(2) The present reduction of the emergency venting capacity (*Q*) is limited to the percent reduction of the heat transmission to the tank or 50 percent, whichever is less; and
 
-(3) The insulation is sheathed. 
+(3) The insulation is sheathed.
 
 Table 1 to § 64.63—Minimum Emergency Venting Capacity in Cubic Feet: Free Air/Hour
 

@@ -1,42 +1,42 @@
 ##### § 54.01-5 Scope (modifies U-1 and U-2).
 
-(a) This part contains requirements for pressure vessels. Table 1 to § 54.01-5 gives a breakdown by parts in this subchapter of the regulations governing various types of pressure vessels, boilers, and thermal units. 
+(a) This part contains requirements for pressure vessels. Table 1 to § 54.01-5 gives a breakdown by parts in this subchapter of the regulations governing various types of pressure vessels, boilers, and thermal units.
 
-(b) Pressure vessels are divided into Classes I, I-L (low temperature), II, II-L (low temperature), and III. Table 2 to § 54.01-5 describes these classes and sets out additional requirements for welded pressure vessels. 
+(b) Pressure vessels are divided into Classes I, I-L (low temperature), II, II-L (low temperature), and III. Table 2 to § 54.01-5 describes these classes and sets out additional requirements for welded pressure vessels.
 
-(c) The requirements for pressure vessels by class are as follows: 
+(c) The requirements for pressure vessels by class are as follows:
 
-(1) Class I-L and II-L pressure vessels must meet the applicable requirements in this part. 
+(1) Class I-L and II-L pressure vessels must meet the applicable requirements in this part.
 
-(2) Pressure vessels containing hazardous materials as defined in § 150.115 of this chapter must meet the requirements of this part or, as applicable, the requirements in 49 CFR parts 171-177, or part 64 of this subchapter. 
+(2) Pressure vessels containing hazardous materials as defined in § 150.115 of this chapter must meet the requirements of this part or, as applicable, the requirements in 49 CFR parts 171-177, or part 64 of this subchapter.
 
-(3) Except as provided in paragraph (c)(4) of this section, Classes I, II, and III pressure vessels not containing hazardous materials must be designed and constructed in accordance with the requirements in Section VIII of the ASME BPVC (incorporated by reference; see § 54.01-1) and must be stamped with the ASME “U” symbol. These pressure vessels must also comply with the requirements that are listed or prescribed in paragraphs (d) through (g) of this section. Compliance with other provisions in this part is not required. 
+(3) Except as provided in paragraph (c)(4) of this section, Classes I, II, and III pressure vessels not containing hazardous materials must be designed and constructed in accordance with the requirements in Section VIII of the ASME BPVC (incorporated by reference; see § 54.01-1) and must be stamped with the ASME “U” symbol. These pressure vessels must also comply with the requirements that are listed or prescribed in paragraphs (d) through (g) of this section. Compliance with other provisions in this part is not required.
 
-(4) Classes II and III pressure vessels that have a net internal volume of less than 0.14 cubic meters (5 cubic feet) and do not contain hazardous materials must be stamped with either the ASME “U” or “UM” symbol. Compliance with other provisions in this part is not required. 
+(4) Classes II and III pressure vessels that have a net internal volume of less than 0.14 cubic meters (5 cubic feet) and do not contain hazardous materials must be stamped with either the ASME “U” or “UM” symbol. Compliance with other provisions in this part is not required.
 
-(d) Pressure vessels described in paragraph (c)(3) of this section must— 
+(d) Pressure vessels described in paragraph (c)(3) of this section must—
 
-(1) Have detailed plans that include the information required by § 54.01-18; 
+(1) Have detailed plans that include the information required by § 54.01-18;
 
-(2) Meet §§ 54.01-35, 54.20-3(c), and 54.25-3; 
+(2) Meet §§ 54.01-35, 54.20-3(c), and 54.25-3;
 
-(3) Have pressure relief devices required by subpart 54.15; 
+(3) Have pressure relief devices required by subpart 54.15;
 
-(4) Meet the applicable requirements in §§ 54.10-3, 54.10-20, and 54.10-25 for inspection, reports, and stamping; 
+(4) Meet the applicable requirements in §§ 54.10-3, 54.10-20, and 54.10-25 for inspection, reports, and stamping;
 
-(5) If welded, meet the post weld heat treatment and minimum joint and radiography requirement in table 2 to § 54.01-5; and 
+(5) If welded, meet the post weld heat treatment and minimum joint and radiography requirement in table 2 to § 54.01-5; and
 
-(6) If a steam generating pressure vessel, meet § 54.01-10. 
+(6) If a steam generating pressure vessel, meet § 54.01-10.
 
-(e) The plans required by paragraph (d)(1) of this section must be certified by a registered professional engineer to meet the design requirements in paragraph (d) of this section and in Section VIII of the ASME BPVC. The certification must appear on all drawings and analyses. The plans must be made available to the Coast Guard prior to the inspection required by § 54.10-3(c). 
+(e) The plans required by paragraph (d)(1) of this section must be certified by a registered professional engineer to meet the design requirements in paragraph (d) of this section and in Section VIII of the ASME BPVC. The certification must appear on all drawings and analyses. The plans must be made available to the Coast Guard prior to the inspection required by § 54.10-3(c).
 
-(f) If a pressure vessel has more than one independent chamber and the chambers have different classifications, each chamber must, as a minimum, meet the requirements for its classification. If a single classification for the entire pressure vessel is preferred, the classification selected must be one that is required to meet all of the regulations applicable to the classification that is not selected. For example, if one chamber is Class I and one chamber is Class II-L, the only single classification that can be selected is Class I-L. 
+(f) If a pressure vessel has more than one independent chamber and the chambers have different classifications, each chamber must, as a minimum, meet the requirements for its classification. If a single classification for the entire pressure vessel is preferred, the classification selected must be one that is required to meet all of the regulations applicable to the classification that is not selected. For example, if one chamber is Class I and one chamber is Class II-L, the only single classification that can be selected is Class I-L.
 
-(g) The design pressure for each interface between two chambers in a multichambered pressure vessel must be— 
+(g) The design pressure for each interface between two chambers in a multichambered pressure vessel must be—
 
-(1) The maximum allowable working pressure (gauge) in the chamber with the higher pressure; or 
+(1) The maximum allowable working pressure (gauge) in the chamber with the higher pressure; or
 
-(2) If one chamber is a vacuum chamber, the maximum allowable working pressure (absolute) in the other chamber minus the least operating pressure (absolute) in the vacuum chamber. 
+(2) If one chamber is a vacuum chamber, the maximum allowable working pressure (absolute) in the other chamber minus the least operating pressure (absolute) in the vacuum chamber.
 
 Table 1 to § 54.01-5—Regulation Reference for Boilers, Pressure Vessels, and Thermal Units
 | Service and pressure temperature boundaries                                                                                                                                                                                 | Part of subchapter   regulating   mechanical   design | Part of subchapter   regulating   automatic   control |

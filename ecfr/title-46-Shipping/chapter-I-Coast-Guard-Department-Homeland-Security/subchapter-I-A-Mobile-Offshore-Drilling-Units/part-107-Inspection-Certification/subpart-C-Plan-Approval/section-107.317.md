@@ -1,12 +1,12 @@
 ##### § 107.317 Addresses for submittal of plans, specifications, and calculations.
 
-The copies of each plan, specification, and calculation required under § 107.305 and § 107.309 must be submitted to one of the following as applicable: 
+The copies of each plan, specification, and calculation required under § 107.305 and § 107.309 must be submitted to one of the following as applicable:
 
-(a) The Officer in Charge, Marine Inspection, in the zone in which the unit is to be built or altered. 
+(a) The Officer in Charge, Marine Inspection, in the zone in which the unit is to be built or altered.
 
 (b) By visitors to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593, or by mail to: Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, in a written or electronic format. Information for submitting the VSP electronically can be found at *http://www.uscg.mil/HQ/MSC.*
 
-(c) The American Bureau of Shipping, (ABS) ABS Plaza, 16855 Northchase Drive, Houston, TX 77060. 
+(c) The American Bureau of Shipping, (ABS) ABS Plaza, 16855 Northchase Drive, Houston, TX 77060.
 
 Note:
 

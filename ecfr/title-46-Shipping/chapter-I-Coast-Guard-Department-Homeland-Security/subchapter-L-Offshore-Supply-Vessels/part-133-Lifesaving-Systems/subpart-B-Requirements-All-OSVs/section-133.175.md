@@ -1,24 +1,24 @@
 ##### § 133.175 Survival craft and rescue boat equipment.
 
-(a) All rescue boat equipment must be as follows: 
+(a) All rescue boat equipment must be as follows:
 
-(1) The equipment must be secured within the boat by lashings, storage in lockers or compartments, storage in brackets or similar mounting arrangements, or other suitable means. 
+(1) The equipment must be secured within the boat by lashings, storage in lockers or compartments, storage in brackets or similar mounting arrangements, or other suitable means.
 
-(2) The equipment must be secured in such a manner as not to interfere with any abandonment procedures or reduce seating capacity. 
+(2) The equipment must be secured in such a manner as not to interfere with any abandonment procedures or reduce seating capacity.
 
-(3) The equipment must be as small and of as little mass as possible. 
+(3) The equipment must be as small and of as little mass as possible.
 
-(4) The equipment must be packed in a suitable and compact form. 
+(4) The equipment must be packed in a suitable and compact form.
 
-(5) The equipment should be stowed so the items do not— 
+(5) The equipment should be stowed so the items do not—
 
-(i) Reduce the seating capacity; 
+(i) Reduce the seating capacity;
 
-(ii) Adversely affect the seaworthiness of the survival craft or rescue boat; or 
+(ii) Adversely affect the seaworthiness of the survival craft or rescue boat; or
 
-(iii) Overload the launching appliance. 
+(iii) Overload the launching appliance.
 
-(b) Each rigid liferaft and rescue boat, unless otherwise stated in this paragraph, must carry the equipment specified for it in table 133.175 of this section. Each item in the table has the same description as in § 199.175 of this chapter. 
+(b) Each rigid liferaft and rescue boat, unless otherwise stated in this paragraph, must carry the equipment specified for it in table 133.175 of this section. Each item in the table has the same description as in § 199.175 of this chapter.
 
 Note:
 

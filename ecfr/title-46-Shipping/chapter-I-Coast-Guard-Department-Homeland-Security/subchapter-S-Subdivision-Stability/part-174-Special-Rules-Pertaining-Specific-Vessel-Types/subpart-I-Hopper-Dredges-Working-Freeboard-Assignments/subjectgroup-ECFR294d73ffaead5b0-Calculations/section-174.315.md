@@ -1,8 +1,8 @@
 ##### § 174.315 Extent and character of damage.
 
-(a) The calculations required by § 174.310 must show that the dredge can survive damage at any location along the length of the vessel including at a transverse bulkhead in accordance with paragraph (b) of this section. 
+(a) The calculations required by § 174.310 must show that the dredge can survive damage at any location along the length of the vessel including at a transverse bulkhead in accordance with paragraph (b) of this section.
 
-(b) The calculations required by paragraph (a) of this section must assume the most disabling side penetration with the damage collision penetration provided by Table 174.315, except that if the most disabling damage collision penetrations would be less than those provided by Table 174.315, the smaller damage collision penetration must be assumed. 
+(b) The calculations required by paragraph (a) of this section must assume the most disabling side penetration with the damage collision penetration provided by Table 174.315, except that if the most disabling damage collision penetrations would be less than those provided by Table 174.315, the smaller damage collision penetration must be assumed.
 
 Table 174.315—Extent of Damage Collision Penetration
 | Longitudinal extent                                                                                                                                                                 | 0.495L2/3 or 47.6 feet. \[(1/3)(L)2/3 or 14.5 meters\] whichever is less. |

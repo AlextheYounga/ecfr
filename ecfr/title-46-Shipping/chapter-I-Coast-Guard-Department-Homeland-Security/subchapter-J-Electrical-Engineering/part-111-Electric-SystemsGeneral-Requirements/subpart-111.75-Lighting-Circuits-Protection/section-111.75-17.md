@@ -1,36 +1,36 @@
 ##### § 111.75-17 Navigation lights.
 
-Each navigation light system must meet the following: 
+Each navigation light system must meet the following:
 
-(a) *Feeders.* On vessels required to have a final emergency power source by § 112.05-5(a) of this chapter, each navigation light panel must be supplied by a feeder from the emergency switchboard (see § 112.43-13). The feeder must be protected by overcurrent devices rated or set at a value of at least twice that of the navigation light panel main fuses. 
+(a) *Feeders.* On vessels required to have a final emergency power source by § 112.05-5(a) of this chapter, each navigation light panel must be supplied by a feeder from the emergency switchboard (see § 112.43-13). The feeder must be protected by overcurrent devices rated or set at a value of at least twice that of the navigation light panel main fuses.
 
-(b) *Navigation light indicator panel.* Each self-propelled vessel must have a navigation light indicator panel in the navigating bridge to control side, masthead, and stern lights. The panel must visually and audibly signal the failure of each of these navigation lights. Each light source must be connected to a separate fused branch circuit. The panel must have a fused feeder disconnect switch, and the fuses must have at least twice the rating of the largest branch circuit fuse and must be greater than the maximum panel load. 
+(b) *Navigation light indicator panel.* Each self-propelled vessel must have a navigation light indicator panel in the navigating bridge to control side, masthead, and stern lights. The panel must visually and audibly signal the failure of each of these navigation lights. Each light source must be connected to a separate fused branch circuit. The panel must have a fused feeder disconnect switch, and the fuses must have at least twice the rating of the largest branch circuit fuse and must be greater than the maximum panel load.
 
-(c) *Dual light sources.* Each self-propelled vessel must have duplicate light sources for the side, masthead, and stern lights. 
+(c) *Dual light sources.* Each self-propelled vessel must have duplicate light sources for the side, masthead, and stern lights.
 
-(d) *Navigation lights.* Each navigation light must meet the following: 
+(d) *Navigation lights.* Each navigation light must meet the following:
 
-(1) Meet the technical details of the applicable navigation rules. 
+(1) Meet the technical details of the applicable navigation rules.
 
-(2) Be certified by an independent laboratory to the requirements of ANSI/UL 1104 or EN 14744 (incorporated by reference; see § 110.10-1 of this subchapter) or an equivalent standard under § 110.20-1 of this subchapter. Portable battery powered navigation lights need only be certified to the requirements of ANSI/UL 1104 applicable to those lights. 
+(2) Be certified by an independent laboratory to the requirements of ANSI/UL 1104 or EN 14744 (incorporated by reference; see § 110.10-1 of this subchapter) or an equivalent standard under § 110.20-1 of this subchapter. Portable battery powered navigation lights need only be certified to the requirements of ANSI/UL 1104 applicable to those lights.
 
-(3) Be labeled with a label stating the following: 
+(3) Be labeled with a label stating the following:
 
-(i) “MEETS \_\_\_\_\_\_\_\_\_\_.” (Insert the identification name or number of the standard under paragraph (d)(2) of this section to which the light was type-tested.) 
+(i) “MEETS \_\_\_\_\_\_\_\_\_\_.” (Insert the identification name or number of the standard under paragraph (d)(2) of this section to which the light was type-tested.)
 
-(ii) “TESTED BY \_\_\_\_\_\_\_\_\_\_.” (Insert the name or registered certification mark of the independent laboratory that tested the fixture to the standard under paragraph (d)(2) of this section). 
+(ii) “TESTED BY \_\_\_\_\_\_\_\_\_\_.” (Insert the name or registered certification mark of the independent laboratory that tested the fixture to the standard under paragraph (d)(2) of this section).
 
-(iii) Manufacturer's name. 
+(iii) Manufacturer's name.
 
-(iv) Model number. 
+(iv) Model number.
 
-(v) Visibility of the light in nautical miles. 
+(v) Visibility of the light in nautical miles.
 
-(vi) Date on which the fixture was type-tested. 
+(vi) Date on which the fixture was type-tested.
 
-(vii) Identification of bulb used in the compliance test. 
+(vii) Identification of bulb used in the compliance test.
 
-(4) If it is a flashing light, have its intensity determined by the formula: 
+(4) If it is a flashing light, have its intensity determined by the formula:
 
 Ie = G/(0.2 + t2−t1) Where Ie = Luminous Intensity. G = Integral of Idt evaluated between the limits of t1 and t2. t1 = Time in seconds of the beginning of the flash. t2 = Time in seconds of the end of the flash. I = Instantaneous intensity during the flash. Note:
 

@@ -1,20 +1,20 @@
 ##### § 109.565 Charts and nautical publications.
 
-The master or person in charge of a self-propelled unit shall ensure that the unit has the following adequate, up to date, and appropriate items for the intended voyage: 
+The master or person in charge of a self-propelled unit shall ensure that the unit has the following adequate, up to date, and appropriate items for the intended voyage:
 
-(a) Charts. 
+(a) Charts.
 
-(b) Sailing directions. 
+(b) Sailing directions.
 
-(c) Coast pilots. 
+(c) Coast pilots.
 
-(d) Light lists. 
+(d) Light lists.
 
-(e) Notices to mariners. 
+(e) Notices to mariners.
 
-(f) Tide Tables. 
+(f) Tide Tables.
 
-(g) Current Tables. 
+(g) Current Tables.
 
 (h) All other nautical publications necessary. 1
 

@@ -1,10 +1,10 @@
 ##### § 153.902 Expiration and invalidation of the Certificate of Compliance.
 
-(a) The Certificate of Compliance shows its expiration date. 
+(a) The Certificate of Compliance shows its expiration date.
 
-(b) The endorsement of a Certificate of Compliance under this part is invalid if the vessel does not have a valid IMO Certificate of Fitness. 
+(b) The endorsement of a Certificate of Compliance under this part is invalid if the vessel does not have a valid IMO Certificate of Fitness.
 
-(c) The endorsement on a Certificate of Compliance invalidated under paragraph (b) of this section, becomes valid again once the ship has the IMO Certificate of Fitness revalidated or reissued. 
+(c) The endorsement on a Certificate of Compliance invalidated under paragraph (b) of this section, becomes valid again once the ship has the IMO Certificate of Fitness revalidated or reissued.
 
 Note:
 

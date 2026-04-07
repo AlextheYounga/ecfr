@@ -1,8 +1,8 @@
 ##### § 160.016-1 Applicable specification.
 
-(a) The following specification of the issue in effect on the date flame safety lamps are manufactured forms a part of this subpart: 
+(a) The following specification of the issue in effect on the date flame safety lamps are manufactured forms a part of this subpart:
 
-(1) Military specification: 
+(1) Military specification:
 
 MIL-L-1204, Lamps, Safety, Flame.
 

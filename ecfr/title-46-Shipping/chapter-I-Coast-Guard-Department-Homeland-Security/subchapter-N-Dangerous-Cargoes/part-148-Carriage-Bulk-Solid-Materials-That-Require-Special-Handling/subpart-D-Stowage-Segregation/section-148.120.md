@@ -1,20 +1,20 @@
 ##### § 148.120 Stowage and segregation requirements.
 
-(a) Each material listed in Table 148.10 of this part must be segregated from incompatible materials in accordance with— 
+(a) Each material listed in Table 148.10 of this part must be segregated from incompatible materials in accordance with—
 
-(1) The requirements of Tables 148.120A and 148.120B of this section that pertain to the primary or subsidiary hazard class to which the materials belong. Whenever a subsidiary hazard may exist, the most stringent segregation requirement applies; and 
+(1) The requirements of Tables 148.120A and 148.120B of this section that pertain to the primary or subsidiary hazard class to which the materials belong. Whenever a subsidiary hazard may exist, the most stringent segregation requirement applies; and
 
-(2) Any specific requirements in Subpart D of this part. 
+(2) Any specific requirements in Subpart D of this part.
 
-(b) Materials that are required to be separated during stowage must not be handled at the same time. Any residue from a material must be removed before a material required to be separated from it is loaded. 
+(b) Materials that are required to be separated during stowage must not be handled at the same time. Any residue from a material must be removed before a material required to be separated from it is loaded.
 
-(c) Definitions and application of segregation terms: 
+(c) Definitions and application of segregation terms:
 
-(1) *“Separated from”* means located in different cargo compartments or holds when stowed under deck. If the intervening deck is resistant to fire and liquid, a vertical separation, i.e., in different cargo compartments, is acceptable as equivalent to this segregation. 
+(1) *“Separated from”* means located in different cargo compartments or holds when stowed under deck. If the intervening deck is resistant to fire and liquid, a vertical separation, i.e., in different cargo compartments, is acceptable as equivalent to this segregation.
 
-(2) *“Separated by a complete cargo compartment or hold from”* means either a vertical or horizontal separation, for example, by a complete cargo compartment or hold. If the intervening decks are not resistant to fire and liquid, only horizontal separation is acceptable. 
+(2) *“Separated by a complete cargo compartment or hold from”* means either a vertical or horizontal separation, for example, by a complete cargo compartment or hold. If the intervening decks are not resistant to fire and liquid, only horizontal separation is acceptable.
 
-(3) *“Separated longitudinally by an intervening complete cargo compartment or hold from”* means that vertical separation alone does not meet this requirement. 
+(3) *“Separated longitudinally by an intervening complete cargo compartment or hold from”* means that vertical separation alone does not meet this requirement.
 
 Table 148.120A—Segregation Between Incompatible Bulk Solid Cargoes
 | Bulk solid materials                                                                                               | Class | 4.1 | 4.2 | 4.3 | 5.1 | 6.1 | 7 | 8 | 9/PDM |

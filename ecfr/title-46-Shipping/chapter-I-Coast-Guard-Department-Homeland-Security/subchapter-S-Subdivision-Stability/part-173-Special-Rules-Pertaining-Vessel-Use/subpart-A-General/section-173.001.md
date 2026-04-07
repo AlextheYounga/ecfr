@@ -1,11 +1,11 @@
 ##### § 173.001 Applicability.
 
-Each vessel that is engaged in one of the following activities must comply with the applicable provisions of this part: 
+Each vessel that is engaged in one of the following activities must comply with the applicable provisions of this part:
 
-(a) Lifting. 
+(a) Lifting.
 
-(b) Training (schoolship). 
+(b) Training (schoolship).
 
-(c) Oceanographic research. 
+(c) Oceanographic research.
 
 (d) Towing.

@@ -1,6 +1,6 @@
 ##### § 167.45-80 Fire axes.
 
-(a) All nautical school ships shall be provided with fire axes, as follows: 
+(a) All nautical school ships shall be provided with fire axes, as follows:
 
 |                                           | Number of axes |
 | ----------------------------------------- | -------------- |

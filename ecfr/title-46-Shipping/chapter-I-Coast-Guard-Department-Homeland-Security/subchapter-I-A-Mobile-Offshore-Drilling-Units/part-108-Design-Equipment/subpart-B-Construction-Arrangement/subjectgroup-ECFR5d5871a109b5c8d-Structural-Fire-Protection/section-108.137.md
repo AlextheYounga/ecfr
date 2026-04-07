@@ -1,13 +1,13 @@
 ##### § 108.137 Bulkhead and deck separations of accommodation spaces.
 
-Each boundary bulkhead and deck that separates an accommodation space or control station from the following must be an A class bulkhead and A class deck respectively— 
+Each boundary bulkhead and deck that separates an accommodation space or control station from the following must be an A class bulkhead and A class deck respectively—
 
-(a) Machinery space; 
+(a) Machinery space;
 
-(b) Galley or combination galley and messroom; 
+(b) Galley or combination galley and messroom;
 
-(c) Main pantry; 
+(c) Main pantry;
 
-(d) Classified space; 
+(d) Classified space;
 
 (e) Store room.

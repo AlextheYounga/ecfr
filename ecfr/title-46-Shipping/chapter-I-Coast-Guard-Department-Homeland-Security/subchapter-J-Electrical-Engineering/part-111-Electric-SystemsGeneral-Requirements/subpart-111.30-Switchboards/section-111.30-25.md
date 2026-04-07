@@ -1,81 +1,81 @@
 ##### § 111.30-25 Alternating-current ship's service switchboards.
 
-(a) Except as allowed in paragraph (g) of this section, each alternating-current ship's service switchboard must have the equipment required by paragraphs (b) through (f) of this section. 
+(a) Except as allowed in paragraph (g) of this section, each alternating-current ship's service switchboard must have the equipment required by paragraphs (b) through (f) of this section.
 
-(b) For each connected generator, each switchboard must have the following: 
+(b) For each connected generator, each switchboard must have the following:
 
-(1) A circuit breaker that meets § 111.12-11 and § 111.50-5. 
+(1) A circuit breaker that meets § 111.12-11 and § 111.50-5.
 
-(2) A disconnect switch or link for each generator conductor, except a switchboard having a draw-out or plug-in type generator circuit breaker that disconnects: 
+(2) A disconnect switch or link for each generator conductor, except a switchboard having a draw-out or plug-in type generator circuit breaker that disconnects:
 
-(i) Each generator conductor; or 
+(i) Each generator conductor; or
 
-(ii) If there is a switch in the generator neutral, each ungrounded conductor. 
+(ii) If there is a switch in the generator neutral, each ungrounded conductor.
 
-(3) An indicator light connected between the generator and the circuit breaker. 
+(3) An indicator light connected between the generator and the circuit breaker.
 
-(4) An ammeter with a selector switch that connects the ammeter to show the current in each phase. 
+(4) An ammeter with a selector switch that connects the ammeter to show the current in each phase.
 
-(5) A voltmeter with a selector switch that connects the voltmeter to show the: 
+(5) A voltmeter with a selector switch that connects the voltmeter to show the:
 
-(i) Generator voltage of each phase; and 
+(i) Generator voltage of each phase; and
 
-(ii) Bus voltage of one phase. 
+(ii) Bus voltage of one phase.
 
-(6) A voltage regulator and voltage regulator functional cut-out switch. 
+(6) A voltage regulator and voltage regulator functional cut-out switch.
 
-(c) For each generator that is not excited from a variable voltage or rotary amplifier that is controlled by a voltage regulator unit acting on the exciter field, each switchboard must have: 
+(c) For each generator that is not excited from a variable voltage or rotary amplifier that is controlled by a voltage regulator unit acting on the exciter field, each switchboard must have:
 
-(1) A generator field rheostat; 
+(1) A generator field rheostat;
 
-(2) A double-pole field switch; 
+(2) A double-pole field switch;
 
-(3) Discharge clips; and 
+(3) Discharge clips; and
 
-(4) A discharge resistor. 
+(4) A discharge resistor.
 
-(d) If generators are arranged for parallel operation, each switchboard must have: 
+(d) If generators are arranged for parallel operation, each switchboard must have:
 
-(1) A speed control for the prime mover of each generator; 
+(1) A speed control for the prime mover of each generator;
 
-(2) A wattmeter for each generator; and 
+(2) A wattmeter for each generator; and
 
-(3) A synchroscope and synchronizing lamp that have a selector switch to show synchronization for paralleling generators. 
+(3) A synchroscope and synchronizing lamp that have a selector switch to show synchronization for paralleling generators.
 
-(e) Each switchboard must have the following: 
+(e) Each switchboard must have the following:
 
-(1) Ground detection that meets subpart 111.05 for the: 
+(1) Ground detection that meets subpart 111.05 for the:
 
-(i) Ship's service power system; 
+(i) Ship's service power system;
 
-(ii) Normal lighting system; and 
+(ii) Normal lighting system; and
 
-(iii) Emergency lighting system. 
+(iii) Emergency lighting system.
 
-(2) A frequency meter with a selector switch to connect the meter to each generator. 
+(2) A frequency meter with a selector switch to connect the meter to each generator.
 
-(3) An exciter field rheostat. 
+(3) An exciter field rheostat.
 
-(f) For each shore power connection each switchboard must have: 
+(f) For each shore power connection each switchboard must have:
 
-(1) A circuit breaker or fused switch; 
+(1) A circuit breaker or fused switch;
 
-(2) An indicator connected to the shore side of the circuit breaker or fused switch; and 
+(2) An indicator connected to the shore side of the circuit breaker or fused switch; and
 
-(3) One of the voltmeters under paragraph (b)(5) of this section connected to show the voltage of each phase of the shore power connection. 
+(3) One of the voltmeters under paragraph (b)(5) of this section connected to show the voltage of each phase of the shore power connection.
 
-(g) The equipment under paragraphs (b)(1) and (2) and (f)(1) of this section, except the equipment under paragraphs (b)(1) and (2) and (f)(1) of this section, must be on the ship's service switchboard or on a central control console that: 
+(g) The equipment under paragraphs (b)(1) and (2) and (f)(1) of this section, except the equipment under paragraphs (b)(1) and (2) and (f)(1) of this section, must be on the ship's service switchboard or on a central control console that:
 
-(1) Is in the same control area as the main ship's service switchboard or can remotely control the ship's service generator circuit breaker; 
+(1) Is in the same control area as the main ship's service switchboard or can remotely control the ship's service generator circuit breaker;
 
-(2) Has a generator section that has only generator functions; 
+(2) Has a generator section that has only generator functions;
 
-(3) Has the generator section segregated from each other console section by a fire-resistant barrier; and 
+(3) Has the generator section segregated from each other console section by a fire-resistant barrier; and
 
-(4) Has cabling from the main switchboard to the generator section of the console that: 
+(4) Has cabling from the main switchboard to the generator section of the console that:
 
-(i) Has only generator control and generator instrumentation circuits; and 
+(i) Has only generator control and generator instrumentation circuits; and
 
-(ii) Is protected from mechanical damage. 
+(ii) Is protected from mechanical damage.
 
 \[CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by USCG-2020-0075, 88 FR 16361, Mar. 16, 2023\]

@@ -1,6 +1,6 @@
 ##### § 54.01-2 Adoption of Division 1 of Section VIII of the ASME BPVC.
 
-(a) Pressure vessels must be designed, constructed, and inspected in accordance with Section VIII of the ASME BPVC (incorporated by reference, see § 54.01-1), as limited, modified, or replaced by specific requirements in this part. The provisions in the appendices to Section VIII of the ASME BPVC are adopted and must be followed when the requirements in Section VIII make them mandatory. For general information, table 1 to § 54.01-2(a) lists the various paragraphs in Section VIII of the ASME BPVC that are limited, modified, or replaced by regulations in this part. 
+(a) Pressure vessels must be designed, constructed, and inspected in accordance with Section VIII of the ASME BPVC (incorporated by reference, see § 54.01-1), as limited, modified, or replaced by specific requirements in this part. The provisions in the appendices to Section VIII of the ASME BPVC are adopted and must be followed when the requirements in Section VIII make them mandatory. For general information, table 1 to § 54.01-2(a) lists the various paragraphs in Section VIII of the ASME BPVC that are limited, modified, or replaced by regulations in this part.
 
 Table 1 to § 54.01-2(a)—Limitations and Modifications in the Adoption of Section VIII of the ASME BPVC
 | Paragraphs in section VIII of the ASME BPVC and disposition                                                                                                                                                                                                                                                                    | Unit of this part               |
@@ -44,20 +44,20 @@ Table 1 to § 54.01-2(a)—Limitations and Modifications in the Adoption of Sect
 | Appendix 3 modified by                                                                                                                                                                                                                                                                                                         | 54.15-3.                        |
 | **Note 1 to table § 54.01-2(a):** The references to specific provisions in Section VIII of the ASME BPVC are coded. The first letter, such as “U,” refers to Division 1 of Section VIII. The second letter, such as “G,” refers to a subsection within Section VIII. The number refers to the paragraph within the subsection. |                                 |
 
-(b) References to the ASME BPVC, such as paragraph UG-125, indicate: 
+(b) References to the ASME BPVC, such as paragraph UG-125, indicate:
 
-(1) U = Division 1 of Section VIII of the ASME BPVC. 
+(1) U = Division 1 of Section VIII of the ASME BPVC.
 
-(2) G = Part containing general requirements. 
+(2) G = Part containing general requirements.
 
-(3) 125 = Paragraph within part. 
+(3) 125 = Paragraph within part.
 
-(c) When a paragraph or a section of the regulations in this part relates to material in Section VIII of the ASME BPVC, the relationship with the code will be shown immediately following the heading of the section or at the beginning of the paragraph, as follows: 
+(c) When a paragraph or a section of the regulations in this part relates to material in Section VIII of the ASME BPVC, the relationship with the code will be shown immediately following the heading of the section or at the beginning of the paragraph, as follows:
 
-(1) (Modifies U\_\_.) This indicates that the material in U\_\_ is generally applicable but is being altered, amplified or augmented. 
+(1) (Modifies U\_\_.) This indicates that the material in U\_\_ is generally applicable but is being altered, amplified or augmented.
 
-(2) (Replaces U\_\_.) This indicates that U\_\_ does not apply. 
+(2) (Replaces U\_\_.) This indicates that U\_\_ does not apply.
 
-(3) (Reproduces U\_\_.) This indicates that U\_\_ is being identically reproduced for convenience, not for emphasis. 
+(3) (Reproduces U\_\_.) This indicates that U\_\_ is being identically reproduced for convenience, not for emphasis.
 
 \[CGFR 68-82, 33 FR 18828, Dec. 18, 1968, as amended by CGFR 69-127, 35 FR 9976, June 17, 1970; CGFR 72-59R, 37 FR 6188, Mar. 25, 1972; CGD 72-206R, 38 FR 17226, June 29, 1973; CGD 73-254, 40 FR 40163, Sept. 2, 1975; CGD 77-147, 47 FR 21809, May 20, 1982; CGD 85-061, 54 FR 50963, Dec. 11, 1989. Redesignated by CGD 88-032, 56 FR 35822, July 29, 1991; USCG-2003-16630, 73 FR 65164, Oct. 31, 2008\]

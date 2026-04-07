@@ -1,12 +1,12 @@
 ##### § 56.50-105 Low-temperature piping.
 
-(a) *Class I-L.* Piping systems designated to operate at temperatures below 0 °F and pressures above 150 psig must be of Class I-L. Exceptions to this rule may be found in the individual requirements for specific commodities in subchapters D, I, and O of this chapter. The following requirements for Class I-L piping systems must be satisfied: 
+(a) *Class I-L.* Piping systems designated to operate at temperatures below 0 °F and pressures above 150 psig must be of Class I-L. Exceptions to this rule may be found in the individual requirements for specific commodities in subchapters D, I, and O of this chapter. The following requirements for Class I-L piping systems must be satisfied:
 
-(1) *Materials.* All materials used in low temperature piping systems must be selected from among those specifications listed in table 2 to § 56.50-105 and must satisfy all of the requirements of the specifications, except that: 
+(1) *Materials.* All materials used in low temperature piping systems must be selected from among those specifications listed in table 2 to § 56.50-105 and must satisfy all of the requirements of the specifications, except that:
 
-(i) The minimum service temperature as defined in § 54.25-10(a)(2) of this subchapter must not be colder than that shown in table 2 to § 56.50-105; and 
+(i) The minimum service temperature as defined in § 54.25-10(a)(2) of this subchapter must not be colder than that shown in table 2 to § 56.50-105; and
 
-(ii) The material must be tested for low temperature toughness per ASTM E23 (incorporated by reference, see § 56.01-2), Figure 4. The toughness testing requirements of subpart 54.05 of this subchapter must be satisfied for each particular product form. Charpy V-notch tests must be conducted at temperatures not warmer than 10 °F below the minimum service temperature of the design, except that for service temperatures of −320 °F and below, the impact test may be conducted at the service temperature. The minimum average energy must not be less than that shown in table 2 to § 56.50-105. In the case of steels conforming to the specifications of table 1 to § 54.25-20(a) of this subchapter the minimum lateral expansion must not be less than that required in § 54.25-20 of this subchapter. The minimum energy permitted for a single specimen and the minimum subsize energies must be those obtained by multiplying the average energy shown in table 2 to § 56.50-105 by the applicable fraction shown in table 1 to § 56.50-105(a)(1)(ii). 
+(ii) The material must be tested for low temperature toughness per ASTM E23 (incorporated by reference, see § 56.01-2), Figure 4. The toughness testing requirements of subpart 54.05 of this subchapter must be satisfied for each particular product form. Charpy V-notch tests must be conducted at temperatures not warmer than 10 °F below the minimum service temperature of the design, except that for service temperatures of −320 °F and below, the impact test may be conducted at the service temperature. The minimum average energy must not be less than that shown in table 2 to § 56.50-105. In the case of steels conforming to the specifications of table 1 to § 54.25-20(a) of this subchapter the minimum lateral expansion must not be less than that required in § 54.25-20 of this subchapter. The minimum energy permitted for a single specimen and the minimum subsize energies must be those obtained by multiplying the average energy shown in table 2 to § 56.50-105 by the applicable fraction shown in table 1 to § 56.50-105(a)(1)(ii).
 
 Table 1 to § 56.50-105(a)(1)(ii)—Charpy V-Notch Energy Multiplying Factors
 | Charpy V-notch specimen size 1                                      | Factor for minimum   energy, average of   3 specimens 1 | Factor for minimum   energy single   specimen 1 |
@@ -17,29 +17,29 @@ Table 1 to § 56.50-105(a)(1)(ii)—Charpy V-Notch Energy Multiplying Factors
 | 10 × 2.5 mm                                                         | 1/2                                                     | 1/3                                             |
 | 1 Straight line interpolation for intermediate values is permitted. |                                                         |                                                 |
 
-(iii) Steels differing in chemical composition, mechanical properties, or heat treatments from those specified may be specially approved by the Marine Safety Center. Similarly, aluminum alloys and other materials not covered in table 2 to § 56.50-105 may be specifically approved by the Marine Safety Center. 
+(iii) Steels differing in chemical composition, mechanical properties, or heat treatments from those specified may be specially approved by the Marine Safety Center. Similarly, aluminum alloys and other materials not covered in table 2 to § 56.50-105 may be specifically approved by the Marine Safety Center.
 
-(2) *Piping weldments.* Piping weldments must be fabricated to satisfy the requirements of § 57.03-1(b) of this subchapter in addition to subpart 56.70. Toughness testing of production weldments for low temperature piping systems and assemblies is not required. 
+(2) *Piping weldments.* Piping weldments must be fabricated to satisfy the requirements of § 57.03-1(b) of this subchapter in addition to subpart 56.70. Toughness testing of production weldments for low temperature piping systems and assemblies is not required.
 
-(3) *Postweld heat treatment.* All piping weldments must be postweld heat treated for stress relief in accordance with the procedures of subpart 56.85. 
+(3) *Postweld heat treatment.* All piping weldments must be postweld heat treated for stress relief in accordance with the procedures of subpart 56.85.
 
-(4) *Nonacceptable joints.* Single welded butt joints with backing ring left in place, socket welds, slip-on flanges, pipe joining sleeves, and threaded joints must not be used, except in small diameter instrument lines. 
+(4) *Nonacceptable joints.* Single welded butt joints with backing ring left in place, socket welds, slip-on flanges, pipe joining sleeves, and threaded joints must not be used, except in small diameter instrument lines.
 
-(5) *Other requirements.* All other requirements of this part for Class I piping apply to Class I-L piping. Pressure testing must comply with subpart 56.97, and nondestructive testing of circumferentially welded joints must comply with § 56.95-10. Seamless tubular products must be used except that, when the service pressure does not exceed 1724 kPa (250 psi), the Marine Safety Center, may give special consideration to appropriate grades of piping and tubing that are welded without the addition of filler metal in the root pass. Each production procedure and quality-control program for welded products must be acceptable to the Officer in Charge, Marine Inspection. 
+(5) *Other requirements.* All other requirements of this part for Class I piping apply to Class I-L piping. Pressure testing must comply with subpart 56.97, and nondestructive testing of circumferentially welded joints must comply with § 56.95-10. Seamless tubular products must be used except that, when the service pressure does not exceed 1724 kPa (250 psi), the Marine Safety Center, may give special consideration to appropriate grades of piping and tubing that are welded without the addition of filler metal in the root pass. Each production procedure and quality-control program for welded products must be acceptable to the Officer in Charge, Marine Inspection.
 
-(b) *Class II-L.* Piping systems designed to operate at temperatures below 0 °F and pressures not higher than 150 psig must be of Class II-L. Exceptions to this rule may be found in the individual requirements for specific commodities in subchapter D and subchapter I, both of this chapter. The following requirements for Class II-L piping systems must be satisfied: 
+(b) *Class II-L.* Piping systems designed to operate at temperatures below 0 °F and pressures not higher than 150 psig must be of Class II-L. Exceptions to this rule may be found in the individual requirements for specific commodities in subchapter D and subchapter I, both of this chapter. The following requirements for Class II-L piping systems must be satisfied:
 
-(1) Materials must be the same as those required by paragraph (a)(1) of this section except that pipe and tubing of appropriate grades welded without the addition of a filler metal may be used. The Commandant may give special consideration to tubular products welded with the addition of filler metal. 
+(1) Materials must be the same as those required by paragraph (a)(1) of this section except that pipe and tubing of appropriate grades welded without the addition of a filler metal may be used. The Commandant may give special consideration to tubular products welded with the addition of filler metal.
 
-(2) Piping weldments must be fabricated to satisfy the requirements of § 57.03-1(b) of this subchapter in addition to subpart 56.70. Toughness testing of production weldments for low temperature piping systems and assemblies is not required. 
+(2) Piping weldments must be fabricated to satisfy the requirements of § 57.03-1(b) of this subchapter in addition to subpart 56.70. Toughness testing of production weldments for low temperature piping systems and assemblies is not required.
 
-(3) All piping weldments must be postweld heat treated for stress relief in accordance with the procedures of subpart 56.85. 
+(3) All piping weldments must be postweld heat treated for stress relief in accordance with the procedures of subpart 56.85.
 
-(4) Socket welds in nominal sizes above 3 inches, slip-on flanges in nominal sizes above 4 inches, and threaded joints in sizes above 1 inch must not be used. 
+(4) Socket welds in nominal sizes above 3 inches, slip-on flanges in nominal sizes above 4 inches, and threaded joints in sizes above 1 inch must not be used.
 
-(5) Pressure testing must comply with subpart 56.97, and nondestructive testing of welded joints must comply with § 56.95-10. 
+(5) Pressure testing must comply with subpart 56.97, and nondestructive testing of welded joints must comply with § 56.95-10.
 
-(6) All other requirements contained in this part for Class II piping are applicable to Class II-L systems, except that § 56.70-15(b)(3)(iv) does not apply. 
+(6) All other requirements contained in this part for Class II piping are applicable to Class II-L systems, except that § 56.70-15(b)(3)(iv) does not apply.
 
 Table 2 to § 56.50-105—Acceptable Materials and Toughness Test Criteria
 | Product form                                                                                                                                                                                                                                                                                   | ASTM   specification 1    | Grade 2                                                                                         | Minimum service temperature                       | Minimum avg Charpy V notch energy                                                                                                                                                                                                                               |

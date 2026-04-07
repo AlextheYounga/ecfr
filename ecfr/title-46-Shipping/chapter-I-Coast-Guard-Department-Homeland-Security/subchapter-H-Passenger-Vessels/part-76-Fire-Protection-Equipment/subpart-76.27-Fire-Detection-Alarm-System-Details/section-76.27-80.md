@@ -1,50 +1,50 @@
 ##### § 76.27-80 Installations contracted for on or after November 19, 1952 and prior to July 22, 2021.
 
-Installations contracted for on or after November 19, 1952 and prior to July 22, 2021, must meet the following requirements: 
+Installations contracted for on or after November 19, 1952 and prior to July 22, 2021, must meet the following requirements:
 
-(a) *Location and spacing of detectors.* (1) The detectors must be located close to the overhead in the space protected. Where prone to physical damage, the detector(s) must be suitably protected. 
+(a) *Location and spacing of detectors.* (1) The detectors must be located close to the overhead in the space protected. Where prone to physical damage, the detector(s) must be suitably protected.
 
-(2) Unless specifically approved otherwise, every point on the overhead of a protected space must be within 10 feet (3.05 meters) of a detector. Where beams or girders extend below the ceiling, or where the ceiling is installed at more than one level, the detectors must be so located as to be most effective. 
+(2) Unless specifically approved otherwise, every point on the overhead of a protected space must be within 10 feet (3.05 meters) of a detector. Where beams or girders extend below the ceiling, or where the ceiling is installed at more than one level, the detectors must be so located as to be most effective.
 
-(b) *Operation and installation.* (1) The system must be so arranged and installed that the presence of a fire in any of the protected spaces will be automatically registered visibly and audibly in the pilothouse or fire control station. The visible notice must indicate the zone in which the alarm originated. On vessels of more than 150 feet (45.72 meters) in length, there must also be an audible alarm in the engine room. 
+(b) *Operation and installation.* (1) The system must be so arranged and installed that the presence of a fire in any of the protected spaces will be automatically registered visibly and audibly in the pilothouse or fire control station. The visible notice must indicate the zone in which the alarm originated. On vessels of more than 150 feet (45.72 meters) in length, there must also be an audible alarm in the engine room.
 
-(2) The detectors, the fire detection cabinet, and alarms must be of an approved type. 
+(2) The detectors, the fire detection cabinet, and alarms must be of an approved type.
 
-(3) In general, the detectors must be rated not lower than 135 °F and not higher than 165 °F. However, in spaces where a high ambient temperature may be expected, detectors must be rated not lower than 175 °F and not higher than 225 °F. 
+(3) In general, the detectors must be rated not lower than 135 °F and not higher than 165 °F. However, in spaces where a high ambient temperature may be expected, detectors must be rated not lower than 175 °F and not higher than 225 °F.
 
-(4) The fire detection system must be used for no other purpose, except that it may be integrated with the manual alarm system. 
+(4) The fire detection system must be used for no other purpose, except that it may be integrated with the manual alarm system.
 
-(5) All wiring and electrical circuits and equipment must meet the applicable requirements of 46 CFR chapter I, subchapter J (Electrical Engineering) of this chapter. 
+(5) All wiring and electrical circuits and equipment must meet the applicable requirements of 46 CFR chapter I, subchapter J (Electrical Engineering) of this chapter.
 
-(6) A framed chart or diagram must be installed in the wheelhouse or control station adjacent to the detecting cabinet indicating the location of the various detecting zones and giving instructions for the operation, maintenance, and testing of the system. This chart, or a separate card or booklet to be kept near the chart, must have tabulated spaces for the date and signature of the licensed officer of the vessel who must witness or conduct the periodic tests. 
+(6) A framed chart or diagram must be installed in the wheelhouse or control station adjacent to the detecting cabinet indicating the location of the various detecting zones and giving instructions for the operation, maintenance, and testing of the system. This chart, or a separate card or booklet to be kept near the chart, must have tabulated spaces for the date and signature of the licensed officer of the vessel who must witness or conduct the periodic tests.
 
-(7) The audible alarms must be identified as required by § 78.47-13 of this subchapter. 
+(7) The audible alarms must be identified as required by § 78.47-13 of this subchapter.
 
-(c) *Zoning.* (1) The fire detection system must be divided into separate zones to restrict the area covered by any particular alarm signal. 
+(c) *Zoning.* (1) The fire detection system must be divided into separate zones to restrict the area covered by any particular alarm signal.
 
-(2) All spaces in a fire detection zone must be accessible from one to another without leaving the deck involved. All doors in watertight subdivision bulkheads and main vertical zone bulkheads must be assumed closed for the purpose of this requirement. 
+(2) All spaces in a fire detection zone must be accessible from one to another without leaving the deck involved. All doors in watertight subdivision bulkheads and main vertical zone bulkheads must be assumed closed for the purpose of this requirement.
 
-(3) The fire detection zone must not include spaces on more than one deck, except: 
+(3) The fire detection zone must not include spaces on more than one deck, except:
 
-(i) Adjacent and communicating spaces on different decks at the ends of the vessel having a combined ceiling area of not more than 3,000 sq ft; 
+(i) Adjacent and communicating spaces on different decks at the ends of the vessel having a combined ceiling area of not more than 3,000 sq ft;
 
-(ii) Isolated rooms or lockers in such spaces as mast houses, wheelhouse top, etc., which are easily communicable with the area of the fire detection circuit to which they are connected; and 
+(ii) Isolated rooms or lockers in such spaces as mast houses, wheelhouse top, etc., which are easily communicable with the area of the fire detection circuit to which they are connected; and
 
-(iii) Systems with indicators for individual spaces. 
+(iii) Systems with indicators for individual spaces.
 
-(4) The fire detection zone must not contain more than 50 protected rooms or spaces. 
+(4) The fire detection zone must not contain more than 50 protected rooms or spaces.
 
-(d) *Repair of existing systems.* (1) If the status of the approval for the system is other than “Former—Do not use”, the system may be repaired by the following means: 
+(d) *Repair of existing systems.* (1) If the status of the approval for the system is other than “Former—Do not use”, the system may be repaired by the following means:
 
-(i) Repair in kind using the same components as installed and listed on the approved drawings; 
+(i) Repair in kind using the same components as installed and listed on the approved drawings;
 
-(ii) Repair using equivalent components from the authorized component list for the type approval for that system; 
+(ii) Repair using equivalent components from the authorized component list for the type approval for that system;
 
-(iii) Repair using equivalent components from the authorized component list for the type approval for another fire detection system, provided that the replacement devices are compatible with the installed system; and 
+(iii) Repair using equivalent components from the authorized component list for the type approval for another fire detection system, provided that the replacement devices are compatible with the installed system; and
 
-(iv) Repair using devices that are currently type approved, provided that the replacement devices are compatible with the installed system. 
+(iv) Repair using devices that are currently type approved, provided that the replacement devices are compatible with the installed system.
 
-(2) Any changes to the system that will result in the fire detection system not complying with the approved drawings require the drawings to be revised and submitted to the Marine Safety Center for review. 
+(2) Any changes to the system that will result in the fire detection system not complying with the approved drawings require the drawings to be revised and submitted to the Marine Safety Center for review.
 
 Table 76.27-80—Installations
 | Space                                                                                                                                                                                                                                                                                                                              | Detecting systems                                                                                      |

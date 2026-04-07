@@ -1,8 +1,8 @@
 ##### § 182.440 Independent fuel tanks.
 
-(a) *Materials and construction.* Independent fuel tanks must be designed and constructed as described in this paragraph (a). 
+(a) *Materials and construction.* Independent fuel tanks must be designed and constructed as described in this paragraph (a).
 
-(1) The material used and the minimum thickness allowed must be as indicated in Table 1 to § 182.440(a)(1), except that other materials that provide equivalent safety may be approved for use under paragraph (a)(3) of this section. Tanks having a capacity of more than 570 liters (150 gallons) must be designed to withstand the maximum head to which they may be subjected in service, but in no case may the thickness be less than that specified in Table 1 to § 182.440(a)(1). 
+(1) The material used and the minimum thickness allowed must be as indicated in Table 1 to § 182.440(a)(1), except that other materials that provide equivalent safety may be approved for use under paragraph (a)(3) of this section. Tanks having a capacity of more than 570 liters (150 gallons) must be designed to withstand the maximum head to which they may be subjected in service, but in no case may the thickness be less than that specified in Table 1 to § 182.440(a)(1).
 
 Table 1 to § 182.440(a)(1)
 | Material                                                                                                                                                                                                                                                                                                                                                                                                                                                       | ASTM specification (all incorporated by   reference; see 46 CFR 175.600) | Thickness in millimeters (inches) and \[gage number\] 1 vs. tank capacities for: |
@@ -23,60 +23,60 @@ Table 1 to § 182.440(a)(1)
 | 7 Anodic to most common metals. Avoid dissimilar metal contact with tank body.                                                                                                                                                                                                                                                                                                                                                                                 |                                                                          |                                                                                  |
 | 8 The requirements of 46 CFR 182.440(a)(2) apply.                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                          |                                                                                  |
 
-(2) Fiber reinforced plastic may be used for diesel fuel tanks under the following provisions: 
+(2) Fiber reinforced plastic may be used for diesel fuel tanks under the following provisions:
 
-(i) The materials must be fire retardant. Flammability of the material must be determined by the standard test methods in ASTM D 635 and ASTM D 2863 (both incorporated by reference; see 46 CFR 175.600), or other standard specified by the Commandant. The results of these tests must show that the average extent of burning is less than 10 millimeters (0.394 inches), the average time of burning is less than 50 seconds, and the limiting oxygen index is greater than 21. 
+(i) The materials must be fire retardant. Flammability of the material must be determined by the standard test methods in ASTM D 635 and ASTM D 2863 (both incorporated by reference; see 46 CFR 175.600), or other standard specified by the Commandant. The results of these tests must show that the average extent of burning is less than 10 millimeters (0.394 inches), the average time of burning is less than 50 seconds, and the limiting oxygen index is greater than 21.
 
-(ii) Tanks must meet UL 1102 (incorporated by reference; see 46 CFR 175.600) or other standard specified by the Commandant. Testing may be accomplished by an independent laboratory or by the fabricator to the satisfaction of the OCMI. 
+(ii) Tanks must meet UL 1102 (incorporated by reference; see 46 CFR 175.600) or other standard specified by the Commandant. Testing may be accomplished by an independent laboratory or by the fabricator to the satisfaction of the OCMI.
 
-(iii) Tanks must be designed to withstand the maximum heat to which they may be subjected to in service. 
+(iii) Tanks must be designed to withstand the maximum heat to which they may be subjected to in service.
 
-(iv) Installation of nozzles, flanges or other fittings for pipe connections to the tanks must be acceptable to the cognizant OCMI. 
+(iv) Installation of nozzles, flanges or other fittings for pipe connections to the tanks must be acceptable to the cognizant OCMI.
 
-(v) Baffle plates, if installed, must be of the same material and not less than the minimum thickness of the tank walls. Limber holes at the bottom and air holes at the top of all baffles must be provided. Baffle plates must be installed at the time the tests required by UL 1102, or other standard specified by the Commandant, are conducted. 
+(v) Baffle plates, if installed, must be of the same material and not less than the minimum thickness of the tank walls. Limber holes at the bottom and air holes at the top of all baffles must be provided. Baffle plates must be installed at the time the tests required by UL 1102, or other standard specified by the Commandant, are conducted.
 
-(3) Materials other than those listed in Table 182.440(a)(1) must be approved by the Commandant. An independent tank using material approved by the Commandant under this paragraph must meet the testing requirements of UL 1102, or other standard specified by the Commandant. Testing may be accomplished by an independent laboratory or by the fabricator to the satisfaction of the OCMI. 
+(3) Materials other than those listed in Table 182.440(a)(1) must be approved by the Commandant. An independent tank using material approved by the Commandant under this paragraph must meet the testing requirements of UL 1102, or other standard specified by the Commandant. Testing may be accomplished by an independent laboratory or by the fabricator to the satisfaction of the OCMI.
 
-(4) Tanks with flanged-up top edges that may trap and hold moisture are prohibited. 
+(4) Tanks with flanged-up top edges that may trap and hold moisture are prohibited.
 
-(5) Openings for fill pipes, vent pipes, and machinery fuel supply pipes, and openings for fuel level gauges, where used, must be on the topmost surfaces of tanks. Tanks may not have any openings in bottoms, sides, or ends, except for: 
+(5) Openings for fill pipes, vent pipes, and machinery fuel supply pipes, and openings for fuel level gauges, where used, must be on the topmost surfaces of tanks. Tanks may not have any openings in bottoms, sides, or ends, except for:
 
-(i) An opening fitted with a threaded plug or cap installed for tank cleaning purposes; and 
+(i) An opening fitted with a threaded plug or cap installed for tank cleaning purposes; and
 
-(ii) In a diesel fuel tank, openings for supply piping and tubular gauge glasses. 
+(ii) In a diesel fuel tank, openings for supply piping and tubular gauge glasses.
 
-(6) All tank joints must be welded or brazed. Lap joints may not be used. 
+(6) All tank joints must be welded or brazed. Lap joints may not be used.
 
-(7) Nozzles, flanges, or other fittings for pipe connections to a metal tank must be welded or brazed to the tank. Tank openings in way of pipe connections must be properly reinforced where necessary. Where fuel level gauges are used on a metal tank, the flanges to which gauge fittings are attached must be welded or brazed to the tank. No tubular gauge glasses may be fitted to gasoline fuel tanks. Tubular gauge glasses, if fitted to diesel fuel tanks, must be of heat resistant materials, adequately protected from mechanical damage, and provided at the tank connections with devices that will automatically close in the event of rupture of the gauge or gauge lines. 
+(7) Nozzles, flanges, or other fittings for pipe connections to a metal tank must be welded or brazed to the tank. Tank openings in way of pipe connections must be properly reinforced where necessary. Where fuel level gauges are used on a metal tank, the flanges to which gauge fittings are attached must be welded or brazed to the tank. No tubular gauge glasses may be fitted to gasoline fuel tanks. Tubular gauge glasses, if fitted to diesel fuel tanks, must be of heat resistant materials, adequately protected from mechanical damage, and provided at the tank connections with devices that will automatically close in the event of rupture of the gauge or gauge lines.
 
-(8) A metal tank exceeding 760 millimeters (30 inches) in any horizontal dimension must: 
+(8) A metal tank exceeding 760 millimeters (30 inches) in any horizontal dimension must:
 
-(i) Be fitted with vertical baffle plates, which meet subparagraph (a)(9) of this section, at intervals not exceeding 760 millimeters (30 inches) to provide strength and to control the excessive surge of fuel; or 
+(i) Be fitted with vertical baffle plates, which meet subparagraph (a)(9) of this section, at intervals not exceeding 760 millimeters (30 inches) to provide strength and to control the excessive surge of fuel; or
 
-(ii) The owner must submit calculations to the cognizant OCMI demonstrating the structural adequacy of the tank in a fully loaded static condition and in a worst case dynamic (sloshing) condition. 
+(ii) The owner must submit calculations to the cognizant OCMI demonstrating the structural adequacy of the tank in a fully loaded static condition and in a worst case dynamic (sloshing) condition.
 
-(9) Baffle plates, where required in metal tanks, must be of the same material and not less than the minimum thickness required in the tank walls and must be connected to the tank walls by welding or brazing. Limber holes at the bottom and air holes at the top of all baffles must be provided. 
+(9) Baffle plates, where required in metal tanks, must be of the same material and not less than the minimum thickness required in the tank walls and must be connected to the tank walls by welding or brazing. Limber holes at the bottom and air holes at the top of all baffles must be provided.
 
-(10) Iron or steel diesel fuel tanks must not be galvanized on the interior. Galvanizing, paint, or other suitable coating must be used to protect the outside of iron and steel diesel fuel tanks and the inside and outside of iron and steel gasoline fuel tanks. 
+(10) Iron or steel diesel fuel tanks must not be galvanized on the interior. Galvanizing, paint, or other suitable coating must be used to protect the outside of iron and steel diesel fuel tanks and the inside and outside of iron and steel gasoline fuel tanks.
 
-(b) *Location and installation.* Independent fuel tanks must be located and installed as described in this paragraph (b). 
+(b) *Location and installation.* Independent fuel tanks must be located and installed as described in this paragraph (b).
 
-(1) Fuel tanks must be located in, or as close as practicable to, machinery spaces. 
+(1) Fuel tanks must be located in, or as close as practicable to, machinery spaces.
 
-(2) Fuel tanks and fittings must be so installed as to permit examination, testing, or removal for cleaning with minimum disturbance to the hull structure. 
+(2) Fuel tanks and fittings must be so installed as to permit examination, testing, or removal for cleaning with minimum disturbance to the hull structure.
 
-(3) Fuel tanks must be adequately supported and braced to prevent movement. The supports and braces must be insulated from contact with the tank surfaces with a nonabrasive and nonabsorbent material. 
+(3) Fuel tanks must be adequately supported and braced to prevent movement. The supports and braces must be insulated from contact with the tank surfaces with a nonabrasive and nonabsorbent material.
 
-(4) All fuel tanks must be electrically bonded to a common ground. 
+(4) All fuel tanks must be electrically bonded to a common ground.
 
-(c) *Tests.* Independent fuel tanks must be tested as described in this paragraph (c) prior to being used to carry fuel. 
+(c) *Tests.* Independent fuel tanks must be tested as described in this paragraph (c) prior to being used to carry fuel.
 
-(1) Prior to installation, tanks vented to the atmosphere must be hydrostatically tested to, and must withstand, a pressure of 35 kPa (5 psig) or 11/2 times the maximum pressure head to which they may be subjected in service, whichever is greater. A standpipe of 3.5 meters (11.5 feet) in height attached to the tank may be filled with water to accomplish the 35 kPa (5 psig) test. Permanent deformation of the tank will not be cause for rejection unless accompanied by leakage. 
+(1) Prior to installation, tanks vented to the atmosphere must be hydrostatically tested to, and must withstand, a pressure of 35 kPa (5 psig) or 11/2 times the maximum pressure head to which they may be subjected in service, whichever is greater. A standpipe of 3.5 meters (11.5 feet) in height attached to the tank may be filled with water to accomplish the 35 kPa (5 psig) test. Permanent deformation of the tank will not be cause for rejection unless accompanied by leakage.
 
-(2) After installation of the fuel tank on a vessel, the complete installation must be tested in the presence of a marine inspector, or individual specified by the cognizant OCMI, to a heat not less than that to which the tank may be subjected in service. Fuel may be used as the testing medium. 
+(2) After installation of the fuel tank on a vessel, the complete installation must be tested in the presence of a marine inspector, or individual specified by the cognizant OCMI, to a heat not less than that to which the tank may be subjected in service. Fuel may be used as the testing medium.
 
-(3) All tanks not vented to the atmosphere must be constructed and tested in accordance with 46 CFR 182.330. 
+(3) All tanks not vented to the atmosphere must be constructed and tested in accordance with 46 CFR 182.330.
 
-(d) *Alternative procedures.* A vessel of not more than 19.8 meters (65 feet) in length carrying not more than 12 passengers, with independent gasoline fuel tanks built in accordance with ABYC H-24 (incorporated by reference, see 46 CFR 175.600), or 33 CFR 183, subpart J, or with independent diesel fuel tanks built in accordance with ABYC H-33 (incorporated by reference, see 46 CFR 175.600), will be considered as meeting the requirements of this section. However, tanks must not be fabricated from any material not listed in Table 182.440(a)(1) without approval by the Commandant under paragraph (a)(3) of this section. 
+(d) *Alternative procedures.* A vessel of not more than 19.8 meters (65 feet) in length carrying not more than 12 passengers, with independent gasoline fuel tanks built in accordance with ABYC H-24 (incorporated by reference, see 46 CFR 175.600), or 33 CFR 183, subpart J, or with independent diesel fuel tanks built in accordance with ABYC H-33 (incorporated by reference, see 46 CFR 175.600), will be considered as meeting the requirements of this section. However, tanks must not be fabricated from any material not listed in Table 182.440(a)(1) without approval by the Commandant under paragraph (a)(3) of this section.
 
 \[USCG-2003-16630, 73 FR 65207, Oct. 31, 2008, as amended by USCG-2016-0498, 82 FR 35093, July 28, 2017\]

@@ -1,6 +1,6 @@
 ##### § 25.01-1 Applicable to all vessels.
 
-The provisions of this part shall apply to all vessels except as specifically noted. 
+The provisions of this part shall apply to all vessels except as specifically noted.
 
 Note to § 25.01-1:
 

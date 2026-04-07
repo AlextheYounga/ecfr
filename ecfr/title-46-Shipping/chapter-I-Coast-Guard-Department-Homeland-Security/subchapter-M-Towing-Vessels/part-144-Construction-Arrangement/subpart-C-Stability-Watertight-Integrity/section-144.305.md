@@ -1,6 +1,6 @@
 ##### § 144.305 Stability standards for a new vessel.
 
-Each new vessel must meet the applicable stability requirements of part 170 and, if applicable, of part 173, subpart E, of this chapter in addition to the requirements in the following table: 
+Each new vessel must meet the applicable stability requirements of part 170 and, if applicable, of part 173, subpart E, of this chapter in addition to the requirements in the following table:
 
 Table 144.305—Stability Standards for a New Vessel
 | Each new vessel certificated to operate on—        | Must meet the requirements of—                |
