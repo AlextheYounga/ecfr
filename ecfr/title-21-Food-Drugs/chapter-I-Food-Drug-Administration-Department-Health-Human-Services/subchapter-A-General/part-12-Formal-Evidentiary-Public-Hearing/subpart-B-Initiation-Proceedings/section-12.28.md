@@ -14,7 +14,7 @@ If the Commissioner determines upon review of the objections or requests for hea
 
 (i) The documents specified in § 10.40(g);
 
-(ii) The objections and requests for hearing filed by the Division of Dockets Management;
+(ii) The objections and requests for hearing filed by the Dockets Management Staff;
 
 (iii) If the proceeding involves a color additive regulation referred to an advisory committee in accordance with section 721(b)(5)(C) of the act, the committee's report and the record of the committee's proceeding; and
 
@@ -24,7 +24,7 @@ If the Commissioner determines upon review of the objections or requests for hea
 
 (i) The notice of opportunity for hearing;
 
-(ii) The requests for hearing filed by the Division of Dockets Management;
+(ii) The requests for hearing filed by the Dockets Management Staff;
 
 (iii) The transcripts, minutes of meetings, reports, Federal Register notices, and other documents constituting the record of any of the optional procedures specified in § 12.24(c) used by the Commissioner, but not the transcript of a closed portion of a public advisory committee meeting; and
 

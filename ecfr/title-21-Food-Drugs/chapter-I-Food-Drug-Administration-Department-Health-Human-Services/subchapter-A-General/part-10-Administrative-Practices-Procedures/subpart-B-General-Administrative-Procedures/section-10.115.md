@@ -34,7 +34,7 @@
 
 (2) You can suggest areas for guidance document development. Your suggestions should address why a guidance document is necessary.
 
-(3) You can submit drafts of proposed guidance documents for FDA to consider. When you do so, you should mark the document “Guidance Document Submission” and submit it to Division of Dockets Management (HFA-305), 5630 Fishers Lane, rm. 1061, Rockville, MD 20852. If you wish to submit the draft of a proposed guidance document electronically, submit it through *https://www.regulations.gov* at Docket No. FDA-2013-S-0610. It is only necessary to submit one copy.
+(3) You can submit drafts of proposed guidance documents for FDA to consider. When you do so, you should mark the document “Guidance Document Submission” and submit it to Dockets Management Staff (HFA-305), 5630 Fishers Lane, rm. 1061, Rockville, MD 20852. If you wish to submit the draft of a proposed guidance document electronically, submit it through *https://www.regulations.gov* at Docket No. FDA-2013-S-0610. It is only necessary to submit one copy.
 
 (4) You can, at any time, suggest that FDA revise or withdraw an already existing guidance document. Your suggestion should address why the guidance document should be revised or withdrawn and, if applicable, how it should be revised.
 
@@ -104,11 +104,11 @@
 
 (5) You can comment on any guidance document at any time. Paragraph (h) of this section tells you how to submit your comments. FDA will revise guidance documents in response to your comments when appropriate.
 
-(h) *How should you submit comments on a guidance document?* (1) If you choose to submit comments on any guidance document under paragraph (g) of this section, you must send them to the Division of Dockets Management (HFA-305), 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+(h) *How should you submit comments on a guidance document?* (1) If you choose to submit comments on any guidance document under paragraph (g) of this section, you must send them to the Dockets Management Staff (HFA-305), 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
 (2) Comments should identify the docket number on the guidance document, if such a docket number exists. For documents without a docket number, the title of the guidance document should be included.
 
-(3) Comments will be available to the public in accordance with FDA's regulations on submission of documents to the Division of Dockets Management specified in § 10.20(j).
+(3) Comments will be available to the public in accordance with FDA's regulations on submission of documents to the Dockets Management Staff specified in § 10.20(j).
 
 (i) *What standard elements must FDA include in a guidance document?* (1) A guidance document must:
 

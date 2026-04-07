@@ -58,16 +58,15 @@
 
 (4) *Chemical quality.* (i)(A) Bottled water shall, when a composite of analytical units of equal volume from a sample is examined by the methods described in paragraph (b)(4)(i)(B) of this section, meet standards of chemical quality and shall not contain chemical substances in excess of the following concentrations:
 
-| Substance                | Concentration in milligrams per liter |
-| ------------------------ | ------------------------------------- |
-| Chloride 1               | 250.0                                 |
-| Iron 1                   | 0.3                                   |
-| Manganese 1              | 0.05                                  |
-| Phenols                  | 0.001                                 |
-| Total dissolved solids 1 | 500.0                                 |
-| Zinc 1                   | 5.0                                   |
-
-1 Mineral water is exempt from allowable level. The exemptions are aesthetically based allowable levels and do not relate to a health concern.
+| Substance                                                                                                                                      | Concentration in milligrams per liter |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| Chloride1                                                                                                                                      | 250.0                                 |
+| Iron1                                                                                                                                          | 0.3                                   |
+| Manganese1                                                                                                                                     | 0.05                                  |
+| Phenols                                                                                                                                        | 0.001                                 |
+| Total dissolved solids1                                                                                                                        | 500.0                                 |
+| Zinc 1                                                                                                                                         | 5.0                                   |
+| 1 Mineral water is exempt from allowable level. The exemptions are aesthetically based allowable levels and do not relate to a health concern. |                                       |
 
 (B) Analyses conducted to determine compliance with paragraph (b)(4)(i)(A) of this section shall be made in accordance with the methods described in the applicable sections of “Standard Methods for the Examination of Water and Wastewater,” 15th Ed. (1980), or “Methods for Chemical Analysis of Water and Wastes,” Environmental Monitoring and Support Laboratory (EMSL), EPA-600/4-79-020, March 1983, U.S. Environmental Protection Agency (EPA), both of which are incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.
 
@@ -84,7 +83,6 @@
 (ii)(A) Bottled water packaged in the United States to which no fluoride is added shall not contain fluoride in excess of the levels in Table 1 and these levels shall be based on the annual average of maximum daily air temperatures at the location where the bottled water is sold at retail.
 
 Table 1
-
 | Annual average of maximum daily air temperatures (°F) | Fluoride concentration in milligrams per liter |
 | ----------------------------------------------------- | ---------------------------------------------- |
 | 53.7 and below                                        | 2.4                                            |
@@ -186,13 +184,12 @@ Table 1
 
 (D) The allowable levels for certain chemicals for which EPA has established secondary maximum contaminant levels in its drinking water regulations (40 CFR part 143) are as follows:
 
-| Contaminant | Concentration in milligrams per liter |
-| ----------- | ------------------------------------- |
-| Aluminum    | 0.2                                   |
-| Silver      | 0.1                                   |
-| Sulfate 1   | 250.0                                 |
-
-1 Mineral water is exempt from allowable level. The exemptions are aesthetically based allowable levels and do not relate to a health concern.
+| Contaminant                                                                                                                                    | Concentration in milligrams per liter |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| Aluminum                                                                                                                                       | 0.2                                   |
+| Silver                                                                                                                                         | 0.1                                   |
+| Sulfate 1                                                                                                                                      | 250.0                                 |
+| 1 Mineral water is exempt from allowable level. The exemptions are aesthetically based allowable levels and do not relate to a health concern. |                                       |
 
 (E) Analyses to determine compliance with the requirements of paragraph (b)(4)(iii)(A) of this section shall be conducted in accordance with an applicable method and applicable revisions to the methods listed in paragraphs (b)(4)(iii)(E)(*1*) through (b)(4)(iii)(E)(*14*) of this section and described, unless otherwise noted, in “Methods for Chemical Analysis of Water and Wastes,” U.S. EPA Environmental Monitoring and Support Laboratory (EMSL), Cincinnati, OH 45258 (EPA-600/4-79-020), March 1983, which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of this publication are available from the National Technical Information Service (NTIS), U.S. Department of Commerce, 5825 Port Royal Rd., Springfield, VA 22161, or may be examined at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
@@ -314,7 +311,7 @@ Table 1
 
 (*ii*) Method 200.9—“Determination of Trace Elements by Stabilized Temperature Graphite Furnace Atomic Absorption,” Revision 2.2, which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Method 200.9 is contained in the manual entitled “Methods for the Determination of Metals in Environmental Samples—Supplement 1,” EPA/600/R-94/111, May 1994. The availability of this incorporation by reference is given in paragraph (b)(4)(iii)(E)(*14*)(*i*) of this section.
 
-(F) Analyses to determine compliance with the requirements of paragraphs (b)(4)(iii)(B) and (b)(4)(iii)(C) of this section shall be conducted in accordance with an applicable method or applicable revisions to the methods listed in paragraphs (b)(4)(iii)(F)(*1*) through (b)(4)(iii)(F)(*22*) of this section and described, unless otherwise noted, in “Methods for the Determination of Organic Compounds in Drinking Water,” Office of Research and Development, EMSL, EPA/600/4-88/039, December 1988, or in “Methods for the Determination of Organic Compounds in Drinking Water, Supplement 1,” Office of Research and Development, EMSL, EPA/600/4-90/020, July 1990, or in “Methods for the Determination of Organic Compounds in Drinking Water, Supplement III,” EPA National Exposure Research Laboratory, Office of Research and Development, EPA/600/R-95/131, August 1995, including Errata, November 27, 1995. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of these publications are available from National Technical Information Service, U.S. Department of Commerce, 5285 Port Royal Rd., Springfield, VA 22161. You may inspect a copy at the Division of Dockets Management, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852, 301-827-6860 or at the National Archives and Records Administration (NARA). Hearing-impaired or speech-impaired individuals may access this number through TTY by calling the toll-free Federal Relay Service at 800-877-8339. For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
+(F) Analyses to determine compliance with the requirements of paragraphs (b)(4)(iii)(B) and (b)(4)(iii)(C) of this section shall be conducted in accordance with an applicable method or applicable revisions to the methods listed in paragraphs (b)(4)(iii)(F)(*1*) through (b)(4)(iii)(F)(*22*) of this section and described, unless otherwise noted, in “Methods for the Determination of Organic Compounds in Drinking Water,” Office of Research and Development, EMSL, EPA/600/4-88/039, December 1988, or in “Methods for the Determination of Organic Compounds in Drinking Water, Supplement 1,” Office of Research and Development, EMSL, EPA/600/4-90/020, July 1990, or in “Methods for the Determination of Organic Compounds in Drinking Water, Supplement III,” EPA National Exposure Research Laboratory, Office of Research and Development, EPA/600/R-95/131, August 1995, including Errata, November 27, 1995. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of these publications are available from National Technical Information Service, U.S. Department of Commerce, 5285 Port Royal Rd., Springfield, VA 22161. You may inspect a copy at the Dockets Management Staff, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852, 301-827-6860 or at the National Archives and Records Administration (NARA). Hearing-impaired or speech-impaired individuals may access this number through TTY by calling the toll-free Federal Relay Service at 800-877-8339. For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (*1*) Method 502.1—“Volatile Halogenated Organic Compounds in Water by Purge and Trap Gas Chromatography,” Rev. 2.0, 1989, (applicable to VOC's), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51, or
 
@@ -518,4 +515,4 @@ Table 1
 
 (d) *Adulteration.* Bottled water containing a substance at a level considered injurious to health under section 402(a)(1) of the Federal Food, Drug, and Cosmetic Act (the act), or that consists in whole or in part of any filthy, putrid, or decomposed substance, or that is otherwise unfit for food under section 402(a)(3) of the act is deemed to be adulterated, regardless of whether or not the water bears a label statement of substandard quality prescribed by paragraph (c) of this section. If *E. coli* is present in bottled water, then the bottled water will be deemed adulterated under section 402(a)(3) of the act.
 
-\[60 FR 57124, Nov. 13, 1995\] Editorial Note:For Federal Register citations affecting § 165.110, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+\[60 FR 57124, Nov. 13, 1995\] Editorial Note:For Federal Register citations affecting § 165.110, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

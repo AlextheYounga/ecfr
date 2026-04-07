@@ -4,7 +4,7 @@
 
 (b) The request for a hearing under this section shall:
 
-(1) Be sent by mail, personal delivery, or any other mode of written communication to the Division of Dockets Management and filed under the relevant product file;
+(1) Be sent by mail, personal delivery, or any other mode of written communication to the Dockets Management Staff and filed under the relevant product file;
 
 (2) Specify the facts and the action that are the subject of the hearing;
 

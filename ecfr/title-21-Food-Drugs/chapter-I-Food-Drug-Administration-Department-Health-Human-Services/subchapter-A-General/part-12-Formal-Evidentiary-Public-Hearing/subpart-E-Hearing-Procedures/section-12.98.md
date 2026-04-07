@@ -2,7 +2,7 @@
 
 (a) The presiding officer will arrange for a verbatim stenographic transcript of oral testimony and for necessary copies of the transcript.
 
-(b) One copy of the transcript will be placed on public display in the office of the Division of Dockets Management upon receipt.
+(b) One copy of the transcript will be placed on public display in the office of the Dockets Management Staff upon receipt.
 
 (c) Except as provided in § 12.105, copies of the transcript may be obtained by application to the official reporter and payment of costs thereof or under part 20.
 

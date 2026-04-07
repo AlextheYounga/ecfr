@@ -8,7 +8,7 @@
 
 (3) The petition is submitted in writing and under § 10.30 (for citizen petitions) or § 10.35 (for petitions for stay of action).
 
-(b) *Date of submission.* A petition subject to this section and submitted in accordance with § 10.20, § 10.30, § 10.31, or § 10.35 is regarded as submitted on the date on which the petition is received by the Division of Dockets Management.
+(b) *Date of submission.* A petition subject to this section and submitted in accordance with § 10.20, § 10.30, § 10.31, or § 10.35 is regarded as submitted on the date on which the petition is received by the Dockets Management Staff.
 
 (c) *Certification.* (1) FDA will not consider for review a petition that is subject to this section unless the petition is in writing and contains the following certification:
 

@@ -6,7 +6,7 @@
 
 (Date)
 
-Division of Dockets Management, Food and Drug Administration, Department of Health and Human Services, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+Dockets Management Staff, Food and Drug Administration, Department of Health and Human Services, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
 Petition for Stay of Action
 
@@ -46,23 +46,23 @@ C. Statement of grounds
 
 (4) The delay resulting from the stay is not outweighted by public health or other public interests.
 
-(f) The Commissioner's decision on a petition for stay of action is to be in writing and placed on public display as part of the file on the matter in the office of the Division of Dockets Management. A determination to grant a stay will be published in the Federal Register if the Commissioner's original decision was so published. Any other determination to grant or to deny a stay may also be published in the Federal Register.
+(f) The Commissioner's decision on a petition for stay of action is to be in writing and placed on public display as part of the file on the matter in the office of the Dockets Management Staff. A determination to grant a stay will be published in the Federal Register if the Commissioner's original decision was so published. Any other determination to grant or to deny a stay may also be published in the Federal Register.
 
-(g) A petition for a stay of action submitted later than 30 days after the date of the decision involved will be denied as untimely unless the Commissioner permits the petition to be filed after 30 days. A petition for a stay of action is considered submitted on the day it is received by the Division of Dockets Management.
+(g) A petition for a stay of action submitted later than 30 days after the date of the decision involved will be denied as untimely unless the Commissioner permits the petition to be filed after 30 days. A petition for a stay of action is considered submitted on the day it is received by the Dockets Management Staff.
 
 (h) The record of the administrative proceeding consists of the following:
 
 (1) The record of the proceeding to which the petition for stay of action is directed.
 
-(2) The petition for stay of action, including all information on which it relies, filed by the Division of Dockets Management.
+(2) The petition for stay of action, including all information on which it relies, filed by the Dockets Management Staff.
 
 (3) All comments received on the petition, including all information submitted as a part of the comments.
 
-(4) The Commissioner's decision on the petition under paragraph (e) of this section, including all information identified or filed by the Commissioner with the Division of Dockets Management as part of the record supporting the decision.
+(4) The Commissioner's decision on the petition under paragraph (e) of this section, including all information identified or filed by the Commissioner with the Dockets Management Staff as part of the record supporting the decision.
 
 (5) Any Federal Register notices or other documents resulting from the petition.
 
-(6) All documents filed with the Division of Dockets Management under § 10.65(h).
+(6) All documents filed with the Dockets Management Staff under § 10.65(h).
 
 (i) A petitioner may supplement, amend, or withdraw a petition for stay of action in writing without Agency approval and without prejudice to resubmission at any time until the Commissioner rules on the petition, provided the resubmission is made in accordance with paragraph (b) of this section, unless the petition for stay of action has been referred for a hearing under parts 12, 13, 14, or 15 of this chapter. After a ruling or referral, a petition for stay of action may be supplemented, amended, or withdrawn only with the approval of the Commissioner. The Commissioner may approve withdrawal with or without prejudice against resubmission of the petition for stay of action.
 

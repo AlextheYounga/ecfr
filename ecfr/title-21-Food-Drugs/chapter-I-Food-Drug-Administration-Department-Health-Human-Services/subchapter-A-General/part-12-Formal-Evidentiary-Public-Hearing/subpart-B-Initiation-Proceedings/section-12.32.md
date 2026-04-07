@@ -42,7 +42,7 @@
 
 (ii) A notice of participation under § 12.45 should be filed; and
 
-(iii) Participants should submit written information under § 13.25. The notice will list the contents of the portions of the administrative record relevant to the issues at the hearing before the Board. The portions listed will be placed on public display in the office of the Division of Dockets Management before the notice is published. Additional copies of material already submitted under § 13.25 need not be included with any later submissions.
+(iii) Participants should submit written information under § 13.25. The notice will list the contents of the portions of the administrative record relevant to the issues at the hearing before the Board. The portions listed will be placed on public display in the office of the Dockets Management Staff before the notice is published. Additional copies of material already submitted under § 13.25 need not be included with any later submissions.
 
 (f)(1) The decision of a hearing before a Public Board of Inquiry or a public advisory committee under this section has legal status of and will be handled as an initial decision under § 12.120.
 
@@ -50,6 +50,6 @@
 
 (3) Thereafter, the participants in the proceeding may pursue the administrative and court remedies specified in §§ 12.120 through 12.159.
 
-(g) If a hearing before a public advisory committee or a hearing before the Commissioner is used as an alternative form of hearing, all submissions will be made to the Division of Dockets Management, and § 10.20(j) governs their availability for public examination and copying.
+(g) If a hearing before a public advisory committee or a hearing before the Commissioner is used as an alternative form of hearing, all submissions will be made to the Dockets Management Staff, and § 10.20(j) governs their availability for public examination and copying.
 
 (h) This section does not affect the right to an opportunity for a hearing before a public advisory committee under section 515(g)(2) of the act regarding device premarket approval applications and product development protocols. Advisory committee hearing procedures are found in part 14.
