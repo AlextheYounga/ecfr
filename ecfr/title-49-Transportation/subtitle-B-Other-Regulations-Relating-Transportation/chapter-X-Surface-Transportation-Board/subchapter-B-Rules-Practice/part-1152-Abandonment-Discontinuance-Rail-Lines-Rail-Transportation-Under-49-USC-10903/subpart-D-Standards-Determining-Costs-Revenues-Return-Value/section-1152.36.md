@@ -1,6 +1,6 @@
 ##### § 1152.36 Submission of revenue and cost data.
 
-The following information shall be submitted by applicant as Exhibit 1 to an abandonment or discontinuance application (§ 1152.22(d)) and shall be developed in accordance with the methodology established in §§ 1152.31 through 1152.35, as applicable. Such information, form and methodology shall also be used by an offeror of financial assistance to formulate a Proposed Subsidy Payment (§ 1152.27).
+The following information shall be submitted by applicant as Exhibit 1 to an abandonment or discontinuance application (§ 1152.22(d)) and shall be developed in accordance with the methodology established in §§ 1152.31 through 1152.35, as applicable. Such information, form and methodology shall also be used by an offeror of financial assistance to formulate a Proposed Subsidy Payment (§ 1152.27). 
 
 |                                                                                                       | Base year   operations | Forecast year   operations | Projected   subsidy year operations |
 | ----------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------- | ----------------------------------- |

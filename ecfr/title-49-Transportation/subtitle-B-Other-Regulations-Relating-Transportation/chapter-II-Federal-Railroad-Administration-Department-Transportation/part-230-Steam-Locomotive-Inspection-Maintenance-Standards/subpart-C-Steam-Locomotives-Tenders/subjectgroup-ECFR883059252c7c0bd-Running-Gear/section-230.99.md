@@ -1,6 +1,6 @@
 ##### § 230.99 Tender truck axles.
 
-The minimum diameters of axles for various axle loads shall be as follows:
+The minimum diameters of axles for various axle loads shall be as follows: 
 
 | Axle load (in pounds) | Minimum   diameter of journal   (in inches) | Minimum   diameter of wheel seat   (in inches) | Minimum   diameter of center   (in inches) |
 | --------------------- | ------------------------------------------- | ---------------------------------------------- | ------------------------------------------ |

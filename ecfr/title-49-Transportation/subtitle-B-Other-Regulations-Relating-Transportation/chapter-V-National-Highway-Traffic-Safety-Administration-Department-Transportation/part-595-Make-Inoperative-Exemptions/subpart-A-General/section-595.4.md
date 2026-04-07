@@ -1,13 +1,13 @@
 ##### § 595.4 Definitions.
 
-*Covered rental vehicle* is defined as it is in 49 U.S.C. 30102(a).
+*Covered rental vehicle* is defined as it is in 49 U.S.C. 30102(a). 
 
-*Dealer,* defined in 49 U.S.C. 30102(a), is used in accordance with its statutory meaning.
+*Dealer,* defined in 49 U.S.C. 30102(a), is used in accordance with its statutory meaning. 
 
-*Manufacturer* is defined as it is in 49 U.S.C. 30102(a).
+*Manufacturer* is defined as it is in 49 U.S.C. 30102(a). 
 
-*Motor vehicle repair business* is defined as it is in 49 U.S.C. 30122(a). This term includes businesses that receive compensation for servicing vehicles without malfunctioning or broken parts or systems by adding or removing features or components to or from those vehicles or otherwise customizing those vehicles.
+*Motor vehicle repair business* is defined as it is in 49 U.S.C. 30122(a). This term includes businesses that receive compensation for servicing vehicles without malfunctioning or broken parts or systems by adding or removing features or components to or from those vehicles or otherwise customizing those vehicles. 
 
-*Rental company* is defined as it is in 49 U.S.C. 30102(a).
+*Rental company* is defined as it is in 49 U.S.C. 30102(a). 
 
 \[87 FR 14418, Mar. 15, 2022, as amended at 89 FR 39793, May 9, 2024\]

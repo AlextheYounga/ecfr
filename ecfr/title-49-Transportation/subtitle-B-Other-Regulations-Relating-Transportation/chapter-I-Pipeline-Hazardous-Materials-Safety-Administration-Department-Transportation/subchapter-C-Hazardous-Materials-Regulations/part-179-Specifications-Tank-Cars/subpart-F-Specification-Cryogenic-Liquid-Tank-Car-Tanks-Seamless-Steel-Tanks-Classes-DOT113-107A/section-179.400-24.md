@@ -1,6 +1,6 @@
 ##### § 179.400-24 Stamping.
 
-(a) A tank that complies with all specification requirements must have the following information plainly and permanently stamped into the metal near the center of the head of the outer jacket at the “B” end of the car, in letters and figures at least 3/8-inch high, in the following order:
+(a) A tank that complies with all specification requirements must have the following information plainly and permanently stamped into the metal near the center of the head of the outer jacket at the “B” end of the car, in letters and figures at least 3/8-inch high, in the following order: 
 
 |                                                                                        | Example of required stamping |
 | -------------------------------------------------------------------------------------- | ---------------------------- |
@@ -19,6 +19,6 @@
 | Outer jacket builder's initials                                                        | DEF.                         |
 | Car assembler's initials (if other than inner tank or outer jacket builder)            | XYZ.                         |
 
-(b) Any stamping on the shell or heads of the inner tank is prohibited.
+(b) Any stamping on the shell or heads of the inner tank is prohibited. 
 
 (c) In lieu of the stamping required by paragraph (a) of this section, the specified markings may be incorporated on a data plate of corrosion-resistant metal, fillet welded in place on the head of the outer jacket at the “B” end of the car.

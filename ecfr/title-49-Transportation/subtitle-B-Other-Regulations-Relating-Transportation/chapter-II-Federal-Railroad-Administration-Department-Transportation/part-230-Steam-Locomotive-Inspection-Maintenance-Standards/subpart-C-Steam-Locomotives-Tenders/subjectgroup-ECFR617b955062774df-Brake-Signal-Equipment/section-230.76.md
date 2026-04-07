@@ -1,8 +1,8 @@
 ##### § 230.76 Piston travel.
 
-(a) *Minimum piston travel.* The minimum piston travel shall be sufficient to provide proper brake shoe clearance when the brakes are released.
+(a) *Minimum piston travel.* The minimum piston travel shall be sufficient to provide proper brake shoe clearance when the brakes are released. 
 
-(b) *Maximum piston travel.* The maximum piston travel when steam locomotive is standing shall be as follows:
+(b) *Maximum piston travel.* The maximum piston travel when steam locomotive is standing shall be as follows: 
 
 | Type of wheel brake                | Maximum piston travel (in inches) |
 | ---------------------------------- | --------------------------------- |

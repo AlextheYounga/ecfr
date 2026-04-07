@@ -1,8 +1,8 @@
 ##### § 213.53 Gage.
 
-(a) Gage is measured between the heads of the rails at right-angles to the rails in a plane five-eighths of an inch below the top of the rail head.
+(a) Gage is measured between the heads of the rails at right-angles to the rails in a plane five-eighths of an inch below the top of the rail head. 
 
-(b) Gage shall be within the limits prescribed in the following table—
+(b) Gage shall be within the limits prescribed in the following table— 
 
 | Class of track      | The gage must be at least— | But not more than— |
 | ------------------- | -------------------------- | ------------------ |

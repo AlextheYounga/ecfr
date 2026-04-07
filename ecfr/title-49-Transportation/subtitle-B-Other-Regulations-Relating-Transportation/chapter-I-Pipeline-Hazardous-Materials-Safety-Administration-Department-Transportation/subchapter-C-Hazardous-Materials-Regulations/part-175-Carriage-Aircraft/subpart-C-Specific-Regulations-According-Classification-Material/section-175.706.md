@@ -1,6 +1,6 @@
 ##### § 175.706 Separation distances for undeveloped film from packages containing Class 7 (radioactive) materials.
 
-No person may carry in an aircraft any package of Class 7 (radioactive) materials required by § 172.403 of this subchapter to be labeled Radioactive Yellow-II or Radioactive Yellow-III closer than the distances shown in the table below to any package marked as containing underdeveloped film.
+No person may carry in an aircraft any package of Class 7 (radioactive) materials required by § 172.403 of this subchapter to be labeled Radioactive Yellow-II or Radioactive Yellow-III closer than the distances shown in the table below to any package marked as containing underdeveloped film. 
 
 | Transport index | Minimum separation distance to nearest undeveloped film for various times in transit |
 | --------------- | ------------------------------------------------------------------------------------ |

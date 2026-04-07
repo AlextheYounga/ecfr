@@ -1,6 +1,6 @@
 ##### § 173.434 Activity-mass relationships for uranium and natural thorium.
 
-The table of activity-mass relationships for uranium and natural thorium are as follows:
+The table of activity-mass relationships for uranium and natural thorium are as follows: 
 
 | Thorium and uranium enrichment 1 (Wt% 235 U present)                                                                                                                                                                         | Specific activity |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |

@@ -1,6 +1,6 @@
 ##### § 106.105 PHMSA response to a petition for rulemaking.
 
-We will review and respond to your petition for rulemaking as follows:
+We will review and respond to your petition for rulemaking as follows: 
 
 | If your petition is . . . | And if we   determine   that . . .                 | Then . . .                                                                    |
 | ------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------- |

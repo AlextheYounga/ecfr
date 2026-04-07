@@ -1,8 +1,8 @@
 ##### § 1022.3 Civil monetary penalty inflation adjustment.
 
-The Board shall, immediately, and at least every year thereafter—
+The Board shall, immediately, and at least every year thereafter— 
 
-(a) By regulation adjust each civil monetary penalty provided by law within the jurisdiction of the Board by the inflation adjustment described in § 1022.4; and
+(a) By regulation adjust each civil monetary penalty provided by law within the jurisdiction of the Board by the inflation adjustment described in § 1022.4; and 
 
 (b) Publish each such adjustment in the Federal Register.
 

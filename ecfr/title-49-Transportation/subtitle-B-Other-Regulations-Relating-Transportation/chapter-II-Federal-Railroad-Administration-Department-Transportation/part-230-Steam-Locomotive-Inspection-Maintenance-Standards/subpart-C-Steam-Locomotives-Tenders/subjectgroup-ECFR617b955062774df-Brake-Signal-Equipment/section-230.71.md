@@ -1,8 +1,8 @@
 ##### § 230.71 Orifice testing of compressors.
 
-(a) *Frequency of testing.* The compressor or compressors shall be tested for capacity by orifice test as often as conditions may require, but not less frequently than once every 92 service days.
+(a) *Frequency of testing.* The compressor or compressors shall be tested for capacity by orifice test as often as conditions may require, but not less frequently than once every 92 service days. 
 
-(b) *Orifice testing criteria.* (1) Compressors in common use, as listed in the following table, shall have orifice test criteria as follows:
+(b) *Orifice testing criteria.* (1) Compressors in common use, as listed in the following table, shall have orifice test criteria as follows: 
 
 | Make                                                                                                                                                                                                                       | Compressor size | Single strokes per minute | Diameter of orifice   (in inches) | Air pressure maintained   (in pounds) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------------- | --------------------------------- | ------------------------------------- |

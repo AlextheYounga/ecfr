@@ -1,16 +1,16 @@
 ##### § 194.105 Worst case discharge.
 
-(a) Each operator shall determine the worst case discharge for each of its response zones and provide the methodology, including calculations, used to arrive at the volume.
+(a) Each operator shall determine the worst case discharge for each of its response zones and provide the methodology, including calculations, used to arrive at the volume. 
 
-(b) The worst case discharge is the largest volume, in barrels (cubic meters), of the following:
+(b) The worst case discharge is the largest volume, in barrels (cubic meters), of the following: 
 
-(1) The pipeline's maximum release time in hours, plus the maximum shutdown response time in hours (based on historic discharge data or in the absence of such historic data, the operator's best estimate), multiplied by the maximum flow rate expressed in barrels per hour (based on the maximum daily capacity of the pipeline), plus the largest line drainage volume after shutdown of the line section(s) in the response zone expressed in barrels (cubic meters); or
+(1) The pipeline's maximum release time in hours, plus the maximum shutdown response time in hours (based on historic discharge data or in the absence of such historic data, the operator's best estimate), multiplied by the maximum flow rate expressed in barrels per hour (based on the maximum daily capacity of the pipeline), plus the largest line drainage volume after shutdown of the line section(s) in the response zone expressed in barrels (cubic meters); or 
 
-(2) The largest foreseeable discharge for the line section(s) within a response zone, expressed in barrels (cubic meters), based on the maximum historic discharge, if one exists, adjusted for any subsequent corrective or preventive action taken; or
+(2) The largest foreseeable discharge for the line section(s) within a response zone, expressed in barrels (cubic meters), based on the maximum historic discharge, if one exists, adjusted for any subsequent corrective or preventive action taken; or 
 
-(3) If the response zone contains one or more breakout tanks, the capacity of the single largest tank or battery of tanks within a single secondary containment system, adjusted for the capacity or size of the secondary containment system, expressed in barrels (cubic meters).
+(3) If the response zone contains one or more breakout tanks, the capacity of the single largest tank or battery of tanks within a single secondary containment system, adjusted for the capacity or size of the secondary containment system, expressed in barrels (cubic meters). 
 
-(4) Operators may claim prevention credits for breakout tank secondary containment and other specific spill prevention measures as follows:
+(4) Operators may claim prevention credits for breakout tank secondary containment and other specific spill prevention measures as follows: 
 
 | Prevention measure                      | Standard            | Credit   (percent) |
 | --------------------------------------- | ------------------- | ------------------ |

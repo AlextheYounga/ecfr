@@ -1,6 +1,6 @@
 ##### § 178.803 Testing and certification of IBCs.
 
-Tests required for the certification of each IBC design type are specified in the following table. The letter X indicates that one IBC (except where noted) of each design type must be subjected to the tests in the order presented:
+Tests required for the certification of each IBC design type are specified in the following table. The letter X indicates that one IBC (except where noted) of each design type must be subjected to the tests in the order presented: 
 
 | Performance test                                                                                                                                                                                                                                 | IBC type |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |

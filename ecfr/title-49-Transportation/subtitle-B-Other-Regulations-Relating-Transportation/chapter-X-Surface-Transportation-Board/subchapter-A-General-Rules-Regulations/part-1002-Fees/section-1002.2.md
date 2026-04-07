@@ -1,38 +1,38 @@
 ##### § 1002.2 Filing fees.
 
-(a) *Manner of payment.* (1) Except as specified in this section, all filing fees will be payable at the time and place the application, petition, notice, tariff, contract summary, or other document is tendered for filing.
+(a) *Manner of payment.* (1) Except as specified in this section, all filing fees will be payable at the time and place the application, petition, notice, tariff, contract summary, or other document is tendered for filing. 
 
-(2) Filing fees for all e-filings must be paid via the Board's electronic payment system found on the Board's website. Filing fees for other filings may be paid via the electronic payment system, but will also be accepted payable to the Surface Transportation Board, either by check payable in United States currency drawn upon funds deposited in a United States or foreign bank or other financial institution, or by money order payable in United States currency.
+(2) Filing fees for all e-filings must be paid via the Board's electronic payment system found on the Board's website. Filing fees for other filings may be paid via the electronic payment system, but will also be accepted payable to the Surface Transportation Board, either by check payable in United States currency drawn upon funds deposited in a United States or foreign bank or other financial institution, or by money order payable in United States currency. 
 
-(b) *Nonpayment of fees.* Any filing that is not accompanied by the appropriate filing fee or a request for waiver of the fee is deficient. If a filer requests a fee waiver but does not submit the appropriate fee, the filing is held for processing until a determination has been made on the fee waiver request. If the filer requests a fee waiver and submits the appropriate fee, the filing is accepted and the Board refunds the fee or a portion thereof if the fee waiver is ultimately granted.
+(b) *Nonpayment of fees.* Any filing that is not accompanied by the appropriate filing fee or a request for waiver of the fee is deficient. If a filer requests a fee waiver but does not submit the appropriate fee, the filing is held for processing until a determination has been made on the fee waiver request. If the filer requests a fee waiver and submits the appropriate fee, the filing is accepted and the Board refunds the fee or a portion thereof if the fee waiver is ultimately granted. 
 
-(c) *Fees not refundable.* Fees will be assessed for every filing in the type of proceeding listed in the schedule of fees contained in paragraph (f) of this section, subject to the exceptions contained in paragraphs (d) and (e) of this section. After the application, petition, notice, tariff, contract, or other document has been accepted for filing by the Board, the filing fee will not be refunded, regardless of whether the application, petition, notice, tariff, contract, or other document is granted or approved, denied, rejected before docketing, dismissed, or withdrawn. If an individual exemption proceeding becomes a matter of general applicability and is handled through the rulemaking process, the Board will refund the filing fee.
+(c) *Fees not refundable.* Fees will be assessed for every filing in the type of proceeding listed in the schedule of fees contained in paragraph (f) of this section, subject to the exceptions contained in paragraphs (d) and (e) of this section. After the application, petition, notice, tariff, contract, or other document has been accepted for filing by the Board, the filing fee will not be refunded, regardless of whether the application, petition, notice, tariff, contract, or other document is granted or approved, denied, rejected before docketing, dismissed, or withdrawn. If an individual exemption proceeding becomes a matter of general applicability and is handled through the rulemaking process, the Board will refund the filing fee. 
 
-(d) *Related or consolidated proceedings.* (1)(i) Except as provided for in paragraph (d)(1)(ii) of this section, separate fees need not be paid for related applications filed by the same applicant that would be the subject of one proceeding.
+(d) *Related or consolidated proceedings.* (1)(i) Except as provided for in paragraph (d)(1)(ii) of this section, separate fees need not be paid for related applications filed by the same applicant that would be the subject of one proceeding. 
 
-(ii) In proceedings filed under the rail consolidation procedures at 49 CFR part 1180, the applicable filing fee must be paid for each proceeding submitted concurrently with the primary application. The fee for each type of proceeding is set forth in the fee schedule contained in paragraph (f) of this section.
+(ii) In proceedings filed under the rail consolidation procedures at 49 CFR part 1180, the applicable filing fee must be paid for each proceeding submitted concurrently with the primary application. The fee for each type of proceeding is set forth in the fee schedule contained in paragraph (f) of this section. 
 
-(2) A separate fee will be assessed for the filing of an application for temporary authority to operate a motor carrier of passengers as provided for in paragraph (f)(5) of this section regardless of whether such application is related to a corresponding transfer proceeding as provided for in paragraph (f)(2) of this section.
+(2) A separate fee will be assessed for the filing of an application for temporary authority to operate a motor carrier of passengers as provided for in paragraph (f)(5) of this section regardless of whether such application is related to a corresponding transfer proceeding as provided for in paragraph (f)(2) of this section. 
 
-(3) The Board may reject concurrently filed applications, petitions, notices, contracts, or other documents asserted to be related and refund the filing fee if, in its judgment, they embrace two or more severable matters which should be the subject of separate proceedings.
+(3) The Board may reject concurrently filed applications, petitions, notices, contracts, or other documents asserted to be related and refund the filing fee if, in its judgment, they embrace two or more severable matters which should be the subject of separate proceedings. 
 
-(e) *Waiver or reduction of filing fees.* It is the general policy of the Board not to waive or reduce filing fees except as described below:
+(e) *Waiver or reduction of filing fees.* It is the general policy of the Board not to waive or reduce filing fees except as described below: 
 
-(1) Except as noted in this paragraph (e)(1), filing fees are waived for an application, petition, notice, tariff, contract summary, or other document that is filed by a federal government agency or a state or local government entity. A fee waiver is not available under this paragraph for a quasi-governmental entity or government-subsidized transportation company. A fee waiver is also not available to any state or local government entity that is acting in the capacity of a carrier or shipper or that owns or proposes to own a carrier and is before the agency in its proprietary role.
+(1) Except as noted in this paragraph (e)(1), filing fees are waived for an application, petition, notice, tariff, contract summary, or other document that is filed by a federal government agency or a state or local government entity. A fee waiver is not available under this paragraph for a quasi-governmental entity or government-subsidized transportation company. A fee waiver is also not available to any state or local government entity that is acting in the capacity of a carrier or shipper or that owns or proposes to own a carrier and is before the agency in its proprietary role. 
 
-(i) *When to request.* At the time that a filing is submitted to the Board, the fee waiver applicant may request a waiver of the fee prescribed in this part. Such request should be addressed to the Chief, Section of Administration, Office of Proceedings, Surface Transportation Board.
+(i) *When to request.* At the time that a filing is submitted to the Board, the fee waiver applicant may request a waiver of the fee prescribed in this part. Such request should be addressed to the Chief, Section of Administration, Office of Proceedings, Surface Transportation Board. 
 
-(ii) *Board action.* The Board will either stamp the relevant filing with the notation “Filing Fee Waived,” or the fee waiver applicant will be notified of the decision to grant or deny the request for waiver by the Chief, Section of Administration, Office of Proceedings.
+(ii) *Board action.* The Board will either stamp the relevant filing with the notation “Filing Fee Waived,” or the fee waiver applicant will be notified of the decision to grant or deny the request for waiver by the Chief, Section of Administration, Office of Proceedings. 
 
-(2) In extraordinary situations the Board will accept requests for waivers or fee reductions in accordance with the following procedure:
+(2) In extraordinary situations the Board will accept requests for waivers or fee reductions in accordance with the following procedure: 
 
-(i) *When to request.* At the time that a filing is submitted to the Board, the fee waiver applicant may request a waiver or reduction of the fee prescribed in this part. Such request should be addressed to the Chief, Section of Administration, Office of Proceedings.
+(i) *When to request.* At the time that a filing is submitted to the Board, the fee waiver applicant may request a waiver or reduction of the fee prescribed in this part. Such request should be addressed to the Chief, Section of Administration, Office of Proceedings. 
 
-(ii) *Basis.* The fee waiver applicant must show the waiver or reduction of the fee is in the best interest of the public, or that payment of the fee would impose an undue hardship on the fee waiver applicant.
+(ii) *Basis.* The fee waiver applicant must show the waiver or reduction of the fee is in the best interest of the public, or that payment of the fee would impose an undue hardship on the fee waiver applicant. 
 
-(iii) *Board action.* The Chief, Section of Administration, Office of Proceedings will notify the fee waiver applicant of the decision to grant or deny the request for waiver or reduction.
+(iii) *Board action.* The Chief, Section of Administration, Office of Proceedings will notify the fee waiver applicant of the decision to grant or deny the request for waiver or reduction. 
 
-(3) *Review.* No third-party appeals of fee waiver or reduction decisions are permitted.
+(3) *Review.* No third-party appeals of fee waiver or reduction decisions are permitted. 
 
 (f) *Schedule of filing fees.*
 
@@ -200,14 +200,14 @@
 | (i) Requests for Public Use File for all years prior to the most current year Carload Waybill Sample data available, provided on CD-R                                                                                                                                                                                                       | $250. per year.                     |
 | (ii) Specialized programming for Waybill requests to the Board                                                                                                                                                                                                                                                                              | $148. per hour.                     |
 
-(g) *Returned check policy.* (1) If a check submitted to the Board for a filing or service fee is dishonored by a bank or financial institution on which it is drawn, the Board will notify the person who submitted the check that:
+(g) *Returned check policy.* (1) If a check submitted to the Board for a filing or service fee is dishonored by a bank or financial institution on which it is drawn, the Board will notify the person who submitted the check that: 
 
-(i) All work will be suspended on the filing or proceeding, other than a tariff filing, until the check is made good;
+(i) All work will be suspended on the filing or proceeding, other than a tariff filing, until the check is made good; 
 
-(ii) A returned check charge of $20.00 and any bank charges incurred by the Board as a result of the dishonored check must be submitted with the filing fee which is outstanding; and
+(ii) A returned check charge of $20.00 and any bank charges incurred by the Board as a result of the dishonored check must be submitted with the filing fee which is outstanding; and 
 
-(iii) If payment is not made within the time specified by the Board, the proceeding will be dismissed or the filing may be rejected.
+(iii) If payment is not made within the time specified by the Board, the proceeding will be dismissed or the filing may be rejected. 
 
-(2) If a person repeatedly submits dishonored checks to the Board for filing fees, the Board may notify the person that all future filing fees must be submitted in the form of a certified or cashier's check or a money order.
+(2) If a person repeatedly submits dishonored checks to the Board for filing fees, the Board may notify the person that all future filing fees must be submitted in the form of a certified or cashier's check or a money order. 
 
 \[49 FR 18492, May 1, 1984\] Editorial Note:For Federal Register citations affecting § 1002.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

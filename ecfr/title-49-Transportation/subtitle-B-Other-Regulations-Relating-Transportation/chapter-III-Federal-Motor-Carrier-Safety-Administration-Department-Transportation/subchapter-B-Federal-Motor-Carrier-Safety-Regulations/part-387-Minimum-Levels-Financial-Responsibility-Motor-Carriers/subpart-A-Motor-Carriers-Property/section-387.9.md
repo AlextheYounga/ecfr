@@ -1,6 +1,6 @@
 ##### § 387.9 Financial responsibility, minimum levels.
 
-The minimum levels of financial responsibility referred to in § 387.7 are hereby prescribed as follows:
+The minimum levels of financial responsibility referred to in § 387.7 are hereby prescribed as follows: 
 
 Table 1 to § 387.9—Schedule of Limits—Public Liability
 | Type of carriage                                                                                                                                                                    | Commodity transported                                                                                                                                                                                                                                                                                                                                                                                                                            | January 1, 1985 |

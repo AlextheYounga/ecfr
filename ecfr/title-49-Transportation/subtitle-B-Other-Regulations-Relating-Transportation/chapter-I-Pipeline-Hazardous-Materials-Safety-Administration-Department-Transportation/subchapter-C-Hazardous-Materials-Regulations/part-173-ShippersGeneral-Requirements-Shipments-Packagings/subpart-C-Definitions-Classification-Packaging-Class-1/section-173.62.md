@@ -1,8 +1,8 @@
 ##### § 173.62 Specific packaging requirements for explosives.
 
-(a) Except as provided in § 173.7 of this subchapter, when the § 172.101 Table specifies that an explosive must be packaged in accordance with this section, only packagings which conform to the provisions of paragraphs (b) and (c) of this section or § 173.7(e) of this subchapter and the applicable requirements in §§ 173.60 and 173.61 may be used unless otherwise approved by the Associate Administrator.
+(a) Except as provided in § 173.7 of this subchapter, when the § 172.101 Table specifies that an explosive must be packaged in accordance with this section, only packagings which conform to the provisions of paragraphs (b) and (c) of this section or § 173.7(e) of this subchapter and the applicable requirements in §§ 173.60 and 173.61 may be used unless otherwise approved by the Associate Administrator. 
 
-(b) *Explosives Table.* The Explosives Table specifies the Packing Instructions assigned to each explosive. Explosives are identified in the first column in numerical sequence by their identification number (ID #), which is listed in column 4 of the § 172.101 table, of this subchapter. The second column of the Explosives Table specifies the Packing Instruction (PI) which must be used for packaging the explosive. The Explosives Packing Method Table in paragraph (c) of this section defines the methods of packaging. The Packing Instructions are identified using a 3 digit designation. The Packing Instruction prefixed by the letters “US” is particular to the United States and not found in applicable international regulations.
+(b) *Explosives Table.* The Explosives Table specifies the Packing Instructions assigned to each explosive. Explosives are identified in the first column in numerical sequence by their identification number (ID #), which is listed in column 4 of the § 172.101 table, of this subchapter. The second column of the Explosives Table specifies the Packing Instruction (PI) which must be used for packaging the explosive. The Explosives Packing Method Table in paragraph (c) of this section defines the methods of packaging. The Packing Instructions are identified using a 3 digit designation. The Packing Instruction prefixed by the letters “US” is particular to the United States and not found in applicable international regulations. 
 
 Table 1 to Paragraph (b): Explosives Table
 | ID#    | PI                    |
@@ -389,16 +389,16 @@ Table 1 to Paragraph (b): Explosives Table
 | NA0349 | 133                   |
 | NA0494 | US1                   |
 
-(c) Explosives must be packaged in accordance with the following table:
+(c) Explosives must be packaged in accordance with the following table: 
 
-(1) The first column lists, in alphanumeric sequence, the packing methods prescribed for explosives in the Explosives Table of paragraph (b) of this section.
+(1) The first column lists, in alphanumeric sequence, the packing methods prescribed for explosives in the Explosives Table of paragraph (b) of this section. 
 
-(2) The second column specifies the inner packagings that are required. If inner packagings are not required, a notation of “Not necessary” appears in the column. The term “Not necessary” means that a suitable inner packaging may be used but is not required.
+(2) The second column specifies the inner packagings that are required. If inner packagings are not required, a notation of “Not necessary” appears in the column. The term “Not necessary” means that a suitable inner packaging may be used but is not required. 
 
-(3) The third column specifies the intermediate packagings that are required. If intermediate packagings are not required, a notation of “Not necessary” appears in the column. The term “Not necessary” means that a suitable intermediate packaging may be used but is not required.
+(3) The third column specifies the intermediate packagings that are required. If intermediate packagings are not required, a notation of “Not necessary” appears in the column. The term “Not necessary” means that a suitable intermediate packaging may be used but is not required. 
 
-(4) The fourth column specifies the outer packagings which are required. If inner packagings and/or intermediate packagings are specified in the second and third columns, then the packaging specified in the fourth column must be used as the outer packaging of a combination packaging; otherwise it may be used as a single packaging.
+(4) The fourth column specifies the outer packagings which are required. If inner packagings and/or intermediate packagings are specified in the second and third columns, then the packaging specified in the fourth column must be used as the outer packaging of a combination packaging; otherwise it may be used as a single packaging. 
 
-(5) Packing Instruction 101 may be used for any explosive substance or article if an equivalent level of safety is shown to be maintained subject to the approval of the Associate Administrator.
+(5) Packing Instruction 101 may be used for any explosive substance or article if an equivalent level of safety is shown to be maintained subject to the approval of the Associate Administrator. 
 
 ![](/graphics/er21de20.026.gif)![](/graphics/er21de20.027.gif)![](/graphics/er21de20.028.gif)![](/graphics/er21de20.029.gif)![](/graphics/er21de20.030.gif)![](/graphics/er21de20.031.gif)![](/graphics/er21de20.032.gif)![](/graphics/er21de20.033.gif)![](/graphics/er21de20.034.gif)![](/graphics/er21de20.035.gif)![](/graphics/er21de20.036.gif)![](/graphics/er21de20.037.gif)![](/graphics/er21de20.038.gif)![](/graphics/er21de20.039.gif)![](/graphics/er21de20.040.gif)\[Amdt. 173-260, 62 FR 24720, May 6, 1997\] Editorial Note:For Federal Register citations affecting § 173.62, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

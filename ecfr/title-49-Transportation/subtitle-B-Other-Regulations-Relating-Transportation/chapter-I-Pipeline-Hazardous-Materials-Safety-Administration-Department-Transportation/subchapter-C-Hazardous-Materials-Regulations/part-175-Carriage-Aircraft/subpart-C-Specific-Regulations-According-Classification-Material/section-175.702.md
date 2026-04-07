@@ -1,14 +1,14 @@
 ##### § 175.702 Separation distance requirements for packages containing Class 7 (radioactive) materials in cargo aircraft.
 
-(a) No person may carry in a cargo aircraft any package required by § 172.403 of this subchapter to be labeled Radioactive Yellow-II or Radioactive Yellow-III unless:
+(a) No person may carry in a cargo aircraft any package required by § 172.403 of this subchapter to be labeled Radioactive Yellow-II or Radioactive Yellow-III unless: 
 
-(1) The total transport index for all packages does not exceed 50.0 and the packages are carried in accordance with § 175.701(a); or
+(1) The total transport index for all packages does not exceed 50.0 and the packages are carried in accordance with § 175.701(a); or 
 
-(2) The total transport index for all packages exceeds 50.0; and
+(2) The total transport index for all packages exceeds 50.0; and 
 
-(i) The separation distance between the surfaces of the radioactive materials packages, overpacks or freight containers and any space occupied by live animals is at least 0.5 m (20 inches) for journeys not exceeding 24 hours and at least 1.0 m (39 inches) for journeys longer than 24 hours; and
+(i) The separation distance between the surfaces of the radioactive materials packages, overpacks or freight containers and any space occupied by live animals is at least 0.5 m (20 inches) for journeys not exceeding 24 hours and at least 1.0 m (39 inches) for journeys longer than 24 hours; and 
 
-(ii) The minimum separation distances between the radioactive material and any areas occupied by persons that are specified in the following table are maintained:
+(ii) The minimum separation distances between the radioactive material and any areas occupied by persons that are specified in the following table are maintained: 
 
 | Transport index or sum of transport indexes of all packages in the aircraft or predesignated area | Minimum separation distances |
 | ------------------------------------------------------------------------------------------------- | ---------------------------- |
@@ -28,10 +28,10 @@
 | 180.1 to 190.0                                                                                    | 855                          |
 | 190.1 to 200.0                                                                                    | 875                          |
 
-(b) In addition to the limits on combined criticality safety indexes stated in § 175.700(b),
+(b) In addition to the limits on combined criticality safety indexes stated in § 175.700(b), 
 
-(1) The criticality safety index of any single group of packages must not exceed 50.0 (as used in this section, the term “group of packages” means packages that are separated from each other in an aircraft by a distance of 6 m (20 feet) or less); and
+(1) The criticality safety index of any single group of packages must not exceed 50.0 (as used in this section, the term “group of packages” means packages that are separated from each other in an aircraft by a distance of 6 m (20 feet) or less); and 
 
-(2) Each group of packages must be separated from every other group in the aircraft by not less than 6 m (20 feet), measured from the outer surface of each group.
+(2) Each group of packages must be separated from every other group in the aircraft by not less than 6 m (20 feet), measured from the outer surface of each group. 
 
 \[71 FR 14604, Mar. 22, 2006, as amended at 71 FR 54396, Sept. 14, 2006; 77 FR 60943, Oct. 5, 2012; 79 FR 40618, July 11, 2014\]

@@ -2,7 +2,7 @@
 
 Link to an amendment published at 89 FR 102832, Dec. 18, 2024.
 
-(a) *Data elements required for all vehicles.* Each vehicle equipped with an EDR must record all of the data elements listed in Table I, during the interval/time and at the sample rate specified in that table.
+(a) *Data elements required for all vehicles.* Each vehicle equipped with an EDR must record all of the data elements listed in Table I, during the interval/time and at the sample rate specified in that table. 
 
 Table I—Data Elements Required for All Vehicles Equipped With an EDR
 | Data element                                                                                                                                                                                              | Recording interval/time 1   (relative to time zero)                    | Data sample rate   (samples per second) |
@@ -26,7 +26,7 @@ Table I—Data Elements Required for All Vehicles Equipped With an EDR
 | 2 The frontal air bag warning lamp is the readiness indicator specified in S4.5.2 of FMVSS No. 208, and may also illuminate to indicate a malfunction in another part of the deployable restraint system. |                                                                        |                                         |
 | 3 The ignition cycle at the time of download is not required to be recorded at the time of the crash, but shall be reported during the download process.                                                  |                                                                        |                                         |
 
-(b) *Data elements required for vehicles under specified conditions.* Each vehicle equipped with an EDR must record each of the data elements listed in column 1 of Table II for which the vehicle meets the condition specified in column 2 of that table, during the interval/time and at the sample rate specified in that table.
+(b) *Data elements required for vehicles under specified conditions.* Each vehicle equipped with an EDR must record each of the data elements listed in column 1 of Table II for which the vehicle meets the condition specified in column 2 of that table, during the interval/time and at the sample rate specified in that table. 
 
 Table II—Data Elements Required for Vehicles Under Specified Minimum Conditions
 | Data element name                                                                                                                                                                          | Condition for   requirement                                                            | Recording interval/time 1   (relative to time zero)                 | Data sample rate (per second) |

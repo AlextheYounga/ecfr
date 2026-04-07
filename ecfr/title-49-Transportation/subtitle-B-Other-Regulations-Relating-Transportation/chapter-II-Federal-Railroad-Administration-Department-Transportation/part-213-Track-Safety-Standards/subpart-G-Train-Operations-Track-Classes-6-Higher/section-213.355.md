@@ -1,6 +1,6 @@
 ##### § 213.355 Frog guard rails and guard faces; gage.
 
-The guard check and guard face gages in frogs shall be within the limits prescribed in the following table—
+The guard check and guard face gages in frogs shall be within the limits prescribed in the following table— 
 
 | Class of track                                                                                                                                                            | Guard check gage | Guard face gage |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------- |

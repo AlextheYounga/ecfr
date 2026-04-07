@@ -1,6 +1,6 @@
 ##### § 173.425 Table of activity limits—excepted quantities and articles.
 
-The limits applicable to instruments, articles, and limited quantities subject to exceptions under §§ 173.421 and 173.424 are set forth in table 4 as follows:
+The limits applicable to instruments, articles, and limited quantities subject to exceptions under §§ 173.421 and 173.424 are set forth in table 4 as follows: 
 
 Table 4—Activity Limits for Limited Quantities, Instruments, and Articles
 | Nature of contents                                                                                       | Instruments and articles | Limited quantity package limits 1 |

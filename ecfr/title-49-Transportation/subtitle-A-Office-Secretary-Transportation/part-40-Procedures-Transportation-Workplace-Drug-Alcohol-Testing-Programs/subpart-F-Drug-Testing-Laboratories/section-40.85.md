@@ -1,6 +1,6 @@
 ##### § 40.85 What are the cutoff concentrations for urine drug tests?
 
-(a) As a laboratory, you must use the cutoff concentrations displayed in the following table for initial and confirmatory drug tests. All cutoff concentrations are expressed in nanograms per milliliter (ng/mL). The table follows:
+(a) As a laboratory, you must use the cutoff concentrations displayed in the following table for initial and confirmatory drug tests. All cutoff concentrations are expressed in nanograms per milliliter (ng/mL). The table follows: 
 
 | Initial test analyte                                                                                                                                                                                                                                                                                                                                                                                                                                 | Initial test cutoff 1 | Confirmatory test analyte     | Confirmatory test cutoff concentration |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ----------------------------- | -------------------------------------- |
@@ -21,10 +21,10 @@
 | 4 Methylenedioxymethamphetamine (MDMA).                                                                                                                                                                                                                                                                                                                                                                                                              |                       |                               |                                        |
 | 5 Methylenedioxyamphetamine (MDA).                                                                                                                                                                                                                                                                                                                                                                                                                   |                       |                               |                                        |
 
-(b) On an initial drug test, you must report a result below the cutoff concentration as negative. If the result is at or above the cutoff concentration, you must conduct a confirmation test.
+(b) On an initial drug test, you must report a result below the cutoff concentration as negative. If the result is at or above the cutoff concentration, you must conduct a confirmation test. 
 
-(c) On a confirmation drug test, you must report a result below the cutoff concentration as negative and a result at or above the cutoff concentration as confirmed positive.
+(c) On a confirmation drug test, you must report a result below the cutoff concentration as negative and a result at or above the cutoff concentration as confirmed positive. 
 
-(d) You must report quantitative values for morphine or codeine at 15,000 ng/mL or above.
+(d) You must report quantitative values for morphine or codeine at 15,000 ng/mL or above. 
 
 \[65 FR 79526, Dec. 19, 2000, as amended at 75 FR 49862, Aug. 16, 2010; 77 FR 26473, May 4, 2012; 82 FR 52244, Nov. 13, 2017. Redesignated and amended at 88 FR 27643, May 2, 2023\]

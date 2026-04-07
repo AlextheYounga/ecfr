@@ -1,6 +1,6 @@
 ##### § 213.55 Track alinement.
 
-(a) Except as provided in paragraph (b) of this section, alinement may not deviate from uniformity more than the amount prescribed in the following table:
+(a) Except as provided in paragraph (b) of this section, alinement may not deviate from uniformity more than the amount prescribed in the following table: 
 
 | Class of track                                                                                                                                                                                                                                                                  | Tangent track | Curved track |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------ |
@@ -13,7 +13,7 @@
 | 2 The ends of the chord shall be at points on the gage side of the outer rail, five-eighths of an inch below the top of the railhead.                                                                                                                                           |               |              |
 | 3 N/A—Not Applicable                                                                                                                                                                                                                                                            |               |              |
 
-(b) For operations at a qualified cant deficiency, Eu, of more than 5 inches, the alinement of the outside rail of the curve may not deviate from uniformity more than the amount prescribed in the following table:
+(b) For operations at a qualified cant deficiency, Eu, of more than 5 inches, the alinement of the outside rail of the curve may not deviate from uniformity more than the amount prescribed in the following table: 
 
 | Class of track                                                                                                                        | Curved track |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------ |

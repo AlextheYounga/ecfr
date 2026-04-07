@@ -1,6 +1,6 @@
 ##### § 213.63 Track surface.
 
-(a) Except as provided in paragraph (b) of this section, each track owner shall maintain the surface of its track within the limits prescribed in the following table:
+(a) Except as provided in paragraph (b) of this section, each track owner shall maintain the surface of its track within the limits prescribed in the following table: 
 
 | Track surface (inches)                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Class of track |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
@@ -12,7 +12,7 @@
 | 1 Except as limited by § 213.57(a), where the elevation at any point in a curve equals or exceeds 6 inches, the difference in crosslevel within 62 feet between that point and a point with greater elevation may not be more than 11/2 inches.                                                                                                                                                                                                                               |                |
 | 2 However, to control harmonics on Class 2 through 5 jointed track with staggered joints, the crosslevel differences shall not exceed 11/4 inches in all of six consecutive pairs of joints, as created by seven low joints. Track with joints staggered less than 10 feet apart shall not be considered as having staggered joints. Joints within the seven low joints outside of the regular joint spacing shall not be considered as joints for purposes of this footnote. |                |
 
-(b) For operations at a qualified cant deficiency, Eu, of more than 5 inches, each track owner shall maintain the surface of the curve within the limits prescribed in the following table:
+(b) For operations at a qualified cant deficiency, Eu, of more than 5 inches, each track owner shall maintain the surface of the curve within the limits prescribed in the following table: 
 
 | Track surface (inches)                                                                                          | Class of track |
 | --------------------------------------------------------------------------------------------------------------- | -------------- |

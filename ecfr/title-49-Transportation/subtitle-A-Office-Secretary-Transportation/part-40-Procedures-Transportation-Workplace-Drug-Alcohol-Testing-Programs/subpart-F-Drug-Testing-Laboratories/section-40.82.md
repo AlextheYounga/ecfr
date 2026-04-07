@@ -1,15 +1,15 @@
 ##### § 40.82 What drugs do laboratories test for?
 
-As a laboratory, you must test for the following five drugs or classes of drugs in a DOT drug test. You must not test “DOT specimens” for any other drugs.
+As a laboratory, you must test for the following five drugs or classes of drugs in a DOT drug test. You must not test “DOT specimens” for any other drugs. 
 
-(a) Marijuana metabolites.
+(a) Marijuana metabolites. 
 
-(b) Cocaine metabolites.
+(b) Cocaine metabolites. 
 
-(c) Amphetamines.
+(c) Amphetamines. 
 
-(d) Opioids.
+(d) Opioids. 
 
-(e) Phencyclidine (PCP).
+(e) Phencyclidine (PCP). 
 
 \[82 FR 52244, Nov. 13, 2017. Redesignated at 88 FR 27643, May 2, 2023\]

@@ -1,6 +1,6 @@
 ##### § 178.346-2 Material and thickness of material.
 
-The type and thickness of material for DOT 406 specification cargo tanks must conform to § 178.345-2, but in no case may the thickness be less than that determined by the minimum thickness requirements in § 178.320(a). The following Tables I and II identify the specified minimum thickness values to be employed in that determination.
+The type and thickness of material for DOT 406 specification cargo tanks must conform to § 178.345-2, but in no case may the thickness be less than that determined by the minimum thickness requirements in § 178.320(a). The following Tables I and II identify the specified minimum thickness values to be employed in that determination. 
 
 Table I—Specified Minimum Thickness of Heads (or Bulkheads and Baffles When Used as Tank Reinforcement) Using Mild Steel (MS), High Strength Low Alloy Steel (HSLA), Austenitic Stainless Steel (SS), or Aluminum (AL)—Expressed in Decimals of an Inch After Forming
 | Material  | Volume capacity in gallons per inch of length |

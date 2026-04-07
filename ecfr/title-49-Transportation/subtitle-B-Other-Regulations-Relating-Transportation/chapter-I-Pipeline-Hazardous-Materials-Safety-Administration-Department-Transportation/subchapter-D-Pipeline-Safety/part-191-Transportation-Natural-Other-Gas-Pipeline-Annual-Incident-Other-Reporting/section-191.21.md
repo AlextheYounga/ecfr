@@ -1,6 +1,6 @@
 ##### § 191.21 OMB control number assigned to information collection.
 
-This section displays the control number assigned by the Office of Management and Budget (OMB) to the information collection requirements in this part. The Paperwork Reduction Act requires agencies to display a current control number assigned by the Director of OMB for each agency information collection requirement.
+This section displays the control number assigned by the Office of Management and Budget (OMB) to the information collection requirements in this part. The Paperwork Reduction Act requires agencies to display a current control number assigned by the Director of OMB for each agency information collection requirement. 
 
 OMB Control Number 2137-0522
 | Section of 49 CFR part 191 where identified | Form No.                                       |

@@ -1,8 +1,8 @@
 ##### § 178.255-2 Material.
 
-(a) Material used in the tank must be steel of good weldable quality and conform with the requirements in Sections V, VIII, and IX of the ASME Code (IBR, see § 171.7 of this subchapter).
+(a) Material used in the tank must be steel of good weldable quality and conform with the requirements in Sections V, VIII, and IX of the ASME Code (IBR, see § 171.7 of this subchapter). 
 
-(b) The minimum thickness of metal, exclusive of lining material, for shell and heads of tanks shall be as follows:
+(b) The minimum thickness of metal, exclusive of lining material, for shell and heads of tanks shall be as follows: 
 
 | Tank capacity               | Minimum thickness (inch) |
 | --------------------------- | ------------------------ |
