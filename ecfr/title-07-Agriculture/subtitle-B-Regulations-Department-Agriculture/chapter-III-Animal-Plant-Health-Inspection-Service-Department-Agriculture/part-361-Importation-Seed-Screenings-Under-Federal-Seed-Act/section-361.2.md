@@ -6,7 +6,7 @@
 
 (c) Any agricultural seed, vegetable seed, or screenings imported into the United States not in compliance with this part shall be subject to exportation, destruction, disposal, or any remedial measures that the Administrator determines are necessary to prevent the dissemination into the United States of noxious weeds.
 
-(d) Except as provided in § 361.7(b), and in addition to the permit requirements of § 319.37-5 of this chapter , coated or pelleted seed, or seed that is embedded in a substrate that obscures visibility may enter the United States only if each lot of seed is accompanied by an officially drawn and sealed sample of seed drawn from the lot before the seed was coated or pelleted. The sample must be drawn in a manner consistent with that described in § 361.5 of this part.
+(d) Except as provided in § 361.7(b), and in addition to the permit requirements of § 319.37-5 of this chapter, coated or pelleted seed, or seed that is embedded in a substrate that obscures visibility may enter the United States only if each lot of seed is accompanied by an officially drawn and sealed sample of seed drawn from the lot before the seed was coated or pelleted. The sample must be drawn in a manner consistent with that described in § 361.5 of this part.
 
 (e) Except as provided in §§ 361.4(a)(3) and 361.7(c), screenings of all agricultural seed and vegetable seed are prohibited entry into the United States.
 
