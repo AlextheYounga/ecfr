@@ -1,7 +1,5 @@
 ##### § 17.95 Critical habitat—fish and wildlife.
 
-Link to an amendment published at 89 FR 46610, May 29, 2024.
-
 (a) *Mammals.*
 
 Florida Bonneted Bat (*Eumops floridanus*)
@@ -434,7 +432,87 @@ Note:
 
 No map.
 
-Alabama Beach Mouse (*Peromyscus polionotus ammobates*)
+Pacific Marten (*Martes caurina*), Coastal Distinct Population Segment (DPS)
+
+(1) Critical habitat units are depicted for California and Oregon on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Coastal DPS of the Pacific marten consist of the following components:
+
+(i) Habitat that supports a coastal marten home range by providing for breeding, denning, resting, or foraging. This habitat provides cover and shelter to facilitate thermoregulation and reduce predation risk, provides foraging sources for coastal marten prey, and provides structures that provide resting and denning sites. For cover and support denning, resting, and foraging, coastal martens require a dense forest overstory, dense understory development, and biologically complex structure that contains snags, logs, other decay elements, or other structures. Stands meeting the conditions for this physical or biological feature would also function as meeting the physical or biological feature described in paragraph (2)(ii) of this entry. Stands meeting the condition for this physical or biological feature contain each of the following three components:
+
+(A) *Mature, conifer-dominated forest overstory.* Overstory canopy cover provides protection to coastal martens from aerial and terrestrial predators, as well as shelter from physical elements such as sun or storms. It also is the general source of structural features that coastal martens use for denning and resting, and provides suitable coastal marten prey. Suitable overstory conditions vary depending on the productivity of the site as follows:
+
+(*1*) For areas with relatively low productivity (*e.g.,* areas where growing conditions are harsher, such as serpentine sites or coastal shore pine forests, compared to other areas), suitable forest overstory conditions are highly variable. They may contain a sparse conifer overstory, such as in some serpentine areas, or a dense conifer overstory composed mainly of trees smaller than the typical older forest conditions described in paragraph (2)(i)(A)(*2*) of this entry (*e.g.,* the dense shore pine overstory found in areas occupied by coastal marten along the Oregon coast) as well as those resting and denning structures necessary that are as of yet undescribed for some populations.
+
+(*2*) For other areas with higher productivity, coastal martens tend to favor forest stands in the old-growth or late-mature seral stages. The specific forest composition and structure conditions found in higher productivity areas will vary by plant series and site class. Structural and composition descriptions of old-growth or late-mature seral stages for local plant community series should be used where available. In general, these stands exhibit high levels of canopy cover and structural diversity in the form of:
+
+(*i*) A wide range of tree sizes, including trees with large diameter and height;
+
+(*ii*) Deep, dense tree canopies with multiple canopy layers and irregular tree crowns;
+
+(*iii*) High numbers of snags, including large-diameter snags; and
+
+(*iv*) Abundant downed wood, including large logs, ideally in a variety of decay stages.
+
+(B) *Dense, spatially extensive shrub layer.* The shrub layer should be greater than 70 percent of the area, comprising mainly shade-tolerant, long-lived, mast-producing species (primarily ericaceous species such as salal, huckleberry, or rhododendron, as well as shrub oaks). An extensive layer of dense shrubs provides protection and cover from coastal marten predators. In addition, ericaceous and mast-producing shrubs provide forage for coastal marten prey.
+
+(C) *Stands with structural features.* Structural features that support denning or resting, such as large downed trees, rock piles with interstitial spaces, and large snags or live trees with decay elements or suitable resting structures (*e.g.,* hollows and cavities, forked or broken tops, dead tops, brooms from mistletoe or other tree pathogens, or large platforms including abandoned nests). These features provide cover and thermal protection for kits and denning females, and for all animals when they are resting between foraging bouts. Hence, these features need to be distributed throughout a coastal marten's home range. They also tend to be among the largest structures in the stand. Many of these features, such as downed trees and snags or live trees with decayed elements, also support coastal marten prey.
+
+(ii) Habitat that allows for movement within home ranges among stands that meet the conditions of the physical or biological feature described in paragraph (2)(i) of this entry or that supports individuals dispersing between home ranges. Habitat with this physical or biological feature includes:
+
+(A) Stands that meet all three conditions of the physical or biological feature described in paragraph (2)(i) of this entry;
+
+(B) Forest stands that meet only the conditions of paragraphs (2)(i)(A) and (B) of this entry; or
+
+(C) Habitats with lesser amounts of shrub, canopy, or forest cover, or lesser amounts of smaller structural features as described in paragraph (2)(i) of this entry, and while not meeting all of the conditions of the physical or biological feature described in paragraph (2)(i) of this entry, still provide forage and cover from predators that allow a coastal marten to traverse the landscape to areas of higher quality habitat.
+
+(3) Critical habitat does not include humanmade structures (such as buildings, aqueducts, runways, roads, and other paved or hardened areas as a result of development) and the land on which they are located existing within the legal boundaries on June 28, 2024. Due to the scale on which the critical habitat boundaries are developed, some areas within the legal boundaries may not contain the physical or biological features and, therefore, are not considered critical habitat.
+
+(4) Data layers defining map units were created using ArcGIS Pro 2.5.2 (Environmental Systems Research Institute, Inc. (ESRI)), a Geographic Information Systems (GIS) program. ESRI base maps of world topographic, world imagery, and the program's world imagery U.S. Geological Survey (USGS) Imagery were used. Critical habitat units were then mapped using North American Datum (NAD) 1983, Albers. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's Arcata Fish and Wildlife Office's internet site at *https://www.fws.gov/office/arcata-fish-and-wildlife,* or on *https://www.regulations.gov* at Docket No. FWS-R8-ES-2020-0151. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map of critical habitat follows:
+
+Figure 1 to Pacific Marten (*Martes caurina*), Coastal DPS paragraph (5) ![](/graphics/er29my24.000.gif)
+
+(6) Unit 1: Siuslaw Unit; Lincoln and Lane Counties, Oregon.
+
+(i) Unit 1 consists of 22,135 acres (ac) (8,958 hectares (ha)) and is composed of Federal (20,092 ac (8,131 ha)) and State (2,043 ac (827 ha)) lands.
+
+(ii) Map of Unit 1 follows:
+
+Figure 2 to Pacific Marten (*Martes caurina*), Coastal DPS paragraph (6)(ii) ![](/graphics/er29my24.001.gif)
+
+(7) Unit 2: Siltcoos Unit; Lane and Douglas Counties, Oregon.
+
+(i) Unit 2 consists of 15,859 ac (6,418 ha) and is composed of Federal (15,610 ac (6,317 ha)) and State (249 ac (101 ha)) lands.
+
+(ii) Map of Unit 2 follows:
+
+Figure 3 to Pacific Marten (*Martes caurina*), Coastal DPS paragraph (7)(ii) ![](/graphics/er29my24.002.gif)
+
+(8) Unit 3: Coos Bay Unit; Douglas and Coos Counties, Oregon.
+
+(i) Unit 3 consists of 15,402 ac (6,233 ha) and is composed of Federal (14,806 ac (5,992 ha)) and State (595 ac (241 ha)) lands.
+
+(ii) Map of Unit 3 follows:
+
+Figure 4 to Pacific Marten (*Martes caurina*), Coastal DPS paragraph (8)(ii) ![](/graphics/er29my24.003.gif)
+
+(9) Unit 4: Cape Blanco Unit; Coos and Curry Counties, Oregon.
+
+(i) Unit 4 consists of 4,044 ac (1,636 ha) and is composed of Federal (1,019 ac (412 ha)) and State (3,025 ac (1,224 ha)) lands.
+
+(ii) Map of Unit 4 follows:
+
+Figure 5 to Pacific Marten (*Martes caurina*), Coastal DPS paragraph (9)(ii) ![](/graphics/er29my24.004.gif)
+
+(10) Unit 5: Klamath Mountains Unit; Coos, Curry, Douglas, and Josephine Counties, Oregon, and Del Norte, Humboldt, and Siskiyou Counties, California.
+
+(i) Unit 5 consists of 1,156,312 ac (467,943 ha) and is composed of Federal (1,125,492 ac (455,471 ha)), State (17,812 ac (7,208 ha)), and private or undefined (13,008 ac (5,264 ha)) lands.
+
+(ii) Map of Unit 5 follows:
+
+Figure 6 to Pacific Marten (*Martes caurina*), Coastal DPS paragraph (10)(ii) ![](/graphics/er29my24.005.gif)Alabama Beach Mouse (*Peromyscus polionotus ammobates*)
 
 (1) Critical habitat units are depicted for Baldwin County, Alabama, on the maps below. The maps provided are for informational purposes only.
 
