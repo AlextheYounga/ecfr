@@ -1,14 +1,16 @@
 ##### § 165.801 Annual fireworks displays and other events in the Eighth Coast Guard District requiring safety zones.
 
-The Coast Guard is establishing safety zones for the annual fireworks displays and other events requiring safety zones listed in the table to § 165.801. 
+Link to an amendment published at 90 FR 42816, Sept. 5, 2025.
 
-(a) In accordance with the general regulations in § 165 of this part, entry into this zone is prohibited unless authorized by the Captain of the Port or a designated representative. 
+The Coast Guard is establishing safety zones for the annual fireworks displays and other events requiring safety zones listed in the table to § 165.801.
 
-(b) Persons or vessels desiring to enter into or passage through the zone must request permission from the Captain of the Port or a designated representative. 
+(a) In accordance with the general regulations in § 165 of this part, entry into this zone is prohibited unless authorized by the Captain of the Port or a designated representative.
 
-(c) If permission is granted, all persons and vessels shall comply with the instructions of the Captain of the Port or designated representative. Designated representatives include commissioned, warrant, and petty officers of the U.S. Coast Guard. 
+(b) Persons or vessels desiring to enter into or passage through the zone must request permission from the Captain of the Port or a designated representative.
 
-(d) *Informational broadcasts:* The Captain of the Port or a designated representative will inform the public through broadcast notices to mariners of the enforcement period for the safety zone as well as any changes in the planned schedule. 
+(c) If permission is granted, all persons and vessels shall comply with the instructions of the Captain of the Port or designated representative. Designated representatives include commissioned, warrant, and petty officers of the U.S. Coast Guard.
+
+(d) *Informational broadcasts:* The Captain of the Port or a designated representative will inform the public through broadcast notices to mariners of the enforcement period for the safety zone as well as any changes in the planned schedule.
 
 Table 1 To § 165.801—Sector Ohio Valley Annual and Recurring Safety Zones
 | Date                                                                               | Sponsor/name                                                                                      | Sector Ohio   Valley location | Safety zone                                                                                                                                                |

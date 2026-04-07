@@ -1,6 +1,6 @@
 ##### § 310.5 Recordkeeping requirements.
 
-(a) Any seller or telemarketer must keep, for a period of 5 years from the date the record is produced unless specified otherwise, the following records relating to its telemarketing activities:
+(a) Any seller or telemarketer must keep, for a period of 5 years from the date the record is produced unless specified otherwise, the following records relating to its telemarketing activities:1*1*
 
 (1) A copy of each substantially different advertising, brochure, telemarketing script, and promotional material, and a copy of each unique prerecorded message. Such records must be kept for a period of 5 years from the date that they are no longer used in telemarketing;
 

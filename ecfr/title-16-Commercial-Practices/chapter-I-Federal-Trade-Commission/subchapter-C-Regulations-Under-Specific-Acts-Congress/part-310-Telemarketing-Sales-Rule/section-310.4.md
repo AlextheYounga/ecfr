@@ -1,6 +1,6 @@
 ##### § 310.4 Abusive telemarketing acts or practices.
 
-(a) *Abusive conduct generally.* It is an abusive telemarketing act or practice and a violation of this part for any seller or telemarketer to engage in the following conduct:
+(a) *Abusive conduct generally.* It is an abusive telemarketing act or practice and a violation of this part for any seller or telemarketer to engage in the following conduct:1
 
 (1) Threats, intimidation, or the use of profane or obscene language;
 

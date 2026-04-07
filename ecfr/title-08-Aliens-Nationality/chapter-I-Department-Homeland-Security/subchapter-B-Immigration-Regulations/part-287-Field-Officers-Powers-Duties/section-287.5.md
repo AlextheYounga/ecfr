@@ -1,323 +1,325 @@
 ##### § 287.5 Exercise of power by immigration officers.
 
-(a) *Power and authority to interrogate and administer oaths.* Any immigration officer is hereby authorized and designated to exercise anywhere in or outside the United States the power conferred by: 
+Link to an amendment published at 90 FR 42804, Sept. 5, 2025.
 
-(1) Section 287(a)(1) of the Act to interrogate, without warrant, any alien or person believed to be an alien concerning his or her right to be, or to remain, in the United States, and 
+(a) *Power and authority to interrogate and administer oaths.* Any immigration officer is hereby authorized and designated to exercise anywhere in or outside the United States the power conferred by:
 
-(2) Section 287(b) of the Act to administer oaths and to take and consider evidence concerning the privilege of any person to enter, reenter, pass through, or reside in the United States; or concerning any matter which is material or relevant to the enforcement of the Act and the administration of the immigration and naturalization functions of the Department. 
+(1) Section 287(a)(1) of the Act to interrogate, without warrant, any alien or person believed to be an alien concerning his or her right to be, or to remain, in the United States, and
 
-(b) *Power and authority to patrol the border.* The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the power to patrol the border conferred by section 287(a)(3) of the Act: 
+(2) Section 287(b) of the Act to administer oaths and to take and consider evidence concerning the privilege of any person to enter, reenter, pass through, or reside in the United States; or concerning any matter which is material or relevant to the enforcement of the Act and the administration of the immigration and naturalization functions of the Department.
 
-(1) Border patrol agents; 
+(b) *Power and authority to patrol the border.* The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the power to patrol the border conferred by section 287(a)(3) of the Act:
 
-(2) Air and marine agents; 
+(1) Border patrol agents;
 
-(3) Special agents; 
+(2) Air and marine agents;
 
-(4) CBP officers; 
+(3) Special agents;
 
-(5) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and 
+(4) CBP officers;
 
-(6) Immigration officers who need the authority to patrol the border under section 287(a)(3) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP, or the Assistant Secretary/Director of ICE. 
+(5) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and
 
-(c) *Power and authority to arrest.* (1) Arrests of aliens under section 287(a)(2) of the Act for immigration violations. The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the arrest power conferred by section 287(a)(2) of the Act and in accordance with 8 CFR 287.8(c): 
+(6) Immigration officers who need the authority to patrol the border under section 287(a)(3) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP, or the Assistant Secretary/Director of ICE.
 
-(i) Border patrol agents; 
+(c) *Power and authority to arrest.* (1) Arrests of aliens under section 287(a)(2) of the Act for immigration violations. The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the arrest power conferred by section 287(a)(2) of the Act and in accordance with 8 CFR 287.8(c):
 
-(ii) Air and marine agents; 
+(i) Border patrol agents;
 
-(iii) Special agents; 
+(ii) Air and marine agents;
 
-(iv) Deportation officers; 
+(iii) Special agents;
 
-(v) CBP officers; 
+(iv) Deportation officers;
 
-(vi) Immigration enforcement agents; 
+(v) CBP officers;
 
-(vii) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and 
+(vi) Immigration enforcement agents;
 
-(viii) Immigration officers who need the authority to arrest aliens under section 287(a)(2) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP, the Assistant Secretary/Director of ICE, or the Director of the USCIS. 
+(vii) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and
 
-(2) Arrests of persons under section 287(a)(4) of the Act for felonies regulating the admission or removal of aliens. The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the arrest power conferred by section 287(a)(4) of the Act and in accordance with 8 CFR 287.8(c): 
+(viii) Immigration officers who need the authority to arrest aliens under section 287(a)(2) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP, the Assistant Secretary/Director of ICE, or the Director of the USCIS.
 
-(i) Border patrol agents; 
+(2) Arrests of persons under section 287(a)(4) of the Act for felonies regulating the admission or removal of aliens. The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the arrest power conferred by section 287(a)(4) of the Act and in accordance with 8 CFR 287.8(c):
 
-(ii) Air and marine agents; 
+(i) Border patrol agents;
 
-(iii) Special agents; 
+(ii) Air and marine agents;
 
-(iv) Deportation officers; 
+(iii) Special agents;
 
-(v) CBP officers; 
+(iv) Deportation officers;
 
-(vi) Immigration enforcement agents; 
+(v) CBP officers;
 
-(vii) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and 
+(vi) Immigration enforcement agents;
 
-(viii) Immigration officers who need the authority to arrest persons under section 287(a)(4) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP, the Assistant Secretary/Director of ICE, or the Director of the USCIS. 
+(vii) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and
 
-(3) Arrests of persons under section 287(a)(5)(A) of the Act for any offense against the United States. The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the arrest power conferred by section 287(a)(5)(A) of the Act and in accordance with 8 CFR 287.8(c): 
+(viii) Immigration officers who need the authority to arrest persons under section 287(a)(4) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP, the Assistant Secretary/Director of ICE, or the Director of the USCIS.
 
-(i) Border patrol agents; 
+(3) Arrests of persons under section 287(a)(5)(A) of the Act for any offense against the United States. The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the arrest power conferred by section 287(a)(5)(A) of the Act and in accordance with 8 CFR 287.8(c):
 
-(ii) Air and marine agents; 
+(i) Border patrol agents;
 
-(iii) Special agents; 
+(ii) Air and marine agents;
 
-(iv) Deportation officers; 
+(iii) Special agents;
 
-(v) CBP officers; 
+(iv) Deportation officers;
 
-(vi) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and 
+(v) CBP officers;
 
-(vii) Immigration officers who need the authority to arrest persons under section 287(a)(5)(A) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP, or the Assistant Secretary/Director of ICE. 
+(vi) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and
 
-(4) Arrests of persons under section 287(a)(5)(B) of the Act for any felony. (i) Section 287(a)(5)(B) of the Act authorizes designated immigration officers, as listed in paragraph (c)(4)(iii) of this section, to arrest persons, without warrant, for any felony cognizable under the laws of the United States if: 
+(vii) Immigration officers who need the authority to arrest persons under section 287(a)(5)(A) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP, or the Assistant Secretary/Director of ICE.
 
-(A) The immigration officer has reasonable grounds to believe that the person to be arrested has committed or is committing such a felony; 
+(4) Arrests of persons under section 287(a)(5)(B) of the Act for any felony. (i) Section 287(a)(5)(B) of the Act authorizes designated immigration officers, as listed in paragraph (c)(4)(iii) of this section, to arrest persons, without warrant, for any felony cognizable under the laws of the United States if:
 
-(B) The immigration officer is performing duties relating to the enforcement of the immigration laws at the time of the arrest; 
+(A) The immigration officer has reasonable grounds to believe that the person to be arrested has committed or is committing such a felony;
 
-(C) There is a likelihood of the person escaping before a warrant can be obtained for his or her arrest; and 
+(B) The immigration officer is performing duties relating to the enforcement of the immigration laws at the time of the arrest;
 
-(D) The immigration officer has been certified as successfully completing a training program that covers such arrests and the standards with respect to the immigration enforcement activities of the Department as defined in 8 CFR 287.8. 
+(C) There is a likelihood of the person escaping before a warrant can be obtained for his or her arrest; and
 
-(ii) The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the arrest power conferred by section 287(a)(5)(B) of the Act and in accordance with 8 CFR 287.8(c): 
+(D) The immigration officer has been certified as successfully completing a training program that covers such arrests and the standards with respect to the immigration enforcement activities of the Department as defined in 8 CFR 287.8.
 
-(A) Border patrol agents; 
+(ii) The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the arrest power conferred by section 287(a)(5)(B) of the Act and in accordance with 8 CFR 287.8(c):
 
-(B) Air and marine agents; 
+(A) Border patrol agents;
 
-(C) Special agents; 
+(B) Air and marine agents;
 
-(D) Deportation officers; 
+(C) Special agents;
 
-(E) CBP officers; 
+(D) Deportation officers;
 
-(F) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and 
+(E) CBP officers;
 
-(G) Immigration officers who need the authority to arrest persons under section 287(a)(5)(B) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP or the Assistant Secretary/Director of ICE. 
+(F) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and
 
-(iii) Notwithstanding the authorization and designation set forth in paragraph (c)(4)(ii) of this section, no immigration officer is authorized to make an arrest for any felony under the authority of section 287(a)(5)(B) of the Act until such time as he or she has been certified as successfully completing a training course encompassing such arrests and the standards for enforcement activities are defined in 8 CFR 287.8. Such certification will be valid for the duration of the immigration officer's continuous employment, unless it is suspended or revoked by the Commissioner of CBP or the Assistant Secretary/Director of ICE, or their respective designees, for just cause. 
+(G) Immigration officers who need the authority to arrest persons under section 287(a)(5)(B) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP or the Assistant Secretary/Director of ICE.
 
-(5) Arrests of persons under section 274(a) of the Act who bring in, transport, or harbor certain aliens, or induce them to enter. 
+(iii) Notwithstanding the authorization and designation set forth in paragraph (c)(4)(ii) of this section, no immigration officer is authorized to make an arrest for any felony under the authority of section 287(a)(5)(B) of the Act until such time as he or she has been certified as successfully completing a training course encompassing such arrests and the standards for enforcement activities are defined in 8 CFR 287.8. Such certification will be valid for the duration of the immigration officer's continuous employment, unless it is suspended or revoked by the Commissioner of CBP or the Assistant Secretary/Director of ICE, or their respective designees, for just cause.
 
-(i) Section 274(a) of the Act authorizes designated immigration officers, as listed in paragraph (c)(5)(ii) of this section, to arrest persons who bring in, transport, or harbor aliens, or induce them to enter the United States in violation of law. When making an arrest, the designated immigration officer shall adhere to the provisions of the enforcement standard governing the conduct of arrests in 8 CFR 287.8(c). 
+(5) Arrests of persons under section 274(a) of the Act who bring in, transport, or harbor certain aliens, or induce them to enter.
 
-(ii) The following immigration officers who have successfully completed basic immigration law enforcement training are authorized and designated to exercise the arrest power conferred by section 274(a) of the Act: 
+(i) Section 274(a) of the Act authorizes designated immigration officers, as listed in paragraph (c)(5)(ii) of this section, to arrest persons who bring in, transport, or harbor aliens, or induce them to enter the United States in violation of law. When making an arrest, the designated immigration officer shall adhere to the provisions of the enforcement standard governing the conduct of arrests in 8 CFR 287.8(c).
 
-(A) Border patrol agents; 
+(ii) The following immigration officers who have successfully completed basic immigration law enforcement training are authorized and designated to exercise the arrest power conferred by section 274(a) of the Act:
 
-(B) Air and marine agents; 
+(A) Border patrol agents;
 
-(C) Special agents; 
+(B) Air and marine agents;
 
-(D) Deportation officers; 
+(C) Special agents;
 
-(E) CBP officers; 
+(D) Deportation officers;
 
-(F) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and 
+(E) CBP officers;
 
-(G) Immigration officers who need the authority to arrest persons under section 274(a) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP or the Assistant Secretary/Director of ICE. 
+(F) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and
 
-(6) Custody and transportation of previously arrested persons. In addition to the authority to arrest pursuant to a warrant of arrest in paragraph (e)(3)(iv) of this section, detention enforcement officers and immigration enforcement agents who have successfully completed basic immigration law enforcement training are hereby authorized and designated to take and maintain custody of and transport any person who has been arrested by an immigration officer pursuant to paragraphs (c)(1) through (c)(5) of this section. 
+(G) Immigration officers who need the authority to arrest persons under section 274(a) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP or the Assistant Secretary/Director of ICE.
 
-(d) *Power and authority to conduct searches.* The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the power to conduct searches conferred by section 287(c) of the Act: 
+(6) Custody and transportation of previously arrested persons. In addition to the authority to arrest pursuant to a warrant of arrest in paragraph (e)(3)(iv) of this section, detention enforcement officers and immigration enforcement agents who have successfully completed basic immigration law enforcement training are hereby authorized and designated to take and maintain custody of and transport any person who has been arrested by an immigration officer pursuant to paragraphs (c)(1) through (c)(5) of this section.
 
-(1) Border patrol agents; 
+(d) *Power and authority to conduct searches.* The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the power to conduct searches conferred by section 287(c) of the Act:
 
-(2) Air and marine agents; 
+(1) Border patrol agents;
 
-(3) Special agents; 
+(2) Air and marine agents;
 
-(4) Deportation officers; 
+(3) Special agents;
 
-(5) CBP officers; 
+(4) Deportation officers;
 
-(6) Immigration enforcement agents; 
+(5) CBP officers;
 
-(7) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and 
+(6) Immigration enforcement agents;
 
-(8) Immigration officers who need the authority to conduct searches under section 287(c) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP, the Assistant Secretary/Director of ICE, or the Director of USCIS. 
+(7) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and
 
-(e) *Power and authority to execute warrants*—(1) *Search warrants.* The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the power conferred by section 287(a) of the Act to execute a search warrant: 
+(8) Immigration officers who need the authority to conduct searches under section 287(c) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP, the Assistant Secretary/Director of ICE, or the Director of USCIS.
 
-(i) Border patrol agents; 
+(e) *Power and authority to execute warrants*—(1) *Search warrants.* The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the power conferred by section 287(a) of the Act to execute a search warrant:
 
-(ii) Air and marine agents; 
+(i) Border patrol agents;
 
-(iii) CBP officers; 
+(ii) Air and marine agents;
 
-(iv) Special agents; 
+(iii) CBP officers;
 
-(v) Deportation officers; 
+(iv) Special agents;
 
-(vi) Immigration enforcement agents; 
+(v) Deportation officers;
 
-(vii) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and 
+(vi) Immigration enforcement agents;
 
-(viii) Immigration officers who need the authority to execute search warrants under section 287(a) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP or the Assistant Secretary/Director of ICE. 
+(vii) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and
 
-(2) *Issuance of arrest warrants for immigration violations.* A warrant of arrest may be issued by any of the following immigration officials who have been authorized or delegated such authority: 
+(viii) Immigration officers who need the authority to execute search warrants under section 287(a) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP or the Assistant Secretary/Director of ICE.
 
-(i) District directors (except foreign); 
+(2) *Issuance of arrest warrants for immigration violations.* A warrant of arrest may be issued by any of the following immigration officials who have been authorized or delegated such authority:
 
-(ii) Deputy district directors (except foreign); 
+(i) District directors (except foreign);
 
-(iii) Assistant district directors for investigations; 
+(ii) Deputy district directors (except foreign);
 
-(iv) Deputy assistant district directors for investigations; 
+(iii) Assistant district directors for investigations;
 
-(v) Assistant district directors for deportation; 
+(iv) Deputy assistant district directors for investigations;
 
-(vi) Deputy assistant district directors for deportation; 
+(v) Assistant district directors for deportation;
 
-(vii) Assistant district directors for examinations; 
+(vi) Deputy assistant district directors for deportation;
 
-(viii) Deputy assistant district directors for examinations; 
+(vii) Assistant district directors for examinations;
 
-(ix) Officers in charge (except foreign); 
+(viii) Deputy assistant district directors for examinations;
 
-(x) Assistant officers in charge (except foreign); 
+(ix) Officers in charge (except foreign);
 
-(xi) Chief patrol agents; 
+(x) Assistant officers in charge (except foreign);
 
-(xii) Deputy chief patrol agents; 
+(xi) Chief patrol agents;
 
-(xiii) Division chiefs; 
+(xii) Deputy chief patrol agents;
 
-(xiv) Assistant chief patrol agents; 
+(xiii) Division chiefs;
 
-(xv) Patrol agents in charge; 
+(xiv) Assistant chief patrol agents;
 
-(xvi) Deputy patrol agents in charge; 
+(xv) Patrol agents in charge;
 
-(xvii) Border Patrol watch commanders; 
+(xvi) Deputy patrol agents in charge;
 
-(xviii) Special operations supervisors; 
+(xvii) Border Patrol watch commanders;
 
-(xix) Supervisory border patrol agents; 
+(xviii) Special operations supervisors;
 
-(xx) Directors of air operations; 
+(xix) Supervisory border patrol agents;
 
-(xxi) Directors of marine operations; 
+(xx) Directors of air operations;
 
-(xxii) Supervisory air and marine interdiction agents; 
+(xxi) Directors of marine operations;
 
-(xxiii) Executive Associate Director of Homeland Security Investigations; 
+(xxii) Supervisory air and marine interdiction agents;
 
-(xxiv) Institutional Hearing Program directors; 
+(xxiii) Executive Associate Director of Homeland Security Investigations;
 
-(xxv) Director, Field Operations; 
+(xxiv) Institutional Hearing Program directors;
 
-(xxvi) Assistant Director, Field Operations; 
+(xxv) Director, Field Operations;
 
-(xxvii) Port directors; 
+(xxvi) Assistant Director, Field Operations;
 
-(xxviii) Assistant port directors; 
+(xxvii) Port directors;
 
-(xxix) Field operations watch commanders; 
+(xxviii) Assistant port directors;
 
-(xxx) Field operations chiefs; 
+(xxix) Field operations watch commanders;
 
-(xxxi) Supervisory deportation officers; 
+(xxx) Field operations chiefs;
 
-(xxxii) Supervisory detention and deportation officers; 
+(xxxi) Supervisory deportation officers;
 
-(xxxiii) Group Supervisors; 
+(xxxii) Supervisory detention and deportation officers;
 
-(xxxiv) Director, Office of Detention and Removal Operations; 
+(xxxiii) Group Supervisors;
 
-(xxxv) Special Agents in Charge; 
+(xxxiv) Director, Office of Detention and Removal Operations;
 
-(xxxvi) Deputy Special Agents in Charge; 
+(xxxv) Special Agents in Charge;
 
-(xxxvii) Associate Special Agents in Charge; 
+(xxxvi) Deputy Special Agents in Charge;
 
-(xxxviii) Assistant Special Agents in Charge; 
+(xxxvii) Associate Special Agents in Charge;
 
-(xxxix) Field Office Directors; 
+(xxxviii) Assistant Special Agents in Charge;
 
-(xl) Deputy Field Office Directors; 
+(xxxix) Field Office Directors;
 
-(xli) District Field Officers; 
+(xl) Deputy Field Office Directors;
 
-(xlii) Supervisory immigration services officers; 
+(xli) District Field Officers;
 
-(xliii) Supervisory immigration officers; 
+(xlii) Supervisory immigration services officers;
 
-(xliv) Supervisory asylum officers; 
+(xliii) Supervisory immigration officers;
 
-(xlv) Supervisory special agents; 
+(xliv) Supervisory asylum officers;
 
-(xlvi) Director of investigations; 
+(xlv) Supervisory special agents;
 
-(xlvii) Directors or officers in charge of detention facilities; 
+(xlvi) Director of investigations;
 
-(xlviii) Directors of field operations; 
+(xlvii) Directors or officers in charge of detention facilities;
 
-(xlix) Deputy or assistant directors of field operations; 
+(xlviii) Directors of field operations;
 
-(l) Unit Chief, Law Enforcement Support Center; 
+(xlix) Deputy or assistant directors of field operations;
 
-(li) Section Chief, Law Enforcement Support Center; 
+(l) Unit Chief, Law Enforcement Support Center;
 
-(lii) Immigration Enforcement Agents; or 
+(li) Section Chief, Law Enforcement Support Center;
 
-(liii) Other duly authorized officers or employees of the Department of Homeland Security or the United States who are delegated the authority as provided in 8 CFR 2.1 to issue warrants of arrest, and who have successfully completed any required immigration law enforcement training. 
+(lii) Immigration Enforcement Agents; or
 
-(3) *Service of warrant of arrests for immigration violations.* The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the power pursuant to section 287(a) of the Act to execute warrants of arrest for administrative immigration violations issued under section 236 of the Act or to execute warrants of criminal arrest issued under the authority of the United States: 
+(liii) Other duly authorized officers or employees of the Department of Homeland Security or the United States who are delegated the authority as provided in 8 CFR 2.1 to issue warrants of arrest, and who have successfully completed any required immigration law enforcement training.
 
-(i) Border patrol agents; 
+(3) *Service of warrant of arrests for immigration violations.* The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the power pursuant to section 287(a) of the Act to execute warrants of arrest for administrative immigration violations issued under section 236 of the Act or to execute warrants of criminal arrest issued under the authority of the United States:
 
-(ii) Air and marine agents; 
+(i) Border patrol agents;
 
-(iii) Special agents; 
+(ii) Air and marine agents;
 
-(iv) Deportation officers; 
+(iii) Special agents;
 
-(v) Detention enforcement officers or immigration enforcement agents (warrants of arrest for administrative immigration violations only); 
+(iv) Deportation officers;
 
-(vi) CBP officers; 
+(v) Detention enforcement officers or immigration enforcement agents (warrants of arrest for administrative immigration violations only);
 
-(vii) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and 
+(vi) CBP officers;
 
-(viii) Immigration officers who need the authority to execute arrest warrants for immigration violations under section 287(a) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP or the Assistant Secretary/Director of ICE. 
+(vii) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and
 
-(4) *Service of warrant of arrests for non-immigration violations.* The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the power to execute warrants of criminal arrest for non-immigration violations issued under the authority of the United States: 
+(viii) Immigration officers who need the authority to execute arrest warrants for immigration violations under section 287(a) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP or the Assistant Secretary/Director of ICE.
 
-(i) Border patrol agents; 
+(4) *Service of warrant of arrests for non-immigration violations.* The following immigration officers who have successfully completed basic immigration law enforcement training are hereby authorized and designated to exercise the power to execute warrants of criminal arrest for non-immigration violations issued under the authority of the United States:
 
-(ii) Air and marine agents; 
+(i) Border patrol agents;
 
-(iii) CBP officers 
+(ii) Air and marine agents;
 
-(iv) Special agents; 
+(iii) CBP officers
 
-(v) Deportation officers; 
+(iv) Special agents;
 
-(vi) Immigration enforcement agents; 
+(v) Deportation officers;
 
-(vii) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and 
+(vi) Immigration enforcement agents;
 
-(viii) Immigration officers who need the authority to execute warrants of arrest for non-immigration violations under section 287(a) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP or the Assistant Secretary/Director of ICE. 
+(vii) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and
 
-(f) *Power and authority to carry firearms.* The following immigration officers who have successfully completed basic immigration enforcement training are hereby authorized and designated to exercise the power conferred by section 287(a) of the Act to carry firearms provided that they are individually qualified by training and experience to handle and safely operate the firearms they are permitted to carry, maintain proficiency in the use of such firearms, and adhere to the provisions of the enforcement standard governing the use of force in 8 CFR 287.8(a): 
+(viii) Immigration officers who need the authority to execute warrants of arrest for non-immigration violations under section 287(a) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP or the Assistant Secretary/Director of ICE.
 
-(1) Border patrol agents; 
+(f) *Power and authority to carry firearms.* The following immigration officers who have successfully completed basic immigration enforcement training are hereby authorized and designated to exercise the power conferred by section 287(a) of the Act to carry firearms provided that they are individually qualified by training and experience to handle and safely operate the firearms they are permitted to carry, maintain proficiency in the use of such firearms, and adhere to the provisions of the enforcement standard governing the use of force in 8 CFR 287.8(a):
 
-(2) Air and marine agents; 
+(1) Border patrol agents;
 
-(3) Special agents; 
+(2) Air and marine agents;
 
-(4) Deportation officers; 
+(3) Special agents;
 
-(5) Detention enforcement officers or immigration enforcement agents; 
+(4) Deportation officers;
 
-(6) CBP officers; 
+(5) Detention enforcement officers or immigration enforcement agents;
 
-(7) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and 
+(6) CBP officers;
 
-(8) Immigration officers who need the authority to carry firearms under section 287(a) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP or the Assistant Secretary/Director of ICE. 
+(7) Supervisory and managerial personnel who are responsible for supervising the activities of those officers listed in this paragraph; and
+
+(8) Immigration officers who need the authority to carry firearms under section 287(a) of the Act in order to effectively accomplish their individual missions and who are designated, individually or as a class, by the Commissioner of CBP or the Assistant Secretary/Director of ICE.
 
 \[68 FR 35277, June 13, 2003, as amended at 70 FR 67089, Nov. 4, 2005; 76 FR 53797, Aug. 29, 2011; 81 FR 62356, Sept. 9, 2016\]

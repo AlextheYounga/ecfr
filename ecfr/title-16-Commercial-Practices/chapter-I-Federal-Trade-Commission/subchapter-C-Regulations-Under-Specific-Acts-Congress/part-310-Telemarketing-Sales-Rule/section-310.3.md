@@ -1,10 +1,10 @@
 ##### § 310.3 Deceptive telemarketing acts or practices.
 
-(a) *Prohibited deceptive telemarketing acts or practices.* It is a deceptive telemarketing act or practice and a violation of this part for any seller or telemarketer to engage in the following conduct:
+(a) *Prohibited deceptive telemarketing acts or practices.* It is a deceptive telemarketing act or practice and a violation of this part for any seller or telemarketer to engage in the following conduct:1
 
 (1) Before a customer consents to pay 1 for goods or services offered, failing to disclose truthfully, in a clear and conspicuous manner, the following material information:
 
-1 When a seller or telemarketer uses, or directs a customer to use, a courier to transport payment, the seller or telemarketer must make the disclosures required by § 310.3(a)(1) before sending a courier to pick up payment or authorization for payment, or directing a customer to have a courier pick up payment or authorization for payment. In the case of debt relief services, the seller or telemarketer must make the disclosures required by § 310.3(a)(1) before the consumer enrolls in an offered program.
+1 When a seller or telemarketer uses, or directs a customer to use, a courier to transport payment, the seller or telemarketer must make the disclosures required by § 310.3(a)(1) before sending a courier to pick up payment or authorization for payment, or directing a customer to have a courier pick up payment or authorization for payment. In the case of debt relief services, the seller or telemarketer must make the disclosures required by § 310.3(a)(1) before the consumer enrolls in an offered program.*et seq.,*
 
 (i) The total costs to purchase, receive, or use, and the quantity of, any goods or services that are the subject of the sales offer; 2
 

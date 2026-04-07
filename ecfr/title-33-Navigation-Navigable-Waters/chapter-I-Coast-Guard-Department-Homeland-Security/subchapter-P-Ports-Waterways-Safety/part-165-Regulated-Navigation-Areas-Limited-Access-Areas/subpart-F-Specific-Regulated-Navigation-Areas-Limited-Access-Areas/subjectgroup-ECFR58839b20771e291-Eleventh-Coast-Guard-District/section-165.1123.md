@@ -1,18 +1,18 @@
 ##### § 165.1123 Southern California Annual Firework Events for the San Diego Captain of the Port Zone.
 
-(a) *General.* Safety zones are established for the events listed in Table 1 of this section. Further information on exact dates, times, and other details concerning the exact geographical description of the areas are published by the Eleventh Coast Guard District in the Local Notice to Mariners at least 20 days prior to the event. 
+(a) *General.* Safety zones are established for the events listed in Table 1 of this section. Further information on exact dates, times, and other details concerning the exact geographical description of the areas are published by the Eleventh Coast Guard District in the Local Notice to Mariners at least 20 days prior to the event.
 
-(b) *Regulations.* All persons and vessels not registered with the sponsor as participants or as official patrol vessels are considered spectators. The “official patrol” consists of any Coast Guard; other Federal, state, or local law enforcement; and any public or sponsor-provided vessels assigned or approved by the cognizant Coast Guard Sector Commander to patrol each event. 
+(b) *Regulations.* All persons and vessels not registered with the sponsor as participants or as official patrol vessels are considered spectators. The “official patrol” consists of any Coast Guard; other Federal, state, or local law enforcement; and any public or sponsor-provided vessels assigned or approved by the cognizant Coast Guard Sector Commander to patrol each event.
 
-(1) No spectator shall anchor, block, loiter, nor impede the through transit of participants or official patrol vessels in the safety zone during all applicable effective dates and times unless cleared to do so by or through an official patrol vessel. 
+(1) No spectator shall anchor, block, loiter, nor impede the through transit of participants or official patrol vessels in the safety zone during all applicable effective dates and times unless cleared to do so by or through an official patrol vessel.
 
-(2) When hailed and/or signaled by an official patrol vessel, any spectator located within a safety zone during all applicable effective dates and times shall come to an immediate stop. 
+(2) When hailed and/or signaled by an official patrol vessel, any spectator located within a safety zone during all applicable effective dates and times shall come to an immediate stop.
 
-(3) The Patrol Commander (PATCOM) is empowered to forbid and control the movement of all vessels in the safety zone. The Patrol Commander shall be designated by the cognizant Coast Guard Sector Commander; will be a U.S. Coast Guard commissioned officer, warrant officer, or petty officer to act as the Sector Commander's official representative. As the Sector Commander's representative, the PATCOM may terminate the event any time it is deemed necessary for the protection of life and property. PATCOM may be reached on VHF-FM Channel 13 (156.65MHz) or 16 (156.8MHz) when required, by the call sign “PATCOM”. 
+(3) The Patrol Commander (PATCOM) is empowered to forbid and control the movement of all vessels in the safety zone. The Patrol Commander shall be designated by the cognizant Coast Guard Sector Commander; will be a U.S. Coast Guard commissioned officer, warrant officer, or petty officer to act as the Sector Commander's official representative. As the Sector Commander's representative, the PATCOM may terminate the event any time it is deemed necessary for the protection of life and property. PATCOM may be reached on VHF-FM Channel 13 (156.65MHz) or 16 (156.8MHz) when required, by the call sign “PATCOM”.
 
-(4) The Patrol Commander may, upon request, allow the transit of vessels through the safety zone when it is safe to do so. 
+(4) The Patrol Commander may, upon request, allow the transit of vessels through the safety zone when it is safe to do so.
 
-(5) The Coast Guard may be assisted by other Federal, state, or local agencies. 
+(5) The Coast Guard may be assisted by other Federal, state, or local agencies.
 
 Table 1 to § 165.1123
 

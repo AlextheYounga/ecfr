@@ -1,6 +1,6 @@
 ##### § 310.6 Exemptions.
 
-(a) Solicitations to induce charitable contributions via outbound telephone calls are not covered by § 310.4(b)(1)(iii)(B) of this part.
+(a) Solicitations to induce charitable contributions via outbound telephone calls are not covered by § 310.4(b)(1)(iii)(B) of this part.*provided,*
 
 (b) The following acts or practices are exempt from this part:
 
