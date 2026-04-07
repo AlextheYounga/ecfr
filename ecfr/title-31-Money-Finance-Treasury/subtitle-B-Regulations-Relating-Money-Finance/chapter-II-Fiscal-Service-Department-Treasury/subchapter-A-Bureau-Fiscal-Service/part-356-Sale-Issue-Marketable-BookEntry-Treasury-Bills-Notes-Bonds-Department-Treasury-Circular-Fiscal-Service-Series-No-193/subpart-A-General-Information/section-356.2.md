@@ -130,8 +130,6 @@
 
 *TINT* means an interest component from a stripped security.
 
-*TreasuryDirect* means the book-entry, online system maintained by Treasury for purchasing and holding marketable Treasury securities, nonmarketable savings bonds, and certificates of indebtedness directly with Treasury. (See 31 CFR part 363.)
-
 *We* (or “us”) means the Secretary of the Treasury and his or her delegates, including the Department of the Treasury, Bureau of the Fiscal Service, and their representatives. The term also includes Federal Reserve Banks acting as fiscal agents of the United States.
 
 *Weighted-average* means the average of the yields, discount rates, or discount margins at which we award securities to competitive bidders in multiple-price auctions weighted by the par amount of securities allotted at each yield, discount rate, or discount margin.
