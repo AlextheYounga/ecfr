@@ -58,49 +58,49 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (3) *Visa Waiver Pilot Program.* Special requirements for admission and maintenance of status for visitors admitted to the United States under the Visa Waiver Pilot Program are set forth in section 217 of the Act and part 217 of this chapter.
 
-(4) *Admission of aliens pursuant to the North American Free Trade Agreement (NAFTA).* A citizen of Canada or Mexico seeking temporary entry for purposes set forth in paragraph (b)(4)(i) of this section, who otherwise meets existing requirements under section 101(a)(15)(B) of the Act, including but not limited to requirements regarding the source of remuneration, shall be admitted upon presentation of proof of such citizenship in the case of Canadian applicants, and valid, unexpired entry documents such as a passport and visa, or a passport and BCC in the case of Mexican applicants, a description of the purpose for which the alien is seeking admission, and evidence demonstrating that he or she is engaged in one of the occupations or professions set forth in paragraph (b)(4)(i) of this section. Existing requirements, with respect to Canada, are those requirements which were in effect at the time of entry into force of the Canada/U.S. Free Trade Agreement and, with respect to Mexico, are those requirements which were in effect at the time of entry into force of the NAFTA. Additionally, nothing shall preclude the admission of a citizen of Mexico or Canada who meets the requirements of paragraph (b)(4)(ii) of this section.
+(4) *Admission of aliens pursuant to the Agreement Between the United States of America, the United Mexican States, and Canada (USMCA).* A citizen of Canada or Mexico seeking temporary entry for purposes set forth in paragraph (b)(4)(i) of this section, who otherwise meets the requirements under section 101(a)(15)(B) of the Act, including but not limited to requirements regarding the source of remuneration, shall be admitted upon presentation of proof of such citizenship in the case of Canadian applicants, and valid, unexpired entry documents such as a passport and visa, or a passport and BCC in the case of Mexican applicants, a description of the purpose for which the alien is seeking admission, and evidence demonstrating that he or she is engaged in one of the occupations or professions set forth in paragraph (b)(4)(i) of this section.
 
-(i) *Occupations and professions set forth in Appendix 1603.A.1 to Annex 1603 of the NAFTA* - (A) *Research and design.* Technical scientific and statistical researchers conducting independent research or research for an enterprise located in the territory of another Party.
+(i) *Occupations and professions set forth in Section B of Appendix 1 of Chapter 16 of the USMCA* - (A) *Research and design.* Technical, scientific and statistical researchers conducting independent research or research for an enterprise located in the territory of another Party.
 
-(B) *Growth, manufacture and production* (*1*) Harvester owner supervising a harvesting crew admitted under applicable law. (Applies only to harvesting of agricultural crops: Grain, fiber, fruit and vegetables.)
+(B) *Growth, manufacture, and production.* (*1*) Harvester owner supervising a harvesting crew admitted under applicable law. (Applies only to harvesting of agricultural crops: Grain, fiber, fruit and vegetables.)
 
 (*2*) Purchasing and production management personnel conducting commercial transactions for an enterprise located in the territory of another Party.
 
-(C) *Marketing.* (*1*) Market researchers and analyst conducting independent research or analysis, or research or analysis for an enterprise located in the territory of another Party.
+(C) *Marketing.* (*1*) Market researchers and analysts conducting independent research or analysis, or research or analysis for an enterprise located in the territory of another Party.
 
 (*2*) Trade fair and promotional personnel attending a trade convention.
 
-(D) *Sales.* (*1*) Sales representatives and agents taking orders or negotiating contracts for goods or services for an enterprise located in the territory of another Party but not delivering goods or providing services.
+(D) *Sales.* (*1*) Sales representatives and agents taking orders or negotiating contracts for goods or services for an enterprise located in the territory of another Party but not delivering goods or supplying services.
 
 (*2*) Buyers purchasing for an enterprise located in the territory of another Party.
 
-(E) *Distribution.* (*1*) Transportation operators transporting goods or passengers to the United States from the territory of another Party or loading and transporting goods or passengers from the United States to the territory of another Party, with no unloading in the United States, to the territory of another Party. (These operators may make deliveries in the United States if all goods or passengers to be delivered were loaded in the territory of another Party. Furthermore, they may load from locations in the United States if all goods or passengers to be loaded will be delivered in the territory of another Party. Purely domestic service or solicitation, in competition with the United States operators, is not permitted.)
+(E) *Distribution.* (*1*) Transportation operators transporting goods or passengers to the United States from the territory of another Party or loading and transporting goods or passengers from the United States, with no unloading in the United States, to the territory of another Party. (These operators may make deliveries in the United States if all goods or passengers to be delivered were loaded in the territory of another Party. Furthermore, they may load from locations in the United States if all goods or passengers to be loaded will be delivered in the territory of another Party. Purely domestic service or solicitation, in competition with the United States operators, is not permitted.)
 
 (*2*) Customs brokers performing brokerage duties associated with the export of goods from the United States to or through Canada.
 
-(F) *After-sales service.* Installers, repair and maintenance personnel, and supervisors, possessing specialized knowledge essential to the seller's contractual obligation, performing services or training workers to perform services, pursuant to a warranty or other service contract incidental to the sale of commercial or industrial equipment or machinery, including computer software, purchased from an enterprise located outside the United States, during the life of the warranty or service agreement. (For the purposes of this provision, the commercial or industrial equipment or machinery, including computer software, must have been manufactured outside the United States.)
+(F) *After-sales services.* Installers, repair and maintenance personnel, and supervisors, possessing specialized knowledge essential to the seller's contractual obligation, performing services or training workers to perform services, pursuant to a warranty or other service contract incidental to the sale of commercial or industrial equipment or machinery, including computer software, purchased from an enterprise located outside the United States, during the life of the warranty or service agreement. (For the purposes of this provision, the commercial or industrial equipment or machinery, including computer software, must have been manufactured outside the United States.)
 
-(G) *General service.* (*1*) Professionals engaging in a business activity at a professional level in a profession set out in Appendix 1603.D.1 to Annex 1603 of the NAFTA, but receiving no salary or other remuneration from a United States source (other than an expense allowance or other reimbursement for expenses incidental to the temporary stay) and otherwise satisfying the requirements of Section A to Annex 1063 of the NAFTA.
+(G) *General service.* Professionals engaging in a business activity at a professional level in a profession set out in Appendix 2 to Annex 16-A of Chapter 16 of the USMCA, but receiving no salary or other remuneration from a United States source (other than an expense allowance or other reimbursement for expenses incidental to the temporary stay) and otherwise satisfying the requirements of Section A to Annex 16-A of the USMCA.
 
-(*2*) Management and supervisory personnel engaging in commercial transactions for an enterprise located in the territory of another Party.
+(H) *Commercial transactions.* (*1*) Management and supervisory personnel engaging in commercial transactions for an enterprise located in the territory of another Party.
 
-(*3*) Financial services personnel (insurers, bankers or investment brokers) engaging in commercial transactions for an enterprise located in the territory of another Party.
+(*2*) Financial services personnel (insurers, bankers or investment brokers) engaging in commercial transactions for an enterprise located in the territory of another Party.
 
-(*4*) Public relations and advertising personnel consulting with business associates, or attending or participating in conventions.
+(I) *Public relations and advertising.* Public relations and advertising personnel consulting with business associates, or attending or participating in conventions.
 
-(*5*) Tourism personnel (tour and travel agents, tour guides or tour operators) attending or participating in conventions or conducting a tour that has begun in the territory of another Party. (The tour may begin in the United States; but must terminate in foreign territory, and a significant portion of the tour must be conducted in foreign territory. In such a case, an operator may enter the United States with an empty conveyance and a tour guide may enter on his or her own and join the conveyance.)
+(J) *Tourism.* Tourism personnel (tour and travel agents, tour guides or tour operators) attending or participating in conventions or conducting a tour that has begun in the territory of another Party. (The tour may begin in the United States; but must terminate in foreign territory, and a significant portion of the tour must be conducted in foreign territory. In such a case, an operator may enter the United States with an empty conveyance and a tour guide may enter on his or her own and join the conveyance.)
 
-(*6*) Tour bus operators entering the United States:
+(K) *Tour bus operation.* Tour bus operators entering the United States:
 
-(*i*) With a group of passengers on a bus tour that has begun in, and will return to, the territory of another Party.
+(*1*) With a group of passengers on a bus tour that has begun in, and will return to, the territory of another Party.
 
-(*ii*) To meet a group of passengers on a bus tour that will end, and the predominant portion of which will take place, in the territory of another Party.
+(*2*) To meet a group of passengers on a bus tour that will end, and the predominant portion of which will take place, in the territory of another Party.
 
-(*iii*) With a group of passengers on a bus tour to be unloaded in the United States and returning with no passengers or reloading with the group for transportation to the territory of another Party.
+(*3*) With a group of passengers on a bus tour to be unloaded in the United States and returning with no passengers or reloading with the group for transportation to the territory of another Party.
 
-(*7*) Translators or interpreters performing services as employees of an enterprise located in the territory of another Party.
+(L) *Translation.* Translators or interpreters performing services as employees of an enterprise located in the territory of another Party.
 
-(ii) Occupations and professions not listed in Appendix 1603.A.1 to Annex 1603 of the NAFTA. Nothing in this paragraph shall preclude a business person engaged in an occupation or profession other than those listed in Appendix 1603.A.1 to Annex 1603 of the NAFTA from temporary entry under section 101(a)(15)(B) of the Act, if such person otherwise meets the existing requirements for admission as prescribed by the Attorney General.
+(ii) *Occupations and professions not listed in Section B of Appendix 1 of Chapter 16 of the USMCA.* Nothing in paragraph (b)(4) of this section shall preclude a business person engaged in an occupation or profession other than those listed in Section B of Appendix 1 of Chapter 16 of the USMCA from temporary entry under section 101(a)(15)(B) of the Act, if such person otherwise meets the requirements for admission as prescribed by the Attorney General.
 
 (5) *Construction workers not admissible.* Aliens seeking to enter the country to perform building or construction work, whether on-site or in-plant, are not eligible for classification or admission as B-1 nonimmigrants under section 101(a)(15)(B) of the Act. However, alien nonimmigrants otherwise qualified as B-1 nonimmigrants may be issued visas and may enter for the purpose of supervision or training of others engaged in building or construction work, but not for the purpose of actually performing any such building or construction work themselves.
 
@@ -262,7 +262,7 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (B) Be approved for the period of admission authorized in paragraph (e)(20) of this section.
 
-(22) *Denial of treaty trader or treaty investor status to citizens of Canada or Mexico in the case of certain labor disputes.* (i) A citizen of Canada or Mexico may be denied E treaty trader or treaty investor status as described in section 101(a)(15)(E) of the Act and section B of Annex 1603 of the NAFTA if:
+(22) *Denial of treaty trader or treaty investor status to citizens of Canada or Mexico in the case of certain labor disputes.* (i) A citizen of Canada or Mexico may be denied E treaty trader or treaty investor status as described in section 101(a)(15)(E) of the Act and Section B of Annex 16-A of Chapter 16 of the USMCA if:
 
 (A) The Secretary of Labor certifies to or otherwise informs the Commissioner that a strike or other labor dispute involving a work stoppage of workers in the alien's occupational classification is in progress at the place where the alien is or intends to be employed; and
 
@@ -2194,7 +2194,7 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (vi) An application for extension of stay filed by the alien, or by the L-2 spouse or child of such alien.
 
-(17) *Filing of individual petitions and certifications under blanket petitions for citizens of Canada under the North American Free Trade Agreement (NAFTA)* - (i) *Individual petitions.* Except as provided in paragraph (1)(2)(ii) of this section (filing of blanket petitions), a United States or foreign employer seeking to classify a citizen of Canada as an intracompany transferee may file an individual petition in duplicate on the form prescribed by USCIS in conjunction with an application for admission of the citizen of Canada. Such filing may be made with an immigration officer at a Class A port of entry located on the United States-Canada land border or at a United States pre-clearance/pre-flight station in Canada. The petitioning employer need not appear, but the form prescribed by USCIS must bear the authorized signature of the petitioner.
+(17) *Filing of individual petitions and certifications under blanket petitions for citizens of Canada under the Agreement Between the United States of America, the United Mexican States, and Canada (USMCA)* - (i) *Individual petitions.* Except as provided in paragraph (1)(2)(ii) of this section (filing of blanket petitions), a United States or foreign employer seeking to classify a citizen of Canada as an intracompany transferee may file an individual petition in duplicate on the form prescribed by USCIS in conjunction with an application for admission of the citizen of Canada. Such filing may be made with an immigration officer at a Class A port of entry located on the United States-Canada land border or at a United States pre-clearance/pre-flight station in Canada. The petitioning employer need not appear, but the form prescribed by USCIS must bear the authorized signature of the petitioner.
 
 (ii) *Certification of eligibility for intracompany transferee under the blanket petition.* An immigration officer at a location identified in paragraph (1)(17)(i) of this section may determine eligibility of individual citizens of Canada seeking L classification under approved blanket petitions. At these locations, such citizens of Canada shall present the original and two copies of Form I-129S, Intracompany Transferee Certificate of Eligibility, prepared by the approved organization, as well as three copies of Form I-797, Notice of Approval of Nonimmigrant Visa Petition.
 

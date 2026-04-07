@@ -1,12 +1,14 @@
 ##### § 493.941 Hematology (including routine hematology and coagulation).
 
+Link to an amendment published at 87 FR 41241, July 11, 2022.
+
 (a) *Program content and frequency of challenge.* To be approved for proficiency testing for hematology, a program must provide a minimum of five samples per testing event. There must be at least three testing events at approximately equal intervals per year. The annual program must provide samples that cover the full range of values that would be expected in patient specimens. The samples may be provided through mailed shipments or, at HHS' option, may be provided to HHS and or its designee for on-site testing.
 
 (b) *Challenges per testing event.* The minimum number of challenges per testing event a program must provide for each analyte or test procedure is five.
 
 Analyte or Test Procedure Cell identification or white blood cell differential Erythrocyte count Hematocrit (excluding spun microhematocrit) Hemoglobin Leukocyte count Platelet count Fibrinogen Partial thromboplastin time Prothrombin time
 
-(1) An approved program for cell identification may vary over time. The types of cells that might be included in an approved program over time are -
+(1) An approved program for cell identification may vary over time. The types of cells that might be included in an approved program over time are—
 
 Neutrophilic granulocytes Eosinophilic granulocytes Basophilic granulocytes Lymphocytes Monocytes Major red and white blood cell abnormalities Immature red and white blood cells
 
