@@ -280,7 +280,7 @@ Table 6 to Paragraph (d)(2): Risk Multipliers
 |                                                                | None or low                                                      | 1.3                   |
 | Streamlined Refi                                               | No                                                               | 1.0                   |
 |                                                                | Yes                                                              | 1.0                   |
-| Refreshed Credit Score for Modified RPLs and Non-modified RPLs | Refreshed credit score <620   620 <= refreshed credit score <640 | 1.6   1.3             |
+| Refreshed Credit Score for Modified RPLs and Non-modified RPLs | Refreshed credit score <620   620 <= refreshed credit score <640 |                       |
 |                                                                | 640 <= refreshed credit score <660                               |                       |
 |                                                                | 660 <= refreshed credit score <700                               |                       |
 |                                                                | 700 <= refreshed credit score <720                               |                       |
