@@ -1,723 +1,733 @@
 ##### § 1.6045-0 Table of contents.
 
-Link to an amendment published at 89 FR 106958, Dec. 30, 2024.
-
-In order to facilitate the use of § 1.6045-1, this section lists the paragraphs contained in § 1.6045-1.
+In order to facilitate the use of § 1.6045-1, this section lists the paragraphs contained in § 1.6045-1. 
 
 § 1.6045-1 Returns of information of brokers and barter exchanges.
 
-(a) Definitions.
+(a) Definitions. 
 
-(1) Broker.
+(1) Broker. 
 
-(2) Customer.
+(2) Customer. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Special rules for payment transactions involving digital assets.
+(ii) Special rules for payment transactions involving digital assets. 
 
-(3) Security.
+(3) Security. 
 
-(4) Barter exchange.
+(4) Barter exchange. 
 
-(5) Commodity.
+(5) Commodity. 
 
-(6) Regulated futures contract.
+(6) Regulated futures contract. 
 
-(7) Forward contract.
+(7) Forward contract. 
 
-(8) Closing transaction.
+(8) Closing transaction. 
 
-(9) Sale.
+(9) Sale. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Sales with respect to digital assets.
+(ii) Sales with respect to digital assets. 
 
-(A) In general.
+(A) In general. 
 
-(B) Dispositions of digital assets for certain property.
+(B) Dispositions of digital assets for certain property. 
 
-(C) Dispositions of digital assets for certain services.
+(C) Dispositions of digital assets for certain services. 
 
-(D) Special rule for sales effected by processors of digital asset payments.
+(D) Special rule for sales effected by processors of digital asset payments. 
 
-(10) Effect.
+(10) Effect. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Actions relating to certain options and forward contracts.
+(ii) Actions relating to certain options and forward contracts. 
 
-(11) Foreign currency.
+(11) Foreign currency. 
 
-(12) Cash.
+(12) Cash. 
 
-(13) Person.
+(13) Person. 
 
-(14) Specified security.
+(14) Specified security. 
 
-(15) Covered security.
+(15) Covered security. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Acquired in an account.
+(ii) Acquired in an account. 
 
-(iii) Corporate actions and other events.
+(iii) Corporate actions and other events. 
 
-(iv) Exceptions.
+(iv) Exceptions. 
 
-(16) Noncovered security.
+(16) Noncovered security. 
 
-(17) Debt instrument, bond, debt obligation, and obligation.
+(17) Debt instrument, bond, debt obligation, and obligation. 
 
-(18) Securities futures contract.
+(18) Securities futures contract. 
 
-(19) Digital asset.
+(19) Digital asset. 
 
-(i) In general.
+(i) In general. 
 
-(ii) No inference.
+(ii) No inference. 
 
-(20) Digital asset address.
+(20) Digital asset address. 
 
-(21) Digital asset middleman.
+(21) Digital asset middleman. 
 
-(i) In general.
+(i) Effectuating service. 
 
-(ii) \[Reserved\]
+(ii) Position to know. 
 
-(iii) Facilitative service.
+(iii) Trading front-end service and other effectuating services. 
 
-(A) \[Reserved\]
+(A) Trading front-end service. 
 
-(B) Special rule involving sales of digital assets under paragraphs (a)(9)(ii)(B) through (D) of this section.
+(*1*) In general. 
 
-(22) Processor of digital asset payments.
+(*2*) Location of digital assets received in an exchange and indirect transmission of orders. 
 
-(23) Stored-value card.
+(B) Other effectuating services. 
 
-(24) Transaction identification.
+(C) Excluded activities. 
 
-(25) Wallet, hosted wallet, unhosted wallet, and held in a wallet or account.
+(*1*) Validation services. 
 
-(i) Wallet.
+(*2*) Licensing of software or selling of hardware. 
 
-(ii) Hosted wallet.
+(D) Digital asset trading protocol. 
 
-(iii) Unhosted wallet.
+(22) Processor of digital asset payments. 
 
-(iv) Held in a wallet or account.
+(23) Stored-value card. 
 
-(b) Examples.
+(24) Transaction identification. 
 
-(c) Reporting by brokers.
+(25) Wallet, hosted wallet, unhosted wallet, and held in a wallet or account. 
 
-(1) Requirement of reporting.
+(i) Wallet. 
 
-(2) Sales required to be reported.
+(ii) Hosted wallet. 
 
-(3) Exceptions.
+(iii) Unhosted wallet. 
 
-(i) Sales effected for exempt recipients.
+(iv) Held in a wallet or account. 
 
-(A) In general.
+(b) Examples. 
 
-(B) Exempt recipient defined.
+(c) Reporting by brokers. 
 
-(C) Exemption certificate.
+(1) Requirement of reporting. 
 
-(*1*) In general.
+(2) Sales required to be reported. 
 
-(*2*) Limitation for corporate customers.
+(3) Exceptions. 
 
-(*3*) Limitation for U.S. digital asset brokers.
+(i) Sales effected for exempt recipients. 
 
-(ii) Excepted sales.
+(A) In general. 
 
-(iii) Multiple brokers.
+(B) Exempt recipient defined. 
 
-(A) In general.
+(C) Exemption certificate. 
 
-(B) Special rule for sales of digital assets.
+(*1*) In general. 
 
-(iv) Cash on delivery transactions.
+(*2*) Limitation for corporate customers. 
 
-(v) Fiduciaries and partnerships.
+(*3*) Limitation for U.S. digital asset brokers. 
 
-(vi) Money market funds.
+(ii) Excepted sales. 
 
-(A) In general.
+(iii) Multiple brokers. 
 
-(B) Effective/applicability date.
+(A) In general. 
 
-(vii) Obligor payments on certain obligations.
+(B) Special rule for sales of digital assets. 
 
-(viii) Foreign currency.
+(iv) Cash on delivery transactions. 
 
-(ix) Fractional share.
+(v) Fiduciaries and partnerships. 
 
-(x) Certain retirements.
+(vi) Money market funds. 
 
-(xi) Short sales.
+(A) In general. 
 
-(A) In general.
+(B) Effective/applicability date. 
 
-(B) Short sale closed by delivery of a noncovered security.
+(vii) Obligor payments on certain obligations. 
 
-(C) Short sale obligation transferred to another account.
+(viii) Foreign currency. 
 
-(xii) Cross reference.
+(ix) Fractional share. 
 
-(xiii) Short-term obligations issued on or after January 1, 2014.
+(x) Certain retirements. 
 
-(xiv) Certain redemptions.
+(xi) Short sales. 
 
-(4) Examples.
+(A) In general. 
 
-(5) Form of reporting for regulated futures contracts.
+(B) Short sale closed by delivery of a noncovered security. 
 
-(i) In general.
+(C) Short sale obligation transferred to another account. 
 
-(ii) Determination of profit or loss from foreign currency contracts.
+(xii) Cross reference. 
 
-(iii) Examples.
+(xiii) Short-term obligations issued on or after January 1, 2014. 
 
-(6) Reporting periods and filing groups.
+(xiv) Certain redemptions. 
 
-(i) Reporting period.
+(4) Examples. 
 
-(A) In general.
+(5) Form of reporting for regulated futures contracts. 
 
-(B) Election.
+(i) In general. 
 
-(ii) Filing group.
+(ii) Determination of profit or loss from foreign currency contracts. 
 
-(A) In general.
+(iii) Examples. 
 
-(B) Election.
+(6) Reporting periods and filing groups. 
 
-(iii) Example.
+(i) Reporting period. 
 
-(7) Exception for certain sales of agricultural commodities and commodity certificates.
+(A) In general. 
 
-(i) Agricultural commodities.
+(B) Election. 
 
-(ii) Commodity Credit Corporation certificates.
+(ii) Filing group. 
 
-(iii) Sales involving designated warehouses.
+(A) In general. 
 
-(iv) Definitions.
+(B) Election. 
 
-(A) Agricultural commodity.
+(iii) Example. 
 
-(B) Spot sale.
+(7) Exception for certain sales of agricultural commodities and commodity certificates. 
 
-(C) Forward sale.
+(i) Agricultural commodities. 
 
-(D) Designated warehouse.
+(ii) Commodity Credit Corporation certificates. 
 
-(8) Special coordination rules for reporting digital assets that are dual classification assets.
+(iii) Sales involving designated warehouses. 
 
-(i) General rule for reporting dual classification assets as digital assets.
+(iv) Definitions. 
 
-(ii) Reporting of dual classification assets that constitute contracts covered by section 1256(b) of the Code.
+(A) Agricultural commodity. 
 
-(iii) Reporting of dual classification assets cleared or settled on a limited-access regulated network.
+(B) Spot sale. 
 
-(A) General rule.
+(C) Forward sale. 
 
-(B) Limited-access regulated network.
+(D) Designated warehouse. 
 
-(iv) Reporting of dual classification assets that are interests in money market funds.
+(8) Special coordination rules for reporting digital assets that are dual classification assets. 
 
-(v) Example: Digital asset securities.
+(i) General rule for reporting dual classification assets as digital assets. 
 
-(d) Information required.
+(ii) Reporting of dual classification assets that constitute contracts covered by section 1256(b) of the Code. 
 
-(1) In general.
+(iii) Reporting of dual classification assets cleared or settled on a limited-access regulated network. 
 
-(2) Transactional reporting.
+(A) General rule. 
 
-(i) Required information.
+(B) Limited-access regulated network. 
 
-(A) General rule for sales described in paragraph (a)(9)(i) of this section.
+(iv) Reporting of dual classification assets that are interests in money market funds. 
 
-(B) Required information for digital asset transactions.
+(v) Example: Digital asset securities. 
 
-(C) Exception for certain sales effected by processors of digital asset payments.
+(d) Information required. 
 
-(D) Acquisition information for sales of certain digital assets.
+(1) In general. 
 
-(ii) Specific identification of specified securities.
+(2) Transactional reporting. 
 
-(A) In general.
+(i) Required information. 
 
-(B) Identification of digital assets sold, disposed of, or transferred.
+(A) General rule for sales described in paragraph (a)(9)(i) of this section. 
 
-(*1*) No identification of units by customer.
+(B) Required information for digital asset transactions. 
 
-(*2*) Adequate Identification of units by customer.
+(C) Exception for certain sales effected by processors of digital asset payments. 
 
-(*3*) Special rule for the identification of certain units withheld from a transaction.
+(D) Acquisition information for sales of certain digital assets. 
 
-(*4*) Customer-provided acquisition information for digital assets.
+(ii) Specific identification of specified securities. 
 
-(iii) Penalty relief for reporting information not subject to reporting.
+(A) In general. 
 
-(A) Noncovered securities.
+(B) Identification of digital assets sold, disposed of, or transferred. 
 
-(B) Gross proceeds from digital assets sold before applicability date.
+(*1*) No identification of units by customer. 
 
-(iv) Information from other parties and other accounts.
+(*2*) Adequate Identification of units by customer. 
 
-(A) Transfer and issuer statements.
+(*3*) Special rule for the identification of certain units withheld from a transaction. 
 
-(v) Failure to receive a complete transfer statement for securities.
+(*4*) Customer-provided acquisition information for digital assets. 
 
-(vi) Reporting by other parties after a sale of securities.
+(iii) Penalty relief for reporting information not subject to reporting. 
 
-(A) Transfer statements.
+(A) Noncovered securities. 
 
-(B) Issuer statements.
+(B) Gross proceeds from digital assets sold before applicability date. 
 
-(C) Exception.
+(iv) Information from other parties and other accounts. 
 
-(vii) Examples.
+(A) Transfer and issuer statements. 
 
-(3) Sales between interest payment dates.
+(v) Failure to receive a complete transfer statement for securities. 
 
-(4) Sale date.
+(vi) Reporting by other parties after a sale of securities. 
 
-(i) In general.
+(A) Transfer statements. 
 
-(ii) Special rules for digital asset sales.
+(B) Issuer statements. 
 
-(5) Gross proceeds.
+(C) Exception. 
 
-(i) In general.
+(vii) Examples. 
 
-(ii) Sales of digital assets.
+(3) Sales between interest payment dates. 
 
-(A) Determining gross proceeds.
+(4) Sale date. 
 
-(*1*) Determining fair market value.
+(i) In general. 
 
-(*2*) Consideration value not readily ascertainable.
+(ii) Special rules for digital asset sales. 
 
-(*3*) Reasonable valuation method for digital assets.
+(5) Gross proceeds. 
 
-(B) Digital asset data aggregator.
+(i) In general. 
 
-(iii) Digital asset transactions effected by processors of digital asset payments.
+(ii) Sales of digital assets. 
 
-(iv) Definition and allocation of digital asset transaction costs.
+(A) Determining gross proceeds. 
 
-(A) Definition.
+(*1*) Determining fair market value. 
 
-(B) General allocation rule.
+(*2*) Consideration value not readily ascertainable. 
 
-(C) Special rule for allocation of certain cascading digital asset transaction costs.
+(*3*) Reasonable valuation method for digital assets. 
 
-(v) Examples.
+(B) Digital asset data aggregator. 
 
-(6) Adjusted basis.
+(iii) Digital asset transactions effected by processors of digital asset payments. 
 
-(i) In general.
+(iv) Definition and allocation of digital asset transaction costs. 
 
-(ii) Initial basis.
+(A) Definition. 
 
-(A) Cost basis for specified securities acquired for cash.
+(B) General allocation rule. 
 
-(B) Basis of transferred securities.
+(C) Special rule for allocation of certain cascading digital asset transaction costs. 
 
-(*1*) In general.
+(v) Examples. 
 
-(*2*) Securities acquired by gift.
+(6) Adjusted basis. 
 
-(C) Digital assets acquired in exchange for property.
+(i) In general. 
 
-(*1*) In general.
+(ii) Initial basis. 
 
-(*2*) Allocation of digital asset transaction costs.
+(A) Cost basis for specified securities acquired for cash. 
 
-(iii) Adjustments for wash sales.
+(B) Basis of transferred securities. 
 
-(A) Securities in the same account or wallet.
+(*1*) In general. 
 
-(*1*) In general.
+(*2*) Securities acquired by gift. 
 
-(*2*) Special rules for covered securities that are also digital assets.
+(C) Digital assets acquired in exchange for property. 
 
-(B) Covered securities in different accounts or wallets.
+(*1*) In general. 
 
-(C) Effect of election under section 475(f)(1).
+(*2*) Allocation of digital asset transaction costs. 
 
-(D) Reporting at or near the time of sale.
+(iii) Adjustments for wash sales. 
 
-(iv) Certain adjustments not taken into account.
+(A) Securities in the same account or wallet. 
 
-(v) Average basis method adjustments.
+(*1*) In general. 
 
-(vi) Regulated investment company and real estate investment trust adjustments.
+(*2*) Special rules for covered securities that are also digital assets. 
 
-(vii) Treatment of de minimis errors.
+(B) Covered securities in different accounts or wallets. 
 
-(viii) Examples.
+(C) Effect of election under section 475(f)(1). 
 
-(ix) Applicability date.
+(D) Reporting at or near the time of sale. 
 
-(x) Examples.
+(iv) Certain adjustments not taken into account. 
 
-(7) Long-term or short-term gain or loss.
+(v) Average basis method adjustments. 
 
-(i) In general.
+(vi) Regulated investment company and real estate investment trust adjustments. 
 
-(ii) Adjustments for wash sales.
+(vii) Treatment of de minimis errors. 
 
-(A) Securities in the same account or wallet.
+(viii) Examples. 
 
-(*1*) In general.
+(ix) Applicability date. 
 
-(*2*) Special rules for covered securities that are also digital assets.
+(x) Examples. 
 
-(B) Covered securities in different accounts or wallets.
+(7) Long-term or short-term gain or loss. 
 
-(C) Effect of election under section 475(f)(1).
+(i) In general. 
 
-(D) Reporting at or near the time of sale.
+(ii) Adjustments for wash sales. 
 
-(iii) Constructive sale and mark-to-market adjustments.
+(A) Securities in the same account or wallet. 
 
-(iv) Regulated investment company and real estate investment trust adjustments.
+(*1*) In general. 
 
-(v) No adjustments for hedging transactions or offsetting positions.
+(*2*) Special rules for covered securities that are also digital assets. 
 
-(8) Conversion into United States dollars of amounts paid or received in foreign currency.
+(B) Covered securities in different accounts or wallets. 
 
-(i) Conversion rules.
+(C) Effect of election under section 475(f)(1). 
 
-(ii) Effect of identification under § 1.988-5(a), (b), or (c) when the taxpayer effects a sale and a hedge through the same broker.
+(D) Reporting at or near the time of sale. 
 
-(iii) Example.
+(iii) Constructive sale and mark-to-market adjustments. 
 
-(9) Coordination with the reporting rules for widely held fixed investment trusts under § 1.671-5.
+(iv) Regulated investment company and real estate investment trust adjustments. 
 
-(10) Optional reporting methods for qualifying stablecoins and specified nonfungible tokens.
+(v) No adjustments for hedging transactions or offsetting positions. 
 
-(i) Optional reporting method for qualifying stablecoins.
+(8) Conversion into United States dollars of amounts paid or received in foreign currency. 
 
-(A) In general.
+(i) Conversion rules. 
 
-(B) Aggregate reporting method for designated sales of qualifying stablecoins.
+(ii) Effect of identification under § 1.988-5(a), (b), or (c) when the taxpayer effects a sale and a hedge through the same broker. 
 
-(C) Designated sale of a qualifying stablecoin.
+(iii) Example. 
 
-(D) Examples.
+(9) Coordination with the reporting rules for widely held fixed investment trusts under § 1.671-5. 
 
-(ii) Qualifying stablecoin.
+(10) Optional reporting methods for qualifying stablecoins and specified nonfungible tokens. 
 
-(A) Designed to track certain other currencies.
+(i) Optional reporting method for qualifying stablecoins. 
 
-(B) Stabilization mechanism.
+(A) In general. 
 
-(C) Accepted as payment.
+(B) Aggregate reporting method for designated sales of qualifying stablecoins. 
 
-(D) Examples.
+(C) Designated sale of a qualifying stablecoin. 
 
-(iii) Optional reporting method for specified nonfungible tokens.
+(D) Examples. 
 
-(A) In general.
+(ii) Qualifying stablecoin. 
 
-(B) Reporting method for specified nonfungible tokens.
+(A) Designed to track certain other currencies. 
 
-(C) Examples.
+(B) Stabilization mechanism. 
 
-(iv) Specified nonfungible token.
+(C) Accepted as payment. 
 
-(A) Indivisible.
+(D) Examples. 
 
-(B) Unique.
+(iii) Optional reporting method for specified nonfungible tokens. 
 
-(C) Excluded property.
+(A) In general. 
 
-(D) Examples.
+(B) Reporting method for specified nonfungible tokens. 
 
-(v) Joint accounts.
+(C) Examples. 
 
-(11) Collection and retention of additional information with respect to the sale of a digital asset.
+(iv) Specified nonfungible token. 
 
-(e) Reporting of barter exchanges.
+(A) Indivisible. 
 
-(1) Requirement of reporting.
+(B) Unique. 
 
-(2) Exchanges required to be reported.
+(C) Excluded property. 
 
-(i) In general.
+(D) Examples. 
 
-(ii) Exemption.
+(v) Joint accounts. 
 
-(iii) Coordination rules for exchanges of digital assets made through barter exchanges.
+(11) Collection and retention of additional information with respect to the sale of a digital asset. 
 
-(f) Information required.
+(e) Reporting of barter exchanges. 
 
-(1) In general.
+(1) Requirement of reporting. 
 
-(2) Transactional reporting.
+(2) Exchanges required to be reported. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Exception for corporate member or client.
+(ii) Exemption. 
 
-(iii) Definition.
+(iii) Coordination rules for exchanges of digital assets made through barter exchanges. 
 
-(3) Exchange date.
+(f) Information required. 
 
-(4) Amount received.
+(1) In general. 
 
-(5) Meaning of terms.
+(2) Transactional reporting. 
 
-(6) Reporting period.
+(i) In general. 
 
-(g) Exempt foreign persons.
+(ii) Exception for corporate member or client. 
 
-(1) Brokers.
+(iii) Definition. 
 
-(2) Barter exchanges.
+(3) Exchange date. 
 
-(3) Applicable rules.
+(4) Amount received. 
 
-(i) Joint owners.
+(5) Meaning of terms. 
 
-(ii) Special rules for determining who the customer is.
+(6) Reporting period. 
 
-(iii) Place of effecting sale.
+(g) Exempt foreign persons. 
 
-(A) Sale outside the United States.
+(1) Brokers. 
 
-(B) Sale inside the United States.
+(2) Barter exchanges. 
 
-(iv) Special rules where the customer is a foreign intermediary or certain U.S. branches.
+(3) Applicable rules. 
 
-(4) Rules for sales of digital assets.
+(i) Joint owners. 
 
-(i) Definitions.
+(ii) Special rules for determining who the customer is. 
 
-(A) U.S. digital asset broker.
+(iii) Place of effecting sale. 
 
-(B) \[Reserved\]
+(A) Sale outside the United States. 
 
-(ii) Rules for U.S. digital asset brokers.
+(B) Sale inside the United States. 
 
-(A) Place of effecting sale.
+(iv) Special rules where the customer is a foreign intermediary or certain U.S. branches. 
 
-(B) Determination of foreign status.
+(4) Rules for sales of digital assets. 
 
-(iii) Rules for CFC digital asset brokers not conducting activities as money services businesses.
+(i) Definitions. 
 
-(iv) Rules for non-U.S. digital asset brokers not conducting activities as money services businesses.
+(A) U.S. digital asset broker. 
 
-(A) \[Reserved\]
+(B) \[Reserved\] 
 
-(B) Sale treated as effected at an office inside the United States.
+(ii) Rules for U.S. digital asset brokers. 
 
-(*1*) \[Reserved\]
+(A) Place of effecting sale. 
 
-(*2*) U.S. indicia.
+(B) Determination of foreign status. 
 
-(C) Consequences of treatment as sale effected at an office inside the United States.
+(iii) Rules for CFC digital asset brokers not conducting activities as money services businesses. 
 
-(v) \[Reserved\]
+(iv) Rules for non-U.S. digital asset brokers not conducting activities as money services businesses. 
 
-(vi) Rules applicable to brokers that obtain or are required to obtain documentation for a customer and presumption rules.
+(A) \[Reserved\] 
 
-(A) In general.
+(B) Sale treated as effected at an office inside the United States. 
 
-(*1*) Documentation of foreign status.
+(*1*) \[Reserved\] 
 
-(*2*) Presumption rules.
+(*2*) U.S. indicia. 
 
-(*i*) In general.
+(C) Consequences of treatment as sale effected at an office inside the United States. 
 
-(*ii*) Presumption rule specific to U.S. digital asset brokers.
+(v) \[Reserved\] 
 
-(*iii*) \[Reserved\]
+(vi) Rules applicable to brokers that obtain or are required to obtain documentation for a customer and presumption rules. 
 
-(*3*) Grace period to collect valid documentation in the case of indicia of a foreign customer.
+(A) In general. 
 
-(*4*) Blocked income.
+(*1*) Documentation of foreign status. 
 
-(B) Reliance on beneficial ownership withholding certificates to determine foreign status.
+(*2*) Presumption rules. 
 
-(*1*) Collection of information other than U.S. place of birth.
+(*i*) In general. 
 
-(*i*) In general.
+(*ii*) Presumption rule specific to U.S. digital asset brokers. 
 
-(*ii*) \[Reserved\]
+(*iii*) \[Reserved\] 
 
-(*2*) Collection of information showing U.S. place of birth.
+(*3*) Grace period to collect valid documentation in the case of indicia of a foreign customer. 
 
-(C) \[Reserved\]
+(*4*) Blocked income. 
 
-(D) Joint owners.
+(B) Reliance on beneficial ownership withholding certificates to determine foreign status. 
 
-(E) Special rules for customer that is a foreign intermediary, a flow-through entity, or certain U.S. branches.
+(*1*) Collection of information other than U.S. place of birth. 
 
-(*1*) Foreign intermediaries in general.
+(*i*) In general. 
 
-(*i*) Presumption rule specific to U.S. digital asset brokers.
+(*ii*) \[Reserved\] 
 
-(*ii*) \[Reserved\]
+(*2*) Collection of information showing U.S. place of birth. 
 
-(*2*) Foreign flow-through entities.
+(C) \[Reserved\] 
 
-(*3*) U.S. branches that are not beneficial owners.
+(D) Joint owners. 
 
-(F) Transition rule for obtaining documentation to treat a customer as an exempt foreign person.
+(E) Special rules for customer that is a foreign intermediary, a flow-through entity, or certain U.S. branches. 
 
-(vii) Barter exchanges.
+(*1*) Foreign intermediaries in general. 
 
-(5) Examples.
+(*i*) Presumption rule specific to U.S. digital asset brokers. 
 
-(h) Identity of customer.
+(*ii*) \[Reserved\] 
 
-(1) In general.
+(*2*) Foreign flow-through entities. 
 
-(2) Examples.
+(*3*) U.S. branches that are not beneficial owners. 
 
-(i) \[Reserved\]
+(F) Transition rule for obtaining documentation to treat a customer as an exempt foreign person. 
 
-(j) Time and place for filing; cross-references to penalty and magnetic media filing requirements.
+(vii) Barter exchanges. 
 
-(k) Requirement and time for furnishing statement; cross-reference to penalty.
+(5) Examples. 
 
-(1) General requirements.
+(h) Identity of customer. 
 
-(2) Time for furnishing statements.
+(1) In general. 
 
-(3) Consolidated reporting.
+(2) Examples. 
 
-(4) Cross-reference to penalty.
+(i) \[Reserved\] 
 
-(l) Use of magnetic media or electronic form.
+(j) Time and place for filing; cross-references to penalty and magnetic media filing requirements. 
 
-(m) Additional rules for option transactions.
+(k) Requirement and time for furnishing statement; cross-reference to penalty. 
 
-(1) In general.
+(1) General requirements. 
 
-(2) Scope.
+(2) Time for furnishing statements. 
 
-(i) In general.
+(3) Consolidated reporting. 
 
-(ii) Delayed effective date for certain options.
+(4) Cross-reference to penalty. 
 
-(iii) Compensatory option.
+(l) Use of magnetic media or electronic form. 
 
-(3) Option subject to section 1256.
+(m) Additional rules for option transactions. 
 
-(4) Option not subject to section 1256.
+(1) In general. 
 
-(i) Physical settlement.
+(2) Scope. 
 
-(ii) Cash settlement.
+(i) In general. 
 
-(iii) Rules for warrants and stock rights acquired in a section 305 distribution.
+(ii) Delayed effective date for certain options. 
 
-(iv) Examples.
+(iii) Compensatory option. 
 
-(5) Multiple options documented in a single contract.
+(3) Option subject to section 1256. 
 
-(6) Determination of index status.
+(4) Option not subject to section 1256. 
 
-(n) Reporting for debt instrument transactions.
+(i) Physical settlement. 
 
-(1) In general.
+(ii) Cash settlement. 
 
-(2) Debt instruments subject to January 1, 2014, reporting.
+(iii) Rules for warrants and stock rights acquired in a section 305 distribution. 
 
-(i) In general.
+(iv) Examples. 
 
-(ii) Exceptions.
+(5) Multiple options documented in a single contract. 
 
-(iii) Remote or incidental.
+(6) Determination of index status. 
 
-(iv) Penalty rate.
+(n) Reporting for debt instrument transactions. 
 
-(3) Debt instruments subject to January 1, 2016, reporting.
+(1) In general. 
 
-(4) Holder elections.
+(2) Debt instruments subject to January 1, 2014, reporting. 
 
-(i) Election to amortize bond premium.
+(i) In general. 
 
-(ii) Election to currently include accrued market discount.
+(ii) Exceptions. 
 
-(iii) Election to accrue market discount based on a constant yield.
+(iii) Remote or incidental. 
 
-(iv) Election to treat all interest as OID.
+(iv) Penalty rate. 
 
-(v) Election to translate interest income and expense at the spot rate.
+(3) Debt instruments subject to January 1, 2016, reporting. 
 
-(5) Broker assumptions and customer notice to brokers.
+(4) Holder elections. 
 
-(i) Broker assumptions if the customer does not notify the broker.
+(i) Election to amortize bond premium. 
 
-(ii) Effect of customer notification of an election or revocation.
+(ii) Election to currently include accrued market discount. 
 
-(A) Election to amortize bond premium.
+(iii) Election to accrue market discount based on a constant yield. 
 
-(B) Other debt elections.
+(iv) Election to treat all interest as OID. 
 
-(iii) Electronic notification.
+(v) Election to translate interest income and expense at the spot rate. 
 
-(6) Reporting of accrued market discount.
+(5) Broker assumptions and customer notice to brokers. 
 
-(i) Sale.
+(i) Broker assumptions if the customer does not notify the broker. 
 
-(ii) Current inclusion election.
+(ii) Effect of customer notification of an election or revocation. 
 
-(7) Adjusted basis.
+(A) Election to amortize bond premium. 
 
-(i) Original issue discount.
+(B) Other debt elections. 
 
-(ii) Amortizable bond premium.
+(iii) Electronic notification. 
 
-(A) Taxable bond.
+(6) Reporting of accrued market discount. 
 
-(B) Tax-exempt bonds.
+(i) Sale. 
 
-(iii) Acquisition premium.
+(ii) Current inclusion election. 
 
-(iv) Market discount.
+(7) Adjusted basis. 
 
-(v) Principal and certain other payments.
+(i) Original issue discount. 
 
-(8) Accrual period.
+(ii) Amortizable bond premium. 
 
-(9) Premium on convertible bond.
+(A) Taxable bond. 
 
-(10) Effect of broker assumptions on customer.
+(B) Tax-exempt bonds. 
 
-(11) Additional rules for certain holder elections.
+(iii) Acquisition premium. 
 
-(i) In general.
+(iv) Market discount. 
 
-(A) Election to treat all interest as OID.
+(v) Principal and certain other payments. 
 
-(B) Election to accrue market discount based on a constant yield.
+(8) Accrual period. 
 
-(ii) \[Reserved\]
+(9) Premium on convertible bond. 
 
-(12) Certain debt instruments treated as noncovered securities.
+(10) Effect of broker assumptions on customer. 
 
-(i) In general.
+(11) Additional rules for certain holder elections. 
 
-(ii) Effective/applicability date.
+(i) In general. 
 
-(o) \[Reserved\]
+(A) Election to treat all interest as OID. 
 
-(p) Electronic filing.
+(B) Election to accrue market discount based on a constant yield. 
 
-(q) Applicability dates.
+(ii) \[Reserved\] 
+
+(12) Certain debt instruments treated as noncovered securities. 
+
+(i) In general. 
+
+(ii) Effective/applicability date. 
+
+(o) \[Reserved\] 
+
+(p) Electronic filing. 
+
+(q) Applicability dates. 
 
 (r) Cross-references.
 
-\[T.D. 10000, 89 FR 56548, July 9, 2024\]
+\[T.D. 10000, 89 FR 56548, July 9, 2024, as amended by TD 10021, 89 FR 106958, Dec. 30, 2024\]

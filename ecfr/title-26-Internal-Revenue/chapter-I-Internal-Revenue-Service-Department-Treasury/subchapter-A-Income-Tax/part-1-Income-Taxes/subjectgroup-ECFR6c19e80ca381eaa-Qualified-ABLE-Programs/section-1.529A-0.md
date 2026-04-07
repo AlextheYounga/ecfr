@@ -1,291 +1,291 @@
 ##### § 1.529A-0 Table of contents.
 
-This section lists the following captions contained in §§ 1.529A-1 through 1.529A-8.
+This section lists the following captions contained in §§ 1.529A-1 through 1.529A-8. 
 
 § 1.529A-1 *Exempt status of qualified ABLE program and definitions.*
 
-(a) In general.
+(a) In general. 
 
-(b) Definitions.
+(b) Definitions. 
 
-(1) ABLE account.
+(1) ABLE account. 
 
-(2) Contribution.
+(2) Contribution. 
 
-(3) Designated beneficiary.
+(3) Designated beneficiary. 
 
-(4) Disability certification.
+(4) Disability certification. 
 
-(5) Distribution.
+(5) Distribution. 
 
-(6) Earnings.
+(6) Earnings. 
 
-(7) Earnings ratio.
+(7) Earnings ratio. 
 
-(8) Eligible individual.
+(8) Eligible individual. 
 
-(9) Excess contribution.
+(9) Excess contribution. 
 
-(10) Excess aggregate contribution.
+(10) Excess aggregate contribution. 
 
-(11) Investment in the account.
+(11) Investment in the account. 
 
-(12) Member of the family.
+(12) Member of the family. 
 
-(13) Program-to-program transfer.
+(13) Program-to-program transfer. 
 
-(14) Qualified ABLE program.
+(14) Qualified ABLE program. 
 
-(15) Qualified disability expenses.
+(15) Qualified disability expenses. 
 
-(16) Rollover.
+(16) Rollover. 
 
-(c) Applicability date.
+(c) Applicability date. 
 
 § 1.529A-2 *Qualified ABLE program.*
 
-(a) In general.
+(a) In general. 
 
-(b) Established and maintained by a State or agency or instrumentality of a State.
+(b) Established and maintained by a State or agency or instrumentality of a State. 
 
-(1) Established.
+(1) Established. 
 
-(2) Maintained.
+(2) Maintained. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Multiple States, agencies, or instrumentalities.
+(ii) Multiple States, agencies, or instrumentalities. 
 
-(3) Community Development Financial Institutions (CDFIs).
+(3) Community Development Financial Institutions (CDFIs). 
 
-(c) Establishment of an ABLE account and signature authority.
+(c) Establishment of an ABLE account and signature authority. 
 
-(1) Establishment of the ABLE account.
+(1) Establishment of the ABLE account. 
 
-(2) Signature authority.
+(2) Signature authority. 
 
-(3) Only one ABLE account.
+(3) Only one ABLE account. 
 
-(4) Beneficial interest.
+(4) Beneficial interest. 
 
-(d) Eligible individual.
+(d) Eligible individual. 
 
-(1) Documentation.
+(1) Documentation. 
 
-(2) Frequency of recertification.
+(2) Frequency of recertification. 
 
-(3) Loss of qualification as an eligible individual.
+(3) Loss of qualification as an eligible individual. 
 
-(e) Disability certification.
+(e) Disability certification. 
 
-(1) In general.
+(1) In general. 
 
-(2) Marked and severe functional limitations.
+(2) Marked and severe functional limitations. 
 
-(3) Compassionate allowance list.
+(3) Compassionate allowance list. 
 
-(4) Additional guidance.
+(4) Additional guidance. 
 
-(5) Restriction on use of certification.
+(5) Restriction on use of certification. 
 
-(f) Change of designated beneficiary.
+(f) Change of designated beneficiary. 
 
-(1) In general.
+(1) In general. 
 
-(2) Change effective upon death.
+(2) Change effective upon death. 
 
-(g) Contributions.
+(g) Contributions. 
 
-(1) Permissible property.
+(1) Permissible property. 
 
-(2) Annual contributions limit.
+(2) Annual contributions limit. 
 
-(3) Cumulative limit.
+(3) Cumulative limit. 
 
-(4) Return of excess contributions, excess compensation contributions, and excess aggregate contributions.
+(4) Return of excess contributions, excess compensation contributions, and excess aggregate contributions. 
 
-(5) Restriction of contributors.
+(5) Restriction of contributors. 
 
-(h) Qualified disability expenses.
+(h) Qualified disability expenses. 
 
-(1) In general.
+(1) In general. 
 
-(2) Example.
+(2) Example. 
 
-(i) Separate accounting.
+(i) Separate accounting. 
 
-(j) Program-to-program transfers.
+(j) Program-to-program transfers. 
 
-(k) Carryover of attributes.
+(k) Carryover of attributes. 
 
-(1) In general.
+(1) In general. 
 
-(2) Annual contribution limit.
+(2) Annual contribution limit. 
 
-(3) Investment direction limit.
+(3) Investment direction limit. 
 
-(l) Investment direction.
+(l) Investment direction. 
 
-(m) No pledging of interest as security.
+(m) No pledging of interest as security. 
 
-(n) No sale or exchange.
+(n) No sale or exchange. 
 
-(o) Post-death payments.
+(o) Post-death payments. 
 
-(p) Reporting requirements.
+(p) Reporting requirements. 
 
-(q) Applicability date.
+(q) Applicability date. 
 
 § 1.529A-3 *Tax treatment.*
 
-(a) Taxation of distributions.
+(a) Taxation of distributions. 
 
-(1) In general.
+(1) In general. 
 
-(2) Additional period.
+(2) Additional period. 
 
-(b) Additional exclusions from gross income.
+(b) Additional exclusions from gross income. 
 
-(1) Rollover.
+(1) Rollover. 
 
-(2) Program-to-program transfers.
+(2) Program-to-program transfers. 
 
-(3) Change of designated beneficiary.
+(3) Change of designated beneficiary. 
 
-(4) Payments to creditors post-death.
+(4) Payments to creditors post-death. 
 
-(c) Computation of earnings.
+(c) Computation of earnings. 
 
-(d) Additional tax on amounts includible in gross income.
+(d) Additional tax on amounts includible in gross income. 
 
-(1) In general.
+(1) In general. 
 
-(2) Exceptions.
+(2) Exceptions. 
 
-(e) Tax on excess contributions.
+(e) Tax on excess contributions. 
 
-(f) Filing requirements.
+(f) Filing requirements. 
 
-(g) No inference outside section 529A.
+(g) No inference outside section 529A. 
 
-(h) Applicability date.
+(h) Applicability date. 
 
 § 1.529A-4 *Gift, estate, and generation-skipping transfer taxes.*
 
-(a) Contributions.
+(a) Contributions. 
 
-(1) In general.
+(1) In general. 
 
-(2) Generation-skipping transfer (GST) tax.
+(2) Generation-skipping transfer (GST) tax. 
 
-(3) Designated beneficiary as contributor.
+(3) Designated beneficiary as contributor. 
 
-(b) Distributions.
+(b) Distributions. 
 
-(c) Transfer to another designated beneficiary.
+(c) Transfer to another designated beneficiary. 
 
-(d) Transfer tax on death of designated beneficiary.
+(d) Transfer tax on death of designated beneficiary. 
 
-(e) Applicability date.
+(e) Applicability date. 
 
 § 1.529A-5 *Reporting of the establishment of and contributions to an ABLE account.*
 
-(a) In general.
+(a) In general. 
 
-(b) Additional definitions.
+(b) Additional definitions. 
 
-(1) Filer.
+(1) Filer. 
 
-(2) TIN.
+(2) TIN. 
 
-(c) Requirement to file return.
+(c) Requirement to file return. 
 
-(1) Form of return.
+(1) Form of return. 
 
-(2) Information included on return.
+(2) Information included on return. 
 
-(3) Time and manner of filing return.
+(3) Time and manner of filing return. 
 
-(d) Requirement to furnish statement.
+(d) Requirement to furnish statement. 
 
-(1) In general.
+(1) In general. 
 
-(2) Time and manner of furnishing statement.
+(2) Time and manner of furnishing statement. 
 
-(3) Copy of Form 5498-QA.
+(3) Copy of Form 5498-QA. 
 
-(e) Request for TIN of designated beneficiary.
+(e) Request for TIN of designated beneficiary. 
 
-(f) Penalties.
+(f) Penalties. 
 
-(1) Failure to file return.
+(1) Failure to file return. 
 
-(2) Failure to furnish TIN.
+(2) Failure to furnish TIN. 
 
-(g) Applicability date.
+(g) Applicability date. 
 
 § 1.529A-6 *Reporting of distributions from and termination of an ABLE account.*
 
-(a) In general.
+(a) In general. 
 
-(b) Requirement to file return.
+(b) Requirement to file return. 
 
-(1) Form of return.
+(1) Form of return. 
 
-(2) Information included on return.
+(2) Information included on return. 
 
-(3) Information excluded.
+(3) Information excluded. 
 
-(4) Time and manner of filing return.
+(4) Time and manner of filing return. 
 
-(c) Requirement to furnish statement.
+(c) Requirement to furnish statement. 
 
-(1) In general.
+(1) In general. 
 
-(2) Time and manner of furnishing statement.
+(2) Time and manner of furnishing statement. 
 
-(3) Copy of Form 1099-QA.
+(3) Copy of Form 1099-QA. 
 
-(d) Request for TIN of contributor(s).
+(d) Request for TIN of contributor(s). 
 
-(1) In general.
+(1) In general. 
 
-(2) Exception.
+(2) Exception. 
 
-(e) Penalties.
+(e) Penalties. 
 
-(1) Failure to file return.
+(1) Failure to file return. 
 
-(2) Failure to furnish TIN.
+(2) Failure to furnish TIN. 
 
-(f) Applicability date.
+(f) Applicability date. 
 
 § 1.529A-7 *Electronic furnishing of statements to designated beneficiaries and contributors.*
 
-(a) Electronic furnishing of statements.
+(a) Electronic furnishing of statements. 
 
-(1) In general.
+(1) In general. 
 
-(2) Consent.
+(2) Consent. 
 
-(3) Required disclosures.
+(3) Required disclosures. 
 
-(4) Format.
+(4) Format. 
 
-(5) Notice.
+(5) Notice. 
 
-(6) Access period.
+(6) Access period. 
 
-(b) Applicability date.
+(b) Applicability date. 
 
 § 1.529A-8 *Applicability dates and transition relief.*
 
-(a) Applicability dates.
+(a) Applicability dates. 
 
-(b)Transition relief.
+(b)Transition relief. 
 
-(1) In general.
+(1) In general. 
 
-(2) Transition period.
+(2) Transition period. 
 
 (3) Compliance after transition period.

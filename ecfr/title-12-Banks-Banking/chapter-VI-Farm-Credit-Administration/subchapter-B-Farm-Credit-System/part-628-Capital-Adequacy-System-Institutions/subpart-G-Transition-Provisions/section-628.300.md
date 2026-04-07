@@ -1,8 +1,8 @@
 ##### § 628.300 Transitions.
 
-(a) *Capital conservation buffer.* (1) \[Reserved\]
+(a) *Capital conservation buffer.* (1) \[Reserved\] 
 
-(2) Beginning January 1, 2017 through December 31, 2019 a System institution's maximum capital conservation buffer payout ratio must be determined as set forth in Table 1 to § 628.300.
+(2) Beginning January 1, 2017 through December 31, 2019 a System institution's maximum capital conservation buffer payout ratio must be determined as set forth in Table 1 to § 628.300. 
 
 Table 1 to § 628.300
 | Transition Period  | Capital conservation buffer        | Maximum   payout ratio   (as a percentage of eligible retained   income) |

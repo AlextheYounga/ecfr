@@ -1,298 +1,298 @@
 ##### § 1.6038D-0 Outline of regulation provisions.
 
-This section lists the table of contents for §§ 1.6038D-1 through 1.6038D-8.
+This section lists the table of contents for §§ 1.6038D-1 through 1.6038D-8. 
 
 § 1.6038D-1 Reporting with respect to specified foreign financial assets, definition of terms.
 
-(a) In general.
+(a) In general. 
 
-(1) Specified person.
+(1) Specified person. 
 
-(2) Specified individual.
+(2) Specified individual. 
 
-(3) Resident alien.
+(3) Resident alien. 
 
-(4) Bona fide resident of a U.S. possession.
+(4) Bona fide resident of a U.S. possession. 
 
-(5) U.S. possession.
+(5) U.S. possession. 
 
-(6) Specified foreign financial asset.
+(6) Specified foreign financial asset. 
 
-(7) Financial account.
+(7) Financial account. 
 
-(8) Financial institution.
+(8) Financial institution. 
 
-(9) Foreign financial institution.
+(9) Foreign financial institution. 
 
-(10) Foreign entity.
+(10) Foreign entity. 
 
-(11) Annual return.
+(11) Annual return. 
 
-(12) Specified domestic entity.
+(12) Specified domestic entity. 
 
-(13) Model 1 IGA and Model 2 IGA.
+(13) Model 1 IGA and Model 2 IGA. 
 
-(b) Effective/applicability dates.
+(b) Effective/applicability dates. 
 
-(1) In general.
+(1) In general. 
 
-(2) Financial accounts.
+(2) Financial accounts. 
 
 § 1.6038D-2 Requirement to report specified foreign financial assets.
 
-(a) Reporting requirement.
+(a) Reporting requirement. 
 
-(1) In general.
+(1) In general. 
 
-(2) Special rule for married specified individuals filing a joint annual return.
+(2) Special rule for married specified individuals filing a joint annual return. 
 
-(3) Special rule for certain specified individuals living abroad.
+(3) Special rule for certain specified individuals living abroad. 
 
-(4) Special rule for married specified individuals filing a joint annual return and living abroad.
+(4) Special rule for married specified individuals filing a joint annual return and living abroad. 
 
-(5) Assets with no positive value.
+(5) Assets with no positive value. 
 
-(6) Aggregate value calculation in case of specified foreign financial asset excluded from reporting.
+(6) Aggregate value calculation in case of specified foreign financial asset excluded from reporting. 
 
-(i) Specified individual.
+(i) Specified individual. 
 
-(ii) Specified domestic entity.
+(ii) Specified domestic entity. 
 
-(7) Form 8938 filed with annual return.
+(7) Form 8938 filed with annual return. 
 
-(i) General rule.
+(i) General rule. 
 
-(ii) Consolidated returns.
+(ii) Consolidated returns. 
 
-(8) Reporting required regardless of tax result.
+(8) Reporting required regardless of tax result. 
 
-(9) Reporting period.
+(9) Reporting period. 
 
-(10) Successor forms.
+(10) Successor forms. 
 
-(b) Interest in a specified foreign financial asset.
+(b) Interest in a specified foreign financial asset. 
 
-(1) In general.
+(1) In general. 
 
-(2) Property transferred in connection with the performance of services.
+(2) Property transferred in connection with the performance of services. 
 
-(3) Special rule for parent making an election under section 1(g)(7).
+(3) Special rule for parent making an election under section 1(g)(7). 
 
-(4) Entities.
+(4) Entities. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Specified foreign financial assets held by certain trusts.
+(ii) Specified foreign financial assets held by certain trusts. 
 
-(iii) Specified foreign financial assets held by a disregarded entity.
+(iii) Specified foreign financial assets held by a disregarded entity. 
 
-(iv) Interest in a foreign trust or foreign estate.
+(iv) Interest in a foreign trust or foreign estate. 
 
-(c) Special rules for joint interests.
+(c) Special rules for joint interests. 
 
-(1) In general.
+(1) In general. 
 
-(i) Determining aggregate value of assets.
+(i) Determining aggregate value of assets. 
 
-(ii) Reporting maximum value.
+(ii) Reporting maximum value. 
 
-(2) Aggregate asset value for married specified individuals filing a joint annual return.
+(2) Aggregate asset value for married specified individuals filing a joint annual return. 
 
-(3) Aggregate asset value for married specified individuals filing a separate annual return.
+(3) Aggregate asset value for married specified individuals filing a separate annual return. 
 
-(i) Both spouses are specified individuals.
+(i) Both spouses are specified individuals. 
 
-(ii) One spouse is not a specified individual.
+(ii) One spouse is not a specified individual. 
 
-(d) Annual return filed by a married specified individual.
+(d) Annual return filed by a married specified individual. 
 
-(1) Joint annual return.
+(1) Joint annual return. 
 
-(2) Separate annual return.
+(2) Separate annual return. 
 
-(e) Special rules for dual resident taxpayers.
+(e) Special rules for dual resident taxpayers. 
 
-(1) In general.
+(1) In general. 
 
-(2) Dual resident taxpayer filing as a nonresident alien at end of taxable year.
+(2) Dual resident taxpayer filing as a nonresident alien at end of taxable year. 
 
-(3) Dual resident taxpayer filing as a resident alien at end of taxable year.
+(3) Dual resident taxpayer filing as a resident alien at end of taxable year. 
 
-(f) Example.
+(f) Example. 
 
-(1) Facts.
+(1) Facts. 
 
-(2) Filing requirement.
+(2) Filing requirement. 
 
-(i) Married specified individuals filing separate annual returns.
+(i) Married specified individuals filing separate annual returns. 
 
-(ii) Married specified individuals filing a joint annual return.
+(ii) Married specified individuals filing a joint annual return. 
 
-(g) Effective/applicability dates.
+(g) Effective/applicability dates. 
 
 § 1.6038D-3 Specified foreign financial assets.
 
-(a) Financial accounts.
+(a) Financial accounts. 
 
-(1) In general.
+(1) In general. 
 
-(2) Financial account in a U.S. possession.
+(2) Financial account in a U.S. possession. 
 
-(3) Excepted financial accounts.
+(3) Excepted financial accounts. 
 
-(i) Accounts maintained by U.S. payors.
+(i) Accounts maintained by U.S. payors. 
 
-(ii) Mark-to-market election under section 475.
+(ii) Mark-to-market election under section 475. 
 
-(b) Other specified foreign financial assets.
+(b) Other specified foreign financial assets. 
 
-(1) In general.
+(1) In general. 
 
-(2) Mark-to-market election under section 475.
+(2) Mark-to-market election under section 475. 
 
-(3) Held for investment.
+(3) Held for investment. 
 
-(4) Trade-or-business test.
+(4) Trade-or-business test. 
 
-(5) Direct relationship between holding an asset and a trade or business.
+(5) Direct relationship between holding an asset and a trade or business. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Presumption of direct relationship.
+(ii) Presumption of direct relationship. 
 
-(c) Special rule for interests in foreign trusts and foreign estates.
+(c) Special rule for interests in foreign trusts and foreign estates. 
 
-(d) Examples.
+(d) Examples. 
 
-(e) Effective/applicability dates.
+(e) Effective/applicability dates. 
 
 § 1.6038D-4 Information required to be reported.
 
-(a) Required information.
+(a) Required information. 
 
-(b) Effective/applicability dates.
+(b) Effective/applicability dates. 
 
 § 1.6038D-5 Valuation guidelines.
 
-(a) Fair market value.
+(a) Fair market value. 
 
-(b) Valuation of assets.
+(b) Valuation of assets. 
 
-(1) Maximum value.
+(1) Maximum value. 
 
-(2) U.S. dollars.
+(2) U.S. dollars. 
 
-(3) Asset with no positive value.
+(3) Asset with no positive value. 
 
-(c) Foreign currency conversion.
+(c) Foreign currency conversion. 
 
-(1) In general.
+(1) In general. 
 
-(2) Other publicly available exchange rate.
+(2) Other publicly available exchange rate. 
 
-(3) Currency exchange rate.
+(3) Currency exchange rate. 
 
-(4) Determination date.
+(4) Determination date. 
 
-(d) Financial accounts.
+(d) Financial accounts. 
 
-(e) Asset held in a financial account.
+(e) Asset held in a financial account. 
 
-(f) Other specified foreign financial assets.
+(f) Other specified foreign financial assets. 
 
-(1) General rule.
+(1) General rule. 
 
-(2) Interests in trusts that are specified foreign financial assets.
+(2) Interests in trusts that are specified foreign financial assets. 
 
-(i) Maximum value.
+(i) Maximum value. 
 
-(ii) Reporting threshold.
+(ii) Reporting threshold. 
 
-(3) Interests in estates, pension plans, and deferred compensation plans.
+(3) Interests in estates, pension plans, and deferred compensation plans. 
 
-(i) Maximum value.
+(i) Maximum value. 
 
-(ii) Reporting threshold.
+(ii) Reporting threshold. 
 
-(g) Effective/applicability dates.
+(g) Effective/applicability dates. 
 
 § 1.6038D-6 Specified domestic entities.
 
-(a) Specified domestic entity.
+(a) Specified domestic entity. 
 
-(b) Corporations and partnerships.
+(b) Corporations and partnerships. 
 
-(1) Formed or availed of.
+(1) Formed or availed of. 
 
-(2) Closely held.
+(2) Closely held. 
 
-(i) Domestic corporation.
+(i) Domestic corporation. 
 
-(ii) Domestic partnership.
+(ii) Domestic partnership. 
 
-(iii) Constructive ownership.
+(iii) Constructive ownership. 
 
-(3) Determination of passive income and assets.
+(3) Determination of passive income and assets. 
 
-(i) Definition of passive income.
+(i) Definition of passive income. 
 
-(ii) Exception from passive income treatment for dealers.
+(ii) Exception from passive income treatment for dealers. 
 
-(iii) Related entities.
+(iii) Related entities. 
 
-(4) Examples.
+(4) Examples. 
 
-(c) Domestic trusts.
+(c) Domestic trusts. 
 
-(d) Excepted domestic entities.
+(d) Excepted domestic entities. 
 
-(1) Certain persons described in section 1473(3).
+(1) Certain persons described in section 1473(3). 
 
-(2) Certain domestic trusts.
+(2) Certain domestic trusts. 
 
-(3) Domestic trusts owned by one or more specified persons.
+(3) Domestic trusts owned by one or more specified persons. 
 
-(e) Effective/applicability dates.
+(e) Effective/applicability dates. 
 
 § 1.6038D-7 Exceptions from the reporting of certain assets under section 6038D.
 
-(a) Elimination of duplicative reporting of assets.
+(a) Elimination of duplicative reporting of assets. 
 
-(1) In general.
+(1) In general. 
 
-(2) Foreign grantor trusts.
+(2) Foreign grantor trusts. 
 
-(3) Joint Form 5471 or Form 8865 filing.
+(3) Joint Form 5471 or Form 8865 filing. 
 
-(b) Owner of certain trusts.
+(b) Owner of certain trusts. 
 
-(c) Special rules for bona fide residents of a U.S. possession.
+(c) Special rules for bona fide residents of a U.S. possession. 
 
-(d) Effective/applicability dates.
+(d) Effective/applicability dates. 
 
 § 1.6038D-8 Penalties for failure to disclose.
 
-(a) In general.
+(a) In general. 
 
-(b) Married specified individuals filing a joint annual return.
+(b) Married specified individuals filing a joint annual return. 
 
-(c) Increase in penalty.
+(c) Increase in penalty. 
 
-(d) Presumption of aggregate value.
+(d) Presumption of aggregate value. 
 
-(e) Reasonable cause exception.
+(e) Reasonable cause exception. 
 
-(1) In general.
+(1) In general. 
 
-(2) Affirmative showing required.
+(2) Affirmative showing required. 
 
-(3) Facts and circumstances taken into account.
+(3) Facts and circumstances taken into account. 
 
-(f) Penalties for underpayments attributable to undisclosed foreign financial assets.
+(f) Penalties for underpayments attributable to undisclosed foreign financial assets. 
 
-(1) Accuracy related penalty.
+(1) Accuracy related penalty. 
 
-(2) Criminal penalties.
+(2) Criminal penalties. 
 
 (g) Effective/applicability dates.
 

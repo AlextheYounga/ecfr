@@ -1,6 +1,6 @@
 ##### § 192.370 Limits on aggregate purchases by officers, directors, and associates.
 
-(a) *In general.* When a savings association converts, its officers, directors, and their associates may not purchase, in the aggregate, more than the following percentage of the savings association's total stock offering:
+(a) *In general.* When a savings association converts, its officers, directors, and their associates may not purchase, in the aggregate, more than the following percentage of the savings association's total stock offering: 
 
 Table 1 to § 192.370(a)
 | Institution size         | Officer and   director   purchases   (percent) |

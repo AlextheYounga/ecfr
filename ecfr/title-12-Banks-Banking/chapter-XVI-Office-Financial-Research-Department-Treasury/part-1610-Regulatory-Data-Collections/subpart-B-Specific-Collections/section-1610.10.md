@@ -2,27 +2,27 @@
 
 (a) *Definitions.*
 
-*Central counterparty* means a clearing agency that interposes itself between the counterparties to transactions, acting functionally as the buyer to every seller and the seller to every buyer.
+*Central counterparty* means a clearing agency that interposes itself between the counterparties to transactions, acting functionally as the buyer to every seller and the seller to every buyer. 
 
-*Clearing agency* has the same meaning as set forth in 15 U.S.C. 78c(a)(23).
+*Clearing agency* has the same meaning as set forth in 15 U.S.C. 78c(a)(23). 
 
-*Covered reporter* means any central counterparty for repurchase agreement transactions that meets the criteria set forth in paragraph (b)(2) of this section; provided, however, that any covered reporter shall cease to be a covered reporter only if it does not meet the dollar threshold specified in paragraph (b)(2) for at least four consecutive calendar quarters.
+*Covered reporter* means any central counterparty for repurchase agreement transactions that meets the criteria set forth in paragraph (b)(2) of this section; provided, however, that any covered reporter shall cease to be a covered reporter only if it does not meet the dollar threshold specified in paragraph (b)(2) for at least four consecutive calendar quarters. 
 
-*General collateral trade* means a repurchase agreement transaction in which the trade reported to the central counterparty is for a category of securities as opposed to a specific security.
+*General collateral trade* means a repurchase agreement transaction in which the trade reported to the central counterparty is for a category of securities as opposed to a specific security. 
 
-*Repurchase agreement transaction* or transaction means an agreement of a counterparty to transfer securities to another counterparty in exchange for the receipt of cash, and the simultaneous agreement of the former counterparty to later reacquire the same securities (or any subsequently substituted securities) from that same counterparty in exchange for the payment of cash; or an agreement of a counterparty to acquire securities from another counterparty in exchange for the payment of cash, and the simultaneous agreement of the former party to later transfer back the same securities (or any subsequently substituted securities) to the latter counterparty in exchange for the receipt of cash.
+*Repurchase agreement transaction* or transaction means an agreement of a counterparty to transfer securities to another counterparty in exchange for the receipt of cash, and the simultaneous agreement of the former counterparty to later reacquire the same securities (or any subsequently substituted securities) from that same counterparty in exchange for the payment of cash; or an agreement of a counterparty to acquire securities from another counterparty in exchange for the payment of cash, and the simultaneous agreement of the former party to later transfer back the same securities (or any subsequently substituted securities) to the latter counterparty in exchange for the receipt of cash. 
 
-*Specific-security trade* means a repurchase agreement transaction where the trade as reported to the central counterparty is for a mutually agreed upon specific security.
+*Specific-security trade* means a repurchase agreement transaction where the trade as reported to the central counterparty is for a mutually agreed upon specific security. 
 
-(b) *Purpose and scope*—(1) *Purpose.* The purpose of this data collection is to require the reporting of certain information to the Office about repurchase agreement transactions cleared through a central counterparty. The information will be used by the Office to support the Council and Council member agencies by facilitating financial stability monitoring including research consistent with support of the Council and its member agencies, and to support the calculation of certain reference rates.
+(b) *Purpose and scope*—(1) *Purpose.* The purpose of this data collection is to require the reporting of certain information to the Office about repurchase agreement transactions cleared through a central counterparty. The information will be used by the Office to support the Council and Council member agencies by facilitating financial stability monitoring including research consistent with support of the Council and its member agencies, and to support the calculation of certain reference rates. 
 
-(2) *Scope of application.* Reporting under this Section is required by any central counterparty for repurchase agreement transactions that meets the definition of financial company set forth in 12 U.S.C. 5341(2) and whose average daily total open commitments in repurchase agreement contracts (gross cash positions prior to netting) across all services over all business days during the prior calendar quarter is at least $50 billion.
+(2) *Scope of application.* Reporting under this Section is required by any central counterparty for repurchase agreement transactions that meets the definition of financial company set forth in 12 U.S.C. 5341(2) and whose average daily total open commitments in repurchase agreement contracts (gross cash positions prior to netting) across all services over all business days during the prior calendar quarter is at least $50 billion. 
 
-(c) *Data required.* (1) Covered reporters shall report trade and collateral information on all repurchase agreement transactions cleared through any of its services, subject to paragraph (c)(2) of this section, in accordance with the prescribed reporting format in this section.
+(c) *Data required.* (1) Covered reporters shall report trade and collateral information on all repurchase agreement transactions cleared through any of its services, subject to paragraph (c)(2) of this section, in accordance with the prescribed reporting format in this section. 
 
-(2) Covered reporters shall only report trade and collateral information with respect to any repurchase agreement transaction for which there is a current or future delivery obligation as of the file observation date, including forward-starting transactions.
+(2) Covered reporters shall only report trade and collateral information with respect to any repurchase agreement transaction for which there is a current or future delivery obligation as of the file observation date, including forward-starting transactions. 
 
-(3) Covered reporters shall submit the following data elements for all general collateral trades:
+(3) Covered reporters shall submit the following data elements for all general collateral trades: 
 
 Table 1 to § 1610.10(c)—General Collateral Trades
 | Data element                                                   | Explanation                                                                                                                                                 |
@@ -56,7 +56,7 @@ Table 1 to § 1610.10(c)—General Collateral Trades
 | Optionality                                                    | The type of optionality, if any, in the repurchase agreement.                                                                                               |
 | Minimum Maturity                                               | The earliest possible date on which the transaction could end in accordance with its contractual terms (taking into account optionality).                   |
 
-(4) Covered reporters shall submit the following data elements on the collateral delivered against net general collateral exposures for all general collateral trades:
+(4) Covered reporters shall submit the following data elements on the collateral delivered against net general collateral exposures for all general collateral trades: 
 
 Table 2 to § 1610.10(c)—General Collateral Net Exposure
 | Data element                               | Explanation                                                                                               |
@@ -72,7 +72,7 @@ Table 2 to § 1610.10(c)—General Collateral Net Exposure
 | Securities Quantity                        | Par value or quantity (as applicable) of securities transferred.                                          |
 | Securities Value                           | The market value as of most recent valuation of securities transferred, including accrued interest.       |
 
-(5) Covered reporters shall submit the following data elements for all specific-security trades:
+(5) Covered reporters shall submit the following data elements for all specific-security trades: 
 
 Table 3 to § 1610.10(c)—Specific-Security Trades
 | Data element                                                   | Explanation                                                                                                                                                 |
@@ -113,23 +113,23 @@ Table 3 to § 1610.10(c)—Specific-Security Trades
 | Cash Provider Close Leg Settlement Amount                      | The amount of cash received by the cash provider on the close leg of the transaction.                                                                       |
 | Securities Provider Close Leg Settlement Amount                | The amount of cash paid by the securities provider on the close leg of the transaction.                                                                     |
 
-(d) *Reporting process and collection agent.* The Office may designate a collection agent for the data reporting. Covered reporters shall submit the required data for each business day by 6:00 a.m. Eastern time on the following business day.
+(d) *Reporting process and collection agent.* The Office may designate a collection agent for the data reporting. Covered reporters shall submit the required data for each business day by 6:00 a.m. Eastern time on the following business day. 
 
-(e) *Compliance.* (1) Any central counterparty that is a covered reporter as of the effective date of this Section shall comply with the reporting requirements pursuant to this Section in the following manner:
+(e) *Compliance.* (1) Any central counterparty that is a covered reporter as of the effective date of this Section shall comply with the reporting requirements pursuant to this Section in the following manner: 
 
-(i) Subject to paragraph (e)(1)(iii) of this section, a covered reporter shall begin reporting all data elements required to be submitted pursuant to paragraph (c)(5) of this section within 180 days after April 22, 2019.
+(i) Subject to paragraph (e)(1)(iii) of this section, a covered reporter shall begin reporting all data elements required to be submitted pursuant to paragraph (c)(5) of this section within 180 days after April 22, 2019. 
 
-(ii) Subject to paragraph (e)(1)(iii) of this section, a covered reporter shall begin reporting all data elements required to be submitted pursuant to paragraphs (c)(3) and (4) of this section within 240 days after April 22, 2019.
+(ii) Subject to paragraph (e)(1)(iii) of this section, a covered reporter shall begin reporting all data elements required to be submitted pursuant to paragraphs (c)(3) and (4) of this section within 240 days after April 22, 2019. 
 
-(iii) If a covered reporter is able to effect a rulemaking through the Securities and Exchange Commission requiring each direct clearing member, counterparty, and broker associated with a repurchase agreement transaction to obtain an LEI and provide it to the covered reporter, the covered reporter shall begin reporting all data elements requiring an LEI other than its own pursuant to paragraphs (c)(3) through (5) of this section by the later of the effective date of its rulemaking, or 420 days April 22, 2019, and continue to report all data elements requiring a legal name or internal identifier until 365 days after the date the covered reporter begins reporting all data elements requiring an LEI pursuant to this section. If a covered reporter is unable to effect such a rulemaking, the covered reporter is not required to report any data elements requiring an LEI other than its own pursuant to paragraphs (c)(3) through (5) of this section, except, if available, the LEI for any direct clearing member, counterparty, or broker associated with a repurchase agreement transaction that has an LEI, and shall report all data elements requiring a legal name or internal identifier in any report submitted under this section regardless of whether the relevant entity has an LEI. A covered reporter shall report its own LEI in accordance with the schedules set forth in paragraphs (e)(1)(i) and (ii) of this section.
+(iii) If a covered reporter is able to effect a rulemaking through the Securities and Exchange Commission requiring each direct clearing member, counterparty, and broker associated with a repurchase agreement transaction to obtain an LEI and provide it to the covered reporter, the covered reporter shall begin reporting all data elements requiring an LEI other than its own pursuant to paragraphs (c)(3) through (5) of this section by the later of the effective date of its rulemaking, or 420 days April 22, 2019, and continue to report all data elements requiring a legal name or internal identifier until 365 days after the date the covered reporter begins reporting all data elements requiring an LEI pursuant to this section. If a covered reporter is unable to effect such a rulemaking, the covered reporter is not required to report any data elements requiring an LEI other than its own pursuant to paragraphs (c)(3) through (5) of this section, except, if available, the LEI for any direct clearing member, counterparty, or broker associated with a repurchase agreement transaction that has an LEI, and shall report all data elements requiring a legal name or internal identifier in any report submitted under this section regardless of whether the relevant entity has an LEI. A covered reporter shall report its own LEI in accordance with the schedules set forth in paragraphs (e)(1)(i) and (ii) of this section. 
 
-(2) The first submission by any central counterparty that is a covered reporter as of the effective date of this Section shall be submitted on the first business day after the applicable compliance date under paragraph (e)(1) of this section.
+(2) The first submission by any central counterparty that is a covered reporter as of the effective date of this Section shall be submitted on the first business day after the applicable compliance date under paragraph (e)(1) of this section. 
 
 Note 1 to paragraph (e)(2):
 
 For example, if this section became effective on March 20, 2019, a central counterparty that meets the dollar threshold specified in paragraph (b)(2) of this section for the calendar quarter ending December 31, 2018, would be required to submit its first report under paragraph (e)(1)(i) of this section on the first business day after September 16, 2019, its first report under paragraph (e)(1)(ii) of this section on November 15, 2019, and its first report with data elements requiring an LEI (other than that of the covered reporter) on May 13, 2020 (if the covered reporter effected the rulemaking described in paragraph (e)(1)(iii) of this section).
 
-(3) Any central counterparty that becomes a covered reporter after the effective date of this Section shall comply with the reporting requirements pursuant to this Section beginning on the later of the schedule set forth in paragraphs (e)(1)(i) through (iii) of this section or the first business day of the third calendar quarter following the calendar quarter in which such central counterparty meets the dollar threshold specified in paragraph (b)(2) of this section.
+(3) Any central counterparty that becomes a covered reporter after the effective date of this Section shall comply with the reporting requirements pursuant to this Section beginning on the later of the schedule set forth in paragraphs (e)(1)(i) through (iii) of this section or the first business day of the third calendar quarter following the calendar quarter in which such central counterparty meets the dollar threshold specified in paragraph (b)(2) of this section. 
 
 Note 2 to paragraph (e)(3):
 

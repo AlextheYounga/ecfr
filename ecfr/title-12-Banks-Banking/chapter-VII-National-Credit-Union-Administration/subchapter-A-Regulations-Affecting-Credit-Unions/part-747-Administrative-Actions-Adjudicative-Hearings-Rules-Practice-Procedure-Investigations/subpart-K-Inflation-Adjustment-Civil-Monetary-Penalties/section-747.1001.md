@@ -1,6 +1,6 @@
 ##### § 747.1001 Adjustment of civil monetary penalties by the rate of inflation.
 
-(a) The NCUA is required by the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410, 104 Stat. 890, as amended (28 U.S.C. 2461 note)), to adjust the maximum amount of each civil monetary penalty (CMP) within its jurisdiction by the rate of inflation. The following chart displays those adjusted amounts, as calculated pursuant to the statute:
+(a) The NCUA is required by the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410, 104 Stat. 890, as amended (28 U.S.C. 2461 note)), to adjust the maximum amount of each civil monetary penalty (CMP) within its jurisdiction by the rate of inflation. The following chart displays those adjusted amounts, as calculated pursuant to the statute: 
 
 | U.S. Code citation               | CMP description                                                                                                                                                                                                           | New maximum amount                                                           |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -20,6 +20,6 @@
 | (14) 15 U.S.C. 1639e(k)          | Non-compliance with appraisal independence requirements                                                                                                                                                                   | First violation: $14,435   Subsequent violations: $28,866.                   |
 | (15) 42 U.S.C. 4012a(f)(5)       | Non-compliance with flood insurance requirements                                                                                                                                                                          | $2,730.                                                                      |
 
-(b) The adjusted amounts displayed in paragraph (a) of this section apply to civil monetary penalties that are assessed after the date the increase takes effect, including those whose associated violation or violations pre-dated the increase and occurred on or after November 2, 2015.
+(b) The adjusted amounts displayed in paragraph (a) of this section apply to civil monetary penalties that are assessed after the date the increase takes effect, including those whose associated violation or violations pre-dated the increase and occurred on or after November 2, 2015. 
 
 \[90 FR 3621, Jan. 15, 2025\]

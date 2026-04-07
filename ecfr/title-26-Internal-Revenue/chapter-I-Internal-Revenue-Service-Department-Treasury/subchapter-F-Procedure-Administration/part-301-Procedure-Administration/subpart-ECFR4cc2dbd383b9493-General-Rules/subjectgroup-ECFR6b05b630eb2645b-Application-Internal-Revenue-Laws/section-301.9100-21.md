@@ -1,6 +1,6 @@
 ##### § 301.9100-21 References to other temporary elections under various tax acts.
 
-Regulations regarding elections under various other tax acts are found at the following sections in title 26 of the Code of Federal Regulations:
+Regulations regarding elections under various other tax acts are found at the following sections in title 26 of the Code of Federal Regulations: 
 
 | Section of 26 CFR | Description of election                                                                                                                                                                                  |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

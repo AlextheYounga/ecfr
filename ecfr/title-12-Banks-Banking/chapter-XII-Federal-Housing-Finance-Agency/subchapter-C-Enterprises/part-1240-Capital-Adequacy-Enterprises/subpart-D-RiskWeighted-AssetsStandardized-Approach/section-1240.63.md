@@ -1,14 +1,14 @@
 ##### § 1240.63 Disclosures.
 
-(a) Except as provided in § 1240.62, an Enterprise must make the disclosures described in Tables 1 through 11 of this section publicly available for each of the last three years (that is, twelve quarters) or such shorter period until an Enterprise has made twelve quarterly disclosures pursuant to this part beginning with the disclosure for the quarter ending December 31, 2022.
+(a) Except as provided in § 1240.62, an Enterprise must make the disclosures described in Tables 1 through 11 of this section publicly available for each of the last three years (that is, twelve quarters) or such shorter period until an Enterprise has made twelve quarterly disclosures pursuant to this part beginning with the disclosure for the quarter ending December 31, 2022. 
 
-(b) An Enterprise must publicly disclose each quarter the following:
+(b) An Enterprise must publicly disclose each quarter the following: 
 
-(1) Regulatory capital ratios for common equity tier 1 capital, additional tier 1 capital, tier 1 capital, tier 2 capital, total capital, core capital, and adjusted total capital, including the regulatory capital elements and all the regulatory adjustments and deductions needed to calculate the numerator of such ratios;
+(1) Regulatory capital ratios for common equity tier 1 capital, additional tier 1 capital, tier 1 capital, tier 2 capital, total capital, core capital, and adjusted total capital, including the regulatory capital elements and all the regulatory adjustments and deductions needed to calculate the numerator of such ratios; 
 
-(2) Total risk-weighted assets, including the different regulatory adjustments and deductions needed to calculate total risk-weighted assets; and
+(2) Total risk-weighted assets, including the different regulatory adjustments and deductions needed to calculate total risk-weighted assets; and 
 
-(3) A reconciliation of regulatory capital elements as they relate to its balance sheet in any audited consolidated financial statements.
+(3) A reconciliation of regulatory capital elements as they relate to its balance sheet in any audited consolidated financial statements. 
 
 Table 1 to Paragraph (b)(3)—Capital Structure
 | Qualitative disclosures  | (a) Summary information on the terms and conditions of the main features of all regulatory capital instruments.                                                                                   |
@@ -70,7 +70,7 @@ Table 3 to Paragraph (b)(3)—Capital Buffers
 |                          | (d) At least quarterly, the Enterprise must calculate and publicly disclose the eligible retained income of the Enterprise, as described under § 1240.11.                                                                                                                        |
 |                          | (e) At least quarterly, the Enterprise must calculate and publicly disclose any limitations it has on distributions and discretionary bonus payments resulting from the capital buffer framework described under § 1240.11, including the maximum payout amount for the quarter. |
 
-(c) For each separate risk area described in Tables 4 through 9, the Enterprise must, as a general qualitative disclosure requirement, describe its risk management objectives and policies, including: Strategies and processes; the structure and organization of the relevant risk management function; the scope and nature of risk reporting and/or measurement systems; policies for hedging and/or mitigating risk and strategies and processes for monitoring the continuing effectiveness of hedges and/or mitigants.
+(c) For each separate risk area described in Tables 4 through 9, the Enterprise must, as a general qualitative disclosure requirement, describe its risk management objectives and policies, including: Strategies and processes; the structure and organization of the relevant risk management function; the scope and nature of risk reporting and/or measurement systems; policies for hedging and/or mitigating risk and strategies and processes for monitoring the continuing effectiveness of hedges and/or mitigants. 
 
 Table 4 to Paragraph (c) 1—Credit Risk: General Disclosures
 | Qualitative disclosures                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | (a) The general qualitative disclosure requirement with respect to credit risk (excluding counterparty credit risk disclosed in accordance with Table 5 of this section), including the:                                                                                                                                                                                                                                                                                               |

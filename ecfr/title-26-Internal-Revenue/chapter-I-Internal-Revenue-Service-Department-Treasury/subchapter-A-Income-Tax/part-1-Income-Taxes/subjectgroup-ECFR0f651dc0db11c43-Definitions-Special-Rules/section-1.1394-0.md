@@ -1,94 +1,94 @@
 ##### § 1.1394-0 Table of contents.
 
-This section lists the major paragraph headings contained in § 1.1394-1.
+This section lists the major paragraph headings contained in § 1.1394-1. 
 
 § 1.1394-1 Enterprise zone facility bonds.
 
-(a) Scope.
+(a) Scope. 
 
-(b) Period of compliance.
+(b) Period of compliance. 
 
-(1) In general.
+(1) In general. 
 
-(2) Compliance after an issue is retired.
+(2) Compliance after an issue is retired. 
 
-(3) Deemed compliance.
+(3) Deemed compliance. 
 
-(c) Special rules for requirements of sections 1397B and 1397C.
+(c) Special rules for requirements of sections 1397B and 1397C. 
 
-(1) Start of compliance period.
+(1) Start of compliance period. 
 
-(2) Compliance period for certain prohibited activities.
+(2) Compliance period for certain prohibited activities. 
 
-(3) Minimum compliance period.
+(3) Minimum compliance period. 
 
-(4) Initial testing date.
+(4) Initial testing date. 
 
-(d) Testing on an average basis.
+(d) Testing on an average basis. 
 
-(e) Resident employee requirements.
+(e) Resident employee requirements. 
 
-(1) Determination of employee status.
+(1) Determination of employee status. 
 
-(2) Employee treated as zone resident.
+(2) Employee treated as zone resident. 
 
-(3) Resident employee percentage.
+(3) Resident employee percentage. 
 
-(f) Application to pooled financing bond and loan recycling programs.
+(f) Application to pooled financing bond and loan recycling programs. 
 
-(g) Limitation on amount of bonds.
+(g) Limitation on amount of bonds. 
 
-(1) Determination of outstanding amount.
+(1) Determination of outstanding amount. 
 
-(2) Pooled financing bond programs.
+(2) Pooled financing bond programs. 
 
-(h) Original use requirement for purposes of qualified zone property.
+(h) Original use requirement for purposes of qualified zone property. 
 
-(i) Land.
+(i) Land. 
 
-(j) Principal user.
+(j) Principal user. 
 
-(1) In general.
+(1) In general. 
 
-(2) Rental of real property.
+(2) Rental of real property. 
 
-(3) Pooled financing bond program.
+(3) Pooled financing bond program. 
 
-(k) Treatment as separately incorporated business.
+(k) Treatment as separately incorporated business. 
 
-(l) Substantially all.
+(l) Substantially all. 
 
-(m) Application of sections 142 and 146 through 150.
+(m) Application of sections 142 and 146 through 150. 
 
-(1) In general.
+(1) In general. 
 
-(2) Maturity limitation.
+(2) Maturity limitation. 
 
-(3) Volume cap.
+(3) Volume cap. 
 
-(4) Remedial actions.
+(4) Remedial actions. 
 
-(n) Continuing compliance and change of use penalties.
+(n) Continuing compliance and change of use penalties. 
 
-(1) In general.
+(1) In general. 
 
-(2) Coordination with deemed compliance provisions.
+(2) Coordination with deemed compliance provisions. 
 
-(3) Application to pooled financing bond and loan recycling programs.
+(3) Application to pooled financing bond and loan recycling programs. 
 
-(4) Section 150(b)(4) inapplicable.
+(4) Section 150(b)(4) inapplicable. 
 
-(o) Refunding bonds.
+(o) Refunding bonds. 
 
-(1) In general.
+(1) In general. 
 
-(2) Maturity limitation.
+(2) Maturity limitation. 
 
-(p) Examples.
+(p) Examples. 
 
-(q) Effective dates.
+(q) Effective dates. 
 
-(1) In general.
+(1) In general. 
 
 (2) Elective retroactive application in whole.
 

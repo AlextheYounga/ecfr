@@ -1,188 +1,188 @@
 ##### § 1.706-0 Table of contents.
 
-This section lists the captions contained in the regulations under section 706.
+This section lists the captions contained in the regulations under section 706. 
 
 § 1.706-1 Taxable years of partner and partnership.
 
-(a) Year in which partnership income is includible.
+(a) Year in which partnership income is includible. 
 
-(b) Taxable year.
+(b) Taxable year. 
 
-(1) Partnership treated as taxpayer.
+(1) Partnership treated as taxpayer. 
 
-(2) Partnership's taxable year.
+(2) Partnership's taxable year. 
 
-(i) Required taxable year.
+(i) Required taxable year. 
 
-(ii) Exceptions.
+(ii) Exceptions. 
 
-(3) Least aggregate deferral.
+(3) Least aggregate deferral. 
 
-(i) Taxable year that results in the least aggregate deferral of income.
+(i) Taxable year that results in the least aggregate deferral of income. 
 
-(ii) Determination of the taxable year of a partner or partnership that uses a 52-53 week taxable year.
+(ii) Determination of the taxable year of a partner or partnership that uses a 52-53 week taxable year. 
 
-(iii) Special de minimis rule.
+(iii) Special de minimis rule. 
 
-(iv) Examples.
+(iv) Examples. 
 
-(4) Measurement of partner's profits and capital interest.
+(4) Measurement of partner's profits and capital interest. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Profits interest.
+(ii) Profits interest. 
 
-(A) In general.
+(A) In general. 
 
-(B) Percentage share of partnership net income.
+(B) Percentage share of partnership net income. 
 
-(C) Distributive share.
+(C) Distributive share. 
 
-(iii) Capital interest.
+(iii) Capital interest. 
 
-(5) Taxable year of a partnership with tax-exempt partners.
+(5) Taxable year of a partnership with tax-exempt partners. 
 
-(i) Certain tax-exempt partners disregarded.
+(i) Certain tax-exempt partners disregarded. 
 
-(ii) Example.
+(ii) Example. 
 
-(iii) Effective date.
+(iii) Effective date. 
 
-(6) Certain foreign partners disregarded.
+(6) Certain foreign partners disregarded. 
 
-(i) Interests of disregarded foreign partners not taken into account.
+(i) Interests of disregarded foreign partners not taken into account. 
 
-(ii) Definition of foreign partner.
+(ii) Definition of foreign partner. 
 
-(iii) Minority interest rule.
+(iii) Minority interest rule. 
 
-(iv) Example.
+(iv) Example. 
 
-(v) Effective date.
+(v) Effective date. 
 
-(A) Generally.
+(A) Generally. 
 
-(B) Voluntary change in taxable year.
+(B) Voluntary change in taxable year. 
 
-(C) Subsequent sale or exchange of interests.
+(C) Subsequent sale or exchange of interests. 
 
-(D) Transition rule.
+(D) Transition rule. 
 
-(7) Adoption of taxable year.
+(7) Adoption of taxable year. 
 
-(8) Change in taxable year.
+(8) Change in taxable year. 
 
-(i) Partnerships.
+(i) Partnerships. 
 
-(A) Approval required.
+(A) Approval required. 
 
-(B) Short period tax return.
+(B) Short period tax return. 
 
-(C) Change in required taxable year.
+(C) Change in required taxable year. 
 
-(ii) Partners.
+(ii) Partners. 
 
-(9) Retention of taxable year.
+(9) Retention of taxable year. 
 
-(10) Procedures for obtaining approval or making a section 444 election.
+(10) Procedures for obtaining approval or making a section 444 election. 
 
-(11) Effect on partner elections under section 444.
+(11) Effect on partner elections under section 444. 
 
-(i) Election taken into account.
+(i) Election taken into account. 
 
-(ii) Effective date.
+(ii) Effective date. 
 
-(c) Closing of partnership year.
+(c) Closing of partnership year. 
 
-(1) General rule.
+(1) General rule. 
 
-(2) Disposition of entire interest.
+(2) Disposition of entire interest. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Example.
+(ii) Example. 
 
-(iii) Deemed dispositions.
+(iii) Deemed dispositions. 
 
-(3) Disposition of less than entire interest.
+(3) Disposition of less than entire interest. 
 
-(4) Determination of distributive shares.
+(4) Determination of distributive shares. 
 
-(5) Transfer of interest by gift.
+(5) Transfer of interest by gift. 
 
-(6) Foreign taxes.
+(6) Foreign taxes. 
 
-(d) Effective/applicability date.
+(d) Effective/applicability date. 
 
 § 1.706-2 Certain allocable cash basis items. \[Reserved\] § 1.706-2T Temporary regulations; question and answer under the Tax Reform Act of 1984 (temporary). § 1.706-3 Items attributable to interest in lower-tier partnership.
 
-(a) through (c) \[Reserved\]
+(a) through (c) \[Reserved\] 
 
-(d) Conservation contributions.
+(d) Conservation contributions. 
 
-(e) Applicability date.
+(e) Applicability date. 
 
 § 1.706-4 Determination of distributive share when a partner's interest varies.
 
-(a) General rule.
+(a) General rule. 
 
-(1) Variations subject to this section.
+(1) Variations subject to this section. 
 
-(2) Coordination with section 706(d)(2) and (3) and other Code sections.
+(2) Coordination with section 706(d)(2) and (3) and other Code sections. 
 
-(3) Allocation of items subject to this section.
+(3) Allocation of items subject to this section. 
 
-(4) Example.
+(4) Example. 
 
-(b) Exceptions.
+(b) Exceptions. 
 
-(1) Permissible changes among contemporaneous partners.
+(1) Permissible changes among contemporaneous partners. 
 
-(2) Safe harbor for partnerships for which capital is not a material income-producing factor.
+(2) Safe harbor for partnerships for which capital is not a material income-producing factor. 
 
-(3) Special rules for publicly traded partnerships.
+(3) Special rules for publicly traded partnerships. 
 
-(c) Conventions.
+(c) Conventions. 
 
-(1) In general.
+(1) In general. 
 
-(i) Calendar day convention.
+(i) Calendar day convention. 
 
-(ii) Semi-monthly convention.
+(ii) Semi-monthly convention. 
 
-(iii) Monthly convention.
+(iii) Monthly convention. 
 
-(2) Exceptions.
+(2) Exceptions. 
 
-(3) Permissible conventions for each variation.
+(3) Permissible conventions for each variation. 
 
-(i) Rules applicable to all partnerships.
+(i) Rules applicable to all partnerships. 
 
-(ii) Publicly treated partnerships.
+(ii) Publicly treated partnerships. 
 
-(4) Examples.
+(4) Examples. 
 
-(d)(1) Optional regular monthly or semimonthly interim closings.
+(d)(1) Optional regular monthly or semimonthly interim closings. 
 
-(2) Example.
+(2) Example. 
 
-(e) Extraordinary items.
+(e) Extraordinary items. 
 
-(1) General principles.
+(1) General principles. 
 
-(2) Definition.
+(2) Definition. 
 
-(3) Small item exception.
+(3) Small item exception. 
 
-(4) Examples.
+(4) Examples. 
 
-(f) Agreement of the partners.
+(f) Agreement of the partners. 
 
-(g) Effective/applicability date.
+(g) Effective/applicability date. 
 
 § 1.706-5 Taxable year determination.
 
-(a) In general.
+(a) In general. 
 
 (b) Effective/applicability date.
 

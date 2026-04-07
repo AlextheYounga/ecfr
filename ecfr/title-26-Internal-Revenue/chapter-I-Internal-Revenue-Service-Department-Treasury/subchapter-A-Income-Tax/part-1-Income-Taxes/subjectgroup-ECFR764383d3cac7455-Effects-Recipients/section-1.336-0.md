@@ -1,283 +1,283 @@
 ##### § 1.336-0 Table of contents.
 
-This section lists captions contained in §§ 1.336-1, 1.336-2, 1.336-3, 1.336-4, and 1.336-5.
+This section lists captions contained in §§ 1.336-1, 1.336-2, 1.336-3, 1.336-4, and 1.336-5. 
 
 § 1.336-1 General principles, nomenclature, and definitions for a section 336(e) election.
 
-(a) Overview.
+(a) Overview. 
 
-(1) In general.
+(1) In general. 
 
-(2) Consistency rules.
+(2) Consistency rules. 
 
-(b) Definitions.
+(b) Definitions. 
 
-(1) Seller.
+(1) Seller. 
 
-(2) Purchaser.
+(2) Purchaser. 
 
-(3) Target; S corporation target; old target; new target.
+(3) Target; S corporation target; old target; new target. 
 
-(4) S corporation shareholders.
+(4) S corporation shareholders. 
 
-(5) Disposed of; disposition.
+(5) Disposed of; disposition. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Exception for disposition of stock in certain section 355 transactions.
+(ii) Exception for disposition of stock in certain section 355 transactions. 
 
-(iii) Transactions with related persons.
+(iii) Transactions with related persons. 
 
-(iv) No consideration paid.
+(iv) No consideration paid. 
 
-(v) Disposed of stock reacquired by certain persons.
+(v) Disposed of stock reacquired by certain persons. 
 
-(6) Qualified stock disposition.
+(6) Qualified stock disposition. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Overlap with qualified stock purchase.
+(ii) Overlap with qualified stock purchase. 
 
-(A) In general.
+(A) In general. 
 
-(B) Exception.
+(B) Exception. 
 
-(7) 12-month disposition period.
+(7) 12-month disposition period. 
 
-(8) Disposition date.
+(8) Disposition date. 
 
-(9) Disposition date assets.
+(9) Disposition date assets. 
 
-(10) Domestic corporation.
+(10) Domestic corporation. 
 
-(11) Section 336(e) election.
+(11) Section 336(e) election. 
 
-(12) Related persons.
+(12) Related persons. 
 
-(13) Liquidation.
+(13) Liquidation. 
 
-(14) Deemed asset disposition.
+(14) Deemed asset disposition. 
 
-(15) Deemed disposition tax consequences.
+(15) Deemed disposition tax consequences. 
 
-(16) 80-percent purchaser.
+(16) 80-percent purchaser. 
 
-(17) Recently disposed stock.
+(17) Recently disposed stock. 
 
-(18) Nonrecently disposed stock.
+(18) Nonrecently disposed stock. 
 
-(c) Nomenclature.
+(c) Nomenclature. 
 
 § 1.336-2 Availability, mechanics, and consequences of section 336(e) election.
 
-(a) Availability of election.
+(a) Availability of election. 
 
-(b) Deemed transaction.
+(b) Deemed transaction. 
 
-(1) Dispositions not described in section 355(d)(2) or (e)(2).
+(1) Dispositions not described in section 355(d)(2) or (e)(2). 
 
-(i) Old target—deemed asset disposition.
+(i) Old target—deemed asset disposition. 
 
-(A) In general.
+(A) In general. 
 
-(B) Gains and losses.
+(B) Gains and losses. 
 
-(*1*) Gains.
+(*1*) Gains. 
 
-(*2*) Losses.
+(*2*) Losses. 
 
-(*i*) In general.
+(*i*) In general. 
 
-(*ii*) Stock distributions.
+(*ii*) Stock distributions. 
 
-(*iii*) Amount and allocation of disallowed loss.
+(*iii*) Amount and allocation of disallowed loss. 
 
-(*iv*) Tiered targets.
+(*iv*) Tiered targets. 
 
-(*3*) Examples.
+(*3*) Examples. 
 
-(C) Tiered targets.
+(C) Tiered targets. 
 
-(ii) New target—deemed purchase.
+(ii) New target—deemed purchase. 
 
-(iii) Old target and seller—deemed liquidation.
+(iii) Old target and seller—deemed liquidation. 
 
-(A) In general.
+(A) In general. 
 
-(B) Tiered targets.
+(B) Tiered targets. 
 
-(iv) Seller—distribution of target stock.
+(iv) Seller—distribution of target stock. 
 
-(v) Seller—retention of target stock.
+(v) Seller—retention of target stock. 
 
-(2) Dispositions described in section 355(d)(2) or (e)(2).
+(2) Dispositions described in section 355(d)(2) or (e)(2). 
 
-(i) Old target—deemed asset disposition.
+(i) Old target—deemed asset disposition. 
 
-(A) In general.
+(A) In general. 
 
-(*1*) Old target not deemed to liquidate.
+(*1*) Old target not deemed to liquidate. 
 
-(*2*) Exception.
+(*2*) Exception. 
 
-(B) Gains and losses.
+(B) Gains and losses. 
 
-(*1*) Gains.
+(*1*) Gains. 
 
-(*2*) Losses.
+(*2*) Losses. 
 
-(*i*) In general.
+(*i*) In general. 
 
-(*ii*) Stock distributions.
+(*ii*) Stock distributions. 
 
-(*iii*) Amount and allocation of disallowed loss.
+(*iii*) Amount and allocation of disallowed loss. 
 
-(*iv*) Tiered targets.
+(*iv*) Tiered targets. 
 
-(*3*) Examples.
+(*3*) Examples. 
 
-(C) Tiered targets.
+(C) Tiered targets. 
 
-(ii) Old target—deemed purchase.
+(ii) Old target—deemed purchase. 
 
-(A) In general.
+(A) In general. 
 
-(B) Tiered targets.
+(B) Tiered targets. 
 
-(C) Application of section 197(f)(9), section 1091, and other provisions to old target.
+(C) Application of section 197(f)(9), section 1091, and other provisions to old target. 
 
-(iii) Seller—distribution of target stock.
+(iii) Seller—distribution of target stock. 
 
-(A) In general.
+(A) In general. 
 
-(B) Tiered targets.
+(B) Tiered targets. 
 
-(iv) Seller—retention of target stock.
+(iv) Seller—retention of target stock. 
 
-(v) Qualification under section 355.
+(v) Qualification under section 355. 
 
-(vi) Earnings and profits.
+(vi) Earnings and profits. 
 
-(c) Purchaser.
+(c) Purchaser. 
 
-(d) Minority shareholders.
+(d) Minority shareholders. 
 
-(1) In general.
+(1) In general. 
 
-(2) Sale, exchange, or distribution of target stock by a minority shareholder.
+(2) Sale, exchange, or distribution of target stock by a minority shareholder. 
 
-(3) Retention of target stock by a minority shareholder.
+(3) Retention of target stock by a minority shareholder. 
 
-(e) Treatment consistent with an actual asset disposition.
+(e) Treatment consistent with an actual asset disposition. 
 
-(f) Treatment of target under other provisions of the Internal Revenue Code.
+(f) Treatment of target under other provisions of the Internal Revenue Code. 
 
-(g) Special rules.
+(g) Special rules. 
 
-(1) Target as two corporations.
+(1) Target as two corporations. 
 
-(2) Treatment of members of a consolidated group.
+(2) Treatment of members of a consolidated group. 
 
-(3) International provisions.
+(3) International provisions. 
 
-(i) Source and foreign tax credit.
+(i) Source and foreign tax credit. 
 
-(ii) Allocation of foreign taxes.
+(ii) Allocation of foreign taxes. 
 
-(A) General rule.
+(A) General rule. 
 
-(B) Taxes imposed on partnerships and disregarded entities.
+(B) Taxes imposed on partnerships and disregarded entities. 
 
-(iii) Disallowance of foreign tax credits under section 901(m).
+(iii) Disallowance of foreign tax credits under section 901(m). 
 
-(h) Making the section 336(e) election.
+(h) Making the section 336(e) election. 
 
-(1) Consolidated group.
+(1) Consolidated group. 
 
-(2) Non-consolidated/non-S corporation target.
+(2) Non-consolidated/non-S corporation target. 
 
-(3) S corporation target.
+(3) S corporation target. 
 
-(4) Tiered targets.
+(4) Tiered targets. 
 
-(5) Section 336(e) election statement.
+(5) Section 336(e) election statement. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Target subsidiaries.
+(ii) Target subsidiaries. 
 
-(6) Contents of section 336(e) election statement.
+(6) Contents of section 336(e) election statement. 
 
-(7) Asset Allocation Statement.
+(7) Asset Allocation Statement. 
 
-(8) Examples.
+(8) Examples. 
 
-(i) \[Reserved\]
+(i) \[Reserved\] 
 
-(j) Protective section 336(e) election.
+(j) Protective section 336(e) election. 
 
-(k) Examples.
+(k) Examples. 
 
 § 1.336-3 Aggregate deemed asset disposition price; various aspects of taxation of the deemed asset disposition.
 
-(a) Scope.
+(a) Scope. 
 
-(b) Determination of ADADP.
+(b) Determination of ADADP. 
 
-(1) General rule.
+(1) General rule. 
 
-(2) Time and amount of ADADP.
+(2) Time and amount of ADADP. 
 
-(i) Original determination.
+(i) Original determination. 
 
-(ii) Redetermination of ADADP.
+(ii) Redetermination of ADADP. 
 
-(c) Grossed-up amount realized on the disposition of recently disposed stock of target.
+(c) Grossed-up amount realized on the disposition of recently disposed stock of target. 
 
-(1) Determination of amount.
+(1) Determination of amount. 
 
-(2) Example.
+(2) Example. 
 
-(d) Liabilities of old target.
+(d) Liabilities of old target. 
 
-(1) In general.
+(1) In general. 
 
-(2) Time and amount of liabilities.
+(2) Time and amount of liabilities. 
 
-(e) Deemed disposition tax consequences.
+(e) Deemed disposition tax consequences. 
 
-(f) Other rules apply in determining ADADP.
+(f) Other rules apply in determining ADADP. 
 
-(g) Examples.
+(g) Examples. 
 
 § 1.336-4 Adjusted grossed-up basis.
 
-(a) Scope.
+(a) Scope. 
 
-(b) Modifications to the principles in § 1.338-5.
+(b) Modifications to the principles in § 1.338-5. 
 
-(1) Purchasing corporation; purchaser.
+(1) Purchasing corporation; purchaser. 
 
-(2) Acquisition date; disposition date.
+(2) Acquisition date; disposition date. 
 
-(3) Section 338 election; section 338(h)(10) election; section 336(e) election.
+(3) Section 338 election; section 338(h)(10) election; section 336(e) election. 
 
-(4) New target; old target.
+(4) New target; old target. 
 
-(5) Recently purchased stock; recently disposed stock.
+(5) Recently purchased stock; recently disposed stock. 
 
-(6) Nonrecently purchased stock; nonrecently disposed stock.
+(6) Nonrecently purchased stock; nonrecently disposed stock. 
 
-(c) Gain recognition election.
+(c) Gain recognition election. 
 
-(1) In general.
+(1) In general. 
 
-(2) 80-percent purchaser.
+(2) 80-percent purchaser. 
 
-(3) Non-80-percent purchaser.
+(3) Non-80-percent purchaser. 
 
-(4) Gain recognition election statement.
+(4) Gain recognition election statement. 
 
-(d) Examples.
+(d) Examples. 
 
 § 1.336-5 Effective/applicability date.\[T.D. 9619, 78 FR 28474, May 15, 2013\]

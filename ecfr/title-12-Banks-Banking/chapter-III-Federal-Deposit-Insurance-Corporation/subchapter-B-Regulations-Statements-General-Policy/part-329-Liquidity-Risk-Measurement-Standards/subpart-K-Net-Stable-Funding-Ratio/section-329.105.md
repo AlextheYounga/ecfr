@@ -1,12 +1,12 @@
 ##### § 329.105 Calculation of required stable funding amount.
 
-(a) *Required stable funding amount.* An FDIC-supervised institution's RSF amount equals the FDIC-supervised institution's required stable funding adjustment percentage as determined under paragraph (b) of this section multiplied by the sum of:
+(a) *Required stable funding amount.* An FDIC-supervised institution's RSF amount equals the FDIC-supervised institution's required stable funding adjustment percentage as determined under paragraph (b) of this section multiplied by the sum of: 
 
-(1) The carrying values of an FDIC-supervised institution's assets (other than amounts included in the calculation of the derivatives RSF amount pursuant to § 329.107(b)) and the undrawn amounts of an FDIC-supervised institution's credit and liquidity facilities, in each case multiplied by the RSF factors applicable in § 329.106; and
+(1) The carrying values of an FDIC-supervised institution's assets (other than amounts included in the calculation of the derivatives RSF amount pursuant to § 329.107(b)) and the undrawn amounts of an FDIC-supervised institution's credit and liquidity facilities, in each case multiplied by the RSF factors applicable in § 329.106; and 
 
-(2) The FDIC-supervised institution's derivatives RSF amount calculated pursuant to § 329.107(b).
+(2) The FDIC-supervised institution's derivatives RSF amount calculated pursuant to § 329.107(b). 
 
-(b) *Required stable funding adjustment percentage.* An FDIC-supervised institution's required stable funding adjustment percentage is determined pursuant to Table 1 to this paragraph (b).
+(b) *Required stable funding adjustment percentage.* An FDIC-supervised institution's required stable funding adjustment percentage is determined pursuant to Table 1 to this paragraph (b). 
 
 Table 1 to Paragraph (b)—Required Stable Funding Adjustment Percentages
 | GSIB depository institution supervised by the FDIC                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 100 |
@@ -18,8 +18,8 @@ Table 1 to Paragraph (b)—Required Stable Funding Adjustment Percentages
 | (1) Is a consolidated subsidiary of (a) a covered depository institution holding company or U.S. intermediate holding company identified as a Category III banking organization pursuant to 12 CFR 252.5 or 12 CFR 238.10 or (b) a depository institution that meets the criteria set forth in paragraphs (2)(ii)(A) and (B) of the definition of Category III FDIC-supervised institution in this part, in each case with less than $75 billion in average weighted short-term wholesale funding; or |     |
 | (2) Has less than $75 billion in average weighted short-term wholesale funding and is not a consolidated subsidiary of (a) a covered depository institution holding company or U.S. intermediate holding company identified as a Category III banking organization pursuant to 12 CFR 252.5 or 12 CFR 238.10 or (b) a depository institution that meets the criteria set forth in paragraphs (2)(ii)(A) and (B) of the definition of Category III FDIC-supervised institution in this part.           |     |
 
-(c) *Transition into a different required stable funding adjustment percentage.* (1) An FDIC-supervised institution whose required stable funding adjustment percentage increases from a lower to a higher required stable funding adjustment percentage may continue to use its previous lower required stable funding adjustment percentage until the first day of the third calendar quarter after the required stable funding adjustment percentage increases.
+(c) *Transition into a different required stable funding adjustment percentage.* (1) An FDIC-supervised institution whose required stable funding adjustment percentage increases from a lower to a higher required stable funding adjustment percentage may continue to use its previous lower required stable funding adjustment percentage until the first day of the third calendar quarter after the required stable funding adjustment percentage increases. 
 
-(2) An FDIC-supervised institution whose required stable funding adjustment percentage decreases from a higher to a lower required stable funding adjustment percentage must continue to use its previous higher required stable funding adjustment percentage until the first day of the first calendar quarter after the required stable funding adjustment percentage decreases.
+(2) An FDIC-supervised institution whose required stable funding adjustment percentage decreases from a higher to a lower required stable funding adjustment percentage must continue to use its previous higher required stable funding adjustment percentage until the first day of the first calendar quarter after the required stable funding adjustment percentage decreases. 
 
 \[86 FR 9220, 9221, Feb. 11, 2021\]

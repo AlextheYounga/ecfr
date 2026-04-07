@@ -1,18 +1,18 @@
 ##### § 1.1014-8 Bequest, devise, or inheritance of a remainder interest.
 
-(a)(1) Where property is transferred for life, with remainder in fee, and the remainderman dies before the life tenant, no adjustment is made to the uniform basis of the property on the death of the remainderman (see paragraph (a) of § 1.1014-4). However, the basis of the remainderman's heir, legatee, or devisee for the remainder interest is determined by adding to (or subtracting from) the part of the adjusted uniform basis assigned to the remainder interest (determined in accordance with the principles set forth in §§ 1.1014-4 through 1.1014-6) the difference between—
+(a)(1) Where property is transferred for life, with remainder in fee, and the remainderman dies before the life tenant, no adjustment is made to the uniform basis of the property on the death of the remainderman (see paragraph (a) of § 1.1014-4). However, the basis of the remainderman's heir, legatee, or devisee for the remainder interest is determined by adding to (or subtracting from) the part of the adjusted uniform basis assigned to the remainder interest (determined in accordance with the principles set forth in §§ 1.1014-4 through 1.1014-6) the difference between— 
 
-(i) The value of the remainder interest included in the remainderman's estate, and
+(i) The value of the remainder interest included in the remainderman's estate, and 
 
-(ii) The basis of the remainder interest immediately prior to the remainderman's death.
+(ii) The basis of the remainder interest immediately prior to the remainderman's death. 
 
-(2) The basis of any property distributed to the heir, legatee, or devisee upon termination of a trust (or legal life estate) or at any other time (unless included in the gross income of the legatee or devisee) shall be determined by adding to (or subtracting from) the adjusted uniform basis of the property thus distributed the difference between—
+(2) The basis of any property distributed to the heir, legatee, or devisee upon termination of a trust (or legal life estate) or at any other time (unless included in the gross income of the legatee or devisee) shall be determined by adding to (or subtracting from) the adjusted uniform basis of the property thus distributed the difference between— 
 
-(i) The value of the remainder interest in the property included in the remainderman's estate, and
+(i) The value of the remainder interest in the property included in the remainderman's estate, and 
 
-(ii) The basis of the remainder interest in the property immediately prior to the remainderman's death.
+(ii) The basis of the remainder interest in the property immediately prior to the remainderman's death. 
 
-(b) The provisions of paragraph (a) of this section are illustrated by the following examples:
+(b) The provisions of paragraph (a) of this section are illustrated by the following examples: 
 
 Example 1.Assume that, under the will of a decedent, property consisting of common stock with a value of $1,000 at the time of the decedent's death is transferred in trust, to pay the income to A for life, remainder to B or to B's estate. B predeceases A and bequeaths the remainder interest to C. Assume that B dies on January 1, 1956, and that the value of the stock originally transferred is $1,600 at B's death. A's age at that time is 37. The value of the remainder interest included in B's estate is $547 (0.34185, remainder factor age 37, × $1,600), and hence $547 is C's basis for the remainder interest immediately after B's death. Assume that C sells the remainder interest on January 1, 1961, when A's age is 42. C's basis for the remainder interest at the time of such sale is $596, computed as follows:
 
