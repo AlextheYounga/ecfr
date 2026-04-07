@@ -1,42 +1,42 @@
 ##### § 165.151 Safety Zones; Fireworks Displays, Air Shows and Swim Events in the Captain of the Port Long Island Sound Zone.
 
-(a) *Regulations.* (1) The general regulations contained in 33 CFR 165.23 as well as the following regulations apply to the fireworks displays, air shows, and swim events listed in Tables 1 and 2 to § 165.151.
+(a) *Regulations.* (1) The general regulations contained in 33 CFR 165.23 as well as the following regulations apply to the fireworks displays, air shows, and swim events listed in Tables 1 and 2 to § 165.151. 
 
-(2) These regulations will be enforced for the duration of each event, on or about the dates indicated. In advance of the event, notifications will be made to the local maritime community through all appropriate means such as Local Notice to Mariners and Broadcast Notice to Mariners as to the exact dates and times of the enforcement period for an event. The USCG Northeast District Local Notice to Mariners can be found at: *http://www.navcen.uscg.gov.*
+(2) These regulations will be enforced for the duration of each event, on or about the dates indicated. In advance of the event, notifications will be made to the local maritime community through all appropriate means such as Local Notice to Mariners and Broadcast Notice to Mariners as to the exact dates and times of the enforcement period for an event. The First Coast Guard District Local Notice to Mariners can be found at: *http://www.navcen.uscg.gov.*
 
-(3) Although listed in the Code of Federal Regulations, sponsors of events listed in Tables 1 and 2 to § 165.151 are still required to submit marine event applications in accordance with 33 CFR 100.15. Each application must:
+(3) Although listed in the Code of Federal Regulations, sponsors of events listed in Tables 1 and 2 to § 165.151 are still required to submit marine event applications in accordance with 33 CFR 100.15. Each application must: 
 
-(i) Be submitted no less than 60 days before the date of the proposed event.
+(i) Be submitted no less than 60 days before the date of the proposed event. 
 
-(ii) If the proposed event does not have a specified date the sponsor shall hold the event during the month it is listed in Tables 1 or 2 to § 165.151.
+(ii) If the proposed event does not have a specified date the sponsor shall hold the event during the month it is listed in Tables 1 or 2 to § 165.151. 
 
-(iii) For those proposed events listed in Table 1 to § 165.151 to be held during the month of July, the event may take place during the final seven days of June.
+(iii) For those proposed events listed in Table 1 to § 165.151 to be held during the month of July, the event may take place during the final seven days of June. 
 
-(iv) Any proposed event not being held on the specified date or within the month listed in Tables 1 or 2 to § 165.151 shall be considered a new marine event and the sponsor shall submit a new marine event application in accordance with 33 CFR 100.15 no less than 135 days before the start of the event.
+(iv) Any proposed event not being held on the specified date or within the month listed in Tables 1 or 2 to § 165.151 shall be considered a new marine event and the sponsor shall submit a new marine event application in accordance with 33 CFR 100.15 no less than 135 days before the start of the event. 
 
-(b) *Definitions.* The following definitions apply to this section:
+(b) *Definitions.* The following definitions apply to this section: 
 
-(1) *Designated representative.* A “designated representative” is any Coast Guard commissioned, warrant or petty officer of the U.S. Coast Guard who has been designated by the Captain of the Port (COTP), Sector Long Island Sound (LIS), to act on his or her behalf. The designated representative may be on an official patrol vessel or may be on shore and will communicate with vessels via VHF-FM radio or loudhailer. In addition, members of the Coast Guard Auxiliary may be present to inform vessel operators of this regulation.
+(1) *Designated representative.* A “designated representative” is any Coast Guard commissioned, warrant or petty officer of the U.S. Coast Guard who has been designated by the Captain of the Port (COTP), Sector Long Island Sound (LIS), to act on his or her behalf. The designated representative may be on an official patrol vessel or may be on shore and will communicate with vessels via VHF-FM radio or loudhailer. In addition, members of the Coast Guard Auxiliary may be present to inform vessel operators of this regulation. 
 
-(2) *Official patrol vessels.* Official patrol vessels may consist of any Coast Guard, Coast Guard Auxiliary, state, or local law enforcement vessels assigned or approved by the COTP.
+(2) *Official patrol vessels.* Official patrol vessels may consist of any Coast Guard, Coast Guard Auxiliary, state, or local law enforcement vessels assigned or approved by the COTP. 
 
-(3) *Spectators.* All persons and vessels not registered with the event sponsor as participants or official patrol vessels.
+(3) *Spectators.* All persons and vessels not registered with the event sponsor as participants or official patrol vessels. 
 
-(c) Vessel operators desiring to enter or operate within the regulated areas should contact the COTP at 203-468-4401 (Sector LIS command center) or the designated representative via VHF channel 16 to obtain permission to do so.
+(c) Vessel operators desiring to enter or operate within the regulated areas should contact the COTP at 203-468-4401 (Sector LIS command center) or the designated representative via VHF channel 16 to obtain permission to do so. 
 
-(d) Spectators or other vessels shall not anchor, block, loiter, or impede the transit of event participants or official patrol vessels in the regulated areas during the effective dates and times, or dates and times as modified through the Local Notice to Mariners, unless authorized by COTP or designated representative.
+(d) Spectators or other vessels shall not anchor, block, loiter, or impede the transit of event participants or official patrol vessels in the regulated areas during the effective dates and times, or dates and times as modified through the Local Notice to Mariners, unless authorized by COTP or designated representative. 
 
-(e) Upon being hailed by a U.S. Coast Guard vessel or the designated representative, by siren, radio, flashing light or other means, the operator of the vessel shall proceed as directed. Failure to comply with a lawful direction may result in expulsion from the area, citation for failure to comply, or both.
+(e) Upon being hailed by a U.S. Coast Guard vessel or the designated representative, by siren, radio, flashing light or other means, the operator of the vessel shall proceed as directed. Failure to comply with a lawful direction may result in expulsion from the area, citation for failure to comply, or both. 
 
-(f) The COTP or designated representative may delay or terminate any marine event in this subpart at any time it is deemed necessary to ensure the safety of life or property.
+(f) The COTP or designated representative may delay or terminate any marine event in this subpart at any time it is deemed necessary to ensure the safety of life or property. 
 
-(g) The regulated area for all fireworks displays listed in Table 1 to § 165.151 is that area of navigable waters within a 1000 foot radius of the launch platform or launch site for each fireworks display, unless otherwise noted in Table 1 to § 165.151 or modified in USCG Northeast District Local Notice to Mariners at: *http://www.navcen.uscg.gov/.*
+(g) The regulated area for all fireworks displays listed in Table 1 to § 165.151 is that area of navigable waters within a 1000 foot radius of the launch platform or launch site for each fireworks display, unless otherwise noted in Table 1 to § 165.151 or modified in USCG First District Local Notice to Mariners at: *http://www.navcen.uscg.gov/.*
 
-(h) The regulated area for all air shows is the entire geographic area described as the location for that show unless otherwise noted in Table 1 to § 165.151 or modified in USCG Northeast District Local Notice to Mariners at: *http://www.navcen.uscg.gov/.*
+(h) The regulated area for all air shows is the entire geographic area described as the location for that show unless otherwise noted in Table 1 to § 165.151 or modified in USCG First District Local Notice to Mariners at: *http://www.navcen.uscg.gov/.*
 
-(i) Fireworks barges used in these locations will also have a sign on their port and starboard side labeled “FIREWORKS—STAY AWAY”. This sign will consist of 10 inch high by 1.5 inch wide red lettering on a white background. Shore sites used in these locations will display a sign labeled “FIREWORKS—STAY AWAY” with the same dimensions. These zones will be enforced from 8:30 p.m. to 10:30 p.m. each day a barge with a “FIREWORKS—STAY AWAY” sign on the port and starboard side is on-scene or a “FIREWORKS—STAY AWAY” sign is posted in a location listed in Table 1 to § 165.151.
+(i) Fireworks barges used in these locations will also have a sign on their port and starboard side labeled “FIREWORKS—STAY AWAY”. This sign will consist of 10 inch high by 1.5 inch wide red lettering on a white background. Shore sites used in these locations will display a sign labeled “FIREWORKS—STAY AWAY” with the same dimensions. These zones will be enforced from 8:30 p.m. to 10:30 p.m. each day a barge with a “FIREWORKS—STAY AWAY” sign on the port and starboard side is on-scene or a “FIREWORKS—STAY AWAY” sign is posted in a location listed in Table 1 to § 165.151. 
 
-(j) For all swim events listed in Table 2 to § 165.151, vessels not associated with the event shall maintain a separation of at least 100 yards from the participants.
+(j) For all swim events listed in Table 2 to § 165.151, vessels not associated with the event shall maintain a separation of at least 100 yards from the participants. 
 
 Table 1 to § 165.151
 | 4                                                                         | April                                                                                                                                                                      |
@@ -139,4 +139,4 @@ Table 2 to § 165.151
 | 1.7 US Coast Guard Triathlon Swim                | • Date: A single day during August.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |                                                  | • Location: All navigable waters of the Thames River, New London Harbor off Fort Trumbull State Park around a half mile long course that is west of the Federal navigation channel in New London, CT. Formed by connecting the following points. Beginning at point (A) 41°20′40.03″ N, 072°05′32.15″ W; then east to point (B) 41°20′40.08″ N, 072°05′22.03″ W, then north to point (C) 41°20′48.29N, 072°05′23.19″ W; then north west to point (D) 41°20′50.84″ N, 072°05′29.29″ W, then south west to end point (E) 41°20′46.41″ N, 072°05′35.77″ W, (NAD 83). |
 
-\[USCG-2008-0384, 77 FR 6958, Feb. 10, 2012, as amended by USCG-2012-1036, 78 FR 31406, May 24, 2013; USCG-2014-0410, 79 FR 38442, July 7, 2014; USCG-2018-0532, 85 FR 5570, Jan. 31, 2020; 85 FR 11294, Feb. 27, 2020; USCG-2020-0082, 85 FR 38073, June 25, 2020; USCG-2021-0135, 86 FR 50262, Sept. 8, 2021; USCG-2023-0001, 88 FR 38404, June 13, 2023; USCG-2025-0716, 90 FR 47587, Oct. 2, 2025\]
+\[USCG-2008-0384, 77 FR 6958, Feb. 10, 2012, as amended by USCG-2012-1036, 78 FR 31406, May 24, 2013; USCG-2014-0410, 79 FR 38442, July 7, 2014; USCG-2018-0532, 85 FR 5570, Jan. 31, 2020; 85 FR 11294, Feb. 27, 2020; USCG-2020-0082, 85 FR 38073, June 25, 2020; USCG-2021-0135, 86 FR 50262, Sept. 8, 2021; USCG-2023-0001, 88 FR 38404, June 13, 2023\]

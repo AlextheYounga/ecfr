@@ -1,6 +1,6 @@
 ##### § 72.230 Procedures for spent fuel storage cask submittals.
 
-(a) An application for approval of a spent fuel storage cask design must be submitted in accordance with the instructions contained in § 72.4. A safety analysis report describing the proposed cask design and how the cask should be used to store spent fuel safely must be included with the application.
+(a) An application for approval of a spent fuel storage cask design must be submitted in accordance with the instructions contained in § 72.4. A safety analysis report describing the proposed cask design and how the cask should be used to store spent fuel safely must be included with the application.*Public inspection.*
 
 (b) Casks that have been certified for transportation of spent fuel under part 71 of this chapter may be approved for storage of spent fuel under this subpart. An application must be submitted in accordance with the instructions contained in § 72.4, for a proposed term not to exceed 40 years. A copy of the CoC issued for the cask under part 71 of this chapter, and drawings and other documents referenced in the certificate, must be included with the application. A safety analysis report showing that the cask is suitable for storage of spent fuel, for the term proposed in the application, must also be included.
 

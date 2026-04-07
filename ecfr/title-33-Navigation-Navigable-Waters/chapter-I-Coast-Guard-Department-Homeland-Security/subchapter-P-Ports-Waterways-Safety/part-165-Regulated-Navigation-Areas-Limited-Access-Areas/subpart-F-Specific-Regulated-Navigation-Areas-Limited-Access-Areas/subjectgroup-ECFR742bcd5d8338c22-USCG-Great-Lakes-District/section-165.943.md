@@ -1,16 +1,14 @@
 ##### § 165.943 Safety Zones; Recurring Events in Captain of the Port Duluth Zone.
 
-Link to an amendment published at 90 FR 53219, Nov. 25, 2025.
+(a) *Regulations.* The following regulations apply to the safety zones listed in Table 1 to this section: 
 
-(a) *Regulations.* The following regulations apply to the safety zones listed in Table 1 to this section:
+(1) The Coast Guard will provide advance notice of the enforcement date and time of the safety zone being enforced in Table 1 to this section, by issuing a Notice of Enforcement, as well as a Broadcast Notice to Mariners. 
 
-(1) The Coast Guard will provide advance notice of the enforcement date and time of the safety zone being enforced in Table 1 to this section, by issuing a Notice of Enforcement, as well as a Broadcast Notice to Mariners.
+(2) During the enforcement period, the general regulations found in § 165.23 shall apply. 
 
-(2) During the enforcement period, the general regulations found in § 165.23 shall apply.
+(b) *Contacting the Captain of the Port.* While a safety zone listed in this section is enforced, the Captain of the Port Duluth or his or her on-scene representative may be contacted via VHF Channel 16. Vessel operators given permission to enter or operate in the safety zone must comply with all directions given to them by the Captain of the Port Duluth, or his or her on-scene representative. 
 
-(b) *Contacting the Captain of the Port.* While a safety zone listed in this section is enforced, the Captain of the Port Duluth or his or her on-scene representative may be contacted via VHF Channel 16. Vessel operators given permission to enter or operate in the safety zone must comply with all directions given to them by the Captain of the Port Duluth, or his or her on-scene representative.
-
-(c) *Exemption.* Public vessels, defined as any vessel owned or operated by the United States or by State or local governments, operating in an official capacity are exempted from the requirements of this section.
+(c) *Exemption.* Public vessels, defined as any vessel owned or operated by the United States or by State or local governments, operating in an official capacity are exempted from the requirements of this section. 
 
 Table 1 to § 165.943
 

@@ -1,6 +1,6 @@
 ##### § 72.48 Changes, tests, and experiments.
 
-(a) Definitions for the purposes of this section:
+(a) Definitions for the purposes of this section:*Change*
 
 (1) *Change* means a modification or addition to, or removal from, the facility or spent fuel storage cask design or procedures that affects a design function, method of performing or controlling the function, or an evaluation that demonstrates that intended functions will be accomplished.
 

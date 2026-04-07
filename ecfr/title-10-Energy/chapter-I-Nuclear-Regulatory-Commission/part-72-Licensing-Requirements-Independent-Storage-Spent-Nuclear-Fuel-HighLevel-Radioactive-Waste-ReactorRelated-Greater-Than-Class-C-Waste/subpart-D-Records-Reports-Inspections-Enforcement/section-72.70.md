@@ -1,6 +1,6 @@
 ##### § 72.70 Safety analysis report updating.
 
-(a) Each specific licensee for an ISFSI or MRS shall update periodically, as provided in paragraphs (b) and (c) of this section, the final safety analysis report (FSAR) to assure that the information included in the report contains the latest information developed.
+(a) Each specific licensee for an ISFSI or MRS shall update periodically, as provided in paragraphs (b) and (c) of this section, the final safety analysis report (FSAR) to assure that the information included in the report contains the latest information developed.1*http://www.nrc.gov/site-help/e-submittals.html.*
 
 (1) Each licensee shall submit an original FSAR to the Commission, in accordance with § 72.4, within 90 days after issuance of the license.
 

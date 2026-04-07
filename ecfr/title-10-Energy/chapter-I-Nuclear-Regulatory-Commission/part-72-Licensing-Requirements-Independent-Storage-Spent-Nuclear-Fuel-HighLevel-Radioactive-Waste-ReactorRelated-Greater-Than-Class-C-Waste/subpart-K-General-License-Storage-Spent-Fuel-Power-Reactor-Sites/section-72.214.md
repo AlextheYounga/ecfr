@@ -2,7 +2,7 @@
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
-Certificate Number: 1004.
+Certificate Number: 1004.TM*Initial Certificate Effective Date:*
 
 Initial Certificate Effective Date: January 23, 1995, superseded by Initial Certificate, Revision 1, on April 25, 2017, superseded by Renewed Initial Certificate, Revision 1, on December 11, 2017.
 
@@ -492,4 +492,4 @@ Amendment Number 3 \[Reserved\]
 
 *Model Number:* EOS-37PTH, EOS-89BTH, 61BTH Type 2.
 
-\[55 FR 29191, July 18, 1990\] Editorial Note:For Federal Register citations affecting § 72.214, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+\[55 FR 29191, July 18, 1990\] Editorial Note:For Federal Register citations affecting § 72.214, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 90 FR 56662, Dec. 8, 2025.

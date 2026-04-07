@@ -1,32 +1,32 @@
 ##### § 165.160 Safety Zones; Recurring Fireworks Displays and Swim Events Held in Coast Guard Sector New York Zone.
 
-(a) *Regulations.* The general regulations in subpart C of this part as well as the following regulations apply to the safety zones associated with the recurring fireworks displays and swim events listed in tables 1 or 2 to this section, respectively.
+(a) *Regulations.* The general regulations in subpart C of this part as well as the following regulations apply to the safety zones associated with the recurring fireworks displays and swim events listed in tables 1 or 2 to this section, respectively. 
 
-(1) Under the general safety zone regulations in subpart C of this part, no person may enter the safety zone described in table 1 or 2 of this section unless authorized by the Captain of the Port (COTP) or the COTP's Designated Representative.
+(1) Under the general safety zone regulations in subpart C of this part, no person may enter the safety zone described in table 1 or 2 of this section unless authorized by the Captain of the Port (COTP) or the COTP's Designated Representative. 
 
-(2) To seek permission to enter the designated safety zone, contact the COTP or the COTP's Designated Representative via VHF-FM Marine Channel 16, or by contacting the Coast Guard Sector New York command center at 718-354-4356.
+(2) To seek permission to enter the designated safety zone, contact the COTP or the COTP's Designated Representative via VHF-FM Marine Channel 16, or by contacting the Coast Guard Sector New York command center at 718-354-4356. 
 
-(3) Event organizers must ensure that fireworks barges have signage on their port and starboard side labeled “Fireworks—Stay Away”. This sign will consist of 10-inch-high by 1.5-inch-wide red lettering on a white background.
+(3) Event organizers must ensure that fireworks barges have signage on their port and starboard side labeled “Fireworks—Stay Away”. This sign will consist of 10-inch-high by 1.5-inch-wide red lettering on a white background. 
 
-(4) Shore sites used in these locations will display a sign labeled “Fireworks—Stay Away” with the same dimensions.
+(4) Shore sites used in these locations will display a sign labeled “Fireworks—Stay Away” with the same dimensions. 
 
-(b) *Definitions.* As used in this section:
+(b) *Definitions.* As used in this section: 
 
-*Designated representative* means any Coast Guard commissioned, warrant or petty officer of the U.S. Coast Guard who has been designated by the Captain of the Port to act on his or her behalf. The designated representative may be on an official patrol vessel or may be on shore and will communicate with vessels via VHF-FM radio or loudhailer. In addition, members of the Coast Guard Auxiliary may be present to inform vessel operators of this regulation.
+*Designated representative* means any Coast Guard commissioned, warrant or petty officer of the U.S. Coast Guard who has been designated by the Captain of the Port to act on his or her behalf. The designated representative may be on an official patrol vessel or may be on shore and will communicate with vessels via VHF-FM radio or loudhailer. In addition, members of the Coast Guard Auxiliary may be present to inform vessel operators of this regulation. 
 
-*Official Patrol Vessels* means any Coast Guard, Coast Guard Auxiliary, state, or local law enforcement vessels assigned as an on- scene representative or approved by the COTP.
+*Official Patrol Vessels* means any Coast Guard, Coast Guard Auxiliary, state, or local law enforcement vessels assigned as an on- scene representative or approved by the COTP. 
 
-*Spectators* means all persons and vessels not registered with the event sponsor as participants or official patrol vessels.
+*Spectators* means all persons and vessels not registered with the event sponsor as participants or official patrol vessels. 
 
-(c) *Enforcement periods.* (1) Safety zones for fireworks-display events listed in Table 1 of this section will be subject to enforcement for approximately one hour between 6 p.m. to 1 a.m. when a barge with a “Fireworks—Stay Away” sign on the port and starboard side is on-scene or a “Fireworks—Stay Away” sign is posted in a location listed in Table 1 to § 165.160.
+(c) *Enforcement periods.* (1) Safety zones for fireworks-display events listed in Table 1 of this section will be subject to enforcement for approximately one hour between 6 p.m. to 1 a.m. when a barge with a “Fireworks—Stay Away” sign on the port and starboard side is on-scene or a “Fireworks—Stay Away” sign is posted in a location listed in Table 1 to § 165.160. 
 
-(2) The regulations in this section will be subject to enforcement for the duration of each event on or about the dates indicated in Table 2 of this section.
+(2) The regulations in this section will be subject to enforcement for the duration of each event on or about the dates indicated in Table 2 of this section. 
 
-(3) For events in Tables 1 and 2 that do not have a date or location listed, or if the event occurs on a date or location other than the one that is listed, then exact dates and times of the enforcement period will be announced via marine broadcast, local notice to mariners, distribution in leaflet form, local news media, or by an on-scene oral notice as appropriate.
+(3) For events in Tables 1 and 2 that do not have a date or location listed, or if the event occurs on a date or location other than the one that is listed, then exact dates and times of the enforcement period will be announced via marine broadcast, local notice to mariners, distribution in leaflet form, local news media, or by an on-scene oral notice as appropriate. 
 
-(4) Notifications of enforcement times for events listed in Table 1 and 2, including any changes to the enforcement dates or times listed in this section, may be made via marine broadcasts, local notice to mariners, local news media, distribution in leaflet form, or by an on-scene oral notice and signage.
+(4) Notifications of enforcement times for events listed in Table 1 and 2, including any changes to the enforcement dates or times listed in this section, may be made via marine broadcasts, local notice to mariners, local news media, distribution in leaflet form, or by an on-scene oral notice and signage. 
 
-(d) *Location.* If the specific location of a safety zone for fireworks displays is not listed in Table 1, an announcement will be made by marine broadcast, local notice to mariners, distribution in leaflet form, local news media, or by an on-scene oral notice as appropriate. The specific locations of swim event safety zones are listed in Table 2. Any modification to the location of safety zones described in this section will be listed in USCG Northeast District Local Notice to Mariners at: *http://www.navcen.uscg.gov/.*
+(d) *Location.* If the specific location of a safety zone for fireworks displays is not listed in Table 1, an announcement will be made by marine broadcast, local notice to mariners, distribution in leaflet form, local news media, or by an on-scene oral notice as appropriate. The specific locations of swim event safety zones are listed in Table 2. Any modification to the location of safety zones described in this section will be listed in USCG First District Local Notice to Mariners at: *http://www.navcen.uscg.gov/.*
 
 Table 1 to § 165.160—Fireworks Displays
 | 1.0 Event                                                                         | Location 1                                                                                                                                                                                                                                                                       |
@@ -48,4 +48,4 @@ Table 2 to § 165.160—Swim Events
 | 1.6 New York Harbor, Liberty Island to Morris Canal Swim                          | Date: One weekend in July.   Location: The safety zone includes all navigable waters of the New York Harbor bound by the following coordinates:   40°41′27″ N, 74°02′25″ W, thence to   40°41′22″ N, 74°02′13″ W, to   40°41′36″ N, 74°02′04″ W, to   40°42′39″ N, 74°01′42″ W, to   40°42′42″ N, 74°02′05″ W, to   40°42′31″ N, 74°01′55″ W, thence back to the point of origin.                                                                                                                   |
 | 1 All coordinates listed in Table 2 to § 165.01-165.160 reference Datum NAD 1983. |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-\[USCG-2023-0075, 88 FR 55574, Aug. 16, 2023, as amended by USCG-2025-0716, 90 FR 47587, Oct. 2, 2025\]
+\[USCG-2023-0075, 88 FR 55574, Aug. 16, 2023\]

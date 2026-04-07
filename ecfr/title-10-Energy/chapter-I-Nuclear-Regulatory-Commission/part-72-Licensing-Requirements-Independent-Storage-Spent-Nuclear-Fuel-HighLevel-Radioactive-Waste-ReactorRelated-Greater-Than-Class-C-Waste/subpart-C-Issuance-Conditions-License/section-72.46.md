@@ -1,6 +1,6 @@
 ##### § 72.46 Public hearings.
 
-(a) In connection with each application for a license under this part, the Commission shall issue or cause to be issued a notice of proposed action and opportunity for hearing in accordance with § 2.105 or § 2.1107 of this chapter, as appropriate, or, if the Commission finds that a hearing is required in the public interest, a notice of hearing in accordance with § 2.104 of this chapter.
+(a) In connection with each application for a license under this part, the Commission shall issue or cause to be issued a notice of proposed action and opportunity for hearing in accordance with § 2.105 or § 2.1107 of this chapter, as appropriate, or, if the Commission finds that a hearing is required in the public interest, a notice of hearing in accordance with § 2.104 of this chapter.Federal Register
 
 (b)(1) In connection with each application for an amendment to a license under this part, the Commission shall, except as provided in paragraph (b)(2) of this section, issue or cause to be issued a notice of proposed action and opportunity for hearing in accordance with § 2.105 or § 2.1107 of this chapter, as appropriate, or, if the Commission finds that a hearing is required in the public interest, a notice of hearing in accordance with § 2.104 of this chapter.
 

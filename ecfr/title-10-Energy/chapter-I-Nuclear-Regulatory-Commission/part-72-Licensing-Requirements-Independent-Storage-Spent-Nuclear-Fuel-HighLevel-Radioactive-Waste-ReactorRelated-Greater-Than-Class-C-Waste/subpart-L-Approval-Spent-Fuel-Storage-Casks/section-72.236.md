@@ -1,6 +1,6 @@
 ##### § 72.236 Specific requirements for spent fuel storage cask approval and fabrication.
 
-The certificate holder and applicant for a CoC shall ensure that the requirements of this section are met.
+The certificate holder and applicant for a CoC shall ensure that the requirements of this section are met.*i.e.,*
 
 (a) Specifications must be provided for the spent fuel to be stored in the spent fuel storage cask, such as, but not limited to, type of spent fuel (*i.e.,* BWR, PWR, both), maximum allowable enrichment of the fuel prior to any irradiation, burn-up (*i.e.,* megawatt-days/MTU), minimum acceptable cooling time of the spent fuel prior to storage in the spent fuel storage cask, maximum heat designed to be dissipated, maximum spent fuel loading limit, condition of the spent fuel (*i.e.,* intact assembly or consolidated fuel rods), the inerting atmosphere requirements.
 

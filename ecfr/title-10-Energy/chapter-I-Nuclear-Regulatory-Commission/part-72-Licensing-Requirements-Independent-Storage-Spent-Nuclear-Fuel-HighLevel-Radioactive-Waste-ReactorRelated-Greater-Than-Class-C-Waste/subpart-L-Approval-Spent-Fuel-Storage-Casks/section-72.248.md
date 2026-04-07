@@ -1,6 +1,6 @@
 ##### § 72.248 Safety analysis report updating.
 
-(a) Each certificate holder for a spent fuel storage cask design shall update periodically, as provided in paragraph (b) of this section, the final safety analysis report (FSAR) to assure that the information included in the report contains the latest information developed.
+(a) Each certificate holder for a spent fuel storage cask design shall update periodically, as provided in paragraph (b) of this section, the final safety analysis report (FSAR) to assure that the information included in the report contains the latest information developed.1*http://www.nrc.gov/site-help/e-submittals.html.*
 
 (1) Each certificate holder shall submit an original FSAR to the Commission, in accordance with § 72.4, within 90 days after the spent fuel storage cask design has been approved pursuant to § 72.238.
 
