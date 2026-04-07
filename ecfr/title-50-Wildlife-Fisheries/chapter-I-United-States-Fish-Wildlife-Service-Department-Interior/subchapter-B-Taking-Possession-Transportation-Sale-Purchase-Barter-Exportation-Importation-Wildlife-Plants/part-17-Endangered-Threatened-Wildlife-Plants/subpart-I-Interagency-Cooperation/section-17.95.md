@@ -274,11 +274,11 @@ Jaguar (*Panthera onca*)
 
 (5) *Note:* Index map follows:
 
-![](/graphics/er22jy21.021.gif)
+![](/graphics/er30my24.016.gif)
 
 (6) Units 1, 2, 3, and 4: Baboquivari, Atascosa, Patagonia, and Whetstone Units, Pima, Santa Cruz, and Cochise Counties, Arizona. Map of Units 1, 2, 3, and 4 follows:
 
-![](/graphics/er05mr14.003.gif)
+![](/graphics/er30my24.017.gif)
 
 (7) Unit 5: Peloncillo Unit, Cochise County, Arizona. Map of Unit 5 follows:
 
@@ -9076,33 +9076,31 @@ Map follows:
 
 (ii) *Seasonally Specific Primary Constituent Elements.* (A) Primary Constituent Element 2—Breeding habitat composed of sagebrush plant communities that, in general, have the structural characteristics within the ranges described in the following table. Habitat structure values are average values over a project area. Breeding habitat includes lek, nesting, and early brood-rearing habitats used typically March 15 through July 15. Early brood-rearing habitat may include agricultural fields.
 
-| Vegetation variable     | Amount in   habitat     |
-| ----------------------- | ----------------------- |
-| Sagebrush Canopy        | 10-25 percent.          |
-| Non-sagebrush Canopy \* | 5-15 percent.           |
-| Total Shrub Canopy      | 15-40 percent.          |
-| Sagebrush Height        | 9.8-19.7 in (25-50 cm). |
-| Grass Cover             | 10-40 percent.          |
-| Forb Cover              | 5-40 percent.           |
-| Grass Height            | 3.9-5.9 in (10-15 cm).  |
-| Forb Height             | 2.0-5.9 in (5-15 cm).   |
-
-\* Includes shrubs such as horsebrush (Tetradymia spp.), rabbitbrush (Chrysothamnus spp.), bitterbrush (Purshia spp.), snakeweed (Gutierrezia sarothrae), greasewood (Sarcobatus spp.), winterfat (Eurotia lanata), Gambel's oak (Quercus gambelii), snowberry (Symphoricarpos oreophilus), serviceberry (Amelanchier spp.), and chokecherry (Prunus virginiana).
+| Vegetation variable                                                                                                                                                                                                                                                                                                                                               | Amount in   habitat     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Sagebrush Canopy                                                                                                                                                                                                                                                                                                                                                  | 10-25 percent.          |
+| Non-sagebrush Canopy \*                                                                                                                                                                                                                                                                                                                                           | 5-15 percent.           |
+| Total Shrub Canopy                                                                                                                                                                                                                                                                                                                                                | 15-40 percent.          |
+| Sagebrush Height                                                                                                                                                                                                                                                                                                                                                  | 9.8-19.7 in (25-50 cm). |
+| Grass Cover                                                                                                                                                                                                                                                                                                                                                       | 10-40 percent.          |
+| Forb Cover                                                                                                                                                                                                                                                                                                                                                        | 5-40 percent.           |
+| Grass Height                                                                                                                                                                                                                                                                                                                                                      | 3.9-5.9 in (10-15 cm).  |
+| Forb Height                                                                                                                                                                                                                                                                                                                                                       | 2.0-5.9 in (5-15 cm).   |
+| \* Includes shrubs such as horsebrush (Tetradymia spp.), rabbitbrush (Chrysothamnus spp.), bitterbrush (Purshia spp.), snakeweed (Gutierrezia sarothrae), greasewood (Sarcobatus spp.), winterfat (Eurotia lanata), Gambel's oak (Quercus gambelii), snowberry (Symphoricarpos oreophilus), serviceberry (Amelanchier spp.), and chokecherry (Prunus virginiana). |                         |
 
 (B) Primary Constituent Element 3—Summer-late fall habitat composed of sagebrush plant communities that, in general, have the structural characteristics within the ranges described in the following table. Habitat structure values are average values over a project area. Summer-fall habitat includes sagebrush communities having the referenced habitat structure values, as well as agricultural fields and wet meadow or riparian habitat types. Wet meadows and riparian habitats are also included qualitatively under PCE 5 at paragraph (2)(ii)(D) of this entry.
 
-| Vegetation variable     | Amount in   habitat     |
-| ----------------------- | ----------------------- |
-| Sagebrush Canopy        | 5-20 percent.           |
-| Non-sagebrush Canopy \* | 5-15 percent.           |
-| Total Shrub Canopy      | 10-35 percent.          |
-| Sagebrush Height        | 9.8-19.7 in (25-50 cm). |
-| Grass Cover             | 10-35 percent.          |
-| Forb Cover              | 5-35 percent.           |
-| Grass Height            | 3.9-5.9 in (10-15 cm).  |
-| Forb Height             | 1.2-3.9 in (3-10 cm).   |
-
-\* Includes shrubs such as horsebrush (Tetradymia spp.), rabbitbrush (Chrysothamnus spp.), bitterbrush (Purshia spp.), snakeweed (Gutierrezia sarothrae), greasewood (Sarcobatus spp.), winterfat (Eurotia lanata), Gambel's oak (Quercus gambelii), snowberry (Symphoricarpos oreophilus), serviceberry (Amelanchier spp.), and chokecherry (Prunus virginiana).
+| Vegetation variable                                                                                                                                                                                                                                                                                                                                               | Amount in   habitat     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Sagebrush Canopy                                                                                                                                                                                                                                                                                                                                                  | 5-20 percent.           |
+| Non-sagebrush Canopy \*                                                                                                                                                                                                                                                                                                                                           | 5-15 percent.           |
+| Total Shrub Canopy                                                                                                                                                                                                                                                                                                                                                | 10-35 percent.          |
+| Sagebrush Height                                                                                                                                                                                                                                                                                                                                                  | 9.8-19.7 in (25-50 cm). |
+| Grass Cover                                                                                                                                                                                                                                                                                                                                                       | 10-35 percent.          |
+| Forb Cover                                                                                                                                                                                                                                                                                                                                                        | 5-35 percent.           |
+| Grass Height                                                                                                                                                                                                                                                                                                                                                      | 3.9-5.9 in (10-15 cm).  |
+| Forb Height                                                                                                                                                                                                                                                                                                                                                       | 1.2-3.9 in (3-10 cm).   |
+| \* Includes shrubs such as horsebrush (Tetradymia spp.), rabbitbrush (Chrysothamnus spp.), bitterbrush (Purshia spp.), snakeweed (Gutierrezia sarothrae), greasewood (Sarcobatus spp.), winterfat (Eurotia lanata), Gambel's oak (Quercus gambelii), snowberry (Symphoricarpos oreophilus), serviceberry (Amelanchier spp.), and chokecherry (Prunus virginiana). |                         |
 
 (C) Primary Constituent Element 4—Winter habitat composed of sagebrush plant communities that, in general, have sagebrush canopy cover between 30 to 40 percent and sagebrush height of 15.8 to 21.7 in (40 to 55 cm). These habitat structure values are average values over a project area. Winter habitat includes sagebrush areas within currently occupied habitat that are available (*i.e.*, not covered by snow) to Gunnison sage-grouse during average winters.
 
@@ -21164,7 +21162,6 @@ Figure 13 to Longsolid (*Fusconaia subrotunda*) paragraph (17)(ii) ![](/graphics
 (ii) *Protected species and critical habitat units.* A table listing the protected species, their respective critical habitat units, and the States that contain those habitat units follows. Detailed critical habitat unit descriptions and maps appear below the table.
 
 Table 1 to Nine Mobile River Basin Mussel Species Paragraph (2)(ii)
-
 | Species                                         | Critical habitat units                                                      | States          |
 | ----------------------------------------------- | --------------------------------------------------------------------------- | --------------- |
 | Ovate clubshell (Pleurobema perovatum)          | Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 21, 24, 25, 26 | AL, GA, MS, TN. |
@@ -21404,7 +21401,6 @@ Figure 28 to Nine Mobile River Basin Mussel Species Paragraph (2)(xxviii)(B) Uni
 (ii) Table of protected species and critical habitat units. A table listing the protected species, their respective critical habitat units, and the States that contain those habitat units follows. Detailed critical habitat unit descriptions and maps appear below the table.
 
 Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habitat Units, and States Containing Those Critical Habitat Units
-
 | Species                                             | Critical habitat units     | States             |
 | --------------------------------------------------- | -------------------------- | ------------------ |
 | purple bean (Villosa perpurpurea)                   | Units 3, 4, 5, 7           | TN, VA             |
