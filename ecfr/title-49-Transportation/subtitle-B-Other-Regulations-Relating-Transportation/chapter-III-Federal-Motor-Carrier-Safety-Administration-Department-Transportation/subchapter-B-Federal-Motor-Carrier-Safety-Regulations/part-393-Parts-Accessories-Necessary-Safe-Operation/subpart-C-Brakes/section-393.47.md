@@ -6,7 +6,7 @@
 
 (c) *Slack adjusters.* The effective length of the slack adjuster on each end of an axle must be the same.
 
-(d) *Linings and pads.* The thickness of the brake linings or pads shall meet the applicable requirements of this paragraph -
+(d) *Linings and pads.* The thickness of the brake linings or pads shall meet the applicable requirements of this paragraph—
 
 (1) *Steering axle brakes.* The brake lining/pad thickness on the steering axle of a truck, truck-tractor or bus shall not be less than 4.8 mm ( 3/16 inch) at the shoe center for a shoe with a continuous strip of lining; less than 6.4 mm ( 1/4 inch) at the shoe center for a shoe with two pads; or worn to the wear indicator if the lining is so marked, for air drum brakes. The steering axle brake lining/pad thickness shall not be less than 3.2 mm ( 1/8 inch) for air disc brakes, or 1.6 mm ( 1/16 inch) or less for hydraulic disc, drum and electric brakes.
 
@@ -15,30 +15,25 @@
 (e) *Clamp, Bendix DD-3, bolt-type, and rotochamber brake actuator readjustment limits.* (1) The pushrod stroke must not be greater than the values specified in the following tables:
 
 Clamp-Type Brake Chambers
-
-| Type | Outside diameter     | Brake readjustment limit: standard stroke chamber | Brake readjustment limit: long stroke chamber |
-| ---- | -------------------- | ------------------------------------------------- | --------------------------------------------- |
-| 6    | 4 1/2 in. (114 mm)   | 1 1/4 in. (31.8 mm)                               |                                               |
-| 9    | 5 1/4 in. (133 mm)   | 1 3/8 in. (34.9 mm)                               |                                               |
-| 12   | 5 11/16 in. (145 mm) | 1 3/8 in. (34.9 mm)                               | 1 3/4 in. (44.5 mm).                          |
-| 16   | 6 3/8 in. (162 mm)   | 1 3/4 in. (44.5 mm)                               | 2 in. (50.8 mm).                              |
-| 20   | 6 25/32 in. (172 mm) | 1 3/4 in. (44.5 mm)                               | 2 in. (50.8 mm).   2 1/2 in. (63.5 mm). 1     |
-| 24   | 7 7/32 in. (184 mm)  | 1 3/4 in. (44.5 mm)                               | 2 in. (50.8 mm).   2 1/2 in. (63.5 mm). 2     |
-| 30   | 8 3/32 in. (206 mm)  | 2 in. (50.8 mm)                                   | 2 1/2 in. (63.5 mm).                          |
-| 36   | 9 in. (229 mm)       | 2 1/4 in. (57.2 mm)                               |                                               |
-
-1 For type 20 chambers with a 3-inch (76 mm) rated stroke.
-
-2 For type 24 chambers with a 3-inch (76 mm) rated stroke.
+| Type                                                       | Outside diameter     | Brake readjustment limit: standard stroke chamber | Brake readjustment limit: long stroke chamber |
+| ---------------------------------------------------------- | -------------------- | ------------------------------------------------- | --------------------------------------------- |
+| 6                                                          | 4 1/2 in. (114 mm)   | 1 1/4 in. (31.8 mm)                               |                                               |
+| 9                                                          | 5 1/4 in. (133 mm)   | 1 3/8 in. (34.9 mm)                               |                                               |
+| 12                                                         | 5 11/16 in. (145 mm) | 1 3/8 in. (34.9 mm)                               | 1 3/4 in. (44.5 mm).                          |
+| 16                                                         | 6 3/8 in. (162 mm)   | 1 3/4 in. (44.5 mm)                               | 2 in. (50.8 mm).                              |
+| 20                                                         | 6 25/32 in. (172 mm) | 1 3/4 in. (44.5 mm)                               | 2 in. (50.8 mm).   2 1/2 in. (63.5 mm).1      |
+| 24                                                         | 7 7/32 in. (184 mm)  | 1 3/4 in. (44.5 mm)                               | 2 in. (50.8 mm).   2 1/2 in. (63.5 mm).2      |
+| 30                                                         | 8 3/32 in. (206 mm)  | 2 in. (50.8 mm)                                   | 2 1/2 in. (63.5 mm).                          |
+| 36                                                         | 9 in. (229 mm)       | 21/2 in. (63.5 mm)                                |                                               |
+| 1 For type 20 chambers with a 3-inch (76 mm) rated stroke. |                      |                                                   |                                               |
+| 2 For type 24 chambers with a 3-inch (76 mm) rated stroke. |                      |                                                   |                                               |
 
 Bendix DD-3 Brake Chambers
-
 | Type | Outside diameter   | Brake readjustment limit |
 | ---- | ------------------ | ------------------------ |
 | 30   | 8 1/8 in. (206 mm) | 2 1/4 in. (57.2 mm).     |
 
 Bolt-Type Brake Chambers
-
 | Type | Outside diameter     | Brake readjustment limit |
 | ---- | -------------------- | ------------------------ |
 | A    | 6 15/16 in. (176 mm) | 1 3/8 in. (34.9 mm).     |
@@ -50,7 +45,6 @@ Bolt-Type Brake Chambers
 | G    | 9 7/8 in. (251 mm)   | 2 in. (50.8 mm).         |
 
 Rotochamber-Type Brake Chambers
-
 | Type | Outside diameter     | Brake readjustment limit |
 | ---- | -------------------- | ------------------------ |
 | 9    | 4 9/32 in. (109 mm)  | 1 1/2 in. (38.1 mm).     |
@@ -68,4 +62,4 @@ Rotochamber-Type Brake Chambers
 
 (g) *Drums and rotors.* The thickness of the drums or rotors shall not be less than the limits established by the brake drum or rotor manufacturer.
 
-\[70 FR 48051, Aug. 15, 2005, as amended at 77 FR 46638, Aug. 6, 2012\]
+\[70 FR 48051, Aug. 15, 2005, as amended at 77 FR 46638, Aug. 6, 2012; 86 FR 57076, Oct. 14, 2021\]
