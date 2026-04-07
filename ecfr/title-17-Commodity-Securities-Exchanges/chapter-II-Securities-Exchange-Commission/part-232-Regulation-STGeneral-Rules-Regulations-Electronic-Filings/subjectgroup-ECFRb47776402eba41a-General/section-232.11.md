@@ -1,6 +1,6 @@
 ##### § 232.11 Definition of terms used in this part.
 
-Unless otherwise specifically provided, the terms used in Regulation S-T (part 232 of this chapter) have the same meanings as in the federal securities laws and the rules, regulations and forms promulgated thereunder. In addition, the following definitions of terms apply specifically to electronic format documents and shall apply wherever they appear in laws, rules, regulations and forms governing such documents, unless the context otherwise specifies:
+Unless otherwise specifically provided, the terms used in Regulation S-T (part 232 of this chapter) have the same meanings as in the federal securities laws and the rules, regulations and forms promulgated thereunder. In addition, the following definitions of terms apply specifically to electronic format documents and shall apply wherever they appear in laws, rules, regulations and forms governing such documents, unless the context otherwise specifies:*Account administrator.*
 
 *Account administrator.* The term *account administrator* means an individual that the electronic filer authorizes to manage its EDGAR account and to make filings on EDGAR on the electronic filer's behalf.
 

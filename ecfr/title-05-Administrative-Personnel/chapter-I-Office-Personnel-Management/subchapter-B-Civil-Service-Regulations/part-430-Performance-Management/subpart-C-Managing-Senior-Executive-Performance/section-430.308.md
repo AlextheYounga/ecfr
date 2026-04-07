@@ -1,25 +1,27 @@
 ##### § 430.308 Appraising performance.
 
-(a) Agencies must establish appropriate timelines for communicating performance plans, conducting appraisals, and assigning and communicating annual summary ratings. 
+Link to an amendment published at 90 FR 44299, Sept. 15, 2025.
 
-(b) At least annually, agencies must appraise each senior executive's performance in writing, including through the use of automated systems, and assign an annual summary rating at the end of the appraisal period. 
+(a) Agencies must establish appropriate timelines for communicating performance plans, conducting appraisals, and assigning and communicating annual summary ratings.
 
-(c) Agencies must appraise a senior executive's performance on the critical elements and performance requirements in the senior executive's performance plan. 
+(b) At least annually, agencies must appraise each senior executive's performance in writing, including through the use of automated systems, and assign an annual summary rating at the end of the appraisal period.
 
-(d) Agencies must base appraisals of senior executive performance on both individual and organizational performance as it applies to the senior executive's area of responsibility and control, taking into account factors such as— 
+(c) Agencies must appraise a senior executive's performance on the critical elements and performance requirements in the senior executive's performance plan.
 
-(1) Results achieved in accordance with agency mission and strategic planning initiatives; 
+(d) Agencies must base appraisals of senior executive performance on both individual and organizational performance as it applies to the senior executive's area of responsibility and control, taking into account factors such as—
 
-(2) Overall quality of performance rendered by the executive, 
+(1) Results achieved in accordance with agency mission and strategic planning initiatives;
 
-(3) Performance appraisal guidelines that must be based upon assessments of the agency's performance and are provided by the oversight official to senior executives, rating and reviewing officials, PRB members, and appointing authorities at the conclusion of the appraisal period and before completion of the initial summary ratings; 
+(2) Overall quality of performance rendered by the executive,
 
-(4) Customer perspectives; 
+(3) Performance appraisal guidelines that must be based upon assessments of the agency's performance and are provided by the oversight official to senior executives, rating and reviewing officials, PRB members, and appointing authorities at the conclusion of the appraisal period and before completion of the initial summary ratings;
 
-(5) Employee perspectives; 
+(4) Customer perspectives;
 
-(6) The effectiveness, productivity, and performance results of the employees for whom the senior executive is responsible; 
+(5) Employee perspectives;
 
-(7) Leadership effectiveness in promoting diversity, inclusion and engagement as set forth, in part, under section 7201 of title 5, United States Code; and 
+(6) The effectiveness, productivity, and performance results of the employees for whom the senior executive is responsible;
+
+(7) Leadership effectiveness in promoting diversity, inclusion and engagement as set forth, in part, under section 7201 of title 5, United States Code; and
 
 (8) Compliance with the merit system principles set forth under section 2301 of title 5, United States Code.

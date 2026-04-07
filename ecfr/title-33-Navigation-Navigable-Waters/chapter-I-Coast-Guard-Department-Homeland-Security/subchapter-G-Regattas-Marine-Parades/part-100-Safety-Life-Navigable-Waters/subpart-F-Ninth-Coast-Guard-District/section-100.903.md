@@ -1,23 +1,23 @@
 ##### § 100.903 Recurring marine events in the Lake Michigan Captain of the Port Zone.
 
-(a) *General.* (1) The regulations in this section, along with the regulations of § 100.901, apply to the marine events listed in table 1 to this section.
+(a) *General.* (1) The regulations in this section, along with the regulations of § 100.901, apply to the marine events listed in table 1 to this section. 
 
-(2) The regulations in this section will be enforced for the duration of each event, on or about the dates indicated. Notice of the exact dates and times of the effective period of the regulations in this section with respect to each event, the location of the regulated area, and details concerning of the event will be made public by publication in the Local Notices to Mariners and/or Broadcast Notice to Mariners over VHF-FM radio.
+(2) The regulations in this section will be enforced for the duration of each event, on or about the dates indicated. Notice of the exact dates and times of the effective period of the regulations in this section with respect to each event, the location of the regulated area, and details concerning of the event will be made public by publication in the Local Notices to Mariners and/or Broadcast Notice to Mariners over VHF-FM radio. 
 
-(3) The dates and times of these events are subject to change. In the event of a change to these events, the Coast Guard will publish a Notice of Enforcement with the exact dates and times that the regulated area will be enforced.
+(3) The dates and times of these events are subject to change. In the event of a change to these events, the Coast Guard will publish a Notice of Enforcement with the exact dates and times that the regulated area will be enforced. 
 
-(4) Sponsors of events listed in table 1 to § this section are still required to submit applications for marine event permits in accordance with § 100.15.
+(4) Sponsors of events listed in table 1 to § this section are still required to submit applications for marine event permits in accordance with § 100.15. 
 
-(b) *Special Local Regulations.* (1) No vessel may enter, transit through, or anchor within the regulated area of any event listed in table 1 to this section which has been advertised in accordance with paragraph (a)(2) above without the permission of the Coast Guard Patrol Commander.
+(b) *Special Local Regulations.* (1) No vessel may enter, transit through, or anchor within the regulated area of any event listed in table 1 to this section which has been advertised in accordance with paragraph (a)(2) above without the permission of the Coast Guard Patrol Commander. 
 
-(2) Vessel operators desiring to enter or operate within the regulated area shall contact the Coast Guard Patrol Commander to obtain permission to do so. Vessel operators given permission to enter or operate within the regulated area must comply with all directions given to them by the Coast Guard Patrol Commander.
+(2) Vessel operators desiring to enter or operate within the regulated area shall contact the Coast Guard Patrol Commander to obtain permission to do so. Vessel operators given permission to enter or operate within the regulated area must comply with all directions given to them by the Coast Guard Patrol Commander. 
 
-(3) All geographic coordinates in table 1 to this section are North American Datum of 1983 (NAD 83).
+(3) All geographic coordinates in table 1 to this section are North American Datum of 1983 (NAD 83). 
 
 Table 1 to § 100.903
 | Event                                               | Sector Lake Michigan special local regulations                                                                                                                                                            | Date                                                               |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| (1) Harborfest Dragon Boat Raceand                  | South Haven, MI: All waters of the Black River, within an area bound by the following coordinates:                                                                                                        | 2 days; in mid-to-late June.                                       |
+| (1) Harborfest Dragon Boat Race                     | South Haven, MI: All waters of the Black River, within an area bound by the following coordinates:                                                                                                        | 2 days; in mid-to-late June.                                       |
 |                                                     | 42°24.227′ N, 086°16.683′ W, then southeast to                                                                                                                                                            |                                                                    |
 |                                                     | 42°24.210′ N, 086°16.667′ W, then northeast to                                                                                                                                                            |                                                                    |
 |                                                     | 42°24.320′ N, 086°16.442′ W, then northwest to                                                                                                                                                            |                                                                    |

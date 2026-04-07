@@ -8,13 +8,15 @@
 
 IN ACCORDANCE WITH RULE 201 OF REGULATION S-T, THIS (*specify document*) IS BEING FILED IN PAPER PURSUANT TO A TEMPORARY HARDSHIP EXEMPTION
 
+IN ACCORDANCE WITH THE TEMPORARY HARDSHIP EXEMPTION PROVIDED BY RULE 201 OF REGULATION S-T, THE DATE BY WHICH THE ASSET DATA FILE IS REQUIRED TO BE SUBMITTED HAS BEEN EXTENDED BY SIX BUSINESS DAYS.
+
 (3) Signatures to the paper format document may be in typed form rather than manual format. See Rule 302 of Regulation S-T (§ 232.302). All other requirements relating to paper format filings shall be satisfied.
 
 (4) If the exemption pertains to a document filed pursuant to section 13(a) or 15(d) of the Exchange Act (15 U.S.C. 78m and 78o(d)) or section 30 of the Investment Company Act and the paper format document is filed in the manner specified in paragraph (a) of this section, the filing shall be deemed to have been filed by its required due date.
 
 Notes to paragraph (a):
 
-1\. Where a temporary hardship exemption relates to an exhibit only, the filer must file the paper format exhibit and a Form TH (§§ 239.65, 249.447, 269.10, and 274.404 of this chapter) under cover of Form SE (§§ 239.64, 249.444, 269.8, and 274.403 of this chapter).
+1\. Where a temporary hardship exemption relates to an exhibit only, the filer must file the paper format exhibit and a Form TH (§§ 239.65, 249.447, 269.10, and 274.404 of this chapter) under cover of Form SE (§§ 239.64, 249.444, 269.8, and 274.403 of this chapter).*see*
 
 2\. Filers unable to submit a report within a prescribed time period because of electronic difficulties shall comply with the provisions of this section and shall not use Form 12b-25 (§ 249.322 of this chapter) as a notification of late filing.
 

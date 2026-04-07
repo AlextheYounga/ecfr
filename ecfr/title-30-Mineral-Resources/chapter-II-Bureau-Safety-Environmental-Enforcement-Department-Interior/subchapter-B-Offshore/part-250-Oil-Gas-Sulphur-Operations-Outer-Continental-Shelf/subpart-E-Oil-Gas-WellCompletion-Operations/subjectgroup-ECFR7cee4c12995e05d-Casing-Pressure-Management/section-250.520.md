@@ -1,6 +1,6 @@
 ##### § 250.520 How often do I have to monitor for casing pressure?
 
-You must monitor for casing pressure in your well according to the following table:
+You must monitor for casing pressure in your well according to the following table: 
 
 | If you have . . .                                                                  | you must monitor . . . | with a minimum one pressure data point recorded per . . . |
 | ---------------------------------------------------------------------------------- | ---------------------- | --------------------------------------------------------- |

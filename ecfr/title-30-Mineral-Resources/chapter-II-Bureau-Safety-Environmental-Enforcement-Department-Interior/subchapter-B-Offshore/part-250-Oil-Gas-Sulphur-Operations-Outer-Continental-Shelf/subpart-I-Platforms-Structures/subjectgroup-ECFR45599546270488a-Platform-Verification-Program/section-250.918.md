@@ -1,8 +1,8 @@
 ##### § 250.918 What are the CVA's primary duties during the installation phase?
 
-(a) The CVA must use good engineering judgment and practice in conducting an independent assessment of the installation activities.
+(a) The CVA must use good engineering judgment and practice in conducting an independent assessment of the installation activities. 
 
-(b) Primary duties of the CVA during the installation phase include the following:
+(b) Primary duties of the CVA during the installation phase include the following: 
 
 | The CVA must . . .                                                                                                                                                                                                                                                                            | Operation or equipment to be inspected . . .                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,16 +24,16 @@
 | (4) Conduct an onsite survey,                                                                                                                                                                                                                                                                 | Survey the platform after transportation to the approved location.                                                                                          |
 | (5) Spot-check as necessary to determine compliance with the applicable documents listed in § 250.901(a); the alternative codes, rules and standards approved under § 250.901(b); the requirements listed in § 250.903 and §§ 250.906 through 250.908 of this subpart and the approved plans, | (i) Equipment;   (ii) Procedures; and   (iii) Recordkeeping.                                                                                                |
 
-(c) The CVA must submit interim reports and a final report to the Regional Supervisor, and to you, during the installation phase in accordance with the approved schedule required by § 250.911(d). In each interim and final report the CVA must:
+(c) The CVA must submit interim reports and a final report to the Regional Supervisor, and to you, during the installation phase in accordance with the approved schedule required by § 250.911(d). In each interim and final report the CVA must: 
 
-(1) Give details of how, by whom, and when the independent monitoring activities were conducted;
+(1) Give details of how, by whom, and when the independent monitoring activities were conducted; 
 
-(2) Describe the CVA's activities during the verification process;
+(2) Describe the CVA's activities during the verification process; 
 
-(3) Summarize the CVA's findings;
+(3) Summarize the CVA's findings; 
 
-(4) Confirm or deny compliance with the approved installation plan;
+(4) Confirm or deny compliance with the approved installation plan; 
 
-(5) In the final report, make a recommendation to accept or reject the installation unless such a recommendation has been previously made in an interim report; and
+(5) In the final report, make a recommendation to accept or reject the installation unless such a recommendation has been previously made in an interim report; and 
 
 (6) Provide any additional comments that the CVA deems necessary.

@@ -8,7 +8,7 @@
 
 (iii) Statements, reports, and schedules filed with the Commission pursuant to sections 13, 14, 14A(d), 15(d), or 16(a) of the Exchange Act (15 U.S.C. 78m, 78n, 78n-1(d), 78o(d), and 78p(a)), and proxy materials required to be furnished for the information of the Commission pursuant to §§ 240.14a-3 and 240.14c-3 of this chapter (Rules 14a-3 and 14c-3) or in connection with annual reports on Form 10-K (§ 249.310 of this chapter) filed pursuant to section 15(d) of the Exchange Act;
 
-Note 1 to paragraph (a)(1)(iii).
+Note 1 to paragraph (a)(1)(iii). a
 
 Electronic filers filing Schedules 13D and 13G with respect to foreign private issuers should include in the submission header all zeroes (*i.e.,* 00-0000000) for the Internal Revenue Service (IRS) tax identification number because the EDGAR system requires an IRS number tag to be inserted for the subject company as a prerequisite to acceptance of the filing.
 

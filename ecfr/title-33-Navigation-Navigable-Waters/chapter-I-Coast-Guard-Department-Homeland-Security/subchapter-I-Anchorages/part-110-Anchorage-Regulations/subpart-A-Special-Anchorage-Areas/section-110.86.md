@@ -1,8 +1,8 @@
 ##### § 110.86 Sodus Bay, NY.
 
-The water area in Sodus Bay, New York, south of Sand Point, two separate sections, enclosed by:
+The water area in Sodus Bay, New York, south of Sand Point, two separate sections, enclosed by: 
 
-(a) Eastern Section, beginning at a point on the shoreline at:
+(a) Eastern Section, beginning at a point on the shoreline at: 
 
 | Latitude                                              | Longitude          |
 | ----------------------------------------------------- | ------------------ |
@@ -13,7 +13,7 @@ The water area in Sodus Bay, New York, south of Sand Point, two separate section
 | thence along the natural shoreline and structures to: |                    |
 | 43°15′58.1″ N                                         | 076°58′34.0″ W.    |
 
-(b) Western Section, beginning at a point on the shoreline at:
+(b) Western Section, beginning at a point on the shoreline at: 
 
 | Latitude                                              | Longitude          |
 | ----------------------------------------------------- | ------------------ |

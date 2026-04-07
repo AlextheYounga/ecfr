@@ -1,231 +1,233 @@
 ##### § 982.4 Definitions.
 
-(a) *Definitions found elsewhere.* (1) The following terms are defined in 24 CFR part 5, subpart A: 1937 Act, Covered person, Drug, Drug-related criminal activity, federally assisted housing, Guest, Household, HUD, MSA, Other person under the tenant's control, Public housing, Section 8, and Violent criminal activity.
+Link to an amendment published at 89 FR 38293, May 7, 2024.
 
-(2) The following terms are defined in 24 CFR part 5, subpart D: Disabled family, Elderly family, Near-elderly family, and Person with disabilities.
+(a) *Definitions found elsewhere.* (1) The following terms are defined in 24 CFR part 5, subpart A: 1937 Act, Covered person, Drug, Drug-related criminal activity, federally assisted housing, Guest, Household, HUD, MSA, Other person under the tenant's control, Public housing, Section 8, and Violent criminal activity. 
 
-(3) The following terms are defined in 24 CFR part 5, subpart F: Adjusted income, Annual income, Extremely low income family, Total tenant payment, Utility allowance, and Welfare assistance.
+(2) The following terms are defined in 24 CFR part 5, subpart D: Disabled family, Elderly family, Near-elderly family, and Person with disabilities. 
 
-(b) In addition to the terms listed in paragraph (a) of this section, the following definitions apply:
+(3) The following terms are defined in 24 CFR part 5, subpart F: Adjusted income, Annual income, Extremely low income family, Total tenant payment, Utility allowance, and Welfare assistance. 
 
-*Abatement.* Stopping HAP payments to an owner with no potential for retroactive payment.
+(b) In addition to the terms listed in paragraph (a) of this section, the following definitions apply: 
 
-*Absorption.* For purposes of subpart H, the point at which a receiving PHA starts making assistance payments with funding under its consolidated ACC, rather than billing, the initial PHA.
+*Abatement.* Stopping HAP payments to an owner with no potential for retroactive payment. 
 
-*Administrative fee.* Fee paid by HUD to the PHA for administration of the program. See § 982.152.
+*Absorption.* For purposes of subpart H, the point at which a receiving PHA starts making assistance payments with funding under its consolidated ACC, rather than billing, the initial PHA. 
 
-*Administrative fee reserve* (formerly “operating reserve”). Account established by PHA from excess administrative fee income. The administrative fee reserve must be used for housing purposes. See § 982.155.
+*Administrative fee.* Fee paid by HUD to the PHA for administration of the program. See § 982.152. 
 
-*Administrative Plan.* The plan that describes PHA policies for administration of the HCV program. See § 982.54.
+*Administrative fee reserve* (formerly “operating reserve”). Account established by PHA from excess administrative fee income. The administrative fee reserve must be used for housing purposes. See § 982.155. 
 
-*Admission.* The point when the family becomes a participant in the program. The date used for this purpose is the effective date of the first HAP contract for a family (first day of initial lease term) in the tenant-based program.
+*Administrative Plan.* The plan that describes PHA policies for administration of the HCV program. See § 982.54. 
 
-*Applicant* (applicant family). A family that has applied for admission to the HCV program but is not yet a program participant.
+*Admission.* The point when the family becomes a participant in the program. The date used for this purpose is the effective date of the first HAP contract for a family (first day of initial lease term) in the tenant-based program. 
 
-*Authorized voucher units.* The number of units for which a PHA is authorized to make assistance payments to owners under its annual contributions contract.
+*Applicant* (applicant family). A family that has applied for admission to the HCV program but is not yet a program participant. 
 
-*Budget authority.* An amount authorized and appropriated by the Congress for payment to PHAs under the HCV program. For each funding increment in the program, budget authority is the maximum amount that may be paid by HUD to the PHA over the ACC term of the funding increment.
+*Authorized voucher units.* The number of units for which a PHA is authorized to make assistance payments to owners under its annual contributions contract. 
 
-*Building.* A structure with a roof and walls that contains one or more dwelling units.
+*Budget authority.* An amount authorized and appropriated by the Congress for payment to PHAs under the HCV program. For each funding increment in the program, budget authority is the maximum amount that may be paid by HUD to the PHA over the ACC term of the funding increment. 
 
-*Common space.* In shared housing: Space available for use by the assisted family and other occupants of the unit.
+*Building.* A structure with a roof and walls that contains one or more dwelling units. 
 
-*Congregate housing.* Housing for elderly persons or persons with disabilities that meets the HQS for congregate housing. A special housing type: see § 982.606 to § 982.609.
+*Common space.* In shared housing: Space available for use by the assisted family and other occupants of the unit. 
 
-*Continuously assisted.* An applicant is continuously assisted under the 1937 Act if the family is already receiving assistance under any 1937 Act program when the family is admitted to the HCV program.
+*Congregate housing.* Housing for elderly persons or persons with disabilities that meets the HQS for congregate housing. A special housing type: see § 982.606 to § 982.609. 
 
-*Cooperative.* Housing owned by a corporation or association, and where a member of the corporation or association has the right to reside in a particular unit, and to participate in management of the housing.
+*Continuously assisted.* An applicant is continuously assisted under the 1937 Act if the family is already receiving assistance under any 1937 Act program when the family is admitted to the HCV program. 
 
-*Cooperative member.* A family of which one or more members owns membership shares in a cooperative.
+*Cooperative.* Housing owned by a corporation or association, and where a member of the corporation or association has the right to reside in a particular unit, and to participate in management of the housing. 
 
-*Domicile.* The legal residence of the household head or spouse as determined in accordance with State and local law.
+*Cooperative member.* A family of which one or more members owns membership shares in a cooperative. 
 
-*Downpayment assistance grant.* A form of homeownership assistance in the homeownership option: A single downpayment assistance grant for the family. If a family receives a downpayment assistance grant, a PHA may not make monthly homeownership assistance payments for the family. A downpayment assistance grant is applied to the downpayment for purchase of the home or reasonable and customary closing costs required in connection with purchase of the home.
+*Domicile.* The legal residence of the household head or spouse as determined in accordance with State and local law. 
 
-*Fair market rent (FMR).* The rent, including the cost of utilities (except telephone), as established by HUD for units of varying sizes (by number of bedrooms), that must be paid in the housing market area to rent privately owned, existing, decent, safe and sanitary rental housing of modest (non-luxury) nature with suitable amenities. In the HCV program, the FMR may be established at the ZIP code level (see definition of Small Area Fair Market Rents), metropolitan area level, or non-metropolitan county level.
+*Downpayment assistance grant.* A form of homeownership assistance in the homeownership option: A single downpayment assistance grant for the family. If a family receives a downpayment assistance grant, a PHA may not make monthly homeownership assistance payments for the family. A downpayment assistance grant is applied to the downpayment for purchase of the home or reasonable and customary closing costs required in connection with purchase of the home. 
 
-*Family.* A person or group of persons, as determined by the PHA consistent with 24 CFR 5.403, approved to reside in a unit with assistance under the program. See “family composition” at § 982.201(c).
+*Fair market rent (FMR).* The rent, including the cost of utilities (except telephone), as established by HUD for units of varying sizes (by number of bedrooms), that must be paid in the housing market area to rent privately owned, existing, decent, safe and sanitary rental housing of modest (non-luxury) nature with suitable amenities. In the HCV program, the FMR may be established at the ZIP code level (see definition of Small Area Fair Market Rents), metropolitan area level, or non-metropolitan county level. 
 
-*Family rent to owner.* In the voucher program, the portion of rent to owner paid by the family. For calculation of family rent to owner, see § 982.515(b).
+*Family.* A person or group of persons, as determined by the PHA consistent with 24 CFR 5.403, approved to reside in a unit with assistance under the program. See “family composition” at § 982.201(c). 
 
-*Family self-sufficiency program* (FSS program). The program established by a PHA in accordance with 24 CFR part 984 to promote self-sufficiency of assisted families, including the coordination of supportive services (42 U.S.C. 1437u).
+*Family rent to owner.* In the voucher program, the portion of rent to owner paid by the family. For calculation of family rent to owner, see § 982.515(b). 
 
-*Family share.* The portion of rent and utilities paid by the family. For calculation of family share, see § 982.515(a).
+*Family self-sufficiency program* (FSS program). The program established by a PHA in accordance with 24 CFR part 984 to promote self-sufficiency of assisted families, including the coordination of supportive services (42 U.S.C. 1437u). 
 
-*Family unit size.* The appropriate number of bedrooms for a family, as determined by the PHA under the PHA subsidy standards.
+*Family share.* The portion of rent and utilities paid by the family. For calculation of family share, see § 982.515(a). 
 
-*First-time homeowner.* In the homeownership option: A family of which no member owned any present ownership interest in a residence of any family member during the three years before commencement of homeownership assistance for the family. The term “first-time homeowner” includes a single parent or displaced homemaker (as those terms are defined in 12 U.S.C. 12713) who, while married, owned a home with his or her spouse, or resided in a home owned by his or her spouse.
+*Family unit size.* The appropriate number of bedrooms for a family, as determined by the PHA under the PHA subsidy standards. 
 
-*Foster adult.* A member of the household who is 18 years of age or older and meets the definition of a foster adult under State law. In general, a foster adult is a person who is 18 years of age or older, is unable to live independently due to a debilitating physical or mental condition and is placed with the family by an authorized placement agency or by judgment, decree, or other order of any court of competent jurisdiction.
+*First-time homeowner.* In the homeownership option: A family of which no member owned any present ownership interest in a residence of any family member during the three years before commencement of homeownership assistance for the family. The term “first-time homeowner” includes a single parent or displaced homemaker (as those terms are defined in 12 U.S.C. 12713) who, while married, owned a home with his or her spouse, or resided in a home owned by his or her spouse. 
 
-*Foster child.* A member of the household who meets the definition of a foster child under State law. In general, a foster child is placed with the family by an authorized placement agency (*e.g.,* public child welfare agency) or by judgment, decree, or other order of any court of competent jurisdiction.
+*Foster adult.* A member of the household who is 18 years of age or older and meets the definition of a foster adult under State law. In general, a foster adult is a person who is 18 years of age or older, is unable to live independently due to a debilitating physical or mental condition and is placed with the family by an authorized placement agency or by judgment, decree, or other order of any court of competent jurisdiction. 
 
-*Funding increment.* Each commitment of budget authority by HUD to a PHA under the consolidated annual contributions contract for the PHA program.
+*Foster child.* A member of the household who meets the definition of a foster child under State law. In general, a foster child is placed with the family by an authorized placement agency (*e.g.,* public child welfare agency) or by judgment, decree, or other order of any court of competent jurisdiction. 
 
-*Gross rent.* The sum of the rent to owner plus any utility allowance.
+*Funding increment.* Each commitment of budget authority by HUD to a PHA under the consolidated annual contributions contract for the PHA program. 
 
-*Group home.* A dwelling unit that is licensed by a State as a group home for the exclusive residential use of two to twelve persons who are elderly or persons with disabilities (including any live-in aide). A special housing type: see § 982.610 to § 982.614.
+*Gross rent.* The sum of the rent to owner plus any utility allowance. 
 
-*HAP contract.* Housing assistance payments contract.
+*Group home.* A dwelling unit that is licensed by a State as a group home for the exclusive residential use of two to twelve persons who are elderly or persons with disabilities (including any live-in aide). A special housing type: see § 982.610 to § 982.614. 
 
-*Home.* In the homeownership option: A dwelling unit for which the PHA pays homeownership assistance.
+*HAP contract.* Housing assistance payments contract. 
 
-*Homeowner.* In the homeownership option: A family of which one or more members owns title to the home.
+*Home.* In the homeownership option: A dwelling unit for which the PHA pays homeownership assistance. 
 
-*Homeownership assistance.* Assistance for a family under the homeownership option. There are two alternative and mutually exclusive forms of homeownership assistance by a PHA for a family: monthly homeownership assistance payments, or a single downpayment assistance grant. Either form of homeownership assistance may be paid to the family, or to a mortgage lender on behalf of the family.
+*Homeowner.* In the homeownership option: A family of which one or more members owns title to the home. 
 
-*Homeownership expenses.* In the homeownership option: A family's allowable monthly expenses for the home, as determined by the PHA in accordance with HUD requirements (see § 982.635).
+*Homeownership assistance.* Assistance for a family under the homeownership option. There are two alternative and mutually exclusive forms of homeownership assistance by a PHA for a family: monthly homeownership assistance payments, or a single downpayment assistance grant. Either form of homeownership assistance may be paid to the family, or to a mortgage lender on behalf of the family. 
 
-*Homeownership option.* Assistance for a homeowner or cooperative member under § 982.625 to § 982.641. A special housing type.
+*Homeownership expenses.* In the homeownership option: A family's allowable monthly expenses for the home, as determined by the PHA in accordance with HUD requirements (see § 982.635). 
 
-*Housing assistance payment.* The monthly assistance payment by a PHA, which includes:
+*Homeownership option.* Assistance for a homeowner or cooperative member under § 982.625 to § 982.641. A special housing type. 
 
-(1) A payment to the owner for rent to the owner under the family's lease; and
+*Housing assistance payment.* The monthly assistance payment by a PHA, which includes: 
 
-(2) An additional payment to the family if the total assistance payment exceeds the rent to owner.
+(1) A payment to the owner for rent to the owner under the family's lease; and 
 
-*Housing quality standards (HQS).* The minimum quality standards developed by HUD in accordance with 24 CFR 5.703 for the HCV program, including any variations approved by HUD for the PHA under 24 CFR 5.705(a)(3).
+(2) An additional payment to the family if the total assistance payment exceeds the rent to owner. 
 
-*Independent entity.* (i) The unit of general local government; however, if the PHA itself is the unit of general local government or an agency of such government, then only the next level of general local government (or an agency of such government) or higher may serve as the independent entity; or
+*Housing quality standards (HQS).* The minimum quality standards developed by HUD in accordance with 24 CFR 5.703 for the HCV program, including any variations approved by HUD for the PHA under 24 CFR 5.705(a)(3). 
 
-(ii) A HUD-approved entity that is autonomous and recognized under State law as a separate legal entity from the PHA. The entity must not be connected financially (except regarding compensation for services performed for PHA-owned units) or in any other manner that could result in the PHA improperly influencing the entity.
+*Independent entity.* (i) The unit of general local government; however, if the PHA itself is the unit of general local government or an agency of such government, then only the next level of general local government (or an agency of such government) or higher may serve as the independent entity; or 
 
-*Initial PHA.* In portability, the term refers to both:
+(ii) A HUD-approved entity that is autonomous and recognized under State law as a separate legal entity from the PHA. The entity must not be connected financially (except regarding compensation for services performed for PHA-owned units) or in any other manner that could result in the PHA improperly influencing the entity. 
 
-(1) a PHA that originally selected a family that later decides to move out of the jurisdiction of the selecting PHA; and
+*Initial PHA.* In portability, the term refers to both: 
 
-(2) a PHA that absorbed a family that later decides to move out of the jurisdiction of the absorbing PHA.
+(1) a PHA that originally selected a family that later decides to move out of the jurisdiction of the selecting PHA; and 
 
-*Initial payment standard.* The payment standard at the beginning of the HAP contract term.
+(2) a PHA that absorbed a family that later decides to move out of the jurisdiction of the absorbing PHA. 
 
-*Initial rent to owner.* The rent to owner at the beginning of the HAP contract term.
+*Initial payment standard.* The payment standard at the beginning of the HAP contract term. 
 
-*Interest in the home.* In the homeownership option:
+*Initial rent to owner.* The rent to owner at the beginning of the HAP contract term. 
 
-(1) In the case of assistance for a homeowner, “interest in the home” includes title to the home, any lease or other right to occupy the home, or any other present interest in the home.
+*Interest in the home.* In the homeownership option: 
 
-(2) In the case of assistance for a cooperative member, “interest in the home” includes ownership of membership shares in the cooperative, any lease or other right to occupy the home, or any other present interest in the home.
+(1) In the case of assistance for a homeowner, “interest in the home” includes title to the home, any lease or other right to occupy the home, or any other present interest in the home. 
 
-*Jurisdiction.* The area in which the PHA has authority under State and local law to administer the program.
+(2) In the case of assistance for a cooperative member, “interest in the home” includes ownership of membership shares in the cooperative, any lease or other right to occupy the home, or any other present interest in the home. 
 
-*Lease.* (1) A written agreement between an owner and a tenant for the leasing of a dwelling unit to the tenant. The lease establishes the conditions for occupancy of the dwelling unit by a family with housing assistance payments under a HAP contract between the owner and the PHA.
+*Jurisdiction.* The area in which the PHA has authority under State and local law to administer the program. 
 
-(2) In cooperative housing, a written agreement between a cooperative and a member of the cooperative. The agreement establishes the conditions for occupancy of the member's cooperative dwelling unit by the member's family with housing assistance payments to the cooperative under a HAP contract between the cooperative and the PHA. For purposes of this part 982, the cooperative is the Section 8 “owner” of the unit, and the cooperative member is the Section 8 “tenant.”
+*Lease.* (1) A written agreement between an owner and a tenant for the leasing of a dwelling unit to the tenant. The lease establishes the conditions for occupancy of the dwelling unit by a family with housing assistance payments under a HAP contract between the owner and the PHA. 
 
-*Manufactured home.* A manufactured structure that is built on a permanent chassis, is designed for use as a principal place of residence, and meets the HQS. A special housing type: see § 982.620 and § 982.621.
+(2) In cooperative housing, a written agreement between a cooperative and a member of the cooperative. The agreement establishes the conditions for occupancy of the member's cooperative dwelling unit by the member's family with housing assistance payments to the cooperative under a HAP contract between the cooperative and the PHA. For purposes of this part 982, the cooperative is the Section 8 “owner” of the unit, and the cooperative member is the Section 8 “tenant.” 
 
-*Manufactured home space.* In manufactured home space rental: A space leased by an owner to a family. A manufactured home owned and occupied by the family is located on the space. See § 982.622 to § 982.624.
+*Manufactured home.* A manufactured structure that is built on a permanent chassis, is designed for use as a principal place of residence, and meets the HQS. A special housing type: see § 982.620 and § 982.621. 
 
-*Membership shares.* In the homeownership option: shares in a cooperative. By owning such cooperative shares, the share-owner has the right to reside in a particular unit in the cooperative, and the right to participate in management of the housing.
+*Manufactured home space.* In manufactured home space rental: A space leased by an owner to a family. A manufactured home owned and occupied by the family is located on the space. See § 982.622 to § 982.624. 
 
-*Merger date.* October 1, 1999, which is the effective date of the merger of the two tenant-based programs (the housing voucher and housing certificate programs) into the Housing Choice Voucher (HCV) program.
+*Membership shares.* In the homeownership option: shares in a cooperative. By owning such cooperative shares, the share-owner has the right to reside in a particular unit in the cooperative, and the right to participate in management of the housing. 
 
-*Notice of Funding Availability* (NOFA). For budget authority that HUD distributes by competitive process, the Federal Register document that invites applications for funding. This document explains how to apply for assistance and the criteria for awarding the funding.
+*Merger date.* October 1, 1999, which is the effective date of the merger of the two tenant-based programs (the housing voucher and housing certificate programs) into the Housing Choice Voucher (HCV) program. 
 
-*Owner.* Any person or entity with the legal right to lease or sublease a unit to a participant.
+*Notice of Funding Availability* (NOFA). For budget authority that HUD distributes by competitive process, the Federal Register document that invites applications for funding. This document explains how to apply for assistance and the criteria for awarding the funding. 
 
-*Participant* (participant family). A family that has been admitted to the PHA program and is currently assisted in the program. The family becomes a participant on the effective date of the first HAP contract executed by the PHA for the family (first day of initial lease term).
+*Owner.* Any person or entity with the legal right to lease or sublease a unit to a participant. 
 
-*Payment standard.* The maximum monthly assistance payment for a family assisted in the voucher program (before deducting the total tenant payment by the family).
+*Participant* (participant family). A family that has been admitted to the PHA program and is currently assisted in the program. The family becomes a participant on the effective date of the first HAP contract executed by the PHA for the family (first day of initial lease term). 
 
-*PHA plan.* The annual plan and the 5-year plan as adopted by the PHA and approved by HUD in accordance with part 903 of this chapter.
+*Payment standard.* The maximum monthly assistance payment for a family assisted in the voucher program (before deducting the total tenant payment by the family). 
 
-*PHA-owned unit.* (i) A dwelling unit in a project that is:
+*PHA plan.* The annual plan and the 5-year plan as adopted by the PHA and approved by HUD in accordance with part 903 of this chapter. 
 
-(A) Owned by the PHA (including having a controlling interest in the entity that owns the project);
+*PHA-owned unit.* (i) A dwelling unit in a project that is: 
 
-(B) Owned by an entity wholly controlled by the PHA; or
+(A) Owned by the PHA (including having a controlling interest in the entity that owns the project); 
 
-(C) Owned by a limited liability company or limited partnership in which the PHA (or an entity wholly controlled by the PHA) holds a controlling interest in the managing member or general partner.
+(B) Owned by an entity wholly controlled by the PHA; or 
 
-(ii) A controlling interest is:
+(C) Owned by a limited liability company or limited partnership in which the PHA (or an entity wholly controlled by the PHA) holds a controlling interest in the managing member or general partner. 
 
-(A) Holding more than 50 percent of the stock of any corporation;
+(ii) A controlling interest is: 
 
-(B) Having the power to appoint more than 50 percent of the members of the board of directors of a non-stock corporation (such as a nonprofit corporation);
+(A) Holding more than 50 percent of the stock of any corporation; 
 
-(C) Where more than 50 percent of the members of the board of directors of any corporation also serve as directors, officers, or employees of the PHA;
+(B) Having the power to appoint more than 50 percent of the members of the board of directors of a non-stock corporation (such as a nonprofit corporation); 
 
-(D) Holding more than 50 percent of all managing member interests in an LLC;
+(C) Where more than 50 percent of the members of the board of directors of any corporation also serve as directors, officers, or employees of the PHA; 
 
-(E) Holding more than 50 percent of all general partner interests in a partnership; or
+(D) Holding more than 50 percent of all managing member interests in an LLC; 
 
-(F) Equivalent levels of control in other ownership structures.
+(E) Holding more than 50 percent of all general partner interests in a partnership; or 
 
-*Portability.* Renting a dwelling unit with Section 8 tenant-based assistance outside the jurisdiction of the initial PHA.
+(F) Equivalent levels of control in other ownership structures. 
 
-*Premises.* The building or complex in which the dwelling unit is located, including common areas and grounds.
+*Portability.* Renting a dwelling unit with Section 8 tenant-based assistance outside the jurisdiction of the initial PHA. 
 
-*Present homeownership interest.* In the homeownership option: “Present ownership interest” in a residence includes title, in whole or in part, to a residence, or ownership, in whole or in part, of membership shares in a cooperative. “Present ownership interest” in a residence does not include the right to purchase title to the residence under a lease-purchase agreement.
+*Premises.* The building or complex in which the dwelling unit is located, including common areas and grounds. 
 
-*Private space.* In shared housing: The portion of a contract unit that is for the exclusive use of an assisted family.
+*Present homeownership interest.* In the homeownership option: “Present ownership interest” in a residence includes title, in whole or in part, to a residence, or ownership, in whole or in part, of membership shares in a cooperative. “Present ownership interest” in a residence does not include the right to purchase title to the residence under a lease-purchase agreement. 
 
-*Program.* The Section 8 HCV program under this part.
+*Private space.* In shared housing: The portion of a contract unit that is for the exclusive use of an assisted family. 
 
-*Program receipts.* HUD payments to the PHA under the consolidated ACC, and any other amounts received by the PHA in connection with the program.
+*Program.* The Section 8 HCV program under this part. 
 
-*Public housing agency (PHA).* PHA includes both:
+*Program receipts.* HUD payments to the PHA under the consolidated ACC, and any other amounts received by the PHA in connection with the program. 
 
-(1) Any State, county, municipality, or other governmental entity or public body which is authorized to administer the program (or an agency or instrumentality of such an entity), and
+*Public housing agency (PHA).* PHA includes both: 
 
-(2) Any of the following:
+(1) Any State, county, municipality, or other governmental entity or public body which is authorized to administer the program (or an agency or instrumentality of such an entity), and 
 
-(i) A consortium of housing agencies, each of which meets the qualifications in paragraph (1) of this definition, that HUD determines has the capacity and capability to efficiently administer the program (in which case, HUD may enter into a consolidated ACC with any legal entity authorized to act as the legal representative of the consortium members);
+(2) Any of the following: 
 
-(ii) Any other public or private non-profit entity that was administering a Section 8 tenant-based assistance program pursuant to a contract with the contract administrator of such program (HUD or a PHA) on October 21, 1998; or
+(i) A consortium of housing agencies, each of which meets the qualifications in paragraph (1) of this definition, that HUD determines has the capacity and capability to efficiently administer the program (in which case, HUD may enter into a consolidated ACC with any legal entity authorized to act as the legal representative of the consortium members); 
 
-(iii) For any area outside the jurisdiction of a PHA that is administering a tenant-based program, or where HUD determines that such PHA is not administering the program effectively, a private non-profit entity or a governmental entity or public body that would otherwise lack jurisdiction to administer the program in such area.
+(ii) Any other public or private non-profit entity that was administering a Section 8 tenant-based assistance program pursuant to a contract with the contract administrator of such program (HUD or a PHA) on October 21, 1998; or 
 
-*Reasonable rent.* A rent to owner that is not more than rent charged:
+(iii) For any area outside the jurisdiction of a PHA that is administering a tenant-based program, or where HUD determines that such PHA is not administering the program effectively, a private non-profit entity or a governmental entity or public body that would otherwise lack jurisdiction to administer the program in such area. 
 
-(1) For comparable units in the private unassisted market; and
+*Reasonable rent.* A rent to owner that is not more than rent charged: 
 
-(2) For comparable unassisted units in the premises.
+(1) For comparable units in the private unassisted market; and 
 
-*Receiving PHA.* In portability: A PHA that receives a family selected for participation in the HCV program of another PHA. The receiving PHA issues a voucher and provides program assistance to the family.
+(2) For comparable unassisted units in the premises. 
 
-*Renewal units.* The number of units, as determined by HUD, for which funding is reserved on HUD books for a PHA's program. This number is used is calculating renewal budget authority in accordance with § 982.102.
+*Receiving PHA.* In portability: A PHA that receives a family selected for participation in the HCV program of another PHA. The receiving PHA issues a voucher and provides program assistance to the family. 
 
-*Rent to owner.* The total monthly rent payable to the owner under the lease for the unit. Rent to owner covers payment for any housing services, maintenance and utilities that the owner is required to provide and pay for.
+*Renewal units.* The number of units, as determined by HUD, for which funding is reserved on HUD books for a PHA's program. This number is used is calculating renewal budget authority in accordance with § 982.102. 
 
-*Request for Tenancy Approval (RFTA).* A form (form HUD-52517) submitted by or on behalf of a family to a PHA once the family has identified a unit that it wishes to rent using tenant-based voucher assistance.
+*Rent to owner.* The total monthly rent payable to the owner under the lease for the unit. Rent to owner covers payment for any housing services, maintenance and utilities that the owner is required to provide and pay for. 
 
-*Residency preference.* A PHA preference for admission of families that reside anywhere in a specified area, including families with a member who works or has been hired to work in the area (“residency preference area”).
+*Request for Tenancy Approval (RFTA).* A form (form HUD-52517) submitted by or on behalf of a family to a PHA once the family has identified a unit that it wishes to rent using tenant-based voucher assistance. 
 
-*Residency preference area.* The specified area where families must reside to qualify for a residency preference.
+*Residency preference.* A PHA preference for admission of families that reside anywhere in a specified area, including families with a member who works or has been hired to work in the area (“residency preference area”). 
 
-*Section 8 Management Assessment Program (SEMAP).* A system used by HUD to measure PHA performance in key Section 8 program areas. See 24 CFR part 985.
+*Residency preference area.* The specified area where families must reside to qualify for a residency preference. 
 
-*Shared housing.* A unit occupied by two or more families. The unit consists of both common space for shared use by the occupants of the unit and separate private space for each assisted family. A special housing type: see § 982.615 to § 982.618.
+*Section 8 Management Assessment Program (SEMAP).* A system used by HUD to measure PHA performance in key Section 8 program areas. See 24 CFR part 985. 
 
-*Single room occupancy housing* (SRO). A unit that contains no sanitary facilities or food preparation facilities, or contains either, but not both, types of facilities. A special housing type: see § 982.602 to § 982.605.
+*Shared housing.* A unit occupied by two or more families. The unit consists of both common space for shared use by the occupants of the unit and separate private space for each assisted family. A special housing type: see § 982.615 to § 982.618. 
 
-*Small Area Fair Market Rents (SAFMRs or Small Area FMRs).* Small Area FMRs are FMRs established for U.S. Postal Service ZIP code areas and are calculated in accordance with 24 CFR 888.113(a) and (b).
+*Single room occupancy housing* (SRO). A unit that contains no sanitary facilities or food preparation facilities, or contains either, but not both, types of facilities. A special housing type: see § 982.602 to § 982.605. 
 
-*Special admission.* Admission of an applicant that is not on the PHA waiting list or without considering the applicant's waiting list position.
+*Small Area Fair Market Rents (SAFMRs or Small Area FMRs).* Small Area FMRs are FMRs established for U.S. Postal Service ZIP code areas and are calculated in accordance with 24 CFR 888.113(a) and (b). 
 
-*Special housing types.* See subpart M of this part 982. Subpart M of this part states the special regulatory requirements for: SRO housing, congregate housing, group home, shared housing, manufactured home (including manufactured home space rental), cooperative housing (rental assistance for cooperative member) and homeownership option (homeownership assistance for cooperative member or first-time homeowner).
+*Special admission.* Admission of an applicant that is not on the PHA waiting list or without considering the applicant's waiting list position. 
 
-*Statement of homeowner obligations. In the homeownership option:* The family's agreement to comply with program obligations.
+*Special housing types.* See subpart M of this part 982. Subpart M of this part states the special regulatory requirements for: SRO housing, congregate housing, group home, shared housing, manufactured home (including manufactured home space rental), cooperative housing (rental assistance for cooperative member) and homeownership option (homeownership assistance for cooperative member or first-time homeowner). 
 
-*Subsidy standards.* Standards established by a PHA to determine the appropriate number of bedrooms and amount of subsidy for families of different sizes and compositions.
+*Statement of homeowner obligations. In the homeownership option:* The family's agreement to comply with program obligations. 
 
-*Suspension.* The term on the family's voucher stops from the date that the family submits a request for PHA approval of the tenancy, until the date the PHA notifies the family in writing whether the request has been approved or denied.
+*Subsidy standards.* Standards established by a PHA to determine the appropriate number of bedrooms and amount of subsidy for families of different sizes and compositions. 
 
-*Tenant.* The person or persons (other than a live-in aide) who executes the lease as lessee of the dwelling unit.
+*Suspension.* The term on the family's voucher stops from the date that the family submits a request for PHA approval of the tenancy, until the date the PHA notifies the family in writing whether the request has been approved or denied. 
 
-*Tenant-paid utilities.* Utilities and services that are not included in the rent to owner and are the responsibility of the assisted family, regardless of whether the payment goes to the utility company or the owner. The utilities and services are those necessary in the locality to provide housing that complies with HQS. The utilities and services may also include those required by HUD through a Federal Register notice after providing opportunity for public comment.
+*Tenant.* The person or persons (other than a live-in aide) who executes the lease as lessee of the dwelling unit. 
 
-*Utility reimbursement.* The portion of the housing assistance payment which exceeds the amount of the rent to owner. (See § 982.514(b)).
+*Tenant-paid utilities.* Utilities and services that are not included in the rent to owner and are the responsibility of the assisted family, regardless of whether the payment goes to the utility company or the owner. The utilities and services are those necessary in the locality to provide housing that complies with HQS. The utilities and services may also include those required by HUD through a Federal Register notice after providing opportunity for public comment. 
 
-*Voucher holder.* A family holding a voucher with an unexpired term (search time).
+*Utility reimbursement.* The portion of the housing assistance payment which exceeds the amount of the rent to owner. (See § 982.514(b)). 
 
-*Voucher (rental voucher).* A document issued by a PHA to a family selected for admission to the voucher program. This document describes the program and the procedures for PHA approval of a unit selected by the family. The voucher also states obligations of the family under the program.
+*Voucher holder.* A family holding a voucher with an unexpired term (search time). 
 
-*Waiting list admission.* An admission from the PHA waiting list.
+*Voucher (rental voucher).* A document issued by a PHA to a family selected for admission to the voucher program. This document describes the program and the procedures for PHA approval of a unit selected by the family. The voucher also states obligations of the family under the program. 
 
-*Welfare-to-work (WTW) families.* Families assisted by a PHA with voucher funding awarded to the PHA under the HUD welfare-to-work voucher program (including any renewal of such WTW funding for the same purpose).
+*Waiting list admission.* An admission from the PHA waiting list. 
 
-*Withholding.* Stopping HAP payments to an owner while holding them for potential retroactive disbursement.
+*Welfare-to-work (WTW) families.* Families assisted by a PHA with voucher funding awarded to the PHA under the HUD welfare-to-work voucher program (including any renewal of such WTW funding for the same purpose). 
+
+*Withholding.* Stopping HAP payments to an owner while holding them for potential retroactive disbursement. 
 
 \[63 FR 23857, Apr. 30, 1998; 63 FR 31625, June 10, 1998, as amended at 64 FR 26641, May 14, 1999; 64 FR 49658, Sept. 14, 1999; 64 FR 56887, 56911, Oct. 21, 1999; 65 FR 16821, Mar. 30, 2000; 65 FR 55161, Sept. 12, 2000; 66 FR 28804, May 24, 2001; 66 FR 33613, June 22, 2001; 67 FR 64492, Oct. 18, 2002; 77 FR 5675, Feb. 3, 2012; 80 FR 8245, Feb. 17, 2015; 80 FR 50572, Aug. 20, 2015; 88 FR 30503, May 11, 2023; 89 FR 38293, May 7, 2024\]

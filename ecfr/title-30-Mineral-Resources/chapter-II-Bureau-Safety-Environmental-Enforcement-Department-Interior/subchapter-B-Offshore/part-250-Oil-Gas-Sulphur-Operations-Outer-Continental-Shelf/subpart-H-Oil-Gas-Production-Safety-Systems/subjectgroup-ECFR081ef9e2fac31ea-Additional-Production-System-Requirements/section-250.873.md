@@ -1,10 +1,10 @@
 ##### § 250.873 Subsea gas lift requirements.
 
-If you choose to install a subsea gas lift system, you must design your system as approved in your DWOP or as follows:
+If you choose to install a subsea gas lift system, you must design your system as approved in your DWOP or as follows: 
 
-(a) Design the gas lift supply pipeline in accordance with API RP 14C (incorporated by reference as specified in § 250.198) for the gas lift supply system located on the platform.
+(a) Design the gas lift supply pipeline in accordance with API RP 14C (incorporated by reference as specified in § 250.198) for the gas lift supply system located on the platform. 
 
-(b) Meet the applicable requirements in the following table:
+(b) Meet the applicable requirements in the following table: 
 
 | If your subsea gas lift system   introduces the   lift gas to   the . . .                          | Then you must install a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | In addition, you must                            |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -13,15 +13,15 @@ If you choose to install a subsea gas lift system, you must design your system a
 | (3) Pipeline risers via a gas-lift line contained within the pipeline riser                        | Meet all of the requirements for the GLSDV described in §§ 250.835(a), (b), and (d) and 250.836 on the gas-lift supply pipeline                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | upstream (in-board) of the GLSDV                 |
 |                                                                                                    | Attach the GLSDV by flanged connection directly to the ANSI/API Spec. 6A component used to suspend and seal the gas-lift line contained within the production riser. To facilitate the repair or replacement of the GLSDV or production riser BSDV, you may install a manual isolation valve between the GLSDV and the ANSI/API Spec. 6A component used to suspend and seal the gas-lift line contained within the production riser, or outboard of the production riser BSDV and inboard of the ANSI/API Spec. 6A component used to suspend and seal the gas-lift line contained within the production riser |                                                  |
 
-(c) Follow the valve closure times and hydraulic bleed requirements according to your approved DWOP for the following:
+(c) Follow the valve closure times and hydraulic bleed requirements according to your approved DWOP for the following: 
 
-(1) Electro-hydraulic control system with gas lift,
+(1) Electro-hydraulic control system with gas lift, 
 
-(2) Electro-hydraulic control system with gas lift with loss of communications,
+(2) Electro-hydraulic control system with gas lift with loss of communications, 
 
-(3) Direct-hydraulic control system with gas lift.
+(3) Direct-hydraulic control system with gas lift. 
 
-(d) Follow the gas lift system valve testing requirements according to the following table:
+(d) Follow the gas lift system valve testing requirements according to the following table: 
 
 | Type of gas lift system                                                                          | Valve | Allowable leakage rate                                   | Testing frequency                                  |
 | ------------------------------------------------------------------------------------------------ | ----- | -------------------------------------------------------- | -------------------------------------------------- |
@@ -31,4 +31,4 @@ If you choose to install a subsea gas lift system, you must design your system a
 |                                                                                                  | GLIV  | 400 cc per minute of liquid or 15 scf per minute of gas. | Function tested quarterly, not to exceed 120 days  |
 | (3) Gas lifting the pipeline riser via a gas lift line contained within the pipeline riser       | GLSDV | Zero leakage                                             | Monthly, not to exceed 6 weeks.                    |
 
-\[81 FR 61918, Sept. 7, 2016, as amended at 84 FR 24707, May 29, 2019\]
+\[76 FR 64462, Oct. 18, 2011, as amended at 84 FR 24707, May 29, 2019\]

@@ -1,6 +1,6 @@
 ##### § 232.407 Interactive data financial report filings.
 
-Section 407 of Regulation S-T (§ 232.407) applies to electronic filers that file Interactive Data Financial Reports (§ 232.11) as required by Rule 13n-11(f)(5) (§ 240.13n-11(f)(5) of this chapter). Section 407 imposes content, format, and filing requirements for Interactive Data Financial Reports, but does not change the substantive content requirements for the financial and other disclosures in the Related Official Financial Report Filing (§ 232.11). Rule 13n-11(f)(5) specifies the circumstances under which an Interactive Data Financial Report must be filed as an exhibit.
+Section 407 of Regulation S-T (§ 232.407) applies to electronic filers that file Interactive Data Financial Reports (§ 232.11) as required by Rule 13n-11(f)(5) (§ 240.13n-11(f)(5) of this chapter). Section 407 imposes content, format, and filing requirements for Interactive Data Financial Reports, but does not change the substantive content requirements for the financial and other disclosures in the Related Official Financial Report Filing (§ 232.11). Rule 13n-11(f)(5) specifies the circumstances under which an Interactive Data Financial Report must be filed as an exhibit.*Content, format, and filing requirements—General.*
 
 (a) *Content, format, and filing requirements—General.* Interactive Data Financial Reports must:
 

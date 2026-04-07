@@ -1,6 +1,6 @@
 ##### § 110.210 San Diego Harbor, CA.
 
-(a) *The anchorage grounds.* (1) Special anchorage for U.S. Government vessels (NAD 83). The waters bounded by a line connecting the following points:
+(a) *The anchorage grounds.* (1) Special anchorage for U.S. Government vessels (NAD 83). The waters bounded by a line connecting the following points: 
 
 | Latitude      | Longtitude     |
 | ------------- | -------------- |
@@ -9,7 +9,7 @@
 
 and thence along the shoreline to the point of beginning.
 
-(2) *Special anchorage for U.S. Government vessels (NAD 83).* The waters bounded by a line connecting the following points:
+(2) *Special anchorage for U.S. Government vessels (NAD 83).* The waters bounded by a line connecting the following points: 
 
 | Latitude      | Longtitude     |
 | ------------- | -------------- |
@@ -27,7 +27,7 @@ and thence easterly along the northern boundary of the channel to:
 
 and thence along the shoreline of Harbor Island to the point of beginning.
 
-(3) *“B” Street Merchant Vessel Anchorage (NAD 83).* The waters bounded by a line connecting the following points:
+(3) *“B” Street Merchant Vessel Anchorage (NAD 83).* The waters bounded by a line connecting the following points: 
 
 | Latitude      | Longtitude     |
 | ------------- | -------------- |
@@ -39,10 +39,10 @@ and thence along the shoreline of Harbor Island to the point of beginning.
 
 and thence due east to the shoreline, and thence along the shoreline and pier to the point of beginning.
 
-(b) *The regulations.* (1) The anchorages described in paragraphs (a)(1) and (a)(2) of this section are reserved exclusively for the anchorage of vessels of the United States Government and of authorized harbor pilot boats. No other vessels shall anchor in this area except by special permission obtained in advance from the Commander, Naval Base, San Diego, CA. The administration of these anchorages is exercised by the Commander, Naval Base, San Diego, CA.
+(b) *The regulations.* (1) The anchorages described in paragraphs (a)(1) and (a)(2) of this section are reserved exclusively for the anchorage of vessels of the United States Government and of authorized harbor pilot boats. No other vessels shall anchor in this area except by special permission obtained in advance from the Commander, Naval Base, San Diego, CA. The administration of these anchorages is exercised by the Commander, Naval Base, San Diego, CA. 
 
-(2) The area described in paragraph (a)(3) of this section is reserved for the use of merchant vessels calling at the Port of San Diego while awaiting a berth. The administration of this anchorage is exercised by the Port Director, San Diego Unified Port District.
+(2) The area described in paragraph (a)(3) of this section is reserved for the use of merchant vessels calling at the Port of San Diego while awaiting a berth. The administration of this anchorage is exercised by the Port Director, San Diego Unified Port District. 
 
-(3) Vessels anchoring in San Diego Harbor shall leave a free passage for other craft and shall not obstruct the approaches to the wharves in the harbor.
+(3) Vessels anchoring in San Diego Harbor shall leave a free passage for other craft and shall not obstruct the approaches to the wharves in the harbor. 
 
 \[CGD11-85-06, 51 FR 19753, June 2, 1986, as amended by CGD11-90-08, 56 FR 9852, Mar. 8, 1991\]

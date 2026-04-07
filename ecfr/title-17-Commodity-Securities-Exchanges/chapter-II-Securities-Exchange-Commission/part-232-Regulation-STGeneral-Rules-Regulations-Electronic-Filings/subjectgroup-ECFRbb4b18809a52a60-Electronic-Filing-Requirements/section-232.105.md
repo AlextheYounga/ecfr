@@ -1,6 +1,6 @@
 ##### § 232.105 Use of HTML and hyperlinks.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*www.sec.gov*
 
 (b) Electronic filers may not include in any HTML document hyperlinks to sites, locations, or documents outside the HTML document, except links to officially filed documents within the current submission and to documents previously filed electronically and located in the EDGAR database on the Commission's public Web site (*www.sec.gov*). Electronic filers also may include within an HTML document links to different sections within that single HTML document.
 

@@ -1,6 +1,6 @@
 ##### § 232.501 Modular submissions and segmented filings.
 
-An electronic filer may use the following procedures to submit information to the EDGAR system for subsequent inclusion in an electronic filing:
+An electronic filer may use the following procedures to submit information to the EDGAR system for subsequent inclusion in an electronic filing:*Modular submissions.*
 
 (a) *Modular submissions.* (1) One or more electronic format documents may be submitted for storage in the non-public EDGAR data storage area as a modular submission for subsequent inclusion in one or more electronic submissions.
 

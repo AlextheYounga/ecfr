@@ -36,7 +36,7 @@ THIS DOCUMENT IS A COPY OF THE (specify document) FILED ON (date) PURSUANT TO A 
 
 Note 1 to § 232.202:
 
-Where a continuing hardship exemption is granted with respect to an exhibit only, the paper format exhibit shall be filed under cover of Form SE (§§ 239.64, 249.444, 269.8 and 274.403 of this chapter).
+Where a continuing hardship exemption is granted with respect to an exhibit only, the paper format exhibit shall be filed under cover of Form SE (§§ 239.64, 249.444, 269.8 and 274.403 of this chapter).*see,*
 
 Note 2 to § 232.202:
 

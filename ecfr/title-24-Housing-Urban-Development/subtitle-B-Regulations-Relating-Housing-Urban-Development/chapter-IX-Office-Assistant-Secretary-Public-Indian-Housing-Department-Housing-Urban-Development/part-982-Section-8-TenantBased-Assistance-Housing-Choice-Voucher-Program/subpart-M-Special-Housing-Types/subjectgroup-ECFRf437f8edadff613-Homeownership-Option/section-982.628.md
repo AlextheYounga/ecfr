@@ -1,49 +1,51 @@
 ##### § 982.628 Homeownership option: Eligible units.
 
-(a) *Initial requirements applicable to the unit.* The PHA must determine that the unit satisfies all of the following requirements:
+Link to an amendment published at 89 FR 38304, May 7, 2024.
 
-(1) The unit is eligible. (See § 982.352. Paragraphs (a)(6) and (b) of § 982.352 do not apply.)
+(a) *Initial requirements applicable to the unit.* The PHA must determine that the unit satisfies all of the following requirements: 
 
-(2) The unit is either a one-unit property (including a manufactured home) or a single dwelling unit in a cooperative or condominium.
+(1) The unit is eligible. (See § 982.352. Paragraphs (a)(6) and (b) of § 982.352 do not apply.) 
 
-(3) The unit has been inspected by a PHA inspector and by an independent inspector designated by the family (see § 982.631).
+(2) The unit is either a one-unit property (including a manufactured home) or a single dwelling unit in a cooperative or condominium. 
 
-(4) The unit satisfies the HQS (*see* 24 CFR 5.703 and § 982.631).
+(3) The unit has been inspected by a PHA inspector and by an independent inspector designated by the family (see § 982.631). 
 
-(b) *Purchase of home where family will not own fee title to the real property.* Homeownership assistance may be provided for the purchase of a home where the family will not own fee title to the real property on which the home is located, but only if:
+(4) The unit satisfies the HQS (*see* 24 CFR 5.703 and § 982.631). 
 
-(1) The home is located on a permanent foundation; and
+(b) *Purchase of home where family will not own fee title to the real property.* Homeownership assistance may be provided for the purchase of a home where the family will not own fee title to the real property on which the home is located, but only if: 
 
-(2) The family has the right to occupy the home site for at least forty years.
+(1) The home is located on a permanent foundation; and 
 
-(c) *PHA disapproval of seller.* The PHA may not commence homeownership assistance for occupancy of a home if the PHA has been informed (by HUD or otherwise) that the seller of the home is debarred, suspended, or subject to a limited denial of participation under 2 CFR part 2424.
+(2) The family has the right to occupy the home site for at least forty years. 
 
-(d) *PHA-owned units.* A family may purchase a PHA-owned unit, as defined in § 982.4, with homeownership assistance only if the following conditions are satisfied:
+(c) *PHA disapproval of seller.* The PHA may not commence homeownership assistance for occupancy of a home if the PHA has been informed (by HUD or otherwise) that the seller of the home is debarred, suspended, or subject to a limited denial of participation under 2 CFR part 2424. 
 
-(1) The PHA must inform the family, both orally and in writing, that the family has the right to purchase any eligible unit and a PHA-owned unit is freely selected by the family without PHA pressure or steering;
+(d) *PHA-owned units.* A family may purchase a PHA-owned unit, as defined in § 982.4, with homeownership assistance only if the following conditions are satisfied: 
 
-(2) The unit is not ineligible housing;
+(1) The PHA must inform the family, both orally and in writing, that the family has the right to purchase any eligible unit and a PHA-owned unit is freely selected by the family without PHA pressure or steering; 
 
-(3) The PHA must obtain the services of an independent entity, as defined in § 982.4 and in accordance with § 982.352(b)(1)(v)(B), to perform the following PHA functions:
+(2) The unit is not ineligible housing; 
 
-(i) Inspection of the unit for compliance with the HQS, in accordance with § 982.631(a);
+(3) The PHA must obtain the services of an independent entity, as defined in § 982.4 and in accordance with § 982.352(b)(1)(v)(B), to perform the following PHA functions: 
 
-(ii) Review of the independent inspection report, in accordance with § 982.631(b)(4);
+(i) Inspection of the unit for compliance with the HQS, in accordance with § 982.631(a); 
 
-(iii) Review of the contract of sale, in accordance with § 982.631(c); and
+(ii) Review of the independent inspection report, in accordance with § 982.631(b)(4); 
 
-(iv) Determination of the reasonableness of the sales price and any PHA provided financing, in accordance with § 982.632 and other supplementary guidance established by HUD.
+(iii) Review of the contract of sale, in accordance with § 982.631(c); and 
 
-(e) *Units not yet under construction.* Families may enter into contracts of sale for units not yet under construction at the time the family enters into the contract for sale. However, the PHA shall not commence homeownership assistance for the family for that unit, unless and until:
+(iv) Determination of the reasonableness of the sales price and any PHA provided financing, in accordance with § 982.632 and other supplementary guidance established by HUD. 
 
-(1) Either:
+(e) *Units not yet under construction.* Families may enter into contracts of sale for units not yet under construction at the time the family enters into the contract for sale. However, the PHA shall not commence homeownership assistance for the family for that unit, unless and until: 
 
-(i) The responsible entity completed the environmental review procedures required by 24 CFR part 58, and HUD approved the environmental certification and request for release of funds prior to commencement of construction; or
+(1) Either: 
 
-(ii) HUD performed an environmental review under 24 CFR part 50 and notified the PHA in writing of environmental approval of the site prior to commencement of construction;
+(i) The responsible entity completed the environmental review procedures required by 24 CFR part 58, and HUD approved the environmental certification and request for release of funds prior to commencement of construction; or 
 
-(2) Construction of the unit has been completed; and
+(ii) HUD performed an environmental review under 24 CFR part 50 and notified the PHA in writing of environmental approval of the site prior to commencement of construction; 
 
-(3) The unit has passed the required HQS inspection (see § 982.631(a)) and independent inspection (see § 982.631(b)).
+(2) Construction of the unit has been completed; and 
+
+(3) The unit has passed the required HQS inspection (see § 982.631(a)) and independent inspection (see § 982.631(b)). 
 
 \[65 FR 55163, Sept. 12, 2000, as amended at 67 FR 64494, Oct. 18, 2002; 67 FR 65865, Oct. 28, 2002; 67 FR 67522, Nov. 6, 2002; 72 FR 59938, Oct. 22, 2007; 72 FR 73496, Dec. 27, 2007; 88 FR 30504, May 11, 2023; 89 FR 38304, May 7, 2024\]
