@@ -1,6 +1,6 @@
 ##### § 300.184 Species subject to permitting, documentation, reporting, and recordkeeping requirements.
 
-(a) Except as noted in paragraphs (b) and (c) of this section, the following fish or fish products are subject to the documentation requirements of this subpart, regardless of ocean area of catch, and must be reported under the appropriate heading or subheading numbers from the Harmonized Tariff Schedule of the United States (HTS):
+(a) Except as noted in paragraphs (b) and (c) of this section, the following fish or fish products are subject to the documentation requirements of this subpart, regardless of ocean area of catch, and must be reported under the appropriate heading or subheading numbers from the Harmonized Tariff Schedule of the United States (HTS):*e.g.,*
 
 (1) Bluefin tuna,
 

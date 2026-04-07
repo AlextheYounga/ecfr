@@ -1,6 +1,6 @@
 ##### § 300.111 Scientific observers.
 
-(a) Except as otherwise specified, this section applies to both national observers and international observers, as well as to vessels of the United States carrying, or required to carry, such observers.
+(a) Except as otherwise specified, this section applies to both national observers and international observers, as well as to vessels of the United States carrying, or required to carry, such observers.*Procurement of observers by vessel.*
 
 (b) All vessels of the United States fishing in the Convention Area must carry one or more scientific observers as required by CCAMLR conservation measures or as specified in a vessel permit issued under this subpart.
 

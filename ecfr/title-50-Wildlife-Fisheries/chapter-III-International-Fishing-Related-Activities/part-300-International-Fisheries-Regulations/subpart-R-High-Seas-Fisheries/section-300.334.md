@@ -1,6 +1,6 @@
 ##### § 300.334 Fisheries authorized on the high seas.
 
-(a) *General.* When applying for a permit under § 300.333, the owner or operator of a high seas fishing vessel must identify in the application the authorized fisheries in which he or she intends to fish. More than one authorized fishery may be selected. The following fisheries are authorized on the high seas:
+(a) *General.* When applying for a permit under § 300.333, the owner or operator of a high seas fishing vessel must identify in the application the authorized fisheries in which he or she intends to fish. More than one authorized fishery may be selected. The following fisheries are authorized on the high seas:Federal Register
 
 (1) 50 CFR part 300, subpart C—Eastern Pacific Tuna Fisheries.
 

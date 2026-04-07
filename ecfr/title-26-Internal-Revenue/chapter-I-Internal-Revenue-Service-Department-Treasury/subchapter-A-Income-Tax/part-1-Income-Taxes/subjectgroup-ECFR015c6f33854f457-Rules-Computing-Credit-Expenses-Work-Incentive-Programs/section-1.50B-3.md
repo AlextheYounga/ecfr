@@ -1,34 +1,34 @@
 ##### § 1.50B-3 Estates and trusts.
 
-(a) *General rule*—(1) *In general.* In the case of an estate or trust, WIN expenses (as defined in paragraph (a) of § 1.50B-1) shall be apportioned among the estate or trust and its beneficiaries on the basis of the income of such estate or trust allocable to each. There shall be apportioned to the estate or trust for its taxable year, and to each beneficiary of such estate or trust for his taxable year in which or with which the taxable year of such estate or trust ends, his share (as determined under paragraph (b) of this section) of the total WIN expenses. The WIN expenses for each employee shall be apportioned separately. 
+(a) *General rule*—(1) *In general.* In the case of an estate or trust, WIN expenses (as defined in paragraph (a) of § 1.50B-1) shall be apportioned among the estate or trust and its beneficiaries on the basis of the income of such estate or trust allocable to each. There shall be apportioned to the estate or trust for its taxable year, and to each beneficiary of such estate or trust for his taxable year in which or with which the taxable year of such estate or trust ends, his share (as determined under paragraph (b) of this section) of the total WIN expenses. The WIN expenses for each employee shall be apportioned separately.
 
-(2) *Beneficiary as taxpayer.* A beneficiary to whom WIN expenses are apportioned shall, for purposes of the credit allowed by section 40, be treated as the taxpayer who paid or incurred such WIN expenses allocated to him. If a beneficiary takes into account in determining his WIN expenses any portion of the WIN expenses paid or incurred by an estate or trust and if the employee with respect to which the WIN expenses were paid or incurred is terminated in a termination subject to the rules in paragraph (a) of § 1.50A-3, or if there is a failure (which is subject to the rules is paragraphs (a) (2) and (3) of § 1.50A-3) to pay such employee comparable wages then such beneficiary shall make a recapture determination under the provisions of section 50A (c) and (d) of the Code and § 1.50A-3. See § 1.50A-6. 
+(2) *Beneficiary as taxpayer.* A beneficiary to whom WIN expenses are apportioned shall, for purposes of the credit allowed by section 40, be treated as the taxpayer who paid or incurred such WIN expenses allocated to him. If a beneficiary takes into account in determining his WIN expenses any portion of the WIN expenses paid or incurred by an estate or trust and if the employee with respect to which the WIN expenses were paid or incurred is terminated in a termination subject to the rules in paragraph (a) of § 1.50A-3, or if there is a failure (which is subject to the rules is paragraphs (a) (2) and (3) of § 1.50A-3) to pay such employee comparable wages then such beneficiary shall make a recapture determination under the provisions of section 50A (c) and (d) of the Code and § 1.50A-3. See § 1.50A-6.
 
-(3) *Beneficiary.* For purposes of this section, the term “beneficiary” includes heir, legatee, and devisee. 
+(3) *Beneficiary.* For purposes of this section, the term “beneficiary” includes heir, legatee, and devisee.
 
-(4) *Special rule for termination of interest.* If during the taxable year of an estate or trust a beneficiary's interest in the income of such estate or trust terminates, WIN expenses paid or incurred by such estate or trust after such termination shall not be apportioned to such beneficiary. 
+(4) *Special rule for termination of interest.* If during the taxable year of an estate or trust a beneficiary's interest in the income of such estate or trust terminates, WIN expenses paid or incurred by such estate or trust after such termination shall not be apportioned to such beneficiary.
 
-(b) *Share.* A trust's, estate's, or beneficiary's share of the WIN expenses with respect to each employee shall be: 
+(b) *Share.* A trust's, estate's, or beneficiary's share of the WIN expenses with respect to each employee shall be:
 
-(1) The total WIN expenses incurred in the taxable year of the estate or trust with respect to such employee, multiplied by 
+(1) The total WIN expenses incurred in the taxable year of the estate or trust with respect to such employee, multiplied by
 
-(2) The amount of income allocable to such estate or trust or to such beneficiary for such taxable year, divided by 
+(2) The amount of income allocable to such estate or trust or to such beneficiary for such taxable year, divided by
 
-(3) The sum of the amounts of income allocable to such estate or trust and all its beneficiaries taken into account under subparagraph (2) of this paragraph. 
+(3) The sum of the amounts of income allocable to such estate or trust and all its beneficiaries taken into account under subparagraph (2) of this paragraph.
 
-(c) *Limitation based on amount of tax.* In the case of an estate or trust, the $25,000 amount specified in section 50A(a)(2), relating to limitation based on amount of tax, shall be reduced for the taxable year to— 
+(c) *Limitation based on amount of tax.* In the case of an estate or trust, the $25,000 amount specified in section 50A(a)(2), relating to limitation based on amount of tax, shall be reduced for the taxable year to—
 
-(1) $25,000, multiplied by 
+(1) $25,000, multiplied by
 
-(2) The WIN expenses apportioned to such estate or trust under paragraph (a) of this section, divided by 
+(2) The WIN expenses apportioned to such estate or trust under paragraph (a) of this section, divided by
 
-(3) The WIN expenses apportioned among such estate or trust and its beneficiaries. 
+(3) The WIN expenses apportioned among such estate or trust and its beneficiaries.
 
-(d) *Computation of the first 12 months of employment.* The first 12 months of employment (whether or not consecutive) and the period described in section 50B(c)(4) of any WIN employee for purposes of determining the amount of WIN expenses (as defined in paragraph (a) of § 1.50B-1) shall not be affected by a change in the beneficiaries of an estate or trust and shall not be affected by a reduction or a termination of a beneficiary's interest in the income of such estate or trust. Thus, the first 12 months of employment (whether or not consecutive) of any WIN employee shall be the same with respect to trust or estate, and any beneficiary of such trust or estate claiming a credit under section 40 for salaries and wages paid or incurred for services rendered by such employee. 
+(d) *Computation of the first 12 months of employment.* The first 12 months of employment (whether or not consecutive) and the period described in section 50B(c)(4) of any WIN employee for purposes of determining the amount of WIN expenses (as defined in paragraph (a) of § 1.50B-1) shall not be affected by a change in the beneficiaries of an estate or trust and shall not be affected by a reduction or a termination of a beneficiary's interest in the income of such estate or trust. Thus, the first 12 months of employment (whether or not consecutive) of any WIN employee shall be the same with respect to trust or estate, and any beneficiary of such trust or estate claiming a credit under section 40 for salaries and wages paid or incurred for services rendered by such employee.
 
-(e) *Summary statement.* An estate or trust shall attach to its return a statement showing the apportionment of WIN expenses with respect to each employee to such estate or trust and to each beneficiary. 
+(e) *Summary statement.* An estate or trust shall attach to its return a statement showing the apportionment of WIN expenses with respect to each employee to such estate or trust and to each beneficiary.
 
-(f) *Examples.* This section may be illustrated by the following examples: 
+(f) *Examples.* This section may be illustrated by the following examples:
 
 Example 1.(1) XYZ trust, which makes its return on the basis of the calendar year, hires five WIN employees in 1972. The WIN expenses incurred with respect to each employee are as follows:
 

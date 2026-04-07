@@ -1,6 +1,6 @@
 ##### § 300.211 Definitions.
 
-In addition to the terms defined in § 300.2 and those in the Act and in the Convention on the Conservation and Management of Highly Migratory Fish Stocks in the Western and Central Pacific Ocean, with Annexes (WCPF Convention), which was adopted at Honolulu, Hawaii, on September 5, 2000, by the Multilateral High-Level Conference on Highly Migratory Fish Stocks in the Western and Central Pacific Ocean, the terms used in this subpart have the following meanings.
+In addition to the terms defined in § 300.2 and those in the Act and in the Convention on the Conservation and Management of Highly Migratory Fish Stocks in the Western and Central Pacific Ocean, with Annexes (WCPF Convention), which was adopted at Honolulu, Hawaii, on September 5, 2000, by the Multilateral High-Level Conference on Highly Migratory Fish Stocks in the Western and Central Pacific Ocean, the terms used in this subpart have the following meanings.*1982 Convention*
 
 *1982 Convention* means the United Nations Convention on the Law of the Sea of 10 December 1982.
 
@@ -54,22 +54,22 @@ In addition to the terms defined in § 300.2 and those in the Act and in the Con
 
 *Highly migratory species (or HMS)* means any of the following species:
 
-| Common name           | Scientific name                                                                                                                                    |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Albacore              | Thunnus alalunga.                                                                                                                                  |
-| Pacific bluefin tuna  | Thunnus orientalis.                                                                                                                                |
-| Southern bluefin tuna | Thunnus maccoyii.                                                                                                                                  |
-| Bigeye tuna           | Thunnus obesus.                                                                                                                                    |
-| Skipjack tuna         | Katsuwonus pelamis.                                                                                                                                |
-| Yellowfin tuna        | Thunnus albacares.                                                                                                                                 |
-| Little tuna           | Euthynnus affinis.                                                                                                                                 |
-| Frigate mackerel      | Auxis thazard; Auxis rochei.                                                                                                                       |
-| Pomfrets              | Family Bramidae.                                                                                                                                   |
-| Marlins               | Tetrapturus angustirostris; Tetrapturus audax; Makaira mazara; Makaira indica; Makaira nigricans.                                                  |
-| Sail-fishes           | Istiophorus platypterus.                                                                                                                           |
-| Swordfish             | Xiphias gladius.                                                                                                                                   |
-| Dolphinfish           | Coryphaena hippurus; Coryphaena equiselis.                                                                                                         |
-| Oceanic sharks        | Hexanchus griseus; Cetorhinus maximus; Family Alopiidae; Rhincodon typus; Family Carcharhinidae; Family Sphyrnidae; Family Isuridae (or Lamnidae). |
+| Common name               | Scientific name                                                                                                                                    |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AlbacoreThunnus alalunga. | Thunnus alalunga.                                                                                                                                  |
+| Pacific bluefin tuna      | Thunnus orientalis.                                                                                                                                |
+| Southern bluefin tuna     | Thunnus maccoyii.                                                                                                                                  |
+| Bigeye tuna               | Thunnus obesus.                                                                                                                                    |
+| Skipjack tuna             | Katsuwonus pelamis.                                                                                                                                |
+| Yellowfin tuna            | Thunnus albacares.                                                                                                                                 |
+| Little tuna               | Euthynnus affinis.                                                                                                                                 |
+| Frigate mackerel          | Auxis thazard; Auxis rochei.                                                                                                                       |
+| Pomfrets                  | Family Bramidae.                                                                                                                                   |
+| Marlins                   | Tetrapturus angustirostris; Tetrapturus audax; Makaira mazara; Makaira indica; Makaira nigricans.                                                  |
+| Sail-fishes               | Istiophorus platypterus.                                                                                                                           |
+| Swordfish                 | Xiphias gladius.                                                                                                                                   |
+| Dolphinfish               | Coryphaena hippurus; Coryphaena equiselis.                                                                                                         |
+| Oceanic sharks            | Hexanchus griseus; Cetorhinus maximus; Family Alopiidae; Rhincodon typus; Family Carcharhinidae; Family Sphyrnidae; Family Isuridae (or Lamnidae). |
 
 *Longline gear* means a type of fishing gear consisting of a main line that exceeds 1 nautical mile in length, is suspended horizontally in the water column either anchored, floating, or attached to a vessel, and from which branch or dropper lines with hooks are attached; except that, within the protected species zone, longline gear means a type of fishing gear consisting of a main line of any length that is suspended horizontally in the water column either anchored, floating, or attached to a vessel, and from which branch or dropper lines with hooks are attached, where “protected species zone” is used as defined at § 665.12 of this title.
 

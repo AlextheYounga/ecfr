@@ -1,6 +1,6 @@
 ##### § 300.201 Definitions.
 
-For the purposes of the Moratorium Protection Act:
+For the purposes of the Moratorium Protection Act:*Bycatch*
 
 *Bycatch* means: the incidental or discarded catch of protected living marine resources or entanglement of such resources with fishing gear.
 

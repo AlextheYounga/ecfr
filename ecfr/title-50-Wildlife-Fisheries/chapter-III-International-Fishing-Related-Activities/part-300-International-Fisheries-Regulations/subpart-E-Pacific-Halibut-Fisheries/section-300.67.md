@@ -1,6 +1,6 @@
 ##### § 300.67 Charter halibut limited access program.
 
-This section establishes limitations on using a vessel on which charter vessel anglers catch and retain Pacific halibut in International Pacific Halibut Commission (IPHC) regulatory areas 2C and 3A.
+This section establishes limitations on using a vessel on which charter vessel anglers catch and retain Pacific halibut in International Pacific Halibut Commission (IPHC) regulatory areas 2C and 3A.*General permit requirements.*Federal Register
 
 (a) *General permit requirements.* (1) In addition to other applicable permit, licensing, or registration requirements, any charter vessel guide of a charter vessel during a charter vessel fishing trip with one or more charter vessel anglers catching and retaining Pacific halibut on board must have on board the vessel an original valid charter halibut permit or permits endorsed for the regulatory area in which the charter vessel is operating and endorsed for at least the number of charter vessel anglers who are catching and retaining Pacific halibut. Each charter halibut permit holder must ensure that the charter vessel operator and charter vessel guide of the charter vessel comply with all requirements of §§ 300.65, 300.66, and 300.67.
 

@@ -1,6 +1,6 @@
 ##### § 300.161 Alternatives and exceptions.
 
-(a) The requirements of § 300.160 may be met by complying with one of the following alternatives to the marking requirement:
+(a) The requirements of § 300.160 may be met by complying with one of the following alternatives to the marking requirement:*et seq.;*
 
 (1)(i) Conspicuously marking the outside of each container or package containing fish or wildlife with the word “fish” or “wildlife” as appropriate for its contents, or with the common name of its contents by species, and
 

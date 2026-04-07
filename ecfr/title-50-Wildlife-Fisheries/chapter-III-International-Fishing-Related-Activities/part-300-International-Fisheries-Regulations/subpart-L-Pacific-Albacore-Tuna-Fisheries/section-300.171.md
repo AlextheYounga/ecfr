@@ -1,6 +1,6 @@
 ##### § 300.171 Definitions.
 
-In addition to the definitions in the Magnuson-Stevens Fishery Conservation and Management Act and § 600.10 of Chapter VI of this title, the terms used in this subpart have the following meanings:
+In addition to the definitions in the Magnuson-Stevens Fishery Conservation and Management Act and § 600.10 of Chapter VI of this title, the terms used in this subpart have the following meanings:*Fishing under the Treaty as amended in 2002*
 
 *Fishing under the Treaty as amended in 2002* means to engage in fishing for albacore tuna in waters under the fisheries jurisdiction of Canada seaward of 12 nautical miles from the baseline from which the territorial sea is measured.
 

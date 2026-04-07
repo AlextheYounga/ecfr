@@ -1,26 +1,26 @@
 ##### § 165.929 Safety Zones; annual events requiring safety zones in the Captain of the Port Lake Michigan Zone.
 
-(a) *Regulations.* The following regulations apply to the safety zones listed in Tables 1 through 4 of this section. 
+(a) *Regulations.* The following regulations apply to the safety zones listed in Tables 1 through 4 of this section.
 
-(1) The general regulations in § 165.23. 
+(1) The general regulations in § 165.23.
 
-(2) All vessels must obtain permission from the Captain of the Port (COTP) Lake Michigan or his or her designated representative to enter, move within, or exit a safety zone established in this section when the safety zone is enforced. Vessels and persons granted permission to enter one of the safety zones listed in this section must obey all lawful orders or directions of the COTP Lake Michigan or his or her designated representative. Upon being hailed by the U.S. Coast Guard by siren, radio, flashing light or other means, the operator of a vessel must proceed as directed. 
+(2) All vessels must obtain permission from the Captain of the Port (COTP) Lake Michigan or his or her designated representative to enter, move within, or exit a safety zone established in this section when the safety zone is enforced. Vessels and persons granted permission to enter one of the safety zones listed in this section must obey all lawful orders or directions of the COTP Lake Michigan or his or her designated representative. Upon being hailed by the U.S. Coast Guard by siren, radio, flashing light or other means, the operator of a vessel must proceed as directed.
 
-(3) The enforcement dates and times for each of the safety zones listed in Tables 1 through 4 of this section are subject to change, but the duration of enforcement would remain the same, or nearly the same, as stated in Tables 1 through 4 of this section. In the event of a change, the COTP Lake Michigan will provide notice to the public by publishing a Notice of Enforcement in the Federal Register, as well as, issuing a Broadcast Notice to Mariners. 
+(3) The enforcement dates and times for each of the safety zones listed in Tables 1 through 4 of this section are subject to change, but the duration of enforcement would remain the same, or nearly the same, as stated in Tables 1 through 4 of this section. In the event of a change, the COTP Lake Michigan will provide notice to the public by publishing a Notice of Enforcement in the Federal Register, as well as, issuing a Broadcast Notice to Mariners.
 
-(b) *Definitions.* The following definitions apply to this section: 
+(b) *Definitions.* The following definitions apply to this section:
 
-(1) *Designated representative* means any Coast Guard commissioned, warrant, or petty officer designated by the COTP Lake Michigan to monitor a safety zone, permit entry into a safety zone, give legally enforceable orders to persons or vessels within a safety zone, and take other actions authorized by the COTP Lake Michigan. 
+(1) *Designated representative* means any Coast Guard commissioned, warrant, or petty officer designated by the COTP Lake Michigan to monitor a safety zone, permit entry into a safety zone, give legally enforceable orders to persons or vessels within a safety zone, and take other actions authorized by the COTP Lake Michigan.
 
-(2) *Public Vessel* means a vessel that is owned, chartered, or operated by the United States, or by a State or political subdivision thereof. 
+(2) *Public Vessel* means a vessel that is owned, chartered, or operated by the United States, or by a State or political subdivision thereof.
 
-(3) *Rain date* refers to an alternate date and/or time in which the safety zone would be enforced in the event of inclement weather. 
+(3) *Rain date* refers to an alternate date and/or time in which the safety zone would be enforced in the event of inclement weather.
 
-(c) *Suspension of enforcement.* The COTP Lake Michigan may suspend enforcement of any of these zones earlier than listed in this section. Should the COTP Lake Michigan suspend any of these zones earlier than the listed duration in this section, he or she may make the public aware of this suspension by Broadcast Notice to Mariners and/or on-scene notice by his or her designated representative. 
+(c) *Suspension of enforcement.* The COTP Lake Michigan may suspend enforcement of any of these zones earlier than listed in this section. Should the COTP Lake Michigan suspend any of these zones earlier than the listed duration in this section, he or she may make the public aware of this suspension by Broadcast Notice to Mariners and/or on-scene notice by his or her designated representative.
 
-(d) *Exemption.* Public Vessels, as defined in paragraph (b) of this section, are exempt from the requirements in this section. 
+(d) *Exemption.* Public Vessels, as defined in paragraph (b) of this section, are exempt from the requirements in this section.
 
-(e) *Waiver.* For any vessel, the COTP Lake Michigan or his or her designated representative may waive any of the requirements of this section upon finding that operational conditions or other circumstances are such that application of this section is unnecessary or impractical for the purposes of safety or security. 
+(e) *Waiver.* For any vessel, the COTP Lake Michigan or his or her designated representative may waive any of the requirements of this section upon finding that operational conditions or other circumstances are such that application of this section is unnecessary or impractical for the purposes of safety or security.
 
 Table 1 to § 165.929—Safety Zones in the State of Illinois
 | Event                                                                                                                                      | Location 1                                                                                                                                                                                                                                                                                                                                                                       | Enforcement date 2                                                                            |

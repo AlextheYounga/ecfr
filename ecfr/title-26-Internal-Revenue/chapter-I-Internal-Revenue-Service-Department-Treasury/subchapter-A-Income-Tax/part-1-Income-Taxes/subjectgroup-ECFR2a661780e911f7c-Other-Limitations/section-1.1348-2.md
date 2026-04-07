@@ -1,12 +1,12 @@
 ##### § 1.1348-2 Computation of the fifty-percent maximum tax on earned income.
 
-(a) *Computation of tax for taxable years beginning after 1971.* If, for a taxable year beginning after December 31, 1971, an individual has earned taxable income (as defined in paragraph (d) of this section) which exceeds the applicable amount in column (1) of table A, the tax imposed by section 1 for such year shall be the sum of: 
+(a) *Computation of tax for taxable years beginning after 1971.* If, for a taxable year beginning after December 31, 1971, an individual has earned taxable income (as defined in paragraph (d) of this section) which exceeds the applicable amount in column (1) of table A, the tax imposed by section 1 for such year shall be the sum of:
 
-(1) The applicable amount in column (2) of table A. 
+(1) The applicable amount in column (2) of table A.
 
-(2) 50 percent of the amount by which earned taxable income exceeds the applicable amount in column (1) of table A, and 
+(2) 50 percent of the amount by which earned taxable income exceeds the applicable amount in column (1) of table A, and
 
-(3) The amount by which the tax imposed by chapter 1 on the entire taxable income exceeds a tax so computed on earned taxable income, such computations to be made without regard to section 1348 or 1301. 
+(3) The amount by which the tax imposed by chapter 1 on the entire taxable income exceeds a tax so computed on earned taxable income, such computations to be made without regard to section 1348 or 1301.
 
 Table A
 | Status                                                                     | (1)     | (2)     |
@@ -16,13 +16,13 @@ Table A
 | Unmarried individuals other than surviving spouses and heads of households | 38,000  | 13,290  |
 | Trusts and estates                                                         | 26,000  | 9,030   |
 
-(b) *Computation of tax for taxable years beginning in 1971.* If, for a taxable year beginning after December 31, 1970, and before January 1, 1972, an individual has earned taxable income (as defined in paragraph (d) of this section) which exceeds the applicable amount in column (1) of table B, the tax imposed by section 1 for such year shall be the sum of: 
+(b) *Computation of tax for taxable years beginning in 1971.* If, for a taxable year beginning after December 31, 1970, and before January 1, 1972, an individual has earned taxable income (as defined in paragraph (d) of this section) which exceeds the applicable amount in column (1) of table B, the tax imposed by section 1 for such year shall be the sum of:
 
-(1) The applicable amount in column (2) of table B, 
+(1) The applicable amount in column (2) of table B,
 
-(2) 60 percent of the amount by which earned taxable income exceeds the applicable amount in column (1) of table B, and 
+(2) 60 percent of the amount by which earned taxable income exceeds the applicable amount in column (1) of table B, and
 
-(3) The amount by which the tax imposed by chapter 1 on the entire taxable income exceeds a tax so computed on earned taxable income, such computations to be made without regard to section 1348 or 1301. 
+(3) The amount by which the tax imposed by chapter 1 on the entire taxable income exceeds a tax so computed on earned taxable income, such computations to be made without regard to section 1348 or 1301.
 
 Table B
 | Status                                                                     | (1)      | (2)     |
@@ -32,45 +32,45 @@ Table B
 | Unmarried individuals other than surviving spouses and heads of households | 50,000   | 20,190  |
 | Trusts and estates                                                         | 50,000   | 22,590  |
 
-(c) *Short taxable periods.* If a taxpayer is required under section 443(a)(1) to make a return for a period of less than 12 months, the tax under section 1348 and this section shall be determined by placing his taxable income, earned net income, adjusted gross income, and items of tax preference on an annual basis in accordance with section 443 and the regulations thereunder. If a taxable year referred to in paragraph (d)(3)(i)(*a*) of this section is a period of less than 12 months for which a return is required under section 443(a)(1), the average described in such paragraph shall also be determined by placing the items of tax preference for such period on an annual basis in accordance with section 443 and the regulations thereunder. If a return for a period of less than 12 months is required under section 443(a)(3) for any taxable year referred to in paragraph (d)(3)(i)(*a*) of this section, section 1348 and this section shall not apply unless such period is reopened by the taxpayer as provided by section 6851(b). 
+(c) *Short taxable periods.* If a taxpayer is required under section 443(a)(1) to make a return for a period of less than 12 months, the tax under section 1348 and this section shall be determined by placing his taxable income, earned net income, adjusted gross income, and items of tax preference on an annual basis in accordance with section 443 and the regulations thereunder. If a taxable year referred to in paragraph (d)(3)(i)(*a*) of this section is a period of less than 12 months for which a return is required under section 443(a)(1), the average described in such paragraph shall also be determined by placing the items of tax preference for such period on an annual basis in accordance with section 443 and the regulations thereunder. If a return for a period of less than 12 months is required under section 443(a)(3) for any taxable year referred to in paragraph (d)(3)(i)(*a*) of this section, section 1348 and this section shall not apply unless such period is reopened by the taxpayer as provided by section 6851(b).
 
-(d) *Earned taxable income*—(1) *In general.* For purposes of section 1348 and this section, the term *earned taxable income* means the excess of (i) the portion of taxable income which, under subparagraph (2) of this paragraph, is attributable to earned net income over (ii) the tax preference offset (as defined in subparagraph (3) of this paragraph). For purposes of computing the alternative tax under section 1201, earned taxable income shall not exceed the excess of taxable income over 50 percent of the net capital gain (net section 1201 gain for taxable years beginning before January 1, 1977). 
+(d) *Earned taxable income*—(1) *In general.* For purposes of section 1348 and this section, the term *earned taxable income* means the excess of (i) the portion of taxable income which, under subparagraph (2) of this paragraph, is attributable to earned net income over (ii) the tax preference offset (as defined in subparagraph (3) of this paragraph). For purposes of computing the alternative tax under section 1201, earned taxable income shall not exceed the excess of taxable income over 50 percent of the net capital gain (net section 1201 gain for taxable years beginning before January 1, 1977).
 
-(2) *Taxable income attributable to earned net income.* The portion of taxable income which is attributable to earned net income shall be determined by multiplying taxable income by a fraction (not exceeding one), the numerator of which is earned net income, and the denominator of which is adjusted gross income. For purposes of this subparagraph the term *earned net income* means the excess of the total of earned income (as defined in § 1.1343-(a)) over the total of any deductions which are required to be taken into account under section 62 in determining adjusted gross income and are properly allocable to or chargeable against earned income. Deductions are properly allocable to or chargeable against earned income if, and to the extent that, they are allowable in respect of expenses paid or incurred in connection with the production of earned income and have not been taken into account in determining the net profits of a trade or business in which both personal services and capital are material income producing factors (as defined in § 1.1348-3(a)(3)). Except as otherwise provided, deductions properly allocable to or chargeable against earned income include: 
+(2) *Taxable income attributable to earned net income.* The portion of taxable income which is attributable to earned net income shall be determined by multiplying taxable income by a fraction (not exceeding one), the numerator of which is earned net income, and the denominator of which is adjusted gross income. For purposes of this subparagraph the term *earned net income* means the excess of the total of earned income (as defined in § 1.1343-(a)) over the total of any deductions which are required to be taken into account under section 62 in determining adjusted gross income and are properly allocable to or chargeable against earned income. Deductions are properly allocable to or chargeable against earned income if, and to the extent that, they are allowable in respect of expenses paid or incurred in connection with the production of earned income and have not been taken into account in determining the net profits of a trade or business in which both personal services and capital are material income producing factors (as defined in § 1.1348-3(a)(3)). Except as otherwise provided, deductions properly allocable to or chargeable against earned income include:
 
-(i) Deductions attributable to a trade or business from which earned income is derived, except that if less than all the gross income from a trade or business constitutes earned income, only a ratable portion of the deductions attributable to such trade or business is allowable in respect of expenses paid or incurred in connection with the production of earned income, 
+(i) Deductions attributable to a trade or business from which earned income is derived, except that if less than all the gross income from a trade or business constitutes earned income, only a ratable portion of the deductions attributable to such trade or business is allowable in respect of expenses paid or incurred in connection with the production of earned income,
 
-(ii) Deductions consisting of expenses paid or incurred in connection with the performance of services as an employee, 
+(ii) Deductions consisting of expenses paid or incurred in connection with the performance of services as an employee,
 
-(iii) The deductions described in section 62(7) and allowable by sections 404 and 405(c), 
+(iii) The deductions described in section 62(7) and allowable by sections 404 and 405(c),
 
-(iv) The deduction allowable by section 217, 
+(iv) The deduction allowable by section 217,
 
-(v) The deduction allowable by section 1379(b)(3), and 
+(v) The deduction allowable by section 1379(b)(3), and
 
-(vi) A net operating loss deduction to the extent that the net operating losses carried to the taxable year are properly allocable to or chargeable against earned income. 
+(vi) A net operating loss deduction to the extent that the net operating losses carried to the taxable year are properly allocable to or chargeable against earned income.
 
 A net operating loss carried to the taxable year is properly allocable to or chargeable against earned income in such year to the extent of the excess (if any) of the deductions for the loss year which are properly allocable to or chargeable against earned income and which are allowable under section 172(d) in determining a net operating loss, over the earned income for the loss year. If the excess described in the preceding sentence is less than the entire net operating loss, such excess and the balance of such loss shall be deemed to reduce taxable income ratably for any taxable year to which such loss may be carried. See examples (3) and (4) in subparagraph (4) of this paragraph.
 
-(3) *Tax preference offset.* (i) For purposes of subparagraph (1) of this paragraph, the *tax preference offset* is the amount by which the greater of: 
+(3) *Tax preference offset.* (i) For purposes of subparagraph (1) of this paragraph, the *tax preference offset* is the amount by which the greater of:
 
-(A) The average of the taxpayer's items of tax preference for the taxable year and the four preceding taxable years, or 
+(A) The average of the taxpayer's items of tax preference for the taxable year and the four preceding taxable years, or
 
-(B) The taxpayer's items of tax preference for the taxable year, 
+(B) The taxpayer's items of tax preference for the taxable year,
 
 exceeds $30,000.
 
-(ii) The items of tax preference to be taken into account under subdivision (i) of this subparagraph for any taxable year shall be those items of tax preference referred to in section 57(a) and the regulations thereunder for the taxable year, but excluding any amount not taken into account in computing the tax under section 56(a) and the regulations thereunder for such taxable year. The items of tax preference to be taken into account by an individual for any taxable year in which such individual is or was a nonresident alien shall not include items of tax preference which are not effectively connected with the conduct of a trade or business within the United States. 
+(ii) The items of tax preference to be taken into account under subdivision (i) of this subparagraph for any taxable year shall be those items of tax preference referred to in section 57(a) and the regulations thereunder for the taxable year, but excluding any amount not taken into account in computing the tax under section 56(a) and the regulations thereunder for such taxable year. The items of tax preference to be taken into account by an individual for any taxable year in which such individual is or was a nonresident alien shall not include items of tax preference which are not effectively connected with the conduct of a trade or business within the United States.
 
-(iii) Taxable years ending before January 1, 1970 shall not be included in computing the average described in subdivision (i)(A) of this subparagraph. Thus, for example, the tax preference offset for a taxable year ending on December 31, 1973, is the amount by which the average of the taxpayer's items of tax preference for 1970, 1971, 1972, and 1973, or the taxpayer's items of tax preference for 1973, whichever is greater, exceeds $30,000. Taxable years during which the taxpayer was not in existence shall not be included in computing the average described in subdivision (i)(A) of this subparagraph. A fractional part of a year which is treated as a taxable year under sections 441(b) and 7701(a)(23) shall be treated as a taxable year for purposes of this section for special rules if a taxable year referred to in subdivision (i)(A) of this subparagraph is a period of less than 12 months for which a return is required under section 443(a)(1). 
+(iii) Taxable years ending before January 1, 1970 shall not be included in computing the average described in subdivision (i)(A) of this subparagraph. Thus, for example, the tax preference offset for a taxable year ending on December 31, 1973, is the amount by which the average of the taxpayer's items of tax preference for 1970, 1971, 1972, and 1973, or the taxpayer's items of tax preference for 1973, whichever is greater, exceeds $30,000. Taxable years during which the taxpayer was not in existence shall not be included in computing the average described in subdivision (i)(A) of this subparagraph. A fractional part of a year which is treated as a taxable year under sections 441(b) and 7701(a)(23) shall be treated as a taxable year for purposes of this section for special rules if a taxable year referred to in subdivision (i)(A) of this subparagraph is a period of less than 12 months for which a return is required under section 443(a)(1).
 
-(iv) If for the current taxable year the taxpayer and his spouse (or the estate of such spouse) file a joint return together, the items of tax preference for a preceding taxable year taken into account under subdivision (i)(A) of this subparagraph shall be the sum of the items of tax preference of the taxpayer and his spouse for such preceding year even though a joint return was not, or could not have been, filed by the taxpayer and such spouse for such preceding taxable year. If for the current taxable year the taxpayer (A) is no longer married to a spouse to whom he was married for a preceding taxable year taken into account under subdivision (i)(A) of this subparagraph and files a return as a single person, head of household, or surviving spouse for such current taxable year, or (B) is married to a spouse other than the spouse to whom he was married for a preceding taxable year taken into account under subdivision (i)(A) of this subparagraph, his items of tax preference shall be computed as if he were not married during such preceding taxable year. 
+(iv) If for the current taxable year the taxpayer and his spouse (or the estate of such spouse) file a joint return together, the items of tax preference for a preceding taxable year taken into account under subdivision (i)(A) of this subparagraph shall be the sum of the items of tax preference of the taxpayer and his spouse for such preceding year even though a joint return was not, or could not have been, filed by the taxpayer and such spouse for such preceding taxable year. If for the current taxable year the taxpayer (A) is no longer married to a spouse to whom he was married for a preceding taxable year taken into account under subdivision (i)(A) of this subparagraph and files a return as a single person, head of household, or surviving spouse for such current taxable year, or (B) is married to a spouse other than the spouse to whom he was married for a preceding taxable year taken into account under subdivision (i)(A) of this subparagraph, his items of tax preference shall be computed as if he were not married during such preceding taxable year.
 
-(v) The sum of the items of tax preference of an estate or trust shall, for purposes of this paragraph, be apportioned between the estate or trust and the beneficiary in the manner and to the extent provided by section 58(c)(1) and the regulations thereunder. 
+(v) The sum of the items of tax preference of an estate or trust shall, for purposes of this paragraph, be apportioned between the estate or trust and the beneficiary in the manner and to the extent provided by section 58(c)(1) and the regulations thereunder.
 
-(vi) If an item of gross income in respect of a decedent is includible in the gross income of a taxpayer and is treated as earned income in the hands of the taxpayer by reason of § 1.1348-3(a)(4), the items of tax preference for a taxable year taken into account under subdivision (i) of this subparagraph shall be the sum of the taxpayer's items of tax preference for such taxable year and the decedent's items of tax preference for any taxable year of the decedent (including a short taxable year described in section 441(b)(3)) which ends with or within such taxable year of the taxpayer. For purposes of this subdivision, if a taxpayer (such as the estate of the decedent or a testamentary trust created by the decedent) has not been in existence for the number of preceding taxable years specified in subdivision (i)(A) or (iii) of this subparagraph, the items of tax preference for preceding taxable years taken into account shall be the taxpayer's items of tax preference for each of its preceding taxable years plus the decedent's items of tax preference for that number of the most recent taxable years of the decedent ending prior to the taxpayer's earliest taxable year which, when added to the taxpayer's preceding taxable years, equals such number of preceding taxable years specified in subdivision (i)(A), or (iii). The increase, if any, in the taxpayer's tax preference offset computed under this subdivision shall not exceed the amount by which the taxpayer's taxable income attributable to earned net income, computed as provided in § 1.1348-2(d)(2) and including the item of gross income in respect of a decedent, exceeds the taxpayer's taxable income attributable to earned net income computed without regard to such item of gross income. 
+(vi) If an item of gross income in respect of a decedent is includible in the gross income of a taxpayer and is treated as earned income in the hands of the taxpayer by reason of § 1.1348-3(a)(4), the items of tax preference for a taxable year taken into account under subdivision (i) of this subparagraph shall be the sum of the taxpayer's items of tax preference for such taxable year and the decedent's items of tax preference for any taxable year of the decedent (including a short taxable year described in section 441(b)(3)) which ends with or within such taxable year of the taxpayer. For purposes of this subdivision, if a taxpayer (such as the estate of the decedent or a testamentary trust created by the decedent) has not been in existence for the number of preceding taxable years specified in subdivision (i)(A) or (iii) of this subparagraph, the items of tax preference for preceding taxable years taken into account shall be the taxpayer's items of tax preference for each of its preceding taxable years plus the decedent's items of tax preference for that number of the most recent taxable years of the decedent ending prior to the taxpayer's earliest taxable year which, when added to the taxpayer's preceding taxable years, equals such number of preceding taxable years specified in subdivision (i)(A), or (iii). The increase, if any, in the taxpayer's tax preference offset computed under this subdivision shall not exceed the amount by which the taxpayer's taxable income attributable to earned net income, computed as provided in § 1.1348-2(d)(2) and including the item of gross income in respect of a decedent, exceeds the taxpayer's taxable income attributable to earned net income computed without regard to such item of gross income.
 
-(4) *Illustrations.* The provisions of this section may be illustrated by the following examples: 
+(4) *Illustrations.* The provisions of this section may be illustrated by the following examples:
 
 Example 1.(i) H and W, married calendar-year taxpayers filing a joint return, have the following items of income, deductions, and tax preference for 1976:
 
@@ -84,7 +84,7 @@ Example 1.(i) H and W, married calendar-year taxpayers filing a joint return, ha
 
 In addition, the taxpayers have tax preference items for 1976 of $80,000 attributable to the exercise of a qualified stock option and total tax preference items of $300,000 for the years 1972 through 1975. Since the items of tax preference for 1976 exceed the average of the items of tax preference for the years 1972 through 1976, the tax preference offset for 1976 is $50,000 ($80,000−$30,000).
 
-(ii) H and W have earned taxable income of $72,857 determined in the following manner: 
+(ii) H and W have earned taxable income of $72,857 determined in the following manner:
 
 | (a) Earned income                                     | $155,000 |  |
 | (b) Earned net income ($155,000−$5,000)               | 150,000  |  |
@@ -110,14 +110,14 @@ Example 2.(i) H and W, married calendar-year taxpayers filing a joint return, ha
 | (b) Dividends and interest                                   | 20,000   |  |
 | (c) Net long-term capital gains                              | 100,000  |  |
 | Total                                                        | 330,000  |  |
-| (d) Sec. 1202 deduction (1/2 of net long-term capital gains) | 50,000   |  |
+| (d) Sec. 1202 deduction (1⁄2 of net long-term capital gains) | 50,000   |  |
 | (e) Adjusted gross income                                    | $280,000 |  |
 | (f) Exemptions and itemized deductions                       | 40,000   |  |
 | (g) Taxable income                                           | 240,000  |  |
 
 The taxpayers' tax preference item for 1976 is one-half of the net long-term capital gains of $100,000, or $50,000. The taxpayers have no items of tax preference for the years 1972 through 1975. Accordingly, their tax preference offset for 1976 is $20,000 ($50,000−$30,000).
 
-(ii) H and W have earned taxable income of $160,000, determined in the following manner: 
+(ii) H and W have earned taxable income of $160,000, determined in the following manner:
 
 | (a) Earned net income                                 | $210,000 |  |
 | (b) Taxable income                                    | 240,000  |  |
@@ -152,7 +152,7 @@ Example 3.(i) A, an unmarried calendar year taxpayer engaged in the practice of 
 
 (ii) For 1976, A's deductions exceed his gross income, and his taxable income is therefore zero. In addition, A has a net operating loss of $100,000 (i.e., the excess of his deductions of $220,000 over his gross income of $120,000), which may be carried back to 1973. In computing his taxable income and earned taxable income for 1973, $60,000 (i.e., the excess of the expenses paid in A's law practice of $160,000, over his gross income from his law practice of $100,000) of the net operating loss deduction is properly allocable to or chargeable against earned income.
 
-(iii) A's recomputed taxable income and earned taxable income for 1973 are $119,250 and $103,350 respectively, determined in the following manner: 
+(iii) A's recomputed taxable income and earned taxable income for 1973 are $119,250 and $103,350 respectively, determined in the following manner:
 
 | Gross income ($240,000 + $60,000)                      | $300,000 |
 | Adjusted gross income ($300,000 − $50,000 − $100,000)  | 150,000  |

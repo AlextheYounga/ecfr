@@ -1,6 +1,6 @@
 ##### § 300.151 Definitions.
 
-In addition to the terms defined in § 300.2 and those in the Magnuson-Stevens Act, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2 or the Magnuson-Stevens Act, the definition in this section shall apply.
+In addition to the terms defined in § 300.2 and those in the Magnuson-Stevens Act, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2 or the Magnuson-Stevens Act, the definition in this section shall apply.*Affiliates*
 
 *Affiliates* means two persons (including individuals and entities) related in such a way that—
 

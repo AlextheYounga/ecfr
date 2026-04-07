@@ -1,6 +1,6 @@
 ##### § 300.301 Definitions.
 
-In addition to the terms defined in § 300.2, the terms used in this subpart have the following meanings.
+In addition to the terms defined in § 300.2, the terms used in this subpart have the following meanings.*Landing*
 
 *Landing* means to begin to offload fish, or to offload fish from any vessel.
 

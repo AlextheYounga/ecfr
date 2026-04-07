@@ -1,6 +1,6 @@
 ##### § 300.212 Vessel permit endorsements.
 
-(a) Any fishing vessel of the United States used for commercial fishing for HMS on the high seas in the Convention Area must have on board a valid high seas fishing permit, or a copy thereof, that has a valid WCPFC Area Endorsement, or a copy thereof.
+(a) Any fishing vessel of the United States used for commercial fishing for HMS on the high seas in the Convention Area must have on board a valid high seas fishing permit, or a copy thereof, that has a valid WCPFC Area Endorsement, or a copy thereof.*Eligibility.*
 
 (b) *Eligibility.* Only a fishing vessel that has a valid high seas fishing permit is eligible to receive a WCPFC Area Endorsement.
 

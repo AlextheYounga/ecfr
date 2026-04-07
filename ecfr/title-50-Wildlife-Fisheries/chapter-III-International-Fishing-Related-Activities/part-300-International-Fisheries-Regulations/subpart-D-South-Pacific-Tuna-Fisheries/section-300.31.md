@@ -1,6 +1,6 @@
 ##### § 300.31 Definitions.
 
-In addition to the terms defined in § 300.2, in the Act, and in the Treaty, and unless the context requires otherwise, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Act, or the Treaty, the definition in this section shall apply.
+In addition to the terms defined in § 300.2, in the Act, and in the Treaty, and unless the context requires otherwise, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Act, or the Treaty, the definition in this section shall apply.*Administrator*
 
 *Administrator* means the individual or organization designated by the Pacific Island Parties to act on their behalf under the Treaty and notified to the United States.
 

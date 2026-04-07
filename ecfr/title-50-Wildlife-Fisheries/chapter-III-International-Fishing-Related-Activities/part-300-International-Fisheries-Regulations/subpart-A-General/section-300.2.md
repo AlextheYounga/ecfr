@@ -1,6 +1,6 @@
 ##### § 300.2 Definitions.
 
-In addition to the definitions in each act, agreement, convention, or treaty specified in subparts B through K of this part, the terms used in this part have the following meanings:
+In addition to the definitions in each act, agreement, convention, or treaty specified in subparts B through K of this part, the terms used in this part have the following meanings:*Assistant Administrator*
 
 *Assistant Administrator* means the Assistant Administrator for Fisheries, National Oceanic and Atmospheric Administration, Department of Commerce, or a designee. Address: Room 14555, 1315 East-West Highway, Silver Spring, MD 20910.
 

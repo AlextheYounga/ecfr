@@ -1,196 +1,196 @@
 ##### § 1.1291-0 Treatment of shareholders of certain passive foreign investment companies; table of contents.
 
-This section contains a listing of the headings for §§ 1.1291-1, 1.1291-9, and 1.1291-10. 
+This section contains a listing of the headings for §§ 1.1291-1, 1.1291-9, and 1.1291-10.
 
 § 1.1291-1 Taxation of U.S. persons that are shareholders of section 1291 funds.
 
-(a) through (b)(2)(i) \[Reserved\] 
+(a) through (b)(2)(i) \[Reserved\]
 
-(ii) Pedigreed QEF. 
+(ii) Pedigreed QEF.
 
-(b)(2)(iii) and (iv) \[Reserved\] 
+(b)(2)(iii) and (iv) \[Reserved\]
 
-(v) Section 1291 fund. 
+(v) Section 1291 fund.
 
-(3) through (6) \[Reserved\] 
+(3) through (6) \[Reserved\]
 
-(7) Shareholder. 
+(7) Shareholder.
 
-(8) Indirect shareholder. 
+(8) Indirect shareholder.
 
-(i) In general. 
+(i) In general.
 
-(ii) Ownership through a corporation. 
+(ii) Ownership through a corporation.
 
-(A) Ownership through a non-PFIC foreign corporation. 
+(A) Ownership through a non-PFIC foreign corporation.
 
-(B) Ownership through a PFIC. 
+(B) Ownership through a PFIC.
 
-(C) Ownership through a domestic corporation. 
+(C) Ownership through a domestic corporation.
 
-(iii) Ownership through pass-through entities. 
+(iii) Ownership through pass-through entities.
 
-(A) Partnerships. 
+(A) Partnerships.
 
-(B) S Corporations. 
+(B) S Corporations.
 
-(C) Estates and nongrantor trusts. 
+(C) Estates and nongrantor trusts.
 
-(D) Grantor trusts. 
+(D) Grantor trusts.
 
-(iv) Successive application. 
+(iv) Successive application.
 
-(v) Examples. 
+(v) Examples.
 
-(A) Example 1. 
+(A) Example 1.
 
-(*1*) Facts. 
+(*1*) Facts.
 
-(*2*) Results. 
+(*2*) Results.
 
-(*i*) Treatment of DC. 
+(*i*) Treatment of DC.
 
-(*ii*) Treatment of A. 
+(*ii*) Treatment of A.
 
-(B) Example 2. 
+(B) Example 2.
 
-(*1*) Facts. 
+(*1*) Facts.
 
-(*2*) Results. 
+(*2*) Results.
 
-(C) Example 3. 
+(C) Example 3.
 
-(*1*) Facts. 
+(*1*) Facts.
 
-(*2*) Results. 
+(*2*) Results.
 
-(D) Example 4. 
+(D) Example 4.
 
-(*1*) Facts. 
+(*1*) Facts.
 
-(*2*) Results. 
+(*2*) Results.
 
-(c) Coordination with other PFIC rules. 
+(c) Coordination with other PFIC rules.
 
-(1) and (2) \[Reserved\] 
+(1) and (2) \[Reserved\]
 
-(3) Coordination with section 1296: Distributions and dispositions. 
+(3) Coordination with section 1296: Distributions and dispositions.
 
-(4) Coordination with mark to market rules under chapter 1 of the Internal Revenue Code other than section 1296. 
+(4) Coordination with mark to market rules under chapter 1 of the Internal Revenue Code other than section 1296.
 
-(i) In general. 
+(i) In general.
 
-(ii) Coordination rule. 
+(ii) Coordination rule.
 
-(d) \[Reserved\] 
+(d) \[Reserved\]
 
-(e) Exempt organization as shareholder. 
+(e) Exempt organization as shareholder.
 
-(1) In general. 
+(1) In general.
 
-(2) Ownership through certain tax-exempt organizations and accounts. 
+(2) Ownership through certain tax-exempt organizations and accounts.
 
-(f) through (i) \[Reserved\] 
+(f) through (i) \[Reserved\]
 
-(j) Applicability dates. 
+(j) Applicability dates.
 
 § 1.1291-9 Deemed dividend election.
 
-(a) Deemed dividend election. 
+(a) Deemed dividend election.
 
-(1) In general. 
+(1) In general.
 
-(2) Post-1986 earnings and profits defined. 
+(2) Post-1986 earnings and profits defined.
 
-(i) In general. 
+(i) In general.
 
-(ii) Pro rata share of post-1986 earnings and profits attributable to shareholder's stock. 
+(ii) Pro rata share of post-1986 earnings and profits attributable to shareholder's stock.
 
-(A) In general. 
+(A) In general.
 
-(B) Reduction for previously taxed amounts. 
+(B) Reduction for previously taxed amounts.
 
-(b) Who may make the election. 
+(b) Who may make the election.
 
-(c) Time for making the election. 
+(c) Time for making the election.
 
-(d) Manner of making the election. 
+(d) Manner of making the election.
 
-(1) In general. 
+(1) In general.
 
-(2) Attachment to Form 8621. 
+(2) Attachment to Form 8621.
 
-(e) Qualification date. 
+(e) Qualification date.
 
-(1) In general. 
+(1) In general.
 
-(2) Elections made after March 31, 1995, and before January 27, 1997. 
+(2) Elections made after March 31, 1995, and before January 27, 1997.
 
-(i) In general. 
+(i) In general.
 
-(ii) Exception. 
+(ii) Exception.
 
-(3) Examples. 
+(3) Examples.
 
-(f) Adjustment to basis. 
+(f) Adjustment to basis.
 
-(g) Treatment of holding period. 
+(g) Treatment of holding period.
 
-(h) Coordination with section 959(e). 
+(h) Coordination with section 959(e).
 
-(i) Election inapplicable to shareholder of former PFIC. 
+(i) Election inapplicable to shareholder of former PFIC.
 
-(1) \[Reserved\] 
+(1) \[Reserved\]
 
-(2) Former PFIC. 
+(2) Former PFIC.
 
-(j) Definitions. 
+(j) Definitions.
 
-(1) Passive foreign investment company (PFIC). 
+(1) Passive foreign investment company (PFIC).
 
-(2) Types of PFICs. 
+(2) Types of PFICs.
 
-(i) Qualified electing fund (QEF). 
+(i) Qualified electing fund (QEF).
 
-(ii) Pedigreed QEF. 
+(ii) Pedigreed QEF.
 
-(iii) Unpedigreed QEF. 
+(iii) Unpedigreed QEF.
 
-(iv) Former PFIC. 
+(iv) Former PFIC.
 
-(3) Shareholder. 
+(3) Shareholder.
 
-(k) Effective/applicability dates. 
+(k) Effective/applicability dates.
 
 § 1.1291-10 Deemed sale election.
 
-(a) Deemed sale election. 
+(a) Deemed sale election.
 
-(b) Who may make the election. 
+(b) Who may make the election.
 
-(c) Time for making the election. 
+(c) Time for making the election.
 
-(d) Manner of making the election. 
+(d) Manner of making the election.
 
-(e) Qualification date. 
+(e) Qualification date.
 
-(1) In general. 
+(1) In general.
 
-(2) Elections made after March 31, 1995, and before January 27, 1997. 
+(2) Elections made after March 31, 1995, and before January 27, 1997.
 
-(i) In general. 
+(i) In general.
 
-(ii) Exception. 
+(ii) Exception.
 
-(f) Adjustments to basis. 
+(f) Adjustments to basis.
 
-(1) In general. 
+(1) In general.
 
-(2) Adjustment to basis for section 1293 inclusion with respect to deemed sale election made after March 31, 1995, and before January 27, 1997. 
+(2) Adjustment to basis for section 1293 inclusion with respect to deemed sale election made after March 31, 1995, and before January 27, 1997.
 
-(g) Treatment of holding period. 
+(g) Treatment of holding period.
 
-(h) Election inapplicable to shareholder of former PFIC. 
+(h) Election inapplicable to shareholder of former PFIC.
 
 (i) Effective date.
 

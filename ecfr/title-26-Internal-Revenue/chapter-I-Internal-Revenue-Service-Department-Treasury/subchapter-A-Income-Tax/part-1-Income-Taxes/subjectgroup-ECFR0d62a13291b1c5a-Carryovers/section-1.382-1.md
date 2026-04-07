@@ -1,640 +1,640 @@
 ##### § 1.382-1 Table of contents.
 
-This section lists the captions that appear in the regulations for §§ 1.382-2 through 1.382-12. 
+This section lists the captions that appear in the regulations for §§ 1.382-2 through 1.382-12.
 
 § 1.382-2 General rules for ownership change.
 
-(a) Certain definitions for purposes of sections 382 and 383 and the regulations thereunder. 
+(a) Certain definitions for purposes of sections 382 and 383 and the regulations thereunder.
 
-(1) Loss corporation. 
+(1) Loss corporation.
 
-(i) In general. 
+(i) In general.
 
-(ii) Distributor of transferor loss corporation in a transaction under section 381. 
+(ii) Distributor of transferor loss corporation in a transaction under section 381.
 
-(iii) Separate accounting required for losses and credits of an acquiring corporation and a distributor or transferor loss corporation. 
+(iii) Separate accounting required for losses and credits of an acquiring corporation and a distributor or transferor loss corporation.
 
-(iv) End of separate accounting for losses and credits of distributor or transferor corporation. 
+(iv) End of separate accounting for losses and credits of distributor or transferor corporation.
 
-(v) Application to other successor corporations. 
+(v) Application to other successor corporations.
 
-(vi) Any section 382 disallowed business interest carryforward. 
+(vi) Any section 382 disallowed business interest carryforward.
 
-(2) Pre-change loss. 
+(2) Pre-change loss.
 
-(3) Stock. 
+(3) Stock.
 
-(i) In general. 
+(i) In general.
 
-(ii) Convertible stock. 
+(ii) Convertible stock.
 
-(4) Testing date. 
+(4) Testing date.
 
-(i) In general. 
+(i) In general.
 
-(ii) Exceptions. 
+(ii) Exceptions.
 
-(5) Successor corporation. 
+(5) Successor corporation.
 
-(6) Predecessor corporation. 
+(6) Predecessor corporation.
 
-(7) Section 382 disallowed business interest carryforward. 
+(7) Section 382 disallowed business interest carryforward.
 
-(8) Testing period. 
+(8) Testing period.
 
-(b) Effective dates. 
+(b) Effective dates.
 
-(1) In general. \[Reserved\] 
+(1) In general. \[Reserved\]
 
-(2) Rules provided in paragraph (a)(3)(ii) of this section. 
+(2) Rules provided in paragraph (a)(3)(ii) of this section.
 
-(i) In general. 
+(i) In general.
 
-(ii) Certain convertible preferred stock. 
+(ii) Certain convertible preferred stock.
 
-(3) Rules provided in paragraphs (a)(1)(i)(A), (a)(1)(ii), (iv), and (v), (a)(2)(iv) through (vi), (a)(3)(i), and (a)(4) through (8) of this section. 
+(3) Rules provided in paragraphs (a)(1)(i)(A), (a)(1)(ii), (iv), and (v), (a)(2)(iv) through (vi), (a)(3)(i), and (a)(4) through (8) of this section.
 
 § 1.382-3 Definitions and rules relating to a 5-percent shareholder.
 
-(a) Definitions. 
+(a) Definitions.
 
-(1) Entity. 
+(1) Entity.
 
-(i) In general. 
+(i) In general.
 
-(ii) Examples. 
+(ii) Examples.
 
-(iii) Effective date. 
+(iii) Effective date.
 
-(A) In general 
+(A) In general
 
-(B) Special rule. 
+(B) Special rule.
 
-(C) Example. 
+(C) Example.
 
-(2) \[Reserved\] 
+(2) \[Reserved\]
 
-(b)-(i) \[Reserved\] 
+(b)-(i) \[Reserved\]
 
-(j) Modification of the segregation rules of § 1.382-2T(j)(2)(iii) in the case of certain issuances of stock. 
+(j) Modification of the segregation rules of § 1.382-2T(j)(2)(iii) in the case of certain issuances of stock.
 
-(1) Introduction. 
+(1) Introduction.
 
-(2) Small issuance exception. 
+(2) Small issuance exception.
 
-(i) In general. 
+(i) In general.
 
-(ii) Small issuance defined. 
+(ii) Small issuance defined.
 
-(iii) Small issuance limitation. 
+(iii) Small issuance limitation.
 
-(A) In general. 
+(A) In general.
 
-(B) Class of stock defined. 
+(B) Class of stock defined.
 
-(C) Adjustments for stock splits and similar transactions. 
+(C) Adjustments for stock splits and similar transactions.
 
-(D) Exception. 
+(D) Exception.
 
-(iv) Short taxable years. 
+(iv) Short taxable years.
 
-(3) Other issuances of stock for cash. 
+(3) Other issuances of stock for cash.
 
-(i) In general. 
+(i) In general.
 
-(ii) Solely for cash. 
+(ii) Solely for cash.
 
-(A) In general. 
+(A) In general.
 
-(B) Related issuances. 
+(B) Related issuances.
 
-(iii) Coordination with paragraph (j)(2) of this section. 
+(iii) Coordination with paragraph (j)(2) of this section.
 
-(4) Limitation on exempted stock. 
+(4) Limitation on exempted stock.
 
-(5) Proportionate acquisition of exempted stock. 
+(5) Proportionate acquisition of exempted stock.
 
-(i) In general. 
+(i) In general.
 
-(ii) Actual knowledge of greater overlapping ownership. 
+(ii) Actual knowledge of greater overlapping ownership.
 
-(6) Exception for equity structure shifts. 
+(6) Exception for equity structure shifts.
 
-(7) Transitory ownership by underwriter disregarded. 
+(7) Transitory ownership by underwriter disregarded.
 
-(8) Certain related issuances. 
+(8) Certain related issuances.
 
-(9) Application to options. 
+(9) Application to options.
 
-(10) Issuance of stock pursuant to the exercise of certain options. 
+(10) Issuance of stock pursuant to the exercise of certain options.
 
-(11) Application to first tier and higher tier entities. 
+(11) Application to first tier and higher tier entities.
 
-(12) Certain non-stock ownership interests. 
+(12) Certain non-stock ownership interests.
 
-(13) Examples. 
+(13) Examples.
 
-(14) Effective date. 
+(14) Effective date.
 
-(i) In general. 
+(i) In general.
 
-(ii) Effective date for paragraph (j)(10) of this section. 
+(ii) Effective date for paragraph (j)(10) of this section.
 
-(iii) Election to apply this paragraph (j) retroactively. 
+(iii) Election to apply this paragraph (j) retroactively.
 
-(A) Election. 
+(A) Election.
 
-(B) Amended returns. 
+(B) Amended returns.
 
-(C) Revised information statements. 
+(C) Revised information statements.
 
-(k) Special rules for certain regulated investment companies. 
+(k) Special rules for certain regulated investment companies.
 
-(1) In general. 
+(1) In general.
 
-(2) Effective date. 
+(2) Effective date.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Election to apply prospectively. 
+(ii) Election to apply prospectively.
 
 § 1.382-4 Constructive ownership of stock.
 
-(a) In general. \[Reserved\] 
+(a) In general. \[Reserved\]
 
-(b) Attribution from corporations, partnerships, estates and trusts. 
+(b) Attribution from corporations, partnerships, estates and trusts.
 
-(1) \[Reserved\] 
+(1) \[Reserved\]
 
-(2) Limitation. 
+(2) Limitation.
 
-(c) Attribution to corporations, partnerships, estates and trusts. \[Reserved\] 
+(c) Attribution to corporations, partnerships, estates and trusts. \[Reserved\]
 
-(d) Treatment of options as exercised. 
+(d) Treatment of options as exercised.
 
-(1) General rule. 
+(1) General rule.
 
-(2) Options treated as exercised. 
+(2) Options treated as exercised.
 
-(i) Issuance or transfer. 
+(i) Issuance or transfer.
 
-(ii) Subsequent testing dates. 
+(ii) Subsequent testing dates.
 
-(3) The ownership test. 
+(3) The ownership test.
 
-(4) The control test. 
+(4) The control test.
 
-(i) In general. 
+(i) In general.
 
-(ii) Operating rules. 
+(ii) Operating rules.
 
-(A) Person and related persons. 
+(A) Person and related persons.
 
-(B) Indirect ownership interest. 
+(B) Indirect ownership interest.
 
-(5) The income test. 
+(5) The income test.
 
-(6) Application of the ownership, control, and income tests. 
+(6) Application of the ownership, control, and income tests.
 
-(i) In general. 
+(i) In general.
 
-(ii) Application of ownership test. 
+(ii) Application of ownership test.
 
-(iii) Application of control test. 
+(iii) Application of control test.
 
-(iv) Application of income test. 
+(iv) Application of income test.
 
-(7) Safe harbors. 
+(7) Safe harbors.
 
-(i) Contracts to acquire stock. 
+(i) Contracts to acquire stock.
 
-(ii) Escrow, pledge, or other security agreements. 
+(ii) Escrow, pledge, or other security agreements.
 
-(iii) Compensatory options. 
+(iii) Compensatory options.
 
-(iv) Options exercisable only upon death, disability, mental incompetency or retirement. 
+(iv) Options exercisable only upon death, disability, mental incompetency or retirement.
 
-(v) Rights of first refusal. 
+(v) Rights of first refusal.
 
-(vi) Options designated in the Internal Revenue Bulletin. 
+(vi) Options designated in the Internal Revenue Bulletin.
 
-(8) Additional rules. 
+(8) Additional rules.
 
-(i) Contracts to acquire stock. 
+(i) Contracts to acquire stock.
 
-(ii) Indirect transfer of an option. 
+(ii) Indirect transfer of an option.
 
-(iii) Options related to interests in non-corporate entities. 
+(iii) Options related to interests in non-corporate entities.
 
-(iv) Puts. 
+(iv) Puts.
 
-(9) Definition of option. 
+(9) Definition of option.
 
-(i) In general. 
+(i) In general.
 
-(ii) Convertible stock. 
+(ii) Convertible stock.
 
-(iii) Series of options. 
+(iii) Series of options.
 
-(iv) General principles of tax law. 
+(iv) General principles of tax law.
 
-(10) Subsequent treatment of options treated as exercised on a change date. 
+(10) Subsequent treatment of options treated as exercised on a change date.
 
-(i) In general. 
+(i) In general.
 
-(ii) Alternative look-back rule for options exercised within 3 years after change date. 
+(ii) Alternative look-back rule for options exercised within 3 years after change date.
 
-(11) Transfers not subject to deemed exercise. 
+(11) Transfers not subject to deemed exercise.
 
-(12) Certain rules regarding non-stock interests as stock. 
+(12) Certain rules regarding non-stock interests as stock.
 
-(e) Stock transferred under certain agreements. \[Reserved\] 
+(e) Stock transferred under certain agreements. \[Reserved\]
 
-(f) Family attribution. \[Reserved\] 
+(f) Family attribution. \[Reserved\]
 
-(g) Definitions. 
+(g) Definitions.
 
-(h) Effective date. 
+(h) Effective date.
 
-(1) In general. \[Reserved\] 
+(1) In general. \[Reserved\]
 
-(2) Option attribution rules. 
+(2) Option attribution rules.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Special rule for control test. 
+(ii) Special rule for control test.
 
-(iii) Convertible stock issued prior to July 20, 1988. 
+(iii) Convertible stock issued prior to July 20, 1988.
 
-(A) In general. 
+(A) In general.
 
-(B) Exceptions. 
+(B) Exceptions.
 
-(*1*) Nonvoting convertible preferred stock. 
+(*1*) Nonvoting convertible preferred stock.
 
-(*2*) Other convertible stock. 
+(*2*) Other convertible stock.
 
-(iv) Convertible stock issued on or after July 20, 1988, and before November 5, 1992. 
+(iv) Convertible stock issued on or after July 20, 1988, and before November 5, 1992.
 
-(v) Certain options in existence immediately before and after an ownership change. 
+(v) Certain options in existence immediately before and after an ownership change.
 
-(vi) Election to apply § 1.382-2T(h)(4). 
+(vi) Election to apply § 1.382-2T(h)(4).
 
-(A) In general. 
+(A) In general.
 
-(B) Additional consequences of election. 
+(B) Additional consequences of election.
 
-(C) Time and manner of making the election. 
+(C) Time and manner of making the election.
 
-(D) Amended returns. 
+(D) Amended returns.
 
-(3) Special rule for options subject to attribution under § 1.382-2T(h)(4). 
+(3) Special rule for options subject to attribution under § 1.382-2T(h)(4).
 
 § 1.382-5 Section 382 limitation.
 
-(a) Scope. 
+(a) Scope.
 
-(b) Computation of value. 
+(b) Computation of value.
 
-(c) Short taxable year. 
+(c) Short taxable year.
 
-(d) Successive ownership changes and absorption of a section 382 limitation. 
+(d) Successive ownership changes and absorption of a section 382 limitation.
 
-(1) In general. 
+(1) In general.
 
-(2) Recognized built-in gains and losses. 
+(2) Recognized built-in gains and losses.
 
-(3) Effective date. 
+(3) Effective date.
 
-(e) Controlled groups. 
+(e) Controlled groups.
 
-(f) Effective date. 
+(f) Effective date.
 
 § 1.382-6 Allocation of income and loss to periods before and after the change date for purposes of section 382.
 
-(a) General rule. 
+(a) General rule.
 
-(1) In general. 
+(1) In general.
 
-(2) Allocation of business interest expense. 
+(2) Allocation of business interest expense.
 
-(i) Scope. 
+(i) Scope.
 
-(ii) Deductibility of business interest expense. 
+(ii) Deductibility of business interest expense.
 
-(b) Closing-of-the-books election. 
+(b) Closing-of-the-books election.
 
-(1) In general. 
+(1) In general.
 
-(2) Making the closing-of-the-books election. 
+(2) Making the closing-of-the-books election.
 
-(i) Time and manner. 
+(i) Time and manner.
 
-(ii) Election irrevocable. 
+(ii) Election irrevocable.
 
-(3) Special rules relating to consolidated and controlled groups. 
+(3) Special rules relating to consolidated and controlled groups.
 
-(i) Consolidated groups. 
+(i) Consolidated groups.
 
-(ii) Controlled groups. 
+(ii) Controlled groups.
 
-(4) Allocation of business interest expense. 
+(4) Allocation of business interest expense.
 
-(i) Scope. 
+(i) Scope.
 
-(ii) Deductibility of business interest expense. 
+(ii) Deductibility of business interest expense.
 
-(iii) Example. 
+(iii) Example.
 
-(c) Operating rules for determining net operating loss, taxable income, net capital loss, modified capital gain net income, and special allocations. 
+(c) Operating rules for determining net operating loss, taxable income, net capital loss, modified capital gain net income, and special allocations.
 
-(1) In general. 
+(1) In general.
 
-(2) Adjustment to net operating loss. 
+(2) Adjustment to net operating loss.
 
-(i) Determination of remaining capital gain. 
+(i) Determination of remaining capital gain.
 
-(ii) Reduction of net operating loss by remaining capital gain. 
+(ii) Reduction of net operating loss by remaining capital gain.
 
-(d) Coordination with rules relating to the allocation of income under § 1.1502-76(b). 
+(d) Coordination with rules relating to the allocation of income under § 1.1502-76(b).
 
-(e) Allocation of certain credits. 
+(e) Allocation of certain credits.
 
-(f) Examples. 
+(f) Examples.
 
-(g) Definitions and nomenclature. 
+(g) Definitions and nomenclature.
 
-(1) Change year. 
+(1) Change year.
 
-(2) Pre-change period. 
+(2) Pre-change period.
 
-(3) Post-change period. 
+(3) Post-change period.
 
-(4) Modified capital gain net income. 
+(4) Modified capital gain net income.
 
-(h) Applicability date. 
+(h) Applicability date.
 
-(1) In general. 
+(1) In general.
 
-(2) Paragraphs (a) and (b)(1) and (4) of this section. 
+(2) Paragraphs (a) and (b)(1) and (4) of this section.
 
 § 1.382-7 Built-in gains and losses.
 
-(a) Treatment of prepaid income. 
+(a) Treatment of prepaid income.
 
-(b) Effective/applicability dates. 
+(b) Effective/applicability dates.
 
-(c) \[Reserved\] 
+(c) \[Reserved\]
 
-(d) Special rules. 
+(d) Special rules.
 
-(1)-(4) \[Reserved\] 
+(1)-(4) \[Reserved\]
 
-(5) Section 382 disallowed business interest carryforwards. 
+(5) Section 382 disallowed business interest carryforwards.
 
-(e)-(f) \[Reserved\] 
+(e)-(f) \[Reserved\]
 
-(g) Applicability dates. 
+(g) Applicability dates.
 
-(1)-(3) \[Reserved\] 
+(1)-(3) \[Reserved\]
 
-(4) Paragraph (d)(5) of this section. 
+(4) Paragraph (d)(5) of this section.
 
 § 1.382-8 Controlled groups.
 
-(a) Introduction. 
+(a) Introduction.
 
-(b) Controlled group loss and controlled group with respect to a controlled group loss. 
+(b) Controlled group loss and controlled group with respect to a controlled group loss.
 
-(1) In general. 
+(1) In general.
 
-(2) Presumption regarding net unrealized built-in loss. 
+(2) Presumption regarding net unrealized built-in loss.
 
-(c) Computation of value. 
+(c) Computation of value.
 
-(1) Reduction in value by the amount restored. 
+(1) Reduction in value by the amount restored.
 
-(2) Restoration of value. 
+(2) Restoration of value.
 
-(3) Reduction in value by the amount restored. 
+(3) Reduction in value by the amount restored.
 
-(4) Appropriate adjustments. 
+(4) Appropriate adjustments.
 
-(5) Certain reductions in the value of members of a controlled group. 
+(5) Certain reductions in the value of members of a controlled group.
 
-(d) No double reduction. 
+(d) No double reduction.
 
-(e) Definitions and nomenclature. 
+(e) Definitions and nomenclature.
 
-(1) Definitions in Section 382 and the regulations thereunder. 
+(1) Definitions in Section 382 and the regulations thereunder.
 
-(2) Controlled group. 
+(2) Controlled group.
 
-(3) Component member. 
+(3) Component member.
 
-(4) Foreign component member. 
+(4) Foreign component member.
 
-(i) In general. 
+(i) In general.
 
-(ii) Exception. 
+(ii) Exception.
 
-(5) Predecessor and successor corporation. 
+(5) Predecessor and successor corporation.
 
-(f) Coordination between consolidated groups and controlled groups. 
+(f) Coordination between consolidated groups and controlled groups.
 
-(g) Examples. 
+(g) Examples.
 
-(h) Time and manner of filing election to restore. 
+(h) Time and manner of filing election to restore.
 
-(1) Statements required. 
+(1) Statements required.
 
-(i) Filing by loss corporation. 
+(i) Filing by loss corporation.
 
-(ii) Filing by electing member. 
+(ii) Filing by electing member.
 
-(iii) Agreement. 
+(iii) Agreement.
 
-(2) Special rule for foreign component members. 
+(2) Special rule for foreign component members.
 
-(i) Deemed election to restore full value. 
+(i) Deemed election to restore full value.
 
-(ii) Election not to restore full value. 
+(ii) Election not to restore full value.
 
-(iii) Agreement. 
+(iii) Agreement.
 
-(3) Revocation of election. 
+(3) Revocation of election.
 
-(i) \[Reserved\] 
+(i) \[Reserved\]
 
-(j) Effective date. 
+(j) Effective date.
 
-(1) In general. 
+(1) In general.
 
-(2) Transition rule. 
+(2) Transition rule.
 
-(i) In general. 
+(i) In general.
 
-(ii) Special transition rules for controlled groups that had ownership changes before January 29, 1991. 
+(ii) Special transition rules for controlled groups that had ownership changes before January 29, 1991.
 
-(3) Amended returns. 
+(3) Amended returns.
 
-(4) Effective/applicability date. 
+(4) Effective/applicability date.
 
 § 1.382-9 Special rules under section 382 for corporations under the jurisdiction of a court in a title 11 or similar case.
 
-(a) Introduction. 
+(a) Introduction.
 
-(b) Application of section 382(1)(5). 
+(b) Application of section 382(1)(5).
 
-(c) \[Reserved\] 
+(c) \[Reserved\]
 
-(d) Rules for determining whether stock of the loss corporation is owned as a result of being a qualified creditor. 
+(d) Rules for determining whether stock of the loss corporation is owned as a result of being a qualified creditor.
 
-(1) Qualified creditor. 
+(1) Qualified creditor.
 
-(2) General rules for determining whether indebtedness is qualified indebtedness. 
+(2) General rules for determining whether indebtedness is qualified indebtedness.
 
-(i) Definition. 
+(i) Definition.
 
-(ii) Determination of beneficial ownership. 
+(ii) Determination of beneficial ownership.
 
-(iii) Duty of inquiry. 
+(iii) Duty of inquiry.
 
-(iv) Ordinary course indebtedness. 
+(iv) Ordinary course indebtedness.
 
-(3) Treatment of certain indebtedness as continuously owned by the same owner. 
+(3) Treatment of certain indebtedness as continuously owned by the same owner.
 
-(i) In general. 
+(i) In general.
 
-(ii) Operating rules. 
+(ii) Operating rules.
 
-(iii) Indebtedness owned by beneficial owner who becomes a 5-percent shareholder or 5-percent entity. 
+(iii) Indebtedness owned by beneficial owner who becomes a 5-percent shareholder or 5-percent entity.
 
-(iv) Example. 
+(iv) Example.
 
-(4) Special rule if indebtedness is a large portion of creditor's assets. 
+(4) Special rule if indebtedness is a large portion of creditor's assets.
 
-(i) In general. 
+(i) In general.
 
-(ii) Applicable period. 
+(ii) Applicable period.
 
-(iii) Determination of ownership change. 
+(iii) Determination of ownership change.
 
-(iv) Reliance on statement. 
+(iv) Reliance on statement.
 
-(5) Tacking of ownership periods. 
+(5) Tacking of ownership periods.
 
-(i) Transferee treated as owning indebtedness for period owned by transferor. 
+(i) Transferee treated as owning indebtedness for period owned by transferor.
 
-(ii) Qualified transfer. 
+(ii) Qualified transfer.
 
-(iii) Exception. 
+(iii) Exception.
 
-(iv) Debt-for-debt exchanges. 
+(iv) Debt-for-debt exchanges.
 
-(6) Effective date. 
+(6) Effective date.
 
-(i) In general. 
+(i) In general.
 
-(ii) Elections and amended returns. 
+(ii) Elections and amended returns.
 
-(A) Election to apply this paragraph (d) retroactively. 
+(A) Election to apply this paragraph (d) retroactively.
 
-(B) Election to revoke section 382(l)(5)(H) election. 
+(B) Election to revoke section 382(l)(5)(H) election.
 
-(C) Amended returns. 
+(C) Amended returns.
 
-(e) Option attribution for purposes of determining stock ownership under section 382(1)(5)(A)(ii). 
+(e) Option attribution for purposes of determining stock ownership under section 382(1)(5)(A)(ii).
 
-(1) In general. 
+(1) In general.
 
-(2) Special rules. 
+(2) Special rules.
 
-(i) Lapse or forfeiture of options deemed exercised. 
+(i) Lapse or forfeiture of options deemed exercised.
 
-(ii) Actual exercise of options not deemed exercised. 
+(ii) Actual exercise of options not deemed exercised.
 
-(iii) Amended returns. 
+(iii) Amended returns.
 
-(3) Examples. 
+(3) Examples.
 
-(4) Effective dates. 
+(4) Effective dates.
 
-(i) In general. 
+(i) In general.
 
-(ii) Special rule for interest or dividends. 
+(ii) Special rule for interest or dividends.
 
-(f)-(h) \[Reserved\] 
+(f)-(h) \[Reserved\]
 
-(i) Election not to apply section 382(l)(5). 
+(i) Election not to apply section 382(l)(5).
 
-(j) Value of the loss corporation in an ownership change to which section 382(l)(6) applies. 
+(j) Value of the loss corporation in an ownership change to which section 382(l)(6) applies.
 
-(k) Rules for determining the value of the stock of the loss corporation. 
+(k) Rules for determining the value of the stock of the loss corporation.
 
-(1) Certain ownership interests treated as stock. 
+(1) Certain ownership interests treated as stock.
 
-(2) Coordination with section 382(e)(2). 
+(2) Coordination with section 382(e)(2).
 
-(3) Coordination with section 382(e)(3). 
+(3) Coordination with section 382(e)(3).
 
-(4) Coordination with section 382(l)(1). 
+(4) Coordination with section 382(l)(1).
 
-(5) Coordination with section 382(l)(4). 
+(5) Coordination with section 382(l)(4).
 
-(6) Special rule for stock not subject to the risk of corporate business operations. 
+(6) Special rule for stock not subject to the risk of corporate business operations.
 
-(i) In general. 
+(i) In general.
 
-(ii) Coordination of special rule and other rules affecting value. 
+(ii) Coordination of special rule and other rules affecting value.
 
-(7) Limitation on value of stock. 
+(7) Limitation on value of stock.
 
-(l) Rules for determining the value of the loss corporation's pre-change assets. 
+(l) Rules for determining the value of the loss corporation's pre-change assets.
 
-(1) In general. 
+(1) In general.
 
-(2) Coordination with section 382(e)(2). 
+(2) Coordination with section 382(e)(2).
 
-(3) Coordination with section 382(e)(3). 
+(3) Coordination with section 382(e)(3).
 
-(4) Coordination with section 382(l)(1). 
+(4) Coordination with section 382(l)(1).
 
-(5) Coordination with section 382(l)(4). 
+(5) Coordination with section 382(l)(4).
 
-(m) Continuity of business requirement. 
+(m) Continuity of business requirement.
 
-(1) Under section 382(1)(5). 
+(1) Under section 382(1)(5).
 
-(2) Under section 382(l)(6). 
+(2) Under section 382(l)(6).
 
-(n) Ownership change in a title 11 or similar case succeeded by another ownership change within two years. 
+(n) Ownership change in a title 11 or similar case succeeded by another ownership change within two years.
 
-(1) Section 382(l)(5) applies to the first ownership change. 
+(1) Section 382(l)(5) applies to the first ownership change.
 
-(2) Section 382(l)(6) applies to the first ownership change. 
+(2) Section 382(l)(6) applies to the first ownership change.
 
-(o) Options not subject to attribution. 
+(o) Options not subject to attribution.
 
-(p) Effective date for rules relating to section 382(l)(6). 
+(p) Effective date for rules relating to section 382(l)(6).
 
-(1) In general. 
+(1) In general.
 
-(2) Ownership change to which section 382(l)(6) applies occurring before March 17, 1994. 
+(2) Ownership change to which section 382(l)(6) applies occurring before March 17, 1994.
 
 § 1.382-10 Special rules for determining time and manner of acquisition of an interest in a loss corporation. § 1.382-11 Reporting requirements.
 
-(a) Information statement required. 
+(a) Information statement required.
 
-(b) Effective/applicability date. 
+(b) Effective/applicability date.
 
 § 1.382-12 Determination of adjusted Federal long-term rate.
 
-(a) In general. 
+(a) In general.
 
-(b) Adjusted Federal long-term rate. 
+(b) Adjusted Federal long-term rate.
 
-(c) Adjustment factor. 
+(c) Adjustment factor.
 
 (d) Effective/applicability date.
 

@@ -1,6 +1,6 @@
 ##### § 300.91 Definitions.
 
-In addition to the terms defined in § 300.2 and those in the Act and the Treaty, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Act, or the Treaty, the definition in this section shall apply.
+In addition to the terms defined in § 300.2 and those in the Act and the Treaty, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Act, or the Treaty, the definition in this section shall apply.*All-citizen*
 
 *All-citizen* means any person who is not a treaty Indian fishing in that treaty Indian's tribal treaty fishing places pursuant to treaty Indian tribal fishing regulations (whether in compliance with such regulations or not).
 

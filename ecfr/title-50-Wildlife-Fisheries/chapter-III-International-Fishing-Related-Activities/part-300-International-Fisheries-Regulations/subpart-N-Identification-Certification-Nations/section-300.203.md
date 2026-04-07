@@ -1,6 +1,6 @@
 ##### § 300.203 Identification and certification of nations engaged in bycatch of protected living marine resources.
 
-(1) NMFS will identify and list, in the biennial report to Congress nations—
+(1) NMFS will identify and list, in the biennial report to Congress nations—*Notification of nations identified as having fishing vessels engaged in PLMR bycatch.*
 
 (i) whose fishing vessels are engaged, or have been engaged during the preceding calendar year prior to publication of the biennial report to Congress, in fishing activities or practices either in waters beyond any national jurisdiction that result in bycatch of a PLMR, or in waters beyond the U.S. EEZ that result in bycatch of a PLMR that is shared by the United States;
 
