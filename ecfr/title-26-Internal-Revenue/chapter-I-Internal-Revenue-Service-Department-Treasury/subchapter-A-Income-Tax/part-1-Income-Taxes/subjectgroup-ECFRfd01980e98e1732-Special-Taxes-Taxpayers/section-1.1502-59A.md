@@ -164,4 +164,4 @@
 
 (h) *Applicability date.* This section applies to taxable years for which the original consolidated Federal income tax return is due (without extensions) after December 6, 2019.
 
-\[T.D. 9885, 84 FR 67039, Dec. 6, 2019\]
+\[T.D. 9885, 84 FR 67039, Dec. 6, 2019; 85 FR 49595, Aug. 14, 2020\]
