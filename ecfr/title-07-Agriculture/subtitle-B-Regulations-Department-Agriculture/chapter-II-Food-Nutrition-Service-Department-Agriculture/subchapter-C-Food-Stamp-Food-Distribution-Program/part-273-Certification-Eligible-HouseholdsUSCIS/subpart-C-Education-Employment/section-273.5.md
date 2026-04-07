@@ -1,7 +1,5 @@
 ##### § 273.5 Students.
 
-Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
-
 (a) *Applicability.* An individual who is enrolled at least half-time in an institution of higher education shall be ineligible to participate in SNAP unless the individual qualifies for one of the exemptions contained in paragraph (b) of this section. An individual is considered to be enrolled in an institution of higher education if the individual is enrolled in a business, technical, trade, or vocational school that normally requires a high school diploma or equivalency certificate for enrollment in the curriculum or if the individual is enrolled in a regular curriculum at a college or university that offers degree programs regardless of whether a high school diploma is required.
 
 (b) *Student Exemptions.* To be eligible for the program, a student as defined in paragraph (a) of the section must meet at least one of the following criteria.
@@ -38,7 +36,11 @@ Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
 
 (i) A program under the Job Training Partnership Act of 1974 (29 U.S.C. 1501, *et seq.*);
 
-(ii) An employment and training program under § 273.7;
+(ii) An employment and training program under § 273.7, subject to the condition that the course or program of study, as determined by the State agency:
+
+(A) Is part of a program of career and technical education as defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302) designed to be completed in not more than 4 years at an institution of higher education as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 2296); or
+
+(B) is limited to remedial courses, basic adult education, literacy, or English as a second language.
 
 (iii) A program under section 236 of the Trade Act of 1974 (19 U.S.C. 2296); or
 
@@ -48,4 +50,4 @@ Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
 
 (d) The income and resources of an ineligible student shall be handled as outlined in § 273.11(d).
 
-\[46 FR 43025, Aug. 25, 1981, as amended by Amdt. 235, 47 FR 55908, Dec. 14, 1982; Amdt. 269, 51 FR 10785, Mar. 28, 1986; Amdt. 274, 51 FR 18750, May 21, 1986; Amdt. 277, 51 FR 30048, Aug. 22, 1986; Amdt. 370, 60 FR 48869, Sept. 21, 1995; 67 FR 41603, June 19, 2002; 82 FR 2308, Jan. 6, 2017\]
+\[46 FR 43025, Aug. 25, 1981, as amended by Amdt. 235, 47 FR 55908, Dec. 14, 1982; Amdt. 269, 51 FR 10785, Mar. 28, 1986; Amdt. 274, 51 FR 18750, May 21, 1986; Amdt. 277, 51 FR 30048, Aug. 22, 1986; Amdt. 370, 60 FR 48869, Sept. 21, 1995; 67 FR 41603, June 19, 2002; 82 FR 2308, Jan. 6, 2017; 84 FR 15094, Apr. 15, 2019\]

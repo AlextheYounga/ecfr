@@ -1,7 +1,5 @@
 ##### § 273.12 Reporting requirements.
 
-Link to an amendment published at 84 FR 15095, Apr. 15, 2019.
-
 (a) *Household responsibility to report.* (1) Monthly reporting households are required to report as provided in § 273.21. Quarterly reporting households are subject to the procedures as provided in paragraph (a)(4) of this section. Simplified reporting households are subject to the procedures as provided in paragraph (a)(5) of this section. Certified change reporting households are required to report the following changes in circumstances:
 
 (i) (A) A change of more than $100 in the amount of unearned income, except changes relating to public assistance (PA) or general assistance (GA) in project areas in which GA and SNAP cases are jointly processed. The State agency is responsible for identifying changes during the certification period in the amount of PA, or GA in jointly processed cases. If GA and SNAP cases are not jointly processed, the household is responsible for reporting changes in GA of more than $100.
@@ -28,6 +26,8 @@ Link to an amendment published at 84 FR 15095, Apr. 15, 2019.
 
 (vii) For able-bodied adults subject to the time limit of § 273.24, any changes in work hours that bring an individual below 20 hours per week, averaged monthly, as defined in § 273.24(a)(1)(i). An individual shall report this information in accordance with the reporting system for income to which he is subject.
 
+(viii) Whenever a member of the household wins substantial lottery or gambling winnings in accordance with § 273.11(r).
+
 (2) Certified households must report changes within 10 days of the date the change becomes known to the household, or at the State agency's option, the household must report changes within 10 days of the end of the month in which the change occurred. For reportable changes of income, the State agency shall require that change to be reported within 10 days of the date that the household receives the first payment attributable to the change. For households subject to simplified reporting, the household must report changes no later than 10 days from the end of the calendar month in which the change occurred, provided that the household receives the payment with at least 10 days remaining in the month. If there are not 10 days remaining in the month, the household must report within 10 days from receipt of the payment. Optional procedures for reporting changes are contained in paragraph (f) of this section for households in States with forms for jointly reporting SNAP and public assistance changes and SNAP and general assistance changes
 
 (3) An applying household shall report all changes related to its SNAP eligibility and benefits at the certification interview. Changes, as provided in paragraph (a)(1) of this section, which occur after the interview but before the date of the notice of eligibility, shall be reported by the household within 10 days of the date of the notice.
@@ -40,7 +40,7 @@ Link to an amendment published at 84 FR 15095, Apr. 15, 2019.
 
 (iii) *Failure to file a complete form by the specified filing date.* If a household fails to file a complete report by the specified filing date, the State agency will send a notice to the household advising it of the missing or incomplete report no later than 10 days from the date the report should have been submitted. If the household does not respond to the notice, the household's participation shall be terminated. The State agency may combine the notice of a missing or incomplete report with the adequate notice of termination described in paragraph (a)(4)(v) of this section.
 
-(iv) *Content of the quarterly report form.* The State agency may include all of the items subject to reporting under paragraph (a)(1) of this section in the quarterly report, except changes reportable under paragraphs (a)(1)(vii) or (a)(1)(viii) of this section, or may limit the report to specific items while requiring that households report other items through the use of the change report form.
+(iv) *Content of the quarterly report form.* The State agency may include all of the items subject to reporting under paragraph (a)(1) of this section in the quarterly report, except changes reportable under paragraphs (a)(1)(vii) and (a)(1)(viii) of this section, or may limit the report to specific items while requiring that households report other items through the use of the change report form.
 
 (v) *Reduction or termination of benefits.* If the household files a complete report resulting in reduction or termination of benefits, the State agency shall send an adequate notice, as defined in § 271.2 of this chapter. The notice must be issued so that it will be received by the household no later than the time that its benefits are normally received. If the household fails to provide sufficient information or verification regarding a deductible expense, the State agency will not terminate the household, but will instead determine the household's benefits without regard to the deduction.
 
@@ -82,7 +82,13 @@ Link to an amendment published at 84 FR 15095, Apr. 15, 2019.
 
 (F) If an eligible household that has been terminated for failure to file a complete report files a complete report after its extended filing date under (E), but before the end of the issuance month, the State agency may choose to reinstate the household. If the household has requested a fair hearing on the basis that a complete periodic report was filed, but the State does not have it, the State agency shall reinstate the household if a completed periodic report is filed before the end of the issuance month.
 
-(G) The periodic report form shall be the sole reporting requirement for any information that is required to be reported on the form, except that a household required to report less frequently than quarterly shall report when its monthly gross income exceeds the monthly gross income limit for its household size in accordance with paragraph (a)(5)(v) of this section, and able-bodied adults subject to the time limit of § 273.24 shall report whenever their work hours fall below 20 hours per week, averaged monthly.
+(G) The periodic report form shall be the sole reporting requirement for any information that is required to be reported on the form, except that a household required to report less frequently than quarterly shall report:
+
+(*1*) When the household monthly gross income exceeds the monthly gross income limit for its household size in accordance with paragraph (a)(5)(v) of this section;
+
+(*2*) Whenever able-bodied adults subject to the time limit of § 273.24 have their work hours fall below 20 hours per week, averaged monthly; and
+
+(*3*) Whenever a member of the household wins substantial lottery or gambling winnings in accordance with § 273.11(r).
 
 (H) If the State agency uses a combined periodic report for SNAP and TANF or Medicaid, the State agency shall clearly indicate on the form that SNAP-only households need not provide information required by another program. Non-applicant household or family members need not provide SSNs or information about citizenship or immigration status.
 
@@ -94,15 +100,17 @@ Link to an amendment published at 84 FR 15095, Apr. 15, 2019.
 
 (A) The State agency must act on any change in household circumstances in accordance with paragraph (c) of this section; or
 
-(B) The State agency must act on any change in accordance with paragraph (c)(1) of this section if it would increase the household's benefits. The State agency must not act on changes that would result in a decrease in the household's benefits unless:
+(B) The State agency must not act on changes that would result in a decrease in the household's benefits unless one of the following occurs:
 
-(*1*) The household has voluntarily requested that its case be closed in accordance with § 273.13(b)(12);
+(*1*) The household has voluntarily requested that its case be closed in accordance with § 273.13(b)(12).
 
-(*2*) The State agency has information about the household's circumstances considered verified upon receipt; or
+(*2*) The State agency has information about the household's circumstances considered verified upon receipt.
 
-(*3*) A household member has been identified as a fleeing felon or probation or parole violator in accord with § 273.11(n);
+(*3*) A household member has been identified as a fleeing felon or probation or parole violator in accordance with § 273.11(n).
 
-(*4*) There has been a change in the household's PA grant, or GA grant in project areas where GA and SNAP cases are jointly processed in accord with § 273.2(j)(2).
+(*4*) There has been a change in the household's PA grant, or GA grant in project areas where GA and food stamp cases are jointly processed in accordance with § 273.2(j)(2).
+
+(*5*) The State agency has verified information that a member of a SNAP household has won substantial lottery or gambling winnings in accordance with § 273.11(r).
 
 (vii) *State plan requirement.* A State agency that chooses to use simplified reporting procedures in accordance with this section must state in its State plan of operation that it has implemented simplified reporting and specify the types of households to whom the reporting requirement applies.
 

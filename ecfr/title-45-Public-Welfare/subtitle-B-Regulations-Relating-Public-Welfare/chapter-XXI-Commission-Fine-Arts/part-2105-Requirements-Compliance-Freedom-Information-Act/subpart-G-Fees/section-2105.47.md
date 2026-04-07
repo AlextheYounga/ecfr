@@ -2,7 +2,7 @@
 
 (a) The Agency will notify you under this section unless:
 
-(1) The anticipated fee is less than $50 (see § 2105.35(g));
+(1) The anticipated fee is less than $50 (*see* § 2105.35(g));
 
 (2) You have been granted a full fee waiver; or
 

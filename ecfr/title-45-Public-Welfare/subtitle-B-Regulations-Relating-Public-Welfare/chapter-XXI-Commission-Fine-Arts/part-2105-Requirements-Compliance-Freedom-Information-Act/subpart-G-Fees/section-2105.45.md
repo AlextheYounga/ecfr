@@ -8,6 +8,8 @@ If the Agency denies your request for a fee waiver, it will notify you, in writi
 
 (c) The name and title of legal counsel consulted;
 
-(d) Your right to appeal the denial under subpart H of this part and a description of the requirements set forth therein, within 30 workdays from the date of the fee waiver denial letter; and
+(d) Advisement of the right to seek dispute resolution services from the Agency's FOIA Public Liaison and the Office of Government Information Services (OIGS);
 
-(e) Your anticipated fees, in accordance with § 2105.47.
+(e) Your right to appeal the denial under subpart H of this part and a description of the requirements set forth therein, within 30 workdays from the date of the fee waiver denial letter; and
+
+(f) Your anticipated fees, in accordance with § 2105.47.

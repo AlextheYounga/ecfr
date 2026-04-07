@@ -1,7 +1,5 @@
 ##### § 273.1 Household concept.
 
-Link to an amendment published at 84 FR 15093, Apr. 15, 2019.
-
 (a) *General household definition.* A household is composed of one of the following individuals or groups of individuals, unless otherwise specified in paragraph (b) of this section:
 
 (1) An individual living alone;
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 15093, Apr. 15, 2019.
 
 (3) A group of individuals who live together and customarily purchase food and prepare meals together for home consumption.
 
-(b) *Special household requirements* - (1) *Required household combinations.* The following individuals who live with others must be considered as customarily purchasing food and preparing meals with the others, even if they do not do so, and thus must be included in the same household, unless otherwise specified.
+(b) *Special household requirements*—(1) *Required household combinations.* The following individuals who live with others must be considered as customarily purchasing food and preparing meals with the others, even if they do not do so, and thus must be included in the same household, unless otherwise specified.
 
 (i) Spouses;
 
@@ -69,6 +67,8 @@ Link to an amendment published at 84 FR 15093, Apr. 15, 2019.
 (x) Individuals disqualified for failure to cooperate with child support enforcement agencies in accordance with § 273.11(o) or (p), or for being delinquent in any court-ordered child support obligation in accordance with § 273.11(q).
 
 (xi) Persons ineligible under § 273.24, the time limit for able-bodied adults.
+
+(xii) Individuals convicted of certain crimes and who are out of compliance with the terms of their sentence and ineligible under § 273.11(s).
 
 (c) *Unregulated situations.* For situations that are not clearly addressed by the provisions of paragraphs (a) and (b) of this section, the State agency may apply its own policy for determining when an individual is a separate household or a member of another household if the policy is applied fairly, equitably and consistently throughout the State.
 

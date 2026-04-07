@@ -2,7 +2,7 @@
 
 (a) Once the Agency makes a determination to grant a request in full or in part, it must notify you in writing.
 
-(b) The notification will inform you of any fees charged under subpart G of this part.
+(b) The notification will inform you of the availability of its FOIA Public Liaison to offer assistance, and of any fees charged under subpart G of this part.
 
 (c) The Agency will release records (or portions of records) to you promptly upon payment of any applicable fees (or before then, at its discretion).
 

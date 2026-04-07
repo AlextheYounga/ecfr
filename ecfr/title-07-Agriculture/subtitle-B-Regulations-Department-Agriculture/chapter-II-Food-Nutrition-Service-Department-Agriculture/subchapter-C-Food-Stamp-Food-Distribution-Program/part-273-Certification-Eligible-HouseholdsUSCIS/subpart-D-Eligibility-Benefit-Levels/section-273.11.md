@@ -1,7 +1,5 @@
 ##### § 273.11 Action on households with special circumstances.
 
-Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
-
 (a) *Self-employment income.* The State agency must calculate a household's self-employment income as follows:
 
 (1) *Averaging self-employment income.* (i) Self-employment income must be averaged over the period the income is intended to cover, even if the household receives income from other sources. If the averaged amount does not accurately reflect the household's actual circumstances because the household has experienced a substantial increase or decrease in business, the State agency must calculate the self-employment income on the basis of anticipated, not prior, earnings.
@@ -52,7 +50,7 @@ Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
 
 (c) *Treatment of income and resources of certain nonhousehold members.* During the period of time that a household member cannot participate for the reasons addressed in this section, the eligibility and benefit level of any remaining household members shall be determined in accordance with the procedures outlined in this section.
 
-(1) *Intentional Program violation, felony drug conviction, or fleeing felon disqualifications, and workfare or work requirement sanctions.* The eligibility and benefit level of any remaining household members of a household containing individuals determined ineligible because of a disqualification for an intentional Program violation, a felony drug conviction, their fleeing felon status, noncompliance with a work requirement of § 273.7, or imposition of a sanction while they were participating in a household disqualified because of failure to comply with workfare requirements shall be determined as follows:
+(1) *Intentional Program violation, felony drug conviction, or fleeing felon disqualifications, and workfare or work requirement sanctions.* The eligibility and benefit level of any remaining household members of a household containing individuals determined ineligible because of a disqualification for an intentional Program violation, a felony drug conviction, their fleeing felon status, noncompliance with a work requirement of § 273.7, imposition of a sanction while they were participating in a household disqualified because of failure to comply with workfare requirements, or certain convicted felons as provided at § 273.11(s) shall be determined as follows:
 
 (i) *Income, resources, and deductible expenses.* The income and resources of the ineligible household member(s) shall continue to count in their entirety, and the entire household's allowable earned income, standard, medical, dependent care, child support, and excess shelter deductions shall continue to apply to the remaining household members.
 
@@ -366,7 +364,7 @@ Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
 
 (6) *Termination of disqualification.* The period of disqualification ends once it has been determined that the individual is cooperating with the child support agency. The State agency must have procedures in place for re-qualifying such an individual.
 
-(q) *Disqualification for child support arrears* - (1) *Option to disqualify.* At the option of a State agency, no individual shall be eligible to participate in SNAP as a member of any household during any month that the individual is delinquent in any payment due under a court order for the support of a child of the individual. The State agency may opt to apply this provision to only non-custodial parents.
+(q) *Disqualification for child support arrears*—(1) *Option to disqualify.* At the option of a State agency, no individual shall be eligible to participate in SNAP as a member of any household during any month that the individual is delinquent in any payment due under a court order for the support of a child of the individual. The State agency may opt to apply this provision to only non-custodial parents.
 
 (2) *Exceptions.* A disqualification under paragraph (q)(1) of this section shall not apply if:
 
@@ -379,5 +377,31 @@ Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
 (3) *Individual disqualification.* If the State agency has elected to implement this provision and determines that the individual should be disqualified for child support arrears, then that individual shall be ineligible to participate in SNAP. The disqualification shall not apply to the entire household. The income and resources of the disqualified individual shall be handled according to paragraph (c)(2) of this section.
 
 (4) *Collecting claims.* State agencies shall initiate collection action as provided for in § 273.18 for any month a household member is disqualified for child support arrears by sending the household a written demand letter which informs the household of the amount owed, the reason for the claim and how the household may pay the claim. The household should also be informed as to the adjusted amount of income, resources, and deductible expenses of the remaining members of the household for the month(s) a member is disqualified for child support arrears.
+
+(r) *Disqualification for Substantial Lottery or Gambling Winnings.* Any household certified to receive benefits shall lose eligibility for benefits immediately upon receipt by any individual in the household of substantial lottery or gambling winnings, as defined in paragraph (r)(2) of this section. The household shall report the receipt of substantial winnings to the State agency in accordance with the reporting requirements contained in § 273.12(a)(5)(iii)(G)(3) and within the time-frames described in § 273.12(a)(2). The State agency shall also take action to disqualify any household identified as including a member with substantial winnings in accordance with § 272.17.
+
+(1) *Regaining Eligibility.* Such households shall remain ineligible until they meet the allowable resources and income eligibility requirements described in §§ 273.8 and 273.9, respectively.
+
+(2) *Substantial Winnings*—(i) *In General.* Substantial lottery or gambling winnings are defined as a cash prize equal to or greater than the maximum allowable financial resource limit for elderly or disabled households as defined in § 273.8(b) won in a single game before taxes or other withholdings. For the purposes of this provision, the resource limit defined in § 273.8(b) applies to all households, including non-elderly/disabled households, with substantial lottery and gambling winnings. If multiple individuals shared in the purchase of a ticket, hand, or similar bet, then only the portion of the winnings allocated to the member of the SNAP household would be counted in the eligibility determination.
+
+(ii) *Adjustment.* The value of substantial winnings shall be adjusted annually in accordance with § 273.8(b)(1) and (2).
+
+(s) *Disqualification for certain convicted felons.* An individual shall not be eligible for SNAP benefits if:
+
+(1) The individual is convicted as an adult of:
+
+(i) Aggravated sexual abuse under section 2241 of title 18, United States Code;
+
+(ii) Murder under section 1111 of title 18, United States Code;
+
+(iii) An offense under chapter 110 of title 18, United States Code;
+
+(iv) A Federal or State offense involving sexual assault, as defined in section 40002(a) of the Violence Against Women Act of 1994 (42 U.S.C. 13925(a)); or
+
+(v) An offense under State law determined by the Attorney General to be substantially similar to an offense described in clause (i), (ii), or (iii); and
+
+(2) The individual is not in compliance with the terms of the sentence of the individual or the restrictions under § 273.11(n).
+
+(3) The disqualification contained in this paragraph (s) shall not apply to a conviction if the conviction is for conduct occurring on or before February 7, 2014.
 
 \[Amdt. 132, 43 FR 47889, Oct. 17, 1978\] Editorial Note:For Federal Register citations affecting § 273.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 273.7 Work provisions.
 
-Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
-
 (a) *Work requirements.* (1) As a condition of eligibility for SNAP benefits, each household member not exempt under paragraph (b)(1) of this section must comply with the following SNAP work requirements:
 
 (i) Register for work or be registered by the State agency at the time of application and every 12 months after initial registration. The member required to register need not complete the registration form.
@@ -306,7 +304,11 @@ Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
 
 (v) A project, program or experiment such as a supported work program, or a WIA or State or local program aimed at accomplishing the purpose of the E&T program.
 
-(vi) Educational programs or activities to improve basic skills or otherwise improve employability including educational programs determined by the State agency to expand the job search abilities or employability of those subject to the program. Allowable educational activities may include, but are not limited to, high school or equivalent educational programs, remedial education programs to achieve a basic literacy level, and instructional programs in English as a second language. Only educational components that directly enhance the employability of the participants are allowable. A direct link between the education and job-readiness must be established for a component to be approved.
+(vi) Educational programs or activities to improve basic skills or otherwise improve employability including educational programs determined by the State agency to expand the job search abilities or employability of those subject to the program.
+
+(A) Allowable educational programs or activities may include, but are not limited to, courses or programs of study that are part of a program of career and technical education (as defined in section 3 of the Carl D. Perkins Act of 2006), high school or equivalent educational programs, remedial education programs to achieve a basic literacy level, and instructional programs in English as a second language.
+
+(B) Only educational components that directly enhance the employability of the participants are allowable. A direct link between the education and job-readiness must be established for a component to be approved.
 
 (vii) A program designed to improve the self-sufficiency of recipients through self-employment. Included are programs that provide instruction for self-employment ventures.
 
@@ -690,4 +692,4 @@ Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
 
 (iv) The State agency or political subdivision must provide a description of its program, including a methodology for ensuring compliance with (m)(9)(ii) of this section. The description should be submitted to the appropriate Regional office, with copies forwarded to SNAP National office.
 
-\[67 FR 41603, June 19, 2002, as amended at 71 FR 33382, June 9, 2006; 81 FR 15622, Mar. 24, 2016; 81 FR 66497, Sept. 28, 2016; 82 FR 2038, Jan. 6, 2017\]
+\[67 FR 41603, June 19, 2002, as amended at 71 FR 33382, June 9, 2006; 81 FR 15622, Mar. 24, 2016; 81 FR 66497, Sept. 28, 2016; 82 FR 2038, Jan. 6, 2017; 84 FR 15094, Apr. 15, 2019\]

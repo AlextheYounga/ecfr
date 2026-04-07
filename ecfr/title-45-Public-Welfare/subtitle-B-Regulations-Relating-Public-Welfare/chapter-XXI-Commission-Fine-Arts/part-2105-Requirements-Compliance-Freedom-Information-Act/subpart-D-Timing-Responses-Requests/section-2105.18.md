@@ -32,6 +32,6 @@
 
 (2) Notify you of the right to appeal the decision on expedited processing in accordance with the procedures in subpart H of this part.
 
-(g) If you appeal the Agency's expedited processing decision, that portion of your appeal (if it is properly formatted under § 2105.57) will be processed before appeals that do not challenge expedited processing decisions.
+(g) If you appeal the Agency's expedited processing decision, that portion of your appeal (if it is properly formatted under § 2105.56) will be processed before appeals that do not challenge expedited processing decisions.
 
-(h) If the Agency has not responded to the request for expedited processing within 10 calendar days, you may file an appeal (for nonresponse in accordance with § 2105.55(a)(8)).
+(h) If the Agency has not responded to the request for expedited processing within 10 calendar days, you may file an appeal (for nonresponse in accordance with § 2105.54(a)(8)).
