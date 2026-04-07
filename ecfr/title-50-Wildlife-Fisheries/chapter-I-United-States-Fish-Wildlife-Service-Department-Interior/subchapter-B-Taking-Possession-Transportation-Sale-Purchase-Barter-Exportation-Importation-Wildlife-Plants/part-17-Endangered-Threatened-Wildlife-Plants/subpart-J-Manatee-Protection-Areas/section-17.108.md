@@ -1,6 +1,6 @@
 ##### § 17.108 List of designated manatee protection areas.
 
-(a) *Manatee sanctuaries.* The following areas are designated as manatee sanctuaries. All waterborne activities are prohibited in these areas during the period November 15-March 31 of each year. The areas which will be posted are described as follows:
+(a) *Manatee sanctuaries.* The following areas are designated as manatee sanctuaries. All waterborne activities are prohibited in these areas during the period November 15-March 31 of each year. The areas which will be posted are described as follows:1/4
 
 (1) That part of Kings Bay, Crystal River, Citrus County, within T. 18 S., R. 17 E., Tallahassee Meridian; located in SW 1/4 fractional section 28, more particularly described as follows:
 

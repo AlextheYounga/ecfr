@@ -1,6 +1,6 @@
 ##### § 52.797 Control strategy: Lead.
 
-(a)-(b) \[Reserved\]
+(a)-(b) \[Reserved\]3
 
 (c) On January 12, 1988, Indiana'a Office of Air Management (OAM), Indiana Department of Environmental Management, agreed to review all relevant hood designs and performance guidance to determine which criteria to use in determining ongoing compliance with the capture efficiency provisions in 326 IAC 15-1 for Quemetco, Inc., and Refined Metals. Because these efficiencies are closely related to equipment design, OAM believes that a review of the process and control equipment designs and operating paramenters should provide the necessary determination of compliance. OAM will work with the Indianapolis local agency, the Indianapolis Air Pollution Control Division, on viable alternatives and will keep USEPA up to date on its progress. OAM anticipates that specific criteria for determining compliance will be incorporated into the sources' operation permits (and forwarded to USEPA for informational purposes), and, should the opportunity arise, 326 IAC 15-1 will be revised to similarly incorporate capture efficiency criteria.
 

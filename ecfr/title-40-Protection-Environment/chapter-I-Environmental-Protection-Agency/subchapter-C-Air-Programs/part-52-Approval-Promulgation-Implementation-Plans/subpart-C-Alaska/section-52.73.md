@@ -1,6 +1,6 @@
 ##### § 52.73 Approval of plans.
 
-(a) Carbon monoxide.
+(a) Carbon monoxide.*Lead.*10
 
 (1) Anchorage.
 

@@ -1,6 +1,6 @@
 ##### § 52.227 Control strategy and regulations: Particulate matter, Metropolitan Los Angeles Intrastate Region.
 
-(a) The requirements of Subpart G of this chapter are not met since the plan does not provide for attainment and maintenance of the secondary standards for particulate matter in the Metropolitan Los Angeles Intrastate Region.
+(a) The requirements of Subpart G of this chapter are not met since the plan does not provide for attainment and maintenance of the secondary standards for particulate matter in the Metropolitan Los Angeles Intrastate Region.Federal Register
 
 (b) The following regulations are disapproved since they are not part of the approved control strategy and do not provide for the degree of control needed for the attainment and maintenance of the primary standards for particulate matter in the Metropolitan Los Angeles Intrastate Region.
 

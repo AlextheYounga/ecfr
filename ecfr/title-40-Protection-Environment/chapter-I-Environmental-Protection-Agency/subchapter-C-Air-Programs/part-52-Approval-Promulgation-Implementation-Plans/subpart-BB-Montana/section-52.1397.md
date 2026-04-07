@@ -1,6 +1,6 @@
 ##### § 52.1397 Original identification of plan.
 
-(a) This section identifies the original “Air Implementation Plan for the State of Montana” and all revisions submitted by Montana that were federally approved prior to March 1, 2015.
+(a) This section identifies the original “Air Implementation Plan for the State of Montana” and all revisions submitted by Montana that were federally approved prior to March 1, 2015.2*1*
 
 (b) The plan was officially submitted on March 22, 1972.
 

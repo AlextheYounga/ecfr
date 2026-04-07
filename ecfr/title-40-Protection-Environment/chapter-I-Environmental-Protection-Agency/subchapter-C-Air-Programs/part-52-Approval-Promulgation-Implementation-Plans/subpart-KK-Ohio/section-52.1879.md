@@ -1,6 +1,6 @@
 ##### § 52.1879 Review of new sources and modifications.
 
-(a) The requirements of sections 172, 173, 182, and 189 for permitting of major new sources and major modifications in nonattainment areas for ozone, particulate matter, sulfur dioxide, and carbon monoxide are not met, because Ohio's regulations exempt source categories which may not be exempted and because the State has not adopted the new permitting requirements of the Clean Air Act Amendments of 1990 in a clear or enforceable manner.
+(a) The requirements of sections 172, 173, 182, and 189 for permitting of major new sources and major modifications in nonattainment areas for ozone, particulate matter, sulfur dioxide, and carbon monoxide are not met, because Ohio's regulations exempt source categories which may not be exempted and because the State has not adopted the new permitting requirements of the Clean Air Act Amendments of 1990 in a clear or enforceable manner.*Director*X
 
 (b) \[Reserved\]
 

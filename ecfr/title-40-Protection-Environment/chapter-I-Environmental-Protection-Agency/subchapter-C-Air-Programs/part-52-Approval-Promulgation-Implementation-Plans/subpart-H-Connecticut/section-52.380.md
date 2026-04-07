@@ -1,6 +1,6 @@
 ##### § 52.380 Rules and regulations.
 
-(a) All facilities owned, operated or under contract with the Connecticut Transportation Authority shall comply in all respects with Connecticut Regulations for the Abatement of Air Pollution sections 19-508-1 through 19-508-25 inclusive, as approved by the Administrator.
+(a) All facilities owned, operated or under contract with the Connecticut Transportation Authority shall comply in all respects with Connecticut Regulations for the Abatement of Air Pollution sections 19-508-1 through 19-508-25 inclusive, as approved by the Administrator.*Disapprovals.*
 
 (b) For the purposes of paragraph (a) of this section the word “Administrator” shall be substituted for the word “Commissioner” wherever that word appears in Connecticut Regulations for the Abatement of Air Pollution sections 19-508-1 through 19-508-25 inclusive, as approved by the Administrator.
 

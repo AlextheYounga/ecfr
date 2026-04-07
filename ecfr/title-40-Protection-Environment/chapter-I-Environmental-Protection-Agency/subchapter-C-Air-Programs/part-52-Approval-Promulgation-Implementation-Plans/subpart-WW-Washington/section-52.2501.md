@@ -1,6 +1,6 @@
 ##### § 52.2501 Best available retrofit technology (BART) requirement for the Tesoro Refining and Marketing Company oil refinery—Better than BART Alternative.
 
-(a) *Applicability.* This section applies to the Tesoro Refining and Marketing Company oil refinery (Tesoro) located in Anacortes, Washington and to its successors and/or assignees.
+(a) *Applicability.* This section applies to the Tesoro Refining and Marketing Company oil refinery (Tesoro) located in Anacortes, Washington and to its successors and/or assignees.2
 
 (b) *Better than BART Alternative.* The sulfur dioxide (SO2) emission limitation for non-BART eligible process heaters and boilers (Units F-101, F-102, F-201, F-301, F-652, F-751, and F-752) follows.
 

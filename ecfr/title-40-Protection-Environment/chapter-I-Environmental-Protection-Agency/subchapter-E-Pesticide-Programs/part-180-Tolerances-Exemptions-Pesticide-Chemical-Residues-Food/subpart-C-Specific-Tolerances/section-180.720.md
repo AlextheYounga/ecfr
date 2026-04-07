@@ -1,6 +1,6 @@
 ##### § 180.720 Fluazaindolizine; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the nematicide fluazaindolizine, including its metabolites and degradates, in or on the commodities to Table 1 of this section. Compliance with the tolerance levels specified in Table 1 is to be determined by measuring only fluazaindolizine, 8-chloro-*N*-\[(2-chloro-5-methoxyphenyl)sulfonyl\]-6-(trifluoromethyl)imidazo\[1,2-*a*\]pyridine-2-carboxamide, in or on the commodity. 
+(a) *General.* Tolerances are established for residues of the nematicide fluazaindolizine, including its metabolites and degradates, in or on the commodities to Table 1 of this section. Compliance with the tolerance levels specified in Table 1 is to be determined by measuring only fluazaindolizine, 8-chloro-*N*-\[(2-chloro-5-methoxyphenyl)sulfonyl\]-6-(trifluoromethyl)imidazo\[1,2-*a*\]pyridine-2-carboxamide, in or on the commodity.
 
 Table 1 to Paragraph (a)
 | Commodity                                 | Parts per   million |
@@ -31,9 +31,9 @@ Table 1 to Paragraph (a)
 | Vegetable, fruiting, group 8-10           | 0.07                |
 | Vegetable, tuberous and corm, subgroup 1C | 0.2                 |
 
-(b)-(c) \[Reserved\] 
+(b)-(c) \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for residues of the nematicide fluazaindolizine, including its metabolites and degradates, in or on the commodities to Table 2 of this section. Compliance with the tolerance levels specified in Table 2 is to be determined by measuring only fluazaindolizine, 8-chloro-*N*-\[(2-chloro-5-methoxyphenyl)sulfonyl\]-6-(trifluoromethyl)imidazo\[1,2-*a*\]pyridine-2-carboxamide, in or on the commodity. 
+(d) *Indirect or inadvertent residues.* Tolerances are established for residues of the nematicide fluazaindolizine, including its metabolites and degradates, in or on the commodities to Table 2 of this section. Compliance with the tolerance levels specified in Table 2 is to be determined by measuring only fluazaindolizine, 8-chloro-*N*-\[(2-chloro-5-methoxyphenyl)sulfonyl\]-6-(trifluoromethyl)imidazo\[1,2-*a*\]pyridine-2-carboxamide, in or on the commodity.
 
 Table 2 to Paragraph (d)
 | Commodity                                                         | Parts per   million |

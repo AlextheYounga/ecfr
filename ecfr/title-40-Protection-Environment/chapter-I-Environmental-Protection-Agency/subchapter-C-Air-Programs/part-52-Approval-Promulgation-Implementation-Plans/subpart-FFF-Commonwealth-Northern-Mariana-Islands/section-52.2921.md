@@ -1,6 +1,6 @@
 ##### § 52.2921 Original identification of plan.
 
-(a) This section identified the original “Implementation Plan for Compliance With the Ambient Air Quality Standards for the Commonwealth of the Northern Mariana Islands' and all revisions submitted by the Commonwealth of the Northern Mariana Islands that were federally approved prior to June 1, 2005.
+(a) This section identified the original “Implementation Plan for Compliance With the Ambient Air Quality Standards for the Commonwealth of the Northern Mariana Islands' and all revisions submitted by the Commonwealth of the Northern Mariana Islands that were federally approved prior to June 1, 2005.*Commonwealth Register,*
 
 (b) \[Reserved\]
 

@@ -1,6 +1,6 @@
 ##### § 52.2502 Best available retrofit technology requirements for the Alcoa Inc.—Wenatchee Works primary aluminum smelter.
 
-(a) *Applicability.* This section applies to the Alcoa Inc.—Wenatchee Works primary aluminum smelter (Wenatchee Works) located near Wenatchee, Washington and to its successors and/or assignees.
+(a) *Applicability.* This section applies to the Alcoa Inc.—Wenatchee Works primary aluminum smelter (Wenatchee Works) located near Wenatchee, Washington and to its successors and/or assignees.2
 
 (b) *Best available retrofit technology (BART) emission limitations for Potline 5*—(1) *Sulfur dioxide* (SO2) *emission limit.* Starting November 10, 2014, SO2 emissions from Potline 5 must not exceed 46 pounds per ton of aluminum produced during any calendar month as calculated in paragraph (b)(1)(i) of this section.
 

@@ -1,6 +1,6 @@
 ##### § 180.572 Bifenazate; tolerance for residues.
 
-(a) *General.* (1) Tolerances are established for residues of bifenazate (1-methylethyl 2-(4-methoxy\[1,1′-biphenyl\]-3-yl)hydrazinecarboxylate) including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the tolerance levels specified are to be determined by measuring only the sum of bifenazate and its metabolite, diazinecarboxylic acid, 2-(4-methoxy-\[1,1′-biphenyl\]-3-yl), 1-methylethyl ester, (calculated as the stoichiometric equivalent of bifenazate) in or on the following food commodities: 
+(a) *General.* (1) Tolerances are established for residues of bifenazate (1-methylethyl 2-(4-methoxy\[1,1′-biphenyl\]-3-yl)hydrazinecarboxylate) including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the tolerance levels specified are to be determined by measuring only the sum of bifenazate and its metabolite, diazinecarboxylic acid, 2-(4-methoxy-\[1,1′-biphenyl\]-3-yl), 1-methylethyl ester, (calculated as the stoichiometric equivalent of bifenazate) in or on the following food commodities:
 
 | Commodity                                                           | Parts per million |
 | ------------------------------------------------------------------- | ----------------- |
@@ -64,7 +64,7 @@
 | Vegetable, tuberous and corm, subgroup 1C                           | 0.10              |
 | Wax jambu                                                           | 0.90              |
 
-(2) Tolerances are established for residues of bifenazate (1-methylethyl 2-(4-methoxy\[1,1′-biphenyl\]-3-yl) hydrazinecarboxylate) including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the tolerance levels specified are to be determined by measuring only the sum of bifenazate and its metabolites diazinecarboxylic acid, 2-(4-methoxy-\[1,1′-biphenyl\]-3-yl), 1-methylethyl ester; 1,1′-biphenyl, 4-ol; and 1,1′-biphenyl, 4-oxysulfonic acid (calculated as the stoichiometric equivalent of bifenazate) in or on the following food commodities: 
+(2) Tolerances are established for residues of bifenazate (1-methylethyl 2-(4-methoxy\[1,1′-biphenyl\]-3-yl) hydrazinecarboxylate) including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the tolerance levels specified are to be determined by measuring only the sum of bifenazate and its metabolites diazinecarboxylic acid, 2-(4-methoxy-\[1,1′-biphenyl\]-3-yl), 1-methylethyl ester; 1,1′-biphenyl, 4-ol; and 1,1′-biphenyl, 4-oxysulfonic acid (calculated as the stoichiometric equivalent of bifenazate) in or on the following food commodities:
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -80,15 +80,15 @@
 | Sheep, meat             | 0.02              |
 | Sheep, meat byproducts  | 0.02              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for residues of bifenazate (1-methylethyl 2-(4-methoxy\[1,1′-biphenyl\]-3-yl)hydrazinecarboxylate) including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the tolerance levels specified are to be determined by measuring only the sum of bifenazate and its metabolite, diazinecarboxylic acid, 2-(4-methoxy-\[1,1′-biphenyl\]-3-yl), 1-methylethyl ester, (calculated as the stoichiometric equivalent of bifenazate) in or on the following food commodities: 
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for residues of bifenazate (1-methylethyl 2-(4-methoxy\[1,1′-biphenyl\]-3-yl)hydrazinecarboxylate) including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the tolerance levels specified are to be determined by measuring only the sum of bifenazate and its metabolite, diazinecarboxylic acid, 2-(4-methoxy-\[1,1′-biphenyl\]-3-yl), 1-methylethyl ester, (calculated as the stoichiometric equivalent of bifenazate) in or on the following food commodities:
 
 | Commodity       | Parts per   million |
 | --------------- | ------------------- |
 | Timothy, forage | 200                 |
 | Timothy, hay    | 150                 |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[66 FR 34569, June 29, 2001\] Editorial Note:For Federal Register citations affecting § 180.572, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

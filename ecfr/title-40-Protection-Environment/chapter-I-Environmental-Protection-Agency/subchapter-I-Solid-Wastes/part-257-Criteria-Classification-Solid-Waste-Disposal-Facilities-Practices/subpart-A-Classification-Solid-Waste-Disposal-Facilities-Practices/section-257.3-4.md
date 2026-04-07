@@ -1,6 +1,6 @@
 ##### § 257.3-4 Ground water.
 
-(a) A facility or practice shall not contaminate an underground drinking water source beyond the solid waste boundary or beyond an alternative boundary specified in accordance with paragraph (b) of this section.
+(a) A facility or practice shall not contaminate an underground drinking water source beyond the solid waste boundary or beyond an alternative boundary specified in accordance with paragraph (b) of this section.*Aquifer*
 
 (b)(1) For purposes of section 1008(a)(3) of the Act or section 405(d) of the CWA, a party charged with open dumping or a violation of section 405(e) with respect to sewage sludge that is not used or disposed through a practice regulated in 40 CFR part 503 may demonstrate that compliance should be determined at an alternative boundary in lieu of the solid waste boundary. The court shall establish an alternative boundary only if it finds that such a change would not result in contamination of ground water which may be needed or used for human consumption. This finding shall be based on analysis and consideration of all of the following factors that are relevant:
 

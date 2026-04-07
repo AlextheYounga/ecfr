@@ -1,6 +1,6 @@
 ##### § 52.2920 Identification of plan.
 
-(a) *Purpose and scope.* This section sets forth the applicable State implementation plan for the Commonwealth of the Northern Mariana Islands under section 110 of the Clean Air Act, 42 U.S.C. 7401-7671q and 40 CFR part 51 to meet national ambient air quality standards.
+(a) *Purpose and scope.* This section sets forth the applicable State implementation plan for the Commonwealth of the Northern Mariana Islands under section 110 of the Clean Air Act, 42 U.S.C. 7401-7671q and 40 CFR part 51 to meet national ambient air quality standards.Federal Register.
 
 (b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to June 1, 2005, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with EPA approval dates after June 1, 2005, will be incorporated by reference in the next update to the SIP compilation.
 

@@ -1,6 +1,6 @@
 ##### § 180.710 Pethoxamid; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide pethoxamid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only pethoxamid, 2-chloro-*N*-(2-ethoxyethyl)-*N*-(2-methyl-1-phenyl-1-propen-1-yl) acetamide in or on the commodity. 
+(a) *General.* Tolerances are established for residues of the herbicide pethoxamid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only pethoxamid, 2-chloro-*N*-(2-ethoxyethyl)-*N*-(2-methyl-1-phenyl-1-propen-1-yl) acetamide in or on the commodity.
 
 | Commodity                                      | Parts per   million |
 | ---------------------------------------------- | ------------------- |
@@ -38,6 +38,6 @@
 | Soybean, hay                                   | 0.01                |
 | Soybean, seed                                  | 0.01                |
 
-(b) \[Reserved\] 
+(b) \[Reserved\]
 
 \[ 85 FR 48659, Aug. 12, 202\]

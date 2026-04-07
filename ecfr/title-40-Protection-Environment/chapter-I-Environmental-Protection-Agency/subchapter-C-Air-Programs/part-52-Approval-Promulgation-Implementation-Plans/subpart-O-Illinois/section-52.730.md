@@ -1,6 +1,6 @@
 ##### § 52.730 Compliance schedules.
 
-(a) The requirements of § 51.262(a) of this chapter are not met since compliance schedules with adequate increments of progress have not been submitted for every source for which they are required.
+(a) The requirements of § 51.262(a) of this chapter are not met since compliance schedules with adequate increments of progress have not been submitted for every source for which they are required.*Compliance schedules.*
 
 (b) Federal compliance schedules. (1) Except as provided in paragraph (b)(3) of this section, the owner or operator of any stationary source subject to the following emission limiting regulations in the Illinois implementation plan shall comply with the applicable compliance schedule in paragraph (b)(2) of this section: Illinois Air Pollution Control Regulations Rule 203(d)(4), 203(d)(6)(B)(ii)(bb), 203(g)(1)(B), 203(g)(2), 203(g)(3), 203(g)(4), 204(c)(1)(A), 204(c)(2), 204(d), and 204(e).
 

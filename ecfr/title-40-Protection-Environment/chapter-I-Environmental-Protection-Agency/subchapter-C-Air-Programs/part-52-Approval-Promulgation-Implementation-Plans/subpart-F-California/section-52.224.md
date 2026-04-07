@@ -1,6 +1,6 @@
 ##### § 52.224 General requirements.
 
-(a) The requirements of § 51.116(c) of this chapter are not met except in certain Air Pollution Control Districts (APCD) as indicated in this paragraph since the plan does not provide procedures by which emission data, as correlated with applicable emission limitations, will be made available to the public.
+(a) The requirements of § 51.116(c) of this chapter are not met except in certain Air Pollution Control Districts (APCD) as indicated in this paragraph since the plan does not provide procedures by which emission data, as correlated with applicable emission limitations, will be made available to the public.*Regulation for public availability of emission data.*
 
 (1) The following APCD's meet the requirements of § 51.116(c) of this chapter:
 

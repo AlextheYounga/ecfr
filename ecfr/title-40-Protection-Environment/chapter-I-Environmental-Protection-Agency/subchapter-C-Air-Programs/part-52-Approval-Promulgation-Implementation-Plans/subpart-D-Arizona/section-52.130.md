@@ -1,6 +1,6 @@
 ##### § 52.130 Source surveillance.
 
-(a) The requirements of § 51.211 of this chapter are not met since the plan does not contain legally enforceable procedures for requiring sources in the Northern Arizona, Mohave-Yuma, Central Arizona, and Southeast Arizona Intrastate Regions to maintain records of and periodically report on the nature and amounts of emissions.
+(a) The requirements of § 51.211 of this chapter are not met since the plan does not contain legally enforceable procedures for requiring sources in the Northern Arizona, Mohave-Yuma, Central Arizona, and Southeast Arizona Intrastate Regions to maintain records of and periodically report on the nature and amounts of emissions.*Regulation for source recordkeeping and reporting.*
 
 (b) The requirements of § 51.213 of this chapter are not met because the plan does not provide procedures for obtaining and maintaining data on actual emission reductions achieved as a result of implementing transportation control measures.
 

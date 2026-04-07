@@ -1,6 +1,6 @@
 ##### § 52.277 Oxides of nitrogen, combustion gas concentration limitations.
 
-(a) The following rules are being retained to the extent that the new rules are less stringent than the previously approved rules:
+(a) The following rules are being retained to the extent that the new rules are less stringent than the previously approved rules:1/2
 
 (1) North Central Coast Intrastate Region:
 

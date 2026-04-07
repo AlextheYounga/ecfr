@@ -1,6 +1,6 @@
 ##### § 52.620 Identification of plan.
 
-(a) *Purpose and scope.* This section sets forth the applicable State implementation plan for State of Hawaii under section 110 of the Clean Air Act, 42 U.S.C. 7401-7671q and 40 CFR part 51 to meet national ambient air quality standards.
+(a) *Purpose and scope.* This section sets forth the applicable State implementation plan for State of Hawaii under section 110 of the Clean Air Act, 42 U.S.C. 7401-7671q and 40 CFR part 51 to meet national ambient air quality standards.Federal Register.
 
 (b) *Incorporation by reference.* (1) Material listed in paragraph (c) and (d) of this section with an EPA approval date prior to May 1, 2012, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with EPA approval dates after May 1, 2012, will be incorporated by reference in the next update to the SIP compilation.
 
@@ -13,7 +13,7 @@
 EPA-Approved State of Hawaii Regulations
 | State citation                                                                                       | Title/subject                                      | Effective date | EPA approval date      | Explanation                                                    |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- | ---------------------- | -------------------------------------------------------------- |
-| **Department of Health, Public Health Regulations, Chapter 43, Air Pollution Control Regulations**   |                                                    |                |                        |                                                                |
+| **Department of Health, Public Health Regulations, Chapter 43, Air Pollution Control Regulations**10 |                                                    |                |                        |                                                                |
 | Section 22                                                                                           | Hearings and Appeals                               | 12/26/1972     | 5/14/1973, 38 FR 12711 | See also 74 FR 11037 (March 16, 2009).                         |
 | Section 23                                                                                           | Application                                        | 3/28/1972      | 5/31/1972, 37 FR 10842 | See also 74 FR 11037 (March 16, 2009).                         |
 | **Department of Health, Title 11, Chapter 60, Air Pollution Control Regulations**                    |                                                    |                |                        |                                                                |

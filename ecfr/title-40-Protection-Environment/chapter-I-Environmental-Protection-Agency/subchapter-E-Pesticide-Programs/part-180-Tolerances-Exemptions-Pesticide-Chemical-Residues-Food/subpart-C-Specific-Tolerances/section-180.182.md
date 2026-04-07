@@ -1,6 +1,6 @@
 ##### § 180.182 Endosulfan; tolerances for residues.
 
-(a)(1) *General.* Tolerances are established for residues of the insecticide endosulfan, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of endosulfan, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide (alpha and beta isomers), and its metabolite endosulfan sulfate, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin-3,3-dioxide, calculated as the stoichiometric equivalent of endosulfan, in or on the commodity. 
+(a)(1) *General.* Tolerances are established for residues of the insecticide endosulfan, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of endosulfan, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide (alpha and beta isomers), and its metabolite endosulfan sulfate, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin-3,3-dioxide, calculated as the stoichiometric equivalent of endosulfan, in or on the commodity.
 
 | Commodity                             | Parts per million | Expiration/   revocation   date |
 | ------------------------------------- | ----------------- | ------------------------------- |
@@ -64,15 +64,15 @@
 | Walnut                                | 0.2               | 7/31/12                         |
 | Watermelon                            | 1.0               | 7/31/12                         |
 
-(2) A tolerance is established for the combined residues of the insecticide endosulfan, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2, 4,3-benzodioxathiepin-3-oxide (alpha and beta isomers), and its metabolite endosulfan sulfate, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2, 4,3-benzodioxathiepin-3,3-dioxide in or on the commodity in the following table: 
+(2) A tolerance is established for the combined residues of the insecticide endosulfan, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2, 4,3-benzodioxathiepin-3-oxide (alpha and beta isomers), and its metabolite endosulfan sulfate, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2, 4,3-benzodioxathiepin-3,3-dioxide in or on the commodity in the following table:
 
 | Commodity  | Parts per million                                                                                              | Expiration/   revocation date |
 | ---------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------- |
 | Tea, dried | 24 (reflecting less than 0.1 ppm in beverage tea) resulting from application of the insecticide to growing tea | 7/31/16                       |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) Tolerances with regional registrations. (1) Tolerances with regional registration, as defined in § 180.1(l), are established for residues of the insecticide endosulfan, including its metabolites and degradates, in or on the commodities in the table in this paragraph, when endosulfan is used in the state of Florida. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of endosulfan, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide (alpha and beta isomers), and its metabolite endosulfan sulfate, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin-3,3-dioxide, calculated as the stoichiometric equivalent of endosulfan, in or on the commodity. 
+(c) Tolerances with regional registrations. (1) Tolerances with regional registration, as defined in § 180.1(l), are established for residues of the insecticide endosulfan, including its metabolites and degradates, in or on the commodities in the table in this paragraph, when endosulfan is used in the state of Florida. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of endosulfan, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide (alpha and beta isomers), and its metabolite endosulfan sulfate, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin-3,3-dioxide, calculated as the stoichiometric equivalent of endosulfan, in or on the commodity.
 
 | Commodity                                       | Parts per million | Expiration/   revocation   date |
 | ----------------------------------------------- | ----------------- | ------------------------------- |
@@ -88,7 +88,7 @@
 | Squash, winter                                  | 1.0               | 12/31/14                        |
 | Tomato                                          | 1.0               | 12/31/14                        |
 
-(2) Tolerances with regional registrations. Tolerances with regional registration, as defined in § 180.1(l), are established for residues of the insecticide endosulfan, including its metabolites and degradates, in or on the commodities in the table in this paragraph, when endosulfan is used in the United States (except Florida). Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of endosulfan, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide (alpha and beta isomers), and its metabolite endosulfan sulfate, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin-3,3-dioxide, calculated as the stoichiometric equivalent of endosulfan, in or on the commodity. 
+(2) Tolerances with regional registrations. Tolerances with regional registration, as defined in § 180.1(l), are established for residues of the insecticide endosulfan, including its metabolites and degradates, in or on the commodities in the table in this paragraph, when endosulfan is used in the United States (except Florida). Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of endosulfan, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide (alpha and beta isomers), and its metabolite endosulfan sulfate, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin-3,3-dioxide, calculated as the stoichiometric equivalent of endosulfan, in or on the commodity.
 
 | Commodity                                       | Parts per million | Expiration/   revocation   date |
 | ----------------------------------------------- | ----------------- | ------------------------------- |
@@ -104,6 +104,6 @@
 | Squash, winter                                  | 1.0               | 7/31/15                         |
 | Tomato                                          | 1.0               | 7/31/15                         |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[65 FR 33696, May 24, 2000, as amended at 71 FR 54433, Sept. 15, 2006; 76 FR 56653, Sept. 14, 2011; 78 FR 8409, Feb. 6, 2013\]

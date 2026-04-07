@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 4642, Jan. 16, 2025.
 
-The following definitions apply to this subpart. Terms not defined in this section have the meaning given by RCRA.
+The following definitions apply to this subpart. Terms not defined in this section have the meaning given by RCRA.*Acre foot*
 
 *Acre foot* means the volume of one acre of surface area to a depth of one foot.
 

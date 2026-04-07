@@ -1,6 +1,6 @@
 ##### § 180.190 Diphenylamine; tolerances for residues.
 
-(a) *General.* Tolerances for residues of the plant regulator diphenylamine are established in or on the following commodities: 
+(a) *General.* Tolerances for residues of the plant regulator diphenylamine are established in or on the following commodities:
 
 | Commodity                                                                    | Parts per million |
 | ---------------------------------------------------------------------------- | ----------------- |
@@ -25,10 +25,10 @@
 | Sheep, meat byproducts, except liver                                         | 0.01              |
 | Sheep, meat                                                                  | 0.01              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[64 FR 25848, May 13, 1999, as amended at 66 FR 63198, Dec. 5, 2001; 72 FR 16283, Apr. 4, 2007; 76 FR 34885, June 15, 2011\]

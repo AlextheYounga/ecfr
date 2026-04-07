@@ -1,6 +1,6 @@
 ##### § 52.824 Original identification of plan section.
 
-(a) This section identifies the original “Air Implementation Plan for the State of Iowa” and all revisions submitted by Iowa that were Federally approved prior to July 1, 1998.
+(a) This section identifies the original “Air Implementation Plan for the State of Iowa” and all revisions submitted by Iowa that were Federally approved prior to July 1, 1998.*Incorporation by reference.*10
 
 (b) The plan was officially submitted on January 27, 1972.
 

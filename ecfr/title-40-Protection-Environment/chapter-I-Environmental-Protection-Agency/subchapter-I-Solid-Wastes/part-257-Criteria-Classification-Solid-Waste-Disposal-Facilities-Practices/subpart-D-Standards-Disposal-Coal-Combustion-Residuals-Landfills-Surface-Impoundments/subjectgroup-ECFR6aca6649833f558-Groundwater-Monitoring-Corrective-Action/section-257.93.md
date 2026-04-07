@@ -1,6 +1,6 @@
 ##### § 257.93 Groundwater sampling and analysis requirements.
 
-(a) The groundwater monitoring program must include consistent sampling and analysis procedures that are designed to ensure monitoring results that provide an accurate representation of groundwater quality at the background and downgradient wells required by § 257.91. The owner or operator of the CCR unit must develop a sampling and analysis program that includes procedures and techniques for:
+(a) The groundwater monitoring program must include consistent sampling and analysis procedures that are designed to ensure monitoring results that provide an accurate representation of groundwater quality at the background and downgradient wells required by § 257.91. The owner or operator of the CCR unit must develop a sampling and analysis program that includes procedures and techniques for:*constituent*
 
 (1) Sample collection;
 

@@ -1,6 +1,6 @@
 ##### § 52.280 Fuel burning equipment.
 
-(a) The following rules and regulations are disapproved because they relax the control on emissions from fuel burning equipment without any accompanying analyses demonstrating that these relaxations will not interfere with the attainment and maintenance of the National Ambient Air Quality Standards.
+(a) The following rules and regulations are disapproved because they relax the control on emissions from fuel burning equipment without any accompanying analyses demonstrating that these relaxations will not interfere with the attainment and maintenance of the National Ambient Air Quality Standards.*Fuel Burning Heat or Power Generators,*
 
 (1) Mountain Counties Intrastate AQCR:
 

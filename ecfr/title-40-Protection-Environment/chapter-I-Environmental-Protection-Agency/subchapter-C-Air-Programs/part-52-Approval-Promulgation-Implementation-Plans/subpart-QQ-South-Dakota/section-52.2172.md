@@ -1,6 +1,6 @@
 ##### § 52.2172 Approval status.
 
-(a) With the exceptions set forth in this subpart, the Administrator approves South Dakota's plan as meeting the requirements of section 110 of the Clean Air Act, as amended in 1977. Furthermore, the Administrator finds that the plan satisfies all requirements of Part D of the Clean Air Act, as amended in 1977.
+(a) With the exceptions set forth in this subpart, the Administrator approves South Dakota's plan as meeting the requirements of section 110 of the Clean Air Act, as amended in 1977. Furthermore, the Administrator finds that the plan satisfies all requirements of Part D of the Clean Air Act, as amended in 1977.2
 
 (b)(1) Insofar as the Prevention of Significant Deterioration (PSD) provisions found in this subpart apply to stationary sources of greenhouse gas (GHGs) emissions, the Administrator approves that application only to the extent that GHGs are “subject to regulation”, as provided in this paragraph (b), and the Administrator takes no action on that application to the extent that GHGs are not “subject to regulation.”
 

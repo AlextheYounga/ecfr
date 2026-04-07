@@ -6,7 +6,7 @@
 
 (c) EPA approves the following revised 2009 and 2015 motor vehicle emissions budgets (MVEBs) for the Fredericksburg 8-Hour Ozone Maintenance Area submitted by the Virginia Department of Environmental Quality (VADEQ) on September 26, 2011:
 
-| Applicable geographic area                                                          | Year | Tons per day (TPD) NOX |
+| Applicable geographic areaX                                                         | Year | Tons per day (TPD) NOX |
 | ----------------------------------------------------------------------------------- | ---- | ---------------------- |
 | Fredericksburg Area (Spotsylvania and Stafford Counties and City of Fredericksburg) | 2009 | 19.615                 |
 | Fredericksburg Area (Spotsylvania and Stafford Counties and City of Fredericksburg) | 2015 | 12.933                 |

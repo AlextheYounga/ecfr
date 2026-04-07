@@ -1,6 +1,6 @@
 ##### § 52.2077 Identification of plan—conditional approvals and disapprovals.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Disapprovals.*2.5
 
 (b) *Disapprovals.* (1) 1997 Ozone NAAQS: The 110(a)(2) infrastructure SIP submitted on December 14, 2007, is disapproved for Clean Air Act element 110(a)(2)(H). A Federal Implantation Plan is already in place at 40 CFR 52.2080.
 

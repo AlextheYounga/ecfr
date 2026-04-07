@@ -1,6 +1,6 @@
 ##### § 52.1923 Best Available Retrofit Requirements (BART) for SO2 and Interstate pollutant transport provisions; What are the FIP requirements for Units 4 and 5 of the Oklahoma Gas and Electric Muskogee plant; and Units 1 and 2 of the Oklahoma Gas and Electric Sooner plant affecting visibility?
 
-(a) *Applicability.* The provisions of this section shall apply to each owner or operator, or successive owners or operators, of the coal burning equipment designated as: Units 4 or 5 of the Oklahoma Gas and Electric Muskogee plant; and Units 1 or 2 of the Oklahoma Gas and Electric Sooner plant.
+(a) *Applicability.* The provisions of this section shall apply to each owner or operator, or successive owners or operators, of the coal burning equipment designated as: Units 4 or 5 of the Oklahoma Gas and Electric Muskogee plant; and Units 1 or 2 of the Oklahoma Gas and Electric Sooner plant.2
 
 (b) *Compliance Dates.* Compliance with the requirements of this section is required within five years of the effective date of this rule unless otherwise indicated by compliance dates contained in specific provisions.
 

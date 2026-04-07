@@ -1,6 +1,6 @@
 ##### § 180.495 Spinosad; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide spinosad, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spinosyn A (Factor A: CAS #131929-60-7; (2*R,*3a*S,*5a*R,*5b*S,*9*S,*13*S,*14*R,*16a*S,*16b*R*)-2-\[(6-deoxy-2,3,4-tri-*O*-methyl-α-L-mannopyranosyl)oxy\]-13-\[\[(2*R,*5*S,*6*R*)-5-(dimethylamino)tetrahydro-6-methyl-2*H*-pyran-2-yl\]oxy\]-9-ethyl-2,3,3a,5a,5b,6,9,10,11,12,13,14,16a,16b-tetradecahydro-14-methyl-1*H*-as-indaceno\[3,2-*d*\]oxacyclododecin-7,15-dione); and Spinosyn D (Factor D; CAS #131929-63-0) or (2*S,*3a*R,*5a*S,*5b*S,*9*S,*13*S,*14*R,*16a*S,*16b*S*)-2-\[(6-deoxy-2,3,4-tri-*O*-methyl-α-L-mannopyranosyl)oxy\]-13-\[\[(2*R,*5*S,*6*R*)-5-(dimethylamino)tetrahydro-6-methyl-2*H*-pyran-2-yl\]oxy\]-9-ethyl-2,3,3a,5a,5b,6,9,10,11,12,13,14,16a,16b-tetradecahydro-4,14-dimethyl-1*H*-as-indaceno\[3,2-*d*\]oxacyclododecin-7,15-dione), calculated as the stoichiometric equivalent of spinosad. 
+(a) *General.* Tolerances are established for residues of the insecticide spinosad, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spinosyn A (Factor A: CAS #131929-60-7; (2*R,*3a*S,*5a*R,*5b*S,*9*S,*13*S,*14*R,*16a*S,*16b*R*)-2-\[(6-deoxy-2,3,4-tri-*O*-methyl-α-L-mannopyranosyl)oxy\]-13-\[\[(2*R,*5*S,*6*R*)-5-(dimethylamino)tetrahydro-6-methyl-2*H*-pyran-2-yl\]oxy\]-9-ethyl-2,3,3a,5a,5b,6,9,10,11,12,13,14,16a,16b-tetradecahydro-14-methyl-1*H*-as-indaceno\[3,2-*d*\]oxacyclododecin-7,15-dione); and Spinosyn D (Factor D; CAS #131929-63-0) or (2*S,*3a*R,*5a*S,*5b*S,*9*S,*13*S,*14*R,*16a*S,*16b*S*)-2-\[(6-deoxy-2,3,4-tri-*O*-methyl-α-L-mannopyranosyl)oxy\]-13-\[\[(2*R,*5*S,*6*R*)-5-(dimethylamino)tetrahydro-6-methyl-2*H*-pyran-2-yl\]oxy\]-9-ethyl-2,3,3a,5a,5b,6,9,10,11,12,13,14,16a,16b-tetradecahydro-4,14-dimethyl-1*H*-as-indaceno\[3,2-*d*\]oxacyclododecin-7,15-dione), calculated as the stoichiometric equivalent of spinosad.
 
 Table 1 to Paragraph (a)
 | Commodity                                                           | Parts per million |
@@ -139,10 +139,10 @@ Table 1 to Paragraph (a)
 | Wax jambu                                                           | 0.3               |
 | 1 There are no U.S. registrations for use on tea.                   |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertant residues.* \[Reserved\] 
+(d) *Indirect or inadvertant residues.* \[Reserved\]
 
 \[72 FR 68540, Dec. 5, 2007, as amended at 74 FR 46376, Sept. 9, 2009; 74 FR 48408, Sept. 23, 2009; 75 FR 60327, Sept. 30, 2010; 80 FR 72599, Nov. 20, 2015; 80 FR 80672, Dec. 28, 2015; 84 FR 49201, Sept. 19, 2019; 86 FR 17913, Apr. 7, 2021; 88 FR 58505, Aug. 28, 2023\]

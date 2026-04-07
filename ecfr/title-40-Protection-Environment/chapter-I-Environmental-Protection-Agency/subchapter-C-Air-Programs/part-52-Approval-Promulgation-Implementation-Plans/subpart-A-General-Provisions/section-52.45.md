@@ -1,6 +1,6 @@
 ##### § 52.45 What are the requirements of the Federal Implementation Plans (FIPs) relating to ozone season emissions of nitrogen oxides from the Basic Chemical Manufacturing, Petroleum and Coal Products Manufacturing, the Pulp, Paper, and Paperboard Mills Industries, Metal Ore Mining, and the Iron and Steel and Ferroalloy Manufacturing Industries?
 
-(a) *Definitions.* All terms not defined in this paragraph (a) shall have the meaning given to them in the Act and in subpart A of 40 CFR part 60.
+(a) *Definitions.* All terms not defined in this paragraph (a) shall have the meaning given to them in the Act and in subpart A of 40 CFR part 60.X
 
 *Affected unit* means an industrial boiler meeting the applicability criteria of this section.
 

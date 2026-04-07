@@ -8,7 +8,7 @@
 
 Table 1 Time period Affected area
 
-| Roadway type                                        | VMT or average vehicle speed |
+| Roadway type1                                       | VMT or average vehicle speed |
 | --------------------------------------------------- | ---------------------------- |
 | Freeway                                             |                              |
 | Arterial                                            |                              |

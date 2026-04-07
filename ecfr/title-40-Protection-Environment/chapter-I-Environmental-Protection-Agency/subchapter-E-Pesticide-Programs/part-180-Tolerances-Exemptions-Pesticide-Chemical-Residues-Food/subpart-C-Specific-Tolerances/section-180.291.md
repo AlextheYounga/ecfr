@@ -1,6 +1,6 @@
 ##### § 180.291 Pentachloronitrobenzene; tolerance for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the fungicide pentachloronitrobenzene (PCNB) and its metabolites pentachloroaniline (PCA), and pentachlorothioanisole (PCTA), in or on the following food commodities: 
+(a) *General.* Tolerances are established for the combined residues of the fungicide pentachloronitrobenzene (PCNB) and its metabolites pentachloroaniline (PCA), and pentachlorothioanisole (PCTA), in or on the following food commodities:
 
 | Commodity                            | Parts per million |
 | ------------------------------------ | ----------------- |
@@ -15,9 +15,9 @@
 | Soybean, seed                        | 0.02              |
 | Vegetable, fruiting, group 8         | 0.1               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registrations, as defined in § 180.1(l), are established for the combined residues of the fungicide pentachloronitrobenzene (PCNB) and its metabolites pentachloroaniline (PCA), and pentachlorothioanisole (PCTA), in or on the following food commodities: 
+(c) *Tolerances with regional registrations.* Tolerances with regional registrations, as defined in § 180.1(l), are established for the combined residues of the fungicide pentachloronitrobenzene (PCNB) and its metabolites pentachloroaniline (PCA), and pentachlorothioanisole (PCTA), in or on the following food commodities:
 
 | Commodity       | Parts per million |
 | --------------- | ----------------- |
@@ -25,6 +25,6 @@
 | Kale            | 0.2               |
 | Mustard, greens | 0.2               |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[74 FR 47456, Sept. 16, 2009\]

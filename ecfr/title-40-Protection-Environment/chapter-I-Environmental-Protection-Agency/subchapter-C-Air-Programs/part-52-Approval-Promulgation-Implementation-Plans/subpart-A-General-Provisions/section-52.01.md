@@ -1,6 +1,6 @@
 ##### § 52.01 Definitions.
 
-All terms used in this part but not defined herein shall have the meaning given them in the Clean Air Act and in parts 51 and 60 of this chapter.
+All terms used in this part but not defined herein shall have the meaning given them in the Clean Air Act and in parts 51 and 60 of this chapter.*stationary source*
 
 (a) The term *stationary source* means any building, structure, facility, or installation which emits or may emit an air pollutant for which a national standard is in effect.
 

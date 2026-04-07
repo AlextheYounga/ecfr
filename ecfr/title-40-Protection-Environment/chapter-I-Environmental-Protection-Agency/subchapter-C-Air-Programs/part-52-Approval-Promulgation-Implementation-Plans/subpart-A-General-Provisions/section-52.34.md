@@ -1,6 +1,6 @@
 ##### § 52.34 Action on petitions submitted under section 126 relating to emissions of nitrogen oxides.
 
-(a) *Definitions.* For purposes of this section, the following definitions apply:
+(a) *Definitions.* For purposes of this section, the following definitions apply:X
 
 (1) *Administrator* means the Administrator of the United States Environmental Protection Agency or the Administrator's duly authorized representative.
 

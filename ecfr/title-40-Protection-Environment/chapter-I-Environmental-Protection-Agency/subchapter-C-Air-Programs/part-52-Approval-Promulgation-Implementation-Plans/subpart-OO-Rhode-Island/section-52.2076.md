@@ -2,7 +2,7 @@
 
 The following table presents the latest dates by which the national standards are to be attained. These dates reflect the information presented in Rhode Island's plan, except where noted.
 
-| Air quality control region                                                                | Pollutant |
+| Air quality control region10                                                              | Pollutant |
 | ----------------------------------------------------------------------------------------- | --------- |
 | Rhode Island portion of AQCR 120 (Entire State of Rhode Island)                           | (a)       |
 | a Air quality levels presently better than primary standards or area is unclassifiable.   |           |

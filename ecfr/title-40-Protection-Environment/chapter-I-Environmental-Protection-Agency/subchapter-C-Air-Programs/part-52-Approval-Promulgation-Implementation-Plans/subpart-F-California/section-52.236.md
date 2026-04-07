@@ -1,6 +1,6 @@
 ##### § 52.236 Rules and regulations.
 
-(a) Since the following Air Pollution Control District (APCD) rules do not define the term “agricultural operations,” the rules are disapproved because they could render certain emission limitations rules unenforceable.
+(a) Since the following Air Pollution Control District (APCD) rules do not define the term “agricultural operations,” the rules are disapproved because they could render certain emission limitations rules unenforceable.*Equivalent Method,*
 
 (1) Imperial County APCD.
 

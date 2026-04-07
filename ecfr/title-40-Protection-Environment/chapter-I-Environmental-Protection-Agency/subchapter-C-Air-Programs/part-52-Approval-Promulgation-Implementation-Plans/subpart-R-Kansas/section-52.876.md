@@ -1,6 +1,6 @@
 ##### § 52.876 Compliance schedules.
 
-(a) The requirements of § 51.260 and of § 51.15(a)(2) of this chapter as of September 19, 1976 (40 FR 43216), are not met since the plan does not contain legally enforceable compliance schedules setting forth the dates by which all stationary sources or categories of such sources must be in compliance with applicable portions of the control strategy. Paragraphs C and D of Kansas Regulation 28-19-9 specify that all sources not in compliance must submit an acceptable compliance schedule within 120 days after receiving notification from the State. There are no assurances that all sources will be notified by the State in a timely manner, therefore, paragraphs C and D of Regulation 28-19-9 are disapproved.
+(a) The requirements of § 51.260 and of § 51.15(a)(2) of this chapter as of September 19, 1976 (40 FR 43216), are not met since the plan does not contain legally enforceable compliance schedules setting forth the dates by which all stationary sources or categories of such sources must be in compliance with applicable portions of the control strategy. Paragraphs C and D of Kansas Regulation 28-19-9 specify that all sources not in compliance must submit an acceptable compliance schedule within 120 days after receiving notification from the State. There are no assurances that all sources will be notified by the State in a timely manner, therefore, paragraphs C and D of Regulation 28-19-9 are disapproved.*Federal compliance schedule.*
 
 (b) *Federal compliance schedule.* (1) Except as provided in paragraph (2) of this paragraph (b), the owner or operator of any stationary source subject to any emission regulation which is part of the approved plan shall be in compliance on or before January 31, 1974.
 
@@ -21,7 +21,7 @@
 Kansas
 | Source                                                                             | Location     | Regulation involved  | Date adopted   |
 | ---------------------------------------------------------------------------------- | ------------ | -------------------- | -------------- |
-| Chanute Manufacturing Co., Inc.: sand blasting                                     | Chanute      | 28-19-50             | Dec. 14, 1973. |
+| Chanute Manufacturing Co., Inc.: sand blasting4                                    | Chanute      | 28-19-50             | Dec. 14, 1973. |
 | Kansas City Power & Light, coal transfer houses                                    | LaCygne      | 28-19-50             | Nov. 22, 1974. |
 | Pence Food Center, incinerator                                                     | Chanute      | 28-19-40             | Do.            |
 | Rodney Milling Co.:                                                                |              |                      |                |

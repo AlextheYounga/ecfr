@@ -1,6 +1,6 @@
 ##### § 180.259 Propargite; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the pesticide propargite (2-(*p-tert*-butylphenoxy) cyclohexyl 2-propynyl sulfite) in or on the following food commodities. 
+(a) *General.* Tolerances are established for residues of the pesticide propargite (2-(*p-tert*-butylphenoxy) cyclohexyl 2-propynyl sulfite) in or on the following food commodities.
 
 | Commodity                    | Parts per million |
 | ---------------------------- | ----------------- |
@@ -51,14 +51,14 @@
 | Tea, dried                   | 10.0              |
 | Walnut                       | 0.1               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for residues of propargite in or on the following raw agricultural commodities: 
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for residues of propargite in or on the following raw agricultural commodities:
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
 | Corn, sweet, kernel plus cob with husks removed | 0.1               |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[65 FR 33710, May 24, 2000, as amended at 72 FR 41930, Aug. 1, 2007; 73 FR 54961, Sept. 24, 2008; 76 FR 34885, June 15, 2011\]

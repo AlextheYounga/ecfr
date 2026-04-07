@@ -1,6 +1,6 @@
 ##### § 52.129 Review of new sources and modifications.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*National standards not met.*23
 
 (b) *National standards not met.* The requirements of § 51.160(a) of this chapter are not met in the Pima Intrastate Region since the Rules and Regulations of the Pima County Air Pollution Control District are not adequate to prevent construction or modification of a source which would interfere with the attainment or maintenance of the national standards.
 

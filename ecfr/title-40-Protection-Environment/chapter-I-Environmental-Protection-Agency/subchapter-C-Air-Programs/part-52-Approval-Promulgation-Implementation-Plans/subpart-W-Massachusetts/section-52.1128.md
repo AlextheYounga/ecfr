@@ -1,6 +1,6 @@
 ##### § 52.1128 Transportation and land use controls.
 
-(a) For purposes of this subpart, the definitions herein are applicable.
+(a) For purposes of this subpart, the definitions herein are applicable.*Register*
 
 (b) Definitions:
 

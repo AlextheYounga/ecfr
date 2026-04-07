@@ -1,6 +1,6 @@
 ##### § 180.466 Fenpropathrin; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of fenpropathrin, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified below is to be determined by measuring only fenpropathrin (alpha-cyano-3-phenoxy-benzyl 2,2,3,3 tetramethylcyclopropanecarboxylate). 
+(a) *General.* Tolerances are established for residues of fenpropathrin, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified below is to be determined by measuring only fenpropathrin (alpha-cyano-3-phenoxy-benzyl 2,2,3,3 tetramethylcyclopropanecarboxylate).
 
 | Commodity                                                                                              | Parts per million |
 | ------------------------------------------------------------------------------------------------------ | ----------------- |
@@ -82,15 +82,15 @@
 | Wax jambu                                                                                              | 3.0               |
 | 1 There are no U.S. registrations as of November 28, 2012, for the use of fenpropathrin on tea, dried. |                   |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances specified in Table 2 to this paragraph (b) are established for residues of fenpropathrin, (alpha-cyano-3-phenoxy-benzyl 2,2,3,3 tetramethylcyclopropane carboxylate) in or on the specified agricultural commodities, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. The tolerance expires on the date specified in Table 2. 
+(b) *Section 18 emergency exemptions.* Time-limited tolerances specified in Table 2 to this paragraph (b) are established for residues of fenpropathrin, (alpha-cyano-3-phenoxy-benzyl 2,2,3,3 tetramethylcyclopropane carboxylate) in or on the specified agricultural commodities, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. The tolerance expires on the date specified in Table 2.
 
 Table 2 to Paragraph (b)
 | Commodity        | Parts per   million | Expiration   date |
 | ---------------- | ------------------- | ----------------- |
 | Kiwifruit, fuzzy | 5                   | 12/31/2022        |
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[62 FR 63034, Nov. 26, 1997, as amended at 63 FR 48116, Sept. 9, 1998; 64 FR 3009, Jan. 20, 1999; 65 FR 11242, Mar. 2, 2000; 65 FR 24397, Apr. 26, 2000; 65 FR 48620, Aug. 9, 2000; 66 FR 64774, Dec. 14, 2001; 67 FR 35049, May 17, 2002; 70 FR 38789, July 6, 2005; 70 FR 55747, Sept. 23, 2005; 74 FR 12606, Mar. 25, 2009; 77 FR 70908, Nov. 28, 2012; 78 FR 69569, Nov. 20, 2013; 84 FR 70434, Dec. 23, 2019\]

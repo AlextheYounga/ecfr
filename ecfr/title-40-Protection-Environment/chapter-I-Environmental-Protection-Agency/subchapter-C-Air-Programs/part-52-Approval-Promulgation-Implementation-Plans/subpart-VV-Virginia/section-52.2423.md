@@ -1,6 +1,6 @@
 ##### § 52.2423 Approval status.
 
-(a) With the exceptions set forth in this subpart, the Administrator approves Virginia's plan for the attainment and maintenance of the national standards.
+(a) With the exceptions set forth in this subpart, the Administrator approves Virginia's plan for the attainment and maintenance of the national standards.*7*
 
 (b)-(e) \[Reserved\]
 

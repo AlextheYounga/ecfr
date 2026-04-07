@@ -1,6 +1,6 @@
 ##### § 52.2620 Identification of plan.
 
-(a) *Purpose and scope.* This section sets forth the applicable State Implementation Plan for Wyoming under section 110 of the Clean Air Act, 42 U.S.C. 7410 and 40 CFR part 51 to meet national ambient air quality standards or other requirements under the Clean Air Act.
+(a) *Purpose and scope.* This section sets forth the applicable State Implementation Plan for Wyoming under section 110 of the Clean Air Act, 42 U.S.C. 7410 and 40 CFR part 51 to meet national ambient air quality standards or other requirements under the Clean Air Act.Federal Register.
 
 (b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to September 1, 2015, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with EPA approval dates after September 1, 2015, will be incorporated by reference in the next update to the SIP compilation.
 
@@ -12,7 +12,7 @@
 
 | Rule No.                                                                   | Rule title                                                          | State   effective   date | EPA   Effective   date | Final rule citation/date | Comments                           |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------ | ---------------------- | ------------------------ | ---------------------------------- |
-| **Chapter 01. Common Provisions.**                                         |                                                                     |                          |                        |                          |                                    |
+| **Chapter 01. Common Provisions.**X                                        |                                                                     |                          |                        |                          |                                    |
 | Section 02                                                                 | Authority                                                           | 10/29/1999               | 8/27/2004              | 69 FR 44965, 7/28/04     |                                    |
 | Section 03                                                                 | Definitions                                                         | 2/14/2013                | 12/23/2013             | 78 FR 69998, 11/22/13    |                                    |
 | Section 04                                                                 | Diluting and concealing emissions                                   | 10/29/1999               | 8/27/2004              | 69 FR 44965, 7/28/04     |                                    |

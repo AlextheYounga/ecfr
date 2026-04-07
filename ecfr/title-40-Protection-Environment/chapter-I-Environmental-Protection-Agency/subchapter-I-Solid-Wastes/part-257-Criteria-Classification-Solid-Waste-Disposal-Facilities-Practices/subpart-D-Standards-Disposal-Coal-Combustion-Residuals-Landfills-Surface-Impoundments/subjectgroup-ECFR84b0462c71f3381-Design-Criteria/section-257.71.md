@@ -1,6 +1,6 @@
 ##### § 257.71 Liner design criteria for existing CCR surface impoundments.
 
-(a)(1) No later than October 17, 2016, the owner or operator of an existing CCR surface impoundment must document whether or not such unit was constructed with any one of the following:
+(a)(1) No later than October 17, 2016, the owner or operator of an existing CCR surface impoundment must document whether or not such unit was constructed with any one of the following:*Alternate Liner Demonstration.*
 
 (i) \[Reserved\]
 

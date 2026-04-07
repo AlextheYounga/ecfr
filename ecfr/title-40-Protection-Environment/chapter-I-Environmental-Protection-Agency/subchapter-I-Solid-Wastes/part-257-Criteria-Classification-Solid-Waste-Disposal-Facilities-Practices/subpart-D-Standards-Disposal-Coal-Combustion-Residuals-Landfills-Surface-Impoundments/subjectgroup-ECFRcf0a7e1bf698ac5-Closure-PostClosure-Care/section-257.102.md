@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 4649, Jan. 16, 2025.
 
-(a) *General.* Closure of a CCR unit must be completed either by leaving the CCR in place and installing a final cover system or through removal of the CCR and decontamination of the CCR unit, as described in paragraphs (b) through (j) of this section. Retrofit of a CCR surface impoundment must be completed in accordance with the requirements in paragraph (k) of this section.
+(a) *General.* Closure of a CCR unit must be completed either by leaving the CCR in place and installing a final cover system or through removal of the CCR and decontamination of the CCR unit, as described in paragraphs (b) through (j) of this section. Retrofit of a CCR surface impoundment must be completed in accordance with the requirements in paragraph (k) of this section.−5
 
 (b) *Written closure plan*—(1) *Content of the plan.* The owner or operator of a CCR unit must prepare a written closure plan that describes the steps necessary to close the CCR unit at any point during the active life of the CCR unit consistent with recognized and generally accepted good engineering practices. The written closure plan must include, at a minimum, the information specified in paragraphs (b)(1)(i) through (vi) of this section.
 

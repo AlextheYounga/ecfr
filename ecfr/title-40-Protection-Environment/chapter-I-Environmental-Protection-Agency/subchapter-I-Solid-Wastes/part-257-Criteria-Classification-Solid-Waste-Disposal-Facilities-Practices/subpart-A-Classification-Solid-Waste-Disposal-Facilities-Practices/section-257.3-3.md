@@ -1,6 +1,6 @@
 ##### § 257.3-3 Surface water.
 
-(a) For purposes of section 4004(a) of the Act, a facility shall not cause a discharge of pollutants into waters of the United States that is in violation of the requirements of the National Pollutant Discharge Elimination System (NPDES) under section 402 of the Clean Water Act, as amended.
+(a) For purposes of section 4004(a) of the Act, a facility shall not cause a discharge of pollutants into waters of the United States that is in violation of the requirements of the National Pollutant Discharge Elimination System (NPDES) under section 402 of the Clean Water Act, as amended.*Discharge of dredged material, Point source, Pollutant, Waters of the United States,*
 
 (b) For purposes of section 4004(a) of the Act, a facility shall not cause a discharge of dredged material or fill material to waters of the United States that is in violation of the requirements under section 404 of the Clean Water Act, as amended.
 

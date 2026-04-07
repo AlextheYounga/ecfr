@@ -1,6 +1,6 @@
 ##### § 257.22 Ground-water monitoring systems.
 
-(a) A ground-water monitoring system must be installed that consists of a sufficient number of wells, installed at appropriate locations and depths, to yield ground-water samples from the uppermost aquifer (as defined in § 257.5(b)) that:
+(a) A ground-water monitoring system must be installed that consists of a sufficient number of wells, installed at appropriate locations and depths, to yield ground-water samples from the uppermost aquifer (as defined in § 257.5(b)) that:*i.e.*
 
 (1) Represent the quality of background ground water that has not been affected by leakage from a unit. A determination of background quality may include sampling of wells that are not hydraulically upgradient of the waste management area where:
 

@@ -1,6 +1,6 @@
 ##### § 52.46 What are the requirements of the Federal Implementation Plans (FIPs) relating to ozone season emissions of nitrogen oxides from Municipal Waste Combustors?
 
-(a) *Definitions.* All terms not defined in this paragraph (a) shall have the meaning given them in the Act and in subpart A of 40 CFR part 60.
+(a) *Definitions.* All terms not defined in this paragraph (a) shall have the meaning given them in the Act and in subpart A of 40 CFR part 60.X
 
 *Affected unit* means a municipal waste combustor meeting the applicability criteria of this section.
 

@@ -1,6 +1,6 @@
 ##### § 52.1894 Original Identification of plan section.
 
-(a) This section identifies the original “Air Implementation Plan for the State of Ohio” and all revisions submitted by Ohio that were federally approved prior to September 1, 2015.
+(a) This section identifies the original “Air Implementation Plan for the State of Ohio” and all revisions submitted by Ohio that were federally approved prior to September 1, 2015.Federal Registers*1*
 
 (b) The plan was officially submitted on January 31, 1972.
 

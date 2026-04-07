@@ -1,6 +1,6 @@
 ##### § 52.2820 Identification of plan.
 
-(a) *Purpose and scope.* This section sets forth the applicable State implementation plan for American Samoa under section 110 of the Clean Air Act, 42 U.S.C. 7401-7671q and 40 CFR part 51 to meet national ambient air quality standards.
+(a) *Purpose and scope.* This section sets forth the applicable State implementation plan for American Samoa under section 110 of the Clean Air Act, 42 U.S.C. 7401-7671q and 40 CFR part 51 to meet national ambient air quality standards.Federal Register.
 
 (b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to June 1, 2005, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with EPA approval dates after June 1, 2005, will be incorporated by reference in the next update to the SIP compilation.
 
@@ -11,28 +11,28 @@
 (c) *EPA approved regulations.*
 
 Table 52.2820—EPA Approved Territory of American Samoa Regulations
-| State citation                              | Title/subject                                                   | Effective date | EPA approval date     | Explanation |
-| ------------------------------------------- | --------------------------------------------------------------- | -------------- | --------------------- | ----------- |
-| Air Pollution Control Rules and Regulations |                                                                 |                |                       |             |
-| Section 1.0                                 | Definitions (1.0.1-1.0.18)                                      | 6/8/1972       | 3/02/1976, 41 FR 8956 |             |
-| Section 1.1                                 | Approval of New Sources: Permit to Operate (1.1.1-1.1.14)       | 6/8/1972       | 3/02/1976, 41 FR 8956 |             |
-| Section 1.2                                 | Source Monitoring, Record Keeping, and Reporting (1.2.1-1.2.2)  | 6/8/1972       | 3/02/1976, 41 FR 8956 |             |
-| Section 1.3                                 | Sampling and Testing Methods (1.3.1-1.3.2)                      | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
-| Section 1.4                                 | Malfunction of Equipment; Reporting (1.4.1-1.4.2)               | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
-| Section 1.5                                 | Prohibition of Air Pollution                                    | 6/08/1972      | 3/2/1976, 41 FR 8956  |             |
-| Section 1.6                                 | Compliance Schedule (1.6.1, Existing Sources)                   | 6/08/1972      | 3/2/1976, 41 FR 8956  |             |
-| Section 1.7                                 | Circumvention                                                   | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
-| Section 1.8                                 | Severability                                                    | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
-| Section 1.9                                 | Ambient Air Quality Standards (1.9.1-1.9.2)                     | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
-| Section 2.1                                 | Control of Open Burning   Control of Particulate Emissions      | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
-| Section 3.1                                 | Visible Emissions (3.1.1-3.1.2)                                 | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
-| Section 3.2                                 | Fugitive Dust (3.2.1-3.2.3)                                     | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
-| Section 3.3                                 | Incineration (3.3.1-3.3.4)                                      | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
-| Section 3.4                                 | Fuel Burning Equipment (3.4.1-3.4.2)                            | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
-| Section 3.5                                 | Process Industries—General (3.5.1, 3.5.3-3.5.5)                 | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
-| Table 1                                     | Particulate Emission Allowable Based on Process Weight          | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
-| Section 3.6                                 | Sampling Methods (3.6.1)   Control of Sulfur Compound Emissions | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
-| Section 4.1                                 | Fuel Combustion (4.1.1)                                         | 6/08/1972      | 3/2/1976, 41 FR 8956  |             |
+| State citation                                                                                                          | Title/subject                                                   | Effective date | EPA approval date     | Explanation |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | -------------- | --------------------- | ----------- |
+| Air Pollution Control Rules and Regulations   **Territory of American Samoa Air Pollution Control Implementation Plan** |                                                                 |                |                       |             |
+| Section 1.0                                                                                                             | Definitions (1.0.1-1.0.18)                                      | 6/8/1972       | 3/02/1976, 41 FR 8956 |             |
+| Section 1.1                                                                                                             | Approval of New Sources: Permit to Operate (1.1.1-1.1.14)       | 6/8/1972       | 3/02/1976, 41 FR 8956 |             |
+| Section 1.2                                                                                                             | Source Monitoring, Record Keeping, and Reporting (1.2.1-1.2.2)  | 6/8/1972       | 3/02/1976, 41 FR 8956 |             |
+| Section 1.3                                                                                                             | Sampling and Testing Methods (1.3.1-1.3.2)                      | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
+| Section 1.4                                                                                                             | Malfunction of Equipment; Reporting (1.4.1-1.4.2)               | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
+| Section 1.5                                                                                                             | Prohibition of Air Pollution                                    | 6/08/1972      | 3/2/1976, 41 FR 8956  |             |
+| Section 1.6                                                                                                             | Compliance Schedule (1.6.1, Existing Sources)                   | 6/08/1972      | 3/2/1976, 41 FR 8956  |             |
+| Section 1.7                                                                                                             | Circumvention                                                   | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
+| Section 1.8                                                                                                             | Severability                                                    | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
+| Section 1.9                                                                                                             | Ambient Air Quality Standards (1.9.1-1.9.2)                     | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
+| Section 2.1                                                                                                             | Control of Open Burning   Control of Particulate Emissions      | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
+| Section 3.1                                                                                                             | Visible Emissions (3.1.1-3.1.2)                                 | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
+| Section 3.2                                                                                                             | Fugitive Dust (3.2.1-3.2.3)                                     | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
+| Section 3.3                                                                                                             | Incineration (3.3.1-3.3.4)                                      | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
+| Section 3.4                                                                                                             | Fuel Burning Equipment (3.4.1-3.4.2)                            | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
+| Section 3.5                                                                                                             | Process Industries—General (3.5.1, 3.5.3-3.5.5)                 | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
+| Table 1                                                                                                                 | Particulate Emission Allowable Based on Process Weight          | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
+| Section 3.6                                                                                                             | Sampling Methods (3.6.1)   Control of Sulfur Compound Emissions | 6/8/1972       | 3/2/1976, 41 FR 8956  |             |
+| Section 4.1                                                                                                             | Fuel Combustion (4.1.1)                                         | 6/08/1972      | 3/2/1976, 41 FR 8956  |             |
 
 (d) *EPA approved State source specific requirements.*
 

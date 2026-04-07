@@ -1,6 +1,6 @@
 ##### § 52.742 Incorporation by reference.
 
-The materials listed below are incorporated by reference in the corresponding sections noted. The incorporation by reference was approved by the Director of the Office of Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of approval, and a notice of any change in these materials will be published in the Federal Register. The materials are available from the sources listed below.
+The materials listed below are incorporated by reference in the corresponding sections noted. The incorporation by reference was approved by the Director of the Office of Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of approval, and a notice of any change in these materials will be published in the Federal Register. The materials are available from the sources listed below.*3*
 
 (a) The following material is available for purchase from the American Society for Testing and Materials (ASTM), 1916 Race Street, Philadelphia, PA 19103.
 

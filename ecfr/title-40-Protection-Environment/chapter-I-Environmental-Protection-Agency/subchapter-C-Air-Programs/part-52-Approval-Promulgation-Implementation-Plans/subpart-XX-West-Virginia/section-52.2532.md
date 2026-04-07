@@ -1,8 +1,8 @@
 ##### § 52.2532 Motor vehicle emissions budgets.
 
-(a) EPA approves the following revised 2009 and 2018 motor vehicle emissions budgets (MVEBs) for the Charleston, West Virginia 8-hour ozone maintenance area submitted by the Secretary of the Department of Environmental Protection on March 14, 2011:
+(a) EPA approves the following revised 2009 and 2018 motor vehicle emissions budgets (MVEBs) for the Charleston, West Virginia 8-hour ozone maintenance area submitted by the Secretary of the Department of Environmental Protection on March 14, 2011:2.5
 
-| Applicable geographic area                    | Year | Tons per day   (tpd) VOC | Tons per day   (tpd) NOX |
+| Applicable geographic area   X                | Year | Tons per day   (tpd) VOC | Tons per day   (tpd) NOX |
 | --------------------------------------------- | ---- | ------------------------ | ------------------------ |
 | Charleston Area (Kanawha and Putnam Counties) | 2009 | 16.7                     | 38.9                     |
 | Charleston Area (Kanawha and Putnam Counties) | 2018 | 13.7                     | 17.1                     |

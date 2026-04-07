@@ -1,6 +1,6 @@
 ##### § 52.2591 Section 110(a)(2) infrastructure requirements.
 
-(a) *Approval.* In a December 12, 2007 submittal, supplemented on January 24, 2011, March 28, 2011, July 2, 2015, and August 8, 2016, Wisconsin certified that the State has satisfied the infrastructure SIP requirements of section 110(a)(2)(A) through (C), (D)(ii), (E) through (H), and (J) through (M) for the 1997 8-hour ozone NAAQS.
+(a) *Approval.* In a December 12, 2007 submittal, supplemented on January 24, 2011, March 28, 2011, July 2, 2015, and August 8, 2016, Wisconsin certified that the State has satisfied the infrastructure SIP requirements of section 110(a)(2)(A) through (C), (D)(ii), (E) through (H), and (J) through (M) for the 1997 8-hour ozone NAAQS.2.5
 
 (b) *Approval.* In a December 12, 2007 submittal, supplemented on January 24, 2011, March 28, 2011, July 2, 2015, and August 8, 2016, Wisconsin certified that the State has satisfied the infrastructure SIP requirements of section 110(a)(2)(A) through (C), (D)(ii), (E) through (H), and (J) through (M) for the 1997 PM2.5 NAAQS.
 

@@ -1,13 +1,13 @@
 ##### § 431.156 Energy and water conservation standards and effective dates.
 
-(a) Each commercial clothes washer manufactured on or after January 8, 2013, and before January 1, 2018, shall have a modified energy factor no less than and a water factor no greater than: 
+(a) Each commercial clothes washer manufactured on or after January 8, 2013, and before January 1, 2018, shall have a modified energy factor no less than and a water factor no greater than:
 
 | Equipment class | Modified energy factor (MEF),   cu. ft./kWh/cycle | Water factor (WF),   gal./cu. ft./cycle |
 | --------------- | ------------------------------------------------- | --------------------------------------- |
 | Top-Loading     | 1.60                                              | 8.5                                     |
 | Front-Loading   | 2.00                                              | 5.5                                     |
 
-(b) Each commercial clothes washer manufactured on or after January 1, 2018 shall have a modified energy factor no less than and an integrated water factor no greater than: 
+(b) Each commercial clothes washer manufactured on or after January 1, 2018 shall have a modified energy factor no less than and an integrated water factor no greater than:
 
 | Equipment class | Modified energy factor (MEFJ2),   cu. ft./kWh/cycle | Integrated Water   factor (IWF),   gal./cu. ft./cycle |
 | --------------- | --------------------------------------------------- | ----------------------------------------------------- |

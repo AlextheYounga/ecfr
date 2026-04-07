@@ -1,6 +1,6 @@
 ##### § 257.82 Hydrologic and hydraulic capacity requirements for CCR surface impoundments.
 
-(a) The owner or operator of an existing or new CCR surface impoundment, legacy CCR surface impoundment, or any lateral expansion of a CCR surface impoundment must design, construct, operate, and maintain an inflow design flood control system as specified in paragraphs (a)(1) and (2) of this section.
+(a) The owner or operator of an existing or new CCR surface impoundment, legacy CCR surface impoundment, or any lateral expansion of a CCR surface impoundment must design, construct, operate, and maintain an inflow design flood control system as specified in paragraphs (a)(1) and (2) of this section.*Inflow design flood control system plan*
 
 (1) The inflow design flood control system must adequately manage flow into the CCR unit during and following the peak discharge of the inflow design flood specified in paragraph (a)(3) of this section.
 

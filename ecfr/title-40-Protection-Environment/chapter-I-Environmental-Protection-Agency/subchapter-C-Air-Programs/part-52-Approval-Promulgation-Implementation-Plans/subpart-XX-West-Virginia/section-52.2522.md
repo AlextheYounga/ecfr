@@ -1,6 +1,6 @@
 ##### § 52.2522 Identification of plan-conditional approval.
 
-With the exceptions set forth below in this subpart, the Administrator approves West Virginia's plan for the attainment and maintenance of the national standards.
+With the exceptions set forth below in this subpart, the Administrator approves West Virginia's plan for the attainment and maintenance of the national standards.2.5
 
 (a)-(f) \[Reserved\]
 
@@ -18,7 +18,7 @@ With the exceptions set forth below in this subpart, the Administrator approves 
 
 | Submittal dates                     | NAAQS      | Infrastructure element(s) disapproved in this action |
 | ----------------------------------- | ---------- | ---------------------------------------------------- |
-| December 11, 2007; April 3, 2008    | 1997 PM2.5 | 110(a)(2)(D)(i)(II).                                 |
+| December 11, 2007; April 3, 20082.5 | 1997 PM2.5 | 110(a)(2)(D)(i)(II).                                 |
 | December 3, 2007; December 11, 2007 | 1997 ozone | 110(a)(2)(D)(i)(II).                                 |
 | October 1, 2009                     | 2006 PM2.5 | 110(a)(2)(D)(i)(II).                                 |
 | October 26, 2011                    | 2008 lead  | 110(a)(2)(D)(i)(II), (C), and (J).                   |

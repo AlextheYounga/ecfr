@@ -1,6 +1,6 @@
 ##### § 17.44 Species-specific rules—fishes.
 
-(a) Lahontan cutthroat trout and Paiute cutthroat trout (*Oncorhynchus clarkii henshawi* and *Oncorhynchus clarkii seleniris*). (1) All the provisions of § 17.31 apply to these species, except that they may be taken in accordance with applicable State law.
+(a) Lahontan cutthroat trout and Paiute cutthroat trout (*Oncorhynchus clarkii henshawi* and *Oncorhynchus clarkii seleniris*). (1) All the provisions of § 17.31 apply to these species, except that they may be taken in accordance with applicable State law.Federal Register,
 
 (2) Violation of State law will also be a violation of the Act.
 

@@ -1,6 +1,6 @@
 ##### § 180.211 Propachlor; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the herbicide propachlor (2-chloro-N-isopropylacetanilide) and its metabolites containing the N-isopropylaniline moiety, calculated as 2-chloro-N-isopropylacetanilide, in or on the raw agricultural commodities found in the table in this paragraph. The tolerances listed in the table will expire on January 19, 2024. 
+(a) *General.* Tolerances are established for the combined residues of the herbicide propachlor (2-chloro-N-isopropylacetanilide) and its metabolites containing the N-isopropylaniline moiety, calculated as 2-chloro-N-isopropylacetanilide, in or on the raw agricultural commodities found in the table in this paragraph. The tolerances listed in the table will expire on January 19, 2024.
 
 Table 1 to Paragraph (a)
 | Commodity                              | Parts per million |
@@ -34,10 +34,10 @@ Table 1 to Paragraph (a)
 | Sorghum, grain, grain                  | 0.25              |
 | Sorghum, grain, stover                 | 12.0              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[47 FR 25959, June 16, 1982, as amended at 47 FR 28381, June 30, 1982; 47 FR 28626, July 1, 1982; 47 FR 46701, Oct. 20, 1982; 63 FR 57074, Oct. 26, 1998; 72 FR 53454, Sept. 19, 2007; 88 FR 46083, July 19, 2023\]

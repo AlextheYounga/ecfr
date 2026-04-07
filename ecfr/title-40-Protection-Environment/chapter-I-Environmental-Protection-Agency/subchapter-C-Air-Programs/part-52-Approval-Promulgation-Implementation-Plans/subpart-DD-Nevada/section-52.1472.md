@@ -1,6 +1,6 @@
 ##### § 52.1472 Approval status.
 
-(a) With the exceptions set forth in this subpart, the Administrator approves Nevada's plan for the attainment and maintenance of the national standards under section 110 of the Clean Air Act.
+(a) With the exceptions set forth in this subpart, the Administrator approves Nevada's plan for the attainment and maintenance of the national standards under section 110 of the Clean Air Act.3*1997 8-hour ozone NAAQS:*
 
 (b) With the exceptions set forth in this subpart, the Administrator approves the plan with respect to Part D, Title I of the Clean Air Act, as amended in 1977, for the nonattainment areas listed in this paragraph.
 

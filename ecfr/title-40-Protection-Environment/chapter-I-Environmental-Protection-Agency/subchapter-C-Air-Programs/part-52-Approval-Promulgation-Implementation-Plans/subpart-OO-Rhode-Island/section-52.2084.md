@@ -1,6 +1,6 @@
 ##### § 52.2084 Rules and regulations.
 
-(a) Part D—Disapproval.
+(a) Part D—Disapproval.*Non-Part D—No Action—*
 
 (1) On November 5, 1985, the Rhode Island Department of Environmental Management submitted a revision to the Rhode Island State Implementation Plan (SIP) for Arkwright Incorporated. This revision is an alternative reasonably available control technology determination for the control of volatile organic compounds (VOC) from three paper coating lines at Arkwright Incorporated's Fiskeville, Rhode Island facility. As a result of EPA's disapproval of this revision, the existing VOC rules applicable to Arkwright Incorporated and contained in the Rhode Island SIP remain in effect (Rhode Island Air Pollution Control Regulation No. 19 as approved by EPA in 40 CFR 52.2080(c)(19)).
 

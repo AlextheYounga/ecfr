@@ -1,6 +1,6 @@
 ##### § 52.41 What are the requirements of the Federal Implementation Plans (FIPs) relating to ozone season emissions of nitrogen oxides from the Pipeline Transportation of Natural Gas Industry?
 
-(a) *Definitions.* All terms not defined in this paragraph (a) shall have the meaning given to them in the Act and in subpart A of 40 CFR part 60.
+(a) *Definitions.* All terms not defined in this paragraph (a) shall have the meaning given to them in the Act and in subpart A of 40 CFR part 60.X
 
 *Affected unit* means an engine meeting the applicability criteria of this section.
 
@@ -88,7 +88,7 @@
 
 (3) The owner or operator will calculate the cap according to equation 1 to this paragraph (d)(3). You will monitor and record daily hours of engine operation for use in calculating the cap on a 30-day rolling average basis. You will base the hours of operation on hour readings from a non-resettable hour meter or an equivalent monitoring device.
 
-Equation 1 to Paragraph (d)(3) ![](/graphics/er05jn23.006.gif)Where: Hi = the average daily operating hours based on the highest consecutive 30-day period during the ozone season of the two most recent years preceding the emissions averaging year (hours). i = each affected unit included in the Cap. N = number of affected units. DC = the engine manufacturer's design maximum capacity in horsepower (hp) at the installation site conditions. Rli = the emissions limit for each affected unit from paragraph (c) of this section (grams/hp-hr).
+Equation 1 to Paragraph (d)(3) ![](/graphics/er05jn23.006.gif)Where: iHi = the average daily operating hours based on the highest consecutive 30-day period during the ozone season of the two most recent years preceding the emissions averaging year (hours). i = each affected unit included in the Cap. N = number of affected units. DC = the engine manufacturer's design maximum capacity in horsepower (hp) at the installation site conditions. Rli = the emissions limit for each affected unit from paragraph (c) of this section (grams/hp-hr).
 
 (i) Any affected unit for which less than two years of operating data are available shall not be included in the Facility-Wide Averaging Plan unless the owner or operator extrapolates the available operating data for the affected unit to two years of operating data, for use in calculating the emissions cap in accordance with paragraph (d)(3) of this section.
 

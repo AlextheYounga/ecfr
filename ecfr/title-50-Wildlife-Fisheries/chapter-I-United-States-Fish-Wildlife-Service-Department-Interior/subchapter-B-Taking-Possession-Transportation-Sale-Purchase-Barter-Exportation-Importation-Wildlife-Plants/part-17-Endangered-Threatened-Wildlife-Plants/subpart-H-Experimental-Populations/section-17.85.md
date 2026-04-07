@@ -2,22 +2,22 @@
 
 (a) *Fourteen mollusks in the Tennessee River.* The species in the following table comprise nonessential experimental populations (NEPs):
 
-| Common name                          | Scientific name         |
-| ------------------------------------ | ----------------------- |
-| Cumberland bean (pearlymussel)       | Villosa trabalis        |
-| purple cat's paw pearlymussel        | Epioblasma obliquata.   |
-| clubshell                            | Pleurobema clava        |
-| Cumberlandian combshell              | Epioblasma brevidens    |
-| Alabama lampmussel                   | Lampsilis virescens     |
-| winged mapleleaf (mussel)            | Quadrula fragosa        |
-| Cumberland monkeyface (pearlymussel) | Theliderma intermedia.  |
-| oyster mussel                        | Epioblasma capsaeformis |
-| birdwing pearlymussel                | Lemiox rimosus          |
-| cracking pearlymussel                | Hemistena lata          |
-| dromedary pearlymussel               | Dromus dromas           |
-| fine-rayed pigtoe                    | Fusconaia cuneolus      |
-| shiny pigtoe                         | Fusconaia cor           |
-| Anthony's riversnail                 | Athearnia anthonyi      |
+| Common name                                    | Scientific name         |
+| ---------------------------------------------- | ----------------------- |
+| Cumberland bean (pearlymussel)Villosa trabalis | Villosa trabalis        |
+| purple cat's paw pearlymussel                  | Epioblasma obliquata.   |
+| clubshell                                      | Pleurobema clava        |
+| Cumberlandian combshell                        | Epioblasma brevidens    |
+| Alabama lampmussel                             | Lampsilis virescens     |
+| winged mapleleaf (mussel)                      | Quadrula fragosa        |
+| Cumberland monkeyface (pearlymussel)           | Theliderma intermedia.  |
+| oyster mussel                                  | Epioblasma capsaeformis |
+| birdwing pearlymussel                          | Lemiox rimosus          |
+| cracking pearlymussel                          | Hemistena lata          |
+| dromedary pearlymussel                         | Dromus dromas           |
+| fine-rayed pigtoe                              | Fusconaia cuneolus      |
+| shiny pigtoe                                   | Fusconaia cor           |
+| Anthony's riversnail                           | Athearnia anthonyi      |
 
 (1) *Where are these mollusks designated as nonessential experimental populations (NEPs)?* (i) The NEP Area for these 14 mollusks is within the species' historic ranges, and is defined as follows: The free-flowing reach of the Tennessee River from the base of Wilson Dam downstream to the backwaters of Pickwick Reservoir (river mile (RM) 259.4 \[414.0 km\] to RM 246.0 \[393.6 km\] and includes the lower 5 RM (8 km) of all tributaries to this reach in Colbert and Lauderdale Counties, Alabama.
 

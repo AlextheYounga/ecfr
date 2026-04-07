@@ -1,6 +1,6 @@
 ##### § 180.527 Flufenacet, N-(4-fluorophenyl)-N-(1-methylethyl)-2-\[\[5-(trifluoromethyl)-1, 3, 4-thiadiazol-2-yl\] oxy\]acetamide and its metabolites containing the 4-fluoro-N-methylethyl benzenamine tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the herbicide flufenacet, *N*-(4-fluorophenyl)-*N*-(1-methylethyl)-2-\[\[5-(trifluoromethyl)-1, 3, 4-thiadiazol-2-yl\] oxy\]acetamide and its metabolites containing the 4-fluoro-*N*-methylethyl benzenamine moiety in or on the following commodities. 
+(a) *General.* Tolerances are established for the combined residues of the herbicide flufenacet, *N*-(4-fluorophenyl)-*N*-(1-methylethyl)-2-\[\[5-(trifluoromethyl)-1, 3, 4-thiadiazol-2-yl\] oxy\]acetamide and its metabolites containing the 4-fluoro-*N*-methylethyl benzenamine moiety in or on the following commodities.
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
@@ -22,16 +22,16 @@
 | Wheat, hay                                      | 1.2               |
 | Wheat, straw                                    | 0.35              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances are established for combined residues of flufenacet, *N*-(4-fluorophenyl)-*N*-(1-methylethyl)-2-\[\[5-(trifluoromethyl)-1, 3, 4-thiadiazol-2-yl\] oxy\]acetamide, and its metabolites containing the 4-fluoro-*N*-methylethyl benzenamine moiety, with regional registration. 
+(c) *Tolerances with regional registrations.* Tolerances are established for combined residues of flufenacet, *N*-(4-fluorophenyl)-*N*-(1-methylethyl)-2-\[\[5-(trifluoromethyl)-1, 3, 4-thiadiazol-2-yl\] oxy\]acetamide, and its metabolites containing the 4-fluoro-*N*-methylethyl benzenamine moiety, with regional registration.
 
 | Commodity     | Parts per million |
 | ------------- | ----------------- |
 | Grass, forage | 7.0               |
 | Grass, hay    | 0.4               |
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of the herbicide flufenacet, *N*-(4-fluorophenyl)-*N*-(1-methylethyl)-2-\[\[5-(trifluoromethyl)-1,3,4-thiadiazol-2-yl\]oxy\]acetamide and its metabolites containing the 4-fluoro-*N*-methylethyl benzenamine moiety in or on the following raw agricultural commodities when present therein as a result of application of flufenacet to the growing crops in paragraph (a) of this section. 
+(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of the herbicide flufenacet, *N*-(4-fluorophenyl)-*N*-(1-methylethyl)-2-\[\[5-(trifluoromethyl)-1,3,4-thiadiazol-2-yl\]oxy\]acetamide and its metabolites containing the 4-fluoro-*N*-methylethyl benzenamine moiety in or on the following raw agricultural commodities when present therein as a result of application of flufenacet to the growing crops in paragraph (a) of this section.
 
 | Commodity                                                       | Parts per million |
 | --------------------------------------------------------------- | ----------------- |

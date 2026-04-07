@@ -1,6 +1,6 @@
 ##### § 52.1519 Identification of plan—conditional approval.
 
-(a) The following plan revisions were submitted on the dates specified.
+(a) The following plan revisions were submitted on the dates specified.*Incorporation by reference.*2.5
 
 (1) On January 12, 1993, the New Hampshire Department of Environmental Services submitted a small business stationary source technical and environmental compliance assistance program (PROGRAM). On May 19, 1994, New Hampshire submitted a letter deleting portions of the January 12, 1993 submittal. In these submissions, the State commits to designate a state agency to house the small business ombudsman and to submit adequate legal authority to establish and implement a compliance advisory panel and a small business ombudsman. Additionally, the State commits to have a fully operational PROGRAM by November 15, 1994.
 

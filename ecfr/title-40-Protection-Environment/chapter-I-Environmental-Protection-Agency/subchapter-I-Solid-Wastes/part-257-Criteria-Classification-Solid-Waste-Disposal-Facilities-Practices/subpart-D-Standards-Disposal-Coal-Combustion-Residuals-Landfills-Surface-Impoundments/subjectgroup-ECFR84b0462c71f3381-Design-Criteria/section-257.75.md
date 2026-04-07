@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 4643, Jan. 16, 2025.
 
-(a) *Applicability.* The requirements of this section apply to owners and operators of active facilities or facilities with a legacy CCR surface impoundment.
+(a) *Applicability.* The requirements of this section apply to owners and operators of active facilities or facilities with a legacy CCR surface impoundment.1/2
 
 (b) *Facility evaluation.* The owner or operator of an active facility or a facility with a legacy CCR surface impoundment must conduct a facility evaluation to identify all CCR management units at the facility in accordance with paragraphs (c) through (e) of this section. At a minimum, the presence or absence of CCR management units at the facility must be confirmed and documented through a thorough evaluation of reasonably and readily available records that contain the information needed to prepare the Facility Evaluation Reports Part 1 and Part 2 required by paragraphs (c) and (d) of this section. The facility evaluation must also include a physical inspection of the facility. Where necessary, the physical inspection must include field investigation activities to fill data gaps, such as conducting exploratory soil borings, geophysical assessments, or any other similar physical investigation activities to establish the location and boundaries of potential or likely CCR management units, and to affirmatively rule out other areas of potential CCR placement at the facility that were identified during the information review or physical inspection. The facility evaluation must identify all CCR management units at the facility regardless of when the CCR management unit came into existence.
 

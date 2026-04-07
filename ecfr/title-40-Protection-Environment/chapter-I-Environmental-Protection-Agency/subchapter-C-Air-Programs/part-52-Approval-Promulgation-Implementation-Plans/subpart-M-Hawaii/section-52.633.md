@@ -1,6 +1,6 @@
 ##### § 52.633 Visibility protection.
 
-(a) The requirements of section 169A of the Clean Air Act are not met, because the plan does not include approvable procedures for protection of visibility in mandatory Class I Federal areas.
+(a) The requirements of section 169A of the Clean Air Act are not met, because the plan does not include approvable procedures for protection of visibility in mandatory Class I Federal areas.*Regional Haze Plan Provisions—(1) Applicability*2
 
 (b) Regulations for visibility monitoring and new source review. The provisions of §§ 52.27 and 52.28 are hereby incorporated and made part of the applicable plan for the State of Hawaii.
 
@@ -10,7 +10,7 @@
 
 (2) *Definitions.* Terms not defined below shall have the meaning given to them in the Clean Air Act or EPA's regulations implementing the Clean Air Act. For purposes of this paragraph (d):
 
-*Owner/operator* means any person who owns, leases, operates, controls, or supervises an EGU or boiler identified in paragraph (d)(1) of this section. *SO*2 means sulfur dioxide. *Unit* means any of the EGUs or boilers identified in paragraph (d)(1) of this section.
+*Owner/operator* means any person who owns, leases, operates, controls, or supervises an EGU or boiler identified in paragraph (d)(1) of this section. 2*SO*2 means sulfur dioxide. *Unit* means any of the EGUs or boilers identified in paragraph (d)(1) of this section.
 
 (3) *Emissions cap.* The EGUs identified in paragraph (d)(1) of this section shall not emit or cause to be emitted SO2 in excess of a total of 3,550 tons per year, calculated as the sum of total SO2 emissions for all five units over a rolling 12-month period.
 

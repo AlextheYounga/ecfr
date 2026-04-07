@@ -1,6 +1,6 @@
 ##### § 52.1689 Original Identification of plan section.
 
-(a) This section identifies the original “Air Implementation Plan for the State of New York” and all revisions submitted by New York that were Federally approved prior to January 1, 2011.
+(a) This section identifies the original “Air Implementation Plan for the State of New York” and all revisions submitted by New York that were Federally approved prior to January 1, 2011.2*1*
 
 (b) The plans were officially submitted on January 31, 1972.
 

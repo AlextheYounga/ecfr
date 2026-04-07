@@ -1,6 +1,6 @@
 ##### § 180.106 Diuron; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the herbicide diuron, 3-(3,4-dichlorophenyl)-1,1-dimethylurea and its metabolites convertible to 3,4-dichloroaniline in or on food commodities, as follows: 
+(a) *General.* Tolerances are established for the combined residues of the herbicide diuron, 3-(3,4-dichlorophenyl)-1,1-dimethylurea and its metabolites convertible to 3,4-dichloroaniline in or on food commodities, as follows:
 
 | Commodity                              | Parts per million |
 | -------------------------------------- | ----------------- |
@@ -63,9 +63,9 @@
 | Wheat, hay                             | 2                 |
 | Wheat, straw                           | 1.5               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with a regional registration as defined in § 180.1(l) are established for the combined residues of the herbicide diuron (3-(3,4-dichlorophenyl)-1,1-dimethylurea and its metabolites convertible to 3,4-dichloroaniline) in or on the raw agricultural commodities: 
+(c) *Tolerances with regional registrations.* Tolerances with a regional registration as defined in § 180.1(l) are established for the combined residues of the herbicide diuron (3-(3,4-dichlorophenyl)-1,1-dimethylurea and its metabolites convertible to 3,4-dichloroaniline) in or on the raw agricultural commodities:
 
 | Commodity       | Parts per million |
 | --------------- | ----------------- |
@@ -85,6 +85,6 @@
 | Vetch, forage   | 0.1               |
 | Vetch, hay      | 1.5               |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[63 FR 2164, Jan. 14, 1998, as amended at 63 FR 57072, Oct. 26, 1998; 64 FR 41305, July 30, 1999; 66 FR 28671, May 24, 2001; 67 FR 46883, July 17, 2002; 69 FR 71717, Dec. 10, 2004; 72 FR 32540, June 13, 2007; 72 FR 35666, June 29, 2007; 73 FR 54958, Sept. 24, 2008; 76 FR 34885, June 15, 2011\]

@@ -1,6 +1,6 @@
 ##### § 257.3-1 Floodplains.
 
-(a) Facilities or practices in floodplains shall not restrict the flow of the base flood, reduce the temporary water storage capacity of the floodplain, or result in washout of solid waste, so as to pose a hazard to human life, wildlife, or land or water resources.
+(a) Facilities or practices in floodplains shall not restrict the flow of the base flood, reduce the temporary water storage capacity of the floodplain, or result in washout of solid waste, so as to pose a hazard to human life, wildlife, or land or water resources.*Based flood*
 
 (b) As used in this section:
 

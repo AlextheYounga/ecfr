@@ -1,6 +1,6 @@
 ##### § 52.781 Rules and regulations.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Disapproval.*
 
 (b) A part of the second sentence in section 3, APC-17, which states “Where there is a violation or potential violation of ambient air quality standards, existing emission sources or any existing air pollution control equipment shall comply with th
 

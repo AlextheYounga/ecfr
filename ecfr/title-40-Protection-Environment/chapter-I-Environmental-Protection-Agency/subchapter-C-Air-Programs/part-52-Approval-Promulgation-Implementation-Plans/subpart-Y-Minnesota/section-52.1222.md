@@ -1,6 +1,6 @@
 ##### § 52.1222 Original Identification of plan section.
 
-(a) This section identifies the original “Air Implementation Plan for the State of Minnesota” and all revisions submitted by Minnesota that were federally approved prior to December 1, 2004.
+(a) This section identifies the original “Air Implementation Plan for the State of Minnesota” and all revisions submitted by Minnesota that were federally approved prior to December 1, 2004.*1*2
 
 (b) The plan was officially submitted on January 28, 1972.
 

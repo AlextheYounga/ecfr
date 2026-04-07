@@ -1,6 +1,6 @@
 ##### § 52.124 Part D disapproval.
 
-(a) The following portions of the Arizona SIP are disapproved because they do not meet the requirements of Part D of the Clean Air Act.
+(a) The following portions of the Arizona SIP are disapproved because they do not meet the requirements of Part D of the Clean Air Act.2
 
 (1) The attainment demonstration, conformity and contingency portions of the 1987 Maricopa Association of Governments Carbon Monoxide Plan and 1988 Addendum.
 

@@ -1,6 +1,6 @@
 ##### § 52.349 Control strategy: Carbon monoxide.
 
-(a) Revisions to the Colorado State Implementation Plan, Carbon Monoxide Redesignation Request and Maintenance Plan for Greeley, as adopted by the Colorado Air Quality Control Commission on September 19, 1996, State effective November 30, 1996, and submitted by the Governor on September 16, 1997.
+(a) Revisions to the Colorado State Implementation Plan, Carbon Monoxide Redesignation Request and Maintenance Plan for Greeley, as adopted by the Colorado Air Quality Control Commission on September 19, 1996, State effective November 30, 1996, and submitted by the Governor on September 16, 1997.*Determination.*
 
 (b) On June 25, 1996, the Governor of Colorado submitted a revision to the Colorado Springs element of the carbon monoxide (CO) portion of the Colorado State Implementation Plan (SIP). The revision to the Colorado Springs element was submitted to satisfy certain requirements of part D and section 110 of the Clean Air Act (CAA) as amended 1990. The revision substitutes Colorado's oxygenated gasoline program for the Colorado Springs bus purchase program as a source of emissions reductions credits in the Colorado Springs CO element of the SIP. This revision removes the bus purchase program from the EPA-approved SIP. EPA originally approved the bus purchase program as part of the Colorado Springs CO element of the SIP on December 12, 1983 (48 FR 55284).
 

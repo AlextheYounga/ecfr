@@ -1,6 +1,6 @@
 ##### § 180.661 Fluopyram; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the fungicide Fluopyram, *N*-\[2-\[3-chloro-5-(trifluoromethyl)-2-pyridinyl\]ethyl\]-2-(trifluoromethyl)benzamide, including its metabolites and degradates in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only fluopyram in or on the commodity. 
+(a) *General.* (1) Tolerances are established for residues of the fungicide Fluopyram, *N*-\[2-\[3-chloro-5-(trifluoromethyl)-2-pyridinyl\]ethyl\]-2-(trifluoromethyl)benzamide, including its metabolites and degradates in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only fluopyram in or on the commodity.
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                     | Parts per   million |
@@ -69,7 +69,7 @@ Table 1 to Paragraph (a)(1)
 | Vegetable, tuberous and corm, subgroup 1C                                     | 0.10                |
 | 1 There are no U.S. registrations.                                            |                     |
 
-(2) Tolerances are established for residues of the fungicide fluopyram, *N*-\[2-\[3-chloro-5-(trifluoromethyl)-2-pyridinyl\]ethyl\]-2-(trifluoromethyl)benzamide, including its metabolites and degradates. Compliance with the tolerance levels specified in the table below is to be determined by measuring only the sum of fluopyram and its metabolite, 2-(trifluoromethyl)benzamide, calculated as the stoichiometric equivalent of fluopyram, in or on the commodity. 
+(2) Tolerances are established for residues of the fungicide fluopyram, *N*-\[2-\[3-chloro-5-(trifluoromethyl)-2-pyridinyl\]ethyl\]-2-(trifluoromethyl)benzamide, including its metabolites and degradates. Compliance with the tolerance levels specified in the table below is to be determined by measuring only the sum of fluopyram and its metabolite, 2-(trifluoromethyl)benzamide, calculated as the stoichiometric equivalent of fluopyram, in or on the commodity.
 
 Table 2 to Paragraph (a)(2)
 | Commodity                | Parts per   million |
@@ -95,15 +95,15 @@ Table 2 to Paragraph (a)(2)
 | Sheep, meat              | 0.3                 |
 | Sheep, meat byproducts   | 3                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(1), are established for indirect or inadvertent residues of fungicide fluopyram, N-\[2-\[3-chloro-5-(trifluoromethyl)-2-pyridinyl\]ethyl\]-2-(trifluoromethyl)benzamide, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only fluopyram in or on the commodity. 
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(1), are established for indirect or inadvertent residues of fungicide fluopyram, N-\[2-\[3-chloro-5-(trifluoromethyl)-2-pyridinyl\]ethyl\]-2-(trifluoromethyl)benzamide, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only fluopyram in or on the commodity.
 
 | Commodity       | Parts per   million |
 | --------------- | ------------------- |
 | Sugarcane, cane | 0.08                |
 
-(d) *Indirect or inadvertent residues.* It is recommended that tolerances be established for indirect or inadvertent residues of fungicide fluopyram, *N*-\[2-\[3-chloro-5-(trifluoromethyl)-2-pyridinyl\]ethyl\]-2-(trifluoromethyl)benzamide, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only fluopyram in or on the commodity. 
+(d) *Indirect or inadvertent residues.* It is recommended that tolerances be established for indirect or inadvertent residues of fungicide fluopyram, *N*-\[2-\[3-chloro-5-(trifluoromethyl)-2-pyridinyl\]ethyl\]-2-(trifluoromethyl)benzamide, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified in the table is to be determined by measuring only fluopyram in or on the commodity.
 
 | Commodity       | Parts per   million |
 | --------------- | ------------------- |

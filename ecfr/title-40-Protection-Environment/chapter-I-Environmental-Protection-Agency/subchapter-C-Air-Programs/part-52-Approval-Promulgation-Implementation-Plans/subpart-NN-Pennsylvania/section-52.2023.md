@@ -1,6 +1,6 @@
 ##### § 52.2023 Approval status.
 
-(a) With the exceptions set forth in this subpart, the Administrator approves Pennsylvania's plan for attainment and maintenance of the national standards.
+(a) With the exceptions set forth in this subpart, the Administrator approves Pennsylvania's plan for attainment and maintenance of the national standards.2.5
 
 (b) With the exceptions set forth in this subpart, the Administrator approves Pennsylvania's plan for the attainment and maintenance of the national ambient air quality standards under section 110 of the Clean Air Act. Furthermore, the Administrator finds that the plan satisfies all requirements of part D, Title 1, of the Clean Air Act as amended in 1977.
 

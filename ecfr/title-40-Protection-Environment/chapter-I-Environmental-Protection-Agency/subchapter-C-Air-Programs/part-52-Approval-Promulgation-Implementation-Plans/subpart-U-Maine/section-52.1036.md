@@ -1,6 +1,6 @@
 ##### § 52.1036 Emission inventories.
 
-(a) The Governor's designee for the State of Maine submitted 1990 base year emission inventories for the Knox and Lincoln Counties area, the Lewiston and Auburn area, the Portland area, and the Hancock and Waldo Counties area on July 25, 1995 as a revision to the State Implementation Plan (SIP). An amendment to the 1990 base year emission inventory for the Portland area was submitted on June 9, 2005. The 1990 base year emission inventory requirement of section 182(a)(1) of the Clean Air Act, as amended in 1990, has been satisfied for these areas.
+(a) The Governor's designee for the State of Maine submitted 1990 base year emission inventories for the Knox and Lincoln Counties area, the Lewiston and Auburn area, the Portland area, and the Hancock and Waldo Counties area on July 25, 1995 as a revision to the State Implementation Plan (SIP). An amendment to the 1990 base year emission inventory for the Portland area was submitted on June 9, 2005. The 1990 base year emission inventory requirement of section 182(a)(1) of the Clean Air Act, as amended in 1990, has been satisfied for these areas.X
 
 (b) The inventory is for the ozone precursors which are volatile organic compounds, nitrogen oxides, and carbon monoxide. The inventory covers point, area, non-road mobile, on-road mobile, and biogenic sources.
 

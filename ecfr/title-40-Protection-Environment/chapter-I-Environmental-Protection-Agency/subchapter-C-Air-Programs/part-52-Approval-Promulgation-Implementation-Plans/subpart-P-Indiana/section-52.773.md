@@ -1,6 +1,6 @@
 ##### § 52.773 Approval status.
 
-(a) With the exceptions set forth in this subpart, the Administrator approves Indiana's plan for attainment and maintenance of the National Ambient Air Quality Standards under section 110 of the Clean Air Act.
+(a) With the exceptions set forth in this subpart, the Administrator approves Indiana's plan for attainment and maintenance of the National Ambient Air Quality Standards under section 110 of the Clean Air Act.2
 
 (b) \[Reserved\]
 

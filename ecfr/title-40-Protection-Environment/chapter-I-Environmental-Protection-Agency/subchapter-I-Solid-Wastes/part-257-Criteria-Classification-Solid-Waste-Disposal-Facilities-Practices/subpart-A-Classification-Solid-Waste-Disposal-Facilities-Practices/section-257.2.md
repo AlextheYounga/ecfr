@@ -1,6 +1,6 @@
 ##### § 257.2 Definitions.
 
-The definitions set forth in section 1004 of the Act apply to this part. Special definitions of general concern to this part are provided below, and definitions especially pertinent to particular sections of this part are provided in those sections.
+The definitions set forth in section 1004 of the Act apply to this part. Special definitions of general concern to this part are provided below, and definitions especially pertinent to particular sections of this part are provided in those sections.*CCR landfill*
 
 *CCR landfill* means an area of land or an excavation that receives CCR and which is not a surface impoundment, an underground injection well, a salt dome formation, a salt bed formation, an underground or surface coal mine, or a cave. For purposes of this subpart, a CCR landfill also includes sand and gravel pits and quarries that receive CCR, CCR piles, and any practice that does not meet the definition of a beneficial use of CCR.
 

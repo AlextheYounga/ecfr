@@ -1,6 +1,6 @@
 ##### § 52.145 Visibility protection.
 
-(a) The requirements of section 169A of the Clean Air Act are not met, because the plan does not include approvable procedures for protection of visibility in mandatory Class I Federal areas.
+(a) The requirements of section 169A of the Clean Air Act are not met, because the plan does not include approvable procedures for protection of visibility in mandatory Class I Federal areas.*Approval.*X
 
 (b) Regulations for visibility new source review. The provisions of § 52.28 are hereby incorporated and made part of the applicable plan for the State of Arizona only for those stationary sources under the permitting jurisdiction of the Pima County Department of Environmental Quality. The provisions of § 52.28 also remain the applicable plan for any Indian reservation lands, and any other area of Indian country where the EPA or an Indian tribe has demonstrated that a tribe has jurisdiction, located within the State of Arizona.
 
@@ -77,10 +77,10 @@
 (3) *Emission limitations.* (i) The owner/operator of the kilns identified in paragraph (i)(1) of this section shall not emit or cause to be emitted pollutants in excess of the following limitations in pounds of pollutant per ton of lime product (lb/ton), from any kiln. Each emission limit shall be based on a 12-month rolling basis.
 
 Pollutant Emission Limit
-| Kiln ID | NOX  | SO2  |
-| ------- | ---- | ---- |
-| Kiln 1  | 3.80 | 9.32 |
-| Kiln 2  | 2.61 | 9.73 |
+| Kiln IDX | NOX  | SO2  |
+| -------- | ---- | ---- |
+| Kiln 1X  | 3.80 | 9.32 |
+| Kiln 2   | 2.61 | 9.73 |
 
 (ii) The owner/operator of the kilns identified in paragraph (i)(1) of this section shall not emit or cause to be emitted pollutants in excess of 3.27 tons of NOX per day and 10.10 tons of SO2 per day, combined from both kilns, based on a rolling 30-kiln-operating-day basis.
 
@@ -360,7 +360,7 @@ Pollutant Emission Limit
 
 (B)(*1*) The owner/operator of each unit shall calculate and record the 30-kiln operating day average emission rate of NOX, in pounds per ton (lb/ton) of clinker produced, as the total of all hourly emissions data for the cement kiln in the preceding 30-kiln operating days, divided by the total tons of clinker produced in that kiln during the same 30-day operating period, using the following equation:
 
-![](/graphics/er21no16.024.gif)Where: E\[D\] = 30 kiln operating day average emission rate of NOX, lb/ton of clinker; C\[i\] = Concentration of NOX for hour i as recorded by the CEMS required by paragraph (k)(7)(i) of this section, ppm; Q\[i\] = volumetric flow rate of effluent gas for hour i as recorded by the CEMS required by paragraph (k)(7)(i) of this section, where C\[i\] and Q\[i\] are on the same basis (either wet or dry), scf/hr; P\[i\] = total kiln clinker produced during production hour i, ton/hr; k = conversion factor, 1.194 × 10−7 for NOX; and n = number of kiln operating hours over 30 kiln operating days, n = 1 up to 720.
+![](/graphics/er21no16.024.gif)Where: XE\[D\] = 30 kiln operating day average emission rate of NOX, lb/ton of clinker; C\[i\] = Concentration of NOX for hour i as recorded by the CEMS required by paragraph (k)(7)(i) of this section, ppm; Q\[i\] = volumetric flow rate of effluent gas for hour i as recorded by the CEMS required by paragraph (k)(7)(i) of this section, where C\[i\] and Q\[i\] are on the same basis (either wet or dry), scf/hr; P\[i\] = total kiln clinker produced during production hour i, ton/hr; k = conversion factor, 1.194 × 10−7 for NOX; and n = number of kiln operating hours over 30 kiln operating days, n = 1 up to 720.Where:
 
 (*2*) For each kiln operating hour for which the owner/operator does not have at least one valid 15-minute CEMS data value, the owner/operator must use the average emissions rate in pounds per ton (lb/hr) from the most recent previous hour for which valid data are available. Hourly clinker production shall be determined by the owner/operator in accordance with the requirements found at 40 CFR 60.63(b).
 

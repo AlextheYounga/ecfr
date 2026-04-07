@@ -1,6 +1,6 @@
 ##### § 52.2064 EPA-approved Source-Specific Reasonably Available Control Technology (RACT) for Volatile Organic Compounds (VOC) and Oxides of Nitrogen (NOX).
 
-This section explains the EPA-approved Source-Specific Reasonably Available Control Technology (RACT) Requirements for Volatile Organic Compounds (VOC) and Oxides of Nitrogen (NOX) incorporated by reference as part of the Pennsylvania State Implementation Plan (SIP) identified in § 52.2020(d)(1).
+This section explains the EPA-approved Source-Specific Reasonably Available Control Technology (RACT) Requirements for Volatile Organic Compounds (VOC) and Oxides of Nitrogen (NOX) incorporated by reference as part of the Pennsylvania State Implementation Plan (SIP) identified in § 52.2020(d)(1).*2*
 
 (a) Approval of source-specific RACT requirements for 1997 and 2008 8-hour ozone national ambient air quality standards for the facilities listed below are incorporated as specified below. (Rulemaking Docket No. EPA-OAR-2019-0686).
 

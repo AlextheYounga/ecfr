@@ -1,6 +1,6 @@
 ##### § 257.103 Alternative closure requirements.
 
-The owner or operator of a CCR landfill, CCR surface impoundment, or any lateral expansion of a CCR unit that is subject to closure pursuant to § 257.101(a), (b)(1), or (d) may nevertheless continue to receive the wastes specified in either paragraph (a), (b), (f)(1), or (f)(2) of this section in the unit provided the owner or operator meets all of the requirements contained in the respective paragraph.
+The owner or operator of a CCR landfill, CCR surface impoundment, or any lateral expansion of a CCR unit that is subject to closure pursuant to § 257.101(a), (b)(1), or (d) may nevertheless continue to receive the wastes specified in either paragraph (a), (b), (f)(1), or (f)(2) of this section in the unit provided the owner or operator meets all of the requirements contained in the respective paragraph.*CCR landfills*
 
 (a) *CCR landfills*—(1) *No alternative CCR disposal capacity.* Notwithstanding the provisions of § 257.101(d), a CCR landfill may continue to recieve CCR if the owner or operator of the CCR landfill certifies that the CCR must continue to be managed in that CCR landfill due to the absence of alternative disposal capacity both on and off-site of the facility. To qualify under this paragraph, the owner or operator of the CCR landfill must document that all of the following conditions have been met:
 

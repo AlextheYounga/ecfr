@@ -1,6 +1,6 @@
 ##### § 52.780 Review of new sources and modifications.
 
-(a) The requirements of § 51.160(a) of this chapter are not met in that the plan does not contain procedures to enable the State to determine whether construction or modification of coal burning equipment having a heat input of between 350,000 Btu per hour and 1,500,000 Btu per hour will result in violations of applicable portions of the control strategy and section 4(a)(2)(iii) of APC-19 is disapproved to the extent that it exempts coal burning equipment having a heat input of between 350,000 Btu per hour and 1,500,000 Btu per hour from pre-construction/modification review.
+(a) The requirements of § 51.160(a) of this chapter are not met in that the plan does not contain procedures to enable the State to determine whether construction or modification of coal burning equipment having a heat input of between 350,000 Btu per hour and 1,500,000 Btu per hour will result in violations of applicable portions of the control strategy and section 4(a)(2)(iii) of APC-19 is disapproved to the extent that it exempts coal burning equipment having a heat input of between 350,000 Btu per hour and 1,500,000 Btu per hour from pre-construction/modification review.*a*
 
 (b)-(c) \[Reserved\]
 

@@ -1,6 +1,6 @@
 ##### § 180.114 Ferbam; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide ferbam (ferric dimethyldithiocarbamate), calculated as carbon disulfide, in or on the following food commodities: 
+(a) *General.* Tolerances are established for residues of the fungicide ferbam (ferric dimethyldithiocarbamate), calculated as carbon disulfide, in or on the following food commodities:
 
 | Commodity                                                                                                                                                                                                                                                                                                                                                  | Parts per million | Expiration/Revocation Date |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------- |
@@ -18,15 +18,15 @@
 | Raspberry                                                                                                                                                                                                                                                                                                                                                  | 7.0 1             | 10/27/07                   |
 | 1 Some of these tolerances were established on the basis of data acquired at the public hearings held in 1950 (formerly § 180.101) and the remainder were established on the basis of pesticide petitions presented under the procedure specified in the amendment to the Federal Food, Drug, and Cosmetic Act by Pub. L. 518, 83d Congress (68 Stat. 511) |                   |                            |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registrations, as defined in § 180.1(l), are established for residues of the fungicide ferbam (ferric dimethyldithiocarbamate), calculated as carbon disulfide, in or on the following food commodities: 
+(c) *Tolerances with regional registrations.* Tolerances with regional registrations, as defined in § 180.1(l), are established for residues of the fungicide ferbam (ferric dimethyldithiocarbamate), calculated as carbon disulfide, in or on the following food commodities:
 
 | Commodity                                                                                                                                                                                                                                                                                                                                      | Parts per million |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | Mango                                                                                                                                                                                                                                                                                                                                          | 4.0 1             |
 | 1 This tolerance was established on the basis of data acquired at the public hearings held in 1950 (formerly § 180.101) and the remainder was established on the basis of pesticide petitions presented under the procedure specified in the amendment to the Federal Food, Drug, and Cosmetic Act by Pub. L. 518, 83d Congress (68 Stat. 511) |                   |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[63 FR 57072, Oct. 26, 1998, as amended at 72 FR 53453, Sept. 19, 2007\]

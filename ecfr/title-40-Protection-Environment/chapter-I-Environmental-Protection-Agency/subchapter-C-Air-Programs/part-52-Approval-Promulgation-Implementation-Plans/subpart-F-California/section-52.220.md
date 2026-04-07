@@ -2,7 +2,7 @@
 
 Link to an amendment published at 89 FR 107015, Dec. 31, 2024.Link to a delay of the above amendment published at 90 FR 8254, Jan. 28, 2025.Link to an amendment published at 90 FR 12461, Mar. 18, 2025.Link to an amendment published at 90 FR 12690, Mar. 19, 2025.
 
-This section identifies the local and regional air district rules, local ordinances, source-specific requirements, and nonregulatory materials submitted by the State of California and approved as part of the California state implementation plan. This section also identifies California statutes and state regulations submitted by the State of California and approved as part of the California state implementation plan on or prior to April 1, 2016. New or amended California statutes and state regulations approved after April 1, 2016 are identified in § 52.220a.
+This section identifies the local and regional air district rules, local ordinances, source-specific requirements, and nonregulatory materials submitted by the State of California and approved as part of the California state implementation plan. This section also identifies California statutes and state regulations submitted by the State of California and approved as part of the California state implementation plan on or prior to April 1, 2016. New or amended California statutes and state regulations approved after April 1, 2016 are identified in § 52.220a.*1*Federal Register3
 
 (a) Title of plan: “The State of California Implementation Plan for Achieving and Maintaining the National Ambient Air Quality Standards”.
 

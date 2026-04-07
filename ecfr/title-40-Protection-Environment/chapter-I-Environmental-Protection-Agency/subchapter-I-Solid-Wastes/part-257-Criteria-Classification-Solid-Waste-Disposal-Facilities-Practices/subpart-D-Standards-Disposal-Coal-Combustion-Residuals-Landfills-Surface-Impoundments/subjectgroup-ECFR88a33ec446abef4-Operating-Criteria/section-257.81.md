@@ -1,6 +1,6 @@
 ##### § 257.81 Run-on and run-off controls for CCR landfills.
 
-(a) The owner or operator of an existing or new CCR landfill or any lateral expansion of a CCR landfill must design, construct, operate, and maintain:
+(a) The owner or operator of an existing or new CCR landfill or any lateral expansion of a CCR landfill must design, construct, operate, and maintain:*Run-on and run-off control system plan*
 
 (1) A run-on control system to prevent flow onto the active portion of the CCR unit during the peak discharge from a 24-hour, 25-year storm; and
 

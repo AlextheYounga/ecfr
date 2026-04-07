@@ -1,6 +1,6 @@
 ##### § 52.933 Control Strategy: Sulfur oxides and particulate matter.
 
-(a) In a letter dated March 27, 1987, the Kentucky Department for Natural Resources and Environmental Protection certified that no emission limits in the State's plan are based on dispersion techniques not permitted by EPA's stack height rules. This certification does not apply to: Big Rivers-Green #1 & 2, Kentucky Utilities-Ghent #3 & 4, and Ashland Oil, Inc.-Catlettsburg.
+(a) In a letter dated March 27, 1987, the Kentucky Department for Natural Resources and Environmental Protection certified that no emission limits in the State's plan are based on dispersion techniques not permitted by EPA's stack height rules. This certification does not apply to: Big Rivers-Green #1 & 2, Kentucky Utilities-Ghent #3 & 4, and Ashland Oil, Inc.-Catlettsburg.*Determination of Attainment.*2.5
 
 (b) *Determination of Attainment.* EPA has determined, as of March 9, 2011, that the Louisville, IN-KY PM2.5 nonattainment area has attained the 1997 PM2.5 NAAQS. These determinations, in accordance with 40 CFR 51.1004(c), suspend the requirements for this area to submit an attainment demonstration, associated reasonably available control measures, reasonable further progress, contingency measures, and other plan elements related to attainment of the standards for as long as the area continues to meet the 1997 PM2.5 NAAQS.
 

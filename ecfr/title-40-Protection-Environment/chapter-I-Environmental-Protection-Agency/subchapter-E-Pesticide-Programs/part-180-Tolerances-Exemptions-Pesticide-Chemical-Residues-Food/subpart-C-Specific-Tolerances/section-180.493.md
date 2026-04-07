@@ -1,6 +1,6 @@
 ##### § 180.493 Dimethomorph; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide dimethomorph, 4-\[3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-oxo-2-propen-1-yl\]morpholine, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only dimethomorph in or on the commodities. 
+(a) *General.* Tolerances are established for residues of the fungicide dimethomorph, 4-\[3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-oxo-2-propen-1-yl\]morpholine, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only dimethomorph in or on the commodities.
 
 | Commodity                                                 | Parts per million |
 | --------------------------------------------------------- | ----------------- |
@@ -24,15 +24,15 @@
 | Vegetable, leafy (except Brassica) group 4                | 30.0              |
 | 1 There are no U.S. registrations as of January 20, 2015. |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registrations are established for residues of the fungicide dimethomorph, 4-\[3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-oxo-2-propen-1-yl\]morpholine, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only dimethomorph in or on the commodity. 
+(c) *Tolerances with regional registrations.* Tolerances with regional registrations are established for residues of the fungicide dimethomorph, 4-\[3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-oxo-2-propen-1-yl\]morpholine, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only dimethomorph in or on the commodity.
 
 | Commodity             | Parts per million |
 | --------------------- | ----------------- |
 | Bean, lima, succulent | 0.60              |
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent residues of the fungicide dimethomorph, 4-\[3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-oxo-2-propen-1-yl\]morpholine, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only dimethomorph in or on the commodity. 
+(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent residues of the fungicide dimethomorph, 4-\[3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-oxo-2-propen-1-yl\]morpholine, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only dimethomorph in or on the commodity.
 
 | Commodity     | Parts per million |
 | ------------- | ----------------- |

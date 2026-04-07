@@ -1,6 +1,6 @@
 ##### § 52.1640 Original identification of plan section.
 
-(a) This section identifies the original “State of New Mexico Implementation Plan” and all revisions submitted by New Mexico that were federally approved prior to January 1, 1998.
+(a) This section identifies the original “State of New Mexico Implementation Plan” and all revisions submitted by New Mexico that were federally approved prior to January 1, 1998.2*Permits,*
 
 (b) The plan was officially submitted on January 27, 1972.
 

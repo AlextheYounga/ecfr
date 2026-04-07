@@ -1,6 +1,6 @@
 ##### § 52.1183 Visibility protection.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Regional Haze.*X
 
 (b) Regulation for visibility monitoring and new source review. The provisions of § 52.28 are hereby incorporated and made a part of the applicable plan for the State of Michigan.
 
@@ -354,7 +354,7 @@
 
 (p) *Equations for establishing the upper predictive limit*—(1) *Equation for normal distribution and statistically independent data.*
 
-![](/graphics/er12ap16.000.gif)Where: x = average or mean of hourly test run data; *t*\[(n−1),(0.95)\] = t score, the one-tailed t value of the Student's t distribution for a specific degree of freedom (n−1) and a confidence level (0.95; 0.99 for Tilden SO2) *s*2 = variance of the hourly data set; *n* = number of values (*e.g.* 5,760 if 8 months of valid lbs NOX/MMBTU hourly values) *m* = number of values used to calculate the test average (m = 720 as per averaging time)
+![](/graphics/er12ap16.000.gif)Where: x = average or mean of hourly test run data; *tth*2*t*\[(n−1),(0.95)\] = t score, the one-tailed t value of the Student's t distribution for a specific degree of freedom (n−1) and a confidence level (0.95; 0.99 for Tilden SO2) *s*2 = variance of the hourly data set; *n* = number of values (*e.g.* 5,760 if 8 months of valid lbs NOX/MMBTU hourly values) *m* = number of values used to calculate the test average (m = 720 as per averaging time)
 
 (i) To determine if statistically independent, use the Rank von Neumann Test on p. 137 of data Quality Assessment: Statistical Methods for Practitioners EPA QA/G-9S.
 

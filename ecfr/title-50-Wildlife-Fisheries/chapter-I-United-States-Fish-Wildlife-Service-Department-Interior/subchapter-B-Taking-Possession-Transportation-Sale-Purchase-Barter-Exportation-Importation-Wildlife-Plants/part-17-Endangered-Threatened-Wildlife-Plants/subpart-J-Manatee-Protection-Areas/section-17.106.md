@@ -1,6 +1,6 @@
 ##### § 17.106 Emergency establishment of protection areas.
 
-(a) The Director may establish a manatee protection area under the provisions of paragraphs (b) and (c) of this section at any time he determines there is substantial evidence that there is imminent danger of a taking of one or more manatees, and that such establishment is necessary to prevent such a taking.
+(a) The Director may establish a manatee protection area under the provisions of paragraphs (b) and (c) of this section at any time he determines there is substantial evidence that there is imminent danger of a taking of one or more manatees, and that such establishment is necessary to prevent such a taking.Federal Register.
 
 (b) The establishment of a manatee protection area under this section shall become effective immediately upon completion of the following requirements:
 

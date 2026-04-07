@@ -1,6 +1,6 @@
 ##### § 52.930 Control strategy: Ozone.
 
-(a) The VOC bubble for Alcan Foil Products in Louisville submitted as a SIP revision on March 3, 1986, is disapproved. The source must continue to meet all the requirements of Jefferson County Regulation 6.29.
+(a) The VOC bubble for Alcan Foil Products in Louisville submitted as a SIP revision on March 3, 1986, is disapproved. The source must continue to meet all the requirements of Jefferson County Regulation 6.29.*Part D—disapproval*X
 
 (b) *Part D—disapproval*—(1) *Campbell and Kenton Counties nonattainment area.* The 1979 SIP revisions for these two counties are disapproved because the Commonwealth failed to submit evidence of legal authority to implement a vehicle inspection and maintenance program as required under section 172(b)(11)(B) of the Clean Air Act. No major new or modified sources of volatile organic compounds can be built in these two counties by virtue of the provisions of section 110(a)(2)(l) of the Clean Air Act.
 

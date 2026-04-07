@@ -1,6 +1,6 @@
 ##### § 257.101 Closure or retrofit of CCR units.
 
-(a) The owner or operator of an existing unlined CCR surface impoundment, as determined under § 257.71(a), is subject to the requirements of paragraph (a)(1) of this section.
+(a) The owner or operator of an existing unlined CCR surface impoundment, as determined under § 257.71(a), is subject to the requirements of paragraph (a)(1) of this section.*Location standard under § 257.60.*
 
 (1) Except as provided by paragraph (a)(3) of this section, as soon as technically feasible, but not later than April 11, 2021, an owner or operator of an existing unlined CCR surface impoundment must cease placing CCR and non-CCR wastestreams into such CCR surface impoundment and either retrofit or close the CCR unit in accordance with the requirements of § 257.102.
 

@@ -1,6 +1,6 @@
 ##### § 52.2581 Significant deterioration of air quality.
 
-(a)-(c) \[Reserved\]
+(a)-(c) \[Reserved\]1/2
 
 (d) The requirements of sections 160 through 165 of the Clean Air Act are met, except for sources seeking permits to locate in Indian country within the State of Wisconsin.
 

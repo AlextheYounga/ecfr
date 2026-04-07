@@ -1,6 +1,6 @@
 ##### § 52.234 Source surveillance.
 
-(a) Except in the Air Pollution Control Districts (APCDs) listed in this paragraph, the requirements of § 51.211 of this chapter are not met since the plan does not provide for recordkeeping and periodic reporting of emission data by sources.
+(a) Except in the Air Pollution Control Districts (APCDs) listed in this paragraph, the requirements of § 51.211 of this chapter are not met since the plan does not provide for recordkeeping and periodic reporting of emission data by sources.*Regulation for source recordkeeping and reporting.*
 
 (1) Amador County APCD.
 

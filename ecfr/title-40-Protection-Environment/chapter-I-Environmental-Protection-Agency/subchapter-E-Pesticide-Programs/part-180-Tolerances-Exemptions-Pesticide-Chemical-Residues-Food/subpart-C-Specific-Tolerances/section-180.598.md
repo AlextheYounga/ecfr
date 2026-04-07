@@ -1,6 +1,6 @@
 ##### § 180.598 Novaluron; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide novaluron, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels specified in the following table is to be determined by measuring only novaluron, (*N*-\[\[\[3-chloro-4-\[1,1,2-trifluoro-2- (trifluoromethoxy)ethoxy\]phenyl\]amino\]carbonyl\]-2,6-difluorobenzamide), in or on the following raw agricultural commodities: 
+(a) *General.* Tolerances are established for residues of the insecticide novaluron, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels specified in the following table is to be determined by measuring only novaluron, (*N*-\[\[\[3-chloro-4-\[1,1,2-trifluoro-2- (trifluoromethoxy)ethoxy\]phenyl\]amino\]carbonyl\]-2,6-difluorobenzamide), in or on the following raw agricultural commodities:
 
 Table 1 to Paragraph (a)
 | Commodity                                                                                                                                                           | Parts per million |
@@ -200,10 +200,10 @@ Table 1 to Paragraph (a)
 | Velvetbean, edible podded                                                                                                                                           | 0.7               |
 | Velvetbean, succulent shelled                                                                                                                                       | 0.7               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertant residues.* \[Reserved\] 
+(d) *Indirect or inadvertant residues.* \[Reserved\]
 
 \[69 FR 31021, June 2, 2004, as amended at 71 FR 17014, Apr. 5, 2006; 71 FR 61911, Oct. 20, 2006; 73 FR 74982, Dec. 10, 2008; 74 FR 637, Jan. 7, 2009; 74 FR 20891, May 6, 2009; 74 FR 65033, Dec. 9, 2009; 75 FR 4278, Jan. 27, 2010; 75 FR 29447, May 26, 2010; 76 FR 55814, Sept. 9, 2011; 78 FR 40033, July 3, 2013; 80 FR 43335, July 22, 2015; 85 FR 49264, Aug. 13, 2020; 87 FR 13639, Mar. 10, 2022; 87 FR 57619, Sept. 21, 2022\]

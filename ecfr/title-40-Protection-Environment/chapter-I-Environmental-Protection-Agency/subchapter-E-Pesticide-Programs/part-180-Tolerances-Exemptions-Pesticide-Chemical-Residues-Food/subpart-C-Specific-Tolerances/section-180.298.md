@@ -1,6 +1,6 @@
 ##### § 180.298 Methidathion; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide methidathion, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only methidathion, *S*-\[(5-methoxy-2-oxo-1,3,4-thiadiazol-3(2*H*)-yl)methyl\] *O,O*-dimethyl phosphorodithioate, in or on the commodity. 
+(a) *General.* Tolerances are established for residues of the insecticide methidathion, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only methidathion, *S*-\[(5-methoxy-2-oxo-1,3,4-thiadiazol-3(2*H*)-yl)methyl\] *O,O*-dimethyl phosphorodithioate, in or on the commodity.
 
 | Commodity                                 | Parts per million | Expiration/revocation date |
 | ----------------------------------------- | ----------------- | -------------------------- |
@@ -22,9 +22,9 @@
 | Sunflower, seed                           | 0.5               | 12/31/16                   |
 | Tangerine                                 | 6.0               | 12/31/16                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) Tolerances with regional registrations. Tolerances with regional registration, as defined in § 180.1(l), are established for residues of the insecticide methidathion, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only methidathion, *S*-\[(5-methoxy-2-oxo-1,3,4-thiadiazol-3(2*H*)-yl)methyl\] *O,O*-dimethyl phosphorodithioate, in or on the commodity. 
+(c) Tolerances with regional registrations. Tolerances with regional registration, as defined in § 180.1(l), are established for residues of the insecticide methidathion, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only methidathion, *S*-\[(5-methoxy-2-oxo-1,3,4-thiadiazol-3(2*H*)-yl)methyl\] *O,O*-dimethyl phosphorodithioate, in or on the commodity.
 
 | Commodity   | Parts per   million | Expiration/   revocation   date |
 | ----------- | ------------------- | ------------------------------- |
@@ -33,6 +33,6 @@
 | Starfruit   | 0.1                 | 12/31/16                        |
 | Sugar apple | 0.2                 | 12/31/16                        |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[43 FR 44845, Sept. 29, 1978\] Editorial Note:For Federal Register citations affecting § 180.298, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

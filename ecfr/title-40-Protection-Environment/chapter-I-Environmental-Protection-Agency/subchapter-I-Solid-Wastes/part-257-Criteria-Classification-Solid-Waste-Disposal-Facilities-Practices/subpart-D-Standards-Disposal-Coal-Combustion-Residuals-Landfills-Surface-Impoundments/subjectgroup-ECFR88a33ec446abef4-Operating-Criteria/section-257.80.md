@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 4645, Jan. 16, 2025.
 
-(a) The owner or operator of a CCR unit must adopt measures that will effectively minimize CCR from becoming airborne at the facility, including CCR fugitive dust originating from CCR units, roads, and other CCR management and material handling activities.
+(a) The owner or operator of a CCR unit must adopt measures that will effectively minimize CCR from becoming airborne at the facility, including CCR fugitive dust originating from CCR units, roads, and other CCR management and material handling activities.*CCR fugitive dust control plan.*
 
 (b) *CCR fugitive dust control plan.* The owner or operator of the CCR unit must prepare and operate in accordance with a CCR fugitive dust control plan as specified in paragraphs (b)(1) through (7) of this section. This requirement applies in addition to, not in place of, any applicable standards under the Occupational Safety and Health Act.
 

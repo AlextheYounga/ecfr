@@ -1,12 +1,12 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates.
 
-Link to an amendment published at 89 FR 105285, Dec. 26, 2024.This amendment is delayed until Mar. 21, 2025 at 90 FR 9951, Feb. 20, 2025.
+Link to an amendment published at 89 FR 105285, Dec. 26, 2024.This amendment is delayed until Mar. 21, 2025 at 90 FR 9951, Feb. 20, 2025.Amendment further delayed until May 20, 2025 at 90 FR 13054, Mar. 20, 2025.
 
-The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are: 
+The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
-(a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values. 
+(a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
 
-(1) The following standards apply to products manufactured on or after September 15, 2014, and before the 2029/2030 compliance dates depending on product class (see paragraphs (a)(2) and (a)(3) of this section). 
+(1) The following standards apply to products manufactured on or after September 15, 2014, and before the 2029/2030 compliance dates depending on product class (see paragraphs (a)(2) and (a)(3) of this section).
 
 Table 1 to Paragraph (a)(1)
 | Product class                                                                                                                                       | Equations for maximum energy use (kWh/yr) |
@@ -56,7 +56,7 @@ Table 1 to Paragraph (a)(1)
 | AV = Total adjusted volume, expressed in ft3, as determined in appendices A and B to subpart B of this part.                                        |                                           |
 | av = Total adjusted volume, expressed in Liters.                                                                                                    |                                           |
 
-(2) The following standards apply to products manufactured on or after January 31, 2029. 
+(2) The following standards apply to products manufactured on or after January 31, 2029.
 
 Table 2 to Paragraph (a)(2)
 | Product class                                                                                                                                                              | Equations for maximum energy use   (kWh/yr) |
@@ -103,7 +103,7 @@ Table 3 to Paragraph (a)(2)
 | 1 Nd is the number of external doors.                                            |                                    |                                                             |                                                                                     |
 | 2 The maximum Nd values are 2 for K12, 3 for K9BI, and 5 for all other K values. |                                    |                                                             |                                                                                     |
 
-(3) The following standards apply to products manufactured on or after January 31, 2030. 
+(3) The following standards apply to products manufactured on or after January 31, 2030.
 
 Table 4 to Paragraph (a)(3)
 | Product class                                                                                                                                                            | Equations for maximum energy use   (kWh/yr) |
@@ -135,7 +135,7 @@ Table 5 to Paragraph (a)(3)
 | 1 Nd is the number of external doors.                               |                                    |                                                             |                                                                                     |
 | 2 The maximum Nd values are 2 for K2, and 5 for all other K values. |                                    |                                                             |                                                                                     |
 
-(b) *Room air conditioners.* (1) The following standards remain in effect from June 1, 2014, until May 26, 2026: 
+(b) *Room air conditioners.* (1) The following standards remain in effect from June 1, 2014, until May 26, 2026:
 
 Table 6 to Paragraph (b)(1)
 | Equipment class                                                                                                      | Combined energy   efficiency ratio |
@@ -160,7 +160,7 @@ Table 6 to Paragraph (b)(1)
 | 16\. Casement-Slider                                                                                                 | 10.4                               |
 | 1 The certified cooling capacity is determined by the manufacturer in accordance with 10 CFR 429.15(a)(3).           |                                    |
 
-(2) The following standards apply to products manufactured starting May 26, 2026: 
+(2) The following standards apply to products manufactured starting May 26, 2026:
 
 Table 7 to Paragraph (b)(2)
 | Equipment class                                                                                                      | Combined energy   efficiency ratio |
@@ -185,9 +185,9 @@ Table 7 to Paragraph (b)(2)
 | 16\. Casement-Slider                                                                                                 | 15.3                               |
 | 1 The certified cooling capacity is determined by the manufacturer in accordance with 10 CFR 429.15(a)(3).           |                                    |
 
-(c) *Central air conditioners and heat pumps.* The energy conservation standards defined in terms of the heating seasonal performance factor are based on Region IV, the minimum standardized design heating requirement, and the provisions of 10 CFR 429.16. 
+(c) *Central air conditioners and heat pumps.* The energy conservation standards defined in terms of the heating seasonal performance factor are based on Region IV, the minimum standardized design heating requirement, and the provisions of 10 CFR 429.16.
 
-(1) Central air conditioners and central air conditioning heat pumps manufactured on or after January 1, 2015, and before January 1, 2023, must have Seasonal Energy Efficiency Ratio and Heating Seasonal Performance Factor not less than: 
+(1) Central air conditioners and central air conditioning heat pumps manufactured on or after January 1, 2015, and before January 1, 2023, must have Seasonal Energy Efficiency Ratio and Heating Seasonal Performance Factor not less than:
 
 | Product class                                       | Seasonal   energy   efficiency ratio   (SEER) | Heating   seasonal   performance   factor (HSPF) |
 | --------------------------------------------------- | --------------------------------------------- | ------------------------------------------------ |
@@ -199,9 +199,9 @@ Table 7 to Paragraph (b)(2)
 | (vi)(A) Space-constrained products—air conditioners | 12                                            |                                                  |
 | (vi)(B) Space-constrained products—heat pumps       | 12                                            | 7.4                                              |
 
-(2) In addition to meeting the applicable requirements in paragraph (c)(1) of this section, products in product class (i) of paragraph (c)(1) of this section (*i.e.,* split-systems—air conditioners) that are installed on or after January 1, 2015, and before January 1, 2023, in the States of Alabama, Arkansas, Delaware, Florida, Georgia, Hawaii, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, or Virginia, or in the District of Columbia, must have a Seasonal Energy Efficiency Ratio (SEER) of 14 or higher. Any outdoor unit model that has a certified combination with a rating below 14 SEER cannot be installed in these States. The least efficient combination of each basic model must comply with this standard. 
+(2) In addition to meeting the applicable requirements in paragraph (c)(1) of this section, products in product class (i) of paragraph (c)(1) of this section (*i.e.,* split-systems—air conditioners) that are installed on or after January 1, 2015, and before January 1, 2023, in the States of Alabama, Arkansas, Delaware, Florida, Georgia, Hawaii, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, or Virginia, or in the District of Columbia, must have a Seasonal Energy Efficiency Ratio (SEER) of 14 or higher. Any outdoor unit model that has a certified combination with a rating below 14 SEER cannot be installed in these States. The least efficient combination of each basic model must comply with this standard.
 
-(3)(i) In addition to meeting the applicable requirements in paragraph (c)(1) of this section, products in product classes (i) and (iii) of paragraph (c)(1) of this section (*i.e.,* split systems—air conditioners and single-package units—air conditioners) that are installed on or after January 1, 2015, and before January 1, 2023, in the States of Arizona, California, Nevada, or New Mexico must have a Seasonal Energy Efficiency Ratio (SEER) of 14 or higher and have an Energy Efficiency Ratio (EER) (at a standard rating of 95 °F dry bulb outdoor temperature) not less than the following: 
+(3)(i) In addition to meeting the applicable requirements in paragraph (c)(1) of this section, products in product classes (i) and (iii) of paragraph (c)(1) of this section (*i.e.,* split systems—air conditioners and single-package units—air conditioners) that are installed on or after January 1, 2015, and before January 1, 2023, in the States of Arizona, California, Nevada, or New Mexico must have a Seasonal Energy Efficiency Ratio (SEER) of 14 or higher and have an Energy Efficiency Ratio (EER) (at a standard rating of 95 °F dry bulb outdoor temperature) not less than the following:
 
 | Product class                                                                                          | Energy   efficiency ratio (EER) |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------- |
@@ -209,9 +209,9 @@ Table 7 to Paragraph (b)(2)
 | (ii) Split systems—air conditioners with rated cooling capacity equal to or greater than 45,000 Btu/hr | 11.7                            |
 | (iii) Single-package units—air conditioners                                                            | 11.0                            |
 
-(ii) Any outdoor unit model that has a certified combination with a rating below 14 SEER or the applicable EER cannot be installed in this region. The least-efficient combination of each basic model must comply with this standard. 
+(ii) Any outdoor unit model that has a certified combination with a rating below 14 SEER or the applicable EER cannot be installed in this region. The least-efficient combination of each basic model must comply with this standard.
 
-(4) Each basic model of single-package central air conditioners and central air conditioning heat pumps and each individual combination of split-system central air conditioners and central air conditioning heat pumps manufactured on or after January 1, 2015, shall have an average off mode electrical power consumption not more than the following: 
+(4) Each basic model of single-package central air conditioners and central air conditioning heat pumps and each individual combination of split-system central air conditioners and central air conditioning heat pumps manufactured on or after January 1, 2015, shall have an average off mode electrical power consumption not more than the following:
 
 | Product class                           | Average off mode power   consumption PW,OFF   (watts) |
 | --------------------------------------- | ----------------------------------------------------- |
@@ -223,7 +223,7 @@ Table 7 to Paragraph (b)(2)
 | (vi) Space-constrained air conditioners | 30                                                    |
 | (vii) Space-constrained heat pumps      | 33                                                    |
 
-(5) Central air conditioners and central air conditioning heat pumps manufactured on or after January 1, 2023, must have a Seasonal Energy Efficiency Ratio 2 and a Heating Seasonal Performance Factor 2 not less than: 
+(5) Central air conditioners and central air conditioning heat pumps manufactured on or after January 1, 2023, must have a Seasonal Energy Efficiency Ratio 2 and a Heating Seasonal Performance Factor 2 not less than:
 
 | Product class                                                                                                  | Seasonal   energy   efficiency   ratio 2 (SEER2) | Heating   seasonal   performance   factor 2 (HSPF2) |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------- |
@@ -236,7 +236,7 @@ Table 7 to Paragraph (b)(2)
 | (vi)(A) Space-constrained products—air conditioners                                                            | 11.7                                             |                                                     |
 | (vi)(B) Space-constrained products—heat pumps                                                                  | 11.9                                             | 6.3                                                 |
 
-(6)(i) In addition to meeting the applicable requirements in paragraph (c)(5) of this section, products in product classes (i) and (iii) of paragraph (c)(5) of this section (*i.e.,* split systems—air conditioners and single-package units—air conditioners) that are installed on or after January 1, 2023, in the southeast or southwest must have a Seasonal Energy Efficiency Ratio 2 and a Energy Efficiency Ratio 2 not less than: 
+(6)(i) In addition to meeting the applicable requirements in paragraph (c)(5) of this section, products in product classes (i) and (iii) of paragraph (c)(5) of this section (*i.e.,* split systems—air conditioners and single-package units—air conditioners) that are installed on or after January 1, 2023, in the southeast or southwest must have a Seasonal Energy Efficiency Ratio 2 and a Energy Efficiency Ratio 2 not less than:
 
 | Product class                                                                                                                                                                                                                                                                   | Southeast \* | Southwest \*\* |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------- |
@@ -249,9 +249,9 @@ Table 7 to Paragraph (b)(2)
 | † The 11.7 EER2 standard applies to products with a certified SEER2 less than 15.2. The 9.8 EER2 standard applies to products with a certified SEER2 greater than or equal to 15.2.                                                                                             |              |                |
 | †† The 11.2 EER2 standard applies to products with a certified SEER2 less than 15.2. The 9.8 EER2 standard applies to products with a certified SEER2 greater than or equal to 15.2.                                                                                            |              |                |
 
-(ii) Any model of outdoor unit that has a certified combination with a rating below the applicable standard level(s) for a region cannot be installed in that region. The least-efficient combination of each basic model, which for single-split-system air conditioner (AC) with single-stage or two-stage compressor (including space-constrained and small-duct high velocity systems (SDHV)) must be a coil-only combination, must comply with the applicable standard. See 10 CFR 429.16(a)(1) and (a)(4)(i). 
+(ii) Any model of outdoor unit that has a certified combination with a rating below the applicable standard level(s) for a region cannot be installed in that region. The least-efficient combination of each basic model, which for single-split-system air conditioner (AC) with single-stage or two-stage compressor (including space-constrained and small-duct high velocity systems (SDHV)) must be a coil-only combination, must comply with the applicable standard. See 10 CFR 429.16(a)(1) and (a)(4)(i).
 
-(d) *Water Heaters.* (1) The uniform energy factor of water heaters manufactured before May 6, 2029, shall not be less than the following: 
+(d) *Water Heaters.* (1) The uniform energy factor of water heaters manufactured before May 6, 2029, shall not be less than the following:
 
 | Product class                                                                                      | Rated storage volume   and input rating   (if applicable) | Draw pattern | Uniform energy factor 1 |
 | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------ | ----------------------- |
@@ -293,7 +293,7 @@ Table 7 to Paragraph (b)(2)
 |                                                                                                    |                                                           | High         | 0.9720 − (0.0007 × Vr)  |
 | 1 Vr is the rated storage volume (in gallons), as determined pursuant to § 429.17 of this chapter. |                                                           |              |                         |
 
-(2) The uniform energy factor of water heaters manufactured on or after May 6, 2029, shall not be less than the following: 
+(2) The uniform energy factor of water heaters manufactured on or after May 6, 2029, shall not be less than the following:
 
 Table 14 to Paragraph (d)(2)
 | Product class                                                                                             | Effective storage volume and input rating   (if applicable)      | Draw pattern | Uniform energy factor \* |
@@ -366,9 +366,9 @@ Table 14 to Paragraph (d)(2)
 |                                                                                                           |                                                                  | High         | 0.9720−(0.0007 × Veff)   |
 | \* Veff is the Effective Storage Volume (in gallons), as determined pursuant to § 429.17 of this chapter. |                                                                  |              |                          |
 
-(3) The provisions of paragraph (d) of this section are separate and severable from one another. Should a court of competent jurisdiction hold any provision(s) of paragraph (d) of this section to be stayed or invalid, such action shall not affect any other provision of paragraph (d) of this section. 
+(3) The provisions of paragraph (d) of this section are separate and severable from one another. Should a court of competent jurisdiction hold any provision(s) of paragraph (d) of this section to be stayed or invalid, such action shall not affect any other provision of paragraph (d) of this section.
 
-(e) *Furnaces and boilers*—(1) *Furnaces.* (i) The Annual Fuel Utilization Efficiency (AFUE) of residential furnaces shall not be less than the following for non-weatherized gas furnaces manufactured before November 19, 2015, non-weatherized oil furnaces manufactured before May 1, 2013, and weatherized furnaces manufactured before January 1, 2015: 
+(e) *Furnaces and boilers*—(1) *Furnaces.* (i) The Annual Fuel Utilization Efficiency (AFUE) of residential furnaces shall not be less than the following for non-weatherized gas furnaces manufactured before November 19, 2015, non-weatherized oil furnaces manufactured before May 1, 2013, and weatherized furnaces manufactured before January 1, 2015:
 
 | Product class                                                                                                                          | AFUE   (percent) 1 |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
@@ -379,7 +379,7 @@ Table 14 to Paragraph (d)(2)
 | (2) Non-weatherized (indoor)                                                                                                           | 78                 |
 | 1 Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2) of this part.                                                    |                    |
 
-(ii) The AFUE for non-weatherized gas furnaces (not including mobile home gas furnaces) manufactured on or after November 19, 2015, but before December 18, 2028; mobile home gas furnaces manufactured on or after November 19, 2015, but before December 18, 2028; non-weatherized oil-fired furnaces (not including mobile home furnaces) manufactured on or after May 1, 2013, mobile home oil-fired furnaces manufactured on or after September 1, 1990; weatherized gas-fired furnaces manufactured on or after January 1, 2015; weatherized oil-fired furnaces manufactured on or after January 1, 1992; and electric furnaces manufactured on or after January 1, 1992; shall not be less than the following: 
+(ii) The AFUE for non-weatherized gas furnaces (not including mobile home gas furnaces) manufactured on or after November 19, 2015, but before December 18, 2028; mobile home gas furnaces manufactured on or after November 19, 2015, but before December 18, 2028; non-weatherized oil-fired furnaces (not including mobile home furnaces) manufactured on or after May 1, 2013, mobile home oil-fired furnaces manufactured on or after September 1, 1990; weatherized gas-fired furnaces manufactured on or after January 1, 2015; weatherized oil-fired furnaces manufactured on or after January 1, 1992; and electric furnaces manufactured on or after January 1, 1992; shall not be less than the following:
 
 | Product class                                                               | AFUE   (percent) 1 |
 | --------------------------------------------------------------------------- | ------------------ |
@@ -392,7 +392,7 @@ Table 14 to Paragraph (d)(2)
 | (G) Electric furnaces                                                       | 78.0               |
 | 1 Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2).      |                    |
 
-(iii) The AFUE for non-weatherized gas (not including mobile home gas furnaces) manufactured on and after December 18, 2028; and mobile home gas furnaces manufactured on and after December 18, 2028, shall not be less than the following: 
+(iii) The AFUE for non-weatherized gas (not including mobile home gas furnaces) manufactured on and after December 18, 2028; and mobile home gas furnaces manufactured on and after December 18, 2028, shall not be less than the following:
 
 | Product class                                                             | AFUE   (percent) 1 |
 | ------------------------------------------------------------------------- | ------------------ |
@@ -400,14 +400,14 @@ Table 14 to Paragraph (d)(2)
 | (B) Mobile home gas furnaces                                              | 95.0               |
 | 1 Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2).    |                    |
 
-(iv) Furnaces manufactured on or after May 1, 2013, shall have an electrical standby mode power consumption (PW,SB) and electrical off mode power consumption (PW,OFF) not more than the following: 
+(iv) Furnaces manufactured on or after May 1, 2013, shall have an electrical standby mode power consumption (PW,SB) and electrical off mode power consumption (PW,OFF) not more than the following:
 
 | Product class                                                           | Maximum standby mode electrical power consumption, PW,SB (watts) | Maximum off mode electrical power consumption, PW,OFF (watts) |
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------- |
 | (A) Non-weatherized oil-fired furnaces (including mobile home furnaces) | 11                                                               | 11                                                            |
 | (B) Electric furnaces                                                   | 10                                                               | 10                                                            |
 
-(2) *Boilers.* (i) The AFUE of residential boilers manufactured before September 1, 2012, shall not be less than the following: 
+(2) *Boilers.* (i) The AFUE of residential boilers manufactured before September 1, 2012, shall not be less than the following:
 
 | Product class                                                                       | AFUE 1 (percent) |
 | ----------------------------------------------------------------------------------- | ---------------- |
@@ -415,7 +415,7 @@ Table 14 to Paragraph (d)(2)
 | (B) Gas steam boilers                                                               | 75               |
 | 1 Annual Fuel Utilization Efficiency, as determined in § 430.22(n)(2) of this part. |                  |
 
-(ii) Except as provided in paragraph (e)(2)(iv) of this section, the AFUE of residential boilers, manufactured on or after September 1, 2012, and before January 15, 2021, shall not be less than the following and must comply with the design requirements as follows: 
+(ii) Except as provided in paragraph (e)(2)(iv) of this section, the AFUE of residential boilers, manufactured on or after September 1, 2012, and before January 15, 2021, shall not be less than the following and must comply with the design requirements as follows:
 
 | Product class                                                                       | AFUE 1   (percent) | Design requirements                                                                                                                                                        |
 | ----------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -426,7 +426,7 @@ Table 14 to Paragraph (d)(2)
 | (E) Electric hot water boiler                                                       | None               | Automatic means for adjusting temperature required (except for boilers equipped with tankless domestic water heating coils).                                               |
 | 1 Annual Fuel Utilization Efficiency, as determined in § 430.22(n)(2) of this part. |                    |                                                                                                                                                                            |
 
-(iii)(A) Except as provided in paragraph (e)(2)(v) of this section, the AFUE of residential boilers, manufactured on and after January 15, 2021, shall not be less than the following and must comply with the design requirements as follows: 
+(iii)(A) Except as provided in paragraph (e)(2)(v) of this section, the AFUE of residential boilers, manufactured on and after January 15, 2021, shall not be less than the following and must comply with the design requirements as follows:
 
 | Product class                                                                       | AFUE 1   (percent) | Design requirements                                                                                                                                                      |
 | ----------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -438,7 +438,7 @@ Table 14 to Paragraph (d)(2)
 | (6) Electric steam boiler                                                           | None               | None.                                                                                                                                                                    |
 | 1 Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2) of this part. |                    |                                                                                                                                                                          |
 
-(B) Except as provided in paragraph (e)(2)(v) of this section, the standby mode power consumption (PW,SB) and off mode power consumption (PW,OFF) of residential boilers, manufactured on and after January 15, 2021, shall not be more than the following: 
+(B) Except as provided in paragraph (e)(2)(v) of this section, the standby mode power consumption (PW,SB) and off mode power consumption (PW,OFF) of residential boilers, manufactured on and after January 15, 2021, shall not be more than the following:
 
 | Product class                  | PW,SB   (watts) | PW,OFF   (watts) |
 | ------------------------------ | --------------- | ---------------- |
@@ -449,23 +449,23 @@ Table 14 to Paragraph (d)(2)
 | (5) Electric hot water boiler  | 8               | 8                |
 | (6) Electric steam boiler      | 8               | 8                |
 
-(iv) *Automatic means for adjusting water temperature.* (A) The automatic means for adjusting water temperature as required under paragraph (e)(2)(ii) of this section must automatically adjust the temperature of the water supplied by the boiler to ensure that an incremental change in inferred heat load produces a corresponding incremental change in the temperature of water supplied. 
+(iv) *Automatic means for adjusting water temperature.* (A) The automatic means for adjusting water temperature as required under paragraph (e)(2)(ii) of this section must automatically adjust the temperature of the water supplied by the boiler to ensure that an incremental change in inferred heat load produces a corresponding incremental change in the temperature of water supplied.
 
-(B) For boilers that fire at a single input rate, the automatic means for adjusting water temperature requirement may be satisfied by providing an automatic means that allows the burner or heating element to fire only when the means has determined that the inferred heat load cannot be met by the residual heat of the water in the system. 
+(B) For boilers that fire at a single input rate, the automatic means for adjusting water temperature requirement may be satisfied by providing an automatic means that allows the burner or heating element to fire only when the means has determined that the inferred heat load cannot be met by the residual heat of the water in the system.
 
-(C) When there is no inferred heat load with respect to a hot water boiler, the automatic means described in this paragraph shall limit the temperature of the water in the boiler to not more than 140 degrees Fahrenheit. 
+(C) When there is no inferred heat load with respect to a hot water boiler, the automatic means described in this paragraph shall limit the temperature of the water in the boiler to not more than 140 degrees Fahrenheit.
 
-(D) A boiler for which an automatic means for adjusting water temperature is required shall be operable only when the automatic means is installed. 
+(D) A boiler for which an automatic means for adjusting water temperature is required shall be operable only when the automatic means is installed.
 
-(v) A boiler that is manufactured to operate without any need for electricity or any electric connection, electric gauges, electric pumps, electric wires, or electric devices is not required to meet the AFUE or design requirements applicable to the boiler requirements of paragraph (e)(2)(ii) of this section, but must meet the requirements of paragraph (e)(2)(i) of this section, as applicable. 
+(v) A boiler that is manufactured to operate without any need for electricity or any electric connection, electric gauges, electric pumps, electric wires, or electric devices is not required to meet the AFUE or design requirements applicable to the boiler requirements of paragraph (e)(2)(ii) of this section, but must meet the requirements of paragraph (e)(2)(i) of this section, as applicable.
 
-(f) *Dishwashers.* (1) All dishwashers manufactured on or after May 30, 2013, shall meet the following standard— 
+(f) *Dishwashers.* (1) All dishwashers manufactured on or after May 30, 2013, shall meet the following standard—
 
-(i) Standard size dishwashers shall not exceed 307 kwh/year and 5.0 gallons per cycle. Standard size dishwashers have a capacity equal to or greater than eight place settings plus six serving pieces as specified in AHAM DW-1-2020 (incorporated by reference, see § 430.3) using the test load specified in section 2.3 of appendix C1 or section 2.4 of appendix C2 to subpart B of this part, as applicable. 
+(i) Standard size dishwashers shall not exceed 307 kwh/year and 5.0 gallons per cycle. Standard size dishwashers have a capacity equal to or greater than eight place settings plus six serving pieces as specified in AHAM DW-1-2020 (incorporated by reference, see § 430.3) using the test load specified in section 2.3 of appendix C1 or section 2.4 of appendix C2 to subpart B of this part, as applicable.
 
-(ii) Compact size dishwashers shall not exceed 222 kwh/year and 3.5 gallons per cycle. Compact size dishwashers have a capacity less than eight place settings plus six serving pieces as specified in AHAM DW-1-2020 (incorporated by reference, see § 430.3) using the test load specified in section 2.3 of appendix C1 or section 2.4 of appendix C2 to subpart B of this part, as applicable. 
+(ii) Compact size dishwashers shall not exceed 222 kwh/year and 3.5 gallons per cycle. Compact size dishwashers have a capacity less than eight place settings plus six serving pieces as specified in AHAM DW-1-2020 (incorporated by reference, see § 430.3) using the test load specified in section 2.3 of appendix C1 or section 2.4 of appendix C2 to subpart B of this part, as applicable.
 
-(2) All dishwashers manufactured on or after April 23, 2027, shall not exceed the following standard— 
+(2) All dishwashers manufactured on or after April 23, 2027, shall not exceed the following standard—
 
 | Product class                                                                                                                                                                           | Estimated annual energy use   (kWh/year) | Maximum   per-cycle water consumption   (gal/cycle) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------- |
@@ -474,9 +474,9 @@ Table 14 to Paragraph (d)(2)
 | 1 The energy conservation standards in this table do not apply to standard-size dishwashers with a cycle time for the normal cycle of 60 minutes or less.                               |                                          |                                                     |
 | 2 Place settings are as specified in AHAM DW-1-2020 (incorporated by reference, see § 430.3) and the test load is as specified in section 2.4 of appendix C2 to subpart B of this part. |                                          |                                                     |
 
-(3) The provisions of paragraph (f)(2) of this section are separate and severable from one another. Should a court of competent jurisdiction hold any provision(s) of this section to be stayed or invalid, such action shall not affect any other provision of this section. 
+(3) The provisions of paragraph (f)(2) of this section are separate and severable from one another. Should a court of competent jurisdiction hold any provision(s) of this section to be stayed or invalid, such action shall not affect any other provision of this section.
 
-(g) *Clothes washers.* (1) Clothes washers manufactured on or after January 1, 2018, shall have an Integrated Modified Energy Factor no less than, and an Integrated Water Factor no greater than: 
+(g) *Clothes washers.* (1) Clothes washers manufactured on or after January 1, 2018, shall have an Integrated Modified Energy Factor no less than, and an Integrated Water Factor no greater than:
 
 | Product class                                              | Integrated   modified   energy factor   (cu.ft./kWh/cycle) | Integrated   water factor   (gal/cycle/cu.ft.) |
 | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------- |
@@ -485,9 +485,9 @@ Table 14 to Paragraph (d)(2)
 | (iii) Front-loading, Compact (less than 1.6 ft3 capacity)  | 1.13                                                       | 8.3                                            |
 | (iv) Front-loading, Standard (1.6 ft3 or greater capacity) | 1.84                                                       | 4.7                                            |
 
-(2) Clothes washers manufactured on or after March 1, 2028: 
+(2) Clothes washers manufactured on or after March 1, 2028:
 
-(i) Shall have an Energy Efficiency Ratio and a Water Efficiency Ratio no less than: 
+(i) Shall have an Energy Efficiency Ratio and a Water Efficiency Ratio no less than:
 
 | Product class                                                                                                                                                                                                              | Energy efficiency ratio   (lb/kWh/cycle) | Water efficiency ratio   (lb/gal/cycle) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------- |
@@ -501,11 +501,11 @@ Table 14 to Paragraph (d)(2)
 | 2 The energy conservation standards in this table do not apply to front-loading clothes washers with a capacity greater than or equal to 1.6 ft3 and less than 3.0 ft3 with an average cycle time of less than 45 minutes. |                                          |                                         |
 | 3 The energy conservation standards in this table do not apply to front-loading standard-size clothes washers with an average cycle time less than 45 minutes.                                                             |                                          |                                         |
 
-(ii) The provisions of this paragraph (g)(2) are separate and severable from one another. Should a court of competent jurisdiction hold any provision(s) of this section to be stayed or invalid, such action shall not affect any other provisions of this section. 
+(ii) The provisions of this paragraph (g)(2) are separate and severable from one another. Should a court of competent jurisdiction hold any provision(s) of this section to be stayed or invalid, such action shall not affect any other provisions of this section.
 
-(h) *Clothes dryers.* (1) Gas clothes dryers manufactured after January 1, 1988 shall not be equipped with a constant burning pilot. 
+(h) *Clothes dryers.* (1) Gas clothes dryers manufactured after January 1, 1988 shall not be equipped with a constant burning pilot.
 
-(2) Clothes dryers manufactured on or after May 14, 1994 and before January 1, 2015, shall have an energy factor no less than: 
+(2) Clothes dryers manufactured on or after May 14, 1994 and before January 1, 2015, shall have an energy factor no less than:
 
 | Product class                                              | Energy   factor   (lbs/kWh) |
 | ---------------------------------------------------------- | --------------------------- |
@@ -514,7 +514,7 @@ Table 14 to Paragraph (d)(2)
 | iii. Electric, Compact (240V) (less than 4.4 ft3 capacity) | 2.90                        |
 | iv. Gas                                                    | 2.67                        |
 
-(3) Clothes dryers manufactured on or after January 1, 2015, shall have a combined energy factor no less than: 
+(3) Clothes dryers manufactured on or after January 1, 2015, shall have a combined energy factor no less than:
 
 | Product class                                                       | Combined energy factor   (lbs/kWh) |
 | ------------------------------------------------------------------- | ---------------------------------- |
@@ -525,7 +525,7 @@ Table 14 to Paragraph (d)(2)
 | (v) Ventless Electric, Compact (240V) (less than 4.4 ft 3 capacity) | 2.55                               |
 | (vi) Ventless Electric, Combination Washer-Dryer                    | 2.08                               |
 
-(4) Clothes dryers manufactured on or after March 1, 2028, shall have a combined energy factor, determined in accordance with appendix D2 of this subpart, no less than: 
+(4) Clothes dryers manufactured on or after March 1, 2028, shall have a combined energy factor, determined in accordance with appendix D2 of this subpart, no less than:
 
 | Product class                                                                                                                                                                                                                  | CEFD2   (lb/kWh) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- |
@@ -539,7 +539,7 @@ Table 14 to Paragraph (d)(2)
 | \* The energy conservation standards in this product class do not apply to Vented Electric, Standard clothes dryers with a cycle time of less than 30 minutes, when tested according to appendix D2 in subpart B of this part. |                  |
 | \*\* The energy conservation standards in this product class do not apply to Vented Gas, Standard clothes dryers with a cycle time of less than 30 minutes, when tested according to appendix D2 in subpart B of this part.    |                  |
 
-(i) *Direct heating equipment.* (1) Vented home heating equipment manufactured on or after January 1, 1990 and before April 16, 2013, shall have an annual fuel utilization efficiency no less than: 
+(i) *Direct heating equipment.* (1) Vented home heating equipment manufactured on or after January 1, 1990 and before April 16, 2013, shall have an annual fuel utilization efficiency no less than:
 
 | Product class                                                      | Annual fuel utilization efficiency, Jan. 1, 1990 (percent) |
 | ------------------------------------------------------------------ | ---------------------------------------------------------- |
@@ -560,7 +560,7 @@ Table 14 to Paragraph (d)(2)
 | 15\. Gas room over 27,000 Btu/h up to 46,000 Btu/h                 | 64                                                         |
 | 16\. Gas room over 46,000 Btu/h                                    | 65                                                         |
 
-(2) Vented home heating equipment manufactured on or after April 16, 2013, shall have an annual fuel utilization efficiency no less than: 
+(2) Vented home heating equipment manufactured on or after April 16, 2013, shall have an annual fuel utilization efficiency no less than:
 
 | Product class                                              | Annual fuel utilization efficiency, April 16, 2013 (percent) |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
@@ -576,11 +576,11 @@ Table 14 to Paragraph (d)(2)
 | Gas room over 27,000 Btu/h up to 46,000 Btu/h              | 67                                                           |
 | Gas room over 46,000 Btu/h                                 | 68                                                           |
 
-(j) *Cooking Products* (1) *Conventional cooking tops.* (i) Gas cooking tops, other than gas portable indoor conventional cooking tops, manufactured on or after April 9, 2012, and before January 31, 2028, shall not be equipped with a constant burning pilot light. 
+(j) *Cooking Products* (1) *Conventional cooking tops.* (i) Gas cooking tops, other than gas portable indoor conventional cooking tops, manufactured on or after April 9, 2012, and before January 31, 2028, shall not be equipped with a constant burning pilot light.
 
-(ii) Gas portable indoor conventional cooking tops, manufactured on or after April 9, 2012, shall not be equipped with a constant burning pilot light. 
+(ii) Gas portable indoor conventional cooking tops, manufactured on or after April 9, 2012, shall not be equipped with a constant burning pilot light.
 
-(iii) Conventional cooking tops, other than portable indoor conventional cooking tops, manufactured on or after January 31, 2028, shall have an integrated annual energy consumption (IAEC), excluding any downdraft venting system energy consumption, no greater than: 
+(iii) Conventional cooking tops, other than portable indoor conventional cooking tops, manufactured on or after January 31, 2028, shall have an integrated annual energy consumption (IAEC), excluding any downdraft venting system energy consumption, no greater than:
 
 | Product class                                                                  | Maximum integrated annual energy consumption   (IAEC) |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------- |
@@ -589,45 +589,45 @@ Table 14 to Paragraph (d)(2)
 | (C) Gas Standalone Cooking Tops                                                | 1,770 kBtu/year.                                      |
 | (D) Gas Cooking Top Component of Combined Cooking Products                     | 1,770 kBtu/year.                                      |
 
-(2) *Conventional ovens.* The control system of a conventional oven shall: 
+(2) *Conventional ovens.* The control system of a conventional oven shall:
 
-(i) Not be equipped with a constant burning pilot light, for gas ovens manufactured on or after April 9, 2012; and 
+(i) Not be equipped with a constant burning pilot light, for gas ovens manufactured on or after April 9, 2012; and
 
-(ii) Not be equipped with a linear power supply, for electric and gas ovens manufactured on or after January 31, 2028. 
+(ii) Not be equipped with a linear power supply, for electric and gas ovens manufactured on or after January 31, 2028.
 
 (3) *Microwave ovens.*
 
-(i) Microwave-only ovens and countertop convection microwave ovens manufactured on or after June 17, 2016, and before June 22, 2026, shall have an average standby power not more than 1.0 watt. Built-in and over-the-range convection microwave ovens manufactured on or after June 17, 2016, and before June 22, 2026, shall have an average standby power not more than 2.2 watts. 
+(i) Microwave-only ovens and countertop convection microwave ovens manufactured on or after June 17, 2016, and before June 22, 2026, shall have an average standby power not more than 1.0 watt. Built-in and over-the-range convection microwave ovens manufactured on or after June 17, 2016, and before June 22, 2026, shall have an average standby power not more than 2.2 watts.
 
-(ii) Microwave-only ovens and countertop convection microwave ovens manufactured on or after June 22, 2026, shall have an average standby power not more than 0.6 watts. Built-in and over-the-range convection microwave ovens manufactured on or after June 22, 2026, shall have an average standby power not more than 1.0 watt. 
+(ii) Microwave-only ovens and countertop convection microwave ovens manufactured on or after June 22, 2026, shall have an average standby power not more than 0.6 watts. Built-in and over-the-range convection microwave ovens manufactured on or after June 22, 2026, shall have an average standby power not more than 1.0 watt.
 
-(k) *Pool heaters.* (1) Gas-fired pool heaters manufactured on and after April 16, 2013 and before May 30, 2028, shall have a thermal efficiency not less than 82%. 
+(k) *Pool heaters.* (1) Gas-fired pool heaters manufactured on and after April 16, 2013 and before May 30, 2028, shall have a thermal efficiency not less than 82%.
 
-(2) Gas-fired pool heaters and electric pool heaters manufactured on and after May 30, 2028, shall have an integrated thermal efficiency not less than the following: 
+(2) Gas-fired pool heaters and electric pool heaters manufactured on and after May 30, 2028, shall have an integrated thermal efficiency not less than the following:
 
 ![](/graphics/er30my23.008.gif)where QIN is the certified input capacity of a gas-fired pool heater basic model, in Btu/h, and PE is the certified active electrical power of an electric pool heater, in Btu/h.
 
-(l) *Television sets.* \[Reserved\] 
+(l) *Television sets.* \[Reserved\]
 
-(m) *Fluorescent lamp ballasts*—(1) *Standards for fluorescent lamp ballasts (other than dimming ballasts).* Except as provided in paragraphs (m)(2) and (3) of this section, each fluorescent lamp ballast manufactured on or after November 14, 2014, 
+(m) *Fluorescent lamp ballasts*—(1) *Standards for fluorescent lamp ballasts (other than dimming ballasts).* Except as provided in paragraphs (m)(2) and (3) of this section, each fluorescent lamp ballast manufactured on or after November 14, 2014,
 
-(i) Designed and marketed— 
+(i) Designed and marketed—
 
-(A) To operate at nominal input voltages at or between 120 and 277 volts; 
+(A) To operate at nominal input voltages at or between 120 and 277 volts;
 
-(B) To operate with an input current frequency of 60 Hertz; and 
+(B) To operate with an input current frequency of 60 Hertz; and
 
-(C) For use in connection with fluorescent lamps (as defined in § 430.2) 
+(C) For use in connection with fluorescent lamps (as defined in § 430.2)
 
-(ii) Must have— 
+(ii) Must have—
 
-(A) A power factor of: 
+(A) A power factor of:
 
-(*1*) 0.9 or greater for ballasts that are not residential ballasts; or 
+(*1*) 0.9 or greater for ballasts that are not residential ballasts; or
 
-(*2*) 0.5 or greater for residential ballasts; and 
+(*2*) 0.5 or greater for residential ballasts; and
 
-(B) A ballast luminous efficiency not less than the following: 
+(B) A ballast luminous efficiency not less than the following:
 
 | BLE = A/(1 + B × average total lamp arc power ^ −C) Where A, B, and C are as follows:                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -651,25 +651,25 @@ Table 14 to Paragraph (d)(2)
 | 4-foot medium bipin lamps or                                                                                                                |
 | 2-foot U-shaped lamps.                                                                                                                      |
 
-(2) *Standards for certain dimming ballasts.* Except as provided in paragraph (m)(3) of this section, each dimming ballast manufactured on or after November 14, 2014; designed and marketed to operate one F34T12, two F34T12, two F96T12/ES, or two F96T12HO/ES lamps; and 
+(2) *Standards for certain dimming ballasts.* Except as provided in paragraph (m)(3) of this section, each dimming ballast manufactured on or after November 14, 2014; designed and marketed to operate one F34T12, two F34T12, two F96T12/ES, or two F96T12HO/ES lamps; and
 
-(i) Designed and marketed— 
+(i) Designed and marketed—
 
-(A) To operate at nominal input voltages at or between 120 and 277 volts; 
+(A) To operate at nominal input voltages at or between 120 and 277 volts;
 
-(B) To operate with an input current frequency of 60 Hertz; and 
+(B) To operate with an input current frequency of 60 Hertz; and
 
-(C) For use in connection with fluorescent lamps (as defined in § 430.2) 
+(C) For use in connection with fluorescent lamps (as defined in § 430.2)
 
-(ii) Must have— 
+(ii) Must have—
 
-(A) A power factor of: 
+(A) A power factor of:
 
-(*1*) 0.9 or greater for ballasts that are not residential ballasts; or 
+(*1*) 0.9 or greater for ballasts that are not residential ballasts; or
 
-(*2*) 0.5 or greater for residential ballasts; and 
+(*2*) 0.5 or greater for residential ballasts; and
 
-(B) A ballast luminous efficiency not less than the following: 
+(B) A ballast luminous efficiency not less than the following:
 
 | Designed and marketed for operation of a maximum of | Nominal input   voltage | Total nominal lamp watts | Ballast luminous efficiency |
 | --------------------------------------------------- | ----------------------- | ------------------------ | --------------------------- |
@@ -678,17 +678,17 @@ Table 14 to Paragraph (d)(2)
 | Two F96T12/ES lamps                                 | 120/277                 | 120                      | 0.876                       |
 | Two F96T12HO/ES lamps                               | 120/277                 | 190                      | 0.711                       |
 
-(3) *Exemptions.* The power factor and ballast luminous efficiency standards described in paragraph (m)(1)(ii) and (m)(2)(ii) of this section do not apply to: 
+(3) *Exemptions.* The power factor and ballast luminous efficiency standards described in paragraph (m)(1)(ii) and (m)(2)(ii) of this section do not apply to:
 
-(i) A dimming ballast designed and marketed to operate exclusively lamp types other than one F34T12, two F34T12, two F96T12/ES, or two F96T12HO/ES lamps; 
+(i) A dimming ballast designed and marketed to operate exclusively lamp types other than one F34T12, two F34T12, two F96T12/ES, or two F96T12HO/ES lamps;
 
-(ii) A low frequency ballast that is designed and marketed to operate T8 diameter lamps; is designed and marketed for use in electromagnetic-interference-sensitive-environments only; and is shipped by the manufacturer in packages containing 10 or fewer ballasts; or 
+(ii) A low frequency ballast that is designed and marketed to operate T8 diameter lamps; is designed and marketed for use in electromagnetic-interference-sensitive-environments only; and is shipped by the manufacturer in packages containing 10 or fewer ballasts; or
 
-(iii) A programmed start ballast that operates 4-foot medium bipin T8 lamps and delivers on average less than 140 milliamperes to each lamp. 
+(iii) A programmed start ballast that operates 4-foot medium bipin T8 lamps and delivers on average less than 140 milliamperes to each lamp.
 
-(4) For the purposes of this paragraph (m), the definitions found in appendix Q of subpart B of this part apply. 
+(4) For the purposes of this paragraph (m), the definitions found in appendix Q of subpart B of this part apply.
 
-(n) *General service fluorescent lamps and incandescent reflector lamps.* (1) Each of the following general service fluorescent lamps manufactured after the effective dates specified in the table must meet or exceed the following color rendering index standards: 
+(n) *General service fluorescent lamps and incandescent reflector lamps.* (1) Each of the following general service fluorescent lamps manufactured after the effective dates specified in the table must meet or exceed the following color rendering index standards:
 
 | Lamp type                                                                                                         | Nominal lamp watts \* | Minimum color rendering index | Effective date                |
 | ----------------------------------------------------------------------------------------------------------------- | --------------------- | ----------------------------- | ----------------------------- |
@@ -698,15 +698,15 @@ Table 14 to Paragraph (d)(2)
 | (iv) 8-foot high output                                                                                           | \>100 W   ≤100 W      | 69   45                       | May 1, 1994.   May 1, 1994.   |
 | \* Nominal lamp watts means the wattage at which a fluorescent lamp is designed to operate. 42 U.S.C. 6291(29)(H) |                       |                               |                               |
 
-(2) The standards described in paragraph (n)(1) of this section do not apply to: 
+(2) The standards described in paragraph (n)(1) of this section do not apply to:
 
-(i) Any 4-foot medium bipin lamp or 2-foot U-shaped lamp with a rated wattage less than 28 watts; 
+(i) Any 4-foot medium bipin lamp or 2-foot U-shaped lamp with a rated wattage less than 28 watts;
 
-(ii) Any 8-foot high output lamp not defined in ANSI C78.81-2010 (incorporated by reference; see § 430.3) or related supplements, or not 0.800 nominal amperes; or 
+(ii) Any 8-foot high output lamp not defined in ANSI C78.81-2010 (incorporated by reference; see § 430.3) or related supplements, or not 0.800 nominal amperes; or
 
-(iii) Any 8-foot slimline lamp not defined in ANSI C78.3 (incorporated by reference; see § 430.3). 
+(iii) Any 8-foot slimline lamp not defined in ANSI C78.3 (incorporated by reference; see § 430.3).
 
-(3) Each of the following general service fluorescent lamps manufactured on or after January 26, 2018, must meet or exceed the following lamp efficacy standards shown in the table: 
+(3) Each of the following general service fluorescent lamps manufactured on or after January 26, 2018, must meet or exceed the following lamp efficacy standards shown in the table:
 
 | Lamp type                                                                                                                                                                           | Correlated color   temperature | Minimum   average lamp   efficacy   lm/W |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------------------------------------- |
@@ -721,7 +721,7 @@ Note 1 to paragraph (n)(3):
 
 For paragraphs (n)(3)(i) through (vi), rated wattage is defined with respect to fluorescent lamps and general service fluorescent lamps in § 430.2.
 
-(4) Subject to the sales prohibition in paragraph (dd) of this section, each of the following incandescent reflector lamps manufactured after July 14, 2012, must meet or exceed the lamp efficacy standards shown in the table: 
+(4) Subject to the sales prohibition in paragraph (dd) of this section, each of the following incandescent reflector lamps manufactured after July 14, 2012, must meet or exceed the lamp efficacy standards shown in the table:
 
 | Rated wattage | Lamp spectrum     | Lamp diameter inches | Rated voltage of lamp | Minimum   average lamp   efficacy   lm/W |
 | ------------- | ----------------- | -------------------- | --------------------- | ---------------------------------------- |
@@ -738,15 +738,15 @@ Note 3 to paragraph (n)(4):
 
 Standard Spectrum means any incandescent reflector lamp that does not meet the definition of modified spectrum in § 430.2.
 
-(5) The standards specified in this section do not apply to the following types of incandescent reflector lamps: 
+(5) The standards specified in this section do not apply to the following types of incandescent reflector lamps:
 
-(i) Lamps rated at 50 watts or less that are ER30, BR30, BR40, or ER40 lamps; 
+(i) Lamps rated at 50 watts or less that are ER30, BR30, BR40, or ER40 lamps;
 
-(ii) Lamps rated at 65 watts that are BR30, BR40, or ER40 lamps; or 
+(ii) Lamps rated at 65 watts that are BR30, BR40, or ER40 lamps; or
 
-(iii) R20 incandescent reflector lamps rated 45 watts or less. 
+(iii) R20 incandescent reflector lamps rated 45 watts or less.
 
-(o) *Faucets.* The maximum water use allowed for any of the following faucets manufactured after January 1, 1994, when measured at a flowing water pressure of 60 pounds per square inch (414 kilopascals), shall be as follows: 
+(o) *Faucets.* The maximum water use allowed for any of the following faucets manufactured after January 1, 1994, when measured at a flowing water pressure of 60 pounds per square inch (414 kilopascals), shall be as follows:
 
 | Faucet type                                                                                                                                                                                                                                                                                                                      | Maximum flow rate   (gpm (L/min)) or (gal/cycle (L/cycle)) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -765,9 +765,9 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 | 4 Sprayheads with collectively-controlled orifices and metered controls.                                                                                                                                                                                                                                                         |                                                            |
 | The maximum flow rate of a sprayhead that delivers a pre-set volume of water before gradually shutting itself off shall be the product of (a) the maximum flow rate for a metering faucet and (b) the number of component lavatories (rim space of the lavatory in inches (millimeters) divided by 20 inches (508 millimeters)). |                                                            |
 
-(p) *Showerheads.* The maximum water use allowed for any showerheads manufactured after January 1, 1994, shall be 2.5 gallons per minute (9.5 liters per minute) when measured at a flowing pressure of 80 pounds per square inch gage (552 kilopascals). When used as a component of any such showerhead, the flow-restricting insert shall be mechanically retained at the point of manufacture such that a force of 8.0 pounds force (36 Newtons) or more is required to remove the flow-restricting insert, except that this requirement shall not apply to showerheads for which removal of the flow-restricting insert would cause water to leak significantly from areas other than the spray face. 
+(p) *Showerheads.* The maximum water use allowed for any showerheads manufactured after January 1, 1994, shall be 2.5 gallons per minute (9.5 liters per minute) when measured at a flowing pressure of 80 pounds per square inch gage (552 kilopascals). When used as a component of any such showerhead, the flow-restricting insert shall be mechanically retained at the point of manufacture such that a force of 8.0 pounds force (36 Newtons) or more is required to remove the flow-restricting insert, except that this requirement shall not apply to showerheads for which removal of the flow-restricting insert would cause water to leak significantly from areas other than the spray face.
 
-(q) *Water closets.* The maximum water use allowed in gallons per flush for any of the following water closets is as follows: 
+(q) *Water closets.* The maximum water use allowed in gallons per flush for any of the following water closets is as follows:
 
 | Water closet type                                                        | Maximum flush rate   (gpf (Lpf)) |
 | ------------------------------------------------------------------------ | -------------------------------- |
@@ -777,27 +777,27 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 | (4) Blowout bowl water closet                                            | 3.5 (13.2)                       |
 | (5) Flushometer valve water closets, other than those with blowout bowls |                                  |
 
-(r) *Urinals.* The maximum water use allowed for any urinals manufactured after January 1, 1994, shall be 1.0 gallons per flush (3.8 liters per flush). The maximum water use allowed for a trough-type urinal shall be the product of: 
+(r) *Urinals.* The maximum water use allowed for any urinals manufactured after January 1, 1994, shall be 1.0 gallons per flush (3.8 liters per flush). The maximum water use allowed for a trough-type urinal shall be the product of:
 
-(1) The maximum flow rate for a urinal and 
+(1) The maximum flow rate for a urinal and
 
-(2) The length of the trough-type urinal in inches (millimeter) divided by 16 inches (406 millimeters). 
+(2) The length of the trough-type urinal in inches (millimeter) divided by 16 inches (406 millimeters).
 
-(s) *Ceiling fans and ceiling fan light kits.* (1) All ceiling fans manufactured on or after January 1, 2007, shall have the following features: 
+(s) *Ceiling fans and ceiling fan light kits.* (1) All ceiling fans manufactured on or after January 1, 2007, shall have the following features:
 
-(i) Fan speed controls separate from any lighting controls; 
+(i) Fan speed controls separate from any lighting controls;
 
-(ii) Adjustable speed controls (either more than 1 speed or variable speed); 
+(ii) Adjustable speed controls (either more than 1 speed or variable speed);
 
-(iii) The capability of reversible fan action, except for— 
+(iii) The capability of reversible fan action, except for—
 
-(A) Fans sold for industrial applications; 
+(A) Fans sold for industrial applications;
 
-(B) Fans sold for outdoor applications; and 
+(B) Fans sold for outdoor applications; and
 
-(C) Cases in which safety standards would be violated by the use of the reversible mode. 
+(C) Cases in which safety standards would be violated by the use of the reversible mode.
 
-(2)(i) Ceiling fans manufactured on or after January 21, 2020, shall meet the requirements shows in the table: 
+(2)(i) Ceiling fans manufactured on or after January 21, 2020, shall meet the requirements shows in the table:
 
 | Product class as   defined in Appendix U                                                  | Minimum   efficiency   (CFM/W) 1 |
 | ----------------------------------------------------------------------------------------- | -------------------------------- |
@@ -808,27 +808,27 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 | High-speed small-diameter (HSSD)                                                          | 4.16 D + 0.02.                   |
 | 1 D is the ceiling fan's blade span, in inches, as determined in Appendix U of this part. |                                  |
 
-(ii) Large-diameter ceiling fans, as defined in appendix U to subpart B of this part, manufactured on or after January 21, 2020, shall have a CFEI greater than or equal to - 
+(ii) Large-diameter ceiling fans, as defined in appendix U to subpart B of this part, manufactured on or after January 21, 2020, shall have a CFEI greater than or equal to -
 
-(A) 1.00 at high speed; and 
+(A) 1.00 at high speed; and
 
-(B) 1.31 at 40 percent speed or the nearest speed that is not less than 40 percent speed. 
+(B) 1.31 at 40 percent speed or the nearest speed that is not less than 40 percent speed.
 
-(iii) The provisions in this appendix apply to ceiling fans except: 
+(iii) The provisions in this appendix apply to ceiling fans except:
 
-(A) Ceiling fans where the plane of rotation of a ceiling fan's blades is not less than or equal to 45 degrees from horizontal, or cannot be adjusted based on the manufacturer's specifications to be less than or equal to 45 degrees from horizontal; 
+(A) Ceiling fans where the plane of rotation of a ceiling fan's blades is not less than or equal to 45 degrees from horizontal, or cannot be adjusted based on the manufacturer's specifications to be less than or equal to 45 degrees from horizontal;
 
-(B) Centrifugal ceiling fans, as defined in Appendix U of this part; 
+(B) Centrifugal ceiling fans, as defined in Appendix U of this part;
 
-(C) Belt-driven ceiling fans, as defined in Appendix U of this part; 
+(C) Belt-driven ceiling fans, as defined in Appendix U of this part;
 
-(D) Oscillating ceiling fans, as defined in Appendix U of this part; and 
+(D) Oscillating ceiling fans, as defined in Appendix U of this part; and
 
-(E) Highly-decorative ceiling fans, as defined in Appendix U of this part. 
+(E) Highly-decorative ceiling fans, as defined in Appendix U of this part.
 
-(3) Ceiling fan light kits manufactured on or after January 1, 2007, and prior to January 21, 2020, with medium screw base sockets must be packaged with medium screw base lamps to fill all sockets. These medium screw base lamps must— 
+(3) Ceiling fan light kits manufactured on or after January 1, 2007, and prior to January 21, 2020, with medium screw base sockets must be packaged with medium screw base lamps to fill all sockets. These medium screw base lamps must—
 
-(i) Be compact fluorescent lamps that meet or exceed the following requirements or be as described in paragraph (s)(3)(ii) of this section: 
+(i) Be compact fluorescent lamps that meet or exceed the following requirements or be as described in paragraph (s)(3)(ii) of this section:
 
 | Factor                                                                                                                                                                                                                   | Requirements                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -851,9 +851,9 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 | 1 Use rated wattage to determine the appropriate minimum efficacy requirements in this table.                                                                                                                            |                                                                                                                                 |
 | 2 Calculate efficacy using measured wattage, rather than rated wattage, and measured lumens to determine product compliance. Wattage and lumen values indicated on products or packaging may not be used in calculation. |                                                                                                                                 |
 
-(ii) Be light sources other than compact fluorescent lamps that have lumens per watt performance at least equivalent to comparably configured compact fluorescent lamps meeting the energy conservation standards in paragraph (s)(3)(i) of this section. 
+(ii) Be light sources other than compact fluorescent lamps that have lumens per watt performance at least equivalent to comparably configured compact fluorescent lamps meeting the energy conservation standards in paragraph (s)(3)(i) of this section.
 
-(4) Ceiling fan light kits manufactured on or after January 1, 2007, and prior January 21, 2020, with pin-based sockets for fluorescent lamps must use an electronic ballast and be packaged with lamps to fill all sockets. These lamp ballast platforms must meet the following requirements: 
+(4) Ceiling fan light kits manufactured on or after January 1, 2007, and prior January 21, 2020, with pin-based sockets for fluorescent lamps must use an electronic ballast and be packaged with lamps to fill all sockets. These lamp ballast platforms must meet the following requirements:
 
 | Factor                                                              | Requirement                                              |
 | ------------------------------------------------------------------- | -------------------------------------------------------- |
@@ -863,9 +863,9 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 |                                                                     | ≥70 lm/w for all lamps that are > 24 inches and          |
 |                                                                     | ≥30 total listed lamp watts.                             |
 
-(5) Ceiling fan light kits manufactured on or after January 1, 2009, and prior to January 21, 2020, with socket types other than those covered in paragraph (s)(3) or (4) of this section, including candelabra screw base sockets, must be packaged with lamps to fill all sockets and must not be capable of operating with lamps that total more than 190 watts. 
+(5) Ceiling fan light kits manufactured on or after January 1, 2009, and prior to January 21, 2020, with socket types other than those covered in paragraph (s)(3) or (4) of this section, including candelabra screw base sockets, must be packaged with lamps to fill all sockets and must not be capable of operating with lamps that total more than 190 watts.
 
-(6) Ceiling fan light kits manufactured on or after January 21, 2020 must be packaged with lamps to fill all sockets, and each basic model of lamp packaged with the basic model of CFLK, each basic model of consumer-replaceable SSL packaged with the basic model of CFLK, and each basic model of non-consumer-replaceable SSL in the CFLK basic model shall meet the requirements shown in paragraphs (s)(6)(i) and (ii) of this section: 
+(6) Ceiling fan light kits manufactured on or after January 21, 2020 must be packaged with lamps to fill all sockets, and each basic model of lamp packaged with the basic model of CFLK, each basic model of consumer-replaceable SSL packaged with the basic model of CFLK, and each basic model of non-consumer-replaceable SSL in the CFLK basic model shall meet the requirements shown in paragraphs (s)(6)(i) and (ii) of this section:
 
 | Lumens 1                                                                                                                                                                                                                                                                                         | Minimum required efficacy   (lm/W) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------- |
@@ -873,24 +873,24 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 | (ii) ≥120                                                                                                                                                                                                                                                                                        | (74.0−29.42 × 0.9983lumens).       |
 | 1 Use the lumen output for each basic model of lamp packaged with the basic model of CFLK, each basic model of consumer-replaceable SSL packaged with the basic model of CFLK, or each basic model of non-consumer-replaceable SSL in the CFLK basic model to determine the applicable standard. |                                    |
 
-(i) Ceiling fan light kits with medium screw base sockets manufactured on or after January 21, 2020 and packaged with compact fluorescent lamps must include lamps that also meet the following requirements: 
+(i) Ceiling fan light kits with medium screw base sockets manufactured on or after January 21, 2020 and packaged with compact fluorescent lamps must include lamps that also meet the following requirements:
 
 | Lumen Maintenance at 1,000 hours            | ≥90.0%.                                                                                                                                                                           |
 | Lumen Maintenance at 40 Percent of Lifetime | ≥80.0%.                                                                                                                                                                           |
 | Rapid Cycle Stress Test                     | Each lamp must be cycled once for every 2 hours of lifetime of compact fluorescent lamp as defined in § 430.2. At least 5 lamps must meet or exceed the minimum number of cycles. |
 | Lifetime                                    | ≥6,000 hours for the sample of lamps.                                                                                                                                             |
 
-(ii) Ceiling fan light kits with pin based sockets for fluorescent lamps, manufactured on or after January 21, 2020, must also use an electronic ballast. 
+(ii) Ceiling fan light kits with pin based sockets for fluorescent lamps, manufactured on or after January 21, 2020, must also use an electronic ballast.
 
-(t) *Torchieres.* A torchiere manufactured on or after January 1, 2006 shall: 
+(t) *Torchieres.* A torchiere manufactured on or after January 1, 2006 shall:
 
-(1) Consume not more than 190 watts of power; and 
+(1) Consume not more than 190 watts of power; and
 
-(2) Not be capable of operating with lamps that total more than 190 watts. 
+(2) Not be capable of operating with lamps that total more than 190 watts.
 
-(u) \[Reserved\] 
+(u) \[Reserved\]
 
-(v) *Dehumidifiers.* (1) Dehumidifiers manufactured on or after October 1, 2012, shall have an energy factor that meets or exceeds the following values: 
+(v) *Dehumidifiers.* (1) Dehumidifiers manufactured on or after October 1, 2012, shall have an energy factor that meets or exceeds the following values:
 
 | Product capacity (pints/day) | Minimum energy factor (liters/kWh) |
 | ---------------------------- | ---------------------------------- |
@@ -900,7 +900,7 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 | 54.01-75.00                  | 1.70                               |
 | 75.01 or more                | 2.5                                |
 
-(2) Dehumidifiers manufactured on or after June 13, 2019, shall have an integrated energy factor that meets or exceeds the following values: 
+(2) Dehumidifiers manufactured on or after June 13, 2019, shall have an integrated energy factor that meets or exceeds the following values:
 
 | Portable dehumidifier product capacity   (pints/day)     | Minimum   integrated   energy factor   (liters/kWh) |
 | -------------------------------------------------------- | --------------------------------------------------- |
@@ -911,7 +911,7 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 | 8.0 or less                                              | 1.77                                                |
 | More than 8.0                                            | 2.41                                                |
 
-(w) *External power supplies.* (1)(i) Except as provided in paragraphs (w)(2) and (5) of this section, all class A external power supplies manufactured on or after July 1, 2008, shall meet the following standards: 
+(w) *External power supplies.* (1)(i) Except as provided in paragraphs (w)(2) and (5) of this section, all class A external power supplies manufactured on or after July 1, 2008, shall meet the following standards:
 
 | Active mode                           |
 | ------------------------------------- |
@@ -922,54 +922,54 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 | Nameplate output                      |
 | Not more than 250 watts               |
 
-(ii) Except as provided in paragraphs (w)(5), (w)(6), and (w)(7) of this section, all direct operation external power supplies manufactured on or after February 10, 2016, shall meet the following standards: 
+(ii) Except as provided in paragraphs (w)(5), (w)(6), and (w)(7) of this section, all direct operation external power supplies manufactured on or after February 10, 2016, shall meet the following standards:
 
 ![](/graphics/er10fe14.042.gif)![](/graphics/er10fe14.043.gif)
 
-(iii) Except as provided in paragraphs (w)(5), (w)(6), and (w)(7) of this section, all external power supplies manufactured on or after February 10, 2016, shall meet the following standards: 
+(iii) Except as provided in paragraphs (w)(5), (w)(6), and (w)(7) of this section, all external power supplies manufactured on or after February 10, 2016, shall meet the following standards:
 
 |                        | Class A EPS                       | Non-Class A EPS                    |
 | ---------------------- | --------------------------------- | ---------------------------------- |
 | Direct Operation EPS   | Level VI: 10 CFR 430.32(w)(1)(ii) | Level VI: 10 CFR 430.32(w)(1)(ii). |
 | Indirect Operation EPS | Level IV: 10 CFR 430.32(w)(1)(i)  | No Standards.                      |
 
-(2) A basic model of external power supply is not subject to the energy conservation standards of paragraph (w)(1)(ii) of this section if the external power supply— 
+(2) A basic model of external power supply is not subject to the energy conservation standards of paragraph (w)(1)(ii) of this section if the external power supply—
 
-(i) Is manufactured during the period beginning on February 10, 2016, and ending on February 10, 2020; 
+(i) Is manufactured during the period beginning on February 10, 2016, and ending on February 10, 2020;
 
-(ii) Is marked in accordance with the External Power Supply International Efficiency Marking Protocol, as in effect on February 10, 2016; 
+(ii) Is marked in accordance with the External Power Supply International Efficiency Marking Protocol, as in effect on February 10, 2016;
 
-(iii) Meets, where applicable, the standards under paragraph (w)(1)(i) of this section, and has been certified to the Secretary as meeting those standards; and 
+(iii) Meets, where applicable, the standards under paragraph (w)(1)(i) of this section, and has been certified to the Secretary as meeting those standards; and
 
-(iv) Is made available by the manufacturer only as a service part or a spare part for an end-use product that— 
+(iv) Is made available by the manufacturer only as a service part or a spare part for an end-use product that—
 
-(A) Constitutes the primary load; and 
+(A) Constitutes the primary load; and
 
-(B) Was manufactured before February 10, 2016. 
+(B) Was manufactured before February 10, 2016.
 
-(3) The standards described in paragraph (w)(1) of this section shall not constitute an energy conservation standard for the separate end-use product to which the external power supply is connected. 
+(3) The standards described in paragraph (w)(1) of this section shall not constitute an energy conservation standard for the separate end-use product to which the external power supply is connected.
 
-(4) Any external power supply subject to the standards in paragraph (w)(1) of this section shall be clearly and permanently marked in accordance with the International Efficiency Marking Protocol for External Power Supplies (incorporated by reference; see § 430.3), published by the U.S. Department of Energy. 
+(4) Any external power supply subject to the standards in paragraph (w)(1) of this section shall be clearly and permanently marked in accordance with the International Efficiency Marking Protocol for External Power Supplies (incorporated by reference; see § 430.3), published by the U.S. Department of Energy.
 
-(5) *Non-application of no-load mode requirements.* The no-load mode energy efficiency standards established in paragraph (w)(1) of this section shall not apply to an external power supply that— 
+(5) *Non-application of no-load mode requirements.* The no-load mode energy efficiency standards established in paragraph (w)(1) of this section shall not apply to an external power supply that—
 
-(i) Is an AC-to-AC external power supply; 
+(i) Is an AC-to-AC external power supply;
 
-(ii) Has a nameplate output of 20 watts or more; 
+(ii) Has a nameplate output of 20 watts or more;
 
-(iii) Is certified to the Secretary as being designed to be connected to a security or life safety alarm or surveillance system component; and 
+(iii) Is certified to the Secretary as being designed to be connected to a security or life safety alarm or surveillance system component; and
 
-(iv) On establishment within the External Power Supply International Efficiency Marking Protocol, as referenced in the “Energy Star Program Requirements for Single Voltage External Ac-Dc and Ac-Ac Power Supplies” (incorporated by reference, see § 430.3), published by the Environmental Protection Agency, of a distinguishing mark for products described in this clause, is permanently marked with the distinguishing mark. 
+(iv) On establishment within the External Power Supply International Efficiency Marking Protocol, as referenced in the “Energy Star Program Requirements for Single Voltage External Ac-Dc and Ac-Ac Power Supplies” (incorporated by reference, see § 430.3), published by the Environmental Protection Agency, of a distinguishing mark for products described in this clause, is permanently marked with the distinguishing mark.
 
-(6) An external power supply shall not be subject to the standards in paragraph (w)(1) of this section if it is a device that requires Federal Food and Drug Administration (FDA) listing and approval as a medical device in accordance with section 513 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360(c)). 
+(6) An external power supply shall not be subject to the standards in paragraph (w)(1) of this section if it is a device that requires Federal Food and Drug Administration (FDA) listing and approval as a medical device in accordance with section 513 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360(c)).
 
-(7) A direct operation, AC-DC external power supply with nameplate output voltage less than 3 volts and nameplate output current greater than or equal to 1,000 milliamps that charges the battery of a product that is fully or primarily motor operated shall not be subject to the standards in paragraph (w)(1)(ii) of this section. 
+(7) A direct operation, AC-DC external power supply with nameplate output voltage less than 3 volts and nameplate output current greater than or equal to 1,000 milliamps that charges the battery of a product that is fully or primarily motor operated shall not be subject to the standards in paragraph (w)(1)(ii) of this section.
 
-(x) *Intermediate base incandescent lamps and candelabra base incandescent lamps.* (1) Subject to the sales prohibition in paragraph (dd) of this section, each candelabra base incandescent lamp shall not exceed 60 rated watts. 
+(x) *Intermediate base incandescent lamps and candelabra base incandescent lamps.* (1) Subject to the sales prohibition in paragraph (dd) of this section, each candelabra base incandescent lamp shall not exceed 60 rated watts.
 
-(2) Subject to the sales prohibition in paragraph (dd) of this section, each intermediate base incandescent lamp shall not exceed 40 rated watts. 
+(2) Subject to the sales prohibition in paragraph (dd) of this section, each intermediate base incandescent lamp shall not exceed 40 rated watts.
 
-(y) *Residential furnace fans.* Residential furnace fans incorporated in the products listed in Table 1 of this paragraph and manufactured on and after July 3, 2019, shall have a fan energy rating (FER) value that meets or is less than the following values: 
+(y) *Residential furnace fans.* Residential furnace fans incorporated in the products listed in Table 1 of this paragraph and manufactured on and after July 3, 2019, shall have a fan energy rating (FER) value that meets or is less than the following values:
 
 Table 1—Energy Conservation Standards for Covered Residential Furnace Fans\*
 | Product class                                                                                                                                                                         | FER \*\* (Watts/1000 cfm) |
@@ -987,7 +987,7 @@ Table 1—Energy Conservation Standards for Covered Residential Furnace Fans\*
 | \* Furnace fans incorporated into hydronic air handlers, SDHV modular blowers, SDHV electric furnaces, and CAC/HP indoor units are not subject to the standards listed in this table. |                           |
 | \*\* QMax is the airflow, in cfm, at the maximum airflow-control setting measured using the final DOE test procedure at 10 CFR part 430, subpart B, appendix AA.                      |                           |
 
-(z) *Battery chargers.* (1) Battery chargers manufactured on or after June 13, 2018, must have a unit energy consumption (UEC) less than or equal to the prescribed “Maximum UEC” standard when using the equations for the appropriate product class and corresponding rated battery energy as shown in the following table: 
+(z) *Battery chargers.* (1) Battery chargers manufactured on or after June 13, 2018, must have a unit energy consumption (UEC) less than or equal to the prescribed “Maximum UEC” standard when using the equations for the appropriate product class and corresponding rated battery energy as shown in the following table:
 
 | Product class                                                                                   | Product class description   | Rated battery energy (Ebatt \*\*) | Special characteristic or battery voltage | Maximum UEC (kWh/yr)   (as a function of Ebatt \*\*)                    |
 | ----------------------------------------------------------------------------------------------- | --------------------------- | --------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------- |
@@ -1001,9 +1001,9 @@ Table 1—Energy Conservation Standards for Covered Residential Furnace Fans\*
 | \* Inductive connection and designed for use in a wet environment (e.g. electric toothbrushes). |                             |                                   |                                           |                                                                         |
 | \*\* Ebatt = Rated battery energy as determined in 10 CFR part 429.39(a).                       |                             |                                   |                                           |                                                                         |
 
-(2) A battery charger shall not be subject to the standards in paragraph (z)(1) of this section if it is a device that requires Federal Food and Drug Administration (FDA) listing and approval as a life-sustaining or life-supporting device in accordance with section 513 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360(c)). 
+(2) A battery charger shall not be subject to the standards in paragraph (z)(1) of this section if it is a device that requires Federal Food and Drug Administration (FDA) listing and approval as a life-sustaining or life-supporting device in accordance with section 513 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360(c)).
 
-(3) All uninterruptible power supplies (UPS) manufactured on and after January 10, 2022, that utilize a NEMA 1-15P or 5-15P input plug and have an AC output shall have an average load adjusted efficiency that meets or exceeds the values shown in the table in this paragraph (z)(3) based on the rated output power (Prated) of the UPS. 
+(3) All uninterruptible power supplies (UPS) manufactured on and after January 10, 2022, that utilize a NEMA 1-15P or 5-15P input plug and have an AC output shall have an average load adjusted efficiency that meets or exceeds the values shown in the table in this paragraph (z)(3) based on the rated output power (Prated) of the UPS.
 
 | Battery charger product class | Rated output power     | Minimum efficiency                                 |
 | ----------------------------- | ---------------------- | -------------------------------------------------- |
@@ -1017,9 +1017,9 @@ Table 1—Energy Conservation Standards for Covered Residential Furnace Fans\*
 |                               | 300 W < Prated ≤ 700 W | −2.60E-07 \* P2rated + 3.65E-04 \* Prated + 0.764. |
 |                               | Prated > 700 W         | −1.70E-08 \* P2rated + 3.85E-05 \* Prated + 0.876. |
 
-(aa) *Miscellaneous refrigeration products.* The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values. 
+(aa) *Miscellaneous refrigeration products.* The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
 
-(1) *Coolers.* (i) Coolers manufactured on or after October 28, 2019, and before January 31, 2029, shall have an Annual Energy Use (AEU) no more than: 
+(1) *Coolers.* (i) Coolers manufactured on or after October 28, 2019, and before January 31, 2029, shall have an Annual Energy Use (AEU) no more than:
 
 | Product class                                                                                                  | AEU   (kWh/yr) |
 | -------------------------------------------------------------------------------------------------------------- | -------------- |
@@ -1029,7 +1029,7 @@ Table 1—Energy Conservation Standards for Covered Residential Furnace Fans\*
 | (D) Built-in.                                                                                                  | 7.88AV + 155.8 |
 | **Note:** AV = Total adjusted volume, expressed in ft3, as determined in appendix A to subpart B of this part. |                |
 
-(ii) Coolers manufactured on or after January 31, 2029, shall have an Annual Energy Use (AEU) no more than: 
+(ii) Coolers manufactured on or after January 31, 2029, shall have an Annual Energy Use (AEU) no more than:
 
 | Product class                                                                                                  | AEU   (kWh/yr) |
 | -------------------------------------------------------------------------------------------------------------- | -------------- |
@@ -1039,7 +1039,7 @@ Table 1—Energy Conservation Standards for Covered Residential Furnace Fans\*
 | (D) Built-in.                                                                                                  | 6.30AV + 124.6 |
 | **Note:** AV = Total adjusted volume, expressed in ft3, as determined in appendix A to subpart B of this part. |                |
 
-(2) *Combination cooler refrigeration products.* (i) Combination cooler refrigeration products manufactured on or after October 28, 2019, and before January 31, 2029, shall have an Annual Energy Use (AEU) no more than: 
+(2) *Combination cooler refrigeration products.* (i) Combination cooler refrigeration products manufactured on or after October 28, 2019, and before January 31, 2029, shall have an Annual Energy Use (AEU) no more than:
 
 | Product class                                                                                                  | AEU   (kWh/yr) |
 | -------------------------------------------------------------------------------------------------------------- | -------------- |
@@ -1053,7 +1053,7 @@ Table 1—Energy Conservation Standards for Covered Residential Furnace Fans\*
 | (H) C-13A-BI. Built-in compact cooler with all-refrigerator—automatic defrost                                  | 6.52AV + 213.1 |
 | **Note:** AV = Total adjusted volume, expressed in ft3, as determined in appendix A to subpart B of this part. |                |
 
-(ii) Combination cooler refrigeration products manufactured on or after January 31, 2029, shall have an Annual Energy Use (AEU) no more than: 
+(ii) Combination cooler refrigeration products manufactured on or after January 31, 2029, shall have an Annual Energy Use (AEU) no more than:
 
 | Product class                                                                                        | AEU   (kWh/yr)        |
 | ---------------------------------------------------------------------------------------------------- | --------------------- |
@@ -1067,31 +1067,31 @@ Table 1—Energy Conservation Standards for Covered Residential Furnace Fans\*
 | AV = Total adjusted volume, expressed in ft3, as determined in appendix A to subpart B of this part. |                       |
 | I = 1 for a product with an automatic icemaker and = 0 for a product without an automatic icemaker.  |                       |
 
-(bb) *Rough service lamps and vibration service lamps.* (1) Subject to the sales prohibition in paragraph (dd) of this section, rough service lamps manufactured on or after January 25, 2018 must: 
+(bb) *Rough service lamps and vibration service lamps.* (1) Subject to the sales prohibition in paragraph (dd) of this section, rough service lamps manufactured on or after January 25, 2018 must:
 
-(i) Have a shatter-proof coating or equivalent technology that is compliant with NSF/ANSI 51 (incorporated by reference; see § 430.3) and is designed to contain the glass if the glass envelope of the lamp is broken and to provide effective containment over the life of the lamp; 
+(i) Have a shatter-proof coating or equivalent technology that is compliant with NSF/ANSI 51 (incorporated by reference; see § 430.3) and is designed to contain the glass if the glass envelope of the lamp is broken and to provide effective containment over the life of the lamp;
 
-(ii) Have a rated wattage not greater than 40 watts; and 
+(ii) Have a rated wattage not greater than 40 watts; and
 
-(iii) Be sold at retail only in a package containing one lamp. 
+(iii) Be sold at retail only in a package containing one lamp.
 
-(2) Subject to the sales prohibition in paragraph (dd) of this section, vibration service lamps manufactured on or after January 25, 2018 must: 
+(2) Subject to the sales prohibition in paragraph (dd) of this section, vibration service lamps manufactured on or after January 25, 2018 must:
 
-(i) Have a rated wattage no greater than 40 watts; and 
+(i) Have a rated wattage no greater than 40 watts; and
 
-(ii) Be sold at retail only in a package containing one lamp. 
+(ii) Be sold at retail only in a package containing one lamp.
 
-(cc) *Portable air conditioners.* Single-duct portable air conditioners and dual-duct portable air conditioners manufactured on or after January 10, 2025 must have a combined energy efficiency ratio (CEER) in Btu/Wh no less than: 
+(cc) *Portable air conditioners.* Single-duct portable air conditioners and dual-duct portable air conditioners manufactured on or after January 10, 2025 must have a combined energy efficiency ratio (CEER) in Btu/Wh no less than:
 
 ![](/graphics/er15my23.015.gif)
 
-*SACC:* For single-speed portable air conditioners, SACC is seasonally adjusted cooling capacity in Btu/h, as determined in appendix CC of subpart B of this part. For variable-speed portable air conditioners, SACC shall be SACCFull in Btu/h, as determined in appendix CC of subpart B of this part. 
+*SACC:* For single-speed portable air conditioners, SACC is seasonally adjusted cooling capacity in Btu/h, as determined in appendix CC of subpart B of this part. For variable-speed portable air conditioners, SACC shall be SACCFull in Btu/h, as determined in appendix CC of subpart B of this part.
 
-(dd) *General service lamps.* Beginning July 25, 2022, the sale of any general service lamp that does not meet a minimum efficacy standard of 45 lumens per watt is prohibited. 
+(dd) *General service lamps.* Beginning July 25, 2022, the sale of any general service lamp that does not meet a minimum efficacy standard of 45 lumens per watt is prohibited.
 
-(1) Energy conservation standards for general service lamps: 
+(1) Energy conservation standards for general service lamps:
 
-(i) General service incandescent lamps manufactured after the dates specified in the following tables, except as described in paragraph (dd)(1)(ii) of this section, shall have a color rendering index greater than or equal to 80 and shall have a rated wattage no greater than, and a lifetime no less than the values shown in the table as follows: 
+(i) General service incandescent lamps manufactured after the dates specified in the following tables, except as described in paragraph (dd)(1)(ii) of this section, shall have a color rendering index greater than or equal to 80 and shall have a rated wattage no greater than, and a lifetime no less than the values shown in the table as follows:
 
 General Service Incandescent Lamps
 | Rated lumen ranges                                                                                                 | Minimum   lifetime \*   (hrs) | Maximum rate   wattage | Compliance date |
@@ -1102,7 +1102,7 @@ General Service Incandescent Lamps
 | (D) 310-749                                                                                                        | 1,000                         | 29                     | 1/1/2014        |
 | \* Use lifetime determined in accordance with § 429.66 of this chapter to determine compliance with this standard. |                               |                        |                 |
 
-(ii) Modified spectrum general service incandescent lamps manufactured after the dates specified in the following table shall have a color rendering index greater than or equal to 75 and shall have a rated wattage no greater than, and a lifetime no less than the values shown in the table as follows: 
+(ii) Modified spectrum general service incandescent lamps manufactured after the dates specified in the following table shall have a color rendering index greater than or equal to 75 and shall have a rated wattage no greater than, and a lifetime no less than the values shown in the table as follows:
 
 Modified Spectrum General Service Incandescent Lamps
 | Rated lumen ranges                                                                                                | Minimum   lifetime 1   (hrs) | Maximum rate   wattage | Compliance date |
@@ -1113,7 +1113,7 @@ Modified Spectrum General Service Incandescent Lamps
 | (D) 232-562                                                                                                       | 1,000                        | 29                     | 1/1/2014        |
 | 1 Use lifetime determined in accordance with § 429.66 of this chapter to determine compliance with this standard. |                              |                        |                 |
 
-(iii) A bare or covered (no reflector) medium base compact fluorescent lamp manufactured on or after January 1, 2006, must meet or exceed the following requirements: 
+(iii) A bare or covered (no reflector) medium base compact fluorescent lamp manufactured on or after January 1, 2006, must meet or exceed the following requirements:
 
 | Factor                                                                                                                                |                             | Requirements |
 | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------ |
@@ -1127,11 +1127,11 @@ Modified Spectrum General Service Incandescent Lamps
 |                                                                                                                                       | (4) Labeled Wattage ≥25     | 55.0         |
 | 1 Use labeled wattage to determine the appropriate efficacy requirements in this table; do not use measured wattage for this purpose. |                             |              |
 
-(iv) Each general service lamp manufactured on or after July 25, 2028 must have: 
+(iv) Each general service lamp manufactured on or after July 25, 2028 must have:
 
-(A) A power factor greater than or equal to 0.7 for integrated LED lamps (as defined in § 430.2) and 0.5 for medium base compact fluorescent lamps (as defined in § 430.2); and 
+(A) A power factor greater than or equal to 0.7 for integrated LED lamps (as defined in § 430.2) and 0.5 for medium base compact fluorescent lamps (as defined in § 430.2); and
 
-(B) A lamp efficacy greater than or equal to the values shown in the table as follows: 
+(B) A lamp efficacy greater than or equal to the values shown in the table as follows:
 
 | Lamp type                                                                                                                                                                                                                | Length             | Standby mode operation 3  | Efficacy   (lm/W)                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ------------------------- | ------------------------------------------ |
@@ -1147,19 +1147,19 @@ Modified Spectrum General Service Incandescent Lamps
 | 2 This lamp type comprises of, but is not limited to, lamps that are pin base compact fluorescent lamps (“CFLs”) and pin base light-emitting diode (“LED”) lamps designed and marketed as replacements of pin base CFLs. |                    |                           |                                            |
 | 3 Indicates whether or not lamps are capable of operating in standby mode operation.                                                                                                                                     |                    |                           |                                            |
 
-(C) The standards described in paragraph (dd)(1)(iv) of this section do not apply to a general service lamp that: 
+(C) The standards described in paragraph (dd)(1)(iv) of this section do not apply to a general service lamp that:
 
-(*1*) Is a general service organic light-emitting diode (OLED) lamps (as defined in § 430.2); 
+(*1*) Is a general service organic light-emitting diode (OLED) lamps (as defined in § 430.2);
 
-(*2*) Is a non-integrated lamp that is capable of operating in standby mode and is sold in packages of two lamps or less; 
+(*2*) Is a non-integrated lamp that is capable of operating in standby mode and is sold in packages of two lamps or less;
 
-(*3*) Is designed and marketed as a lamp that has at least one setting that allows the user to change the lamp's correlated color temperature (CCT) and has no setting in which the lamp meets the definition of a colored lamp (as defined in § 430.2); and is sold in packages of two lamps or less; 
+(*3*) Is designed and marketed as a lamp that has at least one setting that allows the user to change the lamp's correlated color temperature (CCT) and has no setting in which the lamp meets the definition of a colored lamp (as defined in § 430.2); and is sold in packages of two lamps or less;
 
-(*4*) Is designed and marketed as a lamp that has at least one setting in which the lamp meets the definition of a colored lamp (as defined in § 430.2) and at least one other setting in which it does not meet the definition of colored lamp (as defined in § 430.2) and is sold in packages of two lamps or less; or 
+(*4*) Is designed and marketed as a lamp that has at least one setting in which the lamp meets the definition of a colored lamp (as defined in § 430.2) and at least one other setting in which it does not meet the definition of colored lamp (as defined in § 430.2) and is sold in packages of two lamps or less; or
 
-(*5*) Is designed and marketed as a lamp that has one or more component(s) offering a completely different functionality (*e.g.,* a speaker, a camera, an air purifier, etc.) where each component is integrated into the lamp but does not affect the light output of the lamp (*e.g.,* does not turn the light on/off, dim the light, change the color of the light, etc.), is capable of operating in standby mode, and is sold in packages of two lamps or less. 
+(*5*) Is designed and marketed as a lamp that has one or more component(s) offering a completely different functionality (*e.g.,* a speaker, a camera, an air purifier, etc.) where each component is integrated into the lamp but does not affect the light output of the lamp (*e.g.,* does not turn the light on/off, dim the light, change the color of the light, etc.), is capable of operating in standby mode, and is sold in packages of two lamps or less.
 
-(2) Medium base CFLs (as defined in § 430.2) manufactured on or after the dates specified in the following table shall meet or exceed the following standards: 
+(2) Medium base CFLs (as defined in § 430.2) manufactured on or after the dates specified in the following table shall meet or exceed the following standards:
 
 | Metrics                                                                            | Requirements for   MBCFLs manufactured   on or after January 1, 2006 | Requirements for   MBCFLs manufactured   on or after July 25, 2028                                                                                                                                                                                             |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1171,7 +1171,7 @@ Modified Spectrum General Service Incandescent Lamps
 | (v) Start time                                                                     | No requirement                                                       | The time needed for a MBCFL to remain continuously illuminated must be within: {1} one second of application of electrical power for lamp with standby mode power {2} 750 milliseconds of application of electrical power for lamp without standby mode power. |
 | 1 Lifetime refers to lifetime of a compact fluorescent lamp as defined in § 430.2. |                                                                      |                                                                                                                                                                                                                                                                |
 
-(ee) *Air cleaners.* (1) Conventional room air cleaners as defined in § 430.2 with a PM2.5 clean air delivery rate (CADR) between 10 and 600 (both inclusive) cubic feet per minute (cfm) and manufactured on or after December 31, 2023, and before December 31, 2025, shall have an integrated energy factor (IEF) in PM2.5 CADR/W, as determined in § 430.23(hh)(4) that meets or exceeds the following values: 
+(ee) *Air cleaners.* (1) Conventional room air cleaners as defined in § 430.2 with a PM2.5 clean air delivery rate (CADR) between 10 and 600 (both inclusive) cubic feet per minute (cfm) and manufactured on or after December 31, 2023, and before December 31, 2025, shall have an integrated energy factor (IEF) in PM2.5 CADR/W, as determined in § 430.23(hh)(4) that meets or exceeds the following values:
 
 | Product capacity          | IEF (PM2.5   CADR/W) |
 | ------------------------- | -------------------- |
@@ -1179,7 +1179,7 @@ Modified Spectrum General Service Incandescent Lamps
 | (ii) 100 ≤PM2.5 CADR <150 | 1.9                  |
 | (iii) PM2.5 CADR ≥150     | 2.0                  |
 
-(2) Conventional room air cleaners as defined in § 430.2 with a PM2.5 clean air delivery rate (CADR) between 10 and 600 (both inclusive) cubic feet per minute (cfm) and manufactured on or after December 31, 2025, shall have an integrated energy factor (IEF) in PM2.5 CADR/W, as determined in § 430.23(hh)(4) that meets or exceeds the following values: 
+(2) Conventional room air cleaners as defined in § 430.2 with a PM2.5 clean air delivery rate (CADR) between 10 and 600 (both inclusive) cubic feet per minute (cfm) and manufactured on or after December 31, 2025, shall have an integrated energy factor (IEF) in PM2.5 CADR/W, as determined in § 430.23(hh)(4) that meets or exceeds the following values:
 
 | Product capacity          | IEF (PM2.5   CADR/W) |
 | ------------------------- | -------------------- |

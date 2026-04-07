@@ -1,6 +1,6 @@
 ##### § 180.626 Prothioconazole; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of prothioconazole, 2-\[2-(1-chlorocylcopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl\]-1,2-dihydro-3H-1,2,4-triazole-3-thion, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only prothioconazole and its metabolite prothioconazole-desthio, or α-(1-chlorocyclopropyl)-α-\[(2-chlorophenyl)methyl\]-1H-1,2,4-triazole-1-ethanol, calculated as parent in or on the commodity. 
+(a) *General.* (1) Tolerances are established for residues of prothioconazole, 2-\[2-(1-chlorocylcopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl\]-1,2-dihydro-3H-1,2,4-triazole-3-thion, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only prothioconazole and its metabolite prothioconazole-desthio, or α-(1-chlorocyclopropyl)-α-\[(2-chlorophenyl)methyl\]-1H-1,2,4-triazole-1-ethanol, calculated as parent in or on the commodity.
 
 | Commodity                                                                                                                                 | Parts per   million |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
@@ -30,7 +30,7 @@
 | Vegetable, cucurbit, crop group 9                                                                                                         | 0.30                |
 | 1 There are no U.S. registrations allowing use of prothioconazole on the commodities in the Sunflower subgroup 20B as of August 16, 2017. |                     |
 
-(2) Tolerances are established for residues of prothioconazole, 2-\[2-(1-chlorocylcopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl\]-1,2-dihydro-3H-1,2,4-triazole-3-thion, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only prothioconazole and its metabolites prothioconazole-desthio, or α-(1-chlorocyclopropyl)-α-\[(2-chlorophenyl)methyl\]-1H-1,2,4-triazole-1-ethanol, and conjugates that can be converted to these two compounds by acid hydrolysis, calculated as parent in or on the commodity. 
+(2) Tolerances are established for residues of prothioconazole, 2-\[2-(1-chlorocylcopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl\]-1,2-dihydro-3H-1,2,4-triazole-3-thion, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only prothioconazole and its metabolites prothioconazole-desthio, or α-(1-chlorocyclopropyl)-α-\[(2-chlorophenyl)methyl\]-1H-1,2,4-triazole-1-ethanol, and conjugates that can be converted to these two compounds by acid hydrolysis, calculated as parent in or on the commodity.
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -50,10 +50,10 @@
 | Sheep, meat             | 0.02              |
 | Sheep, meat byproducts  | 0.2               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[72 FR 11783, Mar. 14, 2007, as amended at 73 FR 14719, Mar. 19, 2008; 74 FR 14749, Apr. 1, 2009; 74 FR 46699, Sept. 11, 2009; 75 FR 29914, May 28, 2010; 76 FR 61592, Oct. 5, 2011; 78 FR 67052, Nov. 8, 2013; 81 FR 78923, Nov. 10, 2016; 82 FR 38846, Aug. 16, 2017; 83 FR 52991, Oct. 19, 2018\]

@@ -1,6 +1,6 @@
 ##### § 52.2386 Original identification of plan section.
 
-(a) This section identifies the original “Air Implementation Plan for the State of Vermont” and all revisions submitted by Vermont that were federally approved prior to August 14, 2000.
+(a) This section identifies the original “Air Implementation Plan for the State of Vermont” and all revisions submitted by Vermont that were federally approved prior to August 14, 2000.10
 
 (b) The plan was officially submitted on January 29, 1972.
 

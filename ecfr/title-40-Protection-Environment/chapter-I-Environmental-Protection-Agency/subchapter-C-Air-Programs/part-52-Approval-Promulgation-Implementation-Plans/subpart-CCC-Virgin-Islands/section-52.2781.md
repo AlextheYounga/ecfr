@@ -1,6 +1,6 @@
 ##### § 52.2781 Visibility protection.
 
-(a) The requirements of section 169A of the Clean Air Act are not met, because the plan does not include approvable procedures for protection of visibility in mandatory Class I Federal areas.
+(a) The requirements of section 169A of the Clean Air Act are not met, because the plan does not include approvable procedures for protection of visibility in mandatory Class I Federal areas.*Applicability.*X
 
 (b)-(c) \[Reserved\]
 
@@ -27,121 +27,121 @@
 (5) *Best Available Retrofit Technology (BART) measures.* Emissions limitations, the owners/operators subject to this section shall not emit or cause to be emitted SO2, NOX, and PM in excess of the following limitations:
 
 Table 1 to Paragraph (d)(5)
-| Facility | BART unit             | BART controls/limits                        |
-| -------- | --------------------- | ------------------------------------------- |
-| HOVENSA  | Boilers:              |                                             |
-|          | 1 (B-1151)            |                                             |
-|          | 3 (B-1153)            |                                             |
-|          | 4 (B-1154)            |                                             |
-|          | 5 (B-1155)            |                                             |
-|          | 6 (B-3301)            |                                             |
-|          | 7 (B-3302)            |                                             |
-|          | 8 (B-3303)            |                                             |
-|          | 9 (B-3304)            |                                             |
-|          | Turbines:             |                                             |
-|          | GT1 (G-1101E)         |                                             |
-|          | GT2 (G-1101F)         |                                             |
-|          | GT3 (G-1101G)         |                                             |
-|          | GT4 (G-3404)          |                                             |
-|          | GT5 (G-3405)          |                                             |
-|          | GT6 (G-3406)          |                                             |
-|          | GT7 (G-3407)          |                                             |
-|          | GT8 (G-3408)          |                                             |
-|          | GT9 (G-3409)          | Steam Injection for NOX Control             |
-|          | Process Heaters:      |                                             |
-|          | H-101                 |                                             |
-|          | H-104                 |                                             |
-|          | H-200                 |                                             |
-|          | H-201                 |                                             |
-|          | H-202                 |                                             |
-|          | H-401A                |                                             |
-|          | H-401B                |                                             |
-|          | H-401C                |                                             |
-|          | H-1401A               |                                             |
-|          | H-1401B               |                                             |
-|          | H-1500                |                                             |
-|          | H-1501                |                                             |
-|          | H-160                 |                                             |
-|          | H-600                 |                                             |
-|          | H-601                 |                                             |
-|          | H-602                 |                                             |
-|          | H-603                 |                                             |
-|          | H-604                 |                                             |
-|          | H-605                 |                                             |
-|          | H-606                 |                                             |
-|          | H-800A                |                                             |
-|          | H-800B                |                                             |
-|          | H-801                 |                                             |
-|          | H-2101                |                                             |
-|          | H-2102                |                                             |
-|          | H-2201A               |                                             |
-|          | H-2201B               |                                             |
-|          | H-2202                |                                             |
-|          | H-2400                |                                             |
-|          | H-2401                |                                             |
-|          | H-2501                |                                             |
-|          | H-4502                |                                             |
-|          | H-4503                |                                             |
-|          | H-4504                |                                             |
-|          | H-4505                |                                             |
-|          | H-3101A               |                                             |
-|          | H-3101B               |                                             |
-|          | H-4101A               |                                             |
-|          | H-4101B               |                                             |
-|          | H-4401                |                                             |
-|          | H-4402                |                                             |
-|          | H-4451                |                                             |
-|          | H-4452                |                                             |
-|          | H-4453                |                                             |
-|          | H-4454                |                                             |
-|          | H-4455                |                                             |
-|          | H-4201                |                                             |
-|          | H-4202                |                                             |
-|          | H-5401                |                                             |
-|          | H-5402                |                                             |
-|          | H-5451                |                                             |
-|          | H-5452                |                                             |
-|          | H-5453                |                                             |
-|          | H-5454                |                                             |
-|          | H-5455                |                                             |
-|          | H-4601A               |                                             |
-|          | H-4601B               |                                             |
-|          | H-4602                |                                             |
-|          | H-4301A               |                                             |
-|          | H-4301B               |                                             |
-|          | H-4302                |                                             |
-|          | H-5301A               |                                             |
-|          | H-5301B               |                                             |
-|          | H-5302                |                                             |
-|          | TGT unit No. 2 Beavo: |                                             |
-|          | H-4761 & T-4761       |                                             |
-|          | TGI units:            |                                             |
-|          | H-1032                |                                             |
-|          | H-1042                |                                             |
-|          | H-4745                |                                             |
-|          | Compressors:          |                                             |
-|          | C-200A                | Catalytic Converters for NOX and CO control |
-|          | C-200B                | Catalytic Converters for NOX and CO control |
-|          | C-200C                | Catalytic Converters for NOX and CO control |
-|          | C-1500A               |                                             |
-|          | C-1500B               |                                             |
-|          | C-1500C               |                                             |
-|          | C-2400A               | Catalytic Converters for NOx and CO control |
-|          | C-2400B               | Catalytic Converters for NOX and CO control |
-|          | C-4601A               |                                             |
-|          | C-4601B               |                                             |
-|          | C-4601C               |                                             |
-|          | Flares:               |                                             |
-|          | #2 Flare (H-1105)     |                                             |
-|          | #3 Flare (H-1104)     |                                             |
-|          | #5 Flare (H-3351)     |                                             |
-|          | #6 Flare (H-3352)     |                                             |
-|          | #7 Flare (H-3301)     |                                             |
-|          | Water Pumps:          |                                             |
-|          | PD-1602               |                                             |
-|          | PD-1603               |                                             |
-|          | PD-1604               |                                             |
-|          | PD-1605               |                                             |
-|          | PD-1620               |                                             |
+| Facility2 | BART unit             | BART controls/limits                        |
+| --------- | --------------------- | ------------------------------------------- |
+| HOVENSAX  | Boilers:              |                                             |
+|           | 1 (B-1151)            |                                             |
+|           | 3 (B-1153)            |                                             |
+|           | 4 (B-1154)            |                                             |
+|           | 5 (B-1155)            |                                             |
+|           | 6 (B-3301)            |                                             |
+|           | 7 (B-3302)            |                                             |
+|           | 8 (B-3303)            |                                             |
+|           | 9 (B-3304)            |                                             |
+|           | Turbines:             |                                             |
+|           | GT1 (G-1101E)         |                                             |
+|           | GT2 (G-1101F)         |                                             |
+|           | GT3 (G-1101G)         |                                             |
+|           | GT4 (G-3404)          |                                             |
+|           | GT5 (G-3405)          |                                             |
+|           | GT6 (G-3406)          |                                             |
+|           | GT7 (G-3407)          |                                             |
+|           | GT8 (G-3408)          |                                             |
+|           | GT9 (G-3409)          | Steam Injection for NOX Control             |
+|           | Process Heaters:      |                                             |
+|           | H-101                 |                                             |
+|           | H-104                 |                                             |
+|           | H-200                 |                                             |
+|           | H-201                 |                                             |
+|           | H-202                 |                                             |
+|           | H-401A                |                                             |
+|           | H-401B                |                                             |
+|           | H-401C                |                                             |
+|           | H-1401A               |                                             |
+|           | H-1401B               |                                             |
+|           | H-1500                |                                             |
+|           | H-1501                |                                             |
+|           | H-160                 |                                             |
+|           | H-600                 |                                             |
+|           | H-601                 |                                             |
+|           | H-602                 |                                             |
+|           | H-603                 |                                             |
+|           | H-604                 |                                             |
+|           | H-605                 |                                             |
+|           | H-606                 |                                             |
+|           | H-800A                |                                             |
+|           | H-800B                |                                             |
+|           | H-801                 |                                             |
+|           | H-2101                |                                             |
+|           | H-2102                |                                             |
+|           | H-2201A               |                                             |
+|           | H-2201B               |                                             |
+|           | H-2202                |                                             |
+|           | H-2400                |                                             |
+|           | H-2401                |                                             |
+|           | H-2501                |                                             |
+|           | H-4502                |                                             |
+|           | H-4503                |                                             |
+|           | H-4504                |                                             |
+|           | H-4505                |                                             |
+|           | H-3101A               |                                             |
+|           | H-3101B               |                                             |
+|           | H-4101A               |                                             |
+|           | H-4101B               |                                             |
+|           | H-4401                |                                             |
+|           | H-4402                |                                             |
+|           | H-4451                |                                             |
+|           | H-4452                |                                             |
+|           | H-4453                |                                             |
+|           | H-4454                |                                             |
+|           | H-4455                |                                             |
+|           | H-4201                |                                             |
+|           | H-4202                |                                             |
+|           | H-5401                |                                             |
+|           | H-5402                |                                             |
+|           | H-5451                |                                             |
+|           | H-5452                |                                             |
+|           | H-5453                |                                             |
+|           | H-5454                |                                             |
+|           | H-5455                |                                             |
+|           | H-4601A               |                                             |
+|           | H-4601B               |                                             |
+|           | H-4602                |                                             |
+|           | H-4301A               |                                             |
+|           | H-4301B               |                                             |
+|           | H-4302                |                                             |
+|           | H-5301A               |                                             |
+|           | H-5301B               |                                             |
+|           | H-5302                |                                             |
+|           | TGT unit No. 2 Beavo: |                                             |
+|           | H-4761 & T-4761       |                                             |
+|           | TGI units:            |                                             |
+|           | H-1032                |                                             |
+|           | H-1042                |                                             |
+|           | H-4745                |                                             |
+|           | Compressors:          |                                             |
+|           | C-200A                | Catalytic Converters for NOX and CO control |
+|           | C-200B                | Catalytic Converters for NOX and CO control |
+|           | C-200C                | Catalytic Converters for NOX and CO control |
+|           | C-1500A               |                                             |
+|           | C-1500B               |                                             |
+|           | C-1500C               |                                             |
+|           | C-2400A               | Catalytic Converters for NOx and CO control |
+|           | C-2400B               | Catalytic Converters for NOX and CO control |
+|           | C-4601A               |                                             |
+|           | C-4601B               |                                             |
+|           | C-4601C               |                                             |
+|           | Flares:               |                                             |
+|           | #2 Flare (H-1105)     |                                             |
+|           | #3 Flare (H-1104)     |                                             |
+|           | #5 Flare (H-3351)     |                                             |
+|           | #6 Flare (H-3352)     |                                             |
+|           | #7 Flare (H-3301)     |                                             |
+|           | Water Pumps:          |                                             |
+|           | PD-1602               |                                             |
+|           | PD-1603               |                                             |
+|           | PD-1604               |                                             |
+|           | PD-1605               |                                             |
+|           | PD-1620               |                                             |
 
 \[50 FR 28553, July 12, 1985, as amended at 52 FR 45137, Nov. 24, 1987; 77 FR 64421, Oct. 22, 2012; 82 FR 3129, Jan. 10, 2017; 87 FR 7731, Feb. 10, 2022\]

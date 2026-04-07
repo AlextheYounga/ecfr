@@ -1,6 +1,6 @@
 ##### § 52.1837 Original identification of plan section.
 
-(a) This section identifies the original “Air Implementation Plan for the State of North Dakota” and all revisions submitted by North Dakota that were federally approved prior to July 31, 2006.
+(a) This section identifies the original “Air Implementation Plan for the State of North Dakota” and all revisions submitted by North Dakota that were federally approved prior to July 31, 2006.2*1*
 
 (b) The plan was officially submitted on January 24, 1972.
 

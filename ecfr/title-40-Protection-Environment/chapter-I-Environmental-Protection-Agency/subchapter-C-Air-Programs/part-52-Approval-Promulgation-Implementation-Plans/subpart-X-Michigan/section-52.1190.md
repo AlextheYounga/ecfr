@@ -1,6 +1,6 @@
 ##### § 52.1190 Original Identification of plan section.
 
-(a) This section identifies the original “Air Implementation Plan for the State of Michigan” and all revisions submitted by Michigan that were federally approved prior to August 1, 2006.
+(a) This section identifies the original “Air Implementation Plan for the State of Michigan” and all revisions submitted by Michigan that were federally approved prior to August 1, 2006.2*1*
 
 (b) The plan was officially submitted on February 3, 1972.
 

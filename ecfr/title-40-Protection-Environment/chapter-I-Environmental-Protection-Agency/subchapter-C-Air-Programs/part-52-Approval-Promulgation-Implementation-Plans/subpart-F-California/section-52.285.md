@@ -1,6 +1,6 @@
 ##### § 52.285 Review of new sources and modifications—Mojave Desert Air Quality Management District.
 
-(a) *Plan overview*—(1) *What is the purpose of the Federal Implementation Plan (FIP or “plan”)?*
+(a) *Plan overview*—(1) *What is the purpose of the Federal Implementation Plan (FIP or “plan”)?*Federal Register
 
 (i) The FIP has the following purposes: It establishes the Federal preconstruction permitting requirements for new major sources and major modifications located in nonattainment areas within the Mojave Desert Air Quality Management District (MDAQMD or “District”) that are major for a nonattainment pollutant.
 

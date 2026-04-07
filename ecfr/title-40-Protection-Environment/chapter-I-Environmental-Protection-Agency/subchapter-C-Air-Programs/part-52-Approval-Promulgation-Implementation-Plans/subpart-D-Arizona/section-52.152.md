@@ -1,6 +1,6 @@
 ##### § 52.152 Original identification of plan.
 
-(a) This section identified the original “The State of Arizona Air Pollution Control Implementation Plan” and all revisions submitted by the State of Arizona that were federally approved prior to June 30, 2016.
+(a) This section identified the original “The State of Arizona Air Pollution Control Implementation Plan” and all revisions submitted by the State of Arizona that were federally approved prior to June 30, 2016.*Metropolitan Pima County Nonattainment Area Plan for CO*Incorporation Note:
 
 (b) The plan was officially submitted on January 28, 1972.
 
@@ -30,7 +30,9 @@
 
 (6) Arizona Air Pollution Control Regulations (numbers in parentheses indicate recodification of regulations as identified in the Arizona State Implementation Plan Semi-Annual Report submitted to EPA on September 4, 1975).
 
-7-1-1.1 (R9-3-101) (Policy and Legal Authority) 7-1-1.3 (R9-3-103) (Air Pollution Prohibited) 7-1-1.5 (R9-3-105) (Enforcement) 7-1-4.3 (R9-3-403) (Sulfur Emissions: Sulfite Pulp Mills) 7-1-4.4 (R9-3-404) (Sulphur Emissions: Sulfuric Acid Plants) 7-1-4.5 (R9-3-405) (Sulphur Emissions: Other Industries) 7-1-5.1 (R9-3-501) (Storage of Volatile Organic Compounds) 7-1-5.2 (R9-3-502) (Loading of Volatile Organic Compounds) 7-1-5.3 (R9-3-503) (Organic Compound Emissions: Pumps and Compressors) 7-1-5.4 (R9-3-504) (Organic Solvents) 7-1-6.1 (R9-3-601) (Carbon Monoxide Emissions: Industrial) 7-1-7.1 (R9-3-701) (Nitrogen Oxide Emissions: Fuel Burning Installations) 7-1-7.2 (R9-3-702) (Nitrogen Oxide Emissions: Nitric Acid Plants 7-1-8.3 (R9-3-803) (New Installations)
+7-1-1.1 (R9-3-101) (Policy and Legal Authority) 27-1-1.3 (R9-3-103) (Air Pollution Prohibited) 7-1-1.5 (R9-3-105) (Enforcement) 7-1-4.3 (R9-3-403) (Sulfur Emissions: Sulfite Pulp Mills) 7-1-4.4 (R9-3-404) (Sulphur Emissions: Sulfuric Acid Plants) 7-1-4.5 (R9-3-405) (Sulphur Emissions: Other Industries) 7-1-5.1 (R9-3-501) (Storage of Volatile Organic Compounds) 7-1-5.2 (R9-3-502) (Loading of Volatile Organic Compounds) 7-1-5.3 (R9-3-503) (Organic Compound Emissions: Pumps and Compressors) 7-1-5.4 (R9-3-504) (Organic Solvents) 7-1-6.1 (R9-3-601) (Carbon Monoxide Emissions: Industrial) 7-1-7.1 (R9-3-701) (Nitrogen Oxide Emissions: Fuel Burning Installations) 7-1-7.2 (R9-3-702) (Nitrogen Oxide Emissions: Nitric Acid Plants 7-1-8.3 (R9-3-803) (New Installations)
+
+Rule 2 (paragraph uu-yy, Definitions); regulation II (Fuel Burning Equipment): Rule 2G (paragraphs 1-4c, Particulate Emissions), Rule 7A (paragraphs 1-6, Sulfur Dioxide Emissions), Rule 7B (paragraphs 1-4, Nitrogen Oxide Emission); Regulation VI: Rule 1A-H, (Ambient Air Quality Standards); Regulation VII (paragraph A-D, Standards of Performance for New Stationary Sources); and Regulation VIII (paragraphs A-C, Emission Standards for Hazardous Air Pollutants)) submitted on September 30, 1976 by the Director, Arizona Department of Health Services (the Governor's official representative).
 
 Submitted on August 20, 1973.
 

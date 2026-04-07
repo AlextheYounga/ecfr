@@ -1,6 +1,6 @@
 ##### § 52.776 Control strategy: Particulate matter.
 
-(a) The requirements of subpart G of this chapter are not met since the plan does not provide for attainment and maintenance of the secondary standards for particulate matter in the Metropolitan Indianapolis Intrastate Region.
+(a) The requirements of subpart G of this chapter are not met since the plan does not provide for attainment and maintenance of the secondary standards for particulate matter in the Metropolitan Indianapolis Intrastate Region.10*Determination of Attainment.*
 
 (b) APC 4-R of Indiana's “Air Pollution Control Regulations” (emission limitation for particulate matter from fuel combustion sources), which is part of the control strategy for the secondary standards for particulate matter, is disapproved for the Metropolitan Indianapolis Intrastate Region since it does not provide the degree of control needed to attain and maintain the secondary standards for particulate matter. APC 4-R is approved for attainment and maintenance of the primary standards for particulate matter in the Metropolitan Indianapolis Intrastate Region.
 

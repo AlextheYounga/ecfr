@@ -1,6 +1,6 @@
 ##### § 180.324 Bromoxynil; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the herbicide bromoxynil, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels is to be determined by measuring only bromoxynil, 3,5-dibromo-4-hydroxybenzonitrile, resulting from application of its octanoic and/or heptanoic acid ester, in or on the commodities. 
+(a) *General.* (1) Tolerances are established for residues of the herbicide bromoxynil, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels is to be determined by measuring only bromoxynil, 3,5-dibromo-4-hydroxybenzonitrile, resulting from application of its octanoic and/or heptanoic acid ester, in or on the commodities.
 
 | Commodity                  | Parts per million |
 | -------------------------- | ----------------- |
@@ -37,7 +37,7 @@
 | Wheat, hay                 | 4.0               |
 | Wheat, straw               | 2.0               |
 
-(2) Tolerances are established for residues of the herbicide bromoxynil, 3,5-dibromo-4-hydroxybenzonitrile, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels is to be determined by measuring only bromoxynil and its metabolite, 3,5-dibromo-4-hydroxybenzoic acid (DBHA), resulting from application of its octanoic and/or heptanoic acid ester, in or on the commodities. 
+(2) Tolerances are established for residues of the herbicide bromoxynil, 3,5-dibromo-4-hydroxybenzonitrile, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels is to be determined by measuring only bromoxynil and its metabolite, 3,5-dibromo-4-hydroxybenzoic acid (DBHA), resulting from application of its octanoic and/or heptanoic acid ester, in or on the commodities.
 
 | Commodity                | Parts per million |
 | ------------------------ | ----------------- |
@@ -65,10 +65,10 @@
 | Sheep, meat byproducts   | 3.5               |
 | Sheep, meat              | 0.5               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[62 FR 33023, June 18, 1997, as amended at 63 FR 26480, May 13, 1998; 66 FR 47402, Sept. 12, 2001; 70 FR 7046, Feb. 10, 2005; 72 FR 35666, June 29, 2007; 72 FR 41930, Aug. 1, 2007; 76 FR 31491, June 1, 2011\]

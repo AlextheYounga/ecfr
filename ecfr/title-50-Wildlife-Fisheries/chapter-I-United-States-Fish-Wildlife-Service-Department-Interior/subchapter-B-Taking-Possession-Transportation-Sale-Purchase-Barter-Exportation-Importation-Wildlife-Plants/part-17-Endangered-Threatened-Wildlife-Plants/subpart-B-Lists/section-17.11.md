@@ -1,6 +1,6 @@
 ##### § 17.11 Endangered and threatened wildlife.
 
-(a) The list in paragraph (h) of this section contains the wildlife species determined by the Service or the National Marine Fisheries Service (NMFS) of the Department of Commerce's National Oceanic and Atmospheric Administration (hereafter in this section referred to as “the Services”) to be endangered species or threatened species. It also contains the wildlife species treated as endangered species or threatened species because they are similar in appearance to and may be confused with endangered or threatened species (see §§ 17.50 through 17.52). The “Common name,” “Scientific name,” “Where listed,” and “Status” columns provide regulatory information; together, they identify listed wildlife species within the meaning of the Act and describe where they are protected. When a taxon has more than one entry, the “Where listed” or “Status” column will identify its status in each relevant geographic area. The listing of a particular taxon includes all lower taxonomic units.
+(a) The list in paragraph (h) of this section contains the wildlife species determined by the Service or the National Marine Fisheries Service (NMFS) of the Department of Commerce's National Oceanic and Atmospheric Administration (hereafter in this section referred to as “the Services”) to be endangered species or threatened species. It also contains the wildlife species treated as endangered species or threatened species because they are similar in appearance to and may be confused with endangered or threatened species (see §§ 17.50 through 17.52). The “Common name,” “Scientific name,” “Where listed,” and “Status” columns provide regulatory information; together, they identify listed wildlife species within the meaning of the Act and describe where they are protected. When a taxon has more than one entry, the “Where listed” or “Status” column will identify its status in each relevant geographic area. The listing of a particular taxon includes all lower taxonomic units.*“Common name” column.*Federal Register
 
 (b) *“Common name” column.* Although common names are included, they cannot be relied upon for identification of any specimen, since they may vary greatly in local usage. In cases where confusion might arise, one or more synonyms are provided in parentheses within the “Common name” column. If a species has been listed as an Evolutionarily Significant Unit (ESU) or a Distinct Vertebrate Population Segment (DPS), the ESU or DPS names will be provided in brackets “\[ \]” following the common name.
 
@@ -10,14 +10,14 @@
 
 (e) *“Status” column.* Within the “Status” column, the following abbreviations are used:
 
-| Abbreviation | Regulatory status the   abbreviation represents                             |
-| ------------ | --------------------------------------------------------------------------- |
-| E            | Endangered species.                                                         |
-| T            | Threatened species.                                                         |
-| E (S/A)      | Endangered based on similarity of appearance to an existing listed species. |
-| T (S/A)      | Threatened based on similarity of appearance to an existing listed species. |
-| XE           | Essential experimental population (See subpart H of this part).             |
-| XN           | Nonessential experimental population (See subpart H of this part).          |
+| Abbreviation                         | Regulatory status the   abbreviation represents                             |
+| ------------------------------------ | --------------------------------------------------------------------------- |
+| E**Mammals**Addax nasomaculatus   4d | Endangered species.                                                         |
+| T                                    | Threatened species.                                                         |
+| E (S/A)                              | Endangered based on similarity of appearance to an existing listed species. |
+| T (S/A)                              | Threatened based on similarity of appearance to an existing listed species. |
+| XE                                   | Essential experimental population (See subpart H of this part).             |
+| XN                                   | Nonessential experimental population (See subpart H of this part).          |
 
 (f) *“Listing Citations and Applicable Rules” column.* The “Listing Citations and Applicable Rules” column is nonregulatory in nature and is provided for informational and navigational purposes only.
 

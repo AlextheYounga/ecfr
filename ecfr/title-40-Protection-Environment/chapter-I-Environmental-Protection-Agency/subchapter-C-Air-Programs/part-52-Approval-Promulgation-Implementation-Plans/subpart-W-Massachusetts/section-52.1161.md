@@ -1,6 +1,6 @@
 ##### § 52.1161 Incentives for reduction in single-passenger commuter vehicle use.
 
-(a) Definitions:
+(a) Definitions:*Employer*
 
 (1) *Employer* means any person or entity which employs 50 or more employees at any time during a calendar year at an employment facility located in the Boston Intrastate Region.
 

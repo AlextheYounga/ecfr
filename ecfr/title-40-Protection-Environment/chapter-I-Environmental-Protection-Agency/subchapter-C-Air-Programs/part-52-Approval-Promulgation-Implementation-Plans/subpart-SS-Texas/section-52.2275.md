@@ -1,6 +1,6 @@
 ##### § 52.2275 Control strategy and regulations: Ozone.
 
-(a) Section 510.3 of revised Regulation V, which was submitted by the Governor on July 20, 1977, is disapproved.
+(a) Section 510.3 of revised Regulation V, which was submitted by the Governor on July 20, 1977, is disapproved.*Determinations that Certain Areas Did Not Attain the 1-Hour Ozone NAAQS.*
 
 (b) Notwithstanding any provisions to the contrary in the Texas Implementation Plan, the control measures listed in paragraph (d) of this section shall be implemented in accordance with the schedule set forth below.
 

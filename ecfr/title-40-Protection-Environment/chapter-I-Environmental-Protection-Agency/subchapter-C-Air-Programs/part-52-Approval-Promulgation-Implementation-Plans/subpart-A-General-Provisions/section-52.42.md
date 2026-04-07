@@ -1,6 +1,6 @@
 ##### § 52.42 What are the requirements of the Federal Implementation Plans (FIPs) relating to ozone season emissions of nitrogen oxides from the Cement and Concrete Product Manufacturing Industry?
 
-(a) *Definitions.* All terms not defined in this paragraph (a) shall have the meaning given to them in the Act and in subpart A of 40 CFR part 60.
+(a) *Definitions.* All terms not defined in this paragraph (a) shall have the meaning given to them in the Act and in subpart A of 40 CFR part 60.X
 
 *Affected unit* means a cement kiln meeting the applicability criteria of this section.
 
@@ -28,7 +28,7 @@
 
 (d) *Testing and monitoring requirements.* (1) If you are the owner or operator of an affected unit you must conduct performance tests, on an annual basis, in accordance with the applicable reference test methods of 40 CFR part 60, appendix A-4, any alternative test method approved by the EPA as of June 5, 2023, under 40 CFR 59.104(f), 60.8(b)(3), 61.13(h)(1)(ii), 63.7(e)(2)(ii), or 65.158(a)(2) and available at the EPA's website (*https://www.epa.gov/emc/broadly-applicable-approved-alternative-test-methods*), or other methods and procedures approved by the EPA through notice-and-comment rulemaking. The annual performance test does not have to be performed during the ozone season. You must calculate and record the 30-operating day rolling average emissions rate of NOX as the total of all hourly emissions data for a cement kiln in the preceding 30 days, divided by the total tons of clinker produced in that kiln during the same 30-operating day period, using equation 1 to this paragraph (d)(1):
 
-Equation 1 to Paragraph (d)(1) ![](/graphics/er05jn23.002.gif)Where: E30D = 30 kiln operating day average emissions rate of NOX, in lbs/ton of clinker. Ci = Concentration of NOX for hour i, in ppm. Qi = Volumetric flow rate of effluent gas for hour i, where Ci and Qi are on the same basis (either wet or dry), in scf/hr. P = 30 days of clinker production during the same Time period as the NOX emissions measured, in tons. k = Conversion factor, 1.194 × 10−7 for NOX, in lb/scf/ppm. n = Number of kiln operating hours over 30 kiln operating days.
+Equation 1 to Paragraph (d)(1) ![](/graphics/er05jn23.002.gif)Where: 30DE30D = 30 kiln operating day average emissions rate of NOX, in lbs/ton of clinker. Ci = Concentration of NOX for hour i, in ppm. Qi = Volumetric flow rate of effluent gas for hour i, where Ci and Qi are on the same basis (either wet or dry), in scf/hr. P = 30 days of clinker production during the same Time period as the NOX emissions measured, in tons. k = Conversion factor, 1.194 × 10−7 for NOX, in lb/scf/ppm. n = Number of kiln operating hours over 30 kiln operating days.
 
 (2) If you are the owner or operator of an affected unit and are operating a NOX continuous emissions monitoring system (CEMS) that monitors NOX emissions from the affected unit, you may use the CEMS data in lieu of the annual performance tests and parametric monitoring required under this section. You must meet the following requirements for using CEMS to monitor NOX emissions:
 

@@ -1,6 +1,6 @@
 ##### § 52.332 Control strategy: Particulate matter.
 
-(a) On April 9, 1992, the Governor of Colorado submitted the moderate PM-10 nonattainment area plan for the Canon City area. The submittal was made to satisfy those moderate PM-10 nonattainment area SIP requirements which were due for Canon City on November 15, 1991.
+(a) On April 9, 1992, the Governor of Colorado submitted the moderate PM-10 nonattainment area plan for the Canon City area. The submittal was made to satisfy those moderate PM-10 nonattainment area SIP requirements which were due for Canon City on November 15, 1991.10*Determination*
 
 (b)(1) On February 24, 1992, and December 9, 1993, the Governor of Colorado submitted the moderate PM-10 nonattainment area plan for the Pagosa Springs area. The submittal was made to satisfy those moderate PM-10 nonattainment area SIP requirements which were due for Pagosa Springs on November 15, 1991.
 

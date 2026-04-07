@@ -1,6 +1,6 @@
 ##### § 180.252 Tetrachlorvinphos; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the insecticide tetrachlorvinphos \[(Z)-2-chloro-1-(2,4,5-trichlorophenyl) vinyl dimethyl phosphate\], including its metabolites, 1-(2,4,5-trichlorophenyl)-ethanol (free and conjugated forms), 2,4,5-trichloroacetophenone, and 1-(2,4,5-trichlorophenyl)-ethanediol, in or on the following commodities: 
+(a) *General.* Tolerances are established for the combined residues of the insecticide tetrachlorvinphos \[(Z)-2-chloro-1-(2,4,5-trichlorophenyl) vinyl dimethyl phosphate\], including its metabolites, 1-(2,4,5-trichlorophenyl)-ethanol (free and conjugated forms), 2,4,5-trichloroacetophenone, and 1-(2,4,5-trichlorophenyl)-ethanediol, in or on the following commodities:
 
 | Commodity                                                                                                               | Parts per   million |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------- |
@@ -21,10 +21,10 @@
 | Poultry, meat (of which no more than 3.0 ppm is tetrachlorvinphos per se)                                               | 3.0                 |
 | Poultry, meat byproducts, except liver                                                                                  | 2.0                 |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[76 FR 57659, Sept. 16, 2011, as amended at 78 FR 15882, Mar. 13, 2013; 78 FR 53684, Aug. 30, 2013\]

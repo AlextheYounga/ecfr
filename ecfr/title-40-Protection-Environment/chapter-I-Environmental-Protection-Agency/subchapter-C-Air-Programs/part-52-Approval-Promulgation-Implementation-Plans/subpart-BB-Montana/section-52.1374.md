@@ -1,6 +1,6 @@
 ##### § 52.1374 Control strategy: Particulate matter.
 
-(a) On July 8, 1997, the Governor of Montana submitted minor revisions to the Columbia Falls, Butte and Missoula PM-10 SIPS.
+(a) On July 8, 1997, the Governor of Montana submitted minor revisions to the Columbia Falls, Butte and Missoula PM-10 SIPS.*Determination*10
 
 (b) *Determination*—EPA has determined that the Whitefish PM10 “moderate” nonattainment area attained the PM10 national ambient air quality standard by December 31, 1999. This determination is based on air quality monitoring data from 1997, 1998, and 1999. EPA has determined that the Thompson Falls PM10 “moderate” nonattainment area attained the PM10 national ambient air quality standard by December 31, 2000. This determination is based on air quality monitoring data from 1998, 1999, and 2000.
 

@@ -1,6 +1,6 @@
 ##### § 180.434 Propiconazole; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of propiconazole, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only those propiconazole residues convertible to 2,4-dichlorobenzoic acid (2,4-DCBA), expressed as the stoichiometric equivalent of propiconazole, in or on the commodity in the table below: 
+(a) *General.* (1) Tolerances are established for residues of propiconazole, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only those propiconazole residues convertible to 2,4-dichlorobenzoic acid (2,4-DCBA), expressed as the stoichiometric equivalent of propiconazole, in or on the commodity in the table below:
 
 | Commodity                                                 | Parts per million |
 | --------------------------------------------------------- | ----------------- |
@@ -115,28 +115,28 @@
 | Wheat, hay                                                | 30                |
 | Wheat, straw                                              | 20                |
 
-(2) Tolerances are established for propiconazole, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only propiconazole, 1-\[\[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl\]methyl\]-1H-1,2,4-triazole, in or on the commodity. 
+(2) Tolerances are established for propiconazole, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only propiconazole, 1-\[\[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl\]methyl\]-1H-1,2,4-triazole, in or on the commodity.
 
 | Commodity                                                                                           | Parts per   million |
 | --------------------------------------------------------------------------------------------------- | ------------------- |
 | Tea 1                                                                                               | 4.0                 |
 | 1 There are no United States registrations for use of propiconazole on tea as of December 24, 2015. |                     |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of propiconazole (1-\[\[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl\] methyl\]-1H-1,2,4-triazole) and its metabolites determined as 2,4-dichlorobenzoic acid and expressed as parent compound, in connection with use of the pesticide under section 18 emergency exemptions granted by EPA. The tolerances will expire and are revoked on the dates specified in the following table: 
+(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of propiconazole (1-\[\[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl\] methyl\]-1H-1,2,4-triazole) and its metabolites determined as 2,4-dichlorobenzoic acid and expressed as parent compound, in connection with use of the pesticide under section 18 emergency exemptions granted by EPA. The tolerances will expire and are revoked on the dates specified in the following table:
 
 | Commodity | Parts per million | Expiration/revocation date |
 | --------- | ----------------- | -------------------------- |
 | Nectarine | 2.0               | 12/31/13                   |
 | Peach     | 2.0               | 12/31/13                   |
 
-(c) *Tolerances with regional registrations.* A tolerance with regional registration, as defined in § 180.1(l), is established for residues of 1-\[\[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl\]methyl\]-1H-1,2,4-triazole and its metabolites determined as 2,4-dichlorobenzoic acid and expressed as parent compound, in or on the following commodities: 
+(c) *Tolerances with regional registrations.* A tolerance with regional registration, as defined in § 180.1(l), is established for residues of 1-\[\[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl\]methyl\]-1H-1,2,4-triazole and its metabolites determined as 2,4-dichlorobenzoic acid and expressed as parent compound, in or on the following commodities:
 
 | Commodity         | Parts per million |
 | ----------------- | ----------------- |
 | Cranberry         | 1.0               |
 | Rice, wild, grain | 0.5               |
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for the combined residues of the fungicide 1-\[\[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl\] methyl\]-1H-1,2,4-triazole and its metabolites determined as 2,4-dichlorobenzoic acid and expressed as parent compound in or on the following commodities when present therein as a result of application of propiconazole to growing crops in paragraphs (a) and (c) of this section: 
+(d) *Indirect or inadvertent residues.* Tolerances are established for the combined residues of the fungicide 1-\[\[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl\] methyl\]-1H-1,2,4-triazole and its metabolites determined as 2,4-dichlorobenzoic acid and expressed as parent compound in or on the following commodities when present therein as a result of application of propiconazole to growing crops in paragraphs (a) and (c) of this section:
 
 | Commodity       | Parts per million |
 | --------------- | ----------------- |

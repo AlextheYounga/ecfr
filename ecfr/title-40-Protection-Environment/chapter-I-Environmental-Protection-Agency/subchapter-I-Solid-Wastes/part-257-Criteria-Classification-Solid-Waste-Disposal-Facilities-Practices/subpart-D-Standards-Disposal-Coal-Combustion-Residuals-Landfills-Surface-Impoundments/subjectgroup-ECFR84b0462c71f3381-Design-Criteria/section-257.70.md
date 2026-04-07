@@ -1,6 +1,6 @@
 ##### § 257.70 Design criteria for new CCR landfills and any lateral expansion of a CCR landfill.
 
-(a)(1) New CCR landfills and any lateral expansion of a CCR landfill must be designed, constructed, operated, and maintained with either a composite liner that meets the requirements of paragraph (b) of this section or an alternative composite liner that meets the requirements in paragraph (c) of this section, and a leachate collection and removal system that meets the requirements of paragraph (d) of this section.
+(a)(1) New CCR landfills and any lateral expansion of a CCR landfill must be designed, constructed, operated, and maintained with either a composite liner that meets the requirements of paragraph (b) of this section or an alternative composite liner that meets the requirements in paragraph (c) of this section, and a leachate collection and removal system that meets the requirements of paragraph (d) of this section.*composite liner*−7
 
 (2) Prior to construction of an overfill the underlying surface impoundment must meet the requirements of § 257.102(d).
 

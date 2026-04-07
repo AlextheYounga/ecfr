@@ -1,6 +1,6 @@
 ##### § 52.1162 Regulation for bicycle use.
 
-(a) Definitions:
+(a) Definitions:*Bicycle*Federal Register
 
 (1) *Bicycle* means a two-wheel nonmotor-powered vehicle.
 

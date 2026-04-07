@@ -2,7 +2,7 @@
 
 The following table presents the latest dates by which the national standards are to be attained. The dates reflect the information presented in New Hampshire's plan.
 
-| Air quality control region                                                           | SO 2 | PM 10 | NO 2 | CO | O 3 |
+| Air quality control region2                                                          | SO 2 | PM 10 | NO 2 | CO | O 3 |
 | ------------------------------------------------------------------------------------ | ---- | ----- | ---- | -- | --- |
 | NH portion Andoscoggin Valley Interstate AQCR 107                                    | a    | b     | a    | a  | a   |
 | Central NH Intrastate AQCR 149                                                       | a    | b     | a    | a  | a   |

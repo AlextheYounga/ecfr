@@ -1,6 +1,6 @@
 ##### § 52.677 Original identification of plan section.
 
-(a) This section identifies the original “Idaho Air Quality Implementation Plan” and all revisions submitted by Idaho that were federally approved prior to November 12, 2004.
+(a) This section identifies the original “Idaho Air Quality Implementation Plan” and all revisions submitted by Idaho that were federally approved prior to November 12, 2004.*Idaho Code);*10
 
 (b) The plan was officially submitted on January 31, 1972.
 

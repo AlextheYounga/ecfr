@@ -1,6 +1,6 @@
 ##### § 0.1 Organizational units.
 
-The Department of Justice shall consist of the following principal organizational units: 
+The Department of Justice shall consist of the following principal organizational units:
 
 Table 1 to § 0.1
 | **Offices:**                                                                   |

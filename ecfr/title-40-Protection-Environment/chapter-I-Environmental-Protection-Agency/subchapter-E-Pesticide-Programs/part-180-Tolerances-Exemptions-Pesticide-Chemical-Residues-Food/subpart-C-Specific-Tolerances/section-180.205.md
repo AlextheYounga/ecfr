@@ -1,6 +1,6 @@
 ##### § 180.205 Paraquat; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the desiccant, defoliant, and herbicide paraquat (1,1′-dimethyl-4,4′-bipyridinium-ion) derived from application of either the bis(methyl sulfate) or the dichloride salt (both calculated as the cation) in or on the following food commodities: 
+(a) *General.* Tolerances are established for residues of the desiccant, defoliant, and herbicide paraquat (1,1′-dimethyl-4,4′-bipyridinium-ion) derived from application of either the bis(methyl sulfate) or the dichloride salt (both calculated as the cation) in or on the following food commodities:
 
 | Commodity                                                                  | Parts per million |
 | -------------------------------------------------------------------------- | ----------------- |
@@ -139,9 +139,9 @@
 | Wheat, hay                                                                 | 3.5               |
 | Wheat, straw                                                               | 50.0              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration as defined in § 180.1(l), are established for residues of the pesticide paraquat (1,1′-dimethyl-4,4′ bipyridinium ion) derived from application of either the bis(methyl sulfate) or the dichloride salt (both calculated as the cation) in or on the following food commodities: 
+(c) *Tolerances with regional registrations.* Tolerances with regional registration as defined in § 180.1(l), are established for residues of the pesticide paraquat (1,1′-dimethyl-4,4′ bipyridinium ion) derived from application of either the bis(methyl sulfate) or the dichloride salt (both calculated as the cation) in or on the following food commodities:
 
 | Commodity         | Parts per million |
 | ----------------- | ----------------- |
@@ -149,6 +149,6 @@
 | Taro, corm        | 0.1               |
 | Tyfon             | 0.05              |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[46 FR 51614, Oct. 21, 1981\] Editorial Note:For Federal Register citations affecting § 180.205, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

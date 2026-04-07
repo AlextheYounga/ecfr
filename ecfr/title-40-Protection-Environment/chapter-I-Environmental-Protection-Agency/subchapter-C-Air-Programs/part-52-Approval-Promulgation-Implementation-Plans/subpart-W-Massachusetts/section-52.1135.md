@@ -1,6 +1,6 @@
 ##### § 52.1135 Regulation for parking freeze.
 
-(a) Definitions:
+(a) Definitions:*to commence construction*
 
 (1) The phrase *to commence construction* means to engage in a continuous program of on-site construction including site clearance, grading, dredging, or land filling specifically designed for a parking facility in preparation for the fabrication, erection, or installation of the building components of the facility. For the purpose of this paragraph, interruptions resulting from acts of God, strikes, litigation, or other matters beyond the control of the owner shall be disregarded in determining whether a construction or modification program is continuous.
 

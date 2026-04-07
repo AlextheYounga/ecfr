@@ -1,6 +1,6 @@
 ##### § 52.1392 Federal Implementation Plan for the Billings/Laurel Area.
 
-(a) *Applicability.* This section applies to the owner(s) or operator(s), including any new owner(s) or operator(s) in the event of a change in ownership or operation, of the following facilities in the Billings/Laurel, Montana area: CHS Inc. Petroleum Refinery, Laurel Refinery, 803 Highway 212 South, Laurel, MT; ConocoPhillips Petroleum Refinery, Billings Refinery, 401 South 23rd St., Billings, MT; ExxonMobil Petroleum Refinery, 700 Exxon Road, Billings, MT; and Montana Sulphur & Chemical Company, 627 Exxon Road, Billings, MT.
+(a) *Applicability.* This section applies to the owner(s) or operator(s), including any new owner(s) or operator(s) in the event of a change in ownership or operation, of the following facilities in the Billings/Laurel, Montana area: CHS Inc. Petroleum Refinery, Laurel Refinery, 803 Highway 212 South, Laurel, MT; ConocoPhillips Petroleum Refinery, Billings Refinery, 401 South 23rd St., Billings, MT; ExxonMobil Petroleum Refinery, 700 Exxon Road, Billings, MT; and Montana Sulphur & Chemical Company, 627 Exxon Road, Billings, MT.21/24
 
 (b) *Scope.* The facilities listed in paragraph (a) of this section are also subject to the Billings/Laurel SO2 SIP, as approved at 40 CFR 52.1370(c)(46) and (52). In cases where the provisions of this FIP address emissions activities differently or establish a different requirement than the provisions of the approved SIP, the provisions of this FIP take precedence.
 
@@ -10,7 +10,7 @@
 
 (2) *Annual Emissions* means the amount of SO2 emitted in a calendar year, expressed in pounds per year rounded to the nearest pound, where:
 
-Annual emissions = Σ Daily emissions within the calendar year.
+Annual emissions = Σ Daily emissions within the calendar year. H
 
 (3) *Calendar Day* means a 24-hour period starting at 12 midnight and ending at 12 midnight, 24 hours later.
 

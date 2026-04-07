@@ -1,6 +1,6 @@
 ##### § 17.9 Permit applications and information collection requirements.
 
-(a) Address permit applications for activities affecting species listed under the Endangered Species Act, as amended, as follows:
+(a) Address permit applications for activities affecting species listed under the Endangered Species Act, as amended, as follows:1/2
 
 (1) Address activities affecting endangered and threatened species that are native to the United States to the Regional Director for the Region in which the activity is to take place. You can find addresses for the Regional Directors in 50 CFR 2.2. Send applications for interstate commerce in native endangered and threatened species to the Regional Director with lead responsibility for the species. To determine the appropriate region, call the nearest Regional Office:
 

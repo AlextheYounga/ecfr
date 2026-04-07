@@ -1,6 +1,6 @@
 ##### § 52.1230 Control strategy and rules: Particulates.
 
-(a) *Part D*—(1) *Approval.* The State of Minnesota has satisfied the requirements of sections 189(a)(1)(B) and 189(a)(1)(C) and paragraphs 1, 2, 3, 4, 6, 7, 8, and 9 of section 172(c) for the Saint Paul and Rochester areas. The Administrator has determined pursuant to section 189(e) that secondary particulate matter formed from particulate matter precursors does not contribute significantly to exceedances of the NAAQS.
+(a) *Part D*—(1) *Approval.* The State of Minnesota has satisfied the requirements of sections 189(a)(1)(B) and 189(a)(1)(C) and paragraphs 1, 2, 3, 4, 6, 7, 8, and 9 of section 172(c) for the Saint Paul and Rochester areas. The Administrator has determined pursuant to section 189(e) that secondary particulate matter formed from particulate matter precursors does not contribute significantly to exceedances of the NAAQS.10
 
 (2) *No action.* USEPA takes no action on the alternative test method provision of Rule 7005.2910.
 

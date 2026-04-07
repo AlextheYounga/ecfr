@@ -1,6 +1,6 @@
 ##### § 52.2065 Federal implementation plan addressing reasonably available control technology requirements for certain sources.
 
-(a) *Applicability.* This section shall apply to Conemaugh, Homer City, Keystone, and Montour, as defined in this section, as well as any of their successors or assigns. Each of the four listed facilities are individually subject to the requirements of this section.
+(a) *Applicability.* This section shall apply to Conemaugh, Homer City, Keystone, and Montour, as defined in this section, as well as any of their successors or assigns. Each of the four listed facilities are individually subject to the requirements of this section.X
 
 (b) *Effective date.* The effective date of this section is September 30, 2022.
 
@@ -49,12 +49,12 @@
 (f) *NO*X*emission limitations.* (1) The Facility shall achieve and maintain their Facility-wide 30-Day Rolling Average NOX Emission Rate to not exceed their Facility limit in Table 1 to this paragraph (f)(1).
 
 Table 1 to Paragraph (f)(1)—Facility-Wide 30-Day Rolling Average NOX Emission Rate Limits
-| Facility   | Facility-wide 30-day   rolling average NOX   emission rate limit   (lb/MMBtu) |
-| ---------- | ----------------------------------------------------------------------------- |
-| Conemaugh  | 0.072                                                                         |
-| Homer City | 0.096                                                                         |
-| Keystone   | 0.075                                                                         |
-| Montour    | 0.102                                                                         |
+| Facility   X | Facility-wide 30-day   rolling average NOX   emission rate limit   (lb/MMBtu) |
+| ------------ | ----------------------------------------------------------------------------- |
+| Conemaugh    | 0.072                                                                         |
+| Homer City   | 0.096                                                                         |
+| Keystone     | 0.075                                                                         |
+| Montour      | 0.102                                                                         |
 
 (2) The Facility shall achieve and maintain their Unit-specific Daily NOX Mass Emissions to not exceed the Unit-specific limit in Table 2 to this paragraph (f)(2).
 

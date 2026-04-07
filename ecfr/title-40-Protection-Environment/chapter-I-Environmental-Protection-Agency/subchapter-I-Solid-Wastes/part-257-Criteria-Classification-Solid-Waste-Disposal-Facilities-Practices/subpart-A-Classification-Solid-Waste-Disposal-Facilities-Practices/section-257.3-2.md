@@ -1,6 +1,6 @@
 ##### § 257.3-2 Endangered species.
 
-(a) Facilities or practices shall not cause or contribute to the taking of any endangered or threatened species of plants, fish, or wildlife.
+(a) Facilities or practices shall not cause or contribute to the taking of any endangered or threatened species of plants, fish, or wildlife.*Endangered or threatened species*
 
 (b) The facility or practice shall not result in the destruction or adverse modification of the critical habitat of endangered or threatened species as identified in 50 CFR part 17.
 

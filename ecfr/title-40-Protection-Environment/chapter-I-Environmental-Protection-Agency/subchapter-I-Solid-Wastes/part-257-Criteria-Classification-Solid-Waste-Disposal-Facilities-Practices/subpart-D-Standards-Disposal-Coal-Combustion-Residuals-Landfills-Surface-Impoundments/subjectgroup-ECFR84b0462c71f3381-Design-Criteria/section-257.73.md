@@ -1,6 +1,6 @@
 ##### § 257.73 Structural integrity criteria for existing CCR surface impoundments.
 
-(a) The requirements of paragraphs (a)(1) through (4) of this section apply to all existing CCR surface impoundments and legacy CCR surface impoundments, except for those that are incised CCR surface impoundments. If an incised CCR surface impoundment is subsequently modified (*e.g.,* a dike is constructed) such that the CCR unit no longer meets the definition of an incised CCR unit, the CCR unit is subject to the requirements of paragraphs (a)(1) through (4) of this section.
+(a) The requirements of paragraphs (a)(1) through (4) of this section apply to all existing CCR surface impoundments and legacy CCR surface impoundments, except for those that are incised CCR surface impoundments. If an incised CCR surface impoundment is subsequently modified (*e.g.,* a dike is constructed) such that the CCR unit no longer meets the definition of an incised CCR unit, the CCR unit is subject to the requirements of paragraphs (a)(1) through (4) of this section.1/2
 
 (1) No later than, December 17, 2015, the owner or operator of the CCR unit must place on or immediately adjacent to the CCR unit a permanent identification marker, at least six feet high showing the identification number of the CCR unit, if one has been assigned by the state, the name associated with the CCR unit and the name of the owner or operator of the CCR unit.
 

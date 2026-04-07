@@ -1,6 +1,6 @@
 ##### § 180.103 Captan; tolerances for residues.
 
-(a)(1) *General.* Tolerances are established for residues of the fungicide, captan (N-trichloromethylthio-4-cyclohexene-1,2-dicarboximide) in or on the following commodities: 
+(a)(1) *General.* Tolerances are established for residues of the fungicide, captan (N-trichloromethylthio-4-cyclohexene-1,2-dicarboximide) in or on the following commodities:
 
 | Commodity                                         | Parts per million |
 | ------------------------------------------------- | ----------------- |
@@ -44,7 +44,7 @@
 | Vegetable, legume, group 6                        | 0.05              |
 | Vegetable, root and tuber, group 1                | 0.05              |
 
-(2) Tolerances are established for the combined residues of the fungicide, captan (N-trichloromethylthio-4-cyclohexene-1,2-dicarboximide) and its metabolite 1,2,3,6-tetrahydrophthalimide (THPI), measured at THPI, in or on the following commodities: 
+(2) Tolerances are established for the combined residues of the fungicide, captan (N-trichloromethylthio-4-cyclohexene-1,2-dicarboximide) and its metabolite 1,2,3,6-tetrahydrophthalimide (THPI), measured at THPI, in or on the following commodities:
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -65,10 +65,10 @@
 | Sheep, meat             | 0.20              |
 | Sheep, meat byproducts  | 0.30              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[72 FR 52016, Sept. 12, 2007\]

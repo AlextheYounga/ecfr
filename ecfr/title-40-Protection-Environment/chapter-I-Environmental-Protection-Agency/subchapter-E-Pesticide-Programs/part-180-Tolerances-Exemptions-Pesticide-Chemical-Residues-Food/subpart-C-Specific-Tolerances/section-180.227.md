@@ -1,6 +1,6 @@
 ##### § 180.227 Dicamba; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for the residues of the herbicide dicamba (3,6-dichloro-o-anisic acid), including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels is to be determined by measuring only the sum of the residues of dicamba (3,6-dichloro-o-anisic acid) and its metabolite, 3,6-dichloro-5-hydroxy-*o*-anisic acid, calculated as the stoichiometric equivalent of dicamba, in or on the following commodities: 
+(a) *General.* (1) Tolerances are established for the residues of the herbicide dicamba (3,6-dichloro-o-anisic acid), including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels is to be determined by measuring only the sum of the residues of dicamba (3,6-dichloro-o-anisic acid) and its metabolite, 3,6-dichloro-5-hydroxy-*o*-anisic acid, calculated as the stoichiometric equivalent of dicamba, in or on the following commodities:
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
@@ -42,7 +42,7 @@
 | Wheat, hay                                      | 40.0              |
 | Wheat, straw                                    | 30.0              |
 
-(2) Tolerances are established for residues of the herbicide dicamba, 3,6-dichloro-o-anisic acid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels is to be determined by measuring only the residues of dicamba (3,6-dichloro-o-anisic acid) and its metabolite, 3,6-dichloro-2-hydroxybenzoic acid, calculated as the stoichiometric equivalent of dicamba, in or on the following commodities: 
+(2) Tolerances are established for residues of the herbicide dicamba, 3,6-dichloro-o-anisic acid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels is to be determined by measuring only the residues of dicamba (3,6-dichloro-o-anisic acid) and its metabolite, 3,6-dichloro-2-hydroxybenzoic acid, calculated as the stoichiometric equivalent of dicamba, in or on the following commodities:
 
 | Commodity                              | Parts per million |
 | -------------------------------------- | ----------------- |
@@ -69,7 +69,7 @@
 | Sheep, meat                            | 0.25              |
 | Sheep, meat byproducts, except kidney  | 3.0               |
 
-(3) Tolerances are established for residues of the herbicide dicamba, 3,6-dichloro-o-anisic acid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels is to be determined by measuring only the residues of dicamba, 3,6-dichloro-o-anisic acid, and its metabolites, 3,6-dichloro-5-hydroxy-*o*-anisic acid, and 3,6-dichloro-2-hydroxybenzoic acid, calculated as the stoichiometric equivalent of dicamba, in or on the following commodities: 
+(3) Tolerances are established for residues of the herbicide dicamba, 3,6-dichloro-o-anisic acid, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels is to be determined by measuring only the residues of dicamba, 3,6-dichloro-o-anisic acid, and its metabolites, 3,6-dichloro-5-hydroxy-*o*-anisic acid, and 3,6-dichloro-2-hydroxybenzoic acid, calculated as the stoichiometric equivalent of dicamba, in or on the following commodities:
 
 | Commodity                  | Parts per million |
 | -------------------------- | ----------------- |
@@ -81,10 +81,10 @@
 | Soybean, hulls             | 30.0              |
 | Soybean, seed              | 10.0              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[65 FR 33709, May 24, 2000, as amended at 72 FR 35665, June 29, 2007; 73 FR 17918, Apr. 2, 2008; 73 FR 54960, Sept. 24, 2008; 75 FR 60241, Sept. 29, 2010; 76 FR 55806, Sept. 9, 2011; 81 FR 88634, Dec. 8, 2016\]

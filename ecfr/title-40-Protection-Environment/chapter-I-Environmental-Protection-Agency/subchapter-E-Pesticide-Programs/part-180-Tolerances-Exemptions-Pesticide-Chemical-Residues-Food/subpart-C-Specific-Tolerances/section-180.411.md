@@ -1,6 +1,6 @@
 ##### § 180.411 Fluazifop-P-butyl; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide fluazifop-P-butyl, butyl (2*R*)-2-\[4-\[\[5-(trifluoromethyl)-2-pyridinyl\]oxy\]phenoxy\]propanoate, including its metabolites and degradates, in or on the commodities in table 1 to this paragraph (a). Compliance with the tolerance levels specified in table 1 is to be determined by measuring only those fluazifop-P-butyl residues convertible to fluazifop, 2-\[4-\[\[5-(trifluoromethyl)-2-pyridinyl\]oxy\]phenoxy\]propanoic acid, expressed as fluazifop, in or on the commodity”. 
+(a) *General.* Tolerances are established for residues of the herbicide fluazifop-P-butyl, butyl (2*R*)-2-\[4-\[\[5-(trifluoromethyl)-2-pyridinyl\]oxy\]phenoxy\]propanoate, including its metabolites and degradates, in or on the commodities in table 1 to this paragraph (a). Compliance with the tolerance levels specified in table 1 is to be determined by measuring only those fluazifop-P-butyl residues convertible to fluazifop, 2-\[4-\[\[5-(trifluoromethyl)-2-pyridinyl\]oxy\]phenoxy\]propanoic acid, expressed as fluazifop, in or on the commodity”.
 
 Table 1 to Paragraph (a)
 | Commodity                                                           | Parts per   million |
@@ -68,9 +68,9 @@ Table 1 to Paragraph (a)
 | 1 No U.S. registrations.                                            |                     |
 | 2 This tolerance expires on June 26, 2023.                          |                     |
 
-(b) \[Reserved\] 
+(b) \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances are established for residues of the herbicide fluazifop-P-butyl, butyl (2*R*)-2-\[4-\[\[5-(trifluoromethyl)-2-pyridinyl\]oxy\]phenoxy\]propanoate, including its metabolites and degradates, in or on the commodities in table 2 to this paragraph (c). Compliance with the tolerance levels specified in table 2 is to be determined by measuring only those fluazifop-P-butyl residues convertible to fluazifop, 2-\[4-\[\[5-(trifluoromethyl)-2-pyridinyl\]oxy\]phenoxy\]propanoic acid, expressed as fluazifop, in or on the commodity”. 
+(c) *Tolerances with regional registrations.* Tolerances are established for residues of the herbicide fluazifop-P-butyl, butyl (2*R*)-2-\[4-\[\[5-(trifluoromethyl)-2-pyridinyl\]oxy\]phenoxy\]propanoate, including its metabolites and degradates, in or on the commodities in table 2 to this paragraph (c). Compliance with the tolerance levels specified in table 2 is to be determined by measuring only those fluazifop-P-butyl residues convertible to fluazifop, 2-\[4-\[\[5-(trifluoromethyl)-2-pyridinyl\]oxy\]phenoxy\]propanoic acid, expressed as fluazifop, in or on the commodity”.
 
 Table 2 to Paragraph (c)
 | Commodity       | Parts per   million |
@@ -81,7 +81,7 @@ Table 2 to Paragraph (c)
 | Fescue, hay     | 15                  |
 | Pepper, tabasco | 1.0                 |
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for residues of the herbicide fluazifop-P-butyl, butyl (2*R*)-2-\[4-\[\[5-(trifluoromethyl)-2-pyridinyl\]oxy\]phenoxy\]propanoate, including its metabolites and degradates, in or on the commodities in table 3 to this paragraph (d). Compliance with the tolerance levels specified in table 3 is to be determined by measuring only those fluazifop-P-butyl residues convertible to 5-trifluoromethyl-2-pyridinone (TFP), expressed as TFP, in or on the commodity. 
+(d) *Indirect or inadvertent residues.* Tolerances are established for residues of the herbicide fluazifop-P-butyl, butyl (2*R*)-2-\[4-\[\[5-(trifluoromethyl)-2-pyridinyl\]oxy\]phenoxy\]propanoate, including its metabolites and degradates, in or on the commodities in table 3 to this paragraph (d). Compliance with the tolerance levels specified in table 3 is to be determined by measuring only those fluazifop-P-butyl residues convertible to 5-trifluoromethyl-2-pyridinone (TFP), expressed as TFP, in or on the commodity.
 
 Table 3 to Paragraph (d)
 | Commodity           | Parts per   million |

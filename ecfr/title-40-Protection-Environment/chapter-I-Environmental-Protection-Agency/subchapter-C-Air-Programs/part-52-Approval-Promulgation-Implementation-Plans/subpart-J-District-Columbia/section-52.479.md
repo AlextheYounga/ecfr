@@ -1,6 +1,6 @@
 ##### § 52.479 Source-specific requirements.
 
-(a) Approval of source-specific requirements for the Blue Plains Advanced Wastewater Treatment Plant includes EPA incorporating by reference into § 52.470(d) certain redacted portions of Permit No. 6372-C2/0 approved by the District of Columbia on April 20, 2018 to Construct and Operate New Biosolids Handling Facilities issued to the District of Columbia Water and Sewer Authority and as approved on March 25, 2020.
+(a) Approval of source-specific requirements for the Blue Plains Advanced Wastewater Treatment Plant includes EPA incorporating by reference into § 52.470(d) certain redacted portions of Permit No. 6372-C2/0 approved by the District of Columbia on April 20, 2018 to Construct and Operate New Biosolids Handling Facilities issued to the District of Columbia Water and Sewer Authority and as approved on March 25, 2020.X
 
 (1) Specifically, EPA is incorporating by reference into § 52.470(d) certain portions of Permit No. 6372-C2/O to Construct and Operate New Biosolids Handling Facilities issued to District of Columbia Water and Sewer Authority as redacted by the District of Columbia:
 

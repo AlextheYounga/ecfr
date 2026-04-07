@@ -1,6 +1,6 @@
 ##### § 180.532 Cyprodinil; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the fungicide cyprodinil, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only cyprodinil 4-cyclopropyl-6-methyl-*N*-phenyl-2-pyrimidinamine. 
+(a) *General.* (1) Tolerances are established for residues of the fungicide cyprodinil, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only cyprodinil 4-cyclopropyl-6-methyl-*N*-phenyl-2-pyrimidinamine.
 
 Table 1 to Paragraph (a)
 | Commodity                                                           | Parts per   million |
@@ -69,7 +69,7 @@ Table 1 to Paragraph (a)
 | Wax jambu                                                           | 1.5                 |
 | 1 Import only.                                                      |                     |
 
-(2) Tolerances are established for residues of the fungicide cyprodinil, including its metabolites and degradates, in the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of cyprodinil 4-cyclopropyl-6-methyl-*N*-phenyl-2-pyrimidinamine and free and conjugated CGA-304075 4-(4-cyclopropyl-6-methyl-pyrimidin-2-ylamino)-phenol, calculated as the stoichiometric equivalent of cyprodinil. 
+(2) Tolerances are established for residues of the fungicide cyprodinil, including its metabolites and degradates, in the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of cyprodinil 4-cyclopropyl-6-methyl-*N*-phenyl-2-pyrimidinamine and free and conjugated CGA-304075 4-(4-cyclopropyl-6-methyl-pyrimidin-2-ylamino)-phenol, calculated as the stoichiometric equivalent of cyprodinil.
 
 | Commodity               | Parts per   million |
 | ----------------------- | ------------------- |
@@ -78,10 +78,10 @@ Table 1 to Paragraph (a)
 | Horse, meat byproducts  | 0.02                |
 | Sheep, meat byproducts  | 0.02                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[63 FR 17706, Apr. 10, 1998\] Editorial Note:For Federal Register citations affecting § 180.532, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

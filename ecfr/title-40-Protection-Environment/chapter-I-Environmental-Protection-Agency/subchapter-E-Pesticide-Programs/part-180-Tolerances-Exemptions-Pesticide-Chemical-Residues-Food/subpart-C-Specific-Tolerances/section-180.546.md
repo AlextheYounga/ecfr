@@ -1,6 +1,6 @@
 ##### § 180.546 Mefenoxam; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of mefenoxam, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only metalaxyl (methyl *N*-(2,6-dimethylphenyl)-*N*-(methoxyacetyl)-*DL*-alaninate). 
+(a) *General.* Tolerances are established for residues of mefenoxam, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only metalaxyl (methyl *N*-(2,6-dimethylphenyl)-*N*-(methoxyacetyl)-*DL*-alaninate).
 
 Table 1 to Paragraph (a)
 | Commodity                                                  | Parts per million |
@@ -43,11 +43,11 @@ Table 1 to Paragraph (a)
 | Wasabi, tops                                               | 6.0               |
 | 1 There is no U.S. registration as of November 4, 2024.    |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of mefenoxam in or on the food commodities when present therein as a result of the application of mefenoxam to growing crops listed in paragraph (a) of this section and other non-food crops to read as follows: 
+(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of mefenoxam in or on the food commodities when present therein as a result of the application of mefenoxam to growing crops listed in paragraph (a) of this section and other non-food crops to read as follows:
 
 Table 2 to Paragraph (d)
 | Commodity | Parts per   million |

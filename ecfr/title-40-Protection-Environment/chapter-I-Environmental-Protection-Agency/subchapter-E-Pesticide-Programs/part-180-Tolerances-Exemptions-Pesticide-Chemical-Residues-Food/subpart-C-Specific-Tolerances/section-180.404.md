@@ -1,6 +1,6 @@
 ##### § 180.404 Profenofos; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide profenofos (O-(4-bromo-2-chlorophenyl)-O-ethyl-S-propyl phosphorothioate) in or on the following food commodities: 
+(a) *General.* Tolerances are established for residues of the insecticide profenofos (O-(4-bromo-2-chlorophenyl)-O-ethyl-S-propyl phosphorothioate) in or on the following food commodities:
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -20,10 +20,10 @@
 | Sheep, meat             | 0.05              |
 | Sheep, meat byproducts  | 0.05              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[65 FR 33700, May 24, 2000, as amended at 66 FR 50833, Oct. 5, 2001; 67 FR 49617, July 31, 2002; 72 FR 54579, Sept. 26, 2007\]

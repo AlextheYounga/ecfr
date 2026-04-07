@@ -1,6 +1,6 @@
 ##### § 180.506 Cyclanilide; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the plant growth regulator, cyclanilide, \[1-(2,4-dichlorophenylaminocarbonyl)-cyclopropane carboxylic acid\] determined as 2,4-dichloroaniline (calculated as cyclanilide) in or on the following food commodities and processed feed: 
+(a) *General.* Tolerances are established for residues of the plant growth regulator, cyclanilide, \[1-(2,4-dichlorophenylaminocarbonyl)-cyclopropane carboxylic acid\] determined as 2,4-dichloroaniline (calculated as cyclanilide) in or on the following food commodities and processed feed:
 
 | Commodity                              | Parts Per Million |
 | -------------------------------------- | ----------------- |
@@ -28,10 +28,10 @@
 | Sheep, meat byproducts, except kidney  | 0.20              |
 | Sheep, kidney                          | 2.0               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[62 FR 28355, May 23, 1997; 62 FR 34182, June 25, 1997\]

@@ -1,6 +1,6 @@
 ##### § 52.725 Control strategy: Particulates.
 
-(a) \[Reserved\]
+(a) \[Reserved\]10*Determination of Attainment.*
 
 (b) Part D—Disapproval. (1) U.S. EPA disapproves the provisions of Rule 203(f) which allow the use of an equivalent method without review and approval of that method. Any source subject to Rule 203(f) which chooses to use an equivalent method must have that equivalent method submitted to U.S. EPA and approved as a SIP revision.
 

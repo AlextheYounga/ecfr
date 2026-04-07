@@ -1,6 +1,6 @@
 ##### § 180.517 Fipronil; tolerances for residues.
 
-(a) *General.* Therefore, tolerances are established for combined residues of the insecticide fipronil (5-amino-1-\[2,6-dichloro-4-(trifluoromethyl)phenyl\]-4-\[(1R,S)-(trifluoromethyl)sulfinyl\]-1H-pyrazole-3-carbonitrile) and its metabolites 5-amino-1-\[2,6-dichloro-4-(trifluoromethyl)phenyl\]-4-\[(trifluoromethyl) sulfonyl\]-1H-pyrazole-3-carbonitrile and 5-amino-1-\[2,6-dichloro-4-(trifluoromethyl) phenyl\]-4-\[(trifluoromethyl)thio\]-1H-pyrazole-3-carbonitrile and its photodegradate 5-amino-1-(2,6-dichloro-4-(trifluoromethyl)phenyl\]-4-\[(1R,S)-(trifluoromethyl)\]-1H-pyrazole-3-carbonitrile in or on the following items at the levels specified: 
+(a) *General.* Therefore, tolerances are established for combined residues of the insecticide fipronil (5-amino-1-\[2,6-dichloro-4-(trifluoromethyl)phenyl\]-4-\[(1R,S)-(trifluoromethyl)sulfinyl\]-1H-pyrazole-3-carbonitrile) and its metabolites 5-amino-1-\[2,6-dichloro-4-(trifluoromethyl)phenyl\]-4-\[(trifluoromethyl) sulfonyl\]-1H-pyrazole-3-carbonitrile and 5-amino-1-\[2,6-dichloro-4-(trifluoromethyl) phenyl\]-4-\[(trifluoromethyl)thio\]-1H-pyrazole-3-carbonitrile and its photodegradate 5-amino-1-(2,6-dichloro-4-(trifluoromethyl)phenyl\]-4-\[(1R,S)-(trifluoromethyl)\]-1H-pyrazole-3-carbonitrile in or on the following items at the levels specified:
 
 | Commodity                                     | Parts per million |
 | --------------------------------------------- | ----------------- |
@@ -36,16 +36,16 @@
 | Sheep, meat                                   | 0.04              |
 | Sheep, meat byproducts, except liver          | 0.04              |
 
-(b) *Section 18 emergency exemptions..* Time-limited tolerances are established for combined residues of the insecticide, fipronil, 5-amino-1-(2,6-dichloro-4-(trifluoromethyl) phenyl)-4-((1,R,S)-trifluoromethyl)sulfinyl)-1-H-pyrazole-3-carbonitrile and its 2 metabolites MB45950 (5-amino-1-(2,6-dichloro-4-(trifluoromethyl)phenyl)-4-\[(trifluoromethyl)thio\]-1H-pyrazole-3-carbonitrile) and MB46136 (5-amino-1-(2,6-dichloro-4-(trifluoromethyl)phenyl)-4-\[(trifluoromethyl)sulfonyl\]-1H-pyrazole-3-carbonitrile) and its photodegradate MB46513 (5-amino-1-(2,6-dichloro-4-(trifluoromethyl)phenyl\]-4-\[(1R,S)-(trifluoromethyl)\]-1H-pyrazole-3-carbonitrile), in connection with use of the pesticide under Section 18 emergency exemptions granted by EPA. The tolerances expire and are revoked on the dates specified in the table for this paragraph. 
+(b) *Section 18 emergency exemptions..* Time-limited tolerances are established for combined residues of the insecticide, fipronil, 5-amino-1-(2,6-dichloro-4-(trifluoromethyl) phenyl)-4-((1,R,S)-trifluoromethyl)sulfinyl)-1-H-pyrazole-3-carbonitrile and its 2 metabolites MB45950 (5-amino-1-(2,6-dichloro-4-(trifluoromethyl)phenyl)-4-\[(trifluoromethyl)thio\]-1H-pyrazole-3-carbonitrile) and MB46136 (5-amino-1-(2,6-dichloro-4-(trifluoromethyl)phenyl)-4-\[(trifluoromethyl)sulfonyl\]-1H-pyrazole-3-carbonitrile) and its photodegradate MB46513 (5-amino-1-(2,6-dichloro-4-(trifluoromethyl)phenyl\]-4-\[(1R,S)-(trifluoromethyl)\]-1H-pyrazole-3-carbonitrile), in connection with use of the pesticide under Section 18 emergency exemptions granted by EPA. The tolerances expire and are revoked on the dates specified in the table for this paragraph.
 
 | Commodity | Parts per million | Expiration/revocation date |
 | --------- | ----------------- | -------------------------- |
 | Rutabaga  | 1.0               | 12/31/16                   |
 | Turnip    | 1.0               | 12/31/16                   |
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for combined indirect or inadvertent residues of the insecticide fipronil and its metabolites and photodegradate in or on food commodities when present therein as a result of the application of fipronil to growing crops listed in paragraphs (a) and (b) of this section and other nonfood crops to read as follows: 
+(d) *Indirect or inadvertent residues.* Tolerances are established for combined indirect or inadvertent residues of the insecticide fipronil and its metabolites and photodegradate in or on food commodities when present therein as a result of the application of fipronil to growing crops listed in paragraphs (a) and (b) of this section and other nonfood crops to read as follows:
 
 | Commodity     | Parts per million |
 | ------------- | ----------------- |

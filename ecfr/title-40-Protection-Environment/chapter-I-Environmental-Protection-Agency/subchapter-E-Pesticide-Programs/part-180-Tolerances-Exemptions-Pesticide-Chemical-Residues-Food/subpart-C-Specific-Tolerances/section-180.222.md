@@ -1,6 +1,6 @@
 ##### § 180.222 Prometryn; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide prometryn, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only prometryn, 2,4-bis(isopropylamino)-6-methylthio-*s*-triazine, in or on the following raw agricultural commodities: 
+(a) *General.* Tolerances are established for residues of the herbicide prometryn, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only prometryn, 2,4-bis(isopropylamino)-6-methylthio-*s*-triazine, in or on the following raw agricultural commodities:
 
 | Commodity                                | Parts per million |
 | ---------------------------------------- | ----------------- |
@@ -25,11 +25,11 @@
 | Sesame, seed                             | 0.05              |
 | Swiss chard                              | 0.50              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional exemptions.* \[Reserved\] 
+(c) *Tolerances with regional exemptions.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of the herbicide prometryn, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only prometryn, 2,4-bis(isopropylamino)-6-methylthio-*s*-triazine, in or on the following raw agricultural commodities. 
+(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of the herbicide prometryn, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only prometryn, 2,4-bis(isopropylamino)-6-methylthio-*s*-triazine, in or on the following raw agricultural commodities.
 
 | Commodity         | Parts per million |
 | ----------------- | ----------------- |

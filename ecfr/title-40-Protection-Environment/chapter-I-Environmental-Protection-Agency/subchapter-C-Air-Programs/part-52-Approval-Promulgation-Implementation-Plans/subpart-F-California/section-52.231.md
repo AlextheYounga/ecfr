@@ -1,6 +1,6 @@
 ##### § 52.231 Regulations: Sulfur oxides.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Sulfur*
 
 (b) The deletion of the following rules or portions of rules is disapproved, since an adequate control strategy demonstration has not been submitted indicating that the deletions of the control requirements contained in those rules would not interfere with the attainment or maintenance of the National Ambient Air Quality Standard for Sulfur Oxides.
 

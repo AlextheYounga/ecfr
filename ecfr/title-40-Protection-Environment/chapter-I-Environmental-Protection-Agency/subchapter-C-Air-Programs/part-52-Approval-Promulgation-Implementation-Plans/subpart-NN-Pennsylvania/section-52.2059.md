@@ -1,6 +1,6 @@
 ##### § 52.2059 Control strategy: Particulate matter.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Determination of Attainment.*2.5
 
 (b) EPA approves the PM-10 attainment demonstration for the Liberty Borough Area of Allegheny County submitted by the Pennsylvania Department of Environmental Protection on January 6, 1994.
 
@@ -21,9 +21,9 @@
 (j) *Determination of Clean Data.* EPA has determined, as of May 2, 2014, that based on 2010-2012 ambient air quality data, the Pittsburgh-Beaver Valley, Pennsylvania fine particulate matter (PM2.5) nonattainment area has attained the 2006 24-hour PM2.5 national ambient air quality standards (NAAQS) and approves the motor vehicle emission budgets used for transportation conformity purposes. This determination suspends the requirements for the Pittsburgh-Beaver Valley, Pennsylvania PM2.5 nonattainment area to submit an attainment demonstration, associated reasonably available control measures, a reasonable further progress plan, contingency measures, and other planning SIPs related to attainment of the standard for as long as this area continues to meet the 2006 24-hour PM2.5 NAAQS. If EPA determines, after notice-and-comment rulemaking, that this area no longer meets the 2006 24-hour PM2.5 NAAQS, the corresponding determination of attainment for that area shall be withdrawn.
 
 Pittsburgh-Beaver Valley's Motor Vehicle Emission Budgets for the 2006 PM2.5 NAAQS
-| Geographic area | Year | PM2.5   (tons/year) | NOX   (tons/year) |
-| --------------- | ---- | ------------------- | ----------------- |
-| Pittsburgh Area | 2011 | 961.71              | 28,973.05         |
+| Geographic area2.5 | Year | PM2.5   (tons/year) | NOX   (tons/year) |
+| ------------------ | ---- | ------------------- | ----------------- |
+| Pittsburgh Area    | 2011 | 961.71              | 28,973.05         |
 
 (k) EPA approves the maintenance plan for the Harrisburg-Lebanon-Carlisle nonattainment area for the 1997 annual PM2.5 NAAQS submitted by the Commonwealth of Pennsylvania on April 22, 2014. The maintenance plan includes the 2017 and 2025 PM2.5 and NOX mobile vehicle emissions budgets (MVEBs) for the Dauphin, Lebanon and Cumberland Counties to be applied to all future transportation conformity determination and analyses for the Harrisburg-Lebanon-Carlisle nonattainment area for the 1997 annual PM2.5 NAAQS.
 

@@ -1,6 +1,6 @@
 ##### § 52.777 Control strategy: photochemical oxidants (hydrocarbons).
 
-(a) The requirements of subpart G of this chapter are not met because the plan does not provide for attainment and maintenance of the national standards for photochemical oxidants (hydrocarbons) in the Metropolitan Indianapolis Intrastate Region by May 31, 1975.
+(a) The requirements of subpart G of this chapter are not met because the plan does not provide for attainment and maintenance of the national standards for photochemical oxidants (hydrocarbons) in the Metropolitan Indianapolis Intrastate Region by May 31, 1975.*Approval.*X
 
 (b) The requirements of subpart G are not met by Revised APC-15 (November 8, 1974 submission) because it does not provide for attainment and maintenance of the photochemical oxidant (hydrocarbon) standards throughout Indiana.
 

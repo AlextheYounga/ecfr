@@ -1,13 +1,13 @@
 ##### § 52.1189 Control strategy: Sulfur dioxide (SO2).
 
-(a) The plan submitted by the State on May 31, 2016 to attain the 2010 1-hour primary sulfur dioxide (SO2) national ambient air quality standard for the Detroit SO2 nonattainment area does not meet the requirements of Clean Air Act (CAA) section 172 with respect to SO2 emissions from the U.S. Steel (Ecorse and Zug Island), EES Coke, Cleveland-Cliffs Steel Corporation (formerly AK or Severstal Steel), and Dearborn Industrial Generation (DIG) facilities in the Detroit, Michigan area. These requirements for these four facilities are satisfied by paragraphs (b)through(e) of this section, respectively.
+(a) The plan submitted by the State on May 31, 2016 to attain the 2010 1-hour primary sulfur dioxide (SO2) national ambient air quality standard for the Detroit SO2 nonattainment area does not meet the requirements of Clean Air Act (CAA) section 172 with respect to SO2 emissions from the U.S. Steel (Ecorse and Zug Island), EES Coke, Cleveland-Cliffs Steel Corporation (formerly AK or Severstal Steel), and Dearborn Industrial Generation (DIG) facilities in the Detroit, Michigan area. These requirements for these four facilities are satisfied by paragraphs (b)through(e) of this section, respectively.*SO*
 
 (b) This section addresses and satisfies CAA section 172 requirements for the Detroit SO2 nonattainment area by specifying the necessary emission limits and other control measures applicable to the U.S. Steel Ecorse and Zug Island facilities. This section applies to the owner(s) and operator(s) of the facilities located at 1 Quality Drive and 1300 Zug Island Road in Detroit, Michigan. The requirements in this section for the Hot Strip Mill Slab Reheat Furnaces 1-5, No. 2 Baghouse, Main Plant Boiler No. 8, and Main Plant Boiler No. 9 apply to the owner and operator of the U.S. Steel Ecorse facility, and the requirements in this section for Boilerhouse 1, Boilerhouse 2, A1 Blast Furnace, B2 Blast Furnace, D4 Blast Furnace, A/B Blast Furnace Flares, and D Furnace Flare apply to the owner and operator of the U.S. Steel Zug Island facility.
 
 (1) *SO*2*emission limits.* (i) Beginning on the effective date of the FIP, no owner or operator shall emit SO2 from the following units in excess of the following limits:
 
 Table 1 to Paragraph (b)(1)(i)
-| Unit                                 | SO2 emission limit   (lbs/hr) |
+| Unit2                                | SO2 emission limit   (lbs/hr) |
 | ------------------------------------ | ----------------------------- |
 | Boilerhouse 1 (all stacks combined)  | 55.00                         |
 | Hot Strip Mill—Slab Reheat Furnace 1 | 0.31                          |

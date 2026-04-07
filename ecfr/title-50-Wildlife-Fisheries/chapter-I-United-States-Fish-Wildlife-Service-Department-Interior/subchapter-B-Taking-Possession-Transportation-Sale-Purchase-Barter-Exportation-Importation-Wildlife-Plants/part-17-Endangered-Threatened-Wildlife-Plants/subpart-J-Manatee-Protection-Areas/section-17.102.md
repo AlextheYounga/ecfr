@@ -1,6 +1,6 @@
 ##### § 17.102 Definitions.
 
-In addition to definitions contained in the Acts, part 10 of this subchapter, and § 17.3 of this part, and unless the context otherwise requires, in this subpart:
+In addition to definitions contained in the Acts, part 10 of this subchapter, and § 17.3 of this part, and unless the context otherwise requires, in this subpart:*Acts*
 
 *Acts* means the Endangered Species Act of 1973, as amended (87 Stat. 884, 16 U.S.C. 1531-1543) and the Marine Mammal Protection Act of 1972, as amended (86 Stat. 1027, 16 U.S.C. 1361-1407);
 

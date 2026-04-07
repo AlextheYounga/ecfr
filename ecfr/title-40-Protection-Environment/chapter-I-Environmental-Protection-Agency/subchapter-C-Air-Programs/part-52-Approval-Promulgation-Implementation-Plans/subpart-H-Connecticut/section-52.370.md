@@ -1,6 +1,6 @@
 ##### § 52.370 Identification of plan.
 
-(a) Title of plan: “State of Connecticut Air Implementation Plan.”
+(a) Title of plan: “State of Connecticut Air Implementation Plan.”*New Source Ambient Impact Analysis Guideline,*2
 
 (b) The plan was officially submitted on March 3, 1972.
 

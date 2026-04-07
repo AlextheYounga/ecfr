@@ -1,6 +1,6 @@
 ##### § 52.40 What are the requirements of the Federal Implementation Plans (FIPs) relating to ozone season emissions of nitrogen oxides from sources not subject to the CSAPR ozone season trading program?
 
-(a) *Purpose.* This section establishes Federal Implementation Plan requirements for new and existing units in the industries specified in paragraph (b) of this section to eliminate significant contribution to nonattainment, or interference with maintenance, of the 2015 8-hour ozone National Ambient Air Quality Standards in other states pursuant to 42 U.S.C. 7410(a)(2)(D)(i)(I).
+(a) *Purpose.* This section establishes Federal Implementation Plan requirements for new and existing units in the industries specified in paragraph (b) of this section to eliminate significant contribution to nonattainment, or interference with maintenance, of the 2015 8-hour ozone National Ambient Air Quality Standards in other states pursuant to 42 U.S.C. 7410(a)(2)(D)(i)(I).X
 
 (b) *Definitions.* The terms used in this section and §§ 52.41 through § 52.46 are defined as follows:
 

@@ -1,6 +1,6 @@
 ##### § 52.1426 Original identification of plan section.
 
-(a) This section identifies the original “Nebraska Air Quality Implementation Plan” and all revisions submitted by Nebraska that were Federally approved prior to July 1, 1998.
+(a) This section identifies the original “Nebraska Air Quality Implementation Plan” and all revisions submitted by Nebraska that were Federally approved prior to July 1, 1998.10*013,*
 
 (b) The plan was officially submitted on January 28, 1972.
 

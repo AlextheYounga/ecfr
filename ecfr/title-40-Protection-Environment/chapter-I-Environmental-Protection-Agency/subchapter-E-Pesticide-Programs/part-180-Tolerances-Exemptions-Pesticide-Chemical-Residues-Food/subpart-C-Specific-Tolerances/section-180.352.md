@@ -1,6 +1,6 @@
 ##### § 180.352 Terbufos; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the insecticide terbufos (phosphorodithioic acid, *S*-(t-butylthio)methyl *O,O*-diethyl ester) and its phosphorylated (cholinesterase-inhibiting) metabolites (phosphorothioic acid, *S*-(t-butylthio)methyl *O,O*-diethyl ester; phosphorothioic acid, *S*-(t-butylsulfinyl)methyl *O,O*-diethyl ester; phosphorothioic acid, *S*-(t-butylsulfonyl)methyl *O,O*-diethyl ester; phosphorodithioic acid, *S*-(t-butylsulfinyl)methyl *O,O*-diethyl ester; and phosphorodithioic acid, *S*-(t-butylsulfonyl)methyl *O,O*-diethyl ester) in or on food commodities: 
+(a) *General.* Tolerances are established for the combined residues of the insecticide terbufos (phosphorodithioic acid, *S*-(t-butylthio)methyl *O,O*-diethyl ester) and its phosphorylated (cholinesterase-inhibiting) metabolites (phosphorothioic acid, *S*-(t-butylthio)methyl *O,O*-diethyl ester; phosphorothioic acid, *S*-(t-butylsulfinyl)methyl *O,O*-diethyl ester; phosphorothioic acid, *S*-(t-butylsulfonyl)methyl *O,O*-diethyl ester; phosphorodithioic acid, *S*-(t-butylsulfinyl)methyl *O,O*-diethyl ester; and phosphorodithioic acid, *S*-(t-butylsulfonyl)methyl *O,O*-diethyl ester) in or on food commodities:
 
 | Commodity                                                                                                     | Parts per million |
 | ------------------------------------------------------------------------------------------------------------- | ----------------- |
@@ -21,10 +21,10 @@
 | Sorghum, grain, stover                                                                                        | 0.5               |
 | 1 There are no U. S. registrations as of August 2, 1995, for the use of terbufos on the growing crop, coffee. |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[73 FR 53740, Sept. 17, 2008\]

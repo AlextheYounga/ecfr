@@ -1,6 +1,6 @@
 ##### § 180.441 Quizalofop ethyl; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the herbicide quizalofop ethyl, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only those quizalofop ethyl residues convertible to 2-methoxy-6-chloroquinoxaline, expressed as the stoichiometric equivalent of quizalofop ethyl, in or on the commodity. 
+(a) *General.* (1) Tolerances are established for residues of the herbicide quizalofop ethyl, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only those quizalofop ethyl residues convertible to 2-methoxy-6-chloroquinoxaline, expressed as the stoichiometric equivalent of quizalofop ethyl, in or on the commodity.
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                            | Parts per   million |
@@ -54,7 +54,7 @@ Table 1 to Paragraph (a)(1)
 | Wheat, milled byproducts                                             | 0.40                |
 | Wheat, straw                                                         | 0.80                |
 
-(2) Tolerances are established for residues of the herbicide quizalofop ethyl, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only those quizalofop ethyl residues convertible to quizalofop (2-\[4-(6-chloroquinoxalin-2-yl-oxy)phenoxy\]propanoic acid), expressed as quizalofop, in or on the commodity. 
+(2) Tolerances are established for residues of the herbicide quizalofop ethyl, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only those quizalofop ethyl residues convertible to quizalofop (2-\[4-(6-chloroquinoxalin-2-yl-oxy)phenoxy\]propanoic acid), expressed as quizalofop, in or on the commodity.
 
 | Commodity                | Parts per million |
 | ------------------------ | ----------------- |
@@ -80,20 +80,20 @@ Table 1 to Paragraph (a)(1)
 | Sheep, meat              | 0.02              |
 | Sheep, meat byproducts   | 0.05              |
 
-(3) Tolerances are established for residues of the herbicide quizalofop-P-ethyl, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring quizalofop ethyl and quizalofop acid, expressed as the stoichiometric equivalent of quizalofop ethyl, in or on the commodity. 
+(3) Tolerances are established for residues of the herbicide quizalofop-P-ethyl, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring quizalofop ethyl and quizalofop acid, expressed as the stoichiometric equivalent of quizalofop ethyl, in or on the commodity.
 
 | Commodity                  | Parts per   million |
 | -------------------------- | ------------------- |
 | Fish-shellfish, crustacean | 0.04                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration are established for residues of the herbicide quizalofop ethyl, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only those quizalofop ethyl residues convertible to 2-methoxy-6-chloroquinoxaline, expressed as the stoichiometric equivalent of quizalofop ethyl, in or on the commodity. 
+(c) *Tolerances with regional registrations.* Tolerances with regional registration are established for residues of the herbicide quizalofop ethyl, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only those quizalofop ethyl residues convertible to 2-methoxy-6-chloroquinoxaline, expressed as the stoichiometric equivalent of quizalofop ethyl, in or on the commodity.
 
 | Commodity | Parts per million |
 | --------- | ----------------- |
 | Pineapple | 0.1               |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[63 FR 32759, June 16, 1998, as amended at 70 FR 7870, Feb. 16, 2005; 71 FR 56378, Sept. 27, 2006; 76 FR 56045, Sept. 15, 2010; 77 FR 23630, Apr. 20, 2012; 80 FR 72599, Nov. 20, 2015; 81 FR 86586, Dec. 1, 2016; 83 FR 7115, Feb. 20, 2018; 83 FR 8011, Feb. 23, 2018; 86 FR 13199, Mar. 8, 2021\]

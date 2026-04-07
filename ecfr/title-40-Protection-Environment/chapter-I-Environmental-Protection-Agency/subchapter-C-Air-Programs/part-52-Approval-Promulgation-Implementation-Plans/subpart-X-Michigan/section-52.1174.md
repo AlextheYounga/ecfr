@@ -1,6 +1,6 @@
 ##### § 52.1174 Control strategy: Ozone.
 
-(a) Part D—Conditional Approval—Michigan Rules 336.1603 and 336.1606 are approved provided that the following conditions are satisfied:
+(a) Part D—Conditional Approval—Michigan Rules 336.1603 and 336.1606 are approved provided that the following conditions are satisfied:*Rule 336.1606—*X
 
 (1) *Rule 336.1606—*The State either promulgates a rule with a 120,000 gallon per year throughput exemption for gasoline dispensing facilities for sources located in Wayne, Macomb and Oakland Counties. The State must either submit the rule to USEPA or demonstrate that the allowable emissions resulting from the application of its existing rule with 250,000 gallon per year throughput exemption for gasoline dispensing facilities are less than five percent greater than the allowable emissions resulting from the application of the CTG presumptive norm. The State must comply with this condition by May 6, 1981, and any necessary regulations must be finally promulgated by the State and submitted to USEPA by September 30, 1981.
 
