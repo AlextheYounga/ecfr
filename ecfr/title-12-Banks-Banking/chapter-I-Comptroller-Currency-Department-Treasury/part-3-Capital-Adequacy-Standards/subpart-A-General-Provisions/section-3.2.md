@@ -594,7 +594,7 @@ As used in this part:
 
 (9) The loan is not more than 90 days past due, or on nonaccrual.
 
-*Protection amount (P)* means, with respect to an exposure hedged by an eligible guarantee or eligible credit derivative, the effective notional amount of the guarantee or credit derivative, reduced to reflect any currency mismatch, maturity mismatch, or lack of restructuring coverage (as provided in §§ 3.36 or 3.134, as appropriate).
+*Protection amount (P)* means, with respect to an exposure hedged by an eligible guarantee or eligible credit derivative, the effective notional amount of the guarantee or credit derivative, reduced to reflect any currency mismatch, maturity mismatch, or lack of restructuring coverage (as provided in § 3.36 or § 3.134, as appropriate).
 
 *Publicly-traded* means traded on:
 
