@@ -1,4 +1,4 @@
-##### 245.7001-6, DLA Form 1822, End Use Certificate.
+##### 245.7001-6 DLA Form 1822, End Use Certificate.
 
 Use when directed by the plant clearance officer.
 

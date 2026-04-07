@@ -26,7 +26,7 @@ With respect to procurement activities within their jurisdiction, contracting of
 
 (l) Making available to OSDBU copies of solicitations when requested;
 
-(m) Assisting SDB in counseling non-responsive or non-responsible small business bidders/offerors to help them to participate more effectively in future solicitations; and
+(m) Assisting OSDBU in counseling non-responsive or non-responsible small business bidders/offerors to help them to participate more effectively in future solicitations; and
 
 (n) Including the Small Business and Minority Business Enterprises Subcontracting Program clauses in all contracts where required by part 19 of the (48 CFR) FAR.
 
