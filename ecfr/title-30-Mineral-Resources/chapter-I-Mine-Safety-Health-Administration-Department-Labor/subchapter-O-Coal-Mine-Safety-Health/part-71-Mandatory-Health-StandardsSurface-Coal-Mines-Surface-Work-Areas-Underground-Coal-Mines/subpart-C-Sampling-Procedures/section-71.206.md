@@ -1,5 +1,7 @@
 ##### § 71.206 Quarterly sampling; designated work positions.
 
+Link to an amendment published at 89 FR 28477, Apr. 18, 2024.Link to an amendment published at 89 FR 28478, Apr. 18, 2024.
+
 (a) Each operator shall take one valid representative sample from the DWP during each quarterly period. The quarterly periods are:
 
 January 1-March 31 April 1-June 30 July 1-September 30 October 1-December 31.
@@ -61,52 +63,50 @@ January 1-March 31 April 1-June 30 July 1-September 30 October 1-December 31.
 (l) A citation for violation of the applicable standard shall be terminated by MSHA when the equivalent concentration of each of the five valid representative samples is at or below the applicable standard.
 
 Table 71-1—Excessive Concentration Values (ECV) Based on Single, Full-Shift CMDPSU/CPDM Concentration Measurements
-
-| Applicable standard   (mg/m 3) | ECV   (mg/m 3) |
-| ------------------------------ | -------------- |
-| 2.0                            | 2.33           |
-| 1.9                            | 2.22           |
-| 1.8                            | 2.12           |
-| 1.7                            | 2.01           |
-| 1.6                            | 1.90           |
-| 1.5                            | 1.79           |
-| 1.4                            | 1.69           |
-| 1.3                            | 1.59           |
-| 1.2                            | 1.47           |
-| 1.1                            | 1.37           |
-| 1.0                            | 1.26           |
-| 0.9                            | 1.16           |
-| 0.8                            | 1.05           |
-| 0.7                            | 0.95           |
-| 0.6                            | 0.85           |
-| 0.5                            | 0.74           |
-| 0.4                            | 0.65           |
-| 0.3                            | 0.54           |
-| 0.2                            | 0.44           |
+| Applicable standard   (mg/m3) | ECV   (mg/m3) |
+| ----------------------------- | ------------- |
+| 2.0                           | 2.33          |
+| 1.9                           | 2.22          |
+| 1.8                           | 2.12          |
+| 1.7                           | 2.01          |
+| 1.6                           | 1.90          |
+| 1.5                           | 1.79          |
+| 1.4                           | 1.69          |
+| 1.3                           | 1.59          |
+| 1.2                           | 1.47          |
+| 1.1                           | 1.37          |
+| 1.0                           | 1.26          |
+| 0.9                           | 1.16          |
+| 0.8                           | 1.05          |
+| 0.7                           | 0.95          |
+| 0.6                           | 0.85          |
+| 0.5                           | 0.74          |
+| 0.4                           | 0.65          |
+| 0.3                           | 0.54          |
+| 0.2                           | 0.44          |
 
 Table 71-2—Excessive Concentration Values (ECV) Based on the Average of 5 Full-Shift CMDPSU/CPDM Concentration Measurements
-
-| Applicable standard   (mg/m 3) | ECV   (mg/m 3) |
-| ------------------------------ | -------------- |
-| 2.0                            | 2.15           |
-| 1.9                            | 2.05           |
-| 1.8                            | 1.94           |
-| 1.7                            | 1.84           |
-| 1.6                            | 1.74           |
-| 1.5                            | 1.63           |
-| 1.4                            | 1.53           |
-| 1.3                            | 1.43           |
-| 1.2                            | 1.33           |
-| 1.1                            | 1.22           |
-| 1.0                            | 1.12           |
-| 0.9                            | 1.02           |
-| 0.8                            | 0.92           |
-| 0.7                            | 0.81           |
-| 0.6                            | 0.71           |
-| 0.5                            | 0.61           |
-| 0.4                            | 0.51           |
-| 0.3                            | 0.41           |
-| 0.2                            | 0.31           |
+| Applicable standard   (mg/m3) | ECV   (mg/m3) |
+| ----------------------------- | ------------- |
+| 2.0                           | 2.15          |
+| 1.9                           | 2.05          |
+| 1.8                           | 1.94          |
+| 1.7                           | 1.84          |
+| 1.6                           | 1.74          |
+| 1.5                           | 1.63          |
+| 1.4                           | 1.53          |
+| 1.3                           | 1.43          |
+| 1.2                           | 1.33          |
+| 1.1                           | 1.22          |
+| 1.0                           | 1.12          |
+| 0.9                           | 1.02          |
+| 0.8                           | 0.92          |
+| 0.7                           | 0.81          |
+| 0.6                           | 0.71          |
+| 0.5                           | 0.61          |
+| 0.4                           | 0.51          |
+| 0.3                           | 0.41          |
+| 0.2                           | 0.31          |
 
 (m) The District Manager may designate for sampling under this section additional work positions at a surface coal mine and at a surface work area of an underground coal mine where a concentration of respirable dust exceeding 50 percent of the standard in effect at the time the sample is taken, or a concentration of respirable dust exceeding 50 percent of the standard established in accordance with § 71.101, has been measured by one or more MSHA valid representative samples.
 

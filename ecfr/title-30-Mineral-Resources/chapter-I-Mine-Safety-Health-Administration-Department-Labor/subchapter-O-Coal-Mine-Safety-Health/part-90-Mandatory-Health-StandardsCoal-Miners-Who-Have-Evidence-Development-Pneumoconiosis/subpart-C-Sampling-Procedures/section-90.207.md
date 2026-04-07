@@ -1,5 +1,7 @@
 ##### § 90.207 Quarterly sampling.
 
+Link to an amendment published at 89 FR 28484, Apr. 18, 2024.Link to an amendment published at 89 FR 28485, Apr. 18, 2024.
+
 (a) Each operator shall take five valid representative samples every calendar quarter from the environment of each part 90 miner while performing normal work duties. Part 90 miner samples shall be collected on consecutive work days. The quarterly periods are:
 
 January 1-March 31 April 1-June 30 July 1-September 30 October 1-December 31.
@@ -37,29 +39,27 @@ January 1-March 31 April 1-June 30 July 1-September 30 October 1-December 31.
 (g) A citation for a violation of the applicable standard shall be terminated by MSHA when the equivalent concentration of each of the five valid representative samples is at or below the applicable standard.
 
 Table 90-1—Excessive Concentration Values (ECV) Based on Single, Full-Shift CMDPSU/CPDM Concentration Measurements
-
-| Applicable standard   (mg/m 3) | ECV   (mg/m 3) |
-| ------------------------------ | -------------- |
-| 1.0                            | 1.26           |
-| 0.9                            | 1.16           |
-| 0.8                            | 1.05           |
-| 0.7                            | 0.95           |
-| 0.6                            | 0.85           |
-| 0.5                            | 0.74           |
-| 0.4                            | 0.65           |
-| 0.3                            | 0.54           |
-| 0.2                            | 0.44           |
+| Applicable standard   (mg/m3) | ECV   (mg/m3) |
+| ----------------------------- | ------------- |
+| 1.0                           | 1.26          |
+| 0.9                           | 1.16          |
+| 0.8                           | 1.05          |
+| 0.7                           | 0.95          |
+| 0.6                           | 0.85          |
+| 0.5                           | 0.74          |
+| 0.4                           | 0.65          |
+| 0.3                           | 0.54          |
+| 0.2                           | 0.44          |
 
 Table 90-2—Excessive Concentration Values (ECV) Based on the Average of 5 Full-Shift CMDPSU/CPDM Concentration Measurements
-
-| Applicable standard   (mg/m 3) | ECV   (mg/m 3) |
-| ------------------------------ | -------------- |
-| 1.0                            | 1.12           |
-| 0.9                            | 1.02           |
-| 0.8                            | 0.92           |
-| 0.7                            | 0.81           |
-| 0.6                            | 0.71           |
-| 0.5                            | 0.61           |
-| 0.4                            | 0.51           |
-| 0.3                            | 0.41           |
-| 0.2                            | 0.31           |
+| Applicable standard   (mg/m3) | ECV   (mg/m3) |
+| ----------------------------- | ------------- |
+| 1.0                           | 1.12          |
+| 0.9                           | 1.02          |
+| 0.8                           | 0.92          |
+| 0.7                           | 0.81          |
+| 0.6                           | 0.71          |
+| 0.5                           | 0.61          |
+| 0.4                           | 0.51          |
+| 0.3                           | 0.41          |
+| 0.2                           | 0.31          |
