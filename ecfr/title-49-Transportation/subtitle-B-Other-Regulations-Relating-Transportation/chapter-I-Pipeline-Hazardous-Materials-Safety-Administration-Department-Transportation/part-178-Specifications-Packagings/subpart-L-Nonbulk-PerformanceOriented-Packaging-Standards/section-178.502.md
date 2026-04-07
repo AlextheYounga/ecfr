@@ -42,7 +42,7 @@
 
 (xi) “P” means glass, porcelain or stoneware.
 
-(3) A numeral indicating the category of packaging within the kind to which the packaging belongs. For example, for steel drums (“1A”), “1” indicates a non-removable head drum (i.e., “1A1”) and “2” indicates a removable head drum (i.e., “1A2”).
+(3) A numeral indicating the category of packaging within the kind to which the packaging belongs. For example, for steel drums (“1A”), “1” indicates a non-removable head drum ( *i.e.*, “1A1”) and “2” indicates a removable head drum (*i.e.*, “1A2”).
 
 (b) For composite packagings, two capital letters are used in sequence in the second position of the code, the first indicating the material of the inner receptacle and the second, that of the outer packaging. For example, a plastic receptacle in a steel drum is designated “6HA1”.
 

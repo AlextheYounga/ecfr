@@ -24,7 +24,7 @@
 
 (vi) Indication of whether the cargo tank is lined, insulated, or both; and
 
-(vii) Indication of special service of the cargo tank (*e.g.,* transports material corrosive to the tank, dedicated service, etc.)
+(vii) Indication of special service of the cargo tank (e.g., transports material corrosive to the tank, dedicated service, etc.)
 
 (2) Each test or inspection report must include the following specific information as appropriate for each individual type of test or inspection:
 
@@ -32,7 +32,7 @@
 
 (ii) Date of test or inspection (month and year);
 
-(iii) Listing of all items tested or inspected, including information about pressure relief devices that are removed, inspected and tested or replaced, when applicable (type of device, set to discharge pressure, pressure at which device opened, pressure at which device re-seated, and a statement of disposition of the device (*e.g.,* reinstalled, repaired, or replaced)); information regarding the inspection of upper coupler assemblies, when applicable (visually examined in place, or removed for examination); and, information regarding leakage and pressure testing, when applicable (pneumatic or hydrostatic testing method, identification of the fluid used for the test, test pressure, and holding time of test);
+(iii) Listing of all items tested or inspected, including information about pressure relief devices that are removed, inspected and tested or replaced, when applicable (type of device, set to discharge pressure, pressure at which device opened, pressure at which device re-seated, and a statement of disposition of the device (e.g., reinstalled, repaired, or replaced)); information regarding the inspection of upper coupler assemblies, when applicable (visually examined in place, or removed for examination); and, information regarding leakage and pressure testing, when applicable (pneumatic or hydrostatic testing method, identification of the fluid used for the test, test pressure, and holding time of test);
 
 (iv) Location of defects found and method of repair;
 

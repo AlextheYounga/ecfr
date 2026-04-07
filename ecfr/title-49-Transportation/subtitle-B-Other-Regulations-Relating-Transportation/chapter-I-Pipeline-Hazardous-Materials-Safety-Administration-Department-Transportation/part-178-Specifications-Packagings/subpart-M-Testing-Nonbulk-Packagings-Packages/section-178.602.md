@@ -6,13 +6,13 @@
 
 (c) If the material to be transported is replaced for test purposes by a non-hazardous material, the material used must be of the same or higher specific gravity as the material to be carried, and its other physical properties (grain, size, viscosity) which might influence the results of the required tests must correspond as closely as possible to those of the hazardous material to be transported. Water may also be used for the liquid drop test under the conditions specified in § 178.603(e) of this subpart. It is permissible to use additives, such as bags of lead shot, to achieve the requisite total package mass, so long as they are placed so that the test results are not affected.
 
-(d) Paper or fiberboard packagings must be conditioned for at least 24 hours immediately prior to testing in an atmosphere maintained -
+(d) Paper or fiberboard packagings must be conditioned for at least 24 hours immediately prior to testing in an atmosphere maintained—
 
 (1) At 50 percent ±2 percent relative humidity, and at a temperature of 23 °C±2 °C (73 °F±4 °F). Average values should fall within these limits. Short-term fluctuations and measurement limitations may cause individual measurements to vary by up to ±5 percent relative humidity without significant impairment of test reproducibility;
 
 (2) At 65 percent ±2 percent relative humidity, and at a temperature of 20 °C±2 °C (68 °F±4 °F), or 27 °C±2 °C (81 °F±4 °F). Average values should fall within these limits. Short-term fluctuations and measurement limitations may cause individual measurements to vary by up to ±5 percent relative humidity without significant impairment of test reproducibility; or
 
-(3) For testing at periodic intervals only (i.e., other than initial design qualification testing), at ambient conditions.
+(3) For testing at periodic intervals only (*i.e.*, other than initial design qualification testing), at ambient conditions.
 
 (e) Except as otherwise provided, each packaging must be closed in preparation for testing in the same manner as if prepared for actual shipment. All closures must be installed using proper techniques and torques.
 

@@ -52,7 +52,7 @@
 
 (iv) Vertically downwards: 2g (twice the MPGM (total loading including the effect of gravity) multiplied by the acceleration due to gravity.
 
-(9) Under each of the forces specified in paragraph (d)(8) of this section, the stress at the most severely stressed point of the pressure receptacles must not exceed the values given in the applicable design specifications (*e.g.*, ISO 11120).
+(9) Under each of the forces specified in paragraph (d)(8) of this section, the stress at the most severely stressed point of the pressure receptacles must not exceed the values given in the applicable design specifications (e.g., ISO 11120).
 
 (10) Under each of the forces specified in paragraph (d)(8) of this section, the safety factor for the framework and fastenings must be as follows:
 

@@ -36,7 +36,7 @@
 
 (iv) Rebuild process (welded, brazed, type seams, etc.);
 
-(v) Description of assembly and any attachments replaced (*e.g.,* neckrings, footrings);
+(v) Description of assembly and any attachments replaced (e.g., neckrings, footrings);
 
 (vi) Chemical analysis of material for the cylinder, including seat and Code No., type of analysis (ladle, check), chemical components (Carbon (C), Phosphorous (P), Sulfur (S), Silicon (Si), Manganese (Mn), Nickel (Ni), Chromium (Cr), Molybdenum (Mo), Copper (Cu), Aluminum (Al), Zinc (Zn)), material manufacturer, name of person performing the analysis, results of physical tests of material for cylinder (yield strength (psi), tensile strength (psi), elongation percentage (inches), reduction in area percentage, weld bend, tensile bend, name of inspector);
 

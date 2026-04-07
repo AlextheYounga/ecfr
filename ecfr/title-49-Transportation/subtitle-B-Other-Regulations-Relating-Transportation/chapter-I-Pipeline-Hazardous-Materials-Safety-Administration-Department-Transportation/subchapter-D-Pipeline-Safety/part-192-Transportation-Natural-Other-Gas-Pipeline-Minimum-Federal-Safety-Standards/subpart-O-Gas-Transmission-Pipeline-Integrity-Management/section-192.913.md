@@ -4,7 +4,7 @@
 
 (b) *Exceptional performance.* An operator must be able to demonstrate the exceptional performance of its integrity management program through the following actions.
 
-(1) To deviate from any of the requirements set forth in paragraph (c) of this section, an operator must have a performance-based integrity management program that meets or exceed the performance-based requirements of ASME/ANSI B31.8S and includes, at a minimum, the following elements -
+(1) To deviate from any of the requirements set forth in paragraph (c) of this section, an operator must have a performance-based integrity management program that meets or exceed the performance-based requirements of ASME/ANSI B31.8S and includes, at a minimum, the following elements—
 
 (i) A comprehensive process for risk analysis;
 
@@ -22,7 +22,7 @@
 
 (viii) An analysis that supports the desired integrity reassessment interval and the remediation methods to be used for all covered segments.
 
-(2) In addition to the requirements for the performance-based plan, an operator must -
+(2) In addition to the requirements for the performance-based plan, an operator must—
 
 (i) Have completed at least two integrity assessments on each covered pipeline segment the operator is including under the performance-based approach, and be able to demonstrate that each assessment effectively addressed the identified threats on the covered segment.
 
@@ -30,7 +30,7 @@
 
 (c) *Deviation.* Once an operator has demonstrated that it has satisfied the requirements of paragraph (b) of this section, the operator may deviate from the prescriptive requirements of ASME/ANSI B31.8S and of this subpart only in the following instances.
 
-(1) The time frame for reassessment as provided in § 192.939 except that reassessment by some method allowed under this subpart (*e.g.,* confirmatory direct assessment) must be carried out at intervals no longer than seven years;
+(1) The time frame for reassessment as provided in § 192.939 except that reassessment by some method allowed under this subpart (e.g., confirmatory direct assessment) must be carried out at intervals no longer than seven years;
 
 (2) The time frame for remediation as provided in § 192.933 if the operator demonstrates the time frame will not jeopardize the safety of the covered segment.
 

@@ -22,11 +22,11 @@
 
 (2) An operator must notify PHMSA of any of the following events not later than 60 days after the event occurs:
 
-(i) A change in the primary entity responsible (i.e., with an assigned OPID) for managing or administering a safety program required by this part covering pipeline facilities operated under multiple OPIDs.
+(i) A change in the primary entity responsible (*i.e.*, with an assigned OPID) for managing or administering a safety program required by this part covering pipeline facilities operated under multiple OPIDs.
 
 (ii) A change in the name of the operator;
 
-(iii) A change in the entity (*e.g.,* company, municipality) responsible for an existing pipeline, pipeline segment, pipeline facility, underground natural gas storage facility, or LNG facility;
+(iii) A change in the entity (e.g., company, municipality) responsible for an existing pipeline, pipeline segment, pipeline facility, underground natural gas storage facility, or LNG facility;
 
 (iv) The acquisition or divestiture of 50 or more miles of a pipeline or pipeline system subject to Part 192 of this subchapter;
 

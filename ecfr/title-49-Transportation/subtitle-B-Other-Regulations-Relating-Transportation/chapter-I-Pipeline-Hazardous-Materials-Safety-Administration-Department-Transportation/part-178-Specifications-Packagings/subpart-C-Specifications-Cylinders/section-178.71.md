@@ -20,7 +20,7 @@
 
 (2) Service equipment must be configured or designed to prevent damage that could result in the release of the pressure receptacle contents during normal conditions of handling and transport. Manifold piping leading to shut-off valves must be sufficiently flexible to protect the valves and the piping from shearing or releasing the pressure receptacle contents. The filling and discharge valves and any protective caps must be secured against unintended opening. The valves must conform to ISO 10297:2014(E) or ISO 13340:2001(E) (IBR, *see* § 171.7 of this subchapter) for non-refillable pressure receptacles, and be protected as specified in § 173.301b(f) of this subchapter. Until December 31, 2020, the manufacture of a valve conforming to the requirements in ISO 10297:2006(E) (IBR, *see* § 171.7 of this subchapter) is authorized. Until December 31, 2008, the manufacture of a valve conforming to the requirements in ISO 10297:1999(E) (IBR, *see* § 171.7 of this subchapter) is authorized.
 
-(3) UN pressure receptacles that cannot be handled manually or rolled, must be equipped with devices (*e.g.,* skids, rings, straps) ensuring that they can be safely handled by mechanical means and so arranged as not to impair the strength of, nor cause undue stresses, in the pressure receptacle.
+(3) UN pressure receptacles that cannot be handled manually or rolled, must be equipped with devices (e.g., skids, rings, straps) ensuring that they can be safely handled by mechanical means and so arranged as not to impair the strength of, nor cause undue stresses, in the pressure receptacle.
 
 (4) Pressure receptacles filled by volume must be equipped with a level indicator.
 
@@ -116,7 +116,7 @@
 
 (7) The rated charging pressure of the metal hydride storage system in bar, preceded by the letters “RCP” and followed by the letters “BAR.”
 
-(8) The empty or tare weight. Except for acetylene cylinders, empty weight is the mass of the pressure receptacle in kilograms, including all integral parts (*e.g.,* collar, neck ring, foot ring, *etc.*), followed by the letters “KG”. The empty weight does not include the mass of the valve, valve cap or valve guard or any coating. The empty weight must be expressed to three significant figures rounded up to the last digit. For cylinders of less than 1 kg, the empty weight must be expressed to two significant figures rounded down to the last digit. For acetylene cylinders, the tare weight must be marked on the cylinders in kilograms. The tare weight is the sum of the empty weight, mass of the valve, any coating and all permanently attached parts (*e.g.,* fittings and accessories) that are not removed during filling. The tare weight must be expressed to two significant figures rounded down to the last digit. The tare weight does not include the cylinder cap or any outlet cap or plug not permanently attached to the cylinder.
+(8) The empty or tare weight. Except for acetylene cylinders, empty weight is the mass of the pressure receptacle in kilograms, including all integral parts (e.g., collar, neck ring, foot ring, *etc.*), followed by the letters “KG”. The empty weight does not include the mass of the valve, valve cap or valve guard or any coating. The empty weight must be expressed to three significant figures rounded up to the last digit. For cylinders of less than 1 kg, the empty weight must be expressed to two significant figures rounded down to the last digit. For acetylene cylinders, the tare weight must be marked on the cylinders in kilograms. The tare weight is the sum of the empty weight, mass of the valve, any coating and all permanently attached parts (e.g., fittings and accessories) that are not removed during filling. The tare weight must be expressed to two significant figures rounded down to the last digit. The tare weight does not include the cylinder cap or any outlet cap or plug not permanently attached to the cylinder.
 
 (9) The minimum wall thickness of the pressure receptacle in millimeters followed by the letters “MM”. This mark is not required for pressure receptacles with a water capacity less than or equal to 1.0 L or for composite cylinders.
 
@@ -124,7 +124,7 @@
 
 (11) For liquefied gases, the water capacity in liters expressed to three significant digits rounded down to the last digit, followed by the letter “L”. If the value of the minimum or nominal water capacity is an integer, the digits after the decimal point may be omitted.
 
-(12) Identification of the cylinder thread type (*e.g.,* 25E).
+(12) Identification of the cylinder thread type (e.g., 25E).
 
 (13) The country of manufacture. The letters “USA” must be marked on cylinders manufactured in the United States.
 
@@ -156,7 +156,7 @@
 
 (s) *Other markings.* Other markings are allowed in areas other than the side wall, provided they are made in low stress areas and are not of a size and depth that will create harmful stress concentrations. Such marks must not conflict with required marks.
 
-(t) *Marking of UN non-refillable pressure receptacles.* Unless otherwise specified in this paragraph, each UN non-refillable pressure receptacle must be clearly and legibly marked as prescribed in paragraph (q) of this section. In addition, permanent stenciling is authorized. Except when stenciled, the marks must be on the shoulder, top end or neck of the pressure receptacle or on a permanently affixed component of the pressure receptacle (*e.g.,* a welded collar).
+(t) *Marking of UN non-refillable pressure receptacles.* Unless otherwise specified in this paragraph, each UN non-refillable pressure receptacle must be clearly and legibly marked as prescribed in paragraph (q) of this section. In addition, permanent stenciling is authorized. Except when stenciled, the marks must be on the shoulder, top end or neck of the pressure receptacle or on a permanently affixed component of the pressure receptacle (e.g., a welded collar).
 
 (1) The marking requirements and sequence listed in paragraphs (q)(1) through (19) of this section are required, except the markings in paragraphs (q)(8), (9), (12) and (18) are not applicable. The required serial number marking in paragraph (q)(14) may be replaced by the batch number.
 
@@ -168,7 +168,7 @@
 
 (u) *Marking of bundles of cylinders.* (1) Individual cylinders in a bundle of cylinders must be marked in accordance with paragraphs (q), (r), (s) and (t) of this section as appropriate.
 
-(2) Refillable UN bundles of cylinders must be marked clearly and legibly with certification, operational, and manufacturing marks. These marks must be permanently affixed (*e.g.,* stamped, engraved, or etched) on a plate permanently attached to the frame of the bundle of cylinders. Except for the “UN” mark, the minimum size of the marks must be 5 mm. The minimum size of the “UN” mark must be 10 mm. A refillable UN bundle of cylinders must be marked with the following:
+(2) Refillable UN bundles of cylinders must be marked clearly and legibly with certification, operational, and manufacturing marks. These marks must be permanently affixed (e.g., stamped, engraved, or etched) on a plate permanently attached to the frame of the bundle of cylinders. Except for the “UN” mark, the minimum size of the marks must be 5 mm. The minimum size of the “UN” mark must be 10 mm. A refillable UN bundle of cylinders must be marked with the following:
 
 (i) The UN packaging symbol;
 

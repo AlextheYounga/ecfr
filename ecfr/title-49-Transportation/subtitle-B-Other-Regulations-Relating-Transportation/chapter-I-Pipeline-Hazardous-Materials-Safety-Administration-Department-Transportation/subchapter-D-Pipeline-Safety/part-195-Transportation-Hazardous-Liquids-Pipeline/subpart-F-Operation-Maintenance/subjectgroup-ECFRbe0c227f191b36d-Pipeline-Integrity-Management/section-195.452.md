@@ -97,7 +97,7 @@
 
 (vi) Existing or projected activities in the area;
 
-(vii) Local environmental factors that could affect the pipeline (*e.g.,* corrosivity of soil, subsidence, climatic);
+(vii) Local environmental factors that could affect the pipeline (e.g., corrosivity of soil, subsidence, climatic);
 
 (viii) geo-technical hazards; and
 
