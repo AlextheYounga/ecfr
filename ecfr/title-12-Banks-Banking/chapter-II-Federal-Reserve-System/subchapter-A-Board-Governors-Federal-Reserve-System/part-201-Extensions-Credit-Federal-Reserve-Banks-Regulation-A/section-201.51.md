@@ -2,9 +2,9 @@
 
 3 The primary, secondary, and seasonal credit rates described in this section apply to both advances and discounts made under the primary, secondary, and seasonal credit programs, respectively.
 
-(a) *Primary credit.* The interest rate at each Federal Reserve Bank for primary credit provided to depository institutions under § 201.4(a) is 1.75 percent.
+(a) *Primary credit.* The interest rate at each Federal Reserve Bank for primary credit provided to depository institutions under § 201.4(a) is 2.00 percent.
 
-(b) *Secondary credit.* The interest rate at each Federal Reserve Bank for secondary credit provided to depository institutions under § 201.4(b) is 2.25 percent.
+(b) *Secondary credit.* The interest rate at each Federal Reserve Bank for secondary credit provided to depository institutions under 201.4(b) is 2.50 percent.
 
 (c) *Seasonal credit.* The rate for seasonal credit extended to depository institutions under § 201.4(c) is a flexible rate that takes into account rates on market sources of funds.
 
