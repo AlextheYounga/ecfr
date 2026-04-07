@@ -15,7 +15,7 @@ Table I—Tolerances
 | (1) Dark stained, included in (c)                 | 2          | 3                | 3          | 3           | 3                        | 3              |
 | (d) Damage by other means                         | 1          | 1                | 2          | 3           | 10                       | N/A            |
 | (e) Total External Defects                        | 9          | 16               | N/A        | N/A         | N/A                      | N/A            |
-| (f) Undersized (Less than 30⁄64 inch in diameter) | 5          | 5                | 5          | 5           | 4                        | 5              |
+| (f) Undersized (Less than 30/64 inch in diameter) | 5          | 5                | 5          | 5           | 4                        | 5              |
 
 Table II—Tolerances
 | Factor   internal (kernel) defects   (tolerances by weight)                 | U.S. fancy   (percent) | U.S. extra   No. 1   (percent) | U.S. No. 1   (percent) | U.S. select   (percent) | U.S. artificially opened   (percent) | U.S. non-split   (percent) |
