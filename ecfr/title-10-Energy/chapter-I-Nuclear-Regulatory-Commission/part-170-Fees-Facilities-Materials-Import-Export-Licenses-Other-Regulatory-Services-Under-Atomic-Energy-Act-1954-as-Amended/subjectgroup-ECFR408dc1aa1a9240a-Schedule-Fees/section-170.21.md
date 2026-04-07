@@ -1,6 +1,6 @@
 ##### § 170.21 Schedule of fees for production and utilization facilities, review of standard referenced design approvals, special projects, inspections and import and export licenses.
 
-Applicants for construction permits, manufacturing licenses, operating licenses, import and export licenses, approvals of facility standard reference designs, re-qualification and replacement examinations for reactor operators, and special projects and holders of construction permits, licenses, and other approvals shall pay fees for the following categories of services: 
+Applicants for construction permits, manufacturing licenses, operating licenses, import and export licenses, approvals of facility standard reference designs, re-qualification and replacement examinations for reactor operators, and special projects and holders of construction permits, licenses, and other approvals shall pay fees for the following categories of services:
 
 Table 1 to § 170.21—Schedule of Facility Fees
 

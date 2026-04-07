@@ -1,6 +1,6 @@
 ##### § 603.1265 Expenditures or outlays.
 
-Charges made to the project or program. They may be reported either on a cash or accrual basis, as shown in the following table: 
+Charges made to the project or program. They may be reported either on a cash or accrual basis, as shown in the following table:
 
 | If reports are prepared on a . . . | Expenditures are the sum of . . .                                                                                                                                                                                                                                                           |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

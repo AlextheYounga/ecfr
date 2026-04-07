@@ -1,6 +1,6 @@
 ##### § 140.71 Scope.
 
-This subpart applies only to applicants for and holders of licenses issued for the conduct of educational activities to persons found by the Commission to be nonprofit educational institutions, except that this subpart does not apply to Federal agencies. 
+This subpart applies only to applicants for and holders of licenses issued for the conduct of educational activities to persons found by the Commission to be nonprofit educational institutions, except that this subpart does not apply to Federal agencies.
 
 Note:
 

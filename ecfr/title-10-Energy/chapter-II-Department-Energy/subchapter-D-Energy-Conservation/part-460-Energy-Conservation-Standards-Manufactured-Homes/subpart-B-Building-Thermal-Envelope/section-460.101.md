@@ -1,6 +1,6 @@
 ##### § 460.101 Climate zones.
 
-Manufactured homes subject to the requirements of this subpart must comply with the requirements applicable to one or more of the climate zones set forth in figure 1 to § 460.101 and table 1 to § 460.101. 
+Manufactured homes subject to the requirements of this subpart must comply with the requirements applicable to one or more of the climate zones set forth in figure 1 to § 460.101 and table 1 to § 460.101.
 
 ![](/graphics/er31my22.216.gif)
 

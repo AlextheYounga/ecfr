@@ -1,8 +1,8 @@
 ##### § 431.86 Uniform test method for the measurement of energy efficiency of commercial packaged boilers.
 
-(a) *Scope.* This section provides test procedures, pursuant to the Energy Policy and Conservation Act (EPCA), as amended, which must be followed for measuring the combustion efficiency and/or thermal efficiency of a gas- or oil-fired commercial packaged boiler. 
+(a) *Scope.* This section provides test procedures, pursuant to the Energy Policy and Conservation Act (EPCA), as amended, which must be followed for measuring the combustion efficiency and/or thermal efficiency of a gas- or oil-fired commercial packaged boiler.
 
-(b) *Testing and Calculations.* Determine the thermal efficiency or combustion efficiency of commercial packaged boilers by conducting the appropriate test procedure(s) indicated in Table 1 of this section. 
+(b) *Testing and Calculations.* Determine the thermal efficiency or combustion efficiency of commercial packaged boilers by conducting the appropriate test procedure(s) indicated in Table 1 of this section.
 
 Table 1—Test Requirements for Commercial Packaged Boiler Equipment Classes
 | Equipment category                                                                                                                                                                 | Subcategory       | Certified rated input   Btu/h | Standards efficiency metric   (§ 431.87) | Test procedure   (corresponding to   standards efficiency   metric required   by § 431.87) |
@@ -19,6 +19,6 @@ Table 1—Test Requirements for Commercial Packaged Boiler Equipment Classes
 |                                                                                                                                                                                    |                   | \>5,000,000                   | Thermal Efficiency                       | Appendix A, Section 2.   OR   Appendix A, Section 3. with Section 2.4.3.2.                 |
 | \* Equipment classes for commercial packaged boilers as of July 22, 2009 (74 FR 36355) distinguish between gas-fired natural draft and all other gas-fired (except natural draft). |                   |                               |                                          |                                                                                            |
 
-(c) *Field Tests.* The field test provisions of appendix A may be used only to test a unit of commercial packaged boiler with rated input greater than 5,000,000 Btu/h. 
+(c) *Field Tests.* The field test provisions of appendix A may be used only to test a unit of commercial packaged boiler with rated input greater than 5,000,000 Btu/h.
 
 \[81 FR 89305, Dec. 9, 2016\]

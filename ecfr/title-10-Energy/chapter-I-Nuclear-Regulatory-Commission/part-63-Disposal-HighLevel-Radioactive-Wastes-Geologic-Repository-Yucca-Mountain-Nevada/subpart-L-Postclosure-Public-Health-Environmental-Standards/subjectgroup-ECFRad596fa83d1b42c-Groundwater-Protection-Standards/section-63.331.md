@@ -1,6 +1,6 @@
 ##### § 63.331 Separate standards for protection of groundwater.
 
-DOE must demonstrate that there is a reasonable expectation that, for 10,000 years of undisturbed performance after disposal, releases of radionuclides from waste in the Yucca Mountain disposal system into the accessible environment will not cause the level of radioactivity in the representative volume of groundwater to exceed the limits in the following Table 1: 
+DOE must demonstrate that there is a reasonable expectation that, for 10,000 years of undisturbed performance after disposal, releases of radionuclides from waste in the Yucca Mountain disposal system into the accessible environment will not cause the level of radioactivity in the representative volume of groundwater to exceed the limits in the following Table 1:
 
 Table 1—Limits on Radionuclides in the Representative Volume
 | Radionuclide or type of radiation emitted                                   | Limit                                                                                                                                 | Is natural background   included? |

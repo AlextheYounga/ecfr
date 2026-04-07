@@ -1,5 +1,5 @@
 ##### § 830.207 DOE approval of safety basis.
 
-(a) With respect to a new Hazard Category 1, 2, or 3 DOE nuclear facility or a major modification to an existing Hazard Category 1, 2, or 3 DOE nuclear facility, a contractor may not begin operation of the facility or modification prior to the issuance of a safety evaluation report in which DOE approves the safety basis for the facility or modification. 
+(a) With respect to a new Hazard Category 1, 2, or 3 DOE nuclear facility or a major modification to an existing Hazard Category 1, 2, or 3 DOE nuclear facility, a contractor may not begin operation of the facility or modification prior to the issuance of a safety evaluation report in which DOE approves the safety basis for the facility or modification.
 
 (b) Pending issuance of a safety evaluation report in which DOE approves an updated or amended safety basis for an existing Hazard Category 1, 2, or 3 DOE nuclear facility, the contractor responsible for the facility must continue to perform work in accordance with the DOE-approved safety basis for the facility and maintain the existing safety basis consistent with the requirements of this Subpart.

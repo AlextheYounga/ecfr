@@ -1,12 +1,12 @@
 ##### § 1021.300 General requirements.
 
-(a) DOE shall determine, under the procedures in the CEQ Regulations and this part, whether any DOE proposal: 
+(a) DOE shall determine, under the procedures in the CEQ Regulations and this part, whether any DOE proposal:
 
-(1) Requires preparation of an EIS; 
+(1) Requires preparation of an EIS;
 
-(2) Requires preparation of an EA; or 
+(2) Requires preparation of an EA; or
 
-(3) Is categorically excluded from preparation of either an EIS or an EA. 
+(3) Is categorically excluded from preparation of either an EIS or an EA.
 
 DOE shall prepare any pertinent documents as required by NEPA, the CEQ Regulations, or this part.
 

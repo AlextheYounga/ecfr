@@ -1,12 +1,12 @@
 ##### § 600.222 Allowable costs.
 
-(a) *Limitation on use of funds.* Grant funds may be used only for: 
+(a) *Limitation on use of funds.* Grant funds may be used only for:
 
-(1) The allowable costs of the grantees, subgrantees and cost-type contractors, including allowable costs in the form of payments to fixed-price contractors; and 
+(1) The allowable costs of the grantees, subgrantees and cost-type contractors, including allowable costs in the form of payments to fixed-price contractors; and
 
-(2) Reasonable fees or profit to cost-type contractors but not any fee or profit (or other increment above allowable costs) to the grantee or subgrantee. 
+(2) Reasonable fees or profit to cost-type contractors but not any fee or profit (or other increment above allowable costs) to the grantee or subgrantee.
 
-(b) *Applicable cost principles.* For each kind of organization, there is a set of Federal principles for determining allowable costs. Allowable costs will be determined in accordance with the cost principles applicable to the organization incurring the costs. The following chart lists the kinds of organizations and the applicable cost principles. 
+(b) *Applicable cost principles.* For each kind of organization, there is a set of Federal principles for determining allowable costs. Allowable costs will be determined in accordance with the cost principles applicable to the organization incurring the costs. The following chart lists the kinds of organizations and the applicable cost principles.
 
 | For the costs of a—                                                                                                                                                             | Use the principles in—                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
