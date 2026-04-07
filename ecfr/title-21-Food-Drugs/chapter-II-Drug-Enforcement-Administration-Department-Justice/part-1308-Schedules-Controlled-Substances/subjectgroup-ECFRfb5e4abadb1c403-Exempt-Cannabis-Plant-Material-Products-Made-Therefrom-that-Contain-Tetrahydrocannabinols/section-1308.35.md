@@ -1,6 +1,6 @@
 ##### § 1308.35 Exemption of certain cannabis plant material, and products made therefrom, that contain tetrahydrocannabinols.
 
-(a) Any processed plant material or animal feed mixture containing any amount of tetrahydrocannabinols (THC) that is both:
+(a) Any processed plant material or animal feed mixture containing any amount of tetrahydrocannabinols (THC) that is both:*processed plant material*
 
 (1) Made from any portion of a plant of the genus Cannabis excluded from the definition of marijuana under the Act \[i.e., the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination\] and
 

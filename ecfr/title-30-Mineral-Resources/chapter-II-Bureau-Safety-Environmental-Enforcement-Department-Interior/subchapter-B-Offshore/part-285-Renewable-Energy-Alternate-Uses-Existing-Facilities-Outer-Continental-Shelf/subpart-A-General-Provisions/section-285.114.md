@@ -1,14 +1,14 @@
 ##### § 285.114 Paperwork Reduction Act statements—information collection.
 
-(a) The Office of Management and Budget (OMB) has approved the information collection requirements in 30 CFR part 285 under 43 U.S.C. 1331 *et seq.* and assigned OMB Control Number 1014-0034. The table in paragraph (e) of this section lists the subparts in the rule requiring the information and its title, summarizes the reasons for collecting the information, and summarizes how BSEE uses the information. 
+(a) The Office of Management and Budget (OMB) has approved the information collection requirements in 30 CFR part 285 under 43 U.S.C. 1331 *et seq.* and assigned OMB Control Number 1014-0034. The table in paragraph (e) of this section lists the subparts in the rule requiring the information and its title, summarizes the reasons for collecting the information, and summarizes how BSEE uses the information.
 
-(b) Respondents are primarily renewable energy applicants, lessees, ROW grant holders, RUE grant holders, Alternate Use RUE grant holders, and operators. The requirement to respond to the information collection in this part is mandated under subsection 8(p) of the OCS Lands Act. Some responses are also required to obtain or retain a benefit, or may be voluntary. 
+(b) Respondents are primarily renewable energy applicants, lessees, ROW grant holders, RUE grant holders, Alternate Use RUE grant holders, and operators. The requirement to respond to the information collection in this part is mandated under subsection 8(p) of the OCS Lands Act. Some responses are also required to obtain or retain a benefit, or may be voluntary.
 
-(c) The Paperwork Reduction Act of 1995 (44 U.S.C. 3501 *et seq.*) requires us to inform the public that an agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number. 
+(c) The Paperwork Reduction Act of 1995 (44 U.S.C. 3501 *et seq.*) requires us to inform the public that an agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number.
 
-(d) Comments regarding any aspect of the collections of information under this part, including suggestions for reducing the burden, should be sent to the Information Collection Clearance Officer, Bureau of Safety and Environmental Enforcement, 45600 Woodland Road, Sterling, VA 20166. 
+(d) Comments regarding any aspect of the collections of information under this part, including suggestions for reducing the burden, should be sent to the Information Collection Clearance Officer, Bureau of Safety and Environmental Enforcement, 45600 Woodland Road, Sterling, VA 20166.
 
-(e) BSEE is collecting this information for the reasons given in the following table: 
+(e) BSEE is collecting this information for the reasons given in the following table:
 
 | 30 CFR 285 subpart and title                                                                                                                 | Reasons for collecting information and how used                                                                                                                                                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

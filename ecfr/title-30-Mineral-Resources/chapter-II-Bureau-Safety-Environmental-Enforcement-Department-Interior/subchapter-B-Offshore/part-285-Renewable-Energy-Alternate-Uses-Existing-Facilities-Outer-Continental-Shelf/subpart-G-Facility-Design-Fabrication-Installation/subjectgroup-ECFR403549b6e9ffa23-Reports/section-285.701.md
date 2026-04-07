@@ -1,6 +1,6 @@
 ##### § 285.701 What must I include in my Facility Design Report?
 
-(a) Your Facility Design Report provides specific details of the design of any facilities, including cables and pipelines that are outlined in your BOEM-approved SAP, COP, or GAP. Your Facility Design Report must demonstrate that your design conforms to your responsibilities listed in § 285.105(a). You must include the following items in your Facility Design Report: 
+(a) Your Facility Design Report provides specific details of the design of any facilities, including cables and pipelines that are outlined in your BOEM-approved SAP, COP, or GAP. Your Facility Design Report must demonstrate that your design conforms to your responsibilities listed in § 285.105(a). You must include the following items in your Facility Design Report:
 
 | Required documents                                                       | Required contents                                                                                                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -23,14 +23,14 @@
 | (12) Critical Safety Systems and Equipment                               | A risk assessment that identifies the Critical Safety Systems and Equipment and a description of the identified Critical Safety System and Equipment.                                                                                                                                                                                                                   |
 | (13) Other information                                                   | Additional information required by BSEE.                                                                                                                                                                                                                                                                                                                                |
 
-(b) For any floating facility, your design must meet the requirements of the U.S. Coast Guard for structural integrity and stability (*e.g.,* verification of center of gravity) as listed in paragraph (a)(6)(v) of this section. The design must also consider: 
+(b) For any floating facility, your design must meet the requirements of the U.S. Coast Guard for structural integrity and stability (*e.g.,* verification of center of gravity) as listed in paragraph (a)(6)(v) of this section. The design must also consider:
 
-(1) Foundations, foundation pilings and templates, and anchoring systems; and 
+(1) Foundations, foundation pilings and templates, and anchoring systems; and
 
-(2) Mooring, tendon, or tethering systems. 
+(2) Mooring, tendon, or tethering systems.
 
-(c) You must submit your FDR to BSEE pursuant to § 285.110 and provide the location of records, as required in § 285.714(c). 
+(c) You must submit your FDR to BSEE pursuant to § 285.110 and provide the location of records, as required in § 285.714(c).
 
-(d) If you are required to use a CVA, the FDR must include the following certification statement with accompanying justification: “The design of this structure has been certified by a BSEE-approved CVA to be in accordance with accepted engineering practices and the approved SAP, GAP, or COP, as applicable, and has been designed to provide for safety. The certified design and as-built plans and specifications will be on file at \[provide location\].” 
+(d) If you are required to use a CVA, the FDR must include the following certification statement with accompanying justification: “The design of this structure has been certified by a BSEE-approved CVA to be in accordance with accepted engineering practices and the approved SAP, GAP, or COP, as applicable, and has been designed to provide for safety. The certified design and as-built plans and specifications will be on file at \[provide location\].”
 
 \[88 FR 6413, Jan. 31, 2023, as amended at 89 FR 42715, May 15, 2024\]

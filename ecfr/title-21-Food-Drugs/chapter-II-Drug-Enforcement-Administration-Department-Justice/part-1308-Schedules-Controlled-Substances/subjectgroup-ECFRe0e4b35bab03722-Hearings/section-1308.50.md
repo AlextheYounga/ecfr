@@ -1,6 +1,6 @@
 ##### § 1308.50 Temporary and permanent scheduling of recently emerged anabolic steroids.
 
-(a) The Administrator may issue a temporary order adding a drug or other substance to the definition of anabolic steroids if the Administrator finds that—
+(a) The Administrator may issue a temporary order adding a drug or other substance to the definition of anabolic steroids if the Administrator finds that—Federal Register
 
 (1) The drug or other substance satisfies the criteria for being considered an anabolic steroid under 21 U.S.C. 802(41) but is not listed in that section or by regulation of the Attorney General as being an anabolic steroid; and
 

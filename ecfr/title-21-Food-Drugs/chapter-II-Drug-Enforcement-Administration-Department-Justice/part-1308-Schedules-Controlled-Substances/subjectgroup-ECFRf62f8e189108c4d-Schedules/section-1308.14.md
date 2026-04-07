@@ -1,10 +1,10 @@
 ##### § 1308.14 Schedule IV.
 
-(a) Schedule IV shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
+(a) Schedule IV shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.*Narcotic drugs.*
 
 (b) *Narcotic drugs.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing any of the following narcotic drugs, or their salts calculated as the free anhydrous base or alkaloid, in limited quantities as set forth below:
 
-| (1) Not more than 1 milligram of difenoxin and not less than 25 micrograms of atropine sulfate per dosage unit                                            | 9167 |
+| (1) Not more than 1 milligram of difenoxin and not less than 25 micrograms of atropine sulfate per dosage unit2S                                          | 9167 |
 | (2) Dextropropoxyphene (alpha-(+)-4-dimethylamino-1,2-diphenyl-3-methyl-2-propionoxybutane)                                                               | 9278 |
 | (3) 2-\[(dimethylamino)methyl\]-1-(3-methoxyphenyl)cyclohexanol, its salts, optical and geometric isomers and salts of these isomers (including tramadol) | 9752 |
 
