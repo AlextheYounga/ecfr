@@ -1,12 +1,12 @@
 ##### § 532.267 Special wage schedules for aircraft, electronic, and optical instrument overhaul and repair positions in Puerto Rico.
 
-(a) The Department of Defense shall conduct special industry surveys and establish special wage schedules for wage employees in Puerto Rico whose primary duties involve the performance of work related to aircraft, electronic equipment, and optical instrument overhaul and repair. 
+(a) The Department of Defense shall conduct special industry surveys and establish special wage schedules for wage employees in Puerto Rico whose primary duties involve the performance of work related to aircraft, electronic equipment, and optical instrument overhaul and repair.
 
-(b) Except as provided in this section, regular appropriated fund wage survey and wage-setting procedures are applicable. 
+(b) Except as provided in this section, regular appropriated fund wage survey and wage-setting procedures are applicable.
 
-(c) Special survey specifications are as follows: 
+(c) Special survey specifications are as follows:
 
-(1) Surveys must, at a minimum, include the air transportation and electronics industries in the following North American Industry Classification System (NAICS) codes: 
+(1) Surveys must, at a minimum, include the air transportation and electronics industries in the following North American Industry Classification System (NAICS) codes:
 
 | 2022 NAICS codes | 2022 NAICS industry titles                                                                               |
 | ---------------- | -------------------------------------------------------------------------------------------------------- |
@@ -33,9 +33,9 @@
 | 62191            | Ambulance services.                                                                                      |
 | 81142            | Reupholstery and furniture repair.                                                                       |
 
-(2) Surveys shall cover all establishments in the surveyed industries. 
+(2) Surveys shall cover all establishments in the surveyed industries.
 
-(3) Surveys shall, as a minimum, include all the following jobs: 
+(3) Surveys shall, as a minimum, include all the following jobs:
 
 | Job titles                              | Job grades |
 | --------------------------------------- | ---------- |
@@ -49,14 +49,14 @@
 | Electronic Computer Mechanic            | 11         |
 | Television Station Mechanic             | 11         |
 
-(d) The data collected in a special wage survey shall be considered adequate if there are as many weighted matches used in computing the nonsupervisory payline as there are employees covered by the special wage rate schedules. 
+(d) The data collected in a special wage survey shall be considered adequate if there are as many weighted matches used in computing the nonsupervisory payline as there are employees covered by the special wage rate schedules.
 
-(e) Each survey job used in computing the nonsupervisory payline must include a minimum of three unweighted matches. 
+(e) Each survey job used in computing the nonsupervisory payline must include a minimum of three unweighted matches.
 
-(f) Special schedules shall have three step rates with the payline fixed at step 2. Step 1 shall be set at 96 percent of the payline rate, and step 3 shall be set at 104 percent of the payline rate. 
+(f) Special schedules shall have three step rates with the payline fixed at step 2. Step 1 shall be set at 96 percent of the payline rate, and step 3 shall be set at 104 percent of the payline rate.
 
-(g) The waiting period for within-grade increases shall be 26 weeks between steps 1 and 2 and 78 weeks between steps 2 and 3. 
+(g) The waiting period for within-grade increases shall be 26 weeks between steps 1 and 2 and 78 weeks between steps 2 and 3.
 
-(h) Special wage schedules shall be effective on the same date as the regular wage schedules for the Puerto Rico wage area. 
+(h) Special wage schedules shall be effective on the same date as the regular wage schedules for the Puerto Rico wage area.
 
 \[55 FR 46145, Nov. 1, 1990, as amended at 60 FR 62701, Dec. 7, 1995; 71 FR 35374, June 20, 2006; 73 FR 45853, Aug. 7, 2008; 78 FR 58154, Sept. 23, 2013; 84 FR 36814, July 30, 2019; 89 FR 4540, Jan. 24, 2024\]

@@ -1,6 +1,6 @@
 ##### § 110.77 Amistad Reservoir, Tex.
 
-(a) *Diablo East, Tex.* That portion of the Amistad Reservoir enclosed by a line connecting the following points, excluding a 300-foot-wide fairway extending northerly from the launching ramp as established by the Superintendent of Amistad Recreation Area: 
+(a) *Diablo East, Tex.* That portion of the Amistad Reservoir enclosed by a line connecting the following points, excluding a 300-foot-wide fairway extending northerly from the launching ramp as established by the Superintendent of Amistad Recreation Area:
 
 | Latitude         | Longitude     |
 | ---------------- | ------------- |
@@ -9,7 +9,7 @@
 | “c” 29°28′34″ N. | 101°00′32″ W. |
 | “d” 29°28′54″ N. | 101°00′32″ W. |
 
-(b) *Rough Canyon, Tex.* That portion of the Amistad Reservoir enclosed by a line connecting the following points, excluding a 300-foot-wide fairway extending westerly from the launching ramp to the Devils River main channel as established by the Superintendent of Amistad Recreation Area: 
+(b) *Rough Canyon, Tex.* That portion of the Amistad Reservoir enclosed by a line connecting the following points, excluding a 300-foot-wide fairway extending westerly from the launching ramp to the Devils River main channel as established by the Superintendent of Amistad Recreation Area:
 
 | Latitude         | Longitude     |
 | ---------------- | ------------- |
@@ -20,7 +20,7 @@
 | “e” 29°34′27″ N. | 100°58′36″ W. |
 | “f” 29°34′52″ N. | 100°58′35″ W. |
 
-(c) *Laughlin Air Force Base Site, Tex.* That portion of Amistad Reservoir enclosed by a line connecting the following points: 
+(c) *Laughlin Air Force Base Site, Tex.* That portion of Amistad Reservoir enclosed by a line connecting the following points:
 
 | Latitude         | Longitude     |
 | ---------------- | ------------- |

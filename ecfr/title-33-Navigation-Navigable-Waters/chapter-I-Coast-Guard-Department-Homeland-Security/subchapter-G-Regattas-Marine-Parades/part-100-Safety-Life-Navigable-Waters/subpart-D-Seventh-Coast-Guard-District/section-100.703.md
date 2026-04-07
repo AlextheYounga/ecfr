@@ -1,22 +1,24 @@
 ##### § 100.703 Special Local Regulations; Recurring Marine Events, Sector St. Petersburg.
 
-This section applies to the marine events listed in table 1 of this section. These regulations will be effective annually, for the duration of each event listed in table 1. Annual notice of the exact dates and times of the effective period of the regulation with respect to each event, the geographical area, and details concerning the nature of the event and the number of participants and type(s) of vessels involved will be provided to the local maritime community through the Local Notice to Mariners, Broadcast Notice to Mariners, or both, well in advance of the events. If the event does not have a date listed, then the exact dates and times of the enforcement will be announced through a Notice of Enforcement in the Federal Register. 
+Link to an amendment published at 90 FR 43390, Sept. 9, 2025.
 
-(a) *Definitions.* The following definitions apply to this section: 
+This section applies to the marine events listed in table 1 of this section. These regulations will be effective annually, for the duration of each event listed in table 1. Annual notice of the exact dates and times of the effective period of the regulation with respect to each event, the geographical area, and details concerning the nature of the event and the number of participants and type(s) of vessels involved will be provided to the local maritime community through the Local Notice to Mariners, Broadcast Notice to Mariners, or both, well in advance of the events. If the event does not have a date listed, then the exact dates and times of the enforcement will be announced through a Notice of Enforcement in the Federal Register.
 
-(1) *Designated representative.* The term “designated representative” means Coast Guard Patrol Commanders, including Coast Guard coxswains, petty officers, others operating Coast Guard vessels, and Federal, state, and local officers designated by or assisting the Captain of the Port (COTP) St. Petersburg in the enforcement of the regulated areas. 
+(a) *Definitions.* The following definitions apply to this section:
 
-(2) *Spectators.* All persons and vessels not registered with the event sponsor as participants. 
+(1) *Designated representative.* The term “designated representative” means Coast Guard Patrol Commanders, including Coast Guard coxswains, petty officers, others operating Coast Guard vessels, and Federal, state, and local officers designated by or assisting the Captain of the Port (COTP) St. Petersburg in the enforcement of the regulated areas.
 
-(b) *Event patrol.* The Coast Guard may assign an event patrol, as described in § 100.40 of this part, to each regulated event listed in the table. Additionally, a Patrol Commander may be assigned to oversee the patrol. The event patrol and Patrol Commander may be contacted on VHF Channel 16. 
+(2) *Spectators.* All persons and vessels not registered with the event sponsor as participants.
 
-(c) *Special local regulations.* (1) The COTP St. Petersburg or designated representative may forbid and control the movement of all vessels in the regulated area. When hailed or signaled by an official patrol vessel, a vessel in these areas shall immediately comply with the directions given. Failure to do so may result in expulsion from the area, citation for failure to comply, or both. 
+(b) *Event patrol.* The Coast Guard may assign an event patrol, as described in § 100.40 of this part, to each regulated event listed in the table. Additionally, a Patrol Commander may be assigned to oversee the patrol. The event patrol and Patrol Commander may be contacted on VHF Channel 16.
 
-(2) The COTP St. Petersburg or designated representative may terminate the event, or the operation of any vessel participating in the event, at any time it is deemed necessary for the protection of life or property. Such action may be justified as a result of weather, traffic density, spectator operation, or participant behavior. 
+(c) *Special local regulations.* (1) The COTP St. Petersburg or designated representative may forbid and control the movement of all vessels in the regulated area. When hailed or signaled by an official patrol vessel, a vessel in these areas shall immediately comply with the directions given. Failure to do so may result in expulsion from the area, citation for failure to comply, or both.
 
-(3) Only event sponsor designated participants and official patrol vessels are allowed to enter the regulated area, unless otherwise authorized by the COTP St. Petersburg or designated representative. 
+(2) The COTP St. Petersburg or designated representative may terminate the event, or the operation of any vessel participating in the event, at any time it is deemed necessary for the protection of life or property. Such action may be justified as a result of weather, traffic density, spectator operation, or participant behavior.
 
-(4) Spectators are only allowed inside the regulated area if they remain within a designated spectator area. Spectators may contact the COTP St. Petersburg or designated representative to request permission to enter, transit through, remain within, or anchor in the regulated area. If permission is granted, spectators must abide by the directions of the COTP St. Petersburg or a designated representative. 
+(3) Only event sponsor designated participants and official patrol vessels are allowed to enter the regulated area, unless otherwise authorized by the COTP St. Petersburg or designated representative.
+
+(4) Spectators are only allowed inside the regulated area if they remain within a designated spectator area. Spectators may contact the COTP St. Petersburg or designated representative to request permission to enter, transit through, remain within, or anchor in the regulated area. If permission is granted, spectators must abide by the directions of the COTP St. Petersburg or a designated representative.
 
 Table 1 to § 100.703—Special Local Regulations; Recurring Marine Events, Sector St. Petersburg
 | Date/time                                                                                             | Event/sponsor                                                | Location             | Regulated area                                                                                                                                                                                                                                                                                                                                                                                                                   |

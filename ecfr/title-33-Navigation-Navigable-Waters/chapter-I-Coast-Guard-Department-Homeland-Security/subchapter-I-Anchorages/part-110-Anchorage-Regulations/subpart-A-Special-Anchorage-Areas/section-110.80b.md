@@ -1,6 +1,6 @@
 ##### § 110.80b Marquette Harbor, Marquette, Mich.
 
-The area within Marquette Harbor beginning at latitude 46°32′38″ N., longitude 87°22′46″ W.; thence to latitude 46°32′37″ N., longitude 87°22′54″ W.; thence to latitude 46°32′33″ N., longitude 87°22′54″ W.; thence to latitude 46°32′33″ N., longitude 87°22′46″ W., thence to point of origin. 
+The area within Marquette Harbor beginning at latitude 46°32′38″ N., longitude 87°22′46″ W.; thence to latitude 46°32′37″ N., longitude 87°22′54″ W.; thence to latitude 46°32′33″ N., longitude 87°22′54″ W.; thence to latitude 46°32′33″ N., longitude 87°22′46″ W., thence to point of origin.
 
 Note:
 

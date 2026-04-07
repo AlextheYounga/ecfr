@@ -1,8 +1,8 @@
 ##### § 110.78 Sturgeon Bay, Sturgeon Bay, Wis.
 
-(a) *Area 1.* Beginning at a point bearing 126°, 3,000 feet from the fixed green Sturgeon Bay Canal Leading Light mounted on the highway bridge; thence 120°, 1,200 feet, this line being parallel to and 150 feet from the channel edge; thence 222°, 500 feet; thence 300°, 1,200 feet; thence 042°, 500 feet to the point of beginning. 
+(a) *Area 1.* Beginning at a point bearing 126°, 3,000 feet from the fixed green Sturgeon Bay Canal Leading Light mounted on the highway bridge; thence 120°, 1,200 feet, this line being parallel to and 150 feet from the channel edge; thence 222°, 500 feet; thence 300°, 1,200 feet; thence 042°, 500 feet to the point of beginning.
 
-(b) *Area 2.* Beginning at a point 160 feet from the shoreline and on the east line of 15th Avenue extended; thence south 530 feet to a point 100 feet from the northern edge of the channel; thence southeasterly 2,350 feet along a line parallel to the northern edge of the channel to a point on the east line of 18th Avenue extended, using that portion of 18th Avenue that runs in a true north-south direction perpendicular to Utah Street; thence north 530 feet along this line of 18th Avenue extended to a point approximately 400 feet from the shoreline; thence northwesterly 2,350 feet along a line parallel to the northern edge of the channel to the point of beginning. 
+(b) *Area 2.* Beginning at a point 160 feet from the shoreline and on the east line of 15th Avenue extended; thence south 530 feet to a point 100 feet from the northern edge of the channel; thence southeasterly 2,350 feet along a line parallel to the northern edge of the channel to a point on the east line of 18th Avenue extended, using that portion of 18th Avenue that runs in a true north-south direction perpendicular to Utah Street; thence north 530 feet along this line of 18th Avenue extended to a point approximately 400 feet from the shoreline; thence northwesterly 2,350 feet along a line parallel to the northern edge of the channel to the point of beginning.
 
 Note:
 

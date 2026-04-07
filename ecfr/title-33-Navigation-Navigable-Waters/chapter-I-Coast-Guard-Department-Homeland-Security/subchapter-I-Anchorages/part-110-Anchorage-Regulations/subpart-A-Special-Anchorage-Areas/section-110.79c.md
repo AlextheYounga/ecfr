@@ -1,6 +1,6 @@
 ##### § 110.79c Fish Creek Harbor, Fish Creek, Wisconsin.
 
-The area within the following boundaries: Beginning at latitude 45°07′52″ N., longitude 87°14′42″ W.; thence to latitude 45°07′53″ N., longitude 87°14′37″ W.; thence to latitude 45°07′47″ N., longitude 87°14′30″ W.; thence to latitude 45°07′42″ N., longitude 87°14′37″ W.; thence to latitude 45°07′44″ N., longitude 87°14′40″ W.; thence to latitude 45°07′48″ N., longitude 87°14′38″ W.; thence to the point of beginning. 
+The area within the following boundaries: Beginning at latitude 45°07′52″ N., longitude 87°14′42″ W.; thence to latitude 45°07′53″ N., longitude 87°14′37″ W.; thence to latitude 45°07′47″ N., longitude 87°14′30″ W.; thence to latitude 45°07′42″ N., longitude 87°14′37″ W.; thence to latitude 45°07′44″ N., longitude 87°14′40″ W.; thence to latitude 45°07′48″ N., longitude 87°14′38″ W.; thence to the point of beginning.
 
 Note 1 to § 110.79c:
 

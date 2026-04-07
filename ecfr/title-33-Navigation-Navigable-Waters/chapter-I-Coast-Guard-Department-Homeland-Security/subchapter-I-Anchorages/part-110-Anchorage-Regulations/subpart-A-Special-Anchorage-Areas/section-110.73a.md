@@ -1,6 +1,6 @@
 ##### § 110.73a Indian River at Sebastian, Fla.
 
-Beginning at a point on the shoreline at latitude 27°49′40″ N., longitude 80°28′26″ W.; thence 060° to latitude 27°49′46″ N., longitude 80°28′13″ W.; thence 156° to latitude 27°49′31″ N., longitude 80°28′05″ W.; thence 242° to latitude 27°49′25″ N., longitude 80°28′18″ W.; thence northerly along the shoreline to the point of beginning. 
+Beginning at a point on the shoreline at latitude 27°49′40″ N., longitude 80°28′26″ W.; thence 060° to latitude 27°49′46″ N., longitude 80°28′13″ W.; thence 156° to latitude 27°49′31″ N., longitude 80°28′05″ W.; thence 242° to latitude 27°49′25″ N., longitude 80°28′18″ W.; thence northerly along the shoreline to the point of beginning.
 
 Note:
 

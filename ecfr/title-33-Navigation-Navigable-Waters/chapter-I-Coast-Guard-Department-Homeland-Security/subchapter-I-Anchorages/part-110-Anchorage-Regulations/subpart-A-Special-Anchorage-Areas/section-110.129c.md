@@ -1,6 +1,6 @@
 ##### § 110.129c Apra Harbor, Guam. (Datum: WGS 84)
 
-(a) The waters bounded by a line connecting the following points: 
+(a) The waters bounded by a line connecting the following points:
 
 | Latitude      | Longtitude     |
 | ------------- | -------------- |
@@ -9,7 +9,7 @@
 
 and thence along the shoreline to the point of beginning.
 
-(b) The waters bounded by a line connecting the following points: 
+(b) The waters bounded by a line connecting the following points:
 
 | Latitude      | Longtitude     |
 | ------------- | -------------- |
