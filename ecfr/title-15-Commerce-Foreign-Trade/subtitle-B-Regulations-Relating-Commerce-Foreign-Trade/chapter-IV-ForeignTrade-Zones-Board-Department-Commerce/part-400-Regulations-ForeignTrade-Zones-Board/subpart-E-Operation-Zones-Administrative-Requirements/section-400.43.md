@@ -52,4 +52,4 @@ Pursuant to Section 14 of the FTZ Act (19 U.S.C. 81n), a grantee shall afford to
 
 (i) *Delayed compliance date.* If, as of April 30, 2012, existing business arrangements do not comply with the requirements of paragraphs (a) and (d) of this section, such existing arrangements shall be terminated or brought into compliance no later than February 28, 2014.
 
-Effective Date Note:At 77 FR 12139, Feb. 28, 2012, § 400.43 was added. Paragraph (f) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+Effective Date Note:At 77 FR 12139, Feb. 28, 2012, § 400.43 was added. Paragraph (f) of this section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

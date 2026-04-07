@@ -47,61 +47,189 @@ in an Onsite FGIS Laboratory 1
 
 Table 2 of Schedule A - Services Performed at Other Than an Applicant's Facility in an FGIS Laboratory 1 2
 
-|                                                                                                                                                                        |        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| (i) Original Inspection and Weighing (Class X) Services:                                                                                                               |        |
-| (A) Sampling only (use hourly rates from Table 1 of this section)                                                                                                      |        |
-| (B) Stationary lots (sampling, grade/factor, & check loading):                                                                                                         |        |
-| (1) Truck/trailer/container (per carrier)                                                                                                                              | $20.30 |
-| (2) Railcar (per carrier)                                                                                                                                              | 30.00  |
-| (3) Barge (per carrier)                                                                                                                                                | 188.70 |
-| (4) Sacked grain (per hour per service representative plus an administrative fee per hundredweight) (CWT)                                                              | 0.07   |
-| (C) Lots sampled online during loading (sampling charge under (1)(i) of this table, plus):                                                                             |        |
-| (1) Truck/trailer container (per carrier)                                                                                                                              | 12.20  |
-| (2) Railcar (per carrier)                                                                                                                                              | 25.40  |
-| (3) Barge (per carrier)                                                                                                                                                | 129.10 |
-| (4) Sacked grain (per hour per service representative plus an administrative fee per hundredweight) (CWT)                                                              | 0.07   |
-| (D) Other services:                                                                                                                                                    |        |
-| (1) Submitted sample (per sample - grade and factor)                                                                                                                   | 12.20  |
-| (2) Warehouseman inspection (per sample)                                                                                                                               | 21.30  |
-| (3) Factor only (per factor - maximum 2 factors)                                                                                                                       | 6.00   |
-| (4) Check loading/condition examination (use hourly rates from Table 1 of this section, plus an administrative fee per hundredweight if not previously assessed) (CWT) | 0.07   |
-| (5) Re-inspection (grade and factor only. Sampling service additional, item (1)(i) of this table)                                                                      | 13.20  |
-| (6) Class X Weighing (per hour per service representative)                                                                                                             | 64.40  |
-| (E) Additional tests (excludes sampling):                                                                                                                              |        |
-| (1) Aflatoxin (rapid test kit method)                                                                                                                                  | 30.30  |
-| (2) Aflatoxin (rapid test kit method - applicant provides kit) 3                                                                                                       | 28.50  |
-| (3) All other Mycotoxins (rapid test kit method)                                                                                                                       | 39.00  |
-| (4) All other Mycotoxins (rapid test kit method - applicant provides kit) 3                                                                                            | 37.10  |
-| (5) NIR or NMR Analysis (protein, oil, starch, etc.)                                                                                                                   | 10.30  |
-| (6) Waxy corn (per test)                                                                                                                                               | 10.30  |
-| (7) Canola (per test-00 dip test)                                                                                                                                      | 10.30  |
-| (8) Pesticide Residue Testing: 4                                                                                                                                       |        |
-| (i) Routine Compounds (per sample)                                                                                                                                     | 217.50 |
-| (ii) Special Compounds (Subject to availability)                                                                                                                       | 115.90 |
-| (9) Fees for other tests not listed above will be based on the lowest noncontract hourly rate from Table 1 of this section                                             |        |
-| (ii) Appeal inspection and review of weighing service: 5                                                                                                               |        |
-| (A) Board Appeals and Appeals (grade and factor)                                                                                                                       | 82.60  |
-| (1) Factor only (per factor - max 2 factors)                                                                                                                           | 43.50  |
-| (2) Sampling service for Appeals additional (hourly rates from Table 1 of this section)                                                                                |        |
-| (B) Additional tests (assessed in addition to all other applicable tests):                                                                                             |        |
-| (1) Aflatoxin (rapid test kit method)                                                                                                                                  | 30.30  |
-| (2) Aflatoxin (rapid test kit method - applicant provides kit) 3                                                                                                       | 28.30  |
-| (3) All other Mycotoxins (rapid test kit method)                                                                                                                       | 47.50  |
-| (4) All other Mycotoxins (rapid test kit method - applicant provides kit) 3                                                                                            | 45.70  |
-| (5) NIR or NMR Analysis (protein, oil, starch, etc.)                                                                                                                   | 17.90  |
-| (6) Sunflower oil (per test)                                                                                                                                           | 17.90  |
-| (7) Mycotoxin (per test-HPLC)                                                                                                                                          | 141.90 |
-| (8) Pesticide Residue Testing: 4                                                                                                                                       |        |
-| (i) Routine Compounds (per sample)                                                                                                                                     | 217.50 |
-| (ii) Special Compounds (Subject to availability)                                                                                                                       | 115.90 |
-| (9) Fees for other tests not listed above will be based on the lowest noncontract hourly rate from Table 1 of this section                                             |        |
-| (C) Review of weighing (per hour per service representative)                                                                                                           | 83.30  |
-| (iii) Stowage examination (service-on-request): 4                                                                                                                      |        |
-| (A) Ship (per stowage space) (minimum $257.50 per ship)                                                                                                                | 51.50  |
-| (B) Subsequent ship examinations (same as original) (minimum $154.50 per ship)                                                                                         | 51.50  |
-| (C) Barge (per examination)                                                                                                                                            | 41.30  |
-| (D) All other carriers (per examination)                                                                                                                               | 16.20  |
+(i) Original Inspection and Weighing (Class X) Services: 
+
+(A) Sampling only (use hourly rates from Table 1 of this section) 
+
+(B) Stationary lots (sampling, grade/factor, & check loading): 
+
+(1) Truck/trailer/container (per carrier)
+
+$20.30 
+
+(2) Railcar (per carrier)
+
+30.00 
+
+(3) Barge (per carrier)
+
+188.70 
+
+(4) Sacked grain (per hour per service representative plus an administrative fee per hundredweight) (CWT)
+
+0.07 
+
+(C) Lots sampled online during loading (sampling charge under (1)(i) of this table, plus): 
+
+(1) Truck/trailer container (per carrier)
+
+12.20 
+
+(2) Railcar (per carrier)
+
+25.40 
+
+(3) Barge (per carrier)
+
+129.10 
+
+(4) Sacked grain (per hour per service representative plus an administrative fee per hundredweight) (CWT)
+
+0.07 
+
+(D) Other services: 
+
+(1) Submitted sample (per sample - grade and factor)
+
+12.20 
+
+(2) Warehouseman inspection (per sample)
+
+21.30 
+
+(3) Factor only (per factor - maximum 2 factors)
+
+6.00 
+
+(4) Check loading/condition examination (use hourly rates from Table 1 of this section, plus an administrative fee per hundredweight if not previously assessed) (CWT)
+
+0.07 
+
+(5) Re-inspection (grade and factor only. Sampling service additional, item (1)(i) of this table)
+
+13.20 
+
+(6) Class X Weighing (per hour per service representative)
+
+64.40 
+
+(E) Additional tests (excludes sampling): 
+
+(1) Aflatoxin (rapid test kit method)
+
+30.30 
+
+(2) Aflatoxin (rapid test kit method - applicant provides kit) 3
+
+28.50 
+
+(3) All other Mycotoxins (rapid test kit method)
+
+39.00 
+
+(4) All other Mycotoxins (rapid test kit method - applicant provides kit) 3
+
+37.10 
+
+(5) NIR or NMR Analysis (protein, oil, starch, etc.)
+
+10.30 
+
+(6) Waxy corn (per test)
+
+10.30 
+
+(7) Canola (per test-00 dip test)
+
+10.30 
+
+(8) Pesticide Residue Testing: 4
+
+(i) Routine Compounds (per sample)
+
+217.50 
+
+(ii) Special Compounds (Subject to availability)
+
+115.90 
+
+(9) Fees for other tests not listed above will be based on the lowest noncontract hourly rate from Table 1 of this section 
+
+(ii) Appeal inspection and review of weighing service: 5
+
+(A) Board Appeals and Appeals (grade and factor)
+
+82.60 
+
+(1) Factor only (per factor - max 2 factors)
+
+43.50 
+
+(2) Sampling service for Appeals additional (hourly rates from Table 1 of this section) 
+
+(B) Additional tests (assessed in addition to all other applicable tests): 
+
+(1) Aflatoxin (rapid test kit method)
+
+30.30 
+
+(2) Aflatoxin (rapid test kit method - applicant provides kit) 3
+
+28.30 
+
+(3) All other Mycotoxins (rapid test kit method)
+
+47.50 
+
+(4) All other Mycotoxins (rapid test kit method - applicant provides kit) 3
+
+45.70 
+
+(5) NIR or NMR Analysis (protein, oil, starch, etc.)
+
+17.90 
+
+(6) Sunflower oil (per test)
+
+17.90 
+
+(7) Mycotoxin (per test-HPLC)
+
+141.90 
+
+(8) Pesticide Residue Testing: 4
+
+(i) Routine Compounds (per sample)
+
+217.50 
+
+(ii) Special Compounds (Subject to availability)
+
+115.90 
+
+(9) Fees for other tests not listed above will be based on the lowest noncontract hourly rate from Table 1 of this section 
+
+(C) Review of weighing (per hour per service representative)
+
+83.30 
+
+(iii) Stowage examination (service-on-request): 4
+
+(A) Ship (per stowage space) (minimum $257.50 per ship)
+
+51.50 
+
+(B) Subsequent ship examinations (same as original) (minimum $154.50 per ship)
+
+51.50 
+
+(C) Barge (per examination)
+
+41.30 
+
+(D) All other carriers (per examination)
+
+16.20 
 
 1 Fees apply to original inspection and weighing, re-inspection, and appeal inspection service and include, but are not limited to, sampling, grading, weighing, prior to loading stowage examinations, and certifying results performed within 25 miles of an employee's assigned duty station. Travel and related expenses will be charged for service outside 25 miles as found in § 800.72(a).
 
@@ -132,12 +260,12 @@ Table 3 of Schedule A - Miscellaneous Services 1
 | (v) Online customized data service:                                                                                                                                                  |             |
 | (A) One data file per week for 1 year                                                                                                                                                | 502.90      |
 | (B) One data file per month for 1 year                                                                                                                                               | 301.80      |
-| (v) Samples provided to interested parties (per sample)                                                                                                                              | 3.10        |
-| (vi) Divided-lot certificates (per certificate)                                                                                                                                      | 2.00        |
-| (vii) Extra copies of certificates (per certificate)                                                                                                                                 | 2.00        |
-| (viii) Faxing (per page)                                                                                                                                                             | 2.00        |
-| (ix) Special mailing                                                                                                                                                                 | Actual Cost |
-| (x) Preparing certificates onsite or during other than normal business hours (use hourly rates from Table 1).                                                                        |             |
+| (vi) Samples provided to interested parties (per sample)                                                                                                                             | 3.10        |
+| (vii) Divided-lot certificates (per certificate)                                                                                                                                     | 2.00        |
+| (viii) Extra copies of certificates (per certificate)                                                                                                                                | 2.00        |
+| (ix) Faxing (per page)                                                                                                                                                               | 2.00        |
+| (x) Special mailing                                                                                                                                                                  | Actual Cost |
+| (xi) Preparing certificates onsite or during other than normal business hours (use hourly rates from Table 1).                                                                       |             |
 
 1 Any requested service that is not listed will be performed at $64.40 per hour.
 
@@ -175,4 +303,4 @@ Table 3 of Schedule A - Miscellaneous Services 1
 
 (3) *Scale testing organizations.* If you submit an application to operate as a scale testing organization, you must pay $250.00.
 
-\[81 FR 49860, July 29, 2016, as amended at 81 FR 96340, Dec. 30, 2016; 83 FR 6453, Feb. 14, 2018\]
+\[81 FR 49860, July 29, 2016, as amended at 81 FR 96340, Dec. 30, 2016; 83 FR 6453, Feb. 14, 2018; 83 FR 11633, Mar. 16, 2018\]
