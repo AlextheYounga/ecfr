@@ -2,7 +2,7 @@
 
 Link to an amendment published at 82 FR 50293, Oct. 30, 2017.
 
-(a) A Federal credit union with derivatives authority may subsequently apply for approval to use additional products and characteristics, described in § 703.102 of this subpart, that it did not request in its initial application, subject to the following:
+(a) A Federal credit union with derivatives authority may subsequently apply for approval to use additional products and characteristics, fescribed in § 703.102 of this subpart, that it did not request in its initial application, subject to the following:
 
 (1) A Federal credit union must submit an application to NCUA;
 
