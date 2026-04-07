@@ -1,0 +1,14 @@
+##### § 39.145 Can a school receive both a small school adjustment and a small high school adjustment?
+
+A school that meets the criteria in § 39.140 can receive both a small school adjustment and a small high school adjustment. The following table shows the total amount of adjustments for eligible schools by average daily membership (ADM) category.
+
+| ADM—entire school                                                                                                                      | ADM—high school   component | Small school adjustment | Small high school   adjustment | Total   adjustment |
+| -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------------------- | ------------------------------ | ------------------ |
+| 1-50                                                                                                                                   | NA                          | 12.5                    | NA                             | 12.5               |
+| 1-50                                                                                                                                   | 1-50                        | 12.5                    | 6.25                           | 18.75              |
+| 51-99                                                                                                                                  | 1-50                        | 2 12.5-0.5              | 6.25                           | 18.75-6.75         |
+| 51-99                                                                                                                                  | 51-99                       | 1 12.5-0.5              | 2 6.25-0.25                    | 18.75-0.7          |
+| 99                                                                                                                                     | 1-50                        | 0.5                     | 12.5                           | 12.5               |
+| 99                                                                                                                                     | 51-99                       | 0.5                     | 2 12.5-0.5                     | 12.5-0.5           |
+| 1 The amount of the adjustment is within this range. The exact figure depends upon the results obtained using the formula in § 39.141. |                             |                         |                                |                    |
+| 2 The amount of the adjustment is within this range. The exact figure depends upon the results obtained using the formula in § 39.144. |                             |                         |                                |                    |
