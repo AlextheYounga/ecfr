@@ -1795,7 +1795,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Riverhead            | 47                                                  |
 | Rochester            | 10, 13, \*16, 28, 45                                |
 | Saranac Lake         | 40                                                  |
-| Schenectady          | 6, \*34, 43                                         |
+| Schenectady          | \*34, 35, 43                                        |
 | Smithtown            | 23                                                  |
 | Springville          | 7                                                   |
 | Syracuse             | 15, 17, 19, 24, \*25, 44, 47                        |
