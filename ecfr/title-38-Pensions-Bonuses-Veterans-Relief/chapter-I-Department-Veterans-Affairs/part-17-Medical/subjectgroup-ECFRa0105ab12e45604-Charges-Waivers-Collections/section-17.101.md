@@ -1,4 +1,6 @@
-##### § 17.101 Collection or recovery by VA for medical care or services provided or furnished to a veteran for a nonservice-connected disability.
+##### 17.101 Collection or recovery by VA for medical care or services provided or furnished to a veteran for a nonservice-connected disability.
+
+Link to an amendment published at 85 FR 53176, Aug. 28, 2020.
 
 (a)(1) *General.* This section covers collection or recovery by VA, under 38 U.S.C. 1729, for medical care or services provided or furnished to a veteran:
 
@@ -38,9 +40,9 @@ MDR means Medical Data Research, a medical charge database published by Ingenix,
 
 *MedPAR* means the Medicare Provider Analysis and Review file.
 
-Non-provider-based means a VA health care entity (such as a small VA community-based outpatient clinic) that functions as the equivalent of a doctor's office or for other reasons does not meet CMS provider-based criteria, and, therefore, is not entitled to bill outpatient facility charges.
+*Non-provider-based* means a VA health care entity (such as a small VA community-based outpatient clinic) that functions as the equivalent of a doctor's office or for other reasons does not meet CMS provider-based criteria, and, therefore, is not entitled to bill outpatient facility charges.
 
-*Provider-based* means the outpatient department of a VA hospital or any other VA health care entity that meets CMS provider-based criteria. Provider-based entities are entitled to bill outpatient facility charges.
+*Provider-based* means the outpatient department of a VA hospital or any other VA health care entity that meets CMS provider-based criteria. Providerbased entities are entitled to bill outpatient facility charges.
 
 *RBRVS* means Resource-Based Relative Value Scale.
 
@@ -48,7 +50,7 @@ Non-provider-based means a VA health care entity (such as a small VA community-b
 
 *Unlisted procedures* mean procedures, services, items, and supplies that have not been defined or specified by the American Medical Association or CMS, and the CPT and HCPCS codes used to report such procedures, services, items, and supplies.
 
-(6) *Provider-based and non-provider-based entities and charges.* Each VA health care entity (medical center, hospital, community-based outpatient clinic, independent outpatient clinic, etc.) is designated as either provider-based or non-provider-based. Provider-based entities are entitled to bill outpatient facility charges; non-provider-based entities are not. The charges for physician and other professional services provided at non-provider-based entities will be billed as professional charges only. Professional charges for both provider-based entities and non-provider-based entities are produced by the methodologies set forth in this section, with professional charges for provider-based entities based on facility practice expense RVUs, and professional charges for non-provider-based entities based on non-facility practice expense RVUs.
+(6) *Provider-based and non-provider based entities and charges.* Each VA health care entity (medical center, hospital, community-based outpatient clinic, independent outpatient clinic, etc.) is designated as either providerbased or non-provider-based. Providerbased entities are entitled to bill outpatient facility charges; non-providerbased entities are not. The charges for physician and other professional services provided at non-provider-based entities will be billed as professional charges only. Professional charges for both provider-based entities and nonprovider-based entities are produced by the methodologies set forth in this section, with professional charges for provider-based entities based on facility practice expense RVUs, and professional charges for non-provider-based entities based on non-facility practice expense RVUs.
 
 (7) *Charges for medical care or services provided by non-VA providers at VA expense.* When medical care or services are furnished at the expense of the VA by non-VA providers, the charges billed for such care or services will be the higher of the charges determined according to this section, or the amount VA paid to the non-VA provider.
 
