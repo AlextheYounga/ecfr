@@ -208,7 +208,7 @@
 
 (29) Thiafentanil
 
-9729 
+9729
 
 (d) *Stimulants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system:
 
@@ -260,7 +260,11 @@
 
 7379 
 
-\[Another name for nabilone: (±)-trans-3-(1,1-dimethylheptyl)-6,6a,7,8,10,10a-hexahydro-1-hydroxy-6,6-dimethyl-9H-dibenzo\[b,d\]pyran-9-one\]
+\[Another name for nabilone: (±)-trans-3-(1,1-dimethylheptyl)-6,6a,7,8,10,10a-hexahydro-1-hydroxy-6,6-dimethyl-9H-dibenzo\[b,d\]pyran-9-one\] 
+
+(2) Dronabinol \[(-)-delta-9-trans tetrahydrocannabinol\] in an oral solution in a drug product approved for marketing by the U.S. Food and Drug Administration
+
+(7365) 
 
 (g) *Immediate precursors.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances:
 
