@@ -508,23 +508,23 @@ Notes:
 
 (1) The extraction of data or information, from a computer or network-capable device, or the modification of system or user data; or
 
-(2) The modification of the standard execution path of a program or process in order to allow the execution of externally provided instructions.
+(2) The modification of the standard execution path of a “program” or process in order to allow the execution of externally provided instructions.
 
-Note 1 to “Intrusion software” definition:
+*Note 1 to “Intrusion Software” Definition:*
 
-“Intrusion software” does not include any of the following: Hypervisors, debuggers or Software Reverse Engineering (SRE) tools; Digital Rights Management (DRM) “software”; or “Software” designed to be installed by manufacturers, administrators or users, for the purposes of asset tracking or recovery.
+*“Intrusion software” does not include any of the following: Hypervisors, debuggers or Software Reverse Engineering (SRE) tools; Digital Rights Management (DRM) “software”; or “Software” designed to be installed by manufacturers, administrators or users, for the purposes of asset tracking or recovery.*
 
-Note 2 to “Intrusion software” definition:
+*Note 2 to “Intrusion Software” Definition:*
 
-Network-capable devices include mobile devices and smart meters.
+*Network-capable devices include mobile devices and smart meters.*
 
-Technical note 1 to “Intrusion software” definition:
+*Technical Note 1 to “Intrusion Software” Definition:*
 
-'Monitoring tools': “software” or hardware devices, that monitor system behaviors or processes running on a device. This includes antivirus (AV) products, end point security products, Personal Security Products (PSP), Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) or firewalls.
+*'Monitoring tools': “software” or hardware devices, that monitor system behaviors or processes running on a device. This includes antivirus (AV) products, end point security products, Personal Security Products (PSP), Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) or firewalls.*
 
-Technical note 2 to “Intrusion software” definition:
+*Technical Note 2 to “Intrusion Software” Definition:*
 
-'Protective countermeasures': techniques designed to ensure the safe execution of code, such as Data Execution Prevention (DEP), Address Space Layout Randomization (ASLR) or sandboxing.
+*'Protective countermeasures': techniques designed to ensure the safe execution of code, such as Data Execution Prevention (DEP), Address Space Layout Randomization (ASLR) or sandboxing.*
 
 *Isostatic presses.* (Cat 2)—Equipment capable of pressurizing a closed cavity through various media (gas, liquid, solid particles, etc.) to create equal pressure in all directions within the cavity upon a workpiece or material.
 
@@ -926,7 +926,7 @@ Technical Notes:
 
 *Production Facilities.* (MTCR Context only). (Cat 7 and 9)—Means “production equipment” and specially designed “software” therefor integrated into installations for “development” or for one or more phases of “production”.
 
-*Program.* (Cat 2, 4, 5, and 6) —A sequence of instructions to carry out a process in, or convertible into, a form executable by an electronic computer.
+*Program.* (Cat 1, 4, 6, and 7)—A sequence of instructions to carry out a process in, or convertible into, a form executable by an electronic computer.
 
 *Proof test.* (Cat 5)—On-line or off-line production screen testing that dynamically applies a prescribed tensile stress over a 0.5 to 3 m length of fiber at a running rate of 2 to 5 m/s while passing between capstans approximately 150 mm in diameter. The ambient temperature is a nominal 293 K (20 °C) and relative humidity 40%.
 
