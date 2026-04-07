@@ -1,6 +1,6 @@
 ##### § 75.339 Seals records.
 
-(a) The table entitled “Seal Recordkeeping Requirements” lists records the operator shall maintain and the retention period for each record.
+(a) The table entitled “Seal Recordkeeping Requirements” lists records the operator shall maintain and the retention period for each record. 
 
 Table—§ 75.339(a) Seal Recordkeeping Requirements
 | Record                                                                              | Section reference | Retention time                                                            |
@@ -13,10 +13,10 @@ Table—§ 75.339(a) Seal Recordkeeping Requirements
 | (6) Certification of Training for Persons that Sample                               | 75.338(a)         | 2 years.                                                                  |
 | (7) Certification of Training for Persons that Perform Seal Construction and Repair | 75.338(b)         | 2 years.                                                                  |
 
-(b) Records required by §§ 75.335, 75.336, 75.337 and 75.338 shall be retained at a surface location at the mine in a secure book that is not susceptible to alteration. The records may be retained electronically in a computer system that is secure and not susceptible to alteration, if the mine operator can immediately access the record from the mine site.
+(b) Records required by §§ 75.335, 75.336, 75.337 and 75.338 shall be retained at a surface location at the mine in a secure book that is not susceptible to alteration. The records may be retained electronically in a computer system that is secure and not susceptible to alteration, if the mine operator can immediately access the record from the mine site. 
 
-(c) Upon request from an authorized representative of the Secretary of Labor, the Secretary of Health and Human Services, or from the authorized representative of miners, mine operators shall promptly provide access to any record listed in the table in this section.
+(c) Upon request from an authorized representative of the Secretary of Labor, the Secretary of Health and Human Services, or from the authorized representative of miners, mine operators shall promptly provide access to any record listed in the table in this section. 
 
-(d) Whenever an operator ceases to do business or transfers control of the mine to another entity, that operator shall transfer all records required to be maintained by this part, or a copy thereof, to any successor operator who shall maintain them for the required period.
+(d) Whenever an operator ceases to do business or transfers control of the mine to another entity, that operator shall transfer all records required to be maintained by this part, or a copy thereof, to any successor operator who shall maintain them for the required period. 
 
 \[73 FR 21208, Apr. 18, 2008\]

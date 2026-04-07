@@ -1,6 +1,6 @@
 ##### § 77.807-2 Booms and masts; minimum distance from high-voltage lines.
 
-The booms and masts of equipment operated on the surface of any coal mine shall not be operated within 10 feet of an energized overhead powerline. Where the voltage of overhead powerlines is 69,000 volts, or more, the minimum distance from the boom or mast shall be as follows:
+The booms and masts of equipment operated on the surface of any coal mine shall not be operated within 10 feet of an energized overhead powerline. Where the voltage of overhead powerlines is 69,000 volts, or more, the minimum distance from the boom or mast shall be as follows: 
 
 | Nominal power line voltage (in 1,000 volts) | Minimum distance (feet) |
 | ------------------------------------------- | ----------------------- |

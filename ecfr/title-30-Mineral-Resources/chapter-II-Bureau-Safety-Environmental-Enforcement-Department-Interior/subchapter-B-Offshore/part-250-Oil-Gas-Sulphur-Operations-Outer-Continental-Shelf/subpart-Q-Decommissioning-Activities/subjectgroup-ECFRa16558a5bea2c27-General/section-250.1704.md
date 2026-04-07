@@ -1,6 +1,6 @@
 ##### § 250.1704 What decommissioning applications and reports must I submit and when must I submit them?
 
-You must submit decommissioning applications, receive approval of those applications, and submit subsequent reports according to the requirements and deadlines in the following table.
+You must submit decommissioning applications, receive approval of those applications, and submit subsequent reports according to the requirements and deadlines in the following table. 
 
 Decommissioning Applications and Reports Table
 | Decommissioning applications and reports                                                                                                                                                                                                       | When to submit                                                                                                                                                                                                             | Instructions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

@@ -1,6 +1,6 @@
 ##### § 285.702 What must I include in my Fabrication and Installation Report?
 
-(a) Your Fabrication and Installation Report must describe how your facilities will be fabricated and installed in accordance with the design criteria identified in the Facility Design Report; your BOEM-approved SAP, COP, or GAP; and generally accepted industry standards and practices. Your Fabrication and Installation Report must demonstrate how your facilities will be fabricated and installed in a manner that conforms to your responsibilities listed in § 285.105(a). You must include the following items in your Fabrication and Installation Report:
+(a) Your Fabrication and Installation Report must describe how your facilities will be fabricated and installed in accordance with the design criteria identified in the Facility Design Report; your BOEM-approved SAP, COP, or GAP; and generally accepted industry standards and practices. Your Fabrication and Installation Report must demonstrate how your facilities will be fabricated and installed in a manner that conforms to your responsibilities listed in § 285.105(a). You must include the following items in your Fabrication and Installation Report: 
 
 | Required documents                                                         | Required contents                                                                                                                                                                                                                                                                      |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,10 +15,10 @@
 | (9) Project easement                                                       | Information about installation of any cables, pipelines, or facilities. Information on burial methods and vessels.                                                                                                                                                                     |
 | (10) Other information                                                     | Additional information required by BSEE.                                                                                                                                                                                                                                               |
 
-(b) You must submit your FIR to BSEE pursuant to § 285.110.
+(b) You must submit your FIR to BSEE pursuant to § 285.110. 
 
-(c) You must provide the location of records, as required in § 285.714(c).
+(c) You must provide the location of records, as required in § 285.714(c). 
 
-(d) If you are required to use a CVA, the FIR must include the following certification statement with accompanying justification: “The fabrication and installation of this structure has been certified by a BSEE-approved CVA to be in accordance with accepted engineering practices, the FDR, and the approved SAP, GAP, or COP, as applicable. The certified design and as-built plans and specifications will be on file at \[provide location\].”
+(d) If you are required to use a CVA, the FIR must include the following certification statement with accompanying justification: “The fabrication and installation of this structure has been certified by a BSEE-approved CVA to be in accordance with accepted engineering practices, the FDR, and the approved SAP, GAP, or COP, as applicable. The certified design and as-built plans and specifications will be on file at \[provide location\].” 
 
 \[88 FR 6413, Jan. 31, 2023, as amended at 89 FR 42716, May 15, 2024\]

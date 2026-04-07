@@ -1,8 +1,8 @@
 ##### § 72.502 Requirements for nonpermissible light-duty diesel-powered equipment other than generators and compressors.
 
-(a) Each piece of nonpermissible light-duty diesel-powered equipment (as defined by § 75.1908(b) of this chapter), other than generators and compressors, introduced into an underground area of an underground coal mine after May 21, 2001 must emit no more than 5.0 grams per hour of diesel particulate matter.
+(a) Each piece of nonpermissible light-duty diesel-powered equipment (as defined by § 75.1908(b) of this chapter), other than generators and compressors, introduced into an underground area of an underground coal mine after May 21, 2001 must emit no more than 5.0 grams per hour of diesel particulate matter. 
 
-(b) A piece of nonpermissible light-duty diesel-powered equipment must be deemed to be in compliance with the requirements of paragraph (a) of this section if it utilizes an engine which meets or exceeds the applicable particulate matter emission requirements of the Environmental Protection Administration listed in Table 72.502-1, as follows:
+(b) A piece of nonpermissible light-duty diesel-powered equipment must be deemed to be in compliance with the requirements of paragraph (a) of this section if it utilizes an engine which meets or exceeds the applicable particulate matter emission requirements of the Environmental Protection Administration listed in Table 72.502-1, as follows: 
 
 Table 72.502-1
 | EPA requirement                                                                                                                                            | EPA category              | PM limit                      |
@@ -22,6 +22,6 @@ Table 72.502-1
 |                                                                                                                                                            | kW≥560 (hp≥750)           | 0.20 g/kW-hr (0.15 g/bhp-hr)  |
 | **Notes:** “g” means grams; “kW” means kilowatt; “hp” means horsepower; “g/kW-hr” means grams/kilowatt-hour; “g/bhp-hr” means grams/brake horsepower-hour. |                           |                               |
 
-(c) The requirements of this section do not apply to any diesel-powered ambulance or fire fighting equipment that is being used in accordance with the mine fire fighting and evacuation plan under § 75.1502.
+(c) The requirements of this section do not apply to any diesel-powered ambulance or fire fighting equipment that is being used in accordance with the mine fire fighting and evacuation plan under § 75.1502. 
 
 \[66 FR 5704, Jan. 19, 2001, as amended at 66 FR 15033, Mar. 15, 2001; 66 FR 27866, May 21, 2001; 70 FR 36347, June 23, 2005\]

@@ -1,12 +1,12 @@
 ##### § 47.52 MSDS contents.
 
-When an operator must prepare an MSDS for a hazardous chemical produced at the mine, the MSDS must—
+When an operator must prepare an MSDS for a hazardous chemical produced at the mine, the MSDS must— 
 
-(a) Be legible, accurate, and in English;
+(a) Be legible, accurate, and in English; 
 
-(b) Use a chemical identity that permits cross-referencing between the list of hazardous chemicals, the chemical's label, and its MSDS; and
+(b) Use a chemical identity that permits cross-referencing between the list of hazardous chemicals, the chemical's label, and its MSDS; and 
 
-(c) Contain information, or indicate if no information is available, for the categories listed in Table 47.52 as follows:
+(c) Contain information, or indicate if no information is available, for the categories listed in Table 47.52 as follows: 
 
 Table 47.52—Contents of MSDS
 | Category                  | Requirements, descriptions, and exceptions                                                                                                                                                     |

@@ -1,6 +1,6 @@
 ##### § 18.24 Electrical clearances.
 
-Minimum clearances between uninsulated electrical conductor surfaces, or between uninsulated conductor surfaces and grounded metal surfaces, within the enclosure shall be as follows:
+Minimum clearances between uninsulated electrical conductor surfaces, or between uninsulated conductor surfaces and grounded metal surfaces, within the enclosure shall be as follows: 
 
 Minimum Clearances Between Uninsulated Surfaces
 | Phase-to-Phase Voltage (rms) | Clearances (inches) |

@@ -1,6 +1,6 @@
 ##### § 250.734 What are the requirements for a subsea BOP system?
 
-(a) When you drill or conduct operations with a subsea BOP system, you must install the BOP system before drilling to deepen the well below the surface casing or before conducting operations if the well is already deepened beyond the surface casing point. The District Manager may require you to install a subsea BOP system before drilling or conducting operations below the conductor casing if proposed casing setting depths or local geology indicate the need. The following table outlines your requirements.
+(a) When you drill or conduct operations with a subsea BOP system, you must install the BOP system before drilling to deepen the well below the surface casing or before conducting operations if the well is already deepened beyond the surface casing point. The District Manager may require you to install a subsea BOP system before drilling or conducting operations below the conductor casing if proposed casing setting depths or local geology indicate the need. The following table outlines your requirements. 
 
 | When operating with a subsea BOP system, you must:                                                                                                                                                                                                                                                                                                                                        | Additional requirements:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,26 +27,26 @@
 | (15) Install a gas bleed line with two valves for the annular preventer no later than April 30, 2018;                                                                                                                                                                                                                                                                                     | (i) The valves must hold pressure from both directions;   (ii) If you have dual annulars, you must install the gas bleed line below the upper annular.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | (16) Use a BOP system that has the following mechanisms and capabilities;                                                                                                                                                                                                                                                                                                                 | (i) No later than May 1, 2023, you must have the capability to position the entire pipe completely within the area of the shearing blade. This capability cannot be a separate ram BOP or annular preventer, but you may use those during a planned shear.   (ii) If your control pods contain a subsea electronic module with batteries, a mechanism for personnel on the rig to monitor the state of charge of the subsea electronic module batteries in the BOP control pods.                                                                                                                                                                   |
 
-(b) If you suspend operations to make repairs to any part of the subsea BOP system, you must stop operations at a safe downhole location. Before resuming operations you must:
+(b) If you suspend operations to make repairs to any part of the subsea BOP system, you must stop operations at a safe downhole location. Before resuming operations you must: 
 
-(1) Submit a revised permit with a written statement from an independent third party documenting the repairs and certifying that the previous certification in § 250.731(c) remains valid;
+(1) Submit a revised permit with a written statement from an independent third party documenting the repairs and certifying that the previous certification in § 250.731(c) remains valid; 
 
-(2) Upon relatch of the BOP, perform an initial subsea BOP test in accordance with § 250.737(d)(4), including deadman in accordance with § 250.737(d)(12)(vi). If repairs take longer than 30 days, once the BOP is on deck, you must test in accordance with the requirements of § 250.737;
+(2) Upon relatch of the BOP, perform an initial subsea BOP test in accordance with § 250.737(d)(4), including deadman in accordance with § 250.737(d)(12)(vi). If repairs take longer than 30 days, once the BOP is on deck, you must test in accordance with the requirements of § 250.737; 
 
-(3) Upon relatch of the LMRP, you must test according to the following:
+(3) Upon relatch of the LMRP, you must test according to the following: 
 
-(i) Pressure test riser connector/gasket in accordance with § 250.737(b) and (c);
+(i) Pressure test riser connector/gasket in accordance with § 250.737(b) and (c); 
 
-(ii) Pressure test choke and kill stabs at LMRP/BOP interface in accordance with § 250.737(b) and (c);
+(ii) Pressure test choke and kill stabs at LMRP/BOP interface in accordance with § 250.737(b) and (c); 
 
-(iii) Full function test of both pods and both control panels;
+(iii) Full function test of both pods and both control panels; 
 
-(iv) Verify acoustic pod communication (if equipped); and
+(iv) Verify acoustic pod communication (if equipped); and 
 
-(v) Deadman test with pressure test in accordance with § 250.737(d)(12)(vi).
+(v) Deadman test with pressure test in accordance with § 250.737(d)(12)(vi). 
 
-(4) Receive approval from the District Manager.
+(4) Receive approval from the District Manager. 
 
-(c) If you plan to drill a new well with a subsea BOP, you do not need to submit with your APD the verifications required by this subpart for the open water drilling operation. Before drilling out the surface casing, you must submit for approval a revised APD, including the verifications required in this subpart.
+(c) If you plan to drill a new well with a subsea BOP, you do not need to submit with your APD the verifications required by this subpart for the open water drilling operation. Before drilling out the surface casing, you must submit for approval a revised APD, including the verifications required in this subpart. 
 
 \[81 FR 26022, Apr. 29, 2016, as amended at 84 FR 21980, May 15, 2019; 88 FR 57408, Aug. 23, 2023\]

@@ -1,18 +1,18 @@
 ##### § 18.31 Enclosures—joints and fastenings.
 
-(a) Explosion-proof enclosures:
+(a) Explosion-proof enclosures: 
 
-(1) Cast or welded enclosures shall be designed to withstand a minimum internal pressure of 150 pounds per square inch (gage). Castings shall be free from blowholes.
+(1) Cast or welded enclosures shall be designed to withstand a minimum internal pressure of 150 pounds per square inch (gage). Castings shall be free from blowholes. 
 
-(2) Welded joints forming an enclosure shall have continuous gas-tight welds. All welds shall be made in accordance with American Welding Society standards.
+(2) Welded joints forming an enclosure shall have continuous gas-tight welds. All welds shall be made in accordance with American Welding Society standards. 
 
-(3) External rotating parts shall not be constructed of aluminum alloys containing more than 0.6 percent magnesium.
+(3) External rotating parts shall not be constructed of aluminum alloys containing more than 0.6 percent magnesium. 
 
-(4) MSHA reserves the right to require the applicant to conduct static-pressure tests on each enclosure when MSHA determines that the particular design will not permit complete visual inspection or when the joint(s) forming an enclosure is welded on one side only (see § 18.67).
+(4) MSHA reserves the right to require the applicant to conduct static-pressure tests on each enclosure when MSHA determines that the particular design will not permit complete visual inspection or when the joint(s) forming an enclosure is welded on one side only (see § 18.67). 
 
-(5) Threaded covers and mating parts shall be designed with Class 1A and 1B (coarse, loose-fitting) threads. The flame-arresting path of threaded joints shall conform to the requirements of paragraph (a)(6) of this section.
+(5) Threaded covers and mating parts shall be designed with Class 1A and 1B (coarse, loose-fitting) threads. The flame-arresting path of threaded joints shall conform to the requirements of paragraph (a)(6) of this section. 
 
-(6) Enclosure requirements shall be based on the internal volumes of the empty enclosure. The internal volume is the volume remaining after deducting the volume of any part that is essential in maintaining the explosion-proof integrity of the enclosure or necessary for the operation. Essential parts include the parts that constitute the flame-arresting path and those necessary to secure parts that constitute a flame-arresting path. Enclosures shall meet the following requirements:
+(6) Enclosure requirements shall be based on the internal volumes of the empty enclosure. The internal volume is the volume remaining after deducting the volume of any part that is essential in maintaining the explosion-proof integrity of the enclosure or necessary for the operation. Essential parts include the parts that constitute the flame-arresting path and those necessary to secure parts that constitute a flame-arresting path. Enclosures shall meet the following requirements: 
 
 Explosion-Proof Requirements Based on Volume
 |                                                                                                                                                                                                                                                                                                                                                                                                                 | Volume of empty enclosure |
@@ -57,16 +57,16 @@ Explosion-Proof Requirements Based on Volume
 | 15 Shafts or operating rods through journal bearings shall be at least 1/4″ in diameter. The length of fit shall not be reduced when a push button is depressed. Operating rods shall have a shoulder or head on the portion inside the enclosure. Essential parts riveted or bolted to the inside portion are acceptable in lieu of a head or shoulder, but cotter pins and similar devices shall not be used. |                           |
 | 16 6″ with a minimum of 4 bolts.                                                                                                                                                                                                                                                                                                                                                                                |                           |
 
-(7) O-rings, if used in a flame-arresting path, shall meet the following:
+(7) O-rings, if used in a flame-arresting path, shall meet the following: 
 
-(i) When the flame-arresting path is in one plane, the o-ring shall be located at least one-half the acceptable flame-arresting path length specified in paragraph (a)(6) of this section within the outside edge of the path (see figure J-2 in the appendix to subpart J of part 7 of this chapter).
+(i) When the flame-arresting path is in one plane, the o-ring shall be located at least one-half the acceptable flame-arresting path length specified in paragraph (a)(6) of this section within the outside edge of the path (see figure J-2 in the appendix to subpart J of part 7 of this chapter). 
 
-(ii) When the flame-arresting path is one of the plane-cylindrical type (step joint), the o-ring shall be located at least 1/2 inch within the outer edge of the plane portion (see figure J-3 in the appendix to subpart J of part 7 of this chapter), or at the junction of the plane and cylindrical portion of the joint (see figure J-4 in the appendix to subpart J of part 7 of this chapter); or in the cylindrical portion (see figure J-5 in the appendix to subpart J of part 7 of this chapter).
+(ii) When the flame-arresting path is one of the plane-cylindrical type (step joint), the o-ring shall be located at least 1/2 inch within the outer edge of the plane portion (see figure J-3 in the appendix to subpart J of part 7 of this chapter), or at the junction of the plane and cylindrical portion of the joint (see figure J-4 in the appendix to subpart J of part 7 of this chapter); or in the cylindrical portion (see figure J-5 in the appendix to subpart J of part 7 of this chapter). 
 
-(8) Mating parts comprising a pressed fit shall result in a minimum interference of 0.001 inch between the parts. The minimum length of the pressed fit shall be equal to the minimum thickness requirement of paragraph (a)(6) of this section for the material in which the fit is made.
+(8) Mating parts comprising a pressed fit shall result in a minimum interference of 0.001 inch between the parts. The minimum length of the pressed fit shall be equal to the minimum thickness requirement of paragraph (a)(6) of this section for the material in which the fit is made. 
 
-(b) Enclosures for potted components: Enclosures shall be rugged and constructed with materials having 75 percent, or greater, of the thickness and flange width specified in paragraph (a) of this section. These enclosures shall be provided with means for attaching hose conduit, unless energy carried by the cable is intrinsically safe.
+(b) Enclosures for potted components: Enclosures shall be rugged and constructed with materials having 75 percent, or greater, of the thickness and flange width specified in paragraph (a) of this section. These enclosures shall be provided with means for attaching hose conduit, unless energy carried by the cable is intrinsically safe. 
 
-(c) No assembly will be approved that requires the opening of an explosion-proof enclosure to operate a switch, rheostat, or other device during normal operation of a machine.
+(c) No assembly will be approved that requires the opening of an explosion-proof enclosure to operate a switch, rheostat, or other device during normal operation of a machine. 
 
 \[33 FR 4660, Mar. 19, 1968, as amended at 57 FR 61209, Dec. 23, 1992\]

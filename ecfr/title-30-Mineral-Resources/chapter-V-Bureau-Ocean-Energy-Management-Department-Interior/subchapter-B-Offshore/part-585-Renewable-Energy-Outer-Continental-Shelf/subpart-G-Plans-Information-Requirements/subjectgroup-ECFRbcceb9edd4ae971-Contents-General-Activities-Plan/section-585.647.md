@@ -1,6 +1,6 @@
 ##### § 585.647 How will my GAP be processed for Federal consistency under the Coastal Zone Management Act?
 
-Your GAP will be processed based on whether it is submitted before or after your lease or grant is issued:
+Your GAP will be processed based on whether it is submitted before or after your lease or grant is issued: 
 
 | If your GAP is   submitted:        | Consistency review of your GAP will be handled as follows:                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

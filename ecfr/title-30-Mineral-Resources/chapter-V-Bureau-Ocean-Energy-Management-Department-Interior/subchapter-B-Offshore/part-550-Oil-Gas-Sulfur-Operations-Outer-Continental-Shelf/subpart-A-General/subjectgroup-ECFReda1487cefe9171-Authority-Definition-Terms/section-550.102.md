@@ -1,8 +1,8 @@
 ##### § 550.102 What does this part do?
 
-(a) This part contains the regulations of the BOEM Offshore program that govern oil, gas, and sulfur exploration, development, and production operations on the OCS. When you conduct operations on the OCS, you must submit requests, applications, and notices, or provide supplemental information for BOEM approval.
+(a) This part contains the regulations of the BOEM Offshore program that govern oil, gas, and sulfur exploration, development, and production operations on the OCS. When you conduct operations on the OCS, you must submit requests, applications, and notices, or provide supplemental information for BOEM approval. 
 
-(b) The following table of general references shows where to look for information about these processes.
+(b) The following table of general references shows where to look for information about these processes. 
 
 Table—Where To Find Information for Conducting Operations
 | For information about                            | Refer to                                         |

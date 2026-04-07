@@ -1,6 +1,6 @@
 ##### § 47.21 Identifying hazardous chemicals.
 
-The operator must evaluate each chemical brought on mine property and each chemical produced on mine property to determine if it is hazardous as specified in Table 47.21 as follows:
+The operator must evaluate each chemical brought on mine property and each chemical produced on mine property to determine if it is hazardous as specified in Table 47.21 as follows: 
 
 Table 47.21—Identifying Hazardous Chemicals
 | Category                          | Basis for determining if a chemical is hazardous                                                                                                                                                                        |

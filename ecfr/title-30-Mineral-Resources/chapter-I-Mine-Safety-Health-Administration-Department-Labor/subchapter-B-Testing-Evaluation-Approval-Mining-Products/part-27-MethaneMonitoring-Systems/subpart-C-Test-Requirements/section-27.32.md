@@ -1,6 +1,6 @@
 ##### § 27.32 Tests to determine performance of the system.
 
-(a) *Laboratory tests for reliability and durability.* Five hundred successful consecutive tests 2 for gas detection, alarm action, and power shutoff in natural gas-air mixtures 3 shall be conducted to demonstrate acceptable performance as to reliability and durability of a methane-monitoring system. The tests shall be conducted as follows:
+(a) *Laboratory tests for reliability and durability.* Five hundred successful consecutive tests 2 for gas detection, alarm action, and power shutoff in natural gas-air mixtures 3 shall be conducted to demonstrate acceptable performance as to reliability and durability of a methane-monitoring system. The tests shall be conducted as follows: 
 
 2 Normal replacements and adjustments shall not constitute a failure.
 

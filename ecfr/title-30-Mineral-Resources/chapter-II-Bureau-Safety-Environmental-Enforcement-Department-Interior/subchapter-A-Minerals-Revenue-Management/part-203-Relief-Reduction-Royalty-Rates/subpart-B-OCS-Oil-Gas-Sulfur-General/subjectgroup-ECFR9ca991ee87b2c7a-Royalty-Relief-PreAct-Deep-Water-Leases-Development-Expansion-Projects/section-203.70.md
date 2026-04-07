@@ -1,6 +1,6 @@
 ##### § 203.70 What information must I provide after BSEE approves relief?
 
-You must submit reports to us as indicated in the following table. Sections 203.81, 203.90, and 203.91 describe what these reports must include. The BSEE Regional Office for your region will prescribe the formats.
+You must submit reports to us as indicated in the following table. Sections 203.81, 203.90, and 203.91 describe what these reports must include. The BSEE Regional Office for your region will prescribe the formats. 
 
 | Required report                       | When due to BSEE                                                                                         | Due date extensions                                                                                                       |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |

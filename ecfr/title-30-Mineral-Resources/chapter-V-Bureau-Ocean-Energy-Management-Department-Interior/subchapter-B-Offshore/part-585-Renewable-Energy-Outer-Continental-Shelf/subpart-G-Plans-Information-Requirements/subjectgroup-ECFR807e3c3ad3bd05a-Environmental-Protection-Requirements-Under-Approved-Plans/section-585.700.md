@@ -1,6 +1,6 @@
 ##### § 585.700 What requirements must I include in my SAP, COP, or GAP regarding air quality?
 
-(a) You must comply with the Clean Air Act (42 U.S.C. 7409) and its implementing regulations in 40 CFR part 55, according to the following table.
+(a) You must comply with the Clean Air Act (42 U.S.C. 7409) and its implementing regulations in 40 CFR part 55, according to the following table. 
 
 | If your project is located . . .                                                                                                 | You must . . .                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |

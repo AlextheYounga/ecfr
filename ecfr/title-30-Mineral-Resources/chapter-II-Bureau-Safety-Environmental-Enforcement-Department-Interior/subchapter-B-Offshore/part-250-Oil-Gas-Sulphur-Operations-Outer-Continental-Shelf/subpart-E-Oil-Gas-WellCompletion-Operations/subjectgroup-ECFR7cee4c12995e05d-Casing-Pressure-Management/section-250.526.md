@@ -1,6 +1,6 @@
 ##### § 250.526 What do I submit if my casing diagnostic test requires action?
 
-Within 14 days after you perform a casing diagnostic test requiring action under § 250.525:
+Within 14 days after you perform a casing diagnostic test requiring action under § 250.525: 
 
 | You must submit either . . .                 | to the appropriate . . .                                             | and it must include . . .     | You must also . . .                                                                                         |
 | -------------------------------------------- | -------------------------------------------------------------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------- |

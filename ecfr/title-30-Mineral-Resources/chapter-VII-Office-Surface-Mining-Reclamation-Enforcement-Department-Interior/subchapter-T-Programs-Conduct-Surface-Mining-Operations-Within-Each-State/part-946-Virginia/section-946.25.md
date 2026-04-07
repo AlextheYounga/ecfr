@@ -10,10 +10,10 @@
 | September 19, 1997                 | February 5, 1998          | Revisions to the Virginia State Reclamation Plan corresponding to 30 CFR 884.13(c)(2)—Ranking and Selection: Set Aside Funds; and the AML Water Project Evaluation form.                                                             |
 | September 10, 1999                 | January 7, 2000           | Revisions to the Virginia State Reclamation Plan corresponding to 30 CFR 884.13(c)(2)—Ranking and Selection: Reclamation Projects Receiving Less Than 50% Government Funding.                                                        |
 
-(b) You may receive a copy from:
+(b) You may receive a copy from: 
 
-(1) Virginia Division of Mined Land Reclamation, P.O. Drawer 900, Big Stone Gap, Virginia 24219, or
+(1) Virginia Division of Mined Land Reclamation, P.O. Drawer 900, Big Stone Gap, Virginia 24219, or 
 
-(2) Office of Surface Mining Reclamation and Enforcement, Big Stone Gap Field Office, Powell Valley Square Shopping Center, 1941 Neeley Road, Suite 201, Compartment 116, Big Stone Gap, Virginia 24219.
+(2) Office of Surface Mining Reclamation and Enforcement, Big Stone Gap Field Office, Powell Valley Square Shopping Center, 1941 Neeley Road, Suite 201, Compartment 116, Big Stone Gap, Virginia 24219. 
 
 \[62 FR 9957, Mar. 5, 1997, as amended at 62 FR 35968, July 3, 1997; 63 FR 5891, Feb. 5, 1998; 65 FR 1065, Jan. 7, 2000\]

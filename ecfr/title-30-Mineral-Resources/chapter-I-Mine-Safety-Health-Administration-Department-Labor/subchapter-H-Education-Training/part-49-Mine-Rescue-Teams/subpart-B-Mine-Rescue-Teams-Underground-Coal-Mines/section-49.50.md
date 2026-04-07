@@ -1,8 +1,8 @@
 ##### § 49.50 Certification of coal mine rescue teams.
 
-(a) For each mine rescue team designated to provide mine rescue coverage at an underground coal mine, the mine operator shall send the District Manager an annual statement certifying that each team meets the requirements of this subpart as listed in the following Table 49.50-A and Table 49.50-B.
+(a) For each mine rescue team designated to provide mine rescue coverage at an underground coal mine, the mine operator shall send the District Manager an annual statement certifying that each team meets the requirements of this subpart as listed in the following Table 49.50-A and Table 49.50-B. 
 
-(b) The operator shall notify the District Manager within 60 days of any change in team membership.
+(b) The operator shall notify the District Manager within 60 days of any change in team membership. 
 
 Table 49.50-A—Initial Criteria To Certify the Qualifications of Mine Rescue Teams
 | Qualification                                                                                   | Criteria   (30 CFR) |

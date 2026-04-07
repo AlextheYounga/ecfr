@@ -1,6 +1,6 @@
 ##### § 3.1 OMB control numbers.
 
-The collection of information requirements in MSHA regulation sections in this chapter have been approved and assigned control numbers by the Office of Management and Budget (OMB) under the Paperwork Reduction Act. Regulation sections in this chapter containing paperwork requirements and their respective OMB control numbers are displayed in the following table:
+The collection of information requirements in MSHA regulation sections in this chapter have been approved and assigned control numbers by the Office of Management and Budget (OMB) under the Paperwork Reduction Act. Regulation sections in this chapter containing paperwork requirements and their respective OMB control numbers are displayed in the following table: 
 
 Table 1—OMB Control Numbers
 | 30 CFR Citation                                                                      | OMB Control No.         |

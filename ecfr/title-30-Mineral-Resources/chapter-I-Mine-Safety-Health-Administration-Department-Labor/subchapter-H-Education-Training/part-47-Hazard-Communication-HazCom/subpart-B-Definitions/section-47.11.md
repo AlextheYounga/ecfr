@@ -1,6 +1,6 @@
 ##### § 47.11 Definitions of terms used in this part.
 
-The definitions in Table 47.11 apply in this part as follows:
+The definitions in Table 47.11 apply in this part as follows: 
 
 Table 47.11—Definitions
 | Term                              | Definition for purposes of HazCom                                                                                                                                                                                                                                           |

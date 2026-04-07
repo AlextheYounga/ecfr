@@ -1,6 +1,6 @@
 ##### § 250.140 When will I receive an oral approval?
 
-When you apply for BSEE approval of any activity, we normally give you a written decision. The following table shows circumstances under which we may give an oral approval.
+When you apply for BSEE approval of any activity, we normally give you a written decision. The following table shows circumstances under which we may give an oral approval. 
 
 | When you . . .                               | We may . . .                                         | And . . .                                                                                                                                                                                                                                                                                                                     |
 | -------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 ##### § 723.14 Determination of amount of penalty.
 
-The Office shall determine the amount of any civil penalty by converting the total number of points assigned under 30 CFR 723.13 to a dollar amount, according to the following schedule:
+The Office shall determine the amount of any civil penalty by converting the total number of points assigned under 30 CFR 723.13 to a dollar amount, according to the following schedule: 
 
 Table 1 to § 723.14
 | Points | Dollars |

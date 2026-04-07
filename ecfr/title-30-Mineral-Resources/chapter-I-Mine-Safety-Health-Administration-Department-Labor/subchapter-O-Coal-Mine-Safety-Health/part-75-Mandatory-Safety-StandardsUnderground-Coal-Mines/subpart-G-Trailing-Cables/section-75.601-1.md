@@ -1,6 +1,6 @@
 ##### § 75.601-1 Short circuit protection; ratings and settings of circuit breakers.
 
-Circuit breakers providing short circuit protection for trailing cables shall be set so as not to exceed the maximum allowable instantaneous settings specified in this section; however, higher settings may be permitted by an authorized representative of the Secretary when he has determined that special applications are justified:
+Circuit breakers providing short circuit protection for trailing cables shall be set so as not to exceed the maximum allowable instantaneous settings specified in this section; however, higher settings may be permitted by an authorized representative of the Secretary when he has determined that special applications are justified: 
 
 | Conductor size AWG or MGM | Maximum allowable circuit breaker instantaneous setting (amperes) |
 | ------------------------- | ----------------------------------------------------------------- |

@@ -1,42 +1,42 @@
 ##### § 57.4760 Shaft mines.
 
-(a) Shaft mines shall be provided with at least one of the following means to control the spread of fire, smoke, and toxic gases underground in the event of a fire: control doors, reversal of mechanical ventilation, or effective evacuation procedures. Under this standard, “shaft mine” means a mine in which any designated escapeway includes a mechanical hoisting device or a ladder ascent.
+(a) Shaft mines shall be provided with at least one of the following means to control the spread of fire, smoke, and toxic gases underground in the event of a fire: control doors, reversal of mechanical ventilation, or effective evacuation procedures. Under this standard, “shaft mine” means a mine in which any designated escapeway includes a mechanical hoisting device or a ladder ascent. 
 
-(1) *Control doors.* If used as an alternative, control doors shall be—
+(1) *Control doors.* If used as an alternative, control doors shall be— 
 
-(i) Installed at or near shaft stations of intake shafts and any shaft designated as an escapeway under § 57.11053 or at other locations that provide equivalent protection;
+(i) Installed at or near shaft stations of intake shafts and any shaft designated as an escapeway under § 57.11053 or at other locations that provide equivalent protection; 
 
-(ii) Constructed and maintained according to Table C-3;
+(ii) Constructed and maintained according to Table C-3; 
 
-(iii) Provided with a means of remote closure at landings of timbered intake shafts unless a person specifically designated to close each door in the event of a fire can reach the door within three minutes;
+(iii) Provided with a means of remote closure at landings of timbered intake shafts unless a person specifically designated to close each door in the event of a fire can reach the door within three minutes; 
 
-(iv) Closed or opened only according to predetermined conditions and procedures;
+(iv) Closed or opened only according to predetermined conditions and procedures; 
 
-(v) Constructed so that once closed they will not reopen as a result of a differential in air pressure;
+(v) Constructed so that once closed they will not reopen as a result of a differential in air pressure; 
 
-(vi) Constructed so that they can be opened from either side by one person, or be provided with a personnel door that can be opened from either side; and
+(vi) Constructed so that they can be opened from either side by one person, or be provided with a personnel door that can be opened from either side; and 
 
-(vii) Clear of obstructions.
+(vii) Clear of obstructions. 
 
-(2) *Mechanical ventilation reversal.* If used as an alternative, reversal of mechanical ventilation shall—
+(2) *Mechanical ventilation reversal.* If used as an alternative, reversal of mechanical ventilation shall— 
 
-(i) Provide at all times at least the same degree of protection to persons underground as would be afforded by the installation of control doors;
+(i) Provide at all times at least the same degree of protection to persons underground as would be afforded by the installation of control doors; 
 
-(ii) Be accomplished by a main fan. If the main fan is located underground—
+(ii) Be accomplished by a main fan. If the main fan is located underground— 
 
-(A) The cable or conductors supplying power to the fan shall be routed through areas free of fire hazards; or
+(A) The cable or conductors supplying power to the fan shall be routed through areas free of fire hazards; or 
 
-(B) The main fan shall be equipped with a second, independent power cable or set of conductors from the surface. The power cable or conductors shall be located so that an underground fire disrupting power in one cable or set of conductors will not affect the other; or
+(B) The main fan shall be equipped with a second, independent power cable or set of conductors from the surface. The power cable or conductors shall be located so that an underground fire disrupting power in one cable or set of conductors will not affect the other; or 
 
-(C) A second fan capable of accomplishing ventilation reversal shall be available for use in the event of failure of the main fan;
+(C) A second fan capable of accomplishing ventilation reversal shall be available for use in the event of failure of the main fan; 
 
-(iii) Provide rapid air reversal that allows persons underground time to exit in fresh air by the second escapeway or find a place of refuge; and
+(iii) Provide rapid air reversal that allows persons underground time to exit in fresh air by the second escapeway or find a place of refuge; and 
 
-(iv) Be done according to predetermined conditions and procedures.
+(iv) Be done according to predetermined conditions and procedures. 
 
-(3) *Evacuation.* If used as an alternative, effective evacuation shall be demonstrated by actual evacuation of all persons underground to the surface in ten minutes or less through routes that will not expose persons to heat, smoke, or toxic fumes in the event of a fire.
+(3) *Evacuation.* If used as an alternative, effective evacuation shall be demonstrated by actual evacuation of all persons underground to the surface in ten minutes or less through routes that will not expose persons to heat, smoke, or toxic fumes in the event of a fire. 
 
-(b) If the destruction of any bulkhead on an inactive level would allow fire contaminants to reach an escapeway, that bulkhead shall be constructed and maintained to provide at least the same protection as required for control doors under Table C-3.
+(b) If the destruction of any bulkhead on an inactive level would allow fire contaminants to reach an escapeway, that bulkhead shall be constructed and maintained to provide at least the same protection as required for control doors under Table C-3. 
 
 Table C-3—Control Door Construction
 | Location                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Minimum required construction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

@@ -1,6 +1,6 @@
 ##### § 47.92 Exemptions from labeling.
 
-A hazardous chemical is exempt from subpart E of this part under the conditions described in Table 47.92 as follows:
+A hazardous chemical is exempt from subpart E of this part under the conditions described in Table 47.92 as follows: 
 
 Table 47.92—Hazardous Chemicals Exempt from Labeling
 | Exemption                                                               | Conditions for exemption                                                                                                                                                                                     |

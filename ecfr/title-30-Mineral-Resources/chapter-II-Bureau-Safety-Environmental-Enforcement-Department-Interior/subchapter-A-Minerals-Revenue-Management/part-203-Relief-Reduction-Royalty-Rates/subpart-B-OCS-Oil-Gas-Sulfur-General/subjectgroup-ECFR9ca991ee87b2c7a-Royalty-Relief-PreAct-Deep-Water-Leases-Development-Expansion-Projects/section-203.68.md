@@ -1,8 +1,8 @@
 ##### § 203.68 What pre-application costs will BSEE consider in determining economic viability?
 
-(a) We will not consider ineligible costs as set forth in § 203.89(h) in determining economic viability for purposes of royalty relief.
+(a) We will not consider ineligible costs as set forth in § 203.89(h) in determining economic viability for purposes of royalty relief. 
 
-(b) We will consider sunk costs according to the following table.
+(b) We will consider sunk costs according to the following table. 
 
 | We will . . .                                                        | When determining . . .                                                                                                                                                                       |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

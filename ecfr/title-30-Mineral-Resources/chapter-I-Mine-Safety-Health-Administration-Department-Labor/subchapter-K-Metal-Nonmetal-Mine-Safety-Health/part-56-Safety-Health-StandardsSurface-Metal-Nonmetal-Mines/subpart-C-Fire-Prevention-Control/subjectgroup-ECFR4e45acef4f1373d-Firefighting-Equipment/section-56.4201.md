@@ -1,18 +1,18 @@
 ##### § 56.4201 Inspection.
 
-(a) Firefighting equipment shall be inspected according to the following schedules:
+(a) Firefighting equipment shall be inspected according to the following schedules: 
 
-(1) Fire extinguishers shall be inspected visually at least once a month to determine that they are fully charged and operable.
+(1) Fire extinguishers shall be inspected visually at least once a month to determine that they are fully charged and operable. 
 
-(2) At least once every twelve months, maintenance checks shall be made of mechanical parts, the amount and condition of extinguishing agent and expellant, and the condition of the hose, nozzle, and vessel to determine that the fire extinguishers will operate effectively.
+(2) At least once every twelve months, maintenance checks shall be made of mechanical parts, the amount and condition of extinguishing agent and expellant, and the condition of the hose, nozzle, and vessel to determine that the fire extinguishers will operate effectively. 
 
-(3) Fire extinguishers shall be hydrostatically tested according to Table C-1 or a schedule based on the manufacturer's specifications to determine the integrity of extinguishing agent vessels.
+(3) Fire extinguishers shall be hydrostatically tested according to Table C-1 or a schedule based on the manufacturer's specifications to determine the integrity of extinguishing agent vessels. 
 
-(4) Water pipes, valves, outlets, hydrants, and hoses that are part of the mine's firefighting system shall be visually inspected at least once every three months for damage or deterioration and use-tested at least once every twelve months to determine that they remain functional.
+(4) Water pipes, valves, outlets, hydrants, and hoses that are part of the mine's firefighting system shall be visually inspected at least once every three months for damage or deterioration and use-tested at least once every twelve months to determine that they remain functional. 
 
-(5) Fire suppression systems shall be inspected at least once every twelve months. An inspection schedule based on the manufacturer's specifications or the equivalent shall be established for individual components of a system and followed to determine that the system remains functional. Surface fire suppression systems are exempt from these inspection requirements if the systems are used solely for the protection of property and no persons would be affected by a fire.
+(5) Fire suppression systems shall be inspected at least once every twelve months. An inspection schedule based on the manufacturer's specifications or the equivalent shall be established for individual components of a system and followed to determine that the system remains functional. Surface fire suppression systems are exempt from these inspection requirements if the systems are used solely for the protection of property and no persons would be affected by a fire. 
 
-(b) At the completion of each inspection or test required by this standard, the person making the inspection or test shall certify that the inspection or test has been made and the date on which it was made. Certifications of hydrostatic testing shall be retained until the fire extinguisher is retested or permanently removed from service. Other certifications shall be retained for one year.
+(b) At the completion of each inspection or test required by this standard, the person making the inspection or test shall certify that the inspection or test has been made and the date on which it was made. Certifications of hydrostatic testing shall be retained until the fire extinguisher is retested or permanently removed from service. Other certifications shall be retained for one year. 
 
 Table C-1—Hydrostatic Test Intervals for Fire Extinguishers
 | Extinguisher type                                                                                                                    | Test interval (years) |

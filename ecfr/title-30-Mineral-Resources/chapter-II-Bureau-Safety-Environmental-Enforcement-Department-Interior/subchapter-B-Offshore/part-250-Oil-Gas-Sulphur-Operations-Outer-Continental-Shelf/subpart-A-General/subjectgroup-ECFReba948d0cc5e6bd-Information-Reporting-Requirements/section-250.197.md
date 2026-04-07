@@ -1,8 +1,8 @@
 ##### § 250.197 Data and information to be made available to the public or for limited inspection.
 
-BSEE will protect data and information that you submit under this part, and 30 CFR part 203, as described in this section. Paragraphs (a) and (b) of this section describe what data and information will be made available to the public without the consent of the lessee, under what circumstances, and in what time period. Paragraph (c) of this section describes what data and information will be made available for limited inspection without the consent of the lessee, and under what circumstances.
+BSEE will protect data and information that you submit under this part, and 30 CFR part 203, as described in this section. Paragraphs (a) and (b) of this section describe what data and information will be made available to the public without the consent of the lessee, under what circumstances, and in what time period. Paragraph (c) of this section describes what data and information will be made available for limited inspection without the consent of the lessee, and under what circumstances. 
 
-(a) All data and information you submit on BSEE forms will be made available to the public upon submission, except as specified in the following table:
+(a) All data and information you submit on BSEE forms will be made available to the public upon submission, except as specified in the following table: 
 
 | On form . . .                                       | Data and information not immediately available are . . .                                                                                                                                                    | Excepted data will be made available . . .                                                                                                                                                                                                                                 |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,7 +17,7 @@ BSEE will protect data and information that you submit under this part, and 30 C
 | (9) \[Reserved\]                                    |                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                            |
 | (10) \[Reserved\]                                   |                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                            |
 
-(b) BSEE will release lease and permit data and information that you submit and BSEE retains, but that are not normally submitted on BSEE forms, according to the following table:
+(b) BSEE will release lease and permit data and information that you submit and BSEE retains, but that are not normally submitted on BSEE forms, according to the following table: 
 
 | If . . .                                                                                                                                                                                                                                                  | BSEE will release . . .                                                                                                            | At this time . . .                                                                                                                                                                               | Special provisions . . .                                                                                                                                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,18 +31,18 @@ BSEE will protect data and information that you submit under this part, and 30 C
 | (8) Data and information are obtained from beneath unleased land as a result of a well deviation that has not been approved by the District Manager or Regional Supervisor,                                                                               | Any data or information obtained,                                                                                                  | At any time,                                                                                                                                                                                     | None.                                                                                                                                                                                                                                                                                                                      |
 | (9) Except for high-resolution data and information released under paragraph (b)(2) of this section data and information acquired by a permit under 30 CFR part 551 are submitted by a lessee under 30 CFR part 203, 30 CFR part 250, or 30 CFR part 550, | G&G data, analyzed geological information, processed and interpreted G&G information,                                              | Geological data and information: 10 years after BOEM issues the permit; Geophysical data: 50 years after BOEM issues the permit; Geophysical information: 25 years after BOEM issues the permit, | None.                                                                                                                                                                                                                                                                                                                      |
 
-(c) BSEE may allow limited inspection, but only by persons with a direct interest in related BSEE decisions and issues in specific geographic areas, and who agree in writing to its confidentiality, of G&G data and information submitted under this part or 30 CFR part 203 that BSEE uses to:
+(c) BSEE may allow limited inspection, but only by persons with a direct interest in related BSEE decisions and issues in specific geographic areas, and who agree in writing to its confidentiality, of G&G data and information submitted under this part or 30 CFR part 203 that BSEE uses to: 
 
-(1) Make unitization determinations on two or more leases;
+(1) Make unitization determinations on two or more leases; 
 
-(2) Make competitive reservoir determinations;
+(2) Make competitive reservoir determinations; 
 
-(3) Ensure proper plans of development for competitive reservoirs;
+(3) Ensure proper plans of development for competitive reservoirs; 
 
-(4) Promote operational safety;
+(4) Promote operational safety; 
 
-(5) Protect the environment;
+(5) Protect the environment; 
 
-(6) \[Reserved\]; or
+(6) \[Reserved\]; or 
 
 (7) Determine eligibility for royalty relief.

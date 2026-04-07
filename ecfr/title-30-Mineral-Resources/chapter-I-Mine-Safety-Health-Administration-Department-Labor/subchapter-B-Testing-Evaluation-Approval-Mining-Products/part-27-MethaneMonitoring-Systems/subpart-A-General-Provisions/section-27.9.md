@@ -1,6 +1,6 @@
 ##### § 27.9 Date for conducting tests.
 
-The date of receipt of an application will determine the order of precedence for investigation and testing. The applicant will be notified of the date on which tests will begin.
+The date of receipt of an application will determine the order of precedence for investigation and testing. The applicant will be notified of the date on which tests will begin. 
 
 Note:
 

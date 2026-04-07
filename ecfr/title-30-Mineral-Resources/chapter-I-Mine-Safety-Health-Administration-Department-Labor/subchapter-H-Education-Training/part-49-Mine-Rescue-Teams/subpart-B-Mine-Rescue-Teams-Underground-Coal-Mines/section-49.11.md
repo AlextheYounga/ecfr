@@ -1,8 +1,8 @@
 ##### § 49.11 Purpose and scope.
 
-(a) This subpart implements the provisions of section 115(e) of the Federal Mine Safety and Health Act of 1977, as amended by the Mine Improvement and New Emergency Response (MINER) Act of 2006. Every operator of an underground coal mine shall assure the availability of mine rescue capability for purposes of emergency rescue and recovery.
+(a) This subpart implements the provisions of section 115(e) of the Federal Mine Safety and Health Act of 1977, as amended by the Mine Improvement and New Emergency Response (MINER) Act of 2006. Every operator of an underground coal mine shall assure the availability of mine rescue capability for purposes of emergency rescue and recovery. 
 
-(b) The following Table 49.11 summarizes the new requirements for mine rescue teams contained in section 4 of the MINER Act.
+(b) The following Table 49.11 summarizes the new requirements for mine rescue teams contained in section 4 of the MINER Act. 
 
 Table 49.11—Summary of New Miner Act Requirements for Underground Coal Mine Operators and Mine Rescue Teams
 | Requirement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Type of mine rescue team                              |

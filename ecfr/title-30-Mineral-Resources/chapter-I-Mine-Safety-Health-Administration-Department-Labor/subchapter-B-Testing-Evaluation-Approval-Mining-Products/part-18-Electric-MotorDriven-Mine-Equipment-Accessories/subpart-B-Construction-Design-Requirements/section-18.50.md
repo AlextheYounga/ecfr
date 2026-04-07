@@ -1,10 +1,10 @@
 ##### § 18.50 Protection against external arcs and sparks.
 
-Provision shall be made for maintaining the frames of all off-track machines and the enclosures of related detached components at safe voltages by using one or a combination of the following:
+Provision shall be made for maintaining the frames of all off-track machines and the enclosures of related detached components at safe voltages by using one or a combination of the following: 
 
-(a) A separate conductor(s) in the portable cable in addition to the power conductors by which the machine frame can be connected to an acceptable grounding medium, and a separate conductor in all cables connecting related components not on a common chassis. The cross-sectional area of the additional conductor(s) shall not be less than 50 percent of that of one power conductor unless a ground-fault tripping relay is used, in which case the minimum size may be No. 8 (AWG). Cables smaller than No. 6 (AWG) shall have an additional conductor(s) of the same size as one power conductor.
+(a) A separate conductor(s) in the portable cable in addition to the power conductors by which the machine frame can be connected to an acceptable grounding medium, and a separate conductor in all cables connecting related components not on a common chassis. The cross-sectional area of the additional conductor(s) shall not be less than 50 percent of that of one power conductor unless a ground-fault tripping relay is used, in which case the minimum size may be No. 8 (AWG). Cables smaller than No. 6 (AWG) shall have an additional conductor(s) of the same size as one power conductor. 
 
-(b) A means of actuating a circuit-interrupting device, preferably at the outby end of the portable cable.
+(b) A means of actuating a circuit-interrupting device, preferably at the outby end of the portable cable. 
 
 Note:
 

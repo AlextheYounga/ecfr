@@ -1,13 +1,13 @@
 ##### § 203.41 If I have a qualified deep well or a qualified phase 1 ultra-deep well, what royalty relief would my lease earn?
 
-(a) To qualify for a suspension volume under paragraphs (b) or (c) of this section, your lease must meet the requirements in § 203.40 and the requirements in the following table.
+(a) To qualify for a suspension volume under paragraphs (b) or (c) of this section, your lease must meet the requirements in § 203.40 and the requirements in the following table. 
 
 | If your lease has not . . .                                                                               | And if it later . . .                                                                                                                  | Then your lease . . .                                    |
 | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | (1) produced gas or oil from any deep well or ultra-deep well,                                            | Has a qualified deep well or qualified phase 1 ultra-deep well,                                                                        | earns an RSV specified in paragraph (b) of this section. |
 | (2) produced gas or oil from a well with a perforated interval whose top is 18,000 feet TVD SS or deeper, | Has a qualified deep well with a perforated interval whose top is 18,000 feet TVD SS or deeper or a qualified phase 1 ultra-deep well, | earns an RSV specified in paragraph (c) of this section. |
 
-(b) If your lease meets the requirements in paragraph (a)(1) of this section, it earns the RSV prescribed in the following table:
+(b) If your lease meets the requirements in paragraph (a)(1) of this section, it earns the RSV prescribed in the following table: 
 
 | If you have a qualified deep well or a qualified phase 1 ultra-deep well that is:                                | Then your lease earns an RSV on this volume of gas production:                                               |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -16,7 +16,7 @@
 | (3) An original well with a perforated interval the top of which is at least 18,000 feet TVD SS,                 | 25 BCF.                                                                                                      |
 | (4) A sidetrack with a perforated interval the top of which is at least 18,000 feet TVD SS,                      | 4 BCF plus 600 MCF times sidetrack measured depth (rounded to the nearest 100 feet) but no more than 25 BCF. |
 
-(c) If your lease meets the requirements in paragraph (a)(2) of this section, it earns the RSV prescribed in the following table. The RSV specified in this paragraph is in addition to any RSV your lease already may have earned from a qualified deep well with a perforated interval whose top is from 15,000 feet to less than 18,000 feet TVD SS.
+(c) If your lease meets the requirements in paragraph (a)(2) of this section, it earns the RSV prescribed in the following table. The RSV specified in this paragraph is in addition to any RSV your lease already may have earned from a qualified deep well with a perforated interval whose top is from 15,000 feet to less than 18,000 feet TVD SS. 
 
 | If you have a qualified deep well or a qualified phase 1 ultra-deep well that is . . .                                          | Then you earn an RSV on this amount of gas production:                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -24,19 +24,19 @@
 | (2) An original well with a perforated interval the top of which is 18,000 feet TVD SS or deeper,                               | 10 BCF.                                                                                                      |
 | (3) A sidetrack with a perforated interval the top of which is 18,000 feet TVD SS or deeper,                                    | 4 BCF plus 600 MCF times sidetrack measured depth (rounded to the nearest 100 feet) but no more than 10 BCF. |
 
-(d) Lessees may request a refund of or recoup royalties paid on production from qualified wells on a lease that is located in water entirely deeper than 200 meters but entirely less than 400 meters deep that:
+(d) Lessees may request a refund of or recoup royalties paid on production from qualified wells on a lease that is located in water entirely deeper than 200 meters but entirely less than 400 meters deep that: 
 
-(1) Occurs before December 18, 2008; and
+(1) Occurs before December 18, 2008; and 
 
-(2) Is subject to application of an RSV under either § 203.31 or § 203.41.
+(2) Is subject to application of an RSV under either § 203.31 or § 203.41. 
 
-(e) The following examples illustrate how this section applies, assuming your lease meets the location, prior production, and lease issuance conditions in § 203.40 and paragraph (a) of this section:
+(e) The following examples illustrate how this section applies, assuming your lease meets the location, prior production, and lease issuance conditions in § 203.40 and paragraph (a) of this section: 
 
 Example 1:If you have a qualified deep well that is an original well with a perforated interval the top of which is 16,000 feet TVD SS, your lease earns an RSV of 15 BCF under paragraph (b)(1) of this section. This RSV must be applied to gas production from all qualified wells on your lease, as prescribed in §§ 203.43 and 203.48. However, if the top of the perforated interval is 18,500 feet TVD SS, the RSV is 25 BCF according to paragraph (b)(3) of this section.Example 2:If you have a qualified deep well that is a sidetrack, with a perforated interval the top of which is 16,000 feet TVD SS and a sidetrack measured depth of 6,789 feet, we round the measured depth to 6,800 feet and your lease earns an RSV of 8.08 BCF under paragraph (b)(2) of this section. This RSV would be applied to gas production from all qualified wells on your lease, as prescribed in §§ 203.43 and 203.48.Example 3:If you have a qualified deep well that is a sidetrack, with a perforated interval the top of which is 16,000 feet TVD SS and a sidetrack measured depth of 19,500 feet, your lease earns an RSV of 15 BCF. This RSV would be applied to gas production from all qualified wells on your lease, as prescribed in §§ 203.43 and 203.48, even though 4 BCF plus 600 MCF per foot of sidetrack measured depth equals 15.7 BCF because paragraph (b)(2) of this section limits the RSV for a sidetrack at the amount an original well to the same depth would earn.Example 4:If you have drilled and produced a deep well with a perforated interval the top of which is 16,000 feet TVD SS before March 26, 2003 (and the well therefore is not a qualified well and has earned no RSV under this section), and later drill:
 
-(i) A deep well with a perforated interval the top of which is 17,000 feet TVD SS, your lease earns no RSV (see paragraph (c)(1) of this section);
+(i) A deep well with a perforated interval the top of which is 17,000 feet TVD SS, your lease earns no RSV (see paragraph (c)(1) of this section); 
 
-(ii) A qualified deep well that is an original well with a perforated interval the top of which is 19,000 feet TVD SS, your lease earns an RSV of 10 BCF under paragraph (c)(2) of this section. This RSV would be applied to gas production from qualified wells on your lease, as prescribed in §§ 203.43 and 203.48; or
+(ii) A qualified deep well that is an original well with a perforated interval the top of which is 19,000 feet TVD SS, your lease earns an RSV of 10 BCF under paragraph (c)(2) of this section. This RSV would be applied to gas production from qualified wells on your lease, as prescribed in §§ 203.43 and 203.48; or 
 
 (iii) A qualified deep well that is a sidetrack with a perforated interval the top of which is 19,000 feet TVD SS, that has a sidetrack measured depth of 7,000 feet, your lease earns an RSV of 8.2 BCF under paragraph (c)(3) of this section. This RSV would be applied to gas production from qualified wells on your lease, as prescribed in §§ 203.43 and 203.48.
 

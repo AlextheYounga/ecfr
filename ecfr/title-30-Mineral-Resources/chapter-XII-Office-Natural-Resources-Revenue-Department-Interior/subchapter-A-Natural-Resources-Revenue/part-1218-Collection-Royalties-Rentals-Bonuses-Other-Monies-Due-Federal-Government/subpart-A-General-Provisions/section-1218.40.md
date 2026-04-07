@@ -1,16 +1,16 @@
 ##### § 1218.40 Assessments for incorrect or late reports and failure to report.
 
-(a) An assessment of an amount not to exceed $10 per day may be charged for each report not received by Office of Natural Resources Revenue (ONRR) by the designated due date for geothermal, solid minerals, and Indian oil and gas leases.
+(a) An assessment of an amount not to exceed $10 per day may be charged for each report not received by Office of Natural Resources Revenue (ONRR) by the designated due date for geothermal, solid minerals, and Indian oil and gas leases. 
 
-(b) An assessment of an amount not to exceed $10 per day may be charged for each incorrectly completed report for geothermal, solid minerals, and Indian oil and gas leases.
+(b) An assessment of an amount not to exceed $10 per day may be charged for each incorrectly completed report for geothermal, solid minerals, and Indian oil and gas leases. 
 
-(c) For purpose of assessments discussed in this section, a report is defined as follows:
+(c) For purpose of assessments discussed in this section, a report is defined as follows: 
 
-(1) For coal and other solid minerals leases, a report is each line on Form ONRR-4430, Solid Minerals Production and Royalty Report; or on Form ONRR-2014, Report of Sales and Royalty Remittance, as appropriate.
+(1) For coal and other solid minerals leases, a report is each line on Form ONRR-4430, Solid Minerals Production and Royalty Report; or on Form ONRR-2014, Report of Sales and Royalty Remittance, as appropriate. 
 
-(2) For Indian oil and gas and all geothermal leases, a report is each line on Form ONRR-2014.
+(2) For Indian oil and gas and all geothermal leases, a report is each line on Form ONRR-2014. 
 
-(d) An assessment under this section shall not be shared with a State, Indian tribe, or Indian allottee.
+(d) An assessment under this section shall not be shared with a State, Indian tribe, or Indian allottee. 
 
 (e) The amount of the assessment to be imposed pursuant to paragraphs (a) and (b) of this section shall be established periodically by ONRR. The assessment amount for each violation will be based on ONRR's experience with costs and improper reporting. The ONRR will publish a Notice of the assessment amount to be applied in the Federal Register.
 

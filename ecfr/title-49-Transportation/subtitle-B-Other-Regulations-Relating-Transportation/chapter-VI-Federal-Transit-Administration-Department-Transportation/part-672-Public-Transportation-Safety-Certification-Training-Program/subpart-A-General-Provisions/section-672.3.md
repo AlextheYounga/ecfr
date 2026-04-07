@@ -2,6 +2,10 @@
 
 (a) In general, this part applies to all recipients of Federal financial assistance under 49 U.S.C. chapter 53.
 
-(b) The mandatory requirements of this part will apply only to State Safety Oversight Agency personnel and contractors that conduct safety audits and examinations of rail fixed guideway public transportation systems, and designated personnel and contractors who are directly responsible for the safety oversight of a recipient's rail fixed guideway public transportation systems.
+(b) The requirements of this part apply only to:
 
-(c) Other FTA recipients may participate voluntarily in accordance with this part.
+(1) State Safety Oversight Agencies (SSOAs) and their employees and contractors that conduct safety reviews, inspections, examinations, and other safety oversight activities of rail fixed guideway public transportation systems, and
+
+(2) Rail transit agencies and their employees and contractors who are directly responsible for the safety oversight of a recipient's rail fixed guideway public transportation systems.
+
+(c) Voluntary participants may complete the Public Transportation Safety Certification Training Program curriculum in accordance with this part.

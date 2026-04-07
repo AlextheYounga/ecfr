@@ -1,6 +1,6 @@
 ##### § 75.601-3 Short circuit protection; dual element fuses; current ratings; maximum values.
 
-Dual element fuses having adequate current-interrupting capacity shall meet the requirements for short circuit protection of trailing cables as provided in § 75.601, however, the current ratings of such devices shall not exceed the maximum values specified in this section:
+Dual element fuses having adequate current-interrupting capacity shall meet the requirements for short circuit protection of trailing cables as provided in § 75.601, however, the current ratings of such devices shall not exceed the maximum values specified in this section: 
 
 | Conductor size (AWG or MGM) | Single conductor cable | Two conductor cable |
 | --------------------------- | ---------------------- | ------------------- |

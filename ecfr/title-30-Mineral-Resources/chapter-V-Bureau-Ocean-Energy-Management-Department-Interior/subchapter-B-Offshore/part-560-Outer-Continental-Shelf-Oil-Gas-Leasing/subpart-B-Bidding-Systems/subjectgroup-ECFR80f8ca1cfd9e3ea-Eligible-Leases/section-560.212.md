@@ -1,8 +1,8 @@
 ##### § 560.212 How does BOEM assign and monitor royalty suspension volumes for eligible leases?
 
-(a) We have specified the water depth category for each eligible lease in the final Notice of OCS Lease Sale Package. The Final Notice of Sale is published in the Federal Register and the complete Final Notice of OCS Lease Sale Package is available on the BOEM Web site. Our determination of water depth for each lease became final when we issued the lease.
+(a) We have specified the water depth category for each eligible lease in the final Notice of OCS Lease Sale Package. The Final Notice of Sale is published in the Federal Register and the complete Final Notice of OCS Lease Sale Package is available on the BOEM Web site. Our determination of water depth for each lease became final when we issued the lease. 
 
-(b) We have specified in the Notice of OCS Lease Sale the royalty suspension volume applicable to each water depth. The following table shows the royalty suspension volumes for each eligible lease in million barrels of oil equivalent (MMBOE):
+(b) We have specified in the Notice of OCS Lease Sale the royalty suspension volume applicable to each water depth. The following table shows the royalty suspension volumes for each eligible lease in million barrels of oil equivalent (MMBOE): 
 
 | Water depth                     | Minimum royalty suspension volume |
 | ------------------------------- | --------------------------------- |

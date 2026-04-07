@@ -1,16 +1,16 @@
 ##### § 27.22 Methane detector component.
 
-(a) A methane detector component shall be suitably constructed for incorporation in or with permissible and approved equipment that is operated in gassy mines and tunnels.
+(a) A methane detector component shall be suitably constructed for incorporation in or with permissible and approved equipment that is operated in gassy mines and tunnels. 
 
-(b) A methane detector shall include:
+(b) A methane detector shall include: 
 
-(1) A method of continuous sampling of the atmosphere in which it functions.
+(1) A method of continuous sampling of the atmosphere in which it functions. 
 
-(2) A method for actuating a warning device which shall function automatically at a methane content of the mine atmosphere between 1.0 to 1.5 volume percent. The warning device shall also function automatically at all higher concentrations of methane in the mine atmosphere.
+(2) A method for actuating a warning device which shall function automatically at a methane content of the mine atmosphere between 1.0 to 1.5 volume percent. The warning device shall also function automatically at all higher concentrations of methane in the mine atmosphere. 
 
-(3) A method for actuating a power-shutoff component, which shall function automatically when the methane content of the mine atmosphere is 2.0 volume percent and at all higher concentrations of methane.
+(3) A method for actuating a power-shutoff component, which shall function automatically when the methane content of the mine atmosphere is 2.0 volume percent and at all higher concentrations of methane. 
 
-(4) A suitable filter on the sampling intake to prevent dust and moisture from entering and interfering with normal operation.
+(4) A suitable filter on the sampling intake to prevent dust and moisture from entering and interfering with normal operation. 
 
 Note:
 

@@ -1,8 +1,8 @@
 ##### § 36.48 Tests of surface temperature of engine and components of the cooling system.
 
-(a) The surface temperatures of the engine, exhaust cooling system, and other components subject to heating by engine operation shall be determined with the engine operated as prescribed by MSHA. All parts of the engine, cooling system, and other components shall have reached their respective equilibrium temperatures. The exhaust cooling system shall be operated, but air shall not be circulated over the engine or components. Surface temperatures shall be measured at various places prescribed by MSHA to determine where maximum temperatures develop.
+(a) The surface temperatures of the engine, exhaust cooling system, and other components subject to heating by engine operation shall be determined with the engine operated as prescribed by MSHA. All parts of the engine, cooling system, and other components shall have reached their respective equilibrium temperatures. The exhaust cooling system shall be operated, but air shall not be circulated over the engine or components. Surface temperatures shall be measured at various places prescribed by MSHA to determine where maximum temperatures develop. 
 
-(b) The temperature of any surface shall not exceed 400 °F.
+(b) The temperature of any surface shall not exceed 400 °F. 
 
 Note to § 36.48:
 

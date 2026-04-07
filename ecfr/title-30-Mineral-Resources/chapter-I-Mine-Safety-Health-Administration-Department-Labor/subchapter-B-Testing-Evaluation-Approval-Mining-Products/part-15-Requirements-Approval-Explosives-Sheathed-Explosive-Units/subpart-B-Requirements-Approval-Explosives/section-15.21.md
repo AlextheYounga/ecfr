@@ -1,14 +1,14 @@
 ##### § 15.21 Tolerances for ingredients.
 
-Tolerances for each ingredient in an explosive, which are expressed as a percentage of the total explosive, shall not exceed the following:
+Tolerances for each ingredient in an explosive, which are expressed as a percentage of the total explosive, shall not exceed the following: 
 
-(a) Physical sensitizers: The tolerances established by the applicant;
+(a) Physical sensitizers: The tolerances established by the applicant; 
 
-(b) Aluminum: ±0.7 percent;
+(b) Aluminum: ±0.7 percent; 
 
-(c) Carbonaceous materials: ±3 percent; and
+(c) Carbonaceous materials: ±3 percent; and 
 
-(d) Moisture and ingredients other than specified in paragraphs (a), (b), and (c) of this section: The tolerances specified in Table II.
+(d) Moisture and ingredients other than specified in paragraphs (a), (b), and (c) of this section: The tolerances specified in Table II. 
 
 Table II—Tolerances for Moisture and Other Ingredients
 | Quantity of ingredients (as percent of total explosive or sheath) | Tolerance percent |

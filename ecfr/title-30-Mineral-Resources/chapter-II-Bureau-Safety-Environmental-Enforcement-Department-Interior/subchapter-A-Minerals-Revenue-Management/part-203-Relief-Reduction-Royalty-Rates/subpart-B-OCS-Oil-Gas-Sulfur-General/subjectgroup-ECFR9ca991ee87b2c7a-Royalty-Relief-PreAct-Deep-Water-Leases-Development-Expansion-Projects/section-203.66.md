@@ -1,6 +1,6 @@
 ##### § 203.66 What happens if BSEE does not act in the time allowed?
 
-If we do not act within the timeframes established under § 203.65, you get royalty relief according to the following table.
+If we do not act within the timeframes established under § 203.65, you get royalty relief according to the following table. 
 
 | If you apply for royalty relief for | And we do not decide within the time specified,                                                                                                                                                                         | As long as you                 |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |

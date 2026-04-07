@@ -1,35 +1,35 @@
 ##### § 57.5006 Restricted use of chemicals.
 
-The following chemical substances shall not be used or stored except by competent persons under laboratory conditions approved by a nationally recognized agency acceptable to the Secretary.
+The following chemical substances shall not be used or stored except by competent persons under laboratory conditions approved by a nationally recognized agency acceptable to the Secretary. 
 
-(a) Carbon tetrachloride,
+(a) Carbon tetrachloride, 
 
-(b) Phenol,
+(b) Phenol, 
 
-(c) 4-Nitrobiphenyl,
+(c) 4-Nitrobiphenyl, 
 
-(d) Alpha-naphthylamine,
+(d) Alpha-naphthylamine, 
 
-(e) 4,4-Methylene Bis (2-chloroaniline),
+(e) 4,4-Methylene Bis (2-chloroaniline), 
 
-(f) Methyl-chloromethyl ether,
+(f) Methyl-chloromethyl ether, 
 
-(g) 3,3 Dichlorobenzidine,
+(g) 3,3 Dichlorobenzidine, 
 
-(h) Bis (chloromethyl) ether,
+(h) Bis (chloromethyl) ether, 
 
-(i) Beta-napthylamine,
+(i) Beta-napthylamine, 
 
-(j) Benzidine,
+(j) Benzidine, 
 
-(k) 4-Aminodiphenyl,
+(k) 4-Aminodiphenyl, 
 
-(l) Ethyleneimine,
+(l) Ethyleneimine, 
 
-(m) Beta-propiolactone,
+(m) Beta-propiolactone, 
 
-(n) 2-Acetylaminofluorene,
+(n) 2-Acetylaminofluorene, 
 
-(o) 4-Dimethylaminobenzene, and
+(o) 4-Dimethylaminobenzene, and 
 
 (p) N-Nitrosodimethylamine.

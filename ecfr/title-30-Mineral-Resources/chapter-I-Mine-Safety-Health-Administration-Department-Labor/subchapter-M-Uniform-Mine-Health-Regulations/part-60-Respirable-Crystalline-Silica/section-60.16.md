@@ -1,16 +1,16 @@
 ##### § 60.16 Recordkeeping requirements.
 
-(a) Table 1 to this paragraph (a) lists the records the mine operator shall retain and their retention period.
+(a) Table 1 to this paragraph (a) lists the records the mine operator shall retain and their retention period. 
 
-(1) Evaluation records made under § 60.12(c) shall be retained for at least 5 years from the date of each evaluation.
+(1) Evaluation records made under § 60.12(c) shall be retained for at least 5 years from the date of each evaluation. 
 
-(2) Sampling records made under § 60.12(g) shall be retained for at least 5 years from the sample date.
+(2) Sampling records made under § 60.12(g) shall be retained for at least 5 years from the sample date. 
 
-(3) Corrective actions records made under § 60.13(c) shall be retained for at least 5 years from the date of each corrective action. These records must be stored with the records of related sampling under § 60.12(g).
+(3) Corrective actions records made under § 60.13(c) shall be retained for at least 5 years from the date of each corrective action. These records must be stored with the records of related sampling under § 60.12(g). 
 
-(4) Written determination records received from a PLHCP under § 60.14(b) shall be retained for the duration of the miner's employment plus 6 months.
+(4) Written determination records received from a PLHCP under § 60.14(b) shall be retained for the duration of the miner's employment plus 6 months. 
 
-(5) Written medical opinion records received from a PLHCP or specialist under § 60.15(f) shall be retained for the duration of the miner's employment plus 6 months.
+(5) Written medical opinion records received from a PLHCP or specialist under § 60.15(f) shall be retained for the duration of the miner's employment plus 6 months. 
 
 Table 1 to Paragraph (a)—Recordkeeping Requirements
 | Record                                                                  | Section   references | Retention period                                      |

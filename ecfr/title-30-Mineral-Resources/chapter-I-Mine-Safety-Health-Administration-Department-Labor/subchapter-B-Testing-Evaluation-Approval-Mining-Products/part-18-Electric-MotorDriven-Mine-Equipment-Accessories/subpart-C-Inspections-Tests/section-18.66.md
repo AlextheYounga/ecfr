@@ -1,6 +1,6 @@
 ##### § 18.66 Tests of windows and lenses.
 
-(a) *Impact tests.* A 4-pound cylindrical weight with a 1-inch-diameter hemispherical striking surface shall be dropped (free fall) to strike the window or lens in its mounting, or the equivalent thereof, at or near the center. Three of four samples shall withstand without breakage the impact according to the following table:
+(a) *Impact tests.* A 4-pound cylindrical weight with a 1-inch-diameter hemispherical striking surface shall be dropped (free fall) to strike the window or lens in its mounting, or the equivalent thereof, at or near the center. Three of four samples shall withstand without breakage the impact according to the following table: 
 
 | Lens diameter, (D), inches | Height of fall, inches |
 | -------------------------- | ---------------------- |

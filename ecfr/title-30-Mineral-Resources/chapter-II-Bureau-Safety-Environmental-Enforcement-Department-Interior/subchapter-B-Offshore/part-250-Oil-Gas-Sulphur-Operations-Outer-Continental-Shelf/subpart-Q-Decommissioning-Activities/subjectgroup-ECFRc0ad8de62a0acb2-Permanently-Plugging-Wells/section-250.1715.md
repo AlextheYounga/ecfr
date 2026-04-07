@@ -1,6 +1,6 @@
 ##### § 250.1715 How must I permanently plug a well?
 
-(a) You must permanently plug wells according to the table in this section. The District Manager may require additional well plugs as necessary.
+(a) You must permanently plug wells according to the table in this section. The District Manager may require additional well plugs as necessary. 
 
 Permanent Well Plugging Requirements
 | If you have . . .                                                                     | Then you must use . . .                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -27,10 +27,10 @@ Permanent Well Plugging Requirements
 |                                                                                       | (ii) Cement plugs designed to set before freezing and have a low heat of hydration.                                                                                                                                                                                                                                                                                                                                                                                              |
 | (11) Removed the barriers required in § 250.420(b)(3) for the well to be completed    | Two independent barriers, one of which must be a mechanical barrier, in the center wellbore as described in § 250.420(b)(3) once the well is to be placed in a permanent or temporary abandonment.                                                                                                                                                                                                                                                                               |
 
-(b) You must test the first plug below the surface plug and all plugs in lost circulation areas that are in open hole. The plug must pass one of the following tests to verify plug integrity:
+(b) You must test the first plug below the surface plug and all plugs in lost circulation areas that are in open hole. The plug must pass one of the following tests to verify plug integrity: 
 
-(1) A pipe weight of at least 15,000 pounds on the plug; or
+(1) A pipe weight of at least 15,000 pounds on the plug; or 
 
-(2) A pump pressure of at least 1,000 pounds per square inch. Ensure that the pressure does not drop more than 10 percent in 15 minutes. The District Manager may require you to tests other plug(s).
+(2) A pump pressure of at least 1,000 pounds per square inch. Ensure that the pressure does not drop more than 10 percent in 15 minutes. The District Manager may require you to tests other plug(s). 
 
 \[76 FR 64462, Oct. 18, 2011, as amended at 77 FR 50900, Aug. 22, 2012; 81 FR 26038, Apr. 29, 2016\]

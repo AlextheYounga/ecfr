@@ -1,6 +1,6 @@
 ##### § 550.1167 What information must I submit with forms and for approvals?
 
-You must submit the supporting information listed in the following table with the form identified in column 1 and for the approval required under this subpart identified in column 2:
+You must submit the supporting information listed in the following table with the form identified in column 1 and for the approval required under this subpart identified in column 2: 
 
 |                                                                                                                                                                                                                        | SRI BOEM-0127   (2 copies) | Reservoir reclassification |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | -------------------------- |

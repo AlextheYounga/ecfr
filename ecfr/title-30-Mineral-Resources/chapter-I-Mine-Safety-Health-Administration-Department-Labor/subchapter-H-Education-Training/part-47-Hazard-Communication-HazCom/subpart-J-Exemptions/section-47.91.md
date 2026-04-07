@@ -1,6 +1,6 @@
 ##### § 47.91 Exemptions from the HazCom standard.
 
-A hazardous chemical is exempt from this part under the conditions described in Table 47.91 as follows:
+A hazardous chemical is exempt from this part under the conditions described in Table 47.91 as follows: 
 
 Table 47.91—Chemicals and Products Exempt from this HazCom Standard
 | Exemption                                                                                                                                                                                                                                                           | Conditions for exemption                                                                                                                                                                                                               |

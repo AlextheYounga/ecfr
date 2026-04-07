@@ -1,28 +1,28 @@
 ##### § 947.773 Requirements for permits and permit processing.
 
-(a) Part 773 of this chapter, *Requirements for Permits and Permit Processing,* shall apply to any person who applies for a permit for surface coal mining and reclamation operations.
+(a) Part 773 of this chapter, *Requirements for Permits and Permit Processing,* shall apply to any person who applies for a permit for surface coal mining and reclamation operations. 
 
-(b) In addition to the requirements of part 773, the following permit application review procedures shall apply:
+(b) In addition to the requirements of part 773, the following permit application review procedures shall apply: 
 
-(1) Any person applying for a permit shall submit five copies of the application to the Office.
+(1) Any person applying for a permit shall submit five copies of the application to the Office. 
 
-(2) The Office shall review an application for administrative completeness and acceptability for further review and shall notify the applicant in writing of the findings. The Office may:
+(2) The Office shall review an application for administrative completeness and acceptability for further review and shall notify the applicant in writing of the findings. The Office may: 
 
-(i) Reject a flagrantly deficient application, notifying the application of the findings:
+(i) Reject a flagrantly deficient application, notifying the application of the findings: 
 
-(ii) Request additional information required for completeness stating specifically what information must be supplied and negotiate the date by which the information must be submitted; or
+(ii) Request additional information required for completeness stating specifically what information must be supplied and negotiate the date by which the information must be submitted; or 
 
-(iii) Judge the application administratively complete and acceptable for further review.
+(iii) Judge the application administratively complete and acceptable for further review. 
 
-(3) Should the applicant not submit the information as required by § 947.773(b)(2)(ii) by the specified date, the Office may reject the application. When the applicant submits the required information by the specified date, the Office shall review it and advise the applicant concerning its acceptability.
+(3) Should the applicant not submit the information as required by § 947.773(b)(2)(ii) by the specified date, the Office may reject the application. When the applicant submits the required information by the specified date, the Office shall review it and advise the applicant concerning its acceptability. 
 
-(4) When the applicant is judged administratively complete, the applicant shall be advised by the Office to file the public notice required by § 773.6 of this chapter.
+(4) When the applicant is judged administratively complete, the applicant shall be advised by the Office to file the public notice required by § 773.6 of this chapter. 
 
-(5) A representative of the Office shall visit the proposed permit area to determine whether the operation and reclamation plans are consistent with actual site conditions. The applicant will be notified in advance of the time of the visit. At the time of the visit, the applicant shall have the locations of the proposed permit boundaries, topsoil storage areas, sediment control structures, roads, and other significant features contained in the application marked by flags.
+(5) A representative of the Office shall visit the proposed permit area to determine whether the operation and reclamation plans are consistent with actual site conditions. The applicant will be notified in advance of the time of the visit. At the time of the visit, the applicant shall have the locations of the proposed permit boundaries, topsoil storage areas, sediment control structures, roads, and other significant features contained in the application marked by flags. 
 
-(c) In addition to the information required by subchapter G of this chapter, the Office may require an applicant to submit supplementary information to ensure compliance with applicable Federal laws and regulations other than the Act.
+(c) In addition to the information required by subchapter G of this chapter, the Office may require an applicant to submit supplementary information to ensure compliance with applicable Federal laws and regulations other than the Act. 
 
-(d) The Secretary shall coordinate, to the extent practicable, his responsibilities under the following Federal laws with the relevant Washington State laws to avoid duplication:
+(d) The Secretary shall coordinate, to the extent practicable, his responsibilities under the following Federal laws with the relevant Washington State laws to avoid duplication: 
 
 | Federal law                                                               | Washington law                                                                                                                       |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -39,42 +39,42 @@
 | (11) Noise Control Act, 42 U.S.C. 4903                                    | Noise Control Act of 1974, Chapter 70.107 RCW.                                                                                       |
 | (12) Bald Eagle Protection Act 16 U.S.C. 668-668(d)                       |                                                                                                                                      |
 
-(e) The Secretary shall coordinate the SMCRA permit with appropriate State and regional or local agencies to the extent possible, to avoid duplication with the following state and regional or local regulations:
+(e) The Secretary shall coordinate the SMCRA permit with appropriate State and regional or local agencies to the extent possible, to avoid duplication with the following state and regional or local regulations: 
 
-(1) Department of Ecology:
+(1) Department of Ecology: 
 
 Surface Water Rights Permit, RCW 90.03.250 Dam Safety Approval, RCW 90.03.350 Reservoir Permit, RCW 90.03.370 Approval of Change of Place or Purpose of Use (water) RCW 90.03.380 Ground Water Permit, RCW 90.44.050 New Source Construction Approval, RCW 79.94.152 Burning Permit, RCW 70.94.650 Flood Control Zone Permit, RCW 86.16.080 Waste Discharge Permit, RCW 90.48.180 National Pollution Discharge Elimination System (NPDES) Permit, RCW 90.48 Approval of Change of Point of Diversion, RCW 90.03.380 Sewage Facilities Approval, RCW 90.48.110 Water Quality Certification, RCW 90.48.160
 
-(2) Department of Natural Resources:
+(2) Department of Natural Resources: 
 
 Burning Permit, RCW 77.04.150 & .170 Dumping Permit, RCW 76.04.242 Operating Permit for Machinery, RCW 76.04.275 Cutting Permit, RCW 76.08.030 Forest Practices, RCW 76.09.060 Right of Way Clearing, RCW 76.04.310 Drilling Permit, RCW 78.52.120
 
-(3) Regional Air Pollution Control Agencies:
+(3) Regional Air Pollution Control Agencies: 
 
 New Source Construction Approval (RCW 70.94.152) Burning Permit, RCW 70.94.650
 
-(4) Department of Fisheries:
+(4) Department of Fisheries: 
 
 Hydraulic Permit, RCW 75.20
 
-(5) Department of Game:
+(5) Department of Game: 
 
 Hydraulic Permit, RCW 75.20.100
 
-(6) Department of Social Health Services:
+(6) Department of Social Health Services: 
 
 Public Sewage, WAC 248.92 Public Water Supply, WAC 248.54
 
-(7) Department of Labor and Industries:
+(7) Department of Labor and Industries: 
 
 Explosive license, RCW 70.74.135 Blaster's license, WAC 296.52.040 Purchaser's license, WAC 296.52.220 Storage Magazine license, WAC 296.52.170
 
-(8) Cities and Counties:
+(8) Cities and Counties: 
 
 New Source Construction Approval. RCW 70.94.152 Burning Permit, RCW 79.94.650 Shoreline Substantial Development Permit, RCW 90.58.140 Zoning and Building Permits, Local Ordinances
 
-(f) Where applicable, no person shall conduct coal exploration operations which result in the removal of more than 250 tons in one location or surface coal mining and reclamation operations without first obtaining permits required by the State of Washington.
+(f) Where applicable, no person shall conduct coal exploration operations which result in the removal of more than 250 tons in one location or surface coal mining and reclamation operations without first obtaining permits required by the State of Washington. 
 
-(g) The Secretary shall provide a copy of the decision to grant or deny a permit application to the Washington Department of Natural Resources, the Department of Ecology and to the County Department of Planning, if any, in which the operation is located.
+(g) The Secretary shall provide a copy of the decision to grant or deny a permit application to the Washington Department of Natural Resources, the Department of Ecology and to the County Department of Planning, if any, in which the operation is located. 
 
 \[52 FR 13816, Apr. 24, 1987, as amended at 65 FR 79672, Dec. 19, 2000\]

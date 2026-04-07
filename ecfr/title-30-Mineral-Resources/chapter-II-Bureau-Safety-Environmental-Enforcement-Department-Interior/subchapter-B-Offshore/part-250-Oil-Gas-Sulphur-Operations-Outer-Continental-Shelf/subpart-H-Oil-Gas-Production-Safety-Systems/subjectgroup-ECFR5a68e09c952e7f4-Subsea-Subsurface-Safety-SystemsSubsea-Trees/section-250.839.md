@@ -1,12 +1,12 @@
 ##### § 250.839 What are the maximum allowable valve closure times and hydraulic bleeding requirements for a direct-hydraulic control system?
 
-(a) If you have a direct-hydraulic control system, you must:
+(a) If you have a direct-hydraulic control system, you must: 
 
-(1) Design the subsea control system to meet the valve closure times listed in this section or your approved DWOP; and
+(1) Design the subsea control system to meet the valve closure times listed in this section or your approved DWOP; and 
 
-(2) Verify the valve closure times upon installation. The District Manager may require you to verify the closure time of the USV(s) through visual authentication by diver or ROV.
+(2) Verify the valve closure times upon installation. The District Manager may require you to verify the closure time of the USV(s) through visual authentication by diver or ROV. 
 
-(b) You must comply with the maximum allowable valve closure times and hydraulic system bleeding requirements listed in the following table or your approved DWOP:
+(b) You must comply with the maximum allowable valve closure times and hydraulic system bleeding requirements listed in the following table or your approved DWOP: 
 
 Valve Closure Timing, Direct-Hydraulic Control System
 | If you have the following. . .                                         | Your pipeline   BSDV must. . .                         | Your USV1 must. . .                                                                                                                                              | Your USV2 must. . .                                    | Your alternate isolation valve must. . .                                                   | Your surface-controlled SSSV must. . .                           | Your LP   hydraulic   system must. . . | Your HP   hydraulic   system must. . . |
