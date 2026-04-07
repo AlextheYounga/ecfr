@@ -196,7 +196,7 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (End of legend)
 
-(4) *Limited rights markings.* Data delivered or otherwise furnished to the Government with limited rights shall be marked as follows:
+(4) *Limited rights markings.* Data delivered or otherwise furnished to the Government with limited rights shall be marked as follows: 
 
 Limited Rights Contract Number Contractor Name Contractor Address
 

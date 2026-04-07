@@ -1,18 +1,18 @@
 ##### § 80.373 Private communications frequencies.
 
-This section describes the carrier frequencies assignable for ship-to-ship and ship-to-coast private communications.
+This section describes the carrier frequencies assignable for ship-to-ship and ship-to-coast private communications. 
 
-(a) *Special requirements for private coast stations.* Assignment to private coast stations of radiotelephony frequencies in the 2000-27500 kHz band are subject to the following:
+(a) *Special requirements for private coast stations.* Assignment to private coast stations of radiotelephony frequencies in the 2000-27500 kHz band are subject to the following: 
 
-(1) Private coast stations must use J3E emission.
+(1) Private coast stations must use J3E emission. 
 
-(2) On 2182 kHz, private coast stations must be capable of receiving J3E and H3E emissions.
+(2) On 2182 kHz, private coast stations must be capable of receiving J3E and H3E emissions. 
 
-(3) Except in the Mississippi River System and Great Lakes, private coast stations serving lakes or rivers are not authorized on the 2000-2850 kHz band.
+(3) Except in the Mississippi River System and Great Lakes, private coast stations serving lakes or rivers are not authorized on the 2000-2850 kHz band. 
 
-(4) Private coast stations may use DSC for calling on their assigned frequencies in the 2000-27500 kHz band and on those frequencies in the 156-162 MHz band which are allocated for maritime control, commercial and non-commercial communications.
+(4) Private coast stations may use DSC for calling on their assigned frequencies in the 2000-27500 kHz band and on those frequencies in the 156-162 MHz band which are allocated for maritime control, commercial and non-commercial communications. 
 
-(b) Frequencies in the 2000-27500 kHz band for intership safety and other communications. This paragraph describes the geographic areas of operation and the frequencies and limitations in the band available for assignment for intership safety and operational simplex radiotelephone communications.
+(b) Frequencies in the 2000-27500 kHz band for intership safety and other communications. This paragraph describes the geographic areas of operation and the frequencies and limitations in the band available for assignment for intership safety and operational simplex radiotelephone communications. 
 
 (1) *Frequencies avaiable.*
 
@@ -31,25 +31,25 @@ This section describes the carrier frequencies assignable for ship-to-ship and s
 | 1 Limited to a peak envelope power of 150 watts.                                                           |                                                                    |
 | 2 Available on a secondary basis for intership communications by ships involved in non-commercial fishing. |                                                                    |
 
-(2) Except for 2093.0 kHz and 2214.0 kHz the frequencies shown in paragraph (b)(1) of this section are authorized primarily for intership safety communications in the indicated geographic area.
+(2) Except for 2093.0 kHz and 2214.0 kHz the frequencies shown in paragraph (b)(1) of this section are authorized primarily for intership safety communications in the indicated geographic area. 
 
-(3) Except for the frequencies 2093.0 kHz, 2214.0 kHz and 2670.0 kHz, the frequencies shown in paragraph (b)(1) of this section may be used on a non-interference basis to safety communications, for operational communications and, in the case of commercial transport ships and ships of municipal and state governments, for business communications.
+(3) Except for the frequencies 2093.0 kHz, 2214.0 kHz and 2670.0 kHz, the frequencies shown in paragraph (b)(1) of this section may be used on a non-interference basis to safety communications, for operational communications and, in the case of commercial transport ships and ships of municipal and state governments, for business communications. 
 
-(4) Ship stations may communicate with government coast stations on 2003.0 kHz about passage of vessels. Interference must not be caused to communications on the St. Lawrence Seaway and on the St. Mary's River.
+(4) Ship stations may communicate with government coast stations on 2003.0 kHz about passage of vessels. Interference must not be caused to communications on the St. Lawrence Seaway and on the St. Mary's River. 
 
-(5) Ship stations may use 2670.0 kHz for communications with coast and ship stations of the U.S. Coast Guard. When a ship is not equipped to transmit on 2670.0 kHz or in the band 156-162 MHz the frequency 2003.0 kHz may be used on the Great Lakes for communications must not cause harmful interference to intership safety, operational and business communications.
+(5) Ship stations may use 2670.0 kHz for communications with coast and ship stations of the U.S. Coast Guard. When a ship is not equipped to transmit on 2670.0 kHz or in the band 156-162 MHz the frequency 2003.0 kHz may be used on the Great Lakes for communications must not cause harmful interference to intership safety, operational and business communications. 
 
-(6) Navigational communications between ships and private coast stations may be exchanged on 2738.0 kHz and 2830.0 kHz. The frequencies 2214.0 kHz, 2738.0 kHz and 2830.0 kHz are assignable to private coast stations upon a showing that they need to communicate with commercial transport or Government ships. Private coast station applicants must show that public coast stations do not provide the required communications and harmful interference will not be caused to the intership use of these frequencies. The transmitter power must not exceed 150 watts. If 2214.0 kHz is authorized for ships, intership communication is also authorized. The geographic limitations to the frequencies 2738.0 kHz and 2830.0 kHz do not prohibit intership communication of less than 320 km (200 statute miles) when only one of the ship stations is within a permitted use geographic area.
+(6) Navigational communications between ships and private coast stations may be exchanged on 2738.0 kHz and 2830.0 kHz. The frequencies 2214.0 kHz, 2738.0 kHz and 2830.0 kHz are assignable to private coast stations upon a showing that they need to communicate with commercial transport or Government ships. Private coast station applicants must show that public coast stations do not provide the required communications and harmful interference will not be caused to the intership use of these frequencies. The transmitter power must not exceed 150 watts. If 2214.0 kHz is authorized for ships, intership communication is also authorized. The geographic limitations to the frequencies 2738.0 kHz and 2830.0 kHz do not prohibit intership communication of less than 320 km (200 statute miles) when only one of the ship stations is within a permitted use geographic area. 
 
-(7) Private aircraft stations may communicate with ship stations on 2738.0 kHz and 2830.0 kHz if:
+(7) Private aircraft stations may communicate with ship stations on 2738.0 kHz and 2830.0 kHz if: 
 
-(i) The communications are limited to business or operational needs of the vessel while it is engaged in commercial fishing activities in the open sea or adjacent waters;
+(i) The communications are limited to business or operational needs of the vessel while it is engaged in commercial fishing activities in the open sea or adjacent waters; 
 
-(ii) Harmful interference must not be caused to intership communications;
+(ii) Harmful interference must not be caused to intership communications; 
 
-(iii) The maximum output power used for such communication must not exceed 25 watts;
+(iii) The maximum output power used for such communication must not exceed 25 watts; 
 
-(c) *Frequencies in the 2000-27500 kHz bands for business and operational communications.* (1) The following simplex frequencies in the 2000-27500 kHz band are available for assignment to private coast stations for business and operational radiotelephone communications. These simplex frequencies also are available for use by authorized ship stations for business and operational radiotelephone communications.
+(c) *Frequencies in the 2000-27500 kHz bands for business and operational communications.* (1) The following simplex frequencies in the 2000-27500 kHz band are available for assignment to private coast stations for business and operational radiotelephone communications. These simplex frequencies also are available for use by authorized ship stations for business and operational radiotelephone communications. 
 
 Business and Operational Frequencies in the 2000-27500 kHz Band; Carrier Frequencies (kHz)
 | 2065.0 1 3                                                                                                                                                                                                                                                                              | 4146   | 6224 | 8294 | 12353   | 16528 | 18840 | 22159 | 25115 |
@@ -64,35 +64,35 @@ Business and Operational Frequencies in the 2000-27500 kHz Band; Carrier Frequen
 | 5 The frequency 6516 kHz is limited to daytime operations. The frequencies 4417 kHz and 6516 kHz are also available for calling and reply, see § 80.369(d) of this part.                                                                                                                |        |      |      |         |       |       |       |       |
 | 6 The alternative carrier frequency 12359 kHz may be used by ship stations and coast stations for calling on a simplex basis, provided that the peak envelope power does not exceed 1 kW.                                                                                               |        |      |      |         |       |       |       |       |
 
-(2) Assignment of these frequencies is subject to the following general limitations:
+(2) Assignment of these frequencies is subject to the following general limitations: 
 
-(i) These frequencies are shared and are not available for the exclusive use of any station. No more than one frequency from each of the frequency bands will be authorized to a private station without justification;
+(i) These frequencies are shared and are not available for the exclusive use of any station. No more than one frequency from each of the frequency bands will be authorized to a private station without justification; 
 
-(ii) The emissions must be J3E or J2D except that when DSC is used the emission must be F1B or J2B; and
+(ii) The emissions must be J3E or J2D except that when DSC is used the emission must be F1B or J2B; and 
 
-(iii) Maximum transmitter output power is limited to 1 kW except as noted.
+(iii) Maximum transmitter output power is limited to 1 kW except as noted. 
 
-(3) In addition to the frequencies shown in paragraph (c)(1) of this section, the following coast transmit frequencies listed in the table in § 80.371(a) of this chapter are available for assignment to private coast stations and authorized ship stations for simplex business and operational radiotelephone communications: in the East Coast, West Coast, and Gulf Coast regions, 2482 kHz; in the Alaska region, 2309 kHz. These frequencies shall not be assigned to public coast stations before July 25, 2002. After that date, only the above frequencies in the above regions that have been assigned to at least one private coast station shall continue to be available for assignment to private coast stations. If, by that date, in any of the above regions, any of the above frequencies has not been assigned to a private coast station, that frequency in that region shall be available for assignment only to public coast stations.
+(3) In addition to the frequencies shown in paragraph (c)(1) of this section, the following coast transmit frequencies listed in the table in § 80.371(a) of this chapter are available for assignment to private coast stations and authorized ship stations for simplex business and operational radiotelephone communications: in the East Coast, West Coast, and Gulf Coast regions, 2482 kHz; in the Alaska region, 2309 kHz. These frequencies shall not be assigned to public coast stations before July 25, 2002. After that date, only the above frequencies in the above regions that have been assigned to at least one private coast station shall continue to be available for assignment to private coast stations. If, by that date, in any of the above regions, any of the above frequencies has not been assigned to a private coast station, that frequency in that region shall be available for assignment only to public coast stations. 
 
-(d) *Radioprinter frequencies.* (1) The following table describes the bands available for radioprinter simplex communications between ship and private coast stations:
+(d) *Radioprinter frequencies.* (1) The following table describes the bands available for radioprinter simplex communications between ship and private coast stations: 
 
 Frequency Bands (kHz) 2107-2170 4750-4850 2194-2495 5060-5450 2505-2850 5700-5950 13155-3400 7300-8100 14438-4650 
 
 1 After April 1, 2007, use of the sub-bands 5900-5950 kHz and 7300-7350 kHz shall be on the condition that harmful interference is not caused to HF broadcasting.
 
-(2) Ship stations may conduct radioprinter communications with private coast stations on frequencies within these bands which are assigned to their associated private coast stations;
+(2) Ship stations may conduct radioprinter communications with private coast stations on frequencies within these bands which are assigned to their associated private coast stations; 
 
-(3) Any alphanumeric code may be used; and
+(3) Any alphanumeric code may be used; and 
 
-(4) The bandwidth of radioprinter communications on frequencies within these bands must not exceed 300 Hz.
+(4) The bandwidth of radioprinter communications on frequencies within these bands must not exceed 300 Hz. 
 
-(e) *Frequencies in the 2000-27500 kHz band for medical advisory communications.* (1) Private coast stations may be authorized to use any frequencies within the 2030-27500 kHz band that are allocated to Government and non-Government fixed or fixed and mobile radio services shown in the Commission's Table of Frequency Allocations contained in § 2.106 of this chapter for communications with ship stations to provide medical treatment information or advice. Assignment of these frequencies is subject to the following limitations:
+(e) *Frequencies in the 2000-27500 kHz band for medical advisory communications.* (1) Private coast stations may be authorized to use any frequencies within the 2030-27500 kHz band that are allocated to Government and non-Government fixed or fixed and mobile radio services shown in the Commission's Table of Frequency Allocations contained in § 2.106 of this chapter for communications with ship stations to provide medical treatment information or advice. Assignment of these frequencies is subject to the following limitations: 
 
-(2) No protection is provided from harmful interference caused by foreign stations; and
+(2) No protection is provided from harmful interference caused by foreign stations; and 
 
-(3) A private coast station must cease operations on a frequency that causes harmful interference to a foreign station.
+(3) A private coast station must cease operations on a frequency that causes harmful interference to a foreign station. 
 
-(f) Frequencies in the 156-162 MHz band. The following tables describe the carrier frequencies available in the 156-162 MHz band for radiotelephone communications between ship and private coast stations. (Note: the letter “A” following the channel designator indicates simplex operation on a channel designated internationally as a duplex channel.)
+(f) Frequencies in the 156-162 MHz band. The following tables describe the carrier frequencies available in the 156-162 MHz band for radiotelephone communications between ship and private coast stations. (Note: the letter “A” following the channel designator indicates simplex operation on a channel designated internationally as a duplex channel.) 
 
 Frequencies in the 156-162 MHz Band
 | Channel designator                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Carrier frequency (MHz) ship transmit | Carrier frequency (MHz) coast transmit | Points of communication (intership and between coast and ship unless otherwise indicated)                                                                                 |
@@ -168,7 +168,7 @@ Frequencies in the 156-162 MHz Band
 | 17 The frequency 156.425 MHz is assigned by rule to private coast stations in Alaska for facsimile transmissions as well as voice communications.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                       |                                        |                                                                                                                                                                           |
 | 18 156.575 MHz is available for port operations communications use only within the U.S. Coast Guard designated VTS radio protection area of Seattle (Puget Sound) described in § 80.383. Normal output power must not exceed 1 watt. Maximum output power must not exceed 10 watts.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                       |                                        |                                                                                                                                                                           |
 
-(g)(1) On-board communications: This section describes the carrier frequency pairs assignable for on-board mobile radiotelephony communications. The center of the on-board repeater antenna must not be located more than 3 meters (10 feet) above the ship's working deck. These frequencies are available on a shared basis with stations in the Industrial/Business Radio Pool.
+(g)(1) On-board communications: This section describes the carrier frequency pairs assignable for on-board mobile radiotelephony communications. The center of the on-board repeater antenna must not be located more than 3 meters (10 feet) above the ship's working deck. These frequencies are available on a shared basis with stations in the Industrial/Business Radio Pool. 
 
 Frequencies for On-Board Communications
 | Channel                                                                                             | Carrier frequency (MHz) |
@@ -179,13 +179,13 @@ Frequencies for On-Board Communications
 | 4                                                                                                   | 467.825                 |
 | 1 These frequencies may also be assigned to mobile stations for single frequency simplex operation. |                         |
 
-(2) Where needed, equipment designed for 12.5 kHz channel spacing using the additional frequencies 457.5375 MHz, 457.5625 MHz, 467.5375 MHz, and 467.5625 MHz may be introduced for on-board communications.
+(2) Where needed, equipment designed for 12.5 kHz channel spacing using the additional frequencies 457.5375 MHz, 457.5625 MHz, 467.5375 MHz, and 467.5625 MHz may be introduced for on-board communications. 
 
-(h) *Repeater frequencies in Alaska.* The following frequencies are assignable on a primary basis to public and on a secondary basis to private coast stations in Alaska for maritime repeater operations:
+(h) *Repeater frequencies in Alaska.* The following frequencies are assignable on a primary basis to public and on a secondary basis to private coast stations in Alaska for maritime repeater operations: 
 
 Repeater receive: 157.275 MHz Repeater transmit: 161.875 MHz
 
-(i) *Frequencies in the 1600-5450 kHz band for private communications in Alaska.* The following simplex frequencies are available for assignment to private fixed stations located in the State of Alaska for radiotelephony communications with ship stations. These simplex frequencies are available for use by authorized ship stations for radiotelephony communications with private fixed stations located in the State of Alaska.
+(i) *Frequencies in the 1600-5450 kHz band for private communications in Alaska.* The following simplex frequencies are available for assignment to private fixed stations located in the State of Alaska for radiotelephony communications with ship stations. These simplex frequencies are available for use by authorized ship stations for radiotelephony communications with private fixed stations located in the State of Alaska. 
 
 Private communications in Alaska Carrier frequencies (kHz)
 | 1619.0 3                                                                                                                                                                                                                                                                                                                                            | 2382.0 | 2563.0   |
@@ -206,6 +206,6 @@ Private communications in Alaska Carrier frequencies (kHz)
 | 2 The frequency 5167.5 kHz is available for emergency communications in Alaska. Peak envelope power of stations operating on this frequency must not exceed 150 watts. When a station in Alaska is authorized to use 5167.5 kHz, such station may also use this frequency for calling and listening for the purpose of establishing communications. |        |          |
 | 3 Use of these frequencies is on a secondary basis to Region 2 broadcasting.                                                                                                                                                                                                                                                                        |        |          |
 
-(j) *Frequencies for portable ship stations.* VHF frequencies authorized for stations authorized carrier frequencies in the 156.275 MHz to 157.450 MHz and 161.575 MHz to 162.025 MHz bands may also be authorized as marine utility stations. Marine-utility stations on shore must not cause interference to any Automatic Identification System, VHF or coast station, VHF or UHF land mobile base station, or U.S. Government station.
+(j) *Frequencies for portable ship stations.* VHF frequencies authorized for stations authorized carrier frequencies in the 156.275 MHz to 157.450 MHz and 161.575 MHz to 162.025 MHz bands may also be authorized as marine utility stations. Marine-utility stations on shore must not cause interference to any Automatic Identification System, VHF or coast station, VHF or UHF land mobile base station, or U.S. Government station. 
 
 \[51 FR 31213, Sept. 2, 1986; 51 FR 34984, Oct. 1, 1986\] Editorial Note:For Federal Register citations affecting § 80.373, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,14 +1,16 @@
 ##### § 73.202 Table of Allotments.
 
-(a) *General.* The following Table of Allotments contains the channels (other than noncommercial educational Channels 201-220) designated for use in communities in the United States, its territories, and possessions, and not currently assigned to a licensee or permittee or subject to a pending application for construction permit or license. All listed channels are for Class B stations in Zones I and I-A and for Class C stations in Zone II unless otherwise specifically designated. Channels to which licensed, permitted, and “reserved” facilities have been assigned are reflected in the Media Bureau's publicly available Consolidated Data Base System.
+Link to an amendment published at 90 FR 11494, Mar. 7, 2025.
 
-(1) Channels designated with an asterisk may be used only by noncommercial educational broadcast stations. The rules governing the use of those channels are contained in part 73, subpart C of this chapter. An entity that would be eligible to operate a noncommercial educational broadcast station can, in conjunction with an initial petition for rulemaking filed pursuant to part 1, subpart C of this chapter, request that a nonreserved FM channel (channels 221 through 300) be allotted as reserved only for noncommercial educational broadcasting by demonstrating the following:
+(a) *General.* The following Table of Allotments contains the channels (other than noncommercial educational Channels 201-220) designated for use in communities in the United States, its territories, and possessions, and not currently assigned to a licensee or permittee or subject to a pending application for construction permit or license. All listed channels are for Class B stations in Zones I and I-A and for Class C stations in Zone II unless otherwise specifically designated. Channels to which licensed, permitted, and “reserved” facilities have been assigned are reflected in the Media Bureau's publicly available Consolidated Data Base System. 
 
-(i) No reserved channel can be used without causing prohibited interference to TV channel 6 stations or foreign broadcast stations; or
+(1) Channels designated with an asterisk may be used only by noncommercial educational broadcast stations. The rules governing the use of those channels are contained in part 73, subpart C of this chapter. An entity that would be eligible to operate a noncommercial educational broadcast station can, in conjunction with an initial petition for rulemaking filed pursuant to part 1, subpart C of this chapter, request that a nonreserved FM channel (channels 221 through 300) be allotted as reserved only for noncommercial educational broadcasting by demonstrating the following: 
 
-(ii) The applicant is technically precluded from using the reserved band by existing stations or previously filed applications and the proposed station would provide a first or second noncommercial educational radio service to 2,000 or more people who constitute 10% of the population within the proposed allocation's 60 dBu (1 mV/m) service contour.
+(i) No reserved channel can be used without causing prohibited interference to TV channel 6 stations or foreign broadcast stations; or 
 
-(2) Each channel listed in the Table of Allotments reflects the class of station that is authorized to use it based on the minimum and maximum facility requirements for each class contained in § 73.211.
+(ii) The applicant is technically precluded from using the reserved band by existing stations or previously filed applications and the proposed station would provide a first or second noncommercial educational radio service to 2,000 or more people who constitute 10% of the population within the proposed allocation's 60 dBu (1 mV/m) service contour. 
+
+(2) Each channel listed in the Table of Allotments reflects the class of station that is authorized to use it based on the minimum and maximum facility requirements for each class contained in § 73.211. 
 
 Note:
 

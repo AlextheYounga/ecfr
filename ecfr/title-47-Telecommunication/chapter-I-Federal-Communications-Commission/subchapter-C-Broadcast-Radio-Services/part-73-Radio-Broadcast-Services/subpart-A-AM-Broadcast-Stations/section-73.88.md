@@ -1,6 +1,6 @@
 ##### § 73.88 Blanketing interference.
 
-The licensee of each broadcast station is required to satisfy all reasonable complaints of blanketing interference within the 1 V/m contour.
+The licensee of each broadcast station is required to satisfy all reasonable complaints of blanketing interference within the 1 V/m contour. 
 
 Note:
 

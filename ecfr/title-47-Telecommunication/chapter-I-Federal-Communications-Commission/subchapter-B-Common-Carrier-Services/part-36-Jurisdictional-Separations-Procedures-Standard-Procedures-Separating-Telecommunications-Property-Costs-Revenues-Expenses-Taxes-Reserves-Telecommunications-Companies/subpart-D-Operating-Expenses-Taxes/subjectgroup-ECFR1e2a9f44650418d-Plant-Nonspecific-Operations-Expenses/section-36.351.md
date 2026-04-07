@@ -1,6 +1,6 @@
 ##### § 36.351 General.
 
-Plant nonspecific operations expenses include the following accounts:
+Plant nonspecific operations expenses include the following accounts: 
 
 Table 1 to § 36.351
 | Other Property Plant and Equipment Expenses | Account 6510. |

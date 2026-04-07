@@ -1,6 +1,6 @@
 ##### § 87.133 Frequency stability.
 
-(a) Except as provided in paragraphs (c), (d), (f), and (g) of this section, the carrier frequency of each station must be maintained within these tolerances:
+(a) Except as provided in paragraphs (c), (d), (f), and (g) of this section, the carrier frequency of each station must be maintained within these tolerances: 
 
 | Frequency band (lower limit exclusive, upper limit inclusive), and categories of stations                                                                                                                                                                                                                      | Tolerance 1 | Tolerance 2 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
@@ -86,20 +86,20 @@
 | 12 For emissions G1D and G7D, the tolerance is 2 parts per 106.                                                                                                                                                                                                                                                |             |             |
 | 13 For emissions G1D and G7D, the tolerance is 5 parts per 106.                                                                                                                                                                                                                                                |             |             |
 
-(b) The power shown in paragraph (a) of this section is the peak envelope power for single-sideband transmitters and the mean power for all other transmitters.
+(b) The power shown in paragraph (a) of this section is the peak envelope power for single-sideband transmitters and the mean power for all other transmitters. 
 
-(c) For single-sideband transmitters, the tolerance is:
+(c) For single-sideband transmitters, the tolerance is: 
 
-(1) All aeronautical stations on land—10 Hz.
+(1) All aeronautical stations on land—10 Hz. 
 
-(2) All aircraft stations—20 Hz.
+(2) All aircraft stations—20 Hz. 
 
-(d) For radar transmitters, except non-pulse signal radio altimeters, the frequency at which maximum emission occurs must be within the authorized frequency band and must not be closer than 1.5/T MHz to the upper and lower limits of the authorized bandwidth, where T is the pulse duration in microseconds.
+(d) For radar transmitters, except non-pulse signal radio altimeters, the frequency at which maximum emission occurs must be within the authorized frequency band and must not be closer than 1.5/T MHz to the upper and lower limits of the authorized bandwidth, where T is the pulse duration in microseconds. 
 
-(e) The Commission may authorize tolerances other than those specified in this section upon a satisfactory showing of need.
+(e) The Commission may authorize tolerances other than those specified in this section upon a satisfactory showing of need. 
 
-(f) The carrier frequency tolerance of all transmitters that operate in the 1435-1525 MHz or 2345-2395 MHz band is 0.002 percent. The carrier frequency tolerance of all transmitters that operate in the 5091-5150 MHz band is 0.005 percent.
+(f) The carrier frequency tolerance of all transmitters that operate in the 1435-1525 MHz or 2345-2395 MHz band is 0.002 percent. The carrier frequency tolerance of all transmitters that operate in the 5091-5150 MHz band is 0.005 percent. 
 
-(g) Any aeronautical enroute service transmitter operating in U.S. controlled airspace with 8.33 kHz channel spacing (except equipment being tested by avionics equipment manufacturers and flight test stations prior to delivery to their customers for use outside U.S. controlled airspace) must achieve 0.0005% frequency stability when operating in that mode.
+(g) Any aeronautical enroute service transmitter operating in U.S. controlled airspace with 8.33 kHz channel spacing (except equipment being tested by avionics equipment manufacturers and flight test stations prior to delivery to their customers for use outside U.S. controlled airspace) must achieve 0.0005% frequency stability when operating in that mode. 
 
 \[53 FR 28940, Aug. 1, 1988, as amended at 56 FR 38084, Aug. 12, 1991; 57 FR 45749, Oct. 5, 1992; 58 FR 31027, May 26, 1993; 63 FR 36607, July 7, 1998; 64 FR 27474, May 20, 1999; 66 FR 26799, May 15, 2001; 69 FR 32880, June 14, 2004; 76 FR 17350, Mar. 29, 2011; 78 FR 61205, Oct. 3, 2013; 80 FR 38909, July 7, 2015\]

@@ -1,6 +1,6 @@
 ##### § 76.101 Cable syndicated program exclusivity: extent of protection.
 
-Upon receiving notification pursuant to § 76.105, a cable community unit located in whole or in part within the geographic zone for a syndicated program, the syndicated exclusivity rights to which are held by a commercial television station licensed by the Commission, shall not carry that program as broadcast by any other television signal, except as otherwise provided below.
+Upon receiving notification pursuant to § 76.105, a cable community unit located in whole or in part within the geographic zone for a syndicated program, the syndicated exclusivity rights to which are held by a commercial television station licensed by the Commission, shall not carry that program as broadcast by any other television signal, except as otherwise provided below. 
 
 Note:
 

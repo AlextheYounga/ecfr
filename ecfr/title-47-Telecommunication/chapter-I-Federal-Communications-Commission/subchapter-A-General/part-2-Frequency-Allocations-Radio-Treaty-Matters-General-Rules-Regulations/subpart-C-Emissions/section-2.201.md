@@ -1,22 +1,22 @@
 ##### § 2.201 Emission, modulation, and transmission characteristics.
 
-The following system of designating emission, modulation, and transmission characteristics shall be employed.
+The following system of designating emission, modulation, and transmission characteristics shall be employed. 
 
-(a) Emissions are designated according to their classification and their necessary bandwidth.
+(a) Emissions are designated according to their classification and their necessary bandwidth. 
 
-(b) Three symbols are used to describe the basic characteristics of emissions. Emissions are classified and symbolized according to the following characteristics:
+(b) Three symbols are used to describe the basic characteristics of emissions. Emissions are classified and symbolized according to the following characteristics: 
 
-(1) First symbol—type of modulation of the main carrier;
+(1) First symbol—type of modulation of the main carrier; 
 
-(2) Second symbol—nature of signal(s) modulating the main carrier;
+(2) Second symbol—nature of signal(s) modulating the main carrier; 
 
-(3) Third symbol—type of information to be transmitted.
+(3) Third symbol—type of information to be transmitted. 
 
 Note to paragraph (b):
 
 Two additional symbols for the classification of emissions may be added for a more complete description of an emission. *See* Appendix 1, Sub-Section IIB of the ITU *Radio Regulations* for the specifications of these fourth and fifth symbols. Use of these symbols is not required by the Commission.
 
-(c) First Symbol—types of modulation of the main carrier:
+(c) First Symbol—types of modulation of the main carrier: 
 
 | (1) Emission of an unmodulated carrier                                                                                  | N |
 | (2) Emission in which the main carrier is amplitude-modulated (including cases where sub-carriers are angle-modulated): |   |
@@ -47,7 +47,7 @@ Whenever frequency modulation “F” is indicated, Phase modulation “G” is 
 | (7) Cases not otherwise covered                                                                                                                                                                                                   | X |
 | 1 Emissions where the main carrier is directly modulated by a signal which has been coded into quantized form (e.g. pulse code modulation) should be designated under (2) or (3).                                                 |   |
 
-(d) Second Symbol—nature of signal(s) modulating the main carrier:
+(d) Second Symbol—nature of signal(s) modulating the main carrier: 
 
 | (1) No modulating signal                                                                                                                                       | 0 |
 | (2) A single channel containing quantized or digital information without the use of a modulating sub-carrier, excluding time-division muliplex                 | 1 |
@@ -72,8 +72,8 @@ Whenever frequency modulation “F” is indicated, Phase modulation “G” is 
 | (8) Combination of the above                  | W |
 | (9) Cases not otherwise covered               | X |
 
-(f) Type *B* emission: As an exception to the above principles, damped waves are symbolized in the Commission's rules and regulations as type *B* emission. The use of type B emissions is forbidden.
+(f) Type *B* emission: As an exception to the above principles, damped waves are symbolized in the Commission's rules and regulations as type *B* emission. The use of type B emissions is forbidden. 
 
-(g) Whenever the full designation of an emission is necessary, the symbol for that emission, as given above, shall be preceded by the necessary bandwidth of the emission as indicated in § 2.202(b)(1).
+(g) Whenever the full designation of an emission is necessary, the symbol for that emission, as given above, shall be preceded by the necessary bandwidth of the emission as indicated in § 2.202(b)(1). 
 
 \[49 FR 48697, Dec. 14, 1984, as amended at 75 FR 63030, Oct. 13, 2010\]

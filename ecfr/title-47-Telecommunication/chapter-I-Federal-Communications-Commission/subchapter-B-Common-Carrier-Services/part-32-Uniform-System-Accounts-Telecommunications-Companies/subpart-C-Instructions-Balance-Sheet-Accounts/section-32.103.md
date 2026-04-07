@@ -1,6 +1,6 @@
 ##### § 32.103 Balance sheet accounts for other than regulated-fixed assets to be maintained.
 
-Balance sheet accounts to be maintained by companies for other than regulated-fixed assets are indicated as follows:
+Balance sheet accounts to be maintained by companies for other than regulated-fixed assets are indicated as follows: 
 
 Balance Sheet Accounts
 | Account title                                                |      |

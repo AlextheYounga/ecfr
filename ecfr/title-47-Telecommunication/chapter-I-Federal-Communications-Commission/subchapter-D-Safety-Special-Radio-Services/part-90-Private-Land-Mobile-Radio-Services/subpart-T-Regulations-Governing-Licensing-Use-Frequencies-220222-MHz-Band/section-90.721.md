@@ -1,6 +1,6 @@
 ##### § 90.721 Other channels available for non-nationwide systems in the 220-222 MHz band.
 
-(a) The channel groups listed in the following Table are available to both Government and non-Government Phase I applicants for trunked operations or operations of equivalent or greater efficiency for non-commercial or commercial operations.
+(a) The channel groups listed in the following Table are available to both Government and non-Government Phase I applicants for trunked operations or operations of equivalent or greater efficiency for non-commercial or commercial operations. 
 
 Table 1—Phase I Trunked Channel Groups
 | Group No. | Channel Nos.     |
@@ -26,7 +26,7 @@ Table 1—Phase I Trunked Channel Groups
 | 19        | 19-49-79-109-139 |
 | 20        | 20-50-80-110-140 |
 
-(b) The channels listed in the following Table are available to non-Government applicants for Phase II assignments in Economic Areas (EAs) and Regional Economic Area Groupings (REAGs) (*see* §§ 90.761 and 90.763).
+(b) The channels listed in the following Table are available to non-Government applicants for Phase II assignments in Economic Areas (EAs) and Regional Economic Area Groupings (REAGs) (*see* §§ 90.761 and 90.763). 
 
 Table 2—Phase II EA and Regional Channel Assignments
 | Assignment | Assignment area | Group Nos. (from table 1) | Channel Nos. |
