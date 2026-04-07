@@ -8,7 +8,7 @@
 
 (i) All applicable requirements of this part; and
 
-(ii)The worker safety and health program for that workplace.
+(ii) The worker safety and health program for that workplace.
 
 (b) The written worker safety and health program must describe how the contractor complies with the:
 
