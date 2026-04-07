@@ -1,5 +1,7 @@
 ##### § 229.10 (Item 10) General.
 
+Link to an amendment published at 89 FR 14315, Feb. 26, 2024.
+
 (a) *Application of Regulation S-K.* This part (together with the General Rules and Regulations under the Securities Act of 1933, 15 U.S.C. 77a *et seq.,* as amended (*Securities Act*), and the Securities Exchange Act of 1934, 15 U.S.C. 78a *et seq.,* as amended (*Exchange Act*) (parts 230 and 240 of this chapter), the Interpretative Releases under these Acts (parts 231 and 241 of this chapter) and the forms under these Acts (parts 239 and 249 of this chapter)) states the requirements applicable to the content of the non-financial statement portions of:
 
 (1) Registration statements under the Securities Act (part 239 of this chapter) to the extent provided in the forms to be used for registration under such Act; and
@@ -101,46 +103,16 @@ A non-GAAP financial measure that would otherwise be prohibited by paragraph (e)
 (f) *Smaller reporting companies.* The requirements of this part apply to smaller reporting companies. A smaller reporting company may comply with either the requirements applicable to smaller reporting companies or the requirements applicable to other companies for each item, unless the requirements for smaller reporting companies specify that smaller reporting companies must comply with the smaller reporting company requirements. The following items of this part set forth requirements for smaller reporting companies that are different from requirements applicable to other companies:
 
 Index of Scaled Disclosure Available to Smaller Reporting Companies
-
-Item 101
-
-Description of business. 
-
-Item 201
-
-Market price of and dividends on registrant's common equity and related stockholder matters. 
-
-Item 302
-
-Supplementary financial information. 
-
-Item 305
-
-Quantitative and qualitative disclosures about market risk. 
-
-Item 402
-
-Executive compensation. 
-
-Item 404
-
-Transactions with related persons, promoters and certain control persons. 
-
-Item 407
-
-Corporate governance. 
-
-Item 503
-
-Prospectus summary. 
-
-Item 504
-
-Use of proceeds. 
-
-Item 601
-
-Exhibits.
+| Item 101 | Description of business.                                                                     |
+| Item 201 | Market price of and dividends on registrant's common equity and related stockholder matters. |
+| Item 302 | Supplementary financial information.                                                         |
+| Item 305 | Quantitative and qualitative disclosures about market risk.                                  |
+| Item 402 | Executive compensation.                                                                      |
+| Item 404 | Transactions with related persons, promoters and certain control persons.                    |
+| Item 407 | Corporate governance.                                                                        |
+| Item 503 | Prospectus summary.                                                                          |
+| Item 504 | Use of proceeds.                                                                             |
+| Item 601 | Exhibits.                                                                                    |
 
 (1) *Definition of smaller reporting company.* As used in this part, the term *smaller reporting company* means an issuer that is not an investment company, an asset-backed issuer (as defined in § 229.1101), or a majority-owned subsidiary of a parent that is not a smaller reporting company and that:
 
