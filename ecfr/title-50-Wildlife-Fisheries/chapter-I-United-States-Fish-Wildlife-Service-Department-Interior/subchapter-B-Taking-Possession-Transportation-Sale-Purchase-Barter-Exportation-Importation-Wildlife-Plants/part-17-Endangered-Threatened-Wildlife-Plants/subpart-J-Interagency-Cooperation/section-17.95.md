@@ -9338,7 +9338,123 @@ Note:
 
 No map.
 
-Northern Mexican Gartersnake (*Thamnophis eques megalops*)
+Narrow-headed Gartersnake (*Thamnophis rufipunctatus*)
+
+(1) Critical habitat units are depicted for Greenlee, Apache, Yavapai, Gila, and Coconino Counties in Arizona, as well as in Grant, Hidalgo, and Catron Counties in New Mexico, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of narrow-headed gartersnake consist of the following components:
+
+(i) Perennial streams or spatially intermittent streams that provide both aquatic and terrestrial habitat that allows for immigration, emigration, and maintenance of population connectivity of narrow-headed gartersnakes and contain:
+
+(A) Pools, riffles, and cobble and boulder substrate, with a low amount of fine sediment and substrate embeddedness;
+
+(B) Organic and natural inorganic structural features (*e.g.,* cobble bars, rock piles, large boulders, logs or stumps, aquatic vegetation, vegetated islands, logs, and debris jams) in the stream channel for basking, thermoregulation, shelter, prey base maintenance, and protection from predators;
+
+(C) Water quality that meets or exceeds applicable State surface water quality standards; and
+
+(D) Terrestrial habitat up to 328 feet (100 meters) from the active stream channel (water's edge) that includes flood debris, rock piles, and rock walls containing cracks and crevices, small mammal burrows, downed woody debris, and streamside vegetation (*e.g.,* alder, willow, sedges, and shrubs) for thermoregulation, shelter, brumation and protection from predators throughout the year.
+
+(ii) Hydrologic processes that maintain aquatic and riparian habitat through:
+
+(A) A natural flow regime that allows for periodic flooding, or if flows are modified or regulated, a flow regime that allows for the movement of water, sediment, nutrients, and debris through the stream network, as well as maintenance of native fish populations; and
+
+(B) Physical hydrologic and geomorphic connection between the active stream channel and its adjacent terrestrial areas.
+
+(iii) A combination of native fishes, and soft-rayed, nonnative fish species such that prey availability occurs across seasons and years.
+
+(iv) An absence of nonnative aquatic predators, such as fish species of the families Centrarchidae and Ictaluridae, American bullfrogs (*Lithobates catesbeianus*), and/or crayfish (*Orconectes virilis, Procambarus clarki,* etc.), or occurrence of these nonnative species at low enough levels such that recruitment of narrow-headed gartersnakes is not inhibited and maintenance of viable prey populations is still occurring.
+
+(v) Elevations of 2,300 to 8,200 feet (700 to 2,500 meters).
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on November 22, 2021.
+
+(4) Data layers defining map units were created using the U.S. Geological Survey's 7.5' quadrangles, National Hydrography Dataset and National Elevation Dataset; the Service's National Wetlands Inventory dataset; and aerial imagery from Google Earth Pro. Line locations for lotic streams (flowing water) and drainages are depicted as the “Flowline” feature class from the National Hydrography Dataset geodatabase. The active channel along a stream is depicted as the “Wetlands” feature class from the Service's National Wetlands Inventory dataset. Any discrepancies between the “Flowline” and “Wetlands” feature classes were resolved using aerial imagery from Google Earth Pro. Elevation range is masked using the “Elev\_Contour” feature class of the National Elevation Dataset. The administrative boundaries for Arizona and New Mexico were obtained from the Arizona Land Resource Information Service and New Mexico Resource Geographic Information System, respectively. This includes the most current (as of November 22, 2021) geospatial data available for land ownership, counties, States, and streets. Locations depicting critical habitat are expressed as decimal degree latitude and longitude in the World Geographic Coordinate System projection using the 1984 datum (WGS84). The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *http://www.fws.gov/southwest/es/arizona/,* at *http://www.regulations.gov* at Docket No. FWS-R2-ES-2020-0011, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+Figure 1 to Narrow-headed Gartersnake paragraph (5)
+
+![](/graphics/er21oc21.004.gif)
+
+(6) Unit 1: Upper Gila River Subbasin Unit, Grant and Hidalgo Counties, New Mexico.
+
+(i) Unit 1 consists of 7,005 acres (ac) (2,835 hectares (ha)) in Grant and Hidalgo Counties, and is composed of lands in Federal (4,084 ac (1,653 ha)), State (553 ac (224 ha)), and private (2,368 ac (958 ha)) ownership in eight subunits west of the town of Glenwood, north of Silver City, and South of Gila and Cliff.
+
+(ii) Map of Unit 1 follows:
+
+Figure 2 to Narrow-headed Gartersnake paragraph (6)(ii)
+
+![](/graphics/er21oc21.005.gif)
+
+(7) Unit 2: San Francisco River Subbasin Unit, Catron County, New Mexico.
+
+(i) Unit 2 consists of 5,895 ac (2,386 ha) in Catron County, and is composed of lands in Federal (3,924 ac (1,588 ha)), State (3 ac (1 ha)), and private (1,967 ac (796 ha)) ownership in six subunits near the towns of Glenwood and Reserve.
+
+(ii) Map of Unit 2 follows:
+
+Figure 3 to Narrow-headed Gartersnake paragraph (7)(ii)
+
+![](/graphics/er21oc21.006.gif)
+
+(8) Unit 3: Blue River Subbasin Unit, Greenlee County, Arizona, and Catron County, New Mexico.
+
+(i) Unit 3 consists 3,368 ac (1,363 ha) in Greenlee County, Arizona, and Catron County, New Mexico, and is composed of lands in Federal (2,918 ac (1,181 ha)) and private (450 ac (182 ha)) ownership in three subunits near the towns of Blue, Arizona, and Luna, New Mexico.
+
+(ii) Map of Unit 3 follows:
+
+Figure 4 to Narrow-headed Gartersnake paragraph (8)(ii)
+
+![](/graphics/er21oc21.007.gif)
+
+(9) Unit 4: Eagle Creek Unit, Greenlee County, Arizona.
+
+(i) Unit 4 consists of 84 ac (34 ha) in Greenlee County, and is composed of lands in Federal (84 ac (34 ha)) and private (1 ac (<1 ha)) ownership near the town of Woolaroc.
+
+(ii) Map of Unit 4 follows:
+
+Figure 5 to Narrow-headed Gartersnake paragraph (9)(ii)
+
+![](/graphics/er21oc21.008.gif)
+
+(10) Unit 5: Black River Subbasin Unit, Apache and Greenlee Counties, Arizona.
+
+(i) Unit 5 consists of 1,780 ac (720 ha) in Apache and Greenlee Counties, and is composed of lands in Federal (1,780 ac (720 ha)) ownership in six subunits near the towns of Maverick and Hannigan Meadow.
+
+(ii) Map of Unit 5 follows:
+
+Figure 6 to Narrow-headed Gartersnake paragraph (10)(ii)
+
+![](/graphics/er21oc21.009.gif)
+
+(11) Unit 6: Canyon Creek Unit, Gila County, Arizona.
+
+(i) Unit 6 consists of 204 ac (82 ha) in Gila County, and is composed of lands in Federal (204 ac (82 ha)) ownership southwest of the town of Heber.
+
+(ii) Map of Unit 6 follows:
+
+Figure 7 to Narrow-headed Gartersnake paragraph (11)(ii)
+
+![](/graphics/er21oc21.010.gif)
+
+(12) Unit 7: Tonto Creek Subbasin Unit, Gila County, Arizona.
+
+(i) Unit 7 consists of 2,293 ac (928 ha) in Gila County, and is composed of lands in Federal (2,176 ac (881 ha)) and private (117 ac (47 ha)) ownership in three subunits near the towns of Jakes Corner and Gisela.
+
+(ii) Map of Unit 7 follows:
+
+Figure 8 to Narrow-headed Gartersnake paragraph (12)(ii)
+
+![](/graphics/er21oc21.011.gif)
+
+(13) Unit 8: Verde River Subbasin Unit, Coconino and Yavapai Counties, Arizona.
+
+(i) Unit 8 consists of 3,156 ac (1,277 ha) in Coconino and Yavapai Counties, and is composed of lands in Federal (2,446 ac (990 ha)), State (109 ac (44 ha)), and private (602 ac (244 ha)) ownership in three subunits near the towns of Sedona and Perkinsville.
+
+(ii) Map of Unit 8 follows:
+
+Figure 9 to Narrow-headed Gartersnake paragraph (13)(ii)
+
+![](/graphics/er21oc21.012.gif)Northern Mexican Gartersnake (*Thamnophis eques megalops*)
 
 (1) Critical habitat units are depicted for La Paz, Mohave, Yavapai, Gila, Cochise, Santa Cruz, and Pima Counties in Arizona, and in Grant County in New Mexico, on the maps in this entry.
 
