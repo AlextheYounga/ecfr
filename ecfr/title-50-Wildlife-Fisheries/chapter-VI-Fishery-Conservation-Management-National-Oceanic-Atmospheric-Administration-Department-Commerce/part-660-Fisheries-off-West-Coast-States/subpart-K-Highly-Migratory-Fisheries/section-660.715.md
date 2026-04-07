@@ -1,48 +1,48 @@
 ##### § 660.715 Deep-set buoy gear fishery.
 
-(a) *Gear configurations.* Deep-set buoy gear (DSBG) configurations must conform to the following specifications:
+(a) *Gear configurations.* Deep-set buoy gear (DSBG) configurations must conform to the following specifications: 
 
-(1) *Standard buoy gear (SBG).* An individual piece of SBG must consist of a vertical monofilament mainline suspended from a buoy-array with a terminal weight. No more than three gangions with hooks may be attached to the mainline. No gangions with hooks may be attached at a depth shallower than 90 meters.
+(1) *Standard buoy gear (SBG).* An individual piece of SBG must consist of a vertical monofilament mainline suspended from a buoy-array with a terminal weight. No more than three gangions with hooks may be attached to the mainline. No gangions with hooks may be attached at a depth shallower than 90 meters. 
 
-(2) *Linked buoy gear (LBG).* An individual piece (section) of LBG must consist of a monofilament mainline that extends vertically from a buoy-array (either directly or from a minimum 50-foot (15.24-meter) extender) to a weight; then horizontally to a second weight; then vertically to a minimum 50-foot (15.24-meter) extender attached to a second buoy-array. No more than three gangions with hooks may be connected to each horizontal section of the mainline. No gangions with hooks may be attached at a depth shallower than 90 meters. Individual pieces may be linked together by the mainline. The links between each piece of LBG must be serviceable.
+(2) *Linked buoy gear (LBG).* An individual piece (section) of LBG must consist of a monofilament mainline that extends vertically from a buoy-array (either directly or from a minimum 50-foot (15.24-meter) extender) to a weight; then horizontally to a second weight; then vertically to a minimum 50-foot (15.24-meter) extender attached to a second buoy-array. No more than three gangions with hooks may be connected to each horizontal section of the mainline. No gangions with hooks may be attached at a depth shallower than 90 meters. Individual pieces may be linked together by the mainline. The links between each piece of LBG must be serviceable. 
 
-(b) *Additional gear configuration specifications.* Use of SBG and LBG must conform with the following requirements:
+(b) *Additional gear configuration specifications.* Use of SBG and LBG must conform with the following requirements: 
 
-(1) *Surface buoy flotation and strike detection array requirements.* The surface buoy flotation and strike detection array must include a minimum of three buoys (a minimum 45-pound (20.41 kilogram) buoyancy non-compressible hard ball, a minimum 6-pound (2.72 kilogram) buoyancy buoy, and a strike detection buoy), with no more than 6 feet (1.83 meters) of line between adjacent buoys, all connected in-line by a minimum of 3/8 inch (9.53 millimeter) diameter line.
+(1) *Surface buoy flotation and strike detection array requirements.* The surface buoy flotation and strike detection array must include a minimum of three buoys (a minimum 45-pound (20.41 kilogram) buoyancy non-compressible hard ball, a minimum 6-pound (2.72 kilogram) buoyancy buoy, and a strike detection buoy), with no more than 6 feet (1.83 meters) of line between adjacent buoys, all connected in-line by a minimum of 3/8 inch (9.53 millimeter) diameter line. 
 
-(i) Buoys must be free of tether attachments (*e.g.,* non-streamlined gear with loops and/or dangling components).
+(i) Buoys must be free of tether attachments (*e.g.,* non-streamlined gear with loops and/or dangling components). 
 
-(ii) SBG and terminal LBG buoy-arrays must include a locator flag, a radar reflector, and the buoy must be marked with a number clearly identifying the owner or operator of the vessel. The number may be either:
+(ii) SBG and terminal LBG buoy-arrays must include a locator flag, a radar reflector, and the buoy must be marked with a number clearly identifying the owner or operator of the vessel. The number may be either: 
 
-(A) If required by applicable state law, the vessel's number, the commercial fishing license number, or buoy brand number; or
+(A) If required by applicable state law, the vessel's number, the commercial fishing license number, or buoy brand number; or 
 
-(B) The vessel documentation number issued by the United States Coast Guard (USCG), or, for an undocumented vessel, the vessel registration number issued by the state.
+(B) The vessel documentation number issued by the United States Coast Guard (USCG), or, for an undocumented vessel, the vessel registration number issued by the state. 
 
-(2) *Weight requirements.* Weights must be a minimum of 3.6 kilograms.
+(2) *Weight requirements.* Weights must be a minimum of 3.6 kilograms. 
 
-(3) *Circle hook requirements.* Circle hooks must be used that are a minimum size 16/0 with not more than 10 degrees offset.
+(3) *Circle hook requirements.* Circle hooks must be used that are a minimum size 16/0 with not more than 10 degrees offset. 
 
-(4) *Gear pieces and hook limitations.* No more than 10 pieces of SBG or LBG, in total, may be deployed at one time, with no more than three hooks per piece.
+(4) *Gear pieces and hook limitations.* No more than 10 pieces of SBG or LBG, in total, may be deployed at one time, with no more than three hooks per piece. 
 
-(c) *Operational requirements.* SBG and LBG must be fished in accordance with the following operational requirements.
+(c) *Operational requirements.* SBG and LBG must be fished in accordance with the following operational requirements. 
 
-(1) *Active tending.* All pieces of gear must remain within 5 nautical miles (9.26 kilometers) of the vessel at all times, and the vessel may be no more than 3 nautical miles (5.56 kilometers) from the nearest piece of gear.
+(1) *Active tending.* All pieces of gear must remain within 5 nautical miles (9.26 kilometers) of the vessel at all times, and the vessel may be no more than 3 nautical miles (5.56 kilometers) from the nearest piece of gear. 
 
-(2) *Fishing multiple gear types.* Gear types other than DSBG may be used on the same trip when DSBG is used, as long as the requirement to actively tend DSBG (as described at paragraph (c)(1) of this section) is met. If multiple gear types, including gear other than DSBG, are used on the same trip as DSBG, catch must be tagged or marked to identify the gear used, including differentiating whether caught with SBG or LBG.
+(2) *Fishing multiple gear types.* Gear types other than DSBG may be used on the same trip when DSBG is used, as long as the requirement to actively tend DSBG (as described at paragraph (c)(1) of this section) is met. If multiple gear types, including gear other than DSBG, are used on the same trip as DSBG, catch must be tagged or marked to identify the gear used, including differentiating whether caught with SBG or LBG. 
 
-(3) *Timing of gear deployment and retrieval.* Gear may not be deployed until local sunrise and must be onboard the vessel no later than 3 hours after local sunset.
+(3) *Timing of gear deployment and retrieval.* Gear may not be deployed until local sunrise and must be onboard the vessel no later than 3 hours after local sunset. 
 
-(4) *Pre-trip notification.* When requested by NMFS, DSBG vessel owners or operators are required to notify NMFS or the NMFS-designated observer provider at least 48 hours prior to departing on each fishing trip during which DSBG will be fished. The vessel owner or operator must communicate to the observer provider: the owner's or operator's name, contact information, vessel name, port of departure, estimated date and time of departure, and a telephone number at which the owner or operator may be contacted during the business day (Monday through Friday between 8 a.m. to 4:30 p.m., Pacific Time) to indicate whether an observer will be required on the subject fishing trip. Contact information for the current observer provider can be obtained by calling the NMFS West Coast Region Sustainable Fisheries Division at (562) 980-4238.
+(4) *Pre-trip notification.* When requested by NMFS, DSBG vessel owners or operators are required to notify NMFS or the NMFS-designated observer provider at least 48 hours prior to departing on each fishing trip during which DSBG will be fished. The vessel owner or operator must communicate to the observer provider: the owner's or operator's name, contact information, vessel name, port of departure, estimated date and time of departure, and a telephone number at which the owner or operator may be contacted during the business day (Monday through Friday between 8 a.m. to 4:30 p.m., Pacific Time) to indicate whether an observer will be required on the subject fishing trip. Contact information for the current observer provider can be obtained by calling the NMFS West Coast Region Sustainable Fisheries Division at (562) 980-4238. 
 
-(5) *Protected species workshops.* When requested by NMFS, the operator of a vessel either registered to a limited entry DSBG permit or planning to fish under a DSBG endorsement must attend a workshop conducted by NMFS on mitigation, handling, and release techniques for protected species.
+(5) *Protected species workshops.* When requested by NMFS, the operator of a vessel either registered to a limited entry DSBG permit or planning to fish under a DSBG endorsement must attend a workshop conducted by NMFS on mitigation, handling, and release techniques for protected species. 
 
-(d) *Geographic area restrictions.* DSBG fishing is permitted throughout the management area defined in § 660.703 with the following area restrictions:
+(d) *Geographic area restrictions.* DSBG fishing is permitted throughout the management area defined in § 660.703 with the following area restrictions: 
 
-(1) *Federal waters offshore of California and Oregon only.* Fishing with DSBG may not occur in Federal waters north of a line extending seaward from the Oregon/Washington border at north of 46°16′ N latitude.
+(1) *Federal waters offshore of California and Oregon only.* Fishing with DSBG may not occur in Federal waters north of a line extending seaward from the Oregon/Washington border at north of 46°16′ N latitude. 
 
-(2) *Limited entry-only area.* Except for vessels registered to a valid DSBG limited entry permit, fishing with DSBG may not occur in Federal waters within the Southern California Bight, which for this purpose is defined with a northern boundary of 34°26′54.96″ N latitude (*i.e.,* Point Conception), a southern boundary of the U.S.-Mexico maritime border, and a western boundary of 120°28′18″ W longitude.
+(2) *Limited entry-only area.* Except for vessels registered to a valid DSBG limited entry permit, fishing with DSBG may not occur in Federal waters within the Southern California Bight, which for this purpose is defined with a northern boundary of 34°26′54.96″ N latitude (*i.e.,* Point Conception), a southern boundary of the U.S.-Mexico maritime border, and a western boundary of 120°28′18″ W longitude. 
 
-(3) *Linked buoy gear area restriction.* Fishing with DSBG in a LBG configuration in waters north of the Northern Channel Islands to a line extending seaward from the Oregon/Washington border at 46°16′ N latitude may not occur shoreward of a line approximating the 400 meter depth contour, which is defined by straight lines connecting all of the following points in the order stated in the following table.
+(3) *Linked buoy gear area restriction.* Fishing with DSBG in a LBG configuration in waters north of the Northern Channel Islands to a line extending seaward from the Oregon/Washington border at 46°16′ N latitude may not occur shoreward of a line approximating the 400 meter depth contour, which is defined by straight lines connecting all of the following points in the order stated in the following table. 
 
 Table 1 to Paragraph (d)(3)
 | Point ID | Latitude  | Longitude   |

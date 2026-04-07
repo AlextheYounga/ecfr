@@ -1,6 +1,6 @@
 ##### § 922.90 Boundary.
 
-The Gray's Reef National Marine Sanctuary (Sanctuary) consists of approximately 16.68 square nautical miles (nmi 2) (22 sq. mi.) of ocean waters and the submerged lands thereunder, off the coast of Georgia. The Sanctuary boundary includes all waters and submerged lands within the geodetic lines connecting the following coordinates beginning at Point 1 and continuing to each subsequent point in numerical order ending at Point 5. (Coordinates listed are unprojected (geographic) and based on the North American Datum of 1983.): 
+The Gray's Reef National Marine Sanctuary (Sanctuary) consists of approximately 16.68 square nautical miles (nmi 2) (22 sq. mi.) of ocean waters and the submerged lands thereunder, off the coast of Georgia. The Sanctuary boundary includes all waters and submerged lands within the geodetic lines connecting the following coordinates beginning at Point 1 and continuing to each subsequent point in numerical order ending at Point 5. (Coordinates listed are unprojected (geographic) and based on the North American Datum of 1983.):
 
 Table 1 to § 922.90
 | Point | Latitude | Longitude |
