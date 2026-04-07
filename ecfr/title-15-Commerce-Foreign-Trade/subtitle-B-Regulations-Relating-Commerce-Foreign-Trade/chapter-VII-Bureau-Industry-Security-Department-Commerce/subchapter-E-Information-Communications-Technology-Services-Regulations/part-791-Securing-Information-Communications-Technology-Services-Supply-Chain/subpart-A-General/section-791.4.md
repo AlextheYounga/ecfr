@@ -1,4 +1,4 @@
-##### § 7.4 Determination of foreign adversaries.
+##### § 791.4 Determination of foreign adversaries.
 
 (a) The Secretary has determined that the following foreign governments or foreign non-government persons have engaged in a long-term pattern or serious instances of conduct significantly adverse to the national security of the United States or security and safety of United States persons and, therefore, constitute foreign adversaries solely for the purposes of the Executive Order, this rule, and any subsequent rule:
 

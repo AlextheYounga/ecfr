@@ -1,4 +1,4 @@
-##### § 7.2 Definitions.
+##### § 791.2 Definitions.
 
 *Appropriate agency heads* means the Secretary of the Treasury, the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the United States Trade Representative, the Director of National Intelligence, the Administrator of General Services, the Chairman of the Federal Communications Commission, and the heads of any other executive departments and agencies the Secretary determines is appropriate.
 

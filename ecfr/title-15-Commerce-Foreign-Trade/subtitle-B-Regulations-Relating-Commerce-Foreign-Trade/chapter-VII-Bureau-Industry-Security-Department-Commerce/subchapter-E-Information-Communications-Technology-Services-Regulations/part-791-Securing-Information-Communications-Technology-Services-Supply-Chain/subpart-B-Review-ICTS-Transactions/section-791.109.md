@@ -1,4 +1,4 @@
-##### § 7.109 Final determination.
+##### § 791.109 Final determination.
 
 (a) For each transaction for which the Secretary issues an initial determination that an ICTS Transaction is prohibited, the Secretary shall issue a final determination as to whether the ICTS Transaction is:
 
@@ -8,7 +8,7 @@
 
 (3) Permitted, at the Secretary's discretion, pursuant to the adoption of negotiated mitigation measures.
 
-(b) Unless the Secretary determines in writing that additional time is necessary, the Secretary shall issue the final determination within 180 days of accepting a referral and commencing the initial review of the ICTS Transaction pursuant to § 7.103.
+(b) Unless the Secretary determines in writing that additional time is necessary, the Secretary shall issue the final determination within 180 days of accepting a referral and commencing the initial review of the ICTS Transaction pursuant to § 791.103.
 
 (c) If the Secretary determines that an ICTS Transaction is prohibited, the Secretary shall have the discretion to direct the least restrictive means necessary to tailor the prohibition to address the undue or unacceptable risk posed by the ICTS Transaction.
 
@@ -37,3 +37,5 @@
 (2) The appropriate agency heads.
 
 (f) The results of final written determinations to prohibit an ICTS Transaction shall be published in the Federal Register. The publication shall omit any confidential business information.
+
+\[86 FR 4923, Jan. 19, 2021. Redesignated and amended at 89 FR 58265, July 18, 2024\]

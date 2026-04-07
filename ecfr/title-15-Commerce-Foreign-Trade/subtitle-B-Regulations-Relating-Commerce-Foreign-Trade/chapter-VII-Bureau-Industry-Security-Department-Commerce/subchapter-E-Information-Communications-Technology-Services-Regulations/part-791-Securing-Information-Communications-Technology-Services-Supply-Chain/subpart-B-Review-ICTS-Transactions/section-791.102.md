@@ -1,4 +1,4 @@
-##### § 7.102 Confidentiality of information.
+##### § 791.102 Confidentiality of information.
 
 (a) Information or documentary materials, not otherwise publicly or commercially available, submitted or filed with the Secretary under this part will not be released publicly except to the extent required by law.
 
@@ -16,6 +16,8 @@
 
 (6) Any other purpose authorized by law.
 
-(c) This section shall continue to apply with respect to information and documentary materials that are not otherwise publicly or commercially available and submitted to or obtained by the Secretary even after the Secretary issues a final determination pursuant to § 7.109 of this part.
+(c) This section shall continue to apply with respect to information and documentary materials that are not otherwise publicly or commercially available and submitted to or obtained by the Secretary even after the Secretary issues a final determination pursuant to § 791.109.
 
 (d) The provisions of 18 U.S.C. 1905, relating to fines and imprisonment and other penalties, shall apply with respect to the disclosure of information or documentary material provided to the Secretary under these regulations.
+
+\[86 FR 4923, Jan. 19, 2021. Redesignated and amended at 89 FR 58265, July 18, 2024\]

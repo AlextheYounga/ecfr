@@ -1,4 +1,4 @@
-##### § 7.3 Scope of Covered ICTS Transactions.
+##### § 791.3 Scope of Covered ICTS Transactions.
 
 (a) This part applies only to an ICTS Transaction that:
 
