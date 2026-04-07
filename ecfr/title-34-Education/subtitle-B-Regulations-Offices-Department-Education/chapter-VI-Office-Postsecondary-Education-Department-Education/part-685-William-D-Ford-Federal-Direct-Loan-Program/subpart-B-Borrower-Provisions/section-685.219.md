@@ -174,4 +174,4 @@
 
 (ii) Otherwise qualified for a $0 payment on an income-driven repayment plan under § 685.209.
 
-\[87 FR 66063, Nov. 1, 2022; 88 FR 43065, July 6, 2023; 88 FR 43905, July 10, 2023\]
+\[87 FR 66063, Nov. 1, 2022; 88 FR 43065, July 6, 2023; 88 FR 43905, July 10, 2023\] Link to an amendment published at 90 FR 49000, Oct. 31, 2025.

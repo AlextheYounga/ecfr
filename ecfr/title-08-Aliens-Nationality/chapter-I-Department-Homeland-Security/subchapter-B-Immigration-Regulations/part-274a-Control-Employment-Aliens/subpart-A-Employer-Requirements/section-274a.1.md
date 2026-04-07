@@ -1,6 +1,6 @@
 ##### § 274a.1 Definitions.
 
-For the purpose of this part—
+For the purpose of this part—*unauthorized alien*
 
 (a) The term *unauthorized alien* means, with respect to employment of an alien at a particular time, that the alien is not at that time either: (1) Lawfully admitted for permanent residence, or (2) authorized to be so employed by this Act or by the Attorney General;
 

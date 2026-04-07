@@ -1,6 +1,6 @@
 ##### § 685.206 Borrower responsibilities and defenses.
 
-(a) The borrower must give the school the following information as part of the origination process for a Direct Subsidized, Direct Unsubsidized, or Direct PLUS Loan:
+(a) The borrower must give the school the following information as part of the origination process for a Direct Subsidized, Direct Unsubsidized, or Direct PLUS Loan:*Borrower defense to repayment for loans first disbursed prior to July 1, 2017.*
 
 (1) A statement, as described in 34 CFR part 668, that the loan will be used for the cost of the student's attendance.
 

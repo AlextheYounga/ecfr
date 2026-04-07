@@ -1,6 +1,6 @@
 ##### § 274a.2 Verification of identity and employment authorization.
 
-(a) *General.* This section establishes requirements and procedures for compliance by persons or entities when hiring, or when recruiting or referring for a fee, or when continuing to employ individuals in the United States.
+(a) *General.* This section establishes requirements and procedures for compliance by persons or entities when hiring, or when recruiting or referring for a fee, or when continuing to employ individuals in the United States.Federal Register,
 
 (1) *Recruiters and referrers for a fee.* For purposes of complying with section 274A(b) of the Act and this section, all references to recruiters and referrers for a fee are limited to a person or entity who is either an agricultural association, agricultural employer, or farm labor contractor (as defined in section 3 of the Migrant and Seasonal Agricultural Worker Protection Act, Pub. L. 97-470 (29 U.S.C. 1802)).
 

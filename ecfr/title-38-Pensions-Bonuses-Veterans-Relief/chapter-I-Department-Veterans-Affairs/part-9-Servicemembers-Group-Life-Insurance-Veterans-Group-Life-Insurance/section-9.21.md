@@ -1,6 +1,6 @@
 ##### § 9.21 Schedule of Losses.
 
-(a) Definitions. For purposes of the Schedule of Losses in paragraph (c)—
+(a) Definitions. For purposes of the Schedule of Losses in paragraph (c)—*accommodating equipment*
 
 (1) The term *accommodating equipment* means tools or supplies that enable a member to perform an activity of daily living without the assistance of another person, including, but not limited to, a wheelchair; walker or cane; reminder applications; Velcro clothing or slip-on shoes; grabber or reach extender; raised toilet seat; wash basin; shower chair; or shower or tub modifications such as wheelchair access or no-step access, grab-bar or handle.
 

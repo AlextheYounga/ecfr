@@ -1,6 +1,6 @@
 ##### § 685.301 Origination of a loan by a Direct Loan Program school.
 
-(a) *Determining eligibility and loan amount.* (1) A school participating in the Direct Loan Program must ensure that any information it provides to the Secretary in connection with loan origination is complete and accurate. A school must originate a Direct Loan while the student meets the borrower eligibility requirements of § 685.200. Except as provided in 34 CFR part 668, subpart E, a school may rely in good faith upon statements made by the borrower and, in the case of a parent Direct PLUS Loan borrower, the student and the parent borrower.
+(a) *Determining eligibility and loan amount.* (1) A school participating in the Direct Loan Program must ensure that any information it provides to the Secretary in connection with loan origination is complete and accurate. A school must originate a Direct Loan while the student meets the borrower eligibility requirements of § 685.200. Except as provided in 34 CFR part 668, subpart E, a school may rely in good faith upon statements made by the borrower and, in the case of a parent Direct PLUS Loan borrower, the student and the parent borrower.Federal Register,
 
 (2) A school must provide to the Secretary borrower information that includes but is not limited to—
 

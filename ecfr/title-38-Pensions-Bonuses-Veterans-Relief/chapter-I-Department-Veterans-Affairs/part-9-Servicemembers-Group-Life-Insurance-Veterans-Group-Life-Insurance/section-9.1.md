@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 46476, Sept. 29, 2025.
 
-The following definitions are in addition to those definitions in 38 U.S.C. 101 and 1965:
+The following definitions are in addition to those definitions in 38 U.S.C. 101 and 1965:*policy*
 
 (a) The term *policy* means Group Policy No. G-32000, which was effective September 29, 1965, purchased from the insurer pursuant to 38 U.S.C. 1966, executed and attested on December 30, 1965, and amended thereafter.
 

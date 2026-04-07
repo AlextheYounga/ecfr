@@ -1,6 +1,6 @@
 ##### § 9.7 Administrative decisions.
 
-(a) Determinations of the Department of Veterans Affairs are conclusive under the policy with respect to the following:
+(a) Determinations of the Department of Veterans Affairs are conclusive under the policy with respect to the following:*member*
 
 (1) The status of any person being within the term *member* and whether or not he or she is covered at any point of time under the policy including *traveltime* under 38 U.S.C. 1967(b) and death within 120 days thereafter from a disability incurred or aggravated while on duty.
 
