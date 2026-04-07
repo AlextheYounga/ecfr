@@ -9314,7 +9314,7 @@ Critical Habitat Map Unit
 
 (ii) Map 1 of the critical habitat for Rota bridled white-eye follows:
 
-![](/graphics/er12se06.000.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 86 FR 30729, June 9, 2021.
+![](/graphics/er12se06.000.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (c) *Reptiles.*
 
@@ -13558,7 +13558,145 @@ The map provided is for informational purposes only. Map follows:
 
 (ii) Map of Unit 4 follows:
 
-![](/graphics/er03ja18.014.gif)
+![](/graphics/er03ja18.014.gif)Neuse River waterdog (*Necturus lewisi*)
+
+(1) Critical habitat units are depicted for Craven, Durham, Edgecombe, Franklin, Granville, Greene, Halifax, Johnston, Jones, Lenoir, Nash, Orange, Person, Pitt, Wake, Warren, Wayne, and Wilson Counties, North Carolina, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Neuse River waterdog consist of the following components:
+
+(i) Suitable substrates and connected instream habitats, characterized by geomorphically stable stream channels and banks (*i.e.,* channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation) with habitats that support a diversity of native aquatic fauna (such as stable riffle-run-pool habitats that provide flow refuges consisting of silt-free gravel, small cobble, coarse sand, and leaf litter substrates) as well as abundant cover and burrows used for nesting.
+
+(ii) Adequate flows, or a hydrologic flow regime (which includes the severity, frequency, duration, and seasonality of discharge over time), necessary to maintain instream habitats where the species is found and to maintain connectivity of streams with the floodplain, allowing the exchange of nutrients and sediment for maintenance of the waterdog's habitat, food availability, and ample oxygenated flow for spawning and nesting habitat.
+
+(iii) Water quality (including, but not limited to, conductivity, hardness, turbidity, temperature, pH, ammonia, heavy metals, and chemical constituents) necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages.
+
+(iv) Invertebrate and fish prey items, which are typically hellgrammites, crayfish, mayflies, earthworms, snails, beetles, centipedes, slugs, and small fish.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 9, 2021.
+
+(4) *Critical habitat map units.* Data layers defining map units were created by overlaying Natural Heritage Element Occurrence data and U.S. Geological Survey (USGS) hydrologic data for stream reaches. The hydrologic data used in the critical habitat maps were extracted from the USGS 1:1M scale nationwide hydrologic layer (*https://nationalmap.gov/small\_scale/mld/1nethyd.html*) with a projection of EPSG:4269-NAD83 Geographic. The North Carolina Natural Heritage program's species presence data were used to select specific stream segments for inclusion in the critical habitat layer. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *http://www.regulations.gov* under Docket No. FWS-R4-ES-2018-0092 and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er09jn21.000.gif)
+
+(6) Unit 1: TAR1-Upper Tar River, Granville County, North Carolina.
+
+(i) This unit consists of 12.3 river miles (19.8 river kilometers) of the Upper Tar River from approximately SR1004 (Old NC 75) downstream to SR1622 (Cannady's Mill Road). Unit 1 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er09jn21.001.gif)
+
+(7) Unit 2: TAR2-Upper Fishing Creek, Warren County, North Carolina.
+
+(i) This unit consists of 10.5 miles (17 kilometers) of Upper Fishing Creek from SR1118 (No Bottom Drive) downstream to NC58. Unit 2 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er09jn21.002.gif)
+
+(8) Unit 3: TAR3-Bens Creek, Warren County, North Carolina.
+
+(i) This unit consists of 2 miles (3.2 km) of Bens Creek beginning approximately one mile upstream and ending approximately one mile downstream of SR1509 (Odell-Littleton Road). Unit 3 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 3 follows:
+
+![](/graphics/er09jn21.003.gif)
+
+(9) Unit 4: TAR4a-Fishing Creek Subbasin, Edgecombe, Halifax, Nash, and Warren Counties, North Carolina; Unit 5: TAR4b-Sandy/Swift Creek, Edgecombe, Franklin, Nash, and Warren Counties, North Carolina; Unit 6: TAR4c-Middle Tar River Subbasin, Edgecombe, Franklin, and Nash Counties, North Carolina; and Unit 7: TAR4d-Lower Tar River Subbasin, Edgecombe and Pitt Counties, North Carolina.
+
+(i) Units 4, 5, 6, and 7 include stream habitat up to bankfull height.
+
+(ii) Unit 4 consists of 82.8 miles (133.3 km) of lower Little Fishing Creek approximately 1.6 miles (2.6 km) upstream of SR1214 (Silvertown Rd) downstream to the confluence with Fishing Creek, and including the mainstem of Fishing Creek from the Warren/Halifax County line to the confluence with the Tar River in Edgecombe County.
+
+(iii) Unit 5 consists of 72.5 miles (116.8 kilometers) of Sandy Creek downstream of SR 1451 (Leonard Road) to the confluence with the Tar River, including Red Bud Creek downstream of the Franklin/Nash county line to the confluence with Swift Creek.
+
+(iv) Unit 6 consists of 111 miles (179 kilometers) of the Middle Tar River from upstream of Highway 401 downstream to the confluence with Fishing Creek, including Stony Creek below SR1300 (Boddies' Millpond Rd), downstream to the confluence with the Tar River.
+
+(v) Unit 7 consists of 59.9 miles (96.3 kilometers) in the Lower Tar River Subbasin from the confluence with Fishing Creek downstream to the confluence with Barber Creek near SR1533 (Port Terminal Road). This unit includes portions of Town Creek below NC111 to the confluence with the Tar River, Otter Creek below SR1251 to the confluence with the Tar River, and Tyson Creek below SR1258 to the confluence with the Tar River.
+
+(vi) Map of Units 4, 5, 6, and 7 follows:
+
+![](/graphics/er09jn21.004.gif)
+
+(10) Unit 8: NR1-Eno River, Durham and Orange Counties, North Carolina.
+
+(i) This unit consists of 43.9 miles (70.6 kilometers) of the Eno River from NC86 downstream to the inundated portion of Falls Lake. Unit 8 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 8 follows:
+
+![](/graphics/er09jn21.005.gif)
+
+(11) Unit 9: NR2-Flat River, Durham and Person Counties, North Carolina.
+
+(i) This unit consists of 15.2 miles (24.5 kilometers) of the Flat River from SR1739 (Harris Mill Road) downstream to the inundated portion of Falls Lake. Unit 9 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 9 follows:
+
+![](/graphics/er09jn21.006.gif)
+
+(12) Unit 10: NR3-Middle Creek, Johnston and Wake Counties, North Carolina.
+
+(i) This unit consists of 30.8 miles (49.6 km) of Middle Creek from Southeast Regional Park downstream to the confluence with Swift Creek. Unit 10 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 10 follows:
+
+![](/graphics/er09jn21.007.gif)
+
+(13) Unit 11: NR4-Swift Creek, Johnston County, North Carolina.
+
+(i) This unit consists of 24 miles (38.6 kilometers) of Swift Creek from NC42 downstream to the confluence with the Neuse River. Unit 11 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 11 follows:
+
+![](/graphics/er09jn21.008.gif)
+
+(14) Unit 12: NR5a-Little River, Franklin, Johnston, Wake, and Wayne Counties, North Carolina; Unit 13: NR5b-Mill Creek, Johnston and Wayne Counties, North Carolina; and Unit 14: NR5c-Middle Neuse River, Wayne County, North Carolina.
+
+(i) Units 12, 13, and 14 include stream habitat up to bankfull height.
+
+(ii) Unit 12 consists of 90.8 miles (146.1 kilometers) of the Little River from near NC96 in Wake County downstream to the confluence with the Neuse River, including Buffalo Creek from NC39 to the confluence with the Little River.
+
+(iii) Unit 13 consists of 20.8 miles (33.5 kilometers) of Mill Creek from upstream of US701 downstream to the confluence with the Neuse River.
+
+(iv) Unit 14 consists of 43.2 miles (69.5 kilometers) of the Middle Neuse River from the confluence with Mill Creek downstream to the Wayne/Lenoir County line.
+
+(v) Map of Units 12, 13, and 14 follows:
+
+![](/graphics/er09jn21.009.gif)
+
+(15) Unit 15: NR6-Contentnea Creek/Lower Neuse River Subbasin, Craven, Greene, Lenoir, Pitt, Wayne, and Wilson Counties, North Carolina.
+
+(i) This unit consists of 114.8 miles (184.8 kilometers) of Contentnea Creek from NC581 downstream to its confluence with the Neuse River, Nahunta Swamp from the Wayne/Greene County line to the confluence with Contentnea Creek, and the Neuse River from the confluence with Contentnea Creek to the confluence with Pinetree Creek. Unit 15 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 15 follows:
+
+![](/graphics/er09jn21.010.gif)
+
+(16) Unit 16: NR7-Swift Creek (Lower Neuse), Craven County, North Carolina.
+
+(i) This unit consists of 10.3 miles (16.5 rier kilometers) of Swift Creek from SR1931 (Beaver Camp Rd) downstream to SR1440 (Streets Ferry Rd). Unit 16 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 16 follows:
+
+![](/graphics/er09jn21.011.gif)
+
+(17) Unit 17: TR1-Trent River, Jones County, North Carolina.
+
+(i) This unit consists of 32.5 miles (52.4 kilometers) of Beaver Creek from SR1316 (McDaniel Fork Rd) to the confluence with the Trent River, and Trent River from the confluence with Poplar Branch downstream to SR1121 (Oak Grove Rd) crossing at the Marine Corps Cherry Point property. Unit 17 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 17 follows:
+
+![](/graphics/er09jn21.012.gif)
+
+(18) Unit 18: TR2-Tuckahoe Swamp, Jones County, North Carolina.
+
+(i) This unit consists of 2 miles (3.2 km) of Tuckahoe Swamp in Jones County, North Carolina. Unit 18 begins upstream of SR1142 (Weyerhaeuser Road) to the confluence with the Trent River. Unit 18 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 18 follows:
+
+![](/graphics/er09jn21.013.gif)
 
 (e) *Fishes.*
 
@@ -15032,7 +15170,83 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.110.gif)Chucky Madtom (*Noturus crypticus*)
+![](/graphics/ec01jn91.110.gif)Carolina Madtom (*(Noturus Furiosus)*)
+
+(1) Critical habitat units are depicted for Durham, Edgecombe, Franklin, Granville, Halifax, Johnston, Jones, Nash, Orange, Vance, Warren, and Wilson Counties, North Carolina, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the Carolina madtom consist of the following components:
+
+(i) Suitable substrates and connected instream habitats, characterized by geomorphically stable stream channels and banks (*i.e.,* channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation) with habitats that support a diversity of freshwater native fish (such as stable riffle-run-pool habitats that provide flow refuges consisting of silt-free gravel, small cobble, coarse sand, and leaf litter substrates) as well as abundant cover used for nesting.
+
+(ii) Adequate flows, or a hydrologic flow regime (which includes the severity, frequency, duration, and seasonality of discharge over time), necessary to maintain instream habitats where the species is found and to maintain connectivity of streams with the floodplain, allowing the exchange of nutrients and sediment for maintenance of the fish's habitat, food availability, and ample oxygenated flow for spawning and nesting habitat.
+
+(iii) Water quality (including, but not limited to, conductivity, hardness, turbidity, temperature, pH, ammonia, heavy metals, and chemical constituents) necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages.
+
+(iv) Aquatic macroinvertebrate prey items, which are typically dominated by larval midges, mayflies, caddisflies, dragonflies, and beetle larvae.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 9, 2021.
+
+(4) *Critical habitat map units.* Data layers defining map units were created by overlaying Natural Heritage Element Occurrence data and U.S. Geological Survey (USGS) hydrologic data for stream reaches. The hydrologic data used in the critical habitat maps were extracted from the USGS 1:1M scale nationwide hydrologic layer (*https://nationalmap.gov/small\_scale/mld/1nethyd.html*) with a projection of EPSG:4269-NAD83 Geographic. The North Carolina Natural Heritage program's species presence data were used to select specific stream segments for inclusion in the critical habitat layer. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *http://www.regulations.gov* under Docket No. FWS-R4-ES-2018-0092 and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er09jn21.014.gif)
+
+(6) Unit 1: TAR1-Upper Tar River, Franklin, Granville, and Vance Counties, North Carolina.
+
+(i) This unit consists of 26 river miles (42 river kilometers) of the Upper Tar River from the confluence with Sand Creek to the confluence with Sycamore Creek. Unit 1 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er09jn21.015.gif)
+
+(7) Unit 2: TAR2-Sandy/Swift Creek, Edgecombe, Franklin, Halifax, Nash, Vance, and Warren Counties, North Carolina.
+
+(i) This unit consists of 66 river miles (106 river kilometers) of Sandy and Swift Creeks, located downstream from NC561 to the confluence with the Tar River. Unit 2 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er09jn21.016.gif)
+
+(8) Unit 3: TAR3-Fishing Creek Subbasin, Edgecombe, Franklin, Halifax, Nash, and Warren Counties, North Carolina.
+
+(i) This unit consists of 86 river miles (138 river kilometers) of Fishing Creek from the confluence with Hogpen Branch to the confluence with the Tar River, and Little Fishing Creek from Medoc Mountain Road (SR1002) to the confluence with Fishing Creek. Unit 3 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 3 follows:
+
+![](/graphics/er09jn21.017.gif)
+
+(9) Unit 4: NR1-Upper Neuse River Subbasin (Eno River), Durham and Orange Counties, North Carolina.
+
+(i) This unit consists of 20 river miles (32 river kilometers) of the Upper Neuse River extending from Eno River State Park downstream of NC70 to the confluence with Cabin Creek near Falls Lake impoundment. Unit 4 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 4 follows:
+
+![](/graphics/er09jn21.018.gif)
+
+(10) Unit 5: NR2-Little River, Johnston County, North Carolina.
+
+(i) This unit consists of 28 river miles (45 river kilometers) of the Upper and Lower Little River from NC42 to the Johnston/Wayne County line. Unit 5 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 5 follows:
+
+![](/graphics/er09jn21.019.gif)
+
+(11) Unit 6: NR3-Contentnea Creek, Wilson County, North Carolina.
+
+(i) This unit consists of 15 river miles (24 river kilometers) of Contentnea Creek from Buckhorn Reservoir to Wiggins Mill Reservoir. Unit 6 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 6 follows:
+
+![](/graphics/er09jn21.020.gif)
+
+(12) Unit 7: TR1-Trent River, Jones County, North Carolina.
+
+(i) This unit consists of 15 river miles (24 river kilometers) of the Trent River between the confluence with Cypress Creek and Beaver Creek. Unit 7 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 7 follows:
+
+![](/graphics/er09jn21.021.gif)Chucky Madtom (*Noturus crypticus*)
 
 (1) The critical habitat unit is depicted for Greene County, Tennessee, on the maps below.
 
