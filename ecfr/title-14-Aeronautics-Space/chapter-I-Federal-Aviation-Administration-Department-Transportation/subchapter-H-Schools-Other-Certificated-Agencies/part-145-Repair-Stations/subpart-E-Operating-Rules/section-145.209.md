@@ -26,7 +26,7 @@ A certificated repair station's manual must include the following:
 
 (g) Procedures for maintenance, preventive maintenance, or alterations performed under § 145.205;
 
-(h)Procedures for -
+(h) Procedures for -
 
 (1) Maintaining and revising the contract maintenance information required by § 145.217(a)(2)(i), including submitting revisions to the certificate holding district office for approval; and
 

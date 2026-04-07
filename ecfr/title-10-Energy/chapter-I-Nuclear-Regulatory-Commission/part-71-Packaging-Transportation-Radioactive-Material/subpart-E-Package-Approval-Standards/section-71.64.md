@@ -18,6 +18,6 @@
 
 (i) The presence, during the tests, of the actual contents that will be transported in the package; and
 
-(ii) Ambient water temperatures ranging from 0.6 °C ( + 33 °F) to 38 °C ( + 100 °F) for those qualification tests involving water, and ambient atmospheric temperatures ranging from −40 °C (−40 °F) to + 54 °C ( + 130°F) for the other qualification tests.
+(ii) Ambient water temperatures ranging from 0.6 °C (+33 °F) to 38 °C (+100 °F) for those qualification tests involving water, and ambient atmospheric temperatures ranging from −40 °C (−40 °F) to +54 °C (+130 °F) for the other qualification tests.
 
 (2) The ability of the package to meet the acceptance standards prescribed for the accident condition sequential tests would not be adversely affected if one or more tests in the sequence were deleted.
