@@ -10,13 +10,13 @@
 
 (2) The sponsor must contact the responsible Flight Standards office to schedule the FSTD for continuing qualification evaluations not later than 60 days before the evaluation is due.
 
-(3) The sponsor must provide the responsible Flight Standards officeresponsible Flight Standards office access to the objective test results in the MQTG and access to the FSTD for the length of time necessary for the responsible Flight Standards office to complete the required continuing qualification evaluations.
+(3) The sponsor must provide the responsible Flight Standards office responsible Flight Standards office access to the objective test results in the MQTG and access to the FSTD for the length of time necessary for the responsible Flight Standards office to complete the required continuing qualification evaluations.
 
-(4) The frequency of the responsible Flight Standards office -conducted continuing qualification evaluations for each FSTD will be established by the responsible Flight Standards office and specified in the Statement of Qualification.
+(4) The frequency of the responsible Flight Standards office-conducted continuing qualification evaluations for each FSTD will be established by the responsible Flight Standards office and specified in the Statement of Qualification.
 
 (5) Continuing qualification evaluations conducted in the 3 calendar months before or after the calendar month in which these continuing qualification evaluations are required will be considered to have been conducted in the calendar month in which they were required.
 
-(6) No sponsor may use or allow the use of or offer the use of an FSTD for flight crewmember training or evaluation or for obtaining flight experience for the flight crewmember to meet any requirement of this chapter unless the FSTD has passed a responsible Flight Standards office -conducted continuing qualification evaluation within the time frame specified in the Statement of Qualification or within the grace period as described in paragraph (b)(5) of this section.
+(6) No sponsor may use or allow the use of or offer the use of an FSTD for flight crewmember training or evaluation or for obtaining flight experience for the flight crewmember to meet any requirement of this chapter unless the FSTD has passed a responsible Flight Standards office-conducted continuing qualification evaluation within the time frame specified in the Statement of Qualification or within the grace period as described in paragraph (b)(5) of this section.
 
 (c) *Maintenance.* The sponsor is responsible for continuing corrective and preventive maintenance on the FSTD to ensure that it continues to meet the requirements of this part and the applicable QPS appendix. No sponsor may use or allow the use of or offer the use of an FSTD for flight crewmember training, evaluation, or flight experience to meet any of the requirements of this chapter unless the sponsor does the following:
 
