@@ -25,7 +25,7 @@ Calculation of Liquidity Ratio
 | (7) Total Current Funds Available                     |                                   |        | A               |
 | (8) Current liabilities                               |                                   | × 1.00 |                 |
 | (9) Commitments to Small Businesses                   |                                   | × 0.75 |                 |
-| (10) Anticipated operating expense for next 12 months | (1)                               | × 1.00 |                 |
+| (10) Anticipated operating expense for next 12 months | 1)                                | × 1.00 |                 |
 | (11) Anticipated interest expense for next 12 months  | (1)                               | × 1.00 |                 |
 | (12) Contingent liabilities (guarantees)              |                                   | × 0.25 |                 |
 | (13) Total Current Funds Required                     |                                   |        | B               |

@@ -1220,6 +1220,6 @@ Footnotes
 
 20\. *NAICS code 511210* - For purposes of Government procurement, the purchase of software subject to potential waiver of the nonmanufacturer rule pursuant to § 121.1203(d) should be classified under this NAICS code.
 
-\[65 FR 30840, May 15, 2000\] Editorial Notes:1\. For Federal Register citations affecting § 121.201, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+\[65 FR 30840, May 15, 2000\] Editorial Notes:1\. For Federal Register citations affecting § 121.201, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 2\. At 73 FR 12870, Mar. 11, 2008, § 121.201 was amended; however, several amendments could not be incorporated due to inaccurate amendatory instruction.

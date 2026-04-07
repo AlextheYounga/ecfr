@@ -1080,6 +1080,36 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (H) Notwithstanding the fact such person is not registered as a swap dealer, such person complies with §§ 23.201, 23.202, 23.203, and 23.600 of this chapter with respect to each such swap as if it were a swap dealer.
 
+(C) *Insured depository institution swaps in connection with originating loans to customers.* Solely for purposes of determining whether an insured depository institution has exceeded the $8 billion aggregate gross notional amount threshold set forth in paragraph (4)(i)(A) of this definition, an insured depository institution may exclude swaps entered into by the insured depository institution with a customer in connection with originating a loan to that customer, subject to the requirements of paragraphs (4)(i)(C)(*1*) through (*6*) of this definition.
+
+(*1*) *Timing of execution of swap.* The insured depository institution enters into the swap with the customer no earlier than 90 days before execution of the applicable loan agreement, or no earlier than 90 days before transfer of principal to the customer by the insured depository institution pursuant to the loan, unless an executed commitment or forward agreement for the applicable loan exists, in which event the 90 day restriction does not apply;
+
+(*2*) *Relationship of swap to loan.* (*i*) The rate, asset, liability or other term underlying such swap is, or is related to, a financial term of such loan, which includes, without limitation, the loan's duration, rate of interest, the currency or currencies in which it is made and its principal amount; or
+
+(*ii*) Such swap is permissible under the insured depository institution's loan underwriting criteria and is commercially appropriate in order to hedge risks incidental to the borrower's business (other than for risks associated with an excluded commodity) that may affect the borrower's ability to repay the loan;
+
+(*3*) *Duration of swap.* The duration of the swap does not extend beyond termination of the loan;
+
+(*4*) *Level of funding of loan.* (*i*) The insured depository institution is committed to be, under the terms of the agreements related to the loan, the source of at least five percent of the maximum principal amount under the loan; or
+
+(*ii*) If the insured depository institution is committed to be, under the terms of the agreements related to the loan, the source of less than five percent of the maximum principal amount under the loan, then the aggregate notional amount of all swaps entered by the insured depository institution with the customer in connection with the financial terms of the loan cannot exceed the principal amount of the insured depository institution's loan;
+
+(*5*) The swap is considered to have been entered into in connection with originating a loan with a customer if the insured depository institution:
+
+(*i*) Directly transfers the loan amount to the customer;
+
+(*ii*) Is a part of a syndicate of lenders that is the source of the loan amount that is transferred to the customer;
+
+(*iii*) Purchases or receives a participation in the loan; or
+
+(*iv*) Under the terms of the agreements related to the loan, is, or is intended to be, the source of funds for the loan; and
+
+(*6*) The loan to which the swap relates shall not include:
+
+(*i*) Any transaction that is a sham, whether or not intended to qualify for the exception from the de minimis threshold in this definition; or
+
+(*ii*) Any synthetic loan.
+
 *Swap execution facility.* This term means a trading system or platform in which multiple participants have the ability to execute or trade swaps by accepting bids and offers made by multiple participants in the facility or system, through any means of interstate commerce, including any trading facility, that -
 
 (1) Facilitates the execution of swaps between persons; and

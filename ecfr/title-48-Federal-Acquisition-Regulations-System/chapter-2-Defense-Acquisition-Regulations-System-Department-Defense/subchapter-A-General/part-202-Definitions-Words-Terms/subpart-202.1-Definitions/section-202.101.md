@@ -40,8 +40,6 @@
 
 *Executive agency* means for DoD, the Department of Defense, the Department of the Army, the Department of the Navy, and the Department of the Air Force.
 
-*General public* and *non-governmental* entities, as used in the definition of *commercial item* at FAR 2.101, do not include the Federal Government or a State, local, or foreign government (Pub. L. 110-181, section 815(b)).
-
 *Head of the agency* means, for DoD, the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force. Subject to the direction of the Secretary of Defense, the Under Secretary of Defense (Acquisition, Technology, and Logistics), and the Director of Defense Procurement and Acquisition Policy, the directors of the defense agencies have been delegated authority to act as head of the agency for their respective agencies (i.e., to perform functions under the FAR or DFARS reserved to a head of agency or agency head), except for such actions that by terms of statute, or any delegation, must be exercised within the Office of the Secretary of Defense. (For emergency acquisition flexibilities, *see* 218.270.)
 
 *Major defense acquisition program* is defined in 10.U.S.C. 2430(a).
