@@ -562,7 +562,7 @@ Yellowtail flounder—*Pleuronectes ferruginea.*
 
 *Recreational fishing* means fishing that is not intended to, nor results in the barter, trade, or sale of fish.
 
-*Recreational fishing vessel,* with respect to the scup fishery, means any vessel from which no fishing other than recreational fishing is conducted. Charter and party boats are considered recreational fishing vessels for purposes of the scup minimum size requirement.
+*Recreational fishing vessel,* means any vessel from which no fishing other than recreational fishing is conducted. Charter and party boats are considered recreational fishing vessels for purposes of minimum size, season, and possession limit requirements.
 
 *Red Crab Management Unit* means an area of the Atlantic Ocean from 35° 15.3′ N. Lat., the approximate latitude of Cape Hatteras Light, NC, northward to the U.S.-Canada border, extending eastward from the shore to the outer boundary of the exclusive economic zone and northward to the U.S.-Canada border in which the United States exercises exclusive jurisdiction over all Atlantic deep-sea red crab fished for, possessed, caught, or retained in or from such area.
 
