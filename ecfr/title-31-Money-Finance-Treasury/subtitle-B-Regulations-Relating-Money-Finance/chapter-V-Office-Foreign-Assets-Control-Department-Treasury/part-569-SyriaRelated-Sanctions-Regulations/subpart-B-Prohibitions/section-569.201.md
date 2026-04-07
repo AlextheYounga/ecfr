@@ -1,6 +1,6 @@
 ##### § 569.201 Prohibited transactions.
 
-All transactions prohibited pursuant to Executive Order 13894 of October 14, 2019 (E.O. 13894), or any further Executive orders issued pursuant to the national emergency declared in E.O. 13894, are prohibited pursuant to this part.
+All transactions prohibited pursuant to Executive Order 13894 of October 14, 2019 (E.O. 13894), or any further Executive orders issued pursuant to the national emergency declared in E.O. 13894, are prohibited pursuant to this part. 
 
 Note 1 to § 569.201:
 

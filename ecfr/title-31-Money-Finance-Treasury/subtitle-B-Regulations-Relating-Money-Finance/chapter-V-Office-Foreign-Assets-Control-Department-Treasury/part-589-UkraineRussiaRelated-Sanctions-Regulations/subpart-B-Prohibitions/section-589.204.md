@@ -1,6 +1,6 @@
 ##### § 589.204 Prohibited transactions with respect to the defense and related materiel sector of the Russian Federation economy (Directive 3).
 
-All transactions in, provision of financing for, and other dealings in new debt of longer than 30 days maturity of persons determined to be subject to this section, their property, or their interests in property by a U.S. person or within in the United States are prohibited.
+All transactions in, provision of financing for, and other dealings in new debt of longer than 30 days maturity of persons determined to be subject to this section, their property, or their interests in property by a U.S. person or within in the United States are prohibited. 
 
 Note 1 to § 589.204:
 

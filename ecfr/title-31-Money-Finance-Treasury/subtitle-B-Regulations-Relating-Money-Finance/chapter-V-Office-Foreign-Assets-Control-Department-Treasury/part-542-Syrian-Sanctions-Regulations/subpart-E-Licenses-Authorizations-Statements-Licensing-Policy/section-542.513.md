@@ -1,12 +1,12 @@
 ##### § 542.513 Official business of certain international organizations and entities.
 
-All transactions prohibited by this part that are for the conduct of the official business of the following entities by employees, grantees, or contractors thereof are authorized:
+All transactions prohibited by this part that are for the conduct of the official business of the following entities by employees, grantees, or contractors thereof are authorized: 
 
-(a) The United Nations, including its Programmes, Funds, and Other Entities and Bodies, as well as its Specialized Agencies and Related Organizations;
+(a) The United Nations, including its Programmes, Funds, and Other Entities and Bodies, as well as its Specialized Agencies and Related Organizations; 
 
-(b) The International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies; and
+(b) The International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies; and 
 
-(c) The Global Fund to Fight AIDS, Tuberculosis, and Malaria, and Gavi, the Vaccine Alliance.
+(c) The Global Fund to Fight AIDS, Tuberculosis, and Malaria, and Gavi, the Vaccine Alliance. 
 
 Note 1 to § 542.513.
 

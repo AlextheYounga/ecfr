@@ -1,6 +1,6 @@
 ##### § 510.301 Arms or related materiel.
 
-The term *arms or related materiel* means arms or related materiel of all types, including any battle tanks, armored combat vehicles, large caliber artillery systems, combat aircraft, attack helicopters, warships, missiles or missile systems, or related materiel including spare parts.
+The term *arms or related materiel* means arms or related materiel of all types, including any battle tanks, armored combat vehicles, large caliber artillery systems, combat aircraft, attack helicopters, warships, missiles or missile systems, or related materiel including spare parts. 
 
 Note 1 to § 510.301:
 

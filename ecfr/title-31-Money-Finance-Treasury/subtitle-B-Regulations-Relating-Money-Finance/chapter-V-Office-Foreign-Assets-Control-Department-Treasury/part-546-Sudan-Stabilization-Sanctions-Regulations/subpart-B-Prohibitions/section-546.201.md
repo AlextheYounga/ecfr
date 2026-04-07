@@ -1,82 +1,82 @@
 ##### § 546.201 Prohibited transactions involving blocked property.
 
-(a) All property and interests in property that are in the United States, that come within the United States, or that are or come within the possession or control of any U.S. person of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in:
+(a) All property and interests in property that are in the United States, that come within the United States, or that are or come within the possession or control of any U.S. person of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in: 
 
-(1) *E.O. 13400 Annex.* The persons listed in the Annex to Executive Order 13400 of April 26, 2006.
+(1) *E.O. 13400 Annex.* The persons listed in the Annex to Executive Order 13400 of April 26, 2006. 
 
-(2) *E.O. 13400.* Any person determined by the Secretary of the Treasury, after consultation with the Secretary of State:
+(2) *E.O. 13400.* Any person determined by the Secretary of the Treasury, after consultation with the Secretary of State: 
 
-(i) To have constituted a threat to the peace process in Darfur;
+(i) To have constituted a threat to the peace process in Darfur; 
 
-(ii) To have constituted a threat to stability in Darfur and the region;
+(ii) To have constituted a threat to stability in Darfur and the region; 
 
-(iii) To be responsible for conduct related to the conflict in Darfur that violates international law;
+(iii) To be responsible for conduct related to the conflict in Darfur that violates international law; 
 
-(iv) To be responsible for heinous conduct with respect to human life or limb related to the conflict in Darfur;
+(iv) To be responsible for heinous conduct with respect to human life or limb related to the conflict in Darfur; 
 
-(v) To have directly or indirectly supplied, sold, or transferred arms or any related materiel, or any assistance, advice, or training related to military activities to:
+(v) To have directly or indirectly supplied, sold, or transferred arms or any related materiel, or any assistance, advice, or training related to military activities to: 
 
-(A) The Government of Sudan;
+(A) The Government of Sudan; 
 
-(B) The Sudan Liberation Movement/Army;
+(B) The Sudan Liberation Movement/Army; 
 
-(C) The Justice and Equality Movement;
+(C) The Justice and Equality Movement; 
 
-(D) The Janjaweed; or
+(D) The Janjaweed; or 
 
-(E) Any person (other than a person listed in paragraph (a)(2)(v)(A) through (D) of this section) operating in the states of North Darfur, South Darfur, or West Darfur that is a belligerent, a nongovernmental entity, or an individual;
+(E) Any person (other than a person listed in paragraph (a)(2)(v)(A) through (D) of this section) operating in the states of North Darfur, South Darfur, or West Darfur that is a belligerent, a nongovernmental entity, or an individual; 
 
-(vi) To be responsible for offensive military overflights in and over the Darfur region;
+(vi) To be responsible for offensive military overflights in and over the Darfur region; 
 
-(vii) To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, the activities described in paragraphs (a)(2)(i) through (vi) of this section or any person whose property and interests in property are blocked pursuant to paragraphs (a)(1) through (2) of this section; or
+(vii) To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, the activities described in paragraphs (a)(2)(i) through (vi) of this section or any person whose property and interests in property are blocked pursuant to paragraphs (a)(1) through (2) of this section; or 
 
-(viii) To be owned or controlled by, or acting or purporting to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraphs (a)(1) through (2) of this section.
+(viii) To be owned or controlled by, or acting or purporting to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraphs (a)(1) through (2) of this section. 
 
-(3) *E.O. 14098.* Any foreign person determined by the Secretary of the Treasury, in consultation with the Secretary of State:
+(3) *E.O. 14098.* Any foreign person determined by the Secretary of the Treasury, in consultation with the Secretary of State: 
 
-(i) To be responsible for, or complicit in, or to have directly or indirectly engaged or attempted to engage in, any of the following:
+(i) To be responsible for, or complicit in, or to have directly or indirectly engaged or attempted to engage in, any of the following: 
 
-(A) Actions or policies that threaten the peace, security, or stability of Sudan;
+(A) Actions or policies that threaten the peace, security, or stability of Sudan; 
 
-(B) Actions or policies that obstruct, undermine, delay, or impede, or pose a significant risk of obstructing, undermining, delaying, or impeding, the formation or operation of a civilian transitional government, Sudan's transition to democracy, or a future democratically elected government;
+(B) Actions or policies that obstruct, undermine, delay, or impede, or pose a significant risk of obstructing, undermining, delaying, or impeding, the formation or operation of a civilian transitional government, Sudan's transition to democracy, or a future democratically elected government; 
 
-(C) Actions or policies that have the purpose or effect of undermining democratic processes or institutions in Sudan;
+(C) Actions or policies that have the purpose or effect of undermining democratic processes or institutions in Sudan; 
 
-(D) Censorship or other actions or policies that prohibit, limit, or penalize the exercise of freedoms of expression, association, or peaceful assembly by individuals in Sudan, or that limit access to free and independent news or information in or with respect to Sudan;
+(D) Censorship or other actions or policies that prohibit, limit, or penalize the exercise of freedoms of expression, association, or peaceful assembly by individuals in Sudan, or that limit access to free and independent news or information in or with respect to Sudan; 
 
-(E) Corruption, including bribery, misappropriation of state assets, and interference with public processes such as government oversight of parastatal budgets and revenues for personal benefit;
+(E) Corruption, including bribery, misappropriation of state assets, and interference with public processes such as government oversight of parastatal budgets and revenues for personal benefit; 
 
-(F) Serious human rights abuse, including serious human rights abuse related to political repression, in or with respect to Sudan;
+(F) Serious human rights abuse, including serious human rights abuse related to political repression, in or with respect to Sudan; 
 
-(G) The targeting of women, children, or any other civilians through the commission of acts of violence (including killing, maiming, torture, or rape or other sexual violence), abduction, forced displacement, or attacks on schools, hospitals, religious sites, or locations where civilians are seeking refuge, or through conduct that would constitute a serious abuse or violation of human rights or a violation of international humanitarian law;
+(G) The targeting of women, children, or any other civilians through the commission of acts of violence (including killing, maiming, torture, or rape or other sexual violence), abduction, forced displacement, or attacks on schools, hospitals, religious sites, or locations where civilians are seeking refuge, or through conduct that would constitute a serious abuse or violation of human rights or a violation of international humanitarian law; 
 
-(H) The obstruction of the activities of United Nations missions—including peacekeeping missions, as well as diplomatic or humanitarian missions—in Sudan, or of the delivery of, distribution of, or access to humanitarian assistance; or
+(H) The obstruction of the activities of United Nations missions—including peacekeeping missions, as well as diplomatic or humanitarian missions—in Sudan, or of the delivery of, distribution of, or access to humanitarian assistance; or 
 
-(I) Attacks against United Nations missions, including peacekeeping operations;
+(I) Attacks against United Nations missions, including peacekeeping operations; 
 
-(ii) To be or have been a leader, official, senior executive officer, or member of the board of directors of any entity:
+(ii) To be or have been a leader, official, senior executive officer, or member of the board of directors of any entity: 
 
-(A) That has, or whose members have, engaged in any activity described in paragraph (a)(3)(i) of this section relating to the tenure of such leader, official, senior executive officer, or member of the board of directors; or
+(A) That has, or whose members have, engaged in any activity described in paragraph (a)(3)(i) of this section relating to the tenure of such leader, official, senior executive officer, or member of the board of directors; or 
 
-(B) Whose property and interests in property are blocked pursuant to this order relating to the tenure of such leader, official, senior executive officer, or member of the board of directors;
+(B) Whose property and interests in property are blocked pursuant to this order relating to the tenure of such leader, official, senior executive officer, or member of the board of directors; 
 
-(iii) To be a spouse or adult child of any person whose property and interests in property are blocked pursuant to paragraph (a)(3) of this section;
+(iii) To be a spouse or adult child of any person whose property and interests in property are blocked pursuant to paragraph (a)(3) of this section; 
 
-(iv) To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, any activity described in paragraph (a)(3)(i) of this section or any person whose property and interests in property are blocked pursuant to paragraph (a)(3) of this section; or
+(iv) To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, any activity described in paragraph (a)(3)(i) of this section or any person whose property and interests in property are blocked pursuant to paragraph (a)(3) of this section; or 
 
-(v) To be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraph (a)(3) of this section.
+(v) To be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraph (a)(3) of this section. 
 
-(b) The prohibitions in this section include, but are not limited to, prohibitions on the following transactions when engaged in by a United States person or within the United States:
+(b) The prohibitions in this section include, but are not limited to, prohibitions on the following transactions when engaged in by a United States person or within the United States: 
 
-(1) The making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to paragraph (a) of this section; and
+(1) The making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to paragraph (a) of this section; and 
 
-(2) The receipt of any contribution or provision of funds, goods, or services from any person whose property and interests in property are blocked pursuant to paragraph (a) of this section.
+(2) The receipt of any contribution or provision of funds, goods, or services from any person whose property and interests in property are blocked pursuant to paragraph (a) of this section. 
 
-(c) Unless otherwise authorized by this part or by a specific license expressly referring to this section, any dealing in any security (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of, or known to be held for the benefit of, or issued by, any person whose property and interests in property are blocked pursuant to this section is prohibited. This prohibition includes but is not limited to the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on, any such security on or after the effective date. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such security may have or might appear to have assigned, transferred, or otherwise disposed of the security.
+(c) Unless otherwise authorized by this part or by a specific license expressly referring to this section, any dealing in any security (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of, or known to be held for the benefit of, or issued by, any person whose property and interests in property are blocked pursuant to this section is prohibited. This prohibition includes but is not limited to the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on, any such security on or after the effective date. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such security may have or might appear to have assigned, transferred, or otherwise disposed of the security. 
 
-(d) The prohibitions in paragraph (a) of this section apply except to the extent provided by statutes, or in regulations, rulings, instructions, orders, directives, or licenses that may be issued pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to the effective date.
+(d) The prohibitions in paragraph (a) of this section apply except to the extent provided by statutes, or in regulations, rulings, instructions, orders, directives, or licenses that may be issued pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to the effective date. 
 
-(e) All transactions prohibited pursuant to any Executive order issued after May 4, 2023 pursuant to the national emergency declared in E.O. 13067 of November 3, 1997 and expanded by E.O. 13400 of April 26, 2006 and E.O. 14098 of May 4, 2023 are prohibited pursuant to this part.
+(e) All transactions prohibited pursuant to any Executive order issued after May 4, 2023 pursuant to the national emergency declared in E.O. 13067 of November 3, 1997 and expanded by E.O. 13400 of April 26, 2006 and E.O. 14098 of May 4, 2023 are prohibited pursuant to this part. 
 
 Note 1 to § 546.201:
 

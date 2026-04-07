@@ -1,14 +1,14 @@
 ##### § 594.320 Hizballah.
 
-The term *Hizballah* means:
+The term *Hizballah* means: 
 
-(a) The entity known as Hizballah and designated by the Secretary of State as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189); or
+(a) The entity known as Hizballah and designated by the Secretary of State as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189); or 
 
-(b) Any person:
+(b) Any person: 
 
-(1) The property and interests in property of which are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 *et seq.*); and
+(1) The property and interests in property of which are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 *et seq.*); and 
 
-(2) Who is identified on the Specially Designated Nationals and Blocked Persons List (SDN List) maintained by OFAC as an agent, instrumentality, or affiliate of Hizballah.
+(2) Who is identified on the Specially Designated Nationals and Blocked Persons List (SDN List) maintained by OFAC as an agent, instrumentality, or affiliate of Hizballah. 
 
 Note 1 to § 594.320:
 

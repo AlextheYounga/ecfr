@@ -1,18 +1,18 @@
 ##### § 598.314 Specially designated narcotics trafficker.
 
-The term *specially designated narcotics trafficker* means:
+The term *specially designated narcotics trafficker* means: 
 
-(a) Significant foreign narcotics traffickers; and
+(a) Significant foreign narcotics traffickers; and 
 
-(b) Foreign persons designated by the Secretary of the Treasury, in consultation with the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, the Secretary of Defense, and the Secretary of State, because they are found to be:
+(b) Foreign persons designated by the Secretary of the Treasury, in consultation with the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, the Secretary of Defense, and the Secretary of State, because they are found to be: 
 
-(1) Materially assisting in, or providing financial or technological support for or to, or providing goods or services in support of, the international narcotics trafficking activities of a specially designated narcotics trafficker;
+(1) Materially assisting in, or providing financial or technological support for or to, or providing goods or services in support of, the international narcotics trafficking activities of a specially designated narcotics trafficker; 
 
-(2) Owned, controlled, or directed by, or acting for or on behalf of, a specially designated narcotics trafficker; or
+(2) Owned, controlled, or directed by, or acting for or on behalf of, a specially designated narcotics trafficker; or 
 
-(3) Playing a significant role in international narcotics trafficking; and
+(3) Playing a significant role in international narcotics trafficking; and 
 
-(c) Entities owned in the aggregate, directly or indirectly, 50 percent or more by one or more specially designated narcotics traffickers.
+(c) Entities owned in the aggregate, directly or indirectly, 50 percent or more by one or more specially designated narcotics traffickers. 
 
 Note 1 to § 598.314:
 

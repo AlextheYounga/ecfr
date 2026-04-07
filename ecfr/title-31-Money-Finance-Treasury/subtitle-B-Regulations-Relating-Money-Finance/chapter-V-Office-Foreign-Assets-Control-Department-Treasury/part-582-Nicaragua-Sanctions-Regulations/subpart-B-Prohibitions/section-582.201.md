@@ -1,6 +1,6 @@
 ##### § 582.201 Prohibited transactions.
 
-All transactions prohibited pursuant to Executive Order 13851 of November 27, 2018 (E.O. 13851), or any further Executive orders issued pursuant to the national emergency declared in E.O. 13851, and any transactions prohibited pursuant to the Nicaragua Human Rights and Anticorruption Act of 2018 (Pub. L. 115-335; 50 U.S.C. 1701 note) (NHRAA), are also prohibited pursuant to this part.
+All transactions prohibited pursuant to Executive Order 13851 of November 27, 2018 (E.O. 13851), or any further Executive orders issued pursuant to the national emergency declared in E.O. 13851, and any transactions prohibited pursuant to the Nicaragua Human Rights and Anticorruption Act of 2018 (Pub. L. 115-335; 50 U.S.C. 1701 note) (NHRAA), are also prohibited pursuant to this part. 
 
 Note 1 to § 582.201:
 

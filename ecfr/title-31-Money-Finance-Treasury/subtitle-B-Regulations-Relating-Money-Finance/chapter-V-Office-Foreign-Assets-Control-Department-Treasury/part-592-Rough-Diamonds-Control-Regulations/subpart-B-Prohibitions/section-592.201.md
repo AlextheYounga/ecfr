@@ -1,8 +1,8 @@
 ##### § 592.201 Prohibited importation and exportation of any rough diamond; permitted importation or exportation of any rough diamond.
 
-(a) Except to the extent provided in paragraph (b) of this section, and notwithstanding the existence of any rights or obligations conferred or imposed by any contract entered into or any license or permit granted prior to the effective date, the importation into, or exportation from, the United States on or after July 30, 2003, of any rough diamond, from whatever source, is prohibited, unless the rough diamond has been controlled through the Kimberley Process Certification Scheme.
+(a) Except to the extent provided in paragraph (b) of this section, and notwithstanding the existence of any rights or obligations conferred or imposed by any contract entered into or any license or permit granted prior to the effective date, the importation into, or exportation from, the United States on or after July 30, 2003, of any rough diamond, from whatever source, is prohibited, unless the rough diamond has been controlled through the Kimberley Process Certification Scheme. 
 
-(b) The prohibitions in paragraph (a) of this section regarding the importation into, or exportation from, the United States of any rough diamond not controlled through the Kimberley Process Certification Scheme do not apply to an importation from, or exportation to, any country with respect to which the Secretary of State has granted a waiver pursuant to section 4(b) of the Clean Diamond Trade Act (Pub. L. 108-19) and section 2(a)(i) of Executive Order 13312.
+(b) The prohibitions in paragraph (a) of this section regarding the importation into, or exportation from, the United States of any rough diamond not controlled through the Kimberley Process Certification Scheme do not apply to an importation from, or exportation to, any country with respect to which the Secretary of State has granted a waiver pursuant to section 4(b) of the Clean Diamond Trade Act (Pub. L. 108-19) and section 2(a)(i) of Executive Order 13312. 
 
 Note to § 592.201.
 

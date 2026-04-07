@@ -1,6 +1,6 @@
 ##### § 599.201 Prohibited transactions.
 
-All transactions prohibited pursuant to E.O. 14059 of December 15, 2021, or any further Executive orders issued pursuant to the national emergency declared in E.O. 14059 are prohibited pursuant to this part.
+All transactions prohibited pursuant to E.O. 14059 of December 15, 2021, or any further Executive orders issued pursuant to the national emergency declared in E.O. 14059 are prohibited pursuant to this part. 
 
 Note 1 to § 599.201.
 
