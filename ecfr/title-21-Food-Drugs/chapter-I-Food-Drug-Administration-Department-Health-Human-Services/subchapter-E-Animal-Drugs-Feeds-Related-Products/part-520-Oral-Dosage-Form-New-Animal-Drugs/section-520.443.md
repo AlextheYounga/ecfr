@@ -20,7 +20,7 @@
 
 (2) *Amount.* One 25 milligram tablet for each 5 pounds of body weight every 12 hours daily for 3 to 5 days.
 
-(i) *Indications for use.* Control and treatment of bacterial enteritis (scours) caused by *E. coli* and *Salmonella* spp. and bacterial pneumonia associated with *Pasteurella* spp., *Haemophilus* spp., and *Klebsiella* spp., susceptible to chlortetracycline.
+(i) *Indications for use.* Control and treatment of bacterial enteritis (scours) caused by *E. coli* and *Salmonella* spp. And bacterial pneumonia associated with *Pasteurella* spp., *Haemophilus* spp., and *Klebsiella* spp., susceptible to chlortetracycline.
 
 (ii) *Limitations.* Administer tablet directly by mouth or crush and dissolve in water for drenching; if no improvement is noted after 3 days of treatment, consult a veterinarian; do not use for more than 5 days; when feeding milk or milk replacer, administration 1 hour before or 2 hours after feeding; do not administer within 24 hours of slaughter. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 

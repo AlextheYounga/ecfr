@@ -20,7 +20,7 @@
 
 (2) *Growing quail*—(i) *Amount.* 500 milligrams per gallon in drinking water for 5 days followed by 165 milligrams per gallon in drinking water for 10 days.
 
-(ii) *Indications for use.* Control of ulcerative enteritis caused by *Clostridium* spp. susceptible to bacitracin zinc.
+(ii) *Indications for use.* Control of ulcerative enteritis caused by *Clostridium* spp. Susceptible to bacitracin zinc.
 
 (iii) *Limitations.* Prepare a fresh solution daily.
 
