@@ -25363,7 +25363,7 @@ Map follows:
 
 (28) PS Minnesota Unit 7, Lincoln and Pipestone Counties, Minnesota. Map of PS Minnesota Unit 7 follows:
 
-![](/graphics/er01oc15.055.gif)
+![](/graphics/er03ap18.004.gif)
 
 (29) PS Minnesota Units 8 and 9, Pipestone County, Minnesota. Map of PS Minnesota Units 8 and 9 follows:
 
@@ -25371,7 +25371,7 @@ Map follows:
 
 (30) PS Minnesota Unit 10, Swift and Chippewa Counties, Minnesota. Map of PS Minnesota Unit 10 follows:
 
-![](/graphics/er01oc15.057.gif)
+![](/graphics/er03ap18.005.gif)
 
 (31) PS Minnesota Unit 11, Wilkin County, Minnesota. Map of PS Minnesota Unit 11 follows:
 
