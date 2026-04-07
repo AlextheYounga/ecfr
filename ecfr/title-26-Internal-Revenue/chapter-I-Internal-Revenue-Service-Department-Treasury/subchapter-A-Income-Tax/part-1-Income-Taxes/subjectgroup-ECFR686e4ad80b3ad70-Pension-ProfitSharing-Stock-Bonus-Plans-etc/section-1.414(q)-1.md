@@ -1,6 +1,6 @@
 ##### § 1.414(q)-1 Highly compensated employee.
 
-Q&A-1—Q&A-8: \[Reserved\]. See § 1.414(q)-1T, Q&A-1 through Q&A-8 for further guidance.
+Q&A-1—Q&A-8: \[Reserved\]. See § 1.414(q)-1T, Q&A-1 through Q&A-8 for further guidance.*Number of employees in the top-paid group*1/2
 
 Q-9: How is the top-paid group determined?
 

@@ -1,6 +1,6 @@
 ##### § 1.417(e)-1T Restrictions and valuations of distributions from plans subject to sections 401(a)(11) and 417. (Temporary)
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Consent, etc. requirements*
 
 (b) *Consent, etc. requirements*—(1) *General rule.* \[Reserved\]
 

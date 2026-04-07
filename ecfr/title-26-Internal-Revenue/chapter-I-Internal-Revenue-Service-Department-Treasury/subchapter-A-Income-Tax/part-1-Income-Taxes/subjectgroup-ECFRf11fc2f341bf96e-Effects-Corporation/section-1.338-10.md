@@ -48,7 +48,7 @@
 
 (7) *Examples.* The following examples illustrate this paragraph (a):
 
-Example 1.(i) S is the common parent of a consolidated group that includes T. The S group files calendar year consolidated returns. At the close of June 30 of Year 1, P makes a qualified stock purchase of T from S. P makes a section 338 election for T, and T's deemed asset sale occurs as of the close of T's acquisition date (June 30).
+Example 1.(i) S is the common parent of a consolidated group that includes T. The S group files calendar year consolidated returns. At the close of June 30 of Year 1, P makes a qualified stock purchase of T from S. P makes a section 338 election for T, and T's deemed asset sale occurs as of the close of T's acquisition date (June 30). *Example 1,*
 
 (ii) T is considered disaffiliated for purposes of reporting the deemed sale tax consequences. Accordingly, T is included in the S group's consolidated return through T's acquisition date except that the tax liability for the deemed sale tax consequences is reported in a separate deemed sale return of T. Provided that T is not treated as an excluded member under section 1563(b)(2), T is a component member of P's controlled group for the taxable year of the deemed asset sale, and the taxable income bracket amounts available in calculating tax on the deemed sale return must be limited accordingly.
 

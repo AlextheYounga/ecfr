@@ -1,6 +1,6 @@
 ##### § 1.995-5 Foreign investment attributable to producer's loans.
 
-(a) *In general*—(1) *Limitation.* Under section 995(d), the amount as of the close of a “group taxable year” (as defined in subparagraph (3) of this paragraph) of foreign investment attributable to producer's loans of a DISC for purposes of section 995(b)(1)(G) shall be the excess (as of the close of such year) of—
+(a) *In general*—(1) *Limitation.* Under section 995(d), the amount as of the close of a “group taxable year” (as defined in subparagraph (3) of this paragraph) of foreign investment attributable to producer's loans of a DISC for purposes of section 995(b)(1)(G) shall be the excess (as of the close of such year) of—1
 
 (i) The smallest of—
 
@@ -44,7 +44,7 @@ Thus, for example, if the shareholders of a DISC which uses the calendar year as
 
 (7) *Example.* The provisions of this paragraph may be illustrated by the following example:
 
-Example.X Corporation, which uses the calendar year as its taxable year, is a member of a controlled group (within the meaning of subparagraph (2) of this paragraph). X elects to be treated as a DISC beginning with 1972. The amount of foreign investment attributable to X's producer's loans treated under section 995(b)(1)(G) as a distribution taxable as a dividend as of the close of each group taxable year with respect to each taxable year of X from 1972 through 1975 are set forth in the table below, computed on the basis of the facts assumed (the amounts on lines (1), (2), (3), and (5) being running balances):
+Example.X Corporation, which uses the calendar year as its taxable year, is a member of a controlled group (within the meaning of subparagraph (2) of this paragraph). X elects to be treated as a DISC beginning with 1972. The amount of foreign investment attributable to X's producer's loans treated under section 995(b)(1)(G) as a distribution taxable as a dividend as of the close of each group taxable year with respect to each taxable year of X from 1972 through 1975 are set forth in the table below, computed on the basis of the facts assumed (the amounts on lines (1), (2), (3), and (5) being running balances): *i.e.,*
 
 | Taxable year of X                                                                                                     | 1972  | 1973 | 1974 | 1975 |
 | --------------------------------------------------------------------------------------------------------------------- | ----- | ---- | ---- | ---- |

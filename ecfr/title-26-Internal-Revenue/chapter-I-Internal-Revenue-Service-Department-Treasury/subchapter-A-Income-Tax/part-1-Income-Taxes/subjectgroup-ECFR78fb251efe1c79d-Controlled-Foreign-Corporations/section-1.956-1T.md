@@ -1,6 +1,6 @@
 ##### § 1.956-1T Shareholder's pro rata share of the average of the amounts of United States property held by a controlled foreign corporation (temporary).
 
-(a)-(e)(4) \[Reserved\]
+(a)-(e)(4) \[Reserved\]*Exclusion for certain recourse obligations.*
 
 (5) *Exclusion for certain recourse obligations.* For purposes of § 1.956-1(e)(1) of the regulations, in the case of an investment in United States property consisting of an obligation of a related person, as defined in section 954(d)(3) and paragraph (f) of § 1.954-1, a liability will not be recognized as a specific charge if the liability representing the charge is with recourse with respect to the general credit or other assets of the investing controlled foreign corporation.
 

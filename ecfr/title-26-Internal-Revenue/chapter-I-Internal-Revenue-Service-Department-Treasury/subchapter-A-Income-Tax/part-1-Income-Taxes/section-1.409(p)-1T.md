@@ -82,6 +82,15 @@ Example.(i) *Facts.* An S corporation has 800 outstanding shares of which 100 ar
 
 (ii) *Conclusion.* O is a disqualified person during 2005 because O's account in the ESOP holds at least 10 percent of the shares owned by the ESOP (200 is 28.6 percent of 700). In addition, P is a disqualified person during 2005 because, under paragraph (d)(2) of this section, P is treated as owning the shares held by Q and P's total deemed-owned shares are thus at least 10 percent of the shares owned by the plan (65 plus 40 is more than 10 percent of 700). In addition, Q is a disqualified person as a result of the rules in paragraph (d)(2) of this section. As a result, disqualified persons own at least 50 percent of the outstanding shares of the S corporation during 2005 (O's 100 directly owned shares, O's 200 deemed-owned shares, P's 65 deemed-owned shares, plus Q's 40 deemed owned shares are 50.6 percent of 800).
 
+| 1   Shareholders   | 2   Deemed-owned ESOP shares   (total of 1,000) | 3   Percentage deemed-owned   ESOP shares | 4   Disqualified   person |
+| ------------------ | ----------------------------------------------- | ----------------------------------------- | ------------------------- |
+| B                  | 330                                             | 33                                        | Yes.                      |
+| C                  | 145                                             | 14.5                                      | Yes.                      |
+| D                  | 75                                              | 7.5                                       | No.                       |
+| E                  | 30                                              | 3                                         | No.                       |
+| F                  | 20                                              | 2                                         | No.                       |
+| Other participants | 400 (none exceed 10 shares)                     | 1 or less                                 | No.                       |
+
 (e) *Deemed-owned ESOP shares.* For purposes of section 409(p) and this section, a person is treated as owning his or her deemed-owned ESOP shares.
 
 *Deemed-owned ESOP shares* mean, with respect to any person—

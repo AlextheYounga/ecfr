@@ -26,7 +26,7 @@ Example.In 1958, taxpayer A acquired two separate operating mineral interests de
 
 (ii) The first taxable year in which any expenditure for development or operation in respect of the separate operating mineral interest is made by the taxpayer after the acquisition of such interest
 
-Except as provided in subparagraphs (2) and (3) of this paragraph, the election under section 614(c)(2) and paragraph (b) of this section to treat a single operating mineral interest as more than one operating mineral interest shall be made under section 614(c)(3)(A) not later than the time prescribed by law for filing the taxpayer's income tax return (including extensions thereof) for whichever of the following taxable years is the later:
+Except as provided in subparagraphs (2) and (3) of this paragraph, the election under section 614(c)(2) and paragraph (b) of this section to treat a single operating mineral interest as more than one operating mineral interest shall be made under section 614(c)(3)(A) not later than the time prescribed by law for filing the taxpayer's income tax return (including extensions thereof) for whichever of the following taxable years is the later: *e*
 
 (iii) The first taxable year beginning after December 31, 1957, or
 

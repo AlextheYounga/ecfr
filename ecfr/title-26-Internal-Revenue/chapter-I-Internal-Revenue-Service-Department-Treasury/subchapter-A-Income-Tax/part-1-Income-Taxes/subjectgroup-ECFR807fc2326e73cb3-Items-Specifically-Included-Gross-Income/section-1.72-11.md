@@ -22,7 +22,7 @@ The payments referred to in subdivision (i) of this subparagraph include all amo
 
 Example 1.A, a male employee, retired on December 31, 1954, at the age of 60. A life annuity of $75 per month was payable to him beginning January 31, 1955. The annuity contract guaranteed that if A did not live for at least ten years after his retirement his beneficiary, B, would receive the monthly payments for any balance of such ten-year period which remained at the date of A's death. Under section 72, A was deemed to have paid $3,600 toward the cost of the annuity. A lived for five years after his retirement receiving a total of $4,500 in annuity payments. After A's death, B began receiving the monthly payments of $75 beginning with the January 31, 1960 payment. B will exclude such payments from his gross income throughout 1960, 1961, and 1962, and will exclude only $18 of the first payment in 1963 from his gross income for that year. Thereafter, B will include the entire amount of all such payments in his gross income for the taxable year of receipt. This result is determined as follows:
 
-| A's investment in the contract (unadjusted)                                                                          | $3,600 |  |
+| A's investment in the contract (unadjusted)14                                                                        | $3,600 |  |
 | Multiple from Table III of § 1.72-9 for male, age 60, where duration of guaranteed amount is 10 years (percent)      | 11     |  |
 | Subtract value of the refund feature to the nearest dollar (11 percent of $3,600)                                    | 396    |  |
 | Investment in the contract adjusted for the present value of the refund feature without discount for interest        | 3,204  |  |

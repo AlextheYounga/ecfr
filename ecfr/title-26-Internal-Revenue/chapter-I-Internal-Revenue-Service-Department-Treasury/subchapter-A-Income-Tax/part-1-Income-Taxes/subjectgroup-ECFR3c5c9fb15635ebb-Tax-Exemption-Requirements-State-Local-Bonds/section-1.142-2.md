@@ -1,6 +1,6 @@
 ##### § 1.142-2 Remedial actions.
 
-(a) *General rule.* If less than 95 percent of the net proceeds of an exempt facility bond are actually used to provide an exempt facility, and for no other purpose, the issue will be treated as meeting the use of proceeds requirement of section 142(a) if the issue meets the condition of paragraph (b) of this section and the issuer takes the remedial action described in paragraph (c) of this section.
+(a) *General rule.* If less than 95 percent of the net proceeds of an exempt facility bond are actually used to provide an exempt facility, and for no other purpose, the issue will be treated as meeting the use of proceeds requirement of section 142(a) if the issue meets the condition of paragraph (b) of this section and the issuer takes the remedial action described in paragraph (c) of this section.1/2
 
 (b) *Reasonable expectations requirement.* The issuer must have reasonably expected on the issue date that 95 percent of the net proceeds of the issue would be used to provide an exempt facility and for no other purpose for the entire term of the bonds (disregarding any redemption provisions). To meet this condition the amount of the issue must have been based on reasonable estimates about the cost of the facility.
 

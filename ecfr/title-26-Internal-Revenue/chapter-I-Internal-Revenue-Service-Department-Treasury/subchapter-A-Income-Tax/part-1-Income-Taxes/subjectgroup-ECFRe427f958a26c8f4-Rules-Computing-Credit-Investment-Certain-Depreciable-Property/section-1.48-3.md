@@ -10,7 +10,25 @@
 
 (3) The provisions of this paragraph may be illustrated by the following examples:
 
-Example 1.Corporation P acquires properties 1 and 2 in 1960 and uses them in its trade or business until 1962. In 1962, corporation P sells such properties to corporation Y, which leases back property 1 to corporation P and leases property 2 to corporation S, a wholly owned subsidiary of corporation P. Property 1 is not used section 38 property in the hands of corporation Y because, after its acquisition by corporation Y, it is used by a person (corporation P) who used it prior to such acquisition. Property 2 is not used section 38 property because, after its acquisition by corporation Y, it is used by a person (corporation S) who is related, within the meaning of section 179(d)(2)(B), to a person (corporation P) who used it before such acquisition.Example 2.In 1962, corporation L leases property from corporation M. In 1964, corporation L acquires the property that it previously had been leasing. The property acquired by corporation L is not used section 38 property because such property is used after such acquisition by the same person (corporation L) who used the property before its acquisition (corporation L).Example 3.Corporation X buys property in 1962 and leases such property to corporation Y. Corporation X in 1965 sells the property to A subject to the lease. The property acquired by A is not used section 38 property if such property continues to be used by corporation Y, because corporation Y used the property before its acquisition by A.Example 4.A owns a bulldozer which he rents out to a number of different users, including B. In 1962, B used the bulldozer from February 16 to March 12 and again on October 15 and 16. B purchases the bulldozer from A on December 1, 1962. The prior use of the property by B does not disqualify such property as used section 38 property to B, because he used such property only on a casual basis prior to its purchase.
+Example 1.Corporation P acquires properties 1 and 2 in 1960 and uses them in its trade or business until 1962. In 1962, corporation P sells such properties to corporation Y, which leases back property 1 to corporation P and leases property 2 to corporation S, a wholly owned subsidiary of corporation P. Property 1 is not used section 38 property in the hands of corporation Y because, after its acquisition by corporation Y, it is used by a person (corporation P) who used it prior to such acquisition. Property 2 is not used section 38 property because, after its acquisition by corporation Y, it is used by a person (corporation S) who is related, within the meaning of section 179(d)(2)(B), to a person (corporation P) who used it before such acquisition.*Selection by partnership.*
+
+| Property          | Estimated useful life (years) | Cost    |
+| ----------------- | ----------------------------- | ------- |
+| Partnership XYZ23 |                               |         |
+| Property No. 1    | 9                             | $10,000 |
+| Property No. 2    | 7                             | 50,000  |
+| Property No. 3    | 7                             | 50,000  |
+| Property No. 4    | 5                             | 30,000  |
+| Partner X         |                               |         |
+| Property No. 5    | 6                             | 30,000  |
+| Partner Y         |                               |         |
+| Property No. 6    | 10                            | 60,000  |
+| Partner Z         |                               |         |
+| Property No. 7    | 4                             | 36,000  |
+
+(iii) *Qualified investment of partner X.* X's total qualified investment in used section 38 property for 1963 is $35,000, computed as follows:
+
+Example 2.In 1962, corporation L leases property from corporation M. In 1964, corporation L acquires the property that it previously had been leasing. The property acquired by corporation L is not used section 38 property because such property is used after such acquisition by the same person (corporation L) who used the property before its acquisition (corporation L).Example 3.Corporation X buys property in 1962 and leases such property to corporation Y. Corporation X in 1965 sells the property to A subject to the lease. The property acquired by A is not used section 38 property if such property continues to be used by corporation Y, because corporation Y used the property before its acquisition by A.Example 4.A owns a bulldozer which he rents out to a number of different users, including B. In 1962, B used the bulldozer from February 16 to March 12 and again on October 15 and 16. B purchases the bulldozer from A on December 1, 1962. The prior use of the property by B does not disqualify such property as used section 38 property to B, because he used such property only on a casual basis prior to its purchase.
 
 (b) *Cost.* (1) The cost of used section 38 property is equal to the basis of such property, but does not include so much of such basis as is determined by reference to the adjusted basis of other property (whether or not section 38 property) held at any time by the taxpayer acquiring such used section 38 property.
 

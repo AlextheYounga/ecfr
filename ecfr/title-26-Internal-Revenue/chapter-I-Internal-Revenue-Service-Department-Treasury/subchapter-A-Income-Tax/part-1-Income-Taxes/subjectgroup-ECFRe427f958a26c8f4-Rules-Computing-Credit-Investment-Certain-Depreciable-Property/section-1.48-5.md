@@ -14,14 +14,14 @@
 
 Example.1 X Corporation, an electing small business corporation which makes its return on the basis of the calendar year, acquires and places in service on June 1, 1962, three new assets which qualify as new section 38 property and three used assets which qualify as used section 38 property. The basis of each new, and the cost of each used, section 38 property and the estimated useful life of each property are as follows:
 
-| Asset No. | Basis (or cost) | Estimated useful life |
-| --------- | --------------- | --------------------- |
-| 1 (new)   | $30,000         | 4 years.              |
-| 2 (new)   | 30,000          | 4 years.              |
-| 3 (new)   | 30,000          | 8 years.              |
-| 4 (used)  | 12,000          | 6 years.              |
-| 5 (used)  | 12,000          | 6 years.              |
-| 6 (used)  | 12,000          | 8 years.              |
+| Asset No.                   | Basis (or cost) | Estimated useful life |
+| --------------------------- | --------------- | --------------------- |
+| 1 (new)310**Shareholder A** | $30,000         | 4 years.              |
+| 2 (new)                     | 30,000          | 4 years.              |
+| 3 (new)                     | 30,000          | 8 years.              |
+| 4 (used)                    | 12,000          | 6 years.              |
+| 5 (used)                    | 12,000          | 6 years.              |
+| 6 (used)                    | 12,000          | 8 years.              |
 
 On December 31, 1962, X Corporation has 10 shares of stock outstanding which are owned as follows: A owns 3 shares, B owns 2 shares, and C owns 5 shares. (2) Under this section, the total bases of the new, and the total cost of the used, section 38 properties are apportioned to the shareholders of X Corporation as follows:
 

@@ -1,6 +1,6 @@
 ##### § 1.1291-1 Taxation of U.S. persons that are shareholders of section 1291 funds.
 
-(a) through (b)(2)(i) \[Reserved\]
+(a) through (b)(2)(i) \[Reserved\]*Pedigreed QEF.*
 
 (ii) *Pedigreed QEF.* A PFIC is a *pedigreed QEF* with respect to a shareholder if the PFIC has been a QEF with respect to the shareholder for all taxable years during which the corporation was a PFIC that are included wholly or partly in the shareholder's holding period of the PFIC stock.
 

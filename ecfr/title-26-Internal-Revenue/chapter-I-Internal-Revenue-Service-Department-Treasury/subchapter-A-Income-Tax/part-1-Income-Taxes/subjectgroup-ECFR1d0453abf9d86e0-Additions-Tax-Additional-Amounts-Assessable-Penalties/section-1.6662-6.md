@@ -20,7 +20,7 @@
 
 (4) *Setoff allocation rule.* If a taxpayer meets the requirements of paragraph (d) of this section with respect to some, but not all of the allocations made under section 482, then for purposes of determining the net section 482 adjustment, setoffs, as taken into account under § 1.482-1(g)(4), must be applied ratably against all such allocations. The following example illustrates the principle of this paragraph (c)(4):
 
-Example.(i) The Internal Revenue Service makes the following section 482 adjustments for the taxable year:
+Example.(i) The Internal Revenue Service makes the following section 482 adjustments for the taxable year: *Example 1,*
 
 | (1) Attributable to an increase in gross income because of an increase in royalty payments                  | $9,000,000  |
 | (2) Attributable to an increase in sales proceeds due to a decrease in the profit margin of a related buyer | 6,000,000   |

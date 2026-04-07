@@ -1,6 +1,6 @@
 ##### § 1.163-5T Denial of interest deduction on certain obligations issued after December 31, 1982, unless issued in registered form (temporary).
 
-(a)-(c) \[Reserved\]
+(a)-(c) \[Reserved\]*Pass-through certificates.*
 
 (d) *Pass-through certificates.* (1) A pass-through or participation certificate evidencing an interest in a pool of mortgage loans which under subpart E of subchapter J of the Code is treated as a trust of which the grantor is the owner (or similar evidence of interest in a similar pooled fund or pooled trust treated as a grantor trust) (“pass-through certificate”) is considered to be a “registration-required obligation” under section 163(f)(2)(A) and § 1.163-5(c) if the pass-through certificate is described in section 163(f)(2)(A) and § 1.163-5(c) without regard to whether any obligation held by the fund or trust to which the pass-through certificate relates is described in section 163(f)(2)(A) and § 1.163-5(c). A pass-through certificate is considered to be described in section 163(f)(2)(B) and § 1.163-5(c) if the pass-through certificate is described in section 163(f)(2)(B) and § 1.163-5(c) without regard to whether any obligation held by the fund or trust to which the pass-through certificate relates is described in section 163(f)(2)(B) and § 1.163-5(c).
 

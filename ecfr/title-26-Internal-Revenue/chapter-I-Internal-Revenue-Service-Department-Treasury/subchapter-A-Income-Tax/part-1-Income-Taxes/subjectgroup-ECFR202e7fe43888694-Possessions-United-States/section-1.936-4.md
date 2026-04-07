@@ -1,6 +1,6 @@
 ##### § 1.936-4 Intangible property income in the absence of an election out.
 
-The rules in this section apply for purposes of section 936(h) and also for purposes of section 934(e), where applicable.
+The rules in this section apply for purposes of section 936(h) and also for purposes of section 934(e), where applicable.*Q. 1:*
 
 *Q. 1:* If a possessions corporation and its affiliates do not make an election under either the cost sharing or 50/50 profit split option, what rules will govern the treatment of income attributable to intangible property owned or leased by the possessions corporation?
 

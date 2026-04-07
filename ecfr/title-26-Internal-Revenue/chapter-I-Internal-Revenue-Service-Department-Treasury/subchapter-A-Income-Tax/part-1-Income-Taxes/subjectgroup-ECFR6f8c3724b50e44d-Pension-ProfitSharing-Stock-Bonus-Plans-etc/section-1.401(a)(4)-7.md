@@ -28,7 +28,7 @@ A Rate = 2 × unadjusted allocation rate B Rate = unadjusted allocation rate + p
 
 Example.(a) Employees M and N participate in a defined contribution plan maintained by Employer X. Employee M has plan year compensation of $30,000 in the 1990 plan year and has an unadjusted allocation rate of five percent. Employee N has plan year compensation of $100,000 in the 1990 plan year and has an unadjusted allocation rate of eight percent. The taxable wage base in 1990 is $51,300.
 
-(b) Because Employee M's plan year compensation does not exceed the taxable wage base, Employee M's A rate is 10 percent (2 × 5 percent), and Employee M's B rate is 10.7 percent (5 percent + 5.7 percent). Thus, Employee M's adjusted allocation rate is 10 percent, the lesser of the A rate and the B rate.
+(b) Because Employee M's plan year compensation does not exceed the taxable wage base, Employee M's A rate is 10 percent (2 × 5 percent), and Employee M's B rate is 10.7 percent (5 percent + 5.7 percent). Thus, Employee M's adjusted allocation rate is 10 percent, the lesser of the A rate and the B rate.1/2
 
 (c) Employee N's allocations are $8,000 (8 percent × $100,000). Because Employee N's plan year compensation exceeds the taxable wage base, Employee N's C rate is 10.76 percent ($8,000 divided by ($100,000−( 1/2 × $51,300))), and Employee N's D rate is 10.92 percent (($8,000 + (5.7 percent × $51,300)) divided by $100,000). Thus, Employee N's adjusted allocation rate is 10.76 percent, the lesser of the C rate and the D rate.
 

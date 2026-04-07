@@ -200,18 +200,19 @@
 
 (*4*) *Example*—(*i*) *January 1, 2008.* Trust has one million trust interests and all interests have equal value and equal rights. The number of shares of stock in corporations A through J and the pro-rata share of each stock that a trust interest is deemed to own as of January 1, 2008, is as follows:
 
-| Stock | Total shares | Per trust interest |
-| ----- | ------------ | ------------------ |
-| A     | 24,845       | .024845            |
-| B     | 28,273       | .028273            |
-| C     | 35,575       | .035575            |
-| D     | 13,866       | .013866            |
-| E     | 25,082       | .025082            |
-| F     | 39,154       | .039154            |
-| G     | 16,137       | .016137            |
-| H     | 14,704       | .014704            |
-| I     | 17,436       | .017436            |
-| J     | 31,133       | .031133            |
+| Stock                                | Total shares | Per trust interest |
+| ------------------------------------ | ------------ | ------------------ |
+| A1                                   | 24,845       | .024845            |
+| B                                    | 28,273       | .028273            |
+| C                                    | 35,575       | .035575            |
+| D                                    | 13,866       | .013866            |
+| E                                    | 25,082       | .025082            |
+| F                                    | 39,154       | .039154            |
+| G                                    | 16,137       | .016137            |
+| H                                    | 14,704       | .014704            |
+| I                                    | 17,436       | .017436            |
+| J                                    | 31,133       | .031133            |
+| 1 Share of cash proceeds: $4,458.39. |              |                    |
 
 (*ii*) *Transactions of January 2, 2008.* On January 2, 2008, 50,000 trust interests are tendered for redemption. The deemed pro-rata ownership of stocks A through J represented by the 50,000 redeemed trust interests and the stocks sold to provide cash for the redemptions are set out in the following table:
 
@@ -618,13 +619,15 @@ Example.(i) *Facts*—(A) *In general*—(*1*) Trust is a NMWHFIT that holds com
 
 (*1*) Income and expense information:
 
-| Factor for ordinary dividend income     | 0.3481   |
-| Factor for qualified dividend income    | 0.7407   |
-| Factor for interest income              | 0.0222   |
-| Factor for affected expenses            | 0.0833   |
-| Current year-end cash allocation factor | 1.5960   |
-| Prior year cash allocation factor       | 0.1200   |
-| Prior year cash distribution date       | April 15 |
+| Date of sale                            | Trust sales proceeds received | Trust sales proceeds distributed and date distributed | Percent of trust sold |
+| --------------------------------------- | ----------------------------- | ----------------------------------------------------- | --------------------- |
+| Factor for ordinary dividend incomeJ    | 0.3481                        |                                                       |                       |
+| Factor for qualified dividend income    | 0.7407                        |                                                       |                       |
+| Factor for interest income              | 0.0222                        |                                                       |                       |
+| Factor for affected expenses            | 0.0833                        |                                                       |                       |
+| Current year-end cash allocation factor | 1.5960                        |                                                       |                       |
+| Prior year cash allocation factor       | 0.1200                        |                                                       |                       |
+| Prior year cash distribution date       | April 15                      |                                                       |                       |
 
 (*2*) Information regarding asset sales and distributions:
 

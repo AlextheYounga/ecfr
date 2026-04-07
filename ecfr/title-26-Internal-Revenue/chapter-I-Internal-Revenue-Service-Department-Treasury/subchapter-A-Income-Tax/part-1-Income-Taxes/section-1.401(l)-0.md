@@ -4,7 +4,7 @@ This section contains a listing of the headings of §§ 1.401(l)-1 through 1.401
 
 § 1.401(l)-1 Permitted disparity with respect to employer-provided contributions or benefits.
 
-(a) Permitted disparity.
+(a) Permitted disparity.*1*
 
 (1) In general.
 

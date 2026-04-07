@@ -1,6 +1,6 @@
 ##### § 1.636-3 Definitions.
 
-For purposes of section 636 and the regulations thereunder:
+For purposes of section 636 and the regulations thereunder:*Production payment.*
 
 (a) *Production payment.* (1) The term *production payment* means, in general, a right to a specified share of the production from mineral in place (if, as, and when produced), or the proceeds from such production. Such right must be an economic interest in such mineral in place. It may burden more than one mineral property, and the burdened mineral property need not be an operating mineral interest. Such right must have an expected economic life (at the time of its creation) of shorter duration than the economic life of one or more of the mineral properties burdened thereby. A right to mineral in place which can be required to be satisfied by other than the production of mineral from the burdened mineral property is not an economic interest in mineral in place. A production payment may be limited by a dollar amount, a quantum of mineral, or a period of time. A right to mineral in place has an economic life of shorter duration than the economic life of a mineral property burdened thereby only if such right may not reasonably be expected to extend in substantial amounts over the entire productive life of such mineral property. The term *production payment* includes payments which are commonly referred to as *in-oil payments, gas payments,* or *mineral payments.*
 

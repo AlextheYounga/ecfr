@@ -1,6 +1,6 @@
 ##### § 1.269-1 Meaning and use of terms.
 
-As used in section 269 and §§ 1.269-2 through 1.269-7:
+As used in section 269 and §§ 1.269-2 through 1.269-7:*Allowance.*
 
 (a) *Allowance.* The term *allowance* refers to anything in the internal revenue laws which has the effect of diminishing tax liability. The term includes, among other things, a deduction, a credit, an adjustment, an exemption, or an exclusion.
 

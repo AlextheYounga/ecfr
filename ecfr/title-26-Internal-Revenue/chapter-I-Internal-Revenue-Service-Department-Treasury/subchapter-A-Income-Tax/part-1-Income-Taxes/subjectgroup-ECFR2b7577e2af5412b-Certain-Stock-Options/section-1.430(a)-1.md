@@ -110,9 +110,9 @@
 
 (g) *Examples.* The following examples illustrate the rules of this section. Unless otherwise indicated, these examples are based on the following assumptions: Section 430 applies to determine the minimum required contribution for plan years beginning on or after January 1, 2008; the plan year is the calendar year; the valuation date is January 1; the plan's prefunding balance and funding standard carryover balance are equal to $0; the plan sponsor did not elect any funding relief under section 430(c)(2)(D) for any plan year; and the plan has not received any funding waivers for any relevant time periods.
 
-Example 1.(i) Plan A has a funding target of $2,500,000 and assets totaling $1,800,000 as of January 1, 2016. For purposes of this example, the segment interest rates used for the January 1, 2016 valuation are assumed to be 5.26% for the first segment interest rate and 5.82% for the second segment interest rate. No shortfall or waiver amortization bases have been established for prior plan years.
+Example 1.(i) Plan A has a funding target of $2,500,000 and assets totaling $1,800,000 as of January 1, 2016. For purposes of this example, the segment interest rates used for the January 1, 2016 valuation are assumed to be 5.26% for the first segment interest rate and 5.82% for the second segment interest rate. No shortfall or waiver amortization bases have been established for prior plan years. *Example 1*
 
-(ii) A $700,000 shortfall amortization base is established for 2016, which is equal to the $2,500,000 funding target less $1,800,000 of assets.
+(ii) A $700,000 shortfall amortization base is established for 2016, which is equal to the $2,500,000 funding target less $1,800,000 of assets.*Example 9*
 
 (iii) With respect to the new shortfall amortization base of $700,000, there is a shortfall amortization installment of $116,852 (which is the amount necessary to amortize the $700,000 shortfall amortization base over 7 years) for each year from 2016 through 2022. The amount of this shortfall amortization installment is determined by discounting the first five installments using the first segment interest rate of 5.26%, and by discounting the sixth and seventh installments using the second segment rate of 5.82%.
 

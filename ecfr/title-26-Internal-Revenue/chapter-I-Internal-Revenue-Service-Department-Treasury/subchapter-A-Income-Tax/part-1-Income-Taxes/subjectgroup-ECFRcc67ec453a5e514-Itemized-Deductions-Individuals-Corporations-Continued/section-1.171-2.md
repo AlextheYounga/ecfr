@@ -34,7 +34,7 @@
 
 Example 1. Taxable bond.(i) *Facts.* On February 1, 1999, A purchases for $110,000 a taxable bond maturing on February 1, 2006, with a stated principal amount of $100,000, payable at maturity. The bond provides for unconditional payments of interest of $10,000, payable on February 1 of each year. A uses the cash receipts and disbursements method of accounting, and A decides to use annual accrual periods ending on February 1 of each year.
 
-(ii) *Amount of bond premium.* The interest payments on the bond are qualified stated interest. Therefore, the sum of all amounts payable on the bond (other than the interest payments) is $100,000. Under § 1.171-1, the amount of bond premium is $10,000 ($110,000−$100,000).
+(ii) *Amount of bond premium.* The interest payments on the bond are qualified stated interest. Therefore, the sum of all amounts payable on the bond (other than the interest payments) is $100,000. Under § 1.171-1, the amount of bond premium is $10,000 ($110,000−$100,000).11/12
 
 (iii) *Bond premium allocable to the first accrual period.* Based on the remaining payment schedule of the bond and A's basis in the bond, A's yield is 8.07 percent, compounded annually. The bond premium allocable to the accrual period ending on February 1, 2000, is the excess of the qualified stated interest allocable to the period ($10,000) over the product of the adjusted acquisition price at the beginning of the period ($110,000) and A's yield (8.07 percent, compounded annually). Therefore, the bond premium allocable to the accrual period is $1,118.17 ($10,000−$8,881.83).
 

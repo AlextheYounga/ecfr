@@ -1,6 +1,6 @@
 ##### § 1.6038B-1T Reporting of certain transactions to foreign corporations (temporary).
 
-(a) through (b)(3) \[Reserved\]. For further guidance, see § 1.6038B-1(a) through (b)(3).
+(a) through (b)(3) \[Reserved\]. For further guidance, see § 1.6038B-1(a) through (b)(3).*Date of transfer*
 
 (4) *Date of transfer*—(i) *In general.* For purposes of this section, the date of a transfer described in section 367 is the first date on which title to, possession of, or rights to the use of stock, securities, or other property passes pursuant to the plan for purposes of subtitle A of the Internal Revenue Code. A transfer will not be considered to begin with a decision of a board of directors or similar action unless the transaction otherwise takes effect for purposes of subtitle A of the Internal Revenue Code on that date.
 

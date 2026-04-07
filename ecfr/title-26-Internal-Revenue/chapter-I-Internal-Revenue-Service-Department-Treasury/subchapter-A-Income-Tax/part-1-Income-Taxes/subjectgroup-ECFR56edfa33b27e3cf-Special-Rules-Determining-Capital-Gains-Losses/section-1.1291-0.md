@@ -4,7 +4,7 @@ This section contains a listing of the headings for §§ 1.1291-1, 1.1291-9, and
 
 § 1.1291-1 Taxation of U.S. persons that are shareholders of section 1291 funds.
 
-(a) through (b)(2)(i) \[Reserved\]
+(a) through (b)(2)(i) \[Reserved\]*1*
 
 (ii) Pedigreed QEF.
 

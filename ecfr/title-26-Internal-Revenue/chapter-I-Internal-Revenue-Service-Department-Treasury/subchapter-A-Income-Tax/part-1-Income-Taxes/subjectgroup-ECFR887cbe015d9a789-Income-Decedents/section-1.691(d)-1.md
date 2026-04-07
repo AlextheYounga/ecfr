@@ -28,6 +28,18 @@ This special value is used for the purpose of determining the net value for esta
 
 Example.H and W file their income tax returns on the calendar year basis. H dies on July 15, 1955, on which date W is 70 years of age. On August 1, 1955, W receives a monthly payment under a joint and survivor annuity contract. W's life expectancy determined as of the date of H's death is 15 years as determined from Table I in § 1.72-9; thus her life expectancy ends on July 14, 1970. Under the provisions of section 691(d), her life expectancy period begins as of July 1, 1955, and ends as of December 31, 1970, thus giving her a life expectancy period of 15 1/2 years.
 
+(2) The following computations illustrate the application of section 72 in determining the excludable portions of the annuity payments to W during her life expectancy period:
+
+| Amount of annuity payments per year (12 × $1,000)                                                                                                       | $12,000  |
+| Life expectancy of H and W as of the annuity starting date (see section 72(c)(3)(A) and Table II of § 1.72-9 (male, age 70; female, age 67))            | 19.7     |
+| Expected return as of the annuity starting date, January 1, 1954 ($12,000 × 19.7 as determined under section 72(c)(3)(A) and paragraph (b) of § 1.72-5) | $236,400 |
+| Investment in the contract as of the annuity starting date, Jan. 1, 1954 (see section 72(c)(1) and paragraph (a) of § 1.72-6)                           | $203,800 |
+| Exclusion ratio (203,800/236,400 as determined under section 72(b) and § 1.72-4) (percent)                                                              | 86.2     |
+| Exclusion per year under section 72 ($12,000 × 86.2 percent)                                                                                            | $10,344  |
+| Excludable during W's life expectancy period ($10,344 × 15)                                                                                             | $155,160 |
+
+This amount ($2,880) is included in the items of income under section 691(a)(1) for the purpose of determining the estate tax attributable to each item under section 691(c)(1)(A). The estate tax determined to be attributable to the item of $2,880 is then allowed as a deduction to W over her 15-year life expectancy period (see example 2 of this paragraph).
+
 (e) *Examples.* The application of section 691(d) and this section may be illustrated by the following examples:
 
 Example 1.(1) H and W, husband and wife, purchased a joint and survivor annuity contract for $203,800 providing for monthly payments of $1,000 starting January 28, 1954, and continuing for their joint lives and for the remaining life of the survivor. H contributed $152,850 and W contributed $50,950 to the cost of the annuity. As of the annuity starting date, January 1, 1954, H's age at his nearest birthday was 70 and W's age at her nearest birthday was 67. H dies on January 1, 1957, and beginning on January 28, 1957, W receives her monthly payments of $1,000. The value of the annuity at the date of H's death is $159,000 (see paragraph (d)(1)(iii) of this section), and the value of the annuity for estate tax purposes (see paragraph (d)(1)(iv) of this section) is $119,250 (152,850/203,800 of $159,000). As of the date of H's death, W's age is 70 and her life expectancy period is 15 years (see paragraph (d) of this section for method of computation). Both H and W reported income by use of the cash receipts and disbursements method and filed income tax returns on the calendar year basis.

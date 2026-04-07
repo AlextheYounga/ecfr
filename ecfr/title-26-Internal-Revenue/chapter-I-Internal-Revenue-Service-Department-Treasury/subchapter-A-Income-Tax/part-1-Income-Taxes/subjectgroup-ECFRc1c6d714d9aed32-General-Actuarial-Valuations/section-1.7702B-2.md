@@ -52,7 +52,7 @@
 
 (5) *Examples.* The following examples illustrate the principles of this paragraph (b):
 
-Example 1.(i) On December 3, 1996, A, an individual, submits a signed application to an insurance company to purchase a nursing home contract that meets the long-term care insurance requirements of the State in which the contract is sitused. The insurance company decides on December 20, 1996, that it will issue the contract, and assigns December 20, 1996, as the issue date for the contract. Under the terms of the contract, A's insurance coverage becomes effective on January 1, 1997. The company delivers the contract to A on January 3, 1997. A has the right to return the contract within 15 days following delivery for a refund of all premiums paid.
+Example 1.(i) On December 3, 1996, A, an individual, submits a signed application to an insurance company to purchase a nursing home contract that meets the long-term care insurance requirements of the State in which the contract is sitused. The insurance company decides on December 20, 1996, that it will issue the contract, and assigns December 20, 1996, as the issue date for the contract. Under the terms of the contract, A's insurance coverage becomes effective on January 1, 1997. The company delivers the contract to A on January 3, 1997. A has the right to return the contract within 15 days following delivery for a refund of all premiums paid. *Example 1,*
 
 (ii) Under paragraph (b)(3)(i) of this section, the issue date of the contract is December 20, 1996. Thus, the contract is a pre-1997 long-term care insurance contract that is treated as a qualified long-term care insurance contract.
 

@@ -20,7 +20,7 @@
 
 Example.(a) A nonresident alien individual who is a resident of a foreign country with which the United States has entered into a tax convention receives during the taxable year 1967 from sources within the United States total gross income of $22,000, consisting of the following items:
 
-| Compensation for personal services the tax on which is not limited by the tax convention (effectively connected income under § 1.864-4(c)(6)(ii))                               | $20,000 |
+| Compensation for personal services the tax on which is not limited by the tax convention (effectively connected income under § 1.864-4(c)(6)(ii))12                             | $20,000 |
 | Oil royalties the tax on which is limited by the tax convention to 15 percent of the gross amount thereof (effectively connected income by reason of election under § 1.871-10) | 2,000   |
 | Total gross income                                                                                                                                                              | 22,000  |
 

@@ -1,6 +1,6 @@
 ##### § 1.367(d)-1 Transfers of intangible property to foreign corporations.
 
-(a) \[Reserved\]. For further guidance, see § 1.367(d)-1T(a).
+(a) \[Reserved\]. For further guidance, see § 1.367(d)-1T(a).*Property subject to section 367(d).*
 
 (b) *Property subject to section 367(d).* Section 367(d) and the rules of this section apply to the transfer of intangible property, as defined in § 1.367(a)-1(d)(5), by a U.S. person to a foreign corporation in an exchange described in section 351 or 361. See section 367(a) and the regulations thereunder for the rules that apply to the transfer of any property other than intangible property.
 

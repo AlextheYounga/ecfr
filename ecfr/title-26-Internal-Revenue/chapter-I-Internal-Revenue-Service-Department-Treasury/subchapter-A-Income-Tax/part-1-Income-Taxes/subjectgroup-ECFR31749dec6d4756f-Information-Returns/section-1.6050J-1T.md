@@ -4,7 +4,7 @@ The following questions and answers relate to the requirement of reporting forec
 
 Requirement of Reporting In General
 
-Q-1: What does section 6050J provide with respect to the reporting of acquisitions and abandonments of property that secures indebtedness?
+Q-1: What does section 6050J provide with respect to the reporting of acquisitions and abandonments of property that secures indebtedness?*i.e.,*
 
 A-1: Section 6050J provides that an information return must be made by any person who, in connection with a trade or business conducted by the person (except as provided in A-13), lends money and, in full or partial satisfaction of the debt, acquires an interest in any property that is security for the debt, or has reason to know that the property has been abandoned. For purposes of these questions and answers, a person who lends money in connection with a trade or business is referred to as a “lender”.
 

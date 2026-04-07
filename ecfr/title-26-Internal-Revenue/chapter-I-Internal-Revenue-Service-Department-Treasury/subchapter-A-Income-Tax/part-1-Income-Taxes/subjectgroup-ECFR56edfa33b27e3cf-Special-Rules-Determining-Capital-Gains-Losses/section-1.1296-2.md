@@ -1,6 +1,6 @@
 ##### § 1.1296-2 Definition of marketable stock.
 
-(a) *General rule.* For purposes of section 1296, the term *marketable stock* means—
+(a) *General rule.* For purposes of section 1296, the term *marketable stock* means—1/6
 
 (1) Passive foreign investment company (PFIC) stock that is regularly traded, as defined in paragraph (b) of this section, on a qualified exchange or other market, as defined in paragraph (c) of this section;
 

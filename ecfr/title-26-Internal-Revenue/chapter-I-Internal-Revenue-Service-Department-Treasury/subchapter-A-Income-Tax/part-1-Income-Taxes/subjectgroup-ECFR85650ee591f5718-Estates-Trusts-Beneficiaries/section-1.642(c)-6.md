@@ -1,6 +1,6 @@
 ##### § 1.642(c)-6 Valuation of a remainder interest in property transferred to a pooled income fund.
 
-(a) *In general.* (1) For purposes of sections 170, 2055, 2106, and 2522, the fair market value of a remainder interest in property transferred to a pooled income fund is its present value determined under paragraph (d) of this section.
+(a) *In general.* (1) For purposes of sections 170, 2055, 2106, and 2522, the fair market value of a remainder interest in property transferred to a pooled income fund is its present value determined under paragraph (d) of this section.X
 
 (2) The present value of a remainder interest at the time of the transfer of property to the pooled income fund is determined by computing the present value (at the time of the transfer) of the life income interest and subtracting that value from the fair market value of the transferred property on the valuation date. The fact that the income beneficiary may not receive the last income payment, as provided in paragraph (b)(7) of § 1.642(c)-5, is not taken into account for purposes of determining the value of the life income interest. For purposes of this section, the valuation date is the date on which property is transferred to the fund by the donor except that, for purposes of section 2055 or 2106, it is the alternate valuation date, if elected, under the provisions and limitations set forth in section 2032 and the regulations thereunder.
 
@@ -18,17 +18,17 @@
 
 (3)(i) The corrective term adjustment shall be the sum of the products obtained by multiplying each income payment made by the pooled income fund within its taxable year by the percentage set forth in column (2) of the following table opposite the period within such year, set forth in column (1), which includes the date on which that payment is made:
 
-Table
-| (1) Payment period       | (2) Percentage of payment |
-| ------------------------ | ------------------------- |
-| Last week of 4th quarter | 0                         |
-| Balance of 4th quarter   | 25                        |
-| Last week of 3d quarter  | 25                        |
-| Balance of 3d quarter    | 50                        |
-| Last week of 2d quarter  | 50                        |
-| Balance of 2d quarter    | 75                        |
-| Last week of 1st quarter | 75                        |
-| Balance of 1st quarter   | 100                       |
+Tabled
+| (1) Payment period                                                     | (2) Percentage of payment |
+| ---------------------------------------------------------------------- | ------------------------- |
+| Last week of 4th quarter**Factors from Table S—Based on Table 2010CM** | 0                         |
+| Balance of 4th quarter                                                 | 25                        |
+| Last week of 3d quarter                                                | 25                        |
+| Balance of 3d quarter                                                  | 50                        |
+| Last week of 2d quarter                                                | 50                        |
+| Balance of 2d quarter                                                  | 75                        |
+| Last week of 1st quarter                                               | 75                        |
+| Balance of 1st quarter                                                 | 100                       |
 
 (ii) If the taxable year of the fund consists of less than 12 months, the corrective term adjustment shall be the sum of the products obtained by multiplying each income payment made by the pooled income fund within such taxable year by the percentage obtained by subtracting from 1 a fraction the numerator of which is the number of days from the first day of such taxable year to the date of such income payment and the denominator of which is 365.
 
@@ -38,13 +38,13 @@ Table
 
 Example 1.(a) The pooled income fund maintained by W University has established determination dates on the first day of each calendar quarter. The pooled income fund is on a calendar-year basis. The pooled income fund earned $5,000 of income during 1971. The fair market value of its property (determined without including any income earned by the fund), and the income paid out, on the first day of each calendar quarter in 1971 are as follows:
 
-| Date   | Fair market value of property | Income payment |
-| ------ | ----------------------------- | -------------- |
-| Jan. 1 | $100,000                      | $1,200         |
-| Apr. 1 | 105,000                       | 1,200          |
-| July 1 | 95,000                        | 1,200          |
-| Oct. 1 | 100,000                       | 1,400          |
-|        | 400,000                       | 5,000          |
+| DateMultiplication: | Fair market value of property | Income payment |
+| ------------------- | ----------------------------- | -------------- |
+| Jan. 1              | $100,000                      | $1,200         |
+| Apr. 1              | 105,000                       | 1,200          |
+| July 1              | 95,000                        | 1,200          |
+| Oct. 1              | 100,000                       | 1,400          |
+|                     | 400,000                       | 5,000          |
 
 (b) The average fair market value of the property in the fund for 1971 is $100,000 ($400,000, divided by 4).
 

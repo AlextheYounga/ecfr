@@ -1,6 +1,6 @@
 ##### § 1.6654-1 Addition to the tax in the case of an individual.
 
-(a) *In general.* (1) Section 6654 imposes an addition to the taxes under chapters 1 and 2 of the Code in the case of any underpayment of estimated tax by an individual (with certain exceptions described in section 6654(d)), including any underpayment of estimated qualified State individual income taxes which are treated pursuant to section 6361(a) as if they were imposed by chapter 1. This addition to the tax is in addition to any applicable criminal penalties and is imposed whether or not there was reasonable cause for the underpayment. The amount of the underpayment for any installment date is the excess of:
+(a) *In general.* (1) Section 6654 imposes an addition to the taxes under chapters 1 and 2 of the Code in the case of any underpayment of estimated tax by an individual (with certain exceptions described in section 6654(d)), including any underpayment of estimated qualified State individual income taxes which are treated pursuant to section 6361(a) as if they were imposed by chapter 1. This addition to the tax is in addition to any applicable criminal penalties and is imposed whether or not there was reasonable cause for the underpayment. The amount of the underpayment for any installment date is the excess of:2/3
 
 (i) The following percentages of the tax shown on the return for the taxable year or, if no return was filed, of the tax for such year, divided by the number of installment dates prescribed for such taxable year:
 

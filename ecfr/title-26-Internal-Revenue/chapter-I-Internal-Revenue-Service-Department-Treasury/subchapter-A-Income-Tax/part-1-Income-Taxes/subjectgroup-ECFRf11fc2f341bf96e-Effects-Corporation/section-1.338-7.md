@@ -22,17 +22,18 @@
 
 (e) *Examples.* The following examples illustrate this section. Any amount described in the following examples is exclusive of interest. For rules characterizing deferred contingent payments as principal or interest, see §§ 1.483-4, 1.1274-2(g), and 1.1275-4(c). The examples are as follows:
 
-Example 1.(i)(A) T's assets other than goodwill and going concern value, and their fair market values at the beginning of the day after the acquisition date, are as follows:
+Example 1.(i)(A) T's assets other than goodwill and going concern value, and their fair market values at the beginning of the day after the acquisition date, are as follows: *Arrowsmith*
 
-| Asset class | Asset                     | Fair market value |
-| ----------- | ------------------------- | ----------------- |
-| V           | Building                  | $ 100             |
-| V           | Stock of X (not a target) | 200               |
-|             | Total                     | 300               |
+| Asset class                             | Asset                     | Fair market value |
+| --------------------------------------- | ------------------------- | ----------------- |
+| V                                       | Building                  | $ 100             |
+| V                                       | Stock of X (not a target) | 200               |
+|                                         | Total                     | 300               |
+| \* All numbers rounded for convenience. |                           |                   |
 
 (B) T has no liabilities other than a contingent liability that would not be taken into account under general principles of tax law in an asset sale between unrelated parties when the buyer assumed the liability or took property subject to it.
 
-(ii)(A) On September 1, 2000, P purchases all of the outstanding stock of T for $270 and makes a section 338 election for T. The grossed-up basis of the T stock and T's AGUB are both $270. The AGUB is ratably allocated among T's Class V assets in proportion to their fair market values as follows:
+(ii)(A) On September 1, 2000, P purchases all of the outstanding stock of T for $270 and makes a section 338 election for T. The grossed-up basis of the T stock and T's AGUB are both $270. The AGUB is ratably allocated among T's Class V assets in proportion to their fair market values as follows:*Arrowsmith*
 
 | Asset                     | Basis |
 | ------------------------- | ----- |

@@ -28,11 +28,22 @@
 
 (6) *Examples.* The provisions of paragraphs (a)(2) through (5) are illustrated by the following examples, which assume that the partnerships have an election in effect under section 754 at the time of the transfer and that the assets of each partnership constitute a trade or business (as described in § 1.1060-1(b)(2)). Except as provided, no partnership asset (other than inventory) is property described in section 751(a), and partnership liabilities are secured by all partnership assets. The examples are as follows:
 
-Example 1.(i) A is the sole general partner in PRS, a limited partnership having three equal partners. PRS has goodwill and going concern value, two section 197 intangibles other than goodwill and going concern value (Intangible 1 and Intangible 2), and two other assets with fair market values (determined using all the facts and circumstances) as follows: inventory worth $1,000,000 and a building (a capital asset) worth $2,000,000. The fair market value of each of Intangible 1 and Intangible 2 is $50,000. PRS has one liability of $1,000,000, for which A bears the entire risk of loss under section 752 and the regulations thereunder. D purchases A's partnership interest for $650,000, resulting in a basis adjustment under section 743(b). After the purchase, D bears the entire risk of loss for PRS's liability under section 752 and the regulations thereunder. Therefore, D's basis in its interest in PRS is $1,650,000.
+Example 1.(i) A is the sole general partner in PRS, a limited partnership having three equal partners. PRS has goodwill and going concern value, two section 197 intangibles other than goodwill and going concern value (Intangible 1 and Intangible 2), and two other assets with fair market values (determined using all the facts and circumstances) as follows: inventory worth $1,000,000 and a building (a capital asset) worth $2,000,000. The fair market value of each of Intangible 1 and Intangible 2 is $50,000. PRS has one liability of $1,000,000, for which A bears the entire risk of loss under section 752 and the regulations thereunder. D purchases A's partnership interest for $650,000, resulting in a basis adjustment under section 743(b). After the purchase, D bears the entire risk of loss for PRS's liability under section 752 and the regulations thereunder. Therefore, D's basis in its interest in PRS is $1,650,000. *Example 1,*
 
-(ii) D's basis in the transferred partnership interest (reduced by the amount of such basis that is attributable to partnership liabilities) is $650,000 ($1,650,000—$1,000,000). Under paragraph (a)(4)(i) of this section, partnership gross value is $2,950,000 (the amount that, if assigned to all partnership property, would result in a liquidating distribution to D equal to $650,000).
+(ii) D's basis in the transferred partnership interest (reduced by the amount of such basis that is attributable to partnership liabilities) is $650,000 ($1,650,000—$1,000,000). Under paragraph (a)(4)(i) of this section, partnership gross value is $2,950,000 (the amount that, if assigned to all partnership property, would result in a liquidating distribution to D equal to $650,000).*Allocation within class.*
 
 (iii) Under paragraph (a)(3) of this section, the inventory has a fair market value of $1,000,000, and the building has a fair market value of $2,000,000. Thus, the aggregate value of partnership property other than section 197 intangibles, $3,000,000, is equal to or greater than partnership gross value, $2,950,000. Accordingly, under paragraphs (a)(3) and (5) of this section, the value assigned to each of the partnership's assets is as follows: inventory, $1,000,000; building, $2,000,000; Intangibles 1 and 2, $0; and goodwill and going concern value, $0. D's section 743(b) adjustment must be allocated under paragraph (b) of this section using these assigned fair market values.
+
+Assets
+|                                                   | Assets  |
+| ------------------------------------------------- | ------- |
+| Capital Gain Property:**Liabilities and Capital** |         |
+| Asset 1                                           | $25,000 |
+| Asset 2                                           | 100,000 |
+| Ordinary Income Property:                         |         |
+| Asset 3                                           | 40,000  |
+| Asset 4                                           | 10,000  |
+| Total                                             | 175,000 |
 
 Example 2.(i) Assume the same facts as in *Example 1,* except that the fair market values of Intangible 1 and Intangible 2 are each $300,000, and that D purchases A's interest in PRS for $1,000,000. After the purchase, D's basis in its interest in PRS is $2,000,000.
 

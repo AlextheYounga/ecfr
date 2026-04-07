@@ -36,14 +36,14 @@ For purposes of subparagraph (3) of this paragraph, cost of used section 38 prop
 
 Example.1 XYZ Trust, which makes its return on the basis of the calendar year, acquires and places in service on June 1, 1962, three new assets which qualify as new section 38 property and three used assets which qualify as used section 38 property. The basis of the new, and the cost of the used, section 38 property and the estimated useful life of each property are as follows:
 
-| Asset No. | Basis (or cost) | Estimated useful life |
-| --------- | --------------- | --------------------- |
-| 1 (new)   | $30,000         | 4 years.              |
-| 2 (new)   | 30,000          | 4 years.              |
-| 3 (new)   | 30,000          | 8 years.              |
-| 4 (used)  | 12,000          | 6 years.              |
-| 5 (used)  | 12,000          | 6 years.              |
-| 6 (used)  | 12,000          | 8 years.              |
+| Asset No.              | Basis (or cost) | Estimated useful life |
+| ---------------------- | --------------- | --------------------- |
+| 1 (new)**XYZ Trust**13 | $30,000         | 4 years.              |
+| 2 (new)                | 30,000          | 4 years.              |
+| 3 (new)                | 30,000          | 8 years.              |
+| 4 (used)               | 12,000          | 6 years.              |
+| 5 (used)               | 12,000          | 6 years.              |
+| 6 (used)               | 12,000          | 8 years.              |
 
 For the taxable year 1962 the income of XYZ Trust is $20,000 which is allocable as follows: $10,000 to XYZ Trust, $6,000 to beneficiary A, and $4,000 to beneficiary B. Beneficiaries A and B make their returns on the basis of a calendar year. (2) Under this section, the total bases of the new, and the total cost of the used, section 38 properties are apportioned to XYZ Trust and its beneficiaries as follows:
 

@@ -15,11 +15,12 @@ The LIFO inventory method is not dependent upon the character of the business in
 Example 1.Assume that the opening inventory had 10 units of raw material, 10 units of goods in process, and 10 units of finished goods, and that the raw material cost was 6 cents a unit, the processing cost 2 cents a unit, and overhead cost 1 cent a unit. For the purposes of this example, it is assumed that the entire amount of goods in process was 50 percent processed.
 
 Opening Inventory
-|                 | Raw material | Goods in process | Finished goods |
-| --------------- | ------------ | ---------------- | -------------- |
-| Raw material    | $0.60        | $0.60            | $0.60          |
-| Processing cost |              | .10              | .20            |
-| Overhead        |              | .05              | .10            |
+|                                                                                                                                                                       | Raw material | Goods in process | Finished goods |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------- | -------------- |
+| Raw material1                                                                                                                                                         | $0.60        | $0.60            | $0.60          |
+| Processing cost                                                                                                                                                       |              | .10              | .20            |
+| Overhead                                                                                                                                                              |              | .05              | .10            |
+| 1 This excess is subject to determination of price under section 472(b)(1) and § 1.472-2. If the excess falls in goods in process, the same adjustment is applicable. |              |                  |                |
 
 In the closing inventory there are 20 units of raw material, 6 units of goods in process, and 8 units of finished goods and the costs were: Raw material 10 cents, processing cost 4 cents, and overhead 1 cent.
 

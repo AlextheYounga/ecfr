@@ -1,6 +1,6 @@
 ##### § 1.471-3 Inventories at cost.
 
-Cost means:
+Cost means:*Sales-based vendor allowances*
 
 (a) In the case of merchandise on hand at the beginning of the taxable year, the inventory price of such goods.
 

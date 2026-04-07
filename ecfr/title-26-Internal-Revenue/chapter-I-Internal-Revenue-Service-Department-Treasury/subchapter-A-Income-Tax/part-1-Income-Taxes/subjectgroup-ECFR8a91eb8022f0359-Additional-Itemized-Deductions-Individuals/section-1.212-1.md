@@ -1,6 +1,6 @@
 ##### § 1.212-1 Nontrade or nonbusiness expenses.
 
-(a) An expense may be deducted under section 212 only if:
+(a) An expense may be deducted under section 212 only if:*income*
 
 (1) It has been paid or incurred by the taxpayer during the taxable year (i) for the production or collection of income which, if and when realized, will be required to be included in income for Federal income tax purposes, or (ii) for the management, conservation, or maintenance of property held for the production of such income, or (iii) in connection with the determination, collection, or refund of any tax; and
 

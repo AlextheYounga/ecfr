@@ -2,7 +2,7 @@
 
 The Act of June 15, 1955 (Pub. L. 74, 84th Cong., 69 Stat. 134), provides as follows:
 
-*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*Section 1.
 
 Section 1.*Repeal of sections 452 and 462*—(a) *Prepaid income.* Section 452 of the Internal Revenue Code of 1954 is hereby repealed.
 

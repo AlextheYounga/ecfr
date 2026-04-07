@@ -58,7 +58,7 @@
 
 (g) *Examples.* The provisions of this section are illustrated by the following examples that assume, unless otherwise provided, that each taxpayer's taxable year is the calendar year, one or both of the child's parents provide over one-half of the child's support for the calendar year, one or both parents have the right under state law to physical custody of the child for more than one-half of the calendar year, and the child otherwise meets the requirements of a qualifying child under section 152(c) or a qualifying relative under section 152(d). In addition, in each of the examples, no qualified pre-1985 instrument or multiple support agreement is in effect. The examples are as follows:
 
-Example 1.(i) B and C are the divorced parents of Child. In 2009, Child resides with B for 210 nights and with C for 155 nights. B executes a Form 8332 for 2009 releasing B's right to claim Child as a dependent for that year, which C attaches to C's 2009 return.
+Example 1.(i) B and C are the divorced parents of Child. In 2009, Child resides with B for 210 nights and with C for 155 nights. B executes a Form 8332 for 2009 releasing B's right to claim Child as a dependent for that year, which C attaches to C's 2009 return. *Example 1*
 
 (ii) Under paragraph (d) of this section, B is the custodial parent of Child in 2009 because B is the parent with whom Child resides for the greater number of nights in 2009. Because the requirements of paragraphs (b)(2) and (3) of this section are met, C may claim Child as a dependent.
 

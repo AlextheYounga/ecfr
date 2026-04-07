@@ -1,6 +1,6 @@
 ##### § 1.584-2 Income of participants in common trust fund.
 
-(a) Each participant in a common trust fund is required to include in computing its taxable income for its taxable year within which or with which the taxable year of the fund ends, whether or not distributed and whether or not distributable:
+(a) Each participant in a common trust fund is required to include in computing its taxable income for its taxable year within which or with which the taxable year of the fund ends, whether or not distributed and whether or not distributable:*e.g.,*
 
 (1) Its proportionate share of short-term capital gains and losses, computed as provided in § 1.584-3;
 
@@ -20,6 +20,7 @@
 
 Example.(i) The plan of a common trust fund provides for quarterly valuation dates and for the computation and the distribution of the income upon a quarterly basis, except that there shall be no distribution of capital gains. The participants are as follows: Trusts A, B, C, and D for the first quarter; Trusts A, B, C, and E for the second quarter; and Trusts A, B, F, and G for the third and fourth quarters, the participants having equal participating interests. As computed upon the quarterly basis, the ordinary taxable income, the short-term capital gain, and the long-term capital loss for the taxable year were as follows:
 
+Participants' Shares of Ordinary Taxable Income
 |                         | First quarter | Second quarter | Third quarter | Fourth quarter | Total  |
 | ----------------------- | ------------- | -------------- | ------------- | -------------- | ------ |
 | Ordinary taxable income | $200          | $300           | $200          | $400           | $1,100 |

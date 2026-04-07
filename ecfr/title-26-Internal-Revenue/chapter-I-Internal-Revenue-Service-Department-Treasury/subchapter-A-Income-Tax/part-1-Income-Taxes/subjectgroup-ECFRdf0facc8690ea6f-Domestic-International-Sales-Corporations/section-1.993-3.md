@@ -1,6 +1,6 @@
 ##### § 1.993-3 Definition of export property.
 
-(a) *General rule.* Under section 993(c), except as otherwise provided with respect to excluded property in paragraph (f) of this section and with respect to certain short supply property in paragraph (i) of this section, export property is property in the hands of any person (whether or not a DISC)—
+(a) *General rule.* Under section 993(c), except as otherwise provided with respect to excluded property in paragraph (f) of this section and with respect to certain short supply property in paragraph (i) of this section, export property is property in the hands of any person (whether or not a DISC)—Federal Register.
 
 (1) Manufactured, produced, grown, or extracted in the United States by any person or persons other than a DISC (see paragraph (c) of this section),
 
@@ -26,7 +26,7 @@
 
 (*b*) The adjusted basis of such person for such property, as determined in accordance with the provisions of section 1011, if such property is held for lease or leased.
 
-The value of parts provided pursuant to a services contract, as described in § 1.993-1 (d)(4)(v), is not taken into account in applying this subdivision.
+The value of parts provided pursuant to a services contract, as described in § 1.993-1 (d)(4)(v), is not taken into account in applying this subdivision. *b*
 
 (d) *Primary purpose of which property is held*—(1) *In general*—(i) *General rule.* Under paragraph (a)(2) of this section, export property (*a*) must be held primarily for the purpose of sale or lease in the ordinary course of trade or business to a DISC, or to any other person, and (*b*) such sale or lease must be for direct use, consumption, or disposition outside the United States. Thus, property cannot qualify as export property unless it is sold or leased for direct use, consumption or disposition outside the United States. Property is sold or leased for direct use, consumption, or disposition outside the United States if such sale or lease satisfies the destination test described in subparagraph (2) of this paragraph, the proof of compliance requirements described in subparagraph (3) of this paragraph, and the use outside the United States test described in subparagraph (4) of this paragraph.
 

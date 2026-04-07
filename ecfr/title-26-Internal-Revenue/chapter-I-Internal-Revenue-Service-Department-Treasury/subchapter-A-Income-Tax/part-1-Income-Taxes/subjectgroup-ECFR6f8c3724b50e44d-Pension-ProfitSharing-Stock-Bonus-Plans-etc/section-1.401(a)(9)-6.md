@@ -1,6 +1,6 @@
 ##### § 1.401(a)(9)-6 Required minimum distributions for defined benefit plans and annuity contracts.
 
-(a) *General rules*—(1) *In general.* In order to satisfy section 401(a)(9), except as otherwise provided in this section, distributions of the employee's entire interest under a defined benefit plan or under an annuity contract must be paid in the form of periodic annuity payments for the employee's life (or the joint lives of the employee and beneficiary) or over a period certain that does not exceed the maximum length of the period certain determined in accordance with paragraph (c) of this section. The interval between payments for the annuity must not exceed one year and, except as otherwise provided in this section, must be uniform over the entire distribution period. Once payments have commenced over a period, the period may only be changed in accordance with paragraph (n) of this section. Life (or joint and survivor) annuity payments must satisfy the minimum distribution incidental benefit requirements of paragraph (b) of this section. Except as otherwise provided in this section (for example, permitted increases described in paragraph (o) of this section), all payments (whether paid over an employee's life, joint lives, or a period certain) also must be nonincreasing.
+(a) *General rules1/2*—(1) *In general.* In order to satisfy section 401(a)(9), except as otherwise provided in this section, distributions of the employee's entire interest under a defined benefit plan or under an annuity contract must be paid in the form of periodic annuity payments for the employee's life (or the joint lives of the employee and beneficiary) or over a period certain that does not exceed the maximum length of the period certain determined in accordance with paragraph (c) of this section. The interval between payments for the annuity must not exceed one year and, except as otherwise provided in this section, must be uniform over the entire distribution period. Once payments have commenced over a period, the period may only be changed in accordance with paragraph (n) of this section. Life (or joint and survivor) annuity payments must satisfy the minimum distribution incidental benefit requirements of paragraph (b) of this section. Except as otherwise provided in this section (for example, permitted increases described in paragraph (o) of this section), all payments (whether paid over an employee's life, joint lives, or a period certain) also must be nonincreasing.1/2
 
 (2) *Definition of life annuity.* An annuity described in this section may be a life annuity (or joint and survivor annuity) with a period certain, provided that the life annuity (or joint and survivor annuity, if applicable) and the period certain payments each meet the requirements of paragraph (a)(1) of this section. For purposes of this section, if distributions are permitted to be made over the lives of the employee and the designated beneficiary, references to a life annuity include a joint and survivor annuity.
 
@@ -33,43 +33,47 @@
 (iii) *Joint and survivor annuity, non-spouse beneficiary.* If distributions commence in the form of a joint and survivor annuity for the lives of the employee and a beneficiary other than the employee's spouse, and the employee is the applicable age or older on the employee's birthday in the calendar year that includes the annuity starting date, then the MDIB requirement will not be satisfied as of the date distributions commence unless, under the distribution option, the annuity payments satisfy the conditions of this paragraph (b)(2)(iii). The periodic annuity payments to the survivor satisfy this paragraph (b)(2)(iii) only if, at any time on or after the employee's required beginning date, those payments do not exceed the applicable percentage of the periodic annuity payment payable to the employee using the table in this paragraph (b)(2)(iii). The applicable percentage is based on the employee/beneficiary age difference, which is equal to the excess of the age of the employee over the age of the beneficiary based on their ages on their birthdays in the calendar year that includes the annuity starting date. In the case of an annuity that provides for increasing payments, the requirement of this paragraph (b)(2)(iii) will not be violated merely because benefit payments to the beneficiary increase, provided the increase is determined in the same manner for the employee and the beneficiary. See paragraph (k)(2) of this section for rules regarding the application of the MDIB requirement in the case of annuity payments with an annuity starting date that is before the calendar year in which an employee attains the applicable age.
 
 Table 1 to Paragraph (b)(2)(iii)
-| Employee/beneficiary age   difference | Applicable   percentage |
-| ------------------------------------- | ----------------------- |
-| 10 years or less                      | 100                     |
-| 11                                    | 96                      |
-| 12                                    | 93                      |
-| 13                                    | 90                      |
-| 14                                    | 87                      |
-| 15                                    | 84                      |
-| 16                                    | 82                      |
-| 17                                    | 79                      |
-| 18                                    | 77                      |
-| 19                                    | 75                      |
-| 20                                    | 73                      |
-| 21                                    | 72                      |
-| 22                                    | 70                      |
-| 23                                    | 68                      |
-| 24                                    | 67                      |
-| 25                                    | 66                      |
-| 26                                    | 64                      |
-| 27                                    | 63                      |
-| 28                                    | 62                      |
-| 29                                    | 61                      |
-| 30                                    | 60                      |
-| 31                                    | 59                      |
-| 32                                    | 59                      |
-| 33                                    | 58                      |
-| 34                                    | 57                      |
-| 35                                    | 56                      |
-| 36                                    | 56                      |
-| 37                                    | 55                      |
-| 38                                    | 55                      |
-| 39                                    | 54                      |
-| 40                                    | 54                      |
-| 41                                    | 53                      |
-| 42                                    | 53                      |
-| 43                                    | 53                      |
-| 44 and greater                        | 52                      |
+| Employee/beneficiary age   difference                                                                                                                                            | Applicable   percentage |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| 10 years or less1                                                                                                                                                                | 100                     |
+| 11                                                                                                                                                                               | 96                      |
+| 12                                                                                                                                                                               | 93                      |
+| 13                                                                                                                                                                               | 90                      |
+| 14                                                                                                                                                                               | 87                      |
+| 15                                                                                                                                                                               | 84                      |
+| 16                                                                                                                                                                               | 82                      |
+| 17                                                                                                                                                                               | 79                      |
+| 18                                                                                                                                                                               | 77                      |
+| 19                                                                                                                                                                               | 75                      |
+| 20                                                                                                                                                                               | 73                      |
+| 21                                                                                                                                                                               | 72                      |
+| 22                                                                                                                                                                               | 70                      |
+| 23                                                                                                                                                                               | 68                      |
+| 24                                                                                                                                                                               | 67                      |
+| 25                                                                                                                                                                               | 66                      |
+| 26                                                                                                                                                                               | 64                      |
+| 27                                                                                                                                                                               | 63                      |
+| 28                                                                                                                                                                               | 62                      |
+| 29                                                                                                                                                                               | 61                      |
+| 30                                                                                                                                                                               | 60                      |
+| 31                                                                                                                                                                               | 59                      |
+| 32                                                                                                                                                                               | 59                      |
+| 33                                                                                                                                                                               | 58                      |
+| 34                                                                                                                                                                               | 57                      |
+| 35                                                                                                                                                                               | 56                      |
+| 36                                                                                                                                                                               | 56                      |
+| 37                                                                                                                                                                               | 55                      |
+| 38                                                                                                                                                                               | 55                      |
+| 39                                                                                                                                                                               | 54                      |
+| 40                                                                                                                                                                               | 54                      |
+| 41                                                                                                                                                                               | 53                      |
+| 42                                                                                                                                                                               | 53                      |
+| 43                                                                                                                                                                               | 53                      |
+| 44 and greater                                                                                                                                                                   | 52                      |
+| 1 $1,000,000 death benefit reduced 4.55 percent for withdrawal during 2028.                                                                                                      |                         |
+| 2 Notional account balance at end of preceding year (after distribution) increased by 2 percent return for year.                                                                 |                         |
+| 3 Average of $550,000 notional account balance at end of preceding year (after distribution) and $561,000 notional account balance at end of current year (before distribution). |                         |
+| 4 December 31, 2028 notional account balance (before distribution) divided by uniform lifetime table age 79 factor of 21.1.                                                      |                         |
 
 (3) *Period certain and annuity features.* If a distribution form includes a period certain, the amount of the annuity payments payable to the beneficiary need not be reduced during the period certain, but in the case of a joint and survivor annuity with a period certain, the amount of the annuity payments payable to the beneficiary must satisfy paragraph (b)(2)(iii) of this section after the expiration of the period certain.
 

@@ -1,6 +1,6 @@
 ##### § 1.36B-3 Computing the premium assistance credit amount.
 
-(a) *In general.* A taxpayer's premium assistance credit amount for a taxable year is the sum of the premium assistance amounts determined under paragraph (d) of this section for all coverage months for individuals in the taxpayer's family.
+(a) *In general.* A taxpayer's premium assistance credit amount for a taxable year is the sum of the premium assistance amounts determined under paragraph (d) of this section for all coverage months for individuals in the taxpayer's family.1/12
 
 (b) *Definitions.* For purposes of this section—
 
@@ -32,11 +32,11 @@
 
 (6) *Examples.* The following examples illustrate the provisions of this paragraph (c):
 
-Example 1.(i) Taxpayer M is single with no dependents. In December 2013, M enrolls in a qualified health plan for 2014 and the Exchange approves advance credit payments. M pays M's share of the premiums. On May 15, 2014, M enlists in the U.S. Army and is eligible immediately for government-sponsored minimum essential coverage.
+Example 1.(i) Taxpayer M is single with no dependents. In December 2013, M enrolls in a qualified health plan for 2014 and the Exchange approves advance credit payments. M pays M's share of the premiums. On May 15, 2014, M enlists in the U.S. Army and is eligible immediately for government-sponsored minimum essential coverage. *Example 2*
 
 (ii) Under paragraph (c)(1) of this section, January through May 2014 are coverage months for M. June through December 2014 are not coverage months because M is eligible for minimum essential coverage for those months. Thus, under paragraph (a) of this section, M's premium assistance credit amount for 2014 is the sum of the premium assistance amounts for the months January through May.
 
-Example 2.(i) Taxpayer N has one dependent, S. S is eligible for government-sponsored minimum essential coverage. N is not eligible for minimum essential coverage. N enrolls in a qualified health plan for 2014 and the Exchange approves advance credit payments. On August 1, 2014, S loses eligibility for minimum essential coverage. N terminates enrollment in the qualified health plan that covers only N and enrolls in a qualified health plan that covers N and S for August through December 2014. N pays all premiums not covered by advance credit payments.
+S1—$650 210 − 200 = 10 Example 2.(i) Taxpayer N has one dependent, S. S is eligible for government-sponsored minimum essential coverage. N is not eligible for minimum essential coverage. N enrolls in a qualified health plan for 2014 and the Exchange approves advance credit payments. On August 1, 2014, S loses eligibility for minimum essential coverage. N terminates enrollment in the qualified health plan that covers only N and enrolls in a qualified health plan that covers N and S for August through December 2014. N pays all premiums not covered by advance credit payments.
 
 (ii) Under paragraph (c)(1) of this section, January through December of 2014 are coverage months for N and August through December are coverage months for N and S. N's premium assistance credit amount for 2014 is the sum of the premium assistance amounts for these coverage months.
 

@@ -4,7 +4,7 @@ This section lists the captions contained in §§ 1.45Q-1 through 1.45Q-5.
 
 § 1.45Q-1 Credit for Carbon Oxide Sequestration.
 
-(a) In general.
+(a) In general.*i*
 
 (b) Credit amount for carbon capture equipment originally placed in service before February 9, 2018.
 

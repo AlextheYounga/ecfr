@@ -1,6 +1,6 @@
 ##### § 1.1041-1T Treatment of transfer of property between spouses or incident to divorce (temporary).
 
-Q-1: How is the transfer of property between spouses treated under section 1041?
+Q-1: How is the transfer of property between spouses treated under section 1041?*Scope of section 1041 in general.*
 
 A-1: Generally, no gain or loss is recognized on a transfer of property from an individual to (or in trust for the benefit of) a spouse or, if the transfer is incident to a divorce, a former spouse. The following questions and answers describe more fully the scope, tax consequences and other rules which apply to transfers of property under section 1041.
 

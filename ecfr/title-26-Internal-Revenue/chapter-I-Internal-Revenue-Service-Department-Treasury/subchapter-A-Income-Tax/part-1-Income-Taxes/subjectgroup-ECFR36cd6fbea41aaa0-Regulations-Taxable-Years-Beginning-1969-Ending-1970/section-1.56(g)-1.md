@@ -18,7 +18,9 @@ Any excess of pre-adjustment alternative minimum taxable income over adjusted cu
 
 (iii) *Example.* The following example illustrates the provisions of this paragraph (a)(2):
 
-(A) Corporation P is a calendar-year taxpayer and has pre-adjustment alternative minimum taxable income and adjusted current earnings in the following amounts for 1990 through 1993:
+(A) Corporation P is a calendar-year taxpayer and has pre-adjustment alternative minimum taxable income and adjusted current earnings in the following amounts for 1990 through 1993:*1*
+
+For purposes of computing taxable income, L has a $500 million net operating loss carryforward to the taxable year in which the sale occurs. Therefore, L is a loss corporation. As a result of the transfer of shares of L from A to B, L has had an ownership change.
 
 | Year | Pre-adjustment alternative minimum taxable income | Adjusted current earnings |
 | ---- | ------------------------------------------------- | ------------------------- |
@@ -93,6 +95,18 @@ Thus, the recovery period begins on the first day of the first taxable year begi
 (iii) *Example.* The following example illustrates the provisions of this paragraph (b)(2).
 
 Example.Corporation X, a calendar-year taxpayer, purchases and places in service on August 1, 1987, computer-based telephone central office switching equipment. This is the only item of depreciable property X places in service during 1987. Thus, the applicable convention under section 168(d) is the half-year convention. As of December 31, 1989, the adjusted basis of the property used in computing alternative minimum taxable income is $42,000. The recovery period that would have applied to the property under section 168(g)(2) is 9.5 years (from July 1, 1987 to December 31, 1996). Thus, the recovery period for computing adjusted current earnings under section 56(g)(4)(A)(ii) and this paragraph (b)(2) begins on January 1, 1990, and ends on December 31, 1996. X's 1990 depreciation deduction for computing adjusted current earnings is $6,000, determined under the straight-line method by dividing $42,000 (adjusted basis) by 7 (recovery period).
+
+| Year                                                          | Cumulative premiums paid | Year-end net surrender value |
+| ------------------------------------------------------------- | ------------------------ | ---------------------------- |
+| 19871                                                         | $2,200                   | $2,420                       |
+| 1988                                                          | 4,400                    | 5,082                        |
+| 1989                                                          | 6,600                    | 8,010                        |
+| 1990                                                          | 8,800                    | 11,231                       |
+| 1991                                                          | 11,000                   | 14,774                       |
+| 1 Beginning FIFO inventory amount under paragraph (f)(3)(ii). |                          |                              |
+| 2 Beginning LIFO inventory amount under paragraph (f)(3)(ii). |                          |                              |
+
+(iii) For 1991, the income on the contract included in adjusted current earnings is determined in the same manner as the preceding year, and there is a corresponding increase in X's adjusted basis in the contract. Thus, for 1991, the income on the contract is $1,343, which is determined by subtracting from the net surrender value of the contract at the end of the taxable year ($14,774) the sum of the net surrender value at the end of the preceding taxable year ($11,231) plus the premiums paid during the taxable year ($2,200). At the end of 1991, X's adjusted basis in the contract for adjusted current earnings is $13,364, which reflects the basis of the contract at the beginning of 1991, increased by the premium paid during the year ($2,200) and the income on the contract that has been included in adjusted current earnings for the taxable year ($1,343).
 
 (3) *Property subject to original ACRS*—(i) *In general.* This paragraph (b)(3) provides the rules for computing the depreciation deduction for property to which section 168 as in effect on the day before the date of enactment of the Tax Reform Act of 1986 (original ACRS) applies and that is placed in service in a taxable year beginning before January 1, 1990 (generally property that was placed in service after December 31, 1980 and before January 1, 1987). In determining whether original ACRS applies to property, the fact that the unadjusted basis of the property is reduced or eliminated under section 168(d)(4)(A)(i) of original ACRS is not taken into account. This paragraph (b)(3) does not apply to property described in paragraph (b)(4) or (b)(5)(i) of this section (relating to certain section 168(f) property).
 

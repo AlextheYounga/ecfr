@@ -1,6 +1,6 @@
 ##### § 1.179-4 Definitions.
 
-The following definitions apply for purposes of section 179 and §§ 1.179-1 through 1.179-6:
+The following definitions apply for purposes of section 179 and §§ 1.179-1 through 1.179-6:*Section 179 property.*
 
 (a) *Section 179 property.* The term *section 179 property* means any tangible property described in section 179(d)(1) that is acquired by purchase for use in the active conduct of the taxpayer's trade or business (as described in § 1.179-2(c)(6)). For taxable years beginning after 2002 and before 2008, the term *section 179 property* includes computer software described in section 179(d)(1) that is placed in service by the taxpayer in a taxable year beginning after 2002 and before 2008 and is acquired by purchase for use in the active conduct of the taxpayer's trade or business (as described in 1.179-2(c)(6)). For purposes of this paragraph (a), the term *trade or business* has the same meaning as in section 162 and the regulations under section 162.
 

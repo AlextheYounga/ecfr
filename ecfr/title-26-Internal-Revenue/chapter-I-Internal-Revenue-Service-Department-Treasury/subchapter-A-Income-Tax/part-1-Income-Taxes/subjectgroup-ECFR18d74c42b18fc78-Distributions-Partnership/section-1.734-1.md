@@ -10,7 +10,17 @@
 
 See § 1.460-4(k)(2)(iv)(D) for a rule determining the partnership's basis in a long-term contract accounted for under a long-term contract method of accounting. The provisions of this paragraph (b)(1) are illustrated by the following examples:
 
-Example 1.Partner A has a basis of $10,000 for his one-third interest in partnership ABC. The partnership has no liabilities and has assets consisting of cash of $11,000 and property with a partnership basis of $19,000 and a value of $22,000. A receives $11,000 in cash in liquidation of his entire interest in the partnership. He has a gain of $1,000 under section 731(a)(1). If the election under section 754 is in effect, the partnership basis for the property becomes $20,000 ($19,000 plus $1,000).Example 2.Partner D has a basis of $10,000 for his one-third interest in partnership DEF. The partnership balance sheet before the distribution shows the following:
+Example 1.Partner A has a basis of $10,000 for his one-third interest in partnership ABC. The partnership has no liabilities and has assets consisting of cash of $11,000 and property with a partnership basis of $19,000 and a value of $22,000. A receives $11,000 in cash in liquidation of his entire interest in the partnership. He has a gain of $1,000 under section 731(a)(1). If the election under section 754 is in effect, the partnership basis for the property becomes $20,000 ($19,000 plus $1,000).
+
+Assets
+|            | Adjusted basis | Value  |
+| ---------- | -------------- | ------ |
+| Cash       | $4,000         | $4,000 |
+| Property X | 11,000         | 11,000 |
+| Property Y | 15,000         | 18,000 |
+| Total      | 30,000         | 33,000 |
+
+In liquidation of his entire interest in the partnership, D received property X with a partnership basis of $11,000. D's basis for property X is $10,000 under section 732(b). Where the election under section 754 is in effect, the excess of $1,000 (the partnership basis before the distribution less D's basis for property X after distribution) is added to the basis of property Y. The basis of property Y becomes $16,000 ($15,000 plus $1,000). If the distribution is made to a transferee partner who elects under section 732(d), see § 1.734-2.Example 2.Partner D has a basis of $10,000 for his one-third interest in partnership DEF. The partnership balance sheet before the distribution shows the following:
 
 Assets
 |            | Adjusted basis | Value  |

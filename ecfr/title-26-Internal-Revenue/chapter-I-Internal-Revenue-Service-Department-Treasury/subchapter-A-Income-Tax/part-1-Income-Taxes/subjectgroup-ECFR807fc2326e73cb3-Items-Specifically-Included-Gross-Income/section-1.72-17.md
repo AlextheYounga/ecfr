@@ -1,6 +1,6 @@
 ##### § 1.72-17 Special rules applicable to owner-employees.
 
-(a) *In general.* Under section 401(c) and section 403(a), certain self-employed individuals may participate in qualified pension, annuity, and profit-sharing plans, and the amounts received by such individuals from such plans are taxable under section 72. Section 72(m) and this section contain special rules for the taxation of amounts received from qualified pension, profit-sharing, or annuity plans covering an owner-employee. For purposes of section 72 and the regulations thereunder, the term “employee” shall include the self-employed individual who is treated as an employee by section 401(c)(1) (see paragraph (b) of § 1.401-10), and the term “owner-employee” has the meaning assigned to it in section 401(c)(3) (see paragraph (d) of § 1.401-10). See also paragraph (a)(2) of § 1.401-10 for the rule for determining when a plan covers an owner-employee. For purposes of this section, a self-employed individual may not treat as consideration for the contract contributed by the employee any contributions under the plan for which deductions were allowed under section 404 and which, consequently, are considered employer contributions.
+(a) *In general.* Under section 401(c) and section 403(a), certain self-employed individuals may participate in qualified pension, annuity, and profit-sharing plans, and the amounts received by such individuals from such plans are taxable under section 72. Section 72(m) and this section contain special rules for the taxation of amounts received from qualified pension, profit-sharing, or annuity plans covering an owner-employee. For purposes of section 72 and the regulations thereunder, the term “employee” shall include the self-employed individual who is treated as an employee by section 401(c)(1) (see paragraph (b) of § 1.401-10), and the term “owner-employee” has the meaning assigned to it in section 401(c)(3) (see paragraph (d) of § 1.401-10). See also paragraph (a)(2) of § 1.401-10 for the rule for determining when a plan covers an owner-employee. For purposes of this section, a self-employed individual may not treat as consideration for the contract contributed by the employee any contributions under the plan for which deductions were allowed under section 404 and which, consequently, are considered employer contributions.1/2
 
 (b) *Certain amounts received before annuity starting date.* (1) The rules of this paragraph are applicable to amounts received from a qualified pension, profit-sharing, or annuity plan by an employee (or his beneficiary) who is or was an owner-employee with respect to such plan when such amounts—
 
@@ -8,7 +8,7 @@
 
 (ii) Are not received as an annuity.
 
-For the definition of annuity starting date, see paragraph (b) of § 1.72-4 and subparagraph (4) of this paragraph. As to what constitutes amounts not received as an annuity, see paragraphs (c) and (d) of § 1.72-11.
+For the definition of annuity starting date, see paragraph (b) of § 1.72-4 and subparagraph (4) of this paragraph. As to what constitutes amounts not received as an annuity, see paragraphs (c) and (d) of § 1.72-11. 1/2*a*
 
 (2) Amounts to which this paragraph applies shall be included in the recipient's gross income for the taxable year in which received. However, the sum of the amounts so included under this subparagraph in all taxable years shall not exceed the aggregate deductions allowed under section 404 for premiums or other consideration paid under the plan on behalf of the employee while he was an owner-employee, including any such deductions taken in the taxable year of receipt.
 
@@ -20,7 +20,23 @@ For the definition of annuity starting date, see paragraph (b) of § 1.72-4 and 
 
 (6) The rules of this paragraph may be illustrated by the following example:
 
-Example.B, a self-employed individual, received $8,000 as a distribution under a qualified pension plan before the annuity starting date. At the time of such distribution, $10,000 had been contributed (the whole amount being allowed as a deduction) under the plan on behalf of such individual while he was a common-law employee and $5,000 had been contributed under the plan on his behalf while he was an owner-employee, of which $2,500 was allowed as a deduction. In addition, B had contributed $1,000 on his own behalf as an employee under the plan. Of the $8,000, $2,500 (the amount allowed as a deduction with respect to contributions on behalf of the individual while he was an owner-employee) is includable in gross income under subparagraph (2) of this paragraph. With respect to the remaining $5,500, B has a basis of $3,500, consisting of the $2,500 contributed on his behalf while he was an owner-employee which was not allowed as a deduction and the $1,000 which B contributed as an employee. The difference between the $5,500 and B's basis of $3,500, or $2,000, is includable in gross income under section 72(e).
+Example.B, a self-employed individual, received $8,000 as a distribution under a qualified pension plan before the annuity starting date. At the time of such distribution, $10,000 had been contributed (the whole amount being allowed as a deduction) under the plan on behalf of such individual while he was a common-law employee and $5,000 had been contributed under the plan on his behalf while he was an owner-employee, of which $2,500 was allowed as a deduction. In addition, B had contributed $1,000 on his own behalf as an employee under the plan. Of the $8,000, $2,500 (the amount allowed as a deduction with respect to contributions on behalf of the individual while he was an owner-employee) is includable in gross income under subparagraph (2) of this paragraph. With respect to the remaining $5,500, B has a basis of $3,500, consisting of the $2,500 contributed on his behalf while he was an owner-employee which was not allowed as a deduction and the $1,000 which B contributed as an employee. The difference between the $5,500 and B's basis of $3,500, or $2,000, is includable in gross income under section 72(e).1/2*b*
+
+|       | A      | B | C      |
+| ----- | ------ | - | ------ |
+| 1972  | $1,000 | 0 | 0      |
+| 1971  | 800    | 1 | 800    |
+| 1970  | 1,200  | 2 | 2,400  |
+| 1969  | 600    | 3 | 1,800  |
+| 1968  | 200    | 4 | 800    |
+| 1967  | 400    | 5 | 2,000  |
+| 1966  | 2,000  | 6 | 12,000 |
+| 1965  | 1,000  | 7 | 7,000  |
+| 1964  | 1,500  | 8 | 12,000 |
+| 1963  | 900    | 9 | 8,100  |
+| Total | $9,600 |   | 46,900 |
+
+Total weighted contributions as owner-employee (1968-1972)—5,800. Total weighted contributions—46,900.
 
 (c) *Amounts paid for life, accident, health, or other insurance.* Amounts used to purchase life, accident, health, or other insurance protection for an owner-employee shall not be taken into account in computing the following:
 

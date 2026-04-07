@@ -4,7 +4,7 @@ This section lists the captions that appear in §§ 1.467-1 through 1.467-9.
 
 § 1.467-1 Treatment of lessors and lessees generally.
 
-(a) Overview.
+(a) Overview.*1*
 
 (1) In general.
 

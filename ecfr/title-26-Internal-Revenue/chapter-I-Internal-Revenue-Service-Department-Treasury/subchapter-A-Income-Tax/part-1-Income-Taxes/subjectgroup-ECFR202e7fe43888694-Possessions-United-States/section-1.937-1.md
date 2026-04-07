@@ -1,6 +1,6 @@
 ##### § 1.937-1 Bona fide residency in a possession.
 
-(a) *Scope*—(1) *In general.* Section 937(a) and this section set forth the rules for determining whether an individual qualifies as a bona fide resident of a particular possession (the relevant possession) for purposes of subpart D, part III, Subchapter N, Chapter 1 of the Internal Revenue Code as well as section 865(g)(3), section 876, section 881(b), paragraphs (2) and (3) of section 901(b), section 957(c), section 3401(a)(8)(C), and section 7654(a).
+(a) *Scope*—(1) *In general.* Section 937(a) and this section set forth the rules for determining whether an individual qualifies as a bona fide resident of a particular possession (the relevant possession) for purposes of subpart D, part III, Subchapter N, Chapter 1 of the Internal Revenue Code as well as section 865(g)(3), section 876, section 881(b), paragraphs (2) and (3) of section 901(b), section 957(c), section 3401(a)(8)(C), and section 7654(a).Federal Register
 
 (2) *Definitions.* For purposes of this section and §§ 1.937-2 and 1.937-3—
 

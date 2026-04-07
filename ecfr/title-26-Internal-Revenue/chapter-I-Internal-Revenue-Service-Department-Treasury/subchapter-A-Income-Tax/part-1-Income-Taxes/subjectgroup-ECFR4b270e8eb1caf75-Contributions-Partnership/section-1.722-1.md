@@ -8,7 +8,7 @@ Example 1.A acquired a 20-percent interest in a partnership by contributing prop
 | Less portion of mortgage assumed by other partners which must be treated as a distribution (80 percent of $2,000) | 1,600  |
 | Basis of A's interest                                                                                             | 2,400  |
 
-Example 2.If, in example 1 of this section, the property contributed by A was subject to a mortgage of $6,000, the basis of A's interest would be zero, computed as follows:
+Since A's basis cannot be less than zero, the $800 in excess of basis, which is considered as a distribution of money under section 752(b), is treated as capital gain from the sale or exchange or a partnership interest. See section 731(a).Example 2.If, in example 1 of this section, the property contributed by A was subject to a mortgage of $6,000, the basis of A's interest would be zero, computed as follows:
 
 | Adjusted basis to A of property contributed                                                                       | $4,000 |
 | Less portion of mortgage assumed by other partners which must be treated as a distribution (80 percent of $6,000) | 4,800  |

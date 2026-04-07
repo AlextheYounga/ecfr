@@ -1,6 +1,6 @@
 ##### § 1.1502-21 Net operating losses.
 
-(a) *Consolidated net operating loss deduction*—(1) *In general.* Subject to any limitations under the Internal Revenue Code or this chapter (for example, the limitations under section 172(a)(2) and paragraph (a)(2) of this section), the consolidated net operating loss deduction (or CNOL deduction) for any consolidated return year is the aggregate of the net operating loss carryovers and carrybacks to the year. The net operating loss carryovers and carrybacks consist of—
+(a) *Consolidated net operating loss deduction*—(1) *In general.* Subject to any limitations under the Internal Revenue Code or this chapter (for example, the limitations under section 172(a)(2) and paragraph (a)(2) of this section), the consolidated net operating loss deduction (or CNOL deduction) for any consolidated return year is the aggregate of the net operating loss carryovers and carrybacks to the year. The net operating loss carryovers and carrybacks consist of—1/3
 
 (i) Any CNOLs (as defined in paragraph (e) of this section) of the consolidated group; and
 
@@ -117,9 +117,9 @@
 (G) *Example 7: Pre-2018 and post-2017 CNOLs.* (*1*) P is the common parent of a consolidated group. No member of the P group is a nonlife insurance company or is engaged in a farming business, and no member of the P group has a loss that is subject to a SRLY limitation. The P group had the following consolidated taxable income or CNOL for the following taxable years:
 
 Table 1 to Paragraph (b)(2)(v)(G)(1)
-| 2014 | 2015 | 2016 | 2017  | 2018 | 2019  | 2020   | 2021 |
-| ---- | ---- | ---- | ----- | ---- | ----- | ------ | ---- |
-| $60  | $0   | $0   | ($90) | $30  | ($40) | ($100) | $120 |
+| 2014                 | 2015 | 2016 | 2017  | 2018 | 2019  | 2020   | 2021 |
+| -------------------- | ---- | ---- | ----- | ---- | ----- | ------ | ---- |
+| $60**Year 1 (SRLY)** | $0   | $0   | ($90) | $30  | ($40) | ($100) | $120 |
 
 (*2*) Under section 172(a)(1), all $30 of the P group's 2018 consolidated taxable income is offset by the 2017 CNOL carryover without limitation. The remaining $60 of the P group's 2017 CNOL is carried over to 2021 under section 172(b)(1)(A)(ii)(I).
 

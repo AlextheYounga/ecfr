@@ -1,6 +1,6 @@
 ##### § 1.45Q-3 Secure Geological Storage.
 
-(a) *In general.* To qualify for the section 45Q credit, a taxpayer must either physically or contractually dispose of captured qualified carbon oxide in secure geological storage in the manner provided in paragraph (b) of this section, or utilize qualified carbon oxide in a manner conforming with section 45Q(f)(5) of the Internal Revenue Code and § 1.45Q-4. Secure geological storage includes, but is not limited to, storage at deep saline formations, oil and gas reservoirs, and unminable coal seams.
+(a) *In general.* To qualify for the section 45Q credit, a taxpayer must either physically or contractually dispose of captured qualified carbon oxide in secure geological storage in the manner provided in paragraph (b) of this section, or utilize qualified carbon oxide in a manner conforming with section 45Q(f)(5) of the Internal Revenue Code and § 1.45Q-4. Secure geological storage includes, but is not limited to, storage at deep saline formations, oil and gas reservoirs, and unminable coal seams.2
 
 (b) *Requirements for secure geological storage.* For purposes of the section 45Q credit, qualified carbon oxide is considered disposed of by the taxpayer in secure geological storage such that the qualified carbon oxide does not escape into the atmosphere if the qualified carbon oxide is—
 

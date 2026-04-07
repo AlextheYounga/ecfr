@@ -28,9 +28,14 @@
 
 Example 1. Partner's basis in distributed property.(i) On January 1, 1995, A, B, and C form partnership ABC as equal partners. A contributes Property A, nondepreciable real property with a fair market value of $10,000 and an adjusted tax basis of $5,000. B contributes Property B, nondepreciable real property with a fair market value and adjusted tax basis of $10,000. C contributes $10,000 cash.
 
-(ii) On December 31, 1998, Property B is distributed to A in complete liquidation of A's interest in the partnership. A recognizes $5,000 of gain under section 737, an amount equal to the excess distribution of $5,000 ($10,000 fair market value of Property B less $5,000 adjusted tax basis in A's partnership interest) and A's net precontribution gain of $5,000 ($10,000 fair market value of Property A less $5,000 adjusted tax basis of such property).
+(ii) On December 31, 1998, Property B is distributed to A in complete liquidation of A's interest in the partnership. A recognizes $5,000 of gain under section 737, an amount equal to the excess distribution of $5,000 ($10,000 fair market value of Property B less $5,000 adjusted tax basis in A's partnership interest) and A's net precontribution gain of $5,000 ($10,000 fair market value of Property A less $5,000 adjusted tax basis of such property).*Example 3*
 
 (iii) A's adjusted tax basis in A's partnership interest is increased by the $5,000 of gain recognized under section 737. This increase is taken into account in determining A's basis in the distributed property. Therefore, A's adjusted tax basis in distributed Property B is $10,000 under section 732(b).
+
+|             | Fair market value | Adjusted tax basis |
+| ----------- | ----------------- | ------------------ |
+| Property A1 | $10,000           | 5,000              |
+| Property A2 | 10,000            | 2,000              |
 
 Example 2. Partner's basis in distributed property in connection with gain recognized under section 704(c)(1)(B).(i) On January 1, 1995, A, B, and C form partnership ABC as equal partners. A contributes the following nondepreciable real property located in the United States to the partnership:
 

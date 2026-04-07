@@ -1,6 +1,6 @@
 ##### § 1.809-6 Modifications.
 
-Under section 809(e), the deductions allowed under section 809(d)(12) and paragraph (a)(12) of § 1.809-5 (relating to other deductions) are subject to the following modifications:
+Under section 809(e), the deductions allowed under section 809(d)(12) and paragraph (a)(12) of § 1.809-5 (relating to other deductions) are subject to the following modifications:*Interest.*
 
 (a) *Interest.* No deduction shall be allowed under section 163 for interest in respect of items described in section 810(c) since such interest is taken into account in the determination of required interest under section 809.
 

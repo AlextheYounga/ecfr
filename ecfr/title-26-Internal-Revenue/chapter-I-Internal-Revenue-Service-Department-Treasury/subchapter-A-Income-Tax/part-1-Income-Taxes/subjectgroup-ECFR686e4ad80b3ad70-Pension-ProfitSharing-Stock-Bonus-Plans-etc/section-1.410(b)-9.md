@@ -1,6 +1,6 @@
 ##### § 1.410(b)-9 Definitions.
 
-In applying this section and §§ 1.410(b)-2 through 1.410(b)-10, the definitions in this section govern unless otherwise provided.
+In applying this section and §§ 1.410(b)-2 through 1.410(b)-10, the definitions in this section govern unless otherwise provided.*Collectively bargained employee. Collectively bargained employee*
 
 *Collectively bargained employee. Collectively bargained employee* means a collectively bargained employee within the meaning of § 1.410(b)-6(d)(2).
 

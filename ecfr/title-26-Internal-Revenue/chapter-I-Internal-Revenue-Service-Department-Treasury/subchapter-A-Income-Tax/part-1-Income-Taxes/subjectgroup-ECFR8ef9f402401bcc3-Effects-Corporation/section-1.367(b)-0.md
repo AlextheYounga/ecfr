@@ -4,7 +4,7 @@ This section lists the paragraphs contained in §§ 1.367(b)-1 through 1.367(b)-
 
 § 1.367(b)-1 Other transfers.
 
-(a) Scope.
+(a) Scope.*1*
 
 (b) General rules.
 

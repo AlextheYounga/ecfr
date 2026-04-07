@@ -14,7 +14,7 @@
 
 (iv) Mere ownership of other vacant real property without engaging in any selling activity whatsoever with respect to it.
 
-If more than one of the above exists, the circumstances may or may not constitute substantial evidence that the taxpayer held real property for sale in his business, depending upon the particular facts in each case.
+If more than one of the above exists, the circumstances may or may not constitute substantial evidence that the taxpayer held real property for sale in his business, depending upon the particular facts in each case. *a*
 
 (4) *Section 1237 not exclusive.* (i) The rule in section 1237 is not exclusive in its application. Section 1237 has no application in determining whether or not real property is held by a taxpayer primarily for sale in his business if any requirement under the section is not met. Also, even though the conditions of section 1237 are met, the rules of section 1237 are not applicable if without regard to section 1237 the real property sold would not have been considered real property held primarily for sale to customers in the ordinary course of his business. Thus, the district director may at all times conclude from convincing evidence that the taxpayer held the real property solely as an investment. Furthermore, whether or not the conditions of section 1237 are met, the section has no application to losses realized upon the sale of realty from subdivided property.
 
@@ -35,6 +35,18 @@ Where either of these elements is present, section 1237 shall be disregarded in 
 (3) *Attribution rules with respect to the holding of property.* The taxpayer is considered as holding property which he owns individually, jointly, or as a member of a partnership. He is not generally considered as holding property owned by members of his family, an estate or trust, or a corporation. See, however, paragraph (c)(5) (iv)(c) of this section for an exception to this rule. The purpose for which a prior owner held the lot or tract, or his activities, are immaterial except to the extent they indicate the purpose for which the taxpayer has held the lot or tract. See paragraph (d) of this section for rules relating to the determination of the period for which the property is held. The principles of this subparagraph may be illustrated by the following example:
 
 Example:A dealer in real property held a tract of land for sale to customers in the ordinary course of his business for 5 years. He then made a gift of it to his son. As a result of the operation of section 1223(2) the son will have held the property for the period of time required by section 1237. However, he will not qualify for the benefits of section 1237 because, there being no evidence to the contrary, the circumstances involved establish that the son holds the property for sale to customers, as did his father.
+
+| Selling price                                                                                  | $10,000 |     |
+| Basis                                                                                          | 5,000   |     |
+| Excess over basis                                                                              | 5,000   |     |
+| 5 percent of selling price                                                                     | 500     |     |
+| Expenses of sale                                                                               | 750     |     |
+| Amount of gain realized treated as ordinary income                                             | 0       |     |
+| Excess over basis                                                                              | 5,000   |     |
+| 5 percent of selling price                                                                     | 500     |     |
+| Excess of expenses over 5 percent of selling price                                             | 250     |     |
+|                                                                                                |         | 750 |
+| Amount of gain realized from sale of property not held for sale in ordinary course of business | 4,250   |     |
 
 (c) *Disqualification arising from substantial improvements*—(1) *General rule.* Section 1237 will not apply if the taxpayer or certain others make improvements on the tract which are substantial and which substantially increase the value of the lot sold. Certain improvements are not substantial within the meaning of section 1237(a)(2) if they are necessary to make the lot marketable at the prevailing local price and meet the other conditions of section 1237(b)(3). See subparagraph (5) of this paragraph.
 

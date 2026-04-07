@@ -130,7 +130,7 @@ An election with respect to a taxable year ending on or before December 1, 1988,
 
 (6) *Example.* The provisions of this paragraph (d) are illustrated by the following example.
 
-Example.Foreign corporation X has a calendar taxable year. X's only assets are U.S. assets and X computes its interest deduction using the actual ratio of liabilities to assets under § 1.882-5(b)(2)(ii). X's U.S. net equity as of the close of its 1988 taxable year is $2,000, resulting from the following amounts of U.S. assets and liabilities:
+Example.Foreign corporation X has a calendar taxable year. X's only assets are U.S. assets and X computes its interest deduction using the actual ratio of liabilities to assets under § 1.882-5(b)(2)(ii). X's U.S. net equity as of the close of its 1988 taxable year is $2,000, resulting from the following amounts of U.S. assets and liabilities: *i.e.,*
 
 | U.S. assets       |        | U.S. liabilities |       |
 | ----------------- | ------ | ---------------- | ----- |

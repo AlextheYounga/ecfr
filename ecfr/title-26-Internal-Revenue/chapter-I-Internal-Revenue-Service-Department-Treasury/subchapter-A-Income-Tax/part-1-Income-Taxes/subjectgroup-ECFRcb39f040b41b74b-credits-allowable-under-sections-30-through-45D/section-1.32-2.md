@@ -1,6 +1,6 @@
 ##### § 1.32-2 Earned income credit for taxable years beginning after December 31, 1978.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Limitations.*
 
 (b) *Limitations.* (1) \[Reserved\]
 

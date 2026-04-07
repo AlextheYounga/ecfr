@@ -1,6 +1,6 @@
 ##### § 1.274-5 Substantiation requirements.
 
-(a)-(b) \[Reserved\]. For further guidance, see § 1.274-5T(a) and (b).
+(a)-(b) \[Reserved\]. For further guidance, see § 1.274-5T(a) and (b).*Rules of substantiation*
 
 (c) *Rules of substantiation*—(1) \[Reserved\]. For further guidance, see § 1.274-5T(c)(1).
 

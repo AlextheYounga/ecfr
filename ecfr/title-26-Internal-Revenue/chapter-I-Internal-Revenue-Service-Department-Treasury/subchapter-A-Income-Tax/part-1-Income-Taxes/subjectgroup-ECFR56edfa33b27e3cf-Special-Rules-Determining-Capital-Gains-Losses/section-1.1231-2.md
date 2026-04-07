@@ -1,6 +1,6 @@
 ##### § 1.1231-2 Livestock held for draft, breeding, dairy, or sporting purposes.
 
-(a)(1) In the case of cattle, horses, or other livestock acquired by the taxpayer after December 31, 1969, section 1231 applies to the sale, exchange, or involuntary conversion of such cattle, horses, or other livestock, regardless of age, held by the taxpayer for draft, breeding, dairy, or sporting purposes, and held by him:
+(a)(1) In the case of cattle, horses, or other livestock acquired by the taxpayer after December 31, 1969, section 1231 applies to the sale, exchange, or involuntary conversion of such cattle, horses, or other livestock, regardless of age, held by the taxpayer for draft, breeding, dairy, or sporting purposes, and held by him:*livestock*
 
 (i) For 24 months or more from the date of acquisition in the case of cattle or horses, or
 

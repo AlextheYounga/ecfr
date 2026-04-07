@@ -1,6 +1,6 @@
 ##### § 1.44-5 Definitions.
 
-For purposes of section 44 and the regulations thereunder—
+For purposes of section 44 and the regulations thereunder—*New principal residence.*
 
 (a) *New principal residence.* The term “new principal residence” means a principal residence, the original use of which commences with the taxpayer. The term “principal residence” has the same meaning as under section 1034 of the Code. For this purpose, the term “residence” includes, without being limited to, a single family structure, a residential unit in a condominium or cooperative housing project, a townhouse, and a factory-made home. In the case of a tenant-stockholder in a cooperative housing corporation references to property used by the taxpayer as his principal residence and references to the residence of a taxpayer shall include stock held by the tenant-stockholder in a cooperative housing project provided, however, that the taxpayer used as his principal residence the house or apartment which he was entitled as such stockholder to occupy. “Original use” of the new principal residence by the taxpayer means that such residence has never been used as a residence prior to its use as such by the taxpayer. For this purpose, a residence will qualify if the first occupancy was by the taxpayer pursuant to a lease arrangement pending settlement under a binding contract to purchase or pursuant to a lease arrangement where a written option to purchase the then existing residence was contained in the original lease agreement.
 

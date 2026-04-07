@@ -1,6 +1,6 @@
 ##### § 1.312-11 Effect on earnings and profits of certain other tax-free exchanges, tax-free distributions, and tax-free transfers from one corporation to another.
 
-(a) In a transfer described in section 381(a), the acquiring corporation, as defined in § 1.381(a)-1(b)(2), and only that corporation, succeeds to the earnings and profits of the distributor or transferor corporation (within the meaning of § 1.381(a)-1(a)). Except as provided in § 1.312-10, in all other cases in which property is transferred from one corporation to another, no allocation of the earnings and profits of the transferor is made to the transferee.
+(a) In a transfer described in section 381(a), the acquiring corporation, as defined in § 1.381(a)-1(b)(2), and only that corporation, succeeds to the earnings and profits of the distributor or transferor corporation (within the meaning of § 1.381(a)-1(a)). Except as provided in § 1.312-10, in all other cases in which property is transferred from one corporation to another, no allocation of the earnings and profits of the transferor is made to the transferee.*reorganization*
 
 (b) The general rule provided in section 316 that every distribution is made out of earnings or profits to the extent thereof and from the most recently accumulated earnings or profits does not apply to:
 

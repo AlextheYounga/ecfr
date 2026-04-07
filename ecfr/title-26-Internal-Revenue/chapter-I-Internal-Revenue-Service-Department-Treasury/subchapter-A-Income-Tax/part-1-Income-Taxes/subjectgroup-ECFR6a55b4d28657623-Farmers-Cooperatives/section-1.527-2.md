@@ -1,6 +1,6 @@
 ##### § 1.527-2 Definitions.
 
-For purposes of section 527 and these regulations:
+For purposes of section 527 and these regulations:*Political organization*
 
 (a) *Political organization*—(1) *In general.* A *political organization* is a party, committee, association, fund, or other organization (whether or not incorporated) organized and operated primarily for the purpose of directly or indirectly accepting contributions or making expenditures for an exempt function activity (as defined in paragraph (c) of this section). Accordingly, a political organization may include a committee or other group which accepts contributions or makes expenditures for the purpose of promoting the nomination of an individual for an elective public office in a primary election, or in a meeting or caucus of a political party. A segregated fund (as defined in paragraph (b) of this section) established and maintained by an individual may qualify as a political organization.
 

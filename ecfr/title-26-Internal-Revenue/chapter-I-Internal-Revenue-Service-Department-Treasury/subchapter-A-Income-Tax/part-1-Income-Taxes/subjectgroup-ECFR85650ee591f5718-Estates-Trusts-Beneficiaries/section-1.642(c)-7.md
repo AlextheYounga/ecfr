@@ -21,7 +21,7 @@ Example.(a) The trustees of X fund are in the process of amending it in order to
 **Transfers**
 | Date of transfer                                            | Value of all property before transfer | Trust property | Other property | Value of all property after transfer | Property allocated to fund |
 | ----------------------------------------------------------- | ------------------------------------- | -------------- | -------------- | ------------------------------------ | -------------------------- |
-| January 1, 1968                                             |                                       | $100,000       | $100,000       | $200,000                             | 1 $100,000                 |
+| January 1, 19681                                            |                                       | $100,000       | $100,000       | $200,000                             | 1 $100,000                 |
 | September 30, 1968                                          | $300,000                              | 100,000        |                | 400,000                              | 2 250,000                  |
 | January 15, 1969                                            | 480,000                               | 60,000         |                | 540,000                              | 3 360,000                  |
 | November 11, 1969                                           | 600,000                               | 200,000        |                | 800,000                              | 4 600,000                  |

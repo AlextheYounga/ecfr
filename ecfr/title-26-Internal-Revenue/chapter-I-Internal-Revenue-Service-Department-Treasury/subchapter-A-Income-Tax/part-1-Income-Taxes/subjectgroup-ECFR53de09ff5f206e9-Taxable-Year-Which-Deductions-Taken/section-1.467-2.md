@@ -54,13 +54,19 @@
 
 Example 1.(i) C agrees to lease property from D for five years beginning on January 1, 2000, and ending on December 31, 2004. The section 467 rental agreement provides that rent of $100,000 accrues in each calendar year in the lease term and that rent of $500,000 plus $120,000 of interest is payable on December 31, 2004. Assume that the parties select the calendar year as the rental period and that 110 percent of the applicable Federal rate is 10 percent, compounded annually.
 
-(ii) The rental agreement has deferred rent under § 1.467-1(c)(3)(i) because the fixed rent allocated to calendar years 2000, 2001, and 2002 is not paid until 2004. In addition, because the rental agreement does not state an interest rate, the rental agreement does not satisfy the requirements of paragraph (b)(1)(ii) of this section.
+(ii) The rental agreement has deferred rent under § 1.467-1(c)(3)(i) because the fixed rent allocated to calendar years 2000, 2001, and 2002 is not paid until 2004. In addition, because the rental agreement does not state an interest rate, the rental agreement does not satisfy the requirements of paragraph (b)(1)(ii) of this section.5*Example 2.*
 
 (iii)(A) Because the rental agreement has deferred fixed rent and no prepaid rent, the agreement has adequate interest only if the present value test provided in paragraph (b)(1)(iii) of this section is met. The present value of all fixed rent and interest payable under the rental agreement is $384,971.22, determined as follows: $620,000/(1.10) 5 = $384,971.22. The present value of all fixed rent allocated under the rental agreement (discounting the amount of fixed rent allocated to a rental period from the last day of the rental period) is $379,078.68, determined as follows:
 
 ![](/graphics/er18my99.000.gif)(B) The rental agreement provides adequate interest on fixed rent because the present value of the single amount payable under the section 467 rental agreement exceeds the sum of the present values of fixed rent allocated.
 
 (iv) For an example illustrating the computation of the yield on the rental agreement and the allocation of the interest and rent provided for under the rental agreement, see § 1.467-4(f), *Example 2.*
+
+| Taxable year | Section 467 rent                        |
+| ------------ | --------------------------------------- |
+| 2000         | $743,775.52   ($ 800,000 × .9297194).   |
+| 2001         | 929,719.40   ($1,000,000 × .9297194).   |
+| 2002         | 1,115,663.28   ($1,200,000 × .9297194). |
 
 Example 2.(i) E and F enter into a section 467 rental agreement for the lease of equipment beginning on January 1, 2000, and ending on December 31, 2004. The rental agreement provides that rent of $100,000 accrues for each calendar month during the lease term. All rent is payable on December 31, 2004, together with interest on accrued rent at a qualified floating rate set at a current value (as defined in § 1.1275-5(a)(4)) that is compounded at the end of each calendar month and adjusted at the beginning of each calendar month throughout the lease term. Therefore, the rental agreement provides for variable interest within the meaning of paragraph (b)(2) of this section.
 

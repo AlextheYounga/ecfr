@@ -1,6 +1,6 @@
 ##### § 1.408-6 Disclosure statements for individual retirement arrangements.
 
-(a) *In general*—(1) *General rule.* Trustees and issuers of individual retirement accounts and annuities are, under the authority of section 408(i), required to provide disclosure statements. This section sets forth these requirements.
+(a) *In general*—(1) *General rule.* Trustees and issuers of individual retirement accounts and annuities are, under the authority of section 408(i), required to provide disclosure statements. This section sets forth these requirements.1/2
 
 (2) \[Reserved\]
 

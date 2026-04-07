@@ -1,6 +1,6 @@
 ##### § 11.465 Requirements for national endorsements as Mate (Pilot) of Towing Vessels.
 
-(a) To obtain an endorsement as Mate (Pilot) of Towing Vessels endorsed with a route listed in column 1 of table 1 to paragraph (a) of this section, applicants must complete the service in columns 2 through 5. Mariners holding an MMC endorsement as Master of Towing Vessels-Limited wishing to raise of grade to Mate (Pilot) of Towing Vessels must complete the service in columns 5 and 6. An endorsement with a route endorsed in column 1 authorizes service on the subordinate routes listed in column 7 without further endorsement. Time of service requirements as an Apprentice Mate of Towing Vessels may be reduced by an amount equal to the time specified in the approval letter for a completed Coast Guard-approved training program. 
+(a) To obtain an endorsement as Mate (Pilot) of Towing Vessels endorsed with a route listed in column 1 of table 1 to paragraph (a) of this section, applicants must complete the service in columns 2 through 5. Mariners holding an MMC endorsement as Master of Towing Vessels-Limited wishing to raise of grade to Mate (Pilot) of Towing Vessels must complete the service in columns 5 and 6. An endorsement with a route endorsed in column 1 authorizes service on the subordinate routes listed in column 7 without further endorsement. Time of service requirements as an Apprentice Mate of Towing Vessels may be reduced by an amount equal to the time specified in the approval letter for a completed Coast Guard-approved training program.
 
 Table 1 to § 11.465(a)—Requirements for National Endorsement as Mate (Pilot 1) of Towing Vessels
 | 1                                                                                                                                                                                                            | 2                 | 3                                                  | 4                       | 5                            | 6                                                                                                          | 7                              |
@@ -16,30 +16,30 @@ Table 1 to § 11.465(a)—Requirements for National Endorsement as Mate (Pilot 1
 | 4 Time of service requirements as an Apprentice Mate of Towing Vessels may be reduced by an amount equal to the time specified in the approval letter for a completed Coast Guard-approved training program. |                   |                                                    |                         |                              |                                                                                                            |                                |
 | 5 TOAR is a Towing Officer Assessment Record.                                                                                                                                                                |                   |                                                    |                         |                              |                                                                                                            |                                |
 
-(b) Before serving as Mate (Pilot) of Towing Vessels on the Western Rivers, mariners must possess 90 days of observation and training and have their MMC include an endorsement for Western Rivers. 
+(b) Before serving as Mate (Pilot) of Towing Vessels on the Western Rivers, mariners must possess 90 days of observation and training and have their MMC include an endorsement for Western Rivers.
 
-(c) Each company must maintain evidence that every vessel it operates is under the direction and control of a mariner with the appropriate endorsement and experience, including 30 days of observation and training on the intended route other than Western Rivers. 
+(c) Each company must maintain evidence that every vessel it operates is under the direction and control of a mariner with the appropriate endorsement and experience, including 30 days of observation and training on the intended route other than Western Rivers.
 
-(d) Those holding an MMC endorsement as a Mate of inspected, self-propelled vessels of more than 200 GRT or one as First-Class Pilot, may operate towing vessels within any restrictions on their credential if they- 
+(d) Those holding an MMC endorsement as a Mate of inspected, self-propelled vessels of more than 200 GRT or one as First-Class Pilot, may operate towing vessels within any restrictions on their credential if they-
 
-(1) Have a minimum of 30 days of training and observation on towing vessels for the route being assessed, except as noted in paragraph (b) of this section; and 
+(1) Have a minimum of 30 days of training and observation on towing vessels for the route being assessed, except as noted in paragraph (b) of this section; and
 
-(2) Hold a completed Towing Officer Assessment Record (TOAR) described in § 10.404(c) of this subchapter that shows evidence of assessment of practical demonstration of skills. 
+(2) Hold a completed Towing Officer Assessment Record (TOAR) described in § 10.404(c) of this subchapter that shows evidence of assessment of practical demonstration of skills.
 
-(e) A License or MMC does not need to include a towing endorsement if you hold a TOAR or a course completion certificate. 
+(e) A License or MMC does not need to include a towing endorsement if you hold a TOAR or a course completion certificate.
 
-(f) Those holding any endorsement as a Master of self-propelled vessels of any tonnage that is less than 200 GRT, except for the Limited Master endorsements specified in §§ 11.429 and 11.456, may obtain an endorsement as Mate (Pilot) of Towing Vessels by meeting the following requirements: 
+(f) Those holding any endorsement as a Master of self-propelled vessels of any tonnage that is less than 200 GRT, except for the Limited Master endorsements specified in §§ 11.429 and 11.456, may obtain an endorsement as Mate (Pilot) of Towing Vessels by meeting the following requirements:
 
-(1) Providing proof of 36 months of service as a Master under the authority of an endorsement described in this paragraph; 
+(1) Providing proof of 36 months of service as a Master under the authority of an endorsement described in this paragraph;
 
-(2) Successfully completing the appropriate TOAR; 
+(2) Successfully completing the appropriate TOAR;
 
-(3) Successfully completing the appropriate Apprentice Mate exam; and 
+(3) Successfully completing the appropriate Apprentice Mate exam; and
 
-(4) Having a minimum of 30 days of training and observation on towing vessels for the route being assessed, except as noted in paragraph (b) of this section. 
+(4) Having a minimum of 30 days of training and observation on towing vessels for the route being assessed, except as noted in paragraph (b) of this section.
 
-(g) An approved training course for Mate (Pilot) of Towing Vessels must include formal instruction and practical demonstration of proficiency either onboard a towing vessel or at a shoreside training facility before a designated examiner, and must cover the material (dependent upon route) required by table 2 to § 11.910 for Apprentice Mate of Towing Vessels on ocean and near-coastal routes; Apprentice Mate of Towing Vessels on Great Lakes and inland routes; or Apprentice Mate of Towing Vessels on Western Rivers routes. 
+(g) An approved training course for Mate (Pilot) of Towing Vessels must include formal instruction and practical demonstration of proficiency either onboard a towing vessel or at a shoreside training facility before a designated examiner, and must cover the material (dependent upon route) required by table 2 to § 11.910 for Apprentice Mate of Towing Vessels on ocean and near-coastal routes; Apprentice Mate of Towing Vessels on Great Lakes and inland routes; or Apprentice Mate of Towing Vessels on Western Rivers routes.
 
-(h) A person holding this endorsement may qualify for an STCW endorsement, according to §§ 11.309, 11.317, 11.319, and 11.321 of this part. 
+(h) A person holding this endorsement may qualify for an STCW endorsement, according to §§ 11.309, 11.317, 11.319, and 11.321 of this part.
 
 \[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58277, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2021-0097, 89 FR 93087, Nov. 25, 2024; USCG-2021-0834, 89 FR 102335, Dec. 17, 2024\]

@@ -1,6 +1,6 @@
 ##### § 1.62-1 Adjusted gross income.
 
-(a)-(b) \[Reserved\]
+(a)-(b) \[Reserved\]*Deductions allowable in computing adjusted gross income.*
 
 (c) *Deductions allowable in computing adjusted gross income.* The deductions specified in section 62(a) for purposes of computing adjusted gross income are—
 

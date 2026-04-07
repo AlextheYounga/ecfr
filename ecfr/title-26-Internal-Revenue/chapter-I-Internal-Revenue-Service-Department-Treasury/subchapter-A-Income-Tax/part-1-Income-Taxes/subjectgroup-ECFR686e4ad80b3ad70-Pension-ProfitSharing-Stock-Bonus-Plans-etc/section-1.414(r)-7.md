@@ -56,7 +56,7 @@ Each employee assigned to a qualified separate line of business under paragraph 
 
 (v) *Examples.* The following examples illustrate the application of the method of allocation in this paragraph (c)(2).
 
-Example 1.(i) Employer A operates four qualified separate lines of business as determined under § 1.414(r)-1(b) for the testing year, consisting of a software developer, a health food products supplier, a real estate developer, and a ski equipment manufacturer. In applying this section for the first testing day with respect to the testing year, Employer A determines that it has a total of 21,000 employees, of whom 10,000 are substantial-service employees not excludable under section 410(b)(3) or (b)(4). Pursuant to paragraph (b) of this section, these 10,000 employees are assigned among Employer A's qualified separate lines of business as follows:
+Example 1.(i) Employer A operates four qualified separate lines of business as determined under § 1.414(r)-1(b) for the testing year, consisting of a software developer, a health food products supplier, a real estate developer, and a ski equipment manufacturer. In applying this section for the first testing day with respect to the testing year, Employer A determines that it has a total of 21,000 employees, of whom 10,000 are substantial-service employees not excludable under section 410(b)(3) or (b)(4). Pursuant to paragraph (b) of this section, these 10,000 employees are assigned among Employer A's qualified separate lines of business as follows: *Example 1,*
 
 |                               | Software developer | Health food | Real estate | Ski equipment |
 | ----------------------------- | ------------------ | ----------- | ----------- | ------------- |

@@ -26,7 +26,7 @@ This section also provides rules for allocating unclaimed prepayment credits to 
 
 (d) *Examples.* The following examples illustrate the rules of this § 1.6664-3. These examples do not take into account the reasonable cause exception to the accuracy-related penalty under § 1.6664-4.
 
-Example 1.A and B, husband and wife, filed a joint federal income tax return for calendar year 1989, reporting taxable income of $15,800 and a tax liability of $2,374. A and B had no amounts previously assessed (or collected without assessment) and no rebates had been made. Subsequently, the return was examined and the following adjustments and penalties were agreed to:
+Example 1.A and B, husband and wife, filed a joint federal income tax return for calendar year 1989, reporting taxable income of $15,800 and a tax liability of $2,374. A and B had no amounts previously assessed (or collected without assessment) and no rebates had been made. Subsequently, the return was examined and the following adjustments and penalties were agreed to: *Step 2*
 
 | Adjustment #1 (No penalty imposed)                         |        | $1,000   |
 | Adjustment #2 (Substantial understatement penalty imposed) |        | 40,000   |

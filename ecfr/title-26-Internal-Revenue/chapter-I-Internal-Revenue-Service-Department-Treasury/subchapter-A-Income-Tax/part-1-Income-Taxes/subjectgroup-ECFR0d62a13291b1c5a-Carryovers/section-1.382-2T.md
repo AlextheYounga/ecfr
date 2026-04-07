@@ -1,6 +1,6 @@
 ##### § 1.382-2T Definition of ownership change under section 382, as amended by the Tax Reform Act of 1986 (temporary).
 
-(a) *Ownership change*—(1) *In general.* A corporation is a new loss corporation and thus subject to limitation under section 382 only if an ownership change has occurred with respect to such corporation. An ownership change occurs with respect to a corporation if it is a loss corporation on a testing date and, immediately after the close of the testing date, the percentage of stock of the corporation owned by one or more 5-percent shareholders has increased by more than 50 percentage points over the lowest percentage of stock of such corporation owned by such shareholders at any time during the testing period. See paragraph (a)(2)(i) of this section for the definition of testing date. See paragraph (d) of this section for the definition of testing period. See § 1.382-2(a)(1) and paragraph (f)(3) of this section for the respective definition of loss corporation and new loss corporation. See paragraph (g) of this section for the definition of 5-percent shareholder. See section 383 and § 1.383-1 for rules relating to loss corporations that have an ownership change and have capital loss carryovers, excess foreign taxes carried over under section 904(c), carryovers of general business credits under section 39, or unused minimum tax credits under section 53.
+(a) *Ownership change*—(1) *In general.* A corporation is a new loss corporation and thus subject to limitation under section 382 only if an ownership change has occurred with respect to such corporation. An ownership change occurs with respect to a corporation if it is a loss corporation on a testing date and, immediately after the close of the testing date, the percentage of stock of the corporation owned by one or more 5-percent shareholders has increased by more than 50 percentage points over the lowest percentage of stock of such corporation owned by such shareholders at any time during the testing period. See paragraph (a)(2)(i) of this section for the definition of testing date. See paragraph (d) of this section for the definition of testing period. See § 1.382-2(a)(1) and paragraph (f)(3) of this section for the respective definition of loss corporation and new loss corporation. See paragraph (g) of this section for the definition of 5-percent shareholder. See section 383 and § 1.383-1 for rules relating to loss corporations that have an ownership change and have capital loss carryovers, excess foreign taxes carried over under section 904(c), carryovers of general business credits under section 39, or unused minimum tax credits under section 53.1
 
 (2) *Events requiring a determination of whether an ownership change has occurred*—(i) *Testing dates prior to November 5, 1992.* Except as otherwise provided in this paragraph (a)(2)(i), a loss corporation is required to determine whether an ownership change has occurred immediately after any owner shift, any equity structure shift, or any transaction in which an option with respect to stock of the loss corporation is—
 
@@ -42,9 +42,20 @@
 
 (2) *Example.*
 
-Example.(i) A and B each own 40 percent of the outstanding L stock. The remaining 20 percent of the L stock is owned by 100 unrelated individuals, none of whom own as much as five percent of L stock (“Public L”). C negotiates with A and B to purchase all their stock in L.
+Example.(i) A and B each own 40 percent of the outstanding L stock. The remaining 20 percent of the L stock is owned by 100 unrelated individuals, none of whom own as much as five percent of L stock (“Public L”). C negotiates with A and B to purchase all their stock in L. *Example (1).*2/31
 
-(ii) The acquisitions from both A and B are completed on September 13, 1990. C's acquisition of 80 percent of L stock results in an ownership change because C's percentage ownership has increased by 80 percentage points as of the testing date, compared to his lowest percentage ownership in L at any time during the testing period (0 percent).
+(ii) The acquisitions from both A and B are completed on September 13, 1990. C's acquisition of 80 percent of L stock results in an ownership change because C's percentage ownership has increased by 80 percentage points as of the testing date, compared to his lowest percentage ownership in L at any time during the testing period (0 percent).*i.e.,*22/3
+
+![](/graphics/ec17oc91.002.gif)
+
+| 5-percent shareholder | Percentage ownership interest |
+| --------------------- | ----------------------------- |
+| A                     | 4.0                           |
+| B                     | 8.0                           |
+| C                     | 9.6                           |
+| Public E              | 22.4                          |
+| Public P              | 40.0                          |
+| Public L              | 16.0                          |
 
 (3) *Related and unrelated increases in percentage stock ownership.* The determination whether an ownership change has occurred is made without regard to whether the changes in stock ownership of the loss corporation (by one or more 5-percent shareholders) result from related or unrelated events.
 
@@ -66,7 +77,7 @@ Example.(i) L has outstanding 200 shares of common stock. A, B and C respectivel
 
 (ii) *Exception for corporations with net unrealized built-in loss.* Paragraph (d)(3)(i) of this section shall not apply if the corporation has a net unrealized built-in loss (determined after application of section 382(h)(3)(B)) on the testing date, unless the loss corporation establishes the taxable year in which the net unrealized built-in loss first accrued.
 
-In that event, the testing period shall not begin before the earlier of—
+In that event, the testing period shall not begin before the earlier of— *1*
 
 (A) The first day of the taxable year in which the net unrealized built-in loss first accrued, or
 

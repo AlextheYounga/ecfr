@@ -1,6 +1,6 @@
 ##### § 1.170A-4 Reduction in amount of charitable contributions of certain appreciated property.
 
-(a) *Amount of reduction.* Section 170(e)(1) requires that the amount of the charitable contribution which would be taken into account under section 170(a) without regard to section 170(e) shall be reduced before applying the percentage limitations under section 170(b):
+(a) *Amount of reduction.* Section 170(e)(1) requires that the amount of the charitable contribution which would be taken into account under section 170(a) without regard to section 170(e) shall be reduced before applying the percentage limitations under section 170(b):1/2
 
 (1) In the case of a contribution by an individual or by a corporation of ordinary income property, as defined in paragraph (b)(1) of this section, by the amount of gain (hereinafter in this section referred to as ordinary income) which would have been recognized as gain which is not long-term capital gain if the property had been sold by the donor at its fair market value at the time of its contribution to the charitable organization,
 
@@ -54,7 +54,7 @@ For purposes of this subparagraph a fixture which is intended to be severed from
 
 (d) *Illustrations.* The application of this section may be illustrated by the following examples:
 
-Example 1.(a) On July 1, 1970, C, an individual, makes the following charitable contributions, all of which are made to a church except in the case of the stock (as indicated):
+Example 1.(a) On July 1, 1970, C, an individual, makes the following charitable contributions, all of which are made to a church except in the case of the stock (as indicated): *Example 2*
 
 | Property                                                                                | Fair market value | Adjusted basis | Recognized gain sold |
 | --------------------------------------------------------------------------------------- | ----------------- | -------------- | -------------------- |
@@ -89,6 +89,8 @@ Example 1.(a) On July 1, 1970, C, an individual, makes the following charitable 
 | (ii) The private foundation                                    | 15,000            | 3,125     | 11,875               |
 | (2) Tangible personal property                                 | 12,000            | 3,750     | 8,250                |
 | Total                                                          | 102,000           | 21,875    | 80,125               |
+
+(b) For 1971 the amount of the contribution which may be taken into account under section 170(a) is limited by section 170(b)(1)(D)(i) to $60,000 ($200,000 × 30%), and A is allowed a deduction for $60,000. Under section 170(b)(1)(D)(ii), E has a $30,000 carryover to 1972 of 30-percent capital gain property, as defined in paragraph (d)(3) of § 1.170A-8. For 1972 the amount of the charitable contributions deduction is $45,000 (total contributions of $50,000 \[$30,000 + $20,000\] but not to exceed 30% of $150,000).*i.e.,*
 
 Example 2.On March 1, 1970, D, an individual, contributes to a church intangible property to which section 1245 applies which has a fair market value of $60,000 and an adjusted basis of $10,000. At the time of the contribution D has used the property in his business for more than 6 months. If the property had been sold by D at its fair market value at the time of its contribution, it is assumed that under section 1245 $20,000 of the gain of $50,000 would have been treated as ordinary income and $30,000 would have been long-term capital gain. Under paragraph (a)(1) of this section, D's contribution of $60,000 is reduced by $20,000.Example 3.The facts are the same as in *Example 2* except that the property is contributed to a private foundation not described in section 170(b)(1)(E). Under paragraph (a) (1) and (2) of this section, D's contribution is reduced by $35,000 (100 percent of the ordinary income of $20,000 and 50 percent of the long-term capital gain of $30,000).Example 4.(a) In 1971, E, an individual calendar-year taxpayer, contributes to a church stock held for more than 6 months which has a fair market value of $90,000 and an adjusted basis of $10,000. In 1972, E also contributes to a church stock held for more than 6 months which has a fair market value of $20,000 and an adjusted basis of $10,000. E's contribution base for 1971 is $200,000; and for 1972, is $150,000. E makes no other charitable contributions for these 2 taxable years.
 

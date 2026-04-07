@@ -1,6 +1,6 @@
 ##### § 1.402A-1 Designated Roth Accounts.
 
-Q-1. What is a designated Roth account?
+Q-1. What is a designated Roth account?1/2
 
 A-1. A designated Roth account is a separate account under a qualified cash or deferred arrangement under a section 401(a) plan, or under a section 403(b) plan, to which designated Roth contributions are permitted to be made in lieu of elective contributions and that satisfies the requirements of § 1.401(k)-1(f) (in the case of a section 401(a) plan) or § 1.403(b)-3(c) (in the case of a section 403(b) plan).
 
@@ -42,7 +42,7 @@ A-5. (a) An eligible rollover distribution from a designated Roth account is per
 
 (d) The following example illustrates the application of this A-5:
 
-Example.Employee B receives a $14,000 eligible rollover distribution that is not a qualified distribution from B's designated Roth account, consisting of $11,000 of investment in the contract and $3,000 of income. Within 60 days of receipt, Employee B rolls over $7,000 of the distribution into a Roth IRA. The $7,000 is deemed to consist of $3,000 of income and $4,000 of investment in the contract. Because the only portion of the distribution that could be includible in gross income (the income) is rolled over, none of the distribution is includible in Employee B's gross income.
+Example.Employee B receives a $14,000 eligible rollover distribution that is not a qualified distribution from B's designated Roth account, consisting of $11,000 of investment in the contract and $3,000 of income. Within 60 days of receipt, Employee B rolls over $7,000 of the distribution into a Roth IRA. The $7,000 is deemed to consist of $3,000 of income and $4,000 of investment in the contract. Because the only portion of the distribution that could be includible in gross income (the income) is rolled over, none of the distribution is includible in Employee B's gross income.*Example*
 
 (e) This A-5 applies for taxable years beginning on or after January 1, 2006.
 

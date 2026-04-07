@@ -1,6 +1,6 @@
 ##### § 1.704-1T Partner's distributive share (temporary).
 
-(a) For further guidance, see § 1.704-1(a).
+(a) For further guidance, see § 1.704-1(a).*f*
 
 (b)(1) For further guidance, see § 1.704-1(b)(1).
 

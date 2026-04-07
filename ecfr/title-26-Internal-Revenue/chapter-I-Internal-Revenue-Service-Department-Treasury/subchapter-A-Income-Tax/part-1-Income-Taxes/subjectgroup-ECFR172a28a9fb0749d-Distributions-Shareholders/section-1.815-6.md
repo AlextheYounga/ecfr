@@ -10,6 +10,15 @@
 
 Example.For the taxable year 1960, the life insurance company taxable income of S, a stock life insurance company, computed without regard to section 802(b)(3), exceeds $25,000. Assume that S elects to subtract $20,000 from its policyholders surplus account under section 815(d)(1) for the taxable year. Since S is subject to a 52 percent tax rate, the tax on the amount elected to be subtracted from the policyholders surplus account (as of the close of the taxable year 1960) is $10,400 ($20,000 × 52 percent). Thus, the amount to be added to the shareholders surplus account as of January 1, 1961, is $9,600 (the amount subtracted from the policyholders surplus account by virtue of the section 815(d)(1) election, less the tax imposed upon such amount by reason of section 802(b)(3), or $20,000 minus $10,400).
 
+|                                                                                                     | 1959  | 1960 | 1961 |
+| --------------------------------------------------------------------------------------------------- | ----- | ---- | ---- |
+| Balance in policyholders surplus account, computed without regard to sec. 815(d)(4), as of 12-31-60 | $175  |      |      |
+| Life insurance reserves (as defined in sec. 801(b)) as of 12-31-60                                  | 4,500 |      |      |
+| Life insurance reserves (as defined in sec. 801(b)) as of 12-31-58                                  | 3,900 |      |      |
+| Premiums and other consideration taken into account for the taxable year under sec. 809(c)(1)       | 310   |      |      |
+
+In order to determine the limitations on the amount that it may accumulate in its policyholders surplus account at the end of the taxable year under section 815(d)(4), S would make up the following schedule:
+
 (b) *Termination as life insurance company*—(1) *Effect of termination.* Except as provided in section 381(c)(22) (relating to carryovers in certain corporate readjustments), section 815(d)(2)(A) provides that if for any taxable year the taxpayer is not an insurance company (as defined in paragraph (a) of § 1.801-3), or if for any two successive taxable years the taxpayer is not a life insurance company (as defined in section 801(a) and paragraph (b) of § 1.801-3), the amount taken into account under section 802(b)(3) for the last preceding year for which the company was a life insurance company shall be increased (after the application of section 815(d)(2)(B)) by the entire balance in the policyholders surplus account at the close of such last preceding taxable year.
 
 (2) *Effect of certain distributions.* If for any taxable year the taxpayer is an insurance company (as defined in paragraph (a) of § 1.801-3) but is not a life insurance company (as defined in section 801(a) and paragraph (b) of § 1.801-3), section 815(d)(2)(B) provides that any distribution to shareholders during such taxable year shall be treated as having been made on the last day of the last preceding taxable year for which the company was a life insurance company.

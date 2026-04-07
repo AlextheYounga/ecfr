@@ -52,6 +52,21 @@
 
 Example.S is a 62 year old individual who participates in Employer Y's qualified cash or deferred arrangement. In January 1991, S withdraws $5,000 from Y's cash or deferred arrangement. From February through September, S defers $900 per month. On October 1, S leaves Employer Y and becomes employed by Employer Z (unrelated to Y). During the remainder of 1991, S defers $1,800 under Z's qualified cash or deferred arrangement. In January 1992, S realizes that S has deferred a total of $9,000 in 1991, and therefore has a $525 excess deferral ($9,000 minus $8,475, the applicable limit for 1991). An additional $525 must be distributed to S before April 15, 1992, to correct the excess deferral. The $5,000 withdrawal did not correct the excess deferral because it occurred before the excess deferral was made.
 
+| Employee | Compensation | Contribution | Actual deferral ratio (percent) |
+| -------- | ------------ | ------------ | ------------------------------- |
+| A        | $140,000     | $7,000       | 5.0                             |
+| B        | 70,000       | 7,000        | 10.0                            |
+| C        | 70,000       | 7,000        | 10.0                            |
+| D        | 45,000       | 2,250        | 5.0                             |
+| E        | 40,000       | 4,000        | 10.0                            |
+| F        | 35,000       | 1,750        | 5.0                             |
+| G        | 35,000       | 350          | 1.0                             |
+| H        | 30,000       | 3,000        | 10.0                            |
+| I        | 17,500       | 0            | 0                               |
+| J        | 17,500       | 0            | 0.0                             |
+
+(iii) The plan reduces the actual deferral ratios of B and C to 7.14 percent by distributing $2,002 ($7,000−.0714 × $70,000) to each in January 1990. Section 401(k)(3)(A)(ii) is therefore satisfied.
+
 (4) *Plan provisions.* In order to distribute excess deferrals pursuant to paragraphs (e)(2) or (e)(3) of this section, a plan must contain language permitting distribution of excess deferrals. A plan may require the notification in paragraphs (e)(2) and (e)(3) of this section to be in writing and may require that the employee certify or otherwise establish that the designated amount is an excess deferral. A plan need not permit distribution of excess deferrals.
 
 (5) *Income allocable to excess deferrals*—(i) *General rule.* The income allocable to excess deferrals for a taxable year that begins on or after January 1, 2007 is equal to the sum of the allocable gain or loss for the taxable year of the individual and, to the extent the excess deferrals are or will be credited with gain or loss for the period after the close of the taxable year and prior to the distribution (the gap period) if the total account were to be distributed, the allocable gain or loss during that period. The income allocable to excess deferrals for a taxable year that begins before 2007 is determined using the 1.402(g)-1(e)(5) (as it appeared in the April 1, 2006 edition of 26 CFR Part 1).

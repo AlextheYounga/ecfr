@@ -26,7 +26,25 @@
 
 (c) *Examples.* The provisions of this section may be illustrated by the following examples:
 
-Example 1.Corporation X and its wholly owned subsidiaries, corporations Y and Z, file a consolidated return for the calendar year 1971. None of the corporations have incurred exploration expenditures described in section 617 in previous years. During 1971, X incurred foreign exploration expenditures of $30,000, Y of $20,000, and Z of $40,000. The amount of foreign exploration expenditures deductible under section 617 for purposes of computing separate taxable income under § 1.1502-12 will be the amount actually expended by each corporation.Example 2.Assume the same facts as in example (1) except that prior to 1971, X, Y, and Z had deducted (or deferred) under section 615 and 617 a total of $300,000 of exploration expenditures. During 1971, with respect to deposits located outside the United States X incurred exploration expenditures of $25,000, Y of $75,000, and Z of $125,000. The consolidated exploration limitation under paragraph (a) of this section with respect to the foreign deposits (there is no limitation with respect to the domestic expenditures) is $100,000. X may allocate the $100,000 in any manner among the three members, except that X may not be allocated more than $25,000 nor Y more than $75,000, the amount actually expended by X and Y and which they could have deducted had they each filed a separate return. If the allocation is not made in accordance with paragraph (a)(2)(i) of this section, the $100,000 limitation will be allocated under paragraph (a)(2)(ii) of this section as follows:
+Example 1.Corporation X and its wholly owned subsidiaries, corporations Y and Z, file a consolidated return for the calendar year 1971. None of the corporations have incurred exploration expenditures described in section 617 in previous years. During 1971, X incurred foreign exploration expenditures of $30,000, Y of $20,000, and Z of $40,000. The amount of foreign exploration expenditures deductible under section 617 for purposes of computing separate taxable income under § 1.1502-12 will be the amount actually expended by each corporation.
+
+| Corporation | Expenditure | Fraction |   | Limitation |    | Allocable portion |
+| ----------- | ----------- | -------- | - | ---------- | -- | ----------------- |
+|             |             | 25,000   |   |            |    |                   |
+| X           | $25,000     | —————    | × | $100,000   | \= | $12,500           |
+|             |             | 200,000  |   |            |    |                   |
+|             |             | 75,000   |   |            |    |                   |
+| Y           | $75,000     | —————    | × | $100,000   | \= | $37,500           |
+|             |             | 200,000  |   |            |    |                   |
+|             |             | 100,000  |   |            |    |                   |
+| Z           | $125,000    | —————    | × | $100,000   | \= | $50,000           |
+|             |             | 200,000  |   |            |    |                   |
+
+The denominator of $200,000 was calculated as follows:
+
+Y = $75,000
+
+Example 2.Assume the same facts as in example (1) except that prior to 1971, X, Y, and Z had deducted (or deferred) under section 615 and 617 a total of $300,000 of exploration expenditures. During 1971, with respect to deposits located outside the United States X incurred exploration expenditures of $25,000, Y of $75,000, and Z of $125,000. The consolidated exploration limitation under paragraph (a) of this section with respect to the foreign deposits (there is no limitation with respect to the domestic expenditures) is $100,000. X may allocate the $100,000 in any manner among the three members, except that X may not be allocated more than $25,000 nor Y more than $75,000, the amount actually expended by X and Y and which they could have deducted had they each filed a separate return. If the allocation is not made in accordance with paragraph (a)(2)(i) of this section, the $100,000 limitation will be allocated under paragraph (a)(2)(ii) of this section as follows:
 
 | Corporation | Expenditure | Fraction |   | Limitation |    | Allocable portion |
 | ----------- | ----------- | -------- | - | ---------- | -- | ----------------- |

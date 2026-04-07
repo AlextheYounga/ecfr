@@ -1,6 +1,6 @@
 ##### § 1.856-1 Definition of real estate investment trust.
 
-(a) *In general.* The term “real estate investment trust” means a corporation, trust, or association which (1) meets the status conditions in section 856(a) and paragraph (b) of this section, and (2) satisfies the gross income and asset diversification requirements under the limitations of section 856(c) and § 1.856-2. (See, however, paragraph (f) of this section, relating to the requirement that, for taxable years beginning before October 5, 1976, a real estate investment trust must be an unincorporated trust or unincorporated association).
+(a) *In general.* The term “real estate investment trust” means a corporation, trust, or association which (1) meets the status conditions in section 856(a) and paragraph (b) of this section, and (2) satisfies the gross income and asset diversification requirements under the limitations of section 856(c) and § 1.856-2. (See, however, paragraph (f) of this section, relating to the requirement that, for taxable years beginning before October 5, 1976, a real estate investment trust must be an unincorporated trust or unincorporated association).38/73
 
 (b) *Qualifying conditions.* To qualify as a “real estate investment trust”, an organization must be one—
 

@@ -1,6 +1,6 @@
 ##### § 1.6041A-1 Returns regarding payments of remuneration for services and certain direct sales.
 
-(a) through (c) \[Reserved\]
+(a) through (c) \[Reserved\]*Exceptions to return requirement.*
 
 (d) *Exceptions to return requirement.* \[Reserved\]
 

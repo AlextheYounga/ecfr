@@ -56,7 +56,22 @@ For purposes of these determinations, dividends are deemed to be paid first out 
 
 (e) *Illustrations.* The application of this section may be illustrated by the following examples.
 
-Example 1.X, a domestic corporation, owns all of the stock of Y, a foreign corporation organized in country S. Y owns all of the stock of Z, a foreign corporation organized in country T. Each corporation used the calendar year as its taxable year. In 1983, X includes in its gross income an amount described in section 951(a) with respect to Z. Assume that the taxes deemed paid under section 902(a) by X by reason of such an inclusion is $70. Assume further that Z paid total taxes of $120, $80 of which is FOGEI tax. Under paragraph (c) of this section, the FOGEI tax deemed paid is $46.67 (*i.e.,* $70 × $80/$120). This $46.67 is also FOGEI under § 1.907(c)-2(d)(5) because it must be included in X's gross income under section 78.Example 2.(i) Assume the same facts as in Example 1. Assume further that in 1983, Z distributes its entire earnings and profits to Y. Y has no earnings and profits during 1983 other than this dividend. Y paid a tax of $50 to S. Assume that Y is deemed under section 902(b)(1) to pay $50 of the tax paid by Z which was not deemed paid by X under section 960(a)(1) in 1983. In 1983, Y distributes its entire earnings and profits to X. Assume that X is deemed under section 902(a) to pay $100 of the taxes actually paid, and deemed paid, by Y.
+Example 1.X, a domestic corporation, owns all of the stock of Y, a foreign corporation organized in country S. Y owns all of the stock of Z, a foreign corporation organized in country T. Each corporation used the calendar year as its taxable year. In 1983, X includes in its gross income an amount described in section 951(a) with respect to Z. Assume that the taxes deemed paid under section 902(a) by X by reason of such an inclusion is $70. Assume further that Z paid total taxes of $120, $80 of which is FOGEI tax. Under paragraph (c) of this section, the FOGEI tax deemed paid is $46.67 (*i.e.,* $70 × $80/$120). This $46.67 is also FOGEI under § 1.907(c)-2(d)(5) because it must be included in X's gross income under section 78.
+
+(ii) Paragraph (b)(1) of this section applies to characterize the $50 tax of Z that Y is deemed to pay under section 902(b)(1). Y is deemed to pay $33.33 of FOGEI tax, *i.e.,* the amount of the tax deemed paid by Y ($50) multiplied by a fraction. The numerator of the fraction is the amount of Z's FOGEI tax ($80) and the denominator is the total taxes paid by Z ($120).
+
+|                    | FOGEI | FORI   |
+| ------------------ | ----- | ------ |
+| Sales              |       | $12.00 |
+| Royalties          | $1.44 |        |
+| Lifting            | .20   |        |
+| Transporting       | .80   |        |
+|                    | 2.44  | (2.44) |
+| Income base        |       | 9.56   |
+| Tax rate (percent) |       | .50    |
+| Tax                |       | 4.78   |
+
+Assume that these taxes are creditable taxes under section 901, that the fair market value of the oil at the port is $10 per barrel, and that under § 1.907(c)-1(b)(6) fair market value in the immediate vicinity of the oil wells is $9 per barrel. Thus, at the port, the excess of posted price ($12) over fair market value ($10) is $2. FOGEI tax = $4.78 × $9.36/$9.56 = $4.68 Example 2.(i) Assume the same facts as in Example 1. Assume further that in 1983, Z distributes its entire earnings and profits to Y. Y has no earnings and profits during 1983 other than this dividend. Y paid a tax of $50 to S. Assume that Y is deemed under section 902(b)(1) to pay $50 of the tax paid by Z which was not deemed paid by X under section 960(a)(1) in 1983. In 1983, Y distributes its entire earnings and profits to X. Assume that X is deemed under section 902(a) to pay $100 of the taxes actually paid, and deemed paid, by Y.
 
 (ii) Paragraph (b)(1) of this section applies to characterize the $50 tax of Z that Y is deemed to pay under section 902(b)(1). Y is deemed to pay $33.33 of FOGEI tax, *i.e.,* the amount of the tax deemed paid by Y ($50) multiplied by a fraction. The numerator of the fraction is the amount of Z's FOGEI tax ($80) and the denominator is the total taxes paid by Z ($120).
 

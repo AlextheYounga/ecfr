@@ -10,7 +10,7 @@
 
 (ii) The amount of the tax computed under chapter 1 of the Code for such year with respect to such foreign mineral income.
 
-The reduction required by this subparagraph must be made on a country-by-country basis whether the taxpayer uses for the taxable year the per-country limitation under section 904(a)(1), or the overall limitation under section 904(a)(2), on the amount of taxes allowed as credit under section 901(a).
+The reduction required by this subparagraph must be made on a country-by-country basis whether the taxpayer uses for the taxable year the per-country limitation under section 904(a)(1), or the overall limitation under section 904(a)(2), on the amount of taxes allowed as credit under section 901(a). *b*
 
 (2) *Determination of amount of tax on foreign mineral income*—(i) *Foreign tax.* For purposes of subparagraph (1)(i)(*a*) of this paragraph, the amount of the income, war profits, and excess profits taxes paid or accrued during the taxable year to a foreign country or possession of the United States with respect to foreign mineral income from sources within such country or possession is an amount which is the greater of—
 
@@ -60,11 +60,13 @@ Any income of the taxpayer derived from an activity described in either subdivis
 
 (ii) *Illustration.* The provisions of this subparagraph may be illustrated by the following example:
 
-Example.(a) Throughout 1974, M, a domestic corporation, owns all the one class of stock of N, a foreign corporation which is not a less developed country corporation within the meaning of section 902(d). Both corporations use the calendar year as the taxable year. N is incorporated in foreign country Y. During 1974, N has income from sources within foreign country X, all of which is foreign mineral income. During 1974, N also has income from sources within country Y, none of which is foreign mineral income. N is taxed in each foreign country only on income derived from sources within that country. Neither country X nor country Y allows a credit against its tax for foreign income taxes. N pays a dividend of $40,000 to M for 1974. For purposes of section 902, the dividend is paid from earnings and profits for 1974.
+Example.(a) Throughout 1974, M, a domestic corporation, owns all the one class of stock of N, a foreign corporation which is not a less developed country corporation within the meaning of section 902(d). Both corporations use the calendar year as the taxable year. N is incorporated in foreign country Y. During 1974, N has income from sources within foreign country X, all of which is foreign mineral income. During 1974, N also has income from sources within country Y, none of which is foreign mineral income. N is taxed in each foreign country only on income derived from sources within that country. Neither country X nor country Y allows a credit against its tax for foreign income taxes. N pays a dividend of $40,000 to M for 1974. For purposes of section 902, the dividend is paid from earnings and profits for 1974. *b*
 
-(b) N's earnings and profits and taxes for 1974 are determined as follows:
+(b) N's earnings and profits and taxes for 1974 are determined as follows:*a*
 
-| Foreign mineral income from country X            | $100,000 |        |
+|                                                  | U.S. tax | W tax  |
+| ------------------------------------------------ | -------- | ------ |
+| Foreign mineral income from country Xa           | $100,000 |        |
 | Less:                                            |          |        |
 | Intangible drilling and development costs        | $21,000  |        |
 | Cost depletion                                   | 3,000    | 24,000 |

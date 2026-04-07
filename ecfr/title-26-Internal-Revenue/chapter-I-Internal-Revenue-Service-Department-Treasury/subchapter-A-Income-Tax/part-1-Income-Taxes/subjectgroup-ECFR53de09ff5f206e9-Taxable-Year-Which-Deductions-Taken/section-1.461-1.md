@@ -59,17 +59,19 @@
 Example 1.A taxpayer on an accrual method reports his taxable income for the taxable year ending June 30. He elects to accrue real property taxes ratably for the taxable year ending June 30, 1955 (which is his first taxable year beginning on or after January 1, 1954). In the absence of an election under section 461(c), such taxes would accrue on January 1 of the calendar year to which they are related. The real property taxes are $1,200 for 1954; $1,600 for 1955; and $1,800 for 1956. Deductions for such taxes for the fiscal years ending June 30, 1955, and June 30, 1956, are computed as follows:
 
 Fiscal year ending June 30, 1955
-| July through December 1954                                                                                                 | 1 None |
-| January through June 1955 (6/12 of $1,600)                                                                                 | $800   |
-| Deduction for fiscal year ending June 30, 1955                                                                             | 800    |
-| 1 The taxes for 1954 were deductible in the fiscal year ending June 30, 1954, since such taxes accrued on January 1, 1954. |        |
+| Period with respect to which earned                                                                                        | Date credited in 1964 | Amt. |
+| -------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---- |
+| July through December 19541                                                                                                | 1 None                |      |
+| January through June 1955 (6/12 of $1,600)                                                                                 | $800                  |      |
+| Deduction for fiscal year ending June 30, 1955                                                                             | 800                   |      |
+| 1 The taxes for 1954 were deductible in the fiscal year ending June 30, 1954, since such taxes accrued on January 1, 1954. |                       |      |
 
 Fiscal year ending June 30, 1956
 | July through December 1955 (6/12 of $1,600)    | $800  |
 | January through June 1956 (6/12 of $1,800)     | 900   |
 | Deduction for fiscal year ending June 30, 1956 | 1,700 |
 
-Example 2.A calendar-year taxpayer on an accrual method elects to accrue real property taxes ratably for 1954. In the absence of an election under section 461(c), such taxes would accrue on July 1 and are assessed for the 12-month period beginning on that date. The real property taxes assessed for the year ending June 30, 1954, are $1,200; $1,600 for the year ending June 30, 1955; and $1,800 for the year ending June 30, 1956. Deductions for such taxes for the calendar years 1954 and 1955 are computed as follows:
+Since the change in the time of crediting dividends results in the crediting in 1964 of amounts of dividends representing periods totaling 15 months (October 1963 through December 1964), amounts shall not be allowed as a deduction in 1964 which are in excess of $1,200,000, which is the amount which bears the same ratio to the amounts of dividends credited during the year ($1,500,000) as the number 12 bears to the number of months (15) with respect to which such dividends are credited. Thus, $300,000 ($1,500,000 minus $1,200,000) is not allowed as a deduction in 1964.Example 2.A calendar-year taxpayer on an accrual method elects to accrue real property taxes ratably for 1954. In the absence of an election under section 461(c), such taxes would accrue on July 1 and are assessed for the 12-month period beginning on that date. The real property taxes assessed for the year ending June 30, 1954, are $1,200; $1,600 for the year ending June 30, 1955; and $1,800 for the year ending June 30, 1956. Deductions for such taxes for the calendar years 1954 and 1955 are computed as follows:
 
 Year ending December 31, 1954
 | January through June 1954                                                                                                                   | 1 None |

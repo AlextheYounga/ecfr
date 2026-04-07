@@ -16,6 +16,14 @@
 
 Example.X, an exempt trade association, owns an office building which in 1971 produces $10,000 of gross rental income. The average adjusted basis of the building for 1971 is $100,000, and the average acquisition indebtedness with respect to the building for 1971 is $50,000. Accordingly, the debt/basis percentage for 1971 is 50 percent (the ratio of $50,000 to $100,000). Therefore, the unrelated debt-financed income with respect to the building for 1971 is $5,000 (50 percent of $10,000).
 
+| Indebtedness on the first day in each calendar month that the property is held | Basis     |
+| ------------------------------------------------------------------------------ | --------- |
+| As of July 10, 1970 (acquisition date)                                         | $510,000  |
+| As of December 31, 1970                                                        | 490,000   |
+| Total                                                                          | 1,000,000 |
+
+Average Adjusted basis: ![](/graphics/ec08oc91.000.gif)Average acquisition indebtedness ($300,000) / Average adjusted basis ($500,000) = 60 percent
+
 (v) *Gain from sale or other disposition.* If debt-financed property is sold or otherwise disposed of, there shall be included in computing unrelated business taxable income an amount with respect to such gain (or loss) which is the same percentage (but not in excess of 100 percent) of the total gain (or loss) derived from such sale or other disposition as:
 
 (*a*) The highest acquisition indebtedness with respect to such property during the 12-month period, preceding the date of disposition, is of

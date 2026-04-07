@@ -1,6 +1,6 @@
 ##### § 1.1031(b)-1 Receipt of other property or money in tax-free exchange.
 
-(a) If the taxpayer receives other property (in addition to property permitted to be received without recognition of gain) or money—
+(a) If the taxpayer receives other property (in addition to property permitted to be received without recognition of gain) or money—*other property or money*
 
 (1) In an exchange described in section 1031(a) of property held for investment or productive use in trade or business for property of like kind to be held either for productive use or for investment,
 
@@ -12,7 +12,21 @@
 
 (b) The application of this section may be illustrated by the following examples:
 
-Example 1.A, who is not a dealer in real estate, in 1954 exchanges real estate held for investment, which he purchased in 1940 for $5,000, for other real estate (to be held for productive use in trade or business) which has a fair market value of $6,000, and $2,000 in cash. The gain from the transaction is $3,000, but is recognized only to the extent of the cash received of $2,000.Example 2.(a) B, who uses the cash receipts and disbursements method of accounting and the calendar year as his taxable year, has never elected under section 454(a) to include in gross income currently the annual increase in the redemption price of non-interest-bearing obligations issued at a discount. In 1943, for $750 each, B purchased four $1,000 series E U.S. savings bonds bearing an issue date of March 1, 1943.
+Example 1.A, who is not a dealer in real estate, in 1954 exchanges real estate held for investment, which he purchased in 1940 for $5,000, for other real estate (to be held for productive use in trade or business) which has a fair market value of $6,000, and $2,000 in cash. The gain from the transaction is $3,000, but is recognized only to the extent of the cash received of $2,000.
+
+(b) On October 1, 1963, the redemption value of each such bond was $1,396, and the total redemption value of the four bonds was $5,584. On that date B submitted the four $1,000 series E bonds to the United States in a transaction in which one of such $1,000 bonds was reissued by issuing four $100 series E U.S. savings bonds bearing an issue date of March 1, 1943, and by considering six $100 series E bonds bearing an issue date of March 1, 1943, to have been issued. The redemption value of each such $100 series E bond was $139.60 on October 1, 1963. Then, as part of the transaction, the six $100 series E bonds so considered to have been issued and the three $1,000 series E bonds were exchanged, in an exchange qualifying under section 1037(a), for five $1,000 series H U.S. savings bonds plus $25.60 in cash.
+
+| Amount realized:                                                    |           |          |
+| Par value of five series H bonds                                    | $5,000.00 |          |
+| Cash received                                                       | 25.60     |          |
+| Total realized                                                      | 5,025.60  |          |
+| Less: Adjusted basis of series E bonds surrendered in the exchange: |           |          |
+| Three $1,000 series E bonds                                         | $2,250.00 |          |
+| Six $100 series E bonds at $75 each                                 | 450.00    |          |
+|                                                                     |           | 2,700.00 |
+| Gain realized                                                       |           | 2,325.60 |
+
+Example 2.(a) B, who uses the cash receipts and disbursements method of accounting and the calendar year as his taxable year, has never elected under section 454(a) to include in gross income currently the annual increase in the redemption price of non-interest-bearing obligations issued at a discount. In 1943, for $750 each, B purchased four $1,000 series E U.S. savings bonds bearing an issue date of March 1, 1943.
 
 (b) On October 1, 1963, the redemption value of each such bond was $1,396, and the total redemption value of the four bonds was $5,584. On that date B submitted the four $1,000 series E bonds to the United States in a transaction in which one of such $1,000 bonds was reissued by issuing four $100 series E U.S. savings bonds bearing an issue date of March 1, 1943, and by considering six $100 series E bonds bearing an issue date of March 1, 1943, to have been issued. The redemption value of each such $100 series E bond was $139.60 on October 1, 1963. Then, as part of the transaction, the six $100 series E bonds so considered to have been issued and the three $1,000 series E bonds were exchanged, in an exchange qualifying under section 1037(a), for five $1,000 series H U.S. savings bonds plus $25.60 in cash.
 

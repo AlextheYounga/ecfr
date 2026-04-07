@@ -4,7 +4,7 @@ This section lists the captions contained in § 1.48(e)-1.
 
 § 1.48(e)-1 Low-Income Communities Bonus Credit Program.
 
-(a) In general.
+(a) In general.2.5
 
 (b) Qualified solar or wind facility defined.
 

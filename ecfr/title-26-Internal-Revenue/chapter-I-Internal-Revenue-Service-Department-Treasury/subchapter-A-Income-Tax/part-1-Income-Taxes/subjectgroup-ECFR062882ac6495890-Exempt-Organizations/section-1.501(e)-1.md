@@ -1,6 +1,6 @@
 ##### § 1.501(e)-1 Cooperative hospital service organizations.
 
-(a) *General rule.* Section 501(e) is the exclusive and controlling section under which a cooperative hospital service organization can qualify as a charitable organization. A cooperative hospital service organization which meets the requirements of section 501(e) and this section shall be treated as an organization described in section 501(c)(3), exempt from taxation under section 501(a), and referred to in section 170(b)(1)(A) (iii) (relating to percentage limitations on charitable contributions). In order to qualify for tax exempt status, a cooperative hospital service organization must—
+(a) *General rule.* Section 501(e) is the exclusive and controlling section under which a cooperative hospital service organization can qualify as a charitable organization. A cooperative hospital service organization which meets the requirements of section 501(e) and this section shall be treated as an organization described in section 501(c)(3), exempt from taxation under section 501(a), and referred to in section 170(b)(1)(A) (iii) (relating to percentage limitations on charitable contributions). In order to qualify for tax exempt status, a cooperative hospital service organization must—1/2
 
 (1) Be organized and operated on a cooperative basis,
 

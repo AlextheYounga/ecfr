@@ -74,13 +74,15 @@ exceeds $30,000.
 
 Example 1.(i) H and W, married calendar-year taxpayers filing a joint return, have the following items of income, deductions, and tax preference for 1976:
 
-| (a) Salary                                                            | $155,000 |  |
-| (b) Dividends and interest                                            | 60,000   |  |
-| Total                                                                 | 215,000  |  |
-| (c) Deductible travel expenses of employee allocable to earned income | 5,000    |  |
-| (d) Adjusted gross income                                             | $210,000 |  |
-| (e) Exemptions and itemized deductions                                | 38,000   |  |
-| (f) Taxable income                                                    | 172,000  |  |
+|                                                                       | 1973     | 1976 |
+| --------------------------------------------------------------------- | -------- | ---- |
+| (a) Salary12                                                          | $155,000 |      |
+| (b) Dividends and interest                                            | 60,000   |      |
+| Total                                                                 | 215,000  |      |
+| (c) Deductible travel expenses of employee allocable to earned income | 5,000    |      |
+| (d) Adjusted gross income                                             | $210,000 |      |
+| (e) Exemptions and itemized deductions                                | 38,000   |      |
+| (f) Taxable income                                                    | 172,000  |      |
 
 In addition, the taxpayers have tax preference items for 1976 of $80,000 attributable to the exercise of a qualified stock option and total tax preference items of $300,000 for the years 1972 through 1975. Since the items of tax preference for 1976 exceed the average of the items of tax preference for the years 1972 through 1976, the tax preference offset for 1976 is $50,000 ($80,000−$30,000).
 

@@ -2,7 +2,7 @@
 
 As amended by sections 802(b)(7), and 803 (c), (d), and (e) of the Tax Reform Act of 1976 (90 Stat. 1520), section 301 (d), (e), and (f) of the Tax Reduction Act of 1975 (89 Stat. 38) provides as follows:
 
-Sec. 301. Increase in investment credit \* \* \*
+Sec. 301. Increase in investment credit \* \* \**Plan requirements for taxpayers electing additional credit.*
 
 (d) *Plan requirements for taxpayers electing additional credit.* In order to meet the requirements of this subsection—
 

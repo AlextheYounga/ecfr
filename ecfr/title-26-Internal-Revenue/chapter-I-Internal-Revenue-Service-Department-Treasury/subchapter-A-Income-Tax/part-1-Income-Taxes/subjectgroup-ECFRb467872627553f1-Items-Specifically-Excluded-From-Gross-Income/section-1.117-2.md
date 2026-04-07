@@ -20,7 +20,40 @@
 
 (3) *Examples.* The application of this paragraph may be further illustrated by the following examples, it being assumed that in each example the grantor is a grantor who is described in section 117(b)(2)(A) and subparagraph (1) of this paragraph:
 
-Example 1.B, an individual who files his return on the calendar year basis, is awarded a post-doctorate fellowship grant in March 1955. The grant is to commence on September 1, 1955, and is to end on May 31, 1956, so that it will extend over a period of 9 months. The amount of the fellowship grant is $4,500 and B receives this amount in monthly installments of $500 on the first day of each month commencing September 1, 1955. During the taxable year 1955, B receives a total of $2,000 with respect to the 4-month period September through December, inclusive. He may exclude $1,200 from gross income in the taxable year 1955 ($300 × 4) and must include the remaining $800 in gross income for that year. For the year 1956, he will exclude $1,500 ($300 × 5) from gross income with respect to the $2,500 which he receives in that year and must include in gross income $1,000.Example 2.Assume the same facts as in example (1) except that B receives the full amount of the grant ($4,500) on September 1, 1955. Since the amount received in the taxable year 1955 is for the full term of the fellowship grant (9 months), B may exclude $2,700 ($300 × 9) from gross income for the taxable year 1955. The remaining $1,800 must be included in gross income for that year.Example 3.C, an individual who files his return on the calendar year basis, is awarded a post-doctorate fellowship grant in March 1955. The amount of the grant is $4,500 for a period commencing on September 1, 1955, and ending 24 months thereafter. C receives the full amount of the grant on September 1, 1955. C may exclude from gross income for the taxable year 1955, the full amount of the grant ($4,500) since this amount does not exceed an amount equal to $300 times the number of months (24) for which he received the amount of the grant during that taxable year.Example 4.(i) F, an individual who files his return on the calendar year basis, is awarded a post-doctorate fellowship grant (Grant A) for two years commencing June 1, 1955, in the amount of $4,800. He elects to receive his grant in monthly installments of $200 commencing June 1, 1955. On March 1, 1956, F is awarded another post-doctorate fellowship grant (Grant B) for two years commencing September 1, 1956, in the amount of $7,200. He elects to receive this grant in monthly installments of $300 commencing September 1, 1956.
+Example 1.B, an individual who files his return on the calendar year basis, is awarded a post-doctorate fellowship grant in March 1955. The grant is to commence on September 1, 1955, and is to end on May 31, 1956, so that it will extend over a period of 9 months. The amount of the fellowship grant is $4,500 and B receives this amount in monthly installments of $500 on the first day of each month commencing September 1, 1955. During the taxable year 1955, B receives a total of $2,000 with respect to the 4-month period September through December, inclusive. He may exclude $1,200 from gross income in the taxable year 1955 ($300 × 4) and must include the remaining $800 in gross income for that year. For the year 1956, he will exclude $1,500 ($300 × 5) from gross income with respect to the $2,500 which he receives in that year and must include in gross income $1,000.
+
+(ii) For the calendar year 1955, F receives $1,400 from Grant A which he is entitled to exclude from gross income since it does not exceed an amount equal to $300 times the number of months (7) for which he received amounts under the grant in the taxable year.
+
+| Period for which received and source | Number of months | Amounts received |
+| ------------------------------------ | ---------------- | ---------------- |
+| 1955:                                |                  |                  |
+| June 1 to December 31                | 7                |                  |
+| Grant A                              |                  | $1,400           |
+| Grant B                              |                  | None             |
+| Aggregate                            | 7                | 1,400            |
+| 1956:                                |                  |                  |
+| January 1 to August 31               | 8                |                  |
+| Grant A                              |                  | 1,600            |
+| Grant B                              |                  | None             |
+| September 1 to December 31           | 4                |                  |
+| Grant A                              |                  | 800              |
+| Grant B                              |                  | 1,200            |
+| Aggregate                            | 12               | 3,600            |
+| 1957:                                |                  |                  |
+| January 1 to May 31                  | 5                |                  |
+| Grant A                              |                  | 1,000            |
+| Grant B                              |                  | 1,500            |
+| June 1 to December 31                | 7                |                  |
+| Grant A                              |                  | None             |
+| Grant B                              |                  | 2,100            |
+| Aggregate                            | 12               | 4,600            |
+| 1958:                                |                  |                  |
+| January 1 to August 31               | 8                |                  |
+| Grant A                              |                  | None             |
+| Grant B                              |                  | 2,400            |
+| Aggregate                            |                  | 2,400            |
+
+Example 2.Assume the same facts as in example (1) except that B receives the full amount of the grant ($4,500) on September 1, 1955. Since the amount received in the taxable year 1955 is for the full term of the fellowship grant (9 months), B may exclude $2,700 ($300 × 9) from gross income for the taxable year 1955. The remaining $1,800 must be included in gross income for that year.Example 3.C, an individual who files his return on the calendar year basis, is awarded a post-doctorate fellowship grant in March 1955. The amount of the grant is $4,500 for a period commencing on September 1, 1955, and ending 24 months thereafter. C receives the full amount of the grant on September 1, 1955. C may exclude from gross income for the taxable year 1955, the full amount of the grant ($4,500) since this amount does not exceed an amount equal to $300 times the number of months (24) for which he received the amount of the grant during that taxable year.Example 4.(i) F, an individual who files his return on the calendar year basis, is awarded a post-doctorate fellowship grant (Grant A) for two years commencing June 1, 1955, in the amount of $4,800. He elects to receive his grant in monthly installments of $200 commencing June 1, 1955. On March 1, 1956, F is awarded another post-doctorate fellowship grant (Grant B) for two years commencing September 1, 1956, in the amount of $7,200. He elects to receive this grant in monthly installments of $300 commencing September 1, 1956.
 
 (ii) For the calendar year 1955, F receives $1,400 from Grant A which he is entitled to exclude from gross income since it does not exceed an amount equal to $300 times the number of months (7) for which he received amounts under the grant in the taxable year.
 

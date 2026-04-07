@@ -44,7 +44,7 @@
 
 Example 1.L, a life insurance company, has recognized gains and losses for the taxable year 1959 from the sale or involuntary conversion of the following items:
 
-|                                                                                        | Gains    | Losses  |
+| Gains                                                                                  | Gains    | Losses  |
 | -------------------------------------------------------------------------------------- | -------- | ------- |
 | Stocks, held for more than 6 months                                                    | $100,000 |         |
 | Bonds, held for more than 6 months                                                     |          | $5,000  |

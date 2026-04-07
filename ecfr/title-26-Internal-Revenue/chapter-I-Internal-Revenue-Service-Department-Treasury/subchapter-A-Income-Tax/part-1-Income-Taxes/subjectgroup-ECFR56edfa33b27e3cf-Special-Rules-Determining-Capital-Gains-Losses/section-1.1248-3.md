@@ -14,11 +14,11 @@
 
 (7) *Examples.* The application of the provisions of this paragraph may be illustrated by the following examples:
 
-Example 1.On December 31, 1967, Brown sells 10 shares of stock in foreign corporation X, which uses the calendar year as its taxable year. The 10 shares constitute a block of stock under subparagraph (5) of this paragraph. Under step 1, Brown's ratable shares of the earnings and profits of X attributable to the block are as follows:
+Example 1.On December 31, 1967, Brown sells 10 shares of stock in foreign corporation X, which uses the calendar year as its taxable year. The 10 shares constitute a block of stock under subparagraph (5) of this paragraph. Under step 1, Brown's ratable shares of the earnings and profits of X attributable to the block are as follows: *lower tier*2/3
 
 | Taxble year of X | Ratable shares |
 | ---------------- | -------------- |
-| 1963             | $100           |
+| 196313           | $100           |
 | 1964             | 150            |
 | 1965             | 1 50           |
 | 1966             | 50             |
@@ -26,7 +26,11 @@ Example 1.On December 31, 1967, Brown sells 10 shares of stock in foreign corpor
 | Sum              | 350            |
 | 1 Deficit.       |                |
 
-The amount of the earnings and profits attributable to such block under step 3 is $350.Example 2.Assume the same facts as in example (1), except that in respect of X there are *lower tier* corporations Y and Z to which the provisions of paragraph (f) of this section apply. Brown's ratable shares of the earnings and profits of X, Y, and Z attributable to the block under steps 1 and 2 for each taxable year of X are as follows:
+The amount of the earnings and profits attributable to such block under step 3 is $350.1/3
+
+(ii) Since X was not a controlled foreign corporation on any day of 1965, in respect of the block T's partial tentative ratable share computed under subparagraph (2) of this paragraph is zero.
+
+Example 2.Assume the same facts as in example (1), except that in respect of X there are *lower tier* corporations Y and Z to which the provisions of paragraph (f) of this section apply. Brown's ratable shares of the earnings and profits of X, Y, and Z attributable to the block under steps 1 and 2 for each taxable year of X are as follows:
 
 | Taxable year of X | Ratable shares |
 | ----------------- | -------------- |

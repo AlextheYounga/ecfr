@@ -1,22 +1,23 @@
 ##### § 1.167(b)-3 Sum of the years-digits method.
 
-(a) *Applied to a single asset*—(1) *General rule.* Under the sum of the years-digits method annual allowances for depreciation are computed by applying changing fractions to the cost or other basis of the property reduced by estimated salvage. The numerator of the fraction changes each year to a number which corresponds to the remaining useful life of the asset (including the year for which the allowance is being computed), and the denominator which remains constant is the sum of all the years digits corresponding to the estimated useful life of the asset. See section 167(c) and § 1.167(c)-1 for restrictions on the use of the sum of the years-digits method.
+(a) *Applied to a single asset*—(1) *General rule.* Under the sum of the years-digits method annual allowances for depreciation are computed by applying changing fractions to the cost or other basis of the property reduced by estimated salvage. The numerator of the fraction changes each year to a number which corresponds to the remaining useful life of the asset (including the year for which the allowance is being computed), and the denominator which remains constant is the sum of all the years digits corresponding to the estimated useful life of the asset. See section 167(c) and § 1.167(c)-1 for restrictions on the use of the sum of the years-digits method.7/28
 
 (i) *Illustrations.* Computation of depreciation allowances on a single asset under the sum of the years-digits method is illustrated by the following examples:
 
 Example 1.A new asset having an estimated useful life of five years was acquired on January 1, 1954, for $1,750. The estimated salvage is $250. For a taxpayer filing his returns on a calendar year basis, the annual depreciation allowances are as follows:
 
-| Year                                                                                                                              | Cost or other basis less salvage | Fraction1 | Allowable depreciation | Depreciation reserve |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------- | ---------------------- | -------------------- |
-| 1954                                                                                                                              | $1,500                           | 5⁄15      | $500                   | $500                 |
-| 1955                                                                                                                              | 1,500                            | 4⁄15      | 400                    | 900                  |
-| 1956                                                                                                                              | 1,500                            | 3⁄15      | 300                    | 1,200                |
-| 1957                                                                                                                              | 1,500                            | 2⁄15      | 200                    | 1,400                |
-| 1958                                                                                                                              | 1,500                            | 1⁄15      | 100                    | 1,500                |
-| Unrecovered value (salvage)                                                                                                       |                                  |           |                        | $250                 |
-| 1 The denominator of the fraction is the sum of the digits representing the years of useful life, i.e., 5, 4, 3, 2, and 1, or 15. |                                  |           |                        |                      |
+Depreciation Computations on a Group Account Under Remaining Life Plan
+| Year12                                                                                                                             | Cost or other basis less salvage | Fraction1 | Allowable depreciation | Depreciation reserve |
+| ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------- | ---------------------- | -------------------- |
+| 1954515                                                                                                                            | $1,500                           | 5⁄15      | $500                   | $500                 |
+| 1955                                                                                                                               | 1,500                            | 4⁄15      | 400                    | 900                  |
+| 1956                                                                                                                               | 1,500                            | 3⁄15      | 300                    | 1,200                |
+| 1957                                                                                                                               | 1,500                            | 2⁄15      | 200                    | 1,400                |
+| 1958                                                                                                                               | 1,500                            | 1⁄15      | 100                    | 1,500                |
+| Unrecovered value (salvage)                                                                                                        |                                  |           |                        | $250                 |
+| 1 The denominator of the fraction is the sum of the digits representing the years of useful life, i.e., 5, 4, 3, 2, and 1, or 15.2 |                                  |           |                        |                      |
 
-Example 2.Assume in connection with an asset acquired in 1954 that three-fourths of a year's depreciation is allowable in that year. The following illustrates a reasonable method of allocating depreciation:
+A calendar year taxpayer maintains a group account to which a five-year life is applicable. Original investment, additions, retirements, and salvage recoveries are the same as those set forth in example (3) of paragraph (b) of § 1.167(b)-1. Example 2.Assume in connection with an asset acquired in 1954 that three-fourths of a year's depreciation is allowable in that year. The following illustrates a reasonable method of allocating depreciation:
 
 |          | Depreciation for 12 months | Allowable depreciation |
 | -------- | -------------------------- | ---------------------- |

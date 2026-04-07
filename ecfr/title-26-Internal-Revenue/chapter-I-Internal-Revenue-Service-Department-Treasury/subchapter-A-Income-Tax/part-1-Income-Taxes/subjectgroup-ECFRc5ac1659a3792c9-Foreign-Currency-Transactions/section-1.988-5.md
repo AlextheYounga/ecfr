@@ -96,9 +96,9 @@ then the Commissioner may treat the qualifying debt instrument and the hedge as 
 
 (iv) *Examples.* The following examples illustrate the application of this paragraph (a)(9).
 
-Example 1.(i) K is a U.S. corporation with the U.S. dollar as its functional currency. On December 24, 1989, K agrees to close the following transaction on December 31, 1989. K will borrow from an unrelated party on December 31, 1989, 100 British pounds (£) for 3 years at a 10 percent rate of interest, payable annually, with no principal payment due until the final installment. K will also enter into a currency swap contract with an unrelated counterparty under the terms of which—
+Example 1.(i) K is a U.S. corporation with the U.S. dollar as its functional currency. On December 24, 1989, K agrees to close the following transaction on December 31, 1989. K will borrow from an unrelated party on December 31, 1989, 100 British pounds (£) for 3 years at a 10 percent rate of interest, payable annually, with no principal payment due until the final installment. K will also enter into a currency swap contract with an unrelated counterparty under the terms of which— *Example 2*
 
-(a) K will swap, on December 31, 1989, the £100 obtained from the borrowing for $100; and
+(a) K will swap, on December 31, 1989, the £100 obtained from the borrowing for $100; and*Example 6*
 
 (b) K will exchange dollars for pounds pursuant to the following table in order to obtain the pounds necessary to make payments on the pound borrowing:
 
@@ -122,7 +122,7 @@ Example 1.(i) K is a U.S. corporation with the U.S. dollar as its functional cur
 
 (E) K must allocate and apportion its interest expense with respect to the synthetic dollar borrowing under the rules of §§ 1.861-8T through 1.861-12T.
 
-Example 2.(i) K, a U.S. corporation, has the U.S. dollar as its functional currency. On December 24, 1989, when the spot rate for Swiss francs (Sf) is Sf1 = $1, K enters into a forward contract to purchase Sf100 in exchange for $100.04 for delivery on December 31, 1989. The Sf100 are to be used for the purchase of a franc denominated debt instrument on December 31, 1989. The instrument will have a term of 3 years, an issue price of Sf100, and will bear interest at 6 percent, payable annually, with no repayment of principal until the final installment. On December 24, 1989, K also enters into a series of forward contracts to sell the franc interest and principal payments that will be received under the terms of the franc denominated debt instrument for dollars according to the following schedule:
+That portion of the £200 pound debt instrument that is not hedged (*i.e.*, £100) is treated as a separate debt instrument subject to the rules of § 1.988-2 (b) and §§ l.861-8T through 1.861-12T.Example 2.(i) K, a U.S. corporation, has the U.S. dollar as its functional currency. On December 24, 1989, when the spot rate for Swiss francs (Sf) is Sf1 = $1, K enters into a forward contract to purchase Sf100 in exchange for $100.04 for delivery on December 31, 1989. The Sf100 are to be used for the purchase of a franc denominated debt instrument on December 31, 1989. The instrument will have a term of 3 years, an issue price of Sf100, and will bear interest at 6 percent, payable annually, with no repayment of principal until the final installment. On December 24, 1989, K also enters into a series of forward contracts to sell the franc interest and principal payments that will be received under the terms of the franc denominated debt instrument for dollars according to the following schedule:
 
 | Date              | U.S. dollars | Francs |
 | ----------------- | ------------ | ------ |

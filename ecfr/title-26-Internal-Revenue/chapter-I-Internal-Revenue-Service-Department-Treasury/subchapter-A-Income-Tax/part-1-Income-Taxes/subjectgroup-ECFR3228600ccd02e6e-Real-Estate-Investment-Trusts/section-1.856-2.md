@@ -34,7 +34,7 @@ For purposes of this subparagraph the term “receivables” means only those re
 
 Example 1.Real Estate Investment Trust M, at the close of the first quarter of its taxable year, has its assets invested as follows:
 
-|                                                                                                                                                                                                                | Percent |
+| Percent                                                                                                                                                                                                        | Percent |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | Cash                                                                                                                                                                                                           | 6       |
 | Government securities                                                                                                                                                                                          | 7       |

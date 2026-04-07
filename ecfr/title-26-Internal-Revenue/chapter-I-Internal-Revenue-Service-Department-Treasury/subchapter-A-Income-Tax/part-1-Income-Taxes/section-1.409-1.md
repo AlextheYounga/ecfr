@@ -1,6 +1,6 @@
 ##### § 1.409-1 Retirement bonds.
 
-(a) *In general.* Section 409 authorizes the issuance of bonds under the Second Liberty Bond Act the purchase price of which would be deductible under section 219. Section 409 also prescribes the tax treatment of such bonds. See paragraph (b) of this section.
+(a) *In general.* Section 409 authorizes the issuance of bonds under the Second Liberty Bond Act the purchase price of which would be deductible under section 219. Section 409 also prescribes the tax treatment of such bonds. See paragraph (b) of this section.1/2
 
 (b) *Income tax treatment of bonds*—(1) *General rule.* Except as provided in paragraph (b)(2) of this section, the entire proceeds upon redemption of a retirement bond described in section 409(a) shall be included in the gross income of the taxpayer entitled to such proceeds. If a bond has not been tendered for redemption by the registered owner before the close of the taxable year in which he attains age 70 1/2, he must include in his gross income for such taxable year the amount of the proceeds he would have received if the bond had been redeemed at age 70 1/2. The provisions of sections 72 and 1232 do not apply to a retirement bond.
 

@@ -4,7 +4,7 @@ This section lists the table of contents for §§ 1.6655-1 through 1.6655-7.
 
 § 1.6655-1 Addition to the tax in the case of a corporation.
 
-(a) In general.
+(a) In general.*1*
 
 (b) Amount of underpayment.
 

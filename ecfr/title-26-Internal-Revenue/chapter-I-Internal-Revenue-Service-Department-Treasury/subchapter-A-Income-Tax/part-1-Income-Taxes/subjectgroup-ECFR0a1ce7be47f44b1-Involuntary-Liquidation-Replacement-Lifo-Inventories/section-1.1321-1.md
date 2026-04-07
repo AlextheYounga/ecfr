@@ -1,8 +1,8 @@
 ##### § 1.1321-1 Involuntary liquidation of lifo inventories.
 
-(a) Section 22(d)(6)(B) of the Internal Revenue Code of 1939 provides as follows:
+(a) Section 22(d)(6)(B) of the Internal Revenue Code of 1939 provides as follows:*enemy*
 
-Sec. 22. Gross income. \* \* \*
+Sec. 22. Gross income. \* \* \**Involuntary liquidation and replacement of inventory.*
 
 (d) \* \* \*
 

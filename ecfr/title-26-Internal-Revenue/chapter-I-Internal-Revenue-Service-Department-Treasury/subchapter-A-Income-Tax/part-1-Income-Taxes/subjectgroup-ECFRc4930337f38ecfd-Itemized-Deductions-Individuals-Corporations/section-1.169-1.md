@@ -32,7 +32,7 @@ Example 1.On September 30, 1970, the X Corporation, which uses the calendar year
 | December: $116,000 (that is, $118,000 minus $2,000) divided by 58 | 2,000  |
 | Total amortization deduction for 1970                             | 6,000  |
 
-Example 2.Assume the same facts as in example (1). Assume further that on May 20, 1972, X properly files notice of its election to discontinue the amortization deductions with the month of June 1972. The adjusted basis of the facility as of June 1, 1972, is $80,000, computed as follows:
+Beginning as of June 1, 1972, the deduction for depreciation under section 167 is allowable with respect to the property on its adjusted basis of $80,000.Example 2.Assume the same facts as in example (1). Assume further that on May 20, 1972, X properly files notice of its election to discontinue the amortization deductions with the month of June 1972. The adjusted basis of the facility as of June 1, 1972, is $80,000, computed as follows:
 
 | Yearly amortization deductions:                                               |         |
 | 1970 (as computed in example (1))                                             | $6,000  |

@@ -24,6 +24,15 @@
 
 Example.Individual United States shareholder A owns 60 percent of the only class of stock in foreign corporation M, the basis of which is $10,000. Both A and M Corporation use the calendar year as a taxable year. In each of the taxable years 1964, 1965, and 1966, M Corporation has $1,000 of earnings and profits and $1,000 of subpart F income. With respect to each such amount, A includes $600 in gross income under section 951(a), makes the election under section 962, and pays a United States tax of $132 (22 percent of $600). Accordingly, A increases the basis of his stock in M corporation under section 961(a) by $132 in each of the years 1964, 1965, and 1966, and thus on December 31, 1966, the adjusted basis for A's stock in M Corporation is $10,396. In 1967, M Corporation is completely liquidated (in a transaction described in section 331) and A receives $13,800, consisting of $1,800 of earnings and profits attributable to the amounts which A included in gross income under section 951(a) in 1964, 1965, and 1966, and $12,000 attributable to the other assets of M Corporation. No amount of the $3,404 gain realized by A on such distribution ($13,800 minus $10,396) may be excluded from gross income under section 959(a)(1). However, section 962(d) will not prevent any part of such $3,404 from being treated as a capital gain under section 331.
 
+Classification of Earnings and Profits for Purposes of § 1.962-3
+| Year | Section 959(c)(1) | Section 959(c)(2) | Section 959 (c)(3) |
+| ---- | ----------------- | ----------------- | ------------------ |
+| 1963 | $25               | $11               | $39                |
+| 1964 | 75                |                   |                    |
+| 1965 |                   |                   |                    |
+| 1966 |                   |                   |                    |
+| 1967 |                   |                   |                    |
+
 (5) *Illustration.* The application of this paragraph may be illustrated by the following example:
 
 Example.(a) M, a controlled foreign corporation is organized on January 1, 1963; A and B, individual United States shareholders, own 50 percent and 25 percent, respectively, of the only class of stock in M Corporation. Corporation M, A, and B use the calendar year as a taxable year, and M Corporation is a controlled foreign corporation throughout the period here involved. For the taxable years 1963, 1964, 1965, and 1966, A and B must include amounts in gross income under section 951(a) with respect to M Corporation. For the years 1963, 1965, and 1966, A makes the election under section 962. On January 1, 1967, B sells his 25-percent interest in M Corporation to A; A satisfies the requirements of paragraph (d) of § 1.959-1 so as to qualify as B's successor in interest. As of December 31, 1967, M Corporation's accumulated earnings and profits of $675 (before taking into account distributions made in 1967) applicable to A's interest (including his interest as B's successor in interest) in such corporation are classified under § 1.959-3 and this section for purposes of section 962(d) as follows:

@@ -1,6 +1,6 @@
 ##### § 1.472-2 Requirements incident to adoption and use of LIFO inventory method.
 
-Except as otherwise provided in § 1.472-1 with respect to raw material computations, with respect to retail inventory computations, and with respect to other methods of computation established to the satisfaction of the Commissioner as reasonably adapted to the purpose and intent of section 472, and in § 1.472-8 with respect to the “dollar-value” method, the adoption and use of the LIFO inventory method is subject to the following requirements:
+Except as otherwise provided in § 1.472-1 with respect to raw material computations, with respect to retail inventory computations, and with respect to other methods of computation established to the satisfaction of the Commissioner as reasonably adapted to the purpose and intent of section 472, and in § 1.472-8 with respect to the “dollar-value” method, the adoption and use of the LIFO inventory method is subject to the following requirements:*a*
 
 (a) The taxpayer shall file an application to use such method specifying with particularity the goods to which it is to be applied.
 
@@ -24,7 +24,7 @@ Except as otherwise provided in § 1.472-1 with respect to raw material computat
 
 (iii) The application of subdivisions (i) and (ii) of this subparagraph may be illustrated by the following examples:
 
-Example 1.Suppose that the taxpayer adopts the LIFO inventory method for the taxable year 1957 with an opening inventory of 10 units at 10 cents per unit, that it makes 1957 purchases of 10 units as follows:
+Example 1.Suppose that the taxpayer adopts the LIFO inventory method for the taxable year 1957 with an opening inventory of 10 units at 10 cents per unit, that it makes 1957 purchases of 10 units as follows: *a*
 
 | January | 1 at | $0.11= | $0.11 |
 | April   | 2 at | .12=   | .24   |
@@ -52,6 +52,8 @@ or (*c*) At an annual average—
 |          | 10 at | $0.10 | $1.00 |
 | (130/10) | 5 at  | .13   | .65   |
 | Totals   | 15    |       | 1.65  |
+
+(*a*) In case the increase for 1957 was taken by reference to the most recent purchases—
 
 Example 2.Suppose that the taxpayer's closing inventory for 1958, the year following that involved in Example 1 of this subdivision, reflects an inventory decrease for the year, and not an increase; suppose that there is, accordingly, a 1958 closing inventory of 13 units. Inasmuch as the decreased closing inventory will be determined wholly by reference to the 15 units reflected in the opening inventory for the year, and will be taken “in the order of acquisition” pursuant to section 472 (b) (1), and inasmuch as the character of the taxpayer's opening inventory for 1958 will be dependent upon its method of valuing its 5-unit inventory increase for 1957, the closing inventory for 1958 will be computed as follows:
 

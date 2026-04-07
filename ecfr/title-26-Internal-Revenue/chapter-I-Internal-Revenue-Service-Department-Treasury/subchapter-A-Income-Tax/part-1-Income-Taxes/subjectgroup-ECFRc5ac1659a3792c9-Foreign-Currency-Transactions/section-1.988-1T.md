@@ -1,6 +1,6 @@
 ##### § 1.988-1T Certain definitions and special rules (temporary).
 
-(a)(1) through (a)(2) \[Reserved\] For further guidance, see § 1.988-1(a)(1) through (2).
+(a)(1) through (a)(2) \[Reserved\] For further guidance, see § 1.988-1(a)(1) through (2).*Specified owner functional currency transactions of a section 987 QBU not treated as section 988 transactions.*
 
 (3) *Specified owner functional currency transactions of a section 987 QBU not treated as section 988 transactions.* Specified owner functional currency transactions, as defined in § 1.987-3T(b)(4)(ii), held by a section 987 QBU are not treated as section 988 transactions. Thus, no currency gain or loss shall be recognized by a section 987 QBU under section 988 with respect to such transactions.
 

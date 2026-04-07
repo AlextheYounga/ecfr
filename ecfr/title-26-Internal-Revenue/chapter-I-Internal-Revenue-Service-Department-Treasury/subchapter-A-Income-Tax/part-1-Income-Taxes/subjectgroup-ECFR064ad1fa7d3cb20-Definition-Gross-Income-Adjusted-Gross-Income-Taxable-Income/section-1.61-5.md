@@ -24,7 +24,7 @@
 
 Example 1.On July 1, 1959, P, a patron of a cooperative association, purchases a tractor for use in his farming business from such association for $2,200. The tractor has an estimated useful life of five years and an estimated salvage value of $200. P files his income tax returns on a calendar year basis and claims depreciation on the tractor for the year 1959 of $200 pursuant to his use of the straight-line method at the rate of $400 per year. On July 1, 1960, the cooperative association allocates to P with respect to his purchase of the tractor a dividend of $300 in cash. P will reduce his depreciation allowance with respect to the tractor for 1960 (and subsequent taxable years) to $333.33, determined as follows:
 
-| Cost of tractor, July 1, 1959                                         | $2,200 |  |
+| Cost of tractor, July 1, 195912                                       | $2,200 |  |
 | Less:                                                                 |        |  |
 | Depreciation for 1959 (6 mos.)                                        | $200   |  |
 | Adjustment as of Jan. 1, 1960, for cash patronage dividend            | 300    |  |

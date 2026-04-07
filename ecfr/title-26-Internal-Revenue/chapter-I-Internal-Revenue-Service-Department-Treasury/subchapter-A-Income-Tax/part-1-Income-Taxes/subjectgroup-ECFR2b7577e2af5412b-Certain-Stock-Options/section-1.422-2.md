@@ -42,9 +42,9 @@
 
 (6) The following examples illustrate the principles of this paragraph (b):
 
-Example 1. Stockholder approval.(i) S Corporation is a subsidiary of P Corporation, a publicly traded corporation. On January 1, 2006, S adopts a plan under which incentive stock options for S stock are granted to S employees.
+Example 1. Stockholder approval.(i) S Corporation is a subsidiary of P Corporation, a publicly traded corporation. On January 1, 2006, S adopts a plan under which incentive stock options for S stock are granted to S employees. *Example 1*
 
-(ii) To meet the requirements of paragraph (b)(2) of this section, the plan must be approved by the stockholders of S (in this case, P) within 12 months before or after January 1, 2006.
+(ii) To meet the requirements of paragraph (b)(2) of this section, the plan must be approved by the stockholders of S (in this case, P) within 12 months before or after January 1, 2006.*Example 1,*
 
 (iii) Assume the same facts as in paragraph (i) of this *Example 1,* except that the plan was adopted on January 1, 2010. Assume further that the plan was approved by the stockholders of S (in this case, P) on March 1, 2010. On January 1, 2012, S changes the plan to provide that incentive stock options for P stock will be granted to S employees under the plan. Because there is a change in the stock available for grant under the plan, the change is considered the adoption of a new plan that must be approved by the stockholder of S (in this case, P) within 12 months before or after January 1, 2012.
 

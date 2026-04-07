@@ -10,7 +10,15 @@
 
 (iii) The provisions of subdivision (ii) of this subparagraph may be illustrated by the following examples:
 
-Example 1.Corporation *A,* an electric utility company, wishes to have the election provided by section 167(l)(4)(A) apply only with respect to its production plant. A statement that the election shall apply only with respect to production plant will be sufficient to include within the election all of the taxpayer's qualified production plant of any kind. All public utility property of the taxpayer other than production plant will not be subject to the election.Example 2.Corporation *B,* an electric utility company, wishes to have the election provided by section 167(l)(4)(A) apply only with respect to nuclear production plant. A statement which clearly indicates that only nuclear production plant will be included in the election will be sufficient to exclude from the election all public utility property other than nuclear production plant.
+Example 1.Corporation *A,* an electric utility company, wishes to have the election provided by section 167(l)(4)(A) apply only with respect to its production plant. A statement that the election shall apply only with respect to production plant will be sufficient to include within the election all of the taxpayer's qualified production plant of any kind. All public utility property of the taxpayer other than production plant will not be subject to the election.
+
+|                                                                | Million |
+| -------------------------------------------------------------- | ------- |
+| Step 1. Aggregate cost of flow-through additions               | $4.0    |
+| Step 2. Cost of all flow-through retirements                   | 1.5     |
+| Step 3. Figure reached in step 1 less figure reached in step 2 | 2.5     |
+
+The amount of qualified public utility property to which section 167(l)(2)(C) will not apply is $2.5 million. Pursuant to the provisions of paragraph (c)(2) of this section, the amount of qualified public utility property would be allocated to the basis for depreciation (as defined in section 167(g)) of an asset with a total basis for depreciation of $2 million as follows: $2.5 million (figure in step 3)/$4 million (figure in step 1) = Qualified portion of basis of asset/$2 million Qualified portion of basis of asset = $1.25 million.Example 2.Corporation *B,* an electric utility company, wishes to have the election provided by section 167(l)(4)(A) apply only with respect to nuclear production plant. A statement which clearly indicates that only nuclear production plant will be included in the election will be sufficient to exclude from the election all public utility property other than nuclear production plant.
 
 (b) *Qualified public utility property*—(1) *Definition.* For purposes of this section the term “qualified public utility property” means post-1969 public utility property to which section 167(l)(2)(C) applies, or would apply if the election described in section 167(l)(4)(A) had not been made, to the extent that such property constitutes property which increases the productive or operational capacity of the taxpayer with respect to the goods or services described in section 167(l)(3)(A) and does not represent the replacement of existing capacity. In the event that particular assets which are post-1969 public utility property both replace existing public utility property and increase the productive or operational capacity of the taxpayer, only that portion of each such asset which is properly allocable, pursuant to the provisions of subparagraph (3)(v) of this paragraph or paragraph (c)(2) of this section (as the case may be), to increasing the productive or operational capacity of the taxpayer shall be qualified public utility property.
 
@@ -24,7 +32,7 @@ Example 1.Corporation *A,* an electric utility company, wishes to have the elect
 
 (iv) The provisions of this subparagraph may be illustrated by the following table which assumes that the taxpayer's adjusted capacity as of January 1, 1970, was 5,000 units:
 
-| 1                                                                                                                          | 2    | 3   | 4     | 5    | 6    | 7   |
+| 11                                                                                                                         | 2    | 3   | 4     | 5    | 6    | 7   |
 | -------------------------------------------------------------------------------------------------------------------------- | ---- | --- | ----- | ---- | ---- | --- |
 | 1970                                                                                                                       | 1000 | 700 | 300   | 5000 | 5300 | 300 |
 | 1971                                                                                                                       | 300  | 500 | (200) | 5300 | 5100 |     |
@@ -38,6 +46,8 @@ Example 1.Corporation *A,* an electric utility company, wishes to have the elect
 (v) The qualified portion of the basis for depreciation (as defined in section 167(g)) of each asset or group of assets (if group or composite accounting is used by the taxpayer) subject to the election shall be determined using the following ratio:
 
 Qualified portion of basis of asset ÷ Total basis of asset = Units of qualified additions computed in column 7 on chart ÷ Units of capacity of additions computed in column 2 on chart.
+
+*Step 1.* Find the total cost (within the meaning of section 1012) to the taxpayer of additions during the taxable year of all post-1969 public utility property with respect to which section 167(l)(2)(C) would apply if the election had not been made.
 
 (c) *Formula method of determining amount of property subject to election*—(1) *In general.* The following formula method may be used to determine the amount of qualified public utility property:
 

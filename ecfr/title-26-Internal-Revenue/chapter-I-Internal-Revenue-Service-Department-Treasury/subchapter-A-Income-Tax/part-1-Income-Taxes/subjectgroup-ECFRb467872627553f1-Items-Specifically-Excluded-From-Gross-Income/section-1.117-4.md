@@ -1,6 +1,6 @@
 ##### § 1.117-4 Items not considered as scholarships or fellowship grants.
 
-The following payments or allowances shall not be considered to be amounts received as a scholarship or a fellowship grant for the purpose of section 117:
+The following payments or allowances shall not be considered to be amounts received as a scholarship or a fellowship grant for the purpose of section 117:*Educational and training allowances to veterans.*
 
 (a) *Educational and training allowances to veterans.* Educational and training allowances to a veteran pursuant to section 400 of the Servicemen's Readjustment Act of 1944 (58 Stat. 287) or pursuant to 38 U.S.C. 1631 (formerly section 231 of the Veterans' Readjustment Assistance Act of 1952).
 

@@ -4,14 +4,17 @@ The rules applicable to a trust required to distribute all of its income current
 
 Example.(a) Under the terms of a simple trust all of the income is to be distributed equally to beneficiaries A and B and capital gains are to be allocated to corpus. The trust and both beneficiaries file returns on the calendar year basis. No provision is made in the governing instrument with respect to depreciation. During the taxable year 1955, the trust had the following items of income and expense:
 
-| Rents                                                | $25,000 |
-| Dividends of domestic corporations                   | 50,000  |
-| Tax-exempt interest on municipal bonds               | 25,000  |
-| Long-term capital gains                              | 15,000  |
-| Taxes and expenses directly attributable to rents    | 5,000   |
-| Trustee's commissions allocable to income account    | 2,600   |
-| Trustee's commissions allocable to principal account | 1,300   |
-| Depreciation                                         | 5,000   |
+|                                                      | Rents   | Dividends | Tax-exempt interest | Total |
+| ---------------------------------------------------- | ------- | --------- | ------------------- | ----- |
+| Rents1                                               | $25,000 |           |                     |       |
+| Dividends of domestic corporations                   | 50,000  |           |                     |       |
+| Tax-exempt interest on municipal bonds               | 25,000  |           |                     |       |
+| Long-term capital gains                              | 15,000  |           |                     |       |
+| Taxes and expenses directly attributable to rents    | 5,000   |           |                     |       |
+| Trustee's commissions allocable to income account    | 2,600   |           |                     |       |
+| Trustee's commissions allocable to principal account | 1,300   |           |                     |       |
+| Depreciation                                         | 5,000   |           |                     |       |
+| 1 Distributable net income.                          |         |           |                     |       |
 
 (b) The income of the trust for fiduciary accounting purposes is $92,400, computed as follows:
 

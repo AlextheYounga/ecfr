@@ -2,7 +2,7 @@
 
 (a) *Examples.* The provisions of section 851 may be illustrated by the following examples:
 
-Example 1.(i) Investment Company W at the close of its first quarter of its taxable year has its assets invested as follows:
+Example 1.(i) Investment Company W at the close of its first quarter of its taxable year has its assets invested as follows: *See*
 
 |                                                                                               | Percent |
 | --------------------------------------------------------------------------------------------- | ------- |

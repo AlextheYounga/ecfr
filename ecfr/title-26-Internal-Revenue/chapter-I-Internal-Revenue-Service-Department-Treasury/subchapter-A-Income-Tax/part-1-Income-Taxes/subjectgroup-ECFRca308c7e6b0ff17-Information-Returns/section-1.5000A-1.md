@@ -24,7 +24,7 @@
 
 (C) *Examples.* The following examples illustrate the provisions of this paragraph (c)(2)(ii). In each example the taxpayer's taxable year is a calendar year.
 
-Example 1. Taxpayers adopting a child.(i) E and F, married individuals filing a joint return, initiate proceedings for the legal adoption of a 2-year old child, G, in January 2016. On May 15, 2016, G becomes the adopted child (within the meaning of section 152(f)(1)(B)) of E and F, and resides with them for the remainder of 2016. Prior to the adoption, G resides with H, an unmarried individual, with H providing all of G's support. For 2016 G meets all requirements under section 152 to be E and F's dependent, and not H's dependent.
+Example 1. Taxpayers adopting a child.(i) E and F, married individuals filing a joint return, initiate proceedings for the legal adoption of a 2-year old child, G, in January 2016. On May 15, 2016, G becomes the adopted child (within the meaning of section 152(f)(1)(B)) of E and F, and resides with them for the remainder of 2016. Prior to the adoption, G resides with H, an unmarried individual, with H providing all of G's support. For 2016 G meets all requirements under section 152 to be E and F's dependent, and not H's dependent. *Example 1,*
 
 (ii) Under paragraph (c)(2) of this section, E and F are not liable for a shared responsibility payment attributable to G for January through May of 2016, but are liable for a shared responsibility payment attributable to G, if any, for June through December of 2016. H is not liable for a shared responsibility payment attributable to G for any month in 2016, because G is not H's dependent for 2016 under section 152.
 

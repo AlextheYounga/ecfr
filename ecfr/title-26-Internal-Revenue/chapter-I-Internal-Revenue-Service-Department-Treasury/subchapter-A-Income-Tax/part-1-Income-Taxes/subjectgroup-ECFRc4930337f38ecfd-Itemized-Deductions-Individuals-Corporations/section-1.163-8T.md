@@ -20,7 +20,28 @@
 
 (ii) *Examples.* The following examples illustrate the application of this paragraph (a)(4):
 
-Example 1.Taxpayer A, an individual, incurs interest expense allocated under the rules of this section to the following expenditures: $6,000 Passive activity expenditure. $4,000 Personal expenditure. The $6,000 interest expense allocated to the passive activity expenditure is taken into account for purposes of section 469 in computing A's income or loss from the activity to which such interest relates. Pursuant to section 163(h), A may not deduct the $4,000 interest expense allocated to the personal expenditure (except to the extent such interest is qualified residence interest, within the meaning of section 163(h)(3)).Example 2.(i) Corporation M, a closely held C corporation (within the meaning of section 469 (j)(1)) has $10,000 of interest expense for a taxable year. Under the rules of this section, M's interest expense is allocated to the following expenditures: $2,000 Passive activity expenditure. $3,000 Portfolio expenditure. $5,000 Other expenditures. (ii) Under section 163(d)(3)(D) and this paragraph (a)(4), the $2,000 interest expense allocated to the passive activity expenditure is taken into account in computing M's passive activity loss for the taxable year, but, pursuant to section 469(e)(1) and this paragraph (a)(4), the interest expense allocated to the portfolio expenditure and the other expenditures is not taken into account for such purposes.
+Example 1.Taxpayer A, an individual, incurs interest expense allocated under the rules of this section to the following expenditures: $6,000 Passive activity expenditure. $4,000 Personal expenditure. The $6,000 interest expense allocated to the passive activity expenditure is taken into account for purposes of section 469 in computing A's income or loss from the activity to which such interest relates. Pursuant to section 163(h), A may not deduct the $4,000 interest expense allocated to the personal expenditure (except to the extent such interest is qualified residence interest, within the meaning of section 163(h)(3)).
+
+(iii) Since M is a closely held C corporation, its passive activity loss is allowable under section 469(e)(2)(A) as a deduction from net active income. Under section 469(e)(2)(B) and this paragraph (a)(4), the $5,000 interest expense allocated to other expenditures is taken into account in computing M's net active income, but the interest expense allocated to the passive activity expenditure and the portfolio expenditure is not taken into account for such purposes.
+
+| Year | Amount                |        | Expenditure              |
+| ---- | --------------------- | ------ | ------------------------ |
+| 1988 | $10,000 × .11         | $1,100 | Passive activity.        |
+| 1989 | 11,100 × .11          | 1,221  | Passive activity.        |
+| 1990 | 12,321 × .11 = 1,355  |        |                          |
+|      | 1,355 × 2,321/12,321  | 255    | Passive activity.        |
+|      | 1,355 × 10,000/12,321 | 1,100  | Former passive activity. |
+|      |                       | 1,355  |                          |
+| 1991 | 13,676 × .11 = 1,504  |        |                          |
+|      | 1,504 × 2,576/13,676  | 283    | Passive activity.        |
+|      | 1,504 × 11,100/13,676 | 1,221  | Former passive activity. |
+|      |                       | 1,504  |                          |
+| 1992 | 15,180 × .11 = 1,670  |        |                          |
+|      | 1,670 × 2,859/15,180  | 315    | Passive activity.        |
+|      | 1,670 × 12,321/15,180 | 1,355  | Former passive activity. |
+|      |                       | 1,670  |                          |
+
+Example 2.(i) Corporation M, a closely held C corporation (within the meaning of section 469 (j)(1)) has $10,000 of interest expense for a taxable year. Under the rules of this section, M's interest expense is allocated to the following expenditures: $2,000 Passive activity expenditure. $3,000 Portfolio expenditure. $5,000 Other expenditures. (ii) Under section 163(d)(3)(D) and this paragraph (a)(4), the $2,000 interest expense allocated to the passive activity expenditure is taken into account in computing M's passive activity loss for the taxable year, but, pursuant to section 469(e)(1) and this paragraph (a)(4), the interest expense allocated to the portfolio expenditure and the other expenditures is not taken into account for such purposes.
 
 (iii) Since M is a closely held C corporation, its passive activity loss is allowable under section 469(e)(2)(A) as a deduction from net active income. Under section 469(e)(2)(B) and this paragraph (a)(4), the $5,000 interest expense allocated to other expenditures is taken into account in computing M's net active income, but the interest expense allocated to the passive activity expenditure and the portfolio expenditure is not taken into account for such purposes.
 

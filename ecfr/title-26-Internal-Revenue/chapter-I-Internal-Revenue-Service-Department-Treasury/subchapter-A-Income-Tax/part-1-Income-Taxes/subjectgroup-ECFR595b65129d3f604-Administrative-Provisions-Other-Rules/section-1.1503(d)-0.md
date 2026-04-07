@@ -4,7 +4,7 @@ This section lists the captions contained in §§ 1.1503(d)-1 through 1.1503(d)-
 
 § 1.1503(d)-1 Definitions and special rules for filings under section 1503(d).
 
-(a) In general.
+(a) In general.*2*
 
 (b) Definitions.
 

@@ -4,7 +4,7 @@ This section lists the captions contained in §§ 1.1446-1 through 1.1446-7.
 
 § 1.1446-1 Withholding tax on foreign partners' share of effectively connected taxable income.
 
-(a) In general.
+(a) In general.*1*
 
 (b) Steps in determining 1446 tax obligation.
 

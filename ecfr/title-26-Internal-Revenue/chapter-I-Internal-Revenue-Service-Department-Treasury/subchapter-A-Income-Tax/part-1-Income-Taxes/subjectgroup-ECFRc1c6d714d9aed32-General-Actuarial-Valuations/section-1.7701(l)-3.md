@@ -54,6 +54,13 @@ Example 1. Decline in dividend rate.(i) *Facts.* Corporation X issues 100 shares
 
 (ii) *Analysis.* When issued, the B Stock has a dividend rate that is reasonably expected to decline from an annual rate of 11 percent of its issue price to an annual rate of 3 percent of its issue price. Since the B Stock is structured to have a declining dividend rate, the B Stock is fast-pay stock, and the A Stock is benefited stock.
 
+| Taxable period  | Interest   income | Amortizable premium | Taxable   income |
+| --------------- | ----------------- | ------------------- | ---------------- |
+| 1/1/97-12/31/97 | $8,876            | ($302)              | $8,574           |
+| 1/1/98-12/31/98 | 8,145             | (293)               | 7,852            |
+| 1/1/99-12/31/99 | 7,348             | (281)               | 7,067            |
+| Total           | 24,369            | (876)               | 23,493           |
+
 Example 2. Issued at a premium.(i) *Facts.* The facts are the same as in *Example 1* of this paragraph (e) except that a share of B Stock is reasonably expected to pay an annual $110 dividend as long as it is outstanding, and Corporation X has the right to redeem the B Stock for $400 a share at the end of year 10.
 
 (ii) *Analysis.* The B Stock is structured so that the issue price of the B Stock ($1,000) exceeds (by more than a de minimis amount) the price at which the holder can be compelled to dispose of the stock ($400). Thus, the B Stock is fast-pay stock, and the A Stock is benefited stock.

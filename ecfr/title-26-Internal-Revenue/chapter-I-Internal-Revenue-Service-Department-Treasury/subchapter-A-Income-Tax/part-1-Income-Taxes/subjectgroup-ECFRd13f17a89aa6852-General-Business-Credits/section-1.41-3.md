@@ -1,6 +1,6 @@
 ##### § 1.41-3 Base amount for taxable years beginning on or after January 3, 2001.
 
-(a) *New taxpayers.* If, with respect to any credit year, the taxpayer has not been in existence for any previous taxable year, the average annual gross receipts of the taxpayer for the four taxable years preceding the credit year shall be zero. If, with respect to any credit year, the taxpayer has been in existence for at least one previous taxable year, but has not been in existence for four taxable years preceding the taxable year, then the average annual gross receipts of the taxpayer for the four taxable years preceding the credit year shall be the average annual gross receipts for the number of taxable years preceding the credit year for which the taxpayer has been in existence.
+(a) *New taxpayers.* If, with respect to any credit year, the taxpayer has not been in existence for any previous taxable year, the average annual gross receipts of the taxpayer for the four taxable years preceding the credit year shall be zero. If, with respect to any credit year, the taxpayer has been in existence for at least one previous taxable year, but has not been in existence for four taxable years preceding the taxable year, then the average annual gross receipts of the taxpayer for the four taxable years preceding the credit year shall be the average annual gross receipts for the number of taxable years preceding the credit year for which the taxpayer has been in existence.Federal Register.
 
 (b) *Special rules for short taxable years*—(1) *Short credit year.* If a credit year is a short taxable year, then the base amount determined under section 41(c)(1) (but not section 41(c)(2)) shall be modified by multiplying that amount by the number of months in the short taxable year and dividing the result by 12.
 
@@ -30,7 +30,7 @@
 
 (2) *Illustrations.* The following examples illustrate the application of the consistency rule of paragraph (d)(1) of this section:
 
-Example 1.(i) X, an accrual method taxpayer using the calendar year as its taxable year, incurs qualified research expenses in 2001. X wants to compute its research credit under section 41 for the tax year ending December 31, 2001. As part of the computation, X must determine its fixed-base percentage, which depends in part on X's qualified research expenses incurred during the fixed-base period, the taxable years beginning after December 31, 1983, and before January 1, 1989.
+Example 1.(i) X, an accrual method taxpayer using the calendar year as its taxable year, incurs qualified research expenses in 2001. X wants to compute its research credit under section 41 for the tax year ending December 31, 2001. As part of the computation, X must determine its fixed-base percentage, which depends in part on X's qualified research expenses incurred during the fixed-base period, the taxable years beginning after December 31, 1983, and before January 1, 1989. *Example 1,*
 
 (ii) During the fixed-base period, X reported the following amounts as qualified research expenses on its Form 6765:
 

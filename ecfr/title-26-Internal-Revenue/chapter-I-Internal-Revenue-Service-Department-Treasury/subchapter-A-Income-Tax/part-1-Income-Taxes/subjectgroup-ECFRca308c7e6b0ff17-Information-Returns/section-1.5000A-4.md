@@ -1,6 +1,6 @@
 ##### § 1.5000A-4 Computation of shared responsibility payment.
 
-(a) *In general.* For each taxable year, the shared responsibility payment imposed on a taxpayer in accordance with § 1.5000A-1(c) is the lesser of—
+(a) *In general.* For each taxable year, the shared responsibility payment imposed on a taxpayer in accordance with § 1.5000A-1(c) is the lesser of—1/12
 
 (1) The sum of the monthly penalty amounts; or
 
@@ -50,7 +50,7 @@
 
 (d) *Examples.* The following examples illustrate the provisions of this section. In each example the taxpayer's taxable year is a calendar year and all members of the taxpayer's shared responsibility family are ineligible for any of the exemptions described in § 1.5000A-3 for a month.
 
-Example 1. Unmarried taxpayer without minimum essential coverage.(i) In 2016, Taxpayer G is an unmarried individual with no dependents. G does not have minimum essential coverage for any month in 2016. G's household income is $120,000. G's applicable filing threshold is $12,000. The annual national average bronze plan premium for G is $5,000.
+Example 1. Unmarried taxpayer without minimum essential coverage.(i) In 2016, Taxpayer G is an unmarried individual with no dependents. G does not have minimum essential coverage for any month in 2016. G's household income is $120,000. G's applicable filing threshold is $12,000. The annual national average bronze plan premium for G is $5,000. *Example 1,*
 
 (ii) For each month in 2016, under paragraph (b)(2)(ii) of this section, G's applicable dollar amount is $695. Under paragraph (b)(2)(i) of this section, G's flat dollar amount is $695 (the lesser of $695 and $2,085 ($695 × 3)). Under paragraph (b)(3) of this section, G's excess income amount is $2,700 (($120,000 − $12,000) × 0.025). Therefore, under paragraph (b)(1) of this section, the monthly penalty amount is $225 (the greater of $58 ($695/12) or $225 ($2,700/12)).
 

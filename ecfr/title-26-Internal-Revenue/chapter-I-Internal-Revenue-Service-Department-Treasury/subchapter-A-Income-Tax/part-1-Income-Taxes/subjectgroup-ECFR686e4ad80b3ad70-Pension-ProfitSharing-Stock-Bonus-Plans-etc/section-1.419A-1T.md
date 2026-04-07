@@ -4,7 +4,7 @@ Q-1: What does the transition rule under section 419A(f)(7) provide?
 
 A-1: Section 419A(f)(7) provides that, in the case of a welfare benefit fund that was in existence on July 18, 1984, the account limit (as determined under section 419A(c)) for each of the first four taxable years of the fund that relate to taxable years of the employer ending after December 31, 1985 (or, if applicable under paragraph (b) of Q&A-2 of § 1.419-1T, taxable years of the employer beginning after the termination of the last of the collective bargaining agreements pursuant to which the plan is maintained) shall be increased by the following percentages of the “existing excess reserve amount”:
 
-|                     | Percent |
+| Percent             | Percent |
 | ------------------- | ------- |
 | First taxable year  | 80      |
 | Second taxable year | 60      |

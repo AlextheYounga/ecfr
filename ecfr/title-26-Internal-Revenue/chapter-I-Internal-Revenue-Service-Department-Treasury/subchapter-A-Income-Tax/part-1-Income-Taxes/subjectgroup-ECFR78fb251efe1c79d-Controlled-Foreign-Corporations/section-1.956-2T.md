@@ -1,6 +1,6 @@
 ##### § 1.956-2T Definition of United States Property (temporary).
 
-(a)(1) through (a)(3) \[Reserved\] For further guidance, see § 1.956-2(a) through (b)(1)(x).
+(a)(1) through (a)(3) \[Reserved\] For further guidance, see § 1.956-2(a) through (b)(1)(x).*1*
 
 (4) \[Reserved\]
 

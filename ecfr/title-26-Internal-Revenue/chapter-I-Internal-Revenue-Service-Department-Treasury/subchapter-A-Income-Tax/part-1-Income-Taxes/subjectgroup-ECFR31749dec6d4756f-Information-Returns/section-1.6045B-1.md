@@ -1,6 +1,6 @@
 ##### § 1.6045B-1 Returns relating to actions affecting basis of securities.
 
-(a) *In general*—(1) *Information required.* Except as provided in paragraphs (a)(4) and (5) of this section, an issuer of a specified security within the meaning of § 1.6045-1(a)(14)(i) through (iv) that takes an organizational action that affects the basis of the security must file an issuer return setting forth the following information and any other information specified in the return form and instructions:
+(a) *In general*—(1) *Information required.* Except as provided in paragraphs (a)(4) and (5) of this section, an issuer of a specified security within the meaning of § 1.6045-1(a)(14)(i) through (iv) that takes an organizational action that affects the basis of the security must file an issuer return setting forth the following information and any other information specified in the return form and instructions:Federal Register
 
 (i) *Reporting issuer.* The name and taxpayer identification number of the reporting issuer.
 

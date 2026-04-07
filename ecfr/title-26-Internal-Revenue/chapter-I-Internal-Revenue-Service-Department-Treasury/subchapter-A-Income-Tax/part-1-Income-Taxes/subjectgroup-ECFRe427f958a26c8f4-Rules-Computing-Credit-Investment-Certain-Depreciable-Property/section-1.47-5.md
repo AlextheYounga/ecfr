@@ -1,6 +1,6 @@
 ##### § 1.47-5 Estates and trusts.
 
-(a) *In general*—(1) *Disposition or cessation in hands of estate or trust.* If an estate or trust disposes of any section 38 property (or if any section 38 property otherwise ceases to be section 38 property in the hands of the estate or trust) before the close of the estimated useful life which was taken into account in computing qualified investment with respect to such property, a recapture determination shall be made with respect to the estate or trust, and each beneficiary who is treated, under § 1.48-6, as a taxpayer with respect to such property. Each such recapture determination shall be made with respect to the share of the basis (or cost) of such property taken into account by such estate or trust and such beneficiary in computing its or his each such recapture determination the actual useful life of such property shall be the period beginning with the date on which it was placed in service by the estate or trust and ending with the date of the disposition or cessation. In making a recapture determination under this subparagraph with respect to a taxpayer there shall be taken into account any prior recapture determinations made with respect to such taxpayer in connection with the same property. For definition of “recapture determination” see paragraph (a)(1) of § 1.47-1.
+(a) *In general*—(1) *Disposition or cessation in hands of estate or trust.* If an estate or trust disposes of any section 38 property (or if any section 38 property otherwise ceases to be section 38 property in the hands of the estate or trust) before the close of the estimated useful life which was taken into account in computing qualified investment with respect to such property, a recapture determination shall be made with respect to the estate or trust, and each beneficiary who is treated, under § 1.48-6, as a taxpayer with respect to such property. Each such recapture determination shall be made with respect to the share of the basis (or cost) of such property taken into account by such estate or trust and such beneficiary in computing its or his each such recapture determination the actual useful life of such property shall be the period beginning with the date on which it was placed in service by the estate or trust and ending with the date of the disposition or cessation. In making a recapture determination under this subparagraph with respect to a taxpayer there shall be taken into account any prior recapture determinations made with respect to such taxpayer in connection with the same property. For definition of “recapture determination” see paragraph (a)(1) of § 1.47-1.2/3
 
 (2) *Disposition of interest.* (i) If—
 
@@ -24,7 +24,7 @@ For the taxable year 1962 the income of XYZ Trust is $20,000, which is allocable
 
 |               |           | Useful life category |
 | ------------- | --------- | -------------------- |
-| Total bases   |           | $30,000              |
+| Total bases13 |           | $30,000              |
 |               | ($10,000) | 15,000               |
 | XYZ Trust     | ($20,000) |                      |
 | Beneficiary A | ($10,000) | 15,000               |
@@ -43,7 +43,14 @@ For the taxable year 1962, XYZ Trust and beneficiary A each had a credit earned 
 
 (ii) The actual useful life of asset No. 3 is three years and six months. The recomputed qualified investment with respect to XYZ Trust's and beneficiary A's share of the basis of asset No. 3 is zero ($15,000 share of basis multiplied by zero applicable percentage) and for the taxable year 1962, XYZ Trust's and beneficiary A's recomputed credit earned is $1,050 (7 percent of $15,000). The income tax imposed by chapter 1 of the Code on XYZ Trust and on beneficiary A for the taxable year 1965 is increased by the $1,050 decrease in his credit earned for the taxable year 1962 (that is, $2,100 original credit earned minus $1,050 recomputed credit earned).
 
-Example 2.(i) On December 3, 1964, beneficiary A sells 50 percent of his interest in the income of XYZ Trust to B, and on December 3, 1965, A sells his remaining 50 percent interest to C. In addition, on January 2, 1966, XYZ Trust sells asset No. 3 to Y Corporation.
+| Basis  | Applicable percentage | Qualified investment |
+| ------ | --------------------- | -------------------- |
+| $7,500 | 331⁄3                 | $2,500               |
+| $7,500 | 662⁄3                 | 5,000                |
+| $7,500 | 100                   | 7,500                |
+|        |                       | 15,000               |
+
+For the taxable year 1962 beneficiary A's recomputed credit earned is $1,050 (7 percent of $15,000). The income tax imposed by chapter 1 of the Code on beneficiary A for the taxable year 1964 is increased by the $1,050 decrease in his credit earned for the taxable year 1962 (that is, $2,100 original credit earned minus $1,050 recomputed credit earned). Example 2.(i) On December 3, 1964, beneficiary A sells 50 percent of his interest in the income of XYZ Trust to B, and on December 3, 1965, A sells his remaining 50 percent interest to C. In addition, on January 2, 1966, XYZ Trust sells asset No. 3 to Y Corporation.
 
 (ii) Under paragraph (a)(2) of this section, on December 3, 1964, 50 percent of the basis of each of the three items of section 38 property ceases to be section 38 property with respect to beneficiary A since immediately after the December 3, 1964, sale A's proportionate interest in the income of XYZ Trust is reduced to 50 percent of his proportionate interest in the income of XYZ Trust for the taxable year 1962. The actual useful life of the share of the bases of the section 38 properties which cease to be section 38 property with respect to A is two years and six months (that is, the period beginning with June 1, 1962, and ending with December 3, 1964). Beneficiary A's recomputed qualified investment with respect to such properties is $15,000, computed as follows:
 

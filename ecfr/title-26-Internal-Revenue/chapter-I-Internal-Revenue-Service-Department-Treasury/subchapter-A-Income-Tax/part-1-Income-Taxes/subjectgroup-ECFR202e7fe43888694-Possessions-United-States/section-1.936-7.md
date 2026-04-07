@@ -1,6 +1,6 @@
 ##### § 1.936-7 Manner of making election under section 936 (h)(5); special election for export sales; revocation of election under section 936(a).
 
-(a) The rules in this section apply for purposes of section 936(h) and also for purposes of section 934(e), where applicable.
+(a) The rules in this section apply for purposes of section 936(h) and also for purposes of section 934(e), where applicable.*Manner of making election.*
 
 (b) *Manner of making election.*
 

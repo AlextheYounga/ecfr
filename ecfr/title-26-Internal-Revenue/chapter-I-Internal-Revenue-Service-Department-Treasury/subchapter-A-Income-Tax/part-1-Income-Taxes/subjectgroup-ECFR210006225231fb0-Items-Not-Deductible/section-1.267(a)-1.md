@@ -1,6 +1,6 @@
 ##### § 1.267(a)-1 Deductions disallowed.
 
-(a) *Losses.* Except in cases of distributions in corporate liquidations, no deduction shall be allowed for losses arising from direct or indirect sales or exchanges of property between persons who, on the date of the sale or exchange, are within any one of the relationships specified in section 267(b). See § 1.267(b)-1.
+(a) *Losses.* Except in cases of distributions in corporate liquidations, no deduction shall be allowed for losses arising from direct or indirect sales or exchanges of property between persons who, on the date of the sale or exchange, are within any one of the relationships specified in section 267(b). See § 1.267(b)-1.1/2
 
 (b) *Unpaid expenses and interest.* (1) No deduction shall be allowed a taxpayer for trade or business expenses otherwise deductible under section 162, for expenses for production of income otherwise deductible under section 212, or for interest otherwise deductible under section 163:
 

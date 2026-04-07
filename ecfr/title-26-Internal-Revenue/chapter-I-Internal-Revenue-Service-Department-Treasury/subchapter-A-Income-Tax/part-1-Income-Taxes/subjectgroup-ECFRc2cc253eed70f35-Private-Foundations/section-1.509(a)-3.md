@@ -28,7 +28,7 @@
 
 (2) *Examples.* The application of this paragraph may be illustrated by the examples set forth below. For purposes of these examples, the term *general public* is defined as persons other than disqualified persons and other than persons from whom the foundation receives gross receipts in excess of the greater of $5,000 or 1 percent of its support in any taxable year, and the term *gross receipts* is limited to receipts from activities which are not unrelated trade or business (within the meaning of section 513).
 
-Example 1.For the taxable year 1970, X, an organization described in section 501(c)(3), received support of $10,000 from the following sources:
+Example 1.For the taxable year 1970, X, an organization described in section 501(c)(3), received support of $10,000 from the following sources: *Example 1*
 
 | Bureau M (a governmental bureau from which X received gross receipts for services rendered)                       | $25,000 |
 | Bureau N (a governmental bureau from which X received gross receipts for services rendered)                       | 25,000  |
@@ -44,7 +44,11 @@ Since the $25,000 received from each bureau amounts to more than the greater of 
 | General public | 20,000 |
 | Total          | 30,000 |
 
-Therefore, in making the computations required under paragraph (c), (d), or (e) of this section, only $30,000 is includible in the aggregate numerator and $100,000 is includible in the aggregate denominator of the support fraction.Example 2.For the taxable year 1970, Y, an organization described in section 501(c)(3), received support of $600,000 from the following sources:
+Therefore, in making the computations required under paragraph (c), (d), or (e) of this section, only $30,000 is includible in the aggregate numerator and $100,000 is includible in the aggregate denominator of the support fraction.
+
+(ii) In 2010, Z, a private foundation, proposes to makes a grant of $500,000 in cash to M to provide sufficient capital for M to commence its activities. Although A, the creator of Z, is one of the nine members of M's governing body, was one of M's original founders, and continues to lend his prestige to M's activities and fund raising efforts, A does not, directly or indirectly, exercise any control over M. M also receives a significant amount of support from a number of smaller contributions and pledges from other members of the general public. M charges admission to the ballet performances to the general public.
+
+Example 2.For the taxable year 1970, Y, an organization described in section 501(c)(3), received support of $600,000 from the following sources:
 
 | Bureau O (gross receipts for services rendered)       | $10,000 |
 | Bureau P (gross receipts for services rendered)       | 10,000  |

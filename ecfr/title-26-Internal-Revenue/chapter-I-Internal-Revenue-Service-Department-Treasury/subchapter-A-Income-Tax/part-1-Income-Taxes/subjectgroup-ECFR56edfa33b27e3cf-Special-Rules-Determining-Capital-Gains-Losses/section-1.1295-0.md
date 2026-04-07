@@ -4,7 +4,7 @@ This section contains a listing of the headings for §§ 1.1295-1 and 1.1295-3.
 
 § 1.1295-1 Qualified electing funds.
 
-(a) In general. \[Reserved\]
+(a) In general. \[Reserved\]*1*
 
 (b) Application of section 1295 election. \[Reserved\]
 

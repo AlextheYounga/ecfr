@@ -56,11 +56,21 @@
 
 (B) *Operations conducted through nonpassthrough entities.* For purposes of applying section 469 and the regulations thereunder, a taxpayer's activities do not include operations that a taxpayer conducts through one or more entities (other than passthrough entities). The following example illustrates the operation of this paragraph (b)(2)(ii)(B):
 
-Example.(i) A, an individual, owns stock of X, a closely held corporation (within the meaning of § 1.469-1T(g)(2)(ii) that is directly engaged in the conduct of a real estate development business. A participates in X's real estate development business, but does not own any interest in the business other than through ownership of the stock of X.
+Example.(i) A, an individual, owns stock of X, a closely held corporation (within the meaning of § 1.469-1T(g)(2)(ii) that is directly engaged in the conduct of a real estate development business. A participates in X's real estate development business, but does not own any interest in the business other than through ownership of the stock of X. *i.e.,*
 
-(ii) X is subject to section 469 (see § 1.469-1T(b)(5)) and does not hold the real estate development business through another entity. Accordingly, for purposes of section 469 and the regulations thereunder, the operations of X's real estate development business are treated as part of X's activities.
+(ii) X is subject to section 469 (see § 1.469-1T(b)(5)) and does not hold the real estate development business through another entity. Accordingly, for purposes of section 469 and the regulations thereunder, the operations of X's real estate development business are treated as part of X's activities.*i.e.,*
 
 (iii) A is also subject to section 469 (see § 1.469-1T(b)(1)), but A's only interest in the real estate development business is held through X. X is a C corporation and therefore is not a passthrough entity. Thus, for purposes of section 469 and the regulations thereunder, A's activities do not include the operations of X's real estate development business. Accordingly, A's participation in X's busines is not participation in an activity of A, and is not taken into account in determining whether A materially participates (within the meaning of § 1.469-5T) or significantly participates (within the meaning of § 1.469-1T(c)(2)) in any activity. (See, however, § 1.469-1T(g)(3) for rules under which a shareholder's participation is taken into account for purposes of determining whether a corporation materially or significantly participates in an activity.
+
+Corporation/Undertaking
+| **Partnership/Undertaking** | Department store | Restaurants | Movie Theaters |
+| --------------------------- | ---------------- | ----------- | -------------- |
+| Undertaking A               | 70%              | 20%         | 10%            |
+| Undertaking B               | 60%              | 20%         | 20%            |
+| Undertaking C               | 35%              | 35%         | 30%            |
+| Undertaking D               | 35%              | 10%         | 55%            |
+
+No other person owns an interest in more than one of the undertakings.
 
 (c) *Undertaking*—(1) *In general.* Except as otherwise provided in paragraphs (d), (e), and (k)(2)(iii) of this section, business and rental operations that constitute a separate source of income production shall be treated as a single undertaking that is separate from other undertakings.
 

@@ -1,6 +1,6 @@
 ##### § 1.1014-8 Bequest, devise, or inheritance of a remainder interest.
 
-(a)(1) Where property is transferred for life, with remainder in fee, and the remainderman dies before the life tenant, no adjustment is made to the uniform basis of the property on the death of the remainderman (see paragraph (a) of § 1.1014-4). However, the basis of the remainderman's heir, legatee, or devisee for the remainder interest is determined by adding to (or subtracting from) the part of the adjusted uniform basis assigned to the remainder interest (determined in accordance with the principles set forth in §§ 1.1014-4 through 1.1014-6) the difference between—
+(a)(1) Where property is transferred for life, with remainder in fee, and the remainderman dies before the life tenant, no adjustment is made to the uniform basis of the property on the death of the remainderman (see paragraph (a) of § 1.1014-4). However, the basis of the remainderman's heir, legatee, or devisee for the remainder interest is determined by adding to (or subtracting from) the part of the adjusted uniform basis assigned to the remainder interest (determined in accordance with the principles set forth in §§ 1.1014-4 through 1.1014-6) the difference between—*1*
 
 (i) The value of the remainder interest included in the remainderman's estate, and
 

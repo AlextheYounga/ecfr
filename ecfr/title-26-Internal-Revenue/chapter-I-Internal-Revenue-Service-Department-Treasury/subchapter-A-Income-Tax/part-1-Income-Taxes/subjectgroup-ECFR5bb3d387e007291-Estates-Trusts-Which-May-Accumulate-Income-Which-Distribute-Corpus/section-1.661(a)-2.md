@@ -1,6 +1,6 @@
 ##### § 1.661(a)-2 Deduction for distributions to beneficiaries.
 
-(a) In computing the taxable income of an estate or trust there is allowed under section 661(a) as a deduction for distributions to beneficiaries the sum of:
+(a) In computing the taxable income of an estate or trust there is allowed under section 661(a) as a deduction for distributions to beneficiaries the sum of:*income required to be distributed currently*
 
 (1) The amount of income for the taxable year which is required to be distributed currently, and
 

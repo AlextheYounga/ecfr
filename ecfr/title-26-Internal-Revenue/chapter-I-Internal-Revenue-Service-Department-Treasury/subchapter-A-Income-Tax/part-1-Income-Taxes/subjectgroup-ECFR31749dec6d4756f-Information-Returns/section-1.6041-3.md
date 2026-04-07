@@ -1,6 +1,6 @@
 ##### § 1.6041-3 Payments for which no return of information is required under section 6041.
 
-Returns of information are not required under section 6041 and §§ 1.6041-1 and 1.6041-2 for payments described in paragraphs (a) through (q) of this section. See § 1.6041-4 for reporting exemptions regarding payments to foreign persons.
+Returns of information are not required under section 6041 and §§ 1.6041-1 and 1.6041-2 for payments described in paragraphs (a) through (q) of this section. See § 1.6041-4 for reporting exemptions regarding payments to foreign persons.*In general.*
 
 (a) Payments of income required to be reported on Forms 1120-S, 941, W-2, and W-3 (however, see § 1.6041-2(a) with respect to Forms W-2 and W-3).
 

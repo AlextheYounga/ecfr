@@ -1,6 +1,6 @@
 ##### § 1.752-2T Partner's share of recourse liabilities (temporary).
 
-(a)-(b) \[Reserved\]
+(a)-(b) \[Reserved\]*Allocation of debt deemed transferred to a partner pursuant to regulations under section 385.*
 
 (c)(1) through (2) \[Reserved\]
 

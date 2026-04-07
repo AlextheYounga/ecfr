@@ -1,6 +1,6 @@
 ##### § 1.110-1 Qualified lessee construction allowances.
 
-(a) *Overview.* Amounts provided to a lessee by a lessor for property to be constructed and used by the lessee pursuant to a lease are not includible in the lessee's gross income if the amount is a qualified lessee construction allowance under paragraph (b) of this section.
+(a) *Overview.* Amounts provided to a lessee by a lessor for property to be constructed and used by the lessee pursuant to a lease are not includible in the lessee's gross income if the amount is a qualified lessee construction allowance under paragraph (b) of this section.1/2
 
 (b) *Qualified lessee construction allowance*—(1) *In general.* A qualified lessee construction allowance means any amount received in cash (or treated as a rent reduction) by a lessee from a lessor—
 

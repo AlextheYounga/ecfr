@@ -1,6 +1,6 @@
 ##### § 1.1092(c)-4 Definitions.
 
-The following definitions apply for purposes of §§ 1.1092(c)-1 through 1.1092(c)-3:
+The following definitions apply for purposes of §§ 1.1092(c)-1 through 1.1092(c)-3:*Equity option with flexible terms*
 
 (a) *Equity option with flexible terms* means an equity option—
 

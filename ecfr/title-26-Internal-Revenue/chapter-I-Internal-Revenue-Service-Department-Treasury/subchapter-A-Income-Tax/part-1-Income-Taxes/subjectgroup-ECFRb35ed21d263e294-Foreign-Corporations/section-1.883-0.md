@@ -4,7 +4,7 @@ This section lists the major paragraphs contained in §§ 1.883-1 through 1.883-
 
 § 1.883-1 Exclusion of income from the international operation of ships or aircraft.
 
-(a) General rule.
+(a) General rule.*1*
 
 (b) Qualified income.
 

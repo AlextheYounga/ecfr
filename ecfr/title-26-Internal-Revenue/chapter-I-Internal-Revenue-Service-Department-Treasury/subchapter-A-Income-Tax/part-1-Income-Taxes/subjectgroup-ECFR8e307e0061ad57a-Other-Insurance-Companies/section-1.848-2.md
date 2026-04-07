@@ -80,9 +80,20 @@
 
 (5) *Example.* The principles of this paragraph (c) are illustrated by the following example.
 
-Example.(i) An individual (A) owns a life insurance policy issued by a life insurance company (L1). On January 1, 1993, A purchases additional term insurance for $250, which is added as a rider to A's life insurance policy. The purchase of the additional term insurance does not change the interest mortality, morbidity, or expense guarantees with respect to the nonforfeiture benefits provided by A's life insurance policy.
+Example.(i) An individual (A) owns a life insurance policy issued by a life insurance company (L1). On January 1, 1993, A purchases additional term insurance for $250, which is added as a rider to A's life insurance policy. The purchase of the additional term insurance does not change the interest mortality, morbidity, or expense guarantees with respect to the nonforfeiture benefits provided by A's life insurance policy. *Example 2*
 
 (ii) A's purchase of the term insurance rider is not considered to result in a fundamentally different contract under paragraph (c)(3) of this section because the addition of the rider did not change the interest, mortality, morbidity, or expense guarantees with respect to the nonforfeiture values of A's original life insurance policy. Therefore, L1 includes only the $250 received from A in the gross amount of premiums and other consideration.
+
+Required capitalization amount
+| Item                             | Income  | Expense |
+| -------------------------------- | ------- | ------- |
+| Premiums                         | $25,000 |         |
+| Death benefits                   |         | $10,000 |
+| Surrender benefits               |         | 8,000   |
+| Premium taxes and other expenses |         | 2,000   |
+| Total                            |         | 20,000  |
+
+L2$1,200,000 × .077 = $92,400 L3($350,000) × .077 = ($26,950) L4$300,000 × .077 = $23,100 L5$600,000 × .0175 = $10,500L2 = $35,237 ($48,050 × 92,400 / 126,000)
 
 (d) *Amounts excluded from the gross amount of premiums and other consideration*—(1) *In general.* The following items are not included in the gross amount of premiums and other consideration—
 

@@ -1,6 +1,6 @@
 ##### § 1.992-3 Deficiency distributions to meet qualification requirements.
 
-(a) *In general.* A corporation which meets the requirements described in § 1.992-1 for treatment as a DISC for a taxable year, other than the 95 percent of gross receipts test described in § 1.992-1(b) or the 95-percent assets test described in § 1.992-1(c), or both tests, may nevertheless qualify as a DISC for such year by making deficiency distributions (attributable to its gross receipts other than qualified export receipts and its assets other than qualified export assets) if all of the following requirements are satisfied:
+(a) *In general.* A corporation which meets the requirements described in § 1.992-1 for treatment as a DISC for a taxable year, other than the 95 percent of gross receipts test described in § 1.992-1(b) or the 95-percent assets test described in § 1.992-1(c), or both tests, may nevertheless qualify as a DISC for such year by making deficiency distributions (attributable to its gross receipts other than qualified export receipts and its assets other than qualified export assets) if all of the following requirements are satisfied:1/2
 
 (1) The corporation distributes the amount determined under paragraph (b) of this section as a deficiency distribution. The amount of a deficiency distribution is determined without regard to the amount by which the corporation fails to meet either test.
 

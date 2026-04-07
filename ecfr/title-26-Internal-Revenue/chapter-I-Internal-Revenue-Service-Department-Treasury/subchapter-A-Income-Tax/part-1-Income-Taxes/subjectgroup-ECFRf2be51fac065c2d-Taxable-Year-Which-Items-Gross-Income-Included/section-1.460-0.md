@@ -4,7 +4,7 @@ This section lists the paragraphs contained in § 1.460-1 through § 1.460-6.
 
 § 1.460-1 Long-term contracts.
 
-(a) Overview.
+(a) Overview.*1*
 
 (1) In general.
 

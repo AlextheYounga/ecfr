@@ -1,6 +1,6 @@
 ##### § 1.410(a)-3T Minimum age and service conditions (temporary).
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Special rule for plan with 2-year 100 percent vesting.*
 
 (b) *Special rule for plan with 2-year 100 percent vesting.* A plan which provides that after not more than 2 years of service each participant's right to his or her accrued benefit under the plan is completely nonforeitable (within the meaning of section 411 and the regulations thereunder) at the time such benefit accrues satisfies the requirements of paragraph (a) of this section if the period of service required by the plan as a condition of participation does not extend beyond the later of—
 

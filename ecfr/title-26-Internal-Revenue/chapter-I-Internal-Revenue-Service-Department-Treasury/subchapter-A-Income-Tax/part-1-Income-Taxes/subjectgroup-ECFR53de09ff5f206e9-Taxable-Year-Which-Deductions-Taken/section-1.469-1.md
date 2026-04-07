@@ -1,6 +1,6 @@
 ##### § 1.469-1 General rules.
 
-(a)-(c)(7) \[Reserved\]
+(a)-(c)(7) \[Reserved\]*Consolidated groups.*
 
 (c)(8) *Consolidated groups.* Rules relating to the application of section 469 to consolidated groups are contained in paragraph (h) of this section.
 
@@ -9,6 +9,21 @@
 (d)(2) *Coordination with sections 613A (d) and 1211.* A passive activity deduction that is not disallowed for the taxable year under section 469 and the regulations thereunder may nonetheless be disallowed for the taxable year under section 613A(d) or 1211. The following example illustrates the application of this paragraph (d)(2):
 
 Example.In 1993, an individual derives $10,000 of ordinary income from passive activity X, no gains from the sale or exchange of capital assets or assets used in a trade or business, $12,000 of capital loss from passive activity Y, and no income, gain, deductions, or losses from any other passive activity. The capital loss from activity Y is a passive activity deduction (within the meaning of § 1.469-2T(d)). Under section 469 and the regulations thereunder, the taxpayer is allowed $10,000 of the $12,000 passive activity deduction and has a $2,000 passive activity loss for the taxable year. Since the $10,000 passive activity deduction allowed under section 469 is a capital loss, such deduction is allowable for the taxable year only to the extent provided under section 1211. Therefore, the taxpayer is allowed $3,000 of the $10,000 capital loss under section 1211 and has a $7,000 capital loss carryover (within the meaning of section 1212(b)) to the succeeding taxable year.
+
+(ii) In 1994, the convenience store is continued in a single activity, and the section 469 activities that constituted the apartment building is similarly continued in a separate activity. Thus, the disallowed deductions from the convenience-store activity for 1993 must be allocated under paragraph (f)(4)(i)(A) of this section to the taxpayer's convenience-store activity in 1994. Similarly, the disallowed deductions from the apartment-building activity for 1993 must be allocated to the taxpayer's apartment-building activity in 1994. Under paragraph (f)(4)(i)(B) of this section, the disallowed deductions allocated to the convenience-store activity in 1994 are treated as deductions from that activity for 1994, and the disallowed deductions allocated to the apartment-building activity for 1994 are treated as deductions from the apartment-building activity for 1994.*i.e.,*
+
+|                                                                                              | Restaurant | Catering business |
+| -------------------------------------------------------------------------------------------- | ---------- | ----------------- |
+| 1993:                                                                                        |            |                   |
+| Gross income                                                                                 | $20,000    | $60,000           |
+| Deductions                                                                                   | 40,000     | 60,000            |
+| Net income (loss)                                                                            | (20,000)   |                   |
+| 1994:                                                                                        |            |                   |
+| Gross income                                                                                 | 40,000     | 50,000            |
+| Deductions                                                                                   | 1 30,000   | 2 70,000          |
+| Net income (loss)                                                                            | 10,000     | (20,000)          |
+| 1 Includes $8,000 of deductions that were disallowed for 1993 ($20,000 × $40,000/$100,000).  |            |                   |
+| 2 Includes $12,000 of deductions that were disallowed for 1993 ($20,000 × $60,000/$100,000). |            |                   |
 
 (d)(3)-(e)(1) \[Reserved\]
 

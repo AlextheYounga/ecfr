@@ -4,17 +4,19 @@ The provisions of section 661 may be illustrated by the following example:
 
 Example.(a) Under the terms of a trust, which reports on the calendar year basis, $10,000 a year is required to be paid out of income to a designated charity. The balance of the income may, in the trustee's discretion, be accumulated or distributed to beneficiary A. Expenses are allocable against income and the trust instrument requires a reserve for depreciation. During the taxable year 1955 the trustee contributes $10,000 to charity and in his discretion distributes $15,000 of income to A. The trust has the following items of income and expense for the taxable year 1955: Dividends$10,000 Partially tax-exempt interest10,000 Fully tax-exempt interest10,000 Rents20,000 Rental expenses2,000 Depreciation of rental property3,000 Trustee's commissions5,000(b) The income of the trust for fiduciary accounting purposes is $40,000, computed as follows:
 
-| Dividends                               | $10,000 |  |
-| Partially tax-exempt interest           | 10,000  |  |
-| Fully tax-exempt interest               | 10,000  |  |
-| Rents                                   | 20,000  |  |
-| Total                                   | 50,000  |  |
-| Less:                                   |         |  |
-| Rental expenses                         | $2,000  |  |
-| Depreciation                            | 3,000   |  |
-| Trustee's commissions                   | 5,000   |  |
-|                                         | 10,000  |  |
-| Income as computed under section 643(b) | 40,000  |  |
+|                                         | Rental income | Taxable dividends | Excluded dividends | Partially tax-exempt interest | Tax-exempt interest | Total |
+| --------------------------------------- | ------------- | ----------------- | ------------------ | ----------------------------- | ------------------- | ----- |
+| Dividends                               | $10,000       |                   |                    |                               |                     |       |
+| Partially tax-exempt interest           | 10,000        |                   |                    |                               |                     |       |
+| Fully tax-exempt interest               | 10,000        |                   |                    |                               |                     |       |
+| Rents                                   | 20,000        |                   |                    |                               |                     |       |
+| Total                                   | 50,000        |                   |                    |                               |                     |       |
+| Less:                                   |               |                   |                    |                               |                     |       |
+| Rental expenses                         | $2,000        |                   |                    |                               |                     |       |
+| Depreciation                            | 3,000         |                   |                    |                               |                     |       |
+| Trustee's commissions                   | 5,000         |                   |                    |                               |                     |       |
+|                                         | 10,000        |                   |                    |                               |                     |       |
+| Income as computed under section 643(b) | 40,000        |                   |                    |                               |                     |       |
 
 (c) The distributable net income of the trust as computed under section 643(a) is $30,000, determined as follows:
 

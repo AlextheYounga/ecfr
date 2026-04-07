@@ -20,6 +20,8 @@ Example.Assume that under the terms of the trust, $10,000 of income is required 
 
 See also paragraphs (e)(1) and (f)(1) of § 1.668(b)-2 for additional illustrations of the application of the rule in this paragraph to the first year of a trust in which income is accumulated.
 
+(1) The undistributed net income of the foreign trust created by a U.S. person for 1963 is $17,100, computed as follows:
+
 (b) The undistributed net income of a foreign trust created by a U.S. person for any taxable year is the distributable net income of such trust (see § 1.643(a)-6 and the examples set forth in paragraph (b) thereof), less:
 
 (1) The amount of income required to be distributed currently and any other amounts properly paid or credited or required to be distributed to beneficiaries in the taxable year as specified in paragraphs (1) and (2) of section 661(a), and

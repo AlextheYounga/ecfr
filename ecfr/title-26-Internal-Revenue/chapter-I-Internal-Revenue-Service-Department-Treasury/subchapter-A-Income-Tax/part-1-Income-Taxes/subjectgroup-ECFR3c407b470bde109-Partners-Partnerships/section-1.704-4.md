@@ -14,7 +14,7 @@
 
 Example 1. Recognition of gain.(i) On January 1, 1995, A, B, and C form partnership ABC as equal partners. A contributes $10,000 cash and Property A, nondepreciable real property with a fair market value of $10,000 and an adjusted tax basis of $4,000. Thus, there is a built-in gain of $6,000 on Property A at the time of contribution. B contributes $10,000 cash and Property B, nondepreciable real property with a fair market value and adjusted tax basis of $10,000. C contributes $20,000 cash.
 
-(ii) On December 31, 1998, Property A and Property B are distributed to C in complete liquidation of C's interest in the partnership.
+(ii) On December 31, 1998, Property A and Property B are distributed to C in complete liquidation of C's interest in the partnership.*Example 1*
 
 (iii) A would have recognized $6,000 of gain under section 704(c)(1)(A) and § 1.704-3 on the sale of Property A at the time of the distribution ($10,000 fair market value less $4,000 adjusted tax basis). As a result, A must recognize $6,000 of gain on the distribution of Property A to C. B would not have recognized any gain or loss under section 704(c)(1)(A) and § 1.704-3 on the sale of Property B at the time of distribution because Property B was not section 704(c) property. As a result, B does not recognize any gain or loss on the distribution of Property B.
 

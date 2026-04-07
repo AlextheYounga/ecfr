@@ -4,7 +4,7 @@ This section lists the section headings that appear in §§ 1.199A-1 through 1.1
 
 § 1.199A-1 Operational rules.
 
-(a) Overview.
+(a) Overview.*1*
 
 (1) In general.
 

@@ -1,6 +1,6 @@
 ##### § 1.367(a)-6 Transfer of foreign branch with previously deducted losses.
 
-(a) through (b)(1) \[Reserved\]. For further guidance, see § 1.367(a)-6T(a) through (b)(1).
+(a) through (b)(1) \[Reserved\]. For further guidance, see § 1.367(a)-6T(a) through (b)(1).*No active conduct exception.*
 
 (b)(2) *No active conduct exception.* The rules of this paragraph (b) apply regardless of whether any of the assets of the foreign branch satisfy the active trade or business exception of § 1.367(a)-2(a)(2).
 

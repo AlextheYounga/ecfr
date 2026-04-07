@@ -34,6 +34,10 @@
 
 Example.Corporation X manages its business operations by treating particular groups of activities, including the assets and liabilities attributable to those assets, as separate business units. A separate set of books and records is maintained with respect to the activities, assets and liabilities of separate business unit *y.* As part of a risk management program that Corporation X reasonably expects to reduce the overall risks of its business operations, Corporation X enters into hedges to reduce the risks of separate business unit *y.* Corporation X may demonstrate that the hedges reduce risk by taking into account only the activities, assets and liabilities of business unit *y.*
 
+(ii) *Identification. D* must be identified as a hedging transaction under paragraph (f)(1) of this section, and *A* must be identified as the hedged item under paragraph (f)(2) of this section. Under paragraph (f)(5) of this section, the identification of *A* as the hedged item can be accomplished by identifying the positions in the intercompany transaction as hedges or hedged items, as appropriate. Thus, substantially contemporaneous with entering into *D, H* may identify *C* as the hedged item and *O* may identify *B* as a hedge and *A* as the hedged item.
+
+![](/graphics/er20mr02.002.gif)
+
 (iii) *Written options.* A written option may reduce risk. For example, in appropriate circumstances, a written call option with respect to assets held by a taxpayer or a written put option with respect to assets to be acquired by a taxpayer may be a hedging transaction. See also paragraph (d)(3) of this section.
 
 (iv) *Fixed-to-floating price hedges.* Under the principles of paragraph (d)(1)(ii)(A) of this section, a transaction that economically converts a price from a fixed price to a floating price may reduce risk. For example, a taxpayer with a fixed cost for its inventory may be at risk if the price at which the inventory can be sold varies with a particular factor. Thus, for such a taxpayer a transaction that converts its fixed price to a floating price may be a hedging transaction.

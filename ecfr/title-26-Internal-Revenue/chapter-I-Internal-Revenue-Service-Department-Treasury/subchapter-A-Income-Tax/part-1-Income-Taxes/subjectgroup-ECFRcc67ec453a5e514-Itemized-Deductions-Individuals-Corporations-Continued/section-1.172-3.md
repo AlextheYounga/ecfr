@@ -30,11 +30,13 @@ Example 1.(i) A, an individual, has $5,000 ordinary taxable income (computed wit
 
 (ii) A's net capital loss for the taxable year 1954 is $400, computed as follows:
 
-| Capital losses                               | $4,400 |
-| Capital gains                                | 3,000  |
-| Excess of capital losses over capital gains  | 1,400  |
-| Less: $1,000 of such ordinary taxable income | 1,000  |
-| Net capital loss for 1954                    | 400    |
+|                                              | 1965   | Carried over from 1964 |
+| -------------------------------------------- | ------ | ---------------------- |
+| Capital losses                               | $4,400 |                        |
+| Capital gains                                | 3,000  |                        |
+| Excess of capital losses over capital gains  | 1,400  |                        |
+| Less: $1,000 of such ordinary taxable income | 1,000  |                        |
+| Net capital loss for 1954                    | 400    |                        |
 
 (iii) A's capital losses for 1954 exceeded his capital gains for such year by $1,400. Since A's business capital losses for 1954 exceeded his business capital gains for such year by $1,200, 6/7ths ($1,200/$1,400) of A's net capital loss for 1954 is attributable to an excess of his business capital losses over his business capital gains for such year. Similarly, 1/7th of the net capital loss is attributable to the excess of nonbusiness capital losses over nonbusiness capital gains. Since the capital loss carryover for 1954 to 1955 is $400, 6/7ths of $400, or $342.86, shall be treated as a business capital loss in 1955; and 1/7th of $400, or $57.14, as a nonbusiness capital loss.Example 2.(i) A, an individual who is computing a net operating loss for the calendar year 1966, has a capital loss carryover from 1965 of $8,000. In order to apply the provisions of this paragraph, A must determine what portion of the $8,000 carryover is attributable to the excess of business capital losses over business capital gains and what portion thereof is attributable to the excess of nonbusiness capital losses over nonbusiness capital gains. For 1965, A had $10,000 ordinary taxable income (computed without regard to the deductions for personal exemptions), and a short-term capital loss carryover of $6,000 from 1964. In order to determine the composition (business—nonbusiness) of the $8,000 carryover from 1965, A first determines that of the $6,000 carryover from 1964, $5,000 is a business capital loss and $1,000 is a nonbusiness capital loss. This must be done since, under paragraph (b) of § 1.1212-1, the net capital loss for 1965 is computed by taking into account the capital loss carryover from 1964. A's capital gains and losses for 1965 are as follows:
 

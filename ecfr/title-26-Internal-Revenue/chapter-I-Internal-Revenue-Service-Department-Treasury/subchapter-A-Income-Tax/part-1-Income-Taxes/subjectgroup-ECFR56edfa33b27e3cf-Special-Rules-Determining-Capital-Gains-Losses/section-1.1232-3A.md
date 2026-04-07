@@ -30,7 +30,17 @@ The amount of the ratable monthly portion within the meaning of this subdivision
 
 (ii) *Example.* The provisions of this subparagraph may be illustrated by the following example:
 
-Example:On February 22, 1970, A acquires an obligation of X Corporation for which February 1, 1970, is the date of original issue. B acquires the obligation on June 16, 1970. A does not choose to treat each month as having 30 days. Thus, A held the obligation for 3 3/4 months during 1970, i.e., one-fourth of February ( 7/28 days), March, April, May, one-half of June ( 15/30 days). The ratable monthly portion of original issue discount for the obligation is multiplied by 3 3/4 months to determine the amount included in A's gross income for 1970 pursuant to this paragraph.
+Example:On February 22, 1970, A acquires an obligation of X Corporation for which February 1, 1970, is the date of original issue. B acquires the obligation on June 16, 1970. A does not choose to treat each month as having 30 days. Thus, A held the obligation for 3 3/4 months during 1970, i.e., one-fourth of February ( 7/28 days), March, April, May, one-half of June ( 15/30 days). The ratable monthly portion of original issue discount for the obligation is multiplied by 3 3/4 months to determine the amount included in A's gross income for 1970 pursuant to this paragraph.*a*
+
+| (1)                                                                                   | (2)    | (3)    | (4) | (5) | (6) | (7) |
+| ------------------------------------------------------------------------------------- | ------ | ------ | --- | --- | --- | --- |
+| Original issue discount (stated redemption price, $10,000, minus issue price, $7,600) | $2,400 |        |     |     |     |     |
+| Divide by: Number of months from date of original issue to stated maturity date       | 120    | months |     |     |     |     |
+| Ratable monthly portion                                                               | $20    |        |     |     |     |     |
+
+Assume that A holds the bond for all of 1970 and 1971 and includes as interest in his gross income for each such year an amount equal to the ratable monthly portion, $20, multiplied by the number of months he held the bond each such year, 12 months, or $240. Accordingly, on January 1, 1972, A's basis in the bond will have increased under paragraph (c) of this section by the amount so included, $480 (i.e., $240 × 2), from his cost, $7,600, to $8,080. For results if A sells the bond on that date, see examples (1) and (2) of paragraph (a)(2) of § 1.1282-3.
+
+(2) On January 1, 1979, B sells the bond to C, a calendar-year taxpayer, for $9,940. Since C is now the holder of the bond (and no exception applies to him), he must include as interest in his gross income the ratable monthly portion of original issue determined under section 1232(a)(3) and this section. Since C purchased the bond he determines under paragraph (a)(2)(ii) of this section the amount of the ratable monthly portion he must include as interest in his gross income in order to reflect the amount of his purchase allowance (if any). C determines that his ratable monthly portion is $5, computed as follows:1/20
 
 (4) *Purchase.* For purposes of this section, the term *purchase* means any acquisition (including an acquisition upon original issue) of an obligation to which this section applies, but only if the basis of such obligation is not determined in whole or in part by reference to the adjusted basis of such obligation in the hands of the person from whom it was acquired or under section 1014(a) (relating to property acquired from a decedent).
 

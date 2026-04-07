@@ -10,7 +10,7 @@
 
 (c) *Examples.* The following examples illustrate the rules of this section:
 
-Example 1.(i) On January 1, 2004, X borrows $10,000,000. The principal amount of the loan ($10,000,000) is repayable on December 31, 2008, and payments of interest in the amount of $500,000 are due on December 31 of each year the loan is outstanding. X incurs debt issuance costs of $130,000 to facilitate the borrowing.
+Example 1.(i) On January 1, 2004, X borrows $10,000,000. The principal amount of the loan ($10,000,000) is repayable on December 31, 2008, and payments of interest in the amount of $500,000 are due on December 31 of each year the loan is outstanding. X incurs debt issuance costs of $130,000 to facilitate the borrowing. *Example 1,*
 
 (ii) Under § 1.1273-2, the issue price of the loan is $10,000,000. However, under paragraph (b) of this section, X reduces the issue price of the loan by the debt issuance costs of $130,000, resulting in an issue price of $9,870,000. As a result, X treats the loan as having original issue discount in the amount of $130,000 (stated redemption price at maturity of $10,000,000 minus the issue price of $9,870,000). Because this amount of original issue discount is more than the *de minimis* amount of original issue discount for the loan determined under § 1.1273-1(d) ($125,000 ($10,000,000 × .0025 × 5)), X must allocate the original issue discount to each year based on the constant yield method described in § 1.1272-1(b). See § 1.163-7(a). Based on this method and a yield of 5.30%, compounded annually, the original issue discount is allocable to each year as follows: $23,385 for 2004, $24,625 for 2005, $25,931 for 2006, $27,306 for 2007, and $28,753 for 2008.
 

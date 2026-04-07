@@ -14,6 +14,13 @@ then such person shall treat such distribution in the same manner as a distribut
 
 Example.In 1974, under § 1.995-4, A, a shareholder of a DISC, on the sale of his DISC stock to B, is required to treat $20 of his gain as a dividend. The DISC has no previously taxed income and $40 of accumulated DISC income. Subsequently in the same year, B, the purchaser of the stock, receives an actual dividend distribution of $15 with respect to such stock which, under § 1.996-1(a), is treated as made out of accumulated DISC income. The amounts of the DISC's previously taxed income and accumulated DISC income were not adjusted by reason of the $20 treated as a dividend on the prior sale. However, even though the DISC had no previously taxed income, the purchaser would treat the $15 as though it had been paid out of previously taxed income and, therefore would not include the $15 in gross income. If in 1975, B receives another actual distribution of $9 with respect to such stock, $5 (*i.e.,* $20 dividend on A's sale less the $15 distribution to B in 1974 which was treated under subparagraph (1) of this paragraph as made from previously taxed income) is treated as made from previously taxed income and excluded from gross income. The result would be the same if, on January 1, 1975, B had transferred such stock to C by gift and the $9 distribution had been made to C.
 
+| (a) Accumulated DISC income                                                                                          |     | $100 |
+| (b) Minus sum of:                                                                                                    |     |      |
+| (1) Dividend on redemption of A's stock                                                                              | $25 |      |
+| (2) Excess of dividend on X's sale ($30) over distribution to A treated as made out of previously taxed income ($10) | $20 |      |
+| Total                                                                                                                |     | 45   |
+| (c) Accumulated DISC income on 12/31/76                                                                              | 55  |      |
+
 (b) *Corporate adjustment upon redemption.* (1) Under section 996(d)(2), if by reason of § 1.995-4 gain on a redemption of stock in a DISC, or former DISC, is included in the shareholder's gross income as a dividend, then the accumulated DISC income shall be reduced by an amount equal to the sum of—
 
 (i) The amount of gain on such redemption which, under § 1.995-4, is treated as a dividend, and

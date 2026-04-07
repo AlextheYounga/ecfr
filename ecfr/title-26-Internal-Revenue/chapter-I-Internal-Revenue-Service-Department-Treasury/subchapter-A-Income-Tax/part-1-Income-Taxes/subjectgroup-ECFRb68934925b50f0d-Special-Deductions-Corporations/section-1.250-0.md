@@ -4,7 +4,7 @@ This section contains a listing of the headings for §§ 1.250-1, 1.250(a)-1, an
 
 *§ 1.250-1 Introduction.*
 
-(a) Overview.
+(a) Overview.*1*
 
 (b) Applicability dates.
 

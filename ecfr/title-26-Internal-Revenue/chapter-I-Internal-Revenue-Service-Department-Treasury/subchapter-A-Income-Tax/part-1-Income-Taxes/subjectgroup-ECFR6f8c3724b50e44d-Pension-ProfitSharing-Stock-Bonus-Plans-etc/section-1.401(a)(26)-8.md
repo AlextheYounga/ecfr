@@ -1,6 +1,6 @@
 ##### § 1.401(a)(26)-8 Definitions.
 
-In applying this section and §§ 1.401(a)(26)-1 through 1.401(a)(26)-9 the definitions in this section govern unless otherwise provided.
+In applying this section and §§ 1.401(a)(26)-1 through 1.401(a)(26)-9 the definitions in this section govern unless otherwise provided.*Collective bargaining agreement. Collective bargaining agreement*
 
 *Collective bargaining agreement. Collective bargaining agreement* means an agreement that the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and the employer that satisfies § 301.7701-17T. Employees described in section 413(b)(8) who are employees of the union or the plan and are treated as employees of an employer are not employees covered pursuant to a collective bargaining agreement for purposes of section 401(a)(26) unless the employees are actually covered pursuant to such an agreement.
 

@@ -6,7 +6,7 @@
 
 (ii) Is “a new identifiable facility” (as defined in paragraph (b) of this section).
 
-For profitmaking abatement works limitation, see paragraph (d) of this section.
+For profitmaking abatement works limitation, see paragraph (d) of this section. *b*
 
 (2) *Treatment facility.* For purposes of subparagraph (1)(i) of this paragraph, a “treatment facility” is a facility which (i) is used to abate or control water or atmospheric pollution or contamination by removing, altering, disposing, or storing of pollutants, contaminants, wastes, or heat and (ii) is used in connection with a plant or other property in operation before January 1, 1969. Determinations under subdivision (i) of this subparagraph shall be made solely by the Federal certifying authority. See subparagraph (3) of this paragraph. For meaning of the phrases “plant or other property” and “in operation before January 1, 1969,” see subparagraphs (4) and (5), respectively, of this paragraph.
 

@@ -1,6 +1,6 @@
 ##### § 1.1503(d)-7 Examples.
 
-(a) *In general.* This section provides examples that illustrate the application of §§ 1.1503(d)-1 through 1.1503(d)-6. This section also provides facts that are presumed for such examples.
+(a) *In general.* This section provides examples that illustrate the application of §§ 1.1503(d)-1 through 1.1503(d)-6. This section also provides facts that are presumed for such examples.X
 
 (b) *Presumed facts for examples.* For purposes of the examples in this section, unless otherwise indicated, the following facts are presumed:
 

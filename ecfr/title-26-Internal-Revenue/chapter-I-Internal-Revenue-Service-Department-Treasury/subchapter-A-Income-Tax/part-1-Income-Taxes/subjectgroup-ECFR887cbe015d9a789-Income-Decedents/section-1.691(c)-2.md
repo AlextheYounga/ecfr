@@ -22,9 +22,11 @@ Example.(1) The fiduciary of an estate receives taxable interest of $5,500 and i
 
 (2) Distributable net income computed under section 643(a) without regard to the estate tax deduction under section 691(c) is $10,000, computed as follows:
 
-| Taxable interest                | $5,500 |
-| Income in respect of a decedent | 4,500  |
-| Total                           | 10,000 |
+|                                 | Taxable interest | Income in respect of a decedent | Total |
+| ------------------------------- | ---------------- | ------------------------------- | ----- |
+| Taxable interest                | $5,500           |                                 |       |
+| Income in respect of a decedent | 4,500            |                                 |       |
+| Total                           | 10,000           |                                 |       |
 
 (3) Inasmuch as the distributable net income of $10,000 exceeds the amount of $2,000 distributed to the beneficiary, the deduction allowable to the estate under section 661(a) and the amount taxable to the beneficiary under section 662(a) is $2,000.
 

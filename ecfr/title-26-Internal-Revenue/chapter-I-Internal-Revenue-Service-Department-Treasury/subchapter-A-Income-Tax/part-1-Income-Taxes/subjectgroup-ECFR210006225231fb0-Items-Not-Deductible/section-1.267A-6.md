@@ -1,6 +1,6 @@
 ##### § 1.267A-6 Examples.
 
-(a) *Scope.* This section provides examples that illustrate the application of §§ 1.267A-1 through 1.267A-5.
+(a) *Scope.* This section provides examples that illustrate the application of §§ 1.267A-1 through 1.267A-5.1/3
 
 (b) *Presumed facts.* For purposes of the examples in this section, unless otherwise indicated, the following facts are presumed:
 

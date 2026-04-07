@@ -40,9 +40,9 @@ Stock in a domestic corporation shall not be considered a U.S. real property int
 
 (5) *Examples.* The following examples illustrate the rules of this paragraph (b). In each example there is no applicable income tax treaty to which the United States is a party.
 
-Example 1.(i) A is a nonresident alien who owns 100 percent of the stock of DC, a U.S. real property holding corporation. DC's only asset is Parcel P, a U.S. real property interest, with a fair market value of $500,000 and an adjusted basis of $300,000. DC completely liquidates in 1987 and distributes Parcel P to A in exchange for the DC stock held by A.
+Example 1.(i) A is a nonresident alien who owns 100 percent of the stock of DC, a U.S. real property holding corporation. DC's only asset is Parcel P, a U.S. real property interest, with a fair market value of $500,000 and an adjusted basis of $300,000. DC completely liquidates in 1987 and distributes Parcel P to A in exchange for the DC stock held by A. *General Utilities*
 
-(ii) Under section 336(a), DC must recognize gain to the extent of the excess of the fair market value ($500,000) over the adjusted basis ($300,000), or $200,000.
+(ii) Under section 336(a), DC must recognize gain to the extent of the excess of the fair market value ($500,000) over the adjusted basis ($300,000), or $200,000.*1*
 
 (iii) A does not recognize any gain under section 897(a) because the DC stock in the hands of A is no longer a U.S. real property interest under paragraph (b)(2) of this section and paragraph 2(f) of § 1.897-2. A does recognize gain (if any) under section 331(a); however, the gain is not subject to taxation under section 871(a). A's adjusted basis in Parcel P is $500,000.
 

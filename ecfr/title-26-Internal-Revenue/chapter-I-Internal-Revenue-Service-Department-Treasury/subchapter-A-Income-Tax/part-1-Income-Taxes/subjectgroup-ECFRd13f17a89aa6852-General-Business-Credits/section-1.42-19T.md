@@ -1,6 +1,6 @@
 ##### § 1.42-19T Average income test (temporary).
 
-(a)-(b) \[Reserved\]
+(a)-(b) \[Reserved\]*Procedures*
 
 (c) *Procedures*—(1) *Identification of low-income units for use in the average income set-aside test or the applicable fraction determination*—(i) *In general.* For a taxable year, a taxpayer must follow the procedures described in paragraph (c)(1)(ii) of this section to identify—
 

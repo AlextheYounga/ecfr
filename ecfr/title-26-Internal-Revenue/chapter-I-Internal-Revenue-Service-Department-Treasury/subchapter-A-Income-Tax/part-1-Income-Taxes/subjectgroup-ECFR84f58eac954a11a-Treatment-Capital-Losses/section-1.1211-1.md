@@ -6,7 +6,7 @@
 
 (ii) The aggregate of all losses sustained in other taxable years which are treated as a short-term capital loss in such taxable year pursuant to section 1212(a)(1),
 
-but only to the extent of gains from such sales or exchanges of capital assets in such taxable year.
+but only to the extent of gains from such sales or exchanges of capital assets in such taxable year. *a*
 
 (2) *Banks.* See section 582(c) for modification of the limitation under section 1211(a) in the case of a bank, as defined in section 581.
 
@@ -81,7 +81,7 @@ Example 1.A, an unmarried individual with one exemption allowable as a deduction
 | Losses to the extent of gains                         | (1,200) |  |
 | Additional allowance deductible under section 1211(b) | 1,000   |  |
 
-The net long-term capital loss of $4,100 is deductible in 1970 only to the extent of an additional allowance of $1,000 which is smaller than the taxable income of $5,025. Under section 1211(b) and subparagraph (2) of this paragraph, $2,000 of excess net long-term capital loss was required to produce the $1,000 additional allowance. Therefore, a net long-term capital loss of $2,100 ($4,100 minus $2,000) is carried over under section 1212(b) to the succeeding taxable year. If A had the same taxable income for purposes of section 1211(b) (after reduction by the zero bracket amount) and the same transactions in 1977, the additional allowance would be $2,000, and a net long-term capital loss of $100 would be carried over. For a taxable year beginning in 1978 or thereafter, these facts would give rise to a $2,050 additional allowance and no carryover.Example 2.B, an unmarried individual with one exemption allowable as a deduction under section 151, has the following transactions in 1970:
+The net long-term capital loss of $4,100 is deductible in 1970 only to the extent of an additional allowance of $1,000 which is smaller than the taxable income of $5,025. Under section 1211(b) and subparagraph (2) of this paragraph, $2,000 of excess net long-term capital loss was required to produce the $1,000 additional allowance. Therefore, a net long-term capital loss of $2,100 ($4,100 minus $2,000) is carried over under section 1212(b) to the succeeding taxable year. If A had the same taxable income for purposes of section 1211(b) (after reduction by the zero bracket amount) and the same transactions in 1977, the additional allowance would be $2,000, and a net long-term capital loss of $100 would be carried over. For a taxable year beginning in 1978 or thereafter, these facts would give rise to a $2,050 additional allowance and no carryover.*transitional net long-term capital loss component*Example 2.B, an unmarried individual with one exemption allowable as a deduction under section 151, has the following transactions in 1970:
 
 | Taxable income exclusive of capital gains and losses  | $90     |  |
 | Deduction provided by section 151                     | 625     |  |

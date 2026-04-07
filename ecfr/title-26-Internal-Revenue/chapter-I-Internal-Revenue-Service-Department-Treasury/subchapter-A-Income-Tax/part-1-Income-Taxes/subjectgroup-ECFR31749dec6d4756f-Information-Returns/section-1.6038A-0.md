@@ -4,7 +4,7 @@ This section lists the captions that appear in the regulations under section 603
 
 § 1.6038A-1 General requirements and definitions.
 
-(a) Purpose and scope.
+(a) Purpose and scope.*de minimis*
 
 (b) In general.
 

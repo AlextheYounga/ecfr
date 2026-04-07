@@ -1,6 +1,6 @@
 ##### § 1.280F-2T Limitations on recovery deductions and the investment tax credit for certain passenger automobiles (temporary).
 
-(a) *Limitation on amount of investment tax credit*—(1) *General rule.* The amount of the investment tax credit determined under section 46(a) for any passenger automobile shall not exceed $1,000. For a passenger automobile placed in service after December 31, 1984, the $1,000 amount shall be increased by the automobile price inflation adjustment (as defined in section 280F(d)(7)) for the calendar year in which the automobile is placed in service.
+(a) *Limitation on amount of investment tax credit*—(1) *General rule.* The amount of the investment tax credit determined under section 46(a) for any passenger automobile shall not exceed $1,000. For a passenger automobile placed in service after December 31, 1984, the $1,000 amount shall be increased by the automobile price inflation adjustment (as defined in section 280F(d)(7)) for the calendar year in which the automobile is placed in service.2/3
 
 (2) *Election of reduced investment tax credit.* If the taxpayer elects under section 48(q)(4) to reduce the amount of the investment tax credit in lieu of adjusting the basis of the passenger automobile under section 48(q)(1), the amount of the investment tax credit for any passenger automobile shall not exceed two-thirds of the amount determined under paragraph (a)(1) of this section.
 
@@ -30,9 +30,9 @@
 
 (e) *Examples.* The provisions of paragraphs (a) through (c) of this section may be illustrated by the following examples. For purposes of these examples, assume that all taxpayers use the calendar year and that no short taxable years are involved.
 
-Example 1.(i) On July 1, 1984, B purchases for $45,000 and places in service a passenger automobile which is 3-year recovery property under section 168. In 1984, B does not elect under section 179 to expense a portion of the cost of the automobile. The automobile is used exclusively in B's business during taxable years 1984 through 1990.
+Example 1.(i) On July 1, 1984, B purchases for $45,000 and places in service a passenger automobile which is 3-year recovery property under section 168. In 1984, B does not elect under section 179 to expense a portion of the cost of the automobile. The automobile is used exclusively in B's business during taxable years 1984 through 1990. *Example 2,*2/3
 
-(ii) The maximum amount of B's investment tax credit is $1,000 (*i.e.,* the lesser of $1,000 or .06 × $45,000). B's unadjusted basis for purposes of section 168 is $44,500 (*i.e.,* $45,000 reduced under section 48(q)(1) by $500). B selects the use of the accelerated recovery percentages under section 168(b)(1).
+(ii) The maximum amount of B's investment tax credit is $1,000 (*i.e.,* the lesser of $1,000 or .06 × $45,000). B's unadjusted basis for purposes of section 168 is $44,500 (*i.e.,* $45,000 reduced under section 48(q)(1) by $500). B selects the use of the accelerated recovery percentages under section 168(b)(1).2/3
 
 (iii) The maximum amount of B's recovery deduction for 1984 is $4,000 (*i.e,* the lesser of $4,000 or .25 × $44,500); for 1985, $6,000 (*i.e.,* the lesser of $6,000 or .38 × $44,500); and for 1986, $6,000 (*i.e.,* the lesser of $6,000 or .37 × $44,500).
 

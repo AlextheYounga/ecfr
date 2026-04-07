@@ -4,7 +4,7 @@ This section lists captions contained in §§ 1.863-1 through 1.863-10.
 
 § 1.863-1 Allocation of gross income under section 863(a).
 
-(a) In general.
+(a) In general.*1*
 
 (b) Natural resources.
 

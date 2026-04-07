@@ -10,7 +10,47 @@
 
 (c) If the rate of tax is changed for taxable years “beginning after” or “ending after” a certain date, the following day is considered the effective date of the change for purposes of section 21. If the rate is changed for taxable years “beginning on or after” a certain date, that date is considered the effective date of the change for purposes of section 21. This rule may be illustrated by the following examples:
 
-Example 1.Assume that the law provides that a change in a certain rate of tax shall be effective only with respect to taxable years beginning after December 31, 1969. The effective date of change for purposes of section 21 is January 1, 1970, and section 21 must be applied to any taxable year which begins before and ends on or after January 1, 1970.Example 2.Assume that the law provides that a change in a certain rate of tax shall be applicable only with respect to taxable years ending after December 31, 1970. For purposes of section 21, the effective date of change is January 1, 1971, and section 21 must be applied to any taxable year which begins before and ends on or after January 1, 1971.Example 3.Assume that the law provides that a change in a certain rate of tax shall be effective only with respect to taxable years beginning on or after January 1, 1971. The effective date of change for purposes of section 21 is January 1, 1971, and section 21 must be applied to any taxable year which begins before and ends on or after January 1, 1971.
+Example 1.Assume that the law provides that a change in a certain rate of tax shall be effective only with respect to taxable years beginning after December 31, 1969. The effective date of change for purposes of section 21 is January 1, 1970, and section 21 must be applied to any taxable year which begins before and ends on or after January 1, 1970.1/2
+
+| **Tentative Tax**                                                                                          |         |         |  |
+| Taxable income exclusive of capital gains and losses                                                       | $50,000 |         |  |
+| Long-term capital gain                                                                                     | 75,000  |         |  |
+|                                                                                                            | 125,000 |         |  |
+| Deduct 50% of long-term capital gain                                                                       | 37,500  |         |  |
+| Taxable income                                                                                             | 87,500  |         |  |
+| Tax under section 1 (1969 and 1970 rates)                                                                  | 37,690  |         |  |
+| **Alternative Tax Under Section** 1201(b) (1969 R **ates**)                                                |         |         |  |
+| Taxable income ($50,000 + 50% of $75,000)                                                                  | $87,500 |         |  |
+| Less 50% of long-term capital gain                                                                         | 37,500  |         |  |
+| Taxable income exclusive of capital gains                                                                  | 50,000  |         |  |
+| Partial tax (tax on $50,000)                                                                               | 17,060  |         |  |
+| Plus 25% of $75,000                                                                                        | 18,750  |         |  |
+| Alternative tax under section 1201(b) at 1969 rates                                                        | 35,810  |         |  |
+| **Alternative Tax Under Section** 1201(b) (1970 **Rates**)                                                 |         |         |  |
+| **step i**                                                                                                 |         |         |  |
+| Taxable income ($50,000 + 50% of $75,000)                                                                  | $87,500 |         |  |
+| Deduct 50% of net section 1201 gain (net capital gain for taxable years beginning after December 31, 1976) | 37,500  |         |  |
+|                                                                                                            | 50,000  |         |  |
+| Tax on $50,000 (taxable income exclusive of capital gains)                                                 |         | $17,060 |  |
+| **step ii**                                                                                                |         |         |  |
+| (a) Net section 1201 gain (net capital gain for taxable years beginning after December 31, 1976)           | 75,000  |         |  |
+| (b) Subsection (d) gain                                                                                    | 50,000  |         |  |
+| 25% of $50,000 (lesser of (a) or (b))                                                                      |         | 12,500  |  |
+| **step iii**                                                                                               |         |         |  |
+| (c) 291⁄2% of $25,000 (excess of (a) over (b))                                                             | 7,375   |         |  |
+| (d) Ordinary income                                                                                        | $50,000 |         |  |
+| 50% of net section 1201 gain (net capital gain for taxable years beginning after December 31, 1976)        | 37,500  |         |  |
+|                                                                                                            | 87,500  |         |  |
+| Tax on $87,500                                                                                             | $37,690 |         |  |
+| Ordinary income                                                                                            | $50,000 |         |  |
+| 50% of subsection (d) gain                                                                                 | 25,000  |         |  |
+|                                                                                                            | 75,000  |         |  |
+| Tax on $75,000                                                                                             | 30,470  |         |  |
+| Difference                                                                                                 | 7,220   |         |  |
+| Lesser of (c) or (d)                                                                                       | $7,220  |         |  |
+| Alternative tax (total of 3 steps) at rates effective on and after January 1, 1970                         | 36,780  |         |  |
+
+Since the alternative tax is less than the tax imposed under section 1 for both the period in 1969 and the period in 1970, the alternative tax applies for both periods. Thus, since the effective date of the change in the rate of tax on capital gains is January 1, 1970, the old rate of alternative tax is effective for 184 days of the taxable year and the new rate of alternative tax is effective for 181 days of the taxable year. The alternative taxes are apportioned as follows: Example 2.Assume that the law provides that a change in a certain rate of tax shall be applicable only with respect to taxable years ending after December 31, 1970. For purposes of section 21, the effective date of change is January 1, 1971, and section 21 must be applied to any taxable year which begins before and ends on or after January 1, 1971.Example 3.Assume that the law provides that a change in a certain rate of tax shall be effective only with respect to taxable years beginning on or after January 1, 1971. The effective date of change for purposes of section 21 is January 1, 1971, and section 21 must be applied to any taxable year which begins before and ends on or after January 1, 1971.
 
 (d) If a tax is repealed, the repeal will be treated as a change of rate for purposes of section 21, and the rate for the period after the repeal (for purposes of computing the tentative tax with respect to that period) will be considered zero. For example, the Tax Reform Act of 1969 repealed section 1562, which imposed a 6 percent additional tax on controlled corporations electing multiple surtax exemptions, effective for taxable years beginning after December 31, 1974. For such controlled corporations having taxable years beginning in 1974 and ending in 1975, the rate for the period ending before January 1, 1975, would be 6 percent; the rate for the period beginning after December 31, 1974, would be zero. However, subject to the rules stated in this section, section 21 does not apply to the imposition of a new tax. For example, if a new tax is imposed for taxable years beginning on or after July 1, 1972, a computation under section 21 would not be required with respect to such new tax in the case of taxable years beginning before July 1, 1972, and ending on or after that date. If the effective date of the imposition of a new tax and the effective date of a change in rate of such tax fall in the same taxable year, section 21 is not applicable in computing the taxpayer's liability for such tax for such year unless the new tax is expressly imposed upon the taxpayer for a portion of his taxable year prior to the change in rate.
 

@@ -1,6 +1,6 @@
 ##### § 1.892-3 Income of foreign governments.
 
-(a)(1)-(5) \[Reserved\] For further information, see § 1.892-3T(a)(1) through (a)(5).
+(a)(1)-(5) \[Reserved\] For further information, see § 1.892-3T(a)(1) through (a)(5).*Dividend equivalents.*
 
 (6) *Dividend equivalents.* Income from investments in stocks includes the payment of a dividend equivalent described in section 871(m) and the regulations thereunder.
 

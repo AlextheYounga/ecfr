@@ -1,6 +1,6 @@
 ##### § 1.6655-7 Addition to tax on account of excessive adjustment under section 6425.
 
-(a) Section 6655(h) imposes an addition to the tax under chapter 1 of the Internal Revenue Code in the case of any excessive amount (as defined in paragraph (c) of this section) of an adjustment under section 6425 that is made before the 15th day of the third month following the close of a taxable year beginning after December 31, 1967. This addition to tax is imposed whether or not there was reasonable cause for an excessive adjustment.
+(a) Section 6655(h) imposes an addition to the tax under chapter 1 of the Internal Revenue Code in the case of any excessive amount (as defined in paragraph (c) of this section) of an adjustment under section 6425 that is made before the 15th day of the third month following the close of a taxable year beginning after December 31, 1967. This addition to tax is imposed whether or not there was reasonable cause for an excessive adjustment.*Effective/applicability date:*
 
 (b) If the amount of an adjustment under section 6425 is excessive, there shall be added to the tax under chapter 1 of the Internal Revenue Code for the taxable year an amount determined at the annual rate referred to in the regulations under section 6621 upon the excessive amount from the date on which the credit is allowed or refund paid to the 15th day of the third month following the close of the taxable year. A refund is paid on the date it is allowed under section 6407.
 

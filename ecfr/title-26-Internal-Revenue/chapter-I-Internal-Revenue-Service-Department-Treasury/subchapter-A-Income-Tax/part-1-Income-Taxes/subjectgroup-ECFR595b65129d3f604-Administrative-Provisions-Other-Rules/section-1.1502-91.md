@@ -24,7 +24,9 @@
 
 (3) *Example.* The following example illustrates the principles of this paragraph (c):
 
-Example. Loss group.(i) L and L1 file separate returns and each has a net operating loss carryover arising in Year 1 that is carried over to Year 2. A owns 40 shares and L owns 60 shares of the 100 outstanding shares of L1 stock. At the close of Year 1, L buys the 40 shares of L1 stock from A. For Year 2, L and L1 file a consolidated return. The following is a graphic illustration of these facts: ![](/graphics/er02jy99.000.gif)(ii) L and L1 become a loss group at the beginning of Year 2 because the group is entitled to use the Year 1 net operating loss carryover of L, the common parent, which did not arise (and is not treated under § 1.1502-21(c) as arising) in a SRLY. See § 1.1502-94 for rules relating to the application of section 382 with respect to L1's net operating loss carryover from Year 1 which did arise in a SRLY.
+Example. Loss group.(i) L and L1 file separate returns and each has a net operating loss carryover arising in Year 1 that is carried over to Year 2. A owns 40 shares and L owns 60 shares of the 100 outstanding shares of L1 stock. At the close of Year 1, L buys the 40 shares of L1 stock from A. For Year 2, L and L1 file a consolidated return. The following is a graphic illustration of these facts: *Example 2,*![](/graphics/er02jy99.000.gif)(ii) L and L1 become a loss group at the beginning of Year 2 because the group is entitled to use the Year 1 net operating loss carryover of L, the common parent, which did not arise (and is not treated under § 1.1502-21(c) as arising) in a SRLY. See § 1.1502-94 for rules relating to the application of section 382 with respect to L1's net operating loss carryover from Year 1 which did arise in a SRLY.
+
+(A) They were affiliated with each other in the P group (the former group);
 
 (d) *Loss subgroup*—(1) *Net operating loss carryovers.* Two or more corporations that become members of a consolidated group (the current group) compose a loss subgroup if—
 

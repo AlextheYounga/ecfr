@@ -31,7 +31,11 @@ Year 1955
 | December     | 100                        |
 |              | 2,475                      |
 
-Sum of unpaid balances $2,475 ÷ 12 = $206.25; 6 percent thereof = $12.38.Example 2.On November 20, 1955, B purchased a furniture set for $1,250, including a stated carrying charge of $48. The down payment was $50 and the balance was payable in 12 monthly installments of $100 each, on the first day of each month commencing with December 1955. Assume that B is a cash method, calendar year taxpayer and that no other installment purchases were made. Assume further that B made the first payment when due, but made only one other payment on June 1, 1956. The amount to be treated as interest in 1955 is $4, and the amount to be treated as interest in 1956 is $33, computed as follows:
+Sum of unpaid balances $2,475 ÷ 12 = $206.25; 6 percent thereof = $12.38.
+
+Carrying charges attributable to 1955 = $4.
+
+The sum of unpaid balances ($2,100) divided by 12 is $175; 6 percent thereof is $10.50. The carrying charges attributable to 1968 are $18.75 (*i.e.*, the total carrying charges ($50), divided by the total number of payments (8), multiplied by the number of payments made in 1968 (3)). Since the amount to be treated as interest in 1968 ($10.50) does not exceed the carrying charges attributable to 1968 ($18.75), the limitation set forth in paragraph (c) of this section is not applicable. Example 2.On November 20, 1955, B purchased a furniture set for $1,250, including a stated carrying charge of $48. The down payment was $50 and the balance was payable in 12 monthly installments of $100 each, on the first day of each month commencing with December 1955. Assume that B is a cash method, calendar year taxpayer and that no other installment purchases were made. Assume further that B made the first payment when due, but made only one other payment on June 1, 1956. The amount to be treated as interest in 1955 is $4, and the amount to be treated as interest in 1956 is $33, computed as follows:
 
 Year 1955
 | First day of | Unpaid balance outstanding |

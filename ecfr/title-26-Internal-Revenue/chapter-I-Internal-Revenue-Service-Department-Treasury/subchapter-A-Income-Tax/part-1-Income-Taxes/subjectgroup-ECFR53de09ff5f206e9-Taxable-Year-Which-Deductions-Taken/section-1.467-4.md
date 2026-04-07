@@ -46,7 +46,7 @@
 
 (f) *Examples.* The following examples illustrate the application of this section:
 
-Example 1.(i)(A) A leases property to B for a three-year period beginning on January 1, 2000, and ending on December 31, 2002. The section 467 rental agreement has the following rent allocation schedule and payment schedule:
+Example 1.(i)(A) A leases property to B for a three-year period beginning on January 1, 2000, and ending on December 31, 2002. The section 467 rental agreement has the following rent allocation schedule and payment schedule: *Example 1,*
 
 |      | Rent   allocation | Payment    |
 | ---- | ----------------- | ---------- |

@@ -1,6 +1,6 @@
 ##### § 1.168(k)-2 Additional first year depreciation deduction for property acquired and placed in service after September 27, 2017.
 
-(a) *Scope and definitions*—(1) *Scope.* This section provides rules for determining the additional first year depreciation deduction allowable under section 168(k) for qualified property acquired and placed in service after September 27, 2017, except as provided in paragraph (c) of this section.
+(a) *Scope and definitions*—(1) *Scope.* This section provides rules for determining the additional first year depreciation deduction allowable under section 168(k) for qualified property acquired and placed in service after September 27, 2017, except as provided in paragraph (c) of this section.3/8
 
 (2) *Definitions.* For purposes of this section—
 

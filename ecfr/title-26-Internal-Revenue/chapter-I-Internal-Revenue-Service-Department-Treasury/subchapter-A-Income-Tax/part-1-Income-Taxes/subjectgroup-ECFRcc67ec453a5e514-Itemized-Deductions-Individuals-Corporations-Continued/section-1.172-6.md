@@ -1,6 +1,6 @@
 ##### § 1.172-6 Illustration of net operating loss carrybacks and carryovers.
 
-The application of § 1.172-4 may be illustrated by the following example:
+The application of § 1.172-4 may be illustrated by the following example:*Facts.*
 
 (a) *Facts.* The books of the taxpayer, whose return is made on the basis of the calendar year, reveal the following facts:
 

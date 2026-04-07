@@ -1,6 +1,6 @@
 ##### § 1.512(a)-5 Questions and answers relating to the unrelated business taxable income of organizations described in paragraphs (9) or (17) of section 501(c).
 
-(a)(1) *Q-1.* What does section 512(a)(3) provide with respect to organizations described in paragraphs (9) or (17) of section 501(c)?
+(a)(1) *Q-1.* What does section 512(a)(3) provide with respect to organizations described in paragraphs (9) or (17) of section 501(c)?1/2
 
 (2) *A-1.* (i) In general, section 512(a)(3) provides rules for determining the unrelated business income tax of voluntary employees' beneficiary associations (VEBAs) and supplemental unemployment benefit trusts (SUBs). Under section 512(a)(3)(A), a Covered Entity's “unrelated business taxable income” (UBTI) means all income except exempt function income. Under section 512(a)(3)(B), exempt function income includes income that is set aside for exempt purposes, as described in paragraph (b) of this section, subject to certain limits, as described in paragraph (c) of this section.
 

@@ -1,6 +1,6 @@
 ##### § 1.9003 Statutory provisions; section 4 of the Act of September 14, 1960 (Pub. L. 86-781, 74 Stat. 1017).
 
-Sec. 4. Subsection (c) of section 302 of the Public Debt and Tax Rate Extension Act of 1960 (Pub. L. 86-564; 74 Stat. 293) is amended to read as follows:
+Sec. 4. Subsection (c) of section 302 of the Public Debt and Tax Rate Extension Act of 1960 (Pub. L. 86-564; 74 Stat. 293) is amended to read as follows:*Effective date*
 
 (c) *Effective date*—(1) *In general.* Except as provided in paragraph (2), the amendments made by subsections (a) and (b) shall be applicable only with respect to taxable years beginning after December 31, 1960.
 

@@ -1,6 +1,6 @@
 ##### § 1.417(e)-1 Restrictions and valuations of distributions from plans subject to sections 401(a)(11) and 417.
 
-(a) *Scope*—(1) *In general.* A plan does not satisfy the requirements of sections 401(a)(11) and 417 unless it satisfies the consent requirements, the determination of present value requirements and the other requirements set forth in this section. See section 401(a)(11) and § 1.401(a)-20 for other rules regarding the survivor annuity requirements.
+(a) *Scope*—(1) *In general.* A plan does not satisfy the requirements of sections 401(a)(11) and 417 unless it satisfies the consent requirements, the determination of present value requirements and the other requirements set forth in this section. See section 401(a)(11) and § 1.401(a)-20 for other rules regarding the survivor annuity requirements.1/3
 
 (2) *Additional requirements.* See § 1.411(a)-11 for other rules applicable to the consent requirements.
 
@@ -39,6 +39,8 @@
 (E) The following example illustrates the application of paragraph (b)(3)(iv)(D) of this section:
 
 Example.Under the terms of a defined benefit plan, participant A is entitled to a QJSA with a monthly payment of $1,500 beginning as of his annuity starting date. Due to administrative error, the QJSA explanation is provided to A after the annuity starting date. After receiving the QJSA explanation A elects a retroactive annuity starting date. Pursuant to this election, A begins to receive a monthly payment of $1,500 and also receives a make-up payment of $10,000. Under these circumstances the monthly payments may be treated as a QJSA for purposes of section 415(b)(2)(B). In addition, the monthly payments of $1,500 and the make-up payment of $10,000 may be treated as part of as series of substantially equal periodic payments for purpose of section 72(t)(2)(A)(iv).
+
+Employee E elects (with spousal consent) on December 2 to waive the QJSA and receive an immediate distribution in the form of a single life annuity. The plan may permit Employee E to receive payments with an annuity starting date of December 1, provided that the first payment is made no earlier than December 6 and the participant does not revoke the election before that date. The plan can make the remaining monthly payments on the first day of each month thereafter in accordance with its regular payment schedule.
 
 (v) *Requirements applicable to retroactive annuity starting dates.* A distribution is permitted to have a retroactive annuity starting date with respect to a participant's benefit only if the following requirements are met:
 

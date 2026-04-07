@@ -40,7 +40,25 @@
 
 (iv) The following example illustrates paragraph (c)(1)(i) of this section:
 
-Example.Foreign Parent (FP) is a foreign corporation engaged in the extraction of a natural resource. FP has a U.S. subsidiary (USS) to which FP sells supplies of this resource for sale in the United States. FP enters into a cost sharing arrangement with USS to develop a new machine to extract the natural resource. The machine uses a new extraction process that will be patented in the United States and in other countries. The cost sharing arrangement provides that USS will receive the rights to use the machine in the extraction of the natural resource in the United States, and FP will receive the rights in the rest of the world. This resource does not, however, exist in the United States. Despite the fact that USS has received the right to use this process in the United States, USS is not a qualified participant because it will not derive a benefit from the use of the intangible developed under the cost sharing arrangement.
+Example.Foreign Parent (FP) is a foreign corporation engaged in the extraction of a natural resource. FP has a U.S. subsidiary (USS) to which FP sells supplies of this resource for sale in the United States. FP enters into a cost sharing arrangement with USS to develop a new machine to extract the natural resource. The machine uses a new extraction process that will be patented in the United States and in other countries. The cost sharing arrangement provides that USS will receive the rights to use the machine in the extraction of the natural resource in the United States, and FP will receive the rights in the rest of the world. This resource does not, however, exist in the United States. Despite the fact that USS has received the right to use this process in the United States, USS is not a qualified participant because it will not derive a benefit from the use of the intangible developed under the cost sharing arrangement.2/3*Example 1,*
+
+(ii) R + D does not qualify as a controlled participant within the meaning of paragraph (c) of this section, because it will not derive any benefits from the use of covered intangibles. Therefore, R + D is treated as a service provider for purposes of this section and must receive arm's length consideration for the assistance it is deemed to provide to USP and FS, under the rules of § 1.482-4(f)(3)(iii). Such consideration must be treated as intangible development costs incurred by USP and FS in proportion to their shares of reasonably anticipated benefits (i.e., 66 2/3% and 33 1/3%, respectively). R + D will not be considered to bear any share of the intangible development costs under the arrangement.
+
+Sales
+
+\[In millions of dollars\]
+| Year | USS | FP |
+| ---- | --- | -- |
+| 1997 | 5   | 10 |
+| 1998 | 20  | 20 |
+| 1999 | 30  | 30 |
+| 2000 | 40  | 40 |
+| 2001 | 40  | 40 |
+| 2002 | 40  | 40 |
+| 2003 | 40  | 40 |
+| 2004 | 20  | 20 |
+| 2005 | 10  | 10 |
+| 2006 | 5   | 5  |
 
 (2) *Treatment of a controlled taxpayer that is not a controlled participant*—(i) *In general.* If a controlled taxpayer that is not a controlled participant (within the meaning of this paragraph (c)) provides assistance in relation to the research and development undertaken in the intangible development area, it must receive consideration from the controlled participants under the rules of § 1.482-4(f)(3)(iii) (Allocations with respect to assistance provided to the owner). For purposes of paragraph (d) of this section, such consideration is treated as an operating expense and each controlled participant must be treated as incurring a share of such consideration equal to its share of reasonably anticipated benefits (as defined in paragraph (f)(3) of this section).
 

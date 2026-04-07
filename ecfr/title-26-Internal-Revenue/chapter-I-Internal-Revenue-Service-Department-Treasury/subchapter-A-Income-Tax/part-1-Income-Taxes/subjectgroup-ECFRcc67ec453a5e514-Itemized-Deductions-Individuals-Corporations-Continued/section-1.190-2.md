@@ -1,6 +1,6 @@
 ##### § 1.190-2 Definitions.
 
-For purposes of section 190 and the regulations thereunder:
+For purposes of section 190 and the regulations thereunder:*Architectural and transportation barrier removal expenses.*1/2
 
 (a) *Architectural and transportation barrier removal expenses.* The term *architectural and transportation barrier removal expenses* means expenditures for the purpose of making any facility, or public transportation vehicle, owned or leased by the taxpayer for use in connection with his trade or business more accessible to, or usable by, handicapped individuals or elderly individuals. For purposes of this section:
 

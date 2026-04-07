@@ -1,6 +1,6 @@
 ##### § 1.36B-1 Premium tax credit definitions.
 
-(a) *In general.* Section 36B allows a refundable premium tax credit for taxable years ending after December 31, 2013. The definitions in this section apply to this section and §§ 1.36B-2 through 1.36B-5.
+(a) *In general.* Section 36B allows a refundable premium tax credit for taxable years ending after December 31, 2013. The definitions in this section apply to this section and §§ 1.36B-2 through 1.36B-5.Federal Register
 
 (b) *Affordable Care Act.* The term *Affordable Care Act* refers to the Patient Protection and Affordable Care Act, Public Law 111-148 (124 Stat. 119 (2010)), and the Health Care and Education Reconciliation Act of 2010, Public Law 111-152 (124 Stat. 1029 (2010)), as amended by the Medicare and Medicaid Extenders Act of 2010, Public Law 111-309 (124 Stat. 3285 (2010)), the Comprehensive 1099 Taxpayer Protection and Repayment of Exchange Subsidy Overpayments Act of 2011, Public Law 112-9 (125 Stat. 36 (2011)), the Department of Defense and Full-Year Continuing Appropriations Act, 2011, Public Law 112-10 (125 Stat. 38 (2011)), and the 3% Withholding Repeal and Job Creation Act, Public Law 112-56 (125 Stat. 711 (2011)).
 

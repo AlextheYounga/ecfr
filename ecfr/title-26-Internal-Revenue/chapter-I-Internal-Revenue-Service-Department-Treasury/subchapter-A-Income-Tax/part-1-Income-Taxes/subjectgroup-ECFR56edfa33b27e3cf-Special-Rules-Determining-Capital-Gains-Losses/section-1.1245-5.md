@@ -1,6 +1,6 @@
 ##### § 1.1245-5 Adjustments to basis.
 
-In order to reflect gain recognized under section 1245(a)(1), the following adjustments to the basis of property shall be made:
+In order to reflect gain recognized under section 1245(a)(1), the following adjustments to the basis of property shall be made:*Property acquired in like kind exchange or involuntary conversion.*
 
 (a) *Property acquired in like kind exchange or involuntary conversion.* (1) If property is acquired in a transaction to which section 1245(b)(4) applies, its basis shall be determined under the rules of section 1031(d) or 1033(c).
 

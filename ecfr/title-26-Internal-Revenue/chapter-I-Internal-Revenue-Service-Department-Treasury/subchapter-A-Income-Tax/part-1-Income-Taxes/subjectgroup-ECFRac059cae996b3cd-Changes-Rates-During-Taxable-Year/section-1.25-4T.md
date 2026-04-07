@@ -54,7 +54,7 @@ For purposes of this paragraph, a request for certification is proper if the req
 
 (i) A table titled “Number of Mortgage Credit Certificates by Income and Acquisition Cost” showing the number of mortgage credit certificates issued (other than those issued in connection with qualified home improvement and rehabilitation loans) according to the annualized gross income of the holders (categorized in the following intervals of income:
 
-$0-$9,999; $10,000-$19,999; $20,000-$29,999; $30,000-$39,999; $40,000-$49,999; $50,000-$74,999; and $75,000 or more)and according to the acquisition cost of the residences acquired in connection with the mortgage credit certificates (categorized in the following intervals of acquisition cost: $0-$19,999; $20,000-$39,999; $40,000-$59,999; $60,000-$79,999; $80,000-$99,999; $100,000-$119,999; $120,000-$149,999; $150,000-$199,999; and $200,000 or more).For each interval of income and acquisition cost the table must also be categorized according to—
+$0-$9,999; $10,000-$19,999; $20,000-$29,999; $30,000-$39,999; $40,000-$49,999; $50,000-$74,999; and $75,000 or more)Mortgage Credit Certificate Information Report and according to the acquisition cost of the residences acquired in connection with the mortgage credit certificates (categorized in the following intervals of acquisition cost: $0-$19,999; $20,000-$39,999; $40,000-$59,999; $60,000-$79,999; $80,000-$99,999; $100,000-$119,999; $120,000-$149,999; $150,000-$199,999; and $200,000 or more).For each interval of income and acquisition cost the table must also be categorized according to—
 
 (A) The aggregate amount of fees charged to holders to cover any administrative costs incurred by the issuer in issuing mortgage credit certificates, and
 

@@ -40,7 +40,7 @@
 
 (vi) *Examples.* The following examples illustrate the principles of this paragraph (b)(4). For purposes of these examples, each corporation has a taxable year that is the calendar year, unless the example provides otherwise.
 
-Example 1.(i) Corporations Y and Z are members of an aggregated group under paragraph (b)(2) of this section. Y is a health insurance issuer that is a covered health insurance provider pursuant to paragraph (b)(4)(i)(A) of this section and receives premiums from providing health insurance coverage that is minimum essential coverage during its 2015 taxable year in an amount that is less than two percent of the combined gross revenues of Y and Z for their 2015 taxable years. Z is not a health insurance issuer.
+Example 1.(i) Corporations Y and Z are members of an aggregated group under paragraph (b)(2) of this section. Y is a health insurance issuer that is a covered health insurance provider pursuant to paragraph (b)(4)(i)(A) of this section and receives premiums from providing health insurance coverage that is minimum essential coverage during its 2015 taxable year in an amount that is less than two percent of the combined gross revenues of Y and Z for their 2015 taxable years. Z is not a health insurance issuer. *Example 2,*
 
 (ii) Y and Z are not covered health insurance providers under paragraph (b)(4) of this section for their 2015 taxable years because they meet the requirements of the *de minimis* exception under paragraph (b)(4)(v)(A) of this section.
 

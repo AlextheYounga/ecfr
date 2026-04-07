@@ -32,7 +32,21 @@ If an individual has submitted a statement of nonresidence to the authorities of
 
 (3) *Illustrations of the physical presence requirement.* The physical presence requirement of paragraph (a)(2)(ii) of this section is illustrated by the following examples:
 
-Example 1.B, a U.S. citizen, arrives in Venezuela from New York at 12 noon on April 24, 1982. B remains in Venezuela until 2 p.m. on March 21, 1983, at which time B departs for the United States. Among other possible twelve month periods, B is present in a foreign country an aggregate of 330 full days during each of the following twelve month periods: March 21, 1982 through March 20, 1983; and April 25, 1982 through April 24, 1983.Example 2.C, a U.S. citizen, travels extensively from the time C leaves the United States on March 5, 1982, until the time C departs the United Kingdom on January 1, 1984, to return to the United States permanently. The schedule of C's travel and the number of full days at each location are listed below:
+Example 1.B, a U.S. citizen, arrives in Venezuela from New York at 12 noon on April 24, 1982. B remains in Venezuela until 2 p.m. on March 21, 1983, at which time B departs for the United States. Among other possible twelve month periods, B is present in a foreign country an aggregate of 330 full days during each of the following twelve month periods: March 21, 1982 through March 20, 1983; and April 25, 1982 through April 24, 1983.
+
+| Country        | Time and date of arrival | Time and date of departure      | Full days in foreign country |
+| -------------- | ------------------------ | ------------------------------- | ---------------------------- |
+| United States  |                          | 10 p.m. (by air) Mar. 5, 1982   |                              |
+| United Kingdom | 9 a.m. Mar. 6, 1982      | 10 p.m. (by ship) June 25, 1982 | 110                          |
+| United States  | 11 a.m. June 30, 1982    | 1 p.m. (by ship) July 19, 1982  | 0                            |
+| France         | 3 p.m. July 24, 1982     | 11 a.m. (by air) Aug. 22, 1983  | 393                          |
+| United States  | 4 p.m. Aug. 22, 1983     | 9 a.m. (by air) Sept. 4, 1983   | 0                            |
+| United Kingdom | 9 a.m. Sept. 5, 1983     | 9 a.m. (by air) Jan. 1, 1984    | 117                          |
+| United States  | 1 p.m. Jan. 1, 1984      |                                 |                              |
+
+First twelve-month period (March 2, 1982 through March 1, 1983):
+
+Example 2.C, a U.S. citizen, travels extensively from the time C leaves the United States on March 5, 1982, until the time C departs the United Kingdom on January 1, 1984, to return to the United States permanently. The schedule of C's travel and the number of full days at each location are listed below:
 
 | Country        | Time and date of arrival | Time and date of departure      | Full days in foreign country |
 | -------------- | ------------------------ | ------------------------------- | ---------------------------- |

@@ -88,7 +88,11 @@
 
 (l) *Examples.* The following examples illustrate the rules of this section:
 
-Example 1.In a class action brought in a United States federal district court, the court holds that the defendant, Corporation X, violated certain securities laws and must pay damages in the amount of $150 million. Pursuant to an order of the court, Corporation X transfers $50 million in cash and transfers property with a fair market value of $75 million to a state law trust. The trust will liquidate the property and distribute the cash proceeds to the plaintiffs in the class action. The trust is a qualified settlement fund because it was established pursuant to the order of a federal district court to resolve or satisfy claims against Corporation X for securities law violations that have occurred.Example 2.(i) Assume the same facts as in *Example 1,* except that Corporation X and the class of plaintiffs reach an out-of-court settlement that requires Corporation X to establish and fund a state law trust before the settlement agreement is submitted to the court for approval.
+Example 1.In a class action brought in a United States federal district court, the court holds that the defendant, Corporation X, violated certain securities laws and must pay damages in the amount of $150 million. Pursuant to an order of the court, Corporation X transfers $50 million in cash and transfers property with a fair market value of $75 million to a state law trust. The trust will liquidate the property and distribute the cash proceeds to the plaintiffs in the class action. The trust is a qualified settlement fund because it was established pursuant to the order of a federal district court to resolve or satisfy claims against Corporation X for securities law violations that have occurred.*Example 1,*
+
+(ii) The trust is not a qualified settlement fund because it neither is established pursuant to an order of, nor has it been approved by, a governmental authority described in paragraph (c)(1) of this section.
+
+Example 2.(i) Assume the same facts as in *Example 1,* except that Corporation X and the class of plaintiffs reach an out-of-court settlement that requires Corporation X to establish and fund a state law trust before the settlement agreement is submitted to the court for approval.
 
 (ii) The trust is not a qualified settlement fund because it neither is established pursuant to an order of, nor has it been approved by, a governmental authority described in paragraph (c)(1) of this section.
 

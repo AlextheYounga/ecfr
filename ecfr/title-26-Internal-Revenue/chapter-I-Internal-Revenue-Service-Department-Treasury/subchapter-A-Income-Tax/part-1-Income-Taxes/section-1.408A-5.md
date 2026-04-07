@@ -1,6 +1,6 @@
 ##### § 1.408A-5 Recharacterized contributions.
 
-This section sets forth the following questions and answers that provide rules regarding recharacterizing IRA contributions:
+This section sets forth the following questions and answers that provide rules regarding recharacterizing IRA contributions:*pro rata*
 
 Q-1. Can an IRA owner recharacterize certain contributions (i.e., treat a contribution made to one type of IRA as made to a different type of IRA) for a taxable year?
 
@@ -34,7 +34,7 @@ A-2. (a) The net income attributable to the amount of a contribution that is bei
 
 (6) The following examples illustrate the net income calculation under section 408A(d)(6) and this paragraph:
 
-Example 1.(i) On March 1, 2004, when her Roth IRA is worth $80,000, Taxpayer A makes a $160,000 conversion contribution to the Roth IRA. Subsequently, Taxpayer A discovers that she was ineligible to make a Roth conversion contribution in 2004 and so she requests that the $160,000 be recharacterized to a traditional IRA pursuant to section 408A(d)(6). Pursuant to this request, on March 1, 2005, when the IRA is worth $225,000, the Roth IRA trustee transfers to a traditional IRA the $160,000 plus allocable net income. No other contributions have been made to the Roth IRA and no distributions have been made.
+Example 1.(i) On March 1, 2004, when her Roth IRA is worth $80,000, Taxpayer A makes a $160,000 conversion contribution to the Roth IRA. Subsequently, Taxpayer A discovers that she was ineligible to make a Roth conversion contribution in 2004 and so she requests that the $160,000 be recharacterized to a traditional IRA pursuant to section 408A(d)(6). Pursuant to this request, on March 1, 2005, when the IRA is worth $225,000, the Roth IRA trustee transfers to a traditional IRA the $160,000 plus allocable net income. No other contributions have been made to the Roth IRA and no distributions have been made. *Example 2,*
 
 (ii) The adjusted opening balance is $240,000 \[$80,000 + $160,000\] and the adjusted closing balance is $225,000. Thus the net income allocable to the $160,000 is − $10,000 \[$160,000 × ($225,000 − $240,000) ÷ $240,000\]. Therefore, in order to recharacterize the March 1, 2004, $160,000 conversion contribution on March 1, 2005, the Roth IRA trustee must transfer from Taxpayer A's Roth IRA to her traditional IRA $150,000 \[$160,000 − $10,000\].
 

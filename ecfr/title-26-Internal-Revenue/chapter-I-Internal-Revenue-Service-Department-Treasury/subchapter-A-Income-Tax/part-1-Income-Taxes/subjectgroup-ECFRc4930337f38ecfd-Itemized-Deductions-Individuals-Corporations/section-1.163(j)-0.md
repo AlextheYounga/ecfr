@@ -4,7 +4,7 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 § 1.163(j)-1 Definitions.
 
-(a) In general.
+(a) In general.*1*
 
 (b) Definitions.
 

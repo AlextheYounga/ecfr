@@ -4,7 +4,7 @@ In order to facilitate the use of § 1.6045-1, this section lists the paragraphs
 
 § 1.6045-1 Returns of information of brokers and barter exchanges.
 
-(a) Definitions.
+(a) Definitions.*1*
 
 (1) Broker.
 

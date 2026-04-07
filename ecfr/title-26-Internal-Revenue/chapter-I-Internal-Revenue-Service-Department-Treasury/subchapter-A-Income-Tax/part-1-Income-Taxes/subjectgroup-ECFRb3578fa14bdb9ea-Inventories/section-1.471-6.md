@@ -1,6 +1,6 @@
 ##### § 1.471-6 Inventories of livestock raisers and other farmers.
 
-(a) A farmer may make his return upon an inventory method instead of the cash receipts and disbursements method. It is optional with the taxpayer which of these methods of accounting is used but, having elected one method, the option so exercised will be binding upon the taxpayer for the year for which the option is exercised and for subsequent years unless another method is authorized by the Commissioner as provided in paragraph (e) of § 1.446-1.
+(a) A farmer may make his return upon an inventory method instead of the cash receipts and disbursements method. It is optional with the taxpayer which of these methods of accounting is used but, having elected one method, the option so exercised will be binding upon the taxpayer for the year for which the option is exercised and for subsequent years unless another method is authorized by the Commissioner as provided in paragraph (e) of § 1.446-1.*See*
 
 (b) In any change of accounting method from the cash receipts and disbursements method to an inventory method, adjustments shall be made as provided in section 481 (relating to adjustments required by change in method of accounting) and the regulations thereunder.
 

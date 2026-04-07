@@ -94,8 +94,9 @@ to the extent that income arising from such rights to payment was not previously
 
 (g) *Examples.* Application of the provisions of section 751 may be illustrated by the following examples:
 
-Example 1.(i)(A) A and B are equal partners in personal service partnership PRS. B transfers its interest in PRS to T for $15,000 when PRS's balance sheet (reflecting a cash receipts and disbursements method of accounting) is as follows:
+Example 1.(i)(A) A and B are equal partners in personal service partnership PRS. B transfers its interest in PRS to T for $15,000 when PRS's balance sheet (reflecting a cash receipts and disbursements method of accounting) is as follows: *Facts.*
 
+Assets
 |                        | Assets |
 | ---------------------- | ------ |
 | Cash                   | $3,000 |
@@ -114,9 +115,9 @@ Example 1.(i)(A) A and B are equal partners in personal service partnership PRS.
 
 (B) None of the assets owned by PRS is section 704(c) property, and the capital assets are nondepreciable. The total amount realized by B is $16,000, consisting of the cash received, $15,000, plus $1,000, B's share of the partnership liabilities assumed by T. See section 752. B's undivided half-interest in the partnership property includes a half-interest in the partnership's unrealized receivables items. B's basis for its partnership interest is $10,000 ($9,000, plus $1,000, B's share of partnership liabilities). If section 751(a) did not apply to the sale, B would recognize $6,000 of capital gain from the sale of the interest in PRS. However, section 751(a) does apply to the sale.
 
-(ii) If PRS sold all of its section 751 property in a fully taxable transaction immediately prior to the transfer of B's partnership interest to T, B would have been allocated $7,000 of ordinary income from the sale of PRS's unrealized receivables. Therefore, B will recognize $7,000 of ordinary income with respect to the unrealized receivables. The difference between the amount of capital gain or loss that the partner would realize in the absence of section 751 ($6,000) and the amount of ordinary income or loss determined under paragraph (a)(2) of this section ($7,000) is the transferor's capital gain or loss on the sale of its partnership interest. In this case, B will recognize a $1,000 capital loss.
+(ii) If PRS sold all of its section 751 property in a fully taxable transaction immediately prior to the transfer of B's partnership interest to T, B would have been allocated $7,000 of ordinary income from the sale of PRS's unrealized receivables. Therefore, B will recognize $7,000 of ordinary income with respect to the unrealized receivables. The difference between the amount of capital gain or loss that the partner would realize in the absence of section 751 ($6,000) and the amount of ordinary income or loss determined under paragraph (a)(2) of this section ($7,000) is the transferor's capital gain or loss on the sale of its partnership interest. In this case, B will recognize a $1,000 capital loss.*The properties exchanged.*1/3
 
-Example 2.(a) *Facts.* Partnership ABC makes a distribution to partner C in liquidation of his entire one-third interest in the partnership. At the time of the distribution, the balance sheet of the partnership, which uses the accrual method of accounting, is as follows:
+The distribution received by C consists of $10,000 cash and depreciable property with a fair market value of $15,000 and an adjusted basis to the partnership of $15,000. Example 2.(a) *Facts.* Partnership ABC makes a distribution to partner C in liquidation of his entire one-third interest in the partnership. At the time of the distribution, the balance sheet of the partnership, which uses the accrual method of accounting, is as follows:
 
 Assets
 |                      | Adjusted basis per books | Market value |

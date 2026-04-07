@@ -12,7 +12,11 @@
 
 (B) *Examples.* The provisions of this paragraph (a)(2)(i) may be illustrated by the following examples:
 
-Example 1.Corporation X holds a residual interest in REMIC R in its capacity as a nominee or custodian for individual A, the beneficial owner of the interest. Because the owner of the interest for Federal income tax purposes is an individual, the interest is owned by a pass-through interest holder.Example 2.Individual retirement account I holds a residual interest in a REMIC. Because an individual retirement account is not a person described in paragraph (a)(2)(i)(A) of this section, the interest is not held by a pass-through interest holder.
+Example 1.Corporation X holds a residual interest in REMIC R in its capacity as a nominee or custodian for individual A, the beneficial owner of the interest. Because the owner of the interest for Federal income tax purposes is an individual, the interest is owned by a pass-through interest holder.*1*
+
+A, an individual,
+
+Example 2.Individual retirement account I holds a residual interest in a REMIC. Because an individual retirement account is not a person described in paragraph (a)(2)(i)(A) of this section, the interest is not held by a pass-through interest holder.
 
 (ii) *Single-class REMIC*—(A) *In general.* In the case of a single-class REMIC, the term “pass-through interest holder” means any holder of either—
 
@@ -30,7 +34,7 @@ Example 1.Corporation X holds a residual interest in REMIC R in its capacity as 
 
 (*ii*) Is structured with the principal purpose of avoiding the requirement of paragraphs (a)(1) and (2)(ii)(A) of this section to allocate allocable investment expenses to pass-through interest holders that hold regular interests in the REMIC.
 
-For purposes of this paragraph (a)(2)(ii)(B), in determining whether a REMIC would be classified as an investment trust or is substantially similar to an investment trust, all interests in the REMIC shall be treated as ownership interests in the REMIC, without regard to whether or not they would be classified as debt for Federal income tax purposes in the absence of a REMIC election.
+For purposes of this paragraph (a)(2)(ii)(B), in determining whether a REMIC would be classified as an investment trust or is substantially similar to an investment trust, all interests in the REMIC shall be treated as ownership interests in the REMIC, without regard to whether or not they would be classified as debt for Federal income tax purposes in the absence of a REMIC election. *1*
 
 (C) *Examples.* The provisions of paragraph (a)(2)(ii) of this section must be illustrated by the following examples:
 

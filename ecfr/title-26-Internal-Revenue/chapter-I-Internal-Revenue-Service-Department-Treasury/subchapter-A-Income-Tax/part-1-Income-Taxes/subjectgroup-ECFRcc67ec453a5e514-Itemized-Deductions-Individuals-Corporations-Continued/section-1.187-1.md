@@ -58,7 +58,7 @@
 
 (d) *Examples.* This section may be illustrated by the following examples:
 
-Example 1.On September 30, 1970, the X Corporation, which uses the calendar year as its taxable year, places in service a piece of coal mine safety equipment required as a result of the Federal Coal Mine Health and Safety Act of 1969 which is certified as indicated in paragraph (a) of § 1.187-2. The cost of the equipment is $120,000. On its income tax return filed for 1970, the corporation elects to take the amortization deductions allowed by section 187(a) with respect to the equipment and to begin the 60-month amortization period with October 1970, the month following the month in which it was placed in service. The adjusted basis at the end of October 1970 (determined without regard to the amortization deduction allowed by section 187(a) for that month) is $120,000. The allowable amortization deduction with respect to such equipment for the taxable year 1970 is $6,000, computed as follows:
+Example 1.On September 30, 1970, the X Corporation, which uses the calendar year as its taxable year, places in service a piece of coal mine safety equipment required as a result of the Federal Coal Mine Health and Safety Act of 1969 which is certified as indicated in paragraph (a) of § 1.187-2. The cost of the equipment is $120,000. On its income tax return filed for 1970, the corporation elects to take the amortization deductions allowed by section 187(a) with respect to the equipment and to begin the 60-month amortization period with October 1970, the month following the month in which it was placed in service. The adjusted basis at the end of October 1970 (determined without regard to the amortization deduction allowed by section 187(a) for that month) is $120,000. The allowable amortization deduction with respect to such equipment for the taxable year 1970 is $6,000, computed as follows: *Example 1.*
 
 | Monthly amortization deductions:                         |        |
 | October: $120,000 divided by 60                          | $2,000 |
@@ -66,7 +66,7 @@ Example 1.On September 30, 1970, the X Corporation, which uses the calendar year
 | December: $116,000 ($118,000 minus $2,000) divided by 58 | 2,000  |
 | Total amortization deduction for 1970                    | 6,000  |
 
-Example 2.Assume the same facts as in *Example 1.* Assume further that on May 20, 1972, X properly files notice of its election to discontinue the amortization deductions with the month of June 1972. The adjusted basis of the equipment as of June 1, 1972 (assuming no capital additions or improvements) is $80,000, computed as follows: Yearly amortization deductions computed in accordance with *Example 1:*
+Beginning as of June 1, 1972, the deduction for depreciation under section 167 is allowable with respect to the property on its adjusted basis of $80,000.Example 2.Assume the same facts as in *Example 1.* Assume further that on May 20, 1972, X properly files notice of its election to discontinue the amortization deductions with the month of June 1972. The adjusted basis of the equipment as of June 1, 1972 (assuming no capital additions or improvements) is $80,000, computed as follows: Yearly amortization deductions computed in accordance with *Example 1:*
 
 | 1970                                               | $6,000  |
 | 1971                                               | 24,000  |

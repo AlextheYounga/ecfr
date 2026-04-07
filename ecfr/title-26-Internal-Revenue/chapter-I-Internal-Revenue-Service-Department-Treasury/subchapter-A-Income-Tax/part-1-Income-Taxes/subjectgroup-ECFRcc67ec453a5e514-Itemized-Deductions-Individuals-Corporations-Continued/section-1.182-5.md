@@ -6,9 +6,9 @@
 
 (b) *Examples.* The provisions of paragraph (a) of this section may be illustrated by the following examples:
 
-Example 1.For the taxable year 1963, A, who uses the cash receipts and disbursements method of accounting, incurs expenditures to which section 182 applies in the amount of $2,000 and makes the election under section 182. A has the following items of income and deductions (without regard to section 182 expenditures).
+Example 1.For the taxable year 1963, A, who uses the cash receipts and disbursements method of accounting, incurs expenditures to which section 182 applies in the amount of $2,000 and makes the election under section 182. A has the following items of income and deductions (without regard to section 182 expenditures). *Example 1*
 
-| Income:                                                                                                                    |         |         |
+| Income:12                                                                                                                  |         |         |
 | Proceeds from sale of his 1963 yield of corn                                                                               | $10,000 |         |
 | Proceeds from sales of milk                                                                                                | 8,000   |         |
 | Gain from disposition of old breeding cows                                                                                 | 500     |         |

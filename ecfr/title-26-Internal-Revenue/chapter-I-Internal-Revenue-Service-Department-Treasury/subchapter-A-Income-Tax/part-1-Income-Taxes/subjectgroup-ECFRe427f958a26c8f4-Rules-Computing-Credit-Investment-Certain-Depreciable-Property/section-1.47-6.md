@@ -1,6 +1,6 @@
 ##### § 1.47-6 Partnerships.
 
-(a) *In general*—(1) *Disposition or cessation in hands of partnership.* If a partnership disposes of any partnership section 38 property (or if any partnership section 38 property otherwise ceases to be section 38 property in the hands of the partnership) before the close of the estimated useful life which was taken into account in computing qualified investment with respect to such property, a recapture determination shall be made with respect to each partner who is treated, under paragraph (f) of § 1.46-3, as a taxpayer with respect to such property. Each such recapture determination shall be made with respect to the share of the basis (or cost) of such property taken into account by such partner in computing his qualified investment. For purposes of each such recapture determination the actual useful life of such property shall be the period beginning with the date on which it was placed in service by the partnership and ending with the date of the disposition or cessation. In making a recapture determination under this subparagraph there shall be taken into account any prior recapture determinations made with respect to the partner in connection with the same property. For definition of “recapture determination” see paragraph (a)(1) of § 1.47-1.
+(a) *In general*—(1) *Disposition or cessation in hands of partnership.* If a partnership disposes of any partnership section 38 property (or if any partnership section 38 property otherwise ceases to be section 38 property in the hands of the partnership) before the close of the estimated useful life which was taken into account in computing qualified investment with respect to such property, a recapture determination shall be made with respect to each partner who is treated, under paragraph (f) of § 1.46-3, as a taxpayer with respect to such property. Each such recapture determination shall be made with respect to the share of the basis (or cost) of such property taken into account by such partner in computing his qualified investment. For purposes of each such recapture determination the actual useful life of such property shall be the period beginning with the date on which it was placed in service by the partnership and ending with the date of the disposition or cessation. In making a recapture determination under this subparagraph there shall be taken into account any prior recapture determinations made with respect to the partner in connection with the same property. For definition of “recapture determination” see paragraph (a)(1) of § 1.47-1.2/3
 
 (2) *Disposition of partner's interest.* (i) If—
 
@@ -24,7 +24,7 @@ Partners A and B, who make their returns on the basis of a calendar year, share 
 
 | Asset No. | Estimated useful life (years) | Basis   | Partners share of basis |
 | --------- | ----------------------------- | ------- | ----------------------- |
-| 1         | 4                             | $30,000 | $15,000                 |
+| 113       | 4                             | $30,000 | $15,000                 |
 | 2         | 6                             | 30,000  | 15,000                  |
 | 3         | 8                             | 30,000  | 15,000                  |
 
@@ -41,7 +41,14 @@ For the taxable year 1962, each partner's credit earned of $2,100 (7 percent of 
 
 (ii) The actual useful life of asset No. 3 is three years and six months. The recomputed qualified investment with respect to each partner's share of the basis of asset No. 3 is zero ($15,000 shares of basis multiplied by zero applicable percentage) and for the taxable year 1962, each partner's recomputed credit earned is $1,050 (7 percent of $15,000). The income tax imposed by chapter 1 of the Code on each of the partners for the taxable year 1965 is increased by the $1,050 decrease in his credit earned for the taxable year 1962 (that is, $2,100 original credit earned minus $1,050 recomputed credit earned).
 
-Example 2.(i) On December 3, 1964, partner A sells one-half of his 50 percent interest in ABC Partnership to C, and on December 3, 1965, A sells the remaining one- half of his interest to D. In addition, on January 2, 1966, ABC Partnership sells asset No. 3 to X Corporation.
+| Partnership asset No. | Share of basis | Applicable percentage | Qualified investment |
+| --------------------- | -------------- | --------------------- | -------------------- |
+| 1                     | $7,500         | 331⁄3                 | $2,500               |
+| 2                     | 7,500          | 662⁄3                 | 5,000                |
+| 3                     | 7,500          | 100                   | 7,500                |
+|                       |                |                       | 15,000               |
+
+For the taxable year 1962 partner A's recomputed credit earned is $1,050 (7 percent of $15,000). The income tax imposed by chapter 1 of the Code on partner A for the taxable year 1964 is increased by the $1,050 decrease in his credit earned for the taxable year 1962 (that is, $2,100 original credit earned minus $1,050 recomputed credit earned). Example 2.(i) On December 3, 1964, partner A sells one-half of his 50 percent interest in ABC Partnership to C, and on December 3, 1965, A sells the remaining one- half of his interest to D. In addition, on January 2, 1966, ABC Partnership sells asset No. 3 to X Corporation.
 
 (ii) Under paragraph (a)(2) of this section, on December 3, 1964, 50 percent of the basis of each of the three items of section 38 property ceases to be section 38 property with respect to partner A since immediately after the December 3, 1964, sale A's proportionate interest in the general profits of ABC Partnership is reduced to 50 percent of his proportionate interest in the general profits of ABC Partnership for 1962. The actual useful life of the share of the basis of each of the section 38 properties which cease to be section 38 property with respect to A is two years and six months (that is, the period beginning with June 1, 1962, and ending with December 3, 1964). Partner A's recomputed qualified investment with respect to such properties is $15,000, computed as follows:
 

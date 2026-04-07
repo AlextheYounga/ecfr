@@ -22,6 +22,19 @@ For the requirement that the overall United States and foreign income tax incurr
 
 Example.Domestic corporation M owns all the one class of stock in controlled foreign corporation A. Corporation M uses the calendar year as its taxable year, and A Corporation uses a fiscal year ending August 31. For 1964, M Corporation makes a first-tier election in order to exclude from gross income for such year the subpart F income of A Corporation for its taxable year ending on August 31, 1964. Although, such election applies to the taxable year of A Corporation beginning on September 1, 1963, the applicable table, for purposes of determining the statutory percentages to be used under paragraph (a) of this section for the taxable year, is that set forth in section 963(b)(2), which relates to taxable years of United States shareholders beginning in 1964. Thus, if for the taxable year of A Corporation ending August 31, 1964, the effective foreign tax rate is 30 percent, A Corporation would have to distribute 72 percent of its earnings and profits for such year in order for M Corporation to be entitled to an exclusion under section 963 for 1964.
 
+(b) If B Corporation had been a controlled foreign corporation throughout 1963, M Corporation's proportionate share of the earnings and profits of corporations A and B for 1963 would have been $20 (0.20 × $100) and $10 (0.20 × 0.50 × $100), respectively.
+
+|                                                    | Controlled foreign corporations |
+| -------------------------------------------------- | ------------------------------- |
+| Dividend                                           | $28.98                          |
+| Gross-up under section 78 ($28.98/ $70 × $30)      | 12.42                           |
+| Taxable income                                     | 41.40                           |
+| U.S. tax before foreign tax credit ($41.40 × 0.48) | 19.87                           |
+| Foreign tax credit ($12.42 + \[0.06 × $28.98\])    | 14.16                           |
+| U.S. tax payable                                   | 5.71                            |
+
+The effective foreign tax rate for 1966 is 24.5 percent ($51.50/\[$158.50 + $51.50\]) and the statutory percentage under section 963(b)(3) for such year is 76 percent. Thus, the amount of the minimum distribution which M Corporation must receive from the 1966 consolidated earnings and profits of the group is $120.46 (0.76 × $158.50).
+
 (c) *Effective foreign tax rate*—(1) *Single first-tier corporation.* For purposes of section 963 the term “effective foreign tax rate” for a taxable year means, with respect to a single first-tier corporation, the percentage which—
 
 (i) The United States shareholder's proportionate share (as determined under paragraph (e)(1) of this section) of the foreign income tax of such corporation for such taxable year is of—

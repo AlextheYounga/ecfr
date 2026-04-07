@@ -52,13 +52,18 @@
 
 (2) This section may be illustrated by the following examples:
 
-Example 1. Gain recognition election for carryover FT stock. (a) A has owned 90 of the 100 shares of CFCT stock since CFCT was organized on March 13, 1989. P has owned the remaining 10 shares of CFCT stock since CFCT was organized. Those 10 shares constitute nonrecently purchased stock in P's hands within the meaning of section 338(b)(6)(B). On November 1, 1994, P purchases A's 90 shares of CFCT stock for $90,000 and makes a section 338 election for CFCT. P also makes a gain recognition election under section 338(b)(3)(A) and § 1.338-5(d).
+Example 1. Gain recognition election for carryover FT stock. (a) A has owned 90 of the 100 shares of CFCT stock since CFCT was organized on March 13, 1989. P has owned the remaining 10 shares of CFCT stock since CFCT was organized. Those 10 shares constitute nonrecently purchased stock in P's hands within the meaning of section 338(b)(6)(B). On November 1, 1994, P purchases A's 90 shares of CFCT stock for $90,000 and makes a section 338 election for CFCT. P also makes a gain recognition election under section 338(b)(3)(A) and § 1.338-5(d). *Example 1,*
 
-(b) CFCT's earnings and profits for its short taxable year ending on November 1, 1994, are $50,000, determined without taking into account the deemed asset sale. Assume A recognizes gain of $81,000 on the sale of the CFCT stock. Further, assume that CFCT recognizes gain of $40,000 by reason of its deemed sale of assets under section 338(a)(1).
+(b) CFCT's earnings and profits for its short taxable year ending on November 1, 1994, are $50,000, determined without taking into account the deemed asset sale. Assume A recognizes gain of $81,000 on the sale of the CFCT stock. Further, assume that CFCT recognizes gain of $40,000 by reason of its deemed sale of assets under section 338(a)(1).*Example 1,*
 
 (c) A's sale of CFCT stock to P is a transfer to which section 1248 and paragraphs (b)(1) and (2) of this section apply. For purposes of applying section 1248(a) to A, the earnings and profits of CFCT for its short taxable year ending on November 1, 1994, are $90,000 (the earnings and profits for that taxable year as determined under § 1.1248-2(e) ($50,000) plus earnings from the deemed sale ($40,000)). Thus, A's entire gain is characterized as a dividend under section 1248 (but see section 338(h)(16)).
 
 (d) Assume that P recognizes a gain of $9,000 with respect to the 10 shares of nonrecently purchased CFCT stock by reason of the gain recognition election. Because P is treated as selling the nonrecently purchased stock for all purposes of the Internal Revenue Code, section 1248 applies. Thus, under § 1.1248-2(e), $9,000 of the $90,000 of earnings and profits for 1994 are attributable to the block of 10 shares of CFCT stock deemed sold by P at the close of November 1, 1994 ($90,000 × 10/100). Accordingly, P's entire gain on the deemed sale of 10 shares of CFCT stock is included under section 1248(a) in P's gross income as a dividend (but see section 338(h)(16)).
+
+| FT's subpart F income for 1994                                                                                                                         | $500.00 |
+| Less: reduction under section 951(a)(2)(A) for period (1-1-94 through 7-1-94) during which FT is not a controlled foreign corporation ($500 × 182/365) | 249.32  |
+| Subpart F income as limited by section 951 (a)(2)(A)                                                                                                   | 250.68  |
+| P's pro rata share of subpart F income as determined under section 951(a)(2)(A) (60% × 250.68)                                                         | 150.41  |
 
 Example 2. No gain recognition election for carryover FT stock. (a) Assume the same facts as in *Example 1,* except that P does not make a gain recognition election.
 

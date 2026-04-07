@@ -4,7 +4,7 @@ The following table of contents is provided to facilitate the use of §§ 1.1366
 
 § 1.1366-1 Shareholder's share of items of an S corporation.
 
-(a) Determination of shareholder's tax liability.
+(a) Determination of shareholder's tax liability.*In general.*
 
 (1) In general.
 

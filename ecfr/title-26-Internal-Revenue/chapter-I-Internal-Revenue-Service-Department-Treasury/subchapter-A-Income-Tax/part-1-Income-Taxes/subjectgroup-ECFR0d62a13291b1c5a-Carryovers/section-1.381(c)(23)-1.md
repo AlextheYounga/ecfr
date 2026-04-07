@@ -18,7 +18,7 @@
 
 (d) *Computation of carryovers when date of distribution or transfer occurs on last day of acquiring corporation's taxable year.* The computation of the investment credit carryovers from the distributor or transferor corporation and from the acquiring corporation in a case where the date of distribution or transfer occurs on the last day of a taxable year of the acquiring corporation may be illustrated by the following example:
 
-Example.X Corporation and Y Corporation were organized on January 1, 1971, and each corporation files its return on the calendar year basis. On December 31, 1972, X transfers all its assets to Y in a statutory merger to which section 361 applies. X's credit earned and its limitation based on amount of tax for its taxable years 1971 and 1972 are as follows:
+Example.X Corporation and Y Corporation were organized on January 1, 1971, and each corporation files its return on the calendar year basis. On December 31, 1972, X transfers all its assets to Y in a statutory merger to which section 361 applies. X's credit earned and its limitation based on amount of tax for its taxable years 1971 and 1972 are as follows: *X Corporation's 1971 unused credit.*
 
 | X Corporation's taxable year | Credit earned | Limitation based on amount of tax |
 | ---------------------------- | ------------- | --------------------------------- |

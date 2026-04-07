@@ -1,6 +1,6 @@
 ##### § 1.664-4 Calculation of the fair market value of the remainder interest in a charitable remainder unitrust.
 
-(a) *Rules for determining present value.* For purposes of sections 170, 2055, 2106, and 2522, the fair market value of a remainder interest in a charitable remainder unitrust (as described in § 1.664-3) is its present value determined under paragraph (d) of this section. The present value determined under this section shall be computed on the basis of—
+(a) *Rules for determining present value.* For purposes of sections 170, 2055, 2106, and 2522, the fair market value of a remainder interest in a charitable remainder unitrust (as described in § 1.664-3) is its present value determined under paragraph (d) of this section. The present value determined under this section shall be computed on the basis of—X
 
 (1) Life contingencies determined as to each life involved, from the values of lX set forth in Table 2010CM in § 20.2031-7(d)(7)(ii) of this chapter in the case of transfers for which the valuation date is on or after June 1, 2023; or from Table 2000CM contained in § 20.2031-7A(g)(4) of this chapter in the case of transfers for which the valuation date is on or after May 1, 2009, and before June 1, 2023. See § 20.2031-7A(a) through (f) of this chapter, whichever is applicable, for transfers for which the valuation date is before May 1, 2009;
 
@@ -15,15 +15,15 @@
 (d) *Valuation.* The fair market value of a remainder interest in a charitable remainder unitrust (as described in § 1.664-3) for transfers for which the valuation date is on or after June 1, 2023, is its present value determined under paragraph (e) of this section. The fair market value of a remainder interest in a charitable remainder unitrust (as described in § 1.664-3) for transfers for which the valuation date is before June 1, 2023, is its present value determined under the following sections:
 
 Table 1 to Paragraph (d)
-| Valuation dates | Applicable   regulations |
-| --------------- | ------------------------ |
-|                 | 01-01-52                 |
-| 12-31-51        | 01-01-71                 |
-| 12-31-70        | 12-01-83                 |
-| 11-30-83        | 05-01-89                 |
-| 04-30-89        | 05-01-99                 |
-| 04-30-99        | 05-01-09                 |
-| 04-30-09        | 06-01-23                 |
+| Valuation dates               | Applicable   regulations |
+| ----------------------------- | ------------------------ |
+| **Factors from Table F(3.2)** | 01-01-52                 |
+| 12-31-51                      | 01-01-71                 |
+| 12-31-70                      | 12-01-83                 |
+| 11-30-83                      | 05-01-89                 |
+| 04-30-89                      | 05-01-99                 |
+| 04-30-99                      | 05-01-09                 |
+| 04-30-09                      | 06-01-23                 |
 
 (e) *Valuation of charitable remainder unitrusts having certain payout sequences for transfers for which the valuation date is on or after June 1, 2023*—(1) *In general.* Except as otherwise provided in paragraph (e)(2) of this section, in the case of transfers for which the valuation date is on or after June 1, 2023, the present value of a remainder interest is determined under paragraphs (e)(3) through (7) of this section, provided that, in a short taxable year, the trustee must prorate the unitrust amount as provided in § 1.664-3(a)(1)(v). See, however, § 1.7520-3(b) (relating to exceptions to the use of the prescribed tables under certain circumstances).
 

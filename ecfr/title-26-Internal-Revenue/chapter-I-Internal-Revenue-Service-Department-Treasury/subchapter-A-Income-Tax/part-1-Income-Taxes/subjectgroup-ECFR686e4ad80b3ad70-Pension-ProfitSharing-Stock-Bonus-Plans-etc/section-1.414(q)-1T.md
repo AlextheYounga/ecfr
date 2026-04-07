@@ -1,6 +1,6 @@
 ##### § 1.414(q)-1T Highly compensated employee (temporary).
 
-The following questions and answers relate to the definition of “highly compensated employee” provided in section 414(q). The definitions and rules provided in these questions and answers are provided solely for purposes of determining the group of highly compensated employees.
+The following questions and answers relate to the definition of “highly compensated employee” provided in section 414(q). The definitions and rules provided in these questions and answers are provided solely for purposes of determining the group of highly compensated employees.*In general.1/2*1/2
 
 Table of contents. Q&A-1 General applicability of section 414(q). Q&A-2 Definition of highly compensated employees. Q&A-3 Definition of highly compensated active employees. Q&A-4 Definition of highly compensated former employees. Q&A-5 Definition of separation year. Q&A-6 Definition of employer. Q&A-7 Definition of employee. Q&A-8 Definition of 5-percent owner. Q&A-9 Definition of top-paid group. Q&A-10 Definition of officer and rules on inclusion of officers in highly compensated group. Q&A-11 Rules with respect to family aggregation. Q&A-12 Definition of family member. Q&A-13 Definition of compensation. Q&A-14 Rules with respect to the relevant determination periods. Q&A-15 Transition rule applicable to plan years beginning in 1987 and 1988 for certain employers that have plans that must comply with the provisions of section 401(k)(3) or 401(m)(2).
 
@@ -50,7 +50,7 @@ A-3: (a) *General rule.* For purposes of the year for which the determination is
 
 (e) *Examples.* The following examples, in which the determination year and look-back year are the calendar year, are illustrative of the rules in paragraph (a) of this A-3. For purposes of these examples, the threshold dollar amounts in paragraph (a)(1) (ii) and (iii) of this A-3 are not increased pursuant to paragraph (c) of this A-3.
 
-Example 1.Employee A, who is not at any time a 5-percent owner, an officer, or a member of the top-100 within the meaning of paragraph (a)(1) (i), or (iv), or (a)(2) (i) or (ii), but who was a member of the top-paid group for each year, is included in or excluded from the highly compensated groups as specified below for the following years:
+Example 1.Employee A, who is not at any time a 5-percent owner, an officer, or a member of the top-100 within the meaning of paragraph (a)(1) (i), or (iv), or (a)(2) (i) or (ii), but who was a member of the top-paid group for each year, is included in or excluded from the highly compensated groups as specified below for the following years: *Example 1,*1/2
 
 | Year | Compensation | Status | Comments                                                                                                                                                               |
 | ---- | ------------ | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

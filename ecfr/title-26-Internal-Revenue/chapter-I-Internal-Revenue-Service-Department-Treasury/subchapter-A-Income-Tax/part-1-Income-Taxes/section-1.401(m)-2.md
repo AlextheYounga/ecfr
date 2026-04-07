@@ -1,6 +1,6 @@
 ##### § 1.401(m)-2 ACP test.
 
-(a) *Actual contribution percentage (ACP) test*—(1) *In general—(i) ACP test formula.* A plan satisfies the ACP test for a plan year only if—
+(a) *Actual contribution percentage (ACP) test*—(1) *In general—(i) ACP test formula.* A plan satisfies the ACP test for a plan year only if—1/2
 
 (A) The ACP for the eligible HCEs for the plan year is not more than the ACP for the eligible NHCEs for the applicable year multiplied by 1.25; or
 
@@ -26,7 +26,14 @@
 
 (iii) *Example.* The following example illustrates the application of paragraph (a)(3)(ii) of this section. See also § 1.401(k)-2(a)(3)(iii) for additional examples of the application of the parallel rule under section 401(k)(3)(A). The example is as follows:
 
-Example.Employee A, an HCE with compensation of $120,000, is eligible to make employee contributions under Plan S and Plan T, two calendar-year profit-sharing plans of Employer H. Plan S and Plan T use the same definition of compensation. Plan S provides a match equal to 50% of each employee's contributions and Plan T has no match. During the current plan year, Employee A elects to contribute $4,000 in employee contributions to Plan T and $4,000 in employee contributions to Plan S. There are no other contributions made on behalf of Employee A. Each plan must calculate Employee A's ACR by dividing the total employee contributions by Employee A and matching contributions under both plans by $120,000. Therefore, Employee A's ACR under each plan is 8.33% ($4,000 + $4,000 + $2,000/$120,000).
+Example.Employee A, an HCE with compensation of $120,000, is eligible to make employee contributions under Plan S and Plan T, two calendar-year profit-sharing plans of Employer H. Plan S and Plan T use the same definition of compensation. Plan S provides a match equal to 50% of each employee's contributions and Plan T has no match. During the current plan year, Employee A elects to contribute $4,000 in employee contributions to Plan T and $4,000 in employee contributions to Plan S. There are no other contributions made on behalf of Employee A. Each plan must calculate Employee A's ACR by dividing the total employee contributions by Employee A and matching contributions under both plans by $120,000. Therefore, Employee A's ACR under each plan is 8.33% ($4,000 + $4,000 + $2,000/$120,000).*Example 2,*
+
+|                                 | Employee contributions   (percentage) | Matching contributions   (percentage) | Actual contribution   (percentage) |
+| ------------------------------- | ------------------------------------- | ------------------------------------- | ---------------------------------- |
+| Highly compensated employees    | 4                                     | 2                                     | 6                                  |
+| Nonhighly compensated employees | 3                                     | 1.5                                   | 4.5                                |
+
+(iii) Because the ACP for the HCEs (6.0%) exceeds 5.63% (4.5% × 1.25), Plan U does not satisfy the ACP test under paragraph (a)(1)(i)(A) of this section. However, because the ACP for the HCEs does not exceed the ACP for the NHCEs by more than 2 percentage points and the ACP for the HCEs does not exceed the ACP for the NHCEs multiplied by 2 (4.5% × 2 = 9%), the plan satisfies the ACP test under paragraph (a)(1)(i)(B) of this section.*Example 8.*
 
 (4) *Employee contributions and matching contributions taken into account under the ACP test*—(i) *Employee contributions.* An employee contribution is taken into account in determining the ACR for an eligible employee for the plan year or applicable year in which the contribution is made. For purposes of the preceding sentence, an amount withheld from an employee's pay (or a payment by the employee to an agent of the plan) is treated as contributed at the time of such withholding (or payment) if the funds paid are transmitted to the trust within a reasonable period after the withholding (or payment).
 

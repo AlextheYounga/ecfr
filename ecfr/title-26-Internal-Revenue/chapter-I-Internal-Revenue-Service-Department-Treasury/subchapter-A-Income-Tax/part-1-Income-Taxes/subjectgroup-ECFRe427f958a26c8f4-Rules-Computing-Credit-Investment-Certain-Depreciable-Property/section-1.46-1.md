@@ -115,7 +115,7 @@ Act and Section Tax Reduction Act of 1975, section 301. Tax Reform Act of 1976, 
 
 (n) *Examples.* The following examples illustrate paragraphs (a) through (m) of this section.
 
-Example 1.(a) Corporation M's regular credit available for its taxable year ending December 31, 1979 is as follows:
+Example 1.(a) Corporation M's regular credit available for its taxable year ending December 31, 1979 is as follows: *Example 2*
 
 | Regular carryovers    | $5,000 |
 | Regular credit earned | 10,000 |

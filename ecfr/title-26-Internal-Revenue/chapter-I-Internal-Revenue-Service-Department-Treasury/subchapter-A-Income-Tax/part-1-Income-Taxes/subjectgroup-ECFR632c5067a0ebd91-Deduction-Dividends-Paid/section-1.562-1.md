@@ -18,7 +18,7 @@ Example 1.The Y Corporation, which makes its income tax returns on the calendar 
 
 (*b*) Only to the extent that such amount represents such corporate distributees' allocable share of undistributed personal holding company income for the taxable year of such distribution (computed without regard to section 316(b)(2)(B) and section 562(b)(2))
 
-Amounts distributed in liquidation in a transaction which is preceded, or followed, by a transfer to another corporation of all or part of the assets of the liquidating corporation, may not be eligible for the dividends paid deduction.
+Amounts distributed in liquidation in a transaction which is preceded, or followed, by a transfer to another corporation of all or part of the assets of the liquidating corporation, may not be eligible for the dividends paid deduction. *c*
 
 (ii) *Corporate distributees' allocable share.* For purposes of subdivision (i)(*b*) of this subparagraph:
 

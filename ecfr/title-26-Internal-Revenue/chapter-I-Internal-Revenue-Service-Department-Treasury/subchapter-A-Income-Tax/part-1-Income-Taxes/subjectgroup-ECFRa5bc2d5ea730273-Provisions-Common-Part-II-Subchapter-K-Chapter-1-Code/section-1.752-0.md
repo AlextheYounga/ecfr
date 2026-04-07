@@ -4,7 +4,7 @@ This section lists the major paragraphs that appear in §§ 1.752-1 through 1.75
 
 § 1.752-1 Treatment of partnership liabilities.
 
-(a) Definitions.
+(a) Definitions.*1*
 
 (1) Recourse liability defined.
 

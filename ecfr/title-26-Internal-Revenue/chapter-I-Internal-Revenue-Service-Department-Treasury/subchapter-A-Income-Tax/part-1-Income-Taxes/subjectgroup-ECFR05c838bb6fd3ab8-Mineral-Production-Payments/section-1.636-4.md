@@ -1,10 +1,21 @@
 ##### § 1.636-4 Effective dates of section 636.
 
-(a) *In general.* Except as provided hereinafter in this section, section 636 and §§ 1.636-1, 1.636-2, and 1.636-3 apply to production payments created on or after August 7, 1969, other than production payments created before January 1, 1971, pursuant to a binding contract entered into before August 7, 1969.
+(a) *In general.* Except as provided hereinafter in this section, section 636 and §§ 1.636-1, 1.636-2, and 1.636-3 apply to production payments created on or after August 7, 1969, other than production payments created before January 1, 1971, pursuant to a binding contract entered into before August 7, 1969.Federal Register,
 
 (b) *Election.* Under section 503(c)(2) of the Tax Reform Act of 1969, if the taxpayer so elects, section 636(a) of the Code and §§ 1.636-1 and 1.636-3 apply to all production payments carved out by him after the beginning of his last taxable year ending before August 7, 1969, including such production payments created after such date pursuant to a binding contract entered into before such date. No interest shall be allowed on any refund or credit of any overpayment of tax resulting from an election under section 503(c)(2) for any taxable year ending before August 7, 1969. The provisions of this paragraph may be illustrated by the following example:
 
 Example.A, a fiscal-year taxpayer whose taxable year ends on October 31, carved out and sold (from a producing property) production payments on October 1, 1967, and on July 9, 1969. On August 1, 1969, A entered into a binding contract to create another carved-out production payment (from a different producing property) and the production payment was carved out on December 22, 1969. If A elects under section 503(c)(2), the production payments carved out on July 9, 1969, and December 22, 1969, are treated as mortgage loans under section 636(a). The production payment carved out on October 1, 1967, is not treated as a mortgage loan under section 636(a) because it was carved out before the beginning of A's last taxable year ending before August 7, 1969.
+
+(b) The provisions of section 636 do not apply to a portion of the November 14, 1969, production payment for purposes other than section 611 and section 904 of the Code, determined as follows:
+
+| (1) Amount of production payment carved out in 1969 on or after August 7, 1969                                                                          | $150,000 |
+| (2) Amount of production payment carved out during 1968                                                                                                 | 500,000  |
+| (3) Amount of production payment carved out during 1969 taxable year before August 7, 1969                                                              | 300,000  |
+| (4) Item (2) minus item (3)                                                                                                                             | 200,000  |
+| (5) Excess of allowable deductions over gross income for 1969                                                                                           | 100,000  |
+| (6) Amount of production payment carved out in 1969 on or after August 7, 1969, to which section 636 does not apply (lesser of items (1), (4), and (5)) | 100,000  |
+
+Thus, A will not treat $100,000 of the consideration received for the production payment carved out on November 14, 1969, as a loan and as a result his gross income for 1969 will be $700,000. However, in computing percentage depletion, A will not include the $100,000 in *gross income from property* and in computing cost depletion A will not include the mineral units attributable thereto. Nor, will A include the $100,000 in determining the limitation on foreign tax credit under section 904.
 
 (c) *Time and manner of making election.* (1) Any election under section 503(c)(2) of the Tax Reform Act of 1969 must be made not later than May 30, 1973.
 

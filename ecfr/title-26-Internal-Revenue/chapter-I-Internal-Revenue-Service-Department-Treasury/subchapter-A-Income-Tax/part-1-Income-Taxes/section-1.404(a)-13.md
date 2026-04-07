@@ -13,7 +13,7 @@
 Illustration of Application of Provisions of Section 404(a)(7) and of Treatment of Carryovers for Overlapping Pension and Profit-Sharing Trusts Put Into Effect in 1954 and Covering the Same Employees (All Figures Represent Thousands of Dollars and all Taxable (Calendar) Years of the Employer are Years Which End With or Within A Taxable Year of the Trust for Which it is Exempt Under Section 501(a))
 |                                                                                                                               | Taxable calendar years |
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| **before giving effect to section**404(a)(7)                                                                                  |                        |
+| **before giving effect to section**404(a)(7)1                                                                                 |                        |
 | Pension trust contributions and limitations, deductions, and carryovers under section 404(a)(1):                              |                        |
 | 1\. Contributions paid in year                                                                                                | $215                   |
 | 2\. Contributions carried over from prior years                                                                               | 0                      |

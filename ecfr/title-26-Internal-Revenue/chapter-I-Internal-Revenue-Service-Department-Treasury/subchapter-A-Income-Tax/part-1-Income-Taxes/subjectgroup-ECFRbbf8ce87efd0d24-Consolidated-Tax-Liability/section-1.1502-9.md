@@ -18,9 +18,9 @@
 
 (ii) *Examples.* Paragraph (b)(6)(i) of this section is illustrated by the following examples. The identity of the parties and the basic assumptions set forth in § 1.1502-13(c)(7)(i) apply to the examples. Except as otherwise stated, assume further that the consolidated group recognizes no foreign source income other than as a result of the transactions described. The examples are as follows:
 
-Example 1.(i) On June 10, year 1, S transfers nondepreciable property with a basis of $100 and a fair market value of $250 to B in a transaction to which section 351 applies. The property was predominantly used without the United States in a trade or business within the meaning of section 904(f)(3). B continues to use the property without the United States. The group has a COFL account in the relevant loss category of $120 as of December 31, year 1.
+Example 1.(i) On June 10, year 1, S transfers nondepreciable property with a basis of $100 and a fair market value of $250 to B in a transaction to which section 351 applies. The property was predominantly used without the United States in a trade or business within the meaning of section 904(f)(3). B continues to use the property without the United States. The group has a COFL account in the relevant loss category of $120 as of December 31, year 1. *Example 1.*
 
-(ii) Because the contribution from S to B is an intercompany transaction, section 904(f)(3) does not apply to result in any gain recognition in year 1. See paragraph (b)(5)(i) of this section.
+(ii) Because the contribution from S to B is an intercompany transaction, section 904(f)(3) does not apply to result in any gain recognition in year 1. See paragraph (b)(5)(i) of this section.*Example 1.*
 
 (iii) On January 10, year 4, B ceases to be a member of the group. Because S did not recognize gain in year 1 under section 351, no gain is taken into account in year 4 under § 1.1502-13. Thus, no portion of the group's COFL account is recaptured in year 4. For rules requiring apportionment of a portion of the COFL account to B, see paragraph (c)(2) of this section.
 

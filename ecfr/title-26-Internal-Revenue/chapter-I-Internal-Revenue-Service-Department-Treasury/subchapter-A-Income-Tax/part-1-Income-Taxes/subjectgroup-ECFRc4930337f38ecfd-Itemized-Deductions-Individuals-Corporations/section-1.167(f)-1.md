@@ -16,7 +16,7 @@ which has an estimated useful life (determined at the time of acquisition) of 3 
 
 (c) *Illustrations.* The provisions of paragraphs (a) and (b) of this section may be illustrated by the following examples:
 
-Example 1.Taxpayer A purchases a new asset for use in his business on January 1, 1963, for $10,000. The asset qualifies for the investment credit under section 38 and for the additional first-year depreciation allowance under section 179. A is entitled to an investment credit of $700 (7% × $10,000) and elects to take an additional first-year depreciation allowance of $2,000 (20% × $10,000). The basis for depreciation (determined in accordance with the provisions of section 167(g) and § 1.167(g)-1) is computed as follows:
+Example 1.Taxpayer A purchases a new asset for use in his business on January 1, 1963, for $10,000. The asset qualifies for the investment credit under section 38 and for the additional first-year depreciation allowance under section 179. A is entitled to an investment credit of $700 (7% × $10,000) and elects to take an additional first-year depreciation allowance of $2,000 (20% × $10,000). The basis for depreciation (determined in accordance with the provisions of section 167(g) and § 1.167(g)-1) is computed as follows: *i.e.*
 
 | Purchase price                                                                                                                  | $10,000 |  |
 | Less: Adjustment required for taxable years beginning before Jan. 1, 1964, under section 1016(a)(19), for the investment credit | $700    |  |

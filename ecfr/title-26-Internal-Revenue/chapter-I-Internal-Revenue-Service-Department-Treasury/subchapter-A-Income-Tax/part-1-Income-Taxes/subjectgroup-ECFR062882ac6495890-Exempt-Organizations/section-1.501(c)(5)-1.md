@@ -1,6 +1,6 @@
 ##### § 1.501(c)(5)-1 Labor, agricultural, and horticultural organizations.
 
-(a) The organizations contemplated by section 501(c)(5) as entitled to exemption from income taxation are those which:
+(a) The organizations contemplated by section 501(c)(5) as entitled to exemption from income taxation are those which:*General rule.*
 
 (1) Have no net earnings inuring to the benefit of any member, and
 

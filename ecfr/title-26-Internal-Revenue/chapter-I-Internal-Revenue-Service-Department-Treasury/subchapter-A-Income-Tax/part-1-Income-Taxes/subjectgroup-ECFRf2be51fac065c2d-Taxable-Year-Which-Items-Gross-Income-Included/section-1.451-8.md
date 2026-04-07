@@ -1,6 +1,6 @@
 ##### § 1.451-8 Advance payments for goods, services, and certain other items.
 
-(a) *Definitions.* Except as otherwise provided in this section, the following definitions apply for this section:
+(a) *Definitions.* Except as otherwise provided in this section, the following definitions apply for this section:1/4
 
 (1) *Advance payment*—(i) *In general.* An *advance payment* is a payment received by a taxpayer if:
 

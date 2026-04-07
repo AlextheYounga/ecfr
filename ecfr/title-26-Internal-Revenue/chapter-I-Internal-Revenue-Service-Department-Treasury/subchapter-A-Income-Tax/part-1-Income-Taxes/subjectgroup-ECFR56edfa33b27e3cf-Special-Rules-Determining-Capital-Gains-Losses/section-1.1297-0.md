@@ -4,7 +4,7 @@ This section contains a listing of the headings for §§ 1.1297-1, 1.1297-2, 1.1
 
 § 1.1297-1 Definition of passive foreign investment company.
 
-(a) Overview.
+(a) Overview.*1*
 
 (b) Dividends included in gross income.
 

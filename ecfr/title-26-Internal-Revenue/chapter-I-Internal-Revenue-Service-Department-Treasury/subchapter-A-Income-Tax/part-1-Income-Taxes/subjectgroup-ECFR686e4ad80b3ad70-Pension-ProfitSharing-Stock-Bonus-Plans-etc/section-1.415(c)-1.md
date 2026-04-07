@@ -94,9 +94,16 @@
 
 (c) *Examples.* The following examples illustrate the rules of paragraphs (a) and (b) of this section:
 
-Example 1.(i) P is a participant in a qualified profit-sharing plan maintained by his employer, ABC Corporation. The limitation year for the plan is the calendar year. P's compensation (as defined in § 1.415(c)-2) for the current limitation year is $30,000.
+Example 1.(i) P is a participant in a qualified profit-sharing plan maintained by his employer, ABC Corporation. The limitation year for the plan is the calendar year. P's compensation (as defined in § 1.415(c)-2) for the current limitation year is $30,000. *Example 1,*
 
 (ii) Because the compensation limitation described in section 415(c)(1)(B) applicable to P for the current limitation year is lower than the dollar limitation described in section 415(c)(1)(A), the maximum annual addition which can be allocated to P's account for the current limitation year is $30,000 (100 percent of $30,000).
+
+| Limitation year | Compensation |
+| --------------- | ------------ |
+| 2008            | $30,000      |
+| 2009            | $32,000      |
+| 2010            | $34,000      |
+| 2011            | $36,000      |
 
 Example 2.(i) The facts are the same as in *Example 1,* except that P's compensation for the current limitation year is $140,000.
 

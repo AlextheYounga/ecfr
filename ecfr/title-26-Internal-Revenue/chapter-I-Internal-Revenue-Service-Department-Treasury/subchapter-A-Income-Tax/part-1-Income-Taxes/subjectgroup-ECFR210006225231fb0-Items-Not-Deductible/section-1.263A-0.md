@@ -4,7 +4,7 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 § 1.263A-1 Uniform Capitalization of Costs.
 
-(a) Introduction.
+(a) Introduction.*1*1/3
 
 (1) In general.
 

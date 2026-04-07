@@ -46,7 +46,38 @@
 
 (10) *Examples.* The provisions of this paragraph (c) are illustrated by the following examples:
 
-Example 1.S is an accrual basis QBU that is required to use the dollar as its functional currency for its first taxable year beginning in 1994. S's hyperinflationary currency is the “h.” During 1994, S accrues 100 dollars attributable to dollar-denominated sales. Because this is a dollar transaction under paragraph (c)(8) of this section, S's income or loss for 1994 shall reflect the 100 dollars (not the hyperinflationary value of such dollars when accrued).Example 2.(i) S is an accrual basis QBU that is required to use the dollar as its functional currency for its first taxable year beginning in 1994. S's hyperinflationary currency is the “h.” During 1994, S's sales amounted to 240,000,000h, its currently deductible expenses were 26,000,000h, and its total inventory purchases amounted to 100,000,000h. During January and February of 1994, S purchased depreciable assets for 80,000,000h and was allowed depreciation of 4,000,000h. At the end of 1994, S's closing inventory was 23,000,000h. No election to use a translation period other than the month is made, S had no transactions described in paragraph (c)(8) or (c)(9) of this section, and S's closing inventory was computed on the first-in, first-out inventory method. S's adjusted income or loss statement for 1994 is translated into dollars as follows:
+Example 1.S is an accrual basis QBU that is required to use the dollar as its functional currency for its first taxable year beginning in 1994. S's hyperinflationary currency is the “h.” During 1994, S accrues 100 dollars attributable to dollar-denominated sales. Because this is a dollar transaction under paragraph (c)(8) of this section, S's income or loss for 1994 shall reflect the 100 dollars (not the hyperinflationary value of such dollars when accrued).
+
+|                                                                                  | Hyperinflationary currency | Exchange rate | United States dollars |
+| -------------------------------------------------------------------------------- | -------------------------- | ------------- | --------------------- |
+| **Sales**1                                                                       |                            |               |                       |
+| (Jan.-Feb.)                                                                      | 10,000,000h                | 1 20:1        | $500,000              |
+| (Mar.-Apr.)                                                                      | 20,000,000                 | 21:1          | 952,381               |
+| (May.-June.)                                                                     | 50,000,000                 | 22:1          | 2,272,727             |
+| (July)                                                                           | 50,000,000                 | 23:1          | 2,173,913             |
+| (August)                                                                         | 20,000,000                 | 26:1          | 769,231               |
+| (Sept.)                                                                          | 20,000,000                 | 28:1          | 714,286               |
+| (Oct.)                                                                           | 20,000,000                 | 29:1          | 689,655               |
+| (Nov.)                                                                           | 20,000,000                 | 30:1          | 666,667               |
+| (Dec.)                                                                           | 30,000,000                 | 31:1          | 967,742               |
+| Total                                                                            | 240,000,000h               |               | 9,706,602             |
+| **Cost of Goods Sold**                                                           |                            |               |                       |
+| Opening Inventory Purchases:                                                     | 0                          |               | 0                     |
+| (Jan.-Feb.)                                                                      | 15,000,000h                | 20:1          | 750,000               |
+| (Mar.-Apr.)                                                                      | 10,000,000                 | 21:1          | 476,190               |
+| (May-June)                                                                       | 30,000,000                 | 22:1          | 1,363,636             |
+| (July)                                                                           | 20,000,000                 | 23:1          | 869,565               |
+| (August)                                                                         | 10,000,000                 | 26:1          | 384,615               |
+| (Sept.)                                                                          | 5,000,000                  | 28:1          | 178,571               |
+| (Oct.)                                                                           | 5,000,000                  | 29:1          | 172,414               |
+| (Nov.)                                                                           | 2,500,000                  | 30:1          | 83,333                |
+| (Dec.)                                                                           | 2,500,000                  | 31:1          | 80,645                |
+| Less Closing Inventory                                                           | (23,000,000)               | (2)           | (822,655)             |
+|                                                                                  | 77,000,000h                |               | 3,536,314             |
+| 1 Where multiple months are indicated, the exchange rate applies for all months. |                            |               |                       |
+| 2 See paragraph (ii) of this Example.                                            |                            |               |                       |
+
+\[(750,000h + 1,250,000h) ÷ 2\] × \[($1 ÷ 500h) − ($1 ÷ 200h)\] = ($3000)Example 2.(i) S is an accrual basis QBU that is required to use the dollar as its functional currency for its first taxable year beginning in 1994. S's hyperinflationary currency is the “h.” During 1994, S's sales amounted to 240,000,000h, its currently deductible expenses were 26,000,000h, and its total inventory purchases amounted to 100,000,000h. During January and February of 1994, S purchased depreciable assets for 80,000,000h and was allowed depreciation of 4,000,000h. At the end of 1994, S's closing inventory was 23,000,000h. No election to use a translation period other than the month is made, S had no transactions described in paragraph (c)(8) or (c)(9) of this section, and S's closing inventory was computed on the first-in, first-out inventory method. S's adjusted income or loss statement for 1994 is translated into dollars as follows:
 
 |                                                                                  | Hyperinflationary currency | Exchange rate | United States dollars |
 | -------------------------------------------------------------------------------- | -------------------------- | ------------- | --------------------- |

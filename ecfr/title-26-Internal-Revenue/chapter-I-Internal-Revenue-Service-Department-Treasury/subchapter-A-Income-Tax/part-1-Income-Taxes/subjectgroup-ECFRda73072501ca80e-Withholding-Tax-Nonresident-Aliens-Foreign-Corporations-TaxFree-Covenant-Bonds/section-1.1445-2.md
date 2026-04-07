@@ -42,6 +42,8 @@ I understand that this certification may be disclosed to the Internal Revenue Se
 
 Under penalties of perjury I declare that I have examined this certification and to the best of my knowledge and belief it is true, correct, and complete. \[Signature and Date\]”
 
+\[Signature(s) and date\]
+
 (B) *Entity transferor.*
 
 “Section 1445 of the Internal Revenue Code provides that a transferee of a U.S. real property interest must withhold tax if the transferor is a foreign person. For U.S. tax purposes (including section 1445), the owner of a disregarded entity (which has legal title to a U.S. real property interest under local law) will be the transferor of the property and not the disregarded entity. To inform the transferee that withholding of tax is not required upon the disposition of a U.S. real property interest by \[name of transferor\] , the undersigned hereby certifies the following on behalf of \[name of the transferor\]:

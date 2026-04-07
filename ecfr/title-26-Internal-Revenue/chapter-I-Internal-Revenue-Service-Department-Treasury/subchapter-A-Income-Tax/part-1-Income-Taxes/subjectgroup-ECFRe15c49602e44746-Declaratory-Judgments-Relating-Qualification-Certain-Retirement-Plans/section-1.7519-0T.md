@@ -4,7 +4,7 @@ This section lists the captions that appear in the temporary regulations under s
 
 § 1.7519-1T Required payments for entities electing not to have required year (temporary).
 
-(a) In general.
+(a) In general.*1*
 
 (1) Applicability.
 

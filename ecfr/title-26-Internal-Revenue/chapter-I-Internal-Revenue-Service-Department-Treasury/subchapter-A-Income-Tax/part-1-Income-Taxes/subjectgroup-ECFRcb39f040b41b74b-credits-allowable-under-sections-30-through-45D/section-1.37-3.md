@@ -58,6 +58,8 @@ Example 1.B, who is 62 years old and single, receives a fully taxable pension of
 | Retirement income                                                          | 2,400  |       |
 | Credit for the elderly (15 pct. of $1,300)                                 | 195    |       |
 
+(b) Subject to the limitation of section 37(c)(2) and paragraph (b) of § 1.37-1, H's credit for the elderly is $157.50, computed as follows:
+
 Example 2.During 1978 H, who is 67 years old, has earnings of $1,300 and retirement income (rents, interest, etc.) of $6,000. H also receives social security payments totalling $1,400. During 1978 W, who is 63 years old, earns $1,600 and receives a fully taxable pension of $1,400 from a public retirement system that constitutes retirement income. W performed the services giving rise to the pension. H and W file a joint return for 1978 and elect to compute the credit for the elderly under section 37(e). Under the applicable law these items of income are community income, and both spouses share equally in each item. Because H and W are filing a joint return, they disregard community property laws in computing their credit under section 37(e). The couple allocates $1,600 of the $3,750 referred to in section 37(e)(6) to W and $2,150 to H. Subject to the limitation of section 37(c)(2) and paragraph (b) of § 1.37-1, their credit for the elderly is $315, computed as follows:
 
 | Credit base of H:                            |        |       |

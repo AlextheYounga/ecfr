@@ -1,6 +1,6 @@
 ##### § 1.613-6 Statement to be attached to return when depletion is claimed on percentage basis.
 
-In addition to the requirements set forth in paragraph (g) of § 1.611-2, a taxpayer who claims the percentage depletion deduction under section 613 for any taxable year shall attach to his return for such year a statement setting forth in complete, summary form, with respect to each property for which such deduction is allowable, the following information:
+In addition to the requirements set forth in paragraph (g) of § 1.611-2, a taxpayer who claims the percentage depletion deduction under section 613 for any taxable year shall attach to his return for such year a statement setting forth in complete, summary form, with respect to each property for which such deduction is allowable, the following information:*gross income from the property,*
 
 (a) All data necessary for the determination of the *gross income from the property,* as defined in §§ 1.613-3 from 1.613-4, including:
 

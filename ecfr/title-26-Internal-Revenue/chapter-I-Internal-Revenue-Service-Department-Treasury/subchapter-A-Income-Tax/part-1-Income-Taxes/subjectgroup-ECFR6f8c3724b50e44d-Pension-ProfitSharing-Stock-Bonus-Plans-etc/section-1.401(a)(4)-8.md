@@ -92,11 +92,11 @@
 
 (viii) *Examples.* The following examples illustrate the rules in this paragraph (b)(1):
 
-Example 1.(i) Plan M, a defined contribution plan without a minimum service requirement, provides an allocation formula under which allocations are provided to all employees according to the following schedule:
+Example 1.(i) Plan M, a defined contribution plan without a minimum service requirement, provides an allocation formula under which allocations are provided to all employees according to the following schedule: *1*
 
 | Completed years of service | Allocation rate   (in percent) | Ratio of allocation rate for band to allocation rate for immediately preceding band |
 | -------------------------- | ------------------------------ | ----------------------------------------------------------------------------------- |
-| 0-5                        | 3.0                            | (1)                                                                                 |
+| 0-51                       | 3.0                            | (1)                                                                                 |
 | 6-10                       | 4.5                            | 1.50                                                                                |
 | 11-15                      | 6.5                            | 1.44                                                                                |
 | 16-20                      | 8.5                            | 1.31                                                                                |

@@ -4,7 +4,7 @@ This section lists the table of contents for §§ 1.1411-1 through 1.1411-10.
 
 § 1.1411-1 General rules.
 
-(a) General rule.
+(a) General rule.*1*
 
 (b) Adjusted gross income.
 

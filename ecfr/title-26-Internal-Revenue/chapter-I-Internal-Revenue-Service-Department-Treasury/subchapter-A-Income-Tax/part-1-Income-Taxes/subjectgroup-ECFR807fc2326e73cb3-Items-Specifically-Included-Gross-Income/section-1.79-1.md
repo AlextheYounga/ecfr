@@ -1,6 +1,6 @@
 ##### § 1.79-1 Group-term life insurance—general rules.
 
-(a) *What is group-term life insurance?* Life insurance is not group-term life insurance for purposes of section 79 unless it meets the following conditions:
+(a) *What is group-term life insurance?* Life insurance is not group-term life insurance for purposes of section 79 unless it meets the following conditions:1/2
 
 (1) It provides a general death benefit that is excludable from gross income under section 101(a).
 
@@ -48,7 +48,7 @@
 
 (2) *Formula for determining cost of the permanent benefits.* In each policy year the cost of the permanent benefits for any particular employee must be no less than:
 
-*X*(DDB2−DDB1) where DDB2 is the employee's deemed death benefit at the end of the policy year: DDB1 is the employee's deemed death benefit at the end of the preceding policy year; and *X* is the net single premium for insurance (the premium for one dollar of paid-up whole-life insurance) at the employee's attained age at the beginning of the policy year.
+*X*(DDB2−DDB1) where DDB2 is the employee's deemed death benefit at the end of the policy year: *X*DDB1 is the employee's deemed death benefit at the end of the preceding policy year; and *X* is the net single premium for insurance (the premium for one dollar of paid-up whole-life insurance) at the employee's attained age at the beginning of the policy year.
 
 (3) *Formula for determining deemed death benefit.* The deemed death benefit (DDB) at the end of any policy year for any particular employee is equal to—
 
@@ -74,7 +74,7 @@ R/Y Where— R is the net level premium reserve at the end of that policy year f
 
 Example.An employer provides insurance to employee A under a policy that meets the requirements of this section. Under the policy, A, who is 47 years old, received $70,000 of group-term life insurance and elects to receive a permanent benefit under the policy. A pays $2 for each $1,000 of group-term life insurance through payroll deductions and the employer pays the remainder of the premium for the group-term life insurance. The employer also pays one half of the premium specified in the policy for the permanent benefit. A pays the other half of the premium for the permanent benefit through payroll deductions. The policy specifies that the annual premium paid for the permanent benefit is $300. However, the amount of premium allocated to the permanent benefit by the formula in paragraph (d)(2) of this section is $350. A is a calendar year taxpayer; the policy year begins January 1. In year 2000, $200 is includible in A's income because of insurance provided by the employer. This amount is computed as follows:
 
-| (1) Cost of permanent benefits                                                 | $350 |
+| (1) Cost of permanent benefits12                                               | $350 |
 | (2) Amounts considered paid by A for permanent benefits (1⁄2 × $300)           | 150  |
 | (3) Line (1) minus line (2)                                                    | 200  |
 | (4) Cost of $70,000 of group-term life insurance under Table I of § 1.79-3     | 126  |

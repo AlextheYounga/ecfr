@@ -4,7 +4,7 @@ This section lists the captions that appear in the regulations for §§ 1.382-2 
 
 § 1.382-2 General rules for ownership change.
 
-(a) Certain definitions for purposes of sections 382 and 383 and the regulations thereunder.
+(a) Certain definitions for purposes of sections 382 and 383 and the regulations thereunder.*1*
 
 (1) Loss corporation.
 

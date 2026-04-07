@@ -16,7 +16,11 @@
 
 (g) *Examples.* The following examples illustrate the rules of this section. In all examples, *A* is a U.S. citizen and *FT* is a foreign trust. The examples are as follows:
 
-Example 1. Transfer to owner trust.In 2001, *A* transfers property which has a fair market value of 1000X and an adjusted basis equal to 400X to *FT.* At the time of the transfer, *FT* has a U.S. beneficiary within the meaning of § 1.679-2, and *A* is treated as owning *FT* under section 679. Under paragraph (a) of this section, § 1.684-1 does not cause *A* to recognize gain at the time of the transfer. See § 1.684-2(e) for rules that may require *A* to recognize gain if the trust is no longer owned by *A.*Example 2. Transfer of property at death: Basis determined under section 1014(a).(i) The initial facts are the same as *Example 1.*
+Example 1. Transfer to owner trust.In 2001, *A* transfers property which has a fair market value of 1000X and an adjusted basis equal to 400X to *FT.* At the time of the transfer, *FT* has a U.S. beneficiary within the meaning of § 1.679-2, and *A* is treated as owning *FT* under section 679. Under paragraph (a) of this section, § 1.684-1 does not cause *A* to recognize gain at the time of the transfer. See § 1.684-2(e) for rules that may require *A* to recognize gain if the trust is no longer owned by *A.*
+
+(ii) *A* dies on July 1, 2004. The fair market value at *A'*s death of all property transferred to *FT* by *A* is 1500X. The basis in the property is 400X. *A* retained the power to revoke *FT,* thus, the value of all property owned by *FT* at *A'*s death is includible in *A'*s gross estate for U.S. estate tax purposes. Pursuant to paragraph (c) of this section, *A* is not required to recognize gain under § 1.684-1 because the basis of the property in the hands of the foreign trust is determined under section 1014(a).
+
+Example 2. Transfer of property at death: Basis determined under section 1014(a).(i) The initial facts are the same as *Example 1.*
 
 (ii) *A* dies on July 1, 2004. The fair market value at *A'*s death of all property transferred to *FT* by *A* is 1500X. The basis in the property is 400X. *A* retained the power to revoke *FT,* thus, the value of all property owned by *FT* at *A'*s death is includible in *A'*s gross estate for U.S. estate tax purposes. Pursuant to paragraph (c) of this section, *A* is not required to recognize gain under § 1.684-1 because the basis of the property in the hands of the foreign trust is determined under section 1014(a).
 

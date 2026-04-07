@@ -68,11 +68,17 @@
 
 (e) *Examples.* The following examples illustrate the provisions of this section:
 
-Example 1.(i) S1 owns all of the T stock and T owns all of the stock of T1 and T2. S1 is the common parent of a consolidated group that includes T, T1, and T2. P makes a qualified stock purchase of all of the T stock from S1. S1 joins with P in making a section 338(h)(10) election for T and for the deemed purchase of T1. A section 338 election is not made for T2.
+Example 1.(i) S1 owns all of the T stock and T owns all of the stock of T1 and T2. S1 is the common parent of a consolidated group that includes T, T1, and T2. P makes a qualified stock purchase of all of the T stock from S1. S1 joins with P in making a section 338(h)(10) election for T and for the deemed purchase of T1. A section 338 election is not made for T2. *Example 5,*
 
-(ii) S1 does not recognize gain or loss on the sale of the T stock and T does not recognize gain or loss on the sale of the T1 stock because section 338(h)(10) elections are made for T and T1. Thus, for example, gain or loss realized on the sale of the T or T1 stock is not taken into account in earnings and profits. However, because a section 338 election is not made for T2, T must recognize any gain or loss realized on the deemed sale of the T2 stock. See § 1.338-4(h).
+(ii) S1 does not recognize gain or loss on the sale of the T stock and T does not recognize gain or loss on the sale of the T1 stock because section 338(h)(10) elections are made for T and T1. Thus, for example, gain or loss realized on the sale of the T or T1 stock is not taken into account in earnings and profits. However, because a section 338 election is not made for T2, T must recognize any gain or loss realized on the deemed sale of the T2 stock. See § 1.338-4(h).*Example 5,*
 
 (iii) The results would be the same if S1, T, T1, and T2 are not members of any consolidated group, because S1 and T are selling affiliates.
+
+| Assets    | Basis   | FMV     | Fraction | Allocable ADSP |
+| --------- | ------- | ------- | -------- | -------------- |
+| Land      | $50,000 | $75,000 | 5⁄9      | $66,667        |
+| Equipment | 30,000  | 60,000  | 4⁄9      | 53,333         |
+| Total     | 80,000  | 135,000 | 1        | 120,000        |
 
 Example 2.(i) S and T are solvent corporations. S owns all of the outstanding stock of T. S and P agree to undertake the following transaction: T will distribute half its assets to S, and S will assume half of T's liabilities. Then, P will purchase the stock of T from S. S and P will jointly make a section 338(h)(10) election with respect to the sale of T. The corporations then complete the transaction as agreed.
 

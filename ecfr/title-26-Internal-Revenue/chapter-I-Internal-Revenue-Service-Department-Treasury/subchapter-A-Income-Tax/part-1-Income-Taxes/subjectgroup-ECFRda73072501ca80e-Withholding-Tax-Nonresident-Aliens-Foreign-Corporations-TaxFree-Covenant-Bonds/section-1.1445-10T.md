@@ -1,6 +1,6 @@
 ##### § 1.1445-10T Special rule for Foreign governments (temporary).
 
-(a) This section provides a temporary regulation that, if and when adopted as a final regulation will add a new paragraph (d)(6) to § 1.1445-2. Paragraph (b) of this section would then appear as paragraph (d)(6) of § 1.1445-2.
+(a) This section provides a temporary regulation that, if and when adopted as a final regulation will add a new paragraph (d)(6) to § 1.1445-2. Paragraph (b) of this section would then appear as paragraph (d)(6) of § 1.1445-2.*Foreign government*
 
 (b) *Foreign government*—(1) *As transferor.* A foreign government is subject to U.S. taxation under section 897 on the disposition of a U.S. real property interest except to the extent specifically otherwise provided in the regulations issued under section 892. A foreign government that disposes of a U.S. real property interest that is not subject to taxation as specifically provided by the regulations under section 892 may present a notice of nonrecognition treatment pursuant to paragraph (d)(2) of this section that specifically cites the provision of such regulation, and thereby avoids withholding by the transferee of the property. A foreign government that disposes of a U.S. real property interest or the transferee of the property may obtain a withholding certificate from the Internal Revenue Service that confirms the applicability of section 892, but neither is required to do so. Rules concerning the issuance of withholding certificates are provided in § 1.1445-3.
 

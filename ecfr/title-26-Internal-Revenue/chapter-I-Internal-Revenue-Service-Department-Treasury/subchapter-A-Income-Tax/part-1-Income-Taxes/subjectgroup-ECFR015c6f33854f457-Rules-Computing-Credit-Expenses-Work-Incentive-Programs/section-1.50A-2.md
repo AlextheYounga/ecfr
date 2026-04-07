@@ -12,7 +12,7 @@
 
 (e) *Example.* The provisions of paragraphs (a) through (d) of this section may be illustrated by the following example:
 
-Example.Corporation X files its income tax return on the basis of the calendar year. X's credit earned and its limitation based on amount of tax for each of its taxable years 1972 through 1978 are as follows:
+Example.Corporation X files its income tax return on the basis of the calendar year. X's credit earned and its limitation based on amount of tax for each of its taxable years 1972 through 1978 are as follows: *b*
 
 |      | Credit earned | Limitation based on amount of tax |
 | ---- | ------------- | --------------------------------- |

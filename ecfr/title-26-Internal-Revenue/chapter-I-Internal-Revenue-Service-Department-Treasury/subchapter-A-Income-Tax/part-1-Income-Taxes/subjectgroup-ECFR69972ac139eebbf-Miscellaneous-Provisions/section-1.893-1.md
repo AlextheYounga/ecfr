@@ -8,7 +8,7 @@
 
 (4) *Immigration and Nationality Act.* Section 247(b) of the Immigration and Nationality Act provides as follows:
 
-Sec. 247. Adjustment of status of certain resident aliens.\* \* \*
+Sec. 247. Adjustment of status of certain resident aliens.\* \* \*Section 1.*Provided,*
 
 (b) The adjustment of status required by subsection (a) \[of section 247 of the Immigration and Nationality Act\] shall not be applicable in the case of any alien who requests that he be permitted to retain his status as an immigrant and who, in such form as the Attorney General may require, executes and files with the Attorney General a written waiver of all rights, privileges, exemptions, and immunities under any law or any executive order which would otherwise accrue to him because of the acquisition of an occupational status entitling him to a nonimmigrant status under paragraph (15)(A), (15)(E), or (15)(G) of section 101(a).
 

@@ -1,6 +1,6 @@
 ##### § 1.6091-2 Place for filing income tax returns.
 
-Except as provided in § 1.6091-3 (relating to certain international income tax returns) and § 1.6091-4 (relating to exceptional cases):
+Except as provided in § 1.6091-3 (relating to certain international income tax returns) and § 1.6091-4 (relating to exceptional cases):*Individuals, estates, and trusts.*
 
 (a) *Individuals, estates, and trusts.* (1) Except as provided in paragraph (c) of this section, income tax returns of individuals, estates, and trusts shall be filed with any person assigned the responsibility to receive returns at the local Internal Revenue Service office that serves the legal residence or principal place of business of the person required to make the return.
 

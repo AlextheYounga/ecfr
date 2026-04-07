@@ -1,6 +1,6 @@
 ##### § 1.6662-5T Substantial and gross valuation misstatements under chapter 1 (temporary).
 
-(a)-(e)(3) \[Reserved\]. For further information, see § 1.6662-5(a) through (e)(3).
+(a)-(e)(3) \[Reserved\]. For further information, see § 1.6662-5(a) through (e)(3).*Tests related to section 482*
 
 (e)(4) *Tests related to section 482*—(i) *Substantial valuation misstatement.* There is a substantial valuation misstatement if there is a misstatement described in § 1.6662-6 (b)(1) or (c)(1) (concerning substantial valuation misstatements pertaining to transactions between related persons).
 

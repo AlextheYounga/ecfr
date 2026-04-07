@@ -22,9 +22,9 @@
 
 (3) *Example.* The provisions of paragraph (b)(2) of this section may be illustrated by the following example:
 
-Example.(i) Corporation P owns all 100 shares of the common stock of Corporation S, the only class of S stock outstanding. Each share of S stock has a fair market value of $10 and has one vote. On June 30, 1992, P issues to Corporation X an option to acquire 80 shares of the S stock from P.
+Example.(i) Corporation P owns all 100 shares of the common stock of Corporation S, the only class of S stock outstanding. Each share of S stock has a fair market value of $10 and has one vote. On June 30, 1992, P issues to Corporation X an option to acquire 80 shares of the S stock from P. *Example 1*
 
-(ii) If, under the provisions of this section, the option is treated as exercised, then, solely for purposes of determining affiliation, P is treated as owning only 20 percent of the value of the outstanding S stock and X is treated as owing the remaining 80 percent of the value of the S stock. P is still treated as owning all of the voting power of S. Accordingly, because P is treated as owning less than 80 percent of the value of the outstanding S stock, P and S are no longer affiliated. However, because X is not treated as owning any of the voting power of S, X and S are also not affiliated.
+(ii) If, under the provisions of this section, the option is treated as exercised, then, solely for purposes of determining affiliation, P is treated as owning only 20 percent of the value of the outstanding S stock and X is treated as owing the remaining 80 percent of the value of the S stock. P is still treated as owning all of the voting power of S. Accordingly, because P is treated as owning less than 80 percent of the value of the outstanding S stock, P and S are no longer affiliated. However, because X is not treated as owning any of the voting power of S, X and S are also not affiliated.*Example 1,*
 
 (c) *Definitions.* For purposes of this section—
 

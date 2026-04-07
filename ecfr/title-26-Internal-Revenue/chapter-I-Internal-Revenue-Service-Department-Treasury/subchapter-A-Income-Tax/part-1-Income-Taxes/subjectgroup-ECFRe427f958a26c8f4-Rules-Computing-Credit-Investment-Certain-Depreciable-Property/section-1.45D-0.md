@@ -2,7 +2,7 @@
 
 This section lists the paragraphs contained in § 1.45D-1.
 
-(a) Current year credit.
+(a) Current year credit.*1*
 
 (b) Allowance of credit.
 

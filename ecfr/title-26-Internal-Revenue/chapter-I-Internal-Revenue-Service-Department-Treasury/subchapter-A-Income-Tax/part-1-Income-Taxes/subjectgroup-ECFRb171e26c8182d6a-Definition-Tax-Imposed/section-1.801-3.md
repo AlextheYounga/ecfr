@@ -1,6 +1,6 @@
 ##### § 1.801-3 Definitions.
 
-For purposes of part I, subchapter L, chapter 1 of the Code, this section defines the following terms, which are to be used in determining if a taxpayer is a life insurance company (as defined in section 801(a) and paragraph (b) of this section):
+For purposes of part I, subchapter L, chapter 1 of the Code, this section defines the following terms, which are to be used in determining if a taxpayer is a life insurance company (as defined in section 801(a) and paragraph (b) of this section):*Insurance company.*
 
 (a) *Insurance company.* (1) The term *insurance company* means a company whose primary and predominant business activity during the taxable year is the issuing of insurance or annuity contracts or the reinsuring of risks underwritten by insurance companies. Thus, though its name, charter powers, and subjection to State insurance laws are significant in determining the business which a company is authorized and intends to carry on, it is the character of the business actually done in the taxable year which determines whether a company is taxable as an insurance company under the Internal Revenue Code.
 

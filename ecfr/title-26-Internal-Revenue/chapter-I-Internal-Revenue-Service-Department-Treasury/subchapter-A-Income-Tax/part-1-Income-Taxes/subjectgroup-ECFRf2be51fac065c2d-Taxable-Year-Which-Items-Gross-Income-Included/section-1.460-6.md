@@ -54,6 +54,30 @@ Example.Z elected to use the 10-percent method of section 460(b)(5) for reportin
 
 Under section 460(b)(5), the 10-percent method applies both for reporting contract income and the look-back method. Under the look-back method, since the costs incurred in 1990 ($80*x*) exceed 10 percent of the actual total contract costs ($700*x*), Z is required to allocate $114*x* of contract revenue ($80*x*/$700*x* × $1,000*x*) and the $80*x* of costs incurred to 1990. Thus, application of the 1ook-back method results in a net increase in taxable income for 1990 of $34*x,* solely for purposes of the look-back method.
 
+|                                                        | 1987     | 1988    |
+| ------------------------------------------------------ | -------- | ------- |
+| Contract A:$7,000a                                     |          |         |
+| Originally reported                                    | $5,000x  | $4,000x |
+| Reallocated                                            | 3,000x   | 5,000x  |
+| Increase/(Decrease)                                    | (2,000x) | 1,000x  |
+| Contract B:                                            |          |         |
+| Originally reported                                    | 6,000x   | 2,000x  |
+| Reallocated                                            | 7,000x   | 1,500x  |
+| Increase/(Decrease)                                    | 1,000x   | (500x)  |
+| Contract C:                                            |          |         |
+| Originally reported                                    | 8,000x   | 5,000x  |
+| Reallocated                                            | 4,000x   | 7,000x  |
+| Increase/(Decrease)                                    | (4,000x) | 2,000x  |
+| Net Increase/(Decrease)                                | (5,000x) | 2,500x  |
+| Tentative (Underpayment)/Overpayment:                  |          |         |
+| @ .40                                                  | 2,000x   |         |
+| @ .34                                                  |          | (850x)  |
+| Ceiling:                                               |          |         |
+| Actual Tax Liability (After Carryovers and Carrybacks) | 1,500x   | 500x    |
+| Final (Underpayment)/Overpayment                       | 1,500x   | (850x)  |
+
+e = estimate
+
 (vi) *Amount treated as contract price*—(A) *General rule.* The amount that is treated as total contract price for purposes of applying the percentage of completion method and reapplying the percentage of completion method under the look-back method under Step One includes all amounts that the taxpayer expects to receive from the customer. Thus, amounts are treated as part of the contract price as soon as it is reasonably estimated that they will be received, even if the all-events test has not yet been met.
 
 (B) *Contingencies.* Any amounts related to contingent rights or obligations, such as incentive fees or amounts in dispute, are not separated from the contract and accounted for under a non-long-term contract method of accounting, notwithstanding any provision in § 1.460-4(b)(4)(i), to the contrary. Instead, those amounts are treated as part of the total contract price in applying the look-back method. For example, if an incentive fee under a contract to manufacture a satellite is payable to the taxpayer after a specified period of successful performance, the incentive fee is includible in the total contract price at the time and to the extent that it can reasonably be predicted that the performance objectives will be met, . A portion of the contract price that is in dispute is included in the total contract price at the time and to the extent that the taxpayer can reasonably expect the dispute will be resolved in the taxpayer's favor (without regard to when the taxpayer receives payment for the amount in dispute or when the dispute is finally resolved).

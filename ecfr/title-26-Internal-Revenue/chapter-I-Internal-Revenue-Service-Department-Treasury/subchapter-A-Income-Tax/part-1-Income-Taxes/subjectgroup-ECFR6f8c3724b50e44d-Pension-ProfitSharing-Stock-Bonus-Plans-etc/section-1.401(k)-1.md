@@ -1,6 +1,6 @@
 ##### § 1.401(k)-1 Certain cash or deferred arrangements.
 
-(a) *General rules*—(1) *Certain plans permitted to include cash or deferred arrangements.* A plan, other than a profit-sharing, stock bonus, pre-ERISA money purchase pension, or rural cooperative plan, does not satisfy the requirements of section 401(a) if the plan includes a cash or deferred arrangement. A profit-sharing, stock bonus, pre-ERISA money purchase pension, or rural cooperative plan does not fail to satisfy the requirements of section 401(a) merely because the plan includes a cash or deferred arrangement. A cash or deferred arrangement is part of a plan for purposes of this section if any contributions to the plan, or accruals or other benefits under the plan, are made or provided pursuant to the cash or deferred arrangement.
+(a) *General rules*—(1) *Certain plans permitted to include cash or deferred arrangements.* A plan, other than a profit-sharing, stock bonus, pre-ERISA money purchase pension, or rural cooperative plan, does not satisfy the requirements of section 401(a) if the plan includes a cash or deferred arrangement. A profit-sharing, stock bonus, pre-ERISA money purchase pension, or rural cooperative plan does not fail to satisfy the requirements of section 401(a) merely because the plan includes a cash or deferred arrangement. A cash or deferred arrangement is part of a plan for purposes of this section if any contributions to the plan, or accruals or other benefits under the plan, are made or provided pursuant to the cash or deferred arrangement.1/2
 
 (2) *Rules applicable to cash or deferred arrangements generally*—(i) *Definition of cash or deferred arrangement.* Except as provided in paragraphs (a)(2)(ii) and (iii) of this section, a cash or deferred arrangement is an arrangement under which an eligible employee may make a cash or deferred election with respect to contributions to, or accruals or other benefits under, a plan that is intended to satisfy the requirements of section 401(a) (including a contract that is intended to satisfy the requirements of section 403(a)).
 
@@ -38,9 +38,18 @@
 
 (vii) *Examples.* The following examples illustrate the application of this paragraph (a)(3):
 
-Example 1.(i) An employer maintains a profit-sharing plan under which each eligible employee has an election to defer an annual bonus payable on January 30 each year. The bonus equals 10% of compensation during the previous calendar year. Deferred amounts are not treated as after-tax employee contributions. The bonus is currently available on January 30.
+Example 1.(i) An employer maintains a profit-sharing plan under which each eligible employee has an election to defer an annual bonus payable on January 30 each year. The bonus equals 10% of compensation during the previous calendar year. Deferred amounts are not treated as after-tax employee contributions. The bonus is currently available on January 30. *Example 2,*
 
-(ii) An election made prior to January 30 to defer all or part of the bonus is a cash or deferred election, and the bonus deferral arrangement is a cash or deferred arrangement.
+(ii) An election made prior to January 30 to defer all or part of the bonus is a cash or deferred election, and the bonus deferral arrangement is a cash or deferred arrangement.*2*
+
+| Years of service | Nonforfeitable   percentage |
+| ---------------- | --------------------------- |
+| Less than 1      | 0                           |
+| 1                | 20                          |
+| 2                | 40                          |
+| 3                | 60                          |
+| 4                | 80                          |
+| 5 or more        | 100                         |
 
 Example 2.(i) An employer maintains a profit-sharing plan which provides for discretionary profit sharing contributions and under which each eligible employee may elect to reduce his compensation by up to 10% and to have the employer contribute such amount to the plan. The employer pays each employee every two weeks for services during the immediately preceding two weeks. The employee's election to defer compensation for a payroll period must be made prior to the date the amount would otherwise be paid. The employer contributes to the plan the amount of compensation that each employee elected to defer, at the time it would otherwise be paid to the employee, and does not treat the contribution as an after-tax employee contribution.
 

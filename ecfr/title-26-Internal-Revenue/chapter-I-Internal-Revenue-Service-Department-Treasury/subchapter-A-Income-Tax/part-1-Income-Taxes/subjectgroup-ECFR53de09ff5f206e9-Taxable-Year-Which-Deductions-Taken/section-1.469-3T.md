@@ -56,6 +56,16 @@ Example 1.(i) A, a calendar year individual, is a general partner in calendar ye
 
 (ii) Because, under section 46(c)(1), the credit is allowable for the taxable year in which the rehabilitated property is placed in service, the credit allowable for P's qualified rehabilitation expenditures arises in connection with the activity in which the property is placed in service. In addition, the credit is attributable to 1989, the year in which the property is placed in service, because it would be allowed for such year if A's credits allowed for all taxable years were determined without regard to the limitations contained in sections 26(a), 28(d)(2), 29(b)(5), 38(c), and 469. Accordingly, under paragraph (b)(1) of this section, A's distributive share of the credit is subject to section 469 for 1989 because the credit arises in connection with a rental activity for such year.
 
+| Gross income:                                     |          |          |
+| Income other than passive activity gross income   | $110,000 |          |
+| Passive activity gross income                     | 20,000   | $130,000 |
+| Deductions:                                       |          |          |
+| Deductions other than passive activity deductions | 23,950   |          |
+| Passive activity deductions                       | 18,000   | (41,950) |
+| Taxable income                                    |          | 88,050   |
+| Credits:                                          |          |          |
+| Rehabilitation credit from the passive activity   |          | 8,000    |
+
 Example 2.The facts are the same as in Example 1, except that the rehabilitation costs are incurred in anticipation of placing the building in service in a rental activity, the qualified rehabilitation expenditures in 1987 and 1988 are qualified progress expenditures (“QPEs”) (within the meaning of section 46(d)(3)), the improvements resulting from the expenditures are progress expenditure property (within the meaning of paragraph (d)(2) of this section), and it is reasonable to expect that such property will be transition property (within the meaning of section 49(e)) when the property is placed in service. Therefore, under section 46(d)(1)(A), the qualified investment for 1987 and 1988 is increased by an amount equal to the aggregate of the applicable percentage of the qualified rehabilitation expenditures incurred in such years. The credits that are based on these expenditures are attributable (under paragraph (c) of this section) to 1987 and 1988, respectively. It is reasonable to believe in 1987 and 1988 that the progress expenditure property will be used in a rental activity when it is placed in service. Accordingly, under paragraph (b)(2) of this section, A's distributive share of the credit for 1987 and 1988 is subject to section 469. Under paragraph (b)(1) of this section (as in Example 1), A's distributive share of the credit for 1989 is also subject to section 469.Example 3.(i) B, a single individual, acquires an interest in a partnership that, in 1988, rehabilitates a building and places it in service in a trade or business activity in which B does not materially participate. For 1988, B has the following items of gross income, deduction, and credit:
 
 | Gross income:                                     |          |          |

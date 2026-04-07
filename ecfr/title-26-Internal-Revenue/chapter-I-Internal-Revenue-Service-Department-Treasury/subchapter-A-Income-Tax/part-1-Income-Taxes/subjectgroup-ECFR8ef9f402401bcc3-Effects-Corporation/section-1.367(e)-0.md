@@ -4,7 +4,7 @@ This section lists captioned paragraphs contained in §§ 1.367(e)-1 and 1.367(e
 
 § 1.367(e)-1 Distributions described in section 367(e)(1).
 
-(a) Purpose and scope.
+(a) Purpose and scope.*1*
 
 (b) Gain recognition.
 

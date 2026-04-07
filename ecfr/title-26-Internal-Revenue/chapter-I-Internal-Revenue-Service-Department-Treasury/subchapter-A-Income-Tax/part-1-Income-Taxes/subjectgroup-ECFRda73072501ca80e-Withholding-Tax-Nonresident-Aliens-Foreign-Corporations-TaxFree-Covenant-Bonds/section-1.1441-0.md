@@ -4,7 +4,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 § 1.1441-1 Requirement for the deduction and withholding of tax on payments to foreign persons.
 
-(a) Purpose and scope.
+(a) Purpose and scope.*1*
 
 (b) General rules of withholding.
 

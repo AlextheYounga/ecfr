@@ -1,6 +1,6 @@
 ##### § 1.432(e)(9)-1 Benefit suspensions for multiemployer plans in critical and declining status.
 
-(a) *General rules on suspension of benefits*—(1) *General rule.* Subject to section 432(e)(9)(B) through (I) and this section, the plan sponsor of a multiemployer plan that is in critical and declining status (within the meaning of section 432(b)(6)) for a plan year may, by plan amendment adopted in the plan year, implement a suspension of benefits that the plan sponsor deems appropriate. Such an amendment is permitted notwithstanding the anti-cutback provisions of section 411(d)(6). As amended, the terms of the plan must satisfy the requirements of section 401(a).
+(a) *General rules on suspension of benefits*—(1) *General rule.* Subject to section 432(e)(9)(B) through (I) and this section, the plan sponsor of a multiemployer plan that is in critical and declining status (within the meaning of section 432(b)(6)) for a plan year may, by plan amendment adopted in the plan year, implement a suspension of benefits that the plan sponsor deems appropriate. Such an amendment is permitted notwithstanding the anti-cutback provisions of section 411(d)(6). As amended, the terms of the plan must satisfy the requirements of section 401(a).Federal Register
 
 (2) *Adoption of plan terms inconsistent with suspension requirements*—(i) *General rule.* A plan may implement (or continue to implement) a reduction of benefits pursuant to a suspension of benefits only if the terms of the plan are consistent with the requirements of section 432(e)(9) and this section.
 

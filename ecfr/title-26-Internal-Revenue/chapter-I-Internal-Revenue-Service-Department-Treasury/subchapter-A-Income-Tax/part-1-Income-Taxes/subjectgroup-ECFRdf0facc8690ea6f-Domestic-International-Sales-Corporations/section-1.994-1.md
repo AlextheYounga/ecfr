@@ -126,9 +126,26 @@ Transactions are included, for purposes of this paragraph, only if they give ris
 
 (6) *Examples.* The provisions of this paragraph may be illustrated by the following examples:
 
-Example 1.(i) During 1975, a DISC which uses the calendar year as its taxable year purchased a product from its related supplier and made an initial payment of $8,500. If $8,500 were determined to be the transfer price under section 994, the DISC's taxable income from the transaction would be $1,000. Immediately before the DISC filed its return for 1975, under section 994 it is determined that the transfer price is $8,000 and the DISC's taxable income is $1,500. Thus, the requirement of a reasonable estimate under subparagraph (3) of this paragraph was met because the amount ($8,500) actually paid resulted in the DISC realizing taxable income of $1,000 which is not less than 50 percent of the DISC's taxable income ($1,500) from the transaction as determined under section 994.
+Example 1.(i) During 1975, a DISC which uses the calendar year as its taxable year purchased a product from its related supplier and made an initial payment of $8,500. If $8,500 were determined to be the transfer price under section 994, the DISC's taxable income from the transaction would be $1,000. Immediately before the DISC filed its return for 1975, under section 994 it is determined that the transfer price is $8,000 and the DISC's taxable income is $1,500. Thus, the requirement of a reasonable estimate under subparagraph (3) of this paragraph was met because the amount ($8,500) actually paid resulted in the DISC realizing taxable income of $1,000 which is not less than 50 percent of the DISC's taxable income ($1,500) from the transaction as determined under section 994. *i.e.,*
 
 (ii) Pursuant to subparagraph (5) of this paragraph, an account receivable due the DISC for $500, i.e., $8,500−$8,000, is established on September 15, 1976, the date the DISC files its return for 1975, and is paid on December 1, 1976. The account receivable for $500 will be considered to relate to the taxable year (1975) in which the transaction occurred which gave rise thereto and will be a qualified export asset under § 1.993-2(d)(3) for the last day of such year.
+
+| (1) Combined taxable income:**computation for 1972**                                         |      |        |
+| (a) K's sales price                                                                          |      | $1,000 |
+| (b) Less deductions:                                                                         |      |        |
+| J's cost of goods sold                                                                       | $650 |        |
+| J's direct selling expenses                                                                  | 100  |        |
+| K's export promotion expenses                                                                | 230  |        |
+| Total deductions                                                                             |      | 980    |
+| (c) Combined taxable income                                                                  |      | 20     |
+| (2) K's profit under combined taxable income method (before application of loss limitation): |      |        |
+| (a) 50 percent of combined taxable income                                                    | 10   |        |
+| (b) Plus: 10 percent of K's export promotion expenses (10% of $230)                          | 23   |        |
+| (c) K's profit                                                                               | 33   |        |
+| (3) K's profit under gross receipts method (before application of loss limitation):          |      |        |
+| (a) 4 percent of K's sales price (4% of $1,000)                                              | 40   |        |
+| (b) Plus: 10 percent of K's export promotion expenses (10% of $230)                          | 23   |        |
+| (c) K's profit                                                                               | 63   |        |
 
 Example 2.Assume the same facts as in example 1 except that the account receivable for $500 is paid on January 1, 1977. The account receivable for $500 will still be considered to relate to the taxable year (1975) in which the transaction occurred which gave rise thereto. However, such account receivable will be treated as an asset which is not a qualified export asset under § 1.993-2(d)(3) for the last day of such year.
 

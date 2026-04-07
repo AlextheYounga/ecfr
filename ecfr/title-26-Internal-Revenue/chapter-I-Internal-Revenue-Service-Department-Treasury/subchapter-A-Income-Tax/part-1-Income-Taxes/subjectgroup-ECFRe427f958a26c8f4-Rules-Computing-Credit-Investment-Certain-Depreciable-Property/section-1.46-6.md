@@ -1,6 +1,6 @@
 ##### § 1.46-6 Limitation in case of certain regulated companies.
 
-(a) *In general*—(1) *Scope of section.* This section does not reflect amendments made to section 46 after enactment of the Revenue Act of 1971, other than the redesignation of section 46(e) as section 46(f) by the Tax Reduction Act of 1975.
+(a) *In general*—(1) *Scope of section.* This section does not reflect amendments made to section 46 after enactment of the Revenue Act of 1971, other than the redesignation of section 46(e) as section 46(f) by the Tax Reduction Act of 1975.Federal Register.
 
 (2) *Disallowance of credit.* Under section 46(f), a credit otherwise allowable under section 38 (“credit”) will be disallowed in certain cases with respect to “section 46(f) property” as defined in paragraph (b)(1) of this section. Paragraph (f) of this section describes circumstances under which a determination put into effect by a regulatory body will result in the disallowance of the credit. Such a determination will result in a disallowance only if section 46(f) (1) or (2) applies to such property and such determination affects the taxpayer's cost of service or rate base in a manner inconsistent with section 46(f) (1) or (2) (whichever is applicable).
 

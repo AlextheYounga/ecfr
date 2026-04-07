@@ -30,7 +30,16 @@ For purposes of the preceding sentence, rents attributable to personal property 
 
 (iv) *Illustration.* This subparagraph may be illustrated by the following example:
 
-Example.A, an exempt organization, owns a printing factory which consists of a building housing two printing presses and other equipment necessary for printing. On January 1, 1971, A rents the building and the printing equipment to B for $10,000 a year. The lease states that $9,000 of such rent is for the building and $1,000 for the printing equipment. However, it is determined that notwithstanding the terms of the lease $4,000, or 40 percent ($4,000/$10,000), of the rent is actually attributable to the printing equipment. During 1971, A has $3,000 of deductions, all of which are properly allocable to the land and building. Under these circumstances, A shall not take into account in computing its unrelated business taxable income the $6,000 of rent attributable to the building and the $3,000 of deductions directly connected with such rent. However, the $4,000 of rent attributable to the printing equipment is not excluded from the computation of A's unrelated business taxable income by operation of section 512(b)(3)(A)(ii) or this paragraph since such rent represents more than an incidental portion of the total rents.
+Example.A, an exempt organization, owns a printing factory which consists of a building housing two printing presses and other equipment necessary for printing. On January 1, 1971, A rents the building and the printing equipment to B for $10,000 a year. The lease states that $9,000 of such rent is for the building and $1,000 for the printing equipment. However, it is determined that notwithstanding the terms of the lease $4,000, or 40 percent ($4,000/$10,000), of the rent is actually attributable to the printing equipment. During 1971, A has $3,000 of deductions, all of which are properly allocable to the land and building. Under these circumstances, A shall not take into account in computing its unrelated business taxable income the $6,000 of rent attributable to the building and the $3,000 of deductions directly connected with such rent. However, the $4,000 of rent attributable to the printing equipment is not excluded from the computation of A's unrelated business taxable income by operation of section 512(b)(3)(A)(ii) or this paragraph since such rent represents more than an incidental portion of the total rents.*a*
+
+| B's unrelated business taxable income (disregarding rent paid to A)                        | $100,000 |
+| B's taxable income (computed as though B were not exempt and disregarding rent paid to A)  | 300,000  |
+| Ratio ($100,000/$300,000)                                                                  | 1/3      |
+| Total rent                                                                                 | 15,000   |
+| Total deductions                                                                           | 3,000    |
+| Rental income treated as gross income from an unrelated trade or business (1/3 of $15,000) | 5,000    |
+| Less deductions directly connected with such income (1/3 of $3,000)                        | 1,000    |
+| Net rental income included by A in computing its unrelated business taxable income         | $4,000   |
 
 (3) *Definitions and special rules.* For purposes of subparagraph (2) of this paragraph:
 

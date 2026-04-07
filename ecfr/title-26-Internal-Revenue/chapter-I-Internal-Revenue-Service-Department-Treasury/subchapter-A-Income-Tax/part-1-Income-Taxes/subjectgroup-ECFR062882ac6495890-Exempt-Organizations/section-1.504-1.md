@@ -1,6 +1,6 @@
 ##### § 1.504-1 Attempts to influence legislation; certain organizations formerly described in section 501(c)(3) denied exemption.
 
-Section 504(a) and this section apply to an organization that is exempt from taxation at any time after October 4, 1976, as an organization described in section 501(c)(3), and that ceases to be described in that section because it—
+Section 504(a) and this section apply to an organization that is exempt from taxation at any time after October 4, 1976, as an organization described in section 501(c)(3), and that ceases to be described in that section because it—*action*
 
 (a) Is an *action* organization within the meaning of § 1.501(c)(3)-1(c)(3)(ii) or (iv), on account of activities occurring after October 4, 1976, or
 

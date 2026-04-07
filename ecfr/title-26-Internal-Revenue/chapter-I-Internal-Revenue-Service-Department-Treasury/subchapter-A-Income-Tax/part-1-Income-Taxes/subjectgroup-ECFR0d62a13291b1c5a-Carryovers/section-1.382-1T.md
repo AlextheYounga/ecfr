@@ -4,7 +4,7 @@ This section lists the captions that appear in the regulations for § 1.382-2T.
 
 1.382-2T Definition of ownership change under section 382, as amended by the Tax Reform Act of 1986 (temporary).
 
-(a) Ownership change.
+(a) Ownership change.*1*
 
 (1) In general.
 

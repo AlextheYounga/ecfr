@@ -1,6 +1,6 @@
 ##### § 1.897-5 Corporate distributions.
 
-(a)-(d)(1)(iii)(E) \[Reserved\]. For further guidance, see § 1.897-5T(a) through (d)(1)(iii)(E).
+(a)-(d)(1)(iii)(E) \[Reserved\]. For further guidance, see § 1.897-5T(a) through (d)(1)(iii)(E).*Effective date.*
 
 (d)(1)(iii)(F) Identification by name and address of the distributee or transferee, including the distributee's or transferee's taxpayer identification number;
 

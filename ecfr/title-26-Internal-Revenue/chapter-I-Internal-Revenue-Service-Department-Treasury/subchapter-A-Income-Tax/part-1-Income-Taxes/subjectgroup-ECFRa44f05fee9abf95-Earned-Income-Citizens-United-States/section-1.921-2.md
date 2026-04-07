@@ -1,6 +1,6 @@
 ##### § 1.921-2 Foreign Sales Corporation—general rules.
 
-(a) *Definition of a FSC and the Effect of a FSC Election.*
+(a) *Definition of a FSC and the Effect of a FSC Election.*Federal Register.
 
 *Q-1.* What is the definition of a Foreign Sales Corporation (hereinafter referred to as a “FSC” (All references to FSCs include small FSCs unless indicated otherwise))?
 

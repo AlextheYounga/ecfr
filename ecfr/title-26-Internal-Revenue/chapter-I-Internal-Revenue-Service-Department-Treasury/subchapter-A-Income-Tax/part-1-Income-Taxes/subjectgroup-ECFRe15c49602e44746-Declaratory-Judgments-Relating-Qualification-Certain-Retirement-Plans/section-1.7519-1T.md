@@ -8,7 +8,7 @@
 
 (ii) Make a required payment (as defined in paragraph (a)(3) of this section) as provided in § 1.7519-2T.
 
-However, if the required payment for an applicable election year is not more than $500 and the partnership or S corporation has not been required to make a required payment for a prior year, the partnership or S corporation should not make a required payment for such applicable election year.
+However, if the required payment for an applicable election year is not more than $500 and the partnership or S corporation has not been required to make a required payment for a prior year, the partnership or S corporation should not make a required payment for such applicable election year. *1*
 
 (3) *Required payment.* The term “required payment” means, with respect to any applicable election year, an amount equal to the excess of—
 
@@ -20,7 +20,18 @@ Furthermore, the amount of the required payment is determined without regard to 
 
 (4) *Examples.* The provisions of paragraph (a) of this section may be illustrated by the following examples.
 
-Example 1.A, a partnership, makes a section 444 election to retain its taxable year ending September 30. For A's first applicable election year, A's required payment, as defined in paragraph (a)(3) of this section, is $400. Thus, A does not have to make a required payment for that year. However, A is required to file the return prescribed by § 1.7519-2T(a)(2).Example 2.The facts are the same as in example (1), and, in addition to those facts, for A's second applicable election year, the amount determined under paragraph (a)(3)(i) of this section is $800. Because A did not actually make a required payment for A's first applicable election year, A's required payment is $800 for its second applicable election year. Since the required payment is greater than $500, A must make a required payment for its second applicable election year. Furthermore, A must file the return prescribed by § 1.7519-2T(a)(2).Example 3.The facts are the same as in example (2), and, in addition to those facts, for A's third applicable election year, the amount determined under paragraph (a)(3)(i) of this section is $1,200. Thus, A's required payment is $400 ($1,200 determined under paragraph (a)(3)(i) of this section less $800 determined under paragraph (a)(3)(ii) of this section). Although A's required payment for its third applicable election year is not more than $500, A must make its required payment for such year because the required payment for a preceding applicable election year exceeded $500. A must also file the return prescribed by § 1.7519-2T(a)(2) for its third applicable election year.
+Example 1.A, a partnership, makes a section 444 election to retain its taxable year ending September 30. For A's first applicable election year, A's required payment, as defined in paragraph (a)(3) of this section, is $400. Thus, A does not have to make a required payment for that year. However, A is required to file the return prescribed by § 1.7519-2T(a)(2).*1*3/12
+
+| Net income multiplied by deferral ratio                                                     | $140,000 |         |         |
+|                                                                                             | × 3⁄12   |         |         |
+|                                                                                             |          |         | $35,000 |
+| Plus the excess, if any, of applicable payments multiplied by deferral ratio                | $60,000  |         |         |
+|                                                                                             | × 3⁄12   |         |         |
+|                                                                                             |          | $15,000 |         |
+| Over aggregate amount of applicable payments deductible during deferral period of base year |          | $15,000 | 0       |
+| Net base year income                                                                        |          |         | $35,000 |
+
+Example 2.The facts are the same as in example (1), and, in addition to those facts, for A's second applicable election year, the amount determined under paragraph (a)(3)(i) of this section is $800. Because A did not actually make a required payment for A's first applicable election year, A's required payment is $800 for its second applicable election year. Since the required payment is greater than $500, A must make a required payment for its second applicable election year. Furthermore, A must file the return prescribed by § 1.7519-2T(a)(2).Example 3.The facts are the same as in example (2), and, in addition to those facts, for A's third applicable election year, the amount determined under paragraph (a)(3)(i) of this section is $1,200. Thus, A's required payment is $400 ($1,200 determined under paragraph (a)(3)(i) of this section less $800 determined under paragraph (a)(3)(ii) of this section). Although A's required payment for its third applicable election year is not more than $500, A must make its required payment for such year because the required payment for a preceding applicable election year exceeded $500. A must also file the return prescribed by § 1.7519-2T(a)(2) for its third applicable election year.
 
 (b) *Definitions and special rules*—(1) *Applicable percentage*—(i) *In general.* Except as provided in paragraph (b)(1)(ii) of this section, the term “applicable percentage” means the percentage determined in accordance with the following table:
 

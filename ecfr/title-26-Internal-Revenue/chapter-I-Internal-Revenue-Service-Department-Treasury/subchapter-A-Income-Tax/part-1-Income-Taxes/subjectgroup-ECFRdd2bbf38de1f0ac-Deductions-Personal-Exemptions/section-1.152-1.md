@@ -1,6 +1,6 @@
 ##### § 1.152-1 General definition of a dependent.
 
-(a)(1) For purposes of the income taxes imposed on individuals by chapter 1 of the Code, the term “dependent” means any individual described in paragraphs (1) through (10) of section 152(a) over half of whose support, for the calendar year in which the taxable year of the taxpayer begins, was received from the taxpayer.
+(a)(1) For purposes of the income taxes imposed on individuals by chapter 1 of the Code, the term “dependent” means any individual described in paragraphs (1) through (10) of section 152(a) over half of whose support, for the calendar year in which the taxable year of the taxpayer begins, was received from the taxpayer.*a*
 
 (2)(i) For purposes of determining whether or not an individual received, for a given calendar year, over half of his support from the taxpayer, there shall be taken into account the amount of support received from the taxpayer as compared to the entire amount of support which the individual received from all sources, including support which the individual himself supplied. The term “support” includes food, shelter, clothing, medical and dental care, education, and the like. Generally, the amount of an item of support will be the amount of expense incurred by the one furnishing such item. If the item of support furnished an individual is in the form of property or lodging, it will be necessary to measure the amount of such item of support in terms of its fair market value.
 

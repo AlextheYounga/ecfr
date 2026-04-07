@@ -4,7 +4,7 @@ This section lists the captions contained in §§ 1.5000A-1 through 1.5000A-5.
 
 § 1.5000A-1 Maintenance of minimum essential coverage and liability for the shared responsibility payment.
 
-(a) In general.
+(a) In general.*1*
 
 (b) Coverage under minimum essential coverage.
 

@@ -1,6 +1,6 @@
 ##### § 1.1235-2 Definition of terms.
 
-For the purposes of section 1235 and § 1.1235-1:
+For the purposes of section 1235 and § 1.1235-1:*Patent.*
 
 (a) *Patent.* The term *patent* means a patent granted under the provisions of title 35 of the United States Code, or any foreign patent granting rights generally similar to those under a United States patent. It is not necessary that the patent or patent application for the invention be in existence if the requirements of section 1235 are otherwise met.
 

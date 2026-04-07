@@ -82,9 +82,16 @@ This subdivision shall apply only if the taxpayer assigns lot numbers in numeric
 
 (ii) The provisions of this paragraph (e)(2) are illustrated by the following example:
 
-Example.(i) In connection with a dividend reinvestment plan, Taxpayer B acquires 100 shares of G Company in 2012 and 100 shares of G Company in 2013, in an account B maintains with R Broker. B notifies R in writing that B elects to use the average basis method to compute the basis of the shares of G Company. In 2014, B transfers the shares of G Company to an account with S Broker. B does not notify S of the basis determination method B chooses to use for the shares of G Company, and S's default method is first-in, first-out. In 2015, B purchases 200 shares of G Company in the account with S. In 2016, B instructs S to sell 150 shares of G Company.
+Example.(i) In connection with a dividend reinvestment plan, Taxpayer B acquires 100 shares of G Company in 2012 and 100 shares of G Company in 2013, in an account B maintains with R Broker. B notifies R in writing that B elects to use the average basis method to compute the basis of the shares of G Company. In 2014, B transfers the shares of G Company to an account with S Broker. B does not notify S of the basis determination method B chooses to use for the shares of G Company, and S's default method is first-in, first-out. In 2015, B purchases 200 shares of G Company in the account with S. In 2016, B instructs S to sell 150 shares of G Company. *Example 2,*
 
-(ii) Because B does not notify S of a basis determination method for the shares of G Company, under paragraph (e)(2)(i) of this section, the basis of the 150 shares of G Company S sells for B in 2016 must be determined under S's default method, first-in, first-out.
+(ii) Because B does not notify S of a basis determination method for the shares of G Company, under paragraph (e)(2)(i) of this section, the basis of the 150 shares of G Company S sells for B in 2016 must be determined under S's default method, first-in, first-out.*See*
+
+| Date             | Number of shares | Cost |
+| ---------------- | ---------------- | ---- |
+| January 8, 2010  | 25               | $200 |
+| February 8, 2010 | 24               | 200  |
+| March 8, 2010    | 20               | 200  |
+| April 8, 2010    | 20               | 200  |
 
 (3) *Shares of stock.* For purposes of this paragraph (e), securities issued by unit investment trusts described in paragraph (e)(5) of this section are treated as shares of stock and the term *share* or *shares* includes fractions of a share.
 

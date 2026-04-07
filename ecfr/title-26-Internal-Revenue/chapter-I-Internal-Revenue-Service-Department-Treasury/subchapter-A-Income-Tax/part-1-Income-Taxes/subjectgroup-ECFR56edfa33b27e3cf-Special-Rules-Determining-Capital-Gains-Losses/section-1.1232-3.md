@@ -18,7 +18,19 @@ The balance, if any, of the gain shall be considered as long-term capital gain. 
 
 (2) *Examples.* The provisions of subparagraph (1) of this paragraph may be illustrated by the following examples:
 
-Example 1.On January 1, 1970, A, a calendar-year taxpayer, purchases at original issue for cash of $7,600, M Corporation's 10-year, 5 percent bond which has a stated redemption price at maturity of $10,000. On January 1, 1972, A sells the bond to B, for $9,040. A has previously included $480 of the original issue discount in his gross income (see example (1) of paragraph (d) of § 1.1232-3A) and increased his basis in the bond by that amount to $8,080 (see paragraph (c) of § 1.1232-3A). Thus, if at the time of original issue there was no intention to call the bond before maturity, A's gain of $960 (amount realized, $9,040, less adjusted basis, $8,080) is considered long-term capital gain.Example 2.(i) Assume the same facts as in example (1), except that at the time of original issue there was an intention to call the bond before maturity. The amount of the entire gain includible by A as ordinary income under subparagraph (1)(i) of this paragraph is determined as follows:
+Example 1.On January 1, 1970, A, a calendar-year taxpayer, purchases at original issue for cash of $7,600, M Corporation's 10-year, 5 percent bond which has a stated redemption price at maturity of $10,000. On January 1, 1972, A sells the bond to B, for $9,040. A has previously included $480 of the original issue discount in his gross income (see example (1) of paragraph (d) of § 1.1232-3A) and increased his basis in the bond by that amount to $8,080 (see paragraph (c) of § 1.1232-3A). Thus, if at the time of original issue there was no intention to call the bond before maturity, A's gain of $960 (amount realized, $9,040, less adjusted basis, $8,080) is considered long-term capital gain.1/2*c*
+
+| (1)   12                                                                                                                                                 | (2)    | (3) | (2) × (3) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --- | --------- |
+| (1) Entire original issue discount (stated redemption price at maturity, $10,000, minus issue price, $7,600)                                             | $2,400 |     |           |
+| (2) Less: Line (1), $2,400, multiplied by months elapsed since date of original issue, 24, divided by months from such date to stated maturity date, 120 | $480   |     |           |
+| (3) Maximum amount includible by A as ordinary income                                                                                                    | $1,920 |     |           |
+
+Since the amount in line (3) is greater than A's gain, $960, A's entire gain is includible as ordinary income. *a*
+
+Present value of annuity of $250 discounted for 10 periods at 3 1/2 percent per period = $250 × 8.3166 = $2,079.15.*b*
+
+Example 2.(i) Assume the same facts as in example (1), except that at the time of original issue there was an intention to call the bond before maturity. The amount of the entire gain includible by A as ordinary income under subparagraph (1)(i) of this paragraph is determined as follows:
 
 | (1) Entire original issue discount (stated redemption price at maturity, $10,000, minus issue price, $7,600)                                             | $2,400 |
 | (2) Less: Line (1), $2,400, multiplied by months elapsed since date of original issue, 24, divided by months from such date to stated maturity date, 120 | $480   |

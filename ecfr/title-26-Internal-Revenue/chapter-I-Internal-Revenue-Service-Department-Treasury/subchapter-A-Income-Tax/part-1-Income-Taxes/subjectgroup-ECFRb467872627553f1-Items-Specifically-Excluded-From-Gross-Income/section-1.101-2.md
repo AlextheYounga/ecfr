@@ -22,7 +22,15 @@
 
 (2) The application of the rule in subparagraph (1) of this paragraph may be illustrated by the following example:
 
-Example.The M Corporation, the employer of A, a deceased employee who died November 30, 1954, makes payments in 1955 to the beneficiaries of A as follows: $5,000 to W, A's widow, $2,000 to B, the son of A, and $3,000 to C, the daughter of A. No other amounts are paid by any other employer of A to his estate or beneficiaries. By application of the apportionment rule stated above, W, the widow, will exclude $2,500 ($5,000/$10,000, or one-half, of $5,000); B, the son, will exclude $1,000 ($2,000/$10,000, or one-fifth, of $5,000); and C, the daughter, will exclude $1,500 ($3,000/$10,000, or three-tenths, of $5,000).
+Example.The M Corporation, the employer of A, a deceased employee who died November 30, 1954, makes payments in 1955 to the beneficiaries of A as follows: $5,000 to W, A's widow, $2,000 to B, the son of A, and $3,000 to C, the daughter of A. No other amounts are paid by any other employer of A to his estate or beneficiaries. By application of the apportionment rule stated above, W, the widow, will exclude $2,500 ($5,000/$10,000, or one-half, of $5,000); B, the son, will exclude $1,000 ($2,000/$10,000, or one-fifth, of $5,000); and C, the daughter, will exclude $1,500 ($3,000/$10,000, or three-tenths, of $5,000).1/2*i.e.,*
+
+| (a) Amount includible in gross income without regard to second sentence of section 101(b)(2)(B) ($6,000 minus $2,000 contributed for contract by A)12 | $4,000 |
+| (b) Total employer contributions for the contract                                                                                                     | $3,000 |
+| (c) Amount of employer contributions for the contract that was excludable under paragraph (b) of § 1.403(b)-1                                         | $3,000 |
+| (d) Percent of total employer contributions for the contract that were excludable under paragraph (b) of § 1.403(b)-1 ((c) ÷ (b))                     | 100%   |
+| (e) Amount to which section 101(b) exclusion applies ((d) × (a))                                                                                      | $4,000 |
+
+(ii) The computation of the exclusion applicable to the interests of W and C (assuming that the payments will not be made by an insurance company or some other organization regularly engaged in issuing annuity contracts) is, by application of the tables in § 20.2031-7 of this chapter (Estate Tax Regulations), as follows: The present value of W's interest is $26,243.60, determined by multiplying the annual payment of $2,000 by 13.1218 (the factor in Table I for a person aged 55); the present value of C's interest is $11,517.40, determined by multiplying the yearly payment of $1,000 by 11.5174 (the factor in Table II for payments for a term certain of 15 years). The present value of both annuities is $37,761 and (assuming no other death benefits are involved), the total amount excludable is $5,000, because the total present value of the annuities exceeds the employee's nonforfeitable interest by more than $5,000 ($37,761 minus $18,000 equal $19,761). The exclusion allocable to W's interest is $26,243.60/$37,761 times $5,000, or $3,474.96; the exclusion allocable to C's interest is $11,517.40/$37,761 times $5,000, or $1,525.04. That portion of the death benefit exclusion as so determined for each beneficiary is to be treated as consideration paid by the employee for purposes of section 72.
 
 (d) *Nonforfeitable rights.* (1) Except as provided in subparagraphs (3) and (4) of this paragraph, the exclusion provided by section 101(b) does not apply to amounts with respect to which the deceased employee possessed, immediately before his death, a nonforfeitable right to receive the amounts while living. Section 101(b)(2)(B). For the purpose of section 101(b) and this paragraph, an employee shall be considered to have had a nonforfeitable right with respect to—
 
@@ -38,7 +46,7 @@ Example.The M Corporation, the employer of A, a deceased employee who died Novem
 
 (*b*) Amounts which would have been so payable if the employee had terminated his employment and continued to live;
 
-or
+or *b*
 
 (iii) Any amount to the extent it is paid in lieu of amounts described in either subdivision (i) or (ii) of this subparagraph. See examples (2), (3), and (4) of subparagraph (2) of this paragraph.
 

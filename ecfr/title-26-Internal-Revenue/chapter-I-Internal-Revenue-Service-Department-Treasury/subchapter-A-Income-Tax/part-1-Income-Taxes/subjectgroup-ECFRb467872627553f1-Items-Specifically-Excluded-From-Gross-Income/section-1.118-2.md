@@ -1,6 +1,6 @@
 ##### § 1.118-2 Contribution in aid of construction.
 
-(a) *Special rule for water and sewerage disposal utilities*—(1) *In general.* For purposes of section 118, the term *contribution to the capital of the taxpayer* includes any amount of money or other property received from any person (whether or not a shareholder) by a regulated public utility that provides water or sewerage disposal services if—
+(a) *Special rule for water and sewerage disposal utilities*—(1) *In general.* For purposes of section 118, the term *contribution to the capital of the taxpayer* includes any amount of money or other property received from any person (whether or not a shareholder) by a regulated public utility that provides water or sewerage disposal services if—1/2
 
 (i) The amount is a contribution in aid of construction under paragraph (b) of this section;
 

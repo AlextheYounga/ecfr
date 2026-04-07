@@ -1,6 +1,6 @@
 ##### § 11.950 Examination subjects for engineer officer endorsements.
 
-Table 1 to § 11.950 gives the codes used in Table 2 to § 11.950 for engineer officer endorsements. Table 2 to § 11.950 indicates the examination subjects for each endorsement by the code number. 
+Table 1 to § 11.950 gives the codes used in Table 2 to § 11.950 for engineer officer endorsements. Table 2 to § 11.950 indicates the examination subjects for each endorsement by the code number.
 
 Table 1 to § 11.950—Codes for Engineer Officer Endorsements
 | 1\. First Assistant Engineer-Unlimited.                      |

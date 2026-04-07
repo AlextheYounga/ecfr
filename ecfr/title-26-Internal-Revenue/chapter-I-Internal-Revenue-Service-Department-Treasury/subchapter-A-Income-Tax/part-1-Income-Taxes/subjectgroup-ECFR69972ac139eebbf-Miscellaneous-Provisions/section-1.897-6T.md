@@ -14,7 +14,7 @@
 
 (7) *Examples.* The rules of paragraphs (a)(1) through (6) of this section may be illustrated by the following examples. In each instance, the filing requirements of paragraph (d)(1)(iii) of § 1.897-5T have been satisfied.
 
-Example 1.(i) A is a citizen and resident of Country F with which the U.S. does not have an income tax treaty. A owns Parcel P, a U.S. real property interest, with a fair market value of $500,000 and an adjusted basis of $300,000. A transfers Parcel P to DC, a newly formed U.S. real property holding corporation wholly owned by A, in exchange for DC stock.
+Example 1.(i) A is a citizen and resident of Country F with which the U.S. does not have an income tax treaty. A owns Parcel P, a U.S. real property interest, with a fair market value of $500,000 and an adjusted basis of $300,000. A transfers Parcel P to DC, a newly formed U.S. real property holding corporation wholly owned by A, in exchange for DC stock. *Example 7,*
 
 (ii) Under paragraph (a)(1) of this section, A has exchanged a U.S. real property interest (Parcel P) for another U.S. real property interest (DC stock) which is subject to U.S. taxation upon its disposition. The nonrecognition provisions of section 351(a) apply to A's transfer of Parcel P.
 

@@ -4,16 +4,19 @@ The provisions of subpart D (section 665 and following), part I, subchapter J, c
 
 Example.(a) *Facts.* (1) Under the terms of a trust instrument, one-half of the trust income is required to be distributed currently to beneficiary A. The trustee may in his discretion accumulate the balance of the income of the trust or he may make distributions to B out of income or corpus. The trust is to terminate upon the death of A and the corpus is to be distributed to B. Capital gains are allocable to corpus. All of the expenses of the trust are charges against income. The trust instrument provides for a reserve for depreciation, so that depreciation is deductible in computing distributable net income. The trust and both beneficiaries report on the calendar year basis. The trust had long-term capital gains of $20,000 for 1954, and $10,000 for 1955, which were allocated to corpus. The distributable net income of the trust as determined under section 643(a) for 1954, 1955, 1956, and 1957 is deemed to consist of the following items of income:
 
-|      | Dividends | Rents   | Interest (taxable) | Interest (exempt) | Total   |
-| ---- | --------- | ------- | ------------------ | ----------------- | ------- |
-| 1954 | $15,000   | $20,000 | $10,000            | $5,000            | $50,000 |
-| 1955 | 10,000    | 15,000  | 10,000             | 5,000             | 40,000  |
-| 1956 | 10,000    | 20,000  | 15,000             | 5,000             | 50,000  |
-| 1957 | 10,000    | 15,000  | 15,000             | 5,000             | 45,000  |
+|                                         | Dividends | Rents   | Interest (taxable) | Interest (exempt) | Total   |
+| --------------------------------------- | --------- | ------- | ------------------ | ----------------- | ------- |
+| 19541                                   | $15,000   | $20,000 | $10,000            | $5,000            | $50,000 |
+| 1955                                    | 10,000    | 15,000  | 10,000             | 5,000             | 40,000  |
+| 1956                                    | 10,000    | 20,000  | 15,000             | 5,000             | 50,000  |
+| 1957                                    | 10,000    | 15,000  | 15,000             | 5,000             | 45,000  |
+| 1 See paragraph (a)(1) of this example. |           |         |                    |                   |         |
+| 2 See paragraph (b) of this example.    |           |         |                    |                   |         |
+| 3 See paragraph (f)(3) of this example. |           |         |                    |                   |         |
 
 (2) One-half ($7,500) of the dividends for 1954 was received by the trust on or before July 31, 1954, and the balance was received after that date.
 
-(3) The following distributions were made by the trustee to A and B during the taxable years 1954 through 1957:
+(3) The following distributions were made by the trustee to A and B during the taxable years 1954 through 1957:*Tax liability of the trust*
 
 |      | A       | B       |
 | ---- | ------- | ------- |

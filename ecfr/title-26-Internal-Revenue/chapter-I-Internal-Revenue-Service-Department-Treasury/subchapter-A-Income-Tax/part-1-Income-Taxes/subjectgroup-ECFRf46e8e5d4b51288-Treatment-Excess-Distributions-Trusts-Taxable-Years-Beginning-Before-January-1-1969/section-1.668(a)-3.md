@@ -10,12 +10,14 @@ Example 1.(a) A trust in 1957 has income as defined in section 643(b) of $35,000
 
 (d) The accumulation distribution of the trust is $35,000, computed as follows:
 
-| Total distribution by the trust   |         | $100,000 |
-| Less:                             |         |          |
-| Distributable net income for 1957 | $30,000 |          |
-| Excess distribution to B          | 35,000  |          |
-|                                   | 65,000  |          |
-| Accumulation distribution to A    | 35,000  |          |
+|                                     | 1956    | 1955     | 1954 | Total |
+| ----------------------------------- | ------- | -------- | ---- | ----- |
+| Total distribution by the trust1954 |         | $100,000 |      |       |
+| Less:                               |         |          |      |       |
+| Distributable net income for 1957   | $30,000 |          |      |       |
+| Excess distribution to B            | 35,000  |          |      |       |
+|                                     | 65,000  |          |      |       |
+| Accumulation distribution to A      | 35,000  |          |      |       |
 
 (e) The accumulation distribution of $35,000 will be allocated to the preceding taxable years 1956, 1955, and 1954, and the trust will be deemed to have made the following distributions to A on the last day of those years:
 

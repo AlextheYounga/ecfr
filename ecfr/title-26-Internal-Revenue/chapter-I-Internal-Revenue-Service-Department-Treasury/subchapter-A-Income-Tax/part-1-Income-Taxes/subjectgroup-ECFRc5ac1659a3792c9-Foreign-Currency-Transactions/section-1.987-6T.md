@@ -1,6 +1,6 @@
 ##### § 1.987-6T Character and source of section 987 gain or loss (temporary).
 
-(a) through (b)(3) \[Reserved\] For further guidance, see § 1.987-6(a) through (b)(3).
+(a) through (b)(3) \[Reserved\] For further guidance, see § 1.987-6(a) through (b)(3).*Source of section 987 gain or loss with respect to a dollar QBU.*
 
 (4) *Source of section 987 gain or loss with respect to a dollar QBU.* The source of section 987 gain or loss with respect to a dollar QBU (as defined in § 1.987-1T(b)(6)(i)) for which the CFC owner has elected under § 1.987-1T(b)(6)(iii) to apply section 987 is determined by reference to the residence of the CFC owner. This paragraph (b)(4) applies to any CFC that has made the election under § 1.987-1T(b)(6)(iii), including a CFC described in § 1.987-1(b)(1)(ii).
 

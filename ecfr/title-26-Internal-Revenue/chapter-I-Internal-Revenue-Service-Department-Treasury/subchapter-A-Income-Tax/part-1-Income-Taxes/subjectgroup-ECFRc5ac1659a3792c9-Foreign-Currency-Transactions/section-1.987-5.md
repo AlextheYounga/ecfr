@@ -61,18 +61,18 @@
 (i) *Computation of amount of remittance.* Under paragraphs (c)(1) and (2) of this section, U.S. Corp must determine the amount of the remittance for year 2 in the QBU's functional currency (pounds) on the last day of year 2. The amount of the remittance for year 2 is £500, determined as follows:
 
 Table 1 to Paragraph (g)(2)(i)
-| **Transfers from Business A to U.S. Corp in pounds**   |          |
-| Machine                                                | £500     |
-| Pounds                                                 | £2,300   |
-| Aggregate transfers from Business A to U.S. Corp       | £2,800   |
-| **Transfers from U.S. Corp to Business A in pounds**   |          |
-| Truck                                                  | £2,000   |
-| Pounds                                                 | £300     |
-| Aggregate transfers from U.S. Corp to Business A       | £2,300   |
-| **Computation of amount of remittance:**               |          |
-| Aggregate transfers from Business A to U.S. Corp       | £2,800   |
-| Less: aggregate transfers from U.S. Corp to Business A | (£2,300) |
-| Total remittance                                       | £500     |
+| **Transfers from Business A to U.S. Corp in pounds**2,300 |          |
+| Machine                                                   | £500     |
+| Pounds                                                    | £2,300   |
+| Aggregate transfers from Business A to U.S. Corp          | £2,800   |
+| **Transfers from U.S. Corp to Business A in pounds**      |          |
+| Truck                                                     | £2,000   |
+| Pounds                                                    | £300     |
+| Aggregate transfers from U.S. Corp to Business A          | £2,300   |
+| **Computation of amount of remittance:**                  |          |
+| Aggregate transfers from Business A to U.S. Corp          | £2,800   |
+| Less: aggregate transfers from U.S. Corp to Business A    | (£2,300) |
+| Total remittance                                          | £500     |
 
 (ii) *Alternative computation of remittance amount.* Under paragraph (c)(2) of this section, U.S. Corp can compute the amount of the remittance for year 2 using the following steps.
 

@@ -4,7 +4,7 @@ This section lists the captions that appear in the regulations under section 469
 
 § 1.469-1 General rules.
 
-(a)-(c)(7) \[Reserved\]
+(a)-(c)(7) \[Reserved\]*1*
 
 (c)(8) Consolidated groups.
 

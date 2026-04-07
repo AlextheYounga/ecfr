@@ -1,6 +1,6 @@
 ##### § 1.883-2 Treatment of publicly-traded corporations.
 
-(a) *General rule.* A foreign corporation satisfies the stock ownership test of § 1.883-1(c)(2) if it is considered a publicly-traded corporation and satisfies the substantiation and reporting requirements of paragraphs (e) and (f) of this section. To be considered a publicly-traded corporation, the stock of the foreign corporation must be primarily traded and regularly traded, as defined in paragraphs (c) and (d) of this section, respectively, on one or more established securities markets, as defined in paragraph (b) of this section, in either the United States or any qualified foreign country.
+(a) *General rule.* A foreign corporation satisfies the stock ownership test of § 1.883-1(c)(2) if it is considered a publicly-traded corporation and satisfies the substantiation and reporting requirements of paragraphs (e) and (f) of this section. To be considered a publicly-traded corporation, the stock of the foreign corporation must be primarily traded and regularly traded, as defined in paragraphs (c) and (d) of this section, respectively, on one or more established securities markets, as defined in paragraph (b) of this section, in either the United States or any qualified foreign country.1/6
 
 (b) *Established securities market*—(1) *General rule.* For purposes of this section, the term *established securities market* means, for any taxable year—
 

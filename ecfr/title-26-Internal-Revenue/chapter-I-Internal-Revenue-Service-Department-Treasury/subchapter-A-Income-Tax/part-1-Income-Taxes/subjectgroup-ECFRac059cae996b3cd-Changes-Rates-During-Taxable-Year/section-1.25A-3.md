@@ -12,7 +12,7 @@
 
 (2) *Example.* The following example illustrates the rule of this paragraph (b). In the example, assume that all the requirements to claim an education tax credit are met. The example is as follows:
 
-Example.In 1999, Taxpayer A has two dependents, B and C, both of whom are eligible students. Taxpayer A pays $1,600 in qualified tuition and related expenses for dependent B to attend a community college. Taxpayer A pays $5,000 in qualified tuition and related expenses for dependent C to attend University X. Taxpayer A may claim a Hope Scholarship Credit of $1,300 ($1,000 + (.50 × $600)) for dependent B, and the maximum $1,500 Hope Scholarship Credit for dependent C, for a total Hope Scholarship Credit of $2,800.
+Example.In 1999, Taxpayer A has two dependents, B and C, both of whom are eligible students. Taxpayer A pays $1,600 in qualified tuition and related expenses for dependent B to attend a community college. Taxpayer A pays $5,000 in qualified tuition and related expenses for dependent C to attend University X. Taxpayer A may claim a Hope Scholarship Credit of $1,300 ($1,000 + (.50 × $600)) for dependent B, and the maximum $1,500 Hope Scholarship Credit for dependent C, for a total Hope Scholarship Credit of $2,800.*Example 2.*
 
 (c) *Credit allowed for only two taxable years.* For each eligible student, the Hope Scholarship Credit may be claimed for no more than two taxable years.
 

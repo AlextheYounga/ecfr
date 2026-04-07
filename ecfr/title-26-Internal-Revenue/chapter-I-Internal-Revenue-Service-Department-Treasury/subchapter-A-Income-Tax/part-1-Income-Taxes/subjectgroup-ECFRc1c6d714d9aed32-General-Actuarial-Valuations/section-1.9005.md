@@ -1,6 +1,6 @@
 ##### § 1.9005 Statutory provisions; section 2 of the Act of September 26, 1961 (Pub. L. 87-321, 75 Stat. 683).
 
-Sec. 2.*Election for quartzite and clay used in the production of refractory products*—(a) *Election for past years.* If an election is made under subsection (c), in the case of quartzite and clay used by the mine owner or operator in the production of refractory products, for the purpose of applying section 613(c) of the Internal Revenue Code of 1954 (and corresponding provisions of the Internal Revenue Code of 1939) for each of the taxable years with respect to which the election is effective:
+Sec. 2.*Election for quartzite and clay used in the production of refractory products*—(a) *Election for past years.* If an election is made under subsection (c), in the case of quartzite and clay used by the mine owner or operator in the production of refractory products, for the purpose of applying section 613(c) of the Internal Revenue Code of 1954 (and corresponding provisions of the Internal Revenue Code of 1939) for each of the taxable years with respect to which the election is effective:1/2
 
 (1) The term “ordinary treatment processes” shall include crushing, grinding, and separating the mineral from waste, but shall not include any subsequent process; and
 

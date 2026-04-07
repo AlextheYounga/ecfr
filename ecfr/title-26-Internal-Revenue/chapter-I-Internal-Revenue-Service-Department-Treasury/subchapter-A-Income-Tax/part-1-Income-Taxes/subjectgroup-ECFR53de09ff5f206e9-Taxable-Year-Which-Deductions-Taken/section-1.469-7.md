@@ -76,13 +76,20 @@
 
 (3) *Example.* The following example illustrates the application of this paragraph (e):
 
-Example.(i) A and B, both calendar year taxpayers, each own a 50-percent interest in the capital and profits of partnerships RS and XY, both calendar year partnerships. Under the partnership agreements of RS and XY, A and B are each entitled to a 50-percent distributive share of each partnership's income, gain, loss, deduction, or credit. RS makes a $20,000 loan to XY and XY pays RS $2,000 of interest for the taxable year. A's distributive share of interest income attributable to this loan is $1,000 (50 percent × $2,000). XY uses all of the proceeds received from RS is a passive activity. A's distributive share of interest expense attributable to the loan is $1,000 (50 percent × $2,000).
+Example.(i) A and B, both calendar year taxpayers, each own a 50-percent interest in the capital and profits of partnerships RS and XY, both calendar year partnerships. Under the partnership agreements of RS and XY, A and B are each entitled to a 50-percent distributive share of each partnership's income, gain, loss, deduction, or credit. RS makes a $20,000 loan to XY and XY pays RS $2,000 of interest for the taxable year. A's distributive share of interest income attributable to this loan is $1,000 (50 percent × $2,000). XY uses all of the proceeds received from RS is a passive activity. A's distributive share of interest expense attributable to the loan is $1,000 (50 percent × $2,000). *Example 4*
 
-(ii) This paragraph (e) applies in determining A's passive activity gross income because RS and XY are identically-owned passthrough entities as described in paragraph (e)(1) of this section. Under paragraph (e)(2) of this section, the RS-to-XY loan is treated as if A made the loan to XY. Therefore, A must apply paragraph (c) of this section to determine the applicable percentage of portfolio income that is recharacterized as passive income.
+(ii) This paragraph (e) applies in determining A's passive activity gross income because RS and XY are identically-owned passthrough entities as described in paragraph (e)(1) of this section. Under paragraph (e)(2) of this section, the RS-to-XY loan is treated as if A made the loan to XY. Therefore, A must apply paragraph (c) of this section to determine the applicable percentage of portfolio income that is recharacterized as passive income.*i.e.,*2/3
 
 (iii) Paragraph (c) of this section applies in determining A's passive activity gross income because: XY has deductions for interest charged to XY by RS for the taxable year (XY's self-charged interest deductions); A owns an interest in XY during XY's taxable year and has gross income for the taxable year from interest charged to XY by RS; and A's share of XY's self-charged interest deductions includes passive activity deductions. See paragraph (c)(1) of this section.
 
 (iv) Under paragraph (c)(2)(i) of this section, the applicable percentage of A's interest income is recharacterized as passive activity gross income from the activity. Paragraph (c)(3) of this section provides that the applicable percentage is obtained by dividing A's share for the taxable year of XY's self-charged interest deductions that are treated as passive activity deductions from the activity ($1,000) by the greater of A's share for the taxable year of XY's self-charged interest deductions ($1,000), or A's income for the year from interest charged to XY ($1,000). Thus, A's applicable percentage is 100 percent ($1,000/$1,000), and $1,000 (100 percent × $1,000) of A's income from interest charged to XY is treated as passive activity gross income from the passive activity.
+
+|      | A's interest income | AB's interest deductions |
+| ---- | ------------------- | ------------------------ |
+| 1990 | $1,250              | 0                        |
+| 1991 | 5,000               | $3,750                   |
+| 1992 | 3,750               | 5,000                    |
+| 1993 | 0                   | 1,250                    |
 
 (f) *Identification of properly allocable deductions.* For purposes of this section, interest expense is properly allocable to an item of interest income if the interest expense is allocated under § 1.163-8T to an expenditure that—
 

@@ -4,7 +4,7 @@
 
 (b) *Determination of amount not allowed.* The amount not allowed as a deduction under paragraph (a) of this section is determined with reference to the entire amount of borrowing to purchase or carry the contract, and is not limited with reference to the amount of borrowing of increases in the cash value. The rule of this paragraph may be illustrated by the following example:
 
-Example.A, a calendar year taxpayer using the cash receipts and disbursements method of accounting, on January 1, 1964, purchases from a life insurance company a policy in the amount of $100,000 with an annual gross premium of $2,200. For the first policy year, A pays the annual premium by means other than by borrowing. For the second, third, fourth, and fifth policy years, A continues the policy in effect by incurring indebtedness pursuant to a plan referred to in paragraph (a) of this section. The years and amounts applicable to the policy are as follows:
+Example.A, a calendar year taxpayer using the cash receipts and disbursements method of accounting, on January 1, 1964, purchases from a life insurance company a policy in the amount of $100,000 with an annual gross premium of $2,200. For the first policy year, A pays the annual premium by means other than by borrowing. For the second, third, fourth, and fifth policy years, A continues the policy in effect by incurring indebtedness pursuant to a plan referred to in paragraph (a) of this section. The years and amounts applicable to the policy are as follows: *Example 1,*
 
 | Years | Cumulative cash value of contract | Total loan outstanding | Interest paid at 4.8 percent |
 | ----- | --------------------------------- | ---------------------- | ---------------------------- |

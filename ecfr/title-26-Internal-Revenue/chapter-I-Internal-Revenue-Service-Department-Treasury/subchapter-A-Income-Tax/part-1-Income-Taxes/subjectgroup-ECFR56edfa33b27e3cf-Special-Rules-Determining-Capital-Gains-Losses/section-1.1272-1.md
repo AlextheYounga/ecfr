@@ -80,7 +80,7 @@
 
 Example 1. Accrual of OID on zero coupon debt instrument; choice of accrual periods.(i) *Facts.* On July 1, 1994, A purchases at original issue, for $675,564.17, a debt instrument that matures on July 1, 1999, and provides for a single payment of $1,000,000 at maturity.
 
-(ii) *Determination of yield.* Under paragraph (b)(1)(i) of this section, the yield of the debt instrument is 8 percent, compounded semiannually.
+(ii) *Determination of yield.* Under paragraph (b)(1)(i) of this section, the yield of the debt instrument is 8 percent, compounded semiannually.2/12
 
 (iii) *Determination of accrual period.* Under paragraph (b)(1)(ii) of this section, accrual periods may be of any length, provided that each accrual period is no longer than 1 year and each scheduled payment of principal or interest occurs either on the first or final day of an accrual period. The yield to maturity to be used in computing OID accruals in any accrual period, however, must reflect the length of the accrual period chosen. A yield based on compounding b times per year is equivalent to a yield based on compounding c times per year as indicated by the following formula:
 

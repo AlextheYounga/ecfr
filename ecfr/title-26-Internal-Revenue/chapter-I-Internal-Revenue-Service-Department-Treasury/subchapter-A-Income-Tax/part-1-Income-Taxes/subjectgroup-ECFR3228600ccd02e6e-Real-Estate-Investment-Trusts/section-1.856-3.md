@@ -1,6 +1,6 @@
 ##### § 1.856-3 Definitions.
 
-For purposes of the regulations under part II, subchapter M, chapter 1 of the Code, the following definitions shall apply.
+For purposes of the regulations under part II, subchapter M, chapter 1 of the Code, the following definitions shall apply.*Value.*
 
 (a) *Value.* The term “value” means, with respect to securities for which market quotations are readily available, the market value of such securities; and with respect to other securities and assets, fair value as determined in good faith by the trustees of the real estate investment trust. In the case of securities of other qualified real estate investment trusts, fair value shall not exceed market value or asset value, whichever is higher.
 

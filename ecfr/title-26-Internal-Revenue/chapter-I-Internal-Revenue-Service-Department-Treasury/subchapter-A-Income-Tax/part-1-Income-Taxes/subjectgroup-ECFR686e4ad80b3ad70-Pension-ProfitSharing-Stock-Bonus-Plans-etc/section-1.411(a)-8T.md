@@ -1,6 +1,6 @@
 ##### § 1.411(a)-8T Changes in vesting schedule (temporary).
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Election of former schedule*
 
 (b) *Election of former schedule*—(1) *In general.* Under section 411(a)(10)(B), for plan years for which section 411 applies, if the vesting schedule of a plan is amended, the plan will not be treated as meeting the minimum vesting standards of section 411(a)(2) unless the plan as amended provides that each participant whose nonforfeitable percentage of his accrued benefit derived from employer contributions is determined under such schedule, and who has completed at least 3 years of service with the employer, may elect, during the election period, to have the nonforfeitable percentage of his accrued benefit derived from employer contributions determined without regard to such amendment. Notwithstanding the preceding sentence, no election need be provided for any participant whose nonforfeitable percentage under the plan, as amended, at any time cannot be less than such percentage determined without regard to such amendment. For employees not described in § 1.411(a)-3T(e)(1), this section shall be applied by substituting “5 years of service” for “3 years of service” where such language appears.
 

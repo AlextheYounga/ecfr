@@ -76,7 +76,7 @@
 
 (f) *Examples.* The rules of this section are illustrated by the following examples:
 
-Example 1.(i) Assume that the loss corporation, L, a calendar year taxpayer with a May 26, 1995, change date, determines a section 382 limitation under section 382(b)(1) of $100,000. Thus, for the change year, its section 382 limitation is $100,000 × (219/365) = $60,000. L makes the closing-of-the- books election under paragraph (b) of this section.
+Example 1.(i) Assume that the loss corporation, L, a calendar year taxpayer with a May 26, 1995, change date, determines a section 382 limitation under section 382(b)(1) of $100,000. Thus, for the change year, its section 382 limitation is $100,000 × (219/365) = $60,000. L makes the closing-of-the- books election under paragraph (b) of this section. *Example 1,*
 
 (ii) Assume that L has a $150,000 capital loss carryover (from its 1994 taxable year) and a $300,000 net operating loss carryover (from its 1994 taxable year) to the change year. L recognizes, in the pre-change period, $200,000 of ordinary loss, and, in the post-change period, $150,000 of capital gain and $100,000 of ordinary income. Assume that section 382(h) does not apply to the capital gain or the ordinary income.
 

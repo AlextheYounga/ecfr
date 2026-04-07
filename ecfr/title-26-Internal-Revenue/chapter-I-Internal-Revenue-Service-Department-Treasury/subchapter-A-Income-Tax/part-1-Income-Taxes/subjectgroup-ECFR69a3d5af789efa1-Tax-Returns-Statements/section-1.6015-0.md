@@ -4,7 +4,7 @@ This section lists captions contained in §§ 1.6015-1 through 1.6015-9.
 
 § 1.6015-1 Relief from joint and several liability on a joint return.
 
-(a) In general.
+(a) In general.*1*
 
 (b) Duress.
 

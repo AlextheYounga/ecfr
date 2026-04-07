@@ -1,6 +1,6 @@
 ##### § 1.162(l)-1 Deduction for health insurance costs of self-employed individuals.
 
-(a) *Coordination of section 162(l) deduction for taxpayers subject to section 36B*—(1) *In general.* A taxpayer is allowed a deduction under section 162(l) for specified premiums, as defined in paragraph (a)(2) of this section, not to exceed an amount equal to the lesser of—
+(a) *Coordination of section 162(l) deduction for taxpayers subject to section 36B*—(1) *In general.* A taxpayer is allowed a deduction under section 162(l) for specified premiums, as defined in paragraph (a)(2) of this section, not to exceed an amount equal to the lesser of—Federal Register
 
 (i) The specified premiums less the premium tax credit attributable to the specified premiums; and
 

@@ -1,6 +1,6 @@
 ##### § 1.401(a)(4)-12 Definitions.
 
-Unless otherwise provided, the definitions in this section govern in applying the provisions of §§ 1.401(a)(4)-1 through 1.401(a)(4)-13.
+Unless otherwise provided, the definitions in this section govern in applying the provisions of §§ 1.401(a)(4)-1 through 1.401(a)(4)-13.*Accumulation plan.*
 
 *Accumulation plan.* Accumulation plan means a defined benefit plan under which the benefit of every employee for each plan year is separately determined, using plan year compensation (if benefits are determined as a percentage of compensation rather as than a dollar amount) separately calculated for the plan year, and each employee's total accrued benefit as of the end of a plan year is the sum of the separately determined benefit for that plan year and the total accrued benefit as of the end of the preceding plan year.
 

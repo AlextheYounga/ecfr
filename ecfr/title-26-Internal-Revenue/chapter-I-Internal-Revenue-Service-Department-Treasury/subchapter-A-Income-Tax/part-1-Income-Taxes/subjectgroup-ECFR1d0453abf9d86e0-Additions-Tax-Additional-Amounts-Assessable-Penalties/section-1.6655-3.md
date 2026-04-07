@@ -30,7 +30,7 @@
 
 Example.(i) X, a corporation that reports on a calendar year basis, expects to have an estimated tax liability of $1,200,000 for its taxable year ending December 31, 2009. On its 2008 tax return, X reports a tax liability of $652,800. X pays four installments of estimated tax, each in the amount of $250,000, $250,000, $250,000, and $450,000 on April 15, 2009, June 15, 2009, September 15, 2009, and December 15, 2009, respectively. X reports a tax liability of $1,152,600 on its return due March 15, 2010, with no credits against tax. Under the general provision of section 6655(b) and section 6655(d), there was an underpayment in the amount of $76,300 for the second installment through September 15, 2009, and $114,450 for the third installment through December 15, 2009, determined as follows:
 
-(A) Tax as defined in section 6655(g) = $1,152,600
+(A) Tax as defined in section 6655(g) = $1,152,600*Example*
 
 (B) 100% of this paragraph (e), Example (i)(A) = $1,152,600
 

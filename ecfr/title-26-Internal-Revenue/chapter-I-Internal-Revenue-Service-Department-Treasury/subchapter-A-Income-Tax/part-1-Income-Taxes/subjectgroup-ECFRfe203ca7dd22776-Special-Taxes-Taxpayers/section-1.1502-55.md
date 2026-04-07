@@ -1,6 +1,6 @@
 ##### § 1.1502-55 Computation of alternative minimum tax of consolidated groups.
 
-(a)-(h)(3) \[Reserved\]
+(a)-(h)(3) \[Reserved\]*Separate return year minimum tax credit.*
 
 (h)(4) *Separate return year minimum tax credit.* (i)-(ii) \[Reserved\]
 

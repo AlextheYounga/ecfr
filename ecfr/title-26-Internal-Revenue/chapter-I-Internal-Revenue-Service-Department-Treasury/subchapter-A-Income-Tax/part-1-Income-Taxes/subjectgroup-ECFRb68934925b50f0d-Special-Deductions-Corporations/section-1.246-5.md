@@ -64,7 +64,35 @@
 
 (d) *Examples.* The following examples illustrate the provisions of this section:
 
-Example 1.General application to common stock. Corporation A and Corporation B are both automobile manufacturers. The fair market values of Corporation A and Corporation B common stock primarily reflect the value of the same industry. Because Corporation A and Corporation B common stock are affected not only by the general level of growth in the industry but also by individual corporate management decisions and corporate capital structures, changes in the fair market value of Corporation A common stock are not reasonably expected to approximate changes in the fair market value of the Corporation B common stock. Under paragraph (b)(1) of this section, Corporation A common stock is not substantially similar or related to Corporation B common stock.Example 2. Common stock value primarily reflects commodity price.Corporation C and Corporation D both hold gold as their primary asset, and historically changes in the fair market value of Corporation C common stock approximated changes in the fair market value of Corporation D common stock. Corporation M purchased Corporation C common stock and sold short Corporation D common stock. Corporation C common stock is substantially similar or related to Corporation D common stock because their fair market values primarily reflect the performance of the same economic factor, the price of gold, and changes in the fair market value of Corporation C common stock are reasonably expected to approximate changes in the fair market value of Corporation D common stock. It was reasonably expected that changes in the fair market values of the Corporation C common stock and the short position in Corporation D common stock would vary inversely. Thus, Corporation M has diminished its risk of loss on its Corporation C common stock for purposes of section 246(c)(4)(C) and this section by holding a position in substantially similar or related property.Example 3. Portfolios of stocks.(i) Corporation Z holds a portfolio of stocks and acquires a short position on a publicly traded index through a regulated futures contract (RFC) that reflects the value of a portfolio of stocks as defined in paragraph (c)(1)(i) of this section. The index reflects the fair market value of stocks A through T. The values of stocks reflected in the index and the values of the same stocks in Corporation Z's holdings are as follows:
+Example 1.General application to common stock. Corporation A and Corporation B are both automobile manufacturers. The fair market values of Corporation A and Corporation B common stock primarily reflect the value of the same industry. Because Corporation A and Corporation B common stock are affected not only by the general level of growth in the industry but also by individual corporate management decisions and corporate capital structures, changes in the fair market value of Corporation A common stock are not reasonably expected to approximate changes in the fair market value of the Corporation B common stock. Under paragraph (b)(1) of this section, Corporation A common stock is not substantially similar or related to Corporation B common stock.
+
+| Stock  | Z's   holdings | RFC    | Subportfolio |
+| ------ | -------------- | ------ | ------------ |
+| A      | $300           | $300   | $300         |
+| B      | 300            | 300    | 300          |
+| C      | —              | 300    | —            |
+| D      | 400            | 500    | 400          |
+| E      | 300            | 500    | 300          |
+| F      | 300            | 500    | 300          |
+| G      | 500            | 600    | 500          |
+| H      | 300            | 300    | 300          |
+| I      | —              | 300    | —            |
+| J      | 400            | 450    | 400          |
+| K      | 200            | 500    | 200          |
+| L      | 200            | 400    | 200          |
+| M      | 200            | 500    | 200          |
+| N      | 100            | 200    | 100          |
+| O      | —              | 200    | —            |
+| P      | 200            | 200    | 200          |
+| Q      | 100            | 300    | 100          |
+| R      | 200            | 100    | 100          |
+| S      | 100            | 100    | 100          |
+| T      | 100            | 200    | 100          |
+| Totals | $4,200         | $6,750 | $4,100       |
+
+(iii) To determine whether any portion of the position substantially overlaps with any portion of the Z's stock holdings, the values of the stocks in the RFC are reduced for purposes of the above steps. Eighty percent of the position and the corresponding subportfolio (consisting of stocks with a value of the lesser of the stocks represented in Z's holdings and in 80 percent of the RFC) substantially overlap, computed as follows:
+
+Example 2. Common stock value primarily reflects commodity price.Corporation C and Corporation D both hold gold as their primary asset, and historically changes in the fair market value of Corporation C common stock approximated changes in the fair market value of Corporation D common stock. Corporation M purchased Corporation C common stock and sold short Corporation D common stock. Corporation C common stock is substantially similar or related to Corporation D common stock because their fair market values primarily reflect the performance of the same economic factor, the price of gold, and changes in the fair market value of Corporation C common stock are reasonably expected to approximate changes in the fair market value of Corporation D common stock. It was reasonably expected that changes in the fair market values of the Corporation C common stock and the short position in Corporation D common stock would vary inversely. Thus, Corporation M has diminished its risk of loss on its Corporation C common stock for purposes of section 246(c)(4)(C) and this section by holding a position in substantially similar or related property.Example 3. Portfolios of stocks.(i) Corporation Z holds a portfolio of stocks and acquires a short position on a publicly traded index through a regulated futures contract (RFC) that reflects the value of a portfolio of stocks as defined in paragraph (c)(1)(i) of this section. The index reflects the fair market value of stocks A through T. The values of stocks reflected in the index and the values of the same stocks in Corporation Z's holdings are as follows:
 
 | Stock  | Z's   holdings | RFC    | Subportfolio |
 | ------ | -------------- | ------ | ------------ |

@@ -1,6 +1,6 @@
 ##### § 1.469-3 Passive activity credit.
 
-(a)-(d) \[Reserved\]
+(a)-(d) \[Reserved\]*Coordination with section 38(b).*
 
 (e) *Coordination with section 38(b).* Any credit described in section 38(b) (1) through (5) is taken into account in computing the current year business credit for the first taxable year in which the credit is subject to section 469 and is not disallowed by section 469 and the regulations thereunder.
 

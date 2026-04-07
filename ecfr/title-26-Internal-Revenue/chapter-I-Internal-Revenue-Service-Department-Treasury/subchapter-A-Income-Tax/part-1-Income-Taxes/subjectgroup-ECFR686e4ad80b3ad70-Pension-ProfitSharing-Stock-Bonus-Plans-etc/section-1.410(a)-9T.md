@@ -1,6 +1,6 @@
 ##### § 1.410(a)-9T Elapsed time (temporary).
 
-(a)-(b) \[Reserved\]
+(a)-(b) \[Reserved\]*Eligibility to participate.*
 
 (c) *Eligibility to participate.* (1) \[Reserved\]
 

@@ -1,6 +1,6 @@
 ##### § 1.430(h)(3)-1 Mortality tables used to determine present value.
 
-(a) *Overview*—(1) *Standard mortality tables.* This section sets forth rules for the mortality tables to be used in determining present value or making any computation under section 430. These mortality tables include—
+(a) *Overview*—(1) *Standard mortality tables.* This section sets forth rules for the mortality tables to be used in determining present value or making any computation under section 430. These mortality tables include—1/3
 
 (i) Generational mortality tables described in paragraph (b) of this section; and
 

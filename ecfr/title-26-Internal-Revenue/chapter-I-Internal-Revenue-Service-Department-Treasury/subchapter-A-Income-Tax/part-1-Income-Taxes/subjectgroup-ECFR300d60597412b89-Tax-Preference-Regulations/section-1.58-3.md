@@ -14,7 +14,7 @@
 
 (b) *Examples.* The principles of this section may be illustrated by the following examples in each of which it is assumed that none of the distributions are accumulation distributions (see sections 665 through 669 and the regulations thereunder):
 
-Example 1.Trust A, with one income beneficiary, has the following items of income and deduction without regard to the deduction for distributions:
+Example 1.Trust A, with one income beneficiary, has the following items of income and deduction without regard to the deduction for distributions: *a*
 
 | Income:                             |          |
 | Business income                     | $200,000 |

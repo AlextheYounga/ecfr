@@ -1,6 +1,6 @@
 ##### § 1.1092(b)-5T Definitions (temporary).
 
-The following definitions apply for purposes of §§ 1.1092(b)-1T through 1.1092(b)-4T.
+The following definitions apply for purposes of §§ 1.1092(b)-1T through 1.1092(b)-4T.*Disposing, disposes, or disposed.*
 
 (a) *Disposing, disposes, or disposed.* The term *disposing, disposes,* or *disposed* includes the sale, exchange, cancellation, lapse, expiration, or other termination of a right or obligation with respect to personal property (as defined in section 1092(d)(1)).
 

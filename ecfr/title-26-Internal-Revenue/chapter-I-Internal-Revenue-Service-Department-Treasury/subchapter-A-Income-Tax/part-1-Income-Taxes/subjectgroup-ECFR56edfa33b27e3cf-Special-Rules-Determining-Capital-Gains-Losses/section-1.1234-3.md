@@ -10,7 +10,7 @@
 
 (ii) Purchasing from an options exchange a call with terms identical to the original option granted and designating the purchase as a closing transaction.
 
-A put or call purchased to make a closing transaction is identical as to striking price and expiration date. Such put or call need not match the granted option in time of creation, date of acquisition, cost of the entire option or units therein, or number of units subject to the option. If such put or call terminates only part of a grantor's obligation under the granted option, a closing transaction is made as to that part.
+A put or call purchased to make a closing transaction is identical as to striking price and expiration date. Such put or call need not match the granted option in time of creation, date of acquisition, cost of the entire option or units therein, or number of units subject to the option. If such put or call terminates only part of a grantor's obligation under the granted option, a closing transaction is made as to that part. *property*
 
 (2) The term *property* means stocks and securities (including stocks and securities dealt with on a *when issued* basis), commodities, and commodity futures.
 

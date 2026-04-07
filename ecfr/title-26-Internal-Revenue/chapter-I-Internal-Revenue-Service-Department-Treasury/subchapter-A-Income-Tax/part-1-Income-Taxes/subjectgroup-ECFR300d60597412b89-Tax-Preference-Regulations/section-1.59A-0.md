@@ -4,7 +4,7 @@ This section contains a listing of the headings for §§ 1.59A-1, 1.59A-2, 1.59A
 
 *§ 1.59A-1 Base erosion and anti-abuse tax.*
 
-(a) Purpose.
+(a) Purpose.*1*
 
 (b) Definitions.
 

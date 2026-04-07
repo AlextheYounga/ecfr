@@ -4,7 +4,7 @@ This section lists captions contained in §§ 1.336-1, 1.336-2, 1.336-3, 1.336-4
 
 § 1.336-1 General principles, nomenclature, and definitions for a section 336(e) election.
 
-(a) Overview.
+(a) Overview.*1*
 
 (1) In general.
 

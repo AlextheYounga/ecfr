@@ -1,10 +1,10 @@
 ##### § 1.401(a)(31)-1 Requirement to offer direct rollover of eligible rollover distributions; questions and answers.
 
-The following questions and answers relate to the qualification requirement imposed by section 401(a)(31) of the Internal Revenue Code of 1986, pertaining to the direct rollover option for eligible rollover distributions from pension, profit-sharing, and stock bonus plans. Section 401(a)(31) was added by section 522(a) of the Unemployment Compensation Amendments of 1992, Public Law 102-318, 106 Stat. 290 (UCA). For additional UCA guidance under sections 402(c), 402(f), 403(b)(8) and (10), and 3405(c), see §§ 1.402(c)-2, 1.402(f)-1, and 1.403(b)-7(b), and § 31.3405(c)-1 of this chapter, respectively.
+The following questions and answers relate to the qualification requirement imposed by section 401(a)(31) of the Internal Revenue Code of 1986, pertaining to the direct rollover option for eligible rollover distributions from pension, profit-sharing, and stock bonus plans. Section 401(a)(31) was added by section 522(a) of the Unemployment Compensation Amendments of 1992, Public Law 102-318, 106 Stat. 290 (UCA). For additional UCA guidance under sections 402(c), 402(f), 403(b)(8) and (10), and 3405(c), see §§ 1.402(c)-2, 1.402(f)-1, and 1.403(b)-7(b), and § 31.3405(c)-1 of this chapter, respectively.*General rule.*
 
 List of Questions
 
-Q-1: What are the direct rollover requirements under section 401(a)(31)?
+Q-1: What are the direct rollover requirements under section 401(a)(31)?*direct rollover*
 
 Q-2: Does section 401(a)(31) require that a qualified plan permit a direct rollover to be made to a qualified trust that is not part of a defined contribution plan?
 
@@ -126,9 +126,9 @@ A-14. (a) *Acceptance of invalid rollover contribution.* If a plan accepts an in
 
 (c) *Examples.* The provisions of paragraph (a) of this Q&A-14 are illustrated by the following examples:
 
-Example 1.(i) Employer X maintains for its employees Plan M, a profit sharing plan qualified under section 401(a). Plan M provides that any employee of Employer X may make a rollover contribution to Plan M. Employee A is an employee of Employer X, will not have attained age 70 1/2 by the end of the year, and has a vested account balance in Plan O (a plan maintained by Employee A's prior employer). Employee A elects a single sum distribution from Plan O and elects that it be paid to Plan M in a direct rollover.
+Example 1.(i) Employer X maintains for its employees Plan M, a profit sharing plan qualified under section 401(a). Plan M provides that any employee of Employer X may make a rollover contribution to Plan M. Employee A is an employee of Employer X, will not have attained age 70 1/2 by the end of the year, and has a vested account balance in Plan O (a plan maintained by Employee A's prior employer). Employee A elects a single sum distribution from Plan O and elects that it be paid to Plan M in a direct rollover. *Example 1,*
 
-(ii) Employee A provides the plan administrator of Plan M with a letter from the plan administrator of Plan O stating that Plan O has received a determination letter from the Commissioner indicating that Plan O is qualified.
+(ii) Employee A provides the plan administrator of Plan M with a letter from the plan administrator of Plan O stating that Plan O has received a determination letter from the Commissioner indicating that Plan O is qualified.*Example 1,*
 
 (iii) Based upon such a letter, absent facts to the contrary, a plan administrator may reasonably conclude that Plan O is qualified and that the amount paid as a direct rollover is an eligible rollover distribution.
 

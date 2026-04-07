@@ -1,6 +1,6 @@
 ##### § 1.408A-8 Definitions.
 
-This section sets forth the following question and answer that provides definitions of terms used in the provisions of §§ 1.408A-1 through 1.408A-7 and this section:
+This section sets forth the following question and answer that provides definitions of terms used in the provisions of §§ 1.408A-1 through 1.408A-7 and this section:*Different types of IRAs*
 
 Q-1. Are there any special definitions that govern in applying the provisions of §§ 1.408A-1 through 1.408A-7 and this section?
 

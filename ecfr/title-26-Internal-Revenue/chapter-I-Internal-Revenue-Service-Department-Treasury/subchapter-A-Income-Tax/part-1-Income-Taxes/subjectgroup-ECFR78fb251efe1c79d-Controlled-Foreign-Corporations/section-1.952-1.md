@@ -56,7 +56,7 @@ For purposes of applying this subparagraph, the reduction (if any) provided by s
 
 (3) *Illustrations.* The application of this paragraph may be illustrated by the following examples:
 
-Example 1.(a) A is a United States shareholder who owns 100 percent of the only class of stock of M Corporation, a controlled foreign corporation organized on January 1, 1963. Both A and M Corporation use the calandar year as a taxable year.
+Example 1.(a) A is a United States shareholder who owns 100 percent of the only class of stock of M Corporation, a controlled foreign corporation organized on January 1, 1963. Both A and M Corporation use the calandar year as a taxable year. *a*
 
 (b) During 1963, M Corporation derives $20,000 of subpart F income and has earnings and profits of $30,000. Corporation M makes no distributions to A during such year. The limitation under section 952(c) on M Corporation's subpart F income for 1963 is $30,000; and $20,000 is includible in A's gross income for such year under section 951(a)(1)(A)(i).
 
@@ -64,9 +64,13 @@ Example 1.(a) A is a United States shareholder who owns 100 percent of the only 
 
 (d) During 1964, M Corporation derives $8,000 of rents which constitute subpart F income, makes a $10,000 distribution to A, and has earnings and profits of $12,000 (including the $5,000 dividend received from N Corporation). The limitation under section 952(c) on M Corporation's subpart F income for 1964 is $7,000, determined as follows:
 
-| Corporation M's earnings and profits for 1964 (determined under section 964(a) and § 1.964-1 as of the close of such year without diminution for any distributions made during such year) | $12,000 |
-| Less: Corporation M's earnings and profits for 1964 described in section 959(b)                                                                                                           | 5,000   |
-| Limitation on M Corporation's Subpart F income for 1964                                                                                                                                   | 7,000   |
+\[In percent\]
+| Amount of reduction                                                                                                                                                                        | Subpart F income | Earnings and profits (deficits) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------- |
+| Corporation M's earnings and profits for 1964 (determined under section 964(a) and § 1.964-1 as of the close of such year without diminution for any distributions made during such year)1 | $12,000          |                                 |
+| Less: Corporation M's earnings and profits for 1964 described in section 959(b)                                                                                                            | 5,000            |                                 |
+| Limitation on M Corporation's Subpart F income for 1964                                                                                                                                    | 7,000            |                                 |
+| 1 The earnings and profits of H Corporation are not included in the total earnings and profits for the chain because H Corporation is not a controlled foreign corporation.                |                  |                                 |
 
 Thus, for 1964 with respect to A's interest in M Corporation, $7,000 of subpart F income is includible in his gross income under section 951(a)(1)(A)(i). The $10,000 dividend received from M Corporation is excludible from A's gross income for 1964 under section 959(a)(1) and paragraph (b) of § 1.959-1.Example 2.A is a United States shareholder who owns 100 percent of the only class of stock of R Corporation which was organized on January 1, 1961. R Corporation is a controlled foreign corporation for the entire period after December 31, 1962, here involved. Both A and R Corporation use the calendar year as a taxable year. During 1963, R Corporation derives $25,000 of subpart F income and has $50,000 of earnings and profits. Corporation R has $15,000 of earnings and profits for 1961, and a deficit in earnings and profits of $45,000 for 1962. Thus, R Corporation has as of December 31, 1963, a net deficit in earnings and profits of $30,000 for the years 1961 and 1962. Corporation R makes no distributions to A during 1963. The limitation under section 952(c) on R Corporation's subpart F income for 1963 is $20,000 ($50,000 minus $30,000), and $20,000 of subpart F income is includible in A's gross income for 1963 under section 951(a)(1)(A)(i). During 1964, R Corporation derives $18,000 of subpart F income and has $30,000 of earnings and profits. Corporation R makes no distributions to A during 1964. The entire $18,000 of subpart F income is includible in A's gross income for 1964 under section 951(a)(1)(A)(i).
 

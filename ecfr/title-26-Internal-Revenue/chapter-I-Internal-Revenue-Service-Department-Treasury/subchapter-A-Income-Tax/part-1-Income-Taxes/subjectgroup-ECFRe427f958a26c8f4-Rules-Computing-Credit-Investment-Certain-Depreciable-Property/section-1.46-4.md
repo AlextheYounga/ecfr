@@ -1,6 +1,6 @@
 ##### § 1.46-4 Limitations with respect to certain persons.
 
-(a) *Mutual savings institutions.* In the case of an organization to which section 593 applies (that is, a mutual savings bank, a cooperative bank, or a domestic building and loan association)—
+(a) *Mutual savings institutions.* In the case of an organization to which section 593 applies (that is, a mutual savings bank, a cooperative bank, or a domestic building and loan association)—1/2
 
 (1) The qualified investment with respect to each section 38 property shall be 50 percent of the amount otherwise determined under § 1.46-3, and
 

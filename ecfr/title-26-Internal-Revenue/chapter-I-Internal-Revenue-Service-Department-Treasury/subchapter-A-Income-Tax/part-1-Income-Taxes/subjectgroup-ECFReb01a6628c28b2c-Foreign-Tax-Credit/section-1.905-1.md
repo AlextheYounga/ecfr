@@ -81,7 +81,7 @@
 Table 1 to Paragraph (d)(6)(v)(A)(2)
 | Country X taxable year ending in U.S. calendar taxable year | Net income tax properly accrued   ($1 = €1)) | Net income tax accrued under   improper method   ($1 = €1)) |
 | ----------------------------------------------------------- | -------------------------------------------- | ----------------------------------------------------------- |
-| 3/31/Y1 ends in Year 1                                      | 0                                            | 3⁄4 (200x) = 150x.                                          |
+| 3/31/Y1 ends in Year 134                                    | 0                                            | 3⁄4 (200x) = 150x.                                          |
 | 3/31/Y2 ends in Year 2                                      | 200x                                         | 1⁄4 (200x) + 3⁄4 (280x) = 260x.                             |
 | 3/31/Y3 ends in Year 3                                      | 280x                                         | 1⁄4 (280x) + 3⁄4 (240x) = 250x.                             |
 | 3/31/Y4 ends in Year 4                                      | 240x                                         | \[year of change\].                                         |

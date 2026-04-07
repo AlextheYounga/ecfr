@@ -1,6 +1,6 @@
 ##### § 1.401(m)-5 Definitions.
 
-Unless otherwise provided, the definitions of this section govern for purposes of section 401(m) and the regulations thereunder.
+Unless otherwise provided, the definitions of this section govern for purposes of section 401(m) and the regulations thereunder.*Actual contribution percentage (ACP). Actual contribution percentage*
 
 *Actual contribution percentage (ACP). Actual contribution percentage* or *ACP* means the ACP of the group of eligible employees as defined in § 1.401(m)-2(a)(2)(i).
 

@@ -1,48 +1,48 @@
 ##### § 11.329 Requirements to qualify for an STCW endorsement as Officer in Charge of an Engineering Watch in a manned engineroom or Designated Duty Engineer in a periodically unmanned engineroom on vessels powered by main propulsion machinery of 750 kW/1,000 HP propulsion power or more (operational level).
 
-(a) To qualify for an STCW endorsement as Officer in Charge of an Engineering Watch (OICEW), an applicant must— 
+(a) To qualify for an STCW endorsement as Officer in Charge of an Engineering Watch (OICEW), an applicant must—
 
-(1) Provide evidence of seagoing service as follows: 
+(1) Provide evidence of seagoing service as follows:
 
-(i) Thirty-six months of seagoing service in the engine department; or 
+(i) Thirty-six months of seagoing service in the engine department; or
 
-(ii) Successful completion of an approved training program, which includes a combination of workshop skill training and seagoing service of not less than 12 months, and that meets the requirements of Section A-III/1 of the STCW Code (incorporated by reference, see § 11.102); 
+(ii) Successful completion of an approved training program, which includes a combination of workshop skill training and seagoing service of not less than 12 months, and that meets the requirements of Section A-III/1 of the STCW Code (incorporated by reference, see § 11.102);
 
-(2) Provide evidence of having performed during the required seagoing service, engineroom watchkeeping duties, under the supervision of an officer holding the STCW endorsement as Chief Engineer Officer or as a qualified engineer officer, for a period of not less than 6 months; 
+(2) Provide evidence of having performed during the required seagoing service, engineroom watchkeeping duties, under the supervision of an officer holding the STCW endorsement as Chief Engineer Officer or as a qualified engineer officer, for a period of not less than 6 months;
 
-(3) Provide evidence of meeting the standard of competence specified in Section A-III/1 of the STCW Code; and 
+(3) Provide evidence of meeting the standard of competence specified in Section A-III/1 of the STCW Code; and
 
-(4) Provide evidence of having satisfactorily completed approved training in the following subject areas: 
+(4) Provide evidence of having satisfactorily completed approved training in the following subject areas:
 
-(i) Medical First-aid Provider. 
+(i) Medical First-aid Provider.
 
-(ii) Basic and Advanced Firefighting in accordance with § 11.303. 
+(ii) Basic and Advanced Firefighting in accordance with § 11.303.
 
-(iii) Proficiency in Survival Craft and Rescue Boats other than Fast Rescue Boats. 
+(iii) Proficiency in Survival Craft and Rescue Boats other than Fast Rescue Boats.
 
-(iv) Engineroom Resource Management (ERM). 
+(iv) Engineroom Resource Management (ERM).
 
-(v) Engineering terminology and shipboard operations. 
+(v) Engineering terminology and shipboard operations.
 
-(vi) Auxiliary machinery. 
+(vi) Auxiliary machinery.
 
-(vii) Gas turbine plants, as applicable. 
+(vii) Gas turbine plants, as applicable.
 
-(viii) Steam plants, as applicable. 
+(viii) Steam plants, as applicable.
 
-(ix) Motor plants, as applicable. 
+(ix) Motor plants, as applicable.
 
-(x) Electrical machinery and basic electronics. 
+(x) Electrical machinery and basic electronics.
 
-(xi) Control systems. 
+(xi) Control systems.
 
-(b) Experience gained in the deck department may be creditable for up to 3 months of the service requirements in paragraph (a)(1)(i) of this section. 
+(b) Experience gained in the deck department may be creditable for up to 3 months of the service requirements in paragraph (a)(1)(i) of this section.
 
-(c) For a renewal of an STCW endorsement as OICEW to be valid on or after January 1, 2017, each candidate must provide evidence of having satisfactorily completed ERM training and meeting the standard competence in leadership and teamworking skills if not previously completed. 
+(c) For a renewal of an STCW endorsement as OICEW to be valid on or after January 1, 2017, each candidate must provide evidence of having satisfactorily completed ERM training and meeting the standard competence in leadership and teamworking skills if not previously completed.
 
-(d) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-III/1 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the credential may include a corresponding limitation. 
+(d) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-III/1 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the credential may include a corresponding limitation.
 
-(e) Seafarers with one of the following national officer endorsements are eligible to apply for this endorsement upon completion of the requirements in the following table: 
+(e) Seafarers with one of the following national officer endorsements are eligible to apply for this endorsement upon completion of the requirements in the following table:
 
 Table 1 to § 11.329(e)—STCW Endorsement as OICEW in a Manned Engineroom or Designated Duty Engineer in a Periodically Unmanned Engineroom on Vessels Powered by Main Propulsion Machinery of 750 kW/1,000 HP Propulsion Power or More \[Operational level\]
 | Entry path from national endorsements                                                                                              | Sea service \* | Competence—   STCW Table A-   III/1 \*\* | Training   required by   this   section \*\*\* |

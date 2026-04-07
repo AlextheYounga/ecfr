@@ -56,7 +56,7 @@
 
 (d) *Examples.* The following examples illustrate the application of paragraphs (a), (b), and (c) of this section. In each of these examples the transferor of property subject to a section 467 rental agreement is entitled to the rent for the day of the disposition. The examples are as follows:
 
-Example 1.(i)(A) X and Y enter into a section 467 rental agreement for a 5-year lease of personal property beginning on January 1, 2000, and ending on December 31, 2004. The rental agreement provides that the calendar year will be the rental period and that rents accrue and are paid in the following pattern:
+Example 1.(i)(A) X and Y enter into a section 467 rental agreement for a 5-year lease of personal property beginning on January 1, 2000, and ending on December 31, 2004. The rental agreement provides that the calendar year will be the rental period and that rents accrue and are paid in the following pattern: *Example 1,*
 
 |      | Allocation | Payment |
 | ---- | ---------- | ------- |
@@ -68,7 +68,7 @@ Example 1.(i)(A) X and Y enter into a section 467 rental agreement for a 5-year 
 
 (B) Assume that both X and Y are calendar year taxpayers and that 110 percent of the applicable Federal rate is 11 percent, compounded annually. Assume also that the rental agreement is a long-term agreement (as defined in § 1.467-3(b)(3)), but it is not a disqualified leaseback or long-term agreement. Further, because the agreement does not provide prepaid or deferred rent, proportional rental accrual is not applicable. (See § 1.467-2(b)(1)(i)). Therefore, the rent taken into account under § 1.467-1(d)(2) is the fixed rent allocated to the rental periods under § 1.467-1(c)(2)(ii).
 
-(ii) On December 31, 2000, X sells the property subject to the section 467 rental agreement to an unrelated person for $575,000. At the time of the sale, X's adjusted basis in the property is $175,000. Thus, X's gain on the sale of the property is $400,000. Assume that $175,000 of this gain would be treated as ordinary income under provisions of the Internal Revenue Code other than section 467(c). Under paragraph (a) of this section, X is required to take the recapture amount into account as ordinary income. Under paragraph (b) of this section, the recapture amount is the lesser of the prior understated inclusion or the section 467 gain.
+(ii) On December 31, 2000, X sells the property subject to the section 467 rental agreement to an unrelated person for $575,000. At the time of the sale, X's adjusted basis in the property is $175,000. Thus, X's gain on the sale of the property is $400,000. Assume that $175,000 of this gain would be treated as ordinary income under provisions of the Internal Revenue Code other than section 467(c). Under paragraph (a) of this section, X is required to take the recapture amount into account as ordinary income. Under paragraph (b) of this section, the recapture amount is the lesser of the prior understated inclusion or the section 467 gain.*Example 1*
 
 (iii)(A) In computing the prior understated inclusion under paragraph (b)(2) of this section, assume that the section 467 rent and section 467 interest (based on constant rental accrual) would be taken into account as follows if the section 467 rental agreement were a disqualified long-term agreement:
 

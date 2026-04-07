@@ -30,16 +30,19 @@ Example 1.(i) *Facts.* N Corporation acquired on June 30, 1960, all the assets o
 
 The dividend carryover to N Corporation's taxable year ending December 31, 1960, is $22,000 computed as follows, assuming the dividends paid deduction before dividend carryovers, and the taxable income after section 545(b) adjustments, to be as stated in the computation:
 
-| M Corporation N Corporation     |         |  |         |  |
-| Second preceding taxable year:  |         |  |         |  |
-| Dividends paid deduction        | $25,000 |  | $12,000 |  |
-| Taxable income                  | 15,000  |  | 13,000  |  |
-| Excess dividends paid deduction | $10,000 |  |         |  |
-| First preceding taxable year:   |         |  |         |  |
-| Dividends paid deduction        | 23,000  |  | 20,000  |  |
-| Taxable income                  | 21,000  |  | 10,000  |  |
-| Excess dividends paid deduction | 2,000   |  | $10,000 |  |
-| Separate dividend carryovers    | 12,000  |  | 10,000  |  |
+| Second preceding taxable yearX Corporation                                                                                                                                                                            | M Corporation | N Corporation |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- |
+| M Corporation N Corporation                                                                                                                                                                                           |               |               |
+| Second preceding taxable year:                                                                                                                                                                                        |               |               |
+| Dividends paid deduction                                                                                                                                                                                              | $25,000       |               |
+| Taxable income                                                                                                                                                                                                        | 15,000        |               |
+| Excess dividends paid deduction                                                                                                                                                                                       | $10,000       |               |
+| First preceding taxable year:                                                                                                                                                                                         |               |               |
+| Dividends paid deduction                                                                                                                                                                                              | 23,000        |               |
+| Taxable income                                                                                                                                                                                                        | 21,000        |               |
+| Excess dividends paid deduction                                                                                                                                                                                       | 2,000         |               |
+| Separate dividend carryovers                                                                                                                                                                                          | 12,000        |               |
+| The aggregate dividend carryover of $40,000 is the sum of $34,000 (the separate dividend carryover from X Corporation) and $6,000 (the separate dividend carryover from Z Corporation's own preceding taxable years). |               |               |
 
 The aggregate dividend carryover of $22,000 is the sum of $12,000 (the separate dividend carryover from M Corporation) and $10,000 (the separate dividend carryover from N Corporation's own preceding taxable years). (iii) *Dividend carryover to N Corporation's taxable year ending December 31, 1961.* With respect to N Corporation's taxable year ending December 31, 1961, the first preceding taxable year is N Corporation's taxable year ending December 31, 1960; and the taxable years referred to as second preceding taxable years are M Corporation's taxable year ending June 30, 1960, and N Corporation's taxable year ending December 31, 1959. The dividend carryover to N Corporation's taxable year ending December 31, 1961, is $17,000 computed as follows, assuming the dividends paid deduction before dividend carryovers, and the taxable income after section 545(b) adjustments, to be as stated in the computation:
 

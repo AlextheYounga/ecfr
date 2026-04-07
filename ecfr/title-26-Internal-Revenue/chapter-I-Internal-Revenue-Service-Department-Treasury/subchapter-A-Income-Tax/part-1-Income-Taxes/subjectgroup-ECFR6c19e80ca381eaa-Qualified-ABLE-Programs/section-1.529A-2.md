@@ -1,6 +1,6 @@
 ##### § 1.529A-2 Qualified ABLE program.
 
-(a) *In general.* A qualified ABLE program is a program established and maintained by a State, or an agency or instrumentality of a State, that satisfies all of the requirements of this section and under which—
+(a) *In general.* A qualified ABLE program is a program established and maintained by a State, or an agency or instrumentality of a State, that satisfies all of the requirements of this section and under which—Federal Register
 
 (1) An ABLE account may be established for the purpose of meeting the qualified disability expenses of the designated beneficiary of the account;
 

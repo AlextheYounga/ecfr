@@ -16,6 +16,20 @@ For purposes of this section, a plan maintained by a labor organization which is
 
 Example.A pension plan uses the calendar year as the plan year and the shortfall method. Its estimated unit charge applicable to 1980 is 80 cents per hour of covered employment. During 1980, there were 125,000 hours of covered employment. The net shortfall charge for the plan year is $100,000 (*i.e.,* 125,000 × $.80), regardless of the amount which would be charged and credited to the funding standard account under section 412 (b)(2) and (3)(B) had the shortfall method not applied. The funding standard account for 1980 will be separately credited for the amount considered contributed for the plan year under section 412 (b)(3)(A). The other items which may be credited, if applicable, are a waived funding deficiency and the alternative minimum funding standard credit adjustment under section 412(b)(3)(C) and (D) because these items are not credits under section 412(b)(3)(B).
 
+(A) Computation of Net Shortfall Charge and Shortfall Gain or Loss
+| Plan year                                           | 1976     | 1977     | 1978      |
+| --------------------------------------------------- | -------- | -------- | --------- |
+| 1\. Normal cost\*                                   | $100,000 | $100,000 | $100,000  |
+| 2\. Amortization of unfunded liability\*            | 50,000   | 50,000   | 50,000    |
+| 3\. Total annual computation charges                | $150,000 | $150,000 | $150,000  |
+| 4\. Estimated base units\*                          | 100,000  | 100,000  | 100,000   |
+| 5\. Estimated unit charge (line 3 ÷ line 4)         | $1.50    | $1.50    | $1.50     |
+| 6\. Actual units during year\*                      | 80,000   | 90,000   | 110,000   |
+| 7\. Net shortfall charge for year (line 5 × line 6) | 120,000  | 135,000  | 165,000   |
+| 8\. Shortfall (gain) or loss (line 3−line 7)        | 30,000   | 15,000   | ($15,000) |
+
+(D) Reconciliation of computations
+
 (3) *Plans with more than one contract, contribution rate, employer, or benefit level*—(i) *General rule.* A single plan with more than one contract, contribution rate, employer, or benefit level may compute a separate net shortfall charge for each contract, contribution rate, each employer, or each benefit level. The sum of these charges is the plan's total net shortfall charge. under § 1.412(c)(1)-1(b), the use of separate computations would be a specific method of computation used in applying the overall funding method. See also paragraph (f)(5) of this section.
 
 (ii) *Single valuation.* Only one actuarial valuation shall be made for the single plan on each actuarial valuation date.
@@ -53,7 +67,7 @@ Example.A pension plan uses the calendar year as the plan year and the shortfall
 Computation of Earliest Base Unit Estimation Date
 | Example                                                                                                                      | Plan year (calendar year basis) |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| Plan A                                                                                                                       | V                               |
+| Plan A1                                                                                                                      | V                               |
 | Contract 1                                                                                                                   |                                 |
 | Base unit estimation date 1                                                                                                  |                                 |
 | Plan B                                                                                                                       | V                               |

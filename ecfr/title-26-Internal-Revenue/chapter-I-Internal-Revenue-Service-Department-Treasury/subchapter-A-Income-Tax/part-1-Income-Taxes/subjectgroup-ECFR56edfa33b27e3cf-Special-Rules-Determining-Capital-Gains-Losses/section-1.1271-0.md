@@ -6,7 +6,7 @@
 
 § 1.1271-1 Special rules applicable to amounts received on retirement, sale, or exchange of debt instruments.
 
-(a) Intention to call before maturity.
+(a) Intention to call before maturity.*Debt instruments issued on or after March 13, 2001.*
 
 (1) In general.
 

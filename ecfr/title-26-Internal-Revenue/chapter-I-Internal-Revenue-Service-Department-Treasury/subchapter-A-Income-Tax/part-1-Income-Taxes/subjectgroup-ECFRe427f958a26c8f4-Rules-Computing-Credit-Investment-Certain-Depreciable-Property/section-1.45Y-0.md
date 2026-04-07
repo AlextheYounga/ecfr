@@ -4,7 +4,7 @@ This section lists the captions contained in §§ 1.45Y-1 through 1.45Y-5.
 
 § 1.45Y-1 Clean electricity production credit.
 
-(a) Overview.
+(a) Overview.2
 
 (1) In general.
 

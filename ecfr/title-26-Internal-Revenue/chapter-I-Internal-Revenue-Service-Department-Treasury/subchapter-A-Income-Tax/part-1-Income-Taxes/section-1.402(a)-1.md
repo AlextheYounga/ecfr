@@ -64,14 +64,16 @@ The amount of net unrealized appreciation which is excludable under the regulati
 
 (*2*) These methods of computing average cost may be illustrated by the following examples:
 
-Example 1.A, a distributee who makes his income tax returns on the basis of a calendar year, receives on August 1, 1954, in a total distribution, to which paragraph (a)(6) of this section is applicable, ten shares of class D stock of the employer corporation. On July 1, 1954 (the specified inventory date of the trust), the trust had on hand 80 shares of class D stock. The average cost of the 10 shares distributed, on the basis of the actual cost method, is $100 computed as follows:
+Example 1.A, a distributee who makes his income tax returns on the basis of a calendar year, receives on August 1, 1954, in a total distribution, to which paragraph (a)(6) of this section is applicable, ten shares of class D stock of the employer corporation. On July 1, 1954 (the specified inventory date of the trust), the trust had on hand 80 shares of class D stock. The average cost of the 10 shares distributed, on the basis of the actual cost method, is $100 computed as follows: *Facts.*
 
-| Shares | Purchase date | Cost per share | Total cost |
-| ------ | ------------- | -------------- | ---------- |
-| 20     | June 24, 1954 | $101           | $2,020     |
-| 40     | Jan. 10, 1953 | 102            | 4,080      |
-| 20     | Oct. 20, 1952 | 95             | 1,900      |
-| 80     |               | 8,000          |            |
+| Shares  | Purchase date | Cost per share | Total cost |
+| ------- | ------------- | -------------- | ---------- |
+| 2060100 | June 24, 1954 | $101           | $2,020     |
+| 40      | Jan. 10, 1953 | 102            | 4,080      |
+| 20      | Oct. 20, 1952 | 95             | 1,900      |
+| 80      |               | 8,000          |            |
+
+(ii) *Conclusion.* Under paragraph (e)(1) of this section, each of the trustee's payments of $1,000 constitutes a taxable distribution under section 402(a) to Participant P on the date of each payment. The amount of these distributions may constitute payments for medical care under section 213. The $5,000 payment to the hospital is excludable from Participant P's gross income under section 104(a)(3) and is not treated as a distribution from the plan.
 
 Example 2.B, a distributee who makes his income tax returns on the basis of a calendar year, receives on October 31, 1954, in a total distribution, to which paragraph (a)(6) of this section is applicable, 20 shares of class E stock of the employer corporation. The specified inventory date of the trust is the last day of each calendar year. The trust had on hand on December 31, 1952, 1,000 shares of class E stock of the employer corporation. During the calendar year 1953 the trust distributed to four distributees a total of 100 shares of such stock and acquired, through a number of purchases, a total of 120 shares. The average cost of the 20 shares distributed to B, on the basis of the moving average method, is $52 computed as follows:
 

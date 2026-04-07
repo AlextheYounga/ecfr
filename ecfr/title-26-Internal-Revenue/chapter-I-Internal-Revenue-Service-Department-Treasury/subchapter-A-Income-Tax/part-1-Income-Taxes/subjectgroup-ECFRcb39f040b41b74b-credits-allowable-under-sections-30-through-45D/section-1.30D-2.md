@@ -1,6 +1,6 @@
 ##### § 1.30D-2 Definitions for purposes of section 30D.
 
-(a) *In general.* The definitions in this section apply for purposes of section 30D of the Internal Revenue Code (Code) and the section 30D regulations.
+(a) *In general.* The definitions in this section apply for purposes of section 30D of the Internal Revenue Code (Code) and the section 30D regulations.Federal Register
 
 (b) *Definitions*—(1) *Advance payment program. Advance payment program* means advance payment program as defined in § 1.30D-5(b)(1).
 

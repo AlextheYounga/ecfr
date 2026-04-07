@@ -4,7 +4,7 @@ This section lists the captions contained in §§ 1.30D-1 through 1.30D-6.
 
 § 1.30D-1 Credit for new clean vehicles.
 
-(a) In general.
+(a) In general.*1*
 
 (b) Application with other credits.
 

@@ -56,7 +56,7 @@ The term does not include investments in subsidiaries, excess cash, and portfoli
 
 (e) *Examples.* The following examples illustrate the application of this section.
 
-Example 1. Transfer of tangible property resulting in no adjustment.(i) FP is a publicly traded foreign corporation with a U.S. subsidiary, USSub, that is under audit for its 1996 taxable year. FP manufactures a consumer product for worldwide distribution. USSub imports the assembled product and distributes it within the United States at the wholesale level under the FP name.
+Example 1. Transfer of tangible property resulting in no adjustment.(i) FP is a publicly traded foreign corporation with a U.S. subsidiary, USSub, that is under audit for its 1996 taxable year. FP manufactures a consumer product for worldwide distribution. USSub imports the assembled product and distributes it within the United States at the wholesale level under the FP name. *Example 1*
 
 (ii) FP does not allow uncontrolled taxpayers to distribute the product. Similar products are produced by other companies but none of them is sold to uncontrolled taxpayers or to uncontrolled distributors.
 

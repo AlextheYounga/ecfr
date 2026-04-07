@@ -14,7 +14,7 @@
 
 (5) *Examples.* The provisions of this paragraph (a) are illustrated by the following examples. Except as otherwise provided, assume in each example that A, an individual who is a calendar-year taxpayer, owns all of the stock of T corporation. A's adjusted tax basis in that stock is $100,000. On February 1, 1998, T, an accrual method taxpayer, adopts a plan of complete liquidation that satisfies section 453(h)(1)(A) and immediately sells all of its assets to unrelated B corporation in a single transaction. The examples are as follows:
 
-Example 1.(i) The stated purchase price for T's assets is $3,500,000. In consideration for the sale, B makes a down payment of $500,000 and issues a 10-year installment obligation with a stated principal amount of $3,000,000. The obligation provides for interest payments of $150,000 on January 31 of each year, with the total principal amount due at maturity.
+Example 1.(i) The stated purchase price for T's assets is $3,500,000. In consideration for the sale, B makes a down payment of $500,000 and issues a 10-year installment obligation with a stated principal amount of $3,000,000. The obligation provides for interest payments of $150,000 on January 31 of each year, with the total principal amount due at maturity. 1/3
 
 (ii) Assume that for purposes of section 1274, the test rate on February 1, 1998, is 8 percent, compounded semi-annually. Also assume that a semi-annual accrual period is used. Under § 1.1274-2, the issue price of the obligation on February 1, 1998, is $2,368,450. Accordingly, the obligation has $631,550 of original issue discount ($3,000,000-$2,368,450). Between February 1 and July 31, $19,738 of original issue discount and $75,000 of qualified stated interest accrue with respect to the obligation and are taken into account by T.
 
@@ -25,6 +25,17 @@ Example 1.(i) The stated purchase price for T's assets is $3,500,000. In conside
 (v) The selling price and contract price of A's stock in T is $2,463,188, and the gross profit is $2,363,188 ($2,463,188 selling price less A's adjusted tax basis of $100,000). A's gross profit ratio is thus 96 percent (gross profit of $2,363,188 divided by total contract price of $2,463,188).
 
 (vi) Under §§ 1.446-2(e)(1) and 1.1275-2(a), $98,527 of the $150,000 payment is treated as a payment of the interest and original issue discount that accrued on the obligation from July 31, 1998, to January 31, 1999 ($75,000 of qualified stated interest and $23,527 of original issue discount). The balance of the payment ($51,473) is treated as a payment of principal. A's gain recognized in 1999 is $49,414 (96 percent of $51,473).
+
+| Item                    | Qualifying installment obligations | Cash and other property |
+| ----------------------- | ---------------------------------- | ----------------------- |
+| Cash                    |                                    | $190,000                |
+| B note                  | $200,000                           |                         |
+| C note                  | $100,000                           |                         |
+| D note                  | $170,000                           |                         |
+| F note                  |                                    | $100,000                |
+| G note 1                | $230,000                           | $ 10,000                |
+| Total                   | $700,000                           | $300,000                |
+| 1 Face amount $240,000. |                                    |                         |
 
 Example 2.(i) T owns Blackacre, unimproved real property, with an adjusted tax basis of $700,000. Blackacre is subject to a mortgage (underlying mortgage) of $1,100,000. A is not personally liable on the underlying mortgage and the T shares held by A are not encumbered by the underlying mortgage. The other assets of T consist of $400,000 of cash and $600,000 of accounts receivable attributable to sales of inventory in the ordinary course of business. The unsecured liabilities of T total $900,000.
 

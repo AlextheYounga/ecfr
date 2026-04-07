@@ -1,6 +1,6 @@
 ##### § 1.812-8 Illustration of operations loss carrybacks and carryovers.
 
-The application of § 1.812-4 may be illustrated by the following example:
+The application of § 1.812-4 may be illustrated by the following example:*Facts.*
 
 (a) *Facts.* The books of M, a life insurance company, organized in 1940, reveal the following facts:
 

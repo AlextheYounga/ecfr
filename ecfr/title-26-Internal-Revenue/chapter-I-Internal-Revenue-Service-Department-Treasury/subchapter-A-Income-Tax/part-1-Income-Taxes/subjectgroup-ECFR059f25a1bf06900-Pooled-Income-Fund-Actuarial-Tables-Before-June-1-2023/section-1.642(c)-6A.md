@@ -1,6 +1,6 @@
 ##### § 1.642(c)-6A Valuation of charitable remainder interests for which the valuation date is before June 1, 2023.
 
-(a) *Valuation of charitable remainder interests for which the valuation date is before January 1, 1952.* There was no provision for the qualification of pooled income funds under section 642 until 1969. See § 20.2031-7A(a) of this chapter (Estate Tax Regulations) for the determination of the present value of a charitable remainder interest created before January 1, 1952.
+(a) *Valuation of charitable remainder interests for which the valuation date is before January 1, 1952.* There was no provision for the qualification of pooled income funds under section 642 until 1969. See § 20.2031-7A(a) of this chapter (Estate Tax Regulations) for the determination of the present value of a charitable remainder interest created before January 1, 1952.X
 
 (b) *Valuation of charitable remainder interests for which the valuation date is after December 31, 1951, and before January 1, 1971.* No charitable deduction is allowable for a transfer to a pooled income fund for which the valuation date is after the effective dates of the Tax Reform Act of 1969 unless the pooled income fund meets the requirements of section 642(c)(5). See § 20.2031-7A(b) of this chapter (Estate Tax Regulations) for the determination of the present value of a charitable remainder interest for which the valuation date is after December 31, 1951, and before January 1, 1971.
 

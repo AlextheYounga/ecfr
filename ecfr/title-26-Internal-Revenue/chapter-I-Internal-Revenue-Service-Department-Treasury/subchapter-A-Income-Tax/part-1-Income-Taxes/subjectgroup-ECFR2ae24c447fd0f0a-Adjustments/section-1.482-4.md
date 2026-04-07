@@ -62,11 +62,29 @@
 
 (4) *Examples.* The following examples illustrate the principles of this paragraph (c).
 
-Example 1.(i) USpharm, a U.S. pharmaceutical company, develops a new drug Z that is a safe and effective treatment for the disease zeezee. USpharm has obtained patents covering drug Z in the United States and in various foreign countries. USpharm has also obtained the regulatory authorizations necessary to market drug Z in the United States and in foreign countries.
+Example 1.(i) USpharm, a U.S. pharmaceutical company, develops a new drug Z that is a safe and effective treatment for the disease zeezee. USpharm has obtained patents covering drug Z in the United States and in various foreign countries. USpharm has also obtained the regulatory authorizations necessary to market drug Z in the United States and in foreign countries. *Example 1,*
 
-(ii) USpharm licenses its subsidiary in country X, Xpharm, to produce and sell drug Z in country X. At the same time, it licenses an unrelated company, Ydrug, to produce and sell drug Z in country Y, a neighboring country. Prior to licensing the drug, USpharm had obtained patent protection and regulatory approvals in both countries and both countries provide similar protection for intellectual property rights. Country X and country Y are similar countries in terms of population, per capita income and the incidence of disease zeezee. Consequently, drug Z is expected to sell in similar quantities and at similar prices in both countries. In addition, costs of producing and marketing drug Z in each country are expected to be approximately the same.
+(ii) USpharm licenses its subsidiary in country X, Xpharm, to produce and sell drug Z in country X. At the same time, it licenses an unrelated company, Ydrug, to produce and sell drug Z in country Y, a neighboring country. Prior to licensing the drug, USpharm had obtained patent protection and regulatory approvals in both countries and both countries provide similar protection for intellectual property rights. Country X and country Y are similar countries in terms of population, per capita income and the incidence of disease zeezee. Consequently, drug Z is expected to sell in similar quantities and at similar prices in both countries. In addition, costs of producing and marketing drug Z in each country are expected to be approximately the same.*1*
 
 (iii) USpharm and Xpharm establish terms for the license of drug Z that are identical in every material respect, including royalty rate, to the terms established between USpharm and Ydrug. In this case the district director determines that the royalty rate established in the Ydrug license agreement is a reliable measure of the arm's length royalty rate for the Xpharm license agreement.
+
+| License | Royalty rate   (percent) |
+| ------- | ------------------------ |
+| 1       | 1.0                      |
+| 2       | 1.0                      |
+| 3       | 1.25                     |
+| 4       | 1.25                     |
+| 5       | 1.5                      |
+| 6       | 1.5                      |
+| 7       | 1.75                     |
+| 8       | 2.0                      |
+| 9       | 2.0                      |
+| 10      | 2.0                      |
+| 11      | 2.25                     |
+| 12      | 2.5                      |
+| 13      | 2.5                      |
+| 14      | 2.75                     |
+| 15      | 3.0                      |
 
 Example 2.The facts are the same as in *Example 1,* except that the incidence of the disease zeezee in Country Y is much higher than in Country X. In this case, the profit potential from exploitation of the right to make and sell drug Z is likely to be much higher in country Y than it is in Country X. Consequently, the Ydrug license agreement is unlikely to provide a reliable measure of the arm's length royalty rate for the Xpharm license.Example 3.(i) FP, is a foreign company that designs, manufactures and sells industrial equipment. FP has developed proprietary components that are incorporated in its products. These components are important in the operation of FP's equipment and some of them have distinctive features, but other companies produce similar components and none of these components by itself accounts for a substantial part of the value of FP's products.
 

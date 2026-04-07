@@ -68,7 +68,27 @@
 
 (E) *Examples.* The provisions of this paragraph (c)(2)(iii) are illustrated by the following three examples. The principles set forth in these examples are applicable both to production and resale activities and the year of change in all three examples is 1997. The examples read as follows:
 
-Example 1.Taxpayer X lacks information for the years 1993 and earlier, regarding the amount of costs incurred in transporting finished goods from X's factory to X's warehouse and in storing those goods at the warehouse until their sale to customers. X determines that, for 1994 and subsequent years, these transportation and storage costs constitute 4 percent of the total costs of comparable goods under X's method of accounting for such years. Under this paragraph (c)(2)(iii), X may assume that transportation and storage costs for the years 1993 and earlier constitute 4 percent of the total costs of such goods.Example 2.Assume the same facts as in *Example 1,* except that for the year 1993 and earlier, X used a different method of accounting for inventory costs whereunder significantly fewer costs were capitalized than amounts capitalized in later years. Thus, the application of transportation and storage based on a percentage of costs for 1994 and later years would not constitute a reasonable estimate for use in earlier years. X may use the information from 1994 and later years, if appropriate adjustments are made to reflect the differences in inventory costs for the applicable years, including, for example—
+Example 1.Taxpayer X lacks information for the years 1993 and earlier, regarding the amount of costs incurred in transporting finished goods from X's factory to X's warehouse and in storing those goods at the warehouse until their sale to customers. X determines that, for 1994 and subsequent years, these transportation and storage costs constitute 4 percent of the total costs of comparable goods under X's method of accounting for such years. Under this paragraph (c)(2)(iii), X may assume that transportation and storage costs for the years 1993 and earlier constitute 4 percent of the total costs of such goods.*Example 1,*
+
+(i) Increasing the percentage of costs that are intended to represent transportation and storage costs to reflect the aggregate differences in capitalized amounts under the two methods of accounting; or*2*
+
+| LIFO Product and layer                                             | Number | Cost  | Carrying   values |
+| ------------------------------------------------------------------ | ------ | ----- | ----------------- |
+| Product #1:                                                        |        |       |                   |
+| 1993                                                               | 150    | $5.00 | $750              |
+| 1994                                                               | 100    | 6.00  | 600               |
+| 1995                                                               | 100    | 6.50  | 650               |
+| 1996                                                               | 50     | 7.00  | 350               |
+|                                                                    |        |       | $2,350            |
+| Product #2:                                                        |        |       |                   |
+| 1993                                                               | 200    | $4.00 | $800              |
+| 1994                                                               | 200    | 4.50  | 900               |
+| 1995                                                               | 100    | 5.00  | 500               |
+| 1996                                                               | 100    | 6.00  | 600               |
+|                                                                    |        |       | 2,800             |
+| Total carrying value of Products #1 and #2 under M's former method |        |       | 5,150             |
+
+Example 2.Assume the same facts as in *Example 1,* except that for the year 1993 and earlier, X used a different method of accounting for inventory costs whereunder significantly fewer costs were capitalized than amounts capitalized in later years. Thus, the application of transportation and storage based on a percentage of costs for 1994 and later years would not constitute a reasonable estimate for use in earlier years. X may use the information from 1994 and later years, if appropriate adjustments are made to reflect the differences in inventory costs for the applicable years, including, for example—
 
 (i) Increasing the percentage of costs that are intended to represent transportation and storage costs to reflect the aggregate differences in capitalized amounts under the two methods of accounting; or
 

@@ -1,6 +1,6 @@
 ##### § 1.163-10T Qualified residence interest (temporary).
 
-(a) *Table of contents.* This paragraph (a) lists the major paragraphs that appear in this § 1.163-10T.
+(a) *Table of contents.* This paragraph (a) lists the major paragraphs that appear in this § 1.163-10T.5/8
 
 (a) Table of contents.
 
@@ -246,13 +246,27 @@
 
 (r) Effective date.
 
+Balance on first day of the year: $9,652
+
 (b) *Treatment of qualified residence interest.* Except as provided below, qualified residence interest is deductible under section 163(a). Qualified residence interest is not subject to limitation or otherwise taken into account under section 163(d) (limitation on investment interest), section 163(h)(1) (disallowance of deduction for personal interest), section 263A (capitalization and inclusion in inventory costs of certain expenses) or section 469 (limitations on losses from passive activities). Qualified residence interest is subject to the limitation imposed by section 263(g) (certain interest in the case of straddles), section 264(a) (2) and (4) (interest paid in connection with certain insurance), section 265(a)(2) (interest relating to tax-exempt income), section 266 (carrying charges), section 267(a)(2) (interest with respect to transactions between related taxpayers) section 465 (deductions limited to amount at risk), section 1277 (deferral of interest deduction allocable to accrued market discount), and section 1282 (deferral of interest deduction allocable to accrued discount).
 
 (c) *Determination of qualified residence interest when secured debt does not exceed adjusted purchase price*—(1) *In general.* If the sum of the average balances for the taxable year of all secured debts on a qualified residence does not exceed the adjusted purchase price (determined as of the end of the taxable year) of the qualified residence, all of the interest paid or accrued during the taxable year with respect to the secured debts is qualified residence interest. If the sum of the average balances for the taxable year of all secured debts exceeds the adjusted purchase price of the qualified residences (determined as of the end of the taxable year), the taxpayer must use either the simplified method (see paragraph (d) of this section) or the exact method (see paragraph (e) of this section) to determine the amount of interest that is qualified residence interest.
 
 (2) *Examples.*
 
-Example 1.T purchases a qualified residence in 1987 for $65,000. T pays $6,500 in cash and finances the remainder of the purchase with a mortgage of $58,500. In 1988, the average balance of the mortgage is $58,000. Because the average balance of the mortgage is less than the adjusted purchase price of the residence ($65,000), all of the interest paid or accrued during 1988 on the mortgage is qualified residence interest.Example 2.The facts are the same as in example (1), except that T incurs a second mortgage on January 1, 1988, with an initial principal balance of $2,000. The average balance of the second mortgage in 1988 is $1,900. Because the sum of the average balance of the first and second mortgages ($59,900) is less than the adjusted purchase price of the residence ($65,000), all of the interest paid or accrued during 1988 on both the first and second mortgages is qualified residence interest.Example 3.P borrows $50,000 on January 1, 1988 and secures the debt by a qualified residence. P pays the interest on the debt monthly, but makes no principal payments in 1988. There are no other debts secured by the residence during 1988. On December 31, 1988, the adjusted purchase price of the residence is $40,000. The average balance of the debt in 1988 is $50,000. Because the average balance of the debt exceeds the adjusted purchase price ($10,000), some of the interest on the debt is not qualified residence interest. The portion of the total interest that is qualified residence interest must be determined in accordance with the rules of paragraph (d) or paragraph (e) of this section.
+Example 1.T purchases a qualified residence in 1987 for $65,000. T pays $6,500 in cash and finances the remainder of the purchase with a mortgage of $58,500. In 1988, the average balance of the mortgage is $58,000. Because the average balance of the mortgage is less than the adjusted purchase price of the residence ($65,000), all of the interest paid or accrued during 1988 on the mortgage is qualified residence interest.1/2*i*
+
+| Debt   | Date secured | Average balance | Interest |
+| ------ | ------------ | --------------- | -------- |
+| Debt 1 | June 1983    | $80,000         | $8,000   |
+| Debt 2 | May 1987     | 40,000          | 4,800    |
+| Total  |              | 120,000         | 12,800   |
+
+The amount of qualified residence interest is determined under the simplified method by multiplying the total interest ($12,800) by a fraction (expressed as a decimal amount) equal to the adjusted purchase price ($105,000) of the residence divided by the combined average balances ($120,000). For 1988, this fraction is equal to 0.875 ($105,000/$120,000). Therefore, $11,200 ($12,800 × 0.875) of the total interest is qualified residence interest. The remaining $1,600 in interest ($12,800 − $11,200) is personal interest, even if (under the rules of § 1.163-8T) such remaining interest would be allocated to some other category of interest.
+
+(*ii*) W is entitled to treat the following amounts of the points as interest paid on a debt secured by a qualified residence—
+
+Example 2.The facts are the same as in example (1), except that T incurs a second mortgage on January 1, 1988, with an initial principal balance of $2,000. The average balance of the second mortgage in 1988 is $1,900. Because the sum of the average balance of the first and second mortgages ($59,900) is less than the adjusted purchase price of the residence ($65,000), all of the interest paid or accrued during 1988 on both the first and second mortgages is qualified residence interest.Example 3.P borrows $50,000 on January 1, 1988 and secures the debt by a qualified residence. P pays the interest on the debt monthly, but makes no principal payments in 1988. There are no other debts secured by the residence during 1988. On December 31, 1988, the adjusted purchase price of the residence is $40,000. The average balance of the debt in 1988 is $50,000. Because the average balance of the debt exceeds the adjusted purchase price ($10,000), some of the interest on the debt is not qualified residence interest. The portion of the total interest that is qualified residence interest must be determined in accordance with the rules of paragraph (d) or paragraph (e) of this section.
 
 (d) *Determination of qualified residence interest when secured debt exceeds adjusted purchase price—Simplified method*—(1) *In general.* Under the simplified method, the amount of qualified residence interest for the taxable year is equal to the total interest paid or accrued during the taxable year with respect to all secured debts multiplied by a fraction (not in excess of one), the numerator of which is the adjusted purchase price (determined as of the end of the taxable year) of the qualified residence and the denominator of which is the sum of the average balances of all secured debts.
 

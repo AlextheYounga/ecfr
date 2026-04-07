@@ -1,6 +1,6 @@
 ##### § 1.892-5 Controlled commercial entity.
 
-(a)-(a)(2) \[Reserved\]. For further information, see § 1.892-5T(a) through (a)(2).
+(a)-(a)(2) \[Reserved\]. For further information, see § 1.892-5T(a) through (a)(2).*entity*
 
 (3) For purposes of section 892(a)(2)(B), the term *entity* means and includes a corporation, a partnership, a trust (including a pension trust described in § 1.892-2T(c)) and an estate.
 

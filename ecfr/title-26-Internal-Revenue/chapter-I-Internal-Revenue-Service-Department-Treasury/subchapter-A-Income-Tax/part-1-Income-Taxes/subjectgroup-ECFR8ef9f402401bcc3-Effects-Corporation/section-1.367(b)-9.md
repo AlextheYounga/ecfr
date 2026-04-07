@@ -18,11 +18,11 @@
 
 Example 1.(i) *Facts.* (A) Foreign corporation A is and always has been a wholly owned subsidiary of USP, a domestic corporation. Foreign corporation A was incorporated in 1995, and has always had a calendar taxable year. Foreign corporation A (and all of its respective qualified business units as defined in section 989) maintains a “u” functional currency. On December 31, 2006, foreign corporation A has the following post-1986 undistributed earnings and post-1986 foreign income taxes:
 
-| Separate Category | E&P      | Foreign taxes |
-| ----------------- | -------- | ------------- |
-| Passive           | (1,000u) | $5            |
-| General           | 200u     | 200           |
-|                   | (800u)   | 205           |
+| Separate Category                               | E&P      | Foreign taxes |
+| ----------------------------------------------- | -------- | ------------- |
+| PassiveForeign corporation C Separate Category: | (1,000u) | $5            |
+| General                                         | 200u     | 200           |
+|                                                 | (800u)   | 205           |
 
 (B) On January 1, 2007, foreign corporation A moves its place of incorporation from Country 1 to Country 2 in a reorganization described in section 368(a)(1)(F).
 

@@ -26,7 +26,20 @@
 
 (4) *Illustrations.* The application of this paragraph may be illustrated by the following examples:
 
-Example 1.Domestic corporation M owns 100 percent of the only class of stock of controlled foreign corporations A, B, C, D, and E. A, B, and C use the calendar year as the taxable year. D and E use the fiscal year ending on June 30 as the taxable year. M may elect to treat A, B and C as a related group. However, M may not elect to treat C, D, and E as a related group.Example 2.The facts are the same as in example 1. In addition, M elects to treat A, B, and C as a related group for the group taxable year which ends on December 31, 1976. M may not also elect to treat D and E as a related group for the group taxable year ending on June 30, 1977.Example 3.United States shareholder A owns 60 percent of the only class of stock of controlled foreign corporation X and 40 percent of the only class of stock of controlled foreign corporation Y. United States shareholder B owns the other 40 percent of the stock of X and the other 60 percent of the stock of Y. Neither A nor B (nor both together) may elect to treat X and Y as a related group.
+Example 1.Domestic corporation M owns 100 percent of the only class of stock of controlled foreign corporations A, B, C, D, and E. A, B, and C use the calendar year as the taxable year. D and E use the fiscal year ending on June 30 as the taxable year. M may elect to treat A, B and C as a related group. However, M may not elect to treat C, D, and E as a related group.
+
+|                                                                 | X    | Y   | Z   | Group |
+| --------------------------------------------------------------- | ---- | --- | --- | ----- |
+| (1) Gross shipping income                                       | $100 | $90 | $90 |       |
+| (2) Shipping deductions                                         | 60   | 70  | 80  |       |
+| (3) Net shipping income                                         | 40   | 20  | (9) |       |
+| (4) Group excess deduction                                      |      |     |     | 80    |
+| (5) X's pro rata share of group excess deduction ($9 × $40/$60) | 6    |     |     |       |
+| (6) Y's pro rata share of group excess deduction ($9 × $20/$60) |      | 3   |     |       |
+
+(b) On December 31, 1977, T has qualified investments in foreign base company shipping operations (determined without regard to paragraphs (c)(3) and (4)) of $105, of which $15 consists of stock of S. After application of paragraph (c)(3) (but before application of paragraph (c)(4)), on December 31, 1977, T has qualified investments in foreign base company shipping operations of $90, determined as follows:
+
+Example 2.The facts are the same as in example 1. In addition, M elects to treat A, B, and C as a related group for the group taxable year which ends on December 31, 1976. M may not also elect to treat D and E as a related group for the group taxable year ending on June 30, 1977.Example 3.United States shareholder A owns 60 percent of the only class of stock of controlled foreign corporation X and 40 percent of the only class of stock of controlled foreign corporation Y. United States shareholder B owns the other 40 percent of the stock of X and the other 60 percent of the stock of Y. Neither A nor B (nor both together) may elect to treat X and Y as a related group.
 
 (c) *Effect of election.* If a United States shareholder elects to treat two or more controlled foreign corporations as a related group for any group taxable year then, for purposes of determining the foreign base company income (see § 1.954-1) and the increase or decrease in qualified investments in foreign base company shipping operations (see §§ 1.954-7. 1.955A-1, and 1.955A-4) of each member of such group for such year, the following rules shall apply:
 

@@ -4,7 +4,7 @@ This section lists the headings for §§ 1.965-1 through 1.965-9.
 
 § 1.965-1 Overview, general rules, and definitions.
 
-(a) Overview.
+(a) Overview.*1*
 
 (1) In general.
 

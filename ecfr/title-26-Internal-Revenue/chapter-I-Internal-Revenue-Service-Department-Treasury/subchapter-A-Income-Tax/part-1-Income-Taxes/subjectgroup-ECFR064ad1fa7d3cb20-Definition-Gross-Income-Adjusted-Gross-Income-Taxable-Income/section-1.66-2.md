@@ -1,6 +1,6 @@
 ##### § 1.66-2 Treatment of community income where spouses live apart.
 
-(a) Community income of spouses domiciled in a community property state will be treated in accordance with the rules provided by section 879(a) if all of the following requirements are satisfied—
+(a) Community income of spouses domiciled in a community property state will be treated in accordance with the rules provided by section 879(a) if all of the following requirements are satisfied—*Living apart.*
 
 (1) The spouses are married to each other at any time during the calendar year;
 

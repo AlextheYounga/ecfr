@@ -270,7 +270,20 @@
 
 (*2*) *Examples.* The provisions of this paragraph (e)(3)(iii)(E) are illustrated by the following examples:
 
-Example 1. Equipment operated only during certain shifts.Taxpayer A manufactures widgets. Although A's manufacturing facility operates 24 hours each day in three shifts, A only operates its stamping machine during one shift each day. Because A only operates its stamping machine during certain shifts, A's stamping machine is not considered temporarily idle during the two shifts that it is not operated.Example 2. Facility shut down for retooling.Taxpayer B owns and operates a manufacturing facility. B closes its manufacturing facility for two weeks to retool its assembly line. B's manufacturing facility is considered temporarily idle during this two-week period.
+Example 1. Equipment operated only during certain shifts.Taxpayer A manufactures widgets. Although A's manufacturing facility operates 24 hours each day in three shifts, A only operates its stamping machine during one shift each day. Because A only operates its stamping machine during certain shifts, A's stamping machine is not considered temporarily idle during the two shifts that it is not operated.
+
+(ii) Under a direct reallocation method, E allocates the Personnel Department's costs directly to its Assembling, Painting, and Finishing Department, and not to its Data Processing department.
+
+| Department  | Total dept. costs | Amount of payroll costs | Allocation ratio | Amount allocated |
+| ----------- | ----------------- | ----------------------- | ---------------- | ---------------- |
+| Personnel   | $500,000          | $50,000                 |                  | <$500,000>       |
+| Data Proc'g | 250,000           | 15,000                  |                  |                  |
+| Assembling  | 250,000           | 15,000                  | 15,000/285,000   | 26,315           |
+| Painting    | 1,000,000         | 90,000                  | 90,000/285,000   | 157,895          |
+| Finishing   | 2,000,000         | 180,000                 | 180,000/285,000  | 315,790          |
+| Total       | $4,000,000        | $350,000                |                  |                  |
+
+Example 2. Facility shut down for retooling.Taxpayer B owns and operates a manufacturing facility. B closes its manufacturing facility for two weeks to retool its assembly line. B's manufacturing facility is considered temporarily idle during this two-week period.
 
 (F) *Taxes assessed on the basis of income.* Taxes assessed on the basis of income include only state, local, and foreign income taxes, and franchise taxes that are assessed on the taxpayer based on income.
 

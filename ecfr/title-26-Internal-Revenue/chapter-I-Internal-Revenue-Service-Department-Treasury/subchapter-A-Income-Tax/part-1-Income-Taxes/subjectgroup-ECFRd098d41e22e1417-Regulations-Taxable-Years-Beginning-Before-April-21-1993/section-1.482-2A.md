@@ -1,6 +1,6 @@
 ##### § 1.482-2A Determination of taxable income in specific situations.
 
-(a)-(c) For applicable rules, see § 1.482-2T (a) through (c).
+(a)-(c) For applicable rules, see § 1.482-2T (a) through (c).*Transfer or use of intangible property*
 
 (d) *Transfer or use of intangible property*—(1) *In general.* (i) Except as otherwise provided in subparagraph (4) of this paragraph, where intangible property or an interest therein is transferred, sold, assigned, loaned, or otherwise made available in any manner by one member of a group of controlled entities (referred to in this paragraph as the transferor) to another member of the group (referred to in this paragraph as the transferee) for other than an arm's length consideration, the district director may make appropriate allocations to reflect an arm's length consideration for such property or its use. Subparagraph (2) of this paragraph provides rules for determining the form an amount of an appropriate allocation, subparagraph (3) of this paragraph provides a definition of “intangible property”, and subparagraph (4) of this paragraph provides rules with respect to certain cost-sharing arrangements in connection with the development of intangible property. For purposes of this paragraph, an interest in intangible property may take the form of the right to use such property.
 

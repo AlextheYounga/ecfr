@@ -1,6 +1,6 @@
 ##### § 1.410(a)-8T Year of service; break in service (temporary).
 
-(a)-(b) \[Reserved\]
+(a)-(b) \[Reserved\]*Breaks in service.*
 
 (c) *Breaks in service.* (1) \[Reserved\]
 

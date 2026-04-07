@@ -1,6 +1,6 @@
 ##### § 1.469-5 Material participation.
 
-(a)-(e) \[Reserved\]
+(a)-(e) \[Reserved\]*Participation*
 
 (f) *Participation*—(1) *In general.* Except as otherwise provided in this paragraph (f), any work done by an individual (without regard to the capacity in which the individual does the work) in connection with an activity in which the individual owns an interest at the time the work is done shall be treated for purposes of this section as participation of the individual in the activity.
 

@@ -8,7 +8,7 @@
 
 § 1.148-1 Definitions and elections.
 
-(a) In general.
+(a) In general.1/2
 
 (b) Certain definitions.
 

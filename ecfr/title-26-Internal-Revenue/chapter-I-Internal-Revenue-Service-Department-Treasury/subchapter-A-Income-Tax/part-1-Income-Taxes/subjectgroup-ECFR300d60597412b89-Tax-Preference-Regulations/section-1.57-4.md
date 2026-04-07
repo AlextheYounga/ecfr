@@ -26,7 +26,7 @@ The amount determined pursuant to the preceding sentence shall be increased by t
 
 (e) *Examples.* The principles of this section may be illustrated by the following examples in each of which the deduction for the personal exemption is disregarded and the taxpayer is an individual who is a calendar year taxpayer.
 
-Example 1.The taxpayer has the following items of income and deduction for 1970:
+Example 1.The taxpayer has the following items of income and deduction for 1970: *i.e.*
 
 | Gross income (all business income)                                                                     | $120,000 |
 | Deductions:                                                                                            |          |
@@ -34,7 +34,7 @@ Example 1.The taxpayer has the following items of income and deduction for 1970:
 | Items of tax preference (excess accelerated depreciation on real property held in taxpayer's business) | 80,000   |
 | Other business deductions                                                                              | 50,000   |
 
-Based on the above figures, the taxpayer has a net operating loss of $10,000 (business deductions of $130,000 less business income of $120,000, the nonbusiness deductions having been disallowed by reason of section 172(d)(4)). The limitation on the amount treated as items of tax preference is computed as follows:
+Based on the above figures, the taxpayer has a net operating loss of $10,000 (business deductions of $130,000 less business income of $120,000, the nonbusiness deductions having been disallowed by reason of section 172(d)(4)). The limitation on the amount treated as items of tax preference is computed as follows: *i.e.*
 
 | Tax preferences                                 | $80,000  |  |  |
 | Net operating loss                              | $10,000  |  |  |

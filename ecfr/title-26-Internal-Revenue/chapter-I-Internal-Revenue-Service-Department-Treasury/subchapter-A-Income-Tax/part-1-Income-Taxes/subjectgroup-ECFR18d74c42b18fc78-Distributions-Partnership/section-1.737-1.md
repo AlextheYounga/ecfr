@@ -40,6 +40,12 @@ Example 1. Calculation of excess distribution and net precontribution gain.(i) O
 
 (iv) On December 31, 1997, Property B is distributed to A in complete liquidation of A's partnership interest. The adjusted tax basis of A's partnership interest at that time is $20,000. The amount of the excess distribution is $10,000, the difference between the fair market value of the distributed Property B ($30,000) and A's adjusted tax basis in A's partnership interest ($20,000). A's net precontribution gain is $7,000, the difference between the book value of Property A ($21,000) and its adjusted tax basis at the time of the distribution ($14,000). A recognizes gain of $7,000 on the distribution, the lesser of the excess distribution and the net precontribution gain.
 
+|             | Fair market value | Adjusted tax basis |
+| ----------- | ----------------- | ------------------ |
+| Property A1 | $30,000           | $20,000            |
+| Property A2 | 30,000            | 38,000             |
+| Property A3 | 10,000            | 9,000              |
+
 Example 2. Determination of distributee partner's basis.(i) On January 1, 1995, A, B, and C form general partnership ABC as equal partners. A contributes Property A, nondepreciable real property with a fair market value of $10,000 and an adjusted tax basis of $4,000. B and C each contributes $10,000 cash.
 
 (ii) The partnership purchases Property B, nondepreciable real property with a fair market value of $9,000, subject to a $9,000 nonrecourse liability. This nonrecourse liability is allocated equally among the partners under section 752, increasing A's adjusted tax basis in A's partnership interest from $4,000 to $7,000.

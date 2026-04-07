@@ -10,7 +10,7 @@
 
 Example 1. General rule.This example illustrates the rule of paragraph (a) of this section as follows:
 
-(i) In 1999, A sells property for $10,000, to be paid in ten equal annual installments beginning on December 1, 1999. A originally purchased the property for $5000, held the property for several years, and took straight-line depreciation deductions in the amount of $3000. In each of the years 1999-2008, A has no other capital or section 1231 gains or losses.
+(i) In 1999, A sells property for $10,000, to be paid in ten equal annual installments beginning on December 1, 1999. A originally purchased the property for $5000, held the property for several years, and took straight-line depreciation deductions in the amount of $3000. In each of the years 1999-2008, A has no other capital or section 1231 gains or losses.*Example 1.,*
 
 (ii) A's adjusted basis at the time of the sale is $2000. Of A's $8000 of section 1231 gain on the sale of the property, $3000 is attributable to prior straight-line depreciation deductions and is unrecaptured section 1250 gain. The gain on each installment payment is $800.
 

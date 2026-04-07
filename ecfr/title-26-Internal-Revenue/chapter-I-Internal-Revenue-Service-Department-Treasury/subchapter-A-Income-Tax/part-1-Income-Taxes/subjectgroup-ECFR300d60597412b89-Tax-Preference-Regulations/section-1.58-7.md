@@ -18,16 +18,17 @@
 
 (vi) *Examples.* The principles of this subparagraph may be illustrated by the following examples in each of which the taxpayer is an individual and a citizen of the United States:
 
-Example 1.The taxpayer's only items of income and deduction relating to excess investment interest are as follows:
+Example 1.The taxpayer's only items of income and deduction relating to excess investment interest are as follows: *a*
 
-|                                                                     | United States | France   | Germany   | Total     |
-| ------------------------------------------------------------------- | ------------- | -------- | --------- | --------- |
-| Investment income from sources within                               | $150,000      | $120,000 | $180,000  | $450,000  |
-| Investment expenses relating to income from sources within          | (100,000)     | (90,000) | (120,000) | (310,000) |
-| Net investment income                                               | 50,000        | 30,000   | 60,000    | 140,000   |
-| Investment interest expense relating to income from sources within  | (110,000)     | (70,000) | (50,000)  | (230,000) |
-| (Excess) of investment interest expense over net investment income  | (60,000)      | (40,000) | \*10,000  | (90,000)  |
-| \*Excess of net investment income over investment interest expense. |               |          |           |           |
+\[In thousands of dollars\]
+|                                                                      | United States | France   | Germany   | Total     |
+| -------------------------------------------------------------------- | ------------- | -------- | --------- | --------- |
+| Investment income from sources within1                               | $150,000      | $120,000 | $180,000  | $450,000  |
+| Investment expenses relating to income from sources within           | (100,000)     | (90,000) | (120,000) | (310,000) |
+| Net investment income                                                | 50,000        | 30,000   | 60,000    | 140,000   |
+| Investment interest expense relating to income from sources within   | (110,000)     | (70,000) | (50,000)  | (230,000) |
+| (Excess) of investment interest expense over net investment income   | (60,000)      | (40,000) | \*10,000  | (90,000)  |
+| \*Excess of net investment income over investment interest expense.1 |               |          |           |           |
 
 (a) If the taxpayer has elected the overall foreign tax credit limitation, his excess investment interest from sources within any foreign countries or possessions of the United States determined under subdivision (ii) of this subparagraph is computed as follows:
 
@@ -45,7 +46,11 @@ Example 1.The taxpayer's only items of income and deduction relating to excess i
 | Excess of U.S. net income over investment interest expenses: |           |           |            |
 | Total foreign excess investment interest                     |           |           | (30,000)   |
 
-(b) If the taxpayer is on the per-country foreign tax credit limitation, his excess investment interest from France and Germany determined under subdivision (i)(*a*) of this subparagraph is $40,000 and zero, respectively. Since the taxpayer's worldwide excess investment interest ($90,000) is less than his total separately determined excess investment interest ($60,000 (United States) plus $40,000 (French) plus zero (German), or $100,000), the limitation in subdivision (i) (*b*) of this subparagraph applies and the excess investment interest attributable to France is limited as follows: Total worldwide excess ($90,000) / Total separately determined excess ($100,000) × French excess ($40,000) = $36,000 The taxpayer's total excess investment interest attributable to sources within any foreign country or possession of the United States is, thus, $36,000 ($36,000 (French) plus zero (German)). The taxpayer's excess investment interest attributable to sources within the United States is $54,000 ($90,000 / $100,000 × $60,000). Since, in making the latter determination, $6,000 of the $60,000 of U.S. investment interest expense in excess of U.S. net investment income is, in effect, offset by German net investment income, for purposes of § 1.58-7(c), $6,000 of interest deductions attributable to income from sources within the United States are, pursuant to subdivision (iv) of this subparagraph, treated as deductions attributable to income from sources within Germany.Example 2.Assume the same facts as in example (1) except that the items of income and deduction in Germany and the United States are reversed. The worldwide excess investment interest, thus, remains $90,000 and the items of income and deduction relating to excess investment interest are as follows:
+(b) If the taxpayer is on the per-country foreign tax credit limitation, his excess investment interest from France and Germany determined under subdivision (i)(*a*) of this subparagraph is $40,000 and zero, respectively. Since the taxpayer's worldwide excess investment interest ($90,000) is less than his total separately determined excess investment interest ($60,000 (United States) plus $40,000 (French) plus zero (German), or $100,000), the limitation in subdivision (i) (*b*) of this subparagraph applies and the excess investment interest attributable to France is limited as follows: Total worldwide excess ($90,000) / Total separately determined excess ($100,000) × French excess ($40,000) = $36,000 The taxpayer's total excess investment interest attributable to sources within any foreign country or possession of the United States is, thus, $36,000 ($36,000 (French) plus zero (German)). The taxpayer's excess investment interest attributable to sources within the United States is $54,000 ($90,000 / $100,000 × $60,000). Since, in making the latter determination, $6,000 of the $60,000 of U.S. investment interest expense in excess of U.S. net investment income is, in effect, offset by German net investment income, for purposes of § 1.58-7(c), $6,000 of interest deductions attributable to income from sources within the United States are, pursuant to subdivision (iv) of this subparagraph, treated as deductions attributable to income from sources within Germany.
+
+(a) If the taxpayer has elected the overall foreign tax credit limitation, his excess investment interest from sources within any foreign countries or possessions of the United States determined under subdivision (ii) of this subparagraph is the same as in (a) of example (1) of this subdivision (vi). He then treats such amount as separately determined excess investment interest attributable to a single foreign country as determined under subdivision (i) of this subparagraph and proceeds as in (b) of example (1) of this subdivision (vi) treating items of income and deduction subject to section 904(f) and from each separate foreign country or possession separately in making the additional determinations under subdivisions (i) and (iv) of this subparagraph.*i.e.*
+
+Example 2.Assume the same facts as in example (1) except that the items of income and deduction in Germany and the United States are reversed. The worldwide excess investment interest, thus, remains $90,000 and the items of income and deduction relating to excess investment interest are as follows:
 
 |                                                                    | United States | France   | Germany   | Total     |
 | ------------------------------------------------------------------ | ------------- | -------- | --------- | --------- |

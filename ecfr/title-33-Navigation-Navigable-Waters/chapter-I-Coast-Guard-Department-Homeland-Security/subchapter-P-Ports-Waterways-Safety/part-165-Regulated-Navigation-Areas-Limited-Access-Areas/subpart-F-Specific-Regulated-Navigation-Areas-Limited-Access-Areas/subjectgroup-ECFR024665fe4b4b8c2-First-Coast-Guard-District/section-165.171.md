@@ -1,28 +1,28 @@
 ##### § 165.171 Safety Zones for fireworks displays and swim events held in Coast Guard Sector Northern New England Captain of the Port Zone.
 
-(a) The general regulations contained in 33 CFR 165.23, as well as the regulations in this section, apply to the fireworks displays and swim events listed in table1 of this section. These regulations will be enforced for the duration of each event. Notifications will be made to the local maritime community through the Local Notice to Mariners and Broadcast Notice to Mariners well in advance of the events. If the event does not have a date listed, then exact dates and times of the enforcement period will be announced through a Notice of Enforcement in the Federal Register. Mariners should consult the Federal Register or their Local Notice to Mariners to remain apprised of schedule or event changes. First Coast Guard District Local Notice to Mariners can be found at *http://www.navcen.uscg.gov/.* Although listed in the Code of Federal Regulations, sponsors of events listed the Table 1 to § 165.171 are still required to submit marine event applications in accordance with 33 CFR 100.15.
+(a) The general regulations contained in 33 CFR 165.23, as well as the regulations in this section, apply to the fireworks displays and swim events listed in table1 of this section. These regulations will be enforced for the duration of each event. Notifications will be made to the local maritime community through the Local Notice to Mariners and Broadcast Notice to Mariners well in advance of the events. If the event does not have a date listed, then exact dates and times of the enforcement period will be announced through a Notice of Enforcement in the Federal Register. Mariners should consult the Federal Register or their Local Notice to Mariners to remain apprised of schedule or event changes. First Coast Guard District Local Notice to Mariners can be found at *http://www.navcen.uscg.gov/.* Although listed in the Code of Federal Regulations, sponsors of events listed the Table 1 to § 165.171 are still required to submit marine event applications in accordance with 33 CFR 100.15. 
 
-(b) The following definitions apply to this section:
+(b) The following definitions apply to this section: 
 
-(1) *Designated Representative.* A “Designated Representative” is any Coast Guard Commissioned, Warrant or Petty Officer designated by the Captain of the Port, Sector Northern New England (COTP), to act on his or her behalf. The Designated Representative may be on an official patrol vessel or may be on shore and will communicate with vessels via VHF-FM radio or loudhailer. In addition, members of the Coast Guard Auxiliary may be present to inform vessel operators of this regulation.
+(1) *Designated Representative.* A “Designated Representative” is any Coast Guard Commissioned, Warrant or Petty Officer designated by the Captain of the Port, Sector Northern New England (COTP), to act on his or her behalf. The Designated Representative may be on an official patrol vessel or may be on shore and will communicate with vessels via VHF-FM radio or loudhailer. In addition, members of the Coast Guard Auxiliary may be present to inform vessel operators of this regulation. 
 
-(2) *Official patrol vessels.* Official patrol vessels may consist of any Coast Guard, Coast Guard Auxiliary, state, or local law enforcement vessels assigned or approved by the COTP.
+(2) *Official patrol vessels.* Official patrol vessels may consist of any Coast Guard, Coast Guard Auxiliary, state, or local law enforcement vessels assigned or approved by the COTP. 
 
-(3) *Spectators.* All persons and vessels not registered with the event sponsor as participants or official patrol vessels.
+(3) *Spectators.* All persons and vessels not registered with the event sponsor as participants or official patrol vessels. 
 
-(c) Spectators or other vessels shall not anchor, block, loiter, or impede the transit of event participants or official patrol vessels in the regulated areas during the effective dates and times, or dates and times as modified through the Local Notice to Mariners, unless authorized by COTP or Designated Representative.
+(c) Spectators or other vessels shall not anchor, block, loiter, or impede the transit of event participants or official patrol vessels in the regulated areas during the effective dates and times, or dates and times as modified through the Local Notice to Mariners, unless authorized by COTP or Designated Representative. 
 
-(d) Vessel operators desiring to enter or operate within the regulated areas shall contact the COTP or the Designated Representative via VHF channel 16 or (207) 741-5465 (Coast Guard Sector Northern New England Command Center) to obtain permission to do so.
+(d) Vessel operators desiring to enter or operate within the regulated areas shall contact the COTP or the Designated Representative via VHF channel 16 or (207) 741-5465 (Coast Guard Sector Northern New England Command Center) to obtain permission to do so. 
 
-(e) Upon being hailed by a U.S. Coast Guard vessel or the Designated Representative, by siren, radio, flashing light or other means, the operator of the vessel shall proceed as directed. Failure to comply with a lawful direction may result in expulsion from the area, citation for failure to comply, or both.
+(e) Upon being hailed by a U.S. Coast Guard vessel or the Designated Representative, by siren, radio, flashing light or other means, the operator of the vessel shall proceed as directed. Failure to comply with a lawful direction may result in expulsion from the area, citation for failure to comply, or both. 
 
-(f) The COTP or Designated Representative may delay or terminate any marine event in this section at any time it is deemed necessary to ensure the safety of life or property.
+(f) The COTP or Designated Representative may delay or terminate any marine event in this section at any time it is deemed necessary to ensure the safety of life or property. 
 
 (g) The regulated area for all fireworks displays listed in the table 1 of this sction is that area of navigable waters within a 200-yard radius of the launch platform or launch site for each fireworks display, unless otherwise noted in the Table 1 to § 165.171 or modified in USCG First District Local Notice to Mariners at: *http://www.navcen.uscg.gov/.*
 
-(h) For all swim events listed in the Table 1 to § 165.171, vessels not associated with the event shall maintain a separation of at least 200 feet from the participants.
+(h) For all swim events listed in the Table 1 to § 165.171, vessels not associated with the event shall maintain a separation of at least 200 feet from the participants. 
 
-(i) The specific calendar date upon which the listed event falls will be published Notice of Enforcement in the Federal Register.
+(i) The specific calendar date upon which the listed event falls will be published Notice of Enforcement in the Federal Register. 
 
 Table 1 to § 165.171
 | **6.0**                                                                                                    | **JUNE**                                                                                                                                                                              |

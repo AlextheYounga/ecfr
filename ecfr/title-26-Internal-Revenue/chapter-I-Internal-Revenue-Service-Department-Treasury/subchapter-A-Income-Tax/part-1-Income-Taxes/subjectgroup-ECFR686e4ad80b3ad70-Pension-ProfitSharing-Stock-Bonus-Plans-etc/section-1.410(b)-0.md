@@ -4,7 +4,7 @@ This section contains a listing of the major headings of §§ 1.410(b)-2 through
 
 § 1.410(b)-2 Minimum coverage requirements (after 1993).
 
-(a) In general.
+(a) In general.*l*
 
 (b) Requirements with respect to employees.
 

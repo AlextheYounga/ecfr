@@ -1,6 +1,6 @@
 ##### § 1.243-1 Deduction for dividends received by corporations.
 
-(a)(1) A corporation is allowed a deduction under section 243 for dividends received from a domestic corporation which is subject to taxation under Chapter 1 of the Internal Revenue Code of 1954.
+(a)(1) A corporation is allowed a deduction under section 243 for dividends received from a domestic corporation which is subject to taxation under Chapter 1 of the Internal Revenue Code of 1954.*qualifying dividends,*
 
 (2) Except as provided in section 243(c) and in section 246, the deduction is:
 

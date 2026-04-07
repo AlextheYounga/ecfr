@@ -4,19 +4,21 @@ The application of section 826 may be illustrated by the following examples:
 
 Example 1.For the taxable year 1963, R, a reciprocal underwriter subject to the taxes imposed by section 821(a), has the following items (determined before applying any election under section 826):
 
-| Gross income under sec. 832                             | $578 |  |
-| Gross investment income                                 | 50   |  |
-| Deductions under sec. 832 (as modified by sec. 823(b)): |      |  |
-| Deduction for amounts paid by R to attorney-in-fact A   | $100 |  |
-| All other deductions                                    | 500  |  |
-| Total deductions under sec. 832                         | 600  |  |
-| Deductions under sec. 822(c)                            | 40   |  |
-| Incurred losses                                         | 400  |  |
-| Protection against loss deduction                       | 4    |  |
-| Underwriting gain                                       | 0    |  |
-| Mutual insurance company taxable income                 | 0    |  |
-| Unused loss                                             | 22   |  |
-| Credit or refund for taxes paid                         | 0    |  |
+|                                                         | Attorney-in-fact fees | Real estate management | Rental income | Total |
+| ------------------------------------------------------- | --------------------- | ---------------------- | ------------- | ----- |
+| Gross income under sec. 832                             | $578                  |                        |               |       |
+| Gross investment income                                 | 50                    |                        |               |       |
+| Deductions under sec. 832 (as modified by sec. 823(b)): |                       |                        |               |       |
+| Deduction for amounts paid by R to attorney-in-fact A   | $100                  |                        |               |       |
+| All other deductions                                    | 500                   |                        |               |       |
+| Total deductions under sec. 832                         | 600                   |                        |               |       |
+| Deductions under sec. 822(c)                            | 40                    |                        |               |       |
+| Incurred losses                                         | 400                   |                        |               |       |
+| Protection against loss deduction                       | 4                     |                        |               |       |
+| Underwriting gain                                       | 0                     |                        |               |       |
+| Mutual insurance company taxable income                 | 0                     |                        |               |       |
+| Unused loss                                             | 22                    |                        |               |       |
+| Credit or refund for taxes paid                         | 0                     |                        |               |       |
 
 Assume that the deductions of attorney-in-fact A allocable to the income received by A from R are 60 and the tax paid by A allocable to the income received from R is 16. If R elects to be subject to the limitation provided in section 826(b), the results for 1963 would be as follows:
 
@@ -38,7 +40,7 @@ Under the provisions of section 826(b), R's deduction for amounts paid or incurr
 
 Under the provisions of section 826(d), no portion of the amount added to the protection against loss account in 1963 by reason of the election under section 826(a), 2 (25 percent of the amount by which the consolidated underwriting gain exceeds 25 percent of the underwriting gain determined without regard to the election under section 826(a), or the amount by which 25 percent of 8 exceeds 25 percent of 0), may remain in such account beyond the taxable year 1968.
 
-Example 2.For the taxable year 1963, F is a corporate attorney-in-fact subject to the taxes imposed by section 11(b) and (c) of the Code. F files its return on the calendar year basis and reports income received from its reciprocal and the deductions allocable thereto under the same method of accounting used by its reciprocal in reporting its deductions for amounts paid to R. F properly consents to provide the information required by paragraph (b) of § 1.826-3. In addition to its attorney-in-fact business, F owns real estate for investment purposes, and operates a real estate management service. For the taxable year 1963, F has gross income from these various sources as follows: Attorney-in-fact fees$85,000 Real estate management fees18,000 Rental income25,000F allocates its expenses for the taxable year on the basis of their direct relation to each source of income. During 1963, F acquired property for use in its attorney-in-fact operations which entitled F to an investment credit of $800 under section 38. For 1963, F determines that the tax paid by it which is attributable to its reciprocal is $21,863, computed as follows:
+Attorney-in-fact fees$85,000 Real estate management fees18,000 Rental income25,000Example 2.For the taxable year 1963, F is a corporate attorney-in-fact subject to the taxes imposed by section 11(b) and (c) of the Code. F files its return on the calendar year basis and reports income received from its reciprocal and the deductions allocable thereto under the same method of accounting used by its reciprocal in reporting its deductions for amounts paid to R. F properly consents to provide the information required by paragraph (b) of § 1.826-3. In addition to its attorney-in-fact business, F owns real estate for investment purposes, and operates a real estate management service. For the taxable year 1963, F has gross income from these various sources as follows: Attorney-in-fact fees$85,000 Real estate management fees18,000 Rental income25,000F allocates its expenses for the taxable year on the basis of their direct relation to each source of income. During 1963, F acquired property for use in its attorney-in-fact operations which entitled F to an investment credit of $800 under section 38. For 1963, F determines that the tax paid by it which is attributable to its reciprocal is $21,863, computed as follows:
 
 |                          | Attorney-in-fact fees | Real estate management | Rental income | Total    |
 | ------------------------ | --------------------- | ---------------------- | ------------- | -------- |

@@ -1,6 +1,6 @@
 ##### § 1.148-7 Spending exceptions to the rebate requirement.
 
-(a) *Scope of section*—(1) *In general.* This section provides guidance on the spending exceptions to the arbitrage rebate requirement of section 148(f)(2). These exceptions are the 6-month exception in section 148(f)(4)(B) (the *6-month exception*), the 18-month exception under paragraph (d) of this section (the *18-month exception*), and the 2-year construction exception under section 148(f)(4)(C) (the *2-year exception*) (collectively, the *spending exceptions*).
+(a) *Scope of section1/2*—(1) *In general.* This section provides guidance on the spending exceptions to the arbitrage rebate requirement of section 148(f)(2). These exceptions are the 6-month exception in section 148(f)(4)(B) (the *6-month exception*), the 18-month exception under paragraph (d) of this section (the *18-month exception*), and the 2-year construction exception under section 148(f)(4)(C) (the *2-year exception*) (collectively, the *spending exceptions*).1/2
 
 (2) *Relationship of spending exceptions.* Each of the spending exceptions is an independent exception to arbitrage rebate. For example, a construction issue may qualify for the 6-month exception or the 18-month exception even though the issuer makes one or more elections under the 2-year exception with respect to the issue.
 

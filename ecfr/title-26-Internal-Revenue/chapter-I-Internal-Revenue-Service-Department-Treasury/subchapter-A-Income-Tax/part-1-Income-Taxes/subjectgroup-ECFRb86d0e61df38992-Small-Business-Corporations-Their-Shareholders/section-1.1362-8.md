@@ -26,7 +26,7 @@
 
 (d) *Examples.* The following examples illustrate the principles of this section:
 
-Example 1.(i) X, an S corporation, owns 85 percent of the one class of stock of Y. On December 31, 2002, Y declares a dividend of $100 ($85 to X), which is equal to Y's current earnings and profits. In 2002, Y has total gross receipts of $1,000, $200 of which would be passive investment income if Y were an S corporation.
+Example 1.(i) X, an S corporation, owns 85 percent of the one class of stock of Y. On December 31, 2002, Y declares a dividend of $100 ($85 to X), which is equal to Y's current earnings and profits. In 2002, Y has total gross receipts of $1,000, $200 of which would be passive investment income if Y were an S corporation. *Example 1,*
 
 (ii) One-fifth ($200/$1,000) of Y's gross receipts for 2002 is attributable to activities that would produce passive investment income. Accordingly, one-fifth of the $100 of earnings and profits is passive, and $17 ( 1/5 of $85) of the dividend from Y to X is passive investment income.
 

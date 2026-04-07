@@ -1,6 +1,6 @@
 ##### § 1.401(k)-6 Definitions.
 
-Unless otherwise provided, the definitions of this section govern for purposes of section 401(k) and the regulations thereunder.
+Unless otherwise provided, the definitions of this section govern for purposes of section 401(k) and the regulations thereunder.*Actual contribution percentage (ACP) test.*
 
 *Actual contribution percentage (ACP) test.Actual contribution percentage test* or *ACP test* means the test described in § 1.401(m)-2(a)(1).
 

@@ -1,6 +1,6 @@
 ##### § 1.42-16 Eligible basis reduced by federal grants.
 
-(a) *In general.* If, during any taxable year of the compliance period (described in section 42(i)(1)), a grant is made with respect to any building or the operation thereof and any portion of the grant is funded with federal funds (whether or not includible in gross income), the eligible basis of the building for the taxable year and all succeeding taxable years is reduced by the portion of the grant that is so funded.
+(a) *In general.* If, during any taxable year of the compliance period (described in section 42(i)(1)), a grant is made with respect to any building or the operation thereof and any portion of the grant is funded with federal funds (whether or not includible in gross income), the eligible basis of the building for the taxable year and all succeeding taxable years is reduced by the portion of the grant that is so funded.Federal Register
 
 (b) *Grants do not include certain rental assistance payments.* A federal rental assistance payment made to a building owner on behalf or in respect of a tenant is not a grant made with respect to a building or its operation if the payment is made pursuant to—
 

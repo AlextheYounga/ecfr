@@ -18,7 +18,7 @@
 
 (iii) *Examples.* The following examples illustrate the rules of paragraph (b)(1) of this section. In each of the examples, except as otherwise provided, each of R, V, Y, and Z is a C corporation. X is a domestic limited liability company. Except as otherwise provided, X is wholly owned by Y and is disregarded as an entity separate from Y for Federal income tax purposes. The examples are as follows:
 
-Example 1. Divisive transaction pursuant to a merger statute.(i) *Facts.* Under State W law, Z transfers some of its assets and liabilities to Y, retains the remainder of its assets and liabilities, and remains in existence for Federal income tax purposes following the transaction. The transaction qualifies as a merger under State W corporate law.
+Example 1. Divisive transaction pursuant to a merger statute.(i) *Facts.* Under State W law, Z transfers some of its assets and liabilities to Y, retains the remainder of its assets and liabilities, and remains in existence for Federal income tax purposes following the transaction. The transaction qualifies as a merger under State W corporate law. 1/2
 
 (ii) *Analysis.* The transaction does not satisfy the requirements of paragraph (b)(1)(ii)(A) of this section because all of the assets and liabilities of Z, the combining entity of the transferor unit, do not become the assets and liabilities of Y, the combining entity and sole member of the transferee unit. In addition, the transaction does not satisfy the requirements of paragraph (b)(1)(ii)(B) of this section because the separate legal existence of Z does not cease for all purposes. Accordingly, the transaction does not qualify as a statutory merger or consolidation under section 368(a)(1)(A).
 

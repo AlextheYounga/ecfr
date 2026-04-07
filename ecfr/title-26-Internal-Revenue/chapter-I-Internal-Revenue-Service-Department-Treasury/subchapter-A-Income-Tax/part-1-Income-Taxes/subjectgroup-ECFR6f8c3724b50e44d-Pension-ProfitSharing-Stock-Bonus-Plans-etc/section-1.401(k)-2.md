@@ -1,6 +1,6 @@
 ##### § 1.401(k)-2 ADP test.
 
-(a) *Actual deferral percentage (ADP) test*—(1) *In general*—(i) *ADP test formula.* A cash or deferred arrangement satisfies the ADP test for a plan year only if—
+(a) *Actual deferral percentage (ADP) test1/2*—(1) *In general*—(i) *ADP test formula.* A cash or deferred arrangement satisfies the ADP test for a plan year only if—1/2
 
 (A) The ADP for the eligible HCEs for the plan year is not more than the ADP for the eligible NHCEs for the applicable year multiplied by 1.25; or
 
@@ -26,9 +26,14 @@
 
 (iii) *Examples.* The following examples illustrate the application of this paragraph (a)(3):
 
-Example 1.(i) Employee A, an HCE with compensation of $120,000, is eligible to make elective contributions under Plan S and Plan T, two profit-sharing plans maintained by Employer H with calendar year plan years, each of which includes a cash or deferred arrangement. During the current plan year, Employee A makes elective contributions of $6,000 to Plan S and $4,000 to Plan T.
+Example 1.(i) Employee A, an HCE with compensation of $120,000, is eligible to make elective contributions under Plan S and Plan T, two profit-sharing plans maintained by Employer H with calendar year plan years, each of which includes a cash or deferred arrangement. During the current plan year, Employee A makes elective contributions of $6,000 to Plan S and $4,000 to Plan T. *Example 1*
 
 (ii) Under each plan, the ADR for Employee A is determined by dividing Employee A's total elective contributions under both arrangements by Employee A's compensation taken into account under the plan for the year. Therefore, Employee A's ADR under each plan is 8.33% ($10,000/$120,000).
+
+| Calendar year | Monthly compensation | Monthly elective contribution to Plan U | Monthly elective contribution to Plan V |
+| ------------- | -------------------- | --------------------------------------- | --------------------------------------- |
+| 2005          | $10,000              | $500                                    | $400                                    |
+| 2006          | 11,500               | 700                                     | 550                                     |
 
 Example 2.(i) The facts are the same as in *Example 1*, except that Plan T defines compensation (for deferral and testing purposes) to exclude all bonuses paid to an employee. Plan S defines compensation (for deferral and testing purposes) to include bonuses paid to an employee. During the current year, Employee A's compensation included a $10,000 bonus. Therefore, Employee A's compensation under Plan T is $110,000 and Employee A's compensation under Plan S is $120,000.
 

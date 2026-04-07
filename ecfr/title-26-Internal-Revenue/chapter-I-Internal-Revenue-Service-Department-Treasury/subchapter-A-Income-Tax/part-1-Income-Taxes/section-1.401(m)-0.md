@@ -4,7 +4,7 @@ This section contains first a list of section headings and then a list of the pa
 
 List of Sections § 1.401(m)-1 Employee contributions and matching contributions. § 1.401(m)-2 ACP test. § 1.401(m)-3 Safe harbor requirements. § 1.401(m)-4 Special rules for mergers, acquisitions and similar events. \[Reserved\] § 1.401(m)-5 Definitions. List of Paragraphs § 1.401(m)-1 Employee contributions and matching contributions.
 
-(a) General nondiscrimination rules.
+(a) General nondiscrimination rules.1/2
 
 (1) Nondiscriminatory amount of contributions.
 

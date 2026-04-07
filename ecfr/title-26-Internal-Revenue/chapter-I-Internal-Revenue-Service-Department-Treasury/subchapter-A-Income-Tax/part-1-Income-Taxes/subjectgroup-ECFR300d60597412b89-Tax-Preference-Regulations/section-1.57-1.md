@@ -1,6 +1,6 @@
 ##### § 1.57-1 Items of tax preference defined.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Accelerated depreciation on section 1250 property*
 
 (b) *Accelerated depreciation on section 1250 property*—(1) *In general.* Section 57(a)(2) provides that, with respect to each item of section 1250 property (as defined in section 1250(c)), there is to be included as an item of tax preference the amount by which the deduction allowable for the taxable year for depreciation or amortization exceeds the deduction which would have been allowable for the taxable year if the taxpayer had depreciated the property under the straight line method for each year of its useful life for which the taxpayer has held the property. The determination of the excess under section 57(a)(2) is made with respect to each separate item of section 1250 property. Accordingly, where the amount of depreciation which would have been allowable with respect to one item of section 1250 property if the taxpayer had originally used the straight line method exceeds the allowable depreciation or amortization with respect to such property, such excess may not be used to reduce the amount of the item of tax preference resulting from another item of section 1250 property.
 
@@ -57,6 +57,8 @@ For purposes of computing the item of tax preference under this paragraph for th
 | 2\. Partitions, walls, ceilings                      | 5,529   | 6,000  | None   |
 | 3\. Electrical, heating and air-conditioning systems | 4,983   | 3,800  | 1,183  |
 | 1974 preference                                      |         |        | 5,135  |
+
+(a) The taxpayer's 1971 item of tax preference under this paragraph would be determined as follows:
 
 (c) *Accelerated depreciation on section 1245 property subject to a net lease*—(1) *In general.* Section 57(a)(3) provides that, with respect to each item of section 1245 property (as defined in section 1245(a)(3)) which is the subject of a net lease for the taxable year, there is to be included as an item of tax preference the amount by which the deduction allowable for the taxable year for depreciation or amortization exceeds the deduction which would have been allowable for the taxable year if the taxpayer had depreciated the property under the straight line method for each year of its useful life for which the taxpayer has held the property. Except as provided in paragraph (b)(1)(ii) of this section, the determination of the excess under section 57(a)(3) is made with respect to each separate item of section 1245 property. Accordingly, where the amount of depreciation which would have been allowable with respect to one item of section 1245 property if the taxpayer had originally used the straight line method exceeds the allowable depreciation or amortization with respect to such property, such excess may not be used to reduce the amount of the item of tax preference resulting from another item of section 1245 property.
 

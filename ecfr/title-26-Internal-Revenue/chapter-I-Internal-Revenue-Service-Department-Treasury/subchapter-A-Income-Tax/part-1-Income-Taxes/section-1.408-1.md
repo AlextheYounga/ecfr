@@ -1,6 +1,6 @@
 ##### § 1.408-1 General rules.
 
-(a) *In general.* Section 408 prescribes rules relating to individual retirement accounts and individual retirement annuities. In addition to the rules set forth in §§ 1.408-2 and 1.408-3, relating respectively to individual retirement accounts and individual retirement annuities, the rules set forth in this section shall also apply.
+(a) *In general.* Section 408 prescribes rules relating to individual retirement accounts and individual retirement annuities. In addition to the rules set forth in §§ 1.408-2 and 1.408-3, relating respectively to individual retirement accounts and individual retirement annuities, the rules set forth in this section shall also apply.1/2
 
 (b) *Exemption from tax.* The individual retirement account or individual retirement annuity is exempt from all taxes under subtitle A of the Code other than the taxes imposed under section 511, relating to tax on unrelated business income of charitable, etc., organizations.
 

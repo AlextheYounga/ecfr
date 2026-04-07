@@ -4,7 +4,7 @@ In order to facilitate the use of §§ 1.355-1 through 1.355-8, this section lis
 
 § 1.355-1 Distribution of stock and securities of a controlled corporation.
 
-(a) Effective date of certain sections.
+(a) Effective date of certain sections.*1*
 
 (b) Application of section.
 

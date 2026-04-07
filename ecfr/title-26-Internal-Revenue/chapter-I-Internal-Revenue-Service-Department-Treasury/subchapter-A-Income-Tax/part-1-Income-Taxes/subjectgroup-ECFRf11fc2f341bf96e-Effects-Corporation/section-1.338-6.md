@@ -86,13 +86,16 @@
 
 (d) *Examples.* The following examples illustrate §§ 1.338-4, 1.338-5, and this section:
 
-Example 1.(i) T owns 90 percent of the outstanding T1 stock. P purchases 100 percent of the outstanding T stock for $2,000. There are no acquisition costs. P makes a section 338 election for T and, as a result, T1 is considered acquired in a qualified stock purchase. A section 338 election is made for T1. The grossed-up basis of the T stock is $2,000 (i.e., $2,000 + 1/1).
+Example 1.(i) T owns 90 percent of the outstanding T1 stock. P purchases 100 percent of the outstanding T stock for $2,000. There are no acquisition costs. P makes a section 338 election for T and, as a result, T1 is considered acquired in a qualified stock purchase. A section 338 election is made for T1. The grossed-up basis of the T stock is $2,000 (i.e., $2,000 + 1/1). *Example 1*
 
-(ii) The liabilities of T as of the beginning of the day after the acquisition date (including the tax liability for the deemed sale tax consequences) that would, under general principles of tax law, properly be taken into account at that time, are as follows:
+(ii) The liabilities of T as of the beginning of the day after the acquisition date (including the tax liability for the deemed sale tax consequences) that would, under general principles of tax law, properly be taken into account at that time, are as follows:*Original Allocation.*
 
-| Liabilities (nonrecourse mortgage plus unsecured liabilities) | $700  |
-| Taxes Payable                                                 | 300   |
-| Total                                                         | 1,000 |
+| Asset class                                                   | Asset | Fair market value |
+| ------------------------------------------------------------- | ----- | ----------------- |
+| Liabilities (nonrecourse mortgage plus unsecured liabilities) | $700  |                   |
+| Taxes Payable                                                 | 300   |                   |
+| Total                                                         | 1,000 |                   |
+| \*Amount.                                                     |       |                   |
 
 (iii) The AGUB of T is determined as follows:
 

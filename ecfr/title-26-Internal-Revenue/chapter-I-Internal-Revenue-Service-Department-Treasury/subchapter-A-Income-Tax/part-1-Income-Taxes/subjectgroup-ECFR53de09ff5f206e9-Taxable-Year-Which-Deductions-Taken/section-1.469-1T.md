@@ -66,9 +66,17 @@
 
 (d) *Effect of section 469 and the regulations thereunder for other purposes*—(1) *Treatment of items of passive activity income and gain.* Neither the provisions of section 469 (a)(1) and paragraph (a)(1) of this section nor the characterization of items of income or deduction as passive activity gross income (within the meaning of § 1.469-2T (c)) or passive activity deductions (within the meaning of § 1.469-2T (d)) affects the treatment of any item of income or gain under any provision of the Internal Revenue Code other than section 469. The following example illustrates the application of this paragraph (d)(1):
 
-Example.(i) In 1991, an individual's only income and loss from passive activities are a $10,000 capital gain from passive activity X and a $12,000 ordinary loss from passive activity Y. The taxpayer also has a $10,000 capital loss that is not derived from a passive activity.
+Example.(i) In 1991, an individual's only income and loss from passive activities are a $10,000 capital gain from passive activity X and a $12,000 ordinary loss from passive activity Y. The taxpayer also has a $10,000 capital loss that is not derived from a passive activity. *2*
 
-(ii) Under § 1.469-2T (b), the taxpayer has a $2,000 passive activity loss for the taxable year. The only effect of section 469 and the regulations thereunder is to disallow a deduction for the taxpayer's $2,000 passive activity loss for the taxable year. Thus, the taxpayer's capital loss for the taxable year is allowed because the $10,000 capital gain from passive activity X is taken into account under section 1211 (b) in computing the taxpayer's allowable capital loss for the year.
+(ii) Under § 1.469-2T (b), the taxpayer has a $2,000 passive activity loss for the taxable year. The only effect of section 469 and the regulations thereunder is to disallow a deduction for the taxpayer's $2,000 passive activity loss for the taxable year. Thus, the taxpayer's capital loss for the taxable year is allowed because the $10,000 capital gain from passive activity X is taken into account under section 1211 (b) in computing the taxpayer's allowable capital loss for the year.*3*
+
+|                   | A        | B         | C       | Total     |
+| ----------------- | -------- | --------- | ------- | --------- |
+| Gross income      | $7,000   | $4,000    | $12,000 | $23,000   |
+| Deductions        | (16,000) | (20,000)  | (8,000) | (44,000)  |
+| Net income (loss) | ($9,000) | ($16,000) | $4,000  | ($21,000) |
+
+Thus, taking the NOL carryback into account in computing net active income for 1987 does not affect X's taxable income for 1987, but increases the deductions treated under paragraph (f)(4) as deductions from X's rental activity for 1988 and decreases X's NOL carryover to years other than 1987.
 
 (2) *Coordination with sections 613A(d) and 1211.* \[Reserved\]. See § 1.469-1(d)(2) for rules relating to this paragraph.
 

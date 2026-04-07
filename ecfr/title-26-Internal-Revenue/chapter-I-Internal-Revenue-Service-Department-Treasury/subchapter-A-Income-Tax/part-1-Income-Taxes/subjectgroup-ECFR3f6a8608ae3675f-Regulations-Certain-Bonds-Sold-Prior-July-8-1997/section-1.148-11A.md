@@ -1,6 +1,6 @@
 ##### § 1.148-11A Effective dates.
 
-(a) through (c)(3) \[Reserved\]. For guidance see § 1.148-11.
+(a) through (c)(3) \[Reserved\]. For guidance see § 1.148-11.*Retroactive application of overpayment recovery provisions.*
 
 (c)(4) *Retroactive application of overpayment recovery provisions.* An issuer may apply the provisions of § 1.148-3(i) to any issue that is subject to section 148(f) or to sections 103(c)(6) or 103A(i) of the Internal Revenue Code of 1954.
 

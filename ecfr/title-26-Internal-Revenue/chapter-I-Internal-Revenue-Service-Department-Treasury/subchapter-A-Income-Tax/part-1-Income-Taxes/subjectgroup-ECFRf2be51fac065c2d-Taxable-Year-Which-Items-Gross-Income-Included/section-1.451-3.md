@@ -153,14 +153,15 @@
 (ix) *Example 9: Escalating rents*—(A) *Facts.* (*1*) K is a landlord in the business of leasing office space. On January 1, 2021, K enters into a 5-year lease with a tenant that provides for annual rent of $30,000 for 2021 and increases by 5% each year over the lease term. The annual rents are due at the end of each year. Accordingly, the rent for each year (rounded to the nearest dollar) is as follows:
 
 Table 1 to Paragraph (b)(4)(ix)(A)
-| Year                      | Calculation    | Total rent |
-| ------------------------- | -------------- | ---------- |
-| 2021                      | $30,000        | $30,000    |
-| 2022                      | 30,000 \* 1.05 | 31,500     |
-| 2023                      | 31,500 \* 1.05 | 33,075     |
-| 2024                      | 33,075 \* 1.05 | 34,729     |
-| 2025                      | 34,729 \* 1.05 | 36,465     |
-| Total Rent for Five Years |                | 165,769    |
+| Year                                                                            | Calculation    | Total rent |
+| ------------------------------------------------------------------------------- | -------------- | ---------- |
+| 20211                                                                           | $30,000        | $30,000    |
+| 2022                                                                            | 30,000 \* 1.05 | 31,500     |
+| 2023                                                                            | 31,500 \* 1.05 | 33,075     |
+| 2024                                                                            | 33,075 \* 1.05 | 34,729     |
+| 2025                                                                            | 34,729 \* 1.05 | 36,465     |
+| Total Rent for Five Years                                                       |                | 165,769    |
+| 1 $5x of the advance payment in 2023 is deferred and taken into income in 2024. |                |            |
 
 (*2*) The lease is not a section 467 rental agreement as defined under section 467(d). If the tenant terminates the lease early, the tenant must pay K the balance of the rent due for the remainder of the termination year. On its AFS, K reports AFS revenue from rents on a straight-line basis over the term of the lease, or approximately $33,154 per year ($165,769 total rent/5 years). Accordingly, for its AFS, K reports $33,154 of AFS revenue for 2021.
 

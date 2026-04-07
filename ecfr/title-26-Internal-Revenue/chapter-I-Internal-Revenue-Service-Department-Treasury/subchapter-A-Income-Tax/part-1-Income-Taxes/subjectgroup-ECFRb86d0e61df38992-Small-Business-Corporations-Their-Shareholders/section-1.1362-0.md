@@ -4,7 +4,7 @@ This section lists the captions that appear in the regulations under section 136
 
 § 1.1362-1 Election to be an S corporation.
 
-(a) In general.
+(a) In general.*1*1/2
 
 (b) Years for which election is effective.
 

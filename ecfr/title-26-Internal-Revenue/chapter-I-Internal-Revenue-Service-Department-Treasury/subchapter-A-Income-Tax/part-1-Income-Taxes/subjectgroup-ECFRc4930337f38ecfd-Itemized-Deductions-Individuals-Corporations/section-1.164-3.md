@@ -1,6 +1,6 @@
 ##### § 1.164-3 Definitions and special rules.
 
-For purposes of section 164 and § 1.164-1 to § 1.164-8, inclusive—
+For purposes of section 164 and § 1.164-1 to § 1.164-8, inclusive—*State or local taxes.*
 
 (a) *State or local taxes.* A State or local tax includes only a tax imposed by a State, a possession of the United States, or a political subdivision of any of the foregoing, or by the District of Columbia.
 

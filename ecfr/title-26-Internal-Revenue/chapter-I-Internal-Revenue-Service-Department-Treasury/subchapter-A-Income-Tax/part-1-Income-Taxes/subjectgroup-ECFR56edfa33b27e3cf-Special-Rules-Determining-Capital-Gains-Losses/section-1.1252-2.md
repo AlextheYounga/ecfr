@@ -8,7 +8,21 @@
 
 (4) *Examples.* The provisions of this paragraph may be illustrated by the following examples:
 
-Example 1.On March 2, 1976, A, a calendar year taxpayer, makes a gift to B of a parcel of land having an adjusted basis of $40,000, a fair market value of $65,000, and a holding period of 6 years (A, having purchased the land on January 15, 1971). On the date of such gift, the aggregate of the deductions allowed to A under sections 175 and 182 with respect to the land is $24,000 with $21,000 of such amount attributable to 1971. Upon making the gift, A recognizes no gain under section 1251(c)(1) or section 1252(a)(1). See paragraph (a)(1) of § 1.1251-4 and subparagraph 1 of this paragraph. For treatment of the farm land in the hands of B, see example (1) of paragraph (f)(3) of this section. For effect of the gift on the excess deductions accounts of A and of B, see paragraph (e)(2) of § 1.1251-2.Example 2.(i) Assume the same facts as in example (1), except that A transfers the land to B for $50,000. Thus, the gain realized is $10,000 (amount realized, $50,000, minus adjusted basis, $40,000), and A has made a gift of $15,000 (fair market value, $65,000, minus amount realized, $50,000).
+Example 1.On March 2, 1976, A, a calendar year taxpayer, makes a gift to B of a parcel of land having an adjusted basis of $40,000, a fair market value of $65,000, and a holding period of 6 years (A, having purchased the land on January 15, 1971). On the date of such gift, the aggregate of the deductions allowed to A under sections 175 and 182 with respect to the land is $24,000 with $21,000 of such amount attributable to 1971. Upon making the gift, A recognizes no gain under section 1251(c)(1) or section 1252(a)(1). See paragraph (a)(1) of § 1.1251-4 and subparagraph 1 of this paragraph. For treatment of the farm land in the hands of B, see example (1) of paragraph (f)(3) of this section. For effect of the gift on the excess deductions accounts of A and of B, see paragraph (e)(2) of § 1.1251-2.
+
+(ii) Upon the transfer of the land to B, A recognizes $3,000 of gain under section 1251(c)(1). See example (2) of paragraph (a)(4) of § 1.1251-4. Thus, A recognizes $7,000 as ordinary income under section 1252(a)(1), computed under subparagraph (2) of this paragraph as follows:
+
+| (1) Aggregate of deductions allowed under sections 175 and 182a                                                   | $24,000 |
+| (2) Minus: Gain recognized as ordinary income under section 1251(c)(1)                                            | $3,000  |
+| (3) Difference                                                                                                    | $21,000 |
+| (4) Multiply: Applicable percentage for land disposed of within sixth year after it was acquired                  | 80%     |
+| (5) Amount in paragraph (a)(1)(i)(a) of § 1.1252-1                                                                | $16,800 |
+| (6) Gain realized (see subdivision (i) of this example)                                                           | $10,000 |
+| (7) Minus: Amount in line (2)                                                                                     | $3,000  |
+| (8) Amount in paragraph (a)(1)(i)(b) of § 1.1252-1, applied in accordance with subparagraph (2) of this paragraph | $7,000  |
+| (9) Lower of line (5) or line (8)                                                                                 | $7,000  |
+
+Thus, the entire gain realized on the transfer, $10,000, is recognized as ordinary income since that amount is equal to the sum of the gain recognized as ordinary income under section 1251(c)(1), $3,000, and under section 1252(a)(1), $7,000. For treatment of the farm land in the hands of B, see example (2) of paragraph (f)(3) of this section.Example 2.(i) Assume the same facts as in example (1), except that A transfers the land to B for $50,000. Thus, the gain realized is $10,000 (amount realized, $50,000, minus adjusted basis, $40,000), and A has made a gift of $15,000 (fair market value, $65,000, minus amount realized, $50,000).
 
 (ii) Upon the transfer of the land to B, A recognizes $3,000 of gain under section 1251(c)(1). See example (2) of paragraph (a)(4) of § 1.1251-4. Thus, A recognizes $7,000 as ordinary income under section 1252(a)(1), computed under subparagraph (2) of this paragraph as follows:
 

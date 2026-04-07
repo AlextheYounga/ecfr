@@ -34,7 +34,7 @@
 
 Example 1.(i) K exchanges computer A (asset class 00.12) and automobile A (asset class 00.22), both of which were held by K for productive use in its business, with W for printer B (asset class 00.12) and automobile B (asset class 00.22), both of which will be held by K for productive use in its business. K's adjusted basis and the fair market value of the exchanged properties are as follows:
 
-|              | Adjusted basis | Fair market value |
+| J Transfers: | Adjusted basis | Fair market value |
 | ------------ | -------------- | ----------------- |
 | Computer A   | $375           | $1,000            |
 | Automobile A | 1,500          | 4,000             |
@@ -43,7 +43,7 @@ Example 1.(i) K exchanges computer A (asset class 00.12) and automobile A (asset
 
 (ii) Under paragraph (b)(2) of this section, the properties exchanged are separated into exchange groups as follows:
 
-(A) The first exchange group consists of computer A and printer B (both are within the same General Asset Class) and, as to K, has an exchange group surplus of $1050 because the fair market value of printer B ($2050) exceeds the fair market value of computer A ($1000) by that amount.
+(A) The first exchange group consists of computer A and printer B (both are within the same General Asset Class) and, as to K, has an exchange group surplus of $1050 because the fair market value of printer B ($2050) exceeds the fair market value of computer A ($1000) by that amount.*1*
 
 (B) The second exchange group consists of automobile A and automobile B (both are within the same General Asset Class) and, as to K, has an exchange group deficiency of $1050 because the fair market value of automobile A ($4000) exceeds the fair market value of automobile B ($2950) by that amount.
 

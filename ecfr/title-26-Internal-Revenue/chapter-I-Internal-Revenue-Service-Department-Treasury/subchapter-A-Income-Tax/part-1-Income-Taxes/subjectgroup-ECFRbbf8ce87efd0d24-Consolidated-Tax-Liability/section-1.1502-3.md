@@ -28,7 +28,7 @@ The $25,000 amount referred to in the preceding sentence shall be reduced by any
 
 (3) *Example.* The provisions of paragraphs (a) and (b) of this section may be illustrated by the following example:
 
-Example.(i) Corporation P is incorporated on January 1, 1966. On that same day P incorporates corporation S, a wholly owned subsidiary. P and S file consolidated returns for calendar years 1966 and 1967. P's and S's credit earned, the consolidated credit earned, and the consolidated limitation based on amount of tax for 1966 and 1967 are as follows:
+Example.(i) Corporation P is incorporated on January 1, 1966. On that same day P incorporates corporation S, a wholly owned subsidiary. P and S file consolidated returns for calendar years 1966 and 1967. P's and S's credit earned, the consolidated credit earned, and the consolidated limitation based on amount of tax for 1966 and 1967 are as follows: *Example 1,*
 
 |       | Credit earned | Consolidated credit earned | Consolidated limitation based on amount of tax |
 | ----- | ------------- | -------------------------- | ---------------------------------------------- |
@@ -49,6 +49,8 @@ Example.(i) Corporation P is incorporated on January 1, 1966. On that same day P
 | Consolidated unused credits attributable to years preceding 1967                           | 0       | $90,000  |         |
 | Limit on amount of 1967 consolidated unused credit which may be added as a credit for 1966 |         |          | $10,000 |
 | Balance of 1967 consolidated unused credit to be carried to 1968                           |         |          | $5,000  |
+
+![](/graphics/er25my00.002.gif)
 
 (c) *Limitation on investment credit carryovers and carrybacks from separate return limitation years applicable for consolidated return years for which the due date of the return is on or before March 13, 1998*—(1) *General rule.* In the case of an unused credit of a member of the group arising in a separate return limitation year (as defined in § 1.1502-1(f)) of such member (and in a separate return limitation year of any predecessor of such member), the amount which may be included under paragraph (b) of this section (computed without regard to the limitation contained in paragraph (e) of this section) shall not exceed the amount determined under paragraph (c)(2) of this section.
 

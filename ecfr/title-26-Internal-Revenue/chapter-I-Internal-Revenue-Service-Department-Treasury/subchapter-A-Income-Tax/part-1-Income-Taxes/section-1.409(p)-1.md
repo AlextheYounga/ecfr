@@ -38,6 +38,17 @@ Example.(i) *Facts.* Corporation M, an S corporation under section 1361, establi
 
 (ii) *Conclusion.* On December 31, 2006, participants A and B each have a deemed distribution as a result of the prohibited allocation, resulting in income of $24,000 for participant A and $4,200 for participant B. Corporation M owes an excise tax under section 4979A, based on an amount involved of $28,200. Plan P ceases to be an ESOP on the date of the prohibited allocation (December 31, 2006) and also fails to satisfy the qualification requirements of section 401(a) on that date due to the failure to comply with the provisions requiring compliance with section 409(p). As a result of having an ineligible shareholder under section 1361(b)(1)(B), Corporation M ceases to be an S corporation under section 1361 on December 31, 2006.
 
+| 1   Shareholders         | 2     | 3    | 4    |
+| ------------------------ | ----- | ---- | ---- |
+| B1                       | 330   | 33   | Yes. |
+| C                        | 145   | 14.5 | Yes. |
+| D                        | 75    | 7.5  | No.  |
+| E                        | 30    | 3    | No.  |
+| F                        | 20    | 2    | No.  |
+| Other participants       | 1 400 | (2)  | No.  |
+| 1 None exceed 10 shares. |       |      |      |
+| 2 1% or less.            |       |      |      |
+
 (v) *Prevention of prohibited allocation*—(A) *Transfer of account to non-ESOP.* An ESOP may prevent a nonallocation year or a prohibited allocation during a nonallocation year by providing for assets (including S corporation securities) allocated to the account of a disqualified person (or a person reasonably expected to become a disqualified person absent a transfer described in this paragraph (b)(2)(v)(A)) to be transferred into a separate portion of the plan that is not an ESOP, as described in § 54.4975-11(a)(5) of this chapter, or to another plan of the employer that satisfies the requirements of section 401(a) and that is not an ESOP. Any such transfer must be effectuated by an affirmative action taken no later than the date of the transfer, and all subsequent actions (including benefit statements) generally must be consistent with the transfer having occurred on that date. In the event of such a transfer involving S corporation securities, the recipient plan is subject to tax on unrelated business taxable income under section 512.
 
 (B) *Relief from nondiscrimination requirement.* Pursuant to this paragraph (b)(2)(v)(B), if a transfer described in paragraph (b)(2)(v)(A) of this section is made from an ESOP to a separate portion of the plan or to another qualified plan of the employer that is not an ESOP, then both the ESOP and the plan or portion of a plan that is not an ESOP do not fail to satisfy the requirements of § 1.401(a)(4)-4 merely because of the transfer. Further, subsequent to the transfer, that plan will not fail to satisfy the requirements of § 1.401(a)(4)-4 merely because of the benefits, rights, and features with respect to the transferred benefits if those benefits, rights, and features would satisfy the requirements of § 1.401(a)(4)-4 if the mandatory disaggregation rule for ESOPs at § 1.410(b)-7(c)(2) did not apply.

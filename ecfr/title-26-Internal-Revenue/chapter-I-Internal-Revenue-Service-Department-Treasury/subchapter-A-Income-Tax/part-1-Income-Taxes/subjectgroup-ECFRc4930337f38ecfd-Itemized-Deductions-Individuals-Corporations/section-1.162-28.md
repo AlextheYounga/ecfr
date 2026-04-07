@@ -42,6 +42,13 @@ Example.(i) In 1996, three full-time employees, A, B, and C, of Taxpayer W engag
 
 ![](/graphics/er21jy95.002.gif)
 
+| Employee | Departments |
+| -------- | ----------- |
+| A        | 0           |
+| B        | 1,750       |
+| C        | 2,000       |
+| Totals   | 3,750       |
+
 (e) *Gross-up method*—(1) *In general.* Under the gross-up method described in this paragraph (e)(1), the taxpayer allocates to lobbying activities the sum of its third-party costs (as defined in paragraph (d)(5) of this section) allocable to lobbying activities and 175 percent of its basic lobbying labor costs (as defined in paragraph (e)(3) of this section) of all personnel.
 
 (2) *Alternative gross-up method.* Under the alternative gross-up method described in this paragraph (e)(2), the taxpayer allocates to lobbying activities the sum of its third-party costs (as defined in paragraph (d)(5) of this section) allocable to lobbying activities and 225 percent of its basic lobbying labor costs (as defined in paragraph (e)(3)), excluding the costs of personnel who engage in secretarial, clerical, support, and other administrative activities (as opposed to activities involving significant judgment with respect to lobbying activities).

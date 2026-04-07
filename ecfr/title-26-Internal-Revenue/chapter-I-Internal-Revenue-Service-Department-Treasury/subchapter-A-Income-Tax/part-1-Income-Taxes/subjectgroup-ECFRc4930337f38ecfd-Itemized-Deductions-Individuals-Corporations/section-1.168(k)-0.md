@@ -4,7 +4,7 @@ This section lists the major paragraphs contained in §§ 1.168(k)-1 and 1.168(k
 
 § 1.168(k)-1 Additional first year depreciation deduction.
 
-(a) Scope and definitions.
+(a) Scope and definitions.*1*
 
 (1) Scope.
 

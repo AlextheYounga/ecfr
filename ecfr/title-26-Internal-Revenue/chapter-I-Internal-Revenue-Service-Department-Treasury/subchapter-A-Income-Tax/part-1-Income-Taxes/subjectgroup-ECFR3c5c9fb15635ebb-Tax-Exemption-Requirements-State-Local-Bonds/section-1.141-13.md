@@ -44,7 +44,35 @@
 
 (g) *Examples.* The following examples illustrate the application of this section:
 
-Example 1. Measuring private business use.In 2002, Authority A issues tax-exempt bonds that mature in 2032 to acquire an office building. The measurement period for the 2002 bonds under § 1.141-3(g) is 30 years. At the time A acquires the building, it enters into a 10-year lease with a nongovernmental person under which the nongovernmental person will use 5 percent of the building in its trade or business during each year of the lease term. In 2007, A issues bonds to refund the 2002 bonds. The 2007 bonds mature on the same date as the 2002 bonds and have a measurement period of 25 years under § 1.141-3(g). Under paragraph (b)(2)(ii)(A) of this section, the amount of private business use of the proceeds of the 2007 bonds is 1.67 percent, which equals the amount of private business use during the combined measurement period (5 percent of 1/3 of the 30-year combined measurement period). In addition, the 2002 bonds do not satisfy the private business use test, based on a measurement period beginning on the first day of the measurement period for the 2002 bonds and ending on the issue date of the 2007 bonds, because only 5 percent of the proceeds of the 2002 bonds are used for a private business use during that period. Thus, under paragraph (b)(2)(ii)(B) of this section, A may treat the amount of private business use of the 2007 bonds as 1 percent (5 percent of 1/5 of the 25-year measurement period for the 2007 bonds). The 2007 bonds do not satisfy the private business use test.Example 2. Combined issue yield computation.(i) On January 1, 2000, County B issues 20-year bonds to finance the acquisition of a municipal auditorium. The 2000 bonds have a yield of 7.7500 percent, compounded annually, and an issue price and par amount of $100 million. The debt service payments on the 2000 bonds are as follows:
+Example 1. Measuring private business use.In 2002, Authority A issues tax-exempt bonds that mature in 2032 to acquire an office building. The measurement period for the 2002 bonds under § 1.141-3(g) is 30 years. At the time A acquires the building, it enters into a 10-year lease with a nongovernmental person under which the nongovernmental person will use 5 percent of the building in its trade or business during each year of the lease term. In 2007, A issues bonds to refund the 2002 bonds. The 2007 bonds mature on the same date as the 2002 bonds and have a measurement period of 25 years under § 1.141-3(g). Under paragraph (b)(2)(ii)(A) of this section, the amount of private business use of the proceeds of the 2007 bonds is 1.67 percent, which equals the amount of private business use during the combined measurement period (5 percent of 1/3 of the 30-year combined measurement period). In addition, the 2002 bonds do not satisfy the private business use test, based on a measurement period beginning on the first day of the measurement period for the 2002 bonds and ending on the issue date of the 2007 bonds, because only 5 percent of the proceeds of the 2002 bonds are used for a private business use during that period. Thus, under paragraph (b)(2)(ii)(B) of this section, A may treat the amount of private business use of the 2007 bonds as 1 percent (5 percent of 1/5 of the 25-year measurement period for the 2007 bonds). The 2007 bonds do not satisfy the private business use test.*Example 2.*
+
+| Date   | Debt service |
+| ------ | ------------ |
+| 1/1/01 | $9,996,470   |
+| 1/1/02 | 9,996,470    |
+| 1/1/03 | 9,996,470    |
+| 1/1/04 | 9,996,470    |
+| 1/1/05 | 9,996,470    |
+| 1/1/06 | 9,996,470    |
+| 1/1/07 | 9,996,470    |
+| 1/1/08 | 9,996,470    |
+| 1/1/09 | 9,996,470    |
+| 1/1/10 | 9,996,470    |
+| 1/1/11 | 9,996,470    |
+| 1/1/12 | 9,996,470    |
+| 1/1/13 | 9,996,470    |
+| 1/1/14 | 9,996,470    |
+| 1/1/15 | 9,996,470    |
+| 1/1/16 | 9,996,470    |
+| 1/1/17 | 9,996,470    |
+| 1/1/18 | 9,996,470    |
+| 1/1/19 | 9,996,470    |
+| 1/1/20 | 9,996,470    |
+|        | 199,929,400  |
+
+(ii) The facts are the same as in paragraph (i) of this *Example 4,* except that the 1999 bonds are issued as exempt facility bonds under section 142(a)(4). The 2009 bonds do not satisfy the private business use test.
+
+Example 2. Combined issue yield computation.(i) On January 1, 2000, County B issues 20-year bonds to finance the acquisition of a municipal auditorium. The 2000 bonds have a yield of 7.7500 percent, compounded annually, and an issue price and par amount of $100 million. The debt service payments on the 2000 bonds are as follows:
 
 | Date   | Debt service |
 | ------ | ------------ |

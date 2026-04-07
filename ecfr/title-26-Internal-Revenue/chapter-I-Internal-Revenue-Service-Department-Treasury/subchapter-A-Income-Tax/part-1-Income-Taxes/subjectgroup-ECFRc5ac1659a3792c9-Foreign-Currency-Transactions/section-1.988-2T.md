@@ -1,6 +1,6 @@
 ##### § 1.988-2T Recognition and computation of exchange gain or loss (temporary).
 
-(a) through (b)(15) \[Reserved\] For further guidance, see § 1.988-2(a) through (b)(15).
+(a) through (b)(15) \[Reserved\] For further guidance, see § 1.988-2(a) through (b)(15).*Deferral of loss on certain related-party debt instruments*
 
 (16) *Deferral of loss on certain related-party debt instruments*—(i) *Treatment of creditor.* For rules applicable to a corporation included in a controlled group that is a creditor under a debt instrument see § 1.267(f)-1(e).
 

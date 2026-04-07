@@ -2,7 +2,16 @@
 
 (a) *Distributions other than in liquidation of a partner's interest.* The basis of property (other than money) received by a partner in a distribution from a partnership, other than in liquidation of his entire interest, shall be its adjusted basis to the partnership immediately before such distribution. However, the basis of the property to the partner shall not exceed the adjusted basis of the partner's interest in the partnership, reduced by the amount of any money distributed to him in the same transaction. The provisions of this paragraph may be illustrated by the following examples:
 
-Example 1.Partner A, with an adjusted basis of $15,000 for his partnership interest, receives in a current distribution property having an adjusted basis of $10,000 to the partnership immediately before distribution, and $2,000 cash. The basis of the property in A's hands will be $10,000. Under sections 733 and 705, the basis of A's partnership interest will be reduced by the distribution to $3,000 ($15,000 less $2,000 cash, less $10,000, the basis of the distributed property to A).Example 2.Partner R has an adjusted basis of $10,000 for his partnership interest. He receives a current distribution of $4,000 cash and property with an adjusted basis to the partnership of $8,000. The basis of the distributed property to partner R is limited to $6,000 ($10,000, the adjusted basis of his interest, reduced by $4,000, the cash distributed).
+Example 1.Partner A, with an adjusted basis of $15,000 for his partnership interest, receives in a current distribution property having an adjusted basis of $10,000 to the partnership immediately before distribution, and $2,000 cash. The basis of the property in A's hands will be $10,000. Under sections 733 and 705, the basis of A's partnership interest will be reduced by the distribution to $3,000 ($15,000 less $2,000 cash, less $10,000, the basis of the distributed property to A).*Example 3*
+
+|           | Assets |
+| --------- | ------ |
+| Cash      | $1,500 |
+| Inventory | 3,500  |
+| Asset X   | 2,000  |
+| Asset Y   | 4,000  |
+
+Example 2.Partner R has an adjusted basis of $10,000 for his partnership interest. He receives a current distribution of $4,000 cash and property with an adjusted basis to the partnership of $8,000. The basis of the distributed property to partner R is limited to $6,000 ($10,000, the adjusted basis of his interest, reduced by $4,000, the cash distributed).
 
 (b) *Distribution in liquidation.* Where a partnership distributes property (other than money) in liquidation of a partner's entire interest in the partnership, the basis of such property to the partner shall be an amount equal to the adjusted basis of his interest in the partnership reduced by the amount of any money distributed to him in the same transaction. Application of this rule may be illustrated by the following example:
 

@@ -4,7 +4,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 § 1.1471-1 Scope of chapter 4 and definitions.
 
-(a) Scope of chapter 4 of the Internal Revenue Code.
+(a) Scope of chapter 4 of the Internal Revenue Code.*1*
 
 (b) Definitions.
 

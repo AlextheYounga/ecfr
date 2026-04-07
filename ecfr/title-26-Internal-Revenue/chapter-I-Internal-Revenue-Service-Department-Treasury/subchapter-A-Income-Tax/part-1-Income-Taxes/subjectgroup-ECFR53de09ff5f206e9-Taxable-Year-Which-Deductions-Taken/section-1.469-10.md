@@ -1,6 +1,6 @@
 ##### § 1.469-10 Application of section 469 to publicly traded partnerships.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Publicly traded partnership*
 
 (b) *Publicly traded partnership*—(1) *In general.* For purposes of section 469(k), a partnership is a publicly traded partnership only if the partnership is a publicly traded partnership as defined in § 1.7704-1.
 

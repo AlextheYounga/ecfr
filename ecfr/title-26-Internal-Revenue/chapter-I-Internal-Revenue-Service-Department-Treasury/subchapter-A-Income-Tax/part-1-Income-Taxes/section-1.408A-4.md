@@ -1,6 +1,6 @@
 ##### § 1.408A-4 Converting amounts to Roth IRAs.
 
-This section sets forth the following questions and answers that provide rules applicable to Roth IRA conversions:
+This section sets forth the following questions and answers that provide rules applicable to Roth IRA conversions:1/2*In general*
 
 Q-1. Can an individual convert an amount in his or her traditional IRA to a Roth IRA?
 

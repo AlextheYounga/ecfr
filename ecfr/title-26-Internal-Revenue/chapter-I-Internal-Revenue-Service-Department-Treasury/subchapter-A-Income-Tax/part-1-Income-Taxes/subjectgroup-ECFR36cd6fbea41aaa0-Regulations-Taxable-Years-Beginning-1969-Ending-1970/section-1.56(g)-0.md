@@ -4,7 +4,7 @@ This section lists the paragraphs contained in § 1.56(g)-1.
 
 § 1.56(g)-1 Adjusted current earnings.
 
-(a) Adjustment for adjusted current earnings.
+(a) Adjustment for adjusted current earnings.*1*
 
 (1) Positive adjustment.
 

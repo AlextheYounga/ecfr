@@ -114,9 +114,9 @@ The undistributed net investment income for the S portion is $27,600 and is dete
 
 (iii) *Examples.* The following examples illustrate the provisions of this paragraph (d)(2).
 
-Example 1.(i) In 2009, A formed CRT as a charitable remainder annuity trust. The trust document requires an annual annuity payment of $50,000 to A for 15 years. For purposes of this example, assume that CRT is a valid charitable remainder trust under section 664 and has not received any unrelated business taxable income during any taxable year.
+Example 1.(i) In 2009, A formed CRT as a charitable remainder annuity trust. The trust document requires an annual annuity payment of $50,000 to A for 15 years. For purposes of this example, assume that CRT is a valid charitable remainder trust under section 664 and has not received any unrelated business taxable income during any taxable year. *Example 1,*
 
-(ii) As of January 1, 2013, CRT has the following items of undistributed income within its § 1.664-1(d)(1) categories and classes:
+(ii) As of January 1, 2013, CRT has the following items of undistributed income within its § 1.664-1(d)(1) categories and classes:*Example*
 
 | Category                                         | Class                          | Tax rate   (percent) | Amount  |
 | ------------------------------------------------ | ------------------------------ | -------------------- | ------- |

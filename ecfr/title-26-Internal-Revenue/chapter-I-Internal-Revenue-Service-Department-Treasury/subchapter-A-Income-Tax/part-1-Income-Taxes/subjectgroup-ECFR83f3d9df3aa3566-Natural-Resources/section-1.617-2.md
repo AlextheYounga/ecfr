@@ -14,7 +14,19 @@
 
 (c) *Examples.* The application of the provisions of paragraphs (a) and (b) of this section may be illustrated by the following examples:
 
-Example 1.A, a calendar-year taxpayer who has claimed the benefits of section 615, expended $100,000 for exploration expenditures during the year 1966. For each of the years 1967, 1968, 1969, and 1970 A had exploration costs of $80,000 all with respect to coal deposits located within the United States. A deducted or deferred the maximum amounts allowable for each of the years 1966 ($100,000), 1967 ($80,000), 1968 ($80,000), and 1969 ($80,000). The $80,000 of exploration expenditures for 1970 may be deducted under section 617 by A.Example 2.B, a calendar-year taxpayer claimed deductions of $100,000 per year under section 615 for the years 1968 and 1969. In 1970, B deducted $150,000 under section 617 for exploration conducted with respect to coal deposits in the United States. In 1971, B paid $150,000 with respect to exploration of tin deposits outside the United States. The maximum amount B may deduct with respect to the foreign exploration in 1971 is $50,000 computed as follows:
+Example 1.A, a calendar-year taxpayer who has claimed the benefits of section 615, expended $100,000 for exploration expenditures during the year 1966. For each of the years 1967, 1968, 1969, and 1970 A had exploration costs of $80,000 all with respect to coal deposits located within the United States. A deducted or deferred the maximum amounts allowable for each of the years 1966 ($100,000), 1967 ($80,000), 1968 ($80,000), and 1969 ($80,000). The $80,000 of exploration expenditures for 1970 may be deducted under section 617 by A.
+
+(a) Add all amounts deducted or deferred for exploration expenditures by B for all years:
+
+| Year        | Expenditures | Deducted or deferred |
+| ----------- | ------------ | -------------------- |
+| 19681       | $100,000     | $100,000             |
+| 1969        | 100,000      | 100,000              |
+| 1970        | 150,000      | 150,000              |
+| Total       |              | 350,000              |
+| 1 Domestic. |              |                      |
+
+Example 2.B, a calendar-year taxpayer claimed deductions of $100,000 per year under section 615 for the years 1968 and 1969. In 1970, B deducted $150,000 under section 617 for exploration conducted with respect to coal deposits in the United States. In 1971, B paid $150,000 with respect to exploration of tin deposits outside the United States. The maximum amount B may deduct with respect to the foreign exploration in 1971 is $50,000 computed as follows:
 
 (a) Add all amounts deducted or deferred for exploration expenditures by B for all years:
 

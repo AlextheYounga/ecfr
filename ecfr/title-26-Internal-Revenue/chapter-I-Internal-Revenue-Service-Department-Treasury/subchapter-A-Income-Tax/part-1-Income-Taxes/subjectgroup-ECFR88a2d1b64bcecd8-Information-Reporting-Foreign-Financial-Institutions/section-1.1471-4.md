@@ -1,6 +1,6 @@
 ##### § 1.1471-4 FFI agreement.
 
-(a) *In general.* An FFI agreement will be in effect in accordance with section 1471(b) if an FFI registers with the IRS pursuant to procedures prescribed by the IRS and agrees to comply with the terms of an FFI agreement. The FFI agreement will incorporate the requirements set forth in this section, any modifications set forth in an applicable Model 2 IGA, and any provisions applicable to a reporting Model 1 FFI.
+(a) *In general.* An FFI agreement will be in effect in accordance with section 1471(b) if an FFI registers with the IRS pursuant to procedures prescribed by the IRS and agrees to comply with the terms of an FFI agreement. The FFI agreement will incorporate the requirements set forth in this section, any modifications set forth in an applicable Model 2 IGA, and any provisions applicable to a reporting Model 1 FFI.Federal Register
 
 (1) *Withholding.* A participating FFI is required to deduct and withhold tax with respect to payments made to recalcitrant account holders and nonparticipating FFIs to the extent required under paragraph (b) of this section. A participating FFI that is prohibited by foreign law from withholding as required under paragraph (b) of this section with respect to an account must close such account within a reasonable period of time or must otherwise block or transfer such account as described in paragraph (i) of this section.
 

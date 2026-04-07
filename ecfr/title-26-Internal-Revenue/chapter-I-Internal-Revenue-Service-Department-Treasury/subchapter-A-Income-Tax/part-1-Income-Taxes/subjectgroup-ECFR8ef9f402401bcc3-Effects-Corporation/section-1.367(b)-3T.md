@@ -1,6 +1,6 @@
 ##### § 1.367(b)-3T Repatriation of foreign corporate assets in certain nonrecognition transactions (temporary).
 
-(a)-(b)(3) \[Reserved\]. For further guidance, see § 1.367(b)-3(a) through (b)(3).
+(a)-(b)(3) \[Reserved\]. For further guidance, see § 1.367(b)-3(a) through (b)(3).*Election of taxable exchange treatment*
 
 (4) *Election of taxable exchange treatment*—(i) *Rules*—(A) *In general.* In lieu of the treatment prescribed by § 1.367(b)-3(b)(3)(i), an exchanging shareholder described in § 1.367(b)-3(b)(1) may instead elect to recognize the gain (but not loss) that it realizes in the exchange (taxable exchange election). To make a taxable exchange election, the following requirements must be satisfied—
 

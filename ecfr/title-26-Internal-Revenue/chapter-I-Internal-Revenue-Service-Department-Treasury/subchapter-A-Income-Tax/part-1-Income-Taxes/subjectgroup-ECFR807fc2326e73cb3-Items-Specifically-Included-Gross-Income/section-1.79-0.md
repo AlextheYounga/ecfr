@@ -1,6 +1,6 @@
 ##### § 1.79-0 Group-term life insurance—definitions of certain terms.
 
-The following definitions apply for purposes of section 79, this section, and §§ 1.79-1, 1.79-2, and 1.79-3.
+The following definitions apply for purposes of section 79, this section, and §§ 1.79-1, 1.79-2, and 1.79-3.*Carried directly or indirectly.*
 
 *Carried directly or indirectly.* A policy of life insurance is “carried directly or indirectly” by an employer if—
 

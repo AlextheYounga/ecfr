@@ -1,6 +1,6 @@
 ##### § 1.42-0 Table of contents.
 
-This section lists the paragraphs contained in §§ 1.42-1 through 1.42-19 and § 1.42-1T.
+This section lists the paragraphs contained in §§ 1.42-1 through 1.42-19 and § 1.42-1T.*Housing credit agency*
 
 *§ 1.42-1 Limitation on low-income housing credit allowed with respect to qualified low-income buildings receiving housing credit allocations from a State or local housing credit agency.*
 

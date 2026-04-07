@@ -1,6 +1,6 @@
 ##### § 1.446-3T Notional principal contracts (temporary).
 
-(a) through (g)(3) \[Reserved\]. For further guidance, see § 1.446-3(a) through (g)(3).
+(a) through (g)(3) \[Reserved\]. For further guidance, see § 1.446-3(a) through (g)(3).*Notional principal contracts with nonperiodic payments*Federal Register.
 
 (4) *Notional principal contracts with nonperiodic payments*—(i) *General rule.* Except as provided in paragraph (g)(4)(ii) of this section, a notional principal contract with one or more nonperiodic payments is treated as two separate transactions consisting of an on-market, level payment swap and one or more loans. The loan(s) must be accounted for by the parties to the contract independently of the swap. The time value component associated with the loan(s) is not included in the net income or net deduction from the swap under § 1.446-3(d), but it is recognized as interest for all purposes of the Internal Revenue Code. See paragraph (g)(6) *Example 2* of this section.
 
@@ -26,7 +26,7 @@
 
 Example 2.*Nonperiodic payment.* (i) On January 1, 2016, unrelated parties M and N enter into an interest rate swap contract. Under the terms of the contract, N agrees to make five annual payments to M equal to LIBOR times a notional principal amount of $100 million. In return, M agrees to pay N 6% of $100 million annually, plus an upfront payment of $15,163,147 on January 1, 2016. At the time M and N enter into the contract, the rate for similar on-market swaps is LIBOR to 10%, and N provides M with information that the amount of the upfront payment was determined as the present value, at 10% compounded annually, of five annual payments from M to N of $4,000,000 (4% of $100,000,000). The contract does not require the parties to post and collect margin or collateral to collateralize the mark-to-market exposure on the contract on a daily basis for the entire term of the contract.
 
-(ii) The exceptions in paragraphs (g)(4)(ii)(A) and (B) of this section do not apply. Under paragraph (g)(4)(i) of this section, the transaction is recharacterized as consisting of both a $15,163,147 loan from M to N that N repays in installments over the term of the contract and an interest rate swap between M and N in which M immediately pays the installment payments on the loan back to N as part of its fixed payments on the swap in exchange for the LIBOR payments by N.
+(ii) The exceptions in paragraphs (g)(4)(ii)(A) and (B) of this section do not apply. Under paragraph (g)(4)(i) of this section, the transaction is recharacterized as consisting of both a $15,163,147 loan from M to N that N repays in installments over the term of the contract and an interest rate swap between M and N in which M immediately pays the installment payments on the loan back to N as part of its fixed payments on the swap in exchange for the LIBOR payments by N.*1*
 
 (iii) The upfront payment is recognized over the life of the contract by treating the $15,163,147 as a loan that will be repaid with level payments over five years. Assuming a constant yield to maturity and annual compounding at 10%, M and N account for the principal and interest on the loan as follows:
 

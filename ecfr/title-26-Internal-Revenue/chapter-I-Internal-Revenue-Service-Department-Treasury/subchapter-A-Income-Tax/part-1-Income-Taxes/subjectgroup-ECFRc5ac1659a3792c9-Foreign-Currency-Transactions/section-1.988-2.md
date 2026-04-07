@@ -16,11 +16,27 @@
 
 (E) The transfer of nonfunctional currency from a demand or time deposit or similar instrument issued by a bank or other financial institution to another demand or time deposit or similar instrument denominated in the same nonfunctional currency issued by a bank or other financial institution.
 
-The taxpayer's basis in the units of nonfunctional currency or other property received in the transaction shall be the adjusted basis of the units of nonfunctional currency or other property transferred. See paragraph (b) of this section with respect to the timing of interest income or expense and the determination of exchange gain or loss thereon.
+The taxpayer's basis in the units of nonfunctional currency or other property received in the transaction shall be the adjusted basis of the units of nonfunctional currency or other property transferred. See paragraph (b) of this section with respect to the timing of interest income or expense and the determination of exchange gain or loss thereon. *Example 2*
 
 (iv) *Example.* The following example illustrates the provisions of paragraph (a)(1)(iii) of this section.
 
-Example.X is a corporation on the accrual method of accounting with the U.S. dollar as its functional currency. On January 1, 1989, X acquires 1,500 British pounds (£) for $2,250 (£1 = $1.50). On January 3, 1989, when the spot rate is £1 = $1.49, X deposits the £1,500 with a British financial institution in a non-interest bearing demand account. On February 1, 1989, when the spot rate is £1 = $1.45, X withdraws the £1,500. On February 5, 1989, when the spot rate is £1 = $1.42, X purchases inventory in the amount of £1,500. Pursuant to paragraph (a)(1)(iii) of this section, no exchange loss is realized until February 5, 1989, when X disposes of the £1,500 for inventory. At that time, X realizes exchange loss in the amount of $120 computed under paragraph (a)(2) of this section. The loss is not an adjustment to the cost of the inventory.
+Example.X is a corporation on the accrual method of accounting with the U.S. dollar as its functional currency. On January 1, 1989, X acquires 1,500 British pounds (£) for $2,250 (£1 = $1.50). On January 3, 1989, when the spot rate is £1 = $1.49, X deposits the £1,500 with a British financial institution in a non-interest bearing demand account. On February 1, 1989, when the spot rate is £1 = $1.45, X withdraws the £1,500. On February 5, 1989, when the spot rate is £1 = $1.42, X purchases inventory in the amount of £1,500. Pursuant to paragraph (a)(1)(iii) of this section, no exchange loss is realized until February 5, 1989, when X disposes of the £1,500 for inventory. At that time, X realizes exchange loss in the amount of $120 computed under paragraph (a)(2) of this section. The loss is not an adjustment to the cost of the inventory.*Example 1*
+
+Table 1
+| Date1                | Swiss francs deposited | Interest received | U.S. dollar basis | Aggregate U.S. dollar basis |
+| -------------------- | ---------------------- | ----------------- | ----------------- | --------------------------- |
+| 1/01/89              | 1000 Sf                |                   | $500              | $500                        |
+| 3/31/89              |                        | 50 Sf             | 25                | 525                         |
+| 6/30/89              |                        | 50 Sf             | 24                | 549                         |
+| 9/30/89              |                        | 50 Sf             | 25                | 574                         |
+| 12/31/89             |                        | 50 Sf             | 26                | 600                         |
+| 1 Pounds to dollars. |                        |                   |                   |                             |
+
+![](/graphics/ec09oc91.070.gif)
+
+(iii) Under paragraph (b)(5) of this section, X will realize exchange gain upon repayment of the £10,000 principal amount determined by translating the £10,000 at the spot rate on the date it is received (£10,000 × $1.45 = $14,500) and subtracting from such amount, the amount determined by translating the £10,000 at the spot rate on the date the loan was made (£10,000 × $1.30 = $13,000). Accordingly, X will realize an exchange gain of $1,500 on the repayment of the loan on December 31, 1994.*Example 3.*
+
+Assume that the basis of the £1,200 paid as interest by X on December 31, 1989, is $2,000, the basis of the £1,200 paid as interest by X on December 31, 1990, is $2,020 and the basis of the £10,000 principal paid by X on December 31, 1990, is $16,000.
 
 (2) *Computation of gain or loss*—(i) *In general.* Exchange gain realized from the sale or other disposition of nonfunctional currency shall be the excess of the amount realized over the adjusted basis of such currency, and exchange loss realized shall be the excess of the adjusted basis of such currency over the amount realized.
 

@@ -1,6 +1,6 @@
 ##### § 1.408-2 Individual retirement accounts.
 
-(a) *In general.* An individual retirement account must be a trust or a custodial account (see paragraph (d) of this section). It must satisfy the requirements of paragraph (b) of this section in order to qualify as an individual retirement account. It may be established and maintained by an individual, by an employer for the benefit of his employees (see paragraph (c) of this section), or by an employee association for the benefit of its members (see paragraph (c) of this section).
+(a) *In general.* An individual retirement account must be a trust or a custodial account (see paragraph (d) of this section). It must satisfy the requirements of paragraph (b) of this section in order to qualify as an individual retirement account. It may be established and maintained by an individual, by an employer for the benefit of his employees (see paragraph (c) of this section), or by an employee association for the benefit of its members (see paragraph (c) of this section).1/2
 
 (b) *Requirements.* An individual retirement account must be a trust created or organized in the United States (as defined in section 7701(a)(9)) for the exclusive benefit of an individual or his beneficiaries. Such trust must be maintained at all times as a domestic trust in the United States. The instrument creating the trust must be in writing and the following requirements must be satisfied.
 

@@ -20,7 +20,11 @@
 
 (3) *Application of rules.* The provisions of this paragraph may be illustrated by the following examples:
 
-Example 1.A, a United States citizen, is, on January 1, 1963, a director of M, a foreign corporation. X, on January 1, 1963, is a United States person owning 5 percent in value of the outstanding stock of M Corporation. A must file a return under the provisions of subparagraph (1) of this paragraph.Example 2.(i) *Facts.* A, a United States citizen, is, on January 1, 2014, a director of M Corporation, a foreign corporation. X, on January 1, 2014, is a United States person owning 4% of the outstanding stock of M Corporation. On July 1, 2014, X acquires 4% of the outstanding stock of M Corporation and on September 1, 2014, he acquires an additional 4% of such stock.
+Example 1.A, a United States citizen, is, on January 1, 1963, a director of M, a foreign corporation. X, on January 1, 1963, is a United States person owning 5 percent in value of the outstanding stock of M Corporation. A must file a return under the provisions of subparagraph (1) of this paragraph.*Facts.*
+
+(ii) *Results.* The July 1, 2014, transaction does not give rise to liability for A to file a return; however, A must file a return as a result of the September 1, 2014, transaction because X's holdings now exceed 10%.
+
+Example 2.(i) *Facts.* A, a United States citizen, is, on January 1, 2014, a director of M Corporation, a foreign corporation. X, on January 1, 2014, is a United States person owning 4% of the outstanding stock of M Corporation. On July 1, 2014, X acquires 4% of the outstanding stock of M Corporation and on September 1, 2014, he acquires an additional 4% of such stock.
 
 (ii) *Results.* The July 1, 2014, transaction does not give rise to liability for A to file a return; however, A must file a return as a result of the September 1, 2014, transaction because X's holdings now exceed 10%.
 

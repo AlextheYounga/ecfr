@@ -4,7 +4,13 @@
 
 (2) The rules of paragraph (a)(1) of this section may be illustrated by the following example:
 
-Example.Partner A reports income using a calendar year, while the partnership of which A is a member reports its income using a fiscal year ending May 31. The partnership reports its income and deductions under the cash method of accounting. During the partnership taxable year ending May 31, 2002, the partnership makes guaranteed payments of $120,000 to A for services and for the use of capital. Of this amount, $70,000 was paid to A between June 1 and December 31, 2001, and the remaining $50,000 was paid to A between January 1 and May 31, 2002. The entire $120,000 paid to A is includible in A's taxable income for the calendar year 2002 (together with A's distributive share of partnership items set forth in section 702 for the partnership taxable year ending May 31, 2002).
+Example.Partner A reports income using a calendar year, while the partnership of which A is a member reports its income using a fiscal year ending May 31. The partnership reports its income and deductions under the cash method of accounting. During the partnership taxable year ending May 31, 2002, the partnership makes guaranteed payments of $120,000 to A for services and for the use of capital. Of this amount, $70,000 was paid to A between June 1 and December 31, 2001, and the remaining $50,000 was paid to A between January 1 and May 31, 2002. The entire $120,000 paid to A is includible in A's taxable income for the calendar year 2002 (together with A's distributive share of partnership items set forth in section 702 for the partnership taxable year ending May 31, 2002).*Example 1*
+
+| Test 6/30          | Year end | Interest in   partnership   profits | Months of deferral for 6/30 year end | Interest ×   deferral |
+| ------------------ | -------- | ----------------------------------- | ------------------------------------ | --------------------- |
+| Partner A          | 6/30     | .5                                  | 0                                    | 0                     |
+| Partner B          | 7/31     | .5                                  | 1                                    | .5                    |
+| Aggregate deferral |          |                                     |                                      | .5                    |
 
 (3) If a partner receives distributions under section 731 or sells or exchanges all or part of a partnership interest, any gain or loss arising therefrom does not constitute partnership income.
 

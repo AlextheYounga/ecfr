@@ -22,7 +22,7 @@ However, the term “other securities” does not include partnership interests 
 
 (ii) *Illustration.* The following example illustrates the application of this paragraph (a)(5).
 
-Example.In order to ensure sufficient currency reserves, the monetary authority of foreign country FC issues short-term government obligations. The amount received from the obligations is invested in U.S. financial instruments. Since the primary purpose for obtaining the U.S. financial instruments is to implement FC's monetary policy, the income received from the financial instruments is exempt from taxation under section 892.
+Example.In order to ensure sufficient currency reserves, the monetary authority of foreign country FC issues short-term government obligations. The amount received from the obligations is invested in U.S. financial instruments. Since the primary purpose for obtaining the U.S. financial instruments is to implement FC's monetary policy, the income received from the financial instruments is exempt from taxation under section 892.*Example*
 
 (b) *Illustrations.* The principles of paragraph (a) of this section may be illustrated by the following examples.
 

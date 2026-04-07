@@ -1,6 +1,6 @@
 ##### § 1.972-1 Consolidation of group of export trade corporations.
 
-(a) *Election to consolidate*—(1) *In general.* One or more United States shareholders (as defined in section 951(b)) owning (within the meaning of section 958(a)) or who are considered as owning by applying the rules of ownership of section 958(b) more than 50 percent of the total combined voting power of all classes of stock entitled to vote of an export trade corporation, which is the top-tier corporation in a chain (within the meaning of subparagraph (2) of this paragraph) of export trade corporations, may, subject to the provisions of this section, elect to consolidate such chain for purposes of determining—
+(a) *Election to consolidate*—(1) *In general.* One or more United States shareholders (as defined in section 951(b)) owning (within the meaning of section 958(a)) or who are considered as owning by applying the rules of ownership of section 958(b) more than 50 percent of the total combined voting power of all classes of stock entitled to vote of an export trade corporation, which is the top-tier corporation in a chain (within the meaning of subparagraph (2) of this paragraph) of export trade corporations, may, subject to the provisions of this section, elect to consolidate such chain for purposes of determining—Federal Register,
 
 (i) The limitations, described in section 970(a) and paragraph (b)(2) of § 1.970-1, on the amount by which subpart F income of an export trade corporation in such chain shall be reduced as provided in section 970(a) and paragraph (b)(1) of § 1.970-1, and
 
@@ -58,7 +58,7 @@ Example.Domestic corporation M owns 60 percent of the only class of stock of for
 
 |                                                | A % | B % | C % | D   % | E % |
 | ---------------------------------------------- | --- | --- | --- | ----- | --- |
-| M Corporation's interest:                      |     |     |     |       |     |
+| M Corporation's interest:a**Alternative Case** |     |     |     |       |     |
 | Direct interest                                | 60  |     |     |       |     |
 | (60% × 80%) + 20% direct interest              |     | 68  |     |       |     |
 | (60% × 80%) + 20% indirect interest            |     |     | 68  |       |     |
@@ -77,6 +77,10 @@ Example.Domestic corporation M owns 60 percent of the only class of stock of for
 | (8% × 80%)                                     |     |     |     | 6.4   |     |
 | (8% × 50%) + (8% × 50%)                        |     |     |     |       | 8   |
 | Total interests to which consolidation applies | 100 | 100 | 100 | 80    | 100 |
+
+(b) The following amounts are applicable to corporations A and B for 1964:
+
+Corporation M must include $60 in its gross income for 1964 under section 951(a)(1)(A)(ii) by reason of the application of section 970(b) as its pro rata share of the consolidated decrease in investments in export trade assets; and, for purposes of determining the amount under paragraph (c)(2)(i)(*b*)(3) of § 1.970-1 with respect to M Corporation's interest in each of corporations A and B for a subsequent taxable year, such consolidated decrease for 1964 is allocated as follows: to M Corporation's interest in A Corporation, $45 ($60 times $180/$240); and to its interest in B Corporation, $15 ($60 times $60/$240).
 
 (b) *Effect of consolidation*—(1) *Determination of subpart F income, export trade income, etc.* An election under paragraph (a) of this section to consolidate export trade corporations in a chain of such corporations shall have no effect on the determination of the character of income as subpart F income or on the determination of export trade income, export trade income which constitutes foreign base company income, or earnings and profits of the individual export trade corporations in the chain. Thus, the consolidation of export trade corporations under this section shall not have the effect of reducing earnings and profits of such corporations or of changing the characterization of income from that which is, for example, foreign base company income to that which is not. The application of this paragraph may be illustrated by the following example:
 

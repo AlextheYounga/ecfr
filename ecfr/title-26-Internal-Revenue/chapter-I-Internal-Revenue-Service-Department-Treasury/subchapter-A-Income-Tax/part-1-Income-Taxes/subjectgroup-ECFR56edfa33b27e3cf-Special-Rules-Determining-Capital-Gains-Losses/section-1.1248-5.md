@@ -28,11 +28,11 @@
 
 Example 1.During the entire period beginning December 31, 1954, and ending December 31, 1964, domestic corporation N owns all the stock of controlled foreign corporation X, a less developed country corporation. On December 31, 1964, N recognizes gain upon the sale of all its X stock. A, B, and C, who are unrelated individuals, were the only United States persons owning, or considered as owning, 10 percent or more of the total combined voting power of all classes of stock entitled to vote of N at any time during the 10-year period December 31, 1954, through December 31, 1964. The percentages of the total combined voting power in N, which A, B, and C owned during such 10-year period, are as follows:
 
-| Owner | Dec. 31, 1954-   Apr. 1, 1957 (Percent) | Apr. 2, 1957-Oct. 1, 1959 (Percent) | Oct. 2, 1959-Dec. 31, 1964 (Percent) |
-| ----- | --------------------------------------- | ----------------------------------- | ------------------------------------ |
-| A     | 20                                      | 20                                  | 20                                   |
-| B     | 9                                       | 30                                  | 30                                   |
-| C     | 30                                      | 15                                  | 9                                    |
+| Owner   Percent | Dec. 31, 1954-   Apr. 1, 1957 (Percent) | Apr. 2, 1957-Oct. 1, 1959 (Percent) | Oct. 2, 1959-Dec. 31, 1964 (Percent) |
+| --------------- | --------------------------------------- | ----------------------------------- | ------------------------------------ |
+| A               | 20                                      | 20                                  | 20                                   |
+| B               | 9                                       | 30                                  | 30                                   |
+| C               | 30                                      | 15                                  | 9                                    |
 
 Domestic corporation N does not meet the requirement of this paragraph with respect to the stock of controlled foreign corporation X for the following reasons: (i) April 2, 1957, is the first day (during the 10-year period ending on December 31, 1964, the date N sells the X stock) on which noncorporate United States shareholders of N own more than 50 percent of the total combined voting power in N, and thus the requirement of this paragraph must be met. See subparagraph (1)(i) of this paragraph. Although A, B, and C did own, in the aggregate, more than 50 percent of such voting power before April 2, 1957, the voting power owned by B is not counted because B was not a noncorporate United States shareholder of N before such date.
 

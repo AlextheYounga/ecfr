@@ -1,6 +1,6 @@
 ##### § 1.103A-2 Qualified mortgage bond.
 
-(a)-(j) \[Reserved\]
+(a)-(j) \[Reserved\]*Information reporting requirement*
 
 (k) *Information reporting requirement*—(1) *In general.* An issue meets the requirements of this paragraph only if the issuer in good faith attempted to meet the information reporting requirements of this paragraph. Except as otherwise provided in paragraph (k)(5)(iv) of this section, the requirements of this paragraph apply to qualified veterans' mortgage bonds issued after July 18, 1984, and to qualified mortgage bonds issued after December 31, 1984. With respect to bonds issued after December 31, 1986, see the regulations under section 149(e).
 
@@ -32,7 +32,7 @@
 
 (A) A table titled “Number of Mortgage Loans by Income and Acquisition Cost” showing the number of mortgage loans (other than those issued in connection with qualified home improvement and rehabilitation loans) made during the reporting period according to the annualized gross income of the borrowers (categorized in the following intervals of income:
 
-$0-$9,999 $10,000-$19,999 $20,000-$29,999 $30,000-$39,999 $40,000-$49,999 $50,000-$74,999 $75,000 or more)and according to the acquisition cost of each residence being financed (categorized in the following intervals of acquisition cost: $0-$19,999 $20,000-$39,999 $40,000-$59,999 $60,000-$79,999 $80,000-$99,999 $100,000-$119,999 $120,000-$149,999 $150,000-$199,999 $200,000 or more)For each interval of income and acquisition cost the table must also be categorized according to the number of borrowers that—
+$0-$9,999 $10,000-$19,999 $20,000-$29,999 $30,000-$39,999 $40,000-$49,999 $50,000-$74,999 $75,000 or more)Qualified Mortgage Bond Information Report Name of issuer: and according to the acquisition cost of each residence being financed (categorized in the following intervals of acquisition cost: $0-$19,999 $20,000-$39,999 $40,000-$59,999 $60,000-$79,999 $80,000-$99,999 $100,000-$119,999 $120,000-$149,999 $150,000-$199,999 $200,000 or more)For each interval of income and acquisition cost the table must also be categorized according to the number of borrowers that—
 
 (*1*) Did not have a present ownership interest in a principal residence at any time during the 3-year period ending on the date the mortgage is executed (*i.e.,* satisfied the 3-year requirement) and purchased residences in targeted areas,
 

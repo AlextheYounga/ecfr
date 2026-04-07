@@ -4,7 +4,7 @@
 
 (2) *Examples.* The following examples illustrate the rules of this paragraph (a):
 
-Example 1.(i) From 1985 through 1990, domestic corporation M owns 10 percent of the one class of stock of foreign corporation A. The remaining 90 percent of Corporation A's stock is owned by Z, a foreign corporation. Corporation A is not a controlled foreign corporation and uses the u as its functional currency. 1u equals $1 at all relevant times. Both Corporation A and Corporation M use the calendar year as the taxable year. Corporation A has pre-1987 accumulated profits and post-1986 undistributed earnings or deficits in post-1986 undistributed earnings, pays pre-1987 and post-1986 foreign income taxes, and pays dividends as summarized below:
+Example 1.(i) From 1985 through 1990, domestic corporation M owns 10 percent of the one class of stock of foreign corporation A. The remaining 90 percent of Corporation A's stock is owned by Z, a foreign corporation. Corporation A is not a controlled foreign corporation and uses the u as its functional currency. 1u equals $1 at all relevant times. Both Corporation A and Corporation M use the calendar year as the taxable year. Corporation A has pre-1987 accumulated profits and post-1986 undistributed earnings or deficits in post-1986 undistributed earnings, pays pre-1987 and post-1986 foreign income taxes, and pays dividends as summarized below: *Example 1,*
 
 | Taxable year                                                                                                               | 1985 | 1986 | 1987   | 1988 | 1989 | 1990 |
 | Current E & P (Deficits) of Corp. A                                                                                        | 150u | 150u | (100u) | 100u | 0    | 0    |

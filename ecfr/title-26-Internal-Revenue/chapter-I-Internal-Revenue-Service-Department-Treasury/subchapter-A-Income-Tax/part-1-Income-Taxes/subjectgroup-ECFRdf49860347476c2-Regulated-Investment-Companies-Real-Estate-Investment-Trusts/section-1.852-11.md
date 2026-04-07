@@ -188,7 +188,28 @@
 
 (h) *Examples.* The provisions of paragraphs (e), (f), and (g) of this section may be illustrated by the following examples. For each example, assume that X is a regulated investment company that computes its income on a calendar year basis, and that no election is in effect under section 4982(e)(4).
 
-Example 1.X has a $25 net foreign currency gain, a $50 net short-term capital loss, and a $75 net long-term capital gain for the post-October period of 1988. X has no post-October currency loss and no post-October capital loss for 1988, and this section does not apply.Example 2.X has the following capital gains and losses for the periods indicated:
+Example 1.X has a $25 net foreign currency gain, a $50 net short-term capital loss, and a $75 net long-term capital gain for the post-October period of 1988. X has no post-October currency loss and no post-October capital loss for 1988, and this section does not apply.*Capital gain dividends.*
+
+|                   | Long-term | Short-term |
+| ----------------- | --------- | ---------- |
+| 01/01 to 10/31/88 | 115       | 80         |
+|                   | (15)      | (20)       |
+|                   | 100       | 60         |
+| 11/01 to 12/31/88 | 75        | 150        |
+|                   | (150)     | (50)       |
+|                   | (75)      | 100        |
+| 01/01 to 10/31/89 | 30        | 40         |
+|                   | (5)       | (20)       |
+|                   | 25        | 20         |
+| 11/01 to 12/31/89 | 35        | 100        |
+|                   | (0)       | (50)       |
+|                   | 35        | 50         |
+
+X has a post-October capital loss of $75 for its 1988 taxable year due to a net long-term capital loss for the post-October period of 1988. X does not make an election under paragraph (f)(1) of this section.
+
+(ii) *Taxable income.* X must include the $75 long-term capital gain and the $150 long-term capital loss for its post-October period of 1988 in its taxable income for 1988 because it did not make an election under paragraph (f)(1) of this section for 1988. Accordingly, X's taxable income for 1988 will include a net capital gain of $25 and a net short-term capital gain of $160. X's taxable income for 1989 will include a net capital gain of $60 and a net short-term capital gain of $70.
+
+01/01 to 10/31/88200 11/01 to 12/31/88(100) 01/01 to 10/31/89110 11/01 to 12/31/8940Foreign Currency Gains and Losses Gains and Losses Jan. 1-Oct. 31—100 Example 2.X has the following capital gains and losses for the periods indicated:
 
 |                   | Long-term | Short-term |
 | ----------------- | --------- | ---------- |

@@ -102,6 +102,12 @@ Example 1. Recognition of gain.(i) *A* and *B* form partnership *AB* as equal pa
 
 (ii) The distribution of Security *X* is treated as a distribution of money in an amount equal to the fair market value of Security *X* on the date of distribution ($500). (The amount of the distribution that is treated as money is not reduced under section 731(c)(3)(B) and paragraph (b) of this section because, if Security *X* had been sold immediately before the distribution, there would have been no gain recognized by *AB* and *A*'s distributive share of the gain would therefore have been zero.) As a result, *A* recognizes $250 of gain under section 731(a)(1) on the distribution ($500 distribution of money less $250 adjusted tax basis in *A*'s partnership interest).
 
+|             | Value | Basis | Gain (Loss) |
+| ----------- | ----- | ----- | ----------- |
+| Security XX | 100   | 70    | 30          |
+| Security Y  | 100   | 80    | 20          |
+| Security Z  | 100   | 110   | (10)        |
+
 Example 2. Reduction in amount treated as money—in general.(i) *A* and *B* form partnership *AB* as equal partners. *AB* subsequently distributes Security *X* to *A* in a current distribution. Immediately before the distribution, *AB* held securities with the following fair market values, adjusted tax bases, and unrecognized gain or loss:
 
 |            | Value | Basis | Gain (Loss) |

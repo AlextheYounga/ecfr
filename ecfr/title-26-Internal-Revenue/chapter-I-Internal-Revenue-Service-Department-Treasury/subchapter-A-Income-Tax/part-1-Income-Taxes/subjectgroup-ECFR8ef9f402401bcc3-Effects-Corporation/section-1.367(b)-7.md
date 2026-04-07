@@ -28,14 +28,17 @@
 
 Example 1.(i) *Facts.* (A) On December 31, 2006, foreign corporations A and B have the following post-1986 undistributed earnings and post-1986 foreign income taxes:
 
-| Separate category         | E&P  | Foreign taxes |
-| ------------------------- | ---- | ------------- |
-| **Foreign Corporation A** |      |               |
-| General                   | 300u | $60           |
-| Passive                   | 100u | 40            |
-|                           | 400u | $100          |
-| **Foreign Corporation B** |      |               |
-| General                   | 300u | $70           |
+Foreign Corporation B
+| Separate category                                                           | E&P  | Foreign taxes |
+| --------------------------------------------------------------------------- | ---- | ------------- |
+| **Foreign Corporation A**Foreign Corporation A:                             |      |               |
+| General                                                                     | 300u | $60           |
+| Passive                                                                     | 100u | 40            |
+|                                                                             | 400u | $100          |
+| **Foreign Corporation B**                                                   |      |               |
+| General                                                                     | 300u | $70           |
+| \* 100u in layer/150u aggregate 2003 earnings = 66.67% × 75u distribution.  |      |               |
+| \*\* 50u in layer/150u aggregate 2003 earnings = 33.33% × 75u distribution. |      |               |
 
 (B) On January 1, 2007, foreign corporation B acquires the assets of foreign corporation A in a reorganization described in section 368(a)(1)(C). Immediately following the foreign section 381 transaction, foreign surviving corporation is a CFC.
 

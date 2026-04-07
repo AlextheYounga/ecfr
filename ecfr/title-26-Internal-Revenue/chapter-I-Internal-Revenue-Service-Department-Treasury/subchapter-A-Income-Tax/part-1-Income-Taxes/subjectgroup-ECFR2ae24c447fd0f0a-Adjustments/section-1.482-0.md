@@ -4,7 +4,7 @@ This section contains major captions for §§ 1.482-1 through 1.482-9.
 
 § 1.482-1 Allocation of income and deductions among taxpayers.
 
-(a) In general.
+(a) In general.*1*
 
 (1) Purpose and scope.
 

@@ -58,6 +58,12 @@
 
 Example.The determination dates of a pooled income fund are the first day of each calendar month. On April 1, 1971, the fair market value of the property in the fund is $100,000, at which time 1,000 units of participation are outstanding with a value of $100 each. On April 15, 1971, B transfers property with a fair market value of $50,000 to the fund, retaining for himself for life an income interest in such property. No other property is transferred to the fund after April 1, 1971. On May 1, 1971, the fair market value of the property in the fund, including the property transferred by B, is $160,000. The average of the fair market values of the property in the fund (excluding the property transferred by B) on April 1 and May 1, 1971, is $105,000 ($100,000 + \[$160,000−$50,000\] ÷ 2). Accordingly, the fair market value of a unit of participation in the fund on April 15, 1971, at the time of B's transfer may be deemed to be $105 ($105,000/1,000 units), and B is assigned 476.19 units of participation in the fund ($50,000/$105).
 
+| Beneficiary | Share of income                          |
+| ----------- | ---------------------------------------- |
+| A           | $1,350 (\[200 × $1\] + \[200 × $5.75\]). |
+| B           | $675 (\[100 × $1\] + \[100 × $5.75\]).   |
+| C           | $575 (100 × $5.75).                      |
+
 (3) *Special rule for partial allocation of income to charity.* Notwithstanding subparagraph (2) of this paragraph, the governing instrument may provide that a unit of participation is entitled to share in the income of the fund in a lesser amount than would otherwise be determined under such subparagraph, provided that the income otherwise allocable to the unit under such subparagraph is paid within the taxable year in which it is received to the public charity to or for the use of which the remainder interest is contributed under the governing instrument.
 
 (4) *Illustrations.* The application of this paragraph may be illustrated by the following examples:

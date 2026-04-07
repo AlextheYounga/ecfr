@@ -1,6 +1,6 @@
 ##### § 1.1245-2 Definition of recomputed basis.
 
-(a) *General rule*—(1) *Recomputed basis defined.* The term *recomputed basis* means, with respect to any property, an amount equal to the sum of:
+(a) *General rule*—(1) *Recomputed basis defined.* The term *recomputed basis* means, with respect to any property, an amount equal to the sum of:151/200
 
 (i) The adjusted basis of the property, as defined in section 1011, plus
 
@@ -23,6 +23,14 @@ which are reflected in the adjusted basis of such property on account of deducti
 (ii) The provisions of this subparagraph may be illustrated by the following example:
 
 Example:On January 1, 1966, Smith purchases for $1,000, and places in service, an item of property described in section 1245(a) (3)(A). Smith deducts an additional first-year allowance for depreciation under section 179 of $200. Accordingly, the basis of the property for purposes of depreciation is $800 on January 1, 1966. Between that date and January 1, 1974, Smith deducts $640 in depreciation (the amount allowable) with respect to the property, thereby reducing its adjusted basis to $160. Since this adjusted basis reflects deductions for depreciation and amortization (within the meaning of this subparagraph) amounting to $840 ($200 plus $640), the recomputed basis of the property is $1,000 ($160 plus $840).
+
+| Adjusted basis                                                | $6,000 |  |
+| Adjustments reflected in the adjusted basis:                  |        |  |
+| Depreciation deducted by Jones for 1966 and 1967 on machine X | 2,000  |  |
+| Depreciation deducted by son for 1968 on machine X            | 1,000  |  |
+| Depreciation deducted by son for 1969 on machine Y            | 1,000  |  |
+| Total adjustments reflected in the adjusted basis             | $4,000 |  |
+| Recomputed basis                                              | 10,000 |  |
 
 (4) *Adjustments of other taxpayers or in respect of other property.* (i) For purposes of subparagraph (2) of this paragraph, the adjustments reflected in adjusted basis on account of depreciation or amortization which must be taken into account in determining recomputed basis are not limited to those adjustments on account of depreciation or amortization with respect to the property disposed of, nor are such adjustments limited to those on account of depreciation or amortization allowed or allowable to the taxpayer disposing of such property. Except as provided in subparagraph (7) of this paragraph, all such adjustments are taken into account, whether the deductions were allowed or allowable in respect of the same or other property and whether to the taxpayer or to any other person. For manner of determining the amount of adjustments reflected in the adjusted basis of property immediately after certain dispositions, see paragraph (c) of this section.
 

@@ -2,9 +2,11 @@
 
 (a) *Expected return for but one life.* (1) If a contract to which section 72 applies provides that one annuitant is to receive a fixed monthly income for life, the expected return is determined by multiplying the total of the annuity payments to be received annually by the multiple shown in Table I or V (whichever is applicable) of § 1.72-9 under the age (as of the annuity starting date) and, if applicable, sex of the measuring life (usually the annuitant's). Thus, where a male purchases a contract before July 1, 1986, providing for an immediate annuity of $100 per month for his life and, as of the annuity starting date (in this case the date of purchase), the annuitant's age at his nearest birthday is 66, the expected return is computed as follows:
 
-| Monthly payment of $100 × 12 months equals annual payment of | $1,200 |
-| Multiple shown in Table I, male, age 66                      | 14.4   |
-| Expected return (1,200 × 14.4)                               | 17,280 |
+| If the number of whole months from the annuity starting date to the first payment date is— | 0-1    | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| ------------------------------------------------------------------------------------------ | ------ | - | - | - | - | - | - | - | - | -- | -- | -- |
+| Monthly payment of $100 × 12 months equals annual payment of                               | $1,200 |   |   |   |   |   |   |   |   |    |    |    |
+| Multiple shown in Table I, male, age 66                                                    | 14.4   |   |   |   |   |   |   |   |   |    |    |    |
+| Expected return (1,200 × 14.4)                                                             | 17,280 |   |   |   |   |   |   |   |   |    |    |    |
 
 If, however, the taxpayer had purchased the contract after June 30, 1986, the expected return would be $23,040, determined by multiplying 19.2 (multiple shown in Table V, age 66) by $1,200.
 
@@ -87,7 +89,7 @@ If payments are to be made quarterly, semiannually, or annually, an appropriate 
 
 (2) If a contract of the type described in subparagraph (1) of this paragraph provides that a different (rather than an identical) monthly income is payable to the second annuitant, the expected return is computed in the following manner. The applicable multiple in Table II or VI (whichever is applicable) is first found as in the example in subparagraph (1) of this paragraph. The multiple applicable to the first annuitant is then found in Table I or V (whichever is applicable) as though the contract were for a single life annuity. The multiple from Table I or V is then subtracted from the multiple obtained from Table II or VI and the resulting multiple is applied to the total payments to be received annually under the contract by the second annuitant. The result is the expected return with respect to the second annuitant. The portion of the expected return with respect to payments to be made during the first annuitant's life is then computed by applying the multiple found in Table I or V to the total annual payments to be received by such annuitant under the contract. The expected returns with respect to each of the annuitants separately are then aggregated to obtain the expected return under the entire contract.
 
-Example 1.A husband purchases a joint and survivor annuity providing for payments of $100 per month for his life and, after his death, payments to his wife of $50 per month for her life. As of the annuity starting date his age at his nearest birthday is 70 and that of his wife at her nearest birthday is 67. There is no post-June 1986 investment in the contract.
+Example 1.A husband purchases a joint and survivor annuity providing for payments of $100 per month for his life and, after his death, payments to his wife of $50 per month for her life. As of the annuity starting date his age at his nearest birthday is 70 and that of his wife at her nearest birthday is 67. There is no post-June 1986 investment in the contract. *Post-June 1986 Computation (all references to unit payments are to the post-June 1986 applicable portion of such payments):*
 
 | Multiple from Table II (male, age 70, female, age 67)       | 19.7    |
 | Multiple from Table I (male, age 70)                        | 12.1    |
@@ -96,7 +98,11 @@ Example 1.A husband purchases a joint and survivor annuity providing for payment
 | Portion of expected return, first annuitant ($1,200 × 12.1) | $14,520 |
 | Expected return under the contract                          | $19,080 |
 
-The expected return thus found, $19,080, is to be used in computing the amount to be excluded from gross income. Thus, if the investment in the contract in this example is $14,310, the exclusion ratio is $14,310 ÷ $19,080; or 75 percent. The amount excludable from each monthly payment made to the husband is 75 percent of $100, or $75, and the remaining $25 of each payment received by him shall be included in his gross income. After the husband's death, the amount excludable by the second annuitant (the surviving wife) would be 75 percent of each monthly payment of $50, or $37.50, and the remaining $12.50 of each payment shall be included in her gross income.Example 2.If the same contract were purchased after June 30, 1986, the expected return would be $22,800, computed as follows:
+The expected return thus found, $19,080, is to be used in computing the amount to be excluded from gross income. Thus, if the investment in the contract in this example is $14,310, the exclusion ratio is $14,310 ÷ $19,080; or 75 percent. The amount excludable from each monthly payment made to the husband is 75 percent of $100, or $75, and the remaining $25 of each payment received by him shall be included in his gross income. After the husband's death, the amount excludable by the second annuitant (the surviving wife) would be 75 percent of each monthly payment of $50, or $37.50, and the remaining $12.50 of each payment shall be included in her gross income.
+
+The expected return under the contract is computed as follows:*Pre-July 1986 Computation (all references to unit payments are to the pre-July 1986 applicable portion of such payments):*
+
+Example 2.If the same contract were purchased after June 30, 1986, the expected return would be $22,800, computed as follows:
 
 | Multiple from Table VI (ages 70, 67)                              | 22.0    |
 | Multiple from Table V (age 70)                                    | 16.0    |

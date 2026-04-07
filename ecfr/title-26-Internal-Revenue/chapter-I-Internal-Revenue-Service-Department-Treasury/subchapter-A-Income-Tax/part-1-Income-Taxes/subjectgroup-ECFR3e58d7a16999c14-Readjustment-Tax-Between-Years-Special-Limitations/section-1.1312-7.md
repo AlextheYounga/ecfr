@@ -1,6 +1,6 @@
 ##### § 1.1312-7 Basis of property after erroneous treatment of a prior transaction.
 
-(a) Paragraph (7) of section 1312 applies if the determination establishes the basis of property, and there occurred one of the following types of errors in respect of a prior transaction upon which such basis depends, or in respect of a prior transaction which was erroneously treated as affecting such basis:
+(a) Paragraph (7) of section 1312 applies if the determination establishes the basis of property, and there occurred one of the following types of errors in respect of a prior transaction upon which such basis depends, or in respect of a prior transaction which was erroneously treated as affecting such basis:*Effective/applicability date.*
 
 (1) An erroneous inclusion in, or omission from, gross income, or
 

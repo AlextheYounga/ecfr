@@ -2,7 +2,7 @@
 
 (a) *Table of contents.* The contents of this section are as follows:
 
-(a) Table of contents.
+(a) Table of contents.*1*
 
 (b) Scope.
 

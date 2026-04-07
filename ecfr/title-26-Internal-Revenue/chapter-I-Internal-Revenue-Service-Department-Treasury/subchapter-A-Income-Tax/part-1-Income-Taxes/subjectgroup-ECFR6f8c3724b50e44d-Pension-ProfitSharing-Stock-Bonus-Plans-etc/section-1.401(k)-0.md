@@ -4,7 +4,7 @@ This section contains first a list of section headings and then a list of the pa
 
 List of Sections § 1.401(k)-1 Certain cash or deferred arrangements. § 1.401(k)-2 ADP test. § 1.401(k)-3 Safe harbor requirements. § 1.401(k)-4 SIMPLE 401(k) plan requirements. § 1.401(k)-5 Special rules for mergers, acquisitions and similar events. \[Reserved\] § 1.401(k)-6 Definitions. List of Paragraphs § 1.401(k)-1 Certain cash or deferred arrangements.
 
-(a) General rules.
+(a) General rules.1/2
 
 (1) Certain plans permitted to include cash or deferred arrangements.
 

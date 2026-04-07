@@ -1,6 +1,6 @@
 ##### § 1.1502-1 Definitions.
 
-For purposes of the consolidated return regulations (and any provision of this chapter that refers to the consolidated return regulations):
+For purposes of the consolidated return regulations (and any provision of this chapter that refers to the consolidated return regulations):*Group.*
 
 (a) *Group.* The term *group* means an affiliated group of corporations as defined in section 1504. See § 1.1502-75(d) as to when a group remains in existence. Except as the context otherwise requires, references to a group are references to a consolidated group (as defined in paragraph (h) of this section).
 

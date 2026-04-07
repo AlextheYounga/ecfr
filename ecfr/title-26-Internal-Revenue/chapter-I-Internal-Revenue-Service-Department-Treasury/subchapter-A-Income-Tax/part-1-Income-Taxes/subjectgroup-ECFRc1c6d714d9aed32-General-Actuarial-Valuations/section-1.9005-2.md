@@ -1,6 +1,6 @@
 ##### § 1.9005-2 Effect of election.
 
-(a) *In general.* If a taxpayer makes the election described in paragraph (b) of § 1.9005-1, he shall be deemed to have consented to the application of section 2 of the Act with respect to all the clay and quartzite described in that paragraph for all taxable years for which the election is effective whether or not the taxpayer is litigating the issue for any of such years. Thus, in applying section 613(c) of the Internal Revenue Code of 1954 (and corresponding provisions of the Internal Revenue Code of 1939) to those years:
+(a) *In general.* If a taxpayer makes the election described in paragraph (b) of § 1.9005-1, he shall be deemed to have consented to the application of section 2 of the Act with respect to all the clay and quartzite described in that paragraph for all taxable years for which the election is effective whether or not the taxpayer is litigating the issue for any of such years. Thus, in applying section 613(c) of the Internal Revenue Code of 1954 (and corresponding provisions of the Internal Revenue Code of 1939) to those years:1/2
 
 (1) The term “ordinary treatment processes” shall include crushing, grinding, and separating the mineral from waste, but shall not include any subsequent process; and
 

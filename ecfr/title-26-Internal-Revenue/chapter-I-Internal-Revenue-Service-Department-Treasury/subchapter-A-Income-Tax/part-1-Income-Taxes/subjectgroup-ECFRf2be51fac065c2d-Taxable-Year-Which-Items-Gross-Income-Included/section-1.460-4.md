@@ -74,7 +74,26 @@
 
 (h) *Examples.* The following examples illustrate the rules of this section:
 
-Example 1. PCM—estimating total contract price.C, whose taxable year ends December 31, determines the income from long-term contracts using the PCM. On January 1, 2001, C enters into a contract to design and manufacture a satellite (a unique item). The contract provides that C will be paid $10,000,000 for delivering the completed satellite by December 1, 2002. The contract also provides that C will receive a $3,000,000 bonus for delivering the satellite by July 1, 2002, and an additional $4,000,000 bonus if the satellite successfully performs its mission for five years. C is unable to reasonably predict if the satellite will successfully perform its mission for five years. If on December 31, 2001, C should reasonably expect to deliver the satellite by July 1, 2002, the estimated total contract price is $13,000,000 ($10,000,000 unit price + $3,000,000 production-related bonus). Otherwise, the estimated total contract price is $10,000,000. In either event, the $4,000,000 bonus is not includible in the estimated total contract price as of December 31, 2001, because C is unable to reasonably predict that the satellite will successfully perform its mission for five years.Example 2. PCM—computing income.(i) C, whose taxable year ends December 31, determines the income from long-term contracts using the PCM. During 2001, C agrees to manufacture for the customer, B, a unique item for a total contract price of $1,000,000. Under C's contract, B is entitled to retain 10 percent of the total contract price until it accepts the item. By the end of 2001, C has incurred $200,000 of allocable contract costs and estimates that the total allocable contract costs will be $800,000. By the end of 2002, C has incurred $600,000 of allocable contract costs and estimates that the total allocable contract costs will be $900,000. In 2003, after completing the contract, C determines that the actual cost to manufacture the item was $750,000.
+Example 1. PCM—estimating total contract price.C, whose taxable year ends December 31, determines the income from long-term contracts using the PCM. On January 1, 2001, C enters into a contract to design and manufacture a satellite (a unique item). The contract provides that C will be paid $10,000,000 for delivering the completed satellite by December 1, 2002. The contract also provides that C will receive a $3,000,000 bonus for delivering the satellite by July 1, 2002, and an additional $4,000,000 bonus if the satellite successfully performs its mission for five years. C is unable to reasonably predict if the satellite will successfully perform its mission for five years. If on December 31, 2001, C should reasonably expect to deliver the satellite by July 1, 2002, the estimated total contract price is $13,000,000 ($10,000,000 unit price + $3,000,000 production-related bonus). Otherwise, the estimated total contract price is $10,000,000. In either event, the $4,000,000 bonus is not includible in the estimated total contract price as of December 31, 2001, because C is unable to reasonably predict that the satellite will successfully perform its mission for five years.*Facts.*
+
+(ii) For each of the taxable years, C's income from the contract is computed as follows:*Old taxpayer.*
+
+|                                            | Taxable Year |
+| ------------------------------------------ | ------------ |
+| (A) Cumulative incurred costs              | $200,000     |
+| (B) Estimated total costs                  | 800,000      |
+| (C) Completion factor: (A) ÷ (B)           | 25.00%       |
+| (D) Total contract price                   | 1,000,000    |
+| (E) Cumulative gross receipts: (C) × (D)   | 250,000      |
+| (F) Cumulative gross receipts (prior year) | (0)          |
+| (G) Current-year gross receipts            | 250,000      |
+| (H) Cumulative incurred costs              | 200,000      |
+| (I) Cumulative incurred costs (prior year) | (0)          |
+| (J) Current-year costs                     | 200,000      |
+| (K) Gross income: (G) − (J)                | $50,000      |
+| \*Unless (C) <10 percent.                  |              |
+
+Example 2. PCM—computing income.(i) C, whose taxable year ends December 31, determines the income from long-term contracts using the PCM. During 2001, C agrees to manufacture for the customer, B, a unique item for a total contract price of $1,000,000. Under C's contract, B is entitled to retain 10 percent of the total contract price until it accepts the item. By the end of 2001, C has incurred $200,000 of allocable contract costs and estimates that the total allocable contract costs will be $800,000. By the end of 2002, C has incurred $600,000 of allocable contract costs and estimates that the total allocable contract costs will be $900,000. In 2003, after completing the contract, C determines that the actual cost to manufacture the item was $750,000.
 
 (ii) For each of the taxable years, C's income from the contract is computed as follows:
 

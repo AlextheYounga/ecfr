@@ -90,7 +90,7 @@
 
 (4) *Examples.* The following examples illustrate the application of this paragraph (g). In each example, all taxpayers are calendar-year taxpayers, no taxpayer is insolvent or under the jurisdiction of a court in a title 11 case and no indebtedness is qualified farm indebtedness described in section 108(g).
 
-Example 1.(i) P, a domestic corporation, owns 70 percent of the single class of stock of S, a domestic corporation. S has outstanding indebtedness that has an issue price of $10,000,000 and provides for monthly interest payments of $80,000 payable at the end of each month and a payment at maturity of $10,000,000. The indebtedness has a stated maturity date of December 31, 1994. On January 1, 1992, P purchases S's indebtedness from I, an individual not related to S within the meaning of paragraph (d)(2) of this section, for cash in the amount of $9,000,000. S repays the indebtedness in full at maturity.
+Example 1.(i) P, a domestic corporation, owns 70 percent of the single class of stock of S, a domestic corporation. S has outstanding indebtedness that has an issue price of $10,000,000 and provides for monthly interest payments of $80,000 payable at the end of each month and a payment at maturity of $10,000,000. The indebtedness has a stated maturity date of December 31, 1994. On January 1, 1992, P purchases S's indebtedness from I, an individual not related to S within the meaning of paragraph (d)(2) of this section, for cash in the amount of $9,000,000. S repays the indebtedness in full at maturity. *Example 1,*
 
 (ii) Under section 61(a)(12), section 108(e)(4), and paragraphs (a) and (f) of this section, S realizes $1,000,000 of income from discharge of indebtedness on January 1, 1992.
 

@@ -52,7 +52,7 @@ For purposes of section 1231, the phrase *property used in the trade or business
 
 Example 1.A, an individual, makes his income tax return on the calendar year basis. A's recognized gains and losses for 1957 of the kind described in section 1231 are as follows:
 
-|                                                                                                                                                                                       | Gains  | Losses |
+| Gains                                                                                                                                                                                 | Gains  | Losses |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
 | 1\. Gain on sale of machinery, used in the business and subject to an allowance for depreciation, held for more than 6 months                                                         | $4,000 |        |
 | 2\. Gain reported in 1957 (under section 453) on installment sale in 1956 of factory premises used in the business (including building and land, each held for more than 6 months)    | 6,000  |        |

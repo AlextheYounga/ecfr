@@ -4,7 +4,7 @@ This section lists the paragraphs in §§ 1.263(a)-1 through 1.263(a)-3 and § 1
 
 § 1.263(a)-1 Capital expenditures; in general.
 
-(a) General rule for capital expenditures.
+(a) General rule for capital expenditures.*1*
 
 (b) Coordination with other provisions of the Internal Revenue Code.
 

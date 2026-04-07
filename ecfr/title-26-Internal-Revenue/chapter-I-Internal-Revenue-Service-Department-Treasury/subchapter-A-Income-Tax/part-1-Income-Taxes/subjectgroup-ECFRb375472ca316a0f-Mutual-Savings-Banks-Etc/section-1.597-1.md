@@ -1,6 +1,6 @@
 ##### § 1.597-1 Definitions.
 
-For purposes of the regulations under section 597—
+For purposes of the regulations under section 597—*consolidated group, member*
 
 (a) Unless the context otherwise requires, the terms *consolidated group, member* and *subsidiary* have the meanings provided in § 1.1502-1; and
 

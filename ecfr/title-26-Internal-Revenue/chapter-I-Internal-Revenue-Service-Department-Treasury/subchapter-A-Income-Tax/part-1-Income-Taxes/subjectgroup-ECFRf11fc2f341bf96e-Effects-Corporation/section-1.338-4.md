@@ -14,7 +14,19 @@
 
 (iii) *Example.* The following example illustrates this paragraph (b)(2):
 
-Example.In Year 1, T, a manufacturer, purchases a customized delivery truck from X with purchase money indebtedness having a stated principal amount of $100,000. P acquires all of the stock of T in Year 3 for $700,000 and makes a section 338 election for T. Assume T has no liabilities other than its purchase money indebtedness to X. In Year 4, when T is neither insolvent nor in a title 11 case, T and X agree to reduce the amount of the purchase money indebtedness to $80,000. Assume further that the reduction would be a purchase price reduction under section 108(e)(5). T and X's agreement to reduce the amount of the purchase money indebtedness would not, under general principles of tax law that would apply if the deemed asset sale had actually occurred, change the amount of liabilities of old target taken into account in determining its amount realized. Accordingly, ADSP is not redetermined at the time of the reduction. See § 1.338-5(b)(2)(iii) *Example 1* for the effect on AGUB.
+Example.In Year 1, T, a manufacturer, purchases a customized delivery truck from X with purchase money indebtedness having a stated principal amount of $100,000. P acquires all of the stock of T in Year 3 for $700,000 and makes a section 338 election for T. Assume T has no liabilities other than its purchase money indebtedness to X. In Year 4, when T is neither insolvent nor in a title 11 case, T and X agree to reduce the amount of the purchase money indebtedness to $80,000. Assume further that the reduction would be a purchase price reduction under section 108(e)(5). T and X's agreement to reduce the amount of the purchase money indebtedness would not, under general principles of tax law that would apply if the deemed asset sale had actually occurred, change the amount of liabilities of old target taken into account in determining its amount realized. Accordingly, ADSP is not redetermined at the time of the reduction. See § 1.338-5(b)(2)(iii) *Example 1* for the effect on AGUB.V
+
+(ii) ADSP is determined as follows (for purposes of this section (g), G is the grossed-up amount realized on the sale to P of P's recently purchased T stock, L is T's liabilities other than T's tax liability for the deemed sale tax consequences, TR is the applicable tax rate, and B is the adjusted basis of the asset deemed sold):*Example 1,*
+
+ADSP = G + L + TR × (ADSP−B)
+
+| Asset                                  | Basis   | FMV      | Ratio of asset FMV to total Class V FMV |
+| -------------------------------------- | ------- | -------- | --------------------------------------- |
+| Land                                   | $5,000  | $35,000  | .14                                     |
+| Building                               | 10,000  | 50,000   | .20                                     |
+| Equipment A (Recomputed basis $80,000) | 5,000   | 90,000   | .36                                     |
+| Equipment B (Recomputed basis $20,000) | 10,000  | 75,000   | .30                                     |
+| Totals                                 | $30,000 | $250,000 | 1.00                                    |
 
 (c) *Grossed-up amount realized on the sale to the purchasing corporation of the purchasing corporation's recently purchased target stock*—(1) *Determination of amount.* The grossed-up amount realized on the sale to the purchasing corporation of the purchasing corporation's recently purchased target stock is an amount equal to—
 

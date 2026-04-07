@@ -53,7 +53,7 @@ Example 1.A taxpayer with one dependent who has been granted permission under se
 | Tax on $12,000 (after credits)                                                             |         |          | 3,348.40   |
 | Tax for 10-month period ($3,348.40 × 10/12)                                                |         |          | 2,790.33   |
 
-Example 2.The X Corporation makes a return for the one-month period ending September 30, 1956, because of a change in annual accounting period permitted under section 442. Income and expenses for the short period are as follows:
+The tax of $2,700 computed under section 443(b)(2)(A)(i) is greater than the tax of $2,529, computed under section 443(b)(2)(A)(ii), and is, therefore, the tax under section 443(b)(2). Since the tax of $2,700 (computed under section 443(b)(2)) is less than the tax of $2,790.33 (computed under section 443(b)(1)) on the annualized income of the short period (see Example 1 of paragraph (b)(1)(vii) of this section), the taxpayer's tax for the 10-month short period is $2,700.Example 2.The X Corporation makes a return for the one-month period ending September 30, 1956, because of a change in annual accounting period permitted under section 442. Income and expenses for the short period are as follows:
 
 | Gross operating income                                                                           | $126,000 |         |
 | Business expenses                                                                                | 130,000  |         |

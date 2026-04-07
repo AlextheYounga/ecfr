@@ -1,6 +1,6 @@
 ##### § 1.1042-1T Questions and answers relating to the sales of stock to employee stock ownership plans or certain cooperatives (temporary).
 
-Q-1: What does section 1042 provide?
+Q-1: What does section 1042 provide?*qualified securities*
 
 A-1: (a) Section 1042 provides rules under which a taxpayer may elect not to recognize gain in certain cases where *qualified securities* are sold to a qualifying employee stock ownership plan or worker-owned cooperative in taxable years of the seller beginning after July 18, 1984, and *qualified replacement property* is purchased by the taxpayer within the *replacement period.* If the requirements of Q&A-2 of this section are met, and if the taxpayer makes an election under section 1042(a) in accordance with Q&A-3 of this section, the gain realized by the taxpayer on the sale of the qualified securities is recognized only to the extent that the amount realized on such sale exceeds the cost to the taxpayer of the qualified replacement property.
 

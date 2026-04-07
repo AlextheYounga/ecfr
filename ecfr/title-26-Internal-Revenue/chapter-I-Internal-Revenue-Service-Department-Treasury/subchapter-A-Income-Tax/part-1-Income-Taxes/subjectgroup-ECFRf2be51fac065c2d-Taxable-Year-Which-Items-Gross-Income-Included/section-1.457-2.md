@@ -1,6 +1,6 @@
 ##### § 1.457-2 Definitions.
 
-This section sets forth the definitions that are used under §§ 1.457-1 through 1.457-11.
+This section sets forth the definitions that are used under §§ 1.457-1 through 1.457-11.*Amount(s) deferred. Amount(s) deferred*
 
 (a) *Amount(s) deferred. Amount(s) deferred* means the total annual deferrals under an eligible plan in the current and prior years, adjusted for gain or loss. Except as provided at §§ 1.457-4(c)(1)(iii) and 1.457-6(a), amount(s) deferred includes any rollover amount held by an eligible plan as provided under § 1.457-10(e).
 

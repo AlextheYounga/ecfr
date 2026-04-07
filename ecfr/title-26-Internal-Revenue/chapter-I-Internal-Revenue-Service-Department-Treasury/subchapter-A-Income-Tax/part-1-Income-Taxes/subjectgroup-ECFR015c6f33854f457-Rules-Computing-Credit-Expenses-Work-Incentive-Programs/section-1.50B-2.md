@@ -12,11 +12,20 @@
 
 Example 1.(i) X Corporation, an electing small business corporation which files its returns on the basis of the calendar year, hired WIN employees on July 1, 1972, whose employment was continuous for the next 24 months. A, a shareholder, has a 10 percent interest in X Corporation. X Corporation incurred $24,000 in wages with respect to these WIN employees in calendar year 1972, and $48,000 in calendar year 1973. Assuming that during 1972 shareholder A did not directly incur any other WIN expenses and did not own any other interest in other electing small business corporations, partnerships, estates, or trusts that incurred WIN expenses, for taxable year 1972 shareholder A's credit earned of $480 (10 percent (A's ownership interest) multiplied by $24,000 of WIN expenses multiplied by 20 percent) was allowed under section 40 as a credit against his liability for tax.
 
-(ii) On March 1, 1973, shareholder A sold all of his interest to B, a new shareholder. Therefore, the employment of the WIN employees is deemed terminated for purposes of paragraph (a) of § 1.50A-3 with respect to shareholder A. For taxable year 1972, A's recomputed credit is zero because the termination occurred before the end of the period described in paragraph (a)(1) of § 1.50A-3. The income tax imposed by chapter 1 of the Code on A for the taxable year 1973 is increased by the $480 decrease in his credit earned for the taxable year 1972 (that is, $480 original credit earned minus zero recomputed credit earned). Under paragraph (a) of this section A has no credit earned for 1973.
+(ii) On March 1, 1973, shareholder A sold all of his interest to B, a new shareholder. Therefore, the employment of the WIN employees is deemed terminated for purposes of paragraph (a) of § 1.50A-3 with respect to shareholder A. For taxable year 1972, A's recomputed credit is zero because the termination occurred before the end of the period described in paragraph (a)(1) of § 1.50A-3. The income tax imposed by chapter 1 of the Code on A for the taxable year 1973 is increased by the $480 decrease in his credit earned for the taxable year 1972 (that is, $480 original credit earned minus zero recomputed credit earned). Under paragraph (a) of this section A has no credit earned for 1973.*i.e.,*
 
 (iii) Under paragraph (a)(1) of this section, assuming that during 1973 shareholder B did not directly incur any other WIN expenses and that he did not own any interest in other electing small business corporations, partnerships, estates, or trusts that incurred WIN expenses, shareholder B's credit earned is $480 (10 percent (B's ownership interest) multiplied by $24,000 of WIN expenses multiplied by 20 percent) and is allowable under section 40 as a credit against his liability for tax. Under paragraph (a)(3) for purposes of determining the period of employment that may be taken into account by B the initial date of employment of these WIN employees relates back to the date they were first employed, *i.e.,* July 1, 1972. Thus, the first 12 months of employment ends on June 30, 1973.
 
-Example 2.(i) Y Corporation, an electing small business corporation which files its return on the basis of the calendar year, hires five WIN employees in 1972. The WIN expenses incurred with respect to each employee are as follows:
+| WIN employee No. | WIN expenses |
+| ---------------- | ------------ |
+| 1                | $6,000       |
+| 2                | 5,000        |
+| 3                | 4,000        |
+| 4                | 4,000        |
+| 5                | 3,000        |
+| Total            | 22,000       |
+
+On December 31, 1972, Y Corporation has 10 shares of stock outstanding which are owned as follows: A owns 3 shares, B owns 2 shares, and C owns 5 shares. Example 2.(i) Y Corporation, an electing small business corporation which files its return on the basis of the calendar year, hires five WIN employees in 1972. The WIN expenses incurred with respect to each employee are as follows:
 
 | WIN employee No. | WIN expenses |
 | ---------------- | ------------ |

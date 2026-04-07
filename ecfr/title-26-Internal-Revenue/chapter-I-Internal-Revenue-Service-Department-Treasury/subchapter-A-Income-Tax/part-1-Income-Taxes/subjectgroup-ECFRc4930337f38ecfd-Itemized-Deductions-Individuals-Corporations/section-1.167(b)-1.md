@@ -4,14 +4,19 @@
 
 (b) *Illustrations.* The straight line method is illustrated by the following examples:
 
-Example 1.Under the straight line method items may be depreciated separately:
+Example 1.Under the straight line method items may be depreciated separately: *i.e.*2/3
 
+Depreciable Asset Account and Depreciation Computation on Average Balances
 | Year and item                                                                           | Cost or other basis less salaries | Useful life (years) | Depreciation allowable |
 | --------------------------------------------------------------------------------------- | --------------------------------- | ------------------- | ---------------------- |
-| 1954:                                                                                   |                                   |                     |                        |
+| 1954:1                                                                                  |                                   |                     |                        |
 | Asset A                                                                                 | $1,600                            | 4                   | 1 $200                 |
 | Asset B                                                                                 | 12,000                            | 40                  | 1 150                  |
 | 1 In this example it is assumed that the assets were placed in service on July 1, 1954. |                                   |                     |                        |
+
+Average rate is 13.33 percent ($2,667 ÷ $20,000) unadjusted for salvage. Assuming the estimated salvage value is 10 percent of the cost or other basis, the rate adjusted for salvage will be 13.33 percent minus 10 percent of 13.33 percent (13.33%−1.33%), or 12 percent.
+
+1954—Initial investment of $12,000.
 
 Example 2.In group, classified, or composite accounting, a number of assets with the same or different useful lives may be combined into one account, and a single rate of depreciation, *i.e.*, the group, classified, or composite rate used for the entire account. In the case of group accounts, *i.e.*, accounts containing assets which are similar in kind and which have approximately the same estimated useful lives, the group rate is determined from the average of the useful lives of the assets. In the case of classified or composite accounts, the classified or composite rate is generally computed by determining the amount of one year's depreciation for each item or each group of similar items, and by dividing the total depreciation thus obtained by the total cost or other basis of the assets. The average rate so obtained is to be used as long as subsequent additions, retirements, or replacements do not substantially alter the relative proportions of different types of assets in the account. An example of the computation of a classified or composite rate follows:
 

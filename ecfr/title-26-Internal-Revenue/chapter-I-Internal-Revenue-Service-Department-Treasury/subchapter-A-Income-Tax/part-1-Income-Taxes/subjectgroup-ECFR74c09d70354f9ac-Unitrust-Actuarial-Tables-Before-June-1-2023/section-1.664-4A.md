@@ -48,7 +48,7 @@ Example.A, who will be 50 years old on April 15, 1985, transfers $100,000 to a c
 
 (6) *Actuarial tables for transfers for which the valuation date is after November 30, 1983, and before May 1, 1989.* Table D in § 1.664-4(e)(6) and the following tables shall be used in the application of the provisions of this section:
 
-Table E
+Table E**Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 
 **Table E—Single Life, Unisex—Table Showing the Present Worth of the Remainder Interest in Property Transferred to a Unitrust Having the Adjusted Payout Rate Shown—Applicable for Transfers After November 30, 1983, and Before May 1, 1989**
 | (1) Age | (2) Adjusted payout rate |

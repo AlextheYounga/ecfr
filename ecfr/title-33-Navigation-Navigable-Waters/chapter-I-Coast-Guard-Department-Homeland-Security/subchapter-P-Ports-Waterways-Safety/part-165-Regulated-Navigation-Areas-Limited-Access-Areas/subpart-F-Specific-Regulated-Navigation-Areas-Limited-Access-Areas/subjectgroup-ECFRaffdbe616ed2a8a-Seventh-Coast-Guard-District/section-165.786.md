@@ -1,18 +1,18 @@
 ##### § 165.786 Safety Zone; recurring marine events, Sector Key West, Florida.
 
-(a) *Regulations.* (1) In accordance with 33 CFR 165.23, entering, transiting through, anchoring in, or remaining within the safety zones listed in the Table to § 165.786 during periods of enforcement is prohibited unless authorized by the Captain of the Port (COTP) Sector Key West or a designated representative.
+(a) *Regulations.* (1) In accordance with 33 CFR 165.23, entering, transiting through, anchoring in, or remaining within the safety zones listed in the Table to § 165.786 during periods of enforcement is prohibited unless authorized by the Captain of the Port (COTP) Sector Key West or a designated representative. 
 
-(2) These regulations will be enforced for the duration of each event. Notifications of exacts dates and times of the enforcement period will be made to the local maritime community through the Local Notice to Mariners and Broadcast Notice to Mariners and through a Notice of Enforcement in the Federal Register well in advance of the events. Mariners should consult the Federal Register or their Local Notice to Mariners to remain apprised of schedule their Local Notice to Mariners to remain apprised of schedule or event changes.
+(2) These regulations will be enforced for the duration of each event. Notifications of exacts dates and times of the enforcement period will be made to the local maritime community through the Local Notice to Mariners and Broadcast Notice to Mariners and through a Notice of Enforcement in the Federal Register well in advance of the events. Mariners should consult the Federal Register or their Local Notice to Mariners to remain apprised of schedule their Local Notice to Mariners to remain apprised of schedule or event changes. 
 
-(3) During periods of enforcement, upon being hailed by a Coast Guard vessel by siren, radio, flashing light or other means, the operator must proceed as directed.
+(3) During periods of enforcement, upon being hailed by a Coast Guard vessel by siren, radio, flashing light or other means, the operator must proceed as directed. 
 
-(4) Vessel operators desiring to enter, transit through, anchor in, or remain within the regulated area during the enforcement period shall contact the COTP Sector Key West or the designated on-scene representative via VHF channel 16 or call the Sector Key West Command Center at (305) 292-8727 to obtain permission.
+(4) Vessel operators desiring to enter, transit through, anchor in, or remain within the regulated area during the enforcement period shall contact the COTP Sector Key West or the designated on-scene representative via VHF channel 16 or call the Sector Key West Command Center at (305) 292-8727 to obtain permission. 
 
-(b) *Definition.* The term “designated representative” means Coast Guard Patrol Commanders, including Coast Guard coxswains, petty officers, and other officers operating Coast Guard vessels, and Federal, state, and local officers designated by or assisting the COTP Key West in the enforcement of the regulated areas.
+(b) *Definition.* The term “designated representative” means Coast Guard Patrol Commanders, including Coast Guard coxswains, petty officers, and other officers operating Coast Guard vessels, and Federal, state, and local officers designated by or assisting the COTP Key West in the enforcement of the regulated areas. 
 
-(c) The COTP Key West or designated representative may delay or terminate any event in this subpart at any time to ensure safety of life or property. Such action may be justified as a result of weather, traffic density, spectator operation, or participant behavior.
+(c) The COTP Key West or designated representative may delay or terminate any event in this subpart at any time to ensure safety of life or property. Such action may be justified as a result of weather, traffic density, spectator operation, or participant behavior. 
 
-(d) The regulated area for all marine events listed in Table 1 of § 165.786 is that area of navigable waters within 50 yards in front of the lead safety vessel preceding the first event participants, 50 yards behind the safety vessel trailing the last event participants, and at all times extend 100 yards on either side of safety vessels.
+(d) The regulated area for all marine events listed in Table 1 of § 165.786 is that area of navigable waters within 50 yards in front of the lead safety vessel preceding the first event participants, 50 yards behind the safety vessel trailing the last event participants, and at all times extend 100 yards on either side of safety vessels. 
 
 Table to § 165.786
 

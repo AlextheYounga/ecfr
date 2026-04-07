@@ -28,9 +28,9 @@
 
 (B) *Example.* The following example illustrates the definitions in paragraph (a)(9) of this section:
 
-Example.(i) Stock X and Stock Y are underlying securities. A and B enter into an NPC that entitles A to receive payments from B based on any appreciation in the value of Stock X and dividends paid on Stock X during the term of the contract and obligates A to make payments to B based on any depreciation in the value of Stock X during the term of the contract. In return, the NPC entitles B to receive payments from A based on any appreciation in the value of Stock Y and dividends paid on Stock Y during the term of the contract and obligates B to make payments to A based on any depreciation in the value of Stock Y during the term of the contract.
+Example.(i) Stock X and Stock Y are underlying securities. A and B enter into an NPC that entitles A to receive payments from B based on any appreciation in the value of Stock X and dividends paid on Stock X during the term of the contract and obligates A to make payments to B based on any depreciation in the value of Stock X during the term of the contract. In return, the NPC entitles B to receive payments from A based on any appreciation in the value of Stock Y and dividends paid on Stock Y during the term of the contract and obligates B to make payments to A based on any depreciation in the value of Stock Y during the term of the contract. *Delta calculation for an NPC.*
 
-(ii) A is the long party with respect to Stock X, and the short party with respect to Stock Y. B is the long party with respect to Stock Y, and the short party with respect to Stock X.
+(ii) A is the long party with respect to Stock X, and the short party with respect to Stock Y. B is the long party with respect to Stock Y, and the short party with respect to Stock X.*Application of rules.*
 
 (10) *Payment.* A *payment* has the meaning provided in paragraph (i) of this section.
 

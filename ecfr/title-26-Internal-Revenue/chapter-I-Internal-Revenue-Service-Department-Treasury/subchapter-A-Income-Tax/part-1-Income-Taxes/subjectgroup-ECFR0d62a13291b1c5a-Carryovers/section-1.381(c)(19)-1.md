@@ -34,6 +34,26 @@ To determine the amount of excess contributions made by a distributor or transfe
 
 Example.X Corporation and Y Corporation both compute taxable income on the calendar year basis. X Corporation has excess charitable contributions for 1962 and 1964. On December 31, 1966, X Corporation distributes all its assets to Y Corporation in a complete liquidation to which section 381(a) applies. The excess 1962 charitable contributions of X Corporation (to the extent not deductible by X because of the limitations of section 170(b)(2) in its taxable years 1963 through 1966) may be deducted by Y Corporation only in 1967. Y Corporation's taxable year 1967 is the fifth taxable year succeeding the taxable year 1962 (the year in which the excess contributions were made), and the portion of such excess contributions which is not deductible in the 5 taxable years immediately succeeding 1962 (1963 through 1967) is not deductible by Y Corporation in any other taxable year. Any excess charitable contributions for 1964 to which Y Corporation may be entitled must be deducted by Y Corporation (if deductible at all) in 1967, 1968, and 1969 since such years are the third, fourth, and fifth taxable years succeeding the taxable year 1964 (the year in which the excess contributions were paid).
 
+(ii) The 5-percent limitation (computed in the manner prescribed by section 170(b)(2)), the charitable contributions actually paid, and the excess contributions with respect to each such corporation during the taxable years involved are as follows:
+
+| Name of corporation             | X        | X        |          |
+| Taxable year ending             | 3-31-57  | 6-30-57  |          |
+| 5-percent limitation            | $20,000  | $9,000   |          |
+| Current contributions           | 32,000   | 15,000   |          |
+| (Excess contributions)          | (12,000) | (6,000)  |          |
+| Name of corporation             | Y        | Y        | Y        |
+| Taxable year ending             | 6-30-56  | 6-30-57  | 11-30-57 |
+| 5-percent limitation            | $15,000  | $10,000  | $18,000  |
+| Current contributions           | 29,000   | 0        | 17,000   |
+| (Excess contributions)          | (14,000) |          |          |
+| Balance of 5-percent limitation |          | 10,000   | 1,000    |
+| Name of corporation             | Z        | Z        | Z        |
+| Taxable year ending             | 12-31-56 | 12-31-57 | 12-31-58 |
+| 5-percent limitation            | $10,000  | $30,000  | $58,000  |
+| Current contributions           | 40,000   | 28,000   | 92,000   |
+| (Excess contributions)          | (30,000) |          |          |
+| Balance of 5-percent limitation |          | 2,000    | 56,000   |
+
 (4) *General rules.* No excess charitable contributions made by a distributor or transferor corporation shall be deductible by the acquiring corporation in its taxable year which includes the date of distribution or transfer. In addition, an excess charitable contribution made by a distributor or transferor corporation in a taxable year prior to the taxable year of the transfer is only deductible by the distributor or transferor corporation, subject to the limitations of section 170(b)(2) (or, if applicable, section 170(d)(2)), in its subsequent taxable years which begin on or before the date of distribution or transfer, and by the acquiring corporation in its taxable year or years beginning after the date of distribution or transfer.
 
 (d) *Rules governing amounts deductible by acquiring corporations.* (1) In applying the provisions of section 170(b)(2) (or, if applicable, section 170(d)(2)) for the purpose of determining the amount of excess charitable contributions which are deductible by the acquiring corporation in its taxable years beginning after the date of distribution or transfer, all taxable years of the distributor or transferor and acquiring corporations which, with respect to a particular taxable year beginning after the date of distribution or transfer, constitute the same numbered preceding taxable year shall together be considered as a 1 taxable year even though the taxable years involved may not end on the same date. Thus, for example, all taxable years of the distributor or transferor and acquiring corporations which, with respect to the first taxable year of the acquiring corporation beginning after the date of distribution or transfer, constitutes the second preceding taxable year shall together be considered as 1 taxable year even though the taxable years involved may not end on the same date. Any excess charitable contributions carried over from preceding taxable years which are considered as 1 taxable year shall be taken into account by the acquiring corporation as one amount, without regard to the extent to which the contributions were made by a distributor or transferor corporation or the acquiring corporation.

@@ -64,9 +64,9 @@
 
 (j) *Examples.* The method prescribed in paragraphs (d) through (g) of this section is illustrated by the following examples:
 
-Example 1.(i) X, a calendar year corporation, estimates its tax liability for its taxable year ending December 31, 2009, will be $85,000. X is not a large corporation as defined in section 6655(g)(2) and § 1.6655-4. X reported a liability of $74,900 on its return for the taxable year ended December 31, 2008, with no credits against tax. X paid four installments of estimated tax, each in the amount of $18,725 (25 percent of $74,900), on April 15, 2009, June 15, 2009, September 15, 2009, and December 15, 2009, respectively. X reported a tax liability of $88,900 on its return due March 15, 2010. X had a $5,000 credit against tax for tax year 2009 as provided by part IV of subchapter A of chapter 1 of the Internal Revenue Code. X did not underpay its estimated tax for tax year 2009 for any of the four installments, determined as follows:
+Example 1.(i) X, a calendar year corporation, estimates its tax liability for its taxable year ending December 31, 2009, will be $85,000. X is not a large corporation as defined in section 6655(g)(2) and § 1.6655-4. X reported a liability of $74,900 on its return for the taxable year ended December 31, 2008, with no credits against tax. X paid four installments of estimated tax, each in the amount of $18,725 (25 percent of $74,900), on April 15, 2009, June 15, 2009, September 15, 2009, and December 15, 2009, respectively. X reported a tax liability of $88,900 on its return due March 15, 2010. X had a $5,000 credit against tax for tax year 2009 as provided by part IV of subchapter A of chapter 1 of the Internal Revenue Code. X did not underpay its estimated tax for tax year 2009 for any of the four installments, determined as follows: *Facts.*
 
-(A) Tax as defined in paragraph (g) of this section for 2009 ($88,900−$5,000) = $83,900
+(A) Tax as defined in paragraph (g) of this section for 2009 ($88,900−$5,000) = $83,900*Example 1*
 
 (B) Tax as defined in paragraph (g) of this section for 2008 = $74,900
 

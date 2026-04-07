@@ -8,7 +8,11 @@
 
 (iii) Subdivision (ii) of this subparagraph may be illustrated by the following examples:
 
-Example 1.R Co., a restaurant, sells its building and all its restaurant equipment to S Co. and moves into a larger, more modern building across the street. R Co. purchases new equipment, retains its name and continues to operate as a restaurant. S Co. opens a new restaurant in the old R Co. building. S Co. has merely acquired the old R Co. assets; it has not acquired any portion of R Co.'s business.Example 2.The facts are the same as in *Example 1,* except that R Co. also sells its name and goodwill to S Co. and ceases to operate a restaurant business. S Co. operates its restaurant using the old R Co. name. In this situation, S Co. has acquired R Co.'s business.
+Example 1.R Co., a restaurant, sells its building and all its restaurant equipment to S Co. and moves into a larger, more modern building across the street. R Co. purchases new equipment, retains its name and continues to operate as a restaurant. S Co. opens a new restaurant in the old R Co. building. S Co. has merely acquired the old R Co. assets; it has not acquired any portion of R Co.'s business.*Example 1,*
+
+(b) The facts are the same as in paragraph (a) of example 2, except that Q Corporation buys the division merely to obtain its store locations. Before the Q Corporation takes over, the division liquidates its inventory in a going-out-of-business sale. The Q Corporation has merely acquired assets in this transaction, not a separate unit of P Company's business.
+
+Example 2.The facts are the same as in *Example 1,* except that R Co. also sells its name and goodwill to S Co. and ceases to operate a restaurant business. S Co. operates its restaurant using the old R Co. name. In this situation, S Co. has acquired R Co.'s business.
 
 (2) *Separate unit.* (i) A separate unit is a segment of a trade or business capable of operating as a self-sustaining enterprise with minor adjustments. The allocation of a portion of the goodwill of a trade or business to one of its segments is a strong indication that that segment is a separate unit.
 

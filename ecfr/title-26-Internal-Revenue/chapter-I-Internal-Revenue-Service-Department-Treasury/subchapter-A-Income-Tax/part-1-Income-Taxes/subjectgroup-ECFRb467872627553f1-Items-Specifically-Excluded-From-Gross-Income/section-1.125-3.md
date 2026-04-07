@@ -48,7 +48,7 @@ A-3: (a) *In general.* Subject to the limitations described in paragraph (b) of 
 
 Example.(i) Employer Y allows employees to pay premiums for group health coverage during an FMLA leave on an after-tax basis while the employee is on unpaid FMLA leave. Under the terms of Y's cafeteria plan, if an employee elects to continue health coverage during an unpaid FMLA leave and fails to pay one or more of the after-tax premium payments due for that coverage, the employee's salary after the employee returns from FMLA leave is reduced to cover unpaid premiums (*i.e.* the premiums that were to be paid by the employee on an after-tax basis during the FMLA leave, but were paid by the employer instead).
 
-(ii) In this *Example,* Y's cafeteria plan satisfies the conditions in this Q&A-3. Y's cafeteria plan would also satisfy the conditions in this Q&A-3 if the plan provided for coverage to cease in the event the employee fails to make a premium payment when due during an unpaid FMLA leave.
+(ii) In this *Example,* Y's cafeteria plan satisfies the conditions in this Q&A-3. Y's cafeteria plan would also satisfy the conditions in this Q&A-3 if the plan provided for coverage to cease in the event the employee fails to make a premium payment when due during an unpaid FMLA leave.1/4
 
 Q-4: Do the special FMLA requirements concerning payment of premiums by an employee who continues group health plan coverage under a cafeteria plan apply if the employee is on paid FMLA leave?
 

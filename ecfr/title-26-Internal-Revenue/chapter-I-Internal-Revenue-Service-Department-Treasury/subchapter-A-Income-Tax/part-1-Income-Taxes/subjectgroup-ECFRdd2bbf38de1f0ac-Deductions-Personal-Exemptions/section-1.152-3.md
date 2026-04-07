@@ -1,6 +1,6 @@
 ##### § 1.152-3 Multiple support agreements.
 
-(a) Section 152(c) provides that a taxpayer shall be treated as having contributed over half of the support of an individual for the calendar year (in cases where two or more taxpayers contributed to the support of such individual) if—
+(a) Section 152(c) provides that a taxpayer shall be treated as having contributed over half of the support of an individual for the calendar year (in cases where two or more taxpayers contributed to the support of such individual) if—*Examples.*
 
 (1) No one person contributed over half of the individual's support,
 
@@ -12,7 +12,18 @@
 
 (b) *Examples.* Application of the rule contained in paragraph (a) of this section may be illustrated by the following examples:
 
-Example 1.During the taxable year, brothers A, B, C, and D contributed the entire support of their mother in the following percentages: A, 30 percent; B, 20 percent; C, 29 percent; and D, 21 percent. Any one of the brothers, except for the fact that he did not contribute more than half of her support, would have been entitled to claim his mother as a dependent. Consequently, any one of the brothers could claim a deduction for the exemption of the mother if he obtained a written declaration (as provided in paragraph (a)(4) of this section) from each of the other brothers. Even though A and D together contributed more than one-half the support of the mother, A, if he wished to claim his mother as a dependent, would be required to obtain written declarations from B, C, and D, since each of those three contributed more than 10 percent of the support and, but for the failure to contribute more than half of the mother's support, would have been entitled to claim his mother as a dependent.Example 2.During the taxable year, E, an individual who resides with his son, S, received his entire support for that year as follows:
+Example 1.During the taxable year, brothers A, B, C, and D contributed the entire support of their mother in the following percentages: A, 30 percent; B, 20 percent; C, 29 percent; and D, 21 percent. Any one of the brothers, except for the fact that he did not contribute more than half of her support, would have been entitled to claim his mother as a dependent. Consequently, any one of the brothers could claim a deduction for the exemption of the mother if he obtained a written declaration (as provided in paragraph (a)(4) of this section) from each of the other brothers. Even though A and D together contributed more than one-half the support of the mother, A, if he wished to claim his mother as a dependent, would be required to obtain written declarations from B, C, and D, since each of those three contributed more than 10 percent of the support and, but for the failure to contribute more than half of the mother's support, would have been entitled to claim his mother as a dependent.
+
+| Source                   | Percentage of total |
+| ------------------------ | ------------------- |
+| Social Security          | 25                  |
+| N, an unrelated neighbor | 11                  |
+| B, a brother             | 14                  |
+| D, a daughter            | 10                  |
+| S, a son                 | 40                  |
+| Total received by E      | 100                 |
+
+Example 2.During the taxable year, E, an individual who resides with his son, S, received his entire support for that year as follows:
 
 | Source                   | Percentage of total |
 | ------------------------ | ------------------- |

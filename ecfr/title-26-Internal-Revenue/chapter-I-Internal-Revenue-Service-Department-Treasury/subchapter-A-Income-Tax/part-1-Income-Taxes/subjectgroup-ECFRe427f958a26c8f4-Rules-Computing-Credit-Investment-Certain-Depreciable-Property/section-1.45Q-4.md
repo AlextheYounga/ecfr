@@ -1,6 +1,6 @@
 ##### § 1.45Q-4 Utilization of Qualified Carbon Oxide.
 
-(a) *In general.* For purposes of this section, *utilization of qualified carbon oxide* means—
+(a) *In general.* For purposes of this section, *utilization of qualified carbon oxide* means—2
 
 (1) The fixation of such qualified carbon oxide through photosynthesis or chemosynthesis, such as through the growing of algae or bacteria,
 

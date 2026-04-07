@@ -1,6 +1,6 @@
 ##### § 1.367(a)-1T Transfers to foreign corporations subject to section 367(a): In general (temporary).
 
-(a) \[Reserved\]
+(a) \[Reserved\]*General rules*
 
 (b) *General rules*—
 

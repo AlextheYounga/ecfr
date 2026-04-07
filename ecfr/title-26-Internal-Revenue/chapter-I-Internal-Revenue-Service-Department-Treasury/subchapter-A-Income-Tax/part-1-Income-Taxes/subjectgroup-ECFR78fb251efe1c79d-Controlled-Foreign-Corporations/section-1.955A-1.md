@@ -52,11 +52,11 @@ The rules of this subdivision apply only in determining the limitation on a cont
 
 (v) *Illustration.* The application of this subparagraph may be illustrated by the following example:
 
-Example.(a) Throughout the period here involved, A is a United States shareholder of controlled foreign corporation M. M is not a foreign personal holding company, and M uses the calendar year as the taxable year.
+Example.(a) Throughout the period here involved, A is a United States shareholder of controlled foreign corporation M. M is not a foreign personal holding company, and M uses the calendar year as the taxable year. *a*
 
 (b) The amount described in this subparagraph for M's taxable year 1978 with respect to A is determined as follows, based on the facts shown in the following table:
 
-| (1) Investment in less developed country shipping companies on December 31, 1975 (subdivision (ii)(A) amount)                                                                                                                                                                      | $10,000 |
+| (1) Investment in less developed country shipping companies on December 31, 1975 (subdivision (ii)(A) amount)b                                                                                                                                                                     | $10,000 |
 | (2) § 1.955-1(b)(2)(i)(b) limitation for 1976 (previously excluded subpart F income not withdrawn from investment in less developed countries) (subdivision (ii)(B) amount)                                                                                                        | 50,000  |
 | (3) Subdivision (ii) amount (lesser of lines (1) and (2))                                                                                                                                                                                                                          | 10,000  |
 | (4) Subdivision (iii) amount: Excess for 1977 of M's previously excluded subpart F income withdrawn from investment in foreign base country shipping operations, $3,000, over the sum of the amounts determined under subparagraphs (2)(i)(A)(1) and (2) of this paragraph, $1,000 | 2,000   |

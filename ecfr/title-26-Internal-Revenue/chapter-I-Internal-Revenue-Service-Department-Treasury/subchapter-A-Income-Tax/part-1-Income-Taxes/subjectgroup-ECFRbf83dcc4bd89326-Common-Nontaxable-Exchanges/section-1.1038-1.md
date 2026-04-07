@@ -20,6 +20,21 @@
 
 Example:In 1965 S, who uses the calendar year as the taxable year, sells to P for $10,000 real property which has an adjusted basis of $3,000. S properly elects under section 453 to report the income from the sale on the installment method. In 1965 and 1966, S receives a total of $4,000 on the contract. On May 15, 1967, S receives $1,000 on the contract. Because of P's default, S reacquires the property on August 31, 1967. The gain on the sale which is returned as income for periods prior to the reacquisition is $3,500 ($5,000 × $7,000/$10,000).
 
+(b) The gain derived by S on the reacquisition of the property is $6, determined as follows:
+
+| Gain before application of limitation:                                                                 |     |    |
+| Money with respect to the sale received by S prior to the reacquisition                                | $30 |    |
+| Less: Gain returned by S as income for periods prior to the reacquisition ($30 × \[ ($100−$20)/$100\]) | 24  |    |
+| Gain before application of limitation                                                                  | 6   |    |
+| Limitation on amount of gain:                                                                          |     |    |
+| Sales price of real property                                                                           | 100 |    |
+| Less:                                                                                                  |     |    |
+| Adjusted basis of the property at the time of sale                                                     | $20 |    |
+| Gain returned by S as income for periods prior to the reacquisition                                    | 24  |    |
+| Amount of money paid by S in connection with the reacquisition                                         | 5   | 49 |
+| Limitation on amount of gain                                                                           | 51  |    |
+| Gain resulting from the reacquisition of the property                                                  | 6   |    |
+
 (2) *Amount of money and other property received with respect to the sale*—(i) *In general.* Amounts of money and other property received by the seller with respect to the sale of the property include payments made by the purchaser for the seller's benefit, as well as payments made and other property transferred directly to the seller. If the purchaser of the real property makes payments on a mortgage or other indebtedness to which the property is subject at the time of the sale of such property to him, or on which the seller was personally liable at the time of such sale, such payments are considered amounts received by the seller with respect to the sale. However, if after the sale the purchaser borrows money and uses the property as security for the loan, payments by the purchaser in satisfaction of the indebtedness are not considered as amounts received by the seller with respect to the sale, although the seller does in fact receive some indirect benefit when the purchaser makes such payments.
 
 (ii) *Payments by purchaser at time of reacquisition.* All payments made by the purchaser at the time of the reacquisition of the real property that are with respect to the original sale of the property shall be treated, for purposes of subparagraph (1) of this paragraph, by the seller as having been received prior to the reacquisition with respect to such sale. For example, if the purchaser, at the time of the reacquisition by the seller, pays money or other property to the seller in partial or complete satisfaction of the purchaser's indebtedness on the original sale, the seller shall treat such amounts as having been received prior to the reacquisition with respect to the sale.

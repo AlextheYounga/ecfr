@@ -1,6 +1,6 @@
 ##### § 11.464 Requirements for national endorsements as Master of Towing Vessels.
 
-(a) An applicant for an endorsement as Master of Towing Vessels with a route listed in column 1 of table 1 to this section, must complete the service requirements indicated in columns 2 through 5. Applicants may serve on the subordinate routes listed in column 5 without further endorsement. 
+(a) An applicant for an endorsement as Master of Towing Vessels with a route listed in column 1 of table 1 to this section, must complete the service requirements indicated in columns 2 through 5. Applicants may serve on the subordinate routes listed in column 5 without further endorsement.
 
 Table 1 to § 11.464(a)—Requirements for Endorsement as Master of Towing Vessels 1
 | 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 2                 | 3                                  | 4                             | 5                               |
@@ -14,9 +14,9 @@ Table 1 to § 11.464(a)—Requirements for Endorsement as Master of Towing Vesse
 | 2 Service is in months.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                   |                                    |                               |                                 |
 | 3 TOS is time of service.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                   |                                    |                               |                                 |
 
-(b) A person holding this endorsement may qualify for an STCW endorsement, according to §§ 11.307, 11.311, 11.313, and 11.315. 
+(b) A person holding this endorsement may qualify for an STCW endorsement, according to §§ 11.307, 11.311, 11.313, and 11.315.
 
-(c) To obtain an endorsement as Master of Towing Vessels-Limited, applicants must complete the requirements listed in columns 2 through 5 of table 2 to paragraph (c) of this section. 
+(c) To obtain an endorsement as Master of Towing Vessels-Limited, applicants must complete the requirements listed in columns 2 through 5 of table 2 to paragraph (c) of this section.
 
 Table 2 to § 11.464(c)—Requirements for National Endorsement as Master of Towing Vessels-Limited
 | 1                         | 2                 | 3                                                          | 4                                | 5                           |
@@ -26,22 +26,22 @@ Table 2 to § 11.464(c)—Requirements for National Endorsement as Master of Tow
 | 1 Service is in months.   |                   |                                                            |                                  |                             |
 | 2 TOS is time of service. |                   |                                                            |                                  |                             |
 
-(d) Those holding an MMC endorsement as Mate (Pilot) of Towing Vessels, may have Master of Towing Vessels-Limited added to their MMC for a limited local area within the scope of their current route. 
+(d) Those holding an MMC endorsement as Mate (Pilot) of Towing Vessels, may have Master of Towing Vessels-Limited added to their MMC for a limited local area within the scope of their current route.
 
-(e) Before serving as Master of Towing Vessels on the Western Rivers, mariners must possess 90 days of observation and training and their MMC must include an endorsement for Western Rivers. 
+(e) Before serving as Master of Towing Vessels on the Western Rivers, mariners must possess 90 days of observation and training and their MMC must include an endorsement for Western Rivers.
 
-(f) Each company must maintain evidence that every vessel it operates is under the direction and control of a mariner with the appropriate endorsement and experience, including 30 days of observation and training on the intended route other than Western Rivers. 
+(f) Each company must maintain evidence that every vessel it operates is under the direction and control of a mariner with the appropriate endorsement and experience, including 30 days of observation and training on the intended route other than Western Rivers.
 
-(g) Those holding an MMC endorsement as a Master of self-propelled vessels of more than 200 GRT, may operate towing vessels within any restrictions on their endorsement if they- 
+(g) Those holding an MMC endorsement as a Master of self-propelled vessels of more than 200 GRT, may operate towing vessels within any restrictions on their endorsement if they-
 
-(1) Have a minimum of 30 days of training and observation on towing vessels for the route being assessed, except as noted in paragraph (e) of this section; and 
+(1) Have a minimum of 30 days of training and observation on towing vessels for the route being assessed, except as noted in paragraph (e) of this section; and
 
-(2) Either— 
+(2) Either—
 
-(i) Hold a completed Towing Officer Assessment Record (TOAR) described in § 10.404(c) of this subchapter that shows evidence of assessment of practical demonstration of skills; or 
+(i) Hold a completed Towing Officer Assessment Record (TOAR) described in § 10.404(c) of this subchapter that shows evidence of assessment of practical demonstration of skills; or
 
-(ii) Complete an approved training course. 
+(ii) Complete an approved training course.
 
-(h) A License or MMC does not need to include a towing endorsement if mariners hold a TOAR or complete an approved training course. 
+(h) A License or MMC does not need to include a towing endorsement if mariners hold a TOAR or complete an approved training course.
 
 \[USCG-2021-0097, 89 FR 93086, Nov. 25, 2024, as amended by USCG-2021-0834, 89 FR 102335, Dec. 17, 2024\]

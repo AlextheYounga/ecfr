@@ -1,6 +1,6 @@
 ##### § 1.47-4 Electing small business corporation.
 
-(a) *In general*—(1) *Disposition or cessation in hands of corporation.* If an electing small business corporation (as defined in section 1371(b)) or a former electing small business corporation disposes of any section 38 property (or if any section 38 property otherwise ceases to be section 38 property in the hands of the corporation) before the close of the estimated useful life which was taken into account in computing qualified investment with respect to such property, a recapture determination shall be made with respect to each shareholder who is treated, under § 1.48-5, as a taxpayer with respect to such property. Each such recapture determination shall be made with respect to the pro rata share of the basis (or cost) of such property taken into account by such shareholder in computing his qualified investment. For purposes of each such recapture determination the actual useful life of such property shall be the period beginning with the date on which it was placed in service by the electing small business corporation and ending with the date of the disposition or cessation. In making a recapture determination under this subparagraph there shall be taken into account any prior recapture determinations made with respect to the shareholder in connection with the same property. For definition of “recapture determination” see paragraph (a)(1) of § 1.47-1.
+(a) *In general*—(1) *Disposition or cessation in hands of corporation.* If an electing small business corporation (as defined in section 1371(b)) or a former electing small business corporation disposes of any section 38 property (or if any section 38 property otherwise ceases to be section 38 property in the hands of the corporation) before the close of the estimated useful life which was taken into account in computing qualified investment with respect to such property, a recapture determination shall be made with respect to each shareholder who is treated, under § 1.48-5, as a taxpayer with respect to such property. Each such recapture determination shall be made with respect to the pro rata share of the basis (or cost) of such property taken into account by such shareholder in computing his qualified investment. For purposes of each such recapture determination the actual useful life of such property shall be the period beginning with the date on which it was placed in service by the electing small business corporation and ending with the date of the disposition or cessation. In making a recapture determination under this subparagraph there shall be taken into account any prior recapture determinations made with respect to the shareholder in connection with the same property. For definition of “recapture determination” see paragraph (a)(1) of § 1.47-1.2/3
 
 (2) *Disposition of shareholder's interest.* (i) If—
 
@@ -24,7 +24,7 @@ then, on the date of such reduction such section 38 property ceases to be sectio
 
 | Asset No. | Basis   | Estimated useful life (Years) |
 | --------- | ------- | ----------------------------- |
-| 1         | $30,000 | 4                             |
+| 113       | $30,000 | 4                             |
 | 2         | 30,000  | 6                             |
 | 3         | 30,000  | 8                             |
 
@@ -49,7 +49,14 @@ For the taxable year 1962, each shareholder's credit earned of $2,100 (7 percent
 
 (ii) The actual useful life of asset No. 3 is three years and six months. The recomputed qualified investment with respect to each shareholder's share of the basis of asset No. 3 is zero ($15,000 share of basis multiplied by zero applicable percentage) and for the taxable year 1962 each shareholder's recomputed credit earned is $1,050 (7 percent of $15,000). The income tax imposed by chapter 1 of the Code on each of the shareholders for the taxable year 1965 is increased by the $1,050 decrease in his credit earned for the taxable year 1962 (that is, $2,100 original credit earned minus $1,050 recomputed credit earned).
 
-Example 2.(i) On December 3, 1964, shareholder A sells 5 of his 10 shares of stock in X Corporation to C, and on December 3, 1965, A sells his remaining 5 shares of stock to D. In addition, on January 2, 1966, X Corporation sells asset No. 3 to Y Corporation.
+| Basis  | Applicable percentage | Recomputed qualified investment |
+| ------ | --------------------- | ------------------------------- |
+| $7,500 | 331⁄3                 | $2,500                          |
+| $7,500 | 662⁄3                 | 5,000                           |
+| $7,500 | 100                   | 7,500                           |
+|        |                       | 15,000                          |
+
+For the taxable year 1962 shareholder A's recomputed credit earned is $1,050 (7 percent of $15,000). The income tax imposed by chapter 1 of the Code on shareholder A for the taxable year 1964 is increased by the $1,050 decrease in his credit earned for the taxable year 1962 (that is, $2,100 original credit earned minus $1,050 recomputed credit earned). Example 2.(i) On December 3, 1964, shareholder A sells 5 of his 10 shares of stock in X Corporation to C, and on December 3, 1965, A sells his remaining 5 shares of stock to D. In addition, on January 2, 1966, X Corporation sells asset No. 3 to Y Corporation.
 
 (ii) Under paragraph (a)(2) of this section, on December 3, 1964, 50 percent of the share of the basis of each of the three items of section 38 property ceases to be section 38 property with respect to shareholder A since immediately after the December 3, 1964, sale A's proportionate stock interest in X Corporation is reduced to 50 percent of the proportionate stock interest in X Corporation which he held on December 31, 1962. The actual useful life of the share of the bases of the section 38 properties which cease to be section 38 property with respect to A is two years and six months (that is, the period beginning with June 1, 1962, and ending with December 3, 1964). A's recomputed qualified investment with respect to such properties is $15,000, computed as follows:
 

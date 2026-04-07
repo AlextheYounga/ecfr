@@ -6,7 +6,7 @@
 
 (2) The tax computed under paragraph (c) of this section (the “short-cut” method),
 
-except as provided in § 1.668(b)-4A (relating to failure to furnish proper information) and paragraph (d) of this section (relating to disallowance of short-cut method). For purposes of this paragraph, the method used in the return shall be accepted as the method that produces the lesser tax. The beneficiary's choice of the two methods is not dependent upon the method that he uses to compute his partial tax imposed by section 668(a)(3).
+except as provided in § 1.668(b)-4A (relating to failure to furnish proper information) and paragraph (d) of this section (relating to disallowance of short-cut method). For purposes of this paragraph, the method used in the return shall be accepted as the method that produces the lesser tax. The beneficiary's choice of the two methods is not dependent upon the method that he uses to compute his partial tax imposed by section 668(a)(3). *a*
 
 (b) *Computation of partial tax by the exact method.* The partial tax referred to in paragraph (a)(1) of this section is computed as follows:
 
@@ -49,7 +49,7 @@ Example.(i) Assume that in 1979 a trust makes an accumulation distribution of $1
 | 1973                                                                     | 3,074   |  |
 | Total                                                                    | 6,979   |  |
 
-(iv) The partial tax computed under the exact method is $4,174, computed by subtracting the taxes deemed distributed ($2,805) from the tax attributable to the section 666 amounts ($6,979).
+(iv) The partial tax computed under the exact method is $4,174, computed by subtracting the taxes deemed distributed ($2,805) from the tax attributable to the section 666 amounts ($6,979).$900 (total additional tax) divided by 3 equals $300 (average annual increase in tax). $300 (average annual increase in tax) times 10 equals $3,000, from which is deducted the amount of taxes ($1,450) paid by the trust attributable to the undistributed net income deemed distributed. The amount of tax to be paid currently under the short-cut method is therefore $1,550.
 
 (c) *Computation of tax by the short- cut method.* (1) The tax referred to in paragraph (a)(2) of this section is computed as follows:
 

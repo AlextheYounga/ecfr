@@ -1,6 +1,6 @@
 ##### § 1.662(a)-2 Currently distributable income.
 
-(a) There is first included in the gross income of each beneficiary under section 662(a)(1) the amount of income for the taxable year of the estate or trust required to be distributed currently to him, subject to the provisions of paragraph (b) of this section. Such amount is included in the beneficiary's gross income whether or not it is actually distributed.
+(a) There is first included in the gross income of each beneficiary under section 662(a)(1) the amount of income for the taxable year of the estate or trust required to be distributed currently to him, subject to the provisions of paragraph (b) of this section. Such amount is included in the beneficiary's gross income whether or not it is actually distributed.*the amount of income for the taxable year required to be distributed currently*
 
 (b) If the amount of income required to be distributed currently to all beneficiaries exceeds the distributable net income (as defined in section 643(a) but computed without taking into account the payment, crediting, or setting aside of an amount for which a charitable contributions deduction is allowable under section 642(c)) of the estate or trust, then there is included in the gross income of each beneficiary an amount which bears the same ratio to distributable net income (as so computed) as the amount of income required to be distributed currently to the beneficiary bears to the amount required to be distributed currently to all beneficiaries.
 

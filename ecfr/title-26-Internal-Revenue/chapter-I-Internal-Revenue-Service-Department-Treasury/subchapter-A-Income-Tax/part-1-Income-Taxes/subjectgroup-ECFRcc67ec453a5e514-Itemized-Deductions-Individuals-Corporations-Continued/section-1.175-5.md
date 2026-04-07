@@ -6,15 +6,19 @@
 
 Example.A, who uses the cash receipts and disbursements method of accounting, includes in his “gross income from farming” for purposes of determining the 25-percent limitation the following items:
 
-| Proceeds from sale of his 1955 yield of corn                        | $10,000 |
-| Gain from disposition of old breeding cows replaced by younger cows | 500     |
-| Total gross income from farming                                     | 10,500  |
+| Year                                                                | Deductible soil and water conservation expenditures | Total | 25 percent of gross income from farming | Excess to be carried forward |
+| ------------------------------------------------------------------- | --------------------------------------------------- | ----- | --------------------------------------- | ---------------------------- |
+| Proceeds from sale of his 1955 yield of corn                        | $10,000                                             |       |                                         |                              |
+| Gain from disposition of old breeding cows replaced by younger cows | 500                                                 |       |                                         |                              |
+| Total gross income from farming                                     | 10,500                                              |       |                                         |                              |
 
 A must exclude from “gross income from farming” the following items which are included in his gross income:
 
 | Gain from sale of tractor                     | $100  |
 | Gain from sale of 40 acres of taxpayer's farm | 8,000 |
 | Interest on loan to neighboring farmer        | 100   |
+
+The deduction for 1954 is limited to $800. The remainder, $100 ($900 minus $800), not being deductible for 1954, is a carryover to 1955. For 1955, accordingly, the total of the expenditures to be taken into account is $1,100 (the $100 carryover and the $1,000 actually paid in that year). The deduction for 1955 is limited to $900, and the remainder of the $1,100 total, or $200, is a carryover to 1956. The deduction for 1956 consists solely of this carryover of $200. Since the total expenditures, actual and carried-over, for 1956 are less than 25 percent of gross income from farming, there is no carryover into 1957.
 
 (3) *Deduction qualifies for net operating loss deduction.* Any amount allowed as a deduction under section 175, either for the year in which the expenditure is paid or incurred or for the year to which it is carried, is taken into account in computing a net operating loss for such taxable year. If a deduction for soil or water conservation expenditures has been taken into account in computing a net operating loss carryback or carryover, it shall not be considered a soil or water conservation expenditure for the year to which the loss is carried, and therefore, is not subject to the 25-percent limitation for that year. The provisions of this subparagraph may be illustrated by the following example:
 

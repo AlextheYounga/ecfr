@@ -82,6 +82,13 @@ Example 1. Market-based payment.(i) *Facts.* On December 31, 1996, X corporation
 
 (B) Assume, alternatively, that on the issue date the forward price to purchase 10,000 shares of the stock on December 31, 2006, is $330,000. If X corporation entered into a § 1.1275-6 hedge, the resulting synthetic debt instrument would yield 5.85 percent, compounded annually. Thus, the comparable yield on the debt instrument is 5.85 percent, compounded annually. The projected payment schedule for the debt instrument consists of 10 annual payments of $60,000 and a projected amount for the contingent payment at maturity. The projected amount of the contingent payment is $980,000, consisting of the $1,000,000 base amount minus the excess $20,000 of the purchase price of the stock under the forward contract over the forward price of the stock.
 
+| Date       | Noncontingent payment | Contingent payment |
+| ---------- | --------------------- | ------------------ |
+| 12/31/1997 | $20,000               | $0                 |
+| 12/31/1998 | 20,000                | 70,000             |
+| 12/31/1999 | 20,000                | 75,600             |
+| 12/31/2000 | 1,020,000             | 83,850             |
+
 Example 2. Non-market-based payments.(i) *Facts.* On December 31, 1996, Y issues to Z for $1,000,000 a debt instrument that matures on December 31, 2000. The debt instrument has a stated principal amount of $1,000,000, payable at maturity, and provides for payments on December 31 of each year, beginning in 1997, of $20,000 plus 1 percent of Y's gross receipts, if any, for the year. On the issue date, Y has outstanding fixed rate debt instruments with maturities of 2 to 10 years that trade at a price that reflects an average of 100 basis points over Treasury bonds. These debt instruments have terms and conditions similar to those of the debt instrument. Assume that on December 31, 1996, 4-year Treasury bonds have a yield of 6.5 percent, compounded annually, and that no § 1.1275-6 hedge is available for the debt instrument. In addition, assume that the interest inclusions attributable to the debt instrument are expected to have a substantial effect on Z's U.S. tax liability.
 
 (ii) *Comparable yield.* The comparable yield for the debt instrument is equal to the value of the benchmark rate (i.e., the yield on 4-year Treasury bonds) on the issue date plus the spread. Thus, the debt instrument's comparable yield is 7.5 percent, compounded annually.

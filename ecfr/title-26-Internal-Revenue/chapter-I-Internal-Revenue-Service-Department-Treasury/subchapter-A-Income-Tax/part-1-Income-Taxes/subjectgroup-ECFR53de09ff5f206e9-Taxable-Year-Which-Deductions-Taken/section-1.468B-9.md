@@ -114,7 +114,7 @@
 
 (h) *Examples.* The following examples illustrate the rules of this section:
 
-Example 1.(i) X Corporation petitions the United States Tax Court in 2006 for a redetermination of its tax liability for the 2003 taxable year. In 2006, the Tax Court determines that X Corporation is liable for an income tax deficiency for the 2003 taxable year. X Corporation files an appellate bond in accordance with section 7485(a) and files a notice of appeal with the appropriate United States Court of Appeals. In 2006, the Court of Appeals affirms the decision of the Tax Court and the United States Supreme Court denies X Corporation's petition for a writ of certiorari.
+Example 1.(i) X Corporation petitions the United States Tax Court in 2006 for a redetermination of its tax liability for the 2003 taxable year. In 2006, the Tax Court determines that X Corporation is liable for an income tax deficiency for the 2003 taxable year. X Corporation files an appellate bond in accordance with section 7485(a) and files a notice of appeal with the appropriate United States Court of Appeals. In 2006, the Court of Appeals affirms the decision of the Tax Court and the United States Supreme Court denies X Corporation's petition for a writ of certiorari. *Example 1*
 
 (ii) The appellate bond that X Corporation files with the court for the purpose of staying assessment and collection of deficiencies pending appeal is not an escrow account, trust or fund established to hold property subject to conflicting claims of ownership. Although X Corporation was found liable for an income tax deficiency, ownership of the appellate bond is not disputed. Rather, the bond serves as security for a disputed liability. Therefore, the bond is not a disputed ownership fund.
 

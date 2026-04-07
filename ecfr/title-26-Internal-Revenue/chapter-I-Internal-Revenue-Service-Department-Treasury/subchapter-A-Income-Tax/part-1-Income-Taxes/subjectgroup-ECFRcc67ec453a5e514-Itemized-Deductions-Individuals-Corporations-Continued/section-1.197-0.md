@@ -4,7 +4,7 @@ This section lists the headings that appear in § 1.197-2.
 
 § 1.197-2 Amortization of goodwill and certain other intangibles.
 
-(a) Overview.
+(a) Overview.*1*
 
 (1) In general.
 

@@ -78,9 +78,9 @@ Example:(i) X corporation, a paperback distributor, makes a timely section 458 e
 
 (v) This example is summarized by the following table:
 
-|                                                                                                                                                                                             | Years Ending December 31 |
+| Years Ending December 311                                                                                                                                                                   | Years Ending December 31 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| Facts:                                                                                                                                                                                      |                          |
+| Facts:2                                                                                                                                                                                     |                          |
 | Qualifying returns during merchandise return period for the taxable year                                                                                                                    | $5                       |
 | Adjustment to suspense account:                                                                                                                                                             |                          |
 | Opening balance                                                                                                                                                                             |                          |

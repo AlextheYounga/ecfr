@@ -164,6 +164,13 @@ Example 1.Accrual of periodic swap payments. (a) On April 1, 1995, *A* enters in
 
 (e) If the parties had entered into the contract on February 1, 1995, the result would not change because no portion of either party's obligation to make a payment under the swap relates to the period prior to April 1, 1995. Consequently, under paragraph (e)(2) of this section, neither party would accrue any income or deduction from the swap for the period from February 1, 1995, through March 31, 1995.
 
+|      | Pricing allocation |
+| ---- | ------------------ |
+| 1995 | $55,000            |
+| 1996 | 225,000            |
+| 1997 | 320,000            |
+|      | $600,000           |
+
 Example 2. Accrual of periodic swap payments by cash method taxpayer.(a) On April 1, 1995, *C* enters into a contract with unrelated counterparty *D* under which, for a period of five years, *C* is obligated to make a fixed payment to *D* each April 1, beginning April 1, 1996, in an amount equal to 8% multiplied by a notional principal amount of $100 million. *D* is obligated to make semi-annual payments to *C* each April 1 and October 1, beginning October 1, 1995, in an amount equal to one-half of the LIBOR amount as of the first day of the preceding 6-month period multiplied by the notional principal amount. The payments are to be calculated using a 30/360 day convention. *C* is a calendar year taxpayer that uses the accrual method of accounting. *D* is a calendar year taxpayer that uses the cash receipts and disbursements method of accounting. LIBOR is 7.80% on April 1, 1995, and 7.46% on October 1, 1995.
 
 (b) This contract is a notional principal contract as defined by paragraph (c)(1) of this section, and LIBOR and the fixed interest rate of 8% are each specified indices under paragraph (c)(2) of this section. All of the payments to be made by *C* and *D* are periodic payments under paragraph (e)(1) of this section because they are each based on appropriate specified indices, are payable at periodic intervals of one year or less throughout the term of the contract, and are based on a single notional principal amount.
