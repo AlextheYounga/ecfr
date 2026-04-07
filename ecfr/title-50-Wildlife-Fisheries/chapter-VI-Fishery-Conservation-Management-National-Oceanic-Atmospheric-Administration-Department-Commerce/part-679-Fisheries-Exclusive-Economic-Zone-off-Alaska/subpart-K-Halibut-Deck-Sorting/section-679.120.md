@@ -61,3 +61,5 @@
 (7) *Sorting pace.* Do not pressure or rush the observer to move halibut through the sampling process faster than the observer can handle.
 
 (8) *Visual signal.* Use a visual signal to indicate to vessel crew when catch may not to be weighed on a NMFS-approved scale specified in paragraph (b)(1) of this section. The visual signal must be on the conveyor belt adjacent to the flow scale and visible in the view of a camera required at § 679.28(b)(8).
+
+Effective Date Note:At 84 FR 67183, Dec. 9, 2019, in § 679.120, paragraphs (b), (c), (d), and (e) were stayed indefinitely, effective Dec. 9, 2019.
