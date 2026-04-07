@@ -1,4 +1,4 @@
-##### § 522.1662b Oxytetracycline hydrochloride with lidocaine injection.
+##### § 522.1663 Oxytetracycline hydrochloride with lidocaine injection.
 
 (a) *Specifications.* The drug contains 50 or 100 milligrams of oxytetracycline hydrochloride and 2 percent lidocaine in each milliliter of sterile aqueous solution.
 
@@ -10,4 +10,4 @@
 
 (3) Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-\[40 FR 13858, Mar. 27, 1975, as amended at 48 FR 30615, July 5, 1983; 79 FR 16192, Mar. 25, 2014\]
+\[40 FR 13858, Mar. 27, 1975, as amended at 48 FR 30615, July 5, 1983; 79 FR 16192, Mar. 25, 2014. Redesignated at 88 FR 14898, Mar. 10, 2023\]

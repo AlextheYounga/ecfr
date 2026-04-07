@@ -16,7 +16,7 @@
 
 (e) *What will not change.* The Privacy Act amendment or correction process will not be used to alter, delete, or amend information which is part of a determination of fact or which is evidence received in the record of a claim in any form of an administrative appeal process. Disagreements with these determinations are to be resolved through the assigned OSC Program Office.
 
-(f) *Notice of error.* If the record is wrong, OSC will correct it promptly. If wrong information was disclosed from the record, we will tell those of whom we are aware received that information that it was wrong and will give them the correct information. This will not be necessary if the change is not due to an error - *e.g.,* a change of name or address.
+(f) *Notice of error.* If the record is wrong, OSC will correct it promptly. If wrong information was disclosed from the record, we will tell those of whom we are aware received that information that it was wrong and will give them the correct information. This will not be necessary if the change is not due to an error—e.g., a change of name or address.
 
 (g) *Record found to be correct.* If the record is correct, OSC will inform the requestor in writing of the reason why we refuse to amend the record, the right to appeal the refusal, and the name and address of the official to whom the appeal should be sent.
 

@@ -20,7 +20,7 @@
 
 (4) Designate primary beneficiary shares which when summed equal 100%;
 
-(5) Contain no substantive alterations (*e.g.,* struck-through shares or scratched-out names of beneficiaries);
+(5) Contain no substantive alterations (e.g., struck-through shares or scratched-out names of beneficiaries);
 
 (6) Designate each primary and each contingent beneficiary in such a manner so that the TSP record keeper can identify the individual or entity;
 
