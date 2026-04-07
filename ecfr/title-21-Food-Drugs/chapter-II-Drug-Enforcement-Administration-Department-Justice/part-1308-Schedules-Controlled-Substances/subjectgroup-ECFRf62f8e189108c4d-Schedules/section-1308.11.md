@@ -1,7 +1,5 @@
 ##### § 1308.11 Schedule I.
 
-Link to an amendment published at 82 FR 58559, Dec. 13, 2017.
-
 (a) Schedule I shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
 
 (b) *Opiates.* Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers and salts is possible within the specific chemical de signation (for purposes of paragraph (b)(34) only, the term isomer includes the optical and geometric isomers):
@@ -160,75 +158,77 @@ Link to an amendment published at 82 FR 58559, Dec. 13, 2017.
 
 9661 
 
-(40) Noracymethadol
+(40) MT-45 (1-cyclohexyl-4-(1,2-diphenylethyl)piperazine) . . . (9560) 
+
+(41) Noracymethadol
 
 9633 
 
-(41) Norlevorphanol
+(42) Norlevorphanol
 
 9634 
 
-(42) Normethadone
+(43) Normethadone
 
 9635 
 
-(43) Norpipanone
+(44) Norpipanone
 
 9636 
 
-(44) Para-fluorofentanyl (N-(4-fluorophenyl)-N-\[1-(2-phenethyl)-4-piperidinyl\] propanamide
+(45) Para-fluorofentanyl (N-(4-fluorophenyl)-N-\[1-(2-phenethyl)-4-piperidinyl\] propanamide
 
 9812 
 
-(45) PEPAP (1-(-2-phenethyl)-4-phenyl-4-acetoxypiperidine
+(46) PEPAP (1-(-2-phenethyl)-4-phenyl-4-acetoxypiperidine
 
 9663 
 
-(46) Phenadoxone
+(47) Phenadoxone
 
 9637 
 
-(47) Phenampromide
+(48) Phenampromide
 
 9638 
 
-(48) Phenomorphan
+(49) Phenomorphan
 
 9647 
 
-(49) Phenoperidine
+(50) Phenoperidine
 
 9641 
 
-(50) Piritramide
+(51) Piritramide
 
 9642 
 
-(51) Proheptazine
+(52) Proheptazine
 
 9643 
 
-(52) Properidine
+(53) Properidine
 
 9644 
 
-(53) Propiram
+(54) Propiram
 
 9649 
 
-(54) Racemoramide
+(55) Racemoramide
 
 9645 
 
-(55) Thiofentanyl (N-phenyl-N-\[1-(2-thienyl)ethyl-4-piperidinyl\]-propanamide
+(56) Thiofentanyl (N-phenyl-N-\[1-(2-thienyl)ethyl-4-piperidinyl\]-propanamide
 
 9835 
 
-(56) Tilidine
+(57) Tilidine
 
 9750 
 
-(57) Trimeperidine
+(58) Trimeperidine
 
 9646
 
