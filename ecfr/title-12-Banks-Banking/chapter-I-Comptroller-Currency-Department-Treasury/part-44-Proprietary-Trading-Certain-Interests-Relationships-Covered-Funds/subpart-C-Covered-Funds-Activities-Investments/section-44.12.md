@@ -1,5 +1,7 @@
 ##### § 44.12 Permitted investment in a covered fund.
 
+Link to an amendment published at 85 FR 46500, July 31, 2020.
+
 (a) *Authority and limitations on permitted investments in covered funds.* (1) Notwithstanding the prohibition contained in § 44.10(a) of this subpart, a banking entity may acquire and retain an ownership interest in a covered fund that the banking entity or an affiliate thereof organizes and offers pursuant to § 44.11, for the purposes of:
 
 (i) *Establishment.* Establishing the fund and providing the fund with sufficient initial equity for investment to permit the fund to attract unaffiliated investors, subject to the limits contained in paragraphs (a)(2)(i) and (iii) of this section; or

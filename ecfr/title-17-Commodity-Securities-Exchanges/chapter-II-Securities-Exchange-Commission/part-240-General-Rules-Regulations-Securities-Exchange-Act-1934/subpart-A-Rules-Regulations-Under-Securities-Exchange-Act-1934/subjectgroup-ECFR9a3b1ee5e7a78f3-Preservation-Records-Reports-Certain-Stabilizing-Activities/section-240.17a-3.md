@@ -84,8 +84,6 @@ This section applies to the following types of entities: A member of a national 
 
 (ii) A record listing every associated person of the member, broker or dealer which shows, for each associated person, every office of the member, broker or dealer, where the associated person regularly conducts the business of handling funds or securities or effecting any transactions in, or inducing or attempting to induce the purchase or sale of any security for the member, broker or dealer and the Central Registration Depository number, if any, and every internal identification number or code assigned to that person by the member, broker or dealer.
 
-(ii) A record listing every associated person of the member, broker or dealer which shows, for each associated person, every office of the member, broker or dealer where the associated person regularly conducts the business of handling funds or securities or effecting any transactions in, or inducing or attempting to induce the purchase or sale of any security for the member, broker or dealer, and the Central Registration Depository number, if any, and every internal identification number or code assigned to that person by the member, broker or dealer.
-
 (13) Records required to be maintained pursuant to paragraph (d) of § 240.17f-2.
 
 (14) Copies of all Forms X-17F-1A filed pursuant to § 240.17f-1, all agreements between reporting institutions regarding registration or other aspects of § 240.17f-1, and all confirmations or other information received from the Commission or its designee as a result of inquiry.
