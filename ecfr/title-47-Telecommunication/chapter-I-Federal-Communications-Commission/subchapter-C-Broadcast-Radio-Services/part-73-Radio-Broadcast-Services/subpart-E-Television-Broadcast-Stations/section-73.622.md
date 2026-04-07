@@ -1686,7 +1686,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | West Point           | 16                                                  |
 | MISSOURI             |                                                     |
 | Cape Girardeau       | 12, 22                                              |
-| Columbia             | 8, 17                                               |
+| Columbia             | 17, 27                                              |
 | Hannibal             | 7                                                   |
 | Jefferson City       | 12, 20                                              |
 | Joplin               | \*25, 43, 46                                        |
