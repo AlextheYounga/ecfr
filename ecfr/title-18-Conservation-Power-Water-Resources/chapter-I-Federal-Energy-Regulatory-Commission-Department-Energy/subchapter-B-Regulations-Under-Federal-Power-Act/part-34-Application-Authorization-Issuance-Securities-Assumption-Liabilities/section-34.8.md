@@ -1,6 +1,6 @@
 ##### § 34.8 Verification.
 
-The original application shall be signed by an authorized representative of the applicant, who has knowledge of the matters set forth therein, and it shall be verified under oath.
+The original application shall be signed by an authorized representative of the applicant, who has knowledge of the matters set forth therein, and it shall be verified under oath. 
 
 Effective Date Note:At 70 FR 35375, June 20, 2005, § 34.8 was revised, effective at the time of the next e-filing release during the Commission's next fiscal year. For the convenience of the user, the revised text follows: 
 

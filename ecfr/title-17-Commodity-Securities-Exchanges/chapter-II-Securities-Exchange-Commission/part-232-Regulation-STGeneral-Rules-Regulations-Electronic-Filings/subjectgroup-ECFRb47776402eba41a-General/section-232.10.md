@@ -2,15 +2,15 @@
 
 Link to an amendment published at 89 FR 106222, Dec. 27, 2024.
 
-(a) This part, in conjunction with the EDGAR Filer Manual and the electronic filing provisions of applicable rules, regulations and forms, shall govern the electronic submission of documents filed or otherwise submitted to the Commission and shall be controlling for an electronic format document in the manner and respects provided in this part. 
+(a) This part, in conjunction with the EDGAR Filer Manual and the electronic filing provisions of applicable rules, regulations and forms, shall govern the electronic submission of documents filed or otherwise submitted to the Commission and shall be controlling for an electronic format document in the manner and respects provided in this part.
 
-(b) Each registrant, third party filer, or agent must, before filing on EDGAR: 
+(b) Each registrant, third party filer, or agent must, before filing on EDGAR:
 
-(1) File electronically the information required by Form ID (§§ 239.63, 249.446, 269.7 and 274.402 of this chapter), the uniform application form for access codes to file on EDGAR, and 
+(1) File electronically the information required by Form ID (§§ 239.63, 249.446, 269.7 and 274.402 of this chapter), the uniform application form for access codes to file on EDGAR, and
 
-(2) File, by uploading as a Portable Document Format (PDF) attachment to the Form ID filing, a notarized document, signed by the applicant, that includes the information required to be included in the Form ID filing and confirms the authenticity of the Form ID filing. 
+(2) File, by uploading as a Portable Document Format (PDF) attachment to the Form ID filing, a notarized document, signed by the applicant, that includes the information required to be included in the Form ID filing and confirms the authenticity of the Form ID filing.
 
-(c) The requirements of § 232.302 (Rule 302) do not apply to the notarized document required by paragraph (b)(2) of this section. 
+(c) The requirements of § 232.302 (Rule 302) do not apply to the notarized document required by paragraph (b)(2) of this section.
 
 Note to § 232.10:
 

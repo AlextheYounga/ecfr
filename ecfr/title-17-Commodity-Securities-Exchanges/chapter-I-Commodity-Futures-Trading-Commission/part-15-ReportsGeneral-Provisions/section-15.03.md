@@ -1,18 +1,18 @@
 ##### § 15.03 Reporting levels.
 
-(a) *Definitions.* For purposes of this section: 
+(a) *Definitions.* For purposes of this section:
 
-*Broad-based security index* is a group or index of securities that does not constitute a narrow-based security index. 
+*Broad-based security index* is a group or index of securities that does not constitute a narrow-based security index.
 
-*HedgeStreet products* are contracts offered by HedgeStreet, Inc., a designated contract market, that pay up to $10.00 if in the money upon expiration. 
+*HedgeStreet products* are contracts offered by HedgeStreet, Inc., a designated contract market, that pay up to $10.00 if in the money upon expiration.
 
-*Major foreign currency* is the currency, and the cross-rates between the currencies, of Japan, the United Kingdom, Canada, Australia, Switzerland, Sweden and the European Monetary Union. 
+*Major foreign currency* is the currency, and the cross-rates between the currencies, of Japan, the United Kingdom, Canada, Australia, Switzerland, Sweden and the European Monetary Union.
 
-*Narrow-based security index* has the same meaning as in section 1a(25) of the Commodity Exchange Act. 
+*Narrow-based security index* has the same meaning as in section 1a(25) of the Commodity Exchange Act.
 
-*Security futures product* has the same meaning as in section 1a(32) of the Commodity Exchange Act. 
+*Security futures product* has the same meaning as in section 1a(32) of the Commodity Exchange Act.
 
-(b) The quantities for the purpose of reports filed under parts 17 and 18 of this chapter are as follows: 
+(b) The quantities for the purpose of reports filed under parts 17 and 18 of this chapter are as follows:
 
 | Commodity                                                                                                                                                         | Number of contracts |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |

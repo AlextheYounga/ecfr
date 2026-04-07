@@ -1,6 +1,6 @@
 ##### § 249.1100 Form MSD, application for registration as a municipal securities dealer pursuant to rule 15Ba2-1 under the Securities Exchange Act of 1934 or amendment to such application.
 
-This Form is to be used by a bank or a separately identifiable department or division of a bank (as defined by the Municipal Securities Rulemaking Board) to apply for registration as a municipal securities dealer with the Securities and Exchange Commission pursuant to section 15B(a) of the Securities Exchange Act of 1934 (the “Act”), or to amend such application. 
+This Form is to be used by a bank or a separately identifiable department or division of a bank (as defined by the Municipal Securities Rulemaking Board) to apply for registration as a municipal securities dealer with the Securities and Exchange Commission pursuant to section 15B(a) of the Securities Exchange Act of 1934 (the “Act”), or to amend such application.
 
 Note:
 

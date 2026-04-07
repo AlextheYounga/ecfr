@@ -1,6 +1,6 @@
 ##### § 50.4 Classes of swaps required to be cleared.
 
-(a) *Interest rate swaps.* Swaps that have the following specifications are required to be cleared under section 2(h)(1) of the Act, and shall be cleared pursuant to the rules of any derivatives clearing organization eligible to clear such swaps under § 39.5(a) of this chapter. 
+(a) *Interest rate swaps.* Swaps that have the following specifications are required to be cleared under section 2(h)(1) of the Act, and shall be cleared pursuant to the rules of any derivatives clearing organization eligible to clear such swaps under § 39.5(a) of this chapter.
 
 Table 1 to Paragraph (a)
 | Specification                     | Fixed-to-floating swap class |                       |                     |                        |                     |                       |                     |                      |
@@ -38,7 +38,7 @@ Table 4 to Paragraph (a)
 | 5\. Dual Currencies               | No                         | No                    | No                | No                     | No                 | No                 | No                | No                 | No.                 |
 | 6\. Conditional Notional Amounts  | No                         | No                    | No                | No                     | No                 | No                 | No                | No                 | No.                 |
 
-(b) *Credit default swaps.* Swaps that have the following specifications are required to be cleared under section 2(h)(1) of the Act, and shall be cleared pursuant to the rules of any derivatives clearing organization eligible to clear such swaps under § 39.5(a) of this chapter. 
+(b) *Credit default swaps.* Swaps that have the following specifications are required to be cleared under section 2(h)(1) of the Act, and shall be cleared pursuant to the rules of any derivatives clearing organization eligible to clear such swaps under § 39.5(a) of this chapter.
 
 | Specification      | North American untranched CDS indices class                                                |
 | ------------------ | ------------------------------------------------------------------------------------------ |
