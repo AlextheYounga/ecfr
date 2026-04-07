@@ -1,10 +1,8 @@
 ##### § 531.5 Fuel economy standards.
 
-Link to an amendment published at 89 FR 52945, June 24, 2024.Link to a correction published at 89 FR 60833, July 29, 2024.
+(a) Except as provided in paragraph (e) of this section, each manufacturer of passenger automobiles shall comply with the fleet average fuel economy standards in table 1 to this paragraph (a), expressed in miles per gallon, in the model year specified as applicable:
 
-(a) Except as provided in paragraph (e) of this section, each manufacturer of passenger automobiles shall comply with the fleet average fuel economy standards in Table 1 to this paragraph (a), expressed in miles per gallon, in the model year specified as applicable:
-
-Table 1 to § 531.5(a)
+Table 1 to Paragraph (a)
 | Model year | Average fuel economy standard (miles per gallon) |
 | ---------- | ------------------------------------------------ |
 | 1978       | 18.0                                             |
@@ -21,22 +19,20 @@ Table 1 to § 531.5(a)
 | 1989       | 26.5                                             |
 | 1990-2010  | 27.5                                             |
 
-(b) For model year 2011, a manufacturer's passenger automobile fleet shall comply with the fleet average fuel economy level calculated for that model year according to Figure 1 to this paragraph (b) and the appropriate values in Table 2 to this paragraph (b).
+(b) Except as provided in paragraph (e) of this section, for model year 2011, a manufacturer's passenger automobile fleet shall comply with the fleet average fuel economy level calculated for that model year according to figure 1 and the appropriate values in table 2 to this paragraph (b).
 
-![](/graphics/er02my22.256.gif)Where: *N* is the total number (sum) of passenger automobiles produced by a manufacturer; *N*i is the number (sum) of the *ith* passenger automobile model produced by the manufacturer; and *T*i is the fuel economy target of the *ith* model passenger automobile, which is determined according to the following formula, rounded to the nearest hundredth:![](/graphics/er02my22.257.gif)Where: Parameters *a, b, c,* and *d* are defined in Table 2 to this paragraph (b); *e* = 2.718; and *x* = footprint (in square feet, rounded to the nearest tenth) of the vehicle model.
+Figure 1 to Paragraph (b) ![](/graphics/er24jn24.281.gif)Where: *N* is the total number (sum) of passenger automobiles produced by a manufacturer; *N*i is the number (sum) of the *ith* passenger automobile model produced by the manufacturer; and *T*i is the fuel economy target of the *ith* model passenger automobile, which is determined according to the following formula, rounded to the nearest hundredth:![](/graphics/er24jn24.282.gif)Where: Parameters *a, b, c,* and *d* are defined in table 2 to this paragraph (b); *e* = 2.718; and *x* = footprint (in square feet, rounded to the nearest tenth) of the vehicle model.
 
-Table 2 to § 531.5(b)—Parameters for the Passenger Automobile Fuel Economy Targets
+Table 2 to paragraph (b)— Parameters for the Passenger Automobile Fuel Economy Targets
 | Model year | Parameters |
 | ---------- | ---------- |
 | 2011       | 31.20      |
 
-(c) For model years 2012-2026, a manufacturer's passenger automobile fleet shall comply with the fleet average fuel economy level calculated for that model year (MY) according to Figure 2 to this paragraph (c) and the appropriate values in Table 3 to this paragraph (c).
+(c) Except as provided in paragraph (e) of this section, for model years 2012-2031, a manufacturer's passenger automobile fleet shall comply with the fleet average fuel economy level calculated for that model year according to this figure 2 and the appropriate values in this table 3 to this paragraph (c).
 
-![](/graphics/er02my22.259.gif)Where: *CAFE*required is the fleet average fuel economy standard for a given fleet (domestic passenger automobiles or import passenger automobiles); Subscript *i* is a designation of multiple groups of automobiles, where each group's designation, *i.e., i* = 1, 2, 3, etc., represents automobiles that share a unique model type and footprint within the applicable fleet, either domestic passenger automobiles or import passenger automobiles; *Production*i is the number of passenger automobiles produced for sale in the United States within each *ith* designation, *i.e.,* which share the same model type and footprint; and *TARGET*i is the fuel economy target in miles per gallon (mpg) applicable to the footprint of passenger automobiles within each *ith* designation, *i.e.,* which share the same model type and footprint, calculated according to Figure 3 to this paragraph (c) and rounded to the nearest hundredth of a mpg, *i.e.,* 35.455 = 35.46 mpg, and the summations in the numerator and denominator are both performed over all models in the fleet in question.![](/graphics/er02my22.260.gif)Where: *TARGET* is the fuel economy target (in mpg) applicable to vehicles of a given footprint (*FOOTPRINT*, in square feet); Parameters *a, b, c,* and *d* are defined in Table 3 to this paragraph (c); and The *MIN* and *MAX* functions take the minimum and maximum, respectively, of the included values.
+Figure 2 to Paragraph (c) ![](/graphics/er24jn24.283.gif)Where: *CAFE*required is the fleet average fuel economy standard for a given fleet (domestic passenger automobiles or import passenger automobiles); Subscript *i* is a designation of multiple groups of automobiles, where each group's designation, *i.e., i* = 1, 2, 3, etc., represents automobiles that share a unique model type and footprint within the applicable fleet, either domestic passenger automobiles or import passenger automobiles; *Production*i is the number of passenger automobiles produced for sale in the United States within each *ith* designation, *i.e.,* which share the same model type and footprint; *TARGET*i is the fuel economy target in miles per gallon (mpg) applicable to the footprint of passenger automobiles within each *ith* designation, *i.e.,* which share the same model type and footprint, calculated according to figure 3 to this paragraph (c) and rounded to the nearest hundredth of a mpg, *i.e.,* 35.455 = 35.46 mpg, and the summations in the numerator and denominator are both performed over all models in the fleet in question.Figure 3 to Paragraph (c) ![](/graphics/er24jn24.284.gif)Where: *TARGET* is the fuel economy target (in mpg) applicable to vehicles of a given footprint (*FOOTPRINT,* in square feet); Parameters *a, b, c,* and *d* are defined in table 3 to this paragraph (c); and The *MIN* and *MAX* functions take the minimum and maximum, respectively, of the included values.
 
-Table 3 to § 531.5(c)—Parameters for the Passenger Automobile Fuel Economy Targets
-
-\[MYs 2012-2026\]
+Table 3 to Paragraph (c)—Parameters for the Passenger Automobile Fuel Economy Targets, MYs 2012-2031
 | Model year | Parameters |
 | ---------- | ---------- |
 | 2012       | 35.95      |
@@ -54,30 +50,38 @@ Table 3 to § 531.5(c)—Parameters for the Passenger Automobile Fuel Economy Ta
 | 2024       | 55.44      |
 | 2025       | 60.26      |
 | 2026       | 66.95      |
+| 2027       | 68.32      |
+| 2028       | 69.71      |
+| 2029       | 71.14      |
+| 2030       | 72.59      |
+| 2031       | 74.07      |
 
-(d) In addition to the requirements of paragraphs (b) and (c) of this section, each manufacturer shall also meet the minimum fleet standard for domestically manufactured passenger automobiles expressed in Table 4 to this paragraph (d):
+(d) In addition to the requirements of paragraphs (b) and (c) of this section, each manufacturer, other than manufacturers subject to standards in paragraph (e) of this section, shall also meet the minimum fleet standard for domestically manufactured passenger automobiles expressed in table 4 to this paragraph (d):
 
-Table 4 to § 531.5(d)—Minimum Fuel Economy Standards for Domestically Manufactured Passenger Automobiles
-
-\[MYs 2011-2026\]
-| Model year | Minimum standard |
-| ---------- | ---------------- |
-| 2011       | 27.8             |
-| 2012       | 30.7             |
-| 2013       | 31.4             |
-| 2014       | 32.1             |
-| 2015       | 33.3             |
-| 2016       | 34.7             |
-| 2017       | 36.7             |
-| 2018       | 38.0             |
-| 2019       | 39.4             |
-| 2020       | 40.9             |
-| 2021       | 39.9             |
-| 2022       | 40.6             |
-| 2023       | 41.1             |
-| 2024       | 44.3             |
-| 2025       | 48.1             |
-| 2026       | 53.5             |
+Table 4 to Paragraph (d)—Minimum Fuel Economy Standards for Domestically Manufactured Passenger Automobiles, MYs 2011-2031
+| Model year | Minimum   standard |
+| ---------- | ------------------ |
+| 2011       | 27.8               |
+| 2012       | 30.7               |
+| 2013       | 31.4               |
+| 2014       | 32.1               |
+| 2015       | 33.3               |
+| 2016       | 34.7               |
+| 2017       | 36.7               |
+| 2018       | 38.0               |
+| 2019       | 39.4               |
+| 2020       | 40.9               |
+| 2021       | 39.9               |
+| 2022       | 40.6               |
+| 2023       | 41.1               |
+| 2024       | 44.3               |
+| 2025       | 48.1               |
+| 2026       | 53.5               |
+| 2027       | 54.2               |
+| 2028       | 55.2               |
+| 2029       | 56.4               |
+| 2030       | 57.5               |
+| 2031       | 58.7               |
 
 (e) The following manufacturers shall comply with the standards indicated in paragraphs (e)(1) through (15) of this section for the specified model years:
 
@@ -335,4 +339,4 @@ Table 24 to § 531.5(e)(20)—Average Fuel Economy Standard
 | 2022       | 15.5                 |
 | 2023       | 15.5                 |
 
-\[87 FR 26070, May 2, 2022, as amended at 89 FR 12756, Feb. 20, 2024\]
+\[87 FR 26070, May 2, 2022, as amended at 89 FR 12756, Feb. 20, 2024; 89 FR 52945, June 24, 2024; 89 FR 60833, July 29, 2024\]

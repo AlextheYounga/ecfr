@@ -1,7 +1,5 @@
 ##### § 536.4 Credits.
 
-Link to an amendment published at 89 FR 52953, June 24, 2024.
-
 (a) *Type and vintage.* All credits are identified and distinguished in the accounts by originating manufacturer, compliance category, and model year of origin (vintage).
 
 (b) *Application of credits.* All credits earned and applied are calculated, per 49 U.S.C. 32903(c), in tenths of a mile per gallon by which the average fuel economy of vehicles in a particular compliance category manufactured by a manufacturer in the model year in which the credits are earned exceeds the applicable average fuel economy standard, multiplied by the number of vehicles sold in that compliance category. However, credits that have been traded between credit holders or transferred between compliance categories are valued for compliance purposes using the adjustment factor specified in paragraph (c) of this section, pursuant to the “total oil savings” requirement of 49 U.S.C. 32903(f)(1).
@@ -11,9 +9,9 @@ Link to an amendment published at 89 FR 52953, June 24, 2024.
 ![](/graphics/er02my22.270.gif)Where: *A* = Adjustment factor applied to traded and transferred credits. The quotient shall be rounded to 4 decimal places; *VMTe* = Lifetime vehicle miles traveled as provided in the following Table 1 to this paragraph (c) for the model year and compliance category in which the credit was earned; *VMTu* = Lifetime vehicle miles traveled as provided in the following Table 1 to this paragraph (c) for the model year and compliance category in which the credit is used for compliance; *MPGse* = Required fuel economy standard for the originating (earning) manufacturer, compliance category, and model year in which the credit was earned; *MPGae* = Actual fuel economy for the originating manufacturer, compliance category, and model year in which the credit was earned; *MPGsu* = Required fuel economy standard for the user (buying) manufacturer, compliance category, and model year in which the credit is used for compliance; and *MPGau* = Actual fuel economy for the user manufacturer, compliance category, and model year in which the credit is used for compliance.
 
 Table 1 to § 536.4(c)—Lifetime Vehicle Miles Traveled
-
-\[VMT\]
 | Model year     | Lifetime vehicle miles traveled   (VMT) |
 | -------------- | --------------------------------------- |
 | Passenger Cars | 177,238                                 |
 | Light Trucks   | 208,471                                 |
+
+\[87 FR 26082, May 2, 2022, as amended at 89 FR 52953, June 24, 2024\]
