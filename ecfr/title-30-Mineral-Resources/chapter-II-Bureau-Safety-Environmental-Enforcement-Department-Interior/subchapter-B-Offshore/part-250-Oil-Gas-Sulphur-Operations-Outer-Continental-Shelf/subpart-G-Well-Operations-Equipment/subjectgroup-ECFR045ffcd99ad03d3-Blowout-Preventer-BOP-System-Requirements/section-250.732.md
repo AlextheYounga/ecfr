@@ -1,6 +1,6 @@
 ##### § 250.732 What are the independent third party requirements for BOP systems and system components?
 
-(a) Prior to beginning any operation requiring the use of any BOP, you must submit verification by an independent third party and supporting documentation as required by this paragraph to the appropriate District Manager and Regional Supervisor. 
+(a) Prior to beginning any operation requiring the use of any BOP, you must submit verification by an independent third party and supporting documentation as required by this paragraph to the appropriate District Manager and Regional Supervisor.
 
 | You must submit verification and documentation related to: | That:                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,24 +13,24 @@
 | (2) Pressure integrity testing for sealing components, and | (i) Shows that testing is conducted after the shearing is completed and prior to opening the component;                                                                                                                                                                                                                                                                                                         |
 |                                                            | (ii) Demonstrates that the equipment will seal at the rated working pressures (RWP) of the BOP for 5 minutes; and                                                                                                                                                                                                                                                                                               |
 |                                                            | (iii) Includes all relevant test results.                                                                                                                                                                                                                                                                                                                                                                       |
-| (3) Calculations                                           | Include shearing and sealing pressures for all pipe to be used in the well including corrections for MASP.                                                                                                                                                                                                                                                                                                      |
+| (3) Calculations,                                          | Include shearing and sealing pressures for all pipe to be used in the well including corrections for MASP.                                                                                                                                                                                                                                                                                                      |
 
-(b) The independent third party must be a technical classification society, a licensed professional engineering firm, or a registered professional engineer capable of providing the required certifications and verifications. You must submit the independent third party qualifications to BSEE with the associated permit application (e.g., APD and APM). BSEE will evaluate the submitted qualifications to ensure they meet the regulatory requirements for permit approval. 
+(b) The independent third party must be a technical classification society, a licensed professional engineering firm, or a registered professional engineer capable of providing the required certifications and verifications. You must submit the independent third party qualifications to BSEE with the associated permit application (e.g., APD and APM). BSEE will evaluate the submitted qualifications to ensure they meet the regulatory requirements for permit approval.
 
-(c) Before you begin any operations in an HPHT environment, as defined by § 250.105, with the proposed equipment, you must include the following in your applicable permit: 
+(c) Before you begin any operations in an HPHT environment, as defined by § 250.105, with the proposed equipment, you must include the following in your applicable permit:
 
-(1) The I3P certification required in § 250.731(c); 
+(1) The I3P certification required in § 250.731(c);
 
-(2) A description of any new or unusual technology being used; 
+(2) A description of any new or unusual technology being used;
 
-(3) A reference to the previously approved associated New or Unusual Technology Barrier Equipment Conceptual Plan; 
+(3) A reference to the previously approved associated New or Unusual Technology Barrier Equipment Conceptual Plan;
 
-(4) The final report and statements in accordance with § 250.232(c); and 
+(4) The final report and statements in accordance with § 250.232(c); and
 
-(5) The fit for service statement required in § 250.230. 
+(5) The fit for service statement required in § 250.230.
 
-You may not deploy your proposed BOP systems and related equipment that will or may be exposed to an HPHT environment until BSEE approves the New or Unusual Technology Barrier Equipment Conceptual Plan and appropriate permits (*e.g.,* APD and APM). 
+You may not deploy your proposed BOP systems and related equipment that will or may be exposed to an HPHT environment until BSEE approves the New or Unusual Technology Barrier Equipment Conceptual Plan and appropriate permits (*e.g.,* APD and APM).
 
-(d) You must make all documentation that demonstrates compliance with the requirements of this section available to BSEE upon request. 
+(d) You must make all documentation that demonstrates compliance with the requirements of this section available to BSEE upon request.
 
 \[84 FR 21978, May 15, 2019, as amended at 88 FR 57347, Aug. 23, 2023; 89 FR 71121, Aug. 30, 2024\]

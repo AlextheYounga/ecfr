@@ -1,6 +1,6 @@
 ##### § 250.432 How do I obtain a departure to diverter design and installation requirements?
 
-The table below describes possible departures from the diverter requirements and the conditions required for each departure. To obtain one of these departures, you must have discussed the departure in your APD and received approval from the District Manager. 
+The table below describes possible departures from the diverter requirements and the conditions required for each departure. To obtain one of these departures, you must have discussed the departure in your APD and received approval from the District Manager.
 
 | If you want a departure to:                                                                            | Then you must . . .                                                                                                        |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |

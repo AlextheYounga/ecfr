@@ -1,8 +1,8 @@
 ##### § 250.917 What are the CVA's primary duties during the fabrication phase?
 
-(a) The CVA must use good engineering judgment and practices in conducting an independent assessment of the fabrication activities. The CVA must monitor the fabrication of the platform or major modification to ensure that it has been built according to the approved design and the fabrication plan. If the CVA finds that fabrication procedures are changed or design specifications are modified, the CVA must inform you. If you accept the modifications, then the CVA must so inform the Regional Supervisor. 
+(a) The CVA must use good engineering judgment and practices in conducting an independent assessment of the fabrication activities. The CVA must monitor the fabrication of the platform or major modification to ensure that it has been built according to the approved design and the fabrication plan. If the CVA finds that fabrication procedures are changed or design specifications are modified, the CVA must inform you. If you accept the modifications, then the CVA must so inform the Regional Supervisor.
 
-(b) Primary duties of the CVA during the fabrication phase include the following: 
+(b) Primary duties of the CVA during the fabrication phase include the following:
 
 | Type of facility . . .                                               | The CVA must . . .                                                                                                                                                                              |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,16 +27,16 @@
 |                                                                      | (iii) Foundation pilings and templates, and anchoring systems; and                                                                                                                              |
 |                                                                      | (iv) Mooring or tethering systems.                                                                                                                                                              |
 
-(c) The CVA must submit interim reports and a final report to the Regional Supervisor, and to you, during the fabrication phase in accordance with the approved schedule required by § 250.911(d). In each interim and final report the CVA must: 
+(c) The CVA must submit interim reports and a final report to the Regional Supervisor, and to you, during the fabrication phase in accordance with the approved schedule required by § 250.911(d). In each interim and final report the CVA must:
 
-(1) Give details of how, by whom, and when the independent monitoring activities were conducted; 
+(1) Give details of how, by whom, and when the independent monitoring activities were conducted;
 
-(2) Describe the CVA's activities during the verification process; 
+(2) Describe the CVA's activities during the verification process;
 
-(3) Summarize the CVA's findings; 
+(3) Summarize the CVA's findings;
 
-(4) Confirm or deny compliance with the design specifications and the approved fabrication plan; 
+(4) Confirm or deny compliance with the design specifications and the approved fabrication plan;
 
-(5) In the final CVA report, make a recommendation to accept or reject the fabrication unless such a recommendation has been previously made in an interim report; and 
+(5) In the final CVA report, make a recommendation to accept or reject the fabrication unless such a recommendation has been previously made in an interim report; and
 
 (6) Provide any additional comments that the CVA deems necessary.

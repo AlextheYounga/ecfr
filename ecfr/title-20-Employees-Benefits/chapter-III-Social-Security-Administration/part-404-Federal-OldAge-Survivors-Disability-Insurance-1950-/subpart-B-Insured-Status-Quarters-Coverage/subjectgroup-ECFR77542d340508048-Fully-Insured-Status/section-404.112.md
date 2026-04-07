@@ -1,6 +1,6 @@
 ##### § 404.112 When we consider certain employees of private nonprofit organizations to be fully insured.
 
-If you are age 55 or over on January 1, 1984, and are on that date an employee of an organization described in § 404.1025(a) which does not have in effect a waiver certificate under section 3121(k) of the Code on that date and whose employees are mandatorily covered as a result of section 102 of Pub. L. 98-21, we consider you to be fully insured if you meet the following requirements:
+If you are age 55 or over on January 1, 1984, and are on that date an employee of an organization described in § 404.1025(a) which does not have in effect a waiver certificate under section 3121(k) of the Code on that date and whose employees are mandatorily covered as a result of section 102 of Pub. L. 98-21, we consider you to be fully insured if you meet the following requirements: 
 
 | Your age on January 1, 1984 is— | QC's acquired after Dec. 31, 1983 |
 | ------------------------------- | --------------------------------- |
