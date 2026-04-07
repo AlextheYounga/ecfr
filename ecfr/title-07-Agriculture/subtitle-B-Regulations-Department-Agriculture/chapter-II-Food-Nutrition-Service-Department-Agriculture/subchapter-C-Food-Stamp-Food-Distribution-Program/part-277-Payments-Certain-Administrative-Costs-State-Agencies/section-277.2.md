@@ -32,7 +32,7 @@ For the purpose of this part the term:
 
 *Personal property* means property of any kind except real property. It may be tangible (having physical existence) or intangible (having no physical existence) such as patents, inventions and copyrights.
 
-*Program* means both the Food Stamp Program and the Food Distribution Program on Indian Reservations.
+*Program* means both SNAP and the Food Distribution Program on Indian Reservations.
 
 *Program closeout* means the process by which FNS determines that all applicable administrative and financial processes have been completed by the State agency and FNS terminates the program in the affected project area or areas.
 

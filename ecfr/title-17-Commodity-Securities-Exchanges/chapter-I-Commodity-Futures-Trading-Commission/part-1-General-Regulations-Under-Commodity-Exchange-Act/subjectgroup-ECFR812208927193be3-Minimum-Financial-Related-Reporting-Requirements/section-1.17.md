@@ -252,7 +252,7 @@
 
 (1) Equity capital means a satisfactory subordination agreement entered into by a partner or stockholder or limited liability company member which has an initial term of at least 3 years and has a remaining term of not less than 12 months if:
 
-(i) It does not have any of the provisions for accelerated maturity provided for by paragraphs (h)(2) (ix)(A), (x)(A), or (x)(B) of this section, or the provisions allowing for special prepayment provided for by paragraph (h)(2)(vii)(B) of this section, and is maintained as capital subject to the provisions restricting the withdrawal thereof required by paragraph (e) of this section; or
+(i) It does not have any of the provisions for accelerated maturity provided for by paragraphs (h)(2)(ix)(A), (x)(A), or (x)(B) of this section, or the provisions allowing for special prepayment provided for by paragraph (h)(2)(vii)(B) of this section, and is maintained as capital subject to the provisions restricting the withdrawal thereof required by paragraph (e) of this section; or
 
 (ii) The partnership agreement provides that capital contributed pursuant to a satisfactory subordination agreement as defined in paragraph (h) of this section shall in all respects be partnership capital subject to the provisions restricting the withdrawal thereof required by paragraph (e) of this section, and
 

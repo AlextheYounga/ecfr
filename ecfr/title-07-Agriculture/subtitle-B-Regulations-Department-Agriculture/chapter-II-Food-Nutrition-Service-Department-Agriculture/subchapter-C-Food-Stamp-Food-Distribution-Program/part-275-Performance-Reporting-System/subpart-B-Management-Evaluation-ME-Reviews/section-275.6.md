@@ -8,7 +8,7 @@
 
 (i) The proposed management unit must correspond with existing State-established welfare districts, regions, or other administrative structures; and
 
-(ii) The unit must have supervisory control over Food Stamp Program operations within that geographic area and have authority for implementation of corrective action.
+(ii) The unit must have supervisory control over SNAP operations within that geographic area and have authority for implementation of corrective action.
 
 (2) In submitting the request for FNS approval, the State agency shall include the following information regarding the proposed management unit:
 
@@ -16,7 +16,7 @@
 
 (ii) Geographic coverage, including the names of the counties/project areas within the unit and the identification (district or region number) and location (city) of the office which has supervisory control over the management unit;
 
-(iii) Food Stamp Program participation, including the number of persons and number of households;
+(iii) SNAP participation, including the number of persons and number of households;
 
 (iv) The number of certification offices;
 

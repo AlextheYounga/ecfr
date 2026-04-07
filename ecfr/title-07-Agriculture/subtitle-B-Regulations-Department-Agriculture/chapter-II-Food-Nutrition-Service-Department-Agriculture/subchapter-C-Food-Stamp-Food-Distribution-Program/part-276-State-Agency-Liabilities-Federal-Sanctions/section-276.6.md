@@ -6,7 +6,7 @@
 
 (2) Strikes by State agency staff;
 
-(3) Change in the Food Stamp Program or other Federal or State programs that result in a substantial adverse impact upon a State agency's management of the Program; and
+(3) Change in SNAP or other Federal or State programs that result in a substantial adverse impact upon a State agency's management of the Program; and
 
 (4) Any other circumstances in which FNS determines good cause to exist.
 
