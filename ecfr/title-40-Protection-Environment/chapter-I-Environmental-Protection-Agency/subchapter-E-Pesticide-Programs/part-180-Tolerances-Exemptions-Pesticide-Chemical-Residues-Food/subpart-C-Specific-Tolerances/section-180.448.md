@@ -4,7 +4,7 @@
 
 | Commodity                                                                 | Parts per million |
 | ------------------------------------------------------------------------- | ----------------- |
-| Almond, hulls                                                             | 10                |
+| Almond, hulls1                                                            | 10                |
 | Apple, wet pomace                                                         | 0.40              |
 | Beet, sugar, dried pulp                                                   | 0.30              |
 | Beet, sugar, root                                                         | 0.15              |

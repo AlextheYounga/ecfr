@@ -1,6 +1,6 @@
 ##### § 180.41 Crop group tables.
 
-(a) The tables in this section are to be used in conjunction with § 180.40 to establish crop group tolerances.
+(a) The tables in this section are to be used in conjunction with § 180.40 to establish crop group tolerances.*Crop Group 1:*
 
 (b) Commodities not listed are not considered as included in the groups for the purposes of paragraph (b), and individual tolerances must be established. Miscellaneous commodities intentionally not included in any group include globe artichoke, hops, peanut, and water chestnut.
 
@@ -12,10 +12,10 @@
 
 (ii) *Table.* The following table 1 lists all the commodities included in Crop Group 1 and identifies the related crop subgroups.
 
-Table 1—Crop Group 1: Root and Tuber Vegetables
+Table 1—Crop Group 1: Root and Tuber VegetablesAllium
 | Commodities                                                        | Related crop subgroups |
 | ------------------------------------------------------------------ | ---------------------- |
-| Arracacha (Arracacia xanthorrhiza)                                 | 1C, 1D                 |
+| Arracacha (Arracacia xanthorrhiza)**Crop Subgroup 1A.**            | 1C, 1D                 |
 | Arrowroot (Maranta arundinacea)                                    | 1C, 1D                 |
 | Artichoke, Chinese (Stachys affinis)                               | 1C, 1D                 |
 | Artichoke, Jerusalem (Helianthus tuberosus)                        | 1C, 1D                 |

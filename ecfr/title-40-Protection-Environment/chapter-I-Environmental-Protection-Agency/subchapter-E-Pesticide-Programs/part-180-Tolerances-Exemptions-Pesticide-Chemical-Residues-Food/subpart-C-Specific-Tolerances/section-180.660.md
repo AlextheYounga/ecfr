@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                | Parts per   million |
 | -------------------------------------------------------- | ------------------- |
-| Berry, low growing, subgroup 13-07G (except cranberry)   | 0.50                |
+| Berry, low growing, subgroup 13-07G (except cranberry)1  | 0.50                |
 | Bushberry subgroup 13-07B                                | 1.5                 |
 | Caneberry subgroup 13-07A                                | 0.90                |
 | Fruit, small vine climbing subgroup 13-07E, except grape | 1.5                 |

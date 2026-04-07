@@ -4,7 +4,7 @@
 
 | Commodity                                             | Parts per million |
 | ----------------------------------------------------- | ----------------- |
-| Alfalfa, forage                                       | 6.0               |
+| Alfalfa, forageBrassica,1                             | 6.0               |
 | Alfalfa, hay                                          | 10                |
 | Almond, hulls                                         | 0.20              |
 | Artichoke, globe                                      | 1.2               |

@@ -4,7 +4,7 @@
 
 | Commodity                                                                                                     | Parts per million |
 | ------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Bean, dry, seed                                                                                               | 0.05              |
+| Bean, dry, seed1                                                                                              | 0.05              |
 | Bean, succulent                                                                                               | 0.05              |
 | Beet, sugar, roots                                                                                            | 0.3               |
 | Beet, sugar, tops                                                                                             | 3.0               |

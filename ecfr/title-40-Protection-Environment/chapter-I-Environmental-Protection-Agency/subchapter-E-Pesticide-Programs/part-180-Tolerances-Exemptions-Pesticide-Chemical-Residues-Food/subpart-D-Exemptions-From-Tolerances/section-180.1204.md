@@ -1,6 +1,6 @@
 ##### § 180.1204 Harpin protein; exemption from the requirement of a tolerance.
 
-An exemption from the requirement of a tolerance is established for residues of individual harpin proteins that meet specified physiochemical and toxicological criteria when used as biochemical pesticides on all food commodities to enhance plant growth, quality and yield, to improve overall plant health, and to aid in pest management. The physiochemical and toxicological criteria identifying harpin proteins are as follows:
+An exemption from the requirement of a tolerance is established for residues of individual harpin proteins that meet specified physiochemical and toxicological criteria when used as biochemical pesticides on all food commodities to enhance plant growth, quality and yield, to improve overall plant health, and to aid in pest management. The physiochemical and toxicological criteria identifying harpin proteins are as follows:50
 
 (a) Consists of a protein less than 100 kD in size, that is acidic (pI<7.0), glycine rich (>10%), and contains no more than one cystine residue.
 

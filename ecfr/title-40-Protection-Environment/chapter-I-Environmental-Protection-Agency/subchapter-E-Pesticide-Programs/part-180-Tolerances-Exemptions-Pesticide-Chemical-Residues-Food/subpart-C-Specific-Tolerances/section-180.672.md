@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                                                         | Parts per   million |
 | ------------------------------------------------------------------------------------------------- | ------------------- |
-| Almond, hulls                                                                                     | 8.0                 |
+| Almond, hulls1Brassica,                                                                           | 8.0                 |
 | Artichoke, globe 1                                                                                | 0.10                |
 | Avocado 2                                                                                         | 0.4                 |
 | Berry, low growing, except strawberry, subgroup 13-07H, except blueberry, lowbush and lingonberry | 0.08                |

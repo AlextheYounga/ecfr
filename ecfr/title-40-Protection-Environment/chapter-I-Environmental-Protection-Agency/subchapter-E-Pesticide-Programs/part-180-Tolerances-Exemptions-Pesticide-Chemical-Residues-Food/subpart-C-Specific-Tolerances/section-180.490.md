@@ -2,9 +2,10 @@
 
 (a) *General.* (1) Tolerances are established for residues of the herbicide imazapic, including its metabolites and degradates, in or on the commodities listed in the following table. Compliance with the tolerance levels specified is to be determined by measuring the sum of imazapic (2-\[4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1*H*-imidazol-2-yl\]-5-methyl-3-pyridinecarboxylic acid) and its metabolites (±)-2-\[4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1*H*-imidazol-2-yl\]-5-hydroxymethyl-3-pyridinecarboxylic acid and (±)-2-\[4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1*H*-imidazol-2-yl\]-5-(β-D-glucopyranosyloxy)methyl-3-pyridinecarboxylic acid, calculated as the stoichiometric equivalent of imazapic.
 
+Table 3 to Paragraph (a)(3)
 | Commodity                                             | Parts per million |
 | ----------------------------------------------------- | ----------------- |
-| Grass, forage                                         | 15                |
+| Grass, forage1                                        | 15                |
 | Grass, hay                                            | 30                |
 | Peanut                                                | 0.1               |
 | Soybean, seed 1                                       | 0.40              |

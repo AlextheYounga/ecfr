@@ -4,7 +4,7 @@
 
 | Commodity                                                              | Parts per million |
 | ---------------------------------------------------------------------- | ----------------- |
-| Almond, hulls                                                          | 2.0               |
+| Almond, hulls3Brassica,                                                | 2.0               |
 | Apricot 3                                                              | 9.0               |
 | Atemoya                                                                | 0.30              |
 | Avocado                                                                | 0.30              |

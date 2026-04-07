@@ -4,7 +4,7 @@
 
 | Commodity                                                            | Parts per million |
 | -------------------------------------------------------------------- | ----------------- |
-| Almond, hulls                                                        | 6.0               |
+| Almond, hullsBrassica,1                                              | 6.0               |
 | Apple, wet pomace                                                    | 0.1               |
 | Asparagus                                                            | 0.05              |
 | Banana                                                               | 0.05              |

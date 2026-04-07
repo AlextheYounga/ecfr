@@ -4,7 +4,7 @@ The following pesticide chemical uses do not need a tolerance or exemption from 
 
 | Pesticide Chemical        | CAS Reg. No. | Limits                                                                              | Uses                        |
 | ------------------------- | ------------ | ----------------------------------------------------------------------------------- | --------------------------- |
-| Methyl bromide            | 74-83-9      | When applied as a pre-plant soil fumigant                                           | All pre-plant soil uses     |
+| Methyl bromide3           | 74-83-9      | When applied as a pre-plant soil fumigant                                           | All pre-plant soil uses     |
 | Potassium triiodide (KI3) | 12298-68-9   | When applied to growing crops in foreign countries                                  | Bananas, grapes, and melons |
 | Rhodamine B               | 81-88-9      | Not to exceed 2% by weight of the formulated product and 60 ppm on the treated seed | Dye for seed treatment      |
 

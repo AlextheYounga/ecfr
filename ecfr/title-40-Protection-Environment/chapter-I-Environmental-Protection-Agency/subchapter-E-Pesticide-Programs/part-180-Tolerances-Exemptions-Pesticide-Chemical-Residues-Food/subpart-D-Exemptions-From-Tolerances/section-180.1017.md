@@ -1,6 +1,6 @@
 ##### § 180.1017 Diatomaceous earth; exemption from the requirement of a tolerance.
 
-(a) Diatomaceous earth is exempted from the requirement of a tolerance for residues when used in accordance with good agricultural practice in pesticide formulations applied to growing crops, to food commodities after harvest, and to animals.
+(a) Diatomaceous earth is exempted from the requirement of a tolerance for residues when used in accordance with good agricultural practice in pesticide formulations applied to growing crops, to food commodities after harvest, and to animals.*Provided,*
 
 (b) Diatomaceous earth may be safely used in accordance with the following conditions. Application shall be limited solely to spot and/or crack and crevice treatments in food or feed processing and food or feed storage areas in accordane with the precribed conditions:
 

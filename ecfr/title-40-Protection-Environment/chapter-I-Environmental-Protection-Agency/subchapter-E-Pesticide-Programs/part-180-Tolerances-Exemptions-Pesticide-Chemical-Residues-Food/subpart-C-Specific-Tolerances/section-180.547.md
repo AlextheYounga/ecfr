@@ -2,9 +2,10 @@
 
 (a) *General.* Tolerances are established for residues of the growth regulator, prohexadione calcium, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only prohexadione calcium (calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate)” in or on the following commodities.
 
+Table 2 to Paragraph (c)
 | Commodity                                          | Parts per   million |
 | -------------------------------------------------- | ------------------- |
-| Cattle, kidney                                     | 0.10                |
+| Cattle, kidney1                                    | 0.10                |
 | Cattle, meat byproducts, except kidney             | 0.05                |
 | Cherry, sweet                                      | 0.40                |
 | Fruit, pome, group 11                              | 3.0                 |

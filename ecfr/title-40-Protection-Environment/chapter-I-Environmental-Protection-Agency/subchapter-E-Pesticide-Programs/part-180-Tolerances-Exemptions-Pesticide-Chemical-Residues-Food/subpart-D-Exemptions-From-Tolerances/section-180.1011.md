@@ -1,6 +1,6 @@
 ##### § 180.1011 Viable spores of the microorganism Bacillus thuringiensis Berliner; exemption from the requirement of a tolerance.
 
-(a) For the purposes of this section the microbial insecticide for which exemption from the requirement of a tolerance is being established shall have the following specifications:
+(a) For the purposes of this section the microbial insecticide for which exemption from the requirement of a tolerance is being established shall have the following specifications:*Bacillus thuringiensis*
 
 (1) The microorganism shall be an authentic strain of *Bacillus thuringiensis* Berliner conforming to the morphological and biochemical characteristics of *Bacillus thuringiensis* as described in Bergey's Manual of Determinative Bacteriology, Eighth Edition.
 

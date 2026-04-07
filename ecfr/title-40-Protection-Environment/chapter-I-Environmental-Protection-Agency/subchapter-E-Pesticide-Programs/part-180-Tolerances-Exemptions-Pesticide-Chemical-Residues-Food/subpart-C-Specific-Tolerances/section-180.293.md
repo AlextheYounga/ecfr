@@ -2,15 +2,16 @@
 
 (a) *General.* (1) Tolerances are established for the residues of endothall, including its metabolites and degradates, in or on the commodities in the table, below. Compliance with the tolerance levels specified, below, is to be determined by measuring only endothall (7-oxabicylco \[2.2.1\] heptanes-2,3-dicarboxylic acid) and its mono-methyl ester.
 
-| Commodity               | Parts per million |
-| ----------------------- | ----------------- |
-| Apple                   | 0.05              |
-| Apple, wet pomace       | 0.15              |
-| Cotton, undelinted seed | 0.1               |
-| Fish                    | 0.1               |
-| Hop, dried cones        | 0.1               |
-| Potato                  | 0.1               |
-| Rice, grain             | 0.05              |
+| Commodity                                 | Parts per million |
+| ----------------------------------------- | ----------------- |
+| Apple1                                    | 0.05              |
+| Apple, wet pomace                         | 0.15              |
+| Cotton, undelinted seed                   | 0.1               |
+| Fish                                      | 0.1               |
+| Hop, dried cones                          | 0.1               |
+| Potato                                    | 0.1               |
+| Rice, grain                               | 0.05              |
+| 1 This tolerance expires on May 22, 2017. |                   |
 
 (2) An interim tolerance of 0.2 parts per million is established for residues of the herbicide endothall (7 - oxabicyclo\[2.2.1\] heptane-2,3-dicarboxylic acid) in water, potable from use of its potassium, sodium, di-*N, N*-dimethylalkylamine, and mono-*N-N,*-dimethylalkylamine salts as algicides or herbicides to control aquatic plants in canals, lakes, ponds, and other potential sources of water, potable.
 

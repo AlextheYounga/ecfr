@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                      | Parts per   million |
 | -------------------------------------------------------------- | ------------------- |
-| Alfalfa, forage 2                                              | 0.02                |
+| Alfalfa, forage 2Brassica,                                     | 0.02                |
 | Alfalfa, hay 2                                                 | 0.02                |
 | Animal feed, nongrass, group 18                                | 0.01                |
 | Apple, wet pomace                                              | 12.0                |

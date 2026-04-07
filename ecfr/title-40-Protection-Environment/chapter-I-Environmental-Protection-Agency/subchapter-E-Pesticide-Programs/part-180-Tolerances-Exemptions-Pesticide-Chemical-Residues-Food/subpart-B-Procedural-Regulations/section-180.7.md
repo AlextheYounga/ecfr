@@ -1,6 +1,6 @@
 ##### § 180.7 Petitions proposing tolerances or exemptions for pesticide residues in or on raw agricultural commodities or processed foods.
 
-(a) Petitions to be filed with the Agency under the provisions of FFDCA section 408(d) shall be submitted in duplicate. If any part of the material submitted is in a foreign language, it shall be accompanied by an accurate and complete English translation. The petition shall be accompanied by an advance deposit for fees described in § 180.33. The petition shall state the petitioner's mail address to which notice of objection under FFDCA section 408(g)(2) may be sent. The petition must be signed by the petitioner or by his attorney or agent, or (if a corporation) by an authorized official.
+(a) Petitions to be filed with the Agency under the provisions of FFDCA section 408(d) shall be submitted in duplicate. If any part of the material submitted is in a foreign language, it shall be accompanied by an accurate and complete English translation. The petition shall be accompanied by an advance deposit for fees described in § 180.33. The petition shall state the petitioner's mail address to which notice of objection under FFDCA section 408(g)(2) may be sent. The petition must be signed by the petitioner or by his attorney or agent, or (if a corporation) by an authorized official.*http://www.epa.gov/pesticides/regulating/registering/submissions/index.htm.*Federal Register
 
 (b) Petitions shall include the following information:
 

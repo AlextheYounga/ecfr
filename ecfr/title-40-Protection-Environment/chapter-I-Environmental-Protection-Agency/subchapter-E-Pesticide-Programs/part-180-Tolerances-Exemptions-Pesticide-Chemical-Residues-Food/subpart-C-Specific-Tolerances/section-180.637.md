@@ -4,7 +4,7 @@
 
 | Commodity                                                                                        | Parts per million |
 | ------------------------------------------------------------------------------------------------ | ----------------- |
-| Asparagus bean, edible podded                                                                    | 0.90              |
+| Asparagus bean, edible podded1Brassica,                                                          | 0.90              |
 | Basil, dried leaves                                                                              | 200               |
 | Basil, fresh leaves                                                                              | 30                |
 | Bean (Phaseolus spp.), edible podded                                                             | 0.90              |

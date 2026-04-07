@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                            | Parts per   million |
 | -------------------------------------------------------------------- | ------------------- |
-| Almond, hulls                                                        | 0.15                |
+| Almond, hulls1                                                       | 0.15                |
 | Bushberry subgroup 13-07B                                            | 0.01                |
 | Caneberry subgroup 13-07A                                            | 0.01                |
 | Coffee, green bean                                                   | 0.01                |

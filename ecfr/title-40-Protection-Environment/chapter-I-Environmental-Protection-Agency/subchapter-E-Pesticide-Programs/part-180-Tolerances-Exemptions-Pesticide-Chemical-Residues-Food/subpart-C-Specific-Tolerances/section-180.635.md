@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                                    | Parts per million |
 | ---------------------------------------------------------------------------- | ----------------- |
-| Acerola                                                                      | 0.30              |
+| Acerola1Brassica,                                                            | 0.30              |
 | Almond, hulls                                                                | 19                |
 | Amaranth grain, grain                                                        | 1.0               |
 | Animal feed, nongrass, group 18, forage                                      | 35                |

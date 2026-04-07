@@ -2,9 +2,10 @@
 
 (a) *General.* (1) Tolerances are established for the combined residues (free and bound) of the herbicide metolachlor, 2-chloro-*N*-(2- ethyl-6-methylphenyl)-*N*-(2-methoxy-1-methylethyl)acetamide, and its metabolites, determined as the derivatives, 2- \[(2-ethyl-6- methylphenyl)amino\]-1-propanol and 4-(2-ethyl-6-methylphenyl)-2- hydroxy-5-methyl-3-morpholinone, each expressed as the parent compound in the following raw agricultural commodities:
 
+Table 2 to Paragraph (a)(2)
 | Commodity                                                 | Parts per million |
 | --------------------------------------------------------- | ----------------- |
-| Almond, hulls                                             | 0.30              |
+| Almond, hullsBrassica,                                    | 0.30              |
 | Animal feed, nongrass, group 18                           | 1.0               |
 | Cattle, fat                                               | 0.02              |
 | Cattle, kidney                                            | 0.20              |

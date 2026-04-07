@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                                         | Parts per   million |
 | --------------------------------------------------------------------------------- | ------------------- |
-| Guava                                                                             | 0.05                |
+| Guava1Brassica,                                                                   | 0.05                |
 | Kale 1                                                                            | 20                  |
 | Leafy greens subgroup 4-16A                                                       | 150                 |
 | Leek 1                                                                            | 30                  |

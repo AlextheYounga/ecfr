@@ -1,6 +1,6 @@
 ##### § 950.35 Approval of Wyoming abandoned mine land reclamation plan amendments.
 
-(a) Wyoming certification of completing all known coal-related impacts is accepted, effective May 25, 1984. 
+(a) Wyoming certification of completing all known coal-related impacts is accepted, effective May 25, 1984.
 
 (b) The following is a list of the dates amendments were submitted to OSM, the dates when the Director's decision approving all, or portions of these amendments, were published in the Federal Register and the State citations or a brief description of each amendment. The amendments in this table are listed in order of the date of final publication in the Federal Register.
 

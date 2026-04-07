@@ -1,6 +1,6 @@
 ##### § 180.29 Establishment, modification, and revocation of tolerance on initiative of Administrator.
 
-(a) Upon the Administrator's own initiative, the Administrator may propose, under FFDCA section 408(e), the issuance of a regulation establishing a tolerance for a pesticide chemical or exempting it from the necessity of a tolerance, or a regulation modifying or revoking an existing tolerance or exemption.
+(a) Upon the Administrator's own initiative, the Administrator may propose, under FFDCA section 408(e), the issuance of a regulation establishing a tolerance for a pesticide chemical or exempting it from the necessity of a tolerance, or a regulation modifying or revoking an existing tolerance or exemption.Federal Register.
 
 (b) The Administrator shall provide a period of not less than 60 days for persons to comment on the proposed regulation, except that a shorter period for comment may be provided if the Administrator for good cause finds that it would be in the public interest to do so and states the reasons for the finding in the notice of proposed rulemaking.
 

@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                | Parts per million |
 | -------------------------------------------------------- | ----------------- |
-| Cattle, fat                                              | 0.05              |
+| Cattle, fat1                                             | 0.05              |
 | Cattle, kidney                                           | 0.20              |
 | Cattle, meat                                             | 0.05              |
 | Cattle, meat byproducts, except kidney                   | 0.05              |

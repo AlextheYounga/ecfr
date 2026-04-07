@@ -4,7 +4,7 @@
 
 | Commodity                                                                                                    | Parts per million |
 | ------------------------------------------------------------------------------------------------------------ | ----------------- |
-| Alfalfa, forage                                                                                              | 20                |
+| Alfalfa, forage1                                                                                             | 20                |
 | Alfalfa, hay                                                                                                 | 45                |
 | Almond                                                                                                       | 0.05              |
 | Almond, hulls                                                                                                | 20                |

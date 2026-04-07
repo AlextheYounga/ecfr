@@ -5,7 +5,7 @@
 Table 1 to § 180.680
 | Commodity                                                        | Parts per million |
 | ---------------------------------------------------------------- | ----------------- |
-| Almond, hulls                                                    | 5                 |
+| Almond, hullsBrassica,1                                          | 5                 |
 | Berry, low growing, subgroup 13-07G                              | 0.5               |
 | Brassica, head and stem, subgroup 5A                             | 1.5               |
 | Brassica, leafy greens, subgroup 4-16B                           | 20                |

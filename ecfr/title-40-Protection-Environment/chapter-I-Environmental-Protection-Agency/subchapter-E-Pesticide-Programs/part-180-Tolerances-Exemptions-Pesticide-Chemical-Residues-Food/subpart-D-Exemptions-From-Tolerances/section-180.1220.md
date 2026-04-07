@@ -1,6 +1,6 @@
 ##### § 180.1220 1-Methylcyclopropene; exemption from the requirement of a tolerance.
 
-An exemption from the requirement of a tolerance is established for residues of the 1-Methylcyclopropene in or on fruits and vegetables when:
+An exemption from the requirement of a tolerance is established for residues of the 1-Methylcyclopropene in or on fruits and vegetables when:*i.e.*
 
 (a) Used as a post harvest plant growth regulator, *i.e.*, for the purpose of inhibiting the effects of ethylene.
 

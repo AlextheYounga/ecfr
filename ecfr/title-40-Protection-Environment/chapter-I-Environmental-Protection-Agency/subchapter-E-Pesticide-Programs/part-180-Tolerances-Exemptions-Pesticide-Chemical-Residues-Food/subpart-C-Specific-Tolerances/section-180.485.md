@@ -4,7 +4,7 @@
 
 | Commodity                                                                         | Parts per million |
 | --------------------------------------------------------------------------------- | ----------------- |
-| Aspirated grain fractions                                                         | 2.5               |
+| Aspirated grain fractions1                                                        | 2.5               |
 | Cattle, fat                                                                       | 0.01              |
 | Cattle, meat byproducts (except liver)                                            | 0.01              |
 | Coffee bean, green (Imported) 1                                                   | 0.1               |

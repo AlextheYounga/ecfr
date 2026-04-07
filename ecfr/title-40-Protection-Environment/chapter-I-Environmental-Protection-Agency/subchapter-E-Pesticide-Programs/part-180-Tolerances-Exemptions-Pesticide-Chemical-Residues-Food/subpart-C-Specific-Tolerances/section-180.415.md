@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                | Parts per million |
 | -------------------------------------------------------- | ----------------- |
-| Avocado                                                  | 25                |
+| Avocado2                                                 | 25                |
 | Banana                                                   | 3.0               |
 | Bushberry subgroup 13-07B                                | 40                |
 | Caneberry subgroup 13-07A                                | 0.1               |

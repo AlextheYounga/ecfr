@@ -2,9 +2,10 @@
 
 (a) *General.* Tolerances are established for the residues of flutriafol, \[(±)-α-(2-fluorophenyl)-α-(4-fluorophenyl)-1*H*-1,2,4-triazole-1-ethanol\], including its metabolites and degradates in or on the following commodities. Compliance with the following tolerances is to be determined by measuring flutriafol only.
 
+Table 2 to Paragraph (d)
 | Commodity                                                                          | Parts per million |
 | ---------------------------------------------------------------------------------- | ----------------- |
-| African tree nut                                                                   | 0.02              |
+| African tree nut1Brassica,                                                         | 0.02              |
 | Alfalfa, forage                                                                    | 20                |
 | Alfalfa, hay                                                                       | 70                |
 | Almond                                                                             | 0.60              |

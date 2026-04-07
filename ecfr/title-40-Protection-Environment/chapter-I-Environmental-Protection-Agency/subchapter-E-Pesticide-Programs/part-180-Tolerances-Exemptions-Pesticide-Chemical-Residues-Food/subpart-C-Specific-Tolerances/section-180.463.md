@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                              | Parts per million |
 | ------------------------------------------------------ | ----------------- |
-| Asparagus                                              | 0.08              |
+| Asparagus1                                             | 0.08              |
 | Bushberry, subgroup 13-07B                             | 0.08              |
 | Caneberry subgroup 13-07A                              | 0.08              |
 | Barley, grain                                          | 2.0               |
@@ -44,6 +44,7 @@ Table 1 to Paragraph (a)(1)
 | Wheat, grain                                           | 0.5               |
 | Wheat, hay                                             | 0.5               |
 | Wheat, straw                                           | 0.1               |
+| 1 There are no U.S. Registrations.                     |                   |
 
 (2) Tolerances are established for residues of the herbicide quinclorac, including its metabolites and degradates, in or on the commodity in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only quinclorac, 3,7-dichloro-8-quinolinecarboxylic acid, and its methyl ester, methyl-3,7-dichloro-8-quinolinecarboxylate, calculated as the stoichiometric equivalent of quinclorac, in or on the commodity.
 

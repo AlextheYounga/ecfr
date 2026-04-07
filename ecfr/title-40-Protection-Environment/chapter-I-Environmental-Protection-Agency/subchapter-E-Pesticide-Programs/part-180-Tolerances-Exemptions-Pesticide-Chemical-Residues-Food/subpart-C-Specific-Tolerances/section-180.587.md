@@ -4,7 +4,7 @@
 
 | Commodity                                                  | Parts per million |
 | ---------------------------------------------------------- | ----------------- |
-| Caneberry subgroup 13-07A                                  | 10                |
+| Caneberry subgroup 13-07A1                                 | 10                |
 | Cattle, fat                                                | 0.02              |
 | Cattle, liver                                              | 0.05              |
 | Cilantro, leaves                                           | 25                |

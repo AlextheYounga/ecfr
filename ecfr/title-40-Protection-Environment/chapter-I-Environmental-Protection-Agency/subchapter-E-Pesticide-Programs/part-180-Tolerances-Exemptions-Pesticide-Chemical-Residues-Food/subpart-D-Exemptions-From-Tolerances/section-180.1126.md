@@ -1,6 +1,6 @@
 ##### § 180.1126 Codlure, (E,E)-8,10-Dodecadien-1-ol; exemption from the requirement of a tolerance.
 
-An exemption from the requirement of a tolerance is established for the insect pheromone codlure, (E,E)-8,10-dodecadien-1-ol, on all raw agricultural commodities in accordance with the following prescribed conditions:
+An exemption from the requirement of a tolerance is established for the insect pheromone codlure, (E,E)-8,10-dodecadien-1-ol, on all raw agricultural commodities in accordance with the following prescribed conditions:*i.e.*
 
 (a) Application shall be limited solely to codlure dispensers that conform to the following specifications:
 

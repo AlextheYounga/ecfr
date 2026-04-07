@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                            | Parts per   million |
 | ------------------------------------------------------------------------------------ | ------------------- |
-| Almond, hulls                                                                        | 0.50                |
+| Almond, hulls1                                                                       | 0.50                |
 | Banana 1                                                                             | 0.30                |
 | Beet, sugar, molasses                                                                | 5.0                 |
 | Beet, sugar, roots                                                                   | 0.9                 |

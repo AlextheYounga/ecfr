@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                           | Parts per   million |
 | ------------------------------------------------------------------- | ------------------- |
-| Acerola                                                             | 1.5                 |
+| AcerolaBrassica,1                                                   | 1.5                 |
 | Almond                                                              | 0.02                |
 | Almond, hulls                                                       | 8.0                 |
 | Apple, wet pomace                                                   | 4.6                 |

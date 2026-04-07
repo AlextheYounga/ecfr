@@ -4,7 +4,7 @@
 
 | Commodity                                             | Parts per million |
 | ----------------------------------------------------- | ----------------- |
-| Alfalfa, forage                                       | 2.0               |
+| Alfalfa, forage1                                      | 2.0               |
 | Alfalfa, hay                                          | 2.0               |
 | Bean, dry, seed                                       | 2.0               |
 | Bean, lima                                            | 2.0               |

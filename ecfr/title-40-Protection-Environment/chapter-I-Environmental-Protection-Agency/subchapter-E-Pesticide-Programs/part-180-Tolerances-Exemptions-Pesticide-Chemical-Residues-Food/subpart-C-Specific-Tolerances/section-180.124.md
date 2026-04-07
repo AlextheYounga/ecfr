@@ -2,9 +2,10 @@
 
 (a) *General.* A tolerance is established for residues of the fumigant methyl bromide, including metabolites and degradates, in or on the commodity in the table below. Compliance with the tolerance level specified below is to be determined by measuring only methyl bromide.
 
-| Commodity               | Parts per   million |
-| ----------------------- | ------------------- |
-| Cotton, undelinted seed | 150                 |
+Table 2 to Paragraph (b)
+| Commodity                        | Parts per   million |
+| -------------------------------- | ------------------- |
+| Cotton, undelinted seedBrassica, | 150                 |
 
 (b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of the fumigant methyl bromide, including its metabolites and degradates, in or on the specified agricultural commodities in Table 2 to this paragraph (b). Compliance with the tolerance levels specified in Table 2 to this paragraph (b) is to be determined by measuring only methyl bromide, in or on the commodities, resulting from use of the pesticide pursuant to Federal Insecticide, Fungicide, Rodenticide Act (FIFRA) section 18 emergency exemptions. The tolerances expire and are revoked on the dates specified in Table 2 to this paragraph (b).
 

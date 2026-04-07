@@ -1,6 +1,6 @@
 ##### § 180.950 Tolerance exemptions for minimal risk active and inert ingredients.
 
-Unless specifically excluded, residues resulting from the use of the following substances as either an inert or an active ingredient in a pesticide chemical formulation, including antimicrobial pesticide chemicals, are exempted from the requirement of a tolerance under FFDCA section 408, if such use is in accordance with good agricultural or manufacturing practices.
+Unless specifically excluded, residues resulting from the use of the following substances as either an inert or an active ingredient in a pesticide chemical formulation, including antimicrobial pesticide chemicals, are exempted from the requirement of a tolerance under FFDCA section 408, if such use is in accordance with good agricultural or manufacturing practices.*Commonly consumed food commodities.*
 
 (a) *Commonly consumed food commodities.* Commonly consumed food commodities means foods that are commonly consumed for their nutrient properties. The term commonly consumed food commodities shall only apply to food commodities (whether a raw agricultural commodity or a processed commodity) in the form the commodity is sold or distributed to the public for consumption.
 

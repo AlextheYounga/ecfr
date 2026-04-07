@@ -1,6 +1,6 @@
 ##### § 180.3 Tolerances for related pesticide chemicals.
 
-(a) Pesticide chemicals that cause related pharmacological effects will be regarded, in the absence of evidence to the contrary, as having an additive deleterious action. (For example, many pesticide chemicals within each of the following groups have related pharmacological effects: Chlorinated organic pesticides, arsenic-containing chemicals, metallic dithiocarbamates, cholinesterase-inhibiting pesticides.)
+(a) Pesticide chemicals that cause related pharmacological effects will be regarded, in the absence of evidence to the contrary, as having an additive deleterious action. (For example, many pesticide chemicals within each of the following groups have related pharmacological effects: Chlorinated organic pesticides, arsenic-containing chemicals, metallic dithiocarbamates, cholinesterase-inhibiting pesticides.)2*O,O*
 
 (b) Tolerances established for such related pesticide chemicals may limit the amount of a common component (such as As2O3) that may be present, or may limit the amount of biological activity (such as cholinesterase inhibition) that may be present, or may limit the total amount of related pesticide chemicals (such as chlorinated organic pesticides) that may be present.
 
@@ -58,7 +58,7 @@
 
 (3) The following pesticides are members of the class of dithiocarbamates:
 
-A mixture of 5.2 parts by weight of ammoniates of \[ethylenebis (dithiocarbamato)\] zinc with 1 part by weight ethylenebis \[dithiocarbamic acid\] bimolecular and trimolecular cyclic anhydrosulfides and disulfides. 2-Chloroallyl diethyldithiocarbamate. Coordination product of zinc ion and maneb containing 20 percent manganese, 2.5 percent zinc, and 77.5 percent ethylenebisdithiocarbamate. Ferbam. Maneb. Manganous dimethyldithiocarbamate. Sodium dimethyldithiocarbamate. Thiram. Zineb. Ziram.
+A mixture of 5.2 parts by weight of ammoniates of \[ethylenebis (dithiocarbamato)\] zinc with 1 part by weight ethylenebis \[dithiocarbamic acid\] bimolecular and trimolecular cyclic anhydrosulfides and disulfides. *p*2-Chloroallyl diethyldithiocarbamate. Coordination product of zinc ion and maneb containing 20 percent manganese, 2.5 percent zinc, and 77.5 percent ethylenebisdithiocarbamate. Ferbam. Maneb. Manganous dimethyldithiocarbamate. Sodium dimethyldithiocarbamate. Thiram. Zineb. Ziram.
 
 (4) The following are members of the class of chlorinated organic pesticides:
 

@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                           | Parts per million |
 | ------------------------------------------------------------------- | ----------------- |
-| Alfalfa, forage                                                     | 10                |
+| Alfalfa, forageBrassica,                                            | 10                |
 | Alfalfa, hay                                                        | 30                |
 | Almond, hulls                                                       | 7.0               |
 | Apple, wet pomace                                                   | 8.0               |

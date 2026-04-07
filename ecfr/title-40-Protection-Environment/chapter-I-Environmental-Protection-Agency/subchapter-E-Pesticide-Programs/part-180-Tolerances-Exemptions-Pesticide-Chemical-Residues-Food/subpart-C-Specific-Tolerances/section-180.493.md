@@ -4,7 +4,7 @@
 
 | Commodity                                                 | Parts per million |
 | --------------------------------------------------------- | ----------------- |
-| Brassica, head and stem, subgroup 5A                      | 6.0               |
+| Brassica, head and stem, subgroup 5A1                     | 6.0               |
 | Brassica, leafy greens, subgroup 5B                       | 30.0              |
 | Ginseng                                                   | 0.90              |
 | Grape                                                     | 3.0               |

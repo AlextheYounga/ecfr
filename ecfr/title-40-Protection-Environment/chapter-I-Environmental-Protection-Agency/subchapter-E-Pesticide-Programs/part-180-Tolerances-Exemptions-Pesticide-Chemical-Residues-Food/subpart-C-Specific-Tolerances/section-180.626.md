@@ -4,7 +4,7 @@
 
 | Commodity                                                                                                                                 | Parts per   million |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| Alfalfa, forage                                                                                                                           | 0.02                |
+| Alfalfa, forage1                                                                                                                          | 0.02                |
 | Alfalfa, hay                                                                                                                              | 0.02                |
 | Beet, sugar, roots                                                                                                                        | 0.25                |
 | Berry, low growing, except strawberry, subgroup 13-07H                                                                                    | 0.20                |

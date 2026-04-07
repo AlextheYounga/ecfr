@@ -4,7 +4,7 @@
 
 | Commodity                                                                 | Parts per   million |
 | ------------------------------------------------------------------------- | ------------------- |
-| Almond, hulls                                                             | 0.60                |
+| Almond, hulls1brassica,                                                   | 0.60                |
 | Cherry subgroup 12-12A                                                    | 0.30                |
 | Citrus, dried pulp                                                        | 2.0                 |
 | Citrus, oil                                                               | 30                  |

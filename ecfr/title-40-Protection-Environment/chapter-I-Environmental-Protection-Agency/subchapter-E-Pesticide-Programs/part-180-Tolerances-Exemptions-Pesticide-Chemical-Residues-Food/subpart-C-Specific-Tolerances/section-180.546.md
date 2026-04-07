@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                  | Parts per million |
 | ---------------------------------------------------------- | ----------------- |
-| Almond hulls                                               | 5                 |
+| Almond hulls1Brassica,                                     | 5                 |
 | Artichoke, globe                                           | 0.05              |
 | Atemoya                                                    | 0.20              |
 | Bean, snap, succulent                                      | 0.20              |

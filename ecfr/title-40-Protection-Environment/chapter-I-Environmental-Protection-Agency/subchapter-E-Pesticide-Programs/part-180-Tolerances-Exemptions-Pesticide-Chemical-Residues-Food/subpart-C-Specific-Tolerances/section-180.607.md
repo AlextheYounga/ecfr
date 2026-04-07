@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                      | Parts per million |
 | ------------------------------------------------------------------------------ | ----------------- |
-| Bean, dry                                                                      | 0.02              |
+| Bean, dry1                                                                     | 0.02              |
 | Bean, edible podded                                                            | 0.80              |
 | Bean, succulent                                                                | 0.10              |
 | Berry and small fruit, low growing berry, subgroup 13-07G                      | 2.0               |

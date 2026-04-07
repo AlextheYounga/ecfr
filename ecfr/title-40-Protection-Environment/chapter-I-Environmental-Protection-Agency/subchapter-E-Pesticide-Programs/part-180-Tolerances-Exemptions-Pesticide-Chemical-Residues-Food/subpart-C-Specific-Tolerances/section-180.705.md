@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                            | Parts per million |
 | -------------------------------------------------------------------- | ----------------- |
-| Almond, hulls                                                        | 4                 |
+| Almond, hulls1                                                       | 4                 |
 | Animal feed, nongrass, group 18, forage                              | 15                |
 | Animal feed, nongrass, group 18, hay                                 | 30                |
 | Banana 1                                                             | 1.5               |

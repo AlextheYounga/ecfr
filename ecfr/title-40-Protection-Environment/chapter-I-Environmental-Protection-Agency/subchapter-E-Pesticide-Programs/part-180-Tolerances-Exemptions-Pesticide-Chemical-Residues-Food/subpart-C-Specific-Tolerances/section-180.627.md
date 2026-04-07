@@ -2,6 +2,7 @@
 
 (a) *General.* Tolerances are established for residues of the fungicide fluopicolide \[2,6-dichloro-*N*-\[\[3-chloro-5-(trifluoromethyl)-2-pyridinyl\]methyl\]benzamide\], including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified below is to be determined by measuring only fluopicolide \[2,6-dichloro-*N*-\[\[3-chloro-5-(trifluoromethyl)-2-pyridinyl\]methyl\]benzamide\] in or on the commodity.
 
+Table 1 to Paragraph (d)
 | Commodity                                                            | Parts per million |
 | -------------------------------------------------------------------- | ----------------- |
 | Basil, dried, leaves                                                 | 200               |

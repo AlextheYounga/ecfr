@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                               | Parts per   million |
 | ----------------------------------------------------------------------- | ------------------- |
-| Barley, bran                                                            | 2.5                 |
+| Barley, bran1                                                           | 2.5                 |
 | Barley, grain                                                           | 2.0                 |
 | Barley, hay                                                             | 0.8                 |
 | Barley, straw                                                           | 0.4                 |

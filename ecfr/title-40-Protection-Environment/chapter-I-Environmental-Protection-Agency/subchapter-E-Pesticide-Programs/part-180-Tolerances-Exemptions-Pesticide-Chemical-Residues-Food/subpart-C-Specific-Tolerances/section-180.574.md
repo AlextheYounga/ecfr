@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                      | Parts per million |
 | -------------------------------------------------------------- | ----------------- |
-| Apple                                                          | 2.0               |
+| Apple1                                                         | 2.0               |
 | Apple, wet pomace                                              | 5.0               |
 | Bean, adzuki, dry seed                                         | 0.02              |
 | Bean, American potato, dry seed                                | 0.02              |

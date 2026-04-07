@@ -4,7 +4,7 @@
 
 | Commodity                                     | Parts per   million |
 | --------------------------------------------- | ------------------- |
-| Avocado                                       | 0.05                |
+| Avocado1                                      | 0.05                |
 | Cherry, sweet                                 | 0.1                 |
 | Fruit, pome, group 11-10                      | 0.15                |
 | Mango                                         | 0.05                |

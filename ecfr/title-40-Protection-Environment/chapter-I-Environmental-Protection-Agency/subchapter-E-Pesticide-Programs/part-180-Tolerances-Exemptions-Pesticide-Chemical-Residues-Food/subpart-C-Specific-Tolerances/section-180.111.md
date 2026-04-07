@@ -2,126 +2,127 @@
 
 (a) *General.* (1) Tolerances are established for residues of the insecticide malathion (*O,O*-dimethyl dithiophosphate of diethyl mercaptosuccinate) in or on the following food commodities:
 
-| Commodity                                       | Parts per million |
-| ----------------------------------------------- | ----------------- |
-| Alfalfa, forage                                 | 135               |
-| Alfalfa, hay                                    | 135               |
-| Almond, hulls                                   | 50                |
-| Almond, postharvest                             | 8                 |
-| Apple                                           | 8                 |
-| Apricot                                         | 8                 |
-| Asparagus                                       | 8                 |
-| Avocado                                         | 8                 |
-| Barley, grain, postharvest                      | 8                 |
-| Bean, dry, seed                                 | 8                 |
-| Bean, succulent                                 | 8                 |
-| Beet, garden, roots                             | 8                 |
-| Beet, garden, tops                              | 8                 |
-| Beet, sugar, roots                              | 1                 |
-| Beet, sugar, tops                               | 8                 |
-| Blackberry                                      | 8                 |
-| Blueberry                                       | 8                 |
-| Boysenberry                                     | 8                 |
-| Carrot, roots                                   | 8                 |
-| Chayote, fruit                                  | 8                 |
-| Chayote, roots                                  | 8                 |
-| Cherry                                          | 8                 |
-| Chestnut                                        | 1                 |
-| Clover, forage                                  | 135               |
-| Clover, hay                                     | 135               |
-| Corn, field, forage                             | 8                 |
-| Corn, field, grain, postharvest                 | 8                 |
-| Corn, pop, grain, postharvest                   | 8                 |
-| Corn, sweet, forage                             | 8                 |
-| Corn, sweet, kernel plus cob with husks removed | 2                 |
-| Cowpea, forage                                  | 135               |
-| Cowpea, hay                                     | 135               |
-| Cranberry                                       | 8                 |
-| Cucumber                                        | 8                 |
-| Currant                                         | 8                 |
-| Date, dried fruit                               | 8                 |
-| Dewberry                                        | 8                 |
-| Eggplant                                        | 8                 |
-| Fig                                             | 8                 |
-| Flax, seed                                      | 0.1               |
-| Garlic, bulb                                    | 8                 |
-| Gooseberry                                      | 8                 |
-| Grape                                           | 8                 |
-| Grapefruit                                      | 8                 |
-| Guava                                           | 8                 |
-| Hazelnut                                        | 1                 |
-| Hop, dried cones                                | 1                 |
-| Horseradish                                     | 8                 |
-| Kumquat                                         | 8                 |
-| Leek                                            | 8                 |
-| Lemon                                           | 8                 |
-| Lentil, seed                                    | 8                 |
-| Lespedeza, hay                                  | 135               |
-| Lime                                            | 8                 |
-| Loganberry                                      | 8                 |
-| Lupin, seed                                     | 8                 |
-| Mango                                           | 8                 |
-| Melon                                           | 8                 |
-| Mushroom                                        | 8                 |
-| Nectarine                                       | 8                 |
-| Nut, macadamia                                  | 1                 |
-| Oat, grain, postharvest                         | 8                 |
-| Okra                                            | 8                 |
-| Onion, bulb                                     | 8                 |
-| Onion, green                                    | 8                 |
-| Orange                                          | 8                 |
-| Papaya                                          | 1                 |
-| Parsnip                                         | 8                 |
-| Passionfruit                                    | 8                 |
-| Pea                                             | 8                 |
-| Pea, field, hay                                 | 8                 |
-| Pea, field, vines                               | 8                 |
-| Peach                                           | 8                 |
-| Peanut, hay                                     | 135               |
-| Peanut, postharvest                             | 8                 |
-| Pear                                            | 8                 |
-| Pecan                                           | 8                 |
-| Pepper                                          | 8                 |
-| Peppermint, tops                                | 8                 |
-| Pineapple                                       | 8                 |
-| Plum                                            | 8                 |
-| Plum, prune                                     | 8                 |
-| Potato                                          | 8                 |
-| Pumpkin                                         | 8                 |
-| Quince                                          | 8                 |
-| Radish                                          | 8                 |
-| Raspberry                                       | 8                 |
-| Rice, grain, postharvest                        | 8                 |
-| Rice, wild                                      | 8                 |
-| Rutabaga                                        | 8                 |
-| Rye, grain, postharvest                         | 8                 |
-| Safflower, seed                                 | 0.2               |
-| Salsify, roots                                  | 8                 |
-| Salsify, tops                                   | 8                 |
-| Shallot, bulb                                   | 8                 |
-| Sorghum, grain, forage                          | 8                 |
-| Sorghum, grain, grain, postharvest              | 8                 |
-| Soybean, forage                                 | 135               |
-| Soybean, hay                                    | 135               |
-| Soybean, seed                                   | 8                 |
-| Soybean, vegetable, succulent                   | 8                 |
-| Spearmint, tops                                 | 8                 |
-| Squash, summer                                  | 8                 |
-| Squash, winter                                  | 8                 |
-| Strawberry                                      | 8                 |
-| Sunflower, seed, postharvest                    | 8                 |
-| Sweet potato, roots                             | 1                 |
-| Tangerine                                       | 8                 |
-| Tomato                                          | 8                 |
-| Trefoil, forage                                 | 135               |
-| Trefoil, hay                                    | 135               |
-| Turnip, greens                                  | 8                 |
-| Turnip, roots                                   | 8                 |
-| Vegetable, brassica, leafy, group 5             | 8                 |
-| Vegetable, leafy, except brassica, group 4      | 8                 |
-| Vetch, hay                                      | 135               |
-| Walnut                                          | 8                 |
-| Wheat, grain, postharvest                       | 8                 |
+| Commodity                                                                                                                                  | Parts per million |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| Alfalfa, forage1                                                                                                                           | 135               |
+| Alfalfa, hay                                                                                                                               | 135               |
+| Almond, hulls                                                                                                                              | 50                |
+| Almond, postharvest                                                                                                                        | 8                 |
+| Apple                                                                                                                                      | 8                 |
+| Apricot                                                                                                                                    | 8                 |
+| Asparagus                                                                                                                                  | 8                 |
+| Avocado                                                                                                                                    | 8                 |
+| Barley, grain, postharvest                                                                                                                 | 8                 |
+| Bean, dry, seed                                                                                                                            | 8                 |
+| Bean, succulent                                                                                                                            | 8                 |
+| Beet, garden, roots                                                                                                                        | 8                 |
+| Beet, garden, tops                                                                                                                         | 8                 |
+| Beet, sugar, roots                                                                                                                         | 1                 |
+| Beet, sugar, tops                                                                                                                          | 8                 |
+| Blackberry                                                                                                                                 | 8                 |
+| Blueberry                                                                                                                                  | 8                 |
+| Boysenberry                                                                                                                                | 8                 |
+| Carrot, roots                                                                                                                              | 8                 |
+| Chayote, fruit                                                                                                                             | 8                 |
+| Chayote, roots                                                                                                                             | 8                 |
+| Cherry                                                                                                                                     | 8                 |
+| Chestnut                                                                                                                                   | 1                 |
+| Clover, forage                                                                                                                             | 135               |
+| Clover, hay                                                                                                                                | 135               |
+| Corn, field, forage                                                                                                                        | 8                 |
+| Corn, field, grain, postharvest                                                                                                            | 8                 |
+| Corn, pop, grain, postharvest                                                                                                              | 8                 |
+| Corn, sweet, forage                                                                                                                        | 8                 |
+| Corn, sweet, kernel plus cob with husks removed                                                                                            | 2                 |
+| Cowpea, forage                                                                                                                             | 135               |
+| Cowpea, hay                                                                                                                                | 135               |
+| Cranberry                                                                                                                                  | 8                 |
+| Cucumber                                                                                                                                   | 8                 |
+| Currant                                                                                                                                    | 8                 |
+| Date, dried fruit                                                                                                                          | 8                 |
+| Dewberry                                                                                                                                   | 8                 |
+| Eggplant                                                                                                                                   | 8                 |
+| Fig                                                                                                                                        | 8                 |
+| Flax, seed                                                                                                                                 | 0.1               |
+| Garlic, bulb                                                                                                                               | 8                 |
+| Gooseberry                                                                                                                                 | 8                 |
+| Grape                                                                                                                                      | 8                 |
+| Grapefruit                                                                                                                                 | 8                 |
+| Guava                                                                                                                                      | 8                 |
+| Hazelnut                                                                                                                                   | 1                 |
+| Hop, dried cones                                                                                                                           | 1                 |
+| Horseradish                                                                                                                                | 8                 |
+| Kumquat                                                                                                                                    | 8                 |
+| Leek                                                                                                                                       | 8                 |
+| Lemon                                                                                                                                      | 8                 |
+| Lentil, seed                                                                                                                               | 8                 |
+| Lespedeza, hay                                                                                                                             | 135               |
+| Lime                                                                                                                                       | 8                 |
+| Loganberry                                                                                                                                 | 8                 |
+| Lupin, seed                                                                                                                                | 8                 |
+| Mango                                                                                                                                      | 8                 |
+| Melon                                                                                                                                      | 8                 |
+| Mushroom                                                                                                                                   | 8                 |
+| Nectarine                                                                                                                                  | 8                 |
+| Nut, macadamia                                                                                                                             | 1                 |
+| Oat, grain, postharvest                                                                                                                    | 8                 |
+| Okra                                                                                                                                       | 8                 |
+| Onion, bulb                                                                                                                                | 8                 |
+| Onion, green                                                                                                                               | 8                 |
+| Orange                                                                                                                                     | 8                 |
+| Papaya                                                                                                                                     | 1                 |
+| Parsnip                                                                                                                                    | 8                 |
+| Passionfruit                                                                                                                               | 8                 |
+| Pea                                                                                                                                        | 8                 |
+| Pea, field, hay                                                                                                                            | 8                 |
+| Pea, field, vines                                                                                                                          | 8                 |
+| Peach                                                                                                                                      | 8                 |
+| Peanut, hay                                                                                                                                | 135               |
+| Peanut, postharvest                                                                                                                        | 8                 |
+| Pear                                                                                                                                       | 8                 |
+| Pecan                                                                                                                                      | 8                 |
+| Pepper                                                                                                                                     | 8                 |
+| Peppermint, tops                                                                                                                           | 8                 |
+| Pineapple                                                                                                                                  | 8                 |
+| Plum                                                                                                                                       | 8                 |
+| Plum, prune                                                                                                                                | 8                 |
+| Potato                                                                                                                                     | 8                 |
+| Pumpkin                                                                                                                                    | 8                 |
+| Quince                                                                                                                                     | 8                 |
+| Radish                                                                                                                                     | 8                 |
+| Raspberry                                                                                                                                  | 8                 |
+| Rice, grain, postharvest                                                                                                                   | 8                 |
+| Rice, wild                                                                                                                                 | 8                 |
+| Rutabaga                                                                                                                                   | 8                 |
+| Rye, grain, postharvest                                                                                                                    | 8                 |
+| Safflower, seed                                                                                                                            | 0.2               |
+| Salsify, roots                                                                                                                             | 8                 |
+| Salsify, tops                                                                                                                              | 8                 |
+| Shallot, bulb                                                                                                                              | 8                 |
+| Sorghum, grain, forage                                                                                                                     | 8                 |
+| Sorghum, grain, grain, postharvest                                                                                                         | 8                 |
+| Soybean, forage                                                                                                                            | 135               |
+| Soybean, hay                                                                                                                               | 135               |
+| Soybean, seed                                                                                                                              | 8                 |
+| Soybean, vegetable, succulent                                                                                                              | 8                 |
+| Spearmint, tops                                                                                                                            | 8                 |
+| Squash, summer                                                                                                                             | 8                 |
+| Squash, winter                                                                                                                             | 8                 |
+| Strawberry                                                                                                                                 | 8                 |
+| Sunflower, seed, postharvest                                                                                                               | 8                 |
+| Sweet potato, roots                                                                                                                        | 1                 |
+| Tangerine                                                                                                                                  | 8                 |
+| Tomato                                                                                                                                     | 8                 |
+| Trefoil, forage                                                                                                                            | 135               |
+| Trefoil, hay                                                                                                                               | 135               |
+| Turnip, greens                                                                                                                             | 8                 |
+| Turnip, roots                                                                                                                              | 8                 |
+| Vegetable, brassica, leafy, group 5                                                                                                        | 8                 |
+| Vegetable, leafy, except brassica, group 4                                                                                                 | 8                 |
+| Vetch, hay                                                                                                                                 | 135               |
+| Walnut                                                                                                                                     | 8                 |
+| Wheat, grain, postharvest                                                                                                                  | 8                 |
+| 1 The tolerance level shall not be exceeded in any cut of meat or in any meat byproducts from cattle, goat, hog, horse, poultry, or sheep. |                   |
 
 (2) Tolerances are established for the combined residues of the insecticide malathion (*O,O*-dimethyl dithiophosphate of diethyl mercaptosuccinate) and its metabolite, malaoxon (O,O-dimethyl thiophosphate of diethyl mercaptosuccinate), in or on the following food commodities:
 

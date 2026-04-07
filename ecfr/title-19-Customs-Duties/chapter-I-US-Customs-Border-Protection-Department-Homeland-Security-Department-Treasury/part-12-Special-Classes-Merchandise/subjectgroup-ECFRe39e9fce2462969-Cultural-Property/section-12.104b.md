@@ -1,6 +1,6 @@
 ##### § 12.104b State Parties to the Convention.
 
-(a) The following is a list of State Parties which have deposited an instrument of ratification, acceptance, accession or succession, the date of such deposit and the date of entry into force for each State Party: 
+(a) The following is a list of State Parties which have deposited an instrument of ratification, acceptance, accession or succession, the date of such deposit and the date of entry into force for each State Party:
 
 | State party                                                                                                                                                                                                                                                                                                                          | Date of deposit     | Date of entry into force |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | ------------------------ |
@@ -92,6 +92,6 @@
 | 3\. The Government of the Russian Federation informed the Director General of UNESCO that the Russian Federation continues without interruption the participation of the USSR in all UNESCO Conventions. The instrument of ratification was deposited by the former USSR on April 28, 1988. and entered into force on July 28, 1988. |                     |                          |
 | 4\. The Czech Republic and the Slovak Republic each deposited a notification of succession in which each declared itself bound by the Convention as accepted by Czechoslovakia on Feb. 14, 1977 and which entered into force on May 14, 1977.                                                                                        |                     |                          |
 
-(b) Additions to and deletions from the list of State Parties will be accomplished by Federal Register notice, from time to time, as the necessity arises. 
+(b) Additions to and deletions from the list of State Parties will be accomplished by Federal Register notice, from time to time, as the necessity arises.
 
 \[T.D. 86-52, 51 FR 6907, Feb. 27, 1986, as amended by T.D. 88-59, 53 FR 38287, Sept. 30, 1988; T.D. 90-13, 55 FR 4996, Feb. 13, 1990; T.D. 95-71, 60 FR 47467, Sept. 13, 1995 ; CBP Dec. 08-25, 73 FR 40725, July 16, 2008\]

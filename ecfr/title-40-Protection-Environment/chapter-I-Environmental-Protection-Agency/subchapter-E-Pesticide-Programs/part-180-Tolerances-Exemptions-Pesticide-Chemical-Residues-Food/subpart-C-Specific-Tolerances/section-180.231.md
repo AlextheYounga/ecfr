@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                     | Parts per million |
 | --------------------------------------------- | ----------------- |
-| Apple                                         | 0.5               |
+| Apple1                                        | 0.5               |
 | Bushberry subgroup 13-07B                     | 0.15              |
 | Caneberry subgroup 13-07A                     | 0.10              |
 | Cherry                                        | 0.15              |

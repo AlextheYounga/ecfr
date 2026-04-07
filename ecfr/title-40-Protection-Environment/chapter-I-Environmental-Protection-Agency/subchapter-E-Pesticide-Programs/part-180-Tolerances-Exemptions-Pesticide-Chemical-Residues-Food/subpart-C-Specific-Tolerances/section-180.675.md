@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                   | Parts per million |
 | --------------------------------------------------------------------------- | ----------------- |
-| Almond hulls                                                                | 6.0               |
+| Almond hullsBrassica,1                                                      | 6.0               |
 | Apple, wet pomace                                                           | 3.0               |
 | Artichoke, globe                                                            | 5                 |
 | Avocado                                                                     | 1.5               |

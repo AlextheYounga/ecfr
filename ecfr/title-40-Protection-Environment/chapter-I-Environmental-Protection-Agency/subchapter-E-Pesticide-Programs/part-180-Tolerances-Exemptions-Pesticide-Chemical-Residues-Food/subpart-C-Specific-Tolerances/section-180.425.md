@@ -4,7 +4,7 @@
 
 | Commodity                                                | Parts per million |
 | -------------------------------------------------------- | ----------------- |
-| Bean, asparagus, dry seed                                | 0.05              |
+| Bean, asparagus, dry seedBrassica,                       | 0.05              |
 | Bean, broad, dry seed                                    | 0.05              |
 | Bean, broad, succulent seed                              | 0.05              |
 | Bean, kidney, dry seed                                   | 0.05              |

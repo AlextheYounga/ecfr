@@ -1,6 +1,6 @@
 ##### § 180.40 Tolerances for crop groups.
 
-(a) Group or subgroup tolerances may be established as a result of:
+(a) Group or subgroup tolerances may be established as a result of:*General.*
 
 (1) A petition from a person who has submitted an application for the registration of a pesticide under the Federal Insecticide, Fungicide, and Rodenticide Act.
 

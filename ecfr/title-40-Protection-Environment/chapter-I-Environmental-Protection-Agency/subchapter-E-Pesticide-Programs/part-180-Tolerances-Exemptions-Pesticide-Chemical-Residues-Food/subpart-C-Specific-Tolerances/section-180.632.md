@@ -4,7 +4,7 @@
 
 | Commodity                                                                          | Parts per   million |
 | ---------------------------------------------------------------------------------- | ------------------- |
-| Almond, hulls                                                                      | 4                   |
+| Almond, hulls2                                                                     | 4                   |
 | Avocado                                                                            | 0.15                |
 | Berry, low growing, subgroup 13-07G                                                | 2                   |
 | Bushberry, subgroup 13-07B                                                         | 0.8                 |

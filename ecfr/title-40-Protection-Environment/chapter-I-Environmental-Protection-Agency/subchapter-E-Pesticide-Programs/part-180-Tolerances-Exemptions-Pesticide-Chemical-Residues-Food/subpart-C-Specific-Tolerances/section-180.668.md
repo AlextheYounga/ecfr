@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                             | Parts per million |
 | --------------------------------------------------------------------- | ----------------- |
-| Alfalfa, forage                                                       | 7                 |
+| Alfalfa, forageBrassica,1                                             | 7                 |
 | Alfalfa, hay                                                          | 20                |
 | Alfalfa, seed                                                         | 40                |
 | Alfalfa, silage                                                       | 9                 |

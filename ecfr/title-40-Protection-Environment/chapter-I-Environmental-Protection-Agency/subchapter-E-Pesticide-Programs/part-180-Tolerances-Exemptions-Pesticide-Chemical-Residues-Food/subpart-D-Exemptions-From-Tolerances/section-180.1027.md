@@ -1,6 +1,6 @@
 ##### § 180.1027 Nuclear polyhedrosis virus of Heliothis zea; exemption from the requirement of a tolerance.
 
-(a) For the purposes of this section, the viral insecticide must be produced with an unaltered and unadulterated inoculum of the single-embedded *Heliothis zea* nuclear polyhedrosis virus (HzSNPV). The identity of the seed virus must be assured by periodic checks.
+(a) For the purposes of this section, the viral insecticide must be produced with an unaltered and unadulterated inoculum of the single-embedded *Heliothis zea* nuclear polyhedrosis virus (HzSNPV). The identity of the seed virus must be assured by periodic checks.7
 
 (b) Each lot of active ingredient of the viral insecticide shall have the following specifications:
 

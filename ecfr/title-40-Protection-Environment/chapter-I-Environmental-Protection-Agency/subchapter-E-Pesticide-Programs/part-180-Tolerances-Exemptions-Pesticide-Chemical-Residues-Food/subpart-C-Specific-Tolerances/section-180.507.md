@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                                                                      | Parts per million |
 | ------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| Acerola                                                                                                                        | 2.0               |
+| Acerola1                                                                                                                       | 2.0               |
 | Almond, hulls                                                                                                                  | 4.0               |
 | Animal feed, nongrass, group 18, forage                                                                                        | 45                |
 | Animal feed, nongrass, group 18, hay                                                                                           | 120               |
@@ -137,7 +137,7 @@ Table 1 to Paragraph (a)(1)
 | Wheat, grain                                                                                                                   | 0.2               |
 | Wheat, hay                                                                                                                     | 30.0              |
 | Wheat, straw                                                                                                                   | 10.0              |
-| \* 2.0 (of which not more than 0.1 is contained in the pulp)                                                                   |                   |
+| \* 2.0 (of which not more than 0.1 is contained in the pulp) 1                                                                 |                   |
 | 1 There are no United States registrations for use of azoxystrobin on coffee, green bean; ginseng; pear, Asian and tea, dried. |                   |
 | 2 There are no U.S. registrations on palm, oil as of March 20, 2023.                                                           |                   |
 

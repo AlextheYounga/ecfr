@@ -4,7 +4,7 @@
 
 | Commodity                                                      | Parts per million |
 | -------------------------------------------------------------- | ----------------- |
-| Basil, dried leaves                                            | 200               |
+| Basil, dried leavesBrassica,1                                  | 200               |
 | Basil, fresh leaves                                            | 30                |
 | Bean, succulent, except cowpea                                 | 0.80              |
 | Celtuce                                                        | 60                |
@@ -29,6 +29,7 @@
 | Vegetable, fruiting, group 8, except nonbell pepper            | 1.0               |
 | Vegetable, root, except sugar beet, subgroup 1B, except radish | 0.15              |
 | Vegetable, tuberous and corm, subgroup 1C                      | 0.02              |
+| 1 Applicable to grapes grown East of the Rocky Mountains.      |                   |
 
 (2) Tolerances are established for residues of the fungicide fenamidone, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels is to be determined by measuring fenamidone (4H-Imidazol-4-one, 3,5-dihydro-5-methyl-2-(methylthio)-5-phenyl-3 (phenylamino)-,(S)-), and its metabolite RPA 717879 (2,4-imidazolidinedione, 5-methyl-5-phenyl), in or on the commodities:
 

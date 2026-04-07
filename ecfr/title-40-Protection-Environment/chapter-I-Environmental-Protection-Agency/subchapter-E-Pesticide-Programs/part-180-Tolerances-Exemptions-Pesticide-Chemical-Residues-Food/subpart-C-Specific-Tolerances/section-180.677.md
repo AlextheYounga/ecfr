@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                                        | Parts per   million |
 | -------------------------------------------------------------------------------- | ------------------- |
-| Almond, hulls                                                                    | 4.0                 |
+| Almond, hulls 2                                                                  | 4.0                 |
 | Berry, low growing, subgroup 13-07G                                              | 0.6                 |
 | Cherry subgroup 12-12A                                                           | 1.5                 |
 | Citrus, oil                                                                      | 16                  |

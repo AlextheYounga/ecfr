@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                           | Parts per million |
 | ------------------------------------------------------------------- | ----------------- |
-| Acerola                                                             | 5.0               |
+| Acerola1                                                            | 5.0               |
 | African Tree Nut                                                    | 0.01              |
 | Almond                                                              | 0.2               |
 | Almond, hulls                                                       | 15                |

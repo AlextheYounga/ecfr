@@ -1,6 +1,6 @@
 ##### § 261.32 Hazardous wastes from specific sources.
 
-(a)The following solid wastes are listed hazardous wastes from specific sources unless they are excluded under §§ 260.20 and 260.22 and listed in appendix IX. 
+(a)The following solid wastes are listed hazardous wastes from specific sources unless they are excluded under §§ 260.20 and 260.22 and listed in appendix IX.
 
 | Industry and EPA hazardous waste No. | Hazardous waste                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Hazard code |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
@@ -138,9 +138,9 @@
 | K147                                 | Tar storage tank residues from coal tar refining                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | (T)         |
 | K148                                 | Residues from coal tar distillation, including but not limited to, still bottoms                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | (T)         |
 
-(b) *Listing Specific Definitions:* (1) For the purposes of the K181 listing, dyes and/or pigments production is defined to include manufacture of the following product classes: dyes, pigments, or FDA certified colors that are classified as azo, triarylmethane, perylene or anthraquinone classes. Azo products include azo, monoazo, diazo, triazo, polyazo, azoic, benzidine, and pyrazolone products. Triarylmethane products include both triarylmethane and triphenylmethane products. Wastes that are not generated at a dyes and/or pigments manufacturing site, such as wastes from the offsite use, formulation, and packaging of dyes and/or pigments, are not included in the K181 listing. 
+(b) *Listing Specific Definitions:* (1) For the purposes of the K181 listing, dyes and/or pigments production is defined to include manufacture of the following product classes: dyes, pigments, or FDA certified colors that are classified as azo, triarylmethane, perylene or anthraquinone classes. Azo products include azo, monoazo, diazo, triazo, polyazo, azoic, benzidine, and pyrazolone products. Triarylmethane products include both triarylmethane and triphenylmethane products. Wastes that are not generated at a dyes and/or pigments manufacturing site, such as wastes from the offsite use, formulation, and packaging of dyes and/or pigments, are not included in the K181 listing.
 
-(c) *K181 Listing Levels.* Nonwastewaters containing constituents in amounts equal to or exceeding the following levels during any calendar year are subject to the K181 listing, unless the conditions in the K181 listing are met. 
+(c) *K181 Listing Levels.* Nonwastewaters containing constituents in amounts equal to or exceeding the following levels during any calendar year are subject to the K181 listing, unless the conditions in the K181 listing are met.
 
 | Constituent          | Chemical   abstracts No. | Mass levels   (kg/yr) |
 | -------------------- | ------------------------ | --------------------- |
@@ -152,78 +152,78 @@
 | 1,2-Phenylenediamine | 95-54-5                  | 710                   |
 | 1,3-Phenylenediamine | 108-45-2                 | 1,200                 |
 
-(d) *Procedures for demonstrating that dyes and/or pigment nonwastewaters are not K181.* The procedures described in paragraphs (d)(1)-(d)(3) and (d)(5) of this section establish when nonwastewaters from the production of dyes/pigments would not be hazardous (these procedures apply to wastes that are not disposed in landfill units or treated in combustion units as specified in paragraph (a) of this section). If the nonwastewaters are disposed in landfill units or treated in combustion units as described in paragraph (a) of this section, then the nonwastewaters are not hazardous. In order to demonstrate that it is meeting the landfill disposal or combustion conditions contained in the K181 listing description, the generator must maintain documentation as described in paragraph (d)(4) of this section. 
+(d) *Procedures for demonstrating that dyes and/or pigment nonwastewaters are not K181.* The procedures described in paragraphs (d)(1)-(d)(3) and (d)(5) of this section establish when nonwastewaters from the production of dyes/pigments would not be hazardous (these procedures apply to wastes that are not disposed in landfill units or treated in combustion units as specified in paragraph (a) of this section). If the nonwastewaters are disposed in landfill units or treated in combustion units as described in paragraph (a) of this section, then the nonwastewaters are not hazardous. In order to demonstrate that it is meeting the landfill disposal or combustion conditions contained in the K181 listing description, the generator must maintain documentation as described in paragraph (d)(4) of this section.
 
-(1) *Determination based on no K181 constituents.* Generators that have knowledge (e.g., knowledge of constituents in wastes based on prior sampling and analysis data and/or information about raw materials used, production processes used, and reaction and degradation products formed) that their wastes contain none of the K181 constituents (*see* paragraph (c) of this section) can use their knowledge to determine that their waste is not K181. The generator must document the basis for all such determinations on an annual basis and keep each annual documentation for three years. 
+(1) *Determination based on no K181 constituents.* Generators that have knowledge (e.g., knowledge of constituents in wastes based on prior sampling and analysis data and/or information about raw materials used, production processes used, and reaction and degradation products formed) that their wastes contain none of the K181 constituents (*see* paragraph (c) of this section) can use their knowledge to determine that their waste is not K181. The generator must document the basis for all such determinations on an annual basis and keep each annual documentation for three years.
 
-(2) *Determination for generated quantities of 1,000 MT/yr or less for wastes that contain K181 constituents.* If the total annual quantity of dyes and/or pigment nonwastewaters generated is 1,000 metric tons or less, the generator can use knowledge of the wastes (e.g., knowledge of constituents in wastes based on prior analytical data and/or information about raw materials used, production processes used, and reaction and degradation products formed) to conclude that annual mass loadings for the K181 constituents are below the listing levels of paragraph (c) of this section. To make this determination, the generator must: 
+(2) *Determination for generated quantities of 1,000 MT/yr or less for wastes that contain K181 constituents.* If the total annual quantity of dyes and/or pigment nonwastewaters generated is 1,000 metric tons or less, the generator can use knowledge of the wastes (e.g., knowledge of constituents in wastes based on prior analytical data and/or information about raw materials used, production processes used, and reaction and degradation products formed) to conclude that annual mass loadings for the K181 constituents are below the listing levels of paragraph (c) of this section. To make this determination, the generator must:
 
-(i) Each year document the basis for determining that the annual quantity of nonwastewaters expected to be generated will be less than 1,000 metric tons. 
+(i) Each year document the basis for determining that the annual quantity of nonwastewaters expected to be generated will be less than 1,000 metric tons.
 
-(ii) Track the actual quantity of nonwastewaters generated from January 1 through December 31 of each year. If, at any time within the year, the actual waste quantity exceeds 1,000 metric tons, the generator must comply with the requirements of paragraph (d)(3) of this section for the remainder of the year. 
+(ii) Track the actual quantity of nonwastewaters generated from January 1 through December 31 of each year. If, at any time within the year, the actual waste quantity exceeds 1,000 metric tons, the generator must comply with the requirements of paragraph (d)(3) of this section for the remainder of the year.
 
-(iii) Keep a running total of the K181 constituent mass loadings over the course of the calendar year. 
+(iii) Keep a running total of the K181 constituent mass loadings over the course of the calendar year.
 
-(iv) Keep the following records on site for the three most recent calendar years in which the hazardous waste determinations are made: 
+(iv) Keep the following records on site for the three most recent calendar years in which the hazardous waste determinations are made:
 
-(A) The quantity of dyes and/or pigment nonwastewaters generated. 
+(A) The quantity of dyes and/or pigment nonwastewaters generated.
 
-(B) The relevant process information used. 
+(B) The relevant process information used.
 
-(C) The calculations performed to determine annual total mass loadings for each K181 constituent in the nonwastewaters during the year. 
+(C) The calculations performed to determine annual total mass loadings for each K181 constituent in the nonwastewaters during the year.
 
-(3) *Determination for generated quantities greater than 1,000 MT/yr for wastes that contain K181 constituents.* If the total annual quantity of dyes and/or pigment nonwastewaters generated is greater than 1,000 metric tons, the generator must perform all of the steps described in paragraphs ((d)(3)(i)-(d)(3)(xi) of this section) in order to make a determination that its waste is not K181. 
+(3) *Determination for generated quantities greater than 1,000 MT/yr for wastes that contain K181 constituents.* If the total annual quantity of dyes and/or pigment nonwastewaters generated is greater than 1,000 metric tons, the generator must perform all of the steps described in paragraphs ((d)(3)(i)-(d)(3)(xi) of this section) in order to make a determination that its waste is not K181.
 
-(i) Determine which K181 constituents (see paragraph (c) of this section) are reasonably expected to be present in the wastes based on knowledge of the wastes (e.g., based on prior sampling and analysis data and/or information about raw materials used, production processes used, and reaction and degradation products formed). 
+(i) Determine which K181 constituents (see paragraph (c) of this section) are reasonably expected to be present in the wastes based on knowledge of the wastes (e.g., based on prior sampling and analysis data and/or information about raw materials used, production processes used, and reaction and degradation products formed).
 
-(ii) If 1,2-phenylenediamine is present in the wastes, the generator can use either knowledge or sampling and analysis procedures to determine the level of this constituent in the wastes. For determinations based on use of knowledge, the generator must comply with the procedures for using knowledge described in paragraph (d)(2) of this section and keep the records described in paragraph (d)(2)(iv) of this section. For determinations based on sampling and analysis, the generator must comply with the sampling and analysis and recordkeeping requirements described below in this section. 
+(ii) If 1,2-phenylenediamine is present in the wastes, the generator can use either knowledge or sampling and analysis procedures to determine the level of this constituent in the wastes. For determinations based on use of knowledge, the generator must comply with the procedures for using knowledge described in paragraph (d)(2) of this section and keep the records described in paragraph (d)(2)(iv) of this section. For determinations based on sampling and analysis, the generator must comply with the sampling and analysis and recordkeeping requirements described below in this section.
 
-(iii) Develop a waste sampling and analysis plan (or modify an existing plan) to collect and analyze representative waste samples for the K181 constituents reasonably expected to be present in the wastes. At a minimum, the plan must include: 
+(iii) Develop a waste sampling and analysis plan (or modify an existing plan) to collect and analyze representative waste samples for the K181 constituents reasonably expected to be present in the wastes. At a minimum, the plan must include:
 
-(A) A discussion of the number of samples needed to characterize the wastes fully; 
+(A) A discussion of the number of samples needed to characterize the wastes fully;
 
-(B) The planned sample collection method to obtain representative waste samples; 
+(B) The planned sample collection method to obtain representative waste samples;
 
-(C) A discussion of how the sampling plan accounts for potential temporal and spatial variability of the wastes. 
+(C) A discussion of how the sampling plan accounts for potential temporal and spatial variability of the wastes.
 
-(D) A detailed description of the test methods to be used, including sample preparation, clean up (if necessary), and determinative methods. 
+(D) A detailed description of the test methods to be used, including sample preparation, clean up (if necessary), and determinative methods.
 
-(iv) Collect and analyze samples in accordance with the waste sampling and analysis plan. 
+(iv) Collect and analyze samples in accordance with the waste sampling and analysis plan.
 
-(A) The sampling and analysis must be unbiased, precise, and representative of the wastes. 
+(A) The sampling and analysis must be unbiased, precise, and representative of the wastes.
 
-(B) The analytical measurements must be sufficiently sensitive, accurate and precise to support any claim that the constituent mass loadings are below the listing levels of paragraph (c) of this section. 
+(B) The analytical measurements must be sufficiently sensitive, accurate and precise to support any claim that the constituent mass loadings are below the listing levels of paragraph (c) of this section.
 
-(v) Record the analytical results. 
+(v) Record the analytical results.
 
-(vi) Record the waste quantity represented by the sampling and analysis results. 
+(vi) Record the waste quantity represented by the sampling and analysis results.
 
-(vii) Calculate constituent-specific mass loadings (product of concentrations and waste quantity). 
+(vii) Calculate constituent-specific mass loadings (product of concentrations and waste quantity).
 
-(viii) Keep a running total of the K181 constituent mass loadings over the course of the calendar year. 
+(viii) Keep a running total of the K181 constituent mass loadings over the course of the calendar year.
 
-(ix) Determine whether the mass of any of the K181 constituents listed in paragraph (c) of this section generated between January 1 and December 31 of any year is below the K181 listing levels. 
+(ix) Determine whether the mass of any of the K181 constituents listed in paragraph (c) of this section generated between January 1 and December 31 of any year is below the K181 listing levels.
 
-(x) Keep the following records on site for the three most recent calendar years in which the hazardous waste determinations are made: 
+(x) Keep the following records on site for the three most recent calendar years in which the hazardous waste determinations are made:
 
-(A) The sampling and analysis plan. 
+(A) The sampling and analysis plan.
 
-(B) The sampling and analysis results (including QA/QC data) 
+(B) The sampling and analysis results (including QA/QC data)
 
-(C) The quantity of dyes and/or pigment nonwastewaters generated. 
+(C) The quantity of dyes and/or pigment nonwastewaters generated.
 
-(D) The calculations performed to determine annual mass loadings. 
+(D) The calculations performed to determine annual mass loadings.
 
-(xi) Nonhazardous waste determinations must be conducted annually to verify that the wastes remain nonhazardous. 
+(xi) Nonhazardous waste determinations must be conducted annually to verify that the wastes remain nonhazardous.
 
-(A) The annual testing requirements are suspended after three consecutive successful annual demonstrations that the wastes are nonhazardous. The generator can then use knowledge of the wastes to support subsequent annual determinations. 
+(A) The annual testing requirements are suspended after three consecutive successful annual demonstrations that the wastes are nonhazardous. The generator can then use knowledge of the wastes to support subsequent annual determinations.
 
-(B) The annual testing requirements are reinstated if the manufacturing or waste treatment processes generating the wastes are significantly altered, resulting in an increase of the potential for the wastes to exceed the listing levels. 
+(B) The annual testing requirements are reinstated if the manufacturing or waste treatment processes generating the wastes are significantly altered, resulting in an increase of the potential for the wastes to exceed the listing levels.
 
-(C) If the annual testing requirements are suspended, the generator must keep records of the process knowledge information used to support a nonhazardous determination. If testing is reinstated, a description of the process change must be retained. 
+(C) If the annual testing requirements are suspended, the generator must keep records of the process knowledge information used to support a nonhazardous determination. If testing is reinstated, a description of the process change must be retained.
 
-(4) *Recordkeeping for the landfill disposal and combustion exemptions.* For the purposes of meeting the landfill disposal and combustion condition set out in the K181 listing description, the generator must maintain on site for three years documentation demonstrating that each shipment of waste was received by a landfill unit that is subject to or meets the landfill design standards set out in the listing description, or was treated in combustion units as specified in the listing description. 
+(4) *Recordkeeping for the landfill disposal and combustion exemptions.* For the purposes of meeting the landfill disposal and combustion condition set out in the K181 listing description, the generator must maintain on site for three years documentation demonstrating that each shipment of waste was received by a landfill unit that is subject to or meets the landfill design standards set out in the listing description, or was treated in combustion units as specified in the listing description.
 
-(5) *Waste holding and handling.* During the interim period, from the point of generation to completion of the hazardous waste determination, the generator is responsible for storing the wastes appropriately. If the wastes are determined to be hazardous and the generator has not complied with the subtitle C requirements during the interim period, the generator could be subject to an enforcement action for improper management. 
+(5) *Waste holding and handling.* During the interim period, from the point of generation to completion of the hazardous waste determination, the generator is responsible for storing the wastes appropriately. If the wastes are determined to be hazardous and the generator has not complied with the subtitle C requirements during the interim period, the generator could be subject to an enforcement action for improper management.
 
 \[46 FR 4618, Jan. 16, 1981\] Editorial Note:For Federal Register citations affecting § 261.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                                                    | Parts per   million |
 | -------------------------------------------------------------------------------------------- | ------------------- |
-| Almond, hulls                                                                                | 4                   |
+| Almond, hulls1                                                                               | 4                   |
 | Cattle, fat                                                                                  | 0.04                |
 | Cattle, meat                                                                                 | 0.02                |
 | Cattle, meat byproducts                                                                      | 0.3                 |

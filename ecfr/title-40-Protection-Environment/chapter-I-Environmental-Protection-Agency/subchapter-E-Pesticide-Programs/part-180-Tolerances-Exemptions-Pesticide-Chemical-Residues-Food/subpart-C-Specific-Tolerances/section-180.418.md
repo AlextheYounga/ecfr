@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                | Parts per   million |
 | -------------------------------------------------------- | ------------------- |
-| Allspice 1                                               | 0.5                 |
+| Allspice 1Brassica,                                      | 0.5                 |
 | Angelica, seed 1                                         | 0.2                 |
 | Anise pepper 1                                           | 0.5                 |
 | Asafoetida 1                                             | 0.2                 |

@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                                                | Parts per million |
 | -------------------------------------------------------------------------------------------------------- | ----------------- |
-| Alfalfa, forage                                                                                          | 0.08              |
+| Alfalfa, forage1                                                                                         | 0.08              |
 | Alfalfa, hay                                                                                             | 0.10              |
 | Almond, hulls                                                                                            | 0.10              |
 | Banana 1                                                                                                 | 0.03              |

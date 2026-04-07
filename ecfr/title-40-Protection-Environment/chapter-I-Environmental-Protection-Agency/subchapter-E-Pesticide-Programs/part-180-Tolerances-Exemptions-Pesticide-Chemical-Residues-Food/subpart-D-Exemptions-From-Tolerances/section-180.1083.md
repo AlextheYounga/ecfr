@@ -1,6 +1,6 @@
 ##### § 180.1083 Dimethyl sulfoxide; exemption from the requirement of a tolerance.
 
-Dimethyl sulfoxide (DMSO) \[CAS Registry Number 67-68-5\] is exempted from the requirement of a tolerance when used as an inert solvent or cosolvent in formulations with the following pesticides when used in accordance with good agricultural practices in or on the following raw agricultural commodities:
+Dimethyl sulfoxide (DMSO) \[CAS Registry Number 67-68-5\] is exempted from the requirement of a tolerance when used as an inert solvent or cosolvent in formulations with the following pesticides when used in accordance with good agricultural practices in or on the following raw agricultural commodities:*O*
 
 (a) Carbaryl (1-naphthyl methyl-carbamate)
 

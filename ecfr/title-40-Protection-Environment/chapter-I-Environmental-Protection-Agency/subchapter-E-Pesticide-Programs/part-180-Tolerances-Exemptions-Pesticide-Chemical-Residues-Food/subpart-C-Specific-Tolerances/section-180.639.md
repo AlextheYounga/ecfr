@@ -4,7 +4,7 @@
 
 | Commodity                                                                              | Parts per million |
 | -------------------------------------------------------------------------------------- | ----------------- |
-| Almond, hulls                                                                          | 9.0               |
+| Almond, hulls1Brassica,                                                                | 9.0               |
 | Apple, wet pomace                                                                      | 5.0               |
 | Corn, field, forage                                                                    | 8.0               |
 | Corn, field, grain                                                                     | 0.03              |

@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                           | Parts per million |
 | ------------------------------------------------------------------- | ----------------- |
-| Almond, hulls                                                       | 9                 |
+| Almond, hullsBrassica,                                              | 9                 |
 | Apple, wet pomace                                                   | 1                 |
 | Barley, grain                                                       | 4.0               |
 | Barley, hay                                                         | 30                |

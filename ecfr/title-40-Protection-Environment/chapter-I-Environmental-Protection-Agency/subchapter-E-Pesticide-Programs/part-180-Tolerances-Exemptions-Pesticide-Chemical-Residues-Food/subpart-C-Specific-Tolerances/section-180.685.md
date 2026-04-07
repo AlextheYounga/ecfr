@@ -2,9 +2,10 @@
 
 (a) *General.* Tolerances are established for residues of the fungicide oxathiapiprolin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only oxathiapiprolin, 1-\[4-\[4-\[5-(2,6-difluorophenyl)-4,5-dihydro-3-isoxazolyl\]-2-thiazolyl\]-1-piperidinyl\]-2-\[5-methyl-3-(trifluoromethyl)-1H-pyrazol-1-yl\]-ethanone, in or on the commodity.
 
+Table 2 to Paragraph (d)
 | Commodity                                                                            | Parts per million |
 | ------------------------------------------------------------------------------------ | ----------------- |
-| Almond, hulls                                                                        | 0.05              |
+| Almond, hullsBrassica1                                                               | 0.05              |
 | Basil, dried leaves                                                                  | 80                |
 | Basil, fresh leaves                                                                  | 10                |
 | Berry, low growing, subgroup 13-07G, except cranberry                                | 0.4               |

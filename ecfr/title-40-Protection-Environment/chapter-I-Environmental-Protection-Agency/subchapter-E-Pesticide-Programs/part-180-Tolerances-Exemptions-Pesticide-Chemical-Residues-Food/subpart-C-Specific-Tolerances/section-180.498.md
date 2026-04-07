@@ -3,9 +3,9 @@
 (a) *General.* (1) Tolerances are established for the combined residues of the free and conjugated forms of sulfentrazone, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of sulfentrazone (*N*-\[2,4-dichloro-5-\[4-(difluoromethyl)-4,5-dihydro-3-methyl-5-oxo-1*H*-1,2,4-triazol-1-yl\]phenyl\]methanesulfonamide) and its metabolite HMS (*N*-(2,4-dichloro-5-(4-(difluoromethyl)-4,5-dihydro-3-hydroxymethyl-5-oxo-1*H*-1,2,4-triazol-1-yl)phenyl)methanesulfonamide, calculated as the stoichiometric equivalent of sulfentrazone in or on the following commodities.
 
 Table 1 to Paragraph (a)(1)
-| Commodity     | Parts per million |
-| ------------- | ----------------- |
-| Soybean, seed | 0.05              |
+| Commodity              | Parts per million |
+| ---------------------- | ----------------- |
+| Soybean, seedBrassica, | 0.05              |
 
 (2) Tolerances are established for the combined residues of the free and conjugated forms of sulfentrazone, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of sulfentrazone (*N*-\[2,4-dichloro-5-\[4-(difluoromethyl)-4,5-dihydro-3-methyl-5-oxo-1*H*-1,2,4-triazol-1-yl\]phenyl\]methanesulfonamide) and its metabolites HMS (*N*-(2,4-dichloro-5-(4-(difluoromethyl)-4,5-dihydro-3-hydroxymethyl-5-oxo-1*H*-1,2,4-triazol-1-yl)phenyl)methanesulfonamide) and DMS (*N*-(2,4-dichloro-5-(4-(difluoromethyl)-4,5-dihydro-5-oxo-1*H*-1,2,4-triazol-1-yl)phenyl)methanesulfonamide, calculated as the stoichiometric equivalent of sulfentrazone in or on the following commodities.
 

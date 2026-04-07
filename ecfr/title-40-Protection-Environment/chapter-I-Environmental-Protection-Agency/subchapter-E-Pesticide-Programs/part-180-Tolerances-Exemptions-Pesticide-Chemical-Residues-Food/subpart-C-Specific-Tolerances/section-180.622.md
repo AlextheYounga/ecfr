@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                 | Parts per   million |
 | --------------------------------------------------------- | ------------------- |
-| Beet, sugar, roots                                        | 0.03                |
+| Beet, sugar, rootsBrassica,1                              | 0.03                |
 | Brassica, leafy greens, subgroup 4-16B                    | 7                   |
 | Ginseng                                                   | 0.10                |
 | Grape 1                                                   | 6.0                 |

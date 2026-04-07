@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                           | Parts per   million |
 | ------------------------------------------------------------------- | ------------------- |
-| Banana                                                              | 0.01                |
+| Banana1                                                             | 0.01                |
 | Barley, bran                                                        | 0.15                |
 | Barley, grain                                                       | 0.07                |
 | Barley, hay                                                         | 0.30                |

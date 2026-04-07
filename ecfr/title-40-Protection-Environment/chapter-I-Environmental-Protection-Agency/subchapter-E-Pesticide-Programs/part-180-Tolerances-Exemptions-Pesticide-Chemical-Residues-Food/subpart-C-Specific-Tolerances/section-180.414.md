@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                        | Parts per million |
 | -------------------------------------------------------------------------------- | ----------------- |
-| Bean, dry, except cowpea                                                         | 3                 |
+| Bean, dry, except cowpea1                                                        | 3                 |
 | Bean, lima                                                                       | 1                 |
 | Bean, succulent                                                                  | 2                 |
 | Brassica, leafy greens, subgroup 4-16B                                           | 35                |

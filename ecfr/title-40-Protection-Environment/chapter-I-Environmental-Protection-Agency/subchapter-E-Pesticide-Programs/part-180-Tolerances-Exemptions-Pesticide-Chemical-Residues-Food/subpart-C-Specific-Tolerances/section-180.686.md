@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                           | Parts per million |
 | ------------------------------------------------------------------- | ----------------- |
-| Barley, grain                                                       | 1.5               |
+| Barley, grain1                                                      | 1.5               |
 | Barley, hay                                                         | 15.0              |
 | Barley, straw                                                       | 15.0              |
 | Beet, sugar, dried pulp                                             | 0.6               |

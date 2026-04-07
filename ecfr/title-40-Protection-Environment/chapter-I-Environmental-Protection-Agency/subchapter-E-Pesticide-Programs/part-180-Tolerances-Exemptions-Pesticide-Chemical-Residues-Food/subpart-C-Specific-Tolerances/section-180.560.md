@@ -6,7 +6,7 @@ Table 1 to Paragraph (a)
 
 | Commodity                                                                         | Parts per million |
 | --------------------------------------------------------------------------------- | ----------------- |
-| Barley, grain                                                                     | 0.1               |
+| Barley, grain1                                                                    | 0.1               |
 | Barley, hay                                                                       | 0.1               |
 | Barley, straw                                                                     | 0.1               |
 | Teff, forage 1                                                                    | 0.2               |

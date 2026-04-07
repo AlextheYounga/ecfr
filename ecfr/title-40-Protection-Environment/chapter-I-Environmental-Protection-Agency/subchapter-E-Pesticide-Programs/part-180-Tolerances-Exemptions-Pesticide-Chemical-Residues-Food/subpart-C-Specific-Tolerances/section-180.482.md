@@ -4,7 +4,7 @@
 
 | Commodity                                                | Parts per million |
 | -------------------------------------------------------- | ----------------- |
-| Almond, hulls                                            | 30                |
+| Almond, hulls1                                           | 30                |
 | Apple, dry pomace                                        | 3.0               |
 | Apple, wet pomace                                        | 3.0               |
 | Bushberrry subgroup 13-07B                               | 3.0               |

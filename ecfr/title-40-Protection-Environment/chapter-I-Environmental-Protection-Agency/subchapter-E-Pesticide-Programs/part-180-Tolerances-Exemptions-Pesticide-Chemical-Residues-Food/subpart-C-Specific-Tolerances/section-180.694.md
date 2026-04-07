@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                           | Parts   per million |
 | ------------------------------------------------------------------- | ------------------- |
-| Almond, hulls                                                       | 6.0                 |
+| Almond, hulls1Brassica,                                             | 6.0                 |
 | Apple, wet pomace                                                   | 0.50                |
 | Artichoke, globe                                                    | 1.5                 |
 | Berry, low growing, subgroup 13-07G                                 | 0.4                 |

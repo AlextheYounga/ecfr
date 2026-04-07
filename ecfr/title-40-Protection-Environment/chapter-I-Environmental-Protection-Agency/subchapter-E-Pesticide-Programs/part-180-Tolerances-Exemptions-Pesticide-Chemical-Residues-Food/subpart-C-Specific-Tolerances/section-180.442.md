@@ -4,7 +4,7 @@
 
 | Commodity                                                            | Parts per million |
 | -------------------------------------------------------------------- | ----------------- |
-| Almond, hulls                                                        | 2.0               |
+| Almond, hulls1                                                       | 2.0               |
 | Apple, wet pomace                                                    | 1.5               |
 | Artichoke, globe                                                     | 1.0               |
 | Avocado                                                              | 0.5               |

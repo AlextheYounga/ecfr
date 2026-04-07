@@ -2,9 +2,10 @@
 
 (a) *General.* Tolerances are established for residues of fenpropathrin, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified below is to be determined by measuring only fenpropathrin (alpha-cyano-3-phenoxy-benzyl 2,2,3,3 tetramethylcyclopropanecarboxylate).
 
+Table 2 to Paragraph (b)
 | Commodity                                                                                              | Parts per million |
 | ------------------------------------------------------------------------------------------------------ | ----------------- |
-| Acerola                                                                                                | 3.0               |
+| Acerola1                                                                                               | 3.0               |
 | Almond, hulls                                                                                          | 4.5               |
 | Atemoya                                                                                                | 1.5               |
 | Avocado                                                                                                | 1.0               |

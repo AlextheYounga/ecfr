@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                           | Parts per   million |
 | ------------------------------------------------------------------- | ------------------- |
-| Banana                                                              | 0.01                |
+| Banana2                                                             | 0.01                |
 | Beans, dry, seed                                                    | 50                  |
 | Beet, sugar, dried pulp                                             | 1.0                 |
 | Beet, sugar, molasses                                               | 3.5                 |

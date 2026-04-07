@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                | Parts per   million |
 | -------------------------------------------------------- | ------------------- |
-| Cotton, gin byproducts                                   | 0.01                |
+| Cotton, gin byproductsBrassica,                          | 0.01                |
 | Cotton, undelinted seed                                  | 0.01                |
 | Grain, cereal, except rice, group 15                     | 0.01                |
 | Grain, cereal, forage, fodder, and straw, group 16       | 0.01                |

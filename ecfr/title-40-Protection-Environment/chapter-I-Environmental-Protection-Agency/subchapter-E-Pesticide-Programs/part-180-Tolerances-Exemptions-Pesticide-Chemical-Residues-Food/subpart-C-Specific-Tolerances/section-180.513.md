@@ -4,7 +4,7 @@
 
 | Commodity                                                                | Parts per   million |
 | ------------------------------------------------------------------------ | ------------------- |
-| Basil, fresh leaves                                                      | 80                  |
+| Basil, fresh leaves1                                                     | 80                  |
 | Chive, fresh leaves                                                      | 20                  |
 | Cucumber                                                                 | 0.5                 |
 | Tea, dried 1                                                             | 70                  |

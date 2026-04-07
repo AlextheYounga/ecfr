@@ -4,7 +4,7 @@
 
 | Commodity                                                                  | Parts per million |
 | -------------------------------------------------------------------------- | ----------------- |
-| Berry, low growing, except strawberry, subgroup 13-07H                     | 0.2               |
+| Berry, low growing, except strawberry, subgroup 13-07H1                    | 0.2               |
 | Brassica, head and stem, subgroup 5A                                       | 1.4               |
 | Brassica, leafy greens, subgroup 5B                                        | 15.0              |
 | Cotton, undelinted seed                                                    | 0.4               |

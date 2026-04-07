@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                                           | Parts per million |
 | ----------------------------------------------------------------------------------- | ----------------- |
-| Almond, hulls                                                                       | 2.0               |
+| Almond, hulls1                                                                      | 2.0               |
 | Apple, wet pomace                                                                   | 1.0               |
 | Avocado                                                                             | 0.50              |
 | Bean, dry, seed                                                                     | 0.15              |

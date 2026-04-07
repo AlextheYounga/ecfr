@@ -1,6 +1,6 @@
 ##### § 180.33 Fees.
 
-(a) Each petition for the establishment of a new tolerance or a tolerance higher than already established, shall be accompanied by a fee of $80,950, plus $2,025 for each raw agricultural commodity more than nine on which the establishment of a tolerance is requested, except as provided in paragraphs (b), (d), and (h) of this section.
+(a) Each petition for the establishment of a new tolerance or a tolerance higher than already established, shall be accompanied by a fee of $80,950, plus $2,025 for each raw agricultural commodity more than nine on which the establishment of a tolerance is requested, except as provided in paragraphs (b), (d), and (h) of this section.*i.e.*Federal Register
 
 (b) Each petition for the establishment of a tolerance at a lower numerical level or levels than a tolerance already established for the same pesticide chemical, or for the establishment of a tolerance on additional raw agricultural commodities at the same numerical level as a tolerance already established for the same pesticide chemical, shall be accompanied by a fee of $18,500 plus $1,225 for each raw agricultural commodity on which a tolerance is requested.
 

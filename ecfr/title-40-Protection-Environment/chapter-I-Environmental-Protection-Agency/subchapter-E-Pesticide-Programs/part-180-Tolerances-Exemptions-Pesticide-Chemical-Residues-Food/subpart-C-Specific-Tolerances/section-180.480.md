@@ -1,10 +1,10 @@
 ##### § 180.480 Fenbuconazole; tolerances for residues.
 
-(a) Tolerances are established for residues of the fungicide fenbuconazole, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of fenbuconazole, alpha-\[2-(4-chlorophenyl)-ethyl\]-alpha-phenyl-3-(1H-1,2,4-triazole)-1-propanenitrile, and its metabolites RH-9129, cis-5-(4-chlorophenyl)-dihydro-3-phenyl-3-(1H-1,2,4-triazole-1-ylmethyl)-2-3 H-furanone, and RH-9130, trans-5-(4-chlorophenyl)-dihydro-3-phenyl-3-(1H-1,2,4-triazole-1-ylmethyl)-2-3 H-furanone, calculated as the stoichiometric equivalent of fenbuconazole, in or on the following agricultural commodities.
+(a) Tolerances are established for residues of the fungicide fenbuconazole, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of fenbuconazole, alpha-\[2-(4-chlorophenyl)-ethyl\]-alpha-phenyl-3-(1H-1,2,4-triazole)-1-propanenitrile, and its metabolites RH-9129, cis-5-(4-chlorophenyl)-dihydro-3-phenyl-3-(1H-1,2,4-triazole-1-ylmethyl)-2-3 H-furanone, and RH-9130, trans-5-(4-chlorophenyl)-dihydro-3-phenyl-3-(1H-1,2,4-triazole-1-ylmethyl)-2-3 H-furanone, calculated as the stoichiometric equivalent of fenbuconazole, in or on the following agricultural commodities.*Section 18 emergency exemptions.*
 
 | Commodity                                                               | Parts per million |
 | ----------------------------------------------------------------------- | ----------------- |
-| Almond                                                                  | 0.05              |
+| Almond1                                                                 | 0.05              |
 | Almond, hulls                                                           | 1.0               |
 | Apple                                                                   | 0.4               |
 | Apple, wet pomace                                                       | 1.0               |

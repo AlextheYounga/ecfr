@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                                          | Parts per   million |
 | -------------------------------------------------------------------------------------------------- | ------------------- |
-| Almond, hulls                                                                                      | 3.0                 |
+| Almond, hulls1                                                                                     | 3.0                 |
 | Banana                                                                                             | 1                   |
 | Bean, snap, succulent                                                                              | 0.40                |
 | Berry, low growing, subgroup 13-07G                                                                | 1.0                 |

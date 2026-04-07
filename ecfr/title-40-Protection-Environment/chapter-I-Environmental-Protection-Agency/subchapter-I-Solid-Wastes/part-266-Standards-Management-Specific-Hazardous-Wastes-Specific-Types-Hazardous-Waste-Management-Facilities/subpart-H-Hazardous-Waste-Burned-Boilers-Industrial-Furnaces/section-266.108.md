@@ -1,8 +1,8 @@
 ##### § 266.108 Small quantity on-site burner exemption.
 
-(a) *Exempt quantities.* Owners and operators of facilities that burn hazardous waste in an on-site boiler or industrial furnace are exempt from the requirements of this subpart provided that: 
+(a) *Exempt quantities.* Owners and operators of facilities that burn hazardous waste in an on-site boiler or industrial furnace are exempt from the requirements of this subpart provided that:
 
-(1) The quantity of hazardous waste burned in a device for a calendar month does not exceed the limits provided in the following table based on the terrain-adjusted effective stack height as defined in § 266.106(b)(3): 
+(1) The quantity of hazardous waste burned in a device for a calendar month does not exceed the limits provided in the following table based on the terrain-adjusted effective stack height as defined in § 266.106(b)(3):
 
 Exempt Quantities for Small Quantity Burner Exemption
 | Terrain-adjusted effective stack height of device (meters) | Allowable hazardous waste burning rate (gallons/month) | Terrain-adjusted effective stack height of device (meters) | Allowable hazardous waste burning rate (gallons/month) |
@@ -24,28 +24,28 @@ Exempt Quantities for Small Quantity Burner Exemption
 | 30.0 to 34.9                                               | 140                                                    | 110.0 to 114.9                                             | 1,700                                                  |
 | 35.0 to 39.9                                               | 170                                                    | 115.0 or greater                                           | 1,900                                                  |
 
-(2) The maximum hazardous waste firing rate does not exceed at any time 1 percent of the total fuel requirements for the device (hazardous waste plus other fuel) on a total heat input or mass input basis, whichever results in the lower mass feed rate of hazardous waste. 
+(2) The maximum hazardous waste firing rate does not exceed at any time 1 percent of the total fuel requirements for the device (hazardous waste plus other fuel) on a total heat input or mass input basis, whichever results in the lower mass feed rate of hazardous waste.
 
-(3) The hazardous waste has a minimum heating value of 5,000 Btu/lb, as generated; and 
+(3) The hazardous waste has a minimum heating value of 5,000 Btu/lb, as generated; and
 
-(4) The hazardous waste fuel does not contain (and is not derived from) EPA Hazardous Waste Nos. F020, F021, F022, F023, F026, or F027. 
+(4) The hazardous waste fuel does not contain (and is not derived from) EPA Hazardous Waste Nos. F020, F021, F022, F023, F026, or F027.
 
-(b) *Mixing with nonhazardous fuels.* If hazardous waste fuel is mixed with a nonhazardous fuel, the quantity of hazardous waste before such mixing is used to comply with paragraph (a). 
+(b) *Mixing with nonhazardous fuels.* If hazardous waste fuel is mixed with a nonhazardous fuel, the quantity of hazardous waste before such mixing is used to comply with paragraph (a).
 
-(c) *Multiple stacks.* If an owner or operator burns hazardous waste in more than one on-site boiler or industrial furnace exempt under this section, the quantity limits provided by paragraph (a)(1) of this section are implemented according to the following equation: 
+(c) *Multiple stacks.* If an owner or operator burns hazardous waste in more than one on-site boiler or industrial furnace exempt under this section, the quantity limits provided by paragraph (a)(1) of this section are implemented according to the following equation:
 
 ![](/graphics/ec06no91.004.gif)where: n means the number of stacks; Actual Quantity Burned means the waste quantity burned per month in device “i”; Allowable Quantity Burned means the maximum allowable exempt quantity for stack “i” from the table in (a)(1) above.Note 1 to paragraph (c):
 
-Hazardous wastes that are subject to the conditions for exemption for very small quantity generators under § 262.14 of this subchapter may be burned in an off-site device under the exemption provided by this section but must be included in the quantity determination for the exemption. 
+Hazardous wastes that are subject to the conditions for exemption for very small quantity generators under § 262.14 of this subchapter may be burned in an off-site device under the exemption provided by this section but must be included in the quantity determination for the exemption.
 
-(d) *Notification requirements.* The owner or operator of facilities qualifying for the small quantity burner exemption under this section must provide a one-time signed, written notice to EPA indicating the following: 
+(d) *Notification requirements.* The owner or operator of facilities qualifying for the small quantity burner exemption under this section must provide a one-time signed, written notice to EPA indicating the following:
 
-(1) The combustion unit is operating as a small quantity burner of hazardous waste; 
+(1) The combustion unit is operating as a small quantity burner of hazardous waste;
 
-(2) The owner and operator are in compliance with the requirements of this section; and 
+(2) The owner and operator are in compliance with the requirements of this section; and
 
-(3) The maximum quantity of hazardous waste that the facility may burn per month as provided by § 266.108(a)(1). 
+(3) The maximum quantity of hazardous waste that the facility may burn per month as provided by § 266.108(a)(1).
 
-(e) *Recordkeeping requirements.* The owner or operator must maintain at the facility for at least three years sufficient records documenting compliance with the hazardous waste quantity, firing rate, and heating value limits of this section. At a minimum, these records must indicate the quantity of hazardous waste and other fuel burned in each unit per calendar month, and the heating value of the hazardous waste. 
+(e) *Recordkeeping requirements.* The owner or operator must maintain at the facility for at least three years sufficient records documenting compliance with the hazardous waste quantity, firing rate, and heating value limits of this section. At a minimum, these records must indicate the quantity of hazardous waste and other fuel burned in each unit per calendar month, and the heating value of the hazardous waste.
 
 \[56 FR 7208, Feb. 21, 1991; 56 FR 32690, July 17, 1991, as amended at 56 FR 42515, Aug. 27, 1991; 57 FR 38566, Aug. 25, 1992; 88 FR 54112, Aug. 9, 2023\]

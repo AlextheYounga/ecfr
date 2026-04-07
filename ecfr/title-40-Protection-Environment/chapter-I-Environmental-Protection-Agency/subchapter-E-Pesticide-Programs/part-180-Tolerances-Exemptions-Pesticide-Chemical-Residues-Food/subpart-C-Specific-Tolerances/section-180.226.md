@@ -4,7 +4,7 @@
 
 | Commodity                                                                       | Parts per million |
 | ------------------------------------------------------------------------------- | ----------------- |
-| Alfalfa, seed                                                                   | 3.0               |
+| Alfalfa, seed1                                                                  | 3.0               |
 | Cattle, fat                                                                     | 0.05              |
 | Cattle, meat                                                                    | 0.05              |
 | Cattle, meat byproducts                                                         | 0.05              |

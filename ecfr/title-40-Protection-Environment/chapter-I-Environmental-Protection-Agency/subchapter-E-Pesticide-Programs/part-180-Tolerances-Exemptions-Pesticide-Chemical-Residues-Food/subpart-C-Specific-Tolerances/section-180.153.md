@@ -4,7 +4,7 @@
 
 | Commodity                                                                | Parts per million |
 | ------------------------------------------------------------------------ | ----------------- |
-| Almond, hulls                                                            | 3.0               |
+| Almond, hulls2                                                           | 3.0               |
 | Apple                                                                    | 0.50              |
 | Apricot                                                                  | 0.20              |
 | Bean, lima                                                               | 0.50              |

@@ -1,10 +1,10 @@
 ##### § 180.706 Valifenalate; tolerances for residues.
 
-(a)(1) Tolerances are established for residues of the fungicide valifenalate, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels is to be determined by measuring only valifenalate (methyl N-(isopropoxycarbonyl)-L-valyl-(3RS)-3-(4-chlorophenyl)-β-alainate), in or on the following commodities.
+(a)(1) Tolerances are established for residues of the fungicide valifenalate, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels is to be determined by measuring only valifenalate (methyl N-(isopropoxycarbonyl)-L-valyl-(3RS)-3-(4-chlorophenyl)-β-alainate), in or on the following commodities.*Section 18 emergency exemptions.*
 
 | Commodity                                                                                            | Parts per   million |
 | ---------------------------------------------------------------------------------------------------- | ------------------- |
-| Celery                                                                                               | 5                   |
+| Celery1                                                                                              | 5                   |
 | Grape 1                                                                                              | 5                   |
 | Grape, raisin 1                                                                                      | 6                   |
 | Vegetable, bulb, group 3-07                                                                          | 0.6                 |

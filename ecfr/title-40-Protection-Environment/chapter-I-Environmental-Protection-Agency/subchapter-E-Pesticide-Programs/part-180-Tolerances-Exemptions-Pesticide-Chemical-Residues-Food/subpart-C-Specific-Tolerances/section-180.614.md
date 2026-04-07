@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                | Parts per   million |
 | -------------------------------------------------------- | ------------------- |
-| Cherry subgroup 12-12A                                   | 0.60                |
+| Cherry subgroup 12-12A1                                  | 0.60                |
 | Fruit, pome, group 11-10                                 | 0.20                |
 | Tea, dried 1                                             | 3                   |
 | Vegetable, fruiting, group 8 2                           | 0.04                |

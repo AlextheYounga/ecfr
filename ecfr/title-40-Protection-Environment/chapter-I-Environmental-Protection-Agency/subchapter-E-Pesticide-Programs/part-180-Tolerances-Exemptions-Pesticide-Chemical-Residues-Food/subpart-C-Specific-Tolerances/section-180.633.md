@@ -2,6 +2,7 @@
 
 (a) *General.* Tolerances are established for residues of the herbicide florasulam, including its metabolites and degradates, in or on the commodities below. Compliance with the tolerance levels specified below is to be determined by measuring only florasulam, N-(2, 6-difluorophenyl)-8-fluoro-5-methoxy (1, 2, 4) triazole (1, 5-*c*)pyrimidine-2-sulfonamide, in or on the commodities.
 
+Table 2 to Paragraph (c)
 | Commodity     | Parts per million |
 | ------------- | ----------------- |
 | Barley, grain | 0.01              |

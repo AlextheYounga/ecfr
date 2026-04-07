@@ -1,8 +1,8 @@
 ##### § 372.28 Lower thresholds for chemicals of special concern.
 
-(a) Notwithstanding § 372.25 or § 372.27, for the toxic chemicals set forth in this section, the threshold amounts for manufacturing (including importing), processing, and otherwise using such toxic chemicals are as set forth in this section. 
+(a) Notwithstanding § 372.25 or § 372.27, for the toxic chemicals set forth in this section, the threshold amounts for manufacturing (including importing), processing, and otherwise using such toxic chemicals are as set forth in this section.
 
-(1) Chemical listing in alphabetic order. 
+(1) Chemical listing in alphabetic order.
 
 Table 1 to Paragraph (a)(1)
 | Chemical name                                                                                                                                                                                                                                                                        | CAS No.                 | Reporting   threshold   (in pounds) |
@@ -26,7 +26,7 @@ Table 1 to Paragraph (a)(1)
 | Toxaphene                                                                                                                                                                                                                                                                            | 08001-35-2              | 10                                  |
 | Trifluralin                                                                                                                                                                                                                                                                          | 01582-09-8              | 100                                 |
 
-(2) Chemical categories in alphabetic order. 
+(2) Chemical categories in alphabetic order.
 
 Table 2 to Paragraph (a)(2)
 | Category name                                                                                                                                                                                                                                                                                                                                     | Reporting threshold   (in pounds unless   otherwise noted) |
@@ -37,6 +37,6 @@ Table 2 to Paragraph (a)(2)
 | Mercury compounds                                                                                                                                                                                                                                                                                                                                 | 10                                                         |
 | Polycyclic aromatic compounds (PACs) (see § 372.65(c) for a list of chemicals covered by this category)                                                                                                                                                                                                                                           | 100                                                        |
 
-(b) The threshold determination provisions under § 372.25(c) through (h) and the exemptions under § 372.38(b) through (h) are applicable to the toxic chemicals listed in paragraph (a) of this section. 
+(b) The threshold determination provisions under § 372.25(c) through (h) and the exemptions under § 372.38(b) through (h) are applicable to the toxic chemicals listed in paragraph (a) of this section.
 
 \[64 FR 58750, Oct. 29, 1999, as amended at 66 FR 4527, Jan. 17, 2001; 75 FR 72733, Nov. 26, 2010; 81 FR 85444, Nov. 28, 2016; 85 FR 42314, July 14, 2020; 87 FR 73486, Nov. 30, 2022; 88 FR 74368, Oct. 31, 2023\]

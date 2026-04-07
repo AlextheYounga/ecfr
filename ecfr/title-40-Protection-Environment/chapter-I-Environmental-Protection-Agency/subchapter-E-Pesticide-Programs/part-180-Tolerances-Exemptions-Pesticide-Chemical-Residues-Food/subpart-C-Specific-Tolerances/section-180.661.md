@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                     | Parts per   million |
 | ----------------------------------------------------------------------------- | ------------------- |
-| Almond, hulls                                                                 | 10                  |
+| Almond, hulls1Brassica,                                                       | 10                  |
 | Artichoke, globe                                                              | 4.0                 |
 | Banana 1                                                                      | 1.0                 |
 | Beet, sugar                                                                   | 0.10                |

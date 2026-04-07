@@ -4,7 +4,7 @@
 
 | Commodity                                                | Parts per   million |
 | -------------------------------------------------------- | ------------------- |
-| Almond, hulls                                            | 4.0                 |
+| Almond, hulls1                                           | 4.0                 |
 | Banana 1                                                 | 0.1                 |
 | Barley, grain                                            | 2.5                 |
 | Barley, hay                                              | 7.0                 |

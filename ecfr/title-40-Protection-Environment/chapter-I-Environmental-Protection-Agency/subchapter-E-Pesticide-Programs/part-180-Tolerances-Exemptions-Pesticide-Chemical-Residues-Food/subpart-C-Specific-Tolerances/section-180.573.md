@@ -4,7 +4,7 @@
 
 | Commodity                                                           | Parts per   million | Expiration/   revocation   date |
 | ------------------------------------------------------------------- | ------------------- | ------------------------------- |
-| Cotton, undelinted seed                                             | 0.2                 | 12/31/18                        |
+| Cotton, undelinted seed1                                            | 0.2                 | 12/31/18                        |
 | Cotton, gin byproducts                                              | 3.0                 | 12/31/18                        |
 | Flax, seed                                                          | 0.10                | 12/31/18                        |
 | Grain, aspirated fraction                                           | 1200.0              | 12/31/18                        |

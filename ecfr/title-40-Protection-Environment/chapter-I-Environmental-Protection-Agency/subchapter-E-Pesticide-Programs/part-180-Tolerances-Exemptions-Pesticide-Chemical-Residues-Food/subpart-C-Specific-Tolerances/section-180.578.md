@@ -4,7 +4,7 @@
 
 | Commodity                                                                                           | Parts per million |
 | --------------------------------------------------------------------------------------------------- | ----------------- |
-| Almond, hulls                                                                                       | 5.0               |
+| Almond, hullsBrassica,1                                                                             | 5.0               |
 | Asparagus                                                                                           | 0.80              |
 | Berry, low growing subgroups 13-07G                                                                 | 0.60              |
 | Brassica, leafy greens, subgroup 4-16B                                                              | 15                |

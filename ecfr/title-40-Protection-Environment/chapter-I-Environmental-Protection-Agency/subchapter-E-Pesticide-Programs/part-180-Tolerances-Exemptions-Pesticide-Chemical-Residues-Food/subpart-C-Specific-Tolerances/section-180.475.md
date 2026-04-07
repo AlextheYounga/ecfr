@@ -4,7 +4,7 @@
 
 | Commodity                                                            | Parts per million |
 | -------------------------------------------------------------------- | ----------------- |
-| Almond, hulls                                                        | 7.0               |
+| Almond, hulls1Brassica,                                              | 7.0               |
 | Apple, wet pomace                                                    | 25                |
 | Artichoke, globe                                                     | 1.5               |
 | Aspirated grain fractions                                            | 95                |

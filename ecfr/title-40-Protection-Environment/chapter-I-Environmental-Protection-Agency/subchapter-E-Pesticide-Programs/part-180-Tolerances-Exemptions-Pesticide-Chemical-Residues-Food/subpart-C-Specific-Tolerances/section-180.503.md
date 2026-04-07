@@ -4,7 +4,7 @@
 
 | Commodity                                   | Parts per million |
 | ------------------------------------------- | ----------------- |
-| Caneberry, subgroup 13A-07                  | 4.0               |
+| Caneberry, subgroup 13A-071                 | 4.0               |
 | Cilantro, leaves                            | 19                |
 | Hop, dried cones                            | 7.0               |
 | Leafy greens, subgroup 4A                   | 19                |

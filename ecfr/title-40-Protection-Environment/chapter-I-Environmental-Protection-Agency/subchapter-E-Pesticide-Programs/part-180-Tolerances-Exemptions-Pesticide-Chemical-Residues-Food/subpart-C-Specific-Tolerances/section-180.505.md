@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                                          | Parts per million |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| Almond, hulls                                                                                      | 0.20              |
+| Almond, hullsBrassica,1                                                                            | 0.20              |
 | Apple, wet pomace                                                                                  | 0.075             |
 | Artichoke, globe                                                                                   | 0.05              |
 | Brassica, leafy greens, subgroup 4-16B                                                             | 0.2               |

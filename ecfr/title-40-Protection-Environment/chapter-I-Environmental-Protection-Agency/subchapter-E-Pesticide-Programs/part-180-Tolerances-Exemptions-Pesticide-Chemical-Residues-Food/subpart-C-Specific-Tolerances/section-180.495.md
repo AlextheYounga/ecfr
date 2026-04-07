@@ -5,7 +5,7 @@
 Table 1 to Paragraph (a)
 | Commodity                                                           | Parts per million |
 | ------------------------------------------------------------------- | ----------------- |
-| Acerola                                                             | 1.5               |
+| Acerola1Brassica                                                    | 1.5               |
 | Alfalfa, seed                                                       | 0.15              |
 | Alfalfa, seed screenings                                            | 2.0               |
 | Almond, hulls                                                       | 19                |

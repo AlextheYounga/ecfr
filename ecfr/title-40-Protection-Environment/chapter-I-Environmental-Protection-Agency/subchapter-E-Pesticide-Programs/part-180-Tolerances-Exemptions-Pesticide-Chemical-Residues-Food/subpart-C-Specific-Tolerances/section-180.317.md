@@ -2,6 +2,7 @@
 
 (a) *General.* Tolerances are established for residues of the herbicide propyzamide, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only those propyzamide residues convertible to methyl 3,5-dichlorobenzoate, expressed as the stoichiometric equivalent of propyzamide, 3,5-dichloro-*N*-(1,1-dimethyl-2-propynyl)benzamide, in or on the commodity.
 
+Table 2 to Paragraph (b)
 | Commodity                                        | Parts per million |
 | ------------------------------------------------ | ----------------- |
 | Alfalfa, seed                                    | 10.0              |
