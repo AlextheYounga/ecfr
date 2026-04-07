@@ -20475,7 +20475,7 @@ The map provided is for informational purposes only.
 
 2\. The remainder of § 17.95 appears in 50 Part 17, § 17.95(f) to end of § 17.95.
 
-Link to an amendment published at 88 FR 33221, May 23, 2023.
+Link to an amendment published at 88 FR 33221, May 23, 2023.Link to an amendment published at 88 FR 41757, June 27, 2023.
 
 (f) *Clams and Snails.*
 
