@@ -28,9 +28,11 @@
 
 (vii) The expected date for completion of the transaction, or the date it was completed;
 
-(viii) A good faith approximation of the net value of the interest acquired in the U.S. business in U.S. dollars, as of the date of the notice; and
+(viii) A good faith approximation of the net value of the interest acquired in the U.S. business in U.S. dollars, as of the date of the notice;
 
-(ix) The name of any and all financial institutions involved in the transaction, including as advisors, underwriters, or a source of financing for the transaction;
+(ix) The name of any and all financial institutions involved in the transaction, including as advisors, underwriters, or a source of financing for the transaction and;
+
+(x) A copy of any partnership agreements, integration agreements, or other side agreements relating to the transaction.”;
 
 (2) With respect to a transaction structured as an acquisition of assets of a U.S. business, a detailed description of the assets of the U.S. business being acquired, including the approximate value of those assets in U.S. dollars;
 
@@ -180,6 +182,10 @@ Example.Corporation A, a foreign person, intends to acquire Corporation X, which
 
 (2) Any party to the transaction has been a party to a transaction previously notified to the Committee.
 
-(l) Each party filing a voluntary notice shall provide a certification of the notice consistent with § 800.202. A sample certification may be found on the Committee's section of the Department of the Treasury Web site, available at *http://www.treas.gov/offices/international-affairs/cfius/index.shtml.*
+(l) Each party filing a voluntary notice shall provide a certification of the notice consistent with § 800.202. A sample certification may be found on the Committee's section of the Department of the Treasury Web site, currently available at *https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius.*
 
 (m) Persons filing a voluntary notice shall include with the notice a list identifying each document provided as part of the notice, including all documents provided as attachments or exhibits to the narrative response.
+
+(n) A party filing a voluntary notice may stipulate that the transaction is a covered transaction and, if the party stipulates that the transaction is a covered transaction, that the transaction is a foreign government-controlled transaction. A stipulation offered by any party pursuant to this section must be accompanied by a description of the basis for the stipulation. The required description of the basis shall include, but is not limited to, discussion of all relevant information responsive to paragraphs (c)(6)(iv) through (c)(6)(vi) of this section. A party that offers such a stipulation acknowledges that the Committee and the President are entitled to rely on such stipulation in determining whether the transaction is a covered transaction and/or a foreign government-controlled transaction for the purposes of section 721 and all authorities thereunder, and waives the right to challenge any such determination. Neither the Committee nor the President is bound by any such stipulation, nor does any such stipulation limit the ability of the Committee or the President to act on any authority provided under section 721 with respect to any covered transaction.
+
+\[73 FR 70716, Nov. 21, 2008, as amended at 83 FR 51320, Oct. 11, 2018\]

@@ -17,3 +17,7 @@ Example 1.Corporation A, a foreign person, acquires, from separate U.S. national
 (d) An acquisition of securities by a person acting as a securities underwriter, in the ordinary course of business and in the process of underwriting.
 
 (e) An acquisition pursuant to a condition in a contract of insurance relating to fidelity, surety, or casualty obligations if the contract was made by an insurer in the ordinary course of business.
+
+(f) A change in the rights that a foreign person has with respect to a U.S. business in which that foreign person has an investment, if that change could not result in foreign control of the U.S. business.
+
+Example.Corporation A, a foreign person, holds a 10 percent ownership interest in Corporation X, a U.S. business. Corporation A and Corporation X enter into a contractual arrangement pursuant to which Corporation A gains the right to purchase an additional interest in Corporation X to prevent the dilution of Corporation A's *pro rata* interest in Corporation X in the event that Corporation X issues additional instruments conveying interests in Corporation X. Corporation A does not acquire any additional rights or ownership interest in Corporation X pursuant to the contractual arrangement. Assuming no other relevant facts, the transaction is not a covered transaction.\[73 FR 70716, Nov. 21, 2008, as amended at 83 FR 51320, Oct. 11, 2018\]

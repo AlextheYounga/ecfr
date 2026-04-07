@@ -1,8 +1,8 @@
 ##### § 800.801 Penalties.
 
-(a) Any person who, after the effective date, intentionally or through gross negligence, submits a material misstatement or omission in a notice or makes a false certification under §§ 800.402(l) or 800.701(c) may be liable to the United States for a civil penalty not to exceed $250,000 per violation. The amount of the penalty assessed for a violation shall be based on the nature of the violation.
+(a) Any person who submits a material misstatement or omission in a notice or makes a false certification under §§ 800.402(l) or 800.701(c) may be liable to the United States for a civil penalty not to exceed $250,000 per violation. The amount of the penalty assessed for a violation shall be based on the nature of the violation.
 
-(b) Any person who, after the effective date, intentionally or through gross negligence, violates a material provision of a mitigation agreement entered into with, or a material condition imposed by, the United States under section 721(l) may be liable to the United States for a civil penalty not to exceed $250,000 per violation or the value of the transaction, whichever is greater. Any penalty assessed under this paragraph shall be based on the nature of the violation and shall be separate and apart from any damages sought pursuant to a mitigation agreement under section 721(l), or any action taken under section 721(b)(1)(D).
+(b) Any person who, after the effective date, violates, intentionally or through gross negligence, a material provision of a mitigation agreement entered into before October 11, 2018, with, a material condition imposed before October 11, 2018 by, or an order issued before October 11, 2018 by, the United States under section 721(l) may be liable to the United States for a civil penalty not to exceed $250,000 per violation or the value of the transaction, whichever is greater. Any person who violates a material provision of a mitigation agreement entered into on or after October 11, 2018, with, a material condition imposed on or after October 11, 2018, by, or an order issued on or after October 11, 2018, by, the United States under section 721(l) may be liable to the United States for a civil penalty not to exceed $250,000 per violation or the value of the transaction, whichever is greater.
 
 (c) A mitigation agreement entered into or amended under section 721(l) after the effective date may include a provision providing for liquidated or actual damages for breaches of the agreement by parties to the transaction. The Committee shall set the amount of any liquidated damages as a reasonable assessment of the harm to the national security that could result from a breach of the agreement. Any mitigation agreement containing a liquidated damages provision shall include a provision specifying that the Committee will consider the severity of the breach in deciding whether to seek a lesser amount than that stipulated in the contract.
 
@@ -12,4 +12,8 @@
 
 (f) The penalties authorized in paragraphs (a) and (b) of this section may be recovered in a civil action brought by the United States in federal district court.
 
-(g) The penalties available under this section are without prejudice to other penalties, civil or criminal, available under law.
+(g) Section 1001 of title 18, United States Code, shall apply to all information provided to the Committee under section 721 by any party to a covered transaction.
+
+(h) The penalties available under this section are without prejudice to other penalties, civil or criminal, available under law.
+
+\[73 FR 70716, Nov. 21, 2008, as amended at 83 FR 51321, Oct. 11, 2018\]

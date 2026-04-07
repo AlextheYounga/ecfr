@@ -1,6 +1,6 @@
 ##### § 800.202 Certification.
 
-(a) The term *certification* means a written statement signed by the chief executive officer or other duly authorized designee of a party to a transaction filing a notice or information, certifying that the notice or information filed:
+(a) The term *certification* means a written statement signed by the chief executive officer or other duly authorized designee of a party to a transaction filing a notice or information, certifying under the penalties provided in section 1001 of title 18, United States Code that the notice or information filed:
 
 (1) Fully complies with the requirements of section 721, the regulations in this part, and any agreement or condition entered into with the Committee or any member of the Committee, and
 
@@ -24,4 +24,6 @@
 
 Note to § 800.202:
 
-A sample certification may be found at the Committee's section of the Department of the Treasury Web site at *http://www.treas.gov/offices/international-affairs/cfius/index.shtml.*
+A sample certification may be found at the Committee's section of the Department of the Treasury Web site, currently available at *https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius.*
+
+\[73 FR 70716, Nov. 21, 2008, as amended at 83 FR 51319, Oct. 11, 2018\]

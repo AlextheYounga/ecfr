@@ -6,9 +6,7 @@
 
 (ii) The traveler's schedule of activities does not include free time or recreation in excess of that consistent with a full-time schedule of professional research.
 
-*Example to § 515.564(a)(1):* The making of a documentary film in Cuba would qualify for the general license in this section if it is a vehicle for presentation of the research conducted pursuant to this section.
-
-Note to § 515.564(a)(1):
+Example to § 515.564(a)(1):The making of a documentary film in Cuba would qualify for the general license in this section if it is a vehicle for presentation of the research conducted pursuant to this section.Note to § 515.564(a)(1):
 
 A person does not qualify as engaging in professional research merely because that person is a professional who plans to travel to Cuba.
 
