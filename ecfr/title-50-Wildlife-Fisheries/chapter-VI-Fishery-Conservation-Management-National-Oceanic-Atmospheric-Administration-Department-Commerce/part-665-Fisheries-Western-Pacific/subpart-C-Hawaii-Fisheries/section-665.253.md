@@ -1,9 +1,10 @@
 ##### § 665.253 Annual Catch Limits (ACL) and Annual Catch Targets (ACT).
 
+Link to an amendment published at 89 FR 37986, May 7, 2024.
+
 (a) *Deepwater Shrimp.* (1) In accordance with § 665.4, the ACLs for each fishing year are as follows:
 
 Table 1 to Paragraph (a)(1)
-
 | Fishing year | 2022    | 2023    | 2024    | 2025    |
 | ------------ | ------- | ------- | ------- | ------- |
 | ACL (lb)     | 250,773 | 250,773 | 250,773 | 250,773 |
@@ -13,7 +14,6 @@ Table 1 to Paragraph (a)(1)
 (b) *MHI Kona crab.* (1) In accordance with § 665.4, the ACLs and ACTs for each fishing year are as follows:
 
 Table 2 to paragraph (b)(1)
-
 | Fishing   year | 2020   | 2021   | 2022   | 2023   |
 | -------------- | ------ | ------ | ------ | ------ |
 | ACL (lb)       | 30,802 | 30,802 | 30,802 | 30,802 |
