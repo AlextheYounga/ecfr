@@ -942,4 +942,4 @@ AV = Total adjusted volume, expressed in ft 3, as calculated according to append
 
 (ii) Be sold at retail only in a package containing one lamp.
 
-\[54 FR 6077, Feb. 7, 1989\] Editorial Note:For Federal Register citations affecting § 430.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+\[54 FR 6077, Feb. 7, 1989\] Editorial Note:For Federal Register citations affecting § 430.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
