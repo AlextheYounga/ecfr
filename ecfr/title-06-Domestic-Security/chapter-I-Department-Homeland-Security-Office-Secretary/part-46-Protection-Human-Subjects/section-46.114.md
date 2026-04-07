@@ -1,4 +1,4 @@
-##### § 46.114 Cooperative Research.
+##### § 46.114 Cooperative research.
 
 (a) Cooperative research projects are those projects covered by this policy that involve more than one institution. In the conduct of cooperative research projects, each institution is responsible for safeguarding the rights and welfare of human subjects and for complying with this policy.
 
