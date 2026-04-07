@@ -1,7 +1,5 @@
 ##### § 648.299 Tilefish framework specifications.
 
-Link to an amendment published at 82 FR 52861, Nov. 15, 2017.
-
 (a) *Within-season management action.* The MAFMC may, at any time, initiate action to add or adjust management measures if it finds that action is necessary to meet or be consistent with the goals and objectives of the Tilefish FMP.
 
 (1) *Specific management measures.* The following specific management measures may be adjusted at any time through the framework adjustment process:
@@ -42,11 +40,15 @@ Link to an amendment published at 82 FR 52861, Nov. 15, 2017.
 
 (xviii) Changes, as appropriate, to the SBRM, including the CV-based performance standard, the means by which discard data are collected/obtained, fishery stratification, the process for prioritizing observer sea-day allocations, reports, and/or industry-funded observers or observer set aside programs;
 
-(xix) Recreational management measures, including the bag limit, minimum fish size limit, seasons, and gear restrictions or prohibitions; and
+(xix) Recreational management measures, including the bag limit, minimum fish size limit, seasons, and gear restrictions or prohibitions;
 
-(xx) IFQ program review components, including capacity reduction, safety at sea issues, transferability rules, ownership concentration caps, permit and reporting requirements, and fee and cost-recovery issues.
+(xx) Golden tilefish IFQ program review components, including capacity reduction, safety at sea issues, transferability rules, ownership concentration caps, permit and reporting requirements, and fee and cost-recovery issues;
 
-(xxi) Measures that require significant departures from previously contemplated measures or that are otherwise introducing new concepts may require a formal amendment of the FMP instead of a framework adjustment.
+(xxi) Blueline tilefish recreational permitting and reporting requirements previously considered by the MAFMC; and
+
+(xxii) Blueline tilefish allocations to the commercial and recreational sectors of the fishery within the range of allocation alternatives considered by the MAFMC in Amendment 6.
+
+(xxiii) Measures that require significant departures from previously contemplated measures or that are otherwise introducing new concepts may require a formal amendment of the FMP instead of a framework adjustment.
 
 (2) *Adjustment process.* If the MAFMC determines that an adjustment to management measures is necessary to meet the goals and objectives of the FMP, it will recommend, develop, and analyze appropriate management actions over the span of at least two MAFMC meetings. The MAFMC will provide the public with advance notice of the availability of the recommendation, appropriate justifications and economic and biological analyses, and opportunity to comment on the proposed adjustments prior to and at the second MAFMC meeting on that framework action.
 
@@ -70,4 +72,4 @@ Link to an amendment published at 82 FR 52861, Nov. 15, 2017.
 
 (b) *Emergency action.* Nothing in this section is meant to derogate from the authority of the Secretary to take emergency action under section 305(e) of the Magnuson-Stevens Act.
 
-\[76 FR 60648, Sept. 29, 2011, as amended at 76 FR 81850, Dec. 29, 2011; 80 FR 37199, June 30, 2015\]
+\[76 FR 60648, Sept. 29, 2011, as amended at 76 FR 81850, Dec. 29, 2011; 80 FR 37199, June 30, 2015; 82 FR 52861, Nov. 15, 2017\]
