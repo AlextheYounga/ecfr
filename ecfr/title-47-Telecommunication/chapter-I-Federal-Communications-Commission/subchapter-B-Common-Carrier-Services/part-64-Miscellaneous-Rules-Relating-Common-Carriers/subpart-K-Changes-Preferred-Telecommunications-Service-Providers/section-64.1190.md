@@ -4,7 +4,7 @@
 
 (b) All local exchange carriers who offer preferred carrier freezes shall offer freezes on a nondiscriminatory basis to all subscribers, regardless of the subscriber's carrier selections.
 
-(c) Preferred carrier freeze procedures, including any solicitation, must clearly distinguish among telecommunications services (*e.g.*, local exchange, intraLATA toll, and interLATA toll) subject to a preferred carrier freeze. The carrier offering the freeze must obtain separate authorization for each service for which a preferred carrier freeze is requested.
+(c) Preferred carrier freeze procedures, including any solicitation, must clearly distinguish among telecommunications services (e.g., local exchange, intraLATA toll, and interLATA toll) subject to a preferred carrier freeze. The carrier offering the freeze must obtain separate authorization for each service for which a preferred carrier freeze is requested.
 
 (d) *Solicitation and imposition of preferred carrier freezes.* (1) All carrier-provided solicitation and other materials regarding preferred carrier freezes must include:
 
@@ -30,7 +30,7 @@
 
 (A) The subscriber's billing name and address and the telephone number(s) to be covered by the preferred carrier freeze;
 
-(B) The decision to place a preferred carrier freeze on the telephone number(s) and particular service(s). To the extent that a jurisdiction allows the imposition of preferred carrier freezes on additional preferred carrier selections (*e.g.*, for local exchange, intraLATA toll, and interLATA toll), the authorization must contain separate statements regarding the particular selections to be frozen;
+(B) The decision to place a preferred carrier freeze on the telephone number(s) and particular service(s). To the extent that a jurisdiction allows the imposition of preferred carrier freezes on additional preferred carrier selections (e.g., for local exchange, intraLATA toll, and interLATA toll), the authorization must contain separate statements regarding the particular selections to be frozen;
 
 (C) That the subscriber understands that she or he will be unable to make a change in carrier selection unless she or he lifts the preferred carrier freeze; and
 

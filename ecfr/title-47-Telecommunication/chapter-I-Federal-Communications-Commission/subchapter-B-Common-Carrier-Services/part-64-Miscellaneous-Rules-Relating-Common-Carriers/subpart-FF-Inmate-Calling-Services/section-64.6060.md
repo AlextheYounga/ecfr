@@ -14,7 +14,7 @@
 
 (6) The number of dropped calls the reporting Provider experienced with TTY-based calls; and
 
-(7) The number of complaints that the reporting Provider received related to *e.g.,* dropped calls, poor call quality and the number of incidences of each by TTY and TRS users.
+(7) The number of complaints that the reporting Provider received related to e.g., dropped calls, poor call quality and the number of incidences of each by TTY and TRS users.
 
 (b) An officer or director of the reporting Provider must certify that the reported information and data are accurate and complete to the best of his or her knowledge, information, and belief.
 
