@@ -1,8 +1,8 @@
-##### § 1466.35 Misrepresentation and scheme or device.
+##### § 1466.55 Misrepresentation and scheme or device.
 
 (a) A person, joint operation, legal entity, or Indian Tribe that is determined to have erroneously represented any fact affecting a program determination made in accordance with this part will not be entitled to contract payments and must refund to NRCS all payments, plus interest, determined in accordance with 7 CFR part 1403.
 
-(b) A producer who is determined to have knowingly:
+(b) A producer who is determined to have knowingly—
 
 (1) Adopted any scheme or device that tends to defeat the purpose of the program;
 
