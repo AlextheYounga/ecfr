@@ -8,7 +8,7 @@
 
 (2) The reasons for dismissal of the Respondent; and
 
-(3) That the Respondent's failure to -
+(3) That the Respondent's failure to—
 
 (i) Request reinstatement will be deemed a waiver of any right to seek reinstatement;
 
@@ -28,13 +28,13 @@
 
 (d) *Order to hold informal hearing.* Upon receipt of a timely written request from a Respondent for an informal hearing on the portion of a directive requiring a corporate credit union to dismiss from office any director or senior executive officer, the Board will issue an order directing an informal hearing to commence no later than 30 days after receipt of the request, unless the Respondent requests a later date. The hearing will be held in Alexandria, Virginia, or at such other place as may be designated by the Board, before a presiding officer designated by the Board to conduct the hearing and recommend a decision.
 
-(e) *Procedures for informal hearing* - (1) A Respondent may appear at the hearing personally or through counsel. A Respondent will have the right to introduce relevant documents and to present oral argument at the hearing. A Respondent may introduce witness testimony only if expressly authorized by the Board or by the presiding officer. Neither the provisions of the Administrative Procedure Act (5 U.S.C. 554-557) governing adjudications required by statute to be determined on the record nor the Uniform Rules of Practice and Procedure (12 CFR part 747) apply to an informal hearing under this section unless the Board orders otherwise.
+(e) *Procedures for informal hearing.* (1) A Respondent may appear at the hearing personally or through counsel. A Respondent will have the right to introduce relevant documents and to present oral argument at the hearing. A Respondent may introduce witness testimony only if expressly authorized by the Board or by the presiding officer. Neither the provisions of the Administrative Procedure Act (5 U.S.C. 554-557) governing adjudications required by statute to be determined on the record nor the Uniform Rules of Practice and Procedure (12 CFR part 747) apply to an informal hearing under this section unless the Board orders otherwise.
 
 (2) The informal hearing will be recorded, and a transcript will be furnished to the Respondent upon request and payment of the cost thereof. Witnesses need not be sworn, unless specifically requested by a party or the presiding officer. The presiding officer may ask questions of any witness.
 
 (3) The presiding officer may order that the hearing be continued for a reasonable period following completion of witness testimony or oral argument to allow additional written submissions to the hearing record.
 
-(4) A Respondent will bear the burden of demonstrating that his or her continued employment by or service with the corporate credit union would materially strengthen the corporate credit union's ability to -
+(4) A Respondent will bear the burden of demonstrating that his or her continued employment by or service with the corporate credit union would materially strengthen the corporate credit union's ability to —
 
 (i) Become “adequately capitalized,” to the extent that the directive was issued as a result of the corporate credit union's capital classification category or its failure to submit or implement a capital restoration plan; and
 

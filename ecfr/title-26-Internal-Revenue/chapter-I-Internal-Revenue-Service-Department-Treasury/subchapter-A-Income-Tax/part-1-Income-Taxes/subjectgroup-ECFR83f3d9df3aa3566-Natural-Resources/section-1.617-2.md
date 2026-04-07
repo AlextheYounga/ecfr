@@ -27,31 +27,24 @@ Example 1.A, a calendar-year taxpayer who has claimed the benefits of section 61
 
 (b) Subtract from $400,000 (the maximum amount allowable to B for deduction of foreign exploration expenditures) the sum of the amounts obtained in (a) $350,000:
 
-Maximum amount allowable to taxpayer
-
-$400,000 
-
-Sum of amounts obtained in (a)
-
-350,000 
-
-50,000
+| Maximum amount allowable to taxpayer | $400,000 |
+| Sum of amounts obtained in (a)       | 350,000  |
+|                                      | 50,000   |
 
 Example 3.Assume the same facts as in example 2 except that in 1971 in addition to the $150,000 paid with respect to exploration outside the United States, B paid $100,000 with respect to exploration within the United States. As the following computation indicates, B may not deduct any amount with respect to the foreign exploration:
 
 (a) Add all amounts deducted or deferred for exploration expenditures in prior years and the exploration expenditures with respect to exploration in the United States to be deducted in 1971:
 
-| Year  | Expenditures | Deducted or deferred |
-| ----- | ------------ | -------------------- |
-| 1968  | $100,000     | $100,000             |
-| 1969  | 100,000      | 100,000              |
-| 1970  | 150,000      | 150,000              |
-| 1971  | 250,000      | 1 100,000            |
-| Total |              | 450,000              |
+| Year        | Expenditures | Deducted or deferred |
+| ----------- | ------------ | -------------------- |
+| 1968        | $100,000     | $100,000             |
+| 1969        | 100,000      | 100,000              |
+| 1970        | 150,000      | 150,000              |
+| 1971        | 250,000      | 1 100,000            |
+| Total       |              | 450,000              |
+| 1 Domestic. |              |                      |
 
-1 Domestic.
-
-(b)Because the sum of the amounts obtained in (a), $450,000, exceeds $400,000 no deduction would be allowable to B with respect to foreign exploration expenditures for 1971.
+(b) Because the sum of the amounts obtained in (a), $450,000, exceeds $400,000 no deduction would be allowable to B with respect to foreign exploration expenditures for 1971.
 
 (d) *Transferee of mineral property.* (1) Where an individual or corporation transfers any mining property to the taxpayer, the taxpayer shall take into account for purposes of the $400,000 limitation described in paragraph (b)(ii) of this section all amounts deducted and amounts treated as deferred expenses by the transferor if:
 

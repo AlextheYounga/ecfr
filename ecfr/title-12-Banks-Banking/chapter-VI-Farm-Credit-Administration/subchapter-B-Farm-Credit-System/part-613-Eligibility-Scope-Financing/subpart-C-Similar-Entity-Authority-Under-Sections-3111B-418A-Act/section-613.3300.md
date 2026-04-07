@@ -4,11 +4,11 @@
 
 (2) *Similar entity* means a party that is ineligible for a loan from a Farm Credit bank or association, but has operations that are functionally similar to the activities of eligible borrowers in that a majority of its income is derived from, or a majority of its assets are invested in, the conduct of activities that are performed by eligible borrowers.
 
-(b) *Similar entity transactions.* A Farm Credit bank or a direct lender association may participate with a lender that is not a Farm Credit System institution in loans to a similar entity that is not eligible to borrow directly under § 613.3000, 613.3010, 613.3020, 613.3100, or 613.3200, for purposes similar to those for which an eligible borrower could obtain financing from the participating FCS institution.
+(b) *Similar entity transactions.* A Farm Credit bank or a direct lender association may participate with a lender that is not a Farm Credit System institution in loans to a similar entity that is not eligible to borrow directly under § 613.3000, § 613.3010, § 613.3020, § 613.3100, or § 613.3200, for purposes similar to those for which an eligible borrower could obtain financing from the participating FCS institution.
 
 (c) *Restrictions.* Participations by a Farm Credit bank or association in loans to a similar entity under this section are subject to the following limitations:
 
-(1) *Lending limits* - (i) *Farm Credit banks operating under title I of the Act and direct lender associations.* The total amount of all loan participations that any Farm Credit bank, agricultural credit bank, or direct lender association has outstanding under paragraph (b) of this section to a single credit risk shall not exceed:
+(1) *Lending limits*—(i) *Farm Credit banks operating under title I of the Act and direct lender associations.* The total amount of all loan participations that any Farm Credit bank, agricultural credit bank, or direct lender association has outstanding under paragraph (b) of this section to a single credit risk shall not exceed:
 
 (A) Ten (10) percent of its total capital; or
 

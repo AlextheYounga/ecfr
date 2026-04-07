@@ -4,9 +4,9 @@ The following definitions apply to this part:
 
 *Act* or *Authorizing statute* means the Farm Credit Act of 1971, as amended.
 
-*Agent* means any person (other than a director, officer, or employee of the Corporation) who represents the Corporation in contacts with third parties or who provides professional services such as legal, accounting, or appraisal services to the Corporation.
-
 *Affiliate* means any entity established under authority granted to the Corporation under section 8.3(c)(14) of the Act.
+
+*Agent* means any person (other than a director, officer, or employee of the Corporation) who represents the Corporation in contacts with third parties or who provides professional services such as legal, accounting, or appraisal services to the Corporation.
 
 *Appointed director* means a member of the Corporation's board of directors who was appointed to the Corporation board by the President of the United States of America.
 

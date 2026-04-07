@@ -14,7 +14,7 @@
 
 (5) Investment by corporate credit unions, which is governed by part 704 of this chapter.
 
-(6) Investment activity by State-chartered credit unions, except as provided in § 741.3(a)(2) and § 741.219 of this chapter; or
+(6) Investment activity by State-chartered credit unions, except as provided in §§ 741.3(a)(2) and 741.219 of this chapter; or
 
 (7) Funding a Charitable Donation Account pursuant to § 721.3(b) of this chapter.
 
