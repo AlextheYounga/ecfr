@@ -24,9 +24,9 @@
 
 (vi) Is in default.
 
-(3) Parameter A is the attachment point for the exposure, which represents the threshold at which credit losses will first be allocated to the exposure. Except as provided in § 217.42(i) for nth-to-default credit derivatives, parameter A equals the ratio of the current dollar amount of underlying exposures that are subordinated to the exposure of the Board-regulated institution to the current dollar amount of underlying exposures. Any reserve account funded by the accumulated cash flows from the underlying exposures that is subordinated to the Board-regulated institution's securitization exposure may be included in the calculation of parameter A to the extent that cash is present in the account. Parameter A is expressed as a decimal value between zero and one.
+(3) Parameter A is the attachment point for the exposure, which represents the threshold at which credit losses will first be allocated to the exposure. Except as provided in § 217.42(i) for n th-to-default credit derivatives, parameter A equals the ratio of the current dollar amount of underlying exposures that are subordinated to the exposure of the Board-regulated institution to the current dollar amount of underlying exposures. Any reserve account funded by the accumulated cash flows from the underlying exposures that is subordinated to the Board-regulated institution's securitization exposure may be included in the calculation of parameter A to the extent that cash is present in the account. Parameter A is expressed as a decimal value between zero and one.
 
-(4) Parameter D is the detachment point for the exposure, which represents the threshold at which credit losses of principal allocated to the exposure would result in a total loss of principal. Except as provided in section 42(i) for nth-to-default credit derivatives, parameter D equals parameter A plus the ratio of the current dollar amount of the securitization exposures that are *pari passu* with the exposure (that is, have equal seniority with respect to credit risk) to the current dollar amount of the underlying exposures. Parameter D is expressed as a decimal value between zero and one.
+(4) Parameter D is the detachment point for the exposure, which represents the threshold at which credit losses of principal allocated to the exposure would result in a total loss of principal. Except as provided in section 42(i) for n th-to-default credit derivatives, parameter D equals parameter A plus the ratio of the current dollar amount of the securitization exposures that are *pari passu* with the exposure (that is, have equal seniority with respect to credit risk) to the current dollar amount of the underlying exposures. Parameter D is expressed as a decimal value between zero and one.
 
 (5) A supervisory calibration parameter, p, is equal to 0.5 for securitization exposures that are not resecuritization exposures and equal to 1.5 for resecuritization exposures.
 
@@ -40,7 +40,7 @@
 
 ![](/graphics/er11oc13.024.gif)
 
-(e) *Gross-up approach* - (1) *Applicability.* A Board-regulated institution that is not subject to subpart F of this part may apply the gross-up approach set forth in this section instead of the SSFA to determine the risk weight of its securitization exposures, provided that it applies the gross-up approach to all of its securitization exposures, except as otherwise provided for certain securitization exposures in §§ 217.44 and 217.45.
+(e) *Gross-up approach*—(1) *Applicability.* A Board-regulated institution that is not subject to subpart F of this part may apply the gross-up approach set forth in this section instead of the SSFA to determine the risk weight of its securitization exposures, provided that it applies the gross-up approach to all of its securitization exposures, except as otherwise provided for certain securitization exposures in §§ 217.44 and 217.45.
 
 (2) To use the gross-up approach, a Board-regulated institution must calculate the following four inputs:
 

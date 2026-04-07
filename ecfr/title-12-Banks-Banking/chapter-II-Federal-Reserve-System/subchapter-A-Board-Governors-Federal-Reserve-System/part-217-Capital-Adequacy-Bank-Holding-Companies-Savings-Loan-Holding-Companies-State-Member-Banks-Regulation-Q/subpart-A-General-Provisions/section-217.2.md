@@ -246,13 +246,13 @@ As used in this part:
 
 (ii) For a synthetic securitization, is only exercisable when 10 percent or less of the principal amount of the reference portfolio of underlying exposures (determined as of the inception of the securitization) is outstanding.
 
-*Eligible credit derivative* means a credit derivative in the form of a credit default swap, nth-to-default swap, total return swap, or any other form of credit derivative approved by the Board, provided that:
+*Eligible credit derivative* means a credit derivative in the form of a credit default swap, n th-to-default swap, total return swap, or any other form of credit derivative approved by the Board, provided that:
 
 (1) The contract meets the requirements of an eligible guarantee and has been confirmed by the protection purchaser and the protection provider;
 
 (2) Any assignment of the contract has been confirmed by all relevant parties;
 
-(3) If the credit derivative is a credit default swap or nth-to-default swap, the contract includes the following credit events:
+(3) If the credit derivative is a credit default swap or n th-to-default swap, the contract includes the following credit events:
 
 (i) Failure to pay any amount due under the terms of the reference exposure, subject to any applicable minimal payment threshold that is consistent with standard market practice and with a grace period that is closely in line with the grace period of the reference exposure; and
 
@@ -264,7 +264,7 @@ As used in this part:
 
 (6) If the contract requires the protection purchaser to transfer an exposure to the protection provider at settlement, the terms of at least one of the exposures that is permitted to be transferred under the contract provide that any required consent to transfer may not be unreasonably withheld;
 
-(7) If the credit derivative is a credit default swap or nth-to-default swap, the contract clearly identifies the parties responsible for determining whether a credit event has occurred, specifies that this determination is not the sole responsibility of the protection provider, and gives the protection purchaser the right to notify the protection provider of the occurrence of a credit event; and
+(7) If the credit derivative is a credit default swap or n th-to-default swap, the contract clearly identifies the parties responsible for determining whether a credit event has occurred, specifies that this determination is not the sole responsibility of the protection provider, and gives the protection purchaser the right to notify the protection provider of the occurrence of a credit event; and
 
 (8) If the credit derivative is a total return swap and the Board-regulated institution records net payments received on the swap as net income, the Board-regulated institution records offsetting deterioration in the value of the hedged exposure (either through reductions in fair value or by an addition to reserves).
 
@@ -568,7 +568,7 @@ As used in this part:
 
 *Non-significant investment in the capital of an unconsolidated financial institution* means an investment in the capital of an unconsolidated financial institution where the Board-regulated institution owns 10 percent or less of the issued and outstanding common stock of the unconsolidated financial institution.
 
-*N*th*-to-default credit derivative* means a credit derivative that provides credit protection only for the nth-defaulting reference exposure in a group of reference exposures.
+*N*th*-to-default credit derivative* means a credit derivative that provides credit protection only for the n th-defaulting reference exposure in a group of reference exposures.
 
 *Operating entity* means a company established to conduct business with clients with the intention of earning a profit in its own right.
 

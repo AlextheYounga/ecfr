@@ -12,7 +12,7 @@
 
 (i) An uncollateralized guarantee or uncollateralized credit derivative (for example, a credit default swap) that provides protection with respect to a single reference obligor; or
 
-(ii) An nth-to-default credit derivative (subject to the requirements of § 217.142(m).
+(ii) An n th-to-default credit derivative (subject to the requirements of § 217.142(m).
 
 (3) The hedged exposure is a wholesale exposure (other than a sovereign exposure).
 

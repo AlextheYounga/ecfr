@@ -335,7 +335,7 @@ Anet = (0.4 × Agross) + (0.6 × NGR × Agross), where:
 
 (3) *Recognition of hedges.* (i) A Board-regulated institution may recognize a single name CDS, single name contingent CDS, any other equivalent hedging instrument that references the counterparty directly, and index credit default swaps (CDSind) as a CVA hedge under paragraph (e)(5)(ii) of this section or paragraph (e)(6) of this section, provided that the position is managed as a CVA hedge in accordance with the Board-regulated institution's hedging policies.
 
-(ii) A Board-regulated institution shall not recognize as a CVA hedge any tranched or nth-to-default credit derivative.
+(ii) A Board-regulated institution shall not recognize as a CVA hedge any tranched or n th-to-default credit derivative.
 
 (4) *Total CVA risk-weighted assets.* Total CVA risk-weighted assets is the CVA capital requirement, KCVA, calculated for a Board-regulated institution's entire portfolio of OTC derivative counterparties that are subject to the CVA capital requirement, multiplied by 12.5.
 
