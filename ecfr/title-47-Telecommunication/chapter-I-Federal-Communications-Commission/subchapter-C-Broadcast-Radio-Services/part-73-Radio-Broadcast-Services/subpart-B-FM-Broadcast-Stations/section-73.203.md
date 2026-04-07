@@ -1,8 +1,8 @@
 ##### § 73.203 Availability of channels.
 
-(a) Except as provided for in paragraph (b) of this section and § 1.401(d) of this chapter and 73.3573(a)(1), applications may be filed to construct new FM broadcast stations only at the communities and on the channels contained in the Table of Allotments (§ 73.202(b)).
+(a) Except as provided for in paragraph (b) of this section and § 1.401(d) of this chapter and 73.3573(a)(1), applications may be filed to construct new FM broadcast stations only at the communities and on the channels contained in the Table of Allotments (§ 73.202(b)). 
 
-(b) Applications filed on a first come, first served basis for the minor modification of an existing FM broadcast station may propose any change in channel and/or class and/or community not defined as major in § 73.3573(a). Applications for a change in community of license must comply with the requirements set forth in § 73.3573(g).
+(b) Applications filed on a first come, first served basis for the minor modification of an existing FM broadcast station may propose any change in channel and/or class and/or community not defined as major in § 73.3573(a). Applications for a change in community of license must comply with the requirements set forth in § 73.3573(g). 
 
 Note to § 73.203:
 

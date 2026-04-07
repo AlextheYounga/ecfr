@@ -1,6 +1,6 @@
 ##### § 622.505 Management area.
 
-The management area is the EEZ around St. Thomas and St. John bounded by rhumb lines connecting the following points and geographic instructions in order: 
+The management area is the EEZ around St. Thomas and St. John bounded by rhumb lines connecting the following points and geographic instructions in order:
 
 Table 1 to § 622.505
 | Point                                                                                                                   | North lat.     | West long.    |
