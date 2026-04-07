@@ -52,9 +52,7 @@
 
 (d) *Determination of available channels.* The white space database will determine the available channels at a location using the interference protection requirements of § 15.712, the location information supplied by a white space device, and the data for protected stations/locations in the database.
 
-(e) *White space device initialization.*
-
-(1) Fixed, mobile, and Mode II white space devices must provide their location and required identifying information to the white space database in accordance with the provisions of this subpart.
+(e) *White space device initialization.* (1) Fixed, mobile, and Mode II white space devices must provide their location and required identifying information to the white space database in accordance with the provisions of this subpart.
 
 (2) Fixed, mobile, and Mode II white space devices shall not transmit unless they receive, from the white space database, a list of available channels and may only transmit on the available channels on the list provided by the database.
 
