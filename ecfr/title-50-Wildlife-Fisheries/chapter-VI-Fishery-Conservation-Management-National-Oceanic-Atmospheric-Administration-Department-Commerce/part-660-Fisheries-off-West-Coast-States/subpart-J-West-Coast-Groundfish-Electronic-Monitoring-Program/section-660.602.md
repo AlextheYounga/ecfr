@@ -1,6 +1,6 @@
 ##### § 660.602 Prohibitions.
 
-In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to:
+In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to:*Electronic monitoring program.*
 
 (a) *Electronic monitoring program.* (1) Make a false or inaccurate/incorrect statement on an application for issuance, renewal, or changes to an EM Authorization or NMFS-accepted VMP.
 

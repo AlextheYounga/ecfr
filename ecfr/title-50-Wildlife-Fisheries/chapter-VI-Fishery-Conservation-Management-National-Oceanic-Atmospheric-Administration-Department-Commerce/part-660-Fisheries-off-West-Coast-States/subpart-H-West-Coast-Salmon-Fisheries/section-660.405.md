@@ -1,6 +1,6 @@
 ##### § 660.405 Prohibitions.
 
-(a) In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following, except as otherwise authorized under this part:
+(a) In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following, except as otherwise authorized under this part:*Hippoglossus stenolepis*
 
 (1) Take and retain, possess, or land salmon caught with a net in the fishery management area, except that a hand-held net may be used to bring hooked salmon on board a vessel.
 

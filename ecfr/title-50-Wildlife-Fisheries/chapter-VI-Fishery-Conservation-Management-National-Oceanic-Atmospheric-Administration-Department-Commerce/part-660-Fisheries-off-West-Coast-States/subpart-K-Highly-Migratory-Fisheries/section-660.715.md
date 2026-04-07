@@ -1,6 +1,6 @@
 ##### § 660.715 Deep-set buoy gear fishery.
 
-(a) *Gear configurations.* Deep-set buoy gear (DSBG) configurations must conform to the following specifications:
+(a) *Gear configurations.* Deep-set buoy gear (DSBG) configurations must conform to the following specifications:3/8
 
 (1) *Standard buoy gear (SBG).* An individual piece of SBG must consist of a vertical monofilament mainline suspended from a buoy-array with a terminal weight. No more than three gangions with hooks may be attached to the mainline. No gangions with hooks may be attached at a depth shallower than 90 meters.
 

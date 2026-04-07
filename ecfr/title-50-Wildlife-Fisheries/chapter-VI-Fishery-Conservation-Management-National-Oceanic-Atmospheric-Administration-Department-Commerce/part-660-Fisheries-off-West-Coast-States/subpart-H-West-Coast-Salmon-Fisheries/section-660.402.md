@@ -1,6 +1,6 @@
 ##### § 660.402 Definitions.
 
-In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this subpart have the following meanings:
+In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this subpart have the following meanings:*Barbless hook*1
 
 *Barbless hook* means a hook with a single shank and point, with no secondary point or barb curving or projecting in any other direction. Where barbless hooks are specified, hooks manufactured with barbs can be made barbless by forcing the point of the barb flat against the main part of the point.
 

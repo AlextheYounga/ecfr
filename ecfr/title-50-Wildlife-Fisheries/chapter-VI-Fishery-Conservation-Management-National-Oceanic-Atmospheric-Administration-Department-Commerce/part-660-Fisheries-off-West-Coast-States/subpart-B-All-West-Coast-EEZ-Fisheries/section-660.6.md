@@ -1,6 +1,6 @@
 ##### § 660.6 Prohibitions.
 
-In addition to the general prohibitions specified in § 600.725 of this chapter, and the other prohibitions specified in this part, it is unlawful for any person to:
+In addition to the general prohibitions specified in § 600.725 of this chapter, and the other prohibitions specified in this part, it is unlawful for any person to:*Directed commercial fishing.*
 
 (a) *Directed commercial fishing.* Engage in directed commercial fishing for Shared EC Species from a vessel engaged in commercial fishing within the EEZ off Washington, Oregon, or California. This prohibition does not apply to:
 

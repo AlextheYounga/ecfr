@@ -1,6 +1,6 @@
 ##### § 660.503 Management subareas.
 
-The fishery management area is divided into subareas for the regulation of fishing for CPS, with the following designations and boundaries:
+The fishery management area is divided into subareas for the regulation of fishing for CPS, with the following designations and boundaries:*CPS Limited Entry Zone*
 
 (a) *CPS Limited Entry Zone* means the EEZ between:
 

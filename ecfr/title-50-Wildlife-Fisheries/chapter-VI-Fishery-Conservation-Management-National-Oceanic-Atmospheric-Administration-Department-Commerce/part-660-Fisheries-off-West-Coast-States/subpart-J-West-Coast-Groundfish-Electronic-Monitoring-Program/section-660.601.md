@@ -1,6 +1,6 @@
 ##### § 660.601 Definitions.
 
-These definitions are specific to this subpart. General groundfish definitions are found at § 660.11, subpart C, and trawl fishery definitions are found at § 660.111, subpart D.
+These definitions are specific to this subpart. General groundfish definitions are found at § 660.11, subpart C, and trawl fishery definitions are found at § 660.111, subpart D.*Active sampling unit*
 
 *Active sampling unit* means the portion of the groundfish fleet in which an observer coverage plan is being applied.
 

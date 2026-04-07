@@ -1,6 +1,6 @@
 ##### § 660.512 Limited entry fishery.
 
-(a) *General.* (1) This section applies to fishing for or landing CPS finfish in the limited entry fishery in the Limited Entry Zone.
+(a) *General.* (1) This section applies to fishing for or landing CPS finfish in the limited entry fishery in the Limited Entry Zone.Federal Register
 
 (2) Effective January 1, 2000, the owner of a vessel with more than 5 mt of CPS finfish on board in the CPS Limited Entry Zone, other than live bait, must have a limited entry permit registered for use with that vessel.
 

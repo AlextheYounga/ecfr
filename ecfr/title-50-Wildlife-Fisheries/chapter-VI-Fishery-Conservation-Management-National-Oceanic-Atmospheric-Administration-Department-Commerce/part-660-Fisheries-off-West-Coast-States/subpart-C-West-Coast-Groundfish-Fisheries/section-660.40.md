@@ -1,6 +1,6 @@
 ##### § 660.40 Rebuilding plans.
 
-For each overfished groundfish stock with an approved rebuilding plan, this section contains the standards to be used to establish annual or biennial ACLs, specifically the target date for rebuilding the stock to its MSY level and the harvest control rule to be used to rebuild the stock. The harvest control rule may be expressed as a “Spawning Potential Ratio” or “SPR” harvest rate.
+For each overfished groundfish stock with an approved rebuilding plan, this section contains the standards to be used to establish annual or biennial ACLs, specifically the target date for rebuilding the stock to its MSY level and the harvest control rule to be used to rebuild the stock. The harvest control rule may be expressed as a “Spawning Potential Ratio” or “SPR” harvest rate.*Yelloweye rockfish.*MSY
 
 (a) *Yelloweye rockfish.* Yelloweye rockfish was declared overfished in 2002. The target year for rebuilding the yelloweye rockfish stock to BMSY is 2029. The harvest control rule to be used to rebuild the yelloweye rockfish stock is an annual SPR harvest rate of 65.0 percent.
 

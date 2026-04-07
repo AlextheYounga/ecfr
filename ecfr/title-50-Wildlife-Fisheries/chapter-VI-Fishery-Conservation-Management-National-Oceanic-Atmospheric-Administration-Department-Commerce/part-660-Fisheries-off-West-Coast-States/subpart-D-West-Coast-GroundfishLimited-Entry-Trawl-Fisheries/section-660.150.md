@@ -1,6 +1,6 @@
 ##### § 660.150 Mothership (MS) Co-op Program.
 
-(a) *General.* The MS Co-op Program is a general term to describe the limited access program that applies to eligible harvesters and processors in the mothership sector of the Pacific whiting at-sea trawl fishery. Eligible harvesters and processors, including co-op and non-cooperative fishery participants, must meet the requirements set forth in this section of the Pacific Coast groundfish regulations. Each year a vessel registered to an MS/CV-endorsed permit may fish in either the co-op or non-cooperative portion of the MS Co-op Program, but not both. In addition to the requirements of this section, the MS Co-op Program is subject to the following groundfish regulations of subparts C and D of this part:
+(a) *General.* The MS Co-op Program is a general term to describe the limited access program that applies to eligible harvesters and processors in the mothership sector of the Pacific whiting at-sea trawl fishery. Eligible harvesters and processors, including co-op and non-cooperative fishery participants, must meet the requirements set forth in this section of the Pacific Coast groundfish regulations. Each year a vessel registered to an MS/CV-endorsed permit may fish in either the co-op or non-cooperative portion of the MS Co-op Program, but not both. In addition to the requirements of this section, the MS Co-op Program is subject to the following groundfish regulations of subparts C and D of this part:Federal Register
 
 (1) Pacific whiting seasons § 660.131(b), subpart D.
 

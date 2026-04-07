@@ -1,6 +1,6 @@
 ##### § 660.211 Fixed gear fishery—definitions.
 
-These definitions are specific to the limited entry fixed gear fisheries covered in this subpart. General groundfish definitions are found at § 660.11, subpart C.
+These definitions are specific to the limited entry fixed gear fisheries covered in this subpart. General groundfish definitions are found at § 660.11, subpart C.*Daily Trip Limit (DTL) Fishery*
 
 *Daily Trip Limit (DTL) Fishery* means a sablefish fishery that occurs both north and south of 36° N. lat. that is subject to trip limit restrictions including daily and/or weekly and/or bimonthly trip limits.
 

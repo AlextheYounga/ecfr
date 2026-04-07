@@ -1,6 +1,6 @@
 ##### § 660.4 Usual and accustomed fishing areas for Pacific Coast treaty Indian tribes.
 
-(a) The Pacific Coast treaty Indian tribes' usual and accustomed (U&A) fishing areas within the EEZ are set out below in paragraphs (a)(1) through (a)(4) of this section. Boundaries of a tribe's fishing area may be revised as ordered by a Federal court.
+(a) The Pacific Coast treaty Indian tribes' usual and accustomed (U&A) fishing areas within the EEZ are set out below in paragraphs (a)(1) through (a)(4) of this section. Boundaries of a tribe's fishing area may be revised as ordered by a Federal court.*Makah.*
 
 (1) *Makah.* The area north of 48°02.25′ N. lat. (Norwegian Memorial) and east of 125°44′ W. long.
 

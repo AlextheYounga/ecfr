@@ -1,6 +1,6 @@
 ##### § 660.720 Interim protection for sea turtles.
 
-(a) Until the effective date of §§ 660.707 and 660.712 (d) and (e), it is unlawful for any person who is not operating under a Hawaii longline limited access permit under § 660.21(b) to do any of the following:
+(a) Until the effective date of §§ 660.707 and 660.712 (d) and (e), it is unlawful for any person who is not operating under a Hawaii longline limited access permit under § 660.21(b) to do any of the following:*Xiphias gladius*
 
 (1) Direct fishing effort toward the harvest of swordfish (*Xiphias gladius*) using longline gear deployed on the high seas of the Pacific Ocean west of 150° W. long. and north of the equator (0° lat.).
 
