@@ -10,6 +10,6 @@
 
 (b) A savings association shall inform each inquirer of his or her right to file a written loan application, and to receive a copy of the association's underwriting standards.
 
-Note § 128.3:
+Note to § 128.3:
 
 *See also,* § 128.9(a) through (d).

@@ -1,7 +1,5 @@
 ##### § 90.261 Assignment and use of the frequencies in the band 450-470 MHz for fixed operations.
 
-Link to an amendment published at 83 FR 61097, Nov. 27, 2018.
-
 (a) Frequencies in the 450-470 MHz band as listed in §§ 90.20(c)(3) and 90.35(b)(3) may be assigned to all eligibles for fixed use on a secondary basis to land mobile operations.
 
 (b) Fixed stations located 140 km (87 mi) or more from the center of any urbanized area of 600,000 or more population are limited to a transmitter output power of 75 watts. Fixed stations less than 140 km (87 mi) from the centers of these areas are limited to a transmitter output power of 20 watts. Urbanized areas of 600,000 or more population are defined in the U.S. Census of Population 1970, Vol. 1, Table 20, pages 1-74. The centers of the urbanized areas are determined from the Appendix, page 226, of the U.S. Department of Commerce publication “Airline Distance Between Cities in the United States.”
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 61097, Nov. 27, 2018.
 
 (d)-(e) \[Reserved\]
 
-(f) Secondary fixed operations pursuant to paragraph (a) of this section will not be authorized on the following frequencies or on frequencies subject to § 90.267:
+(f) Secondary fixed operations pursuant to paragraph (a) of this section will not be authorized on the following frequencies or on frequencies subject to § 90.267, except as provided in § 90.219(d)(3)(ii):
 
 Frequencies (MHz) 
 *   451.800/456.800
@@ -100,4 +98,4 @@ Frequencies (MHz)
 *   463.175/468.175
 *   463.18125/468.18125
 *   463.1875/468.1875
-*   463.19375/468.19375\[57 FR 24992, June 12, 1992, as amended at 58 FR 33212, June 16, 1993; 60 FR 37268, July 19, 1995; 62 FR 18928, Apr. 17, 1997; 68 FR 19461, Apr. 21, 2003; 72 FR 35196, June 27, 2007\]
+*   463.19375/468.19375\[57 FR 24992, June 12, 1992, as amended at 58 FR 33212, June 16, 1993; 60 FR 37268, July 19, 1995; 62 FR 18928, Apr. 17, 1997; 68 FR 19461, Apr. 21, 2003; 72 FR 35196, June 27, 2007; 83 FR 61097, Nov. 27, 2018\]
