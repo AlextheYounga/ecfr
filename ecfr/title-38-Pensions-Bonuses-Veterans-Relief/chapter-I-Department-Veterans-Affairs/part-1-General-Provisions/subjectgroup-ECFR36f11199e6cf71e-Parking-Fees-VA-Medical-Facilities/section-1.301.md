@@ -1,6 +1,6 @@
 ##### § 1.301 Definitions.
 
-As used in §§ 1.300 through 1.303 of this title:
+As used in §§ 1.300 through 1.303 of this title:*Secretary*
 
 (a) *Secretary* means the Secretary of Veterans Affairs.
 

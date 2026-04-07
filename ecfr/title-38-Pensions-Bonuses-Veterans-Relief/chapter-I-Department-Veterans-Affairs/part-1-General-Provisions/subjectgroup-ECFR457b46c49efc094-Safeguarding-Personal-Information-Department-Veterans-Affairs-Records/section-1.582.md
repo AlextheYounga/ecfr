@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 46063, Sept. 25, 2025.
 
-(a) Certain systems of records maintained by the Department of Veterans Affairs are exempted from provisions of the Privacy Act in accordance with exemptions (j) and (k) of 5 U.S.C. 552a.
+(a) Certain systems of records maintained by the Department of Veterans Affairs are exempted from provisions of the Privacy Act in accordance with exemptions (j) and (k) of 5 U.S.C. 552a.*Exemption of Inspector General Systems of Records.*
 
 (b) *Exemption of Inspector General Systems of Records.* The Department of Veterans Affairs provides limited access to Inspector General Systems of Records as indicated.
 

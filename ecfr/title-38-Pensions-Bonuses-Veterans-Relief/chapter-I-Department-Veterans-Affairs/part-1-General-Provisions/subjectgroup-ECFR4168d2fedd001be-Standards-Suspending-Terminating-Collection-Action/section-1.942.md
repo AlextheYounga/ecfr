@@ -1,6 +1,6 @@
 ##### § 1.942 Termination of collection activity.
 
-Termination of collection activity involves a final determination. Collection activity may be terminated on cases previously suspended. The Department of Veterans Affairs may terminate collection activity and consider closing the agency file on a claim which meets any one of the following standards:
+Termination of collection activity involves a final determination. Collection activity may be terminated on cases previously suspended. The Department of Veterans Affairs may terminate collection activity and consider closing the agency file on a claim which meets any one of the following standards:*Inability to collect any substantial amount.*
 
 (a) *Inability to collect any substantial amount.* Collection action may be terminated on a claim when it becomes clear that VA cannot collect or enforce collection of any significant amount from the debtor, having due regard for the judicial remedies available to the agency, the debtor's future financial prospects, and the exemptions available to the debtor under State and Federal law. In determining the debtor's inability to pay, the following factors, among others, shall be considered: Age and health of the debtor, present and potential income, inheritance prospects, the possibility that assets have been concealed or improperly transferred by the debtor, the availability of assets or income which may be realized by means of enforced collection proceedings.
 

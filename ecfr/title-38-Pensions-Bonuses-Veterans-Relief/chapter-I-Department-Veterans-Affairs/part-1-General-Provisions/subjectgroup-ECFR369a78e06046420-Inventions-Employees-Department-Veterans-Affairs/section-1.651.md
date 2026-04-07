@@ -1,6 +1,6 @@
 ##### § 1.651 Definitions.
 
-The terms as used in the regulations concerning inventions by employees of the Department of Veterans Affairs are defined as follows:
+The terms as used in the regulations concerning inventions by employees of the Department of Veterans Affairs are defined as follows:*invention*
 
 (a) The term *invention* includes any art, machine, manufacture, design, or composition of matter, or any new and useful improvement thereof, or any variety of plant, which is or may be patentable under the patent laws of the United States.
 

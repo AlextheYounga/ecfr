@@ -1,6 +1,6 @@
 ##### § 1.9 Description, use, and display of VA seal and flag.
 
-(a) *General.* This section describes the official seal and distinguishing flag of the of the Department of Veterans Affairs, and prescribes the rules for their custody and use.
+(a) *General.* This section describes the official seal and distinguishing flag of the of the Department of Veterans Affairs, and prescribes the rules for their custody and use.1/2
 
 (b) *Definitions.* (1) *VA* means all organizational units of the Department of Veterans Affairs.
 

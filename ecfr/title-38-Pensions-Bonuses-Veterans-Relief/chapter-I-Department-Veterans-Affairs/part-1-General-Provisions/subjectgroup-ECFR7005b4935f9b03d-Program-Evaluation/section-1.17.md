@@ -1,6 +1,6 @@
 ##### § 1.17 Evaluation of studies relating to health effects of radiation exposure.
 
-(a) From time to time, the Secretary shall publish evaluations of scientific or medical studies relating to the adverse health effects of exposure to ionizing radiation in the “Notices” section of the Federal Register.
+(a) From time to time, the Secretary shall publish evaluations of scientific or medical studies relating to the adverse health effects of exposure to ionizing radiation in the “Notices” section of the Federal Register.*significant statistical association*
 
 (b) Factors to be considered in evaluating scientific studies include:
 

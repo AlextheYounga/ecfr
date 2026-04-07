@@ -1,6 +1,6 @@
 ##### § 1.991 Procedures for salary offset: when deductions may begin.
 
-(a) Deductions to liquidate an employee's debt will be by the method and in the amount stated in the notice to collect from the employee's current pay as modified by a written decision issued under § 1.982 or § 1.988, or parts 19 and 20 or by written agreement between the employee and the VA under § 1.990.
+(a) Deductions to liquidate an employee's debt will be by the method and in the amount stated in the notice to collect from the employee's current pay as modified by a written decision issued under § 1.982 or § 1.988, or parts 19 and 20 or by written agreement between the employee and the VA under § 1.990.*see*
 
 (b) If the employee filed a request for a hearing as provided by § 1.984 before the expiration of the period provided for in that section, deductions will not begin until after the hearing official or administrative law judge has provided the employee with a hearing, and has rendered a final written decision.
 

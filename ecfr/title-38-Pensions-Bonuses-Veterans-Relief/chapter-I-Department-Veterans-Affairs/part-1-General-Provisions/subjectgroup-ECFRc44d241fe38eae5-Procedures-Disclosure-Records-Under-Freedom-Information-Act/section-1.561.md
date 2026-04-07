@@ -62,7 +62,7 @@
 
 | Category                                                              | Search fees        | Review fees | Duplication fees                |
 | --------------------------------------------------------------------- | ------------------ | ----------- | ------------------------------- |
-| (1) Commercial Use                                                    | Yes                | Yes         | Yes.                            |
+| (1) Commercial Use12   e.g.,                                          | Yes                | Yes         | Yes.                            |
 | (2) Educational Institution and Non-Commercial Scientific Institution | No                 | No          | Yes (100 pages or 1 disc free). |
 | (3) News Media                                                        | No                 | No          | Yes (100 pages or 1 disc free). |
 | (4) All other                                                         | Yes (2 hours free) | No          | Yes (100 pages or 1 disc free). |

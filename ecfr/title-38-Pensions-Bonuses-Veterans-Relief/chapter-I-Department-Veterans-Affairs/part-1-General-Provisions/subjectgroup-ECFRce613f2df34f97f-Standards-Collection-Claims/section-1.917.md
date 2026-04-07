@@ -1,6 +1,6 @@
 ##### § 1.917 Contracting for collection services.
 
-(a) VA has authority to contract for collection services to recover delinquent debts, provided that:
+(a) VA has authority to contract for collection services to recover delinquent debts, provided that:*et seq.*
 
 (1) The authority to resolve disputes, compromise claims, suspend or terminate collection and refer the matter for litigation shall be retained by VA;
 

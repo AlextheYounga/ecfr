@@ -1,6 +1,6 @@
 ##### § 1.966 Scope of waiver decisions.
 
-(a) Decisions will be based on the evidence of record. A hearing may be held at the request of the claimant or his/her representative. No expenses incurred by a claimant, his representative, or any witness incident to a hearing will be paid by the Department of Veterans Affairs.
+(a) Decisions will be based on the evidence of record. A hearing may be held at the request of the claimant or his/her representative. No expenses incurred by a claimant, his representative, or any witness incident to a hearing will be paid by the Department of Veterans Affairs.*i.e.*
 
 (b) A regional office Committee may:
 

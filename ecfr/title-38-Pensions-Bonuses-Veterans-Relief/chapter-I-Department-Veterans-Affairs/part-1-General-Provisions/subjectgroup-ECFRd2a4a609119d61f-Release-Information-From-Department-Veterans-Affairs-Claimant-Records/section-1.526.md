@@ -1,6 +1,6 @@
 ##### § 1.526 Copies of records and papers.
 
-(a) Any person desiring a copy of any record or document in the custody of the Department of Veterans Affairs, which is subject to be furnished under §§ 1.501 through 1.526, must make written application for such copy to the Department of Veterans Affairs installation having custody of the subject matter desired, stating specifically: (1) The particular record or document the copy of which is desired and whether certified and validated, or uncertified, (2) the purpose for which such copy is desired to be used.
+(a) Any person desiring a copy of any record or document in the custody of the Department of Veterans Affairs, which is subject to be furnished under §§ 1.501 through 1.526, must make written application for such copy to the Department of Veterans Affairs installation having custody of the subject matter desired, stating specifically: (1) The particular record or document the copy of which is desired and whether certified and validated, or uncertified, (2) the purpose for which such copy is desired to be used.*Fees to be charged*
 
 (b) The types of services provided by the Department of Veterans Affairs for which fees will be charged are identified in paragraph (i) of this section.
 

@@ -1,6 +1,6 @@
 ##### § 1.671 Definitions.
 
-For the purpose of §§ 1.670 through 1.673, the following definitions apply:
+For the purpose of §§ 1.670 through 1.673, the following definitions apply:*Administrative subdivision of funds.*
 
 (a) *Administrative subdivision of funds.* An administrative subdivision of funds is any administrative subdivision of an appropriation or fund which makes funds available in a specified amount for the purpose of controlling apportionments or reapportionments.
 

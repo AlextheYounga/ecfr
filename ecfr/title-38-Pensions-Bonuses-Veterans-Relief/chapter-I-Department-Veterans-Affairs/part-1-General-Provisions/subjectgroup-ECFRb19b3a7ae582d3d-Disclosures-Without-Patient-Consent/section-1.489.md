@@ -1,6 +1,6 @@
 ##### § 1.489 Audit and evaluation activities.
 
-Subject to the provisions of 38 U.S.C. 5701, 38 CFR 1.500-1.527, the Privacy Act (5 U.S.C. 552a), 38 CFR 1.575-1.584, and the following paragraphs, patient medical records covered by §§ 1.460 through 1.499 of this part may be disclosed outside VA for the purposes of conducting audit and evaluation activities.
+Subject to the provisions of 38 U.S.C. 5701, 38 CFR 1.500-1.527, the Privacy Act (5 U.S.C. 552a), 38 CFR 1.575-1.584, and the following paragraphs, patient medical records covered by §§ 1.460 through 1.499 of this part may be disclosed outside VA for the purposes of conducting audit and evaluation activities.*Records not copies.*
 
 (a) *Records not copies.* If patient records covered by §§ 1.460 through 1.499 of this part are not copied, patient identifying information may be disclosed in the course of a review of records on VA facility premises to any person who agrees in writing to comply with the limitations on redisclosure and use in paragraph (d) of this section and:
 

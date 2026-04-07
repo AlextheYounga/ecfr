@@ -1,6 +1,6 @@
 ##### § 1.551 Definitions.
 
-As used in §§ 1.550 through 1.562, the following definitions apply:
+As used in §§ 1.550 through 1.562, the following definitions apply:*Agency*
 
 *Agency* means any executive department, military department, government corporation, government controlled corporation, or other establishment in the executive branch of the Federal government, or independent regulatory entity.
 

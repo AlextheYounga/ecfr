@@ -1,6 +1,6 @@
 ##### § 1.923 Administrative wage garnishment.
 
-(a) In accordance with the procedures set forth in 31 U.S.C. 3720D and 31 CFR 285.11, VA or Treasury may request that a non-Federal employer garnish the disposable pay of an individual to collect delinquent non-tax debt owed to VA. VA may pursue wage garnishment independently in accordance with this section or VA or Treasury may pursue garnishment after VA refers a debt to Treasury in accordance with § 1.910 of this part and 31 CFR 285.12. For the purposes of this section, any reference to Treasury also includes any private collection agency under contract to Treasury.
+(a) In accordance with the procedures set forth in 31 U.S.C. 3720D and 31 CFR 285.11, VA or Treasury may request that a non-Federal employer garnish the disposable pay of an individual to collect delinquent non-tax debt owed to VA. VA may pursue wage garnishment independently in accordance with this section or VA or Treasury may pursue garnishment after VA refers a debt to Treasury in accordance with § 1.910 of this part and 31 CFR 285.12. For the purposes of this section, any reference to Treasury also includes any private collection agency under contract to Treasury.*et seq.*
 
 (b) At least 30 days prior to the initiation of garnishment proceedings, VA or Treasury shall send a written notice, as described in 31 CFR 285.11(e), by first class mail to the debtor's last known address. This notice shall inform the debtor of:
 

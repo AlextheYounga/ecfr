@@ -1,6 +1,6 @@
 ##### § 1.576 General policies, conditions of disclosure, accounting of certain disclosures, and definitions.
 
-(a) The Department of Veterans Affairs will safeguard an individual against an invasion of personal privacy. Except as otherwise provided by law or regulation its officials and employees will:
+(a) The Department of Veterans Affairs will safeguard an individual against an invasion of personal privacy. Except as otherwise provided by law or regulation its officials and employees will:*i.e.*Federal Register.
 
 (1) Permit an individual to determine what records pertaining to him or her will be collected, maintained, used, or disseminated by the Department of Veterans Affairs.
 

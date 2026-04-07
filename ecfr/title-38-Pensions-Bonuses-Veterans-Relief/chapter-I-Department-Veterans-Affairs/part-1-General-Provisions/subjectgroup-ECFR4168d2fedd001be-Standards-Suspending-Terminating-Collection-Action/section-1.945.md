@@ -1,6 +1,6 @@
 ##### § 1.945 Authority to suspend or terminate collection action on certain benefit indebtedness; authority for refunds.
 
-(a) The Secretary of Veterans Affairs (Secretary) may suspend or terminate collection action on all or any part of an indebtedness owed to VA by a member of the Armed Forces who dies while on active duty, if the Secretary determines that such suspension or termination of collection is appropriate and in the best interest of the United States.
+(a) The Secretary of Veterans Affairs (Secretary) may suspend or terminate collection action on all or any part of an indebtedness owed to VA by a member of the Armed Forces who dies while on active duty, if the Secretary determines that such suspension or termination of collection is appropriate and in the best interest of the United States.*individual*
 
 (b) The Secretary may terminate collection action on all or any part of an amount owed to the United States for an indebtedness resulting from an individual's participation in a benefits program administered by the Secretary, other than a program as described in paragraph (h) of this section, if the Secretary determines that such termination of collection is in the best interest of the United States. For purposes of this paragraph, an *individual* is any member of the Armed Forces or veteran who dies as a result of an injury incurred or aggravated in the line of duty while serving in a theater of combat operations in a war or in combat against a hostile force during a period of hostilities on or after September 11, 2001.
 
