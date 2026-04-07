@@ -1,6 +1,6 @@
 ##### § 52.2578 Compliance schedules.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Federal compliance schedules.*
 
 (b) The requirements of § 51.262(a) of this chapter are not met since compliance schedules with adequate increments of progress have not been submitted for every source for which they are required.
 

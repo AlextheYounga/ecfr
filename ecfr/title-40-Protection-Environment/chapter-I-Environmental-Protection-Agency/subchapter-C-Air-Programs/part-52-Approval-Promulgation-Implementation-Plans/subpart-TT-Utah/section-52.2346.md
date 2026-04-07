@@ -1,6 +1,6 @@
 ##### § 52.2346 Significant deterioration of air quality.
 
-(a) The Utah plan, as submitted, is approved as meeting the requirements of Part C, Title I, of the Clean Air Act, except that it does not apply to sources proposing to construct on Indian Reservations.
+(a) The Utah plan, as submitted, is approved as meeting the requirements of Part C, Title I, of the Clean Air Act, except that it does not apply to sources proposing to construct on Indian Reservations.*Regulation for prevention of significant deterioration of air quality.*2.53
 
 (b) *Regulation for prevention of significant deterioration of air quality.* The provisions of § 52.21 except paragraph (a)(1) are hereby incorporated and made a part of the Utah State implementation plan and are applicable to proposed major stationary sources or major modifications to be located on Indian Reservations.
 
@@ -102,7 +102,7 @@
 
 | Pollutant                               | Maximum allowable increase   (micrograms per cubic meter) |
 | --------------------------------------- | --------------------------------------------------------- |
-| **Class I Area**                        |                                                           |
+| **Class I Area**2.5                     |                                                           |
 | PM2.5:                                  |                                                           |
 | Annual arithmetic mean                  | 1                                                         |
 | 24-hr maximum                           | 2                                                         |

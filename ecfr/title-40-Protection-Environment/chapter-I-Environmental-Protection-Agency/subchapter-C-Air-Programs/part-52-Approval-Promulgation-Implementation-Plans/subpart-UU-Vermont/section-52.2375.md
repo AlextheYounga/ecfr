@@ -2,7 +2,7 @@
 
 The following table presents the latest dates by which the national standards are to be attained. The dates reflect the information presented in Vermont's plan.
 
-| Air quality control region and nonattainment area 1                                                                                                                                                                                                                                                               | Pollutant |
+| Air quality control region and nonattainment area 12                                                                                                                                                                                                                                                              | Pollutant |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | Champlain Valley Interstate—Chittenden County:                                                                                                                                                                                                                                                                    |           |
 | Champlain Valley Air Management Area:                                                                                                                                                                                                                                                                             |           |

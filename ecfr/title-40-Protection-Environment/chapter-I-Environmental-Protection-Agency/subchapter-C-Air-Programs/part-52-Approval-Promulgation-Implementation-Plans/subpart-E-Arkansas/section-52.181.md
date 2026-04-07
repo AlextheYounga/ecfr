@@ -1,6 +1,6 @@
 ##### § 52.181 Significant deterioration of air quality.
 
-(a) The plan submitted by the Governor of Arkansas as follows:
+(a) The plan submitted by the Governor of Arkansas as follows:2.5
 
 (1) April 23, 1981—submittal of the PSD Supplement Arkansas Plan of Implementation for Pollution Control (the “PSD Supplement”) submitted April 23, 1981 (as adopted by the Arkansas Commission on Pollution Control and Ecology (ACPCE) on April 10, 1981);
 

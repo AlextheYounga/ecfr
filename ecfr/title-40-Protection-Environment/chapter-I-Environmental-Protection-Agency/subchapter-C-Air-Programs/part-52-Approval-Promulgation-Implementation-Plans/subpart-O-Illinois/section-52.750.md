@@ -1,6 +1,6 @@
 ##### § 52.750 Original identification of plan section.
 
-(a) This section identified the original “Air Quality Implementation Plan for the State of Illinois” and all revisions submitted by Illinois that were Federally-approved prior to June 1, 2017.
+(a) This section identified the original “Air Quality Implementation Plan for the State of Illinois” and all revisions submitted by Illinois that were Federally-approved prior to June 1, 2017.2*People of the State of Illinois*
 
 (b) The plan was officially submitted on January 31, 1972.
 
@@ -330,7 +330,7 @@ Appendix A, B, C, and D. These regulations were adopted at R91-7 at 15 Ill. Reg.
 
 (*2*) Amended in R93-9 at 17 Ill. Reg. 16918, effective September 27, 1993:
 
-Subpart A: 219.100, 219.101, 219.102, 219.104, 219.105, 219.106, 219.107, 219.109, 219.110, 219.111, 219.112; Subpart B: 219.121, 219.122, 219.123, 219.124; Subpart C: 219.141, 219.143, 219.144; Subpart E: 219.181, 219.182, 219.183, 219.184, 219.186; Subpart F: 219.204, 219.205, 219.206, 219.207, 219.208, 219.209, 219.210, 219.211; Subpart G: 219.301, 219.302, 219.303, 219.304; Subpart H: 219.401, 219.402, 219.403, 219.404, 219.405; Subpart Q: 219.421, 219.422, 219.423, 219.424, 219.425, 219.426, 219.427, 219.428, 219.429; Subpart R: 219.441, 219.443, 219.445, 219.446, 219.447, 219.449, 219.450, 219.452; Subpart S: 219.461, 219.462, 219.463, 219.464; Subpart T: 219.480, 219.481, 219.482, 219.483, 219.485, 219.486, 219.487, 219.489; Subpart V: 219.525; Subpart W: 219.541; Subpart X: 219.562; Subpart Y: 219.581, 219.582, 219.583, 219.584, 219.585, 219.586; Subpart Z: 219.601, 219.602, 219.603, 219.608, 219.609, 219.610, 219.611; Subpart AA: 219.620, 219.621, 219.623, 219.624, 219.628, 219.636, 219.637; Subpart BB: 219.640, 219.642, 219.644; Section 219: Appendix A, Appendix B, Appendix C, Appendix D.
+Subpart A: 219.100, 219.101, 219.102, 219.104, 219.105, 219.106, 219.107, 219.109, 219.110, 219.111, 219.112; Subpart B: 219.121, 219.122, 219.123, 219.124; Subpart C: 219.141, 219.143, 219.144; Subpart E: 219.181, 219.182, 219.183, 219.184, 219.186; Subpart F: 219.204, 219.205, 219.206, 219.207, 219.208, 219.209, 219.210, 219.211; Subpart G: 219.301, 219.302, 219.303, 219.304; Subpart H: 219.401, 219.402, 219.403, 219.404, 219.405; Subpart Q: 219.421, 219.422, 219.423, 219.424, 219.425, 219.426, 219.427, 219.428, 219.429; Subpart R: 219.441, 219.443, 219.445, 219.446, 219.447, 219.449, 219.450, 219.452; Subpart S: 219.461, 219.462, 219.463, 219.464; Subpart T: 219.480, 219.481, 219.482, 219.483, 219.485, 219.486, 219.487, 219.489; Subpart V: 219.525; Subpart W: 219.541; Subpart X: 219.562; Subpart Y: 219.581, 219.582, 219.583, 219.584, 219.585, 219.586; Subpart Z: 219.601, 219.602, 219.603, 219.608, 219.609, 219.610, 219.611; Subpart AA: 219.620, 219.621, 219.623, 219.624, 219.628, 219.636, 219.637; Subpart BB: 219.640, 219.642, 219.644; Section 219: Appendix A, Appendix B, Appendix C, Appendix D.205.120 Abbreviations and Acronyms
 
 (*3*) Section 219.585 was repealed in 2013 and is removed without replacement; see paragraph (c)(201) of this section.
 

@@ -1,6 +1,6 @@
 ##### § 52.1145 Regulation on organic solvent use.
 
-(a) Definitions:
+(a) Definitions:*Organic solvents*
 
 (1) *Organic solvents* include diluents and thinners and are defined as organic materials which are liquids at standard conditions and which are used as dissolvers, viscosity reducers, or cleaning agents, except that such materials which exhibit a boiling point higher than 220 °F. at 0.5 millimeters of mercury absolute pressure or having an equivalent vapor pressure shall not be considered to be solvents unless exposed to temperatures exceeding 220 °F.
 

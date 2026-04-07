@@ -1,6 +1,6 @@
 ##### § 300.34 Reporting requirements.
 
-(a) Holders of licenses issued under § 300.32 shall comply with the reporting requirements of this section with respect to the licensed vessels.
+(a) Holders of licenses issued under § 300.32 shall comply with the reporting requirements of this section with respect to the licensed vessels.*Catch report forms.*
 
 (b) Any information required to be recorded, or to be notified, communicated or reported pursuant to a requirement of these regulations, the Act, or the Treaty shall be true, complete and correct. Any change in circumstances that has the effect of rendering any of the information provided false, incomplete or misleading shall be communicated immediately to the Regional Administrator.
 

@@ -1,6 +1,6 @@
 ##### § 52.1277 General requirements.
 
-(a) The requirements of § 51.116(c) of this chapter are not met, since the legal authority to provide public availability of emission data is inadequate.
+(a) The requirements of § 51.116(c) of this chapter are not met, since the legal authority to provide public availability of emission data is inadequate.*Regulation for public availability of emission data.*
 
 (b) *Regulation for public availability of emission data.* (1) Any person who cannot obtain emission data from the Agency responsible for making emission data available to the public, as specified in the applicable plan, concerning emissions from any source subject to emission limitations which are part of the approved plan may request that the appropriate Regional Administrator obtain and make public such data. Within 30 days after receipt of any such written request, the Regional Administrator shall require the owner or operator of any such source to submit information within 30 days on the nature and amounts of emissions from such source and any other information as may be deemed necessary by the Regional Administrator to determine whether such source is in compliance with applicable emission limitations or other control measures that are part of the applicable plan.
 

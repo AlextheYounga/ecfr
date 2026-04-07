@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 14342, Apr. 1, 2025.
 
-(a) Title of plan: “State of Connecticut Air Implementation Plan.”
+(a) Title of plan: “State of Connecticut Air Implementation Plan.”*New Source Ambient Impact Analysis Guideline,*2
 
 (b) The plan was officially submitted on March 3, 1972.
 

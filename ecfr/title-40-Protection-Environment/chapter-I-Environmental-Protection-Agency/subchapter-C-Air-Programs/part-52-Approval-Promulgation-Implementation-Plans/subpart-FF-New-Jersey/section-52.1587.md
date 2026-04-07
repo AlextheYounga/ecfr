@@ -1,6 +1,6 @@
 ##### § 52.1587 Original identification of plan section.
 
-(a) This section identifies the original “Air Implementation Plan for the State of New Jersey” and all revisions submitted by New Jersey that were Federally approved prior to October 1, 2016.
+(a) This section identifies the original “Air Implementation Plan for the State of New Jersey” and all revisions submitted by New Jersey that were Federally approved prior to October 1, 2016.*et seq., Sulfur in Fuel,*X
 
 (b) The plan was officially submitted on January 26, 1972.
 
@@ -113,7 +113,7 @@
 
 (23) Supplementary submittals, pertaining to the plan revision for nonattainment areas required by Part D of the Clean Air Act, from the New Jersey Department of Environmental Protection as follows:
 
-A package dated April 17, 1979 from the New Jersey Department of Environmental Protection to EPA entitled, “N.J. SIP Supplement 1,” and covering the State's schedule for future actions, expected costs and sources of funding, ongoing consultation process, graphical representation of reasonable further progress, schedule for promulgation of emission offset rule, commitment to adoption of tall stack policy and comments on EPA's proposed tall stack policy, discussion and schedule for resolution of the Bridgeton particulate downwash problem, summary of particulate emissions inventories for non-attainment areas, request for extension for submittal of SIP for secondary TSP standard, and expanded explanation of current I/M program.
+A package dated April 17, 1979 from the New Jersey Department of Environmental Protection to EPA entitled, “N.J. SIP Supplement 1,” and covering the State's schedule for future actions, expected costs and sources of funding, ongoing consultation process, graphical representation of reasonable further progress, schedule for promulgation of emission offset rule, commitment to adoption of tall stack policy and comments on EPA's proposed tall stack policy, discussion and schedule for resolution of the Bridgeton particulate downwash problem, summary of particulate emissions inventories for non-attainment areas, request for extension for submittal of SIP for secondary TSP standard, and expanded explanation of current I/M program.*et seq.,*
 
 A Supplement 2 to the proposed SIP revision consisting of a cover letter dated June 20, 1979 and four attachments from the New Jersey Department of Environmental Protection to EPA covering a proposed version of the State's new source review regulation, a discussion of reasonable further progress with respect to volatile organic substance sources, the design values for ozone in the Metropolitan New York and Metropolitan Philadelphia Interstate Air Quality Control Regions, and a proposed version of the State's regulation for the control of volatile organic substances (VOS).
 
@@ -124,6 +124,8 @@ A package consisting of a cover letter dated October 3, 1979 from the New Jersey
 A cover letter received by EPA dated October 19, 1979 from the New Jersey Department of Environmental Protection together with the State's adopted regulation for control of VOS, N.J.A.C. 7:27-16.1 *et seq.,* and “Report of Public Hearing and Basis for promulation .
 
 A package consisting of a letter dated January 9, 1980 from the New Jersey Department of Environmental Protection to EPA covering the conditions on SIP approval which were listed by EPA in the proposed rulemaking notice for the SIP revision and four references covering the October 3, 1979 Bridgeton particulates analysis, an updated Bridgeton particulates analysis, and an energy analysis of certain VOS controls called for in N.J.A.C. 7:27-16.1 *et seq.* justifying the State's position on seasonal variances for certain VOS sources.
+
+Atlantic County Urban Area Transportation Study
 
 (24) A supplementary submittal, dated February 27, 1980 from the New Jersey Department of Environmental Protection consisting of five memoranda of understanding among the New Jersey Departments of Environmental Protection and Transportation and the following metropolitan planning organizations:
 

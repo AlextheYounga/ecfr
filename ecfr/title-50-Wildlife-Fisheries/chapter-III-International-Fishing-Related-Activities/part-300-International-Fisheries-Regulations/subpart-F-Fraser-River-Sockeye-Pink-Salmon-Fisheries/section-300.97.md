@@ -1,6 +1,6 @@
 ##### § 300.97 Inseason orders.
 
-(a) During the fishing season, the Secretary may issue orders that establish fishing times and areas consistent with the annual Commission regime and inseason orders of the Fraser River Panel. Inseason orders will be consistent with domestic legal obligations. Violation of such inseason orders is violation of this subpart.
+(a) During the fishing season, the Secretary may issue orders that establish fishing times and areas consistent with the annual Commission regime and inseason orders of the Fraser River Panel. Inseason orders will be consistent with domestic legal obligations. Violation of such inseason orders is violation of this subpart.*Notice of inseason orders.*Federal Register
 
 (b) *Notice of inseason orders.* (1) Official notice of such inseason orders is available from NMFS (for orders applicable to all-citizen fisheries) and from the Northwest Indian Fisheries Commission (for orders applicable to treaty Indian fisheries) through Area Code 206 toll-free telephone hotlines. All-citizen fisheries: the hotline telephone number is published in the inseason notice procedures section of the annual management measures for West Coast Salmon Fisheries, published in the Federal Register; Treaty Indian fisheries hotline: 1-800-562-6142.
 

@@ -1,6 +1,6 @@
 ##### § 52.2635 Original identification of plan section.
 
-(a) This section identifies the original “Air Implementation Plan for the State of Wyoming” and all revisions submitted by Wyoming that were federally approved prior to August 31, 2006.
+(a) This section identifies the original “Air Implementation Plan for the State of Wyoming” and all revisions submitted by Wyoming that were federally approved prior to August 31, 2006.*1*2
 
 (b) The plan was officially submitted on January 26, 1972.
 

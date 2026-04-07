@@ -1,6 +1,6 @@
 ##### § 52.2170 Identification of plan.
 
-(a) *Purpose and scope.* This section sets forth the applicable State Implementation Plan for South Dakota under section 110 of the Clean Air Act, 42 U.S.C. 7410 and 40 CFR part 51 to meet national ambient air quality standards or other requirements under the Clean Air Act.
+(a) *Purpose and scope.* This section sets forth the applicable State Implementation Plan for South Dakota under section 110 of the Clean Air Act, 42 U.S.C. 7410 and 40 CFR part 51 to meet national ambient air quality standards or other requirements under the Clean Air Act.Federal Register.
 
 (b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to October 1, 2015, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with EPA approval dates after October 1, 2015, will be incorporated by reference in the next update to the SIP compilation.
 
@@ -12,7 +12,7 @@
 
 | Rule No.                                                                             | Rule title                                                                                     | State effective date | EPA effective date | Final rule citation, date | Comments |
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | -------------------- | ------------------ | ------------------------- | -------- |
-| **Statewide**                                                                        |                                                                                                |                      |                    |                           |          |
+| **Statewide**i.e.,10                                                                 |                                                                                                |                      |                    |                           |          |
 | **74:09:01. Procedures—Board of Minerals and Environment, Contested Case Procedure** |                                                                                                |                      |                    |                           |          |
 | 74:09:01:20                                                                          | Board member conflict of interest                                                              | 5/29/14              | 3/2/15             | 80 FR 4799, 1/29/15       |          |
 | 74:09:01:21                                                                          | Board member potential conflict of interests                                                   | 5/29/14              | 3/2/15             | 80 FR 4799, 1/29/15       |          |

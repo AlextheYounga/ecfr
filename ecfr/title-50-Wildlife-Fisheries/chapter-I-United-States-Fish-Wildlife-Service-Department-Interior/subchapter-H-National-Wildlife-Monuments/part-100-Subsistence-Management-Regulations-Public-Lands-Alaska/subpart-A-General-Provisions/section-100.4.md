@@ -1,6 +1,6 @@
 ##### § 100.4 Definitions.
 
-The following definitions apply to all regulations contained in this part:
+The following definitions apply to all regulations contained in this part:*Agency*
 
 *Agency* means a subunit of a cabinet-level Department of the Federal Government having land management authority over the public lands including, but not limited to, the U.S. Fish & Wildlife Service, Bureau of Indian Affairs, Bureau of Land Management, National Park Service, and USDA Forest Service.
 

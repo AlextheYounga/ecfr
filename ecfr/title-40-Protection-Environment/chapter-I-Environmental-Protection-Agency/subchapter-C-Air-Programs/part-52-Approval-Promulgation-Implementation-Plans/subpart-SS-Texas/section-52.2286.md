@@ -1,6 +1,6 @@
 ##### § 52.2286 Control of evaporative losses from the filling of gasoline storage vessels in the Dallas-Fort Worth area.
 
-(a) Definitions:
+(a) Definitions:*Gasoline*
 
 (1) *Gasoline* means any petroleum distillate having a Reid vapor pressure of 4 pounds or greater which is produced for use as a motor fuel and is commonly called gasoline.
 

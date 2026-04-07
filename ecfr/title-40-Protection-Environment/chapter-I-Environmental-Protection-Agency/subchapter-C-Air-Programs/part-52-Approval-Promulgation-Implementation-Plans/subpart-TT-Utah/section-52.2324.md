@@ -1,6 +1,6 @@
 ##### § 52.2324 Original identification of plan.
 
-(a) This section identifies the original “Air Implementation Plan for the State of Utah” and all revisions submitted by Utah that were federally approved prior to March 1, 2016.
+(a) This section identifies the original “Air Implementation Plan for the State of Utah” and all revisions submitted by Utah that were federally approved prior to March 1, 2016.2*Emission Standards. Non-Attainment Area Requirements—Ozone,*
 
 (b) The plan was officially submitted on January 25, 1972.
 

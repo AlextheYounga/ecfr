@@ -1,6 +1,6 @@
 ##### § 52.1601 Control strategy and regulations: Sulfur oxides.
 
-(a) The applicable limitation on the sulfur content of fuel marketed and used in New Jersey until and including March 15, 1974, as set forth in N.J.A.C. subchapter 7:1-3.1 is approved, except that the use of coal in the following utility plants and boiler units is not approved: 1
+(a) The applicable limitation on the sulfur content of fuel marketed and used in New Jersey until and including March 15, 1974, as set forth in N.J.A.C. subchapter 7:1-3.1 is approved, except that the use of coal in the following utility plants and boiler units is not approved: 1Federal Register.
 
 1 Action by the Administrator regarding coal conversion at the listed plants and units is being held in abeyance until the Administrator determines whether and to what extent that conversion cannot be deferred, based on analysis of fuel allocations for residual oil and coal in the Mid-Atlantic and New England States.
 

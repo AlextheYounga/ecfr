@@ -1,6 +1,6 @@
 ##### § 52.2303 Significant deterioration of air quality.
 
-(a) The plan submitted by Texas is approved as meeting the requirements of part C, Clean Air Act for preventing significant deterioration of air quality. The plan consists of the following:
+(a) The plan submitted by Texas is approved as meeting the requirements of part C, Clean Air Act for preventing significant deterioration of air quality. The plan consists of the following:2.5
 
 (1) Prevention of significant deterioration plan requirements as follows:
 

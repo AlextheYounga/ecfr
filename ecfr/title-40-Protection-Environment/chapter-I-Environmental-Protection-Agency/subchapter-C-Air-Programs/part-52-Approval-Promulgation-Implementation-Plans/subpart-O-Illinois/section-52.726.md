@@ -1,6 +1,6 @@
 ##### § 52.726 Control strategy: Ozone.
 
-(a) Part D—Conditional Approval—The Illinois plan is approved provided that the following conditions are satisfied:
+(a) Part D—Conditional Approval—The Illinois plan is approved provided that the following conditions are satisfied:*Negative Declarations—Stationary Source Categories.*X
 
 (1) \[Reserved\]
 

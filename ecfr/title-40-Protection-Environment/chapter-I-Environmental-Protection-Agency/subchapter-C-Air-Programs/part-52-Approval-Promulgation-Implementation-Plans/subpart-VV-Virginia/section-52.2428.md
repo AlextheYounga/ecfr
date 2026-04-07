@@ -1,6 +1,6 @@
 ##### § 52.2428 Control Strategy: Carbon monoxide and ozone.
 
-(a) Determination—EPA has determined that, as of November 5, 1997, the Richmond ozone nonattainment area, which consists of the counties of Chesterfield, Hanover, Henrico, and part of Charles City County, and of the cities of Richmonds, Colonial Heights and Hopewell, has attained the 1-hour .12 ppm ozone standard based on three years of air quality data for 1993, 1994 and 1995. EPA has further determined that the reasonable further progress and attainment demonstration requirements of section 182(b)(1) and related requirements of section 172(c)(9) of the Clean Air Act do not apply to the Richmond area for so long as the area does not monitor any violations of the 1-hour .12ppm ozone standard, or until the area is no longer designated nonattainment. If a violation of the ozone NAAQS is monitored in the Richmond ozone nonattainment area while the area is designated nonattainment, these determinations shall no longer apply.
+(a) Determination—EPA has determined that, as of November 5, 1997, the Richmond ozone nonattainment area, which consists of the counties of Chesterfield, Hanover, Henrico, and part of Charles City County, and of the cities of Richmonds, Colonial Heights and Hopewell, has attained the 1-hour .12 ppm ozone standard based on three years of air quality data for 1993, 1994 and 1995. EPA has further determined that the reasonable further progress and attainment demonstration requirements of section 182(b)(1) and related requirements of section 172(c)(9) of the Clean Air Act do not apply to the Richmond area for so long as the area does not monitor any violations of the 1-hour .12ppm ozone standard, or until the area is no longer designated nonattainment. If a violation of the ozone NAAQS is monitored in the Richmond ozone nonattainment area while the area is designated nonattainment, these determinations shall no longer apply.X
 
 (b) EPA approves the Commonwealth's 15 Percent Rate of Progress Plan for the Virginia portion of the Metropolitan Washington, D.C. ozone nonattainment area, submitted by the Acting Director of the Virginia Department of the Environmental Quality on April 14, 1998.
 
@@ -12,10 +12,10 @@
 
 (g) EPA approves the following 2008 RFP motor vehicle emissions budgets (MVEBs) for the Washington, DC-MD-VA 1997 8-hour ozone moderate nonattainment area submitted by the Director of the Virginia Department of Environment Quality on June 12, 2007:
 
-Transportation Conformity Emissions Budgets for the Washington, DC-MD-VA Area
-| Type of control strategy   SIP | Year | VOC   (TPD) | NOX   (TPD) | Effective date   of adequacy   determination or   SIP approval |
-| ------------------------------ | ---- | ----------- | ----------- | -------------------------------------------------------------- |
-| Rate of Progress Plan          | 2008 | 70.8        | 159.8       | September 21, 2009 (74 FR 45853), published September 4, 2009. |
+Transportation Conformity Emissions Budgets for the Washington, DC-MD-VA Area(m)
+| Type of control strategy   SIPX | Year | VOC   (TPD) | NOX   (TPD) | Effective date   of adequacy   determination or   SIP approval |
+| ------------------------------- | ---- | ----------- | ----------- | -------------------------------------------------------------- |
+| Rate of Progress Plan           | 2008 | 70.8        | 159.8       | September 21, 2009 (74 FR 45853), published September 4, 2009. |
 
 (h)EPA has determined, as of February 28, 2012, that based on 2007 to 2009 and 2008 to 2010 ambient air quality data, the Washington, DC-MD-VA moderate nonattainment area has attained the 1997 8-hour ozone National Ambient Air Quality Standard (NAAQS). This determination, in accordance with 40 CFR 51.918, suspends the requirements for this area to submit an attainment demonstration, associated reasonably available control measures, a reasonable further progress plan, contingency measures, and other planning SIPs related to attainment of the standard for as long as this area continues to meet the 1997 8-hour ozone NAAQS.
 

@@ -1,6 +1,6 @@
 ##### § 52.672 Approval of plans.
 
-(a) *Carbon Monoxide.* (1) EPA approves as a revision to the Idaho State Implementation Plan, the Limited Maintenance Plan for the Northern Ada County Carbon Monoxide Not-Classified Nonattainment Area, submitted by the State on January 17, 2002.
+(a) *Carbon Monoxide.* (1) EPA approves as a revision to the Idaho State Implementation Plan, the Limited Maintenance Plan for the Northern Ada County Carbon Monoxide Not-Classified Nonattainment Area, submitted by the State on January 17, 2002.10
 
 (2) EPA approves as a revision to the Idaho State Implementation Plan, the Northern Ada County Air Quality Maintenance Area Second 10-year Carbon Monoxide Limited Maintenance Plan submitted by the State on February 10, 2011.
 

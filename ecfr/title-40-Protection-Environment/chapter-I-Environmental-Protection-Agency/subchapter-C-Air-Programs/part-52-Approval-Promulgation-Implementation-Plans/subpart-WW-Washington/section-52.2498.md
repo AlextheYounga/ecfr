@@ -1,6 +1,6 @@
 ##### § 52.2498 Visibility protection.
 
-(a) The requirements of section 169A of the Clean Air Act are not fully met because the plan does not include approvable procedures for visibility new source review for:
+(a) The requirements of section 169A of the Clean Air Act are not fully met because the plan does not include approvable procedures for visibility new source review for:*Regulations for visibility new source review.*
 
 (1) Sources subject to the jurisdiction of Olympic Region Clean Air Agency;
 

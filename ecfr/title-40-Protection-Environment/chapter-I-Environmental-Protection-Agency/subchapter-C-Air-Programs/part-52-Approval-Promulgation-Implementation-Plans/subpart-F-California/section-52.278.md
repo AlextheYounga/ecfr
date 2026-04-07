@@ -1,6 +1,6 @@
 ##### § 52.278 Oxides of nitrogen control.
 
-(a) The following regulations are disapproved because they relax the control of nitrogen oxides emissions without an accompanying analysis demonstrating that this relaxation will not interfere with the attainment and maintenance of the National Ambient Air Quality Standards.
+(a) The following regulations are disapproved because they relax the control of nitrogen oxides emissions without an accompanying analysis demonstrating that this relaxation will not interfere with the attainment and maintenance of the National Ambient Air Quality Standards.*Nitrogen Oxides Emission Standards Limitations and Prohibitions*
 
 (1) South central coast intrastate AQCR.
 

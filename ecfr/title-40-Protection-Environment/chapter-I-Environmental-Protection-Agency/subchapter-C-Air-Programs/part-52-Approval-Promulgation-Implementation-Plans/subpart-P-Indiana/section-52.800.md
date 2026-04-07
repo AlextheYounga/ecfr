@@ -1,6 +1,6 @@
 ##### § 52.800 Original identification of plan section.
 
-(a) This section identifies the original “Air Implementation Plan for the State of Indiana” and all revisions submitted by Indiana that were Federally approved prior to December 31, 2009.
+(a) This section identifies the original “Air Implementation Plan for the State of Indiana” and all revisions submitted by Indiana that were Federally approved prior to December 31, 2009.2*Incorporation by reference.*
 
 (b) The plan was officially submitted on January 31, 1972.
 

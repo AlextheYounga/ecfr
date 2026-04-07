@@ -1,6 +1,6 @@
 ##### § 52.2233 Significant deterioration of air quality.
 
-(a)(1) Paragraph 1200-3-9-.01(4)-(0)-2. of Tennessee's regulations is disapproved because it does not require that the consent of the Governor(s) of affected states be obtained when innovative technology waivers are granted. EPA retains permitting authority for sources requesting innovative technology waivers which would significantly impact air quality in adjacent states.
+(a)(1) Paragraph 1200-3-9-.01(4)-(0)-2. of Tennessee's regulations is disapproved because it does not require that the consent of the Governor(s) of affected states be obtained when innovative technology waivers are granted. EPA retains permitting authority for sources requesting innovative technology waivers which would significantly impact air quality in adjacent states.*stationary source*
 
 (2) Tennessee's definition of *stationary source* specifically excludes *the activities of any Vessel.* This exclusion is not currently approvable and EPA is deferring action on it pending final rulemaking on the issue. EPA retains authority for permits which involve vessel emissions where a source is not willing to include all vessel emissions in the definition of source.
 

@@ -1,6 +1,6 @@
 ##### § 52.2454 Prevention of significant deterioration of air quality for Merck & Co., Inc.'s Stonewall Plant in Elkton, VA.
 
-(a) *Applicability.* (1) This section applies only to the pharmaceutical manufacturing facility, commonly referred to as the Stonewall Plant, located at Route 340 South, in Elkton, Virginia (“site”).
+(a) *Applicability.* (1) This section applies only to the pharmaceutical manufacturing facility, commonly referred to as the Stonewall Plant, located at Route 340 South, in Elkton, Virginia (“site”).10
 
 (2) This section sets forth the prevention of significant deterioration of air quality preconstruction review requirements for the following pollutants only: carbon monoxide, nitrogen oxides, ozone (using volatile organic compounds as surrogate), particulate matter with an aerodynamic diameter less than 10 microns (PM10), and sulfur dioxide. This section applies in lieu of § 52.21 for the pollutants identified in this paragraph as well as particulate matter, but not for particulate matter with an aerodynamic diameter less than or equal to a nominal 2.5 microns (PM2.5) regulated as PM2.5; however, the preconstruction review requirements of § 52.21, or other preconstruction review requirements that the Administrator approves as part of the plan, shall remain in effect for any pollutant which is not specifically identified in this paragraph and is subject to regulation under the Act.
 

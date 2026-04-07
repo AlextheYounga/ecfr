@@ -1,6 +1,6 @@
 ##### § 52.232 Part D conditional approval.
 
-(a) The following portions of the California SIP contain deficiencies with respect to Part D of the Clean Air Act which must be corrected by meeting the indicated conditions of Part D plan approval.
+(a) The following portions of the California SIP contain deficiencies with respect to Part D of the Clean Air Act which must be corrected by meeting the indicated conditions of Part D plan approval.*a*2
 
 (1) \[Reserved\]
 

@@ -1,6 +1,6 @@
 ##### § 52.237 Part D disapproval.
 
-(a) The following portions of the California SIP are disapproved because they do not meet the requirements of Part D of the Clean Air Act.
+(a) The following portions of the California SIP are disapproved because they do not meet the requirements of Part D of the Clean Air Act.2.5
 
 (1) The ozone and CO attainment demonstrations for the South Coast Air Basin. No major stationary source, or major modification of a stationary source, of carbon monoxide or volatile organic compounds may be constructed in the South Coast Air Basin unless the construction permit application is complete on or before August 30, 1988.
 

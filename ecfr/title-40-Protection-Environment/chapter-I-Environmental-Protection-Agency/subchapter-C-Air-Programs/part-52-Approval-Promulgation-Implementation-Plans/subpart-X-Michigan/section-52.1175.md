@@ -1,6 +1,6 @@
 ##### § 52.1175 Compliance schedules.
 
-(a) The requirements of § 51.15(a)(2) of this chapter as of May 31, 1972, (36 FR 22398) are not met since Rule 336.49 of the Michigan Air Pollution Control Commission provides for individual compliance schedules to be submitted to the State Agency by January 1, 1974. This would not be in time for submittal to the Environmental Protection Agency with the first semiannual report.
+(a) The requirements of § 51.15(a)(2) of this chapter as of May 31, 1972, (36 FR 22398) are not met since Rule 336.49 of the Michigan Air Pollution Control Commission provides for individual compliance schedules to be submitted to the State Agency by January 1, 1974. This would not be in time for submittal to the Environmental Protection Agency with the first semiannual report.*Federal compliance schedules.*
 
 (b) \[Reserved\]
 
@@ -111,7 +111,7 @@ Michigan
 | Grey Iron Casting and Nodular Iron Casting Plants          | Saginaw       | R336.1301                         | Apr. 16, 1980         | Dec. 31, 1982.        |
 | **wayne county**                                           |               |                                   |                       |                       |
 | Boulevard Heating Plant                                    | Wayne         | R336.1331                         | Apr. 28, 1981         | Dec. 31, 1982.        |
-| Footnotes:                                                 |               |                                   |                       |                       |
+| Footnotes: 1                                               |               |                                   |                       |                       |
 | 1 For the attainment of the primary standard.              |               |                                   |                       |                       |
 | 2 For the attainment of the secondary standard.            |               |                                   |                       |                       |
 | 3 For the maintenance of the secondary standard.           |               |                                   |                       |                       |

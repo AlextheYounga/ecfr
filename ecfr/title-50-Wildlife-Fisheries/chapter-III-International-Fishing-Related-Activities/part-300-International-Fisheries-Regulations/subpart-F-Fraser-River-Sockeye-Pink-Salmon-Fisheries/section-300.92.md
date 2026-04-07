@@ -1,6 +1,6 @@
 ##### § 300.92 Relation to other laws.
 
-(a) Insofar as they are consistent with this part, any other applicable Federal law or regulation, or any applicable law and regulations of the State of Washington or of a treaty Indian tribe with treaty fishing rights in the Fraser River Panel Area (U.S.) will continue to have force and effect in the Fraser River Panel Area (U.S.) with respect to fishing activities addressed herein.
+(a) Insofar as they are consistent with this part, any other applicable Federal law or regulation, or any applicable law and regulations of the State of Washington or of a treaty Indian tribe with treaty fishing rights in the Fraser River Panel Area (U.S.) will continue to have force and effect in the Fraser River Panel Area (U.S.) with respect to fishing activities addressed herein.Federal Register.
 
 (b) Any person fishing subject to this subpart is bound by the international boundaries now recognized by the United States within the Fraser River Panel Area (U.S.) described in § 300.91, notwithstanding any dispute or negotiation between the United States and Canada regarding their respective jurisdictions, until such time as different boundaries are published by the United States.
 

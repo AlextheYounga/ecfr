@@ -1,6 +1,6 @@
 ##### § 52.2224 Legal authority.
 
-(a) The requirements of § 51.230(c) of this chapter are not met since the plan does not provide the legal authority for controlling motor vehicles during air pollution emergency episodes.
+(a) The requirements of § 51.230(c) of this chapter are not met since the plan does not provide the legal authority for controlling motor vehicles during air pollution emergency episodes.*person*
 
 (b) The requirements of § 51.230(d) of this chapter are not met since statutory authority to prevent construction, modification, or operation of a facility, building, structure, or installation, or combination thereof, which indirectly results or may result in emissions of any air pollutant at any location which will prevent the maintenance of a national air quality standard is not adequate.
 

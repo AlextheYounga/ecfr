@@ -1,6 +1,6 @@
 ##### § 52.274 California air pollution emergency plan.
 
-(a) Since the California Air Pollution Emergency Plan does not provide complete, implementable provisions for taking emission control actions necessary to prevent ambient pollutant concentrations from reaching significant harm levels, the requirements of subpart H of this chapter for Priority I and II areas are not met, except in the following areas:
+(a) Since the California Air Pollution Emergency Plan does not provide complete, implementable provisions for taking emission control actions necessary to prevent ambient pollutant concentrations from reaching significant harm levels, the requirements of subpart H of this chapter for Priority I and II areas are not met, except in the following areas:X3*1*
 
 (1) South Coast Air Quality Management District (SCAQMD).
 
@@ -82,9 +82,9 @@
 
 (3) For the purposes of this regulation, the following episode criteria shall apply:
 
-| Contaminants                                                          | Averaging time (hours) | Stage 1   | Stage 2   | Stage 3    |
+| Contaminants3                                                         | Averaging time (hours) | Stage 1   | Stage 2   | Stage 3    |
 | --------------------------------------------------------------------- | ---------------------- | --------- | --------- | ---------- |
-| Nitrogen dioxide                                                      | 1                      | 0.6 ppm   | 1.2 ppm   | 1.6 ppm.   |
+| Nitrogen dioxide−3                                                    | 1                      | 0.6 ppm   | 1.2 ppm   | 1.6 ppm.   |
 |                                                                       | 24                     | 0.15 ppm  | 0.3 ppm   | 0.4 ppm.   |
 | Particulate matter                                                    | 24                     | 3.0 COH   | 5.0 COH   | 7.0 COH.   |
 |                                                                       | 24                     | 375 ugm−3 | 625 ugm−3 | 875 ugm−3. |
@@ -277,7 +277,9 @@
 
 (16) All submittals or notifications required to be submitted to the Administrator by this section shall be sent to:
 
-Environmental Protection Agency, Air and Hazardous Materials Division (A-4), Attn: Air Programs Branch, 215 Fremont Street, San Francisco, Calif. 94105.
+Environmental Protection Agency, Air and Hazardous Materials Division (A-4), Attn: Air Programs Branch, 215 Fremont Street, San Francisco, Calif. 94105.Regional Administrator, Attn: Air and Hazardous Materials Division, Air Technical Branch, Technical Analysis Section (A-4-3), Environmental Protection Agency, 215 Fremont Street, San Francisco CA 94105.
+
+Regional Administrator, ATTN: Air and Hazardous Materials Division, Air Technical Branch, Technical Analysis Section (A-4-3), Environmental Protection Agency, 215 Fremont Street, San Francisco, CA 94105.
 
 (e) The requirements of subpart H of this chapter are met in the Sacramento County Air Pollution Control District with the following exceptions: There are no episode criteria levels, declaration procedures, notification procedures, source inspections, emission control actions or episode termination procedures for carbon monoxide episodes based on 4- and 8-hour averaging times; communication procedures for transmitting status reports and orders as to emission control actions to be taken during an episode stage are not provided for; there are no provisions for the inspection of those sources covered under Rule 122; there is no time schedule for the Air Pollution Control Officer to initiate the call for the submittal of individual abatement plans; the requirements for the content of the abatement plans are not sufficiently specific to ensure that adequate plans are submitted; no provisions exist for the daily acquisition of atmospheric stagnation conditions; a Priority II particulate matter episode contingency plan is not provided for in the regulation.
 

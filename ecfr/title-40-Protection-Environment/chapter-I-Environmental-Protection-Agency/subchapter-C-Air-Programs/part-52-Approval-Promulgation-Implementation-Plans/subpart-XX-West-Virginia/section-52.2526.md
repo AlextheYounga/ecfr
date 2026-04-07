@@ -1,6 +1,6 @@
 ##### § 52.2526 Control strategy: Particulate matter.
 
-(a) EPA approves West Virginia's November 15, 1991 SIP submittal for fulfilling the PM10-specific requirement of part D for contingency measures required under section 172(c)(9) of the Clean Air Act applicable to the Follansbee, West Virginia PM10 nonattainment area.
+(a) EPA approves West Virginia's November 15, 1991 SIP submittal for fulfilling the PM10-specific requirement of part D for contingency measures required under section 172(c)(9) of the Clean Air Act applicable to the Follansbee, West Virginia PM10 nonattainment area.*Determinations of Attainment.*
 
 (b) *Determinations of Attainment.* EPA has determined, as of November 20, 2009, the Martinsburg-Hagerstown, WV-MD, the Parkersburg-Marietta, WV-OH and the Wheeling, WV-OH PM2.5 nonattainment areas have attained the 1997 PM2.5 NAAQS. These determinations, in accordance with 40 CFR 52.1004(c), suspend the requirements for these areas to submit an attainment demonstration, associated reasonably available control measures, a reasonable further progress plan, contingency measures, and other planning SIPs related to attainment of the standard for as long as these areas continue to meet the 1997 PM2.5 NAAQS.
 

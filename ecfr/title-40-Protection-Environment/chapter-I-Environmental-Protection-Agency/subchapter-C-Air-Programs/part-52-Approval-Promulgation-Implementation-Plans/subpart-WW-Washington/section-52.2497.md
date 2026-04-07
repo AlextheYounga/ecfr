@@ -1,6 +1,6 @@
 ##### § 52.2497 Significant deterioration of air quality.
 
-(a) The requirements of sections 160 through 165 of the Clean Air Act are not fully met because the plan does not include approvable procedures for preventing the significant deterioration of air quality from:
+(a) The requirements of sections 160 through 165 of the Clean Air Act are not fully met because the plan does not include approvable procedures for preventing the significant deterioration of air quality from:2*e.g.,*
 
 (1) Facilities with carbon dioxide (CO2) emissions from the industrial combustion of biomass in the following circumstances:
 

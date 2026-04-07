@@ -1,6 +1,6 @@
 ##### § 300.121 Definitions.
 
-In addition to the terms defined in § 300.2, the Magnuson-Stevens Act, and § 600.10 of this title, and in the Treaty, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Magnuson-Stevens Act, or the Treaty, the definition in this section shall apply.
+In addition to the terms defined in § 300.2, the Magnuson-Stevens Act, and § 600.10 of this title, and in the Treaty, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Magnuson-Stevens Act, or the Treaty, the definition in this section shall apply.*Conch*
 
 *Conch* means *Strombus gigas.*
 

@@ -1,6 +1,6 @@
 ##### § 52.1885 Control strategy: Ozone.
 
-(a) *Part D—Approval.* The following portions of the Ohio plan are approved:
+(a) *Part D—Approval.* The following portions of the Ohio plan are approved:X
 
 (1) The ozone portions of rules 01, 02, 03, 04 (except the portion disapproved below), 05, 06, 07, 08, 09 (except the portions conditionally approved below) and 10 of Chapter 3745-21 of the Ohio Administrative Code.
 

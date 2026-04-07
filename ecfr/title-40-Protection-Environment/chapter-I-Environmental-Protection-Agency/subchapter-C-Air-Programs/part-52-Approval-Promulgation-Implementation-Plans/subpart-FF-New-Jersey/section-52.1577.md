@@ -1,6 +1,6 @@
 ##### § 52.1577 Compliance schedules.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Regulation for increments of progress.*
 
 (b) The requirements of § 51.261 of this chapter are not met since Chapter 7, section 7.1(c) of New Jersey's “Air Pollution Control Code” permits certain sources to defer compliance with Chapter 7 until after the required date for attainment of the national standards for particulate matter.
 

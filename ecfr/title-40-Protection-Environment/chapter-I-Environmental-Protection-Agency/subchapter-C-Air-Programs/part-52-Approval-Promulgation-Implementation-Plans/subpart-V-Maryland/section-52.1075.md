@@ -1,6 +1,6 @@
 ##### § 52.1075 Base year emissions inventory.
 
-(a) EPA approves as a revision to the Maryland State Implementation Plan the 1990 base year emission inventory for the Baltimore Metropolitan Statistical Area, submitted by the Secretary, Maryland Department of the Environment, on September 20, 1995. This submittal consists of the 1990 base year stationary, area, off-road mobile and on-road mobile emission inventories in the Baltimore Metropolitan Statistical Area for the pollutant, carbon monoxide (CO).
+(a) EPA approves as a revision to the Maryland State Implementation Plan the 1990 base year emission inventory for the Baltimore Metropolitan Statistical Area, submitted by the Secretary, Maryland Department of the Environment, on September 20, 1995. This submittal consists of the 1990 base year stationary, area, off-road mobile and on-road mobile emission inventories in the Baltimore Metropolitan Statistical Area for the pollutant, carbon monoxide (CO).X
 
 (b) EPA approves as a revision to the Maryland Implementation Plan the 1990 base year emission inventory for the Washington Metropolitan Statistical Area, submitted by Secretary, Maryland Department of the Environment, on March 21, 1994 and October 12, 1995. This submittal consist of the 1990 base year stationary, area and off-road mobile and on-road mobile emission inventories in the Washington Statistical Area for the pollutant, carbon monoxide (CO).
 

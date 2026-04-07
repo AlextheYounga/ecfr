@@ -1,6 +1,6 @@
 ##### § 300.331 Definitions.
 
-In addition to the terms defined in section 300.2 and those in the Act and the Agreement to Promote Compliance with International Conservation and Management Measures by Fishing Vessels on the High Seas, adopted by the Conference of the Food and Agriculture Organization of the United Nations on November 24, 1993 (Agreement), the terms used in this subpart have the following meanings. If a term is defined differently in section 300.2, the Act, or the Agreement, the definition in this section shall apply.
+In addition to the terms defined in section 300.2 and those in the Act and the Agreement to Promote Compliance with International Conservation and Management Measures by Fishing Vessels on the High Seas, adopted by the Conference of the Food and Agriculture Organization of the United Nations on November 24, 1993 (Agreement), the terms used in this subpart have the following meanings. If a term is defined differently in section 300.2, the Act, or the Agreement, the definition in this section shall apply.*Bottom fishing*
 
 *Bottom fishing* means fishing using gear that is likely to contact the seafloor during the normal course of fishing operations.
 

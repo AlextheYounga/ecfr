@@ -148,7 +148,7 @@
 
 Appendix A to § 52.128—Test Methods To Determine Whether A Surface Is Stabilized I. Unpaved Roads and Unpaved Parking Lots A. Opacity Observations
 
-Conduct opacity observations in accordance with Reference Method 9 (40 CFR Part 60, appendix A) and Methods 203A and 203C of this appendix, with opacity readings taken at five second observation intervals and two consecutive readings per plume beginning with the first reading at zero seconds, in accordance with Method 203C, sections 2.3.2. and 2.4.2 of this appendix. Conduct visible opacity tests only on dry unpaved surfaces (i.e. when the surface is not damp to the touch) and on days when average wind speeds do not exceed 15 miles per hour (mph).
+Conduct opacity observations in accordance with Reference Method 9 (40 CFR Part 60, appendix A) and Methods 203A and 203C of this appendix, with opacity readings taken at five second observation intervals and two consecutive readings per plume beginning with the first reading at zero seconds, in accordance with Method 203C, sections 2.3.2. and 2.4.2 of this appendix. Conduct visible opacity tests only on dry unpaved surfaces (i.e. when the surface is not damp to the touch) and on days when average wind speeds do not exceed 15 miles per hour (mph).10*e.g.*3/81
 
 (i) Method 203A—Visual Determination of Opacity of Emissions From Stationary Sources for Time-Arranged Regulations
 
@@ -283,7 +283,7 @@ Same as section 3, Method 203A.
 TABLE A—Smoke Meter Design and Performance Specifications
 | Parameter                         | Specification                                                                      |
 | --------------------------------- | ---------------------------------------------------------------------------------- |
-| a. Light Source                   | Incandescent lamp operated at nominal rated voltage.                               |
+| a. Light Source38                 | Incandescent lamp operated at nominal rated voltage.                               |
 | b. Spectral response of photocell | Photopic (daylight spectral response of the human eye—Reference 4.1 of section 4.) |
 | c. Angle of view                  | 15 degrees maximum total angle                                                     |
 | d. Angle of projection            | 15 degrees maximum total angle.                                                    |

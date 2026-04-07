@@ -1,6 +1,6 @@
 ##### § 300.114 Prohibitions.
 
-In addition to the prohibitions in § 300.4, it is unlawful for any person to:
+In addition to the prohibitions in § 300.4, it is unlawful for any person to:*Dissostichus*
 
 (a) Harvest any AMLR without a permit for such activity as required by § 300.107.
 

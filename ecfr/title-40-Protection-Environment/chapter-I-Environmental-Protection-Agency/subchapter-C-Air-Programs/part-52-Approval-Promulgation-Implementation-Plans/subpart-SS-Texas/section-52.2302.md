@@ -1,6 +1,6 @@
 ##### § 52.2302 Federal implementation plan for regional haze.
 
-(a) Requirements for Martin Lake Units 1, 2, and 3; Monticello Units 1, 2, and 3, Limestone Units 1 and 2; Sandow Unit 4; Big Brown Units 1 and 2; Coleto Creek Unit 1; Tolk Units 1 and 2; and San Miguel affecting visibility.
+(a) Requirements for Martin Lake Units 1, 2, and 3; Monticello Units 1, 2, and 3, Limestone Units 1 and 2; Sandow Unit 4; Big Brown Units 1 and 2; Coleto Creek Unit 1; Tolk Units 1 and 2; and San Miguel affecting visibility.*Applicability.*2
 
 (1) *Applicability.* The provisions of this section shall apply to each owner or operator, or successive owners or operators, of the coal burning equipment designated as: Martin Lake Units 1, 2, and 3; Monticello Units 1, 2, and 3, Limestone Units 1 and 2; Sandow Unit 4; Big Brown Units 1 and 2; Coleto Creek Unit 1; Tolk Units 1 and 2; and San Miguel.
 
@@ -26,7 +26,7 @@
 
 (4) *Emissions limitations*—*SO*2*emission limit*. The individual sulfur dioxide emission limit for a unit shall be as listed in the table in this paragraph (a)(4) in pounds per million British thermal units (lb/MMBtu) as averaged over a rolling 30-boiler-operating-day period.
 
-| Unit           | SO2 Emission limit   (lbs/MMBtu) |
+| Unit2          | SO2 Emission limit   (lbs/MMBtu) |
 | -------------- | -------------------------------- |
 | Sandow 4       | 0.20                             |
 | Martin Lake 1  | 0.12                             |

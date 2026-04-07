@@ -1,6 +1,6 @@
 ##### § 52.1322 Original Identification of Plan Section.
 
-(a) This section identifies the original “Air Implementation Plan for the State of Missouri” and all revisions submitted by Missouri that were Federally approved prior to July 1, 1999.
+(a) This section identifies the original “Air Implementation Plan for the State of Missouri” and all revisions submitted by Missouri that were Federally approved prior to July 1, 1999.2
 
 (b) The plans were officially submitted on January 24, 1972.
 

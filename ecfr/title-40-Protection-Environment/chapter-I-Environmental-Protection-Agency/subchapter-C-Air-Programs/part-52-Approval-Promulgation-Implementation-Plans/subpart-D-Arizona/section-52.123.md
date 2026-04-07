@@ -1,6 +1,6 @@
 ##### § 52.123 Approval status.
 
-(a) With the exceptions set forth in this subpart, the Administrator approved Arizona's plan for the attainment of the national standards.
+(a) With the exceptions set forth in this subpart, the Administrator approved Arizona's plan for the attainment of the national standards.3*Plan for Attainment of the 24-hour PM-10 Standard—Maricopa County PM-10 Nonattainment Area*
 
 (b) With the exception set forth in §§ 52.130 and 52.135, the Administrator approves the inspection and maintenance (I/M) program for motor vehicles; the carpool matching program; certain transit improvements; and certain traffic flow improvement and site-specific traffic control measures.
 

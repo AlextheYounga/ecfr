@@ -1,6 +1,6 @@
 ##### § 52.1535 Original identification of plan section.
 
-(a) This section identifies the original “Air Implementation Plan for the State of New Hampshire” and all revisions submitted by New Hampshire that were federally approved prior to August 18, 2009.
+(a) This section identifies the original “Air Implementation Plan for the State of New Hampshire” and all revisions submitted by New Hampshire that were federally approved prior to August 18, 2009.*Emission Control Methods for Cutback and Emulsified Asphalt*X
 
 (b) The plan was officially submitted on January 27, 1972.
 

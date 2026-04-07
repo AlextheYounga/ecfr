@@ -1,6 +1,6 @@
 ##### § 52.1488 Visibility protection.
 
-(a) The requirements of section 169A of the Clean Air Act are not met, because the plan does not include approvable procedures for protection of visibility in mandatory Class I Federal areas.
+(a) The requirements of section 169A of the Clean Air Act are not met, because the plan does not include approvable procedures for protection of visibility in mandatory Class I Federal areas.*Approval.*X
 
 (b) Regulation for visibility monitoring and new source review. The provisions of § 52.28 are hereby incorporated and made a part of the applicable plan for the State of Nevada except for that portion applicable to the Clark County Department of Air Quality and Environmental Management.
 

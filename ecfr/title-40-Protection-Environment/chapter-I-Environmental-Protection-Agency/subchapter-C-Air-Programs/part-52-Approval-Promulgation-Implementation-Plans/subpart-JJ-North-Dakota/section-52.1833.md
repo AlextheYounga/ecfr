@@ -1,6 +1,6 @@
 ##### § 52.1833 Section 110(a)(2) infrastructure requirements.
 
-(a) On November 23, 2009, Tom Bachman, Senior Environmental Engineer, North Dakota Department of Health, submitted a completeness criteria checklist which provides the State of North Dakota's SIP provisions which meet the requirements of CAA Section 110(a)(1) and (2). The following elements are approved for the 1997 ozone NAAQS: (A), (B), (C), (D)(ii), (E)(i), (E)(iii), (F), (G), (H), (J), (K), (L), and (M). The following element is conditionally approved for the 1997 ozone NAAQS: (E)(ii).
+(a) On November 23, 2009, Tom Bachman, Senior Environmental Engineer, North Dakota Department of Health, submitted a completeness criteria checklist which provides the State of North Dakota's SIP provisions which meet the requirements of CAA Section 110(a)(1) and (2). The following elements are approved for the 1997 ozone NAAQS: (A), (B), (C), (D)(ii), (E)(i), (E)(iii), (F), (G), (H), (J), (K), (L), and (M). The following element is conditionally approved for the 1997 ozone NAAQS: (E)(ii).2.5
 
 (b) On August 12, 2010, Tom Bachman, Senior Environmental Engineer, North Dakota Department of Health, submitted a completeness criteria checklist which provides the State of North Dakota's SIP provisions which meet the requirements of CAA Section 110(a)(1) and (2). The following element is approved for the 2006 PM2.5 NAAQS: (D)(i)(I).
 

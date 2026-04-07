@@ -1,6 +1,6 @@
 ##### § 52.1076 Control strategy plans for attainment and rate-of-progress: Ozone.
 
-(a) EPA is approving as a revision to the Maryland State Implementation Plan the 15 Percent Rate of Progress Plan and associated contingency measures for the Cecil County ozone nonattainment area, submitted by the Secretary of the Maryland Department of the Environment on July 21, 1995.
+(a) EPA is approving as a revision to the Maryland State Implementation Plan the 15 Percent Rate of Progress Plan and associated contingency measures for the Cecil County ozone nonattainment area, submitted by the Secretary of the Maryland Department of the Environment on July 21, 1995.X
 
 (b) EPA approves as a revision to the Maryland State Implementation Plan, the Stage II vapor recovery comparability plan for the counties of Allegany, Caroline, Dorchester, Garrett, Kent, Queen Anne's, Somerset, St. Mary's, Talbot, Washington, Wicomico, and Worcester Counties submitted by the Maryland Department of the Environment on November 5, 1997.
 
@@ -22,10 +22,10 @@
 
 (i) EPA approves the following mobile budgets of Maryland's attainment plan for the Philadelphia area:
 
-Transportation Conformity Budgets for the Maryland Portion of the Philadelphia Area
-| Type of control strategy SIP | Year | VOC (TPD) | NOX (TPD) |
-| ---------------------------- | ---- | --------- | --------- |
-| Attainment Demonstration     | 2005 | 3.0       | 11.3      |
+Transportation Conformity Budgets for the Maryland Portion of the Philadelphia Area(ee)
+| Type of control strategy SIPX | Year | VOC (TPD) | NOX (TPD) |
+| ----------------------------- | ---- | --------- | --------- |
+| Attainment Demonstration      | 2005 | 3.0       | 11.3      |
 
 (1) \[Reserved\]
 

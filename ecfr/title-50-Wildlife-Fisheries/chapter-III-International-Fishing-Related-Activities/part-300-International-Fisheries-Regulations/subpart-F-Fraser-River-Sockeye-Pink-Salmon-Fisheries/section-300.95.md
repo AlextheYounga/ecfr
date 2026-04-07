@@ -1,6 +1,6 @@
 ##### § 300.95 Treaty Indian fisheries.
 
-(a) Any treaty Indian must comply with this section when fishing for sockeye and pink salmon at the treaty Indian tribe's treaty fishing places in the Fraser River Panel Area (U.S.) during the time the Commission or the Secretary exercises jurisdiction over these fisheries. Fishing by a treaty Indian outside the applicable Indian tribe's treaty fishing places will be subject to the Fraser River Panel regulations and inseason orders applicable to all citizens, as well as to the restrictions set forth in this section.
+(a) Any treaty Indian must comply with this section when fishing for sockeye and pink salmon at the treaty Indian tribe's treaty fishing places in the Fraser River Panel Area (U.S.) during the time the Commission or the Secretary exercises jurisdiction over these fisheries. Fishing by a treaty Indian outside the applicable Indian tribe's treaty fishing places will be subject to the Fraser River Panel regulations and inseason orders applicable to all citizens, as well as to the restrictions set forth in this section.*United States*
 
 (b) Nothing in this section will relieve a treaty Indian from any applicable law or regulation imposed by a treaty Indian tribe, or from requirements lawfully imposed by the United States or the State of Washington in accordance with the requirements of Final Decision No. 1 and subsequent orders in *United States* v. *Washington,* 384 F. Supp. 312 (W.D. Wash., 1974).
 

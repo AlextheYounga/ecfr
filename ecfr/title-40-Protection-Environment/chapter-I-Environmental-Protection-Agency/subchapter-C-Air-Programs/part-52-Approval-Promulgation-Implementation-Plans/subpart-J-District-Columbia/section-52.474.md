@@ -1,6 +1,6 @@
 ##### § 52.474 Base Year Emissions Inventory.
 
-(a) EPA approves as a revision to the District of Columbia Implementation Plan the 1990 base year emission inventory for the Washington Metropolitan Statistical Area, submitted by Director, District of Columbia Consumer and Regulatory Affairs, on January 13, 1994 and October 12, 1995. This submittal consist of the 1990 base year stationary, area and off-road mobile and on-road mobile emission inventories in the Washington Statistical Area for the pollutant, carbon monoxide (CO).
+(a) EPA approves as a revision to the District of Columbia Implementation Plan the 1990 base year emission inventory for the Washington Metropolitan Statistical Area, submitted by Director, District of Columbia Consumer and Regulatory Affairs, on January 13, 1994 and October 12, 1995. This submittal consist of the 1990 base year stationary, area and off-road mobile and on-road mobile emission inventories in the Washington Statistical Area for the pollutant, carbon monoxide (CO).X
 
 (b) EPA approves as a revision to the District of Columbia State Implementation Plan the 1990 base year emission inventory for the District's portion of the Metropolitan Washington DC ozone nonattainment area submitted by the Director, DCRA, on January 13, 1994. This submittal consists of the 1990 base year point, area, highway mobile, non-road and biogenic source emission inventories in the area for the following pollutants: Volatile organic compounds (VOC), carbon monoxide (CO), and oxides of nitrogen (NOX).
 

@@ -1,6 +1,6 @@
 ##### § 52.271 Malfunction, startup, and shutdown regulations.
 
-(a) The following regulations are disapproved because they would permit the exemption of sources from the applicable emission limitations and therefore do not satisfy the enforcement imperatives of section 110 of the Clean Air Act.
+(a) The following regulations are disapproved because they would permit the exemption of sources from the applicable emission limitations and therefore do not satisfy the enforcement imperatives of section 110 of the Clean Air Act.*Variance Required,*
 
 (1) Amador County APCD.
 

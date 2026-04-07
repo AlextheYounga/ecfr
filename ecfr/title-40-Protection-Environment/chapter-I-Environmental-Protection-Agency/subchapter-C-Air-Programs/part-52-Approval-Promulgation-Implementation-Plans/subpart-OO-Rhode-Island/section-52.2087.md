@@ -1,6 +1,6 @@
 ##### § 52.2087 Original identification of plan section.
 
-(a) This section identifies the original “Air Implementation Plan for the State of Rhode Island” and all revisions submitted by Rhode Island that were federally approved prior to August 9, 1999.
+(a) This section identifies the original “Air Implementation Plan for the State of Rhode Island” and all revisions submitted by Rhode Island that were federally approved prior to August 9, 1999.2
 
 (b) The plan was officially submitted on January 28, 1972.
 

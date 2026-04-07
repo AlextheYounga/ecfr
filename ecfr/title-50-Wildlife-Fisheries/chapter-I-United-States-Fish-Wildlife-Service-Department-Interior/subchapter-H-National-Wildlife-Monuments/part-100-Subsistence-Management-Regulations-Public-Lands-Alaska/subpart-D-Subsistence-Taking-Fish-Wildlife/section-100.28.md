@@ -1,6 +1,6 @@
 ##### § 100.28 Subsistence taking of shellfish.
 
-(a) *Covered species*—(1) Regulations in this section apply to subsistence taking of Dungeness crab, king crab, Tanner crab, shrimp, clams, abalone, and other shellfish or their parts.
+(a) *Covered species*—(1) Regulations in this section apply to subsistence taking of Dungeness crab, king crab, Tanner crab, shrimp, clams, abalone, and other shellfish or their parts.1/2
 
 (2) You may take shellfish for subsistence uses at any time in any area of the public lands by any method unless restricted by this section.
 

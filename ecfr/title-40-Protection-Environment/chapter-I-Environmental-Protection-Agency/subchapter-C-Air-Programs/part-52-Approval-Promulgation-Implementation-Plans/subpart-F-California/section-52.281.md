@@ -1,6 +1,6 @@
 ##### § 52.281 Visibility protection.
 
-(a) The requirements of section 169A of the Clean Air Act are not met, because the plan does not include approvable procedures for protection of visibility in mandatory Class I Federal areas.
+(a) The requirements of section 169A of the Clean Air Act are not met, because the plan does not include approvable procedures for protection of visibility in mandatory Class I Federal areas.*Plan provisions.*
 
 (b) \[Reserved\]
 

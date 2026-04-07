@@ -1,6 +1,6 @@
 ##### § 52.245 New Source Review rules.
 
-(a) Approval of the New Source Review rules for the San Joaquin Valley Unified Air Pollution Control District Rules 2020 and 2201 as approved on May 17, 2004 in § 52.220(c)(311)(i)(B)(*1*), and in effect for Federal purposes from June 16, 2004 through June 10, 2010, is limited, as it relates to agricultural sources, to the extent that the permit requirements apply:
+(a) Approval of the New Source Review rules for the San Joaquin Valley Unified Air Pollution Control District Rules 2020 and 2201 as approved on May 17, 2004 in § 52.220(c)(311)(i)(B)(*1*), and in effect for Federal purposes from June 16, 2004 through June 10, 2010, is limited, as it relates to agricultural sources, to the extent that the permit requirements apply:2.5
 
 (1) To agricultural sources with potential emissions at or above a major source applicability threshold; and
 

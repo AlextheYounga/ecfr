@@ -1,6 +1,6 @@
 ##### § 300.183 Permit holder reporting and recordkeeping requirements.
 
-(a) *Biweekly reports.* Any person trading fish and fish products regulated under this subpart and required to obtain a trade permit under § 300.322 must submit to NMFS, on forms supplied by NMFS, a biweekly report of entries for consumption, exports and re-exports of fish and fish products regulated under this subpart, except shark fins.
+(a) *Biweekly reports.* Any person trading fish and fish products regulated under this subpart and required to obtain a trade permit under § 300.322 must submit to NMFS, on forms supplied by NMFS, a biweekly report of entries for consumption, exports and re-exports of fish and fish products regulated under this subpart, except shark fins.th
 
 (1) The report required to be submitted under this paragraph (a) must be received within 10 days after the end of each biweekly reporting period in which fish or fish products regulated under this subpart except shark fins were entered for consumption, exported, or re-exported. The bi-weekly reporting periods are the first day to the 15 th day of each month, and the 16 th day to the last day of each month.
 

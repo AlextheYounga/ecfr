@@ -1,6 +1,6 @@
 ##### § 52.254 Organic solvent usage.
 
-(a) This section is applicable in the Sacramento Valley, San Francisco Bay Area, and San Joaquin Valley Intrastate Air Quality Control Regions (the “Regions”), as described in 40 CFR part 81, dated July 1, 1979, except as follows:
+(a) This section is applicable in the Sacramento Valley, San Francisco Bay Area, and San Joaquin Valley Intrastate Air Quality Control Regions (the “Regions”), as described in 40 CFR part 81, dated July 1, 1979, except as follows:*Compliance schedule.*
 
 (1) In the following portions of the San Joaquin Valley Region, only the hourly emission limitations contained in paragraphs (b), (c), and (d) of this section are in effect; the following paragraphs, needed for interpretation are also in effect: Paragraphs (e) through (l) and (o) through (q) of this section. In addition, this section is entirely rescinded for specific operations for some of the counties noted below:
 

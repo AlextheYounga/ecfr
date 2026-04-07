@@ -1,6 +1,6 @@
 ##### § 52.31 Selection of sequence of mandatory sanctions for findings made pursuant to section 179 of the Clean Air Act.
 
-(a) *Purpose.* The purpose of this section is to implement 42 U.S.C. 7509(a) of the Act, with respect to the sequence in which sanctions will automatically apply under 42 U.S.C. 7509(b), following a finding made by the Administrator pursuant to 42 U.S.C. 7509(a).
+(a) *Purpose.* The purpose of this section is to implement 42 U.S.C. 7509(a) of the Act, with respect to the sequence in which sanctions will automatically apply under 42 U.S.C. 7509(b), following a finding made by the Administrator pursuant to 42 U.S.C. 7509(a).X
 
 (b) *Definitions.* All terms used in this section, but not specifically defined herein, shall have the meaning given them in § 52.01.
 

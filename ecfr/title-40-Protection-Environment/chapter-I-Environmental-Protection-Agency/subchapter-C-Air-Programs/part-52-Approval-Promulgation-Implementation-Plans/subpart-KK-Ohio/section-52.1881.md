@@ -1,6 +1,6 @@
 ##### § 52.1881 Control strategy: Sulfur oxides (sulfur dioxide).
 
-(a) EPA is approving, disapproving or taking no action on various portions of the Ohio sulfur dioxide control plan as noticed below. The disapproved portions of the Ohio plan do not meet the requirements of § 51.13 of this chapter in that they do not provide for attainment and maintenance of the national standards for sulfur oxides (sulfur dioxide).
+(a) EPA is approving, disapproving or taking no action on various portions of the Ohio sulfur dioxide control plan as noticed below. The disapproved portions of the Ohio plan do not meet the requirements of § 51.13 of this chapter in that they do not provide for attainment and maintenance of the national standards for sulfur oxides (sulfur dioxide).*Approval.*2
 
 (1)-(8) \[Reserved\]
 

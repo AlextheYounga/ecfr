@@ -1,6 +1,6 @@
 ##### § 52.1582 Control strategy and regulations: Ozone.
 
-(a) Subchapter 16 of the New Jersey Administrative Code, entitled “Control and Prohibition of Air Pollution by Volatile Organic Substances,” N.J.A.C. 7:27-16.1 et seq. as revised on December 31, 1981 and effective March 1, 1982, is approved with the following provisions and conditions:
+(a) Subchapter 16 of the New Jersey Administrative Code, entitled “Control and Prohibition of Air Pollution by Volatile Organic Substances,” N.J.A.C. 7:27-16.1 et seq. as revised on December 31, 1981 and effective March 1, 1982, is approved with the following provisions and conditions:X*Attainment Determination.*
 
 (1) Subsections 16.6(c)(4) and 16.6(c)(5) are approved. The State must comply with the public participation procedures it submitted to EPA on December 19, 1980 and must supply to EPA a copy of each notice of a proposed bubble that it supplies the public. In addition, the State must promptly transmit to EPA notice setting forth each set of emission limits approved by the state pursuant to subsections 16.6(c)(4) and 16.6(c)(5) as well as the emission limitations previously applicable. Finally, the State must transmit any relevant additional material EPA may request, and it must notify the public of an approved set of emission limits at the time it transmits notice of those limits to EPA.
 

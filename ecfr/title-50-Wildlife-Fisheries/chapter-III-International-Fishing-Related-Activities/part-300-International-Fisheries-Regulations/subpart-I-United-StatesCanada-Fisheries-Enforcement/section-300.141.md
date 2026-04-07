@@ -1,6 +1,6 @@
 ##### § 300.141 Definitions.
 
-In addition to the terms defined in § 300.2 and those in the Magnuson-Stevens Act and the Agreement, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Magnuson-Stevens Act, or the Agreement, the definition in this section applies.
+In addition to the terms defined in § 300.2 and those in the Magnuson-Stevens Act and the Agreement, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Magnuson-Stevens Act, or the Agreement, the definition in this section applies.*Applicable Canadian fisheries law*
 
 *Applicable Canadian fisheries law* means any Canadian law, regulation or similar provision relating in any manner to fishing by any fishing vessel other than a Canadian fishing vessel in waters subject to the fisheries jurisdiction of Canada, including, but not limited to, any provision relating to stowage of fishing gear by vessels passing through such waters, and to obstruction or interference with enforcement of any such law or regulation.
 

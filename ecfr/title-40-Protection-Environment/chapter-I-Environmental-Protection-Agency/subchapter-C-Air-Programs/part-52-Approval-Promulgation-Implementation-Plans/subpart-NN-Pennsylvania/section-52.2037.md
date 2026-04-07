@@ -1,6 +1,6 @@
 ##### § 52.2037 Control strategy plans for attainment and rate-of-progress: Ozone.
 
-(a)-(b)(1) \[Reserved\]
+(a)-(b)(1) \[Reserved\]X3*Determination of attainment*
 
 (2) Determination—EPA has determined that, as of July 19, 1995, the Reading ozone nonattainment area has attained the ozone standard and that the reasonable further progress and attainment demonstration requirements of section 182(b)(1) and related requirements of section 172(c)(9) of the Clean Air Act do not apply to this area for so long as the area does not monitor any violations of the ozone standard. If a violation of the ozone NAAQS is monitored in the Reading ozone nonattainment area, these determinations shall no longer apply.
 
@@ -31,12 +31,12 @@
 (k) EPA approves the following mobile budgets of the post-1996 rate of progress plans and the 2005 attainment plan:
 
 Transportation Conformity Budgets for the Philadelphia Area
-| Type of control strategy   SIP | Year | VOC   (tpd) | NOX   (tpd) | Date of adequacy determination or SIP   approval date |
-| ------------------------------ | ---- | ----------- | ----------- | ----------------------------------------------------- |
-| Post-1996 ROP Plan             | 1999 | 88.6        | 109.6       | June 23, 2000 (65 FR 36438, June 8, 2000).            |
-| Post-1996 ROP Plan             | 2002 | 69.52       | 93.13       | June 23, 2000 (65 FR 36438, June 8, 2000).            |
-| Post-1996 ROP Plan             | 2005 | 79.69       | 144.73      | June 21, 2004 (May 21, 2004, 69 FR 29240).            |
-| Attainment Demonstration       | 2005 | 79.69       | 144.73      | June 12, 2003 (68 FR 31700, May 28, 2003).            |
+| Type of control strategy   SIPX | Year | VOC   (tpd) | NOX   (tpd) | Date of adequacy determination or SIP   approval date |
+| ------------------------------- | ---- | ----------- | ----------- | ----------------------------------------------------- |
+| Post-1996 ROP Plan              | 1999 | 88.6        | 109.6       | June 23, 2000 (65 FR 36438, June 8, 2000).            |
+| Post-1996 ROP Plan              | 2002 | 69.52       | 93.13       | June 23, 2000 (65 FR 36438, June 8, 2000).            |
+| Post-1996 ROP Plan              | 2005 | 79.69       | 144.73      | June 21, 2004 (May 21, 2004, 69 FR 29240).            |
+| Attainment Demonstration        | 2005 | 79.69       | 144.73      | June 12, 2003 (68 FR 31700, May 28, 2003).            |
 
 (1)-(2) \[Reserved\]
 

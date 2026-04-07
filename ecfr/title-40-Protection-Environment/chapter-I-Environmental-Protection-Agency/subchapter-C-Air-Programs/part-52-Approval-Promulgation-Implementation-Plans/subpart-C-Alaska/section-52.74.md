@@ -1,6 +1,6 @@
 ##### § 52.74 Original identification of plan section.
 
-(a) This section identified the original “Air Quality Implementation Plan for the State of Alaska” and all revisions submitted by Alaska that were Federally-approved prior to March 4, 2014.
+(a) This section identified the original “Air Quality Implementation Plan for the State of Alaska” and all revisions submitted by Alaska that were Federally-approved prior to March 4, 2014.*Incorporation by reference.*10
 
 (b) The plan was officially submitted on April 25, 1972.
 
@@ -20,7 +20,7 @@
 
 (7) Part D attainment plans for the Anchorage and Fairbanks carbon monoxide nonattainment areas submitted by the Governor of Alaska on January 18, 1980 as follows:
 
-Volume II. Analysis of Problems, Control Actions Section III. *Areawide Pollutant Control Efforts,* Subsection A. Carbon Monoxide, except subparts 1.c (Other areas) and 5.h (Fairbanks Emergency Avoidance Plan) Volume III. Appendices III-1 A Review of Carbon Monoxide Emissions from Motor Vehicles during Cold Temperature Operation III-2 Cold Weather Related Strategy Support Development III-3 Preliminary Assessment of Meteorological Conditions during Days of Ambient Air Quality Violations in Anchorage III-4 Summary of the 1978 Fairbanks Voluntary Vehicle Emissions Inspection Program III-5 Approach of Evaluating an Alaska I/M Program III-6 Appendices to the Anchorage Air Quality Plan III-7 Appendices to the Fairbanks Air Quality Plan
+Volume II. Analysis of Problems, Control Actions Section III. *Areawide Pollutant Control Efforts,* Subsection A. Carbon Monoxide, except subparts 1.c (Other areas) and 5.h (Fairbanks Emergency Avoidance Plan) Volume III. Appendices III-1 A Review of Carbon Monoxide Emissions from Motor Vehicles during Cold Temperature Operation III-2 Cold Weather Related Strategy Support Development III-3 Preliminary Assessment of Meteorological Conditions during Days of Ambient Air Quality Violations in Anchorage III-4 Summary of the 1978 Fairbanks Voluntary Vehicle Emissions Inspection Program III-5 Approach of Evaluating an Alaska I/M Program III-6 Appendices to the Anchorage Air Quality Plan III-7 Appendices to the Fairbanks Air Quality PlanSection V. *Ambient Air Monitoring*A. Purpose An amended Appendix II-5, “Alaska State Department of Law Legal Opinion” submitted by the State of Alaska Department of Environmental Conservation on February 29, 1980. Amendments to the January 18, 1980 submittal, submitted by the State of Alaska Department of Environmental Conservation on September 29, 1982 as follows: *Chapter 50. Air Quality Control,*Section I. *Background*
 
 (8) On January 18, 1980, the State of Alaska Department of Environmental Conservation submitted a plan revision to meet the requirements of Air Quality Monitoring, 40 CFR part 58, subpart C, § 58.20, as follows:
 

@@ -1,6 +1,6 @@
 ##### § 52.795 Control strategy: Sulfur dioxide.
 
-(a) Revised APC-13 (December 5, 1974 submission) of Indiana's Air Pollution Control regulations (sulfur dioxide emission limitation) is disapproved insofar as the provisions identified below will interfere with the attainment and maintenance of the suffix dioxide ambient air quality standards:
+(a) Revised APC-13 (December 5, 1974 submission) of Indiana's Air Pollution Control regulations (sulfur dioxide emission limitation) is disapproved insofar as the provisions identified below will interfere with the attainment and maintenance of the suffix dioxide ambient air quality standards:p0.67
 
 (1) The phrase “equivalent full load” in section 1(b)(2).
 

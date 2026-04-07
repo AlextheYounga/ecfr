@@ -1,6 +1,6 @@
 ##### § 52.244 Motor vehicle emissions budgets.
 
-(a) Approval of the motor vehicle emissions budgets for the following ozone rate-of-progress and attainment SIPs will apply for transportation conformity purposes only until new budgets based on updated planning data and models have been submitted and EPA has found the budgets to be adequate for conformity purposes.
+(a) Approval of the motor vehicle emissions budgets for the following ozone rate-of-progress and attainment SIPs will apply for transportation conformity purposes only until new budgets based on updated planning data and models have been submitted and EPA has found the budgets to be adequate for conformity purposes.2.5
 
 (1) Antelope Valley, approved January 8, 1997;
 

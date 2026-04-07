@@ -1,6 +1,6 @@
 ##### § 52.248 Identification of plan—conditional approval.
 
-(a) The EPA is conditionally approving a California State Implementation Plan (SIP) revision submitted on November 13, 2015 updating the motor vehicle emissions budgets for nitrogen oxides (NOX) and coarse particulate matter (PM10) for the 1987 24-hour PM10 standard for the San Joaquin Valley PM10 maintenance area. The conditional approval is based on a commitment from the State to submit a SIP revision that demonstrates full implementation of the contingency provisions of the 2007 PM10 Maintenance Plan and Request for Redesignation (September 20, 2007). If the State fails to meet its commitment by June 1, 2017, the approval is treated as a disapproval.
+(a) The EPA is conditionally approving a California State Implementation Plan (SIP) revision submitted on November 13, 2015 updating the motor vehicle emissions budgets for nitrogen oxides (NOX) and coarse particulate matter (PM10) for the 1987 24-hour PM10 standard for the San Joaquin Valley PM10 maintenance area. The conditional approval is based on a commitment from the State to submit a SIP revision that demonstrates full implementation of the contingency provisions of the 2007 PM10 Maintenance Plan and Request for Redesignation (September 20, 2007). If the State fails to meet its commitment by June 1, 2017, the approval is treated as a disapproval.*Internal Combustion Engines;*
 
 (b)-(c) \[Reserved\]
 

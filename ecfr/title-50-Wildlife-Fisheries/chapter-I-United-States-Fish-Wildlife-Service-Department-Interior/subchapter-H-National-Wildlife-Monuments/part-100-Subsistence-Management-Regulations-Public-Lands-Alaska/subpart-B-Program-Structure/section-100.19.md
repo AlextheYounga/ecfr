@@ -1,6 +1,6 @@
 ##### § 100.19 Special actions.
 
-(a) *Emergency special actions.* In an emergency situation, if necessary to ensure the continued viability of a fish or wildlife population, to continue subsistence uses of fish or wildlife, or for public safety reasons, the Board may immediately open or close public lands for the taking of fish and wildlife for subsistence uses, or modify the requirements for take for subsistence uses, or close public lands to take for nonsubsistence uses of fish and wildlife, or restrict the requirements for take for nonsubsistence uses.
+(a) *Emergency special actions.* In an emergency situation, if necessary to ensure the continued viability of a fish or wildlife population, to continue subsistence uses of fish or wildlife, or for public safety reasons, the Board may immediately open or close public lands for the taking of fish and wildlife for subsistence uses, or modify the requirements for take for subsistence uses, or close public lands to take for nonsubsistence uses of fish and wildlife, or restrict the requirements for take for nonsubsistence uses.Federal Register
 
 (1) If the timing of a regularly scheduled meeting of the affected Regional Council so permits without incurring undue delay, the Board may seek Council recommendations on the proposed emergency special action. Such a Council recommendation, if any, will be subject to the requirements of § 100.18(a)(4).
 

@@ -1,6 +1,6 @@
 ##### § 52.2299 Original identification of plan section.
 
-(a) This section identifies the original “Texas Air Pollution Control Implementation Plan” and all revisions submitted by Texas that were federally approved prior to December 31, 1998.
+(a) This section identifies the original “Texas Air Pollution Control Implementation Plan” and all revisions submitted by Texas that were federally approved prior to December 31, 1998.*owner or operator, emission limitation and emission standards, stack, a stack in existence, dispersion technique, good engineering practice, nearby, excessive concentration,*10
 
 (b) The plan was officially submitted on January 28, 1972.
 
@@ -148,7 +148,7 @@ The provisions of Rule 104 submitted by the Governor on 1/28/72 and approved by 
 
 (F) Department of Public Safety and Texas Air Control Board Rules and Regulations, Texas Vehicle Inspection Act Article XV, and Documentation to Authorize and Support the Implementation and Enforcement of the Texas Vehicle Parameter Inspection and Maintenance Program, Appendix X, containing the following documents:
 
-—Senate Bill 1205 —Letters of commitment from Texas Department of Public Safety, City of Houston Police Department, and Harris County Sheriff —Parameter Vehicle Emission Inspection and Maintenance Rules and Regulations for Official Vehicle Inspection Stations and Certified Inspectors, July 1, 1984 —Texas Motor Vehicle Laws, 1981-1982 —Rules and Regulations for Official Vehicle Inspection Stations and Certified Inspectors, November 11, 1983, Sections A, B, C pages C-1, C-16, C-17, C-18, C-26, C-27, and C-28, D, and E pages E-1, E-6, E-7, E-8, and E-9.
+—Senate Bill 1205 *1*—Letters of commitment from Texas Department of Public Safety, City of Houston Police Department, and Harris County Sheriff —Parameter Vehicle Emission Inspection and Maintenance Rules and Regulations for Official Vehicle Inspection Stations and Certified Inspectors, July 1, 1984 —Texas Motor Vehicle Laws, 1981-1982 —Rules and Regulations for Official Vehicle Inspection Stations and Certified Inspectors, November 11, 1983, Sections A, B, C pages C-1, C-16, C-17, C-18, C-26, C-27, and C-28, D, and E pages E-1, E-6, E-7, E-8, and E-9.
 
 (62) Revision to the Texas State Implementation Plan for Good Engineering Practice—Stack Height regulations, Texas Air Control Board Regulation VI, § 116.3(a)(14), as adopted by the Texas Air Control Board on July 17, 1987, were submitted by the Governor of Texas on October 26, 1987. This revision included definitions for *owner or operator, emission limitation and emission standards, stack, a stack in existence, dispersion technique, good engineering practice, nearby, excessive concentration,* and regulations related to *stack height provisions* and *stack height procedures* for new source review.
 

@@ -1,6 +1,6 @@
 ##### § 52.1166 Original identification of plan.
 
-(a) This section identifies the original “Air Implementation Plan for the State of Massachusetts” and all revisions submitted by Massachusetts that were federally approved prior to January 20, 2017.
+(a) This section identifies the original “Air Implementation Plan for the State of Massachusetts” and all revisions submitted by Massachusetts that were federally approved prior to January 20, 2017.*Visible Emissions,*X
 
 (b) The plan was officially submitted on January 27, 1972.
 

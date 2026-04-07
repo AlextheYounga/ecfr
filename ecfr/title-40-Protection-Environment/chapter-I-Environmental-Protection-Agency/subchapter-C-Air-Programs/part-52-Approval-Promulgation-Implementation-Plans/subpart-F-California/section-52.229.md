@@ -1,6 +1,6 @@
 ##### § 52.229 Control strategy and regulations: Photochemical oxidants (hydrocarbons), Metropolitan Los Angeles Intrastate Region.
 
-(a) \[Reserved\]
+(a) \[Reserved\]Federal Register
 
 (b) The following rules are disapproved because they would result in a relaxation of control requirements contained in the presently approved State Implementation Plan, and no analysis has been presented to show that this relaxation will not interfere with the attainment and maintenance of NAAQS for photochemical oxidants (hydrocarbons) as required by section 110 of the Clean Air Act.
 

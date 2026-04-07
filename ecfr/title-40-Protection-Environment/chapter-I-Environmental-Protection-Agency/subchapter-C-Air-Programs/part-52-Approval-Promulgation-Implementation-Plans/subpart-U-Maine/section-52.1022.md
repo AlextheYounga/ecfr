@@ -1,6 +1,6 @@
 ##### § 52.1022 Approval status.
 
-(a) With the exceptions set forth in this subpart, the Administrator approves Maine's plan, as identified in § 52.1020, for the attainment and maintenance of the national standards under section 110 of the Clean Air Act.
+(a) With the exceptions set forth in this subpart, the Administrator approves Maine's plan, as identified in § 52.1020, for the attainment and maintenance of the national standards under section 110 of the Clean Air Act.2
 
 (b)(1) Insofar as the Prevention of Significant Deterioration (PSD) provisions found in this subpart apply to stationary sources of greenhouse gas (GHGs) emissions, the Administrator approves that application only to the extent that GHGs are “subject to regulation”, as provided in this paragraph (b), and the Administrator takes no action on that application to the extent that GHGs are not “subject to regulation.”
 

@@ -2,7 +2,7 @@
 
 (a) As of December 26, 2013, EPA approves the following revised 2009 and 2018 Motor Vehicle Emissions Budgets (MVEBs) for nitrogen oxides (NOX) and volatile organic compounds (VOCs) for the Lancaster 1997 8-Hour Ozone Maintenance Area submitted by the Secretary of the Pennsylvania Department of Environmental Protection:
 
-| Applicable geographic area                   | Year | Tons per day NOX | Tons per day VOCs |
+| Applicable geographic areaX                  | Year | Tons per day NOX | Tons per day VOCs |
 | -------------------------------------------- | ---- | ---------------- | ----------------- |
 | Lancaster 1997 8-Hour Ozone Maintenance Area | 2009 | 35.18            | 14.29             |
 | Lancaster 1997 8-Hour Ozone Maintenance Area | 2018 | 20.57            | 10.14             |

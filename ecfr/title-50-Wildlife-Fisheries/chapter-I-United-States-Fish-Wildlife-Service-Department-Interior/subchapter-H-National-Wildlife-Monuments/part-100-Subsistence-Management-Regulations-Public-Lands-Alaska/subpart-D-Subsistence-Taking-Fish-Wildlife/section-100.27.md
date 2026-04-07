@@ -1,6 +1,6 @@
 ##### § 100.27 Subsistence taking of fish.
 
-(a) *Applicability.* (1) Regulations in this section apply to the taking of fish or their parts for subsistence uses.
+(a) *Applicability.* (1) Regulations in this section apply to the taking of fish or their parts for subsistence uses.1/2
 
 (2) You may take fish for subsistence uses at any time by any method unless you are restricted by the subsistence fishing regulations found in this section. The harvest limit specified in this section for a subsistence season for a species and the State harvest limit set for a State season for the same species are not cumulative, except as modified by regulations in paragraph (e) of this section. This means that if you have taken the harvest limit for a particular species under a subsistence season specified in this section, you may not, after that, take any additional fish of that species under any other harvest limit specified for a State season.
 

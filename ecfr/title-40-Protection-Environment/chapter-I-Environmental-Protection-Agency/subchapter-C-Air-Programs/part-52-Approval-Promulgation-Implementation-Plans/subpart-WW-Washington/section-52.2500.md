@@ -1,6 +1,6 @@
 ##### § 52.2500 Best available retrofit technology requirements for the Intalco Aluminum Corporation (Intalco Works) primary aluminum plant—Better than BART Alternative.
 
-(a) *Applicability.* This section applies to the Intalco Aluminum Corporation (Intalco) primary aluminum plant located in Ferndale, Washington and to its successors and/or assignees.
+(a) *Applicability.* This section applies to the Intalco Aluminum Corporation (Intalco) primary aluminum plant located in Ferndale, Washington and to its successors and/or assignees.2
 
 (b) *Better than BART Alternative—Sulfur dioxide* (SO2) *emission limit for potlines.* Starting January 1, 2015, SO2 emissions from all potlines in aggregate must not exceed a total of 5,240 tons for any calendar year.
 

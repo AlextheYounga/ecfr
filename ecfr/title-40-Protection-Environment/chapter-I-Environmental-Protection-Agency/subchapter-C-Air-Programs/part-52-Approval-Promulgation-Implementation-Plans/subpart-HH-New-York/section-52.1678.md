@@ -1,6 +1,6 @@
 ##### § 52.1678 Control strategy and regulations: Particulate matter.
 
-(a)-(c) \[Reserved\]
+(a)-(c) \[Reserved\]2.5*Determination of Attainment.*
 
 (d) Section 227.3(a)(2) of 6 NYCRR, as submitted on August 10, 1979, is disapproved because it is inconsistent with 40 CFR Subpart G, Control strategy: Sulfur oxides and particulate matter.
 

@@ -2,7 +2,7 @@
 
 The Arizona plan is evaluated on the basis of the following classifications:
 
-| AQCR (constituent counties)                                          | Classifications |
+| AQCR (constituent counties)X                                         | Classifications |
 | -------------------------------------------------------------------- | --------------- |
 | Maricopa Intrastate (Maricopa)                                       | I               |
 | Pima Intrastate (Pima)                                               | I               |

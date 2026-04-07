@@ -1,6 +1,6 @@
 ##### § 300.21 Definitions.
 
-In addition to the terms defined in § 300.2, in the Act, the Convention for the Establishment of an Inter-American Tropical Tuna Commission (Convention), and the Convention for the Strengthening of the Inter-American Tropical Tuna Commission Established by the 1949 Convention between the United States of America and the Republic of Costa Rica (Antigua Convention), the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, in the Act, or in the Antigua Convention, the definition in this section shall apply.
+In addition to the terms defined in § 300.2, in the Act, the Convention for the Establishment of an Inter-American Tropical Tuna Commission (Convention), and the Convention for the Strengthening of the Inter-American Tropical Tuna Commission Established by the 1949 Convention between the United States of America and the Republic of Costa Rica (Antigua Convention), the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, in the Act, or in the Antigua Convention, the definition in this section shall apply.*Activation of a satellite buoy*
 
 *Activation of a satellite buoy* means the act of initializing network service for receiving the satellite buoy's position. Activation is done by the buoy supplier company at the request of the vessel owner or manager. Following activation, the vessel owner pays for the communication service. The buoy can be transmitting or not, depending if it has been switched on.
 
@@ -76,11 +76,11 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 
 *Tropical tuna* means any of the following species:
 
-| Common name    | Scientific name     |
-| -------------- | ------------------- |
-| Bigeye tuna    | Thunnus obesus.     |
-| Skipjack tuna  | Katsuwonus pelamis. |
-| Yellowfin tuna | Thunnus albacares.  |
+| Common name                | Scientific name     |
+| -------------------------- | ------------------- |
+| Bigeye tunaThunnus obesus. | Thunnus obesus.     |
+| Skipjack tuna              | Katsuwonus pelamis. |
+| Yellowfin tuna             | Thunnus albacares.  |
 
 *Tuna* means any fish of the genus Thunnus and the species *Katsuwonus pelamis.*
 

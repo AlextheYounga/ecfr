@@ -1,6 +1,6 @@
 ##### § 52.1677 Compliance schedules.
 
-(a) The requirements of § 51.261 of this chapter are not met since the compliance schedule for Part 220 of Subchapter A, Chapter III, Title 6 of New York State's Official Compilation of Codes, Rules and Regulations, does not provide for attainment and maintenance of the national standards for particulate matter by the dates required by the Act.
+(a) The requirements of § 51.261 of this chapter are not met since the compliance schedule for Part 220 of Subchapter A, Chapter III, Title 6 of New York State's Official Compilation of Codes, Rules and Regulations, does not provide for attainment and maintenance of the national standards for particulate matter by the dates required by the Act.*a*
 
 (b) The requirements of § 51.262(a) of this chapter are not met since sections 223.1(a), 225.3(c), and 230.2(d) of Subchapter A, Chapter III, Title 6 of New York State's Official Compilation of Codes, Rules and Regulations do not require the reporting of periodic increments of progress toward compliance by affected sources or categories of sources.
 

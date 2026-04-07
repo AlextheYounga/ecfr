@@ -1,6 +1,6 @@
 ##### § 52.2673 Original identification of plan.
 
-(a) This section identified the original “Implementation Plan for Compliance With the Ambient Air Quality Standards for the Territory of Guam” and all revisions submitted by the Territory of Guam that were federally approved prior to January 1, 2005.
+(a) This section identified the original “Implementation Plan for Compliance With the Ambient Air Quality Standards for the Territory of Guam” and all revisions submitted by the Territory of Guam that were federally approved prior to January 1, 2005.*Control of Sulfur Dioxide Emission,*2
 
 (b) The plan was officially submitted on January 25, 1972.
 

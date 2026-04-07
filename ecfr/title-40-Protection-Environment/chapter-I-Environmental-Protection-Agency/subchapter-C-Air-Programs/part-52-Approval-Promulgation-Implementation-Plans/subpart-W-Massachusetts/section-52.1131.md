@@ -1,6 +1,6 @@
 ##### § 52.1131 Control strategy: Particulate matter.
 
-(a) Revisions to the following regulations submitted on March 30, 1979 are disapproved:
+(a) Revisions to the following regulations submitted on March 30, 1979 are disapproved:2.5
 
 (1) Regulation 310 CMR 7.02(8), Table 2, new facilities greater than 250 million Btu/hr input burning solid fuel.
 

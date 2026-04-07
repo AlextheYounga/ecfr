@@ -1,6 +1,6 @@
 ##### § 300.29 Observers.
 
-The following requirements apply to all on-board fisheries observers required under this subpart, which includes observers on purse seine, longline vessels, and transshipment carrier vessels, and while on a fishing trip in the IATTC Convention Area.
+The following requirements apply to all on-board fisheries observers required under this subpart, which includes observers on purse seine, longline vessels, and transshipment carrier vessels, and while on a fishing trip in the IATTC Convention Area.*Contact information.*
 
 (a) *Contact information.* A full list of U.S. longline and IATTC purse seine observer providers and U.S. Government contacts for situations described in paragraphs (b) through (d) of this section is available at the following website: *https://www.fisheries.noaa.gov/west-coast/partners/emergency-contacts-vessel-owners-operators-and-observers-longline-and-purse.*
 

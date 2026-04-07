@@ -1,6 +1,6 @@
 ##### § 52.44 What are the requirements of the Federal Implementation Plans (FIPs) relating to ozone season emissions of nitrogen oxides from the Glass and Glass Product Manufacturing Industry?
 
-(a) *Definitions.* All terms not defined in this paragraph (a) shall have the meaning given to them in the Act and in subpart A of 40 CFR part 60.
+(a) *Definitions.* All terms not defined in this paragraph (a) shall have the meaning given to them in the Act and in subpart A of 40 CFR part 60.2
 
 *Affected units* means a glass manufacturing furnace meeting the applicability criteria of this section.
 

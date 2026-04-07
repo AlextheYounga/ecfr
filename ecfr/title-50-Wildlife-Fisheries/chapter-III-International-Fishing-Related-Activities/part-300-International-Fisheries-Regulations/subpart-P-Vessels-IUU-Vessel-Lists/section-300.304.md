@@ -1,6 +1,6 @@
 ##### § 300.304 Prohibitions.
 
-(a) It is unlawful for a foreign, listed IUU vessel denied entry under § 300.302 to enter any port or place subject to the jurisdiction of the United States.
+(a) It is unlawful for a foreign, listed IUU vessel denied entry under § 300.302 to enter any port or place subject to the jurisdiction of the United States.*force majeure*
 
 (b) It is unlawful for any foreign, listed IUU vessel to obtain port services or engage in commercial transactions, or attempt to obtain such services or engage in such transactions, if such activities have been denied or prohibited under § 300.303(b) and/or § 300.303(c), or if the vessel has been denied entry under § 300.302.
 

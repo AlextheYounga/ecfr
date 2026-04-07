@@ -1,6 +1,6 @@
 ##### § 300.216 Transshipping, bunkering and net sharing.
 
-(a) *Transshipment monitoring.* \[Reserved\]
+(a) *Transshipment monitoring.* \[Reserved\]Federal Register
 
 (b) *Restrictions on transshipping and bunkering*—(1) *Restrictions on transshipments involving purse seine fishing vessels.* (i) Fish may not be transshipped from a fishing vessel of the United States equipped with purse seine gear at sea in the Convention Area, and a fishing vessel of the United States may not be used to receive a transshipment of fish from a fishing vessel equipped with purse seine gear at sea in the Convention Area.
 

@@ -1,6 +1,6 @@
 ##### § 300.222 Prohibitions.
 
-In addition to the prohibitions in § 300.4, it is unlawful for any person to:
+In addition to the prohibitions in § 300.4, it is unlawful for any person to:*Rhincodon typus*
 
 (a) Fail to obtain and have on board a fishing vessel a valid WCPFC Area Endorsement as required in § 300.212.
 

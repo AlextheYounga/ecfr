@@ -1,6 +1,6 @@
 ##### § 52.786 Inspection and maintenance program.
 
-(a) Definitions:
+(a) Definitions:*Inspection and maintenance program*
 
 (1) *Inspection and maintenance program* means a program to reduce emissions from in-use vehicles through identifying vehicles that need emission control related maintenance and requiring that such maintenance be performed.
 

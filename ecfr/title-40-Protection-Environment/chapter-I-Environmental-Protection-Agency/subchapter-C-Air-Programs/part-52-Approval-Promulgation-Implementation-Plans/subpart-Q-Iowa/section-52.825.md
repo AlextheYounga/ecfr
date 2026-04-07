@@ -1,6 +1,6 @@
 ##### § 52.825 Compliance schedules.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Regulation for increments of progress.*
 
 (b) *Regulation for increments of progress.* (1) Except as provided in paragraph (b)(2) of this section, the owner or operator of any stationary source subject to regulation 4.3.(3)(b), “Rules and Regulations Relating to Air Pollution Control of the Iowa Air Pollution Control Commission” shall, no later than December 31, 1972, submit to the Administrator for approval, a proposed compliance schedule that demonstrates compliance with the applicable regulation as expeditiously as practicable but no later than January 1, 1975. The compliance schedule shall provide for periodic increments of progress towards compliance. The dates for achievement of such increments shall be specified. Increments of progress shall include, but not be limited to: Letting of necessary contract for construction or process changes, if applicable; initiation of construction; completion and start-up of control system; performance tests; and submittal of performance test analysis and results.
 

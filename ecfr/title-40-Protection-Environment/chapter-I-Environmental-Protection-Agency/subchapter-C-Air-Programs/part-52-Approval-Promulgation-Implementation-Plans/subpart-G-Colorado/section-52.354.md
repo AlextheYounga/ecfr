@@ -1,6 +1,6 @@
 ##### § 52.354 Original identification of plan.
 
-(a) This section identifies the original “Air Implementation Plan for the State of Colorado” and all revisions submitted by Colorado that were federally approved prior to June 1, 2015.
+(a) This section identifies the original “Air Implementation Plan for the State of Colorado” and all revisions submitted by Colorado that were federally approved prior to June 1, 2015.2*Incorporation by reference.*
 
 (b) The plan was officially submitted on January 26, 1972.
 

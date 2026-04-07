@@ -1,6 +1,6 @@
 ##### § 52.793 Significant deterioration of air quality.
 
-(a) The requirements of sections 160 through 165 of the Clean Air Act are not met, since the plan does not include approvable procedures for preventing the significant deterioration of air quality.
+(a) The requirements of sections 160 through 165 of the Clean Air Act are not met, since the plan does not include approvable procedures for preventing the significant deterioration of air quality.*Regulations for preventing significant deterioration of air quality.*
 
 (b) *Regulations for preventing significant deterioration of air quality.* The provisions of § 52.21(a)(2) and (b) through (bb) are hereby incorporated and made a part of the applicable state plan for the State of Indiana.
 

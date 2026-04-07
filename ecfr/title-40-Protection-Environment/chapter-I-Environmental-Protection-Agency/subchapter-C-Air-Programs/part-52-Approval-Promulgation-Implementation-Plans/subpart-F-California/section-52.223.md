@@ -1,6 +1,6 @@
 ##### § 52.223 Approval status.
 
-(a) With the exceptions set forth in this subpart, the Administrator approves California's plan for the attainment and maintenance of the national standards under section 110 of the Clean Air Act.
+(a) With the exceptions set forth in this subpart, the Administrator approves California's plan for the attainment and maintenance of the national standards under section 110 of the Clean Air Act.3*1997 ozone NAAQS:*
 
 (b) With the exceptions set forth in this subpart, the Administrator approves the plan with respect to Part D, Title I of the Clean Air Act, as amended in 1977, for the nonattainment areas listed in this paragraph. In addition, continued satisfaction of the requirements of Part D for the ozone portion of the State Implementation Plan (SIP) depends on the adoption and submittal of reasonably available control technology (RACT) requirements by July 1, 1980, for sources covered by Control Technique Guidelines (CTGs) issued between January 1978 and January 1979 and adoption and submittal by each subsequent January of additional RACT requirements for sources covered by CTGs issued by the previous January.
 

@@ -1,6 +1,6 @@
 ##### § 52.270 Significant deterioration of air quality.
 
-(a) With the exception of the areas listed in paragraph (b) of this section:
+(a) With the exception of the areas listed in paragraph (b) of this section:*District PSD Plans.*2.5
 
 (1) The requirements of Sections 160 through 165 of the Clean Air Act are not met in California.
 

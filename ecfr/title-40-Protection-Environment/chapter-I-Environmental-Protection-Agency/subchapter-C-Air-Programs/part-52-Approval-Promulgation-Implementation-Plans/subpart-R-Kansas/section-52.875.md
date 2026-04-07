@@ -1,6 +1,6 @@
 ##### § 52.875 Original identification of plan section.
 
-(a) This section identifies the original “Air Quality Implementation Plan for the State of Kansas” and all revisions submitted by Kansas that were Federally approved prior to July 1, 1998.
+(a) This section identifies the original “Air Quality Implementation Plan for the State of Kansas” and all revisions submitted by Kansas that were Federally approved prior to July 1, 1998.*Incorporation by reference.*10
 
 (b) The plan was officially submitted on January 31, 1972.
 

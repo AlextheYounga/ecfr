@@ -1,6 +1,6 @@
 ##### § 52.2584 Control strategy; Particulate matter.
 
-(a) Part D—Disapproval—USEPA disapproves Regulation NR 154.11(7)(b) of Wisconsin Administrative Code (RACT Requirements for Coking Operations), which is part of the control strategy to attain and maintain the standards for particulate matter, because it does not contain an enforceable RACT-level numerical visible emission limitation for charging operations.
+(a) Part D—Disapproval—USEPA disapproves Regulation NR 154.11(7)(b) of Wisconsin Administrative Code (RACT Requirements for Coking Operations), which is part of the control strategy to attain and maintain the standards for particulate matter, because it does not contain an enforceable RACT-level numerical visible emission limitation for charging operations.10
 
 (b) Approval—On April 30, 1988 and March 30, 1990, the State of Wisconsin submitted committal SIPs for particulate matter with an aerodynamic diameter equal to or less than 10 micrometers (PM10) for the Group II areas within the Cities of DePere, Madison, Milwaukee, Superior, and Waukesha. This committal SIP meets all of the requirements identified in the July 1, 1987, promulgation of the SIP requirements for PM10.
 

@@ -1,6 +1,6 @@
 ##### § 52.426 Control strategy plans for attainment and rate-of-progress: ozone.
 
-(a) EPA fully approves, as a revision to the Delaware State Implementation Plan, the 15 Percent Rate of Progress Plan for the Delaware portion of the Philadelphia-Wilmington-Trenton severe ozone nonattainment, namely Kent and New Castle Counties, submitted by the Secretary of Delaware Department of Natural Resources and Environmental Control on February 17, 1995.
+(a) EPA fully approves, as a revision to the Delaware State Implementation Plan, the 15 Percent Rate of Progress Plan for the Delaware portion of the Philadelphia-Wilmington-Trenton severe ozone nonattainment, namely Kent and New Castle Counties, submitted by the Secretary of Delaware Department of Natural Resources and Environmental Control on February 17, 1995.X*Determination of attainment.*
 
 (b)(1) EPA approves revisions to the Delaware State Implementation Plan consisting of the Post 1996 ROP plans for milestone years 1999, 2002, and 2005 for the Delaware portion of the Philadelphia-Wilmington-Trenton severe ozone nonattainment area, namely Kent and New Castle Counties. These revisions were submitted by the Secretary of Delaware Department of Natural Resources and Environmental Control on December 29, 1997, and revised on June 17, 1999, February 3, 2000, and December 20, 2000.
 
@@ -17,12 +17,12 @@
 (d) EPA is approving the following mobile budgets, explicitly quantified as sub-budgets for each of Kent and New Castle Counties, of the Post 1996 ROP Plans and the 1-Hour Ozone Attainment Demonstration Plan:
 
 Transportation Conformity Emission Budgets for the Delaware Portion of the Philadelphia Area
-| Type of control strategy SIP | Year | Kent County | New Castle County | Effective date of adequacy   determination or SIP approval |
-| ---------------------------- | ---- | ----------- | ----------------- | ---------------------------------------------------------- |
-| Post-1996 ROP Plan           | 1999 | 7.55        | 11.17             | 22.49                                                      |
-| Post-1996 ROP Plan           | 2002 | 6.30        | 9.81              | 18.44                                                      |
-| Post-1996 ROP Plan           | 2005 | 4.84        | 7.90              | 14.76                                                      |
-| Attainment Demonstration     | 2005 | 5.14        | 8.42              | 15.08                                                      |
+| Type of control strategy SIP   X | Year | Kent County | New Castle County | Effective date of adequacy   determination or SIP approval |
+| -------------------------------- | ---- | ----------- | ----------------- | ---------------------------------------------------------- |
+| Post-1996 ROP Plan               | 1999 | 7.55        | 11.17             | 22.49                                                      |
+| Post-1996 ROP Plan               | 2002 | 6.30        | 9.81              | 18.44                                                      |
+| Post-1996 ROP Plan               | 2005 | 4.84        | 7.90              | 14.76                                                      |
+| Attainment Demonstration         | 2005 | 5.14        | 8.42              | 15.08                                                      |
 
 (1)-(2) \[Reserved\]
 

@@ -1,6 +1,6 @@
 ##### § 52.1683 Control strategy: Ozone.
 
-(a) The State of New York has certified to the satisfaction of the EPA that no sources are located in the nonattainment area of the State which are covered by the following Control Techniques Guidelines:
+(a) The State of New York has certified to the satisfaction of the EPA that no sources are located in the nonattainment area of the State which are covered by the following Control Techniques Guidelines:X*see*
 
 (1) Natural Gas/Gasoline Processing Plants.
 

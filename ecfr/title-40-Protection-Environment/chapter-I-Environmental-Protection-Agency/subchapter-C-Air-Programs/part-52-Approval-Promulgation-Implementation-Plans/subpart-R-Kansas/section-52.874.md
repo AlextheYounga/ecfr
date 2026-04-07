@@ -1,6 +1,6 @@
 ##### § 52.874 Legal authority.
 
-(a) The requirements of § 51.230(f) of this chapter are not met since authority to make emission data available to the public is inadequate. Kansas Statutes Annotated 65-3015 would require confidential treatment if the data related to processes or production unique to the owner or would tend to affect adversely the competitive position of the owner.
+(a) The requirements of § 51.230(f) of this chapter are not met since authority to make emission data available to the public is inadequate. Kansas Statutes Annotated 65-3015 would require confidential treatment if the data related to processes or production unique to the owner or would tend to affect adversely the competitive position of the owner.*Kansas City, Kans.-Wyandotte County Health Department.*
 
 (b) The requirements of § 51.232(b) of this chapter are not met since the following deficiencies exist in the local agency legal authority:
 

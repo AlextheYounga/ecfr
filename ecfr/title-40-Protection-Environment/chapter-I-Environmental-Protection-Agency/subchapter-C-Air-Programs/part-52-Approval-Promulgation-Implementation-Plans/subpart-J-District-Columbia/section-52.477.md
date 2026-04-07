@@ -5,10 +5,10 @@
 (b) *Maintenance Plan and Transportation Conformity Budgets.* EPA approves the maintenance plan for the District of Columbia portion of the Washington, DC-MD-VA nonattainment area for the 1997 annual PM2.5 NAAQS submitted by the District of Columbia for the entire Area on June 3, 2013 and supplemented on July 22, 2013. The MVEBs are based on a tiered approach: Tier 1 MVEBs are effective as EPA has determined them adequate for transportation conformity purposes; Tier 2 mobile budgets will become effective upon the completion of the interagency consultation process and fully documented within the first conformity analysis that uses the Tier 2 MVEBs.
 
 Washington, DC-MD-VA PM2.5 Area's Tier 1 Motor Vehicle Emissions Budgets for the 1997 Annual PM2.5 NAAQS, (tpy)
-| Type of control strategy SIP | Year | NOX    | PM2.5 | Effective date of SIP approval |
-| ---------------------------- | ---- | ------ | ----- | ------------------------------ |
-| Maintenance Plan             | 2017 | 41,709 | 1,787 | 11/5/14                        |
-|                              | 2025 | 27,400 | 1,350 |                                |
+| Type of control strategy SIPX | Year | NOX    | PM2.5 | Effective date of SIP approval |
+| ----------------------------- | ---- | ------ | ----- | ------------------------------ |
+| Maintenance Plan              | 2017 | 41,709 | 1,787 | 11/5/14                        |
+|                               | 2025 | 27,400 | 1,350 |                                |
 
 Washington, DC-MD-VA PM2.5 Area's Tier 2 Motor Vehicle Emissions Budgets for the 1997 Annual PM2.5 NAAQS, (tpy)
 | Type of control strategy SIP | Year | NOX    | PM2.5 | Effective date of SIP approval                          |

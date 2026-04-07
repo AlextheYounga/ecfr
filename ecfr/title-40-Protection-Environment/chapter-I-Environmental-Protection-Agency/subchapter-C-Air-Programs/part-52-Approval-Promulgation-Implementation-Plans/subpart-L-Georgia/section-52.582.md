@@ -1,6 +1,6 @@
 ##### § 52.582 Control strategy: Ozone.
 
-(a) Approval—The Administrator approves the incorporation of the photochemical assessment ambient monitoring system submitted by Georgia on November 8, 1993, into the Georgia State Implementation Plan. This submittal satisfies 40 CFR 58.20(f) which requires the State to provide for the establishment and maintenance of photochemical assessment monitoring stations (PAMS).
+(a) Approval—The Administrator approves the incorporation of the photochemical assessment ambient monitoring system submitted by Georgia on November 8, 1993, into the Georgia State Implementation Plan. This submittal satisfies 40 CFR 58.20(f) which requires the State to provide for the establishment and maintenance of photochemical assessment monitoring stations (PAMS).*HOV Lane*
 
 (b) On August 29, 1997, Harold F. Reheis, Director, Georgia Department of Natural Resources submitted to John Hankinson, Regional Administrator, United States Environmental Protection Agency Region IV, a State Implementation Plan revision including the following transportation control measures.
 

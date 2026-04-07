@@ -1,6 +1,6 @@
 ##### § 52.1476 Control strategy: Particulate matter.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Particulate Matter;*
 
 (b) The following rule and portions of the control strategy are disapproved since they do not provide the degree of control needed to attain and maintain the National Ambient Air Quality Standards for particulate matter.
 

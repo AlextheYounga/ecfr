@@ -1,6 +1,6 @@
 ##### § 52.173 Visibility protection.
 
-(a) *Regional haze.* The regional haze State Implementation Plan (SIP) revisions submitted on September 23, 2008 and August 3, 2010, and supplemented on September 27, 2011 are partially approved and partially disapproved.
+(a) *Regional haze.* The regional haze State Implementation Plan (SIP) revisions submitted on September 23, 2008 and August 3, 2010, and supplemented on September 27, 2011 are partially approved and partially disapproved.2
 
 (1) The identification of sources that are eligible for Best Available Retrofit Technology (BART) is approved, with the exception of the 6A Boiler at the Georgia-Pacific Crossett Mill, which is BART eligible.
 

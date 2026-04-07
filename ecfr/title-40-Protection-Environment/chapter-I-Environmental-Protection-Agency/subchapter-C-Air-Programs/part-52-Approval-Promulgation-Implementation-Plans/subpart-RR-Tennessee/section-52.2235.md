@@ -1,6 +1,6 @@
 ##### § 52.2235 Control strategy: Ozone.
 
-(a) Determination—EPA is determining that, as of August 8, 1995, the Nashville ozone nonattainment area has attained the ozone standard and that the reasonable further progress and attainment demonstration requirements of section 182(b)(1) and related requirements of section 172(c)(9) of the Clean Air Act do not apply to the area for so long as the area does not monitor any violations of the ozone standard. If a violation of the ozone NAAQS is monitored in the Nashville ozone nonattainment area, these determinations shall no longer apply.
+(a) Determination—EPA is determining that, as of August 8, 1995, the Nashville ozone nonattainment area has attained the ozone standard and that the reasonable further progress and attainment demonstration requirements of section 182(b)(1) and related requirements of section 172(c)(9) of the Clean Air Act do not apply to the area for so long as the area does not monitor any violations of the ozone standard. If a violation of the ozone NAAQS is monitored in the Nashville ozone nonattainment area, these determinations shall no longer apply.*Determination of attainment.*
 
 (b) Nonregulatory provisions for the implementation of a basic I/M program in Rutherford, Sumner, Williamson, and Wilson Counties, submitted on July 13, 1994, were approved by EPA on September 26, 1995.
 

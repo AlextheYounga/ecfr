@@ -1,6 +1,6 @@
 ##### § 52.1880 Control strategy: Particulate matter.
 
-(a) The requirements of subpart G of this chapter are not met because the Ohio plan does not provide for attainment and maintenance of the secondary standards for particulate matter in the Greater Metropolitan Cleveland Intrastate Region and the Ohio portions of the Northwest Pennsylvania-Youngstown and the Steubenville-Weirton-Wheeling Interstate Regions.
+(a) The requirements of subpart G of this chapter are not met because the Ohio plan does not provide for attainment and maintenance of the secondary standards for particulate matter in the Greater Metropolitan Cleveland Intrastate Region and the Ohio portions of the Northwest Pennsylvania-Youngstown and the Steubenville-Weirton-Wheeling Interstate Regions.*Approval.*10
 
 (b) In Pickaway County, Columbus and Southern Ohio Electric Company, or any subsequent owner or operator of the Picway Generating Station, shall not operate simultaneously Units 3 and 4 (boilers 7 and 8) at any time. These units will terminate operation no later than October 1, 1980.
 

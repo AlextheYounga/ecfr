@@ -15,18 +15,18 @@
 (5) Fishing equipment to be used (bottom trawl, midwater trawl, longline, crab pots, other).
 
 Table 1—Taxa-Specific Thresholds for Notification of Research Vessel Activity
-| Taxon                            | Gear type | Expected catch                                   |
-| -------------------------------- | --------- | ------------------------------------------------ |
-| Thresholds for finfish taxa:     |           |                                                  |
-| Dissostichus spp                 | Longline  | 5 tonnes.                                        |
-|                                  | Trawl     | 5 tonnes.                                        |
-|                                  | Pot       | 5 tonnes.                                        |
-|                                  | Other     | 0 tonnes.                                        |
-| Champsocephalus gunnari          | All       | 10 tonnes.                                       |
-| Thresholds for non-finfish taxa: |           |                                                  |
-| Krill                            | All       | 0.1 percent of the catch limit for a given area. |
-| Squid                            |           |                                                  |
-| Crabs                            |           |                                                  |
+| Taxon                                    | Gear type | Expected catch                                   |
+| ---------------------------------------- | --------- | ------------------------------------------------ |
+| Thresholds for finfish taxa:Dissostichus |           |                                                  |
+| Dissostichus spp                         | Longline  | 5 tonnes.                                        |
+|                                          | Trawl     | 5 tonnes.                                        |
+|                                          | Pot       | 5 tonnes.                                        |
+|                                          | Other     | 0 tonnes.                                        |
+| Champsocephalus gunnari                  | All       | 10 tonnes.                                       |
+| Thresholds for non-finfish taxa:         |           |                                                  |
+| Krill                                    | All       | 0.1 percent of the catch limit for a given area. |
+| Squid                                    |           |                                                  |
+| Crabs                                    |           |                                                  |
 
 (c) Any person planning to use any vessel for research purposes, when the estimated research catch is expected to be more than 50 tonnes or greater than the amounts specified in Table 1 must report the details of the research plan to NMFS using CCAMLR Format 2 for Notification of Research Vessel Activity. The format must be submitted to Assistant Administrator at least 7 months in advance of the planned start date for the research. A copy of the format is available from NMFS Headquarters. The format requires:
 

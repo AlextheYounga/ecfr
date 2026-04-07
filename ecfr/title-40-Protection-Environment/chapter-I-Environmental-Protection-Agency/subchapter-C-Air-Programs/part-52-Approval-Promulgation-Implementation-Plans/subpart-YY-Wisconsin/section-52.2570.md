@@ -1,6 +1,6 @@
 ##### § 52.2570 Identification of plan.
 
-(a) Title of plan: “A Statewide Implementation Plan to Achieve Air Quality Standards for Particulates, Sulfur Oxides, Nitrogen Oxides, Hydrocarbons, Oxidants, and Carbon Monoxide in the State of Wisconsin.”
+(a) Title of plan: “A Statewide Implementation Plan to Achieve Air Quality Standards for Particulates, Sulfur Oxides, Nitrogen Oxides, Hydrocarbons, Oxidants, and Carbon Monoxide in the State of Wisconsin.”2*New York*
 
 (b) The plan was officially submitted on January 14, 1972.
 

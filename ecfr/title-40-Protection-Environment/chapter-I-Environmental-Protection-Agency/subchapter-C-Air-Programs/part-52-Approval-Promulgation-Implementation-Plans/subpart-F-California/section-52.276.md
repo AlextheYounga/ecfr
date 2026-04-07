@@ -1,6 +1,6 @@
 ##### § 52.276 Sulfur content of fuels.
 
-(a) The following rules or portions of rules are disapproved since they represent a relaxation of previously submitted regulations and an adequate control strategy demonstration has not been submitted showing that the relaxation will not interfere with the attainment and maintenance of the National Ambient Air Quality Standards:
+(a) The following rules or portions of rules are disapproved since they represent a relaxation of previously submitted regulations and an adequate control strategy demonstration has not been submitted showing that the relaxation will not interfere with the attainment and maintenance of the National Ambient Air Quality Standards:*Sulfur Content of Fuels,*
 
 (1) North Central Coast Intrastate Region:
 

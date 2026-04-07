@@ -1,6 +1,6 @@
 ##### § 52.1173 Control strategy: Particulates.
 
-(a) *Part D—Disapproval.* The following specific revisions to the Michigan Plan are disapproved:
+(a) *Part D—Disapproval.* The following specific revisions to the Michigan Plan are disapproved:10
 
 (1) Rule 336.1331, Table 31, Item C: Emission limits for Open Hearth Furnaces, Basic Oxygen Furnaces, Electric Arc Furnaces, Sintering Plants, Blast Furnaces, Heating and Reheating Furnaces.
 

@@ -1,6 +1,6 @@
 ##### § 52.622 Original identification of plan.
 
-(a) This section identified the original “State of Hawaii Air Pollution Control Implementation Plan” and all revisions submitted by the State of Hawaii that were federally approved prior to June 1, 2005.
+(a) This section identified the original “State of Hawaii Air Pollution Control Implementation Plan” and all revisions submitted by the State of Hawaii that were federally approved prior to June 1, 2005.*Incorporation by reference.*
 
 (b) The plan was officially submitted on January 28, 1972.
 

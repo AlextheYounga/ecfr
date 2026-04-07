@@ -1,6 +1,6 @@
 ##### § 52.1960 Original Identification of plan section.
 
-(a) This section identifies the original “State of Oklahoma Air Quality Control Implementation Plan” and all revisions submitted by Oklahoma that were federally approved prior to June 1, 2000.
+(a) This section identifies the original “State of Oklahoma Air Quality Control Implementation Plan” and all revisions submitted by Oklahoma that were federally approved prior to June 1, 2000.*i.e.*2
 
 (b) The plan was officially submitted on January 28, 1972.
 

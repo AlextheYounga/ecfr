@@ -1,6 +1,6 @@
 ##### § 52.2122 Approval status.
 
-(a) With the exceptions set forth in this subpart, the Administrator approves South Carolina's plan for the attainment and maintenance of the national standards under section 110 of the Clean Air Act. Furthermore, the Administrator finds that the plan satisfies all requirements of part D, title 1, of the Clean Air Act as amended in 1977.
+(a) With the exceptions set forth in this subpart, the Administrator approves South Carolina's plan for the attainment and maintenance of the national standards under section 110 of the Clean Air Act. Furthermore, the Administrator finds that the plan satisfies all requirements of part D, title 1, of the Clean Air Act as amended in 1977.2
 
 (b) EPA disapproved South Carolina's generic bubble regulation submitted for approval into the State Implementation Plan (SIP) on June 5, 1985.
 

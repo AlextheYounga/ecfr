@@ -1,6 +1,6 @@
 ##### § 52.02 Introduction.
 
-(a) This part sets forth the Administrator's approval and disapproval of State plans and the Administrator's promulgation of such plans or portions thereof. Approval of a plan or any portion thereof is based upon a determination by the Administrator that such plan or portion meets the requirements of section 110 of the Act and the provisions of part 51 of this chapter.
+(a) This part sets forth the Administrator's approval and disapproval of State plans and the Administrator's promulgation of such plans or portions thereof. Approval of a plan or any portion thereof is based upon a determination by the Administrator that such plan or portion meets the requirements of section 110 of the Act and the provisions of part 51 of this chapter.Federal Register.*http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (b) Any plan or portion thereof promulgated by the Administrator substitutes for a State plan or portion thereof disapproved by the Administrator or not submitted by a State, or supplements a State plan or portion thereof. The promulgated provisions, together with any portions of a State plan approved by the Administrator, constitute the applicable plan for purposes of the Act.
 

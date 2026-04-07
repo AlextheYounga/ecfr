@@ -1,6 +1,6 @@
 ##### § 52.329 Rules and regulations.
 
-(a) On January 14, 1993, the Governor of Colorado submitted revisions to the State's nonattainment new source review permitting regulations to bring the State's regulations up to date with the 1990 Amendments to the Clean Air Act. With these revisions, the State's regulations satisfy the part D new source review permitting requirements for the following nonattainment areas: the Canon City, Lamar, Pagosa Springs, Aspen, Telluride, and Steamboat Springs moderate PM10 nonattainment areas, the Denver/Metro Boulder, Longmont, Colorado Springs, and Fort Collins moderate carbon monoxide nonattainment areas, the Greeley not classified carbon monoxide nonattainment area, and the Denver transitional ozone nonattainment area.
+(a) On January 14, 1993, the Governor of Colorado submitted revisions to the State's nonattainment new source review permitting regulations to bring the State's regulations up to date with the 1990 Amendments to the Clean Air Act. With these revisions, the State's regulations satisfy the part D new source review permitting requirements for the following nonattainment areas: the Canon City, Lamar, Pagosa Springs, Aspen, Telluride, and Steamboat Springs moderate PM10 nonattainment areas, the Denver/Metro Boulder, Longmont, Colorado Springs, and Fort Collins moderate carbon monoxide nonattainment areas, the Greeley not classified carbon monoxide nonattainment area, and the Denver transitional ozone nonattainment area.*Stationary Source Permitting and Air Pollutant Emission Notice Requirements,*
 
 (b) On January 14, 1993 and on August 25, 1994, the Governor of Colorado submitted revisions to the State's nonattainment new source review permitting regulations to bring the State's regulations up to date with the 1990 Amendments to the Clean Air Act. With these revisions, the State's regulations satisfy the part D new source review permitting requirements for the Denver metropolitan moderate PM-10 nonattainment area.
 
@@ -32,9 +32,9 @@
 
 (1) The following emissions standards shall apply to those tests performed on model year 1996 and newer vehicles, on and after January 1, of the dates specified:
 
-| Calendar year | HC  | CO | NOX |
-| ------------- | --- | -- | --- |
-| 2002          | 1.2 | 20 | 3.0 |
-| 2003          | 1.2 | 20 | 3.0 |
+| Calendar yearX | HC  | CO | NOX |
+| -------------- | --- | -- | --- |
+| 2002           | 1.2 | 20 | 3.0 |
+| 2003           | 1.2 | 20 | 3.0 |
 
 \[59 FR 64336, Dec. 14, 1994, as amended at 62 FR 2914, Jan. 21, 1997; 62 FR 68195, Dec. 31, 1997; 71 FR 8961, Feb. 22, 2006; 76 FR 51905, Aug. 19, 2011; 76 FR 61056, Oct. 3, 2011; 77 FR 75390, Dec. 20, 2012\]

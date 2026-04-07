@@ -1,6 +1,6 @@
 ##### § 52.2585 Control strategy: Ozone.
 
-(a) Disapproval—On November 6, 1986, the Wisconsin Department of Natural Resources submitted as a proposed revision to the State's ozone State Implementation Plan a site-specific reasonably available control technology determination for a miscellaneous metal parts and products dip coating line. This line is located at the Gehl facility in Washington County, Wisconsin. In a May 31, 1988 (53 FR 19806), notice of proposed rulemaking, United States Environmental Protection Agency proposed to disapprove this site-specific revision to the Wisconsin State Implementation Plan for ozone.
+(a) Disapproval—On November 6, 1986, the Wisconsin Department of Natural Resources submitted as a proposed revision to the State's ozone State Implementation Plan a site-specific reasonably available control technology determination for a miscellaneous metal parts and products dip coating line. This line is located at the Gehl facility in Washington County, Wisconsin. In a May 31, 1988 (53 FR 19806), notice of proposed rulemaking, United States Environmental Protection Agency proposed to disapprove this site-specific revision to the Wisconsin State Implementation Plan for ozone.X*Determination of attainment.*
 
 (b) Disapproval—On August 22, 1986, the Wisconsin Department of Natural Resources submitted a proposed revision to its ozone State Implementation Plan consisting of a site-specific reasonably available control technology determination for two miscellaneous metal parts and products spray coatings lines. These operations are located at the General Electric Company, Medical Systems facility in Milwaukee, Wisconsin, an area which has been designated as nonattainment for ozone, pursuant to section 107 of the Clean Air Act and 40 Code of Federal Regulations, part 81, § 81.350.
 
@@ -39,7 +39,7 @@
 (s) Approval—On January 31, 2003, Wisconsin submitted a revision to the ozone attainment plan for the Milwaukee severe ozone area and maintenance plan for Sheboygan County. These plans revised 2007 motor vehicle emission inventories and 2007 Motor Vehicle Emissions Budgets (MVEB) recalculated using the emissions factor model MOBILE6. The plan also included a new 2012 projected MVEB for the Sheboygan County. The following table outlines the MVEB for transportation conformity purposes for the Milwaukee severe ozone area and the Sheboygan ozone maintenance area:
 
 2007 and 2012 Motor Vehicle Emissions Budgets
-| Area                    | 2007  | 2012  |
+| Area   X                | 2007  | 2012  |
 | ----------------------- | ----- | ----- |
 | Milwaukee Severe Area   | 32.20 | 71.40 |
 | Sheboygan Maintenance   | 3.24  | 6.40  |

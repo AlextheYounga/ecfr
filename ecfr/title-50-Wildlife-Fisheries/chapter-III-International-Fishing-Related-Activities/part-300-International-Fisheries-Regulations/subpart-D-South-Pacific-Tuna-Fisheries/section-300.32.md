@@ -1,6 +1,6 @@
 ##### § 300.32 Vessel licenses.
 
-(a) Each vessel fishing in the Licensing Area must have a license issued by the Administrator for the licensing period being fished, unless exempted by § 300.39. Each licensing period begins on June 15 and ends on June 14 of the following year.
+(a) Each vessel fishing in the Licensing Area must have a license issued by the Administrator for the licensing period being fished, unless exempted by § 300.39. Each licensing period begins on June 15 and ends on June 14 of the following year.*Application process for general licenses.*
 
 (b) Upon receipt, the license or a copy or facsimile thereof must be carried on board the vessel when in the Licensing Area or Closed Areas, and must be produced at the request of authorized officers, authorized party officers, or authorized inspectors. A vessel may be used to fish in the Licensing Area if the license has been issued but not yet received, provided that the license number is available on board.
 

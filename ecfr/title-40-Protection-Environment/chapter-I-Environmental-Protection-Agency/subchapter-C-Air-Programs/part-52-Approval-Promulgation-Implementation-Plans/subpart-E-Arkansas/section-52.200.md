@@ -1,6 +1,6 @@
 ##### § 52.200 Original identification of plan section.
 
-(a) This section identifies the original “Arkansas Plan for Implementation for Air Pollution Control” and all revisions submitted by Arkansas that were federally approved prior to July 1, 1998.
+(a) This section identifies the original “Arkansas Plan for Implementation for Air Pollution Control” and all revisions submitted by Arkansas that were federally approved prior to July 1, 1998.*Incorporation by reference.*
 
 (b) The plan was officially submitted on January 28, 1972.
 

@@ -1,6 +1,6 @@
 ##### § 52.2575 Control strategy: Sulfur dioxide.
 
-(a) Part D—Approval—With the exceptions set forth in this subpart, the Administrator approved the Wisconsin sulfur dioxide control plan.
+(a) Part D—Approval—With the exceptions set forth in this subpart, the Administrator approved the Wisconsin sulfur dioxide control plan.2
 
 (1) Part D—No action—USEPA takes no action on the Wisconsin sulfur dioxide rules NR 154.12 (1), (2) and (3).
 

@@ -7,7 +7,7 @@
 (c) EPA approves the attainment plan for the 1997 annual fine particulate matter (PM2.5) national ambient air quality standard (NAAQS) for the Philadelphia-Wilmington, Pennsylvania-New Jersey-Delaware nonattainment area submitted by the Secretary of the Delaware Department of Natural Resources and Environmental Control on April 3, 2008, as amended on April 25, 2012. The attainment plan includes the attainment demonstration and motor vehicle emission budgets in tons per year (tpy) used for transportation conformity purposes for New Castle County, Delaware. The attainment plan also includes an analysis of reasonably available control measures and reasonably available control technology, contingency measures and the 2002 base year emissions inventory. The 2002 base year emissions inventory was approved in a separate rulemaking action on March 4, 2013 (78 FR 10420).
 
 Delaware's Motor Vehicle Emission Budgets for the 1997 Annual PM2.5 NAAQS
-| Type of control strategy SIP     | Year | VOC | NOX   |
+| Type of control strategy SIPX    | Year | VOC | NOX   |
 | -------------------------------- | ---- | --- | ----- |
 | Attainment Plan (Milestone Year) | 2009 | 257 | 8,448 |
 | Attainment Plan (Out Year)       | 2012 | 199 | 6,273 |

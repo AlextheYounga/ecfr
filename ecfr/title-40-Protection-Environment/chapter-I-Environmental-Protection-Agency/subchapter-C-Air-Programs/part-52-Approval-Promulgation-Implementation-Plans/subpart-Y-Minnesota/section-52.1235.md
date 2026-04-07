@@ -1,6 +1,6 @@
 ##### § 52.1235 Regional haze.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*NO*X
 
 (b)(1) *NO*X*emission limits.* (i) United States Steel Corporation, Keetac: An emission limit of 1.5 lbs NOX/MMBtu, based on a 30-day rolling average, shall apply to the Grate Kiln pelletizing furnace (EU030), beginning 3 years from March 8, 2013. However, for any 30, or more, consecutive days when only natural gas is used a limit of 1.2 lbs NOX/MMBtu, based on a 30-day rolling average, shall apply.
 
@@ -102,7 +102,7 @@
 
 (ii) Hibbing Taconite Company: An aggregate emission limit of 247.8 lbs SO2/hr shall apply to the three affected lines, EU020, EU021, and EU022. The SO2 emission limits for these three pelletizing furnaces are based on a 30-day rolling average. Emissions resulting from the combustion of fuel oil are not included in the calculation of the 30-day rolling average. However, if any fuel oil is burned after the first day that SO2 CEMS are required to be operational, then the information specified in (b)(2)(vii) must be submitted, for each calendar year, to the Regional Administrator no later than 30 days after the end of each calendar year so that a limit can be set. Compliance with the emission limits is required beginning 6 months from March 8, 2013. Within 20 months of March 8, 2013, the owner or operator may calculate a revised SO2 limit based on one year of hourly CEMS emissions data reported in lbs SO2/hr and submit such limit, calculations and CEMS data to EPA. This limit shall be set in terms of lbs SO2/hr, based on the following equations, with compliance to be determined on a 30-day rolling average.
 
-*m = (n + 1)\**α *m* = the rank of the ordered data point, when data is sorted smallest to largest *n=*α number of data points α = 0.95, to reflect the 95 th percentile
+*m = (n + 1)\**α 30*m* = the rank of the ordered data point, when data is sorted smallest to largest thm*n=*α number of data points α = 0.95, to reflect the 95 th percentile
 
 If *m* is a whole number, then the limit, *UPL,* shall be computed as:
 

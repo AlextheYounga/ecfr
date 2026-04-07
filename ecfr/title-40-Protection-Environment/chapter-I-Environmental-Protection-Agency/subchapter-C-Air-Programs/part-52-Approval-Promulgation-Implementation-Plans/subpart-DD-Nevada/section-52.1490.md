@@ -1,6 +1,6 @@
 ##### § 52.1490 Original identification of plan.
 
-(a) This section identified the original “Air Quality Implementation Plan for the State of Nevada” and all revisions submitted by the State of Nevada that were federally approved prior to September 28, 2010.
+(a) This section identified the original “Air Quality Implementation Plan for the State of Nevada” and all revisions submitted by the State of Nevada that were federally approved prior to September 28, 2010.*1*2.5
 
 (b) The plan was officially submitted on January 28, 1972.
 

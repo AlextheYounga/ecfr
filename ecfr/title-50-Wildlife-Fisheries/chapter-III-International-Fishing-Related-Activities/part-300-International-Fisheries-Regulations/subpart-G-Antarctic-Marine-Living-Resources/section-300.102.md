@@ -1,6 +1,6 @@
 ##### § 300.102 Relationship to other treaties, conventions, laws, and regulations.
 
-(a) Other conventions and treaties to which the United States is a party and other Federal statutes and implementing regulations may impose additional restrictions on the harvesting and importation into the United States of AMLRs.
+(a) Other conventions and treaties to which the United States is a party and other Federal statutes and implementing regulations may impose additional restrictions on the harvesting and importation into the United States of AMLRs.*et seq.*Federal Register
 
 (b) The ACA implements the Protocol on Environmental Protection to the Antarctic Treaty. The ACA and its implementing regulations (including, but not limited to, 45 CFR part 670) apply to certain defined activities of U.S. citizens south of 60° S lat.
 

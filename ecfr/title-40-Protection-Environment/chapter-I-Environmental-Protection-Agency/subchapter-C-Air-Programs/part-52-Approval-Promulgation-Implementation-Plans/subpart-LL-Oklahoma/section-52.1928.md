@@ -1,6 +1,6 @@
 ##### § 52.1928 Visibility protection.
 
-(a) The following portions of the Oklahoma Regional Haze (RH) State Implementation Plan submitted on February 19, 2010 are disapproved:
+(a) The following portions of the Oklahoma Regional Haze (RH) State Implementation Plan submitted on February 19, 2010 are disapproved:2
 
 (1) The SO2 BART determinations for Units 4 and 5 of the Oklahoma Gas and Electric (OG&E) Muskogee plant; Units 1 and 2 of the OG&E Sooner plant; and Units 3 and 4 of the American Electric Power/Public Service Company of Oklahoma (AEP/PSO) Northeastern plant;
 

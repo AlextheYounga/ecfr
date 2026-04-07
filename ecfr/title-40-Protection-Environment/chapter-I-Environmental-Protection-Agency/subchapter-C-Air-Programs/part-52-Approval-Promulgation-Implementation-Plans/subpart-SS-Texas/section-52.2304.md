@@ -1,6 +1,6 @@
 ##### § 52.2304 Visibility protection.
 
-(a) *Reasonably Attributable Visibility Impairment.* The requirements of section 169A of the Clean Air Act are not met because the plan does not include fully approvable measures for meeting the requirements of 40 CFR 51.305 for protection of visibility in mandatory Class I Federal areas.
+(a) *Reasonably Attributable Visibility Impairment.* The requirements of section 169A of the Clean Air Act are not met because the plan does not include fully approvable measures for meeting the requirements of 40 CFR 51.305 for protection of visibility in mandatory Class I Federal areas.X
 
 (b) \[Reserved\]
 
