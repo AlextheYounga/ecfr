@@ -1780,7 +1780,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Batavia              | 23                                                  |
 | Bath                 | 14                                                  |
 | Binghamton           | 7, 8, 34, \*42                                      |
-| Buffalo              | 14, 32, 33, 38, 39, \*43, 49                        |
+| Buffalo              | 14, 32, 33, 36, 38, 39, \*43, 49                    |
 | Carthage             | 7                                                   |
 | Corning              | \*30, 48                                            |
 | Elmira               | 18, 36                                              |
