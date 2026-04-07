@@ -1,8 +1,6 @@
-##### § 1.40001 Wireless Facility Modifications.
+##### § 1.6100 Wireless Facility Modifications.
 
-Link to an amendment published at 83 FR 51886, October 15, 2018.
-
-(a) *Purpose.* These rules implement section 6409 of the Spectrum Act (codified at 47 U.S.C. 1455), which requires a State or local government to approve any eligible facilities request for a modification of an existing tower or base station that does not substantially change the physical dimensions of such tower or base station.
+(a) \[Reserved\]
 
 (b) *Definitions.* Terms used in this section have the following meanings.
 
@@ -70,4 +68,4 @@ Link to an amendment published at 83 FR 51886, October 15, 2018.
 
 (5) *Remedies.* Applicants and reviewing authorities may bring claims related to Section 6409(a) to any court of competent jurisdiction.
 
-\[80 FR 1269, Jan. 8, 2015\]
+\[80 FR 1269, Jan. 8, 2015. Redesignated and amended at 83 FR 51886, Oct. 15, 2018\]

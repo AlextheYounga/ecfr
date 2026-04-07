@@ -36,7 +36,7 @@
 
 Note to paragraph (c)(1)(i).
 
-This paragraph describes attribution requirements for a U.S. person solely with respect to the guarantee of the obligations of a non-U.S. person under a security-based swap. The Commission and the Commodity Futures Trading Commission previously provided an interpretation about attribution to a U.S. parent, other affiliate, or guarantor to the extent that the counterparties to those positions have recourse against that parent, other affiliate, or guarantor in connection with the position. *See* Intermediary Definitions Adopting Release, *http://www.gpo.gov/fdsys/pkg/FR-2012-08-13/pdf/2012-18003.pdf.* The Commission explained that it intended to issue separate releases addressing the application of the major participant definition, and Title VII generally, to non-U.S. persons. *See id.* at note 1041.
+This paragraph describes attribution requirements for a U.S. person solely with respect to the guarantee of the obligations of a non-U.S. person under a security-based swap. The Commission and the Commodity Futures Trading Commission previously provided an interpretation about attribution to a U.S. parent, other affiliate, or guarantor to the extent that the counterparties to those positions have recourse against that parent, other affiliate, or guarantor in connection with the position. *See* Intermediary Definitions Adopting Release, *http://www.gpo.gov/govinfo/pkg/FR-2012-08-13/pdf/2012-18003.pdf.* The Commission explained that it intended to issue separate releases addressing the application of the major participant definition, and Title VII generally, to non-U.S. persons. *See id.* at note 1041.
 
 (ii) If such person is a non-U.S. person:
 
