@@ -1,10 +1,10 @@
 ##### § 105.17 Flight visibility and clearance from cloud requirements.
 
-No person may conduct a parachute operation, and no pilot in command of an aircraft may allow a parachute operation to be conducted from that aircraft— 
+No person may conduct a parachute operation, and no pilot in command of an aircraft may allow a parachute operation to be conducted from that aircraft—
 
-(a) Into or through a cloud, or 
+(a) Into or through a cloud, or
 
-(b) When the flight visibility or the distance from any cloud is less than that prescribed in the following table: 
+(b) When the flight visibility or the distance from any cloud is less than that prescribed in the following table:
 
 | Altitude                                                               | Flight visibility   (statute miles) | Distance from clouds                                     |
 | ---------------------------------------------------------------------- | ----------------------------------- | -------------------------------------------------------- |

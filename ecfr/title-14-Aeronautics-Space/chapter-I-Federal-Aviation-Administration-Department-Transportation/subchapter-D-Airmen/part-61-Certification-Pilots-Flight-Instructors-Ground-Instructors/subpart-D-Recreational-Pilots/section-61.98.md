@@ -1,65 +1,65 @@
 ##### § 61.98 Flight proficiency.
 
-(a) *General.* A person who applies for a recreational pilot certificate must receive and log ground and flight training from an authorized instructor on the areas of operation of this section that apply to the aircraft category and class rating sought. 
+(a) *General.* A person who applies for a recreational pilot certificate must receive and log ground and flight training from an authorized instructor on the areas of operation of this section that apply to the aircraft category and class rating sought.
 
-(b) *Areas of operation.* (1) *For a single-engine airplane rating:* (i) Preflight preparation; 
+(b) *Areas of operation.* (1) *For a single-engine airplane rating:* (i) Preflight preparation;
 
-(ii) Preflight procedures; 
+(ii) Preflight procedures;
 
-(iii) Airport operations; 
+(iii) Airport operations;
 
-(iv) Takeoffs, landings, and go-arounds; 
+(iv) Takeoffs, landings, and go-arounds;
 
-(v) Performance maneuvers; 
+(v) Performance maneuvers;
 
-(vi) Ground reference maneuvers; 
+(vi) Ground reference maneuvers;
 
-(vii) Navigation; 
+(vii) Navigation;
 
-(viii) Slow flight and stalls; 
+(viii) Slow flight and stalls;
 
-(ix) Emergency operations; and 
+(ix) Emergency operations; and
 
-(x) Postflight procedures. 
+(x) Postflight procedures.
 
-(2) *For a helicopter rating:* (i) Preflight preparation; 
+(2) *For a helicopter rating:* (i) Preflight preparation;
 
-(ii) Preflight procedures; 
+(ii) Preflight procedures;
 
-(iii) Airport and heliport operations; 
+(iii) Airport and heliport operations;
 
-(iv) Hovering maneuvers; 
+(iv) Hovering maneuvers;
 
-(v) Takeoffs, landings, and go-arounds; 
+(v) Takeoffs, landings, and go-arounds;
 
-(vi) Performance maneuvers; 
+(vi) Performance maneuvers;
 
-(vii) Ground reference maneuvers; 
+(vii) Ground reference maneuvers;
 
-(viii) Navigation; 
+(viii) Navigation;
 
-(ix) Emergency operations; and 
+(ix) Emergency operations; and
 
-(x) Postflight procedures. 
+(x) Postflight procedures.
 
-(3) *For a gyroplane rating:* (i) Preflight preparation; 
+(3) *For a gyroplane rating:* (i) Preflight preparation;
 
-(ii) Preflight procedures; 
+(ii) Preflight procedures;
 
-(iii) Airport operations; 
+(iii) Airport operations;
 
-(iv) Takeoffs, landings, and go-arounds; 
+(iv) Takeoffs, landings, and go-arounds;
 
-(v) Performance maneuvers; 
+(v) Performance maneuvers;
 
-(vi) Ground reference maneuvers; 
+(vi) Ground reference maneuvers;
 
-(vii) Navigation; 
+(vii) Navigation;
 
-(viii) Flight at slow airspeeds; 
+(viii) Flight at slow airspeeds;
 
-(ix) Emergency operations; and 
+(ix) Emergency operations; and
 
-(x) Postflight procedures. 
+(x) Postflight procedures.
 
-\[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40902, July 30, 1997\]
+\[Docket 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40902, July 30, 1997\]

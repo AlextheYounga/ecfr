@@ -1,6 +1,6 @@
 ##### § 74.561 Frequency tolerance.
 
-In the bands above 944 MHz, the operating frequency of the transmitter shall be maintained in accordance with the following table: 
+In the bands above 944 MHz, the operating frequency of the transmitter shall be maintained in accordance with the following table:
 
 | Frequency band (MHz) | Tolerance as percentage of assigned frequency |
 | -------------------- | --------------------------------------------- |

@@ -1,215 +1,215 @@
 ##### § 61.187 Flight proficiency.
 
-(a) *General.* A person who is applying for a flight instructor certificate must receive and log flight and ground training from an authorized instructor on the areas of operation listed in this section that apply to the flight instructor rating sought. The applicant's logbook must contain an endorsement from an authorized instructor certifying that the person is proficient to pass a practical test on those areas of operation. 
+(a) *General.* A person who is applying for a flight instructor certificate must receive and log flight and ground training from an authorized instructor on the areas of operation listed in this section that apply to the flight instructor rating sought. The applicant's logbook must contain an endorsement from an authorized instructor certifying that the person is proficient to pass a practical test on those areas of operation.
 
-(b) *Areas of operation.* (1) For an airplane category rating with a single-engine class rating: 
+(b) *Areas of operation.* (1) For an airplane category rating with a single-engine class rating:
 
-(i) Fundamentals of instructing; 
+(i) Fundamentals of instructing;
 
-(ii) Technical subject areas; 
+(ii) Technical subject areas;
 
-(iii) Preflight preparation; 
+(iii) Preflight preparation;
 
-(iv) Preflight lesson on a maneuver to be performed in flight; 
+(iv) Preflight lesson on a maneuver to be performed in flight;
 
-(v) Preflight procedures; 
+(v) Preflight procedures;
 
-(vi) Airport and seaplane base operations; 
+(vi) Airport and seaplane base operations;
 
-(vii) Takeoffs, landings, and go-arounds; 
+(vii) Takeoffs, landings, and go-arounds;
 
-(viii) Fundamentals of flight; 
+(viii) Fundamentals of flight;
 
-(ix) Performance maneuvers; 
+(ix) Performance maneuvers;
 
-(x) Ground reference maneuvers; 
+(x) Ground reference maneuvers;
 
-(xi) Slow flight, stalls, and spins; 
+(xi) Slow flight, stalls, and spins;
 
-(xii) Basic instrument maneuvers; 
+(xii) Basic instrument maneuvers;
 
-(xiii) Emergency operations; and 
+(xiii) Emergency operations; and
 
-(xiv) Postflight procedures. 
+(xiv) Postflight procedures.
 
-(2) For an airplane category rating with a multiengine class rating: 
+(2) For an airplane category rating with a multiengine class rating:
 
-(i) Fundamentals of instructing; 
+(i) Fundamentals of instructing;
 
-(ii) Technical subject areas; 
+(ii) Technical subject areas;
 
-(iii) Preflight preparation; 
+(iii) Preflight preparation;
 
-(iv) Preflight lesson on a maneuver to be performed in flight; 
+(iv) Preflight lesson on a maneuver to be performed in flight;
 
-(v) Preflight procedures; 
+(v) Preflight procedures;
 
-(vi) Airport and seaplane base operations; 
+(vi) Airport and seaplane base operations;
 
-(vii) Takeoffs, landings, and go-arounds; 
+(vii) Takeoffs, landings, and go-arounds;
 
-(viii) Fundamentals of flight; 
+(viii) Fundamentals of flight;
 
-(ix) Performance maneuvers; 
+(ix) Performance maneuvers;
 
-(x) Ground reference maneuvers; 
+(x) Ground reference maneuvers;
 
-(xi) Slow flight and stalls; 
+(xi) Slow flight and stalls;
 
-(xii) Basic instrument maneuvers; 
+(xii) Basic instrument maneuvers;
 
-(xiii) Emergency operations; 
+(xiii) Emergency operations;
 
-(xiv) Multiengine operations; and 
+(xiv) Multiengine operations; and
 
-(xv) Postflight procedures. 
+(xv) Postflight procedures.
 
-(3) For a rotorcraft category rating with a helicopter class rating: 
+(3) For a rotorcraft category rating with a helicopter class rating:
 
-(i) Fundamentals of instructing; 
+(i) Fundamentals of instructing;
 
-(ii) Technical subject areas; 
+(ii) Technical subject areas;
 
-(iii) Preflight preparation; 
+(iii) Preflight preparation;
 
-(iv) Preflight lesson on a maneuver to be performed in flight; 
+(iv) Preflight lesson on a maneuver to be performed in flight;
 
-(v) Preflight procedures; 
+(v) Preflight procedures;
 
-(vi) Airport and heliport operations; 
+(vi) Airport and heliport operations;
 
-(vii) Hovering maneuvers; 
+(vii) Hovering maneuvers;
 
-(viii) Takeoffs, landings, and go-arounds; 
+(viii) Takeoffs, landings, and go-arounds;
 
-(ix) Fundamentals of flight; 
+(ix) Fundamentals of flight;
 
-(x) Performance maneuvers; 
+(x) Performance maneuvers;
 
-(xi) Emergency operations; 
+(xi) Emergency operations;
 
-(xii) Special operations; and 
+(xii) Special operations; and
 
-(xiii) Postflight procedures. 
+(xiii) Postflight procedures.
 
-(4) For a rotorcraft category rating with a gyroplane class rating: 
+(4) For a rotorcraft category rating with a gyroplane class rating:
 
-(i) Fundamentals of instructing; 
+(i) Fundamentals of instructing;
 
-(ii) Technical subject areas; 
+(ii) Technical subject areas;
 
-(iii) Preflight preparation; 
+(iii) Preflight preparation;
 
-(iv) Preflight lesson on a maneuver to be performed in flight; 
+(iv) Preflight lesson on a maneuver to be performed in flight;
 
-(v) Preflight procedures; 
+(v) Preflight procedures;
 
-(vi) Airport operations; 
+(vi) Airport operations;
 
-(vii) Takeoffs, landings, and go-arounds; 
+(vii) Takeoffs, landings, and go-arounds;
 
-(viii) Fundamentals of flight; 
+(viii) Fundamentals of flight;
 
-(ix) Performance maneuvers; 
+(ix) Performance maneuvers;
 
-(x) Flight at slow airspeeds; 
+(x) Flight at slow airspeeds;
 
-(xi) Ground reference maneuvers; 
+(xi) Ground reference maneuvers;
 
-(xii) Emergency operations; and 
+(xii) Emergency operations; and
 
-(xiii) Postflight procedures. 
+(xiii) Postflight procedures.
 
-(5) For a powered-lift category rating: 
+(5) For a powered-lift category rating:
 
-(i) Fundamentals of instructing; 
+(i) Fundamentals of instructing;
 
-(ii) Technical subject areas; 
+(ii) Technical subject areas;
 
-(iii) Preflight preparation; 
+(iii) Preflight preparation;
 
-(iv) Preflight lesson on a maneuver to be performed in flight; 
+(iv) Preflight lesson on a maneuver to be performed in flight;
 
-(v) Preflight procedures; 
+(v) Preflight procedures;
 
-(vi) Airport and heliport operations; 
+(vi) Airport and heliport operations;
 
-(vii) Hovering maneuvers; 
+(vii) Hovering maneuvers;
 
-(viii) Takeoffs, landings, and go-arounds; 
+(viii) Takeoffs, landings, and go-arounds;
 
-(ix) Fundamentals of flight; 
+(ix) Fundamentals of flight;
 
-(x) Performance maneuvers; 
+(x) Performance maneuvers;
 
-(xi) Ground reference maneuvers; 
+(xi) Ground reference maneuvers;
 
-(xii) Slow flight and stalls; 
+(xii) Slow flight and stalls;
 
-(xiii) Basic instrument maneuvers; 
+(xiii) Basic instrument maneuvers;
 
-(xiv) Emergency operations; 
+(xiv) Emergency operations;
 
-(xv) Special operations; and 
+(xv) Special operations; and
 
-(xvi) Postflight procedures. 
+(xvi) Postflight procedures.
 
-(6) For a glider category rating: 
+(6) For a glider category rating:
 
-(i) Fundamentals of instructing; 
+(i) Fundamentals of instructing;
 
-(ii) Technical subject areas; 
+(ii) Technical subject areas;
 
-(iii) Preflight preparation; 
+(iii) Preflight preparation;
 
-(iv) Preflight lesson on a maneuver to be performed in flight; 
+(iv) Preflight lesson on a maneuver to be performed in flight;
 
-(v) Preflight procedures; 
+(v) Preflight procedures;
 
-(vi) Airport and gliderport operations; 
+(vi) Airport and gliderport operations;
 
-(vii) Launches and landings; 
+(vii) Launches and landings;
 
-(viii) Fundamentals of flight; 
+(viii) Fundamentals of flight;
 
-(ix) Performance speeds; 
+(ix) Performance speeds;
 
-(x) Soaring techniques; 
+(x) Soaring techniques;
 
-(xi) Performance maneuvers; 
+(xi) Performance maneuvers;
 
-(xii) Slow flight, stalls, and spins; 
+(xii) Slow flight, stalls, and spins;
 
-(xiii) Emergency operations; and 
+(xiii) Emergency operations; and
 
-(xiv) Postflight procedures. 
+(xiv) Postflight procedures.
 
-(7) For an instrument rating with the appropriate aircraft category and class rating: 
+(7) For an instrument rating with the appropriate aircraft category and class rating:
 
-(i) Fundamentals of instructing; 
+(i) Fundamentals of instructing;
 
-(ii) Technical subject areas; 
+(ii) Technical subject areas;
 
-(iii) Preflight preparation; 
+(iii) Preflight preparation;
 
-(iv) Preflight lesson on a maneuver to be performed in flight; 
+(iv) Preflight lesson on a maneuver to be performed in flight;
 
-(v) Air traffic control clearances and procedures; 
+(v) Air traffic control clearances and procedures;
 
-(vi) Flight by reference to instruments; 
+(vi) Flight by reference to instruments;
 
-(vii) Navigation aids; 
+(vii) Navigation aids;
 
-(viii) Instrument approach procedures; 
+(viii) Instrument approach procedures;
 
-(ix) Emergency operations; and 
+(ix) Emergency operations; and
 
-(x) Postflight procedures. 
+(x) Postflight procedures.
 
-(c) The flight training required by this section may be accomplished: 
+(c) The flight training required by this section may be accomplished:
 
-(1) In an aircraft that is representative of the category and class of aircraft for the rating sought; or 
+(1) In an aircraft that is representative of the category and class of aircraft for the rating sought; or
 
-(2) In a flight simulator or flight training device representative of the category and class of aircraft for the rating sought, and used in accordance with an approved course at a training center certificated under part 142 of this chapter. 
+(2) In a flight simulator or flight training device representative of the category and class of aircraft for the rating sought, and used in accordance with an approved course at a training center certificated under part 142 of this chapter.
 
-\[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40907, July 30, 1997; Amdt. 61-124, 74 FR 42561, Aug. 21, 2009\]
+\[Docket 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40907, July 30, 1997; Amdt. 61-124, 74 FR 42561, Aug. 21, 2009\]

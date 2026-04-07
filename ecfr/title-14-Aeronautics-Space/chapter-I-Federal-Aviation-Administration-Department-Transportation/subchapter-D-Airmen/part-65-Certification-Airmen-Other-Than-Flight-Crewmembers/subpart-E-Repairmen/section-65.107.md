@@ -1,6 +1,6 @@
 ##### § 65.107 Repairman certificate (light-sport aircraft): Eligibility, privileges, and limits.
 
-(a) Use the following table to determine your eligibility for a repairman certificate (light-sport aircraft) and appropriate rating: 
+(a) Use the following table to determine your eligibility for a repairman certificate (light-sport aircraft) and appropriate rating:
 
 | To be eligible for                                                           | You must                                                                                                                                                                                                                                                                                               |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -16,22 +16,22 @@
 |                                                                              | (D) For lighter than air class privileges—80 hours,                                                                                                                                                                                                                                                    |
 |                                                                              | (E) For glider class privileges—80 hours.                                                                                                                                                                                                                                                              |
 
-(b) The holder of a repairman certificate (light-sport aircraft) with an inspection rating may perform the annual condition inspection on a light-sport aircraft: 
+(b) The holder of a repairman certificate (light-sport aircraft) with an inspection rating may perform the annual condition inspection on a light-sport aircraft:
 
-(1) That is owned by the holder; 
+(1) That is owned by the holder;
 
-(2) That has been issued an experimental certificate for operating a light-sport aircraft under § 21.191(i) of this chapter; and 
+(2) That has been issued an experimental certificate for operating a light-sport aircraft under § 21.191(i) of this chapter; and
 
-(3) That is in the same class of light-sport-aircraft for which the holder has completed the training specified in paragraph (a)(2)(ii) of this section. 
+(3) That is in the same class of light-sport-aircraft for which the holder has completed the training specified in paragraph (a)(2)(ii) of this section.
 
-(c) The holder of a repairman certificate (light-sport aircraft) with a maintenance rating may— 
+(c) The holder of a repairman certificate (light-sport aircraft) with a maintenance rating may—
 
-(1) Approve and return to service an aircraft that has been issued a special airworthiness certificate in the light-sport category under § 21.190 of this chapter, or any part thereof, after performing or inspecting maintenance (to include the annual condition inspection and the 100-hour inspection required by § 91.327 of this chapter), preventive maintenance, or an alteration (excluding a major repair or a major alteration on a product produced under an FAA approval); 
+(1) Approve and return to service an aircraft that has been issued a special airworthiness certificate in the light-sport category under § 21.190 of this chapter, or any part thereof, after performing or inspecting maintenance (to include the annual condition inspection and the 100-hour inspection required by § 91.327 of this chapter), preventive maintenance, or an alteration (excluding a major repair or a major alteration on a product produced under an FAA approval);
 
-(2) Perform the annual condition inspection on a light-sport aircraft that has been issued an experimental certificate for operating a light-sport aircraft under § 21.191(i) of this chapter; and 
+(2) Perform the annual condition inspection on a light-sport aircraft that has been issued an experimental certificate for operating a light-sport aircraft under § 21.191(i) of this chapter; and
 
-(3) Only perform maintenance, preventive maintenance, and an alteration on a light-sport aircraft that is in the same class of light-sport aircraft for which the holder has completed the training specified in paragraph (a)(3)(ii) of this section. Before performing a major repair, the holder must complete additional training acceptable to the FAA and appropriate to the repair performed. 
+(3) Only perform maintenance, preventive maintenance, and an alteration on a light-sport aircraft that is in the same class of light-sport aircraft for which the holder has completed the training specified in paragraph (a)(3)(ii) of this section. Before performing a major repair, the holder must complete additional training acceptable to the FAA and appropriate to the repair performed.
 
-(d) The holder of a repairman certificate (light-sport aircraft) with a maintenance rating may not approve for return to service any aircraft or part thereof unless that person has previously performed the work concerned satisfactorily. If that person has not previously performed that work, the person may show the ability to do the work by performing it to the satisfaction of the FAA, or by performing it under the direct supervision of a certificated and appropriately rated mechanic, or a certificated repairman, who has had previous experience in the specific operation concerned. The repairman may not exercise the privileges of the certificate unless the repairman understands the current instructions of the manufacturer and the maintenance manuals for the specific operation concerned. 
+(d) The holder of a repairman certificate (light-sport aircraft) with a maintenance rating may not approve for return to service any aircraft or part thereof unless that person has previously performed the work concerned satisfactorily. If that person has not previously performed that work, the person may show the ability to do the work by performing it to the satisfaction of the FAA, or by performing it under the direct supervision of a certificated and appropriately rated mechanic, or a certificated repairman, who has had previous experience in the specific operation concerned. The repairman may not exercise the privileges of the certificate unless the repairman understands the current instructions of the manufacturer and the maintenance manuals for the specific operation concerned.
 
-\[Doc. No. FAA-2001-11133, 69 FR 44879, July 27, 2004\]
+\[Docket FAA-2001-11133, 69 FR 44879, July 27, 2004\]

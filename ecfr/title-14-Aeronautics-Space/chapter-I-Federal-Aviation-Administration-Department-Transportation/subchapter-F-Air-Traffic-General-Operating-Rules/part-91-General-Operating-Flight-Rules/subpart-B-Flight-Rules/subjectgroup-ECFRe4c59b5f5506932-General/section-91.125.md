@@ -1,6 +1,6 @@
 ##### § 91.125 ATC light signals.
 
-ATC light signals have the meaning shown in the following table: 
+ATC light signals have the meaning shown in the following table:
 
 | Color and type of signal  | Meaning with respect to aircraft on the surface | Meaning with respect to aircraft in flight                          |
 | ------------------------- | ----------------------------------------------- | ------------------------------------------------------------------- |
