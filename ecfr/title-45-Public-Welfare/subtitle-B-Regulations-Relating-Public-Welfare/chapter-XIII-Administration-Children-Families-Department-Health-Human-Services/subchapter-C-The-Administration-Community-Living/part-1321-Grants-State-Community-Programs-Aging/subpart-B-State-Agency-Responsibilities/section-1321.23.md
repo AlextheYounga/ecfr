@@ -1,5 +1,5 @@
 ##### § 1321.23 Appeal to the Departmental Appeals Board on area agency on aging withdrawal of designation.
 
-(a) This section sets forth hearing procedures afforded to affected parties if the State agency initiates an action or proceeding to withdraw designation of an area agency on aging.
+(a) This section sets forth hearing procedures afforded to affected parties if the State agency initiates an action or proceeding to withdraw designation of an area agency on aging. 
 
 (b) Any area agency on aging that has appealed a State agency's decision to withdraw area agency on aging designation, and that has been provided a hearing and a written decision, may appeal the decision to the Departmental Appeals Board in writing following receipt of the State agency's written decision, in accordance with the procedures set forth in 45 CFR part 16. The applicant must, at the time of filing an appeal with the DAB, mail a copy of the appeal to the State agency and include a certificate of service with its initial filing. The DAB may refer an appeal to its Alternative Dispute Resolution Division for mediation prior to making a decision.

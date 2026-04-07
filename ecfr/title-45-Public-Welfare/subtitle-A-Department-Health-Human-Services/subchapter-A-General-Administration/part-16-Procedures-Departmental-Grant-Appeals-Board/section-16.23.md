@@ -1,6 +1,6 @@
 ##### § 16.23 How long an appeal takes.
 
-The Board has established general goals for its consideration of cases, as follows (measured from the point when the Board receives the first submission after the notice of appeal):
+The Board has established general goals for its consideration of cases, as follows (measured from the point when the Board receives the first submission after the notice of appeal): 
 
 —For regular review based on a written record under § 16.8, 6 months. When a conference under § 16.10 is held, the goal remains at 6 months, unless a requirement for post-conference briefing in a particular case renders the goal unrealistic. —For cases involving a hearing under § 16.11, 9 months. —For the expedited process under § 16.12, 3 months.
 

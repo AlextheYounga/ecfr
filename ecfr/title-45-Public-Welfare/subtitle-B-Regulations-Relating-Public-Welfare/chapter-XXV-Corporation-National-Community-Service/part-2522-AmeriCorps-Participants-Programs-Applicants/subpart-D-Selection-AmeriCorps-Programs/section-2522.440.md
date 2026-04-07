@@ -1,6 +1,6 @@
 ##### § 2522.440 What weight does AmeriCorps give to each category of the basic criteria?
 
-In evaluating applications, AmeriCorps assigns the following weights for each category:
+In evaluating applications, AmeriCorps assigns the following weights for each category: 
 
 | Category                               | Percentage |
 | -------------------------------------- | ---------- |

@@ -1,6 +1,6 @@
 ##### § 81.131 Definitions.
 
-The definitions contained in § 80.13 of this subtitle apply to this part, unless the context otherwise requires, and the term *reviewing authority* as used herein includes the Secretary of Health and Human Services, with respect to action by that official under § 81.106.
+The definitions contained in § 80.13 of this subtitle apply to this part, unless the context otherwise requires, and the term *reviewing authority* as used herein includes the Secretary of Health and Human Services, with respect to action by that official under § 81.106. 
 
 Transition provisions: (a) The amendments herein shall become effective upon publication in the Federal Register.
 

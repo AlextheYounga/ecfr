@@ -1,14 +1,14 @@
 ##### § 2507.18 Requester categories and fees charged.
 
-(a) The FOIA establishes the following categories of requesters and, depending on the category, these types of fees to be paid:
+(a) The FOIA establishes the following categories of requesters and, depending on the category, these types of fees to be paid: 
 
-(1) Commercial use requesters: these pay search, review, and duplication fees.
+(1) Commercial use requesters: these pay search, review, and duplication fees. 
 
-(2) Non-commercial scientific institutions, educational institutions whose purpose is scholarly or scientific research, or news media requesters: these pay only duplication fees.
+(2) Non-commercial scientific institutions, educational institutions whose purpose is scholarly or scientific research, or news media requesters: these pay only duplication fees. 
 
-(3) All other requesters: these pay search and duplication fees.
+(3) All other requesters: these pay search and duplication fees. 
 
-(b) The fee schedule for search, review, and duplication is as follows:
+(b) The fee schedule for search, review, and duplication is as follows: 
 
 Table 1 to Paragraph (b)
 | Requester                                            | Search fee                                                | Review fee      | Duplication fee                                                          |

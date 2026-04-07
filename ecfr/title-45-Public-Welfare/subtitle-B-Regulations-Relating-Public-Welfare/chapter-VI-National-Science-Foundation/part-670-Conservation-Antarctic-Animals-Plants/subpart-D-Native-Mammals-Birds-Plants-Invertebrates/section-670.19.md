@@ -1,6 +1,6 @@
 ##### § 670.19 Designation of native mammals.
 
-The following are designated native mammals:
+The following are designated native mammals: 
 
 Pinnipeds: Crabeater seal—*Lobodon carcinophagus.*Leopard seal—*Hydrurga leptonyx.*Ross seal—*Ommatophoca rossi.*1
 

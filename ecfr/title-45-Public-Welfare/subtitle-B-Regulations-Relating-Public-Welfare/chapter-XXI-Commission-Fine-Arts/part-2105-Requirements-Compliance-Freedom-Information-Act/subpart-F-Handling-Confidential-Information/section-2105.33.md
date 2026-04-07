@@ -1,9 +1,9 @@
 ##### § 2105.33 Will you receive notification of activities involving the submitter?
 
-If any of the following occur, the Agency will notify you:
+If any of the following occur, the Agency will notify you: 
 
-(a) The Agency provides the submitter with notice and an opportunity to object to disclosure;
+(a) The Agency provides the submitter with notice and an opportunity to object to disclosure; 
 
-(b) The Agency notifies the submitter of its intent to disclose the requested information; or
+(b) The Agency notifies the submitter of its intent to disclose the requested information; or 
 
 (c) A submitter files a lawsuit to prevent the disclosure of the information.

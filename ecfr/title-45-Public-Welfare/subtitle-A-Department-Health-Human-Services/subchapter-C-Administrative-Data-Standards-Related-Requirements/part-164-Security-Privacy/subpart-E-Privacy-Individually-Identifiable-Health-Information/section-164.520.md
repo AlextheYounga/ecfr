@@ -1,157 +1,157 @@
 ##### § 164.520 Notice of privacy practices for protected health information.
 
-(a) *Standard: Notice of privacy practices*—(1) *Right to notice.* Except as provided by paragraph (a)(3) or (4) of this section, an individual has a right to adequate notice of the uses and disclosures of protected health information that may be made by the covered entity, and of the individual's rights and the covered entity's legal duties with respect to protected health information.
+(a) *Standard: Notice of privacy practices*—(1) *Right to notice.* Except as provided by paragraph (a)(3) or (4) of this section, an individual has a right to adequate notice of the uses and disclosures of protected health information that may be made by the covered entity, and of the individual's rights and the covered entity's legal duties with respect to protected health information. 
 
-(2) *Notice requirements for covered entities creating or maintaining records subject to 42 U.S.C. 290dd-2.* As provided in 42 CFR 2.22, an individual who is the subject of records protected under 42 CFR part 2 has a right to adequate notice of the uses and disclosures of such records, and of the individual's rights and the covered entity's legal duties with respect to such records.
+(2) *Notice requirements for covered entities creating or maintaining records subject to 42 U.S.C. 290dd-2.* As provided in 42 CFR 2.22, an individual who is the subject of records protected under 42 CFR part 2 has a right to adequate notice of the uses and disclosures of such records, and of the individual's rights and the covered entity's legal duties with respect to such records. 
 
-(3) *Exception for group health plans.* (i) An individual enrolled in a group health plan has a right to notice:
+(3) *Exception for group health plans.* (i) An individual enrolled in a group health plan has a right to notice: 
 
-(A) From the group health plan, if, and to the extent that, such an individual does not receive health benefits under the group health plan through an insurance contract with a health insurance issuer or HMO; or
+(A) From the group health plan, if, and to the extent that, such an individual does not receive health benefits under the group health plan through an insurance contract with a health insurance issuer or HMO; or 
 
-(B) From the health insurance issuer or HMO with respect to the group health plan through which such individuals receive their health benefits under the group health plan.
+(B) From the health insurance issuer or HMO with respect to the group health plan through which such individuals receive their health benefits under the group health plan. 
 
-(ii) A group health plan that provides health benefits solely through an insurance contract with a health insurance issuer or HMO, and that creates or receives protected health information in addition to summary health information as defined in § 164.504(a) or information on whether the individual is participating in the group health plan, or is enrolled in or has disenrolled from a health insurance issuer or HMO offered by the plan, must:
+(ii) A group health plan that provides health benefits solely through an insurance contract with a health insurance issuer or HMO, and that creates or receives protected health information in addition to summary health information as defined in § 164.504(a) or information on whether the individual is participating in the group health plan, or is enrolled in or has disenrolled from a health insurance issuer or HMO offered by the plan, must: 
 
-(A) Maintain a notice under this section; and
+(A) Maintain a notice under this section; and 
 
-(B) Provide such notice upon request to any person. The provisions of paragraph (c)(1) of this section do not apply to such group health plan.
+(B) Provide such notice upon request to any person. The provisions of paragraph (c)(1) of this section do not apply to such group health plan. 
 
-(iii) A group health plan that provides health benefits solely through an insurance contract with a health insurance issuer or HMO, and does not create or receive protected health information other than summary health information as defined in § 164.504(a) or information on whether an individual is participating in the group health plan, or is enrolled in or has disenrolled from a health insurance issuer or HMO offered by the plan, is not required to maintain or provide a notice under this section.
+(iii) A group health plan that provides health benefits solely through an insurance contract with a health insurance issuer or HMO, and does not create or receive protected health information other than summary health information as defined in § 164.504(a) or information on whether an individual is participating in the group health plan, or is enrolled in or has disenrolled from a health insurance issuer or HMO offered by the plan, is not required to maintain or provide a notice under this section. 
 
-(4) *Exception for inmates.* An inmate does not have a right to notice under this section, and the requirements of this section do not apply to a correctional institution that is a covered entity.
+(4) *Exception for inmates.* An inmate does not have a right to notice under this section, and the requirements of this section do not apply to a correctional institution that is a covered entity. 
 
-(b) *Implementation specifications: Content of notice*—(1) *Required elements.* The covered entity, including any covered entity receiving or maintaining records subject to 42 U.S.C. 290dd-2, must provide a notice that is written in plain language and that contains the elements required by this paragraph.
+(b) *Implementation specifications: Content of notice*—(1) *Required elements.* The covered entity, including any covered entity receiving or maintaining records subject to 42 U.S.C. 290dd-2, must provide a notice that is written in plain language and that contains the elements required by this paragraph. 
 
-(i) *Header.* The notice must contain the following statement as a header or otherwise prominently displayed:
+(i) *Header.* The notice must contain the following statement as a header or otherwise prominently displayed: 
 
 “THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.”
 
-(ii) *Uses and disclosures.* The notice must contain:
+(ii) *Uses and disclosures.* The notice must contain: 
 
-(A) A description, including at least one example, of the types of uses and disclosures that the covered entity is permitted by this subpart to make for each of the following purposes: treatment, payment, and health care operations.
+(A) A description, including at least one example, of the types of uses and disclosures that the covered entity is permitted by this subpart to make for each of the following purposes: treatment, payment, and health care operations. 
 
-(B) A description of each of the other purposes for which the covered entity is permitted or required by this subpart to use or disclose protected health information without the individual's written authorization.
+(B) A description of each of the other purposes for which the covered entity is permitted or required by this subpart to use or disclose protected health information without the individual's written authorization. 
 
-(C) If a use or disclosure for any purpose described in paragraphs (b)(1)(ii)(A) or (B) of this section is prohibited or materially limited by other applicable law, such as 42 CFR part 2, the description of such use or disclosure must reflect the more stringent law as defined in § 160.202 of this subchapter.
+(C) If a use or disclosure for any purpose described in paragraphs (b)(1)(ii)(A) or (B) of this section is prohibited or materially limited by other applicable law, such as 42 CFR part 2, the description of such use or disclosure must reflect the more stringent law as defined in § 160.202 of this subchapter. 
 
-(D) For each purpose described in paragraph (b)(1)(ii)(A) or (B) of this section, the description must include sufficient detail to place the individual on notice of the uses and disclosures that are permitted or required by this subpart and other applicable law, such as 42 CFR part 2.
+(D) For each purpose described in paragraph (b)(1)(ii)(A) or (B) of this section, the description must include sufficient detail to place the individual on notice of the uses and disclosures that are permitted or required by this subpart and other applicable law, such as 42 CFR part 2. 
 
-(E) A description of the types of uses and disclosures that require an authorization under § 164.508(a)(2)-(a)(4), a statement that other uses and disclosures not described in the notice will be made only with the individual's written authorization, and a statement that the individual may revoke an authorization as provided by § 164.508(b)(5).
+(E) A description of the types of uses and disclosures that require an authorization under § 164.508(a)(2)-(a)(4), a statement that other uses and disclosures not described in the notice will be made only with the individual's written authorization, and a statement that the individual may revoke an authorization as provided by § 164.508(b)(5). 
 
-(F) A description, including at least one example, of the types of uses and disclosures prohibited under § 164.502(a)(5)(iii) in sufficient detail for an individual to understand the prohibition.
+(F) A description, including at least one example, of the types of uses and disclosures prohibited under § 164.502(a)(5)(iii) in sufficient detail for an individual to understand the prohibition. 
 
-(G) A description, including at least one example, of the types of uses and disclosures for which an attestation is required under § 164.509.
+(G) A description, including at least one example, of the types of uses and disclosures for which an attestation is required under § 164.509. 
 
-(H) A statement adequate to put the individual on notice of the potential for information disclosed pursuant to this subpart to be subject to redisclosure by the recipient and no longer protected by this subpart
+(H) A statement adequate to put the individual on notice of the potential for information disclosed pursuant to this subpart to be subject to redisclosure by the recipient and no longer protected by this subpart 
 
-(iii) *Separate statements for certain uses or disclosures.* If the covered entity intends to engage in any of the following activities, the description required by paragraph (b)(1)(ii)(A) or (B) of this section must include a separate statement informing the individual of such activities, as applicable:
+(iii) *Separate statements for certain uses or disclosures.* If the covered entity intends to engage in any of the following activities, the description required by paragraph (b)(1)(ii)(A) or (B) of this section must include a separate statement informing the individual of such activities, as applicable: 
 
-(A) In accordance with § 164.514(f)(1), the covered entity may contact the individual to raise funds for the covered entity and the individual has a right to opt out of receiving such communications;
+(A) In accordance with § 164.514(f)(1), the covered entity may contact the individual to raise funds for the covered entity and the individual has a right to opt out of receiving such communications; 
 
-(B) In accordance with § 164.504(f), the group health plan, or a health insurance issuer or HMO with respect to a group health plan, may disclose protected health information to the sponsor of the plan;
+(B) In accordance with § 164.504(f), the group health plan, or a health insurance issuer or HMO with respect to a group health plan, may disclose protected health information to the sponsor of the plan; 
 
-(C) If a covered entity that is a health plan, excluding an issuer of a long-term care policy falling within paragraph (1)(viii) of the definition of *health plan,* intends to use or disclose protected health information for underwriting purposes, a statement that the covered entity is prohibited from using or disclosing protected health information that is genetic information of an individual for such purposes;
+(C) If a covered entity that is a health plan, excluding an issuer of a long-term care policy falling within paragraph (1)(viii) of the definition of *health plan,* intends to use or disclose protected health information for underwriting purposes, a statement that the covered entity is prohibited from using or disclosing protected health information that is genetic information of an individual for such purposes; 
 
-(D) Substance use disorder treatment records received from programs subject to 42 CFR part 2, or testimony relaying the content of such records, shall not be used or disclosed in civil, criminal, administrative, or legislative proceedings against the individual unless based on written consent, or a court order after notice and an opportunity to be heard is provided to the individual or the holder of the record, as provided in 42 CFR part 2. A court order authorizing use or disclosure must be accompanied by a subpoena or other legal requirement compelling disclosure before the requested record is used or disclosed; or
+(D) Substance use disorder treatment records received from programs subject to 42 CFR part 2, or testimony relaying the content of such records, shall not be used or disclosed in civil, criminal, administrative, or legislative proceedings against the individual unless based on written consent, or a court order after notice and an opportunity to be heard is provided to the individual or the holder of the record, as provided in 42 CFR part 2. A court order authorizing use or disclosure must be accompanied by a subpoena or other legal requirement compelling disclosure before the requested record is used or disclosed; or 
 
-(E) If a covered entity that creates or maintains records subject to 42 CFR part 2 intends to use or disclose such records for fundraising for the benefit of the covered entity, the individual must first be provided with a clear and conspicuous opportunity to elect not to receive any fundraising communications.
+(E) If a covered entity that creates or maintains records subject to 42 CFR part 2 intends to use or disclose such records for fundraising for the benefit of the covered entity, the individual must first be provided with a clear and conspicuous opportunity to elect not to receive any fundraising communications. 
 
-(iv) *Individual rights.* The notice must contain a statement of the individual's rights with respect to protected health information and a brief description of how the individual may exercise these rights, as follows:
+(iv) *Individual rights.* The notice must contain a statement of the individual's rights with respect to protected health information and a brief description of how the individual may exercise these rights, as follows: 
 
-(A) The right to request restrictions on certain uses and disclosures of protected health information as provided by § 164.522(a), including a statement that the covered entity is not required to agree to a requested restriction, except in case of a disclosure restricted under § 164.522(a)(1)(vi);
+(A) The right to request restrictions on certain uses and disclosures of protected health information as provided by § 164.522(a), including a statement that the covered entity is not required to agree to a requested restriction, except in case of a disclosure restricted under § 164.522(a)(1)(vi); 
 
-(B) The right to receive confidential communications of protected health information as provided by § 164.522(b), as applicable;
+(B) The right to receive confidential communications of protected health information as provided by § 164.522(b), as applicable; 
 
-(C) The right to inspect and copy protected health information as provided by § 164.524;
+(C) The right to inspect and copy protected health information as provided by § 164.524; 
 
-(D) The right to amend protected health information as provided by § 164.526;
+(D) The right to amend protected health information as provided by § 164.526; 
 
-(E) The right to receive an accounting of disclosures of protected health information as provided by § 164.528; and
+(E) The right to receive an accounting of disclosures of protected health information as provided by § 164.528; and 
 
-(F) The right of an individual, including an individual who has agreed to receive the notice electronically in accordance with paragraph (c)(3) of this section, to obtain a paper copy of the notice from the covered entity upon request.
+(F) The right of an individual, including an individual who has agreed to receive the notice electronically in accordance with paragraph (c)(3) of this section, to obtain a paper copy of the notice from the covered entity upon request. 
 
-(v) *Covered entity's duties.* The notice must contain:
+(v) *Covered entity's duties.* The notice must contain: 
 
-(A) A statement that the covered entity is required by law to maintain the privacy of protected health information, to provide individuals with notice of its legal duties and privacy practices, and to notify affected individuals following a breach of unsecured protected health information;
+(A) A statement that the covered entity is required by law to maintain the privacy of protected health information, to provide individuals with notice of its legal duties and privacy practices, and to notify affected individuals following a breach of unsecured protected health information; 
 
-(B) A statement that the covered entity is required to abide by the terms of the notice currently in effect; and
+(B) A statement that the covered entity is required to abide by the terms of the notice currently in effect; and 
 
-(C) For the covered entity to apply a change in a privacy practice that is described in the notice to protected health information that the covered entity created or received prior to issuing a revised notice, in accordance with § 164.530(i)(2)(ii), a statement that it reserves the right to change the terms of its notice and to make the new notice provisions effective for all protected health information that it maintains. The statement must also describe how it will provide individuals with a revised notice.
+(C) For the covered entity to apply a change in a privacy practice that is described in the notice to protected health information that the covered entity created or received prior to issuing a revised notice, in accordance with § 164.530(i)(2)(ii), a statement that it reserves the right to change the terms of its notice and to make the new notice provisions effective for all protected health information that it maintains. The statement must also describe how it will provide individuals with a revised notice. 
 
-(vi) *Complaints.* The notice must contain a statement that individuals may complain to the covered entity and to the Secretary if they believe their privacy rights have been violated, a brief description of how the individual may file a complaint with the covered entity, and a statement that the individual will not be retaliated against for filing a complaint.
+(vi) *Complaints.* The notice must contain a statement that individuals may complain to the covered entity and to the Secretary if they believe their privacy rights have been violated, a brief description of how the individual may file a complaint with the covered entity, and a statement that the individual will not be retaliated against for filing a complaint. 
 
-(vii) *Contact.* The notice must contain the name, or title, and telephone number of a person or office to contact for further information as required by § 164.530(a)(1)(ii).
+(vii) *Contact.* The notice must contain the name, or title, and telephone number of a person or office to contact for further information as required by § 164.530(a)(1)(ii). 
 
-(viii) *Effective date.* The notice must contain the date on which the notice is first in effect, which may not be earlier than the date on which the notice is printed or otherwise published.
+(viii) *Effective date.* The notice must contain the date on which the notice is first in effect, which may not be earlier than the date on which the notice is printed or otherwise published. 
 
-(2) *Optional elements.* (i) In addition to the information required by paragraph (b)(1) of this section, if a covered entity elects to limit the uses or disclosures that it is permitted to make under this subpart, the covered entity may describe its more limited uses or disclosures in its notice, provided that the covered entity may not include in its notice a limitation affecting its right to make a use or disclosure that is required by law or permitted by § 164.512(j)(1)(i).
+(2) *Optional elements.* (i) In addition to the information required by paragraph (b)(1) of this section, if a covered entity elects to limit the uses or disclosures that it is permitted to make under this subpart, the covered entity may describe its more limited uses or disclosures in its notice, provided that the covered entity may not include in its notice a limitation affecting its right to make a use or disclosure that is required by law or permitted by § 164.512(j)(1)(i). 
 
-(ii) For the covered entity to apply a change in its more limited uses and disclosures to protected health information created or received prior to issuing a revised notice, in accordance with § 164.530(i)(2)(ii), the notice must include the statements required by paragraph (b)(1)(v)(C) of this section.
+(ii) For the covered entity to apply a change in its more limited uses and disclosures to protected health information created or received prior to issuing a revised notice, in accordance with § 164.530(i)(2)(ii), the notice must include the statements required by paragraph (b)(1)(v)(C) of this section. 
 
-(3) *Revisions to the notice.* The covered entity must promptly revise and distribute its notice whenever there is a material change to the uses or disclosures, the individual's rights, the covered entity's legal duties, or other privacy practices stated in the notice. Except when required by law, a material change to any term of the notice may not be implemented prior to the effective date of the notice in which such material change is reflected.
+(3) *Revisions to the notice.* The covered entity must promptly revise and distribute its notice whenever there is a material change to the uses or disclosures, the individual's rights, the covered entity's legal duties, or other privacy practices stated in the notice. Except when required by law, a material change to any term of the notice may not be implemented prior to the effective date of the notice in which such material change is reflected. 
 
-(c) *Implementation specifications: Provision of notice.* A covered entity must make the notice required by this section available on request to any person and to individuals as specified in paragraphs (c)(1) through (c)(3) of this section, as applicable.
+(c) *Implementation specifications: Provision of notice.* A covered entity must make the notice required by this section available on request to any person and to individuals as specified in paragraphs (c)(1) through (c)(3) of this section, as applicable. 
 
-(1) *Specific requirements for health plans.* (i) A health plan must provide the notice:
+(1) *Specific requirements for health plans.* (i) A health plan must provide the notice: 
 
-(A) No later than the compliance date for the health plan, to individuals then covered by the plan;
+(A) No later than the compliance date for the health plan, to individuals then covered by the plan; 
 
-(B) Thereafter, at the time of enrollment, to individuals who are new enrollees.
+(B) Thereafter, at the time of enrollment, to individuals who are new enrollees. 
 
-(ii) No less frequently than once every three years, the health plan must notify individuals then covered by the plan of the availability of the notice and how to obtain the notice.
+(ii) No less frequently than once every three years, the health plan must notify individuals then covered by the plan of the availability of the notice and how to obtain the notice. 
 
-(iii) The health plan satisfies the requirements of paragraph (c)(1) of this section if notice is provided to the named insured of a policy under which coverage is provided to the named insured and one or more dependents.
+(iii) The health plan satisfies the requirements of paragraph (c)(1) of this section if notice is provided to the named insured of a policy under which coverage is provided to the named insured and one or more dependents. 
 
-(iv) If a health plan has more than one notice, it satisfies the requirements of paragraph (c)(1) of this section by providing the notice that is relevant to the individual or other person requesting the notice.
+(iv) If a health plan has more than one notice, it satisfies the requirements of paragraph (c)(1) of this section by providing the notice that is relevant to the individual or other person requesting the notice. 
 
-(v) If there is a material change to the notice:
+(v) If there is a material change to the notice: 
 
-(A) A health plan that posts its notice on its web site in accordance with paragraph (c)(3)(i) of this section must prominently post the change or its revised notice on its web site by the effective date of the material change to the notice, and provide the revised notice, or information about the material change and how to obtain the revised notice, in its next annual mailing to individuals then covered by the plan.
+(A) A health plan that posts its notice on its web site in accordance with paragraph (c)(3)(i) of this section must prominently post the change or its revised notice on its web site by the effective date of the material change to the notice, and provide the revised notice, or information about the material change and how to obtain the revised notice, in its next annual mailing to individuals then covered by the plan. 
 
-(B) A health plan that does not post its notice on a web site pursuant to paragraph (c)(3)(i) of this section must provide the revised notice, or information about the material change and how to obtain the revised notice, to individuals then covered by the plan within 60 days of the material revision to the notice.
+(B) A health plan that does not post its notice on a web site pursuant to paragraph (c)(3)(i) of this section must provide the revised notice, or information about the material change and how to obtain the revised notice, to individuals then covered by the plan within 60 days of the material revision to the notice. 
 
-(2) *Specific requirements for certain covered health care providers.* A covered health care provider that has a direct treatment relationship with an individual must:
+(2) *Specific requirements for certain covered health care providers.* A covered health care provider that has a direct treatment relationship with an individual must: 
 
-(i) Provide the notice:
+(i) Provide the notice: 
 
-(A) No later than the date of the first service delivery, including service delivered electronically, to such individual after the compliance date for the covered health care provider; or
+(A) No later than the date of the first service delivery, including service delivered electronically, to such individual after the compliance date for the covered health care provider; or 
 
-(B) In an emergency treatment situation, as soon as reasonably practicable after the emergency treatment situation.
+(B) In an emergency treatment situation, as soon as reasonably practicable after the emergency treatment situation. 
 
-(ii) Except in an emergency treatment situation, make a good faith effort to obtain a written acknowledgment of receipt of the notice provided in accordance with paragraph (c)(2)(i) of this section, and if not obtained, document its good faith efforts to obtain such acknowledgment and the reason why the acknowledgment was not obtained;
+(ii) Except in an emergency treatment situation, make a good faith effort to obtain a written acknowledgment of receipt of the notice provided in accordance with paragraph (c)(2)(i) of this section, and if not obtained, document its good faith efforts to obtain such acknowledgment and the reason why the acknowledgment was not obtained; 
 
-(iii) If the covered health care provider maintains a physical service delivery site:
+(iii) If the covered health care provider maintains a physical service delivery site: 
 
-(A) Have the notice available at the service delivery site for individuals to request to take with them; and
+(A) Have the notice available at the service delivery site for individuals to request to take with them; and 
 
-(B) Post the notice in a clear and prominent location where it is reasonable to expect individuals seeking service from the covered health care provider to be able to read the notice; and
+(B) Post the notice in a clear and prominent location where it is reasonable to expect individuals seeking service from the covered health care provider to be able to read the notice; and 
 
-(iv) Whenever the notice is revised, make the notice available upon request on or after the effective date of the revision and promptly comply with the requirements of paragraph (c)(2)(iii) of this section, if applicable.
+(iv) Whenever the notice is revised, make the notice available upon request on or after the effective date of the revision and promptly comply with the requirements of paragraph (c)(2)(iii) of this section, if applicable. 
 
-(3) *Specific requirements for electronic notice.* (i) A covered entity that maintains a web site that provides information about the covered entity's customer services or benefits must prominently post its notice on the web site and make the notice available electronically through the web site.
+(3) *Specific requirements for electronic notice.* (i) A covered entity that maintains a web site that provides information about the covered entity's customer services or benefits must prominently post its notice on the web site and make the notice available electronically through the web site. 
 
-(ii) A covered entity may provide the notice required by this section to an individual by e-mail, if the individual agrees to electronic notice and such agreement has not been withdrawn. If the covered entity knows that the e-mail transmission has failed, a paper copy of the notice must be provided to the individual. Provision of electronic notice by the covered entity will satisfy the provision requirements of paragraph (c) of this section when timely made in accordance with paragraph (c)(1) or (2) of this section.
+(ii) A covered entity may provide the notice required by this section to an individual by e-mail, if the individual agrees to electronic notice and such agreement has not been withdrawn. If the covered entity knows that the e-mail transmission has failed, a paper copy of the notice must be provided to the individual. Provision of electronic notice by the covered entity will satisfy the provision requirements of paragraph (c) of this section when timely made in accordance with paragraph (c)(1) or (2) of this section. 
 
-(iii) For purposes of paragraph (c)(2)(i) of this section, if the first service delivery to an individual is delivered electronically, the covered health care provider must provide electronic notice automatically and contemporaneously in response to the individual's first request for service. The requirements in paragraph (c)(2)(ii) of this section apply to electronic notice.
+(iii) For purposes of paragraph (c)(2)(i) of this section, if the first service delivery to an individual is delivered electronically, the covered health care provider must provide electronic notice automatically and contemporaneously in response to the individual's first request for service. The requirements in paragraph (c)(2)(ii) of this section apply to electronic notice. 
 
-(iv) The individual who is the recipient of electronic notice retains the right to obtain a paper copy of the notice from a covered entity upon request.
+(iv) The individual who is the recipient of electronic notice retains the right to obtain a paper copy of the notice from a covered entity upon request. 
 
-(d) *Implementation specifications: Joint notice by separate covered entities.* Covered entities that participate in organized health care arrangements may comply with this section by a joint notice, provided that:
+(d) *Implementation specifications: Joint notice by separate covered entities.* Covered entities that participate in organized health care arrangements may comply with this section by a joint notice, provided that: 
 
-(1) The covered entities participating in the organized health care arrangement agree to abide by the terms of the notice with respect to protected health information created or received by the covered entity as part of its participation in the organized health care arrangement;
+(1) The covered entities participating in the organized health care arrangement agree to abide by the terms of the notice with respect to protected health information created or received by the covered entity as part of its participation in the organized health care arrangement; 
 
-(2) The joint notice meets the implementation specifications in paragraph (b) of this section, except that the statements required by this section may be altered to reflect the fact that the notice covers more than one covered entity; and
+(2) The joint notice meets the implementation specifications in paragraph (b) of this section, except that the statements required by this section may be altered to reflect the fact that the notice covers more than one covered entity; and 
 
-(i) Describes with reasonable specificity the covered entities, or class of entities, to which the joint notice applies;
+(i) Describes with reasonable specificity the covered entities, or class of entities, to which the joint notice applies; 
 
-(ii) Describes with reasonable specificity the service delivery sites, or classes of service delivery sites, to which the joint notice applies; and
+(ii) Describes with reasonable specificity the service delivery sites, or classes of service delivery sites, to which the joint notice applies; and 
 
-(iii) If applicable, states that the covered entities participating in the organized health care arrangement will share protected health information with each other, as necessary to carry out treatment, payment, or health care operations relating to the organized health care arrangement.
+(iii) If applicable, states that the covered entities participating in the organized health care arrangement will share protected health information with each other, as necessary to carry out treatment, payment, or health care operations relating to the organized health care arrangement. 
 
-(3) The covered entities included in the joint notice must provide the notice to individuals in accordance with the applicable implementation specifications of paragraph (c) of this section. Provision of the joint notice to an individual by any one of the covered entities included in the joint notice will satisfy the provision requirement of paragraph (c) of this section with respect to all others covered by the joint notice.
+(3) The covered entities included in the joint notice must provide the notice to individuals in accordance with the applicable implementation specifications of paragraph (c) of this section. Provision of the joint notice to an individual by any one of the covered entities included in the joint notice will satisfy the provision requirement of paragraph (c) of this section with respect to all others covered by the joint notice. 
 
-(4) The permission in paragraph (d) of this section for covered entities that participate in an organized health care arrangement to issue a joint notice may not be construed to remove any obligations or duties of entities creating or maintaining records subject to 42 U.S.C. 290dd-2, or to remove any rights of patients who are the subjects of such records.
+(4) The permission in paragraph (d) of this section for covered entities that participate in an organized health care arrangement to issue a joint notice may not be construed to remove any obligations or duties of entities creating or maintaining records subject to 42 U.S.C. 290dd-2, or to remove any rights of patients who are the subjects of such records. 
 
-(e) *Implementation specifications: Documentation.* A covered entity must document compliance with the notice requirements, as required by § 164.530(j), by retaining copies of the notices issued by the covered entity and, if applicable, any written acknowledgments of receipt of the notice or documentation of good faith efforts to obtain such written acknowledgment, in accordance with paragraph (c)(2)(ii) of this section.
+(e) *Implementation specifications: Documentation.* A covered entity must document compliance with the notice requirements, as required by § 164.530(j), by retaining copies of the notices issued by the covered entity and, if applicable, any written acknowledgments of receipt of the notice or documentation of good faith efforts to obtain such written acknowledgment, in accordance with paragraph (c)(2)(ii) of this section. 
 
 \[65 FR 82802, Dec. 28, 2000, as amended at 67 FR 53271, Aug. 14, 2002; 78 FR 5701, Jan. 25, 2013; 89 FR 33064, Apr. 26, 2024\]

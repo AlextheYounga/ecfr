@@ -1,6 +1,6 @@
 ##### § 2500.12 Region offices.
 
-AmeriCorps' Office of Regional Operations and AmeriCorps NCCC each have a regional structure.
+AmeriCorps' Office of Regional Operations and AmeriCorps NCCC each have a regional structure. 
 
 (a) AmeriCorps' Region Offices, within the Office of Regional Operations, serve assigned States and Territories across eight regions. The AmeriCorps website contains contact information for each of these Region Offices at *www.americorps.gov/contact/region-offices.*
 

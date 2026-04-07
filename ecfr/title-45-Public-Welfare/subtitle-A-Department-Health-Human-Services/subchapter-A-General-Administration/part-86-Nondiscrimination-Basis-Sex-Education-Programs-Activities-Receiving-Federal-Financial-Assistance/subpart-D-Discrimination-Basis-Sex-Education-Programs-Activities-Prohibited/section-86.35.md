@@ -1,9 +1,9 @@
 ##### § 86.35 Access to schools operated by L.E.A.s.
 
-A recipient which is a local educational agency shall not, on the basis of sex, exclude any person from admission to:
+A recipient which is a local educational agency shall not, on the basis of sex, exclude any person from admission to: 
 
-(a) Any institution of vocational education operated by such recipient; or
+(a) Any institution of vocational education operated by such recipient; or 
 
-(b) Any other school or educational unit operated by such recipient, unless such recipient otherwise makes available to such person, pursuant to the same policies and criteria of admission, courses, services, and facilities comparable to each course, service, and facility offered in or through such schools.
+(b) Any other school or educational unit operated by such recipient, unless such recipient otherwise makes available to such person, pursuant to the same policies and criteria of admission, courses, services, and facilities comparable to each course, service, and facility offered in or through such schools. 
 
 (Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)

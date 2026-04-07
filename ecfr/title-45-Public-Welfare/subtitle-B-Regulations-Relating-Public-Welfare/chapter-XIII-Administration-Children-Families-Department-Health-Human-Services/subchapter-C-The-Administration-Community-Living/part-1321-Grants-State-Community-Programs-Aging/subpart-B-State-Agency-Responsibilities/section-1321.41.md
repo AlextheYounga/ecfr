@@ -1,5 +1,5 @@
 ##### § 1321.41 When a disapproval decision is effective.
 
-(a) The Assistant Secretary for Aging shall specify the effective date for reduction and withholding of the State agency's grant upon a disapproval decision from the Departmental Appeals Board. This effective date may not be earlier than the date of the Departmental Appeals Board's decision or later than the first day of the next calendar quarter.
+(a) The Assistant Secretary for Aging shall specify the effective date for reduction and withholding of the State agency's grant upon a disapproval decision from the Departmental Appeals Board. This effective date may not be earlier than the date of the Departmental Appeals Board's decision or later than the first day of the next calendar quarter. 
 
 (b) A disapproval decision issued by the DAB represents the final determination of the Assistant Secretary for Aging and shall remain in effect unless reversed or stayed on judicial appeal, or until the agency or the plan is changed to meet all Federal requirements, except that the Assistant Secretary for Aging may modify or set aside the decision before the record of the proceedings under this subpart is filed in court.

@@ -2,56 +2,56 @@
 
 *Act.* The Domestic Volunteer Service Act of 1973, as amended, Public Law 93-113, Oct. 1, 1973, 87 Stat. 396, 42 U.S.C. 4950 *et seq.*
 
-*Adequate staffing level.* The number of project staff or full-time equivalent needed by a sponsor to manage the AmeriCorps Seniors project operations considering such factors as: Number of budgeted Volunteer Service Years (VSYs), number of volunteer stations, and the size of the service area.
+*Adequate staffing level.* The number of project staff or full-time equivalent needed by a sponsor to manage the AmeriCorps Seniors project operations considering such factors as: Number of budgeted Volunteer Service Years (VSYs), number of volunteer stations, and the size of the service area. 
 
-*AmeriCorps.* The Corporation for National and Community Service, established pursuant to section 191 of the National and Community Service Act of 1990, as amended, 42 U.S.C. 12651, which operates as AmeriCorps.
+*AmeriCorps.* The Corporation for National and Community Service, established pursuant to section 191 of the National and Community Service Act of 1990, as amended, 42 U.S.C. 12651, which operates as AmeriCorps. 
 
-*AmeriCorps Seniors.* The collective name for the Senior Companion Program (SCP), the Foster Grandparent Program (FGP), the Retired and Senior Volunteer Program (RSVP), and Demonstration Programs, all of which are established under Parts A, B, C, and E, Title II of the Act.
+*AmeriCorps Seniors.* The collective name for the Senior Companion Program (SCP), the Foster Grandparent Program (FGP), the Retired and Senior Volunteer Program (RSVP), and Demonstration Programs, all of which are established under Parts A, B, C, and E, Title II of the Act. 
 
-*Annual income.* The applicant's or enrollee's total income, as calculated in § 2552.44, over the preceding 12 months.
+*Annual income.* The applicant's or enrollee's total income, as calculated in § 2552.44, over the preceding 12 months. 
 
 *Chief Executive Officer.* The Chief Executive Officer of AmeriCorps appointed under the National and Community Service Act of 1990, as amended, (NCSA), 42 U.S.C. 12501 *et seq.*
 
-*Child.* Any individual who is less than 21 years of age.
+*Child.* Any individual who is less than 21 years of age. 
 
-*Children having exceptional needs.* Children who have a developmental disability, such as those who have autism; an intellectual disability; cerebral palsy or epilepsy; a visual, speech, hearing, or orthopedic impairment; an emotional, behavioral, or language disorder; a specific learning disability; multiple disabilities; other significant health impairments; or have literacy, math or other educational assistance needs. Before a Foster Grandparent is assigned to a child, existence of the child's exceptional need shall be verified by an appropriate professional, such as a physician; psychiatrist; psychologist, including school psychologists; registered nurse or licensed practical nurse; speech therapist; licensed clinical social worker; or educator.
+*Children having exceptional needs.* Children who have a developmental disability, such as those who have autism; an intellectual disability; cerebral palsy or epilepsy; a visual, speech, hearing, or orthopedic impairment; an emotional, behavioral, or language disorder; a specific learning disability; multiple disabilities; other significant health impairments; or have literacy, math or other educational assistance needs. Before a Foster Grandparent is assigned to a child, existence of the child's exceptional need shall be verified by an appropriate professional, such as a physician; psychiatrist; psychologist, including school psychologists; registered nurse or licensed practical nurse; speech therapist; licensed clinical social worker; or educator. 
 
-*Children with special needs.* Children who are abused or neglected, in need of foster care, adjudicated youth, homeless youth, teenage parents, and children in need of protective intervention in their homes. Existence of a child's special need shall be verified by an appropriate professional before a Foster Grandparent is assigned to the child.
+*Children with special needs.* Children who are abused or neglected, in need of foster care, adjudicated youth, homeless youth, teenage parents, and children in need of protective intervention in their homes. Existence of a child's special need shall be verified by an appropriate professional before a Foster Grandparent is assigned to the child. 
 
-*Cost reimbursements.* Reimbursements budgeted as Volunteer Expenses and provided to volunteers, including stipends to cover incidental costs; transportation; meals; recognition; supplemental accident, personal liability and excess automobile liability insurance; and other expenses as negotiated in the Memorandum of Understanding.
+*Cost reimbursements.* Reimbursements budgeted as Volunteer Expenses and provided to volunteers, including stipends to cover incidental costs; transportation; meals; recognition; supplemental accident, personal liability and excess automobile liability insurance; and other expenses as negotiated in the Memorandum of Understanding. 
 
-*In-home.* The non-institutional assignment of a Foster Grandparent in a private residence or a foster home.
+*In-home.* The non-institutional assignment of a Foster Grandparent in a private residence or a foster home. 
 
-*Letter of Agreement.* A written agreement between a volunteer station or sponsor and the person(s) served or the person legally responsible for that person. It authorizes the assignment of an FGP volunteer in the home of a client, defines FGP volunteer activities, and specifies supervision arrangements.
+*Letter of Agreement.* A written agreement between a volunteer station or sponsor and the person(s) served or the person legally responsible for that person. It authorizes the assignment of an FGP volunteer in the home of a client, defines FGP volunteer activities, and specifies supervision arrangements. 
 
-*Memorandum of Understanding.* A written statement prepared and signed by the Foster Grandparent project sponsor and the volunteer station that identifies project requirements, working relationships, and mutual responsibilities.
+*Memorandum of Understanding.* A written statement prepared and signed by the Foster Grandparent project sponsor and the volunteer station that identifies project requirements, working relationships, and mutual responsibilities. 
 
-*Non-AmeriCorps support (excess).* The amount of non-Federal cash and in-kind contributions generated by a sponsor in excess of the required percentage.
+*Non-AmeriCorps support (excess).* The amount of non-Federal cash and in-kind contributions generated by a sponsor in excess of the required percentage. 
 
-*Non-AmeriCorps support (match).* The percentage share of non-AmeriCorps cash and in-kind contributions required to be raised by the sponsor in support of the grant.
+*Non-AmeriCorps support (match).* The percentage share of non-AmeriCorps cash and in-kind contributions required to be raised by the sponsor in support of the grant. 
 
-*Non-AmeriCorps support (excess).* The amount of non-Federal cash and in-kind contributions generated by a sponsor in excess of the required percentage.
+*Non-AmeriCorps support (excess).* The amount of non-Federal cash and in-kind contributions generated by a sponsor in excess of the required percentage. 
 
-*Parent.* A natural parent or a person acting in place of a natural parent, such as a guardian, a child's natural grandparent, or a step-parent with whom the child lives. The term also includes otherwise-unrelated individuals who are legally responsible for a child's welfare.
+*Parent.* A natural parent or a person acting in place of a natural parent, such as a guardian, a child's natural grandparent, or a step-parent with whom the child lives. The term also includes otherwise-unrelated individuals who are legally responsible for a child's welfare. 
 
-*Performance measures.* Indicators that help determine the impact of an FGP project on the community and clients served, including the volunteers.
+*Performance measures.* Indicators that help determine the impact of an FGP project on the community and clients served, including the volunteers. 
 
-*Project.* The locally planned FGP activity or set of activities in a service area as approved by AmeriCorps and implemented by the sponsor.
+*Project.* The locally planned FGP activity or set of activities in a service area as approved by AmeriCorps and implemented by the sponsor. 
 
-*Proprietary Health Care Agency.* Private, for-profit health care organization that serves one or more vulnerable populations.
+*Proprietary Health Care Agency.* Private, for-profit health care organization that serves one or more vulnerable populations. 
 
-*Service area.* The geographically defined area(s) in which Foster Grandparents are enrolled and placed on assignments.
+*Service area.* The geographically defined area(s) in which Foster Grandparents are enrolled and placed on assignments. 
 
-*Service schedule.* A written delineation of the days and times a Foster Grandparent serves each week.
+*Service schedule.* A written delineation of the days and times a Foster Grandparent serves each week. 
 
-*Sponsor.* A public agency, including Indian Tribes as defined in section 421(5) of the Act, and private, non-profit organizations, both secular and faith-based, in the United States that have authority to accept and the capability to administer a Foster Grandparent project.
+*Sponsor.* A public agency, including Indian Tribes as defined in section 421(5) of the Act, and private, non-profit organizations, both secular and faith-based, in the United States that have authority to accept and the capability to administer a Foster Grandparent project. 
 
-*Stipend.* A payment to Foster Grandparents to enable them to serve without cost to themselves. The amount of the stipend is set by AmeriCorps in accordance with Federal law.
+*Stipend.* A payment to Foster Grandparents to enable them to serve without cost to themselves. The amount of the stipend is set by AmeriCorps in accordance with Federal law. 
 
-*United States and Territories.* Each of the several States, the District of Columbia, the U.S. Virgin Islands, the Commonwealth of Puerto Rico, Guam and American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territories of the Pacific Islands.
+*United States and Territories.* Each of the several States, the District of Columbia, the U.S. Virgin Islands, the Commonwealth of Puerto Rico, Guam and American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territories of the Pacific Islands. 
 
-*Volunteer assignment plan.* A written description of a Foster Grandparent's assignment with a child. The plan identifies specific outcomes for the child and the activities of the Foster Grandparent.
+*Volunteer assignment plan.* A written description of a Foster Grandparent's assignment with a child. The plan identifies specific outcomes for the child and the activities of the Foster Grandparent. 
 
-*Volunteer station.* A public agency; a private, non-profit organization, secular or faith-based; or a proprietary health care organization. A volunteer station must accept responsibility for the assignment and supervision of Foster Grandparents in health, education, social service, or related settings such as multi-purpose centers, home health care agencies, or similar establishments. Each volunteer station must be licensed or otherwise certified, when required, by the appropriate state or local government. Private homes are not volunteer stations.
+*Volunteer station.* A public agency; a private, non-profit organization, secular or faith-based; or a proprietary health care organization. A volunteer station must accept responsibility for the assignment and supervision of Foster Grandparents in health, education, social service, or related settings such as multi-purpose centers, home health care agencies, or similar establishments. Each volunteer station must be licensed or otherwise certified, when required, by the appropriate state or local government. Private homes are not volunteer stations. 
 
 \[64 FR 14126, Mar. 24, 1999, as amended at 69 FR 60095, Oct. 7, 2004; 83 FR 64649, Dec. 17, 2018; 89 FR 70542, Aug. 30, 2024\]

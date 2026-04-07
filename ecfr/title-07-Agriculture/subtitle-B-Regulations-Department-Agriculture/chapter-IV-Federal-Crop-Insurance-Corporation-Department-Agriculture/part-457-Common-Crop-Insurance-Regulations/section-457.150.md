@@ -1,5 +1,7 @@
 ##### § 457.150 Dry bean crop insurance provisions.
 
+Link to an amendment published at 89 FR 93469, Nov. 27, 2024.
+
 The Dry Bean Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
 United States Department of Agriculture Federal Crop Insurance Corporation Dry Bean Crop Provisions

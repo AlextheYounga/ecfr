@@ -1,28 +1,28 @@
 ##### § 148.180 Prohibition of discrimination based on genetic information.
 
-(a) *Definitions.* For purposes of this section, the following definitions as set forth in § 146.122 of this subchapter pertain to health insurance issuers in the individual market to the extent that those definitions are not inconsistent with respect to health insurance coverage offered, sold, issued, renewed, in effect or operated in the individual market:
+(a) *Definitions.* For purposes of this section, the following definitions as set forth in § 146.122 of this subchapter pertain to health insurance issuers in the individual market to the extent that those definitions are not inconsistent with respect to health insurance coverage offered, sold, issued, renewed, in effect or operated in the individual market: 
 
-*Collect* has the meaning set forth at § 146.122(a).
+*Collect* has the meaning set forth at § 146.122(a). 
 
-*Family member* has the meaning set forth at § 146.122(a).
+*Family member* has the meaning set forth at § 146.122(a). 
 
-*Genetic information* has the meaning set forth at § 146.122(a).
+*Genetic information* has the meaning set forth at § 146.122(a). 
 
-*Genetic services* has the meaning set forth at § 146.122(a).
+*Genetic services* has the meaning set forth at § 146.122(a). 
 
-*Genetic test* has the meaning set forth at § 146.122(a).
+*Genetic test* has the meaning set forth at § 146.122(a). 
 
-*Manifestation or manifested* has the meaning set forth at § 146.122(a).
+*Manifestation or manifested* has the meaning set forth at § 146.122(a). 
 
-*Preexisting condition exclusion* has the meaning set forth at § 144.103.
+*Preexisting condition exclusion* has the meaning set forth at § 144.103. 
 
-*Underwriting purposes* has the meaning set forth at § 148.180(f)(1).
+*Underwriting purposes* has the meaning set forth at § 148.180(f)(1). 
 
-(b) *Prohibition on genetic information as a condition of eligibility*—(1) *In general.* An issuer offering health insurance coverage in the individual market may not establish rules for the eligibility (including continued eligibility) of any individual to enroll in individual health insurance coverage based on genetic information.
+(b) *Prohibition on genetic information as a condition of eligibility*—(1) *In general.* An issuer offering health insurance coverage in the individual market may not establish rules for the eligibility (including continued eligibility) of any individual to enroll in individual health insurance coverage based on genetic information. 
 
-(2) *Rule of construction.* Nothing in paragraph (b)(1) of this section precludes an issuer from establishing rules for eligibility for an individual to enroll in individual health insurance coverage based on the manifestation of a disease or disorder in that individual, or in a family member of that individual when the family member is covered under the policy that covers the individual.
+(2) *Rule of construction.* Nothing in paragraph (b)(1) of this section precludes an issuer from establishing rules for eligibility for an individual to enroll in individual health insurance coverage based on the manifestation of a disease or disorder in that individual, or in a family member of that individual when the family member is covered under the policy that covers the individual. 
 
-(3) *Examples.* The rules of this paragraph (b) are illustrated by the following examples:
+(3) *Examples.* The rules of this paragraph (b) are illustrated by the following examples: 
 
 Example 1.(i) *Facts.* A State implements the HIPAA guaranteed availability requirement in the individual health insurance market in accordance with § 148.120. Individual *A* and his spouse *S* are not “eligible individuals” as that term is defined at § 148.103 and, therefore, they are not entitled to obtain individual health insurance coverage on a guaranteed available basis. They apply for individual coverage with Issuer *M.* As part of the application for coverage, *M* receives health information about *A* and *S.* Although *A* has no known medical conditions, *S* has high blood pressure. *M* declines to offer coverage to *S.*
 
@@ -32,13 +32,13 @@ Example 2.(i) *Facts.* Same facts as *Example 1,* except that *S* does not have 
 
 (ii) *Conclusion.* In this *Example 2, M* cannot decline to offer coverage to *S* because *S* does not have a manifested disease or disorder. The only health information *M* has that relates to her pertains to a manifested disease or disorder of family members, which as family medical history constitutes genetic information with respect to *S.* If *M* denies eligibility to *S* based on genetic information, the denial will violate this paragraph (b).
 
-(c) *Prohibition on genetic information in setting premium rates*—(1) *In general.* An issuer offering health insurance coverage in the individual market must not adjust premium amounts for an individual on the basis of genetic information regarding the individual or a family member of the individual.
+(c) *Prohibition on genetic information in setting premium rates*—(1) *In general.* An issuer offering health insurance coverage in the individual market must not adjust premium amounts for an individual on the basis of genetic information regarding the individual or a family member of the individual. 
 
-(2) *Rule of construction.* (i) Nothing in paragraph (c)(1) of this section precludes an issuer from adjusting premium amounts for an individual on the basis of a manifestation of a disease or disorder in that individual, or on the basis of a manifestation of a disease or disorder in a family member of that individual when the family member is covered under the policy that covers the individual.
+(2) *Rule of construction.* (i) Nothing in paragraph (c)(1) of this section precludes an issuer from adjusting premium amounts for an individual on the basis of a manifestation of a disease or disorder in that individual, or on the basis of a manifestation of a disease or disorder in a family member of that individual when the family member is covered under the policy that covers the individual. 
 
-(ii) The manifestation of a disease or disorder in one individual cannot also be used as genetic information about other individuals covered under the policy issued to that individual and to further increase premium amounts.
+(ii) The manifestation of a disease or disorder in one individual cannot also be used as genetic information about other individuals covered under the policy issued to that individual and to further increase premium amounts. 
 
-(3) *Examples.* The rules of this paragraph (c) are illustrated by the following examples:
+(3) *Examples.* The rules of this paragraph (c) are illustrated by the following examples: 
 
 Example 1.(i) *Facts.* Individual *B* is covered under an individual health insurance policy through Issuer *N.* Every other policy year, before renewal, *N* requires policyholders to submit updated health information before the policy renewal date for purposes of determining an appropriate premium, in excess of any increases due to inflation, based on the policyholders' health status. *B* complies with that requirement. During the past year, *B'*s blood glucose levels have increased significantly. *N* increases its premium for renewing *B'*s policy to account for *N'*s increased risk associated with *B'*s elevated blood glucose levels.
 
@@ -48,11 +48,11 @@ Example 2.(i) *Facts.* Same facts as *Example 1,* except that *B'*s blood glucos
 
 (ii) *Conclusion.* In this *Example 2, N* cannot increase *B'*s premium on the basis of *B'*s family medical history of Type 2 diabetes, which is genetic information with respect to *B.* Since there is no manifestation of the disease in *B* at this point in time, *N* cannot increase *B'*s premium.
 
-(d) *Prohibition on genetic information as preexisting condition*—(1) *In general.* An issuer offering health insurance coverage in the individual market may not, on the basis of genetic information, impose any preexisting condition exclusion with respect to that coverage.
+(d) *Prohibition on genetic information as preexisting condition*—(1) *In general.* An issuer offering health insurance coverage in the individual market may not, on the basis of genetic information, impose any preexisting condition exclusion with respect to that coverage. 
 
-(2) *Rule of construction.* Nothing in paragraph (d)(1) of this section precludes an issuer from imposing any preexisting condition exclusion for an individual with respect to health insurance coverage on the basis of a manifestation of a disease or disorder in that individual.
+(2) *Rule of construction.* Nothing in paragraph (d)(1) of this section precludes an issuer from imposing any preexisting condition exclusion for an individual with respect to health insurance coverage on the basis of a manifestation of a disease or disorder in that individual. 
 
-(3) *Examples:* The rules of this paragraph (d) are illustrated by the following examples:
+(3) *Examples:* The rules of this paragraph (d) are illustrated by the following examples: 
 
 Example 1.(i) *Facts.* Individual *C* has encountered delays in receiving payment from the issuer of his individual health insurance policy for covered services. He decides to switch carriers and applies for an individual health insurance policy through Issuer *O. C* is generally in good health, but has arthritis for which he has received medical treatment. *O* offers *C* an individual policy that excludes coverage for a 12-month period for any services related to *C'*s arthritis.
 
@@ -62,11 +62,11 @@ Example 2.(i) *Facts.* Individual *D* applies for individual health insurance co
 
 (ii) *Conclusion.* In this *Example 2,* the rider violates this paragraph (d) because the preexisting condition exclusion is based on genetic information with respect to *D* (family medical history of Type 2 diabetes).
 
-(e) *Limitation on requesting or requiring genetic testing*—(1) *General rule.* Except as otherwise provided in this paragraph (e), an issuer offering health insurance coverage in the individual market must not request or require an individual or a family member of the individual to undergo a genetic test.
+(e) *Limitation on requesting or requiring genetic testing*—(1) *General rule.* Except as otherwise provided in this paragraph (e), an issuer offering health insurance coverage in the individual market must not request or require an individual or a family member of the individual to undergo a genetic test. 
 
-(2) *Health care professional may recommend a genetic test.* Nothing in paragraph (e)(1) of this section limits the authority of a health care professional who is providing health care services to an individual to request that the individual undergo a genetic test.
+(2) *Health care professional may recommend a genetic test.* Nothing in paragraph (e)(1) of this section limits the authority of a health care professional who is providing health care services to an individual to request that the individual undergo a genetic test. 
 
-(3) *Examples.* The rules of paragraphs (e)(1) and (e)(2) of this section are illustrated by the following examples:
+(3) *Examples.* The rules of paragraphs (e)(1) and (e)(2) of this section are illustrated by the following examples: 
 
 Example 1.(i) *Facts.* Individual *E* goes to a physician for a routine physical examination. The physician reviews *E'*s family medical history, and *E* informs the physician that *E'*s mother has been diagnosed with Huntington's Disease. The physician advises *E* that Huntington's Disease is hereditary, and recommends that E undergo a genetic test.
 
@@ -76,47 +76,47 @@ Example 2.(i) *Facts.* Individual *F* is covered by a health maintenance organiz
 
 (ii) *Conclusion.* In this *Example 2,* even though the physician is employed by the HMO, the physician is nonetheless a health care professional who is providing health care services to *F.* Therefore, the physician's recommendation that *F* undergo the genetic test does not violate this paragraph (e).
 
-(4) *Determination regarding payment*—(i) *In general.* As provided in this paragraph (e)(4), nothing in paragraph (e)(1) of this section precludes an issuer offering health insurance in the individual market from obtaining and using the results of a genetic test in making a determination regarding payment. For this purpose, “payment” has the meaning given such term in § 164.501 of this subtitle of the privacy regulations issued under the Health Insurance Portability and Accountability Act. Thus, if an issuer conditions payment for an item or service based on its medical appropriateness and the medical appropriateness of the item or service depends on a covered individual's genetic makeup, the issuer is permitted to condition payment on the outcome of a genetic test, and may refuse payment if the covered individual does not undergo the genetic test.
+(4) *Determination regarding payment*—(i) *In general.* As provided in this paragraph (e)(4), nothing in paragraph (e)(1) of this section precludes an issuer offering health insurance in the individual market from obtaining and using the results of a genetic test in making a determination regarding payment. For this purpose, “payment” has the meaning given such term in § 164.501 of this subtitle of the privacy regulations issued under the Health Insurance Portability and Accountability Act. Thus, if an issuer conditions payment for an item or service based on its medical appropriateness and the medical appropriateness of the item or service depends on a covered individual's genetic makeup, the issuer is permitted to condition payment on the outcome of a genetic test, and may refuse payment if the covered individual does not undergo the genetic test. 
 
-(ii) *Limitation.* An issuer in the individual market is permitted to request only the minimum amount of information necessary to make a determination regarding payment. The minimum amount of information necessary is determined in accordance with the minimum necessary standard in § 164.502(b) of this subtitle of the privacy regulations issued under the Health Insurance Portability and Accountability Act.
+(ii) *Limitation.* An issuer in the individual market is permitted to request only the minimum amount of information necessary to make a determination regarding payment. The minimum amount of information necessary is determined in accordance with the minimum necessary standard in § 164.502(b) of this subtitle of the privacy regulations issued under the Health Insurance Portability and Accountability Act. 
 
-(iii) *Examples. See* paragraph (g) of this section for examples illustrating the rules of this paragraph (e)(4), as well as other provisions of this section.
+(iii) *Examples. See* paragraph (g) of this section for examples illustrating the rules of this paragraph (e)(4), as well as other provisions of this section. 
 
-(5) *Research exception.* Notwithstanding paragraph (e)(1) of this section, an issuer may request, but not require, that an individual or family member covered under the same policy undergo a genetic test if all of the conditions of this paragraph (e)(5) are met:
+(5) *Research exception.* Notwithstanding paragraph (e)(1) of this section, an issuer may request, but not require, that an individual or family member covered under the same policy undergo a genetic test if all of the conditions of this paragraph (e)(5) are met: 
 
-(i) *Research in accordance with Federal regulations and applicable State or local law or regulations.* The issuer makes the request pursuant to research, as defined in § 46.102(d) of this subtitle, that complies with part 46 of this subtitle or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
+(i) *Research in accordance with Federal regulations and applicable State or local law or regulations.* The issuer makes the request pursuant to research, as defined in § 46.102(d) of this subtitle, that complies with part 46 of this subtitle or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research. 
 
-(ii) *Written request for participation in research.* The issuer makes the request in writing, and the request clearly indicates to each individual (or, in the case of a minor child, to the child's legal guardian) that—
+(ii) *Written request for participation in research.* The issuer makes the request in writing, and the request clearly indicates to each individual (or, in the case of a minor child, to the child's legal guardian) that— 
 
-(A) Compliance with the request is voluntary; and
+(A) Compliance with the request is voluntary; and 
 
-(B) Noncompliance will have no effect on eligibility for benefits (as described in paragraph (b) of this section) or premium amounts (as described in paragraph (c) of this section).
+(B) Noncompliance will have no effect on eligibility for benefits (as described in paragraph (b) of this section) or premium amounts (as described in paragraph (c) of this section). 
 
-(iii) *Prohibition on underwriting.* No genetic information collected or acquired under this paragraph (e)(5) can be used for underwriting purposes (as described in paragraph (f)(1) of this section).
+(iii) *Prohibition on underwriting.* No genetic information collected or acquired under this paragraph (e)(5) can be used for underwriting purposes (as described in paragraph (f)(1) of this section). 
 
-(iv) *Notice to Federal agencies.* The issuer completes a copy of the “Notice of Research Exception under the Genetic Information Nondiscrimination Act” authorized by the Secretary and provides the notice to the address specified in the instructions thereto.
+(iv) *Notice to Federal agencies.* The issuer completes a copy of the “Notice of Research Exception under the Genetic Information Nondiscrimination Act” authorized by the Secretary and provides the notice to the address specified in the instructions thereto. 
 
-(f) *Prohibitions on collection of genetic information*—(1) *For underwriting purposes*—(i) *General rule.* An issuer offering health insurance coverage in the individual market must not collect (as defined in paragraph (a) of this section) genetic information for underwriting purposes. *See* paragraph (g) of this section for examples illustrating the rules of this paragraph (f)(1), as well as other provisions of this section.
+(f) *Prohibitions on collection of genetic information*—(1) *For underwriting purposes*—(i) *General rule.* An issuer offering health insurance coverage in the individual market must not collect (as defined in paragraph (a) of this section) genetic information for underwriting purposes. *See* paragraph (g) of this section for examples illustrating the rules of this paragraph (f)(1), as well as other provisions of this section. 
 
-(ii) *Underwriting purposes defined.* Subject to paragraph (f)(1)(iii) of this section, *underwriting purposes* means, with respect to any issuer offering health insurance coverage in the individual market—
+(ii) *Underwriting purposes defined.* Subject to paragraph (f)(1)(iii) of this section, *underwriting purposes* means, with respect to any issuer offering health insurance coverage in the individual market— 
 
-(A) Rules for, or determination of, eligibility (including enrollment and continued eligibility) for benefits under the coverage;
+(A) Rules for, or determination of, eligibility (including enrollment and continued eligibility) for benefits under the coverage; 
 
-(B) The computation of premium amounts under the coverage;
+(B) The computation of premium amounts under the coverage; 
 
-(C) The application of any preexisting condition exclusion under the coverage; and
+(C) The application of any preexisting condition exclusion under the coverage; and 
 
-(D) Other activities related to the creation, renewal, or replacement of a contract of health insurance.
+(D) Other activities related to the creation, renewal, or replacement of a contract of health insurance. 
 
-(iii) *Medical appropriateness.* An issuer in the individual market may limit or exclude a benefit based on whether the benefit is medically appropriate, and the determination of whether the benefit is medically appropriate is not within the meaning of underwriting purposes. Accordingly, if an issuer conditions a benefit based on its medical appropriateness and the medical appropriateness of the benefit depends on a covered individual's genetic information, the issuer is permitted to condition the benefit on the genetic information. An issuer is permitted to request only the minimum amount of genetic information necessary to determine medical appropriateness, and may deny the benefit if the covered individual does not provide the genetic information required to determine medical appropriateness. *See* paragraph (g) of this section for examples illustrating the applicability of this paragraph (f)(1)(iii), as well as other provisions of this section.
+(iii) *Medical appropriateness.* An issuer in the individual market may limit or exclude a benefit based on whether the benefit is medically appropriate, and the determination of whether the benefit is medically appropriate is not within the meaning of underwriting purposes. Accordingly, if an issuer conditions a benefit based on its medical appropriateness and the medical appropriateness of the benefit depends on a covered individual's genetic information, the issuer is permitted to condition the benefit on the genetic information. An issuer is permitted to request only the minimum amount of genetic information necessary to determine medical appropriateness, and may deny the benefit if the covered individual does not provide the genetic information required to determine medical appropriateness. *See* paragraph (g) of this section for examples illustrating the applicability of this paragraph (f)(1)(iii), as well as other provisions of this section. 
 
-(2) *Prior to or in connection with enrollment*—(i) *In general.* An issuer offering health insurance coverage in the individual market must not collect genetic information with respect to any individual prior to that individual's enrollment under the coverage or in connection with that individual's enrollment. Whether or not an individual's information is collected prior to that individual's enrollment is determined at the time of collection.
+(2) *Prior to or in connection with enrollment*—(i) *In general.* An issuer offering health insurance coverage in the individual market must not collect genetic information with respect to any individual prior to that individual's enrollment under the coverage or in connection with that individual's enrollment. Whether or not an individual's information is collected prior to that individual's enrollment is determined at the time of collection. 
 
-(ii) *Incidental collection exception*—(A) *In general.* If an issuer offering health insurance coverage in the individual market obtains genetic information incidental to the collection of other information concerning any individual, the collection is not a violation of this paragraph (f)(2), as long as the collection is not for underwriting purposes in violation of paragraph (f)(1) of this section.
+(ii) *Incidental collection exception*—(A) *In general.* If an issuer offering health insurance coverage in the individual market obtains genetic information incidental to the collection of other information concerning any individual, the collection is not a violation of this paragraph (f)(2), as long as the collection is not for underwriting purposes in violation of paragraph (f)(1) of this section. 
 
-(B) *Limitation.* The incidental collection exception of this paragraph (f)(2)(ii) does not apply in connection with any collection where it is reasonable to anticipate that health information will be received, unless the collection explicitly provides that genetic information should not be provided.
+(B) *Limitation.* The incidental collection exception of this paragraph (f)(2)(ii) does not apply in connection with any collection where it is reasonable to anticipate that health information will be received, unless the collection explicitly provides that genetic information should not be provided. 
 
-(iii) *Examples.* The rules of this paragraph (f)(2) are illustrated by the following examples:
+(iii) *Examples.* The rules of this paragraph (f)(2) are illustrated by the following examples: 
 
 Example 1.(i) *Facts.* Individual *G* applies for a health insurance policy through Issuer *Q. Q'*s application materials ask for the applicant's medical history, but not for family medical history. The application's instructions state that no genetic information, including family medical history, should be provided. *G* answers the questions in the application completely and truthfully, but volunteers certain health information about diseases his parents had, believing that *Q* also needs this information.
 
@@ -130,7 +130,7 @@ Example 3.(i) *Facts.* Issuer *S* acquires Issuer *T. S* requests *T'*s records,
 
 (ii) *Conclusion.* In this *Example 3, S'*s request for health information explicitly stated that genetic information should not be provided. Therefore, its collection of genetic information was within the incidental collection exception. However, *S* may not use the genetic information it obtained incidentally for underwriting purposes.
 
-(g) *Examples regarding determinations of medical appropriateness.* The application of the rules of paragraphs (e) and (f) of this section to issuer determinations of medical appropriateness is illustrated by the following examples:
+(g) *Examples regarding determinations of medical appropriateness.* The application of the rules of paragraphs (e) and (f) of this section to issuer determinations of medical appropriateness is illustrated by the following examples: 
 
 Example 1.(i) *Facts.* Individual *I* has an individual health insurance policy through Issuer *U* that covers genetic testing for celiac disease for individuals who have family members with this condition. *I'*s policy includes dependent coverage. After *I'*s son is diagnosed with celiac disease, *I* undergoes a genetic test and promptly submits a claim for the test to *U* for reimbursement. *U* asks *I* to provide the results of the genetic test before the claim is paid.
 
@@ -144,6 +144,6 @@ Example 3.(i) *Facts.* Individual *K* was previously diagnosed with and treated 
 
 (ii) *Conclusion.* In this *Example 3, W* does not violate paragraph (e) of this section if it conditions future payments for the tamoxifen prescription on *K'*s undergoing a genetic test to determine the genetic markers *K* has for making the CYP2D6 enzyme. *W* also does not violate paragraph (e) of this section if it refuses future payment if the results of the genetic test indicate that tamoxifen is not medically appropriate for *K.*
 
-(h) *Applicability date.* The provisions of this section are effective with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market on or after December 7, 2009.
+(h) *Applicability date.* The provisions of this section are effective with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market on or after December 7, 2009. 
 
 \[74 FR 51693, Oct. 7, 2009\]

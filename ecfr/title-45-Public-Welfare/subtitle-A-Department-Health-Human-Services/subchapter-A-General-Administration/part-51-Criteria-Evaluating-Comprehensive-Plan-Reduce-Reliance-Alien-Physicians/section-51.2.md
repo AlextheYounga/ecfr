@@ -1,6 +1,6 @@
 ##### § 51.2 Application.
 
-Materials covering procedures for applying for substantial disruption waivers (including the comprehensive plan) may be obtained from the Educational Commission for Foreign Medical Graduates, 3624 Market Street, Philadelphia, Pennsylvania 19104.
+Materials covering procedures for applying for substantial disruption waivers (including the comprehensive plan) may be obtained from the Educational Commission for Foreign Medical Graduates, 3624 Market Street, Philadelphia, Pennsylvania 19104. 
 
 Explanatory Note:
 

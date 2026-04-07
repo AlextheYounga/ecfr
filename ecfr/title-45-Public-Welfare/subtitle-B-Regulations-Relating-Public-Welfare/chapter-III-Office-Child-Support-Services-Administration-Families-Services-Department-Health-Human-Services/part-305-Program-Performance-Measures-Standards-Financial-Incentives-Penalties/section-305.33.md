@@ -1,12 +1,12 @@
 ##### § 305.33 Determination of applicable percentages based on performance levels.
 
-(a) A State's paternity establishment performance level for a fiscal year is, at the option of the State, the IV-D paternity establishment percentage or the Statewide paternity establishment percentage determined under § 305.2 of this part. The applicable percentage for each level of a State's paternity establishment performance can be found in table 1 of this part, except as provided in paragraph (b) of this section.
+(a) A State's paternity establishment performance level for a fiscal year is, at the option of the State, the IV-D paternity establishment percentage or the Statewide paternity establishment percentage determined under § 305.2 of this part. The applicable percentage for each level of a State's paternity establishment performance can be found in table 1 of this part, except as provided in paragraph (b) of this section. 
 
-(b) If the State's paternity establishment performance level for a fiscal year is less than 50 percent, but exceeds its paternity establishment performance level for the immediately preceding fiscal year by at least 10 percentage points, then the State's applicable percentage for the paternity establishment performance level is 50 percent.
+(b) If the State's paternity establishment performance level for a fiscal year is less than 50 percent, but exceeds its paternity establishment performance level for the immediately preceding fiscal year by at least 10 percentage points, then the State's applicable percentage for the paternity establishment performance level is 50 percent. 
 
-(c) A State's support order establishment performance level for a fiscal year is the percentage of the total number of cases where there is a support order determined under §§ 305.2 and 305.32 of this part. The applicable percentage for each level of a State's support order establishment performance can be found on table 1 of this part, except as provided in paragraph (d) of this section.
+(c) A State's support order establishment performance level for a fiscal year is the percentage of the total number of cases where there is a support order determined under §§ 305.2 and 305.32 of this part. The applicable percentage for each level of a State's support order establishment performance can be found on table 1 of this part, except as provided in paragraph (d) of this section. 
 
-(d) If the State's support order establishment performance level for a fiscal year is less than 50 percent, but exceeds the State's support order establishment performance level for the immediately preceding fiscal year by at least 5 percentage points, then the State's applicable percentage is 50 percent.
+(d) If the State's support order establishment performance level for a fiscal year is less than 50 percent, but exceeds the State's support order establishment performance level for the immediately preceding fiscal year by at least 5 percentage points, then the State's applicable percentage is 50 percent. 
 
 Table 1—If the Paternity Establishment or Support Order Establishment Performance Level Is:
 
@@ -46,13 +46,13 @@ Table 1—If the Paternity Establishment or Support Order Establishment Performa
 | 50                    | 51                         | 60                            |
 | 0                     | 50                         | 0                             |
 
-(e) A State's current collections performance level for a fiscal year is equal to the total amount of current support collected during the fiscal year divided by the total amount of current support owed during the fiscal year in all IV-D cases, determined under §§ 305.2 and 305.32 of this part. The applicable percentage with respect to a State's current collections performance level can be found on table 2, except as provided in paragraph (f) of this section.
+(e) A State's current collections performance level for a fiscal year is equal to the total amount of current support collected during the fiscal year divided by the total amount of current support owed during the fiscal year in all IV-D cases, determined under §§ 305.2 and 305.32 of this part. The applicable percentage with respect to a State's current collections performance level can be found on table 2, except as provided in paragraph (f) of this section. 
 
-(f) If the State's current collections performance level for a fiscal year is less than 40 percent but exceeds the current collections performance level of the State for the immediately preceding fiscal year by at least 5 percentage points, then the State's applicable percentage is 50 percent.
+(f) If the State's current collections performance level for a fiscal year is less than 40 percent but exceeds the current collections performance level of the State for the immediately preceding fiscal year by at least 5 percentage points, then the State's applicable percentage is 50 percent. 
 
-(g) A State's arrearage collections performance level for a fiscal year is equal to the total number of IV-D cases in which payments of past-due child support were received and distributed during the fiscal year, divided by the total number of IV-D cases in which there was past-due child support owed, as determined under §§ 305.2 and 305.32 of this part. The applicable percentage with respect to a State's arrearage collections performance level can be found on table 2 except as provided in paragraph (h) of this section.
+(g) A State's arrearage collections performance level for a fiscal year is equal to the total number of IV-D cases in which payments of past-due child support were received and distributed during the fiscal year, divided by the total number of IV-D cases in which there was past-due child support owed, as determined under §§ 305.2 and 305.32 of this part. The applicable percentage with respect to a State's arrearage collections performance level can be found on table 2 except as provided in paragraph (h) of this section. 
 
-(h) If the State's arrearage collections performance level for a fiscal year is less than 40 percent but exceeds the arrearage collections performance level for the immediately preceding fiscal year by at least 5 percentage points, then the State's applicable percentage is 50 percent.
+(h) If the State's arrearage collections performance level for a fiscal year is less than 40 percent but exceeds the arrearage collections performance level for the immediately preceding fiscal year by at least 5 percentage points, then the State's applicable percentage is 50 percent. 
 
 Table 2—If the Current Collections or Arrearage Collections Performance Level Is:
 
@@ -102,7 +102,7 @@ Table 2—If the Current Collections or Arrearage Collections Performance Level 
 | 40                  | 41                         | 50                                        |
 | 0                   | 40                         | 0                                         |
 
-(i) A State's cost-effectiveness performance level for a fiscal year is equal to the total amount of IV-D support collected and disbursed or retained, as applicable during the fiscal year, divided by the total amount expended during the fiscal year, as determined under §§ 305.2 and 305.32 of this part. The applicable percentage with respect to a State's cost-effectiveness performance level can be found on table 3.
+(i) A State's cost-effectiveness performance level for a fiscal year is equal to the total amount of IV-D support collected and disbursed or retained, as applicable during the fiscal year, divided by the total amount expended during the fiscal year, as determined under §§ 305.2 and 305.32 of this part. The applicable percentage with respect to a State's cost-effectiveness performance level can be found on table 3. 
 
 Table 3—If the Cost-Effectiveness Performance Level Is:
 

@@ -4,14 +4,14 @@
 
 (b) International Organization for Standardization, Case postale 56, CH·1211, Geneve 20, Switzerland, telephone +41-22-749-01-11, *http://www.iso.org.*
 
-(1) ISO/IEC GUIDE 65:1996—General Requirements for Bodies Operating Product Certification Systems (First Edition), 1996, “ISO/IEC Guide 65,” IBR approved for § 170.503.
+(1) ISO/IEC GUIDE 65:1996—General Requirements for Bodies Operating Product Certification Systems (First Edition), 1996, “ISO/IEC Guide 65,” IBR approved for § 170.503. 
 
-(2) ISO/IEC 17011:2004 Conformity Assessment—General Requirements for Accreditation Bodies Accrediting Conformity Assessment Bodies (Corrected Version), February 15, 2005, “ISO/IEC 17011,” IBR approved for § 170.503.
+(2) ISO/IEC 17011:2004 Conformity Assessment—General Requirements for Accreditation Bodies Accrediting Conformity Assessment Bodies (Corrected Version), February 15, 2005, “ISO/IEC 17011,” IBR approved for § 170.503. 
 
-(3) ISO/IEC 17025:2005(E)—General requirements for the competence of testing and calibration laboratories (Second Edition), 2005-05-15, “ISO/IEC 17025,” IBR approved for §§ 170.520(b) and 170.524(a).
+(3) ISO/IEC 17025:2005(E)—General requirements for the competence of testing and calibration laboratories (Second Edition), 2005-05-15, “ISO/IEC 17025,” IBR approved for §§ 170.520(b) and 170.524(a). 
 
-(4) ISO/IEC 17025:2017(E)—General requirements for the competence of testing and calibration laboratories (Third Edition), 2017-11, “ISO/IEC 17025,” IBR approved for §§ 170.520(b), and 170.524(a).
+(4) ISO/IEC 17025:2017(E)—General requirements for the competence of testing and calibration laboratories (Third Edition), 2017-11, “ISO/IEC 17025,” IBR approved for §§ 170.520(b), and 170.524(a). 
 
-(5) ISO/IEC 17065:2012(E)—Conformity assessment—Requirements for bodies certifying products, processes and services (First Edition), 2012, “ISO/IEC 17065,” IBR approved for §§ 170.503 and 170.523(a).
+(5) ISO/IEC 17065:2012(E)—Conformity assessment—Requirements for bodies certifying products, processes and services (First Edition), 2012, “ISO/IEC 17065,” IBR approved for §§ 170.503 and 170.523(a). 
 
 \[81 FR 72471, Oct. 19, 2016, as amended at 85 FR 25955, May 1, 2020\]

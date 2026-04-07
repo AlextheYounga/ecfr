@@ -1,6 +1,6 @@
 ##### § 617.4 General duties of recipients.
 
-Each recipient of Federal financial assistance from NSF shall comply with the Act, part 90, and this part. Each NSF award of Federal financial assistance shall contain the following provision:
+Each recipient of Federal financial assistance from NSF shall comply with the Act, part 90, and this part. Each NSF award of Federal financial assistance shall contain the following provision: 
 
 Compliance With Age Discrimination Act
 
