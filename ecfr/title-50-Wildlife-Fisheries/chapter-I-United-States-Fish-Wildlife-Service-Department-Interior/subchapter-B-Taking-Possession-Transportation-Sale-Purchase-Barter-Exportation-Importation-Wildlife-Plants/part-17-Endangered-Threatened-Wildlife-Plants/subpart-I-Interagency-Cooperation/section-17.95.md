@@ -24747,7 +24747,151 @@ The map provided is for informational purposes only. Map follows:
 
 (ii) Map 5 of Units 5, 6, and 17 follows:
 
-![](/graphics/er14fe12.015.gif)Beetle (No Common Name) (*Rhadine exilis*)
+![](/graphics/er14fe12.015.gif)Miami tiger beetle (*Cicindelidia floridana*)
+
+(1) Critical habitat units are depicted for Miami-Dade County, Florida, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the Miami tiger beetle consist of the following components:
+
+(i) South Florida pine rockland habitat of at least 2.5 acres (1 hectare) in size that is maintained by natural or prescribed fire or other disturbance regimes; and
+
+(ii) Open sandy areas within or directly adjacent to the south Florida pine rockland habitat described in paragraph (2)(i) of this entry. These areas have little to no vegetation to allow for normal behavior and growth, such as thermoregulation, foraging, egg-laying, and larval development, and to facilitate habitat connectivity.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, other paved areas, and managed lawns) and the land on which they are located existing within the legal boundaries on June 22, 2023.
+
+(4) Data layers defining map units were created using Esri ArcGIS mapping software. The projection used was Albers Conical Equal Area (Florida Geographic Data Library), North American Datum of 1983 (NAD 83) High Accuracy Reference Network (HARN). The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *https://www.regulations.gov* at Docket No. FWS-R4-ES-2021-0053, at *https://www.fws.gov/office/florida-ecological-services/library,* and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map follows:
+
+Figure 1 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (5) ![](/graphics/er23my23.000.gif)
+
+(6) Unit 1: Trinity Pineland, Miami-Dade County, Florida.
+
+(i) Unit 1 consists of approximately 10 acres (ac) (4 hectares (ha)). The unit is located between SW 72nd Street to the north, SW 80th Street to the south, South Dixie Highway to the east, and Palmetto Expressway to the west.
+
+(ii) Map of Unit 1 follows:
+
+Figure 2 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (6)(ii) ![](/graphics/er23my23.001.gif)
+
+(7) Unit 2: Rockdale Pineland, Miami-Dade County, Florida.
+
+(i) Unit 2 consists of approximately 39 ac (16 ha). The unit is located directly west of South Dixie Highway, between SW 144th Street to the north and SW 152nd Street to the south.
+
+(ii) Map of Unit 2 follows:
+
+Figure 3 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (7)(ii) ![](/graphics/er23my23.002.gif)
+
+(8) Unit 3: Deering Estate South Addition, Miami-Dade County, Florida.
+
+(i) Unit 3 consists of approximately 16 ac (6 ha). This unit is located just east of Old Cutler Road and south of 168th Street.
+
+(ii) Map of Unit 3 follows:
+
+Figure 4 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (8)(ii) ![](/graphics/er23my23.003.gif)
+
+(9) Unit 4: Ned Glenn Nature Preserve, Miami-Dade County, Florida.
+
+(i) Unit 4 consists of approximately 11 ac (5 ha). The unit is located directly west of SW 87th Avenue, between 184th Street to the north, Old Cutler Road to the south, and Franjo Road to the west.
+
+(ii) Map of Unit 4 follows:
+
+Figure 5 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (9)(ii) ![](/graphics/er23my23.004.gif)
+
+(10) Unit 5: Deering Estate at Cutler, Miami-Dade County, Florida.
+
+(i) Unit 5 consists of approximately 89 ac (36 ha). The unit is located southeast of SW 152nd Street and Old Cutler Road.
+
+(ii) Map of Unit 5 follows:
+
+Figure 6 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (10)(ii) ![](/graphics/er23my23.005.gif)
+
+(11) Unit 6: Silver Palm Groves Pineland, Miami-Dade County, Florida.
+
+(i) Unit 6 consists of approximately 25 ac (10 ha). This unit is located just north of SW 232nd Street, between SW 216th Street to the north, South Dixie Highway to the east, and SW 147th Avenue to the west.
+
+(ii) Map of Unit 6 follows:
+
+Figure 7 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (11)(ii) ![](/graphics/er23my23.006.gif)
+
+(12) Unit 7: Quail Roost Pineland, Miami-Dade County, Florida.
+
+(i) Unit 7 consists of approximately 48 ac (19 ha). This unit is located between SW 200th Street to the north, SW 127th Avenue to the east, SW 216th Street to the south, and SW 147th Avenue to the west.
+
+(ii) Map of Unit 7 follows:
+
+Figure 8 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (12)(ii) ![](/graphics/er23my23.007.gif)
+
+(13) Unit 8: Eachus Pineland, Miami-Dade County, Florida.
+
+(i) Unit 8 consists of approximately 17 ac (7 ha). This unit is located between SW 180th Street to the north, SW 137th Avenue to the east, SW 184th Street to the south, and SW 142nd Avenue to the east.
+
+(ii) Map of Unit 8 follows:
+
+Figure 9 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (13)(ii) ![](/graphics/er23my23.008.gif)
+
+(14) Unit 9: Bill Sadowski Park, Miami-Dade County, Florida.
+
+(i) Unit 9 consists of approximately 20 ac (8 ha). This unit is located south of 168th Street, west of Old Cutler Road, north of SW 184th Street, and east of SW 87th Avenue.
+
+(ii) Map of Unit 9 follows:
+
+Figure 10 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (14)(ii) ![](/graphics/er23my23.009.gif)
+
+(15) Unit 10: Tamiami Pineland Complex Addition, Miami-Dade County, Florida.
+
+(i) Unit 10 consists of approximately 21 ac (8 ha). This unit is located south of 128th Street, west of Florida's Turnpike, north of SW 136th Street, and east of SW 127th Avenue.
+
+(ii) Map of Unit 10 follows:
+
+Figure 11 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (15)(ii) ![](/graphics/er23my23.010.gif)
+
+(16) Unit 11: Pine Shore Pineland Preserve, Miami-Dade County, Florida.
+
+(i) Unit 11 consists of approximately 8 ac (3 ha). This unit is located southwest of the Don Shula Expressway, west of SW 107th Avenue, and north of SW 128th Street.
+
+(ii) Map of Unit 11 follows:
+
+Figure 12 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (16)(ii) ![](/graphics/er23my23.011.gif)
+
+(17) Unit 12: Nixon Smiley Pineland Preserve, Miami-Dade County, Florida.
+
+(i) Unit 12 consists of approximately 117 ac (47 ha). This unit is located between SW 120th Street to the north, SW 127th Avenue to the east, SW 128th Street to the south, and SW 137th Avenue to the west.
+
+(ii) Map of Unit 12 follows:
+
+Figure 13 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (17)(ii) ![](/graphics/er23my23.012.gif)
+
+(18) Unit 13: Boystown Pineland Preserve, Miami-Dade County, Florida.
+
+(i) Unit 13 consists of approximately 81 ac (33 ha). This unit is between SW 104th Street to the north, SW 137th Avenue to the east, SW 12th Street to the south, and SW 147th Avenue to the west.
+
+(ii) Map of Unit 13 follows:
+
+Figure 14 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (18)(ii) ![](/graphics/er23my23.013.gif)
+
+(19) Unit 14: Richmond Pine Rocklands, Miami-Dade County, Florida.
+
+(i) Unit 14 consists of approximately 1,347 ac (545 ha). This unit is located between SW 152nd Street to the north, SW 117th Avenue to the east, SW 185th Street to the south, and SW 137th Avenue to the west.
+
+(ii) Map of Unit 14 follows:
+
+Figure 15 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (19)(ii) ![](/graphics/er23my23.014.gif)
+
+(20) Unit 15: Calderon Pineland, Miami-Dade County, Florida.
+
+(i) Unit 15 consists of approximately 14 ac (6 ha). This unit is located between SW 184th Street to the south, SW 137th Avenue to the east, SW 200th Street to the south, and SW 147th Avenue to the west.
+
+(ii) Map of Unit 15 follows:
+
+Figure 16 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (20)(ii) ![](/graphics/er23my23.015.gif)
+
+(21) Unit 16: Porter Pineland Preserve, Miami-Dade County, Florida.
+
+(i) Unit 16 consists of approximately 7 ac (3 ha). This unit is located to the south of SW 216th Street, to the west of South Dixie Highway, to the north of SW 232nd Street, and to the east of SW 147th Avenue.
+
+(ii) Map of Unit 16 follows:
+
+Figure 17 to Miami Tiger Beetle (*Cicindelidia floridana*) paragraph (21)(ii) ![](/graphics/er23my23.016.gif)Beetle (No Common Name) (*Rhadine exilis*)
 
 (1) Critical habitat for the beetle (*Rhadine exilis*) in Bexar County, Texas, occurs in Units 1b, 1d, 1e, 2, 3, 4, 5, 6, 7, 8, 9, 11e, 12, 13, and 21, and is depicted on Maps 3, 6, 7, 8, 10, 11, 12, and 18 in this entry, and on Maps 2, 4, and 5, provided at paragraphs (6), (7), and (8) of the entry for the Helotes mold beetle in this paragraph (i). The units are also depicted on Map 1 (index map) provided in paragraph (5) of the entry for the Helotes mold beetle in this paragraph (i).
 
