@@ -1,8 +1,8 @@
 ##### § 434.512 Internal loads.
 
-512.1 The systems and types of energy specified in this section are provided only for purposes of calculating the Energy Cost Budget. They are not requirements for either systems or the type of energy to be used in the Proposed Design or for calculation of Design Energy Cost.
+512.1 The systems and types of energy specified in this section are provided only for purposes of calculating the Energy Cost Budget. They are not requirements for either systems or the type of energy to be used in the Proposed Design or for calculation of Design Energy Cost. 
 
-512.2 Internal loads for multi-family high-rise residential buildings are prescribed in Tables 512.2.a and b, Multi-Family High Rise Residential Building Schedules. Internal loads for other building types shall be modeled as noted in this subsection.
+512.2 Internal loads for multi-family high-rise residential buildings are prescribed in Tables 512.2.a and b, Multi-Family High Rise Residential Building Schedules. Internal loads for other building types shall be modeled as noted in this subsection. 
 
 Table 512.2. a—Multi-Family High Rise Residential Buildings Schedules—One-Zone Dwelling Unit
 

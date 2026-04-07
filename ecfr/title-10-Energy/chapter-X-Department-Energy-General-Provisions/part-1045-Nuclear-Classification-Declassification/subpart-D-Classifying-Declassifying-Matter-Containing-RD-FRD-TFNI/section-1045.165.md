@@ -1,8 +1,8 @@
 ##### § 1045.165 Once matter marked as RD, FRD, or TFNI is declassified, how is it marked?
 
-(a) Matter that is determined to no longer contain RD, FRD, or TFNI and also does not or no longer contains NSI must be clearly marked to convey to the holder of that matter that the matter is declassified;
+(a) Matter that is determined to no longer contain RD, FRD, or TFNI and also does not or no longer contains NSI must be clearly marked to convey to the holder of that matter that the matter is declassified; 
 
-(b) The front page must identify the person authorizing the declassification by name and position or title, if not otherwise evident, agency, and office of origin; or with a unique identifier; the classification guide that served as the basis for the declassification by short title, date, agency and, when available, the office of origin; and the declassification date. For example:
+(b) The front page must identify the person authorizing the declassification by name and position or title, if not otherwise evident, agency, and office of origin; or with a unique identifier; the classification guide that served as the basis for the declassification by short title, date, agency and, when available, the office of origin; and the declassification date. For example: 
 
 (1) Declassified by: *Jane Doe, Nuclear Analyst, DOE, CTI-61*
 

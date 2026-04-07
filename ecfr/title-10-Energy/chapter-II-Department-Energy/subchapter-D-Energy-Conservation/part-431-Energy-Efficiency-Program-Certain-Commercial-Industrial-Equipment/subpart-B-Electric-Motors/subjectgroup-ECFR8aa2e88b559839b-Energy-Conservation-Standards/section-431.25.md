@@ -1,6 +1,6 @@
 ##### § 431.25 Energy conservation standards and effective dates.
 
-(a) Except as provided for fire pump electric motors in paragraph (b) of this section, each general purpose electric motor (subtype I) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, including a NEMA Design B or an equivalent IEC Design N motor that is a general purpose electric motor (subtype I), manufactured (alone or as a component of another piece of equipment) on or after December 19, 2010, but before June 1, 2016, shall have a nominal full-load efficiency that is not less than the following:
+(a) Except as provided for fire pump electric motors in paragraph (b) of this section, each general purpose electric motor (subtype I) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, including a NEMA Design B or an equivalent IEC Design N motor that is a general purpose electric motor (subtype I), manufactured (alone or as a component of another piece of equipment) on or after December 19, 2010, but before June 1, 2016, shall have a nominal full-load efficiency that is not less than the following: 
 
 Table 1—Nominal Full-Load Efficiencies of General Purpose Electric Motors (Subtype I), Except Fire Pump Electric Motors
 | Motor horsepower/Standard kilowatt equivalent | Nominal full-load efficiency |
@@ -25,7 +25,7 @@ Table 1—Nominal Full-Load Efficiencies of General Purpose Electric Motors (Sub
 | 150/110                                       | 95.4                         |
 | 200/150                                       | 95.4                         |
 
-(b) Each fire pump electric motor that is a general purpose electric motor (subtype I) or general purpose electric motor (subtype II) manufactured (alone or as a component of another piece of equipment) on or after December 19, 2010, but before June 1, 2016, shall have a nominal full-load efficiency that is not less than the following:
+(b) Each fire pump electric motor that is a general purpose electric motor (subtype I) or general purpose electric motor (subtype II) manufactured (alone or as a component of another piece of equipment) on or after December 19, 2010, but before June 1, 2016, shall have a nominal full-load efficiency that is not less than the following: 
 
 Table 2—Nominal Full-Load Efficiencies of Fire Pump Electric Motors
 | Motor horsepower/standard kilowatt equivalent | Nominal full-load efficiency |
@@ -56,7 +56,7 @@ Table 2—Nominal Full-Load Efficiencies of Fire Pump Electric Motors
 | 450/336                                       |                              |
 | 500/373                                       |                              |
 
-(c) Except as provided for fire pump electric motors in paragraph (b) of this section, each general purpose electric motor (subtype II) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, including a NEMA Design B or an equivalent IEC Design N motor that is a general purpose electric motor (subtype II), manufactured (alone or as a component of another piece of equipment) on or after December 19, 2010, but before June 1, 2016, shall have a nominal full-load efficiency that is not less than the following:
+(c) Except as provided for fire pump electric motors in paragraph (b) of this section, each general purpose electric motor (subtype II) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, including a NEMA Design B or an equivalent IEC Design N motor that is a general purpose electric motor (subtype II), manufactured (alone or as a component of another piece of equipment) on or after December 19, 2010, but before June 1, 2016, shall have a nominal full-load efficiency that is not less than the following: 
 
 Table 3—Nominal Full-Load Efficiencies of General Purpose Electric Motors (Subtype II), Except Fire Pump Electric Motors
 | Motor horsepower/   Standard kilowatt equivalent | Nominal full-load efficiency |
@@ -81,7 +81,7 @@ Table 3—Nominal Full-Load Efficiencies of General Purpose Electric Motors (Sub
 | 150/110                                          | 93.6                         |
 | 200/150                                          | 93.6                         |
 
-(d) Each NEMA Design B or an equivalent IEC Design N motor that is a general purpose electric motor (subtype I) or general purpose electric motor (subtype II), excluding fire pump electric motors, with a power rating of more than 200 horsepower, but not greater than 500 horsepower, manufactured (alone or as a component of another piece of equipment) on or after December 19, 2010, but before June 1, 2016 shall have a nominal full-load efficiency that is not less than the following:
+(d) Each NEMA Design B or an equivalent IEC Design N motor that is a general purpose electric motor (subtype I) or general purpose electric motor (subtype II), excluding fire pump electric motors, with a power rating of more than 200 horsepower, but not greater than 500 horsepower, manufactured (alone or as a component of another piece of equipment) on or after December 19, 2010, but before June 1, 2016 shall have a nominal full-load efficiency that is not less than the following: 
 
 Table 4—Nominal Full-Load Efficiencies of NEMA Design B General Purpose Electric Motors (Subtype I and II), Except Fire Pump Electric Motors
 | Motor horsepower/   standard kilowatt equivalent | Nominal full-load efficiency |
@@ -93,37 +93,37 @@ Table 4—Nominal Full-Load Efficiencies of NEMA Design B General Purpose Electr
 | 450/336                                          |                              |
 | 500/373                                          |                              |
 
-(e) For purposes of determining the required minimum nominal full-load efficiency of an electric motor that has a horsepower or kilowatt rating between two horsepower or two kilowatt ratings listed in any table of energy conservation standards in paragraphs (a) through (d) of this section, each such motor shall be deemed to have a listed horsepower or kilowatt rating, determined as follows:
+(e) For purposes of determining the required minimum nominal full-load efficiency of an electric motor that has a horsepower or kilowatt rating between two horsepower or two kilowatt ratings listed in any table of energy conservation standards in paragraphs (a) through (d) of this section, each such motor shall be deemed to have a listed horsepower or kilowatt rating, determined as follows: 
 
-(1) A horsepower at or above the midpoint between the two consecutive horsepowers shall be rounded up to the higher of the two horsepowers;
+(1) A horsepower at or above the midpoint between the two consecutive horsepowers shall be rounded up to the higher of the two horsepowers; 
 
-(2) A horsepower below the midpoint between the two consecutive horsepowers shall be rounded down to the lower of the two horsepowers; or
+(2) A horsepower below the midpoint between the two consecutive horsepowers shall be rounded down to the lower of the two horsepowers; or 
 
-(3) A kilowatt rating shall be directly converted from kilowatts to horsepower using the formula 1 kilowatt = ( 1/0.746) horsepower. The conversion should be calculated to three significant decimal places, and the resulting horsepower shall be rounded in accordance with paragraph (e)(1) or (e)(2) of this section, whichever applies.
+(3) A kilowatt rating shall be directly converted from kilowatts to horsepower using the formula 1 kilowatt = ( 1/0.746) horsepower. The conversion should be calculated to three significant decimal places, and the resulting horsepower shall be rounded in accordance with paragraph (e)(1) or (e)(2) of this section, whichever applies. 
 
-(f) The standards in Table 1 through Table 4 of this section do not apply to definite purpose electric motors, special purpose electric motors, or those motors exempted by the Secretary.
+(f) The standards in Table 1 through Table 4 of this section do not apply to definite purpose electric motors, special purpose electric motors, or those motors exempted by the Secretary. 
 
-(g) The standards in Table 5 through Table 7 of this section apply only to electric motors, including partial electric motors, that satisfy the following criteria:
+(g) The standards in Table 5 through Table 7 of this section apply only to electric motors, including partial electric motors, that satisfy the following criteria: 
 
-(1) Are single-speed, induction motors;
+(1) Are single-speed, induction motors; 
 
-(2) Are rated for continuous duty (MG 1) operation or for duty type S1 (IEC);
+(2) Are rated for continuous duty (MG 1) operation or for duty type S1 (IEC); 
 
-(3) Contain a squirrel-cage (MG 1) or cage (IEC) rotor;
+(3) Contain a squirrel-cage (MG 1) or cage (IEC) rotor; 
 
-(4) Operate on polyphase alternating current 60-hertz sinusoidal line power;
+(4) Operate on polyphase alternating current 60-hertz sinusoidal line power; 
 
-(5) Are rated 600 volts or less;
+(5) Are rated 600 volts or less; 
 
-(6) Have a 2-, 4-, 6-, or 8-pole configuration,
+(6) Have a 2-, 4-, 6-, or 8-pole configuration, 
 
-(7) Are built in a three-digit or four-digit NEMA frame size (or IEC metric equivalent), including those designs between two consecutive NEMA frame sizes (or IEC metric equivalent), or an enclosed 56 NEMA frame size (or IEC metric equivalent),
+(7) Are built in a three-digit or four-digit NEMA frame size (or IEC metric equivalent), including those designs between two consecutive NEMA frame sizes (or IEC metric equivalent), or an enclosed 56 NEMA frame size (or IEC metric equivalent), 
 
-(8) Produce at least one horsepower (0.746 kW) but not greater than 500 horsepower (373 kW), and
+(8) Produce at least one horsepower (0.746 kW) but not greater than 500 horsepower (373 kW), and 
 
-(9) Meet all of the performance requirements of one of the following motor types: A NEMA Design A, B, or C motor or an IEC Design N, NE, NEY, NY or H, HE, HEY, HY motor.
+(9) Meet all of the performance requirements of one of the following motor types: A NEMA Design A, B, or C motor or an IEC Design N, NE, NEY, NY or H, HE, HEY, HY motor. 
 
-(h) Each NEMA Design A motor, NEMA Design B motor, and IEC Design N (including NE, NEY, or NY variants) motor that is an electric motor meeting the criteria in paragraph (g) of this section and with a power rating from 1 horsepower through 500 horsepower, but excluding fire pump electric motors, manufactured (alone or as a component of another piece of equipment) on or after June 1, 2016, but before June 1, 2027, shall have a nominal full-load efficiency of not less than the following:
+(h) Each NEMA Design A motor, NEMA Design B motor, and IEC Design N (including NE, NEY, or NY variants) motor that is an electric motor meeting the criteria in paragraph (g) of this section and with a power rating from 1 horsepower through 500 horsepower, but excluding fire pump electric motors, manufactured (alone or as a component of another piece of equipment) on or after June 1, 2016, but before June 1, 2027, shall have a nominal full-load efficiency of not less than the following: 
 
 Table 5 to Paragraph (h)—Nominal Full-Load Efficiencies of NEMA Design A, NEMA Design B and IEC Design N, NE, NEY or NY Motors (Excluding Fire Pump Electric Motors) at 60 Hz
 | Motor horsepower/   standard kilowatt equivalent | Nominal full-load efficiency (%) |
@@ -154,7 +154,7 @@ Table 5 to Paragraph (h)—Nominal Full-Load Efficiencies of NEMA Design A, NEMA
 | 450/336                                          | 95.8                             |
 | 500/373                                          | 95.8                             |
 
-(i) Starting on June 1, 2016, each NEMA Design C motor and IEC Design H (including HE, HEY, or HY variants) motor that is an electric motor meeting the criteria in paragraph (g) of this section and with a power rating from 1 horsepower through 200 horsepower manufactured (alone or as a component of another piece of equipment) shall have a nominal full-load efficiency that is not less than the following:
+(i) Starting on June 1, 2016, each NEMA Design C motor and IEC Design H (including HE, HEY, or HY variants) motor that is an electric motor meeting the criteria in paragraph (g) of this section and with a power rating from 1 horsepower through 200 horsepower manufactured (alone or as a component of another piece of equipment) shall have a nominal full-load efficiency that is not less than the following: 
 
 Table 6 to Paragraph (i)—Nominal Full-Load Efficiencies of NEMA Design C and IEC Design H, HE, HEY or HY Motors at 60 Hz
 | Motor horsepower/standard kilowatt equivalent | Nominal full-load efficiency (%) |
@@ -179,7 +179,7 @@ Table 6 to Paragraph (i)—Nominal Full-Load Efficiencies of NEMA Design C and I
 | 150/110                                       | 95.8                             |
 | 200/150                                       | 96.2                             |
 
-(j) Starting on June 1, 2016, each fire pump electric motor meeting the criteria in paragraph (g) of this section and with a power rating of 1 horsepower through 500 horsepower, manufactured (alone or as a component of another piece of equipment) shall have a nominal full-load efficiency that is not less than the following:
+(j) Starting on June 1, 2016, each fire pump electric motor meeting the criteria in paragraph (g) of this section and with a power rating of 1 horsepower through 500 horsepower, manufactured (alone or as a component of another piece of equipment) shall have a nominal full-load efficiency that is not less than the following: 
 
 Table 7—Nominal Full-Load Efficiencies of Fire Pump Electric Motors at 60 Hz
 | Motor horsepower/   standard kilowatt   equivalent | Nominal full-load efficiency (%) |
@@ -210,47 +210,47 @@ Table 7—Nominal Full-Load Efficiencies of Fire Pump Electric Motors at 60 Hz
 | 450/336                                            | 95.4                             |
 | 500/373                                            | 95.4                             |
 
-(k) For purposes of determining the required minimum nominal full-load efficiency of an electric motor that has a horsepower or kilowatt rating between two horsepower or two kilowatt ratings listed in any table of energy conservation standards in paragraphs (h) through (l) of this section, each such motor shall be deemed to have a listed horsepower or kilowatt rating, determined as follows:
+(k) For purposes of determining the required minimum nominal full-load efficiency of an electric motor that has a horsepower or kilowatt rating between two horsepower or two kilowatt ratings listed in any table of energy conservation standards in paragraphs (h) through (l) of this section, each such motor shall be deemed to have a listed horsepower or kilowatt rating, determined as follows: 
 
-(1) A horsepower at or above the midpoint between the two consecutive horsepowers shall be rounded up to the higher of the two horsepowers;
+(1) A horsepower at or above the midpoint between the two consecutive horsepowers shall be rounded up to the higher of the two horsepowers; 
 
-(2) A horsepower below the midpoint between the two consecutive horsepowers shall be rounded down to the lower of the two horsepowers; or
+(2) A horsepower below the midpoint between the two consecutive horsepowers shall be rounded down to the lower of the two horsepowers; or 
 
-(3) A kilowatt rating shall be directly converted from kilowatts to horsepower using the formula 1 kilowatt = ( 1/ 0.746) horsepower. The conversion should be calculated to three significant decimal places, and the resulting horsepower shall be rounded in accordance with paragraph (k)(1) or (k)(2) of this section, whichever applies.
+(3) A kilowatt rating shall be directly converted from kilowatts to horsepower using the formula 1 kilowatt = ( 1/ 0.746) horsepower. The conversion should be calculated to three significant decimal places, and the resulting horsepower shall be rounded in accordance with paragraph (k)(1) or (k)(2) of this section, whichever applies. 
 
-(l) The standards in Table 5 through Table 7 of this section do not apply to the following electric motors exempted by the Secretary, or any additional electric motors that the Secretary may exempt:
+(l) The standards in Table 5 through Table 7 of this section do not apply to the following electric motors exempted by the Secretary, or any additional electric motors that the Secretary may exempt: 
 
-(1) Air-over electric motors;
+(1) Air-over electric motors; 
 
-(2) Component sets of an electric motor;
+(2) Component sets of an electric motor; 
 
-(3) Liquid-cooled electric motors;
+(3) Liquid-cooled electric motors; 
 
-(4) Submersible electric motors; and
+(4) Submersible electric motors; and 
 
-(5) Inverter-only electric motors.
+(5) Inverter-only electric motors. 
 
-(m) The standards in tables 8 through 10 of this section apply only to electric motors, including partial electric motors, that satisfy the following criteria:
+(m) The standards in tables 8 through 10 of this section apply only to electric motors, including partial electric motors, that satisfy the following criteria: 
 
-(1) Are single-speed, induction motors;
+(1) Are single-speed, induction motors; 
 
-(2) Are rated for continuous duty (MG 1) operation or for duty type S1 (IEC);
+(2) Are rated for continuous duty (MG 1) operation or for duty type S1 (IEC); 
 
-(3) Contain a squirrel-cage (MG 1) or cage (IEC) rotor;
+(3) Contain a squirrel-cage (MG 1) or cage (IEC) rotor; 
 
-(4) Operate on polyphase alternating current 60-hertz sinusoidal line power;
+(4) Operate on polyphase alternating current 60-hertz sinusoidal line power; 
 
-(5) Are rated 600 volts or less;
+(5) Are rated 600 volts or less; 
 
-(6) Have a 2-, 4-, 6-, or 8-pole configuration,
+(6) Have a 2-, 4-, 6-, or 8-pole configuration, 
 
-(7) Are built in a three-digit or four-digit NEMA frame size (or IEC metric equivalent), including those designs between two consecutive NEMA frame sizes (or IEC metric equivalent), or an enclosed 56 NEMA frame size (or IEC metric equivalent),
+(7) Are built in a three-digit or four-digit NEMA frame size (or IEC metric equivalent), including those designs between two consecutive NEMA frame sizes (or IEC metric equivalent), or an enclosed 56 NEMA frame size (or IEC metric equivalent), 
 
-(8) Produce at least one horsepower (0.746 kW) but not greater than 750 horsepower (559 kW), and
+(8) Produce at least one horsepower (0.746 kW) but not greater than 750 horsepower (559 kW), and 
 
-(9) Meet all of the performance requirements of one of the following motor types: A NEMA Design A, B, or C motor or an IEC Design N, NE, NEY, NY or H, HE, HEY, HY motor.
+(9) Meet all of the performance requirements of one of the following motor types: A NEMA Design A, B, or C motor or an IEC Design N, NE, NEY, NY or H, HE, HEY, HY motor. 
 
-(n) Starting on June 1, 2027, each NEMA Design A motor, NEMA Design B motor, and IEC Design N (including NE, NEY, or NY variants) motor that is an electric motor meeting the criteria in paragraph (m) of this section and with a power rating from 1 horsepower through 750 horsepower, but excluding fire pump electric motors and air-over electric motors, manufactured (alone or as a component of another piece of equipment) shall have a nominal full-load efficiency of not less than the following:
+(n) Starting on June 1, 2027, each NEMA Design A motor, NEMA Design B motor, and IEC Design N (including NE, NEY, or NY variants) motor that is an electric motor meeting the criteria in paragraph (m) of this section and with a power rating from 1 horsepower through 750 horsepower, but excluding fire pump electric motors and air-over electric motors, manufactured (alone or as a component of another piece of equipment) shall have a nominal full-load efficiency of not less than the following: 
 
 Table 8 to Paragraph (n)—Nominal Full-Load Efficiencies of NEMA Design A, NEMA Design B and IEC Design N, NE, NEY or NY Motors (Excluding Fire Pump Electric Motors and Air-Over Electric Motors) at 60 Hz
 | Motor horsepower/standard kilowatt equivalent | Nominal full-load efficiency (%) |
@@ -286,7 +286,7 @@ Table 8 to Paragraph (n)—Nominal Full-Load Efficiencies of NEMA Design A, NEMA
 | 700/522                                       | 95.8                             |
 | 750/559                                       | 95.8                             |
 
-(o) Starting on June 1, 2027, each NEMA Design A motor, NEMA Design B motor, and IEC Design N (including NE, NEY, or NY variants) motor that is an air-over electric motor meeting the criteria in paragraph (m) of this section and with a power rating from 1 horsepower through 250 horsepower, built in a standard frame size, but excluding fire pump electric motors, manufactured (alone or as a component of another piece of equipment) shall have a nominal full-load efficiency of not less than the following:
+(o) Starting on June 1, 2027, each NEMA Design A motor, NEMA Design B motor, and IEC Design N (including NE, NEY, or NY variants) motor that is an air-over electric motor meeting the criteria in paragraph (m) of this section and with a power rating from 1 horsepower through 250 horsepower, built in a standard frame size, but excluding fire pump electric motors, manufactured (alone or as a component of another piece of equipment) shall have a nominal full-load efficiency of not less than the following: 
 
 Table 9 to Paragraph (o)—Nominal Full-Load Efficiencies of NEMA Design A, NEMA Design B and IEC Design N, NE, NEY or NY Standard Frame Size Air-Over Electric Motors (Excluding Fire Pump Electric Motors) at 60 Hz
 | Motor horsepower/standard kilowatt equivalent | Nominal full-load efficiency (%) |
@@ -312,7 +312,7 @@ Table 9 to Paragraph (o)—Nominal Full-Load Efficiencies of NEMA Design A, NEMA
 | 200/150                                       | 95.8                             |
 | 250/186                                       | 96.2                             |
 
-(p) Starting on June 1, 2027, each NEMA Design A motor, NEMA Design B motor, and IEC Design N (including NE, NEY, or NY variants) motor that is an air-over electric motor meeting the criteria in paragraph (m) of this section and with a power rating from 1 horsepower through 20 horsepower, built in a specialized frame size, but excluding fire pump electric motors, manufactured (alone or as a component of another piece of equipment) shall have a nominal full-load efficiency of not less than the following:
+(p) Starting on June 1, 2027, each NEMA Design A motor, NEMA Design B motor, and IEC Design N (including NE, NEY, or NY variants) motor that is an air-over electric motor meeting the criteria in paragraph (m) of this section and with a power rating from 1 horsepower through 20 horsepower, built in a specialized frame size, but excluding fire pump electric motors, manufactured (alone or as a component of another piece of equipment) shall have a nominal full-load efficiency of not less than the following: 
 
 Table 10 to Paragraph (p)—Nominal Full-Load Efficiencies of NEMA Design A, NEMA Design B and IEC Design N, NE, NEY or NY Specialized Frame Size Air-Over Electric Motors (Excluding Fire Pump Electric Motors) at 60 Hz
 | Motor horsepower/standard kilowatt equivalent | Nominal full-load efficiency (%) |
@@ -327,22 +327,22 @@ Table 10 to Paragraph (p)—Nominal Full-Load Efficiencies of NEMA Design A, NEM
 | 15/11                                         | 90.2                             |
 | 20/15                                         | 90.2                             |
 
-(q) For purposes of determining the required minimum nominal full-load efficiency of an electric motor that has a horsepower or kilowatt rating between two horsepower or two kilowatt ratings listed in any table of energy conservation standards in paragraphs (n) through (p) through of this section, each such motor shall be deemed to have a listed horsepower or kilowatt rating, determined as follows:
+(q) For purposes of determining the required minimum nominal full-load efficiency of an electric motor that has a horsepower or kilowatt rating between two horsepower or two kilowatt ratings listed in any table of energy conservation standards in paragraphs (n) through (p) through of this section, each such motor shall be deemed to have a listed horsepower or kilowatt rating, determined as follows: 
 
-(1) A horsepower at or above the midpoint between the two consecutive horsepowers shall be rounded up to the higher of the two horsepowers;
+(1) A horsepower at or above the midpoint between the two consecutive horsepowers shall be rounded up to the higher of the two horsepowers; 
 
-(2) A horsepower below the midpoint between the two consecutive horsepowers shall be rounded down to the lower of the two horsepowers; or
+(2) A horsepower below the midpoint between the two consecutive horsepowers shall be rounded down to the lower of the two horsepowers; or 
 
-(3) A kilowatt rating shall be directly converted from kilowatts to horsepower using the formula 1 kilowatt = ( 1/0.746) horsepower. The conversion should be calculated to three significant decimal places, and the resulting horsepower shall be rounded in accordance with paragraphs (q)(1) or (2) of this section, whichever applies.
+(3) A kilowatt rating shall be directly converted from kilowatts to horsepower using the formula 1 kilowatt = ( 1/0.746) horsepower. The conversion should be calculated to three significant decimal places, and the resulting horsepower shall be rounded in accordance with paragraphs (q)(1) or (2) of this section, whichever applies. 
 
-(r) The standards in tables 8 through 10 of this section do not apply to the following electric motors exempted by the Secretary, or any additional electric motors that the Secretary may exempt:
+(r) The standards in tables 8 through 10 of this section do not apply to the following electric motors exempted by the Secretary, or any additional electric motors that the Secretary may exempt: 
 
-(1) Component sets of an electric motor;
+(1) Component sets of an electric motor; 
 
-(2) Liquid-cooled electric motors;
+(2) Liquid-cooled electric motors; 
 
-(3) Submersible electric motors; and
+(3) Submersible electric motors; and 
 
-(4) Inverter-only electric motors.
+(4) Inverter-only electric motors. 
 
 \[79 FR 31010, May 29, 2014, as amended at 87 FR 63657, Oct. 19, 2022; 88 FR 36150, Sept. 29, 2023\]

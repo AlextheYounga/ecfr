@@ -1,8 +1,8 @@
 ##### § 431.136 Energy conservation standards and their effective dates.
 
-(a) All basic models of commercial ice makers must be tested for performance using the applicable DOE test procedure in § 431.134, be compliant with the applicable standards set forth in paragraphs (b) through (d) of this section, and be certified to the Department of Energy under 10 CFR part 429 of this chapter.
+(a) All basic models of commercial ice makers must be tested for performance using the applicable DOE test procedure in § 431.134, be compliant with the applicable standards set forth in paragraphs (b) through (d) of this section, and be certified to the Department of Energy under 10 CFR part 429 of this chapter. 
 
-(b) Each cube type automatic commercial ice maker with capacities between 50 and 2,500 pounds per 24-hour period manufactured on or after January 1, 2010 and before January 28, 2018, shall meet the following standard levels:
+(b) Each cube type automatic commercial ice maker with capacities between 50 and 2,500 pounds per 24-hour period manufactured on or after January 1, 2010 and before January 28, 2018, shall meet the following standard levels: 
 
 | Equipment type                                                                                          | Type of cooling | Harvest rate   lb ice/24 hours | Maximum   energy use   kWh/100 lb ice | Maximum   condenser   water use 1   gal/100 lb ice |
 | ------------------------------------------------------------------------------------------------------- | --------------- | ------------------------------ | ------------------------------------- | -------------------------------------------------- |
@@ -23,7 +23,7 @@
 | 2 H = harvest rate in pounds per 24 hours, indicating the water or energy use for a given harvest rate. |                 |                                |                                       |                                                    |
 | Source: 42 U.S.C. 6313(d).                                                                              |                 |                                |                                       |                                                    |
 
-(c) Each batch type automatic commercial ice maker with capacities between 50 and 4,000 pounds per 24-hour period manufactured on or after January 28, 2018, shall meet the following standard levels:
+(c) Each batch type automatic commercial ice maker with capacities between 50 and 4,000 pounds per 24-hour period manufactured on or after January 28, 2018, shall meet the following standard levels: 
 
 | Equipment type                                                                                                                     | Type of cooling | Harvest rate   lb ice/24 hours | Maximum   energy use   kilowatt-hours   (kWh)/100 lb ice 1 | Maximum   condenser   water use   gal/100 lb ice 2 |
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------------------ | ---------------------------------------------------------- | -------------------------------------------------- |
@@ -49,7 +49,7 @@
 | 1 H = harvest rate in pounds per 24 hours, indicating the water or energy use for a given harvest rate. Source: 42 U.S.C. 6313(d). |                 |                                |                                                            |                                                    |
 | 2 Water use is for the condenser only and does not include potable water used to make ice.                                         |                 |                                |                                                            |                                                    |
 
-(d) Each continuous type automatic commercial ice maker with capacities between 50 and 4,000 pounds per 24-hour period manufactured on or after January 28, 2018, shall meet the following standard levels:
+(d) Each continuous type automatic commercial ice maker with capacities between 50 and 4,000 pounds per 24-hour period manufactured on or after January 28, 2018, shall meet the following standard levels: 
 
 | Equipment type                                                                                                                     | Type of cooling | Harvest rate   lb ice/24 hours | Maximum   energy use   kWh/100 lb ice 1 | Maximum   condenser   water use   gal/100 lb ice 2 |
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------------------ | --------------------------------------- | -------------------------------------------------- |
