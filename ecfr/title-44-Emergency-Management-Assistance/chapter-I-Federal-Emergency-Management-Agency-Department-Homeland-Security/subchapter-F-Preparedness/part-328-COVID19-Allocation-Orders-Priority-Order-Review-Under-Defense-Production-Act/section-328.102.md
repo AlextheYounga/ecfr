@@ -8,15 +8,15 @@
 
 (1) The need to ensure that scarce or threatened items are appropriately allocated for domestic use;
 
-(2) minimization of disruption to the supply chain, both domestically and abroad;
+(2) Minimization of disruption to the supply chain, both domestically and abroad;
 
-(3) the circumstances surrounding the distribution of the materials and potential hoarding or price-gouging concerns;
+(3) The circumstances surrounding the distribution of the materials and potential hoarding or price-gouging concerns;
 
-(4) the quantity and quality of the materials;
+(4) The quantity and quality of the materials;
 
-(5) humanitarian considerations; and
+(5) Humanitarian considerations; and
 
-(6) international relations and diplomatic considerations.
+(6) International relations and diplomatic considerations.
 
 (d) *Exemption.* (1) The Administrator has determined in the interest of promoting the national defense to generally allow the export of covered materials from shipments made by or on behalf of U.S. manufacturers with continuous export agreements with customers in other countries since at least January 1, 2020, so long as at least 80 percent of such manufacturer's domestic production of such covered materials, on a per item basis, was distributed in the United States in the preceding 12 months. If FEMA determines that a shipment of covered materials falls within this exemption, such materials may be exported without further review by FEMA, provided that the Administrator may waive this exemption and fully review shipments of covered materials under paragraph (b) of this section, if the Administrator determines that doing so is necessary or appropriate to promote the national defense. FEMA will communicate to CBP regarding the application of this exemption to shipments identified by CBP.
 

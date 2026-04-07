@@ -1,5 +1,7 @@
 ##### § 630.1202 Definitions.
 
+Link to an amendment published at 85 FR 48089, Aug. 10, 2020.
+
 In this subpart:
 
 *Accrued leave* has the meaning given that term in § 630.201 of this part.
