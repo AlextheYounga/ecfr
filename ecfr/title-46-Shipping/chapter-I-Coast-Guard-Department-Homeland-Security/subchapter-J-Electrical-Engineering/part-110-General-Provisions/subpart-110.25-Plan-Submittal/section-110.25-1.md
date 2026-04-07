@@ -2,7 +2,7 @@
 
 The following plans, if applicable to the particular vessel, must be submitted for Coast Guard review in accordance with § 110.25-3:
 
-Note 1 to § 110.25-1 introductory text :
+Note 1 to § 110.25-1 introductory text:
 
 A Navigation and Vessel Inspection Circular on the Subject of “Coast Guard Review of Merchant Vessel Plans and Specifications” is available from the offices listed in § 110.25-3. The Circular recommends practices and procedures for plan submittals.
 
