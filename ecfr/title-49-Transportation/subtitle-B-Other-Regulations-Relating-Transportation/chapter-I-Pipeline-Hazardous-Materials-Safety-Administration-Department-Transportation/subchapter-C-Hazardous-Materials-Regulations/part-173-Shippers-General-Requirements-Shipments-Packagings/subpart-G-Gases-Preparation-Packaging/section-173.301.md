@@ -2,41 +2,32 @@
 
 (a) *General qualifications for use of cylinders.* Unless otherwise stated, as used in this section, the term “cylinder” includes a UN pressure receptacle. As used in this subpart, filled or charged means an introduction or presence of a hazardous material in a cylinder. A cylinder filled with a Class 2 hazardous material (gas) and offered for transportation must meet the requirements in this section and §§ 173.301a through 173.305, as applicable.
 
-(1) Compressed gases must be in UN pressure receptacles built in accordance with the UN standards or in metal cylinders and containers built in accordance with the DOT and ICC specifications and part 178 of this subchapter in effect at the time of manufacture, and requalified and marked as prescribed in subpart C in part 180 of this subchapter, if applicable. The DOT and ICC specifications authorized for use are as follows:
+(1) Compressed gases must be in UN pressure receptacles built in accordance with the UN standards or in metal cylinders and containers built in accordance with the DOT and ICC specifications and part 178 of this subchapter in effect at the time of manufacture or CRC, BTC, CTC or TC specification, and requalified and marked as prescribed in subpart C in part 180 of this subchapter, if applicable. The DOT, ICC, CRC, BTC, CTC and TC specifications authorized for use are as follows:
 
-Packagings 
+Packagings1
 
-1 Use of existing cylinders is authorized. New construction is not authorized.
+|         |         |
+| ------- | ------- |
+| 2P      | 4AA480  |
+| 2Q      | 4B      |
+| ICC-3 2 | 4B240ET |
+| 3A      | 4BA     |
+| 3AA     | 4BW     |
+| 3AL     | 4D      |
+| 3AX     | 4DA     |
+| 3A480X  | 4DS     |
+| 3AAX    | 4E      |
+| 3B      | 4L      |
+| 3BN     | 8       |
+| 3E      | 8AL     |
+| 3HT     | 39      |
+| 3T      |         |
 
-*   2P
-*   2Q
-*   ICC-3 1
-*   3A
-*   3AA
-*   3AL
-*   3AX
-*   3A480X
-*   3AAX
-*   3B
-*   3BN
-*   3E
-*   3HT
-*   3T
-*   4AA480
-*   4B
-*   4B240ET
-*   4BA
-*   4BW
-*   4D
-*   4DA
-*   4DS
-*   4E
-*   4L
-*   8
-*   8AL
-*   39
+1 Authorized CRC, BTC, CTC or TC specification cylinders that correspond with a DOT specification cylinder are listed in § 171.12(a)(4)(iii) of this subchapter.
 
-(2) A cylinder must be filled in accordance with this part. Before each filling of a cylinder, the person filling the cylinder must visually inspect the outside of the cylinder. A cylinder that has a crack or leak, is bulged, has a defective valve or a leaking or defective pressure relief device, or bears evidence of physical abuse, fire or heat damage, or detrimental rusting or corrosion, may not be filled and offered for transportation. A cylinder may be repaired and requalified only as prescribed in subpart C of part 180 of this subchapter.
+2 Use of existing cylinders is authorized. New construction is not authorized.
+
+(2) A cylinder must be filled in accordance with this part, except that a “TC” cylinder must be filled in accordance with the Transport Canada TDG Regulations (IBR; see § 171.7 of this subchapter). Before each filling of a cylinder, the person filling the cylinder must visually inspect the outside of the cylinder. A cylinder that has a crack or leak, is bulged, has a defective valve or a leaking or defective pressure relief device, or bears evidence of physical abuse, fire or heat damage, or detrimental rusting or corrosion, may not be filled and offered for transportation. A cylinder may be repaired and requalified only as prescribed in subpart C of part 180 of this subchapter.
 
 (3) Pressure relief devices must be tested for leaks before a filled cylinder is shipped from the cylinder filling plant. It is expressly forbidden to repair a leaking fusible plug device where the leak is through the fusible metal or between the fusible metal and the opening in the plug body, except by removal and replacement of the pressure relief device.
 

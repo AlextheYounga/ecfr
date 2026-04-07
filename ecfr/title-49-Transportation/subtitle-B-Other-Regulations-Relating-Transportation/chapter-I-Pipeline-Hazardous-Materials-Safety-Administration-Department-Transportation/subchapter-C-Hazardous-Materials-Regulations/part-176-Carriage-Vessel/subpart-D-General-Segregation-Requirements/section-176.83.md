@@ -12,13 +12,15 @@
 
 (ii) Between hazardous materials of different classes which comprise a group of substances that do not react dangerously with each other. The following materials are grouped by compatibility:
 
-(A) Hydrogen peroxide, aqueous solutions *with not less than 8 percent but less than 20 percent hydrogen peroxide (stabilized as necessary)*; Hydrogen peroxide, aqueous solutions *with not less than 20 percent but not more than 40 percent hydrogen peroxide;* Hydrogen peroxide, aqueous solutions *with more than 40 percent but not more than 60 percent hydrogen peroxide;* Hydrogen peroxide and peroxyacetic acid mixtures, stabilized *with acids, water and not more than 5 percent peroxyacetic acid;* Organic peroxide type D, liquid; Organic peroxide type E, liquid; Organic peroxide type F, liquid; and
+(A) Hydrogen peroxide, aqueous solutions *with not less than 8 percent but less than 20 percent hydrogen peroxide (stabilized as necessary);* Hydrogen peroxide, aqueous solutions *with not less than 20 percent but not more than 40 percent hydrogen peroxide;* Hydrogen peroxide, aqueous solutions *with more than 40 percent but not more than 60 percent hydrogen peroxide;* Hydrogen peroxide and peroxyacetic acid mixtures, stabilized *with acids, water and not more than 5 percent peroxyacetic acid;* Organic peroxide type D, liquid; Organic peroxide type E, liquid; Organic peroxide type F, liquid;
 
-(B) Dichlorosilane, Silicon tetrachloride, and Trichlorosilane.
+(B) Dichlorosilane, Silicon tetrachloride, and Trichlorosilane; and
+
+(C) Organometallic substance, solid, pyrophoric; Organometallic substance, liquid, pyrophoric; Organometallic substance, solid, pyrophoric, water-reactive; Organometallic substance, liquid, pyrophoric, water-reactive; Organometallic substance, solid, water-reactive; Organometallic substance, solid, water-reactive, flammable; Organometallic substance, solid, water-reactive, self-heating; Organometallic substance, liquid, water-reactive; Organometallic substance, liquid, water-reactive, flammable; and Organometallic substance, solid, self-heating.
 
 (5) Whenever hazardous materials are stowed together, whether or not in a cargo transport unit, the segregation of such hazardous materials from others must always be in accordance with the most restrictive requirements for any of the hazardous materials concerned.
 
-(6) When the § 172.101 Table or § 172.402 requires packages to bear a subsidiary hazard label or labels, the segregation appropriate to the subsidiary hazards must be applied when that segregation is more restrictive than that required by the primary hazard. For the purposes of this paragraph, the segregation requirements corresponding to an explosive subsidiary hazard are - except for organic peroxides which are those corresponding to Division 1.3 - those for Division 1.4 (explosive) materials.
+(6) When the § 172.101 Table or § 172.402 requires packages to bear a subsidiary hazard label or labels, the segregation appropriate to the subsidiary hazards must be applied when that segregation is more restrictive than that required by the primary hazard. For the purposes of this paragraph, the segregation requirements corresponding to an explosive subsidiary hazard are—except for organic peroxides which are those corresponding to Division 1.3—those for Division 1.4 (explosive) materials.
 
 (7) Where, for the purposes of segregation, terms such as “away from” a particular hazard class are used in the § 172.101 Table, the segregation requirement applies to:
 
@@ -44,43 +46,35 @@
 
 (b) *General Segregation Table.* The following table sets forth the general requirements for segregation between the various classes (divisions) of hazardous materials. Certain divisions are listed as separate hazard classes for the purpose of this table (*e.g.*, “2.1” and “2.2”). The properties of materials within each class may vary greatly and may require greater segregation than is reflected in this table. If the § 172.101 Table sets forth particular requirements for segregation, they take precedence over these general requirements.
 
-Table 176.83(b) - General Segregation Requirements for Hazardous Materials
+Table 176.83(b)—General Segregation Requirements for Hazardous Materials
 
 \[Segregation must also take account of a single secondary hazard label, as required by paragraph (a)(6) of this section.\]
-
-| Class                                       | 1.1, 1.2, 1.5 | 1.3  | 1.4, 1.6 | 2.1 | 2.2 | 2.3 | 3 | 4.1 | 4.2 | 4.3 | 5.1 | 5.2 | 6.1 | 6.2 | 7 | 8 | 9 |
-| ------------------------------------------- | ------------- | ---- | -------- | --- | --- | --- | - | --- | --- | --- | --- | --- | --- | --- | - | - | - |
-| Explosives, 1.1, 1.2, 1.5                   | (\*)          | (\*) | (\*)     | 4   | 2   | 2   | 4 | 4   | 4   | 4   | 4   | 4   | 2   | 4   | 2 | 4 | X |
-| Explosives, 1.3                             | (\*)          | (\*) | (\*)     | 4   | 2   | 2   | 4 | 3   | 3   | 4   | 4   | 4   | 2   | 4   | 2 | 2 | X |
-| Explosives, 1.4, 1.6                        | (\*)          | (\*) | (\*)     | 2   | 1   | 1   | 2 | 2   | 2   | 2   | 2   | 2   | X   | 4   | 2 | 2 | X |
-| Flammable gases 2.1                         | 4             | 4    | 2        | X   | X   | X   | 2 | 1   | 2   | 2   | 2   | 2   | X   | 4   | 2 | 1 | X |
-| Non-toxic, non-flammable gases 2.2          | 2             | 2    | 1        | X   | X   | X   | 1 | X   | 1   | X   | X   | 1   | X   | 2   | 1 | X | X |
-| Poisonous gases 2.3                         | 2             | 2    | 1        | X   | X   | X   | 2 | X   | 2   | X   | X   | 2   | X   | 2   | 1 | X | X |
-| Flammable liquids 3                         | 4             | 4    | 2        | 2   | 1   | 2   | X | X   | 2   | 2   | 2   | 2   | X   | 3   | 2 | X | X |
-| Flammable solids 4.1                        | 4             | 3    | 2        | 1   | X   | X   | X | X   | 1   | X   | 1   | 2   | X   | 3   | 2 | 1 | X |
-| Spontaneously combustible substances 4.2    | 4             | 3    | 2        | 2   | 1   | 2   | 2 | 1   | X   | 1   | 2   | 2   | 1   | 3   | 2 | 1 | X |
-| Substances which are dangerous when wet 4.3 | 4             | 4    | 2        | 2   | X   | X   | 2 | X   | 1   | X   | 2   | 2   | X   | 2   | 2 | 1 | X |
-| Oxidizing substances 5.1                    | 4             | 4    | 2        | 2   | X   | X   | 2 | 1   | 2   | 2   | X   | 2   | 1   | 3   | 1 | 2 | X |
-| Organic peroxides 5.2                       | 4             | 4    | 2        | 2   | 1   | 2   | 2 | 2   | 2   | 2   | 2   | X   | 1   | 3   | 2 | 2 | X |
-| Poisons 6.1                                 | 2             | 2    | X        | X   | X   | X   | X | X   | 1   | X   | 1   | 1   | X   | 1   | X | X | X |
-| Infectious substances 6.2                   | 4             | 4    | 4        | 4   | 2   | 2   | 3 | 3   | 3   | 2   | 3   | 3   | 1   | X   | 3 | 3 | X |
-| Radioactive materials 7                     | 2             | 2    | 2        | 2   | 1   | 1   | 2 | 2   | 2   | 2   | 1   | 2   | X   | 3   | X | 2 | X |
-| Corrosives 8                                | 4             | 2    | 2        | 1   | X   | X   | X | 1   | 1   | 1   | 2   | 2   | X   | 3   | 2 | X | X |
-| Miscellaneous dangerous substances 9        | X             | X    | X        | X   | X   | X   | X | X   | X   | X   | X   | X   | X   | X   | X | X | X |
-
-Numbers and symbols relate to the following terms as defined in this section:
-
-1 - “Away from.”
-
-2 - “Separated from.”
-
-3 - “Separated by a complete compartment or hold from.”
-
-4 - “Separated longitudinally by an intervening complete compartment or hold from.”
-
-X - The segregation, if any, is shown in the § 172.101 table.
-
-\* - See § 176.144 of this part for segregation within Class 1.
+| Class                                                                             | 1.1, 1.2, 1.5 | 1.3  | 1.4, 1.6 | 2.1 | 2.2 | 2.3 | 3 | 4.1 | 4.2 | 4.3 | 5.1 | 5.2 | 6.1 | 6.2 | 7 | 8 | 9 |
+| --------------------------------------------------------------------------------- | ------------- | ---- | -------- | --- | --- | --- | - | --- | --- | --- | --- | --- | --- | --- | - | - | - |
+| Explosives, 1.1, 1.2, 1.5                                                         | (\*)          | (\*) | (\*)     | 4   | 2   | 2   | 4 | 4   | 4   | 4   | 4   | 4   | 2   | 4   | 2 | 4 | X |
+| Explosives, 1.3                                                                   | (\*)          | (\*) | (\*)     | 4   | 2   | 2   | 4 | 3   | 3   | 4   | 4   | 4   | 2   | 4   | 2 | 2 | X |
+| Explosives, 1.4, 1.6                                                              | (\*)          | (\*) | (\*)     | 2   | 1   | 1   | 2 | 2   | 2   | 2   | 2   | 2   | X   | 4   | 2 | 2 | X |
+| Flammable gases 2.1                                                               | 4             | 4    | 2        | X   | X   | X   | 2 | 1   | 2   | 2   | 2   | 2   | X   | 4   | 2 | 1 | X |
+| Non-toxic, non-flammable gases 2.2                                                | 2             | 2    | 1        | X   | X   | X   | 1 | X   | 1   | X   | X   | 1   | X   | 2   | 1 | X | X |
+| Poisonous gases 2.3                                                               | 2             | 2    | 1        | X   | X   | X   | 2 | X   | 2   | X   | X   | 2   | X   | 2   | 1 | X | X |
+| Flammable liquids 3                                                               | 4             | 4    | 2        | 2   | 1   | 2   | X | X   | 2   | 2   | 2   | 2   | X   | 3   | 2 | X | X |
+| Flammable solids 4.1                                                              | 4             | 3    | 2        | 1   | X   | X   | X | X   | 1   | X   | 1   | 2   | X   | 3   | 2 | 1 | X |
+| Spontaneously combustible substances 4.2                                          | 4             | 3    | 2        | 2   | 1   | 2   | 2 | 1   | X   | 1   | 2   | 2   | 1   | 3   | 2 | 1 | X |
+| Substances which are dangerous when wet 4.3                                       | 4             | 4    | 2        | 2   | X   | X   | 2 | X   | 1   | X   | 2   | 2   | X   | 2   | 2 | 1 | X |
+| Oxidizing substances 5.1                                                          | 4             | 4    | 2        | 2   | X   | X   | 2 | 1   | 2   | 2   | X   | 2   | 1   | 3   | 1 | 2 | X |
+| Organic peroxides 5.2                                                             | 4             | 4    | 2        | 2   | 1   | 2   | 2 | 2   | 2   | 2   | 2   | X   | 1   | 3   | 2 | 2 | X |
+| Poisons 6.1                                                                       | 2             | 2    | X        | X   | X   | X   | X | X   | 1   | X   | 1   | 1   | X   | 1   | X | X | X |
+| Infectious substances 6.2                                                         | 4             | 4    | 4        | 4   | 2   | 2   | 3 | 3   | 3   | 2   | 3   | 3   | 1   | X   | 3 | 3 | X |
+| Radioactive materials 7                                                           | 2             | 2    | 2        | 2   | 1   | 1   | 2 | 2   | 2   | 2   | 1   | 2   | X   | 3   | X | 2 | X |
+| Corrosives 8                                                                      | 4             | 2    | 2        | 1   | X   | X   | X | 1   | 1   | 1   | 2   | 2   | X   | 3   | 2 | X | X |
+| Miscellaneous dangerous substances 9                                              | X             | X    | X        | X   | X   | X   | X | X   | X   | X   | X   | X   | X   | X   | X | X | X |
+| Numbers and symbols relate to the following terms as defined in this section:     |               |      |          |     |     |     |   |     |     |     |     |     |     |     |   |   |   |
+| 1—“Away from.”                                                                    |               |      |          |     |     |     |   |     |     |     |     |     |     |     |   |   |   |
+| 2—“Separated from.”                                                               |               |      |          |     |     |     |   |     |     |     |     |     |     |     |   |   |   |
+| 3—“Separated by a complete compartment or hold from.”                             |               |      |          |     |     |     |   |     |     |     |     |     |     |     |   |   |   |
+| 4—“Separated longitudinally by an intervening complete compartment or hold from.” |               |      |          |     |     |     |   |     |     |     |     |     |     |     |   |   |   |
+| X—The segregation, if any, is shown in the § 172.101 table.                       |               |      |          |     |     |     |   |     |     |     |     |     |     |     |   |   |   |
+| \*—See § 176.144 of this part for segregation within Class 1.                     |               |      |          |     |     |     |   |     |     |     |     |     |     |     |   |   |   |
 
 (c) *Segregation requirements for breakbulk cargo.* (1) The requirements of this paragraph apply to the segregation of packages containing hazardous materials and stowed as breakbulk cargo;
 
@@ -138,18 +132,15 @@ One of the two decks must be resistant to fire and liquid.
 
 (4) In table § 176.83(f), a *container space* means a distance of not less than 6 m (20 feet) fore and aft or not less than 2.5 m (8 feet) athwartship.
 
-Table 176.83(f) - Segregation of Containers on Board Container Ships
-
+Table 176.83(f)—Segregation of Containers on Board Container Ships
 | Segregation requirement                                                            | Vertical                                                  | Horizontal                                                                |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 1\. “Away from”                                                                    | One on top of the other permitted                         | Open on top of closed permitted         Otherwise as for open versus open |
 | 2\. “Separated from”                                                               | Not in the same vertical line unless segregated by a deck | As for open versus open                                                   |
 | 3\. “Separated by a complete compartment or hold from”                             | Not in the same vertical line unless segregated by a deck | As for open versus open                                                   |
 | 4\. “Separated longitudinally by an intervening complete compartment or hold from” | Prohibited                                                |                                                                           |
-
-\* Containers not less than 6 m (20 feet) from intervening bulkhead.
-
-Note: All bulkheads and decks must be resistant to fire and liquid.
+| \* Containers not less than 6 m (20 feet) from intervening bulkhead.               |                                                           |                                                                           |
+| **Note:** All bulkheads and decks must be resistant to fire and liquid.            |                                                           |                                                                           |
 
 (g) *Segregation of cargo transport units on board trailerships and trainships:* (1) The requirements of this paragraph apply to the segregation of cargo transport units which are carried on board trailerships and trainships or in “roll-on/roll-off” cargo spaces.
 
@@ -157,8 +148,7 @@ Note: All bulkheads and decks must be resistant to fire and liquid.
 
 (3) *Segregation Table.* Table § 176.83(g) sets forth the general requirements for segregation between transport units on board trailerships and trainships.
 
-Table 176.83(g) - Segregation of Cargo Transport Units on Board Trailerships and Trainships.
-
+Table 176.83(g)—Segregation of Cargo Transport Units on Board Trailerships and Trainships.
 | Segregation   requirement                                                          |                                      |
 | ---------------------------------------------------------------------------------- | ------------------------------------ |
 | 1\. “Away From”                                                                    | Fore and aft                         |
@@ -166,8 +156,7 @@ Table 176.83(g) - Segregation of Cargo Transport Units on Board Trailerships and
 | 2\. “Separated from”                                                               | Fore and aft         Athwartships    |
 | 3\. “Separated by a complete compartment or hold from”                             | Fore and aft         Athwartships    |
 | 4\. “Separated longitudinally by an intervening complete compartment or hold from” | Fore and aft            Athwartships |
-
-Note: All bulkheads and decks must be resistant to fire and liquid.
+| **Note:** All bulkheads and decks must be resistant to fire and liquid.            |                                      |
 
 (h) *Segregation on board barge carrying vessels:* (1) The requirements of this section apply to the segregation in shipborne barges as well as to the segregation between shipborne barges carried on board vessels specially designed and equipped to carry such barges.
 
@@ -193,8 +182,7 @@ Note: All bulkheads and decks must be resistant to fire and liquid.
 
 (4) In Table § 176.83(l)(3), a container space means a distance of not less than 6 m (20 feet) fore and aft or not less than 2.5 m (8 feet) athwartship.
 
-Table § 176.83(L)(3) - Segregation of Cargo Transport Units on Board Hatchless Container Ships
-
+Table § 176.83(L)(3)—Segregation of Cargo Transport Units on Board Hatchless Container Ships
 | Segregation requirement                                                            | Vertical                      | Horizontal                          |
 | ---------------------------------------------------------------------------------- | ----------------------------- | ----------------------------------- |
 | 1\. “Away from”                                                                    | On top of the other permitted | Open on top of closed permitted     |
@@ -205,10 +193,8 @@ Table § 176.83(L)(3) - Segregation of Cargo Transport Units on Board Hatchless 
 |                                                                                    |                               |                                     |
 | 4\. “Separated longitudinally by an intervening complete compartment or hold from” | Prohibited                    | Prohibited                          |
 |                                                                                    |                               |                                     |
-
-\* Containers not less than 6 m (20 feet) from intervening bulkhead.
-
-Note: All bulkheads and decks must be resistant to fire and liquid.
+| \* Containers not less than 6 m (20 feet) from intervening bulkhead.               |                               |                                     |
+| **Note:** All bulkheads and decks must be resistant to fire and liquid.            |                               |                                     |
 
 (m) *Provisions for segregation groups:* (1) For the purpose of segregation, materials having certain similar chemical properties have been grouped together in segregation groups. The segregation groups (such as “acids”, “chlorates”, “permanganates”) and the entries allocated to each of these groups include the substances identified in section 3.1.4 of the IMDG Code (IBR, see § 171.7 of this subchapter). When column (10B) of the § 172.101 Table refers to a numbered stowage provision set forth in § 176.84(b) such as “Stow ‘away from’ acids”, that particular stowage/segregation requirement applies to all the materials allocated to the respective segregation group.
 
@@ -216,4 +202,4 @@ Note: All bulkheads and decks must be resistant to fire and liquid.
 
 (3) The segregation groups described above do not address materials that fall outside the classification criteria of the hazardous materials regulations, although it is recognized that some non-hazardous materials have certain chemical properties similar to hazardous materials listed in the segregation groups. A person who offers a hazardous material for transportation or the person responsible for packing the materials into a cargo transport unit who does have knowledge of the chemical properties of such non-hazardous materials may identify a relevant segregation group and apply the segregation requirements for that segregation group.
 
-\[Amdt. 176-30, 55 FR 52690, Dec. 21, 1990\] Editorial Note:For Federal Register citations affecting § 176.83, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+\[Amdt. 176-30, 55 FR 52690, Dec. 21, 1990\] Editorial Note:For Federal Register citations affecting § 176.83, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
