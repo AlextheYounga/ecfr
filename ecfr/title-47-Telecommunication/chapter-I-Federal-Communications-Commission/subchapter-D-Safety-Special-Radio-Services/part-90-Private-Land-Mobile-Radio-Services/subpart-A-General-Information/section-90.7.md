@@ -18,17 +18,17 @@
 
 *900 MHz narrowband segment.* See 47 CFR 27.1501.
 
-*900 MHz SMR MTA-based license* or *MTA license.* A license authorizing the right to use a specified block of 900 MHz SMR spectrum within one of the 47 Major Trading Areas (“MTAs”), as embodied in Rand McNally's Trading Areas System MTA Diskette and geographically represented in the map contained in Rand McNally's Commercial Atlas & Marketing Guide (the “MTA Map”), with the following exceptions and additions:
+*900 MHz SMR MTA-based license or MTA license.* (1) A license authorizing the right to use a specified block of 900 MHz SMR spectrum within one of the 47 Major Trading Areas (“MTAs”), as embodied in Rand McNally's Trading Areas System MTA Diskette and geographically represented in the map contained in Rand McNally's Commercial Atlas & Marketing Guide (the “MTA Map”), with the following exceptions and additions:
 
-(1) Alaska is separated from the Seattle MTA and is licensed separately.
+(i) Alaska is separated from the Seattle MTA and is licensed separately.
 
-(2) Guam and the Northern Mariana Islands are licensed as a single MTA-like area.
+(ii) Guam and the Northern Mariana Islands are licensed as a single MTA-like area.
 
-(3) Puerto Rico and the United States Virgin Islands are licensed as a single MTA-like area.
+(iii) Puerto Rico and the United States Virgin Islands are licensed as a single MTA-like area.
 
-(4) American Samoa is licensed as a single MTA-like area.
+(iv) American Samoa is licensed as a single MTA-like area.
 
-The MTA map is available for public inspection in the Reference Information Center (Room CY-A257), 445 12th Steet, SW., Washington, DC.
+(2) The MTA map is available for public inspection at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a).
 
 *Antenna height above average terrain (AAT).* Height of the center of the radiating element of the antenna above the average terrain. (See § 90.309(a)(4) for calculation method.)
 
@@ -82,7 +82,7 @@ The MTA map is available for public inspection in the Reference Information Cent
 
 *Dispatch point.* Any place from which radio messages can be originated under the supervision of a control point.
 
-*EA-based or EA license.* A license authorizing the right to use a specified block of SMR or LMS spectrum within one of the 175 Economic Areas (EAs) as defined by the Department of Commerce Bureau of Economic Analysis. The EA Listings and the EA Map are available for public inspection at the Reference Information Center (Room CY-A257), 445 12th Steet, SW., Washington, DC 20554.
+*EA-based or EA license.* A license authorizing the right to use a specified block of SMR or LMS spectrum within one of the 175 Economic Areas (EAs) as defined by the Department of Commerce Bureau of Economic Analysis. The EA Listings and the EA Map are available for public inspection at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a).
 
 *Economic Areas (EAs).* A total of 175 licensing regions based on the United States Department of Commerce Bureau of Economic Analysis Economic Areas defined as of February 1995, with the following exceptions:
 

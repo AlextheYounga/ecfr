@@ -18,7 +18,7 @@
 
 (ii) For purposes of section 809(d)(5) and this subparagraph, the term *nonparticipating contracts* means those contracts which during the taxable year contain no right to participate in the divisible surplus of the company. For example, if at any time during the taxable year for which the deduction allowed under section 809(d)(5) and this subparagraph is claimed such contracts have rights to dividends or similar distributions (as defined in section 811(a) and paragraph (a) of § 1.811-2), such contracts shall no longer be deemed nonparticipating contracts and, therefore, no deduction shall be allowed. Thus, if a class of contracts having no right to participate in the divisible surplus of the company is in force for nine years and on March 10, 1958, it is announced that such contracts shall be accorded dividend rights as of August 1, 1958, no deduction shall be allowed under section 809(d)(5) and this subparagraph for the taxable year 1958 or any succeeding taxable year, whether or not dividends are actually paid on such contracts. However, if the announcement of March 10, 1958, states that such contracts shall be accorded dividend rights as of January 1, 1959, a deduction under section 809(d)(5) and this subparagraph shall be allowed for the taxable year 1958 but not for any succeeding taxable year.
 
-(iii) For purposes of section 809(d)(5) and this subparagraph, the term *reserves for nonparticipating contracts* means such part of the life insurance reserves (as defined in section 801(b) and § 1.801-4), other than that portion of such reserves which is allocable to annuity features, as relates to nonparticipating contracts (as defined in subdivision (ii) of this subparagraph). The amount of life insurance reserves taken into account shall be adjusted first as required by section 818(c) (relating to an election with respect to life insurance reserves computed on a preliminary term basis) and then as required by section 806(a) (relating to adjustments for certain changes in reserves and assets). In the case of the adjustments required by section 810(d) (relating to adjustment for change in computing reserves), the increase in life insurance reserves attributable to reserve strengthening shall be taken into account in accordance with the rules prescribed in section 810(d) and § 1.810-3.
+(iii) For purposes of section 809(d)(5) and this subparagraph, the term *reserves for nonparticipating contracts* means such part of the life insurance reserves (as defined in section 801(b) and § 1.801-4), other than that portion of such reserves which is allocable to annuity features, as relates to nonparticipating contracts (as defined in subdivision (ii) of this subparagraph). The amount of life insurance reserves taken into account shall be adjusted first as required by section 818(c) (relating to an election with respect to life insurance reserves computed on a preliminary term basis) and then as required by section 806(a) (relating to adjustments for certain changes in reserves and assets). In the case of the adjustments required by section 810(d) (relating to adjustment for change in computing reserves), the increase in life insurance reserves attributable to reserve strengthening shall be taken into account in accordance with the rules prescribed in section 810(d).
 
 (iv) For purposes of section 809(d)(5) and this subparagraph, the term *premiums* means the net amount of the premiums and other consideration attributable to nonparticipating contracts (as defined in subdivision (ii) of this subparagraph) which are taken into account under section 809(c)(1). For this purpose, premiums include only such amounts attributable to such contracts which are issued or renewed for periods of 5 years or more, but does not include that portion of the premiums which is allocable to annuity features. No portion of a premium shall be deemed allocable to annuity features solely because a contract, such as an endowment contract, provides that at maturity the insured shall have an option to take an annuity. The determination of whether a contract meets the 5-year requirement shall be made as of the date the contract is issued, or as of the date it is renewed, whichever is applicable. Thus, a 20-year nonparticipating endowment policy shall qualify for the deduction under section 809(d)(5), even though the insured subsequently dies at the end of the second year, since the policy is issued for a period of 5 years or more. However, a 1-year renewable term contract shall not qualify, since as of the date it is issued (or of any renewal date) it is not issued (or renewed) for a period of 5 years or more. In like manner, a policy originally issued for a 3-year period and subsequently renewed for an additional 3-year period shall not qualify. However, if this policy is renewed for a period of 5 years or more, the policy shall qualify for the deduction under section 809(d)(5) from the date it is renewed.
 
@@ -26,67 +26,24 @@
 
 Example.Assume the following facts with respect to X, a life insurance company, for the taxable year 1958:
 
-Life insurance reserves on nonparticipating contracts without annuity features (other than group contracts) at 1-1-58
-
-$150,000 
-
-Life insurance reserves on nonparticipating contracts without annuity features (other than group contracts) at 12-31-58
-
-225,000 
-
-Annuity reserves on nonparticipating contracts (other than group contracts) at 1-1-58
-
-48,000 
-
-Annuity reserves on nonparticipating contracts (other than group contracts) at 12-31-58
-
-57,000 
-
-Premiums on nonparticipating contracts without annuity features (other than group contracts) issued or renewed for 5 years or more
-
-85,000 
-
-Premiums on nonparticipating contracts allocable to annuity features (other than group contracts) issued or renewed for 5 years or more
-
-14,000 
-
-Return premiums on nonparticipating contracts without annuity features (other than group contracts)
-
-5,000
+| Life insurance reserves on nonparticipating contracts without annuity features (other than group contracts) at 1-1-58                   | $150,000 |
+| Life insurance reserves on nonparticipating contracts without annuity features (other than group contracts) at 12-31-58                 | 225,000  |
+| Annuity reserves on nonparticipating contracts (other than group contracts) at 1-1-58                                                   | 48,000   |
+| Annuity reserves on nonparticipating contracts (other than group contracts) at 12-31-58                                                 | 57,000   |
+| Premiums on nonparticipating contracts without annuity features (other than group contracts) issued or renewed for 5 years or more      | 85,000   |
+| Premiums on nonparticipating contracts allocable to annuity features (other than group contracts) issued or renewed for 5 years or more | 14,000   |
+| Return premiums on nonparticipating contracts without annuity features (other than group contracts)                                     | 5,000    |
 
 In order to determine the deduction under section 809(d)(5) (without regard to the limitation of section 809(f)), X would make up the following schedule:
 
-(1) Life insurance reserves on nonparticipating contracts without annuity features (other than group contracts) at 12-31-58
-
-$225,000 
-
-(2) Life insurance reserves on nonparticipating contracts without annuity features (other than group contracts) at 1-1-58
-
-150,000 
-
-(3) Excess of item (1) over item (2) ($225,000 minus $150,000)
-
-75,000 
-
-(4) 10 percent of item (3) (10% × $75,000)
-
-7,500 
-
-(5) Net premiums on nonparticipating contracts without annuity features issued or renewed for 5 years or more (other than group contracts) (gross premiums on such contracts ($85,000) minus return premiums ($5,000) on such contracts)
-
-80,000 
-
-(6) 3 percent of item (5) (3% × $80,000)
-
-2,400 
-
-(7) The greater of item (4) or item (6)
-
-7,500 
-
-(8) Tentative deduction under sec. 809(d)(5) (computed without regard to the limitation of sec. 809(f))
-
-7,500
+| (1) Life insurance reserves on nonparticipating contracts without annuity features (other than group contracts) at 12-31-58                                                                                                              | $225,000 |       |
+| (2) Life insurance reserves on nonparticipating contracts without annuity features (other than group contracts) at 1-1-58                                                                                                                | 150,000  |       |
+| (3) Excess of item (1) over item (2) ($225,000 minus $150,000)                                                                                                                                                                           | 75,000   |       |
+| (4) 10 percent of item (3) (10% × $75,000)                                                                                                                                                                                               |          | 7,500 |
+| (5) Net premiums on nonparticipating contracts without annuity features issued or renewed for 5 years or more (other than group contracts) (gross premiums on such contracts ($85,000) minus return premiums ($5,000) on such contracts) | 80,000   |       |
+| (6) 3 percent of item (5) (3% × $80,000)                                                                                                                                                                                                 |          | 2,400 |
+| (7) The greater of item (4) or item (6)                                                                                                                                                                                                  |          | 7,500 |
+| (8) Tentative deduction under sec. 809(d)(5) (computed without regard to the limitation of sec. 809(f))                                                                                                                                  |          | 7,500 |
 
 (6) *Certain accident and health insurance and group life insurance.* (i) For taxable years beginning before January 1, 1963, an amount equal to two percent of the premiums for the taxable year attributable to group life insurance contracts, group accident and health insurance contracts, or group accident and health insurance contracts with a life feature. For taxable years beginning after December 31, 1962, the deduction shall be an amount equal to two percent of the premiums for the taxable year attributable to group life insurance contracts, accident and health insurance contracts (other than those to which section 809(d)(5) applies), or accident and health insurance contracts with a life feature (other than those to which section 809(d)(5) applies). For purposes of section 809(d)(6) and this subparagraph, the term “premiums” means the net amount of the premiums and other consideration attributable to such contracts taken into account under section 809(c)(1). The deduction allowed by section 809(d)(6) and this subparagraph for the taxable year and all preceding taxable years shall not exceed 50 percent of the net amount of the premiums attributable to such contracts for the taxable year. For example, assume that premiums attributable to group life insurance and group accident and health insurance contracts are $103,000 for the taxable year 1962. Assume further that there are $3,000 of return premiums attributable to such contracts for the taxable year. Under the provisions of section 809(d)(6) and this subparagraph, a deduction (determined without regard to section 809(f) of $2,000 (2 percent of $100,000 ($103,000−$3,000)) is allowed. Assuming that the company continues to receive net premiums of $100,000 attributable to such contracts for 15 years, the cumulative amount of these deductions is $30,000 ($2,000 for 15 years). If, in the sixteenth year, net premiums attributable to such contracts amount to $60,000, no deduction shall be allowed under section 809(d)(6) and this subparagraph since the cumulative amount of these deductions ($30,000) equals 50 percent of the current year's premiums ($60,000) from such contracts.
 
