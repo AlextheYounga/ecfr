@@ -22833,7 +22833,29 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (ii) Map of Unit 2 (RH 2) for rough hornsnail (Yellowleaf Creek) follows:
 
-![](/graphics/er02no10.010.gif)Morro Shoulderband Snail (*Helminthoglypta walkeriana*)
+![](/graphics/er02no10.010.gif)Magnificent Ramshorn (*Planorbella magnifica*)
+
+(1) Critical habitat units are depicted for Brunswick County, North Carolina, on the map in this entry.
+
+(2) Critical habitat does not include humanmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on September 18, 2023.
+
+(3) Data layers defining map units were created in a Geographic Information System (GIS), and critical habitat units were mapped using the U.S. Geological Survey's National Hydrography Dataset. The map in this entry, as modified by any accompanying regulatory text, establishes the boundaries of the critical habitat designation. The coordinates or plot points or both on which the map is based are available to the public at *https://www.regulations.gov* at Docket No. FWS-R4-ES-2022-0070, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(4) Unit 1: Orton Pond; Brunswick County, North Carolina.
+
+(i) Unit 1 consists of 688 acres (ac) (278 hectares (ha)) in an impounded section of Orton Creek in Brunswick County, North Carolina, approximately 1/2 mile upstream from the confluence with the Cape Fear River and east of the town of Boiling Spring Lakes. Unit 1 is composed of lands in private ownership.
+
+(ii) Map of Units 1 and 2 follows:
+
+Figure 1 for Magnificent Ramshorn (*Planorbella magnifica*) paragraph (4)(ii) ![](/graphics/er18au23.000.gif)
+
+(5) Unit 2: Big Pond (Pleasant Oaks Pond); Brunswick County, North Carolina.
+
+(i) Unit 2 consists of 51 ac (21 ha) in an impounded section of Sand Hill Creek in Brunswick County, North Carolina, near the confluence with the Cape Fear River across from Campbell Island. Unit 2 is composed of lands in private ownership.
+
+(ii) Map of Unit 2 is provided at paragraph (4)(ii) of this entry.
+
+Morro Shoulderband Snail (*Helminthoglypta walkeriana*)
 
 1\. Critical habitat units are depicted for San Luis Obispo County, California, on the map below. The map provided is for informational purposes only.
 

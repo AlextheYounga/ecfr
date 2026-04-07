@@ -1,7 +1,5 @@
 ##### § 381.76 Post-mortem inspection under Traditional Inspection, the Streamlined Inspection System (SIS), the New Line Speed (NELS) Inspection System, the New Poultry Inspection System (NPIS), the New Turkey Inspection System (NTI), and Ratite Inspection.
 
-Link to an amendment published at 88 FR 55913, Aug. 17, 2023.
-
 (a) A post-mortem inspection shall be made on a bird-by-bird basis on all poultry eviscerated in every official establishment. Each carcass, or all parts comprising such carcass, must be examined by an inspector, except for parts that are not needed for inspection purposes and are not intended for human food and are condemned. Each carcass eviscerated shall be prepared as ready-to-cook poultry.
 
 (b)(1) There are six systems of post-mortem inspection: the New Poultry Inspection System (NPIS), which may be used for young chickens and turkeys; the Streamlined Inspection System (SIS) and the New Line Speed Inspection System (NELS), both of which may be used only for broilers and cornish game hens; the New Turkey Inspection (NTI) System, which may be used only for turkeys; Traditional Inspection, which may be used for all poultry, except for ratites; and Ratite Inspection.
@@ -207,317 +205,162 @@ All corrective actions such as identifying affected product, segregating product
 (vi) After the 10 bird subgroup tests are completed, the prechill and postchill processing nonconformances shall be corrected on all bird samples prior to returning the samples to the product flow. Samples with trim nonconformances shall be returned to the trim station for correction prior to their return to the product flow.
 
 Table 1—Definitions of Nonconformances
-
-A Processing Nonconformances 
-
-1 Extraneous material ≤ 1/16″ 
-
-—Include any specks, tiny smears, or stains of material that measure 1/16″ or less in the greatest dimension. 
-
-Examples: Ingesta, unattached feathers, grease, bile remnants, and/or whole gall bladder or spleen, embryonic yolk, etc. 
-
-—Factor is one. 
-
-—1 to 5 = 1 defect: 6 to 10 = 2 defects; 11 or more = 3 defects. A maximum of three incidents per carcass. 
-
-2 Extraneous material > 1/16″ to 1″ 
-
-—The same material as line 1, but measuring > 1/16″ to 1″ in the longest dimension. 
-
-—Factor is one. 
-
-—A maximum of three incidents per carcass. 
-
-3 Extraneous material >1″ 
-
-—The same material as lines 1 to 2, but measuring greater than one inch. 
-
-—Factor is two. 
-
-—A maximum of two incidents per carcass. 
-
-4 Oil glands remnant—less than two whole glands 
-
-—Recognizable fragment(s) of one or both oil glands equals one incident. 
-
-—Factor is one. 
-
-—Maximum of one incident per carcass. 
-
-5 Oil glands—two whole glands 
-
-—Both whole oil glands with no missing fragments equals one incident. If the oil glands are cut, but no fragment is removed, consider them to be whole. But if even a small fragment is removed, use line 4. 
-
-—Factor is two. 
-
-—A maximum of one incident per carcass. 
-
-6 Lung ≥ 1/4″ whole 
-
-—Any portion less than a whole lung, and equal to or greater than 1/4″ at the greatest dimension, equals one incident. 
-
-—Factor is one. 
-
-—A maximum of two incidents per carcass. 
-
-7 Lung—whole 
-
-—Each whole lung equals one incident. 
-
-—Factor is two. 
-
-—A maximum of two incidents per carcass. 
-
-8 Intestine 
-
-—Any identifiable portion of the terminal portion of the intestinal tract with a lumen (closed circle) present, or split piece of intestine large enough to be closed to form a lumen. 
-
-—Factor is five. 
-
-—A maximum of one incident per carcass. 
-
-9 Cloaca 
-
-—Any identifiable portion of the terminal portion of the intestinal tract with mucosal lining. 
-
-—Factor is five. 
-
-—A maximum of one incident per carcass. 
-
-10 Bursa of Fabricius 
-
-—A whole rosebud, or identifiable portion with two or more mucosal folds. 
-
-—Factor is two. 
-
-—A maximum of one incident per carcass. 
-
-11 Esophagus 
-
-—Any portion of the esophagus with identifiable mocosal lining. 
-
-—Factor is two. 
-
-—A maximum of one incident per carcass. 
-
-12 Crop—partial—with mucosa 
-
-—Any portion of the crop that includes the mucosal lining. 
-
-—Factor is two. 
-
-—A maximum of one incident per carcass. 
-
-13 Crop—whole 
-
-—Any complete crop. 
-
-—Factor is five. 
-
-—A maximum of one incident per carcass. 
-
-14 Trachea ≤1″ 
-
-—Identifiable portion of trachea less than or equal to one inch long. 
-
-—Factor is one. 
-
-—A maximum of one incident per carcass. 
-
-15 Trachea >1″ 
-
-—Identifiable portion of trachea greater than one inch. 
-
-—Factor is two. 
-
-—A maximum of one incident per carcass. 
-
-16 Hair ≥ 1/4″ 26 or more. 
-
-—Hair which is one-fourth inch long or longer measured from the top of the follicle to the end of the hair. 26 or more hairs equal one incident. 
-
-—Factor is one. 
-
-—A maximum of one incident per carcass. 
-
-17 Feather and/or Pinfeathers ≤1″ 
-
-—Attached feathers or protruding pinfeathers less than or equal to one inch long. Scored 5 to 10 per carcass as one incident, 11 to 15 per carcass as two incidents, and 16 or more as three incidents. 
-
-—Factor is one. 
-
-—A maximum of three incidents per carcass. 
-
-18 Feathers >1″ 
-
-—Attached feathers longer than one inch. Scored 1 to 3 per carcass as one incident 4 to 6 per carcass as two incidents, and 7 or more as three incidents. 
-
-—Factor is one. 
-
-—A maximum of three incidents per carcass. 
-
-19 Long Shank—both condyles covered 
-
-—If the complete tibiotarsal joint is covered, it equals one incident. 
-
-—Factor is two. 
-
-—A maximum of two incidents per carcass. 
-
-B Trim nonconformances 
-
-1 Breast blister 
-
-—Inflammatory tissue, fluid, or pus between the skin and keel must be trimmed if membrane “slips” or if firm nodule is greater than 1/2″ in diameter (dime size). 
-
-—Factor is two. 
-
-—A maximum of one incident per carcass. 
-
-2 Breast blister—partially trimmed 
-
-—All inflammatory tissue, including that which adheres tightly to the keel bone, must be removed. 
-
-—Factor is two. 
-
-—A maximum of one incident per carcass. 
-
-3 Bruise 1/2″ to 1″ 
-
-—Blood clumps or clots in the superficial layers of tissue, skin, muscle or loose subcutaneous tissue may be slit and the blood completely washed out. When the bruise extends into the deeper layers of muscle, the affected tissue must be removed. Very small bruises less than 1/2″ (dime size) and areas showing only slight reddening need not be counted as defects. 
-
-—Factor is one. 
-
-—A maximum of five incidents per carcass. 
-
-4 Bruise >1″ 
-
-—Same criteria as in line three, but greater than one inch in greatest dimension. 
-
-—Factor is two. 
-
-—A maximum of three incidents per carcass. 
-
-5 Bruise black/green 1/4″ to 1″ 
-
-—Bruises 1/4″ to 1″ that have changed from red to a black/blue or green color due to age. 
-
-—Factor is two. 
-
-—A maximum of three incidents per carcass. 
-
-6 Bruise Black/green >1″ 
-
-—Same as line 5, but measuring greater that 1″ in greatest dimension. 
-
-—Factor is five. 
-
-—A maximum of two incidents per carcass. 
-
-7 Trimmable lesions/Condition 
-
-—A trimmable tumor or identifiable portion of a tumor on any part of the carcass. 
-
-—Trimmable Synovitis/airsacculitis (saddle/frog) lesions that have not been removed. 
-
-—Lesion/condition subject to removal following an approved cleanout process. Examples: airsacculitis, salpingitis, nephritis, spleen, or liver conditions requiring removal of the kidneys. 
-
-Note: All establishments shall develop and maintain a permanent marking system that identifies carcasses with removable lesions/conditions on the inside surfaces. When removable lesions/conditions are identified inside the carcass by the inspector, the helper will be notified to apply the permanent mark. When removable inside lesions/conditions are found on a subgroup sample without the permanent mark, the error is not recorded in line 7. The affected carcass(s) will be hungback for IIC disposition and corrective action. 
-
-—Factor is five. 
-
-—A maximum of one incident per carcass. 
-
-8 Failure to complete task as indicated by marking system. 
-
-Example: Synovitis, airsacculitis, inflammatory process, contamination, etc. 
-
-—The helper, under the inspector's direction, will apply a mark to the carcass, indicating to the trimmer(s) that specific action must be taken on that carcass. When airsac and kidney cleanout, or synovitis part removal, or carcass removal from the line is not completed, or only partially completed, this occurrence is recorded as one defect. 
-
-—Factor is five. It will also be recorded as a line 7 defect for a total factor of 10. 
-
-—A maximum of one incident per carcass. 
-
-9 Compound fracture 
-
-—Any bone fracture (i.e., leg or wing) that has caused an opening through the skin. May be accompanied with a bruise, but not always. Do not count the bruise in line 3 or 4 if it is associated with the compound fracture. 
-
-—Factor is two. 
-
-—A maximum of three incidents per carcass. 
-
-10 Wingtip compound fracture 
-
-—Same criteria as line 9, but only for wingtips. 
-
-Note: Bruises not associated with the fracture should be recorded in the appropriate lines. 
-
-—Factor is one. 
-
-—A maximum of two incidents per carcass. 
-
-11 Untrimmed short hock 
-
-—When no cartilage of the hock surface is present and no tendons are attached to the bone. 
-
-—Factor is two. 
-
-—A maximum of two incidents per carcass. 
-
-12 Sores, scabs, inflammatory process, etc. ≤ 1/2″ 
-
-—Any defects such as sores, abscesses, scabs, wounds, dermatitis, inflammatory process, that measure less than or equal to 1/2″ in the greatest dimension. 
-
-—Factor is two. 
-
-—A maximum of two incidents per carcass. 
-
-13 Sores, scabs, inflammatory process, etc. > 1/2″ 
-
-—Same as line 12, but greatest dimension is greater than 1/2″, or a cluster of smaller lesions in close proximity > 1/2″, this category also includes turkey leg edema. 
-
-—Factor is five. 
-
-—A maximum of one incident per carcass. 
-
-14 External mutilation 
-
-—Mutilation to the skin and/or muscle that is caused by the slaughter, dressing or eviscerating processes. Skinned elbows (bucked wings) do not trim require unless affected wing joint capsule is also opened. 
-
-—Factor is one. 
-
-—A maximum of three incidents per carcass. 
-
-C Postchill nonconformances—(Designed to monitor those nonconformances added to product during the chilling process) 
-
-1 Extraneous material ≤ 1/16″ 
-
-—Include specks, grease, or unidentifiable foreign material that measure 1/16″ or less in the greatest dimension. 
-
-—Example: Ingesta, grease, or unidentifiable foreign material. 
-
-—Factor is one. 
-
-—3 to 7 = 1 defect; 8 to 12 = 2 defects; 13 or more = 3 defects. A maximum of three incidents per carcass. 
-
-2 Extraneous material > 1/16″ to 1″ 
-
-—This includes ingesta, grease, or unidentifiable foreign material measureing > 1/16″ to 1″ longest dimension. 
-
-—Factor is one. 
-
-—A maximum of three incidents per carcass. 
-
-3 Extraneous material >1″ 
-
-—The same material as line 2, but measuring greater than one inch. 
-
-—Factor is two. 
-
-—A maximum of two incidents per carcass.
+| A Processing Nonconformances                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 1 Extraneous material ≤1/16″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| —Include any specks, tiny smears, or stains of material that measure 1/16″ or less in the greatest dimension.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Examples: Ingesta, unattached feathers, grease, bile remnants, and/or whole gall bladder or spleen, embryonic yolk, etc.                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| —Factor is one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —1 to 5 = 1 defect: 6 to 10 = 2 defects; 11 or more = 3 defects. A maximum of three incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 2 Extraneous material >1/16″ to 1″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| —The same material as line 1, but measuring >1/16″ to 1″ in the longest dimension.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| —Factor is one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of three incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 3 Extraneous material >1″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| —The same material as lines 1 to 2, but measuring greater than one inch.                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of two incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 4 Oil glands remnant—less than two whole glands                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —Recognizable fragment(s) of one or both oil glands equals one incident.                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| —Factor is one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —Maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 5 Oil glands—two whole glands                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| —Both whole oil glands with no missing fragments equals one incident. If the oil glands are cut, but no fragment is removed, consider them to be whole. But if even a small fragment is removed, use line 4.                                                                                                                                                                                                                                                                                                                                   |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 6 Lung ≥1/4″ whole                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| —Any portion less than a whole lung, and equal to or greater than 1/4″ at the greatest dimension, equals one incident.                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| —Factor is one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of two incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 7 Lung—whole                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| —Each whole lung equals one incident.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of two incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 8 Intestine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| —Any identifiable portion of the terminal portion of the intestinal tract with a lumen (closed circle) present, or split piece of intestine large enough to be closed to form a lumen.                                                                                                                                                                                                                                                                                                                                                         |
+| —Factor is five.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 9 Cloaca                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| —Any identifiable portion of the terminal portion of the intestinal tract with mucosal lining.                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| —Factor is five.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 10 Bursa of Fabricius                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| —A whole rosebud, or identifiable portion with two or more mucosal folds.                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 11 Esophagus                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| —Any portion of the esophagus with identifiable mocosal lining.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 12 Crop—partial—with mucosa                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| —Any portion of the crop that includes the mucosal lining.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 13 Crop—whole                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| —Any complete crop.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| —Factor is five.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 14 Trachea ≤1″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| —Identifiable portion of trachea less than or equal to one inch long.                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| —Factor is one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 15 Trachea >1″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| —Identifiable portion of trachea greater than one inch.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 16 Hair ≥1/4″ 26 or more.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| —Hair which is one-fourth inch long or longer measured from the top of the follicle to the end of the hair. 26 or more hairs equal one incident.                                                                                                                                                                                                                                                                                                                                                                                               |
+| —Factor is one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 17 Feather and/or Pinfeathers ≤1″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| —Attached feathers or protruding pinfeathers less than or equal to one inch long. Scored 5 to 10 per carcass as one incident, 11 to 15 per carcass as two incidents, and 16 or more as three incidents.                                                                                                                                                                                                                                                                                                                                        |
+| —Factor is one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of three incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 18 Feathers >1″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —Attached feathers longer than one inch. Scored 1 to 3 per carcass as one incident 4 to 6 per carcass as two incidents, and 7 or more as three incidents.                                                                                                                                                                                                                                                                                                                                                                                      |
+| —Factor is one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of three incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 19 Long Shank—both condyles covered                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| —If the complete tibiotarsal joint is covered, it equals one incident.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of two incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| B Trim nonconformances                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 1 Breast blister                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| —Inflammatory tissue, fluid, or pus between the skin and keel must be trimmed if membrane “slips” or if firm nodule is greater than 1/2″ in diameter (dime size).                                                                                                                                                                                                                                                                                                                                                                              |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 2 Breast blister—partially trimmed                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| —All inflammatory tissue, including that which adheres tightly to the keel bone, must be removed.                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 3 Bruise 1/2″ to 1″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| —Blood clumps or clots in the superficial layers of tissue, skin, muscle or loose subcutaneous tissue may be slit and the blood completely washed out. When the bruise extends into the deeper layers of muscle, the affected tissue must be removed. Very small bruises less than 1/2″ (dime size) and areas showing only slight reddening need not be counted as defects.                                                                                                                                                                    |
+| —Factor is one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of five incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 4 Bruise >1″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| —Same criteria as in line three, but greater than one inch in greatest dimension.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of three incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 5 Bruise black/green 1/4″ to 1″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —Bruises 1/4″ to 1″ that have changed from red to a black/blue or green color due to age.                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of three incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 6 Bruise Black/green >1″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| —Same as line 5, but measuring greater that 1″ in greatest dimension.                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| —Factor is five.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| —A maximum of two incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 7 Trimmable lesions/Condition                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| —A trimmable tumor or identifiable portion of a tumor on any part of the carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| —Trimmable Synovitis/airsacculitis (saddle/frog) lesions that have not been removed.                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| —Lesion/condition subject to removal following an approved cleanout process. Examples: airsacculitis, salpingitis, nephritis, spleen, or liver conditions requiring removal of the kidneys.                                                                                                                                                                                                                                                                                                                                                    |
+| Note: All establishments shall develop and maintain a permanent marking system that identifies carcasses with removable lesions/conditions on the inside surfaces. When removable lesions/conditions are identified inside the carcass by the inspector, the helper will be notified to apply the permanent mark. When removable inside lesions/conditions are found on a subgroup sample without the permanent mark, the error is not recorded in line 7. The affected carcass(s) will be hungback for IIC disposition and corrective action. |
+| —Factor is five.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 8 Failure to complete task as indicated by marking system.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Example: Synovitis, airsacculitis, inflammatory process, contamination, etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| —The helper, under the inspector's direction, will apply a mark to the carcass, indicating to the trimmer(s) that specific action must be taken on that carcass. When airsac and kidney cleanout, or synovitis part removal, or carcass removal from the line is not completed, or only partially completed, this occurrence is recorded as one defect.                                                                                                                                                                                        |
+| —Factor is five. It will also be recorded as a line 7 defect for a total factor of 10.                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 9 Compound fracture                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| —Any bone fracture (i.e., leg or wing) that has caused an opening through the skin. May be accompanied with a bruise, but not always. Do not count the bruise in line 3 or 4 if it is associated with the compound fracture.                                                                                                                                                                                                                                                                                                                   |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of three incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 10 Wingtip compound fracture                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| —Same criteria as line 9, but only for wingtips.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Note: Bruises not associated with the fracture should be recorded in the appropriate lines.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| —Factor is one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of two incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 11 Untrimmed short hock                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| —When no cartilage of the hock surface is present and no tendons are attached to the bone.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of two incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 12 Sores, scabs, inflammatory process, etc. ≤1/2″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| —Any defects such as sores, abscesses, scabs, wounds, dermatitis, inflammatory process, that measure less than or equal to 1/2″ in the greatest dimension.                                                                                                                                                                                                                                                                                                                                                                                     |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of two incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 13 Sores, scabs, inflammatory process, etc. >1/2″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| —Same as line 12, but greatest dimension is greater than 1/2″, or a cluster of smaller lesions in close proximity >1/2″, this category also includes turkey leg edema.                                                                                                                                                                                                                                                                                                                                                                         |
+| —Factor is five.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| —A maximum of one incident per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 14 External mutilation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| —Mutilation to the skin and/or muscle that is caused by the slaughter, dressing or eviscerating processes. Skinned elbows (bucked wings) do not trim require unless affected wing joint capsule is also opened.                                                                                                                                                                                                                                                                                                                                |
+| —Factor is one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of three incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| C Postchill nonconformances—(Designed to monitor those nonconformances added to product during the chilling process)                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 1 Extraneous material ≤1/16″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| —Include specks, grease, or unidentifiable foreign material that measure 1/16″ or less in the greatest dimension.                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| —Example: Ingesta, grease, or unidentifiable foreign material.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| —Factor is one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —3 to 7 = 1 defect; 8 to 12 = 2 defects; 13 or more = 3 defects. A maximum of three incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 2 Extraneous material >1/16″ to 1″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| —This includes ingesta, grease, or unidentifiable foreign material measureing >1/16″ to 1″ longest dimension.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| —Factor is one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of three incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 3 Extraneous material >1″                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| —The same material as line 2, but measuring greater than one inch.                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| —Factor is two.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| —A maximum of two incidents per carcass.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 Table 2—Finished Product Standards
-
 |                                    | SIS |
 | ---------------------------------- | --- |
 | Prechill Processing Nonconformance |     |
@@ -590,8 +433,4 @@ Table 2—Finished Product Standards
 
 (E) The establishment must ensure that it can sufficiently identify viscera and parts corresponding with each carcass inspected by the online carcass inspector so that if the carcass inspector condemns a carcass all corresponding viscera and parts are also condemned.
 
-(iv) *Inspection for Avian Visceral Leukosis.* (A) Establishments that slaughter young chickens must notify the inspector-in-charge prior to the slaughter of each new flock to allow the inspection of viscera as provided in § 381.36(f)(3).
-
-(B) If there is evidence that a flock may be affected by avian visceral leukosis, the inspector-in-charge is authorized to adjust inspection procedures as needed to ensure adequate inspection of each carcass and viscera for that condition. The inspector-in-charge is also authorized to require the establishment to adjust its processing operations as needed to accommodate the adjusted inspection procedures.
-
-(Recordkeeping requirements approved by the Office of Management and Budget under control number 0583-0008) \[47 FR 23435, May 28, 1982, as amended at 49 FR 42555, Oct. 23, 1984; 50 FR 37513, Sept. 16, 1985; 50 FR 38097, Sept. 20, 1985; 51 FR 3574, Jan. 29, 1986; 53 FR 46861, Nov. 21, 1988; 62 FR 5143, Feb. 4, 1997; 65 FR 34390, May 30, 2000; 66 FR 22906, May 7, 2001; 79 FR 49635, Aug. 21, 2014\]
+(Recordkeeping requirements approved by the Office of Management and Budget under control number 0583-0008) \[47 FR 23435, May 28, 1982, as amended at 49 FR 42555, Oct. 23, 1984; 50 FR 37513, Sept. 16, 1985; 50 FR 38097, Sept. 20, 1985; 51 FR 3574, Jan. 29, 1986; 53 FR 46861, Nov. 21, 1988; 62 FR 5143, Feb. 4, 1997; 65 FR 34390, May 30, 2000; 66 FR 22906, May 7, 2001; 79 FR 49635, Aug. 21, 2014; 88 FR 55913, Aug. 17, 2023\]
