@@ -4,7 +4,7 @@ As prescribed in 2439.107(a), insert the following clause:
 
 ACCESS TO HUD SYSTEMS (APR 2019)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Access* means the ability to obtain, view, read, modify, delete, and/or otherwise make use of information resources.
 
