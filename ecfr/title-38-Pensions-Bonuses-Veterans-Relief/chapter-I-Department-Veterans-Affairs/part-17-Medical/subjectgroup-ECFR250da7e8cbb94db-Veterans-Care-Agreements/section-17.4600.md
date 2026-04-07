@@ -1,6 +1,6 @@
 ##### § 17.4600 Urgent care.
 
-(a) *Purpose.* The purpose of this section is to establish procedures for accessing urgent care. Eligible veterans may obtain urgent care, in accordance with the requirements and processes set forth in this section, from qualifying non-VA entities or providers in VA's network that are identified by VA in accordance with paragraph (c)(2) of this section.
+(a) *Purpose.* The purpose of this section is to establish procedures for accessing urgent care. Eligible veterans may obtain urgent care, in accordance with the requirements and processes set forth in this section, from qualifying non-VA entities or providers in VA's network that are identified by VA in accordance with paragraph (c)(2) of this section.Federal Register
 
 (b) *Definitions.* The following definitions apply to this section.
 

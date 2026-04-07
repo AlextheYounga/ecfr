@@ -1,6 +1,6 @@
 ##### § 17.157 Definitions.
 
-For the purposes of this part:
+For the purposes of this part:*Adaptive equipment*
 
 *Adaptive equipment* means equipment which must be part of or added to a conveyance manufactured for sale to the general public to make it safe for use by the eligible person and enable that person and the conveyance to meet the applicable standards of licensure. Adaptive equipment includes any item specified by the Under Secretary for Health or designee as ordinarily necessary for any of the classes of losses or combination of such losses specified in 38 CFR 17.156, or as deemed necessary in an individual case for an eligible person for the continued safety and functionality of a modified automobile and adaptive equipment. Adaptive equipment includes, but is not limited to, a basic automatic transmission, power steering, power brakes, power window lifts, power seats, air-conditioning equipment when necessary for the health and safety of the veteran, and special equipment necessary to assist the eligible person into or out of the automobile or other conveyance, regardless of whether the automobile or other conveyance is to be operated by the eligible person or is to be operated for such person by another person; and any modification of the interior space of the automobile or other conveyance if needed because of the physical condition of such person in order for such person to enter or operate the vehicle.
 

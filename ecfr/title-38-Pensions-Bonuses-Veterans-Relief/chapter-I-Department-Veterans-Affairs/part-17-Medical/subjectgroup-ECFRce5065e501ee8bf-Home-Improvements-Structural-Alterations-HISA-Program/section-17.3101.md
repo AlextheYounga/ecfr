@@ -1,6 +1,6 @@
 ##### § 17.3101 Definitions.
 
-For the purposes of the HISA benefits program (§§ 17.3100 through 17.3130):
+For the purposes of the HISA benefits program (§§ 17.3100 through 17.3130):*Access to essential lavatory and sanitary facilities*
 
 *Access to essential lavatory and sanitary facilities* means having normal use of the standard structural components of those facilities.
 

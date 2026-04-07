@@ -1,6 +1,6 @@
 ##### § 17.36 Enrollment—provision of hospital and outpatient care to veterans.
 
-(a) *Enrollment requirement for veterans.* (1) Except as otherwise provided in § 17.37, a veteran must be enrolled in the VA healthcare system as a condition for receiving the 'medical benefits package' set forth in § 17.38.
+(a) *Enrollment requirement for veterans.* (1) Except as otherwise provided in § 17.37, a veteran must be enrolled in the VA healthcare system as a condition for receiving the 'medical benefits package' set forth in § 17.38.Federal Register
 
 Note to paragraph (a)(1):
 

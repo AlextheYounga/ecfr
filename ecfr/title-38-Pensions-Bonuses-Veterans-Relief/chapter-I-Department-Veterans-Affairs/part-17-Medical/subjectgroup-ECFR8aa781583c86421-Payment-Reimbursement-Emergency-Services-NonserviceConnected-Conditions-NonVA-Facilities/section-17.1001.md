@@ -1,6 +1,6 @@
 ##### § 17.1001 Definitions.
 
-For purposes of §§ 17.1000 through 17.1008:
+For purposes of §§ 17.1000 through 17.1008:*health-plan contract*
 
 (a) The term *health-plan contract* means any of the following:
 

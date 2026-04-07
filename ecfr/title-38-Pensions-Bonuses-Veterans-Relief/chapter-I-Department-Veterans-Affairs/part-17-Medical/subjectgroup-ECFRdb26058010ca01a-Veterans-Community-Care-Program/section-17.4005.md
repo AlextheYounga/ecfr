@@ -1,6 +1,6 @@
 ##### § 17.4005 Definitions.
 
-For purposes of the Veterans Community Care Program under §§ 17.4000 through 17.4040:
+For purposes of the Veterans Community Care Program under §§ 17.4000 through 17.4040:*Appointment*
 
 *Appointment* means an authorized and scheduled encounter, including telehealth and same-day encounters, with a health care provider for the delivery of hospital care, medical services, or extended care services.
 

@@ -1,6 +1,6 @@
 ##### § 17.4015 Designated VA medical service lines.
 
-(a) VA may identify VA medical service lines that are underperforming based on the timeliness of care when compared with the same medical service line at other VA facilities and based on data related to two or more distinct and appropriate quality measures of VA's standards for quality when compared with non-VA medical service lines.
+(a) VA may identify VA medical service lines that are underperforming based on the timeliness of care when compared with the same medical service line at other VA facilities and based on data related to two or more distinct and appropriate quality measures of VA's standards for quality when compared with non-VA medical service lines.Federal Register.
 
 (b) VA will make determinations regarding VA medical service lines under this section using data described in paragraph (a) of this section, VA standards for quality, and based on factors identified in paragraph (e) of this section.
 

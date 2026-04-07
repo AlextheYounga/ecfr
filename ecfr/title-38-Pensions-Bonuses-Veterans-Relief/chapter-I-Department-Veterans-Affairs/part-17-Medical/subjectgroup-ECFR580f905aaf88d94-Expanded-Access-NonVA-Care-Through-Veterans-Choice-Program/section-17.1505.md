@@ -1,6 +1,6 @@
 ##### § 17.1505 Definitions.
 
-For purposes of the Veterans Choice Program under §§ 17.1500 through 17.1540:
+For purposes of the Veterans Choice Program under §§ 17.1500 through 17.1540:*Appointment*Federal Register,
 
 *Appointment* means an authorized and scheduled encounter with a health care provider for the delivery of hospital care or medical services. A visit to an emergency room or an unscheduled visit to a clinic is not an appointment.
 

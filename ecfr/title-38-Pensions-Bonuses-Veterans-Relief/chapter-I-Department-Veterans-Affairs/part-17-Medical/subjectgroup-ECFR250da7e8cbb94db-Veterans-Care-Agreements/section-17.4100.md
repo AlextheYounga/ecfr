@@ -1,6 +1,6 @@
 ##### § 17.4100 Definitions.
 
-For the purposes of §§ 17.4100 through 17.4135, the following definitions apply:
+For the purposes of §§ 17.4100 through 17.4135, the following definitions apply:*Contract*
 
 *Contract* is any of the following: Federal procurement agreements regulated by the Federal Acquisition Regulation; common law contracts; other transactions; or any other instrument. Veterans Care Agreements are excluded from this definition.
 

@@ -1,6 +1,6 @@
 ##### § 17.275 CHAMPVA determined allowable amount calculation.
 
-CHAMPVA calculates the allowable amount in the following ways, for the following covered services and supplies:
+CHAMPVA calculates the allowable amount in the following ways, for the following covered services and supplies:*Inpatient hospital services (non-mental health).*
 
 (a) *Inpatient hospital services (non-mental health).* Unless exempt or subject to a methodology under paragraph (b) or (c) of this section, inpatient hospital services provided in the 50 states, the District of Columbia, and Puerto Rico are subject to the CHAMPVA Diagnosis Related Group (DRG)-based reimbursement methodology. Under the CHAMPVA DRG-based payment system, hospitals are paid a predetermined amount per discharge for inpatient hospital services, which will not exceed the billed amount. Certain inpatient services will be reimbursed under the CHAMPVA Cost-to-Charge (CTC) reimbursement methodology.
 

@@ -1,140 +1,140 @@
 ##### § 1.168(i)-0 Table of contents for the general asset account rules.
 
-This section lists the major paragraphs contained in § 1.168(i)-1. 
+This section lists the major paragraphs contained in § 1.168(i)-1.
 
 § 1.168(i)-1 General asset accounts.
 
-(a) Scope. 
+(a) Scope.
 
-(b) Definitions. 
+(b) Definitions.
 
-(1) Unadjusted depreciable basis. 
+(1) Unadjusted depreciable basis.
 
-(2) Unadjusted depreciable basis of the general asset account. 
+(2) Unadjusted depreciable basis of the general asset account.
 
-(3) Adjusted depreciable basis of the general asset account. 
+(3) Adjusted depreciable basis of the general asset account.
 
-(4) Building. 
+(4) Building.
 
-(5) Expensed cost. 
+(5) Expensed cost.
 
-(6) Mass assets. 
+(6) Mass assets.
 
-(7) Portion of an asset. 
+(7) Portion of an asset.
 
-(8) Remaining adjusted depreciable basis of the general asset account. 
+(8) Remaining adjusted depreciable basis of the general asset account.
 
-(9) Structural component. 
+(9) Structural component.
 
-(c) Establishment of general asset accounts. 
+(c) Establishment of general asset accounts.
 
-(1) Assets eligible for general asset accounts. 
+(1) Assets eligible for general asset accounts.
 
-(i) General rules. 
+(i) General rules.
 
-(ii) Special rules for assets generating foreign source income. 
+(ii) Special rules for assets generating foreign source income.
 
-(2) Grouping assets in general asset accounts. 
+(2) Grouping assets in general asset accounts.
 
-(i) General rules. 
+(i) General rules.
 
-(ii) Special rules. 
+(ii) Special rules.
 
-(3) Examples. 
+(3) Examples.
 
-(d) Determination of depreciation allowance. 
+(d) Determination of depreciation allowance.
 
-(1) In general. 
+(1) In general.
 
-(2) Assets in general asset account are eligible for additional first year depreciation deduction. 
+(2) Assets in general asset account are eligible for additional first year depreciation deduction.
 
-(3) No assets in general asset account are eligible for additional first year depreciation deduction. 
+(3) No assets in general asset account are eligible for additional first year depreciation deduction.
 
-(4) Special rule for passenger automobiles. 
+(4) Special rule for passenger automobiles.
 
-(e) Dispositions from a general asset account. 
+(e) Dispositions from a general asset account.
 
-(1) Scope and definition. 
+(1) Scope and definition.
 
-(i) In general. 
+(i) In general.
 
-(ii) Disposition of a portion of an asset. 
+(ii) Disposition of a portion of an asset.
 
-(2) General rules for a disposition. 
+(2) General rules for a disposition.
 
-(i) No immediate recovery of basis. 
+(i) No immediate recovery of basis.
 
-(ii) Treatment of amount realized. 
+(ii) Treatment of amount realized.
 
-(iii) Effect of disposition on a general asset account. 
+(iii) Effect of disposition on a general asset account.
 
-(iv) Coordination with nonrecognition provisions. 
+(iv) Coordination with nonrecognition provisions.
 
-(v) Manner of disposition. 
+(v) Manner of disposition.
 
-(vi) Disposition by transfer to a supplies account. 
+(vi) Disposition by transfer to a supplies account.
 
-(vii) Leasehold improvements. 
+(vii) Leasehold improvements.
 
-(viii) Determination of asset disposed of. 
+(viii) Determination of asset disposed of.
 
-(ix) Examples. 
+(ix) Examples.
 
-(3) Special rules. 
+(3) Special rules.
 
-(i) In general. 
+(i) In general.
 
-(ii) Disposition of all assets remaining in a general asset account. 
+(ii) Disposition of all assets remaining in a general asset account.
 
-(iii) Disposition of an asset in a qualifying disposition. 
+(iii) Disposition of an asset in a qualifying disposition.
 
-(iv) Transactions subject to section 168(i)(7). 
+(iv) Transactions subject to section 168(i)(7).
 
-(v) Transactions subject to section 1031 or 1033. 
+(v) Transactions subject to section 1031 or 1033.
 
-(vi) Technical termination of a partnership. 
+(vi) Technical termination of a partnership.
 
-(vii) Anti-abuse rule. 
+(vii) Anti-abuse rule.
 
-(f) Assets generating foreign source income. 
+(f) Assets generating foreign source income.
 
-(1) In general. 
+(1) In general.
 
-(2) Source of ordinary income, gain, or loss. 
+(2) Source of ordinary income, gain, or loss.
 
-(i) Source determined by allocation and apportionment of depreciation allowed. 
+(i) Source determined by allocation and apportionment of depreciation allowed.
 
-(ii) Formula for determining foreign source income, gain, or loss. 
+(ii) Formula for determining foreign source income, gain, or loss.
 
-(3) Section 904(d) separate categories. 
+(3) Section 904(d) separate categories.
 
-(g) Assets subject to recapture. 
+(g) Assets subject to recapture.
 
-(h) Changes in use. 
+(h) Changes in use.
 
-(1) Conversion to any personal use. 
+(1) Conversion to any personal use.
 
-(2) Change in use results in a different recovery period and/or depreciation method. 
+(2) Change in use results in a different recovery period and/or depreciation method.
 
-(i) No effect on general asset account election. 
+(i) No effect on general asset account election.
 
-(ii) Asset is removed from the general asset account. 
+(ii) Asset is removed from the general asset account.
 
-(iii) New general asset account is established. 
+(iii) New general asset account is established.
 
-(i) Redetermination of basis. 
+(i) Redetermination of basis.
 
-(j) Identification of disposed or converted asset. 
+(j) Identification of disposed or converted asset.
 
-(k) Effect of adjustments on prior dispositions. 
+(k) Effect of adjustments on prior dispositions.
 
-(l) Election. 
+(l) Election.
 
-(1) Irrevocable election. 
+(1) Irrevocable election.
 
-(2) Time for making election. 
+(2) Time for making election.
 
-(3) Manner of making election. 
+(3) Manner of making election.
 
 (m) Effective/applicability dates.
 

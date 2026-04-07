@@ -1,6 +1,6 @@
 ##### § 17.903 Payment.
 
-(a)(1) Payment for services or benefits under §§ 17.900 through 17.905 will be determined utilizing the same payment methodologies as provided for under the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) (see § 17.270). For those services or benefits covered by §§ 17.900 through 17.905 but not covered by CHAMPVA we will use payment methodologies the same or similar to those used for equivalent services or benefits provided to veterans.
+(a)(1) Payment for services or benefits under §§ 17.900 through 17.905 will be determined utilizing the same payment methodologies as provided for under the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) (see § 17.270). For those services or benefits covered by §§ 17.900 through 17.905 but not covered by CHAMPVA we will use payment methodologies the same or similar to those used for equivalent services or benefits provided to veterans.*Explanation of benefits (EOB)*
 
 (2) As a condition of payment, the services must have occurred:
 

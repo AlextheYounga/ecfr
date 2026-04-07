@@ -1,6 +1,6 @@
 ##### § 17.38 Medical benefits package.
 
-(a) Subject to paragraphs (b) and (c) of this section, the following hospital, outpatient, and extended care services constitute the “medical benefits package” (basic care and preventive care):
+(a) Subject to paragraphs (b) and (c) of this section, the following hospital, outpatient, and extended care services constitute the “medical benefits package” (basic care and preventive care):*Provision of the “medical benefits package”.*
 
 (1) Basic care.
 

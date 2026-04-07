@@ -1,6 +1,6 @@
 ##### § 17.263 Suspension and termination procedures.
 
-Termination of a grant means the cancellation of Department of Veterans Affairs sponsorship, in whole or in part, under an agreement at any time prior to the date of completion. Suspension of a grant is an action by the Department of Veterans Affairs which temporarily suspends Department of Veterans Affairs sponsorship under the grant pending corrective action by the grantee or pending a decision to terminate the grant by the Department of Veterans Affairs.
+Termination of a grant means the cancellation of Department of Veterans Affairs sponsorship, in whole or in part, under an agreement at any time prior to the date of completion. Suspension of a grant is an action by the Department of Veterans Affairs which temporarily suspends Department of Veterans Affairs sponsorship under the grant pending corrective action by the grantee or pending a decision to terminate the grant by the Department of Veterans Affairs.*Posttermination appeal.*
 
 (a) *Posttermination appeal.* The following procedures are applicable for reviewing postaward disputes which may arise in the administration of or carrying out of the Exchange of Medical Information Grant Program.
 

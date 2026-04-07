@@ -1,6 +1,6 @@
 ##### § 17.1205 Definitions.
 
-For purposes of sections §§ 17.1200 through 17.1230:
+For purposes of sections §§ 17.1200 through 17.1230:*Acute suicidal crisis*
 
 *Acute suicidal crisis* means an individual was determined to be at imminent risk of self-harm by a trained crisis responder or health care provider.
 

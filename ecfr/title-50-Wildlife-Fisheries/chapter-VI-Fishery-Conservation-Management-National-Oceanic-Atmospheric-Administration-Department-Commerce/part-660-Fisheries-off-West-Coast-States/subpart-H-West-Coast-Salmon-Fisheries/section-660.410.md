@@ -1,6 +1,6 @@
 ##### § 660.410 Conservation objectives, ACLs, and de minimis control rules.
 
-(a) *Conservation objectives.* Annual management measures will be consistent with conservation objectives described in Table 3-1 of the Salmon FMP or as modified through the processes described below, except where the ACL escapement level for a stock is higher than the conservation objective, in which case annual management measures will be designed to ensure that the ACL for that stock is met, or where the de minimis control rules described in paragraph (c) of this section apply.
+(a) *Conservation objectives.* Annual management measures will be consistent with conservation objectives described in Table 3-1 of the Salmon FMP or as modified through the processes described below, except where the ACL escapement level for a stock is higher than the conservation objective, in which case annual management measures will be designed to ensure that the ACL for that stock is met, or where the de minimis control rules described in paragraph (c) of this section apply.MSY
 
 (1) *Modification of conservation objectives.* NMFS is authorized, through an action issued under § 660.411, to modify a conservation objective if—
 

@@ -1,6 +1,6 @@
 ##### § 17.254 Applications.
 
-Each application for a grant shall be submitted to the Under Secretary for Health on such forms as shall be prescribed and shall include the following evidence, assurances, and supporting documents:
+Each application for a grant shall be submitted to the Under Secretary for Health on such forms as shall be prescribed and shall include the following evidence, assurances, and supporting documents:*To specify amount.*
 
 (a) *To specify amount.* Each application shall show the amount of the grant requested, and if the grant is to be for more than one objective, the amounts allocated to each objective (e.g., to training, demonstrations, or construction) shall be specified, and
 

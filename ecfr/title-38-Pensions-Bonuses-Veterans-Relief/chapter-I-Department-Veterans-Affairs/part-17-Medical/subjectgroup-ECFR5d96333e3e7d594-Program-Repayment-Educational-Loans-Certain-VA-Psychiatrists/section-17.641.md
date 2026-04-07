@@ -1,6 +1,6 @@
 ##### § 17.641 Definitions.
 
-The following definitions apply to §§ 17.640 through 17.647.
+The following definitions apply to §§ 17.640 through 17.647.*Acceptance of conditions*
 
 *Acceptance of conditions* means a signed document between VA and a participant of the PREL, in which the participant must agree to a period of obligated service, to maintain an acceptable level of performance determined by supervisory review in the position to which VA appoints the participant, to terms and amount of payment, and to relocate, if required, to a location determined by VA at the participant's expense in exchange for educational loan repayments under the PREL. VA will provide a list of available locations for the period of obligated service in the acceptance of conditions. The applicant will choose the preferred location, in ranking order, for the completion of his or her obligated service from the locations on this list. However, VA will ultimately make the final determination as to where the applicant will perform his or her period of obligated service. A participant of the PREL must agree that he or she is willing to accept the location and position to which VA appoints the participant.
 

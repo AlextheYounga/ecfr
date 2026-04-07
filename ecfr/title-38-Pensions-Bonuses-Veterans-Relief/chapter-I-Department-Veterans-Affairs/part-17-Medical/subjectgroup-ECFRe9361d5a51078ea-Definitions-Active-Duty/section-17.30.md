@@ -1,6 +1,6 @@
 ##### § 17.30 Definitions.
 
-When used in Department of Veterans Affairs medical regulations, each of the following terms shall have the meaning ascribed to it in this section:
+When used in Department of Veterans Affairs medical regulations, each of the following terms shall have the meaning ascribed to it in this section:*Medical services.*
 
 (a) *Medical services.* The term *medical services* includes the following:
 

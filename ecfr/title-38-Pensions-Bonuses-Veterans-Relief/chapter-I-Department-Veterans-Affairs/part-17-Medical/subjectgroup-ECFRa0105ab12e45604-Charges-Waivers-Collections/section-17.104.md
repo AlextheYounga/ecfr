@@ -1,6 +1,6 @@
 ##### § 17.104 Terminations and suspensions.
 
-Any proposal to suspend or terminate collection action on any charges or claim for $20,000 or less asserted by the Department of Veterans Affairs in connection with the medical program shall be referred as follows:
+Any proposal to suspend or terminate collection action on any charges or claim for $20,000 or less asserted by the Department of Veterans Affairs in connection with the medical program shall be referred as follows:*Of charges for medical services.*
 
 (a) *Of charges for medical services.* If the debt represents charges made under §§ 17.108, 17.110, or 17.111 questions concerning suspension or termination of collection action shall be referred to the Chief Financial Officer of the Consolidated Patient Account Center for application of the collection standards in § 1.900 *et seq.* of this chapter, or
 

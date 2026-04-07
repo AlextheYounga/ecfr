@@ -1,6 +1,6 @@
 ##### § 17.102 Charges for care or services.
 
-Subject to the methodology set forth in paragraph (c) of this section, and notwithstanding the provisions of § 17.101, VA shall charge for VA care and services provided in the circumstances described as follows:
+Subject to the methodology set forth in paragraph (c) of this section, and notwithstanding the provisions of § 17.101, VA shall charge for VA care and services provided in the circumstances described as follows:*https://www.va.gov/communitycare/revenue\_ops/payer\_rates.asp.*
 
 (a) For hospital care or medical services provided:
 

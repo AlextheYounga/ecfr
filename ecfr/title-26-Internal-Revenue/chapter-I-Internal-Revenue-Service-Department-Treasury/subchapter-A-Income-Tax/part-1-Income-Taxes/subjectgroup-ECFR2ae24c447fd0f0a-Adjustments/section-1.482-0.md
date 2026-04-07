@@ -1,1424 +1,1424 @@
 ##### § 1.482-0 Outline of regulations under section 482.
 
-This section contains major captions for §§ 1.482-1 through 1.482-9. 
+This section contains major captions for §§ 1.482-1 through 1.482-9.
 
 § 1.482-1 Allocation of income and deductions among taxpayers.
 
-(a) In general. 
+(a) In general.
 
-(1) Purpose and scope. 
+(1) Purpose and scope.
 
-(2) Authority to make allocations. 
+(2) Authority to make allocations.
 
-(3) Taxpayer's use of section 482. 
+(3) Taxpayer's use of section 482.
 
-(b) Arm's length standard. 
+(b) Arm's length standard.
 
-(1) In general. 
+(1) In general.
 
-(2) Arm's length methods. 
+(2) Arm's length methods.
 
-(i) Methods. 
+(i) Methods.
 
-(ii) Selection of category of method applicable to transaction. 
+(ii) Selection of category of method applicable to transaction.
 
-(iii) Coordination of methods applicable to certain intangible development arrangements. 
+(iii) Coordination of methods applicable to certain intangible development arrangements.
 
-(c) Best method rule. 
+(c) Best method rule.
 
-(1) In general. 
+(1) In general.
 
-(2) Determining the best method. 
+(2) Determining the best method.
 
-(i) Comparability. 
+(i) Comparability.
 
-(ii) Data and assumptions. 
+(ii) Data and assumptions.
 
-(A) Completeness and accuracy of data. 
+(A) Completeness and accuracy of data.
 
-(B) Reliability of assumptions. 
+(B) Reliability of assumptions.
 
-(C) Sensitivity of results to deficiencies in data and assumptions. 
+(C) Sensitivity of results to deficiencies in data and assumptions.
 
-(iii) Confirmation of results by another method. 
+(iii) Confirmation of results by another method.
 
-(d) Comparability. 
+(d) Comparability.
 
-(1) In general. 
+(1) In general.
 
-(2) Standard of comparability. 
+(2) Standard of comparability.
 
-(3) Factors for determining comparability. 
+(3) Factors for determining comparability.
 
-(i) Functional analysis. 
+(i) Functional analysis.
 
-(ii) Contractual terms. 
+(ii) Contractual terms.
 
-(A) In general. 
+(A) In general.
 
-(B) Identifying contractual terms. 
+(B) Identifying contractual terms.
 
-(*1*) Written agreement. 
+(*1*) Written agreement.
 
-(*2*) No written agreement. 
+(*2*) No written agreement.
 
-(C) Examples. 
+(C) Examples.
 
-(iii) Risk. 
+(iii) Risk.
 
-(A) In general. 
+(A) In general.
 
-(B) Identification of party that bears risk. 
+(B) Identification of party that bears risk.
 
-(C) Examples. 
+(C) Examples.
 
-(iv) Economic conditions. 
+(iv) Economic conditions.
 
-(v) Property or services. 
+(v) Property or services.
 
-(4) Special circumstances. 
+(4) Special circumstances.
 
-(i) Market share strategy. 
+(i) Market share strategy.
 
-(ii) Different geographic markets. 
+(ii) Different geographic markets.
 
-(A) In general. 
+(A) In general.
 
-(B) Example. 
+(B) Example.
 
-(C) Location savings. 
+(C) Location savings.
 
-(D) Example. 
+(D) Example.
 
-(iii) Transactions ordinarily not accepted as comparables. 
+(iii) Transactions ordinarily not accepted as comparables.
 
-(A) In general. 
+(A) In general.
 
-(B) Examples. 
+(B) Examples.
 
-(e) Arm's length range. 
+(e) Arm's length range.
 
-(1) In general. 
+(1) In general.
 
-(2) Determination of arm's length range. 
+(2) Determination of arm's length range.
 
-(i) Single method. 
+(i) Single method.
 
-(ii) Selection of comparables. 
+(ii) Selection of comparables.
 
-(iii) Comparables included in arm's length range. 
+(iii) Comparables included in arm's length range.
 
-(A) In general. 
+(A) In general.
 
-(B) Adjustment of range to increase reliability. 
+(B) Adjustment of range to increase reliability.
 
-(C) Interquartile range. 
+(C) Interquartile range.
 
-(3) Adjustment if taxpayer's results are outside arm's length range. 
+(3) Adjustment if taxpayer's results are outside arm's length range.
 
-(4) Arm's length range not prerequisite to allocation. 
+(4) Arm's length range not prerequisite to allocation.
 
-(5) Examples. 
+(5) Examples.
 
-(f) Scope of review. 
+(f) Scope of review.
 
-(1) In general. 
+(1) In general.
 
-(i) Intent to evade or avoid tax not a prerequisite. 
+(i) Intent to evade or avoid tax not a prerequisite.
 
-(ii) Realization of income not a prerequisite. 
+(ii) Realization of income not a prerequisite.
 
-(A) In general. 
+(A) In general.
 
-(B) Example. 
+(B) Example.
 
-(iii) Nonrecognition provisions may not bar allocation. 
+(iii) Nonrecognition provisions may not bar allocation.
 
-(A) In general. 
+(A) In general.
 
-(B) Example. 
+(B) Example.
 
-(iv) Consolidated returns. 
+(iv) Consolidated returns.
 
-(2) Rules relating to determination of true taxable income. 
+(2) Rules relating to determination of true taxable income.
 
-(i) \[Reserved\] 
+(i) \[Reserved\]
 
-(ii) Allocation based on taxpayer's actual transactions. 
+(ii) Allocation based on taxpayer's actual transactions.
 
-(A) In general. 
+(A) In general.
 
-(B) \[Reserved\] 
+(B) \[Reserved\]
 
-(iii) Multiple year data. 
+(iii) Multiple year data.
 
-(A) In general. 
+(A) In general.
 
-(B) Circumstances warranting consideration of multiple year data. 
+(B) Circumstances warranting consideration of multiple year data.
 
-(C) Comparable effect over comparable period. 
+(C) Comparable effect over comparable period.
 
-(D) Applications of methods using multiple year averages. 
+(D) Applications of methods using multiple year averages.
 
-(E) Examples. 
+(E) Examples.
 
-(iv) Product lines and statistical techniques. 
+(iv) Product lines and statistical techniques.
 
-(v) Allocations apply to results, not methods. 
+(v) Allocations apply to results, not methods.
 
-(A) In general. 
+(A) In general.
 
-(B) Example. 
+(B) Example.
 
-(g) Collateral adjustments with respect to allocations under section 482. 
+(g) Collateral adjustments with respect to allocations under section 482.
 
-(1) In general. 
+(1) In general.
 
-(2) Correlative allocations. 
+(2) Correlative allocations.
 
-(i) In general. 
+(i) In general.
 
-(ii) Manner of carrying out correlative allocation. 
+(ii) Manner of carrying out correlative allocation.
 
-(iii) Events triggering correlative allocation. 
+(iii) Events triggering correlative allocation.
 
-(iv) Examples. 
+(iv) Examples.
 
-(3) Adjustments to conform accounts to reflect section 482 allocations. 
+(3) Adjustments to conform accounts to reflect section 482 allocations.
 
-(i) In general. 
+(i) In general.
 
-(ii) Example. 
+(ii) Example.
 
-(4) Setoffs. 
+(4) Setoffs.
 
-(i) In general. 
+(i) In general.
 
-(ii) Requirements. 
+(ii) Requirements.
 
-(iii) Examples. 
+(iii) Examples.
 
-(h) Special rules. 
+(h) Special rules.
 
-(1) Small taxpayer safe harbor. \[Reserved\] 
+(1) Small taxpayer safe harbor. \[Reserved\]
 
-(2) Effect of foreign legal restrictions. 
+(2) Effect of foreign legal restrictions.
 
-(i) In general. 
+(i) In general.
 
-(ii) Applicable legal restrictions. 
+(ii) Applicable legal restrictions.
 
-(iii) Requirement for electing the deferred income method of accounting. 
+(iii) Requirement for electing the deferred income method of accounting.
 
-(iv) Deferred income method of accounting. 
+(iv) Deferred income method of accounting.
 
-(v) Examples. 
+(v) Examples.
 
-(3) Coordination with section 936. 
+(3) Coordination with section 936.
 
-(i) Cost sharing under section 936. 
+(i) Cost sharing under section 936.
 
-(ii) Use of terms. 
+(ii) Use of terms.
 
-(i) Definitions. 
+(i) Definitions.
 
-(j) Effective/applicability date. 
+(j) Effective/applicability date.
 
 § 1.482-2 Determination of taxable income in specific situations.
 
-(a) Loans or advances. 
+(a) Loans or advances.
 
-(1) Interest on bona fide indebtedness. 
+(1) Interest on bona fide indebtedness.
 
-(i) In general. 
+(i) In general.
 
-(ii) Application of paragraph (a) of this section. 
+(ii) Application of paragraph (a) of this section.
 
-(A) Interest on bona fide indebtedness. 
+(A) Interest on bona fide indebtedness.
 
-(B) Alleged indebtedness. 
+(B) Alleged indebtedness.
 
-(iii) Period for which interest shall be charged. 
+(iii) Period for which interest shall be charged.
 
-(A) General rule. 
+(A) General rule.
 
-(B) Exception for certain intercompany transactions in the ordinary course of business. 
+(B) Exception for certain intercompany transactions in the ordinary course of business.
 
-(C) Exception for trade or business of debtor member located outside the United States. 
+(C) Exception for trade or business of debtor member located outside the United States.
 
-(D) Exception for regular trade practice of creditor member or others in creditor's industry. 
+(D) Exception for regular trade practice of creditor member or others in creditor's industry.
 
-(E) Exception for property purchased for resale in a foreign country. 
+(E) Exception for property purchased for resale in a foreign country.
 
-(*1*) General rule. 
+(*1*) General rule.
 
-(*2*) Interest-free period. 
+(*2*) Interest-free period.
 
-(*3*) Average collection period. 
+(*3*) Average collection period.
 
-(*4*) Illustration. 
+(*4*) Illustration.
 
-(iv) Payment; book entries. 
+(iv) Payment; book entries.
 
-(2) Arm's length interest rate. 
+(2) Arm's length interest rate.
 
-(i) In general. 
+(i) In general.
 
-(ii) Funds obtained at situs of borrower. 
+(ii) Funds obtained at situs of borrower.
 
-(iii) Safe haven interest rates for certain loans and advances made after May 8, 1986. 
+(iii) Safe haven interest rates for certain loans and advances made after May 8, 1986.
 
-(A) Applicability. 
+(A) Applicability.
 
-(*1*) General rule. 
+(*1*) General rule.
 
-(*2*) Grandfather rule for existing loans. 
+(*2*) Grandfather rule for existing loans.
 
-(B) Safe haven interest rate based on applicable Federal rate. 
+(B) Safe haven interest rate based on applicable Federal rate.
 
-(C) Applicable Federal rate. 
+(C) Applicable Federal rate.
 
-(D) Lender in business of making loans. 
+(D) Lender in business of making loans.
 
-(E) Foreign currency loans. 
+(E) Foreign currency loans.
 
-(3) Coordination with interest adjustments required under certain other Internal Revenue Code sections. 
+(3) Coordination with interest adjustments required under certain other Internal Revenue Code sections.
 
-(4) Examples. 
+(4) Examples.
 
-(b) Rendering of services. 
+(b) Rendering of services.
 
-(c) Use of tangible property. 
+(c) Use of tangible property.
 
-(1) General rule. 
+(1) General rule.
 
-(2) Arm's length charge. 
+(2) Arm's length charge.
 
-(i) In general. 
+(i) In general.
 
-(ii) Safe haven rental charge. 
+(ii) Safe haven rental charge.
 
-(iii) Subleases. 
+(iii) Subleases.
 
-(d) Transfer of property. 
+(d) Transfer of property.
 
-(e) Cost sharing arrangement. 
+(e) Cost sharing arrangement.
 
-(f) Effective/applicability Date. 
+(f) Effective/applicability Date.
 
-(1) In general. 
+(1) In general.
 
-(2) Election to apply paragraph (b) to earlier taxable years. 
+(2) Election to apply paragraph (b) to earlier taxable years.
 
 § 1.482-3 Methods to determine taxable income in connection with a transfer of tangible property.
 
-(a) In general. 
+(a) In general.
 
-(b) Comparable uncontrolled price method. 
+(b) Comparable uncontrolled price method.
 
-(1) In general. 
+(1) In general.
 
-(2) Comparability and reliability considerations. 
+(2) Comparability and reliability considerations.
 
-(i) In general. 
+(i) In general.
 
-(ii) Comparability. 
+(ii) Comparability.
 
-(A) In general. 
+(A) In general.
 
-(B) Adjustments for differences between controlled and uncontrolled transactions. 
+(B) Adjustments for differences between controlled and uncontrolled transactions.
 
-(iii) Data and assumptions. 
+(iii) Data and assumptions.
 
-(3) Arm's length range. 
+(3) Arm's length range.
 
-(4) Examples. 
+(4) Examples.
 
-(5) Indirect evidence of comparable uncontrolled transactions. 
+(5) Indirect evidence of comparable uncontrolled transactions.
 
-(i) In general. 
+(i) In general.
 
-(ii) Limitations. 
+(ii) Limitations.
 
-(iii) Examples. 
+(iii) Examples.
 
-(c) Resale price method. 
+(c) Resale price method.
 
-(1) In general. 
+(1) In general.
 
-(2) Determination of arm's length price. 
+(2) Determination of arm's length price.
 
-(i) In general. 
+(i) In general.
 
-(ii) Applicable resale price. 
+(ii) Applicable resale price.
 
-(iii) Appropriate gross profit. 
+(iii) Appropriate gross profit.
 
-(iv) Arm's length range. 
+(iv) Arm's length range.
 
-(3) Comparability and reliability considerations. 
+(3) Comparability and reliability considerations.
 
-(i) In general. 
+(i) In general.
 
-(ii) Comparability. 
+(ii) Comparability.
 
-(A) Functional comparability. 
+(A) Functional comparability.
 
-(B) Other comparability factors. 
+(B) Other comparability factors.
 
-(C) Adjustments for differences between controlled and uncontrolled transactions. 
+(C) Adjustments for differences between controlled and uncontrolled transactions.
 
-(D) Sales agent. 
+(D) Sales agent.
 
-(iii) Data and assumptions. 
+(iii) Data and assumptions.
 
-(A) In general. 
+(A) In general.
 
-(B) Consistency in accounting. 
+(B) Consistency in accounting.
 
-(4) Examples. 
+(4) Examples.
 
-(d) Cost plus method. 
+(d) Cost plus method.
 
-(1) In general. 
+(1) In general.
 
-(2) Determination of arm's length price. 
+(2) Determination of arm's length price.
 
-(i) In general. 
+(i) In general.
 
-(ii) Appropriate gross profit. 
+(ii) Appropriate gross profit.
 
-(iii) Arm's length range. 
+(iii) Arm's length range.
 
-(3) Comparability and reliability considerations. 
+(3) Comparability and reliability considerations.
 
-(i) In general. 
+(i) In general.
 
-(ii) Comparability. 
+(ii) Comparability.
 
-(A) Functional comparability. 
+(A) Functional comparability.
 
-(B) Other comparability factors. 
+(B) Other comparability factors.
 
-(C) Adjustments for differences between controlled and uncontrolled transactions. 
+(C) Adjustments for differences between controlled and uncontrolled transactions.
 
-(D) Purchasing agent. 
+(D) Purchasing agent.
 
-(iii) Data and assumptions. 
+(iii) Data and assumptions.
 
-(A) In general. 
+(A) In general.
 
-(B) Consistency in accounting. 
+(B) Consistency in accounting.
 
-(4) Examples. 
+(4) Examples.
 
-(e) Unspecified methods. 
+(e) Unspecified methods.
 
-(1) In general. 
+(1) In general.
 
-(2) Example. 
+(2) Example.
 
-(f) Coordination with intangible property rules. 
+(f) Coordination with intangible property rules.
 
 § 1.482-4 Methods to determine taxable income in connection with a transfer of intangible property.
 
-(a) In general. 
+(a) In general.
 
-(b) Definition of intangible. 
+(b) Definition of intangible.
 
-(c) Comparable uncontrolled transaction method. 
+(c) Comparable uncontrolled transaction method.
 
-(1) In general. 
+(1) In general.
 
-(2) Comparability and reliability considerations. 
+(2) Comparability and reliability considerations.
 
-(i) In general. 
+(i) In general.
 
-(ii) Reliability. 
+(ii) Reliability.
 
-(iii) Comparability. 
+(iii) Comparability.
 
-(A) In general. 
+(A) In general.
 
-(B) Factors to be considered in determining comparability. 
+(B) Factors to be considered in determining comparability.
 
-(*1*) Comparable intangible property. 
+(*1*) Comparable intangible property.
 
-(*2*) Comparable circumstances. 
+(*2*) Comparable circumstances.
 
-(iv) Data and assumptions. 
+(iv) Data and assumptions.
 
-(3) Arm's length range. 
+(3) Arm's length range.
 
-(4) Examples. 
+(4) Examples.
 
-(d) Unspecified methods. 
+(d) Unspecified methods.
 
-(1) In general. 
+(1) In general.
 
-(2) Example. 
+(2) Example.
 
-(e) Coordination with tangible property rules. 
+(e) Coordination with tangible property rules.
 
-(f) Special rules for transfers of intangible property. 
+(f) Special rules for transfers of intangible property.
 
-(1) Form of consideration. 
+(1) Form of consideration.
 
-(2) Periodic adjustments. 
+(2) Periodic adjustments.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Exceptions. 
+(ii) Exceptions.
 
-(A) Transactions involving the same intangible. 
+(A) Transactions involving the same intangible.
 
-(B) Transactions involving comparable intangible. 
+(B) Transactions involving comparable intangible.
 
-(C) Methods other than comparable uncontrolled transaction. 
+(C) Methods other than comparable uncontrolled transaction.
 
-(D) Extraordinary events. 
+(D) Extraordinary events.
 
-(E) Five-year period. 
+(E) Five-year period.
 
-(iii) Examples. 
+(iii) Examples.
 
-(3) Ownership of intangible property. 
+(3) Ownership of intangible property.
 
-(i) Identification of owner. 
+(i) Identification of owner.
 
-(A) In general. 
+(A) In general.
 
-(B) Cost sharing arrangements. 
+(B) Cost sharing arrangements.
 
-(ii) Examples. 
+(ii) Examples.
 
-(4) Contribution to the value of intangible property owned by another. 
+(4) Contribution to the value of intangible property owned by another.
 
-(i) In general. 
+(i) In general.
 
-(ii) Examples. 
+(ii) Examples.
 
-(5) Consideration not artificially limited. 
+(5) Consideration not artificially limited.
 
-(6) Lump sum payments 
+(6) Lump sum payments
 
-(i) In general. 
+(i) In general.
 
-(ii) Exceptions. 
+(ii) Exceptions.
 
-(iii) Example. 
+(iii) Example.
 
-(g) Coordination with rules governing cost sharing arrangements. 
+(g) Coordination with rules governing cost sharing arrangements.
 
-(h) Effective/applicability date. 
+(h) Effective/applicability date.
 
-(1) In general. 
+(1) In general.
 
-(2) Election to apply regulation to earlier taxable years. 
+(2) Election to apply regulation to earlier taxable years.
 
 § 1.482-5 Comparable profits method.
 
-(a) In general. 
+(a) In general.
 
-(b) Determination of arm's length result. 
+(b) Determination of arm's length result.
 
-(1) In general. 
+(1) In general.
 
-(2) Tested party. 
+(2) Tested party.
 
-(i) In general. 
+(i) In general.
 
-(ii) Adjustments for tested party. 
+(ii) Adjustments for tested party.
 
-(3) Arm's length range. 
+(3) Arm's length range.
 
-(4) Profit level indicators. 
+(4) Profit level indicators.
 
-(i) Rate of return on capital employed. 
+(i) Rate of return on capital employed.
 
-(ii) Financial ratios. 
+(ii) Financial ratios.
 
-(iii) Other profit level indicators. 
+(iii) Other profit level indicators.
 
-(c) Comparability and reliability considerations. 
+(c) Comparability and reliability considerations.
 
-(1) In general. 
+(1) In general.
 
-(2) Comparability. 
+(2) Comparability.
 
-(i) In general. 
+(i) In general.
 
-(ii) Functional, risk and resource comparability. 
+(ii) Functional, risk and resource comparability.
 
-(iii) Other comparability factors. 
+(iii) Other comparability factors.
 
-(iv) Adjustments for differences between tested party and the uncontrolled taxpayers. 
+(iv) Adjustments for differences between tested party and the uncontrolled taxpayers.
 
-(3) Data and assumptions. 
+(3) Data and assumptions.
 
-(i) In general. 
+(i) In general.
 
-(ii) Consistency in accounting. 
+(ii) Consistency in accounting.
 
-(iii) Allocations between the relevant business activity and other activities. 
+(iii) Allocations between the relevant business activity and other activities.
 
-(d) Definitions. 
+(d) Definitions.
 
-(e) Examples. 
+(e) Examples.
 
 § 1.482-6 Profit split method.
 
-(a) In general. 
+(a) In general.
 
-(b) Appropriate share of profits and losses. 
+(b) Appropriate share of profits and losses.
 
-(c) Application. 
+(c) Application.
 
-(1) In general. 
+(1) In general.
 
-(2) Comparable profit split. 
+(2) Comparable profit split.
 
-(i) In general. 
+(i) In general.
 
-(ii) Comparability and reliability considerations. 
+(ii) Comparability and reliability considerations.
 
-(A) In general. 
+(A) In general.
 
-(B) Comparability. 
+(B) Comparability.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Adjustments for differences between the controlled and uncontrolled taxpayers. 
+(*2*) Adjustments for differences between the controlled and uncontrolled taxpayers.
 
-(C) Data and assumptions. 
+(C) Data and assumptions.
 
-(D) Other factors affecting reliability. 
+(D) Other factors affecting reliability.
 
-(3) Residual profit split. 
+(3) Residual profit split.
 
-(i) In general. 
+(i) In general.
 
-(A) Allocate income to routine contributions. 
+(A) Allocate income to routine contributions.
 
-(B) Allocate residual profit. 
+(B) Allocate residual profit.
 
-(*1*) Nonroutine contributions generally. 
+(*1*) Nonroutine contributions generally.
 
-(*2*) Nonroutine contributions of intangible property. 
+(*2*) Nonroutine contributions of intangible property.
 
-(ii) Comparability and reliability considerations. 
+(ii) Comparability and reliability considerations.
 
-(A) In general. 
+(A) In general.
 
-(B) Comparability. 
+(B) Comparability.
 
-(C) Data and assumptions. 
+(C) Data and assumptions.
 
-(D) Other factors affecting reliability 
+(D) Other factors affecting reliability
 
-(d) Effective/applicability date. 
+(d) Effective/applicability date.
 
-(iii) Example. 
+(iii) Example.
 
 § 1.482-7 Methods to determine taxable income in connection with a cost sharing arrangement.
 
-(a) In general. 
+(a) In general.
 
-(1) RAB share method for cost sharing transactions (CSTs). 
+(1) RAB share method for cost sharing transactions (CSTs).
 
-(2) Methods for platform contribution transactions (PCTs). 
+(2) Methods for platform contribution transactions (PCTs).
 
-(3) Methods for other controlled transactions. 
+(3) Methods for other controlled transactions.
 
-(i) Contribution to a CSA by a controlled taxpayer that is not a controlled participant. 
+(i) Contribution to a CSA by a controlled taxpayer that is not a controlled participant.
 
-(ii) Transfer of interest in a cost shared intangible. 
+(ii) Transfer of interest in a cost shared intangible.
 
-(iii) Other controlled transactions in connection with a CSA. 
+(iii) Other controlled transactions in connection with a CSA.
 
-(iv) Controlled transactions in the absence of a CSA. 
+(iv) Controlled transactions in the absence of a CSA.
 
-(4) Coordination with the arm's length standard. 
+(4) Coordination with the arm's length standard.
 
-(b) Cost sharing arrangement. 
+(b) Cost sharing arrangement.
 
-(1) Substantive requirements. 
+(1) Substantive requirements.
 
-(i) CSTs. 
+(i) CSTs.
 
-(ii) PCTs. 
+(ii) PCTs.
 
-(iii) Divisional interests. 
+(iii) Divisional interests.
 
-(iv) Examples. 
+(iv) Examples.
 
-(2) Administrative requirements. 
+(2) Administrative requirements.
 
-(3) Date of a PCT. 
+(3) Date of a PCT.
 
-(4) Divisional interests. 
+(4) Divisional interests.
 
-(i) In general. 
+(i) In general.
 
-(ii) Territorial based divisional interests. 
+(ii) Territorial based divisional interests.
 
-(iii) Field of use based divisional interests. 
+(iii) Field of use based divisional interests.
 
-(iv) Other divisional bases. 
+(iv) Other divisional bases.
 
-(v) Examples. 
+(v) Examples.
 
-(5) Treatment of certain arrangements as CSAs. 
+(5) Treatment of certain arrangements as CSAs.
 
-(i) Situation in which Commissioner must treat arrangement as a CSA. 
+(i) Situation in which Commissioner must treat arrangement as a CSA.
 
-(ii) Situation in which Commissioner may treat arrangement as a CSA. 
+(ii) Situation in which Commissioner may treat arrangement as a CSA.
 
-(iii) Examples. 
+(iii) Examples.
 
-(6) Entity classification of CSAs. 
+(6) Entity classification of CSAs.
 
-(c) Platform contributions. 
+(c) Platform contributions.
 
-(1) In general. 
+(1) In general.
 
-(2) Terms of platform contributions. 
+(2) Terms of platform contributions.
 
-(i) Presumed to be exclusive. 
+(i) Presumed to be exclusive.
 
-(ii) Rebuttal of Exclusivity. 
+(ii) Rebuttal of Exclusivity.
 
-(iii) Proration of PCT Payments to the extent allocable to other business activities. 
+(iii) Proration of PCT Payments to the extent allocable to other business activities.
 
-(A) In general. 
+(A) In general.
 
-(B) Determining the proration of PCT Payments. 
+(B) Determining the proration of PCT Payments.
 
-(3) Categorization of the PCT. 
+(3) Categorization of the PCT.
 
-(4) Certain make-or-sell rights excluded. 
+(4) Certain make-or-sell rights excluded.
 
-(i) In general. 
+(i) In general.
 
-(ii) Examples. 
+(ii) Examples.
 
-(5) Examples. 
+(5) Examples.
 
-(d) Intangible development costs. 
+(d) Intangible development costs.
 
-(1) Determining whether costs are IDCs. 
+(1) Determining whether costs are IDCs.
 
-(i) Definition and scope of the IDA. 
+(i) Definition and scope of the IDA.
 
-(ii) Reasonably anticipated cost shared intangible. 
+(ii) Reasonably anticipated cost shared intangible.
 
-(iii) Costs included in IDCs. 
+(iii) Costs included in IDCs.
 
-(iv) Examples. 
+(iv) Examples.
 
-(2) Allocation of costs. 
+(2) Allocation of costs.
 
-(3) Stock-based compensation. 
+(3) Stock-based compensation.
 
-(i) In general. 
+(i) In general.
 
-(ii) Identification of stock-based compensation with the IDA. 
+(ii) Identification of stock-based compensation with the IDA.
 
-(iii) Measurement and timing of stock-based compensation IDC. 
+(iii) Measurement and timing of stock-based compensation IDC.
 
-(A) In general. 
+(A) In general.
 
-(*1*) Transfers to which section 421 applies. 
+(*1*) Transfers to which section 421 applies.
 
-(*2*) Deductions of foreign controlled participants. 
+(*2*) Deductions of foreign controlled participants.
 
-(*3*) Modification of stock option. 
+(*3*) Modification of stock option.
 
-(*4*) Expiration or termination of CSA. 
+(*4*) Expiration or termination of CSA.
 
-(B) Election with respect to options on publicly traded stock. 
+(B) Election with respect to options on publicly traded stock.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Publicly traded stock. 
+(*2*) Publicly traded stock.
 
-(*3*) Generally accepted accounting principles. 
+(*3*) Generally accepted accounting principles.
 
-(*4*) Time and manner of making the election. 
+(*4*) Time and manner of making the election.
 
-(C) Consistency. 
+(C) Consistency.
 
-(4) IDC share. 
+(4) IDC share.
 
-(5) Examples. 
+(5) Examples.
 
-(e) Reasonably anticipated benefits share. 
+(e) Reasonably anticipated benefits share.
 
-(1) Definition. 
+(1) Definition.
 
-(i) In general. 
+(i) In general.
 
-(ii) Reliability. 
+(ii) Reliability.
 
-(iii) Examples. 
+(iii) Examples.
 
-(2) Measure of benefits. 
+(2) Measure of benefits.
 
-(i) In general. 
+(i) In general.
 
-(ii) Indirect bases for measuring anticipated benefits. 
+(ii) Indirect bases for measuring anticipated benefits.
 
-(A) Units used, produced, or sold. 
+(A) Units used, produced, or sold.
 
-(B) Sales. 
+(B) Sales.
 
-(C) Operating profit. 
+(C) Operating profit.
 
-(D) Other bases for measuring anticipated benefits. 
+(D) Other bases for measuring anticipated benefits.
 
-(E) Examples. 
+(E) Examples.
 
-(iii) Projections used to estimate benefits. 
+(iii) Projections used to estimate benefits.
 
-(A) In general. 
+(A) In general.
 
-(B) Examples. 
+(B) Examples.
 
-(f) Changes in participation under a CSA. 
+(f) Changes in participation under a CSA.
 
-(1) In general. 
+(1) In general.
 
-(2) Controlled transfer of interests. 
+(2) Controlled transfer of interests.
 
-(3) Capability variation. 
+(3) Capability variation.
 
-(4) Arm's length consideration for a change in participation. 
+(4) Arm's length consideration for a change in participation.
 
-(5) Examples. 
+(5) Examples.
 
-(g) Supplemental guidance on methods applicable to PCTs. 
+(g) Supplemental guidance on methods applicable to PCTs.
 
-(1) In general. 
+(1) In general.
 
-(2) Best method analysis applicable for evaluation of a PCT pursuant to a CSA. 
+(2) Best method analysis applicable for evaluation of a PCT pursuant to a CSA.
 
-(i) In general. 
+(i) In general.
 
-(ii) Consistency with upfront contractual terms and risk allocation—the investor model. 
+(ii) Consistency with upfront contractual terms and risk allocation—the investor model.
 
-(A) In general. 
+(A) In general.
 
-(B) Example. 
+(B) Example.
 
-(iii) Consistency of evaluation with realistic alternatives. 
+(iii) Consistency of evaluation with realistic alternatives.
 
-(A) In general. 
+(A) In general.
 
-(B) Examples. 
+(B) Examples.
 
-(iv) Aggregation of transactions. 
+(iv) Aggregation of transactions.
 
-(v) Discount rate. 
+(v) Discount rate.
 
-(A) In general. 
+(A) In general.
 
-(B) Considerations in best method analysis of discount rate. 
+(B) Considerations in best method analysis of discount rate.
 
-(*1*) Discount rate variation between realistic alternatives. 
+(*1*) Discount rate variation between realistic alternatives.
 
-(*2*) \[Reserved\] 
+(*2*) \[Reserved\]
 
-(*3*) Discount rate variation between forms of payment. 
+(*3*) Discount rate variation between forms of payment.
 
-(*4*) Post-tax rate. 
+(*4*) Post-tax rate.
 
-(C) Example. 
+(C) Example.
 
-(vi) Financial projections. 
+(vi) Financial projections.
 
-(vii) Accounting principles. 
+(vii) Accounting principles.
 
-(A) In general. 
+(A) In general.
 
-(B) Examples. 
+(B) Examples.
 
-(viii) Valuations of subsequent PCTs. 
+(viii) Valuations of subsequent PCTs.
 
-(A) Date of subsequent PCT. 
+(A) Date of subsequent PCT.
 
-(B) Best method analysis for subsequent PCT. 
+(B) Best method analysis for subsequent PCT.
 
-(ix) Arm's length range. 
+(ix) Arm's length range.
 
-(A) In general. 
+(A) In general.
 
-(B) Methods based on two or more input parameters. 
+(B) Methods based on two or more input parameters.
 
-(C) Variable input parameters. 
+(C) Variable input parameters.
 
-(D) Determination of arm's length PCT Payment. 
+(D) Determination of arm's length PCT Payment.
 
-(*1*) No variable input parameters. 
+(*1*) No variable input parameters.
 
-(*2*) One variable input parameter. 
+(*2*) One variable input parameter.
 
-(*3*) More than one variable input parameter. 
+(*3*) More than one variable input parameter.
 
-(E) Adjustments. 
+(E) Adjustments.
 
-(x) Valuation undertaken on a pre-tax basis. 
+(x) Valuation undertaken on a pre-tax basis.
 
-(3) Comparable uncontrolled transaction method. 
+(3) Comparable uncontrolled transaction method.
 
-(4) Income method. 
+(4) Income method.
 
-(i) In general. 
+(i) In general.
 
-(A) Equating cost sharing and licensing alternatives. 
+(A) Equating cost sharing and licensing alternatives.
 
-(B) Cost sharing alternative. 
+(B) Cost sharing alternative.
 
-(C) Licensing alternative. 
+(C) Licensing alternative.
 
-(D) Only one controlled participant with nonroutine platform contributions. 
+(D) Only one controlled participant with nonroutine platform contributions.
 
-(E) Income method payment forms. 
+(E) Income method payment forms.
 
-(F) Discount rates appropriate to cost sharing and licensing alternatives. 
+(F) Discount rates appropriate to cost sharing and licensing alternatives.
 
-(G) The effect of taxation on determining the arm's length amount. 
+(G) The effect of taxation on determining the arm's length amount.
 
-(ii) Evaluation of PCT Payor's cost sharing alternative. 
+(ii) Evaluation of PCT Payor's cost sharing alternative.
 
-(iii) Evaluation of PCT Payor's licensing alternative. 
+(iii) Evaluation of PCT Payor's licensing alternative.
 
-(A) Evaluation based on CUT. 
+(A) Evaluation based on CUT.
 
-(B) Evaluation based on CPM. 
+(B) Evaluation based on CPM.
 
-(iv) Lump sum payment form. 
+(iv) Lump sum payment form.
 
-(v) \[Reserved\] 
+(v) \[Reserved\]
 
-(vi) Best method analysis considerations. 
+(vi) Best method analysis considerations.
 
-(A) Coordination with § 1.482-1(c). 
+(A) Coordination with § 1.482-1(c).
 
-(B) Assumptions Concerning Tax Rates. 
+(B) Assumptions Concerning Tax Rates.
 
-(C) Coordination with § 1.482-4(c)(2). 
+(C) Coordination with § 1.482-4(c)(2).
 
-(D) Coordination with § 1.482-5(c). 
+(D) Coordination with § 1.482-5(c).
 
-(E) Certain Circumstances Concerning PCT Payor. 
+(E) Certain Circumstances Concerning PCT Payor.
 
-(F) Discount rates. 
+(F) Discount rates.
 
-(*1*) Reflection of similar risk profiles of cost sharing alternative and licensing alternative. 
+(*1*) Reflection of similar risk profiles of cost sharing alternative and licensing alternative.
 
-(*2*) \[Reserved\] 
+(*2*) \[Reserved\]
 
-(vii) Routine platform and operating contributions. 
+(vii) Routine platform and operating contributions.
 
-(viii) Examples. 
+(viii) Examples.
 
-(5) Acquisition Price Method. 
+(5) Acquisition Price Method.
 
-(i) In general. 
+(i) In general.
 
-(ii) Determination of arm's length charge. 
+(ii) Determination of arm's length charge.
 
-(iii) Adjusted acquisition price. 
+(iii) Adjusted acquisition price.
 
-(iv) Best method analysis considerations. 
+(iv) Best method analysis considerations.
 
-(v) Example. 
+(v) Example.
 
-(6) Market capitalization method. 
+(6) Market capitalization method.
 
-(i) In general. 
+(i) In general.
 
-(ii) Determination of arm's length charge. 
+(ii) Determination of arm's length charge.
 
-(iii) Average market capitalization. 
+(iii) Average market capitalization.
 
-(iv) Adjusted average market capitalization. 
+(iv) Adjusted average market capitalization.
 
-(v) Best method analysis considerations. 
+(v) Best method analysis considerations.
 
-(vi) Examples. 
+(vi) Examples.
 
-(7) Residual profit split method. 
+(7) Residual profit split method.
 
-(i) In general. 
+(i) In general.
 
-(ii) Appropriate share of profits and losses. 
+(ii) Appropriate share of profits and losses.
 
-(iii) Profit split. 
+(iii) Profit split.
 
-(A) In general. 
+(A) In general.
 
-(B) Determine nonroutine residual divisional profit or loss. 
+(B) Determine nonroutine residual divisional profit or loss.
 
-(C) Allocate nonroutine residual divisional profit or loss. 
+(C) Allocate nonroutine residual divisional profit or loss.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Relative value determination. 
+(*2*) Relative value determination.
 
-(*3*) Determination of PCT Payments. 
+(*3*) Determination of PCT Payments.
 
-(*4*) Routine platform and operating contributions. 
+(*4*) Routine platform and operating contributions.
 
-(iv) Best method analysis considerations. 
+(iv) Best method analysis considerations.
 
-(A) In general. 
+(A) In general.
 
-(B) Comparability. 
+(B) Comparability.
 
-(C) Data and assumptions. 
+(C) Data and assumptions.
 
-(D) Other factors affecting reliability. 
+(D) Other factors affecting reliability.
 
-(v) Examples. 
+(v) Examples.
 
-(8) Unspecified methods. 
+(8) Unspecified methods.
 
-(h) Form of payment rules. 
+(h) Form of payment rules.
 
-(1) CST Payments. 
+(1) CST Payments.
 
-(2) PCT Payments. 
+(2) PCT Payments.
 
-(i) In general. 
+(i) In general.
 
-(ii) No PCT Payor stock. 
+(ii) No PCT Payor stock.
 
-(iii) Specified form of payment. 
+(iii) Specified form of payment.
 
-(A) In general. 
+(A) In general.
 
-(B) Contingent payments. 
+(B) Contingent payments.
 
-(C) Examples. 
+(C) Examples.
 
-(iv) Conversion from fixed to contingent form of payment. 
+(iv) Conversion from fixed to contingent form of payment.
 
-(3) Coordination of best method rule and form of payment. 
+(3) Coordination of best method rule and form of payment.
 
-(i) Allocations by the Commissioner in connection with a CSA. 
+(i) Allocations by the Commissioner in connection with a CSA.
 
-(1) In general. 
+(1) In general.
 
-(2) CST allocations. 
+(2) CST allocations.
 
-(i) In general. 
+(i) In general.
 
-(ii) Adjustments to improve the reliability of projections used to estimate RAB shares. 
+(ii) Adjustments to improve the reliability of projections used to estimate RAB shares.
 
-(A) Unreliable projections. 
+(A) Unreliable projections.
 
-(B) Foreign-to-foreign adjustments. 
+(B) Foreign-to-foreign adjustments.
 
-(C) Correlative adjustments to PCTs. 
+(C) Correlative adjustments to PCTs.
 
-(D) Examples. 
+(D) Examples.
 
-(iii) Timing of CST allocations. 
+(iii) Timing of CST allocations.
 
-(3) PCT allocations. 
+(3) PCT allocations.
 
-(4) Allocations regarding changes in participation under a CSA. 
+(4) Allocations regarding changes in participation under a CSA.
 
-(5) Allocations when CSTs are consistently and materially disproportionate to RAB shares. 
+(5) Allocations when CSTs are consistently and materially disproportionate to RAB shares.
 
-(6) Periodic adjustments. 
+(6) Periodic adjustments.
 
-(i) In general. 
+(i) In general.
 
-(ii) PRRR. 
+(ii) PRRR.
 
-(iii) AERR. 
+(iii) AERR.
 
-(A) In general. 
+(A) In general.
 
-(B) PVTP. 
+(B) PVTP.
 
-(C) PVI. 
+(C) PVI.
 
-(iv) ADR. 
+(iv) ADR.
 
-(A) In general. 
+(A) In general.
 
-(B) Publicly traded companies. 
+(B) Publicly traded companies.
 
-(C) Publicly traded. 
+(C) Publicly traded.
 
-(D) PCT Payor WACC. 
+(D) PCT Payor WACC.
 
-(E) Generally accepted accounting principles. 
+(E) Generally accepted accounting principles.
 
-(v) Determination of periodic adjustments. 
+(v) Determination of periodic adjustments.
 
-(A) In general. 
+(A) In general.
 
-(B) Adjusted RPSM as of Determination Date. 
+(B) Adjusted RPSM as of Determination Date.
 
-(vi) Exceptions to periodic adjustments. 
+(vi) Exceptions to periodic adjustments.
 
-(A) Controlled participants establish periodic adjustment not warranted. 
+(A) Controlled participants establish periodic adjustment not warranted.
 
-(*1*) Transactions involving the same platform contribution as in the Trigger PCT. 
+(*1*) Transactions involving the same platform contribution as in the Trigger PCT.
 
-(*2*) Results not reasonably anticipated. 
+(*2*) Results not reasonably anticipated.
 
-(*3*) Reduced AERR does not cause Periodic Trigger. 
+(*3*) Reduced AERR does not cause Periodic Trigger.
 
-(*4*) Increased AERR does not cause Periodic Trigger. 
+(*4*) Increased AERR does not cause Periodic Trigger.
 
-(B) Circumstances in which Periodic Trigger deemed not to occur. 
+(B) Circumstances in which Periodic Trigger deemed not to occur.
 
-(*1*) 10-year period. 
+(*1*) 10-year period.
 
-(*2*) 5-year period. 
+(*2*) 5-year period.
 
-(vii) Examples. 
+(vii) Examples.
 
-(j) Definitions and special rules. 
+(j) Definitions and special rules.
 
-(1) Definitions. 
+(1) Definitions.
 
-(i) In general. 
+(i) In general.
 
-(ii) Examples. 
+(ii) Examples.
 
-(2) Special rules. 
+(2) Special rules.
 
-(i) Consolidated group. 
+(i) Consolidated group.
 
-(ii) Trade or business. 
+(ii) Trade or business.
 
-(iii) Partnership. 
+(iii) Partnership.
 
-(3) Character. 
+(3) Character.
 
-(i) CST Payments. 
+(i) CST Payments.
 
-(ii) PCT Payments. 
+(ii) PCT Payments.
 
-(iii) Examples. 
+(iii) Examples.
 
-(k) CSA administrative requirements. 
+(k) CSA administrative requirements.
 
-(1) CSA contractual requirements. 
+(1) CSA contractual requirements.
 
-(i) In general. 
+(i) In general.
 
-(ii) Contractual provisions. 
+(ii) Contractual provisions.
 
-(iii) Meaning of contemporaneous. 
+(iii) Meaning of contemporaneous.
 
-(A) In general. 
+(A) In general.
 
-(B) Example. 
+(B) Example.
 
-(iv) Interpretation of contractual provisions. 
+(iv) Interpretation of contractual provisions.
 
-(A) In general. 
+(A) In general.
 
-(B) Examples. 
+(B) Examples.
 
-(2) CSA documentation requirements. 
+(2) CSA documentation requirements.
 
-(i) In general. 
+(i) In general.
 
-(ii) Additional CSA documentation requirements. 
+(ii) Additional CSA documentation requirements.
 
-(iii) Coordination rules and production of documents. 
+(iii) Coordination rules and production of documents.
 
-(A) Coordination with penalty regulations. 
+(A) Coordination with penalty regulations.
 
-(B) Production of documentation. 
+(B) Production of documentation.
 
-(3) CSA accounting requirements. 
+(3) CSA accounting requirements.
 
-(i) In general. 
+(i) In general.
 
-(ii) Reliance on financial accounting. 
+(ii) Reliance on financial accounting.
 
-(4) CSA reporting requirements. 
+(4) CSA reporting requirements.
 
-(i) CSA Statement. 
+(i) CSA Statement.
 
-(ii) Content of CSA Statement. 
+(ii) Content of CSA Statement.
 
-(iii) Time for filing CSA Statement. 
+(iii) Time for filing CSA Statement.
 
-(A) 90-day rule. 
+(A) 90-day rule.
 
-(B) Annual return requirement. 
+(B) Annual return requirement.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Special filing rule for annual return requirement. 
+(*2*) Special filing rule for annual return requirement.
 
-(iv) Examples. 
+(iv) Examples.
 
-(l) Effective/applicability date. 
+(l) Effective/applicability date.
 
-(m) Transition rule. 
+(m) Transition rule.
 
-(1) In general. 
+(1) In general.
 
-(2) Transitional modification of applicable provisions. 
+(2) Transitional modification of applicable provisions.
 
-(3) Special rule for certain periodic adjustments. 
+(3) Special rule for certain periodic adjustments.
 
 § 1.482-8 Examples of the best method rule.
 
-(a) Introduction. 
+(a) Introduction.
 
-(b) Examples. 
+(b) Examples.
 
-(c) Effective/applicability date. 
+(c) Effective/applicability date.
 
 § 1.482-9 Methods to determine taxable income in connection with a controlled services transaction.
 
-(a) In general. 
+(a) In general.
 
-(b) Services cost method. 
+(b) Services cost method.
 
-(1) In general. 
+(1) In general.
 
-(2) Eligibility for the services cost method. 
+(2) Eligibility for the services cost method.
 
-(3) Covered services. 
+(3) Covered services.
 
-(i) Specified covered services. 
+(i) Specified covered services.
 
-(ii) Low margin covered services. 
+(ii) Low margin covered services.
 
-(4) Excluded activities. 
+(4) Excluded activities.
 
-(5) Not services that contribute significantly to fundamental risks of business success or failure. 
+(5) Not services that contribute significantly to fundamental risks of business success or failure.
 
-(6) Adequate books and records. 
+(6) Adequate books and records.
 
-(7) Shared services arrangement. 
+(7) Shared services arrangement.
 
-(i) In general. 
+(i) In general.
 
-(ii) Requirements for shared services arrangement. 
+(ii) Requirements for shared services arrangement.
 
-(A) Eligibility. 
+(A) Eligibility.
 
-(B) Allocation. 
+(B) Allocation.
 
-(C) Documentation. 
+(C) Documentation.
 
-(iii) Definitions and special rules. 
+(iii) Definitions and special rules.
 
-(A) Participant. 
+(A) Participant.
 
-(B) Aggregation. 
+(B) Aggregation.
 
-(C) Coordination with cost sharing arrangements. 
+(C) Coordination with cost sharing arrangements.
 
-(8) Examples. 
+(8) Examples.
 
-(c) Comparable uncontrolled services price method. 
+(c) Comparable uncontrolled services price method.
 
-(1) In general. 
+(1) In general.
 
-(2) Comparability and reliability considerations. 
+(2) Comparability and reliability considerations.
 
-(i) In general. 
+(i) In general.
 
-(ii) Comparability. 
+(ii) Comparability.
 
-(A) In general. 
+(A) In general.
 
-(B) Adjustments for differences between controlled and uncontrolled transactions. 
+(B) Adjustments for differences between controlled and uncontrolled transactions.
 
-(iii) Data and assumptions. 
+(iii) Data and assumptions.
 
-(3) Arm's length range. 
+(3) Arm's length range.
 
-(4) Examples. 
+(4) Examples.
 
-(5) Indirect evidence of the price of a comparable uncontrolled services transaction. 
+(5) Indirect evidence of the price of a comparable uncontrolled services transaction.
 
-(i) In general. 
+(i) In general.
 
-(ii) Example. 
+(ii) Example.
 
-(d) Gross services margin method. 
+(d) Gross services margin method.
 
-(1) In general. 
+(1) In general.
 
-(2) Determination of arm's length price. 
+(2) Determination of arm's length price.
 
-(i) In general. 
+(i) In general.
 
-(ii) Relevant uncontrolled transaction. 
+(ii) Relevant uncontrolled transaction.
 
-(iii) Applicable uncontrolled price. 
+(iii) Applicable uncontrolled price.
 
-(iv) Appropriate gross services profit. 
+(iv) Appropriate gross services profit.
 
-(v) Arm's length range. 
+(v) Arm's length range.
 
-(3) Comparability and reliability considerations. 
+(3) Comparability and reliability considerations.
 
-(i) In general. 
+(i) In general.
 
-(ii) Comparability. 
+(ii) Comparability.
 
-(A) Functional comparability. 
+(A) Functional comparability.
 
-(B) Other comparability factors. 
+(B) Other comparability factors.
 
-(C) Adjustments for differences between controlled and uncontrolled transactions. 
+(C) Adjustments for differences between controlled and uncontrolled transactions.
 
-(D) Buy-sell distributor. 
+(D) Buy-sell distributor.
 
-(iii) Data and assumptions. 
+(iii) Data and assumptions.
 
-(A) In general. 
+(A) In general.
 
-(B) Consistency in accounting. 
+(B) Consistency in accounting.
 
-(4) Examples. 
+(4) Examples.
 
-(e) Cost of services plus method. 
+(e) Cost of services plus method.
 
-(1) In general. 
+(1) In general.
 
-(2) Determination of arm's length price. 
+(2) Determination of arm's length price.
 
-(i) In general. 
+(i) In general.
 
-(ii) Appropriate gross services profit. 
+(ii) Appropriate gross services profit.
 
-(iii) Comparable transactional costs. 
+(iii) Comparable transactional costs.
 
-(iv) Arm's length range. 
+(iv) Arm's length range.
 
-(3) Comparability and reliability considerations. 
+(3) Comparability and reliability considerations.
 
-(i) In general. 
+(i) In general.
 
-(ii) Comparability. 
+(ii) Comparability.
 
-(A) Functional comparability. 
+(A) Functional comparability.
 
-(B) Other comparability factors. 
+(B) Other comparability factors.
 
-(C) Adjustments for differences between the controlled and uncontrolled transactions. 
+(C) Adjustments for differences between the controlled and uncontrolled transactions.
 
-(iii) Data and assumptions. 
+(iii) Data and assumptions.
 
-(A) In general. 
+(A) In general.
 
-(B) Consistency in accounting. 
+(B) Consistency in accounting.
 
-(4) Examples. 
+(4) Examples.
 
-(f) Comparable profits method. 
+(f) Comparable profits method.
 
-(1) In general. 
+(1) In general.
 
-(2) Determination of arm's length result. 
+(2) Determination of arm's length result.
 
-(i) Tested party. 
+(i) Tested party.
 
-(ii) Profit level indicators. 
+(ii) Profit level indicators.
 
-(iii) Comparability and reliability considerations—Data and assumptions—Consistency in accounting. 
+(iii) Comparability and reliability considerations—Data and assumptions—Consistency in accounting.
 
-(3) Examples. 
+(3) Examples.
 
-(g) Profit split method. 
+(g) Profit split method.
 
-(1) In general. 
+(1) In general.
 
-(2) Examples. 
+(2) Examples.
 
-(h) Unspecified methods. 
+(h) Unspecified methods.
 
-(i) Contingent-payment contractual terms for services. 
+(i) Contingent-payment contractual terms for services.
 
-(1) Contingent-payment contractual terms recognized in general. 
+(1) Contingent-payment contractual terms recognized in general.
 
-(2) Contingent-payment arrangement. 
+(2) Contingent-payment arrangement.
 
-(i) General requirements. 
+(i) General requirements.
 
-(A) Written contract. 
+(A) Written contract.
 
-(B) Specified contingency. 
+(B) Specified contingency.
 
-(C) Basis for payment. 
+(C) Basis for payment.
 
-(ii) Economic substance and conduct. 
+(ii) Economic substance and conduct.
 
-(3) Commissioner's authority to impute contingent-payment terms. 
+(3) Commissioner's authority to impute contingent-payment terms.
 
-(4) Evaluation of arm's length charge. 
+(4) Evaluation of arm's length charge.
 
-(5) Examples. 
+(5) Examples.
 
-(j) Total services costs. 
+(j) Total services costs.
 
-(k) Allocation of costs. 
+(k) Allocation of costs.
 
-(1) In general. 
+(1) In general.
 
-(2) Appropriate method of allocation and apportionment. 
+(2) Appropriate method of allocation and apportionment.
 
-(i) Reasonable method standard. 
+(i) Reasonable method standard.
 
-(ii) Use of general practices. 
+(ii) Use of general practices.
 
-(3) Examples. 
+(3) Examples.
 
-(l) Controlled services transaction. 
+(l) Controlled services transaction.
 
-(1) In general. 
+(1) In general.
 
-(2) Activity. 
+(2) Activity.
 
-(3) Benefit. 
+(3) Benefit.
 
-(i) In general. 
+(i) In general.
 
-(ii) Indirect or remote benefit. 
+(ii) Indirect or remote benefit.
 
-(iii) Duplicative activities. 
+(iii) Duplicative activities.
 
-(iv) Shareholder activities. 
+(iv) Shareholder activities.
 
-(v) Passive association. 
+(v) Passive association.
 
-(4) Disaggregation of transactions. 
+(4) Disaggregation of transactions.
 
-(5) Examples. 
+(5) Examples.
 
-(m) Coordination with transfer pricing rules for other transactions. 
+(m) Coordination with transfer pricing rules for other transactions.
 
-(1) Services transactions that include other types of transactions. 
+(1) Services transactions that include other types of transactions.
 
-(2) Services transactions that effect a transfer of intangible property. 
+(2) Services transactions that effect a transfer of intangible property.
 
-(3) Coordination with rules governing cost sharing arrangements. 
+(3) Coordination with rules governing cost sharing arrangements.
 
-(4) Other types of transactions that include controlled services transactions. 
+(4) Other types of transactions that include controlled services transactions.
 
-(5) Examples. 
+(5) Examples.
 
-(n) Effective/applicability dates. 
+(n) Effective/applicability dates.
 
-(1) In general. 
+(1) In general.
 
 (2) Election to apply regulations to earlier taxable years.
 

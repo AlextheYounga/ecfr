@@ -1,6 +1,6 @@
 ##### § 17.258 Terms and conditions to which awards are subject.
 
-Each certificate of award of a grant for planning or implementing an agreement for the exchange of information or information facilities shall specify that the grant is subject to the following terms and conditions:
+Each certificate of award of a grant for planning or implementing an agreement for the exchange of information or information facilities shall specify that the grant is subject to the following terms and conditions:*Grants subject to terms of agreement for exchange of information.*
 
 (a) *Grants subject to terms of agreement for exchange of information.* Each grant shall be subject to, and the certificate shall incorporate by reference, all terms, conditions, and obligations specified in the agreement or planning protocols which the grant will implement, and
 

@@ -1,6 +1,6 @@
 ##### § 17.526 Definitions.
 
-The following definitions apply to §§ 17.525 through 17.530:
+The following definitions apply to §§ 17.525 through 17.530:*Educational loan*
 
 *Educational loan* means a loan, government or commercial, made for educational purposes by institutions that are subject to examination and supervision in their capacity as lending institutions by an agency of the United States or of the state in which the lender has its principal place of business. Loans must be for the actual costs paid for tuition, and other reasonable educational expenses such as living expenses, fees, books, supplies, educational equipment and materials, and laboratory expenses. Loans must be obtained from a government entity, a private financial institution, a school, or any other authorized entity stated in this definition. The following loans do not qualify for the SELRP:
 

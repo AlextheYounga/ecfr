@@ -1,6 +1,6 @@
 ##### § 17.31 Duty periods defined.
 
-Definitions of duty periods applicable to eligibility for medical benefits are as follows:
+Definitions of duty periods applicable to eligibility for medical benefits are as follows:*Active military, naval, or air service*Note to paragraph (c)(6):
 
 (a) *Active military, naval, or air service* includes:
 

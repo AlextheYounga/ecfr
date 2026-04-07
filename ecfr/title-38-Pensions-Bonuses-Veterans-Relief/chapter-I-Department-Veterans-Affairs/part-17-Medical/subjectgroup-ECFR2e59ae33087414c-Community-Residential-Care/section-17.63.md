@@ -1,6 +1,6 @@
 ##### § 17.63 Approval of community residential care facilities.
 
-The approving official may approve a community residential care facility, based on the report of a VA inspection and on any findings of necessary interim monitoring of the facility, if that facility meets the following standards:
+The approving official may approve a community residential care facility, based on the report of a VA inspection and on any findings of necessary interim monitoring of the facility, if that facility meets the following standards:*Health and safety standards.*
 
 (a) *Health and safety standards.* The facility must:
 

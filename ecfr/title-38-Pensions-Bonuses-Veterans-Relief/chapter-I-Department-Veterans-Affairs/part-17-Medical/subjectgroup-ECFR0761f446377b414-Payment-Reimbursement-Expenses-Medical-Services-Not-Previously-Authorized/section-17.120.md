@@ -1,6 +1,6 @@
 ##### § 17.120 Payment or reimbursement for emergency treatment furnished by non-VA providers to certain veterans with service-connected disabilities.
 
-To the extent allowable, payment or reimbursement of the expenses of emergency treatment, not previously authorized, in a private or public (or Federal) hospital not operated by the Department of Veterans Affairs, or of any emergency treatment not previously authorized including transportation will be paid on the basis of a claim timely filed, under the following circumstances:
+To the extent allowable, payment or reimbursement of the expenses of emergency treatment, not previously authorized, in a private or public (or Federal) hospital not operated by the Department of Veterans Affairs, or of any emergency treatment not previously authorized including transportation will be paid on the basis of a claim timely filed, under the following circumstances:*For veterans with service connected disabilities.*
 
 (a) *For veterans with service connected disabilities.* Emergency treatment not previously authorized was rendered to a veteran in need of such emergency treatment:
 

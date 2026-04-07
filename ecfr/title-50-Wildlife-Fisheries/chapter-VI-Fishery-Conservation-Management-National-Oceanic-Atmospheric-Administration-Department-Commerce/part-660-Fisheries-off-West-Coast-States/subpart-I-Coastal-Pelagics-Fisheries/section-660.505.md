@@ -1,6 +1,6 @@
 ##### § 660.505 Prohibitions.
 
-In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
+In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:Federal Register,
 
 (a) In the CPS Limited Entry Zone, take and retain, possess or land more than 5 mt of CPS finfish, other than live bait, on a harvesting vessel without a limited entry permit.
 

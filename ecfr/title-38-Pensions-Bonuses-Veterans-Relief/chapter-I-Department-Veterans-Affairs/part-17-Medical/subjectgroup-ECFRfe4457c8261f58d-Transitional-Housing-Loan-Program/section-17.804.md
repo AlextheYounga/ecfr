@@ -1,6 +1,6 @@
 ##### § 17.804 Loan approval criteria.
 
-Upon consideration of the application package, loan approval will be based on the following:
+Upon consideration of the application package, loan approval will be based on the following:*i.e.*
 
 (a) Favorable financial history and status,
 

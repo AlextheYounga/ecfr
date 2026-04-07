@@ -38,4 +38,4 @@
 
 (c) *Preemption of State law.* To achieve important Federal interests, including, but not limited to, the ability to provide the same complete health care and hospital service to beneficiaries in all States under 38 U.S.C. 7301, this section preempts conflicting State laws relating to the practice of health care providers when such health care providers are practicing telehealth within the scope of their VA employment. Any State law, rule, regulation or requirement pursuant to such law, is without any force or effect on, and State governments have no legal authority to enforce them in relation to, this section or decisions made by VA under this section.
 
-\[83 FR 21906, May 11, 2018\]
+\[83 FR 21906, May 11, 2018\] Link to an amendment published at 90 FR 47603, Oct. 2, 2025.

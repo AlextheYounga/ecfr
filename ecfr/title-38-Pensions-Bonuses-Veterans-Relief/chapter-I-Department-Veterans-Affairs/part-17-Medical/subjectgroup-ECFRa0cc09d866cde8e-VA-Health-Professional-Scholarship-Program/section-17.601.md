@@ -1,6 +1,6 @@
 ##### § 17.601 Definitions.
 
-The following definitions apply to §§ 17.600 through 17.636:
+The following definitions apply to §§ 17.600 through 17.636:*Acceptable level of academic standing*
 
 *Acceptable level of academic standing* means the level at which a participant may continue to attend school under the standards and practices of the school at which a participant is enrolled in a course of study for which an HPSP or VIOMPSP scholarship was awarded.
 

@@ -1,6 +1,6 @@
 ##### § 17.272 Benefits limitations/exclusions.
 
-(a) Benefits cover allowable expenses for medical services and supplies that are medically necessary and appropriate for the treatment of a condition and that are not specifically excluded from program coverage. Covered benefits may have limitations. The fact that a physician may prescribe, order, recommend, or approve a service or supply does not, of itself, make it medically necessary or make the charge an allowable expense, even though it is not listed specifically as an exclusion. The following are specifically excluded from program coverage:
+(a) Benefits cover allowable expenses for medical services and supplies that are medically necessary and appropriate for the treatment of a condition and that are not specifically excluded from program coverage. Covered benefits may have limitations. The fact that a physician may prescribe, order, recommend, or approve a service or supply does not, of itself, make it medically necessary or make the charge an allowable expense, even though it is not listed specifically as an exclusion. The following are specifically excluded from program coverage:*1*
 
 (1) Services, procedures or supplies for which the beneficiary has no legal obligation to pay, or for which no charge would be made in the absence of coverage under a health benefits plan.
 

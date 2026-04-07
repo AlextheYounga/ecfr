@@ -1,542 +1,542 @@
 ##### § 1.860A-0 Outline of REMIC provisions.
 
-This section lists the paragraphs contained in §§ 1.860A-1 through 1.860G-3. 
+This section lists the paragraphs contained in §§ 1.860A-1 through 1.860G-3.
 
 Section 1.860A-1 Effective dates and transition rules.
 
-(a) In general. 
+(a) In general.
 
-(b) Exceptions. 
+(b) Exceptions.
 
-(1) Reporting regulations. 
+(1) Reporting regulations.
 
-(2) Tax avoidance rules. 
+(2) Tax avoidance rules.
 
-(i) Transfers of certain residual interests. 
+(i) Transfers of certain residual interests.
 
-(ii) Transfers to foreign holders. 
+(ii) Transfers to foreign holders.
 
-(iii) Residual interests that lack significant value. 
+(iii) Residual interests that lack significant value.
 
-(3) Excise taxes. 
+(3) Excise taxes.
 
-(4) Rate based on current interest rate. 
+(4) Rate based on current interest rate.
 
-(i) In general. 
+(i) In general.
 
-(ii) Rate based on index. 
+(ii) Rate based on index.
 
-(iii) Transition obligations. 
+(iii) Transition obligations.
 
-(5) Accounting for REMIC net income of foreign persons. 
+(5) Accounting for REMIC net income of foreign persons.
 
-(6) Exceptions for certain modified obligations. 
+(6) Exceptions for certain modified obligations.
 
-(7) Exceptions for certain modifications of obligations that refer to certain interbank offered rates. 
+(7) Exceptions for certain modifications of obligations that refer to certain interbank offered rates.
 
 § 1.860C-2 Determination of REMIC taxable income or net loss.
 
-(a) Treatment of gain or loss. 
+(a) Treatment of gain or loss.
 
-(b) Deductions allowable to a REMIC. 
+(b) Deductions allowable to a REMIC.
 
-(1) In general. 
+(1) In general.
 
-(2) Deduction allowable under section 163. 
+(2) Deduction allowable under section 163.
 
-(3) Deduction allowable under section 166. 
+(3) Deduction allowable under section 166.
 
-(4) Deduction allowable under section 212. 
+(4) Deduction allowable under section 212.
 
-(5) Expenses and interest relating to tax-exempt income. 
+(5) Expenses and interest relating to tax-exempt income.
 
 § 1.860D-1 Definition of a REMIC.
 
-(a) In general. 
+(a) In general.
 
-(b) Specific requirements. 
+(b) Specific requirements.
 
-(1) Interests in a REMIC. 
+(1) Interests in a REMIC.
 
-(i) In general. 
+(i) In general.
 
-(ii) De minimis interests. 
+(ii) De minimis interests.
 
-(2) Certain rights not treated as interests. 
+(2) Certain rights not treated as interests.
 
-(i) Payments for services. 
+(i) Payments for services.
 
-(ii) Stripped interests. 
+(ii) Stripped interests.
 
-(iii) Reimbursement rights under credit enhancement contracts. 
+(iii) Reimbursement rights under credit enhancement contracts.
 
-(iv) Rights to acquire mortgages. 
+(iv) Rights to acquire mortgages.
 
-(3) Asset test. 
+(3) Asset test.
 
-(i) In general. 
+(i) In general.
 
-(ii) Safe harbor. 
+(ii) Safe harbor.
 
-(4) Arrangements test. 
+(4) Arrangements test.
 
-(5) Reasonable arrangements. 
+(5) Reasonable arrangements.
 
-(i) Arrangements to prevent disqualified organizations from holding residual interests. 
+(i) Arrangements to prevent disqualified organizations from holding residual interests.
 
-(ii) Arrangements to ensure that information will be provided. 
+(ii) Arrangements to ensure that information will be provided.
 
-(6) Calendar year requirement. 
+(6) Calendar year requirement.
 
-(c) Segregated pool of assets. 
+(c) Segregated pool of assets.
 
-(1) Formation of REMIC. 
+(1) Formation of REMIC.
 
-(2) Identification of assets. 
+(2) Identification of assets.
 
-(3) Qualified entity defined. 
+(3) Qualified entity defined.
 
-(d) Election to be treated as a real estate mortgage investment conduit. 
+(d) Election to be treated as a real estate mortgage investment conduit.
 
-(1) In general. 
+(1) In general.
 
-(2) Information required to be reported in the REMIC's first taxable year. 
+(2) Information required to be reported in the REMIC's first taxable year.
 
-(3) Requirement to keep sufficient records. 
+(3) Requirement to keep sufficient records.
 
 § 1.860E-1 Treatment of taxable income of a residual interest holder in excess of daily accruals.
 
-(a) Excess inclusion cannot be offset by otherwise allowable deductions. 
+(a) Excess inclusion cannot be offset by otherwise allowable deductions.
 
-(1) In general. 
+(1) In general.
 
-(2) Affiliated groups. 
+(2) Affiliated groups.
 
-(3) Special rule for certain financial institutions. 
+(3) Special rule for certain financial institutions.
 
-(i) In general. 
+(i) In general.
 
-(ii) Ordering rule. 
+(ii) Ordering rule.
 
-(A) In general. 
+(A) In general.
 
-(B) Example. 
+(B) Example.
 
-(iii) Significant value. 
+(iii) Significant value.
 
-(iv) Determining anticipated weighted average life. 
+(iv) Determining anticipated weighted average life.
 
-(A) Anticipated weighted average life of the REMIC. 
+(A) Anticipated weighted average life of the REMIC.
 
-(B) Regular interests that have a specified principal amount. 
+(B) Regular interests that have a specified principal amount.
 
-(C) Regular interests that have no specified principal amount or that have only a nominal principal amount, and all residual interests. 
+(C) Regular interests that have no specified principal amount or that have only a nominal principal amount, and all residual interests.
 
-(D) Anticipated payments. 
+(D) Anticipated payments.
 
-(b) Treatment of a residual interest held by REITs, RICs, common trust funds, and subchapter T cooperatives. \[Reserved\] 
+(b) Treatment of a residual interest held by REITs, RICs, common trust funds, and subchapter T cooperatives. \[Reserved\]
 
-(c) Transfers of noneconomic residual interests. 
+(c) Transfers of noneconomic residual interests.
 
-(1) In general. 
+(1) In general.
 
-(2) Noneconomic residual interest. 
+(2) Noneconomic residual interest.
 
-(3) Computations. 
+(3) Computations.
 
-(4) Safe harbor for establishing lack of improper knowledge. 
+(4) Safe harbor for establishing lack of improper knowledge.
 
-(5) Asset test. 
+(5) Asset test.
 
-(6) Definitions for asset test. 
+(6) Definitions for asset test.
 
-(7) Formula test. 
+(7) Formula test.
 
-(8) Conditions and limitations on formula test. 
+(8) Conditions and limitations on formula test.
 
-(9) Examples. 
+(9) Examples.
 
-(10) Effective dates. 
+(10) Effective dates.
 
-(d) Transfers to foreign persons. 
+(d) Transfers to foreign persons.
 
 § 1.860E-2 Tax on transfers of residual interest to certain organizations.
 
-(a) Transfers to disqualified organizations. 
+(a) Transfers to disqualified organizations.
 
-(1) Payment of tax. 
+(1) Payment of tax.
 
-(2) Transitory ownership. 
+(2) Transitory ownership.
 
-(3) Anticipated excess inclusions. 
+(3) Anticipated excess inclusions.
 
-(4) Present value computation. 
+(4) Present value computation.
 
-(5) Obligation of REMIC to furnish information. 
+(5) Obligation of REMIC to furnish information.
 
-(6) Agent. 
+(6) Agent.
 
-(7) Relief from liability. 
+(7) Relief from liability.
 
-(i) Transferee furnishes information under penalties of perjury. 
+(i) Transferee furnishes information under penalties of perjury.
 
-(ii) Amount required to be paid. 
+(ii) Amount required to be paid.
 
-(b) Tax on pass-thru entities. 
+(b) Tax on pass-thru entities.
 
-(1) Tax on excess inclusions. 
+(1) Tax on excess inclusions.
 
-(2) Record holder furnishes information under penalties of perjury. 
+(2) Record holder furnishes information under penalties of perjury.
 
-(3) Deductibility of tax. 
+(3) Deductibility of tax.
 
-(4) Allocation of tax. 
+(4) Allocation of tax.
 
 § 1.860F-1 Qualified liquidations. § 1.860F-2 Transfers to a REMIC.
 
-(a) Formation of a REMIC. 
+(a) Formation of a REMIC.
 
-(1) In general. 
+(1) In general.
 
-(2) Tiered arrangements. 
+(2) Tiered arrangements.
 
-(i) Two or more REMICs formed pursuant to a single set of organizational documents. 
+(i) Two or more REMICs formed pursuant to a single set of organizational documents.
 
-(ii) A REMIC and one or more investment trusts formed pursuant to a single set of documents. 
+(ii) A REMIC and one or more investment trusts formed pursuant to a single set of documents.
 
-(b) Treatment of sponsor. 
+(b) Treatment of sponsor.
 
-(1) Sponsor defined. 
+(1) Sponsor defined.
 
-(2) Nonrecognition of gain or loss. 
+(2) Nonrecognition of gain or loss.
 
-(3) Basis of contributed assets allocated among interests. 
+(3) Basis of contributed assets allocated among interests.
 
-(i) In general. 
+(i) In general.
 
-(ii) Organizational expenses. 
+(ii) Organizational expenses.
 
-(A) Organizational expense defined. 
+(A) Organizational expense defined.
 
-(B) Syndication expenses. 
+(B) Syndication expenses.
 
-(iii) Pricing date. 
+(iii) Pricing date.
 
-(4) Treatment of unrecognized gain or loss. 
+(4) Treatment of unrecognized gain or loss.
 
-(i) Unrecognized gain on regular interests. 
+(i) Unrecognized gain on regular interests.
 
-(ii) Unrecognized loss on regular interests. 
+(ii) Unrecognized loss on regular interests.
 
-(iii) Unrecognized gain on residual interests. 
+(iii) Unrecognized gain on residual interests.
 
-(iv) Unrecognized loss on residual interests. 
+(iv) Unrecognized loss on residual interests.
 
-(5) Additions to or reductions of the sponsor's basis. 
+(5) Additions to or reductions of the sponsor's basis.
 
-(6) Transferred basis property. 
+(6) Transferred basis property.
 
-(c) REMIC's basis in contributed assets. 
+(c) REMIC's basis in contributed assets.
 
 § 1.860F-4 REMIC reporting requirements and other administrative rules.
 
-(a) In general. 
+(a) In general.
 
-(b) REMIC tax return. 
+(b) REMIC tax return.
 
-(1) In general. 
+(1) In general.
 
-(2) Income tax return. 
+(2) Income tax return.
 
-(c) Signing of REMIC return. 
+(c) Signing of REMIC return.
 
-(1) In general. 
+(1) In general.
 
-(2) REMIC whose startup day is before November 10, 1988. 
+(2) REMIC whose startup day is before November 10, 1988.
 
-(i) In general. 
+(i) In general.
 
-(ii) Startup day. 
+(ii) Startup day.
 
-(iii) Exception. 
+(iii) Exception.
 
-(d) Designation of tax matters person. 
+(d) Designation of tax matters person.
 
-(e) Notice to holders of residual interests. 
+(e) Notice to holders of residual interests.
 
-(1) Information required. 
+(1) Information required.
 
-(i) In general. 
+(i) In general.
 
-(ii) Information with respect to REMIC assets. 
+(ii) Information with respect to REMIC assets.
 
-(A) 95 percent asset test. 
+(A) 95 percent asset test.
 
-(B) Additional information required if the 95 percent test not met. 
+(B) Additional information required if the 95 percent test not met.
 
-(C) For calendar quarters in 1987. 
+(C) For calendar quarters in 1987.
 
-(D) For calendar quarters in 1988 and 1989. 
+(D) For calendar quarters in 1988 and 1989.
 
-(iii) Special provisions. 
+(iii) Special provisions.
 
-(2) Quarterly notice required. 
+(2) Quarterly notice required.
 
-(i) In general. 
+(i) In general.
 
-(ii) Special rule for 1987. 
+(ii) Special rule for 1987.
 
-(3) Nominee reporting. 
+(3) Nominee reporting.
 
-(i) In general. 
+(i) In general.
 
-(ii) Time for furnishing statement. 
+(ii) Time for furnishing statement.
 
-(4) Reports to the Internal Revenue Service. 
+(4) Reports to the Internal Revenue Service.
 
-(f) Information returns for persons engaged in a trade or business. 
+(f) Information returns for persons engaged in a trade or business.
 
 § 1.860G-1 Definition of regular and residual interests.
 
-(a) Regular interest. 
+(a) Regular interest.
 
-(1) Designation as a regular interest. 
+(1) Designation as a regular interest.
 
-(2) Specified portion of the interest payments on qualified mortgages. 
+(2) Specified portion of the interest payments on qualified mortgages.
 
-(i) In general. 
+(i) In general.
 
-(ii) Specified portion cannot vary. 
+(ii) Specified portion cannot vary.
 
-(iii) Defaulted or delinquent mortgages. 
+(iii) Defaulted or delinquent mortgages.
 
-(iv) No minimum specified principal amount is required. 
+(iv) No minimum specified principal amount is required.
 
-(v) Specified portion includes portion of interest payable on regular interest. 
+(v) Specified portion includes portion of interest payable on regular interest.
 
-(vi) Examples. 
+(vi) Examples.
 
-(3) Variable rate. 
+(3) Variable rate.
 
-(i) Rate based on current interest rate. 
+(i) Rate based on current interest rate.
 
-(ii) Weighted average rate. 
+(ii) Weighted average rate.
 
-(A) In general. 
+(A) In general.
 
-(B) Reduction in underlying rate. 
+(B) Reduction in underlying rate.
 
-(iii) Additions, subtractions, and multiplications. 
+(iii) Additions, subtractions, and multiplications.
 
-(iv) Caps and floors. 
+(iv) Caps and floors.
 
-(v) Funds-available caps. 
+(v) Funds-available caps.
 
-(A) In general. 
+(A) In general.
 
-(B) Facts and circumstances test. 
+(B) Facts and circumstances test.
 
-(C) Examples. 
+(C) Examples.
 
-(vi) Combination of rates. 
+(vi) Combination of rates.
 
-(4) Fixed terms on the startup day. 
+(4) Fixed terms on the startup day.
 
-(5) Contingencies prohibited. 
+(5) Contingencies prohibited.
 
-(b) Special rules for regular interests. 
+(b) Special rules for regular interests.
 
-(1) Call premium. 
+(1) Call premium.
 
-(2) Customary prepayment penalties received with respect to qualified mortgages. 
+(2) Customary prepayment penalties received with respect to qualified mortgages.
 
-(3) Certain contingencies disregarded. 
+(3) Certain contingencies disregarded.
 
-(i) Prepayments, income, and expenses. 
+(i) Prepayments, income, and expenses.
 
-(ii) Credit losses. 
+(ii) Credit losses.
 
-(iii) Subordinated interests. 
+(iii) Subordinated interests.
 
-(iv) Deferral of interest. 
+(iv) Deferral of interest.
 
-(v) Prepayment interest shortfalls. 
+(v) Prepayment interest shortfalls.
 
-(vi) Remote and incidental contingencies. 
+(vi) Remote and incidental contingencies.
 
-(4) Form of regular interest. 
+(4) Form of regular interest.
 
-(5) Interest disproportionate to principal. 
+(5) Interest disproportionate to principal.
 
-(i) In general. 
+(i) In general.
 
-(ii) Exception. 
+(ii) Exception.
 
-(6) Regular interest treated as a debt instrument for all Federal income tax purposes. 
+(6) Regular interest treated as a debt instrument for all Federal income tax purposes.
 
-(c) Residual interest. 
+(c) Residual interest.
 
-(d) Issue price of regular and residual interests. 
+(d) Issue price of regular and residual interests.
 
-(1) In general. 
+(1) In general.
 
-(2) The public. 
+(2) The public.
 
-(e) Transition from certain interbank offered rates. 
+(e) Transition from certain interbank offered rates.
 
-(1) In general. 
+(1) In general.
 
-(2) Change in reference rate for a regular interest after the startup day. 
+(2) Change in reference rate for a regular interest after the startup day.
 
-(3) Contingencies of rate on a regular interest. 
+(3) Contingencies of rate on a regular interest.
 
-(4) Reasonable expenses incurred to make covered modifications. 
+(4) Reasonable expenses incurred to make covered modifications.
 
 § 1.860G-2 Other rules.
 
-(a) Obligations principally secured by an interest in real property. 
+(a) Obligations principally secured by an interest in real property.
 
-(1) Tests for determining whether an obligation is principally secured. 
+(1) Tests for determining whether an obligation is principally secured.
 
-(i) The 80-percent test. 
+(i) The 80-percent test.
 
-(ii) Alternative test. 
+(ii) Alternative test.
 
-(2) Treatment of liens. 
+(2) Treatment of liens.
 
-(3) Safe harbor. 
+(3) Safe harbor.
 
-(i) Reasonable belief that an obligation is principally secured. 
+(i) Reasonable belief that an obligation is principally secured.
 
-(ii) Basis for reasonable belief. 
+(ii) Basis for reasonable belief.
 
-(iii) Later discovery that an obligation is not principally secured. 
+(iii) Later discovery that an obligation is not principally secured.
 
-(4) Interests in real property; real property. 
+(4) Interests in real property; real property.
 
-(5) Obligations secured by an interest in real property. 
+(5) Obligations secured by an interest in real property.
 
-(6) Obligations secured by other obligations; residual interests. 
+(6) Obligations secured by other obligations; residual interests.
 
-(7) Certain instruments that call for contingent payments are obligations. 
+(7) Certain instruments that call for contingent payments are obligations.
 
-(8) Release of a lien on an interest in real property securing a qualified mortgage; defeasance. 
+(8) Release of a lien on an interest in real property securing a qualified mortgage; defeasance.
 
-(9) Stripped bonds and coupons. 
+(9) Stripped bonds and coupons.
 
-(b) Assumptions and modifications. 
+(b) Assumptions and modifications.
 
-(1) Significant modifications are treated as exchanges of obligations. 
+(1) Significant modifications are treated as exchanges of obligations.
 
-(2) Significant modification defined. 
+(2) Significant modification defined.
 
-(3) Exceptions. 
+(3) Exceptions.
 
-(4) Modifications that are not significant modifications. 
+(4) Modifications that are not significant modifications.
 
-(5) Assumption defined. 
+(5) Assumption defined.
 
-(6) Pass-thru certificates. 
+(6) Pass-thru certificates.
 
-(7) Test for determining whether an obligation continues to be principally secured following certain types of modifications. 
+(7) Test for determining whether an obligation continues to be principally secured following certain types of modifications.
 
-(c) Treatment of certain credit enhancement contracts. 
+(c) Treatment of certain credit enhancement contracts.
 
-(1) In general. 
+(1) In general.
 
-(2) Credit enhancement contracts. 
+(2) Credit enhancement contracts.
 
-(3) Arrangements to make certain advances. 
+(3) Arrangements to make certain advances.
 
-(i) Advances of delinquent principal and interest. 
+(i) Advances of delinquent principal and interest.
 
-(ii) Advances of taxes, insurance payments, and expenses. 
+(ii) Advances of taxes, insurance payments, and expenses.
 
-(iii) Advances to ease REMIC administration. 
+(iii) Advances to ease REMIC administration.
 
-(4) Deferred payment under a guarantee arrangement. 
+(4) Deferred payment under a guarantee arrangement.
 
-(d) Treatment of certain purchase agreements with respect to convertible mortgages. 
+(d) Treatment of certain purchase agreements with respect to convertible mortgages.
 
-(1) In general. 
+(1) In general.
 
-(2) Treatment of amounts received under purchase agreements. 
+(2) Treatment of amounts received under purchase agreements.
 
-(3) Purchase agreement. 
+(3) Purchase agreement.
 
-(4) Default by the person obligated to purchase a convertible mortgage. 
+(4) Default by the person obligated to purchase a convertible mortgage.
 
-(5) Convertible mortgage. 
+(5) Convertible mortgage.
 
-(e) Prepayment interest shortfalls. 
+(e) Prepayment interest shortfalls.
 
-(f) Defective obligations. 
+(f) Defective obligations.
 
-(1) Defective obligation defined. 
+(1) Defective obligation defined.
 
-(2) Effect of discovery of defect. 
+(2) Effect of discovery of defect.
 
-(g) Permitted investments. 
+(g) Permitted investments.
 
-(1) Cash flow investment. 
+(1) Cash flow investment.
 
-(i) In general. 
+(i) In general.
 
-(ii) Payments received on qualified mortgages. 
+(ii) Payments received on qualified mortgages.
 
-(iii) Temporary period. 
+(iii) Temporary period.
 
-(2) Qualified reserve funds. 
+(2) Qualified reserve funds.
 
-(3) Qualified reserve asset. 
+(3) Qualified reserve asset.
 
-(i) In general. 
+(i) In general.
 
-(ii) Reasonably required reserve. 
+(ii) Reasonably required reserve.
 
-(A) In general. 
+(A) In general.
 
-(B) Presumption that a reserve is reasonably required. 
+(B) Presumption that a reserve is reasonably required.
 
-(C) Presumption may be rebutted. 
+(C) Presumption may be rebutted.
 
-(h) Outside reserve funds. 
+(h) Outside reserve funds.
 
-(i) Contractual rights coupled with regular interests in tiered arrangements. 
+(i) Contractual rights coupled with regular interests in tiered arrangements.
 
-(1) In general. 
+(1) In general.
 
-(2) Example. 
+(2) Example.
 
-(j) Clean-up call. 
+(j) Clean-up call.
 
-(1) In general. 
+(1) In general.
 
-(2) Interest rate changes. 
+(2) Interest rate changes.
 
-(3) Safe harbor. 
+(3) Safe harbor.
 
-(k) Startup day. 
+(k) Startup day.
 
 § 1.860G-3 Treatment of foreign persons.
 
-(a) Transfer of a residual interest with tax avoidance potential. 
+(a) Transfer of a residual interest with tax avoidance potential.
 
-(1) In general. 
+(1) In general.
 
-(2) Tax avoidance potential. 
+(2) Tax avoidance potential.
 
-(i) Defined. 
+(i) Defined.
 
-(ii) Safe harbor. 
+(ii) Safe harbor.
 
-(3) Effectively connected income. 
+(3) Effectively connected income.
 
-(4) Transfer by a foreign holder. 
+(4) Transfer by a foreign holder.
 
-(b) Accounting for REMIC net income 
+(b) Accounting for REMIC net income
 
-(1) Allocation of partnership income to a foreign partner. 
+(1) Allocation of partnership income to a foreign partner.
 
 (2) Excess inclusion income allocated by certain pass-through entities to a foreign person.
 

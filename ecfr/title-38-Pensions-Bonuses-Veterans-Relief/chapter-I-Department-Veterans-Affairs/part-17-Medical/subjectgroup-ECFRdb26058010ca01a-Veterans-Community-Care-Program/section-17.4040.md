@@ -1,6 +1,6 @@
 ##### § 17.4040 Designated access standards.
 
-(a) The following access standards have been designated to apply for purposes of eligibility determinations to access care in the community through the Veterans Community Care Program under § 17.4010(a)(4).
+(a) The following access standards have been designated to apply for purposes of eligibility determinations to access care in the community through the Veterans Community Care Program under § 17.4010(a)(4).*Primary care, mental health care, and non-institutional extended care services.*
 
 (1) *Primary care, mental health care, and non-institutional extended care services.* VA cannot schedule an appointment for the covered veteran with a VA health care provider for the required care or service:
 

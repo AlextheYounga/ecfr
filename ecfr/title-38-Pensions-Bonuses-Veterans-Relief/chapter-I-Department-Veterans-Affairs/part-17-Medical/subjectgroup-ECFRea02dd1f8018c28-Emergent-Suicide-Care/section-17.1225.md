@@ -1,6 +1,6 @@
 ##### § 17.1225 Payment or reimbursement for emergent suicide care.
 
-(a) VA will not charge individuals eligible under § 17.1210 who receive care under § 17.1215 any costs for such care.
+(a) VA will not charge individuals eligible under § 17.1210 who receive care under § 17.1215 any costs for such care.*VA.gov.*
 
 (1) For care furnished in a VA facility, VA will not charge any copayment or other costs that would otherwise be applicable under 38 CFR chapter 17.
 

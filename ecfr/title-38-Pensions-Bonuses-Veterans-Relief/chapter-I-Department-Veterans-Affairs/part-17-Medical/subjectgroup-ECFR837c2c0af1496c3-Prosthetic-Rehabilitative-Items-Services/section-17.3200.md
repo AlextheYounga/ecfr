@@ -7,7 +7,7 @@
 Table 1 to Paragraph (b)
 | Item or service                                | Statute                 | Regulation(s)                  |
 | ---------------------------------------------- | ----------------------- | ------------------------------ |
-| Clothing allowance                             | 38 U.S.C. 1162          | 38 CFR 3.810                   |
+| Clothing allowanceet seq                       | 38 U.S.C. 1162          | 38 CFR 3.810                   |
 | Service and guide dog benefits                 | 38 U.S.C. 1714(b) & (c) | 38 CFR 17.148                  |
 | Sensori-neural aids                            | 38 U.S.C. 1707(b)       | 38 CFR 17.149                  |
 | Patient lifts and other rehabilitative devices | 38 U.S.C. 1717(b)       | 38 CFR 17.151                  |

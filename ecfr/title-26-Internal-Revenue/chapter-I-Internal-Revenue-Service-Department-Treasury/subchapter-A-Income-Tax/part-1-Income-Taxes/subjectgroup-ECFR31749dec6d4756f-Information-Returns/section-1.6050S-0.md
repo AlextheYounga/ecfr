@@ -1,288 +1,288 @@
 ##### § 1.6050S-0 Table of contents.
 
-This section lists captions contained in §§ 1.6050S-1, 1.6050S-2T, 1.6050S-3, and 1.6050S-4T. 
+This section lists captions contained in §§ 1.6050S-1, 1.6050S-2T, 1.6050S-3, and 1.6050S-4T.
 
 § 1.6050S-1 Information reporting for qualified tuition and related expenses.
 
-(a) Information reporting requirement. 
+(a) Information reporting requirement.
 
-(1) In general. 
+(1) In general.
 
-(2) Exceptions. 
+(2) Exceptions.
 
-(i) No reporting by institutions or insurers for nonresident alien individuals. 
+(i) No reporting by institutions or insurers for nonresident alien individuals.
 
-(ii) No reporting by institutions for noncredit courses. 
+(ii) No reporting by institutions for noncredit courses.
 
-(A) In general. 
+(A) In general.
 
-(B) Academic credit defined. 
+(B) Academic credit defined.
 
-(C) Example. 
+(C) Example.
 
-(iii) No reporting by institutions for individuals whose qualified tuition and related expenses are waived or are paid with scholarships. 
+(iii) No reporting by institutions for individuals whose qualified tuition and related expenses are waived or are paid with scholarships.
 
-(iv) No reporting by institutions for individuals whose qualified tuition and related expenses are covered by a formal billing arrangement. 
+(iv) No reporting by institutions for individuals whose qualified tuition and related expenses are covered by a formal billing arrangement.
 
-(A) In general. 
+(A) In general.
 
-(B) Formal billing arrangement defined. 
+(B) Formal billing arrangement defined.
 
-(b) Requirement to file return. 
+(b) Requirement to file return.
 
-(1) In general. 
+(1) In general.
 
-(2) Information reporting requirements for institutions that elect to report payments received for qualified tuition and related expenses. 
+(2) Information reporting requirements for institutions that elect to report payments received for qualified tuition and related expenses.
 
-(i) In general. 
+(i) In general.
 
-(ii) Information included on return. 
+(ii) Information included on return.
 
-(iii) Reportable amount of payments received for qualified tuition and related expenses during calendar year determined. 
+(iii) Reportable amount of payments received for qualified tuition and related expenses during calendar year determined.
 
-(iv) Separate reporting of reimbursements or refunds of payments of qualified tuition and related expenses that were reported for a prior calendar year. 
+(iv) Separate reporting of reimbursements or refunds of payments of qualified tuition and related expenses that were reported for a prior calendar year.
 
-(v) Payments received for qualified tuition and related expenses determined. 
+(v) Payments received for qualified tuition and related expenses determined.
 
-(vi) Reimbursements or refunds of payments for qualified tuition and related expenses determined. 
+(vi) Reimbursements or refunds of payments for qualified tuition and related expenses determined.
 
-(vii) Examples. 
+(vii) Examples.
 
-(3) Information reporting requirements for institutions that elect to report amounts billed for qualified tuition and related expenses. 
+(3) Information reporting requirements for institutions that elect to report amounts billed for qualified tuition and related expenses.
 
-(i) In general. 
+(i) In general.
 
-(ii) Information included on return. 
+(ii) Information included on return.
 
-(iii) Reportable amounts billed for qualified tuition and related expenses during calendar year determined. 
+(iii) Reportable amounts billed for qualified tuition and related expenses during calendar year determined.
 
-(iv) Separate reporting of reductions made to amounts billed for qualified tuition and related expenses that were reported for a prior calendar year. 
+(iv) Separate reporting of reductions made to amounts billed for qualified tuition and related expenses that were reported for a prior calendar year.
 
-(v) Examples. 
+(v) Examples.
 
-(4) Requirements for insurers. 
+(4) Requirements for insurers.
 
-(i) In general. 
+(i) In general.
 
-(ii) Information included on return. 
+(ii) Information included on return.
 
-(5) Time and place for filing return. 
+(5) Time and place for filing return.
 
-(i) In general. 
+(i) In general.
 
-(ii) Return for nonresident alien individual. 
+(ii) Return for nonresident alien individual.
 
-(iii) Extensions of time. 
+(iii) Extensions of time.
 
-(6) Use of magnetic media. 
+(6) Use of magnetic media.
 
-(c) Requirement to furnish statement. 
+(c) Requirement to furnish statement.
 
-(1) In general. 
+(1) In general.
 
-(2) Time and manner for furnishing statement. 
+(2) Time and manner for furnishing statement.
 
-(i) In general. 
+(i) In general.
 
-(ii) Statement to nonresident alien individual. 
+(ii) Statement to nonresident alien individual.
 
-(iii) Extensions of time. 
+(iii) Extensions of time.
 
-(3) Copy of Form 1098-T. 
+(3) Copy of Form 1098-T.
 
-(d) Special rules. 
+(d) Special rules.
 
-(1) Enrollment determined. 
+(1) Enrollment determined.
 
-(2) Payments of qualified tuition and related expenses received or collected by one or more persons. 
+(2) Payments of qualified tuition and related expenses received or collected by one or more persons.
 
-(i) In general. 
+(i) In general.
 
-(ii) Exception. 
+(ii) Exception.
 
-(3) Governmental units. 
+(3) Governmental units.
 
-(e) Penalty provisions. 
+(e) Penalty provisions.
 
-(1) Failure to file correct returns. 
+(1) Failure to file correct returns.
 
-(2) Failure to furnish correct information statements. 
+(2) Failure to furnish correct information statements.
 
-(3) Waiver of penalties for failures to include a correct TIN. 
+(3) Waiver of penalties for failures to include a correct TIN.
 
-(i) In general. 
+(i) In general.
 
-(ii) Acting in a responsible manner. 
+(ii) Acting in a responsible manner.
 
-(iii) Manner of soliciting TIN. 
+(iii) Manner of soliciting TIN.
 
-(4) Failure to furnish TIN. 
+(4) Failure to furnish TIN.
 
-(f) Effective date. 
+(f) Effective date.
 
 § 1.6050S-2T Electronic furnishing of information statements for qualified tuition and related expenses.
 
-(a) Electronic furnishing of statements. 
+(a) Electronic furnishing of statements.
 
-(1) In general. 
+(1) In general.
 
-(2) Consent. 
+(2) Consent.
 
-(i) In general. 
+(i) In general.
 
-(ii) Change in hardware or software requirements. 
+(ii) Change in hardware or software requirements.
 
-(iii) Example. 
+(iii) Example.
 
-(3) Required disclosures. 
+(3) Required disclosures.
 
-(i) In general. 
+(i) In general.
 
-(ii) Paper statement. 
+(ii) Paper statement.
 
-(iii) Scope and duration of consent. 
+(iii) Scope and duration of consent.
 
-(iv) Post-consent request for a paper statement. 
+(iv) Post-consent request for a paper statement.
 
-(v) Withdrawal of consent. 
+(v) Withdrawal of consent.
 
-(vi) Notice of termination. 
+(vi) Notice of termination.
 
-(vii) Updating information. 
+(vii) Updating information.
 
-(viii) Hardware and software requirements. 
+(viii) Hardware and software requirements.
 
-(4) Format. 
+(4) Format.
 
-(5) Posting. 
+(5) Posting.
 
-(6) Notice. 
+(6) Notice.
 
-(i) In general. 
+(i) In general.
 
-(ii) Undeliverable electronic address. 
+(ii) Undeliverable electronic address.
 
-(iii) Corrected statements. 
+(iii) Corrected statements.
 
-(7) Retention. 
+(7) Retention.
 
-(b) Effective date. 
+(b) Effective date.
 
 § 1.6050S-3 Information reporting for payments of interest on qualified education loans.
 
-(a) Information reporting requirement in general. 
+(a) Information reporting requirement in general.
 
-(b) Definitions. 
+(b) Definitions.
 
-(1) Interest. 
+(1) Interest.
 
-(2) Payor. 
+(2) Payor.
 
-(c) Requirement to file return. 
+(c) Requirement to file return.
 
-(1) Form of return. 
+(1) Form of return.
 
-(2) Information included on return. 
+(2) Information included on return.
 
-(3) Time and place for filing return. 
+(3) Time and place for filing return.
 
-(i) In general. 
+(i) In general.
 
-(ii) Extensions of time. 
+(ii) Extensions of time.
 
-(4) Use of magnetic media. 
+(4) Use of magnetic media.
 
-(d) Requirement to furnish statement. 
+(d) Requirement to furnish statement.
 
-(1) In general. 
+(1) In general.
 
-(2) Time and manner for furnishing statement. 
+(2) Time and manner for furnishing statement.
 
-(i) In general. 
+(i) In general.
 
-(ii) Extensions of time. 
+(ii) Extensions of time.
 
-(3) Copy of Form 1098-E. 
+(3) Copy of Form 1098-E.
 
-(e) Special rules. 
+(e) Special rules.
 
-(1) Transitional rule for reporting of loan origination fees and capitalized interest. 
+(1) Transitional rule for reporting of loan origination fees and capitalized interest.
 
-(2) Qualified education loan certification. 
+(2) Qualified education loan certification.
 
-(3) Payments of interest received or collected by one or more persons. 
+(3) Payments of interest received or collected by one or more persons.
 
-(i) In general. 
+(i) In general.
 
-(ii) Exception. 
+(ii) Exception.
 
-(4) Reporting by foreign persons. 
+(4) Reporting by foreign persons.
 
-(5) Governmental units. 
+(5) Governmental units.
 
-(f) Penalty provisions. 
+(f) Penalty provisions.
 
-(1) Failure to file correct returns. 
+(1) Failure to file correct returns.
 
-(2) Failure to furnish correct information statements. 
+(2) Failure to furnish correct information statements.
 
-(3) Waiver of penalties for failures to include a correct TIN. 
+(3) Waiver of penalties for failures to include a correct TIN.
 
-(i) In general. 
+(i) In general.
 
-(ii) Acting in a responsible manner. 
+(ii) Acting in a responsible manner.
 
-(iii) Manner of soliciting TIN. 
+(iii) Manner of soliciting TIN.
 
-(4) Failure to furnish TIN. 
+(4) Failure to furnish TIN.
 
-(g) Effective date. 
+(g) Effective date.
 
 § 1.6050S-4T Electronic furnishing of information statements for payments of interest on qualified education loans.
 
-(a) Electronic furnishing of statements. 
+(a) Electronic furnishing of statements.
 
-(1) In general. 
+(1) In general.
 
-(2) Consent. 
+(2) Consent.
 
-(i) In general. 
+(i) In general.
 
-(ii) Change in hardware or software requirements. 
+(ii) Change in hardware or software requirements.
 
-(iii) Example. 
+(iii) Example.
 
-(3) Required disclosures. 
+(3) Required disclosures.
 
-(i) In general. 
+(i) In general.
 
-(ii) Paper statement. 
+(ii) Paper statement.
 
-(iii) Scope and duration of consent. 
+(iii) Scope and duration of consent.
 
-(iv) Post-consent request for a paper statement. 
+(iv) Post-consent request for a paper statement.
 
-(v) Withdrawal of consent. 
+(v) Withdrawal of consent.
 
-(vi) Notice of termination. 
+(vi) Notice of termination.
 
-(vii) Updating information. 
+(vii) Updating information.
 
-(viii) Hardware and software requirements. 
+(viii) Hardware and software requirements.
 
-(4) Format. 
+(4) Format.
 
-(5) Posting. 
+(5) Posting.
 
-(6) Notice. 
+(6) Notice.
 
-(i) In general. 
+(i) In general.
 
-(ii) Undeliverable electronic address. 
+(ii) Undeliverable electronic address.
 
-(iii) Corrected statements. 
+(iii) Corrected statements.
 
-(7) Retention. 
+(7) Retention.
 
 (b) Effective date.
 

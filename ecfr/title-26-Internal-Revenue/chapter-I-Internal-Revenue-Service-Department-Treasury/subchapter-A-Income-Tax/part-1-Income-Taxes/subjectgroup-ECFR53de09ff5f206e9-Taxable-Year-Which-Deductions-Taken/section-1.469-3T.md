@@ -1,56 +1,56 @@
 ##### § 1.469-3T Passive activity credit (temporary).
 
-(a) *Computation of passive activity credit.* The taxpayer's passive activity credit for the taxable year is the amount (if any) by which— 
+(a) *Computation of passive activity credit.* The taxpayer's passive activity credit for the taxable year is the amount (if any) by which—
 
-(1) The sum of all of the taxpayer's credits that are subject to section 469 for such year; exceeds 
+(1) The sum of all of the taxpayer's credits that are subject to section 469 for such year; exceeds
 
-(2) The taxpayer's regular tax liability allocable to all passive activities for such year. 
+(2) The taxpayer's regular tax liability allocable to all passive activities for such year.
 
-(b) *Credits subject to section 469*—(1) *In general.* Except as otherwise provided in this paragraph (b), a credit is subject to section 469 for a taxable year if and only if— 
+(b) *Credits subject to section 469*—(1) *In general.* Except as otherwise provided in this paragraph (b), a credit is subject to section 469 for a taxable year if and only if—
 
-(i) Such credit— 
+(i) Such credit—
 
-(A) Is attributable to such taxable year and arises in connection with the conduct of an activity that is a passive activity for such taxable year; and 
+(A) Is attributable to such taxable year and arises in connection with the conduct of an activity that is a passive activity for such taxable year; and
 
-(B) Is described in— 
+(B) Is described in—
 
-(*1*) Section 38(b) (1) through (5) (relating to general business credits); 
+(*1*) Section 38(b) (1) through (5) (relating to general business credits);
 
-(*2*) Section 27(b) (relating to corporations described in section 936); 
+(*2*) Section 27(b) (relating to corporations described in section 936);
 
-(*3*) Section 28 (relating to clinical testing of certain drugs); or 
+(*3*) Section 28 (relating to clinical testing of certain drugs); or
 
-(*4*) Section 29 (relating to fuel from nonconventional sources); or 
+(*4*) Section 29 (relating to fuel from nonconventional sources); or
 
-(ii) Such credit is allocable to an activity for such taxable year under § 1.469-1T(f)(4). 
+(ii) Such credit is allocable to an activity for such taxable year under § 1.469-1T(f)(4).
 
-(2) *Treatment of credits attributable to qualified progress expenditures.* Any credit attributable to an increase in qualified investment under section 46(d)(1)(A) (relating to qualified progress expenditures) with respect to progress expenditure property (as defined in section 46(d)(2)) is subject to section 469 for a taxable year if— 
+(2) *Treatment of credits attributable to qualified progress expenditures.* Any credit attributable to an increase in qualified investment under section 46(d)(1)(A) (relating to qualified progress expenditures) with respect to progress expenditure property (as defined in section 46(d)(2)) is subject to section 469 for a taxable year if—
 
-(i) Such credit is attributable to such taxable year; 
+(i) Such credit is attributable to such taxable year;
 
-(ii) Such credit is described in paragraph (b)(1)(i)(B) of this section; and 
+(ii) Such credit is described in paragraph (b)(1)(i)(B) of this section; and
 
-(iii) It is reasonable to believe that such progress expenditure property will be used in a passive activity of the taxpayer when it is placed in service. 
+(iii) It is reasonable to believe that such progress expenditure property will be used in a passive activity of the taxpayer when it is placed in service.
 
-(3) *Special rule for partners and S corporation shareholders.* The character of a credit of a taxpayer arising in connection with an activity conducted by a partnership or S corporation (as a credit subject to section 469) shall be determined, in any case in which participation is relevant, by reference to the participation of the taxpayer in such activity. Such participation is determined for the taxable year of the partnership or S corporation (and not the taxable year of the taxpayer). See § 1.469-2T(e)(1). 
+(3) *Special rule for partners and S corporation shareholders.* The character of a credit of a taxpayer arising in connection with an activity conducted by a partnership or S corporation (as a credit subject to section 469) shall be determined, in any case in which participation is relevant, by reference to the participation of the taxpayer in such activity. Such participation is determined for the taxable year of the partnership or S corporation (and not the taxable year of the taxpayer). See § 1.469-2T(e)(1).
 
-(4) *Exception for pre-1987 credits.* A credit is not subject to section 469 if it is attributable to a taxable year of the taxpayer beginning prior to January 1, 1987. 
+(4) *Exception for pre-1987 credits.* A credit is not subject to section 469 if it is attributable to a taxable year of the taxpayer beginning prior to January 1, 1987.
 
-(c) *Taxable year to which credit is attributable.* A credit is attributable to the taxable year in which such credit would be (or would have been) allowed if the credits regard to the limitations contained in sections 26(a), 28(d)(2), 29(b)(5), 38(c), and 469. 
+(c) *Taxable year to which credit is attributable.* A credit is attributable to the taxable year in which such credit would be (or would have been) allowed if the credits regard to the limitations contained in sections 26(a), 28(d)(2), 29(b)(5), 38(c), and 469.
 
-(d) *Regular tax liability allocable to passive activities*—(1) *In general.* For purposes of paragraph (a)(2) of this section, the taxpayer's regular tax liability allocable to all passive activities for the taxable year is the excess (if any) of— 
+(d) *Regular tax liability allocable to passive activities*—(1) *In general.* For purposes of paragraph (a)(2) of this section, the taxpayer's regular tax liability allocable to all passive activities for the taxable year is the excess (if any) of—
 
-(i) The taxpayer's regular tax liability for such taxable year; over 
+(i) The taxpayer's regular tax liability for such taxable year; over
 
-(ii) The amount of such regular tax liability determined by reducing the taxpayer's taxable income for such year by the excess (if any) of the taxpayer's passive activity gross income for such year over the taxpayer's passive activity deductions for such year. 
+(ii) The amount of such regular tax liability determined by reducing the taxpayer's taxable income for such year by the excess (if any) of the taxpayer's passive activity gross income for such year over the taxpayer's passive activity deductions for such year.
 
-(2) *Regular tax liability.* For purposes of this section, the term “regularly tax liability” has the meaning given such term in section 26(b). 
+(2) *Regular tax liability.* For purposes of this section, the term “regularly tax liability” has the meaning given such term in section 26(b).
 
-(e) *Coordination with section 38(b).* \[Reserved\]. See § 1.469-3(e) for rules relating to this paragraph. 
+(e) *Coordination with section 38(b).* \[Reserved\]. See § 1.469-3(e) for rules relating to this paragraph.
 
-(f) *Coordination with section 50.* \[Reserved\]. See § 1.469-3(f) for rules relating to this paragraph. 
+(f) *Coordination with section 50.* \[Reserved\]. See § 1.469-3(f) for rules relating to this paragraph.
 
-(g) *Examples.* The following examples illustrate the application of this section: 
+(g) *Examples.* The following examples illustrate the application of this section:
 
 Example 1.(i) A, a calendar year individual, is a general partner in calendar year partnership P. P purchases a building in 1987 and, in 1987, 1988, and 1989, incurs rehabilitation costs with respect to the building. The building is placed in service in the rental activity in 1989. P's rehabilitation costs are qualified rehabilitation expenditures (within the meaning of section 48(g)(2)) and are taken into account in determining the amount of the investment credit for rehabilitation expenditures. P's qualified rehabilitation expenditures are not qualified progress expenditures (within the meaning of section 46(d)).
 

@@ -1,6 +1,6 @@
 ##### § 17.62 Definitions.
 
-For the purpose of §§ 17.61 through 17.72:
+For the purpose of §§ 17.61 through 17.72:*Activities of daily living*
 
 *Activities of daily living* means basic daily tasks an individual performs as part of self-care which may be used as a measurement of the functional status of a person including: walking; bathing, shaving, brushing teeth, combing hair; dressing; eating; getting in or getting out of bed; and toileting.
 

@@ -1,38 +1,38 @@
 ##### § 1.691(d)-1 Amounts received by surviving annuitant under joint and survivor annuity contract.
 
-(a) *In general.* Under section 691(d), annuity payments received by a surviving annuitant under a joint and survivor annuity contract (to the extent indicated in paragraph (b) of this section) are treated as income in respect of a decedent under section 691(a) for the purpose of allowing the deduction for estate tax provided for in section 691(c)(1)(A). This section applies only if the deceased annuitant died after December 31, 1953, and after the annuity starting date as defined in section 72(c)(4). 
+(a) *In general.* Under section 691(d), annuity payments received by a surviving annuitant under a joint and survivor annuity contract (to the extent indicated in paragraph (b) of this section) are treated as income in respect of a decedent under section 691(a) for the purpose of allowing the deduction for estate tax provided for in section 691(c)(1)(A). This section applies only if the deceased annuitant died after December 31, 1953, and after the annuity starting date as defined in section 72(c)(4).
 
-(b) *Special value for surviving annuitant's payments.* Section 691(d) provides a special value for the surviving annuitant's payments to determine the amount of the estate tax deduction provided for in section 691(c)(1)(A). This special value is determined by multiplying: 
+(b) *Special value for surviving annuitant's payments.* Section 691(d) provides a special value for the surviving annuitant's payments to determine the amount of the estate tax deduction provided for in section 691(c)(1)(A). This special value is determined by multiplying:
 
-(1) The excess of the value of the annuity at the date of death of the deceased annuitant over the total amount excludable from the gross income of the surviving annuitant under section 72 during his life expectancy period (see paragraph (d)(1)(i) of this section) 
+(1) The excess of the value of the annuity at the date of death of the deceased annuitant over the total amount excludable from the gross income of the surviving annuitant under section 72 during his life expectancy period (see paragraph (d)(1)(i) of this section)
 
 by
 
-(2) A fraction consisting of the value of the annuity for estate tax purposes over the value of the annuity at the date of death of the deceased annuitant. 
+(2) A fraction consisting of the value of the annuity for estate tax purposes over the value of the annuity at the date of death of the deceased annuitant.
 
 This special value is used for the purpose of determining the net value for estate tax purposes (see section 691(c)(2)(B) and paragraph (a)(1) of § 1.691(c)-1) and for the purpose of determining the portion of estate tax attributable to the survivor's annuity (see paragraph (a) of § 1.691(c)-1).
 
-(c) *Amount of deduction.* The portion of estate tax attributable to the survivor's annuity (see paragraph (a) of § 1.691(c)-1) is allowable as a deduction to the surviving annuitant over his life expectancy period. If the surviving annuitant continues to receive annuity payments beyond this period, there is no further deduction under section 691(d). If the surviving annuitant dies before expiration of such period, there is no compensating adjustment for the unused deduction. 
+(c) *Amount of deduction.* The portion of estate tax attributable to the survivor's annuity (see paragraph (a) of § 1.691(c)-1) is allowable as a deduction to the surviving annuitant over his life expectancy period. If the surviving annuitant continues to receive annuity payments beyond this period, there is no further deduction under section 691(d). If the surviving annuitant dies before expiration of such period, there is no compensating adjustment for the unused deduction.
 
-(d) *Definitions.* (1) For purposes of section 691(d) and this section: 
+(d) *Definitions.* (1) For purposes of section 691(d) and this section:
 
-(i) The term *life expectancy period* means the period beginning with the first day of the first period for which an amount is received by the surviving annuitant under the contract and ending with the close of the taxable year with or in which falls the termination of the life expectancy of the surviving annuitant. 
+(i) The term *life expectancy period* means the period beginning with the first day of the first period for which an amount is received by the surviving annuitant under the contract and ending with the close of the taxable year with or in which falls the termination of the life expectancy of the surviving annuitant.
 
-(ii) The life expectancy of the surviving annuitant shall be determined as of the date of death of the deceased annuitant, with reference to actuarial Table I set forth in § 1.72-9 (but without making any adjustment under paragraph (a)(2) of § 1.72-5). 
+(ii) The life expectancy of the surviving annuitant shall be determined as of the date of death of the deceased annuitant, with reference to actuarial Table I set forth in § 1.72-9 (but without making any adjustment under paragraph (a)(2) of § 1.72-5).
 
-(iii) The value of the annuity at the date of death of the deceased annuitant shall be the entire value of the survivor's annuity determined by reference to the principles set forth in section 2031 and the regulations thereunder, relating to the valuation of annuities for estate tax purposes. 
+(iii) The value of the annuity at the date of death of the deceased annuitant shall be the entire value of the survivor's annuity determined by reference to the principles set forth in section 2031 and the regulations thereunder, relating to the valuation of annuities for estate tax purposes.
 
-(iv) The value of the annuity for estate tax purposes shall be that portion of the value determined under subdivision (iii) of this subparagraph which was includible in the deceased annuitant's gross estate. 
+(iv) The value of the annuity for estate tax purposes shall be that portion of the value determined under subdivision (iii) of this subparagraph which was includible in the deceased annuitant's gross estate.
 
-(2) The determination of the “life expectancy period” of the survivor for purposes of section 691(d) may be illustrated by the following example: 
+(2) The determination of the “life expectancy period” of the survivor for purposes of section 691(d) may be illustrated by the following example:
 
 Example.H and W file their income tax returns on the calendar year basis. H dies on July 15, 1955, on which date W is 70 years of age. On August 1, 1955, W receives a monthly payment under a joint and survivor annuity contract. W's life expectancy determined as of the date of H's death is 15 years as determined from Table I in § 1.72-9; thus her life expectancy ends on July 14, 1970. Under the provisions of section 691(d), her life expectancy period begins as of July 1, 1955, and ends as of December 31, 1970, thus giving her a life expectancy period of 15 1/2 years.
 
-(e) *Examples.* The application of section 691(d) and this section may be illustrated by the following examples: 
+(e) *Examples.* The application of section 691(d) and this section may be illustrated by the following examples:
 
 Example 1.(1) H and W, husband and wife, purchased a joint and survivor annuity contract for $203,800 providing for monthly payments of $1,000 starting January 28, 1954, and continuing for their joint lives and for the remaining life of the survivor. H contributed $152,850 and W contributed $50,950 to the cost of the annuity. As of the annuity starting date, January 1, 1954, H's age at his nearest birthday was 70 and W's age at her nearest birthday was 67. H dies on January 1, 1957, and beginning on January 28, 1957, W receives her monthly payments of $1,000. The value of the annuity at the date of H's death is $159,000 (see paragraph (d)(1)(iii) of this section), and the value of the annuity for estate tax purposes (see paragraph (d)(1)(iv) of this section) is $119,250 (152,850/203,800 of $159,000). As of the date of H's death, W's age is 70 and her life expectancy period is 15 years (see paragraph (d) of this section for method of computation). Both H and W reported income by use of the cash receipts and disbursements method and filed income tax returns on the calendar year basis.
 
-(2) The following computations illustrate the application of section 72 in determining the excludable portions of the annuity payments to W during her life expectancy period: 
+(2) The following computations illustrate the application of section 72 in determining the excludable portions of the annuity payments to W during her life expectancy period:
 
 | Amount of annuity payments per year (12 × $1,000)                                                                                                       | $12,000  |
 | Life expectancy of H and W as of the annuity starting date (see section 72(c)(3)(A) and Table II of § 1.72-9 (male, age 70; female, age 67))            | 19.7     |

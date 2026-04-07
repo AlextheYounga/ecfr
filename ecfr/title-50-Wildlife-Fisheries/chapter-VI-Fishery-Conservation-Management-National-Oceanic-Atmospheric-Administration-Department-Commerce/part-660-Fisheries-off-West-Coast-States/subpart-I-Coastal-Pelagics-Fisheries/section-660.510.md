@@ -1,6 +1,6 @@
 ##### § 660.510 Fishing seasons.
 
-All seasons will begin at 0001 hours and terminate at 2400 hours local time. Fishing seasons for the following CPS species are:
+All seasons will begin at 0001 hours and terminate at 2400 hours local time. Fishing seasons for the following CPS species are:*Pacific sardine.*
 
 (a) *Pacific sardine.* July 1 to June 30, or until closed under § 660.509.
 

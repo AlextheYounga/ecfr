@@ -1,6 +1,6 @@
 ##### § 17.82 Contracts for outpatient services for veterans with alcohol or drug dependence or abuse disabilities.
 
-(a) Contracts for treatment services authorized under § 17.80 may be awarded in accordance with applicable Department of Veterans Affairs and Federal procurement procedures. Such contracts will be awarded only after the quality and effectiveness, including adequate protection for the safety of the participants of the contractor's program, has been determined and then only to contractors determined by the Under Secretary for Health or designee to be fully capable of meeting the following standards:
+(a) Contracts for treatment services authorized under § 17.80 may be awarded in accordance with applicable Department of Veterans Affairs and Federal procurement procedures. Such contracts will be awarded only after the quality and effectiveness, including adequate protection for the safety of the participants of the contractor's program, has been determined and then only to contractors determined by the Under Secretary for Health or designee to be fully capable of meeting the following standards:*see*
 
 (1) The following minimum fire safety requirements must be met:
 

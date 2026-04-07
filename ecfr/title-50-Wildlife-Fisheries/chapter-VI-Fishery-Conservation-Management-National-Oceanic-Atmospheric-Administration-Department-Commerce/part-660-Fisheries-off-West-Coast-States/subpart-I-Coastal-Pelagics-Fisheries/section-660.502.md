@@ -1,6 +1,6 @@
 ##### § 660.502 Definitions.
 
-In addition to the definitions in the Magnuson-Stevens Act and in § 600.10 of this chapter, the terms used in this subpart have the following meanings:
+In addition to the definitions in the Magnuson-Stevens Act and in § 600.10 of this chapter, the terms used in this subpart have the following meanings:*Advisory Subpanel*
 
 *Advisory Subpanel* (AP) means the Coastal Pelagic Species Advisory Subpanel that comprises members of the fishing industry and public appointed by the Council to review proposed actions for managing the coastal pelagic fisheries.
 

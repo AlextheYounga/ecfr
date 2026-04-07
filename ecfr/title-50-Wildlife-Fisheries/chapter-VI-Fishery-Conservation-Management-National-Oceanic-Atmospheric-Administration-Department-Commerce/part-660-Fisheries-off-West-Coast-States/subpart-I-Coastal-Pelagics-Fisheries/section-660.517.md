@@ -1,6 +1,6 @@
 ##### § 660.517 Framework for revising regulations.
 
-(a) *General.* NMFS will establish and adjust specifications and management measures in accordance with procedures and standards in Amendment 8 to the FMP.
+(a) *General.* NMFS will establish and adjust specifications and management measures in accordance with procedures and standards in Amendment 8 to the FMP.Federal Register.
 
 (b) *Annual actions.* Annual specifications are developed and implemented according to § 660.508.
 

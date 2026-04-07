@@ -1,6 +1,6 @@
 ##### § 17.248 Costs of placing residents and new residency programs.
 
-Once VA determines in which covered facilities residents will be placed in accordance with §§ 17.246 through 17.247, payment or reimbursement is authorized for the following costs:
+Once VA determines in which covered facilities residents will be placed in accordance with §§ 17.246 through 17.247, payment or reimbursement is authorized for the following costs:*Resident stipends and benefits.*
 
 (a) *Resident stipends and benefits.* For residents placed in covered facilities, VA may pay only the proportionate cost of resident stipends and benefits that are associated with residents participating in educational activities directly related to the PPGMER, in accordance with any contract, agreement, or other arrangement VA has legal authority to form.
 

@@ -1,6 +1,6 @@
 ##### § 660.706 Pacific Coast Treaty Indian rights.
 
-(a) Pacific Coast treaty Indian tribes have treaty rights to harvest HMS in their usual and accustomed (U&A) fishing areas in the EEZ.
+(a) Pacific Coast treaty Indian tribes have treaty rights to harvest HMS in their usual and accustomed (U&A) fishing areas in the EEZ.*Procedures.*
 
 (b) Pacific Coast treaty Indian tribes means the Hoh, Makah, and Quileute Indian Tribes and the Quinault Indian Nation.
 

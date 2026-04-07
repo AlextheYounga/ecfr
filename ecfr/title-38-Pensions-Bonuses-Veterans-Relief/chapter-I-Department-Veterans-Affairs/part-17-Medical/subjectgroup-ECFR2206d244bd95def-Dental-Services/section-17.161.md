@@ -1,6 +1,6 @@
 ##### § 17.161 Authorization of outpatient dental treatment.
 
-Outpatient dental treatment may be authorized by the Chief, Dental Service, for beneficiaries defined in 38 U.S.C. 1712(b) and 38 CFR 17.93 to the extent prescribed and in accordance with the applicable classification and provisions set forth in this section.
+Outpatient dental treatment may be authorized by the Chief, Dental Service, for beneficiaries defined in 38 U.S.C. 1712(b) and 38 CFR 17.93 to the extent prescribed and in accordance with the applicable classification and provisions set forth in this section.*Class I.*
 
 (a) *Class I.* Those having a service-connected compensable dental disability or condition, may be authorized any dental treatment indicated as reasonably necessary to maintain oral health and masticatory function. There is no time limitation for making application for treatment and no restriction as to the number of repeat episodes of treatment.
 

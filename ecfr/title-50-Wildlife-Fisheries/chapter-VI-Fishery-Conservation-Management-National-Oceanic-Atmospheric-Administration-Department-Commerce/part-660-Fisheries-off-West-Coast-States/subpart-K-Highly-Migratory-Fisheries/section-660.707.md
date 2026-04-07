@@ -1,6 +1,6 @@
 ##### § 660.707 Permits.
 
-(a) *General.* This section applies to vessels that fish for HMS off or land HMS in the States of California, Oregon, and Washington.
+(a) *General.* This section applies to vessels that fish for HMS off or land HMS in the States of California, Oregon, and Washington.Federal Register
 
 (1) A commercial fishing vessel of the United States must be registered for use under a general HMS permit that authorizes the use of specific gear, and a recreational charter vessel must be registered for use under a HMS permit if that vessel is used:
 

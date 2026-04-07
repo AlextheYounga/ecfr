@@ -1,6 +1,6 @@
 ##### § 660.413 Overfished species rebuilding plans.
 
-For each overfished salmon stock with an approved rebuilding plan, annual management measures will be established using the standards in this section, specifically the target date for rebuilding the stock to its maximum sustainable yield (MSY) level (generally expressed as SMSY) and the harvest control rule to be used to rebuild the stock.
+For each overfished salmon stock with an approved rebuilding plan, annual management measures will be established using the standards in this section, specifically the target date for rebuilding the stock to its maximum sustainable yield (MSY) level (generally expressed as SMSY) and the harvest control rule to be used to rebuild the stock.*Klamath River Fall-run Chinook Salmon (KRFC).*
 
 (a) *Klamath River Fall-run Chinook Salmon (KRFC).* KRFC was declared overfished in 2018. The target year for rebuilding the KRFC stock is 2020. The harvest control rule during the rebuilding period for the KRFC stock is the *de minimis* control rule specified in the FMP and at § 660.410(c), which allows for limited fishing impacts when abundance falls below SMSY. The control rule describes maximum allowable exploitation rates at any given level of abundance. The control rule is presented in Figure 1 of subpart H of this part.
 
@@ -30,4 +30,4 @@ Table 2 to Paragraph (d)
 | Low                               |
 | Critical                          |
 
-\[85 FR 75921, Nov. 27, 2020, as amended at 86 FR 9302, Feb. 12, 2021; 87 FR 25430, Apr. 29, 2022; 89 FR 35013, May 1, 2024\]
+\[85 FR 75921, Nov. 27, 2020, as amended at 86 FR 9302, Feb. 12, 2021; 87 FR 25430, Apr. 29, 2022; 89 FR 35013, May 1, 2024\] Link to an amendment published at 90 FR 47630, Oct. 2, 2025.

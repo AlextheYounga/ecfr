@@ -1,6 +1,6 @@
 ##### § 17.701 Definitions.
 
-For the purposes of §§ 17.700-17.730 and any Notice of Fund Availability issued pursuant to such sections:
+For the purposes of §§ 17.700-17.730 and any Notice of Fund Availability issued pursuant to such sections:*Applicant*Federal Register
 
 *Applicant* means an eligible entity that submits an application for a grant announced in a Notice of Fund Availability.
 

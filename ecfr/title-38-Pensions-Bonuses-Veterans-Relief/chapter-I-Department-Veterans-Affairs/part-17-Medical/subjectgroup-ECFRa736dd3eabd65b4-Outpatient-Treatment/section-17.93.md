@@ -1,6 +1,6 @@
 ##### § 17.93 Eligibility for outpatient services.
 
-(a) VA shall furnish on an ambulatory or outpatient basis medical services as are needed, to the following applicants under the conditions stated, except that applications for dental treatment must also meet the provisions of § 17.161.
+(a) VA shall furnish on an ambulatory or outpatient basis medical services as are needed, to the following applicants under the conditions stated, except that applications for dental treatment must also meet the provisions of § 17.161.*For compensation and pension examinations.*
 
 (Authority: 38 U.S.C. 1710, 1712)
 

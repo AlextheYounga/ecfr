@@ -1,6 +1,6 @@
 ##### § 17.103 Referrals of compromise settlement offers.
 
-Any offer to compromise or settle any charges or claim for $20,000 or less asserted by the Department of Veterans Affairs in connection with the medical program shall be referred as follows:
+Any offer to compromise or settle any charges or claim for $20,000 or less asserted by the Department of Veterans Affairs in connection with the medical program shall be referred as follows:*To Chief Financial Officers of the Consolidated Patient Account Centers.*
 
 (a) *To Chief Financial Officers of the Consolidated Patient Account Centers.* If the debt represents charges made under §§ 17.108, 17.110, or 17.111, the compromise offer shall be referred to the Chief Financial Officer of the Consolidated Patient Account Center (CPAC) for application of the collection standards in § 1.900 *et seq.* of this chapter, provided:
 

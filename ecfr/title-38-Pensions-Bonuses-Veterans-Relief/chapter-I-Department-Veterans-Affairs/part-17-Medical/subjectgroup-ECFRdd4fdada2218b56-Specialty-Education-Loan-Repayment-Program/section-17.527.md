@@ -1,6 +1,6 @@
 ##### § 17.527 Eligibility.
 
-(a) *General.* An individual must meet the following requirements to be eligible to participate in the SELRP:
+(a) *General.* An individual must meet the following requirements to be eligible to participate in the SELRP:Federal Register
 
 (1) Will be eligible for appointment under 38 U.S.C. 7401 to work as a physician in a medical specialty for which VA determines that recruitment or retention of qualified personnel is difficult. In determining staffing needs, VA will consider the anticipated needs of VA for a period of two to six years in the future. VA will publish these vacancies in a notice in the Federal Register on a yearly basis until vacancies are filled.
 

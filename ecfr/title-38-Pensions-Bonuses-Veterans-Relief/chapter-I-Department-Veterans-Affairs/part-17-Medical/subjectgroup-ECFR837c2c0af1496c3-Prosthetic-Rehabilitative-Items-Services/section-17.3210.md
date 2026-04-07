@@ -1,6 +1,6 @@
 ##### § 17.3210 Definitions.
 
-For the purposes of §§ 17.3200 through 17.3250:
+For the purposes of §§ 17.3200 through 17.3250:*Activities of daily living (ADL)*
 
 *Activities of daily living (ADL)* means specific personal care activities that are required for basic daily maintenance and sustenance, to include eating, toileting, bathing, grooming, dressing and undressing, and mobility.
 

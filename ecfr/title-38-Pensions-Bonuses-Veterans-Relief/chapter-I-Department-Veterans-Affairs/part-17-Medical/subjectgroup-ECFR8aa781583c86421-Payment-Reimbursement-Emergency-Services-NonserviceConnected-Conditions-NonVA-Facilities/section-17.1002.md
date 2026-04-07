@@ -1,6 +1,6 @@
 ##### § 17.1002 Substantive conditions for payment or reimbursement.
 
-Payment or reimbursement under 38 U.S.C. 1725 for emergency treatment (including medical services, professional services, ambulance services, ancillary care and medication (including a short course of medication related to and necessary for the treatment of the emergency condition that is provided directly to or prescribed for the patient for use after the emergency condition is stabilized and the patient is discharged)) will be made only if all of the following conditions are met:
+Payment or reimbursement under 38 U.S.C. 1725 for emergency treatment (including medical services, professional services, ambulance services, ancillary care and medication (including a short course of medication related to and necessary for the treatment of the emergency condition that is provided directly to or prescribed for the patient for use after the emergency condition is stabilized and the patient is discharged)) will be made only if all of the following conditions are met:*e.g.,*
 
 (a) The emergency services were provided in a hospital emergency department or a similar facility held out as providing emergency care to the public;
 

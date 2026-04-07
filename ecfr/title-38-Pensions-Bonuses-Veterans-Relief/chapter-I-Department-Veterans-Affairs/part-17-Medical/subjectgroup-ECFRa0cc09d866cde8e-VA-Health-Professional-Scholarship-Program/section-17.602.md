@@ -1,6 +1,6 @@
 ##### § 17.602 Eligibility.
 
-(a) To be eligible for a scholarship under this program an applicant must—
+(a) To be eligible for a scholarship under this program an applicant must—*Clinical tours.*
 
 (1) Be unconditionally accepted for enrollment or be enrolled as a full-time student in an accredited school located in a State;
 

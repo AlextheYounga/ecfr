@@ -1,6 +1,6 @@
 ##### § 17.538 Agreement and obligated service.
 
-(a) *Agreement.* Each eligible individual who accepts funds from the EACFMAF will enter into an agreement with VA where the eligible individual agrees to the following:
+(a) *Agreement.* Each eligible individual who accepts funds from the EACFMAF will enter into an agreement with VA where the eligible individual agrees to the following:Federal Register
 
 (1) Maintain enrollment, attendance, and acceptable level of academic standing as defined by the school;
 

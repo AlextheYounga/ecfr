@@ -1,6 +1,6 @@
 ##### § 17.244 Definitions.
 
-For purposes of §§ 17.243 through 17.248:
+For purposes of §§ 17.243 through 17.248:*Benefit*
 
 *Benefit* means a benefit provided by VA to a resident that has monetary value in addition to a resident's stipend, which may include but not be limited to health insurance, life insurance, worker's compensation, disability insurance, Federal Insurance Contributions Act taxes, and retirement contributions.
 

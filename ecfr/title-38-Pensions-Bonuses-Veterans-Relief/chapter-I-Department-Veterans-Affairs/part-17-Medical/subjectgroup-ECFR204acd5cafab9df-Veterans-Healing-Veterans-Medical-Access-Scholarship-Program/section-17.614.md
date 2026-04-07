@@ -1,6 +1,6 @@
 ##### § 17.614 Definitions.
 
-The following definitions apply to §§ 17.613 through 17.618.
+The following definitions apply to §§ 17.613 through 17.618.*Acceptable level of academic standing*
 
 *Acceptable level of academic standing* means:
 

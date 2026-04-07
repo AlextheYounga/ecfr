@@ -1,6 +1,6 @@
 ##### § 660.11 General definitions.
 
-These definitions are specific to the fisheries covered in subparts C through G of this part.
+These definitions are specific to the fisheries covered in subparts C through G of this part.*Acceptable Biological Catch (ABC)*MSY
 
 *Acceptable Biological Catch (ABC)* means a harvest specification that is set below the overfishing limit to account for scientific uncertainty in the estimate of OFL, and other scientific uncertainty.
 

@@ -1,6 +1,6 @@
 ##### § 1.668(b)-2 Illustration of the provisions of subpart D.
 
-The provisions of subpart D (section 665 and following), part I, subchapter J, chapter 1 of the Code, other than provisions relating to a foreign trust created by a U.S. person, may be illustrated by the following example: 
+The provisions of subpart D (section 665 and following), part I, subchapter J, chapter 1 of the Code, other than provisions relating to a foreign trust created by a U.S. person, may be illustrated by the following example:
 
 Example.(a) *Facts.* (1) Under the terms of a trust instrument, one-half of the trust income is required to be distributed currently to beneficiary A. The trustee may in his discretion accumulate the balance of the income of the trust or he may make distributions to B out of income or corpus. The trust is to terminate upon the death of A and the corpus is to be distributed to B. Capital gains are allocable to corpus. All of the expenses of the trust are charges against income. The trust instrument provides for a reserve for depreciation, so that depreciation is deductible in computing distributable net income. The trust and both beneficiaries report on the calendar year basis. The trust had long-term capital gains of $20,000 for 1954, and $10,000 for 1955, which were allocated to corpus. The distributable net income of the trust as determined under section 643(a) for 1954, 1955, 1956, and 1957 is deemed to consist of the following items of income:
 
@@ -13,7 +13,7 @@ Example.(a) *Facts.* (1) Under the terms of a trust instrument, one-half of the 
 
 (2) One-half ($7,500) of the dividends for 1954 was received by the trust on or before July 31, 1954, and the balance was received after that date.
 
-(3) The following distributions were made by the trustee to A and B during the taxable years 1954 through 1957: 
+(3) The following distributions were made by the trustee to A and B during the taxable years 1954 through 1957:
 
 |      | A       | B       |
 | ---- | ------- | ------- |
@@ -24,7 +24,7 @@ Example.(a) *Facts.* (1) Under the terms of a trust instrument, one-half of the 
 
 (b) *Distributions to A.* A is deemed to have received one-half of each item of income entering into the computation of distributable net income as shown in paragraph (a)(1) of this example. See § 1.662(a)-2 for rules for the treatment of currently distributable income in the hands of the beneficiary.
 
-(c) *Tax liability of the trust*—(1) *1954.* (i) The tax liability of the trust for the taxable year 1954 is $13,451, computed as follows: 
+(c) *Tax liability of the trust*—(1) *1954.* (i) The tax liability of the trust for the taxable year 1954 is $13,451, computed as follows:
 
 | Distributable net income under section 643(a) (paragraph (a)(1) of this example) | $50,000 |  |
 | Less amounts not includible in gross income:                                     |         |  |
@@ -46,7 +46,7 @@ Example.(a) *Facts.* (1) Under the terms of a trust instrument, one-half of the 
 
 (ii) See paragraph (b) of this example for character of income deemed distributed to A and section 661 for rules for computing the amount deductible by a trust for distributions to beneficiaries. Inasmuch as one-half of the dividends of the trust is deemed to be distributed to A, $25 of such distribution is deemed to be made from the dividend exclusion of $50, and the balance from dividends included in the gross income of the trust (that is, since the year 1954 is involved, $3,725 from dividends received on or before July 31, 1954, and $3,750 from dividends received after July 31, 1954). The trust is entitled to a dividend received credit attributable to the dividends of $3,750 received after July 31, 1954, which were not distributed to any beneficiary during the taxable year.
 
-(2) *1955.* (i) The tax liability of the trust for the taxable year 1955 is $8,189, computed as follows: 
+(2) *1955.* (i) The tax liability of the trust for the taxable year 1955 is $8,189, computed as follows:
 
 | Distributable net income under section 643(a) (paragraph (a)(1) of this example) | $40,000 |  |
 | Less amounts not includible in gross income:                                     |         |  |
@@ -68,9 +68,9 @@ Example.(a) *Facts.* (1) Under the terms of a trust instrument, one-half of the 
 
 (ii) See paragraph (b) of this example for character of income deemed distributed to A and section 661 for rules for computing the amount deductible by a trust for distributions to beneficiaries. Inasmuch as one-half ($4,975) of the dividends of $9,950 ($10,000 less dividend exclusion of $50) included in the gross income of the trust is deemed distributed to A, the trust is entitled to a dividend received credit with respect to the dividends of $4,975 which were not distributed to any beneficiary during the taxable year.
 
-(3) *1956 and 1957.* The trust had no tax liability for the taxable years 1956 and 1957 since all of its income was distributed during such years. 
+(3) *1956 and 1957.* The trust had no tax liability for the taxable years 1956 and 1957 since all of its income was distributed during such years.
 
-(d) *Accumulation distributions.* (1) Accumulation distributions of $20,000 and $7,050, as defined in section 665(b), were made to B during the years 1956 and 1957, respectively, computed as shown below: 
+(d) *Accumulation distributions.* (1) Accumulation distributions of $20,000 and $7,050, as defined in section 665(b), were made to B during the years 1956 and 1957, respectively, computed as shown below:
 
 |                                                                        | 1956    | 1957    |
 | ---------------------------------------------------------------------- | ------- | ------- |
@@ -82,11 +82,11 @@ Example.(a) *Facts.* (1) Under the terms of a trust instrument, one-half of the 
 
 (2) B is deemed to have received one-half of each item of income entering into the computation of distributable net income (shown in paragraph (a)(1) of this example) for the years 1956 and 1957.
 
-(3) The accumulation distribution for 1956 must first be allocated to the preceding taxable years as provided in section 666. After the application of the provisions of subpart D to the 1956 accumulation distribution and to the undistributed net incomes of the preceding taxable years, a similar allocation must be made of the 1957 accumulation distribution. 
+(3) The accumulation distribution for 1956 must first be allocated to the preceding taxable years as provided in section 666. After the application of the provisions of subpart D to the 1956 accumulation distribution and to the undistributed net incomes of the preceding taxable years, a similar allocation must be made of the 1957 accumulation distribution.
 
-(e) *Throwback of 1956 accumulation distribution to 1955.* The accumulation distribution of $20,000 for 1956 must be allocated to the first preceding taxable year 1955, before allocation is made to the second preceding taxable year 1954. 
+(e) *Throwback of 1956 accumulation distribution to 1955.* The accumulation distribution of $20,000 for 1956 must be allocated to the first preceding taxable year 1955, before allocation is made to the second preceding taxable year 1954.
 
-(1) *1955 Undistributed net income.* (i) The undistributed net income of the trust for 1955, determined as of the close of 1955, is $12,885, computed as follows: 
+(1) *1955 Undistributed net income.* (i) The undistributed net income of the trust for 1955, determined as of the close of 1955, is $12,885, computed as follows:
 
 | Distributable net income as computed under section 643(a) (paragraph (a)(1) of this example) | $40,000 |  |
 | Less:                                                                                        |         |  |
@@ -111,13 +111,13 @@ Example.(a) *Facts.* (1) Under the terms of a trust instrument, one-half of the 
 
 (iii) The amount of $1,074 is the taxes which the trust would have paid for 1955 had all of the distributable net income been distributed during the year.
 
-(2) *Allocation of 1956 accumulation distribution to the preceding taxable year 1955.* The portion of the 1956 accumulation distribution which is deemed under section 666(a) to be distributed to B on the last day of 1955 (the first preceding taxable year) is $12,885, an amount equal to the undistributed net income for 1955. An additional amount equal to the taxes imposed on the trust ($7,115) is, under section 666(b), also deemed to be distributed to B on the last day of 1955. Thus, a total of $20,000 ($12,885 plus $7,115) is deemed to be distributed to B on December 31, 1955, by reason of the allocation of the 1956 accumulation distribution to the first preceding taxable year. See paragraph (h) of this example for the treatment of the amount of $20,000 in the hands of B. 
+(2) *Allocation of 1956 accumulation distribution to the preceding taxable year 1955.* The portion of the 1956 accumulation distribution which is deemed under section 666(a) to be distributed to B on the last day of 1955 (the first preceding taxable year) is $12,885, an amount equal to the undistributed net income for 1955. An additional amount equal to the taxes imposed on the trust ($7,115) is, under section 666(b), also deemed to be distributed to B on the last day of 1955. Thus, a total of $20,000 ($12,885 plus $7,115) is deemed to be distributed to B on December 31, 1955, by reason of the allocation of the 1956 accumulation distribution to the first preceding taxable year. See paragraph (h) of this example for the treatment of the amount of $20,000 in the hands of B.
 
-(3) *Character of amounts deemed distributed.* Inasmuch as one-half of the 1955 distributable net income of the trust as determined under section 643(a) was currently distributable to A and the balance of such income is deemed under section 666 to be distributed to B on December 31, 1955, the distribution to B is deemed to consist of one-half of each item of income entering into the computation of the 1955 distributable net income; that is, dividends of $5,000, rents of $7,500, taxable interest of $5,000, and tax-exempt interest of $2,500. 
+(3) *Character of amounts deemed distributed.* Inasmuch as one-half of the 1955 distributable net income of the trust as determined under section 643(a) was currently distributable to A and the balance of such income is deemed under section 666 to be distributed to B on December 31, 1955, the distribution to B is deemed to consist of one-half of each item of income entering into the computation of the 1955 distributable net income; that is, dividends of $5,000, rents of $7,500, taxable interest of $5,000, and tax-exempt interest of $2,500.
 
-(4) *Credit for taxes paid by the trust.* The amount of the taxes for the year 1955 which may not be refunded or credited to the trust under section 667 and which is allowed as a credit against the tax of B for 1956 under section 668(b) is $7,115. See also paragraph (h)(3) of this example. 
+(4) *Credit for taxes paid by the trust.* The amount of the taxes for the year 1955 which may not be refunded or credited to the trust under section 667 and which is allowed as a credit against the tax of B for 1956 under section 668(b) is $7,115. See also paragraph (h)(3) of this example.
 
-(5) *Effect of application of provisions of subpart D to the year 1955.* After the allocation of the 1956 accumulation distribution to the preceding taxable year 1955, the undistributed portion of the distributable net income, the undistributed net income, and the taxes imposed on the trust for 1955 are zero. The portion of the 1956 accumulation distribution which is unabsorbed by the 1955 undistributed net income is $7,115, determined as follows: 
+(5) *Effect of application of provisions of subpart D to the year 1955.* After the allocation of the 1956 accumulation distribution to the preceding taxable year 1955, the undistributed portion of the distributable net income, the undistributed net income, and the taxes imposed on the trust for 1955 are zero. The portion of the 1956 accumulation distribution which is unabsorbed by the 1955 undistributed net income is $7,115, determined as follows:
 
 | 1956 accumulation distribution (paragraph (d)(1) of this example) | $20,000 |
 | Less: Amount allocable to 1955                                    | 12,885  |
@@ -125,7 +125,7 @@ Example.(a) *Facts.* (1) Under the terms of a trust instrument, one-half of the 
 
 (f) *Throwback of 1956 accumulation distribution to 1954.* The unabsorbed portion of the 1956 accumulation distribution of $7,115 is allocable to the second preceding taxable year 1954 and is treated under section 666 as a distribution to B on the last day of such year.
 
-(1) *1954 Undistributed net income.* (i) The undistributed net income of the trust for 1954, determined as of the close of 1954, is $14,155, computed as follows: 
+(1) *1954 Undistributed net income.* (i) The undistributed net income of the trust for 1954, determined as of the close of 1954, is $14,155, computed as follows:
 
 | Distributable net income as computed under section 643(a) (paragraph (a)(1) of this example) | $50,000 |  |
 | Less:                                                                                        |         |  |
@@ -150,11 +150,11 @@ Example.(a) *Facts.* (1) Under the terms of a trust instrument, one-half of the 
 
 (iii) The amount of $2,606 is the taxes which the trust would have paid for 1954 had all of the distributable net income been distributed during that year.
 
-(2) *Allocation of 1956 accumulation distribution to the second preceding taxable year 1954.* Since the unabsorbed portion of the 1956 accumulation distribution of $7,115 is less than the 1954 undistributed net income of $14,155, the trust is deemed under section 666(c) to have also distributed an additional amount ($5,451) equal to a pro rata portion (7,115/14,155 × $10,845) of the taxes imposed on the trust for 1954. Thus, a total of $12,566 ($7,115 plus $5,451) is deemed to be distributed to B on December 31, 1954, by reason of the throwback of the 1956 accumulation distribution. See paragraph (h) of this example for the treatment of the amount of $12,566 in the hands of B. 
+(2) *Allocation of 1956 accumulation distribution to the second preceding taxable year 1954.* Since the unabsorbed portion of the 1956 accumulation distribution of $7,115 is less than the 1954 undistributed net income of $14,155, the trust is deemed under section 666(c) to have also distributed an additional amount ($5,451) equal to a pro rata portion (7,115/14,155 × $10,845) of the taxes imposed on the trust for 1954. Thus, a total of $12,566 ($7,115 plus $5,451) is deemed to be distributed to B on December 31, 1954, by reason of the throwback of the 1956 accumulation distribution. See paragraph (h) of this example for the treatment of the amount of $12,566 in the hands of B.
 
-(3) *Character of amounts deemed distributed to B.* The amount of $12,566 which, under section 666, is deemed to be distributed to B on December 31, 1954, is deemed to be composed of the following items of income of the trust: Dividends, $3,770 (15,000/50,000 × $12,566); rents, $5,026 (20,000/50,000 × $12,566); taxable interest, $2,513 (10,000/50,000 × $12,566); and tax-exempt interest, $1,257 (5,000/50,000 × $12,566). One-half of the dividends of $3,770 is considered as distributed from the dividends received by the trust on or before July 31, 1954, of which $13 (3,770/15,000 × $50) is deemed distributed from the dividends excluded under section 116, and the other half as distributed from the dividends received after July 31, 1954. Thus, of the total of $12,566 deemed distributed to B, $11,296 is considered as made from income included in the gross income of the trust and $1,270 from non-taxable income of the trust. 
+(3) *Character of amounts deemed distributed to B.* The amount of $12,566 which, under section 666, is deemed to be distributed to B on December 31, 1954, is deemed to be composed of the following items of income of the trust: Dividends, $3,770 (15,000/50,000 × $12,566); rents, $5,026 (20,000/50,000 × $12,566); taxable interest, $2,513 (10,000/50,000 × $12,566); and tax-exempt interest, $1,257 (5,000/50,000 × $12,566). One-half of the dividends of $3,770 is considered as distributed from the dividends received by the trust on or before July 31, 1954, of which $13 (3,770/15,000 × $50) is deemed distributed from the dividends excluded under section 116, and the other half as distributed from the dividends received after July 31, 1954. Thus, of the total of $12,566 deemed distributed to B, $11,296 is considered as made from income included in the gross income of the trust and $1,270 from non-taxable income of the trust.
 
-(4) *Credit for taxes paid by the trust.* The amount of the taxes for the year 1954 which may not be refunded or credited to the trust under section 667 and which is allowed as a credit against the tax of B for 1956 under section 668(b), because of the allocation of the 1956 accumulation distribution to 1954, is $5,401, computed as follows: 
+(4) *Credit for taxes paid by the trust.* The amount of the taxes for the year 1954 which may not be refunded or credited to the trust under section 667 and which is allowed as a credit against the tax of B for 1956 under section 668(b), because of the allocation of the 1956 accumulation distribution to 1954, is $5,401, computed as follows:
 
 | Taxable income of the trust as of the close of 1954 (paragraph (c)(1) of this example)      | $32,375 |
 | Less: Amount deemed distributed to B under section 666 from the taxable income of the trust | 11,296  |
@@ -197,17 +197,17 @@ Example.(a) *Facts.* (1) Under the terms of a trust instrument, one-half of the 
 
 (g) *Throwback of 1957 accumulation distribution.* Inasmuch as all of the income of the trust for the first preceding taxable year 1956 was distributed during such year and the trust had no undistributed net income for the second preceding taxable year 1955 after the application of subpart D to the accumulation distribution made during 1956, the 1957 accumulation distribution of $7,050 is allocable to the third preceding taxable year 1954. See paragraph (d)(1) of this example for computation of the accumulation distribution.
 
-(1) *Allocation of 1957 accumulation distribution to the preceding taxable year 1954.* The portion of the 1957 accumulation distribution which is deemed under section 666(a) to be distributed to B on the last day of 1954 is $6,990, an amount equal to the undistributed net income of the trust for 1954, determined as of the close of 1956. An additional amount equal to the taxes imposed on the trust ($5,444), determined as of the close of 1956, is under section 666(b) also deemed to be distributed to B on the last day of 1954. See paragraph (f) (4) and (5) of this example. Thus, a total of $12,434 ($6,990 plus $5,444) is deemed to be distributed to B on December 31, 1954, by reason of the allocation of the 1957 accumulation distribution to the taxable year 1954. See paragraph (j) of this example for the treatment of the amount of $12,434 in the hands of B. 
+(1) *Allocation of 1957 accumulation distribution to the preceding taxable year 1954.* The portion of the 1957 accumulation distribution which is deemed under section 666(a) to be distributed to B on the last day of 1954 is $6,990, an amount equal to the undistributed net income of the trust for 1954, determined as of the close of 1956. An additional amount equal to the taxes imposed on the trust ($5,444), determined as of the close of 1956, is under section 666(b) also deemed to be distributed to B on the last day of 1954. See paragraph (f) (4) and (5) of this example. Thus, a total of $12,434 ($6,990 plus $5,444) is deemed to be distributed to B on December 31, 1954, by reason of the allocation of the 1957 accumulation distribution to the taxable year 1954. See paragraph (j) of this example for the treatment of the amount of $12,434 in the hands of B.
 
-(2) *Character of amounts deemed distributed.* Inasmuch as the balance of the 1954 distributable net income of the trust is deemed under section 666 to be distributed to B on December 31, 1954, the distribution is deemed to consist of dividends of $3,730, rents of $4,974, taxable interest of $2,487, and tax-exempt interest of $1,243. See paragraph (f)(5)(ii) of this example. 
+(2) *Character of amounts deemed distributed.* Inasmuch as the balance of the 1954 distributable net income of the trust is deemed under section 666 to be distributed to B on December 31, 1954, the distribution is deemed to consist of dividends of $3,730, rents of $4,974, taxable interest of $2,487, and tax-exempt interest of $1,243. See paragraph (f)(5)(ii) of this example.
 
-(3) *Credit for taxes paid by the trust.* The amount of taxes for the year 1954 which may not be refunded or credited to the trust under section 667 and which is allowed as a credit against the tax of B under section 668(b) is $5,444, the amount of taxes imposed on the trust determined as of the close of 1956. See paragraph (f)(4) of this example. 
+(3) *Credit for taxes paid by the trust.* The amount of taxes for the year 1954 which may not be refunded or credited to the trust under section 667 and which is allowed as a credit against the tax of B under section 668(b) is $5,444, the amount of taxes imposed on the trust determined as of the close of 1956. See paragraph (f)(4) of this example.
 
-(4) *Effect of application of provisions of subpart D to the year 1954.* After the allocation of the 1957 accumulation distribution to the preceding taxable year 1954, the undistributed portion of the distributable net income, the undistributed net income, and the taxes imposed on the trust for 1954 are zero. The balance of $60 ($7,050 less $6,990) of the 1957 accumulation distribution remaining after the allocation of the accumulation distribution to the year 1954, may not be allocated to the year 1953 since that year is not subject to the provisions of the Internal Revenue Code of 1954. 
+(4) *Effect of application of provisions of subpart D to the year 1954.* After the allocation of the 1957 accumulation distribution to the preceding taxable year 1954, the undistributed portion of the distributable net income, the undistributed net income, and the taxes imposed on the trust for 1954 are zero. The balance of $60 ($7,050 less $6,990) of the 1957 accumulation distribution remaining after the allocation of the accumulation distribution to the year 1954, may not be allocated to the year 1953 since that year is not subject to the provisions of the Internal Revenue Code of 1954.
 
-(h) *Determination of B's tax liability; taxable year 1956*—(1) *Amount of trust income includible in gross income.* (i) Of the amount of $45,000 distributed by the trust to B during the taxable year 1956, $25,000 is treated as a distribution out of trust income for that year within the meaning of section 662(a)(2), and $20,000 as an accumulation distribution within the meaning of section 665(b) (see paragraph (d) of this example). However, $12,885 plus taxes of $7,115 is deemed distributed to B on December 31, 1955, and $7,115 plus taxes of $5,451 on December 31, 1954, under section 666 by reason of the accumulation distribution made during 1956, and these amounts are includible in B's gross income for 1956 to the extent that they would have been includible in his gross income under section 662 (a)(2) and (b) for 1955 and 1954, respectively, had they been distributed on the last day of those years. 
+(h) *Determination of B's tax liability; taxable year 1956*—(1) *Amount of trust income includible in gross income.* (i) Of the amount of $45,000 distributed by the trust to B during the taxable year 1956, $25,000 is treated as a distribution out of trust income for that year within the meaning of section 662(a)(2), and $20,000 as an accumulation distribution within the meaning of section 665(b) (see paragraph (d) of this example). However, $12,885 plus taxes of $7,115 is deemed distributed to B on December 31, 1955, and $7,115 plus taxes of $5,451 on December 31, 1954, under section 666 by reason of the accumulation distribution made during 1956, and these amounts are includible in B's gross income for 1956 to the extent that they would have been includible in his gross income under section 662 (a)(2) and (b) for 1955 and 1954, respectively, had they been distributed on the last day of those years.
 
-(ii) The amounts distributed to B out of trust income for the year 1956, and the amounts deemed distributed out of income for the preceding taxable years 1955 and 1954 have the following character for the purpose of determining the amount includible in B's gross income for 1956: 
+(ii) The amounts distributed to B out of trust income for the year 1956, and the amounts deemed distributed out of income for the preceding taxable years 1955 and 1954 have the following character for the purpose of determining the amount includible in B's gross income for 1956:
 
 | Year                                    | Dividends | Rents   | Interest (taxable) | Interest (exempt) | Total     |
 | --------------------------------------- | --------- | ------- | ------------------ | ----------------- | --------- |
@@ -221,7 +221,7 @@ Example.(a) *Facts.* (1) Under the terms of a trust instrument, one-half of the 
 
 Thus, B will include in gross income for 1956 dividends of $13,770 (subject to the dividend exclusion), rents of $22,526, and taxable interest of $15,013, and will exclude the tax-exempt interest of $6,257. (2) *Computation of tax.* (i) For the purpose of computing B's tax liability, it is assumed that he was single during the taxable years 1954, 1955, and 1956, and that his taxable income (derived from salary) for each of the years 1954 and 1955 amounted to $13,400 on which a tax of $4,002 was paid for each year. It is also assumed that his income (other than distributions from the trust) for 1956 was $15,000 derived from salary, and he had allowable deductions of $10,600, which included the deduction for personal exemption.
 
-(ii) The computation of the tax for the taxable year 1956 attributable to the section 666 amounts which are included in B's gross income for such year, as provided in paragraph (a)(1) of § 1.668(a)-4, is as follows: 
+(ii) The computation of the tax for the taxable year 1956 attributable to the section 666 amounts which are included in B's gross income for such year, as provided in paragraph (a)(1) of § 1.668(a)-4, is as follows:
 
 |                                                           | (1) Section 666 amounts excluded | (2) Section 666 amounts included |
 | --------------------------------------------------------- | -------------------------------- | -------------------------------- |
@@ -257,13 +257,13 @@ Only that portion of the dividends received by the trust after July 31, 1954, an
 
 Only that portion ($1,885) of the dividends received by the trust after July 31, 1954, and deemed distributed under section 666 on the last day of that year, is included in computing the dividend received credit of $75 for the year 1954. See paragraph (f)(3) of this example. (iv) Inasmuch as the aggregate of the taxes of $15,419 ($9,547 plus $5,872) attributable to the section 666 amounts as determined for the preceding taxable years is less than the tax of $19,520 determined for the taxable year 1956, the amount of $15,419 shall be added to the tax computed for 1956 without including the section 666 amounts. Thus, B's tax liability for 1956 is $26,488 ($11,069 plus $15,419).
 
-(3) *Credits against the tax.* B is allowed under section 668(b) a credit of $12,516 ($5,401 for 1954 and $7,115 for 1955) against his 1956 tax liability for the taxes paid by the trust for the preceding taxable years and which may not be refunded or credited to the trust under section 667. See paragraphs (e)(4) and (f)(4) of this example. 
+(3) *Credits against the tax.* B is allowed under section 668(b) a credit of $12,516 ($5,401 for 1954 and $7,115 for 1955) against his 1956 tax liability for the taxes paid by the trust for the preceding taxable years and which may not be refunded or credited to the trust under section 667. See paragraphs (e)(4) and (f)(4) of this example.
 
-(i) \[Reserved\] 
+(i) \[Reserved\]
 
-(j) *Taxable year 1957*—(1) *Amount of trust income includible in gross income.* (i) Of the amount of $29,550 distributed by the trust to B during the taxable year 1957, $22,500 is treated as a distribution out of trust income for that year within the meaning of section 662(a)(2), and $7,050 as an accumulation distribution within the meaning of section 665(b) (see paragraph (d) of this example). However, $6,990 plus taxes of $5,444 is deemed distributed to B on December 31, 1954, under section 666 by reason of the accumulation distribution made during 1957, and that amount is includible in B's gross income for 1957, to the extent that it would have been includible in his gross income under section 662 (a)(2) and (b) for 1954, had it been distributed on the last day of that year. 
+(j) *Taxable year 1957*—(1) *Amount of trust income includible in gross income.* (i) Of the amount of $29,550 distributed by the trust to B during the taxable year 1957, $22,500 is treated as a distribution out of trust income for that year within the meaning of section 662(a)(2), and $7,050 as an accumulation distribution within the meaning of section 665(b) (see paragraph (d) of this example). However, $6,990 plus taxes of $5,444 is deemed distributed to B on December 31, 1954, under section 666 by reason of the accumulation distribution made during 1957, and that amount is includible in B's gross income for 1957, to the extent that it would have been includible in his gross income under section 662 (a)(2) and (b) for 1954, had it been distributed on the last day of that year.
 
-(ii) The amounts deemed distributed to B out of trust income for the year 1957 and the preceding taxable year 1954 are deemed to have the following character for the purpose of determining the amount includible in B's gross income for 1957: 
+(ii) The amounts deemed distributed to B out of trust income for the year 1957 and the preceding taxable year 1954 are deemed to have the following character for the purpose of determining the amount includible in B's gross income for 1957:
 
 | Year                                    | Dividends | Rents  | Interest (taxable) | Interest (exempt) | Total     |
 | --------------------------------------- | --------- | ------ | ------------------ | ----------------- | --------- |
@@ -275,7 +275,7 @@ Only that portion ($1,885) of the dividends received by the trust after July 31,
 
 Thus, B will include in gross income for the year 1957 dividends of $8,730 (subject to the dividend exclusion), rents of $12,474, and taxable interest of $9,987 and will exclude the tax-exempt interest of $3,743. (2) *Computation of tax.* (i) For the purpose of computing B's tax liability for 1957, it is assumed that he was single for the entire year and had income (other than distributions from the trust) of $15,000 from salary. Also, he had allowable deductions of $8,100, which included the deductions for personal exemption.
 
-(ii) The computation of the tax for the taxable year 1957 attributable to the section 666 amounts which are included in B's gross income for that year, as provided in paragraph (a)(1) of § 1.668(a)-4, is as follows: 
+(ii) The computation of the tax for the taxable year 1957 attributable to the section 666 amounts which are included in B's gross income for that year, as provided in paragraph (a)(1) of § 1.668(a)-4, is as follows:
 
 |                                                           | Section 666 amounts excluded | Section 666 amounts included |
 | --------------------------------------------------------- | ---------------------------- | ---------------------------- |

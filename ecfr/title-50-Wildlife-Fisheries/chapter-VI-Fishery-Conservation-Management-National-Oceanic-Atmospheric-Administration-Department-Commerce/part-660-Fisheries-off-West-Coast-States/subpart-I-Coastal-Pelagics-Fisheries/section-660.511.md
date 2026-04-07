@@ -1,6 +1,6 @@
 ##### § 660.511 Catch restrictions.
 
-(a) All CPS harvested shoreward of the outer boundary of the EEZ (0-200 nautical miles off shore) will be counted toward the catch limitations specified in this section.
+(a) All CPS harvested shoreward of the outer boundary of the EEZ (0-200 nautical miles off shore) will be counted toward the catch limitations specified in this section.Federal Register*Salmonidae*
 
 (b) The trip limit for harvesting vessels fishing in the CPS Limited Entry Zone for CPS other than live bait without a limited entry permit is 5 mt tons of all CPS finfish combined.
 

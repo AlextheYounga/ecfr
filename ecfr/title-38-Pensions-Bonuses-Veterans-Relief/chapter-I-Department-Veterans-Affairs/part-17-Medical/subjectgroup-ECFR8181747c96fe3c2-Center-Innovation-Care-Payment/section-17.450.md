@@ -1,6 +1,6 @@
 ##### § 17.450 Center for Innovation for Care and Payment.
 
-(a) *Purpose and organization.* The purpose of this section is to establish procedures for the Center for Innovation for Care and Payment.
+(a) *Purpose and organization.* The purpose of this section is to establish procedures for the Center for Innovation for Care and Payment.Federal Register
 
 (1) The Center for Innovation for Care and Payment will be responsible for working across VA to carry out pilot programs to develop innovative approaches to testing payment and service delivery models to reduce expenditures while preserving or enhancing the quality of care furnished by VA.
 

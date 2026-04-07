@@ -1,6 +1,6 @@
 ##### § 17.1510 Eligible veterans.
 
-A veteran must meet the eligibility criteria under both paragraphs (a) and (b) of this section to be eligible for care through the Veterans Choice Program. A veteran must also provide the information required by paragraphs (c) and (d) of this section.
+A veteran must meet the eligibility criteria under both paragraphs (a) and (b) of this section to be eligible for care through the Veterans Choice Program. A veteran must also provide the information required by paragraphs (c) and (d) of this section.*www.va.gov/health/surgery*
 
 (a) A veteran must be enrolled in the VA health care system under § 17.36.
 

@@ -1,6 +1,6 @@
 ##### § 17.81 Contracts for residential treatment services for veterans with alcohol or drug dependence or abuse disabilities.
 
-(a) Contracts for treatment services authorized under § 17.80(a) may be awarded in accordance with applicable Department of Veterans Affairs and Federal procurement procedures. Such contracts will be awarded only after the quality and effectiveness, including adequate protection for the safety of the residents of the contractor's program, has been determined and then only to contractors, determined by the Under Secretary for Health or designee to meet the following requirements.
+(a) Contracts for treatment services authorized under § 17.80(a) may be awarded in accordance with applicable Department of Veterans Affairs and Federal procurement procedures. Such contracts will be awarded only after the quality and effectiveness, including adequate protection for the safety of the residents of the contractor's program, has been determined and then only to contractors, determined by the Under Secretary for Health or designee to meet the following requirements.*see*
 
 (1) Meet fire safety requirements as follows:
 

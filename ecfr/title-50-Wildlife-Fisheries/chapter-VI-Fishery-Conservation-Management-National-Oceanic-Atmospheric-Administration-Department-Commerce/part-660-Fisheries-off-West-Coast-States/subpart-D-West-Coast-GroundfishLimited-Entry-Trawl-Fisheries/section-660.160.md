@@ -1,6 +1,6 @@
 ##### § 660.160 Catcher/processor (C/P) Co-op Program.
 
-(a) *General.* The C/P Co-op Program is a limited access program that applies to vessels in the C/P sector of the Pacific whiting at-sea trawl fishery and is a single voluntary co-op. Eligible harvesters and processors must meet the requirements set forth in this section of the Pacific Coast groundfish regulations. In addition to the requirements of this section, the C/P Co-op Program is subject to the following groundfish regulations:
+(a) *General.* The C/P Co-op Program is a limited access program that applies to vessels in the C/P sector of the Pacific whiting at-sea trawl fishery and is a single voluntary co-op. Eligible harvesters and processors must meet the requirements set forth in this section of the Pacific Coast groundfish regulations. In addition to the requirements of this section, the C/P Co-op Program is subject to the following groundfish regulations:Federal Register
 
 (1) Pacific whiting seasons § 660.131(b), subpart D.
 

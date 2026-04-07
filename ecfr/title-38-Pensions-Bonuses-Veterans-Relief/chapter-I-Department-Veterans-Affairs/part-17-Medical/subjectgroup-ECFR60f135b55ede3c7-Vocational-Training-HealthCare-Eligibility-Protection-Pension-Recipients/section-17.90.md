@@ -1,6 +1,6 @@
 ##### § 17.90 Medical care for veterans receiving vocational training under 38 U.S.C. chapter 15.
 
-Hospital care, nursing home care and medical services may be provided to any veteran who is participating in a vocational training program under 38 U.S.C. chapter 15.
+Hospital care, nursing home care and medical services may be provided to any veteran who is participating in a vocational training program under 38 U.S.C. chapter 15.*participating in a vocational training program under 38 U.S.C. chapter 15*
 
 (a) For purposes of determining eligibility for this medical benefit, the term *participating in a vocational training program under 38 U.S.C. chapter 15* means the same as the term *participating in a rehabilitation program under 38 U.S.C. chapter 31* as defined in § 17.47(i). Eligibility for such medical care will continue only while the veteran is participating in the vocational training program.
 

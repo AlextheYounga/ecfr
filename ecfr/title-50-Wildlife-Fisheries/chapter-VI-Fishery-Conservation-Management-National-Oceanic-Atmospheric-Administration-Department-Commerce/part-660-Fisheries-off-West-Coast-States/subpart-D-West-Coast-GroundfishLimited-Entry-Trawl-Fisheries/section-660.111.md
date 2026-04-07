@@ -1,6 +1,6 @@
 ##### § 660.111 Trawl fishery—definitions.
 
-These definitions are specific to the limited entry trawl fisheries covered in this subpart. General groundfish definitions are found at § 660.11.
+These definitions are specific to the limited entry trawl fisheries covered in this subpart. General groundfish definitions are found at § 660.11.*Accumulation limits*Federal Register.
 
 *Accumulation limits* mean the maximum extent of permissible ownership, control or use of a privilege within the trawl rationalization program, and include the following:
 
