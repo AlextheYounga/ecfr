@@ -1,6 +1,6 @@
 ##### § 744.21 Restrictions on certain 'military end uses' or 'military end users'.
 
-(a) *General prohibition.* In addition to the license requirements for items specified on the Commerce Control List (CCL) (supplement no. 1 to part 774 of the EAR), you may not export, reexport, or transfer (in-country):
+(a) *General prohibition.* In addition to the license requirements for items specified on the Commerce Control List (CCL) (supplement no. 1 to part 774 of the EAR), you may not export, reexport, or transfer (in-country):Federal Register,
 
 (1) Any item subject to the EAR listed in supplement no. 2 to this part without a license if, at the time of the export, reexport, or transfer (in-country), you have “knowledge,” as defined in § 772.1 of the EAR, that the item is intended, entirely or in part, for a 'military end use,' as defined in paragraph (f) of this section, in Burma, Cambodia, the People's Republic of China (China), Nicaragua, or Venezuela, or a Burmese, Cambodian, Chinese, Nicaraguan, or Venezuelan 'military end user,' as defined in paragraph (g) of this section, wherever located. 'Military end users' located outside of Burma, Cambodia, China, Nicaragua, or Venezuela are limited to entities identified on the 'Military End-User' (MEU) List under supplement no. 7 to this part.
 
@@ -42,4 +42,4 @@ An entity anywhere in the world, including in Burma, Cambodia, China, Nicaragua,
 
 (h) *Effects on contracts.* Transactions involving the export, reexport, or transfer (in country) of items to or within Venezuela are not subject to the provisions of this section if the contracts for such transactions were signed prior to November 7, 2014.
 
-\[87 FR 13059, Mar. 8, 2022, as amended at 87 FR 34136, June 6, 2022; 87 FR 57080, Sept. 16, 2022; 89 FR 18783, Mar. 15, 2024; 89 FR 68543, Aug. 27, 2024; 90 FR 47212, Sept. 30, 2025\]
+\[87 FR 13059, Mar. 8, 2022, as amended at 87 FR 34136, June 6, 2022; 87 FR 57080, Sept. 16, 2022; 89 FR 18783, Mar. 15, 2024; 89 FR 68543, Aug. 27, 2024; 90 FR 47212, Sept. 30, 2025\] Effective Date Note:At 90 FR 50857, Nov. 12, 2025, in § 744.21, paragraph (a)(3), the introductory text of paragraph (b)(2), and the last sentence in paragraph (d) were stayed, effective until Nov. 9, 2026.

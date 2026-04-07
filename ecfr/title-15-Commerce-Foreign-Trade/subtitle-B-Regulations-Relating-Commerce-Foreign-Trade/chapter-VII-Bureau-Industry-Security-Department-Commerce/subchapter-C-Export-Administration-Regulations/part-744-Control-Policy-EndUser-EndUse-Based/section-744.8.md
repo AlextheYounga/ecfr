@@ -64,4 +64,4 @@ Note 3 to § 744.8:
 
 This section does not implement, construe, or limit the scope of any criminal statute, including but not limited to 18 U.S.C. 2339B(a)(1) and 2339A, and does not excuse any person from complying with any criminal statute, including but not limited to 18 U.S.C. 2339B(a)(1) and 18 U.S.C. 2339A.
 
-\[89 FR 20115, Mar. 21, 2024, as amended at 90 FR 47212, Sept. 30, 2025\]
+\[89 FR 20115, Mar. 21, 2024, as amended at 90 FR 47212, Sept. 30, 2025\] Effective Date Note:At 90 FR 50857, Nov. 12, 2025, in § 744.8, the second and third sentences of paragraph (a)(2) and the first sentence of paragraph (b) were stayed, effective until Nov. 9, 2026.
