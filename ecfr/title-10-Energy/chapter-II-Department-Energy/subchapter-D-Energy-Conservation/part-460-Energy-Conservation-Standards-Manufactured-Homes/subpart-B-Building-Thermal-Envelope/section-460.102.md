@@ -1,8 +1,8 @@
 ##### § 460.102 Building thermal envelope requirements.
 
-(a) *Compliance options.* The building thermal envelope must meet either the prescriptive requirements of paragraph (b) of this section or the performance requirements of paragraph (c) of this section.
+(a) *Compliance options.* The building thermal envelope must meet either the prescriptive requirements of paragraph (b) of this section or the performance requirements of paragraph (c) of this section. 
 
-(b) *Prescriptive requirements.* (1) The building thermal envelope must meet the applicable minimum *R-*value (nominal value of insulation), and the glazing maximum *U-*factor and SHGC, requirements set forth in table 1 to § 460.102(b)(1) and table 2 to § 460.102(b)(2) or component U-values set forth in table 3 to § 460.102(b)(5) and table 4 to § 460.102(b)(5).
+(b) *Prescriptive requirements.* (1) The building thermal envelope must meet the applicable minimum *R-*value (nominal value of insulation), and the glazing maximum *U-*factor and SHGC, requirements set forth in table 1 to § 460.102(b)(1) and table 2 to § 460.102(b)(2) or component U-values set forth in table 3 to § 460.102(b)(5) and table 4 to § 460.102(b)(5). 
 
 Table 1 to § 460.102(b)(1)—Tier 1 Building Thermal Envelope Prescriptive Requirements
 | Climate zone | Exterior wall   insulation   R-value | Exterior ceiling   insulation   R-value | Exterior floor   insulation   R-value | Window   U-factor | Skylight   U-factor | Door   U-factor | Glazed   fenestration   SHGC |
@@ -18,13 +18,13 @@ Table 2 to § 460.102(b)(1)—Tier 2 Building Thermal Envelope Prescriptive Requ
 | 2            | 21                                   | 30                                      | 19                                    | 0.30              | 0.55                | 0.40            | 0.25                         |
 | 3            | 21                                   | 38                                      | 30                                    | 0.30              | 0.55                | 0.40            | Not applicable.              |
 
-(2) For the purpose of compliance with the exterior ceiling insulation *R-*value requirement of paragraph (b)(1) of this section, the truss heel height must be a minimum of 5.5 inches at the outside face of each exterior wall.
+(2) For the purpose of compliance with the exterior ceiling insulation *R-*value requirement of paragraph (b)(1) of this section, the truss heel height must be a minimum of 5.5 inches at the outside face of each exterior wall. 
 
-(3) A combination of *R-*21 batt insulation and *R-*14 blanket insulation may be used for the purpose of compliance with the floor insulation *R-*value requirement of table 2 to § 460.102(b)(1), Climate Zone 3.
+(3) A combination of *R-*21 batt insulation and *R-*14 blanket insulation may be used for the purpose of compliance with the floor insulation *R-*value requirement of table 2 to § 460.102(b)(1), Climate Zone 3. 
 
-(4) An individual skylight that has an SHGC that is less than or equal to 0.30 is not subject to the glazed fenestration SHGC requirements established in paragraph (b)(1) of this section. Adapted from section R402 of the 2021 IECC.
+(4) An individual skylight that has an SHGC that is less than or equal to 0.30 is not subject to the glazed fenestration SHGC requirements established in paragraph (b)(1) of this section. Adapted from section R402 of the 2021 IECC. 
 
-(5) *U-*factor alternatives to *R-*value requirements. Compliance with the applicable requirements in paragraph (b)(1) of this section may be determined using the applicable maximum *U-*factor values set forth in table 3 to § 460.102(b)(5) and table 4 to § 460.102(b)(5), which reflect the thermal transmittance of the component, excluding fenestration, and not just the insulation of that component, as an alternative to the minimum nominal *R-*value requirements set forth in table 1 to § 460.102(b)(1) and table 2 to § 460.102(b)(1), respectively.
+(5) *U-*factor alternatives to *R-*value requirements. Compliance with the applicable requirements in paragraph (b)(1) of this section may be determined using the applicable maximum *U-*factor values set forth in table 3 to § 460.102(b)(5) and table 4 to § 460.102(b)(5), which reflect the thermal transmittance of the component, excluding fenestration, and not just the insulation of that component, as an alternative to the minimum nominal *R-*value requirements set forth in table 1 to § 460.102(b)(1) and table 2 to § 460.102(b)(1), respectively. 
 
 Table 3 to § 460.102(b)(5)—U-Factor Alternatives to Tier 1 R-Value Requirements
 | Climate zone | Exterior ceiling   U-factor | Exterior wall   U-factor | Exterior floor   U-factor |
@@ -40,7 +40,7 @@ Table 4 to § 460.102(b)(5)—U-Factor Alternatives to Tier 2 R-Value Requiremen
 | 2            | 0.043                       | 0.063                    | 0.056                     |
 | 3            | 0.037                       | 0.063                    | 0.032                     |
 
-(c) *Performance requirements.* (1) The building thermal envelope must have a *U*o that is less than or equal to the applicable value specified in table 5 to § 460.102(c)(1) and table 6 to § 460.102(c)(1).
+(c) *Performance requirements.* (1) The building thermal envelope must have a *U*o that is less than or equal to the applicable value specified in table 5 to § 460.102(c)(1) and table 6 to § 460.102(c)(1). 
 
 Table 5 to § 460.102(c)(1)—Tier 1 Building Thermal Envelope Performance Requirements
 | Climate zone | Single-section   Uo |
@@ -56,14 +56,14 @@ Table 6 to § 460.102(c)(1)—Tier 2 Building Thermal Envelope Performance Requi
 | 2            | 0.066              |
 | 3            | 0.055              |
 
-(2) Area-weighted average vertical fenestration *U-*factor must not exceed 0.48 in Climate Zone 2 or 0.40 in Climate Zone 3. Adapted from section R402 of the 2021 IECC.
+(2) Area-weighted average vertical fenestration *U-*factor must not exceed 0.48 in Climate Zone 2 or 0.40 in Climate Zone 3. Adapted from section R402 of the 2021 IECC. 
 
-(3) Area-weighted average skylight *U-*factor must not exceed 0.75 in Climate Zone 2 and Climate Zone 3. Adapted from section R402 of the 2021 IECC.
+(3) Area-weighted average skylight *U-*factor must not exceed 0.75 in Climate Zone 2 and Climate Zone 3. Adapted from section R402 of the 2021 IECC. 
 
-(4) Windows, skylights and doors containing more than 50 percent glazing by area must satisfy the SHGC requirements established in paragraph (b)(1) of this section on the basis of an area-weighted average. Adapted from section R402 of the 2021 IECC.
+(4) Windows, skylights and doors containing more than 50 percent glazing by area must satisfy the SHGC requirements established in paragraph (b)(1) of this section on the basis of an area-weighted average. Adapted from section R402 of the 2021 IECC. 
 
-(d) \[Reserved\].
+(d) \[Reserved\]. 
 
-(e) *Determination of compliance with paragraph (c) of this section.* (1) *U*o must be determined in accordance with Overall *U-*Values and Heating/Cooling Loads—Manufactured Homes (incorporated by reference; see § 460.3)
+(e) *Determination of compliance with paragraph (c) of this section.* (1) *U*o must be determined in accordance with Overall *U-*Values and Heating/Cooling Loads—Manufactured Homes (incorporated by reference; see § 460.3) 
 
 (2) \[Reserved\]

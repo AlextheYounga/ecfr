@@ -1,6 +1,6 @@
 ##### § 431.87 Energy conservation standards and their effective dates.
 
-(a) Each commercial packaged boiler listed in table 1 of this paragraph (a) and manufactured on or after the effective date listed must meet the indicated energy conservation standard.
+(a) Each commercial packaged boiler listed in table 1 of this paragraph (a) and manufactured on or after the effective date listed must meet the indicated energy conservation standard. 
 
 Table 1 to Paragraph (a)—Commercial Packaged Boiler Energy Conservation Standards
 | Equipment category                                                 | Subcategory                          | Certified rated input               | Efficiency level—effective date: March 2, 2012 \* |
@@ -17,7 +17,7 @@ Table 1 to Paragraph (a)—Commercial Packaged Boiler Energy Conservation Standa
 | Steam Commercial Packaged Boilers                                  | Oil-fired                            | \>2,500,000 Btu/h                   | 81.0% ET.                                         |
 | \* Where EC is combustion efficiency and ET is thermal efficiency. |                                      |                                     |                                                   |
 
-(b) Each commercial packaged boiler listed in table 2 of this paragraph (b) and manufactured on or after the effective date listed in Table 2 must meet the indicated energy conservation standard.
+(b) Each commercial packaged boiler listed in table 2 of this paragraph (b) and manufactured on or after the effective date listed in Table 2 must meet the indicated energy conservation standard. 
 
 Table 2 to Paragraph (b)—Commercial Packaged Boiler Energy Conservation Standards
 | Equipment category                 | Subcategory             | Certified rated input               | Efficiency level—effective date: March 2, 2022 \* |

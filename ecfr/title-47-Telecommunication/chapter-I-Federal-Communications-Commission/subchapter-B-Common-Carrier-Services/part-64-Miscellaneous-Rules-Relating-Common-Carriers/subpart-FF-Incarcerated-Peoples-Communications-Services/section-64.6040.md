@@ -1,10 +1,10 @@
 ##### § 64.6040 Communications access for incarcerated people with communication disabilities.
 
-Link to an amendment published at 89 FR 77364, Sept. 20, 2024.Link to an amendment published at 89 FR 77365, Sept. 20, 2024.
+Link to an amendment published at 89 FR 77365, Sept. 20, 2024.
 
 (a) A Provider shall provide incarcerated people access to TRS and related communication services as described in this section, except where the correctional authority overseeing a facility prohibits such access. 
 
-(b)(1) A Provider shall provide access for incarcerated people with communication disabilities to Traditional (TTY-Based) TRS and STS. 
+(b)(1) A Provider shall provide access for Incarcerated People with hearing or speech disabilities to Traditional (TTY-Based) TRS and STS. As an alternative to supporting transmissions from a TTY device, where broadband internet access service is available, an IPCS Provider may provide access to Traditional TRS via real-time text, in accordance with 47 CFR part 67, if real-time text is supported by the available devices and reliable access to a provider of traditional TRS service can be provided by this method. 
 
 (2) Beginning January 1, 2024, a Provider serving a correctional facility in any jurisdiction with an Average Daily Population of 50 or more incarcerated persons shall: 
 
@@ -32,4 +32,36 @@ Link to an amendment published at 89 FR 77364, Sept. 20, 2024.Link to an amendme
 
 (4) No Provider shall levy or collect any charge in excess of 25 percent of the applicable per-minute rate for TTY-to-TTY calls when such calls are associated with Inmate Calling Services. 
 
-\[87 FR 75515, Dec. 9, 2022\]
+(e)(1) Paragraphs (a) through (c) of this section apply to services offered pursuant to an Alternate Pricing Plan, as defined in § 64.6000. 
+
+(2) Except as provided in this paragraph (e) of this section, in the context of a Provider offering an Alternate Pricing Plan, the Provider shall not levy or collect any charge or fee, or count any minute(s) of use, or call(s) or communication(s), toward the amount included in an Alternate Pricing Plan, on or from any party to a TRS call to or from an Incarcerated Person, or any charge for the use of a device or transmission service when used to access TRS from a Correctional Facility, or any charge for the internet or other connections needed for services covered by this section. 
+
+(3) When providing access to IP CTS or CTS within the context of a Provider offering an Alternate Pricing Plan: 
+
+(i) If the Alternate Pricing Plan consists of a fixed number of calls or communications, the IP CTS or CTS call shall count as one call or communication. 
+
+(ii) If the Alternate Pricing Plan offers a fixed number of minutes, the IP CTS or CTS call shall count as the number of minutes used for the voice portion of the IP CTS or CTS call. 
+
+(iii) If the Alternate Pricing Plan offers an unlimited number of minutes, calls or communications, the IP CTS or CTS call shall be counted as part of the unlimited number of minutes, calls or communications. 
+
+(iv) There shall be no charge or fee for any internet or data portion of an IP CTS or CTS call. 
+
+(4) When providing access to a point-to-point video service, as defined in § 64.601(a), within the context of a Provider offering an Alternate Pricing Plan for Incarcerated People with hearing or speech disabilities who can use ASL: 
+
+(i) If the Alternate Pricing Plan consists of a fixed number of calls or communications, the point-to-point call shall be counted as one video communication (if only video is included in the Alternate Pricing Plan), or one audio call (if audio is included in the Alternate Pricing Plan). 
+
+(ii) If the Alternate Pricing Plan offers a fixed number of minutes, then the point-to-point call shall count as the number of minutes used and shall apply to the minutes provided for video, if only video is including in the Alternate Pricing Plan, or shall apply to the minutes provided for audio, if audio is included in the Alternate Pricing Plan. 
+
+(iii) If the Alternate Pricing Plan offers an unlimited number of minutes, calls or communications, the point-to-point call shall count as a video communication (if only video is provided as part of the Alternate Pricing Plan) or as an audio call (if audio is provided as part of the Alternate Pricing Plan). 
+
+(iv) Regardless of the format of the Alternate Pricing Plan, there shall be no charge or fee for the use of the equipment. 
+
+(5) When providing access for TTY-to-TTY use within the context of a Provider offering an Alternate Pricing Plan that includes audio service: 
+
+(i) If the Plan consists of a fixed number of calls, the TTY-to-TTY call shall count as one call; 
+
+(ii) If the Plan offers a fixed number of minutes, then the TTY-to-TTY call shall count as no more than one-fourth of the minutes used; and 
+
+(iii) If the Plan offers an unlimited number of minutes, or calls, the TTY-to-TTY call shall count as an audio call. 
+
+\[87 FR 75515, Dec. 9, 2022, as amended at 89 FR 77364, Sept. 20, 2024\]

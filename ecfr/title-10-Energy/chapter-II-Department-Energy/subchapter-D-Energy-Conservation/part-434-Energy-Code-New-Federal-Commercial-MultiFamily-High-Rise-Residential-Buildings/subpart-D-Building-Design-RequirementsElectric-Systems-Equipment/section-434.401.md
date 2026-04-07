@@ -1,32 +1,32 @@
 ##### § 434.401 Electrical power and lighting systems.
 
-Electrical power and lighting systems, other than those systems or portions thereof required for emergency use only, shall meet these requirements.
+Electrical power and lighting systems, other than those systems or portions thereof required for emergency use only, shall meet these requirements. 
 
 401.1 *Electrical Distribution Systems.*
 
-401.1.1 *Check Metering.* Single-tenant buildings with a service over 250 kVA and tenant spaces with a connected load over 100 kVA in multiple-tenant buildings shall have provisions for check metering of electrical consumption. The electrical power feeders for which provision for check metering is required shall be subdivided as follows:
+401.1.1 *Check Metering.* Single-tenant buildings with a service over 250 kVA and tenant spaces with a connected load over 100 kVA in multiple-tenant buildings shall have provisions for check metering of electrical consumption. The electrical power feeders for which provision for check metering is required shall be subdivided as follows: 
 
-401.1.1.1 Lighting and receptacle outlets
+401.1.1.1 Lighting and receptacle outlets 
 
-401.1.1.2 HVAC systems and equipment
+401.1.1.2 HVAC systems and equipment 
 
-401.1.1.3 Service water heating (SWH), elevators, and special occupant equipment or systems of more than 20 kW.
+401.1.1.3 Service water heating (SWH), elevators, and special occupant equipment or systems of more than 20 kW. 
 
-401.1.1.4 Exception to 401.1.1.1 through 401.1.1.3: 10 percent or less of the loads on a feeder may be from another usage or category.
+401.1.1.4 Exception to 401.1.1.1 through 401.1.1.3: 10 percent or less of the loads on a feeder may be from another usage or category. 
 
-401.1.2 Tenant-shared HVAC and service hot water systems in multiple tenant buildings shall have provision to be separately check metered.
+401.1.2 Tenant-shared HVAC and service hot water systems in multiple tenant buildings shall have provision to be separately check metered. 
 
-401.1.3 Subdivided feeders shall contain provisions for portable or permanent check metering. The minimum acceptable arrangement for compliance shall provide a safe method for access by qualified persons to the enclosures through which feeder conductors pass and provide sufficient space to attach clamp-on or split core current transformers. These enclosures may be separate compartments or combined spaces with electrical cabinets serving another function. Dedicated enclosures so furnished shall be identified as to measuring function available.
+401.1.3 Subdivided feeders shall contain provisions for portable or permanent check metering. The minimum acceptable arrangement for compliance shall provide a safe method for access by qualified persons to the enclosures through which feeder conductors pass and provide sufficient space to attach clamp-on or split core current transformers. These enclosures may be separate compartments or combined spaces with electrical cabinets serving another function. Dedicated enclosures so furnished shall be identified as to measuring function available. 
 
-401.1.4 *Electrical Schematic.* The person responsible for installing the electrical distribution system shall provide the Federal building manager a single-line diagram of the record drawing for the electrical distribution system, which includes the location of check metering access, schematic diagrams of non-HVAC electrical control systems, and electrical equipment manufacturer's operating and maintenance literature.
+401.1.4 *Electrical Schematic.* The person responsible for installing the electrical distribution system shall provide the Federal building manager a single-line diagram of the record drawing for the electrical distribution system, which includes the location of check metering access, schematic diagrams of non-HVAC electrical control systems, and electrical equipment manufacturer's operating and maintenance literature. 
 
-401.2 *Electric Motors.* All permanently wired polyphase motors of 1 hp or more shall meet these requirements:
+401.2 *Electric Motors.* All permanently wired polyphase motors of 1 hp or more shall meet these requirements: 
 
-401.2.1 *Efficiency.* NEMA design A & B squirrel-cage, foot-mounted, T-frame induction motors having synchronous speeds of 3600, 1800, 1200, and 900 rpm, expected to operate more than 1000 hours per year shall have a nominal full-load efficiency no less than that shown in Table 401.2.1 or shall be classified as an “energy efficient motor” in accordance with RS-3 (incorporated by reference, see § 434.701). The following are not covered:
+401.2.1 *Efficiency.* NEMA design A & B squirrel-cage, foot-mounted, T-frame induction motors having synchronous speeds of 3600, 1800, 1200, and 900 rpm, expected to operate more than 1000 hours per year shall have a nominal full-load efficiency no less than that shown in Table 401.2.1 or shall be classified as an “energy efficient motor” in accordance with RS-3 (incorporated by reference, see § 434.701). The following are not covered: 
 
-(a) Multispeed motors used in systems designed to use more than one speed.
+(a) Multispeed motors used in systems designed to use more than one speed. 
 
-(b) Motors used as a component of the equipment meeting the minimum equipment efficiency requirements of subsection 403, provided that the motor input is included when determining the equipment efficiency.
+(b) Motors used as a component of the equipment meeting the minimum equipment efficiency requirements of subsection 403, provided that the motor input is included when determining the equipment efficiency. 
 
 Table 401.2.1—Minimum Acceptable Nominal Full-Load Efficiency for Single-Speed Polyphase Squirrel-Cage Induction Motors Having Synchronous Speeds of 3600, 1800, 1200 and 900 rpm 1
 | HP                                                                                                                                                                                                                                                             | 2-Pole | 4-Pole | 6-Pole | 8-Pole |
@@ -73,9 +73,9 @@ Table 401.2.1—Minimum Acceptable Nominal Full-Load Efficiency for Single-Speed
 | 200.0                                                                                                                                                                                                                                                          | 95.0   | 94.5   | 95.0   | 94.5   |
 | 1 For many applications, efficiencies greater than those listed are likely to be cost-effective. Guidance for evaluating the cost effectiveness of energy efficient motor applications is given in RS-43 and RS-44 (incorporated by reference, see § 434.701). |        |        |        |        |
 
-*401.3 Lighting Power Allowance.* The lighting system shall meet the provisions of subsections 401.3.1 through 401.3.5.
+*401.3 Lighting Power Allowance.* The lighting system shall meet the provisions of subsections 401.3.1 through 401.3.5. 
 
-*401.3.1 Building Exteriors.* The total connected exterior lighting power for the building, or a facility containing multiple buildings, shall not exceed the total exterior lighting power allowance, which is the sum of the individual allowances determined from Table 401.3.1. The individual allowances are determined by multiplying the specific area or length of each area description times the allowance for that area. Exceptions are as follows: Lighting for outdoor manufacturing or processing facilities, commercial greenhouses, outdoor athletic facilities, public monuments, designated high-risk security areas, signs, retail storefronts, exterior enclosed display windows, and lighting specifically required by local ordinances and regulations.
+*401.3.1 Building Exteriors.* The total connected exterior lighting power for the building, or a facility containing multiple buildings, shall not exceed the total exterior lighting power allowance, which is the sum of the individual allowances determined from Table 401.3.1. The individual allowances are determined by multiplying the specific area or length of each area description times the allowance for that area. Exceptions are as follows: Lighting for outdoor manufacturing or processing facilities, commercial greenhouses, outdoor athletic facilities, public monuments, designated high-risk security areas, signs, retail storefronts, exterior enclosed display windows, and lighting specifically required by local ordinances and regulations. 
 
 Table 401.3.1—Exterior Lighting Power Allowance
 | Area description                                                                                       | Allowance                                      |
@@ -95,47 +95,47 @@ Table 401.3.1—Exterior Lighting Power Allowance
 | Private parking lots                                                                                   | 0.12 W/ft 2.                                   |
 | Public parking lots                                                                                    | 0.18 W/ft 2.                                   |
 
-401.3.1.1 Trade-offs of exterior lighting budgets among exterior areas shall be allowed provided the total connected lighting power of the exterior area does not exceed the exterior lighting power allowance. Trade-offs between interior lighting power allowances and exterior lighting power allowances shall not be allowed.
+401.3.1.1 Trade-offs of exterior lighting budgets among exterior areas shall be allowed provided the total connected lighting power of the exterior area does not exceed the exterior lighting power allowance. Trade-offs between interior lighting power allowances and exterior lighting power allowances shall not be allowed. 
 
-401.3.2 *Building interiors.* The total connected interior lighting power for a building, including adjustments in accordance with subsection 401.3.3, shall not exceed the total interior lighting power allowance explained in this paragraph. Using Table 401.3.2a, multiply the interior lighting power allowance value by the gross lighted area of the most appropriate building or space activity. For multi-use buildings, using Table 401.3.2a, select the interior power allowance value for each activity using the column for the gross lighted area of the whole building and multiply it by the associated gross area for that activity. The interior lighting power allowance is the sum of all the wattages for each area/activity. Using Table 401.3.2b, c, or d, multiply the interior lighting power allowance values of each individual area/activity by the area of the space and by the area factor from Figure 401.3.2e, based on the most appropriate area/activity provided. The interior lighting power allowance is the sum of the wattages for each individual space. When over 20% of the building's tasks or interior areas are undefined, the most appropriate value for that building from Table 401.3.2a shall be used for the undefined spaces. Exceptions are as follows:
+401.3.2 *Building interiors.* The total connected interior lighting power for a building, including adjustments in accordance with subsection 401.3.3, shall not exceed the total interior lighting power allowance explained in this paragraph. Using Table 401.3.2a, multiply the interior lighting power allowance value by the gross lighted area of the most appropriate building or space activity. For multi-use buildings, using Table 401.3.2a, select the interior power allowance value for each activity using the column for the gross lighted area of the whole building and multiply it by the associated gross area for that activity. The interior lighting power allowance is the sum of all the wattages for each area/activity. Using Table 401.3.2b, c, or d, multiply the interior lighting power allowance values of each individual area/activity by the area of the space and by the area factor from Figure 401.3.2e, based on the most appropriate area/activity provided. The interior lighting power allowance is the sum of the wattages for each individual space. When over 20% of the building's tasks or interior areas are undefined, the most appropriate value for that building from Table 401.3.2a shall be used for the undefined spaces. Exceptions are as follows: 
 
-(a) Lighting power that is an essential technical element for the function performed in theatrical, stage, broadcasting, and similar uses.
+(a) Lighting power that is an essential technical element for the function performed in theatrical, stage, broadcasting, and similar uses. 
 
-(b) Specialized medical, dental, and research lighting.
+(b) Specialized medical, dental, and research lighting. 
 
-(c) Display lighting for exhibits in galleries, museums, and monuments.
+(c) Display lighting for exhibits in galleries, museums, and monuments. 
 
-(d) Lighting solely for indoor plant growth (between the hours of 10:00 pm and 6:00 am).
+(d) Lighting solely for indoor plant growth (between the hours of 10:00 pm and 6:00 am). 
 
-(e) Emergency lighting that is automatically off during normal building operation.
+(e) Emergency lighting that is automatically off during normal building operation. 
 
-(f) High-risk security areas.
+(f) High-risk security areas. 
 
-(g) Spaces specifically designed for the primary use by the physically impaired or aged.
+(g) Spaces specifically designed for the primary use by the physically impaired or aged. 
 
-(h) Lighting in dwelling units.
+(h) Lighting in dwelling units. 
 
-401.3.2.1 Trade-offs of the interior lighting power budgets among interior spaces shall be allowed provided the total connected lighting power within the building does not exceed the interior lighting power allowance. Trade-offs between interior lighting power allowances and exterior lighting power allowances shall not be allowed.
+401.3.2.1 Trade-offs of the interior lighting power budgets among interior spaces shall be allowed provided the total connected lighting power within the building does not exceed the interior lighting power allowance. Trade-offs between interior lighting power allowances and exterior lighting power allowances shall not be allowed. 
 
-401.3.2.2 *Building/Space Activities.* Definitions of buildings/space activity as they apply to Table 401.3.2a are as follows. These definitions are necessary to characterize the activities for which lighting is provided. They are applicable only to Table 401.3.2a. They are not intended to be used elsewhere in place of building use group definitions provided in the Building Code. They are not included in § 434.201, “Definitions,” to avoid confusion with “Occupancy Type Categories.”
+401.3.2.2 *Building/Space Activities.* Definitions of buildings/space activity as they apply to Table 401.3.2a are as follows. These definitions are necessary to characterize the activities for which lighting is provided. They are applicable only to Table 401.3.2a. They are not intended to be used elsewhere in place of building use group definitions provided in the Building Code. They are not included in § 434.201, “Definitions,” to avoid confusion with “Occupancy Type Categories.” 
 
-(a) *Food service, fast food, and cafeteria:* This group includes cafeterias, hamburger and sandwich stores, bakeries, ice cream parlors, cookie stores, and all other kinds of retail food service establishments in which customers are generally served at a counter and their direct selections are paid for and taken to a table or carried out.
+(a) *Food service, fast food, and cafeteria:* This group includes cafeterias, hamburger and sandwich stores, bakeries, ice cream parlors, cookie stores, and all other kinds of retail food service establishments in which customers are generally served at a counter and their direct selections are paid for and taken to a table or carried out. 
 
-(b) *Garages:* This category includes all types of parking garages, except for service or repair areas.
+(b) *Garages:* This category includes all types of parking garages, except for service or repair areas. 
 
-(c) *Leisure dining and bar:* This group includes cafes, diners, bars, lounges, and similar establishments where orders are placed with a wait person.
+(c) *Leisure dining and bar:* This group includes cafes, diners, bars, lounges, and similar establishments where orders are placed with a wait person. 
 
-(d) *Mall concourse, multi-store service:* This group includes the interior of multifunctional public spaces, such as shopping center malls, airports, resort concourses and malls, entertainment facilities, and related types of buildings or spaces.
+(d) *Mall concourse, multi-store service:* This group includes the interior of multifunctional public spaces, such as shopping center malls, airports, resort concourses and malls, entertainment facilities, and related types of buildings or spaces. 
 
-(e) *Offices:* This group includes all kinds of offices, including corporate and professional offices, office/laboratories, governmental offices, libraries, and similar facilities, where paperwork occurs.
+(e) *Offices:* This group includes all kinds of offices, including corporate and professional offices, office/laboratories, governmental offices, libraries, and similar facilities, where paperwork occurs. 
 
-(f) *Retail:* A retail store, including departments for the sale of accessories, clothing, dry goods, electronics, and toys, and other types of establishments that display objects for direct selection and purchase by consumers. Direct selection means literally removing an item from display and carrying it to the checkout or pick-up at a customer service facility.
+(f) *Retail:* A retail store, including departments for the sale of accessories, clothing, dry goods, electronics, and toys, and other types of establishments that display objects for direct selection and purchase by consumers. Direct selection means literally removing an item from display and carrying it to the checkout or pick-up at a customer service facility. 
 
-(g) *Schools:* This category, subdivided by pre-school/elementary, junior high/high school, and technical/vocational, includes public and private educational institutions, for children or adults, and may also include community centers, college and university buildings, and business educational centers.
+(g) *Schools:* This category, subdivided by pre-school/elementary, junior high/high school, and technical/vocational, includes public and private educational institutions, for children or adults, and may also include community centers, college and university buildings, and business educational centers. 
 
-(h) *Service establishment:* A retail-like facility, such as watch repair, real estate offices, auto and tire service facilities, parts departments, travel agencies and similar facilities, in which the customer obtains services rather than the direct selection of goods.
+(h) *Service establishment:* A retail-like facility, such as watch repair, real estate offices, auto and tire service facilities, parts departments, travel agencies and similar facilities, in which the customer obtains services rather than the direct selection of goods. 
 
-(i) *Warehouse and storage:* This includes all types of support facilities, such as warehouses, barns, storage buildings, shipping/receiving buildings, boiler or mechanical buildings, electric power buildings, and similar buildings where the primary visual task is large items.
+(i) *Warehouse and storage:* This includes all types of support facilities, such as warehouses, barns, storage buildings, shipping/receiving buildings, boiler or mechanical buildings, electric power buildings, and similar buildings where the primary visual task is large items. 
 
 401.3.2—Tables and Figures
 
@@ -360,19 +360,19 @@ Table 401.3.2d—Unit Interior Lighting Power Allowance
 
 Figure 401.3.2e—Area Factor Formula ![](/graphics/er06oc00.018.gif)Area Factor Formula: Area Factor (AF) = 0.2 + 0.8(1/0.9 n) Where: AF = area factor, CH = ceiling height (ft), Ar = space area (ft 2). If AF <1.0 use 1.0; if AF >1.8 use 1.8
 
-401.3.3 *Lighting Power Control Credits.* The interior connected lighting power determined in accordance with § 434.401.3.2 can be decreased for luminaries that are automatically controlled for occupancy, daylight, lumen maintenance, or programmable timing. The adjusted interior connected lighting power shall be determined by subtracting the sum of all lighting power control credits from the interior connected lighting power. Using Table 401.3.3, the lighting power control credit equals the power adjustment factor times the connected lighting power of the controlled lighting. The lighting power adjustment shall be applied with the following limitations:
+401.3.3 *Lighting Power Control Credits.* The interior connected lighting power determined in accordance with § 434.401.3.2 can be decreased for luminaries that are automatically controlled for occupancy, daylight, lumen maintenance, or programmable timing. The adjusted interior connected lighting power shall be determined by subtracting the sum of all lighting power control credits from the interior connected lighting power. Using Table 401.3.3, the lighting power control credit equals the power adjustment factor times the connected lighting power of the controlled lighting. The lighting power adjustment shall be applied with the following limitations: 
 
-(a) It is limited to the specific area controlled by the automatic control device.
+(a) It is limited to the specific area controlled by the automatic control device. 
 
-(b) Only one lighting power adjustment may be used for each building space or luminaire, and 50 percent or more of the controlled luminaire shall be within the applicable space.
+(b) Only one lighting power adjustment may be used for each building space or luminaire, and 50 percent or more of the controlled luminaire shall be within the applicable space. 
 
-(c) Controls shall be installed in series with the lights and in series with all manual switching devices.
+(c) Controls shall be installed in series with the lights and in series with all manual switching devices. 
 
-(d) When sufficient daylight is available, daylight sensing controls shall be capable of reducing electrical power consumption for lighting (continuously or in steps) to 50 percent or less of maximum power consumption.
+(d) When sufficient daylight is available, daylight sensing controls shall be capable of reducing electrical power consumption for lighting (continuously or in steps) to 50 percent or less of maximum power consumption. 
 
-(e) Daylight sensing controls shall control all luminaires to which the adjustment is applied and that direct a minimum of 50 percent of their light output into the daylight zone.
+(e) Daylight sensing controls shall control all luminaires to which the adjustment is applied and that direct a minimum of 50 percent of their light output into the daylight zone. 
 
-(f) Programmable timing controls shall be able to program different schedules for occupied and unoccupied days, be readily accessible for temporary override with automatic return to the original schedule, and keep time during power outages for at least four hours.
+(f) Programmable timing controls shall be able to program different schedules for occupied and unoccupied days, be readily accessible for temporary override with automatic return to the original schedule, and keep time during power outages for at least four hours. 
 
 Table 401.3.3—Lighting Power Adjustment Factors
 | Automatic control devices                                                | PAF  |
@@ -401,28 +401,28 @@ Table 401.3.3—Lighting Power Adjustment Factors
 
 401.3.4 *Lighting controls.*
 
-401.3.4.1 *Type of Lighting Controls.* All lighting systems shall have controls, with the exception of emergency use or exit lighting.
+401.3.4.1 *Type of Lighting Controls.* All lighting systems shall have controls, with the exception of emergency use or exit lighting. 
 
-401.3.4.2 *Number of Manual Controls.* Spaces enclosed by walls or ceiling-high partitions shall have a minimum of one manual control (on/off switch) for lighting in that space. Additional manual controls shall be provided for each task location or for each group of task locations within an area of 450 ft 2 or less. For spaces with only one lighting fixture or with a single ballast, one manual control is required. Exceptions are as follows:
+401.3.4.2 *Number of Manual Controls.* Spaces enclosed by walls or ceiling-high partitions shall have a minimum of one manual control (on/off switch) for lighting in that space. Additional manual controls shall be provided for each task location or for each group of task locations within an area of 450 ft 2 or less. For spaces with only one lighting fixture or with a single ballast, one manual control is required. Exceptions are as follows: 
 
-401.3.4.2.1 Continuous lighting for security;
+401.3.4.2.1 Continuous lighting for security; 
 
-401.3.4.2.2 Systems in which occupancy sensors, local programmable timers, or three-level (including OFF) step controls or preset dimming controls are substituted for manual controls at the rate of one for every two required manual controls, providing at least one control is installed for every 1500 watts of power.
+401.3.4.2.2 Systems in which occupancy sensors, local programmable timers, or three-level (including OFF) step controls or preset dimming controls are substituted for manual controls at the rate of one for every two required manual controls, providing at least one control is installed for every 1500 watts of power. 
 
-401.3.4.2.3 Systems in which four-level (including OFF) step controls or preset dimming controls or automatic or continuous dimming controls are substituted for manual controls at a rate of one for every three required manual controls, providing at least one control is installed for every 1500 watts of power.
+401.3.4.2.3 Systems in which four-level (including OFF) step controls or preset dimming controls or automatic or continuous dimming controls are substituted for manual controls at a rate of one for every three required manual controls, providing at least one control is installed for every 1500 watts of power. 
 
-401.3.4.2.4 Spaces that must be used as a whole, such as public lobbies, retail stores, warehouses, and storerooms.
+401.3.4.2.4 Spaces that must be used as a whole, such as public lobbies, retail stores, warehouses, and storerooms. 
 
-401.3.4.3 *Multiple Location Controls.* Manual controls that operate the same load from multiple locations must be counted as one manual control.
+401.3.4.3 *Multiple Location Controls.* Manual controls that operate the same load from multiple locations must be counted as one manual control. 
 
-401.3.4.4 *Control Accessibility.* Lighting controls shall be readily accessible from within the space controlled. Exceptions are as follows: Controls for spaces that are to be used as a whole, automatic controls, programmable controls, controls requiring trained operators, and controls for safety hazards and security.
+401.3.4.4 *Control Accessibility.* Lighting controls shall be readily accessible from within the space controlled. Exceptions are as follows: Controls for spaces that are to be used as a whole, automatic controls, programmable controls, controls requiring trained operators, and controls for safety hazards and security. 
 
-401.3.4.5 *Hotel and Motel Guest Room Control.* Hotel and motel guest rooms and suites shall have at least one master switch at the main entry door that controls all permanently wired lighting fixtures and switched receptacles excluding bathrooms. The following exception applies: Where switches are provided at the entry to each room of a multiple-room suite.
+401.3.4.5 *Hotel and Motel Guest Room Control.* Hotel and motel guest rooms and suites shall have at least one master switch at the main entry door that controls all permanently wired lighting fixtures and switched receptacles excluding bathrooms. The following exception applies: Where switches are provided at the entry to each room of a multiple-room suite. 
 
-401.3.4.6 *Switching of Exterior Lighting.* Exterior lighting not intended for 24-hour use shall be automatically switched by either timer or photocell or a combination of timer and photocell. When used, timers shall be capable of seven-day and seasonal daylight schedule adjustment and have power backup for at least four hours.
+401.3.4.6 *Switching of Exterior Lighting.* Exterior lighting not intended for 24-hour use shall be automatically switched by either timer or photocell or a combination of timer and photocell. When used, timers shall be capable of seven-day and seasonal daylight schedule adjustment and have power backup for at least four hours. 
 
 401.3.5 *Ballasts.*
 
-401.3.5.1 *Tandem Wiring.* One-lamp or three-lamp fluorescent luminaries that are recess mounted within 10 ft center-to-center of each other, or pendant mounted, or surface mounted within 1 ft of each other, and within the same room, shall be tandem wired, unless three-lamp ballasts are used.
+401.3.5.1 *Tandem Wiring.* One-lamp or three-lamp fluorescent luminaries that are recess mounted within 10 ft center-to-center of each other, or pendant mounted, or surface mounted within 1 ft of each other, and within the same room, shall be tandem wired, unless three-lamp ballasts are used. 
 
 401.3.5.2 *Power Factor.* All ballasts shall have a power factor of at least 90%, with the exception of dimming ballasts, and ballasts for circline and compact fluorescent lamps and low wattage high intensity discharge (HID) lamps not over 100 W.

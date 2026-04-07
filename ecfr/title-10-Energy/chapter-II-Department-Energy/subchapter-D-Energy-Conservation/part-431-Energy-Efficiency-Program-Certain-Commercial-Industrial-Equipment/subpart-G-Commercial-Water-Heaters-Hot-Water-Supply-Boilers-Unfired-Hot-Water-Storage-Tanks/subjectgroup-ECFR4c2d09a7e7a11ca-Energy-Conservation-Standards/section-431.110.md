@@ -1,6 +1,6 @@
 ##### § 431.110 Energy conservation standards and their effective dates.
 
-(a) Each commercial storage water heater, instantaneous water heater, and hot water supply boiler (excluding residential-duty commercial water heaters) must meet the applicable energy conservation standard level(s) as specified in the table to this paragraph. Any packaged boiler that provides service water that meets the definition of “commercial packaged boiler” in subpart E of this part, but does not meet the definition of “hot water supply boiler” in subpart G of this part, must meet the requirements that apply to it under subpart E of this part.
+(a) Each commercial storage water heater, instantaneous water heater, and hot water supply boiler (excluding residential-duty commercial water heaters) must meet the applicable energy conservation standard level(s) as specified in the table to this paragraph. Any packaged boiler that provides service water that meets the definition of “commercial packaged boiler” in subpart E of this part, but does not meet the definition of “hot water supply boiler” in subpart G of this part, must meet the requirements that apply to it under subpart E of this part. 
 
 Table 1 to § 431.110(a)—Commercial Water Heater Energy Conservation Standards
 | Equipment                                                                                                                                                         | Size              | Energy conservation standards a |
@@ -18,9 +18,9 @@ Table 1 to § 431.110(a)—Commercial Water Heater Energy Conservation Standards
 | (3) For gas-fired or oil-fired storage water heaters, they have a flue damper or fan-assisted combustion.                                                         |                   |                                 |
 | c The compliance date for energy conservation standards for electric instantaneous water heaters is January 1, 1994.                                              |                   |                                 |
 
-(b) Each unfired hot water storage tank manufactured on and after October 29, 2003, must have a minimum thermal insulation of R-12.5.
+(b) Each unfired hot water storage tank manufactured on and after October 29, 2003, must have a minimum thermal insulation of R-12.5. 
 
-(c) Each residential-duty commercial water heater must meet the applicable energy conservation standard level(s) as follows:
+(c) Each residential-duty commercial water heater must meet the applicable energy conservation standard level(s) as follows: 
 
 Table 2 to § 431.110(c)—Residential-Duty Commercial Water Heater Energy Conservation Standards
 | Equipment                                                                                                                                                                                                                                                                                                                                      | Specifications a                            | Draw pattern                     | Uniform energy factor b                                                                   |

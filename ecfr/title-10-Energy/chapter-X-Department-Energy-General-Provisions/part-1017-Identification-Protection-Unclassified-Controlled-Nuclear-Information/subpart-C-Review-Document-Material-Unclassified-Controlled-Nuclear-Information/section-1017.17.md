@@ -1,6 +1,6 @@
 ##### § 1017.17 Determining that a document or material no longer contains or does not contain Unclassified Controlled Nuclear Information.
 
-(a) *Document or material no longer contains UCNI.* A Reviewing Official with cognizance over the information in a document or material marked as containing UCNI may determine that the document or material no longer contains UCNI. A Denying Official may also determine that such a document or material no longer contains UCNI. The official making this determination must base it on applicable guidance and must ensure that any UCNI markings are crossed out (for documents) or removed (for material). The official marks or authorizes the marking of the document (or the material, if space allows) as follows:
+(a) *Document or material no longer contains UCNI.* A Reviewing Official with cognizance over the information in a document or material marked as containing UCNI may determine that the document or material no longer contains UCNI. A Denying Official may also determine that such a document or material no longer contains UCNI. The official making this determination must base it on applicable guidance and must ensure that any UCNI markings are crossed out (for documents) or removed (for material). The official marks or authorizes the marking of the document (or the material, if space allows) as follows: 
 
 Does Not Contain Unclassified Controlled Nuclear Information Reviewing/Denying Official: (Name and organization) Date:
 

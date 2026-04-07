@@ -1,8 +1,8 @@
 ##### § 431.226 Energy conservation standards and their effective dates.
 
-Any traffic signal module or pedestrian module manufactured on or after January 1, 2006, shall meet both of the following requirements:
+Any traffic signal module or pedestrian module manufactured on or after January 1, 2006, shall meet both of the following requirements: 
 
-(a) Have a nominal wattage and maximum wattage no greater than:
+(a) Have a nominal wattage and maximum wattage no greater than: 
 
 |                              | Maximum wattage   (at 74 °C) | Nominal   wattage   (at 25 °C) |
 | ---------------------------- | ---------------------------- | ------------------------------ |
@@ -18,6 +18,6 @@ Any traffic signal module or pedestrian module manufactured on or after January 
 | Walking Man                  | 12                           | 9                              |
 | Orange Hand                  | 16                           | 13                             |
 
-(b) Be installed with compatible, electrically connected signal control interface devices and conflict monitoring systems.
+(b) Be installed with compatible, electrically connected signal control interface devices and conflict monitoring systems. 
 
 \[70 FR 60417, Oct. 18, 2005, as amended at 71 FR 71374, Dec. 8, 2006\]
