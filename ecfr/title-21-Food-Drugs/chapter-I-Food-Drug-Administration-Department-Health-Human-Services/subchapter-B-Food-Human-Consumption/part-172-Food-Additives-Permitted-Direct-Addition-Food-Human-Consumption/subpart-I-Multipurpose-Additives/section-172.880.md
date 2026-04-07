@@ -1,10 +1,10 @@
 ##### § 172.880 Petrolatum.
 
-Petrolatum may be safely used in food, subject to the provisions of this section.
+Petrolatum may be safely used in food, subject to the provisions of this section. 
 
-(a) Petrolatum complies with the specifications set forth in the United States Pharmacopeia XX (1980) for white petrolatum or in the National Formulary XV (1980) for petrolatum.
+(a) Petrolatum complies with the specifications set forth in the United States Pharmacopeia XX (1980) for white petrolatum or in the National Formulary XV (1980) for petrolatum. 
 
-(b) Petrolatum meets the following ultraviolet absorbance limits when subjected to the analytical procedure described in § 172.886(b):
+(b) Petrolatum meets the following ultraviolet absorbance limits when subjected to the analytical procedure described in § 172.886(b): 
 
 Ultraviolet absorbance per centimeter path length:
 
@@ -15,7 +15,7 @@ Ultraviolet absorbance per centimeter path length:
 | 300-359      | .14     |
 | 360-400      | .04     |
 
-(c) Petrolatum is used or intended for use as follows:
+(c) Petrolatum is used or intended for use as follows: 
 
 | Use                                                                   | Limitation (inclusive of all petroleum hydrocarbons that may be used in combination with petrolatum) |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -26,6 +26,6 @@ Ultraviolet absorbance per centimeter path length:
 | On raw fruits and vegetables; as protective coating                   | In an amount not to exceed good manufacturing practice.                                              |
 | In beet sugar and yeast; as defoaming agent                           | As prescribed in § 173.340 of this chapter.                                                          |
 
-(d) Petrolatum may contain any antioxidant permitted in food by regulations issued in accordance with section 409 of the Act, in an amount not greater than that required to produce its intended effect.
+(d) Petrolatum may contain any antioxidant permitted in food by regulations issued in accordance with section 409 of the Act, in an amount not greater than that required to produce its intended effect. 
 
 \[42 FR 14491, Mar. 15, 1977, as amended at 49 FR 10105, Mar. 19, 1984\]

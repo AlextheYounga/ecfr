@@ -1,6 +1,6 @@
 ##### § 660.600 Applicability.
 
-(a) *General.* This subpart contains requirements for vessels using EM in lieu of observers, as authorized under § 660.140(h)(1)(i) (Shorebased IFQ Program) and § 660.150(j)(1)(i) (MS Co-op Program), and requirements for EM service providers. Vessel owners, operators, and managers are jointly and severally liable for a vessel's compliance with EM requirements under this subpart. This subpart also contains requirements for a first receiver receiving catch from a trip monitored by EM (*see* § 660.604(u)). The table below provides references to the sections that contain vessel owner, operator, first receiver, and service provider responsibilities. 
+(a) *General.* This subpart contains requirements for vessels using EM in lieu of observers, as authorized under § 660.140(h)(1)(i) (Shorebased IFQ Program) and § 660.150(j)(1)(i) (MS Co-op Program), and requirements for EM service providers. Vessel owners, operators, and managers are jointly and severally liable for a vessel's compliance with EM requirements under this subpart. This subpart also contains requirements for a first receiver receiving catch from a trip monitored by EM (*see* § 660.604(u)). The table below provides references to the sections that contain vessel owner, operator, first receiver, and service provider responsibilities.
 
 | West coast groundfish fishery    | Section |
 | -------------------------------- | ------- |
