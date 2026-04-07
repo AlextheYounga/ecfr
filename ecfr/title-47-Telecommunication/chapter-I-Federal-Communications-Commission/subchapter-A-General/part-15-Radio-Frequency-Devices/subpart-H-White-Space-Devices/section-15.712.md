@@ -32,19 +32,19 @@ Mode II Personal/Portable White Space Devices
 
 Fixed White Space Devices
 
-| Antenna height above average terrain of unlicensed devices   (meters) | Required separation in kilometers from co-channel digital or analog TV (full service or low power) protected contour \* |
-| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Less than 3                                                           | 1.3                                                                                                                     |
-| 3-10                                                                  | 2.4                                                                                                                     |
-| 10-30                                                                 | 4.2                                                                                                                     |
-| 30-50                                                                 | 5.4                                                                                                                     |
-| 50-75                                                                 | 6.6                                                                                                                     |
-| 75-100                                                                | 7.7                                                                                                                     |
-| 100-150                                                               | 9.4                                                                                                                     |
-| 150-200                                                               | 10.9                                                                                                                    |
-| 200-250                                                               | 12.1                                                                                                                    |
+| Antenna height above average terrain of unlicensed devices   (meters) | Required separation in kilometers from co-channel digital or analog TV (full service or low power) protected contour\* |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Less than 3                                                           | 1.3                                                                                                                    |
+| 3-10                                                                  | 2.4                                                                                                                    |
+| 10-30                                                                 | 4.2                                                                                                                    |
+| 30-50                                                                 | 5.4                                                                                                                    |
+| 50-75                                                                 | 6.6                                                                                                                    |
+| 75-100                                                                | 7.7                                                                                                                    |
+| 100-150                                                               | 9.4                                                                                                                    |
+| 150-200                                                               | 10.9                                                                                                                   |
+| 200-250                                                               | 12.1                                                                                                                   |
 
-\* When communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 1.3 kilometers if the Mode I device operates at power levels no more than 40 mW EIRP or 1.7 kilometers if the Mode I device operates at power levels above 40 mW EIRP.
+\*When communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 1.3 kilometers if the Mode I device operates at power levels no more than 40 mW EIRP or 1.7 kilometers if the Mode I device operates at power levels above 40 mW EIRP.
 
 Personal/Portable White Space Devices
 
@@ -322,17 +322,17 @@ Mode II Personal/Portable White Space Devices
 
 Fixed White Space Devices
 
-| Antenna height above average terrain of unlicensed devices (meters) | 600 MHz band wireless uplink spectrum   Minimum co-channel separation distances in kilometers between white space devices and any point along the edge of a polygon representing the outer edge of base station or other radio facility deployment \* |
-| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Less than 3                                                         | 5                                                                                                                                                                                                                                                     |
-| 3 - 10                                                              | 9                                                                                                                                                                                                                                                     |
-| 10 - 30                                                             | 15                                                                                                                                                                                                                                                    |
-| 30 - 50                                                             | 20                                                                                                                                                                                                                                                    |
-| 50 - 75                                                             | 24                                                                                                                                                                                                                                                    |
-| 75 - 100                                                            | 27                                                                                                                                                                                                                                                    |
-| 100 - 150                                                           | 33                                                                                                                                                                                                                                                    |
-| 150 - 200                                                           | 39                                                                                                                                                                                                                                                    |
-| 200-250                                                             | 43                                                                                                                                                                                                                                                    |
+| Antenna height above average terrain of unlicensed devices (meters) | 600 MHz band wireless uplink spectrum   Minimum co-channel separation distances in kilometers between white space devices and any point along the edge of a polygon representing the outer edge of base station or other radio facility deployment\* |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Less than 3                                                         | 5                                                                                                                                                                                                                                                    |
+| 3 - 10                                                              | 9                                                                                                                                                                                                                                                    |
+| 10 - 30                                                             | 15                                                                                                                                                                                                                                                   |
+| 30 - 50                                                             | 20                                                                                                                                                                                                                                                   |
+| 50 - 75                                                             | 24                                                                                                                                                                                                                                                   |
+| 75 - 100                                                            | 27                                                                                                                                                                                                                                                   |
+| 100 - 150                                                           | 33                                                                                                                                                                                                                                                   |
+| 150 - 200                                                           | 39                                                                                                                                                                                                                                                   |
+| 200-250                                                             | 43                                                                                                                                                                                                                                                   |
 
 \*When communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 5 kilometers if the Mode I device operates at power levels no more than 40 mW EIRP or 6 kilometers if the Mode I device operates at power levels above 40 mW EIRP.
 
@@ -345,19 +345,19 @@ Personal/Portable White Space Devices
 
 Fixed White Space Devices
 
-| Antenna height above average terrain of unlicensed devices (meters) | 600 MHz band wireless uplink spectrum   Minimum adjacent channel separation distances in kilometers between white space devices and any point along the edge of a polygon representing the outer edge of base station or other radio facility deployment \* |
-| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Less than 3                                                         | 0.1                                                                                                                                                                                                                                                         |
-| 3-10                                                                | 0.3                                                                                                                                                                                                                                                         |
-| 10-30                                                               | 0.4                                                                                                                                                                                                                                                         |
-| 30-50                                                               | 0.6                                                                                                                                                                                                                                                         |
-| 50-75                                                               | 0.7                                                                                                                                                                                                                                                         |
-| 75-100                                                              | 0.8                                                                                                                                                                                                                                                         |
-| 100-150                                                             | 1.0                                                                                                                                                                                                                                                         |
-| 150-200                                                             | 1.2                                                                                                                                                                                                                                                         |
-| 200-250                                                             | 1.3                                                                                                                                                                                                                                                         |
+| Antenna height above average terrain of unlicensed devices (meters) | 600 MHz band wireless uplink spectrum   Minimum adjacent channel separation distances in kilometers between white space devices and any point along the edge of a polygon representing the outer edge of base station or other radio facility deployment\* |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Less than 3                                                         | 0.1                                                                                                                                                                                                                                                        |
+| 3-10                                                                | 0.3                                                                                                                                                                                                                                                        |
+| 10-30                                                               | 0.4                                                                                                                                                                                                                                                        |
+| 30-50                                                               | 0.6                                                                                                                                                                                                                                                        |
+| 50-75                                                               | 0.7                                                                                                                                                                                                                                                        |
+| 75-100                                                              | 0.8                                                                                                                                                                                                                                                        |
+| 100-150                                                             | 1.0                                                                                                                                                                                                                                                        |
+| 150-200                                                             | 1.2                                                                                                                                                                                                                                                        |
+| 200-250                                                             | 1.3                                                                                                                                                                                                                                                        |
 
-\* When communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 0.1 kilometers.
+\*When communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 0.1 kilometers.
 
 (5) On frequencies used by wireless downlink services: 35 kilometers for co-channel operation, and 31 kilometers for adjacent channel operation.
 
@@ -372,19 +372,19 @@ Mode II Personal/Portable White Space Devices
 
 Fixed White Space Devices
 
-| Antenna height above average terrain of unlicensed devices (meters) | Required co-channel separation distances in kilometers from WMTS sites \* |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Less than 3                                                         | 0.38                                                                      |
-| 3-10                                                                | 0.70                                                                      |
-| 10-30                                                               | 1.20                                                                      |
-| 30-50                                                               | 1.55                                                                      |
-| 50-75                                                               | 1.90                                                                      |
-| 75-100                                                              | 2.20                                                                      |
-| 100-150                                                             | 2.70                                                                      |
-| 150-200                                                             | 3.15                                                                      |
-| 200-250                                                             | 3.50                                                                      |
+| Antenna height above average terrain of unlicensed devices (meters) | Required co-channel separation distances in kilometers from WMTS sites\* |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Less than 3                                                         | 0.38                                                                     |
+| 3-10                                                                | 0.70                                                                     |
+| 10-30                                                               | 1.20                                                                     |
+| 30-50                                                               | 1.55                                                                     |
+| 50-75                                                               | 1.90                                                                     |
+| 75-100                                                              | 2.20                                                                     |
+| 100-150                                                             | 2.70                                                                     |
+| 150-200                                                             | 3.15                                                                     |
+| 200-250                                                             | 3.50                                                                     |
 
-\* When communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 0.38 kilometers if the Mode I device operates at power levels no more than 40 mW EIRP, or 0.48 kilometers if the Mode I device operates at power levels above 40 mW EIRP.
+\*When communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 0.38 kilometers if the Mode I device operates at power levels no more than 40 mW EIRP, or 0.48 kilometers if the Mode I device operates at power levels above 40 mW EIRP.
 
 (2) White space devices operating in the 602-608 MHz band (channel 36) and 614-620 MHz band (channel 38) are not permitted to operate within an area defined by the polygon described in § 15.713(j)(11) plus the distances specified in the tables below:
 
@@ -401,7 +401,7 @@ Fixed White Space Devices
 | --------------------------------------------------------------------------- |
 | 8                                                                           |
 
-\* When communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 8 meters if the Mode I device operates at power levels no more than 40 mW EIRP, or 13 meters if the Mode I device operates at power levels above 40 mW EIRP.
+\*When communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 8 meters if the Mode I device operates at power levels no more than 40 mW EIRP, or 13 meters if the Mode I device operates at power levels above 40 mW EIRP.
 
 (k) *488-494 MHz band in Hawaii.* White space devices are not permitted to operate in the 488-494 MHz band in Hawaii.
 

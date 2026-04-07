@@ -8,7 +8,7 @@
 
 (2) No. 066104 for use as in paragraphs (d)(4)(i)(A), (d)(4)(i)(B), and (d)(4)(ii) through (d)(4)(iv) of this section.
 
-(3) Nos. 069254 and 076475 for use as in paragraphs (d)(4)(i)(A), (d)(4)(i)(B), (d)(4)(ii), and (d)(4)(iii) of this section.
+(3) Nos. 069043, 069254, and 076475 for use as in paragraphs (d)(4)(i)(A), (d)(4)(i)(B), (d)(4)(ii), and (d)(4)(iii) of this section.
 
 (c) *Related tolerances.* See § 556.150 of this chapter.
 

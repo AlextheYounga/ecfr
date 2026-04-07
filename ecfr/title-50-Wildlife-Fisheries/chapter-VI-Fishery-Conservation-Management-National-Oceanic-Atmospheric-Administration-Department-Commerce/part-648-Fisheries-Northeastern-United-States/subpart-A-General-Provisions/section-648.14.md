@@ -1292,9 +1292,13 @@
 
 (2) *All Federal permit holders.* It is unlawful for any owner or operator of a vessel holding a valid Federal permit to do any of the following:
 
-(i) Retain, possess, or land barndoor or thorny skates taken in or from the EEZ portion of the skate management unit specified at § 648.2.
+(i) Retain, possess, or land thorny skates taken in or from the EEZ portion of the skate management unit specified at § 648.2.
 
-(ii) Retain, possess, or land smooth skates taken in or from the GOM RMA described at § 648.80(a)(1)(i).
+(ii) Retain, possess, or land barndoor skates taken in or from the EEZ portion of the skate management unit when fishing under a bait letter of authorization as described in § 648.322(c); when fishing under a NE multispecies Category B DAS as described under § 648.322(b); when fishing under the incidental skate possession limit for vessels not under a DAS as described in § 648.322(b)(4); or when fishing in a NE multispecies DAS exemption program that allows the possession of skate or skate parts in an amount not to exceed 10 percent by weight of all other species on board, as specified in § 648.80(b)(3)(ii), without a NE multispecies or monkfish DAS.
+
+(iii) Discard any skate wings when in possession of barndoor skate wings.
+
+(iv) Retain, possess, or land smooth skates taken in or from the GOM RMA described at § 648.80(a)(1)(i).
 
 (3) *Skate permitted vessel requirements.* It is unlawful for any owner or operator of a vessel holding a valid Federal skate permit to do any of the following:
 
@@ -1310,7 +1314,7 @@
 
 (iv) *SNE Trawl and Gillnet Exemption areas restrictions.* Fail to comply with the restrictions under the SNE Trawl and Gillnet Exemption areas for the NE skate fisheries at §§ 648.80(b)(5)(i)(B) and 648.80(b)(6)(i)(B).
 
-(4) *Presumption.* For purposes of this part, the following presumption applies: All skates retained or possessed on a vessel are deemed to have been harvested in or from the Skate Management Unit, unless the preponderance of evidence demonstrates that such skates were harvested by a vessel, that has not been issued a Federal skate permit, fishing exclusively outside of the EEZ portion of the skate management unit or only in state waters.
+(4) *Presumption.* For purposes of this part, the following presumption applies: All skates retained or possessed on a vessel are deemed to have been harvested in or from the Skate Management Unit, unless the preponderance of evidence demonstrates that such skates were harvested by a vessel, that has not been issued a Federal skate permit, fishing exclusively outside of the EEZ portion (such as fishing within the NAFO Regulatory Area under § 648.17(a)(3)) of the skate management unit or only in state waters.
 
 (w) *Mid-Atlantic forage species and Atlantic chub mackerel.* It is unlawful for any person owning or operating a vessel issued a valid commercial permit under this part to do any of the following:
 

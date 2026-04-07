@@ -1,5 +1,7 @@
 ##### § 520.2380a Thiabendazole top dressing and mineral protein block.
 
+Link to an amendment published at 83 FR 48946, Sept. 28, 2018.
+
 (a) *Specifications.* Conforms to N.F. XII.
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (d) of this section.

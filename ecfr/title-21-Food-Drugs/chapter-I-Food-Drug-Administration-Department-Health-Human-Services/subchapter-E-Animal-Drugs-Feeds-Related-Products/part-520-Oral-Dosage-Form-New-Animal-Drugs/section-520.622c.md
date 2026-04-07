@@ -14,7 +14,7 @@
 
 (5) For 000061, use of 60-milligram tablets as in paragraph (c)(2)(i) of this section.
 
-(6) For 054628, use of 30, 60, 120, or 180 milligram tablets as in paragraph (c)(2)(i) of this section.
+(6) For 069043, use of 30, 60, 120, or 180 milligram tablets as in paragraph (c)(2)(i) of this section.
 
 (c) *Conditions of use* - (1) *Amount.* 3 milligrams per pound of body weight per day for prevention of heartworm disease and control of ascarids; 25 to 50 milligrams per pound of body weight as an aid in treatment of ascarid infections.
 

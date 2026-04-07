@@ -30,7 +30,7 @@
 
 (3) No. 066104 for use of OTC HCl concentration in paragraph (a)(5) of this section in turkeys and chickens.
 
-(4) No. 057561 for use of OTC HCl concentration in paragraph (a)(6) of this section in chickens, turkeys, and swine.
+(4) No. 016592 for use of OTC HCl concentration in paragraph (a)(6) of this section in chickens, turkeys, and swine.
 
 (5) No. 061623 for use of OTC HCl concentration in paragraph (a)(7) of this section in chickens, turkeys, swine, cattle, sheep, and honeybees.
 
