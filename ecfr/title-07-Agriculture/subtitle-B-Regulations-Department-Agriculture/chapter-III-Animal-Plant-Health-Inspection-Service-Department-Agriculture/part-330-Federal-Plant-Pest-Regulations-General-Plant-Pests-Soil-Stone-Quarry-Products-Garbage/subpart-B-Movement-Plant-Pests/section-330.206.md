@@ -1,3 +1,0 @@
-##### § 330.206 Permits for plant pest movement associated with National Defense projects.
-
-The Deputy Administrator will facilitate research associated with National Defense projects through issuance of permits for movement of plant pests for such research, upon receiving assurance satisfactory to him that adequate safeguards will surround utilization of the plant pests to prevent their dissemination.
