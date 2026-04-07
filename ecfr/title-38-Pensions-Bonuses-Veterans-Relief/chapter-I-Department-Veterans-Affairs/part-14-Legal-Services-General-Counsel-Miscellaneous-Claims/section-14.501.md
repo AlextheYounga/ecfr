@@ -1,6 +1,6 @@
 ##### § 14.501 Functions and responsibilities of Regional Counsels.
 
-(a) Functions and responsibilities of the Regional Counsels are those set forth in this part and all other matters assigned by the General Counsel.
+(a) Functions and responsibilities of the Regional Counsels are those set forth in this part and all other matters assigned by the General Counsel.*Region 1:*
 
 (b) In any matter within the jurisdiction of the General Counsel, delegated or otherwise assigned, the Regional Counsel and designated staff attorneys are authorized to conduct investigations, examine witnesses, take affadavits, administer oaths and affirmations and certify copies of public or private documents.
 

@@ -1,6 +1,6 @@
 ##### § 14.804 Factors to consider.
 
-In deciding whether to authorize the disclosure of VA records or information or the testimony of VA personnel, VA personnel responsible for making the decision should consider the following types of factors:
+In deciding whether to authorize the disclosure of VA records or information or the testimony of VA personnel, VA personnel responsible for making the decision should consider the following types of factors:*in camera*
 
 (a) The need to avoid spending the time and money of the United States for private purposes and to conserve the time of VA personnel for conducting their official duties concerning servicing the Nation's veteran population;
 

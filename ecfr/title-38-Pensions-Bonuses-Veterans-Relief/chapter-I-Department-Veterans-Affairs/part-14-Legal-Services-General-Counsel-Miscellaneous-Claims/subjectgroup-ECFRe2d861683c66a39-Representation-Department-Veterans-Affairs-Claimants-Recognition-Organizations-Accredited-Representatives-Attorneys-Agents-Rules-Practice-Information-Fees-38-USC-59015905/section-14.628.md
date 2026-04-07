@@ -1,6 +1,6 @@
 ##### § 14.628 Recognition of organizations.
 
-Authorized officers of an organization may request recognition by letter to the Secretary of Veterans Affairs.
+Authorized officers of an organization may request recognition by letter to the Secretary of Veterans Affairs.*National organization.*
 
 (a) *National organization.* An organization may be recognized as a national organization if:
 
