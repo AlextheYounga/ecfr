@@ -66,13 +66,13 @@
 
 (4) Provides notice that the order is effective upon the 21st day after service;
 
-(5) Provides notice of the right to petition for administrative review of the order and that a timely petition will stay the effective date of the order unless the Assistant Administrator orders otherwise for good cause; and
+(5) Provides notice of the right to petition for administrative review of the order and that a timely petition will stay the effective date of the order unless the Agency Decisionmaker orders otherwise for good cause; and
 
 (6) Provides notice that failure to timely request administrative review of the order constitutes waiver of the right to contest the order and will result in the order becoming a Final Agency Order 21 days after it is served.
 
 (g) *Administrative review.* A motor carrier, intermodal equipment provider, broker, or freight forwarder issued an order under this section may petition for administrative review of the order. A petition for administrative review is limited to contesting factual or procedural errors in the issuance of the order under review and may not be submitted to demonstrate corrective action. A petition for administrative review that does not identify factual or procedural errors in the issuance of the order under review will be dismissed. Petitioners seeking to demonstrate corrective action may do so by submitting a Petition for Rescission under paragraph (h) of this section.
 
-(1) A petition for administrative review must be in writing and served on the Assistant Administrator, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave. SE., Washington, DC 20590-0001, Attention: Adjudications Counsel, or by electronic mail to *FMCSA.Adjudication@dot.gov.* A copy of the petition for administrative review must also be served on the FMCSA official who issued the order, at the physical address or electronic mail account identified in the order.
+(1) A petition for administrative review must be in writing and served on the Agency Decisionmaker, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave. SE., Washington, DC 20590-0001, Attention: Adjudications Counsel, or by electronic mail to *FMCSA.Adjudication@dot.gov.* A copy of the petition for administrative review must also be served on the FMCSA official who issued the order, at the physical address or electronic mail account identified in the order.
 
 (2) A petition for administrative review must be served within 15 days of the date FMCSA served the order issued under this section. Failure to timely request administrative review waives the right to administrative review and constitutes an admission of the facts alleged in the order.
 
@@ -86,17 +86,17 @@
 
 (5) FMCSA must serve written argument and supporting documentary evidence, if any, in defense of the disputed order no later than 15 days following the period in which petitioner may serve supplemental documentary evidence and/or written argument in support of the petition for administrative review.
 
-(6) The Assistant Administrator may ask the parties to submit additional information or attend a conference to facilitate administrative review.
+(6) The Agency Decisionmaker may ask the parties to submit additional information or attend a conference to facilitate administrative review.
 
-(7) The Assistant Administrator will issue a written decision on the request for administrative review within 30 days of the close of the time period for FMCSA to serve written argument and supporting documentary evidence in defense of the order, or the actual filing of such written argument and documentary evidence, whichever is earlier.
+(7) The Agency Decisionmaker will issue a written decision on the request for administrative review within 30 days of the close of the time period for FMCSA to serve written argument and supporting documentary evidence in defense of the order, or the actual filing of such written argument and documentary evidence, whichever is earlier.
 
-(8) If a petition for administrative review is timely served in accordance with this subsection, the disputed order is stayed, pending the Assistant Administrator's review. The Assistant Administrator may enter an order vacating the automatic stay in accordance with the following procedures:
+(8) If a petition for administrative review is timely served in accordance with this subsection, the disputed order is stayed, pending the Assistant Administrator's review. The Agency Decisionmaker may enter an order vacating the automatic stay in accordance with the following procedures:
 
-(i) The Agency Official may file a motion to vacate the automatic stay demonstrating good cause why the order should not be stayed. The Agency Official's motion must be in writing, state the factual and legal basis for the motion, be accompanied by affidavits or other evidence relied on, and be served on the petitioner and Assistant Administrator.
+(i) The Agency Official may file a motion to vacate the automatic stay demonstrating good cause why the order should not be stayed. The Agency Official's motion must be in writing, state the factual and legal basis for the motion, be accompanied by affidavits or other evidence relied on, and be served on the petitioner and Agency Decisionmaker.
 
 (ii) The petitioner may file an answer in opposition, accompanied by affidavits or other evidence relied on. The answer must be served within 10 days of service of the motion.
 
-(iii) The Assistant Administrator will issue a decision on the motion to vacate the automatic stay within 10 days of the close of the time period for serving the answer to the motion. The 30-day period for review of the petition for administrative review in paragraph (g)(7) of this section is tolled from the time the Agency Official's motion to lift a stay is served until the Assistant Administrator issues a decision on the motion.
+(iii) The Agency Decisionmaker will issue a decision on the motion to vacate the automatic stay within 10 days of the close of the time period for serving the answer to the motion. The 30-day period for review of the petition for administrative review in paragraph (g)(7) of this section is tolled from the time the Agency Official's motion to lift a stay is served until the Agency Decisionmaker issues a decision on the motion.
 
 (9) The Assistant Administrator's decision on a petition for administrative review of an order issued under this section constitutes the Final Agency Order.
 
@@ -112,9 +112,9 @@
 
 (5) If FMCSA grants the request for rescission, the written decision is the Final Agency Order.
 
-(6) If FMCSA denies the request for rescission, the petitioner may file a petition for administrative review of the denial with the Assistant Administrator, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave. SE., Washington, DC 20590-0001, Attention: Adjudication Counsel or by electronic mail to *FMCSA.Adjudication@dot.gov.* The petition for administrative review of the denial must be served and filed within 15 days of the service of the decision denying the request for recession. The petition for administrative review must identify the disputed factual or procedural issues with respect to the denial of the petition for rescission. The petition may not, however, challenge the underlying basis of the order for which rescission was sought.
+(6) If FMCSA denies the request for rescission, the petitioner may file a petition for administrative review of the denial with the Agency Decisionmaker, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave. SE., Washington, DC 20590-0001, Attention: Adjudication Counsel or by electronic mail to *FMCSA.Adjudication@dot.gov.* The petition for administrative review of the denial must be served and filed within 15 days of the service of the decision denying the request for recession. The petition for administrative review must identify the disputed factual or procedural issues with respect to the denial of the petition for rescission. The petition may not, however, challenge the underlying basis of the order for which rescission was sought.
 
-(7) The Assistant Administrator will issue a written decision on the petition for administrative review of the denial of the petition for rescission within 60 days. The Assistant Administrator's decision constitutes the Final Agency Order.
+(7) The Agency Decisionmaker will issue a written decision on the petition for administrative review of the denial of the petition for rescission within 60 days. The Assistant Administrator's decision constitutes the Final Agency Order.
 
 (i) *Other orders unaffected.* If a motor carrier, intermodal equipment provider, broker, or freight forwarder subject to an order issued under this section is or becomes subject to any other order, prohibition, or requirement of the FMCSA, an order issued under this section is in addition to, and does not amend or supersede such other order, prohibition, or requirement. A motor carrier, intermodal equipment provider, broker, or freight forwarder subject to an order issued under this section remains subject to the suspension and revocation provisions of 49 U.S.C. 13905 for violations of regulations governing their operations.
 

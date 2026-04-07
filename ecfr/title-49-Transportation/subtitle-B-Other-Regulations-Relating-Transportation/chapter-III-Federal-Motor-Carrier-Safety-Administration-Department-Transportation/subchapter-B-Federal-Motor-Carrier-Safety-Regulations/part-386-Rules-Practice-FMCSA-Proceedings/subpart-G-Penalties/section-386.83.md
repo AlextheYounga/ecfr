@@ -10,7 +10,7 @@
 
 (b) *Show cause proceeding.* (1) FMCSA will notify a CMV owner or operator, or intermodal equipment provider, in writing if it has not received payment within 45 days after the date specified for payment by the final agency order or the date of a missed installment payment. The notice will include a warning that failure to pay the entire penalty within 90 days after payment was due, will result in the CMV owner or operator, or an intermodal equipment provider, being prohibited from operating in interstate commerce.
 
-(2) The notice will order the CMV owner or operator, or intermodal equipment provider, to show cause why it should not be prohibited from operating in interstate commerce on the 91st day after the date specified for payment. The prohibition may be avoided only by submitting to the Assistant Administrator:
+(2) The notice will order the CMV owner or operator, or intermodal equipment provider, to show cause why it should not be prohibited from operating in interstate commerce on the 91st day after the date specified for payment. The prohibition may be avoided only by submitting to the Agency Decisionmaker:
 
 (i) Evidence that the respondent has paid the entire amount due; or
 
