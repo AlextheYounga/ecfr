@@ -1,3 +1,0 @@
-##### § 154.24 Prior investigations conducted by DoD investigative organizations.
-
-As long as there is no break in military service/civilian employment greater than 12 months, any previous personnel security investigation conducted by DoD investigative organizations that essentially is equivalent in scope to an investigation required by this part will be accepted without requesting additional investigation. There is no time limitation as to the acceptability of such investigations, subject to the provisions of §§ 154.8(h) and 154.25(b) of this part.

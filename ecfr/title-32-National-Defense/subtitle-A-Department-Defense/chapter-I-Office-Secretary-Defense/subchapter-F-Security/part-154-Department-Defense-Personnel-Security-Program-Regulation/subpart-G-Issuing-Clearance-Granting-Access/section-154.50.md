@@ -1,3 +1,0 @@
-##### § 154.50 Administrative withdrawal.
-
-As set forth in § 154.48 the personnel security clearance and access eligibility must be withdrawn when the events described therein occur. When regular access to a prescribed level of classified information is no longer required in the normal course of an individual's duties, the previously authorized access eligibility level must be administratively downgraded or withdrawn, as appropriate.
