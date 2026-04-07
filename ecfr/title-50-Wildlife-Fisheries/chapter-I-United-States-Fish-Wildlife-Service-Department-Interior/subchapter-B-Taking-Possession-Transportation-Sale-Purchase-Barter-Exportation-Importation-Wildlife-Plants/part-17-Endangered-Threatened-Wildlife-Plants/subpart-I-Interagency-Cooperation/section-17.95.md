@@ -1,7 +1,5 @@
 ##### § 17.95 Critical habitat—fish and wildlife.
 
-Link to an amendment published at 89 FR 99683, Dec. 10, 2024.
-
 (a) *Mammals.*
 
 Florida Bonneted Bat (*Eumops floridanus*)
@@ -244,7 +242,55 @@ The map provided is for informational purposes only. Map follows:
 
 (5) Unit 1: Boundary County, Idaho, and Pend Oreille County, Washington. The map of the critical habitat unit follows: 
 
-![](/graphics/er02oc19.003.gif)Santa Catalina Island Fox (*Urocyon littoralis catalinae*)
+![](/graphics/er02oc19.003.gif)Peñasco Least Chipmunk (*Neotamias minimus atristriatus*)
+
+(1) Critical habitat units are depicted for Lincoln County, New Mexico, on the maps in this entry. 
+
+(2) Within these areas, the physical or biological features essential to the conservation of the Peñasco least chipmunk consist of the following components: 
+
+(i) Areas within the White Mountains that: 
+
+(A) Are between elevations of 2,500-3,597 meters (8,200-11,800 feet); 
+
+(B) Contain rock outcrops or talus; 
+
+(C) Are subalpine Thurber's fescue meadow/grassland communities found within openings of spruce-fir forest, above tree line in the glacial cirque, containing tall bunchgrasses, including Thurber's fescue, sedges, flowering forbs, and shrubs; and 
+
+(D) Contain widely spaced large-diameter conifers, such as Engelmann spruce or ponderosa pine, intermixed in low densities with the meadow/grassland vegetation. 
+
+(ii) Forage, including species of Asteraceae, flowers and fruits of gooseberry (*Ribes* spp.), wild strawberry (*Fragaria* spp.), pinyon (*Pinus edulis*) nuts, Gambel oak (*Quercus gambelii*) acorns, and insects. 
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on January 9, 2025. 
+
+(4) Data layers defining map units were created using publicly available geospatial vegetation data for the Lincoln National Forest, 30-meter digital elevation models from the National Elevation Dataset, and 3-band county mosaics obtained from the National Agricultural Imagery Program. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *https://www.regulations.gov* at Docket No. FWS-R2-ES-2020-0042 and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2. 
+
+(5) Index map follows: 
+
+Figure 1 to Peñasco least chipmunk (*Neotamias minimus atristriatus*) paragraph (5) ![](/graphics/er10de24.067.gif)
+
+(6) Unit 1: Nogal Peak, Lincoln County, New Mexico. 
+
+(i) Unit 1 consists of approximately 393 hectares (972 acres) of subalpine habitat within the Lincoln National Forest Wilderness Area. Elevation ranges approximately 2,570-3,031 meters (8,432-9,944 feet) above mean sea level. 
+
+(ii) Map of Unit 1 follows: 
+
+Figure 2 to Peñasco least chipmunk (*Neotamias minimus atristriatus*) paragraph (6)(ii) ![](/graphics/er10de24.068.gif)
+
+(7) Unit 2: Crest Trail, Lincoln County, New Mexico. 
+
+(i) Unit 2 consists of approximately 910 hectares (2,249 acres) of subalpine habitat located within the Lincoln National Forest Wilderness Area. Elevation ranges approximately 2,621-3,292 meters (8,599-10,800 feet) above mean sea level. 
+
+(ii) Map of Unit 2 follows: 
+
+Figure 3 to Peñasco least chipmunk (*Neotamias minimus atristriatus*) paragraph (7)(ii) ![](/graphics/er10de24.069.gif)
+
+(8) Unit 3: Sierra Blanca, Lincoln County, New Mexico. 
+
+(i) Unit 3 includes approximately 471 hectares (1,165 acres) of subalpine habitat located within the Lincoln National Forest and Lincoln National Forest Wilderness Area. Elevation ranges approximately 2,763-3,518 meters (9,065-11,542 feet) above mean sea level. 
+
+(ii) Map of Unit 3 follows: 
+
+Figure 4 to Peñasco least chipmunk (*Neotamias minimus atristriatus*) paragraph (8)(ii) ![](/graphics/er10de24.070.gif)Santa Catalina Island Fox (*Urocyon littoralis catalinae*)
 
 We have determined that no areas meet the definition of critical habitat under section 3(5)(A) of the Act for Santa Catalina Island fox. Therefore, no specific areas are designated as critical habitat for this subspecies. 
 
