@@ -20361,7 +20361,7 @@ Note:
 
 The map provided is for informational purposes only.
 
-![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 87 FR 8966, Feb. 17, 2022.
+![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (f) *Clams and Snails.*
 
@@ -20501,9 +20501,9 @@ Carolina Heelsplitter (*Lasmigona decorata*)
 
 (vii) Fish hosts, with adequate living, foraging, and spawning areas for them.
 
-Eleven Mobile River Basin Mussel Species: Southern acornshell (*Epioblasma othcaloogensis*), ovate clubshell (*Pleurobema perovatum*), southern clubshell (*Pleurobema decisum*), upland combshell (*Epioblasma metastriata*), triangular kidneyshell (*Ptychobranchus greenii*), Alabama moccasinshell (*Medionidus acutissimus*), Coosa moccasinshell (*Medionidus parvulus*), orange-nacre mucket (*Lampsilis perovalis*), dark pigtoe (*Pleurobema furvum*), southern pigtoe (*Pleurobema georgianum*), and fine-lined pocketbook (*Lampsilis altilis*)
+Eleven Mobile River Basin Mussel Species: Southern acornshell (*Epioblasma othcaloogensis*), ovate clubshell (*Pleurobema perovatum*), southern clubshell (*Pleurobema decisum*), upland combshell (*Epioblasma metastriata*), triangular kidneyshell (*Ptychobranchus greenii*), Alabama moccasinshell (*Medionidus acutissimus*), Coosa moccasinshell (*Medionidus parvulus*), orangenacre mucket (*Hamiota perovalis*), dark pigtoe (*Pleurobema furvum*), southern pigtoe (*Pleurobema georgianum*), and finelined pocketbook (*Hamiota altilis*)
 
-(1) The primary constituent elements essential for the conservation of the southern acornshell (*Epioblasma othcaloogensis*), ovate clubshell (*Pleurobema perovatum*), southern clubshell (*Pleurobema decisum*), upland combshell (*Epioblasma metastriata*); triangular kidneyshell (*Ptychobranchus greenii*), Alabama moccasinshell (*Medionidus acutissimus*), Coosa moccasinshell (*Medionidus parvulus*), orange-nacre mucket (*Lampsilis perovalis*), dark pigtoe (*Pleurobema furvum*), southern pigtoe (*Pleurobema georgianum*), and fine-lined pocketbook (*Lampsilis altilis*) are those habitat components that support feeding, sheltering, reproduction, and physical features for maintaining the natural processes that support these habitat components. The primary constituent elements include:
+(1) The primary constituent elements essential for the conservation of the southern acornshell (*Epioblasma othcaloogensis*), ovate clubshell (*Pleurobema perovatum*), southern clubshell (*Pleurobema decisum),* upland combshell (*Epioblasma metastriata*), triangular kidneyshell (*Ptychobranchus greenii*), Alabama moccasinshell (*Medionidus acutissimus*), Coosa moccasinshell (*Medionidus parvulus*), orangenacre mucket (*Hamiota perovalis*), dark pigtoe (*Pleurobema furvum*), southern pigtoe (*Pleurobema georgianum*), and finelined pocketbook (*Hamiota altilis*) are those habitat components that support feeding, sheltering, reproduction, and physical features for maintaining the natural processes that support these habitat components. The primary constituent elements include:
 
 (i) Geomorphically stable stream and river channels and banks;
 
@@ -20534,10 +20534,10 @@ Eleven Mobile River Basin Mussel Species: Southern acornshell (*Epioblasma othca
 | Triangular kidneyshell (Ptychobranchus greenii) | Units 10, 11, 12, 13, 18, 19, 20, 21, 22, 23, 24, 25, 26                    | AL, GA, TN     |
 | Alabama moccasinshell (Medionidus acutissimus)  | Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 25, 26                 | AL, GA, MS, TN |
 | Coosa moccasinshell (Medionidus parvulus)       | Units 18, 19, 20, 21, 22, 23, 24, 25, 26                                    | AL, GA, TN     |
-| Orange-nacre mucket (Lampsilis perovalis)       | Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15                     | AL, MS         |
+| Orangenacre mucket (Hamiota perovalis)          | Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15                     | AL, MS.        |
 | Dark pigtoe (Pleurobema furvum)                 | Units 10, 11, 12                                                            | AL             |
 | Southern pigtoe (Pleurobema georgianum)         | Units 18, 19, 20, 21, 22, 23, 24, 25, 26                                    | AL, GA, TN     |
-| Fine-lined pocketbook (Lampsilis altilis)       | Units 13, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26                        | AL, GA, TN     |
+| Finelined pocketbook (Hamiota altilis)          | Units 13, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26                        | AL, GA, TN.    |
 
 (iii) Unit 1. East Fork Tombigbee River, Monroe, Itawamba County, Mississippi. This is a critical habitat unit for the ovate clubshell, southern clubshell, Alabama moccasinshell, and orange-nacre mucket.
 
@@ -20877,7 +20877,7 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (B) Map of Unit 13 follows:
 
-![](/graphics/er31au04.015.gif)Seven mussel species (in four northeast Gulf of Mexico drainages): Purple bankclimber (*Elliptoideus sloatianus*), Gulf moccasinshell (*Medionidus penicillatus*), Ochlockonee moccasinshell (*Medionidus simpsonianus*), oval pigtoe (*Pleurobema pyriforme*), shinyrayed pocketbook (*Lampsilis subangulata*), Chipola slabshell (*Elliptio chipolaensis*), and fat threeridge (*Amblema neislerii*).
+![](/graphics/er31au04.015.gif)Seven mussel species (in four northeast Gulf of Mexico drainages): Purple bankclimber (*Elliptoideus sloatianus*), Gulf moccasinshell (*Medionidus penicillatus*), Ochlockonee moccasinshell (*Medionidus simpsonianus*), oval pigtoe (*Pleurobema pyriforme*), shinyrayed pocketbook (*Hamiota subangulata*), Chipola slabshell (*Elliptio chipolaensis*), and fat threeridge (*Amblema neislerii*)
 
 (1) Critical habitat units are depicted on the maps below for the following counties:
 
@@ -20887,7 +20887,7 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (iii) *Georgia:* Baker, Calhoun, Coweta, Crawford, Crisp, Decatur, Dooly, Dougherty, Early, Fayette, Grady, Lee, Macon, Marion, Meriwether, Miller, Mitchell, Peach, Pike, Schley, Spalding, Sumter, Talbot, Taylor, Terrell, Thomas, Upson, Webster, and Worth.
 
-(2) The primary constituent elements of critical habitat for the purple bankclimber (*Elliptoideus sloatianus*), Gulf moccasinshell (*Medionidus penicillatus*), Ochlockonee moccasinshell (*Medionidus simpsonianus*), oval pigtoe (*Pleurobema pyriforme*), shinyrayed pocketbook (*Lampsilis subangulata*), Chipola slabshell (*Elliptio chipolaensis*), and fat threeridge (*Amblema neislerii*) are:
+(2) The primary constituent elements of critical habitat for the purple bankclimber (*Elliptoideus sloatianus*), Gulf moccasinshell (*Medionidus penicillatus*), Ochlockonee moccasinshell (*Medionidus simpsonianus*), oval pigtoe (*Pleurobema pyriforme*), shinyrayed pocketbook (*Hamiota subangulata*), Chipola slabshell (*Elliptio chipolaensis*), and fat threeridge (*Amblema neislerii*) are:
 
 (i) A geomorphically stable stream channel (a channel that maintains its lateral dimensions, longitudinal profile, and spatial pattern over time without a consistent aggrading or degrading bed elevation);
 
@@ -20909,15 +20909,15 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (6) Table of listed species and critical habitat units. A table showing the listed species, their respective critical habitat units, and the States that contain those habitat units follows. Detailed critical habitat unit descriptions and maps appear below in paragraphs (7) through (17).
 
-| Species                                             | Critical habitat units        | States     |
-| --------------------------------------------------- | ----------------------------- | ---------- |
-| Purple bankclimber (Elliptoideus sloatianus)        | Units 5, 6, 7, 8, 9, 10       | AL, FL, GA |
-| Gulf moccasinshell (Medionidus penicillatus)        | Units 1, 2, 4, 5, 6, 7        | AL, FL, GA |
-| Ochlockonee moccasinshell (Medionidus simpsonianus) | Unit 9                        | FL, GA     |
-| Oval pigtoe (Pleurobema pyriforme)                  | Units 1, 2, 4, 5, 6, 7, 9, 11 | AL, FL, GA |
-| Shinyrayed pocketbook (Lampsilis subangulata)       | Units 2, 3, 4, 5, 6, 7, 9     | AL, FL, GA |
-| Chipola slabshell (Elliptio chipolaensis)           | Unit 2                        | AL, FL     |
-| Fat threeridge (mussel) (Amblema neislerii)         | Units 2, 7, 8                 | AL, FL, GA |
+| Species                                             | Critical habitat units        | States      |
+| --------------------------------------------------- | ----------------------------- | ----------- |
+| Purple bankclimber (Elliptoideus sloatianus)        | Units 5, 6, 7, 8, 9, 10       | AL, FL, GA  |
+| Gulf moccasinshell (Medionidus penicillatus)        | Units 1, 2, 4, 5, 6, 7        | AL, FL, GA  |
+| Ochlockonee moccasinshell (Medionidus simpsonianus) | Unit 9                        | FL, GA      |
+| Oval pigtoe (Pleurobema pyriforme)                  | Units 1, 2, 4, 5, 6, 7, 9, 11 | AL, FL, GA  |
+| Shinyrayed pocketbook (Hamiota subangulata)         | Units 2, 3, 4, 5, 6, 7, 9     | AL, FL, GA. |
+| Chipola slabshell (Elliptio chipolaensis)           | Unit 2                        | AL, FL      |
+| Fat threeridge (mussel) (Amblema neislerii)         | Units 2, 7, 8                 | AL, FL, GA  |
 
 (7) Unit 1. Econfina and Moccasin creeks, Bay and Washington Counties, Florida. This is a critical habitat unit for the Gulf moccasinshell and oval pigtoe.
 
@@ -21005,7 +21005,7 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (ii) Unit 11 map follows:
 
-![](/graphics/er15no07.014.gif)Eight mussel species in four northeast Gulf of Mexico drainages: the Choctaw bean (*Villosa choctawensis*), round ebonyshell (*Fusconaia rotulata*), southern kidneyshell (*Ptychobranchus jonesi*), Alabama pearlshell (*Margaritifera marrianae*), fuzzy pigtoe (*Pleurobema strodeanum*), narrow pigtoe (*Fusconaia escambia*), tapered pigtoe (*Fusconaia burkei*), and southern sandshell (*Hamiota australis*).
+![](/graphics/er15no07.014.gif)Eight mussel species in four northeast Gulf of Mexico drainages: Choctaw bean (*Obovaria choctawensis*), round ebonyshell (*Reginaia rotulata*), southern kidneyshell (*Ptychobranchus jonesi*), Alabama pearlshell (*Margaritifera marrianae*), fuzzy pigtoe (*Pleurobema strodeanum*), narrow pigtoe (*Fusconaia escambia*), tapered pigtoe (*Fusconaia burkei*), and southern sandshell (*Hamiota australis*)
 
 (1) Critical habitat units are depicted for the following counties:
 
@@ -21199,7 +21199,7 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (ii) Map of Unit 4 (Lower Ohoopee River) follows:
 
-![](/graphics/er11oc11.004.gif)Fluted Kidneyshell (Ptychobranchus subtentum)
+![](/graphics/er11oc11.004.gif)Fluted Kidneyshell (*Ptychobranchus subtentus*)
 
 (1) Critical habitat units are depicted on the maps below for Limestone County, Alabama; Jackson, Laurel, McCreary, Pulaski, Rockcastle, and Wayne Counties, Kentucky; Bedford, Claiborne, Cocke, Fentress, Franklin, Giles, Grainger, Greene, Hamblen, Hancock, Hickman, Humphreys, Jefferson, Knox, Lincoln, Marshall, Maury, Moore, Morgan, Overton, Perry, Pickett, Polk, Scott, and Sevier Counties, Tennessee; and Bland, Lee, Russell, Scott, Smyth, Tazewell, Washington, and Wythe Counties, Virginia.
 
@@ -26213,7 +26213,7 @@ Blackburn's Sphinx Moth (*Manduca blackburni*)
 
 (4) Critical habitat units are described below. Coordinates are in UTM Zone 4 with units in meters using North American Datum of 1983 (NAD83). The following index map shows the general locations of the 9 critical habitat units designated on the islands of Hawaii, Kahoolawe, Maui, and Molokai.
 
-(i) Note:Map 1 - State of Hawaii General Locations of Units for Blackburn's Sphinx Moth on Molokai, Maui, Kahoolawe, and Hawaii follows:
+(i) Note: Map 1 - State of Hawaii General Locations of Units for Blackburn's Sphinx Moth on Molokai, Maui, Kahoolawe, and Hawaii follows:
 
 ![](/graphics/er10jn03.004.gif)
 
