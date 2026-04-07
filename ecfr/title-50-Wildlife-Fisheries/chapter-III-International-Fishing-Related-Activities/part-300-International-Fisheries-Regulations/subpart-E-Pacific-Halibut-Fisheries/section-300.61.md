@@ -1,135 +1,137 @@
 ##### § 300.61 Definitions.
 
-In addition to the terms defined in § 300.2 and those in the Act and the Convention, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Act, or the Convention, the definition in this section shall apply. 
+Link to an amendment published at 90 FR 29790, July 7, 2025.Link to a correction of the above amendment published at 90 FR 52004, Nov. 19, 2025.
 
-*Alaska Native tribe* means, for purposes of the subsistence fishery for Pacific halibut in waters in and off Alaska, a Federally recognized Alaska Native tribe that has customary and traditional use of halibut and that is listed in § 300.65(g)(2) of this part. 
+In addition to the terms defined in § 300.2 and those in the Act and the Convention, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Act, or the Convention, the definition in this section shall apply.
 
-*Annual combined catch limit,* for purposes of commercial and sport fishing in Commission regulatory areas 2C and 3A, means the annual total allowable halibut removals (halibut harvest plus wastage) by persons fishing IFQ and by charter vessel anglers. 
+*Alaska Native tribe* means, for purposes of the subsistence fishery for Pacific halibut in waters in and off Alaska, a Federally recognized Alaska Native tribe that has customary and traditional use of halibut and that is listed in § 300.65(g)(2) of this part.
 
-*Annual commercial catch limit,* for purposes of commercial fishing in: 
+*Annual combined catch limit,* for purposes of commercial and sport fishing in Commission regulatory areas 2C and 3A, means the annual total allowable halibut removals (halibut harvest plus wastage) by persons fishing IFQ and by charter vessel anglers.
 
-(1) Commission regulatory areas 2C and 3A, means the annual commercial allocation minus an area-specific estimate of commercial halibut wastage. 
+*Annual commercial catch limit,* for purposes of commercial fishing in:
 
-(2) Commission regulatory areas 3B and 4A, means the annual total allowable halibut removals by persons fishing IFQ. 
+(1) Commission regulatory areas 2C and 3A, means the annual commercial allocation minus an area-specific estimate of commercial halibut wastage.
 
-(3) Commission regulatory areas 4B, 4C, 4D, and 4E, means the annual total allowable halibut removals by persons fishing IFQ and CDQ. 
+(2) Commission regulatory areas 3B and 4A, means the annual total allowable halibut removals by persons fishing IFQ.
 
-*Annual guided sport catch limit,* for purposes of sport fishing in Commission regulatory areas 2C and 3A, means the annual guided sport allocation minus an area-specific estimate of guided sport halibut wastage. 
+(3) Commission regulatory areas 4B, 4C, 4D, and 4E, means the annual total allowable halibut removals by persons fishing IFQ and CDQ.
 
-*Area 2A* includes all waters off the States of California, Oregon, and Washington. 
+*Annual guided sport catch limit,* for purposes of sport fishing in Commission regulatory areas 2C and 3A, means the annual guided sport allocation minus an area-specific estimate of guided sport halibut wastage.
 
-*Area 2C* includes all waters off Alaska that are east of a line running 340° true from Cape Spencer Light (58° 11′ 54″ N. lat., 136° 38′ 24″ W. long.) and south and east of a line running 205° true from said light. 
+*Area 2A* includes all waters off the States of California, Oregon, and Washington.
 
-*Area 3A* means all waters between Area 2C and a line extending from the most northerly point on Cape Aklek (57°41′15″ N. latitude, 155°35′00″ W. longitude) to Cape Ikolik (57°17′17″ N. latitude, 154°47′18″ W. longitude), then along the Kodiak Island coastline to Cape Trinity (56°44′50″ N. latitude, 154°08′44″ W. longitude), then 140° true. 
+*Area 2C* includes all waters off Alaska that are east of a line running 340° true from Cape Spencer Light (58° 11′ 54″ N. lat., 136° 38′ 24″ W. long.) and south and east of a line running 205° true from said light.
 
-*Charter halibut permit* means a permit issued by the National Marine Fisheries Service pursuant to § 300.67. 
+*Area 3A* means all waters between Area 2C and a line extending from the most northerly point on Cape Aklek (57°41′15″ N. latitude, 155°35′00″ W. longitude) to Cape Ikolik (57°17′17″ N. latitude, 154°47′18″ W. longitude), then along the Kodiak Island coastline to Cape Trinity (56°44′50″ N. latitude, 154°08′44″ W. longitude), then 140° true.
 
-*Charter vessel,* for purposes of §§ 300.65, 300.66, and 300.67, means a vessel used while providing or receiving sport fishing guide services for halibut, and, for purposes of § 300.63, means a vessel used for hire in recreational (sport) fishing for Pacific halibut, but not including a vessel without a hired operator. 
+*Charter halibut permit* means a permit issued by the National Marine Fisheries Service pursuant to § 300.67.
 
-*Charter vessel angler,* for purposes of §§ 300.65, 300.66, and 300.67, means a person, paying or non-paying, receiving sport fishing guide services for halibut. 
+*Charter vessel,* for purposes of §§ 300.65, 300.66, and 300.67, means a vessel used while providing or receiving sport fishing guide services for halibut, and, for purposes of § 300.63, means a vessel used for hire in recreational (sport) fishing for Pacific halibut, but not including a vessel without a hired operator.
 
-*Charter vessel fishing trip,* for purposes of §§ 300.65, 300.66, and 300.67, means the time period between the first deployment of fishing gear into the water from a charter vessel by a charter vessel angler and the offloading of one or more charter vessel anglers or any halibut from that vessel. 
+*Charter vessel angler,* for purposes of §§ 300.65, 300.66, and 300.67, means a person, paying or non-paying, receiving sport fishing guide services for halibut.
 
-*Charter vessel guide,* for purposes of §§ 300.65, 300.66 and 300.67, means a person who holds an annual sport fishing guide license or registration issued by the Alaska Department of Fish and Game, or a person who provides sport fishing guide services. 
+*Charter vessel fishing trip,* for purposes of §§ 300.65, 300.66, and 300.67, means the time period between the first deployment of fishing gear into the water from a charter vessel by a charter vessel angler and the offloading of one or more charter vessel anglers or any halibut from that vessel.
 
-*Charter vessel operator,* for purposes of § 300.65, means the person in control of the charter vessel during a charter vessel fishing trip. 
+*Charter vessel guide,* for purposes of §§ 300.65, 300.66 and 300.67, means a person who holds an annual sport fishing guide license or registration issued by the Alaska Department of Fish and Game, or a person who provides sport fishing guide services.
 
-*Chiniak Bay* means all waters bounded by the shoreline and straight lines connecting the coordinates in the order listed: 
+*Charter vessel operator,* for purposes of § 300.65, means the person in control of the charter vessel during a charter vessel fishing trip.
 
-(1) North from Cape Chiniak (57°37.22′ N. lat., 152°9.36′ W. long.); 
+*Chiniak Bay* means all waters bounded by the shoreline and straight lines connecting the coordinates in the order listed:
 
-(2) To Buoy #1 at Williams Reef (57°50.36′ N. lat., 152°8.82′ W. long.); 
+(1) North from Cape Chiniak (57°37.22′ N. lat., 152°9.36′ W. long.);
 
-(3) To East Cape on Spruce Island (57°54.89′ N. lat., 152°19.45′ W. long.); 
+(2) To Buoy #1 at Williams Reef (57°50.36′ N. lat., 152°8.82′ W. long.);
 
-(4) To Termination Point on Kodiak Island (57°51.31′ N. lat., 152°24.01′ W. long.); and 
+(3) To East Cape on Spruce Island (57°54.89′ N. lat., 152°19.45′ W. long.);
 
-(5) Connecting to a line running counterclockwise along the shoreline of Kodiak Island to Cape Chiniak (57°37.22′ N. lat., 152°9.36′ W. long.). 
+(4) To Termination Point on Kodiak Island (57°51.31′ N. lat., 152°24.01′ W. long.); and
 
-*Commercial fishing* means fishing, the resulting catch of which either is, or is intended to be, sold or bartered but does not include subsistence fishing. 
+(5) Connecting to a line running counterclockwise along the shoreline of Kodiak Island to Cape Chiniak (57°37.22′ N. lat., 152°9.36′ W. long.).
 
-*Commission* means the International Pacific Halibut Commission. 
+*Commercial fishing* means fishing, the resulting catch of which either is, or is intended to be, sold or bartered but does not include subsistence fishing.
 
-*Commission regulatory area* means an area defined by the Commission for purposes of the Convention identified in 50 CFR 300.60 and prescribed in the annual management measures published pursuant to 50 CFR 300.62. 
+*Commission* means the International Pacific Halibut Commission.
 
-*Community charter halibut permit* means a permit issued by NMFS to a Community Quota Entity pursuant to § 300.67. 
+*Commission regulatory area* means an area defined by the Commission for purposes of the Convention identified in 50 CFR 300.60 and prescribed in the annual management measures published pursuant to 50 CFR 300.62.
 
-*Compensation,* for purposes of sport fishing for Pacific halibut in Commission regulatory areas 2C and 3A, means direct or indirect payment, remuneration, or other benefits received in return for services, regardless of the source; for this definition, “benefits” includes wages or other employment benefits given directly or indirectly to an individual or organization, and any dues, payments, fees, or other remuneration given directly or indirectly to a fishing club, business, organization, or individual who provides sport fishing guide services; and does not include reimbursement for the actual daily expenses for fuel, food, or bait. 
+*Community charter halibut permit* means a permit issued by NMFS to a Community Quota Entity pursuant to § 300.67.
 
-*Crew member,* for purposes of §§ 300.65 and 300.67, means an assistant, deckhand, or similar person who works directly under the supervision of, and on the same vessel as, a charter vessel guide or operator of a vessel with one or more charter vessel anglers on board. 
+*Compensation,* for purposes of sport fishing for Pacific halibut in Commission regulatory areas 2C and 3A, means direct or indirect payment, remuneration, or other benefits received in return for services, regardless of the source; for this definition, “benefits” includes wages or other employment benefits given directly or indirectly to an individual or organization, and any dues, payments, fees, or other remuneration given directly or indirectly to a fishing club, business, organization, or individual who provides sport fishing guide services; and does not include reimbursement for the actual daily expenses for fuel, food, or bait.
 
-*Customary trade* means, for purposes of the subsistence fishery for Pacific halibut in waters in and off Alaska, the non-commercial exchange of subsistence halibut for anything other than items of significant value. 
+*Crew member,* for purposes of §§ 300.65 and 300.67, means an assistant, deckhand, or similar person who works directly under the supervision of, and on the same vessel as, a charter vessel guide or operator of a vessel with one or more charter vessel anglers on board.
 
-*Fishing* means the taking, harvesting, or catching of fish, or any activity that can reasonably be expected to result in the taking, harvesting, or catching of fish, including: 
+*Customary trade* means, for purposes of the subsistence fishery for Pacific halibut in waters in and off Alaska, the non-commercial exchange of subsistence halibut for anything other than items of significant value.
 
-(1) The deployment of any amount or component part of setline gear anywhere in the maritime area; 
+*Fishing* means the taking, harvesting, or catching of fish, or any activity that can reasonably be expected to result in the taking, harvesting, or catching of fish, including:
 
-(2) The deployment of longline pot gear as defined in § 679.2 of this title, or component part of that gear in Commission regulatory areas 2C, 3A, 3B, and that portion of Area 4A in the Gulf of Alaska west of Area 3B and east of 170°00′ W. long; or 
+(1) The deployment of any amount or component part of setline gear anywhere in the maritime area;
 
-(3) The deployment of pot gear as defined in § 679.2 of this title in Commission regulatory areas 4B, 4C, 4D, and 4E and the portion of Area 4A in the Bering Sea Aleutian Islands west of 170°00′ W long. 
+(2) The deployment of longline pot gear as defined in § 679.2 of this title, or component part of that gear in Commission regulatory areas 2C, 3A, 3B, and that portion of Area 4A in the Gulf of Alaska west of Area 3B and east of 170°00′ W. long; or
 
-*Fishing period* means, for purposes of commercial fishing in Commission regulatory Area 2A, dates and/or hours when fishing for Pacific halibut in Area 2A is allowed. 
+(3) The deployment of pot gear as defined in § 679.2 of this title in Commission regulatory areas 4B, 4C, 4D, and 4E and the portion of Area 4A in the Bering Sea Aleutian Islands west of 170°00′ W long.
 
-*Fishing period limit* means, for purposes of commercial fishing in Commission regulatory Area 2A, the maximum amount of Pacific halibut that may be retained and landed by a vessel during one fishing period in Area 2A. 
+*Fishing period* means, for purposes of commercial fishing in Commission regulatory Area 2A, dates and/or hours when fishing for Pacific halibut in Area 2A is allowed.
 
-*Fishing week,* for purposes of § 300.65(d), means a time period that begins at 0001 hours, A.l.t., Monday morning and ends at 2400 hours, A.l.t., the following Sunday night. 
+*Fishing period limit* means, for purposes of commercial fishing in Commission regulatory Area 2A, the maximum amount of Pacific halibut that may be retained and landed by a vessel during one fishing period in Area 2A.
 
-*Guided Angler Fish (GAF)* means halibut transferred within a year from a Commission regulatory area 2C or 3A IFQ permit holder to a GAF permit that is issued to a person holding a charter halibut permit, community charter halibut permit, or military charter halibut permit for the corresponding area. 
+*Fishing week,* for purposes of § 300.65(d), means a time period that begins at 0001 hours, A.l.t., Monday morning and ends at 2400 hours, A.l.t., the following Sunday night.
 
-*Guided Angler Fish (GAF) permit* means an annual permit issued by the National Marine Fisheries Service pursuant to § 300.65(c)(5)(iii). 
+*Guided Angler Fish (GAF)* means halibut transferred within a year from a Commission regulatory area 2C or 3A IFQ permit holder to a GAF permit that is issued to a person holding a charter halibut permit, community charter halibut permit, or military charter halibut permit for the corresponding area.
 
-*Guided Angler Fish (GAF) permit holder* means the person identified on a GAF permit. 
+*Guided Angler Fish (GAF) permit* means an annual permit issued by the National Marine Fisheries Service pursuant to § 300.65(c)(5)(iii).
 
-*Halibut harvest* means the catching and retaining of any halibut. 
+*Guided Angler Fish (GAF) permit holder* means the person identified on a GAF permit.
 
-*Head-on length* means a straight line measurement passing over the pectoral fin from the tip of the lower jaw with the mouth closed to the extreme end of the middle of the tail. 
+*Halibut harvest* means the catching and retaining of any halibut.
 
-*Individual Fishing Quota (IFQ),* for purposes of this subpart, means the annual catch limit of halibut that may be harvested by a person who is lawfully allocated a harvest privilege for a specific portion of the annual commercial catch limit of halibut. 
+*Head-on length* means a straight line measurement passing over the pectoral fin from the tip of the lower jaw with the mouth closed to the extreme end of the middle of the tail.
 
-*IFQ fishing trip,* for purposes of the subpart, means the period beginning when a vessel operator commences harvesting IFQ halibut and ending when the vessel operator lands any species. 
+*Individual Fishing Quota (IFQ),* for purposes of this subpart, means the annual catch limit of halibut that may be harvested by a person who is lawfully allocated a harvest privilege for a specific portion of the annual commercial catch limit of halibut.
 
-*IFQ halibut* means any halibut that is harvested with setline gear as defined in this section or fixed gear as defined in § 679.2 of this title while commercial fishing in any IFQ regulatory area defined in § 679.2 of this title. 
+*IFQ fishing trip,* for purposes of the subpart, means the period beginning when a vessel operator commences harvesting IFQ halibut and ending when the vessel operator lands any species.
 
-*Military charter halibut permit* means a permit issued by NMFS to a United States Military Morale, Welfare and Recreation Program pursuant to § 300.67. 
+*IFQ halibut* means any halibut that is harvested with setline gear as defined in this section or fixed gear as defined in § 679.2 of this title while commercial fishing in any IFQ regulatory area defined in § 679.2 of this title.
 
-*Overall length* of a vessel means the horizontal distance, rounded to the nearest ft/meter, between the foremost part of the stem and the aftermost part of the stern (excluding bowsprits, rudders, outboard motor brackets, and similar fittings or attachments). 
+*Military charter halibut permit* means a permit issued by NMFS to a United States Military Morale, Welfare and Recreation Program pursuant to § 300.67.
 
-*Permit* means, for purposes of commercial fishing in Commission regulatory Area 2A, a Pacific halibut fishing permit for Area 2A issued by NMFS pursuant to § 300.63(f). 
+*Overall length* of a vessel means the horizontal distance, rounded to the nearest ft/meter, between the foremost part of the stem and the aftermost part of the stern (excluding bowsprits, rudders, outboard motor brackets, and similar fittings or attachments).
 
-*Person* includes an individual, corporation, firm, or association. 
+*Permit* means, for purposes of commercial fishing in Commission regulatory Area 2A, a Pacific halibut fishing permit for Area 2A issued by NMFS pursuant to § 300.63(f).
 
-*Power hauling* means using electrically, hydraulically, or mechanically powered devices or attachments or other assisting devises or attachments to deploy and retrieve fishing gear. Power hauling does not include the use of hand power, a hand powered crank, a fishing rod, a downrigger, or a hand troll gurdy. 
+*Person* includes an individual, corporation, firm, or association.
 
-*Rural* means, for purposes of the subsistence fishery for Pacific halibut in waters in and off Alaska, a community of Alaska listed at § 300.65(g)(1) or an area of Alaska described at § 300.65(g)(3) in which the non-commercial, customary, and traditional use of fish and game for personal or family consumption is a principal characteristic of the economy or area and in which there is a long-term, customary, and traditional use of halibut. 
+*Power hauling* means using electrically, hydraulically, or mechanically powered devices or attachments or other assisting devises or attachments to deploy and retrieve fishing gear. Power hauling does not include the use of hand power, a hand powered crank, a fishing rod, a downrigger, or a hand troll gurdy.
 
-*Rural resident* means, for purposes of the subsistence fishery for Pacific halibut in waters in and off Alaska: 
+*Rural* means, for purposes of the subsistence fishery for Pacific halibut in waters in and off Alaska, a community of Alaska listed at § 300.65(g)(1) or an area of Alaska described at § 300.65(g)(3) in which the non-commercial, customary, and traditional use of fish and game for personal or family consumption is a principal characteristic of the economy or area and in which there is a long-term, customary, and traditional use of halibut.
 
-(1) An individual domiciled in a rural community listed in the table at § 300.65(g)(1) and who has maintained a domicile in rural communities listed in the table at § 300.65(g)(1), or in rural areas described at § 300.65(g)(3), for the 12 consecutive months immediately preceding the time when the assertion of residence is made, and who is not claiming residency in another state, territory, or country; or 
+*Rural resident* means, for purposes of the subsistence fishery for Pacific halibut in waters in and off Alaska:
 
-(2) An individual domiciled in a rural area described at § 300.65(g)(3) and who has maintained a domicile in rural areas described at § 300.65(g)(3), or in rural communities listed in the table at § 300.65(g)(1), for the 12 consecutive months immediately preceding the time when the assertion of residence is made, and who is not claiming residency in another state, territory, or country. 
+(1) An individual domiciled in a rural community listed in the table at § 300.65(g)(1) and who has maintained a domicile in rural communities listed in the table at § 300.65(g)(1), or in rural areas described at § 300.65(g)(3), for the 12 consecutive months immediately preceding the time when the assertion of residence is made, and who is not claiming residency in another state, territory, or country; or
 
-*Setline gear* means one or more stationary, buoyed, and anchored lines with hooks attached. 
+(2) An individual domiciled in a rural area described at § 300.65(g)(3) and who has maintained a domicile in rural areas described at § 300.65(g)(3), or in rural communities listed in the table at § 300.65(g)(1), for the 12 consecutive months immediately preceding the time when the assertion of residence is made, and who is not claiming residency in another state, territory, or country.
 
-*Sport fishing* means: 
+*Setline gear* means one or more stationary, buoyed, and anchored lines with hooks attached.
 
-(1) In regulatory area 2A, all fishing other than commercial fishing and treaty Indian ceremonial and subsistence fishing; and 
+*Sport fishing* means:
 
-(2) In waters in and off Alaska, all fishing other than commercial fishing and subsistence fishing. 
+(1) In regulatory area 2A, all fishing other than commercial fishing and treaty Indian ceremonial and subsistence fishing; and
 
-*Sport fishing guide services,* for purposes of §§ 300.65(d) and 300.67, means assistance, for compensation or with the intent to receive compensation, to a person who is sport fishing, to take or attempt to take halibut by accompanying or physically directing the sport fisherman in sport fishing activities during any part of a charter vessel fishing trip. Sport fishing guide services do not include services provided by a crew member, as defined at § 300.61. 
+(2) In waters in and off Alaska, all fishing other than commercial fishing and subsistence fishing.
 
-*Subarea 2A-1* includes the usual and accustomed fishing areas for Pacific Coast treaty tribes off the coast of Washington and all inland marine waters of Washington north of Point Chehalis (46°53.30′ N lat.), including Puget Sound. Boundaries of a tribe's fishing area may be revised as ordered by a Federal court. 
+*Sport fishing guide services,* for purposes of §§ 300.65(d) and 300.67, means assistance, for compensation or with the intent to receive compensation, to a person who is sport fishing, to take or attempt to take halibut by accompanying or physically directing the sport fisherman in sport fishing activities during any part of a charter vessel fishing trip. Sport fishing guide services do not include services provided by a crew member, as defined at § 300.61.
 
-*Subsistence* means, with respect to waters in and off Alaska, the non-commercial, long-term, customary and traditional use of halibut. 
+*Subarea 2A-1* includes the usual and accustomed fishing areas for Pacific Coast treaty tribes off the coast of Washington and all inland marine waters of Washington north of Point Chehalis (46°53.30′ N lat.), including Puget Sound. Boundaries of a tribe's fishing area may be revised as ordered by a Federal court.
 
-*Subsistence halibut* means halibut caught by a rural resident or a member of an Alaska Native tribe for direct personal or family consumption as food, sharing for personal or family consumption as food, or customary trade. 
+*Subsistence* means, with respect to waters in and off Alaska, the non-commercial, long-term, customary and traditional use of halibut.
 
-*Subsistence halibut registration certificate* (SHARC) means documentation, issued by NMFS, of the registration required at § 300.65(i). 
+*Subsistence halibut* means halibut caught by a rural resident or a member of an Alaska Native tribe for direct personal or family consumption as food, sharing for personal or family consumption as food, or customary trade.
 
-*Treaty Indian tribes* means the Hoh, Jamestown S'Klallam, Lower Elwha S'Klallam, Lummi, Makah, Port Gamble S'Klallam, Quileute, Quinault, Skokomish, Suquamish, Swinomish, Tulalip, and Nooksack tribes. 
+*Subsistence halibut registration certificate* (SHARC) means documentation, issued by NMFS, of the registration required at § 300.65(i).
 
-*Valid,* with respect to a charter halibut permit for purposes of §§ 300.66 and 300.67, means the charter halibut permit that is currently in effect. 
+*Treaty Indian tribes* means the Hoh, Jamestown S'Klallam, Lower Elwha S'Klallam, Lummi, Makah, Port Gamble S'Klallam, Quileute, Quinault, Skokomish, Suquamish, Swinomish, Tulalip, and Nooksack tribes.
 
-*Vessel class* means, for purposes of commercial fishing in Commission regulatory Area 2A, a group of vessels within a specific range of overall length (in feet) (46 CFR 69.9), as designated by the letters A-H pursuant to § 300.63(g). 
+*Valid,* with respect to a charter halibut permit for purposes of §§ 300.66 and 300.67, means the charter halibut permit that is currently in effect.
+
+*Vessel class* means, for purposes of commercial fishing in Commission regulatory Area 2A, a group of vessels within a specific range of overall length (in feet) (46 CFR 69.9), as designated by the letters A-H pursuant to § 300.63(g).
 
 \[61 FR 35550, July 5, 1996\] Editorial Note:For Federal Register citations affecting § 300.61, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,6 +1,6 @@
 ##### § 122.1 General definitions.
 
-The following definitions apply in this part, unless otherwise stated:
+The following definitions apply in this part, unless otherwise stated:*Aircraft.*
 
 (a) *Aircraft.* An “aircraft” is any device now known, or hereafter invented, used or designed for navigation or flight in the air. It does not include hovercraft.
 

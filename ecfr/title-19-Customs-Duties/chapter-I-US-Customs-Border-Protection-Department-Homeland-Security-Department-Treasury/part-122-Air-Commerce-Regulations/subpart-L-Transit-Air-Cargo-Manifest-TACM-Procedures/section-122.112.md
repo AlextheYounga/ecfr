@@ -1,6 +1,6 @@
 ##### § 122.112 Definitions.
 
-The following definitions apply in this subpart:
+The following definitions apply in this subpart:*Transit air cargo.*
 
 (a) *Transit air cargo.* “Transit air cargo” is cargo, including manifested baggage, transported under the requirements of this subpart.
 
