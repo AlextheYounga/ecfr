@@ -4,7 +4,7 @@ Link to an amendment published at 84 FR 15095, Apr. 15, 2019.
 
 (a) *Household responsibility to report.* (1) Monthly reporting households are required to report as provided in § 273.21. Quarterly reporting households are subject to the procedures as provided in paragraph (a)(4) of this section. Simplified reporting households are subject to the procedures as provided in paragraph (a)(5) of this section. Certified change reporting households are required to report the following changes in circumstances:
 
-(i) (A) A change of more than $100 in the amount of unearned income, except changes relating to public assistance (PA) or general assistance (GA) in project areas in which GA and food stamp cases are jointly processed. The State agency is responsible for identifying changes during the certification period in the amount of PA, or GA in jointly processed cases. If GA and food stamp cases are not jointly processed, the household is responsible for reporting changes in GA of more than $100.
+(i) (A) A change of more than $100 in the amount of unearned income, except changes relating to public assistance (PA) or general assistance (GA) in project areas in which GA and SNAP cases are jointly processed. The State agency is responsible for identifying changes during the certification period in the amount of PA, or GA in jointly processed cases. If GA and SNAP cases are not jointly processed, the household is responsible for reporting changes in GA of more than $100.
 
 (B) A change in the source of income, including starting or stopping a job or changing jobs, if the change in employment is accompanied by a change in income.
 
