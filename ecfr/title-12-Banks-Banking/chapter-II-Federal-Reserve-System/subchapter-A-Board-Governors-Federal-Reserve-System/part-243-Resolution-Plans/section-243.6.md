@@ -6,7 +6,7 @@
 
 (2) The Board and the Corporation jointly determine that a revised resolution plan submitted under § 243.5(c) does not adequately remedy the deficiencies jointly identified by the Board and the Corporation under § 243.5(b).
 
-(b) *Duration of requirements or restrictions.* - Any requirements or restrictions imposed on a covered company or a subsidiary thereof pursuant to paragraph (a) of this section shall cease to apply to the covered company or subsidiary, respectively, on the date that the Board and the Corporation jointly determine the covered company has submitted a revised resolution plan that adequately remedies the deficiencies jointly identified by the Board and the Corporation under § 243.5(b).
+(b) *Duration of requirements or restrictions.* Any requirements or restrictions imposed on a covered company or a subsidiary thereof pursuant to paragraph (a) of this section shall cease to apply to the covered company or subsidiary, respectively, on the date that the Board and the Corporation jointly determine the covered company has submitted a revised resolution plan that adequately remedies the deficiencies jointly identified by the Board and the Corporation under § 243.5(b).
 
 (c) *Divestiture.* The Board and Corporation, in consultation with the Council, may jointly, by order, direct the covered company to divest such assets or operations as are jointly identified by the Board and Corporation if:
 

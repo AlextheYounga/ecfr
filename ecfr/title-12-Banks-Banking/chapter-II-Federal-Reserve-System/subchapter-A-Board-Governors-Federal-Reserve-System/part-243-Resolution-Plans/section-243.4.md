@@ -2,13 +2,13 @@
 
 (a) *In general* - (1) *Domestic covered companies.* Except as otherwise provided in paragraph (a)(3) of this section, the resolution plan of a covered company that is organized or incorporated in the United States shall include the information specified in paragraphs (b) through (i) of this section with respect to the subsidiaries and operations that are domiciled in the United States as well as the foreign subsidiaries, offices, and operations of the covered company.
 
-(2) *Foreign-based covered companies.* - Except as otherwise provided in paragraph (a)(3) of the section, the resolution plan of a covered company that is organized or incorporated in a jurisdiction other than the United States (other than a bank holding company) or that is a foreign banking organization shall include:
+(2) *Foreign-based covered companies.* Except as otherwise provided in paragraph (a)(3) of the section, the resolution plan of a covered company that is organized or incorporated in a jurisdiction other than the United States (other than a bank holding company) or that is a foreign banking organization shall include:
 
 (i) The information specified in paragraphs (b) through (i) of this section with respect to the subsidiaries, branches and agencies, and critical operations and core business lines, as applicable, that are domiciled in the United States or conducted in whole or material part in the United States. With respect to the information specified in paragraph (g) of this section, the resolution plan of a foreign-based covered company shall also identify, describe in detail, and map to legal entity the interconnections and interdependencies among the U.S. subsidiaries, branches and agencies, and critical operations and core business lines of the foreign-based covered company and any foreign-based affiliate; and
 
 (ii) A detailed explanation of how resolution planning for the subsidiaries, branches and agencies, and critical operations and core business lines of the foreign-based covered company that are domiciled in the United States or conducted in whole or material part in the United States is integrated into the foreign-based covered company's overall resolution or other contingency planning process.
 
-(3) *Tailored resolution plan* - (i) *Eligible covered company.* - Paragraph (a)(3)(ii) of this section applies to any covered company that as of December 31 of the calendar year prior to the date its resolution plan is required to be submitted under this part -
+(3) *Tailored resolution plan* - (i) *Eligible covered company.* Paragraph (a)(3)(ii) of this section applies to any covered company that as of December 31 of the calendar year prior to the date its resolution plan is required to be submitted under this part -
 
 (A) Has less than $100 billion in total nonbank assets (or, in the case of a covered company that is a foreign-based company, in total U.S. nonbank assets); and
 
@@ -22,15 +22,15 @@
 
 (C) The information specified in paragraphs (g) and (i) of this section with respect to the covered company and all of its insured depository institutions (or, in the case of a covered company that is a foreign-based company, the U.S. insured depository institutions, branches, and agencies) and nonbank material entities and operations. The interconnections and interdependencies identified pursuant to (g) of this section shall be included in the analysis provided pursuant to paragraph (c) of this section.
 
-(iii) *Notice.* - A covered company that meets the requirements of paragraph (a)(3)(i) of this section and that intends to submit a resolution plan pursuant to this paragraph (a)(3), shall provide the Board and Corporation with written notice of such intent and its eligibility under paragraph (a)(3)(i) no later than 270 days prior to the date on which the covered company is required to submit its resolution plan. Within 90 of receiving such notice, the Board and Corporation may jointly determine that the covered company must submit a resolution plan that meets some or all of the requirements as set forth in paragraph (a)(1) or (2) of this section, as applicable.
+(iii) *Notice.* A covered company that meets the requirements of paragraph (a)(3)(i) of this section and that intends to submit a resolution plan pursuant to this paragraph (a)(3), shall provide the Board and Corporation with written notice of such intent and its eligibility under paragraph (a)(3)(i) no later than 270 days prior to the date on which the covered company is required to submit its resolution plan. Within 90 of receiving such notice, the Board and Corporation may jointly determine that the covered company must submit a resolution plan that meets some or all of the requirements as set forth in paragraph (a)(1) or (2) of this section, as applicable.
 
-(4) *Required and prohibited assumptions.* - In preparing its plan for rapid and orderly resolution in the event of material financial distress or failure required by this part, a covered company shall:
+(4) *Required and prohibited assumptions.* In preparing its plan for rapid and orderly resolution in the event of material financial distress or failure required by this part, a covered company shall:
 
 (i) Take into account that such material financial distress or failure of the covered company may occur under the baseline, adverse and severely adverse economic conditions provided to the covered company by the Board pursuant to 12 U.S.C. 5365(i)(1)(B); provided, however, a covered company may submit its initial resolution plan assuming the baseline conditions only, or, if a baseline scenario is not then available, a reasonable substitute developed by the covered company; and
 
 (ii) Not rely on the provision of extraordinary support by the United States or any other government to the covered company or its subsidiaries to prevent the failure of the covered company.
 
-(b) *Executive summary.* - Each resolution plan of a covered company shall include an executive summary describing:
+(b) *Executive summary.* Each resolution plan of a covered company shall include an executive summary describing:
 
 (1) The key elements of the covered company's strategic plan for rapid and orderly resolution in the event of material financial distress at or failure of the covered company.
 
@@ -38,7 +38,7 @@
 
 (3) Any actions taken by the covered company since filing of the previous resolution plan to improve the effectiveness of the covered company's resolution plan or remediate or otherwise mitigate any material weaknesses or impediments to effective and timely execution of the resolution plan.
 
-(c) *Strategic analysis.* - Each resolution plan shall include a strategic analysis describing the covered company's plan for rapid and orderly resolution in the event of material financial distress or failure of the covered company. Such analysis shall -
+(c) *Strategic analysis.* Each resolution plan shall include a strategic analysis describing the covered company's plan for rapid and orderly resolution in the event of material financial distress or failure of the covered company. Such analysis shall -
 
 (1) Include detailed descriptions of the -
 
@@ -68,7 +68,7 @@
 
 (iii) Assessing the impact of any sales, divestitures, restructurings, recapitalizations, or other similar actions on the value, funding, and operations of the covered company, its material entities, critical operations and core business lines.
 
-(d) *Corporate governance relating to resolution planning.* - Each resolution plan shall:
+(d) *Corporate governance relating to resolution planning.* Each resolution plan shall:
 
 (1) Include a detailed description of:
 
@@ -84,7 +84,7 @@
 
 (3) Identify and describe the relevant risk measures used by the covered company to report credit risk exposures both internally to its senior management and board of directors, as well as any relevant risk measures reported externally to investors or to the covered company's appropriate Federal regulator.
 
-(e) *Organizational structure and related information.* - Each resolution plan shall -
+(e) *Organizational structure and related information.* Each resolution plan shall -
 
 (1) Provide a detailed description of the covered company's organizational structure, including:
 
@@ -124,7 +124,7 @@
 
 (12) Identify each trading, payment, clearing, or settlement system of which the covered company, directly or indirectly, is a member and on which the covered company conducts a material number or value amount of trades or transactions. Map membership in each such system to the covered company's material entities, critical operations and core business lines.
 
-(f) *Management information systems* - (1) Each resolution plan shall include -
+(f) *Management information systems.* (1) Each resolution plan shall include -
 
 (i) A detailed inventory and description of the key management information systems and applications, including systems and applications for risk management, accounting, and financial and regulatory reporting, used by the covered company and its material entities. The description of each system or application provided shall identify the legal owner or licensor, the use or function of the system or application, service level agreements related thereto, any software and system licenses, and any intellectual property associated therewith;
 

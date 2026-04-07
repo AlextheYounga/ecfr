@@ -30,7 +30,7 @@
 
 (3) The compensation arrangements of persons performing risk-mitigating hedging activities are designed not to reward or incentivize prohibited proprietary trading.
 
-(c) *Documentation requirement* - (1) A banking entity must comply with the requirements of paragraphs (c)(2) and (3) of this section with respect to any purchase or sale of financial instruments made in reliance on this section for risk-mitigating hedging purposes that is:
+(c) *Documentation requirement.* (1) A banking entity must comply with the requirements of paragraphs (c)(2) and (3) of this section with respect to any purchase or sale of financial instruments made in reliance on this section for risk-mitigating hedging purposes that is:
 
 (i) Not established by the specific trading desk establishing or responsible for the underlying positions, contracts, or other holdings the risks of which the hedging activity is designed to reduce;
 
