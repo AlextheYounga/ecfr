@@ -1,10 +1,16 @@
 ##### § 524.1146 Imidacloprid and moxidectin.
 
-(a) *Specifications.* (1) Each milliliter of solution contains 100 milligrams (mg) imidacloprid and 25 mg moxidectin for use as in paragraph (d)(1) of this section.
+(a) *Specifications.* Each milliliter of solution contains:
 
-(2) Each milliliter of solution contains 100 mg imidacloprid and 10 mg moxidectin for use as in paragraphs (d)(2) and (d)(3) of this section.
+(1) 100 milligrams (mg) imidacloprid and 25 mg moxidectin; or
 
-(b) *Sponsor.* See No. 000859 in § 510.600(c) of this chapter.
+(2) 100 mg imidacloprid and 10 mg moxidectin.
+
+(b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter as follows:
+
+(1) Nos. 000859 and 017030 for use of product described in paragraph (a)(1) of this section as in paragraph (d)(1) of this section.
+
+(2) No. 000859 for use of product described in paragraph (a)(2) of this section as in paragraphs (d)(2) and (3) of this section.
 
 (c) *Special considerations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
@@ -22,4 +28,4 @@
 
 (ii) *Indications for use.* For the prevention of heartworm disease caused by *Dirofilaria immitis*; kills adult fleas (*Ctenocephalides felis*) and is indicated for the treatment of flea infestations on ferrets.
 
-\[72 FR 10597, Mar. 9, 2007, as amended at 78 FR 73698, Dec. 9, 2013\]
+\[72 FR 10597, Mar. 9, 2007, as amended at 78 FR 73698, Dec. 9, 2013; 85 FR 18120, Apr. 1, 2020\]

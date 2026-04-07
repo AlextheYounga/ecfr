@@ -1,7 +1,5 @@
 ##### § 3.210 Standardized measurement method for specific risk.
 
-Link to an amendment published at 85 FR 4405, Jan. 24, 2020.
-
 (a) *General requirement.* A national bank or Federal savings association must calculate a total specific risk add-on for each portfolio of debt and equity positions for which the national bank's or Federal savings association's VaR-based measure does not capture all material aspects of specific risk and for all securitization positions that are not modeled under § 3.209. A national bank or Federal savings association must calculate each specific risk add-on in accordance with the requirements of this section. Notwithstanding any other definition or requirement in this subpart, a position that would have qualified as a debt position or an equity position but for the fact that it qualifies as a correlation trading position under paragraph (2) of the definition of correlation trading position in § 3.202, shall be considered a debt position or an equity position, respectively, for purposes of this section 210 of this subpart.
 
 (1) The specific risk add-on for an individual debt or securitization position that represents sold credit protection is capped at the notional amount of the credit derivative contract. The specific risk add-on for an individual debt or securitization position that represents purchased credit protection is capped at the current fair value of the transaction plus the absolute value of the present value of all remaining payments to the protection seller under the transaction. This sum is equal to the value of the protection leg of the transaction.
@@ -42,51 +40,19 @@ Link to an amendment published at 85 FR 4405, Jan. 24, 2020.
 
 (i) *Sovereign debt positions.* (A) In accordance with Table 1 to § 3.210, a national bank or Federal savings association must assign a specific risk-weighting factor to a sovereign debt position based on the CRC applicable to the sovereign, and, as applicable, the remaining contractual maturity of the position, or if there is no CRC applicable to the sovereign, based on whether the sovereign entity is a member of the OECD. Notwithstanding any other provision in this subpart, sovereign debt positions that are backed by the full faith and credit of the United States are treated as having a CRC of 0.
 
-Table 1 to § 3.210 - Specific Risk-Weighting Factors for Sovereign Debt Positions
-
-Specific risk-weighting factor 
-
-(in percent) 
-
-CRC:
-
-0-1
-
-0.0 
-
-2-3
-
-Remaining contractual maturity of 6 months or less
-
-0.25 
-
-Remaining contractual maturity of greater than 6 and up to and including 24 months
-
-1.0 
-
-Remaining contractual maturity exceeds 24 months
-
-1.6 
-
-4-6
-
-8.0 
-
-7
-
-12.0 
-
-OECD Member with No CRC
-
-0.0 
-
-Non-OECD Member with No CRC
-
-8.0 
-
-Sovereign Default
-
-12.0
+Table 1 to § 3.210—Specific Risk-Weighting Factors for Sovereign Debt Positions
+|                             | Specific risk-weighting factor                                                     |      |
+|                             | (in percent)                                                                       |      |
+| CRC:                        |                                                                                    |      |
+| 0-1                         | 0.0                                                                                |      |
+| 2-3                         | Remaining contractual maturity of 6 months or less                                 | 0.25 |
+|                             | Remaining contractual maturity of greater than 6 and up to and including 24 months | 1.0  |
+|                             | Remaining contractual maturity exceeds 24 months                                   | 1.6  |
+| 4-6                         | 8.0                                                                                |      |
+| 7                           | 12.0                                                                               |      |
+| OECD Member with No CRC     | 0.0                                                                                |      |
+| Non-OECD Member with No CRC | 8.0                                                                                |      |
+| Sovereign Default           | 12.0                                                                               |      |
 
 (B) Notwithstanding paragraph (b)(2)(i)(A) of this section, a national bank or Federal savings association may assign to a sovereign debt position a specific risk-weighting factor that is lower than the applicable specific risk-weighting factor in Table 1 to § 3.210 if:
 
@@ -108,41 +74,16 @@ Sovereign Default
 
 (iv) *Depository institution, foreign bank, and credit union debt positions.* (A) Except as provided in paragraph (b)(2)(iv)(B) of this section, a national bank or Federal savings association must assign a specific risk-weighting factor to a debt position that is an exposure to a depository institution, a foreign bank, or a credit union, in accordance with Table 2 to § 3.210, based on the CRC that corresponds to that entity's home country or the OECD membership status of that entity's home country if there is no CRC applicable to the entity's home country, and, as applicable, the remaining contractual maturity of the position.
 
-Table 2 to § 3.210 - Specific Risk-Weighting Factors for Depository Institution, Foreign Bank, and Credit Union Debt Positions
-
-Specific risk-weighting factor 
-
-(in percent) 
-
-CRC 0-2 or OECD Member with No CRC
-
-Remaining contractual maturity of 6 months or less
-
-0.25 
-
-Remaining contractual maturity of greater than 6 and up to and including 24 months
-
-1.0 
-
-Remaining contractual maturity exceeds 24 months
-
-1.6 
-
-CRC 3
-
-8.0 
-
-CRC 4-7
-
-12.0 
-
-Non-OECD Member with No CRC
-
-8.0 
-
-Sovereign Default
-
-12.0
+Table 2 to § 3.210—Specific Risk-Weighting Factors for Depository Institution, Foreign Bank, and Credit Union Debt Positions
+|                                    | Specific risk-weighting factor                                                     |      |
+|                                    | (in percent)                                                                       |      |
+| CRC 0-2 or OECD Member with No CRC | Remaining contractual maturity of 6 months or less                                 | 0.25 |
+|                                    | Remaining contractual maturity of greater than 6 and up to and including 24 months | 1.0  |
+|                                    | Remaining contractual maturity exceeds 24 months                                   | 1.6  |
+| CRC 3                              | 8.0                                                                                |      |
+| CRC 4-7                            | 12.0                                                                               |      |
+| Non-OECD Member with No CRC        | 8.0                                                                                |      |
+| Sovereign Default                  | 12.0                                                                               |      |
 
 (B) A national bank or Federal savings association must assign a specific risk-weighting factor of 8.0 percent to a debt position that is an exposure to a depository institution or a foreign bank that is includable in the depository institution's or foreign bank's regulatory capital and that is not subject to deduction as a reciprocal holding under § 3.22.
 
@@ -158,84 +99,33 @@ Sovereign Default
 
 (C) A national bank or Federal savings association must assign a 12.0 percent specific risk-weighting factor to a PSE debt position immediately upon determination that a default by the PSE's home country has occurred or if a default by the PSE's home country has occurred within the previous five years.
 
-Table 3 to § 3.210 - Specific Risk-Weighting Factors for PSE General Obligation Debt Positions
+Table 3 to § 3.210—Specific Risk-Weighting Factors for PSE General Obligation Debt Positions
+|                                    | General obligation specific risk-weighting factor                                  |      |
+|                                    | (in percent)                                                                       |      |
+| CRC 0-2 or OECD Member with No CRC | Remaining contractual maturity of 6 months or less                                 | 0.25 |
+|                                    | Remaining contractual maturity of greater than 6 and up to and including 24 months | 1.0  |
+|                                    | Remaining contractual maturity exceeds 24 months                                   | 1.6  |
+| CRC 3                              | 8.0                                                                                |      |
+| CRC 4-7                            | 12.0                                                                               |      |
+| Non-OECD Member with No CRC        | 8.0                                                                                |      |
+| Sovereign Default                  | 12.0                                                                               |      |
 
-General obligation specific risk-weighting factor 
-
-(in percent) 
-
-CRC 0-2 or OECD Member with No CRC
-
-Remaining contractual maturity of 6 months or less
-
-0.25 
-
-Remaining contractual maturity of greater than 6 and up to and including 24 months
-
-1.0 
-
-Remaining contractual maturity exceeds 24 months
-
-1.6 
-
-CRC 3
-
-8.0 
-
-CRC 4-7
-
-12.0 
-
-Non-OECD Member with No CRC
-
-8.0 
-
-Sovereign Default
-
-12.0
-
-Table 4 to § 3.210 - Specific Risk-Weighting Factors for PSE Revenue Obligation Debt Positions
-
-Revenue obligation specific risk-weighting factor 
-
-(in percent) 
-
-CRC 0-1 or OECD Member with No CRC
-
-Remaining contractual maturity of 6 months or less
-
-0.25 
-
-Remaining contractual maturity of greater than 6 and up to and including 24 months
-
-1.0 
-
-Remaining contractual maturity exceeds 24 months
-
-1.6 
-
-CRC 2-3
-
-8.0 
-
-CRC 4-7
-
-12.0 
-
-Non-OECD Member with No CRC
-
-8.0 
-
-Sovereign Default
-
-12.0
+Table 4 to § 3.210—Specific Risk-Weighting Factors for PSE Revenue Obligation Debt Positions
+|                                    | Revenue obligation specific risk-weighting factor                                  |      |
+|                                    | (in percent)                                                                       |      |
+| CRC 0-1 or OECD Member with No CRC | Remaining contractual maturity of 6 months or less                                 | 0.25 |
+|                                    | Remaining contractual maturity of greater than 6 and up to and including 24 months | 1.0  |
+|                                    | Remaining contractual maturity exceeds 24 months                                   | 1.6  |
+| CRC 2-3                            | 8.0                                                                                |      |
+| CRC 4-7                            | 12.0                                                                               |      |
+| Non-OECD Member with No CRC        | 8.0                                                                                |      |
+| Sovereign Default                  | 12.0                                                                               |      |
 
 (vi) *Corporate debt positions.* Except as otherwise provided in paragraph (b)(2)(vi)(B) of this section, a national bank or Federal savings association must assign a specific risk-weighting factor to a corporate debt position in accordance with the investment grade methodology in paragraph (b)(2)(vi)(A) of this section.
 
 (A) *Investment grade methodology.* (*1*) For corporate debt positions that are exposures to entities that have issued and outstanding publicly traded instruments, a national bank or Federal savings association must assign a specific risk-weighting factor based on the category and remaining contractual maturity of the position, in accordance with Table 5 to § 3.210. For purposes of this paragraph (b)(2)(vi)(A)(*1*), the national bank or Federal savings association must determine whether the position is in the investment grade or not investment grade category.
 
-Table 5 to § 3.210 - Specific Risk-Weighting Factors for Corporate Debt Positions Under the Investment Grade Methodology
-
+Table 5 to § 3.210—Specific Risk-Weighting Factors for Corporate Debt Positions Under the Investment Grade Methodology
 | Category             | Remaining contractual maturity                   | Specific risk-weighting factor   (in percent) |
 | -------------------- | ------------------------------------------------ | --------------------------------------------- |
 | Investment Grade     | 6 months or less                                 | 0.50                                          |
@@ -283,9 +173,9 @@ Table 5 to § 3.210 - Specific Risk-Weighting Factors for Corporate Debt Positio
 
 (e) *Equity positions.* The total specific risk add-on for a portfolio of equity positions is the sum of the specific risk add-ons of the individual equity positions, as computed under this section. To determine the specific risk add-on of individual equity positions, a national bank or Federal savings association must multiply the absolute value of the current fair value of each net long or net short equity position by the appropriate specific risk-weighting factor as determined under this paragraph (e):
 
-(1) The national bank or Federal savings association must multiply the absolute value of the current fair value of each net long or net short equity position by a specific risk-weighting factor of 8.0 percent. For equity positions that are index contracts comprising a well-diversified portfolio of equity instruments, the absolute value of the current fair value of each net long or net short position is multiplied by a specific risk-weighting factor of 2.0 percent. 33
+(1) The national bank or Federal savings association must multiply the absolute value of the current fair value of each net long or net short equity position by a specific risk-weighting factor of 8.0 percent. For equity positions that are index contracts comprising a well-diversified portfolio of equity instruments, the absolute value of the current fair value of each net long or net short position is multiplied by a specific risk-weighting factor of 2.0 percent. 34
 
-33 A portfolio is well-diversified if it contains a large number of individual equity positions, with no single position representing a substantial portion of the portfolio's total fair value.
+34 A portfolio is well-diversified if it contains a large number of individual equity positions, with no single position representing a substantial portion of the portfolio's total fair value.
 
 (2) For equity positions arising from the following futures-related arbitrage strategies, a national bank or Federal savings association may apply a 2.0 percent specific risk-weighting factor to one side (long or short) of each position with the opposite side exempt from an additional capital requirement:
 
@@ -311,4 +201,4 @@ Table 5 to § 3.210 - Specific Risk-Weighting Factors for Corporate Debt Positio
 
 (ii) On an on-going basis (no less frequently than quarterly), evaluating, reviewing, and updating as appropriate the analysis required under paragraph (f)(1) of this section for each securitization position.
 
-\[78 FR 62157, 62273, Oct. 11, 2013, as amended at 84 FR 35258, July 22, 2019\]
+\[78 FR 62157, 62273, Oct. 11, 2013, as amended at 84 FR 35258, July 22, 2019; 85 FR 4405, Jan. 24, 2020\]
