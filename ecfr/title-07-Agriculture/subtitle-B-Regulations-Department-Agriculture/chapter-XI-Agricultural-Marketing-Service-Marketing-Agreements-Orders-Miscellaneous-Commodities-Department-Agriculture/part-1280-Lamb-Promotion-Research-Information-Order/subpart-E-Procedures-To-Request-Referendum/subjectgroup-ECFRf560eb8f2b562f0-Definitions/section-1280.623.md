@@ -1,6 +1,6 @@
 ##### § 1280.623 Time and place of the referendum.
 
-(a) The opportunity to vote in the referendum shall be provided during a 4-week period beginning and ending on a date determined by the Secretary. Eligible persons shall have the opportunity to vote following the procedures established in this subpart during the normal business hours of each county FSA office.
+(a) The opportunity to vote in the referendum shall be provided during a 4-week period beginning and ending on a date determined by the Secretary. Eligible persons shall have the opportunity to vote following the procedures established in this subpart during the normal business hours of each county FSA office. 
 
 (b) Persons can determine the location of county FSA offices by contacting the nearest county FSA office, the State FSA office, or through an online search of FSA's Web site at *http://www.fsa.usda.gov/pas/default.asp.*
 

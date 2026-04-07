@@ -1,6 +1,6 @@
 ##### § 801.9 Tolerances for test weight apparatuses.
 
-The maintenance tolerances for test weight per bushel apparatuses used in performing official inspection services shall be:
+The maintenance tolerances for test weight per bushel apparatuses used in performing official inspection services shall be: 
 
 | Item                | Tolerance                                                                              |
 | ------------------- | -------------------------------------------------------------------------------------- |

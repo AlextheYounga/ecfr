@@ -1,80 +1,80 @@
 ##### § 210.30 School nutrition program professional standards.
 
-(a) *General.* School food authorities that operate the National School Lunch Program, or the School Breakfast Program (part 220 of this chapter), must establish and implement professional standards for school nutrition program directors, managers, and staff, as defined in § 210.2.
+(a) *General.* School food authorities that operate the National School Lunch Program, or the School Breakfast Program (part 220 of this chapter), must establish and implement professional standards for school nutrition program directors, managers, and staff, as defined in § 210.2. 
 
-(b) *Minimum standards for all school nutrition program directors.* Each school food authority must ensure that all newly hired school nutrition program directors meet minimum hiring standards and ensure that all new and existing directors have completed the minimum annual training/education requirements for school nutrition program directors, as set forth below:
+(b) *Minimum standards for all school nutrition program directors.* Each school food authority must ensure that all newly hired school nutrition program directors meet minimum hiring standards and ensure that all new and existing directors have completed the minimum annual training/education requirements for school nutrition program directors, as set forth below: 
 
-(1) *Hiring standards.* All school nutrition program directors hired on or after July 1, 2015, must meet the following minimum educational requirements, as applicable:
+(1) *Hiring standards.* All school nutrition program directors hired on or after July 1, 2015, must meet the following minimum educational requirements, as applicable: 
 
-(i) *School nutrition program directors with local educational agency enrollment of 2,499 students or fewer.* Directors must meet the requirements in paragraph (b)(1)(i)(A), (B), (C), or (D) of this section. However, a State agency may approve a school food authority to use the nonprofit school food service account to pay the salary of a school nutrition program director who does not meet the hiring standards herein so long as the school food authority is complying with a State agency-approved plan to ensure the director will meet the requirements.
+(i) *School nutrition program directors with local educational agency enrollment of 2,499 students or fewer.* Directors must meet the requirements in paragraph (b)(1)(i)(A), (B), (C), or (D) of this section. However, a State agency may approve a school food authority to use the nonprofit school food service account to pay the salary of a school nutrition program director who does not meet the hiring standards herein so long as the school food authority is complying with a State agency-approved plan to ensure the director will meet the requirements. 
 
-(A) A bachelor's degree, or equivalent educational experience, as determined by the State agency, with an academic major or concentration in food and nutrition, food service management, dietetics, family and consumer sciences, nutrition education, culinary arts, business, or a related field;
+(A) A bachelor's degree, or equivalent educational experience, as determined by the State agency, with an academic major or concentration in food and nutrition, food service management, dietetics, family and consumer sciences, nutrition education, culinary arts, business, or a related field; 
 
-(B) A bachelor's degree, or equivalent educational experience, as determined by the State agency, with any academic major or area of concentration, and either a State-recognized certificate for school nutrition directors, or at least one year of relevant food service experience. At the discretion of the State agency, and on an individual basis, documented relevant food service experience may be unpaid;
+(B) A bachelor's degree, or equivalent educational experience, as determined by the State agency, with any academic major or area of concentration, and either a State-recognized certificate for school nutrition directors, or at least one year of relevant food service experience. At the discretion of the State agency, and on an individual basis, documented relevant food service experience may be unpaid; 
 
-(C) An associate's degree, or equivalent educational experience, as determined by the State agency, with an academic major or area of concentration in food and nutrition, food service management, dietetics, family and consumer sciences, nutrition education, culinary arts, business, or a related field and at least one year of relevant food service experience. At the discretion of the State agency, and on an individual basis, documented relevant food service experience may be unpaid; or
+(C) An associate's degree, or equivalent educational experience, as determined by the State agency, with an academic major or area of concentration in food and nutrition, food service management, dietetics, family and consumer sciences, nutrition education, culinary arts, business, or a related field and at least one year of relevant food service experience. At the discretion of the State agency, and on an individual basis, documented relevant food service experience may be unpaid; or 
 
-(D) A high school diploma or equivalency (such as the general educational development diploma), and at least three years of relevant food service experience. At the discretion of the State agency, and on an individual basis, documented relevant food service experience may be unpaid. Directors hired under this criterion are strongly encouraged to work toward attaining an associate's degree in an academic major in at least one of the fields listed in paragraph (b)(1)(i)(C) of this section.
+(D) A high school diploma or equivalency (such as the general educational development diploma), and at least three years of relevant food service experience. At the discretion of the State agency, and on an individual basis, documented relevant food service experience may be unpaid. Directors hired under this criterion are strongly encouraged to work toward attaining an associate's degree in an academic major in at least one of the fields listed in paragraph (b)(1)(i)(C) of this section. 
 
-(ii) *School nutrition program directors with local educational agency enrollment of 2,500 to 9,999 students.* Directors must meet the requirements in either paragraph (b)(1)(ii)(A), (B), (C), or (D) of this section.
+(ii) *School nutrition program directors with local educational agency enrollment of 2,500 to 9,999 students.* Directors must meet the requirements in either paragraph (b)(1)(ii)(A), (B), (C), or (D) of this section. 
 
-(A) A bachelor's degree, or equivalent educational experience, as determined by the State agency, with an academic major or concentration in food and nutrition, food service management, dietetics, family and consumer sciences, nutrition education, culinary arts, business, or a related field;
+(A) A bachelor's degree, or equivalent educational experience, as determined by the State agency, with an academic major or concentration in food and nutrition, food service management, dietetics, family and consumer sciences, nutrition education, culinary arts, business, or a related field; 
 
-(B) A bachelor's degree, or equivalent educational experience, as determined by the State agency, with any academic major or area of concentration, and a State-recognized certificate for school nutrition directors;
+(B) A bachelor's degree, or equivalent educational experience, as determined by the State agency, with any academic major or area of concentration, and a State-recognized certificate for school nutrition directors; 
 
-(C) A bachelor's degree in any academic major and at least two years of relevant experience in school nutrition programs; or
+(C) A bachelor's degree in any academic major and at least two years of relevant experience in school nutrition programs; or 
 
-(D) An associate's degree, or equivalent educational experience, as determined by the State agency, with an academic major or area of concentration in food and nutrition, food service management, dietetics, family and consumer sciences, nutrition education, culinary arts, business, or a related field and at least two years of relevant school nutrition program experience. Directors hired with an associate's degree are strongly encouraged to work toward attaining a bachelor's degree in an academic major in the fields listed in this paragraph (b)(1)(ii)(D).
+(D) An associate's degree, or equivalent educational experience, as determined by the State agency, with an academic major or area of concentration in food and nutrition, food service management, dietetics, family and consumer sciences, nutrition education, culinary arts, business, or a related field and at least two years of relevant school nutrition program experience. Directors hired with an associate's degree are strongly encouraged to work toward attaining a bachelor's degree in an academic major in the fields listed in this paragraph (b)(1)(ii)(D). 
 
-(iii) *School nutrition program directors with local educational agency enrollment of 10,000 or more students.* Directors must meet the requirements in either paragraph (b)(1)(iii)(A), (B), or (C) of this section.
+(iii) *School nutrition program directors with local educational agency enrollment of 10,000 or more students.* Directors must meet the requirements in either paragraph (b)(1)(iii)(A), (B), or (C) of this section. 
 
-(A) A bachelor's degree, or equivalent educational experience, as determined by the State agency, with an academic major or area of concentration in food and nutrition, food service management, dietetics, family and consumer sciences, nutrition education, culinary arts, business, or a related field;
+(A) A bachelor's degree, or equivalent educational experience, as determined by the State agency, with an academic major or area of concentration in food and nutrition, food service management, dietetics, family and consumer sciences, nutrition education, culinary arts, business, or a related field; 
 
-(B) A bachelor's degree, or equivalent educational experience, as determined by the State agency, with any academic major or area of concentration, and a State-recognized certificate for school nutrition directors; or
+(B) A bachelor's degree, or equivalent educational experience, as determined by the State agency, with any academic major or area of concentration, and a State-recognized certificate for school nutrition directors; or 
 
-(C) A bachelor's degree in any major and at least five years of experience in management of school nutrition programs.
+(C) A bachelor's degree in any major and at least five years of experience in management of school nutrition programs. 
 
-(D) School food authorities are strongly encouraged to seek out individuals who possess a master's degree or are willing to work toward a master's degree in the fields listed in this paragraph. At least one year of management experience, preferably in school nutrition, is strongly recommended. It is also strongly recommended that directors have at least three credit hours at the university level in food service management and at least three credit hours in nutritional sciences at the time of hire.
+(D) School food authorities are strongly encouraged to seek out individuals who possess a master's degree or are willing to work toward a master's degree in the fields listed in this paragraph. At least one year of management experience, preferably in school nutrition, is strongly recommended. It is also strongly recommended that directors have at least three credit hours at the university level in food service management and at least three credit hours in nutritional sciences at the time of hire. 
 
-(iv) *Exceptions to the hiring standards.* (A) For a local educational agency with less than 500 students, the State agency may approve the hire of a director who meets one of the educational criteria in paragraphs (b)(1)(i)(B) through (D) of this section but has less than the required years of relevant food service experience.
+(iv) *Exceptions to the hiring standards.* (A) For a local educational agency with less than 500 students, the State agency may approve the hire of a director who meets one of the educational criteria in paragraphs (b)(1)(i)(B) through (D) of this section but has less than the required years of relevant food service experience. 
 
-(B) For a local educational agency with 2,500 or more students, the State agency may approve the hire of a director who does not meet the educational criteria in paragraphs (b)(1)(ii)(A) through (D) or paragraphs (b)(1)(iii)(A) through (C) of this section, as applicable, but who has at least 10 years of school nutrition program experience.
+(B) For a local educational agency with 2,500 or more students, the State agency may approve the hire of a director who does not meet the educational criteria in paragraphs (b)(1)(ii)(A) through (D) or paragraphs (b)(1)(iii)(A) through (C) of this section, as applicable, but who has at least 10 years of school nutrition program experience. 
 
-(C) Acting school nutrition program directors are not required to meet the hiring standards established in this paragraph (b)(1) of this section; however, the State agency may require acting school nutrition program directors expected to serve for more than 30 business days to meet the hiring standards established in established in this paragraph (b)(1).
+(C) Acting school nutrition program directors are not required to meet the hiring standards established in this paragraph (b)(1) of this section; however, the State agency may require acting school nutrition program directors expected to serve for more than 30 business days to meet the hiring standards established in established in this paragraph (b)(1). 
 
-(v) *School nutrition program directors for all local educational agency sizes.* All school nutrition program directors, for all local educational agency sizes, must have completed at least eight hours of food safety training within five years prior to their starting date or complete eight hours of food safety training within 30 calendar days of their starting date. At the discretion of the State agency, all school nutrition program directors, regardless of their starting date, may be required to complete eight hours of food safety training every five years.
+(v) *School nutrition program directors for all local educational agency sizes.* All school nutrition program directors, for all local educational agency sizes, must have completed at least eight hours of food safety training within five years prior to their starting date or complete eight hours of food safety training within 30 calendar days of their starting date. At the discretion of the State agency, all school nutrition program directors, regardless of their starting date, may be required to complete eight hours of food safety training every five years. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(c) *Continuing education/training standards for all school nutrition program directors.* Each school year, the school food authority must ensure that all school nutrition program directors (including acting directors, at the discretion of the State agency), complete 12 hours of annual continuing education/training. The annual training must include, but is not limited to, administrative practices (including training in application, certification, verification, meal counting, and meal claiming procedures), as applicable, and any other specific topics identified by FNS, as needed, to address Program integrity or other critical issues. Continuing education/training required under this paragraph (c) is in addition to the food safety training required in the first year of employment under paragraph (b)(1)(v) of this section.
+(c) *Continuing education/training standards for all school nutrition program directors.* Each school year, the school food authority must ensure that all school nutrition program directors (including acting directors, at the discretion of the State agency), complete 12 hours of annual continuing education/training. The annual training must include, but is not limited to, administrative practices (including training in application, certification, verification, meal counting, and meal claiming procedures), as applicable, and any other specific topics identified by FNS, as needed, to address Program integrity or other critical issues. Continuing education/training required under this paragraph (c) is in addition to the food safety training required in the first year of employment under paragraph (b)(1)(v) of this section. 
 
-(d) *Continuing education/training standards for all school nutrition program managers.* Each school year, the school food authority must ensure that all school nutrition program managers have completed 10 hours of annual continuing education/training. The annual training must include, but is not limited to, the following topics, as applicable:
+(d) *Continuing education/training standards for all school nutrition program managers.* Each school year, the school food authority must ensure that all school nutrition program managers have completed 10 hours of annual continuing education/training. The annual training must include, but is not limited to, the following topics, as applicable: 
 
-(1) Administrative practices (including training in application, certification, verification, meal counting, and meal claiming procedures);
+(1) Administrative practices (including training in application, certification, verification, meal counting, and meal claiming procedures); 
 
-(2) The identification of reimbursable meals at the point of service;
+(2) The identification of reimbursable meals at the point of service; 
 
-(3) Nutrition;
+(3) Nutrition; 
 
-(4) Health and safety standards; and
+(4) Health and safety standards; and 
 
-(5) Any specific topics identified by FNS, as needed, to address Program integrity or other critical issues.
+(5) Any specific topics identified by FNS, as needed, to address Program integrity or other critical issues. 
 
-(e) *Continuing education/training standards for all staff with responsibility for school nutrition programs.* Each school year, the school food authority must ensure that all staff with responsibility for school nutrition programs that work an average of at least 20 hours per week, other than school nutrition program directors and managers, completes 6 hours of annual training in areas applicable to their jobs. Part-time staff working an average of less than 20 hours per week must complete 4 hours of annual training. The annual training must include, but is not limited to, the following topics, as applicable to their positions and responsibilities:
+(e) *Continuing education/training standards for all staff with responsibility for school nutrition programs.* Each school year, the school food authority must ensure that all staff with responsibility for school nutrition programs that work an average of at least 20 hours per week, other than school nutrition program directors and managers, completes 6 hours of annual training in areas applicable to their jobs. Part-time staff working an average of less than 20 hours per week must complete 4 hours of annual training. The annual training must include, but is not limited to, the following topics, as applicable to their positions and responsibilities: 
 
-(1) Free and reduced price eligibility;
+(1) Free and reduced price eligibility; 
 
-(2) Application, certification, and verification procedures;
+(2) Application, certification, and verification procedures; 
 
-(3) The identification of reimbursable meals at the point of service;
+(3) The identification of reimbursable meals at the point of service; 
 
-(4) Nutrition;
+(4) Nutrition; 
 
-(5) Health and safety standards; and
+(5) Health and safety standards; and 
 
-(6) Any specific topics identified by FNS, as needed, to address Program integrity or other critical issues.
+(6) Any specific topics identified by FNS, as needed, to address Program integrity or other critical issues. 
 
-(f) *Summary of required minimum continued education/training standards.* The annual training requirements for school nutrition program directors, managers, and staff are summarized in the following table.
+(f) *Summary of required minimum continued education/training standards.* The annual training requirements for school nutrition program directors, managers, and staff are summarized in the following table. 
 
 Table 1 to Paragraph (f)—Summary of Required Annual Training 1 2
 | School Nutrition Program Directors                                                                                                                                                                                                                                                                                        | Each year, at least 12 hours of annual education/training.   Includes topics such as:   • Administrative practices (including training in application, certification, verification, meal counting, and meal claiming procedures).                                                                                                |
@@ -91,14 +91,14 @@ Table 1 to Paragraph (f)—Summary of Required Annual Training 1 2
 | 1 School nutrition program directors, managers, and staff may carry over excess annual training hours to an immediately previous or subsequent school year and demonstrate compliance with the training requirements over a period of two school years, provided that some training hours are completed each school year. |                                                                                                                                                                                                                                                                                                                                  |
 | 2 Program directors, managers, and staff hired on or after January 1 of each school year must complete half of their required annual training hours by June 30 of the school year in which they were hired.                                                                                                               |                                                                                                                                                                                                                                                                                                                                  |
 
-(g) *Use of food service funds for training costs.* Costs associated with annual continuing education/training required under paragraphs (b)(3), (c) and (d) of this section are allowed provided they are reasonable, allocable, and necessary in accordance with the cost principles set forth in 2 CFR part 225, Cost Principles for State, Local and Indian Tribal Governments (OMB Circular A-87). However, food service funds must not be used to pay for the cost of college credits incurred by an individual to meet the hiring requirements in paragraphs (b)(1)(i) through (iv) and (b)(2) of this section.
+(g) *Use of food service funds for training costs.* Costs associated with annual continuing education/training required under paragraphs (b)(3), (c) and (d) of this section are allowed provided they are reasonable, allocable, and necessary in accordance with the cost principles set forth in 2 CFR part 225, Cost Principles for State, Local and Indian Tribal Governments (OMB Circular A-87). However, food service funds must not be used to pay for the cost of college credits incurred by an individual to meet the hiring requirements in paragraphs (b)(1)(i) through (iv) and (b)(2) of this section. 
 
-(h) *School food authority oversight.* Each school year, the school food authority director must document compliance with the requirements of this section for all staff with responsibility for school nutrition programs, including directors, managers, and staff. Documentation must be adequate to establish, to the State's satisfaction during administrative reviews, that employees are meeting the minimum professional standards. The school food authority must certify that:
+(h) *School food authority oversight.* Each school year, the school food authority director must document compliance with the requirements of this section for all staff with responsibility for school nutrition programs, including directors, managers, and staff. Documentation must be adequate to establish, to the State's satisfaction during administrative reviews, that employees are meeting the minimum professional standards. The school food authority must certify that: 
 
-(1) The school nutrition program director meets the hiring standards and training requirements set forth in paragraph (b) of this section.
+(1) The school nutrition program director meets the hiring standards and training requirements set forth in paragraph (b) of this section. 
 
-(2) Each employee has completed the applicable training requirements in paragraphs (c) and (d) of this section no later than the end of each school year.
+(2) Each employee has completed the applicable training requirements in paragraphs (c) and (d) of this section no later than the end of each school year. 
 
-(3) Each employee tasked with Program procurement has completed annual procurement training, as required under § 210.21(h), by the end of each school year.
+(3) Each employee tasked with Program procurement has completed annual procurement training, as required under § 210.21(h), by the end of each school year. 
 
 \[80 FR 11092, Mar. 2, 2015; 80 FR 26181, May 7, 2015. Redesignated at 81 FR 50169, July 29, 2016 and further redesignated and amended at 81 FR 93792, Dec. 22, 2016; 84 FR 6959, Mar. 1, 2019; 84 FR 8247, Mar. 7, 2019; 88 FR 57848, Aug. 23, 2023; 89 FR 32075, Apr. 25, 2024\]

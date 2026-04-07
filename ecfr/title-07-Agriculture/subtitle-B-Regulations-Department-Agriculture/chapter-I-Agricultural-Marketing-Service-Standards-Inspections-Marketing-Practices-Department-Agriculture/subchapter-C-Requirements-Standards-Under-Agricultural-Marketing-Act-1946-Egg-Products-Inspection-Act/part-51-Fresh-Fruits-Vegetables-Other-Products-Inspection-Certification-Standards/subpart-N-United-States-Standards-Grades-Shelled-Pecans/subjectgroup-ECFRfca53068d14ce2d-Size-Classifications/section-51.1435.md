@@ -1,16 +1,16 @@
 ##### § 51.1435 Size classifications for halves.
 
-The size of pecan halves in a lot may be specified in accordance with one of the size classifications shown in table 1 to this section.
+The size of pecan halves in a lot may be specified in accordance with one of the size classifications shown in table 1 to this section. 
 
-(a) *Halves per pound.* The number of halves per pound shall be based upon the weight of half-kernels after all pieces, meal and flour, shell, center wall, and foreign material have been removed.
+(a) *Halves per pound.* The number of halves per pound shall be based upon the weight of half-kernels after all pieces, meal and flour, shell, center wall, and foreign material have been removed. 
 
-(b) *Tolerance for count per pound.* In order to allow for variations incident to proper sizing, a tolerance shall be permitted as follows:
+(b) *Tolerance for count per pound.* In order to allow for variations incident to proper sizing, a tolerance shall be permitted as follows: 
 
-(1) When an exact number of halves per pound is specified, the actual count per pound may vary not more than 5 percent from the specified number, and
+(1) When an exact number of halves per pound is specified, the actual count per pound may vary not more than 5 percent from the specified number, and 
 
-(2) When any size classification shown in table 1 to this section or a range in count per pound is specified, no tolerance shall be allowed for counts outside of the specified range.
+(2) When any size classification shown in table 1 to this section or a range in count per pound is specified, no tolerance shall be allowed for counts outside of the specified range. 
 
-(c) *Tolerances for pieces, meal, and flour.* In order to allow for variations incident to proper sizing and handling, tolerances are provided for pieces, meal, and flour in any lot of halves. The tolerances, by weight, are as shown in table 2 to this section.
+(c) *Tolerances for pieces, meal, and flour.* In order to allow for variations incident to proper sizing and handling, tolerances are provided for pieces, meal, and flour in any lot of halves. The tolerances, by weight, are as shown in table 2 to this section. 
 
 Table 1 to § 51.1435
 | Size classification for halves                                                                                                                                                                                    | Number of halves @per pound |

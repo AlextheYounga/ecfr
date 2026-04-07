@@ -1,47 +1,47 @@
 ##### § 201.56-4 Cucurbit family, (Cucurbitaceae).
 
-Kinds of seed: Citron, cucumber, West India gherkin, melon, pumpkin, squash, and watermelon.
+Kinds of seed: Citron, cucumber, West India gherkin, melon, pumpkin, squash, and watermelon. 
 
-(a) General description.
+(a) General description. 
 
-(1) Germination habit: Epigeal dicot.
+(1) Germination habit: Epigeal dicot. 
 
-(2) Food reserves: Cotyledons which are large and fleshy; they expand, become photosynthetic, and usually persist beyond the seedling stage.
+(2) Food reserves: Cotyledons which are large and fleshy; they expand, become photosynthetic, and usually persist beyond the seedling stage. 
 
-(3) Shoot system: The hypocotyl elongates and the cotyledons are pulled free of the seed coat, which often adheres to a peg-like appendage at the base of the hypocotyl. The epicotyl usually does not show any development within the test period.
+(3) Shoot system: The hypocotyl elongates and the cotyledons are pulled free of the seed coat, which often adheres to a peg-like appendage at the base of the hypocotyl. The epicotyl usually does not show any development within the test period. 
 
-(4) Root system: A long primary root with numerous secondary roots.
+(4) Root system: A long primary root with numerous secondary roots. 
 
-(b) Abnormal seedling description.
+(b) Abnormal seedling description. 
 
-(1) Cotyledons:
+(1) Cotyledons: 
 
-(i) Less than half of the original cotyledon tissue remaining attached.
+(i) Less than half of the original cotyledon tissue remaining attached. 
 
-(ii) Less than half of the original cotyledon tissue free of necrosis or decay. (Remove any attached seed coats at the end of the test period for evaluation of cotyledons.)
+(ii) Less than half of the original cotyledon tissue free of necrosis or decay. (Remove any attached seed coats at the end of the test period for evaluation of cotyledons.) 
 
-(2) Epicotyl:
+(2) Epicotyl: 
 
-(i) Missing. (May be assumed to be present if the cotyledons are intact.)
+(i) Missing. (May be assumed to be present if the cotyledons are intact.) 
 
-(ii) \[Reserved\]
+(ii) \[Reserved\] 
 
-(3) Hypocotyl:
+(3) Hypocotyl: 
 
-(i) Deep open cracks extending into the conducting tissue.
+(i) Deep open cracks extending into the conducting tissue. 
 
-(ii) Malformed, such as markedly shortened, curled, or thickened.
+(ii) Malformed, such as markedly shortened, curled, or thickened. 
 
-(4) Root:
+(4) Root: 
 
-(i) None.
+(i) None. 
 
-(ii) Weak, stubby, or missing primary root, with less than two strong secondary or adventitious roots.
+(ii) Weak, stubby, or missing primary root, with less than two strong secondary or adventitious roots. 
 
-(5) Seedling:
+(5) Seedling: 
 
-(i) One or more essential structures impaired as a result of decay from primary infection.
+(i) One or more essential structures impaired as a result of decay from primary infection. 
 
-(ii) Albino.
+(ii) Albino. 
 
 \[59 FR 64501, Dec. 14, 1994\]

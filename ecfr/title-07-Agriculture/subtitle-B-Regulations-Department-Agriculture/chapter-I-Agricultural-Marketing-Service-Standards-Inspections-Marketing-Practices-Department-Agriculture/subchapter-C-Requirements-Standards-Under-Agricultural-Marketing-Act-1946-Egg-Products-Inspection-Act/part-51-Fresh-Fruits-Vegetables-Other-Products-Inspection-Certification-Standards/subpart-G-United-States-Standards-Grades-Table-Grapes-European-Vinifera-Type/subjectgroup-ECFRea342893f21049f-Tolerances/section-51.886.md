@@ -1,8 +1,8 @@
 ##### § 51.886 Tolerances.
 
-(a) No tolerances are provided in these standards for grapes which fail to meet the applicable maturity requirements other than the allowances specified in § 51.888 or in the sampling and testing procedures of State maturity regulations.
+(a) No tolerances are provided in these standards for grapes which fail to meet the applicable maturity requirements other than the allowances specified in § 51.888 or in the sampling and testing procedures of State maturity regulations. 
 
-(b) In order to allow for variations incident to proper grading and handling in each of the foregoing grades except U.S. No. 1 Institutional, tolerances, by weight, other than for maturity, are provided as set forth in Tables I and II.
+(b) In order to allow for variations incident to proper grading and handling in each of the foregoing grades except U.S. No. 1 Institutional, tolerances, by weight, other than for maturity, are provided as set forth in Tables I and II. 
 
 Table I—Tolerances at Shipping Point 1
 
@@ -31,7 +31,7 @@ Table II—Tolerances En Route or at Destination
 | (i) For serious damage by permanent defects                                                                  | 2  | 2  | 2  |
 | (ii) For decay                                                                                               | 1  | 1  | 1  |
 
-(c) In order to allow for variations incident to proper grading and handling in the U.S. No. 1 Institutional grade only, tolerances, by weight, other than for maturity, are provided as set forth in Tables Ia and IIa of this section.
+(c) In order to allow for variations incident to proper grading and handling in the U.S. No. 1 Institutional grade only, tolerances, by weight, other than for maturity, are provided as set forth in Tables Ia and IIa of this section. 
 
 Table Ia—Tolerances at Shipping Point for U.S. No. 1 Institutional Grade Only 1
 

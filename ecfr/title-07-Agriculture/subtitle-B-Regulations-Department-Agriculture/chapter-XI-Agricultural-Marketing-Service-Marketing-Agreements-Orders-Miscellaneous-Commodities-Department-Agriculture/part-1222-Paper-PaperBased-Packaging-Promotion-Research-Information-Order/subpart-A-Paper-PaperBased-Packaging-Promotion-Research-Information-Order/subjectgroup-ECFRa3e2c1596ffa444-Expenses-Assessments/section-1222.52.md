@@ -2,15 +2,15 @@
 
 Link to an amendment published at 90 FR 6783, Jan. 21, 2025.This amendment was delayed until Mar. 21, 2025 at 90 FR 9188, Feb. 10, 2025
 
-(a) The Board's programs and expenses shall be paid by assessments on manufacturers and importers, other income of the Board, and other funds available to the Board.
+(a) The Board's programs and expenses shall be paid by assessments on manufacturers and importers, other income of the Board, and other funds available to the Board. 
 
-(b) Subject to the exemptions specified in § 1222.53, each manufacturer and importer shall pay an assessment to the Board in the amount of 35 cents per short ton or its equivalent manufactured and imported. The assessment shall be on the roll of paper and paper-based packaging manufactured or imported, except that the assessment for cut-size printing and writing paper imported or made by domestic manufacturers prior to leaving the manufacturer's mill shall be on the cut-size paper.
+(b) Subject to the exemptions specified in § 1222.53, each manufacturer and importer shall pay an assessment to the Board in the amount of 35 cents per short ton or its equivalent manufactured and imported. The assessment shall be on the roll of paper and paper-based packaging manufactured or imported, except that the assessment for cut-size printing and writing paper imported or made by domestic manufacturers prior to leaving the manufacturer's mill shall be on the cut-size paper. 
 
-(c) At least 24 months after the Order becomes effective and periodically thereafter, the Board shall review and may recommend to the Secretary, upon an affirmative vote of at least two-thirds of the Board, a change in the assessment rate. A change in the assessment rate is subject to rulemaking by the Secretary.
+(c) At least 24 months after the Order becomes effective and periodically thereafter, the Board shall review and may recommend to the Secretary, upon an affirmative vote of at least two-thirds of the Board, a change in the assessment rate. A change in the assessment rate is subject to rulemaking by the Secretary. 
 
-(d) Domestic manufacturers shall remit to the Board the amount due no later than the 30th calendar day of the month following the end of the quarter in which the paper and paper-based packaging was manufactured.
+(d) Domestic manufacturers shall remit to the Board the amount due no later than the 30th calendar day of the month following the end of the quarter in which the paper and paper-based packaging was manufactured. 
 
-(e) Each importer of paper and paper-based packaging shall pay through Customs to the Board an assessment on the paper and paper-based packaging imported into the United States identified in the Harmonized Tariff Schedule of the United States (HTSUS) number listed in the following table. In the event that any HTSUS number subject to assessment is changed and such change is merely a replacement of a previous number and has no impact on the description of the paper and paper-based packaging involved, assessments will continue to be collected based on the new number.
+(e) Each importer of paper and paper-based packaging shall pay through Customs to the Board an assessment on the paper and paper-based packaging imported into the United States identified in the Harmonized Tariff Schedule of the United States (HTSUS) number listed in the following table. In the event that any HTSUS number subject to assessment is changed and such change is merely a replacement of a previous number and has no impact on the description of the paper and paper-based packaging involved, assessments will continue to be collected based on the new number. 
 
 Table 1 to § 1222.52(e)
 | Paper and paper-based packaging | Assessment   $/kg |
@@ -167,12 +167,12 @@ Table 1 to § 1222.52(e)
 | 4811.59.4020                    | 0.000386          |
 | 4811.90.8030                    | 0.000386          |
 
-(f) If Customs does not collect an assessment from an importer, the importer is responsible for paying the assessment directly to the Board within 30 calendar days after the end of the quarter in which the paper and paper-based packaging was imported.
+(f) If Customs does not collect an assessment from an importer, the importer is responsible for paying the assessment directly to the Board within 30 calendar days after the end of the quarter in which the paper and paper-based packaging was imported. 
 
-(g) When a manufacturer or importer fails to pay the assessment within 60 calendar days of the date it is due, the Board may impose a late payment charge and interest. The late payment charge and rate of interest shall be prescribed in regulations issued by the Secretary. All late assessments shall be subject to the specified late payment charge and interest. Persons failing to remit total assessments due in a timely manner may also be subject to actions under federal debt collection procedures.
+(g) When a manufacturer or importer fails to pay the assessment within 60 calendar days of the date it is due, the Board may impose a late payment charge and interest. The late payment charge and rate of interest shall be prescribed in regulations issued by the Secretary. All late assessments shall be subject to the specified late payment charge and interest. Persons failing to remit total assessments due in a timely manner may also be subject to actions under federal debt collection procedures. 
 
-(h) The Board may accept advance payment of assessments from any manufacturer or importer that will be credited toward any amount for which that person may become liable. The Board may not pay interest on any advance payment.
+(h) The Board may accept advance payment of assessments from any manufacturer or importer that will be credited toward any amount for which that person may become liable. The Board may not pay interest on any advance payment. 
 
-(i) If the Board is not in place by the date the first assessments are to be collected, the Secretary shall receive assessments and shall pay such assessments and any interest earned to the Board when it is formed.
+(i) If the Board is not in place by the date the first assessments are to be collected, the Secretary shall receive assessments and shall pay such assessments and any interest earned to the Board when it is formed. 
 
 \[79 FR 3706, Jan. 22, 2014, as amended at 88 FR 14485, Mar. 9, 2023\]

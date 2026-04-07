@@ -1,16 +1,16 @@
 ##### § 761.205 Computing the formula allocation.
 
-(a) The formula allocation for FO, CL, or OL loan funds is equal to:
+(a) The formula allocation for FO, CL, or OL loan funds is equal to: 
 
-(1) The amount available for allocation by the Agency minus the amounts held in the National Office reserve and distributed by base and administrative allocation, multiplied by
+(1) The amount available for allocation by the Agency minus the amounts held in the National Office reserve and distributed by base and administrative allocation, multiplied by 
 
-(2) The State Factor, which represents the percentage of the total amount of the funds for a loan program that the National Office allocates to a State Office.
+(2) The State Factor, which represents the percentage of the total amount of the funds for a loan program that the National Office allocates to a State Office. 
 
 formula allocation = (amount available for allocation−national reserve−base allocation−administrative allocation) × State Factor
 
-(b) To calculate the State Factor, the Agency:
+(b) To calculate the State Factor, the Agency: 
 
-(1) Uses the following criteria, data sources, and weights:
+(1) Uses the following criteria, data sources, and weights: 
 
 | Criteria                                                                             | Loan type criterion is used for | Data source                    | Weight for   FO loans   (percent) | Weight for   OL loans   (percent) |
 | ------------------------------------------------------------------------------------ | ------------------------------- | ------------------------------ | --------------------------------- | --------------------------------- |
@@ -21,10 +21,10 @@ formula allocation = (amount available for allocation−national reserve−base 
 | Value of farm real estate assets                                                     | FOs and CLs                     | USDA Economic Research Service | 10                                | N/A                               |
 | Value of farm non-real estate assets                                                 | OL loans                        | USDA Economic Research Service | N/A                               | 15                                |
 
-(2) Determines each State's percentage of the national total for each criterion;
+(2) Determines each State's percentage of the national total for each criterion; 
 
-(3) Multiplies the percentage for each State determined in paragraph (b)(2) of this section by the applicable weight for that criterion;
+(3) Multiplies the percentage for each State determined in paragraph (b)(2) of this section by the applicable weight for that criterion; 
 
-(4) Sums the weighted criteria for each State to obtain the State factor.
+(4) Sums the weighted criteria for each State to obtain the State factor. 
 
 \[72 FR 63285, Nov. 8, 2007, as amended at 75 FR 54013, Sept. 3, 2010\]

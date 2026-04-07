@@ -1,12 +1,12 @@
 ##### § 958.91 Order with marketing agreement.
 
-Each signatory handler requests the Secretary to issue, pursuant to the act, an order providing for regulating the handling of onions in the same manner as is provided for in this agreement.
+Each signatory handler requests the Secretary to issue, pursuant to the act, an order providing for regulating the handling of onions in the same manner as is provided for in this agreement. 
 
-The undersigned hereby authorizes the Director, or Acting Director, Market Development Division, Specialty Crops Program, Agricultural Marketing Service, United States Department of Agriculture, to correct any typographical errors which may have been made in this marketing agreement.
+The undersigned hereby authorizes the Director, or Acting Director, Market Development Division, Specialty Crops Program, Agricultural Marketing Service, United States Department of Agriculture, to correct any typographical errors which may have been made in this marketing agreement. 
 
-In witness whereof, the contracting parties, acting under the provisions of the act, for the purpose and subject to the limitations therein contained, and not otherwise, have hereto set their respective signatures and seals.
+In witness whereof, the contracting parties, acting under the provisions of the act, for the purpose and subject to the limitations therein contained, and not otherwise, have hereto set their respective signatures and seals. 
 
-\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_ 
 
 (Firm name) By: (Signature) 1
 

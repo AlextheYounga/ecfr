@@ -1,20 +1,20 @@
 ##### § 800.86 Inspection of shiplot, unit train, and lash barge grain in single lots.
 
-(a) *General.* Official inspection for grade of bulk or sacked grain aboard, or being loaded aboard, or being unloaded from a ship, unit train, or lash barges as a single lot shall be performed according to the provisions of this section and procedures prescribed in the instructions.
+(a) *General.* Official inspection for grade of bulk or sacked grain aboard, or being loaded aboard, or being unloaded from a ship, unit train, or lash barges as a single lot shall be performed according to the provisions of this section and procedures prescribed in the instructions. 
 
-(b) *Application procedure.* Applications for the official inspection of shiplot, unit train, and lash barges as a single lot shall:
+(b) *Application procedure.* Applications for the official inspection of shiplot, unit train, and lash barges as a single lot shall: 
 
-(1) Be filed in advance of loading or unloading;
+(1) Be filed in advance of loading or unloading; 
 
-(2) Show the estimated quantity of grain to be certificated;
+(2) Show the estimated quantity of grain to be certificated; 
 
-(3) Show the contract grade and official criteria if applicable; and
+(3) Show the contract grade and official criteria if applicable; and 
 
-(4) Identify the carrier and stowage area into which the grain is being loaded, or from which the grain is being unloaded, or in which the grain is at rest.
+(4) Identify the carrier and stowage area into which the grain is being loaded, or from which the grain is being unloaded, or in which the grain is at rest. 
 
-(c) *Inspection procedures*—(1) *General information.* Shiplot, unit train, and lash barge grain officially inspected as a single lot shall be sampled in a reasonably continuous operation. Representative samples shall be obtained from the grain offered for inspection and inspected and graded in accordance with a statistical acceptance sampling and inspection plan according to the provisions of this section and procedures prescribed in the instructions.
+(c) *Inspection procedures*—(1) *General information.* Shiplot, unit train, and lash barge grain officially inspected as a single lot shall be sampled in a reasonably continuous operation. Representative samples shall be obtained from the grain offered for inspection and inspected and graded in accordance with a statistical acceptance sampling and inspection plan according to the provisions of this section and procedures prescribed in the instructions. 
 
-(2) *Tolerances.* The probability of accepting or rejecting portions of the lot during loading or unloading is dependent on inspection results obtained from preceding portions and the applied breakpoints and procedures. Breakpoints shall be periodically reviewed and revised based on new estimates of inspection variability. Tables 1 through 24 list the breakpoints for all grains.
+(2) *Tolerances.* The probability of accepting or rejecting portions of the lot during loading or unloading is dependent on inspection results obtained from preceding portions and the applied breakpoints and procedures. Breakpoints shall be periodically reviewed and revised based on new estimates of inspection variability. Tables 1 through 24 list the breakpoints for all grains. 
 
 Table 1—Grade Limits (GL) and Breakpoints (BP) for Six-Rowed Malting Barley
 | Grade                                                                                                                         | Minimum limits of— | Maximum limits of— |
@@ -282,58 +282,58 @@ Table 24—Breakpoints for Wheat Special Grades and Factors
 | WHCB                    | Not more than 10% of other soft white wheat                    | 2.0        |
 | WWH                     | More than 10% WHCB and more than 10% of other soft white wheat | −3.0       |
 
-(3) *Grain accepted by the inspection plan.* Grain which is offered for inspection as part of a single lot and accepted by a statistical acceptance sampling and inspection plan according to the provisions of this section and procedures prescribed in the instructions shall be certificated as a single lot provided it was sampled in a reasonably continuous operation. Official factor and official criteria information shown on the certificate shall be based on the weighted or mathematical averages of the analysis of sublots.
+(3) *Grain accepted by the inspection plan.* Grain which is offered for inspection as part of a single lot and accepted by a statistical acceptance sampling and inspection plan according to the provisions of this section and procedures prescribed in the instructions shall be certificated as a single lot provided it was sampled in a reasonably continuous operation. Official factor and official criteria information shown on the certificate shall be based on the weighted or mathematical averages of the analysis of sublots. 
 
-(4) *Grain rejected by the inspection plan.* When grain which is offered for inspection as part of a single lot is rejected by the plan or is not sampled in a reasonably continuous operation, the grain in each portion shall be certificated separately. If any portion of grain is not accepted by the plan and designated a material portion, the applicant shall be promptly notified and have the option of:
+(4) *Grain rejected by the inspection plan.* When grain which is offered for inspection as part of a single lot is rejected by the plan or is not sampled in a reasonably continuous operation, the grain in each portion shall be certificated separately. If any portion of grain is not accepted by the plan and designated a material portion, the applicant shall be promptly notified and have the option of: 
 
-(i) Removing the material portion from the carrier; or
+(i) Removing the material portion from the carrier; or 
 
-(ii) Requesting the material portion be separately certificated; or
+(ii) Requesting the material portion be separately certificated; or 
 
-(iii) Requesting either a reinspection or an appeal inspection of the material portion; or
+(iii) Requesting either a reinspection or an appeal inspection of the material portion; or 
 
-(iv) Requesting a reinspection service and/or an appeal inspection service on the entire lot.
+(iv) Requesting a reinspection service and/or an appeal inspection service on the entire lot. 
 
-(5) *Reinspection service and appeal inspection service.* A reinspection or an appeal inspection may be requested on a material portion. A Board appeal inspection may also be requested on a material portion after the reinspection or appeal inspection. A reinspection, an appeal inspection, and a Board appeal inspection may be requested on the total sublots in the lot.
+(5) *Reinspection service and appeal inspection service.* A reinspection or an appeal inspection may be requested on a material portion. A Board appeal inspection may also be requested on a material portion after the reinspection or appeal inspection. A reinspection, an appeal inspection, and a Board appeal inspection may be requested on the total sublots in the lot. 
 
-(i) *Material portions.* A material portion designated by the plan may be reinspected or appeal inspected once in the field, but not both, and once at the Board of Appeals and Review. The reinspection or appeal inspection result shall, unless a material error is found, be averaged with the original inspection determination. The Board appeal inspection result shall, unless a material error is found, be averaged with the previous inspection result. The inspection plan tolerances shall be reapplied to the material portion grain to determine acceptance or rejection. If a material error is found, the reinspection or appeal inspection result shall replace the original inspection result or the Board appeal result shall replace the previous inspection result. For purposes of this section, a material error is defined as results differing by more than two standard deviations. Acceptance or rejection of that portion of grain shall be based on the reinspection or appeal inspection and on the Board appeal inspection result alone when a material error is found.
+(i) *Material portions.* A material portion designated by the plan may be reinspected or appeal inspected once in the field, but not both, and once at the Board of Appeals and Review. The reinspection or appeal inspection result shall, unless a material error is found, be averaged with the original inspection determination. The Board appeal inspection result shall, unless a material error is found, be averaged with the previous inspection result. The inspection plan tolerances shall be reapplied to the material portion grain to determine acceptance or rejection. If a material error is found, the reinspection or appeal inspection result shall replace the original inspection result or the Board appeal result shall replace the previous inspection result. For purposes of this section, a material error is defined as results differing by more than two standard deviations. Acceptance or rejection of that portion of grain shall be based on the reinspection or appeal inspection and on the Board appeal inspection result alone when a material error is found. 
 
-(ii) *Entire lot.* The applicant may request a reinspection service, an appeal inspection service, and a Board appeal inspection service on the entire lot. Inspection results for these services shall replace the previous inspection results. The tolerances shall be reapplied to all portions of the entire lot to determine acceptance or rejection.
+(ii) *Entire lot.* The applicant may request a reinspection service, an appeal inspection service, and a Board appeal inspection service on the entire lot. Inspection results for these services shall replace the previous inspection results. The tolerances shall be reapplied to all portions of the entire lot to determine acceptance or rejection. 
 
-(d) *Infested grain*—(1) *Available options.* If gain or any portion of grain in a single shiplot, unit train, or lash barge lot is found to be infested, according to the provisions of the Official U.S. Standards for Grain, the applicant shall be promptly notified and have the option of:
+(d) *Infested grain*—(1) *Available options.* If gain or any portion of grain in a single shiplot, unit train, or lash barge lot is found to be infested, according to the provisions of the Official U.S. Standards for Grain, the applicant shall be promptly notified and have the option of: 
 
-(i) Unloading the portion of infested grain from the lot and an additional amount of other grain in common stowage with the infested grain; or
+(i) Unloading the portion of infested grain from the lot and an additional amount of other grain in common stowage with the infested grain; or 
 
-(ii) When applicable, completing the loading and treating all infested grain in the lot; or
+(ii) When applicable, completing the loading and treating all infested grain in the lot; or 
 
-(iii) When applicable, treating the infested grain for the purpose of destroying the insects, subject to subsequent examination by official personnel; or
+(iii) When applicable, treating the infested grain for the purpose of destroying the insects, subject to subsequent examination by official personnel; or 
 
-(iv) Continue loading without treating the infested grain, in which case all of the infested grain in the lot and all grain in common stowage areas with the infested grain will be officially certificated as infested according to the provisions of the Official U.S. Standards for Grain.
+(iv) Continue loading without treating the infested grain, in which case all of the infested grain in the lot and all grain in common stowage areas with the infested grain will be officially certificated as infested according to the provisions of the Official U.S. Standards for Grain. 
 
-(2) *Exception.* If infested grain in loaded into common stowage with a lot, or a portion of a lot, which has not been officially certificated as being infested, the applicant loading the infested grain may not use the option in paragraph (d)(1)(i) of this section.
+(2) *Exception.* If infested grain in loaded into common stowage with a lot, or a portion of a lot, which has not been officially certificated as being infested, the applicant loading the infested grain may not use the option in paragraph (d)(1)(i) of this section. 
 
-(3) *With treatment.* If infested grain is treated with a fumigant in accordance with the instructions and the treatment is witnessed by official personnel, the official sampling, inspection, grading, and certification of the lot shall continue as though the infested condition did not exist.
+(3) *With treatment.* If infested grain is treated with a fumigant in accordance with the instructions and the treatment is witnessed by official personnel, the official sampling, inspection, grading, and certification of the lot shall continue as though the infested condition did not exist. 
 
-(e) *Special certification procedures*—(1) *Rejected grain.* When grain is rejected by the inspection plan under paragraph (c)(4) of this section, the official inspection certificate for each different portion of different quality shall show:
+(e) *Special certification procedures*—(1) *Rejected grain.* When grain is rejected by the inspection plan under paragraph (c)(4) of this section, the official inspection certificate for each different portion of different quality shall show: 
 
-(i) A statement that the grain has been loaded aboard with grain of other quality;
+(i) A statement that the grain has been loaded aboard with grain of other quality; 
 
-(ii) The grade, location, or other identification and approximate quanity of grain in the portions; and
+(ii) The grade, location, or other identification and approximate quanity of grain in the portions; and 
 
-(iii) Other information required by the regulations and the instructions.
+(iii) Other information required by the regulations and the instructions. 
 
 The requirement of paragraph (e)(1)(i) of this section does not apply to grain that is inspected as it is unloaded from the carrier or to portions loaded in separate carriers or stowage space.
 
-(2) *Common stowage.* (i) *Without separation.* When bulk grain is offered for official inspection as it is loaded aboard a ship and is loaded without separation in a stowage area with other grain or another commodity, the official inspection certificate for the grain in each lot shall show the kind, the grade, if known, and the location of the other grain, or the kind and location of the other commodity in the adjacent lots.
+(2) *Common stowage.* (i) *Without separation.* When bulk grain is offered for official inspection as it is loaded aboard a ship and is loaded without separation in a stowage area with other grain or another commodity, the official inspection certificate for the grain in each lot shall show the kind, the grade, if known, and the location of the other grain, or the kind and location of the other commodity in the adjacent lots. 
 
-(ii) *With separation.* When separations are laid between lots, the official inspection certificates shall show the kind of material used in the separations and the locations of the separations in relation to each lot.
+(ii) *With separation.* When separations are laid between lots, the official inspection certificates shall show the kind of material used in the separations and the locations of the separations in relation to each lot. 
 
-(iii) *Exception.* The common stowage requirements of this paragraph are not applicable to the first lot in a stowage area unless a second lot is loaded, in whole or in part, in the stowage area prior to issuing the official inspection certificate for the first lot.
+(iii) *Exception.* The common stowage requirements of this paragraph are not applicable to the first lot in a stowage area unless a second lot is loaded, in whole or in part, in the stowage area prior to issuing the official inspection certificate for the first lot. 
 
-(3) *Protein.* A special statement indicating the actual protein range of a lot shall be shown on the official inspection certificate if the difference between the lowest and highest protein determinations for the lot exceeds 1.0 percent when protein is officially determined and a specific range limit is not established by the contract grade.
+(3) *Protein.* A special statement indicating the actual protein range of a lot shall be shown on the official inspection certificate if the difference between the lowest and highest protein determinations for the lot exceeds 1.0 percent when protein is officially determined and a specific range limit is not established by the contract grade. 
 
-(4) *Part lot.* If part of a lot of grain in an inbound carrier is unloaded and part is left in the carrier, the unloaded grain shall be officially inspected and certificated in accordance with the provisions of § 800.84(g).
+(4) *Part lot.* If part of a lot of grain in an inbound carrier is unloaded and part is left in the carrier, the unloaded grain shall be officially inspected and certificated in accordance with the provisions of § 800.84(g). 
 
-(5) *Official mark.* If the grain in a single lot is officially inspected for grade as it is being loaded, upon request, the following official mark shall be shown on the inspection certificate: “Loaded under continuous official inspection.”
+(5) *Official mark.* If the grain in a single lot is officially inspected for grade as it is being loaded, upon request, the following official mark shall be shown on the inspection certificate: “Loaded under continuous official inspection.” 
 
 \[55 FR 24042, June 13, 1990; 55 FR 46131, Nov. 1, 1990, as amended at 56 FR 4675, Feb. 5, 1991; 57 FR 58965, 58970, Dec. 14, 1992; 61 FR 18490, Apr. 26, 1996; 63 FR 20056, Apr. 23, 1998; 64 FR 6783, Feb. 11, 1999; 71 FR 52405, Sept. 6, 2006; 71 FR 77853, Dec. 27, 2006; 73 FR 39732, July 20, 2007; 82 FR 20543, May 3, 2017; 88 FR 45056, Sept. 1, 2023\]

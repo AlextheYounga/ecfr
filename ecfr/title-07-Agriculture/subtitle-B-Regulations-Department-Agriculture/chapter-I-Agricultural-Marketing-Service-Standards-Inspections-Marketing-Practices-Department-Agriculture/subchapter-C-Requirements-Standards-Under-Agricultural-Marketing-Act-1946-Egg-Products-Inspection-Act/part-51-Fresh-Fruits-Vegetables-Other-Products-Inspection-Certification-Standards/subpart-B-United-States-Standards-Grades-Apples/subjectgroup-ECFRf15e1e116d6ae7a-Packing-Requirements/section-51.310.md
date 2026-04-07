@@ -6,10 +6,10 @@
 
 3 “Fairly well filled” means that the net weight of apples in containers ranging from 2,100 to 2,900 cubic inch capacity is not less than 37 pounds for Cortland, Gravenstein, Jonathan, McIntosh and Golden Delicious varieties and not less than 40 pounds for all other varieties.
 
-(b) Closed cartons containing apples not tray or cell packed shall be fairly well filled or the pack shall be sufficiently tight to prevent any appreciable movement of the apples.
+(b) Closed cartons containing apples not tray or cell packed shall be fairly well filled or the pack shall be sufficiently tight to prevent any appreciable movement of the apples. 
 
-(c) Packs in wooden boxes or baskets shall be sufficiently tight to prevent any appreciable movement of apples within containers when the packages are closed. Each wrapped apple shall be completely enclosed by its individual wrapper.
+(c) Packs in wooden boxes or baskets shall be sufficiently tight to prevent any appreciable movement of apples within containers when the packages are closed. Each wrapped apple shall be completely enclosed by its individual wrapper. 
 
-(d) Apples on the shown face of any container shall be reasonably representative in size, color and quality of the contents.
+(d) Apples on the shown face of any container shall be reasonably representative in size, color and quality of the contents. 
 
 (e) Tolerances: In order to allow for variations incident to proper packing, not more than 10 percent of the containers in any lot may fail to meet these requirements.

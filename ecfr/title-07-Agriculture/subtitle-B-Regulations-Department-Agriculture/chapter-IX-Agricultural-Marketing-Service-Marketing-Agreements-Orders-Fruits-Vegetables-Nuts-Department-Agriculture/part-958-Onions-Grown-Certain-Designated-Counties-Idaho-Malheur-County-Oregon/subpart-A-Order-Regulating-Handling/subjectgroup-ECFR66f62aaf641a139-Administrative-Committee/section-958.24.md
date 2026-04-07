@@ -1,11 +1,11 @@
 ##### § 958.24 Powers.
 
-The committee shall have the following powers:
+The committee shall have the following powers: 
 
-(a) To administer the provisions of this part in accordance with its terms;
+(a) To administer the provisions of this part in accordance with its terms; 
 
-(b) To make rules and regulations to effectuate the terms and provisions of this part;
+(b) To make rules and regulations to effectuate the terms and provisions of this part; 
 
-(c) To receive, investigate, and report to the Secretary complaints of violations of the provisions of this part; and
+(c) To receive, investigate, and report to the Secretary complaints of violations of the provisions of this part; and 
 
 (d) To recommend to the Secretary amendments to this part.

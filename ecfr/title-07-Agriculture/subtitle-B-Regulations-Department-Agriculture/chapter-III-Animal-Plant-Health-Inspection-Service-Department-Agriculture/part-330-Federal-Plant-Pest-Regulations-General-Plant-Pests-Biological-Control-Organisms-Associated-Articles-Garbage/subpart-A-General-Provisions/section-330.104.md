@@ -1,6 +1,6 @@
 ##### § 330.104 Ports of entry.
 
-Ports of entry for plant pests, means of conveyance, or other products or articles of any character whatsoever the entry or movement of which is regulated by the regulations in this part may be specified in administrative instructions or in the permits if permits are required by the regulations. The ports of entry shall be those named in 19 CFR 101.3(b)(1), except as otherwise provided by administrative instructions or by permits issued in accordance with this part, and except those ports of entry listed below.
+Ports of entry for plant pests, means of conveyance, or other products or articles of any character whatsoever the entry or movement of which is regulated by the regulations in this part may be specified in administrative instructions or in the permits if permits are required by the regulations. The ports of entry shall be those named in 19 CFR 101.3(b)(1), except as otherwise provided by administrative instructions or by permits issued in accordance with this part, and except those ports of entry listed below. 
 
 List of Exceptions to Customs Designated Ports of Entry
 | State        | Port of entry |

@@ -1,6 +1,6 @@
 ##### § 900.601 OMB control numbers assigned pursuant to the Paperwork Reduction Act.
 
-(a) *Purpose.* This section collects and displays the control numbers assigned to information collection requirements by the Office of Management and Budget contained in 7 CFR parts 905 through 998 under the Paperwork Reduction Act of 1995.
+(a) *Purpose.* This section collects and displays the control numbers assigned to information collection requirements by the Office of Management and Budget contained in 7 CFR parts 905 through 998 under the Paperwork Reduction Act of 1995. 
 
 (b) *Display.*
 

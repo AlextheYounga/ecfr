@@ -1,6 +1,6 @@
 ##### § 989.601 Conversion factors for raisin weight.
 
-The following factors for the named varietal types of raisins shall be used to convert the net weight of reconditioned raisins acquired by handlers as packed raisins to natural condition weight. The net weight of the raisins after the completion of processing shall be divided by the applicable factor to obtain the natural condition weight: *Provided,* That the adjusted weight does not exceed the original weight of the raisins prior to reconditioning; and *Provided further,* That, if the adjusted weight exceeds the original weight, the original weight will be used.
+The following factors for the named varietal types of raisins shall be used to convert the net weight of reconditioned raisins acquired by handlers as packed raisins to natural condition weight. The net weight of the raisins after the completion of processing shall be divided by the applicable factor to obtain the natural condition weight: *Provided,* That the adjusted weight does not exceed the original weight of the raisins prior to reconditioning; and *Provided further,* That, if the adjusted weight exceeds the original weight, the original weight will be used. 
 
 | Varietal type                                                                 | Conversion factor |
 | ----------------------------------------------------------------------------- | ----------------- |

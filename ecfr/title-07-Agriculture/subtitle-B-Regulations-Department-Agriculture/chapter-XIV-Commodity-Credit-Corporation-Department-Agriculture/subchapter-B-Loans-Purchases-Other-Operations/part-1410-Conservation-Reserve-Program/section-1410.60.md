@@ -1,7 +1,7 @@
 ##### § 1410.60 Scheme or device.
 
-(a) If CCC determines that a person has employed a scheme or device to defeat the purposes of this part, or any part of any CCC or USDA program, payment otherwise due or paid such person during the applicable period may be required to be refunded with interest as determined by CCC.
+(a) If CCC determines that a person has employed a scheme or device to defeat the purposes of this part, or any part of any CCC or USDA program, payment otherwise due or paid such person during the applicable period may be required to be refunded with interest as determined by CCC. 
 
-(b) A scheme or device includes, but is not limited to, coercion, fraud, misrepresentation, depriving any other person of cost-share, incentive, or annual rental payments, or obtaining a payment that otherwise would not be payable.
+(b) A scheme or device includes, but is not limited to, coercion, fraud, misrepresentation, depriving any other person of cost-share, incentive, or annual rental payments, or obtaining a payment that otherwise would not be payable. 
 
 (c) A new owner or operator or tenant of land subject to a CRP contract, and who succeeds to the CRP contract, must report in writing to CCC any interest of any kind in such land that is retained by a previous participant. The interest will include a present, future, or conditional interest, reversionary interest, or any option, future or present, on such land, and any interest of any lender in the land where the lender has, will, or can legally obtain, a right of occupancy to such land or an interest in the equity in the land other than an interest in the appreciation in the value of the land occurring after the loan was made. Failure to fully disclose interest will be considered a scheme or device.

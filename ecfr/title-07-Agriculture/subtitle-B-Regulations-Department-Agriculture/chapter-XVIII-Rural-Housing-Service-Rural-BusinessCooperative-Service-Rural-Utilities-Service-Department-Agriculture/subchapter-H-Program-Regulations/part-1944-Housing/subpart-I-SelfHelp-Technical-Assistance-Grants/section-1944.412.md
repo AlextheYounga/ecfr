@@ -1,6 +1,6 @@
 ##### § 1944.412 Docket preparation.
 
-When the application and all items required for the complete docket have been received, the District Director will thoroughly examine it to insure the application has been properly and accurately prepared and that it includes the required dates and signatures. The docket items will be assembled and distributed by the District Director in the following order:
+When the application and all items required for the complete docket have been received, the District Director will thoroughly examine it to insure the application has been properly and accurately prepared and that it includes the required dates and signatures. The docket items will be assembled and distributed by the District Director in the following order: 
 
 | Form No.      | Name of form or document                                   | Total No. of copies | Signed by applicant | No. for agreement docket | Copy for applicant |
 | ------------- | ---------------------------------------------------------- | ------------------- | ------------------- | ------------------------ | ------------------ |

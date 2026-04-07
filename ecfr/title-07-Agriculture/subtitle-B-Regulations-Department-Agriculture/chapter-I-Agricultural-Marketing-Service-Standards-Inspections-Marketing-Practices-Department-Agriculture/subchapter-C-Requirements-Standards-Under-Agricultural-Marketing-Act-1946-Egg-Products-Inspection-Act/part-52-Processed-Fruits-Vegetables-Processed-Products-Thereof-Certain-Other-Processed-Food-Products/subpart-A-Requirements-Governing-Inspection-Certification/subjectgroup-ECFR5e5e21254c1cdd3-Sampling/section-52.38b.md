@@ -1,46 +1,46 @@
 ##### § 52.38b Statistical sampling procedures for on-line inspection by attributes of processed fruits and vegetables.
 
-(a) *General.* The Cumulative Sum Sampling Plan, hereinafter referred to as “CuSum,” shall be used as the on-line sampling plan for attributes standards under the following conditions.
+(a) *General.* The Cumulative Sum Sampling Plan, hereinafter referred to as “CuSum,” shall be used as the on-line sampling plan for attributes standards under the following conditions. 
 
-(1) The producer has designated the intended grade for the basic inspection period prior to the start of production.
+(1) The producer has designated the intended grade for the basic inspection period prior to the start of production. 
 
-(2) Inspection of the product shall be made during the basic inspection period at a point after which all product characteristics, subject to inspection, are fixed and will not be subject to change during final packaging.
+(2) Inspection of the product shall be made during the basic inspection period at a point after which all product characteristics, subject to inspection, are fixed and will not be subject to change during final packaging. 
 
-(3) A shift to CuSum sampling plans from lot sampling plans during a basic inspection period is not permitted (or vice versa).
+(3) A shift to CuSum sampling plans from lot sampling plans during a basic inspection period is not permitted (or vice versa). 
 
-(b) *Sampling rate/frequency.* The minimum number of standard sample units to be drawn at random shall be determined by the applicable sampling procedure as approved by the Administrator.
+(b) *Sampling rate/frequency.* The minimum number of standard sample units to be drawn at random shall be determined by the applicable sampling procedure as approved by the Administrator. 
 
-(c) *Determining CuSum values.* At the beginning of the basic inspection period, the CuSum value is set equal to the starting value (“S”) for the specified CuSum plan. The CuSum value is then determined for each consecutive sample unit as follows:
+(c) *Determining CuSum values.* At the beginning of the basic inspection period, the CuSum value is set equal to the starting value (“S”) for the specified CuSum plan. The CuSum value is then determined for each consecutive sample unit as follows: 
 
-(1) Add the number of defects (or defectives) for the present sample unit to the CuSum value of the previous sample unit.
+(1) Add the number of defects (or defectives) for the present sample unit to the CuSum value of the previous sample unit. 
 
-(2) Subtract the sample unit tolerance (“T”).
+(2) Subtract the sample unit tolerance (“T”). 
 
-(3) The CuSum value is reset in the following situations. However, determine compliance with the designated grade (see paragraph (d) of this section) prior to resetting the CuSum value:
+(3) The CuSum value is reset in the following situations. However, determine compliance with the designated grade (see paragraph (d) of this section) prior to resetting the CuSum value: 
 
-(i) Reset the CuSum value to zero (0) if the CuSum value is less than zero (0).
+(i) Reset the CuSum value to zero (0) if the CuSum value is less than zero (0). 
 
-(ii) Reset the CuSum value to the acceptance limit (“L”) if the CuSum value exceeds the acceptance limit (“L”).
+(ii) Reset the CuSum value to the acceptance limit (“L”) if the CuSum value exceeds the acceptance limit (“L”). 
 
-(d) *Determining compliance for a designated grade.* (1) A portion of production meets the designated grade if the CuSum value, calculated from the sample unit representing that portion, is equal to or less than the acceptance limit (“L”) for all classes of defects.
+(d) *Determining compliance for a designated grade.* (1) A portion of production meets the designated grade if the CuSum value, calculated from the sample unit representing that portion, is equal to or less than the acceptance limit (“L”) for all classes of defects. 
 
-(2) A portion of production fails the designated grade if the CuSum value, calculated from the sample unit representing that portion, exceeds the acceptance limit (“L”) for one or more classes of defects.
+(2) A portion of production fails the designated grade if the CuSum value, calculated from the sample unit representing that portion, exceeds the acceptance limit (“L”) for one or more classes of defects. 
 
-(e) *Evaluation of production failing a designated grade.* Production failing a designated grade shall be reevaluated by procedures approved by the USDA.
+(e) *Evaluation of production failing a designated grade.* Production failing a designated grade shall be reevaluated by procedures approved by the USDA. 
 
-(f) *Assigning a grade.* (1) All similarly identified (e.g., codes, subcodes, etc.) production will be assigned the same grade.
+(f) *Assigning a grade.* (1) All similarly identified (e.g., codes, subcodes, etc.) production will be assigned the same grade. 
 
-(2) The grade assigned to similarly identified production will be the lowest grade assigned to any portion of that similarly identified production.
+(2) The grade assigned to similarly identified production will be the lowest grade assigned to any portion of that similarly identified production. 
 
-(g) *Redesignation of producer's intended grade.* If the intended grade is redesignated during a basic inspection period, a new CuSum sampling plan shall be instituted for each class of defects (or defectives).
+(g) *Redesignation of producer's intended grade.* If the intended grade is redesignated during a basic inspection period, a new CuSum sampling plan shall be instituted for each class of defects (or defectives). 
 
-(h) *Cumulative Sum Sampling (CuSum) Plans for processed fruits and vegetables.* (1) Tables VI through X contain the CuSum sampling plans for each of five different standard sample unit sizes. The plans within each table are listed according to increasing values of Acceptable Quality Levels (AQL's).
+(h) *Cumulative Sum Sampling (CuSum) Plans for processed fruits and vegetables.* (1) Tables VI through X contain the CuSum sampling plans for each of five different standard sample unit sizes. The plans within each table are listed according to increasing values of Acceptable Quality Levels (AQL's). 
 
-(2) AQL values of 10.0 or less may be expressed either in “defects per hundred units” or in “percent defective units.” The same sampling plans are used for both. Separate sampling plans must be used for AQL values greater than 10.0.
+(2) AQL values of 10.0 or less may be expressed either in “defects per hundred units” or in “percent defective units.” The same sampling plans are used for both. Separate sampling plans must be used for AQL values greater than 10.0. 
 
-(3) These tables also provide the quality levels associated with 50 percent and 10 percent probabilities of acceptance for each of the plans. These quality levels are expressed in the same units as the corresponding AQL values.
+(3) These tables also provide the quality levels associated with 50 percent and 10 percent probabilities of acceptance for each of the plans. These quality levels are expressed in the same units as the corresponding AQL values. 
 
-(4) A separate CuSum sampling plan is chosen for each class of defects (or defectives) by first specifying the desired AQL and then selecting the appropriate standard sample unit size. The quality levels associated with 50 percent and 10 percent probabilities of acceptance may be used as guides to help determine a suitable standard sample unit size.
+(4) A separate CuSum sampling plan is chosen for each class of defects (or defectives) by first specifying the desired AQL and then selecting the appropriate standard sample unit size. The quality levels associated with 50 percent and 10 percent probabilities of acceptance may be used as guides to help determine a suitable standard sample unit size. 
 
 Table VI—CuSum Sampling Plans
 

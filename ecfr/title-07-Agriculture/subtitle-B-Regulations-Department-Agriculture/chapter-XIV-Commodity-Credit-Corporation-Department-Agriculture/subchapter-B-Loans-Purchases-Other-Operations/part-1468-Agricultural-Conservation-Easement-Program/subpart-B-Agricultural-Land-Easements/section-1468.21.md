@@ -1,5 +1,5 @@
 ##### § 1468.21 Application procedures.
 
-(a) To apply for enrollment an eligible entity must submit an entity application for an ALE-agreement and any associated individual parcel applications to NRCS. For buy-protect-sell transactions, additional information may be required at the time of application as identified by NRCS.
+(a) To apply for enrollment an eligible entity must submit an entity application for an ALE-agreement and any associated individual parcel applications to NRCS. For buy-protect-sell transactions, additional information may be required at the time of application as identified by NRCS. 
 
 (b) NRCS may conduct initial eligibility determinations for the fiscal year an application is submitted. As determined by NRCS, the entity eligibility requirements must be met for the fiscal year in which the ALE-agreement is executed, and the land and landowner must be eligible for the fiscal year the parcel is approved for funding through an ALE-agreement. NRCS eligibility determinations are based on the application materials provided by the eligible entity, onsite assessments, and the criteria in § 1468.20.

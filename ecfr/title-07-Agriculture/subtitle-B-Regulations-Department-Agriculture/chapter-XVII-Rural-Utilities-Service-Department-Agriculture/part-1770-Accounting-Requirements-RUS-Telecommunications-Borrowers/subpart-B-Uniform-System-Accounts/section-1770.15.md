@@ -1,6 +1,6 @@
 ##### § 1770.15 Supplementary accounts required of all borrowers.
 
-Accounts prescribed in the Stockholders' Equity and Patronage Capital section shall be maintained by stock companies and cooperatives as appropriate.
+Accounts prescribed in the Stockholders' Equity and Patronage Capital section shall be maintained by stock companies and cooperatives as appropriate. 
 
 | Class of company | Account title |
 | ---------------- | ------------- |

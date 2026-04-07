@@ -1,6 +1,6 @@
 ##### § 801.3 Tolerances for barley pearlers.
 
-The maintenance tolerances for barley pearlers used in performing official inspection services shall be:
+The maintenance tolerances for barley pearlers used in performing official inspection services shall be: 
 
 | Item             | Tolerance                                                           |
 | ---------------- | ------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 ##### § 1980.473 Additional loans or advances.
 
-(Refer to paragraph XIII of Form RD 449-35.)
+(Refer to paragraph XIII of Form RD 449-35.) 
 
 Administrative
 

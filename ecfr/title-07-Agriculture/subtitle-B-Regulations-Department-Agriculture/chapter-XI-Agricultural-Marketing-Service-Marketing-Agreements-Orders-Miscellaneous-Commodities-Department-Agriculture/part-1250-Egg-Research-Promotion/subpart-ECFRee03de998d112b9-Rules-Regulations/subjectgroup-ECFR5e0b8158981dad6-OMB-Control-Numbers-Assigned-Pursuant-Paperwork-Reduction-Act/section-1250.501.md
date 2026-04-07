@@ -1,6 +1,6 @@
 ##### § 1250.501 OMB control numbers assigned pursuant to the Paperwork Reduction Act.
 
-(a) *Purpose.* This section collects and displays the control numbers assigned to information collection requirements by the Office of Management and Budget contained in 7 CFR part 1250 pursuant to the Paperwork Reduction Act of 1980, Pub. L. 96-511.
+(a) *Purpose.* This section collects and displays the control numbers assigned to information collection requirements by the Office of Management and Budget contained in 7 CFR part 1250 pursuant to the Paperwork Reduction Act of 1980, Pub. L. 96-511. 
 
 (b) *Display.*
 

@@ -1,6 +1,6 @@
 ##### § 51.892 Color terms.
 
-The color terms *well colored, reasonably well colored,* and *fairly well colored* are defined in Table IV.
+The color terms *well colored, reasonably well colored,* and *fairly well colored* are defined in Table IV. 
 
 Table IV
 | Color terms                                                                                                                                                                                                                                                           | Black varieties                                                                                           | Red varieties                                                                                                                                                                                                                                 | White varieties |

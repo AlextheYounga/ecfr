@@ -1,28 +1,28 @@
 ##### § 301.74-5 Compensation.
 
-(a) *Eligibility.* The following individuals are eligible to receive compensation from the U.S. Department of Agriculture to mitigate losses or expenses incurred because of the plum pox quarantine and emergency actions:
+(a) *Eligibility.* The following individuals are eligible to receive compensation from the U.S. Department of Agriculture to mitigate losses or expenses incurred because of the plum pox quarantine and emergency actions: 
 
-(1) *Owners of commercial stone fruit orchards.* Owners of commercial stone fruit orchards are eligible to receive compensation for losses associated with the destruction of trees in order to control plum pox pursuant to an emergency action notification issued by the Animal and Plant Health Inspection Service (APHIS).
+(1) *Owners of commercial stone fruit orchards.* Owners of commercial stone fruit orchards are eligible to receive compensation for losses associated with the destruction of trees in order to control plum pox pursuant to an emergency action notification issued by the Animal and Plant Health Inspection Service (APHIS). 
 
-(i) *Direct marketers.* Orchard owners eligible for compensation under this paragraph who market all fruit they produce under the conditions described in this paragraph may receive compensation at the rates specified in paragraph (b)(1)(i) of this section. In order to be eligible to receive compensation at the rates specified in paragraph (b)(1)(i) of this section, orchard owners must have marketed fruit produced in orchards subsequently destroyed because of plum pox under the following conditions:
+(i) *Direct marketers.* Orchard owners eligible for compensation under this paragraph who market all fruit they produce under the conditions described in this paragraph may receive compensation at the rates specified in paragraph (b)(1)(i) of this section. In order to be eligible to receive compensation at the rates specified in paragraph (b)(1)(i) of this section, orchard owners must have marketed fruit produced in orchards subsequently destroyed because of plum pox under the following conditions: 
 
-(A) The fruit must have been sold exclusively at farmers markets or similar outlets that require orchard owners to sell only fruit that they produce;
+(A) The fruit must have been sold exclusively at farmers markets or similar outlets that require orchard owners to sell only fruit that they produce; 
 
-(B) The fruit must not have been marketed wholesale or at reduced prices in bulk to supermarkets or other retail outlets;
+(B) The fruit must not have been marketed wholesale or at reduced prices in bulk to supermarkets or other retail outlets; 
 
-(C) The fruit must have been marketed directly to consumers; and
+(C) The fruit must have been marketed directly to consumers; and 
 
-(D) Orchard owners must have records documenting that they have met the requirements of this section, and must submit those records to APHIS as part of their application submitted in accordance with paragraph (c) of this section.
+(D) Orchard owners must have records documenting that they have met the requirements of this section, and must submit those records to APHIS as part of their application submitted in accordance with paragraph (c) of this section. 
 
-(ii) *All other orchard owners.* Orchard owners eligible for compensation under this paragraph who do not meet the requirements of paragraph (a)(1)(i) of this section are eligible for compensation only in accordance with paragraph (b)(1)(ii) of this section.
+(ii) *All other orchard owners.* Orchard owners eligible for compensation under this paragraph who do not meet the requirements of paragraph (a)(1)(i) of this section are eligible for compensation only in accordance with paragraph (b)(1)(ii) of this section. 
 
-(2) *Owners of fruit tree nurseries.* The owner of a fruit tree nursery will be eligible to receive compensation for net revenue losses associated with the prohibition on the movement or sale of nursery stock as a result of the issuance of an emergency action notification by APHIS with respect to regulated articles within the nursery in order to control plum pox.
+(2) *Owners of fruit tree nurseries.* The owner of a fruit tree nursery will be eligible to receive compensation for net revenue losses associated with the prohibition on the movement or sale of nursery stock as a result of the issuance of an emergency action notification by APHIS with respect to regulated articles within the nursery in order to control plum pox. 
 
-(3) *Owners of non-fruit-bearing ornamental tree nurseries.* The owner of a non-fruit-bearing ornamental tree nursery will be eligible to receive compensation for net revenue losses associated with the prohibition on the movement or sale of nursery stock as a result of the issuance of an emergency action notification by APHIS with respect to regulated articles within the nursery in order to control plum pox.
+(3) *Owners of non-fruit-bearing ornamental tree nurseries.* The owner of a non-fruit-bearing ornamental tree nursery will be eligible to receive compensation for net revenue losses associated with the prohibition on the movement or sale of nursery stock as a result of the issuance of an emergency action notification by APHIS with respect to regulated articles within the nursery in order to control plum pox. 
 
-(b) *Amount of payment.* Upon approval of a claim submitted in accordance with paragraph (c) of this section, individuals eligible for compensation under paragraph (a) of this section will be paid at the rates indicated in this paragraph.
+(b) *Amount of payment.* Upon approval of a claim submitted in accordance with paragraph (c) of this section, individuals eligible for compensation under paragraph (a) of this section will be paid at the rates indicated in this paragraph. 
 
-(1) *Owners of commercial stone fruit orchards*—(i) *Direct marketers.* Owners of commercial stone fruit orchards who APHIS has determined meet the eligibility requirements of paragraph (a)(1)(i) of this section will be compensated according to the following table on a per-acre basis at a rate based on the age of the trees destroyed. If the trees were not destroyed by the date specified on the emergency action notification, the compensation payment will be reduced by 10 percent and by any tree removal costs incurred by the State or the U.S. Department of Agriculture (USDA). The maximum USDA compensation rate is 85 percent of the loss in value, adjusted for any State-provided compensation to ensure total compensation from all sources does not exceed 100 percent of the loss in value.
+(1) *Owners of commercial stone fruit orchards*—(i) *Direct marketers.* Owners of commercial stone fruit orchards who APHIS has determined meet the eligibility requirements of paragraph (a)(1)(i) of this section will be compensated according to the following table on a per-acre basis at a rate based on the age of the trees destroyed. If the trees were not destroyed by the date specified on the emergency action notification, the compensation payment will be reduced by 10 percent and by any tree removal costs incurred by the State or the U.S. Department of Agriculture (USDA). The maximum USDA compensation rate is 85 percent of the loss in value, adjusted for any State-provided compensation to ensure total compensation from all sources does not exceed 100 percent of the loss in value. 
 
 | Age of trees (years) | Maximum compensation   rate ($/acre, equal to 85% of loss in value) based on 3-year fallow period | Maximum additional   compensation ($/acre, equal to 85% of loss in value) for 4th fallow year | Maximum additional   compensation ($/acre, equal to 85% of loss in value) for 5th fallow year |
 | -------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -53,7 +53,7 @@
 | 24                   | 9,638                                                                                             | 1,936                                                                                         | 1,721                                                                                         |
 | 25                   | 8,442                                                                                             | 1,936                                                                                         | 1,721                                                                                         |
 
-(ii) *All other orchard owners.* Owners of commercial stone fruit orchards who meet the eligibility requirements of paragraph (a)(1)(ii) of this section will be compensated according to the following table on a per-acre basis at a rate based on the age of the trees destroyed. If the trees were not destroyed by the date specified on the emergency action notification, the compensation payment will be reduced by 10 percent and by any tree removal costs incurred by the State or the U.S. Department of Agriculture (USDA). The maximum USDA compensation rate is 85 percent of the loss in value, adjusted for any State-provided compensation to ensure total compensation from all sources does not exceed 100 percent of the loss in value.
+(ii) *All other orchard owners.* Owners of commercial stone fruit orchards who meet the eligibility requirements of paragraph (a)(1)(ii) of this section will be compensated according to the following table on a per-acre basis at a rate based on the age of the trees destroyed. If the trees were not destroyed by the date specified on the emergency action notification, the compensation payment will be reduced by 10 percent and by any tree removal costs incurred by the State or the U.S. Department of Agriculture (USDA). The maximum USDA compensation rate is 85 percent of the loss in value, adjusted for any State-provided compensation to ensure total compensation from all sources does not exceed 100 percent of the loss in value. 
 
 | Age of trees (years) | Maximum compensation   rate ($/acre, equal to 85% of loss in value) based on 3-year fallow period | Maximum additional   compensation ($/acre, equal to 85% of loss in value) for 4th fallow year | Maximum additional   compensation ($/acre, equal to 85% of loss in value) for 5th fallow year |
 | -------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -84,38 +84,38 @@
 | 24                   | 5,554                                                                                             | 1,072                                                                                         | 953                                                                                           |
 | 25                   | 4,777                                                                                             | 1,072                                                                                         | 953                                                                                           |
 
-(2) *Owners of fruit tree nurseries.* Owners of fruit tree nurseries who meet the eligibility requirements of paragraph (a)(2) of this section will be compensated for up to 85 percent of the net revenues lost from their first and second year crops as the result of the issuance of an emergency action notification which will be calculated as follows:
+(2) *Owners of fruit tree nurseries.* Owners of fruit tree nurseries who meet the eligibility requirements of paragraph (a)(2) of this section will be compensated for up to 85 percent of the net revenues lost from their first and second year crops as the result of the issuance of an emergency action notification which will be calculated as follows: 
 
-(i) *First year crop.* The net revenue loss for trees that were expected to be sold in the year during which the emergency action notification was issued (*i.e.,* the first year crop) will be calculated as (*expected number of trees to be sold*) × (*average price per tree*) − (*digging, grading, and storage costs*) = net revenue lost for first year crop, where:
+(i) *First year crop.* The net revenue loss for trees that were expected to be sold in the year during which the emergency action notification was issued (*i.e.,* the first year crop) will be calculated as (*expected number of trees to be sold*) × (*average price per tree*) − (*digging, grading, and storage costs*) = net revenue lost for first year crop, where: 
 
-(A) The expected number of trees to be sold equals the number of trees in the field minus 2 percent culls minus 3 percent unsold trees; and
+(A) The expected number of trees to be sold equals the number of trees in the field minus 2 percent culls minus 3 percent unsold trees; and 
 
-(B) The average price per tree is $5.22 for plum and apricot trees and $3.69 for peach and nectarine trees; and
+(B) The average price per tree is $5.22 for plum and apricot trees and $3.69 for peach and nectarine trees; and 
 
-(C) Digging, grading and storage costs are $0.10 per tree.
+(C) Digging, grading and storage costs are $0.10 per tree. 
 
-(ii) *Second year crop.* The net revenue loss for trees that would be expected to be sold in the year following the year during which the emergency action notification was issued (*i.e.,* the second year crop) will be calculated as (*expected number of trees to be sold*) × (*average price per tree*) = net revenue lost for second year crop, where:
+(ii) *Second year crop.* The net revenue loss for trees that would be expected to be sold in the year following the year during which the emergency action notification was issued (*i.e.,* the second year crop) will be calculated as (*expected number of trees to be sold*) × (*average price per tree*) = net revenue lost for second year crop, where: 
 
-(A) The expected number of trees to be sold equals the number of budded trees in the field minus 20 percent death loss minus 2 percent culls; and
+(A) The expected number of trees to be sold equals the number of budded trees in the field minus 20 percent death loss minus 2 percent culls; and 
 
-(B) The average price per tree is $5.22 for plum and apricot trees and $3.69 for peach and nectarine trees.
+(B) The average price per tree is $5.22 for plum and apricot trees and $3.69 for peach and nectarine trees. 
 
-(3) *Owners of non-fruit-bearing ornamental tree nurseries.* Owners of non-fruit-bearing ornamental tree nurseries who meet the eligibility requirements of paragraph (a)(3) of this section will be compensated for up to 85 percent of the net revenues lost from their crop as the result of the issuance of an emergency action notification. Net revenues will be calculated using an average price of $10.80 per tree or shrub.
+(3) *Owners of non-fruit-bearing ornamental tree nurseries.* Owners of non-fruit-bearing ornamental tree nurseries who meet the eligibility requirements of paragraph (a)(3) of this section will be compensated for up to 85 percent of the net revenues lost from their crop as the result of the issuance of an emergency action notification. Net revenues will be calculated using an average price of $10.80 per tree or shrub. 
 
-(c) *How to apply.* The form necessary to submit a claim for compensation may be obtained from the National Director of the Plum Pox Eradication Program contact listed at *http://www.aphis.usda.gov/plant\_health/plant\_pest\_info/plum\_pox/index.shtml.* Claims for trees or nursery stock destroyed on or before February 3, 2012 must be received within 60 days after February 3, 2012. Claims for trees or nursery stock destroyed after February 3, 2012 must be received within 60 days after the destruction of the trees or nursery stock. Claims must be submitted as follows:
+(c) *How to apply.* The form necessary to submit a claim for compensation may be obtained from the National Director of the Plum Pox Eradication Program contact listed at *http://www.aphis.usda.gov/plant\_health/plant\_pest\_info/plum\_pox/index.shtml.* Claims for trees or nursery stock destroyed on or before February 3, 2012 must be received within 60 days after February 3, 2012. Claims for trees or nursery stock destroyed after February 3, 2012 must be received within 60 days after the destruction of the trees or nursery stock. Claims must be submitted as follows: 
 
-(1) *Claims by owners of stone fruit orchards who are direct marketers.* The completed application must be accompanied by:
+(1) *Claims by owners of stone fruit orchards who are direct marketers.* The completed application must be accompanied by: 
 
-(i) A copy of the emergency action notification ordering the destruction of the trees and its accompanying inventory that describes the acreage and ages of trees removed;
+(i) A copy of the emergency action notification ordering the destruction of the trees and its accompanying inventory that describes the acreage and ages of trees removed; 
 
-(ii) Documentation verifying that the destruction of trees has been completed and the date of that destruction; and
+(ii) Documentation verifying that the destruction of trees has been completed and the date of that destruction; and 
 
-(iii) Records documenting that the grower meets the eligibility requirements of paragraph (a)(1)(i) of this section.
+(iii) Records documenting that the grower meets the eligibility requirements of paragraph (a)(1)(i) of this section. 
 
-(2) *Claims by owners of commercial stone fruit orchards who are not direct marketers.* The completed application must be accompanied by a copy of the emergency action notification ordering the destruction of the trees, its accompanying inventory that describes the acreage and ages of trees removed, and documentation verifying that the destruction of trees has been completed and the date of that destruction.
+(2) *Claims by owners of commercial stone fruit orchards who are not direct marketers.* The completed application must be accompanied by a copy of the emergency action notification ordering the destruction of the trees, its accompanying inventory that describes the acreage and ages of trees removed, and documentation verifying that the destruction of trees has been completed and the date of that destruction. 
 
-(3) *Claims by owners of fruit tree nurseries and owners of non-fruit-bearing ornamental tree nurseries.* The completed application must be accompanied by a copy of the order prohibiting the sale or movement of the nursery stock, its accompanying inventory that describes the total number of trees and the age and variety, and documentation describing the final disposition of the nursery stock.
+(3) *Claims by owners of fruit tree nurseries and owners of non-fruit-bearing ornamental tree nurseries.* The completed application must be accompanied by a copy of the order prohibiting the sale or movement of the nursery stock, its accompanying inventory that describes the total number of trees and the age and variety, and documentation describing the final disposition of the nursery stock. 
 
-(d) *Replanting.* Trees of susceptible *Prunus* species (*i.e.*, *Prunus* species identified as regulated articles) may not be replanted on premises within a contiguous quarantined area until 3 years from the date the last trees within that area were destroyed because of plum pox pursuant to an emergency action notification issued by APHIS.
+(d) *Replanting.* Trees of susceptible *Prunus* species (*i.e.*, *Prunus* species identified as regulated articles) may not be replanted on premises within a contiguous quarantined area until 3 years from the date the last trees within that area were destroyed because of plum pox pursuant to an emergency action notification issued by APHIS. 
 
 (Approved by the Office of Management and Budget under control numbers 0579-0159 and 0579-0251) \[65 FR 55435, Sept. 14, 2000, as amended at 69 FR 30816, June 1, 2004; 77 FR 5383, Feb. 3, 2012\]

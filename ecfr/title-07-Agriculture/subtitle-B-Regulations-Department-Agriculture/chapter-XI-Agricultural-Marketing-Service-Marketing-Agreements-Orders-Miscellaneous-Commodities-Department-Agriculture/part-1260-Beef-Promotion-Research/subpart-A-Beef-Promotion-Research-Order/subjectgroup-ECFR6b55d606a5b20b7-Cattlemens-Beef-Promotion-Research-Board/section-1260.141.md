@@ -1,6 +1,6 @@
 ##### § 1260.141 Membership of Board.
 
-(a) Beginning with the 2023 Board nominations and the associated appointments effective early in the year 2024, the United States shall be divided into 38 geographical units and 1 unit representing importers, for a total of 39 units. The number of Board members from each unit shall be as follows:
+(a) Beginning with the 2023 Board nominations and the associated appointments effective early in the year 2024, the United States shall be divided into 38 geographical units and 1 unit representing importers, for a total of 39 units. The number of Board members from each unit shall be as follows: 
 
 Table 1 to Paragraph (a)—Cattle and Calves 1
 | State/unit                                                         | (1,000 head) | Directors |
@@ -67,22 +67,22 @@ Table 1 to Paragraph (a)—Cattle and Calves 1
 | 1 2020, 2021, and 2022 average of January 1 cattle inventory data. |              |           |
 | 2 2019, 2020, and 2021 average of annual import data.              |              |           |
 
-(b) The Board shall be composed of cattle producers and importers appointed by the Secretary from nominations submitted pursuant to the Act and regulations of this part. A producer may only be nominated to represent the unit in which that producer is a resident.
+(b) The Board shall be composed of cattle producers and importers appointed by the Secretary from nominations submitted pursuant to the Act and regulations of this part. A producer may only be nominated to represent the unit in which that producer is a resident. 
 
-(c) At least every three (3) years, and not more than every two (2) years, the Board shall review the geographic distribution of cattle inventories throughout the United States and the volume of imported cattle, beef, and beef products and, if warranted, shall reapportion units and/or modify the number of Board members from units in order to best reflect the geographic distribution of cattle production volume in the United States and the volume of imported cattle, beef, or beef products into the United States.
+(c) At least every three (3) years, and not more than every two (2) years, the Board shall review the geographic distribution of cattle inventories throughout the United States and the volume of imported cattle, beef, and beef products and, if warranted, shall reapportion units and/or modify the number of Board members from units in order to best reflect the geographic distribution of cattle production volume in the United States and the volume of imported cattle, beef, or beef products into the United States. 
 
-(d) The Board may recommend to the Secretary a modification in the number of cattle per unit necessary for representation on the Board.
+(d) The Board may recommend to the Secretary a modification in the number of cattle per unit necessary for representation on the Board. 
 
-(e) The following formula will be used to determine the number of Board members who shall serve on the Board for each unit:
+(e) The following formula will be used to determine the number of Board members who shall serve on the Board for each unit: 
 
-(1) Each geographic unit or State that includes a total cattle inventory equal to or greater than five hundred thousand (500,000) head of cattle shall be entitled to one representative on the Board;
+(1) Each geographic unit or State that includes a total cattle inventory equal to or greater than five hundred thousand (500,000) head of cattle shall be entitled to one representative on the Board; 
 
-(2) States which do not have total cattle inventories equal to or greater than five hundred thousand (500,000) head of cattle shall be grouped, to the extent practicable, into geographically contiguous units each of which have a combined total inventory of not less than 500,000 head of cattle and such unit(s) shall be entitled to at least one representative on the Board;
+(2) States which do not have total cattle inventories equal to or greater than five hundred thousand (500,000) head of cattle shall be grouped, to the extent practicable, into geographically contiguous units each of which have a combined total inventory of not less than 500,000 head of cattle and such unit(s) shall be entitled to at least one representative on the Board; 
 
-(3) Importers shall be represented by a single unit, with the number of Board members representing such unit based upon a conversion of the total volume of imported cattle, beef or beef products into live animal equivalencies;
+(3) Importers shall be represented by a single unit, with the number of Board members representing such unit based upon a conversion of the total volume of imported cattle, beef or beef products into live animal equivalencies; 
 
-(4) Each unit shall be entitled to representation by an additional Board member for each one million (1,000,000) head of cattle within the unit which exceeds the initial five hundred thousand (500,000) head of cattle within the unit qualifying such unit for representation.
+(4) Each unit shall be entitled to representation by an additional Board member for each one million (1,000,000) head of cattle within the unit which exceeds the initial five hundred thousand (500,000) head of cattle within the unit qualifying such unit for representation. 
 
-(f) In determining the volume of cattle within the units, the Board and the Secretary shall utilize the information received by the Board pursuant to §§ 1260.201 and 1260.202 industry data and data published by the Department.
+(f) In determining the volume of cattle within the units, the Board and the Secretary shall utilize the information received by the Board pursuant to §§ 1260.201 and 1260.202 industry data and data published by the Department. 
 
 \[51 FR 26138, July 18, 1986, as amended at 55 FR 20445, May 17, 1990; 58 FR 12999, Mar. 9, 1993; 60 FR 62020, Dec. 4, 1995; 64 FR 3815, Jan. 26, 1999; 67 FR 11412, Mar. 14, 2002; 70 FR 7005, Feb. 10, 2005; 73 FR 60098, Oct. 10, 2008; 76 FR 42014, July 19, 2011; 79 FR 46963, Aug. 12, 2014; 82 FR 27612, June 16, 2017; 85 FR 39463, July 1, 2020; 88 FR 76100, Nov. 6, 2023\]

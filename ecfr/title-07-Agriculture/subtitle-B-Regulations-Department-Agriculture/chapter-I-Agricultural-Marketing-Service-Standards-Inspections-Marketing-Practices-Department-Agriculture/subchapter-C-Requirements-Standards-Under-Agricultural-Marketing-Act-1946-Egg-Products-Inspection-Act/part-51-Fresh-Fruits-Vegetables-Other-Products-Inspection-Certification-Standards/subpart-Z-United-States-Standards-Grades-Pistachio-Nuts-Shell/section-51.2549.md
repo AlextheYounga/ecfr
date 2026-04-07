@@ -1,6 +1,6 @@
 ##### § 51.2549 Metric conversion table.
 
-Use the following table for metric conversion:
+Use the following table for metric conversion: 
 
 | Inches | Millimeters |
 | ------ | ----------- |

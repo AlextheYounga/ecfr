@@ -1,6 +1,6 @@
 ##### § 868.206 Milling yield determination.
 
-Milling yield shall be determined by the use of an approved device in accordance with procedures prescribed in FGIS instructions. For the purpose of this paragraph, “approved device” shall include the McGill Miller No. 3 and any other equipment that is approved by the Administrator as giving equivalent results.
+Milling yield shall be determined by the use of an approved device in accordance with procedures prescribed in FGIS instructions. For the purpose of this paragraph, “approved device” shall include the McGill Miller No. 3 and any other equipment that is approved by the Administrator as giving equivalent results. 
 
 Note:
 

@@ -1,8 +1,8 @@
 ##### § 51.1545 Size.
 
-(a) The minimum size, or minimum and maximum sizes may be specified in connection with the grade in terms of diameter or weight of the individual potato, or in accordance with one of the size designations in Table I or Table II: *Provided,* That sizes so specified shall not be in conflict with the basic size requirements for the grade.
+(a) The minimum size, or minimum and maximum sizes may be specified in connection with the grade in terms of diameter or weight of the individual potato, or in accordance with one of the size designations in Table I or Table II: *Provided,* That sizes so specified shall not be in conflict with the basic size requirements for the grade. 
 
-(b) When size is designated as shown in Table II, the corresponding weight ranges shall apply. These size designations may be applied to potatoes packed in any size container: Provided, that the weight ranges are within the limits specified.
+(b) When size is designated as shown in Table II, the corresponding weight ranges shall apply. These size designations may be applied to potatoes packed in any size container: Provided, that the weight ranges are within the limits specified. 
 
 Table 1
 | Size designation                                                                                                                                                                                               | Minimum diameter 1   or weight | Maximum diameter 1   or weight |

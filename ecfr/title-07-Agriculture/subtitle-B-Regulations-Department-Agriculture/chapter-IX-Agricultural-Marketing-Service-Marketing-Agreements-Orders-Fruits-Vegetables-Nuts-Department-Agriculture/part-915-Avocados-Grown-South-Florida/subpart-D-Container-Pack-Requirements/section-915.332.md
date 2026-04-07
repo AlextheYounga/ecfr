@@ -1,10 +1,10 @@
 ##### § 915.332 Florida avocado maturity regulation.
 
-(a) No handler shall handle any variety of avocados, except Hass, Fuerte, Zutano, and Edranol, grown in the production area unless:
+(a) No handler shall handle any variety of avocados, except Hass, Fuerte, Zutano, and Edranol, grown in the production area unless: 
 
-(1) Any portion of the skin of the individual avocados has changed to the color normal for that fruit when mature for those varieties which normally change color to any shade of red or purple when mature, except for the Linda variety; or
+(1) Any portion of the skin of the individual avocados has changed to the color normal for that fruit when mature for those varieties which normally change color to any shade of red or purple when mature, except for the Linda variety; or 
 
-(2) Such avocados meet the minimum weight or diameter requirements for the Monday nearest each date specified, through the Sunday immediately prior to the nearest Monday of the specified date in the next column, for each variety listed in the following table I: *Provided,* that avocados may not be handled prior to the earliest date specified in column A of such table for the respective variety; *Provided further,* There are no restrictions on size or weight on or after the date specified in column D; *Provided further,* That up to a total of 10 percent, by count to the individual fruit in each lot may weigh less than the minimum specified or be less than the specified diameter, except that no such avocados shall be over 2 ounces lighter than the minimum weight specified for the variety: *Provided further,* That up to double such tolerance shall be permitted for fruit in an individual container in a lot.
+(2) Such avocados meet the minimum weight or diameter requirements for the Monday nearest each date specified, through the Sunday immediately prior to the nearest Monday of the specified date in the next column, for each variety listed in the following table I: *Provided,* that avocados may not be handled prior to the earliest date specified in column A of such table for the respective variety; *Provided further,* There are no restrictions on size or weight on or after the date specified in column D; *Provided further,* That up to a total of 10 percent, by count to the individual fruit in each lot may weigh less than the minimum specified or be less than the specified diameter, except that no such avocados shall be over 2 ounces lighter than the minimum weight specified for the variety: *Provided further,* That up to double such tolerance shall be permitted for fruit in an individual container in a lot. 
 
 Table I
 | Variety                                                                                                                                                | A date | Min. wt. | Min. diam. | B date      | Min. wt. | Min. diam.    | C date        | Min. wt. | Min. diam.     | D date |
@@ -74,10 +74,10 @@ Table I
 | 1 Avocados of the West Indian type varieties and seedlings not listed elsewhere in table I.                                                            |        |          |            |             |          |               |               |          |                |        |
 | 2 Avocados of the Guatemalan type varieties and seedlings, hybrid varieties and seedlings, and unidentified seedlings not listed elsewhere in table I. |        |          |            |             |          |               |               |          |                |        |
 
-(3) Avocados which fail to meet the maturity requirements specified in this section must be maintained under the supervision of the Federal or Federal-State Inspection Service using the Positive Lot Identification program, and when presented for reinspection, must meet the maturity requirements which correspond to the date of the original inspection.
+(3) Avocados which fail to meet the maturity requirements specified in this section must be maintained under the supervision of the Federal or Federal-State Inspection Service using the Positive Lot Identification program, and when presented for reinspection, must meet the maturity requirements which correspond to the date of the original inspection. 
 
-(4) The requirements listed in table I of this section are in effect annually from April 16 through April 15 of the following year, with an exception for the requirements for Guatemalan seedling which are in effect annually from June 9 to June 8 of the following year.
+(4) The requirements listed in table I of this section are in effect annually from April 16 through April 15 of the following year, with an exception for the requirements for Guatemalan seedling which are in effect annually from June 9 to June 8 of the following year. 
 
-(b) The term *diameter* means the greatest dimension measured at a right angle to a straight line from the stem to the blossom end of the fruit.
+(b) The term *diameter* means the greatest dimension measured at a right angle to a straight line from the stem to the blossom end of the fruit. 
 
 \[59 FR 30869, June 16, 1994, as amended at 64 FR 53185, Oct. 1, 1999; 71 FR 11294, Mar. 7, 2006; 73 FR 26945, May 12, 2008; 79 FR 55353, Sept. 16, 2014; 87 FR 8143, Feb. 14, 2022\]

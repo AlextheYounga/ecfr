@@ -1,6 +1,6 @@
 ##### § 29.6126 Binder (B Group).
 
-Tobacco of this group is of cigar-binder quality from which trash and trashy Farm Fillers have been removed.
+Tobacco of this group is of cigar-binder quality from which trash and trashy Farm Fillers have been removed. 
 
 | U.S. grades | Grade names, minimum specifications, and tolerances                                                                                                                     |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

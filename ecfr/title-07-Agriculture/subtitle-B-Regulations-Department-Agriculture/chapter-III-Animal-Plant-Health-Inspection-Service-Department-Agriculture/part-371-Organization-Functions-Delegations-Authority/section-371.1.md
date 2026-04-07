@@ -1,8 +1,8 @@
 ##### § 371.1 General statement.
 
-(a) *The creation of APHIS.* The Animal and Plant Health Inspection Service (APHIS) was created by the Secretary of Agriculture on April 2, 1972 (37 FR 6327, March 28, 1972).
+(a) *The creation of APHIS.* The Animal and Plant Health Inspection Service (APHIS) was created by the Secretary of Agriculture on April 2, 1972 (37 FR 6327, March 28, 1972). 
 
-(b) *Central offices.* APHIS is headquartered in Washington, DC, and Riverdale, MD. The APHIS Management Team at these locations consists of the following:
+(b) *Central offices.* APHIS is headquartered in Washington, DC, and Riverdale, MD. The APHIS Management Team at these locations consists of the following: 
 
 Administrator Associate Administrator Deputy Administrator, Plant Protection and Quarantine (PPQ) Deputy Administrator, Veterinary Services (VS) Deputy Administrator, Marketing and Regulatory Programs Business Services (MRPBS) Deputy Administrator, Wildlife Services (WS) Deputy Administrator, Animal Care (AC) Deputy Administrator, International Services (IS) Director, Policy and Program Development (PPD) Director, Legislative and Public Affairs (LPA)
 

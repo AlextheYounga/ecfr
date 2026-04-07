@@ -1,6 +1,6 @@
 ##### § 1980.434 Equal opportunity and nondiscrimination requirements.
 
-(See subpart A § 1980.41.)
+(See subpart A § 1980.41.) 
 
 Administrative
 

@@ -1,6 +1,6 @@
 ##### § 760.1001 Eligible counties, disaster events, and disaster periods.
 
-(a) Except as provided in this subpart, FSA will provide assistance under the programs listed in § 760.1000 to eligible participants who have suffered certain losses due to eligible disaster events in eligible disaster counties provided in paragraph (c) of this section.
+(a) Except as provided in this subpart, FSA will provide assistance under the programs listed in § 760.1000 to eligible participants who have suffered certain losses due to eligible disaster events in eligible disaster counties provided in paragraph (c) of this section. 
 
 (b) The “Disaster Period” is the time period in which losses occurred for the particular disaster that may be considered eligible for the programs under subparts L and M of this part. The start and end dates for each eligible disaster period are specified at *http://disaster.fsa.usda.gov.*
 

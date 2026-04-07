@@ -1,16 +1,16 @@
 ##### § 51.1436 Size classifications for pieces.
 
-The size of pecan pieces in a lot may be specified in accordance with one of the size classifications shown in table 1 to this section. Sizes are measured using a round-hole screen.
+The size of pecan pieces in a lot may be specified in accordance with one of the size classifications shown in table 1 to this section. Sizes are measured using a round-hole screen. 
 
-(a) *Tolerances for size of pieces.* In order to allow for variations incident to proper sizing, tolerances are provided for pieces in a lot which fail to meet the requirements of any size specified. The tolerances, by weight, are as follows:
+(a) *Tolerances for size of pieces.* In order to allow for variations incident to proper sizing, tolerances are provided for pieces in a lot which fail to meet the requirements of any size specified. The tolerances, by weight, are as follows: 
 
-(1) *U.S. Extra Fancy pieces and U.S. Fancy pieces.* Not more than 15 percent of the lot may fall outside of the size range in Table 1 to this section. Further, not more than 1 percent of the pieces, excluding Topping Pieces and Granules, may pass through an eight sixty-fourths of an inch round hole screen.
+(1) *U.S. Extra Fancy pieces and U.S. Fancy pieces.* Not more than 15 percent of the lot may fall outside of the size range in Table 1 to this section. Further, not more than 1 percent of the pieces, excluding Topping Pieces and Granules, may pass through an eight sixty-fourths of an inch round hole screen. 
 
-(2) *U.S. Choice pieces.* Not more than 20 percent of the lot may fall outside of the size range in Table 1 to this section. Further, not more than 2 percent of the pieces, excluding Topping Pieces and Granules, may pass through an eight sixty-fourths of an inch round hole screen.
+(2) *U.S. Choice pieces.* Not more than 20 percent of the lot may fall outside of the size range in Table 1 to this section. Further, not more than 2 percent of the pieces, excluding Topping Pieces and Granules, may pass through an eight sixty-fourths of an inch round hole screen. 
 
-(3) *U.S. Standard pieces.* Not more than 25 percent of the lot may fall outside of the size range in table 1 to this section. Further, not more than 2 percent of the pieces, excluding Topping Pieces and Granules, may pass through an eight sixty-fourths of an inch round hole screen.
+(3) *U.S. Standard pieces.* Not more than 25 percent of the lot may fall outside of the size range in table 1 to this section. Further, not more than 2 percent of the pieces, excluding Topping Pieces and Granules, may pass through an eight sixty-fourths of an inch round hole screen. 
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
 Table 1 to § 51.1436
 | Size classification                                                                                                                                                                                                                    | Maximum diameter   (will pass through   round opening of the   following diameter) | Minimum diameter   (will not pass through   round opening of the   following diameter) |

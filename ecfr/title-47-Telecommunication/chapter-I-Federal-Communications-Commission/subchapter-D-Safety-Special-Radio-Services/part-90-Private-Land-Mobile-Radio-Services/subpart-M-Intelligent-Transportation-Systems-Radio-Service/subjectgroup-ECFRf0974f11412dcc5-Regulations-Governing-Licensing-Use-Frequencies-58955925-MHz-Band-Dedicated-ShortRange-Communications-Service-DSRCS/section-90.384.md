@@ -1,6 +1,6 @@
-##### § 90.395 Incorporation by reference.
+##### § 90.384 Incorporation by reference.
 
-Link to an amendment published at 89 FR 100854, Dec. 13, 2024.
+Link to a correction published at 90 FR 5724, Jan. 17, 2025.
 
 Certain material required in this section is incorporated by reference into this subpart with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the address of the FCC's main office indicated in 47 CFR 0.401(a) and is available from the sources indicated in this section. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibrlocations.html.*
 
@@ -12,4 +12,4 @@ Certain material required in this section is incorporated by reference into this
 
 (b) \[Reserved\] 
 
-\[86 FR 23299, May 3, 2021\]
+\[86 FR 23299, May 3, 2021. Redesignated at 89 FR 100854, Dec. 13, 2024\]

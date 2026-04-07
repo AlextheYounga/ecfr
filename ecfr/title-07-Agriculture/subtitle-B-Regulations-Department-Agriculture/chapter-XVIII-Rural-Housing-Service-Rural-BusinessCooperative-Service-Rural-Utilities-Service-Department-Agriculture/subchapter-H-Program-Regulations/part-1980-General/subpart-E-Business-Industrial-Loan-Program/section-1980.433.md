@@ -1,6 +1,6 @@
 ##### § 1980.433 Flood or mudslide hazard area precautions.
 
-(See subpart A, § 1980.42.)
+(See subpart A, § 1980.42.) 
 
 Administrative
 

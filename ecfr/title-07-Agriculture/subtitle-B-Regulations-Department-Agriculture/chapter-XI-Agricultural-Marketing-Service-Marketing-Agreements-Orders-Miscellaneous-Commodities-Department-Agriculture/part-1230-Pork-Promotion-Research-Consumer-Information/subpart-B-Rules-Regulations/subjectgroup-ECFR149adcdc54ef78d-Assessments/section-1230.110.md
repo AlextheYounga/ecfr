@@ -1,6 +1,6 @@
 ##### § 1230.110 Assessments on imported pork and pork products.
 
-(a) The following Harmonized Tariff Schedule (HTS) categories of imported live porcine animals are subject to assessment at the rate specified.
+(a) The following Harmonized Tariff Schedule (HTS) categories of imported live porcine animals are subject to assessment at the rate specified. 
 
 Table 1 to Paragraph (a)
 | Live porcine animals | Article description                             | Assessment                          |
@@ -14,7 +14,7 @@ Table 1 to Paragraph (a)
 | 0103.92.0010         | Imported for immediate slaughter                | 0.35 percent Customs Entered Value. |
 | 0103.92.0090         | Other                                           | 0.35 percent Customs Entered Value. |
 
-(b) The following HTS categories of imported pork and pork products are subject to assessment at the rates specified.
+(b) The following HTS categories of imported pork and pork products are subject to assessment at the rates specified. 
 
 Table 2 to Paragraph (b)
 | Pork and pork products | Article description                                                                                                            | Assessment |

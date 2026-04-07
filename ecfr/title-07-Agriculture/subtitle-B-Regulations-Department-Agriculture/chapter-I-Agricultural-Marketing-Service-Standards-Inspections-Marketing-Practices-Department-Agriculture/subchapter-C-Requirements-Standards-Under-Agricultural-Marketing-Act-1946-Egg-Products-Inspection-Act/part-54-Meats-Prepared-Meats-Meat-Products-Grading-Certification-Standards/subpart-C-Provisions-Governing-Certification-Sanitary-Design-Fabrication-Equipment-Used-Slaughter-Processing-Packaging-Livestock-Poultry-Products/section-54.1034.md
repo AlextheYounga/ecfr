@@ -1,6 +1,6 @@
 ##### § 54.1034 OMB control numbers assigned pursuant to the Paperwork Reduction Act.
 
-The following control number has been assigned to the information collection requirements in 7 CFR part 54, subpart C, by the Office of Management and Budget pursuant to the Paperwork Reduction Act of 1995 (44 U.S.C. Chapter 35).
+The following control number has been assigned to the information collection requirements in 7 CFR part 54, subpart C, by the Office of Management and Budget pursuant to the Paperwork Reduction Act of 1995 (44 U.S.C. Chapter 35). 
 
 | 7 CFR section where   requirements are described | Current OMB control No. |
 | ------------------------------------------------ | ----------------------- |

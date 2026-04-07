@@ -1,6 +1,6 @@
 ##### § 2812.5 Restrictions.
 
-(a) The authorized official (see § 2812.4(b)) will approve the donation of excess personal property/equipment in the following groups to educational institutions or nonprofit organizations for the conduct of technical and scientific educational and research activities.
+(a) The authorized official (see § 2812.4(b)) will approve the donation of excess personal property/equipment in the following groups to educational institutions or nonprofit organizations for the conduct of technical and scientific educational and research activities. 
 
 Eligible Groups
 | FSC group | Name                                                                                           |

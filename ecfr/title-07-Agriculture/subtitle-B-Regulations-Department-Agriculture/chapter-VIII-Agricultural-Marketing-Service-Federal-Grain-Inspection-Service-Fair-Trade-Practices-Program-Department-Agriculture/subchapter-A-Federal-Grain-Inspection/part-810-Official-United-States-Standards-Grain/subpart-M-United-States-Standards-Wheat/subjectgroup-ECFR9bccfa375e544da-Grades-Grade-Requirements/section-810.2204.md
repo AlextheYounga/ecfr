@@ -1,6 +1,6 @@
 ##### § 810.2204 Grades and grade requirements for wheat.
 
-(a) Grades and grade requirements for all classes of wheat, except Mixed wheat.
+(a) Grades and grade requirements for all classes of wheat, except Mixed wheat. 
 
 Grades and Grade Requirements
 | Grading factors                                                                                                          | Grades U.S. Nos. |
@@ -40,6 +40,6 @@ Grades and Grade Requirements
 | 3 Includes contrasting classes.                                                                                          |                  |
 | 4 Includes any combination of animal filth, castor beans, crotalaria seeds, glass, stones, or unknown foreign substance. |                  |
 
-(b) *Grades and grade requirements for Mixed wheat.* Mixed wheat is graded according to the U.S. numerical and U.S. Sample grade requirements of the class of wheat that predominates in the mixture, except that the factor wheat of other classes is disregarded.
+(b) *Grades and grade requirements for Mixed wheat.* Mixed wheat is graded according to the U.S. numerical and U.S. Sample grade requirements of the class of wheat that predominates in the mixture, except that the factor wheat of other classes is disregarded. 
 
 \[52 FR 24418, June 30, 1987, as amended at 52 FR 24442, June 30, 1987; 57 FR 58966, Dec. 14, 1992; 71 FR 8235, Feb. 18, 2006\]

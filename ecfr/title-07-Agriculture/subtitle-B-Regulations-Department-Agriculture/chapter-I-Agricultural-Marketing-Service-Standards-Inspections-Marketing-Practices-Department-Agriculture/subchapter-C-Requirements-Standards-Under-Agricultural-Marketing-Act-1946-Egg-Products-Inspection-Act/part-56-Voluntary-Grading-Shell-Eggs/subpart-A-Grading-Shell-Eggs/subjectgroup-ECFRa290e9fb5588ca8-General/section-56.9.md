@@ -1,6 +1,6 @@
 ##### § 56.9 OMB control number.
 
-(a) *Purpose.* The collecting of information requirements in this part has been approved by the Office of Management and Budget (OMB) and assigned OMB control number 0581-0128.
+(a) *Purpose.* The collecting of information requirements in this part has been approved by the Office of Management and Budget (OMB) and assigned OMB control number 0581-0128. 
 
 (b) *Display.*
 

@@ -1,6 +1,6 @@
 ##### § 201.62 Tests for determination of percentages of kind, variety, type, hybrid, or offtype.
 
-Tolerances for tests for determination of percentages of kind, variety, type, hybrid, or offtype shall be those set forth in the following table, added to one-half the required pure seed tol- erances determined in accordance with § 201.60, except that one-half the pure seed tolerance will not be applied in determining tolerances for hybrids labeled on the basis of the percentage of pure seed which is hybrid.
+Tolerances for tests for determination of percentages of kind, variety, type, hybrid, or offtype shall be those set forth in the following table, added to one-half the required pure seed tol- erances determined in accordance with § 201.60, except that one-half the pure seed tolerance will not be applied in determining tolerances for hybrids labeled on the basis of the percentage of pure seed which is hybrid. 
 
 Table 4—Tolerances for Purity Tests, When Results Are Based on 10 to 1,000 Seeds, Seedlings, or Plants Used in a Test
 | Seed, seedling, or plant count percent | Number of seeds, seedlings, or plants in tests |

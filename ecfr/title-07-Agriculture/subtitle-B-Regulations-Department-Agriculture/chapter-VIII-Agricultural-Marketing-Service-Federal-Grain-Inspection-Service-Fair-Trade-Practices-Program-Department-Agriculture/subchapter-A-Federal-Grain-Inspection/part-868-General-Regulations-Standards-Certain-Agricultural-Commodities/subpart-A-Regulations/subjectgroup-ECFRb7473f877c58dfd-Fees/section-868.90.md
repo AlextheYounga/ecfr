@@ -1,6 +1,6 @@
 ##### § 868.90 Fees for certain Federal inspection services.
 
-(a) The fees shown in Table 1 apply to Federal Commodity Inspection Services specified below.
+(a) The fees shown in Table 1 apply to Federal Commodity Inspection Services specified below. 
 
 Table 1—Hourly Rates 1 3
 
@@ -29,11 +29,11 @@ Table 1—Hourly Rates 1 3
 | 3 Faxed and extra copies of certificates will be charged at $1.50 per copy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |        |
 | 4 If performed outside of normal business hours, 11/2 times the applicable unit fee will be charged.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |        |
 
-(b) In addition to the fees, if any, for sampling or other requested service, a fee will be assessed for each laboratory test (original, retest, or appeal) listed in table 2 of this section.
+(b) In addition to the fees, if any, for sampling or other requested service, a fee will be assessed for each laboratory test (original, retest, or appeal) listed in table 2 of this section. 
 
-(c) If a requested test is to be reported on a specified moisture basis, a fee for a moisture test will also be assessed.
+(c) If a requested test is to be reported on a specified moisture basis, a fee for a moisture test will also be assessed. 
 
-(d) Laboratory tests referenced in table 2 of this section will be charged at the applicable laboratory fee.
+(d) Laboratory tests referenced in table 2 of this section will be charged at the applicable laboratory fee. 
 
 Table 2—Fees for Laboratory Test Services 1
 | Laboratory tests                                                                                                                                                                                        | Fees    |

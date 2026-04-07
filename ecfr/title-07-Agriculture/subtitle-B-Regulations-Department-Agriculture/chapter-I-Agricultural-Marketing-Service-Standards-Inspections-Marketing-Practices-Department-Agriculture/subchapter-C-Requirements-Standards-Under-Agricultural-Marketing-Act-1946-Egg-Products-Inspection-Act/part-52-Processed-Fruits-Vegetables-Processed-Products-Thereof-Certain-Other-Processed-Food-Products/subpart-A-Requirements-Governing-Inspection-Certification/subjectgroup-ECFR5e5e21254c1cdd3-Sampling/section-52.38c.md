@@ -1,12 +1,12 @@
 ##### § 52.38c Statistical sampling procedures for lot inspection of processed fruits and vegetables by attributes.
 
-(a) *General.* Single sampling plans shall be used as the lot sampling plan for attributes standards under either of the following conditions:
+(a) *General.* Single sampling plans shall be used as the lot sampling plan for attributes standards under either of the following conditions: 
 
-(1) Sampling of the product shall be made during the production period. No grade will be assigned to individual sample units. One grade determination only will be made at the end of the production period for the inspection lot.
+(1) Sampling of the product shall be made during the production period. No grade will be assigned to individual sample units. One grade determination only will be made at the end of the production period for the inspection lot. 
 
-(2) Sampling of the product shall be made when the inspection lot is located in a warehouse, truck, railroad car, or other similar conveyance.
+(2) Sampling of the product shall be made when the inspection lot is located in a warehouse, truck, railroad car, or other similar conveyance. 
 
-(b) *Sample size.* Samples shall be randomly selected from each inspection lot in the exact number of sample units indicated for the lot size in tables XI through XIV as applicable for canned, frozen, dried, or dehydrated fruits and vegetables.
+(b) *Sample size.* Samples shall be randomly selected from each inspection lot in the exact number of sample units indicated for the lot size in tables XI through XIV as applicable for canned, frozen, dried, or dehydrated fruits and vegetables. 
 
 Table XI—Canned or Similarly Processed Fruits, Vegetables, and Products Containing Units of Such Size and Character as To Be Readily Separable
 
@@ -59,15 +59,15 @@ Table XIV—Dehydrated (Low-Moisture) Fruits, and Vegetables
 | lbs.                                                                  |                                 |
 | Lot inspection: Sample size (number of sample units)                  | 6                               |
 
-(c) *Determining compliance.* (1) An inspection lot meets the requirements of a quality grade if the number of defects (or defectives) is equal to or less than the acceptance numbers of all classes of defects.
+(c) *Determining compliance.* (1) An inspection lot meets the requirements of a quality grade if the number of defects (or defectives) is equal to or less than the acceptance numbers of all classes of defects. 
 
-(2) An inspection lot fails the requirements of a quality grade if the number of defects (or defectives) exceeds the acceptance number for one or more classes of defects.
+(2) An inspection lot fails the requirements of a quality grade if the number of defects (or defectives) exceeds the acceptance number for one or more classes of defects. 
 
-(d) *Lot single sampling plans for processed fruits and vegetables.* (1) Tables XV through XIX contain the lot single sampling plans for each of five different standard sample unit sizes. The plans within each table are listed according to increasing values of Acceptable Quality Levels (AQL's).
+(d) *Lot single sampling plans for processed fruits and vegetables.* (1) Tables XV through XIX contain the lot single sampling plans for each of five different standard sample unit sizes. The plans within each table are listed according to increasing values of Acceptable Quality Levels (AQL's). 
 
-(2) AQL values of 10.0 or less may be expressed either in “defects per hundred units” or in “percent defective units.” The same sampling plans are used for both. Separate sampling plans must be used for AQL values greater than 10.0.
+(2) AQL values of 10.0 or less may be expressed either in “defects per hundred units” or in “percent defective units.” The same sampling plans are used for both. Separate sampling plans must be used for AQL values greater than 10.0. 
 
-(3) A separate lot single sampling plan is chosen for each class of defects (or defectives) by first specifying the desired AQL, the appropriate standard sample unit size, and the number of sample units as specified in § 52.38c (b) of this subpart. The quality levels associated with the Pa=50% and Pa=10% levels are given in the instructional manual.
+(3) A separate lot single sampling plan is chosen for each class of defects (or defectives) by first specifying the desired AQL, the appropriate standard sample unit size, and the number of sample units as specified in § 52.38c (b) of this subpart. The quality levels associated with the Pa=50% and Pa=10% levels are given in the instructional manual. 
 
 Table XV—Lot Single Sampling Plans
 

@@ -1,22 +1,22 @@
 ##### § 3401.17 Review criteria.
 
-(a) Federally funded research supported under these provisions shall be designed to, among other things, accomplish one or more of the following purposes:
+(a) Federally funded research supported under these provisions shall be designed to, among other things, accomplish one or more of the following purposes: 
 
-(1) Improve management of rangelands as an integrated system and/or watershed;
+(1) Improve management of rangelands as an integrated system and/or watershed; 
 
-(2) Remedy unstable or unsatisfactory rangeland conditions;
+(2) Remedy unstable or unsatisfactory rangeland conditions; 
 
-(3) Increase revegetation and/or rehabilitation of rangelands;
+(3) Increase revegetation and/or rehabilitation of rangelands; 
 
-(4) Examine the health of rangelands; and
+(4) Examine the health of rangelands; and 
 
-(5) Define economic parameters associated with rangelands.
+(5) Define economic parameters associated with rangelands. 
 
-(b) In carrying out its review under § 3401.16, the peer review panel will use the following form upon which the evaluation criteria to be used are enumerated, unless, pursuant to § 3401.7(a), different evaluation criteria are specified in the annual solicitation of proposals for a particular program:
+(b) In carrying out its review under § 3401.16, the peer review panel will use the following form upon which the evaluation criteria to be used are enumerated, unless, pursuant to § 3401.7(a), different evaluation criteria are specified in the annual solicitation of proposals for a particular program: 
 
 Peer Panel Scoring Form Proposal Identification No. Institution and Project Title I. Basic Requirement:
 
-Proposal falls within guidelines? \_\_\_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_\_\_ No. If no, explain why proposal does not meet guidelines under comment section of this form.
+Proposal falls within guidelines? \_\_\_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_\_\_ No. If no, explain why proposal does not meet guidelines under comment section of this form. 
 
 II. Selection Criteria:
 

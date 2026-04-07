@@ -1,10 +1,10 @@
 ##### § 42.143 Operating Characteristic (OC) curves for on-line sampling and inspection.
 
-(a) This section contains the Operating Characteristic (OC) curve for each of the on-line cumulative sum sampling plans provided in subpart D. The OC curve and the corresponding cumulative sum sampling plans are listed by AQL.
+(a) This section contains the Operating Characteristic (OC) curve for each of the on-line cumulative sum sampling plans provided in subpart D. The OC curve and the corresponding cumulative sum sampling plans are listed by AQL. 
 
-(b) Different plan parameters used to make acceptance and rejection decisions are provided for each AQL.
+(b) Different plan parameters used to make acceptance and rejection decisions are provided for each AQL. 
 
-(c) The curves show the ability of the various cumulative sum sampling plans to distinguish between good and bad portions of production. The interpretation of these curves for portions of production is similar to the interpretation of the OC curves for stationary lots as illustrated in § 42.140(c).
+(c) The curves show the ability of the various cumulative sum sampling plans to distinguish between good and bad portions of production. The interpretation of these curves for portions of production is similar to the interpretation of the OC curves for stationary lots as illustrated in § 42.140(c). 
 
 Reduced, Normal and Tightened Inspection Plans—Cumulative Sum Sampling Plans and Operating Characteristic (OC) Curves for AQL = 0.25 Defects per Hundred Units
 

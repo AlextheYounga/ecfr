@@ -1,64 +1,64 @@
 ##### § 9.102 Calculation of payments.
 
-(a) Payments for eligible non-specialty crops will be the sum of:
+(a) Payments for eligible non-specialty crops will be the sum of: 
 
-(1) Unpriced inventory that is harvested but held in inventory as of January 15, 2020, not to exceed 50 percent of 2019 total production, multiplied by 50 percent, multiplied by the Coronavirus Aid, Relief, and Economic Stability Act (CARES Act) payment rate in paragraph (h) of this section; and
+(1) Unpriced inventory that is harvested but held in inventory as of January 15, 2020, not to exceed 50 percent of 2019 total production, multiplied by 50 percent, multiplied by the Coronavirus Aid, Relief, and Economic Stability Act (CARES Act) payment rate in paragraph (h) of this section; and 
 
-(2) Unpriced inventory as of January 15, 2020, not to exceed 50 percent of 2019 total production, multiplied by 50 percent, multiplied by the Commodity Credit Corporation (CCC) payment rate in paragraph (h) of this section.
+(2) Unpriced inventory as of January 15, 2020, not to exceed 50 percent of 2019 total production, multiplied by 50 percent, multiplied by the Commodity Credit Corporation (CCC) payment rate in paragraph (h) of this section. 
 
-(b) CFAP covers losses for specialty crops that experienced immediate losses, a price decline, spoiled, were unpaid, or were unharvested due to market conditions between January 15, 2020, and April 15, 2020. Specialty crops in inventory or in storage facilities that may be sold after April 15, 2020, are not eligible. Specialty crops that were under an agreed upon set price before January 15, 2020, and were or will be paid at that price or higher, do not qualify for assistance under paragraph (b)(1) of this section, but may qualify under paragraphs (b)(2) or (b)(3) of this section. Payments for eligible specialty crops will be the sum of:
+(b) CFAP covers losses for specialty crops that experienced immediate losses, a price decline, spoiled, were unpaid, or were unharvested due to market conditions between January 15, 2020, and April 15, 2020. Specialty crops in inventory or in storage facilities that may be sold after April 15, 2020, are not eligible. Specialty crops that were under an agreed upon set price before January 15, 2020, and were or will be paid at that price or higher, do not qualify for assistance under paragraph (b)(1) of this section, but may qualify under paragraphs (b)(2) or (b)(3) of this section. Payments for eligible specialty crops will be the sum of: 
 
-(1) For specialty crops listed in paragraph (h) of this section that were sold between January 15, 2020, and April 15, 2020, the quantity sold multiplied by the payment rate in column 2 of Table 1 in paragraph (h) of this section;
+(1) For specialty crops listed in paragraph (h) of this section that were sold between January 15, 2020, and April 15, 2020, the quantity sold multiplied by the payment rate in column 2 of Table 1 in paragraph (h) of this section; 
 
-(2) For specialty crops harvested and shipped but that were subsequently spoiled or unpaid due to loss of marketing channels between January 15, 2020, and April 15, 2020, the harvested and shipped quantity that spoiled or is unpaid multiplied by the payment rate in column 3 of Table 1 in paragraph (h) of this section; and
+(2) For specialty crops harvested and shipped but that were subsequently spoiled or unpaid due to loss of marketing channels between January 15, 2020, and April 15, 2020, the harvested and shipped quantity that spoiled or is unpaid multiplied by the payment rate in column 3 of Table 1 in paragraph (h) of this section; and 
 
-(3) For specialty crops that did not leave the farm, were donated, or were mature crops that remained unharvested between January 15, 2020, and April 15, 2020, due to loss of marketing channel, the sum of the quantity of crops that did not leave the farm or were donated, or the quantity of mature crops that remained unharvested, multiplied by the payment rate in column 4 of Table 1 in paragraph (h) of this section.
+(3) For specialty crops that did not leave the farm, were donated, or were mature crops that remained unharvested between January 15, 2020, and April 15, 2020, due to loss of marketing channel, the sum of the quantity of crops that did not leave the farm or were donated, or the quantity of mature crops that remained unharvested, multiplied by the payment rate in column 4 of Table 1 in paragraph (h) of this section. 
 
-(c) Payments for cattle will be the sum of the results of the following three calculations:
+(c) Payments for cattle will be the sum of the results of the following three calculations: 
 
-(1) Unpriced cattle sold between January 15, 2020, to April 15, 2020, multiplied by the CARES Act payment rate in paragraph (h) of this section;
+(1) Unpriced cattle sold between January 15, 2020, to April 15, 2020, multiplied by the CARES Act payment rate in paragraph (h) of this section; 
 
-(2) Cattle inventory owned between April 16, 2020, to May 14, 2020, multiplied by the CCC payment rate in paragraph (h) of this section; and
+(2) Cattle inventory owned between April 16, 2020, to May 14, 2020, multiplied by the CCC payment rate in paragraph (h) of this section; and 
 
-(3) Cattle inventory owned between April 16, 2020, to May 14, 2020, multiplied by:
+(3) Cattle inventory owned between April 16, 2020, to May 14, 2020, multiplied by: 
 
-(i) $14.75 for slaughter cattle—mature cattle;
+(i) $14.75 for slaughter cattle—mature cattle; 
 
-(ii) $63 for slaughter cattle—fed cattle;
+(ii) $63 for slaughter cattle—fed cattle; 
 
-(iii) $7 for feeder cattle less than 600 pounds;
+(iii) $7 for feeder cattle less than 600 pounds; 
 
-(iv) $25.50 for feeder cattle 600 pounds or more; and
+(iv) $25.50 for feeder cattle 600 pounds or more; and 
 
-(v) $17.25 for all other cattle.
+(v) $17.25 for all other cattle. 
 
-(d) Payments for hogs and pigs will be equal to the sum of the results of the following two calculations:
+(d) Payments for hogs and pigs will be equal to the sum of the results of the following two calculations: 
 
-(1) Unpriced hogs and pigs sold between January 15, 2020, to April 15, 2020, multiplied by the CARES Act payment rate in paragraph (h) of this section; and
+(1) Unpriced hogs and pigs sold between January 15, 2020, to April 15, 2020, multiplied by the CARES Act payment rate in paragraph (h) of this section; and 
 
-(2) Hog and pig inventory owned between April 16, 2020, to May 14, 2020, multiplied by the CCC payment rate in paragraph (h) of this section.
+(2) Hog and pig inventory owned between April 16, 2020, to May 14, 2020, multiplied by the CCC payment rate in paragraph (h) of this section. 
 
-(e) Payments for dairy will be equal to the sum of the results of the following two calculations:
+(e) Payments for dairy will be equal to the sum of the results of the following two calculations: 
 
-(1) First quarter production, multiplied by the CARES Act payment rate in paragraph (h) of this section; and
+(1) First quarter production, multiplied by the CARES Act payment rate in paragraph (h) of this section; and 
 
-(2) First quarter production, multiplied by 1.014, multiplied by the CCC payment rate in paragraph (h) of this section.
+(2) First quarter production, multiplied by 1.014, multiplied by the CCC payment rate in paragraph (h) of this section. 
 
-(3) Dairy operations that dissolved on or before March 31, 2020, are eligible for payment under paragraph (e)(1) of this section. Dairy operations that dissolve or have dissolved after March 31, 2020, are eligible for a prorated payment under paragraph (e)(2) of this section for the number of days the dairy operation commercially markets milk in the second quarter.
+(3) Dairy operations that dissolved on or before March 31, 2020, are eligible for payment under paragraph (e)(1) of this section. Dairy operations that dissolve or have dissolved after March 31, 2020, are eligible for a prorated payment under paragraph (e)(2) of this section for the number of days the dairy operation commercially markets milk in the second quarter. 
 
-(f) Payments for lambs and yearlings will be equal to the sum of the results of the following two calculations:
+(f) Payments for lambs and yearlings will be equal to the sum of the results of the following two calculations: 
 
-(1) Unpriced lambs and yearlings sold between January 15, 2020, to April 15, 2020, multiplied by the CARES Act payment rate in paragraph (h) of this section; and
+(1) Unpriced lambs and yearlings sold between January 15, 2020, to April 15, 2020, multiplied by the CARES Act payment rate in paragraph (h) of this section; and 
 
-(2) Lambs and yearlings in inventory owned between April 16, 2020, to May 14, 2020, multiplied by the CCC payment rate in paragraph (h) of this section.
+(2) Lambs and yearlings in inventory owned between April 16, 2020, to May 14, 2020, multiplied by the CCC payment rate in paragraph (h) of this section. 
 
-(g) Payments for wool are the sum of:
+(g) Payments for wool are the sum of: 
 
-(1) Unpriced inventory on January 15, 2020, not to exceed 50 percent of 2019 total production, multiplied by 50 percent, multiplied by the CARES Act payment rate paragraph (h) of this section; and
+(1) Unpriced inventory on January 15, 2020, not to exceed 50 percent of 2019 total production, multiplied by 50 percent, multiplied by the CARES Act payment rate paragraph (h) of this section; and 
 
-(2) Unpriced inventory on January 15, 2020, not to exceed 50 percent of 2019 total production, multiplied by 50 percent, multiplied by the CCC payment rate in paragraph (h) of this section.
+(2) Unpriced inventory on January 15, 2020, not to exceed 50 percent of 2019 total production, multiplied by 50 percent, multiplied by the CCC payment rate in paragraph (h) of this section. 
 
-(h) The payment rates in Tables 1 and 2 of this paragraph (h) will be used to calculate CFAP payments:
+(h) The payment rates in Tables 1 and 2 of this paragraph (h) will be used to calculate CFAP payments: 
 
 Table 1 to Paragraph (h)—Payment Rates for Specialty Crops
 
@@ -139,26 +139,26 @@ Table 2 to Paragraph (h)—Payment Rates for Non-Specialty Crops, Dairy, Livesto
 | Wool (graded, clean basis)         | lb   | 0.71                                | 0.78                        |
 | Wool (non-graded, greasy basis)    | lb   | 0.36                                | 0.39                        |
 
-(i) Payments for cattle and hogs will be calculated separately for the following categories:
+(i) Payments for cattle and hogs will be calculated separately for the following categories: 
 
-(1) Slaughter cattle—mature cattle;
+(1) Slaughter cattle—mature cattle; 
 
-(2) Slaughter cattle—fed cattle;
+(2) Slaughter cattle—fed cattle; 
 
-(3) Feeder cattle less than 600 pounds;
+(3) Feeder cattle less than 600 pounds; 
 
-(4) Feeder cattle 600 pounds or more;
+(4) Feeder cattle 600 pounds or more; 
 
-(5) All other cattle;
+(5) All other cattle; 
 
-(6) Pigs; and
+(6) Pigs; and 
 
-(7) Hogs.
+(7) Hogs. 
 
-(j)(1) USDA may make payments with respect to other commodities. In order to determine whether other commodities will be included in CFAP, a notice will be issued that will specify the types of market information the public may submit for consideration by USDA. After receipt of the information and the use of other related information available to USDA, a NOFA will specify the other eligible commodities and the manner in which payments will be determined.
+(j)(1) USDA may make payments with respect to other commodities. In order to determine whether other commodities will be included in CFAP, a notice will be issued that will specify the types of market information the public may submit for consideration by USDA. After receipt of the information and the use of other related information available to USDA, a NOFA will specify the other eligible commodities and the manner in which payments will be determined. 
 
-(2) Producers that are privately owned aquaculture businesses growing freshwater and saltwater products in controlled environments, including raceways, ponds, tanks, and recirculating systems, extending to all farmed shrimp and salmonids (trout and salmon) are included in CFAP to the extent USDA determines individual types of the products have incurred qualifying losses between January 15, 2020, and April 15, 2020. The determination of which species are included will be specified in the NOFA referenced in paragraph (j)(1) of this section. CFAP does not provide assistance for molluscan shellfish and marine algae.
+(2) Producers that are privately owned aquaculture businesses growing freshwater and saltwater products in controlled environments, including raceways, ponds, tanks, and recirculating systems, extending to all farmed shrimp and salmonids (trout and salmon) are included in CFAP to the extent USDA determines individual types of the products have incurred qualifying losses between January 15, 2020, and April 15, 2020. The determination of which species are included will be specified in the NOFA referenced in paragraph (j)(1) of this section. CFAP does not provide assistance for molluscan shellfish and marine algae. 
 
-(k) An initial payment will be issued for 80 percent of each CFAP payment calculated. A final payment will be issued on a date determined by the Secretary, to the extent such funds are available. The total of all CFAP payments made, including all initial and final payments, cannot exceed a total of $9.5 billion for CARES Act funds and $6.5 billion for CCC funds.
+(k) An initial payment will be issued for 80 percent of each CFAP payment calculated. A final payment will be issued on a date determined by the Secretary, to the extent such funds are available. The total of all CFAP payments made, including all initial and final payments, cannot exceed a total of $9.5 billion for CARES Act funds and $6.5 billion for CCC funds. 
 
 \[85 FR 30830, May 21, 2020, as amended at 85 FR 35799, June 12, 2020' 85 FR 41329, July 10, 2020; 85 FR 49594, Aug. 14, 2020; 85 FR 59175, Sept. 21, 2020. Redesignated at 85 FR 59385, Sept. 22, 2020; 86 FR 4882, Jan. 19, 2021; 87 FR 1876, Jan. 11, 2023\]

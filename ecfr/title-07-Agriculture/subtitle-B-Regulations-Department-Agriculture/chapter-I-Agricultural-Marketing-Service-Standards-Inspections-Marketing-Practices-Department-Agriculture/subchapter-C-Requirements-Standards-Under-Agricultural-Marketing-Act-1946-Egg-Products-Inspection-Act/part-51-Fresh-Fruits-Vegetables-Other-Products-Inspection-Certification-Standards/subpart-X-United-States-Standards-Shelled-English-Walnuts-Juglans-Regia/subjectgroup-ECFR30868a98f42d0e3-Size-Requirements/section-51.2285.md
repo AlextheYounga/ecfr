@@ -1,8 +1,8 @@
 ##### § 51.2285 Tolerances for size.
 
-(a) All percentages shall be calculated on the basis of weight.
+(a) All percentages shall be calculated on the basis of weight. 
 
-(b) In order to allow for variations incident to proper sizing and handling, tolerances shall be permitted for the respective size classifications as indicated in Table III:
+(b) In order to allow for variations incident to proper sizing and handling, tolerances shall be permitted for the respective size classifications as indicated in Table III: 
 
 Table III
 

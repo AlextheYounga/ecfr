@@ -1,6 +1,6 @@
 ##### § 51.1404 Size classification.
 
-Size of pecans may be specified in connection with the grade in accordance with one of the following classifications. To meet the requirements for any one of the classifications in Table 1 to this section, the lot must conform to both the specified number of nuts per pound and the weight of the 10 smallest nuts per 100-nut sample.
+Size of pecans may be specified in connection with the grade in accordance with one of the following classifications. To meet the requirements for any one of the classifications in Table 1 to this section, the lot must conform to both the specified number of nuts per pound and the weight of the 10 smallest nuts per 100-nut sample. 
 
 Table 1 to § 51.1404
 | Size classification         | Number of nuts   per pound       | Minimum weight of the 10 smallest nuts per   100-nut sample                                                            |

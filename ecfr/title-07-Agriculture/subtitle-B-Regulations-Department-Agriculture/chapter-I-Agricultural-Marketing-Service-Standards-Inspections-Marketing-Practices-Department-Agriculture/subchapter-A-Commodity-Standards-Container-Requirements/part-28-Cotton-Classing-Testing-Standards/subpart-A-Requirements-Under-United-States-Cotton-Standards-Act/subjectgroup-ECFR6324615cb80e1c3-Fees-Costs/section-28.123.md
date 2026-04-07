@@ -1,6 +1,6 @@
 ##### § 28.123 Costs of practical forms of cotton standards.
 
-The costs of practical forms of the cotton standards of the United States are as follows:
+The costs of practical forms of the cotton standards of the United States are as follows: 
 
 | Effective date: July 1, 1992                                  | Dollars each box or roll |
 | ------------------------------------------------------------- | ------------------------ |

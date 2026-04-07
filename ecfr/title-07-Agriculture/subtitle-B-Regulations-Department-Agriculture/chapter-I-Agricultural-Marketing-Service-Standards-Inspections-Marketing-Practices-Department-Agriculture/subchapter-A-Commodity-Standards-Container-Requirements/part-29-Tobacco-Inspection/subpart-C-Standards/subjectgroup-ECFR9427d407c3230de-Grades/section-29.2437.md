@@ -1,6 +1,6 @@
 ##### § 29.2437 Heavy Leaf (B Group).
 
-This group consists of leaves usually grown at or above the center portion of the stalk. These leaves have a pointed tip, tend to fold, are heavier in body than those of the X or C groups, and show no ground injury. Choice- and fine-quality leaves of this group have a distinctive, smooth leaf surface.
+This group consists of leaves usually grown at or above the center portion of the stalk. These leaves have a pointed tip, tend to fold, are heavier in body than those of the X or C groups, and show no ground injury. Choice- and fine-quality leaves of this group have a distinctive, smooth leaf surface. 
 
 | U.S. grades | Grade names and specifications                                                                                                                                            |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

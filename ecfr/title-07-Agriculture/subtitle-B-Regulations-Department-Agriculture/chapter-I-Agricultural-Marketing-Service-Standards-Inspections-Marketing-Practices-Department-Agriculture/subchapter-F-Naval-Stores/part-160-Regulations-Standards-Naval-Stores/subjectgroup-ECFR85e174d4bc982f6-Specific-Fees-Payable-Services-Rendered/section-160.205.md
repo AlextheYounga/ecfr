@@ -1,8 +1,8 @@
 ##### § 160.205 Permit fees for eligible processing plants under licensed inspection.
 
-Initial permit fee—$20.00.
+Initial permit fee—$20.00. 
 
-Annual renewal permit fee—$20.00.
+Annual renewal permit fee—$20.00. 
 
 Note:
 

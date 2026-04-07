@@ -1,48 +1,48 @@
 ##### § 1400.1 Applicability.
 
-(a) This part, except as otherwise noted, is applicable to all of the following programs and any other programs as specified in individual program regulations of this chapter:
+(a) This part, except as otherwise noted, is applicable to all of the following programs and any other programs as specified in individual program regulations of this chapter: 
 
-(1) The Agriculture Risk Coverage (ARC) and Price Loss Coverage (PLC) Programs, part 1412 of this chapter;
+(1) The Agriculture Risk Coverage (ARC) and Price Loss Coverage (PLC) Programs, part 1412 of this chapter; 
 
 (2) The Price Support programs in parts 1421, 1427, and 1434 of this chapter;
 
-(3) The Conservation Reserve Program (CRP), part 1410 of this chapter;
+(3) The Conservation Reserve Program (CRP), part 1410 of this chapter; 
 
-(4) The Noninsured Crop Disaster Assistance Program (NAP), part 1437 of this chapter;
+(4) The Noninsured Crop Disaster Assistance Program (NAP), part 1437 of this chapter; 
 
-(5) The Livestock Forage Disaster Program (LFP), Livestock Indemnity Program (LIP), and the Emergency Assistance for Livestock, Honey Bees and Farm-raised Fish Program (ELAP), part 1416 of this chapter;
+(5) The Livestock Forage Disaster Program (LFP), Livestock Indemnity Program (LIP), and the Emergency Assistance for Livestock, Honey Bees and Farm-raised Fish Program (ELAP), part 1416 of this chapter; 
 
-(6) The Tree Assistance Program (TAP), part 1416 of this chapter;
+(6) The Tree Assistance Program (TAP), part 1416 of this chapter; 
 
-(7) The Natural Resources Conservation Service (NRCS) conservation programs of this title including the Agricultural Management Assistance (AMA) program, Conservation Stewardship Program (CSP), Environmental Quality Incentives Program (EQIP), and Agricultural Conservation Easement Program (ACEP); and
+(7) The Natural Resources Conservation Service (NRCS) conservation programs of this title including the Agricultural Management Assistance (AMA) program, Conservation Stewardship Program (CSP), Environmental Quality Incentives Program (EQIP), and Agricultural Conservation Easement Program (ACEP); and 
 
-(8) The Emergency Conservation Program (ECP) and Emergency Forest Restoration Program (EFRP) in part 701 of this title.
+(8) The Emergency Conservation Program (ECP) and Emergency Forest Restoration Program (EFRP) in part 701 of this title. 
 
-(9) Subparts C and G of this part do not apply to the programs listed in paragraphs (a)(3) through (8) of this section.
+(9) Subparts C and G of this part do not apply to the programs listed in paragraphs (a)(3) through (8) of this section. 
 
-(b) This part will apply to the programs specified in:
+(b) This part will apply to the programs specified in: 
 
-(1) Paragraphs (a)(1), (2), (4), and (7) of this section on a crop year basis;
+(1) Paragraphs (a)(1), (2), (4), and (7) of this section on a crop year basis; 
 
-(2) Paragraph (a)(3) of this section on a fiscal year basis;
+(2) Paragraph (a)(3) of this section on a fiscal year basis; 
 
-(3) Paragraphs (a)(5) and (6) of this section on a calendar year basis;
+(3) Paragraphs (a)(5) and (6) of this section on a calendar year basis; 
 
-(4) Paragraph (a)(7) of this section when funding is available; and
+(4) Paragraph (a)(7) of this section when funding is available; and 
 
-(5) Paragraph (a)(8) of this section on a per disaster event basis.
+(5) Paragraph (a)(8) of this section on a per disaster event basis. 
 
-(c) This part will be used to determine the manner in which payments will be attributed to persons and legal entities for the payment limitations provided in this section and to other programs as specified in individual program regulations in this chapter.
+(c) This part will be used to determine the manner in which payments will be attributed to persons and legal entities for the payment limitations provided in this section and to other programs as specified in individual program regulations in this chapter. 
 
-(d) Where more than one provision of this part may apply, the provision that is most restrictive on the program participant will be applied.
+(d) Where more than one provision of this part may apply, the provision that is most restrictive on the program participant will be applied. 
 
-(e) The payment limitations of this part are not applicable to:
+(e) The payment limitations of this part are not applicable to: 
 
-(1) Payments made under State conservation reserve enhancement program agreements approved by the Secretary, and
+(1) Payments made under State conservation reserve enhancement program agreements approved by the Secretary, and 
 
-(2) Payments made subject to this part if ownership interest in land or a commodity is transferred as the result of the death of a program participant and the new owner of the land or commodity has succeeded to the contract of the prior owner. If the successor is otherwise eligible, payments cannot exceed the amount the previous owner was entitled to receive at the time of death.
+(2) Payments made subject to this part if ownership interest in land or a commodity is transferred as the result of the death of a program participant and the new owner of the land or commodity has succeeded to the contract of the prior owner. If the successor is otherwise eligible, payments cannot exceed the amount the previous owner was entitled to receive at the time of death. 
 
-(f) The following amounts are the limitations on payments per person or legal entity for the applicable period for each payment or benefit.
+(f) The following amounts are the limitations on payments per person or legal entity for the applicable period for each payment or benefit. 
 
 Table 1 to Paragraph (f)
 | Payment or benefit                                                                                                                                                                                                                                                                                                                                  | Limitation per person or legal entity   ($) |

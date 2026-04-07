@@ -1,16 +1,16 @@
 ##### § 52.3755 Minimum drained weights.
 
-(a) *General.* (1) The minimum drained weights for the various applicable styles in Table II and III are not incorporated in the grade of the finished product since drained weight, as such, is not a factor of quality for the purposes of these grades.
+(a) *General.* (1) The minimum drained weights for the various applicable styles in Table II and III are not incorporated in the grade of the finished product since drained weight, as such, is not a factor of quality for the purposes of these grades. 
 
-(2) The minimum drained weights are based on equalization of the product 30 days or more after the product has been canned.
+(2) The minimum drained weights are based on equalization of the product 30 days or more after the product has been canned. 
 
-(b) *Method for determining drained weight.* The drained weight of canned ripe olives is determined by emptying the contents of the container upon a U.S. Standard No. 8 circular sieve of proper diameter containing eight meshes to the inch (2.3 mm (0.0937 inch), ±3 percent, square openings) so as to distribute the product evenly over the sieve. Without shifting the product, incline the sieve at an angle of 17 degrees to 20 degrees to facilitate drainage and allow to drain for 2 minutes. The weight of drained olives is the weight of the sieve and product less the weight of the dry sieve. A sieve 20 mm (8 inches) in diameter is used for containers with total contents of 1.5 kg (3.3 lbs) and less, and a sieve 30 mm (12 inches) in diameter is used for containers with total contents greater than 1.5 kg (3.3 lbs).
+(b) *Method for determining drained weight.* The drained weight of canned ripe olives is determined by emptying the contents of the container upon a U.S. Standard No. 8 circular sieve of proper diameter containing eight meshes to the inch (2.3 mm (0.0937 inch), ±3 percent, square openings) so as to distribute the product evenly over the sieve. Without shifting the product, incline the sieve at an angle of 17 degrees to 20 degrees to facilitate drainage and allow to drain for 2 minutes. The weight of drained olives is the weight of the sieve and product less the weight of the dry sieve. A sieve 20 mm (8 inches) in diameter is used for containers with total contents of 1.5 kg (3.3 lbs) and less, and a sieve 30 mm (12 inches) in diameter is used for containers with total contents greater than 1.5 kg (3.3 lbs). 
 
-(c) *Compliance with minimum drained weights.* A lot of canned ripe olives is considered as meeting the minimum drained weights if the following criteria are met:
+(c) *Compliance with minimum drained weights.* A lot of canned ripe olives is considered as meeting the minimum drained weights if the following criteria are met: 
 
-(1) The average of the drained weights from all the sample units in the sample is equal to or greater than the acceptance value for drained weights for the size (designated as “X2” in Tables II and III); and
+(1) The average of the drained weights from all the sample units in the sample is equal to or greater than the acceptance value for drained weights for the size (designated as “X2” in Tables II and III); and 
 
-(2) There shall be no unreasonable shortage in any individual container.
+(2) There shall be no unreasonable shortage in any individual container. 
 
 Table II—Acceptance Values for Drained Weights—Whole
 |                | 211 × 304 | 300 × 407 | 603 × 700 |

@@ -1,10 +1,10 @@
 ##### § 2003.10 Rural Development State Offices.
 
-(a) Headed by State Directors, State Offices report directly to the Under Secretary, Rural Development, and are responsible to the three Rural Development agency Administrators for carrying out agency program operations at the State level, ensuring adherence to program plans approved for the State by the Under Secretary, and rendering staff advisory and manpower support to Area and Local offices. The Rural Development State Directors, for budget and accounting purposes, are housed in the RHS agency.
+(a) Headed by State Directors, State Offices report directly to the Under Secretary, Rural Development, and are responsible to the three Rural Development agency Administrators for carrying out agency program operations at the State level, ensuring adherence to program plans approved for the State by the Under Secretary, and rendering staff advisory and manpower support to Area and Local offices. The Rural Development State Directors, for budget and accounting purposes, are housed in the RHS agency. 
 
-(b) Program Directors within the State Office provide oversight and leadership on major program functions. Major program functions include: Single Family and Multi-Family Housing loans and grants, Community Facility, Water and Waste Disposal, Business and Cooperative, and the Empowerment Zones and Enterprise Communities (EZ/EC) programs.
+(b) Program Directors within the State Office provide oversight and leadership on major program functions. Major program functions include: Single Family and Multi-Family Housing loans and grants, Community Facility, Water and Waste Disposal, Business and Cooperative, and the Empowerment Zones and Enterprise Communities (EZ/EC) programs. 
 
-(c) The USDA Rural Development State Office locations are as follows:
+(c) The USDA Rural Development State Office locations are as follows: 
 
 | State          | Location           |
 | -------------- | ------------------ |

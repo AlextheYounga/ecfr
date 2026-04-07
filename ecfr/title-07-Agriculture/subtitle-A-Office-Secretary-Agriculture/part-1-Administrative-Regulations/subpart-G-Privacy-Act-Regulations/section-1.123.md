@@ -1,6 +1,6 @@
 ##### § 1.123 Specific exemptions.
 
-Link to an amendment published at 90 FR 1848, Jan. 10, 2025.
+Link to an amendment published at 90 FR 1848, Jan. 10, 2025.This amendment was delayed until Apr. 11, 2025 90 FR 9283, Feb. 11, 2025.
 
 Pursuant to 5 U.S.C. 552a(k), the systems of records (or portions thereof) maintained by agencies of USDA identified below are exempted from the provisions of 5 U.S.C. 552a (c)(3), (d), (e)(1), (e)(4)(G), (H) and (I), and (f). The reasons for exempting each system are set out in the notice for that system published in the Federal Register.
 

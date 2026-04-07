@@ -1,177 +1,177 @@
 ##### § 51.2335 Grades.
 
-(a) “U.S. Fancy” consists of kiwifruit which meet the following requirements:
+(a) “U.S. Fancy” consists of kiwifruit which meet the following requirements: 
 
-(1) Basic Requirements:
+(1) Basic Requirements: 
 
-(i) Similar varietal characteristics;
+(i) Similar varietal characteristics; 
 
-(ii) Mature;
+(ii) Mature; 
 
-(iii) Not soft, overripe, or shriveled;
+(iii) Not soft, overripe, or shriveled; 
 
-(iv) Carefully packed;
+(iv) Carefully packed; 
 
-(v) Clean; and,
+(v) Clean; and, 
 
-(vi) Well formed.
+(vi) Well formed. 
 
-(2) Free From:
+(2) Free From: 
 
-(i) Worm holes;
+(i) Worm holes; 
 
-(ii) Broken skins which are not healed;
+(ii) Broken skins which are not healed; 
 
-(iii) Sunscald;
+(iii) Sunscald; 
 
-(iv) Freezing injury;
+(iv) Freezing injury; 
 
-(v) Internal breakdown; and,
+(v) Internal breakdown; and, 
 
-(vi) Decay.
+(vi) Decay. 
 
-(3) Free From Injury By:
+(3) Free From Injury By: 
 
-(i) Bruises;
+(i) Bruises; 
 
-(ii) Leaf or limbrubs;
+(ii) Leaf or limbrubs; 
 
-(iii) Discoloration;
+(iii) Discoloration; 
 
-(iv) Hail;
+(iv) Hail; 
 
-(v) Growth cracks;
+(v) Growth cracks; 
 
-(vi) Scab;
+(vi) Scab; 
 
-(vii) Scars;
+(vii) Scars; 
 
-(viii) Heat, sprayburn, or sunburn;
+(viii) Heat, sprayburn, or sunburn; 
 
-(ix) Scale;
+(ix) Scale; 
 
-(x) Insects;
+(x) Insects; 
 
-(xi) Other diseases; and,
+(xi) Other diseases; and, 
 
-(xii) Mechanical or other means.
+(xii) Mechanical or other means. 
 
-(4) Tolerances. (See § 51.2336)
+(4) Tolerances. (See § 51.2336) 
 
-(b) “U.S. No. 1” consists of kiwifruit which meet the following requirements:
+(b) “U.S. No. 1” consists of kiwifruit which meet the following requirements: 
 
-(1) Basic Requirements:
+(1) Basic Requirements: 
 
-(i) Similar varietal characteristics;
+(i) Similar varietal characteristics; 
 
-(ii) Mature;
+(ii) Mature; 
 
-(iii) Not soft, overripe, or shriveled;
+(iii) Not soft, overripe, or shriveled; 
 
-(iv) Carefully packed;
+(iv) Carefully packed; 
 
-(v) Clean; and,
+(v) Clean; and, 
 
-(vi) Fairly well formed.
+(vi) Fairly well formed. 
 
-(2) Free From:
+(2) Free From: 
 
-(i) Worm holes;
+(i) Worm holes; 
 
-(ii) Broken skins which are not healed;
+(ii) Broken skins which are not healed; 
 
-(iii) Sunscald;
+(iii) Sunscald; 
 
-(iv) Freezing injury;
+(iv) Freezing injury; 
 
-(v) Internal breakdown; and,
+(v) Internal breakdown; and, 
 
-(vi) Decay.
+(vi) Decay. 
 
-(3) Free From Damage By:
+(3) Free From Damage By: 
 
-(i) Bruises;
+(i) Bruises; 
 
-(ii) Leaf or limbrubs;
+(ii) Leaf or limbrubs; 
 
-(iii) Discoloration;
+(iii) Discoloration; 
 
-(iv) Hail;
+(iv) Hail; 
 
-(v) Growth cracks;
+(v) Growth cracks; 
 
-(vi) Scab;
+(vi) Scab; 
 
-(vii) Scars;
+(vii) Scars; 
 
-(viii) Heat, sprayburn, or sunburn;
+(viii) Heat, sprayburn, or sunburn; 
 
-(ix) Scale;
+(ix) Scale; 
 
-(x) Insects;
+(x) Insects; 
 
-(xi) Other diseases; and,
+(xi) Other diseases; and, 
 
-(xii) Mechanical or other means.
+(xii) Mechanical or other means. 
 
-(4) Tolerances. (See § 51.2336):
+(4) Tolerances. (See § 51.2336): 
 
-(c) “U.S. No. 2” consists of kiwifruit which meet the following requirements:
+(c) “U.S. No. 2” consists of kiwifruit which meet the following requirements: 
 
-(1) Basic Requirements:
+(1) Basic Requirements: 
 
-(i) Similar varietal characteristics;
+(i) Similar varietal characteristics; 
 
-(ii) Mature;
+(ii) Mature; 
 
-(iii) Not soft, overripe, or shriveled;
+(iii) Not soft, overripe, or shriveled; 
 
-(iv) Carefully packed;
+(iv) Carefully packed; 
 
-(v) Fairly clean; and,
+(v) Fairly clean; and, 
 
-(vi) Not badly misshapen.
+(vi) Not badly misshapen. 
 
-(2) Free From:
+(2) Free From: 
 
-(i) Worm holes;
+(i) Worm holes; 
 
-(ii) Broken skins which are not healed;
+(ii) Broken skins which are not healed; 
 
-(iii) Sunscald;
+(iii) Sunscald; 
 
-(iv) Freezing injury;
+(iv) Freezing injury; 
 
-(v) Internal breakdown; and,
+(v) Internal breakdown; and, 
 
-(vi) Decay.
+(vi) Decay. 
 
-(3) Free From Serious Damage By:
+(3) Free From Serious Damage By: 
 
-(i) Bruises;
+(i) Bruises; 
 
-(ii) Leaf or limbrubs;
+(ii) Leaf or limbrubs; 
 
-(iii) Discoloration;
+(iii) Discoloration; 
 
-(iv) Hail;
+(iv) Hail; 
 
-(v) Growth cracks;
+(v) Growth cracks; 
 
-(vi) Scab;
+(vi) Scab; 
 
-(vii) Scars;
+(vii) Scars; 
 
-(viii) Heat, sprayburn, or sunburn;
+(viii) Heat, sprayburn, or sunburn; 
 
-(ix) Scale;
+(ix) Scale; 
 
-(x) Insects;
+(x) Insects; 
 
-(xi) Other diseases; and,
+(xi) Other diseases; and, 
 
-(xii) Mechanical or other means.
+(xii) Mechanical or other means. 
 
-(4) Tolerances. (See § 51.2336)
+(4) Tolerances. (See § 51.2336) 
 
 \[47 FR 34513, Aug. 10, 1982, as amended at 51 FR 36682, Oct. 15, 1986\]

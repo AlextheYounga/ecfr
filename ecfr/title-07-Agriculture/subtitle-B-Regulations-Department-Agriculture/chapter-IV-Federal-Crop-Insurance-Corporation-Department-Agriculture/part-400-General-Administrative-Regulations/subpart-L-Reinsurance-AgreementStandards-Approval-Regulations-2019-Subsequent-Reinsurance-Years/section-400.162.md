@@ -1,16 +1,16 @@
 ##### § 400.162 Qualification ratios.
 
-(a) The eighteen qualification ratios include:
+(a) The eighteen qualification ratios include: 
 
-(1) Thirteen National Association of Insurance Commissioner's (NAIC) Insurance Regulatory Information System (IRIS) ratios found in paragraphs (b)(1) through (12) and (17) of this section and referenced in “Using the NAIC Insurance Regulatory Information System” distributed by NAIC, 1100 Walnut St., Suite 1500, Kansas City, MO 64106-2197;
+(1) Thirteen National Association of Insurance Commissioner's (NAIC) Insurance Regulatory Information System (IRIS) ratios found in paragraphs (b)(1) through (12) and (17) of this section and referenced in “Using the NAIC Insurance Regulatory Information System” distributed by NAIC, 1100 Walnut St., Suite 1500, Kansas City, MO 64106-2197; 
 
-(2) Three ratios used by A.M. Best Company found in paragraphs (b)(13), (15), and (16) of this section and referenced in Best's Key Rating Guide, A.M. Best, Ambest Road, Oldwick, N.J. 08858-0700;
+(2) Three ratios used by A.M. Best Company found in paragraphs (b)(13), (15), and (16) of this section and referenced in Best's Key Rating Guide, A.M. Best, Ambest Road, Oldwick, N.J. 08858-0700; 
 
-(3) One ratio found in paragraph (b)(14) of this section which is formulated by FCIC and is calculated the same as the One-Year Change to Surplus IRIS ratio but for a two-year period; and
+(3) One ratio found in paragraph (b)(14) of this section which is formulated by FCIC and is calculated the same as the One-Year Change to Surplus IRIS ratio but for a two-year period; and 
 
-(4) One ratio found in paragraph (b)(18) of this section, which is reported on the annual statutory financial statement.
+(4) One ratio found in paragraph (b)(18) of this section, which is reported on the annual statutory financial statement. 
 
-(b) The Company shall provide an explanation for any ratio falling outside of the following requirements in paragraphs (b)(1) through (18):
+(b) The Company shall provide an explanation for any ratio falling outside of the following requirements in paragraphs (b)(1) through (18): 
 
 | Ratio                                                              | Ratio   requirement |
 | ------------------------------------------------------------------ | ------------------- |

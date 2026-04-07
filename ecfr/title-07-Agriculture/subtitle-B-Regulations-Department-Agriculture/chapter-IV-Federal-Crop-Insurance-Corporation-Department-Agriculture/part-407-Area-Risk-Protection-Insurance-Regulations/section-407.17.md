@@ -1,34 +1,34 @@
 ##### § 407.17 Area risk protection insurance for wheat.
 
-The wheat crop insurance provisions for Area Risk Protection Insurance for the 2014 and succeeding crop years are as follows:
+The wheat crop insurance provisions for Area Risk Protection Insurance for the 2014 and succeeding crop years are as follows: 
 
 UNITED STATES DEPARTMENT OF AGRICULTURE Federal Crop Insurance Corporation Area Risk Protection Insurance Wheat Crop Insurance Provisions 1. Definitions
 
-*Harvest.* Combining or threshing the wheat for grain.
+*Harvest.* Combining or threshing the wheat for grain. 
 
-*Planted acreage.* In addition to the definition contained in the Area Risk Protection Insurance Basic Provisions, land on which seed is initially spread onto the soil surface by any method and which subsequently is mechanically incorporated into the soil in a timely manner and at the proper depth will also be considered planted.
+*Planted acreage.* In addition to the definition contained in the Area Risk Protection Insurance Basic Provisions, land on which seed is initially spread onto the soil surface by any method and which subsequently is mechanically incorporated into the soil in a timely manner and at the proper depth will also be considered planted. 
 
 2\. Insured Crop
 
-The insured crop will be all wheat:
+The insured crop will be all wheat: 
 
-(a) Grown on insurable acreage in the county listed on the accepted application;
+(a) Grown on insurable acreage in the county listed on the accepted application; 
 
-(b) Properly planted by the final planting date and reported on or before the acreage reporting date;
+(b) Properly planted by the final planting date and reported on or before the acreage reporting date; 
 
-(c) Planted with the intent to be harvested;
+(c) Planted with the intent to be harvested; 
 
-(d) Not planted into an established grass or legume;
+(d) Not planted into an established grass or legume; 
 
-(e) Not interplanted with another crop; and
+(e) Not interplanted with another crop; and 
 
-(f) Not planted as a nurse crop, unless seeded at the normal rate and intended for harvest as grain.
+(f) Not planted as a nurse crop, unless seeded at the normal rate and intended for harvest as grain. 
 
 3\. Payment Dates
 
-(a) Unless otherwise specified in the Special Provisions the final county revenues and final county yields will be determined prior to April 1 following the crop year.
+(a) Unless otherwise specified in the Special Provisions the final county revenues and final county yields will be determined prior to April 1 following the crop year. 
 
-(b) If an indemnity is due, unless otherwise specified in the Special Provisions we will issue any payment to you prior to May 1 following the crop year and following the determination of the final county revenue or the final county yield, as applicable.
+(b) If an indemnity is due, unless otherwise specified in the Special Provisions we will issue any payment to you prior to May 1 following the crop year and following the determination of the final county revenue or the final county yield, as applicable. 
 
 4\. Program Dates
 

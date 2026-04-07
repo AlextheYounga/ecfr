@@ -1,100 +1,100 @@
 ##### § 226.20 Requirements for meals.
 
-(a) *Meal components.* Except as otherwise provided in this section, each meal served in the Program must contain, at a minimum, the indicated components:
+(a) *Meal components.* Except as otherwise provided in this section, each meal served in the Program must contain, at a minimum, the indicated components: 
 
-(1) *Fluid milk.* Fluid milk must be served as a beverage or on cereal, or a combination of both. Lactose-free and reduced-lactose milk that meet the fat content and flavor specifications for each age group may also be offered.
+(1) *Fluid milk.* Fluid milk must be served as a beverage or on cereal, or a combination of both. Lactose-free and reduced-lactose milk that meet the fat content and flavor specifications for each age group may also be offered. 
 
-(i) *Children 1 year old.* Unflavored whole milk must be served.
+(i) *Children 1 year old.* Unflavored whole milk must be served. 
 
-(ii) *Children 2 through 5 years old.* Either unflavored low-fat (1 percent) or unflavored fat-free (skim) milk must be served.
+(ii) *Children 2 through 5 years old.* Either unflavored low-fat (1 percent) or unflavored fat-free (skim) milk must be served. 
 
-(iii) *Children 6 years old and older.* Low-fat (1 percent fat or less) or fat-free (skim) milk must be served. Milk may be unflavored or flavored.
+(iii) *Children 6 years old and older.* Low-fat (1 percent fat or less) or fat-free (skim) milk must be served. Milk may be unflavored or flavored. 
 
-(iv) *Adults.* Low-fat (1 percent fat or less) or fat-free (skim) milk must be served. Milk may be unflavored or flavored. Six ounces (weight) or 3/4 cup (volume) of yogurt may be used to fulfill the equivalent of 8 ounces of fluid milk once per day. Yogurt may be counted as either a fluid milk substitute or as a meat alternate, but not as both in the same meal.
+(iv) *Adults.* Low-fat (1 percent fat or less) or fat-free (skim) milk must be served. Milk may be unflavored or flavored. Six ounces (weight) or 3/4 cup (volume) of yogurt may be used to fulfill the equivalent of 8 ounces of fluid milk once per day. Yogurt may be counted as either a fluid milk substitute or as a meat alternate, but not as both in the same meal. 
 
-(2) *Vegetables.* A serving may contain fresh, frozen, or canned vegetables, dry beans, peas, and lentils, or vegetable juice. All vegetables are credited based on their volume as served, except that 1 cup of leafy greens counts as 1/2 cup of vegetables.
+(2) *Vegetables.* A serving may contain fresh, frozen, or canned vegetables, dry beans, peas, and lentils, or vegetable juice. All vegetables are credited based on their volume as served, except that 1 cup of leafy greens counts as 1/2 cup of vegetables. 
 
-(i) Pasteurized, full-strength vegetable juice may be used to fulfill the entire requirement. Vegetable juice or fruit juice may only be served at one meal, including snack, per day.
+(i) Pasteurized, full-strength vegetable juice may be used to fulfill the entire requirement. Vegetable juice or fruit juice may only be served at one meal, including snack, per day. 
 
-(ii) Cooked dry beans, peas, and lentils may be counted as either a vegetable or as a meat alternate, but not as both in the same dish.
+(ii) Cooked dry beans, peas, and lentils may be counted as either a vegetable or as a meat alternate, but not as both in the same dish. 
 
-(3) *Fruits.* A serving may contain fresh, frozen, canned, dried fruits, or fruit juice. All fruits are based on their volume as served, except that 1/4 cup of dried fruit counts as 1/2 cup of fruit.
+(3) *Fruits.* A serving may contain fresh, frozen, canned, dried fruits, or fruit juice. All fruits are based on their volume as served, except that 1/4 cup of dried fruit counts as 1/2 cup of fruit. 
 
-(i) Pasteurized, full-strength fruit juice may be used to fulfill the entire requirement. Fruit juice or vegetable juice may only be served at one meal, including snack, per day.
+(i) Pasteurized, full-strength fruit juice may be used to fulfill the entire requirement. Fruit juice or vegetable juice may only be served at one meal, including snack, per day. 
 
-(ii) A vegetable may be used to meet the entire fruit requirement at lunch and supper. When two vegetables are served at lunch or supper, two different kinds of vegetables must be served.
+(ii) A vegetable may be used to meet the entire fruit requirement at lunch and supper. When two vegetables are served at lunch or supper, two different kinds of vegetables must be served. 
 
-(4) *Grains*—(i) *Enriched and whole grains.* All grains must be made with enriched or whole grain meal or flour.
+(4) *Grains*—(i) *Enriched and whole grains.* All grains must be made with enriched or whole grain meal or flour. 
 
-(A) At least one serving per day, across all eating occasions of bread, cereals, and grains, must be whole grain-rich, as defined in § 226.2. Whole grain-rich is the term designated by FNS to indicate that the grain content of a product is between 50 and 100 percent whole grain with any remaining grains being enriched.
+(A) At least one serving per day, across all eating occasions of bread, cereals, and grains, must be whole grain-rich, as defined in § 226.2. Whole grain-rich is the term designated by FNS to indicate that the grain content of a product is between 50 and 100 percent whole grain with any remaining grains being enriched. 
 
-(B) A serving may contain whole grain-rich or enriched bread, cornbread, biscuits, rolls, muffins, and other bread products; or whole grain-rich, enriched, or fortified cereal grain, cooked pasta or noodle products, or breakfast cereal; or any combination of these foods.
+(B) A serving may contain whole grain-rich or enriched bread, cornbread, biscuits, rolls, muffins, and other bread products; or whole grain-rich, enriched, or fortified cereal grain, cooked pasta or noodle products, or breakfast cereal; or any combination of these foods. 
 
-(ii) *Breakfast cereals.* Breakfast cereals are those as defined by the Food and Drug Administration in 21 CFR 170.3(n)(4) for ready-to-eat and instant and regular hot cereals. Through September 30, 2025, breakfast cereals must contain no more than 6 grams of total sugars per dry ounce. By October 1, 2025, breakfast cereals must contain no more than 6 grams of added sugars per dry ounce.
+(ii) *Breakfast cereals.* Breakfast cereals are those as defined by the Food and Drug Administration in 21 CFR 170.3(n)(4) for ready-to-eat and instant and regular hot cereals. Through September 30, 2025, breakfast cereals must contain no more than 6 grams of total sugars per dry ounce. By October 1, 2025, breakfast cereals must contain no more than 6 grams of added sugars per dry ounce. 
 
-(iii) *Desserts.* Grain-based desserts do not count toward meeting the grains requirement.
+(iii) *Desserts.* Grain-based desserts do not count toward meeting the grains requirement. 
 
-(5) *Meats/meat alternates*—(i) *Serving meats/meat alternates.* Meats/meat alternates must be served in a main dish, or in a main dish and one other menu item. The creditable quantity of meats/meat alternates must be the edible portion as served of:
+(5) *Meats/meat alternates*—(i) *Serving meats/meat alternates.* Meats/meat alternates must be served in a main dish, or in a main dish and one other menu item. The creditable quantity of meats/meat alternates must be the edible portion as served of: 
 
-(A) Lean meat, poultry, or fish;
+(A) Lean meat, poultry, or fish; 
 
-(B) Alternate protein products;
+(B) Alternate protein products; 
 
-(C) Cheese, or an egg;
+(C) Cheese, or an egg; 
 
-(D) Cooked dry beans, peas, and lentils;
+(D) Cooked dry beans, peas, and lentils; 
 
-(E) Peanut butter; or
+(E) Peanut butter; or 
 
-(F) Any combination of these foods.
+(F) Any combination of these foods. 
 
-(ii) *Nuts and seeds.* Nuts and seeds and their butters are allowed as meat alternates. Information on crediting nuts and seeds may be found in FNS guidance.
+(ii) *Nuts and seeds.* Nuts and seeds and their butters are allowed as meat alternates. Information on crediting nuts and seeds may be found in FNS guidance. 
 
-(A) Nut and seed meals or flours may credit only if they meet the requirements for alternate protein products established in appendix A of this part.
+(A) Nut and seed meals or flours may credit only if they meet the requirements for alternate protein products established in appendix A of this part. 
 
-(B) Acorns, chestnuts, and coconuts do not credit as meat alternates because of their low protein and iron content.
+(B) Acorns, chestnuts, and coconuts do not credit as meat alternates because of their low protein and iron content. 
 
-(iii) *Yogurt.* Four ounces (weight) or 1/2 cup (volume) of yogurt equals one ounce of the meats/meat alternates component. Yogurt may be used to meet all or part of the meats/meat alternates component as follows:
+(iii) *Yogurt.* Four ounces (weight) or 1/2 cup (volume) of yogurt equals one ounce of the meats/meat alternates component. Yogurt may be used to meet all or part of the meats/meat alternates component as follows: 
 
-(A) Yogurt may be plain or flavored, unsweetened, or sweetened;
+(A) Yogurt may be plain or flavored, unsweetened, or sweetened; 
 
-(B) Through September 30, 2025, yogurt must contain no more than 23 grams of total sugars per 6 ounces. By October 1, 2025, yogurt must contain no more than 12 grams of added sugars per 6 ounces (2 grams of added sugars per ounce);
+(B) Through September 30, 2025, yogurt must contain no more than 23 grams of total sugars per 6 ounces. By October 1, 2025, yogurt must contain no more than 12 grams of added sugars per 6 ounces (2 grams of added sugars per ounce); 
 
-(C) Noncommercial or commercial standardized yogurt products, such as frozen yogurt, drinkable yogurt products, homemade yogurt, yogurt flavored products, yogurt bars, yogurt covered fruits or nuts, or similar products are not creditable; and
+(C) Noncommercial or commercial standardized yogurt products, such as frozen yogurt, drinkable yogurt products, homemade yogurt, yogurt flavored products, yogurt bars, yogurt covered fruits or nuts, or similar products are not creditable; and 
 
-(D) For adults, yogurt may only be used as a meat alternate when it is not also being used as a fluid milk substitute in the same meal.
+(D) For adults, yogurt may only be used as a meat alternate when it is not also being used as a fluid milk substitute in the same meal. 
 
-(iv) *Tofu and soy products.* Commercial tofu and soy products may be used to meet all or part of the meats/meat alternates component in accordance with FNS guidance and appendix A of this part. Non-commercial and non-standardized tofu and soy products cannot be used.
+(iv) *Tofu and soy products.* Commercial tofu and soy products may be used to meet all or part of the meats/meat alternates component in accordance with FNS guidance and appendix A of this part. Non-commercial and non-standardized tofu and soy products cannot be used. 
 
-(v) *Beans, peas, and lentils.* Cooked dry beans, peas, and lentils may be used to meet all or part of the meats/meat alternates component. Beans, peas, and lentils include black beans, garbanzo beans, lentils, kidney beans, mature lima beans, navy beans, pinto beans, and split peas. Beans, peas, and lentils may be counted as either a meat/meat alternate or as a vegetable, but not as both in the same dish.
+(v) *Beans, peas, and lentils.* Cooked dry beans, peas, and lentils may be used to meet all or part of the meats/meat alternates component. Beans, peas, and lentils include black beans, garbanzo beans, lentils, kidney beans, mature lima beans, navy beans, pinto beans, and split peas. Beans, peas, and lentils may be counted as either a meat/meat alternate or as a vegetable, but not as both in the same dish. 
 
-(vi) *Other meat alternates.* Other meat alternates, such as cheese, eggs, and nut butters may be used to meet all or part of the meats/meat alternates component.
+(vi) *Other meat alternates.* Other meat alternates, such as cheese, eggs, and nut butters may be used to meet all or part of the meats/meat alternates component. 
 
-(b) *Infant meals*—(1) *Feeding infants.* Foods in reimbursable meals served to infants ages birth through 11 months must be of a texture and a consistency that are appropriate for the age and development of the infant being fed. Foods must also be served during a span of time consistent with the infant's eating habits.
+(b) *Infant meals*—(1) *Feeding infants.* Foods in reimbursable meals served to infants ages birth through 11 months must be of a texture and a consistency that are appropriate for the age and development of the infant being fed. Foods must also be served during a span of time consistent with the infant's eating habits. 
 
-(2) *Breastmilk and iron-fortified formula.* Breastmilk or iron-fortified infant formula, or portions of both, must be served to infants birth through 11 months of age. An institution or facility must offer at least one type of iron-fortified infant formula. Meals containing breastmilk or iron-fortified infant formula supplied by the institution or facility, or by the parent or guardian, are eligible for reimbursement.
+(2) *Breastmilk and iron-fortified formula.* Breastmilk or iron-fortified infant formula, or portions of both, must be served to infants birth through 11 months of age. An institution or facility must offer at least one type of iron-fortified infant formula. Meals containing breastmilk or iron-fortified infant formula supplied by the institution or facility, or by the parent or guardian, are eligible for reimbursement. 
 
-(i) *Parent or guardian provided breastmilk or iron-fortified formula.* A parent or guardian may choose to accept the offered formula, or decline the offered formula and supply expressed breastmilk or an iron-fortified infant formula instead. Meals in which a mother directly breastfeeds her child at the child care institution or facility are also eligible for reimbursement. When a parent or guardian chooses to provide breastmilk or iron-fortified infant formula and the infant is consuming solid foods, the institution or facility must supply all other required meal components in order for the meal to be reimbursable.
+(i) *Parent or guardian provided breastmilk or iron-fortified formula.* A parent or guardian may choose to accept the offered formula, or decline the offered formula and supply expressed breastmilk or an iron-fortified infant formula instead. Meals in which a mother directly breastfeeds her child at the child care institution or facility are also eligible for reimbursement. When a parent or guardian chooses to provide breastmilk or iron-fortified infant formula and the infant is consuming solid foods, the institution or facility must supply all other required meal components in order for the meal to be reimbursable. 
 
-(ii) *Breastfed infants.* For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered. In these situations, additional breastmilk must be offered at a later time if the infant will consume more.
+(ii) *Breastfed infants.* For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered. In these situations, additional breastmilk must be offered at a later time if the infant will consume more. 
 
-(3) *Solid foods.* The gradual introduction of solid foods may begin at six months of age, or before or after six months of age if it is developmentally appropriate for the infant and in accordance with FNS guidance.
+(3) *Solid foods.* The gradual introduction of solid foods may begin at six months of age, or before or after six months of age if it is developmentally appropriate for the infant and in accordance with FNS guidance. 
 
-(4) *Infant meal pattern.* Infant meals must have, at a minimum, each of the food components indicated, in the amount that is appropriate for the infant's age.
+(4) *Infant meal pattern.* Infant meals must have, at a minimum, each of the food components indicated, in the amount that is appropriate for the infant's age. 
 
-(i) *Birth through 5 months*—(A) *Breakfast.* Four to 6 fluid ounces of breastmilk or iron-fortified infant formula, or portions of both.
+(i) *Birth through 5 months*—(A) *Breakfast.* Four to 6 fluid ounces of breastmilk or iron-fortified infant formula, or portions of both. 
 
-(B) *Lunch or supper.* Four to 6 fluid ounces of breastmilk or iron-fortified infant formula, or portions of both.
+(B) *Lunch or supper.* Four to 6 fluid ounces of breastmilk or iron-fortified infant formula, or portions of both. 
 
-(C) *Snack.* Four to 6 fluid ounces of breastmilk or iron-fortified infant formula, or portions of both.
+(C) *Snack.* Four to 6 fluid ounces of breastmilk or iron-fortified infant formula, or portions of both. 
 
-(ii) *6 through 11 months.* Breastmilk or iron-fortified formula, or portions of both, is required. Meals are reimbursable when institutions and facilities provide all the components in the meal pattern that the infant is developmentally ready to accept.
+(ii) *6 through 11 months.* Breastmilk or iron-fortified formula, or portions of both, is required. Meals are reimbursable when institutions and facilities provide all the components in the meal pattern that the infant is developmentally ready to accept. 
 
-(A) *Breakfast, lunch, or supper.* Six to 8 fluid ounces of breastmilk or iron-fortified infant formula, or portions of both; and 0 to 1/2 ounce equivalent of iron-fortified dry infant cereal; or 0-4 tablespoons meat, fish, poultry, whole egg, cooked dry beans, peas, and lentils; or 0 to 2 ounces (weight) of cheese; or 0 to 4 ounces (volume) of cottage cheese; or 0 to 4 ounces of yogurt; and 0 to 2 tablespoons of vegetable, fruit, or portions of both. Fruit juices and vegetable juices must not be served.
+(A) *Breakfast, lunch, or supper.* Six to 8 fluid ounces of breastmilk or iron-fortified infant formula, or portions of both; and 0 to 1/2 ounce equivalent of iron-fortified dry infant cereal; or 0-4 tablespoons meat, fish, poultry, whole egg, cooked dry beans, peas, and lentils; or 0 to 2 ounces (weight) of cheese; or 0 to 4 ounces (volume) of cottage cheese; or 0 to 4 ounces of yogurt; and 0 to 2 tablespoons of vegetable, fruit, or portions of both. Fruit juices and vegetable juices must not be served. 
 
-(B) *Snack.* Two to 4 fluid ounces of breastmilk or iron-fortified infant formula; and 0 to 1/2 ounce equivalent bread; or 0- 1/4 ounce equivalent crackers; or 0- 1/2 ounce equivalent infant cereal or ready-to-eat cereals; and 0 to 2 tablespoons of vegetable or fruit, or portions of both. Fruit juices and vegetable juices must not be served. A serving of grains must be whole grain-rich, enriched meal, or enriched flour.
+(B) *Snack.* Two to 4 fluid ounces of breastmilk or iron-fortified infant formula; and 0 to 1/2 ounce equivalent bread; or 0- 1/4 ounce equivalent crackers; or 0- 1/2 ounce equivalent infant cereal or ready-to-eat cereals; and 0 to 2 tablespoons of vegetable or fruit, or portions of both. Fruit juices and vegetable juices must not be served. A serving of grains must be whole grain-rich, enriched meal, or enriched flour. 
 
-(5) *Infant meal pattern table.* The minimum amounts of meal components to serve to infants, as described in paragraph (b)(4) of this section, are:
+(5) *Infant meal pattern table.* The minimum amounts of meal components to serve to infants, as described in paragraph (b)(4) of this section, are: 
 
 Table 1 to Paragraph (b)(5)—Infant Meal Patterns
 | Infants                                                                                                                                                                                                                                                                                                                                                                                                                    | Birth through 5 months                      | 6 through 11 months                                                                     |
@@ -121,9 +121,9 @@ Table 1 to Paragraph (b)(5)—Infant Meal Patterns
 | 7 A serving of grains must be whole grain-rich, enriched meal, enriched flour, bran, or germ.                                                                                                                                                                                                                                                                                                                              |                                             |                                                                                         |
 | 8 Through September 30, 2025, breakfast cereals must contain no more than 6 grams of total sugars per dry ounce. By October 1, 2025, breakfast cereals must contain no more than 6 grams of added sugars per dry ounce.                                                                                                                                                                                                    |                                             |                                                                                         |
 
-(c) *Meal patterns for children age 1 through 18 and adult participants.* Institutions and facilities must serve the meal components and quantities specified in the following meal patterns for children and adult participants in order to qualify for reimbursement.
+(c) *Meal patterns for children age 1 through 18 and adult participants.* Institutions and facilities must serve the meal components and quantities specified in the following meal patterns for children and adult participants in order to qualify for reimbursement. 
 
-(1) *Breakfast.* Fluid milk, vegetables or fruit, or portions of both, and grains are required components of the breakfast meal. Meats/meat alternates may be offered to meet the entire grains requirement a maximum of three times per week. The minimum amounts of meal components to be served at breakfast are as follows:
+(1) *Breakfast.* Fluid milk, vegetables or fruit, or portions of both, and grains are required components of the breakfast meal. Meats/meat alternates may be offered to meet the entire grains requirement a maximum of three times per week. The minimum amounts of meal components to be served at breakfast are as follows: 
 
 Table 2 to Paragraph (c)(1)—Child and Adult Care Food Program Breakfast
 
@@ -142,7 +142,7 @@ Table 2 to Paragraph (c)(1)—Child and Adult Care Food Program Breakfast
 | 7 Juice must be pasteurized. Full-strength juice may only be offered to meet the vegetable or fruit requirement at one meal or snack, per day.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                      |
 | 8 Must serve at least one whole grain-rich serving, across all eating occasions, per day. Grain-based desserts may not be used to meet the grains requirement. Meats/meat alternates may be offered in place of the entire grains requirement, up to 3 times per week at breakfast. One ounce equivalent of meats/meat alternates credits equal to one ounce equivalent of grains. Through September 30, 2025, breakfast cereals must contain no more than 6 grams of total sugars per dry ounce. By October 1, 2025, breakfast cereals must contain no more than 6 grams of added sugars per dry ounce. Information on crediting grain items and meats/meat alternates may be found in FNS guidance. |                      |
 
-(2) *Lunch and supper.* Fluid milk, meats/meat alternates, vegetables, fruits, and grains are required components in the lunch and supper meals. The minimum amounts of meal components to be served at lunch and supper are as follows:
+(2) *Lunch and supper.* Fluid milk, meats/meat alternates, vegetables, fruits, and grains are required components in the lunch and supper meals. The minimum amounts of meal components to be served at lunch and supper are as follows: 
 
 Table 3 to Paragraph (c)(2)—Child and Adult Care Food Program Lunch and Supper
 
@@ -164,7 +164,7 @@ Table 3 to Paragraph (c)(2)—Child and Adult Care Food Program Lunch and Supper
 | 8 Juice must be pasteurized. Full-strength juice may only be offered to meet the vegetable or fruit requirement at one meal or snack, per day. A vegetable may be offered to meet the entire fruit requirement. When two vegetables are served at lunch or supper, two different kinds of vegetables must be served.                                                                                                                                                             |                      |
 | 9 Must serve at least one whole grain-rich serving, across all eating occasions, per day. Grain-based desserts may not be used to meet the grains requirement. Through September 30, 2025, breakfast cereals must contain no more than 6 grams of total sugars per dry ounce. By October 1, 2025, breakfast cereal must contain no more than 6 grams of added sugars per dry ounce. Information on crediting grain items may be found in FNS guidance.                           |                      |
 
-(3) *Snack.* Serve two of the following five components: Fluid milk, meats/meat alternates, vegetables, fruits, and grains. Fruit juice, vegetable juice, and milk may comprise only one component of the snack. The minimum amounts of meal components to be served at snacks are as follows:
+(3) *Snack.* Serve two of the following five components: Fluid milk, meats/meat alternates, vegetables, fruits, and grains. Fruit juice, vegetable juice, and milk may comprise only one component of the snack. The minimum amounts of meal components to be served at snacks are as follows: 
 
 Table 4 to Paragraph (c)(3)—Child and Adult Care Food Program Snack
 
@@ -186,33 +186,33 @@ Table 4 to Paragraph (c)(3)—Child and Adult Care Food Program Snack
 | 8 Juice must be pasteurized. Full-strength juice may only be offered to meet the vegetable or fruit requirement at one meal or snack, per day.                                                                                                                                                                                                                                                                                                        |                      |
 | 9 Must serve at least one whole grain-rich serving, across all eating occasions, per day. Grain-based desserts may not be used to meet the grains requirement. Through September 30, 2025, breakfast cereals must contain no more than 6 grams of total sugars per dry ounce. By October 1, 2025, breakfast cereal must contain no more than 6 grams of added sugar per dry ounce. Information on crediting grain items may be found in FNS guidance. |                      |
 
-(d) *Food preparation.* Deep-fat fried foods that are prepared on-site cannot be part of the reimbursable meal. For this purpose, deep-fat frying means cooking by submerging food in hot oil or other fat. Foods that are pre-fried, flash-fried, or par-fried by a commercial manufacturer may be served, but must be reheated by a method other than frying.
+(d) *Food preparation.* Deep-fat fried foods that are prepared on-site cannot be part of the reimbursable meal. For this purpose, deep-fat frying means cooking by submerging food in hot oil or other fat. Foods that are pre-fried, flash-fried, or par-fried by a commercial manufacturer may be served, but must be reheated by a method other than frying. 
 
-(e) *Unavailability of fluid milk*—(1) *Temporary.* When emergency conditions prevent an institution or facility normally having a supply of milk from temporarily obtaining milk deliveries, the State agency may approve the service of breakfast, lunches, or suppers without milk during the emergency period.
+(e) *Unavailability of fluid milk*—(1) *Temporary.* When emergency conditions prevent an institution or facility normally having a supply of milk from temporarily obtaining milk deliveries, the State agency may approve the service of breakfast, lunches, or suppers without milk during the emergency period. 
 
-(2) *Continuing.* When an institution or facility is unable to obtain a supply of milk on a continuing basis, the State agency may approve service of meals without milk, provided an equivalent amount of canned, whole dry or fat-free dry milk is used in the preparation of the components of the meal set forth in paragraph (a) of this section.
+(2) *Continuing.* When an institution or facility is unable to obtain a supply of milk on a continuing basis, the State agency may approve service of meals without milk, provided an equivalent amount of canned, whole dry or fat-free dry milk is used in the preparation of the components of the meal set forth in paragraph (a) of this section. 
 
-(f) *Grain substitutions.* In American Samoa, Guam, Hawaii, Puerto Rico, and the U.S. Virgin Islands, and in institutions or facilities in any State that serve primarily American Indian or Alaska Native participants, any vegetable, including vegetables such as breadfruit, prairie turnips, plantains, sweet potatoes, and yams, may be served to meet the grains requirement.
+(f) *Grain substitutions.* In American Samoa, Guam, Hawaii, Puerto Rico, and the U.S. Virgin Islands, and in institutions or facilities in any State that serve primarily American Indian or Alaska Native participants, any vegetable, including vegetables such as breadfruit, prairie turnips, plantains, sweet potatoes, and yams, may be served to meet the grains requirement. 
 
-(g) *Modifications and variations in reimbursable meals and snacks as described in paragraphs (a) through (c) of this section*—(1) *Modifications for disability reasons.* Institutions and facilities must make meal modifications including substitutions in meals and snacks described in this section for participants with a disability and whose disability restricts their diet. The modification requested must be related to the disability and must be offered at no additional cost to the child or adult participant.
+(g) *Modifications and variations in reimbursable meals and snacks as described in paragraphs (a) through (c) of this section*—(1) *Modifications for disability reasons.* Institutions and facilities must make meal modifications including substitutions in meals and snacks described in this section for participants with a disability and whose disability restricts their diet. The modification requested must be related to the disability and must be offered at no additional cost to the child or adult participant. 
 
-(i) In order to receive Federal reimbursement when a modified meal does not meet the meal pattern requirements specified in this section, the institution or facility must obtain from the household a written medical statement signed by a State licensed healthcare professional. By October 1, 2025, institutions and facilities must also accept a medical statement signed by a registered dietitian. The medical statement must provide sufficient information about the child or adult participant's dietary restrictions, such as foods to be omitted and recommended alternatives, if appropriate. Modified meals that meet the meal pattern requirements in this section are reimbursable with or without a medical statement.
+(i) In order to receive Federal reimbursement when a modified meal does not meet the meal pattern requirements specified in this section, the institution or facility must obtain from the household a written medical statement signed by a State licensed healthcare professional. By October 1, 2025, institutions and facilities must also accept a medical statement signed by a registered dietitian. The medical statement must provide sufficient information about the child or adult participant's dietary restrictions, such as foods to be omitted and recommended alternatives, if appropriate. Modified meals that meet the meal pattern requirements in this section are reimbursable with or without a medical statement. 
 
-(ii) Institutions and facilities must ensure that parents and guardians, and their children when age-appropriate at institution or facility discretion; adult participants; and persons on behalf of adult participants have notice of the procedure for requesting meal modifications for disabilities and the process for procedural safeguards related to meal modifications for disabilities. See §§ 15b.6(b) and 15b.25 of this title.
+(ii) Institutions and facilities must ensure that parents and guardians, and their children when age-appropriate at institution or facility discretion; adult participants; and persons on behalf of adult participants have notice of the procedure for requesting meal modifications for disabilities and the process for procedural safeguards related to meal modifications for disabilities. See §§ 15b.6(b) and 15b.25 of this title. 
 
-(iii) Expenses incurred when making meal modifications that exceed Program reimbursement rates must be paid by the institution or facility; costs may be paid from the institution or facility's nonprofit food service account.
+(iii) Expenses incurred when making meal modifications that exceed Program reimbursement rates must be paid by the institution or facility; costs may be paid from the institution or facility's nonprofit food service account. 
 
-(iv) A parent, guardian, adult participant, or a person on behalf of an adult participant may supply one or more components of the reimbursable meal as long as the institution or facility provides at least one required meal component.
+(iv) A parent, guardian, adult participant, or a person on behalf of an adult participant may supply one or more components of the reimbursable meal as long as the institution or facility provides at least one required meal component. 
 
-(2) *Variations for non-disability reason*s. (i) Institutions and facilities should consider participants' dietary preferences when planning and preparing meals and snacks. Any variations must be consistent with the meal pattern requirements specified in this section.
+(2) *Variations for non-disability reason*s. (i) Institutions and facilities should consider participants' dietary preferences when planning and preparing meals and snacks. Any variations must be consistent with the meal pattern requirements specified in this section. 
 
-(ii) Expenses incurred from variations that exceed program reimbursement rates must be paid by the institution or facility; costs may be paid from the institution or facility's nonprofit food service account.
+(ii) Expenses incurred from variations that exceed program reimbursement rates must be paid by the institution or facility; costs may be paid from the institution or facility's nonprofit food service account. 
 
-(iii) A parent, guardian, adult participant, or a person on behalf of an adult participant may supply one component of the reimbursable meal as long as the component meets the requirements described in this section and the institution or facility provides the remaining components.
+(iii) A parent, guardian, adult participant, or a person on behalf of an adult participant may supply one component of the reimbursable meal as long as the component meets the requirements described in this section and the institution or facility provides the remaining components. 
 
-(3) *Fluid milk substitutes for non-disability reasons.* (i) An institution or facility may offer fluid milk substitutes based on a written request from a child's parent or guardian, an adult participant, a person on behalf of an adult participant, a State licensed healthcare professional, or registered dietitian for participants with dietary needs that are not disabilities that identifies the reason for the substitute. An institution or facility choosing to offer fluid milk substitutes for a non-disability reason is not required to offer the specific fluid milk substitutes requested but may offer the fluid milk substitutes of its choice, provided the fluid milk substitutes offered meet the requirements of paragraph (g)(3)(ii) of this section. For disability-related meal modifications, see paragraph (g)(1) of this section.
+(3) *Fluid milk substitutes for non-disability reasons.* (i) An institution or facility may offer fluid milk substitutes based on a written request from a child's parent or guardian, an adult participant, a person on behalf of an adult participant, a State licensed healthcare professional, or registered dietitian for participants with dietary needs that are not disabilities that identifies the reason for the substitute. An institution or facility choosing to offer fluid milk substitutes for a non-disability reason is not required to offer the specific fluid milk substitutes requested but may offer the fluid milk substitutes of its choice, provided the fluid milk substitutes offered meet the requirements of paragraph (g)(3)(ii) of this section. For disability-related meal modifications, see paragraph (g)(1) of this section. 
 
-(ii) If an institution or facility chooses to offer one or more fluid milk substitutes for non-disability reasons, the fluid milk substitutes must provide, at a minimum, the nutrients listed in the following table. Fluid milk substitutes must be fortified in accordance with fortification guidelines issued by the Food and Drug Administration.
+(ii) If an institution or facility chooses to offer one or more fluid milk substitutes for non-disability reasons, the fluid milk substitutes must provide, at a minimum, the nutrients listed in the following table. Fluid milk substitutes must be fortified in accordance with fortification guidelines issued by the Food and Drug Administration. 
 
 Table 5 to Paragraph (g)(3)(ii)—Nutrient Requirements for Fluid Milk Substitutes
 | Nutrient     | Per cup   (8 fl. oz.)                        |
@@ -227,42 +227,42 @@ Table 5 to Paragraph (g)(3)(ii)—Nutrient Requirements for Fluid Milk Substitut
 | Riboflavin   | 0.44 mg.                                     |
 | Vitamin B-12 | 1.1 mcg.                                     |
 
-(iii) Expenses incurred when providing fluid milk substitutes that exceed Program reimbursements must be paid by the participating institution or facility; costs may be paid from the institution or facility's nonprofit food service account.
+(iii) Expenses incurred when providing fluid milk substitutes that exceed Program reimbursements must be paid by the participating institution or facility; costs may be paid from the institution or facility's nonprofit food service account. 
 
-(h) *Special variations.* FNS may approve variations in the meal components of the meals on an experimental or continuing basis in any institution or facility where there is evidence that such variations are nutritionally sound and are necessary to meet ethnic, religious, economic, or physical needs.
+(h) *Special variations.* FNS may approve variations in the meal components of the meals on an experimental or continuing basis in any institution or facility where there is evidence that such variations are nutritionally sound and are necessary to meet ethnic, religious, economic, or physical needs. 
 
-(i) *Meals prepared in schools.* The State agency must allow institutions and facilities which serve meals to children 5 years old and older and are prepared in schools participating in the National School Lunch and School Breakfast Programs to substitute the meal pattern requirements of the regulations governing those Programs (parts 210 and 220 of this chapter, respectively) for the meal pattern requirements contained in this section.
+(i) *Meals prepared in schools.* The State agency must allow institutions and facilities which serve meals to children 5 years old and older and are prepared in schools participating in the National School Lunch and School Breakfast Programs to substitute the meal pattern requirements of the regulations governing those Programs (parts 210 and 220 of this chapter, respectively) for the meal pattern requirements contained in this section. 
 
-(j) *Meal planning.* Institutions and facilities must plan for and order meals on the basis of current participant trends, with the objective of providing only one meal per participant at each meal service. Records of participation and of ordering or preparing meals must be maintained to demonstrate positive action toward this objective. In recognition of the fluctuation in participation levels which makes it difficult to estimate precisely the number of meals needed and to reduce the resultant waste, any excess meals that are ordered may be served to participants and may be claimed for reimbursement, unless the State agency determines that the institution or facility has failed to plan and prepare or order meals with the objective of providing only one meal per participant at each meal service.
+(j) *Meal planning.* Institutions and facilities must plan for and order meals on the basis of current participant trends, with the objective of providing only one meal per participant at each meal service. Records of participation and of ordering or preparing meals must be maintained to demonstrate positive action toward this objective. In recognition of the fluctuation in participation levels which makes it difficult to estimate precisely the number of meals needed and to reduce the resultant waste, any excess meals that are ordered may be served to participants and may be claimed for reimbursement, unless the State agency determines that the institution or facility has failed to plan and prepare or order meals with the objective of providing only one meal per participant at each meal service. 
 
-(k) *Time of meal service.* State agencies may require any institution or facility to allow a specific amount of time to elapse between meal services or require that meal services not exceed a specified duration.
+(k) *Time of meal service.* State agencies may require any institution or facility to allow a specific amount of time to elapse between meal services or require that meal services not exceed a specified duration. 
 
-(l) *Sanitation.* Institutions and facilities must ensure that in storing, preparing, and serving food proper sanitation and health standards are met which conform with all applicable State and local laws and regulations. Institutions and facilities must ensure that adequate facilities are available to store food or hold meals.
+(l) *Sanitation.* Institutions and facilities must ensure that in storing, preparing, and serving food proper sanitation and health standards are met which conform with all applicable State and local laws and regulations. Institutions and facilities must ensure that adequate facilities are available to store food or hold meals. 
 
-(m) *Donated commodities.* Institutions and facilities must efficiently use in the Program any foods donated by the Department and accepted by the institution or facility.
+(m) *Donated commodities.* Institutions and facilities must efficiently use in the Program any foods donated by the Department and accepted by the institution or facility. 
 
-(n) *Family style meal service.* Family style is a type of meal service which allows children and adults to serve themselves from common platters of food with the assistance of supervising adults. Institutions and facilities choosing to exercise this option must be in compliance with the following practices:
+(n) *Family style meal service.* Family style is a type of meal service which allows children and adults to serve themselves from common platters of food with the assistance of supervising adults. Institutions and facilities choosing to exercise this option must be in compliance with the following practices: 
 
-(1) A sufficient amount of prepared food must be placed on each table to provide the full required portions of each of the components, as outlined in paragraphs (c)(1) and (2) of this section, for all children or adults at the table and to accommodate supervising adults if they wish to eat with the children and adults.
+(1) A sufficient amount of prepared food must be placed on each table to provide the full required portions of each of the components, as outlined in paragraphs (c)(1) and (2) of this section, for all children or adults at the table and to accommodate supervising adults if they wish to eat with the children and adults. 
 
-(2) Children and adults must be allowed to serve the meal components themselves, with the exception of fluids (such as milk). During the course of the meal, it is the responsibility of the supervising adults to actively encourage each child and adult to serve themselves the full required portion of each meal component of the meal pattern. Supervising adults who choose to serve the fluids directly to the children or adults must serve the required minimum quantity to each child or adult.
+(2) Children and adults must be allowed to serve the meal components themselves, with the exception of fluids (such as milk). During the course of the meal, it is the responsibility of the supervising adults to actively encourage each child and adult to serve themselves the full required portion of each meal component of the meal pattern. Supervising adults who choose to serve the fluids directly to the children or adults must serve the required minimum quantity to each child or adult. 
 
-(3) Institutions and facilities which use family style meal service may not claim second meals for reimbursement.
+(3) Institutions and facilities which use family style meal service may not claim second meals for reimbursement. 
 
-(o) *Offer versus Serve.* (1) Each adult day care center and at-risk afterschool program must offer its participants all of the required food servings as set forth in paragraphs (c)(1) and (2) of this section. However, at the discretion of the adult day care center or at-risk afterschool program, participants may be permitted to decline:
+(o) *Offer versus Serve.* (1) Each adult day care center and at-risk afterschool program must offer its participants all of the required food servings as set forth in paragraphs (c)(1) and (2) of this section. However, at the discretion of the adult day care center or at-risk afterschool program, participants may be permitted to decline: 
 
-(i) *For adults*—(A) *One of the four food* items required at breakfast (one serving of fluid milk; one serving of vegetable or fruit, or a combination of both; and two servings of grains, or meat or meat alternates);
+(i) *For adults*—(A) *One of the four food* items required at breakfast (one serving of fluid milk; one serving of vegetable or fruit, or a combination of both; and two servings of grains, or meat or meat alternates); 
 
-(B) *Two of the five* meal components required at lunch (fluid milk; vegetables; fruit; grain; and meat or meat alternate); and
+(B) *Two of the five* meal components required at lunch (fluid milk; vegetables; fruit; grain; and meat or meat alternate); and 
 
-(C) *One of the four* meal components required at supper (vegetables; fruit; grain; and meat or meat alternate).
+(C) *One of the four* meal components required at supper (vegetables; fruit; grain; and meat or meat alternate). 
 
-(ii) *For children. Two of the five* meal components required at supper (fluid milk; vegetables; fruit; grain; and meat or meat alternate).
+(ii) *For children. Two of the five* meal components required at supper (fluid milk; vegetables; fruit; grain; and meat or meat alternate). 
 
-(2) In pricing programs, the price of the reimbursable meal must not be affected if a participant declines a food item.
+(2) In pricing programs, the price of the reimbursable meal must not be affected if a participant declines a food item. 
 
-(p) *Prohibition on using foods and beverages as punishments or rewards.* Meals served under this part must contribute to the development and socialization of children. Institutions and facilities must not use foods and beverages as punishments or rewards.
+(p) *Prohibition on using foods and beverages as punishments or rewards.* Meals served under this part must contribute to the development and socialization of children. Institutions and facilities must not use foods and beverages as punishments or rewards. 
 
-(q) *Severability.* If any provision of this section is held to be invalid or unenforceable by its terms, or as applied to any person or circumstances, it shall be severable from this section and not affect the remainder thereof. In the event of such holding of invalidity or unenforceability of a provision, the meal pattern requirements covered by that provision reverts to the version that immediately preceded the invalidated provision.
+(q) *Severability.* If any provision of this section is held to be invalid or unenforceable by its terms, or as applied to any person or circumstances, it shall be severable from this section and not affect the remainder thereof. In the event of such holding of invalidity or unenforceability of a provision, the meal pattern requirements covered by that provision reverts to the version that immediately preceded the invalidated provision. 
 
 \[81 FR 24377, Apr. 25, 2016, as amended at 81 FR 75677, Nov. 1, 2016; 83 FR 56716, Nov. 30, 2017; 84 FR 50292, Sept. 25, 2019; 85 FR 7855, Feb. 12, 2020; 85 FR 74850, Nov. 24, 2020; 86 FR 57547, Oct. 18, 2021; 87 FR 4127, Jan. 27, 2022; 87 FR 7007, Feb. 7, 2022; 89 FR 32088, Apr. 25, 2024\]

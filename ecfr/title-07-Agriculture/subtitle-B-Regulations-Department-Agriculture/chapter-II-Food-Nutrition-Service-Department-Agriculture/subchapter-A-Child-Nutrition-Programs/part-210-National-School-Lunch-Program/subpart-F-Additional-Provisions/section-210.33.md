@@ -1,6 +1,6 @@
 ##### § 210.33 OMB control numbers.
 
-The following control numbers have been assigned to the information collection requirements in 7 CFR part 210 by the Office of Management and Budget pursuant to the Paperwork Reduction Act of 1980, Public Law 96-511.
+The following control numbers have been assigned to the information collection requirements in 7 CFR part 210 by the Office of Management and Budget pursuant to the Paperwork Reduction Act of 1980, Public Law 96-511. 
 
 | 7 CFR section where   requirements   are described | Current OMB control No.                                                  |
 | -------------------------------------------------- | ------------------------------------------------------------------------ |

@@ -1,16 +1,16 @@
 ##### § 920.302 Grade, size, pack, and container regulations.
 
-(a) No handler shall ship any kiwifruit unless such kiwifruit meet the following requirements:
+(a) No handler shall ship any kiwifruit unless such kiwifruit meet the following requirements: 
 
-(1) *Grade requirements.* Fresh shipments of kiwifruit shall be at least KAC No. 1 quality.
+(1) *Grade requirements.* Fresh shipments of kiwifruit shall be at least KAC No. 1 quality. 
 
-(2) *Size requirements.* Such kiwifruit, except for varieties of the *Actinidia chinensis* species, shall be at least a minimum Size 45, defined as a maximum of 55 pieces of fruit in an 8-pound sample. Varieties of the *Actinidia chinensis* species shall be at least a minimum Size 49, defined as a maximum of 64 pieces of fruit in an 8-pound sample.
+(2) *Size requirements.* Such kiwifruit, except for varieties of the *Actinidia chinensis* species, shall be at least a minimum Size 45, defined as a maximum of 55 pieces of fruit in an 8-pound sample. Varieties of the *Actinidia chinensis* species shall be at least a minimum Size 49, defined as a maximum of 64 pieces of fruit in an 8-pound sample. 
 
-(3) *Maturity requirements.* Such kiwifruit shall have a minimum of 6.2 percent soluble solids at the time of inspection.
+(3) *Maturity requirements.* Such kiwifruit shall have a minimum of 6.2 percent soluble solids at the time of inspection. 
 
-(4) *Pack requirements.* (i) Kiwifruit packed in containers with cell compartments, cardboard fillers, or molded trays shall be of proper size for the cells, fillers, or molds in which they are packed. Such fruit, except for varieties of the *Actinidia chinensis* species, shall be fairly uniform in size.
+(4) *Pack requirements.* (i) Kiwifruit packed in containers with cell compartments, cardboard fillers, or molded trays shall be of proper size for the cells, fillers, or molds in which they are packed. Such fruit, except for varieties of the *Actinidia chinensis* species, shall be fairly uniform in size. 
 
-(ii) (A) Kiwifruit packed in any container shall be subject to the size designation, maximum number of fruit per 8-pound sample, and the size variation tolerance specified as follows:
+(ii) (A) Kiwifruit packed in any container shall be subject to the size designation, maximum number of fruit per 8-pound sample, and the size variation tolerance specified as follows: 
 
 Table 1 to Paragraph (a)(4)(ii)(A)—Size Designation and Size Variation Chart
 | Size designation                                            | Maximum number of fruit per   8-pound sample | Size variation tolerance   (diameter) 1 |
@@ -30,14 +30,14 @@ Table 1 to Paragraph (a)(4)(ii)(A)—Size Designation and Size Variation Chart
 | 1 Not applicable to Actinidia chinensis species varieties.  |                                              |                                         |
 | 2 Applicable only to Actinidia chinensis species varieties. |                                              |                                         |
 
-(B) The average weight of all sample units in a lot must weigh at least 8 pounds, but no sample unit may be more than 4 ounces less than 8 pounds.
+(B) The average weight of all sample units in a lot must weigh at least 8 pounds, but no sample unit may be more than 4 ounces less than 8 pounds. 
 
-(C) Not more than 10 percent, by count, of the containers in any lot and not more than 5 percent, by count, of kiwifruit in any container, (except that for Sizes 42 and 45 kiwifruit, the tolerance, by count, in any one container, may not be more than 25 percent) may fail to meet the size variation requirements of this paragraph.
+(C) Not more than 10 percent, by count, of the containers in any lot and not more than 5 percent, by count, of kiwifruit in any container, (except that for Sizes 42 and 45 kiwifruit, the tolerance, by count, in any one container, may not be more than 25 percent) may fail to meet the size variation requirements of this paragraph. 
 
-(iii) All volume fill containers of kiwifruit designated by weight shall hold 19.8-pounds (9-kilograms) net weight of kiwifruit unless such containers hold less than 15 pounds or more than 35 pounds net weight of kiwifruit.
+(iii) All volume fill containers of kiwifruit designated by weight shall hold 19.8-pounds (9-kilograms) net weight of kiwifruit unless such containers hold less than 15 pounds or more than 35 pounds net weight of kiwifruit. 
 
-(b) *Definitions.* The term *KAC No. 1 quality* means kiwifruit that meets the requirements of the U.S. No. 1 grade as defined in the United States Standards for Grades of Kiwifruit (7 CFR 51.2335 through 51.2340) except that the kiwifruit shall be “not badly misshapen,” and an additional tolerance of 16 percent is provided for kiwifruit that is “badly misshapen,” and except that all varieties of kiwifruit are exempt from the “tightly packed” standard as defined in § 51.2338(a) of the U.S. Standards for Grades of Kiwifruit. The terms *fairly uniform in size and diameter* mean the same as defined in the U.S. Standards for Grades of Kiwifruit.
+(b) *Definitions.* The term *KAC No. 1 quality* means kiwifruit that meets the requirements of the U.S. No. 1 grade as defined in the United States Standards for Grades of Kiwifruit (7 CFR 51.2335 through 51.2340) except that the kiwifruit shall be “not badly misshapen,” and an additional tolerance of 16 percent is provided for kiwifruit that is “badly misshapen,” and except that all varieties of kiwifruit are exempt from the “tightly packed” standard as defined in § 51.2338(a) of the U.S. Standards for Grades of Kiwifruit. The terms *fairly uniform in size and diameter* mean the same as defined in the U.S. Standards for Grades of Kiwifruit. 
 
-(c) *Exemptions.* Any person may handle kiwifruit without regard to the provisions of this section provided that such kiwifruit is handled for (1) consumption by charitable institutions; (2) distribution by relief agencies; or (3) commercial processing into products. For the purposes of this section, *commercial processing into products* means that the kiwifruit is physically altered in form or chemical composition through freezing, canning, dehydrating, pulping, juicing, or heating of the product. The act of slicing, dicing, or peeling shall not be considered commercial processing into products.
+(c) *Exemptions.* Any person may handle kiwifruit without regard to the provisions of this section provided that such kiwifruit is handled for (1) consumption by charitable institutions; (2) distribution by relief agencies; or (3) commercial processing into products. For the purposes of this section, *commercial processing into products* means that the kiwifruit is physically altered in form or chemical composition through freezing, canning, dehydrating, pulping, juicing, or heating of the product. The act of slicing, dicing, or peeling shall not be considered commercial processing into products. 
 
 \[50 FR 36568, Sept. 9, 1985\] Editorial Note:For Federal Register citations affecting § 920.302, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

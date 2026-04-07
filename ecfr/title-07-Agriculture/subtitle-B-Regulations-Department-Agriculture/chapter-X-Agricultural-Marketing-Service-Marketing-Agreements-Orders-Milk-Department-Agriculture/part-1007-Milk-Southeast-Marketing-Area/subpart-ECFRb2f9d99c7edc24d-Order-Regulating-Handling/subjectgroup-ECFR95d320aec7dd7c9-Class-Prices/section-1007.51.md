@@ -2,9 +2,9 @@
 
 Link to an amendment published at 90 FR 6650, Jan. 17, 2025.
 
-(a) The Class I differential shall be the differential established for Fulton County, Georgia, which is reported in § 1000.52. The Class I price shall be the price computed pursuant to § 1007.50(a) for Fulton County, Georgia.
+(a) The Class I differential shall be the differential established for Fulton County, Georgia, which is reported in § 1000.52. The Class I price shall be the price computed pursuant to § 1007.50(a) for Fulton County, Georgia. 
 
-(b) Adjustment to Class I prices. Class I prices shall be established pursuant to § 1000.50(a), (b) and (c) using the following adjustments:
+(b) Adjustment to Class I prices. Class I prices shall be established pursuant to § 1000.50(a), (b) and (c) using the following adjustments: 
 
 | State | Country/parish         | FIPS  | Class I price adjustment |
 | ----- | ---------------------- | ----- | ------------------------ |

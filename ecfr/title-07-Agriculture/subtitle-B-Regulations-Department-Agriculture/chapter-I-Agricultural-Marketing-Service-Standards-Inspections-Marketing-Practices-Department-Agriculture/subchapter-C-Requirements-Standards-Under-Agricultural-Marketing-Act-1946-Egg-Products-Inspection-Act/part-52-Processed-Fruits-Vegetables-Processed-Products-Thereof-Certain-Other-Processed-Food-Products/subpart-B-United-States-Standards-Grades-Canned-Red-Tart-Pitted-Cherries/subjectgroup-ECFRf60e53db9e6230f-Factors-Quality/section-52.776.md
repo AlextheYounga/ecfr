@@ -1,8 +1,8 @@
 ##### § 52.776 Ascertaining the grade of a sample unit.
 
-(a) *General.* The grade of a sample unit of canned red tart pitted cherries is ascertained by considering the factor of flavor and odor of the product and the requirement for size (in U.S. Grade A and U.S. Grade B) which are not scored; the ratings for the factors of color, freedom from pits, defects, and character, which are scored; and the limiting rules which may be applicable.
+(a) *General.* The grade of a sample unit of canned red tart pitted cherries is ascertained by considering the factor of flavor and odor of the product and the requirement for size (in U.S. Grade A and U.S. Grade B) which are not scored; the ratings for the factors of color, freedom from pits, defects, and character, which are scored; and the limiting rules which may be applicable. 
 
-(b) *Factors rated by score points.* The relative importance of each factor which is scored is expressed numerically on the scale of 100. The maximum number of points that may be given each factor is:
+(b) *Factors rated by score points.* The relative importance of each factor which is scored is expressed numerically on the scale of 100. The maximum number of points that may be given each factor is: 
 
 | Factors           | Points |
 | ----------------- | ------ |

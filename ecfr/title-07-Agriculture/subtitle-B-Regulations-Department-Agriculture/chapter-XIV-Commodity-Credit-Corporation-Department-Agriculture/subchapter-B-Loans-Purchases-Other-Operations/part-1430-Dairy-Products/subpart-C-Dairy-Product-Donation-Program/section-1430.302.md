@@ -1,6 +1,6 @@
 ##### § 1430.302 Commencement and termination of DPDP purchases.
 
-(a) DPDP purchases commence only if approved by the FSA Administrator under the provisions of this subpart. The FSA Administrator will approve DPDP purchases only if the actual dairy production margin has been $4 or less per cwt for each of the preceding 2 months. The actual dairy production margin will be calculated as specified in § 1430.110. The following chart shows an example of the timing for the determination of DPDP purchases.
+(a) DPDP purchases commence only if approved by the FSA Administrator under the provisions of this subpart. The FSA Administrator will approve DPDP purchases only if the actual dairy production margin has been $4 or less per cwt for each of the preceding 2 months. The actual dairy production margin will be calculated as specified in § 1430.110. The following chart shows an example of the timing for the determination of DPDP purchases. 
 
 DPDP Purchase Determination Example Based on Dairy Production Margins and 3-Month Maximum for Purchases 1
 | 2 Consecutive months                                                                                                                                                                                                                                                                                                                                          | Calculate margin for 2 consecutive months 2 | If both margins below $4 per cwt in the 2 consecutive months | 3-Month maximum consideration           | If either margin above $4 per cwt in the 2 consecutive months |
@@ -21,24 +21,24 @@ DPDP Purchase Determination Example Based on Dairy Production Margins and 3-Mont
 | 2 Purchases cannot begin unless domestic cheddar cheese or nonfat dry milk prices are at certain differentials relative to world prices.                                                                                                                                                                                                                      |                                             |                                                              |                                         |                                                               |
 | 3 In the example, June is the 3rd month of consevutive purchases. June would not be calculated as a potential trigger month, but it is shown on the chart to clearly show the concept of 3 months on and 3 months off for purchases. If purchases are taking place during a month, that month cannot be used as a trigger month for a future purchase period. |                                             |                                                              |                                         |                                                               |
 
-(b) DPDP purchases terminate and are not reinstated until the condition specified in paragraph (a) of this section is again met, whenever any one of the following occurs:
+(b) DPDP purchases terminate and are not reinstated until the condition specified in paragraph (a) of this section is again met, whenever any one of the following occurs: 
 
-(1) If purchases were made for the preceding 3 months, even if the actual dairy production margin remains $4 or less per cwt of milk.
+(1) If purchases were made for the preceding 3 months, even if the actual dairy production margin remains $4 or less per cwt of milk. 
 
-(2) If the actual dairy production margin has been greater than $4 per cwt of milk for the immediately preceding month.
+(2) If the actual dairy production margin has been greater than $4 per cwt of milk for the immediately preceding month. 
 
-(3) If the actual dairy production margin has been $4 or less, but more than $3, per cwt for the immediately preceding month and during the same month —
+(3) If the actual dairy production margin has been $4 or less, but more than $3, per cwt for the immediately preceding month and during the same month — 
 
-(i) The price in the United States for cheddar cheese was more than 5 percent above the world price, or
+(i) The price in the United States for cheddar cheese was more than 5 percent above the world price, or 
 
-(ii) The price in the United States for non-fat dry milk (NDM) was more than 5 percent above the world price of skim milk powder.
+(ii) The price in the United States for non-fat dry milk (NDM) was more than 5 percent above the world price of skim milk powder. 
 
-(4) If the actual dairy production margin has been $3 or less per cwt of milk for the immediately preceding month and during the same month —
+(4) If the actual dairy production margin has been $3 or less per cwt of milk for the immediately preceding month and during the same month — 
 
-(i) The price in the United States for cheddar cheese was more than 7 percent above the world price; or
+(i) The price in the United States for cheddar cheese was more than 7 percent above the world price; or 
 
-(ii) The price in the United States for NDM was more than 7 percent above the world price of skim milk powder.
+(ii) The price in the United States for NDM was more than 7 percent above the world price of skim milk powder. 
 
-(c) Purchases will terminate beginning with the first day of any month that does not qualify for DPDP purchases.
+(c) Purchases will terminate beginning with the first day of any month that does not qualify for DPDP purchases. 
 
 (d) For calculations under paragraphs (b)(3) and (4) of this section, the FSA Administrator may use data from a single or multiple locales or markets, including weighted averages, in consultation with AMS or other USDA agencies.

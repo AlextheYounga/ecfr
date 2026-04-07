@@ -4,6 +4,6 @@
 
 1 Since it is the packing materials themselves which constitute the danger and not the manner of use, it is intended that the definition shall include their presence within or accompanying a shipment regardless of their function or relation to a shipment or the character of the shipment.
 
-(b) *Inspector.* An inspector of the U.S. Department of Agriculture.
+(b) *Inspector.* An inspector of the U.S. Department of Agriculture. 
 
 \[75 FR 17292, Apr. 6, 2010, as amended at 84 FR 29958, June 25, 2019\]

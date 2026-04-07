@@ -1,6 +1,6 @@
 ##### § 718.5 Rule of fractions.
 
-(a) Fractions shall be rounded after completion of the entire associated computation. All mathematical calculations shall be carried to two decimal places beyond the number of decimal places required by the regulations governing each program. In rounding, fractional digits of 49 or less beyond the required number of decimal places shall be dropped; if the fractional digits beyond the required number of decimal places are 50 or more, the figure at the last required decimal place shall be increased by “1” as follows:
+(a) Fractions shall be rounded after completion of the entire associated computation. All mathematical calculations shall be carried to two decimal places beyond the number of decimal places required by the regulations governing each program. In rounding, fractional digits of 49 or less beyond the required number of decimal places shall be dropped; if the fractional digits beyond the required number of decimal places are 50 or more, the figure at the last required decimal place shall be increased by “1” as follows: 
 
 | Required decimal | Computation                               | Result            |
 | ---------------- | ----------------------------------------- | ----------------- |

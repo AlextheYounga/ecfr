@@ -1,6 +1,6 @@
 ##### § 51.2954 Tolerances for grade defects.
 
-In order to allow for variations incident to proper grading and handling, the following tolerances shall be permitted for nuts which fail to meet the requirements of the respective grades as indicated. Terms in quotation marks refer to color classifications illustrated on the color chart.
+In order to allow for variations incident to proper grading and handling, the following tolerances shall be permitted for nuts which fail to meet the requirements of the respective grades as indicated. Terms in quotation marks refer to color classifications illustrated on the color chart. 
 
 Tolerances for Grade Defects
 | Grade      | External (shell) defects                                                                                                       | Internal (kernel) defects                                                                                                                                                                                                                                               | Kernel color based on USDA Walnut Color Chart                                                                                                                                  | Kernel color based on red |

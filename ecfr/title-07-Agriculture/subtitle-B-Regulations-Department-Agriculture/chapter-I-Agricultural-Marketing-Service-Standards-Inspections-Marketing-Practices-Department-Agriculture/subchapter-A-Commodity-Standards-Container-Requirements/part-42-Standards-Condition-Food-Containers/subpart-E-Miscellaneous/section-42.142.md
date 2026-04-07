@@ -2,7 +2,7 @@
 
 ![](/graphics/ec02se91.019.gif)Notes:
 
-1\. This curve applies only to the specific skip lot sampling and inspection plan described in §§ 42.121 and 42.123.
+1\. This curve applies only to the specific skip lot sampling and inspection plan described in §§ 42.121 and 42.123. 
 
 2\. Pa and Pas are essentially equal for values under 50 percent.
 

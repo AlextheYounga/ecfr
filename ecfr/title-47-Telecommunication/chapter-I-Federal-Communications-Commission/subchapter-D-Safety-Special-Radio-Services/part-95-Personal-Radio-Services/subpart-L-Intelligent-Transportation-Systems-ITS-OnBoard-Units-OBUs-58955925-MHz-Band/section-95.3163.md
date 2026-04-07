@@ -1,6 +1,6 @@
 ##### § 95.3163 OBU frequencies.
 
-Link to an amendment published at 89 FR 100855, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100855, Dec. 13, 2024.Link to a correction published at 90 FR 5724, Jan. 17, 2025.
 
 DSRCS On-Board Units (OBUs) are permitted to operate in the 5895-5925 MHz band. 
 

@@ -1,8 +1,8 @@
 ##### § 989.213 Maturity dockage.
 
-(a) *General.* Subject to prior agreement between handler and tenderer, Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, and Other Seedless-Sulfured raisins containing from 35.0 percent through 49.9 percent, by weight, of well-matured or reasonably well-matured raisins may be acquired by a handler under a weight dockage system. Provided, That, for the 2023-2024 crop year, such raisins containing from 30.0 through 49.9 percent, by weight, of well-matured or reasonably well-matured raisins may be acquired by a handler under a weight dockage system. The creditable weight of each lot of raisins acquired under the maturity dockage system shall be obtained by multiplying the net weight of the lot of raisins by the applicable dockage factor from the dockage table prescribed in paragraphs (b), (c), (d), and (e) of this section.
+(a) *General.* Subject to prior agreement between handler and tenderer, Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, and Other Seedless-Sulfured raisins containing from 35.0 percent through 49.9 percent, by weight, of well-matured or reasonably well-matured raisins may be acquired by a handler under a weight dockage system. Provided, That, for the 2023-2024 crop year, such raisins containing from 30.0 through 49.9 percent, by weight, of well-matured or reasonably well-matured raisins may be acquired by a handler under a weight dockage system. The creditable weight of each lot of raisins acquired under the maturity dockage system shall be obtained by multiplying the net weight of the lot of raisins by the applicable dockage factor from the dockage table prescribed in paragraphs (b), (c), (d), and (e) of this section. 
 
-(b) Maturity dockage table applicable to lots of Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, and Other Seedless-Sulfured raisins which contain 45.0 percent through 49.9 percent well-matured or reasonably well-matured raisins:
+(b) Maturity dockage table applicable to lots of Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, and Other Seedless-Sulfured raisins which contain 45.0 percent through 49.9 percent well-matured or reasonably well-matured raisins: 
 
 | Percent well-matured or reasonably well-matured: | Dockage factor |
 | ------------------------------------------------ | -------------- |
@@ -18,7 +18,7 @@ Note:
 
 Percentages less than the last percentage shown in the table, down to 45.0 percent, shall be expressed in the same increments as the foregoing, and the dockage for each such increment shall be .0005 less than the dockage factor for the preceding increment.
 
-(c) Maturity dockage table applicable to lots of Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, and Other Seedless-Sulfured raisins which contain 40.0 percent through 44.9 percent well-matured or reasonably well-matured raisins:
+(c) Maturity dockage table applicable to lots of Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, and Other Seedless-Sulfured raisins which contain 40.0 percent through 44.9 percent well-matured or reasonably well-matured raisins: 
 
 | Percent well-matured or reasonably well-matured: | Dockage factor |
 | ------------------------------------------------ | -------------- |
@@ -33,7 +33,7 @@ Note:
 
 Percentages less than the last percentage shown in the table, down to 40.0 percent, shall be expressed in the same increments as the foregoing, and the dockage factor for each such increment shall be .001 less than the dockage factor for the preceding increment.
 
-(d) Maturity dockage table applicable to lots of Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, and Other Seedless-Sulfured raisins which contain 35.0 percent through 39.9 percent well-matured or reasonably well-matured raisins:
+(d) Maturity dockage table applicable to lots of Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, and Other Seedless-Sulfured raisins which contain 35.0 percent through 39.9 percent well-matured or reasonably well-matured raisins: 
 
 | Percent well-matured or reasonably well-matured: | Dockage factor |
 | ------------------------------------------------ | -------------- |
@@ -48,7 +48,7 @@ Note to paragraph (d):
 
 Percentages less than the last percentage shown in the table shall be expressed in the same increments as the foregoing, and the dockage factor for each such increment shall be .0015 less than the dockage factor for the preceding increment.
 
-(e) For the 2023-2024 crop year, maturity dockage table applicable to lots of Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, and Other Seedless-Sulfured raisins which contain 30.0 percent through 34.9 percent well-matured or reasonably well-matured raisins:
+(e) For the 2023-2024 crop year, maturity dockage table applicable to lots of Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, and Other Seedless-Sulfured raisins which contain 30.0 percent through 34.9 percent well-matured or reasonably well-matured raisins: 
 
 | Percent well-matured or   reasonably well-matured | Dockage   factor |
 | ------------------------------------------------- | ---------------- |

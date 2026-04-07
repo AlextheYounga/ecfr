@@ -1,6 +1,6 @@
 ##### § 30.31 Classification of leaf tobacco.
 
-For the purpose of this classification leaf tobacco shall be divided into the following classes:
+For the purpose of this classification leaf tobacco shall be divided into the following classes: 
 
 Class 1. Flue-cured types. Class 2. Fire-cured types. Class 3. 1 Air-cured types. Class 4. Cigar-filler types. Class 5. Cigar-binder types. Class 6. Cigar-wrapper types. Class 7. Miscellaneous domestic types. Class 8. Foreign-grown cigar-leaf types. Class 9. Foreign-grown types, other than cigar types. 
 

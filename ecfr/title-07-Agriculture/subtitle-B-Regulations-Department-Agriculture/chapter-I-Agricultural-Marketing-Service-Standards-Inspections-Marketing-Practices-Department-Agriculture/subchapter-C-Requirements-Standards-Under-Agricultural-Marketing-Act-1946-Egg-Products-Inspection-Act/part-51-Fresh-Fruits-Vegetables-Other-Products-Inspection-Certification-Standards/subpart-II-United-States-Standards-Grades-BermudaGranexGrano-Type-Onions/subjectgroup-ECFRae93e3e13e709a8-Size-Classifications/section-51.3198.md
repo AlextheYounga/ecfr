@@ -1,6 +1,6 @@
 ##### § 51.3198 Size classifications.
 
-Size shall be specified in connection with the grade in terms of minimum diameter, range in diameter, minimum diameter with a percentage of a certain size or larger, or in accordance with one of the size classifications listed below: *Provided,* that unless otherwise specified, onions shall not be less than 1 1/2 inches in diameter, with 60 percent or more 2 inches or larger in diameter.
+Size shall be specified in connection with the grade in terms of minimum diameter, range in diameter, minimum diameter with a percentage of a certain size or larger, or in accordance with one of the size classifications listed below: *Provided,* that unless otherwise specified, onions shall not be less than 1 1/2 inches in diameter, with 60 percent or more 2 inches or larger in diameter. 
 
 | Size designation                                                                                                                                                    | Minimum diameter | Maximum diameter |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- |

@@ -1,6 +1,6 @@
 ##### § 51.1564 External defects.
 
-*External defects* are defects which can be detected externally. However, cutting may be required to determine the extent of the injury. Some external defects are listed in Tables III, IV, V and VI.
+*External defects* are defects which can be detected externally. However, cutting may be required to determine the extent of the injury. Some external defects are listed in Tables III, IV, V and VI. 
 
 Table III—External Defects
 | Defects                                                                                                                                                                              | Damage                                                                                                                                                                                                                                                                                      | Serious damage1                                                                                                                                                                                                                                                                                                                                                                     |

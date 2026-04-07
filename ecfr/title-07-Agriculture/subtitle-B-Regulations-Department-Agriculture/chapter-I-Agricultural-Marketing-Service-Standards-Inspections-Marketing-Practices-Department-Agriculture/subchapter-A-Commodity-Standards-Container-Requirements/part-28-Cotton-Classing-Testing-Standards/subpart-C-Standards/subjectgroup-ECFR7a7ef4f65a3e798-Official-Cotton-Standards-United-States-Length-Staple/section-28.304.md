@@ -1,6 +1,6 @@
 ##### § 28.304 Original representation of American Pima cotton staple lengths.
 
-The following lengths of American Pima staple are represented by a quantity of cotton in the custody of the United States Department of Agriculture suitably contained and marked “Original Representation of Official Cotton Standards of the United States” followed in each instance by the name of growth, appropriate designation for staple length, and the effective date.
+The following lengths of American Pima staple are represented by a quantity of cotton in the custody of the United States Department of Agriculture suitably contained and marked “Original Representation of Official Cotton Standards of the United States” followed in each instance by the name of growth, appropriate designation for staple length, and the effective date. 
 
 | Staple length (inches) | Effective date |
 | ---------------------- | -------------- |

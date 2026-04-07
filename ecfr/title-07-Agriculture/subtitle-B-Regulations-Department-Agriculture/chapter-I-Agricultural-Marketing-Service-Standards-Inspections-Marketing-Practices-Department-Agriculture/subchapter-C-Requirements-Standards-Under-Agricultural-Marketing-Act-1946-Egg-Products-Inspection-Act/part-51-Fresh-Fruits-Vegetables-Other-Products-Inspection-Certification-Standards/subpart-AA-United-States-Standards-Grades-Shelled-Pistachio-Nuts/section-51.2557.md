@@ -1,6 +1,6 @@
 ##### § 51.2557 Tolerances.
 
-(a) In order to allow for variations incident to proper grading and handling, the tolerances, by weight, in Table I are provided.
+(a) In order to allow for variations incident to proper grading and handling, the tolerances, by weight, in Table I are provided. 
 
 Table 1—Tolerances
 | Factor   (tolerances by weight)                                             | U.S. fancy   (percent) | U.S. extra No. 1   (percent) | U.S. No. 1   (percent) |

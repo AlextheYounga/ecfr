@@ -1,6 +1,6 @@
 ##### § 28.525 Symbols and code numbers.
 
-For administrative convenience, the symbols and code numbers prescribed in this section may be used in lieu of cotton grade names and staple length designations in inches.
+For administrative convenience, the symbols and code numbers prescribed in this section may be used in lieu of cotton grade names and staple length designations in inches. 
 
 (a) *Symbols and Code numbers used for Color Grades of American Upland Cotton.*
 

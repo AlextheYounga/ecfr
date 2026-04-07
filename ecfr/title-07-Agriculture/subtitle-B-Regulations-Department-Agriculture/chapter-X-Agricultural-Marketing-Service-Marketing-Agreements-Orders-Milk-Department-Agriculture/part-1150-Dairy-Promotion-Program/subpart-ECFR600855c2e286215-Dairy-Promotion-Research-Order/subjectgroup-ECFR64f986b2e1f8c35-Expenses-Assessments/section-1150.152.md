@@ -1,22 +1,22 @@
 ##### § 1150.152 Assessments.
 
-(a) *Domestic Assessments.* (1) Each person making payment to a producer for milk produced in the United States and marketed for commercial use shall collect an assessment on all such milk handled for the account of the producer at the rate of 15 cents per hundredweight of milk for commercial use, or the equivalent thereof, and shall remit the assessment to the Board.
+(a) *Domestic Assessments.* (1) Each person making payment to a producer for milk produced in the United States and marketed for commercial use shall collect an assessment on all such milk handled for the account of the producer at the rate of 15 cents per hundredweight of milk for commercial use, or the equivalent thereof, and shall remit the assessment to the Board. 
 
-(2) Any producer marketing milk of that producer's own production in the form of milk or dairy products to consumers, either directly or through retail or wholesale outlets, shall remit to the Board an assessment on such milk at the rate of 15 cents per hundredweight of milk for commercial use or the equivalent thereof.
+(2) Any producer marketing milk of that producer's own production in the form of milk or dairy products to consumers, either directly or through retail or wholesale outlets, shall remit to the Board an assessment on such milk at the rate of 15 cents per hundredweight of milk for commercial use or the equivalent thereof. 
 
-(3) In determining the assessment due from each producer pursuant to § 1150.152(a)(1) and (a)(2), a producer who is participating in a qualified program(s) under § 1150.153 shall receive a credit for contributions to such program(s), but not to exceed 10 cents per hundredweight of milk marketed.
+(3) In determining the assessment due from each producer pursuant to § 1150.152(a)(1) and (a)(2), a producer who is participating in a qualified program(s) under § 1150.153 shall receive a credit for contributions to such program(s), but not to exceed 10 cents per hundredweight of milk marketed. 
 
-(4) In order for a producer described in § 1150.152(a)(1) to receive the credit authorized in § 1150.152(a)(3), either the producer or a cooperative association on behalf of the producer must establish to the person responsible for remitting the assessment to the Board that the producer is contributing to a qualified program under § 1150.153. Producers who contribute to a qualified program directly (other than through a payroll deduction) must establish with the person responsible for remitting the assessment to the Board, with validation by the qualified program, that they are making such contributions.
+(4) In order for a producer described in § 1150.152(a)(1) to receive the credit authorized in § 1150.152(a)(3), either the producer or a cooperative association on behalf of the producer must establish to the person responsible for remitting the assessment to the Board that the producer is contributing to a qualified program under § 1150.153. Producers who contribute to a qualified program directly (other than through a payroll deduction) must establish with the person responsible for remitting the assessment to the Board, with validation by the qualified program, that they are making such contributions. 
 
-(5) In order for a producer described in § 1150.152(a)(2) to receive the credit authorized in § 1150.152(a)(3), the producer and the applicable qualified program must establish to the Board that the producer is contributing to the qualified program.
+(5) In order for a producer described in § 1150.152(a)(2) to receive the credit authorized in § 1150.152(a)(3), the producer and the applicable qualified program must establish to the Board that the producer is contributing to the qualified program. 
 
-(6) The collection of assessments pursuant to § 1150.152(a)(1) and (a)(2) shall begin with respect to milk marketed on and after the effective date of this section and shall continue until terminated by the Secretary.
+(6) The collection of assessments pursuant to § 1150.152(a)(1) and (a)(2) shall begin with respect to milk marketed on and after the effective date of this section and shall continue until terminated by the Secretary. 
 
-(7) Each person responsible for the remittance of the assessment pursuant to § 1150.152(a)(1) and (a)(2) shall remit the assessment to the Board not later than the last day of the month following the month in which the milk was marketed.
+(7) Each person responsible for the remittance of the assessment pursuant to § 1150.152(a)(1) and (a)(2) shall remit the assessment to the Board not later than the last day of the month following the month in which the milk was marketed. 
 
-(8) Money remitted to the Board shall be in the form of a negotiable instrument made payable to “National Dairy Promotion and Research Board.” Remittances and reports specified in § 1150.171(a) shall be mailed to the location designated by the Secretary or the Board.
+(8) Money remitted to the Board shall be in the form of a negotiable instrument made payable to “National Dairy Promotion and Research Board.” Remittances and reports specified in § 1150.171(a) shall be mailed to the location designated by the Secretary or the Board. 
 
-(b) *Importer assessments.* (1) Each importer of dairy products identified in the following table, except for as provided for in § 1150.157, is responsible for paying an assessment of 7.5 cents per hundredweight of U.S. milk, or equivalent thereof. The importer shall use the assessment rate of $0.01327 per kilogram (kg) of milk solids to calculate and pay the assessment.
+(b) *Importer assessments.* (1) Each importer of dairy products identified in the following table, except for as provided for in § 1150.157, is responsible for paying an assessment of 7.5 cents per hundredweight of U.S. milk, or equivalent thereof. The importer shall use the assessment rate of $0.01327 per kilogram (kg) of milk solids to calculate and pay the assessment. 
 
 | HTS Nos. for dairy import assessment |
 | ------------------------------------ |
@@ -286,18 +286,18 @@
 | 3501.90.6000                         |
 | 3502.20.0000                         |
 
-(2) The assessment on imported dairy products shall be paid by the importer to CBP at the time of entry summary for any products identified in § 1150.152(b)(1).
+(2) The assessment on imported dairy products shall be paid by the importer to CBP at the time of entry summary for any products identified in § 1150.152(b)(1). 
 
-(3) The assessments collected by CBP pursuant to § 1150.152(b)(2) of this section shall be transferred to the Board in compliance with an agreement between CBP and the Secretary.
+(3) The assessments collected by CBP pursuant to § 1150.152(b)(2) of this section shall be transferred to the Board in compliance with an agreement between CBP and the Secretary. 
 
-(4) The Secretary, at his or her discretion, shall verify the information reported by importers to CBP to determine if additional money is due the Board or an amount is due to an importer based on the quantity imported and the milk solids content per unit. In the case of money due to an importer from the Board, the Board will issue payment promptly to the importer. In the case of money due from the importer to the Board, the Secretary will send an invoice for payment directly to the importer. The remittance will be due to the Secretary upon receipt of the invoice. The Secretary will promptly forward such payments received to the Board.
+(4) The Secretary, at his or her discretion, shall verify the information reported by importers to CBP to determine if additional money is due the Board or an amount is due to an importer based on the quantity imported and the milk solids content per unit. In the case of money due to an importer from the Board, the Board will issue payment promptly to the importer. In the case of money due from the importer to the Board, the Secretary will send an invoice for payment directly to the importer. The remittance will be due to the Secretary upon receipt of the invoice. The Secretary will promptly forward such payments received to the Board. 
 
-(5) If an importer elects to have funds remitted to a qualified program(s), the importer shall inform the Secretary of such designation by sending a letter to an address provided by the Secretary. Importer remittances for qualified program(s) shall not exceed 2.5 cents per hundredweight of milk, or equivalent thereof, of the 7.5 cents per hundredweight of milk, or equivalent thereof, paid by the importer pursuant to § 1150.152(b)(1). The Secretary shall compute the funds due for each qualified program designated by importers and direct the Board to forward such funds to each qualified program.
+(5) If an importer elects to have funds remitted to a qualified program(s), the importer shall inform the Secretary of such designation by sending a letter to an address provided by the Secretary. Importer remittances for qualified program(s) shall not exceed 2.5 cents per hundredweight of milk, or equivalent thereof, of the 7.5 cents per hundredweight of milk, or equivalent thereof, paid by the importer pursuant to § 1150.152(b)(1). The Secretary shall compute the funds due for each qualified program designated by importers and direct the Board to forward such funds to each qualified program. 
 
-(6) Assessments collected on imported dairy products shall not be used for foreign market promotion of United States dairy products.
+(6) Assessments collected on imported dairy products shall not be used for foreign market promotion of United States dairy products. 
 
-(7) Any money received by the Board pursuant to § 1150.152(b)(1) before the Secretary appoints the initial importer representatives to the Board shall not be spent by the Board but shall be held in escrow until such appointment.
+(7) Any money received by the Board pursuant to § 1150.152(b)(1) before the Secretary appoints the initial importer representatives to the Board shall not be spent by the Board but shall be held in escrow until such appointment. 
 
-(8) The collection of assessments pursuant to § 1150.152(a) and (b) shall continue until terminated by the Secretary.
+(8) The collection of assessments pursuant to § 1150.152(a) and (b) shall continue until terminated by the Secretary. 
 
 \[76 FR 14789, Mar. 18, 2011\]

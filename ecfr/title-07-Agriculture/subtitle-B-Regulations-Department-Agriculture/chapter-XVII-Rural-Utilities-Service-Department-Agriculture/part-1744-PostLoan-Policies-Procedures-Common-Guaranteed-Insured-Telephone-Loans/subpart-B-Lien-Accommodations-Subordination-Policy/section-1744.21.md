@@ -1,14 +1,14 @@
 ##### § 1744.21 Definitions.
 
-The following definitions apply to this subpart:
+The following definitions apply to this subpart: 
 
-*Administrator* means the Administrator of RUS.
+*Administrator* means the Administrator of RUS. 
 
-*Advance* means transferring funds from RUS or a lender guaranteed by RUS to the borrower's construction fund.
+*Advance* means transferring funds from RUS or a lender guaranteed by RUS to the borrower's construction fund. 
 
-*After-acquired property* means property which is to be acquired by the borrower and which would be subject to the lien of the Government mortgage when acquired.
+*After-acquired property* means property which is to be acquired by the borrower and which would be subject to the lien of the Government mortgage when acquired. 
 
-*Amortization expense* means the sum of the balances of the following accounts of the borrower:
+*Amortization expense* means the sum of the balances of the following accounts of the borrower: 
 
 | Account names                       | Number |
 | ----------------------------------- | ------ |
@@ -21,19 +21,19 @@ Note:
 
 All references to account numbers are to the Uniform System of Accounts (7 CFR part 1770, subpart B).
 
-*Asset* means a future economic benefit obtained or controlled by the borrower as a result of past transactions or events.
+*Asset* means a future economic benefit obtained or controlled by the borrower as a result of past transactions or events. 
 
-*Automatic lien accommodation* means the approval, by RUS, of a request to share the Government's lien on a pari passu or pro-rata basis with a private lender in accordance with the provisions of § 1744.30.
+*Automatic lien accommodation* means the approval, by RUS, of a request to share the Government's lien on a pari passu or pro-rata basis with a private lender in accordance with the provisions of § 1744.30. 
 
-*Borrower* means any organization that has an outstanding telecommunications loan made or guaranteed by RUS, or that is seeking such financing. See 7 CFR part 1735.
+*Borrower* means any organization that has an outstanding telecommunications loan made or guaranteed by RUS, or that is seeking such financing. See 7 CFR part 1735. 
 
-*Construction Fund* means the RUS Construction Fund Account into which all advances of loan funds are deposited pursuant to the provisions of the loan documents.
+*Construction Fund* means the RUS Construction Fund Account into which all advances of loan funds are deposited pursuant to the provisions of the loan documents. 
 
-*Debt Service Coverage (DSC) ratio* means the ratio of the sum of the borrower's net income, depreciation and amortization expense, and interest expense, all divided by the sum of all payments of principal and interest required to be paid by the borrower during the year on all its debt from any source with a maturity greater than 1 year and capital lease obligations.
+*Debt Service Coverage (DSC) ratio* means the ratio of the sum of the borrower's net income, depreciation and amortization expense, and interest expense, all divided by the sum of all payments of principal and interest required to be paid by the borrower during the year on all its debt from any source with a maturity greater than 1 year and capital lease obligations. 
 
-*Default* means any event or occurrence which, unless corrected, will, with the passage of time and the giving of proper notices, give rise to remedies under one or more of the loan documents.
+*Default* means any event or occurrence which, unless corrected, will, with the passage of time and the giving of proper notices, give rise to remedies under one or more of the loan documents. 
 
-*Depreciation expense* means the sum of the balances of the following accounts of the borrower:
+*Depreciation expense* means the sum of the balances of the following accounts of the borrower: 
 
 | Account names                                                            | Number |
 | ------------------------------------------------------------------------ | ------ |
@@ -45,21 +45,21 @@ Note:
 
 All references to account numbers are to the Uniform System of Accounts (7 CFR part 1770, subpart B).
 
-*Disbursement* means a transfer of money by the borrower out of the construction fund in accordance with the provisions of the fund.
+*Disbursement* means a transfer of money by the borrower out of the construction fund in accordance with the provisions of the fund. 
 
-*Equity percentage* means the total equity or net worth of the borrower expressed as a percentage of the borrower's total assets.
+*Equity percentage* means the total equity or net worth of the borrower expressed as a percentage of the borrower's total assets. 
 
-*FFB* means the Federal Financing Bank.
+*FFB* means the Federal Financing Bank. 
 
-*Financial Requirement Statement (FRS)* means RUS Form 481 (OMB—No. 0572—0023). (This RUS Form is available from RUS, Program Development and Regulatory Analysis, Washington, DC 20250-1522).
+*Financial Requirement Statement (FRS)* means RUS Form 481 (OMB—No. 0572—0023). (This RUS Form is available from RUS, Program Development and Regulatory Analysis, Washington, DC 20250-1522). 
 
-*Government mortgage* means any instrument to which the Government, acting through the Administrator, is a party and which creates a lien or security interest in the borrower's property in connection with a loan made or guaranteed by RUS whether the Government is the sole mortgagee or is a co-mortgagee with a private lender.
+*Government mortgage* means any instrument to which the Government, acting through the Administrator, is a party and which creates a lien or security interest in the borrower's property in connection with a loan made or guaranteed by RUS whether the Government is the sole mortgagee or is a co-mortgagee with a private lender. 
 
-*Hardship loan* means a loan made by RUS under section 305(d)(1) of the RE Act.
+*Hardship loan* means a loan made by RUS under section 305(d)(1) of the RE Act. 
 
-*Interim construction* means the purchase of equipment or the conduct of construction under an RUS-approved plan of interim financing. See 7 CFR part 1737.
+*Interim construction* means the purchase of equipment or the conduct of construction under an RUS-approved plan of interim financing. See 7 CFR part 1737. 
 
-*Interest expense* means the sum of the balances of the following accounts of the borrower:
+*Interest expense* means the sum of the balances of the following accounts of the borrower: 
 
 | Account names                                         | Number      |
 | ----------------------------------------------------- | ----------- |
@@ -74,17 +74,17 @@ Note:
 
 All references to account numbers are to the Uniform System of Accounts (7 CFR part 1770, subpart B).
 
-*Interim financing* means funding for a project which RUS has acknowledged may be included in a loan, should said loan be approved, but for which RUS loan funds have not yet been made available.
+*Interim financing* means funding for a project which RUS has acknowledged may be included in a loan, should said loan be approved, but for which RUS loan funds have not yet been made available. 
 
-*Lien accommodation* means sharing the Government's lien on a pari passu or pro-rata basis with a private lender.
+*Lien accommodation* means sharing the Government's lien on a pari passu or pro-rata basis with a private lender. 
 
-*Loan* means any loan made or guaranteed by RUS.
+*Loan* means any loan made or guaranteed by RUS. 
 
-*Loan documents* means the loan contract, note and mortgage between the borrower and RUS and any associated document pertinent to a loan.
+*Loan documents* means the loan contract, note and mortgage between the borrower and RUS and any associated document pertinent to a loan. 
 
-*Loan funds* means the proceeds of a loan made or guaranteed by RUS.
+*Loan funds* means the proceeds of a loan made or guaranteed by RUS. 
 
-*Material and supplies* means any of the items properly recordable in the following account of the borrower:
+*Material and supplies* means any of the items properly recordable in the following account of the borrower: 
 
 | Account names             | Number |
 | ------------------------- | ------ |
@@ -94,7 +94,7 @@ Note:
 
 All references to account numbers are to the Uniform System of Accounts (7 CFR part 1770, subpart B).
 
-*Net income/Net margins* means the sum of the balances of the following accounts of the borrower:
+*Net income/Net margins* means the sum of the balances of the following accounts of the borrower: 
 
 | Account names                                                 | Number                   |
 | ------------------------------------------------------------- | ------------------------ |
@@ -120,7 +120,7 @@ Note:
 
 All references to account numbers are to the Uniform System of Accounts (7 CFR part 1770, subpart B).
 
-*Net plant* means the sum of the balances of the following accounts of the borrower:
+*Net plant* means the sum of the balances of the following accounts of the borrower: 
 
 | Account names                          | Number            |
 | -------------------------------------- | ----------------- |
@@ -131,11 +131,11 @@ Note:
 
 All references to account numbers are to the Uniform System of Accounts (7 CFR part 1770, subpart B).
 
-*Notes* means evidence of indebtedness secured by or to be secured by the Government mortgage.
+*Notes* means evidence of indebtedness secured by or to be secured by the Government mortgage. 
 
-*Pari Passu* means equably; ratably; without preference or precedence.
+*Pari Passu* means equably; ratably; without preference or precedence. 
 
-*Plant* means any of the items properly recordable in the following accounts of the borrower:
+*Plant* means any of the items properly recordable in the following accounts of the borrower: 
 
 | Account names                     | Number            |
 | --------------------------------- | ----------------- |
@@ -145,21 +145,21 @@ Note:
 
 All references to account numbers are to the Uniform System of Accounts (7 CFR part 1770, subpart B).
 
-*Private lender* means any lender other than the RUS or the lender of a loan guaranteed by RUS.
+*Private lender* means any lender other than the RUS or the lender of a loan guaranteed by RUS. 
 
-*Private lender notes* means the notes evidencing a private loan.
+*Private lender notes* means the notes evidencing a private loan. 
 
-*Private loan* means any loan made by a private lender.
+*Private loan* means any loan made by a private lender. 
 
-*RE Act (Act)* means the Rural Electrification Act of 1936 (7 U.S.C. 901 *et. seq.*).
+*RE Act (Act)* means the Rural Electrification Act of 1936 (7 U.S.C. 901 *et. seq.*). 
 
-*RUS* means the Rural Utilities Service, and includes its predecessor, the Rural Electrification Administration.
+*RUS* means the Rural Utilities Service, and includes its predecessor, the Rural Electrification Administration. 
 
-*RUS cost-of-money loan* means a loan made under section 305(d)(2) of the RE Act.
+*RUS cost-of-money loan* means a loan made under section 305(d)(2) of the RE Act. 
 
-*Subordination* means allowing a private lender to have a lien on specific property which will have priority over the Government's lien on such property.
+*Subordination* means allowing a private lender to have a lien on specific property which will have priority over the Government's lien on such property. 
 
-*Tangible plant* means any of the items properly recordable in the following accounts of the borrower:
+*Tangible plant* means any of the items properly recordable in the following accounts of the borrower: 
 
 | Account names                                                                      | Number            |
 | ---------------------------------------------------------------------------------- | ----------------- |
@@ -174,11 +174,11 @@ Note:
 
 All references to account numbers are to the Uniform System of Accounts (7 CFR part 1770, subpart B).
 
-*Telecommunication services* means any service for the transmission, emission, or reception of signals, sounds, information, images, or intelligence of any nature by optical waveguide, wire, radio, or other electromagnetic systems and shall include all facilities used in providing such service as well as the development, manufacture, sale, and distribution of such facilities.
+*Telecommunication services* means any service for the transmission, emission, or reception of signals, sounds, information, images, or intelligence of any nature by optical waveguide, wire, radio, or other electromagnetic systems and shall include all facilities used in providing such service as well as the development, manufacture, sale, and distribution of such facilities. 
 
-*Times interest earned ratio (TIER)* means the ratio of the borrower's net income or net margins plus interest expense, divided by said interest expense.
+*Times interest earned ratio (TIER)* means the ratio of the borrower's net income or net margins plus interest expense, divided by said interest expense. 
 
-*Total assets* means the sum of the balances of the following accounts of the borrower:
+*Total assets* means the sum of the balances of the following accounts of the borrower: 
 
 | Account names                      | Number              |
 | ---------------------------------- | ------------------- |
@@ -192,9 +192,9 @@ Note:
 
 All references to account numbers are to the Uniform System of Accounts (7 CFR part 1770, subpart B).
 
-*Total equity or net worth* means the excess of a borrower's total assets over its total liabilities.
+*Total equity or net worth* means the excess of a borrower's total assets over its total liabilities. 
 
-*Total liabilities* means the sum of the balances of the following accounts of the borrower:
+*Total liabilities* means the sum of the balances of the following accounts of the borrower: 
 
 | Account names                              | Number              |
 | ------------------------------------------ | ------------------- |
@@ -206,7 +206,7 @@ Note:
 
 All references to account numbers are to the Uniform System of Accounts (7 CFR part 1770, subpart B).
 
-*Total long-term debt* means the sum of the balances of the following accounts of the borrower:
+*Total long-term debt* means the sum of the balances of the following accounts of the borrower: 
 
 | Account names      | Number              |
 | ------------------ | ------------------- |
@@ -216,12 +216,12 @@ Note:
 
 All references to account numbers are to the Uniform System of Accounts (7 CFR part 1770, subpart B).
 
-*Weighted-average life of the loans or notes* means the average life of the loans or notes based on the proportion of original loan principal paid during each year of the loans or notes. It shall be determined by calculating the sum of all loan or note principal payments expressed as a fraction of the original loan or note principal amount, times the number of years and fractions of years elapsed at the time of each payment since issuance of the loan or note. For example, given a $5 million loan, with a maturity of 5 years and equal principal payments of $1 million due on the anniversary date of the loan, the weighted-average life would be: (.2)(1 year) + (.2)(2 years) + (.2)(3 years) + (.2)(4 years) + (.2)(5 years) = .2 years + .4 years + .6 years + .8 years + 1.0 years = 3.0 years. If instead the loan had a balloon payment of $5 million at the end of 5 years, the weighted-average life would be: ($5 million/$5 million)(5 years) = 5 years.
+*Weighted-average life of the loans or notes* means the average life of the loans or notes based on the proportion of original loan principal paid during each year of the loans or notes. It shall be determined by calculating the sum of all loan or note principal payments expressed as a fraction of the original loan or note principal amount, times the number of years and fractions of years elapsed at the time of each payment since issuance of the loan or note. For example, given a $5 million loan, with a maturity of 5 years and equal principal payments of $1 million due on the anniversary date of the loan, the weighted-average life would be: (.2)(1 year) + (.2)(2 years) + (.2)(3 years) + (.2)(4 years) + (.2)(5 years) = .2 years + .4 years + .6 years + .8 years + 1.0 years = 3.0 years. If instead the loan had a balloon payment of $5 million at the end of 5 years, the weighted-average life would be: ($5 million/$5 million)(5 years) = 5 years. 
 
-*Weighted-average remaining life of the loans or notes* means the remaining average life of the loans or notes based on the proportion of remaining loan or note principal expressed in years remaining to maturity of the loans or notes. It shall be determined by calculating the sum of the remaining principal payments of each loan or note expressed as a fraction of the total remaining loan or note amounts times the number of years and fraction of years remaining until maturity of the loan or note.
+*Weighted-average remaining life of the loans or notes* means the remaining average life of the loans or notes based on the proportion of remaining loan or note principal expressed in years remaining to maturity of the loans or notes. It shall be determined by calculating the sum of the remaining principal payments of each loan or note expressed as a fraction of the total remaining loan or note amounts times the number of years and fraction of years remaining until maturity of the loan or note. 
 
-*Weighted-average remaining useful life of the assets* means the estimated original average life of the assets to be acquired with the proceeds of the private lender notes expressed in years based on depreciation rates less the number of years those assets have been in service (or have been depreciated). It shall be determined by calculating the sum of each asset's remaining value expressed as a fraction of the total remaining value of the assets, times the estimated number of years and fraction of years remaining until the assets are fully depreciated.
+*Weighted-average remaining useful life of the assets* means the estimated original average life of the assets to be acquired with the proceeds of the private lender notes expressed in years based on depreciation rates less the number of years those assets have been in service (or have been depreciated). It shall be determined by calculating the sum of each asset's remaining value expressed as a fraction of the total remaining value of the assets, times the estimated number of years and fraction of years remaining until the assets are fully depreciated. 
 
-*Wholly-owned subsidiary* means a corporation owned 100 percent by the borrower.
+*Wholly-owned subsidiary* means a corporation owned 100 percent by the borrower. 
 
 \[66 FR 41758, Aug. 9, 2001, as amended at 84 FR 59922, Nov. 7, 2019\]

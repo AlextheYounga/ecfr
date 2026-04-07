@@ -1,12 +1,12 @@
 ##### § 1205.510 Levy of assessments.
 
-(a) *Producer assessments.* An assessment of $1 per bale for cotton research and promotion is hereby levied on each bale of Upland cotton that is produced from cotton harvested and ginned except cotton consumed by any governmental agency from its own production. Such assessment shall be payable and collected only once on each bale.
+(a) *Producer assessments.* An assessment of $1 per bale for cotton research and promotion is hereby levied on each bale of Upland cotton that is produced from cotton harvested and ginned except cotton consumed by any governmental agency from its own production. Such assessment shall be payable and collected only once on each bale. 
 
-(1) A supplemental assessment for cotton research and promotion in addition to the $1 per bale assessment provided for in paragraph (a) of this section, is hereby levied on each bale of Upland cotton harvested and ginned except cotton consumed by any governmental agency from its own production. The supplemental assessment rate shall be levied at the rate of five-tenths of one percent of:
+(1) A supplemental assessment for cotton research and promotion in addition to the $1 per bale assessment provided for in paragraph (a) of this section, is hereby levied on each bale of Upland cotton harvested and ginned except cotton consumed by any governmental agency from its own production. The supplemental assessment rate shall be levied at the rate of five-tenths of one percent of: 
 
-(i) The current value of the cotton multiplied by the number of pounds of lint cotton or;
+(i) The current value of the cotton multiplied by the number of pounds of lint cotton or; 
 
-(ii) The current value of the cotton converted to a fixed amount per bale as reflected in the following assessment chart:
+(ii) The current value of the cotton converted to a fixed amount per bale as reflected in the following assessment chart: 
 
 Assessment Chart 1
 | Current value (cents per pound)                                                                                                                          | Supplemental Assessment, dollars per bale |
@@ -25,15 +25,15 @@ Assessment Chart 1
 | 110.00 to 119.99                                                                                                                                         | 2.90                                      |
 | 1 Assessment is calculated on 5/10 of 1 percent of the midpoint of each 10¢ increment, based on a 500 lb. bale and converted to a fixed amount per bale. |                                           |
 
-(2) Each marketing year the collecting handler must select one of the two options for collecting the supplemental assessment as provided in paragraph (a)(1) of this section. The handler shall notify the Cotton Board as to the method selected at the time the handler files the first handler report each marketing year.
+(2) Each marketing year the collecting handler must select one of the two options for collecting the supplemental assessment as provided in paragraph (a)(1) of this section. The handler shall notify the Cotton Board as to the method selected at the time the handler files the first handler report each marketing year. 
 
-(b) *Importer assessment.* An assessment for cotton research and promotion of $1 per bale is hereby levied on each bale of cotton, or the bale equivalent thereof for cotton in cotton-containing products identified in the HTS conversion factor table in paragraph (b)(3) of this section and imported into the United States on or after July 31, 1992. The $1 per bale assessment shall be converted to a fixed amount per kilogram to facilitate the U.S. Customs Service in collecting this assessment.
+(b) *Importer assessment.* An assessment for cotton research and promotion of $1 per bale is hereby levied on each bale of cotton, or the bale equivalent thereof for cotton in cotton-containing products identified in the HTS conversion factor table in paragraph (b)(3) of this section and imported into the United States on or after July 31, 1992. The $1 per bale assessment shall be converted to a fixed amount per kilogram to facilitate the U.S. Customs Service in collecting this assessment. 
 
-(1) A supplemental assessment for cotton research and promotion in addition to the $1 per bale assessment provided for in paragraph (b) of this section is hereby levied on each bale of cotton or bale equivalent of cotton in cotton-containing products, identified in this subpart, imported into the United States on or after July 31, 1992. The supplemental assessment shall be levied at the rate of five-tenths of one percent of the historical value of cotton as determined by the Secretary and expressed in paragraph (b)(2) of this section. The rate of the supplemental assessment on imported cotton will be the same as that levied on cotton produced within the United States. The supplemental assessment will be calculated as a fixed amount per kilogram and added to the $1 per bale or bale equivalent assessment to facilitate the Customs Service in collecting assessments.
+(1) A supplemental assessment for cotton research and promotion in addition to the $1 per bale assessment provided for in paragraph (b) of this section is hereby levied on each bale of cotton or bale equivalent of cotton in cotton-containing products, identified in this subpart, imported into the United States on or after July 31, 1992. The supplemental assessment shall be levied at the rate of five-tenths of one percent of the historical value of cotton as determined by the Secretary and expressed in paragraph (b)(2) of this section. The rate of the supplemental assessment on imported cotton will be the same as that levied on cotton produced within the United States. The supplemental assessment will be calculated as a fixed amount per kilogram and added to the $1 per bale or bale equivalent assessment to facilitate the Customs Service in collecting assessments. 
 
-(2) The 12-month average of monthly weighted average prices received by U.S. farmers will be calculated annually. Such weighted average will be used as the value of imported cotton for the purpose of levying the supplemental assessment on imported cotton and will be expressed in kilograms. The value of imported cotton for the purpose of levying this supplemental assessment is $1.3247 cents per kilogram.
+(2) The 12-month average of monthly weighted average prices received by U.S. farmers will be calculated annually. Such weighted average will be used as the value of imported cotton for the purpose of levying the supplemental assessment on imported cotton and will be expressed in kilograms. The value of imported cotton for the purpose of levying this supplemental assessment is $1.3247 cents per kilogram. 
 
-(3) The following table contains Harmonized Tariff Schedule (HTS) classification numbers and corresponding conversion factors and assessments. The left column of the following table indicates the HTS classifications of imported cotton and cotton-containing products subject to assessment. The center column indicates the conversion factor for determining the raw fiber content for each kilogram of the HTS. HTS numbers for raw cotton have no conversion factor in the table. The right column indicates the total assessment per kilogram of the article assessed. In the event that any HTS number subject to assessment is changed and such change is merely a replacement of a previous number and has no impact on the physical properties, description, or cotton content of the product involved, assessments will continue to be collected based on the new number.
+(3) The following table contains Harmonized Tariff Schedule (HTS) classification numbers and corresponding conversion factors and assessments. The left column of the following table indicates the HTS classifications of imported cotton and cotton-containing products subject to assessment. The center column indicates the conversion factor for determining the raw fiber content for each kilogram of the HTS. HTS numbers for raw cotton have no conversion factor in the table. The right column indicates the total assessment per kilogram of the article assessed. In the event that any HTS number subject to assessment is changed and such change is merely a replacement of a previous number and has no impact on the physical properties, description, or cotton content of the product involved, assessments will continue to be collected based on the new number. 
 
 Table 2 to Paragraph (b)(3)—Import Assessment Table
 
@@ -2603,32 +2603,32 @@ Table 2 to Paragraph (b)(3)—Import Assessment Table
 | 9619007800 | 0.2466        | 0.3267    |
 | 9619007900 | 0.2466        | 0.3267    |
 
-(4) Any entry of cotton that qualifies for informal entry according to regulations issued by the Customs Service will not be subject to the assessment.
+(4) Any entry of cotton that qualifies for informal entry according to regulations issued by the Customs Service will not be subject to the assessment. 
 
-(5) Imported textile and apparel articles assembled of components formed from cotton produced in the Unites States and identified by HTS numbers 9819.11.03, 9819.11.06, 9820.11.03, 9820.11.06, 9820.11.09, 9820.11.12, 9820.11.18, 9820.11.21, 9802.00.8015, 9802.00.9000, 9802.00.8044, or 9802.00.8046 shall not subject to assessment.
+(5) Imported textile and apparel articles assembled of components formed from cotton produced in the Unites States and identified by HTS numbers 9819.11.03, 9819.11.06, 9820.11.03, 9820.11.06, 9820.11.09, 9820.11.12, 9820.11.18, 9820.11.21, 9802.00.8015, 9802.00.9000, 9802.00.8044, or 9802.00.8046 shall not subject to assessment. 
 
-(6) Imported cotton and products may be exempted by the Cotton Board from assessment under this paragraph. Such imported cotton and products may include, but are not limited to cotton and the cotton content of products which is U.S. produced cotton, or cotton other than Upland cotton.
+(6) Imported cotton and products may be exempted by the Cotton Board from assessment under this paragraph. Such imported cotton and products may include, but are not limited to cotton and the cotton content of products which is U.S. produced cotton, or cotton other than Upland cotton. 
 
-(i) A request for such exemption must be submitted to the Cotton Board by the importer, prior to the importation of the cotton product. The Cotton Board will then issue, if deemed appropriate, a numbered exemption certificate valid for 1 year from the date of issue. The exemption number should be entered by the importer on the Customs entry documentation in the appropriate location as determined by the U.S. Customs Service.
+(i) A request for such exemption must be submitted to the Cotton Board by the importer, prior to the importation of the cotton product. The Cotton Board will then issue, if deemed appropriate, a numbered exemption certificate valid for 1 year from the date of issue. The exemption number should be entered by the importer on the Customs entry documentation in the appropriate location as determined by the U.S. Customs Service. 
 
-(ii) The request for exemption should include:
+(ii) The request for exemption should include: 
 
-(A) the name, address, and importer identification number for the importer;
+(A) the name, address, and importer identification number for the importer; 
 
-(B) the HTS classification of the imported product;
+(B) the HTS classification of the imported product; 
 
-(C) weight of the product for which the exemption is sought;
+(C) weight of the product for which the exemption is sought; 
 
-(D) estimated date of entry;
+(D) estimated date of entry; 
 
-(E) commercial invoices of other such documentation indicating the origin or production or type of the cotton fiber used to produce the imported product;
+(E) commercial invoices of other such documentation indicating the origin or production or type of the cotton fiber used to produce the imported product; 
 
-(F) manufacture's description of the imported product.
+(F) manufacture's description of the imported product. 
 
-(7) The exemption number “999999999” shall be entered on the Customs entry summary document, in the appropriate location as determined by the U.S. Customs Service, by the importer when, based on the importer's own determination, the imported product is identified by a Harmonized Tariff Schedule classification number which is subject to assessment but the particular article contains no cotton.
+(7) The exemption number “999999999” shall be entered on the Customs entry summary document, in the appropriate location as determined by the U.S. Customs Service, by the importer when, based on the importer's own determination, the imported product is identified by a Harmonized Tariff Schedule classification number which is subject to assessment but the particular article contains no cotton. 
 
-(8) Articles imported into the United States temporarily and under bond which are classified by the Harmonized Tariff Schedule heading which begins with “9813” shall not be subject to assessment.
+(8) Articles imported into the United States temporarily and under bond which are classified by the Harmonized Tariff Schedule heading which begins with “9813” shall not be subject to assessment. 
 
-(9) Articles imported into the U.S. after being exported from the U.S. for alterations and which are classified by the Harmonized Tariff Schedule subheadings 9802.00.40 and 9802.00.50 shall not be subject to assessment.
+(9) Articles imported into the U.S. after being exported from the U.S. for alterations and which are classified by the Harmonized Tariff Schedule subheadings 9802.00.40 and 9802.00.50 shall not be subject to assessment. 
 
 \[57 FR 29432, July 2, 1992\] Editorial Note:For Federal Register citations affecting § 1205.510, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

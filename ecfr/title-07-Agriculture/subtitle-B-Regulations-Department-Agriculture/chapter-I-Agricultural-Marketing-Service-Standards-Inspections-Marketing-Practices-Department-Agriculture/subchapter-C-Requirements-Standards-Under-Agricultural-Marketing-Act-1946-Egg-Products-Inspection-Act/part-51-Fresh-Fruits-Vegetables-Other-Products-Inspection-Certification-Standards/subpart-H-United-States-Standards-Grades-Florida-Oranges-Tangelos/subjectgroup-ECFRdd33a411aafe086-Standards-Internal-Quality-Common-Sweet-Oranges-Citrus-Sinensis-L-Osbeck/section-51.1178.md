@@ -1,6 +1,6 @@
 ##### § 51.1178 Maximum anhydrous citric acid permissible for corresponding total soluble solids.
 
-For determining the grade of juice, the maximum permissible anhydrous citric acid content in relation to corresponding total soluble solids in the fruit is set forth in the following Table II together with the minimum ratio of total soluble solids to anhydrous citric acid:
+For determining the grade of juice, the maximum permissible anhydrous citric acid content in relation to corresponding total soluble solids in the fruit is set forth in the following Table II together with the minimum ratio of total soluble solids to anhydrous citric acid: 
 
 Table II
 | Total soluble solids   (average pct) | Maximum anhydrous citric acid   (average pct) | Minimum ratio of total soluble solids to anhydrous citric acid |

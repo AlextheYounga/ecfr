@@ -1,30 +1,30 @@
 ##### § 43.106 Choosing AQL's and sampling plans.
 
-(a) The selection of AQL's and sampling plans for given lot sizes depends on too many factors to permit the issuance of a “pre-selected” standard set of plans for specified lot sizes. Each user of the standards of this subpart should select AQL's and sampling plans that are tailored to best meet his needs.
+(a) The selection of AQL's and sampling plans for given lot sizes depends on too many factors to permit the issuance of a “pre-selected” standard set of plans for specified lot sizes. Each user of the standards of this subpart should select AQL's and sampling plans that are tailored to best meet his needs. 
 
-(b) Some of the factors that must be considered prior to selecting the AQL's are:
+(b) Some of the factors that must be considered prior to selecting the AQL's are: 
 
-(1) Class of defects such as major and minor: Major defects would generally require lower AQL's than those for minor defects;
+(1) Class of defects such as major and minor: Major defects would generally require lower AQL's than those for minor defects; 
 
-(2) Process capabilities under good commercial practice with respect to the defects in question: For example, if under normal production processes, the defect level cannot be kept below 2.0 percent defective, the selection of an AQL of 0.15 percent defective, although desirable for the defects in question, may not be practical;
+(2) Process capabilities under good commercial practice with respect to the defects in question: For example, if under normal production processes, the defect level cannot be kept below 2.0 percent defective, the selection of an AQL of 0.15 percent defective, although desirable for the defects in question, may not be practical; 
 
-(3) Consumer preferences: These may require higher AQL's or permit lower AQL's than process capabilities would indicate; and
+(3) Consumer preferences: These may require higher AQL's or permit lower AQL's than process capabilities would indicate; and 
 
-(4) Time and cost required to sample and inspect a lot under various AQL's: The smaller the AQL the more time and cost of inspection.
+(4) Time and cost required to sample and inspect a lot under various AQL's: The smaller the AQL the more time and cost of inspection. 
 
-(c) Some of the factors that may be considered prior to selecting the sampling plans for given lot sizes are:
+(c) Some of the factors that may be considered prior to selecting the sampling plans for given lot sizes are: 
 
-(1) The applicable AQL(s): The AQL dictates, among other things, the smallest sample size that can be used and the size of the “jumps” from one sample size to the next larger one;
+(1) The applicable AQL(s): The AQL dictates, among other things, the smallest sample size that can be used and the size of the “jumps” from one sample size to the next larger one; 
 
-(2) The relative ability of the plans to discriminate between “good” and “bad” lots: Although several plans in these standards have the same AQL, they differ in their ability to reject lots worse than the AQL's. The OC curve in the standards of this subpart provide the basis for determining the discriminating ability of each plan;
+(2) The relative ability of the plans to discriminate between “good” and “bad” lots: Although several plans in these standards have the same AQL, they differ in their ability to reject lots worse than the AQL's. The OC curve in the standards of this subpart provide the basis for determining the discriminating ability of each plan; 
 
-(3) The amount, time, and cost of sampling required;
+(3) The amount, time, and cost of sampling required; 
 
-(4) The size and value of the lots relative to the producer and consumer protection a sampling plan affords: One may be willing to take larger risks of passing “bad” lots that are small or of lesser value than they would for larger more valuable lots;
+(4) The size and value of the lots relative to the producer and consumer protection a sampling plan affords: One may be willing to take larger risks of passing “bad” lots that are small or of lesser value than they would for larger more valuable lots; 
 
-(5) The knowledge about the lot(s) to be submitted for inspection: Lots consisting of product produced under essentially the same conditions may require smaller sample sizes than those consisting of product produced by different shifts and different raw stock for example; and
+(5) The knowledge about the lot(s) to be submitted for inspection: Lots consisting of product produced under essentially the same conditions may require smaller sample sizes than those consisting of product produced by different shifts and different raw stock for example; and 
 
-(6) The record of the quality level of previously submitted lots: The sample size can be smaller for lots submitted from a supplier with a consistent record of quality levels significantly better than the specified AQL(s) than sample sizes for the supplier whose records show considerable variability in quality, “borderline” supplies or product worse than the AQL.
+(6) The record of the quality level of previously submitted lots: The sample size can be smaller for lots submitted from a supplier with a consistent record of quality levels significantly better than the specified AQL(s) than sample sizes for the supplier whose records show considerable variability in quality, “borderline” supplies or product worse than the AQL. 
 
 Master Table of Single and Double Sampling Plans 1
 | Sample size code letter                                                                                              | Sample size | Acceptable quality levels |

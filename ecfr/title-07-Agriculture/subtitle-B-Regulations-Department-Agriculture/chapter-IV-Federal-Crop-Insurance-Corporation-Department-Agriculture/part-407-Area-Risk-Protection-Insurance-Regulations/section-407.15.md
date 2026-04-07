@@ -1,36 +1,36 @@
 ##### § 407.15 Area risk protection insurance for grain sorghum.
 
-The grain sorghum crop insurance provisions for Area Risk Protection Insurance for the 2014 and succeeding crop years are as follows:
+The grain sorghum crop insurance provisions for Area Risk Protection Insurance for the 2014 and succeeding crop years are as follows: 
 
 UNITED STATES DEPARTMENT OF AGRICULTURE Federal Crop Insurance Corporation Area Risk Protection Insurance Grain Sorghum Crop Insurance Provisions 1. Definitions
 
-*Harvest.* Combining or threshing the sorghum for grain or cutting for hay, silage, or fodder.
+*Harvest.* Combining or threshing the sorghum for grain or cutting for hay, silage, or fodder. 
 
-*Planted acreage.* In addition to the definition contained in the Area Risk Protection Insurance Basic Provisions, sorghum seed broadcast and subsequently mechanically incorporated will not be considered planted.
+*Planted acreage.* In addition to the definition contained in the Area Risk Protection Insurance Basic Provisions, sorghum seed broadcast and subsequently mechanically incorporated will not be considered planted. 
 
 2\. Insured Crop
 
-(a) The insured crop will be all sorghum excluding hybrid sorghum seed:
+(a) The insured crop will be all sorghum excluding hybrid sorghum seed: 
 
-(1) Grown on insurable acreage in the county listed on the accepted application;
+(1) Grown on insurable acreage in the county listed on the accepted application; 
 
-(2) Properly planted by the final planting date and reported on or before the acreage reporting date;
+(2) Properly planted by the final planting date and reported on or before the acreage reporting date; 
 
-(3) Planted with the intent to be harvested; and
+(3) Planted with the intent to be harvested; and 
 
-(4) Not planted into an established grass or legume or interplanted with another crop.
+(4) Not planted into an established grass or legume or interplanted with another crop. 
 
-(b) Other sorghum including hybrid sorghum seed may be insurable under this policy if specified in the Special Provisions:
+(b) Other sorghum including hybrid sorghum seed may be insurable under this policy if specified in the Special Provisions: 
 
-(1) The insurability requirements in 2(a) apply to these other sorghum and additional requirements for insurability may be stated for these crops in the Special Provisions; and
+(1) The insurability requirements in 2(a) apply to these other sorghum and additional requirements for insurability may be stated for these crops in the Special Provisions; and 
 
-(2) This other sorghum will be insured using the yields, rates, and prices for sorghum unless otherwise specified in the actuarial documents.
+(2) This other sorghum will be insured using the yields, rates, and prices for sorghum unless otherwise specified in the actuarial documents. 
 
 3\. Payment Dates
 
-(a) Unless otherwise specified in the Special Provisions the final county revenues and final county yields will be determined prior to April 16 following the crop year.
+(a) Unless otherwise specified in the Special Provisions the final county revenues and final county yields will be determined prior to April 16 following the crop year. 
 
-(b) If an indemnity is due, unless otherwise specified in the Special Provisions we will issue any payment to you prior to May 16 following the crop year and following the determination of the final county revenue or the final county yield, as applicable.
+(b) If an indemnity is due, unless otherwise specified in the Special Provisions we will issue any payment to you prior to May 16 following the crop year and following the determination of the final county revenue or the final county yield, as applicable. 
 
 4\. Program Dates
 

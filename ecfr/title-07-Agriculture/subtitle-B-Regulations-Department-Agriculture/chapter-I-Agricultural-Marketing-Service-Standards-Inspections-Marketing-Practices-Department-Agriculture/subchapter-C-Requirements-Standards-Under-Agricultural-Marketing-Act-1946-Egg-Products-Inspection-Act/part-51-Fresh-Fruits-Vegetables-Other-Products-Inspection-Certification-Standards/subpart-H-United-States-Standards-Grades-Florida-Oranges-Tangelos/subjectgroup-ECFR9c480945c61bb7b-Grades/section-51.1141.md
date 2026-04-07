@@ -1,83 +1,83 @@
 ##### § 51.1141 U.S. Fancy.
 
-“U.S. Fancy” consists of oranges which meet the following requirements:
+“U.S. Fancy” consists of oranges which meet the following requirements: 
 
-(a) Basic requirements:
+(a) Basic requirements: 
 
-(1) Discoloration: Not more than one-tenth of the surface, in the aggregate, may be affected by discoloration. (See § 51.1161.);
+(1) Discoloration: Not more than one-tenth of the surface, in the aggregate, may be affected by discoloration. (See § 51.1161.); 
 
-(2) Firm;
+(2) Firm; 
 
-(3) Mature;
+(3) Mature; 
 
-(4) Similar varietal characteristics;
+(4) Similar varietal characteristics; 
 
-(5) Smooth texture;
+(5) Smooth texture; 
 
-(6) Well colored; and,
+(6) Well colored; and, 
 
-(7) Well formed.
+(7) Well formed. 
 
-(b) Free from:
+(b) Free from: 
 
-(1) Ammoniation;
+(1) Ammoniation; 
 
-(2) Buckskin;
+(2) Buckskin; 
 
-(3) Caked melanose;
+(3) Caked melanose; 
 
-(4) Creasing;
+(4) Creasing; 
 
-(5) Decay;
+(5) Decay; 
 
-(6) Scab;
+(6) Scab; 
 
-(7) Split navels;
+(7) Split navels; 
 
-(8) Sprayburn;
+(8) Sprayburn; 
 
-(9) Undeveloped segments;
+(9) Undeveloped segments; 
 
-(10) Unhealed skin breaks; and,
+(10) Unhealed skin breaks; and, 
 
-(11) Wormy fruit.
+(11) Wormy fruit. 
 
-(c) Free from injury caused by:
+(c) Free from injury caused by: 
 
-(1) Bruises;
+(1) Bruises; 
 
-(2) Green spots;
+(2) Green spots; 
 
-(3) Oil spots;
+(3) Oil spots; 
 
-(4) Rough, wide or protruding navels;
+(4) Rough, wide or protruding navels; 
 
-(5) Scale;
+(5) Scale; 
 
-(6) Scars;
+(6) Scars; 
 
-(7) Skin breakdown; and,
+(7) Skin breakdown; and, 
 
-(8) Thorn scratches.
+(8) Thorn scratches. 
 
-(d) Free from damage caused by:
+(d) Free from damage caused by: 
 
-(1) Dirt or other foreign material;
+(1) Dirt or other foreign material; 
 
-(2) Disease;
+(2) Disease; 
 
-(3) Dryness or mushy condition;
+(3) Dryness or mushy condition; 
 
-(4) Hail;
+(4) Hail; 
 
-(5) Insects;
+(5) Insects; 
 
-(6) Riciness or woodiness;
+(6) Riciness or woodiness; 
 
-(7) Sunburn; and,
+(7) Sunburn; and, 
 
-(8) Other means.
+(8) Other means. 
 
-(e) For tolerances see § 51.1151.
+(e) For tolerances see § 51.1151. 
 
 (f) Internal quality: Lots meeting the internal requirements for “U.S. Grade AA Juice (Double A)” or “U.S. Grade A Juice” may be so specified in connection with the grade. (See §§ 51.1176-51.1179.)

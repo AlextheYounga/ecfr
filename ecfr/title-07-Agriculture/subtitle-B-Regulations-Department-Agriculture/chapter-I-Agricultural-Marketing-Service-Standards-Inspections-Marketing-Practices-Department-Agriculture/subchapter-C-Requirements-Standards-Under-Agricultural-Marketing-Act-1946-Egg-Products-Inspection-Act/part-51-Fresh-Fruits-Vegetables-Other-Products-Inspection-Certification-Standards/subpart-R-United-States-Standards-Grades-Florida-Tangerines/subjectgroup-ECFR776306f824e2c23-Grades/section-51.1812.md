@@ -1,65 +1,65 @@
 ##### § 51.1812 U.S. No. 1.
 
-“U.S. No. 1” consists of tangerines which meet the following requirements:
+“U.S. No. 1” consists of tangerines which meet the following requirements: 
 
-(a) Basic requirements:
+(a) Basic requirements: 
 
-(1) Discoloration: Not more than one-third of the surface, in the aggregate, may be affected by discoloration. (See § 51.1828.);
+(1) Discoloration: Not more than one-third of the surface, in the aggregate, may be affected by discoloration. (See § 51.1828.); 
 
-(2) Fairly well colored;
+(2) Fairly well colored; 
 
-(3) Firm;
+(3) Firm; 
 
-(4) Mature; and,
+(4) Mature; and, 
 
-(5) Well formed.
+(5) Well formed. 
 
-(b) Free from:
+(b) Free from: 
 
-(1) Decay;
+(1) Decay; 
 
-(2) Unhealed skin breaks; and,
+(2) Unhealed skin breaks; and, 
 
-(3) Wormy fruit.
+(3) Wormy fruit. 
 
-(c) Free from damage caused by:
+(c) Free from damage caused by: 
 
-(1) Ammoniation;
+(1) Ammoniation; 
 
-(2) Bruises;
+(2) Bruises; 
 
-(3) Buckskin;
+(3) Buckskin; 
 
-(4) Caked melanose;
+(4) Caked melanose; 
 
-(5) Creasing;
+(5) Creasing; 
 
-(6) Dirt or other foreign material;
+(6) Dirt or other foreign material; 
 
-(7) Disease;
+(7) Disease; 
 
-(8) Dryness or mushy condition;
+(8) Dryness or mushy condition; 
 
-(9) Green spots;
+(9) Green spots; 
 
-(10) Hail;
+(10) Hail; 
 
-(11) Insects;
+(11) Insects; 
 
-(12) Oil spots;
+(12) Oil spots; 
 
-(13) Scab;
+(13) Scab; 
 
-(14) Scale;
+(14) Scale; 
 
-(15) Scars;
+(15) Scars; 
 
-(16) Skin breakdown;
+(16) Skin breakdown; 
 
-(17) Sprayburn;
+(17) Sprayburn; 
 
-(18) Sunburn; and
+(18) Sunburn; and 
 
-(19) Other means.
+(19) Other means. 
 
 (d) For tolerances see § 51.1820.

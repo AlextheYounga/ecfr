@@ -1,87 +1,87 @@
 ##### § 5001.103 Eligible CF projects and requirements.
 
-For a CF projects to be eligible for a loan guarantee under this part, it must meet the criteria specified in § 5001.102 and this section and be for a borrower eligible to submit an application for the project in accordance with § 5001.126.
+For a CF projects to be eligible for a loan guarantee under this part, it must meet the criteria specified in § 5001.102 and this section and be for a borrower eligible to submit an application for the project in accordance with § 5001.126. 
 
-(a) *Type of project.* The project must be for the construction, enlargement, extension, or to otherwise improve an essential community facility. Essential community facilities include, but are not limited to:
+(a) *Type of project.* The project must be for the construction, enlargement, extension, or to otherwise improve an essential community facility. Essential community facilities include, but are not limited to: 
 
-(1) Health care facilities and services, including but not limited to hospitals and assisted living facilities providing daily living and health care assistance in compliance with Federal, Tribal and/or State licensure or certification requirements;
+(1) Health care facilities and services, including but not limited to hospitals and assisted living facilities providing daily living and health care assistance in compliance with Federal, Tribal and/or State licensure or certification requirements; 
 
-(2) Fire, rescue, and public safety facilities and services;
+(2) Fire, rescue, and public safety facilities and services; 
 
-(3) Community, public, social, educational, or cultural facilities or services, including but not limited to:
+(3) Community, public, social, educational, or cultural facilities or services, including but not limited to: 
 
-(i) Business incubators when not an inherently commercial enterprise, and the applicant demonstrates the following:
+(i) Business incubators when not an inherently commercial enterprise, and the applicant demonstrates the following: 
 
-(A) Applicant is a mission-driven organization such as a local or regional economic development organization;
+(A) Applicant is a mission-driven organization such as a local or regional economic development organization; 
 
-(B) The facility will be used to provide technical assistance, training, workforce development, administrative support services and vocational training to address workforce shortages in the community or region; and
+(B) The facility will be used to provide technical assistance, training, workforce development, administrative support services and vocational training to address workforce shortages in the community or region; and 
 
-(C) Capacity building and support services that include at a minimum the following with the borrower demonstrating expertise in one or more of these services or presents a sustainable economically feasible program to outsource such activities:
+(C) Capacity building and support services that include at a minimum the following with the borrower demonstrating expertise in one or more of these services or presents a sustainable economically feasible program to outsource such activities: 
 
-(*1*) Business plan development;
+(*1*) Business plan development; 
 
-(*2*) Administrative support services;
+(*2*) Administrative support services; 
 
-(*3*) Training and technical assistance;
+(*3*) Training and technical assistance; 
 
-(*4*) Mentoring, coaching, and leadership;
+(*4*) Mentoring, coaching, and leadership; 
 
-(*5*) Finance and accounting workshops;
+(*5*) Finance and accounting workshops; 
 
-(*6*) Programs to access capital; and
+(*6*) Programs to access capital; and 
 
-(*7*) High-speed internet access;
+(*7*) High-speed internet access; 
 
-(ii) Thrift stores that operate as charitable organizations to enrich the quality of life for residents of the rural community they serve demonstrated by the following activities:
+(ii) Thrift stores that operate as charitable organizations to enrich the quality of life for residents of the rural community they serve demonstrated by the following activities: 
 
-(A) Collect and resell used or donated merchandise to community residents and may also provide other services such as job training or food pantries;
+(A) Collect and resell used or donated merchandise to community residents and may also provide other services such as job training or food pantries; 
 
-(B) Receive donations, gifts, or bequests of money to help fund the organization and its purpose with a significant portion obtained from the rural community it serves.
+(B) Receive donations, gifts, or bequests of money to help fund the organization and its purpose with a significant portion obtained from the rural community it serves. 
 
-(C) Profits are reinvested in the facility or in charitable activities in the rural community served to ensure the goals of the organization are met.
+(C) Profits are reinvested in the facility or in charitable activities in the rural community served to ensure the goals of the organization are met. 
 
-(iii) Fairgrounds, agricultural exposition centers, farmers markets, food distribution and food banks;
+(iii) Fairgrounds, agricultural exposition centers, farmers markets, food distribution and food banks; 
 
-(4) Transportation facilities such as streets, bridges, roads, ports, and airports;
+(4) Transportation facilities such as streets, bridges, roads, ports, and airports; 
 
-(5) Utility projects such as hydroelectric generating facilities and related connecting systems and appurtenances; supplemental and supporting structures for other rural electrification or telephone systems including facilities such as headquarters, office buildings, storage facilities, and maintenance shops when not eligible for RUS financing; natural gas distribution systems; and recycling or transfer centers or stations.
+(5) Utility projects such as hydroelectric generating facilities and related connecting systems and appurtenances; supplemental and supporting structures for other rural electrification or telephone systems including facilities such as headquarters, office buildings, storage facilities, and maintenance shops when not eligible for RUS financing; natural gas distribution systems; and recycling or transfer centers or stations. 
 
-(6) Telecommunications end-user equipment as it relates to public safety, medical, or educational telecommunications links when not eligible for RUS financing;
+(6) Telecommunications end-user equipment as it relates to public safety, medical, or educational telecommunications links when not eligible for RUS financing; 
 
-(7) Water infrastructure facilities such as levees, dams, reservoirs, inland waterways, canals, and irrigation systems;
+(7) Water infrastructure facilities such as levees, dams, reservoirs, inland waterways, canals, and irrigation systems; 
 
-(8) The purchase and installation of renewable energy systems for use by an essential community facility when:
+(8) The purchase and installation of renewable energy systems for use by an essential community facility when: 
 
-(i) The renewable energy system will help defray the cost of facility operation over the life of the system;
+(i) The renewable energy system will help defray the cost of facility operation over the life of the system; 
 
-(ii) The renewable energy system will improve the borrower's ability to provide the underlying essential community service, such as providing backup facilities or extending fuel supplies of backup facilities;
+(ii) The renewable energy system will improve the borrower's ability to provide the underlying essential community service, such as providing backup facilities or extending fuel supplies of backup facilities; 
 
-(iii) The borrower does not, and will not, have any contract to sell power generated by the renewable energy system; however, receiving credit for excess production is permitted;
+(iii) The borrower does not, and will not, have any contract to sell power generated by the renewable energy system; however, receiving credit for excess production is permitted; 
 
-(iv) The borrower does not anticipate, and has no plan for, generation of more energy than it will use in a consecutive 12-month period. The borrower may receive credits from a utility for energy production that happens to exceed facility usage during a particular month;
+(iv) The borrower does not anticipate, and has no plan for, generation of more energy than it will use in a consecutive 12-month period. The borrower may receive credits from a utility for energy production that happens to exceed facility usage during a particular month; 
 
-(v) The renewable energy system is commercially available with proven operating history specific to the proposed application; and
+(v) The renewable energy system is commercially available with proven operating history specific to the proposed application; and 
 
-(vi) The borrower provides a technical report as part of the financial feasibility study in accordance with § 5001.307(e) (1) and (2), as applicable of subpart D.
+(vi) The borrower provides a technical report as part of the financial feasibility study in accordance with § 5001.307(e) (1) and (2), as applicable of subpart D. 
 
-(9) Land acquisition and necessary site preparation including access ways and utility extensions to and throughout an industrial park site; and
+(9) Land acquisition and necessary site preparation including access ways and utility extensions to and throughout an industrial park site; and 
 
-(10) Community parks, community activity centers, and similar types of facilities that are an integral part of the orderly development of a community (meaning a development that is addressing a need in the community). Recreational components including, but not limited to, playground equipment of an otherwise non-recreational eligible community facility such as childcare, educational, or health care facilities are also eligible.
+(10) Community parks, community activity centers, and similar types of facilities that are an integral part of the orderly development of a community (meaning a development that is addressing a need in the community). Recreational components including, but not limited to, playground equipment of an otherwise non-recreational eligible community facility such as childcare, educational, or health care facilities are also eligible. 
 
-(b) *Public use.* All facilities financed under the provisions of this section will be for public use.
+(b) *Public use.* All facilities financed under the provisions of this section will be for public use. 
 
-(1) To demonstrate availability for public use, the borrower may not restrict use of or membership to its facility or service based on race, color, religion, sex, national origin, age, disability, sexual orientation, or marital or familial status Veterans of Foreign Wars and American Legion post facilities must be open and available for use by appointment or lease to community residents or groups.
+(1) To demonstrate availability for public use, the borrower may not restrict use of or membership to its facility or service based on race, color, religion, sex, national origin, age, disability, sexual orientation, or marital or familial status Veterans of Foreign Wars and American Legion post facilities must be open and available for use by appointment or lease to community residents or groups. 
 
-(c) *Project location.* The project must be located in a rural area as defined in § 5001.3 of this part, except that utility projects serving both rural and non-rural areas are eligible for a loan guarantee regardless of project location. For such utility projects, the Agency will guarantee the rural area portion of the project and only the portion of the project necessary to provide the essential services to rural areas. The part of the facility located in a non-rural area must be necessary to provide the essential services to rural areas. The availability of funds for CF projects is contingent on its rural area population and the reservation of funds outlined in § 5001.316(e).
+(c) *Project location.* The project must be located in a rural area as defined in § 5001.3 of this part, except that utility projects serving both rural and non-rural areas are eligible for a loan guarantee regardless of project location. For such utility projects, the Agency will guarantee the rural area portion of the project and only the portion of the project necessary to provide the essential services to rural areas. The part of the facility located in a non-rural area must be necessary to provide the essential services to rural areas. The availability of funds for CF projects is contingent on its rural area population and the reservation of funds outlined in § 5001.316(e). 
 
-(d) *Leased space.* Eligible projects may include leased space to ineligible organizations or leased space used for ineligible commercial activities provided the floor space leased to ineligible organizations or used for ineligible commercial activity is less than 25 percent of the facility's floor space. The ineligible organization and the ineligible commercial activity must be related to and enhance the primary purpose of the eligible project. Examples include a hair salon in an assisted living facility, or a pharmacy in a medical facility.
+(d) *Leased space.* Eligible projects may include leased space to ineligible organizations or leased space used for ineligible commercial activities provided the floor space leased to ineligible organizations or used for ineligible commercial activity is less than 25 percent of the facility's floor space. The ineligible organization and the ineligible commercial activity must be related to and enhance the primary purpose of the eligible project. Examples include a hair salon in an assisted living facility, or a pharmacy in a medical facility. 
 
-(e) *Purchase of existing facility.* When the project is to otherwise improve an essential community facility through the purchase of an existing facility as defined in § 5001.3 the following are required:
+(e) *Purchase of existing facility.* When the project is to otherwise improve an essential community facility through the purchase of an existing facility as defined in § 5001.3 the following are required: 
 
-(1) An appraisal which demonstrates the purchase price is fair and reasonable and represents the market value of the facility through an arm's length transaction; and
+(1) An appraisal which demonstrates the purchase price is fair and reasonable and represents the market value of the facility through an arm's length transaction; and 
 
-(2) If the transaction is necessary to improve the facility, documentation of the improvements that will be required and the plan, including source of funding, to complete those improvements within a reasonable timeframe; or
+(2) If the transaction is necessary to improve the facility, documentation of the improvements that will be required and the plan, including source of funding, to complete those improvements within a reasonable timeframe; or 
 
-(3) If the transaction is necessary to prevent a loss of service, documentation in the form of a financial analysis that demonstrates the seller will not have the financial means to continue to operate the facility and provide the needed services.
+(3) If the transaction is necessary to prevent a loss of service, documentation in the form of a financial analysis that demonstrates the seller will not have the financial means to continue to operate the facility and provide the needed services. 
 
 \[85 FR 42518, July 14, 2020, as amended at 89 FR 79709, Sept. 30, 2024\]

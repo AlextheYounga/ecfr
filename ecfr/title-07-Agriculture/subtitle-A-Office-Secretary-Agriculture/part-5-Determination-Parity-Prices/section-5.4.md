@@ -1,6 +1,6 @@
 ##### § 5.4 Commodities for which parity prices shall be calculated.
 
-Parity prices shall be calculated for the following commodities:
+Parity prices shall be calculated for the following commodities: 
 
 Basic Commodities
 
@@ -10,39 +10,39 @@ Wheat; corn; American upland cotton; extra long staple cotton; rice; peanuts; 1 
 
 Designated Nonbasic Commodities
 
-Milk sold to plants; milkfat in cream; tung nuts; honey, wholesale extracted.
+Milk sold to plants; milkfat in cream; tung nuts; honey, wholesale extracted. 
 
 Wool and Mohair
 
-Wool and mohair.
+Wool and mohair. 
 
 Other Nonbasic Commodities citrus fruit
 
-Grapefruit; lemons; limes; oranges; tangerines; and Temples.
+Grapefruit; lemons; limes; oranges; tangerines; and Temples. 
 
 deciduous and other fruit
 
-Apples (primarily for fresh use); apples for processing; apricots for fresh consumption; apricots for processing (except dried); dried apricots; avocados; blackberries; boysenberries; gooseberries; loganberries; black raspberries; red raspberries; youngberries; tart cherries; sweet cherries; cranberries; dates; grapes, raisins, dried; all grapes, excluding raisins, dried; nectarines for fresh consumption; nectarines for processing; olives for processing (excluding crushed for oil); olives, crushed for oil; olives for canning; papayas (Hawaii), for fresh consumption; peaches for fresh consumption; clingstone peaches for processing (except dried); freestone peaches for processing (except dried); dried peaches; pears for fresh consumption; pears for processing (except dried); dried pears; plums (California), for fresh consumption; plums (California), for processing; dried prunes (California); prunes and plums (excluding California), for processing (except dried); strawberries for fresh consumption; and strawberries for processing.
+Apples (primarily for fresh use); apples for processing; apricots for fresh consumption; apricots for processing (except dried); dried apricots; avocados; blackberries; boysenberries; gooseberries; loganberries; black raspberries; red raspberries; youngberries; tart cherries; sweet cherries; cranberries; dates; grapes, raisins, dried; all grapes, excluding raisins, dried; nectarines for fresh consumption; nectarines for processing; olives for processing (excluding crushed for oil); olives, crushed for oil; olives for canning; papayas (Hawaii), for fresh consumption; peaches for fresh consumption; clingstone peaches for processing (except dried); freestone peaches for processing (except dried); dried peaches; pears for fresh consumption; pears for processing (except dried); dried pears; plums (California), for fresh consumption; plums (California), for processing; dried prunes (California); prunes and plums (excluding California), for processing (except dried); strawberries for fresh consumption; and strawberries for processing. 
 
 seed crops
 
-Alfalfa, bentgrass, crimson clover, Chewings fescue, red fescue, tall fescue, Marion Kentucky bluegrass, Ladino clover, lespedeza, orchard grass, red clover, timothy, and hairy vetch.
+Alfalfa, bentgrass, crimson clover, Chewings fescue, red fescue, tall fescue, Marion Kentucky bluegrass, Ladino clover, lespedeza, orchard grass, red clover, timothy, and hairy vetch. 
 
 sugar crops
 
-Sugar beets, and sugarcane for sugar.
+Sugar beets, and sugarcane for sugar. 
 
 tree nuts
 
-Almonds; filberts; pecans, all; and walnuts.
+Almonds; filberts; pecans, all; and walnuts. 
 
 vegetables for fresh market
 
-Artichokes, asparagus, snap beans, broccoli, cabbage, cantaloups, carrots, cauliflower, celery, sweet corn, cucumbers, eggplant, escarole, garlic, honeydew melons, lettuce, onions, green peppers, spinach, tomatoes, and watermelons.
+Artichokes, asparagus, snap beans, broccoli, cabbage, cantaloups, carrots, cauliflower, celery, sweet corn, cucumbers, eggplant, escarole, garlic, honeydew melons, lettuce, onions, green peppers, spinach, tomatoes, and watermelons. 
 
 vegetables for processing
 
-Asparagus, lima beans, snap beans, beets, cabbage, sweet corn, cucumbers, green peas, spinach and tomatoes.
+Asparagus, lima beans, snap beans, beets, cabbage, sweet corn, cucumbers, green peas, spinach and tomatoes. 
 
 other commodities
 

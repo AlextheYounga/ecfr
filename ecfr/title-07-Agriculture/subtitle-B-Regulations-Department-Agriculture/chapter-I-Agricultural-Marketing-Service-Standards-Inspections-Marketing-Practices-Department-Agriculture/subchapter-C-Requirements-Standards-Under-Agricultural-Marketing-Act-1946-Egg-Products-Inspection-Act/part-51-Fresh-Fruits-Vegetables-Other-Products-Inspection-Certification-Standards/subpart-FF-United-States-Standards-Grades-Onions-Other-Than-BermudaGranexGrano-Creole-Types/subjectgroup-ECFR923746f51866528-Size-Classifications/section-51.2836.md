@@ -1,6 +1,6 @@
 ##### § 51.2836 Size classifications.
 
-The size of onions may be specified in accordance with one of the following classifications.
+The size of onions may be specified in accordance with one of the following classifications. 
 
 | Size designation                                                                                                                                                    | Minimum diameter | Maximum diameter |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- |

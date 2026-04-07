@@ -1,16 +1,16 @@
 ##### § 932.149 Modified minimum quality requirements for specified styles of canned olives of the ripe type.
 
-(a) Except as otherwise provided in this section, the minimum quality requirements prescribed in § 932.52(a)(1) are modified as follows, for specified styles of canned olives of the ripe type:
+(a) Except as otherwise provided in this section, the minimum quality requirements prescribed in § 932.52(a)(1) are modified as follows, for specified styles of canned olives of the ripe type: 
 
-(1) Canned whole and pitted olives of the ripe type shall meet the minimum quality requirements as prescribed in table 1 of this section;
+(1) Canned whole and pitted olives of the ripe type shall meet the minimum quality requirements as prescribed in table 1 of this section; 
 
-(2) Canned sliced, segmented (wedged), and halved olives of the ripe type shall meet the minimum quality requirements as prescribed in table 2 of this section;
+(2) Canned sliced, segmented (wedged), and halved olives of the ripe type shall meet the minimum quality requirements as prescribed in table 2 of this section; 
 
-(3) Canned chopped olives of the ripe type shall meet the minimum quality requirements as prescribed in table 3 of this section; and shall be practically free from identifiable units of pit caps, end slices, and slices (“practically free from identifiable units” means that not more than 10 percent, by weight, of the unit of chopped style olives may be identifiable pit caps, end slices, or slices); and,
+(3) Canned chopped olives of the ripe type shall meet the minimum quality requirements as prescribed in table 3 of this section; and shall be practically free from identifiable units of pit caps, end slices, and slices (“practically free from identifiable units” means that not more than 10 percent, by weight, of the unit of chopped style olives may be identifiable pit caps, end slices, or slices); and, 
 
-(4) Canned broken pitted olives of the ripe type shall meet the minimum quality requirements as prescribed in table 4 of this section;
+(4) Canned broken pitted olives of the ripe type shall meet the minimum quality requirements as prescribed in table 4 of this section; 
 
-(5) A lot of canned ripe olives is considered to meet the requirements of this section if all or most of the sample units meet the requirements specified in tables 1 through 4 of this section: *Provided,* That the number of sample units which do not meet the requirements specified in tables 1 through 4 of this section does not exceed the acceptance number prescribed for in the sample size provided in table I of 7 CFR 52.38: *Provided further,* That there is no off flavor in any sample unit.
+(5) A lot of canned ripe olives is considered to meet the requirements of this section if all or most of the sample units meet the requirements specified in tables 1 through 4 of this section: *Provided,* That the number of sample units which do not meet the requirements specified in tables 1 through 4 of this section does not exceed the acceptance number prescribed for in the sample size provided in table I of 7 CFR 52.38: *Provided further,* That there is no off flavor in any sample unit. 
 
 Table 1—Whole and Pitted Style
 
@@ -68,6 +68,6 @@ Table 4—Broken Pitted Style
 | Major Stems            | Not more than 3                                                                               |
 | HEVM                   | Not more than 2 units per sample                                                              |
 
-(b) Terms used in this section shall have the same meaning as are given to the respective terms in the current U.S. Standards for Grades of Canned Ripe Olives (7 CFR part 52): *Provided,* That the definition of “broken pitted olives” is as follows: “Broken pitted olives” consist of large pieces that may have been broken in pitting but have not been sliced or cut.
+(b) Terms used in this section shall have the same meaning as are given to the respective terms in the current U.S. Standards for Grades of Canned Ripe Olives (7 CFR part 52): *Provided,* That the definition of “broken pitted olives” is as follows: “Broken pitted olives” consist of large pieces that may have been broken in pitting but have not been sliced or cut. 
 
 \[62 FR 1242, Jan. 9, 1997\]

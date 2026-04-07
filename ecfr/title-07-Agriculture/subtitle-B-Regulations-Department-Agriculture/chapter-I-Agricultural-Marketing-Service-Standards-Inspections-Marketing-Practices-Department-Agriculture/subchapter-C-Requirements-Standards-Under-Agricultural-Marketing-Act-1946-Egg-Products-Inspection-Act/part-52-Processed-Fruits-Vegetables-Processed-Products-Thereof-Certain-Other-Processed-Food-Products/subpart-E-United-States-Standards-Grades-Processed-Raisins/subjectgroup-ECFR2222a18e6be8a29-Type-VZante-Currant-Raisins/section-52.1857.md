@@ -1,10 +1,10 @@
 ##### § 52.1857 Grades of zante currant raisins.
 
-(a) “U.S. Grade A” is the quality of Zante Currant Raisins that have similar varietal characteristics; that have a good typical color; that have a good characteristic flavor; that show development characteristics of raisins prepared from well-matured grapes; that have not less than 75 percent, by weight, of raisins that are well-matured or reasonably well matured; that contain not more than 20 percent, by weight, of moisture; and meet the additional requirements as outlined in table 1 to this section.
+(a) “U.S. Grade A” is the quality of Zante Currant Raisins that have similar varietal characteristics; that have a good typical color; that have a good characteristic flavor; that show development characteristics of raisins prepared from well-matured grapes; that have not less than 75 percent, by weight, of raisins that are well-matured or reasonably well matured; that contain not more than 20 percent, by weight, of moisture; and meet the additional requirements as outlined in table 1 to this section. 
 
-(b) “U.S. Grade B” is the quality of Zante Currant Raisins that have similar varietal characteristics; that have a reasonably good typical color; that have a good characteristic flavor; that have development characteristics of raisins prepared from reasonably well-matured and/or fairly well matured grapes; that contain not more than 20 percent, by weight, of moisture; and meet the additional requirements as outlined in table 1 to this section.
+(b) “U.S. Grade B” is the quality of Zante Currant Raisins that have similar varietal characteristics; that have a reasonably good typical color; that have a good characteristic flavor; that have development characteristics of raisins prepared from reasonably well-matured and/or fairly well matured grapes; that contain not more than 20 percent, by weight, of moisture; and meet the additional requirements as outlined in table 1 to this section. 
 
-(c) “Substandard” is the quality of Zante Currant Raisins that fail to meet the requirements of U.S. Grade B.
+(c) “Substandard” is the quality of Zante Currant Raisins that fail to meet the requirements of U.S. Grade B. 
 
 Table 1 to § 52.1857—Allowances for Defects in Zante Currant Raisins
 | Defects                                                                                      | Maximum count                      |

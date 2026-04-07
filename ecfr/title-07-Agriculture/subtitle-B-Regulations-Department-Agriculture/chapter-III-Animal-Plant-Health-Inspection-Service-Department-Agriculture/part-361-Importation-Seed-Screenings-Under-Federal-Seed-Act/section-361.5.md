@@ -1,24 +1,24 @@
 ##### § 361.5 Sampling of seeds.
 
-(a) *Sample sizes.* As provided in § 361.4(b), samples of seed will be taken from each lot of seed being imported for seeding (planting) purposes to determine whether any seeds of noxious weeds listed in § 361.6(a) are present. The samples shall be drawn in the manner described in paragraphs (b) and (c) of this section. Unused portions of samples of rare or expensive seeds will be returned by APHIS upon request of the importer.
+(a) *Sample sizes.* As provided in § 361.4(b), samples of seed will be taken from each lot of seed being imported for seeding (planting) purposes to determine whether any seeds of noxious weeds listed in § 361.6(a) are present. The samples shall be drawn in the manner described in paragraphs (b) and (c) of this section. Unused portions of samples of rare or expensive seeds will be returned by APHIS upon request of the importer. 
 
-(1) A minimum sample of not less than 1 quart shall be drawn from each lot of agricultural seed; a minimum sample of not less than 1 pint shall be drawn from each lot of vegetable seed, except that a sample of 1/4 pint will be sufficient for a vegetable seed importation of 5 pounds or less. The minimum sample shall be divided repeatedly until a working sample of proper weight has been obtained. If a mechanical divider cannot be used or is not available, the sample shall be thoroughly mixed, then placed in a pile; the pile shall be divided repeatedly into halves until a working sample of the proper weight remains. The weights of the working samples for noxious weed examination for each lot of seed are shown in column 1 of table 1 of this section. If the lot of seed is a mixture, the following methods shall be used to determine the weight of the working sample:
+(1) A minimum sample of not less than 1 quart shall be drawn from each lot of agricultural seed; a minimum sample of not less than 1 pint shall be drawn from each lot of vegetable seed, except that a sample of 1/4 pint will be sufficient for a vegetable seed importation of 5 pounds or less. The minimum sample shall be divided repeatedly until a working sample of proper weight has been obtained. If a mechanical divider cannot be used or is not available, the sample shall be thoroughly mixed, then placed in a pile; the pile shall be divided repeatedly into halves until a working sample of the proper weight remains. The weights of the working samples for noxious weed examination for each lot of seed are shown in column 1 of table 1 of this section. If the lot of seed is a mixture, the following methods shall be used to determine the weight of the working sample: 
 
-(i) If the lot of seed is a mixture consisting of one predominant kind of seed or a group of kinds of similar size, the weight of the working sample shall be the weight shown in column 1 of table 1 of this section for the kind or group of kinds that comprises more than 50 percent of the sample.
+(i) If the lot of seed is a mixture consisting of one predominant kind of seed or a group of kinds of similar size, the weight of the working sample shall be the weight shown in column 1 of table 1 of this section for the kind or group of kinds that comprises more than 50 percent of the sample. 
 
-(ii) If the lot of seed is a mixture consisting of two or more kinds or groups of kinds of different sizes, none of which comprises over 50 percent of the sample, the weight of the working sample shall be the weighted average (to the nearest half gram) of the weight shown in column 1 of table 1 of this section for each of the kinds that comprise the sample, as determined by the following method:
+(ii) If the lot of seed is a mixture consisting of two or more kinds or groups of kinds of different sizes, none of which comprises over 50 percent of the sample, the weight of the working sample shall be the weighted average (to the nearest half gram) of the weight shown in column 1 of table 1 of this section for each of the kinds that comprise the sample, as determined by the following method: 
 
-(A) Multiply the percentage of each component of the mixture (rounded off to the nearest whole number) by the sample sizes shown in column 1 of table 1 of this section;
+(A) Multiply the percentage of each component of the mixture (rounded off to the nearest whole number) by the sample sizes shown in column 1 of table 1 of this section; 
 
-(B) Add all these products;
+(B) Add all these products; 
 
-(C) Total the percentages of all components of the mixtures; and
+(C) Total the percentages of all components of the mixtures; and 
 
-(D) Divide the sum in paragraph (a)(1)(ii)(B) of this section by the total in paragraph (a)(1)(ii)(C) of this section.
+(D) Divide the sum in paragraph (a)(1)(ii)(B) of this section by the total in paragraph (a)(1)(ii)(C) of this section. 
 
-(2) It is not ordinarily practical to sample and test small lots of seed offered for entry. The maximum sizes of lots of each kind of seed not ordinarily sampled are shown in column 2 of table 1 of this section.
+(2) It is not ordinarily practical to sample and test small lots of seed offered for entry. The maximum sizes of lots of each kind of seed not ordinarily sampled are shown in column 2 of table 1 of this section. 
 
-(3) The maximum sizes of lots of each kind of seed allowed entry without sampling for sowing for experimental or breeding purposes as provided in § 361.4(a)(4) are shown in column 3 of table 1 of this section.
+(3) The maximum sizes of lots of each kind of seed allowed entry without sampling for sowing for experimental or breeding purposes as provided in § 361.4(a)(4) are shown in column 3 of table 1 of this section. 
 
 Table 1
 | Name of seed                             | Working weight for noxious weed examination   (grams)   (1) | Maximum weight of seed lot not ordinarily sampled   (pounds)   (2) | Maximum weight of seed lot permitted entry for experimental or breeding purposes without sampling   (pounds)   (3) |
@@ -324,28 +324,28 @@ Table 1
 | Zoysia Japonica (see Japanese lawngrass) |                                                             |                                                                    |                                                                                                                    |
 | Zoysia matrella (see Manilagrass)        |                                                             |                                                                    |                                                                                                                    |
 
-(b) *Method of sampling.* (1) When an importation consists of more than one lot, each lot shall be sampled separately.
+(b) *Method of sampling.* (1) When an importation consists of more than one lot, each lot shall be sampled separately. 
 
-(2) For lots of six or fewer bags, each bag shall be sampled. A total of at least five trierfuls shall be taken from the lot.
+(2) For lots of six or fewer bags, each bag shall be sampled. A total of at least five trierfuls shall be taken from the lot. 
 
-(3) For lots of more than six bags, five bags plus at least 10 percent of the number of bags in the lot shall be sampled. (Round off numbers with decimals to the nearest whole number, raising 0.5 to the next whole number.) Regardless of the lot size, it is not necessary to sample more than 30 bags.
+(3) For lots of more than six bags, five bags plus at least 10 percent of the number of bags in the lot shall be sampled. (Round off numbers with decimals to the nearest whole number, raising 0.5 to the next whole number.) Regardless of the lot size, it is not necessary to sample more than 30 bags. 
 
-(4) When the lot of seed to be sampled is comprised of seed in small containers that cannot practically be sampled as described in paragraph (b)(2) or (b)(3) of this section, entire unopened containers may be taken in sufficient number to supply a sample that meets the minimum size requirements of paragraph (a)(1) of this section.
+(4) When the lot of seed to be sampled is comprised of seed in small containers that cannot practically be sampled as described in paragraph (b)(2) or (b)(3) of this section, entire unopened containers may be taken in sufficient number to supply a sample that meets the minimum size requirements of paragraph (a)(1) of this section. 
 
-(c) *Drawing samples.* Samples will not be drawn unless each container is labeled to show the lot designation and the name of the kind and variety of each agricultural seed, or kind and variety of each vegetable seed, appearing on the invoice and other entry papers, and a declaration has been filed by the importer as required under § 361.2(a). In order to secure a representative sample, an APHIS inspector will draw equal portions from evenly distributed parts of the quantity of seed to be sampled; the APHIS inspector, therefore, must be given access to all parts of that quantity.
+(c) *Drawing samples.* Samples will not be drawn unless each container is labeled to show the lot designation and the name of the kind and variety of each agricultural seed, or kind and variety of each vegetable seed, appearing on the invoice and other entry papers, and a declaration has been filed by the importer as required under § 361.2(a). In order to secure a representative sample, an APHIS inspector will draw equal portions from evenly distributed parts of the quantity of seed to be sampled; the APHIS inspector, therefore, must be given access to all parts of that quantity. 
 
-(1) For free-flowing seed in bags or in bulk, a probe or trier shall be used. For small free-flowing seed in bags, a probe or trier long enough to sample all portions of the bag shall be used. When drawing more than one trierful of seed from a bag, a different path through the seed shall be used when drawing each sample.
+(1) For free-flowing seed in bags or in bulk, a probe or trier shall be used. For small free-flowing seed in bags, a probe or trier long enough to sample all portions of the bag shall be used. When drawing more than one trierful of seed from a bag, a different path through the seed shall be used when drawing each sample. 
 
-(2) For non-free-flowing seed in bags or bulk that may be difficult to sample with a probe or trier, samples shall be obtained by thrusting one's hand into the seed and withdrawing representative portions. The hand shall be inserted in an open position with the fingers held closely together while the hand is being inserted and the portion withdrawn. When more than one handful is taken from a bag, the handfuls shall be taken from well-separated points.
+(2) For non-free-flowing seed in bags or bulk that may be difficult to sample with a probe or trier, samples shall be obtained by thrusting one's hand into the seed and withdrawing representative portions. The hand shall be inserted in an open position with the fingers held closely together while the hand is being inserted and the portion withdrawn. When more than one handful is taken from a bag, the handfuls shall be taken from well-separated points. 
 
-(3) When more than one sample is drawn from a single lot, the samples may be combined into a composite sample unless it appears that the quantity of seed represented as a lot is not of uniform quality, in which case the separate samples shall be forwarded together, but without being combined into a composite sample.
+(3) When more than one sample is drawn from a single lot, the samples may be combined into a composite sample unless it appears that the quantity of seed represented as a lot is not of uniform quality, in which case the separate samples shall be forwarded together, but without being combined into a composite sample. 
 
-(d) In most cases, samples will be drawn and examined by an APHIS inspector at the port of first arrival. The APHIS inspector may release a shipment if no contaminants are found and the labeling is sufficient. If contaminants are found or the labeling of the seed is insufficient, the APHIS inspector may forward the sample to the USDA Seed Examination Facility (SEF), Beltsville, MD, for analysis, testing, or examination. APHIS will notify the owner or consignee of the seed that samples have been drawn and forwarded to the SEF and that the shipment must be held intact pending a decision by APHIS as to whether the seed is within the noxious weed seed tolerances of § 361.6 and is accurately labeled. If the decision pending is with regard to the noxious weed seed content of the seed and the seed has been determined to be accurately labeled, the seed may be released for delivery to the owner or consignee under the following conditions:
+(d) In most cases, samples will be drawn and examined by an APHIS inspector at the port of first arrival. The APHIS inspector may release a shipment if no contaminants are found and the labeling is sufficient. If contaminants are found or the labeling of the seed is insufficient, the APHIS inspector may forward the sample to the USDA Seed Examination Facility (SEF), Beltsville, MD, for analysis, testing, or examination. APHIS will notify the owner or consignee of the seed that samples have been drawn and forwarded to the SEF and that the shipment must be held intact pending a decision by APHIS as to whether the seed is within the noxious weed seed tolerances of § 361.6 and is accurately labeled. If the decision pending is with regard to the noxious weed seed content of the seed and the seed has been determined to be accurately labeled, the seed may be released for delivery to the owner or consignee under the following conditions: 
 
-(1) The owner or consignee executes with Customs either a Customs single-entry bond or a Customs term bond, as appropriate, in such amount as is prescribed by applicable Customs regulations;
+(1) The owner or consignee executes with Customs either a Customs single-entry bond or a Customs term bond, as appropriate, in such amount as is prescribed by applicable Customs regulations; 
 
-(2) The bond must contain a condition for the redelivery of the seed or any part thereof upon demand of the Port Director of Customs at any time;
+(2) The bond must contain a condition for the redelivery of the seed or any part thereof upon demand of the Port Director of Customs at any time; 
 
-(3) Until the seed is approved for entry upon completion of APHIS' examination, the seed must be kept intact and not tampered with in any way, or removed from the containers except under the monitoring of an APHIS inspector; and
+(3) Until the seed is approved for entry upon completion of APHIS' examination, the seed must be kept intact and not tampered with in any way, or removed from the containers except under the monitoring of an APHIS inspector; and 
 
 (4) The owner or consignee must keep APHIS informed as to the location of the seed until it is finally entered into the commerce of the United States.

@@ -1,6 +1,6 @@
 ##### § 28.165 OMB control numbers assigned pursuant to the Paperwork Reduction Act.
 
-(a) *Purpose.* This section collects and displays the control numbers assigned to information collection requirements of the Office of Management and Budget contained in 7 CFR part 28 under the Paperwork Reduction Act of 1980.
+(a) *Purpose.* This section collects and displays the control numbers assigned to information collection requirements of the Office of Management and Budget contained in 7 CFR part 28 under the Paperwork Reduction Act of 1980. 
 
 (b) *Display.*
 

@@ -1,6 +1,6 @@
 ##### § 51.652 Classification of defects.
 
-All references to area or aggregate area, or length in this standard are based on a grapefruit 4 1/8 inches in diameter, allowing proportionately greater areas on larger fruit and lesser areas on smaller fruit.
+All references to area or aggregate area, or length in this standard are based on a grapefruit 4 1/8 inches in diameter, allowing proportionately greater areas on larger fruit and lesser areas on smaller fruit. 
 
 Table 1 to § 51.652
 | Factor                     | Injury                                                                                                            | Damage                                                                                                                                                                                                             | Serious damage                                                                                                                                                                                                            | Very serious damage                                                                                                                                |

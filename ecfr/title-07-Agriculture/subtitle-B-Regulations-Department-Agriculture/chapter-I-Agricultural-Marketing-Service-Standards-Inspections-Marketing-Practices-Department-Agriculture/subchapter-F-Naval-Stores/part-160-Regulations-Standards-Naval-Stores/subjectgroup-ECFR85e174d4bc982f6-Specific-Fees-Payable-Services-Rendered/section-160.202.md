@@ -1,28 +1,28 @@
 ##### § 160.202 Fees generally for laboratory analysis and testing.
 
-Except as provided in § 160.204, the following fees shall be paid to the United States for laboratory analysis and testing of naval stores, when not performed in the conduct of a cooperative agreement with respect to such products:
+Except as provided in § 160.204, the following fees shall be paid to the United States for laboratory analysis and testing of naval stores, when not performed in the conduct of a cooperative agreement with respect to such products: 
 
-(a) *Rosin and turpentine.* (See Note 3).
+(a) *Rosin and turpentine.* (See Note 3). 
 
-(1) Comprehensive analysis to determine purity, specification compliance, or other chemical and physical properties related thereto:
+(1) Comprehensive analysis to determine purity, specification compliance, or other chemical and physical properties related thereto: 
 
-(i) Single Sample—$40.00.
+(i) Single Sample—$40.00. 
 
-(ii) Two or more samples analyzed at same time per sample—$35.00.
+(ii) Two or more samples analyzed at same time per sample—$35.00. 
 
-(2) Limited testing to determine kind, grade, or other factors related to quality of utility.
+(2) Limited testing to determine kind, grade, or other factors related to quality of utility. 
 
-(i) Single Sample:
+(i) Single Sample: 
 
-(A) Rosin—$14.00.
+(A) Rosin—$14.00. 
 
-(B) Turpentine—$10.00.
+(B) Turpentine—$10.00. 
 
-(ii) Two or more samples tested at same time:
+(ii) Two or more samples tested at same time: 
 
-(A) Rosin—per sample—$10.00.
+(A) Rosin—per sample—$10.00. 
 
-(B) Turpentine—per sample—$8.00.
+(B) Turpentine—per sample—$8.00. 
 
 Note 3:
 

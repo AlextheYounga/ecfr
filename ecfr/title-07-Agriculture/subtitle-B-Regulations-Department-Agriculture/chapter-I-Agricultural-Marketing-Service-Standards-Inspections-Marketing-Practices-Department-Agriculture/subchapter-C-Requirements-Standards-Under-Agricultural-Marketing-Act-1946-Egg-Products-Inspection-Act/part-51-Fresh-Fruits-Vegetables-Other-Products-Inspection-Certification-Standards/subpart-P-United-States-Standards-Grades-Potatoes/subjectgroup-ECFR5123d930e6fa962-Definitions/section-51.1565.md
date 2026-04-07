@@ -1,6 +1,6 @@
 ##### § 51.1565 Internal defects.
 
-*Internal defects* are defects which cannot be detected without cutting the potato. Some internal defects are listed in Table VII.
+*Internal defects* are defects which cannot be detected without cutting the potato. Some internal defects are listed in Table VII. 
 
 Table VII—Internal Defects
 | Defects                                                                                                                    | Damage Maximum Allowed                                                                                                             | Serious Damage Maximum Allowed                                                                                                     |

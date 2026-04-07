@@ -1,6 +1,6 @@
 ##### § 95.3189 OBU technical standard.
 
-Link to an amendment published at 89 FR 100855, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100855, Dec. 13, 2024.Link to a correction published at 90 FR 5724, Jan. 17, 2025.
 
 (a) DSRCS On-Board Unit (OBU) transmitter types operating in the 5895-5925 MHz band must be designed to comply with the technical standard Institute of Electrical and Electronics Engineers (IEEE) 802.11p-2010. 
 

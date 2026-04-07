@@ -1,6 +1,6 @@
 ##### § 51.2544 Tolerances.
 
-(a) In order to allow for variations incident to proper grading and handling, the tolerances in Tables I, II, and III of this section are provided.
+(a) In order to allow for variations incident to proper grading and handling, the tolerances in Tables I, II, and III of this section are provided. 
 
 Table I—Tolerances
 
@@ -37,6 +37,6 @@ Table III—Tolerances
 | (c) Particles and dust                                                    | .25        | .25              | .25        | .25         | .25                      | .25            |
 | (d) Loose kernels                                                         | 4          | 5                | 6          | 6           | 6                        | 6              |
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
 \[68 FR 50683, Aug. 22, 2003, as amended at 69 FR 76835, Dec. 23, 2004\]

@@ -1,22 +1,22 @@
 ##### § 3400.15 Review criteria.
 
-(a) Subject to the varying conditions and needs of States, Federal funded agricultural research supported under these provisions shall be designed to, among other things, accomplish one or more of the following purposes:
+(a) Subject to the varying conditions and needs of States, Federal funded agricultural research supported under these provisions shall be designed to, among other things, accomplish one or more of the following purposes: 
 
-(1) Continue to satisfy human food and fiber needs;
+(1) Continue to satisfy human food and fiber needs; 
 
-(2) Enhance the long-term viability and competitiveness of the food production and agricultural system of the United States within the global economy;
+(2) Enhance the long-term viability and competitiveness of the food production and agricultural system of the United States within the global economy; 
 
-(3) Expand economic opportunities in rural America and enhance the quality of life for farmers, rural citizens, and society as a whole;
+(3) Expand economic opportunities in rural America and enhance the quality of life for farmers, rural citizens, and society as a whole; 
 
-(4) Improve the productivity of the American agricultural system and develop new agricultural crops and new uses for agricultural commodities;
+(4) Improve the productivity of the American agricultural system and develop new agricultural crops and new uses for agricultural commodities; 
 
-(5) Develop information and systems to enhance the environment and the natural resource base upon which a sustainable agricultural economy depends; or
+(5) Develop information and systems to enhance the environment and the natural resource base upon which a sustainable agricultural economy depends; or 
 
-(6) Enhance human health.
+(6) Enhance human health. 
 
 In carrying out its review under § 3400.14, the peer review group will use the following form upon which the evaluation criteria to be used are enumerated, unless pursuant to § 3400.5(a), different evaluation criteria are specified in the annual solicitation of proposals for a particular program. Peer Panel Scoring Form Proposal Identification No. Institution and Project Title I. Basic Requirement:
 
-Proposal falls within guidelines? \_\_\_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_\_\_ No. If no, explain why proposal does not meet guidelines under comment section of this form.
+Proposal falls within guidelines? \_\_\_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_\_\_ No. If no, explain why proposal does not meet guidelines under comment section of this form. 
 
 II. Selection Criteria:
 

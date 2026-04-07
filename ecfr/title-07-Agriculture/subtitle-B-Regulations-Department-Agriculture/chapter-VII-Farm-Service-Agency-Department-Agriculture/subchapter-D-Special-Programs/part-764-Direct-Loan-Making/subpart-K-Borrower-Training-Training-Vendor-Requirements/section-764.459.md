@@ -1,8 +1,8 @@
 ##### § 764.459 Evaluation of borrower progress.
 
-(a) The vendor must provide the Agency with a periodic progress report for each borrower enrolled in training in accordance with the agreement to complete training. The reports will indicate whether the borrower is attending sessions, completing the training program, and demonstrating an understanding of the course material.
+(a) The vendor must provide the Agency with a periodic progress report for each borrower enrolled in training in accordance with the agreement to complete training. The reports will indicate whether the borrower is attending sessions, completing the training program, and demonstrating an understanding of the course material. 
 
-(b) Upon borrower completion of the training, the vendor must provide the Agency with an evaluation of the borrower's knowledge of the course material and assign a score. The following table lists the possible scores, the criteria used to assign each score, and Agency consideration of each score:
+(b) Upon borrower completion of the training, the vendor must provide the Agency with an evaluation of the borrower's knowledge of the course material and assign a score. The following table lists the possible scores, the criteria used to assign each score, and Agency consideration of each score: 
 
 | Score | Criteria used to determine score                                                                                                                    | Agency consideration                                                                                                                             |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -1,12 +1,12 @@
 ##### § 801.8 Tolerances for sieves.
 
-The maintenance tolerances for sieves used in performing official inspection services shall be:
+The maintenance tolerances for sieves used in performing official inspection services shall be: 
 
-(a) Thickness of metal: ±0.0015 inch.
+(a) Thickness of metal: ±0.0015 inch. 
 
-(b) Accuracy of perforation: ±0.001 inch from design specification.
+(b) Accuracy of perforation: ±0.001 inch from design specification. 
 
-(c) Sieving accuracy:
+(c) Sieving accuracy: 
 
 | Sieve description        | Tolerance                                                     |
 | ------------------------ | ------------------------------------------------------------- |

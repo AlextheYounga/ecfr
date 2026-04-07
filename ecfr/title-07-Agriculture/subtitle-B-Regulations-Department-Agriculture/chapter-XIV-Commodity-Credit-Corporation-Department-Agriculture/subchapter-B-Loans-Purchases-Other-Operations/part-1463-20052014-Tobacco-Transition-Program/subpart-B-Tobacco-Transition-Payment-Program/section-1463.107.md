@@ -1,6 +1,6 @@
 ##### § 1463.107 Payment to eligible quota holders.
 
-(a) The total amount of contract payments that may be made to an eligible quota holder shall be the product obtained by multiplying:
+(a) The total amount of contract payments that may be made to an eligible quota holder shall be the product obtained by multiplying: 
 
 $7.00 per pound × the BQL for the quota holder as determined under § 1463.105 for each kind of tobacco
 

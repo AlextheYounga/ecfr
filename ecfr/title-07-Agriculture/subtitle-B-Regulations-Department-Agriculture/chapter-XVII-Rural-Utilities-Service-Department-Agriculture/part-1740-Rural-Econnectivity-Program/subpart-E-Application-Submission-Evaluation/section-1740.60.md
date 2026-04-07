@@ -1,71 +1,71 @@
 ##### § 1740.60 Elements of a complete application.
 
-(a) *Online application system.* All applications under this regulation must be submitted through the RUS Online Application System located on the Agency's web page. Additional information can be found in the Application Guide found on the Agency's web page.
+(a) *Online application system.* All applications under this regulation must be submitted through the RUS Online Application System located on the Agency's web page. Additional information can be found in the Application Guide found on the Agency's web page. 
 
-(b) *System for Award Management (SAM*). Prior to submitting an application, the applicant must register in SAM and also obtain a unique entity identifier (UEI) as part of the registration process. Applicants can register and obtain the UEI at *https://www.sam.gov/content/home.* SAM registration must be active with current data at all times, from the application review throughout the active Federal award funding period. To maintain active SAM registration, the applicant must review and update the information in the SAM database annually from the date of initial registration or from the date of the last update or renewal. The applicant must ensure that the information in the database is current, accurate, and complete. The UEI of the applicant must be included in the application.
+(b) *System for Award Management (SAM*). Prior to submitting an application, the applicant must register in SAM and also obtain a unique entity identifier (UEI) as part of the registration process. Applicants can register and obtain the UEI at *https://www.sam.gov/content/home.* SAM registration must be active with current data at all times, from the application review throughout the active Federal award funding period. To maintain active SAM registration, the applicant must review and update the information in the SAM database annually from the date of initial registration or from the date of the last update or renewal. The applicant must ensure that the information in the database is current, accurate, and complete. The UEI of the applicant must be included in the application. 
 
-(c) *Contents of the application.* A complete application will include the following information as requested in the RUS Online Application System and application guide:
+(c) *Contents of the application.* A complete application will include the following information as requested in the RUS Online Application System and application guide: 
 
-(1) General information on the applicant and the project including:
+(1) General information on the applicant and the project including: 
 
-(i) A description of the project, that will be made public, consistent with the requirements herein; and
+(i) A description of the project, that will be made public, consistent with the requirements herein; and 
 
-(ii) The estimated dollar amount of the funding request.
+(ii) The estimated dollar amount of the funding request. 
 
-(2) An executive summary that includes, but is not be limited to, a detailed description of existing operations, discussion about key management, description of the workforce, description of interactions between any parent, affiliated or subsidiary operation, a detailed description of the proposed project, and the source of the matching and other funds;
+(2) An executive summary that includes, but is not be limited to, a detailed description of existing operations, discussion about key management, description of the workforce, description of interactions between any parent, affiliated or subsidiary operation, a detailed description of the proposed project, and the source of the matching and other funds; 
 
-(3) A description of the PFSA including the number of premises passed;
+(3) A description of the PFSA including the number of premises passed; 
 
-(4) Subscriber projections including the number of subscribers for broadband, video and voice services and any other service that may be offered. A description of the proposed service offerings and the associated pricing plan that the applicant proposes to offer;
+(4) Subscriber projections including the number of subscribers for broadband, video and voice services and any other service that may be offered. A description of the proposed service offerings and the associated pricing plan that the applicant proposes to offer; 
 
-(5) A map, utilizing the RUS mapping tool located on the Agency's web page, of the PFSAs identifying the areas without sufficient access to broadband and any NFSA of the applicant. If an applicant has multiple NFSAs, they can elect to submit each NFSA individually or they can submit them as a single file through the mapping tool;
+(5) A map, utilizing the RUS mapping tool located on the Agency's web page, of the PFSAs identifying the areas without sufficient access to broadband and any NFSA of the applicant. If an applicant has multiple NFSAs, they can elect to submit each NFSA individually or they can submit them as a single file through the mapping tool; 
 
-(6) A description of the advertised prices of service offerings by competitors in the same area;
+(6) A description of the advertised prices of service offerings by competitors in the same area; 
 
-(7) A network design and all supporting information as detailed in § 1740.64.
+(7) A network design and all supporting information as detailed in § 1740.64. 
 
-(8) Resumes of key management personnel, a description of the organization's readiness to manage a broadband services network, and an organizational chart showing all parent organizations and/or holding companies (including parents of parents, etc.), and all subsidiaries and affiliates;
+(8) Resumes of key management personnel, a description of the organization's readiness to manage a broadband services network, and an organizational chart showing all parent organizations and/or holding companies (including parents of parents, etc.), and all subsidiaries and affiliates; 
 
-(9) A legal opinion that:
+(9) A legal opinion that: 
 
-(i) Addresses the applicant's ability to enter into the award documents;
+(i) Addresses the applicant's ability to enter into the award documents; 
 
-(ii) Describes all material pending litigation matters;
+(ii) Describes all material pending litigation matters; 
 
-(iii) Addresses the applicant's ability to pledge security as required by the award documents; and
+(iii) Addresses the applicant's ability to pledge security as required by the award documents; and 
 
-(iv) Addresses the applicant's ability to provide broadband service under state or tribal law.
+(iv) Addresses the applicant's ability to provide broadband service under state or tribal law. 
 
-(10) Summary and itemized budgets of the infrastructure costs of the proposed project, including if applicable, the ratio of loans to grants, and any other sources of outside funding. The summary must also detail the amount of matching and other funds and the source of these funds. If the matching and other funds are coming from a third party, a commitment letter and support that the funds are available must also be submitted. Matching and other funds must be deposited into the RUS Pledged Deposit Account at the closing of the award;
+(10) Summary and itemized budgets of the infrastructure costs of the proposed project, including if applicable, the ratio of loans to grants, and any other sources of outside funding. The summary must also detail the amount of matching and other funds and the source of these funds. If the matching and other funds are coming from a third party, a commitment letter and support that the funds are available must also be submitted. Matching and other funds must be deposited into the RUS Pledged Deposit Account at the closing of the award; 
 
-(11) A detailed description of working capital requirements and the sources of those funds;
+(11) A detailed description of working capital requirements and the sources of those funds; 
 
-(12) Unqualified, audited financial statements from the date the application is submitted as detailed in § 1740.63;
+(12) Unqualified, audited financial statements from the date the application is submitted as detailed in § 1740.63; 
 
-(13) The historical and projected financial information required in § 1740.63;
+(13) The historical and projected financial information required in § 1740.63; 
 
-(14) All information and attachments required in the RUS Online application system;
+(14) All information and attachments required in the RUS Online application system; 
 
-(15) A scoring sheet, analyzing any scoring criteria set forth in the funding announcement opening the application window;
+(15) A scoring sheet, analyzing any scoring criteria set forth in the funding announcement opening the application window; 
 
-(16) A list of all the applicant's outstanding and contingent obligations as required in § 1740.63;
+(16) A list of all the applicant's outstanding and contingent obligations as required in § 1740.63; 
 
-(17) All environmental information as required by § 1740.27;
+(17) All environmental information as required by § 1740.27; 
 
-(18) Certification from the applicant that agreements with, or obligations to, investors do not breach the obligations to the government under the standard Award Documents located on the Agency's web page, especially distribution requirements, and that any such agreements will be amended so that such obligations are made contingent to compliance with the Award Documents. Such certification should also specifically identify which, if any, provisions would need to be amended;
+(18) Certification from the applicant that agreements with, or obligations to, investors do not breach the obligations to the government under the standard Award Documents located on the Agency's web page, especially distribution requirements, and that any such agreements will be amended so that such obligations are made contingent to compliance with the Award Documents. Such certification should also specifically identify which, if any, provisions would need to be amended; 
 
-(19) If service is being proposed on or over Tribal Land, a Tribal Government Resolution of Consent from the Tribal Council of the Tribal Government with jurisdiction over the Tribal Lands at issue must be provided to show that they are in support of the project and will allow construction to take place on Tribal Land. The certification must:
+(19) If service is being proposed on or over Tribal Land, a Tribal Government Resolution of Consent from the Tribal Council of the Tribal Government with jurisdiction over the Tribal Lands at issue must be provided to show that they are in support of the project and will allow construction to take place on Tribal Land. The certification must: 
 
-(i) Include a description of the land proposed for use as part of the proposed project;
+(i) Include a description of the land proposed for use as part of the proposed project; 
 
-(ii) Identify whether the land is owned, held in Trust, land held in fee simple by the Tribe, or land under a long-term lease by the Tribe;
+(ii) Identify whether the land is owned, held in Trust, land held in fee simple by the Tribe, or land under a long-term lease by the Tribe; 
 
-(iii) If owned, identify the landowner; and
+(iii) If owned, identify the landowner; and 
 
-(iv) Provide a commitment in writing from the landowner authorizing the applicant's use of that land for the proposed project; and
+(iv) Provide a commitment in writing from the landowner authorizing the applicant's use of that land for the proposed project; and 
 
-(20) Additional items that may be required by the Administrator through a notice in the Federal Register.
+(20) Additional items that may be required by the Administrator through a notice in the Federal Register. 
 
-(d) *Material representations.* The application, including certifications, and all forms submitted as part of the application will be treated as material representations upon which RUS will rely in awarding grants and loans.
+(d) *Material representations.* The application, including certifications, and all forms submitted as part of the application will be treated as material representations upon which RUS will rely in awarding grants and loans. 
 
 \[86 FR 11609, Feb. 26, 2021, as amended at 88 FR 5726, Jan. 30, 2023\]

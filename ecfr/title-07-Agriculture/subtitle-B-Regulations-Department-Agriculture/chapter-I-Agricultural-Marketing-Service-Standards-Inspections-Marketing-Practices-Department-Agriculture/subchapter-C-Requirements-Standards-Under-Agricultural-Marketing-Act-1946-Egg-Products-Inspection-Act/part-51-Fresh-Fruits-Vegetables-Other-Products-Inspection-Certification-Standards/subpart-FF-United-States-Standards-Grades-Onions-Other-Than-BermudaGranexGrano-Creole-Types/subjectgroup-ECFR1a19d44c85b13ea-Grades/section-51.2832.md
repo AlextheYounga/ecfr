@@ -1,69 +1,69 @@
 ##### § 51.2832 U.S. Commercial.
 
-*U.S. Commercial* consists of onions which meet the following requirements:
+*U.S. Commercial* consists of onions which meet the following requirements: 
 
-(a) Basic requirements:
+(a) Basic requirements: 
 
-(1) Similar varietal characteristics, except color when designated as a specialty or mixed pack;
+(1) Similar varietal characteristics, except color when designated as a specialty or mixed pack; 
 
-(2) Mature;
+(2) Mature; 
 
-(3) Not soft or spongy; and,
+(3) Not soft or spongy; and, 
 
-(4) Not badly misshapen.
+(4) Not badly misshapen. 
 
-(b) Free from:
+(b) Free from: 
 
-(1) Decay;
+(1) Decay; 
 
-(2) Wet sunscald;
+(2) Wet sunscald; 
 
-(3) Doubles;
+(3) Doubles; 
 
-(4) Bottlenecks; and,
+(4) Bottlenecks; and, 
 
-(5) Scallions.
+(5) Scallions. 
 
-(c) Free from damage caused by:
+(c) Free from damage caused by: 
 
-(1) Seedstems;
+(1) Seedstems; 
 
-(2) Tops;
+(2) Tops; 
 
-(3) Roots;
+(3) Roots; 
 
-(4) Dry sunken areas;
+(4) Dry sunken areas; 
 
-(5) Sunburn;
+(5) Sunburn; 
 
-(6) Sprouts;
+(6) Sprouts; 
 
-(7) Freezing;
+(7) Freezing; 
 
-(8) Cracked fleshy scales;
+(8) Cracked fleshy scales; 
 
-(9) Watery scales;
+(9) Watery scales; 
 
-(10) Mechanical;
+(10) Mechanical; 
 
-(11) Translucent scales;
+(11) Translucent scales; 
 
-(12) Disease;
+(12) Disease; 
 
-(13) Insects; and,
+(13) Insects; and, 
 
-(14) Other means.
+(14) Other means. 
 
-(d) Free from serious damage caused by:
+(d) Free from serious damage caused by: 
 
-(1) Staining;
+(1) Staining; 
 
-(2) Dirt; and,
+(2) Dirt; and, 
 
-(3) Other foreign matter.
+(3) Other foreign matter. 
 
-(e) For tolerances see § 51.2837.
+(e) For tolerances see § 51.2837. 
 
-(f) Size. Unless otherwise specified, the diameter shall be not less than 1 1/2 inches. (See §§ 51.2836 and 51.2837.)
+(f) Size. Unless otherwise specified, the diameter shall be not less than 1 1/2 inches. (See §§ 51.2836 and 51.2837.) 
 
 \[60 FR 46977, Sept. 8, 1995, as amended at 79 FR 63294, Oct. 23, 2014\]

@@ -4,10 +4,10 @@
 
 The NIST Handbook is for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20403. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-The following Handbook 44 requirements are not incorporated by reference:
+The following Handbook 44 requirements are not incorporated by reference: 
 
 *General Code (1.10.)*G-S.5.5. Money Values, Mathematical Agreement G-T.1. Acceptance Tolerances G-UR.3.3. Position of Equipment G-UR.3.4. Responsibility, Money-Operated Devices *Grain Moisture Meters (5.56.)*N.1.1. Transfer Standards N.1.2. Minimum Test N.1.3. Temperature Measuring Equipment T.2. Tolerance Values T.3. For Test Weight Per Bushel Indications or Recorded Representations UR.3.2. Other Devices not used for Commercial Measurement UR.3.7. Location UR.3.11. Posting of Meter Operating Range
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
 \[57 FR 2673, Jan. 23, 1992, as amended at 69 FR 18803, Apr. 9, 2004\]

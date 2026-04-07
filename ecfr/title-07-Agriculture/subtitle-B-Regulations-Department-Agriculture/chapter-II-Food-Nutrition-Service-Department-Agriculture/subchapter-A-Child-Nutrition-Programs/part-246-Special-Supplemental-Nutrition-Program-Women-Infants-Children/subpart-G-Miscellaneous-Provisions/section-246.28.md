@@ -1,6 +1,6 @@
 ##### § 246.28 OMB control numbers.
 
-The following control numbers have been assigned to the information collection requirements in 7 CFR part 246 by the Office of Management and Budget pursuant to the Paperwork Reduction Act of 1980, Pub. L. 96-511.
+The following control numbers have been assigned to the information collection requirements in 7 CFR part 246 by the Office of Management and Budget pursuant to the Paperwork Reduction Act of 1980, Pub. L. 96-511. 
 
 | 7 CFR part 246 section where requirements are described | Current OMB control no. |
 | ------------------------------------------------------- | ----------------------- |

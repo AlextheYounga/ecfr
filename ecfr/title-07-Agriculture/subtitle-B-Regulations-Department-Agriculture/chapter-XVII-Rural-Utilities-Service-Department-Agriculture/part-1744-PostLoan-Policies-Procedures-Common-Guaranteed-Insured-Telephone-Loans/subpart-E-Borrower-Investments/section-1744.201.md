@@ -1,30 +1,30 @@
 ##### § 1744.201 Definitions.
 
-As used in this subpart:
+As used in this subpart: 
 
-*Administrator* means the Administrator of the Rural Utilities Service (RUS).
+*Administrator* means the Administrator of the Rural Utilities Service (RUS). 
 
-*Advance* means any funds provided of which repayment is expected.
+*Advance* means any funds provided of which repayment is expected. 
 
-*Affiliated company* means any organization that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the borrower.
+*Affiliated company* means any organization that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the borrower. 
 
-*Borrower* means any organization which has an outstanding loan made by RUS or guaranteed by RUS, or which is seeking such financing.
+*Borrower* means any organization which has an outstanding loan made by RUS or guaranteed by RUS, or which is seeking such financing. 
 
-*Extension of credit* means to make loans or advances.
+*Extension of credit* means to make loans or advances. 
 
-*Guarantee* means to undertake collaterally to answer for the payment of another's debt or the performance of another's duty, liability, or obligation, including, without limitation, the obligations of affiliated companies. Some examples of such guarantees would include:
+*Guarantee* means to undertake collaterally to answer for the payment of another's debt or the performance of another's duty, liability, or obligation, including, without limitation, the obligations of affiliated companies. Some examples of such guarantees would include: 
 
-(1) Guarantees of payment or collection on a note or other debt instrument;
+(1) Guarantees of payment or collection on a note or other debt instrument; 
 
-(2) Issuing performance bonds or completion bonds; or
+(2) Issuing performance bonds or completion bonds; or 
 
-(3) Cosigning leases or other obligations of third parties.
+(3) Cosigning leases or other obligations of third parties. 
 
-*Maximum investment ratio* means that the aggregate of all qualified investments by the borrower including the proposed qualified investment shall not be more than one-third of the net worth of the borrower.
+*Maximum investment ratio* means that the aggregate of all qualified investments by the borrower including the proposed qualified investment shall not be more than one-third of the net worth of the borrower. 
 
-*Minimum total assets ratio* means the borrower's net worth is at least twenty percent of its total assets including the proposed qualified investment.
+*Minimum total assets ratio* means the borrower's net worth is at least twenty percent of its total assets including the proposed qualified investment. 
 
-*Net plant* means the sum of the balances of the following accounts of the borrower:
+*Net plant* means the sum of the balances of the following accounts of the borrower: 
 
 | Account Names                                                                                       | Number             |
 | --------------------------------------------------------------------------------------------------- | ------------------ |
@@ -39,7 +39,7 @@ As used in this subpart:
 | (9) Less accumulated amortization                                                                   | 3400 through 3600s |
 | **Note:** All references to account numbers are to the Uniform System of Accounts (47 CFR part 32). |                    |
 
-*Net worth* means the sum of the balances of the following accounts of the borrower:
+*Net worth* means the sum of the balances of the following accounts of the borrower: 
 
 | Account Names                                                                                                                                                                                    | Number |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
@@ -50,19 +50,19 @@ As used in this subpart:
 | (5) Retained earnings                                                                                                                                                                            | 4550   |
 | **Note:** For nonprofit organizations, owners' equity is shown in subaccounts of 4540 and 4550. All references regarding account numbers are to the Uniform System of Accounts (47 CFR part 32). |        |
 
-*Qualified investment* is defined in § 1744.202(b).
+*Qualified investment* is defined in § 1744.202(b). 
 
-*RE Act* means the Rural Electrification Act of 1936, as amended (7 U.S.C. 901 *et seq.*).
+*RE Act* means the Rural Electrification Act of 1936, as amended (7 U.S.C. 901 *et seq.*). 
 
-*REA* means the Rural Electrification Administration formerly an agency of the United States Department of Agriculture and predecessor agency to RUS with respect to administering certain electric and telephone loan programs.
+*REA* means the Rural Electrification Administration formerly an agency of the United States Department of Agriculture and predecessor agency to RUS with respect to administering certain electric and telephone loan programs. 
 
-*Rural development investment* is defined in § 1744.202(d).
+*Rural development investment* is defined in § 1744.202(d). 
 
-*RUS* means the Rural Utilities Service, an agency of the United States Department of Agriculture established pursuant to Section 232 of the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994 (Pub. L. 103-354, 108 Stat. 3178), successor to REA with respect to administering certain electric and telephone programs. See 7 CFR 1700.1.
+*RUS* means the Rural Utilities Service, an agency of the United States Department of Agriculture established pursuant to Section 232 of the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994 (Pub. L. 103-354, 108 Stat. 3178), successor to REA with respect to administering certain electric and telephone programs. See 7 CFR 1700.1. 
 
-*RUS mortgage* means the instrument creating a lien on or security interest in the borrower's assets in connection with a loan made or guaranteed under the RE Act.
+*RUS mortgage* means the instrument creating a lien on or security interest in the borrower's assets in connection with a loan made or guaranteed under the RE Act. 
 
-*Total assets* means the sum of the balances of the following accounts of the borrower:
+*Total assets* means the sum of the balances of the following accounts of the borrower: 
 
 | Account Names                                                                                              | Number              |
 | ---------------------------------------------------------------------------------------------------------- | ------------------- |
@@ -73,6 +73,6 @@ As used in this subpart:
 | (5) Less accumulated amortization                                                                          | 3400 through 3600s  |
 | **Note:** All references regarding account numbers are to the Uniform System of Accounts (47 CFR part 32). |                     |
 
-*Uniform System of Accounts* means the Federal Communications Commission Uniform System of Accounts for Telecommunications Companies (47 CFR part 32) as supplemented by 7 CFR Part 1770, Accounting Requirements for RUS Telephone Borrowers.
+*Uniform System of Accounts* means the Federal Communications Commission Uniform System of Accounts for Telecommunications Companies (47 CFR part 32) as supplemented by 7 CFR Part 1770, Accounting Requirements for RUS Telephone Borrowers. 
 
 \[58 FR 52642, Oct. 12, 1993, as amended at 59 FR 66440, Dec. 27, 1994; 84 FR 59923, Nov. 7, 2019\]

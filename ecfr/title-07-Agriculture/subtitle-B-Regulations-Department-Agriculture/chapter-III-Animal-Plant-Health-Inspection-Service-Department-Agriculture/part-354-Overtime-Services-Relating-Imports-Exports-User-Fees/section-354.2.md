@@ -1,6 +1,6 @@
 ##### § 354.2 Administrative instructions prescribing commuted traveltime.
 
-Each period of overtime and holiday duty, as defined in § 354.1 shall, in addition, include a commuted traveltime period for the respective ports, stations, and areas in which employees are located. The prescribed commuted traveltime periods are set forth below:
+Each period of overtime and holiday duty, as defined in § 354.1 shall, in addition, include a commuted traveltime period for the respective ports, stations, and areas in which employees are located. The prescribed commuted traveltime periods are set forth below: 
 
 Commuted Traveltime Allowances
 

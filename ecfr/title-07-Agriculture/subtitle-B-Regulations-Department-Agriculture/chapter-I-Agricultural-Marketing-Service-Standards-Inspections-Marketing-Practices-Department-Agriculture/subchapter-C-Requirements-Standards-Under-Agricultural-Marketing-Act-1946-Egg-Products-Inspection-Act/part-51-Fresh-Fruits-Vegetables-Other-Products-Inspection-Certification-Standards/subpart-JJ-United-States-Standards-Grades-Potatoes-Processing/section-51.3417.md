@@ -1,22 +1,22 @@
 ##### § 51.3417 Optional test for specific gravity.
 
-Tests to determine specific gravity shall be made in accordance with the procedures set forth in this section.
+Tests to determine specific gravity shall be made in accordance with the procedures set forth in this section. 
 
-(a) The potatoes used for such determinations shall be:
+(a) The potatoes used for such determinations shall be: 
 
-(1) Taken at random from a composite sample drawn from containers representative of the lot.
+(1) Taken at random from a composite sample drawn from containers representative of the lot. 
 
-(2) A comparable sample from a bulk load or storage bin.
+(2) A comparable sample from a bulk load or storage bin. 
 
-(3) From a portion of the divided sample initially drawn or submitted for determination of grade or contract compliance.
+(3) From a portion of the divided sample initially drawn or submitted for determination of grade or contract compliance. 
 
-(4) Representative of the lot with respect to size and quality.
+(4) Representative of the lot with respect to size and quality. 
 
 The specific gravity for any lot of potatoes shall be the average of at least 3 corrected readings on separate tests from the composite sample. Specific gravity may also be determined, if requested, in accordance with size classifications or weighted value in proportion to size and/or grade separations in the lot.
 
-(b) Specific gravity shall be determined by either;
+(b) Specific gravity shall be determined by either; 
 
-(1) Calculation from the weights of the sample in air and in water made with USDA approved equipment. The reading obtained from each test shall be corrected for temperature variations using Table I.
+(1) Calculation from the weights of the sample in air and in water made with USDA approved equipment. The reading obtained from each test shall be corrected for temperature variations using Table I. 
 
 (2) A hydrometer specifically designed for determining the specific gravity of potatoes. 3
 
