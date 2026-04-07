@@ -1,5 +1,7 @@
 ##### § 90.213 Frequency stability.
 
+Link to an amendment published at 89 FR 100852, Dec. 13, 2024.
+
 (a) Unless noted elsewhere, transmitters used in the services governed by this part must have a minimum frequency stability as specified in the following table. 
 
 Table 1 to § 90.213(a)—Minimum Frequency Stability
