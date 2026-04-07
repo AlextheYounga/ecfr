@@ -1,6 +1,6 @@
 ##### § 41.0 Definitions.
 
-For purposes of this part and part 53:
+For purposes of this part and part 53:*Adjacent islands*
 
 *Adjacent islands* means Bermuda and the islands located in the Caribbean Sea, except Cuba.
 

@@ -1,6 +1,6 @@
 ##### § 41.62 Exchange visitors.
 
-(a) *J-1 classification.* An alien is classifiable as an exchange visitor if qualified under the provisions of INA 101(a) (15) (J) and the consular officer is satisfied that the alien:
+(a) *J-1 classification.* An alien is classifiable as an exchange visitor if qualified under the provisions of INA 101(a) (15) (J) and the consular officer is satisfied that the alien:Federal Register,
 
 (1) Has been accepted to participate, and intends to participate, in an exchange visitor program designated by the Bureau of Education and Cultural Affairs, Department of State, as evidenced by the presentation of a properly executed Form DS-2019, Certificate of Eligibility for Exchange Visitor (J-1) Status;
 

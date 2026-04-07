@@ -1,6 +1,6 @@
 ##### § 41.3 Waiver by joint action of consular and immigration officers of passport and/or visa requirements.
 
-Under the authority of INA 212(d)(4), the documentary requirements of INA 212(a)(7)(B)(i)(I), (i)(II) may be waived for any alien in whose case the consular officer serving the port or place of embarkation, or the Deputy Assistant Secretary of State for Visa Services or his or her designee, is satisfied after consultation with, and concurrence by, the appropriate immigration officer, that the case falls within any of the following categories:
+Under the authority of INA 212(d)(4), the documentary requirements of INA 212(a)(7)(B)(i)(I), (i)(II) may be waived for any alien in whose case the consular officer serving the port or place of embarkation, or the Deputy Assistant Secretary of State for Visa Services or his or her designee, is satisfied after consultation with, and concurrence by, the appropriate immigration officer, that the case falls within any of the following categories:*Residents of foreign contiguous territory; visa and passport waiver.*
 
 (a) *Residents of foreign contiguous territory; visa and passport waiver.* An alien residing in foreign contiguous territory who does not qualify for any waiver provided in § 41.1 and is a member of a visiting group or excursion proceeding to the United States under circumstances which make it impractical to procure a passport and visa in a timely manner.
 

@@ -1,6 +1,6 @@
 ##### § 41.1 Exemption by law or treaty from passport and visa requirements.
 
-Nonimmigrants in the following categories are exempt from the passport and visa requirements of INA 212(a)(7)(B)(i)(I), (i)(II):
+Nonimmigrants in the following categories are exempt from the passport and visa requirements of INA 212(a)(7)(B)(i)(I), (i)(II):*Alien members of the U.S. Armed Forces.*
 
 (a) *Alien members of the U.S. Armed Forces.* An alien member of the U.S. Armed Forces in uniform or bearing proper military identification, who has not been lawfully admitted for permanent residence, coming to the United States under official orders or permit of such Armed Forces (Sec. 284, 86 Stat. 232; 8 U.S.C. 1354).
 
