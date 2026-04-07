@@ -2,7 +2,7 @@
 
 Q-1: Are payments to reacquire stock held by an ESOP applicable dividends that are deductible under section 404(k)(1)?
 
-A-1: (a) Payments to reacquire stock held by an ESOP, including reacquisition payments that are used to make benefit distributions to participants or beneficiaries, are not deductible under section 404(k) because -
+A-1: (a) Payments to reacquire stock held by an ESOP, including reacquisition payments that are used to make benefit distributions to participants or beneficiaries, are not deductible under section 404(k) because—
 
 (1) Those payments do not constitute applicable dividends under section 404(k)(2); and
 

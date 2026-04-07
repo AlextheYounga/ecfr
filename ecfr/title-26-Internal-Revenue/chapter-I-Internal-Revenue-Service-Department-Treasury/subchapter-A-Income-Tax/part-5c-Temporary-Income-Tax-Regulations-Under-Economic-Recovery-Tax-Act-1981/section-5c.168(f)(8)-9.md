@@ -1,1 +1,0 @@
-##### § 5c.168(f)(8)-9 Pass-through leases - transfer of only the investment tax credit to a party other than the ultimate user of the property. \[Reserved\]
