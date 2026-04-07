@@ -8,4 +8,4 @@
 
 (3) For rights-of-way, 30 years.
 
-(b) A lease or business agreement a tribe enters into, or a right-of-way a tribe grants may be renewed at the discretion of the tribe as long as the TERA remains in effect and the approved activities have not been rescinded by the tribe or suspended or reassumed by the Department.
+(b) A lease or business agreement a Tribe enters into, or a right-of-way a Tribe grants may be renewed at the discretion of the Tribe as long as the TERA remains in effect and the approved activities have not been rescinded by the Tribe or suspended or reassumed by the Department.
