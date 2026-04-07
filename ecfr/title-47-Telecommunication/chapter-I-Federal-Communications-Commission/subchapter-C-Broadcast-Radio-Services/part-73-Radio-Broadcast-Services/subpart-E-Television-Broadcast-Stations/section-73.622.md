@@ -608,7 +608,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Montana              |                                                     |
 | Billings             | 11, \*16, 18, 20                                    |
 | Bozeman              | \* 8, 27                                            |
-| Butte                | 5, 19, 20, 24                                       |
+| Butte                | 15, 19, 20, 24                                      |
 | Glendive             | 5                                                   |
 | Great Falls          | 7, 8, 17, \*21, 26                                  |
 | Hardin               | 22                                                  |
@@ -628,6 +628,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Lincoln              | 8, 10, \*12, 15                                     |
 | McCook               | 12                                                  |
 | Merriman             | \*12                                                |
+| Missoula             | \*11, 20, 23, 25                                    |
 | Norfolk              | \*19                                                |
 | North Platte         | 2, \*9                                              |
 | Omaha                | \*17, 20, 22, 26, 29, 31                            |
