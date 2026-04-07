@@ -1,7 +1,5 @@
 ##### § 1308.11 Schedule I.
 
-Link to an amendment published at 87 FR 75473, Dec. 9, 2022.
-
 (a) Schedule I shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
 
 (b) *Opiates.* Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers and salts is possible within the specific chemical designation (for purposes of 3-methylthiofentanyl only, the term isomer includes the optical and geometric isomers):
@@ -693,15 +691,19 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 1237 
 
-(9) (±)cis-4-methylaminorex ((±)cis-4,5-dihydro-4-methyl-5-phenyl-2-oxazolamine)
+(9) Methiopropamine (N-methyl-1-(thiophen-2-yl)propan-2-amine)
+
+1478 
+
+(10) (±)cis-4-methylaminorex ((±)cis-4,5-dihydro-4-methyl-5-phenyl-2-oxazolamine)
 
 1590 
 
-(10) N-ethylamphetamine
+(11) N-ethylamphetamine
 
 1475 
 
-(11) N,N-dimethylamphetamine (also known as N,N-alpha-trimethyl-benzeneethanamine; N,N-alpha-trimethylphenethylamine)
+(12) N,N-dimethylamphetamine (also known as N,N-alpha-trimethyl-benzeneethanamine; N,N-alpha-trimethylphenethylamine)
 
 1480
 

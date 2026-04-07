@@ -2500,7 +2500,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (q) The 250-fm (457-m) depth contour used around San Diego Rise is defined by straight lines connecting all of the following points in the order stated:
 
-(1) 32 °51.58′ N. lat., 117°51.00′ W. long.;
+(1) 32°51.58′ N. lat., 117°51.00′ W. long.;
 
 (2) 32°44.69′ N. lat., 117°44.55′ W. long.;
 
