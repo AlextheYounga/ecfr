@@ -1,6 +1,6 @@
 ##### § 4.1 Scope of authority; applicable regulations.
 
-The Office of Hearings and Appeals, headed by a Director, is an authorized representative of the Secretary for the purpose of hearing, considering, and deciding matters within the jurisdiction of the Department involving hearings, appeals, and other review functions of the Secretary. The Office may hear, consider, and decide those matters as fully and finally as might the Secretary, subject to any limitations on its authority imposed by the Secretary. Principal components of the Office include:
+The Office of Hearings and Appeals, headed by a Director, is an authorized representative of the Secretary for the purpose of hearing, considering, and deciding matters within the jurisdiction of the Department involving hearings, appeals, and other review functions of the Secretary. The Office may hear, consider, and decide those matters as fully and finally as might the Secretary, subject to any limitations on its authority imposed by the Secretary. Principal components of the Office include:*Board of Indian Appeals.*
 
 (a) One or more Hearings Divisions consisting of administrative law judges who are authorized to conduct hearings in cases required by law to be conducted under 5 U.S.C. 554, and other deciding officials who are authorized to conduct hearings in cases arising under statutes and regulations of the Department; and
 

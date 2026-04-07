@@ -1,6 +1,6 @@
 ##### § 4.611 What information must I include in my net worth exhibit?
 
-(a) Unless you meet one of the criteria in § 4.610(b), you must file with your application a net worth exhibit that meets the requirements of this section. The adjudicative officer may also require that you file additional information to determine your eligibility for an award.
+(a) Unless you meet one of the criteria in § 4.610(b), you must file with your application a net worth exhibit that meets the requirements of this section. The adjudicative officer may also require that you file additional information to determine your eligibility for an award.*et seq.*
 
 (b) The exhibit must show your net worth and that of any affiliates when the proceeding was initiated. The exhibit may be in any form that:
 

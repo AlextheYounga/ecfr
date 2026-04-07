@@ -1,6 +1,6 @@
 ##### § 4.1391 Who may file; where to file; when to file; filing of administrative record.
 
-(a) The person who requested a determination under 30 CFR 761.16 or any person with an interest that is or may be adversely affected by a determination that a person does or does not have valid existing rights may file a request for review of the determination with the office of the OSM official whose determination is being reviewed and at the same time shall send a copy of the request to the Interior Board of Land Appeals, U.S. Department of the Interior. OSM shall file the complete administrative record of the determination under review with the Board as soon as practicable.
+(a) The person who requested a determination under 30 CFR 761.16 or any person with an interest that is or may be adversely affected by a determination that a person does or does not have valid existing rights may file a request for review of the determination with the office of the OSM official whose determination is being reviewed and at the same time shall send a copy of the request to the Interior Board of Land Appeals, U.S. Department of the Interior. OSM shall file the complete administrative record of the determination under review with the Board as soon as practicable.Federal Register,
 
 (b) OSM must provide notice of the valid existing rights determination to the person who requested that determination by certified mail, or by overnight delivery service if the person has agreed to bear the expense of this service.
 

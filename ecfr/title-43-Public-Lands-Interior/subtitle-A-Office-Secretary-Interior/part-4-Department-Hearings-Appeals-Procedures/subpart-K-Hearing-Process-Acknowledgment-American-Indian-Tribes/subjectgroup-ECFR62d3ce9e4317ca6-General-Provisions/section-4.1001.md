@@ -1,6 +1,6 @@
 ##### § 4.1001 What terms are used in this subpart?
 
-As used in this subpart:
+As used in this subpart:*ALJ*
 
 *ALJ* means an administrative law judge in DCHD appointed under 5 U.S.C. 3105 and assigned to preside over the hearing process.
 

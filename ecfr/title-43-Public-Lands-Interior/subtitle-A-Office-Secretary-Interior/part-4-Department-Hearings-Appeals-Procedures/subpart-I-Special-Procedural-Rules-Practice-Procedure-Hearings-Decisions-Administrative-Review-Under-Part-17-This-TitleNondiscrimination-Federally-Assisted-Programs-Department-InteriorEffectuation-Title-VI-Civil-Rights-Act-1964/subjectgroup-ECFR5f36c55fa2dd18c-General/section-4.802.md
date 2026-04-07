@@ -1,6 +1,6 @@
 ##### § 4.802 Definitions.
 
-(a) The definitions set forth in § 17.12 of this title apply also to this subpart.
+(a) The definitions set forth in § 17.12 of this title apply also to this subpart.*Director*
 
 (b) *Director* means the Director, Office for Equal Opportunity, Department of the Interior.
 

@@ -1,34 +1,34 @@
 ##### § 944.401 Olive Regulation 1.
 
-(a) *Definitions.* (1) *Canned ripe olives* means olives in hermetically sealed containers and heat sterilized under pressure, of the two distinct types “ripe” and “green-ripe” as defined in the current U.S. Standards for Grades of Canned Ripe Olives. The term does not include Spanish-style green olives.
+(a) *Definitions.* (1) *Canned ripe olives* means olives in hermetically sealed containers and heat sterilized under pressure, of the two distinct types “ripe” and “green-ripe” as defined in the current U.S. Standards for Grades of Canned Ripe Olives. The term does not include Spanish-style green olives. 
 
-(2) *Spanish-style green olives* means olives packed in brine and which have been fermented and cured, otherwise known as “green olives.”
+(2) *Spanish-style green olives* means olives packed in brine and which have been fermented and cured, otherwise known as “green olives.” 
 
-(3) *Variety group 1* means the following varieties and any mutations, sports, or other derivations of such varieties: Aghizi Shami, Amellau Ascolano, Ascolano dura, Azapa, Balady, Barouni, Carydolia, Cucco, Gigante di Cerignola, Gordale, Grosane, Jahlut, Polymorpha, Prunara, Ropades, Sevillano, St. Agostino, Tafahi, and Touffahi.
+(3) *Variety group 1* means the following varieties and any mutations, sports, or other derivations of such varieties: Aghizi Shami, Amellau Ascolano, Ascolano dura, Azapa, Balady, Barouni, Carydolia, Cucco, Gigante di Cerignola, Gordale, Grosane, Jahlut, Polymorpha, Prunara, Ropades, Sevillano, St. Agostino, Tafahi, and Touffahi. 
 
-(4) *Variety group 2* means the following varieties and any mutations, sports, or other derivations of such varieties: Manzanillo, Mission, Nevadillo, Obliza, and Redding Picholine.
+(4) *Variety group 2* means the following varieties and any mutations, sports, or other derivations of such varieties: Manzanillo, Mission, Nevadillo, Obliza, and Redding Picholine. 
 
-(5) *USDA Inspector* means an inspector of the Specialty Crops Inspection Division, Specialty Crops Program, Agricultural Marketing Service, U.S. Department of Agriculture, or any other duly authorized employee of the Department.
+(5) *USDA Inspector* means an inspector of the Specialty Crops Inspection Division, Specialty Crops Program, Agricultural Marketing Service, U.S. Department of Agriculture, or any other duly authorized employee of the Department. 
 
-(6) *Importation* means release from custody of the U.S. Customs and Border Protection.
+(6) *Importation* means release from custody of the U.S. Customs and Border Protection. 
 
-(7) *Limited use* means the use of processed olives in the production of packaged olives of the halved, segmented (wedged), sliced, or chopped styles, as defined in said standards.
+(7) *Limited use* means the use of processed olives in the production of packaged olives of the halved, segmented (wedged), sliced, or chopped styles, as defined in said standards. 
 
-(8) Terms used in this section shall have the same meaning as are given to the respective terms in the current U.S. Standards for Grades of Canned Ripe Olives (7 CFR part 52) including the terms *size, character, defects* and *ripe type: Provided,* That the definition of *broken pitted olives* is as follows: “Broken pitted olives” consist of large pieces that may have been broken in pitting but have not been sliced or cut.
+(8) Terms used in this section shall have the same meaning as are given to the respective terms in the current U.S. Standards for Grades of Canned Ripe Olives (7 CFR part 52) including the terms *size, character, defects* and *ripe type: Provided,* That the definition of *broken pitted olives* is as follows: “Broken pitted olives” consist of large pieces that may have been broken in pitting but have not been sliced or cut. 
 
-(b) The importation into the United States of any canned ripe olives is prohibited unless such olives are inspected and meet the following applicable requirements: *Provided,* That olives imported in bulk form and used in the production of any canned ripe olives are subject to such applicable requirements and the additional requirements in paragraph (b)(12) of this section.
+(b) The importation into the United States of any canned ripe olives is prohibited unless such olives are inspected and meet the following applicable requirements: *Provided,* That olives imported in bulk form and used in the production of any canned ripe olives are subject to such applicable requirements and the additional requirements in paragraph (b)(12) of this section. 
 
-(1) *Minimum quality requirements.* Canned ripe olives shall meet the following quality requirements, except that no requirements shall be applicable with respect to color and blemishes for canned green ripe olives:
+(1) *Minimum quality requirements.* Canned ripe olives shall meet the following quality requirements, except that no requirements shall be applicable with respect to color and blemishes for canned green ripe olives: 
 
-(i) Canned whole and pitted olives of the ripe type shall meet the minimum quality requirements prescribed in table 1 of this section;
+(i) Canned whole and pitted olives of the ripe type shall meet the minimum quality requirements prescribed in table 1 of this section; 
 
-(ii) Canned sliced, segmented (wedged), and halved olives of the ripe type shall meet the minimum quality requirements prescribed in table 2 of this section;
+(ii) Canned sliced, segmented (wedged), and halved olives of the ripe type shall meet the minimum quality requirements prescribed in table 2 of this section; 
 
-(iii) Canned chopped olives of the ripe type shall meet the minimum quality requirements prescribed in table 3 of this section and shall be practically free from identifiable units of pit caps, end slices, and slices (“practically free from identifiable units” means that not more than 10 percent, by weight, of the unit of chopped style olives may be identifiable pit caps, end slices, or slices); and
+(iii) Canned chopped olives of the ripe type shall meet the minimum quality requirements prescribed in table 3 of this section and shall be practically free from identifiable units of pit caps, end slices, and slices (“practically free from identifiable units” means that not more than 10 percent, by weight, of the unit of chopped style olives may be identifiable pit caps, end slices, or slices); and 
 
-(iv) Canned broken pitted olives of the ripe type shall meet the minimum quality requirements prescribed in table 4 of this section, *Provided,* That broken pitted olives consist of large pieces that may have been broken in pitting but have not been sliced or cut.
+(iv) Canned broken pitted olives of the ripe type shall meet the minimum quality requirements prescribed in table 4 of this section, *Provided,* That broken pitted olives consist of large pieces that may have been broken in pitting but have not been sliced or cut. 
 
-(v) A lot of canned ripe olives is considered to meet the requirements of this section if all or most of the sample units meet the requirements specified in tables 1 through 4 of this section: *Provided,* That the number of sample units which do not meet the requirements specified in tables 1 through 4 of this section does not exceed the acceptance number prescribed for in the sample size provided in table I of 7 CFR 52.38: *Provided further,* That there is no off flavor in any sample unit.
+(v) A lot of canned ripe olives is considered to meet the requirements of this section if all or most of the sample units meet the requirements specified in tables 1 through 4 of this section: *Provided,* That the number of sample units which do not meet the requirements specified in tables 1 through 4 of this section does not exceed the acceptance number prescribed for in the sample size provided in table I of 7 CFR 52.38: *Provided further,* That there is no off flavor in any sample unit. 
 
 Table 1—Whole and Pitted Style
 
@@ -86,70 +86,70 @@ Table 4—Broken Pitted Style
 | Major Stems            | Not more than 3                                                                               |
 | HEVM                   | Not more than 2 units per sample                                                              |
 
-(2) Canned whole ripe olives of Variety Group 1, except the Ascolano, Barouni, and St. Agostino varieties, shall be of such a size that not more than 25 percent, by count, of the olives may weigh less than 1/75 pound (6.0 grams) each, except that not more than 10 percent, by count, of the olives may weigh less than 1/82 pound (5.5 grams) each;
+(2) Canned whole ripe olives of Variety Group 1, except the Ascolano, Barouni, and St. Agostino varieties, shall be of such a size that not more than 25 percent, by count, of the olives may weigh less than 1/75 pound (6.0 grams) each, except that not more than 10 percent, by count, of the olives may weigh less than 1/82 pound (5.5 grams) each; 
 
-(3) Canned whole ripe Variety Group 1 olives, of the Ascolano, Barouni, and St. Agostino varieties, shall be of such size that not more than 25 percent, by count, of the olives may weigh less than 1/105 pound (4.3 grams) each except that not more than 10 percent, by count, of the olives may weigh less than 1/116 pound (3.9 grams) each;
+(3) Canned whole ripe Variety Group 1 olives, of the Ascolano, Barouni, and St. Agostino varieties, shall be of such size that not more than 25 percent, by count, of the olives may weigh less than 1/105 pound (4.3 grams) each except that not more than 10 percent, by count, of the olives may weigh less than 1/116 pound (3.9 grams) each; 
 
-(4) Canned whole ripe olives of Variety Group 2, except the Obliza variety, shall be of such a size that not more than 35 percent, by count, of the olives may weigh less than 1/140 pound (3.2 grams) each except that not more than 7 percent, by count, of the olives may weigh less than 1/160 pound (2.8 grams) each;
+(4) Canned whole ripe olives of Variety Group 2, except the Obliza variety, shall be of such a size that not more than 35 percent, by count, of the olives may weigh less than 1/140 pound (3.2 grams) each except that not more than 7 percent, by count, of the olives may weigh less than 1/160 pound (2.8 grams) each; 
 
-(5) Canned whole ripe Variety Group 2 olives, of the Obliza variety, shall be of such a size that not more than 35 percent, by count, of the olives may weigh less than 1/127 pound (3.5 grams) each except that not more than 7 percent, by count, of the olives may weigh less than 1/135 pound (3.3 grams) each;
+(5) Canned whole ripe Variety Group 2 olives, of the Obliza variety, shall be of such a size that not more than 35 percent, by count, of the olives may weigh less than 1/127 pound (3.5 grams) each except that not more than 7 percent, by count, of the olives may weigh less than 1/135 pound (3.3 grams) each; 
 
-(6) Canned whole ripe olives not identifiable as to variety or variety group shall be of such a size that not more than 35 percent, by count, of the olives may weigh less than 1/140 pound (3.2 grams) each except that not more than 7 percent, by count, of the olives may weigh less than 1/160 pound (2.8 grams) each;
+(6) Canned whole ripe olives not identifiable as to variety or variety group shall be of such a size that not more than 35 percent, by count, of the olives may weigh less than 1/140 pound (3.2 grams) each except that not more than 7 percent, by count, of the olives may weigh less than 1/160 pound (2.8 grams) each; 
 
-(7) Canned pitted ripe olives of Variety Group 1, except the Ascolano, Barouni, and St. Agostino varieties, shall be at least “Extra Large” as defined in § 52.3754 of the U.S. Standards for Grades of Canned Ripe Olives.
+(7) Canned pitted ripe olives of Variety Group 1, except the Ascolano, Barouni, and St. Agostino varieties, shall be at least “Extra Large” as defined in § 52.3754 of the U.S. Standards for Grades of Canned Ripe Olives. 
 
-(8) Canned pitted ripe Variety Group 1 olives of the Ascolano, Barouni, and St. Agostino varieties shall be at least “Large” as defined in § 52.3754 of the U.S. Standards for Grades of Canned Ripe Olives.
+(8) Canned pitted ripe Variety Group 1 olives of the Ascolano, Barouni, and St. Agostino varieties shall be at least “Large” as defined in § 52.3754 of the U.S. Standards for Grades of Canned Ripe Olives. 
 
-(9) Canned pitted ripe olives of Variety Group 2, except the Obliza variety, shall be at least “Small” as defined in § 52.3754 of the U.S. Standards for Grades of Canned Ripe Olives.
+(9) Canned pitted ripe olives of Variety Group 2, except the Obliza variety, shall be at least “Small” as defined in § 52.3754 of the U.S. Standards for Grades of Canned Ripe Olives. 
 
-(10) Canned pitted ripe Variety Group 2 olives of the Obliza variety shall be at least “Medium” as defined in § 52.3754 of the U.S. Standards for Grades of Canned Ripe Olives.
+(10) Canned pitted ripe Variety Group 2 olives of the Obliza variety shall be at least “Medium” as defined in § 52.3754 of the U.S. Standards for Grades of Canned Ripe Olives. 
 
-(11) Canned pitted ripe olives not identifiable as to variety or variety group shall be at least “Small” as defined in § 52.3754 of the U.S. Standards for Grades of Canned Ripe Olives.
+(11) Canned pitted ripe olives not identifiable as to variety or variety group shall be at least “Small” as defined in § 52.3754 of the U.S. Standards for Grades of Canned Ripe Olives. 
 
-(12) Imported bulk olives when used in the production of canned ripe olives must be inspected and certified as prescribed in this section. Imported bulk olives which do not meet the applicable minimum size requirements specified in paragraphs (b)(2) through (b)(11) of this section may be imported after August 1, 1996, for limited use, but any such olives so used shall not be smaller than the following applicable minimum size:
+(12) Imported bulk olives when used in the production of canned ripe olives must be inspected and certified as prescribed in this section. Imported bulk olives which do not meet the applicable minimum size requirements specified in paragraphs (b)(2) through (b)(11) of this section may be imported after August 1, 1996, for limited use, but any such olives so used shall not be smaller than the following applicable minimum size: 
 
-(i) Whole ripe olives of Variety Group 1, except Ascolano, Barouni, or St. Agostino varieties, of a size that not more than 35 percent of the olives, by count, may be smaller than 1/105 pound (4.3 grams) each.
+(i) Whole ripe olives of Variety Group 1, except Ascolano, Barouni, or St. Agostino varieties, of a size that not more than 35 percent of the olives, by count, may be smaller than 1/105 pound (4.3 grams) each. 
 
-(ii) Whole ripe olives of Variety Group 1 of the Ascolano, Barouni, or St. Agostino varieties, of a size that not more than 35 percent of the olives, by count, may be smaller than 1/180 pound (2.5 grams) each.
+(ii) Whole ripe olives of Variety Group 1 of the Ascolano, Barouni, or St. Agostino varieties, of a size that not more than 35 percent of the olives, by count, may be smaller than 1/180 pound (2.5 grams) each. 
 
-(iii) Whole ripe olives of Variety Group 2, except the Obliza variety, of a size that not more than 35 percent of the olives, by count, may be smaller than 1/205 pound (2.2 grams) each.
+(iii) Whole ripe olives of Variety Group 2, except the Obliza variety, of a size that not more than 35 percent of the olives, by count, may be smaller than 1/205 pound (2.2 grams) each. 
 
-(iv) Whole ripe olives of Variety Group 2 of the Obliza variety of a size that not more than 35 percent of the olives, by count, may be smaller than 1/180 pound (2.5 grams) each.
+(iv) Whole ripe olives of Variety Group 2 of the Obliza variety of a size that not more than 35 percent of the olives, by count, may be smaller than 1/180 pound (2.5 grams) each. 
 
-(v) Whole ripe olives not identifiable as to variety or variety group of a size that not more than 35 percent of olives, by count, may be smaller than 1/205 pound (2.2 grams) each.
+(v) Whole ripe olives not identifiable as to variety or variety group of a size that not more than 35 percent of olives, by count, may be smaller than 1/205 pound (2.2 grams) each. 
 
-(c) The Specialty Crops Inspection Division, Specialty Crops Program, Agricultural Marketing Service, U.S. Department of Agriculture, is hereby designated as the governmental inspection service for the purpose of certifying the grade and size of processed olives from imported bulk lots for use in canned ripe olives and the grade and size of imported canned ripe olives. Inspection by said inspection service with appropriate evidence thereof in the form of an official inspection certificate, issued by the service and applicable to the particular lot of olives, is required. With respect to imported bulk olives, inspection and certification shall be completed prior to use as packaged ripe olives. With respect to canned ripe olives, inspection and certification shall be completed prior to importation, unless imports arrive by vessel in which case the date of inspection and certification may be after the date of importation. Any lot of olives which fails to meet the import requirements and is not being imported for purposes of contribution to a charitable organization or processing into oil may be exported or disposed of under the supervision of the Specialty Crops Inspection Division, Specialty Crops Program, AMS, USDA, with the cost of certifying the disposal borne by the importer. Such inspection and certification services will be available, upon application, in accordance with the applicable regulations governing the inspection and certification of Processed Fruits and Vegetables, Processed Products Thereof, and Certain Other Processed Food Products (7 CFR part 52). For questions about inspection services or for further assistance, contact: Specialty Crops Inspection Division, Specialty Crops Program, AMS, USDA, 1400 Independence Avenue SW, Room 1536-S, STOP 0240, Washington, DC 20250-0237; telephone (202) 720-5870; fax (202) 720-0393.
+(c) The Specialty Crops Inspection Division, Specialty Crops Program, Agricultural Marketing Service, U.S. Department of Agriculture, is hereby designated as the governmental inspection service for the purpose of certifying the grade and size of processed olives from imported bulk lots for use in canned ripe olives and the grade and size of imported canned ripe olives. Inspection by said inspection service with appropriate evidence thereof in the form of an official inspection certificate, issued by the service and applicable to the particular lot of olives, is required. With respect to imported bulk olives, inspection and certification shall be completed prior to use as packaged ripe olives. With respect to canned ripe olives, inspection and certification shall be completed prior to importation, unless imports arrive by vessel in which case the date of inspection and certification may be after the date of importation. Any lot of olives which fails to meet the import requirements and is not being imported for purposes of contribution to a charitable organization or processing into oil may be exported or disposed of under the supervision of the Specialty Crops Inspection Division, Specialty Crops Program, AMS, USDA, with the cost of certifying the disposal borne by the importer. Such inspection and certification services will be available, upon application, in accordance with the applicable regulations governing the inspection and certification of Processed Fruits and Vegetables, Processed Products Thereof, and Certain Other Processed Food Products (7 CFR part 52). For questions about inspection services or for further assistance, contact: Specialty Crops Inspection Division, Specialty Crops Program, AMS, USDA, 1400 Independence Avenue SW, Room 1536-S, STOP 0240, Washington, DC 20250-0237; telephone (202) 720-5870; fax (202) 720-0393. 
 
-(d) Inspection certificates shall cover only (1) the quantity of canned ripe olives that is being imported at a particular port of entry by a particular importer or (2) the quantity of canned ripe olives processed from a lot or sublot of imported bulk olives.
+(d) Inspection certificates shall cover only (1) the quantity of canned ripe olives that is being imported at a particular port of entry by a particular importer or (2) the quantity of canned ripe olives processed from a lot or sublot of imported bulk olives. 
 
-(e) Inspection shall be performed by USDA inspectors in accordance with said regulations governing the inspection and certification of processed fruits and vegetables and related products (part 52 of this title). The cost of each such inspection and related certification shall be borne by the applicant therefore. Applicants shall provide USDA inspectors with the entry number and such other identifying information for each lot as the inspector may request.
+(e) Inspection shall be performed by USDA inspectors in accordance with said regulations governing the inspection and certification of processed fruits and vegetables and related products (part 52 of this title). The cost of each such inspection and related certification shall be borne by the applicant therefore. Applicants shall provide USDA inspectors with the entry number and such other identifying information for each lot as the inspector may request. 
 
-(f) Notwithstanding any other provisions of this regulation, any importation of canned ripe olives or olives imported in bulk for use in the production of canned ripe olives which, in the aggregate, does not exceed 100 pounds drained weight may be imported without regard to the requirements of this section.
+(f) Notwithstanding any other provisions of this regulation, any importation of canned ripe olives or olives imported in bulk for use in the production of canned ripe olives which, in the aggregate, does not exceed 100 pounds drained weight may be imported without regard to the requirements of this section. 
 
-(g) It is hereby determined, on the basis of the information currently available, that the minimum quality requirements and size requirements set forth in this part are comparable to those applicable to California canned ripe olives.
+(g) It is hereby determined, on the basis of the information currently available, that the minimum quality requirements and size requirements set forth in this part are comparable to those applicable to California canned ripe olives. 
 
-(h) No provisions of this section shall supersede the restrictions or prohibitions on canned ripe olives under the provisions of the Federal Food, Drug, and Cosmetic Act, or any other applicable laws or regulations or the need to comply with applicable food and sanitary regulations of city, county, State, or Federal agencies.
+(h) No provisions of this section shall supersede the restrictions or prohibitions on canned ripe olives under the provisions of the Federal Food, Drug, and Cosmetic Act, or any other applicable laws or regulations or the need to comply with applicable food and sanitary regulations of city, county, State, or Federal agencies. 
 
-(i) Each inspection certificate issued with respect to canned ripe olives to be imported into the United States and canned ripe olives processed from a lot or sublot of imported bulk olives shall set forth among other things:
+(i) Each inspection certificate issued with respect to canned ripe olives to be imported into the United States and canned ripe olives processed from a lot or sublot of imported bulk olives shall set forth among other things: 
 
-(1) The date and place of inspection;
+(1) The date and place of inspection; 
 
-(2) The name of the shipper or applicant;
+(2) The name of the shipper or applicant; 
 
-(3) The Customs entry number pertaining to the lot or shipment covered by the certificate;
+(3) The Customs entry number pertaining to the lot or shipment covered by the certificate; 
 
-(4) The commodity inspected;
+(4) The commodity inspected; 
 
-(5) The quantity of the commodity covered by the certificate;
+(5) The quantity of the commodity covered by the certificate; 
 
-(6) The principal identifying marks on the container;
+(6) The principal identifying marks on the container; 
 
-(7) The railroad car initials and number, the truck and the trailer license number, the name of the vessel, or other identification of the shipment;
+(7) The railroad car initials and number, the truck and the trailer license number, the name of the vessel, or other identification of the shipment; 
 
-(8) The Consumption Entry Number for Canned Ripe Olives; and
+(8) The Consumption Entry Number for Canned Ripe Olives; and 
 
-(9) The following statement if the facts warrant: Meets the U.S. import requirements under section 8e of the Agricultural Marketing Agreement Act of 1937, as amended.
+(9) The following statement if the facts warrant: Meets the U.S. import requirements under section 8e of the Agricultural Marketing Agreement Act of 1937, as amended. 
 
-(j) The minimum quality, size, and maturity requirements of this section shall not be applicable to olives imported for charitable organizations or processing for oil, but shall be subject to the safeguard provisions contained in § 944.350.
+(j) The minimum quality, size, and maturity requirements of this section shall not be applicable to olives imported for charitable organizations or processing for oil, but shall be subject to the safeguard provisions contained in § 944.350. 
 
 \[47 FR 51349, Nov. 15, 1982\] Editorial Note:For Federal Register citations affecting § 944.401, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,6 +1,6 @@
 ##### § 4.1105 Parties.
 
-(a) All persons indicated in the act as parties to administrative review proceedings under the act shall be considered statutory parties. Such statutory parties include—
+(a) All persons indicated in the act as parties to administrative review proceedings under the act shall be considered statutory parties. Such statutory parties include—*et seq.*
 
 (1) In a civil penalty proceeding under § 4.1150, OSM, as represented by the Office of the Solicitor, Department of the Interior, and any person against whom a proposed assessment is made who files a petition;
 

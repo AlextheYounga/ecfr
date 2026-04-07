@@ -1,6 +1,6 @@
 ##### § 4.470 How to appeal a final BLM grazing decision to an administrative law judge.
 
-(a) Any applicant, permittee, lessee, or other person whose interest is adversely affected by a final BLM grazing decision may appeal the decision to an administrative law judge within 30 days after receiving it or within 30 days after a proposed decision becomes final as provided in § 4160.3(a) of this title. To do so, the person must file an appeal with the BLM field office that issued the decision and serve a copy of the appeal on any person named in the decision.
+(a) Any applicant, permittee, lessee, or other person whose interest is adversely affected by a final BLM grazing decision may appeal the decision to an administrative law judge within 30 days after receiving it or within 30 days after a proposed decision becomes final as provided in § 4160.3(a) of this title. To do so, the person must file an appeal with the BLM field office that issued the decision and serve a copy of the appeal on any person named in the decision.*see*
 
 (b) The appeal must state clearly and concisely the reasons why the appellant thinks the BLM grazing decision is wrong.
 

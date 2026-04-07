@@ -1,6 +1,6 @@
 ##### § 4.410 Who may appeal.
 
-(a) Any party to a case who is adversely affected by a decision of the Bureau or Office or an administrative law judge has the right to appeal to the Board, except:
+(a) Any party to a case who is adversely affected by a decision of the Bureau or Office or an administrative law judge has the right to appeal to the Board, except:*e.g.,*
 
 (1) As otherwise provided in Group 2400 of chapter II of this title,
 

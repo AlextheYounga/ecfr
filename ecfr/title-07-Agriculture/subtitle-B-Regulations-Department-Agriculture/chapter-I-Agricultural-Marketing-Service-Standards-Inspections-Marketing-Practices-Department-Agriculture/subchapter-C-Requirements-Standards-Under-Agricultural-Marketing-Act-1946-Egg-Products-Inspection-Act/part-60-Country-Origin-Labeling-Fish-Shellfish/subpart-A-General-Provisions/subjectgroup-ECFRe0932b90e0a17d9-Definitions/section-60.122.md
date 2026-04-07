@@ -1,9 +1,9 @@
 ##### § 60.122 Production step.
 
-*Production step* means in the case of:
+*Production step* means in the case of: 
 
-(a) \[Reserved\]
+(a) \[Reserved\] 
 
-(b) Farm-raised Fish and Shellfish: Hatched, raised, harvested, and processed.
+(b) Farm-raised Fish and Shellfish: Hatched, raised, harvested, and processed. 
 
 (c) Wild Fish and Shellfish: Harvested and processed.

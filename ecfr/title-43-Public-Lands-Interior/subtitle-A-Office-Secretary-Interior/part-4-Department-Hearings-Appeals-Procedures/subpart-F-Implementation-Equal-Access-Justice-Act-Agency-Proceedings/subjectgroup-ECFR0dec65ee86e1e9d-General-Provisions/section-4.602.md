@@ -1,6 +1,6 @@
 ##### § 4.602 What definitions apply to this subpart?
 
-As used in this subpart:
+As used in this subpart:*Act*
 
 *Act* means section 203(a)(1) of the Equal Access to Justice Act, Public Law 96-481, 5 U.S.C. 504, as amended.
 

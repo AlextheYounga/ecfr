@@ -1,6 +1,6 @@
 ##### § 4.400 Definitions.
 
-As used in this subpart:
+As used in this subpart:*Administrative law judge*
 
 *Administrative law judge* means an administrative law judge in the Office of Hearings and Appeals, appointed under 5 U.S.C. 3105.
 

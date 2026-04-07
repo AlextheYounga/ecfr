@@ -1,6 +1,6 @@
 ##### § 4.411 Appeal; how taken, mandatory time limit.
 
-(a) A person who wishes to appeal to the Board must file a notice that the person wishes to appeal.
+(a) A person who wishes to appeal to the Board must file a notice that the person wishes to appeal.Federal Register,
 
 (1) The notice of appeal must be filed in the office of the officer who made the decision (not the Board).
 

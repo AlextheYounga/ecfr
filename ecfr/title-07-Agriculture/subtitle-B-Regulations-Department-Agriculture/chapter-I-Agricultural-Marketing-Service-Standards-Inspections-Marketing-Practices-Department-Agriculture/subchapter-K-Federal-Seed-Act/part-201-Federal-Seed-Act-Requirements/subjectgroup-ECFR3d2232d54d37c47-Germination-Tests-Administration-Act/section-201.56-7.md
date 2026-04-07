@@ -1,107 +1,107 @@
 ##### § 201.56-7 Lily family, Liliaceae.
 
-Kinds of seed: Asparagus, chives, leek, onion, and Welsh onion.
+Kinds of seed: Asparagus, chives, leek, onion, and Welsh onion. 
 
-(a) Asparagus.
+(a) Asparagus. 
 
-(1) General description.
+(1) General description. 
 
-(i) Germination habit: Hypogeal monocot.
+(i) Germination habit: Hypogeal monocot. 
 
-(ii) Food reserves: Endosperm which is hard, semi- transparent, and non-starchy; minor reserves in the cotyledon. The endosperm surrounds the entire embryo.
+(ii) Food reserves: Endosperm which is hard, semi- transparent, and non-starchy; minor reserves in the cotyledon. The endosperm surrounds the entire embryo. 
 
-(iii) Cotyledon: A single cylindrical cotyledon; following germination, all but the basal end remains embedded in the endosperm to absorb nutrients.
+(iii) Cotyledon: A single cylindrical cotyledon; following germination, all but the basal end remains embedded in the endosperm to absorb nutrients. 
 
-(iv) Shoot system: The epicotyl elongates and carries the terminal bud above the soil surface. The epicotyl may bear several small scale leaves. A short hypocotyl is barely distinguishable, joining the root to the basal end of the cotyledon. More than one shoot may arise simultaneously, and the seedling may be considered normal if at least one shoot is well- developed and has a terminal growing point, provided other essential structures are normal.
+(iv) Shoot system: The epicotyl elongates and carries the terminal bud above the soil surface. The epicotyl may bear several small scale leaves. A short hypocotyl is barely distinguishable, joining the root to the basal end of the cotyledon. More than one shoot may arise simultaneously, and the seedling may be considered normal if at least one shoot is well- developed and has a terminal growing point, provided other essential structures are normal. 
 
-(v) Root system: A long slender primary root.
+(v) Root system: A long slender primary root. 
 
-(2) Abnormal seedling description.
+(2) Abnormal seedling description. 
 
-(i) Cotyledon:
+(i) Cotyledon: 
 
-(A) Detached from seedling.
+(A) Detached from seedling. 
 
-(B) Deep open cracks at basal end.
+(B) Deep open cracks at basal end. 
 
-(ii) Epicotyl:
+(ii) Epicotyl: 
 
-(A) Missing.
+(A) Missing. 
 
-(B) Terminal bud missing or damaged.
+(B) Terminal bud missing or damaged. 
 
-(C) Deep open cracks.
+(C) Deep open cracks. 
 
-(D) Malformed, such as markedly shortened, curled, or thickened.
+(D) Malformed, such as markedly shortened, curled, or thickened. 
 
-(E) Spindly.
+(E) Spindly. 
 
-(F) Watery.
+(F) Watery. 
 
-(iii) Hypocotyl:
+(iii) Hypocotyl: 
 
-(A) Deep open cracks.
+(A) Deep open cracks. 
 
-(B) \[Reserved\]
+(B) \[Reserved\] 
 
-(iv) Root:
+(iv) Root: 
 
-(A) No primary root.
+(A) No primary root. 
 
-(B) Stubby primary root with weak secondary roots.
+(B) Stubby primary root with weak secondary roots. 
 
-(v) Seedling:
+(v) Seedling: 
 
-(A) One or more essential structures impaired as a result of decay from primary infection.
+(A) One or more essential structures impaired as a result of decay from primary infection. 
 
-(B) Albino.
+(B) Albino. 
 
-(b) Chives, leek, onion, Welsh onion.
+(b) Chives, leek, onion, Welsh onion. 
 
-(1) General description.
+(1) General description. 
 
-(i) Germination habit: Epigeal monocot.
+(i) Germination habit: Epigeal monocot. 
 
-(ii) Food reserves: Endosperm which is hard, semi-transparent, and non-starchy; minor reserves in the cotyledon.
+(ii) Food reserves: Endosperm which is hard, semi-transparent, and non-starchy; minor reserves in the cotyledon. 
 
-(iii) Cotyledon: A single cylindrical cotyledon. The cotyledon emerges with the seed coat and endosperm attached to the tip. A sharp bend known as the “knee” forms; continued elongation of the cotyledon on each side of this knee pushes it above the soil surface. The cotyledon tip is pulled from the soil and straightens except for a slight kink which remains at the site of the knee.
+(iii) Cotyledon: A single cylindrical cotyledon. The cotyledon emerges with the seed coat and endosperm attached to the tip. A sharp bend known as the “knee” forms; continued elongation of the cotyledon on each side of this knee pushes it above the soil surface. The cotyledon tip is pulled from the soil and straightens except for a slight kink which remains at the site of the knee. 
 
-(iv) Shoot system: The first foliage leaf emerges through a slit near the base of the cotyledon, but this does not usually occur during the test period. The hypocotyl is a very short transitional zone between the primary root and the cotyledon, and is not distinguishable for purposes of seedling evaluation.
+(iv) Shoot system: The first foliage leaf emerges through a slit near the base of the cotyledon, but this does not usually occur during the test period. The hypocotyl is a very short transitional zone between the primary root and the cotyledon, and is not distinguishable for purposes of seedling evaluation. 
 
-(v) Root system: A long slender primary root with adventitious roots developing from the hypocotyl. The primary root does not develop secondary roots.
+(v) Root system: A long slender primary root with adventitious roots developing from the hypocotyl. The primary root does not develop secondary roots. 
 
-(2) Abnormal seedling description.
+(2) Abnormal seedling description. 
 
-(i) Cotyledon:
+(i) Cotyledon: 
 
-(A) Short and thick.
+(A) Short and thick. 
 
-(B) Without a definite bend or “knee”.
+(B) Without a definite bend or “knee”. 
 
-(C) Spindly or watery.
+(C) Spindly or watery. 
 
-(ii) Epicotyl:
+(ii) Epicotyl: 
 
-(A) Not observed during the test period.
+(A) Not observed during the test period. 
 
-(B) \[Reserved\]
+(B) \[Reserved\] 
 
-(iii) Hypocotyl:
+(iii) Hypocotyl: 
 
-(A) Not evaluated.
+(A) Not evaluated. 
 
-(B) \[Reserved\]
+(B) \[Reserved\] 
 
-(iv) Root:
+(iv) Root: 
 
-(A) No primary root.
+(A) No primary root. 
 
-(B) Short, weak, or stubby primary root.
+(B) Short, weak, or stubby primary root. 
 
-(v) Seedling:
+(v) Seedling: 
 
-(A) One or more essential structures impaired as a result of decay from primary infection.
+(A) One or more essential structures impaired as a result of decay from primary infection. 
 
-(B) Albino.
+(B) Albino. 
 
 \[59 FR 64504, Dec. 14, 1994\]

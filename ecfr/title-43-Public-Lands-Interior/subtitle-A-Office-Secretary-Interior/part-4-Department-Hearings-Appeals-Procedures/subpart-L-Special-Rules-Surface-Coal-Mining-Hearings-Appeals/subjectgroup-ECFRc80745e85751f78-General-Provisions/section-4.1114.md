@@ -1,6 +1,6 @@
 ##### § 4.1114 Advancement of proceedings.
 
-(a) Except in expedited review proceedings under § 4.1180, or in temporary relief proceedings under § 4.1266, at any time after commencement of a proceeding, any party may move to advance the scheduling of a proceeding.
+(a) Except in expedited review proceedings under § 4.1180, or in temporary relief proceedings under § 4.1266, at any time after commencement of a proceeding, any party may move to advance the scheduling of a proceeding.*Provided,*
 
 (b) Except as otherwise directed by the administrative law judge or the Board, any party filing a motion under this section shall—
 

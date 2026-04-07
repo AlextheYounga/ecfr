@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 2429, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.This amendment is further delayed until May 5, 2025, at 90 FR 12461, Mar. 18, 2025.
 
-As used in the regulations in this subpart, the term—
+As used in the regulations in this subpart, the term—*Act*
 
 *Act* means the Surface Mining Control and Reclamation Act of 1977, 91 Stat. 445 *et seq.,* 30 U.S.C. 1201 *et seq.*
 

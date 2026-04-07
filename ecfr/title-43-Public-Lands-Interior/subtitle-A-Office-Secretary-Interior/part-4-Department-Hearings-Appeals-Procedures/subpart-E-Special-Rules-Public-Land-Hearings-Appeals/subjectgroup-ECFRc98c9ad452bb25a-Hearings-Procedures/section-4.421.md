@@ -1,6 +1,6 @@
 ##### § 4.421 Definitions.
 
-In addition to the definitions in § 4.400, as used in this subpart:
+In addition to the definitions in § 4.400, as used in this subpart:*Director*
 
 *Director* means the Director of BLM or a BLM Deputy Director or Assistant Director.
 
