@@ -20361,7 +20361,7 @@ Note:
 
 The map provided is for informational purposes only.
 
-![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 87 FR 8966, Feb. 17, 2022.Link to an amendment published at 87 FR 14690, Mar. 15, 2022.
+![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 87 FR 8966, Feb. 17, 2022.
 
 (f) *Clams and Snails.*
 
@@ -23245,7 +23245,271 @@ Diminutive amphipod (*Gammarus hyalleloides*)
 
 (5) Diamond Y Spring Unit, Pecos County, Texas. Map of Diamond Y Spring Unit follows:
 
-![](/graphics/er09jy13.013.gif)Panama City Crayfish (*Procambarus econfinae*)
+![](/graphics/er09jy13.013.gif)Big Sandy Crayfish (Cambarus callainus)
+
+(1) Critical habitat units are depicted for Martin, Pike, Johnson, and Floyd Counties, Kentucky; Buchanan, Dickenson, and Wise Counties, Virginia; and McDowell, Mingo, and Wayne Counties, West Virginia, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the Big Sandy crayfish consist of the following components:
+
+(i) Fast-flowing stream reaches with unembedded slab boulders, cobbles, or isolated boulder clusters within an unobstructed stream continuum (*i.e.,* riffle, run, pool complexes) of permanent, moderate- to large-sized (generally third order and larger) streams and rivers (up to the ordinary high water mark as defined at 33 CFR 329.11).
+
+(ii) Streams and rivers with natural variations in flow and seasonal flooding sufficient to effectively transport sediment and prevent substrate embeddedness.
+
+(iii) Water quality characterized by seasonally moderated temperatures and physical and chemical parameters (*e.g.,* pH, conductivity, dissolved oxygen) sufficient for the normal behavior, growth, reproduction, and viability of all life stages of the species.
+
+(iv) An adequate food base, indicated by a healthy aquatic community structure including native benthic macroinvertebrates and fishes, and plant matter (*e.g.,* leaf litter, algae, detritus).
+
+(v) Aquatic habitats protected from riparian and instream activities that degrade the physical and biological features described in paragraphs (2)(i) through (iv) of this entry or cause physical (*e.g.,* crushing) injury or death to individual Big Sandy crayfish.
+
+(vi) An interconnected network of streams and rivers that have the physical and biological features described in paragraphs (2)(i) through (iv) of this entry and that allow for the movement of individual crayfish in response to environmental, physiological, or behavioral drivers. The scale of the interconnected stream network should be sufficient to allow for gene flow within and among watersheds.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on April 14, 2022.
+
+(4) Data layers defining map units were created on a base of U.S. Geological Survey digital ortho-photo quarter-quadrangles, and critical habitat units were then mapped using Universal Transverse Mercator (UTM) Zone 15N coordinates. ESRI's ArcGIS 10.0 software was used to determine latitude and longitude coordinates using decimal degrees. The USA Topo ESRI online basemap service was referenced to identify features (like roads and streams) used to delineate the upstream and downstream extents of critical habitat units. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/westvirginiafieldoffice/*, at *https://www.regulations.gov* at Docket No. FWS-R5-ES-2019-0098, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map of critical habitat Units 1 and 2 for the Big Sandy crayfish follows:
+
+![](/graphics/er15mr22.009.gif)
+
+(6) Unit 1: Upper Levisa Fork - Dismal Creek, Buchanan County, Virginia.
+
+(i) Unit 1 includes approximately 29.2 stream kilometers (skm) (18.1 smi) of Dismal Creek from its confluence with Laurel Fork downstream to its confluence with Levisa Fork in Buchanan County, Virginia.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er15mr22.010.gif)
+
+(7) Unit 2: Russell Fork - Buchanan, Dickenson, and Wise Counties, Virginia, and Pike County, Kentucky.
+
+(i) Subunit 2a: Russell Fork, Buchanan and Dickenson Counties, Virginia, and Pike County, Kentucky.
+
+(A) Subunit 2a consists of approximately 83.8 skm (52.1 smi) of Russell Fork from its confluence with Ball Creek at Council, Virginia, downstream to its confluence with Levisa Fork at Levisa Junction, Kentucky.
+
+(B) Map of Subunit 2a follows:
+
+![](/graphics/er15mr22.011.gif)
+
+(ii) Subunit 2b: Hurricane Creek, Buchanan County, Virginia.
+
+(A) Subunit 2b consists of approximately 5.9 skm (3.7 smi) of Hurricane Creek from its confluence with Gilbert Fork downstream to its confluence with Russell Fork at Davenport, Virginia.
+
+(B) Map of Subunit 2b follows:
+
+![](/graphics/er15mr22.012.gif)
+
+(iii) Subunit 2c: Indian Creek, Buchanan and Dickenson Counties, Virginia.
+
+(A) Subunit 2c consists of approximately 7.4 skm (4.6 smi) of Indian Creek from its confluence with Three Forks in Buchanan County, Virginia, downstream to its confluence with Russell Fork in Buchanan and Dickenson Counties, Virginia.
+
+(B) Map of Subunit 2c follows:
+
+![](/graphics/er15mr22.013.gif)
+
+(iv) Subunit 2d: Fryingpan Creek, Dickenson County, Virginia.
+
+(A) Subunit 2d consists of approximately 4.6 skm (2.9 smi) of Fryingpan Creek from its confluence with Priest Fork downstream to its confluence with Russell Fork.
+
+(B) Map of Subunit 2d follows:
+
+![](/graphics/er15mr22.014.gif)
+
+(v) Subunit 2e: Lick Creek, Dickenson County, Virginia.
+
+(A) Subunit 2e consists of approximately 16.2 skm (10.1 smi) of Lick Creek from its confluence with Cabin Fork near Aily, Virginia, downstream to its confluence with Russell Fork at Birchfield, Virginia.
+
+(B) Map of Subunit 2e follows:
+
+![](/graphics/er15mr22.015.gif)
+
+(vi) Subunit 2f: Russell Prater Creek, Dickenson County, Virginia.
+
+(A) Subunit 2f consists of approximately 8.4 skm (5.2 smi) of Russell Prater Creek from its confluence with Greenbrier Creek downstream to its confluence with Russell Fork at Haysi, Virginia.
+
+(B) Map of Subunit 2f follows:
+
+![](/graphics/er15mr22.016.gif)
+
+(vii) Subunit 2g: McClure River, Open Fork and McClure Creek, Dickenson County, Virginia.
+
+(A) Subunit 2g consists of approximately 35.6 skm (22.1 smi) of the McClure River and McClure Creek from the confluence of McClure Creek and Honey Branch downstream to the confluence of McClure River and Russell Fork; and approximately 4.9 km (3.0 mi) of Open Fork from the confluence of Middle Fork Open Fork and Coon Branch downstream to the confluence of Open Fork and McClure Creek at Nora, Virginia.
+
+(B) Map of Subunit 2g follows:
+
+![](/graphics/er15mr22.017.gif)
+
+(viii) Subunit 2h: Elkhorn Creek, Pike County, Kentucky.
+
+(A) Subunit 2h consists of approximately 8.5 skm (5.3 smi) of Elkhorn Creek from its confluence with Mountain Branch downstream to its confluence with Russell Fork at Elkhorn City, Kentucky.
+
+(B) Map of Subunit 2h follows:
+
+![](/graphics/er15mr22.018.gif)
+
+(ix) Subunit 2i: Cranes Nest River and Birchfield Creek, Dickenson and Wise Counties, Virginia.
+
+(A) Subunit 2i consists of approximately 24.6 skm (19.0 smi) of the Cranes Nest River from its confluence with Birchfield Creek downstream to its confluence with Lick Branch and approximately 6.9 skm (4.3 smi) of Birchfield Creek from its confluence with Dotson Creek downstream to its confluence with Cranes Nest River.
+
+(B) Map of Subunit 2i follows:
+
+![](/graphics/er15mr22.019.gif)
+
+(x) Subunit 2j: Pound River, Dickenson and Wise Counties, Virginia.
+
+(A) Subunit 2j consists of approximately 28.5 skm (17.7 smi) of the Pound River from its confluence with Bad Creek downstream to the confluence of the Pound River and Jerry Branch.
+
+(B) Map of Subunit 2j follows:
+
+![](/graphics/er15mr22.020.gif)
+
+(8) Index map of critical habitat Unit 3 for the Big Sandy crayfish follows:
+
+![](/graphics/er15mr22.021.gif)
+
+(9) Unit 3: Lower Levisa Fork - Floyd, Johnson, and Pike Counties, Kentucky.
+
+(i) Subunit 3a: Levisa Fork, Floyd, Johnson, and Pike Counties, Kentucky.
+
+(A) Subunit 3a consists of approximately 15.9 km (9.9 mi) of Levisa Fork from its confluence with Russell Fork at Levisa Junction, Kentucky, downstream to its confluence with Island Creek at Pikeville, Kentucky; and 17.5 skm (10.9 smi) of Levisa Fork from its confluence with Abbott Creek downstream to its confluence with Miller Creek at Auxier, Kentucky.
+
+(B) Map of Subunit 3a follows:
+
+![](/graphics/er15mr22.022.gif)
+
+(ii) Subunit 3b: Shelby Creek and Long Fork, Pike County, Kentucky.
+
+(A) Subunit 3b consists of approximately 32.2 skm (20.0 smi) of Shelby Creek from its confluence with Burk Branch downstream to its confluence with Levisa Fork at Shelbiana, Kentucky; and approximately 12.9 skm (8.0 smi) of Long Fork from the confluence of Right Fork Long Fork and Left Fork Long Fork downstream to the confluence of Long Fork and Shelby Creek at Virgie, Kentucky.
+
+(B) Map of Subunit 3b follows:
+
+![](/graphics/er15mr22.023.gif)
+
+(10) Index map of critical habitat Unit 4 for the Big Sandy crayfish follows:
+
+![](/graphics/er15mr22.024.gif)
+
+(11) Unit 4: Tug Fork - McDowell, Mingo, and Wayne Counties, West Virginia; Buchanan County, Virginia; and Pike and Martin Counties, Kentucky.
+
+(i) Subunit 4a: Tug Fork, McDowell, Mingo, and Wayne Counties, West Virginia; Buchanan County, Virginia; and Pike and Martin Counties, Kentucky.
+
+(A) Subunit 4a consists of approximately 106.1 skm (65.9 smi) of the Tug Fork from its confluence with Elkhorn Creek at Welch, West Virginia, downstream to its confluence with Blackberry Creek in Pike County, Kentucky; and 11.7 skm (7.3 smi) of the Tug Fork from its confluence with Little Elk Creek downstream to its confluence with Bull Creek at Crum, West Virginia.
+
+(B) Map of Subunit 4a follows:
+
+![](/graphics/er15mr22.025.gif)
+
+(ii) Subunit 4b: Dry Fork and Bradshaw Creek, McDowell County, West Virginia.
+
+(A) Subunit 4b consists of approximately 45.2 skm (28.1 smi) of Dry Fork from its confluence with Jacobs Fork downstream to its confluence with Tug Fork at Iaeger, West Virginia; and approximately 4.6 skm (2.9 smi) of Bradshaw Creek from its confluence with Hite Fork at Jolo, West Virginia, downstream to its confluence with Dry Fork at Bradshaw, West Virginia.
+
+(B) Map of Subunit 4b follows:
+
+![](/graphics/er15mr22.026.gif)
+
+(iii) Subunit 4c: Panther Creek, McDowell County, West Virginia.
+
+(A) Subunit 4c consists of approximately 10.7 skm (6.6 smi) of Panther Creek from its confluence with George Branch downstream to its confluence with Tug Fork at Panther, West Virginia.
+
+(B) Map of Subunit 4c follows:
+
+![](/graphics/er15mr22.027.gif)
+
+(iv) Subunit 4d: Knox Creek, Buchanan County, Virginia, and Pike County, Kentucky.
+
+(A) Subunit 4d consists of approximately 16.6 skm (10.3 smi) of Knox Creek from its confluence with Cedar Branch downstream to its confluence with Tug Fork in Pike County, Kentucky.
+
+(B) Map of Subunit 4d follows:
+
+![](/graphics/er15mr22.028.gif)
+
+(v) Subunit 4e: Peter Creek, Pike County, Kentucky.
+
+(A) Subunit 4e consists of approximately 10.1 skm (6.3 smi) of Peter Creek from the confluence of Left Fork Peter Creek and Right Fork Peter Creek at Phelps, Kentucky, downstream to the confluence of Peter Creek and Tug Fork at Freeburn, Kentucky.
+
+(B) Map of Subunit 4e follows:
+
+![](/graphics/er15mr22.029.gif)
+
+(vi) Subunit 4f: Blackberry Creek, Pike County, Kentucky.
+
+(A) Subunit 4f consists of approximately 9.1 skm (5.7 smi) of Blackberry Creek its confluence with Bluespring Branch downstream to the confluence of Blackberry Creek and Tug Fork.
+
+(B) Map of Subunit 4f follows:
+
+![](/graphics/er15mr22.030.gif)
+
+(vii) Subunit 4g: Pigeon Creek and Laurel Fork, Mingo County, West Virginia.
+
+(A) Subunit 4g consists of approximately 14.0 skm (8.7 smi) of Pigeon Creek from its confluence with Trace Fork downstream to its confluence with Tug Fork; and approximately 11.1 skm (6.9 smi) of Laurel Fork from its confluence with Lick Branch downstream to its confluence with Pigeon Creek at Lenore, West Virginia.
+
+(B) Map of Subunit 4g follows:
+
+![](/graphics/er15mr22.031.gif)Guyandotte River Crayfish (Cambarus veteranus)
+
+(1) Critical habitat units are depicted for Logan and Wyoming Counties, West Virginia, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the Guyandotte River crayfish consist of the following components:
+
+(i) Fast-flowing stream reaches with unembedded slab boulders, cobbles, or isolated boulder clusters within an unobstructed stream continuum (*i.e..* riffle, run, pool complexes) of permanent, moderate- to large-sized (generally third order and larger) streams and rivers (up to the ordinary high water mark as defined at 33 CFR 329.11).
+
+(ii) Streams and rivers with natural variations in flow and seasonal flooding sufficient to effectively transport sediment and prevent substrate embeddedness.
+
+(iii) Water quality characterized by seasonally moderated temperatures and physical and chemical parameters (*e.g.,* pH, conductivity, dissolved oxygen) sufficient for the normal behavior, growth, reproduction, and viability of all life stages of the species.
+
+(iv) An adequate food base, indicated by a healthy aquatic community structure including native benthic macroinvertebrates, fishes, and plant matter (*e.g.,* leaf litter, algae, detritus).
+
+(v) Aquatic habitats protected from riparian and instream activities that degrade the physical and biological features described in paragraphs (2)(i) through (iv) of this entry or cause physical (*e.g.,* crushing) injury or death to individual Guyandotte River crayfish.
+
+(vi) An interconnected network of streams and rivers that have the physical and biological features described in paragraphs (2)(i) through (iv) of this entry and that allow for the movement of individual crayfish in response to environmental, physiological, or behavioral drivers. The scale of the interconnected stream network should be sufficient to allow for gene flow within and among watersheds.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on April 14, 2022.
+
+(4) Data layers defining map units were created on a base of U.S. Geological Survey digital ortho-photo quarter-quadrangles, and critical habitat units were then mapped using Universal Transverse Mercator (UTM) Zone 15N coordinates. ESRI's ArcGIS 10.0 software was used to determine latitude and longitude coordinates using decimal degrees. The USA Topo ESRI online basemap service was referenced to identify features (like roads and streams) used to delineate the upstream and downstream extents of critical habitat units. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/westvirginiafieldoffice/*, at *https://www.regulations.gov* at Docket No. FWS-R5-ES-2019-0098, and at the North Atlantic-Appalachian Regional Office. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map of critical habitat for the Guyandotte River crayfish follows:
+
+![](/graphics/er15mr22.032.gif)
+
+(6) Unit 1: Upper Guyandotte - Logan and Wyoming Counties, West Virginia.
+
+(i) Subunit 1a: Pinnacle Creek, Wyoming County, West Virginia.
+
+(A) Subunit 1a consists of approximately 28.6 skm (17.8 smi) of Pinnacle Creek from its confluence with Beartown Fork downstream to its confluence with the Guyandotte River at Pineville, West Virginia.
+
+(B) Map of Subunit 1a follows:
+
+![](/graphics/er15mr22.033.gif)
+
+(ii) Subunit 1b: Clear Fork and Laurel Fork, Wyoming County, West Virginia.
+
+(A) Subunit 1b consists of approximately 38.0 skm (23.6 smi) of Clear Fork and its primary tributary Laurel Fork from the confluence of Laurel Creek and Acord Branch downstream to the confluence of Clear Fork and the Guyandotte River.
+
+(B) Map of Subunit 1b follows:
+
+![](/graphics/er15mr22.034.gif)
+
+(iii) Subunit 1c: Guyandotte River, Wyoming County, West Virginia.
+
+(A) Subunit 1c consists of approximately 35.8 skm (22.2 smi) of the Guyandotte River from its confluence with Pinnacle Creek at Pineville, West Virginia, downstream to its confluence with Clear Fork.
+
+(B) Map of Subunit 1c follows:
+
+![](/graphics/er15mr22.035.gif)
+
+(iv) Subunit 1d: Indian Creek, Wyoming County, West Virginia.
+
+(A) Subunit 1d consists of approximately 4.2 skm (2.6 smi) of Indian Creek from the confluence of Indian Creek and Brier Creek at Fanrock, West Virginia, to the confluence of Indian Creek and the Guyandotte River.
+
+(B) Map of Subunit 1d follows:
+
+![](/graphics/er15mr22.036.gif)
+
+(v) Subunit 1e: Huff Creek, Wyoming and Logan Counties, West Virginia.
+
+(A) Subunit 1e consists of approximately 28.0 skm (17.4 smi) of Huff Creek from its confluence with Straight Fork downstream to its confluence with the Guyandotte River at Huff, West Virginia.
+
+(B) Map of Subunit 1e follows:
+
+![](/graphics/er15mr22.037.gif)Panama City Crayfish (*Procambarus econfinae*)
 
 (1) Critical habitat units are depicted for Bay County, Florida, on the maps in this entry.
 
