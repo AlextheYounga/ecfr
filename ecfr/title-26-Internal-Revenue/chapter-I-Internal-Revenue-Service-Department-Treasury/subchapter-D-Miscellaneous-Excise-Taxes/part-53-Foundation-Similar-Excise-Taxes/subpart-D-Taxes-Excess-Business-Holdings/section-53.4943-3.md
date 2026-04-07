@@ -102,8 +102,6 @@ Example 1.Corporation X has outstanding 100 shares of voting stock, with each sh
 
 20 
 
-\* \* \* \* \* \* \*
-
 Example 2.F, a private foundation, is a partner in P partnership. In addition, A and B, the only disqualified persons with respect to F, are partners in P. The partnership agreement of P contains no provisions regarding the sharing of profits by, and the respective capital interests of, the partners.
 
 (i) assume that, under section 704(b), F's distributive share of P taxable income is determined to be 20 percent. In addition, assume that under such section, A and B are determined to have a 4-percent distributive share each of P taxable income. Accordingly, F holds a 20-percent profits interest in P, and A and B hold an 8-percent profits interest in P. Assuming that the provisions of section 4943(c)(2)(B) do not apply, the permitted holdings of F in P are 12 percent of the profits interest in P, determined by subtracting the percentage of the profits interest held by A and B in P (*i.e.*, 8 percent) from 20 percent. (20 percent−8 percent = 12 percent.) F, therefore, holds a percentage of the profits interest in P in excess of the percentage permitted by § 53.4943-3(b)(1). The excess business holdings of F in P are a percentage of the profits interest in P equivalent to such excess percentage, or 8 percent of the profits interest in P, determined by subtracting the permitted holdings of F in P (*i.e.*, 12 percent) from the percentage of the profit interest held by F in P (*i.e.*, 20 percent) (20 percent−12 percent = 8 percent.)

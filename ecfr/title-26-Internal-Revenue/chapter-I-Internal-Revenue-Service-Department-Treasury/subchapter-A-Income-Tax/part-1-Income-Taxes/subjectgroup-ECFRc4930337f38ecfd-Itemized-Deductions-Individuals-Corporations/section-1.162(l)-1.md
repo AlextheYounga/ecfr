@@ -1,6 +1,6 @@
-##### § 1.162(l)-1T Deduction for health insurance costs of self-employed individuals (temporary).
+##### § 1.162(l)-1 Deduction for health insurance costs of self-employed individuals.
 
-(a) *Coordination of section 162(l) deduction for taxpayers subject to section 36B* - (1) *In general.* A taxpayer is allowed a deduction under section 162(l) for specified premiums, as defined in paragraph (a)(2) of this section, not to exceed an amount equal to the lesser of -
+(a) *Coordination of section 162(l) deduction for taxpayers subject to section 36B*—(1) *In general.* A taxpayer is allowed a deduction under section 162(l) for specified premiums, as defined in paragraph (a)(2) of this section, not to exceed an amount equal to the lesser of—
 
 (i) The specified premiums less the premium tax credit attributable to the specified premiums; and
 
@@ -12,8 +12,6 @@
 
 (b) *Additional guidance.* The Secretary may provide by publication in the Federal Register or in the Internal Revenue Bulletin (see § 601.601(d)(2) of this chapter) additional guidance on coordinating the deduction allowed under section 162(l) and the credit provided under section 36B.
 
-(c) *Effective/applicability date.* This section applies for taxable years beginning after December 31, 2013.
+(c) *Applicability date.* This section applies for taxable years beginning after December 31, 2013.
 
-(d) *Expiration date.* This section expires on July 24, 2017.
-
-\[T.D. 9683, 79 FR 43631, July 28, 2014\]
+\[T.D. 9822, 82 FR 34610, July 26, 2017\]

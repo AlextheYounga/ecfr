@@ -128,7 +128,7 @@ Example 2.(i) *Facts.* A group health plan does not provide coverage for service
 
 (*1*) The claimant is or was covered under the plan or coverage at the time the health care item or service was requested or, in the case of a retrospective review, was covered under the plan or coverage at the time the health care item or service was provided;
 
-(*2*) The adverse benefit determination or the final adverse benefit determination does not relate to the claimant's failure to meet the requirements for eligibility under the terms of the group health plan or health insurance coverage (*e.g.,* worker classification or similar determination);
+(*2*) The adverse benefit determination or the final adverse benefit determination does not relate to the claimant's failure to meet the requirements for eligibility under the terms of the group health plan or health insurance coverage (e.g., worker classification or similar determination);
 
 (*3*) The claimant has exhausted the plan's or issuer's internal appeal process unless the claimant is not required to exhaust the internal appeals process under paragraph (b)(1) of this section; and
 
