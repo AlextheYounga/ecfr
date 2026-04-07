@@ -1,7 +1,5 @@
 ##### § 413.70 Payment for services of a CAH.
 
-Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
-
 (a) *Payment for inpatient services furnished by a CAH (other than services of distinct part units).* (1) Effective for cost reporting periods beginning on or after January 1, 2004, payment for inpatient services of a CAH, other than services of a distinct part unit of the CAH and other than the items included in the incentive payment described in paragraph (a)(5) of this section and subject to the adjustments described in paragraph (a)(6) of this section, is 101 percent of the reasonable costs of the CAH in providing CAH services to its inpatients, as determined in accordance with section 1861(v)(1)(A) of the Act and the applicable principles of cost reimbursement in this part and in part 415 of this chapter, except that the following payment principles are excluded when determining payment for CAH inpatient services:
 
 (i) Lesser of cost or charges;
@@ -42,7 +40,9 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (*3*) A CAH that has been converted from an eligible hospital as defined at § 495.4 of this chapter.
 
-(iii) Exceptions granted under paragraph (a)(6)(ii) of this section are subject to annual renewal, but in no case may a CAH be granted such an exception for more than 5 years.
+(iii) *Exception for decertified EHR technology.* Beginning with the fiscal year 2018 payment adjustment year, the Secretary shall exempt a CAH that is not a qualifying CAH from the application of the payment adjustment under paragraph (a)(6)(i) of this section if the Secretary determines that compliance with the requirement for being a meaningful EHR user is not possible because the certified EHR technology used by the CAH has been decertified under ONC's Health IT Certification Program. In order to be considered for an exception, a CAH must submit an application, in the manner specified by CMS, demonstrating that the certified EHR technology was decertified during the 12-month period preceding the applicable EHR reporting period for the payment adjustment year, or during the applicable EHR reporting period for the payment adjustment year, and that the CAH made a good faith effort to obtain another certified EHR technology for that EHR reporting period. Applications requesting this exception must be submitted by November 30 after the end of the applicable payment adjustment year, or a later date specified by CMS.
+
+(iv) Exceptions granted under paragraphs (a)(6)(ii) and (iii) of this section are subject to annual renewal, but in no case may a CAH be granted such an exception for more than 5 years.
 
 (7) There is no administrative or judicial review under section s1869 and 1878 of the Actor otherwise of the following:
 
@@ -136,4 +136,4 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (3) Payment for inpatient services of distinct part rehabilitation units of CAHs is made in accordance with regulations governing the inpatient rehabilitation facilities prospective payment system at subpart P (§ 412.600 through § 412.632) of part 412 of this subchapter.
 
-\[65 FR 47109, Aug. 1, 2000\] Editorial Note:For Federal Register citations affecting § 413.70, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+\[65 FR 47109, Aug. 1, 2000, as amended at 82 FR 38515, Aug. 14, 2017\] Editorial Note:For Federal Register citations affecting § 413.70, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

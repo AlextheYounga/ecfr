@@ -94,7 +94,7 @@ There is no CHAMPUS benefit entitlement during any interim waiting period.
 
 *Bariatric Surgery.* Surgical procedures performed to treat co-morbid conditions associated with morbid obesity. Bariatric surgery is based on two principles: (1) Divert food from the stomach to a lower part of the digestive tract where the normal mixing of digestive fluids and absorption of nutrients cannot occur (i.e., Malabsorptive surgical procedures); or (2) Restrict the size of the stomach and decrease intake (i.e., Restrictive surgical procedures).
 
-*Basic program.* The primary medical benefits authorized under chapter 55 of title 10 U.S. Code, and set forth in § 199.4 of this part.
+*Basic program.* The primary medical benefits set forth in § 199.4, generally referred to as the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) as authorized under chapter 55 of title 10 United States Code, were made available to eligible beneficiaries under this part.
 
 *Beneficiary.* An individual who has been determined to be eligible for CHAMPUS benefits, as set forth in § 199.3 of this part.
 
@@ -226,9 +226,9 @@ Staff consultations required by rules and regulations of the medical staff of a 
 
 *Deceased retiree.* A person who, at the time of his or her death, was entitled to retired or retainer pay or equivalent pay based on duty in a Uniformed Service. For purposes of this part, it also includes a person who died before attaining age 60 and at the time of his or her death would have been eligible for retired pay as a reservist but for the fact that he or she was not 60 years of age, and had elected to participate in the Survivor Benefit Plan established under 10 U.S.C. chapter 73.
 
-*Deductible.* Payment by a beneficiary of the first $50 of the CHAMPUS-determined allowable costs or charges for otherwise covered outpatient services or supplies provided in any one fiscal year; or for a family, the aggregate payment by two or more beneficiaries who submit claims of the first $100.
+*Deductible.* Payment by an individual beneficiary or family of a specific first dollar amount of the TRICARE allowable amount for otherwise covered outpatient services or supplies obtained in any program year. The dollar amount of deductible per individual or family is calculated as specified by law.
 
-*Deductible certificate.* A statement issued to the beneficiary (or sponsor) by a CHAMPUS fiscal intermediary certifying to deductible amounts satisfied by a CHAMPUS beneficiary for any applicable fiscal year.
+*Deductible certificate.* A statement issued to the beneficiary (or sponsor) by a TRICARE contractor certifying to deductible amounts satisfied by a beneficiary for any applicable program year.
 
 *Defense Enrollment Eligibility Reporting System (DEERS).* An automated system maintained by the Department of Defense for the purpose of:
 
@@ -324,7 +324,7 @@ Staff consultations required by rules and regulations of the medical staff of a 
 
 *Facility charge.* The term “facility charge” means the charge, either inpatient or outpatient, made by a hospital or other institutional provider to cover the overhead costs of providing the service. These costs would include building costs, *i.e.* depreciation and interest; staffing costs; drugs and supplies; and overhead costs, *i.e.*, utilities, housekeeping, maintenance, etc.
 
-*Former member.* A retiree, deceased member, deceased retiree, or deceased reservist in certain circumstances (see section 199.3 for additional information related to certain deceased reservists' dependents' eligibility). Under conditions specified under § 199.3 of this part, former member may also include a member of the Uniformed Services who has been discharged from active duty (or, in some cases, full-time National Guard duty), whether voluntarily or involuntarily, under other than adverse conditions and qualifies for CHAMPUS benefits under the Transitional Assistance Management Program or the Continued Health Care Benefit Program.
+*Former member.* An individual who is eligible for, or entitled to, retired pay, at age 60, for non-Regular service in accordance with chapter 1223, title 10, United States Code but who has been discharged and who maintains no military affiliation. These former members, at age 60, and their eligible dependents are entitled to medical care, commissary, exchange, and MWR privileges. Under age 60, they and their eligible dependents are entitled to commissary, exchange, and MWR privileges only.
 
 *Former spouse.* A former husband or wife of a Uniformed Service member or former member who meets the criteria as set forth in § 199.3(b)(2)(ii) of this part.
 
@@ -424,7 +424,7 @@ Staff consultations required by rules and regulations of the medical staff of a 
 
 *Medication assisted treatment (MAT).* MAT for diagnosed opioid use disorder is a holistic modality for recovery and treatment that employs evidence-based therapy, including psychosocial treatments and psychopharmacology, and FDA-approved medications as indicated for the management of withdrawal symptoms and maintenance.
 
-*Member.* A person on active duty in a Uniformed Service under a call or order that does not specify a period of 30 days or less. (*For CHAMPUS cost-sharing purposes only,* a former member who received a dishonorable or bad-conduct discharge or was dismissed from a Uniformed Service as a result of a court-martial conviction for an offense involving physical or emotional abuse or was administratively discharged as a result of such an offense is considered a member).
+*Member.* An individual who is affiliated with a Service, either an active duty member, Reserve member, active duty retired member, or Retired Reserve member. Members in a retired status are not former members. Also referred to as the sponsor.
 
 *Mental disorder, to include substance use disorder.* For purposes of the payment of CHAMPUS benefits, a mental disorder is a nervous or mental condition that involves a clinically significant behavioral or psychological syndrome or pattern that is associated with a painful symptom, such as distress, and that impairs a patient's ability to function in one or more major life activities. A substance use disorder is a mental condition that involves a maladaptive pattern of substance use leading to clinically significant impairment or distress; impaired control over substance use; social impairment; and risky use of a substance(s). Additionally, the mental disorder must be one of those conditions listed in the current edition of the Diagnostic and Statistical Manual of Mental Disorders. “Conditions Not Attributable to a Mental Disorder,” or V codes, are not considered diagnosable mental disorders. Co-occurring mental and substance use disorders are common and assessment should proceed as soon as it is possible to distinguish the substance related symptoms from other independent conditions.
 
@@ -550,6 +550,8 @@ The fact that the U.S. Food and Drug Administration has approved a drug for test
 
 *Profound hearing loss (children).* A “child” (an unmarried child of an active duty member who otherwise meets the criteria (including age requirements) in 32 CFR 199.3 of this part) with a 26dB HL or greater hearing threshold level in one or both ears when tested in the frequency range at 500, 1,000, 2,000, 3,000 or 4,000 Hz.
 
+*Program year.* The appropriate year (*e.g.,* calendar year, fiscal year, rolling 12-month period, etc.) specified in the administration of TRICARE programs for application of unique requirements or limitations (*e.g.,* enrollment fees, deductibles, catastrophic loss protection, etc.) on covered health care services obtained or provided during the designated time period.
+
 *Progress notes.* Progress notes are an essential component of the medical record wherein health care personnel provide written evidence of ordered and supervised diagnostic tests, treatments, medical procedures, therapeutic behavior and outcomes. In the case of mental health care, progress notes must include: the date of the therapy session; length of the therapy session; a notation of the patient's signs and symptoms; the issues, pathology and specific behaviors addressed in the therapy session; a statement summarizing the therapeutic interventions attempted during the therapy session; descriptions of the response to treatment, the outcome of the treatment, and the response to significant others; and a statement summarizing the patient's degree of progress toward the treatment goals. Progress notes do not need to repeat all that was said during a therapy session but must document a patient contact and be sufficiently detailed to allow for both peer review and audits to substantiate the quality and quantity of care rendered.
 
 *Prosthetic device (prosthesis).* An artificial substitute for a missing body part.
@@ -630,7 +632,9 @@ The fact that the U.S. Food and Drug Administration has approved a drug for test
 
 *Respite care.* Respite care is short-term care for a patient in order to provide rest and change for those who have been caring for the patient at home, usually the patient's family.
 
-*Retiree.* A member or former member of a Uniformed Service who is entitled to retired, retainer, or equivalent pay based on duty in a Uniformed Service.
+*Retired category.* Retirees and their family members who are beneficiaries covered by 10 U.S.C. 1086(c), other than Medicare-eligible beneficiaries as described in 10 U.S.C. 1086(d).
+
+*Retiree.* For ease of reference in this part only, and except as otherwise specified in this part, the term means a member or former member of a Uniformed Service who is entitled to retired, retainer, or equivalent pay based on duty in a Uniformed Service.
 
 *Routine eye examinations.* The services rendered in order to determine the refractive state of the eyes.
 
@@ -718,19 +722,23 @@ TRICARE is secondary payer to all third-party payers. Under limited circumstance
 
 *TRICARE certified mental health counselor.* An allied health professional who meets the requirements outlined in § 199.6.
 
-*TRICARE extra plan.* The health care option, provided as part of the TRICARE program under § 199.17, under which beneficiaries may choose to receive care in facilities of the uniformed services, or from special civilian network providers (with reduced cost sharing), or from any other CHAMPUS-authorized provider (with standard cost sharing).
+*TRICARE Extra.* The preferred-provider option of the TRICARE program made available prior to January 1, 2018, under which TRICARE Standard beneficiaries may obtain discounts on cost sharing as a result of using TRICARE network providers.
+
+*TRICARE for Life.* The Medicare wraparound coverage option of the TRICARE program made available to an eligible beneficiary by reason of 10 U.S.C. 1086(d).
 
 *TRICARE Hospital Outpatient Prospective Payment System* (OPPS). OPPS is a hospital outpatient prospective payment system, based on nationally established APC payment amounts and standardized for geographic wage differences that includes operating and capital-related costs that are directly related and integral to performing a procedure or furnishing a service in a hospital outpatient department.
 
-*TRICARE prime plan.* The health care option, provided as part of the TRICARE program under § 199.17, under which beneficiaries enroll to receive all health care from facilities of the uniformed services and civilian network providers (with civilian care subject to substantially reduced cost sharing.
+*TRICARE Prime.* The managed care option of the TRICARE program established under § 199.17.
 
-*TRICARE program.* The program establish under § 199.17.
+*TRICARE program.* The program established under § 199.17.
 
 *TRICARE Reserve Select.* The program established under 10 U.S.C. 1076d and § 199.24 of this Part.
 
-*TRICARE Retired Reserve.* The program established to allow members of the Retired Reserve who are qualified for non-regular retirement, but are not yet 60 years of age, as well as certain survivors to qualify to purchase medical coverage equivalent to the TRICARE Standard (and Extra) benefit unless that member is either enrolled in, or eligible to enroll in, a health benefit plan under Chapter 89 of Title 5, United States Code. The program benefits and requirements are set forth in section 25 of this Part.
+*TRICARE Retired Reserve.* The program established under 10 U.S.C. 1076e and § 199.25.
 
-*TRICARE standard plan.* The health care option, provided as part of the TRICARE program under § 199.17, under which beneficiaries are eligible for care in facilities of the uniformed services and CHAMPUS under standard rules and procedures.
+*TRICARE Select.* The self-managed, preferred-provider network option under the TRICARE Program established by 10 U.S.C. 1075 and § 199.17 to replace TRICARE Extra and Standard after December 31, 2017.
+
+*TRICARE Standard.* The TRICARE program made available prior to January 1, 2018, under which the basic program of health care benefits generally referred to as CHAMPUS was made available to eligible beneficiaries under this part.
 
 *TRICARE Young Adult.* The program authorized by and described in § 199.26 of this part.
 

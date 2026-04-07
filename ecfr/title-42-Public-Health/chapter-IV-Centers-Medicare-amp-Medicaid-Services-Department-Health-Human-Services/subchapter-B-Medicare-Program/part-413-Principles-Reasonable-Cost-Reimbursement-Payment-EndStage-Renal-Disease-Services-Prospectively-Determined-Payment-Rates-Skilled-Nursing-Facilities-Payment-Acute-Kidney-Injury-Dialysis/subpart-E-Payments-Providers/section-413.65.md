@@ -1,7 +1,5 @@
 ##### § 413.65 Requirements for a determination that a facility or an organization has provider-based status.
 
-Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
-
 (a) *Scope and definitions.* (1) *Scope.* (i) This section applies to all facilities for which provider-based status is sought, including remote locations of hospitals, as defined in paragraph (a)(2) of this section and satellite facilities as defined in §§ 412.22(h)(1) and 412.25(e)(1) of this chapter, other than facilities described in paragraph (a)(1)(ii) of this section.
 
 (ii) The determinations of provider-based status for payment purposes described in this section are not made as to whether the following facilities are provider-based:
@@ -30,7 +28,7 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (L) Rural health clinics (RHCs) affiliated with hospitals having 50 or more beds.
 
-(2) *Definitions.* In this subpart E, unless the context indicates otherwise -
+(2) *Definitions.* In this subpart E, unless the context indicates otherwise—
 
 *Campus* means the physical area immediately adjacent to the provider's main buildings, other areas and structures that are not strictly contiguous to the main buildings but are located within 250 yards of the main buildings, and any other areas determined on an individual case basis, by the CMS regional office, to be part of the provider's campus.
 
@@ -104,13 +102,13 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (i) The facility or organization is under the direct supervision of the main provider.
 
-(ii) The facility or organization is operated under the same monitoring and oversight by the provider as any other department of the provider, and is operated just as any other department of the provider with regard to supervision and accountability. The facility or organization director or individual responsible for daily operations at the entity -
+(ii) The facility or organization is operated under the same monitoring and oversight by the provider as any other department of the provider, and is operated just as any other department of the provider with regard to supervision and accountability. The facility or organization director or individual responsible for daily operations at the entity—
 
 (A) Maintains a reporting relationship with a manager at the main provider that has the same frequency, intensity, and level of accountability that exists in the relationship between the main provider and its existing departments; and
 
 (B) Is accountable to the governing body of the main provider, in the same manner as any department head of the provider.
 
-(iii) The following administrative functions of the facility or organization are integrated with those of the provider where the facility or organization is based: billing services, records, human resources, payroll, employee benefit package, salary structure, and purchasing services. Either the same employees or group of employees handle these administrative functions for the facility or organization and the main provider, or the administrative functions for both the facility or organization and the entity are -
+(iii) The following administrative functions of the facility or organization are integrated with those of the provider where the facility or organization is based: billing services, records, human resources, payroll, employee benefit package, salary structure, and purchasing services. Either the same employees or group of employees handle these administrative functions for the facility or organization and the main provider, or the administrative functions for both the facility or organization and the entity are—
 
 (A) Contracted out under the same contract agreement; or
 
@@ -120,7 +118,7 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (i) The facility or organization is located within a 35-mile radius of the campus of the hospital or CAH that is the potential main provider.
 
-(ii) The facility or organization is owned and operated by a hospital or CAH that has a disproportionate share adjustment (as determined under § 412.106 of this chapter) greater than 11.75 percent or is described in § 412.106(c)(2) of this chapter implementing section 1886(d)(5)(F)(i)(II) of the Act and is -
+(ii) The facility or organization is owned and operated by a hospital or CAH that has a disproportionate share adjustment (as determined under § 412.106 of this chapter) greater than 11.75 percent or is described in § 412.106(c)(2) of this chapter implementing section 1886(d)(5)(F)(i)(II) of the Act and is—
 
 (A) Owned or operated by a unit of State or local government;
 
@@ -128,7 +126,7 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (C) A private hospital that has a contract with a State or local government that includes the operation of clinics located off the main campus of the hospital to assure access in a well-defined service area to health care services for low-income individuals who are not entitled to benefits under Medicare (or medical assistance under a Medicaid State plan).
 
-(iii) The facility or organization demonstrates a high level of integration with the main provider by showing that it meets all of the other provider-based criteria and demonstrates that it serves the same patient population as the main provider, by submitting records showing that, during the 12-month period immediately preceding the first day of the month in which the application for provider-based status is filed with CMS, and for each subsequent 12-month period -
+(iii) The facility or organization demonstrates a high level of integration with the main provider by showing that it meets all of the other provider-based criteria and demonstrates that it serves the same patient population as the main provider, by submitting records showing that, during the 12-month period immediately preceding the first day of the month in which the application for provider-based status is filed with CMS, and for each subsequent 12-month period—
 
 (A) At least 75 percent of the patients served by the facility or organization reside in the same zip code areas as at least 75 percent of the patients served by the main provider; or
 
@@ -160,7 +158,7 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (vii) A facility or organization may qualify for provider-based status under this section only if the facility or organization and the main provider are located in the same State or, when consistent with the laws of both States, in adjacent States.
 
-(f) *Provider-based status for joint ventures.* In order for a facility or organization operated as a joint venture to be considered provider-based, the facility or organization must -
+(f) *Provider-based status for joint ventures.* In order for a facility or organization operated as a joint venture to be considered provider-based, the facility or organization must—
 
 (1) Be partially owned by at least one provider'
 
@@ -190,7 +188,7 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (7) When a Medicare beneficiary is treated in a hospital outpatient department that is not located on the main provider's campus, the treatment is not required to be provided by the antidumping rules in § 489.24 of this chapter, and the beneficiary will incur a coinsurance liability for an outpatient visit to the hospital as well as for the physician service, the following requirements must be met:
 
-(i) The hospital must provide written notice to the beneficiary, before the delivery of services, of -
+(i) The hospital must provide written notice to the beneficiary, before the delivery of services, of—
 
 (A) The amount of the beneficiary's potential financial liability; or
 
@@ -216,13 +214,13 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (i) *Furnishing all services under arrangement.* A facility or organization may not qualify for provider-based status if all patient care services furnished at the facility or organization are furnished under arrangements.
 
-(j) *Inappropriate treatment of a facility or organization as provider-based* - (1) *Determination and review.* If CMS learns that a provider has treated a facility or organization as provider-based and the provider did not request a determination of provider-based status from CMS under paragraph (b)(3) of this section and CMS determines that the facility or organization did not meet the requirements for provider-based status under paragraphs (d) through (i) of this section, as applicable (or, in any period before the effective date of these regulations, the provider-based requirements in effect under Medicare program regulations or instructions), CMS will -
+(j) *Inappropriate treatment of a facility or organization as provider-based*—(1) *Determination and review.* If CMS learns that a provider has treated a facility or organization as provider-based and the provider did not request a determination of provider-based status from CMS under paragraph (b)(3) of this section and CMS determines that the facility or organization did not meet the requirements for provider-based status under paragraphs (d) through (i) of this section, as applicable (or, in any period before the effective date of these regulations, the provider-based requirements in effect under Medicare program regulations or instructions), CMS will—
 
 (i) Issue notice to the provider in accordance with paragraph (j)(3) of this section, adjust the amount of future payments to the provider for services of the facility or organization in accordance with paragraph (j)(4) of this section, and continue payments to the provider for services of the facility or organization only in accordance with paragraph (j)(5) of this section; and
 
 (ii) Except as otherwise provided in paragraphs (b)(2), (b)(5), or (j)(2) of this section, recover the difference between the amount of payments that actually was made and the amount of payments that CMS estimates should have been made, in the absence of compliance with the provider-based requirements, to that provider for services at the facility or organization for all cost reporting periods subject to reopening in accordance with §§ 405.1885 and 405.1889 of this chapter.
 
-(2) *Exception for good faith effort.* CMS will not recover any payments for any period before the beginning of the hospital's first cost reporting period beginning on or after January 10, 2001, if, during all of that period -
+(2) *Exception for good faith effort.* CMS will not recover any payments for any period before the beginning of the hospital's first cost reporting period beginning on or after January 10, 2001, if, during all of that period—
 
 (i) The requirements regarding licensure and public awareness in paragraphs (d)(1) and (d)(4) of this section were met;
 
@@ -238,7 +236,7 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (ii) If the provider indicates that it will not be seeking a determination for the facility or organization under this section or that the facility or organization or its practitioners will not be seeking to enroll, or if CMS does not receive a response within 30 days of the date the notice was issued, all payment under this paragraph (j)(5) will end as of the 30th day after the date of notice.
 
-(iii) If the provider indicates that it will be seeking a determination for the facility or organization under this section or that the facility or organization or its practitioners will be seeking to meet enrollment and other requirements for billing for services in a freestanding facility, payment for services of the facility or organization will continue, at the adjusted amounts described in paragraph (j)(4) of this section, for as long as is required for all billing requirements to be met (but not longer than 6 months) if the provider or the facility or organization or its practitioners -
+(iii) If the provider indicates that it will be seeking a determination for the facility or organization under this section or that the facility or organization or its practitioners will be seeking to meet enrollment and other requirements for billing for services in a freestanding facility, payment for services of the facility or organization will continue, at the adjusted amounts described in paragraph (j)(4) of this section, for as long as is required for all billing requirements to be met (but not longer than 6 months) if the provider or the facility or organization or its practitioners—
 
 (A) Submits, as applicable, a complete request for a determination of provider-based status or a complete enrollment application and provide all other required information within 90 days after the date of notice; and
 
@@ -252,7 +250,7 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (2) If CMS determines that a facility or organization that had previously been determined to be provider-based under this section no longer qualifies for provider-based status, and if the failure to qualify for provider-based status resulted from a material change in the relationship between the provider and the facility or organization that the provider did not report to CMS under paragraph (c) of this section, CMS will take the actions with respect to notice to the provider, adjustment of payments, and continuation of payment described in paragraphs (j)(3), (j)(4), and (j)(5) of this section, and will recover past payments to the provider to the extent described in paragraph (j)(1)(ii) of this section.
 
-(m) *Status of Indian Health Service and Tribal facilities and organizations.* Facilities and organizations operated by the Indian Health Service or Tribes will be considered to be departments of hospitals operated by the Indian Health Service or Tribes if, on or before April 7, 2000, they furnished only services that were billed as if they had been furnished by a department of a hospital operated by the Indian Health Service or a Tribe and they are:
+(m) *Status of Indian Health Service and Tribal facilities and organizations.* Facilities and organizations operated by the Indian Health Services and Tribes will be considered to be departments of hospitals operated by the Indian Health Service or Tribes if they furnish only services that are billed, using the CCN of the main provider and with the consent of the main provider, as if they had been furnished by a department of a hospital operated by the Indian Health Service or a Tribe and they are:
 
 (1) Owned and operated by the Indian Health Service;
 
@@ -260,14 +258,14 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (3) Owned by the Indian Health Service but leased and operated by the Tribe under the Indian Self-Determination Act (Pub. L. 93-638) in accordance with applicable regulations and policies of the Indian Health Service in consultation with Tribes.
 
-(n) *FQHCs and “look alikes.”* A facility that has, since April 7, 1995, furnished only services that were billed as if they had been furnished by a department of a provider will continue to be treated, for purposes of this section, as a department of the provider without regard to whether it complies with the criteria for provider-based status in this section, if the facility -
+(n) *FQHCs and “look alikes.”* A facility that has, since April 7, 1995, furnished only services that were billed as if they had been furnished by a department of a provider will continue to be treated, for purposes of this section, as a department of the provider without regard to whether it complies with the criteria for provider-based status in this section, if the facility—
 
 (1) Received a grant on or before April 7, 2000 under section 330 of the Public Health Service Act and continues to receive funding under such a grant, or is receiving funding from a grant made on or before April 7, 2000 under section 330 of the Public Health Service Act under a contract with the beneficiary of such a grant, and continues to meet the requirements to receive a grant under section 330 of the Public Health Service Act; or
 
 (2) Based on the recommendation of the Public Health Service, was determined by CMS on or before April 7, 2000 to meet the requirements for receiving a grant under section 330 of the Public Health Service Act, and continues to meet such requirements.
 
-(o) *Effective date of provider-based status* - (1) *General rule.* Provider-based status for a facility or organization is effective on the earliest date all of the requirements of this part have been met.
+(o) *Effective date of provider-based status*—(1) *General rule.* Provider-based status for a facility or organization is effective on the earliest date all of the requirements of this part have been met.
 
 (2) *Inappropriate treatment as provider-based or not reporting material change.* Effective for any period on or after October 1, 2002 (or, in the case of facilities or organizations described in paragraph (b)(2) of this section, for cost reporting periods starting on or after July 1, 2003), if a facility or organization is found by CMS to have been inappropriately treated as provider-based under paragraph (j) of this section for those periods, or previously was determined by CMS to be provider-based but no longer qualifies as provider-based because of a material change occurring during those periods that was not reported to CMS under paragraph (c) of this section, CMS will not treat the facility or organization as provider-based for payment purposes until CMS has determined, based on documentation submitted by the provider, that the facility or organization meets all requirements for provider-based status under this part
 
-\[65 FR 18538, Apr. 7, 2000, as amended at 65 FR 58920, Oct. 3, 2000; 66 FR 1599, Jan. 9, 2001; 66 FR 59920, Nov. 30, 2001; 67 FR 50114, Aug. 1, 2002; 68 FR 46070, Aug. 4, 2003; 68 FR 53261, Sept. 9, 2003; 70 FR 47487, Aug. 12, 2005; 74 FR 44000, Aug. 27, 2009\]
+\[65 FR 18538, Apr. 7, 2000, as amended at 65 FR 58920, Oct. 3, 2000; 66 FR 1599, Jan. 9, 2001; 66 FR 59920, Nov. 30, 2001; 67 FR 50114, Aug. 1, 2002; 68 FR 46070, Aug. 4, 2003; 68 FR 53261, Sept. 9, 2003; 70 FR 47487, Aug. 12, 2005; 74 FR 44000, Aug. 27, 2009; 82 FR 38515, Aug. 14, 2017\]

@@ -1,7 +1,5 @@
 ##### § 413.337 Methodology for calculating the prospective payment rates.
 
-Link to an amendment published at 82 FR 36633, Aug. 4, 2017.
-
 (a) *Data used.* (1) To calculate the prospective payment rates, CMS uses -
 
 (i) Medicare data on allowable costs from freestanding and hospital-based SNFs for cost reporting periods beginning in fiscal year 1995. SNFs that received “new provider” exemptions under § 413.30(e)(2) are excluded from the data base used to compute the Federal payment rates. In addition, allowable costs related to exceptions payments under § 413.30(f) are excluded from the data base used to compute the Federal payment rates;
@@ -54,6 +52,14 @@ Link to an amendment published at 82 FR 36633, Aug. 4, 2017.
 
 (3) *Multifactor productivity (MFP) adjustment.* For fiscal year 2012 and each subsequent fiscal year, the SNF market basket index percentage change for the fiscal year (as modified by any applicable forecast error adjustment under paragraph (d)(2) of this section) shall be reduced by the MFP adjustment described in section 1886(b)(3)(B)(xi)(II) of the Act. The reduction of the market basket index percentage change by the MFP adjustment may result in the market basket index percentage change being less than zero for a fiscal year, and may result in the unadjusted Federal payment rates for a fiscal year being less than such payment rates for the preceding fiscal year.
 
+(4) *Penalty for failure to report quality data.* For fiscal year 2018 and subsequent fiscal years -
+
+(i) In the case of a SNF that does not meet the requirements in § 413.360, for a fiscal year, the SNF market basket index percentage change for the fiscal year (as specified in paragraph (d)(1)(v) of this section, as modified by any applicable forecast error adjustment under paragraph (d)(2) of this section, reduced by the MFP adjustment specified in paragraph (d)(3) of this section, and as specified for FY 2018 in section 1888(e)(5)(B)(iii) of the Act), is further reduced by 2.0 percentage points.
+
+(ii) The application of the 2.0 percentage point reduction specified in paragraph (d)(4)(i) of this section to the SNF market basket index percentage change may result in such percentage being less than zero for a fiscal year, and may result in payment rates for that fiscal year being less than such payment rates for the preceding fiscal year.
+
+(iii) Any 2.0 percentage point reduction applied pursuant to paragraph (d)(4)(i) of this section will apply only to the fiscal year involved and will not be taken into account in computing the payment amount for a subsequent fiscal year.
+
 (e) Pursuant to section 101 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999 (BBRA) as revised by section 314 of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000 (BIPA), using the best available data, the Secretary will issue a new regulation with a newly refined case-mix classification system to better account for medically complex patients. Upon issuance of the new regulation, the temporary increases in payment for certain high cost patients will no longer be applicable.
 
-\[63 FR 26309, May 12, 1998, as amended at 66 FR 39600, July 31, 2001; 68 FR 46070, Aug. 4, 2003; 76 FR 48539, Aug. 8, 2011\]
+\[63 FR 26309, May 12, 1998, as amended at 66 FR 39600, July 31, 2001; 68 FR 46070, Aug. 4, 2003; 76 FR 48539, Aug. 8, 2011; 82 FR 36633, Aug. 4, 2017\]

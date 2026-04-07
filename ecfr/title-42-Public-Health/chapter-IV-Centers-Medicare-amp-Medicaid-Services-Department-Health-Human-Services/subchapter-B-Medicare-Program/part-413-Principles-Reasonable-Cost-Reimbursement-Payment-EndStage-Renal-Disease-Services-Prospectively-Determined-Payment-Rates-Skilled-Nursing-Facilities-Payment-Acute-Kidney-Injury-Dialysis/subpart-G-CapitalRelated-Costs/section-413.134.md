@@ -1,14 +1,12 @@
 ##### § 413.134 Depreciation: Allowance for depreciation based on asset costs.
 
-Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
-
-(a) *Principle.* An appropriate allowance for depreciation on buildings and equipment used in the provision of patient care is an allowable cost. The depreciation must be -
+(a) *Principle.* An appropriate allowance for depreciation on buildings and equipment used in the provision of patient care is an allowable cost. The depreciation must be—
 
 (1) Identifiable and recorded in the provider's accounting records;
 
 (2) Based on the historical cost of the asset, except as specified in paragraph (j) of this section regarding donated assets; and
 
-(3) Prorated over the estimated useful life of the asset using -
+(3) Prorated over the estimated useful life of the asset using—
 
 (i) The straight-line method; or
 
@@ -24,9 +22,9 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (iii) A declining balance method, not to exceed 150 percent of the straight-line rate, for a depreciable asset acquired after July 31, 1970; however, this declining balance method may be used only if the cash flow from depreciation on the total assets of the institution during the reporting period, including straight-line depreciation on the assets in question, is insufficient (assuming funding of available capital not required currently for amortization and assuming reasonable interest income on such funds) to supply the funds required to meet the reasonable principal amortization schedules on the capital debts related to the provider's total depreciable assets. For each depreciable asset for which a provider requests authorization to use a declining balance method for Medicare reimbursement purposes, but not to exceed 150 percent of the straight-line rate, the provider must demonstrate to the contractor's satisfaction that the required cash flow need exists. For each depreciable asset in which a provider justifies the use of accelerated depreciation, the contractor must give written approval for the use of a depreciation method other than straight-line before basing any interim payment on this accelerated depreciation or making its reasonable cost determination which includes an allowance for such depreciation.
 
-(b) *General rules* - (1) *Historical cost.* Historical cost is the cost incurred by the present owner in acquiring the asset.
+(b) *General rules*—(1) *Historical cost.* Historical cost is the cost incurred by the present owner in acquiring the asset.
 
-(i) *All providers* - (A) *Depreciable assets acquired after July 31, 1970 and before December 1, 1997.* For depreciable assets acquired after July 31, 1970 and before December 1, 1997, and for a hospital or an SNF, acquired before July 18, 1984, the historical cost may not exceed the lower of current reproduction cost adjusted for straight-line depreciation over the life of the asset to the time of the purchase or the fair market value of the asset at the time of its purchase.
+(i) *All providers*—(A) *Depreciable assets acquired after July 31, 1970 and before December 1, 1997.* For depreciable assets acquired after July 31, 1970 and before December 1, 1997, and for a hospital or an SNF, acquired before July 18, 1984, the historical cost may not exceed the lower of current reproduction cost adjusted for straight-line depreciation over the life of the asset to the time of the purchase or the fair market value of the asset at the time of its purchase.
 
 (B) *Depreciable assets acquired on or after December 1, 1997.* For depreciable assets acquired on or after December 1, 1997, the historical cost of the asset that will be recognized under this program must not exceed the historical cost less depreciation allowed to the owner of record as of August 5, 1997 (or if an asset did not exist as of August 5, 1997, the first owner of record after August 5, 1997). For this paragraph (b)(1)(i)(B), the following apply:
 
@@ -76,7 +74,7 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (7) *Useful life.* The estimated useful life of a depreciable asset is its normal operating or service life to the provider, subject to the provisions in paragraph (b)(7)(i) of this section. Factors to be considered in determining useful life include normal wear and tear; obsolescence due to normal economic and technological changes; climatic and other local conditions; and the provider's policy for repairs and replacement.
 
-(i) *Initial selection of useful life.* In selecting a proper useful life for computing depreciation under the Medicare program, providers must use the useful life guidelines published by CMS. If CMS has not published applicable useful life guidelines, providers must use -
+(i) *Initial selection of useful life.* In selecting a proper useful life for computing depreciation under the Medicare program, providers must use the useful life guidelines published by CMS. If CMS has not published applicable useful life guidelines, providers must use—
 
 (A) The edition of the American Hospital Association useful life guidelines, as specified in CMS Medicare program manuals; or
 
@@ -92,13 +90,13 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (c) *Recording of depreciation.* Appropriate recording of depreciation includes the identification of the depreciable assets in use, the assets' historical costs, the assets' dates of acquisition, the method of depreciation, estimated useful lives, and the assets' accumulated depreciation.
 
-(d) *Depreciation methods* - (1) *General.* Proration of the cost of an asset over its useful life is allowed on the straight-line method, or, when permitted under paragraph (a)(3) of this section, the declining balance or the sum-of-the-years' digits methods. One method may be used on a single asset or group of assets and another method on others. In applying the declining balance or sum-of-the-years' digits method to an asset that is not new, the undepreciated cost of the asset is treated as the cost of a new asset in computing depreciation.
+(d) *Depreciation methods*—(1) *General.* Proration of the cost of an asset over its useful life is allowed on the straight-line method, or, when permitted under paragraph (a)(3) of this section, the declining balance or the sum-of-the-years' digits methods. One method may be used on a single asset or group of assets and another method on others. In applying the declining balance or sum-of-the-years' digits method to an asset that is not new, the undepreciated cost of the asset is treated as the cost of a new asset in computing depreciation.
 
 (2) *Change in method.* Prior to August 1, 1970, a provider may change from the straight-line method to an accelerated method or vice versa, upon advance approval from the contractor on a prospective basis with the request being made before the end of the first month of the prospective reporting period. Only one such change with respect to a particular asset may be made by a provider. Effective with August 1, 1970, a provider may only change from an accelerated method or optional method (see § 413.139) to the straight-line method. Such a change may be made without contractor approval and the basis for depreciation is the undepreciated cost reduced by the salvage value. Thereafter, once straight-line depreciation is selected for a particular asset, an accelerated method may not be established for that asset.
 
-(3) *Recovery of accelerated depreciation* - (i) *General.* If a provider who has used an accelerated method of depreciation for any of its assets terminates participation in the program, or if the Medicare proportion of its allowable costs decreases so that cumulatively substantially more depreciation was paid than would have been paid using the straight-line method of depreciation, the excess of reimbursable cost determined by using accelerated depreciation methods and paid under the program over the reimbursable cost that would have been determined and paid under the program by using the straight-line method of depreciation, will be recovered as an offset to current reimbursement due or, if the provider has terminated participation in the program, as an overpayment. In this determination of excess payment, recognition will be given to the effects the adjustment to straight-line depreciation would have on the return on equity capital and on the allowance in lieu of specific recognition of other costs in the respective years.
+(3) *Recovery of accelerated depreciation*—(i) *General.* If a provider who has used an accelerated method of depreciation for any of its assets terminates participation in the program, or if the Medicare proportion of its allowable costs decreases so that cumulatively substantially more depreciation was paid than would have been paid using the straight-line method of depreciation, the excess of reimbursable cost determined by using accelerated depreciation methods and paid under the program over the reimbursable cost that would have been determined and paid under the program by using the straight-line method of depreciation, will be recovered as an offset to current reimbursement due or, if the provider has terminated participation in the program, as an overpayment. In this determination of excess payment, recognition will be given to the effects the adjustment to straight-line depreciation would have on the return on equity capital and on the allowance in lieu of specific recognition of other costs in the respective years.
 
-(ii) *Transaction between related organizations* - (A) *General.* If the termination of the provider agreement is due to a change in provider ownership, as defined in § 489.18 of this chapter, resulting from a transaction between related organizations, as defined in § 413.17, and the criteria in paragraph (b) of this section are met, the excess of reimbursable cost, as determined in paragraph (d)(3)(i) of this section may not be recovered if there is a continuation of participation by the facility in the Medicare program.
+(ii) *Transaction between related organizations*—(A) *General.* If the termination of the provider agreement is due to a change in provider ownership, as defined in § 489.18 of this chapter, resulting from a transaction between related organizations, as defined in § 413.17, and the criteria in paragraph (b) of this section are met, the excess of reimbursable cost, as determined in paragraph (d)(3)(i) of this section may not be recovered if there is a continuation of participation by the facility in the Medicare program.
 
 (B) *Criteria.* The following criteria must be met if the recovery of excess reimbursable cost is not to be made:
 
@@ -130,7 +128,7 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (iv) When only a portion of the borrowing is considered unnecessary under paragraph (e)(2)(ii) of this section, subsequent repayments of such borrowing from general funds are applied first to the allowable portion of the borrowing and then, when all of the allowable borrowing is repaid, to the unallowable portion of the borrowing. When funds from the funded depreciation account are used for the repayment of the unnecessary borrowing, an equivalent amount of tainted funds is cured without regard to the provisions of paragraphs (e)(2)(ii) and (e)(3)(i)(C) of this section. Similarly, where general funds are used to pay for the unallowable borrowing after the necessary borrowing has been repaid, an equivalent amount of tainted funded depreciation is cured without regard to the provisions of paragraphs (e)(2)(ii) and (e)(3)(i)(C) of this section.
 
-(3) *Withdrawals of funded depreciation* - (i) *Proper withdrawals.* (A) Withdrawals from funded depreciation are considered proper if made either for the acquisition or replacement of depreciable assets related to the furnishing of patient care or for other capital purposes related to patient care.
+(3) *Withdrawals of funded depreciation*—(i) *Proper withdrawals.* (A) Withdrawals from funded depreciation are considered proper if made either for the acquisition or replacement of depreciable assets related to the furnishing of patient care or for other capital purposes related to patient care.
 
 (B) *First-in, first-out basis.* Proper withdrawals from funded depreciation are made on a first-in, first-out basis.
 
@@ -158,7 +156,19 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (D) The funded depreciation account must earn interest on such loans at a rate that does not exceed the rate that would be charged for a comparable loan from an independent lending institution. This investment income will not be used to reduce the provider's interest expense if all the other conditions in paragraph (e) of this section are met. If the entity borrowing the funds is another provider participating in the Medicare program, the interest expense incurred on such loans would be allowable if the loan meets all of the interest expense requirements specified in § 413.153. (For purposes of § 413.153(b)(3)(ii), such loans are not considered to be with a related lender.)
 
-(f) *Gains and losses on disposal of assets* - (1) *General.* Depreciable assets may be disposed of through sale, scrapping, trade-in, exchange, demolition, abandonment, condemnation, fire, theft, or other casualty. If disposal of a depreciable asset, including the sale or scrapping of an asset before December 1, 1997, results in a gain or loss, an adjustment is necessary in the provider's allowable cost. (No gain or loss is recognized on either the sale or the scrapping of an asset that occurs on or after December 1, 1997.) The amount of a gain included in the determination of allowable cost is limited to the amount of depreciation previously included in Medicare allowable costs. The amount of a loss to be included is limited to the undepreciated basis of the asset permitted under the program. The treatment of the gain or loss depends upon the manner of disposition of the asset, as specified in paragraphs (f)(2) through (6) of this section. The gain or loss on the disposition of depreciable assets has no retroactive effect on a proprietary provider's equity capital for years prior to the year of disposition.
+(f) *Gains and losses on disposal of assets*—(1) *General.* Depreciable assets may be disposed of through sale, scrapping, trade-in, exchange, demolition, abandonment, condemnation, fire, theft, or other casualty.
+
+(i) *Disposal of an asset before December 1, 1997.* If disposal of a depreciable asset, including the sale or scrapping of an asset before December 1, 1997, results in a gain or loss, an adjustment is necessary in the provider's allowable cost.
+
+(A) The amount of a gain included in the determination of allowable cost is limited to the amount of depreciation previously included in Medicare allowable costs.
+
+(B) The amount of a loss to be included is limited to the undepreciated basis of the asset permitted under the program.
+
+(C) The treatment of the gain or loss depends upon the manner of disposition of the asset, as specified in paragraphs (f)(2) through (6) of this section.
+
+(D) The gain or loss on the disposition of depreciable assets has no retroactive effect on a proprietary provider's equity capital for years prior to the year of disposition.
+
+(ii) *Disposal of an asset on or after December 1, 1997.* No gain or loss is recognized on either the sale or scrapping of an asset that occurs on or after December 1, 1997, regardless of whether the asset is sold incident to a provider's change of ownership, or otherwise sold or scrapped as an asset of a Medicare participating provider. Gains or losses on dispositions other than sales or scrapping are recognized to the same extent as prior to December 1, 1997.
 
 (2) *Bona fide sale or scrapping before December 1, 1997.* For the bona fide sale or scrapping of depreciable assets before December 1, 1997, the following apply:
 
@@ -214,7 +224,7 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (8) *Sale of replacement or restored assets.* If a provider sells a replacement or restored asset while participating in the Medicare program or within 1 year immediately following the date on which it terminates its participation in the Medicare program, the unrecovered loss entered on the books of the provider as a deferred charge in accordance with paragraphs (f) (5) and (6) of this section will not be included in determining the gain or loss realized from the sale of the replacement or restored asset. However, if the sale of such asset is made to a related organization, as defined in § 413.17, and the purchasing organization continues as a provider in the Medicare program, the remaining deferred charge representing the unrecovered depreciable basis of the demolished, abandoned or destroyed asset must continue to be amortized over the remaining expected useful life of the replacement or restored asset. If the sale is made to an unrelated organization, further amortization of the deferred charge is not allowed.
 
-(g) *Establishment of cost basis on purchase of facility as an ongoing operation* - (1) *Assets acquired after July 1, 1966 and before August 1, 1970.* The cost basis for the assets of a facility purchased as an ongoing operation after July 1, 1966, and before August 1, 1970, is the lowest of the -
+(g) *Establishment of cost basis on purchase of facility as an ongoing operation*—(1) *Assets acquired after July 1, 1966 and before August 1, 1970.* The cost basis for the assets of a facility purchased as an ongoing operation after July 1, 1966, and before August 1, 1970, is the lowest of the—
 
 (i) Total price paid for the facility by the purchaser, as allocated to the individual assets of the facility;
 
@@ -236,7 +246,7 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (5) *Transactions other than bona fide.* If the purchaser cannot demonstrate that the sale was bona fide, in addition to the limitations specified in paragraph (g)(1), (2), and (3) of this section, the purchaser's cost basis may not exceed the seller's cost basis, less accumulated depreciation.
 
-(h) *Sale and leaseback agreements and other lease transactions.* (1) For sale and leaseback agreements for all providers, and for sale and leaseback agreements for hospitals and SNFs entered into before October 23, 1992, a provider may include in its allowable costs incurred rental charges, as specified in a sale and leaseback agreement with a nonrelated purchaser involving plant facilities or equipment, only if -
+(h) *Sale and leaseback agreements and other lease transactions.* (1) For sale and leaseback agreements for all providers, and for sale and leaseback agreements for hospitals and SNFs entered into before October 23, 1992, a provider may include in its allowable costs incurred rental charges, as specified in a sale and leaseback agreement with a nonrelated purchaser involving plant facilities or equipment, only if—
 
 (i) The rental charges are reasonable based on consideration of rental charges of comparable facilities and market conditions in the area; the type, expected life, condition, and value of the facilities or equipment rented; and other provisions of the rental agreement;
 
@@ -300,15 +310,15 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (2) The fair market value at the time of donation under a bona fide donation of the asset (subject to the limitations set forth under paragraph (i) of this section). An asset is considered donated when a governmental entity acquires the asset without assuming the functions for which the transferor used the asset or making any payment for it in the form of cash, property, or services.
 
-(3) If neither paragraph (h) (1) nor (2) of this section applies, for example, the transfer was solely to facilitate administration or to reallocate jurisdictional responsibility, or the transfer constituted a taking over in whole or in part of the function of one governmental entity by another governmental entity, the basis for depreciation is -
+(3) If neither paragraph (h) (1) nor (2) of this section applies, for example, the transfer was solely to facilitate administration or to reallocate jurisdictional responsibility, or the transfer constituted a taking over in whole or in part of the function of one governmental entity by another governmental entity, the basis for depreciation is—
 
 (i) With respect to an asset on which the transferor has claimed depreciation under the Medicare program, the transferor's basis under the Medicare program prior to the transfer. The method of depreciation used by the transferee may be the same as that used by the transferor, or the transferee may change the method, as permitted under paragraph (d)(2) of this section; or
 
 (ii) With respect to an asset on which the transferor has not claimed depreciation under the Medicare program, the cost incurred by the transferor in acquiring the asset (not to exceed the basis that would have been recognized had the transferor participated in the Medicare program) less depreciation calculated on the straight-line basis over the life of the asset to the time of transfer.
 
-(j) *Basis of assets donated to a provider* - (1) Assets not used or depreciated under the Medicare program. If an asset has never been used or depreciated under the Medicare program and is donated to a provider, the basis for the purpose of calculating depreciation and equity capital (if applicable) is the fair market value of the asset at the time of donation.
+(j) *Basis of assets donated to a provider*—(1) Assets not used or depreciated under the Medicare program. If an asset has never been used or depreciated under the Medicare program and is donated to a provider, the basis for the purpose of calculating depreciation and equity capital (if applicable) is the fair market value of the asset at the time of donation.
 
-(2) *Assets used or depreciated under the Medicare program.* If an asset has been used or depreciated under the Medicare program and is donated to a provider, the basis for the purpose of calculating depreciation and equity capital (if applicable) is the lesser of -
+(2) *Assets used or depreciated under the Medicare program.* If an asset has been used or depreciated under the Medicare program and is donated to a provider, the basis for the purpose of calculating depreciation and equity capital (if applicable) is the lesser of—
 
 (i) The fair market value at the time of donation; or
 
@@ -316,7 +326,7 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (3) *Transfers of State hospitals to nonprofit corporations without monetary consideration.* If a State transfers a hospital to a nonprofit corporation without monetary consideration on or after July 18, 1984, the depreciable basis of the assets to the new owner is the net book value of the assets as recorded on the State's books at the time of the transfer. For purposes of this section, monetary consideration includes cash, new debt, and assumed debt.
 
-(k) *Transactions involving a provider's capital stock* - (1) *Acquisition of capital stock of a provider.* If the capital stock of a provider is acquired, the provider's assets may not be revalued. For example, if Corporation A purchases the capital stock of Corporation B, the provider, Corporation B continues to be the provider after the purchase and Corporation A is merely the stockholder. Corporation B's assets may not be revalued.
+(k) *Transactions involving a provider's capital stock*—(1) *Acquisition of capital stock of a provider.* If the capital stock of a provider is acquired, the provider's assets may not be revalued. For example, if Corporation A purchases the capital stock of Corporation B, the provider, Corporation B continues to be the provider after the purchase and Corporation A is merely the stockholder. Corporation B's assets may not be revalued.
 
 (2) *Statutory merger.* A statutory merger is a combination of two or more corporations under the corporation laws of the State, with one of the corporations surviving. The surviving corporation acquires the assets and liabilities of the merged corporation(s) by operation of State law. The effect of a statutory merger upon Medicare reimbursement is as follows:
 
@@ -330,4 +340,4 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (ii) *Consolidation between related parties.* If the consolidation is between two or more related corporations (as specified in § 413.17), no revaluation of provider assets is permitted.
 
-\[51 FR 34793, Sept. 30, 1986, as amended at 56 FR 43456, Aug. 30, 1991; 57 FR 3017, Jan. 27, 1992; 57 FR 39830, Sept. 1, 1992; 57 FR 43919, Sept. 23, 1992; 58 FR 17528, Apr. 5, 1993; 59 FR 45401, Sept. 1, 1994; 63 FR 1382, Jan. 9, 1998; 65 FR 8662, Feb. 22, 2000\]
+\[51 FR 34793, Sept. 30, 1986, as amended at 56 FR 43456, Aug. 30, 1991; 57 FR 3017, Jan. 27, 1992; 57 FR 39830, Sept. 1, 1992; 57 FR 43919, Sept. 23, 1992; 58 FR 17528, Apr. 5, 1993; 59 FR 45401, Sept. 1, 1994; 63 FR 1382, Jan. 9, 1998; 65 FR 8662, Feb. 22, 2000; 82 FR 38515, Aug. 14, 2017\]
