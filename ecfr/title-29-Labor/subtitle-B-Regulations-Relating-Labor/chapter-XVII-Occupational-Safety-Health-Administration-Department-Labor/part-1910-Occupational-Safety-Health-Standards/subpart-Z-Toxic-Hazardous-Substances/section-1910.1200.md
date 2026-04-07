@@ -1,5 +1,7 @@
 ##### § 1910.1200 Hazard communication.
 
+Link to an amendment published at 89 FR 44356, May 20, 2024.
+
 (a) *Purpose.* (1) The purpose of this section is to ensure that the hazards of all chemicals produced or imported are classified, and that information concerning the classified hazards is transmitted to employers and employees. The requirements of this section are intended to be consistent with the provisions of the United Nations Globally Harmonized System of Classification and Labelling of Chemicals (GHS), Revision 3. The transmittal of information is to be accomplished by means of comprehensive hazard communication programs, which are to include container labeling and other forms of warning, safety data sheets and employee training.
 
 (2) This occupational safety and health standard is intended to address comprehensively the issue of classifying the potential hazards of chemicals, and communicating information concerning hazards and appropriate protective measures to employees, and to preempt any legislative or regulatory enactments of a state, or political subdivision of a state, pertaining to this subject. Classifying the potential hazards of chemicals and communicating information concerning hazards and appropriate protective measures to employees, may include, for example, but is not limited to, provisions for: developing and maintaining a written hazard communication program for the workplace, including lists of hazardous chemicals present; labeling of containers of chemicals in the workplace, as well as of containers of chemicals being shipped to other workplaces; preparation and distribution of safety data sheets to employees and downstream employers; and development and implementation of employee training programs regarding hazards of chemicals and protective measures. Under section 18 of the Act, no state or political subdivision of a state may adopt or enforce any requirement relating to the issue addressed by this Federal standard, except pursuant to a Federally-approved state plan.
@@ -537,54 +539,40 @@ A.1.2 Classification Criteria for Substances
 A.1.2.1 Substances can be allocated to one of four toxicity categories based on acute toxicity by the oral, dermal or inhalation route according to the numeric cut-off criteria as shown in Table A.1.1. Acute toxicity values are expressed as (approximate) LD50 (oral, dermal) or LC50 (inhalation) values or as acute toxicity estimates (ATE). See the footnotes following Table A.1.1 for further explanation on the application of these values.
 
 Table A.1.1—Acute Toxicity Hazard Categories and Acute Toxicity Estimate (ATE) Values Defining the Respective Categories
-
-| Exposure route                    | Category 1 | Category 2      | Category 3      | Category 4         |
-| --------------------------------- | ---------- | --------------- | --------------- | ------------------ |
-| Oral (mg/kg bodyweight)           |            |                 |                 |                    |
-| see: Note (a)                     | ≤5         | \>5 and ≤50     | \>50 and ≤300   | \>300 and ≤2000.   |
-| Note (b)                          |            |                 |                 |                    |
-| Dermal (mg/kg bodyweight)         |            |                 |                 |                    |
-| see: Note (a)                     | ≤50        | \>50 and ≤200   | \>200 and ≤1000 | \>1000 and ≤2000.  |
-| Note (b)                          |            |                 |                 |                    |
-| Inhalation—Gases (ppmV)           |            |                 |                 |                    |
-| see: Note (a)                     | ≤100       | \>100 and ≤500  | \>500 and ≤2500 | \>2500 and ≤20000. |
-| Note (b)                          |            |                 |                 |                    |
-| Note (c)                          |            |                 |                 |                    |
-| Inhalation—Vapors (mg/l)          |            |                 |                 |                    |
-| see: Note (a)                     | ≤0.5       | \>0.5 and ≤2.0  | \>2.0 and ≤10.0 | \>10.0 and ≤20.0.  |
-| Note (b)                          |            |                 |                 |                    |
-| Note (c)                          |            |                 |                 |                    |
-| Note (d)                          |            |                 |                 |                    |
-| Inhalation—Dusts and Mists (mg/l) |            |                 |                 |                    |
-| see: Note (a)                     | ≤0.05      | \>0.05 and ≤0.5 | \>0.5 and ≤1.0  | \>1.0 and ≤5.0.    |
-| Note (b)                          |            |                 |                 |                    |
-| Note (c)                          |            |                 |                 |                    |
-
-Note:Gas concentrations are expressed in parts per million per volume (ppmV).
-
-Notes to Table A.1.1:
-
-(a) The acute toxicity estimate (ATE) for the classification of a substance is derived using the LD50/LC50where available;
-
-(b) The acute toxicity estimate (ATE) for the classification of a substance or ingredient in a mixture is derived using:
-
-(i) the LD50/LC50where available. Otherwise,
-
-(ii) the appropriate conversion value from Table 1.2 that relates to the results of a range test, or
-
-(iii) the appropriate conversion value from Table 1.2 that relates to a classification category;
-
-(c) Inhalation cut-off values in the table are based on 4 hour testing exposures. Conversion of existing inhalation toxicity data which has been generated according to 1 hour exposure is achieved by dividing by a factor of 2 for gases and vapors and 4 for dusts and mists;
-
-(d) For some substances the test atmosphere will be a vapor which consists of a combination of liquid and gaseous phases. For other substances the test atmosphere may consist of a vapor which is nearly all the gaseous phase. In these latter cases, classification is based on ppmV as follows: Category 1 (100 ppmV), Category 2 (500 ppmV), Category 3 (2500 ppmV), Category 4 (20000 ppmV).
-
-The terms “dust”, “mist” and “vapor” are defined as follows:
-
-(i) Dust: solid particles of a substance or mixture suspended in a gas (usually air);
-
-(ii) Mist: liquid droplets of a substance or mixture suspended in a gas (usually air);
-
-(iii) Vapor: the gaseous form of a substance or mixture released from its liquid or solid state.
+| Exposure route                                                                                                                                                                                                                                                                                                                                                                                     | Category 1 | Category 2      | Category 3      | Category 4         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | --------------- | ------------------ |
+| Oral (mg/kg bodyweight)                                                                                                                                                                                                                                                                                                                                                                            |            |                 |                 |                    |
+| see: Note (a)                                                                                                                                                                                                                                                                                                                                                                                      | ≤5         | \>5 and ≤50     | \>50 and ≤300   | \>300 and ≤2000.   |
+| Note (b)                                                                                                                                                                                                                                                                                                                                                                                           |            |                 |                 |                    |
+| Dermal (mg/kg bodyweight)                                                                                                                                                                                                                                                                                                                                                                          |            |                 |                 |                    |
+| see: Note (a)                                                                                                                                                                                                                                                                                                                                                                                      | ≤50        | \>50 and ≤200   | \>200 and ≤1000 | \>1000 and ≤2000.  |
+| Note (b)                                                                                                                                                                                                                                                                                                                                                                                           |            |                 |                 |                    |
+| Inhalation—Gases (ppmV)                                                                                                                                                                                                                                                                                                                                                                            |            |                 |                 |                    |
+| see: Note (a)                                                                                                                                                                                                                                                                                                                                                                                      | ≤100       | \>100 and ≤500  | \>500 and ≤2500 | \>2500 and ≤20000. |
+| Note (b)                                                                                                                                                                                                                                                                                                                                                                                           |            |                 |                 |                    |
+| Note (c)                                                                                                                                                                                                                                                                                                                                                                                           |            |                 |                 |                    |
+| Inhalation—Vapors (mg/l)                                                                                                                                                                                                                                                                                                                                                                           |            |                 |                 |                    |
+| see: Note (a)                                                                                                                                                                                                                                                                                                                                                                                      | ≤0.5       | \>0.5 and ≤2.0  | \>2.0 and ≤10.0 | \>10.0 and ≤20.0.  |
+| Note (b)                                                                                                                                                                                                                                                                                                                                                                                           |            |                 |                 |                    |
+| Note (c)                                                                                                                                                                                                                                                                                                                                                                                           |            |                 |                 |                    |
+| Note (d)                                                                                                                                                                                                                                                                                                                                                                                           |            |                 |                 |                    |
+| Inhalation—Dusts and Mists (mg/l)                                                                                                                                                                                                                                                                                                                                                                  |            |                 |                 |                    |
+| see: Note (a)                                                                                                                                                                                                                                                                                                                                                                                      | ≤0.05      | \>0.05 and ≤0.5 | \>0.5 and ≤1.0  | \>1.0 and ≤5.0.    |
+| Note (b)                                                                                                                                                                                                                                                                                                                                                                                           |            |                 |                 |                    |
+| Note (c)                                                                                                                                                                                                                                                                                                                                                                                           |            |                 |                 |                    |
+| **Note:**Gas concentrations are expressed in parts per million per volume (ppmV).                                                                                                                                                                                                                                                                                                                  |            |                 |                 |                    |
+| Notes to Table A.1.1:                                                                                                                                                                                                                                                                                                                                                                              |            |                 |                 |                    |
+| (a) The acute toxicity estimate (ATE) for the classification of a substance is derived using the LD*50*/LC*50*where available;                                                                                                                                                                                                                                                                     |            |                 |                 |                    |
+| (b) The acute toxicity estimate (ATE) for the classification of a substance or ingredient in a mixture is derived using:                                                                                                                                                                                                                                                                           |            |                 |                 |                    |
+| (i) the LD*50*/LC*50*where available. Otherwise,                                                                                                                                                                                                                                                                                                                                                   |            |                 |                 |                    |
+| (ii) the appropriate conversion value from Table 1.2 that relates to the results of a range test, or                                                                                                                                                                                                                                                                                               |            |                 |                 |                    |
+| (iii) the appropriate conversion value from Table 1.2 that relates to a classification category;                                                                                                                                                                                                                                                                                                   |            |                 |                 |                    |
+| (c) Inhalation cut-off values in the table are based on 4 hour testing exposures. Conversion of existing inhalation toxicity data which has been generated according to 1 hour exposure is achieved by dividing by a factor of 2 for gases and vapors and 4 for dusts and mists;                                                                                                                   |            |                 |                 |                    |
+| (d) For some substances the test atmosphere will be a vapor which consists of a combination of liquid and gaseous phases. For other substances the test atmosphere may consist of a vapor which is nearly all the gaseous phase. In these latter cases, classification is based on ppmV as follows: Category 1 (100 ppmV), Category 2 (500 ppmV), Category 3 (2500 ppmV), Category 4 (20000 ppmV). |            |                 |                 |                    |
+| The terms “dust”, “mist” and “vapor” are defined as follows:                                                                                                                                                                                                                                                                                                                                       |            |                 |                 |                    |
+| (i) Dust: solid particles of a substance or mixture suspended in a gas (usually air);                                                                                                                                                                                                                                                                                                              |            |                 |                 |                    |
+| (ii) Mist: liquid droplets of a substance or mixture suspended in a gas (usually air);                                                                                                                                                                                                                                                                                                             |            |                 |                 |                    |
+| (iii) Vapor: the gaseous form of a substance or mixture released from its liquid or solid state.                                                                                                                                                                                                                                                                                                   |            |                 |                 |                    |
 
 A.1.2.3 The preferred test species for evaluation of acute toxicity by the oral and inhalation routes is the rat, while the rat or rabbit are preferred for evaluation of acute dermal toxicity. Test data already generated for the classification of chemicals under existing systems should be accepted when reclassifying these chemicals under the harmonized system. When experimental data for acute toxicity are available in several animal species, scientific judgment should be used in selecting the most appropriate LD50 value from among scientifically validated tests.
 
@@ -655,31 +643,29 @@ A.1.3.6.2.4 If the total concentration of the relevant ingredient(s) with unknow
 ![](/graphics/er26mr12.062.gif)
 
 Table A.1.2—Conversion From Experimentally Obtained Acute Toxicity Range Values (or Acute Toxicity Hazard Categories) to Acute Toxicity Point Estimates for Use in the Formulas for the Classification of Mixtures
-
-| Exposure routes           | Classification category or experimentally obtained acute   toxicity range estimate | Converted acute toxicity point estimate |
-| ------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------- |
-| Oral (mg/kg bodyweight )  | 0 \<Category 1 ≤5                                                                  | 0.5                                     |
-|                           | 5 \<Category 2 ≤50                                                                 | 5                                       |
-|                           | 50 \<Category 3 ≤300                                                               | 100                                     |
-|                           | 300 \<Category 4 ≤2000                                                             | 500                                     |
-| Dermal (mg/kg bodyweight) | 0 \<Category 1 ≤50                                                                 | 5                                       |
-|                           | 50 \<Category 2 ≤200                                                               | 50                                      |
-|                           | 200 \<Category 3 ≤1000                                                             | 300                                     |
-|                           | 1000 \<Category 4 ≤2000                                                            | 1100                                    |
-| Gases (ppmV)              | 0 \<Category 1 ≤100                                                                | 10                                      |
-|                           | 100 \<Category 2 ≤500                                                              | 100                                     |
-|                           | 500 \<Category 3 ≤2500                                                             | 700                                     |
-|                           | 2500 \<Category 4 ≤20000                                                           | 4500                                    |
-| Vapors (mg/l)             | 0 \<Category 1 ≤0.5                                                                | 0.05                                    |
-|                           | 0.5 \<Category 2 ≤2.0                                                              | 0.5                                     |
-|                           | 2.0 \<Category 3 ≤10.0                                                             | 3                                       |
-|                           | 10.0 \<Category 4 ≤20.0                                                            | 11                                      |
-| Dust/mist (mg/l)          | 0 \<Category 1 ≤0.05                                                               | 0.005                                   |
-|                           | 0.05 \<Category 2 ≤0.5                                                             | 0.05                                    |
-|                           | 0.5 \<Category 3 ≤1.0                                                              | 0.5                                     |
-|                           | 1.0 \<Category 4 ≤5.0                                                              | 1.5                                     |
-
-Note: Gas concentrations are expressed in parts per million per volume (ppmV).
+| Exposure routes                                                                    | Classification category or experimentally obtained acute   toxicity range estimate | Converted acute toxicity point estimate |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------- |
+| Oral (mg/kg bodyweight )                                                           | 0 \<Category 1 ≤5                                                                  | 0.5                                     |
+|                                                                                    | 5 \<Category 2 ≤50                                                                 | 5                                       |
+|                                                                                    | 50 \<Category 3 ≤300                                                               | 100                                     |
+|                                                                                    | 300 \<Category 4 ≤2000                                                             | 500                                     |
+| Dermal (mg/kg bodyweight)                                                          | 0 \<Category 1 ≤50                                                                 | 5                                       |
+|                                                                                    | 50 \<Category 2 ≤200                                                               | 50                                      |
+|                                                                                    | 200 \<Category 3 ≤1000                                                             | 300                                     |
+|                                                                                    | 1000 \<Category 4 ≤2000                                                            | 1100                                    |
+| Gases (ppmV)                                                                       | 0 \<Category 1 ≤100                                                                | 10                                      |
+|                                                                                    | 100 \<Category 2 ≤500                                                              | 100                                     |
+|                                                                                    | 500 \<Category 3 ≤2500                                                             | 700                                     |
+|                                                                                    | 2500 \<Category 4 ≤20000                                                           | 4500                                    |
+| Vapors (mg/l)                                                                      | 0 \<Category 1 ≤0.5                                                                | 0.05                                    |
+|                                                                                    | 0.5 \<Category 2 ≤2.0                                                              | 0.5                                     |
+|                                                                                    | 2.0 \<Category 3 ≤10.0                                                             | 3                                       |
+|                                                                                    | 10.0 \<Category 4 ≤20.0                                                            | 11                                      |
+| Dust/mist (mg/l)                                                                   | 0 \<Category 1 ≤0.05                                                               | 0.005                                   |
+|                                                                                    | 0.05 \<Category 2 ≤0.5                                                             | 0.05                                    |
+|                                                                                    | 0.5 \<Category 3 ≤1.0                                                              | 0.5                                     |
+|                                                                                    | 1.0 \<Category 4 ≤5.0                                                              | 1.5                                     |
+| **Note:** Gas concentrations are expressed in parts per million per volume (ppmV). |                                                                                    |                                         |
 
 A.2 SKIN CORROSION/IRRITATION A.2.1 Definitions and General Considerations
 
@@ -696,7 +682,6 @@ A.2.2.1.1 A corrosive substance is a chemical that produces destruction of skin 
 A.2.2.1.2 Three sub-categories of Category 1 are provided in Table A.2.1, all of which shall be regulated as Category 1.
 
 Table A.2.1—Skin Corrosion Category and Sub-Categories
-
 | Category 1: corrosive | Corrosive sub-categories | Corrosive in ≥1 of 3 animals |
 | --------------------- | ------------------------ | ---------------------------- |
 |                       | 1A                       | ≤3 min                       |
@@ -708,7 +693,6 @@ A.2.2.2 Irritation
 A.2.2.2.1 A single irritant category (Category 2) is presented in the Table A.2.2. The major criterion for the irritant category is that at least 2 tested animals have a mean score of ≥2.3 ≤4.0.
 
 Table A.2.2—Skin Irritation Category
-
 |                       | Criteria                                                                                                                                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Irritant (Category 2) | (1) Mean value of ≥2.3 ≤4.0 for erythema/eschar or for edema in at least 2 of 3 tested animals from gradings at 24, 48 and 72 hours after patch removal or, if reactions are delayed, from grades on 3 consecutive days after the onset of skin reactions; or |
@@ -756,7 +740,6 @@ A.2.4.3.6 If there are data showing that (an) ingredient(s) may be corrosive or 
 Table A.2.3—Concentration of Ingredients of a Mixture Classified as Skin Category 1 or 2 That Would Trigger Classification of the Mixture as Hazardous to Skin
 
 \[Category 1 or 2\]
-
 | Sum of ingredients classified as:        | Concentration triggering classification of a mixture as: |
 | ---------------------------------------- | -------------------------------------------------------- |
 | Skin Category 1                          | ≥5%                                                      |
@@ -764,7 +747,6 @@ Table A.2.3—Concentration of Ingredients of a Mixture Classified as Skin Categ
 | (10 × Skin Category 1) + Skin Category 2 |                                                          |
 
 Table A.2.4—Concentration of Ingredients of a Mixture for Which the Additivity Approach Does Not Apply, That Would Trigger Classification of the Mixture as Hazardous to Skin
-
 | Ingredient:                                                                                            | Concentration: | Mixture   classified as:   Skin |
 | ------------------------------------------------------------------------------------------------------ | -------------- | ------------------------------- |
 | Acid with pH ≤2                                                                                        | ≥1%            | Category 1.                     |
@@ -787,38 +769,25 @@ A.3.2.1 Irreversible effects on the eye/serious damage to eyes (Category 1).
 A single hazard category is provided in Table A.3.1, for substances that have the potential to seriously damage the eyes. Category 1, irreversible effects on the eye, includes the criteria listed below. These observations include animals with grade 4 cornea lesions and other severe reactions (e.g. destruction of cornea) observed at any time during the test, as well as persistent corneal opacity, discoloration of the cornea by a dye substance, adhesion, pannus, and interference with the function of the iris or other effects that impair sight. In this context, persistent lesions are considered those which are not fully reversible within an observation period of normally 21 days. Category 1 also contains substances fulfilling the criteria of corneal opacity ≥3 and/or iritis >1.5 detected in a Draize eye test with rabbits, because severe lesions like these usually do not reverse within a 21-day observation period.
 
 Table A.3.1—Irreversible Eye Effects
-
-A substance is classified as Serious Eye Damage Category 1 (irreversible effects on the eye) when it produces: 
-
-(a) at least in one tested animal, effects on the cornea, iris or conjunctiva that are not expected to reverse or have not fully reversed within an observation period of normally 21 days; and/or 
-
-(b) at least in 2 of 3 tested animals, a positive response of: 
-
-(i) corneal opacity ≥3; and/or 
-
-(ii) iritis >1.5; 
-
-calculated as the mean scores following grading at 24, 48 and 72 hours after instillation of the substance.
+| A substance is classified as Serious Eye Damage Category 1 (irreversible effects on the eye) when it produces:                                                                                     |
+| (a) at least in one tested animal, effects on the cornea, iris or conjunctiva that are not expected to reverse or have not fully reversed within an observation period of normally 21 days; and/or |
+| (b) at least in 2 of 3 tested animals, a positive response of:                                                                                                                                     |
+| (i) corneal opacity ≥3; and/or                                                                                                                                                                     |
+| (ii) iritis >1.5;                                                                                                                                                                                  |
+| calculated as the mean scores following grading at 24, 48 and 72 hours after instillation of the substance.                                                                                        |
 
 A.3.2.2 Reversible effects on the eye (Category 2).
 
 A single category is provided in Table A.3.2 for substances that have the potential to induce reversible eye irritation.
 
 Table A.3.2—Reversible Eye Effects
-
-A substance is classified as Eye irritant Category 2A (irritating to eyes) when it produces in at least in 2 of 3 tested animals a positive response of: 
-
-(i) corneal opacity ≥1; and/or 
-
-(ii) iritis ≥1; and/or 
-
-(iii) conjunctival redness ≥2; and/or 
-
-(iv) conjunctival edema (chemosis) ≥2 
-
-calculated as the mean scores following grading at 24, 48 and 72 hours after instillation of the substance, and which fully reverses within an observation period of normally 21 days. 
-
-An eye irritant is considered mildly irritating to eyes (Category 2B) when the effects listed above are fully reversible within 7 days of observation.
+| A substance is classified as Eye irritant Category 2A (irritating to eyes) when it produces in at least in 2 of 3 tested animals a positive response of:                               |
+| (i) corneal opacity ≥1; and/or                                                                                                                                                         |
+| (ii) iritis ≥1; and/or                                                                                                                                                                 |
+| (iii) conjunctival redness ≥2; and/or                                                                                                                                                  |
+| (iv) conjunctival edema (chemosis) ≥2                                                                                                                                                  |
+| calculated as the mean scores following grading at 24, 48 and 72 hours after instillation of the substance, and which fully reverses within an observation period of normally 21 days. |
+| An eye irritant is considered mildly irritating to eyes (Category 2B) when the effects listed above are fully reversible within 7 days of observation.                                 |
 
 A.3.2.3 For those chemicals where there is pronounced variability among animal responses, this information may be taken into account in determining the classification.
 
@@ -859,19 +828,16 @@ A.3.4.3.5 On occasion, reliable data may show that the reversible/irreversible e
 A.3.4.3.6 If there are data showing that (an) ingredient(s) may be corrosive or irritant at a concentration of <1% (corrosive) or <3% (irritant), the mixture should be classified accordingly (See also paragraph A.0.4.3, *Use of cut-off values/concentration limits*).
 
 Table A.3.3—Concentration of Ingredients of a Mixture Classified as Skin Category 1 and/or Eye Category 1 or 2 That Would Trigger Classification of the Mixtures as Hazardous to the Eye
-
-| Sum of ingredients classified as:                        | Concentration triggering classification of a mixture as: |
-| -------------------------------------------------------- | -------------------------------------------------------- |
-| Eye or Skin Category 1                                   | ≥3%                                                      |
-| Eye Category 2                                           |                                                          |
-| (10 × Eye Category 1) + Eye Category 2                   |                                                          |
-| Skin Category 1 + Eye Category 1                         | ≥3%                                                      |
-| 10 × (Skin Category 1 + Eye Category 1) + Eye Category 2 |                                                          |
-
-Note:A mixture may be classified as Eye Category 2B in cases when all relevant ingredients are classified as Eye Category 2B.
+| Sum of ingredients classified as:                                                                                                 | Concentration triggering classification of a mixture as: |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Eye or Skin Category 1                                                                                                            | ≥3%                                                      |
+| Eye Category 2                                                                                                                    |                                                          |
+| (10 × Eye Category 1) + Eye Category 2                                                                                            |                                                          |
+| Skin Category 1 + Eye Category 1                                                                                                  | ≥3%                                                      |
+| 10 × (Skin Category 1 + Eye Category 1) + Eye Category 2                                                                          |                                                          |
+| **Note:**A mixture may be classified as Eye Category 2B in cases when all relevant ingredients are classified as Eye Category 2B. |                                                          |
 
 Table A.3.4—Concentration of Ingredients of a Mixture for Which the Additivity Approach Does Not Apply, That Would Trigger Classification of the Mixture as Hazardous to the Eye
-
 | Ingredient                                                                                             | Concentration | Mixture   classified as:   Eye |
 | ------------------------------------------------------------------------------------------------------ | ------------- | ------------------------------ |
 | Acid with pH ≤2                                                                                        | ≥1%           | Category 1.                    |
@@ -906,16 +872,14 @@ A.4.2.1.1.1 Effects seen in either humans or animals will normally justify class
 A.4.2.1.1.2 Where data are not sufficient for sub-categorization, respiratory sensitizers shall be classified in Category 1.
 
 Table A.4.1—Hazard Category and Sub-Categories for Respiratory Sensitizers
-
-| Category 1      | Respiratory sensitizer                                                                                                                                                                                                                  |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                 | A substance is classified as a respiratory sensitizer.                                                                                                                                                                                  |
-|                 | (a) if there is evidence in humans that the substance can lead to specific respiratory hypersensitivity and/or                                                                                                                          |
-|                 | (b) if there are positive results from an appropriate animal test. 1                                                                                                                                                                    |
-| Sub-category 1A | Substances showing a high frequency of occurrence in humans; or a probability of occurrence of a high sensitization rate in humans based on animal or other tests. 1 Severity of reaction may also be considered.                       |
-| Sub-category 1B | Substances showing a low to moderate frequency of occurrence in humans; or a probability of occurrence of a low to moderate sensitization rate in humans based on animal or other tests. 1 Severity of reaction may also be considered. |
-
-1At this writing, recognized and validated animal models for the testing of respiratory hypersensitivity are not available. Under certain circumstances, data from animal studies may provide valuable information in a weight of evidence assessment.
+| Category 1                                                                                                                                                                                                                                             | Respiratory sensitizer                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                                        | A substance is classified as a respiratory sensitizer.                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                        | (a) if there is evidence in humans that the substance can lead to specific respiratory hypersensitivity and/or                                                                                                                          |
+|                                                                                                                                                                                                                                                        | (b) if there are positive results from an appropriate animal test. 1                                                                                                                                                                    |
+| Sub-category 1A                                                                                                                                                                                                                                        | Substances showing a high frequency of occurrence in humans; or a probability of occurrence of a high sensitization rate in humans based on animal or other tests.1 Severity of reaction may also be considered.                        |
+| Sub-category 1B                                                                                                                                                                                                                                        | Substances showing a low to moderate frequency of occurrence in humans; or a probability of occurrence of a low to moderate sensitization rate in humans based on animal or other tests. 1 Severity of reaction may also be considered. |
+| 1At this writing, recognized and validated animal models for the testing of respiratory hypersensitivity are not available. Under certain circumstances, data from animal studies may provide valuable information in a weight of evidence assessment. |                                                                                                                                                                                                                                         |
 
 A.4.2.1.2 Human evidence.
 
@@ -966,7 +930,6 @@ A.4.2.2.1.1 Effects seen in either humans or animals will normally justify class
 A.4.2.2.1.2 Where data are not sufficient for sub-categorization, skin sensitizers shall be classified in Category 1.
 
 Table A.4.2—Hazard Category and Sub-Categories for Skin Sensitizers
-
 | Category 1      | Skin sensitizer                                                                                                                                                                                                                           |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                 | A substance is classified as a skin sensitizer.                                                                                                                                                                                           |
@@ -1002,30 +965,26 @@ A.4.2.2.3.1 For Category 1, when an adjuvant type test method for skin sensitiza
 A.4.2.2.3.2 Animal test results for sub-category 1A can include data with values indicated in Table A.4.3 below:
 
 Table A.4.3—Animal Test Results for Sub-Category 1A
-
-| Assay                        | Criteria                                                    |
-| ---------------------------- | ----------------------------------------------------------- |
-| Local lymph node assay       | EC3 value ≤2%.                                              |
-| Guinea pig maximization test | ≥30% responding at ≤0.1% intradermal induction dose or      |
-|                              | ≥60% responding at >0.1% to ≤1% intradermal induction dose. |
-| Buehler assay                | ≥15% responding at ≤0.2% topical induction dose or          |
-|                              | ≥60% responding at >0.2% to ≤20% topical induction dose.    |
-
-Note:EC3 refers to the estimated concentration of test chemical required to induce a stimulation index of 3 in the local lymph node assay.
+| Assay                                                                                                                                          | Criteria                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Local lymph node assay                                                                                                                         | EC3 value ≤2%.                                              |
+| Guinea pig maximization test                                                                                                                   | ≥30% responding at ≤0.1% intradermal induction dose or      |
+|                                                                                                                                                | ≥60% responding at >0.1% to ≤1% intradermal induction dose. |
+| Buehler assay                                                                                                                                  | ≥15% responding at ≤0.2% topical induction dose or          |
+|                                                                                                                                                | ≥60% responding at >0.2% to ≤20% topical induction dose.    |
+| **Note:**EC3 refers to the estimated concentration of test chemical required to induce a stimulation index of 3 in the local lymph node assay. |                                                             |
 
 A.4.2.2.3.3 Animal test results for sub-category 1B can include data with values indicated in Table A.4.4 below:
 
 Table A.4.4—Animal Test Results for Sub-Category 1B
-
-| Assay                        | Criteria                                                              |
-| ---------------------------- | --------------------------------------------------------------------- |
-| Local lymph node assay       | EC3 value >2%.                                                        |
-| Guinea pig maximization test | ≥30% to <60% responding at >0.1% to ≤1% intradermal induction dose or |
-|                              | ≥30% responding at >1% intradermal induction dose.                    |
-| Buehler assay                | ≥15% to <60% responding at >0.2% to ≤20% topical induction dose or    |
-|                              | ≥15% responding at >20% topical induction dose.                       |
-
-Note:EC3 refers to the estimated concentration of test chemical required to induce a stimulation index of 3 in the local lymph node assay.
+| Assay                                                                                                                                          | Criteria                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Local lymph node assay                                                                                                                         | EC3 value >2%.                                                        |
+| Guinea pig maximization test                                                                                                                   | ≥30% to <60% responding at >0.1% to ≤1% intradermal induction dose or |
+|                                                                                                                                                | ≥30% responding at >1% intradermal induction dose.                    |
+| Buehler assay                                                                                                                                  | ≥15% to <60% responding at >0.2% to ≤20% topical induction dose or    |
+|                                                                                                                                                | ≥15% responding at >20% topical induction dose.                       |
+| **Note:**EC3 refers to the estimated concentration of test chemical required to induce a stimulation index of 3 in the local lymph node assay. |                                                                       |
 
 A.4.2.2.4 Specific considerations.
 
@@ -1078,7 +1037,6 @@ A.4.3.3 Classification of Mixtures When Data Are Available for All Ingredients o
 The mixture shall be classified as a respiratory or skin sensitizer when at least one ingredient has been classified as a respiratory or skin sensitizer and is present at or above the appropriate cut-off value/concentration limit for the specific endpoint as shown in Table A.4.5.
 
 Table A.4.5—Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as Either Respiratory Sensitizers or Skin Sensitizers That Would Trigger Classification of the Mixture
-
 | Ingredient classified as:               | Cut-off values/concentration limits triggering classification of a mixture as: |
 | --------------------------------------- | ------------------------------------------------------------------------------ |
 | Respiratory Sensitizer, Category 1      | ≥0.1%                                                                          |
@@ -1101,9 +1059,6 @@ A.5.2 Classification Criteria for Substances
 A.5.2.1 The classification system provides for two different categories of germ cell mutagens to accommodate the weight of evidence available. The two-category system is described in the Figure A.5.1.
 
 Figure A.5.1—Hazard Categories for Germ Cell Mutagens
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | CATEGORY 1: Substances known to induce heritable mutations or to be regarded as if they induce heritable mutations in the germ cells of humans.                                                                                                                                                                                                                                                                                      |
 | Category 1A: Substances known to induce heritable mutations in germ cells of humans.                                                                                                                                                                                                                                                                                                                                                 |
 | Positive evidence from human epidemiological studies.                                                                                                                                                                                                                                                                                                                                                                                |
@@ -1115,7 +1070,7 @@ Figure A.5.1—Hazard Categories for Germ Cell Mutagens
 | Positive evidence obtained from experiments in mammals and/or in some cases from in vitro experiments, obtained from:                                                                                                                                                                                                                                                                                                                |
 | (a) Somatic cell mutagenicity tests in vivo, in mammals; or                                                                                                                                                                                                                                                                                                                                                                          |
 | (b) Other in vivo somatic cell genotoxicity tests which are supported by positive results from in vitro mutagenicity assays.                                                                                                                                                                                                                                                                                                         |
-| Note:Substances which are positive in in vitro mammalian mutagenicity assays, and which also show chemical structure activity relationship to known germ cell mutagens, should be considered for classification as Category 2 mutagens.                                                                                                                                                                                              |
+| **Note:**Substances which are positive in in vitro mammalian mutagenicity assays, and which also show chemical structure activity relationship to known germ cell mutagens, should be considered for classification as Category 2 mutagens.                                                                                                                                                                                          |
 
 A.5.2.2 Specific considerations for classification of substances as germ cell mutagens:
 
@@ -1138,13 +1093,11 @@ A.5.3.1.1 Classification of mixtures shall be based on the available test data f
 A.5.3.1.2 The mixture will be classified as a mutagen when at least one ingredient has been classified as a Category 1A, Category 1B or Category 2 mutagen and is present at or above the appropriate cut-off value/concentration limit as shown in Table A.5.1 below for Category 1 and 2 respectively.
 
 Table A.5.1—Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as Germ Cell Mutagens That Would Trigger Classification of the Mixture
-
-| Ingredient classified as: | Cut-off/concentration limits triggering classification of a mixture as: |
-| ------------------------- | ----------------------------------------------------------------------- |
-| Category 1A/B mutagen     | ≥0.1%                                                                   |
-| Category 2 mutagen        |                                                                         |
-
-Note:The cut-off values/concentration limits in the table above apply to solids and liquids (w/w units) as well as gases (v/v units).
+| Ingredient classified as:                                                                                                                 | Cut-off/concentration limits triggering classification of a mixture as: |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Category 1A/B mutagen                                                                                                                     | ≥0.1%                                                                   |
+| Category 2 mutagen                                                                                                                        |                                                                         |
+| **Note:**The cut-off values/concentration limits in the table above apply to solids and liquids (w/w units) as well as gases (v/v units). |                                                                         |
 
 A.5.3.2 Classification of Mixtures When Data Are Available for the Mixture Itself
 
@@ -1211,9 +1164,6 @@ A.6.2 Classification Criteria for Substances 6
 A.6.2.1 For the purpose of classification for carcinogenicity, substances are allocated to one of two categories based on strength of evidence and additional weight of evidence considerations. In certain instances, route-specific classification may be warranted.
 
 Figure A.6.1—Hazard Categories for Carcinogens
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CATEGORY 1:Known or presumed human carcinogens.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | The classification of a substance as a Category 1 carcinogen is done on the basis of epidemiological and/or animal data. This classification is further distinguished on the basis of whether the evidence for classification is largely from human data (Category 1A) or from animal data (Category 1B):                                                                                                                                                                                           |
 | Category 1A: Known to have carcinogenic potential for humans. Classification in this category is largely based on human evidence.                                                                                                                                                                                                                                                                                                                                                                   |
@@ -1277,13 +1227,11 @@ A.6.3 Classification Criteria for Mixtures 7
 A.6.3.1 The mixture shall be classified as a carcinogen when at least one ingredient has been classified as a Category 1 or Category 2 carcinogen and is present at or above the appropriate cut-off value/concentration limit as shown in Table A.6.1.
 
 Table A.6.1—Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as Carcinogen That Would Trigger Classification of the Mixture
-
-| Ingredient classified as: | Category 1   carcinogen | Category 2   carcinogen |
-| ------------------------- | ----------------------- | ----------------------- |
-| Category 1 carcinogen     | ≥0.1%                   |                         |
-| Category 2 carcinogen     |                         | ≥0.1% (note 1).         |
-
-Note:If a Category 2 carcinogen ingredient is present in the mixture at a concentration between 0.1% and 1%, information is required on the SDS for a product. However, a label warning is optional. If a Category 2 carcinogen ingredient is present in the mixture at a concentration of ≥1%, both an SDS and a label is required and the information must be included on each.
+| Ingredient classified as:                                                                                                                                                                                                                                                                                                                                                             | Category 1   carcinogen | Category 2   carcinogen |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ----------------------- |
+| Category 1 carcinogen                                                                                                                                                                                                                                                                                                                                                                 | ≥0.1%                   |                         |
+| Category 2 carcinogen                                                                                                                                                                                                                                                                                                                                                                 |                         | ≥0.1% (note 1).         |
+| **Note:**If a Category 2 carcinogen ingredient is present in the mixture at a concentration between 0.1% and 1%, information is required on the SDS for a product. However, a label warning is optional. If a Category 2 carcinogen ingredient is present in the mixture at a concentration of ≥1%, both an SDS and a label is required and the information must be included on each. |                         |                         |
 
 A.6.3.2 Classification of Mixtures When Data Are Available for the Complete Mixture
 
@@ -1322,34 +1270,21 @@ A.7.2 Classification Criteria for Substances
 A.7.2.1 For the purpose of classification for reproductive toxicity, substances shall be classified in one of two categories in accordance with Figure A.7.1(a). Effects on sexual function and fertility, and on development, shall be considered. In addition, effects on or via lactation shall be classified in a separate hazard category in accordance with Figure A.7.1(b).
 
 Figure A.7.1(a)—Hazard Categories for Reproductive Toxicants
-
-CATEGORY 1: Known or presumed human reproductive toxicant. 
-
-Substance shall be classified in Category 1 for reproductive toxicity when they are known to have produced an adverse effect on sexual function and fertility or on development in humans or when there is evidence from animal studies, possibly supplemented with other information, to provide a strong presumption that the substance has the capacity to interfere with reproduction in humans. The classification of a substance is further distinguished on the basis of whether the evidence for classification is primarily from human data (Category 1A) or from animal data (Category 1B). 
-
-Category 1A: Known human reproductive toxicant. 
-
-The classification of a substance in this category is largely based on evidence from humans. 
-
-Category 1B: Presumed human reproductive toxicant. 
-
-The classification of a substance in this category is largely based on evidence from experimental animals. Data from animal studies shall provide sufficient evidence of an adverse effect on sexual function and fertility or on development in the absence of other toxic effects, or if occurring together with other toxic effects the adverse effect on reproduction is considered not to be a secondary non-specific consequence of other toxic effects. However, when there is mechanistic information that raises doubt about the relevance of the effect for humans, classification in Category 2 may be more appropriate. 
-
-CATEGORY 2: Suspected human reproductive toxicant. 
-
-Substances shall be classified in Category 2 for reproductive toxicity when there is some evidence from humans or experimental animals, possibly supplemented with other information, of an adverse effect on sexual function and fertility, or on development, in the absence of other toxic effects, or if occurring together with other toxic effects the adverse effect on reproduction is considered not to be a secondary non-specific consequence of the other toxic effects, and where the evidence is not sufficiently convincing to place the substance in Category 1. For instance, deficiencies in the study may make the quality of evidence less convincing, and in view of this, Category 2 would be the more appropriate classification.
+| CATEGORY 1: Known or presumed human reproductive toxicant.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Substance shall be classified in Category 1 for reproductive toxicity when they are known to have produced an adverse effect on sexual function and fertility or on development in humans or when there is evidence from animal studies, possibly supplemented with other information, to provide a strong presumption that the substance has the capacity to interfere with reproduction in humans. The classification of a substance is further distinguished on the basis of whether the evidence for classification is primarily from human data (Category 1A) or from animal data (Category 1B).                                                                                                                                                    |
+| Category 1A: Known human reproductive toxicant.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| The classification of a substance in this category is largely based on evidence from humans.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Category 1B: Presumed human reproductive toxicant.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| The classification of a substance in this category is largely based on evidence from experimental animals. Data from animal studies shall provide sufficient evidence of an adverse effect on sexual function and fertility or on development in the absence of other toxic effects, or if occurring together with other toxic effects the adverse effect on reproduction is considered not to be a secondary non-specific consequence of other toxic effects. However, when there is mechanistic information that raises doubt about the relevance of the effect for humans, classification in Category 2 may be more appropriate.                                                                                                                      |
+| CATEGORY 2: Suspected human reproductive toxicant.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Substances shall be classified in Category 2 for reproductive toxicity when there is some evidence from humans or experimental animals, possibly supplemented with other information, of an adverse effect on sexual function and fertility, or on development, in the absence of other toxic effects, or if occurring together with other toxic effects the adverse effect on reproduction is considered not to be a secondary non-specific consequence of the other toxic effects, and where the evidence is not sufficiently convincing to place the substance in Category 1. For instance, deficiencies in the study may make the quality of evidence less convincing, and in view of this, Category 2 would be the more appropriate classification. |
 
 Figure A.7.1(b)—Hazard Category for Effects on or Via Lactation
-
-EFFECTS ON OR VIA LACTATION
-
-Effects on or via lactation shall be classified in a separate single category. Chemicals that are absorbed by women and have been shown to interfere with lactation or that may be present (including metabolites) in breast milk in amounts sufficient to cause concern for the health of a breastfed child, shall be classified to indicate this property hazardous to breastfed babies. This classification shall be assigned on the basis of: 
-
-(a) absorption, metabolism, distribution and excretion studies that indicate the likelihood the substance would be present in potentially toxic levels in breast milk; and/or 
-
-(b) results of one or two generation studies in animals which provide clear evidence of adverse effect in the offspring due to transfer in the milk or adverse effect on the quality of the milk; and/or 
-
-(c) human evidence indicating a hazard to babies during the lactation period.
+| EFFECTS ON OR VIA LACTATION                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Effects on or via lactation shall be classified in a separate single category. Chemicals that are absorbed by women and have been shown to interfere with lactation or that may be present (including metabolites) in breast milk in amounts sufficient to cause concern for the health of a breastfed child, shall be classified to indicate this property hazardous to breastfed babies. This classification shall be assigned on the basis of: |
+| (a) absorption, metabolism, distribution and excretion studies that indicate the likelihood the substance would be present in potentially toxic levels in breast milk; and/or                                                                                                                                                                                                                                                                     |
+| (b) results of one or two generation studies in animals which provide clear evidence of adverse effect in the offspring due to transfer in the milk or adverse effect on the quality of the milk; and/or                                                                                                                                                                                                                                          |
+| (c) human evidence indicating a hazard to babies during the lactation period.                                                                                                                                                                                                                                                                                                                                                                     |
 
 A.7.2.2 Basis of Classification
 
@@ -1428,7 +1363,6 @@ A.7.3.1.1 The mixture shall be classified as a reproductive toxicant when at lea
 A.7.3.1.2 The mixture shall be classified for effects on or via lactation when at least one ingredient has been classified for effects on or via lactation and is present at or above the appropriate cut-off value/concentration limit specified in Table A.7.1 for the additional category for effects on or via lactation.
 
 Table A.7.1—Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as Reproductive Toxicants or for Effects on or via Lactation That Trigger Classification of the Mixture
-
 | Ingredients classified as:                          | Cut-off values/concentration limits triggering classification of a mixture as: |
 | --------------------------------------------------- | ------------------------------------------------------------------------------ |
 | Category 1 reproductive toxicant                    | ≥0.1%                                                                          |
@@ -1462,9 +1396,6 @@ A.8.2 Classification Criteria for Substances A.8.2.1 Substances of Category 1 an
 A.8.2.1.1 Substances shall be classified for immediate or delayed effects separately, by the use of expert judgment on the basis of the weight of all evidence available, including the use of recommended guidance values (See A.8.2.1.9). Substances shall then be classified in Category 1 or 2, depending upon the nature and severity of the effect(s) observed, in accordance with Figure A.8.1.
 
 Figure A.8.1—Hazard Categories for Specific Target Organ Toxicity Following Single Exposure
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CATEGORY 1: Substances that have produced significant toxicity in humans, or that, on the basis of evidence from studies in experimental animals can be presumed to have the potential to produce significant toxicity in humans following single exposure   Substances are classified in Category 1 for STOT-SE on the basis of:   (a) reliable and good quality evidence from human cases or epidemiological studies; or   (b) observations from appropriate studies in experimental animals in which significant and/or severe toxic effects of relevance to human health were produced at generally low exposure concentrations. Guidance dose/concentration values are provided below (See A.8.2.1.9) to be used as part of weight-of-evidence evaluation. |
 | CATEGORY 2: Substances that, on the basis of evidence from studies in experimental animals, can be presumed to have the potential to be harmful to human health following single exposure   Substances are classified in Category 2 for STOT-SE on the basis of observations from appropriate studies in experimental animals in which significant toxic effects, of relevance to human health, were produced at generally moderate exposure concentrations. Guidance dose/concentration values are provided below (See A.8.2.1.9) in order to help in classification.   In exceptional cases, human evidence can also be used to place a substance in Category 2 (See A.8.2.1.6).                                                                              |
 | CATEGORY 3: Transient target organ effects   There are target organ effects for which a substance does not meet the criteria to be classified in Categories 1 or 2 indicated above. These are effects which adversely alter human function for a short duration after exposure and from which humans may recover in a reasonable period without leaving significant alteration of structure or function. This category only includes narcotic effects and respiratory tract irritation. Substances are classified specifically for these effects as discussed in A.8.2.2.                                                                                                                                                                                       |
@@ -1525,7 +1456,6 @@ A.8.2.1.9.2 Thus, in animal studies, when significant toxic effects are observed
 A.8.2.1.9.3 The guidance value (C) ranges for single-dose exposure which has produced a significant non-lethal toxic effect are those applicable to acute toxicity testing, as indicated in Table A.8.1.
 
 Table A.8.1—Guidance Value Ranges for Single-Dose Exposures
-
 | Route of exposure               | Units             | Guidance value ranges for: |
 | ------------------------------- | ----------------- | -------------------------- |
 | Oral (rat)                      | mg/kg body weight | C ≤300                     |
@@ -1587,7 +1517,6 @@ A.8.3.4 Classification of Mixtures When Data Are Available for All Ingredients o
 A.8.3.4.1 Where there is no reliable evidence or test data for the specific mixture itself, and the bridging principles cannot be used to enable classification, then classification of the mixture is based on the classification of the ingredient substances. In this case, the mixture shall be classified as a specific target organ toxicant (specific organ specified), following single exposure, repeated exposure, or both when at least one ingredient has been classified as a Category 1 or Category 2 specific target organ toxicant and is present at or above the appropriate cut-off value/concentration limit specified in Table A.8.2 for Categories 1 and 2, respectively.
 
 Table A.8.2—Cut-Off Values/Concentration Limits of Ingredients of a Mixture Classified as a Specific Target Organ Toxicant That Would Trigger Classification of the Mixture as Category 1 or 2
-
 | Ingredient classified as:        | Cut-off values/concentration limits triggering classification of a mixture as: |
 | -------------------------------- | ------------------------------------------------------------------------------ |
 | Category 1 Target organ toxicant | ≥1.0%                                                                          |
@@ -1618,9 +1547,6 @@ A.9.2 Classification Criteria for Substances
 A.9.2.1 Substances shall be classified as STOT-RE by expert judgment on the basis of the weight of all evidence available, including the use of recommended guidance values which take into account the duration of exposure and the dose/concentration which produced the effect(s), (See A.9.2.9). Substances shall be placed in one of two categories, depending upon the nature and severity of the effect(s) observed, in accordance with Figure A.9.1.
 
 Figure A.9.1—Hazard Categories for Specific Target Organ Toxicity Following Repeated Exposure
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CATEGORY 1: Substances that have produced significant toxicity in humans, or that, on the basis of evidence from studies in experimental animals can be presumed to have the potential to produce significant toxicity in humans following repeated or prolonged exposure                                                                                                                                           |
 | Substances are classified in Category 1 for specific target organ toxicity (repeated exposure) on the basis of:                                                                                                                                                                                                                                                                                                     |
 | (a) reliable and good quality evidence from human cases or epidemiological studies; or,                                                                                                                                                                                                                                                                                                                             |
@@ -1693,7 +1619,6 @@ A.9.2.9.6 Thus for Category 1 classification, significant toxic effects observed
 Table A.9.1—Guidance Values To Assist in Category 1 Classification
 
 \[Applicable to a 90-day study\]
-
 | Route of exposure               | Units                 | Guidance values   (dose/concentration) |
 | ------------------------------- | --------------------- | -------------------------------------- |
 | Oral (rat)                      | mg/kg body weight/day | C ≤10.                                 |
@@ -1707,7 +1632,6 @@ A.9.2.9.7 For Category 2 classification, significant toxic effects observed in a
 Table A.9.2—Guidance Values To Assist in Category 2 Classification
 
 \[Applicable to a 90-day study\]
-
 | Route of exposure               | Units                 | Guidance values   (dose/concentration) |
 | ------------------------------- | --------------------- | -------------------------------------- |
 | Oral (rat)                      | mg/kg body weight/day | 10 \<C ≤100.                           |
@@ -1745,7 +1669,6 @@ A.9.3.4 Classification of Mixtures When Data Are Available for All Ingredients o
 A.9.3.4.1 Where there is no reliable evidence or test data for the specific mixture itself, and the bridging principles cannot be used to enable classification, then classification of the mixture is based on the classification of the ingredient substances. In this case, the mixture shall be classified as a specific target organ toxicant (specific organ specified), following single exposure, repeated exposure, or both when at least one ingredient has been classified as a Category 1 or Category 2 specific target organ toxicant and is present at or above the appropriate cut-off value/concentration limit specified in Table A.9.3 for Category 1 and 2 respectively.
 
 Table A.9.3—Cut-Off Value/Concentration Limits of Ingredients of a Mixture Classified as a Specific Target Organ Toxicant That Would Trigger Classification of the Mixture as Category 1 or 2
-
 | Ingredient classified as:        | Cut-off values/concentration   limits triggering classification of a   mixture as: |
 | -------------------------------- | ---------------------------------------------------------------------------------- |
 | Category 1 Target organ toxicant | ≥1.0%                                                                              |
@@ -1782,12 +1705,10 @@ Aerosol and mist products are usually dispensed in containers such as self-press
 A.10.2 Classification Criteria for Substances
 
 Table A.10.1—Criteria for Aspiration Toxicity
-
-| Category                                                                                                                                   | Criteria                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Category 1: Chemicals known to cause human aspiration toxicity hazards or to be regarded as if they cause human aspiration toxicity hazard | A substance shall be classified in Category 1:   (a) If reliable and good quality human evidence indicates that it causes aspiration toxicity (See note); or   (b) If it is a hydrocarbon and has a kinematic viscosity ≤20.5 mm 2/s, measured at 40 °C. |
-
-Note: Examples of substances included in Category 1 are certain hydrocarbons, turpentine and pine oil.
+| Category                                                                                                                                   | Criteria                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Category 1: Chemicals known to cause human aspiration toxicity hazards or to be regarded as if they cause human aspiration toxicity hazard | A substance shall be classified in Category 1:   (a) If reliable and good quality human evidence indicates that it causes aspiration toxicity (See note); or   (b) If it is a hydrocarbon and has a kinematic viscosity ≤20.5 mm2/s, measured at 40 °C. |
+| **Note:** Examples of substances included in Category 1 are certain hydrocarbons, turpentine and pine oil.                                 |                                                                                                                                                                                                                                                         |
 
 A.10.3 Classification Criteria for Mixtures A.10.3.1 Classification When Data Are Available for the Complete Mixture
 
@@ -1890,7 +1811,6 @@ B.2.2 Classification Criteria
 A flammable gas shall be classified in one of the two categories for this class in accordance with Table B.2.1:
 
 Table B.2.1—Criteria for Flammable Gases
-
 | Category | Criteria                                                                                                                                                   |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1        | Gases, which at 20 °C (68 °F) and a standard pressure of 101.3 kPa (14.7 psi):                                                                             |
@@ -1925,11 +1845,10 @@ Flammable aerosols do not fall additionally within the scope of flammable gases,
 B.3.2.2 A flammable aerosol shall be classified in one of the two categories for this class in accordance with Table B.3.1.
 
 Table B.3.1—Criteria for Flammable Aerosols
-
-| Category | Criteria                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1        | Contains ≥85% flammable components and the chemical heat of combustion is ≥30 kJ/g; or   (a) For spray aerosols, in the ignition distance test, ignition occurs at a distance ≥75 cm (29.5 in), or   (b) For foam aerosols, in the aerosol foam flammability test   (i) The flame height is ≥20 cm (7.87 in) and the flame duration ≥2 s; or   (ii) The flame height is ≥4 cm (1.57 in) and the flame duration ≥7 s                                                                               |
-| 2        | Contains >1% flammable components, or the heat of combustion is ≥20 kJ/g; and   (a) for spray aerosols, in the ignition distance test, ignition occurs at a distance ≥15 cm (5.9 in), or   in the enclosed space ignition test, the   (i) Time equivalent is ≤300 s/m 3; or   (ii) Deflagration density is ≤300 g/m 3   (b) For foam aerosols, in the aerosol foam flammability test, the flame height is ≥4 cm and the flame duration is ≥2 s   and it does not meet the criteria for Category 1 |
+| Category | Criteria                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1        | Contains ≥85% flammable components and the chemical heat of combustion is ≥30 kJ/g; or   (a) For spray aerosols, in the ignition distance test, ignition occurs at a distance ≥75 cm (29.5 in), or   (b) For foam aerosols, in the aerosol foam flammability test   (i) The flame height is ≥20 cm (7.87 in) and the flame duration ≥2 s; or   (ii) The flame height is ≥4 cm (1.57 in) and the flame duration ≥7 s                                                                             |
+| 2        | Contains >1% flammable components, or the heat of combustion is ≥20 kJ/g; and   (a) for spray aerosols, in the ignition distance test, ignition occurs at a distance ≥15 cm (5.9 in), or   in the enclosed space ignition test, the   (i) Time equivalent is ≤300 s/m3; or   (ii) Deflagration density is ≤300 g/m3   (b) For foam aerosols, in the aerosol foam flammability test, the flame height is ≥4 cm and the flame duration is ≥2 s   and it does not meet the criteria for Category 1 |
 
 Note:
 
@@ -1962,7 +1881,6 @@ B.4.2 Classification Criteria
 An oxidizing gas shall be classified in a single category for this class in accordance with Table B.4.1:
 
 Table B.4.1—Criteria for Oxidizing Gases
-
 | Category | Criteria                                                                                                                      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | 1        | Any gas which may, generally by providing oxygen, cause or contribute to the combustion of other material more than air does. |
@@ -1982,17 +1900,15 @@ B.5.2 Classification Criteria
 Gases under pressure shall be classified in one of four groups in accordance with Table B.5.1:
 
 Table B.5.1—Criteria for Gases Under Pressure
-
-| Group                      | Criteria                                                                                                                                   |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Compressed gas             | A gas which when under pressure is entirely gaseous at −50 °C (−8 °F), including all gases with a critical temperature 1 ≤−50 °C (−58 °F). |
-| Liquefied gas              | A gas which when under pressure is partially liquid at temperatures above −50 °C (−58 °F). A distinction is made between:                  |
-|                            | (a) High pressure liquefied gas: A gas with a critical temperature 1 between −50 °C (−58 °F) and + 65 °C (149 °F); and                     |
-|                            | (b) Low pressure liquefied gas: A gas with a critical temperature 1 above + 65 °C (149 °F).                                                |
-| Refrigerated liquefied gas | A gas which is made partially liquid because of its low temperature.                                                                       |
-| Dissolved gas              | A gas which when under pressure is dissolved in a liquid phase solvent.                                                                    |
-
-1The critical temperature is the temperature above which a pure gas cannot be liquefied, regardless of the degree of compression.
+| Group                                                                                                                             | Criteria                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Compressed gas                                                                                                                    | A gas which when under pressure is entirely gaseous at −50 °C (−8 °F), including all gases with a critical temperature1 ≤−50 °C (−58 °F). |
+| Liquefied gas                                                                                                                     | A gas which when under pressure is partially liquid at temperatures above −50 °C (−58 °F). A distinction is made between:                 |
+|                                                                                                                                   | (a) High pressure liquefied gas: A gas with a critical temperature 1 between −50 °C (−58 °F) and + 65 °C (149 °F); and                    |
+|                                                                                                                                   | (b) Low pressure liquefied gas: A gas with a critical temperature 1 above + 65 °C (149 °F).                                               |
+| Refrigerated liquefied gas                                                                                                        | A gas which is made partially liquid because of its low temperature.                                                                      |
+| Dissolved gas                                                                                                                     | A gas which when under pressure is dissolved in a liquid phase solvent.                                                                   |
+| 1The critical temperature is the temperature above which a pure gas cannot be liquefied, regardless of the degree of compression. |                                                                                                                                           |
 
 B.6 FLAMMABLE LIQUIDS B.6.1 Definition
 
@@ -2005,7 +1921,6 @@ B.6.2 Classification Criteria
 A flammable liquid shall be classified in one of four categories in accordance with Table B.6.1:
 
 Table B.6.1—Criteria for Flammable Liquids
-
 | Category | Criteria                                                               |
 | -------- | ---------------------------------------------------------------------- |
 | 1        | Flash point <23 °C (73.4 °F) and initial boiling point ≤35 °C (95 °F). |
@@ -2036,7 +1951,6 @@ B.7.2.3 Solids which may cause fire through friction shall be classified in this
 B.7.2.4 A flammable solid shall be classified in one of the two categories for this class using Method N.1 as described in Part III, sub-section 33.2.1 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), in accordance with Table B.7.1:
 
 Table B.7.1—Criteria for Flammable Solids
-
 | Category | Criteria                                               |
 | -------- | ------------------------------------------------------ |
 | 1        | Burning rate test:                                     |
@@ -2119,7 +2033,6 @@ B.9.2 Classification Criteria
 A pyrophoric liquid shall be classified in a single category for this class using test N.3 in Part III, sub-section 33.3.1.5 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), in accordance with Table B.9.1:
 
 Table B.9.1—Criteria for Pyrophoric Liquids
-
 | Category | Criteria                                                                                                                                                   |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1        | The liquid ignites within 5 min when added to an inert carrier and exposed to air, or it ignites or chars a filter paper on contact with air within 5 min. |
@@ -2137,7 +2050,6 @@ B.10.2 Classification Criteria
 A pyrophoric solid shall be classified in a single category for this class using test N.2 in Part III, sub-section 33.3.1.4 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), in accordance with Table B.10.1:
 
 Table B.10.1—Criteria for Pyrophoric Solids
-
 | Category | Criteria                                                        |
 | -------- | --------------------------------------------------------------- |
 | 1        | The solid ignites within 5 min of coming into contact with air. |
@@ -2163,12 +2075,11 @@ B.11.2 Classification Criteria
 B.11.2.1 A self-heating chemical shall be classified in one of the two categories for this class if, in tests performed in accordance with test method N.4 in Part III, sub-section 33.3.1.6 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), the result meets the criteria shown in Table B.11.1.
 
 Table B.11.1—Criteria for Self-Heating Chemicals
-
 | Category | Criteria                                                                                                                                                                          |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1        | A positive result is obtained in a test using a 25 mm sample cube at 140 °C (284 °F).                                                                                             |
 | 2        | A negative result is obtained in a test using a 25 mm cube sample at 140 °C (284 °F), a positive result is obtained in a test using a 100 mm sample cube at 140 °C (284 °F), and: |
-|          | (a) The unit volume of the chemical is more than 3 m 3; or                                                                                                                        |
+|          | (a) The unit volume of the chemical is more than 3 m3; or                                                                                                                         |
 |          | (b) A positive result is obtained in a test using a 100 mm cube sample at 120 °C (248 °F) and the unit volume of the chemical is more than 450 liters; or                         |
 |          | (c) A positive result is obtained in a test using a 100 mm cube sample at 100 °C (212 °F).                                                                                        |
 
@@ -2195,7 +2106,6 @@ B.12.2 Classification Criteria
 B.12.2.1 A chemical which, in contact with water, emits flammable gases shall be classified in one of the three categories for this class, using test N.5 in Part III, sub-section 33.4.1.4 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), in accordance with Table B.12.1:
 
 Table B.12.1—Criteria for Chemicals Which, in Contact With Water, Emit Flammable Gases
-
 | Category | Criteria                                                                                                                                                                                                                                                                                                                                                    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1        | Any chemical which reacts vigorously with water at ambient temperatures and demonstrates generally a tendency for the gas produced to ignite spontaneously, or which reacts readily with water at ambient temperatures such that the rate of evolution of flammable gas is equal to or greater than 10 liters per kilogram of chemical over any one minute. |
@@ -2227,7 +2137,6 @@ B.13.2 Classification Criteria
 An oxidizing liquid shall be classified in one of the three categories for this class using test O.2 in Part III, sub-section 34.4.2 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), in accordance with Table B.13.1:
 
 Table B.13.1—Criteria for Oxidizing Liquids
-
 | Category | Criteria                                                                                                                                                                                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1        | Any chemical which, in the 1:1 mixture, by mass, of chemical and cellulose tested, spontaneously ignites; or the mean pressure rise time of a 1:1 mixture, by mass, of chemical and cellulose is less than that of a 1:1 mixture, by mass, of 50% perchloric acid and cellulose;                       |
@@ -2257,7 +2166,6 @@ B.14.2 Classification Criteria
 An oxidizing solid shall be classified in one of the three categories for this class using test O.1 in Part III, sub-section 34.4.1 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), in accordance with Table B.14.1:
 
 Table B.14.1—Criteria for Oxidizing Solids
-
 | Category | Criteria                                                                                                                                                                                                                                                                      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1        | Any chemical which, in the 4:1 or 1:1 sample-to-cellulose ratio (by mass) tested, exhibits a mean burning time less than the mean burning time of a 3:2 mixture, by mass, of potassium bromate and cellulose.                                                                 |
@@ -2349,7 +2257,6 @@ B.16.2 Classification Criteria
 A chemical which is corrosive to metals shall be classified in a single category for this class, using the test in Part III, sub-section 37.4 of the UN ST/SG/AC.10 (incorporated by reference; See § 1910.6), in accordance with Table B.16.1:
 
 Table B.16.1—Criteria for Chemicals Corrosive to Metal
-
 | Category | Criteria                                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1        | Corrosion rate on either steel or aluminium surfaces exceeding 6.25 mm per year at a test temperature of 55 °C (131 °F) when tested on both materials. |
@@ -2425,7 +2332,6 @@ C.3.3 Where an ingredient with unknown acute toxicity is used in a mixture at a 
 A safety data sheet (SDS) shall include the information specified in Table D.1 under the section number and heading indicated for sections 1-11 and 16. If no relevant information is found for any given subheading within a section, the SDS shall clearly indicate that no applicable information is available. Sections 12-15 may be included in the SDS, but are not mandatory.
 
 Table D.1—Minimum Information for an SDS
-
 | Heading                                                                | Subheading                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1\. Identification                                                     | (a) Product identifier used on the label;   (b) Other means of identification;   (c) Recommended use of the chemical and restrictions on use;   (d) Name, address, and telephone number of the chemical manufacturer, importer, or other responsible party;   (e) Emergency phone number.                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -2604,7 +2510,6 @@ Part D: Table Relating Approximate Equivalences Among IARC, NTP RoC, and GHS Car
 The following table may be used to perform hazard classifications for carcinogenicity under the HCS (§ 1910.1200). It relates the approximated GHS hazard categories for carcinogenicity to the classifications provided by IARC and NTP, as described in Parts B and C of this Appendix.
 
 Approximate Equivalences Among Carcinogen Classification Schemes
-
 | IARC     | GHS         | NTP RoC                              |
 | -------- | ----------- | ------------------------------------ |
 | Group 1  | Category 1A | Known.                               |

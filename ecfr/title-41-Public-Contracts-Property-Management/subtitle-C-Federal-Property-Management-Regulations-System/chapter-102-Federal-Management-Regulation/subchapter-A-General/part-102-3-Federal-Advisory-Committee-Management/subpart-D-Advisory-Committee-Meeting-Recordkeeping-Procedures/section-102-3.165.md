@@ -4,12 +4,12 @@
 
 (b) The minutes must include:
 
-(1) The time, date, and place of the advisory committee meeting;
+(1) The time, date, and place (or electronic format) of the advisory committee meeting;
 
 (2) A list of the persons who were present at the meeting, including advisory committee members and staff, agency employees, and members of the public who presented oral or written statements;
 
 (3) An accurate description of each matter discussed and the resolution, if any, made by the advisory committee regarding such matter; and
 
-(4) Copies of each report or other document received, issued, or approved by the advisory committee at the meeting.
+(4) Copies of each report or other materials received, issued, or approved by the advisory committee at the meeting.
 
-(c) The Designated Federal Officer (DFO) must ensure that minutes are certified within 90 calendar days of the meeting to which they relate.
+(c) The DFO must ensure that minutes are certified for accuracy by the chairperson within 90 calendar days of the meeting to which they relate. Agencies should post the meeting minutes on the agency advisory committee website (if one exists) not later than 14 calendar days after the meeting minutes have been certified.

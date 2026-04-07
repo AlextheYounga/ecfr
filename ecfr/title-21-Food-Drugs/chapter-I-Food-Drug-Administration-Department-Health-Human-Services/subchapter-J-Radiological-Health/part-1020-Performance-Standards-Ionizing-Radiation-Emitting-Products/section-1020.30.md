@@ -383,30 +383,26 @@ Temporarily Installed Component This certified component has been assembled, ins
 2 In the case of a system, which is to be operated with more than one thickness of filtration, this requirement can be met by a filter interlocked with the kilovoltage selector which will prevent x-ray emissions if the minimum required filtration is not in place.
 
 Table 1
-
-| X-Ray Tube Voltage   (kilovolt peak) | Minimum HVL   (mm of aluminum) |
-| ------------------------------------ | ------------------------------ |
-| Below 51                             | 30                             |
-|                                      | 40                             |
-|                                      | 50                             |
-| 51 to 70                             | 51                             |
-|                                      | 60                             |
-|                                      | 70                             |
-| Above 70                             | 71                             |
-|                                      | 80                             |
-|                                      | 90                             |
-|                                      | 100                            |
-|                                      | 110                            |
-|                                      | 120                            |
-|                                      | 130                            |
-|                                      | 140                            |
-|                                      | 150                            |
-
-1 Dental x-ray systems designed for use with intraoral image receptors and manufactured after December 1, 1980.
-
-2 Dental x-ray systems designed for use with intraoral image receptors and manufactured before or on December 1, 1980, and all other x-ray systems subject to this section and manufactured before June 10, 2006.
-
-3 All x-ray systems, except dental x-ray systems designed for use with intraoral image receptors, subject to this section and manufactured on or after June 10, 2006.
+| X-Ray Tube Voltage   (kilovolt peak)                                                                                                                                                                              | Minimum HVL   (mm of aluminum) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| Below 51                                                                                                                                                                                                          | 30                             |
+|                                                                                                                                                                                                                   | 40                             |
+|                                                                                                                                                                                                                   | 50                             |
+| 51 to 70                                                                                                                                                                                                          | 51                             |
+|                                                                                                                                                                                                                   | 60                             |
+|                                                                                                                                                                                                                   | 70                             |
+| Above 70                                                                                                                                                                                                          | 71                             |
+|                                                                                                                                                                                                                   | 80                             |
+|                                                                                                                                                                                                                   | 90                             |
+|                                                                                                                                                                                                                   | 100                            |
+|                                                                                                                                                                                                                   | 110                            |
+|                                                                                                                                                                                                                   | 120                            |
+|                                                                                                                                                                                                                   | 130                            |
+|                                                                                                                                                                                                                   | 140                            |
+|                                                                                                                                                                                                                   | 150                            |
+| 1 Dental x-ray systems designed for use with intraoral image receptors and manufactured after December 1, 1980.                                                                                                   |                                |
+| 2 Dental x-ray systems designed for use with intraoral image receptors and manufactured before or on December 1, 1980, and all other x-ray systems subject to this section and manufactured before June 10, 2006. |                                |
+| 3 All x-ray systems, except dental x-ray systems designed for use with intraoral image receptors, subject to this section and manufactured on or after June 10, 2006.                                             |                                |
 
 (2) *Optional filtration.* Fluoroscopic systems manufactured on or after June 10, 2006, incorporating an x-ray tube(s) with a continuous output of 1 kilowatt or more and an anode heat storage capacity of 1 million heat units or more shall provide the option of adding x-ray filtration to the diagnostic source assembly in addition to the amount needed to meet the HVL provisions of § 1020.30(m)(1). The selection of this additional x-ray filtration shall be either at the option of the user or automatic as part of the selected mode of operation. A means of indicating which combination of additional filtration is in the x-ray beam shall be provided.
 
@@ -415,7 +411,6 @@ Table 1
 (n) *Aluminum equivalent of material between patient and image receptor.* Except when used in a CT x-ray system, the aluminum equivalent of each of the items listed in table 2 in paragraph (n) of this section, which are used between the patient and image receptor, may not exceed the indicated limits. Compliance shall be determined by x-ray measurements made at a potential of 100 kilovolts peak and with an x-ray beam that has an HVL specified in table 1 in paragraph (m)(1) of this section for the potential. This requirement applies to front panel(s) of cassette holders and film changers provided by the manufacturer for patient support or for prevention of foreign object intrusions. It does not apply to screens and their associated mechanical support panels or grids. Table 2 follows:
 
 Table 2
-
 | Item                                                                              | Maximum Aluminum Equivalent (millimeters) |
 | --------------------------------------------------------------------------------- | ----------------------------------------- |
 | 1\. Front panel(s) of cassette holders (total of all)                             | 1.2                                       |
@@ -434,6 +429,6 @@ Table 2
 
 (q) *Modification of certified diagnostic x-ray components and systems.* (1) Diagnostic x-ray components and systems certified in accordance with § 1010.2 of this chapter shall not be modified such that the component or system fails to comply with any applicable provision of this chapter unless a variance in accordance with § 1010.4 of this chapter or an exemption under section 534(a)(5) or 538(b) of the Federal Food, Drug, and Cosmetic Act has been granted.
 
-(2) The owner of a diagnostic x-ray system who uses the system in a professional or commercial capacity may modify the system, provided the modification does not result in the failure of the system or component to comply with the applicable requirements of this section or of § 1020.31, 1020.32, or 1020.33. The owner who causes such modification need not submit the reports required by subpart B of part 1002 of this chapter, provided the owner records the date and the details of the modification in the system records and maintains this information, and provided the modification of the x-ray system does not result in a failure to comply with § 1020.31, 1020.32, or 1020.33.
+(2) The owner of a diagnostic x-ray system who uses the system in a professional or commercial capacity may modify the system, provided the modification does not result in the failure of the system or component to comply with the applicable requirements of this section or of § 1020.31, § 1020.32, or § 1020.33. The owner who causes such modification need not submit the reports required by subpart B of part 1002 of this chapter, provided the owner records the date and the details of the modification in the system records and maintains this information, and provided the modification of the x-ray system does not result in a failure to comply with § 1020.31, § 1020.32, or § 1020.33.
 
 \[71 FR 34028, June 10, 2006, as amended at 72 FR 17401, Apr. 9, 2007; 83 FR 13864, Apr. 2, 2018; 88 FR 3654, Jan. 20, 202\]
