@@ -1,6 +1,6 @@
 ##### 552.211-81 Time of Shipment.
 
-As prescribed in 511.404(a)(2), insert the following clause:
+As prescribed in 511.404(a)(2), insert the following clause:*Alternate I*
 
 Time of Shipment (FEB 1996)
 

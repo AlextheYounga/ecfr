@@ -4,7 +4,7 @@ As prescribed in 570.703, insert the following clause:
 
 Covenant Against Contingent Fees (JUN 2011)
 
-(a) The Contractor warrants that no person or agency has been employed or retained to solicit or obtain this contract upon an agreement or understanding for a contingent fee, except a bona fide employee or agency. For breach or violation of this warranty, the Government shall have the right to annul this contract without liability or, in its discretion, to deduct from the contract price or consideration, or otherwise recover the full amount of the contingent fee.
+(a) The Contractor warrants that no person or agency has been employed or retained to solicit or obtain this contract upon an agreement or understanding for a contingent fee, except a bona fide employee or agency. For breach or violation of this warranty, the Government shall have the right to annul this contract without liability or, in its discretion, to deduct from the contract price or consideration, or otherwise recover the full amount of the contingent fee.*Bona fide agency,*
 
 (b) *Bona fide agency,* as used in this clause, means an established commercial or selling agency (including licensed real estate agents or brokers), maintained by a Contractor for the purpose of securing business, that neither exerts nor proposes to exert improper influence to solicit or obtain Government contracts nor holds itself out as being able to obtain any Government contract or contracts through improper influence.
 

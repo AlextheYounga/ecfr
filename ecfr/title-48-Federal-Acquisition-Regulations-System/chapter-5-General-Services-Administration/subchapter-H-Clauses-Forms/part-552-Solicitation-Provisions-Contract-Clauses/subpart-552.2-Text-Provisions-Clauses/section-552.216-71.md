@@ -1,6 +1,6 @@
 ##### 552.216-71 Economic Price Adjustment—Special Order Program Contracts.
 
-As prescribed in 516.203-4(a), insert the following clause:
+As prescribed in 516.203-4(a), insert the following clause:*Alternate I*
 
 Economic Price Adjustment—Special Order Program Contracts (AUG 2010)
 

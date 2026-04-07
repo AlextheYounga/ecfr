@@ -1,6 +1,6 @@
 ##### 552.238-81 Price Reductions.
 
-As prescribed in 538.273(d)(5) insert the following clause:
+As prescribed in 538.273(d)(5) insert the following clause:*Alternate I (MAY 2019).*
 
 Price Reductions (MAY 2019)
 

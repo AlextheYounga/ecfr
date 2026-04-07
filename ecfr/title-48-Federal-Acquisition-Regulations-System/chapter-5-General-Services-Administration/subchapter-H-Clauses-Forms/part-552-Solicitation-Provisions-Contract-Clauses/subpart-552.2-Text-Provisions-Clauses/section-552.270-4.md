@@ -4,7 +4,7 @@ As prescribed in 570.703, insert the following clause:
 
 Definitions (SEP 1999)
 
-The following terms and phrases (except as otherwise expressly provided or unless the context otherwise requires) for all purposes of this lease shall have the respective meanings hereinafter specified:
+The following terms and phrases (except as otherwise expressly provided or unless the context otherwise requires) for all purposes of this lease shall have the respective meanings hereinafter specified:*ANSI/BOMA Office Area (ABOA)*
 
 (a) *ANSI/BOMA Office Area (ABOA)* means the area “where a tenant normally houses personnel, and/or furniture, for which a measurement is to be computed,” as stated by the American National Standards Institute/Building Owners and Managers Association (ANSI/BOMA) publication, Z65.1-1996.
 

@@ -1,6 +1,6 @@
 ##### 552.238-70 Cover Page for Worldwide Federal Supply Schedules.
 
-As prescribed in 538.273(a)(1), insert the following provision:
+As prescribed in 538.273(a)(1), insert the following provision:*Alternate I*
 
 Cover Page for Worldwide Federal Supply Schedules (MAY 2019) For All Geographic Areas
 

@@ -4,7 +4,7 @@ As prescribed in 538.273(d), insert the following clause:
 
 Authorities Supporting Use of Federal Supply Schedule Contracts (Mar 2024)
 
-(a) Ordering activities are able to use Federal Supply Schedule (FSS) contracts based upon a number of statutes, regulations, and other authorities. Authorities allowing ordering activities use of FSS contracts include, but are not limited to:
+(a) Ordering activities are able to use Federal Supply Schedule (FSS) contracts based upon a number of statutes, regulations, and other authorities. Authorities allowing ordering activities use of FSS contracts include, but are not limited to:*et seq.*
 
 (1) 25 U.S.C. 1660g(e), which provides for the use by urban Indian organizations, as defined in 25 U.S.C. 1603, for the purposes of carrying out a contract or grant pursuant to 25 U.S.C. chapter 18, subchapter IV.
 

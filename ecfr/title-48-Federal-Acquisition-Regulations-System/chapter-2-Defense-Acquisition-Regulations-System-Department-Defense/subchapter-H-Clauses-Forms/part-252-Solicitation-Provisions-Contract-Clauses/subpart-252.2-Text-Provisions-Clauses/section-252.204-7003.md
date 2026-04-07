@@ -1,6 +1,6 @@
 ##### 252.204-7003 Control of government personnel work product.
 
-As prescribed in 204.404-70(b), use the following clause: 
+As prescribed in 204.404-70(b), use the following clause:
 
 Control of Government Personnel Work Product (APR 1992)
 

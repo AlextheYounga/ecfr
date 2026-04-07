@@ -1,6 +1,6 @@
 ##### 552.211-83 Availability for Inspection, Testing, and Shipment/Delivery.
 
-As prescribed in 511.404(a)(3), insert the following clause:
+As prescribed in 511.404(a)(3), insert the following clause:*Alternate I*
 
 Availability for Inspection, Testing, and Shipment/Delivery (FEB 1996)
 

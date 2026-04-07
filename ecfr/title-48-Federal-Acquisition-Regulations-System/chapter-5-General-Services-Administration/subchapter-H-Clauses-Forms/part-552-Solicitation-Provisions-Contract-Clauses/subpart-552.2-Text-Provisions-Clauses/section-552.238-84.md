@@ -4,7 +4,7 @@ As prescribed in 538.273(d)(8), insert the following clause:
 
 Discounts for Prompt Payment (MAY 2019)
 
-(a) Discounts for early payment (hereinafter referred to as “discounts” or “the discount”) will be considered in evaluating the relationship of the Offeror's concessions to the Government vis-a-vis the Offeror's concessions to its commercial and Federal non-schedule customers, but only to the extent indicated in this clause.
+(a) Discounts for early payment (hereinafter referred to as “discounts” or “the discount”) will be considered in evaluating the relationship of the Offeror's concessions to the Government vis-a-vis the Offeror's concessions to its commercial and Federal non-schedule customers, but only to the extent indicated in this clause.Federal Register.
 
 (b) Discounts will not be considered to determine the low Offeror in the situation described in the “Offers on Identical Products” provision of this solicitation.
 

@@ -4,7 +4,7 @@ As prescribed in 532.908(b)(2), insert the following clause:
 
 Prompt Payment (JAN 2022) (Deviation FAR 52.232-25)
 
-Notwithstanding any other payment clause in this contract, the Government will make invoice payments and contract financing payments under the terms and conditions specified in this clause. Payment shall be considered as being made on the day a check is dated or the date of an electronic funds transfer. Definitions of pertinent terms are set forth in section 32.902 of the Federal Acquisition Regulation. All days referred to in this clause are calendar days, unless otherwise specified. (However, see subparagraph (a)(4) of this clause concerning payments due on Saturdays, Sundays, and legal holidays.)
+Notwithstanding any other payment clause in this contract, the Government will make invoice payments and contract financing payments under the terms and conditions specified in this clause. Payment shall be considered as being made on the day a check is dated or the date of an electronic funds transfer. Definitions of pertinent terms are set forth in section 32.902 of the Federal Acquisition Regulation. All days referred to in this clause are calendar days, unless otherwise specified. (However, see subparagraph (a)(4) of this clause concerning payments due on Saturdays, Sundays, and legal holidays.)*Invoice payments.*Federal Register
 
 (a) *Invoice payments.* (1) The due date for making invoice payments by the designated payment office is:
 

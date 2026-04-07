@@ -1,6 +1,6 @@
 ##### 552.236-76 Basis of Award—Sealed Bidding Construction
 
-As prescribed in 536.270-5(c), insert a provision substantially the same as the following provision:
+As prescribed in 536.270-5(c), insert a provision substantially the same as the following provision:*Alternate I*
 
 Basis of Award—Sealed Bidding Construction (MAR 2019)
 

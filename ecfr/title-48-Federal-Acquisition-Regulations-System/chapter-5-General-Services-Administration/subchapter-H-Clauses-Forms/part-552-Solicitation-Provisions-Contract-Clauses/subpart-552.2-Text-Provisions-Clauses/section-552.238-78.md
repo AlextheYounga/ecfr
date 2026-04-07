@@ -4,7 +4,7 @@ As prescribed in 538.273(d)(2), insert the following clause:
 
 Identification of Products That Have Environmental Attributes (JAN 2022)
 
-(a) Several laws, Executive orders, and Agency directives require Federal buyers to purchase products that are less harmful to the environment, when they are life cycle cost-effective (see FAR Subpart 23.7). The U.S. General Services Administration (GSA) requires contractors to highlight environmental products under Federal Supply Service schedule contracts in various communications media (e.g., publications and electronic formats).
+(a) Several laws, Executive orders, and Agency directives require Federal buyers to purchase products that are less harmful to the environment, when they are life cycle cost-effective (see FAR Subpart 23.7). The U.S. General Services Administration (GSA) requires contractors to highlight environmental products under Federal Supply Service schedule contracts in various communications media (e.g., publications and electronic formats).*Definitions.*
 
 (b) *Definitions.* As used in this clause—
 

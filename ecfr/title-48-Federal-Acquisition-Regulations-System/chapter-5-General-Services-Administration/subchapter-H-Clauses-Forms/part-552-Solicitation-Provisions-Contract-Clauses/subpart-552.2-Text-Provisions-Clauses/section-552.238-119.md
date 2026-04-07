@@ -4,7 +4,7 @@ As prescribed in 538.273(d), insert the following clause:
 
 Single-Use Plastic (SUP) Free Packaging Availability (July 2024)
 
-(a) Definitions. As used in this clause—
+(a) Definitions. As used in this clause—*Single-use plastic (SUP) packaging*
 
 *Single-use plastic (SUP) packaging* means any plastic used for the containment, protection, handling, delivery, or presentation of goods by a producer for a consumer with the intent of being used once and then discarded, recycled or disposed of immediately after its contents have been used or unpackaged, and typically not refilled or otherwise reused by the producer. Packaging includes, but is not limited to brand packaging, grouped packaging, shipping packaging, ancillary packaging, and redundant packaging.
 

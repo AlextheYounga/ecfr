@@ -4,7 +4,7 @@ As prescribed in 514.202-4(a)(3), insert the following provision:
 
 Bid Sample Requirements (OCT 2009)
 
-This provision supplements FAR 52.214-20, which is incorporated by reference. Samples shall be from the production of the manufacturer whose products will be supplied under resultant contracts.
+This provision supplements FAR 52.214-20, which is incorporated by reference. Samples shall be from the production of the manufacturer whose products will be supplied under resultant contracts.Caution:
 
 (a) Two bid samples are required for each of the following items in this solicitation:
 

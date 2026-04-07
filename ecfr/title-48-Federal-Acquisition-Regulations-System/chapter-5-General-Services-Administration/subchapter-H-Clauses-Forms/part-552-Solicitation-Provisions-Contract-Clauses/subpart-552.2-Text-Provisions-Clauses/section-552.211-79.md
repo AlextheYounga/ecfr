@@ -1,6 +1,6 @@
 ##### 552.211-79 Acceptable Age of Supplies.
 
-As prescribed in 511.404(a)(1), insert the following clause:
+As prescribed in 511.404(a)(1), insert the following clause:*Alternate I*
 
 Acceptable Age of Supplies (FEB 1996)
 

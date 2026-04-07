@@ -1,6 +1,6 @@
 ##### 252.237-7009 Permits.
 
-As prescribed in 237.7003(a) and (a)(7), use the following clause: 
+As prescribed in 237.7003(a) and (a)(7), use the following clause:
 
 Permits (DEC 1991)
 

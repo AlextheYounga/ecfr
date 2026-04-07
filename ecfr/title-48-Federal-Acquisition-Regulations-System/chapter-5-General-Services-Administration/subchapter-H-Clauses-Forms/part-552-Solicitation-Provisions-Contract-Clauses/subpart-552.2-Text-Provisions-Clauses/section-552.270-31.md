@@ -1,10 +1,10 @@
 ##### 552.270-31 Prompt Payment.
 
-As prescribed in 570.703, insert the following clause:
+As prescribed in 570.703, insert the following clause:*Alternate I*
 
 Prompt Payment (JUN 2011)
 
-The Government will make payments under the terms and conditions specified in this clause. Payment shall be considered as being made on the day a check is dated or an electronic funds transfer is made. All days referred to in this clause are calendar days, unless otherwise specified.
+The Government will make payments under the terms and conditions specified in this clause. Payment shall be considered as being made on the day a check is dated or an electronic funds transfer is made. All days referred to in this clause are calendar days, unless otherwise specified.*Payment due date*Federal Register
 
 (a) *Payment due date*—(1) *Rental payments.* Rent shall be paid monthly in arrears and will be due on the first workday of each month, and only as provided for by the lease.
 

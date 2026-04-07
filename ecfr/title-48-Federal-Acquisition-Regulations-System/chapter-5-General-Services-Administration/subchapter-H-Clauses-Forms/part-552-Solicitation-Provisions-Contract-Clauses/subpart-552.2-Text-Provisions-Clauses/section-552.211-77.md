@@ -1,6 +1,6 @@
 ##### 552.211-77 Packing List.
 
-As prescribed in 511.204(c), insert the following clause:
+As prescribed in 511.204(c), insert the following clause:*Alternate I*
 
 Packing List (FEB 1996)
 

@@ -1,6 +1,6 @@
 ##### 552.216-73 Ordering Information.
 
-As prescribed in 516.506(b), insert the following provision:
+As prescribed in 516.506(b), insert the following provision:*Alternate I*
 
 Ordering Information (AUG 2010)
 

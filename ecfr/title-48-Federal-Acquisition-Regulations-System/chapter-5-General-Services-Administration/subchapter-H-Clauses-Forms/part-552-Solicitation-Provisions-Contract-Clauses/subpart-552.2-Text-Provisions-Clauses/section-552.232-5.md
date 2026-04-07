@@ -4,7 +4,7 @@ As prescribed in 532.111, insert the following clause:
 
 Payments Under Fixed-Price Construction Contracts (MAR 2019)
 
-FAR 52.232-5, Payments under Fixed-Price Construction Contracts, is supplemented as follows:
+FAR 52.232-5, Payments under Fixed-Price Construction Contracts, is supplemented as follows:*Certification of Progress Payments Under Fixed-Price Construction Contracts*
 
 (a) Before submitting a request for payment, the Contractor shall, unless directed otherwise by the Contracting Officer, attend pre-invoice payment meetings, as scheduled, with the designated Government representative for the purpose of facilitating review and approval of payment requests. Payment meetings will be conducted and may be in person. The Contractor shall provide documentation to support the prospective payment request.
 

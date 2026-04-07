@@ -1,10 +1,10 @@
 ##### 252.232-7015 Performance-Based Payments—Representation.
 
-As prescribed in 232.1005-70(b), use the following provision: 
+As prescribed in 232.1005-70(b), use the following provision:
 
 Performance-Based Payments—Representation (DEC 2022)
 
-(a) In accordance with 10 U.S.C. 3802(c), the Contractor's financial statements shall be in compliance with Generally Accepted Accounting Principles in order to receive performance-based payments. 
+(a) In accordance with 10 U.S.C. 3802(c), the Contractor's financial statements shall be in compliance with Generally Accepted Accounting Principles in order to receive performance-based payments.
 
 (b) The Offeror represents that its financial statements are \[ \] are not \[ \] in compliance with Generally Accepted Accounting Principles.
 

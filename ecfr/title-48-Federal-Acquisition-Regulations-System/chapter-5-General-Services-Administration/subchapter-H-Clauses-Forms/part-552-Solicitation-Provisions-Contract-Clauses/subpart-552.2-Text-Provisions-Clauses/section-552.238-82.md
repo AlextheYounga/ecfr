@@ -1,6 +1,6 @@
 ##### 552.238-82 Modifications (Federal Supply Schedules).
 
-As prescribed in 538.273(d)(6), insert the following clause:
+As prescribed in 538.273(d)(6), insert the following clause:*Alternate I (MARCH 2020).*
 
 Modifications (Federal Supply Schedules) (JAN 2022)
 

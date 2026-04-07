@@ -4,7 +4,7 @@ As prescribed in 543.205, insert the following clause:
 
 Equitable Adjustments (MAR 2019)
 
-(a) This clause governs the determination of equitable adjustments to which the Contractor may be entitled under the “Changes” clause prescribed by FAR 52.243-4, the “Changes and Changed Conditions” clause prescribed by FAR 52.243-5, the “Differing Site Conditions” clause prescribed by FAR 52.236-2, and any other provision of this contract allowing entitlement to an equitable adjustment. This clause does not govern determination of the Contractor's relief allowable under the “Suspension of Work” clause prescribed by FAR 52.242-14.
+(a) This clause governs the determination of equitable adjustments to which the Contractor may be entitled under the “Changes” clause prescribed by FAR 52.243-4, the “Changes and Changed Conditions” clause prescribed by FAR 52.243-5, the “Differing Site Conditions” clause prescribed by FAR 52.236-2, and any other provision of this contract allowing entitlement to an equitable adjustment. This clause does not govern determination of the Contractor's relief allowable under the “Suspension of Work” clause prescribed by FAR 52.242-14.*Direct costs.*
 
 (b) At the written request of the Contracting Officer, the Contractor shall submit a proposal, in accordance with the requirements set forth herein, for an equitable adjustment to the contract for changes or other conditions that may entitle a Contractor to an equitable adjustment. If the Contractor deems an oral or written order to be a change to the contract, it shall promptly submit to the Contracting Officer a proposal for equitable adjustment attributable to such deemed change. The proposal shall also conform to the requirements set forth herein.
 

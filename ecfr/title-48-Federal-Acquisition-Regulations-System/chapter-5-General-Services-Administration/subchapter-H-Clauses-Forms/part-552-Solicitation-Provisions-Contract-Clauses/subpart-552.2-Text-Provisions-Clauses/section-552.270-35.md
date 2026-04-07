@@ -1,6 +1,6 @@
 ##### 552.270-35 System for Award Management—Leasing.
 
-As prescribed in 570.702, insert the following provision:
+As prescribed in 570.702, insert the following provision:*Alternate I*
 
 System for Award Management—Leasing (12/2024)
 

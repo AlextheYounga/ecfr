@@ -4,7 +4,7 @@ As prescribed in 538.273(d)(12), insert the following clause:
 
 GSA Advantage!® (Jul 2024)
 
-(a) The Contractor shall participate in the GSA Advantage!® online shopping service. Information and instructions regarding Contractor participation are contained in clause 552.238-103, Electronic Commerce.
+(a) The Contractor shall participate in the GSA Advantage!® online shopping service. Information and instructions regarding Contractor participation are contained in clause 552.238-103, Electronic Commerce.*Single use plastic (SUP) free packaging icon.*
 
 (b) The Contractor shall refer to contract clauses 552.238-77, Submission and Distribution of Authorized FSS Price Lists (which provides for submission of price lists on a common-use electronic medium), and 552.238-82, Modifications (which addresses electronic file updates).
 

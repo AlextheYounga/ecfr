@@ -1,6 +1,6 @@
 ##### 552.236-21 Specifications and Drawings for Construction.
 
-As prescribed in 536.521, insert the following clause:
+As prescribed in 536.521, insert the following clause:*Alternate I*
 
 Specifications and Drawings for Construction (MAR 2019)
 

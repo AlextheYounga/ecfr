@@ -1,6 +1,6 @@
 ##### 552.236-72 Submittals.
 
-As prescribed in 536.572, insert the following clause:
+As prescribed in 536.572, insert the following clause:*Alternate I*
 
 Submittals (MAR 2019)
 

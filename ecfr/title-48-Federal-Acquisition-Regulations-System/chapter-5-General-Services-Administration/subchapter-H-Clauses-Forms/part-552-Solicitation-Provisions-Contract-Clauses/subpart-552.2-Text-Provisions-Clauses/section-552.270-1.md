@@ -1,6 +1,6 @@
 ##### 552.270-1 Instructions to Offerors—Acquisition of Leasehold Interests in Real Property.
 
-As prescribed in 570.702, insert the following provision:
+As prescribed in 570.702, insert the following provision:*Alternate I*
 
 Instructions to Offerors—Acquisition of Leasehold Interests in Real Property (MAR 2025)
 
@@ -104,4 +104,4 @@ Use or disclosure of data contained on this sheet is subject to the restriction 
 
 (4) The Government intends to evaluate proposals and award a lease without discussions with offerors (except clarifications as described in FAR 15.306(a)). Therefore, the offeror's initial proposal should contain the offeror's best terms from a cost or price and technical standpoint. The Government reserves the right to conduct discussions if the Contracting Officer later determines them to be necessary. If the Contracting Officer determines that the number of proposals that would otherwise be in the competitive range exceeds the number at which an efficient competition can be conducted, the Contracting Officer may limit the number of proposals in the competitive range to the greatest number that will permit an efficient competition among the most highly rated proposals.
 
-\[64 FR 37229, July 9, 1999, as amended at 76 FR 30845, May 27, 2011; 86 FR 55525, Oct. 6, 2021; 89 FR 105477, Dec. 27, 2024; 90 FR 8683, Jan. 31, 2025\]
+\[64 FR 37229, July 9, 1999, as amended at 76 FR 30845, May 27, 2011; 86 FR 55525, Oct. 6, 2021; 89 FR 105477, Dec. 27, 2024; 90 FR 8683, Jan. 31, 2025\] Link to an amendment published at 90 FR 14054, Mar. 28, 2025.

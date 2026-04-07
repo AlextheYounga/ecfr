@@ -1,6 +1,6 @@
 ##### 252.206-7000 Domestic Source Restriction.
 
-As prescribed at 206.302-3-70, use the following provision: 
+As prescribed at 206.302-3-70, use the following provision:
 
 Domestic Source Restriction (AUG 2023)
 

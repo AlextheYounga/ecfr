@@ -4,7 +4,7 @@ As prescribed in 538.273(d)(4) insert the following clause:
 
 Industrial Funding Fee and Sales Reporting (JUL 2020)
 
-(a) Reporting of Federal Supply Schedule Sales. The Contractor shall report all contract sales under this contract as follows:
+(a) Reporting of Federal Supply Schedule Sales. The Contractor shall report all contract sales under this contract as follows:*http://www.fiscal.treasury.gov/fsreports/rpt/treasRptRateExch/treasRptRateExch\_home.htm.*
 
 (1) The Contractor shall accurately report the dollar value, in U.S. dollars and rounded to the nearest whole dollar, of all sales under this contract by calendar quarter (January 1-March 31, April 1-June 30, July 1-September 30, and October 1-December 31). The dollar value of a sale is the price paid by the Schedule user for products and services on a Schedule task or delivery order. The reported contract sales value shall include the Industrial Funding Fee (IFF). The Contractor shall maintain a consistent accounting method of sales reporting, based on the Contractor's established commercial accounting practice. The acceptable points at which sales may be reported include—
 
@@ -33,6 +33,10 @@ Industrial Funding Fee and Sales Reporting (JUL 2020)
 (c) Within 60 days of award, an FAS representative will provide the Contractor with specific written procedural instructions on remitting the IFF. FAS reserves the unilateral right to change such instructions from time to time, following notification to the Contractor.
 
 (d) Failure to remit the full amount of the IFF within 30 calendar days after the end of the applicable reporting period constitutes a contract debt to the United States Government under the terms of FAR Subpart 32.6. The Government may exercise all rights under the Debt Collection Improvement Act of 1996, including withholding or setting off payments and interest on the debt (see FAR clause 52.232-17, Interest). Should the Contractor fail to submit the required sales reports, falsify them, or fail to timely pay the IFF, this is sufficient cause for the Government to terminate the contract for cause.
+
+Note to paragraph (b)(2):
+
+The Contracting Officer may add data elements to the standard elements listed in paragraph (b)(2) of this section with the approvals listed in GSAM 507.103(b)(3).
 
 (End of clause) Alternate I (MAY 2023). As prescribed in 538.273(d)(4), substitute the following paragraphs (a), (b), (c), and (d) for paragraphs (a), (b), (c), and (d) of the basic clause: 
 

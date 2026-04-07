@@ -1,6 +1,6 @@
 ##### 252.219-7011 Notification to delay performance.
 
-As prescribed in 219.811-3 (3), use the following clause: 
+As prescribed in 219.811-3 (3), use the following clause:
 
 Notification To Delay Performance (JUN 1998)
 

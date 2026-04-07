@@ -4,7 +4,7 @@ As prescribed in 538.273(d)(11), insert the following clause:
 
 Delivery Prices (MAY 2019)
 
-(a) Prices offered must cover delivery as provided below to destinations located within the 48 contiguous States and the District of Columbia.
+(a) Prices offered must cover delivery as provided below to destinations located within the 48 contiguous States and the District of Columbia.*i.e.,*
 
 (1) Delivery to the door of the specified Government activity by freight or express common carriers on articles for which store-door delivery is provided, free or subject to a charge, pursuant to regularly published tariffs duly filed with the Federal and/or State regulatory bodies governing such carrier; or, at the option of the Contractor, by parcel post on mailable articles, or by the Contractor's vehicle. Where store-door delivery is subject to a charge, the Contractor shall place the notation “Delivery Service Requested” on bills of lading covering such shipments, and pay such charge and add the actual cost thereof as a separate item to his invoice.
 

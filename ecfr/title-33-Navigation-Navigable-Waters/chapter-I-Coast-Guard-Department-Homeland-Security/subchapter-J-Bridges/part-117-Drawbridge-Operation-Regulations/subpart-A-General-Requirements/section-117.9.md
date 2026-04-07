@@ -1,6 +1,6 @@
 ##### § 117.9 Delaying opening of a draw.
 
-No person shall unreasonably delay the opening of a draw after the signals required by § 117.15 have been given.
+No person shall unreasonably delay the opening of a draw after the signals required by § 117.15 have been given. 
 
 Note:
 

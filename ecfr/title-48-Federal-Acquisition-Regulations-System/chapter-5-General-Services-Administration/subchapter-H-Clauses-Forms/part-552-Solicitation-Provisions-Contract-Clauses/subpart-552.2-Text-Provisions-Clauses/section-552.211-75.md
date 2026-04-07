@@ -1,6 +1,6 @@
 ##### 552.211-75 Preservation, Packaging, and Packing.
 
-As prescribed in 511.204(b)(2), insert the following clause:
+As prescribed in 511.204(b)(2), insert the following clause:*Alternate I*
 
 Preservation, Packaging, and Packing (FEB 1996)
 

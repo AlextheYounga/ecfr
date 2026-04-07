@@ -1,6 +1,6 @@
 ##### 552.236-71 Contractor Responsibilities.
 
-As prescribed in 536.571, insert the following clause:
+As prescribed in 536.571, insert the following clause:*Alternate I*
 
 Contractor Responsibilities (MAR 2019)
 

@@ -1,6 +1,6 @@
 ##### 552.238-120 Economic Price Adjustment—Federal Supply Schedule Contracts.
 
-As prescribed in 538.273(d), insert the following clause:
+As prescribed in 538.273(d), insert the following clause:*Definition.*
 
 552.238-120 Economic Price Adjustment—Federal Supply Schedule Contracts (SEP 2024)
 

@@ -1,10 +1,10 @@
 ##### 552.236-15 Schedules for Construction Contracts.
 
-As prescribed in 536.515, insert the following clause:
+As prescribed in 536.515, insert the following clause:*Alternate I*
 
 Schedules for Construction Contracts (MAR 2019)
 
-The requirements, of the clause entitled “Schedules for Construction Contracts” at FAR 52.236-15, are supplemented as follows:
+The requirements, of the clause entitled “Schedules for Construction Contracts” at FAR 52.236-15, are supplemented as follows:*Purpose.*
 
 (a) *Purpose.* The project schedule shall be a rational, reasonable, and realistic plan for completing the work, and conform to the requirements specified in this clause and elsewhere in the contract. The Contractor understands and acknowledges that the preparation and proper management of the project schedule is a material component of the contract.
 

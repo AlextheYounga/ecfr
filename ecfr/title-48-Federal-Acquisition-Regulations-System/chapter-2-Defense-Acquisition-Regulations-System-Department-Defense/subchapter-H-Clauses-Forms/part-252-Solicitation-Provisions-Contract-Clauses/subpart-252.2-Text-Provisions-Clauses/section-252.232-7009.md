@@ -1,6 +1,6 @@
 ##### 252.232-7009 Mandatory payment by Governmentwide commercial purchase card.
 
-As prescribed in 232.1110, use the following clause: 
+As prescribed in 232.1110, use the following clause:
 
 Mandatory Payment by Governmentwide Commercial Purchase Card (MAY 2018)
 

@@ -4,6 +4,8 @@ As prescribed in 512.301(b), replace subparagraph (g)(2), paragraph (s), and par
 
 Contract Terms and Conditions—Commercial Products and Commercial Services (DEVIATION FAR 52.212-4) (JAN 2023)
 
+(g)(2) The due date for making invoice payments by the designated payment office is the later of the following two events:*Order of precedence.*
+
 (g)(2) The due date for making invoice payments by the designated payment office is the later of the following two events:
 
 (i) The 10th day after the designated billing office receives a proper invoice from the Contractor. If the designated billing office fails to annotate the invoice with the date of receipt at the time of receipt, the invoice payment due date shall be the 10th day after the date of the Contractor's invoice; provided the Contractor submitted a proper invoice and no disagreement exists over quantity, quality, or Contractor compliance with contract requirements.

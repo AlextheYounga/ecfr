@@ -4,7 +4,7 @@ As prescribed in 532.706-3(b), insert the following clause:
 
 Commercial Supplier Agreements-Unenforceable Clauses (FEB 2018)
 
-When any supply or service acquired under this contract is subject to a commercial supplier agreement (as defined in 502.101), the following language shall be deemed incorporated into the commercial supplier agreement. As used herein, “this agreement” means the commercial supplier agreement:
+When any supply or service acquired under this contract is subject to a commercial supplier agreement (as defined in 502.101), the following language shall be deemed incorporated into the commercial supplier agreement. As used herein, “this agreement” means the commercial supplier agreement:*Applicability.*
 
 (a) Notwithstanding any other provision of this agreement, when the end user is an agency or instrumentality of the U.S. Government, the following shall apply:
 

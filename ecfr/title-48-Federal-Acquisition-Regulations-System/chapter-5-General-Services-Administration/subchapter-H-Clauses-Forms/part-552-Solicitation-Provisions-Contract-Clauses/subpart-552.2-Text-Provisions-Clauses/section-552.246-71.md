@@ -1,6 +1,6 @@
 ##### 552.246-71 Source Inspection by Government.
 
-As prescribed in 546.302-71, insert the following clause:
+As prescribed in 546.302-71, insert the following clause:*\* The rates to be inserted are established by the Commissioner of the Federal Acquisition Service or a designee.*
 
 Source Inspection by Government (JUN 2009)
 

@@ -1,10 +1,10 @@
 ##### 552.216-72 Placement of Orders.
 
-As prescribed in 516.506(a), insert the following clause:
+As prescribed in 516.506(a), insert the following clause:*Alternate I*
 
 Placement of Orders (JAN 2016)
 
-(a) Delivery orders (orders) will be placed by:
+(a) Delivery orders (orders) will be placed by:*http://www.gsa.gov/portal/category/21404*
 
 \[Contracting Officer insert names of Federal agencies\]
 

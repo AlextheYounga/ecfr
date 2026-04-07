@@ -4,7 +4,7 @@ As prescribed in 570.702, insert the following provision:
 
 Historic Preference (SEP 2004)
 
-(a) The Government will give preference to offers of space in historic properties following this hierarchy of consideration:
+(a) The Government will give preference to offers of space in historic properties following this hierarchy of consideration:*Definitions.*
 
 (1) Historic properties within historic districts.
 
