@@ -14,4 +14,4 @@
 
 (5) The name and address of the sampling concern.
 
-(c) *Samples taken by Customs.* Where no commercial samples have been taken, an authorized CBP director shall take representative samples from different parts of the shipment.
+(c) *Samples taken by Customs.* Where no commercial samples have been taken, an authorized CBP official shall take representative samples from different parts of the shipment.
