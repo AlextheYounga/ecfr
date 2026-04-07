@@ -1,7 +1,5 @@
 ##### § 17.95 Critical habitat - fish and wildlife.
 
-Link to an amendment published at 86 FR 17970, Apr. 7, 2021.Link to an amendment published at 86 FR 18203, Apr. 8, 2021.Link to an amendment published at 86 FR 20939, Apr. 21, 2021.Link to an amendment published at 86 FR 22570, Apr. 28, 2021.
-
 (a) *Mammals.*
 
 Indiana Bat (*Myotis sodalis*)
@@ -1154,7 +1152,7 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.020.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 86 FR 4844, Jan. 15, 2021.This amendment was delayed to Apr. 30, 2021, at 86 FR 11892, Mar. 1, 2021.This amendment was further delayed to Dec. 15, 2021, at 86 FR 22876, Apr. 30, 2021.
+![](/graphics/ec01jn91.020.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 86 FR 20939, Apr. 21, 2021.Link to an amendment published at 86 FR 4844, Jan. 15, 2021.This amendment was delayed to Apr. 30, 2021, at 86 FR 11892, Mar. 1, 2021.This amendment was further delayed to Dec. 15, 2021, at 86 FR 22876, Apr. 30, 2021.
 
 (b) *Birds.*
 
@@ -9012,7 +9010,7 @@ Critical Habitat Map Unit
 
 (ii) Map 1 of the critical habitat for Rota bridled white-eye follows:
 
-![](/graphics/er12se06.000.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 85 FR 61631, Sept. 30, 2020.Link to an amendment published at 85 FR 82388, Dec. 18, 2020.
+![](/graphics/er12se06.000.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 85 FR 61631, Sept. 30, 2020.Link to an amendment published at 85 FR 82388, Dec. 18, 2020.Link to an amendment published at 86 FR 22570, Apr. 28, 2021.
 
 (c) *Reptiles.*
 
@@ -13552,7 +13550,177 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.099.gif)Cumberland Darter (*Etheostoma susanae*)
+![](/graphics/ec01jn91.099.gif)Candy Darter (*Etheostoma Osburni*)
+
+(1) Critical habitat units are depicted for Bland, Giles, and Wythe Counties, Virginia, and Greenbrier, Nicholas, Pocahontas, and Webster Counties, West Virginia, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the candy darter consist of the following components:
+
+(i) Ratios or densities of nonnative species that allow for maintaining populations of candy darters.
+
+(ii) A blend of unembedded gravel and cobble that allows for normal breeding, feeding, and sheltering behavior.
+
+(iii) Adequate water quality characterized by seasonally moderated temperatures and physical and chemical parameters (*e.g.,* pH, dissolved oxygen levels, turbidity) that support normal behavior, growth, and viability of all life stages of the candy darter.
+
+(iv) An abundant, diverse benthic macroinvertebrate community (*e.g.,* mayfly nymphs, midge larvae, caddisfly larvae) that allows for normal feeding behavior.
+
+(v) Sufficient water quantity and velocities that support normal behavior, growth, and viability of all life stages of the candy darter.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on May 7, 2021.
+
+(4) *Critical habitat map units.* The provided maps were made using the geographic projection GCS\_North\_American\_1983 coordinate system. Four spatial layers are included as background layers. We used two political boundary layers indicating the State and county boundaries within the United States available through ArcMap Version 10.5 software by ESRI. The roads layer displays major interstates, U.S. highways, State highways, and county roads in the Census 2000/TIGER/Line dataset provided by the U.S. Census Bureau, and available through ArcMap Version 10.5 software. Lastly, the hydrologic data used to indicate river and stream location are a spatial layer of rivers, streams, and small tributaries from the National Hydrology Database (NHD) Plus Version 2 database. This database divides the United States into a number of zones, and the zones that include the area where candy darter critical habitat is indicated are the Ohio-05 hydrologic zone and the Mid Atlantic-02 hydrologic zone. The maps provided display the critical habitat in relation to State and county boundaries, major roads and highways, and connections to certain rivers and streams within the larger river network. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *https://www.fws.gov/northeast/candydarter/,* at *http://www.regulations.gov* at Docket No. FWS-R5-ES-2018-0050, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map of candy darter critical habitat units follows:
+
+![](/graphics/er07ap21.001.gif)
+
+(6) Index map of Unit 1-Greenbrier follows:
+
+![](/graphics/er07ap21.002.gif)
+
+(7) *Unit 1a:* East Fork of Greenbrier River, Pocahontas County, West Virginia.
+
+(i) *General description:* Unit 1a consists of approximately 29.7 stream kilometers (skm) (18.5 stream miles (smi)) of the East Fork of the Greenbrier River from the confluence of an unnamed tributary located 1.8 skm (1.1 smi) upstream of the Bennett Run confluence, downstream to the confluence of the East Fork and West Fork of the Greenbrier River at Durbin, West Virginia; and approximately 6.8 skm (4.2 smi) of the Little River from the U.S. Highway 250 crossing, downstream to the confluence of the Little River and the East Fork of the Greenbrier River; and approximately 1.9 skm (1.2 smi) of Buffalo Fork from the Buffalo Lake dam downstream to the confluence of Buffalo Fork and the Little River. Approximately 21.2 skm (13.2 smi) of Unit 1a is within the Monongahela National Forest with the remainder adjacent to almost entirely private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 1a, East Fork of Greenbrier River, follows:
+
+![](/graphics/er07ap21.003.gif)
+
+(8) *Unit 1b:* West Fork of Greenbrier River, Pocahontas County, West Virginia.
+
+(i) *General description:* Unit 1b consists of approximately 29.9 skm (18.6 smi) of the West Fork of the Greenbrier River from the confluence with Snorting Lick Run, downstream to the confluence of the East Fork and West Fork of the Greenbrier River at Durbin, West Virginia; approximately 13.3 skm (8.3 smi) of the Little River from the confluence with Hansford Run, downstream to the confluence of the Little River and the West Fork of the Greenbrier River; and approximately 4.8 skm (3.0 smi) of Mountain Lick Creek from the confluence with an unnamed tributary (located 1.5 skm (0.9 smi) downstream of the Upper Mountain Lick Forest Service Road crossing), downstream to the confluence of Mountain Lick Creek and the West Fork of the Greenbrier River. Approximately 47.1 skm (29.3 smi) of Unit 1b is within the Monongahela National Forest with the remainder adjacent to almost entirely private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 1b, West Fork of Greenbrier River, follows:
+
+![](/graphics/er07ap21.004.gif)
+
+(9) *Unit 1c:* Upper Greenbrier River, Pocahontas County, West Virginia.
+
+(i) *General description:* Unit 1c consists of approximately 69.3 skm (43.1 smi) of the Greenbrier River from the confluence of the East Fork and West Fork of the Greenbrier River at Durbin, West Virginia, downstream to the confluence of Knapp Creek at Marlinton, West Virginia. Approximately 47.5 skm (29.5 smi) of Unit 1c is within the Monongahela National Forest and the Seneca State Forest, with the remainder adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 1c, Upper Greenbrier River, follows:
+
+![](/graphics/er07ap21.005.gif)
+
+(10) *Unit 1d:* Deer Creek, Pocahontas County, West Virginia.
+
+(i) *General description:* Unit 1d consists of approximately 21.2 skm (13.2 smi) of Deer Creek from the confluence of Deer Creek and Saulsbury Run, downstream to the confluence with the Greenbrier River; and approximately 16.3 skm (10.1 smi) of North Fork from a point approximately 1.6 skm (1.0 smi) upstream of the Elleber Run confluence, downstream to the confluence of North Fork and Deer Creek. Approximately 10.0 skm (6.2 smi) of Unit 1d is within the Monongahela National Forest, with the remainder adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 1d, Deer Creek, follows:
+
+![](/graphics/er07ap21.006.gif)
+
+(11) *Unit 1e:* Sitlington Creek, Pocahontas County, West Virginia.
+
+(i) *General description:* Unit 1e consists of approximately 10.1 skm (6.3 smi) of Sitlington Creek from the confluence of Galford Run and Thorny Branch, downstream to the confluence with the Greenbrier River. Approximately 1.2 skm (0.7 smi) of Unit 1e is within the Monongahela National Forest, with the remainder adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 1e, Sitlington Creek, follows:
+
+![](/graphics/er07ap21.007.gif)
+
+(12) *Unit 1f:* Knapp Creek, Pocahontas County, West Virginia.
+
+(i) *General description:* Unit 1f consists of approximately 43.9 skm (27.3 smi) of Knapp Creek from a point approximately (0.1 smi) west of the WV Route 84 and Public Road 55 intersection, downstream to the confluence with the Greenbrier River at Marlinton, West Virginia. Approximately 7.2 skm (4.5 smi) of Unit 1f is within the Monongahela National Forest, with the remainder adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 1f, Knapp Creek, follows:
+
+![](/graphics/er07ap21.008.gif)
+
+(13) Index map of Unit 2-Middle New follows:
+
+![](/graphics/er07ap21.009.gif)
+
+(14) *Unit 2a:* Dismal Creek, Bland and Giles Counties, Virginia.
+
+(i) *General description:* Unit 2a consists of approximately 4.2 skm (2.6 smi) of Dismal Creek from the confluence with Standrock Branch, downstream to the confluence of Dismal Creek and Kimberling Creek. Approximately 3.2 skm (2.0 smi) of Unit 2a is within the George Washington and Jefferson National Forest, with the remainder adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 2a, Dismal Creek, follows:
+
+![](/graphics/er07ap21.010.gif)
+
+(15) *Unit 2b:* Stony Creek, Giles County, Virginia.
+
+(i) *General description:* Unit 2b consists of approximately 31.1 skm (19.3 smi) of Stony Creek from the confluence with White Rock Branch, downstream to the confluence with the New River. Approximately 16.1 skm (10.0 smi) of Unit 2b is within the George Washington and Jefferson National Forest, with the remainder adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 2b, Stony Creek, follows:
+
+![](/graphics/er07ap21.011.gif)
+
+(16) *Unit 2c:* Laurel Creek, Bland County, Virginia.
+
+(i) *General description:* Unit 2c consists of approximately 5.1 skm (3.2 smi) of Laurel Creek from a point approximately 0.8 skm (0.5 smi) upstream of the unnamed pond, downstream to the confluence of Laurel Creek and Wolf Creek and approximately 1.4 skm (0.8 smi) of Wolf Creek from the Laurel Creek confluence downstream to the stream riffle adjacent to the intersection of Wolf Creek Highway and Alder Lane. Unit 2c is adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 2c, Laurel Creek, follows:
+
+![](/graphics/er07ap21.012.gif)
+
+(17) *Unit 3:* Lower Gauley, “Lower” Gauley River, Nicholas County, West Virginia.
+
+(i) *General description:* Unit 3 consists of approximately 2.9 skm (1.8 smi) of the Gauley River from the base of the Summersville Dam, downstream to the confluence of Collison Creek. The entirety of Unit 3 is within the National Park Service's Gauley River National Recreation Area and the U.S. Army Corps of Engineer's Summersville Recreation Area.
+
+(ii) Map of Unit 3-Lower Gauley follows:
+
+![](/graphics/er07ap21.013.gif)
+
+(18) *Unit 4:* Upper New, Cripple Creek, Wythe County, Virginia.
+
+(i) *General description:* Unit 4 consists of approximately 7.9 skm (4.9 smi) of Cripple Creek from a point approximately (2.0 smi) upstream of the State Road 94 bridge, downstream to the confluence of Cripple Creek and the New River. The stream in Unit 4 is adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 4-Upper New follows:
+
+![](/graphics/er07ap21.014.gif)
+
+(19) Index map of Unit 5-Upper Gauley follows:
+
+![](/graphics/er07ap21.015.gif)
+
+(20) *Unit 5a:* Gauley Headwaters, Webster County, West Virginia.
+
+(i) *General description:* Unit 5a consists of approximately 37.3 skm (23.2 smi) of the Gauley River from the North and South Forks of the Gauley River, downstream to the confluence of the Gauley River and the Williams River at Donaldson, West Virginia; and 2.9 skm (1.8 smi) of Straight Creek from its confluence with the Gauley River to a point approximately 2.9 skm (1.8 smi) upstream of the confluence. Approximately 9.0 skm (5.6 smi) of Unit 5a is within the Monongahela National Forest. The remainder of the unit is adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 5a, Gauley Headwaters, follows:
+
+![](/graphics/er07ap21.016.gif)
+
+(21) *Unit 5b:* Upper Gauley River, Nicholas and Webster Counties, West Virginia.
+
+(i) *General description:* Unit 5b consists of approximately 43.8 skm (27.2 smi) of the Gauley River from the confluence of the Gauley and Williams Rivers at Donaldson, West Virginia, downstream to a point approximately 1.6 skm (1.0 smi) upstream of the Big Beaver Creek confluence. Approximately 14.6 skm (9.2 smi) of Unit 5b is within the Monongahela National Forest and/or adjacent to land owned by the U.S. Army Corps of Engineers. The streams in the remainder of the unit are adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 5b, Upper Gauley River, follows:
+
+![](/graphics/er07ap21.017.gif)
+
+(22) *Unit 5c:* Panther Creek, Nicholas County, West Virginia.
+
+(i) *General description:* Unit 5c consists of approximately 16.3 skm (10.1 smi) of Panther Creek from a point approximately 1.1 skm (0.7 smi) upstream of the Grassy Creek Road crossing, downstream to the confluence with the Gauley River. The streams in Unit 5c are adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 5c, Panther Creek, follows:
+
+![](/graphics/er07ap21.018.gif)
+
+(23) *Unit 5d:* Williams River, Pocahontas and Webster Counties, West Virginia.
+
+(i) *General description:* Unit 5d consists of approximately 52.4 skm (32.6 smi) of the Williams River from the confluence with Beaverdam Run, downstream to the confluence of the Williams River and the Gauley River at Donaldson, West Virginia; and 5.1 skm (3.2 smi) of Tea Creek from a point on Lick Creek approximately 2.7 skm (1.7 smi) upstream of the Lick Creek confluence, downstream to the Tea Creek confluence with the Williams River. The streams in Unit 5d are entirely within the Monongahela National Forest.
+
+(ii) Map of Unit 5d, Williams River, follows:
+
+![](/graphics/er07ap21.019.gif)
+
+(24) *Unit 5e:* Cranberry River, Nicholas and Webster Counties, West Virginia.
+
+(i) *General description:* Unit 5e consists of approximately 39.3 skm (24.4 smi) of the Cranberry River from the confluence of the North and South Forks of the Cranberry River, downstream to the confluence of the Cranberry River and the Gauley River. This stream is entirely within the Monongahela National Forest.
+
+(ii) Map of Unit 5e, Cranberry River, follows:
+
+![](/graphics/er07ap21.020.gif)
+
+(25) *Unit 5f:* Cherry River, Greenbrier and Nicholas Counties, West Virginia.
+
+(i) *General description:* Unit 5f consists of approximately 16.7 skm (10.4 smi) of Cherry River from the confluence of the North and South Forks of the Cherry River, downstream to the confluence of the Cherry River and the Gauley River; approximately 28.0 skm (17.4 smi) of the North Fork Cherry River from the Pocahontas Trail crossing, downstream to the confluence of the North and South Forks of the Cherry River; approximately 26.2 skm (16.3 smi) of the South Fork Cherry River from a point approximately 0.5 skm (0.3 smi) south of County Road 29/4 in Virginia, downstream to the confluence of the North and South Forks of the Cherry River; and approximately 24.9 skm (15.5 smi) of Laurel Creek from a point approximately 0.3 skm (0.2 smi) west of Cold Knob Road, downstream to the confluence of Laurel Creek and the Cherry River. Approximately 29.1 skm (18.1 smi) of Unit 5f is within the Monongahela National Forest. The remainder is adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 5f, Cherry River, follows:
+
+![](/graphics/er07ap21.021.gif)Cumberland Darter (*Etheostoma susanae*)
 
 (1) Critical habitat units are depicted for McCreary and Whitley Counties, Kentucky, and Campbell and Scott Counties, Tennessee, on the maps below.
 

@@ -40,7 +40,7 @@ Inert matter shall include seeds and seed-like structures from both crop and wee
 
 (3) Seeds of legumes and species of Brassica with the seed coats entirely removed.
 
-(4) Immature seed units, devoid of both embryo and endosperm, such as occur in but not limited to the following plant families: Sedge (Asteraceae), buckwheat (Polygonaceae), morning glory (Convolvulaceae), nightshade (Solanaceae), puncturevine (Zygophyllaceae) and sunflower (Compositae). Cocklebur (Xanthium spp.) burs are to be dissected to determine whether or not seeds are present.
+(4) Immature seed units, devoid of both embryo and endosperm, such as occur in but not limited to the following plant families: Sedge (Cyperaceae), buckwheat (Polygonaceae), morning glory (Convolvulaceae), nightshade (Solanaceae), puncturevine (Zygophyllaceae) and sunflower (Asteraceae). Cocklebur (Xanthium spp.) burs are to be dissected to determine whether or not seeds are present.
 
 (5) Wild onion and wild garlic (Allium spp.) bulblets:
 

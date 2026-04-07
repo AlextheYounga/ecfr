@@ -304,15 +304,19 @@
 
 1750 
 
-(11) Sibutramine
+(11) Serdexmethylphenidate
+
+1729 
+
+(12) Sibutramine
 
 1675 
 
-(12) Solriamfetol (2-amino-3-phenylpropyl carbamate; benzenepropanol, beta-amino-, carbamate (ester))
+(13) Solriamfetol (2-amino-3-phenylpropyl carbamate; benzenepropanol, beta-amino-, carbamate (ester))
 
 1650 
 
-(13) SPA ((-)-1-dimethylamino- 1,2-diphenylethane)
+(14) SPA ((-)-1-dimethylamino- 1,2-diphenylethane)
 
 1635
 
