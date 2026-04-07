@@ -16,7 +16,7 @@
 
 (h) The Grantee shall operate and maintain in a safe and serviceable condition, as deemed reasonably necessary by Grantor, the port and all facilities thereon and connected therewith which are necessary to service the maritime users of the Port Facility and will not permit any activity thereon which would interfere with its use as a Port Facility.
 
-(i) The Port Facility is subject to the provisions of Title 46 Code of Federal Regulations (CFR) Part 340.
+(i) The Port Facility is subject to the provisions of Title 46 Code of Federal Regulations (CFR) part 340.
 
 (j) The Grantee shall furnish the Grantor such financial, operational and annual utilization reports as may be required.
 
