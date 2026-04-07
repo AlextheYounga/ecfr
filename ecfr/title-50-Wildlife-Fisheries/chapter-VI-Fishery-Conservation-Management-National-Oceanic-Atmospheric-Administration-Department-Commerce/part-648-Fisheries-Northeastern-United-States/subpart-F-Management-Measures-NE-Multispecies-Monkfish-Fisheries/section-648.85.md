@@ -1,27 +1,32 @@
 ##### § 648.85 Special management programs.
 
-(a) *U.S./Canada Resource Sharing Understanding.* No NE multispecies fishing vessel, or person on such vessel, may enter, fish in, or be in the U.S./Canada Resource Sharing Understanding Management Areas (U.S./Canada Management Areas), as defined in paragraph (a)(1) of this section, unless the vessel is fishing in accordance with the restrictions and conditions of this section. These restrictions do not preclude fishing under an approved Special Access Program specified under paragraph (b) of this section.
+(a) *U.S./Canada Resource Sharing Understanding.* No NE multispecies fishing vessel, or person on such vessel, may enter, fish in, or be in the U.S./Canada Resource Sharing Understanding Management Areas (U.S./Canada Management Areas), as defined in paragraph (a)(1) of this section, unless the vessel is fishing in accordance with the restrictions and conditions of this section. These restrictions do not preclude fishing under an approved Special Access Program specified under paragraph (b) of this section.Federal Register
 
 (1) *U.S./Canada Management Areas.* A vessel issued a NE multispecies permit that meets the requirements of paragraph (a)(3) of this section may fish in the U.S./Canada Management Areas described in paragraphs (a)(1)(i) and (ii) of this section.
 
 (i) *Western U.S./Canada Area.* The Western U.S./Canada Area is the area defined by straight lines connecting the following points in the order stated (a chart depicting this area is available from the Regional Administrator upon request):
 
-Western U.S./Canada Area
-| Point   | N. lat. | W. long. |
-| ------- | ------- | -------- |
-| USCA 1  | 42°20′  | 68°50′   |
-| USCA 2  | 39°50′  | 68°50′   |
-| USCA 3  | 39°50′  | 66°40′   |
-| USCA 4  | 40°40′  | 66°40′   |
-| USCA 5  | 40°40′  | 66°50′   |
-| USCA 6  | 40°50′  | 66°50′   |
-| USCA 7  | 40°50′  | 67°00′   |
-| USCA 8  | 41°00′  | 67°00′   |
-| USCA 9  | 41°00′  | 67°20′   |
-| USCA 10 | 41°10′  | 67°20′   |
-| USCA 11 | 41°10′  | 67°40′   |
-| USCA 12 | 42°20′  | 67°40′   |
-| USCA 1  | 42°20′  | 68°50′   |
+Western U.S./Canada Areae
+| Point                                                                             | N. lat. | W. long. |
+| --------------------------------------------------------------------------------- | ------- | -------- |
+| USCA 11                                                                           | 42°20′  | 68°50′   |
+| USCA 2                                                                            | 39°50′  | 68°50′   |
+| USCA 3                                                                            | 39°50′  | 66°40′   |
+| USCA 4                                                                            | 40°40′  | 66°40′   |
+| USCA 5                                                                            | 40°40′  | 66°50′   |
+| USCA 6                                                                            | 40°50′  | 66°50′   |
+| USCA 7                                                                            | 40°50′  | 67°00′   |
+| USCA 8                                                                            | 41°00′  | 67°00′   |
+| USCA 9                                                                            | 41°00′  | 67°20′   |
+| USCA 10                                                                           | 41°10′  | 67°20′   |
+| USCA 11                                                                           | 41°10′  | 67°40′   |
+| USCA 12                                                                           | 42°20′  | 67°40′   |
+| USCA 1                                                                            | 42°20′  | 68°50′   |
+| 1 Intersection of the north-facing coastline of Cape Cod, MA, and 70°00′ W. long. |         |          |
+| 2 U.S./Canada maritime boundary (southern intersection with 67°40′ W. long.).     |         |          |
+| 3 U.S./Canada maritime boundary (northern intersection with 67°40′ W. long.).     |         |          |
+| 4 U.S./Canada maritime boundary.                                                  |         |          |
+| 5 Intersection of the south-facing ME coastline and 67°00′ W. long.               |         |          |
 
 (ii) *Eastern U.S./Canada Area.* The Eastern U.S./Canada Area is the area defined by straight lines connecting the following points in the order stated (a chart depicting this area is available from the Regional Administrator upon request):
 

@@ -1,6 +1,6 @@
 ##### § 648.260 Specifications.
 
-(a) *Review and specifications process.*
+(a) *Review and specifications process.*Federal Register
 
 (1)—(3) \[Reserved\]
 

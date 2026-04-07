@@ -1,6 +1,6 @@
 ##### § 648.96 FMP review, specification, and framework adjustment process.
 
-(a) *Annual review and adjustment process.* The NEFMC and MAFMC, the Monkfish Plan Development Team (PDT), and the Monkfish Advisory Panel shall monitor the status of the monkfish fishery and resource.
+(a) *Annual review and adjustment process.* The NEFMC and MAFMC, the Monkfish Plan Development Team (PDT), and the Monkfish Advisory Panel shall monitor the status of the monkfish fishery and resource.Federal Register
 
 (1) *Monkfish annual SAFE Report.* The PDT shall prepare an annual Stock Assessment and Fishery Evaluation (SAFE) Report for the monkfish fishery. The SAFE Report shall be the primary vehicle for the presentation of updated biological and socio-economic information regarding the monkfish fishery. The SAFE report shall provide source data for any adjustments to the management measures that may be needed for the Councils to meet the goals and objectives of the FMP.
 

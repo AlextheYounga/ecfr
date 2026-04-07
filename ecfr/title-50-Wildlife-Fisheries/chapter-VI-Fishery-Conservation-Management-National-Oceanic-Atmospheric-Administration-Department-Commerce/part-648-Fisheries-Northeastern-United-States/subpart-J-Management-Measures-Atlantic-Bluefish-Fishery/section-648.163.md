@@ -1,6 +1,6 @@
 ##### § 648.163 Bluefish Accountability Measures (AMs).
 
-(a) *ACL overage evaluation.* The ACLs will be evaluated based on a single-year examination of total catch (landings and dead discards). Both landings and dead discards will be evaluated in determining if the ACLs have been exceeded.
+(a) *ACL overage evaluation.* The ACLs will be evaluated based on a single-year examination of total catch (landings and dead discards). Both landings and dead discards will be evaluated in determining if the ACLs have been exceeded.Federal Register
 
 (b) *Commercial sector EEZ closure.* NMFS shall close the EEZ to fishing for bluefish by commercial vessels for the remainder of the calendar year by publishing notification in the Federal Register if the Regional Administrator determines that the inaction of one or more states will cause the ACL specified in § 648.160(a) to be exceeded, or if the commercial fisheries in all states have been closed. NMFS may reopen the EEZ if earlier inaction by a state has been remedied by that state, or if commercial fisheries in one or more states have been reopened without causing the ACL to be exceeded.
 

@@ -1,6 +1,6 @@
 ##### § 648.70 Surfclam and ocean quahog Annual Catch Limit (ACL).
 
-(a) The MAFMC staff shall recommend to the MAFMC ACLs for the surfclam and ocean quahog fisheries, which shall be equal to the ABCs recommended by the SSC.
+(a) The MAFMC staff shall recommend to the MAFMC ACLs for the surfclam and ocean quahog fisheries, which shall be equal to the ABCs recommended by the SSC.*Sectors.*
 
 (1) *Sectors.* The surfclam and ocean quahog ACLs will be established consistent with the guidelines contained in the Atlantic Surfclam and Ocean Quahog FMP. The ACL for ocean quahog will then be allocated to the Maine and non-Maine components of the fishery according to the allocation guidelines of the Atlantic Surfclam and Ocean Quahog FMP as specified in § 648.78(b).
 

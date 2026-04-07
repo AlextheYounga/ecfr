@@ -1,6 +1,6 @@
 ##### § 648.75 Shucking at sea and minimum surfclam size.
 
-(a) *Shucking at sea*—(1) *Observers.* (i) The Regional Administrator may allow the shucking of surfclams or ocean quahogs at sea if he/she determines that an observer carried aboard the vessel can measure accurately the total amount of surfclams and ocean quahogs harvested in the shell prior to shucking.
+(a) *Shucking at sea*—(1) *Observers.* (i) The Regional Administrator may allow the shucking of surfclams or ocean quahogs at sea if he/she determines that an observer carried aboard the vessel can measure accurately the total amount of surfclams and ocean quahogs harvested in the shell prior to shucking.Federal Register
 
 (ii) Any vessel owner may apply in writing to the Regional Administrator to shuck surfclams or ocean quahogs at sea. The application shall specify: Name and address of the applicant; permit number of the vessel; method of calculating the amount of surfclams or ocean quahogs harvested in the shell; vessel dimensions and accommodations; and length of fishing trip.
 

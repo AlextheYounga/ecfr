@@ -1,13 +1,13 @@
 ##### § 648.89 Recreational and charter/party vessel restrictions.
 
-(a) *Recreational gear restrictions.* Persons aboard charter/party vessels permitted under this part and not fishing under the DAS program or under the restrictions and conditions of an approved sector operations plan, as specified in § 648.87(c), and recreational fishing vessels in the EEZ, are prohibited from fishing with more than one line per angler, and all other gear on board must be stowed and not available for immediate use as defined in § 648.2.
+(a) *Recreational gear restrictions.* Persons aboard charter/party vessels permitted under this part and not fishing under the DAS program or under the restrictions and conditions of an approved sector operations plan, as specified in § 648.87(c), and recreational fishing vessels in the EEZ, are prohibited from fishing with more than one line per angler, and all other gear on board must be stowed and not available for immediate use as defined in § 648.2.Federal Register
 
 (b) *Recreational minimum and maximum fish sizes*—(1) *Minimum and maximum fish sizes.* Unless further restricted under this section, persons aboard charter or party boats permitted under this part and not fishing under the NE multispecies DAS program or under the restrictions and conditions of an approved sector operations plan, and private recreational fishing vessels may not possess fish in or from the EEZ that are smaller than the minimum fish sizes or larger than the maximum fish sizes, measured in total length, as follows:
 
 Table 1 to Paragraph (b)(1)
 | Species                                             | Charter/party   minimum size | Private   minimum size | Maximum   size |
 | --------------------------------------------------- | ---------------------------- | ---------------------- | -------------- |
-| Cod:                                                |                              |                        |                |
+| Cod:1                                               |                              |                        |                |
 | Inside GOM Regulated Mesh Area 1                    | 23                           | 58.4                   | 23             |
 | Outside GOM Regulated Mesh Area 1                   | 23                           | 58.4                   | 23             |
 | Haddock:                                            |                              |                        |                |
@@ -120,4 +120,4 @@ Table 3 to Paragraph (c)(2)
 
 (g) *Regional Administrator authority for Georges Bank cod recreational measures.* For the 2023 and 2024 fishing years, the Regional Administrator, after consultation with the NEFMC, may adjust recreational measures for Georges Bank cod to prevent the recreational fishery from exceeding the annual catch target as determined by the NEFMC. Appropriate measures, including adjustments to fishing seasons, minimum fish sizes, or possession limits, may be implemented in a manner consistent with the Administrative Procedure Act, with the final measures published in the Federal Register prior to the start of the fishing year when possible. Separate measures may be implemented for the private and charter/party components of the recreational fishery. Measures in place in fishing year 2024 will be in effect beginning in fishing year 2025, and will remain in effect until they are changed by a Framework Adjustment or Amendment to the FMP, or through an emergency action.
 
-\[69 FR 22984, Apr. 27, 2004\] Editorial Note:For Federal Register citations affecting § 648.89, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+\[69 FR 22984, Apr. 27, 2004\] Editorial Note:For Federal Register citations affecting § 648.89, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 90 FR 47989, Oct. 3, 2025.

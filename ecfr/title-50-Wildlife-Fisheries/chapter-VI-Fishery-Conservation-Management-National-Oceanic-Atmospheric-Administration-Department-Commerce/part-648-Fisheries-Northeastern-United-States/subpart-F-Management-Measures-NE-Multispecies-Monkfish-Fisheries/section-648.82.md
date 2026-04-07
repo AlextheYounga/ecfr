@@ -1,6 +1,6 @@
 ##### § 648.82 Effort-control program for NE multispecies limited access vessels.
 
-(a) Except as provided in §§ 648.17 and 648.82(a)(2), a vessel issued a limited access NE multispecies permit may not fish for, possess, or land regulated species, except during a DAS, as allocated under, and in accordance with, the applicable DAS program described in this section, unless otherwise provided elsewhere in this part.
+(a) Except as provided in §§ 648.17 and 648.82(a)(2), a vessel issued a limited access NE multispecies permit may not fish for, possess, or land regulated species, except during a DAS, as allocated under, and in accordance with, the applicable DAS program described in this section, unless otherwise provided elsewhere in this part.*End-of-year carry-over.*Federal Register,
 
 (1) *End-of-year carry-over.* With the exception of vessels that held a Confirmation of Permit History, as described in § 648.4(a)(1)(i)(J), for the entire fishing year preceding the carry-over year, limited access vessels that have unused DAS on the last day of April of any year may carry over a maximum of 10 DAS into the next year. Unused leased DAS may not be carried over. Vessels that have been sanctioned through enforcement proceedings will be credited with unused DAS based on their DAS allocation minus any total DAS that have been sanctioned through enforcement proceedings. For the 2004 fishing year only, DAS carried over from the 2003 fishing year will be classified as Regular B DAS, as specified under paragraph (d)(2) of this section. Beginning with the 2005 fishing year, for vessels with a balance of both unused Category A DAS and unused Category B DAS at the end of the previous fishing year (*e.g.,* for the 2005 fishing year, carry-over DAS from the 2004 fishing year), Category A DAS will be carried over first, than Regular B DAS, than Reserve B DAS. Category C DAS cannot be carried over.
 
@@ -249,7 +249,7 @@
 Inshore GOM Differential DAS Area
 | Point                                     | N. latitude | W. longitude |
 | ----------------------------------------- | ----------- | ------------ |
-| INGOM1                                    | (1)         | 69°30′       |
+| INGOM11                                   | (1)         | 69°30′       |
 | INGOM2                                    | 43°00′      | 69°30′       |
 | INGOM3                                    | 43°00′      | 70°00′       |
 | INGOM4                                    | (2)         | 70°00′       |

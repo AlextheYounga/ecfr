@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 45677, Sept. 23, 2025.
 
-(a) *Mesh restrictions and exemptions.* Vessels subject to the mesh restrictions in this paragraph (a) must render any net, or any piece of net, with a mesh size smaller than that specified in paragraphs (a)(1), (2), and (3) of this section not available for immediate use as defined in § 648.2.
+(a) *Mesh restrictions and exemptions.* Vessels subject to the mesh restrictions in this paragraph (a) must render any net, or any piece of net, with a mesh size smaller than that specified in paragraphs (a)(1), (2), and (3) of this section not available for immediate use as defined in § 648.2.1/8
 
 (1) *Butterfish fishery.* Owners or operators of otter trawl vessels possessing more than 5,000 lb (2.27 mt) of butterfish harvested in or from the EEZ may only fish with nets having a minimum codend mesh of 3 inches (7.62 cm) diamond or square mesh, as measured by methods specified in § 648.80(f), applied throughout the codend for at least 100 continuous meshes forward of the terminus of the net, or for codends with less than 100 meshes, the minimum mesh size codend shall be a minimum of one-third of the net, measured from the terminus of the codend to the headrope.
 
@@ -22,9 +22,10 @@ Link to an amendment published at 90 FR 45677, Sept. 23, 2025.
 
 (5) *Illex fishery.* Seaward of the following coordinates, connected in the order listed by straight lines except otherwise noted, otter trawl vessels possessing longfin squid harvested in or from the EEZ and fishing for *Illex* during the months of June, July, August in Trimester II, and September in Trimester III are exempt from the longfin squid gear requirements specified in paragraph (a)(2) of this section, provided that landward of the specified coordinates they do not have available for immediate use, as defined in § 648.2, any net, or any piece of net, with a mesh size less than 1 7/8 inches (48 mm) diamond mesh in Trimester II, and 2 1/8 inches (54 mm) diamond mesh in Trimester III, or any piece of net, with mesh that is rigged in a manner that is prohibited by paragraphs (a)(2) and (a)(3)(ii) of this section.
 
+Oceanographer Canyon
 | Point                                                                                                    | N. lat.  | W. long.       |
 | -------------------------------------------------------------------------------------------------------- | -------- | -------------- |
-| M0                                                                                                       | 43°58.0′ | \[1\]          |
+| M01                                                                                                      | 43°58.0′ | \[1\]          |
 | M1                                                                                                       | 43°58.0′ | 67°22.0′       |
 | M2                                                                                                       | 43°50.0′ | 68°35.0′       |
 | M3                                                                                                       | 43°30.0′ | 69°40.0′       |

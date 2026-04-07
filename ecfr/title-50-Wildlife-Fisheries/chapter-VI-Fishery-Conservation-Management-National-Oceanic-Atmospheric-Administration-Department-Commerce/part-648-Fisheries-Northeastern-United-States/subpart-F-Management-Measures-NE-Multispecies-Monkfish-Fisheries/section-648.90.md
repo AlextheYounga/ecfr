@@ -1,6 +1,6 @@
 ##### § 648.90 NE multispecies assessment, framework procedures and specifications, and flexible area action system.
 
-For the NE multispecies framework specification process described in this section, the regulated species and ocean pout biennial review is considered a separate process from the small-mesh species annual review, as described in paragraphs (a)(2) and (b)(1), respectively, of this section. In addition, the process for specifying ABCs and associated ACLs for regulated species and ocean pout, as described in paragraph (a)(4) of this section, is considered a separate process from the small-mesh species ABC and ACL process described in paragraph (b)(2) of this section.
+For the NE multispecies framework specification process described in this section, the regulated species and ocean pout biennial review is considered a separate process from the small-mesh species annual review, as described in paragraphs (a)(2) and (b)(1), respectively, of this section. In addition, the process for specifying ABCs and associated ACLs for regulated species and ocean pout, as described in paragraph (a)(4) of this section, is considered a separate process from the small-mesh species ABC and ACL process described in paragraph (b)(2) of this section.*NE multispecies.*Federal Register
 
 (a) *NE multispecies.* For the purpose of this paragraph (a), the term “NE multispecies fishery” is defined as common pool vessels, sector vessels, and private recreational and charter/party vessels, as defined in this part; the term “NE multispecies commercial fishery” is defined as vessels issued a limited access NE multispecies permit, or an open access NE multispecies Handgear B permit; and the term “NE multispecies recreational fishery” is defined as private recreational vessels and charter or party boats, as further defined in this part.
 
@@ -134,9 +134,10 @@ For the NE multispecies framework specification process described in this sectio
 
 (*4*) *Windowpane AM Areas.* The AM areas defined below are bounded by the following coordinates, connected in the order listed by rhumb lines, unless otherwise noted.
 
+Table 1 to Paragraph (a)(5)(i)(F)(4)
 | Point                                                                                                                                                                                                      | N latitude | W longitude |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- |
-| **Northern Windowpane Flounder and Ocean Pout Small AM Area**                                                                                                                                              |            |             |
+| **Northern Windowpane Flounder and Ocean Pout Small AM Area**1                                                                                                                                             |            |             |
 | 1                                                                                                                                                                                                          | 41°10′     | 67°40′      |
 | 2                                                                                                                                                                                                          | 41°10′     | 67°20′      |
 | 3                                                                                                                                                                                                          | 41°00′     | 67°20′      |

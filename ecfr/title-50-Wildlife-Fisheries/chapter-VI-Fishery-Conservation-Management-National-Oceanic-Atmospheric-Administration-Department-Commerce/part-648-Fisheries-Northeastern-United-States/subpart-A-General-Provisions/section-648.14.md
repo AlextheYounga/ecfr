@@ -1,6 +1,6 @@
 ##### § 648.14 Prohibitions.
 
-(a) *General prohibitions.* It is unlawful for any person to do any of the following:
+(a) *General prohibitions.* It is unlawful for any person to do any of the following:Federal Register.
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
 
@@ -1310,4 +1310,4 @@
 
 (w) *Mid-Atlantic forage species.* It is unlawful for any person owning or operating a vessel issued a valid commercial permit under this part to fish for, possess, transfer, receive, or land; or attempt to fish for, possess, transfer, receive, or land; more than 1,700 lb (771.11 kg) of all Mid-Atlantic forage species combined per trip in or from the Mid-Atlantic Forage Species Management Unit, as defined at § 648.351(b). A vessel not issued a commercial permit in accordance with § 648.4 that fished exclusively in state waters or a vessel that fished Federal waters outside of the Mid-Atlantic Forage Species Management Unit that is transiting the area with gear that is stowed and not available for immediate use is exempt from this prohibition.
 
-\[74 FR 20535, May 4, 2009\] Editorial Note:For Federal Register citations affecting § 648.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 90 FR 18818, May 2, 2025, § 648.14 was amended by adding paragraph (k)(16)(iii)(C), effective May 1, 2025 through Oct. 28, 2025.
+\[74 FR 20535, May 4, 2009\] Editorial Note:For Federal Register citations affecting § 648.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 90 FR 18818, May 2, 2025, § 648.14 was amended by adding paragraph (k)(16)(iii)(C), effective May 1, 2025 through Oct. 28, 2025.Link to an amendment published at 90 FR 47989, Oct. 3, 2025.

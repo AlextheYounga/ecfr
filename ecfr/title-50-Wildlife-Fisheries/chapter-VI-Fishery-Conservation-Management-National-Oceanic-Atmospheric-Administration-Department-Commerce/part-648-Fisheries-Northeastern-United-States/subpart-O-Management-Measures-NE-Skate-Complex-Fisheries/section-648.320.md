@@ -1,6 +1,6 @@
 ##### § 648.320 Skate FMP review and monitoring.
 
-(a) *Annual review and specifications process.* The Council, its Skate Plan Development Team (PDT), and its Skate Advisory Panel shall monitor the status of the fishery and the skate resources.
+(a) *Annual review and specifications process.* The Council, its Skate Plan Development Team (PDT), and its Skate Advisory Panel shall monitor the status of the fishery and the skate resources.Federal Register
 
 (1) The Skate PDT shall meet at least annually to review the status of the species in the skate complex. At a minimum, this review shall include annual updates to survey indices, fishery landings and discards; a re-evaluation of stock status based on the updated survey indices and the FMP's overfishing definitions; and a determination of whether any of the accountability measures specified under § 648.323 were triggered. The review shall also include an analysis of changes to other FMPs (e.g., Northeast Multispecies, Monkfish, Atlantic Scallops, etc.) that may impact skate stocks, and describe the anticipated impacts of those changes on the skate fishery.
 

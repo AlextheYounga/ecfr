@@ -1,6 +1,6 @@
 ##### § 648.295 Tilefish commercial trip limits and landing condition.
 
-(a) *Golden tilefish*—(1) *IFQ landings.* Any golden tilefish landed by a vessel fishing under an IFQ allocation permit as specified at § 648.294(a), on a given fishing trip, count as landings under the IFQ allocation permit.
+(a) *Golden tilefish*—(1) *IFQ landings.* Any golden tilefish landed by a vessel fishing under an IFQ allocation permit as specified at § 648.294(a), on a given fishing trip, count as landings under the IFQ allocation permit.Federal Register
 
 (2) *Incidental trip limit for vessels not fishing under an IFQ allocation.* Any vessel of the United States fishing under a tilefish vessel permit, as described at § 648.4(a)(12), unless the vessel is fishing under a tilefish IFQ allocation permit, is prohibited from possessing more than:
 

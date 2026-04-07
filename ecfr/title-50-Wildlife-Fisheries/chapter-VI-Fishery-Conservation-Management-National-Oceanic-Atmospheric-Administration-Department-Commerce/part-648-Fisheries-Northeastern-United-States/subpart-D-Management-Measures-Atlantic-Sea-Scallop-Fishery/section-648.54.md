@@ -1,6 +1,6 @@
 ##### § 648.54 State waters exemption.
 
-(a) *State eligibility for exemption.* (1) A state may be eligible for a state waters exemption if it has a scallop fishery and a scallop conservation program that does not jeopardize the biomass and fishing mortality/effort limit objectives of the Scallop FMP.
+(a) *State eligibility for exemption.* (1) A state may be eligible for a state waters exemption if it has a scallop fishery and a scallop conservation program that does not jeopardize the biomass and fishing mortality/effort limit objectives of the Scallop FMP.Federal Register,
 
 (2) The Regional Administrator shall determine which states have a scallop fishery and which of those states have a scallop conservation program that does not jeopardize the biomass and fishing mortality/effort limit objectives of the Scallop FMP. In such case, the Regional Administrator shall publish a rule in the Federal Register, in accordance with the Administrative Procedure Act, to provide the exemption for such states.
 

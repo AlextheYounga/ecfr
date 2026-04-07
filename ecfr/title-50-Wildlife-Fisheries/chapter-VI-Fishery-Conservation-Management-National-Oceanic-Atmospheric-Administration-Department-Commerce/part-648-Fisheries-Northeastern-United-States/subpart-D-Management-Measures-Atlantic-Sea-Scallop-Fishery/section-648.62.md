@@ -1,6 +1,6 @@
 ##### § 648.62 Northern Gulf of Maine (NGOM) Management Program.
 
-(a) The NGOM scallop management area is the area north of 42°20′ N lat. and within the boundaries of the Gulf of Maine Scallop Dredge Exemption Area as specified in § 648.80(h)(3)(i). To fish for or possess scallops in the NGOM scallop management area, a vessel must have been issued a scallop permit as specified in § 648.4(a)(2).
+(a) The NGOM scallop management area is the area north of 42°20′ N lat. and within the boundaries of the Gulf of Maine Scallop Dredge Exemption Area as specified in § 648.80(h)(3)(i). To fish for or possess scallops in the NGOM scallop management area, a vessel must have been issued a scallop permit as specified in § 648.4(a)(2).*NGOM Scallop Fishery landings limits.*Federal Register
 
 (1) A vessel fishing under a NGOM scallop permit may only fish for scallops in the NGOM scallop management area.
 
@@ -15,9 +15,9 @@
 (b) *NGOM Scallop Fishery landings limits.* (1) The following landings limits will be effective for the NGOM for the 2025 and 2026 fishing years.
 
 Table 1 to Paragraph (b)(1)
-| Landings limits                                                                                                                                                                                                                        | 2025   (lb) | 2026 1   (lb) |
+| Landings limits   1                                                                                                                                                                                                                    | 2025   (lb) | 2026 1   (lb) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------- |
-| NGOM TAL                                                                                                                                                                                                                               | 712,093     | 534,070 lb.2  |
+| NGOM TAL2                                                                                                                                                                                                                              | 712,093     | 534,070 lb.2  |
 | 1 percent NGOM ABC for Observers                                                                                                                                                                                                       | 11,530      | 11,530 lb.2   |
 | RSA Contribution                                                                                                                                                                                                                       | 25,000      | 25,000.       |
 | NGOM Set-Aside                                                                                                                                                                                                                         | 675,563     | 506,672.      |

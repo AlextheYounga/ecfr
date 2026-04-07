@@ -1,6 +1,6 @@
 ##### § 648.15 Facilitation of enforcement.
 
-(a) *General.* See § 600.504 of this chapter.
+(a) *General.* See § 600.504 of this chapter.Federal Register,
 
 (b) *Special notification requirements applicable to surfclam and ocean quahog vessel owners and operators*—(1) *Surfclam and ocean quahog open access permitted vessels.* Vessel owners or operators issued an open access surfclam or ocean quahog open access permit for fishing in the ITQ Program, as specified at § 648.74, are required to declare their intended fishing activity via VMS prior to leaving port.
 

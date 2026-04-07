@@ -1,6 +1,6 @@
 ##### § 648.162 Bluefish specifications.
 
-(a) *Recommended measures.* Based on the annual review and requests for research quota as described in paragraph (h) of this section, the Bluefish Monitoring Committee shall recommend to the MAFMC and the ASMFC the following measures to ensure that the ACL specified by the process outlined in § 648.160(a) will not be exceeded:
+(a) *Recommended measures.* Based on the annual review and requests for research quota as described in paragraph (h) of this section, the Bluefish Monitoring Committee shall recommend to the MAFMC and the ASMFC the following measures to ensure that the ACL specified by the process outlined in § 648.160(a) will not be exceeded:Federal Register
 
 (1) A fishery-level ACT;
 

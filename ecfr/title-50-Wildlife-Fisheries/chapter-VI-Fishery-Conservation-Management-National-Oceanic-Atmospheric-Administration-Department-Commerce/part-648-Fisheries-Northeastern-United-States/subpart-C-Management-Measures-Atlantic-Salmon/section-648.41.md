@@ -1,6 +1,6 @@
 ##### § 648.41 Framework specifications.
 
-(a) *Within season management action.* The New England Fishery Management Council (NEFMC) may, at any time, initiate action to implement, add to or adjust Atlantic salmon management measures to:
+(a) *Within season management action.* The New England Fishery Management Council (NEFMC) may, at any time, initiate action to implement, add to or adjust Atlantic salmon management measures to:Federal Register.
 
 (1) Allow for Atlantic salmon aquaculture projects in the EEZ, provided such an action is consistent with the goals and objectives of the Atlantic Salmon FMP; and
 

@@ -1,6 +1,6 @@
 ##### § 648.81 NE multispecies year-round and seasonal closed areas.
 
-(a) *Year-round groundfish closed areas*—(1) *Restrictions.* No fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the, Cashes Ledge, Western Gulf of Maine, or Closed Area II Closure Areas, unless otherwise allowed by or exempted under this part. Charts of the areas described in this section are available from the Regional Administrator upon request.
+(a) *Year-round groundfish closed areas*—(1) *Restrictions.* No fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the, Cashes Ledge, Western Gulf of Maine, or Closed Area II Closure Areas, unless otherwise allowed by or exempted under this part. Charts of the areas described in this section are available from the Regional Administrator upon request.MSY
 
 (2) *Exemptions.* Unless restricted by the requirements of subpart P of this part or elsewhere in this part, paragraph (a)(1) of this section does not apply to a fishing vessel or person on a fishing vessel when fishing under the following conditions:
 
@@ -31,15 +31,18 @@
 (3) *Cashes Ledge Closure Area.* The Cashes Ledge Closure Area is defined by straight lines connecting the following points in the order stated:
 
 Cashes Ledge Closure Area
-| Point | N lat.     | W long.    |
-| ----- | ---------- | ---------- |
-| CL1   | 43°07′ N   | 69°02′ W   |
-| CL2   | 42°49.5′ N | 68°46′ W   |
-| CL3   | 42°46.5′ N | 68°50.5′ W |
-| CL4   | 42°43.5′ N | 68°58.5′ W |
-| CL5   | 42°42.5′ N | 69°17.5′ W |
-| CL6   | 42°49.5′ N | 69°26′ W   |
-| CL1   | 43°07′ N   | 69°02′ W   |
+| Point                                                                                                                              | N lat.     | W long.    |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
+| CL11                                                                                                                               | 43°07′ N   | 69°02′ W   |
+| CL2                                                                                                                                | 42°49.5′ N | 68°46′ W   |
+| CL3                                                                                                                                | 42°46.5′ N | 68°50.5′ W |
+| CL4                                                                                                                                | 42°43.5′ N | 68°58.5′ W |
+| CL5                                                                                                                                | 42°42.5′ N | 69°17.5′ W |
+| CL6                                                                                                                                | 42°49.5′ N | 69°26′ W   |
+| CL1                                                                                                                                | 43°07′ N   | 69°02′ W   |
+| 1 The intersection of 41°18.45′ N lat. and the U.S.-Canada Maritime Boundary, approximately 41°18.45′ N lat. and 66°24.89′ W long. |            |            |
+| 2 From Point CAII3 to Point CAII4 along the U.S.-Canada Maritime Boundary.                                                         |            |            |
+| 3 The intersection of 67°20′ W long. And the U.S.-Canada Maritime Boundary, approximately 42°22.06′ N lat. and 67°20′ W long.      |            |            |
 
 (4) *Western Gulf of Maine Closure Area.* The Western Gulf of Maine Closure Area is defined by straight lines connecting the following points in the order stated:
 

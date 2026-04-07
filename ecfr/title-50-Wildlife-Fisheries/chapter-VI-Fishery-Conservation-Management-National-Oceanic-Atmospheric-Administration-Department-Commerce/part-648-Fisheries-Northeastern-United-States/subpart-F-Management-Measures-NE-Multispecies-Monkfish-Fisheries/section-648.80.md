@@ -1,14 +1,15 @@
 ##### § 648.80 NE Multispecies regulated mesh areas and restrictions on gear and methods of fishing.
 
-Except as provided in § 648.17, all vessels must comply with the following minimum mesh size, gear and methods of fishing requirements, unless otherwise exempted or prohibited.
+Except as provided in § 648.17, all vessels must comply with the following minimum mesh size, gear and methods of fishing requirements, unless otherwise exempted or prohibited.*Gulf of Maine (GOM) and GB Regulated Mesh Areas—(1) GOM Regulated Mesh Area.*Federal Register.1/2
 
 (a) *Gulf of Maine (GOM) and GB Regulated Mesh Areas—(1) GOM Regulated Mesh Area.* The GOM Regulated Mesh Area (copies of a map depicting the area are available from the Regional Administrator upon request) is that area:
 
 (i) Bounded on the east by the U.S.-Canada maritime boundary, defined by straight lines connecting the following points in the order stated:
 
+GB Regulated Mesh Area
 | Point                                                                      | N. lat.  | W. long. |
 | -------------------------------------------------------------------------- | -------- | -------- |
-| G1                                                                         | (1)      | (1)      |
+| G11                                                                        | (1)      | (1)      |
 | G2                                                                         | 43°58′   | 67°22′   |
 | G3                                                                         | 42°53.1′ | 67°44.4′ |
 | G4                                                                         | 42°31′   | 67°28.1′ |

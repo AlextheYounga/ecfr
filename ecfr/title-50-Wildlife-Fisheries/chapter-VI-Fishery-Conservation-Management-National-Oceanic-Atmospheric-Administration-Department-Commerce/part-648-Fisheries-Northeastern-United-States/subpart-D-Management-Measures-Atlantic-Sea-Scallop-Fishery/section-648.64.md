@@ -1,12 +1,13 @@
 ##### § 648.64 Flounder Stock sub-ACLs and AMs for the scallop fishery.
 
-(a) As specified in § 648.55(d), and pursuant to the biennial framework adjustment process specified in § 648.90, the scallop fishery shall be allocated a sub-ACL for the Georges Bank and Southern New England/Mid-Atlantic stocks of yellowtail flounder and the northern and southern stocks of windowpane flounder. The sub-ACLs for the yellowtail flounder stocks and the windowpane flounder stocks are specified in § 648.90(a)(4)(iii)(C) and (E) of the NE multispecies regulations, respectively.
+(a) As specified in § 648.55(d), and pursuant to the biennial framework adjustment process specified in § 648.90, the scallop fishery shall be allocated a sub-ACL for the Georges Bank and Southern New England/Mid-Atlantic stocks of yellowtail flounder and the northern and southern stocks of windowpane flounder. The sub-ACLs for the yellowtail flounder stocks and the windowpane flounder stocks are specified in § 648.90(a)(4)(iii)(C) and (E) of the NE multispecies regulations, respectively.*Accountability Measure Areas*
 
 (b) *Accountability Measure Areas*—(1) *Georges Bank Accountability Measure Area.* The Georges Bank Accountability Measure Area is defined by straight lines, except where noted, connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
+Table 4 to Paragraph (f)(2): Northern Windowpane Flounder Gear Restricted Area Accountability Measure Duration
 | Point                                                                                                                     | N latitude | W longitude | Note |
 | ------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | ---- |
-| GBAM1                                                                                                                     | 41°30′     | 67°20′      |      |
+| GBAM11                                                                                                                    | 41°30′     | 67°20′      |      |
 | GBAM2                                                                                                                     | 41°30′     | (1)         | (2)  |
 | GBAM3                                                                                                                     | 40°30′     | (3)         | (2)  |
 | GBAM4                                                                                                                     | 40°30′     | 67°20′      |      |

@@ -1,6 +1,6 @@
 ##### § 648.160 Bluefish Annual Catch Limit (ACL).
 
-(a) The Bluefish Monitoring Committee shall recommend to the MAFMC an ACL for the bluefish fishery, which shall be equal to the ABC recommended by the SSC.
+(a) The Bluefish Monitoring Committee shall recommend to the MAFMC an ACL for the bluefish fishery, which shall be equal to the ABC recommended by the SSC.*Periodicity.*
 
 (1) *Periodicity.* The bluefish fishery ACL may be established on an annual basis for up to 3 years at a time, dependent on whether the SSC provides single or multiple-year ABC recommendations.
 

@@ -1,45 +1,35 @@
 ##### § 25.121 License term and renewals.
 
-(a) *License Term.* (1) Except for licenses for SDARS space stations and terrestrial repeaters, DBS and 17/24 GHz BSS space stations licensed as broadcast facilities, and licenses for which the application was filed pursuant to §§ 25.122 and 25.123, licenses for facilities governed by this part will be issued for a period of 15 years.
+(a) *License Term.* (1) Except for licenses for SDARS space stations and terrestrial repeaters, DBS and 17/24 GHz BSS space stations licensed as broadcast facilities, and licenses for which the application was filed pursuant to §§ 25.122 and 25.123, licenses for facilities governed by this part will be issued for a period of 15 years. 
 
-(2) Licenses for DBS space stations and 17/24 GHz BSS space stations licensed as broadcast facilities, and for SDARS space stations and terrestrial repeaters, will be issued for a period of 8 years. Licenses for DBS space stations not licensed as broadcast facilities will be issued for a period of 10 years.
+(2) Licenses for DBS space stations and 17/24 GHz BSS space stations licensed as broadcast facilities, and for SDARS space stations and terrestrial repeaters, will be issued for a period of 8 years. Licenses for DBS space stations not licensed as broadcast facilities will be issued for a period of 10 years. 
 
-(3) Licenses for which the application was filed pursuant to § 25.122 or § 25.123 will be issued for a period of 6 years, without the possibility of extension or replacement authorization.
+(3) Licenses for which the application was filed pursuant to § 25.122 or § 25.123 will be issued for a period of 6 years, without the possibility of extension or replacement authorization. 
 
-(b) The Commission reserves the right to grant or renew station licenses for less than 15 years if, in its judgment, the public interest, convenience and necessity will be served by such action.
+(b) The Commission reserves the right to grant or renew station licenses for less than 15 years if, in its judgment, the public interest, convenience and necessity will be served by such action. 
 
-(c) For earth stations, the license term will be specified in the instrument of authorization.
+(c) For earth stations, the license term will be specified in the instrument of authorization. 
 
-(d) *Space stations.* (1) For geostationary-orbit space stations, the license term will begin at 3 a.m. Eastern Time on the date when the licensee notifies the Commission pursuant to § 25.173(b) that the space station has been successfully placed into orbit at its assigned orbital location and that its operations conform to the terms and conditions of the space station authorization.
+(d) *Space stations.* (1) For geostationary-orbit space stations, the license term will begin at 3 a.m. Eastern Time on the date when the licensee notifies the Commission pursuant to § 25.173(b) that the space station has been successfully placed into orbit at its assigned orbital location and that its operations conform to the terms and conditions of the space station authorization. 
 
-(2) For non-geostationary orbit space stations, except for those granted under § 25.122 or § 25.123, the license period will begin at 3 a.m. Eastern Time on the date when the licensee notifies the Commission pursuant to § 25.173(b) that operation of an initial space station is compliant with the license terms and conditions and that the space station has been placed in its authorized orbit. Operating authority for all space stations subsequently brought into service pursuant to the license will terminate upon its expiration.
+(2) For non-geostationary orbit space stations, except for those granted under § 25.122 or § 25.123, the license period will begin at 3 a.m. Eastern Time on the date when the licensee notifies the Commission pursuant to § 25.173(b) that operation of an initial space station is compliant with the license terms and conditions and that the space station has been placed in its authorized orbit. Operating authority for all space stations subsequently brought into service pursuant to the license will terminate upon its expiration. 
 
-(3) For non-geostationary orbit space stations granted under § 25.122 or § 25.123, the license period will begin at 3 a.m. Eastern Time on the date when the licensee notifies the Commission pursuant to § 25.173(b) that operation of an initial space station is compliant with the license terms and conditions and that the space station has been placed in its authorized orbit and has begun operating. Operating authority for all space stations subsequently brought into service pursuant to the license will terminate upon its expiration.
+(3) For non-geostationary orbit space stations granted under § 25.122 or § 25.123, the license period will begin at 3 a.m. Eastern Time on the date when the licensee notifies the Commission pursuant to § 25.173(b) that operation of an initial space station is compliant with the license terms and conditions and that the space station has been placed in its authorized orbit and has begun operating. Operating authority for all space stations subsequently brought into service pursuant to the license will terminate upon its expiration. 
 
-(e) *Renewal of licenses.* Applications for renewals of earth station licenses must be submitted on FCC Form 312R no earlier than 12 months, and no later than 30 days, before the expiration date of the license. Applications for space station system replacement authorization for non-geostationary orbit satellites shall be filed no earlier than 12 months, and no later than 30 days, before the expiration date of the license.
+(e) *Renewal of licenses.* Applications for renewals of earth station licenses must be submitted on FCC Form 312R no earlier than 90 days, and no later than 30 days, before the expiration date of the license. Applications for space station system replacement authorization for non-geostationary orbit satellites shall be filed no earlier than 90 days, and no later than 30 days, prior to the end of the twelfth year of the existing license term. 
 
-(f) *Geostationary Satellite License Term Extensions.* (1) For geostationary space stations issued an initial license term for a period of 15 years, licensees may apply for a modification to extend the license term in increments of five years or less.
+(f) *Geostationary Satellite License Term Extensions.* (1) For geostationary space stations issued an initial license term for a period of 15 years, licensees may apply for a modification to extend the license term in increments of five years or less. 
 
-(2) Geostationary space station licensees seeking a license term extension through a license modification application must provide a statement that includes the following:
+(2) Geostationary space station licensees seeking a license term extension through a license modification application must provide a statement that includes the following: 
 
-(i) The requested duration of the license extension;
+(i) The requested duration of the license extension; 
 
-(ii) The estimated total remaining space station lifetime;
+(ii) The estimated total remaining space station lifetime; 
 
-(iii) A description of any single points of failure or other malfunctions, defects, or anomalies during the space station operation that could affect its ability to conduct end-of-life procedures as planned, and an assessment of the associated risk;
+(iii) A description of any single points of failure or other malfunctions, defects, or anomalies during the space station operation that could affect its ability to conduct end-of-life procedures as planned, and an assessment of the associated risk; 
 
-(iv) A certification that remaining fuel reserves are adequate to complete de-orbit as planned; and
+(iv) A certification that remaining fuel reserves are adequate to complete de-orbit as planned; and 
 
-(v) A certification that telemetry, tracking, and command links are fully functional.
+(v) A certification that telemetry, tracking, and command links are fully functional. 
 
-(g) *Autogrant procedures for certain earth station renewals.* An application for renewal of an earth station license will be deemed granted without any further action by the Commission 30 days after filing and paying any associated regulatory fees if the application meets all of the following criteria:
-
-(1) The renewal application does not make any modifications to the license;
-
-(2) The renewal application does not make any changes to the currently authorized operating parameters;
-
-(3) The renewal application is not for operations in a frequency band that is subject to a freeze on new or renewed licenses or is restricted in how a license may be renewed; and
-
-(4) The Commission does not choose to place the application on public notice pursuant to § 25.151.
-
-\[56 FR 24016, May 28, 1991, as amended at 58 FR 68059, Dec. 23, 1993; 59 FR 53327, Oct. 21, 1994. Redesignated and amended at 62 FR 5928, 5929, Feb. 10, 1997; 65 FR 59142, Oct. 4, 2000; 67 FR 12485, Mar. 19, 2002; 67 FR 51113, Aug. 7, 2002; 68 FR 51503, Aug. 27, 2003; 68 FR 63999, Nov. 12, 2003; 72 FR 50027, Aug. 29, 2007; 75 FR 45067, Aug. 2, 2010; 79 FR 8317, Feb. 12, 2014; 85 FR 43733, July 20, 2020; 86 FR 49489, Sept. 3, 2021; 85 FR 52451, Aug. 25, 2020; 89 FR 65217, Aug. 9, 2024; 90 FR 41801, Aug. 27, 2025\]
+\[56 FR 24016, May 28, 1991, as amended at 58 FR 68059, Dec. 23, 1993; 59 FR 53327, Oct. 21, 1994. Redesignated and amended at 62 FR 5928, 5929, Feb. 10, 1997; 65 FR 59142, Oct. 4, 2000; 67 FR 12485, Mar. 19, 2002; 67 FR 51113, Aug. 7, 2002; 68 FR 51503, Aug. 27, 2003; 68 FR 63999, Nov. 12, 2003; 72 FR 50027, Aug. 29, 2007; 75 FR 45067, Aug. 2, 2010; 79 FR 8317, Feb. 12, 2014; 85 FR 43733, July 20, 2020; 86 FR 49489, Sept. 3, 2021; 85 FR 52451, Aug. 25, 2020; 89 FR 65217, Aug. 9, 2024\]

@@ -1,6 +1,6 @@
 ##### § 648.77 Cage identification.
 
-Except as provided in § 648.78, the following cage identification requirements apply to all vessels issued a Federal fishing permit for surfclams and ocean quahogs:
+Except as provided in § 648.78, the following cage identification requirements apply to all vessels issued a Federal fishing permit for surfclams and ocean quahogs:*Tagging.*3Federal Register,
 
 (a) *Tagging.* Before offloading, all cages that contain surfclams or ocean quahogs must be tagged with tags acquired annually under provisions of paragraph (b) of this section. A tag must be fixed on or as near as possible to the upper crossbar of the cage. A tag is required for every 60 ft 3 (1,700 L) of cage volume, or portion thereof. A tag or tags must not be removed until the cage is emptied by the processor, at which time the processor must promptly remove and retain the tag(s) for 60 days beyond the end of the calendar year, unless otherwise directed by authorized law enforcement agents.
 

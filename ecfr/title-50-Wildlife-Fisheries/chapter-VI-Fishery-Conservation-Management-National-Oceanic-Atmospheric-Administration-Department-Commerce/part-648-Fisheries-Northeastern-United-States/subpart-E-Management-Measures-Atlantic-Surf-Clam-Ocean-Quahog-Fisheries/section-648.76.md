@@ -1,6 +1,6 @@
 ##### § 648.76 Closed areas.
 
-(a) *Areas closed because of environmental degradation.* Certain areas are closed to all surfclam and ocean quahog fishing because of adverse environmental conditions. These areas will remain closed until the Regional Administrator determines that the adverse environmental conditions no longer exist. If additional areas are identified by the Regional Administrator as being contaminated by the introduction or presence of hazardous materials or pollutants, they may be closed by the Regional Administrator in accordance with paragraph (c) of this section. The areas closed are:
+(a) *Areas closed because of environmental degradation.* Certain areas are closed to all surfclam and ocean quahog fishing because of adverse environmental conditions. These areas will remain closed until the Regional Administrator determines that the adverse environmental conditions no longer exist. If additional areas are identified by the Regional Administrator as being contaminated by the introduction or presence of hazardous materials or pollutants, they may be closed by the Regional Administrator in accordance with paragraph (c) of this section. The areas closed are:Federal Register
 
 (1) *Boston Foul Ground.* The waste disposal site known as the “Boston Foul Ground” and located at 42°25′36″ N. lat., 70°35′00″ W. long., with a radius of 1 nm (1.852 km) in every direction from that point.
 

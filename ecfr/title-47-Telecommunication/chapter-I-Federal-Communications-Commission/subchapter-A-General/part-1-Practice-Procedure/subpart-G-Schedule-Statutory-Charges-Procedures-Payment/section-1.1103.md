@@ -11,4 +11,4 @@ Table 1 to § 1.1103
 | Special Temporary Authority                  | EAE               | 140.00     |
 | Confidentiality Request                      | EAD               | 50.00      |
 
-\[90 FR 17013, Apr. 23, 2025\]
+\[88 FR 6171, Jan. 31, 2023\]

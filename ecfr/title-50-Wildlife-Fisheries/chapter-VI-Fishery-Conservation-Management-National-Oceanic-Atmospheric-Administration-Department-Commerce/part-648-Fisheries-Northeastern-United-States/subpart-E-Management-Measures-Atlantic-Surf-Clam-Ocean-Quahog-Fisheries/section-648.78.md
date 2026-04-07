@@ -1,6 +1,6 @@
 ##### § 648.78 Maine mahogany quahog zone.
 
-(a) *Landing requirements.* (1) A vessel issued a valid Maine mahogany quahog permit pursuant to § 648.4(a)(4)(i), and fishing for or possessing ocean quahogs within the Maine mahogany quahog zone, must land its catch in the State of Maine.
+(a) *Landing requirements.* (1) A vessel issued a valid Maine mahogany quahog permit pursuant to § 648.4(a)(4)(i), and fishing for or possessing ocean quahogs within the Maine mahogany quahog zone, must land its catch in the State of Maine.Federal Register
 
 (2) A vessel fishing under an individual allocation permit, regardless of whether it has a Maine mahogany quahog permit, fishing for or possessing ocean quahogs within the zone, may land its catch in the State of Maine, or, consistent with applicable state law in any other state that utilizes food safety-based procedures including sampling and analyzing for PSP toxin consistent with those food safety-based procedures used by the State of Maine for such purpose, and must comply with all requirements in §§ 648.74 and 648.77. Documentation required by the state and other laws and regulations applicable to food safety-based procedures must be made available by federally permitted dealers for inspection by NMFS.
 

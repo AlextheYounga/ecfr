@@ -1,6 +1,6 @@
 ##### § 648.86 NE Multispecies possession restrictions.
 
-Except as provided in §§ 648.11(l) and 648.17, or elsewhere in this part, the following possession restrictions apply:
+Except as provided in §§ 648.11(l) and 648.17, or elsewhere in this part, the following possession restrictions apply:*Haddock*
 
 (a) *Haddock*—(1) *NE multispecies common pool vessels.* Haddock possession restrictions for such vessels may be implemented through Regional Administrator authority, as specified in paragraph (r) of this section.
 
@@ -19,7 +19,7 @@ Except as provided in §§ 648.11(l) and 648.17, or elsewhere in this part, the 
 Herring GOM Haddock Accountability Measure Area
 | Point                                                                                 | N. latitude | W. longitude |
 | ------------------------------------------------------------------------------------- | ----------- | ------------ |
-| HGA1                                                                                  | (1)         | 69°20′       |
+| HGA11                                                                                 | (1)         | 69°20′       |
 | HGA                                                                                   | 43°40′      | 69°20′       |
 | HGA3                                                                                  | 43°40′      | 69°00′       |
 | HGA4                                                                                  | 43°20′      | 69°00′       |

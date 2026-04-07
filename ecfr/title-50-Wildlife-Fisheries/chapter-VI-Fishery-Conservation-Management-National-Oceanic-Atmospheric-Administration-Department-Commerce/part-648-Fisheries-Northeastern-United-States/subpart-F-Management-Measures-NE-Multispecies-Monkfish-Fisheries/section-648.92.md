@@ -1,6 +1,6 @@
 ##### § 648.92 Effort-control program for monkfish limited access vessels.
 
-(a) *General.* A vessel issued a limited access monkfish permit may not fish for, possess, retain, or land monkfish, except during a DAS as allocated under and in accordance with the applicable DAS program described in this section, except as otherwise provided in this part.
+(a) *General.* A vessel issued a limited access monkfish permit may not fish for, possess, retain, or land monkfish, except during a DAS as allocated under and in accordance with the applicable DAS program described in this section, except as otherwise provided in this part.Federal Register
 
 (1) *End of year carryover.* With the exception of a vessel that held a Confirmation of Permit History, as described in § 648.4(a)(1)(i)(J), for the entire fishing year preceding the carryover year, a limited access monkfish vessel that has unused monkfish DAS on the last day of April of any year may carry over a maximum of 4 unused monkfish DAS into the next fishing year. A vessel whose DAS have been sanctioned through enforcement proceedings shall be credited with unused DAS based on its DAS allocation minus any DAS that have been sanctioned.
 

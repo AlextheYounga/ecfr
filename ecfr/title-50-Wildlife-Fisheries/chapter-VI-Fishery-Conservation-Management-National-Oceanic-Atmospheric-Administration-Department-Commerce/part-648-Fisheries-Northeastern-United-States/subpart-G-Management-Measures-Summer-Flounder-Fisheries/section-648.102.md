@@ -1,6 +1,6 @@
 ##### § 648.102 Summer flounder specifications.
 
-(a) *Commercial quota, recreational landing limits, research set-asides, and other specification measures.* The Monitoring Committee shall recommend to the MAFMC, through the specifications process, for use in conjunction with each ACL and ACT, a sector-specific research set-aside, estimates of sector-related discards, a recreational harvest limit, and a commercial quota, along with other measures, as needed to prevent overages of the applicable specified limits or targets for each sector, as prescribed in the FMP. The measures to be considered by the Monitoring Committee are:
+(a) *Commercial quota, recreational landing limits, research set-asides, and other specification measures.* The Monitoring Committee shall recommend to the MAFMC, through the specifications process, for use in conjunction with each ACL and ACT, a sector-specific research set-aside, estimates of sector-related discards, a recreational harvest limit, and a commercial quota, along with other measures, as needed to prevent overages of the applicable specified limits or targets for each sector, as prescribed in the FMP. The measures to be considered by the Monitoring Committee are:Federal Register
 
 (1) Research quota set from a range of 0 to 3 percent of the allowable landings level for both the commercial and recreational sectors.
 

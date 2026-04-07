@@ -1,61 +1,63 @@
 ##### § 648.10 VMS and DAS requirements for vessel owners/operators.
 
-(a) *VMS Demarcation Line.* The VMS Demarcation Line is defined by straight lines connecting the following coordinates in the order stated (a copy of a map showing the line is available from the Regional Administrator upon request):
+(a) *VMS Demarcation Line.* The VMS Demarcation Line is defined by straight lines connecting the following coordinates in the order stated (a copy of a map showing the line is available from the Regional Administrator upon request):Federal Register,
 
 VMS Demarcation Line
-| Description                                      | N. lat.  | W. long. |
-| ------------------------------------------------ | -------- | -------- |
-| 1\. Northern terminus point (Canada landmass)    | 45°03′   | 66°47′   |
-| 2\. A point east of West Quoddy Head Light       | 44°48.9′ | 66°56.1′ |
-| 3\. A point east of Little River Light           | 44°39.0′ | 67°10.5′ |
-| 4\. Whistle Buoy “8BI” (SSE of Baker Island)     | 44°13.6′ | 68°10.8′ |
-| 5\. Isle au Haut Light                           | 44°03.9′ | 68°39.1′ |
-| 6\. A point south of Monhegan Island             | 43°43.3′ | 69°18.6′ |
-| 7\. Pemaquid Point Light                         | 43°50.2′ | 69°30.4′ |
-| 8\. A point west of Halfway Rock                 | 43°38.0′ | 70°05.0′ |
-| 9\. A point east of Cape Neddick Light           | 43°09.9′ | 70°34.5′ |
-| 10\. Merrimack River Entrance “MR” Whistle Buoy  | 42°48.6′ | 70°47.1′ |
-| 11\. Halibut Point Gong Buoy “1AHP”              | 42°42.0′ | 70°37.5′ |
-| 12\. Connecting reference point                  | 42°40′   | 70°30′   |
-| 13\. Whistle Buoy “2” off Eastern Point          | 42°34.3′ | 70°39.8′ |
-| 14\. The Graves Light (Boston)                   | 42°21.9′ | 70°52.2′ |
-| 15\. Minots Ledge Light                          | 42°16.2′ | 70°45.6′ |
-| 16\. Farnham Rock Lighted Bell Buoy              | 42°05.6′ | 70°36.5′ |
-| 17\. Cape Cod Canal Bell Buoy “CC”               | 41°48.9′ | 70°27.7′ |
-| 18\. A point inside Cape Cod Bay                 | 41°48.9′ | 70°05′   |
-| 19\. Race Point Lighted Bell Buoy “RP”           | 42°04.9′ | 70°16.8′ |
-| 20\. Peaked Hill Bar Whistle Buoy “2PH”          | 42°07.0′ | 70°06.2′ |
-| 21\. Connecting point, off Nauset Light          | 41°50′   | 69°53′   |
-| 22\. A point south of Chatham “C” Whistle Buoy   | 41°38′   | 69°55.2′ |
-| 22\. A point in eastern Vineyard Sound           | 41°30′   | 70°33′   |
-| 24\. A point east of Martha's Vineyard           | 41°22.2′ | 70°24.6′ |
-| 25\. A point east of Great Pt. Light, Nantucket  | 41°23.4′ | 69°57′   |
-| 26\. A point SE of Sankaty Head, Nantucket       | 41°13′   | 69°57′   |
-| 27\. A point west of Nantucket                   | 41°15.6′ | 70°25.2′ |
-| 28\. Squibnocket Lighted Bell Buoy “1”           | 41°15.7′ | 70°46.3′ |
-| 29\. Wilbur Point (on Sconticut Neck)            | 41°35.2′ | 70°51.2′ |
-| 30\. Mishaum Point (on Smith Neck)               | 41°31.0′ | 70°57.2′ |
-| 31\. Sakonnet Entrance Lighted Whistle Buoy “SR” | 41°25.7′ | 71°13.4′ |
-| 32\. Point Judith Lighted Whistle Buoy “2”       | 41°19.3′ | 71°28.6′ |
-| 33\. A point off Block Island Southeast Light    | 41°08.2′ | 71°32.1′ |
-| 34\. Shinnecock Inlet Lighted Whistle Buoy “SH”  | 40°49.0′ | 72°28.6′ |
-| 35\. Scotland Horn Buoy “S”, off Sandy Hook (NJ) | 40°26.5′ | 73°55.0′ |
-| 36\. Barnegat Lighted Gong Buoy “2”              | 39°45.5′ | 73°59.5′ |
-| 37\. A point east of Atlantic City Light         | 39°21.9′ | 74°22.7′ |
-| 38\. A point east of Hereford Inlet Light        | 39°00.4′ | 74°46′   |
-| 39\. A point east of Cape Henlopen Light         | 38°47′   | 75°04′   |
-| 40\. A point east of Fenwick Island Light        | 38°27.1′ | 75°02′   |
-| 41\. A point NE of Assateague Island (VA)        | 38°00′   | 75°13′   |
-| 42\. Wachapreague Inlet Lighted Whistle Buoy “A” | 37°35.0′ | 75°33.7′ |
-| 43\. A point NE of Cape Henry                    | 36°55.6′ | 75°58.5′ |
-| 44\. A point east of Currituck Beach Light       | 36°22.6′ | 75°48′   |
-| 45\. Oregon Inlet (NC) Whistle Buoy              | 35°48.5′ | 75°30′   |
-| 46\. Wimble Shoals, east of Chicamacomico        | 35°36′   | 75°26′   |
-| 47\. A point SE of Cape Hatteras Light           | 35°12.5′ | 75°30′   |
-| 48\. Hatteras Inlet Entrance Buoy “HI”           | 35°10′   | 75°46′   |
-| 49\. Ocracoke Inlet Whistle Buoy “OC”            | 35°01.5′ | 76°00.5′ |
-| 50\. A point east of Cape Lookout Light          | 34°36.5′ | 76°30′   |
-| 51\. Southern terminus point                     | 34°35′   | 76°41′   |
+| Description                                                                | N. lat.  | W. long. |
+| -------------------------------------------------------------------------- | -------- | -------- |
+| 1\. Northern terminus point (Canada landmass)1                             | 45°03′   | 66°47′   |
+| 2\. A point east of West Quoddy Head Light                                 | 44°48.9′ | 66°56.1′ |
+| 3\. A point east of Little River Light                                     | 44°39.0′ | 67°10.5′ |
+| 4\. Whistle Buoy “8BI” (SSE of Baker Island)                               | 44°13.6′ | 68°10.8′ |
+| 5\. Isle au Haut Light                                                     | 44°03.9′ | 68°39.1′ |
+| 6\. A point south of Monhegan Island                                       | 43°43.3′ | 69°18.6′ |
+| 7\. Pemaquid Point Light                                                   | 43°50.2′ | 69°30.4′ |
+| 8\. A point west of Halfway Rock                                           | 43°38.0′ | 70°05.0′ |
+| 9\. A point east of Cape Neddick Light                                     | 43°09.9′ | 70°34.5′ |
+| 10\. Merrimack River Entrance “MR” Whistle Buoy                            | 42°48.6′ | 70°47.1′ |
+| 11\. Halibut Point Gong Buoy “1AHP”                                        | 42°42.0′ | 70°37.5′ |
+| 12\. Connecting reference point                                            | 42°40′   | 70°30′   |
+| 13\. Whistle Buoy “2” off Eastern Point                                    | 42°34.3′ | 70°39.8′ |
+| 14\. The Graves Light (Boston)                                             | 42°21.9′ | 70°52.2′ |
+| 15\. Minots Ledge Light                                                    | 42°16.2′ | 70°45.6′ |
+| 16\. Farnham Rock Lighted Bell Buoy                                        | 42°05.6′ | 70°36.5′ |
+| 17\. Cape Cod Canal Bell Buoy “CC”                                         | 41°48.9′ | 70°27.7′ |
+| 18\. A point inside Cape Cod Bay                                           | 41°48.9′ | 70°05′   |
+| 19\. Race Point Lighted Bell Buoy “RP”                                     | 42°04.9′ | 70°16.8′ |
+| 20\. Peaked Hill Bar Whistle Buoy “2PH”                                    | 42°07.0′ | 70°06.2′ |
+| 21\. Connecting point, off Nauset Light                                    | 41°50′   | 69°53′   |
+| 22\. A point south of Chatham “C” Whistle Buoy                             | 41°38′   | 69°55.2′ |
+| 22\. A point in eastern Vineyard Sound                                     | 41°30′   | 70°33′   |
+| 24\. A point east of Martha's Vineyard                                     | 41°22.2′ | 70°24.6′ |
+| 25\. A point east of Great Pt. Light, Nantucket                            | 41°23.4′ | 69°57′   |
+| 26\. A point SE of Sankaty Head, Nantucket                                 | 41°13′   | 69°57′   |
+| 27\. A point west of Nantucket                                             | 41°15.6′ | 70°25.2′ |
+| 28\. Squibnocket Lighted Bell Buoy “1”                                     | 41°15.7′ | 70°46.3′ |
+| 29\. Wilbur Point (on Sconticut Neck)                                      | 41°35.2′ | 70°51.2′ |
+| 30\. Mishaum Point (on Smith Neck)                                         | 41°31.0′ | 70°57.2′ |
+| 31\. Sakonnet Entrance Lighted Whistle Buoy “SR”                           | 41°25.7′ | 71°13.4′ |
+| 32\. Point Judith Lighted Whistle Buoy “2”                                 | 41°19.3′ | 71°28.6′ |
+| 33\. A point off Block Island Southeast Light                              | 41°08.2′ | 71°32.1′ |
+| 34\. Shinnecock Inlet Lighted Whistle Buoy “SH”                            | 40°49.0′ | 72°28.6′ |
+| 35\. Scotland Horn Buoy “S”, off Sandy Hook (NJ)                           | 40°26.5′ | 73°55.0′ |
+| 36\. Barnegat Lighted Gong Buoy “2”                                        | 39°45.5′ | 73°59.5′ |
+| 37\. A point east of Atlantic City Light                                   | 39°21.9′ | 74°22.7′ |
+| 38\. A point east of Hereford Inlet Light                                  | 39°00.4′ | 74°46′   |
+| 39\. A point east of Cape Henlopen Light                                   | 38°47′   | 75°04′   |
+| 40\. A point east of Fenwick Island Light                                  | 38°27.1′ | 75°02′   |
+| 41\. A point NE of Assateague Island (VA)                                  | 38°00′   | 75°13′   |
+| 42\. Wachapreague Inlet Lighted Whistle Buoy “A”                           | 37°35.0′ | 75°33.7′ |
+| 43\. A point NE of Cape Henry                                              | 36°55.6′ | 75°58.5′ |
+| 44\. A point east of Currituck Beach Light                                 | 36°22.6′ | 75°48′   |
+| 45\. Oregon Inlet (NC) Whistle Buoy                                        | 35°48.5′ | 75°30′   |
+| 46\. Wimble Shoals, east of Chicamacomico                                  | 35°36′   | 75°26′   |
+| 47\. A point SE of Cape Hatteras Light                                     | 35°12.5′ | 75°30′   |
+| 48\. Hatteras Inlet Entrance Buoy “HI”                                     | 35°10′   | 75°46′   |
+| 49\. Ocracoke Inlet Whistle Buoy “OC”                                      | 35°01.5′ | 76°00.5′ |
+| 50\. A point east of Cape Lookout Light                                    | 34°36.5′ | 76°30′   |
+| 51\. Southern terminus point                                               | 34°35′   | 76°41′   |
+| 1 The intersection of the shoreline and the U.S.-Canada maritime boundary. |          |          |
+| 2 The intersection of the Cape Cod, MA, coastline and 70°00′ W. long.      |          |          |
 
 (b) *Vessels required to use VMS.* The following vessels must have installed on board an operational VMS unit that meets the minimum performance criteria specified in, or as modified pursuant to § 648.9(a):
 

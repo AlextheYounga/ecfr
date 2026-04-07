@@ -1,6 +1,6 @@
 ##### § 648.231 Spiny dogfish Annual Catch Target (ACT) and Total Allowable Level of Landings (TAL).
 
-(a) The Spiny Dogfish Monitoring Committee shall identify and review the relevant sources of management uncertainty to recommend an ACT and a TAL for the fishery as part of the spiny dogfish specification process specified in § 648.232. The Spiny Dogfish Monitoring Committee recommendations shall identify the specific sources of management uncertainty that were considered, technical approaches to mitigating these sources of uncertainty, domestic commercial and recreational discards, and any additional relevant information considered in the ACT and TAL recommendation process.
+(a) The Spiny Dogfish Monitoring Committee shall identify and review the relevant sources of management uncertainty to recommend an ACT and a TAL for the fishery as part of the spiny dogfish specification process specified in § 648.232. The Spiny Dogfish Monitoring Committee recommendations shall identify the specific sources of management uncertainty that were considered, technical approaches to mitigating these sources of uncertainty, domestic commercial and recreational discards, and any additional relevant information considered in the ACT and TAL recommendation process.*Periodicity.*
 
 (1) The ACT shall be identified as less than or equal to the ACL.
 

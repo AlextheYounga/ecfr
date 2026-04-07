@@ -1,6 +1,6 @@
 ##### § 648.232 Spiny dogfish specifications.
 
-(a) *Commercial quota and other specification measures.* The Spiny Dogfish Monitoring Committee shall recommend to the Joint Spiny Dogfish Committee a TAL (i.e., annual coastwide commercial quota) and any other measures, including those in paragraphs (a)(1) through (8) of this section, that are necessary to ensure that the commercial ACL will not be exceeded in any fishing year (May 1-April 30), for a period of 1-5 fishing years. If research quota is specified as described in paragraph (f) of this section, the effective commercial quota will be those commercial landings available after the deduction for the research quota. The measures that may be recommended include, but are not limited to:
+(a) *Commercial quota and other specification measures.* The Spiny Dogfish Monitoring Committee shall recommend to the Joint Spiny Dogfish Committee a TAL (i.e., annual coastwide commercial quota) and any other measures, including those in paragraphs (a)(1) through (8) of this section, that are necessary to ensure that the commercial ACL will not be exceeded in any fishing year (May 1-April 30), for a period of 1-5 fishing years. If research quota is specified as described in paragraph (f) of this section, the effective commercial quota will be those commercial landings available after the deduction for the research quota. The measures that may be recommended include, but are not limited to:Federal Register
 
 (1) Minimum or maximum fish sizes;
 

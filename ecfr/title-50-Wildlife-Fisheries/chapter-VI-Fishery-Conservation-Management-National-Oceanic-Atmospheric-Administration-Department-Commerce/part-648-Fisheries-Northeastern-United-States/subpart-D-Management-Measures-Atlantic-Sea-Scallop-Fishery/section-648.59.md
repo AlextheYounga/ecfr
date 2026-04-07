@@ -1,6 +1,6 @@
 ##### § 648.59 Sea Scallop Rotational Area Management Program and Access Area Program requirements.
 
-(a) The Scallop Rotational Area Management Program consists of Scallop Rotational Areas, as defined in § 648.2. Guidelines for this area rotation program (*i.e.,* when to close an area and reopen it to scallop fishing) are provided in § 648.55(a)(6). Whether a rotational area is open or closed to scallop fishing in a given year, and the appropriate level of access by limited access and LAGC IFQ vessels, are specified through the specifications or framework adjustment processes defined in § 648.55. When a rotational area is open to the scallop fishery, it is called an Access Area and scallop vessels fishing in the area are subject to the Scallop Access Area Program Requirements specified in this section. Areas not defined as Scallop Rotational Areas specified in § 648.60, Habitat Management Areas specified in § 648.370, or areas closed to scallop fishing under other FMPs, are governed by other management measures and restrictions in this part and are referred to as Open Areas.
+(a) The Scallop Rotational Area Management Program consists of Scallop Rotational Areas, as defined in § 648.2. Guidelines for this area rotation program (*i.e.,* when to close an area and reopen it to scallop fishing) are provided in § 648.55(a)(6). Whether a rotational area is open or closed to scallop fishing in a given year, and the appropriate level of access by limited access and LAGC IFQ vessels, are specified through the specifications or framework adjustment processes defined in § 648.55. When a rotational area is open to the scallop fishery, it is called an Access Area and scallop vessels fishing in the area are subject to the Scallop Access Area Program Requirements specified in this section. Areas not defined as Scallop Rotational Areas specified in § 648.60, Habitat Management Areas specified in § 648.370, or areas closed to scallop fishing under other FMPs, are governed by other management measures and restrictions in this part and are referred to as Open Areas.Federal Register,
 
 (1) *Prohibition on Entering or Transiting a Scallop Rotational Area.* On a declared scallop trip, a vessel issued any Federal scallop permit may not enter, transit, fish for, possess, or land scallops in or from a Scallop Rotational Area unless it is participating in, and complies with, the Scallop Access Area Program Requirements defined in paragraphs (b) through (g) of this section, or if the vessel is transiting a Scallop Rotational Area defined as “available for continuous transit” pursuant to paragraph (a)(2) of this section. On a trip declared out of the federal scallop fishery, a vessel may fish for species other than scallops within the rotational closed areas, provided the vessel does not fish for, catch, possess, or retain scallops or intend to fish for, catch, possess, or retain scallops.
 
@@ -11,13 +11,14 @@
 (A) Area 1 Scallop Transit Area.
 
 Table 1 to Paragraph (a)(2)(i)(A)
-| Point | Latitude   | Longitude  |
-| ----- | ---------- | ---------- |
-| AIT1  | 40°58.2′ N | 68°30′ W   |
-| AIT2  | 40°55.8′ N | 68°46.8′ W |
-| AIT3  | 41°3.0′ N  | 68°52.2′ W |
-| AIT4  | 41°0.6′ N  | 68°58.2′ W |
-| AIT1  | 40°58.2′ N | 68°30′ W   |
+| Point   1                                                                                                                                     | Latitude   | Longitude  |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
+| AIT11                                                                                                                                         | 40°58.2′ N | 68°30′ W   |
+| AIT2                                                                                                                                          | 40°55.8′ N | 68°46.8′ W |
+| AIT3                                                                                                                                          | 41°3.0′ N  | 68°52.2′ W |
+| AIT4                                                                                                                                          | 41°0.6′ N  | 68°58.2′ W |
+| AIT1                                                                                                                                          | 40°58.2′ N | 68°30′ W   |
+| 1 The access area allocations for the 2026 fishing year are subject to change through a future specifications action or framework adjustment. |            |            |
 
 (B) Area 1 Quad Scallop Rotational Areas, as defined in § 648.60(a).
 

@@ -3,13 +3,16 @@
 (a) *Area I-Rotational Area*—(1) *Area I-Rotational Area definition.* The Area I Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
 Table 1 to Paragraph (a)(1)
-| Point | Latitude   | Longitude  |
-| ----- | ---------- | ---------- |
-| AI1   | 40°55.0′ N | 68°53.4′ W |
-| AI2   | 41°30.0′ N | 69°23.0′ W |
-| AI3   | 41°30.0′ N | 68°30.0′ W |
-| AI4   | 40°58.0′ N | 68°30.0′ W |
-| AI1   | 40°55.0′ N | 68°53.4′ W |
+| Point                                                                                                                                  | Latitude   | Longitude  |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
+| AI1a                                                                                                                                   | 40°55.0′ N | 68°53.4′ W |
+| AI2                                                                                                                                    | 41°30.0′ N | 69°23.0′ W |
+| AI3                                                                                                                                    | 41°30.0′ N | 68°30.0′ W |
+| AI4                                                                                                                                    | 40°58.0′ N | 68°30.0′ W |
+| AI1                                                                                                                                    | 40°55.0′ N | 68°53.4′ W |
+| a The intersection of lat. 41°30′ N and the United States-Canada Maritime Boundary, approximately lat. 41°30′ N, long. 66°34.73′ W.    |            |            |
+| b From Point AII2 connected to Point AII3 along the United States-Canada Maritime Boundary.                                            |            |            |
+| c The intersection of lat. 40°40′ N and the United States-Canada Maritime Boundary, approximately lat. 40°40′ N and long. 65°52.61′ W. |            |            |
 
 (2) *Season.* A vessel issued a scallop permit may not fish for, possess, or land scallops in or from the area known as the Area I Scallop Rotational Access Area, defined in paragraph (a)(1) of this section, during the period from April 1 to May 15 of each year the Area I Access Area is open to scallop vessels, unless transiting pursuant to § 648.59(a).
 

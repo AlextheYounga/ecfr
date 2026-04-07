@@ -1,6 +1,6 @@
 ##### § 648.2 Definitions.
 
-In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
+In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:*Alewife*33/8Federal Register.
 
 *Alewife* means *Alosa pseudoharengus.*
 
@@ -205,6 +205,8 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 *Inshore exempted species* means the following species:
 
 Bay scallop—*Aequipecten irradians.*Blood arc clam—*Anadara ovalis.*Blood worm—*Glycera dibranchiata.*Blue crab—*Callinectes similis* and *Callinectes sapidus.*Blue mussel—*Mytilus edulis.*Green crab—*Carcinus maenas.*Hermit crab—*Clibanarius vittatus*, *Pagurus pollicaris* and *Pagurus longicarpus.*Japanese shore crab—*Hemigrapsus sanguineus.*Oyster—*Crassostrea virginica* and *Ostrea edulis.*Quahog—*Mercenaria mercenaria.*Razor clam—*Ensis directus.*Sand worm—*Neresis virens.*Soft clam—*Mya arenaria.*Spider crab*Libinia emarginata.*
+
+American plaice—*Hippoglossoides platessoides.*
 
 *Interest in an IFQ allocation* means: An allocation of quota share or annual IFQ allocation held by an individual; or by a company in which the individual is an owner, part owner, officer, shareholder, or partner; or by an immediate family member (an individual's parents, spouse, children, and siblings).
 
