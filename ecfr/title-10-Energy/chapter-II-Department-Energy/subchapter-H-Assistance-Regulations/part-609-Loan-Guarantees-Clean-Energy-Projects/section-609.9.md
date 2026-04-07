@@ -8,4 +8,4 @@
 
 (2) During the operational phase, monitoring and servicing the Guaranteed Obligations and collection of the outstanding principal and accrued interest as well as undertaking to ensure that the collateral package securing the Guaranteed Obligations remains uncompromised; and
 
-(3) Until the Guaranteed Obligation has been repaid, providing annual or more frequent financial and other reports on the status and condition of the Guaranteed Obligations and the Eligible Project, and promptly notifying DOE if it becomes aware of any problems or irregularities concerning the Eligible Project or the ability of the Borrower to make payment on the Guaranteed Obligations or its other debt obligations.
+(3) Until the Guaranteed Obligations have been repaid, providing annual or more frequent financial and other reports on the status and condition of the Guaranteed Obligations and the Eligible Project, and promptly notifying DOE if it becomes aware of any problems or irregularities concerning the Eligible Project or the ability of the Borrower to make payment on the Guaranteed Obligations or its other debt obligations.

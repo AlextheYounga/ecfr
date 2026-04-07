@@ -20475,7 +20475,7 @@ The map provided is for informational purposes only.
 
 2\. The remainder of § 17.95 appears in 50 Part 17, § 17.95(f) to end of § 17.95.
 
-Link to an amendment published at 88 FR 25538, Apr. 27, 2023.Link to an amendment published at 88 FR 33221, May 23, 2023.
+Link to an amendment published at 88 FR 33221, May 23, 2023.
 
 (f) *Clams and Snails.*
 
@@ -23631,7 +23631,37 @@ Diminutive amphipod (*Gammarus hyalleloides*)
 
 (5) Diamond Y Spring Unit, Pecos County, Texas. Map of Diamond Y Spring Unit follows:
 
-![](/graphics/er09jy13.013.gif)Big Sandy Crayfish (Cambarus callainus)
+![](/graphics/er09jy13.013.gif)Big Creek Crayfish (*Faxonius peruncus*)
+
+(1) The critical habitat unit is depicted for Iron, Madison, St. Francois, Washington, and Wayne Counties in Missouri, on the map in this entry.
+
+(2) Within the critical habitat unit, the physical or biological features essential to the conservation of the Big Creek crayfish consist of the following components:
+
+(i) Stream flow velocity generally between 0 and 1.1 feet per second (ft/s) (0 and 0.35 meters per second (m/s)).
+
+(ii) Stream depths generally between 0.2 and 1.6 feet (0.06 and 0.49 meters).
+
+(iii) Water temperatures between 34 and 84 °F (1.1 and 28.9 °C).
+
+(iv) Adequately low stream embeddedness so that spaces under rocks and cavities in gravel remain available to the Big Creek crayfish.
+
+(v) An available forage and prey base consisting of invertebrates, periphyton, and plant detritus.
+
+(vi) Connectivity among occupied stream reaches of the Big Creek crayfish (both within and among occupied subwatersheds).
+
+(vii) Adequately low ratios or densities of nonnative species that allow for maintaining populations of the Big Creek crayfish.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on May 30, 2023.
+
+(4) The National Hydrography Dataset Plus (NHD*Plus*) was the geospatial data used to delineate critical habitat. NHD*Plus* is a national geospatial surface water framework that integrates the National Hydrography Dataset with the National Elevation Dataset and the Watershed Boundary Dataset. NHD*Plus* uses medium resolution (1:100,000-scale) data with a geographic projection and NAD83 datum. Critical habitat was delineated by including all streams within subwatersheds (at the 12-digit hydrologic unit level) occupied by the Big Creek crayfish. Occupied watersheds were defined using data from the Missouri Department of Conservation; the entire St. Francis River upstream of 37.091254N, 90.447212W is also considered occupied as a migratory route. The map in this entry, as modified by any accompanying regulatory text, establishes the boundaries of the critical habitat designation. The coordinates or plot points or both on which the map is based are available to the public at *https://www.regulations.gov* under Docket No. FWS-R3-ES-2019-0020 and at the Missouri Ecological Services Field Office. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Big Creek Crayfish Unit—Iron, Madison, St. Francois, Washington, and Wayne Counties, Missouri.
+
+(i) The unit consists of all of the streams (approximately 1,069 river miles (1,720 kilometers)) upstream of Wappapello Dam in the following subwatersheds (numbers in parentheses represent the 12-digit hydrologic codes): Big Lake Creek-St. Francis River (080202020503), Blankshire Branch-St. Francis River (080202020204), Captain Creek-St. Francis River (080202020405), Cedar Bottom Creek-St. Francis River (080202020402), Clark Creek (080202020407), Cedar Bottom Creek (080202020501), Crane Pond Creek (080202020303), Headwaters St. Francis River (080202020201), Headwaters Twelvemile Creek (080202020403), Leatherwood Creek-St. Francis River (080202020406), Lower Big Creek (080202020304), Middle Big Creek (080202020302), Saline Creek-Little St. Francis River (080202020102), Turkey Creek-St. Francis River (080202020210), Twelvemile Creek (080202020404), and Upper Big Creek (080202020301). The unit also consists of the entire St. Francis River upstream of 37.091254N, 90.447212W. The unit does not include any areas of adjacent land. This unit includes stream habitat up to bank full height.
+
+(ii) Map of Big Creek Crayfish Unit of Big Creek crayfish critical habitat follows:
+
+Figure 1 for Big Creek Crayfish (*Faxonius peruncus*) paragraph (5)(ii) ![](/graphics/er27ap23.152.gif)Big Sandy Crayfish (Cambarus callainus)
 
 (1) Critical habitat units are depicted for Martin, Pike, Johnson, and Floyd Counties, Kentucky; Buchanan, Dickenson, and Wise Counties, Virginia; and McDowell, Mingo, and Wayne Counties, West Virginia, on the maps in this entry.
 
@@ -24045,7 +24075,37 @@ Slenderclaw Crayfish (*Cambarus cracens*)
 
 (B) Map of Subunit 2b follows:
 
-![](/graphics/er08se21.003.gif)Conservancy Fairy Shrimp (*Branchinecta conservatio*).
+![](/graphics/er08se21.003.gif)St. Francis River Crayfish (*Faxonius quadruncus*)
+
+(1) The critical habitat unit is depicted for Iron, Madison, St. Francois, Washington, and Wayne Counties in Missouri, on the map in this entry.
+
+(2) Within the critical habitat unit, the physical or biological features essential to the conservation of the St. Francis River crayfish consist of the following components:
+
+(i) Stream flow velocity generally between 0 and 1.1 feet per second (ft/s) (0 and 0.35 meters per second (m/s)).
+
+(ii) Stream depths generally between 0.2 and 1.7 feet (0.06 and 0.52 meters).
+
+(iii) Water temperatures between 34 and 84 °F (1.1 and 28.9 °C).
+
+(iv) Adequately low stream embeddedness so that spaces under rocks and cavities in gravel remain available to the St. Francis River crayfish.
+
+(v) An available forage and prey base consisting of invertebrates, periphyton, and plant detritus.
+
+(vi) Connectivity among occupied stream reaches of the St. Francis River crayfish (both within and among occupied subwatersheds).
+
+(vii) Adequately low ratios or densities of nonnative species that allow for maintaining populations of the St. Francis River crayfish.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on May 30, 2023.
+
+(4) The National Hydrography Dataset Plus (NHD*Plus*) was the geospatial data used to delineate critical habitat. NHD*Plus* is a national geospatial surface water framework that integrates the National Hydrography Dataset with the National Elevation Dataset and the Watershed Boundary Dataset. NHD*Plus* uses medium resolution (1:100,000-scale) data with a geographic projection and NAD83 Datum. Critical habitat was delineated by including all streams within subwatersheds (at the 12-digit hydrologic unit level) occupied by the St. Francis River crayfish. Occupied watersheds were defined using data from the Missouri Department of Conservation; the entire St. Francis River upstream of 36.982104N, 90.335400W is also considered occupied as a migratory route. The map in this entry, as modified by any accompanying regulatory text, establishes the boundaries of the critical habitat designation. The coordinates or plot points or both on which the map is based are available to the public at *https://www.regulations.gov* under Docket No. FWS-R3-ES-2019-0020 and at the Missouri Ecological Services Field Office. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) St. Francis River Crayfish Unit—Iron, Madison, St. Francois, Washington, and Wayne Counties, Missouri.
+
+(i) The unit consists of all of the streams (approximately 1,043 river miles (1,679 kilometers)) upstream of Wappapello Dam in the following subwatersheds (numbers in parentheses represent the 12-digit hydrologic codes): Blankshire Branch-St. Francis River (80202020204), Captain Creek-St. Francis River (80202020405), Cedar Bottom Creek-St. Francis River (80202020402), Headwaters St. Francis River (80202020201), Headwaters Stouts Creek (80202020207), Hubble Creek-St. Francis River (80202020502), Leatherwood Creek-St. Francis River (80202020406), Little St. Francis River (80202020103), Lost Creek (80202020507), Marble Creek (80202020401), Musco Creek-Little St. Francis River (80202020101), O'Bannon Creek-St. Francis River (80202020206), Saline Creek-Little St. Francis River (80202020102), Stouts Creek (80202020208), Turkey Creek-St. Francis River (80202020210), and Wachita Creek-St. Francis River (80202020209). The unit also consists of the entire St. Francis River upstream of 36.982104N, 90.335400W. The unit does not include any areas of adjacent land. The Upper St. Francis River Watershed Unit includes stream habitat up to bank full height.
+
+(ii) Map of St. Francis River Crayfish Unit of St. Francis River crayfish critical habitat follows:
+
+Figure 1 for St. Francis River Crayfish (*Faxonius quadruncus*) paragraph (5)(ii) ![](/graphics/er27ap23.153.gif)Conservancy Fairy Shrimp (*Branchinecta conservatio*).
 
 (1) Critical habitat units are depicted for Butte, Colusa, Mariposa, Merced, Solano, Stanislaus, Tehama, and Ventura Counties, California, on the maps below.
 
