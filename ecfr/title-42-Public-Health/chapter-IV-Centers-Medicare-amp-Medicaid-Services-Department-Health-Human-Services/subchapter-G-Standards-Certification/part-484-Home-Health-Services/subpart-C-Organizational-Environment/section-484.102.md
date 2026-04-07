@@ -1,4 +1,4 @@
-##### § 484.22 Condition of participation: Emergency preparedness.
+##### § 484.102 Condition of participation: Emergency preparedness.
 
 The Home Health Agency (HHA) must comply with all applicable Federal, State, and local emergency preparedness requirements. The HHA must establish and maintain an emergency preparedness program that meets the requirements of this section. The emergency preparedness program must include, but not be limited to, the following elements:
 
@@ -60,7 +60,7 @@ The Home Health Agency (HHA) must comply with all applicable Federal, State, and
 
 (iii) Maintain documentation of the training.
 
-(iv) Demonstrate staff knowledge of emergency procedures.
+(ii) Demonstrate staff knowledge of emergency procedures.
 
 (2) *Testing.* The HHA must conduct exercises to test the emergency plan at least annually. The HHA must do the following:
 
@@ -89,5 +89,3 @@ The Home Health Agency (HHA) must comply with all applicable Federal, State, and
 (ii) A documented individual facility-based risk assessment for each separately certified facility within the health system, utilizing an all-hazards approach.
 
 (5) Include integrated policies and procedures that meet the requirements set forth in paragraph (b) of this section, a coordinated communication plan and training and testing programs that meet the requirements of paragraphs (c) and (d) of this section, respectively.
-
-\[81 FR 64033, Sept. 16, 2016; 81 FR 80594, Nov. 16, 2016\]
