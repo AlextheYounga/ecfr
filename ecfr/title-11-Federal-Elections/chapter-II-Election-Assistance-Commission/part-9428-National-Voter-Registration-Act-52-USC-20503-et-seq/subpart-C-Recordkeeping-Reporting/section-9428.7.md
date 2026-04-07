@@ -1,6 +1,6 @@
 ##### § 9428.7 Contents of reports from the states.
 
-(a) The chief state election official shall provide the information required under this section with the Commission by March 31 of each odd-numbered year beginning March 31, 1995 on a form to be provided by the Commission. Reports shall be mailed to: National Clearinghouse on Election Administration, Election Assistance Commission, 1201 New York Avenue, NW., Suite 300, Washington, DC 20005. The data to be reported in accordance with this section shall consist of applications or responses received up to and including the date of the preceding federal general election.
+(a) The chief state election official shall provide the information required under this section with the Commission by March 31 of each odd-numbered year beginning March 31, 1995 on a form to be provided by the Commission. Reports shall be mailed to: National Clearinghouse on Election Administration, Election Assistance Commission, 1335 East-West Highway, Suite 4300, Silver Spring, MD 20910. The data to be reported in accordance with this section shall consist of applications or responses received up to and including the date of the preceding federal general election.
 
 (b) Except as provided in paragraph (c) of this section, the report required under this section shall include:
 
@@ -40,4 +40,4 @@
 
 (c) For the State report due March 31, 1995, the chief state election official need only provide the information described in paragraph (b)(2) of this section and a brief narrative or general description of the state's implementation of the NVRA.
 
-\[59 FR 32323, June 23, 1994, as amended at 59 FR 64560, Dec. 15, 1994. Redesignated and amended at 74 FR 37520, July 29, 2009; 75 FR 49815, Aug. 16, 2010\]
+\[59 FR 32323, June 23, 1994, as amended at 59 FR 64560, Dec. 15, 1994. Redesignated and amended at 74 FR 37520, July 29, 2009; 75 FR 49815, Aug. 16, 2010; 83 FR 53802, Oct. 25, 2018\]
