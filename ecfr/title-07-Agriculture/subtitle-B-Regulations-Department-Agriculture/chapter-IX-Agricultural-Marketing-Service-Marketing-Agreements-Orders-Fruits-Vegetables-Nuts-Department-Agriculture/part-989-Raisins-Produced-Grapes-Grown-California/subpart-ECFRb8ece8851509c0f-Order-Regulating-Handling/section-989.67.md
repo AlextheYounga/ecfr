@@ -1,5 +1,7 @@
 ##### § 989.67 Disposal of reserve raisins.
 
+Link to an amendment published at 83 FR 53971, Oct. 26, 2018.
+
 (a) At the time the committee meets to consider free and reserve percentages for a crop year, the committee shall consider the marketing of reserve tonnage raisins for the subsequent 12-month period. The committee shall dispose of all reserve tonnage in such manner as to achieve, as nearly as may be practicable, maximum disposal of such raisins by the time reserve tonnage raisins from the subsequent crop year are available. Any reserve tonnage raisins held unsold by the committee on May 1 of the subsequent crop year shall be physically disposed of promptly in any available outlet not competitive with normal market channels for free tonnage raisins or sales of new crop reserve tonnage raisins in export: *Provided,* That, whenever the Secretary finds, based upon a recommendation of the committee, or on the basis of information otherwise available to him that because of national emergency, crop failure, an insufficient supply of reserve tonnage raisins for export, or other change of economic or marketing conditions, retention of reserve tonnage raisins carried over is warranted, the foregoing requirements as to disposal shall not apply and such raisins may be disposed of in any outlet recommended by the committee and approved by the Secretary.
 
 (b) Reserve tonnage raisins shall be disposed of by the committee:

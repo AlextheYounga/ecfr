@@ -1,5 +1,7 @@
 ##### § 989.60 Exemption.
 
+Link to an amendment published at 83 FR 53971, Oct. 26, 2018.
+
 (a) Notwithstanding any other provisions of this amended subpart, the committee may establish, with the approval of the Secretary, such rules and procedures as may be necessary to permit the acquisition and disposition of any off-grade or reserve pool raisins, free from any or all regulations, for uses in non-normal outlets.
 
 (b) The committee may establish, with the approval of the Secretary, such rules and procedures as may be necessary to exempt from any or all regulations raisins produced in southern California (i.e., the counties of Riverside, Imperial, San Bernardino, Ventura, Orange, Los Angeles, and San Diego) and disposed of for distillation, livestock feed, or by export in natural condition to Mexico.

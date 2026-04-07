@@ -1,5 +1,7 @@
 ##### § 989.66 Reserve tonnage generally.
 
+Link to an amendment published at 83 FR 53971, Oct. 26, 2018.
+
 (a) The standard raisins acquired by a handler which are designated as reserve tonnage and reserve tonnage transferred to a handler by the committee shall be held by him for the account of the committee and subject to the applicable restrictions of this part.
 
 (b)(1) Each handler shall hold in storage all reserve tonnage acquired by him and all reserve tonnage transferred to him by the committee until he has been relieved of such responsibility by the committee either by delivery to the committee or otherwise. Such handler shall store such reserve tonnage raisins in natural condition without addition of moisture and in such manner as will maintain the raisins in the same condition as when he acquired them, except for normal and natural deterioration and shrinkage, and except for loss through fire, acts of God or other conditions beyond the handler's control.
