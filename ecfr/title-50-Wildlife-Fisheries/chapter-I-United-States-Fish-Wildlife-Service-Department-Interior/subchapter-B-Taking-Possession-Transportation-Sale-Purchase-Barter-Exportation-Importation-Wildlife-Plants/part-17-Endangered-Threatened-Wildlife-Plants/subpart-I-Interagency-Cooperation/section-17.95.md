@@ -1,7 +1,5 @@
 ##### § 17.95 Critical habitat - fish and wildlife.
 
-Link to an amendment published at 85 FR 69895, Nov. 3, 2020.
-
 (a) *Mammals.*
 
 Indiana Bat (*Myotis sodalis*)
@@ -1154,13 +1152,7 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.020.gif)Gray Wolf (*Canis lupus*)
-
-*Michigan.* Isle Royale National Park.
-
-*Minnesota.* Areas of land, water, and airspace in Beltrami, Cook, Itasca, Koochiching, Lake, Lake of the Woods, Roseau, and St. Louis Counties, with boundaries (4th and 5th Principal meridians) identical to those of zones 1, 2, and 3, as delineated in § 17.40(d)(l).
-
-Editorial Notes:1\. For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+![](/graphics/ec01jn91.020.gif)Editorial Notes:1\. For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (b) *Birds.*
 
