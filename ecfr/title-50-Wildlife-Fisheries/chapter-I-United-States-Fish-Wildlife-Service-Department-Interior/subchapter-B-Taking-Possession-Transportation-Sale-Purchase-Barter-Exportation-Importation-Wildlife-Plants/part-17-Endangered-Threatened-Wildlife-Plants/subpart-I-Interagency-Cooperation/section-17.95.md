@@ -1,5 +1,7 @@
 ##### § 17.95 Critical habitat - fish and wildlife.
 
+Link to an amendment published at 83 FR 18702, Apr. 27, 2018.
+
 (a) *Mammals.*
 
 Indiana Bat (*Myotis sodalis*)
@@ -9512,7 +9514,7 @@ Critical Habitat Map Unit
 
 (iii) Note: Map 1 of the critical habitat for Rota bridled white-eye follows:
 
-![](/graphics/er12se06.000.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Link to an amendment published at 83 FR 278, January 3, 2018.
+![](/graphics/er12se06.000.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Link to an amendment published at 83 FR 18703, April 27, 2018.
 
 (c) *Reptiles.*
 
@@ -19497,7 +19499,7 @@ Biological Environment - Food supply, predation, and competition are important e
 
 2\. Few or no predatory or competitive nonnative species in occupied Virgin River fishes' habitats or potential reestablishment sites.
 
-![](/graphics/er26ja00.001.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+![](/graphics/er26ja00.001.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Link to an amendment published at 83 FR 18705, April 27, 2018.
 
 (f) *Clams and Snails.*
 

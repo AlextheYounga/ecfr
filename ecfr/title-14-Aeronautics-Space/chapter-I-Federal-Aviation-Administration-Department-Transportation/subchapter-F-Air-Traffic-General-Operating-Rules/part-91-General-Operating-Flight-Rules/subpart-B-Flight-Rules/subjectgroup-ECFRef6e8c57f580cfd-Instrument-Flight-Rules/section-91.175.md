@@ -10,7 +10,7 @@
 
 (3) The DA/DH or MDA appropriate for the aircraft equipment available and used during the approach.
 
-(c) *Operation below DA/DH or MDA.* Except as provided in § 91.176 of this chapter, where a DA/DH or MDA is applicable, no pilot may operate an aircraft, except a military aircraft of the United States, below the authorized MDA or continue an approach below the authorized DA/DH unless -
+(c) *Operation below DA/DH or MDA.* Except as provided in § 91.176 of this chapter, where a DA/DH or MDA is applicable, no pilot may operate an aircraft, except a military aircraft of the United States, below the authorized MDA or continue an approach below the authorized DA/DH unless—
 
 (1) The aircraft is continuously in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers, and for operations conducted under part 121 or part 135 unless that descent rate will allow touchdown to occur within the touchdown zone of the runway of intended landing;
 
@@ -38,7 +38,7 @@
 
 (x) The runway lights.
 
-(d) *Landing.* No pilot operating an aircraft, except a military aircraft of the United States, may land that aircraft when -
+(d) *Landing.* No pilot operating an aircraft, except a military aircraft of the United States, may land that aircraft when—
 
 (1) For operations conducted under § 91.176 of this part, the requirements of paragraphs (a)(3)(iii) or (b)(3)(iii), as applicable, of that section are not met; or
 
@@ -52,17 +52,19 @@
 
 (ii) Upon arrival at the missed approach point, including a DA/DH where a DA/DH is specified and its use is required, and at any time after that until touchdown.
 
+(2) Whenever an identifiable part of the airport is not distinctly visible to the pilot during a circling maneuver at or above MDA, unless the inability to see an identifiable part of the airport results only from a normal bank of the aircraft during the circling approach.
+
 (f) *Civil airport takeoff minimums.* This paragraph applies to persons operating an aircraft under part 121, 125, 129, or 135 of this chapter.
 
 (1) Unless otherwise authorized by the FAA, no pilot may takeoff from a civil airport under IFR unless the weather conditions at time of takeoff are at or above the weather minimums for IFR takeoff prescribed for that airport under part 97 of this chapter.
 
 (2) If takeoff weather minimums are not prescribed under part 97 of this chapter for a particular airport, the following weather minimums apply to takeoffs under IFR:
 
-(i) For aircraft, other than helicopters, having two engines or less - 1 statute mile visibility.
+(i) For aircraft, other than helicopters, having two engines or less—1 statute mile visibility.
 
-(ii) For aircraft having more than two engines - 1/2 statute mile visibility.
+(ii) For aircraft having more than two engines— 1/2 statute mile visibility.
 
-(iii) For helicopters - 1/2 statute mile visibility.
+(iii) For helicopters— 1/2 statute mile visibility.
 
 (3) Except as provided in paragraph (f)(4) of this section, no pilot may takeoff under IFR from a civil airport having published obstacle departure procedures (ODPs) under part 97 of this chapter for the takeoff runway to be used, unless the pilot uses such ODPs or an alternative procedure or route assigned by air traffic control.
 
@@ -86,7 +88,7 @@
 | 4,000      | 3/4                        |
 | 4,500      | 7/8                        |
 | 5,000      | 1                          |
-| 6,000      | 1 1/4                      |
+| 6,000      | 11/4                       |
 
 (i) *Operations on unpublished routes and use of radar in instrument approach procedures.* When radar is approved at certain locations for ATC purposes, it may be used not only for surveillance and precision radar approaches, as applicable, but also may be used in conjunction with instrument approach procedures predicated on other types of radio navigational aids. Radar vectors may be authorized to provide course guidance through the segments of an approach to the final course or fix. When operating on an unpublished route or while being radar vectored, the pilot, when an approach clearance is received, shall, in addition to complying with § 91.177, maintain the last altitude assigned to that pilot until the aircraft is established on a segment of a published route or instrument approach procedure unless a different altitude is assigned by ATC. After the aircraft is so established, published altitudes apply to descent within each succeeding route or approach segment unless a different altitude is assigned by ATC. Upon reaching the final approach course or fix, the pilot may either complete the instrument approach in accordance with a procedure approved for the facility or continue a surveillance or precision radar approach to a landing.
 
