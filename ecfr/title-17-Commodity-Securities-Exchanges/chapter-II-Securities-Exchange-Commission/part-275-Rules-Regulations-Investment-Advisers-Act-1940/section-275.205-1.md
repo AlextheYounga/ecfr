@@ -1,18 +1,18 @@
 ##### § 275.205-1 Definition of “investment performance” of an investment company and “investment record” of an appropriate index of securities prices.
 
-(a) *Investment performance* of an investment company for any period shall mean the sum of:
+(a) *Investment performance* of an investment company for any period shall mean the sum of: 
 
-(1) The change in its net asset value per share during such period;
+(1) The change in its net asset value per share during such period; 
 
-(2) The value of its cash distributions per share accumulated to the end of such period; and
+(2) The value of its cash distributions per share accumulated to the end of such period; and 
 
-(3) The value of capital gains taxes per share paid or payable on undistributed realized long-term capital gains accumulated to the end of such period; expressed as a percentage of its net asset value per share at the beginning of such period. For this purpose, the value of distributions per share of realized capital gains, of dividends per share paid from investment income and of capital gains taxes per share paid or payable on undistributed realized long-term capital gains shall be treated as reinvested in shares of the investment company at the net asset value per share in effect at the close of business on the record date for the payment of such distributions and dividends and the date on which provision is made for such taxes, after giving effect to such distributions, dividends and taxes.
+(3) The value of capital gains taxes per share paid or payable on undistributed realized long-term capital gains accumulated to the end of such period; expressed as a percentage of its net asset value per share at the beginning of such period. For this purpose, the value of distributions per share of realized capital gains, of dividends per share paid from investment income and of capital gains taxes per share paid or payable on undistributed realized long-term capital gains shall be treated as reinvested in shares of the investment company at the net asset value per share in effect at the close of business on the record date for the payment of such distributions and dividends and the date on which provision is made for such taxes, after giving effect to such distributions, dividends and taxes. 
 
-(b) *Investment record* of an appropriate index of securities prices for any period shall mean the sum of:
+(b) *Investment record* of an appropriate index of securities prices for any period shall mean the sum of: 
 
-(1) The change in the level of the index during such period; and
+(1) The change in the level of the index during such period; and 
 
-(2) The value, computed consistently with the index, of cash distributions made by companies whose securities comprise the index accumulated to the end of such period; expressed as a percentage of the index level at the beginning of such period. For this purpose cash distributions on the securities which comprise the index shall be treated as reinvested in the index at least as frequently as the end of each calendar quarter following the payment of the dividend.
+(2) The value, computed consistently with the index, of cash distributions made by companies whose securities comprise the index accumulated to the end of such period; expressed as a percentage of the index level at the beginning of such period. For this purpose cash distributions on the securities which comprise the index shall be treated as reinvested in the index at least as frequently as the end of each calendar quarter following the payment of the dividend. 
 
 Exhibit I
 
@@ -30,19 +30,19 @@ Exhibit I
 
 Change in index value for 1971: 102.09 − 92.15 = 9.94. Accumulated value of dividends for 1971: ![](/graphics/ec14no91.094.gif)
 
-Aggregate value of dividends paid, assuming quarterly reinvestment and computed consistently with the index:
+Aggregate value of dividends paid, assuming quarterly reinvestment and computed consistently with the index: 
 
-(Percent yield as computed above) × (ending index value) = Aggregate value of dividends paid
+(Percent yield as computed above) × (ending index value) = Aggregate value of dividends paid 
 
-For 1971:
+For 1971: 
 
 .0314 × 102.09 = 3.21
 
-Investment record of Standard & Poor's 500 stock composite index assuming quarterly reinvestment dividends:
+Investment record of Standard & Poor's 500 stock composite index assuming quarterly reinvestment dividends: 
 
 ![](/graphics/ec14no91.095.gif)
 
-The same method can be extended to cases where an investment company's fiscal quarters do not coincide with the fiscal quarters of the S & P dividend record or to instances where a “rolling period” is used for performance comparisons as indicated by the following example of the calculation of the investment record of the Standard & Poor's 500 Stock Composite Index for the 12 months ended November 1971:
+The same method can be extended to cases where an investment company's fiscal quarters do not coincide with the fiscal quarters of the S & P dividend record or to instances where a “rolling period” is used for performance comparisons as indicated by the following example of the calculation of the investment record of the Standard & Poor's 500 Stock Composite Index for the 12 months ended November 1971: 
 
 | Index value Nov. 30, 1971 | 93.99 |
 | Index value Nov. 30, 1970 | 87.20 |
@@ -56,29 +56,29 @@ The same method can be extended to cases where an investment company's fiscal qu
 | Sept. 1971      | 3.14           | .79                                              |
 | Dec. 1971       | 3.01           | .75                                              |
 
-Accumulated value of dividends reinvested:
+Accumulated value of dividends reinvested: 
 
-December = 1.0028
+December = 1.0028 
 
-January-March = 1.0078
+January-March = 1.0078 
 
-April-June = 1.0078
+April-June = 1.0078 
 
-July-September = 1.0079
+July-September = 1.0079 
 
 October-November = 1.0053 4
 
 4 The rate for October and November would be two-thirds of the yield for the quarter ended Sept. 30 (i.e. .667 × .79 = 5269) since the yield for the quarter ended Dec. 31 would not be available as of Nov. 30.
 
-Dividend yield:
+Dividend yield: 
 
 (1.0028 × 1.0078 × 1.0078 × 1.0079 × 1.0053) − 1.00 = .0320
 
-Aggregate value of dividends paid computed consistently with the index:
+Aggregate value of dividends paid computed consistently with the index: 
 
 .0320 × 93.99 = 3.01
 
-Investment record of the Standard & Poor's 500 Stock Composite Index for the 12 months ended November 30, 1971:
+Investment record of the Standard & Poor's 500 Stock Composite Index for the 12 months ended November 30, 1971: 
 
 ![](/graphics/ec14no91.096.gif)
 
@@ -99,17 +99,17 @@ Exhibit II
 
 Change in NYSE Composite Index value for 1971: 56.43 − 50.23 = 6.20. Accumulated Value of Dividends of NYSE Composite Index for 1971: ![](/graphics/ec14no91.097.gif)
 
-Aggregate value of dividends paid on NYSE Composite Index assuming quarterly reinvestment:
+Aggregate value of dividends paid on NYSE Composite Index assuming quarterly reinvestment: 
 
-For 1971:
+For 1971: 
 
 .0286 × 56.43 = 1.61
 
-Investment record of the New York Stock Exchange Composite Index assuming quarterly reinvestment of dividends:
+Investment record of the New York Stock Exchange Composite Index assuming quarterly reinvestment of dividends: 
 
 ![](/graphics/ec14no91.098.gif)
 
-The same method can be extended to cases where an investment company's fiscal quarters do not coincide with the fiscal quarters of the NYSE dividend record or to instances where a “rolling period” is used for performance comparisons as indicated by the following example of the calculation of the investment record of the NYSE Composite Index for the 12 months ended November 1971:
+The same method can be extended to cases where an investment company's fiscal quarters do not coincide with the fiscal quarters of the NYSE dividend record or to instances where a “rolling period” is used for performance comparisons as indicated by the following example of the calculation of the investment record of the NYSE Composite Index for the 12 months ended November 1971: 
 
 | Index value Nov. 30, 1971 | 51.84 |
 | Index value Nov. 30, 1970 | 47.41 |
@@ -123,21 +123,21 @@ The same method can be extended to cases where an investment company's fiscal qu
 | Sept. 1971     | .71                              | .24                                              |
 | Dec. 1971      | .70                              | .23                                              |
 
-Accumulated value of dividends reinvested:
+Accumulated value of dividends reinvested: 
 
-December = 1.0026
+December = 1.0026 
 
-January-March = 1.0072
+January-March = 1.0072 
 
-April-June = 1.0070
+April-June = 1.0070 
 
-July-September = 1.0071
+July-September = 1.0071 
 
 October-November = 1.0047 4
 
 4 The rate for October and November would be two thirds of the yield for the quarter ended September 30 (i.e. .667 × .71 = 4736), since the yield for the quarter ended December 31 would not be available as of November 30.
 
-Dividend yield:
+Dividend yield: 
 
 (1.0026 × 1.0072 × 1.0070 × 1.0071 × 1.0047) − 1.00 = .0289
 
