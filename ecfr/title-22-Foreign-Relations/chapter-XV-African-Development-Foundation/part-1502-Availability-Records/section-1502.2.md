@@ -2,9 +2,9 @@
 
 As used in this part, the following words have the meanings set forth below:
 
-(a) *Act* means the Act of June 5, 1967, sometimes referred to as the “Freedom of Information Act” or the Public Information Section of the Administrative Procedure Act, as amended, Pub. L. 90-23, 81 Stat. 54, codified at 5 U.S.C. 552.
+(a) *Act* means the Act of June 5, 1967, sometimes referred to as the “Freedom of Information Act” or the Public Information Section of the Administrative Procedure Act, as amended, Public Law 90-23, 81 Stat. 54, codified at 5 U.S.C. 552.
 
-(b) *Foundation* means the African Development Foundation.
+(b) *Foundation* means the United States African Development Foundation.
 
 (c) *President* means the President of the Foundation.
 
