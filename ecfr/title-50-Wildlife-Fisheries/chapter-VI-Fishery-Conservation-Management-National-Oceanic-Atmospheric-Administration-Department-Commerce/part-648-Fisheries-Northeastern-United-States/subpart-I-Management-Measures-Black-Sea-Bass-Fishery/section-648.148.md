@@ -1,30 +1,30 @@
 ##### § 648.148 Special management zones.
 
-(a) *General.* The recipient of a U.S. Army Corps of Engineers permit for an artificial reef, fish attraction device, or other modification of habitat for purposes of fishing may request that an area surrounding and including the site be designated by the MAFMC as a special management zone (SMZ). The MAFMC may prohibit or restrain the use of specific types of fishing gear that are not compatible with the purpose of the artificial reef or fish attraction device or other habitat modification within the SMZ. The establishment of an SMZ will be effected by a regulatory amendment, pursuant to the following procedure: An SMZ monitoring team comprised of members of staff from the MAFMC, NMFS Greater Atlantic Regional Fisheries Office, and NMFS Northeast Fisheries Science Center will evaluate the request in the form of a written report.Federal Register
+(a) *General.* The recipient of a U.S. Army Corps of Engineers permit for an artificial reef, fish attraction device, or other modification of habitat for purposes of fishing may request that an area surrounding and including the site be designated by the MAFMC as a special management zone (SMZ). The MAFMC may prohibit or restrain the use of specific types of fishing gear that are not compatible with the purpose of the artificial reef or fish attraction device or other habitat modification within the SMZ. The establishment of an SMZ will be effected by a regulatory amendment, pursuant to the following procedure: An SMZ monitoring team comprised of members of staff from the MAFMC, NMFS Greater Atlantic Regional Fisheries Office, and NMFS Northeast Fisheries Science Center will evaluate the request in the form of a written report. 
 
-(1) *Evaluation criteria.* In establishing an SMZ, the SMZ monitoring team will consider the following criteria:
+(1) *Evaluation criteria.* In establishing an SMZ, the SMZ monitoring team will consider the following criteria: 
 
-(i) Fairness and equity;
+(i) Fairness and equity; 
 
-(ii) Promotion of conservation;
+(ii) Promotion of conservation; 
 
-(iii) Avoidance of excessive shares;
+(iii) Avoidance of excessive shares; 
 
-(iv) Consistency with the objectives of Amendment 9 to the Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan, the Magnuson-Stevens Act, and other applicable law;
+(iv) Consistency with the objectives of Amendment 9 to the Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan, the Magnuson-Stevens Act, and other applicable law; 
 
-(v) The natural bottom in and surrounding potential SMZs; and
+(v) The natural bottom in and surrounding potential SMZs; and 
 
-(vi) Impacts on historical uses.
+(vi) Impacts on historical uses. 
 
-(2) The MAFMC Chairman may schedule meetings of MAFMC's industry advisors and/or the SSC to review the report and associated documents and to advise the MAFMC. The MAFMC Chairman may also schedule public hearings.
+(2) The MAFMC Chairman may schedule meetings of MAFMC's industry advisors and/or the SSC to review the report and associated documents and to advise the MAFMC. The MAFMC Chairman may also schedule public hearings. 
 
-(3) The MAFMC, following review of the SMZ monitoring team's report, supporting data, public comments, and other relevant information, may recommend to the Regional Administrator that an SMZ be approved. Such a recommendation will be accompanied by all relevant background information.
+(3) The MAFMC, following review of the SMZ monitoring team's report, supporting data, public comments, and other relevant information, may recommend to the Regional Administrator that an SMZ be approved. Such a recommendation will be accompanied by all relevant background information. 
 
-(4) The Regional Administrator will review the MAFMC's recommendation. If the Regional Administrator concurs in the recommendation, he or she will publish a proposed rule in the Federal Register in accordance with the recommendations. If the Regional Administrator rejects the MAFMC's recommendation, he or she shall advise the MAFMC in writing of the basis for the rejection.
+(4) The Regional Administrator will review the MAFMC's recommendation. If the Regional Administrator concurs in the recommendation, he or she will publish a proposed rule in the Federal Register in accordance with the recommendations. If the Regional Administrator rejects the MAFMC's recommendation, he or she shall advise the MAFMC in writing of the basis for the rejection. 
 
-(5) The proposed rule to establish an SMZ shall afford a reasonable period for public comment. Following a review of public comments and any information or data not previously available, the Regional Administrator will publish a final rule if he or she determines that the establishment of the SMZ is supported by the substantial weight of evidence in the record and consistent with the Magnuson-Stevens Act and other applicable law.
+(5) The proposed rule to establish an SMZ shall afford a reasonable period for public comment. Following a review of public comments and any information or data not previously available, the Regional Administrator will publish a final rule if he or she determines that the establishment of the SMZ is supported by the substantial weight of evidence in the record and consistent with the Magnuson-Stevens Act and other applicable law. 
 
-(b) *Approved/Established SMZs*—(1) *Delaware Special Management Zone Areas.* Special management zones are established for Delaware artificial reef permit areas #9, 10, 11, and 13, in the area of the U.S. Exclusive Economic Zone. From January 1 through December 31 of each year, no person may fish in the Delaware Special Management Zones except by handline, rod and reel, or spear fishing (including the taking of fish by hand). The Delaware Special Management Zones are defined by rhumb lines connecting the following coordinates in the order stated:
+(b) *Approved/Established SMZs*—(1) *Delaware Special Management Zone Areas.* Special management zones are established for Delaware artificial reef permit areas #9, 10, 11, and 13, in the area of the U.S. Exclusive Economic Zone. From January 1 through December 31 of each year, no person may fish in the Delaware Special Management Zones except by handline, rod and reel, or spear fishing (including the taking of fish by hand). The Delaware Special Management Zones are defined by rhumb lines connecting the following coordinates in the order stated: 
 
 (i) *Delaware artificial reef #9.*
 
@@ -66,7 +66,7 @@
 | 4     | 13NE   | 38°31.734′ | 74°30.018′  |
 | 5     | 13SE   | 38°30.138′ | 74°30.582′  |
 
-(2) *New Jersey Special Management Zone Areas.* Special management zones are established for New Jersey artificial reef permit areas, in the area of the U.S. Exclusive Economic Zone. From January 1 through December 31 of each year, no person may fish in the New Jersey Special Management Zones except by handline, rod and reel, or spear fishing (including the taking of fish by hand). The New Jersey Special Management Zones are defined by rhumb lines connecting the following coordinates in the order stated:
+(2) *New Jersey Special Management Zone Areas.* Special management zones are established for New Jersey artificial reef permit areas, in the area of the U.S. Exclusive Economic Zone. From January 1 through December 31 of each year, no person may fish in the New Jersey Special Management Zones except by handline, rod and reel, or spear fishing (including the taking of fish by hand). The New Jersey Special Management Zones are defined by rhumb lines connecting the following coordinates in the order stated: 
 
 (i) *Sea Girt Reef Site.*
 

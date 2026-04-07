@@ -1,15 +1,15 @@
 ##### § 648.373 New England Deep-Sea Coral Protection Areas
 
-(a) *Georges Bank Deep-Sea Coral Protection Area.* (1) No vessel may fish with bottom-tending gear within the Georges Bank Deep-Sea Coral Protection Area described in this section, unless transiting pursuant to paragraph (d) of this section or fishing red crab trap gear in accordance with § 648.264. Bottom-tending gear includes, but is not limited to, bottom-tending otter trawls, bottom-tending beam trawls, hydraulic dredges, non-hydraulic dredges, bottom-tending seines, bottom longlines, pots and traps, and sink or anchored gillnets.
+(a) *Georges Bank Deep-Sea Coral Protection Area.* (1) No vessel may fish with bottom-tending gear within the Georges Bank Deep-Sea Coral Protection Area described in this section, unless transiting pursuant to paragraph (d) of this section or fishing red crab trap gear in accordance with § 648.264. Bottom-tending gear includes, but is not limited to, bottom-tending otter trawls, bottom-tending beam trawls, hydraulic dredges, non-hydraulic dredges, bottom-tending seines, bottom longlines, pots and traps, and sink or anchored gillnets. 
 
-(2) The Georges Bank Deep-Sea Coral Protection Area is bound on the west by the New England/Mid-Atlantic Inter-council Boundary line (detailed in paragraph (a)(2)(i) of this section); bound on the north by a simplified line (detailed in paragraph (a)(2)(ii) of this section) following the 600m depth contour along the southern flank of Georges Bank; and bound on the east and south by the U.S.-Canada Maritime Boundary and the outer limit of the U.S. Exclusive Economic Zone (detailed in paragraph (a)(2)(iii) of this section).
+(2) The Georges Bank Deep-Sea Coral Protection Area is bound on the west by the New England/Mid-Atlantic Inter-council Boundary line (detailed in paragraph (a)(2)(i) of this section); bound on the north by a simplified line (detailed in paragraph (a)(2)(ii) of this section) following the 600m depth contour along the southern flank of Georges Bank; and bound on the east and south by the U.S.-Canada Maritime Boundary and the outer limit of the U.S. Exclusive Economic Zone (detailed in paragraph (a)(2)(iii) of this section). 
 
-(i) The western boundary is defined by the following coordinates, connected in the order listed, south to north, by straight lines:
+(i) The western boundary is defined by the following coordinates, connected in the order listed, south to north, by straight lines: 
 
 Table 1 to Paragraph (a)(2)(i)
 | Point                                                                   | Longitude  | Latitude  | Note |
 | ----------------------------------------------------------------------- | ---------- | --------- | ---- |
-| 11                                                                      | −68°47.62′ | 38°2.21′  | (1)  |
+| 1                                                                       | −68°47.62′ | 38°2.21′  | (1)  |
 | 2                                                                       | −68°49.99′ | 38°4.84′  |      |
 | 3                                                                       | −68°57.35′ | 38°13.00′ |      |
 | 4                                                                       | −69°4.73′  | 38°21.15′ |      |
@@ -26,11 +26,11 @@ Table 1 to Paragraph (a)(2)(i)
 | 15                                                                      | −70°27.78′ | 39°50.24′ |      |
 | 16                                                                      | −70°31.64′ | 39°54.26′ |      |
 | 17                                                                      | −70°32.09′ | 39°54.72′ | (2)  |
-| **Notes:**1                                                             |            |           |      |
+| **Notes:**                                                              |            |           |      |
 | (1) POINT 1 represents the outer limit of the US EEZ.                   |            |           |      |
 | (2) POINT 17 represents where the western and northern boundaries meet. |            |           |      |
 
-(ii) The northern (nearshore) boundary is defined by the following coordinates, connected in the order listed, west to east, by straight lines.
+(ii) The northern (nearshore) boundary is defined by the following coordinates, connected in the order listed, west to east, by straight lines. 
 
 Table 2 to Paragraph (a)(2)(ii)
 | Point                                                                   | Longitude  | Latitude  | Note |
@@ -493,11 +493,11 @@ Table 2 to Paragraph (a)(2)(ii)
 | (3) POINT 17 represents where the western and northern boundaries meet. |            |           |      |
 | (4) POINT 470 represents the U.S.-Canada Maritime Boundary.             |            |           |      |
 
-(iii) The eastern and southern boundary (from Point 470) follows the U.S.-Canada Maritime Boundary southeasterly to its intersection with the outer limit of the U.S. Exclusive Economic Zone. The boundary then follows the outer limit of the U.S. Exclusive Economic Zone southwesterly back to its origin at POINT 01.
+(iii) The eastern and southern boundary (from Point 470) follows the U.S.-Canada Maritime Boundary southeasterly to its intersection with the outer limit of the U.S. Exclusive Economic Zone. The boundary then follows the outer limit of the U.S. Exclusive Economic Zone southwesterly back to its origin at POINT 01. 
 
-(b) *Mount Desert Rock Coral Protection Area.* (1) No vessel may fish with bottom-tending mobile gear, as defined in § 648.2, within the Mount Desert Rock Coral Protection Area described in this section, unless transiting pursuant to paragraph (d) of this section. Bottom-tending mobile gear includes, but is not limited to, otter trawls, beam trawls, hydraulic dredges, non-hydraulic dredges, and seines (with the exception of a purse seine).
+(b) *Mount Desert Rock Coral Protection Area.* (1) No vessel may fish with bottom-tending mobile gear, as defined in § 648.2, within the Mount Desert Rock Coral Protection Area described in this section, unless transiting pursuant to paragraph (d) of this section. Bottom-tending mobile gear includes, but is not limited to, otter trawls, beam trawls, hydraulic dredges, non-hydraulic dredges, and seines (with the exception of a purse seine). 
 
-(2) The Mount Desert Rock Coral Protection Area is defined by the following coordinates, connected in the order listed by straight lines:
+(2) The Mount Desert Rock Coral Protection Area is defined by the following coordinates, connected in the order listed by straight lines: 
 
 Table 3 to Paragraph (b)(2)
 | Point | Longitude  | Latitude  |
@@ -509,9 +509,9 @@ Table 3 to Paragraph (b)(2)
 | MDR5  | −68°14.32′ | 43°52.11′ |
 | MDR1  | −68°13.16′ | 43°56.99′ |
 
-(c) *Outer Schoodic Ridge Coral Protection Area.* (1) No vessel may fish with bottom-tending mobile gear, as defined in § 648.2, within the Outer Schoodic Ridge Coral Protection Area described in this section, unless transiting pursuant to paragraph (d) of this section. Bottom-tending mobile gear includes, but is not limited to, otter trawls, beam trawls, hydraulic dredges, non-hydraulic dredges, and seines (with the exception of a purse seine).
+(c) *Outer Schoodic Ridge Coral Protection Area.* (1) No vessel may fish with bottom-tending mobile gear, as defined in § 648.2, within the Outer Schoodic Ridge Coral Protection Area described in this section, unless transiting pursuant to paragraph (d) of this section. Bottom-tending mobile gear includes, but is not limited to, otter trawls, beam trawls, hydraulic dredges, non-hydraulic dredges, and seines (with the exception of a purse seine). 
 
-(2) The Outer Schoodic Ridge Coral Protection Area is defined by the following coordinates, connected in the order listed by straight lines:
+(2) The Outer Schoodic Ridge Coral Protection Area is defined by the following coordinates, connected in the order listed by straight lines: 
 
 Table 4 to Paragraph (c)(2)
 | Point | Longitude  | Latitude  |
@@ -522,14 +522,14 @@ Table 4 to Paragraph (c)(2)
 | OSR4  | −67°42.29′ | 44°03.48′ |
 | OSR1  | −67°35.60′ | 44°13.49′ |
 
-(d) *Transiting.* Vessels may transit the New England Deep-Sea Coral Management Areas defined in this section, provided bottom-tending trawl nets are out of the water and stowed on the reel and any other fishing gear that is prohibited in these areas is onboard, out of the water, and not deployed. Fishing gear is not required to meet the definition of “not available for immediate use” in § 648.2, when a vessel transits the New England Deep-Sea Coral Management Areas.
+(d) *Transiting.* Vessels may transit the New England Deep-Sea Coral Management Areas defined in this section, provided bottom-tending trawl nets are out of the water and stowed on the reel and any other fishing gear that is prohibited in these areas is onboard, out of the water, and not deployed. Fishing gear is not required to meet the definition of “not available for immediate use” in § 648.2, when a vessel transits the New England Deep-Sea Coral Management Areas. 
 
-(e) *Framework adjustments.* The Council may at any time initiate a framework adjustment to add or adjust management measures within the New England Deep-Sea Coral Management Areas if it finds that action is necessary to meet or be consistent with the goals and objectives of those areas. The Council shall develop and analyze appropriate management actions over the span of at least two Council meetings. The Council shall provide the public with advance notice of the availability of both the proposals and the analyses, and opportunity to comment on them prior to and at the second Council meeting. Measures that may be changed or implemented through framework action include:
+(e) *Framework adjustments.* The Council may at any time initiate a framework adjustment to add or adjust management measures within the New England Deep-Sea Coral Management Areas if it finds that action is necessary to meet or be consistent with the goals and objectives of those areas. The Council shall develop and analyze appropriate management actions over the span of at least two Council meetings. The Council shall provide the public with advance notice of the availability of both the proposals and the analyses, and opportunity to comment on them prior to and at the second Council meeting. Measures that may be changed or implemented through framework action include: 
 
-(1) Adding, revising, or removing coral areas;
+(1) Adding, revising, or removing coral areas; 
 
-(2) Changing fishing restrictions in coral areas; and
+(2) Changing fishing restrictions in coral areas; and 
 
-(3) Developing new, or changing existing, coral area fishery access or exploratory fishing programs.
+(3) Developing new, or changing existing, coral area fishery access or exploratory fishing programs. 
 
 \[86 FR 33558, June 25, 2021\]

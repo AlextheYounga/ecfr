@@ -1,38 +1,38 @@
 ##### § 648.200 Specifications.
 
-(a) The Atlantic Herring Plan Development Team (PDT) shall meet at least every 3 years, but no later than July of the year before new specifications are implemented, with the Atlantic States Marine Fisheries Commission's (Commission) Atlantic Herring Technical Committee (TC) to develop and recommend the following specifications for a period of 3 years for consideration by the New England Fishery Management Council's Atlantic Herring Oversight Committee: Overfishing Limit (OFL), Acceptable Biological Catch (ABC), Annual Catch Limit (ACL), Optimum yield (OY), domestic annual harvest (DAH), domestic annual processing (DAP), U.S. at-sea processing (USAP), border transfer (BT), the sub-ACL for each management area, including seasonal periods as specified at § 648.201(d) and modifications to sub-ACLs as specified at § 648.201(f), the amount to be set aside for the RSA (from 0 to 3 percent of the sub-ACL from any management area), and river herring and shad catch caps, as specified in § 648.201(a)(4). Recommended specifications shall be presented to the New England Fishery Management Council.*Guidelines.*MSY1/2
+(a) The Atlantic Herring Plan Development Team (PDT) shall meet at least every 3 years, but no later than July of the year before new specifications are implemented, with the Atlantic States Marine Fisheries Commission's (Commission) Atlantic Herring Technical Committee (TC) to develop and recommend the following specifications for a period of 3 years for consideration by the New England Fishery Management Council's Atlantic Herring Oversight Committee: Overfishing Limit (OFL), Acceptable Biological Catch (ABC), Annual Catch Limit (ACL), Optimum yield (OY), domestic annual harvest (DAH), domestic annual processing (DAP), U.S. at-sea processing (USAP), border transfer (BT), the sub-ACL for each management area, including seasonal periods as specified at § 648.201(d) and modifications to sub-ACLs as specified at § 648.201(f), the amount to be set aside for the RSA (from 0 to 3 percent of the sub-ACL from any management area), and river herring and shad catch caps, as specified in § 648.201(a)(4). Recommended specifications shall be presented to the New England Fishery Management Council. 
 
-(1) The PDT shall meet with the Commission's TC to review the status of the stock and the fishery and prepare a Stock Assessment and Fishery Evaluation (SAFE) report at least every 3 years. The Herring PDT will meet at least once during interim years to review the status of the stock relative to the overfishing definition if information is available to do so. When conducting a 3-year review and preparing a SAFE Report, the PDT/TC will recommend to the Council/Commission any necessary adjustments to the specifications for the upcoming 3 years.
+(1) The PDT shall meet with the Commission's TC to review the status of the stock and the fishery and prepare a Stock Assessment and Fishery Evaluation (SAFE) report at least every 3 years. The Herring PDT will meet at least once during interim years to review the status of the stock relative to the overfishing definition if information is available to do so. When conducting a 3-year review and preparing a SAFE Report, the PDT/TC will recommend to the Council/Commission any necessary adjustments to the specifications for the upcoming 3 years. 
 
-(2) If the Council determines, based on information provided by the PDT/TC or other stock-related information, that the specifications should be adjusted during the 3-year time period, it can do so through the same process outlined in this section during one or both of the interim years.
+(2) If the Council determines, based on information provided by the PDT/TC or other stock-related information, that the specifications should be adjusted during the 3-year time period, it can do so through the same process outlined in this section during one or both of the interim years. 
 
-(b) *Guidelines.* As the basis for its recommendations under paragraph (a) of this section, the PDT shall review available data pertaining to: Commercial and recreational catch data; current estimates of fishing mortality; discards; stock status; recent estimates of recruitment; virtual population analysis results and other estimates of stock size; sea sampling and trawl survey data or, if sea sampling data are unavailable, length frequency information from trawl surveys; impact of other fisheries on herring mortality; and any other relevant information. The specifications recommended pursuant to paragraph (a) of this section must be consistent with the following:
+(b) *Guidelines.* As the basis for its recommendations under paragraph (a) of this section, the PDT shall review available data pertaining to: Commercial and recreational catch data; current estimates of fishing mortality; discards; stock status; recent estimates of recruitment; virtual population analysis results and other estimates of stock size; sea sampling and trawl survey data or, if sea sampling data are unavailable, length frequency information from trawl surveys; impact of other fisheries on herring mortality; and any other relevant information. The specifications recommended pursuant to paragraph (a) of this section must be consistent with the following: 
 
-(1) OFL must be equal to catch resulting from applying the maximum fishing mortality threshold to a current or projected estimate of stock size. When the stock is not overfished and overfishing is not occurring, this is the fishing rate supporting maximum sustainable yield (*e.g.,* FMSY or proxy). Catch that exceeds this amount would result in overfishing. The stock is considered overfished if stock biomass is less than 1/2 the stock biomass associated with the MSY level or its proxy (*e.g.,* SSBMSY or proxy). The stock is considered subject to overfishing if the fishing mortality rate exceeds the fishing mortality rate associated with the MSY level or its proxy (*e.g.,* FMSY or proxy).
+(1) OFL must be equal to catch resulting from applying the maximum fishing mortality threshold to a current or projected estimate of stock size. When the stock is not overfished and overfishing is not occurring, this is the fishing rate supporting maximum sustainable yield (*e.g.,* FMSY or proxy). Catch that exceeds this amount would result in overfishing. The stock is considered overfished if stock biomass is less than 1/2 the stock biomass associated with the MSY level or its proxy (*e.g.,* SSBMSY or proxy). The stock is considered subject to overfishing if the fishing mortality rate exceeds the fishing mortality rate associated with the MSY level or its proxy (*e.g.,* FMSY or proxy). 
 
-(2) ABC must be less than the OFL. The Council's Scientific and Statistical Committee (SSC) shall recommend ABC to the Council by applying the ABC control rule and considering scientific uncertainty. Scientific uncertainty, including, but not limited to, uncertainty around stock size estimates, variability around estimates of recruitment, and consideration of ecosystem issues, shall be considered when setting ABC.
+(2) ABC must be less than the OFL. The Council's Scientific and Statistical Committee (SSC) shall recommend ABC to the Council by applying the ABC control rule and considering scientific uncertainty. Scientific uncertainty, including, but not limited to, uncertainty around stock size estimates, variability around estimates of recruitment, and consideration of ecosystem issues, shall be considered when setting ABC. 
 
-(3) ACL must be equal to or less than the ABC. Management uncertainty, which includes, but is not limited to, expected catch of herring in the New Brunswick weir fishery and the uncertainty around discard estimates of herring caught in Federal and state waters, shall be considered when setting the ACL. Catch in excess of the ACL shall trigger accountability measures (AMs), as described in § 648.201(a).
+(3) ACL must be equal to or less than the ABC. Management uncertainty, which includes, but is not limited to, expected catch of herring in the New Brunswick weir fishery and the uncertainty around discard estimates of herring caught in Federal and state waters, shall be considered when setting the ACL. Catch in excess of the ACL shall trigger accountability measures (AMs), as described in § 648.201(a). 
 
-(4) OY may not exceed OFL (*i.e.,* MSY) and must take into account the need to prevent overfishing while allowing the fishery to achieve OY on a continuing basis. OY is prescribed on the basis of MSY, as reduced by social, economic, and ecological factors. OY may equal DAH.
+(4) OY may not exceed OFL (*i.e.,* MSY) and must take into account the need to prevent overfishing while allowing the fishery to achieve OY on a continuing basis. OY is prescribed on the basis of MSY, as reduced by social, economic, and ecological factors. OY may equal DAH. 
 
-(5) DAH is comprised of DAP and BT.
+(5) DAH is comprised of DAP and BT. 
 
-(6) River herring and shad catch caps may be allocated to the herring fishery by the following: Species, as defined in § 648.2, either separately or combined; area as specified in paragraph (f)(7) of this section; vessel permit; gear type; or any combination of these.
+(6) River herring and shad catch caps may be allocated to the herring fishery by the following: Species, as defined in § 648.2, either separately or combined; area as specified in paragraph (f)(7) of this section; vessel permit; gear type; or any combination of these. 
 
-(c) The Atlantic Herring Oversight Committee shall review the recommendations of the PDT and shall consult with the Commission's Herring Board. Based on these recommendations and any public comment received, the Herring Oversight Committee shall recommend to the Council appropriate specifications for a 3-year period. The Council shall review these recommendations and, after considering public comment, shall recommend appropriate 3-year specifications to NMFS. NMFS shall review the recommendations, consider any comments received from the Commission, and publish notification in the Federal Register proposing 3-year specifications. If the proposed specifications differ from those recommended by the Council, the reasons for any differences shall be clearly stated and the revised specifications must satisfy the criteria set forth in paragraph (b) of this section.
+(c) The Atlantic Herring Oversight Committee shall review the recommendations of the PDT and shall consult with the Commission's Herring Board. Based on these recommendations and any public comment received, the Herring Oversight Committee shall recommend to the Council appropriate specifications for a 3-year period. The Council shall review these recommendations and, after considering public comment, shall recommend appropriate 3-year specifications to NMFS. NMFS shall review the recommendations, consider any comments received from the Commission, and publish notification in the Federal Register proposing 3-year specifications. If the proposed specifications differ from those recommended by the Council, the reasons for any differences shall be clearly stated and the revised specifications must satisfy the criteria set forth in paragraph (b) of this section. 
 
-(d) NMFS shall make a final determination concerning the specifications for Atlantic herring. Notification of the final specifications and responses to public comments shall be published in the Federal Register. If the final specification amounts differ from those recommended by the Council, the reason(s) for the difference(s) must be clearly stated and the revised specifications must be consistent with the criteria set forth in paragraph (b) of this section. The previous year's specifications shall remain effective until they are revised through the specification process.
+(d) NMFS shall make a final determination concerning the specifications for Atlantic herring. Notification of the final specifications and responses to public comments shall be published in the Federal Register. If the final specification amounts differ from those recommended by the Council, the reason(s) for the difference(s) must be clearly stated and the revised specifications must be consistent with the criteria set forth in paragraph (b) of this section. The previous year's specifications shall remain effective until they are revised through the specification process. 
 
-(e) *In-season adjustments.* The specifications and sub-ACLs established pursuant to this section may be adjusted by NMFS to achieve conservation and management objectives, after consulting with the Council, during the fishing year in accordance with the Administrative Procedure Act (APA). Any adjustments must be consistent with the Atlantic Herring FMP objectives and other FMP provisions.
+(e) *In-season adjustments.* The specifications and sub-ACLs established pursuant to this section may be adjusted by NMFS to achieve conservation and management objectives, after consulting with the Council, during the fishing year in accordance with the Administrative Procedure Act (APA). Any adjustments must be consistent with the Atlantic Herring FMP objectives and other FMP provisions. 
 
-(f) *Management areas.* The specifications process establishes sub-ACLs and other management measures for the three management areas, which may have different management measures. Management Area 1 is subdivided into inshore and offshore sub-areas. The management areas are defined as follows:
+(f) *Management areas.* The specifications process establishes sub-ACLs and other management measures for the three management areas, which may have different management measures. Management Area 1 is subdivided into inshore and offshore sub-areas. The management areas are defined as follows: 
 
-(1) *Management Area 1 (Gulf of Maine):* All U.S. waters of the Gulf of Maine (GOM) north of a line extending from a point at 41°39′ N. lat, 70°00′ W. long. to 42°53′ 14.32125″ N. lat., 67° 44′ 33.01613″ W. long., thence northerly along the U.S.-Canada Maritime Boundary to the U.S.-Canadian border, to include state and Federal waters adjacent to the states of Maine, New Hampshire, and Massachusetts. Management Area 1 is divided into Area 1A (inshore) and Area 1B (offshore). The line dividing these areas is described by the following coordinates:
+(1) *Management Area 1 (Gulf of Maine):* All U.S. waters of the Gulf of Maine (GOM) north of a line extending from a point at 41°39′ N. lat, 70°00′ W. long. to 42°53′ 14.32125″ N. lat., 67° 44′ 33.01613″ W. long., thence northerly along the U.S.-Canada Maritime Boundary to the U.S.-Canadian border, to include state and Federal waters adjacent to the states of Maine, New Hampshire, and Massachusetts. Management Area 1 is divided into Area 1A (inshore) and Area 1B (offshore). The line dividing these areas is described by the following coordinates: 
 
 | Point                                                 | Latitude         | Longitude        | Note |
 | ----------------------------------------------------- | ---------------- | ---------------- | ---- |
-| 11                                                    | 41°58′ N         | 70° 00′ W        |      |
+| 1                                                     | 41°58′ N         | 70° 00′ W        |      |
 | 2                                                     | 42°38′ N         | 70° 00′ W        |      |
 | 3                                                     | 42°53′ N         | 69° 40′ W        |      |
 | 4                                                     | 43°12′ N         | 69° 00′ W        |      |
@@ -40,13 +40,13 @@
 | 6                                                     | 43°58′16.0314″ N | 67° 21′26.157″ W | (1)  |
 | 1 Point 6 falls on the U.S.-Canada Maritime Boundary. |                  |                  |      |
 
-(2) *Management Area 2 (South Coastal Area):* All state and Federal waters inclusive of sounds and bays, bounded on the east by 70°00′ W. long. and the outer limit of the U.S. Exclusive Economic Zone; bounded on the north and west by the southern coastline of Cape Cod, Massachusetts, and the coastlines of Rhode Island, Connecticut, New York, New Jersey, Delaware, Maryland, Virginia, and North Carolina; and bounded on the south by a line following the lateral seaward boundary between North Carolina and South Carolina from the coast to the Submerged Lands Act line, approximately 33°48′46.37″ N. lat., 78°29′46.46″ W. long., and then heading due east along 33°48′46.37″ N. lat. to the outer limit of the US Exclusive Economic Zone.
+(2) *Management Area 2 (South Coastal Area):* All state and Federal waters inclusive of sounds and bays, bounded on the east by 70°00′ W. long. and the outer limit of the U.S. Exclusive Economic Zone; bounded on the north and west by the southern coastline of Cape Cod, Massachusetts, and the coastlines of Rhode Island, Connecticut, New York, New Jersey, Delaware, Maryland, Virginia, and North Carolina; and bounded on the south by a line following the lateral seaward boundary between North Carolina and South Carolina from the coast to the Submerged Lands Act line, approximately 33°48′46.37″ N. lat., 78°29′46.46″ W. long., and then heading due east along 33°48′46.37″ N. lat. to the outer limit of the US Exclusive Economic Zone. 
 
-(3) *Management Area 3 (Georges Bank):* All U.S. waters east of 70°00′ W. long. and southeast of the line that runs from a point at 41°39′ N. lat. and 70°00′ W. long., northeasterly to U.S.-Canada Maritime Boundary at 42°53′14.32125″ N. lat., 67°44′33.01613″ W. long.
+(3) *Management Area 3 (Georges Bank):* All U.S. waters east of 70°00′ W. long. and southeast of the line that runs from a point at 41°39′ N. lat. and 70°00′ W. long., northeasterly to U.S.-Canada Maritime Boundary at 42°53′14.32125″ N. lat., 67°44′33.01613″ W. long. 
 
-(4) *River Herring Monitoring/Avoidance Areas*—(i) *January-February River Herring Monitoring/Avoidance Areas.* The January-February River Herring Monitoring/Avoidance Areas include four sub-areas. Each sub-area includes the waters bounded by the coordinates below, connected in the order listed by straight lines unless otherwise noted.
+(4) *River Herring Monitoring/Avoidance Areas*—(i) *January-February River Herring Monitoring/Avoidance Areas.* The January-February River Herring Monitoring/Avoidance Areas include four sub-areas. Each sub-area includes the waters bounded by the coordinates below, connected in the order listed by straight lines unless otherwise noted. 
 
-(A) January-February River Herring Monitoring/Avoidance Sub-Area 1.
+(A) January-February River Herring Monitoring/Avoidance Sub-Area 1. 
 
 | Point | Latitude | Longitude |
 | ----- | -------- | --------- |
@@ -56,7 +56,7 @@
 | JF1D  | 42°30′ N | 71°00′ W  |
 | JF1A  | 43°00′ N | 71°00′ W  |
 
-(B) January-February River Herring Monitoring/Avoidance Sub-Area 2.
+(B) January-February River Herring Monitoring/Avoidance Sub-Area 2. 
 
 | Point | Latitude | Longitude |
 | ----- | -------- | --------- |
@@ -66,7 +66,7 @@
 | JF2D  | 41°30′ N | 70°00′ W  |
 | JF2A  | 42°00′ N | 70°00′ W  |
 
-(C) January-February River Herring Monitoring/Avoidance Sub-Area 3.
+(C) January-February River Herring Monitoring/Avoidance Sub-Area 3. 
 
 | Point                                                                                                            | Latitude | Longitude | Note |
 | ---------------------------------------------------------------------------------------------------------------- | -------- | --------- | ---- |
@@ -81,7 +81,7 @@
 | 2 The north-facing shoreline of Long Island, New York.                                                           |          |           |      |
 | 3 Points JF3E and JF3F are connected following the coastline of the south fork of eastern Long Island, New York. |          |           |      |
 
-(D) January-February River Herring Monitoring/Avoidance Sub-Area 4.
+(D) January-February River Herring Monitoring/Avoidance Sub-Area 4. 
 
 | Point                                                                                                                                   | Latitude | Longitude | Note |
 | --------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------- | ---- |
@@ -96,9 +96,9 @@
 | JF4A                                                                                                                                    | 40°30′ N | 74°00′ W  | (1)  |
 | 1 Points JF4H and JF4A are connected following 74 °W longitude and the easternmost shoreline of New Jersey, whichever is furthest east. |          |           |      |
 
-(ii) *March-April River Herring Monitoring/Avoidance Areas.* The March-April River Herring Monitoring/Avoidance Areas include five sub-areas. Each sub-area includes the waters bounded by the coordinates below, connected in the order listed by straight lines unless otherwise noted.
+(ii) *March-April River Herring Monitoring/Avoidance Areas.* The March-April River Herring Monitoring/Avoidance Areas include five sub-areas. Each sub-area includes the waters bounded by the coordinates below, connected in the order listed by straight lines unless otherwise noted. 
 
-(A) March-April River Herring Monitoring/Avoidance Sub-Area 1.
+(A) March-April River Herring Monitoring/Avoidance Sub-Area 1. 
 
 | Point | Latitude | Longitude |
 | ----- | -------- | --------- |
@@ -108,7 +108,7 @@
 | MA1D  | 42°30′ N | 71°00′ W  |
 | MA1A  | 43°00′ N | 71°00′ W  |
 
-(B) March-April River Herring Monitoring/Avoidance Sub-Area 2.
+(B) March-April River Herring Monitoring/Avoidance Sub-Area 2. 
 
 | Point | Latitude | Longitude |
 | ----- | -------- | --------- |
@@ -118,7 +118,7 @@
 | MA2D  | 41°30′ N | 70°00′ W  |
 | MA2A  | 42°00′ N | 70°00′ W  |
 
-(C) March-April River Herring Monitoring/Avoidance Sub-Area 3.
+(C) March-April River Herring Monitoring/Avoidance Sub-Area 3. 
 
 | Point                                                                                           | Latitude | Longitude | Note |
 | ----------------------------------------------------------------------------------------------- | -------- | --------- | ---- |
@@ -134,7 +134,7 @@
 | 2 The southernmost shoreline of Long Island, New York.                                          |          |           |      |
 | 3 Points MA3G and MA3A are connected following the southern shoreline of Long Island, New York. |          |           |      |
 
-(D) March-April River Herring Monitoring/Avoidance Sub-Area 4.
+(D) March-April River Herring Monitoring/Avoidance Sub-Area 4. 
 
 | Point | Latitude | Longitude |
 | ----- | -------- | --------- |
@@ -144,7 +144,7 @@
 | MA4D  | 39°00′ N | 73°30′ W  |
 | MA4A  | 40°00′ N | 73°30′ W  |
 
-(E) March-April River Herring Monitoring/Avoidance Sub-Area 5.
+(E) March-April River Herring Monitoring/Avoidance Sub-Area 5. 
 
 | Point                                                                                                                                   | Latitude | Longitude | Note |
 | --------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------- | ---- |
@@ -155,9 +155,9 @@
 | MA5A                                                                                                                                    | 40°30′ N | 74°00′ W  | (1)  |
 | 1 Points MA5D and MA5A are connected following 74 °W longitude and the easternmost shoreline of New Jersey, whichever is furthest east. |          |           |      |
 
-(iii) *May-June River Herring Monitoring/Avoidance Areas.* The May-June River Herring Monitoring/Avoidance Areas include two sub-areas. Each sub-area includes the waters bounded by the coordinates below, connected in the order listed by straight lines unless otherwise noted.
+(iii) *May-June River Herring Monitoring/Avoidance Areas.* The May-June River Herring Monitoring/Avoidance Areas include two sub-areas. Each sub-area includes the waters bounded by the coordinates below, connected in the order listed by straight lines unless otherwise noted. 
 
-(A) May-June River Herring Monitoring/Avoidance Sub-Area 1.
+(A) May-June River Herring Monitoring/Avoidance Sub-Area 1. 
 
 | Point | Latitude | Longitude |
 | ----- | -------- | --------- |
@@ -167,7 +167,7 @@
 | MJ1D  | 43°30′ N | 69°30′ W  |
 | MJ1A  | 44°00′ N | 69°30′ W  |
 
-(B) May-June River Herring Monitoring/Avoidance Sub-Area 2.
+(B) May-June River Herring Monitoring/Avoidance Sub-Area 2. 
 
 | Point | Latitude | Longitude |
 | ----- | -------- | --------- |
@@ -177,9 +177,9 @@
 | MJ2D  | 41°30′ N | 70°00′ W  |
 | MJ2A  | 42°00′ N | 70°00′ W  |
 
-(iv) *July-August River Herring Monitoring/Avoidance Areas.* The July-August River Herring Monitoring/Avoidance Areas include two sub-areas. Each sub-area includes the waters bounded by the coordinates below, connected in the order listed by straight lines unless otherwise noted.
+(iv) *July-August River Herring Monitoring/Avoidance Areas.* The July-August River Herring Monitoring/Avoidance Areas include two sub-areas. Each sub-area includes the waters bounded by the coordinates below, connected in the order listed by straight lines unless otherwise noted. 
 
-(A) July-August River Herring Monitoring/Avoidance Sub-Area 1.
+(A) July-August River Herring Monitoring/Avoidance Sub-Area 1. 
 
 | Point                                                                                                                      | Latitude | Longitude | Note |
 | -------------------------------------------------------------------------------------------------------------------------- | -------- | --------- | ---- |
@@ -190,7 +190,7 @@
 | JA1A                                                                                                                       | 44°00′ N | 70°00′ W  | (1)  |
 | 1 The boundary from Points JA1D to JA1A excludes the portions Maquoit Bay and Middle Bay (Brunswick, ME) east of 70°00′ W. |          |           |      |
 
-(B) July-August River Herring Monitoring/Avoidance Sub-Area 2.
+(B) July-August River Herring Monitoring/Avoidance Sub-Area 2. 
 
 | Point | Latitude | Longitude |
 | ----- | -------- | --------- |
@@ -200,9 +200,9 @@
 | JA2D  | 43°30′ N | 69°00′ W  |
 | JA2A  | 44°00′ N | 69°00′ W  |
 
-(v) *September-October River Herring Monitoring/Avoidance Areas.* The September-October River Herring Monitoring/Avoidance Areas include two sub-areas. Each sub-area includes the waters bounded by the coordinates below, connected in the order listed by straight lines unless otherwise noted.
+(v) *September-October River Herring Monitoring/Avoidance Areas.* The September-October River Herring Monitoring/Avoidance Areas include two sub-areas. Each sub-area includes the waters bounded by the coordinates below, connected in the order listed by straight lines unless otherwise noted. 
 
-(A) September-October River Herring Monitoring/Avoidance Sub-Area 1.
+(A) September-October River Herring Monitoring/Avoidance Sub-Area 1. 
 
 | Point                                                                              | Latitude | Longitude | Note |
 | ---------------------------------------------------------------------------------- | -------- | --------- | ---- |
@@ -215,7 +215,7 @@
 | 2 Point SO1B and Point SO1C are connected along the U.S.-Canada Maritime Boundary. |          |           |      |
 | 3 The intersection of 44°00′ N and the U.S.-Canada Maritime Boundary.              |          |           |      |
 
-(B) September-October River Herring Monitoring/Avoidance Sub-Area 2.
+(B) September-October River Herring Monitoring/Avoidance Sub-Area 2. 
 
 | Point | Latitude | Longitude |
 | ----- | -------- | --------- |
@@ -225,9 +225,9 @@
 | SO2D  | 42°30′ N | 71°00′ W  |
 | SO2A  | 43°00′ N | 71°00′ W  |
 
-(vi) *November-December River Herring Monitoring/Avoidance Areas.* The November-December River Herring Monitoring/Avoidance Areas include two sub-areas. Each sub-area includes the waters bounded by the coordinates below, connected in the order listed by straight lines unless otherwise noted.
+(vi) *November-December River Herring Monitoring/Avoidance Areas.* The November-December River Herring Monitoring/Avoidance Areas include two sub-areas. Each sub-area includes the waters bounded by the coordinates below, connected in the order listed by straight lines unless otherwise noted. 
 
-(A) November-December River Herring Monitoring/Avoidance Sub-Area 1.
+(A) November-December River Herring Monitoring/Avoidance Sub-Area 1. 
 
 | Point                                                                                   | Latitude | Longitude | Note |
 | --------------------------------------------------------------------------------------- | -------- | --------- | ---- |
@@ -247,7 +247,7 @@
 | 2 The west-facing shoreline of Cape Cod, Massachusetts.                                 |          |           |      |
 | 3 Point ND1G and ND1H are connected following the coastline of Cape Cod, Massachusetts. |          |           |      |
 
-(B) November-December River Herring Monitoring/Avoidance Sub-Area 2.
+(B) November-December River Herring Monitoring/Avoidance Sub-Area 2. 
 
 | Point | Latitude | Longitude |
 | ----- | -------- | --------- |
@@ -259,7 +259,7 @@
 | ND2F  | 41°00′ N | 72°00′ W  |
 | ND2A  | 41°30′ N | 72°00′ W  |
 
-(5) *Gulf of Maine Modified Haddock Stock Area.* The Gulf of Maine Modified Haddock Stock Area is composed of the portions of Greater Atlantic Region Statistical Areas #464, #465, #511, #512, #513, #514, and #515 in U.S. waters, and is defined by the following points connected in the order listed by straight lines unless otherwise noted:
+(5) *Gulf of Maine Modified Haddock Stock Area.* The Gulf of Maine Modified Haddock Stock Area is composed of the portions of Greater Atlantic Region Statistical Areas #464, #465, #511, #512, #513, #514, and #515 in U.S. waters, and is defined by the following points connected in the order listed by straight lines unless otherwise noted: 
 
 | Point                                                                                                   | Latitude | Longitude | Note |
 | ------------------------------------------------------------------------------------------------------- | -------- | --------- | ---- |
@@ -276,7 +276,7 @@
 | 5 The intersection of 70°00′ W longitude and the northeast-facing shoreline of Cape Cod, Massachusetts. |          |           |      |
 | 6 From POINT E back to POINT A along the coastline of the United States.                                |          |           |      |
 
-(6) *Georges Bank Modified Haddock Stock Area.* The Georges Bank Modified Haddock Stock Area is composed of Greater Atlantic Region Statistical Areas #521, #522, #525, #526, #561, and #562, and is defined by the following points connected in the order listed by straight lines unless otherwise noted:
+(6) *Georges Bank Modified Haddock Stock Area.* The Georges Bank Modified Haddock Stock Area is composed of Greater Atlantic Region Statistical Areas #521, #522, #525, #526, #561, and #562, and is defined by the following points connected in the order listed by straight lines unless otherwise noted: 
 
 | Point                                                                                                                                                           | Latitude | Longitude | Note |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------- | ---- |
@@ -292,7 +292,7 @@
 | 3 The intersection of 40°30′ N latitude and the U.S.-Canada Maritime Boundary.                                                                                  |          |           |      |
 | 4 From POINT F back to POINT A along 70°00′ W longitude and the coastlines of Nantucket Island and mainland Cape Cod, Massachusetts, whichever is further east. |          |           |      |
 
-(7) *River herring and shad catch cap areas*—(i) *Gulf of Maine Catch Cap Area.* The Gulf of Maine Catch Cap Area is composed of the portions of Greater Atlantic Region Statistical Areas #464, #465, #467, #511, #512, #513, #514, and #515 in U.S. waters. The Gulf of Maine Catch Cap Area is bounded on the west by the coastline of the United States, bounded on the east by the U.S.-Canada Maritime Boundary, and bounded on the south by the following coordinates connected by straight lines in the order listed:
+(7) *River herring and shad catch cap areas*—(i) *Gulf of Maine Catch Cap Area.* The Gulf of Maine Catch Cap Area is composed of the portions of Greater Atlantic Region Statistical Areas #464, #465, #467, #511, #512, #513, #514, and #515 in U.S. waters. The Gulf of Maine Catch Cap Area is bounded on the west by the coastline of the United States, bounded on the east by the U.S.-Canada Maritime Boundary, and bounded on the south by the following coordinates connected by straight lines in the order listed: 
 
 | Point                                                                                                  | Latitude | Longitude |
 | ------------------------------------------------------------------------------------------------------ | -------- | --------- |
@@ -302,7 +302,7 @@
 | 1 The intersection of 70°00′ W longitude and the northwest facing shoreline of Cape Cod, Massachusetts |          |           |
 | 2 The intersection of 42°00′ N latitude and the U.S.-Canada Maritime Boundary.                         |          |           |
 
-(ii) *Cape Cod Catch Cap Area.* The Cape Cod Catch Cap Area is composed of Greater Atlantic Region Statistical Area #521, and is defined by the following points connected in the order listed by straight lines unless otherwise noted:
+(ii) *Cape Cod Catch Cap Area.* The Cape Cod Catch Cap Area is composed of Greater Atlantic Region Statistical Area #521, and is defined by the following points connected in the order listed by straight lines unless otherwise noted: 
 
 | Point                                                                                                        | Latitude | Longitude | Note |
 | ------------------------------------------------------------------------------------------------------------ | -------- | --------- | ---- |
@@ -325,7 +325,7 @@
 | 5 The intersection of 70°00′ W longitude and the south-facing shoreline of mainland Cape Cod, Massachusetts. |          |           |      |
 | 6 From Point K back to Point A along the east-facing shoreline of Cape Cod, Massachusetts.                   |          |           |      |
 
-(iii) *Georges Bank Catch Cap Area.* The Georges Bank Catch Cap Area is composed of the portions of Greater Atlantic Region Statistical Areas #522, #525, #526, #541, #542, #543, #561, #562, and #640 in U.S. waters, and is defined by the following points, connected in the order listed by straight lines unless otherwise noted:
+(iii) *Georges Bank Catch Cap Area.* The Georges Bank Catch Cap Area is composed of the portions of Greater Atlantic Region Statistical Areas #522, #525, #526, #541, #542, #543, #561, #562, and #640 in U.S. waters, and is defined by the following points, connected in the order listed by straight lines unless otherwise noted: 
 
 | Point                                                                                                                           | Latitude | Longitude | Note |
 | ------------------------------------------------------------------------------------------------------------------------------- | -------- | --------- | ---- |
@@ -347,15 +347,15 @@
 | 5 The intersection of 42°20′ N latitude and the U.S.-Canada Maritime Boundary.                                                  |          |           |      |
 | 6 From Point J back to Point A along the U.S.-Canada Maritime Boundary and the outer limit of the U.S. Exclusive Economic Zone. |          |           |      |
 
-(iv) *Southern New England/Mid-Atlantic Catch Cap Area.* The coordinates of this area are the same as Management Area 2 (South Coastal Area), as specified in paragraph (f)(2) of this section.
+(iv) *Southern New England/Mid-Atlantic Catch Cap Area.* The coordinates of this area are the same as Management Area 2 (South Coastal Area), as specified in paragraph (f)(2) of this section. 
 
-(8) *River herring and shad catch cap closure areas—(i) Gulf of Maine Catch Cap Closure Area.* The coordinates of this area are the same as the Gulf of Maine Catch Cap Area, as specified in paragraph (f)(7)(i) of this section.
+(8) *River herring and shad catch cap closure areas—(i) Gulf of Maine Catch Cap Closure Area.* The coordinates of this area are the same as the Gulf of Maine Catch Cap Area, as specified in paragraph (f)(7)(i) of this section. 
 
-(ii) *Cape Cod Catch Cap Closure Area.* The coordinates of this area are the same as the Cape Cod Catch Cap Area, as specified in paragraph (f)(7)(ii) of this section.
+(ii) *Cape Cod Catch Cap Closure Area.* The coordinates of this area are the same as the Cape Cod Catch Cap Area, as specified in paragraph (f)(7)(ii) of this section. 
 
-(iii) *Georges Bank Catch Cap Closure Area.* The coordinates of this area are the same as the Georges Bank Catch Cap Area, as specified in paragraph (f)(7)(iii) of this section.
+(iii) *Georges Bank Catch Cap Closure Area.* The coordinates of this area are the same as the Georges Bank Catch Cap Area, as specified in paragraph (f)(7)(iii) of this section. 
 
-(iv) *Southern New England/Mid-Atlantic Catch Cap Closure Area.* The Southern New England/Mid-Atlantic Catch Cap Closure Area is composed of the portions of Greater Atlantic Region Statistical Areas #537, #538, #539, #611, #612, #613, #614, #615, #616, #621, #622, #623, #625, #626, #627, #631, #632, #635, and #636 in US waters, and is defined by the following coordinates, connected by straight lines in the order listed unless otherwise noted:
+(iv) *Southern New England/Mid-Atlantic Catch Cap Closure Area.* The Southern New England/Mid-Atlantic Catch Cap Closure Area is composed of the portions of Greater Atlantic Region Statistical Areas #537, #538, #539, #611, #612, #613, #614, #615, #616, #621, #622, #623, #625, #626, #627, #631, #632, #635, and #636 in US waters, and is defined by the following coordinates, connected by straight lines in the order listed unless otherwise noted: 
 
 | Point                                                                                                        | Latitude | Longitude | Note |
 | ------------------------------------------------------------------------------------------------------------ | -------- | --------- | ---- |
@@ -375,14 +375,14 @@
 | 2 The intersection of 70°00′ W longitude and the south-facing shoreline of mainland Cape Cod, Massachusetts. |          |           |      |
 | 3 From Point K back to Point A along the mainland shoreline of the United States.                            |          |           |      |
 
-(g) All aspects of the following measures can be modified through the specifications process:
+(g) All aspects of the following measures can be modified through the specifications process: 
 
-(1) AMs;
+(1) AMs; 
 
-(2) Possession limits;
+(2) Possession limits; 
 
-(3) River Herring Monitoring/Avoidance Areas; and
+(3) River Herring Monitoring/Avoidance Areas; and 
 
-(4) River herring and shad catch caps.
+(4) River herring and shad catch caps. 
 
 \[72 FR 11277, Mar. 12, 2007, as amended at 73 FR 4757, Jan. 28, 2008; 76 FR 11379, Mar. 2, 2011; 76 FR 81850, Dec. 29, 2011; 79 FR 8815, Feb. 13, 2014; 79 FR 71968, Dec. 4, 2014; 80 FR 37197, June 30, 2015; 81 FR 19054, Apr. 4, 2016; 85 FR 26885, May 6, 2020; 86 FR 1825, Jan. 11, 2021\]
