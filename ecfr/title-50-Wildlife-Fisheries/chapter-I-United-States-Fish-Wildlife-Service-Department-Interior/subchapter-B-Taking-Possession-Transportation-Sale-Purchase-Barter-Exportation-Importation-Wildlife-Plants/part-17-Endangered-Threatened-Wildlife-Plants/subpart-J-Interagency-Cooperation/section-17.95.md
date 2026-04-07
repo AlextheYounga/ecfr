@@ -1154,7 +1154,7 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.020.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 86 FR 62659, Nov. 10, 2021.
+![](/graphics/ec01jn91.020.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (b) *Birds.*
 
@@ -5404,9 +5404,9 @@ Starting at the intersection of State Highway 1 with the western boundary of the
 
 ![](/graphics/er04de12.001.gif)
 
-(7) Note: Index map of critical habitat units for the northern spotted owl in the State of Oregon follows:
+(7) *Note:* Index map of critical habitat units for the northern spotted owl in the State of Oregon follows: Figure 2 to Northern Spotted Owl *(Strix occidentalis caurina)* paragraph (7)
 
-![](/graphics/er04de12.002.gif)
+![](/graphics/er10no21.000.gif)
 
 (8) Note: Index map of critical habitat units for the northern spotted owl in the State of California follows:
 
@@ -5414,11 +5414,11 @@ Starting at the intersection of State Highway 1 with the western boundary of the
 
 (9) Unit 1: North Coast Ranges and Olympic Peninsula, Oregon and Washington. Maps of Unit 1: North Coast Ranges and Olympic Peninsula, Oregon and Washington, follow:
 
-![](/graphics/er04de12.004.gif)![](/graphics/er04de12.005.gif)
+![](/graphics/er04de12.004.gif)![](/graphics/er10no21.001.gif)
 
 (10) Unit 2: Oregon Coast Ranges, Oregon. Map of Unit 2, Oregon Coast Ranges, Oregon, follows:
 
-![](/graphics/er04de12.006.gif)
+![](/graphics/er10no21.002.gif)
 
 (11) Unit 3: Redwood Coast, Oregon and California. Map of Unit 3, Redwood Coast, Oregon and California, follows:
 
@@ -5432,9 +5432,9 @@ Starting at the intersection of State Highway 1 with the western boundary of the
 
 ![](/graphics/er04de12.009.gif)
 
-(14) Unit 6: West Cascades South, Washington. Map of Unit 6, West Cascades South, Washington, follows:
+(14) Unit 6: West Cascades South, Oregon. Map of Unit 6, West Cascades South, Oregon, follows:
 
-![](/graphics/er04de12.010.gif)
+![](/graphics/er10no21.003.gif)
 
 (15) Unit 7: East Cascades North, Washington and Oregon. Maps of Unit 7, East Cascades North, Washington and Oregon, follow:
 
@@ -5442,15 +5442,15 @@ Starting at the intersection of State Highway 1 with the western boundary of the
 
 (16) Unit 8: East Cascades South, California and Oregon. Map of Unit 8, East Cascades South, California and Oregon, follows:
 
-![](/graphics/er04de12.013.gif)
+![](/graphics/er10no21.004.gif)
 
 (17) Unit 9: Klamath West, Oregon and California. Map of Unit 9: Klamath West, Oregon and California, follows:
 
-![](/graphics/er04de12.014.gif)
+![](/graphics/er10no21.005.gif)
 
-(18) Unit 10: Klamath East, California. Map of Unit 10: Klamath East, California, follows:
+(18) Unit 10: Klamath East, California and Oregon. Map of Unit 10: Klamath East, California and Oregon, follows:
 
-![](/graphics/er04de12.015.gif)
+![](/graphics/er10no21.006.gif)
 
 (19) Unit 11: Interior California Coast, California. Map of Unit 11: Interior California Coast, California, follows:
 
