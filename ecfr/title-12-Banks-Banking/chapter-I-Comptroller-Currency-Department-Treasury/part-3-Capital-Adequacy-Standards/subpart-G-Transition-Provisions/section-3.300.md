@@ -5,7 +5,6 @@
 (2) Beginning January 1, 2016 through December 31, 2018 a national bank's or Federal savings association's maximum payout ratio shall be determined as set forth in Table 1 to § 3.300.
 
 Table 1 to § 3.300
-
 | Transition   period | Capital conservation buffer                                                                                                                                                                                                  | Maximum payout ratio (as a percentage of eligible retained income) |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | Calendar year 2016  | Greater than 0.625 percent (plus 25 percent of any applicable countercyclical capital buffer amount)                                                                                                                         | No payout ratio limitation applies under this section.             |
@@ -37,7 +36,6 @@ Table 1 to § 3.300
 (iii) The amount of non-qualifying capital instruments that cannot be included in additional tier 1 capital under this section may be included in tier 2 capital without limitation, provided that the instruments meet the criteria for tier 2 capital instruments under § 3.20(d).
 
 Table 9 to § 3.300
-
 | Transition period (calendar year) | Percentage of non-qualifying capital instruments includable in additional tier 1 or tier 2 capital |
 | --------------------------------- | -------------------------------------------------------------------------------------------------- |
 | Calendar year 2014                | 80                                                                                                 |

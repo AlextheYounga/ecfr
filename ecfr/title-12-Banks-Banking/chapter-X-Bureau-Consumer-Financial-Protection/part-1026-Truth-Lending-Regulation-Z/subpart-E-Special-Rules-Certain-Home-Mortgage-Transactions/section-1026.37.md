@@ -2,7 +2,7 @@
 
 For each transaction subject to § 1026.19(e), the creditor shall disclose the information in this section:
 
-(a) *General information* - (1) *Form title.* The title of the form, “Loan Estimate,” using that term.
+(a) *General information*—(1) *Form title.* The title of the form, “Loan Estimate,” using that term.
 
 (2) *Form purpose.* The statement, “Save this Loan Estimate to compare with your Closing Disclosure.”
 
@@ -172,7 +172,7 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (ii) The replacement costs of the property during the initial year after the transaction, for amounts identified in § 1026.4(b)(8).
 
-(d) *Costs at closing* - (1) *Costs at closing table.* In a separate table, under the heading “Costs at Closing”:
+(d) *Costs at closing*—(1) *Costs at closing table.* In a separate table, under the heading “Costs at Closing”:
 
 (i) Labeled “Closing Costs,” the dollar amount disclosed pursuant to paragraph (g)(6) of this section, together with:
 
@@ -212,13 +212,13 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (2) *Services you cannot shop for.* Under the subheading “Services You Cannot Shop For,” an itemization of each amount, and a subtotal of all such amounts, the consumer will pay for settlement services for which the consumer cannot shop in accordance with § 1026.19(e)(1)(vi)(A) and that are provided by persons other than the creditor or mortgage broker.
 
-(i) For any item that is a component of title insurance or is for conducting the closing, the introductory description “Title - ” shall appear at the beginning of the label for that item.
+(i) For any item that is a component of title insurance or is for conducting the closing, the introductory description “Title —” shall appear at the beginning of the label for that item.
 
 (ii) The number of items disclosed under this paragraph (f)(2) shall not exceed 13.
 
 (3) *Services you can shop for.* Under the subheading “Services You Can Shop For,” an itemization of each amount and a subtotal of all such amounts the consumer will pay for settlement services for which the consumer can shop in accordance with § 1026.19(e)(1)(vi)(A) and that are provided by persons other than the creditor or mortgage broker.
 
-(i) For any item that is a component of title insurance or is for conducting the closing, the introductory description “Title - ” shall appear at the beginning of the label for that item.
+(i) For any item that is a component of title insurance or is for conducting the closing, the introductory description “Title —” shall appear at the beginning of the label for that item.
 
 (ii) The number of items disclosed under this paragraph (f)(3) shall not exceed 14.
 
@@ -276,7 +276,7 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (4) *Other.* Under the subheading “Other,” an itemization of any other amounts in connection with the transaction that the consumer is likely to pay or has contracted with a person other than the creditor or loan originator to pay at closing and of which the creditor is aware at the time of issuing the Loan Estimate, a descriptive label of each such amount, and the subtotal of all such amounts.
 
-(i) For any item that is a component of title insurance, the introductory description “Title - ” shall appear at the beginning of the label for that item.
+(i) For any item that is a component of title insurance, the introductory description “Title —” shall appear at the beginning of the label for that item.
 
 (ii) The parenthetical description “(optional)” shall appear at the end of the label for items disclosing any premiums paid for separate insurance, warranty, guarantee, or event-coverage products.
 
@@ -298,7 +298,7 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (8) *Use of addenda.* An addendum to a form of disclosures prescribed by this section may not be used for items required to be disclosed by this paragraph (g). If the creditor is not able to itemize all of the charges described in this paragraph (g) in the number of lines provided by paragraphs (g)(2)(vi), (3)(v), or (4)(iii) of this section, the remaining charges shall be disclosed as an aggregate amount in the last line permitted under paragraphs (g)(2)(vi), (g)(3)(v), or (g)(4)(iii), as applicable, using the label “Additional Charges.”
 
-(h) *Calculating cash to close* - (1) *For all transactions.* Under the master heading “Closing Cost Details,” under the heading “Calculating Cash to Close,” the total amount of cash or other funds that must be provided by the consumer at consummation, with an itemization of that amount into the following component amounts:
+(h) *Calculating cash to close*—(1) *For all transactions.* Under the master heading “Closing Cost Details,” under the heading “Calculating Cash to Close,” the total amount of cash or other funds that must be provided by the consumer at consummation, with an itemization of that amount into the following component amounts:
 
 (i) *Total closing costs.* The amount disclosed under paragraph (g)(6) of this section, labeled “Total Closing Costs”;
 
@@ -430,7 +430,7 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (2) If the creditor does not include a line for the consumer's signature, the creditor must disclose the following statement under the heading “Other Considerations” required by paragraph (m) of this section, labeled “Loan Acceptance”: “You do not have to accept this loan because you have received this form or signed a loan application.”
 
-(o) *Form of disclosures* - (1) *General requirements.* (i) The creditor shall make the disclosures required by this section clearly and conspicuously in writing, in a form that the consumer may keep. The disclosures also shall be grouped together and segregated from everything else.
+(o) *Form of disclosures*—(1) *General requirements.* (i) The creditor shall make the disclosures required by this section clearly and conspicuously in writing, in a form that the consumer may keep. The disclosures also shall be grouped together and segregated from everything else.
 
 (ii) Except as provided in paragraph (o)(5) of this section, the disclosures shall contain only the information required by paragraphs (a) through (n) of this section and shall be made in the same order, and positioned relative to the master headings, headings, subheadings, labels, and similar designations in the same manner, as shown in form H-24, set forth in appendix H to this part.
 
@@ -444,7 +444,7 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (iii) The disclosures required by this section may be provided to the consumer in electronic form, subject to compliance with the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7001 *et seq.*).
 
-(4) *Rounding* - (i) *Nearest dollar.* (A) The dollar amounts required to be disclosed by paragraphs (b)(6) and (7), (c)(1)(iii), (c)(2)(ii) and (iii), (c)(4)(ii), (f), (g), (h), (i), and (l) of this section shall be rounded to the nearest whole dollar, except that the per-diem dollar amount required to be disclosed by paragraph (g)(2)(iii) of this section and the monthly dollar amounts required to be disclosed by paragraphs (g)(3)(i) through (iii) and (g)(3)(v) of this section shall not be rounded.
+(4) *Rounding*—(i) *Nearest dollar.* (A) The dollar amounts required to be disclosed by paragraphs (b)(6) and (7), (c)(1)(iii), (c)(2)(ii) and (iii), (c)(4)(ii), (f), (g), (h), (i), and (l) of this section shall be rounded to the nearest whole dollar, except that the per-diem dollar amount required to be disclosed by paragraph (g)(2)(iii) of this section and the monthly dollar amounts required to be disclosed by paragraphs (g)(3)(i) through (iii) and (g)(3)(v) of this section shall not be rounded.
 
 (B) The dollar amount required to be disclosed by paragraph (b)(1) of this section shall not be rounded, and if the amount is a whole number then the amount disclosed shall be truncated at the decimal point.
 
@@ -452,7 +452,7 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (ii) *Percentages.* The percentage amounts required to be disclosed under paragraphs (b)(2) and (6), (f)(1)(i), (g)(2)(iii), (j), and (l)(2) and (3) of this section shall be disclosed by rounding the exact amounts to three decimal places and then dropping any trailing zeros that occur to the right of the decimal place.
 
-(5) *Exceptions* - (i) *Unit-period.* Wherever the form or this section uses “monthly” to describe the frequency of any payments or uses “month” to describe the applicable unit-period, the creditor shall substitute the appropriate term to reflect the fact that the transaction's terms provide for other than monthly periodic payments, such as bi-weekly or quarterly payments.
+(5) *Exceptions*—(i) *Unit-period.* Wherever the form or this section uses “monthly” to describe the frequency of any payments or uses “month” to describe the applicable unit-period, the creditor shall substitute the appropriate term to reflect the fact that the transaction's terms provide for other than monthly periodic payments, such as bi-weekly or quarterly payments.
 
 (ii) *Translation.* The form may be translated into languages other than English, and creditors may modify form H-24 of appendix H to this part to the extent that translation prevents the headings, labels, designations, and required disclosure items under this section from fitting in the space provided on form H-24.
 

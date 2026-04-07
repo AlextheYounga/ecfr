@@ -112,7 +112,7 @@
 
 (ii) Participates in the profits and losses of the separate account other than in compliance with applicable requirements regarding bank owned life insurance.
 
-(8) *Loan securitizations* (i) *Scope.* An issuing entity for asset-backed securities that satisfies all the conditions of this paragraph (c)(8) and the assets or holdings of which are composed solely of:
+(8) *Loan securitizations*—(i) *Scope.* An issuing entity for asset-backed securities that satisfies all the conditions of this paragraph (c)(8) and the assets or holdings of which are composed solely of:
 
 (A) Loans as defined in § 248.2(t);
 
@@ -142,7 +142,7 @@
 
 (iii) *Permitted securities.* Notwithstanding paragraph (c)(8)(ii)(A) of this section, the issuing entity may hold securities, other than debt securities permitted under paragraph (c)(8)(i)(E) of this section, if those securities are:
 
-(A) Cash equivalents - which, for the purposes of this paragraph, means high quality, highly liquid investments whose maturity corresponds to the securitization's expected or potential need for funds and whose currency corresponds to either the underlying loans or the asset-backed securities - for purposes of the rights and assets in paragraph (c)(8)(i)(B) of this section; or
+(A) Cash equivalents—which, for the purposes of this paragraph, means high quality, highly liquid investments whose maturity corresponds to the securitization's expected or potential need for funds and whose currency corresponds to either the underlying loans or the asset-backed securities—for purposes of the rights and assets in paragraph (c)(8)(i)(B) of this section; or
 
 (B) Securities received in lieu of debts previously contracted with respect to the loans supporting the asset-backed securities.
 
@@ -186,7 +186,7 @@
 
 (E) The United States or a foreign sovereign.
 
-(10) *Qualifying covered bonds* (i) *Scope.* An entity owning or holding a dynamic or fixed pool of loans or other assets as provided in paragraph (c)(8) of this section for the benefit of the holders of covered bonds, provided that the assets in the pool are composed solely of assets that meet the conditions in paragraph (c)(8)(i) of this section.
+(10) *Qualifying covered bonds*—(i) *Scope.* An entity owning or holding a dynamic or fixed pool of loans or other assets as provided in paragraph (c)(8) of this section for the benefit of the holders of covered bonds, provided that the assets in the pool are composed solely of assets that meet the conditions in paragraph (c)(8)(i) of this section.
 
 (ii) *Covered bond.* For purposes of this paragraph (c)(10), a covered bond means:
 
@@ -368,7 +368,7 @@
 
 (5) *Issuing entity* means with respect to asset-backed securities the special purpose vehicle that owns or holds the pool assets underlying asset-backed securities and in whose name the asset-backed securities supported or serviced by the pool assets are issued.
 
-(6) *Ownership interest* - (i) *Ownership interest* means any equity, partnership, or other similar interest. An “other similar interest” means an interest that:
+(6) *Ownership interest*—(i) *Ownership interest* means any equity, partnership, or other similar interest. An “other similar interest” means an interest that:
 
 (A) Has the right to participate in the selection or removal of a general partner, managing member, member of the board of directors or trustees, investment manager, investment adviser, or commodity trading advisor of the covered fund, excluding:
 

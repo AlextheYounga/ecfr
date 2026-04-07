@@ -12,7 +12,7 @@
 
 (c) *Purpose.* This part implements provisions of section 318 of the Dodd-Frank Act and section 401 of EGRRCPA that direct the Board to collect assessments, fees, or other charges from companies identified in subsection (b) that are equal to the total expenses the Board estimates are necessary or appropriate to carry out the supervisory and regulatory responsibilities of the Board with respect to these assessed companies and to adjust the amount charged to assessed companies with total consolidated assets between $100 billion and $250 billion to reflect any changes in supervisory and regulatory responsibilities resulting from EGRRCPA.
 
-(d)(1) *Reservation of authority.* In exceptional circumstances, for the purpose of avoiding inequitable or inconsistent application of the rule, the Board may require an assessed company to pay a lesser amount of assessments than would otherwise be provided for under this Part.
+(d)(1) *Reservation of authority.* In exceptional circumstances, for the purpose of avoiding inequitable or inconsistent application of the rule, the Board may require an assessed company to pay a lesser amount of assessments than would otherwise be provided for under this part.
 
 (2) *Use of comparable financial information.* The Board may use, at its discretion, any comparable financial information that the Board may require from a company in considering whether the company must pay to the Board an assessment and the amount of such assessment, pursuant to section 318 of the Dodd-Frank Act.
 

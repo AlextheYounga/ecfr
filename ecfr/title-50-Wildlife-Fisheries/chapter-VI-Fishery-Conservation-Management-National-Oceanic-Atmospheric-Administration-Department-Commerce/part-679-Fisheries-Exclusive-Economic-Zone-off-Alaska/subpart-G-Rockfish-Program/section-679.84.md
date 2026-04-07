@@ -1,5 +1,7 @@
 ##### § 679.84 Rockfish Program recordkeeping, permits, monitoring, and catch accounting.
 
+Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
+
 (a) *Recordkeeping and reporting. See § 679.5(r).*
 
 (b) *Permits. See § 679.4(n).*

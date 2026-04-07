@@ -100,7 +100,7 @@ For each transaction other than a mortgage transaction subject to § 1026.19(e) 
 
 (1) *Form of disclosures.* The information in paragraphs (s)(2)-(4) of this section shall be in the form of a table, with no more than five columns, with headings and format substantially similar to Model Clause H-4(E), H-4(F), H-4(G), or H-4(H) in appendix H to this part. The table shall contain only the information required in paragraphs (s)(2)-(4) of this section, shall be placed in a prominent location, and shall be in a minimum 10-point font.
 
-(2) *Interest rates* - (i) *Amortizing loans.* (A) For a fixed-rate mortgage, the interest rate at consummation.
+(2) *Interest rates*—(i) *Amortizing loans.* (A) For a fixed-rate mortgage, the interest rate at consummation.
 
 (B) For an adjustable-rate or step-rate mortgage:
 
@@ -128,7 +128,7 @@ For each transaction other than a mortgage transaction subject to § 1026.19(e) 
 
 (C) The fully-indexed rate.
 
-(3) *Payments for amortizing loans* - (i) *Principal and interest payments.* If all periodic payments will be applied to accrued interest and principal, for each interest rate disclosed under paragraph (s)(2)(i) of this section:
+(3) *Payments for amortizing loans*—(i) *Principal and interest payments.* If all periodic payments will be applied to accrued interest and principal, for each interest rate disclosed under paragraph (s)(2)(i) of this section:
 
 (A) The corresponding periodic principal and interest payment, labeled as “principal and interest;”
 
@@ -184,7 +184,7 @@ For each transaction other than a mortgage transaction subject to § 1026.19(e) 
 
 (vi) The term “fully-indexed rate” means the interest rate calculated using the index value and margin at the time of consummation.
 
-(t) “*No-guarantee-to-refinance” statement* - (1) *Disclosure.* For a closed-end transaction secured by real property or a dwelling, other than a transaction that is subject to § 1026.19(e) and (f), the creditor shall disclose a statement that there is no guarantee the consumer can refinance the transaction to lower the interest rate or periodic payments.
+(t) “*No-guarantee-to-refinance” statement*—(1) *Disclosure.* For a closed-end transaction secured by real property or a dwelling, other than a transaction that is subject to § 1026.19(e) and (f), the creditor shall disclose a statement that there is no guarantee the consumer can refinance the transaction to lower the interest rate or periodic payments.
 
 (2) *Format.* The statement required by paragraph (t)(1) of this section must be in a form substantially similar to Model Clause H-4(K) in appendix H to this part.
 

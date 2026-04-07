@@ -1152,7 +1152,7 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.020.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+![](/graphics/ec01jn91.020.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 86 FR 4844, Jan. 15, 2021.Link to an extension of the above amendment published at 86 FR 11892, Mar. 1, 2021.
 
 (b) *Birds.*
 
@@ -9010,7 +9010,7 @@ Critical Habitat Map Unit
 
 (ii) Map 1 of the critical habitat for Rota bridled white-eye follows:
 
-![](/graphics/er12se06.000.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 85 FR 61631, Sept. 30, 2020.Link to an amendment published at 85 FR 82388, Dec. 18, 2020.Link to an amendment published at 86 FR 4844, Jan. 15, 2021.
+![](/graphics/er12se06.000.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 85 FR 61631, Sept. 30, 2020.Link to an amendment published at 85 FR 82388, Dec. 18, 2020.
 
 (c) *Reptiles.*
 

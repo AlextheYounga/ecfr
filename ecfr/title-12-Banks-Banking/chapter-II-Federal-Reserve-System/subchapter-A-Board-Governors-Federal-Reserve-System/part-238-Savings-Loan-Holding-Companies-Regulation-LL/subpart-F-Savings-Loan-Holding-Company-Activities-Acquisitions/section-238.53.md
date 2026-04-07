@@ -100,7 +100,7 @@
 
 (d) *Notice provided to Board.* The Reserve Bank shall immediately send to the Board a copy of any notice received under paragraphs (c)(1) or (c)(2) of this section.
 
-(e) *Notice to public* - (1) the Reserve Bank shall notify the Board for publication in the Federal Register immediately upon receipt by the Reserve Bank of:
+(e) *Notice to public*. (1) The Reserve Bank shall notify the Board for publication in the Federal Register immediately upon receipt by the Reserve Bank of:
 
 (i) A notice under paragraph (c) of this section or
 
@@ -108,7 +108,7 @@
 
 (2) The Federal Register notice published under this paragraph (e) shall invite public comment on the proposal, generally for a period of 15 days.
 
-(f) *Action on notices* - (1) *Reserve Bank action* - (i) *In general.* Within 30 calendar days after receipt by the Reserve Bank of a notice filed pursuant to paragraphs (c)(1) or (c)(2) of this section, the Reserve Banks shall:
+(f) *Action on notices*—(1) *Reserve Bank action*—(i) *In general.* Within 30 calendar days after receipt by the Reserve Bank of a notice filed pursuant to paragraphs (c)(1) or (c)(2) of this section, the Reserve Banks shall:
 
 (A) Approve the notice; or
 
