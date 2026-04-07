@@ -1,5 +1,7 @@
 ##### § 11.7 Requirements for registration.
 
+Link to an amendment published at 86 FR 28453, May 26, 2021.
+
 (a) No individual will be registered to practice before the Office unless he or she has:
 
 (1) Applied to the USPTO Director in writing by completing an application for registration form supplied by the OED Director and furnishing all requested information and material; and

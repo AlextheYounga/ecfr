@@ -1,5 +1,7 @@
 ##### § 11.18 Signature and certificate for correspondence filed in the Office.
 
+Link to an amendment published at 86 FR 28457, May 26, 2021.
+
 (a) For all documents filed in the Office in patent, trademark, and other non-patent matters, and all documents filed with a hearing officer in a disciplinary proceeding, except for correspondence that is required to be signed by the applicant or party, each piece of correspondence filed by a practitioner in the Office must bear a signature, personally signed or inserted by such practitioner, in compliance with § 1.4(d) or § 2.193(a) of this chapter.
 
 (b) By presenting to the Office or hearing officer in a disciplinary proceeding (whether by signing, filing, submitting, or later advocating) any paper, the party presenting such paper, whether a practitioner or non-practitioner, is certifying that -

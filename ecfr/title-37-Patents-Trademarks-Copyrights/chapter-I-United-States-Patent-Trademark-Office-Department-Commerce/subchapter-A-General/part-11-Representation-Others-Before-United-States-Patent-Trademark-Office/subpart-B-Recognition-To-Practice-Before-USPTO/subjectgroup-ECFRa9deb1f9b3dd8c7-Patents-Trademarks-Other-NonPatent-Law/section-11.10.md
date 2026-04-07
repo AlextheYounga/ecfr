@@ -1,5 +1,7 @@
 ##### § 11.10 Restrictions on practice in patent matters.
 
+Link to an amendment published at 86 FR 28454, May 26, 2021.
+
 (a) Only practitioners who are registered under § 11.6 or individuals given limited recognition under § 11.9(a) or (b) are permitted to prosecute patent applications of others before the Office; or represent others in any proceedings before the Office.
 
 (b) *Post employment agreement of former Office employee.* No individual who has served in the patent examining corps or elsewhere in the Office may practice before the Office after termination of his or her service, unless he or she signs a written undertaking agreeing:
