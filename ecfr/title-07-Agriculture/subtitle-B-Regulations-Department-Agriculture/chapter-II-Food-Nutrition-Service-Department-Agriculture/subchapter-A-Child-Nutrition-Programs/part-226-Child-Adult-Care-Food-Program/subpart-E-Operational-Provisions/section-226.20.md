@@ -1,18 +1,16 @@
 ##### § 226.20 Requirements for meals.
 
-Link to an amendment published at 87 FR 7007, Feb. 7, 2022.
-
 (a) *Food components.* Except as otherwise provided in this section, each meal served in the Program must contain, at a minimum, the indicated food components:
 
-(1) *Fluid milk.* Fluid milk must be served as a beverage or on cereal, or a combination of both, as follows:
+(1) *Fluid milk.* Fluid milk must be served as a beverage or on cereal, or a combination of both. Lactose-free and reduced-lactose milk that meet the fat content and flavor specifications for each age group may also be offered.
 
-(i) *Children 1 year old.* Children one year of age must be served unflavored whole milk.
+(i) *Children 1 year old.* Unflavored whole milk must be served.
 
-(ii) *Children 2 through 5 years old.* Children two through five years old must be served either unflavored low-fat (1 percent) or unflavored fat-free (skim) milk.
+(ii) *Children 2 through 5 years old.* Either unflavored low-fat (1 percent) or unflavored fat-free (skim) milk must be served.
 
-(iii) *Children 6 years old and older.* Children 6 years old and older must be served unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk.
+(iii) *Children 6 years old and older.* Low-fat (1 percent fat or less) or fat-free (skim) milk must be served. Milk may be unflavored or flavored.
 
-(iv) *Adults.* Adults must be served unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk. Six ounces (weight) or 3/4 cup (volume) of yogurt may be used to fulfill the equivalent of 8 ounces of fluid milk once per day. Yogurt may be counted as either a fluid milk substitute or as a meat alternate, but not as both in the same meal.
+(iv) *Adults.* Low-fat (1 percent fat or less) or fat-free (skim) milk must be served. Milk may be unflavored or flavored. Six ounces (weight) or 3/4 cup (volume) of yogurt may be used to fulfill the equivalent of 8 ounces of fluid milk once per day. Yogurt may be counted as either a fluid milk substitute or as a meat alternate, but not as both in the same meal.
 
 (2) *Vegetables.* A serving may contain fresh, frozen, or canned vegetables, dry beans and peas (legumes), or vegetable juice. All vegetables are credited based on their volume as served, except that 1 cup of leafy greens counts as 1/2 cup of vegetables.
 
@@ -26,7 +24,7 @@ Link to an amendment published at 87 FR 7007, Feb. 7, 2022.
 
 (ii) A vegetable may be used to meet the entire fruit requirement at lunch and supper. When two vegetables are served at lunch or supper, two different kinds of vegetables must be served.
 
-(4) *Grains* - (i) *Enriched and whole grains.* All grains must be made with enriched or whole grain meal or flour.
+(4) *Grains*—(i) *Enriched and whole grains.* All grains must be made with enriched or whole grain meal or flour.
 
 (A) At least one serving per day, across all eating occasions of bread, cereals, and grains, must be whole grain-rich. Whole grain-rich foods contain at least 50 percent whole grains and the remaining grains in the food are enriched, and must meet the whole grain-rich criteria specified in FNS guidance.
 
@@ -72,7 +70,7 @@ Link to an amendment published at 87 FR 7007, Feb. 7, 2022.
 
 (vi) *Other meat alternates.* Other meat alternates, such as cheese, eggs, and nut butters may be used to meet all or part of the meat and meat alternate component.
 
-(b) *Infant meals* - (1) *Feeding infants.* Foods in reimbursable meals served to infants ages birth through 11 months must be of a texture and a consistency that are appropriate for the age and development of the infant being fed. Foods must also be served during a span of time consistent with the infant's eating habits.
+(b) *Infant meals*—(1) *Feeding infants.* Foods in reimbursable meals served to infants ages birth through 11 months must be of a texture and a consistency that are appropriate for the age and development of the infant being fed. Foods must also be served during a span of time consistent with the infant's eating habits.
 
 (2) *Breastmilk and iron-fortified formula.* Breastmilk or iron-fortified infant formula, or portions of both, must be served to infants birth through 11 months of age. An institution or facility must offer at least one type of iron-fortified infant formula. Meals containing breastmilk or iron-fortified infant formula supplied by the institution or facility, or by the parent or guardian, are eligible for reimbursement.
 
@@ -84,7 +82,7 @@ Link to an amendment published at 87 FR 7007, Feb. 7, 2022.
 
 (4) *Infant meal pattern.* Infant meals must have, at a minimum, each of the food components indicated, in the amount that is appropriate for the infant's age.
 
-(i) *Birth through 5 months* - (A) *Breakfast.* Four to 6 fluid ounces of breastmilk or iron-fortified infant formula, or portions of both.
+(i) *Birth through 5 months*—(A) *Breakfast.* Four to 6 fluid ounces of breastmilk or iron-fortified infant formula, or portions of both.
 
 (B) *Lunch or supper.* Four to 6 fluid ounces of breastmilk or iron-fortified infant formula, or portions of both.
 
@@ -98,7 +96,7 @@ Link to an amendment published at 87 FR 7007, Feb. 7, 2022.
 
 (5) *Infant meal pattern table.* The minimum amounts of food components to serve to infants, as described in paragraph (b)(4) of this section, are:
 
-Table 1 to Paragraph (b)(5) - Infant Meal Patterns
+Table 1 to Paragraph (b)(5)—Infant Meal Patterns
 
 | Infants                     | Birth through 5 months                     | 6 through 11 months                                                                      |
 | --------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------- |
@@ -136,15 +134,15 @@ Table 1 to Paragraph (b)(5) - Infant Meal Patterns
 
 (1) *Breakfast.* Fluid milk, vegetables or fruit, or portions of both, and grains are required components of the breakfast meal. Meat and meat alternates may be used to meet the entire grains requirement a maximum of three times per week. The minimum amounts of food components to be served at breakfast are as follows:
 
-Table 2 to Paragraph (c)(1) - Child and Adult Care Food Program Breakfast
+Table 2 to Paragraph (c)(1)—Child and Adult Care Food Program Breakfast
 
 \[Select the appropriate components for a reimbursable meal\]
 
-| Food   components and food items 1        | Minimum quantities   |
+| Food components and food items 1          | Minimum quantities   |
 | ----------------------------------------- | -------------------- |
 | Fluid Milk 3                              | 4 fluid ounces       |
 | Vegetables, fruits, or portions of both 4 | 1/4 cup              |
-| Grains (oz. eq.) 5 6 7 8                  | 1/2 ounce equivalent |
+| Grains (oz. eq.) 5678                     | 1/2 ounce equivalent |
 
 Endnotes:
 
@@ -152,7 +150,7 @@ Endnotes:
 
 2 Larger portion sizes than specified may need to be served to children 13 through 18 years old to meet their nutritional needs.
 
-3 Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be unflavored low-fat (1 percent fat or less), unflavored or flavored fat-free (skim) milk for children 6 years old and older and adults. For adult participants, 6 ounces (weight) or 3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
+3 Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be unflavored or flavored fat-free (skim) or low-fat (1 percent fat or less) milk for children 6 years old and older and adults. For adult participants, 6 ounces (weight) or 3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
 
 4 Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal, including snack, per day.
 
@@ -166,7 +164,7 @@ Endnotes:
 
 (2) *Lunch and supper.* Fluid milk, meat and meat alternates, vegetables, fruits, and grains are required components in the lunch and supper meals. The minimum amounts of food components to be served at lunch and supper are as follows:
 
-Table 3 to Paragraph (c)(2) - Child and Adult Care Food Program Lunch and Supper
+Table 3 to Paragraph (c)(2)—Child and Adult Care Food Program Lunch and Supper
 
 \[Select the appropriate components for a reimbursable meal\]
 
@@ -183,9 +181,9 @@ Table 3 to Paragraph (c)(2) - Child and Adult Care Food Program Lunch and Supper
 | Yogurt, plain or flavored unsweetened or sweetened 6                                                                                                                                                                          | 4 ounces or 1/2 cup  |
 | The following may be used to meet no more than 50% of the requirement:                                                                                                                                                        |                      |
 | Peanuts, soy nuts, tree nuts, or seeds, as listed in program guidance, or an equivalent quantity of any combination of the above meat/meat alternates (1 ounce of nuts/seeds = 1 ounce of cooked lean meat, poultry, or fish) | 1/2 ounce = 50%      |
-| Vegetables 7 8                                                                                                                                                                                                                | 1/8 cup              |
-| Fruits 7 8                                                                                                                                                                                                                    | 1/8 cup              |
-| Grains (oz eq) 9 10 11                                                                                                                                                                                                        | 1/2 ounce equivalent |
+| Vegetables 78                                                                                                                                                                                                                 | 1/8 cup              |
+| Fruits 78                                                                                                                                                                                                                     | 1/8 cup              |
+| Grains (oz eq) 91011                                                                                                                                                                                                          | 1/2 ounce equivalent |
 
 Endnotes:
 
@@ -193,11 +191,11 @@ Endnotes:
 
 2 Larger portion sizes than specified may need to be served to children 13 through 18 years old to meet their nutritional needs.
 
-3 Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be unflavored low-fat (1 percent fat or less) or unflavored or flavored fat-free (skim) milk for children 6 years old and older and adults. For adult participants, 6 ounces (weight) or 3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
+3 Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be unflavored or flavored fat-free (skim) or low-fat (1 percent fat or less) milk for children 6 years old and older and adults. For adult participants, 6 ounces (weight) or 3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
 
 4 A serving of fluid milk is optional for suppers served to adult participants.
 
-5 Alternate protein products must meet the requirements in Appendix A to part 226 of this chapter.
+5 Alternate protein products must meet the requirements in Appendix A to Part 226 of this chapter.
 
 6 Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
 
@@ -213,9 +211,9 @@ Endnotes:
 
 (3) *Snack.* Serve two of the following five components: Fluid milk, meat and meat alternates, vegetables, fruits, and grains. Fruit juice, vegetable juice, and milk may comprise only one component of the snack. The minimum amounts of food components to be served at snacks are as follows:
 
-Table 4 to Paragraph (c)(3) - Child and Adult Care Food Program Snack
+Table 4 to Paragraph (c)(3)—Child and Adult Care Food Program Snack
 
-\[Select the two of the five components for a reimbursable meal\]
+\[Select the appropriate components for a reimbursable meal\]
 
 | Food components and food items 1                             | Minimum quantities   |
 | ------------------------------------------------------------ | -------------------- |
@@ -239,9 +237,9 @@ Endnotes:
 
 2 Larger portion sizes than specified may need to be served to children 13 through 18 years old to meet their nutritional needs.
 
-3 Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be unflavored low-fat (1 percent fat or less) or unflavored or flavored fat-free (skim) milk for children 6 years old and older and adults. For adult participants, 6 ounces (weight) or 3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
+3 Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be unflavored or flavored fat-free (skim) or low-fat (1 percent fat or less) milk for children 6 years old and older and adults. For adult participants, 6 ounces (weight) or 3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
 
-4 Alternate protein products must meet the requirements in appendix A to this part.
+4 Alternate protein products must meet the requirements in Appendix A to part 226 of this chapter.
 
 5 Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
 
@@ -255,13 +253,13 @@ Endnotes:
 
 (d) *Food preparation.* Deep-fat fried foods that are prepared on-site cannot be part of the reimbursable meal. For this purpose, deep-fat frying means cooking by submerging food in hot oil or other fat. Foods that are pre-fried, flash-fried, or par-fried by a commercial manufacturer may be served, but must be reheated by a method other than frying.
 
-(e) *Unavailability of fluid milk* - (1) *Temporary.* When emergency conditions prevent an institution or facility normally having a supply of milk from temporarily obtaining milk deliveries, the State agency may approve the service of breakfast, lunches, or suppers without milk during the emergency period.
+(e) *Unavailability of fluid milk*—(1) *Temporary.* When emergency conditions prevent an institution or facility normally having a supply of milk from temporarily obtaining milk deliveries, the State agency may approve the service of breakfast, lunches, or suppers without milk during the emergency period.
 
 (2) *Continuing.* When an institution or facility is unable to obtain a supply of milk on a continuing basis, the State agency may approve service of meals without milk, provided an equivalent amount of canned, whole dry or fat-free dry milk is used in the preparation of the components of the meal set forth in paragraph (a) of this section.
 
 (f) *Statewide substitutions.* In American Samoa, Puerto Rico, Guam, and the Virgin Islands, the following variations from the meal requirements are authorized: a serving of starchy vegetable, such as yams, plantains, or sweet potatoes, may be substituted for the grains requirement.
 
-(g) *Exceptions and variations in reimbursable meals* - (1) *Exceptions for disability reasons.* Reasonable substitutions must be made on a case-by-case basis for foods and meals described in paragraphs (a), (b), and (c) of this section for individual participants who are considered to have a disability under 7 CFR 15b.3 and whose disability restricts their diet.
+(g) *Exceptions and variations in reimbursable meals*—(1) *Exceptions for disability reasons.* Reasonable substitutions must be made on a case-by-case basis for foods and meals described in paragraphs (a), (b), and (c) of this section for individual participants who are considered to have a disability under 7 CFR 15b.3 and whose disability restricts their diet.
 
 (i) A written statement must support the need for the substitution. The statement must include recommended alternate foods, unless otherwise exempted by FNS, and must be signed by a licensed physician or licensed health care professional who is authorized by State law to write medical prescriptions.
 
@@ -321,4 +319,4 @@ Endnotes:
 
 (p) *Prohibition on using foods and beverages as punishments or rewards.* Meals served under this part must contribute to the development and socialization of children. Institutions and facilities must not use foods and beverages as punishments or rewards.
 
-\[81 FR 24377, Apr. 25, 2016, as amended at 81 FR 75677, Nov. 1, 2016; 83 FR 56716, Nov. 30, 2017; 84 FR 50292, Sept. 25, 2019; 85 FR 7855, Feb. 12, 2020; 85 FR 74850, Nov. 24, 2020; 86 FR 57547, Oct. 18, 2021; 87 FR 4127, Jan. 27, 2022\]
+\[81 FR 24377, Apr. 25, 2016, as amended at 81 FR 75677, Nov. 1, 2016; 83 FR 56716, Nov. 30, 2017; 84 FR 50292, Sept. 25, 2019; 85 FR 7855, Feb. 12, 2020; 85 FR 74850, Nov. 24, 2020; 86 FR 57547, Oct. 18, 2021; 87 FR 4127, Jan. 27, 2022; 87 FR 7007, Feb. 7, 2022\]
