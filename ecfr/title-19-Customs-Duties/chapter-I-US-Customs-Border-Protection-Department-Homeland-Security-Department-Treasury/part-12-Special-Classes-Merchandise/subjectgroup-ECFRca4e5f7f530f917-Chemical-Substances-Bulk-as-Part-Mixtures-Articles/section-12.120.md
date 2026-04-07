@@ -1,6 +1,6 @@
 ##### § 12.120 Definitions.
 
-Except as otherwise provided below, the terms used in §§ 12.121 through 12.127 have the meanings set forth for those terms in TSCA.
+Except as otherwise provided below, the terms used in §§ 12.121 through 12.127 have the meanings set forth for those terms in TSCA.*Article*
 
 (a) *Article*—(1) *Article* means a manufactured item which:
 

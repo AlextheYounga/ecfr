@@ -36,4 +36,4 @@ Additional bridge openings shall be provided for commercial vessels from 6 a.m. 
 
 (k) The draw of the Route 7 Bridge, mile 3.1, at Jersey City, shall open on signal if at least four hours advance notice is given by calling the number posted at the bridge.
 
-\[USCG-2013-1005, 79 FR 34418, June 17, 2013, as amended by USCG-2016-0173, 81 FR 62367, Sept. 9, 2016; USCG-2019-0108, 84 FR 23490, May 22, 2019; USCG-2019-0086, 85 FR 8749, Feb. 18, 2020; USCG-2019-0892, 85 FR 26359, May 4, 2020; USCG-2020-0603, 86 FR 23610, May 4, 2021\]
+\[USCG-2013-1005, 79 FR 34418, June 17, 2013, as amended by USCG-2016-0173, 81 FR 62367, Sept. 9, 2016; USCG-2019-0108, 84 FR 23490, May 22, 2019; USCG-2019-0086, 85 FR 8749, Feb. 18, 2020; USCG-2019-0892, 85 FR 26359, May 4, 2020; USCG-2020-0603, 86 FR 23610, May 4, 2021\] Link to an amendment published at 90 FR 13702, Mar. 26, 2025.

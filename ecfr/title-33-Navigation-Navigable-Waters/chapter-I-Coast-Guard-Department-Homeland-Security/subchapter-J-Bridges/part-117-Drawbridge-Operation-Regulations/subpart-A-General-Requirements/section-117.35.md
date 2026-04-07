@@ -1,6 +1,6 @@
 ##### § 117.35 Temporary change to a drawbridge operating schedule.
 
-(a) For any temporary change to the operating schedule of a drawbridge, lasting less than or equal to 180 days, the District Commander may issue a deviation approval letter to the bridge owner and publish a “Notice of temporary deviation from regulations” in the Federal Register.
+(a) For any temporary change to the operating schedule of a drawbridge, lasting less than or equal to 180 days, the District Commander may issue a deviation approval letter to the bridge owner and publish a “Notice of temporary deviation from regulations” in the Federal Register.*Request for change.*
 
 (b) If the time period for a temporary change to the operating schedule of a drawbridge will be greater then 180 days, the District Commander will follow appropriate rulemaking procedures and publish a temporary rule in the Federal Register prior to the start of the action.
 

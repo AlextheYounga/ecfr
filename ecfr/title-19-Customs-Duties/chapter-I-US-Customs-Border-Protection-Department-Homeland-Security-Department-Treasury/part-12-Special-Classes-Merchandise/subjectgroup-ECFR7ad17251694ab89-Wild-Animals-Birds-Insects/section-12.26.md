@@ -1,6 +1,6 @@
 ##### § 12.26 Importations of wild animals, fish, amphibians, reptiles, mollusks, and crustaceans; prohibited and endangered and threatened species; designated ports of entry; permits required.
 
-(a)(1) The importation into the United States, the Commonwealth of Puerto Rico, and the territories and possessions of the United States of live specimens of:
+(a)(1) The importation into the United States, the Commonwealth of Puerto Rico, and the territories and possessions of the United States of live specimens of:*Clariidae;*
 
 (i) Any species of the so-called “flying fox” or fruit bat of the genus Pteropus;
 

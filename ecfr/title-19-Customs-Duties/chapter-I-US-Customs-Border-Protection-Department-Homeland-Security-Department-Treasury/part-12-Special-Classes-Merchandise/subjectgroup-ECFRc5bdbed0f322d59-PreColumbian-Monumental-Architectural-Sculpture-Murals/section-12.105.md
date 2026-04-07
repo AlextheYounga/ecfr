@@ -1,6 +1,6 @@
 ##### § 12.105 Definitions.
 
-For purposes of §§ 12.106 through 12.109:
+For purposes of §§ 12.106 through 12.109:*pre-Columbian monumental or architectural sculpture or mural*
 
 (a) The term *pre-Columbian monumental or architectural sculpture or mural* means any stone carving or wall art listed in paragraph (b) of this section which is the product of a pre-Columbian Indian culture of Belize, Bolivia, Columbia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Panama, Peru, or Venezuela.
 
