@@ -1,6 +1,6 @@
 ##### § 64.6400 Definitions.
 
-For purposes of this subpart:
+For purposes of this subpart:*Abuser. Abuser*
 
 (a) *Abuser. Abuser* means an individual who has committed or allegedly committed a covered act, as defined in 47 U.S.C. 345 and this subpart, against:
 

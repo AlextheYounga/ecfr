@@ -1,6 +1,6 @@
 ##### § 64.710 Operator services for prison inmate phones.
 
-(a) Each provider of inmate operator services shall:
+(a) Each provider of inmate operator services shall:*Consumer*
 
 (1) Identify itself and disclose, audibly and distinctly to the consumer, at no charge and before connecting any interstate, non-access code operator service call, how to obtain the total cost of the call, including any surcharge or premises-imposed-fee. The oral disclosure required in this paragraph shall instruct consumers that they may obtain applicable rate and surcharge quotations either, at the option of the provider of inmate operator services, by dialing no more than two digits or by remaining on the line. The phrase “total cost of the call,” as used in this paragraph, means both the variable (duration-based) charges for the call and the total per-call charges, exclusive of taxes, that the carrier, or its billing agent, may collect from the consumer for the call. Such phrase shall include any per-call surcharge imposed by the correctional institution, unless it is subject to regulation itself as a common carrier for imposing such surcharges, if the contract between the carrier and the correctional institution prohibits both resale and the use of pre-paid calling card arrangements.
 

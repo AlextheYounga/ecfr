@@ -1,6 +1,6 @@
 ##### § 64.6203 Definitions.
 
-For purposes of this subpart, the following definitions shall apply:
+For purposes of this subpart, the following definitions shall apply:*Covered Services.*
 
 (a) *Covered Services.* Telecommunications service, Internet access service, and advanced communications services, including interexchange services and advanced telecommunications and information services.
 

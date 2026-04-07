@@ -1,6 +1,6 @@
 ##### § 64.2400 Purpose and scope.
 
-(a) The purpose of these rules is to reduce slamming and other telecommunications fraud by setting standards for bills for telecommunications service. These rules are also intended to aid customers in understanding their telecommunications bills, and to provide them with the tools they need to make informed choices in the market for telecommunications service.
+(a) The purpose of these rules is to reduce slamming and other telecommunications fraud by setting standards for bills for telecommunications service. These rules are also intended to aid customers in understanding their telecommunications bills, and to provide them with the tools they need to make informed choices in the market for telecommunications service.*Preemptive effect of rules.*
 
 (b) These rules shall apply to all telecommunications common carriers and to all bills containing charges for intrastate or interstate services, except as follows:
 

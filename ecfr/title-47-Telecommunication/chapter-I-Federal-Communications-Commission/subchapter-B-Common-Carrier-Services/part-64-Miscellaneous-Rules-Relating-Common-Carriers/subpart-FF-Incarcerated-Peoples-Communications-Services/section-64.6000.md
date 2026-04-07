@@ -1,6 +1,6 @@
 ##### § 64.6000 Definitions.
 
-As used in this subpart:
+As used in this subpart:*Alternate Pricing Plan*
 
 *Alternate Pricing Plan* or *Plan* means the offering of Incarcerated People's Communications Services to Consumers using a pricing structure other than per-minute pricing.
 

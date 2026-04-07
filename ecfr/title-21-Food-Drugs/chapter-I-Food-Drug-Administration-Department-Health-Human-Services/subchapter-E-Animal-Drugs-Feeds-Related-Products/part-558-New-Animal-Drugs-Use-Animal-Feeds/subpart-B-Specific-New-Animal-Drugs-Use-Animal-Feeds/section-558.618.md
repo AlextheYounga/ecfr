@@ -1,47 +1,47 @@
 ##### § 558.618 Tilmicosin.
 
-(a) *Specifications.* Type A medicated article containing 90.7 grams (g) per pound tilmicosin as tilmicosin phosphate (200 g per kilogram). 
+(a) *Specifications.* Type A medicated article containing 90.7 grams (g) per pound tilmicosin as tilmicosin phosphate (200 g per kilogram).
 
-(b) *Sponsor.* See Nos. 016592 and 058198 in § 510.600(c) of this chapter. 
+(b) *Sponsor.* See Nos. 016592 and 058198 in § 510.600(c) of this chapter.
 
-(c) *Related tolerances.* See § 556.735 of this chapter. 
+(c) *Related tolerances.* See § 556.735 of this chapter.
 
-(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements. 
+(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements.
 
-(2) VFDs for tilmicosin phosphate shall not be refilled. 
+(2) VFDs for tilmicosin phosphate shall not be refilled.
 
-(3) Labeling of tilmicosin Type B or Type C medicated feeds must bear the following warnings: 
+(3) Labeling of tilmicosin Type B or Type C medicated feeds must bear the following warnings:
 
-(i) Do not allow horses or other equines access to feeds containing tilmicosin. 
+(i) Do not allow horses or other equines access to feeds containing tilmicosin.
 
-(ii) \[Reserved\] 
+(ii) \[Reserved\]
 
-(4) Special considerations for use of tilmicosin medicated swine feeds include the following: 
+(4) Special considerations for use of tilmicosin medicated swine feeds include the following:
 
-(i) The expiration date of VFDs for tilmicosin must not exceed 90 days from the time of issuance. 
+(i) The expiration date of VFDs for tilmicosin must not exceed 90 days from the time of issuance.
 
-(ii) Labeling of tilmicosin Type B or Type C medicated feeds for swine must bear the following warning: “Do not use in any feeds containing bentonite. Bentonite in feeds may affect the efficacy of tilmicosin.” 
+(ii) Labeling of tilmicosin Type B or Type C medicated feeds for swine must bear the following warning: “Do not use in any feeds containing bentonite. Bentonite in feeds may affect the efficacy of tilmicosin.”
 
-(iii) Feed containing tilmicosin shall not be fed to pigs for more than 21 days during each phase of production without ceasing administration for reevaluation of antimicrobial use by a licensed veterinarian before reinitiating a further course of therapy with an appropriate antimicrobial. 
+(iii) Feed containing tilmicosin shall not be fed to pigs for more than 21 days during each phase of production without ceasing administration for reevaluation of antimicrobial use by a licensed veterinarian before reinitiating a further course of therapy with an appropriate antimicrobial.
 
-(5) Special consideration for use of tilmicosin medicated cattle feeds include the following: 
+(5) Special consideration for use of tilmicosin medicated cattle feeds include the following:
 
-(i) The expiration date of VFDs for cattle must not exceed 45 days from the time of issuance. 
+(i) The expiration date of VFDs for cattle must not exceed 45 days from the time of issuance.
 
-(ii) Labeling of tilmicosin Type B or Type C medicated feeds for cattle must bear the following warning: “Do not use in any feeds containing bentonite, cottonseed meal, or cottonseed hulls. Bentonite, cottonseed meal, or cottonseed hulls in feeds may affect the efficacy of tilmicosin.” 
+(ii) Labeling of tilmicosin Type B or Type C medicated feeds for cattle must bear the following warning: “Do not use in any feeds containing bentonite, cottonseed meal, or cottonseed hulls. Bentonite, cottonseed meal, or cottonseed hulls in feeds may affect the efficacy of tilmicosin.”
 
-(iii) To assure both food safety and responsible use in cattle, administration of feed containing tilmicosin to cattle experiencing an outbreak of BRD must be initiated during the first 45 days of the production period, shall not exceed a single 14-consecutive-day treatment, should not occur concurrent with or following administration of an injectable macrolide, and should not occur within 3 days following administration of a nonmacrolide injectable BRD therapy. Tilmicosin medicated feed treatment has not been evaluated in cattle with severe clinical disease. Cattle with severe clinical illness should be evaluated for individual treatment with an alternative non-macrolide therapy. 
+(iii) To assure both food safety and responsible use in cattle, administration of feed containing tilmicosin to cattle experiencing an outbreak of BRD must be initiated during the first 45 days of the production period, shall not exceed a single 14-consecutive-day treatment, should not occur concurrent with or following administration of an injectable macrolide, and should not occur within 3 days following administration of a nonmacrolide injectable BRD therapy. Tilmicosin medicated feed treatment has not been evaluated in cattle with severe clinical disease. Cattle with severe clinical illness should be evaluated for individual treatment with an alternative non-macrolide therapy.
 
-(e) *Conditions of use.* It is used in feed as follows: 
+(e) *Conditions of use.* It is used in feed as follows:
 
-(1) *Swine*— 
+(1) *Swine*—
 
 | Tilmicosin   phosphate   in grams/ton | Combination in grams/ton | Indications for use                                                                                                           | Limitations                                                                                                                                                                                                                                                                                                                                            | Sponsor        |
 | ------------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
 | (i) 181 to 363                        |                          | Swine: For the control of swine respiratory disease associated with Actinobacillus pleuropneumoniae and Pasteurella multocida | Feed continuously as the sole ration for 21-day period, beginning approximately 7 days before an anticipated disease outbreak. The safety of tilmicosin has not been established in male swine intended for breeding purposes. Swine intended for human consumption must not be slaughtered within 7 days of the last treatment with this drug product | 058198, 016592 |
 | (ii) \[Reserved\]                     |                          |                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                        |                |
 
-(2) *Cattle*— 
+(2) *Cattle*—
 
 | Tilmicosin   phosphate   in grams/ton | Combination in grams/ton | Indications for use                                                                                                                                                                                                                                                                                                                                                                  | Limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Sponsor         |
 | ------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |

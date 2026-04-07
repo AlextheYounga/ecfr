@@ -1,6 +1,6 @@
 ##### § 64.641 Compensation for Internet Protocol Captioned Telephone Service.
 
-(a) *Captioning with only automatic speech recognition technology.* For the period from November 1, 2024, through June 30, 2029, TRS Fund compensation for the provision of Internet Protocol Captioned Telephone Service when captioning is produced using only automatic speech recognition technology (ASR-only IP CTS) shall be as described in this paragraph (a).
+(a) *Captioning with only automatic speech recognition technology.* For the period from November 1, 2024, through June 30, 2029, TRS Fund compensation for the provision of Internet Protocol Captioned Telephone Service when captioning is produced using only automatic speech recognition technology (ASR-only IP CTS) shall be as described in this paragraph (a).FY
 
 (1) *Initial rate.* For the period from November 1, 2024, through June 30, 2025, the Compensation Level for ASR-only IP CTS shall be $1.17 per minute.
 

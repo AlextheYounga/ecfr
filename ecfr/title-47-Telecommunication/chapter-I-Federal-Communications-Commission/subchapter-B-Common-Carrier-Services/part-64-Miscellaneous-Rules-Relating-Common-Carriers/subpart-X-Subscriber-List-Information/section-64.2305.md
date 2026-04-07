@@ -1,6 +1,6 @@
 ##### § 64.2305 Definitions.
 
-Terms used in this subpart have the following meanings:
+Terms used in this subpart have the following meanings:*Base file subscriber list information.*
 
 (a) *Base file subscriber list information.* A directory publisher requests base file subscriber list information when the publisher requests, as of a given date, all of a carrier's subscriber list information that the publisher wishes to include in one or more directories.
 

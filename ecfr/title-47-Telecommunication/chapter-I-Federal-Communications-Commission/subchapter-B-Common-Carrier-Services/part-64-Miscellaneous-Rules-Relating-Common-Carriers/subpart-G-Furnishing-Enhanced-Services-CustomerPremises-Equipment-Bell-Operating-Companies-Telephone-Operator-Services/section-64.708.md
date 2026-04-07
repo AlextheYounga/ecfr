@@ -1,6 +1,6 @@
 ##### § 64.708 Definitions.
 
-As used in §§ 64.703 through 64.707 of this part and § 68.318 of this chapter (47 CFR 64.703-64.707, 68.318):
+As used in §§ 64.703 through 64.707 of this part and § 68.318 of this chapter (47 CFR 64.703-64.707, 68.318):*Access code*
 
 (a) *Access code* means a sequence of numbers that, when dialed, connect the caller to the provider of operator services associated with that sequence;
 

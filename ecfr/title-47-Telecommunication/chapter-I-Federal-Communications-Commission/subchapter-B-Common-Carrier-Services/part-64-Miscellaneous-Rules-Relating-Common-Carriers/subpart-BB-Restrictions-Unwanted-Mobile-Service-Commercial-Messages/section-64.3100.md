@@ -1,6 +1,6 @@
 ##### § 64.3100 Restrictions on mobile service commercial messages.
 
-(a) No person or entity may initiate any mobile service commercial message, as those terms are defined in paragraph (c)(7) of this section, unless:
+(a) No person or entity may initiate any mobile service commercial message, as those terms are defined in paragraph (c)(7) of this section, unless:*Definitions.*
 
 (1) That person or entity has the express prior authorization of the addressee;
 

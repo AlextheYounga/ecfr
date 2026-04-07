@@ -1,6 +1,6 @@
 ##### § 64.643 Compensation for Video Relay Service.
 
-For the period from July 1, 2023, through June 30, 2028, TRS Fund compensation for the provision of Video Relay Service (VRS) shall be as described in this section.
+For the period from July 1, 2023, through June 30, 2028, TRS Fund compensation for the provision of Video Relay Service (VRS) shall be as described in this section.*First year.*FY
 
 (a) *First year.* For Fund Year 2023-24, TRS Fund compensation shall be paid in accordance with the following formulas.
 
@@ -16,7 +16,7 @@ For the period from July 1, 2023, through June 30, 2028, TRS Fund compensation f
 
 (b) *Succeeding years.* For each succeeding Fund Year through June 30, 2028, each per-minute Compensation Amount described in paragraph (a) of this section shall be redetermined in accordance with the following equation:
 
-AFY = AFY−1 \* (1+IFFY) Where: AFY is the Compensation Amount for the new Fund Year, AFY-1 is the Compensation Amount for the previous Fund Year, IFFY is the Inflation Adjustment Factor for the new Fund Year.
+AFY = AFY−1 \* (1+IFFY) Where: FYAFY is the Compensation Amount for the new Fund Year, AFY-1 is the Compensation Amount for the previous Fund Year, IFFY is the Inflation Adjustment Factor for the new Fund Year.
 
 (c) *Inflation Adjustment Factor.* The Inflation Adjustment Factor for a Fund Year (IFFY), to be determined annually on or before June 30, is equal to the difference between the Initial Value and the Final Value, as defined herein, divided by the Initial Value. The Initial Value and Final Value, respectively, are the values of the Employment Cost Index compiled by the Bureau of Labor Statistics, U.S. Department of Labor, for total compensation for private industry workers in professional, scientific, and technical services, for the following periods:
 

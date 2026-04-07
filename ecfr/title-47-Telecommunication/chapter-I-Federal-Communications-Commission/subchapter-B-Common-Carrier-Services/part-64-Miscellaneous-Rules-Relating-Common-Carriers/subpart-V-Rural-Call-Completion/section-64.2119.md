@@ -1,6 +1,6 @@
 ##### § 64.2119 Intermediate provider service quality standards.
 
-Any intermediate provider that offers or holds itself out as offering the capability to transmit covered voice communications from one destination to another and that charges any rate to any other entity (including an affiliated entity) for the transmission must abide by the following service quality standards:
+Any intermediate provider that offers or holds itself out as offering the capability to transmit covered voice communications from one destination to another and that charges any rate to any other entity (including an affiliated entity) for the transmission must abide by the following service quality standards:*Duty to complete calls.*
 
 (a) *Duty to complete calls.* Intermediate providers must take steps reasonably calculated to ensure that all covered voice communications that traverse their networks are delivered to their destination. An intermediate provider may violate this duty to complete calls if it knows, or should know, that calls are not being completed to certain areas, and it engages in acts or omissions that allow, or effectively allow, these conditions to persist.
 

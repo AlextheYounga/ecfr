@@ -1,6 +1,6 @@
 ##### § 64.1202 Public safety answering point do-not-call registry.
 
-(a) As used in this section, the following terms are defined as:
+(a) As used in this section, the following terms are defined as:*Operators of automatic dialing or robocall equipment.*
 
 (1) *Operators of automatic dialing or robocall equipment.* Any person or entity who uses an automatic telephone dialing system, as defined in section 227(a)(1) of the Communications Act of 1934, as amended, to make telephone calls with such equipment.
 

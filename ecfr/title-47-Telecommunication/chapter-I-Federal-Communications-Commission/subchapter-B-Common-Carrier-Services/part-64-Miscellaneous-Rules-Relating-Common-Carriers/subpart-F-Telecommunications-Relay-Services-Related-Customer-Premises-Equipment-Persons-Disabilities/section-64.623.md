@@ -1,6 +1,6 @@
 ##### § 64.623 Administrator requirements.
 
-(a) For the purposes of this section, the term “Administrator” shall refer to each of the TRS Numbering administrator, the administrator of the TRS User Registration Database, the administrator of the VRS Access Technology Reference Platform, and the provider of the Neutral Video Communication Service Platform. A single entity may serve in one or more of these capacities.
+(a) For the purposes of this section, the term “Administrator” shall refer to each of the TRS Numbering administrator, the administrator of the TRS User Registration Database, the administrator of the VRS Access Technology Reference Platform, and the provider of the Neutral Video Communication Service Platform. A single entity may serve in one or more of these capacities.*Neutrality.*
 
 (b) *Neutrality.* (1) The Administrator shall be a non-governmental entity that is impartial and not an affiliate of any Internet-based TRS provider.
 

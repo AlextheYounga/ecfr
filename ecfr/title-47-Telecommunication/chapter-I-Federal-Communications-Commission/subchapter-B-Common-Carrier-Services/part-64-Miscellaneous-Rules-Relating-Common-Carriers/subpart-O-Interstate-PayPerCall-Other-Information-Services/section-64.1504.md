@@ -1,6 +1,6 @@
 ##### § 64.1504 Restrictions on the use of toll-free numbers.
 
-A common carrier shall prohibit by tariff or contract the use of any 800 telephone number, or other telephone number advertised or widely understood to be toll-free, in a manner that would result in:
+A common carrier shall prohibit by tariff or contract the use of any 800 telephone number, or other telephone number advertised or widely understood to be toll-free, in a manner that would result in:*Provided*
 
 (a) The calling party or the subscriber to the originating line being assessed, by virtue of completing the call, a charge for a call;
 

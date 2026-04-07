@@ -1,6 +1,6 @@
 ##### § 64.4002 Notification obligations of LECs.
 
-To the extent that the information is reasonably available to a LEC, the LEC shall provide to an IXC the customer account information described in this section consistent with § 64.4004. Nothing in this section shall prevent a LEC from providing additional customer account information to an IXC to the extent that such additional information is necessary for billing purposes or to properly execute a customer's PIC order.
+To the extent that the information is reasonably available to a LEC, the LEC shall provide to an IXC the customer account information described in this section consistent with § 64.4004. Nothing in this section shall prevent a LEC from providing additional customer account information to an IXC to the extent that such additional information is necessary for billing purposes or to properly execute a customer's PIC order.*Customer-submitted PIC order.*
 
 (a) *Customer-submitted PIC order.* Upon receiving and processing a PIC selection submitted by a customer and placing the customer on the network of the customer's preferred interexchange carrier at the LEC's local switch, the LEC must notify the IXC of this event. The notification provided by the LEC to the IXC must contain all of the customer account information necessary to allow for proper billing of the customer by the IXC including but not limited to:
 

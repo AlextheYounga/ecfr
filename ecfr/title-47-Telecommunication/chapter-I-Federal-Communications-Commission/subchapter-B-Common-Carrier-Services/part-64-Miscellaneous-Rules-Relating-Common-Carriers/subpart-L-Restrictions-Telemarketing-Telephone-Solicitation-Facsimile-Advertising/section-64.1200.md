@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 13425, Mar. 24, 2025.Link to an amendment published at 90 FR 44580, Sept. 16, 2025.
 
-(a) No person or entity may:
+(a) No person or entity may:*1*
 
 (1) Except as provided in paragraph (a)(2) of this section, initiate any telephone call (other than a call made for emergency purposes or is made with the prior express consent of the called party) using an automatic telephone dialing system or an artificial or prerecorded voice;
 
