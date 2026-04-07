@@ -1,5 +1,7 @@
 ##### § 10.219 Fees.
 
+Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
+
 (a) Use table 1 to § 10.219(a) to calculate the mandatory fees for MMCs and associated endorsements. 
 
 Table 1 to § 10.219(a)—Fees

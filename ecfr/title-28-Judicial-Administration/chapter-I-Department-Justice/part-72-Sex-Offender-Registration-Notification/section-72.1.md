@@ -1,5 +1,5 @@
 ##### § 72.1 Purpose.
 
-(a) This part specifies the registration requirements of the Sex Offender Registration and Notification Act (SORNA), 34 U.S.C. 20901 *et seq.,* and the scope of those requirements' application. The Attorney General has the authority to specify the requirements of SORNA and their applicability as provided in this part pursuant to provisions of SORNA, including 34 U.S.C. 20912(b), 20913(d), and 20914(a)(8), (c).
+(a) This part specifies the registration requirements of the Sex Offender Registration and Notification Act (SORNA), 34 U.S.C. 20901 *et seq.,* and the scope of those requirements' application. The Attorney General has the authority to specify the requirements of SORNA and their applicability as provided in this part pursuant to provisions of SORNA, including 34 U.S.C. 20912(b), 20913(d), and 20914(a)(8), (c). 
 
 (b) This part does not preempt or limit any obligations of or requirements relating to sex offenders under other Federal laws, rules, or policies, or under the laws, rules, or policies of registration jurisdictions or other entities. States and other governmental entities may prescribe registration requirements and other requirements, with which sex offenders must comply, that are more extensive or stringent than those prescribed by SORNA.

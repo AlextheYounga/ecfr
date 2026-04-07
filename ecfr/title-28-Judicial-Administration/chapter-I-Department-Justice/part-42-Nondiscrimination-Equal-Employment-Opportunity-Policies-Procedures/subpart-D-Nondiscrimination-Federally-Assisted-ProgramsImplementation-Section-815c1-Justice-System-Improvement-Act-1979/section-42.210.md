@@ -1,10 +1,10 @@
 ##### § 42.210 Compliance not secured.
 
-(a) If, at the conclusion of 90 days after notification of noncompliance with section 815(c)(1):
+(a) If, at the conclusion of 90 days after notification of noncompliance with section 815(c)(1): 
 
-(1) Compliance has not been secured by the chief executive of that State or the chief executive of that unit of general local government; and
+(1) Compliance has not been secured by the chief executive of that State or the chief executive of that unit of general local government; and 
 
-(2) An administrative law judge has not made a determination under § 42.212 that it is likely the State government or unit of local government will prevail on the merits;
+(2) An administrative law judge has not made a determination under § 42.212 that it is likely the State government or unit of local government will prevail on the merits; 
 
 the Office shall notify the Attorney General that compliance has not been secured and shall cause to have suspended further payment of any funds under the JSIA or Juvenile Justice Act, as appropriate, to the specific program or activity in which the noncompliance has been found.
 

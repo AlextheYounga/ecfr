@@ -1,59 +1,59 @@
 ##### § 524.42 Content of progress reports.
 
-Staff shall include the following in each progress report:
+Staff shall include the following in each progress report: 
 
-(a) Institution (full name) and Date;
+(a) Institution (full name) and Date; 
 
-(b) Type of Progress Report;
+(b) Type of Progress Report; 
 
-(c) Committed name;
+(c) Committed name; 
 
-(d) Registration number;
+(d) Registration number; 
 
-(e) Age;
+(e) Age; 
 
-(f) Present security and custody level;
+(f) Present security and custody level; 
 
-(g) Offense(s) for which committed;
+(g) Offense(s) for which committed; 
 
-(h) Sentence;
+(h) Sentence; 
 
-(i) Date sentence began;
+(i) Date sentence began; 
 
-(j) Time served to date, including jail time credit;
+(j) Time served to date, including jail time credit; 
 
-(k) Good conduct time/Extra good time earned;
+(k) Good conduct time/Extra good time earned; 
 
-(l) Statutory good time withheld or forfeited; Disallowed good conduct time;
+(l) Statutory good time withheld or forfeited; Disallowed good conduct time; 
 
-(m) Projected release date;
+(m) Projected release date; 
 
-(n) Most recent Parole Commission action, including any special conditions or requirements (if applicable);
+(n) Most recent Parole Commission action, including any special conditions or requirements (if applicable); 
 
-(o) Detainers and pending charges on file;
+(o) Detainers and pending charges on file; 
 
-(p) Institutional adjustment; this ordinarily includes information on the inmate's:
+(p) Institutional adjustment; this ordinarily includes information on the inmate's: 
 
-(1) Program plans;
+(1) Program plans; 
 
-(2) Work assignments and skills acquired;
+(2) Work assignments and skills acquired; 
 
-(3) Educational/vocational participation;
+(3) Educational/vocational participation; 
 
-(4) Counseling programs;
+(4) Counseling programs; 
 
-(5) Incident reports;
+(5) Incident reports; 
 
-(6) Institutional movement;
+(6) Institutional movement; 
 
-(7) Physical and mental health, including any significant mental or physical health problems, and any corrective action taken; and
+(7) Physical and mental health, including any significant mental or physical health problems, and any corrective action taken; and 
 
-(8) Financial responsibility.
+(8) Financial responsibility. 
 
-(q) Release planning:
+(q) Release planning: 
 
-(1) Where appropriate, staff shall request that the inmate provide a specific release plan;
+(1) Where appropriate, staff shall request that the inmate provide a specific release plan; 
 
-(2) Staff shall identify available release resources (including CCC) and any particular problem that may be present in release planning.
+(2) Staff shall identify available release resources (including CCC) and any particular problem that may be present in release planning. 
 
 \[59 FR 6857, Feb. 11, 1994\]

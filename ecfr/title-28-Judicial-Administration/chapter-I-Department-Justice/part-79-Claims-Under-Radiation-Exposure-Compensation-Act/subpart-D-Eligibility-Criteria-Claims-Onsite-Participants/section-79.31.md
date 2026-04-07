@@ -1,27 +1,27 @@
 ##### § 79.31 Definitions.
 
-(a) The definitions listed in § 79.11(b), (e), (f), (g), and (h), and in § 79.21, apply to this subpart.
+(a) The definitions listed in § 79.11(b), (e), (f), (g), and (h), and in § 79.21, apply to this subpart. 
 
-(b) *Atmospheric detonation of a nuclear device* means only a test conducted by the United States prior to January 1, 1963, as listed in paragraph (d) of this section.
+(b) *Atmospheric detonation of a nuclear device* means only a test conducted by the United States prior to January 1, 1963, as listed in paragraph (d) of this section. 
 
-(c) *First exposure* or initial exposure means the date on which the claimant first participated onsite in an atmospheric detonation of a nuclear device.
+(c) *First exposure* or initial exposure means the date on which the claimant first participated onsite in an atmospheric detonation of a nuclear device. 
 
-(d) *Period of atmospheric nuclear testing* means one of the periods listed in this paragraph that are associated with each test operation, plus an additional six-month period thereafter:
+(d) *Period of atmospheric nuclear testing* means one of the periods listed in this paragraph that are associated with each test operation, plus an additional six-month period thereafter: 
 
-(1) For Operation Trinity, the period July 16, 1945, through August 6, 1945:
+(1) For Operation Trinity, the period July 16, 1945, through August 6, 1945: 
 
 | Event name | Date     | Location          |
 | ---------- | -------- | ----------------- |
 | Trinity    | 07/16/45 | Trinity Test Site |
 
-(2) For Operation Crossroads, the period June 28, 1946, through August 31, 1946, for all activities other than the decontamination of ships involved in Operation Crossroads; the period of atmospheric nuclear testing for the decontamination of ships involved in Operation Crossroads shall run from June 28, 1946, through November 30, 1946:
+(2) For Operation Crossroads, the period June 28, 1946, through August 31, 1946, for all activities other than the decontamination of ships involved in Operation Crossroads; the period of atmospheric nuclear testing for the decontamination of ships involved in Operation Crossroads shall run from June 28, 1946, through November 30, 1946: 
 
 | Event name | Date     | Location |
 | ---------- | -------- | -------- |
 | Able       | 07/01/46 | Bikini   |
 | Baker      | 07/25/46 | Bikini   |
 
-(3) For Operation Sandstone, the period April 13, 1948, through May 20, 1948:
+(3) For Operation Sandstone, the period April 13, 1948, through May 20, 1948: 
 
 | Event name | Date     | Location |
 | ---------- | -------- | -------- |
@@ -29,7 +29,7 @@
 | Yoke       | 05/01/48 | Enewetak |
 | Zebra      | 05/15/48 | Enewetak |
 
-(4) For Operation Ranger, the period January 27, 1951, through February 7, 1951:
+(4) For Operation Ranger, the period January 27, 1951, through February 7, 1951: 
 
 | Event name | Date     | Location                 |
 | ---------- | -------- | ------------------------ |
@@ -39,7 +39,7 @@
 | Baker-2    | 02/02/51 | NTS                      |
 | Fox        | 02/06/51 | NTS                      |
 
-(5) For Operation Greenhouse, the period April 5, 1951, through June 20, 1951, for all activities other than service as a member of the garrison or maintenance forces on the atoll of Enewetak between June 21, 1951, and July 1, 1952; the period of atmospheric nuclear testing for service as a member of the garrison or maintenance forces on the atoll of Enewetak shall run from April 5, 1951, through July 1, 1952:
+(5) For Operation Greenhouse, the period April 5, 1951, through June 20, 1951, for all activities other than service as a member of the garrison or maintenance forces on the atoll of Enewetak between June 21, 1951, and July 1, 1952; the period of atmospheric nuclear testing for service as a member of the garrison or maintenance forces on the atoll of Enewetak shall run from April 5, 1951, through July 1, 1952: 
 
 | Event name | Date     | Location |
 | ---------- | -------- | -------- |
@@ -48,7 +48,7 @@
 | George     | 05/09/51 | Enewetak |
 | Item       | 05/25/51 | Enewetak |
 
-(6) For Operation Buster-Jangle, the period October 22, 1951, through December 20, 1951:
+(6) For Operation Buster-Jangle, the period October 22, 1951, through December 20, 1951: 
 
 | Event name | Date     | Location |
 | ---------- | -------- | -------- |
@@ -59,7 +59,7 @@
 | Sugar      | 11/19/51 | NTS      |
 | Uncle      | 11/29/51 | NTS      |
 
-(7) For Operation Tumbler-Snapper, the period April 1, 1952, through June 20, 1952:
+(7) For Operation Tumbler-Snapper, the period April 1, 1952, through June 20, 1952: 
 
 | Event name | Date     | Location |
 | ---------- | -------- | -------- |
@@ -71,14 +71,14 @@
 | Fox        | 05/25/52 | NTS      |
 | George     | 06/01/52 | NTS      |
 
-(8) For Operation Ivy, the period October 29, 1952, through December 31, 1952:
+(8) For Operation Ivy, the period October 29, 1952, through December 31, 1952: 
 
 | Event name | Date     | Location |
 | ---------- | -------- | -------- |
 | Mike       | 11/01/52 | Enewetak |
 | King       | 11/16/52 | Enewetak |
 
-(9) For Operation Upshot-Knothole, the period March 17, 1953, through June 20, 1953:
+(9) For Operation Upshot-Knothole, the period March 17, 1953, through June 20, 1953: 
 
 | Event name | Date     | Location |
 | ---------- | -------- | -------- |
@@ -94,7 +94,7 @@
 | Grable     | 05/25/53 | NTS      |
 | Climax     | 06/04/53 | NTS      |
 
-(10) For Operation Castle, the period February 27, 1954, through May 31, 1954
+(10) For Operation Castle, the period February 27, 1954, through May 31, 1954 
 
 | Event name | Date     | Location |
 | ---------- | -------- | -------- |
@@ -105,7 +105,7 @@
 | Yankee     | 05/05/54 | Bikini   |
 | Nectar     | 05/14/54 | Enewetak |
 
-(11) For Operation Teapot, the period February 18, 1955, through June 10, 1955:
+(11) For Operation Teapot, the period February 18, 1955, through June 10, 1955: 
 
 | Event name | Date     | Location |
 | ---------- | -------- | -------- |
@@ -124,13 +124,13 @@
 | Apple-2    | 05/05/55 | NTS      |
 | Zucchini   | 05/15/55 | NTS      |
 
-(12) For Operation Wigwam, the period May 14, 1955, through May 15, 1955:
+(12) For Operation Wigwam, the period May 14, 1955, through May 15, 1955: 
 
 | Event name | Date     | Location |
 | ---------- | -------- | -------- |
 | Wigwam     | 05/14/55 | Pacific  |
 
-(13) For Operation Redwing, the period May 2, 1956, through August 6, 1956, for all activities other than service as a member of the garrison or maintenance forces on the atoll of Enewetak from August 7, 1956, through August 7, 1957; the period of atmospheric nuclear testing for service as a member of the garrison or maintenance forces on the atoll of Enewetak shall run from May 2, 1956, through August 7, 1957:
+(13) For Operation Redwing, the period May 2, 1956, through August 6, 1956, for all activities other than service as a member of the garrison or maintenance forces on the atoll of Enewetak from August 7, 1956, through August 7, 1957; the period of atmospheric nuclear testing for service as a member of the garrison or maintenance forces on the atoll of Enewetak shall run from May 2, 1956, through August 7, 1957: 
 
 | Event name | Date     | Location |
 | ---------- | -------- | -------- |
@@ -152,7 +152,7 @@
 | Tewa       | 07/21/56 | Bikini   |
 | Huron      | 07/22/56 | Enewetak |
 
-(14) For Operation Plumbbob, the period May 28, 1957, through October 22, 1957:
+(14) For Operation Plumbbob, the period May 28, 1957, through October 22, 1957: 
 
 | Event name     | Date     | Location |
 | -------------- | -------- | -------- |
@@ -180,7 +180,7 @@
 | Charleston     | 09/28/57 | NTS      |
 | Morgan         | 10/07/57 | NTS      |
 
-(15) For Operation Hardtack I, the period April 26, 1958, through October 31, 1958, for all activities other than service as a member of the garrison or maintenance forces on the atoll of Enewetak from November 1, 1958, through April 30, 1959; the period of atmospheric nuclear testing for service as a member of the garrison or maintenance forces on the atoll of Enewetak shall run from April 26, 1958, through April 30, 1959:
+(15) For Operation Hardtack I, the period April 26, 1958, through October 31, 1958, for all activities other than service as a member of the garrison or maintenance forces on the atoll of Enewetak from November 1, 1958, through April 30, 1959; the period of atmospheric nuclear testing for service as a member of the garrison or maintenance forces on the atoll of Enewetak shall run from April 26, 1958, through April 30, 1959: 
 
 | Event name | Date     | Location     |
 | ---------- | -------- | ------------ |
@@ -220,7 +220,7 @@
 | Orange     | 08/11/58 | Johnston Isl |
 | Fig        | 08/18/58 | Enewetak     |
 
-(16) For Operation Argus, the period August 25, 1958, through September 10, 1958:
+(16) For Operation Argus, the period August 25, 1958, through September 10, 1958: 
 
 | Event name | Date     | Location       |
 | ---------- | -------- | -------------- |
@@ -228,7 +228,7 @@
 | Argus II   | 08/30/58 | South Atlantic |
 | Argus III  | 09/06/58 | South Atlantic |
 
-(17) For Operation Hardtack II, the period September 19, 1958, through October 31, 1958:
+(17) For Operation Hardtack II, the period September 19, 1958, through October 31, 1958: 
 
 | Event name | Date     | Location |
 | ---------- | -------- | -------- |
@@ -248,7 +248,7 @@
 | Mazama     | 10/29/58 | NTS      |
 | Santa Fe   | 10/30/58 | NTS      |
 
-(18) For Operation Dominic I, the period April 23, 1962, through December 31, 1962:
+(18) For Operation Dominic I, the period April 23, 1962, through December 31, 1962: 
 
 | Event name   | Date     | Location      |
 | ------------ | -------- | ------------- |
@@ -289,7 +289,7 @@
 | Kingfish     | 11/01/62 | Johnston Isl  |
 | Tightrope    | 11/03/62 | Johnston Isl  |
 
-(19) For Operation Dominic II, the period July 7, 1962, through August 15, 1962:
+(19) For Operation Dominic II, the period July 7, 1962, through August 15, 1962: 
 
 | Event name       | Date     | Location |
 | ---------------- | -------- | -------- |

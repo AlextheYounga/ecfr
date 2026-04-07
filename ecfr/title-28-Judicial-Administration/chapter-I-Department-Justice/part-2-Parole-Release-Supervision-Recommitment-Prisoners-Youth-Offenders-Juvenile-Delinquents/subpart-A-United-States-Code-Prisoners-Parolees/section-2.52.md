@@ -1,30 +1,30 @@
 ##### § 2.52 Revocation decisions.
 
-(a) Whenever a parolee is summoned or retaken by the Commission, and the Commission finds by a preponderance of the evidence, that the parolee has violated a condition of the parole, the Commission may take any of the following actions:
+(a) Whenever a parolee is summoned or retaken by the Commission, and the Commission finds by a preponderance of the evidence, that the parolee has violated a condition of the parole, the Commission may take any of the following actions: 
 
-(1) Restore the parolee to supervision including where appropriate:
+(1) Restore the parolee to supervision including where appropriate: 
 
-(i) Reprimand;
+(i) Reprimand; 
 
-(ii) Modification of the parolee's conditions of release;
+(ii) Modification of the parolee's conditions of release; 
 
-(iii) Referral to a community corrections center for all or part of the remainder of his original sentence; or
+(iii) Referral to a community corrections center for all or part of the remainder of his original sentence; or 
 
-(2) Revoke parole.
+(2) Revoke parole. 
 
-(b) If parole is revoked pursuant to this section, the Commission shall also determine, on the basis of the revocation hearing, whether reparole is warranted or whether the prisoner should be continued for further review.
+(b) If parole is revoked pursuant to this section, the Commission shall also determine, on the basis of the revocation hearing, whether reparole is warranted or whether the prisoner should be continued for further review. 
 
-(c) A parolee whose release is revoked by the Commission will receive credit on service of his sentence for time spent under supervision, except as provided below:
+(c) A parolee whose release is revoked by the Commission will receive credit on service of his sentence for time spent under supervision, except as provided below: 
 
-(1) If the Commission finds that such parolee intentionally refused or failed to respond to any reasonable request, order, summons or warrant of the Commission or any agent thereof, the Commission may order the forfeiture of the time during which the parolee so refused or failed to respond, and such time shall not be credited to service of the sentence.
+(1) If the Commission finds that such parolee intentionally refused or failed to respond to any reasonable request, order, summons or warrant of the Commission or any agent thereof, the Commission may order the forfeiture of the time during which the parolee so refused or failed to respond, and such time shall not be credited to service of the sentence. 
 
-(2) It is the Commission's interpretation of 18 U.S.C. 4210(b)(2) that, if a parolee has been convicted of a new offense committed subsequent to his release on parole, which is punishable by any term of imprisonment, detention, or incarceration in any penal facility, forfeiture of time from the date of such release to the date of execution of the warrant is an automatic statutory penalty, and such time shall not be credited to the service of the sentence. An actual term of confinement or imprisonment need not have been imposed for such conviction; it suffices that the statute under which the parolee was convicted permits the trial court to impose any term of confinement or imprisonment in any penal facility. If such conviction occurs subsequent to a revocation hearing the Commission may reopen the case and schedule a further hearing relative to time forfeiture and such further disposition as may be appropriate. However, in no event shall the violator term imposed under this subsection, taken together with the time served before release, exceed the total length of the original sentence.
+(2) It is the Commission's interpretation of 18 U.S.C. 4210(b)(2) that, if a parolee has been convicted of a new offense committed subsequent to his release on parole, which is punishable by any term of imprisonment, detention, or incarceration in any penal facility, forfeiture of time from the date of such release to the date of execution of the warrant is an automatic statutory penalty, and such time shall not be credited to the service of the sentence. An actual term of confinement or imprisonment need not have been imposed for such conviction; it suffices that the statute under which the parolee was convicted permits the trial court to impose any term of confinement or imprisonment in any penal facility. If such conviction occurs subsequent to a revocation hearing the Commission may reopen the case and schedule a further hearing relative to time forfeiture and such further disposition as may be appropriate. However, in no event shall the violator term imposed under this subsection, taken together with the time served before release, exceed the total length of the original sentence. 
 
-(d)(1) Notwithstanding the above, prisoners committed under the Narcotic Addict Rehabilitation Act or the Youth Corrections Act shall not be subject to any forfeiture provision, but shall serve uninterrupted sentences from the date of conviction, except as provided in § 2.10 (b) and (c).
+(d)(1) Notwithstanding the above, prisoners committed under the Narcotic Addict Rehabilitation Act or the Youth Corrections Act shall not be subject to any forfeiture provision, but shall serve uninterrupted sentences from the date of conviction, except as provided in § 2.10 (b) and (c). 
 
-(2) The commitment of a juvenile offender under the Federal Juvenile Delinquency Act may not be extended past the offender's twenty-first birthday unless the juvenile has attained his nineteenth birthday at the time of his commitment, in which case his commitment shall not exceed the lesser of two years or the maximum term which could have been imposed on an adult convicted of the same offense.
+(2) The commitment of a juvenile offender under the Federal Juvenile Delinquency Act may not be extended past the offender's twenty-first birthday unless the juvenile has attained his nineteenth birthday at the time of his commitment, in which case his commitment shall not exceed the lesser of two years or the maximum term which could have been imposed on an adult convicted of the same offense. 
 
-(e) In determining whether to revoke parole for non-compliance with a condition of fine, restitution, court costs or assessment, and/or court ordered child support or alimony payment, the Parole Commission shall consider the parolee's employment status, earning ability, financial resources, and any other special circumstances that may have a bearing on the matter. Revocation shall not be ordered unless the parolee is found to be deliberately evading or refusing compliance.
+(e) In determining whether to revoke parole for non-compliance with a condition of fine, restitution, court costs or assessment, and/or court ordered child support or alimony payment, the Parole Commission shall consider the parolee's employment status, earning ability, financial resources, and any other special circumstances that may have a bearing on the matter. Revocation shall not be ordered unless the parolee is found to be deliberately evading or refusing compliance. 
 
 Appendix to § 2.52—General Statement of Policy
 
