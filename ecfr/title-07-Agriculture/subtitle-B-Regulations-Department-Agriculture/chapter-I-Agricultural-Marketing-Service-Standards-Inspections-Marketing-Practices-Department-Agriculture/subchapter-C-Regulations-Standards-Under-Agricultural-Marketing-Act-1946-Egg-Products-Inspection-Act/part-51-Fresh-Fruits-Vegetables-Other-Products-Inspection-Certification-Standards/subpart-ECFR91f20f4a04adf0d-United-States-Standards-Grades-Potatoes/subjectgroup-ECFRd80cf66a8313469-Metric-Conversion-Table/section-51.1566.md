@@ -2,18 +2,18 @@
 
 | Inches      | Millimeters (mm) |
 | ----------- | ---------------- |
-| 1⁄8 equals  | 3.2              |
-| 1⁄4 equals  | 6.4              |
-| 1⁄2 equals  | 12.7             |
-| 3⁄4 equals  | 19.1             |
+| 1/8 equals  | 3.2              |
+| 1/4 equals  | 6.4              |
+| 1/2 equals  | 12.7             |
+| 3/4 equals  | 19.1             |
 | 1 equals    | 25.4             |
-| 11⁄2 equals | 38.1             |
+| 11/2 equals | 38.1             |
 | 2 equals    | 50.8             |
-| 21⁄2 equals | 63.5             |
+| 21/2 equals | 63.5             |
 | 3 equals    | 76.2             |
-| 31⁄2 equals | 88.9             |
+| 31/2 equals | 88.9             |
 | 4 equals    | 101.6            |
-| 41⁄2 equals | 114.3            |
+| 41/2 equals | 114.3            |
 
 | Ounces    | Grams  |
 | --------- | ------ |
