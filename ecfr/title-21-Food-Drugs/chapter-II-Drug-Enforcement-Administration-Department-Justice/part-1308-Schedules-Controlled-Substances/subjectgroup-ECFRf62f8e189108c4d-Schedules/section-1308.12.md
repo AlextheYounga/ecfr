@@ -1,7 +1,5 @@
 ##### § 1308.12 Schedule II.
 
-Link to an amendment published at 86 FR 30774, June 10, 2021.
-
 (a) Schedule II shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the Controlled Substances Code Number set forth opposite it.
 
 (b) *Substances, vegetable origin or chemical synthesis.* Unless specifically excepted or unless listed in another schedule, any of the following substances whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
@@ -168,7 +166,7 @@ Link to an amendment published at 86 FR 30774, June 10, 2021.
 
 9802 
 
-(18) Oliceridine (N-\[(3-methoxythiophen-2-yl)methyl\] ({2-\[(9R)-9-(pyridin-2-yl)-6-oxaspiro \[4.5\]decan-9-yl\]ethyl})amine fumarate)
+(18) Oliceridine (N-\[(3-methoxythiophen-2-yl)methyl\]({2-\[(9R)-9-(pyridin-2-yl)-6-oxaspiro\[4.5\]decan-9-yl\]ethyl})amine)
 
 9245 
 
