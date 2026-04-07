@@ -1,8 +1,8 @@
 ##### § 20.4 Amendments to the International Mail Manual.
 
-(a) The current issue of the IMM is incorporated by reference, see § 20.1.
+(a) The current issue of the IMM is incorporated by reference, see § 20.1. 
 
-(b) New issues of the International Mail Manual will be incorporated by reference into this part and will be available at *https://pe.usps.gov.* The text of amendments to the International Mail Manual will be published in the Federal Register and will be available in the Postal Bulletin, copies of which may be accessed at *https://usps.com/cpim/ftp/bulletin/pb.htm.* Successive issues of the IMM are listed in Table 1 to this section.
+(b) New issues of the International Mail Manual will be incorporated by reference into this part and will be available at *https://pe.usps.gov.* The text of amendments to the International Mail Manual will be published in the Federal Register and will be available in the Postal Bulletin, copies of which may be accessed at *https://usps.com/cpim/ftp/bulletin/pb.htm.* Successive issues of the IMM are listed in Table 1 to this section. 
 
 Table 1 to § 20.4—International Mail Manual
 | International Mail   Manual | Date of issuance    |

@@ -1,6 +1,6 @@
 ##### § 3060.30 Statement of allocated assets and liabilities for competitive products.
 
-(a) The Postal Service shall file a Statement of Allocated Assets and Liabilities for Competitive Products in the form and content of Table 4, below.
+(a) The Postal Service shall file a Statement of Allocated Assets and Liabilities for Competitive Products in the form and content of Table 4, below. 
 
 Table 4—Statement of Allocated Assets and Liabilities for Competitive Products—PRC Form CP-04
 

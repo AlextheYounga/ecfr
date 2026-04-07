@@ -1,6 +1,6 @@
 ##### § 3060.22 Financial status report.
 
-The Postal Service shall file a Financial Status Report in the form and content of Table 2, below.
+The Postal Service shall file a Financial Status Report in the form and content of Table 2, below. 
 
 Table 2—Annual Summary of Competitive Products Financials—PRC Form CP-02
 
