@@ -20307,7 +20307,7 @@ Note:
 
 The map provided is for informational purposes only.
 
-![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 86 FR 4844, Jan. 15, 2021.
+![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (f) *Clams and Snails.*
 
@@ -21927,7 +21927,163 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (ii) Map of Unit RF31 follows:
 
-![](/graphics/er30ap15.049.gif)Yellow Lance (*Elliptio lanceolata*)
+![](/graphics/er30ap15.049.gif)Atlantic Pigtoe (Fusconaia masoni)
+
+(1) Critical habitat units are depicted for Bath, Botetourt, Brunswick, Craig, Dinwiddie, Greensville, Halifax, Lunenburg, Mecklenburg, Nottoway, Pittsylvania, and Sussex Counties in Virginia, and Durham, Edgecombe, Franklin, Granville, Halifax, Johnston, Montgomery, Nash, Orange, Person, Pitt, Randolph, Rockingham, Vance, Wake, Warren, and Wilson Counties in North Carolina, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Atlantic pigtoe consist of the following components:
+
+(i) Suitable substrates and connected instream habitats, characterized by geomorphically stable stream channels and banks (*i.e.,* channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation) with habitats that support a diversity of freshwater mussel and native fish (such as stable riffle-run-pool habitats that provide flow refuges consisting of silt-free gravel and coarse sand substrates).
+
+(ii) Adequate flows, or a hydrologic flow regime (which includes the severity, frequency, duration, and seasonality of discharge over time), necessary to maintain benthic habitats where the species is found and to maintain connectivity of streams with the floodplain, allowing the exchange of nutrients and sediment for maintenance of the mussel's and fish hosts' habitat, food availability, spawning habitat for native fishes, and the ability for newly transformed juveniles to settle and become established in their habitats.
+
+(iii) Water and sediment quality (including, but not limited to, conductivity, hardness, turbidity, temperature, pH, ammonia, heavy metals, and chemical constituents) necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages.
+
+(iv) The presence and abundance of fish hosts necessary for recruitment of the Atlantic pigtoe.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on December 16, 2021.
+
+(4) Data layers defining map units were created by overlaying Natural Heritage Element Occurrence data and U.S. Geological Survey (USGS) hydrologic data for stream reaches. The hydrologic data used in the critical habitat maps were extracted from the USGS 1:1M scale nationwide hydrologic layer (*https://nationalmap.gov/small\_scale/mld/1nethyd.html)* with a projection of EPSG:4269-North American Datum of 1983 (NAD83) Geographic. The North Carolina and Virginia Natural Heritage program species presence data and the Virginia Department of Wildlife Resources species data were used to select specific stream segments for inclusion in the critical habitat layer. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points on which each map is based are available to the public at *http://www.regulations.gov* under Docket No. FWS-R4-ES-2018-0046 and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+![](/graphics/er16no21.196.gif)
+
+(6) Unit 1: JR1 - Craig Creek, Craig and Botetourt Counties, Virginia.
+
+(i) This unit consists of 29 river miles (46.7 river kilometers (km)) of Craig Creek near VA Route 616 northeast of New Castle downstream to just below VA Route 817 crossing.
+
+(ii) Map of Unit 1 (Craig Creek) follows:
+
+![](/graphics/er16no21.197.gif)
+
+(7) Unit 2: JR2 - Mill Creek, Bath County, Virginia.
+
+(i) This unit consists of a 1-mile (1.6-km) segment of Mill Creek at the VA39 (Mountain Valley Road) crossing.
+
+(ii) Map of Unit 2 (Mill Creek) follows:
+
+![](/graphics/er16no21.198.gif)
+
+(8) Unit 3: CR1 - Sappony Creek, Dinwiddie County, Virginia.
+
+(i) This unit consists of 4 river miles (6.6 river km) of Sappony Creek beginning just upstream of the Seaboard Railroad crossing and ending just downstream of the Shippings Road (SR709) crossing.
+
+(ii) Map of Unit 3 (Sappony Creek) follows:
+
+![](/graphics/er16no21.199.gif)
+
+(9) Unit 4: CR2 - Nottoway River Subbasin, Nottoway, Lunenburg, Brunswick, Dinwiddie, Greensville, and Sussex Counties, Virginia.
+
+(i) This unit consists of 64 river miles (103 river km) of the Nottoway River, and a portion of Sturgeon Creek, beginning downstream of the Nottoway River's confluence with Dickerson Creek and ending just downstream of Little Mill Road, and includes Sturgeon Creek upstream of Old Stage Road. Land bordering the river is primarily privately owned, although some of the land along the river is part of the Fort Pickett National Guard Installation.
+
+(ii) Map of Unit 4 (Nottoway River Subbasin) follows:
+
+![](/graphics/er16no21.200.gif)
+
+(10) Unit 5: CR3 - Meherrin River, Brunswick County, Virginia.
+
+(i) This unit consists of 5 river miles (8 river km) of the Meherrin River from approximately 1.5 miles below the confluence with Saddletree Creek under VA Highway 46 (Christana Highway) to VA715 (Iron Bridge Road).
+
+(ii) Map of Unit 5 (Meherrin River) follows:
+
+![](/graphics/er16no21.201.gif)
+
+(11) Unit 6: RR1 - Dan River, Pittsylvania County, Virginia, and Rockingham County, North Carolina.
+
+(i) This unit consists of 14 river miles (22.5 river km) of the Dan River along the border of Virginia and North Carolina from just upstream of NC Highway 700 near Eden, North Carolina, into Pittsylvania County, Virginia, and downstream to the confluence with Williamson Creek in Rockingham County, North Carolina.
+
+(ii) Map of Unit 6 (Dan River) follows:
+
+![](/graphics/er16no21.202.gif)
+
+(12) Unit 7: RR2 - Aarons Creek, Granville County, North Carolina, and Mecklenburg and Halifax Counties, Virginia.
+
+(i) This unit consists of 12 river miles (19.3 river km) of Aarons Creek, from NC96 in Granville County, North Carolina, downstream across the North Carolina-Virginia border to just upstream of VA602 (White House Road) along the Mecklenburg County-Halifax County line in Virginia.
+
+(ii) Map of Unit 7 (Aarons Creek) follows:
+
+![](/graphics/er16no21.203.gif)
+
+(13) Unit 8: RR3 - Little Grassy Creek, Granville County, North Carolina.
+
+(i) This unit consists of 3 river miles (4.8 river km) of Little Grassy Creek in Granville County, North Carolina, beginning at the Crawford Currin Road crossing and ending at the confluence with Grassy Creek.
+
+(ii) Map of Unit 8 (Little Grassy Creek) follows:
+
+![](/graphics/er16no21.204.gif)
+
+(14) Unit 9: TR1 - Upper/Middle Tar River Subbasin, Granville, Vance, Franklin, and Nash Counties, North Carolina.
+
+(i) This unit consists of 91 river miles (146.5 river km) of the mainstem of the upper and middle Tar River as well as several tributaries (Bear Swamp Creek, Fox Creek, Crooked Creek, Cub Creek, and Shelton Creek), all in North Carolina. The portion of Cub Creek starts near Hobgood Road and continues to the confluence with the Tar River; the Tar River portion starts just upstream of the NC158 bridge and goes downstream to the NC581 crossing; the Shelton Creek portion starts upstream of NC158 and goes downstream to the confluence with the Tar River; the Bear Swamp Creek portion begins upstream of Dyking Road and goes downstream to the confluence with the Tar River (and includes an unnamed tributary upstream of Beasley Road); the Fox Creek portion begins downstream of NC561 and goes to the confluence with the Tar River; and the Crooked Creek portion begins upstream of NC98 crossing and goes downstream to confluence with Tar River.
+
+(ii) Map of Unit 9 (Upper/Middle Tar River Subbasin) follows:
+
+![](/graphics/er16no21.205.gif)
+
+(15) Unit 10: TR2 - Sandy/Swift Creek, Warren, Franklin, and Nash Counties, North Carolina.
+
+(i) This unit consists of a 50-mile (80.5-km) segment of Sandy/Swift Creek beginning at Southerland Mill Road and continuing downstream to NC301.
+
+(ii) Map of Unit 10 (Sandy/Swift Creek) follows:
+
+![](/graphics/er16no21.206.gif)
+
+(16) Unit 11: TR3 - Fishing Creek Subbasin, Warren, Halifax, Franklin, and Nash Counties, North Carolina.
+
+(i) This unit consists of 85 river miles (136.8 river km) in Fishing Creek, Little Fishing Creek, Shocco Creek, and Maple Branch. The Shocco Creek portion begins downstream of the NC58 bridge and continues to the confluence with Fishing Creek; the entirety of Maple Branch is included, down to the confluence with Fishing Creek; Fishing Creek begins at Axtell Ridgeway Road (SR1112) and goes downstream to I-95; and Little Fishing Creek begins upstream of Briston Brown Road (SR1532) and goes downstream to the confluence with Fishing Creek.
+
+(ii) Map of Unit 11 (Fishing Creek Subbasin) follows:
+
+![](/graphics/er16no21.207.gif)
+
+(17) Unit 12: TR4 - Lower Tar River, Edgecombe and Pitt Counties, North Carolina.
+
+(i) This unit consists of 30 river miles (48.3 river km) of the Lower Tar River, lower Swift Creek, and Fishing Creek in Edgecombe County, North Carolina, from NC97 near Leggett, North Carolina, to the Edgecombe County-Pitt County line near NC33.
+
+(ii) Map of Unit 12 (Lower Tar River) follows:
+
+![](/graphics/er16no21.208.gif)
+
+(18) Unit 13: NR1 - Upper Neuse River Subbasin, Person, Durham, and Orange Counties, North Carolina.
+
+(i) This unit consists of 60 river miles (95 river km) in four reaches including Flat River, Little River, Eno River, and the Upper Eno River. The Flat River reach consists of 19 river miles (30.6 river km) in the Flat River Subbasin in Person and Durham Counties, North Carolina, including the South Flat River downstream of Dick Coleman Road, the North Flat River near Parsonage Road, and Deep Creek near Helena-Moriah Road downstream where each river converges into the Flat River downstream of State Forest Road. The Little River Subbasin includes 18 river miles (29 river km) of the North Fork and South Fork Little Rivers in Orange and Durham Counties, North Carolina. The Upper Eno River reach consists of 4 river miles (6.4 river km) in Orange County, North Carolina, including the West Fork Eno River upstream of Cedar Grove Road to the confluence with McGowan Creek. The Eno River reach consists of 18 river miles (29 river km) in Orange and Durham Counties, North Carolina, from below Eno Mountain Road to NC15-501.
+
+(ii) Map of Unit 13 (Upper Neuse River Subbasin) follows:
+
+![](/graphics/er16no21.209.gif)
+
+(19) Unit 14: NR2 - Middle Neuse River Subbasin, Wake, Johnston, and Wilson Counties, North Carolina.
+
+(i) This unit consists of 61 river miles (98.2 river km) in five reaches including Swift Creek, Middle Creek, Upper Little River, Middle Little River, and Contentnea Creek, all in North Carolina. The Middle Creek reach is 19 river miles (30.6 river km) below Old Stage Road downstream to below Crantock Road, and the Swift Creek reach is 25 river miles (40.2 river km) from Lake Benson downstream to its confluence with the Neuse, both in Wake and Johnston Counties. The Upper Little River reach includes 4 river miles (6.4 river km) of the Upper Little River from the confluence with Perry Creek to Fowler Road in Wake County, North Carolina. The Middle Little River reach includes 11 river miles (17.7 river km) from Atkinsons Mill downstream to NC301 in Johnston County, North Carolina. The Contentnea Creek reach consists of 2 river miles (3.2 river km) below Buckhorn Reservoir to just below Sadie Road near NC581 in Wilson County, North Carolina.
+
+(ii) Map of Unit 14 (Middle Neuse River Subbasin) follows:
+
+![](/graphics/er16no21.210.gif)
+
+(20) Unit 15: CF1 - New Hope Creek, Orange County, North Carolina.
+
+(i) This unit consists of 4 river miles (6.4 river km) of habitat in the New Hope Creek from NC86 to Mimosa Road.
+
+(ii) Map of Unit 15 (New Hope Creek) follows:
+
+![](/graphics/er16no21.211.gif)
+
+(21) Unit 16: CF2 - Deep River Subbasin, Randolph County, North Carolina.
+
+(i) The Deep River Subbasin unit consists of 10 river miles (16.1 river km), including the mainstem between Richland and Brush Creeks as well as Richland Creek from Little Beane Store Road to the confluence with the Deep River and Brush Creek from Brush Creek Road to the confluence with the Deep River.
+
+(ii) Map of Unit 16 (Deep River Subbasin) follows:
+
+![](/graphics/er16no21.212.gif)
+
+(22) Unit 17: YR1 - Little River, Randolph and Montgomery Counties, North Carolina.
+
+(i) This unit consists of 40 river miles (64.4 river km) of Little River from SR1114 downstream to Okeewemee Star Road, including the West Fork Little River from NC134 to the confluence with the Little River.
+
+(ii) Map of Unit 17 (Little River) follows:
+
+![](/graphics/er16no21.213.gif)Yellow Lance (*Elliptio lanceolata*)
 
 (1) Critical habitat units are depicted for Franklin, Granville, Halifax, Johnston, Nash, Vance, Wake, and Warren Counties, North Carolina; Brunswick, Craig, Culpeper, Dinwiddie, Fauquier, Louisa, Lunenburg, Madison, Nottoway, Orange, and Rappahannock Counties, Virginia; and Howard and Montgomery Counties, Maryland, on the maps in this entry.
 
