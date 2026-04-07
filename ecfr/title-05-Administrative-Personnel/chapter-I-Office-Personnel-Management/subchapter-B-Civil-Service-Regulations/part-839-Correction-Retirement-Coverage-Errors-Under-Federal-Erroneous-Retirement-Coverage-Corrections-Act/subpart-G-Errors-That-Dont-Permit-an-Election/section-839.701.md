@@ -1,6 +1,6 @@
 ##### § 839.701 Is it correct that even though I had a qualifying retirement coverage error under the FERCCA, I may not have a choice of retirement coverage?
 
-Under the FERCCA, the types of retirement coverage errors listed in § 839.241 trigger a right to make a retirement coverage election. The following chart summarizes the types of errors that do not trigger an election right:
+Under the FERCCA, the types of retirement coverage errors listed in § 839.241 trigger a right to make a retirement coverage election. The following chart summarizes the types of errors that do not trigger an election right: 
 
 | You are in:          | And you   belong in: | Your   coverage must be   corrected to: |
 | -------------------- | -------------------- | --------------------------------------- |

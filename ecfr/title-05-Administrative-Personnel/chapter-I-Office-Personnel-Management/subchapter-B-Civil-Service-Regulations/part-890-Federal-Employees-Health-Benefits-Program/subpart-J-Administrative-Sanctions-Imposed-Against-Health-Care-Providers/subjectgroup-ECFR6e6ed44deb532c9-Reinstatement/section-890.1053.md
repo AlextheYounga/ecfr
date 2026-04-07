@@ -1,6 +1,6 @@
 ##### § 890.1053 Table of procedures and effective dates for reinstatements.
 
-The procedures and effective dates for reinstatements under this subpart are:
+The procedures and effective dates for reinstatements under this subpart are: 
 
 | Basis for debarment                                     | Application required? | Effective date                    |
 | ------------------------------------------------------- | --------------------- | --------------------------------- |

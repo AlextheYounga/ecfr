@@ -1,6 +1,6 @@
 ##### § 532.315 Additional survey jobs.
 
-(a) For appropriated fund surveys, when the lead agency adds to the industries to be surveyed, it shall add to the required survey jobs the specialized survey jobs listed below opposite the industry added:
+(a) For appropriated fund surveys, when the lead agency adds to the industries to be surveyed, it shall add to the required survey jobs the specialized survey jobs listed below opposite the industry added: 
 
 | Specialized industry          | Specialized survey jobs                                                | Grade |
 | ----------------------------- | ---------------------------------------------------------------------- | ----- |
@@ -55,6 +55,6 @@
 |                               | Electronic Fire Control Systems Repairer                               | WG-13 |
 | Small arms                    | Small Arms Repairer                                                    | WG-8  |
 
-(b) For nonappropriated fund surveys, a lead agency must obtain prior approval of OPM to add a job not listed in § 532.223 of this subpart.
+(b) For nonappropriated fund surveys, a lead agency must obtain prior approval of OPM to add a job not listed in § 532.223 of this subpart. 
 
 \[55 FR 46180, Nov. 1, 1990\]

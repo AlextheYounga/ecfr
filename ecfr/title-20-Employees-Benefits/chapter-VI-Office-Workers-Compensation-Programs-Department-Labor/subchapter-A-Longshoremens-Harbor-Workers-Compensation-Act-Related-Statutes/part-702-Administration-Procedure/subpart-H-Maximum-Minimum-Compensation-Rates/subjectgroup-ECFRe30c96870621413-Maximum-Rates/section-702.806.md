@@ -1,12 +1,12 @@
 ##### § 702.806 What weekly maximum rates apply to compensation for permanent total disability?
 
-(a) The maximum rate in effect on the date that the employee became totally and permanently disabled applies to all compensation payable for permanent total disability during that fiscal year.
+(a) The maximum rate in effect on the date that the employee became totally and permanently disabled applies to all compensation payable for permanent total disability during that fiscal year. 
 
-(b) For all periods the employee is permanently and totally disabled in subsequent fiscal years, the weekly compensation payable is subject to each subsequent year's maximum rate.
+(b) For all periods the employee is permanently and totally disabled in subsequent fiscal years, the weekly compensation payable is subject to each subsequent year's maximum rate. 
 
-(c) If a claimant is receiving compensation for permanent total disability at the maximum rate for the current fiscal year, but the next fiscal year's maximum rate will be higher than the claimant's calculated compensation rate, the claimant's compensation for the next fiscal year will increase by the amount of the 10(f) adjustment, subject to the maximum rate for the next fiscal year.
+(c) If a claimant is receiving compensation for permanent total disability at the maximum rate for the current fiscal year, but the next fiscal year's maximum rate will be higher than the claimant's calculated compensation rate, the claimant's compensation for the next fiscal year will increase by the amount of the 10(f) adjustment, subject to the maximum rate for the next fiscal year. 
 
-(d) Examples:
+(d) Examples: 
 
 (1) Employee *A* suffers a covered workplace injury on April 1, 2000, and is permanently and totally disabled from that date forward. *A's* compensation for the period from April 1, 2000, until September 30, 2000, is subject to the FY 2000 maximum rate. Beginning October 1, 2000, *A's* compensation for FY 2001 is subject to the FY 2001 maximum rate, compensation for FY 2002 is subject to the FY 2002 maximum rate, *etc.*
 

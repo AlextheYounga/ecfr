@@ -1,6 +1,6 @@
 ##### § 532.217 Appropriated fund survey jobs.
 
-(a) A lead agency shall survey the following required jobs:
+(a) A lead agency shall survey the following required jobs: 
 
 | Job title                            | Job grade |
 | ------------------------------------ | --------- |
@@ -26,9 +26,9 @@
 | Electronics Mechanic                 | 11        |
 | Toolmaker                            | 13        |
 
-(b) A lead agency may not omit a required survey job from a regular schedule wage survey.
+(b) A lead agency may not omit a required survey job from a regular schedule wage survey. 
 
-(c) A lead agency may survey the following jobs on an optional basis:
+(c) A lead agency may survey the following jobs on an optional basis: 
 
 | Job title                               | Job grade |
 | --------------------------------------- | --------- |
@@ -67,7 +67,7 @@
 | Television Station Mechanic             | 11        |
 | Maintenance Mechanic                    | 10        |
 
-(d) A lead agency may add the following survey jobs to the survey when the Hospital industry is included in the survey:
+(d) A lead agency may add the following survey jobs to the survey when the Hospital industry is included in the survey: 
 
 | Job title           | Job grade |
 | ------------------- | --------- |
@@ -75,6 +75,6 @@
 | Food Service Worker | 2         |
 | Cook                | 8         |
 
-(e) A lead agency must obtain prior approval of OPM to add a job not authorized under paragraph (a), (c), or (d) of this section.
+(e) A lead agency must obtain prior approval of OPM to add a job not authorized under paragraph (a), (c), or (d) of this section. 
 
 \[55 FR 46142, Nov. 1, 1990, as amended at 64 FR 69183, Dec. 10, 1999; 68 FR 460, Jan. 6, 2003; 69 FR 26475, May 13, 2004\]

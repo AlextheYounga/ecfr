@@ -2,7 +2,7 @@
 
 (a) No agency will be designated as the alternative agency pursuant to this subpart if the agency includes an employee who:
 
-(1) Served on the administrative or program staff of the Indian tribal grantee described under section 646(e)(1)(A) of the Act; and
+(1) Served on the administrative or program staff of the Indian tribal grant recipient described under section 646(e)(1)(A) of the Act; and
 
 (2) Was responsible for a deficiency that:
 

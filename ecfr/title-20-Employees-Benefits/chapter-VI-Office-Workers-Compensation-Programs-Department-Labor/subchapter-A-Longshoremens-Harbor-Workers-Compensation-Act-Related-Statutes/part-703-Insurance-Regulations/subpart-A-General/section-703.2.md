@@ -1,6 +1,6 @@
 ##### § 703.2 Forms.
 
-(a) Any information required by the regulations in this part to be submitted to OWCP must be submitted on forms the Director authorizes from time to time for such purpose. Persons submitting forms may not modify the forms or use substitute forms without OWCP's approval. These forms must be submitted, sent, or filed in the manner prescribed by OWCP.
+(a) Any information required by the regulations in this part to be submitted to OWCP must be submitted on forms the Director authorizes from time to time for such purpose. Persons submitting forms may not modify the forms or use substitute forms without OWCP's approval. These forms must be submitted, sent, or filed in the manner prescribed by OWCP. 
 
 | Form No.      | Title                                           |
 | ------------- | ----------------------------------------------- |

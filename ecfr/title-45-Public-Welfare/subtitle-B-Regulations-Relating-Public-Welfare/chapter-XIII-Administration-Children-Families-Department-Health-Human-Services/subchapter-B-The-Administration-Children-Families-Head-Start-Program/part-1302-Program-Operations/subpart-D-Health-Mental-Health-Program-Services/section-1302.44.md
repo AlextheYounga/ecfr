@@ -22,4 +22,6 @@
 
 (ix) Make safe drinking water available to children during the program day.
 
-(b) *Payment sources.* A program must use funds from USDA Food, Nutrition, and Consumer Services child nutrition programs as the primary source of payment for meal services. Early Head Start and Head Start funds may be used to cover those allowable costs not covered by the USDA.
+(b) *Payment sources.* A program must use funds from USDA Food, Nutrition, and Consumer Services Child Nutrition programs as the primary source of payment for meal services. Head Start funds may be used to cover those allowable costs not covered by the USDA.
+
+\[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67810, Aug. 21, 2024\]

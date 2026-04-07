@@ -1,23 +1,23 @@
 ##### § 890.114 Surprise billing and transparency.
 
-(a) A carrier must comply with requirements described in 26 CFR 54.9816-3T through 54.9816-6T, 54.9816-8T, 54.9817-1T, 54.9817-2T, 54.9822-1T, and 54.9825-3T through 6T; 29 CFR 2590.716-3 through 2590.716-6, 2590.716-8, 2590.717-1, 2590.717-2, 2590.722, 2590.725-1 through 2590.725-4; and 45 CFR 149.30, 149.110 through 149.140, 149.310, 149.510 and 520, and 149.710 through 149.740 in the same manner as such provisions apply to a group health plan or health insurance issuer offering group or individual health insurance coverage, subject to 5 U.S.C. 8902(m)(1), and the provisions of the carrier's contract. For purposes of application of such sections, all carriers are deemed to offer health benefits in the large group market.
+(a) A carrier must comply with requirements described in 26 CFR 54.9816-3T through 54.9816-6T, 54.9816-8T, 54.9817-1T, 54.9817-2T, 54.9822-1T, and 54.9825-3T through 6T; 29 CFR 2590.716-3 through 2590.716-6, 2590.716-8, 2590.717-1, 2590.717-2, 2590.722, 2590.725-1 through 2590.725-4; and 45 CFR 149.30, 149.110 through 149.140, 149.310, 149.510 and 520, and 149.710 through 149.740 in the same manner as such provisions apply to a group health plan or health insurance issuer offering group or individual health insurance coverage, subject to 5 U.S.C. 8902(m)(1), and the provisions of the carrier's contract. For purposes of application of such sections, all carriers are deemed to offer health benefits in the large group market. 
 
-(b) For purposes of the provisions referenced in paragraph (a) of this section:
+(b) For purposes of the provisions referenced in paragraph (a) of this section: 
 
-*Group health plan or plan* shall mean a “health benefits plan” defined at 5 U.S.C. 8901(6), which is a Federal governmental plan offered pursuant to 5 U.S.C. chapter 89.
+*Group health plan or plan* shall mean a “health benefits plan” defined at 5 U.S.C. 8901(6), which is a Federal governmental plan offered pursuant to 5 U.S.C. chapter 89. 
 
-*Health insurance issuer or issuer* shall include a carrier defined at 5 U.S.C. 8901(7). Where the carrier for a health benefits plan is a voluntary association, an association of organizations or entities, or is otherwise comprised of multiple entities, each entity is responsible for compliance in the same manner as such sections apply to group health plans and issuers. If and to the extent an entity offering a health benefits plan under 5 U.S.C. chapter 89 is licensed under state law and is properly considered an issuer as defined at section 2791 of the Public Health Service Act, the entity is considered a carrier to the extent of its FEHB health benefits plan contractual and regulatory compliance.
+*Health insurance issuer or issuer* shall include a carrier defined at 5 U.S.C. 8901(7). Where the carrier for a health benefits plan is a voluntary association, an association of organizations or entities, or is otherwise comprised of multiple entities, each entity is responsible for compliance in the same manner as such sections apply to group health plans and issuers. If and to the extent an entity offering a health benefits plan under 5 U.S.C. chapter 89 is licensed under state law and is properly considered an issuer as defined at section 2791 of the Public Health Service Act, the entity is considered a carrier to the extent of its FEHB health benefits plan contractual and regulatory compliance. 
 
-*Participant, beneficiary, or enrollee* shall include an “enrollee” or “covered individual” as defined by 5 CFR 890.101, as appropriate.
+*Participant, beneficiary, or enrollee* shall include an “enrollee” or “covered individual” as defined by 5 CFR 890.101, as appropriate. 
 
-(c) When a complaint challenges a carrier's action or inaction with respect to the surprise billing provisions, OPM will coordinate with the Departments of Health and Human Services, Labor, and the Treasury to resolve the complaint.
+(c) When a complaint challenges a carrier's action or inaction with respect to the surprise billing provisions, OPM will coordinate with the Departments of Health and Human Services, Labor, and the Treasury to resolve the complaint. 
 
-(d)(1) In addition to notification to the Department per 26 CFR 54.9816-8T(b)(2)(iii), 29 CFR 2590.716-8(b)(2)(iii), and 45 CFR 149.510(b)(2)(iii), a carrier must notify the Director of its initiation of the Federal IDR process, or its receipt of written notice that a provider, facility, or provider of air ambulance services has initiated the Federal IDR process, upon sending or receiving such notice.
+(d)(1) In addition to notification to the Department per 26 CFR 54.9816-8T(b)(2)(iii), 29 CFR 2590.716-8(b)(2)(iii), and 45 CFR 149.510(b)(2)(iii), a carrier must notify the Director of its initiation of the Federal IDR process, or its receipt of written notice that a provider, facility, or provider of air ambulance services has initiated the Federal IDR process, upon sending or receiving such notice. 
 
-(2) The Director will coordinate with the Departments in resolving matters under 26 CFR 54.9816-8T(c)(4)(vii)(A)(*1*), 29 CFR 2590.716-8(c)(4)(vii)(A)(*1*), or 45 CFR 149.510(c)(4)(vii)(A)(*1*) where fraud or material misrepresentation are presented, and matters involving 26 CFR 54.9816-8T(c)(4)(vii)(A)(*2*), 29 CFR 2590.716-8(c)(4)(vii)(A)(*2*), and 45 CFR 149.510(c)(4)(vii)(A)(*2*). The Director will coordinate with the Departments in oversight of reports submitted by certified IDR entities with respect to carriers pursuant to 26 CFR 54.9816-8T(f), 29 CFR 2590.716-8(f), or 45 CFR 149.510(f).
+(2) The Director will coordinate with the Departments in resolving matters under 26 CFR 54.9816-8T(c)(4)(vii)(A)(*1*), 29 CFR 2590.716-8(c)(4)(vii)(A)(*1*), or 45 CFR 149.510(c)(4)(vii)(A)(*1*) where fraud or material misrepresentation are presented, and matters involving 26 CFR 54.9816-8T(c)(4)(vii)(A)(*2*), 29 CFR 2590.716-8(c)(4)(vii)(A)(*2*), and 45 CFR 149.510(c)(4)(vii)(A)(*2*). The Director will coordinate with the Departments in oversight of reports submitted by certified IDR entities with respect to carriers pursuant to 26 CFR 54.9816-8T(f), 29 CFR 2590.716-8(f), or 45 CFR 149.510(f). 
 
-(e) \[Reserved\]
+(e) \[Reserved\] 
 
-(f) The Director will coordinate with the Departments in oversight of prescription drug and health care spending with respect to FEHB carriers pursuant to 45 CFR 149.710 through 149.740.
+(f) The Director will coordinate with the Departments in oversight of prescription drug and health care spending with respect to FEHB carriers pursuant to 45 CFR 149.710 through 149.740. 
 
 \[86 FR 36947, July 13, 2021, as amended at 86 FR 56092, Oct. 7, 2021; 86 FR 66696, Nov. 23, 2021\]

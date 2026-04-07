@@ -1,8 +1,8 @@
 ##### § 6.1 Authority to except positions from the competitive service.
 
-(a) OPM may except positions from the competitive service when it determines that (A) appointments thereto through competitive examination are not practicable, or (B) recruitment from among students attending qualifying educational institutions or individuals who have recently completed qualifying educational programs can better be achieved by devising additional means for recruiting and assessing candidates that diverge from the processes generally applicable to the competitive service. These positions shall be listed in OPM's annual report for the fiscal year in which the exceptions are made.
+(a) OPM may except positions from the competitive service when it determines that (A) appointments thereto through competitive examination are not practicable, or (B) recruitment from among students attending qualifying educational institutions or individuals who have recently completed qualifying educational programs can better be achieved by devising additional means for recruiting and assessing candidates that diverge from the processes generally applicable to the competitive service. These positions shall be listed in OPM's annual report for the fiscal year in which the exceptions are made. 
 
-(b) OPM shall decide whether the duties of any particular position are such that it may be filled as an excepted position under the appropriate schedule.
+(b) OPM shall decide whether the duties of any particular position are such that it may be filled as an excepted position under the appropriate schedule. 
 
 (c) Notice of OPM's decision granting authority to make appointments to an excepted position under the appropriate schedule shall be published in the Federal Register.
 

@@ -1,6 +1,6 @@
 ##### § 630.605 Computation of home leave.
 
-(a) For each month of service abroad, an employee earns home leave under the rates fixed by § 630.604(a) in the amounts set forth in the following table:
+(a) For each month of service abroad, an employee earns home leave under the rates fixed by § 630.604(a) in the amounts set forth in the following table: 
 
 Home Leave-Earning Table
 

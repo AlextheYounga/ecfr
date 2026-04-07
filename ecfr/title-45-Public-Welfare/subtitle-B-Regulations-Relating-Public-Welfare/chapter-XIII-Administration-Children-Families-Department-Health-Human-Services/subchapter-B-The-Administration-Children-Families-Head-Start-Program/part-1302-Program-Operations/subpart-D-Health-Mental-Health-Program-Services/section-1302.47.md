@@ -64,17 +64,17 @@
 
 (ii) *Staff without regular child contact.* All staff with no regular responsibility for or contact with children have initial orientation training within three months of hire; ongoing training in all state, local, tribal, federal and program-developed health and safety requirements applicable to their work; and training in the program's emergency and disaster preparedness procedures.
 
-(5) *Safety practices.* All staff and consultants follow appropriate practices to keep children safe during all activities, including, at a minimum:
+(5) *Safety practices.* All staff, consultants, contractors, and volunteers follow appropriate practices to keep children safe during all activities, including, at a minimum:
 
-(i) Reporting of suspected or known child abuse and neglect, including that staff comply with applicable federal, state, local, and tribal laws;
+(i) Reporting of suspected or known child abuse and neglect, as defined by the Federal Child Abuse Prevention and Treatment Act (CAPTA) (42 U.S.C. 5101 note), including that staff comply with applicable Federal, State, local, and Tribal laws;
 
 (ii) Safe sleep practices, including ensuring that all sleeping arrangements for children under 18 months of age use firm mattresses or cots, as appropriate, and for children under 12 months, soft bedding materials or toys must not be used;
 
-(iii) Appropriate indoor and outdoor supervision of children at all times;
+(iii) Appropriate supervision of children at all times;
 
 (iv) Only releasing children to an authorized adult; and
 
-(v) All standards of conduct described in § 1302.90(c);
+(v) All standards of conduct described in § 1302.90(c)(1)(ii).
 
 (6) *Hygiene practices.* All staff systematically and routinely implement hygiene practices that at a minimum ensure:
 
@@ -102,6 +102,8 @@
 
 (9) *COVID-19 mitigation policy.* The program has an evidence-based COVID-19 mitigation policy developed in consultation with their Health Services Advisory Committee (HSAC) that can be scaled up or down based on the impact of COVID-19 in the community to protect staff, children, and families from COVID-19 infection.
 
+(10) *Exposure to lead in water and paint prevention practices.* A program must develop a plan to prevent children from being exposed to lead in water and paint in Head Start facilities. In facilities where lead may exist, a program must implement ongoing practices, including testing and inspection at least every two years, with support from trained professionals. As needed, a program must pursue remediation or abatement to prevent lead exposure.
+
 (c) A program must report any safety incidents in accordance with § 1302.102(d)(1)(ii).
 
-\[81 FR 61412, Sept. 6, 2016, as amended at 86 FR 68101, Nov. 30, 2021; 88 FR 1008, Jan. 6, 2023\]
+\[81 FR 61412, Sept. 6, 2016, as amended at 86 FR 68101, Nov. 30, 2021; 88 FR 1008, Jan. 6, 2023; 89 FR 67811, Aug. 21, 2024\]

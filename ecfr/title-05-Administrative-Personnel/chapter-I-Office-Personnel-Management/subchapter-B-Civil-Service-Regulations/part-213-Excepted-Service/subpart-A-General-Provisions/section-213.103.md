@@ -1,6 +1,6 @@
 ##### § 213.103 Publication of excepted appointing authorities in Schedules A, B, C, and D.
 
-(a) Schedule A, B, C, and D appointing authorities available for use by all agencies will be published as regulations in the Federal Register and the Code of Federal Regulations.
+(a) Schedule A, B, C, and D appointing authorities available for use by all agencies will be published as regulations in the Federal Register and the Code of Federal Regulations. 
 
 (b) Establishment and revocation of Schedule A, B, and C appointing authorities applicable to a single agency shall be published monthly in the Notices section of the Federal Register.
 

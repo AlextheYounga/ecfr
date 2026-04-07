@@ -1,6 +1,6 @@
 ##### § 532.225 Nonappropriated fund survey jobs.
 
-(a) A lead agency shall survey the following required jobs:
+(a) A lead agency shall survey the following required jobs: 
 
 | Job title                             | Job grade |
 | ------------------------------------- | --------- |
@@ -26,9 +26,9 @@
 | Automotive Mechanic                   | 10        |
 | Electrician                           | 10        |
 
-(b) A lead agency may not omit a required survey job from a regular schedule wage survey.
+(b) A lead agency may not omit a required survey job from a regular schedule wage survey. 
 
-(c) A lead agency may survey the following jobs on an optional basis:
+(c) A lead agency may survey the following jobs on an optional basis: 
 
 | Job title                           | Job grade |
 | ----------------------------------- | --------- |
@@ -44,6 +44,6 @@
 | Truck Driver (Trailer)              | 8         |
 | Air Conditioning Equipment Mechanic | 10        |
 
-(d) A lead agency must obtain prior approval of OPM to add a job not listed under paragraph (a) or (c) of this section.
+(d) A lead agency must obtain prior approval of OPM to add a job not listed under paragraph (a) or (c) of this section. 
 
 \[55 FR 46143, Nov. 1, 1990\]

@@ -8,16 +8,20 @@
 
 (ii) Discuss their child's nutritional status with staff, including the importance of physical activity, healthy eating, and the negative health consequences of sugar-sweetened beverages, and how to select and prepare nutritious foods that meet the family's nutrition and food budget needs;
 
-(iii) Learn about healthy pregnancy and postpartum care, as appropriate, including breastfeeding support and treatment options for parental mental health or substance abuse problems, including perinatal depression;
+(iii) Learn about healthy pregnancy and postpartum care, as appropriate, including breastfeeding support and treatment options for parental mental health, including depression, anxiety, and substance use concerns;
 
-(iv) Discuss with staff and identify issues related to child mental health and social and emotional well-being, including observations and any concerns about their child's mental health, typical and atypical behavior and development, and how to appropriately respond to their child and promote their child's social and emotional development; and,
+(iv) Discuss information related to their child's mental health with staff, including typical and atypical behavior and development, and how to appropriately respond to their child and promote their child's social and emotional development; and,
 
 (v) Learn about appropriate vehicle and pedestrian safety for keeping children safe.
 
-(2) A program must provide ongoing support to assist parents' navigation through health systems to meet the general health and specifically identified needs of their children and must assist parents:
+(2) A program must provide ongoing support to assist parents' navigation through health and mental health systems to meet the general health and specifically identified needs of their children and must assist parents:
 
 (i) In understanding how to access health insurance for themselves and their families, including information about private and public health insurance and designated enrollment periods;
 
-(ii) In understanding the results of diagnostic and treatment procedures as well as plans for ongoing care; and,
+(ii) In understanding the results of diagnostic and treatment procedures as well as plans for ongoing care;
 
-(iii) In familiarizing their children with services they will receive while enrolled in the program and to enroll and participate in a system of ongoing family health care.
+(iii) In familiarizing their children with services they will receive while enrolled in the program and to enroll and participate in a system of ongoing family health care; and
+
+(iv) In providing information about how to access mental health services for young children and their families, including referrals if appropriate.
+
+\[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67811, Aug. 21, 2024\]
