@@ -1,10 +1,10 @@
 ##### § 1.668(a)-2 Allocation among beneficiaries; in general.
 
-The portion of the total amount includible in gross income under § 1.668 (a)-1 which is includible in the gross income of a particular beneficiary is based upon the ratio determined under the second sentence of section 662(a)(2) for the taxable year (and not for the preceding taxable year). This section may be illustrated by the following example: 
+The portion of the total amount includible in gross income under § 1.668 (a)-1 which is includible in the gross income of a particular beneficiary is based upon the ratio determined under the second sentence of section 662(a)(2) for the taxable year (and not for the preceding taxable year). This section may be illustrated by the following example:
 
 Example.(a) Under the terms of a trust instrument, the trustee may accumulate the income or make distributions to A and B. The trustee may also invade corpus for the benefit of A and B. The distributable net income of the trust for the taxable year 1955 is $10,000. The trust had undistributed net income for the taxable year 1954 of $5,000, to which a tax of $1,100 was allocable. During the taxable year 1955, the trustee distributes $10,000 to A and $5,000 to B. Thus, of the total distribution of $15,000, A received two-thirds and B received one-third.
 
-(b) For the purposes of determining the amounts includible in the beneficiaries' gross income for 1955, the trust is deemed to have made the following distributions: 
+(b) For the purposes of determining the amounts includible in the beneficiaries' gross income for 1955, the trust is deemed to have made the following distributions:
 
 | Amount distributed out of 1955 income (distributable net income)                                       | $10,000 |
 | Accumulation distribution deemed distributed by the trust on the last day of 1954 under section 666(a) | 5,000   |

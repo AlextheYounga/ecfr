@@ -1,12 +1,12 @@
 ##### § 1.411(a)-3T Vesting in employer-derived benefits (temporary).
 
-(a) *In general*—(1) \[Reserved\] 
+(a) *In general*—(1) \[Reserved\]
 
-(2) *Composite arrangements.* A plan will not be considered to satisfy the requirements of paragraph (b), (c), or (d) of this section unless it satisfies all requirements of a particular one of such paragraphs with respect to all of an employee's years of service. A plan which, for example, satisfies the requirements of paragraph (b) (but not (c) or (d)) for an employee's first 4 years of service and satisfies the requirements of paragraph (c) (but not (b)) for all of his remaining years of service does not satisfy the requirements of this section. A plan is not precluded from satisfying the requirements of one such paragraph with respect to one group of employees and another such paragraph with respect to another group provided that the groups are not so structured as to evade the requirements of this paragraph. 
+(2) *Composite arrangements.* A plan will not be considered to satisfy the requirements of paragraph (b), (c), or (d) of this section unless it satisfies all requirements of a particular one of such paragraphs with respect to all of an employee's years of service. A plan which, for example, satisfies the requirements of paragraph (b) (but not (c) or (d)) for an employee's first 4 years of service and satisfies the requirements of paragraph (c) (but not (b)) for all of his remaining years of service does not satisfy the requirements of this section. A plan is not precluded from satisfying the requirements of one such paragraph with respect to one group of employees and another such paragraph with respect to another group provided that the groups are not so structured as to evade the requirements of this paragraph.
 
-(b) *5-year vesting.* A plan satisfies the requirements of section 411(a)(2)(A) and this paragraph if an employee who has completed 5 years of service has a nonforfeitable right to 100 percent of his or her accrued benefits derived from employer contributions. 
+(b) *5-year vesting.* A plan satisfies the requirements of section 411(a)(2)(A) and this paragraph if an employee who has completed 5 years of service has a nonforfeitable right to 100 percent of his or her accrued benefits derived from employer contributions.
 
-(c) *3- to 7-year vesting.* A plan satisfies the requirements of section 411(a)(2)(B) and this paragraph if an employee who has completed at least 3 years of service has a nonforfeitable right to a percentage of his accrued benefit derived from employer contributions, which percentage is not less than the nonforfeitable percentage determined under the following table: 
+(c) *3- to 7-year vesting.* A plan satisfies the requirements of section 411(a)(2)(B) and this paragraph if an employee who has completed at least 3 years of service has a nonforfeitable right to a percentage of his accrued benefit derived from employer contributions, which percentage is not less than the nonforfeitable percentage determined under the following table:
 
 | Completed years of service | Nonforfeitable percentage |
 | -------------------------- | ------------------------- |
@@ -16,35 +16,35 @@
 | 6                          | 80                        |
 | 7 or more                  | 100                       |
 
-(d) *Multiemployer plans.* A plan satisfies the requirements of section 411(a)(2)(C) and this paragraph if— 
+(d) *Multiemployer plans.* A plan satisfies the requirements of section 411(a)(2)(C) and this paragraph if—
 
-(1) The plan is a multiemployer plan (within the meaning of section 414(f)), and 
+(1) The plan is a multiemployer plan (within the meaning of section 414(f)), and
 
-(2) Under the plan— 
+(2) Under the plan—
 
-(i) An employee who is covered pursuant to a collective bargaining agreement described in section 414(f)(1)(B) has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions not later than upon completion of 10 years of service, and 
+(i) An employee who is covered pursuant to a collective bargaining agreement described in section 414(f)(1)(B) has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions not later than upon completion of 10 years of service, and
 
-(ii) The requirements of paragraph (b) or (c) of this section are met with respect to employees who are not covered pursuant to a collective bargaining agreement described in section 414(f)(1)(B). 
+(ii) The requirements of paragraph (b) or (c) of this section are met with respect to employees who are not covered pursuant to a collective bargaining agreement described in section 414(f)(1)(B).
 
-(iii) For purposes of this provision, an employee is not covered pursuant to a collective bargaining agreement unless the employee is represented by a bona fide employee representative that is a party to the collective bargaining agreement pursuant to which the multiemployer plan is maintained. Thus, for example, an employee of either the multiemployer plan or the employee representative is not covered pursuant to the collective bargaining agreement under which the plan is maintained even if the employee is covered pursuant to an agreement entered into by the multiemployer plan or employee representative on behalf of the employee and even if all such employees covered under the plan constitute only a de minimis percentage of the total employees covered under the plan. 
+(iii) For purposes of this provision, an employee is not covered pursuant to a collective bargaining agreement unless the employee is represented by a bona fide employee representative that is a party to the collective bargaining agreement pursuant to which the multiemployer plan is maintained. Thus, for example, an employee of either the multiemployer plan or the employee representative is not covered pursuant to the collective bargaining agreement under which the plan is maintained even if the employee is covered pursuant to an agreement entered into by the multiemployer plan or employee representative on behalf of the employee and even if all such employees covered under the plan constitute only a de minimis percentage of the total employees covered under the plan.
 
-(e) *Effective date.* (1) The provisions of this section apply to all employees who have one hour of service in any plan year beginning after— 
+(e) *Effective date.* (1) The provisions of this section apply to all employees who have one hour of service in any plan year beginning after—
 
-(i) December 31, 1988, or 
+(i) December 31, 1988, or
 
-(ii) In the case of a plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified before March 1, 1986, for employees covered by any such agreement, the earlier of— 
+(ii) In the case of a plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified before March 1, 1986, for employees covered by any such agreement, the earlier of—
 
-(A) The later of— 
+(A) The later of—
 
-(*1*) January 1, 1989, or 
+(*1*) January 1, 1989, or
 
-(*2*) The date on which the last of such collective bargaining agreements terminates (determined without regard to any extension thereof after February 28, 1986), or 
+(*2*) The date on which the last of such collective bargaining agreements terminates (determined without regard to any extension thereof after February 28, 1986), or
 
-(B) January 1, 1991. 
+(B) January 1, 1991.
 
-(2) For employees not described in paragraph (e)(1), above, the regulations in effect prior to January 1, 1989, shall be applied to determine the requirements of this section. 
+(2) For employees not described in paragraph (e)(1), above, the regulations in effect prior to January 1, 1989, shall be applied to determine the requirements of this section.
 
-(f) *Examples.* The rules provided by this section are illustrated by the following examples: 
+(f) *Examples.* The rules provided by this section are illustrated by the following examples:
 
 Example 1.Plan B provides that each employee's rights to his employer-derived accrued benefit are nonforfeitable as follows:
 

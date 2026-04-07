@@ -1,1608 +1,1608 @@
 ##### § 1.263A-0 Outline of regulations under section 263A.
 
-This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.263A-7 through 1.263A-15 as follows: 
+This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.263A-7 through 1.263A-15 as follows:
 
 § 1.263A-1 Uniform Capitalization of Costs.
 
-(a) Introduction. 
+(a) Introduction.
 
-(1) In general. 
+(1) In general.
 
-(2) Effective dates. 
+(2) Effective dates.
 
-(3) General scope. 
+(3) General scope.
 
-(i) Property to which section 263A applies. 
+(i) Property to which section 263A applies.
 
-(ii) Property produced. 
+(ii) Property produced.
 
-(iii) Property acquired for resale. 
+(iii) Property acquired for resale.
 
-(iv) Inventories valued at market. 
+(iv) Inventories valued at market.
 
-(v) Property produced in a farming business. 
+(v) Property produced in a farming business.
 
-(vi) Creative property. 
+(vi) Creative property.
 
-(vii) Property produced or property acquired for resale by foreign persons. 
+(vii) Property produced or property acquired for resale by foreign persons.
 
-(b) Exceptions. 
+(b) Exceptions.
 
-(1) Small business taxpayers. 
+(1) Small business taxpayers.
 
-(2) Long-term contracts. 
+(2) Long-term contracts.
 
-(3) Costs incurred in certain farming businesses. 
+(3) Costs incurred in certain farming businesses.
 
-(4) Costs incurred in raising, harvesting, or growing timber. 
+(4) Costs incurred in raising, harvesting, or growing timber.
 
-(5) Qualified creative expenses. 
+(5) Qualified creative expenses.
 
-(6) Certain not-for-profit activities. 
+(6) Certain not-for-profit activities.
 
-(7) Intangible drilling and development costs. 
+(7) Intangible drilling and development costs.
 
-(8) Natural gas acquired for resale. 
+(8) Natural gas acquired for resale.
 
-(i) Cushion gas. 
+(i) Cushion gas.
 
-(ii) Emergency gas. 
+(ii) Emergency gas.
 
-(9) Research and experimental expenditures. 
+(9) Research and experimental expenditures.
 
-(10) Certain property that is substantially constructed. 
+(10) Certain property that is substantially constructed.
 
-(11) Certain property provided incident to services. 
+(11) Certain property provided incident to services.
 
-(i) In general. 
+(i) In general.
 
-(ii) Definition of services. 
+(ii) Definition of services.
 
-(iii) De minimis property provided incident to services. 
+(iii) De minimis property provided incident to services.
 
-(12) De minimis rule for certain producers with total indirect costs of $200,000 or less. 
+(12) De minimis rule for certain producers with total indirect costs of $200,000 or less.
 
-(13) Exception for the origination of loans. 
+(13) Exception for the origination of loans.
 
-(c) General operation of section 263A. 
+(c) General operation of section 263A.
 
-(1) Allocations. 
+(1) Allocations.
 
-(2) Otherwise deductible. 
+(2) Otherwise deductible.
 
-(3) Capitalize. 
+(3) Capitalize.
 
-(4) Recovery of capitalized costs. 
+(4) Recovery of capitalized costs.
 
-(5) Costs allocable only to property sold. 
+(5) Costs allocable only to property sold.
 
-(d) Definitions. 
+(d) Definitions.
 
-(1) Self-constructed assets. 
+(1) Self-constructed assets.
 
-(2) Section 471 costs. 
+(2) Section 471 costs.
 
-(i) In general. 
+(i) In general.
 
-(ii) Inclusion of direct costs. 
+(ii) Inclusion of direct costs.
 
-(A) In general. 
+(A) In general.
 
-(B) Allocation of direct costs. 
+(B) Allocation of direct costs.
 
-(iii) Alternative method to determine amounts of section 471 costs by using taxpayer's financial statement. 
+(iii) Alternative method to determine amounts of section 471 costs by using taxpayer's financial statement.
 
-(A) In general. 
+(A) In general.
 
-(B) Book-to-tax adjustments. 
+(B) Book-to-tax adjustments.
 
-(C) Exclusion of certain financial statement items. 
+(C) Exclusion of certain financial statement items.
 
-(D) Changes in method of accounting. 
+(D) Changes in method of accounting.
 
-(E) Examples. 
+(E) Examples.
 
-(iv) De minimis rule exceptions for certain direct costs. 
+(iv) De minimis rule exceptions for certain direct costs.
 
-(A) In general. 
+(A) In general.
 
-(B) De minimis rule for certain direct labor costs. 
+(B) De minimis rule for certain direct labor costs.
 
-(C) De minimis rule for certain direct material costs. 
+(C) De minimis rule for certain direct material costs.
 
-(D) Taxpayers using a historic absorption ratio. 
+(D) Taxpayers using a historic absorption ratio.
 
-(E) Examples. 
+(E) Examples.
 
-(v) Safe harbor method for certain variances and under or over-applied burdens. 
+(v) Safe harbor method for certain variances and under or over-applied burdens.
 
-(A) In general. 
+(A) In general.
 
-(B) Consistency requirement. 
+(B) Consistency requirement.
 
-(C) Allocation of variances and under or over-applied burdens between production and preproduction costs under the modified simplified production method. 
+(C) Allocation of variances and under or over-applied burdens between production and preproduction costs under the modified simplified production method.
 
-(D) Allocation of variances and under or over-applied burdens between storage and handling costs absorption ratio and purchasing costs absorption ratio under the simplified resale method. 
+(D) Allocation of variances and under or over-applied burdens between storage and handling costs absorption ratio and purchasing costs absorption ratio under the simplified resale method.
 
-(E) Method of accounting. 
+(E) Method of accounting.
 
-(vi) Removal of section 471 costs. 
+(vi) Removal of section 471 costs.
 
-(vii) Method changes. 
+(vii) Method changes.
 
-(3) Additional section 263A costs. 
+(3) Additional section 263A costs.
 
-(i) In general. 
+(i) In general.
 
-(ii) Negative adjustments. 
+(ii) Negative adjustments.
 
-(A) In general. 
+(A) In general.
 
-(B) Exception for certain taxpayers removing costs from section 471 costs. 
+(B) Exception for certain taxpayers removing costs from section 471 costs.
 
-(C) No negative adjustments for cash or trade discounts. 
+(C) No negative adjustments for cash or trade discounts.
 
-(D) No negative adjustments for certain expenses. 
+(D) No negative adjustments for certain expenses.
 
-(E) Consistency requirement for negative adjustments. 
+(E) Consistency requirement for negative adjustments.
 
-(4) Section 263A costs. 
+(4) Section 263A costs.
 
-(5) Classification of costs. 
+(5) Classification of costs.
 
-(6) Financial statement. 
+(6) Financial statement.
 
-(e) Types of costs subject to capitalization. 
+(e) Types of costs subject to capitalization.
 
-(1) In general. 
+(1) In general.
 
-(2) Direct costs. 
+(2) Direct costs.
 
-(i) Producers. 
+(i) Producers.
 
-(A) Direct material costs. 
+(A) Direct material costs.
 
-(B) Direct labor costs. 
+(B) Direct labor costs.
 
-(ii) Resellers. 
+(ii) Resellers.
 
-(3) Indirect costs. 
+(3) Indirect costs.
 
-(i) In general. 
+(i) In general.
 
-(ii) Examples of indirect costs required to be capitalized. 
+(ii) Examples of indirect costs required to be capitalized.
 
-(A) Indirect labor costs. 
+(A) Indirect labor costs.
 
-(B) Officers' compensation. 
+(B) Officers' compensation.
 
-(C) Pension and other related costs. 
+(C) Pension and other related costs.
 
-(D) Employee benefit expenses. 
+(D) Employee benefit expenses.
 
-(E) Indirect material costs. 
+(E) Indirect material costs.
 
-(F) Purchasing costs. 
+(F) Purchasing costs.
 
-(G) Handling costs. 
+(G) Handling costs.
 
-(H) Storage costs. 
+(H) Storage costs.
 
-(I) Cost recovery. 
+(I) Cost recovery.
 
-(J) Depletion. 
+(J) Depletion.
 
-(K) Rent. 
+(K) Rent.
 
-(L) Taxes. 
+(L) Taxes.
 
-(M) Insurance. 
+(M) Insurance.
 
-(N) Utilities. 
+(N) Utilities.
 
-(O) Repairs and maintenance. 
+(O) Repairs and maintenance.
 
-(P) Engineering and design costs. 
+(P) Engineering and design costs.
 
-(Q) Spoilage. 
+(Q) Spoilage.
 
-(R) Tools and equipment. 
+(R) Tools and equipment.
 
-(S) Quality control. 
+(S) Quality control.
 
-(T) Bidding costs. 
+(T) Bidding costs.
 
-(U) Licensing and franchise costs. 
+(U) Licensing and franchise costs.
 
-(V) Interest. 
+(V) Interest.
 
-(W) Capitalizable service costs. 
+(W) Capitalizable service costs.
 
-(iii) Indirect costs not capitalized. 
+(iii) Indirect costs not capitalized.
 
-(A) Selling and distribution costs. 
+(A) Selling and distribution costs.
 
-(B) Research and experimental expenditures. 
+(B) Research and experimental expenditures.
 
-(C) Section 179 costs. 
+(C) Section 179 costs.
 
-(D) Section 165 losses. 
+(D) Section 165 losses.
 
-(E) Cost recovery allowances on temporarily idle equipment and facilities. 
+(E) Cost recovery allowances on temporarily idle equipment and facilities.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Examples. 
+(*2*) Examples.
 
-(F) Taxes assessed on the basis of income. 
+(F) Taxes assessed on the basis of income.
 
-(G) Strike expenses. 
+(G) Strike expenses.
 
-(H) Warranty and product liability costs. 
+(H) Warranty and product liability costs.
 
-(I) On-site storage costs. 
+(I) On-site storage costs.
 
-(J) Unsuccessful bidding expenses. 
+(J) Unsuccessful bidding expenses.
 
-(K) Deductible service costs. 
+(K) Deductible service costs.
 
-(4) Service costs. 
+(4) Service costs.
 
-(i) Introduction. 
+(i) Introduction.
 
-(A) Definition of service costs. 
+(A) Definition of service costs.
 
-(B) Definition of service departments. 
+(B) Definition of service departments.
 
-(ii) Various service cost categories. 
+(ii) Various service cost categories.
 
-(A) Capitalizable service costs. 
+(A) Capitalizable service costs.
 
-(B) Deductible service costs. 
+(B) Deductible service costs.
 
-(C) Mixed service costs. 
+(C) Mixed service costs.
 
-(iii) Examples of capitalizable service costs. 
+(iii) Examples of capitalizable service costs.
 
-(iv) Examples of deductible service costs. 
+(iv) Examples of deductible service costs.
 
-(f) Cost allocation methods. 
+(f) Cost allocation methods.
 
-(1) Introduction. 
+(1) Introduction.
 
-(2) Specific identification method. 
+(2) Specific identification method.
 
-(3) Burden rate and standard cost methods. 
+(3) Burden rate and standard cost methods.
 
-(i) Burden rate method. 
+(i) Burden rate method.
 
-(A) In general. 
+(A) In general.
 
-(B) Development of burden rates. 
+(B) Development of burden rates.
 
-(C) Operation of the burden rate method. 
+(C) Operation of the burden rate method.
 
-(ii) Standard cost method. 
+(ii) Standard cost method.
 
-(A) In general. 
+(A) In general.
 
-(B) Treatment of variances. 
+(B) Treatment of variances.
 
-(4) Reasonable allocation methods. 
+(4) Reasonable allocation methods.
 
-(g) Allocating categories of costs. 
+(g) Allocating categories of costs.
 
-(1) Direct materials. 
+(1) Direct materials.
 
-(2) Direct labor. 
+(2) Direct labor.
 
-(3) Indirect costs. 
+(3) Indirect costs.
 
-(4) Service costs. 
+(4) Service costs.
 
-(i) In general. 
+(i) In general.
 
-(ii) De minimis rule. 
+(ii) De minimis rule.
 
-(iii) Methods for allocating mixed service costs. 
+(iii) Methods for allocating mixed service costs.
 
-(A) Direct reallocation method. 
+(A) Direct reallocation method.
 
-(B) Step-allocation method. 
+(B) Step-allocation method.
 
-(C) Examples. 
+(C) Examples.
 
-(iv) Illustrations of mixed service cost allocations using reasonable factors or relationships. 
+(iv) Illustrations of mixed service cost allocations using reasonable factors or relationships.
 
-(A) Security services. 
+(A) Security services.
 
-(B) Legal services. 
+(B) Legal services.
 
-(C) Centralized payroll services. 
+(C) Centralized payroll services.
 
-(D) Centralized data processing services. 
+(D) Centralized data processing services.
 
-(E) Engineering and design services. 
+(E) Engineering and design services.
 
-(F) Safety engineering services. 
+(F) Safety engineering services.
 
-(v) Accounting method change. 
+(v) Accounting method change.
 
-(h) Simplified service cost method. 
+(h) Simplified service cost method.
 
-(1) Introduction. 
+(1) Introduction.
 
-(2) Eligible property. 
+(2) Eligible property.
 
-(i) In general. 
+(i) In general.
 
-(A) Inventory property. 
+(A) Inventory property.
 
-(B) Non-inventory property held for sale. 
+(B) Non-inventory property held for sale.
 
-(C) Certain self-constructed assets. 
+(C) Certain self-constructed assets.
 
-(D) Self-constructed assets produced on a repetitive basis. 
+(D) Self-constructed assets produced on a repetitive basis.
 
-(ii) Election to exclude self-constructed assets. 
+(ii) Election to exclude self-constructed assets.
 
-(3) General allocation formula. 
+(3) General allocation formula.
 
-(4) Labor-based allocation ratio. 
+(4) Labor-based allocation ratio.
 
-(5) Production cost allocation ratio. 
+(5) Production cost allocation ratio.
 
-(6) Definition of total mixed service costs. 
+(6) Definition of total mixed service costs.
 
-(7) Costs allocable to more than one business. 
+(7) Costs allocable to more than one business.
 
-(8) De minimis rule. 
+(8) De minimis rule.
 
-(9) Separate election. 
+(9) Separate election.
 
-(i) \[Reserved\] 
+(i) \[Reserved\]
 
-(j) Exemption for certain small business taxpayers. 
+(j) Exemption for certain small business taxpayers.
 
-(1) In general. 
+(1) In general.
 
-(2) Application of the section 448(c) gross receipts test. 
+(2) Application of the section 448(c) gross receipts test.
 
-(i) In general. 
+(i) In general.
 
-(ii) Gross receipts of individuals, etc. 
+(ii) Gross receipts of individuals, etc.
 
-(iii) Partners and S corporation shareholders. 
+(iii) Partners and S corporation shareholders.
 
-(iv) Examples. 
+(iv) Examples.
 
-(A) Example 1 
+(A) Example 1
 
-(B) Example 2 
+(B) Example 2
 
-(3) Change in method of accounting. 
+(3) Change in method of accounting.
 
-(i) In general. 
+(i) In general.
 
-(ii) Prior section 263A method change. 
+(ii) Prior section 263A method change.
 
-(k) Special rules 
+(k) Special rules
 
-(1) Costs provided by a related person. 
+(1) Costs provided by a related person.
 
-(i) In general 
+(i) In general
 
-(ii) Exceptions 
+(ii) Exceptions
 
-(2) Optional capitalization of period costs. 
+(2) Optional capitalization of period costs.
 
-(i) In general. 
+(i) In general.
 
-(ii) Period costs eligible for capitalization. 
+(ii) Period costs eligible for capitalization.
 
-(3) Trade or business application 
+(3) Trade or business application
 
-(4) Transfers with a principal purpose of tax avoidance. \[Reserved\] 
+(4) Transfers with a principal purpose of tax avoidance. \[Reserved\]
 
-(l) Change in method of accounting. 
+(l) Change in method of accounting.
 
-(1) In general. 
+(1) In general.
 
-(2) Scope limitations. 
+(2) Scope limitations.
 
-(3) Audit protection. 
+(3) Audit protection.
 
-(4) Section 481(a) adjustment. 
+(4) Section 481(a) adjustment.
 
-(5) Time for requesting change. 
+(5) Time for requesting change.
 
-(m) Effective/applicability date. 
+(m) Effective/applicability date.
 
-(1) In general. 
+(1) In general.
 
-(2) Mixed service costs; self-constructed tangible personal property produced on a routine and repetitive basis. 
+(2) Mixed service costs; self-constructed tangible personal property produced on a routine and repetitive basis.
 
-(3) Costs allocable to property sold; indirect costs; licensing and franchise costs. 
+(3) Costs allocable to property sold; indirect costs; licensing and franchise costs.
 
-(4) Materials and supplies. 
+(4) Materials and supplies.
 
-(5) Definitions of section 471 costs and additional section 263A costs. 
+(5) Definitions of section 471 costs and additional section 263A costs.
 
-(6) Exemption for certain small business taxpayers. 
+(6) Exemption for certain small business taxpayers.
 
 § 1.263A-2 Rules Relating to Property Produced by the Taxpayer.
 
-(a) In general. 
+(a) In general.
 
-(1) Produce. 
+(1) Produce.
 
-(i) In general. 
+(i) In general.
 
-(ii) Ownership. 
+(ii) Ownership.
 
-(A) General rule. 
+(A) General rule.
 
-(B) Property produced for the taxpayer under a contract. 
+(B) Property produced for the taxpayer under a contract.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Definition of contract. 
+(*2*) Definition of contract.
 
-(C) Home construction contracts. 
+(C) Home construction contracts.
 
-(2) Tangible personal property. 
+(2) Tangible personal property.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Intellectual or creative property. 
+(ii) Intellectual or creative property.
 
-(A) Intellectual or creative property that is tangible personal property. 
+(A) Intellectual or creative property that is tangible personal property.
 
-(*1*) Books. 
+(*1*) Books.
 
-(*2*) Sound recordings. 
+(*2*) Sound recordings.
 
-(B) Intellectual or creative property that is not tangible personal property. 
+(B) Intellectual or creative property that is not tangible personal property.
 
-(*1*) Evidences of value. 
+(*1*) Evidences of value.
 
-(*2*) Property provided incident to services. 
+(*2*) Property provided incident to services.
 
-(3) Costs required to be capitalized by producers. 
+(3) Costs required to be capitalized by producers.
 
-(i) In general. 
+(i) In general.
 
-(ii) Pre-production costs. 
+(ii) Pre-production costs.
 
-(iii) Post-production costs. 
+(iii) Post-production costs.
 
-(4) Practical capacity concept. 
+(4) Practical capacity concept.
 
-(5) Taxpayers required to capitalize costs under this section. 
+(5) Taxpayers required to capitalize costs under this section.
 
-(b) Simplified production method. 
+(b) Simplified production method.
 
-(1) Introduction. 
+(1) Introduction.
 
-(2) Eligible property. 
+(2) Eligible property.
 
-(i) In general. 
+(i) In general.
 
-(A) Inventory property. 
+(A) Inventory property.
 
-(B) Non-inventory property held for sale. 
+(B) Non-inventory property held for sale.
 
-(C) Certain self-constructed assets. 
+(C) Certain self-constructed assets.
 
-(D) Self-constructed assets produced on a repetitive basis. 
+(D) Self-constructed assets produced on a repetitive basis.
 
-(ii) Election to exclude self-constructed assets. 
+(ii) Election to exclude self-constructed assets.
 
-(3) Simplified production method without historic absorption ratio election. 
+(3) Simplified production method without historic absorption ratio election.
 
-(i) General allocation formula. 
+(i) General allocation formula.
 
-(ii) Definitions. 
+(ii) Definitions.
 
-(A) Absorption ratio. 
+(A) Absorption ratio.
 
-(*1*) Additional section 263A costs incurred during the taxable year. 
+(*1*) Additional section 263A costs incurred during the taxable year.
 
-(*2*) Section 471 costs incurred during the taxable year. 
+(*2*) Section 471 costs incurred during the taxable year.
 
-(B) Section 471 costs remaining on hand at year end. 
+(B) Section 471 costs remaining on hand at year end.
 
-(C) Costs allocable only to property sold. 
+(C) Costs allocable only to property sold.
 
-(iii) LIFO taxpayers electing the simplified production method. 
+(iii) LIFO taxpayers electing the simplified production method.
 
-(A) In general. 
+(A) In general.
 
-(B) LIFO increment. 
+(B) LIFO increment.
 
-(C) LIFO decrement. 
+(C) LIFO decrement.
 
-(iv) De minimis rule for producers with total indirect costs of $200,000 or less. 
+(iv) De minimis rule for producers with total indirect costs of $200,000 or less.
 
-(A) In general. 
+(A) In general.
 
-(B) Related party and aggregation rules. 
+(B) Related party and aggregation rules.
 
-(v) Examples. 
+(v) Examples.
 
-(4) Simplified production method with historic absorption ratio election. 
+(4) Simplified production method with historic absorption ratio election.
 
-(i) In general. 
+(i) In general.
 
-(ii) Operating rules and definitions. 
+(ii) Operating rules and definitions.
 
-(A) Historic absorption ratio. 
+(A) Historic absorption ratio.
 
-(B) Test period. 
+(B) Test period.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Updated test period. 
+(*2*) Updated test period.
 
-(C) Qualifying period. 
+(C) Qualifying period.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Extension of qualifying period. 
+(*2*) Extension of qualifying period.
 
-(iii) Method of accounting. 
+(iii) Method of accounting.
 
-(A) Adoption and use. 
+(A) Adoption and use.
 
-(B) Revocation of election. 
+(B) Revocation of election.
 
-(iv) Reporting and recordkeeping requirements. 
+(iv) Reporting and recordkeeping requirements.
 
-(A) Reporting. 
+(A) Reporting.
 
-(B) Recordkeeping. 
+(B) Recordkeeping.
 
-(v) Transition rules. 
+(v) Transition rules.
 
-(A) Transition to elect historic absorption ratio. 
+(A) Transition to elect historic absorption ratio.
 
-(B) Transition to revoke historic absorption ratio. 
+(B) Transition to revoke historic absorption ratio.
 
-(vi) Example. 
+(vi) Example.
 
-(c) Modified simplified production method. 
+(c) Modified simplified production method.
 
-(1) Introduction. 
+(1) Introduction.
 
-(2) Eligible property. 
+(2) Eligible property.
 
-(i) In general. 
+(i) In general.
 
-(ii) Election to exclude self-constructed assets. 
+(ii) Election to exclude self-constructed assets.
 
-(3) Modified simplified production method without historic absorption ratio election. 
+(3) Modified simplified production method without historic absorption ratio election.
 
-(i) General allocation formula. 
+(i) General allocation formula.
 
-(A) In general. 
+(A) In general.
 
-(B) Effect of allocation. 
+(B) Effect of allocation.
 
-(ii) Definitions. 
+(ii) Definitions.
 
-(A) Direct material costs. 
+(A) Direct material costs.
 
-(B) Pre-production absorption ratio. 
+(B) Pre-production absorption ratio.
 
-(*1*) Pre-production additional section 263A costs. 
+(*1*) Pre-production additional section 263A costs.
 
-(*2*) Pre-production section 471 costs. 
+(*2*) Pre-production section 471 costs.
 
-(C) Pre-production section 471 costs remaining on hand at year end. 
+(C) Pre-production section 471 costs remaining on hand at year end.
 
-(D) Production absorption ratio. 
+(D) Production absorption ratio.
 
-(*1*) Production additional section 263A costs. 
+(*1*) Production additional section 263A costs.
 
-(*2*) Residual pre-production additional section 263A costs. 
+(*2*) Residual pre-production additional section 263A costs.
 
-(*3*) Production section 471 costs. 
+(*3*) Production section 471 costs.
 
-(*4*) Direct materials adjustment. 
+(*4*) Direct materials adjustment.
 
-(E) Production section 471 costs remaining on hand at year end. 
+(E) Production section 471 costs remaining on hand at year end.
 
-(F) Costs allocated to property sold. 
+(F) Costs allocated to property sold.
 
-(iii) Allocable mixed service costs. 
+(iii) Allocable mixed service costs.
 
-(A) In general. 
+(A) In general.
 
-(B) Taxpayer using the simplified service cost method. 
+(B) Taxpayer using the simplified service cost method.
 
-(C) De minimis rule. 
+(C) De minimis rule.
 
-(iv) LIFO taxpayers electing the modified simplified production method. 
+(iv) LIFO taxpayers electing the modified simplified production method.
 
-(A) In general. 
+(A) In general.
 
-(B) LIFO increment. 
+(B) LIFO increment.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Combined absorption ratio defined. 
+(*2*) Combined absorption ratio defined.
 
-(C) LIFO decrement. 
+(C) LIFO decrement.
 
-(v) De minimis rule for producers with total indirect costs of $200,000 or less. 
+(v) De minimis rule for producers with total indirect costs of $200,000 or less.
 
-(vi) Examples. 
+(vi) Examples.
 
-(4) Modified simplified production method with historic absorption ratio election. 
+(4) Modified simplified production method with historic absorption ratio election.
 
-(i) In general. 
+(i) In general.
 
-(ii) Operating rules and definitions. 
+(ii) Operating rules and definitions.
 
-(A) Pre-production historic absorption ratio. 
+(A) Pre-production historic absorption ratio.
 
-(B) Production historic absorption ratio. 
+(B) Production historic absorption ratio.
 
-(iii) LIFO taxpayers making the historic absorption ratio election. 
+(iii) LIFO taxpayers making the historic absorption ratio election.
 
-(A) In general. 
+(A) In general.
 
-(B) Combined historic absorption ratio. 
+(B) Combined historic absorption ratio.
 
-(*1*) Total allocable additional section 263A costs incurred during the test period. 
+(*1*) Total allocable additional section 263A costs incurred during the test period.
 
-(*2*) Total section 471 costs remaining on hand at each year end of the test period. 
+(*2*) Total section 471 costs remaining on hand at each year end of the test period.
 
-(iv) Extension of qualifying period. 
+(iv) Extension of qualifying period.
 
-(v) Examples. 
+(v) Examples.
 
-(d) Additional simplified methods for producers. 
+(d) Additional simplified methods for producers.
 
-(e) Cross reference. 
+(e) Cross reference.
 
-(f) Change in method of accounting. 
+(f) Change in method of accounting.
 
-(1) In general. 
+(1) In general.
 
-(2) Scope limitations. 
+(2) Scope limitations.
 
-(3) Audit protection. 
+(3) Audit protection.
 
-(4) Section 481(a) adjustment. 
+(4) Section 481(a) adjustment.
 
-(5) Time for requesting change. 
+(5) Time for requesting change.
 
-(g) Effective/applicability date. 
+(g) Effective/applicability date.
 
 § 1.263A-3 Rules Relating to Property Acquired for Resale
 
-(a) Capitalization rules for property acquired for resale. 
+(a) Capitalization rules for property acquired for resale.
 
-(1) In general. 
+(1) In general.
 
-(2) Resellers with production activities. 
+(2) Resellers with production activities.
 
-(i) In general. 
+(i) In general.
 
-(ii) Exemption for small business taxpayers. 
+(ii) Exemption for small business taxpayers.
 
-(iii) De minimis production activities. 
+(iii) De minimis production activities.
 
-(A) In general. 
+(A) In general.
 
-(B) Example. 
+(B) Example.
 
-(3) Resellers with property produced under a contract. 
+(3) Resellers with property produced under a contract.
 
-(4) Use of the simplified resale method. 
+(4) Use of the simplified resale method.
 
-(i) In general. 
+(i) In general.
 
-(ii) Resellers with de minimis production activities. 
+(ii) Resellers with de minimis production activities.
 
-(iii) Resellers with property produced under a contract. 
+(iii) Resellers with property produced under a contract.
 
-(iv) Application of simplified resale method. 
+(iv) Application of simplified resale method.
 
-(5) *De minimis* production activities. 
+(5) *De minimis* production activities.
 
-(i) In general. 
+(i) In general.
 
-(ii) Definition of gross receipts to determine *de minimis* production activities. 
+(ii) Definition of gross receipts to determine *de minimis* production activities.
 
-(iii) Example. 
+(iii) Example.
 
-(b) \[Reserved\]. 
+(b) \[Reserved\].
 
-(c) Purchasing, handling, and storage costs. 
+(c) Purchasing, handling, and storage costs.
 
-(1) In general. 
+(1) In general.
 
-(2) Costs attributable to purchasing, handling, and storage. 
+(2) Costs attributable to purchasing, handling, and storage.
 
-(3) Purchasing costs. 
+(3) Purchasing costs.
 
-(i) In general. 
+(i) In general.
 
-(ii) Determination of whether personnel are engaged in purchasing activities. 
+(ii) Determination of whether personnel are engaged in purchasing activities.
 
-(A) 1/3- 2/3 rule for allocating labor costs. 
+(A) 1/3- 2/3 rule for allocating labor costs.
 
-(B) Example. 
+(B) Example.
 
-(4) Handling costs. 
+(4) Handling costs.
 
-(i) In general. 
+(i) In general.
 
-(ii) Processing costs. 
+(ii) Processing costs.
 
-(iii) Assembling costs. 
+(iii) Assembling costs.
 
-(iv) Repackaging costs. 
+(iv) Repackaging costs.
 
-(v) Transportation costs. 
+(v) Transportation costs.
 
-(vi) Costs not considered handling costs. 
+(vi) Costs not considered handling costs.
 
-(A) Distribution costs. 
+(A) Distribution costs.
 
-(B) Delivery of custom-ordered items. 
+(B) Delivery of custom-ordered items.
 
-(C) Repackaging after sale occurs. 
+(C) Repackaging after sale occurs.
 
-(5) Storage costs. 
+(5) Storage costs.
 
-(i) In general. 
+(i) In general.
 
-(ii) Definitions. 
+(ii) Definitions.
 
-(A) On-site storage facility. 
+(A) On-site storage facility.
 
-(B) Retail sales facility. 
+(B) Retail sales facility.
 
-(C) An integral part of a retail sales facility. 
+(C) An integral part of a retail sales facility.
 
-(D) On-site sales. 
+(D) On-site sales.
 
-(E) Retail customer. 
+(E) Retail customer.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Certain non-retail customers treated as retail customers. 
+(*2*) Certain non-retail customers treated as retail customers.
 
-(F) Off-site storage facility. 
+(F) Off-site storage facility.
 
-(G) Dual-function storage facility. 
+(G) Dual-function storage facility.
 
-(iii) Treatment of storage costs incurred at a dual-function storage facility. 
+(iii) Treatment of storage costs incurred at a dual-function storage facility.
 
-(A) In general. 
+(A) In general.
 
-(B) Dual-function storage facility allocation ratio. 
+(B) Dual-function storage facility allocation ratio.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Illustration of ratio allocation. 
+(*2*) Illustration of ratio allocation.
 
-(*3*) Appropriate adjustments for other uses of a dual-function storage facility. 
+(*3*) Appropriate adjustments for other uses of a dual-function storage facility.
 
-(C) De minimis 90-10 rule for dual-function storage facilities. 
+(C) De minimis 90-10 rule for dual-function storage facilities.
 
-(iv) Costs not attributable to an off-site storage facility. 
+(iv) Costs not attributable to an off-site storage facility.
 
-(v) Examples. 
+(v) Examples.
 
-(d) Simplified resale method. 
+(d) Simplified resale method.
 
-(1) Introduction. 
+(1) Introduction.
 
-(2) Eligible property. 
+(2) Eligible property.
 
-(3) Simplified resale method without historic absorption ratio election. 
+(3) Simplified resale method without historic absorption ratio election.
 
-(i) General allocation formula. 
+(i) General allocation formula.
 
-(A) In general. 
+(A) In general.
 
-(B) Effect of allocation. 
+(B) Effect of allocation.
 
-(C) Definitions. 
+(C) Definitions.
 
-(*1*) Combined absorption ratio. 
+(*1*) Combined absorption ratio.
 
-(*2*) Section 471 costs remaining on hand at year end. 
+(*2*) Section 471 costs remaining on hand at year end.
 
-(*3*) Costs allocable only to property sold. 
+(*3*) Costs allocable only to property sold.
 
-(D) Storage and handling costs absorption ratio. 
+(D) Storage and handling costs absorption ratio.
 
-(E) Purchasing costs absorption ratio. 
+(E) Purchasing costs absorption ratio.
 
-(F) Allocable mixed service costs. 
+(F) Allocable mixed service costs.
 
-(ii) LIFO taxpayers electing simplified resale method. 
+(ii) LIFO taxpayers electing simplified resale method.
 
-(A) In general. 
+(A) In general.
 
-(B) LIFO increment. 
+(B) LIFO increment.
 
-(C) LIFO decrement. 
+(C) LIFO decrement.
 
-(iii) Permissible variations of the simplified resale method. 
+(iii) Permissible variations of the simplified resale method.
 
-(iv) Examples. 
+(iv) Examples.
 
-(4) Simplified resale method with historic absorption ratio election. 
+(4) Simplified resale method with historic absorption ratio election.
 
-(i) In general. 
+(i) In general.
 
-(ii) Operating rules and definitions. 
+(ii) Operating rules and definitions.
 
-(A) Historic absorption ratio. 
+(A) Historic absorption ratio.
 
-(B) Test period. 
+(B) Test period.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Updated test period. 
+(*2*) Updated test period.
 
-(C) Qualifying period. 
+(C) Qualifying period.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Extension of qualifying period. 
+(*2*) Extension of qualifying period.
 
-(iii) Method of accounting. 
+(iii) Method of accounting.
 
-(A) Adoption and use. 
+(A) Adoption and use.
 
-(B) Revocation of election. 
+(B) Revocation of election.
 
-(iv) Reporting and recordkeeping requirements. 
+(iv) Reporting and recordkeeping requirements.
 
-(A) Reporting. 
+(A) Reporting.
 
-(B) Recordkeeping. 
+(B) Recordkeeping.
 
-(v) Transition rules. 
+(v) Transition rules.
 
-(A) Transition to elect historic absorption ratio. 
+(A) Transition to elect historic absorption ratio.
 
-(B) Transition to revoke historic absorption ratio. 
+(B) Transition to revoke historic absorption ratio.
 
-(vi) Example. 
+(vi) Example.
 
-(5) Additional simplified methods for resellers. 
+(5) Additional simplified methods for resellers.
 
-(e) Cross reference. 
+(e) Cross reference.
 
-(f) Effective/applicability date. 
+(f) Effective/applicability date.
 
 § 1.263A-4 Rules for property produced in a farming business.
 
-(a) Introduction. 
+(a) Introduction.
 
-(1) In general. 
+(1) In general.
 
-(2) Exception. 
+(2) Exception.
 
-(i) In general. 
+(i) In general.
 
-(ii) Tax shelter. 
+(ii) Tax shelter.
 
-(A) In general. 
+(A) In general.
 
-(B) Presumption. 
+(B) Presumption.
 
-(iii) Examples. 
+(iii) Examples.
 
-(3) Exemption for certain small business taxpayers. 
+(3) Exemption for certain small business taxpayers.
 
-(4) Costs required to be capitalized or inventoried under another provision. 
+(4) Costs required to be capitalized or inventoried under another provision.
 
-(5) Farming business. 
+(5) Farming business.
 
-(i) In general. 
+(i) In general.
 
-(A) Plant. 
+(A) Plant.
 
-(B) Animal. 
+(B) Animal.
 
-(ii) Incidental activities. 
+(ii) Incidental activities.
 
-(A) In general. 
+(A) In general.
 
-(B) Activities that are not incidental. 
+(B) Activities that are not incidental.
 
-(iii) Examples. 
+(iii) Examples.
 
-(b) Application of section 263A to property produced in a farming business. 
+(b) Application of section 263A to property produced in a farming business.
 
-(1) In general. 
+(1) In general.
 
-(i) Plants. 
+(i) Plants.
 
-(ii) Animals. 
+(ii) Animals.
 
-(2) Preproductive period. 
+(2) Preproductive period.
 
-(i) Plant. 
+(i) Plant.
 
-(A) In general. 
+(A) In general.
 
-(B) Applicability of section 263A. 
+(B) Applicability of section 263A.
 
-(C) Actual preproductive period. 
+(C) Actual preproductive period.
 
-(*1*) Beginning of the preproductive period. 
+(*1*) Beginning of the preproductive period.
 
-(*2*) End of the preproductive period. 
+(*2*) End of the preproductive period.
 
-(*i*) In general. 
+(*i*) In general.
 
-(*ii*) Marketable quantities. 
+(*ii*) Marketable quantities.
 
-(D) Examples. 
+(D) Examples.
 
-(ii) Animal. 
+(ii) Animal.
 
-(A) Beginning of the preproductive period. 
+(A) Beginning of the preproductive period.
 
-(B) End of the preproductive period. 
+(B) End of the preproductive period.
 
-(C) Allocation of costs between animal and first yield. 
+(C) Allocation of costs between animal and first yield.
 
-(c) Inventory methods. 
+(c) Inventory methods.
 
-(1) In general. 
+(1) In general.
 
-(2) Available for property used in a trade or business. 
+(2) Available for property used in a trade or business.
 
-(3) Exclusion of property to which section 263A does not apply. 
+(3) Exclusion of property to which section 263A does not apply.
 
-(d) Election not to have section 263A apply under section 263A(d)(3). 
+(d) Election not to have section 263A apply under section 263A(d)(3).
 
-(1) Introduction. 
+(1) Introduction.
 
-(2) Availability of the election. 
+(2) Availability of the election.
 
-(3) Time and manner of making the election. 
+(3) Time and manner of making the election.
 
-(i) Automatic election. 
+(i) Automatic election.
 
-(ii) Nonautomatic election. 
+(ii) Nonautomatic election.
 
-(4) Special rules. 
+(4) Special rules.
 
-(i) Section 1245 treatment. 
+(i) Section 1245 treatment.
 
-(ii) Required use of alternative depreciation system. 
+(ii) Required use of alternative depreciation system.
 
-(iii) Related person. 
+(iii) Related person.
 
-(A) In general. 
+(A) In general.
 
-(B) Members of family. 
+(B) Members of family.
 
-(5) Revocation of section 263A(d)(3) election to permit exemption under section 263A(i). 
+(5) Revocation of section 263A(d)(3) election to permit exemption under section 263A(i).
 
-(6) Change from applying exemption under section 263A(i) to making a section 263A(d)(3) election. 
+(6) Change from applying exemption under section 263A(i) to making a section 263A(d)(3) election.
 
-(7) Examples. 
+(7) Examples.
 
-(e) Exception for certain costs resulting from casualty losses. 
+(e) Exception for certain costs resulting from casualty losses.
 
-(1) In general. 
+(1) In general.
 
-(2) Ownership. 
+(2) Ownership.
 
-(3) Examples. 
+(3) Examples.
 
-(4) Special rule for citrus and almond groves. 
+(4) Special rule for citrus and almond groves.
 
-(i) In general. 
+(i) In general.
 
-(ii) Example. 
+(ii) Example.
 
-(5) Special temporary rule for citrus plants lost by reason of casualty. 
+(5) Special temporary rule for citrus plants lost by reason of casualty.
 
-(f) Change in method of accounting. 
+(f) Change in method of accounting.
 
-(1) Effective date. 
+(1) Effective date.
 
-(2) Change in method of accounting. 
+(2) Change in method of accounting.
 
-(g) Effective date. 
+(g) Effective date.
 
-(1) In general. 
+(1) In general.
 
-(2) Changes made by Tax Cuts and Jobs Act (Pub. L. 115-97). 
+(2) Changes made by Tax Cuts and Jobs Act (Pub. L. 115-97).
 
 § 1.263A-7 Changing a method of accounting under section 263A.
 
-(a) Introduction. 
+(a) Introduction.
 
-(1) Purpose. 
+(1) Purpose.
 
-(2) Taxpayers that adopt a method of accounting under section 263A. 
+(2) Taxpayers that adopt a method of accounting under section 263A.
 
-(3) Taxpayers that change a method of accounting under section 263A. 
+(3) Taxpayers that change a method of accounting under section 263A.
 
-(4) Applicability dates. 
+(4) Applicability dates.
 
-(i) In general. 
+(i) In general.
 
-(ii) Changes made by Tax Cuts and Jobs Act (Pub. L. 115-97). 
+(ii) Changes made by Tax Cuts and Jobs Act (Pub. L. 115-97).
 
-(5) Definition of change in method of accounting. 
+(5) Definition of change in method of accounting.
 
-(b) Rules applicable to a change in method of accounting. 
+(b) Rules applicable to a change in method of accounting.
 
-(1) General rules. 
+(1) General rules.
 
-(2) Special rules. 
+(2) Special rules.
 
-(i) Ordering rules when multiple changes in method of accounting occur in the year of change. 
+(i) Ordering rules when multiple changes in method of accounting occur in the year of change.
 
-(A) In general. 
+(A) In general.
 
-(B) Exceptions to the general ordering rule. 
+(B) Exceptions to the general ordering rule.
 
-(*1*) Change from the LIFO inventory method. 
+(*1*) Change from the LIFO inventory method.
 
-(*2*) Change from the specific goods LIFO inventory method. 
+(*2*) Change from the specific goods LIFO inventory method.
 
-(*3*) Change in overall method of accounting. 
+(*3*) Change in overall method of accounting.
 
-(*4*) Change in method of accounting for depreciation. 
+(*4*) Change in method of accounting for depreciation.
 
-(ii) Adjustment required by section 481(a). 
+(ii) Adjustment required by section 481(a).
 
-(iii) Base year. 
+(iii) Base year.
 
-(A) Need for a new base year. 
+(A) Need for a new base year.
 
-(*1*) Facts and circumstances revaluation method used. 
+(*1*) Facts and circumstances revaluation method used.
 
-(*2*) 3-year average method used. 
+(*2*) 3-year average method used.
 
-(*i*) Simplified method not used. 
+(*i*) Simplified method not used.
 
-(*ii*) Simplified method used. 
+(*ii*) Simplified method used.
 
-(B) Computing a new base year. 
+(B) Computing a new base year.
 
-(c) Inventory. 
+(c) Inventory.
 
-(1) Need for adjustments. 
+(1) Need for adjustments.
 
-(2) Revaluing beginning inventory. 
+(2) Revaluing beginning inventory.
 
-(i) In general. 
+(i) In general.
 
-(ii) Methods to revalue inventory. 
+(ii) Methods to revalue inventory.
 
-(iii) Facts and circumstances revaluation method. 
+(iii) Facts and circumstances revaluation method.
 
-(A) In general. 
+(A) In general.
 
-(B) Exception. 
+(B) Exception.
 
-(C) Estimates and procedures allowed. 
+(C) Estimates and procedures allowed.
 
-(D) Use by dollar-value LIFO taxpayers. 
+(D) Use by dollar-value LIFO taxpayers.
 
-(E) Examples. 
+(E) Examples.
 
-(iv) Weighted average method. 
+(iv) Weighted average method.
 
-(A) In general. 
+(A) In general.
 
-(B) Weighted average method for FIFO taxpayers. 
+(B) Weighted average method for FIFO taxpayers.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Example. 
+(*2*) Example.
 
-(C) Weighted average method for specific goods LIFO taxpayers. 
+(C) Weighted average method for specific goods LIFO taxpayers.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Example. 
+(*2*) Example.
 
-(D) Adjustments to inventory costs from prior years. 
+(D) Adjustments to inventory costs from prior years.
 
-(v) 3-year average method. 
+(v) 3-year average method.
 
-(A) In general. 
+(A) In general.
 
-(B) Consecutive year requirement. 
+(B) Consecutive year requirement.
 
-(C) Example. 
+(C) Example.
 
-(D) Short taxable years. 
+(D) Short taxable years.
 
-(E) Adjustments to inventory costs from prior years. 
+(E) Adjustments to inventory costs from prior years.
 
-(*1*) General rule. 
+(*1*) General rule.
 
-(*2*) Examples of costs eligible for restatement adjustment procedure. 
+(*2*) Examples of costs eligible for restatement adjustment procedure.
 
-(F) Restatement adjustment procedure. 
+(F) Restatement adjustment procedure.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Examples of restatement adjustment procedure. 
+(*2*) Examples of restatement adjustment procedure.
 
-(3) Intercompany items. 
+(3) Intercompany items.
 
-(i) Revaluing intercompany transactions. 
+(i) Revaluing intercompany transactions.
 
-(ii) Example. 
+(ii) Example.
 
-(iii) Availability of revaluation methods. 
+(iii) Availability of revaluation methods.
 
-(4) Anti-abuse rule. 
+(4) Anti-abuse rule.
 
-(i) In general. 
+(i) In general.
 
-(ii) Deemed avoidance of this section. 
+(ii) Deemed avoidance of this section.
 
-(A) Scope. 
+(A) Scope.
 
-(B) General rule. 
+(B) General rule.
 
-(iii) Election to use transferor's LIFO layers. 
+(iii) Election to use transferor's LIFO layers.
 
-(iv) Tax avoidance intent not required. 
+(iv) Tax avoidance intent not required.
 
-(v) Related corporation. 
+(v) Related corporation.
 
-(d) Non-inventory property. 
+(d) Non-inventory property.
 
-(1) Need for adjustments. 
+(1) Need for adjustments.
 
-(2) Revaluing property. 
+(2) Revaluing property.
 
 § 1.263A-8 Requirement to capitalize interest.
 
-(a) In general. 
+(a) In general.
 
-(1) General rule. 
+(1) General rule.
 
-(2) Treatment of interest required to be capitalized. 
+(2) Treatment of interest required to be capitalized.
 
-(3) Methods of accounting under section 263A(f). 
+(3) Methods of accounting under section 263A(f).
 
-(4) Special definitions. 
+(4) Special definitions.
 
-(i) Related person. 
+(i) Related person.
 
-(ii) Placed in service. 
+(ii) Placed in service.
 
-(b) Designated property. 
+(b) Designated property.
 
-(1) In general. 
+(1) In general.
 
-(2) Special rules. 
+(2) Special rules.
 
-(i) Application of thresholds. 
+(i) Application of thresholds.
 
-(ii) Relevant activities and costs. 
+(ii) Relevant activities and costs.
 
-(iii) Production period and cost of production. 
+(iii) Production period and cost of production.
 
-(3) Excluded property. 
+(3) Excluded property.
 
-(4) De minimis rule. 
+(4) De minimis rule.
 
-(i) In general. 
+(i) In general.
 
-(ii) Determination of total production expenditures. 
+(ii) Determination of total production expenditures.
 
-(c) Definition of real property. 
+(c) Definition of real property.
 
-(1) In general. 
+(1) In general.
 
-(2) Unsevered natural products of land. 
+(2) Unsevered natural products of land.
 
-(3) Inherently permanent structures. 
+(3) Inherently permanent structures.
 
-(4) Machinery. 
+(4) Machinery.
 
-(i) Treatment. 
+(i) Treatment.
 
-(ii) Certain factors not determinative. 
+(ii) Certain factors not determinative.
 
-(d) Production. 
+(d) Production.
 
-(1) Definition of produce. 
+(1) Definition of produce.
 
-(2) Property produced under a contract. 
+(2) Property produced under a contract.
 
-(i) Customer. 
+(i) Customer.
 
-(ii) Contractor. 
+(ii) Contractor.
 
-(iii) Definition of a contract. 
+(iii) Definition of a contract.
 
-(iv) Determination of whether thresholds are satisfied. 
+(iv) Determination of whether thresholds are satisfied.
 
-(A) Customer. 
+(A) Customer.
 
-(B) Contractor. 
+(B) Contractor.
 
-(v) Exclusion for property subject to long-term contract rules. 
+(v) Exclusion for property subject to long-term contract rules.
 
-(3) Improvements to existing property. 
+(3) Improvements to existing property.
 
-(i) In general. 
+(i) In general.
 
-(ii) Real property. 
+(ii) Real property.
 
-(iii) Tangible personal property. 
+(iii) Tangible personal property.
 
 § 1.263A-9 The avoided cost method.
 
-(a) In general. 
+(a) In general.
 
-(1) Description. 
+(1) Description.
 
-(2) Overview. 
+(2) Overview.
 
-(i) In general. 
+(i) In general.
 
-(ii) Rules that apply in determining amounts. 
+(ii) Rules that apply in determining amounts.
 
-(3) Definitions of interest and incurred. 
+(3) Definitions of interest and incurred.
 
-(4) Definition of eligible debt. 
+(4) Definition of eligible debt.
 
-(b) Traced debt amount. 
+(b) Traced debt amount.
 
-(1) General rule. 
+(1) General rule.
 
-(2) Identification and definition of traced debt. 
+(2) Identification and definition of traced debt.
 
-(3) Example. 
+(3) Example.
 
-(c) Excess expenditure amount. 
+(c) Excess expenditure amount.
 
-(1) General rule. 
+(1) General rule.
 
-(2) Interest required to be capitalized. 
+(2) Interest required to be capitalized.
 
-(3) Example. 
+(3) Example.
 
-(4) Treatment of interest subject to a deferral provision. 
+(4) Treatment of interest subject to a deferral provision.
 
-(5) Definitions. 
+(5) Definitions.
 
-(i) Nontraced debt. 
+(i) Nontraced debt.
 
-(A) Defined. 
+(A) Defined.
 
-(B) Example. 
+(B) Example.
 
-(ii) Average excess expenditures. 
+(ii) Average excess expenditures.
 
-(A) General rule. 
+(A) General rule.
 
-(B) Example. 
+(B) Example.
 
-(iii) Weighted average interest rate. 
+(iii) Weighted average interest rate.
 
-(A) Determination of rate. 
+(A) Determination of rate.
 
-(B) Interest incurred on nontraced debt. 
+(B) Interest incurred on nontraced debt.
 
-(C) Average nontraced debt. 
+(C) Average nontraced debt.
 
-(D) Special rules if taxpayer has no nontraced debt or rate is contingent. 
+(D) Special rules if taxpayer has no nontraced debt or rate is contingent.
 
-(6) Examples. 
+(6) Examples.
 
-(7) Special rules where the excess expenditure amount exceeds incurred interest. 
+(7) Special rules where the excess expenditure amount exceeds incurred interest.
 
-(i) Allocation of total incurred interest to units. 
+(i) Allocation of total incurred interest to units.
 
-(ii) Application of related person rules to average excess expenditures. 
+(ii) Application of related person rules to average excess expenditures.
 
-(iii) Special rule for corporations. 
+(iii) Special rule for corporations.
 
-(d) Election not to trace debt. 
+(d) Election not to trace debt.
 
-(1) General rule. 
+(1) General rule.
 
-(2) Example. 
+(2) Example.
 
-(e) Election to use external rate. 
+(e) Election to use external rate.
 
-(1) In general. 
+(1) In general.
 
-(2) Eligible taxpayer. 
+(2) Eligible taxpayer.
 
-(f) Selection of computation period and measurement dates and application of averaging conventions. 
+(f) Selection of computation period and measurement dates and application of averaging conventions.
 
-(1) Computation period. 
+(1) Computation period.
 
-(i) In general. 
+(i) In general.
 
-(ii) Method of accounting. 
+(ii) Method of accounting.
 
-(iii) Production period beginning or ending during the computation period. 
+(iii) Production period beginning or ending during the computation period.
 
-(2) Measurement dates. 
+(2) Measurement dates.
 
-(i) In general. 
+(i) In general.
 
-(ii) Measurement period. 
+(ii) Measurement period.
 
-(iii) Measurement dates on which accumulated production expenditures must be taken into account. 
+(iii) Measurement dates on which accumulated production expenditures must be taken into account.
 
-(iv) More frequent measurement dates. 
+(iv) More frequent measurement dates.
 
-(3) Examples. 
+(3) Examples.
 
-(g) Special rules. 
+(g) Special rules.
 
-(1) Ordering rules. 
+(1) Ordering rules.
 
-(i) Provisions preempted by section 263A(f). 
+(i) Provisions preempted by section 263A(f).
 
-(ii) Deferral provisions applied before this section. 
+(ii) Deferral provisions applied before this section.
 
-(2) Application of section 263A(f) to deferred interest. 
+(2) Application of section 263A(f) to deferred interest.
 
-(i) In general. 
+(i) In general.
 
-(ii) Capitalization of deferral amount. 
+(ii) Capitalization of deferral amount.
 
-(iii) Deferred capitalization. 
+(iii) Deferred capitalization.
 
-(iv) Substitute capitalization. 
+(iv) Substitute capitalization.
 
-(A) General rule. 
+(A) General rule.
 
-(B) Capitalization of amount carried forward. 
+(B) Capitalization of amount carried forward.
 
-(C) Method of accounting. 
+(C) Method of accounting.
 
-(v) Examples. 
+(v) Examples.
 
-(3) Simplified inventory method. 
+(3) Simplified inventory method.
 
-(i) In general. 
+(i) In general.
 
-(ii) Segmentation of inventory. 
+(ii) Segmentation of inventory.
 
-(A) General rule. 
+(A) General rule.
 
-(B) Example. 
+(B) Example.
 
-(iii) Aggregate interest capitalization amount. 
+(iii) Aggregate interest capitalization amount.
 
-(A) Computation period and weighted average interest rate. 
+(A) Computation period and weighted average interest rate.
 
-(B) Computation of the tentative aggregate interest capitalization amount. 
+(B) Computation of the tentative aggregate interest capitalization amount.
 
-(C) Coordination with other interest capitalization computations. 
+(C) Coordination with other interest capitalization computations.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Deferred interest. 
+(*2*) Deferred interest.
 
-(*3*) Other coordinating provisions. 
+(*3*) Other coordinating provisions.
 
-(D) Treatment of increases or decreases in the aggregate interest capitalization amount. 
+(D) Treatment of increases or decreases in the aggregate interest capitalization amount.
 
-(E) Example. 
+(E) Example.
 
-(iv) Method of accounting. 
+(iv) Method of accounting.
 
-(4) Financial accounting method disregarded. 
+(4) Financial accounting method disregarded.
 
-(5) Treatment of intercompany transactions. 
+(5) Treatment of intercompany transactions.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Special rule for consolidated group with limited outside borrowing. 
+(ii) Special rule for consolidated group with limited outside borrowing.
 
-(iii) Example. 
+(iii) Example.
 
-(6) Notional principal contracts and other derivatives. \[Reserved\] 
+(6) Notional principal contracts and other derivatives. \[Reserved\]
 
-(7) 15-day repayment rule. 
+(7) 15-day repayment rule.
 
 § 1.263A-10 Unit of property.
 
-(a) In general. 
+(a) In general.
 
-(b) Units of real property. 
+(b) Units of real property.
 
-(1) In general. 
+(1) In general.
 
-(2) Functional interdependence. 
+(2) Functional interdependence.
 
-(3) Common features. 
+(3) Common features.
 
-(4) Allocation of costs to unit. 
+(4) Allocation of costs to unit.
 
-(5) Treatment of costs when a common feature is included in a unit of real property. 
+(5) Treatment of costs when a common feature is included in a unit of real property.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Production activity not undertaken on benefitted property. 
+(ii) Production activity not undertaken on benefitted property.
 
-(A) Direct production activity not undertaken. 
+(A) Direct production activity not undertaken.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Land attributable to a benefitted property. 
+(*2*) Land attributable to a benefitted property.
 
-(B) Suspension of direct production activity after clearing and grading undertaken. 
+(B) Suspension of direct production activity after clearing and grading undertaken.
 
-(*1*) General rule. 
+(*1*) General rule.
 
-(*2*) Accumulated production expenditures. 
+(*2*) Accumulated production expenditures.
 
-(iii) Common feature placed in service before the end of production of a benefitted property. 
+(iii) Common feature placed in service before the end of production of a benefitted property.
 
-(iv) Benefitted property sold before production completed on common feature. 
+(iv) Benefitted property sold before production completed on common feature.
 
-(v) Benefitted property placed in service before production completed on common feature. 
+(v) Benefitted property placed in service before production completed on common feature.
 
-(6) Examples. 
+(6) Examples.
 
-(c) Units of tangible personal property. 
+(c) Units of tangible personal property.
 
-(d) Treatment of installations. 
+(d) Treatment of installations.
 
 § 1.263A-11 Accumulated production expenditures.
 
-(a) General rule. 
+(a) General rule.
 
-(b) When costs are first taken into account. 
+(b) When costs are first taken into account.
 
-(1) In general. 
+(1) In general.
 
-(2) Dedication rule for materials and supplies. 
+(2) Dedication rule for materials and supplies.
 
-(c) Property produced under a contract. 
+(c) Property produced under a contract.
 
-(1) Customer. 
+(1) Customer.
 
-(2) Contractor. 
+(2) Contractor.
 
-(d) Property used to produce designated property. 
+(d) Property used to produce designated property.
 
-(1) In general. 
+(1) In general.
 
-(2) Example. 
+(2) Example.
 
-(3) Excluded equipment and facilities. 
+(3) Excluded equipment and facilities.
 
-(e) Improvements. 
+(e) Improvements.
 
-(1) General rule. 
+(1) General rule.
 
-(2) De minimis rule. 
+(2) De minimis rule.
 
-(f) Mid-production purchases. 
+(f) Mid-production purchases.
 
-(g) Related person costs. 
+(g) Related person costs.
 
-(h) Installation. 
+(h) Installation.
 
 § 1.263A-12 Production period.
 
-(a) In general. 
+(a) In general.
 
-(b) Related person activities. 
+(b) Related person activities.
 
-(c) Beginning of production period. 
+(c) Beginning of production period.
 
-(1) In general. 
+(1) In general.
 
-(2) Real property. 
+(2) Real property.
 
-(3) Tangible personal property. 
+(3) Tangible personal property.
 
-(d) End of production period. 
+(d) End of production period.
 
-(1) In general. 
+(1) In general.
 
-(2) Special rules. 
+(2) Special rules.
 
-(3) Sequential production or delivery. 
+(3) Sequential production or delivery.
 
-(4) Examples. 
+(4) Examples.
 
-(e) Physical production activities. 
+(e) Physical production activities.
 
-(1) In general. 
+(1) In general.
 
-(2) Illustrations. 
+(2) Illustrations.
 
-(f) Activities not considered physical production. 
+(f) Activities not considered physical production.
 
-(1) Planning and design. 
+(1) Planning and design.
 
-(2) Incidental repairs. 
+(2) Incidental repairs.
 
-(g) Suspension of production period. 
+(g) Suspension of production period.
 
-(1) In general. 
+(1) In general.
 
-(2) Special rule. 
+(2) Special rule.
 
-(3) Method of accounting. 
+(3) Method of accounting.
 
-(4) Example. 
+(4) Example.
 
 § 1.263A-13 Oil and gas activities.
 
-(a) In general. 
+(a) In general.
 
-(b) Generally applicable rules. 
+(b) Generally applicable rules.
 
-(1) Beginning of production period. 
+(1) Beginning of production period.
 
-(i) Onshore activities. 
+(i) Onshore activities.
 
-(ii) Offshore activities. 
+(ii) Offshore activities.
 
-(2) End of production period. 
+(2) End of production period.
 
-(3) Accumulated production expenditures. 
+(3) Accumulated production expenditures.
 
-(i) Costs included. 
+(i) Costs included.
 
-(ii) Improvement unit. 
+(ii) Improvement unit.
 
-(c) Special rules when definite plan not established. 
+(c) Special rules when definite plan not established.
 
-(1) In general. 
+(1) In general.
 
-(2) Oil and gas units. 
+(2) Oil and gas units.
 
-(i) First productive well unit. 
+(i) First productive well unit.
 
-(ii) Subsequent units. 
+(ii) Subsequent units.
 
-(3) Beginning of production period. 
+(3) Beginning of production period.
 
-(i) First productive well unit. 
+(i) First productive well unit.
 
-(ii) Subsequent wells. 
+(ii) Subsequent wells.
 
-(4) End of production period. 
+(4) End of production period.
 
-(5) Accumulated production expenditures. 
+(5) Accumulated production expenditures.
 
-(i) First productive well unit. 
+(i) First productive well unit.
 
-(ii) Subsequent well unit. 
+(ii) Subsequent well unit.
 
-(6) Allocation of interest capitalized with respect to first productive well unit. 
+(6) Allocation of interest capitalized with respect to first productive well unit.
 
-(7) Examples. 
+(7) Examples.
 
 § 1.263A-14 Rules for related persons. § 1.263A-15 Effective dates, transitional rules, and anti-abuse rule.
 
-(a) Effective dates. 
+(a) Effective dates.
 
-(b) Transitional rule for accumulated production expenditures. 
+(b) Transitional rule for accumulated production expenditures.
 
-(1) In general. 
+(1) In general.
 
-(2) Property used to produce designated property. 
+(2) Property used to produce designated property.
 
 (c) Anti-abuse rule.
 

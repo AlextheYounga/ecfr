@@ -1,20 +1,20 @@
 ##### § 1.996-2 Ordering rules for losses.
 
-(a) *In general.* Under section 996(b), if for any taxable year a DISC, or a former DISC, incurs a deficit in earnings and profits, such deficit shall be charged— 
+(a) *In general.* Under section 996(b), if for any taxable year a DISC, or a former DISC, incurs a deficit in earnings and profits, such deficit shall be charged—
 
-(1) First, to other earnings and profits (as defined in § 1.996-3(d)) to the extent thereof, 
+(1) First, to other earnings and profits (as defined in § 1.996-3(d)) to the extent thereof,
 
-(2) Second, to accumulated DISC income (as defined in § 1.996-3(b)) to the extent thereof, subject to the special rule in paragraph (b) of this section, 
+(2) Second, to accumulated DISC income (as defined in § 1.996-3(b)) to the extent thereof, subject to the special rule in paragraph (b) of this section,
 
-(3) Third, to previously taxed income (as defined in § 1.996-3(c)) to the extent thereof, and 
+(3) Third, to previously taxed income (as defined in § 1.996-3(c)) to the extent thereof, and
 
-(4) To the extent that the amount of such deficit exceeds the sum of the amounts charged in accordance with subparagraphs (1), (2), and (3) of this paragraph, to other earnings and profits (as defined in § 1.996-3(d)). 
+(4) To the extent that the amount of such deficit exceeds the sum of the amounts charged in accordance with subparagraphs (1), (2), and (3) of this paragraph, to other earnings and profits (as defined in § 1.996-3(d)).
 
 Thus, the excess deficit charged to other earnings and profits under subparagraph (4) of this paragraph will create a deficit therein in the amount of such excess. To determine the amount of any division of earnings and profits for the purpose of determining under § 1.996-1 the treatment of any actual and certain deemed distributions, the portion of a deficit in earnings and profits chargeable under this paragraph to such division prior to such distribution shall be determined in a manner consistent with the rules in § 1.316-2(b) for determining the amount of earnings and profits available on the date of any distribution.
 
-(b) *Deficits subsequent to a disqualification.* A deficit in earnings and profits of a DISC, or former DISC, shall not be charged to accumulated DISC income which has been determined is to be deemed distributed to the shareholders pursuant to § 1.995-3 as a result of a revocation of election or other disqualification. Thus, in accordance with paragraph (a) of this section as modified by this paragraph, a deficit incurred by a former DISC following such a revocation or disqualification shall be charged first to other earnings and profits and then to previously taxed income with any balance being charged to other earnings and profits and creating a deficit therein. The preceding sentence shall also apply in the case of a deficit incurred by a DISC which has no accumulated DISC income accumulated during its current taxable year and all immediately preceding consecutive taxable years for which it was a DISC. If as a result of the application of this paragraph the amount of a deficit in other earnings and profits exceeds the amount of a deficit in accumulated earnings and profits, then upon any subsequent actual distribution the deficit in other earnings and profits shall be reduced by the lower of (1) the amount of such actual distribution chargeable to accumulated DISC income or previously taxed income or (2) the amount of such excess. 
+(b) *Deficits subsequent to a disqualification.* A deficit in earnings and profits of a DISC, or former DISC, shall not be charged to accumulated DISC income which has been determined is to be deemed distributed to the shareholders pursuant to § 1.995-3 as a result of a revocation of election or other disqualification. Thus, in accordance with paragraph (a) of this section as modified by this paragraph, a deficit incurred by a former DISC following such a revocation or disqualification shall be charged first to other earnings and profits and then to previously taxed income with any balance being charged to other earnings and profits and creating a deficit therein. The preceding sentence shall also apply in the case of a deficit incurred by a DISC which has no accumulated DISC income accumulated during its current taxable year and all immediately preceding consecutive taxable years for which it was a DISC. If as a result of the application of this paragraph the amount of a deficit in other earnings and profits exceeds the amount of a deficit in accumulated earnings and profits, then upon any subsequent actual distribution the deficit in other earnings and profits shall be reduced by the lower of (1) the amount of such actual distribution chargeable to accumulated DISC income or previously taxed income or (2) the amount of such excess.
 
-(c) *Examples.* The provisions of this section may be illustrated by the following examples: 
+(c) *Examples.* The provisions of this section may be illustrated by the following examples:
 
 Example 1.X Corporation, which uses the calendar year as its taxable year, becomes a DISC beginning with 1976. In addition to other facts assumed in the table below, X incurs a deficit in earnings and profits for 1979 of $70. Such deficit is charged to the divisions of X's earnings and profits pursuant to paragraph (a) of this section in the manner set forth in such table.
 

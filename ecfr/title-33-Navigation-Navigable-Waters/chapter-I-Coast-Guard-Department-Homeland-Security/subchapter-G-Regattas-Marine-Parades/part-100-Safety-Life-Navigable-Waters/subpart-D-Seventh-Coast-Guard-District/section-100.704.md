@@ -1,24 +1,24 @@
 ##### § 100.704 Special Local Regulations; Marine Events within the Captain of the Port Charleston.
 
-The regulations in this section apply to the marine events listed in Table 1 of this section. The regulations in this section will be effective annually for the duration listed in Table 1 of this section. The Coast Guard will notify the maritime community of exact dates and times each regulation will be in effect and the nature of each event (*e.g.* location, number of participants, type of vessels involved, etc.) through a Notice of Enforcement published in the Federal Register, Local Notice to Mariners, and Broadcast Notice to Mariners.
+The regulations in this section apply to the marine events listed in Table 1 of this section. The regulations in this section will be effective annually for the duration listed in Table 1 of this section. The Coast Guard will notify the maritime community of exact dates and times each regulation will be in effect and the nature of each event (*e.g.* location, number of participants, type of vessels involved, etc.) through a Notice of Enforcement published in the Federal Register, Local Notice to Mariners, and Broadcast Notice to Mariners. 
 
-(a) *Definitions.* The following definitions apply to this section:
+(a) *Definitions.* The following definitions apply to this section: 
 
-(1) *Designated representative.* The term “designated representative” means Coast Guard Patrol Commanders, including Coast Guard coxswains, petty officers, others operating Coast Guard vessels, and Federal, state, and local officers designated by or assisting the Captain of the Port (COTP) Charleston in the enforcement of the regulated areas.
+(1) *Designated representative.* The term “designated representative” means Coast Guard Patrol Commanders, including Coast Guard coxswains, petty officers, others operating Coast Guard vessels, and Federal, state, and local officers designated by or assisting the Captain of the Port (COTP) Charleston in the enforcement of the regulated areas. 
 
-(2) *Spectators.* All persons and vessels not registered with the event sponsor as participants.
+(2) *Spectators.* All persons and vessels not registered with the event sponsor as participants. 
 
-(b) *Event patrol.* The Coast Guard may assign an event patrol, as described in § 100.40, to each regulated event listed in Table 1 of this section. Additionally, a Patrol Commander may be assigned to oversee the patrol. The event patrol and Patrol Commander may be contacted on VHF Channel 16.
+(b) *Event patrol.* The Coast Guard may assign an event patrol, as described in § 100.40, to each regulated event listed in Table 1 of this section. Additionally, a Patrol Commander may be assigned to oversee the patrol. The event patrol and Patrol Commander may be contacted on VHF Channel 16. 
 
-(c) *Special local regulations.* (1) The COTP Charleston or designated representative may control the movement of all vessels in the regulated area. When hailed or signaled by an official patrol vessel, a vessel in these areas shall immediately comply with the directions given. Failure to do so may result in removal from the area, citation for failure to comply, or both.
+(c) *Special local regulations.* (1) The COTP Charleston or designated representative may control the movement of all vessels in the regulated area. When hailed or signaled by an official patrol vessel, a vessel in these areas shall immediately comply with the directions given. Failure to do so may result in removal from the area, citation for failure to comply, or both. 
 
-(2) The COTP Charleston or designated representative may terminate the event, or the operation of any vessel participating in the event, at any time it is deemed necessary for the protection of life or property.
+(2) The COTP Charleston or designated representative may terminate the event, or the operation of any vessel participating in the event, at any time it is deemed necessary for the protection of life or property. 
 
-(3) Only event sponsor designated participants and official patrol vessels are allowed to enter the regulated area, unless otherwise authorized by the COTP Charleston or designated representative.
+(3) Only event sponsor designated participants and official patrol vessels are allowed to enter the regulated area, unless otherwise authorized by the COTP Charleston or designated representative. 
 
-(4) Spectators may request permission from the COTP Charleston or designated representative to enter, transit, remain within, or anchor in the regulated area. If permission is granted, spectators must abide by the directions of the COTP Charleston or a designated representative.
+(4) Spectators may request permission from the COTP Charleston or designated representative to enter, transit, remain within, or anchor in the regulated area. If permission is granted, spectators must abide by the directions of the COTP Charleston or a designated representative. 
 
-(d) *Event delays or termination.* The COTP Charleston or designated representative may delay or terminate any event in this section at any time to ensure safety of life or property. Such action may be justified as a result of weather, traffic density, spectator operation, or participant behavior.
+(d) *Event delays or termination.* The COTP Charleston or designated representative may delay or terminate any event in this section at any time to ensure safety of life or property. Such action may be justified as a result of weather, traffic density, spectator operation, or participant behavior. 
 
 Table 1 to § 100.704—Special Local Regulations; Marine Events Within the Captain of the Port Charleston
 
