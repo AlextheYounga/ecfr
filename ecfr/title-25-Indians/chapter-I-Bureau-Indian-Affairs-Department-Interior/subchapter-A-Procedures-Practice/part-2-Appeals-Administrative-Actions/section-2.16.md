@@ -1,3 +1,0 @@
-##### § 2.16 Extensions of time.
-
-An official to whom an appeal is made may, upon a showing of good cause by a party and with notice to all other parties, extend the period for filing or serving any document; *provided,* however, that no extension will be granted for filing a notice of appeal under § 2.9 of this part or serve by itself to extend any period specified by law or regulation other than in this part.
