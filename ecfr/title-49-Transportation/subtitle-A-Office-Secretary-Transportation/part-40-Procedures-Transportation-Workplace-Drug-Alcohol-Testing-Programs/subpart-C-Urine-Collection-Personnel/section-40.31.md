@@ -1,5 +1,7 @@
 ##### § 40.31 Who may collect urine specimens for DOT drug testing?
 
+Link to an amendment published at 88 FR 27638, May 2, 2023.
+
 (a) Collectors meeting the requirements of this subpart are the only persons authorized to collect urine specimens for DOT drug testing.
 
 (b) A collector must meet training requirements of § 40.33.
