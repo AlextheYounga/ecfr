@@ -1,0 +1,3 @@
+##### § 560.319 United States depository institution.
+
+The term *United Statesdepository institution* means any entity (including its foreign branches) organized under the laws of the United States or any jurisdiction within the United States, or any agency, office, or branch located in the United States of a foreign entity, that is engaged primarily in the business of banking (for example, banks, savings banks, savings associations, credit unions, trust companies, and United States bank holding companies).

@@ -1,0 +1,3 @@
+##### § 542.406 Offshore transactions involving blocked property.
+
+The prohibitions in § 542.201 on transactions or dealings involving blocked property apply to transactions by any U.S. person in a location outside the United States with respect to property held in the name of the Government of Syria or any other person whose property and interests in property are blocked pursuant to § 542.201(a).

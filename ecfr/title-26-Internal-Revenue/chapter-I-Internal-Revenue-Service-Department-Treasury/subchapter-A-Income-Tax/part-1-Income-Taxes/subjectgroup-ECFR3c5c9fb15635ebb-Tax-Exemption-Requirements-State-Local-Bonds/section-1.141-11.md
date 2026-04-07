@@ -1,0 +1,1 @@
+##### § 1.141-11 Acquisition of nongovernmental output property. \[Reserved\]

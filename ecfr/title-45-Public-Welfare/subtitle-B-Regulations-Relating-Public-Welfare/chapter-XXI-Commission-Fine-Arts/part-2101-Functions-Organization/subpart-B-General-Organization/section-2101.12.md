@@ -1,0 +1,3 @@
+##### § 2101.12 Georgetown Board of Architectural Consultants.
+
+To assist the Commission in carrying out the purposes of the Old Georgetown Act (§ 2101.1 (c)), a committee of three architects appointed for a term of three years by the Commission serves as the Board of Architectural Consultants without expense to the United States. This committee advises the Commission regarding designs and plans referred to it. The Chairman is elected by its members.

@@ -1,0 +1,3 @@
+##### § 560.423 Offshore transactions involving blocked property.
+
+The prohibitions in § 560.211 on transactions or dealings involving blocked property apply to transactions by any U.S. person in a location outside the United States with respect to property held in the name of the Government of Iran, an Iranian financial institution, or any other person whose property and interests in property are blocked pursuant to § 560.211, or property in which the Government of Iran, an Iranian financial institution, or any other person whose property and interests in property are blocked pursuant to § 560.211 has or has had an interest since the effective date.

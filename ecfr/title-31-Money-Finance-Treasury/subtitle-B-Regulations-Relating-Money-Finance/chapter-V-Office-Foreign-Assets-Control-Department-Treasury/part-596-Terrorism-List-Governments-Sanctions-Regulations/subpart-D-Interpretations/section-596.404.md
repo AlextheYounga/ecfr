@@ -1,0 +1,3 @@
+##### § 596.404 Financial transactions transferred through a bank of a Terrorism List Government.
+
+For the purposes of this part only, a financial transaction not originated by a Terrorism List Government, but transferred to the United States through a bank owned or controlled by a Terrorism List Government, shall not be deemed a financial transaction with the government of a country supporting international terrorism pursuant to § 596.201.

@@ -1,0 +1,1 @@
+##### § 1.304-6 Amount constituting a dividend. \[Reserved\]

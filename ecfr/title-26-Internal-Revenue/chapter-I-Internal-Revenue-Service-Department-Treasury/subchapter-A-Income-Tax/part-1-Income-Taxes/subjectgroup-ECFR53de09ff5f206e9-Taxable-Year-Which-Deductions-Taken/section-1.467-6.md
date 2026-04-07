@@ -1,0 +1,1 @@
+##### § 1.467-6 Section 467 rental agreements with contingent payments. \[Reserved\]

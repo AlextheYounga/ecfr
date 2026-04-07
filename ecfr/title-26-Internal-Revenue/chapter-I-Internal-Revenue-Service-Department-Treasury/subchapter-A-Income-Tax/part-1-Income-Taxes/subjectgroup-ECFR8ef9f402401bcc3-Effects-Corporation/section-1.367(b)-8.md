@@ -1,0 +1,1 @@
+##### § 1.367(b)-8 Allocation of earnings and profits and foreign income taxes in certain foreign corporate separations. \[Reserved\]

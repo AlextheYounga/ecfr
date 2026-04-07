@@ -1,0 +1,3 @@
+##### § 702.11 Special executive session.
+
+If, during the course of a public session, evidence is submitted that was not previously presented at executive session and that the Commission determines may defame, degrade, or incriminate any person, the provisions of § 702.6 shall apply and such extensions, recesses or continuances of the public session shall be ordered by the Commission, as it deems necessary. The time and notice requirements of § 702.6 may be modified by the Commission provided reasonable notice of a scheduled executive session is afforded such person; the Commission may, in its discretion, strike such evidence from the record, in which case the provisions of § 702.6 shall not apply.
