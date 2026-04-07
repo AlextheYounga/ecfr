@@ -1,1 +1,0 @@
-##### 1480.504 Other than full and open competition.

@@ -2,7 +2,7 @@
 
 (a) Railroad bridge workers shall be provided and shall wear eye and face protection equipment when potential eye or face injury may result from physical, chemical, or radiant agents.
 
-(b) Foot protection equipment required by this section shall conform to the requirements of 29 CFR 1910.136(b), as established by the U.S. Department of Labor, Occupational Safety and Health Administration.
+(b) Eye and face protection equipment required by this section shall conform to the requirements of 29 CFR 1910.133(b), as established by the U.S. Department of Labor, Occupational Safety and Health Administration.
 
 (c) Face and eye protection equipment required by this section shall be kept clean and in good repair. Use of equipment with structural or optical defects is prohibited.
 

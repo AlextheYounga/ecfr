@@ -1,5 +1,7 @@
 ##### § 628.2 Definitions.
 
+Link to an amendment published at 87 FR 27493, May 9, 2022.
+
 As used in this part:
 
 *Additional tier 1 capital (AT1)* is defined in § 628.20(c).

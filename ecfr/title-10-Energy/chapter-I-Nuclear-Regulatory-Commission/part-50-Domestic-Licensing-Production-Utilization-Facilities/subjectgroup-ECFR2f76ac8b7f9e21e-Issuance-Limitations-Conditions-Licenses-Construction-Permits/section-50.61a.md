@@ -136,27 +136,21 @@
 
 ![](/graphics/er03fe10.000.gif)![](/graphics/er03fe10.001.gif)![](/graphics/er03fe10.002.gif)![](/graphics/er03fe10.003.gif)![](/graphics/er03fe10.004.gif)![](/graphics/er03fe10.005.gif)![](/graphics/er03fe10.006.gif)Where: P \[wt-&%\] = phosphorus content Mn \[wt-%\] = manganese content Ni \[wt-%\] = nickel content Cu \[wt-%\] = copper content A = 1.140 × 10−7 for forgings A = 1.561 × 10−7 for plates A = 1.417 × 10−7 for welds B = 102.3 for forgings B = 102.5 for plates in non-Combustion Engineering manufactured vessels B = 135.2 for plates in Combustion Engineering vessels B = 155.0 for weldsφte = φt for φ ≥4.39 × 10 10 n/cm 2/sec φte = φt × (4.39 × 10 10/φ) 0.2595 for φ <4.39 × 10 10 n/cm 2/sec Where: φ \[n/cm 2/sec\] = average neutron flux t \[sec\] = time that the reactor has been in full power operation φt \[n/cm 2\] = φ × tf(Cue,P) = 0 for Cu ≤0.072 f(Cue,P) = \[Cue−0.072\] 0.668 for Cu >0.072 and P ≤0.008 f(Cue,P) = \[Cue−0.072 + 1.359 × (P−0.008)\] 0.668 for Cu >0.072 and P >0.008 Where: Cue = 0 for Cu ≤0.072 Cue = MIN (Cu, maximum Cue) for Cu >0.072 maximum Cue = 0.243 for Linde 80 welds maximum Cue = 0.301 for all other materialsg(Cue,Ni,φte) = 0.5 + (0.5 × tanh {\[log10(φte) + (1.1390 × Cue)−(0.448 × Ni)−18.120\]/0.629} Equation 8: Residual (r) = measured ΔT30−predicted ΔT30 (by Equations 5, 6 and 7) ![](/graphics/er03fe10.007.gif)Equation 10: Maximum credible heat-average residual = 2.33σ/n 0.5Where: n = number of surveillance data points (sample size) in the specific data set σ = standard deviation of the residuals about the model for a relevant material group given in Table 5.![](/graphics/er03fe10.008.gif)Where: *m* is the slope of a plot of all of the r values (estimated using Equation 8) versus the base 10 logarithm of the neutron fluence for each r value. The slope shall be estimated using the method of least squares. *se(m)* is the least squares estimate of the standard-error associated with the estimated slope value *m.*![](/graphics/er03fe10.009.gif)Where: *r* is defined using Equation 8 and σ is given in Table 5
 
-Table 1 - PTS Screening Criteria
+Table 1—PTS Screening Criteria
+| Product form and RTMAX-X   values                                                                                                                                         | RTMAX-X limits \[ °F\] for different vessel wall thicknesses 6 (TWALL) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Axial Weld—RTMAX-AW                                                                                                                                                       | 269                                                                    |
+| Plate—RTMAX-PL                                                                                                                                                            | 356                                                                    |
+| Forging without underclad cracks—RTMAX-FO7                                                                                                                                | 356                                                                    |
+| Axial Weld and Plate—RTMAX-AW + RTMAX-PL                                                                                                                                  | 538                                                                    |
+| Circumferential Weld—RTMAX-CW8                                                                                                                                            | 312                                                                    |
+| Forging with underclad cracks—RTMAX-FO9                                                                                                                                   | 246                                                                    |
+| 6 Wall thickness is the beltline wall thickness including the clad thickness.                                                                                             |                                                                        |
+| 7 Forgings without underclad cracks apply to forgings for which no underclad cracks have been detected and that were fabricated in accordance with Regulatory Guide 1.43. |                                                                        |
+| 8 RTPTS limits contribute 1 × 10−8 per reactor year to the reactor vessel TWCF.                                                                                           |                                                                        |
+| 9 Forgings with underclad cracks apply to forgings that have detected underclad cracking or were not fabricated in accordance with Regulatory Guide 1.43.                 |                                                                        |
 
-| Product form and RTMAX-X   values            | RTMAX-X limits \[ °F\] for different vessel wall thicknesses 6 (TWALL) |
-| -------------------------------------------- | ---------------------------------------------------------------------- |
-| Axial Weld - RTMAX-AW                        | 269                                                                    |
-| Plate - RTMAX-PL                             | 356                                                                    |
-| Forging without underclad cracks - RTMAX-FO7 | 356                                                                    |
-| Axial Weld and Plate - RTMAX-AW + RTMAX-PL   | 538                                                                    |
-| Circumferential Weld - RTMAX-CW8             | 312                                                                    |
-| Forging with underclad cracks - RTMAX-FO9    | 246                                                                    |
-
-6 Wall thickness is the beltline wall thickness including the clad thickness.
-
-7 Forgings without underclad cracks apply to forgings for which no underclad cracks have been detected and that were fabricated in accordance with Regulatory Guide 1.43.
-
-8 RTPTS limits contribute 1 × 10−8 per reactor year to the reactor vessel TWCF.
-
-9 Forgings with underclad cracks apply to forgings that have detected underclad cracking or were not fabricated in accordance with Regulatory Guide 1.43.
-
-Table 2 - Allowable Number of Flaws in Welds
-
+Table 2—Allowable Number of Flaws in Welds
 | Through-wall extent, TWE \[in.\] | Maximum number of flaws per 1,000-inches of weld length in the inspection volume that are greater than or equal to TWEMIN and less than TWEMAX |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0                                | 0.075                                                                                                                                          |
@@ -170,8 +164,7 @@ Table 2 - Allowable Number of Flaws in Welds
 | 0.425                            | 0.475                                                                                                                                          |
 | 0.475                            | Infinite                                                                                                                                       |
 
-Table 3 - Allowable Number of Flaws in Plates and Forgings
-
+Table 3—Allowable Number of Flaws in Plates and Forgings
 | Through-wall extent, TWE \[in.\] | Maximum number of flaws per 1,000 square-inches of inside surface area in the inspection volume that are greater than or equal to TWEMIN and less than TWEMAX. This flaw density does not include underclad cracks in forgings |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 0                                | 0.075                                                                                                                                                                                                                          |
@@ -183,16 +176,14 @@ Table 3 - Allowable Number of Flaws in Plates and Forgings
 | 0.325                            | 0.375                                                                                                                                                                                                                          |
 | 0.375                            | Infinite                                                                                                                                                                                                                       |
 
-Table 4 - Conservative Estimates for Chemical Element Weight Percentages
-
+Table 4—Conservative Estimates for Chemical Element Weight Percentages
 | Materials | P     | Mn   |
 | --------- | ----- | ---- |
 | Plates    | 0.014 | 1.45 |
 | Forgings  | 0.016 | 1.11 |
 | Welds     | 0.019 | 1.63 |
 
-Table 5 - Maximum Heat-Average Residual \[ °F\] for Relevant Material Groups by Number of Available Data Points (Significance Level = 1%)
-
+Table 5—Maximum Heat-Average Residual \[ °F\] for Relevant Material Groups by Number of Available Data Points (Significance Level = 1%)
 | Material group                        | σ \[ °F\] | Number of available data points |
 | ------------------------------------- | --------- | ------------------------------- |
 | Welds, for Cu >0.072                  | 26.4      | 35.5                            |
@@ -200,8 +191,7 @@ Table 5 - Maximum Heat-Average Residual \[ °F\] for Relevant Material Groups by
 | Forgings, for Cu >0.072               | 19.6      | 26.4                            |
 | Weld, Plate or Forging, for Cu ≤0.072 | 18.6      | 25.0                            |
 
-Table 6 - TMAX Values for the Slope Deviation Test (Significance Level = 1%)
-
+Table 6—TMAX Values for the Slope Deviation Test (Significance Level = 1%)
 | Number of available   data points (n) | TMAX  |
 | ------------------------------------- | ----- |
 | 3                                     | 31.82 |
@@ -218,8 +208,7 @@ Table 6 - TMAX Values for the Slope Deviation Test (Significance Level = 1%)
 | 14                                    | 2.68  |
 | 15                                    | 2.65  |
 
-Table 7 - Threshold Values for the Outlier Deviation Test (Significance Level = 1%)
-
+Table 7—Threshold Values for the Outlier Deviation Test (Significance Level = 1%)
 | Number of available data points (n) | Second largest allowable normalized residual value (r\*) | Largest allowable normalized residual value (r\*) |
 | ----------------------------------- | -------------------------------------------------------- | ------------------------------------------------- |
 | 3                                   | 1.55                                                     | 2.71                                              |
