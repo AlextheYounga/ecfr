@@ -130,7 +130,7 @@ We have determined that no areas meet the definition of critical habitat under s
 
 Jaguar (*Panthera onca*)
 
-(1) Critical habitat units are depicted for Pima, Santa Cruz, and Cochise Counties, Arizona, and Hidalgo County, New Mexico, on the maps below.
+(1) Critical habitat units are depicted for Pima, Santa Cruz, and Cochise Counties, Arizona, on the maps below.
 
 (2) Within these areas, the primary constituent elements of the physical or biological feature essential to the conservation of jaguar consists of expansive open spaces in the southwestern United States of at least 100 km 2 (32 to 38.6 mi 2) in size which:
 
@@ -152,17 +152,17 @@ Jaguar (*Panthera onca*)
 
 (4) *Critical habitat map units.* Data layers defining map units were created using hydrography data, vegetation biomes, tree cover, terrain ruggedness, elevation, Human Influence Index, and undisputed Class I jaguar records from 1962 to September 11, 2013, and were then mapped using Universal Transverse Mercator (UTM) coordinates.
 
-(5) Note: Index map follows:
+(5) *Note:* Index map follows:
 
-![](/graphics/er05mr14.002.gif)
+![](/graphics/er22jy21.021.gif)
 
 (6) Units 1, 2, 3, and 4: Baboquivari, Atascosa, Patagonia, and Whetstone Units, Pima, Santa Cruz, and Cochise Counties, Arizona. Map of Units 1, 2, 3, and 4 follows:
 
 ![](/graphics/er05mr14.003.gif)
 
-(7) Units 5 and 6: Peloncillo and San Luis Units, Cochise County, Arizona, and Hidalgo County, New Mexico. Map of Units 5 and 6 follows:
+(7) Unit 5: Peloncillo Unit, Cochise County, Arizona. Map of Unit 5 follows:
 
-![](/graphics/er05mr14.004.gif)Fresno Kangaroo Rat (*Dipodomys nitratoides exilis*)
+![](/graphics/er22jy21.022.gif)Fresno Kangaroo Rat (*Dipodomys nitratoides exilis*)
 
 *California.* An area of land, water, and airspace in Fresno County, with the following components (Mt. Diablo Base Meridian): T14S R15E, E 1/2 NW 1/4 and NE 1/4 Sec. 11, that part of W 1/2 Sec. 12 north of the Southern Pacific Railroad, E 1/2 Sec. 12; T14S R16E, that part of Sec. 7 south of the Southern Pacific Railroad.
 
