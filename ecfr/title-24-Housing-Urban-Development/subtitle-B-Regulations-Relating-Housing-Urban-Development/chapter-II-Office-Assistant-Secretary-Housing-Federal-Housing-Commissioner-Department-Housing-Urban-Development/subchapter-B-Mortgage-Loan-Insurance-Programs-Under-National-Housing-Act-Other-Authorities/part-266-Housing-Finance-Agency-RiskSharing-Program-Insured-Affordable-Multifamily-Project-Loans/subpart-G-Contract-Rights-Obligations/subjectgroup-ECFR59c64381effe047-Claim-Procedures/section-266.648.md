@@ -1,5 +1,7 @@
 ##### § 266.648 Items included in total loss.
 
+Link to an amendment published at 85 FR 83445, Dec. 22, 2020.
+
 In computing the total loss, the following items are added to the amount described in § 266.646(a):
 
 (a) The amount of all payments that the HFA made from its own funds and not from project income for:
