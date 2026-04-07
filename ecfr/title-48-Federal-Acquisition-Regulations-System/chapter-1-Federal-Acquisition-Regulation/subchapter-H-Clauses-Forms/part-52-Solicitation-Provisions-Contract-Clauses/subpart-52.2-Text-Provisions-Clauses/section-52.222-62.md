@@ -2,7 +2,7 @@
 
 As prescribed at 22.2110, insert the following clause:
 
-Paid Sick Leave Under Executive Order 13706 (JAN 2017) 
+Paid Sick Leave Under Executive Order 13706 (JAN 2017)
 
 (a) *Definitions.* As used in this clause (in accordance with 29 CFR 13.2) -
 

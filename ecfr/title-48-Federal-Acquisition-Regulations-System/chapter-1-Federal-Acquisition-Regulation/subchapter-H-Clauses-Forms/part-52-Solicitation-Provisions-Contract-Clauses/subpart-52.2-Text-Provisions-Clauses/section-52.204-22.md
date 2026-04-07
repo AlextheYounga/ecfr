@@ -2,7 +2,7 @@
 
 As prescribed in 4.1008, insert the following provision:
 
-Alternative Line Item Proposal (JAN 2017) 
+Alternative Line Item Proposal (JAN 2017)
 
 (a) The Government recognizes that the line items established in this solicitation may not conform to the Offeror's practices. Failure to correct these issues can result in difficulties in acceptance of deliverables and processing payments. Therefore, the Offeror is invited to propose alternative line items for which bids, proposals, or quotes are requested in this solicitation to ensure that the resulting contract is economically and administratively advantageous to the Government and the Offeror.
 

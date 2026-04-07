@@ -1,4 +1,4 @@
-##### § 1301.19 Appeals on initial adverse agency determination on correction or amendment.
+##### § 1301.29 Appeals on initial adverse agency determination on correction or amendment.
 
 (a) An individual may appeal an initial determination refusing to amend that individual's record in accordance with this section. An appeal must be taken within 20 days of receipt of notice of TVA's initial refusal to amend the record and is taken by delivering a written notice of appeal to the Privacy Act Reviewing Official, Tennessee Valley Authority, Knoxville, Tennessee 37902-1401. Such notice shall be signed by the appellant and shall state:
 
@@ -32,4 +32,4 @@
 
 (f) If the reviewing official's final determination of an appeal is a refusal to correct or amend a record, in whole or in part, in accordance with the request, the appellant may file with TVA a concise statement setting forth the reasons for his or her disagreement with the refusal of TVA to amend the records. Such statements normally should not exceed 100 words. A statement of disagreement should be submitted within 30 days of receipt of notice of the reviewing official's decision on the appeal, and should be sent to system manager. In any disclosure containing information about which the individual has filed a statement of disagreement which occurs after the filing of the statement, TVA will clearly note any portion of the record which is disputed and provide copies of the statement with the disclosure. Copies of the statement will also be furnished to persons or other agencies to whom the record has been disclosed to the extent that an accounting of disclosures was made. TVA may attach to the statement of disagreement a brief summary of TVA's reasons for refusing to amend the record. Such summaries will be disclosed to the individual, but are not subject to amendment.
 
-\[40 FR 45313, Oct. 1, 1975. Redesignated at 44 FR 30682, May 29, 1979, and amended at 53 FR 30253, Aug. 11, 1988; 57 FR 33634, July 30, 1992; 75 FR 11736, Mar. 12, 2010\]
+\[40 FR 45313, Oct. 1, 1975. Redesignated at 44 FR 30682, May 29, 1979, and amended at 53 FR 30253, Aug. 11, 1988; 57 FR 33634, July 30, 1992; 75 FR 11736, Mar. 12, 2010. Redesignated at 82 FR 51757, Nov. 8, 2017\]

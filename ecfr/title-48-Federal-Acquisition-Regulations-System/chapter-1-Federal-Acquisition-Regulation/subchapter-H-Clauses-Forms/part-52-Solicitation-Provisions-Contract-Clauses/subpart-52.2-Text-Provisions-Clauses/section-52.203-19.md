@@ -4,7 +4,7 @@ As prescribed in 3.909-3(b), insert the following clause:
 
 Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Internal confidentiality agreement or statement* means a confidentiality agreement or any other written statement that the contractor requires any of its employees or subcontractors to sign regarding nondisclosure of contractor information, except that it does not include confidentiality agreements arising out of civil litigation or confidentiality agreements that contractor employees or subcontractors sign at the behest of a Federal agency.
 
