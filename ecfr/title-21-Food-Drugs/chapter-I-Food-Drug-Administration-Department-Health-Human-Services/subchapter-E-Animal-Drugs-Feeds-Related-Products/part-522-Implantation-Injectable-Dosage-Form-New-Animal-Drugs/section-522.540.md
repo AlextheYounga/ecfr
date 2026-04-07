@@ -6,7 +6,7 @@
 
 (i) Nos. 000061, 016592, and 061133 for use as in paragraph (a)(3) of this section.
 
-(ii) *Sponsors.* See Nos. 054925 and 058005 for use as in paragraphs (a)(3)(i)(C), (a)(3)(i)(D), (a)(3)(ii)(A), and (a)(3)(iii) of this section.
+(ii) No. 058005 for use as in paragraphs (a)(3)(i)(C), (a)(3)(i)(D), (a)(3)(ii)(A), and (a)(3)(iii) of this section.
 
 (3) *Conditions of use*—(i) *Amount.* The drug is administered intravenously or intramuscularly and dosage may be repeated if necessary, as follows:
 
