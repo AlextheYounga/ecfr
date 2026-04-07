@@ -1,28 +1,28 @@
 ##### § 850.217 Notifiable transaction.
 
-The term *notifiable transaction* means a covered transaction (that is not a prohibited transaction) in which the relevant covered foreign person or, with respect to a covered transaction described in § 850.210(a)(5), the relevant joint venture:
+The term *notifiable transaction* means a covered transaction (that is not a prohibited transaction) in which the relevant covered foreign person or, with respect to a covered transaction described in § 850.210(a)(5), the relevant joint venture: 
 
-(a) Designs any integrated circuit that is not described in § 850.224(c);
+(a) Designs any integrated circuit that is not described in § 850.224(c); 
 
-(b) Fabricates any integrated circuit that is not described in § 850.224(d);
+(b) Fabricates any integrated circuit that is not described in § 850.224(d); 
 
-(c) Packages any integrated circuit that is not described in § 850.224(e);
+(c) Packages any integrated circuit that is not described in § 850.224(e); 
 
-(d) Develops any AI system that is not described in § 850.224(j) or (k) and that is:
+(d) Develops any AI system that is not described in § 850.224(j) or (k) and that is: 
 
-(1) Designed to be used for any military end use (*e.g.,* for weapons targeting, target identification, combat simulation, military vehicle or weapons control, military decision-making, weapons design (including chemical, biological, radiological, or nuclear weapons), or combat system logistics and maintenance); or government intelligence or mass-surveillance end use (*e.g.,* through incorporation of features such as mining text, audio, or video; image recognition; location tracking; or surreptitious listening devices);
+(1) Designed to be used for any military end use (*e.g.,* for weapons targeting, target identification, combat simulation, military vehicle or weapons control, military decision-making, weapons design (including chemical, biological, radiological, or nuclear weapons), or combat system logistics and maintenance); or government intelligence or mass-surveillance end use (*e.g.,* through incorporation of features such as mining text, audio, or video; image recognition; location tracking; or surreptitious listening devices); 
 
-(2) Intended by the covered foreign person or joint venture to be used for any of the following:
+(2) Intended by the covered foreign person or joint venture to be used for any of the following: 
 
-(i) Cybersecurity applications;
+(i) Cybersecurity applications; 
 
-(ii) Digital forensics tools;
+(ii) Digital forensics tools; 
 
-(iii) Penetration testing tools; or
+(iii) Penetration testing tools; or 
 
-(iv) The control of robotic systems; or
+(iv) The control of robotic systems; or 
 
-(3) Trained using a quantity of computing power greater than 10^23 computational operations (*e.g.,* integer or floating-point operations).
+(3) Trained using a quantity of computing power greater than 10^23 computational operations (*e.g.,* integer or floating-point operations). 
 
 Note 1 to § 850.217:
 

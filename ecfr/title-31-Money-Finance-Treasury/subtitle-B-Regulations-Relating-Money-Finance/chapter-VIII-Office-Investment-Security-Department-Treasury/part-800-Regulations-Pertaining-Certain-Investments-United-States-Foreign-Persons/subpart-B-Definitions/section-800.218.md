@@ -1,10 +1,10 @@
 ##### § 800.218 Excepted foreign state.
 
-The term *excepted foreign state* means, until February 13, 2023, a foreign state that meets the criteria in paragraph (a) of this section, and, beginning on February 13, 2023, a foreign state that meets both the criteria in paragraphs (a) and (b) of this section:
+The term *excepted foreign state* means, until February 13, 2023, a foreign state that meets the criteria in paragraph (a) of this section, and, beginning on February 13, 2023, a foreign state that meets both the criteria in paragraphs (a) and (b) of this section: 
 
-(a) Is identified by the Committee as an eligible foreign state, and
+(a) Is identified by the Committee as an eligible foreign state, and 
 
-(b) Is a foreign state for which the Committee has made a determination under § 800.1001(a).
+(b) Is a foreign state for which the Committee has made a determination under § 800.1001(a). 
 
 Note 1 to § 800.218:
 

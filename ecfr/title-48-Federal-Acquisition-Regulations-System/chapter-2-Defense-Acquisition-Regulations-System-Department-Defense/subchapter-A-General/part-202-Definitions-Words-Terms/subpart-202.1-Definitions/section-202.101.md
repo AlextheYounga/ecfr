@@ -44,6 +44,12 @@
 
 *Major defense acquisition program* is defined in 10 U.S.C. 4201.
 
+*Material weakness* means a deficiency or combination of deficiencies in the internal control over information in contractor business systems, such that there is a reasonable possibility that a material misstatement of such information will not be prevented, or detected and corrected, on a timely basis. A reasonable possibility exists when the likelihood of an event occurring is—
+
+(1) Probable; or
+
+(2) More than remote but less than likely (section 806 of Pub. L. 116-283).
+
 *Milestone decision authority,* with respect to a major defense acquisition program or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process (10 U.S.C. 4211).
 
 *Non-Government sales* means sales of the supplies or services to non-Governmental entities for purposes other than governmental purposes.

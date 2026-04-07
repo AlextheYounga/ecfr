@@ -1,34 +1,34 @@
 ##### § 592.307 Kimberley Process Certificate.
 
-The term *Kimberley Process Certificate* means a tamper- and forgery-resistant document that bears the following information in any language, provided that an English translation is incorporated:
+The term *Kimberley Process Certificate* means a tamper- and forgery-resistant document that bears the following information in any language, provided that an English translation is incorporated: 
 
-(a) The title “Kimberley Process Certificate” and the statement: “The rough diamonds in this shipment have been handled in accordance with the provisions of the Kimberley Process Certification Scheme for rough diamonds”;
+(a) The title “Kimberley Process Certificate” and the statement: “The rough diamonds in this shipment have been handled in accordance with the provisions of the Kimberley Process Certification Scheme for rough diamonds”; 
 
-(b) Country of origin for shipment of parcels of unmixed (*i.e.*, from the same) origin;
+(b) Country of origin for shipment of parcels of unmixed (*i.e.*, from the same) origin; 
 
 Note to paragraph (b):
 
 A shipment including a parcel of mixed-origin rough diamonds is to be entered into the United States with the Kimberley Process Certificate accompanying the shipment, and the certificate need not indicate the countries of origin of the diamonds. With respect to such a shipment, the country-of-origin field on the certificate must be filled in with asterisks. The shipment must, however, still comply with all other country-of-origin reporting requirements imposed by statute or regulation.
 
-(c) Unique numbering with the Alpha 2 country code, according to ISO 3166-1;
+(c) Unique numbering with the Alpha 2 country code, according to ISO 3166-1; 
 
-(d) Date of issuance;
+(d) Date of issuance; 
 
-(e) Date of expiry;
+(e) Date of expiry; 
 
-(f) Name of issuing authority;
+(f) Name of issuing authority; 
 
-(g) Identification of exporter and importer;
+(g) Identification of exporter and importer; 
 
-(h) Carat weight/mass;
+(h) Carat weight/mass; 
 
-(i) Value in U.S. dollars;
+(i) Value in U.S. dollars; 
 
-(j) Number of parcels in the shipment;
+(j) Number of parcels in the shipment; 
 
-(k) Relevant Harmonized Commodity Description and Coding System; and
+(k) Relevant Harmonized Commodity Description and Coding System; and 
 
-(l) Validation by the exporting authority.
+(l) Validation by the exporting authority. 
 
 Note to paragraph (l):
 

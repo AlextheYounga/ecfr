@@ -1,30 +1,28 @@
-##### § 11.309 Requirements to qualify for an STCW endorsement as Officer in charge of a navigational watch (OICNW) of vessels of 500 GT or more (operational level).
+##### § 11.309 Requirements to qualify for an STCW endorsement as Officer in Charge of a Navigational Watch of vessels of 500 GT or more (operational level).
 
-Link to an amendment published at 89 FR 93071, Nov. 25, 2024.
-
-(a) To qualify for an STCW endorsement as OICNW, an applicant must— 
+(a) To qualify for an STCW endorsement as Officer in Charge of a Navigational Watch (OICNW), an applicant must— 
 
 (1) Provide evidence of seagoing service as follows: 
 
 (i) Thirty-six months of seagoing service in the deck department on vessels operating in oceans, near-coastal waters, and/or Great Lakes. Service on inland waters, bays, or sounds that are navigable waters of the United States may be substituted for up to 50 percent of the total required service; or 
 
-(ii) Twelve months of seagoing service as part of an approved training program, which includes onboard training that meets the requirements of Section A-II/1 of the STCW Code (incorporated by reference, see § 11.102 of this part); 
+(ii) Twelve months of seagoing service as part of an approved training program, which includes onboard training that meets the requirements of Section A-II/1 of the STCW Code (incorporated by reference, see § 11.102); 
 
-(2) Provide evidence of having performed, during the required seagoing service, bridge watchkeeping duties under the supervision of an officer holding the STCW endorsement as master, chief mate, second mate, or OICNW, for a period of not less than 6 months; 
+(2) Provide evidence of having performed, during the required seagoing service, bridge watchkeeping duties under the supervision of an officer holding the STCW endorsement as Master, Chief Mate, Second Mate, or OICNW, for a period of not less than 6 months; 
 
 (3) Provide evidence of meeting the standard of competence specified in Section A-II/1 of the STCW Code; and 
 
 (4) Provide evidence of having satisfactorily completed approved training in the following subject areas: 
 
-(i) Medical first-aid provider. 
+(i) Medical First-aid Provider. 
 
-(ii) Radar observer. 
+(ii) Radar Observer. 
 
 (iii) Search and rescue. 
 
-(iv) Basic and advanced firefighting in accordance with § 11.303 of this subpart. 
+(iv) Basic and Advanced Firefighting in accordance with § 11.303. 
 
-(v) Proficiency in survival craft and rescue boats other than fast rescue boats (PSC) or proficiency in survival craft and rescue boats other than lifeboats and fast rescue boats (PSC-limited). 
+(v) Proficiency in Survival Craft and Rescue Boats other than Fast Rescue Boats (PSC) or Proficiency in Survival Craft and Rescue Boats other than Lifeboats and Fast Rescue Boats (PSC-Limited). 
 
 (vi) Visual signaling. 
 
@@ -61,16 +59,16 @@ Link to an amendment published at 89 FR 93071, Nov. 25, 2024.
 (e) Seafarers with one of the following national officer endorsements are eligible to apply for this endorsement upon completion of the requirements in the following table: 
 
 Table 1 to § 11.309(e)—STCW Endorsement as OICNW of Vessels of 500 GT or More
-| Entry path from national endorsements                                                                                             | Sea service under authority of the endorsement 1 | Competence—STCW Table A-II/1 2 | Training required by this   section 3 |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------ | ------------------------------------- |
-| Mate ocean or near-coastal, unlimited tonnage                                                                                     | None                                             | Yes                            | Yes.                                  |
-| Master ocean or near-coastal, less than 500 GRT                                                                                   | 6 months                                         | Yes                            | Yes.                                  |
-| Mate ocean or near-coastal, less than 1,600 GRT                                                                                   | None                                             | Yes                            | Yes.                                  |
-| Mate ocean or near-coastal, less than 500 GRT                                                                                     | 12 months                                        | Yes                            | Yes.                                  |
-| Mate OSV                                                                                                                          | 12 months 1                                      | Yes                            | Yes.                                  |
-| Mate towing vessel ocean or near-coastal                                                                                          | 6 months                                         | Yes                            | Yes.                                  |
-| 1 This column provides the minimum additional service required of the seafarer in order to meet the requirements of this section. |                                                  |                                |                                       |
-| 2 Complete any items in paragraph (a)(3) of this section not previously satisfied.                                                |                                                  |                                |                                       |
-| 3 Complete any items in paragraph (a)(4) of this section not previously satisfied.                                                |                                                  |                                |                                       |
+| Entry path from national endorsements                                                                                             | Sea service under authority   of the endorsement 1 | Competence—   STCW Table A-II/1 2 | Training required by this   section 3 |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | --------------------------------- | ------------------------------------- |
+| Mate ocean or near-coastal, unlimited tonnage                                                                                     | None                                               | Yes                               | Yes.                                  |
+| Master ocean or near-coastal, less than 500 GRT                                                                                   | 6 months                                           | Yes                               | Yes.                                  |
+| Mate ocean or near-coastal, less than 1,600 GRT                                                                                   | None                                               | Yes                               | Yes.                                  |
+| Mate ocean or near-coastal, less than 500 GRT                                                                                     | 12 months                                          | Yes                               | Yes.                                  |
+| Mate OSV                                                                                                                          | 12 months1                                         | Yes                               | Yes.                                  |
+| Mate of Towing Vessels ocean or near-coastal                                                                                      | 6 months                                           | Yes                               | Yes.                                  |
+| 1 This column provides the minimum additional service required of the seafarer in order to meet the requirements of this section. |                                                    |                                   |                                       |
+| 2 Complete any items in paragraph (a)(3) of this section not previously satisfied.                                                |                                                    |                                   |                                       |
+| 3 Complete any items in paragraph (a)(4) of this section not previously satisfied.                                                |                                                    |                                   |                                       |
 
-\[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58276, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019\]
+\[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58276, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2021-0097, 89 FR 93071, Nov. 25, 2024\]

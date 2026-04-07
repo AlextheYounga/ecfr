@@ -1,26 +1,26 @@
 ##### § 560.211 Prohibited transactions involving blocked property.
 
-(a) All property and interests in property of the Government of Iran, including the Central Bank of Iran, that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person, including any foreign branch, are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in.
+(a) All property and interests in property of the Government of Iran, including the Central Bank of Iran, that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person, including any foreign branch, are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in. 
 
-(b) All property and interests in property of any Iranian financial institution, including the Central Bank of Iran, that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person, including any foreign branch, are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in.
+(b) All property and interests in property of any Iranian financial institution, including the Central Bank of Iran, that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person, including any foreign branch, are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in. 
 
-(c)(1) All property and interests in property that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person, including any foreign branch, of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in:
+(c)(1) All property and interests in property that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person, including any foreign branch, of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in: 
 
-(i) Any person determined by the Secretary of the Treasury, in consultation with the Secretary of State, to be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraphs (a) through (c)(1)(i) of this section; or
+(i) Any person determined by the Secretary of the Treasury, in consultation with the Secretary of State, to be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraphs (a) through (c)(1)(i) of this section; or 
 
-(ii) Any person determined by the Secretary of the Treasury, in consultation with the Secretary of State:
+(ii) Any person determined by the Secretary of the Treasury, in consultation with the Secretary of State: 
 
-(A) To have, on or after August 7, 2018, materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, the purchase or acquisition of U.S. bank notes or precious metals by the Government of Iran; or
+(A) To have, on or after August 7, 2018, materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, the purchase or acquisition of U.S. bank notes or precious metals by the Government of Iran; or 
 
-(B) To have, on or after November 5, 2018, materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, the National Iranian Oil Company (NIOC); the Naftiran Intertrade Company (NICO); any entity owned or controlled by, or operating for or on behalf of, NIOC or NICO; or the Central Bank of Iran.
+(B) To have, on or after November 5, 2018, materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, the National Iranian Oil Company (NIOC); the Naftiran Intertrade Company (NICO); any entity owned or controlled by, or operating for or on behalf of, NIOC or NICO; or the Central Bank of Iran. 
 
-(2) Paragraph (c)(1)(ii) of this section shall not apply with respect to any person for conducting or facilitating a transaction involving a project—
+(2) Paragraph (c)(1)(ii) of this section shall not apply with respect to any person for conducting or facilitating a transaction involving a project— 
 
-(i) For the development of natural gas and the construction and operation of a pipeline to transport natural gas from Azerbaijan to Turkey and Europe;
+(i) For the development of natural gas and the construction and operation of a pipeline to transport natural gas from Azerbaijan to Turkey and Europe; 
 
-(ii) That provides to Turkey and countries in Europe energy security and energy independence from the Government of the Russian Federation and the Government of Iran; and
+(ii) That provides to Turkey and countries in Europe energy security and energy independence from the Government of the Russian Federation and the Government of Iran; and 
 
-(iii) That was initiated before August 10, 2012 pursuant to a production-sharing agreement, or an ancillary agreement necessary to further a production-sharing agreement, entered into with, or a license granted by, the government of a country other than Iran before August 10, 2012.
+(iii) That was initiated before August 10, 2012 pursuant to a production-sharing agreement, or an ancillary agreement necessary to further a production-sharing agreement, entered into with, or a license granted by, the government of a country other than Iran before August 10, 2012. 
 
 Note to paragraph (c)(2) of § 560.211:
 
@@ -42,14 +42,14 @@ Note 4 to paragraphs (a) through (c):
 
 Subpart E of part 501 of this chapter describes the procedures to be followed for the release of property and interests in property blocked pursuant to this section, including funds blocked due to mistaken identity or typographical or similar errors, and for administrative reconsideration of one's status as a person whose property and interests in property are blocked pursuant to paragraph (a) of this section.
 
-(d) The prohibitions in paragraphs (a) through (c) of this section include, but are not limited to, prohibitions on the following transactions:
+(d) The prohibitions in paragraphs (a) through (c) of this section include, but are not limited to, prohibitions on the following transactions: 
 
-(1) The making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to paragraphs (a) through (c) of this section; and
+(1) The making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to paragraphs (a) through (c) of this section; and 
 
-(2) The receipt of any contribution or provision of funds, goods, or services from any person whose property and interests in property are blocked pursuant to paragraphs (a) through (c) of this section.
+(2) The receipt of any contribution or provision of funds, goods, or services from any person whose property and interests in property are blocked pursuant to paragraphs (a) through (c) of this section. 
 
-(e) Unless authorized by this part or by a specific license expressly referring to this section, any dealing in any security (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of, or known to be held for the benefit of, or issued by, the Government of Iran, an Iranian financial institution, or any other person whose property and interests in property are blocked pursuant to this section is prohibited. This prohibition includes but is not limited to the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on, any such security on or after the effective date. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such security may have or might appear to have assigned, transferred, or otherwise disposed of the security.
+(e) Unless authorized by this part or by a specific license expressly referring to this section, any dealing in any security (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of, or known to be held for the benefit of, or issued by, the Government of Iran, an Iranian financial institution, or any other person whose property and interests in property are blocked pursuant to this section is prohibited. This prohibition includes but is not limited to the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on, any such security on or after the effective date. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such security may have or might appear to have assigned, transferred, or otherwise disposed of the security. 
 
-(f) The prohibitions in paragraphs (a) through (c) of this section apply except to the extent transactions are authorized by regulations, orders, directives, rulings, instructions, licenses, or otherwise, and notwithstanding any contracts entered into or any license or permit granted prior to the effective date.
+(f) The prohibitions in paragraphs (a) through (c) of this section apply except to the extent transactions are authorized by regulations, orders, directives, rulings, instructions, licenses, or otherwise, and notwithstanding any contracts entered into or any license or permit granted prior to the effective date. 
 
 \[77 FR 64666, Oct. 22, 2012, as amended at 77 FR 75847, Dec. 26, 2012; 81 FR 3332, Jan. 21, 2016; 83 FR 55270, Nov. 5, 2018; 89 FR 75962, Sept. 17, 2024\]

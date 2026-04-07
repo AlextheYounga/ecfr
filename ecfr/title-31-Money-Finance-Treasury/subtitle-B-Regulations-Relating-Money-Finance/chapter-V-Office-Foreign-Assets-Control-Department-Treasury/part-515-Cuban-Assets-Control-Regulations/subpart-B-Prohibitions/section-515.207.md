@@ -1,10 +1,10 @@
 ##### § 515.207 Entry of vessels engaged in trade with Cuba.
 
-Except as specifically authorized by the Secretary of the Treasury (or any person, agency or instrumentality designated by him), by means of regulations, rulings, instructions, licenses or otherwise,
+Except as specifically authorized by the Secretary of the Treasury (or any person, agency or instrumentality designated by him), by means of regulations, rulings, instructions, licenses or otherwise, 
 
-(a) No vessel that enters a port or place in Cuba to engage in the trade of goods or the purchase or provision of services, may enter a U.S. port for the purpose of loading or unloading freight for a period of 180 days from the date the vessel departed from a port or place in Cuba; and
+(a) No vessel that enters a port or place in Cuba to engage in the trade of goods or the purchase or provision of services, may enter a U.S. port for the purpose of loading or unloading freight for a period of 180 days from the date the vessel departed from a port or place in Cuba; and 
 
-(b) No vessel carrying goods or passengers to or from Cuba or carrying goods in which Cuba or a Cuban national has an interest may enter a U.S. port with such goods or passengers on board.
+(b) No vessel carrying goods or passengers to or from Cuba or carrying goods in which Cuba or a Cuban national has an interest may enter a U.S. port with such goods or passengers on board. 
 
 Note to § 515.207:
 

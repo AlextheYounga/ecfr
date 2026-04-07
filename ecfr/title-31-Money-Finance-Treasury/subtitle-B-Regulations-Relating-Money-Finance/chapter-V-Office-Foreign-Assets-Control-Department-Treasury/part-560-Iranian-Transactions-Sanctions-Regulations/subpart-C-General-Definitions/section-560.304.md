@@ -1,14 +1,14 @@
 ##### § 560.304 Government of Iran.
 
-The term *Government ofIran* includes:
+The term *Government ofIran* includes: 
 
-(a) The state and the Government of Iran, as well as any political subdivision, agency, or instrumentality thereof, including the Central Bank of Iran;
+(a) The state and the Government of Iran, as well as any political subdivision, agency, or instrumentality thereof, including the Central Bank of Iran; 
 
-(b) Any person owned or controlled, directly or indirectly, by the foregoing;
+(b) Any person owned or controlled, directly or indirectly, by the foregoing; 
 
-(c) Any person to the extent that such person is, or has been, since the effective date, acting or purporting to act, directly or indirectly, for or on behalf of the foregoing; and
+(c) Any person to the extent that such person is, or has been, since the effective date, acting or purporting to act, directly or indirectly, for or on behalf of the foregoing; and 
 
-(d) Any other person determined by the Office of Foreign Assets Control to be included within paragraphs (a) through (c) of this section.
+(d) Any other person determined by the Office of Foreign Assets Control to be included within paragraphs (a) through (c) of this section. 
 
 Note 1 to § 560.304:
 

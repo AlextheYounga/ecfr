@@ -1,14 +1,14 @@
 ##### § 515.306 Specially designated national.
 
-(a) The term *specially designated national* shall mean:
+(a) The term *specially designated national* shall mean: 
 
-(1) Any person who is determined by the Secretary of the Treasury to be a specially designated national,
+(1) Any person who is determined by the Secretary of the Treasury to be a specially designated national, 
 
-(2) Any person who on or since the “effective date” has acted for or on behalf of the Government or authorities exercising control over a designated foreign country, or
+(2) Any person who on or since the “effective date” has acted for or on behalf of the Government or authorities exercising control over a designated foreign country, or 
 
-(3) Any partnership, association, corporation or other organization which on or since the “effective date” has been owned or controlled directly or indirectly by the Government or authorities exercising control over a designated foreign country or by any specially designated national.
+(3) Any partnership, association, corporation or other organization which on or since the “effective date” has been owned or controlled directly or indirectly by the Government or authorities exercising control over a designated foreign country or by any specially designated national. 
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
 Note to § 515.306:
 

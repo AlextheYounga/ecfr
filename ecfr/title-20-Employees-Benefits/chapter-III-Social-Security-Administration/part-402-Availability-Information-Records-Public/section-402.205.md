@@ -1,3 +1,0 @@
-##### § 402.205 U.S. District Court action.
-
-If the Commissioner or a designee, upon review, affirms the denial of your request for records, in whole or in part, you may ask a U.S. District Court to review that denial. See 5 U.S.C. 552(a)(4)(B). If we fail to act on your request for a record or for review of a denial of such a request within the time limits in § 402.140(a) or in § 402.190(b), you may ask a U.S. District Court to treat this as if the Commissioner had denied your request.

@@ -1,32 +1,32 @@
 ##### § 526.201 Prohibited transactions.
 
-(a) All property and interests in property that are in the United States, that come within the United States, or that are or come within the possession or control of any U.S. person of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in:
+(a) All property and interests in property that are in the United States, that come within the United States, or that are or come within the possession or control of any U.S. person of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in: 
 
-(1) Any foreign person determined by the Secretary of State, in consultation with the Secretary of the Treasury and the Attorney General:
+(1) Any foreign person determined by the Secretary of State, in consultation with the Secretary of the Treasury and the Attorney General: 
 
-(i) To be responsible for or complicit in, to have directly or indirectly engaged in, or to be responsible for ordering, controlling, or otherwise directing, the hostage-taking of a United States national or the wrongful detention of a United States national abroad;
+(i) To be responsible for or complicit in, to have directly or indirectly engaged in, or to be responsible for ordering, controlling, or otherwise directing, the hostage-taking of a United States national or the wrongful detention of a United States national abroad; 
 
-(ii) To have attempted to engage in any activity described in paragraph (a)(1)(i) of this section; or
+(ii) To have attempted to engage in any activity described in paragraph (a)(1)(i) of this section; or 
 
-(iii) To be or have been a leader or official of an entity that has engaged in, or whose members have engaged in, any of the activities described in paragraph (a)(1)(i) or (ii) of this section relating to the leader's or official's tenure;
+(iii) To be or have been a leader or official of an entity that has engaged in, or whose members have engaged in, any of the activities described in paragraph (a)(1)(i) or (ii) of this section relating to the leader's or official's tenure; 
 
-(2) Any foreign person determined by the Secretary of the Treasury, in consultation with the Secretary of State and the Attorney General:
+(2) Any foreign person determined by the Secretary of the Treasury, in consultation with the Secretary of State and the Attorney General: 
 
-(i) To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of:
+(i) To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of: 
 
-(A) Any activity described in paragraph (a)(1)(i) of this section; or
+(A) Any activity described in paragraph (a)(1)(i) of this section; or 
 
-(B) Any person whose property and interests in property are blocked pursuant to paragraph (a)(1) or (2) of this section;
+(B) Any person whose property and interests in property are blocked pursuant to paragraph (a)(1) or (2) of this section; 
 
-(ii) To be owned, controlled, or directed by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraph (a)(1) or (2) of this section; or
+(ii) To be owned, controlled, or directed by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraph (a)(1) or (2) of this section; or 
 
-(iii) To have attempted to engage in any activity described in paragraph (a)(2)(i) of this section.
+(iii) To have attempted to engage in any activity described in paragraph (a)(2)(i) of this section. 
 
-(b) Unless authorized by this part or by a specific license expressly referring to this part, any dealing in securities (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of, or known to be held for the benefit of, or issued by, any person whose property and interests in property are blocked pursuant to paragraph (a) of this section is prohibited. This prohibition includes the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on, any securities on or after the effective date. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such securities may have or might appear to have assigned, transferred, or otherwise disposed of the securities.
+(b) Unless authorized by this part or by a specific license expressly referring to this part, any dealing in securities (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of, or known to be held for the benefit of, or issued by, any person whose property and interests in property are blocked pursuant to paragraph (a) of this section is prohibited. This prohibition includes the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on, any securities on or after the effective date. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such securities may have or might appear to have assigned, transferred, or otherwise disposed of the securities. 
 
-(c) The prohibitions in paragraph (a) of this section apply except to the extent provided by statutes, or in regulations, rulings, instructions, orders, directives, or licenses that may be issued pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to the effective date.
+(c) The prohibitions in paragraph (a) of this section apply except to the extent provided by statutes, or in regulations, rulings, instructions, orders, directives, or licenses that may be issued pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to the effective date. 
 
-(d) All transactions prohibited pursuant to any Executive order issued after July 19, 2022, pursuant to the national emergency declared in E.O. 14078 are prohibited pursuant to this part.
+(d) All transactions prohibited pursuant to any Executive order issued after July 19, 2022, pursuant to the national emergency declared in E.O. 14078 are prohibited pursuant to this part. 
 
 Note 1 to § 526.201.
 

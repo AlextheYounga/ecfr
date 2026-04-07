@@ -1,5 +1,7 @@
 ##### § 1006.51 Class I differential, adjustments to Class I prices, and Class I price.
 
+Link to an amendment published at 90 FR 6650, Jan. 17, 2025.
+
 (a) The Class I differential shall be the differential established for Hillsborough County, Florida, which is reported in § 1000.52. The Class I price shall be the price computed pursuant to § 1006.50(a) for Hillsborough County, Florida.
 
 (b) *Adjustment to Class I prices.* Class I prices shall be established pursuant to § 1000.50(a), (b) and (c) using the following adjustments:

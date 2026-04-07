@@ -1,6 +1,6 @@
 ##### § 591.201 Prohibited transactions.
 
-All transactions prohibited pursuant to Executive Order 13692 of March 8, 2015, or any further Executive orders issued pursuant to the national emergency declared in Executive Order 13692, are prohibited pursuant to this part.
+All transactions prohibited pursuant to Executive Order 13692 of March 8, 2015, or any further Executive orders issued pursuant to the national emergency declared in Executive Order 13692, are prohibited pursuant to this part. 
 
 Note 1 to § 591.201:
 
@@ -8,7 +8,7 @@ The names of persons designated pursuant to Executive Order 13692, or pursuant t
 
 Note 2 to § 591.201:
 
-The International Emergency Economic Powers Act (50 U.S.C. 1701-1706), in Section 203 (50 U.S.C. 1702), authorizes the blocking of property and interests in property of a person during the pendency of an investigation. Except as described in note 3 to this section, the names of persons whose property and interests in property are blocked pending investigation pursuant to this section are published in the Federal Register and incorporated into the SDN List using the identifier formulation “\[BPI-VENEZEULA-E.O. \[E.O. number pursuant to which the person's property and interests in property are blocked pending investigation\]\].”
+The International Emergency Economic Powers Act (50 U.S.C. 1701-1706), in Section 203 (50 U.S.C. 1702), authorizes the blocking of property and interests in property of a person during the pendency of an investigation. Except as described in note 3 to this section, the names of persons whose property and interests in property are blocked pending investigation pursuant to this section are published in the Federal Register and incorporated into the SDN List using the identifier formulation “\[BPI-VENEZEULA-E.O. \[E.O. number pursuant to which the person's property and interests in property are blocked pending investigation\]\].” 
 
 Note 3 to § 591.201:
 

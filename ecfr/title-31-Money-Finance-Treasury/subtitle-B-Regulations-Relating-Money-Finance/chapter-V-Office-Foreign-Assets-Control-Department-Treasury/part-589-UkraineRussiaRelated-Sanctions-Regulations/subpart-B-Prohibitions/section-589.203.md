@@ -1,10 +1,10 @@
 ##### § 589.203 Prohibited transactions with respect to financing activities in the energy sector of the Russian Federation economy (Directive 2).
 
-The following activities by a U.S. person or within the United States are prohibited:
+The following activities by a U.S. person or within the United States are prohibited: 
 
-(a) For new debt issued on or after July 16, 2014 and before November 28, 2017, all transactions in, provision of financing for, and other dealings in new debt of longer than 90 days maturity of persons determined to be subject to this section, their property, or their interests in property; and
+(a) For new debt issued on or after July 16, 2014 and before November 28, 2017, all transactions in, provision of financing for, and other dealings in new debt of longer than 90 days maturity of persons determined to be subject to this section, their property, or their interests in property; and 
 
-(b) For new debt issued on or after November 28, 2017, all transactions in, provision of financing for, and other dealings in new debt of longer than 60 days maturity of persons determined to be subject to this section, their property, or their interests in property.
+(b) For new debt issued on or after November 28, 2017, all transactions in, provision of financing for, and other dealings in new debt of longer than 60 days maturity of persons determined to be subject to this section, their property, or their interests in property. 
 
 Note 1 to § 589.203:
 

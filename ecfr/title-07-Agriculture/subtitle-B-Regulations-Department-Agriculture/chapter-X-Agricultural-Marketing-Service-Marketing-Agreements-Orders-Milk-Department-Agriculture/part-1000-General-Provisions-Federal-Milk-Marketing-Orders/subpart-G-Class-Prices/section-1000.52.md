@@ -1,5 +1,7 @@
 ##### § 1000.52 Adjusted Class I differentials.
 
+Link to an amendment published at 90 FR 6605, Jan. 17, 2025.
+
 The Class I differential adjusted for location to be used in § 1000.50(b) and (c) shall be as follows:
 
 | County/parish/city    | State | FIPS code | Class I   differential adjusted for location |

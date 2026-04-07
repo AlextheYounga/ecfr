@@ -1,14 +1,14 @@
 ##### § 549.201 Prohibited transactions involving blocked property.
 
-(a) All property and interests in property that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of U.S. persons, including their overseas branches, of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in: Any person determined by the Secretary of the Treasury, in consultation with the Secretary of State:
+(a) All property and interests in property that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of U.S. persons, including their overseas branches, of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in: Any person determined by the Secretary of the Treasury, in consultation with the Secretary of State: 
 
-(1) To have taken, or to pose a significant risk of taking, actions, including acts of violence, that have the purpose or effect of undermining Lebanon's democratic processes or institutions, contributing to the breakdown of the rule of law in Lebanon, supporting the reassertion of Syrian control or otherwise contributing to Syrian interference in Lebanon, or infringing upon or undermining Lebanese sovereignty;
+(1) To have taken, or to pose a significant risk of taking, actions, including acts of violence, that have the purpose or effect of undermining Lebanon's democratic processes or institutions, contributing to the breakdown of the rule of law in Lebanon, supporting the reassertion of Syrian control or otherwise contributing to Syrian interference in Lebanon, or infringing upon or undermining Lebanese sovereignty; 
 
-(2) To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, the activities described in paragraph (a)(1) of this section, including acts of violence, or any person whose property and interests in property are blocked pursuant to this paragraph (a);
+(2) To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, the activities described in paragraph (a)(1) of this section, including acts of violence, or any person whose property and interests in property are blocked pursuant to this paragraph (a); 
 
-(3) To be a spouse or dependent child of any person whose property and interests in property are blocked pursuant to this paragraph (a); or
+(3) To be a spouse or dependent child of any person whose property and interests in property are blocked pursuant to this paragraph (a); or 
 
-(4) To be owned or controlled by, or acting or purporting to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to this paragraph (a).
+(4) To be owned or controlled by, or acting or purporting to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to this paragraph (a). 
 
 Note 1 to paragraph (a) of § 549.201:
 
@@ -26,14 +26,14 @@ Note 4 to paragraph (a):
 
 Subpart E of part 501 of this chapter describes the procedures to be followed for the release of property and interests in property blocked pursuant to this section, including funds blocked due to mistaken identity or typographical or similar errors, and for administrative reconsideration of one's status as a person whose property and interests in property are blocked pursuant to this paragraph (a).
 
-(b) The prohibitions in paragraph (a) of this section include, but are not limited to, prohibitions on the following transactions:
+(b) The prohibitions in paragraph (a) of this section include, but are not limited to, prohibitions on the following transactions: 
 
-(1) The making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to paragraph (a) of this section; and
+(1) The making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to paragraph (a) of this section; and 
 
-(2) The receipt of any contribution or provision of funds, goods, or services from any person whose property and interests in property are blocked pursuant to paragraph (a) of this section.
+(2) The receipt of any contribution or provision of funds, goods, or services from any person whose property and interests in property are blocked pursuant to paragraph (a) of this section. 
 
-(c) Unless otherwise authorized by this part or by a specific license expressly referring to this section, any dealing in any security (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of, or known to be held for the benefit of, or issued by, any person whose property and interests in property are blocked pursuant to paragraph (a) of this section is prohibited. This prohibition includes but is not limited to the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on, any such security on or after the effective date. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such security may have or might appear to have assigned, transferred, or otherwise disposed of the security.
+(c) Unless otherwise authorized by this part or by a specific license expressly referring to this section, any dealing in any security (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of, or known to be held for the benefit of, or issued by, any person whose property and interests in property are blocked pursuant to paragraph (a) of this section is prohibited. This prohibition includes but is not limited to the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on, any such security on or after the effective date. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such security may have or might appear to have assigned, transferred, or otherwise disposed of the security. 
 
-(d) The prohibitions in paragraph (a) of this section apply except to the extent transactions are authorized by regulations, orders, directives, rulings, instructions, licenses, or otherwise, and notwithstanding any contracts entered into or any license or permit granted prior to the effective date.
+(d) The prohibitions in paragraph (a) of this section apply except to the extent transactions are authorized by regulations, orders, directives, rulings, instructions, licenses, or otherwise, and notwithstanding any contracts entered into or any license or permit granted prior to the effective date. 
 
 \[75 FR 44909, July 30, 2010, as amended at 76 FR 38538, June 30, 2011; 89 FR 75960, Sept. 17, 2024\]
