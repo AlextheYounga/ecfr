@@ -1,6 +1,6 @@
 ##### § 331.2 Designation of States under paragraph 301(c) of the Act.
 
-Each of the following States has been designated, under paragraph 301(c) of the Act, as a State in which the provisions of Titles I and IV of the Act shall apply to operations and transactions wholly within such State. The Federal provisions apply, effective on the dates shown below: 
+Each of the following States has been designated, under paragraph 301(c) of the Act, as a State in which the provisions of Titles I and IV of the Act shall apply to operations and transactions wholly within such State. The Federal provisions apply, effective on the dates shown below:
 
 | State                     | Effective date of application of Federal provisions |
 | ------------------------- | --------------------------------------------------- |

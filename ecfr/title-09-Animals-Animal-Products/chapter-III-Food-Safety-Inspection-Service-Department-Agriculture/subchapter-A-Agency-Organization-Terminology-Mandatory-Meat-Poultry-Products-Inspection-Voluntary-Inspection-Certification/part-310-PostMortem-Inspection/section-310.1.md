@@ -1,14 +1,14 @@
 ##### § 310.1 Extent and time of post-mortem inspection; post-mortem inspection staffing standards.
 
-(a) A careful post-mortem examination and inspection shall be made of the carcasses and parts thereof of all livestock slaughtered at official establishments. Such inspection and examination shall be made at the time of slaughter unless, because of unusual circumstances, prior arrangements acceptable to the Administrator have been made in specific cases by the circuit supervisor for making such inspection and examination at a later time. 
+(a) A careful post-mortem examination and inspection shall be made of the carcasses and parts thereof of all livestock slaughtered at official establishments. Such inspection and examination shall be made at the time of slaughter unless, because of unusual circumstances, prior arrangements acceptable to the Administrator have been made in specific cases by the circuit supervisor for making such inspection and examination at a later time.
 
-(b)(1) The staffing standards on the basis of the number of carcasses to be inspected per hour are outlined in the following tables. Standards for multiple inspector lines are based on inspectors rotating through the different types of inspection stations during each shift to equalize the workload. The inspector in charge shall have the authority to require the establishment to reduce slaughter line speeds where, in his judgment, the inspection procedure cannot be adequately performed at the current line speed because of particular deficiencies in carcass preparation and presentation by the plant at the higher speed, or because the health condition of the particular animals indicates a need for more extensive inspection. 
+(b)(1) The staffing standards on the basis of the number of carcasses to be inspected per hour are outlined in the following tables. Standards for multiple inspector lines are based on inspectors rotating through the different types of inspection stations during each shift to equalize the workload. The inspector in charge shall have the authority to require the establishment to reduce slaughter line speeds where, in his judgment, the inspection procedure cannot be adequately performed at the current line speed because of particular deficiencies in carcass preparation and presentation by the plant at the higher speed, or because the health condition of the particular animals indicates a need for more extensive inspection.
 
 (2) *Cattle inspection.* For all cattle staffing standards, an “a” in the “Number of Inspectors by Stations” column means that one inspector performs the entire inspection procedure and a “b” means that one inspector performs the head and lower carcass inspection and a second inspector performs the viscera and upper carcass inspection. 1
 
 1 The “Maximum Slaughter Rates” figures listed in paragraph (b)(2)(i) of this section for one (a) and two (b) inspector kills are overstated because the time required to walk from one inspection station to another is not included. To determine the proper adjusted maximum slaughter line speed, paragraph (b)(2)(i)(A) of this section for one inspector kills or paragraph (b)(2)(i)(B) of this section for two inspector kills must be used along with their accompanying rules.
 
-(i) Inspection Using the Viscera Truck. 
+(i) Inspection Using the Viscera Truck.
 
 Steers and Heifers
 | Maximum slaughter rates (head per hour) | Number of inspectors by stations |
@@ -28,7 +28,7 @@ Cows and Bulls
 | 78 to 81                                | 1                                |
 | 82 to 134                               | 2                                |
 
-(A) Rules for determining adjusted maximum slaughter rates for single-inspector kills considering walking distance according to the table in this subdivision: Determine the distances the inspector actually walks between the points shown in columns 2 through 14 of the following table. For each column, determine the deduction figure opposite the appropriate number of feet in column 1. Compute the total of the deduction figures for columns 2 through 14. The adjusted maximum rate is the maximum rate in paragraph (b)(2)(i) of this section minus total of the deduction figures. If the resultant number is not a whole number, it must be rounded off to the next *lowest* whole number. 
+(A) Rules for determining adjusted maximum slaughter rates for single-inspector kills considering walking distance according to the table in this subdivision: Determine the distances the inspector actually walks between the points shown in columns 2 through 14 of the following table. For each column, determine the deduction figure opposite the appropriate number of feet in column 1. Compute the total of the deduction figures for columns 2 through 14. The adjusted maximum rate is the maximum rate in paragraph (b)(2)(i) of this section minus total of the deduction figures. If the resultant number is not a whole number, it must be rounded off to the next *lowest* whole number.
 
 One-Inspector Cattle Kill—Viscera Truck
 
@@ -68,7 +68,7 @@ One-Inspector Cattle Kill—Viscera Truck
 | 1 The washbasin referred to here is the one the inspector uses while enroute from the head rack to high rail inspection. |                             |                          |                            |                             |                             |                              |                           |                           |                             |                                      |                                |                                |                              |
 | 2 This refers to the carcass in the bleeding area.                                                                       |                             |                          |                            |                             |                             |                              |                           |                           |                             |                                      |                                |                                |                              |
 
-(B) Rules for determining adjusted maximum slaughter rates for two-inspector kills considering walking distance according to the table in this subdivision: Determine the distances the inspectors actually walk between the points shown in columns 2 through 9 of the following table. Column 9 is used only if the condemned brands and tags the viscera inspector uses are kept at a location other than at the washbasin-sterilizer. For each column, determine the deduction figure opposite the appropriate number of feet in column 1. Compute the total of the deduction figures for columns 2 through 9. Divide this total by 2. The adjusted maximum rate is the maximum rate in paragraph (b)(2)(i) of this section minus the number calculated above. If the resultant number is not a whole number, it must be rounded off to the next *lowest* whole number. 
+(B) Rules for determining adjusted maximum slaughter rates for two-inspector kills considering walking distance according to the table in this subdivision: Determine the distances the inspectors actually walk between the points shown in columns 2 through 9 of the following table. Column 9 is used only if the condemned brands and tags the viscera inspector uses are kept at a location other than at the washbasin-sterilizer. For each column, determine the deduction figure opposite the appropriate number of feet in column 1. Compute the total of the deduction figures for columns 2 through 9. Divide this total by 2. The adjusted maximum rate is the maximum rate in paragraph (b)(2)(i) of this section minus the number calculated above. If the resultant number is not a whole number, it must be rounded off to the next *lowest* whole number.
 
 Two-Inspector Cattle Kill—Viscera Truck
 
@@ -108,7 +108,7 @@ Two-Inspector Cattle Kill—Viscera Truck
 | 1 This column to be used only if brands and tags are not located at the washbasin. |                                  |
 | 2 This refers to the carcasses in the bleeding area.                               |                                  |
 
-(ii) Inspection Using Viscera Table, Tongue-In Presentation of Heads. 
+(ii) Inspection Using Viscera Table, Tongue-In Presentation of Heads.
 
 Steers and Heifers
 | Maximum slaughter rates (head per hour) | Number of inspectors by stations |
@@ -142,7 +142,7 @@ Cows and Bulls
 | 265 to 289                              | 5                                |
 | 290 to 314                              | 5                                |
 
-(iii) Inspection Using Viscera Table, Tongue-Out Presentation of Heads. 
+(iii) Inspection Using Viscera Table, Tongue-Out Presentation of Heads.
 
 Steers and Heifers
 | Maximum slaughter rates (head per hour) | Number of inspectors by stations |
@@ -177,11 +177,11 @@ Cows and Bulls
 | 289 to 316                              | 5                                |
 | 317 to 343                              | 5                                |
 
-(3) *Swine inspection.* There are two systems of post-mortem inspection: The New Swine Slaughter Inspection System (NSIS), which may be used for market hogs, and the traditional inspection system, which may be used for all swine. 
+(3) *Swine inspection.* There are two systems of post-mortem inspection: The New Swine Slaughter Inspection System (NSIS), which may be used for market hogs, and the traditional inspection system, which may be used for all swine.
 
-(i) The NSIS may be used for market hogs if the official establishment requests to use it and meets or agrees to meet the requirements in 9 CFR 309.19 and § 310.26. The Administrator may permit establishments that slaughter classes of swine other than market hogs to use NSIS under a waiver from the provisions in 9 CFR 309.19 and § 310.26 as provided by 9 CFR 303.1(h). The Administrator also may permit establishments that slaughter both market hogs and other classes of swine to slaughter the market hogs under NSIS and slaughter the other classes of swine under traditional inspection. 
+(i) The NSIS may be used for market hogs if the official establishment requests to use it and meets or agrees to meet the requirements in 9 CFR 309.19 and § 310.26. The Administrator may permit establishments that slaughter classes of swine other than market hogs to use NSIS under a waiver from the provisions in 9 CFR 309.19 and § 310.26 as provided by 9 CFR 303.1(h). The Administrator also may permit establishments that slaughter both market hogs and other classes of swine to slaughter the market hogs under NSIS and slaughter the other classes of swine under traditional inspection.
 
-(ii) Traditional inspection shall be used for swine when NSIS is not used. The following inspection staffing standards are applicable to swine slaughter configurations operating under traditional inspection when NSIS is not used. The inspection standards for all slaughter lines are based upon the observation rather than palpation, at the viscera inspection station, of the spleen, liver, heart, lungs, and mediastinal lymph nodes. In addition, for one- and two-inspector lines under traditional inspection, the standards are based upon the distance walked (in feet) by the inspector between work stations; and for three or more inspector slaughter lines, upon the use of a mirror, as described in § 307.2(m)(6) of this chapter, at the carcass inspection station. Although not required in a one- or two-inspector slaughter configuration, except in certain cases as determined by the inspection service, if a mirror is used, it must comply with the requirements of § 307.2(m)(6). 
+(ii) Traditional inspection shall be used for swine when NSIS is not used. The following inspection staffing standards are applicable to swine slaughter configurations operating under traditional inspection when NSIS is not used. The inspection standards for all slaughter lines are based upon the observation rather than palpation, at the viscera inspection station, of the spleen, liver, heart, lungs, and mediastinal lymph nodes. In addition, for one- and two-inspector lines under traditional inspection, the standards are based upon the distance walked (in feet) by the inspector between work stations; and for three or more inspector slaughter lines, upon the use of a mirror, as described in § 307.2(m)(6) of this chapter, at the carcass inspection station. Although not required in a one- or two-inspector slaughter configuration, except in certain cases as determined by the inspection service, if a mirror is used, it must comply with the requirements of § 307.2(m)(6).
 
 Table 1 to Paragraph (b)(3)—One Inspector—Staffing Standards for Swine
 | Distance walked 1 in feet is—                                                                                                                                                          | Maximum inspection rates (head per hour) |

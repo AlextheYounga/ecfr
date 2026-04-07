@@ -1,6 +1,6 @@
 ##### § 381.167 Other poultry dishes and specialty items.
 
-Poultry dishes and specialty items listed in Table IV of this paragraph shall meet the requirements set forth in said table, irrespective of the type of packaging, and the percentages in Table IV shall be calculated on a ready-to-serve basis, except that soup bases in institutional packs which are prepared for sale to institutional users shall have a minimum of 15 percent cooked deboned poultry meat based on the weight of the soup base product. 
+Poultry dishes and specialty items listed in Table IV of this paragraph shall meet the requirements set forth in said table, irrespective of the type of packaging, and the percentages in Table IV shall be calculated on a ready-to-serve basis, except that soup bases in institutional packs which are prepared for sale to institutional users shall have a minimum of 15 percent cooked deboned poultry meat based on the weight of the soup base product.
 
 Table IV
 | Product name 1                                                                                                       | Minimum percent cooked deboned poultry meat of kind indicated | Minimum percent cooked poultry of kind indicated, indicating bone |

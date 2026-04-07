@@ -1,6 +1,6 @@
 ##### § 381.158 Poultry dinners (frozen) and pies.
 
-Poultry dinners (frozen) and pies shall meet the requirements set forth in Table III of this section and the percentage or weight specified therein shall be calculated on the basis of total ingredients used in the preparation of the poultry product. 
+Poultry dinners (frozen) and pies shall meet the requirements set forth in Table III of this section and the percentage or weight specified therein shall be calculated on the basis of total ingredients used in the preparation of the poultry product.
 
 Table III
 |                                                                                                                                                                                                                                                                                                                                                            | Minimum cooked deboned poultry meat of kind indicated | Minimum raw deboned poultry meat of kind indicated |

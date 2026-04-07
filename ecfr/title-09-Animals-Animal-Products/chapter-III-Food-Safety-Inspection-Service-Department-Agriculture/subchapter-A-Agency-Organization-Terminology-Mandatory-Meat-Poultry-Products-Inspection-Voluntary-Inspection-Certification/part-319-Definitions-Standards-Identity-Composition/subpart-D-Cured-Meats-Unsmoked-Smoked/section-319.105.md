@@ -1,6 +1,6 @@
 ##### § 319.105 “Ham patties,” “Chopped ham,” “Pressed ham,” “Spiced ham,” and similar products.
 
-(a) Finely divided (chopped, ground, flaked, chipped) cured ham products such as “Ham patties,” “Chopped ham,” “Pressed ham,” and “Spiced ham” shall comply with minimum meat Protein Fat Free (PFF) percentage requirements set forth in the following chart: 
+(a) Finely divided (chopped, ground, flaked, chipped) cured ham products such as “Ham patties,” “Chopped ham,” “Pressed ham,” and “Spiced ham” shall comply with minimum meat Protein Fat Free (PFF) percentage requirements set forth in the following chart:
 
 | Type of cured pork product                                                                                                                                                                                                                                                                                                                                                                                   | Minimum meat PFF percentage 1 | Product name and   qualifying statements                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | --------------------------------------------------------------------------- |
@@ -11,10 +11,10 @@
 | 1 The minimum meat PFF percentage shall be the minimum meat protein which is indigenous to the raw, unprocessed pork expressed as a percent of the nonfat portion of the finished product; and compliance shall be determined under section 318.19 of this subchapter.                                                                                                                                       |                               |                                                                             |
 | 2 Processors may immediately follow this qualifying statement with a list of the ingredients in descending order of predominance rather than having the traditional ingredients statement. In any case, the maximum percent of added substances in the finished product on a total weight percentage basis would be inserted as the X value; e.g., Ham and Water Product—20% of Weight is Added Ingredients. |                               |                                                                             |
 
-(b) Cured pork products prepared under this section except “Ham patties” may contain finely chopped ham shank meat to the extent of 25 percent over that normally present in boneless ham. Mechanically Separated (Species) Product may be used in accordance with § 319.6. 
+(b) Cured pork products prepared under this section except “Ham patties” may contain finely chopped ham shank meat to the extent of 25 percent over that normally present in boneless ham. Mechanically Separated (Species) Product may be used in accordance with § 319.6.
 
-(c) Cured pork product prepared pursuant to this section shall be subject to the compliance procedures in § 318.19 of this subchapter, and those cured pork products prepared under this section for which there is a qualifying statement required shall comply with the requirements of § 319.104(b) of this subchapter. 
+(c) Cured pork product prepared pursuant to this section shall be subject to the compliance procedures in § 318.19 of this subchapter, and those cured pork products prepared under this section for which there is a qualifying statement required shall comply with the requirements of § 319.104(b) of this subchapter.
 
-(d) In addition to the other requirements of this section, “Ham Patties” may not contain more than 35 percent fat, by analysis. 
+(d) In addition to the other requirements of this section, “Ham Patties” may not contain more than 35 percent fat, by analysis.
 
 \[49 FR 14880, Apr. 13, 1984, as amended at 53 FR 5151, Feb. 22, 1988; 62 FR 45026, Aug. 25, 1997; 65 FR 34389, May 30, 2000\]
