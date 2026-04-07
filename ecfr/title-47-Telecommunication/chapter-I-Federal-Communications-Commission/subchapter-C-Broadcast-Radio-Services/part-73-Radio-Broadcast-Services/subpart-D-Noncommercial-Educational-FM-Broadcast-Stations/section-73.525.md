@@ -5,7 +5,6 @@ The provisions of this section apply to all applications for construction permit
 (a) *Affected TV Channel 6 station.* (1) An affected TV Channel 6 station is a TV broadcast station which is authorized to operate on Channel 6 that is located within the following distances of a NCE-FM station operating on Channels 201-220:
 
 Table A
-
 | NCE-FM channel | Distance (kilometers) | NCE-FM channel | Distance (kilometers) |
 | -------------- | --------------------- | -------------- | --------------------- |
 | 201            | 265                   | 211            | 196                   |
@@ -37,7 +36,7 @@ Table A
 
 (4) Applications for modification will include a certification that the applicant has given early written notice of the proposed modification to all affected TV Channel 6 stations (as defined in paragraph (a) of this section).
 
-(5) Where the NCE-FM station demonstrates in its application that it must make an involuntary modification (e.g., due to loss of its transmitter site) that would not otherwise be permitted under this section, its application will be considered on a case-by-case basis. In such cases, the provisions of paragaph (b)(3) of this section do not apply.
+(5) Where the NCE-FM station demonstrates in its application that it must make an involuntary modification (e.g., due to loss of its transmitter site) that would not otherwise be permitted under this section, its application will be considered on a case-by-case basis. In such cases, the provisions of paragraph (b)(3) of this section do not apply.
 
 (c) *New NCE-FM stations.* Except as provided for by paragraph (d) of this section, applicants for NCE-FM stations proposing to operate on Channels 201-220 must submit a showing indicating that the predicted interference area resulting from the proposed facility contains no more than 3,000 persons.
 
@@ -50,7 +49,6 @@ Table A
 (1) The effective radiated power cannot exceed the following values:
 
 Table B
-
 | NCE-FM channel | Power (kilowatt) | NCE-FM channel | Power (kilowatt) |
 | -------------- | ---------------- | -------------- | ---------------- |
 | 201            | 1.1              | 211            | 26.3             |
