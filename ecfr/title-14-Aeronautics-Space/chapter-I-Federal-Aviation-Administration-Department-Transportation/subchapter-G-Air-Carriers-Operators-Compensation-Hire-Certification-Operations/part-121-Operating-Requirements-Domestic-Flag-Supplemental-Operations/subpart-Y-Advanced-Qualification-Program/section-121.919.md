@@ -6,7 +6,7 @@ A person subject to an AQP is eligible to receive a commercial or airline transp
 
 (b) The applicant satisfactorily completes the appropriate qualification curriculum.
 
-(c) The applicant shows competence in required technical knowledge and skills (*e.g.*, piloting or other) and crew resource management (*e.g.*, CRM or DRM) knowledge and skills in scenarios (*i.e.*, LOE) that test both types of knowledge and skills together.
+(c) The applicant shows competence in required technical knowledge and skills (e.g., piloting or other) and crew resource management (e.g., CRM or DRM) knowledge and skills in scenarios (*i.e.*, LOE) that test both types of knowledge and skills together.
 
 (d) The applicant is otherwise eligible under the applicable requirements of part 61, 63, or 65 of this chapter.
 

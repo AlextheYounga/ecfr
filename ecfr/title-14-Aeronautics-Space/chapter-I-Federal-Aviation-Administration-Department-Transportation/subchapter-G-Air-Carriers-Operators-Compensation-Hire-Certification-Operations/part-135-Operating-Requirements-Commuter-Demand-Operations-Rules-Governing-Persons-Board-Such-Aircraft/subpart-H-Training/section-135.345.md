@@ -2,7 +2,7 @@
 
 Initial, transition, and upgrade ground training for pilots must include instruction in at least the following, as applicable to their duties:
 
-(a) General subjects -
+(a) General subjects—
 
 (1) The certificate holder's flight locating procedures;
 
@@ -24,7 +24,7 @@ Initial, transition, and upgrade ground training for pilots must include instruc
 
 (10) Other instructions necessary to ensure the pilot's competence.
 
-(b) For each aircraft type -
+(b) For each aircraft type—
 
 (1) A general description;
 
@@ -34,9 +34,9 @@ Initial, transition, and upgrade ground training for pilots must include instruc
 
 (4) Major components;
 
-(5) Major aircraft systems (i.e., flight controls, electrical, and hydraulic), other systems, as appropriate, principles of normal, abnormal, and emergency operations, appropriate procedures and limitations;
+(5) Major aircraft systems (*i.e.*, flight controls, electrical, and hydraulic), other systems, as appropriate, principles of normal, abnormal, and emergency operations, appropriate procedures and limitations;
 
-(6) Knowledge and procedures for -
+(6) Knowledge and procedures for—
 
 (i) Recognizing and avoiding severe weather situations;
 
@@ -44,7 +44,7 @@ Initial, transition, and upgrade ground training for pilots must include instruc
 
 (iii) Operating in or near thunderstorms (including best penetrating altitudes), turbulent air (including clear air turbulence), icing, hail, and other potentially hazardous meteorological conditions; and
 
-(iv) Operating airplanes during ground icing conditions, (i.e., any time conditions are such that frost, ice, or snow may reasonably be expected to adhere to the airplane), if the certificate holder expects to authorize takeoffs in ground icing conditions, including:
+(iv) Operating airplanes during ground icing conditions, (*i.e.*, any time conditions are such that frost, ice, or snow may reasonably be expected to adhere to the airplane), if the certificate holder expects to authorize takeoffs in ground icing conditions, including:
 
 (A) The use of holdover times when using deicing/anti-icing fluids;
 
@@ -52,7 +52,7 @@ Initial, transition, and upgrade ground training for pilots must include instruc
 
 (C) Communications;
 
-(D) Airplane surface contamination (i.e., adherence of frost, ice, or snow) and critical area identification, and knowledge of how contamination adversely affects airplane performance and flight characteristics;
+(D) Airplane surface contamination (*i.e.*, adherence of frost, ice, or snow) and critical area identification, and knowledge of how contamination adversely affects airplane performance and flight characteristics;
 
 (E) Types and characteristics of deicing/anti-icing fluids, if used by the certificate holder;
 
