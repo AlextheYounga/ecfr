@@ -1,6 +1,6 @@
 ##### § 2.48 Administrator, Rural Business-Cooperative Service.
 
-(a) *Delegations.* Pursuant to §§ 2.17(a)(1), (a)(2), (a)(14), (a)(16) through (a)(19), and (a)(21), subject to reservations in § 2.17(b)(1), and subject to policy guidance and direction by the Under Secretary for Rural Development, the following delegations of authority are made by the Under Secretary for Rural Development to the Administrator, Rural Business-Cooperative Service:
+(a) *Delegations.* Pursuant to §§ 2.17(a)(1), (a)(2), (a)(14), (a)(16) through (a)(19), and (a)(21), subject to reservations in § 2.17(b)(1), and subject to policy guidance and direction by the Assistant to the Secretary for Rural Development, the following delegations of authority are made by the Assistant to the Secretary for Rural Development to the Administrator, Rural Business-Cooperative Service:
 
 (1) Administer the rural economic development loan and grant programs under the Rural Electrification Act (7 U.S.C. 940c and 950aa *et seq.*).
 
@@ -120,7 +120,7 @@
 
 (20) Provide leadership and coordination within the executive branch at the state and local level of Federal rural development program utilizing the services of executive branch departments and agencies and the agencies, bureaus, offices, and services of the Department of Agriculture in coordination with rural development programs of State and local governments (7 U.S.C. 2204).
 
-(21) Coordinate, at the state and local level, activities relative to rural development among agencies reporting to the Under Secretary for Rural Economic and Community Development and, through appropriate channels, serve as the coordinating agency for other departmental agencies having primary responsibilities, in coordination with rural development programs of State and local governments (7 U.S.C. 2204).
+(21) Coordinate, at the state and local level, activities relative to rural development among agencies reporting to the Assistant to the Secretary for Rural Development and, through appropriate channels, serve as the coordinating agency for other departmental agencies having primary responsibilities, in coordination with rural development programs of State and local governments (7 U.S.C. 2204).
 
 (22) Work with Federal agencies in encouraging the creation of local rural community development organizations. Within a State, assist other Federal agencies in developing means for extending their services effectively to rural areas and in designating pilot projects in rural areas (7 U.S.C. 2204).
 
@@ -150,6 +150,6 @@
 
 (34) Administer section 6209 of the Agricultural Act of 2014 (7 U.S.C. 2207b), relating to the collection and reporting of program metrics.
 
-(b) *Reservation.* The following authority is reserved to the Under Secretary for Rural Economic and Community Development: Making and issuing notes to the Secretary of the Treasury for the purposes of the Rural Development Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929a).
+(b) *Reservation.* The following authority is reserved to the Assistant to the Secretary for Rural Development: Making and issuing notes to the Secretary of the Treasury for the purposes of the Rural Development Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929a).
 
 \[60 FR 56393, Nov. 8, 1995, as amended at 66 FR 33107, June 11, 2001; 68 FR 27444, May 20, 2003; 73 FR 3407, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44114, July 30, 2014\]

@@ -1,6 +1,6 @@
 ##### § 2.49 Administrator, Rural Housing Service.
 
-(a) *Delegations.* Pursuant to §§ 2.17(a)(14), (a)(16) through (a)(19) and (a)(22), and subject to policy guidance and direction by the Under Secretary for Rural Development, the following delegations of authority are made by the Under Secretary for Rural Development to the Administrator, Rural Housing Service:
+(a) *Delegations.* Pursuant to §§ 2.17(a)(14), (a)(16) through (a)(19) and (a)(22), and subject to policy guidance and direction by the Assistant to the Secretary for Rural Development, the following delegations of authority are made by the Assistant to the Secretary for Rural Development to the Administrator, Rural Housing Service:
 
 (1) Administer the following under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 *et seq.*):
 
@@ -90,6 +90,6 @@
 
 (13) In coordination with the Director, Office of Advocacy and Outreach, issue receipts under section 2501A(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1(e)).
 
-(b) *Reservation.* The following authority is reserved to the Under Secretary for Rural Economic and Community Development: Making and issuing notes to the Secretary of the Treasury for the purposes the Rural Development Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929(a)) and the Rural Housing Insurance Fund as authorized by title V of the Housing Act of 1949 (41 U.S.C. 1487).
+(b) *Reservation.* The following authority is reserved to the Assistant to the Secretary for Rural Development: Making and issuing notes to the Secretary of the Treasury for the purposes the Rural Development Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929(a)) and the Rural Housing Insurance Fund as authorized by title V of the Housing Act of 1949 (41 U.S.C. 1487).
 
 \[60 FR 56393, Nov. 8, 1995, as amended at 66 FR 16593, Mar. 27, 2001; 68 FR 27444, May 20, 2003; 74 FR 3408, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44114, July 30, 2014\]

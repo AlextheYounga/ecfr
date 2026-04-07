@@ -1,6 +1,6 @@
 ##### § 2.42 Administrator, Farm Service Agency.
 
-(a) *Delegations.* Pursuant to § 2.16(a)(1) through (a)(4) and (a)(6) through (a)(8), subject to the reservations in § 2.16(b)(1), the following delegations of authority are made by the Under Secretary for Farm and Foreign Agricultural Services to the Administrator, Farm Service Agency:
+(a) *Delegations.* Pursuant to § 2.16(a)(1) and (2) and (a)(6) through (8), subject to the reservations in § 2.16(b)(1), the following delegations of authority are made by the Under Secretary for Farm Production and Conservation to the Administrator, Farm Service Agency:
 
 (1) Formulate policies and administer programs authorized by the Agricultural Adjustment Act of 1938, as amended (7 U.S.C. 1282 *et seq.*).
 
@@ -34,7 +34,7 @@
 
 (6) Administer the Emergency Conservation Program under the Agricultural Credit Act of 1978, as amended (16 U.S.C. 2201 *et seq.*).
 
-(7) Conduct fiscal, accounting and claims functions relating to CCC programs for which the Foreign Agricultural Service has been delegated authority under § 2.43 and, in conjunction with other agencies of the U.S. Government, develop and formulate agreements to reschedule amounts due from foreign countries.
+(7) Conduct fiscal, accounting and claims functions relating to CCC programs for which the Foreign Agricultural Service has been delegated authority under § 2.601 and, in conjunction with other agencies of the U.S. Government, develop and formulate agreements to reschedule amounts due from foreign countries.
 
 (8) Conduct assigned activities under the Strategic and Critical Materials Stockpiling Act, as amended (50 U.S.C. 98 *et seq.*).
 
@@ -42,7 +42,7 @@
 
 (10) Administer the Dairy Indemnity Program under the Act of August 13, 1968, as amended (7 U.S.C. 450j *et seq.*).
 
-(11) Administer procurement, processing, handling, distribution, disposition, transportation, payment, and related services with respect to surplus removal and supply operations which are carried out under section 210 of the Agricultural Act of 1956 (7 U.S.C. 1859), the Act of August 19, 1958, as amended (7 U.S.C. 1431 note), and section 709 of the Food and Agriculture Act of 1965, as amended (7 U.S.C. 1446a-1), except as delegated to the Under Secretary for Food, Nutrition, and Consumer Services in § 2.19 and to the Under Secretary for Farm and Foreign Agricultural Services in § 2.16(a)(3), and assist the Food and Consumer Service and the Agricultural Marketing Service in the procurement, handling, payment, and related services under section 32 of the Act of August 24, 1935, as amended (7 U.S.C. 612c), the Act of June 28, 1937, as amended (7 U.S.C. 713c), the National School Lunch Act, as amended (42 U.S.C. 1751 *et seq.*), section 8 of the Child Nutrition Act of 1966, as amended (42 U.S.C. 1777), section 311 of the Older Americans Act of 1965, as amended (42 U.S.C. 3030a), and section 4(a) of the Agriculture and Consumer Protection Act of 1973, as amended (7 U.S.C. 612c note), and section 1114 of the Agriculture and Food Act of 1981 (7 U.S.C. 1431e).
+(11) Administer procurement, processing, handling, distribution, disposition, transportation, payment, and related services with respect to surplus removal and supply operations which are carried out under section 210 of the Agricultural Act of 1956 (7 U.S.C. 1859), the Act of August 19, 1958, as amended (7 U.S.C. 1431 note), and section 709 of the Food and Agriculture Act of 1965, as amended (7 U.S.C. 1446a-1), except as delegated to the Under Secretary for Food, Nutrition, and Consumer Services in § 2.19 and to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.16(a)(3), and assist the Food and Consumer Service and the Agricultural Marketing Service in the procurement, handling, payment, and related services under section 32 of the Act of August 24, 1935, as amended (7 U.S.C. 612c), the Act of June 28, 1937, as amended (7 U.S.C. 713c), the National School Lunch Act, as amended (42 U.S.C. 1751 *et seq.*), section 8 of the Child Nutrition Act of 1966, as amended (42 U.S.C. 1777), section 311 of the Older Americans Act of 1965, as amended (42 U.S.C. 3030a), and section 4(a) of the Agriculture and Consumer Protection Act of 1973, as amended (7 U.S.C. 612c note), and section 1114 of the Agriculture and Food Act of 1981 (7 U.S.C. 1431e).
 
 (12) Administer commodity procurement and supply, transportation (other than from point of export, except for movement to trust territories or possessions), handling, payment,and related services in connection with programs under titles II and III of Public Law 480 (7 U.S.C. 1691, 1701, *et seq.*) and section 3107 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 1736o-1) (except for the authority under section 3107(d) to designate federal agencies that is reserved to the President), and payment and related services with respect to export programs and barter operations.
 
@@ -188,7 +188,7 @@
 
 (44) \[Reserved\]
 
-(45) Administer all programs of the Commodity Credit Corporation that provide assistance with respect to the production of agricultural commodities or the income of producers, including disaster assistance and the domestic marketing of such commodities, except as may otherwise be reserved by the Under Secretary for Farm and Foreign Agricultural Services, and similar programs (including commodity quality development programs) consigned by statute to the Secretary of Agriculture unless otherwise delegated.
+(45) Administer all programs of the Commodity Credit Corporation that provide assistance with respect to the production of agricultural commodities or the income of producers, including disaster assistance and the domestic marketing of such commodities, except as may otherwise be reserved by the Under Secretary for Farm Production and Conservation , and similar programs (including commodity quality development programs) consigned by statute to the Secretary of Agriculture unless otherwise delegated.
 
 (46) Administer the following provisions of the Farm Security and Rural Investment Act of 2002 with respect to functions otherwise delegated to the Administrator, Farm Service Agency:
 
@@ -248,10 +248,16 @@
 
 (59) Enter into cooperative agreements under section 1472(b) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3318(b)) for the purpose of implementing section 1614(c)(3) of the Agricultural Act of 2014 (7 U.S.C. 9097(c)).
 
-(b) *Reservations.* The following authorities are reserved to the Under Secretary for Farm and Foreign Agricultural Services:
+(60) Administer the funds made available to the Office of the Secretary under Title I of Subdivision B, Further Supplemental Appropriations for Disaster Relief Requirements Act, 2018, Public Law 115-123.
+
+(61) Administer the Organic Certification Cost Share Programs authorized under the Federal Crop Insurance Act (7 U.S.C. 1524(b)(4)(C)(ii), and under the Farm Security and Rural Investment Act, as amended by the Agricultural Act of 2014 (7 U.S.C. 6523).
+
+(62) Determine the agricultural commodities acquired under price support programs which are available for export.
+
+(b) *Reservations.* The following authorities are reserved to the Under Secretary for Farm Production and Conservation:
 
 (1) Designating counties and areas for emergency programs under Pub. L. No. 85-58, as amended.
 
 (2) Making and issuing notes to the Secretary of the Treasury for the purposes of the Agricultural Credit Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929).
 
-\[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19901, Apr. 24, 1997; 68 FR 27443, May 20, 2003; 69 FR 34254, June 21, 2004; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3406, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 80 FR 58338, Sept. 29, 2015\]
+\[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19901, Apr. 24, 1997; 68 FR 27443, May 20, 2003; 69 FR 34254, June 21, 2004; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3406, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 80 FR 58338, Sept. 29, 2015; 83 FR 22184, May 14, 2018\]

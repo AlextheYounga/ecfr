@@ -1,6 +1,6 @@
 ##### § 2.44 Administrator, Risk Management Agency and Manager, Federal Crop Insurance Corporation.
 
-(a) *Delegations.* Pursuant to § 2.16(a)(4), subject to reservations in § 2.16(b)(3), the following delegations of authority are made by the Under Secretary for Farm and Foreign Agricultural Services to the Administrator, Risk Management Agency, and Manager Federal Crop Insurance Corporation:
+(a) *Delegations.* Pursuant to § 2.16(a)(4), subject to reservations in § 2.16(b)(3), the following delegations of authority are made by the Under Secretary for Farm Production and Conservation to the Administrator, Risk Management Agency, and Manager Federal Crop Insurance Corporation:
 
 (1) Appoint such officers and employees as may be necessary for the transaction of the business of the Federal Crop Insurance Corporation and the Risk Management Agency.
 
@@ -20,4 +20,4 @@
 
 (b) \[Reserved\]
 
-\[62 FR 19901, Apr. 24, 1997, as amended at 74 FR 3407, Jan. 21, 2009; 79 FR 44113, July 30, 2014\]
+\[62 FR 19901, Apr. 24, 1997, as amended at 74 FR 3407, Jan. 21, 2009; 79 FR 44113, July 30, 2014; 83 FR 22188, May 14, 2018\]

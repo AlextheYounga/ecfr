@@ -1,6 +1,6 @@
 ##### § 2.47 Administrator, Rural Utilities Service.
 
-(a) *Delegations.* Pursuant to §§ 2.17(a)(14) and (a)(16) through (a)(20), and subject to policy guidance and direction by the Under Secretary for Rural Development, the following delegations of authority are made by the Under Secretary for Rural Development to the Administrator, Rural Utilities Service:
+(a) *Delegations.* Pursuant to §§ 2.17(a)(14) and (a)(16) through (a)(20), and subject to policy guidance and direction by the Assistant to the Secretary for Rural Development, the following delegations of authority are made by the Assistant to the Secretary for Rural Development to the Administrator, Rural Utilities Service:
 
 (1) Administer the Rural Electrification Act of 1936, as amended (7 U.S.C. 901, *et seq.*) except for rural economic development loan and grant programs (7 U.S.C. 940c and 950aa, *et seq.*): Provided, however, that the Administrator may utilize consultants and attorneys for the provision of legal services pursuant to 7 U.S.C. 918, with the concurrence of the General Counsel.
 
@@ -108,10 +108,12 @@
 
 (18) Administer section 6210 of the Agricultural Act of 2014, Public Law 113-79, relating to funding of pending rural development loan and grant applications.
 
-(b) *Reservations.* The following authority is reserved to the Under Secretary for Rural Economic and Community Development:
+(19) Administer the authority under Sec. 746 of Division A of the Consolidated Appropriations Act, 2018 (Pub. L. 115-141), and any successor provisions in subsequent appropriations acts, to issue waivers to the U.S. iron and steel requirements for the construction, alteration, maintenance, or repair of a public water or wastewater system.
+
+(b) *Reservations.* The following authority is reserved to the Assistant to the Secretary for Rural Development:
 
 (1) Making and issuing notes to the Secretary of the Treasury for the purposes of the Rural Development Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929a).
 
 (2) Administering loans for rural telephone facilities and service in rural areas as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 *et seq.*).
 
-\[60 FR 56393, Nov. 8, 1995, as amended at 66 FR 16593, Mar. 27, 2001; 68 FR 27443, May 20, 2003; 74 FR 3407, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44113, July 30, 2014\]
+\[60 FR 56393, Nov. 8, 1995, as amended at 66 FR 16593, Mar. 27, 2001; 68 FR 27443, May 20, 2003; 74 FR 3407, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44113, July 30, 2014; 83 FR 22188, May 14, 2018\]
