@@ -28,7 +28,7 @@ I agree to maintain, and present upon request, documentation necessary to suppor
 
 The goods originated in the territory of one or more of the parties, and comply with the origin requirements specified for those goods in the United States-Chile Free Trade Agreement; there has been no further production or any other operation outside the territories of the parties, other than unloading, reloading, or any other operation necessary to preserve it in good condition or to transport the good to the United States; and
 
-This document consists of \_\_ pages, including all attachments.”
+This document consists of \_\_\_\_ pages, including all attachments.”
 
 (c) *Responsible official or agent.* A certification submitted under paragraph (a) of this section must be signed and dated by a responsible official of the importer; exporter; or producer; or by the importer's, exporter's, or producer's authorized agent having knowledge of the relevant facts. The certification must include the legal name and address of the responsible official or authorized agent signing the certification, and should include that person's telephone and e-mail address, if available. If the person making the certification is not the producer of the good, or the producer's authorized agent, the person may sign the certification of origin based on:
 

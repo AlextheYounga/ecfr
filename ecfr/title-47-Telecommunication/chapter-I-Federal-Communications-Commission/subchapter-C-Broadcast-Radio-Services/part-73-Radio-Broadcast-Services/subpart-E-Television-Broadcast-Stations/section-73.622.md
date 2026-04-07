@@ -457,7 +457,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Pittsburg            | 7, 13                                               |
 | Salina               | 17                                                  |
 | Topeka               | \*11, 12, 13, 16, 27                                |
-| Wichita              | 10, 12, 15, 26                                      |
+| Wichita              | 10, 15, 26, 28                                      |
 | Kentucky             |                                                     |
 | Ashland              | 13, \*36                                            |
 | Beattyville          | 7                                                   |
@@ -999,7 +999,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Morgantown           | \*34                                                |
 | Oak Hill             | 31                                                  |
 | Parkersburg          | 35                                                  |
-| Weston               | 5                                                   |
+| Weston               | 33                                                  |
 | Wheeling             | 7                                                   |
 | Wisconsin            |                                                     |
 | Antigo               | 19                                                  |

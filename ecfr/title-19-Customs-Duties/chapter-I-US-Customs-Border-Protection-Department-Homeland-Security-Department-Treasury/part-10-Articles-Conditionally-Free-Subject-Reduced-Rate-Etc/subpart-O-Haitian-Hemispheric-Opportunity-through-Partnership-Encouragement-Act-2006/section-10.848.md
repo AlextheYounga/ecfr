@@ -2,7 +2,7 @@
 
 (a) *General.* Each importer claiming duty-free treatment for apparel articles, as described in § 10.843(a) of this subpart, of a producer or entity controlling production that uses the annual aggregation method to satisfy the applicable value-content requirement set forth in § 10.844(a) of this subpart with respect to the entries filed by the importer during an applicable one-year period must prepare and submit to CBP a declaration of compliance with the applicable value-content requirement within 30 days following the end of the applicable one-year period. An importer that is required to submit a declaration of compliance under this paragraph must submit such a declaration for each importer of record identification number used by that importer. The declaration of compliance must be sent to: Office of International Trade, 1300 Pennsylvania Avenue, NW., Washington, DC 20229.
 
-(b) *Effect of noncompliance* - (1) *Initial applicable one-year period.* If an importer fails to submit to CBP the declaration of compliance required under paragraph (a) of this section within 30 days following the end of the initial applicable one-year period, CBP may deny duty-free treatment to all entries of apparel articles, as described in § 10.843(a), of that producer or entity controlling production that were filed by that importer during the initial applicable one-year period and that are entered by that importer during the next succeeding applicable one-year period.
+(b) *Effect of noncompliance*—(1) *Initial applicable one-year period.* If an importer fails to submit to CBP the declaration of compliance required under paragraph (a) of this section within 30 days following the end of the initial applicable one-year period, CBP may deny duty-free treatment to all entries of apparel articles, as described in § 10.843(a), of that producer or entity controlling production that were filed by that importer during the initial applicable one-year period and that are entered by that importer during the next succeeding applicable one-year period.
 
 (2) *Other applicable one-year periods.* If an importer fails to submit to CBP the declaration of compliance required by paragraph (a) of this section within 30 days following the end of any applicable one-year period (other than the initial applicable one-year period), CBP may deny duty-free treatment to all entries of apparel articles, as described in § 10.843(a) of this subpart, of that producer or entity controlling production that are entered by that importer during the next succeeding applicable one-year period.
 
@@ -12,7 +12,7 @@
 
 (2) Must include the following information:
 
-(i) The applicable one-year period during which the aggregation method was used (year beginning December 20, 20\_, year ending December 19, 20\_);
+(i) The applicable one-year period during which the aggregation method was used (year beginning December 20, 20\_\_, year ending December 19, 20\_\_);
 
 (ii) The legal name, address, telephone, fax number, e-mail address (if any), and identification number of the importer of record, and the legal name, telephone, and e-mail address (if any) of the point of contact;
 

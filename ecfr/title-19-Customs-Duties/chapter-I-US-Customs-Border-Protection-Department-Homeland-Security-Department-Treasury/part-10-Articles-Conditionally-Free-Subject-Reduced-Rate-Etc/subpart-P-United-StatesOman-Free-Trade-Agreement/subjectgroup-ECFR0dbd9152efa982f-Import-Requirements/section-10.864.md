@@ -32,7 +32,7 @@ I agree to maintain and present upon request, documentation necessary to support
 
 The goods comply with all the requirements for preferential tariff treatment specified for those goods in the United States-Oman Free Trade Agreement; and
 
-This document consists of \_\_\_ pages, including all attachments.”
+This document consists of \_\_\_\_\_\_ pages, including all attachments.”
 
 (b) *Responsible official or agent.* The declaration must be signed and dated by a responsible official of the importer or by the importer's authorized agent having knowledge of the relevant facts.
 

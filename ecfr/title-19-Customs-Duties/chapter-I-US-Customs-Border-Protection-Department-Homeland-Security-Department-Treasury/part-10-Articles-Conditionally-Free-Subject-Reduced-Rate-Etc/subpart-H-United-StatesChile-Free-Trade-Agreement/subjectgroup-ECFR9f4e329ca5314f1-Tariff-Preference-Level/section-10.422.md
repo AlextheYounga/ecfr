@@ -32,7 +32,7 @@ I agree to maintain and present upon request, documentation necessary to support
 
 The goods were produced in the territory of one or more of the parties, and comply with the preference requirements specified for those goods in the United States-Chile Free Trade Agreement and Chapter 99, subchapter XI of the HTSUS. There has been no further production or any other operation outside the territories of the parties, other than unloading, reloading, or any other operation necessary to preserve it in good condition or to transport the good to the United States; and
 
-This document consists of \_\_ pages, including all attachments.”
+This document consists of \_\_\_\_ pages, including all attachments.”
 
 (b) *Responsible official or agent.* The certificate of eligibility required to be submitted under this section must be signed and dated by a responsible official of the importer or by the importer's authorized agent having knowledge of the relevant facts.
 

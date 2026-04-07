@@ -4,9 +4,9 @@
 
 Certificate of Origin
 
-I, \_\_\_\_\_\_\_\_, foreign seller or owner of the merchandise hereinafter described, certify that such merchandise, consisting of \_\_\_\_\_\_\_\_ (Quantity) of \_\_\_\_\_\_\_\_ (Description) in \_\_\_\_\_\_\_\_\_\_ (Number and kind of packages) bearing the following marks and numbers \_\_\_\_\_\_ was mined, produced, or manufactured by \_\_\_\_\_\_\_\_ (Name) at or near \_\_\_\_\_\_\_\_, and was laden on board \_\_\_\_\_\_\_\_\_\_ (Carrier to the United States) at \_\_\_\_\_\_\_\_ (Place of lading) (Place of final departure from country of exportation) which departed from on \_\_\_\_\_\_; (Date); and that \_\_\_\_\_\_\_\_\_\_ (Class of labor specified in finding) was not employed in any stage of the mining, production, or manufacture of the merchandise or of any component thereof.
+I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, foreign seller or owner of the merchandise hereinafter described, certify that such merchandise, consisting of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Quantity) of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Description) in \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Number and kind of packages) bearing the following marks and numbers \_\_\_\_\_\_\_\_\_\_\_\_ was mined, produced, or manufactured by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name) at or near \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, and was laden on board \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Carrier to the United States) at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Place of lading) (Place of final departure from country of exportation) which departed from on \_\_\_\_\_\_\_\_\_\_\_\_; (Date); and that \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Class of labor specified in finding) was not employed in any stage of the mining, production, or manufacture of the merchandise or of any component thereof.
 
-Dated \_\_\_\_\_\_
+Dated \_\_\_\_\_\_\_\_\_\_\_\_
 
 (Signature)
 

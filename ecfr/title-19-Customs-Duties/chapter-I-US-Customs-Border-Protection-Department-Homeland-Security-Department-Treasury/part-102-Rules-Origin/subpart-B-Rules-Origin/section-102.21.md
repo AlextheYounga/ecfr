@@ -14,33 +14,59 @@
 
 (5) *Textile or apparel product.* A *textile or apparel product* is any good classifiable in Chapters 50 through 63, Harmonized Tariff Schedule of the United States (HTSUS), and any good classifiable under one of the following HTSUS headings or subheadings:
 
-*   3005.90
-*   3921.12.15
-*   3921.13.15
-*   3921.90.2550
-*   4202.12.40-80
-*   4202.22.40-80
-*   4202.32.40-95
-*   4202.92.04-08
-*   4202.92.15-30
-*   4202.92.60-90
-*   6405.20.60
-*   6406.10.77
-*   6406.10.90
-*   6406.99.15
-*   6501
-*   6502
-*   6504
-*   6505.90
-*   6601.10-99
-*   7019.19.15
-*   7019.19.28
-*   7019.40-59
-*   8708.21
-*   8804
-*   9113.90.40
-*   9404.90
-*   9612.10.9010
+3005.90
+
+3921.12.15
+
+3921.13.15
+
+3921.90.2550
+
+4202.12.40-80
+
+4202.22.40-80
+
+4202.32.40-95
+
+4202.92.04-08
+
+4202.92.15-30
+
+4202.92.60-90
+
+6405.20.60
+
+6406.10.77
+
+6406.10.90
+
+6406.99.15
+
+6501
+
+6502
+
+6504
+
+6505.90
+
+6601.10-99
+
+7019.19.15
+
+7019.19.28
+
+7019.40-59
+
+8708.21
+
+8804
+
+9113.90.40
+
+9404.90
+
+9612.10.9010
 
 (6) *Wholly assembled.* The term “wholly assembled” when used with reference to a good means that all components, of which there must be at least two, preexisted in essentially the same condition as found in the finished good and were combined to form the finished good in a single country, territory, or insular possession. Minor attachments and minor embellishments (for example, appliques, beads, spangles, embroidery, buttons) not appreciably affecting the identity of the good, and minor subassemblies (for example, collars, cuffs, plackets, pockets), will not affect the status of a good as “wholly assembled” in a single country, territory, or insular possession.
 
@@ -265,4 +291,4 @@
 
 (B) If the good is not knit to shape and consists of two or more component parts, the country of origin of the good is the country, territory, or insular possession in which a change to an assembled good of HTSUS subheading 6117.10 from unassembled components occurs, provided that the change is the result of the good being wholly assembled in a single country, territory, or insular possession.
 
-\[T.D. 95-69, 60 FR 46197, Sept. 5, 1995, as amended by T.D. 96-56, 61 FR 37818, July 22, 1996; T.D. 99-64, 64 FR 43266, Aug. 10, 1999; T.D. 01-36, 66 FR 21661, May 1, 2001; 66 FR 23981, May 10, 2001; T.D. 02-47, 67 FR 51752, Aug. 9, 2002; T.D. 03-08, 68 FR 8713, Feb. 25, 2003; CBP Dec. 08-42, 73 FR 64538, Oct. 30, 2008; CBP Dec. 08-42, 73 FR 66171, Nov. 7, 2008; 76 FR 54697, Sept. 2, 2011; CBP Dec. 12-15, 77 FR 58938, Sept. 25, 2012; CBP Dec. 19-03, 84 FR , Mar. 12, 2019\]
+\[T.D. 95-69, 60 FR 46197, Sept. 5, 1995\] Editorial Note:For Federal Register citations affecting § ,102.21 see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
