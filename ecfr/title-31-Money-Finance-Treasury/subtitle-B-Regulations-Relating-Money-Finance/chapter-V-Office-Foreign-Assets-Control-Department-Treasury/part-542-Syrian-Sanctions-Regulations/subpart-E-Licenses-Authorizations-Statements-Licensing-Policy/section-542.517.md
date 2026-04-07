@@ -1,3 +1,0 @@
-##### § 542.517 Third-country diplomatic and consular funds transfers authorized.
-
-U.S. depository institutions, U.S. registered brokers or dealers in securities, and U.S. registered money transmitters are authorized to process funds transfers for the operating expenses or other official business of third-country diplomatic or consular missions in Syria, provided that the transfer is not by, to, or through the Government of Syria or any other person whose property and interests in property are blocked pursuant to § 542.201.
