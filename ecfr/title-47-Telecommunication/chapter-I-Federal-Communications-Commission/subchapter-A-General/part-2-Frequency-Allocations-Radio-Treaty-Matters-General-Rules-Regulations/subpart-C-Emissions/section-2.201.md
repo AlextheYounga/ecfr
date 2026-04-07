@@ -138,7 +138,7 @@ X
 
 X
 
-(e) Third Symbol - type of information to be transmitted: 2
+(e) Third Symbol - type of information to be transmitted: 2/>
 
 2 In this context the word “information” does not include information of a constant, unvarying nature such as is provided by standard frequency emissions, continuous wave and pulse radars, etc.
 

@@ -1,5 +1,7 @@
 ##### § 101.101 Frequency availability.
 
+Link to an amendment published at 85 FR 22889, Apr. 23, 2020.
+
 | Frequency   band (MHz) | Radio service |
 | ---------------------- | ------------- |
 | 928-929                | MAS           |
