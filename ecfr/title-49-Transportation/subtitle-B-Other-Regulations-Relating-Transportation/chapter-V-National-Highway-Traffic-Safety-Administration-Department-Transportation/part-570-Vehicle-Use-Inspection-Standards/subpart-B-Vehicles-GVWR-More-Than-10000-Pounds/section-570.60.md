@@ -8,9 +8,9 @@ Table 2—Steering Wheel Free Play Values
 | Steering wheel diameter (inches) | Lash (inches) |
 | -------------------------------- | ------------- |
 | 16 or less                       | 2             |
-| 18                               | 21/4          |
-| 20                               | 21/2          |
-| 22                               | 23/4          |
+| 18                               | 21⁄4          |
+| 20                               | 21⁄2          |
+| 22                               | 23⁄4          |
 
 (b) *Linkage play.* Free play in the steering linkage shall not exceed the values shown in Table 3.
 
@@ -19,9 +19,9 @@ Table 2—Steering Wheel Free Play Values
 Table 3—Front Wheel Steering Linkage Free Play
 | Nominal bead diameter or rim size (inches) | Play (inches) |
 | ------------------------------------------ | ------------- |
-| 16 or less                                 | 1/4           |
-| 16.01 through 18.00                        | 3/8           |
-| 18.01 or more                              | 1/2           |
+| 16 or less                                 | 1⁄4           |
+| 16.01 through 18.00                        | 3⁄8           |
+| 18.01 or more                              | 1⁄2           |
 
 (c) *Free turning.* Steering wheels shall turn freely through the limit of travel in both directions.
 
