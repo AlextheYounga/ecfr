@@ -6,7 +6,7 @@
 
 Note to paragraph (a)(1):
 
-The applicable maximum civil penalty per violation of the Act is the greater of $289,238 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+The applicable maximum civil penalty per violation of the Act is the greater of $295,141 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
 
 (2) A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets in the commission of a violation of any license, order, regulation, or prohibition shall, upon conviction, be fined not more than $1,000,000, or if a natural person, may be imprisoned for not more than 20 years, or both.
 
