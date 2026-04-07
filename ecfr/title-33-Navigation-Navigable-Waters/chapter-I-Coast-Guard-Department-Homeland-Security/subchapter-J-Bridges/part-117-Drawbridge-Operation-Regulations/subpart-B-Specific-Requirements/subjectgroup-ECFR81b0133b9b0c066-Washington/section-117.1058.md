@@ -1,6 +1,6 @@
 ##### § 117.1058 Snake River.
 
-(a) The draw of the Burlington Northern Santa Fe railroad bridge across the Snake River at mile 1.5 between Pasco and Burbank is automated and is normally maintained in the fully open to navigation position.
+(a) The draw of the Burlington Northern Santa Fe railroad bridge across the Snake River at mile 1.5 between Pasco and Burbank is automated and is normally maintained in the fully open to navigation position.*Lights.*
 
 (b) *Lights.* All lights required for automated operation shall be visible for a distance of at least 2 miles and shall be displayed at all times, day and night.
 

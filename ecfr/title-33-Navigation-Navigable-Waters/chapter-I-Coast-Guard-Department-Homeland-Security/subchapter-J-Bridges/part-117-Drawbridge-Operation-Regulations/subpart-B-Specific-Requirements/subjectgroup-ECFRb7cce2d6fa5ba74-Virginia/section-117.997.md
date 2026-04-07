@@ -1,6 +1,6 @@
 ##### § 117.997 Atlantic Intracoastal Waterway, South Branch of the Elizabeth River to the Albermarle and Chesapeake Canal.
 
-(a) The draw of the Belt Line Railroad Bridge, mile 2.6, in Portsmouth and Chesapeake will operate as follows:
+(a) The draw of the Belt Line Railroad Bridge, mile 2.6, in Portsmouth and Chesapeake will operate as follows:3/4
 
 (1) The bridge will be left in the open position at all times and will only be lowered for the passage of trains and to perform periodic maintenance authorized in accordance with subpart A of this part.
 

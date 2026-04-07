@@ -1,6 +1,6 @@
 ##### § 117.869 Columbia River.
 
-(a) The draws of the Interstate 5 Bridges, mile 106.5, between Portland, OR, and Vancouver, WA, shall open on signal except that the draws need not be opened for the passage of vessels from 6:30 a.m. to 9 a.m. and from 2:30 p.m. to 6 p.m. Monday through Friday except federal holidays.
+(a) The draws of the Interstate 5 Bridges, mile 106.5, between Portland, OR, and Vancouver, WA, shall open on signal except that the draws need not be opened for the passage of vessels from 6:30 a.m. to 9 a.m. and from 2:30 p.m. to 6 p.m. Monday through Friday except federal holidays.*Lights.*
 
 (b) The draw of the Port of Hood River bridge, mile 169.8 at Hood River, shall open on signal if at least 12 hours notice is given.
 

@@ -1,6 +1,6 @@
 ##### § 117.547 Bush River.
 
-The draw of the Amtrak Bridge, mile 6.8 at Perryman, shall operate as follows:
+The draw of the Amtrak Bridge, mile 6.8 at Perryman, shall operate as follows:*BridgeOpeningRequest@Amtrak.com*
 
 (a) Shall open twice a day from May 1 through October 31, on Saturdays, Sundays, and Federal holidays that fall on a Friday or a Monday, when a proper request has been received.
 

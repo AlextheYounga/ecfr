@@ -1,6 +1,6 @@
 ##### § 117.4 Definitions.
 
-The following definitions apply to this part:
+The following definitions apply to this part:*Appurtenance*
 
 *Appurtenance* means an attachment or accessory extending beyond the hull or superstructure that is not an integral part of the vessel and is not needed for a vessel's piloting, propelling, controlling, or collision avoidance capabilities.
 

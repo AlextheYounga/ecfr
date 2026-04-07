@@ -16,4 +16,4 @@
 
 (b) \[Reserved\]
 
-\[CGD09-01-001, 66 FR 13434, Mar. 6, 2001, as amended by USCG-2015-0132, 80 FR 24816, May 1, 2015\]
+\[CGD09-01-001, 66 FR 13434, Mar. 6, 2001, as amended by USCG-2015-0132, 80 FR 24816, May 1, 2015\] Link to an amendment published at 90 FR 21697, May 21, 2025.
