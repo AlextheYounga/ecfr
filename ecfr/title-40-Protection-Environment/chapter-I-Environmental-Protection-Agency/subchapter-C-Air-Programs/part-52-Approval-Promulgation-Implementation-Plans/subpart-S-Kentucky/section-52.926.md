@@ -1,6 +1,6 @@
 ##### § 52.926 Attainment dates for national standards.
 
-The following table presents the latest dates by which the national standards are to be attained. The dates reflect the information presented in Kentucky's plan, except where noted. 
+The following table presents the latest dates by which the national standards are to be attained. The dates reflect the information presented in Kentucky's plan, except where noted.
 
 | Air quality control region                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Pollutant |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |

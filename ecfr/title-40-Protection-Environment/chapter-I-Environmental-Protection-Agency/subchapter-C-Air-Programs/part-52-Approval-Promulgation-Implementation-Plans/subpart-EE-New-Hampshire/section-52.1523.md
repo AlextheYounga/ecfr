@@ -1,6 +1,6 @@
 ##### § 52.1523 Attainment dates for national standards.
 
-The following table presents the latest dates by which the national standards are to be attained. The dates reflect the information presented in New Hampshire's plan. 
+The following table presents the latest dates by which the national standards are to be attained. The dates reflect the information presented in New Hampshire's plan.
 
 | Air quality control region                                                           | SO 2 | PM 10 | NO 2 | CO | O 3 |
 | ------------------------------------------------------------------------------------ | ---- | ----- | ---- | -- | --- |

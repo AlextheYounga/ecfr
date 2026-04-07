@@ -1,10 +1,12 @@
 ##### § 52.1670 Identification of plan.
 
-(a) *Purpose and scope.* This section sets forth the applicable State Implementation Plan (SIP) for New York under section 110 of the Clean Air Act, as amended, 42 U.S.C. 7401 *et seq.,* and 40 CFR part 51 to meet National Ambient Air Quality Standards. 
+Link to an amendment published at 90 FR 13416, Mar. 24, 2025.
 
-(b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to August 1, 2015, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notification of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with an EPA approval date after August 1, 2015, will be incorporated by reference in the next update to the SIP compilation. 
+(a) *Purpose and scope.* This section sets forth the applicable State Implementation Plan (SIP) for New York under section 110 of the Clean Air Act, as amended, 42 U.S.C. 7401 *et seq.,* and 40 CFR part 51 to meet National Ambient Air Quality Standards.
 
-(2) EPA Region 2 certifies that the rules/regulations provided by the EPA in the SIP compilation at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated State rules/regulations, which have been approved as part of the SIP as of August 1, 2015. 
+(b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to August 1, 2015, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notification of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with an EPA approval date after August 1, 2015, will be incorporated by reference in the next update to the SIP compilation.
+
+(2) EPA Region 2 certifies that the rules/regulations provided by the EPA in the SIP compilation at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated State rules/regulations, which have been approved as part of the SIP as of August 1, 2015.
 
 (3) Copies of the materials incorporated by reference may be inspected at the Environmental Protection Agency, Region 2, Air Programs Branch, 290 Broadway, New York, New York 10007; and the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 

@@ -1,6 +1,6 @@
 ##### § 52.2071 Classification of regions.
 
-The Rhode Island plan was evaluated on the basis of the following classifications: 
+The Rhode Island plan was evaluated on the basis of the following classifications:
 
 | Air quality control region         | Pollutant |
 | ---------------------------------- | --------- |

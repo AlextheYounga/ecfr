@@ -1,6 +1,6 @@
 ##### § 52.2821 Classification of regions.
 
-The American Samoa plan was evaluated on the basis of the following classifications: 
+The American Samoa plan was evaluated on the basis of the following classifications:
 
 | Air quality control region | Pollutant |
 | -------------------------- | --------- |

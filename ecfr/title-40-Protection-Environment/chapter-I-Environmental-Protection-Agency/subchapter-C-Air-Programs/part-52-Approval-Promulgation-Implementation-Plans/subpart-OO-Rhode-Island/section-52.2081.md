@@ -1,6 +1,6 @@
 ##### § 52.2081 EPA-approved EPA Rhode Island State regulations.
 
-The following table identifies the State regulations which have been approved by EPA and incorporated by reference into the Rhode Island State Implementation Plan. This table is for informational purposes only and does not have any independent regulatory requirements for a specific situation consult the plan identified in § 52.2070. To the extent that this table conflicts with § 52.2070, § 52.2070 governs. 
+The following table identifies the State regulations which have been approved by EPA and incorporated by reference into the Rhode Island State Implementation Plan. This table is for informational purposes only and does not have any independent regulatory requirements for a specific situation consult the plan identified in § 52.2070. To the extent that this table conflicts with § 52.2070, § 52.2070 governs.
 
 Table 52.2081—EPA-Approved Rules and Regulations
 | State citation | Title/subject                                                                                | Date adopted by State | Date approved by EPA | FR citation | 52.2070     | Comments/Unapproved sections                                                                                                                                                                                                                                                                                                                                                                                                |

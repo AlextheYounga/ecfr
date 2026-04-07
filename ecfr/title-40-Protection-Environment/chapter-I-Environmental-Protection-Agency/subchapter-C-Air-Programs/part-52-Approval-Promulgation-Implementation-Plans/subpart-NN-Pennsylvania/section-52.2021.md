@@ -1,6 +1,6 @@
 ##### § 52.2021 Classification of regions.
 
-The Pennsylvania plan was evaluated on the basis of the following classifications: 
+The Pennsylvania plan was evaluated on the basis of the following classifications:
 
 | Air quality control region                              | Pollutant |
 | ------------------------------------------------------- | --------- |

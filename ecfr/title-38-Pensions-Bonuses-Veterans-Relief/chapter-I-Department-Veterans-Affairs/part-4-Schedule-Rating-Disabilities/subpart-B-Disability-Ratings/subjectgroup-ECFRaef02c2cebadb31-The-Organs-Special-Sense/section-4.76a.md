@@ -15,7 +15,7 @@ Table III—Normal Visual Field Extent at 8 Principal Meridians
 
 ![](/graphics/ec04no91.005.gif)
 
-Example of computation of concentric contraction under the schedule with abnormal findings taken from Figure 1. 
+Example of computation of concentric contraction under the schedule with abnormal findings taken from Figure 1.
 
 | Loss                                                                                      | Degrees |
 | ----------------------------------------------------------------------------------------- | ------- |
@@ -28,6 +28,6 @@ Example of computation of concentric contraction under the schedule with abnorma
 | Up                                                                                        | 25      |
 | Up temporally                                                                             | 35      |
 | Total loss                                                                                | 320     |
-| Remaining field 500° minus 320° = 180°. 180° ÷ 8 = 221/2° average concentric contraction. |         |
+| Remaining field 500° minus 320° = 180°. 180° ÷ 8 = 221⁄2° average concentric contraction. |         |
 
 (Authority: 38 U.S.C. 1155) \[43 FR 45352, Oct. 2, 1978, as amended at 73 FR 66549, Nov. 10, 2008\]

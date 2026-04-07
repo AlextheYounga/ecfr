@@ -1,6 +1,6 @@
 ##### § 52.1121 Classification of regions.
 
-The Massachusetts plan was evaluated on the basis of the following classifications: 
+The Massachusetts plan was evaluated on the basis of the following classifications:
 
 | Air quality control region                         | Pollutant |
 | -------------------------------------------------- | --------- |

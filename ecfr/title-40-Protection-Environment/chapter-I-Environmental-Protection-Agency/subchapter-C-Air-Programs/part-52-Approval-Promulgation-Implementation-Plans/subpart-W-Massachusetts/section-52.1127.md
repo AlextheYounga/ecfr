@@ -1,6 +1,6 @@
 ##### § 52.1127 Attainment dates for national standards.
 
-The following table presents the latest dates by which the national standards are to be attained. The table reflects the new information presented in the approved Massachusetts plan. 
+The following table presents the latest dates by which the national standards are to be attained. The table reflects the new information presented in the approved Massachusetts plan.
 
 | Air quality control region                                                     | Pollutant |
 | ------------------------------------------------------------------------------ | --------- |

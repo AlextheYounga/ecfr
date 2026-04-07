@@ -1,6 +1,6 @@
 ##### § 52.121 Classification of regions.
 
-The Arizona plan is evaluated on the basis of the following classifications: 
+The Arizona plan is evaluated on the basis of the following classifications:
 
 | AQCR (constituent counties)                                          | Classifications |
 | -------------------------------------------------------------------- | --------------- |

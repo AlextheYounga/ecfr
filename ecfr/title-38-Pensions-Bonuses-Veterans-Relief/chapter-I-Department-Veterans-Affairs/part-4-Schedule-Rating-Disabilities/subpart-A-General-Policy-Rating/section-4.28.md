@@ -1,6 +1,6 @@
 ##### § 4.28 Prestabilization rating from date of discharge from service.
 
-The following ratings may be assigned, in lieu of ratings prescribed elsewhere, under the conditions stated for disability from any disease or injury. The prestabilization rating is not to be assigned in any case in which a total rating is immediately assignable under the regular provisions of the schedule or on the basis of individual unemployability. The prestabilization 50-percent rating is not to be used in any case in which a rating of 50 percent or more is immediately assignable under the regular provisions. 
+The following ratings may be assigned, in lieu of ratings prescribed elsewhere, under the conditions stated for disability from any disease or injury. The prestabilization rating is not to be assigned in any case in which a total rating is immediately assignable under the regular provisions of the schedule or on the basis of individual unemployability. The prestabilization 50-percent rating is not to be used in any case in which a rating of 50 percent or more is immediately assignable under the regular provisions.
 
 |                                                               | Rating |
 | ------------------------------------------------------------- | ------ |

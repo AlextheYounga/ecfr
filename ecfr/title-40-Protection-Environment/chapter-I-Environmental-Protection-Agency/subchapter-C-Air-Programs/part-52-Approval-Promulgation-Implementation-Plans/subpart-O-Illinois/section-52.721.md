@@ -1,6 +1,6 @@
 ##### § 52.721 Classification of regions.
 
-The Illinois plan was evaluated on the basis of the following classifications: 
+The Illinois plan was evaluated on the basis of the following classifications:
 
 | Air quality control region                                   | Pollutant |
 | ------------------------------------------------------------ | --------- |

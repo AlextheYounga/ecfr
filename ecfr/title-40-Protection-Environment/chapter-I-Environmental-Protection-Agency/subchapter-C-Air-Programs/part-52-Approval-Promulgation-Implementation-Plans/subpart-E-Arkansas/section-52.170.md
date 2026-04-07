@@ -1,12 +1,12 @@
 ##### § 52.170 Identification of plan.
 
-(a) *Purpose and scope.* This section sets forth the applicable State Implementation Plan (SIP) for Arkansas under section 110 of the Clean Air Act, 42 U.S.C. 7410, and 40 CFR part 51 to meet national ambient air quality standards. 
+(a) *Purpose and scope.* This section sets forth the applicable State Implementation Plan (SIP) for Arkansas under section 110 of the Clean Air Act, 42 U.S.C. 7410, and 40 CFR part 51 to meet national ambient air quality standards.
 
-(b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to December 1, 2005, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with EPA approval dates after December 1, 2005, will be incorporated by reference in the next update to the SIP compilation. 
+(b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to December 1, 2005, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with EPA approval dates after December 1, 2005, will be incorporated by reference in the next update to the SIP compilation.
 
-(2) EPA Region 6 certifies that the rules/regulations provided by EPA in the SIP compilation at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated State rules/regulations that have been approved as part of the State implementation plan as of December 1, 2005. 
+(2) EPA Region 6 certifies that the rules/regulations provided by EPA in the SIP compilation at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated State rules/regulations that have been approved as part of the State implementation plan as of December 1, 2005.
 
-(3) Copies of the materials incorporated by reference may be inspected at *https://www.epa.gov/sips-ar* or the Environmental Protection Agency, Region 6, 1201 Elm Street, Suite 500, Dallas, Texas 75270-2102. If you wish to obtain material from the EPA Regional Office, please call (800) 887-6063 or (214) 665-2760. 
+(3) Copies of the materials incorporated by reference may be inspected at *https://www.epa.gov/sips-ar* or the Environmental Protection Agency, Region 6, 1201 Elm Street, Suite 500, Dallas, Texas 75270-2102. If you wish to obtain material from the EPA Regional Office, please call (800) 887-6063 or (214) 665-2760.
 
 (c) *EPA approved regulations.*
 

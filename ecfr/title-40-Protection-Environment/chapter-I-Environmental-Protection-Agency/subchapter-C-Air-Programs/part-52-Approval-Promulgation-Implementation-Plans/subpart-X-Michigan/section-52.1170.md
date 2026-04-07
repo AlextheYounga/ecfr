@@ -1,10 +1,10 @@
 ##### § 52.1170 Identification of plan.
 
-(a) *Purpose and scope.* This section sets forth the applicable State Implementation Plan (SIP) for Michigan under section 110 of the Clean Air Act, 42 U.S.C. 7401, and 40 CFR part 51 to meet National Ambient Air Quality Standards. 
+(a) *Purpose and scope.* This section sets forth the applicable State Implementation Plan (SIP) for Michigan under section 110 of the Clean Air Act, 42 U.S.C. 7401, and 40 CFR part 51 to meet National Ambient Air Quality Standards.
 
-(b) *Incorporation by reference.* (1) Material listed in paragraphs (c), (d), and (e) of this section with an EPA approval date prior to May 1, 2016, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c), (d), and (e) of this section with the EPA approval dates after May 1, 2016, will be incorporated by reference in the next update to the SIP compilation. 
+(b) *Incorporation by reference.* (1) Material listed in paragraphs (c), (d), and (e) of this section with an EPA approval date prior to May 1, 2016, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c), (d), and (e) of this section with the EPA approval dates after May 1, 2016, will be incorporated by reference in the next update to the SIP compilation.
 
-(2) EPA Region 5 certifies that the rules/regulations provided by the EPA in the SIP compilation at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated state rules/regulations which have been approved as part of the SIP as of May 1, 2016. 
+(2) EPA Region 5 certifies that the rules/regulations provided by the EPA in the SIP compilation at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated state rules/regulations which have been approved as part of the SIP as of May 1, 2016.
 
 (3) Copies of the materials incorporated by reference may be inspected at the Environmental Protection Agency, Region 5, Air Programs Branch, 77 West Jackson Boulevard, Chicago, IL 60604, and the National Archives and Records Administration. For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 

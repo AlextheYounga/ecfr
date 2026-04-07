@@ -1,6 +1,6 @@
 ##### § 52.2381 EPA-approved Vermont State regulations.
 
-The following table identifies the state regulations which have been submitted to and adopted by EPA as revisions to the Vermont State Implementation Plan. This table is for informational purposes only and does not have any independent regulatory effect. To determine regulatory requirements for a specific situation consult the plan identified in § 52.2370. To the extent that this table conflicts with §§ 52.2370, 52.2370 governs. 
+The following table identifies the state regulations which have been submitted to and adopted by EPA as revisions to the Vermont State Implementation Plan. This table is for informational purposes only and does not have any independent regulatory effect. To determine regulatory requirements for a specific situation consult the plan identified in § 52.2370. To the extent that this table conflicts with §§ 52.2370, 52.2370 governs.
 
 Table 52.2381—EPA-Approved Regulations
 

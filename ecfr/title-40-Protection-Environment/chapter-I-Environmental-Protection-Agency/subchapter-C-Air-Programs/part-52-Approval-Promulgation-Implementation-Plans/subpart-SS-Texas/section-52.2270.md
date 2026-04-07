@@ -1,12 +1,12 @@
 ##### § 52.2270 Identification of plan.
 
-(a) *Purpose and scope.* This section sets forth the applicable State Implementation Plan (SIP) for Texas under section 110 of the Clean Air Act, 42 U.S.C. 7410, and 40 CFR part 51 to meet national ambient air quality standards. 
+(a) *Purpose and scope.* This section sets forth the applicable State Implementation Plan (SIP) for Texas under section 110 of the Clean Air Act, 42 U.S.C. 7410, and 40 CFR part 51 to meet national ambient air quality standards.
 
-(b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to December 31, 1998, were approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with EPA approval dates after December 31, 1998, will be incorporated by reference in the next update to the SIP compilation. 
+(b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to December 31, 1998, were approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the Federal Register. Entries in paragraphs (c) and (d) of this section with EPA approval dates after December 31, 1998, will be incorporated by reference in the next update to the SIP compilation.
 
-(2) EPA Region 6 certifies that the rules/regulations provided by EPA in the SIP compilation at the addresses in paragraph (b)(3) are an exact duplicate of the officially promulgated State rules/regulations which have been approved as part of the State Implementation Plan as of December 31, 1998. 
+(2) EPA Region 6 certifies that the rules/regulations provided by EPA in the SIP compilation at the addresses in paragraph (b)(3) are an exact duplicate of the officially promulgated State rules/regulations which have been approved as part of the State Implementation Plan as of December 31, 1998.
 
-(3) Copies of the materials incorporated by reference may be inspected at *https://www.epa.gov/sips-tx* or the Environmental Protection Agency, Region 6, 1201 Elm Street, Suite 500, Dallas, Texas 75270-2102. If you wish to obtain material from the EPA Regional Office, please call (800) 887-6063 or (214) 665-2760. 
+(3) Copies of the materials incorporated by reference may be inspected at *https://www.epa.gov/sips-tx* or the Environmental Protection Agency, Region 6, 1201 Elm Street, Suite 500, Dallas, Texas 75270-2102. If you wish to obtain material from the EPA Regional Office, please call (800) 887-6063 or (214) 665-2760.
 
 (c) *EPA approved regulations.*
 
@@ -913,7 +913,7 @@ EPA Approved Regulations in the Texas SIP
 | **Division 2—Applicability**                                                                                                                                                       |                                                                                                                                                                                                        |                               |                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Section 122.122                                                                                                                                                                    | Potential to Emit                                                                                                                                                                                      | 3/26/2014                     | 11/10/2014   79 FR 66626                    | The SIP does NOT include 30 TAC Section 122.122(e)(3), (e)(3)(A), or (e)(3)(B).                                                                                                                                                                                                                                                                                                                                                                                               |
 
-(d) EPA-Approved State Source-Specific Requirements. 
+(d) EPA-Approved State Source-Specific Requirements.
 
 EPA-Approved Texas Source-Specific Requirements
 | Name of Source                                                                                           | Permit or Order Number                  | State Effective Date                 | EPA Approval Date                                  | Comments                                                                                                      |
@@ -941,7 +941,7 @@ EPA-Approved Texas Source-Specific Requirements
 | Exide Technologies                                                                                       | Agreed Order No. 2011-0521-MIS          | 8/14/2012                            | 6/29/2017, 82 FR 29430                             |                                                                                                               |
 | TXI Operations LP (Texas Industries, Inc., TXI), Kiln #5, Ellis County, Texas                            | Agreed Order No. 2017-1648-SIP          | 08/21/18                             | 02/22/19, 84 FR 5602                               | DFW 2008 8-Hour ozone standard.                                                                               |
 
-(e) EPA approved nonregulatory provisions and quasi-regulatory measures. 
+(e) EPA approved nonregulatory provisions and quasi-regulatory measures.
 
 EPA Approved Statutes in the Texas SIP
 | Title/Subject                                                                                                                                                                                                                                                 | State approval/submittal date                                                                                | EPA approval date     | Comments                                                                                                                                   |

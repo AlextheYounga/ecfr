@@ -1,6 +1,6 @@
 ##### § 52.921 Classification of regions.
 
-The Kentucky plan was evaluated on the basis of the following classifications: 
+The Kentucky plan was evaluated on the basis of the following classifications:
 
 | Air quality control region                                                         | Pollutant |
 | ---------------------------------------------------------------------------------- | --------- |

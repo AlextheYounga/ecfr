@@ -1,6 +1,6 @@
 ##### § 52.421 Classification of regions.
 
-The Delaware plan was evaluated on the basis of the following classifications: 
+The Delaware plan was evaluated on the basis of the following classifications:
 
 | Air quality control region           | Pollutant |
 | ------------------------------------ | --------- |

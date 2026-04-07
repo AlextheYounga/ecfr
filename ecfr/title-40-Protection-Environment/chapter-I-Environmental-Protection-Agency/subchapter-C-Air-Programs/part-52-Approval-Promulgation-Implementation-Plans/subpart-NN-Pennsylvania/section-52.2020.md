@@ -1,36 +1,36 @@
 ##### § 52.2020 Identification of plan.
 
-(a) *Purpose and scope.* This section sets forth the applicable State implementation plan for Pennsylvania under section 110 of the Clean Air Act, 42 U.S.C. 7410, and 40 CFR part 51 to meet national ambient air quality standards. 
+(a) *Purpose and scope.* This section sets forth the applicable State implementation plan for Pennsylvania under section 110 of the Clean Air Act, 42 U.S.C. 7410, and 40 CFR part 51 to meet national ambient air quality standards.
 
-(b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to July 1, 2016, were approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Entries in paragraphs (c) and (d) of this section with the EPA approval dates after July 1, 2016 for the Commonwealth of Pennsylvania, have been approved by EPA for inclusion in the state implementation plan and for incorporation by reference into the plan as it is contained in this section, and will be considered by the Director of the Federal Register for approval in the next update to the SIP compilation. 
+(b) *Incorporation by reference.* (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to July 1, 2016, were approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Entries in paragraphs (c) and (d) of this section with the EPA approval dates after July 1, 2016 for the Commonwealth of Pennsylvania, have been approved by EPA for inclusion in the state implementation plan and for incorporation by reference into the plan as it is contained in this section, and will be considered by the Director of the Federal Register for approval in the next update to the SIP compilation.
 
-(2)(i) EPA Region III certifies that the following materials provided by EPA at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated Commonwealth rules/regulations which have been approved as part of the state implementation plan as of the dates referenced in paragraph (b)(1) of this section: 
+(2)(i) EPA Region III certifies that the following materials provided by EPA at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated Commonwealth rules/regulations which have been approved as part of the state implementation plan as of the dates referenced in paragraph (b)(1) of this section:
 
-(A) Materials in Notebook “40 CFR 52.2020(c)(1)-1. PA Department of Environmental Protection (PA DEP); 2. PA Department of Transportation (PA DOT).” 
+(A) Materials in Notebook “40 CFR 52.2020(c)(1)-1. PA Department of Environmental Protection (PA DEP); 2. PA Department of Transportation (PA DOT).”
 
-(B) Materials in Notebook “1. 40 CFR 52.2020(c)(2)—Allegheny County Health Department (ACHD); 2. 40 CFR 52.2020(c)(3)—Philadelphia Air Management Services (AMS).” 
+(B) Materials in Notebook “1. 40 CFR 52.2020(c)(2)—Allegheny County Health Department (ACHD); 2. 40 CFR 52.2020(c)(3)—Philadelphia Air Management Services (AMS).”
 
-(ii) EPA Region III certifies that the following materials provided by EPA at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated Commonwealth source-specific requirements which have been approved as part of the state implementation plan as of the dates referenced in paragraph(b)(1) of this section. No additional revisions were made between April 1, 2013 and July 1, 2016: 
+(ii) EPA Region III certifies that the following materials provided by EPA at the addresses in paragraph (b)(3) of this section are an exact duplicate of the officially promulgated Commonwealth source-specific requirements which have been approved as part of the state implementation plan as of the dates referenced in paragraph(b)(1) of this section. No additional revisions were made between April 1, 2013 and July 1, 2016:
 
-(A) \[Reserved\] 
+(A) \[Reserved\]
 
-(B) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 1, Part 1.” 
+(B) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 1, Part 1.”
 
-(C) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 1, Part 2.” 
+(C) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 1, Part 2.”
 
-(D) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 2, Part 1.” 
+(D) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 2, Part 1.”
 
-(E) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 2, Part 2.” 
+(E) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 2, Part 2.”
 
-(F) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 3.” 
+(F) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 3.”
 
-(G) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 4.” 
+(G) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 4.”
 
-(H) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 5.” 
+(H) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 5.”
 
-(I) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 6.” 
+(I) Materials in Notebook “40 CFR 52.2020(d)(1)—Source-specific Requirements—Volume 6.”
 
-(J) Materials in Notebook “40 CFR 52.2020(d)(2)-(d)(4)—Source-specific Requirements.” 
+(J) Materials in Notebook “40 CFR 52.2020(d)(2)-(d)(4)—Source-specific Requirements.”
 
 (3) Copies of the materials incorporated by reference into the state implementation plan may be inspected at the Environmental Protection Agency, Region III, 1650 Arch Street, Philadelphia, Pennsylvania 19103. To obtain the material, please call the Regional Office at (215) 814-3376. You may also inspect the material with an EPA approval date prior to July 1, 2016 for the Commonwealth of Pennsylvania at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
@@ -1003,7 +1003,7 @@
 | Section I                                                                                     | Introduction                                                                                        | 10/30/95                     | 3/28/03, 68 FR 15059   | (c)(203).                                                                                                                                                         |
 | Section II                                                                                    | Program Adoption                                                                                    | 10/30/95                     | 3/28/03, 68 FR 15059   | (c)(203).                                                                                                                                                         |
 
-(d) EPA-Approved State Source-Specific Requirements 
+(d) EPA-Approved State Source-Specific Requirements
 
 (1) EPA-Approved Source-Specific Reasonably Available Control Technology (RACT) Requirements for Volatile Organic Compounds (VOC) and Oxides of Nitrogen (NOX)
 | Name of source                                                                                                                                                              | Permit No.                                                            | County            | State   effective date                            | EPA approval date       | Additional explanation/   §§ 52.2063 and 52.2064   citations1                                                                                                                                            |

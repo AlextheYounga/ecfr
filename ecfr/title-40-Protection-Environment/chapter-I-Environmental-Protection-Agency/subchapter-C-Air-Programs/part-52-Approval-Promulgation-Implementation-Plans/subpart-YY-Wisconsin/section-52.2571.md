@@ -1,6 +1,6 @@
 ##### § 52.2571 Classification of regions.
 
-The Wisconsin plan was evaluated on the basis of the following classifications: 
+The Wisconsin plan was evaluated on the basis of the following classifications:
 
 | Air quality control region                                   | Pollutant |
 | ------------------------------------------------------------ | --------- |

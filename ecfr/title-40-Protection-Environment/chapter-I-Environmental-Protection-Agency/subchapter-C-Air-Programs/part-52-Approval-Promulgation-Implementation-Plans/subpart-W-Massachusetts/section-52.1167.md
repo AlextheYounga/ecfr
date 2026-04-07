@@ -1,6 +1,6 @@
 ##### § 52.1167 EPA-approved Massachusetts State regulations.
 
-The following table identifies the State regulations which have been submitted to and approved by EPA as revisions to the Massachusetts State Implementation Plan. This table is for informational purposes only and does not have any independent regulatory effect. To determine regulatory requirements for a specific situation consult the plan identified in § 52.1120. To the extent that this table conflicts with § 52.1120, § 52.1120 governs. 
+The following table identifies the State regulations which have been submitted to and approved by EPA as revisions to the Massachusetts State Implementation Plan. This table is for informational purposes only and does not have any independent regulatory effect. To determine regulatory requirements for a specific situation consult the plan identified in § 52.1120. To the extent that this table conflicts with § 52.1120, § 52.1120 governs.
 
 Table 52.1167—EPA-Approved Rules and Regulations
 

@@ -1,22 +1,22 @@
 ##### § 52.222 Negative declarations.
 
-(a) The following air pollution control districts submitted negative declarations for volatile organic compound source categories to satisfy the requirements of section 182 of the Clean Air Act, as amended. The following negative declarations are approved as additional information to the State Implementation Plan. 
+(a) The following air pollution control districts submitted negative declarations for volatile organic compound source categories to satisfy the requirements of section 182 of the Clean Air Act, as amended. The following negative declarations are approved as additional information to the State Implementation Plan.
 
-(1) Mojave Desert Air Quality Management District. 
+(1) Mojave Desert Air Quality Management District.
 
-(i) Natural Gas and Gasoline Processing Equipment and Chemical Processing and Manufacturing were submitted on July 13, 1994 and adopted on May 25, 1994. 
+(i) Natural Gas and Gasoline Processing Equipment and Chemical Processing and Manufacturing were submitted on July 13, 1994 and adopted on May 25, 1994.
 
-(ii) Asphalt Air Blowing was submitted on December 20, 1994 and adopted on October 26, 1994. 
+(ii) Asphalt Air Blowing was submitted on December 20, 1994 and adopted on October 26, 1994.
 
-(iii) Vacuum Producing Devices or Systems was submitted on December 29, 1994 and adopted on December 21, 1994. 
+(iii) Vacuum Producing Devices or Systems was submitted on December 29, 1994 and adopted on December 21, 1994.
 
-(iv) Synthetic Organic Chemical Manufacturing Industry (SOCMI) Distillation, SOCMI Reactors, SOCMI Batch Processing, Offset Lithography, Industrial Wastewater, Plastic Parts Coating (Business Machines), Plastic Parts (Other), and Ship Building were submitted on August 7, 1995 and adopted on June 28, 1995. 
+(iv) Synthetic Organic Chemical Manufacturing Industry (SOCMI) Distillation, SOCMI Reactors, SOCMI Batch Processing, Offset Lithography, Industrial Wastewater, Plastic Parts Coating (Business Machines), Plastic Parts (Other), and Ship Building were submitted on August 7, 1995 and adopted on June 28, 1995.
 
-(v) Pneumatic Rubber Tire Manufacturing, Large Petroleum Dry Cleaners, Surface Coating of Cans, Surface Coating of Coils, Surface Coating Fabrics, Surface Coating Operations at Automotive and Light Duty Truck Assembly Plants, Surface of Coating of Large Appliances, Surface of Coating of Magnet Wire, Vacuum Producing Devices or Systems, Leaks From Petroleum Refinery Equipment, Process Unit Turnarounds, Equipment Leaks From Natural Gas/Gasoline Processing Plants, Synthesized Pharmaceutical Products, Air Oxidation Process—SOCMI, Polymer Manufacturing SOCMI and Polymer Manufacturing Equipment Leaks, Reactor Processes and Distillation Operations in SOCMI, and Synthetic Organic Chemical Polymer and Resin Manufacturing were submitted on July 11, 2007 and adopted January 22, 2007. 
+(v) Pneumatic Rubber Tire Manufacturing, Large Petroleum Dry Cleaners, Surface Coating of Cans, Surface Coating of Coils, Surface Coating Fabrics, Surface Coating Operations at Automotive and Light Duty Truck Assembly Plants, Surface of Coating of Large Appliances, Surface of Coating of Magnet Wire, Vacuum Producing Devices or Systems, Leaks From Petroleum Refinery Equipment, Process Unit Turnarounds, Equipment Leaks From Natural Gas/Gasoline Processing Plants, Synthesized Pharmaceutical Products, Air Oxidation Process—SOCMI, Polymer Manufacturing SOCMI and Polymer Manufacturing Equipment Leaks, Reactor Processes and Distillation Operations in SOCMI, and Synthetic Organic Chemical Polymer and Resin Manufacturing were submitted on July 11, 2007 and adopted January 22, 2007.
 
-(vi) Petroleum Refinery Equipment, Manufacture of High-Density Polyethylene, Polypropylene, and Polystyrene Resins, and Fugitive Emissions from Synthetic Organic Chemical Polymer and Resin Manufacturing Equipment were submitted on October 22, 2010 and adopted on August 23, 2010. 
+(vi) Petroleum Refinery Equipment, Manufacture of High-Density Polyethylene, Polypropylene, and Polystyrene Resins, and Fugitive Emissions from Synthetic Organic Chemical Polymer and Resin Manufacturing Equipment were submitted on October 22, 2010 and adopted on August 23, 2010.
 
-(vii) The following negative declarations for the 2008 ozone NAAQS were adopted by the District on February 23, 2015 and submitted to EPA on September 9, 2015. 
+(vii) The following negative declarations for the 2008 ozone NAAQS were adopted by the District on February 23, 2015 and submitted to EPA on September 9, 2015.
 
 | CTG source category                                                                 | CTG reference document                                                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,21 +40,21 @@
 | (R) Metal Furniture Coating                                                         | EPA-450/2-77-032, 12/77 Control of Volatile Organic Emissions from Existing Stationary Sources—Volume III: Surface Coating of Metal Furniture.   EPA 453/R-07-005, 09/07 Control Techniques Guidelines for Metal Furniture Coatings.                                                                     |
 | (S) Flat Wood Paneling                                                              | EPA-450/2-78-032, 06/78 Control of Volatile Organic Emissions from Existing Stationary Sources—Volume VII: Factory Surface Coating of Flat Wood Paneling.   EPA-453/R-06-004, 09/06 Control Techniques Guidelines for Flat Wood Paneling Coatings.                                                       |
 
-(viii) The following negative declarations for the 2008 ozone standard were adopted by the District on April 23, 2018 and submitted to EPA on July 16, 2018: Miscellaneous Metal and Plastic Parts Coatings (EPA-453/R-08-003), Table 3—Plastic Parts and Products, and Table 4—Automotive/Transportation and Business Machine Plastic Parts. 
+(viii) The following negative declarations for the 2008 ozone standard were adopted by the District on April 23, 2018 and submitted to EPA on July 16, 2018: Miscellaneous Metal and Plastic Parts Coatings (EPA-453/R-08-003), Table 3—Plastic Parts and Products, and Table 4—Automotive/Transportation and Business Machine Plastic Parts.
 
-(ix) The following negative declaration for the 2008 ozone standard was adopted by the District on October 22, 2018, and submitted to EPA on December 7, 2018: Miscellaneous Metal and Plastic Parts Coatings (EPA-453/R-08-003), Table 6—Motor Vehicle Materials. 
+(ix) The following negative declaration for the 2008 ozone standard was adopted by the District on October 22, 2018, and submitted to EPA on December 7, 2018: Miscellaneous Metal and Plastic Parts Coatings (EPA-453/R-08-003), Table 6—Motor Vehicle Materials.
 
-(x) The following negative declaration for the 2008 ozone standard and 2015 ozone standard was adopted by the District on October 28, 2019, and submitted to EPA on December 20, 2019: EPA Control Techniques Guidelines for the Oil and Natural Gas Industry (453/B-16-001). 
+(x) The following negative declaration for the 2008 ozone standard and 2015 ozone standard was adopted by the District on October 28, 2019, and submitted to EPA on December 20, 2019: EPA Control Techniques Guidelines for the Oil and Natural Gas Industry (453/B-16-001).
 
-(2) Sacramento Metropolitan Air Quality Management District. 
+(2) Sacramento Metropolitan Air Quality Management District.
 
-(i) Plastic Parts Coating: Business Machines and Plastic Parts Coating: Other were submitted on June 6, 1996 and adopted on May 2, 1996. 
+(i) Plastic Parts Coating: Business Machines and Plastic Parts Coating: Other were submitted on June 6, 1996 and adopted on May 2, 1996.
 
-(ii) Coating Operations at Aerospace Manufacturing and Rework Operations was submitted on January 12, 2012 and adopted on October 27, 2011. 
+(ii) Coating Operations at Aerospace Manufacturing and Rework Operations was submitted on January 12, 2012 and adopted on October 27, 2011.
 
-(iii) Fiberglass and Boat Manufacturing Materials and Automobile and Light-Duty Truck Assembly Coatings were submitted on July 12, 2012 and adopted on March 22, 2012. 
+(iii) Fiberglass and Boat Manufacturing Materials and Automobile and Light-Duty Truck Assembly Coatings were submitted on July 12, 2012 and adopted on March 22, 2012.
 
-(iv) The following negative declarations for the 1997 ozone NAAQS were adopted by the Sacramento Metropolitan Air Quality Management District. 
+(iv) The following negative declarations for the 1997 ozone NAAQS were adopted by the Sacramento Metropolitan Air Quality Management District.
 
 | CTG Source category                                                                 | Negative declaration—CTG reference document                                                                                                                                            | Submitted   7/11/07,   adopted   10/26/06 | Updated   submitted   1/21/09,   adopted   10/23/08 |
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------- |
@@ -77,7 +77,7 @@
 | (P) Flat Wood Paneling Coatings                                                     | EPA-453/R06-004—Control Techniques Guidelines for Flat Wood Paneling Coatings                                                                                                          |                                           | X                                                   |
 | (Q) Paper, Film and Foil                                                            | EPA-453/R-07-004—Control Techniques Guidelines for Paper, Film, and Foil Coatings                                                                                                      |                                           | X                                                   |
 
-(v) The following negative declarations for the 2008 ozone NAAQS were adopted by the Sacramento Metropolitan Air Quality Management District. 
+(v) The following negative declarations for the 2008 ozone NAAQS were adopted by the Sacramento Metropolitan Air Quality Management District.
 
 | CTG document No.     | Title                                                                                                                                                                                                            | Adopted:   3/22/2018   Submitted:   6/11/2018   SIP approved:   11/19/2020 | Adopted:   3/23/2017   Submitted:   5/5/2017   SIP approved:   6/30/2023 |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -106,17 +106,17 @@
 | (W) EPA 453/R-08-005 | Miscellaneous Industrial Adhesives                                                                                                                                                                               |                                                                            | X                                                                        |
 | (X) EPA 453/R-08-006 | Automobile and Light-Duty Truck Assembly Coatings                                                                                                                                                                |                                                                            | X                                                                        |
 
-(3) Santa Barbara County Air Pollution Control District. 
+(3) Santa Barbara County Air Pollution Control District.
 
-(i) Industrial Wastewater, Plastic Parts Coating: Business Machines, Plastic Parts Coating: Other, Industrial Cleaning Solvents, Offset Lithography, and Shipbuilding Coatings were submitted on July 12, 1996 and adopted on May 16, 1996. 
+(i) Industrial Wastewater, Plastic Parts Coating: Business Machines, Plastic Parts Coating: Other, Industrial Cleaning Solvents, Offset Lithography, and Shipbuilding Coatings were submitted on July 12, 1996 and adopted on May 16, 1996.
 
-(ii) Synthetic Organic Chemical Manufacturing Industry (SOCMI) Batch Processing, SOCMI Reactors, and SOCMI Distillation; and Wood Furniture Manufacturing Operations were submitted on April 9, 2002 and adopted on February 21, 2002. 
+(ii) Synthetic Organic Chemical Manufacturing Industry (SOCMI) Batch Processing, SOCMI Reactors, and SOCMI Distillation; and Wood Furniture Manufacturing Operations were submitted on April 9, 2002 and adopted on February 21, 2002.
 
-(4) Placer County Air Pollution Control District. 
+(4) Placer County Air Pollution Control District.
 
-(i) Aerospace Coatings; Industrial Waste Water Treatment; Plastic Parts Coating: Business Machines; Plastic Parts Coating: Other; Shipbuilding and Repair; Synthetic Organic Chemical Manufacturing, Batch Plants; and Synthetic Organic Chemical Manufacturing, Reactors were submitted on February 25, 1998 and adopted on October 7, 1997. 
+(i) Aerospace Coatings; Industrial Waste Water Treatment; Plastic Parts Coating: Business Machines; Plastic Parts Coating: Other; Shipbuilding and Repair; Synthetic Organic Chemical Manufacturing, Batch Plants; and Synthetic Organic Chemical Manufacturing, Reactors were submitted on February 25, 1998 and adopted on October 7, 1997.
 
-(ii) The following negative declarations for the 2008 ozone NAAQS were adopted by the Placer County Air Pollution Control District on February 13, 2014, and submitted to the EPA on April 14, 2014. 
+(ii) The following negative declarations for the 2008 ozone NAAQS were adopted by the Placer County Air Pollution Control District on February 13, 2014, and submitted to the EPA on April 14, 2014.
 
 | CTG source category                                   | Negative declaration—CTG reference document                                                                                                                                                                     |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -142,17 +142,17 @@
 | (P) Synthetic Organic Chemical                        | 1 EPA-450/3-84-015—Control of VOC Emissions from Air Oxidation Processes in Synthetic Organic Chemical Manufacturing Industry.                                                                                  |
 |                                                       | 2 EPA-450/4-91-031—Control of VOC Emissions from Reactor Processes and Distillation Operations in SOCMI.                                                                                                        |
 
-(iii) \[Reserved\] 
+(iii) \[Reserved\]
 
-(iv) Polyester Resin was submitted on July 18, 2014 and adopted on April 10, 2014. 
+(iv) Polyester Resin was submitted on July 18, 2014 and adopted on April 10, 2014.
 
-(v) The following negative declaration for the 2008 ozone standard was adopted by the District on December 12, 2019, and submitted to the EPA on January 23, 2020, as an attachment to a letter dated January 21, 2020: The Control Techniques Guidelines for the Oil and Natural Gas Industry (EPA 453/B-16-001). 
+(v) The following negative declaration for the 2008 ozone standard was adopted by the District on December 12, 2019, and submitted to the EPA on January 23, 2020, as an attachment to a letter dated January 21, 2020: The Control Techniques Guidelines for the Oil and Natural Gas Industry (EPA 453/B-16-001).
 
-(5) San Diego County Air Pollution Control District. 
+(5) San Diego County Air Pollution Control District.
 
-(i) Synthetic organic chemical manufacturing (distillation), synthetic organic chemical manufacturing (reactors), wood furniture, plastic parts coatings (business machines), plastic parts coatings (other), offset lithography, industrial wastewater, autobody refinishing, and volatile organic liquid storage were submitted on February 25, 1998 and adopted on October 22, 1997. 
+(i) Synthetic organic chemical manufacturing (distillation), synthetic organic chemical manufacturing (reactors), wood furniture, plastic parts coatings (business machines), plastic parts coatings (other), offset lithography, industrial wastewater, autobody refinishing, and volatile organic liquid storage were submitted on February 25, 1998 and adopted on October 22, 1997.
 
-(ii) The following negative declarations for the 2008 ozone NAAQS were adopted by the San Diego County Air Pollution Control District. 
+(ii) The following negative declarations for the 2008 ozone NAAQS were adopted by the San Diego County Air Pollution Control District.
 
 | CTG document No.       | Title                                                                                                                                                                                                                  | Adopted:   12/14/2016   Submitted:   4/12/2017   SIP approved:   12/03/2020 | Adopted:   10/14/2020   Submitted:   12/29/2020   SIP approved:   6/29/2022 | Adopted:   10/14/2020   Submitted:   12/29/2020   SIP approved:   1/17/2023 | Adopted:   10/14/2020   Submitted:   12/29/2020   SIP approved:   11/4/2024 |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -181,7 +181,7 @@
 | (W) —N/A—              | Major non-CTG VOC sources                                                                                                                                                                                              |                                                                             |                                                                             | X                                                                           |                                                                             |
 | (X) EPA-453/B-16-001). | Control Techniques Guidelines for the Oil and Natural Gas Industry                                                                                                                                                     |                                                                             |                                                                             |                                                                             | X                                                                           |
 
-(iii) The following negative declarations for the 2015 ozone NAAQS were adopted by the San Diego County Air Pollution Control District. 
+(iii) The following negative declarations for the 2015 ozone NAAQS were adopted by the San Diego County Air Pollution Control District.
 
 | CTG document No.      | Title                                                                                         | Adopted:   10/14/2020   Submitted:   12/29/2020   SIP approved:   6/29/2022 | Adopted:   10/14/2020   Submitted:   12/29/2020   SIP approved:   11/4/2024 |
 | --------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -190,27 +190,27 @@
 | (C) EPA-453/R-08-004  | Control Techniques Guidelines for Fiberglass Boat Manufacturing Materials                     | X                                                                           |                                                                             |
 | (D) EPA-453/B-16-001) | Control Techniques Guidelines for the Oil and Natural Gas Industry                            |                                                                             | X                                                                           |
 
-(6) Antelope Valley Air Pollution Control District. 
+(6) Antelope Valley Air Pollution Control District.
 
-(i) Motor Vehicle Assembly Line Coating Operations submitted on January 12, 1999 and adopted on November 18, 1997. 
+(i) Motor Vehicle Assembly Line Coating Operations submitted on January 12, 1999 and adopted on November 18, 1997.
 
-(ii) Refinery Process Turnarounds submitted on February 16, 1999 and adopted on November 18, 1997. 
+(ii) Refinery Process Turnarounds submitted on February 16, 1999 and adopted on November 18, 1997.
 
-(iii) Marine Vessel Coating Operations, Marine Tank Vessel Operations, and Thermal Enhanced Oil Recovery Wells submitted on June 23, 1998 and adopted on January 20, 1998. 
+(iii) Marine Vessel Coating Operations, Marine Tank Vessel Operations, and Thermal Enhanced Oil Recovery Wells submitted on June 23, 1998 and adopted on January 20, 1998.
 
-(iv) Pharmaceuticals and Cosmetic Manufacturing Operations submitted on March 28, 2000 and adopted on January 18, 2000. 
+(iv) Pharmaceuticals and Cosmetic Manufacturing Operations submitted on March 28, 2000 and adopted on January 18, 2000.
 
-(v) Metal Container, Closure and Coil Coating Operations and Magnet Wire Coating Operations submitted on June 3, 2004 and adopted on February 17, 2004. 
+(v) Metal Container, Closure and Coil Coating Operations and Magnet Wire Coating Operations submitted on June 3, 2004 and adopted on February 17, 2004.
 
-(vi) Control of Volatile Compound Emissions from Resin Manufacturing and Surfactant Manufacturing submitted on July 19, 2004 and adopted on March 16, 2004. 
+(vi) Control of Volatile Compound Emissions from Resin Manufacturing and Surfactant Manufacturing submitted on July 19, 2004 and adopted on March 16, 2004.
 
-(vii) Large Appliances, Surface Coating; Wood Furniture Surface Coating; Gasoline Bulk Plants, Equipment Leaks from Natural Gas/Gasoline Processing Plants; Leaks from Petroleum Refinery Equipment; Air Oxidation Processes (SOCMI); Reactor and Distillation Processes (SOCMI); Tank Truck Gasoline Loading Terminals >76,000 L; Manufacture of Synthesized Pharmaceutical Products; Manufacture of Pneumatic Rubber Tires; Manufacture of High Density Polyethylene, Polypropylene and Polystyrene; Equipment Used in Synthetic Organic Chemical Polymers and Resin Manufacturing; Refinery Vacuum-Producing Systems, Wastewater Separators and Process Unit Turnarounds; and Magnetic Wire Coating Operations submitted on January 31, 2007 and adopted on September 19, 2006. 
+(vii) Large Appliances, Surface Coating; Wood Furniture Surface Coating; Gasoline Bulk Plants, Equipment Leaks from Natural Gas/Gasoline Processing Plants; Leaks from Petroleum Refinery Equipment; Air Oxidation Processes (SOCMI); Reactor and Distillation Processes (SOCMI); Tank Truck Gasoline Loading Terminals >76,000 L; Manufacture of Synthesized Pharmaceutical Products; Manufacture of Pneumatic Rubber Tires; Manufacture of High Density Polyethylene, Polypropylene and Polystyrene; Equipment Used in Synthetic Organic Chemical Polymers and Resin Manufacturing; Refinery Vacuum-Producing Systems, Wastewater Separators and Process Unit Turnarounds; and Magnetic Wire Coating Operations submitted on January 31, 2007 and adopted on September 19, 2006.
 
-(viii) Ship Repair Operations; Storage of Petroleum Liquids in Fixed Roof Tanks; and Petroleum Liquid Storage in External Floating Roof Tanks submitted on January 7, 2011 and adopted on October 19, 2010. 
+(viii) Ship Repair Operations; Storage of Petroleum Liquids in Fixed Roof Tanks; and Petroleum Liquid Storage in External Floating Roof Tanks submitted on January 7, 2011 and adopted on October 19, 2010.
 
-(ix) Petroleum Coke Calcining Operations—Oxides of Sulfur submitted on June 20, 2011 and adopted on January 18, 2011. 
+(ix) Petroleum Coke Calcining Operations—Oxides of Sulfur submitted on June 20, 2011 and adopted on January 18, 2011.
 
-(x) The following negative declarations for the 2008 ozone NAAQS were adopted by the District on July 21, 2015 and submitted to EPA on October 23, 2015. 
+(x) The following negative declarations for the 2008 ozone NAAQS were adopted by the District on July 21, 2015 and submitted to EPA on October 23, 2015.
 
 | CTG source category                                                                        | CTG reference document                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -235,7 +235,7 @@
 | (S) Synthetic Organic Chemical Polymer and Resin Manufacturing Equipment                   | Control of Volatile Organic Compound Leaks from Synthetic Organic Chemical Polymer and Resin Manufacturing Equipment (EPA-450/3-83-006, 03/1984).                                                                                                                                                                                                |
 | (T) Wood Furniture Manufacturing Coating Operations                                        | Control of Volatile Organic Compound Emissions from Wood Furniture Manufacturing Operations (EPA-453/R-96-007, 04/1996).                                                                                                                                                                                                                         |
 
-(xi) The following negative declarations for the 1997 ozone NAAQS were adopted by the Antelope Valley Air Quality Management District on December 20, 2016, and submitted to the EPA on June 7, 2017. 
+(xi) The following negative declarations for the 1997 ozone NAAQS were adopted by the Antelope Valley Air Quality Management District on December 20, 2016, and submitted to the EPA on June 7, 2017.
 
 | CTG source category              | CTG reference document                                                                                                                                                                            |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -243,9 +243,9 @@
 | (B) Flat Wood Paneling Coating   | Control of Volatile Organic Emissions from Existing Stationary Sources—Volume VII: Factory Surface Coating of Flat Wood Paneling (EPA-450/2-78-032, 06/1978).                                     |
 | (C) Large Petroleum Dry Cleaning | Control of Volatile Organic Compound Emissions from Large Petroleum Dry Cleaners (EPA-450/3-82-009, 09/1982).                                                                                     |
 
-(xii) The following negative declaration for the 2008 ozone standard was adopted by the District on January 21, 2020 and submitted to the EPA on May 1, 2020, as an attachment to a letter dated April 30, 2020: The Control Techniques Guidelines for the Oil and Natural Gas Industry (EPA 453/B-16-001). 
+(xii) The following negative declaration for the 2008 ozone standard was adopted by the District on January 21, 2020 and submitted to the EPA on May 1, 2020, as an attachment to a letter dated April 30, 2020: The Control Techniques Guidelines for the Oil and Natural Gas Industry (EPA 453/B-16-001).
 
-(xiii) The following negative declarations for the 2008 ozone NAAQS were adopted by the Antelope Valley Air Quality Management District on December 20, 2016, and submitted to the EPA on June 7, 2017. 
+(xiii) The following negative declarations for the 2008 ozone NAAQS were adopted by the Antelope Valley Air Quality Management District on December 20, 2016, and submitted to the EPA on June 7, 2017.
 
 | CTG source category                       | CTG reference document                                                                                                                                                                            |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -256,15 +256,15 @@
 | (E) Pleasure Craft Coating                | Control Techniques Guidelines for Miscellaneous Metal and Plastic Parts Coatings (EPA-453/R-08-003, 09/2008).                                                                                     |
 | (F) Tank Truck Gasoline Loading Terminals | Control of Hydrocarbons from Tank Truck Gasoline Loading Terminals (EPA-450/2-77-026, 10/1977).                                                                                                   |
 
-(7) El Dorado County Air Pollution Control District. 
+(7) El Dorado County Air Pollution Control District.
 
-(i) Bulk Terminal Facilities or External or Internal Floating Roof Tank Sources was submitted on May 23, 2001 and adopted on April 3, 2001. 
+(i) Bulk Terminal Facilities or External or Internal Floating Roof Tank Sources was submitted on May 23, 2001 and adopted on April 3, 2001.
 
-(ii) Control of VOC Emissions from Existing Stationary Sources, Volume VI: Surface Coating of Miscellaneous Metal Parts and Products; Control of VOC Emissions from Solvent Metal Cleaning; and Control of VOC Emissions from Existing Stationary Sources, Volume VIII: Graphic Arts—Rotogravure and Flexography submitted on September 30, 2013 and adopted on December 11, 2012. 
+(ii) Control of VOC Emissions from Existing Stationary Sources, Volume VI: Surface Coating of Miscellaneous Metal Parts and Products; Control of VOC Emissions from Solvent Metal Cleaning; and Control of VOC Emissions from Existing Stationary Sources, Volume VIII: Graphic Arts—Rotogravure and Flexography submitted on September 30, 2013 and adopted on December 11, 2012.
 
-(iii) Control of VOC Emissions from Coating Operations at Aerospace Manufacturing and Rework; Control of Volatile Organic Emissions from Existing Stationary Sources—Volume II: Surface Coating of Cans, Coils, Paper, Fabrics, Automobiles, and Light-Duty Trucks; Control of Volatile Organic Emissions from Existing Stationary Sources, Volume V: Surface Coating of Large Appliances; Control of Volatile Organic Emissions from Existing Stationary Sources, Volume IV: Surface Coating of Insulation of Magnet Wire; Control of Volatile Organic Emissions from Existing Stationary Sources, Volume III: Surface Coating of Metal Furniture; 61 FR 44050 Shipbuilding and Ship Repair Operations (Surface Coating); Control of Volatile Organic emissions from Existing Stationary Sources, Volume VII: Factory Surface Coating of Flat Wood Paneling; Control of VOC Emissions from Wood Furniture Manufacturing Operations; Control of VOC Equipment Leaks from Natural Gas/Gasoline Processing Plants; Control of Refinery Vacuum Producing Systems, Wastewater Separators, and Process Unit Turnarounds; Control of VOC Leaks from Petroleum Refinery Equipment; Control of VOC Emissions from Air Oxidation Processes in Synthetic Organic Chemical Manufacturing Industry; Control of VOC Emissions from Reactor Processes and Distillation Operations in SOCMI; Control of VOC Emissions from Storage of Petroleum Liquids in Fixed Roof Tanks; Control of VOC Emissions from Petroleum Liquid Storage in External Floating Roof Tanks; Control of VOC Emissions from Large Petroleum Dry Cleaners; Control of Volatile Organic Emissions from Manufacture of Synthesized Pharmaceutical Products; Control of VOC Emissions from Manufacture of High-Density Polyethylene, Polypropylene, and Polystyrene Resins; Control of VOC Fugitive Emissions from Synthetic Organic Chemical Polymer and Resin Manufacturing Equipment; and Control of Volatile Organic Emissions from Manufacture of Pneumatic Rubber Tires were submitted on July 11, 2007 and adopted on February 6, 2007. 
+(iii) Control of VOC Emissions from Coating Operations at Aerospace Manufacturing and Rework; Control of Volatile Organic Emissions from Existing Stationary Sources—Volume II: Surface Coating of Cans, Coils, Paper, Fabrics, Automobiles, and Light-Duty Trucks; Control of Volatile Organic Emissions from Existing Stationary Sources, Volume V: Surface Coating of Large Appliances; Control of Volatile Organic Emissions from Existing Stationary Sources, Volume IV: Surface Coating of Insulation of Magnet Wire; Control of Volatile Organic Emissions from Existing Stationary Sources, Volume III: Surface Coating of Metal Furniture; 61 FR 44050 Shipbuilding and Ship Repair Operations (Surface Coating); Control of Volatile Organic emissions from Existing Stationary Sources, Volume VII: Factory Surface Coating of Flat Wood Paneling; Control of VOC Emissions from Wood Furniture Manufacturing Operations; Control of VOC Equipment Leaks from Natural Gas/Gasoline Processing Plants; Control of Refinery Vacuum Producing Systems, Wastewater Separators, and Process Unit Turnarounds; Control of VOC Leaks from Petroleum Refinery Equipment; Control of VOC Emissions from Air Oxidation Processes in Synthetic Organic Chemical Manufacturing Industry; Control of VOC Emissions from Reactor Processes and Distillation Operations in SOCMI; Control of VOC Emissions from Storage of Petroleum Liquids in Fixed Roof Tanks; Control of VOC Emissions from Petroleum Liquid Storage in External Floating Roof Tanks; Control of VOC Emissions from Large Petroleum Dry Cleaners; Control of Volatile Organic Emissions from Manufacture of Synthesized Pharmaceutical Products; Control of VOC Emissions from Manufacture of High-Density Polyethylene, Polypropylene, and Polystyrene Resins; Control of VOC Fugitive Emissions from Synthetic Organic Chemical Polymer and Resin Manufacturing Equipment; and Control of Volatile Organic Emissions from Manufacture of Pneumatic Rubber Tires were submitted on July 11, 2007 and adopted on February 6, 2007.
 
-(iv) The following negative declarations for the 2008 NAAQS were adopted by the El Dorado County Air Quality Management District on January 3, 2017, and submitted to the EPA on January 4, 2017. 
+(iv) The following negative declarations for the 2008 NAAQS were adopted by the El Dorado County Air Quality Management District on January 3, 2017, and submitted to the EPA on January 4, 2017.
 
 | CTG document No.                          | Title                                                                                                                                                                                                      |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -307,13 +307,13 @@
 | (KK) Major non-CTG VOC sources.           |                                                                                                                                                                                                            |
 | (LL) Major non-CTG NOX sources.           |                                                                                                                                                                                                            |
 
-(8) San Joaquin Valley Unified Air Pollution Control District. 
+(8) San Joaquin Valley Unified Air Pollution Control District.
 
-(i) Synthesized Pharmaceutical Products Manufacturing and Coating Operations at Shipbuilding/Ship Repair Facilities submitted on June 18, 2009 and adopted on April 16, 2009. 
+(i) Synthesized Pharmaceutical Products Manufacturing and Coating Operations at Shipbuilding/Ship Repair Facilities submitted on June 18, 2009 and adopted on April 16, 2009.
 
-(ii) Rubber Tire Manufacturing submitted on June 20, 2011 and adopted on September 20, 2010. 
+(ii) Rubber Tire Manufacturing submitted on June 20, 2011 and adopted on September 20, 2010.
 
-(iii) The following negative declarations for the 2008 NAAQS were adopted by the San Joaquin Valley Unified Air Pollution Control District on June 21, 2018, and submitted to the EPA on June 29, 2018. 
+(iii) The following negative declarations for the 2008 NAAQS were adopted by the San Joaquin Valley Unified Air Pollution Control District on June 21, 2018, and submitted to the EPA on June 29, 2018.
 
 | CTG document No.        | Title                                                                                                                                                   |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -327,9 +327,9 @@
 | (H) EPA-453/R-94-032    | Alternative Control Technology Document—Surface Coating Operations at Shipbuilding and Ship Repair Facilities                                           |
 | (I) 61 FR 44050 8/27/96 | Control Techniques Guidelines for Shipbuilding and Ship Repair Operations (Surface Coating).                                                            |
 
-(9) Northern Sierra Air Quality Management District. 
+(9) Northern Sierra Air Quality Management District.
 
-(i) The following negative declarations for the 1997 ozone NAAQS were adopted by the Northern Sierra Air Quality Management District. 
+(i) The following negative declarations for the 1997 ozone NAAQS were adopted by the Northern Sierra Air Quality Management District.
 
 | CTG   document   No.  | Title                                                                                                                                                                       | Adopted: 05/19/2008   Submitted: 08/14/2008   SIP Approved: 04/18/2012 | Adopted: 04/25/2011   Submitted: 05/17/2011   SIP Approved: 04/18/2012 | Adopted: 06/25/2007   Submitted: 02/07/2008   SIP Approved: 04/13/2015 |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -372,11 +372,9 @@
 | (KK) —N/A—            | Major non-CTG VOC sources                                                                                                                                                   |                                                                        |                                                                        | X                                                                      |
 | (LL) —N/A—            | Major non-CTG NOX sources                                                                                                                                                   |                                                                        |                                                                        | X                                                                      |
 
-(ii) \[Reserved\] 
+(ii)-(iii) \[Reserved\]
 
-(iii) \[Reserved\] 
-
-(iv) The following negative declarations for the 2008 ozone NAAQS were adopted by the Northern Sierra Air Quality Management District. 
+(iv) The following negative declarations for the 2008 ozone NAAQS were adopted by the Northern Sierra Air Quality Management District.
 
 | CTG document No.       | Title                                                                                                                                                                       | Adopted: 03/26/2018   Submitted: 06/07/2018   SIP Approved: 01/15/2020 |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -423,7 +421,7 @@
 | (OO) —N/A—             | Major non-CTG VOC sources                                                                                                                                                   | X                                                                      |
 | (PP) —N/A—             | Major non-CTG NOX sources                                                                                                                                                   | X                                                                      |
 
-(v) The following negative declarations for the 2015 ozone NAAQS were adopted by the Northern Sierra Air Quality Management District. 
+(v) The following negative declarations for the 2015 ozone NAAQS were adopted by the Northern Sierra Air Quality Management District.
 
 | CTG document No.      | Title                                                                                                                                                                       | Adopted: 01/25/2021   Submitted: 03/23/2021   SIP Approved: 08/03/2022 |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -475,15 +473,15 @@
 | (TT) —N/A—            | Major non-CTG sources of VOC                                                                                                                                                | X                                                                      |
 | (UU) —N/A—            | Major sources of NOX                                                                                                                                                        | X                                                                      |
 
-(10) Ventura County Air Pollution Control District. 
+(10) Ventura County Air Pollution Control District.
 
-(i) EPA-453/R06-004 Control Techniques Guidelines for Flat Wood Paneling Coatings; EPA-453/R-07-004 Control Techniques Guidelines for Large Appliance Coatings; EPA-453/R-07-003 Control Techniques Guidelines for Paper, Film, and Foil Coatings; EPA-452/R-08-006 Control Techniques Guidelines for Automobile and Light-Duty Truck Assembly Coatings; EPA 453/R-08-005 Control Techniques Guidelines for Miscellaneous Industrial Adhesives; EPA 453/R-06-003 Control Techniques Guidelines for Flexible Package Printing; EPA 453/R-07-005 Control Techniques Guidelines for Metal Furniture Coatings; and EPA 453/R-08-004 Control Techniques Guidelines for Fiberglass Boat Manufacturing Materials were submitted on November 17, 2009 and adopted on September 15, 2009. 
+(i) EPA-453/R06-004 Control Techniques Guidelines for Flat Wood Paneling Coatings; EPA-453/R-07-004 Control Techniques Guidelines for Large Appliance Coatings; EPA-453/R-07-003 Control Techniques Guidelines for Paper, Film, and Foil Coatings; EPA-452/R-08-006 Control Techniques Guidelines for Automobile and Light-Duty Truck Assembly Coatings; EPA 453/R-08-005 Control Techniques Guidelines for Miscellaneous Industrial Adhesives; EPA 453/R-06-003 Control Techniques Guidelines for Flexible Package Printing; EPA 453/R-07-005 Control Techniques Guidelines for Metal Furniture Coatings; and EPA 453/R-08-004 Control Techniques Guidelines for Fiberglass Boat Manufacturing Materials were submitted on November 17, 2009 and adopted on September 15, 2009.
 
-(ii) Negative declarations for the 2008 8-hour ozone standard: EPA-453/R-97-004 Aerospace CTG and MACT; EPA-450/2-77-008 Control of Volatile Organic Emissions from Existing Stationary Sources—Volume II: Surface Coating of Cans, Coils, Paper, Fabrics, Automobiles, and Light-Duty Trucks; EPA 453/R-08-006 Control Techniques Guidelines for Automobile and Light-Duty Truck Assembly Coatings; EPA-450/2-78-032, Control of Volatile Organic Emissions from Existing Stationary Sources—Volume VII: Factory Surface Coating of Flat Wood Paneling; EPA-453/R-06-004, Control Techniques Guidelines for Flat Wood Paneling Coatings; EPA-453/R-06-003 Control Techniques Guidelines for Flexible Package Printing; EPA-450/2-77-034 Control of Volatile Organic Emissions from Existing Stationary Sources—Volume V: Surface Coating of Large Appliances; EPA 453/R-07-004 Control Techniques Guidelines for Large Appliance Coatings; EPA-450/2-77-033 Control of Volatile Organic Emissions from Existing Stationary Sources—Volume IV: Surface Coating of Insulation of Magnet Wire; EPA-450/2-77-032 Control of Volatile Organic Emissions from Existing Stationary Sources—Volume III: Surface Coating of Metal Furniture; EPA 453/R-07-005 Control Techniques Guidelines for Metal Furniture Coatings; EPA 453/R-07-003 Control Techniques Guidelines for Paper, Film, and Foil Coatings; EPA-450/2-77-025 Control of Refinery Vacuum Producing Systems, Wastewater Separators, and Process Unit Turnarounds; EPA-450/2-78-036 Control of Volatile Organic Compound Leaks from Petroleum Refinery Equipment; EPA 453/R-08-004 Control Techniques Guidelines for Fiberglass Boat Manufacturing Materials; EPA 453/R-08-005 Control Techniques Guidelines for Miscellaneous Industrial Adhesives; EPA-450/2-78-029 Control of Volatile Organic Emissions from Manufacture of Synthesized Pharmaceutical Products; EPA-450/2-78-030 Control of Volatile Organic Emissions from Manufacture of Pneumatic Rubber Tires; EPA-450/3-83-008 Control of Volatile Organic Compound Emissions from Manufacture of High-Density Polyethylene, Polypropylene, and Polystyrene Resins; EPA-450/3-83-006 Control of Volatile Organic Compound Leaks from Synthetic Organic Chemical Polymer and Resin Manufacturing Equipment; EPA-450/3-84-015 Control of Volatile Organic Compound Emissions from Air Oxidation Processes in Synthetic Organic Chemical Manufacturing Industry; EPA-450/4-91-031 Control of Volatile Organic Compound Emissions from Reactor Processes and Distillation Operations in Synthetic Organic Chemical Manufacturing Industry; EPA-450/3-82-009 Control of Volatile Organic Compound Emissions from Large Petroleum Dry Cleaners were submitted on July 18, 2014 and adopted on June 10, 2014. 
+(ii) Negative declarations for the 2008 8-hour ozone standard: EPA-453/R-97-004 Aerospace CTG and MACT; EPA-450/2-77-008 Control of Volatile Organic Emissions from Existing Stationary Sources—Volume II: Surface Coating of Cans, Coils, Paper, Fabrics, Automobiles, and Light-Duty Trucks; EPA 453/R-08-006 Control Techniques Guidelines for Automobile and Light-Duty Truck Assembly Coatings; EPA-450/2-78-032, Control of Volatile Organic Emissions from Existing Stationary Sources—Volume VII: Factory Surface Coating of Flat Wood Paneling; EPA-453/R-06-004, Control Techniques Guidelines for Flat Wood Paneling Coatings; EPA-453/R-06-003 Control Techniques Guidelines for Flexible Package Printing; EPA-450/2-77-034 Control of Volatile Organic Emissions from Existing Stationary Sources—Volume V: Surface Coating of Large Appliances; EPA 453/R-07-004 Control Techniques Guidelines for Large Appliance Coatings; EPA-450/2-77-033 Control of Volatile Organic Emissions from Existing Stationary Sources—Volume IV: Surface Coating of Insulation of Magnet Wire; EPA-450/2-77-032 Control of Volatile Organic Emissions from Existing Stationary Sources—Volume III: Surface Coating of Metal Furniture; EPA 453/R-07-005 Control Techniques Guidelines for Metal Furniture Coatings; EPA 453/R-07-003 Control Techniques Guidelines for Paper, Film, and Foil Coatings; EPA-450/2-77-025 Control of Refinery Vacuum Producing Systems, Wastewater Separators, and Process Unit Turnarounds; EPA-450/2-78-036 Control of Volatile Organic Compound Leaks from Petroleum Refinery Equipment; EPA 453/R-08-004 Control Techniques Guidelines for Fiberglass Boat Manufacturing Materials; EPA 453/R-08-005 Control Techniques Guidelines for Miscellaneous Industrial Adhesives; EPA-450/2-78-029 Control of Volatile Organic Emissions from Manufacture of Synthesized Pharmaceutical Products; EPA-450/2-78-030 Control of Volatile Organic Emissions from Manufacture of Pneumatic Rubber Tires; EPA-450/3-83-008 Control of Volatile Organic Compound Emissions from Manufacture of High-Density Polyethylene, Polypropylene, and Polystyrene Resins; EPA-450/3-83-006 Control of Volatile Organic Compound Leaks from Synthetic Organic Chemical Polymer and Resin Manufacturing Equipment; EPA-450/3-84-015 Control of Volatile Organic Compound Emissions from Air Oxidation Processes in Synthetic Organic Chemical Manufacturing Industry; EPA-450/4-91-031 Control of Volatile Organic Compound Emissions from Reactor Processes and Distillation Operations in Synthetic Organic Chemical Manufacturing Industry; EPA-450/3-82-009 Control of Volatile Organic Compound Emissions from Large Petroleum Dry Cleaners were submitted on July 18, 2014 and adopted on June 10, 2014.
 
-(11) Feather River Air Quality Management District. 
+(11) Feather River Air Quality Management District.
 
-(i) The following negative declarations for the 1997 and 2008 ozone NAAQS were adopted by the Feather River Air Quality Management District. 
+(i) The following negative declarations for the 1997 and 2008 ozone NAAQS were adopted by the Feather River Air Quality Management District.
 
 | CTG source   category                                                   | Negative declaration   CTG reference document                                                                                                                                         | 2006   RACT   SIP   submitted   7/11/07 | 2009   RACT   SIP   submitted   10/27/09 | 2014   RACT   SIP   submitted   9/29/14 |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------- | --------------------------------------- |
@@ -529,11 +527,11 @@
 | (NN) Wood Coating Factory Surface of Flat Wood Paneling                 | EPA-450/2-78-032—Control of Volatile Organic Emissions from Existing Stationary Sources—Volume VII: Factory Surface of Flat Wood Paneling                                             | X                                       |                                          | X                                       |
 | (OO) Wood Furniture Coating                                             | EPA-453/R-96-007—Control of VOC Emissions from Wood Furniture Manufacturing Operations                                                                                                | X                                       |                                          | X                                       |
 
-(ii) A negative declaration for the Control Techniques Guidelines for the Oil and Natural Gas Industry, EPA 453/B-16-001, was submitted on December 7, 2018, as an attachment to a letter dated December 2, 2018, and adopted on August 6, 2018, titled: “Reasonably Available Control Technology (RACT) State Implementation Plan (SIP) Revision for the South Sutter County Portion of the Sacramento Metropolitan Nonattainment Area for 8-Hour ozone—Negative Declaration for Control Techniques Guidelines for the Oil and Natural Gas Industry.” 
+(ii) A negative declaration for the Control Techniques Guidelines for the Oil and Natural Gas Industry, EPA 453/B-16-001, was submitted on December 7, 2018, as an attachment to a letter dated December 2, 2018, and adopted on August 6, 2018, titled: “Reasonably Available Control Technology (RACT) State Implementation Plan (SIP) Revision for the South Sutter County Portion of the Sacramento Metropolitan Nonattainment Area for 8-Hour ozone—Negative Declaration for Control Techniques Guidelines for the Oil and Natural Gas Industry.”
 
-(12) Imperial County Air Pollution Control District. 
+(12) Imperial County Air Pollution Control District.
 
-(i) The following negative declarations for the 1997 ozone NAAQS were adopted by the Imperial County Air Pollution Control District on July 13, 2010, and submitted to the EPA on December 21, 2010. 
+(i) The following negative declarations for the 1997 ozone NAAQS were adopted by the Imperial County Air Pollution Control District on July 13, 2010, and submitted to the EPA on December 21, 2010.
 
 | CTG   document No.                                             | Title                                                                                                                                                                                     |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -569,7 +567,7 @@
 |                                                                | 2 EPA-450/4-91-031, Control of Volatile Organic Compound Emissions from Reactor Processes and Distillation Operations in Synthetic Organic Chemical Manufacturing Industry.               |
 | (x) Wood Furniture                                             | EPA-453/R-96-007, Wood Furniture.                                                                                                                                                         |
 
-(ii) The following negative declarations for the 2008 8-hour ozone NAAQS were adopted by the Imperial County Air Pollution Control District on September 12, 2017, and submitted to the EPA on November 14, 2017. 
+(ii) The following negative declarations for the 2008 8-hour ozone NAAQS were adopted by the Imperial County Air Pollution Control District on September 12, 2017, and submitted to the EPA on November 14, 2017.
 
 | CTG document No.                           | Title                                                                                                                                                                 |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -611,15 +609,15 @@
 | (JJ) EPA 453/R-08-006                      | Control Techniques Guidelines for Automobile and Light-Duty Truck Assembly Coatings.                                                                                  |
 | (KK) EPA 453/B16-001                       | Control Techniques Guidelines for the Oil and Natural Gas Industry.                                                                                                   |
 
-(13) South Coast Air Quality Management District. 
+(13) South Coast Air Quality Management District.
 
-(i) Negative declarations for the 2008 ozone standard: Control Techniques Guidelines for Shipbuilding and Ship Repair Operations (Surface Coating) including (published on August 27, 1996) and EPA 453/R-94-032 Alternative Control Techniques Document: Surface Coating Operations at Shipbuilding and Ship Repair Facilities; paper coating portion of EPA 453/R-07-003 Control Techniques Guidelines for Paper, Film, and Foil Coatings. 
+(i) Negative declarations for the 2008 ozone standard: Control Techniques Guidelines for Shipbuilding and Ship Repair Operations (Surface Coating) including (published on August 27, 1996) and EPA 453/R-94-032 Alternative Control Techniques Document: Surface Coating Operations at Shipbuilding and Ship Repair Facilities; paper coating portion of EPA 453/R-07-003 Control Techniques Guidelines for Paper, Film, and Foil Coatings.
 
-(ii) \[Reserved\] 
+(ii) \[Reserved\]
 
-(14) Yolo-Solano Air Quality Management District. 
+(14) Yolo-Solano Air Quality Management District.
 
-(i) The following negative declarations are for the 1997 8-hour ozone NAAQS. 
+(i) The following negative declarations are for the 1997 8-hour ozone NAAQS.
 
 | CTG source category                                         | Negative declaration CTG   reference document                                                                                                                             | Submitted   1/31/07,   adopted   9/13/06 | Submitted   2/22/18,   adopted   1/10/18 |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------------------------------------- |
@@ -642,7 +640,7 @@
 | (O) Synthetic Organic Chemical                              | 1 EPA-450/3-84-015—Control of Volatile Organic Compound Emissions from Air Oxidation Processes in Synthetic Organic Chemical Manufacturing Industry                       |                                          | X                                        |
 |                                                             | 2 EPA-450/4-91-031—Control of Volatile Organic Compound Emissions from Reactor Processes and Distillation Operations in Synthetic Organic Chemical Manufacturing Industry |                                          | X                                        |
 
-(ii) The following negative declarations are for the 1997 and 2008 8-hour ozone NAAQS and were adopted by the District on September 13, 2017 and submitted as part of Yolo-Solano AQMD's RACT SIP on November 13, 2017. 
+(ii) The following negative declarations are for the 1997 and 2008 8-hour ozone NAAQS and were adopted by the District on September 13, 2017 and submitted as part of Yolo-Solano AQMD's RACT SIP on November 13, 2017.
 
 | CTG source category                                   | Negative declaration CTG reference document                                                                                                                                            |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -678,15 +676,15 @@
 | (DD) Synthetic Organic Chemical Manufacturing         | EPA-450/4-91-031 Control of Volatile Organic Compound Emissions from Reactor Processes and Distillation Operations in Synthetic Organic Chemical Manufacturing Industry.               |
 | (EE) Wood Furniture Coating                           | EPA-453/R-96-007 Control of Volatile Organic Compound Emissions from Wood Furniture Manufacturing Operations.                                                                          |
 
-(15) Mariposa County Air Pollution Control District. 
+(15) Mariposa County Air Pollution Control District.
 
-(i) The following negative declaration for the 2008 ozone standard was adopted by the District on March 10, 2020, and submitted to the EPA on May 1, 2020, as an attachment to a letter dated April 30, 2020: The Control Techniques Guidelines for the Oil and Natural Gas Industry (EPA 453/B-16-001). 
+(i) The following negative declaration for the 2008 ozone standard was adopted by the District on March 10, 2020, and submitted to the EPA on May 1, 2020, as an attachment to a letter dated April 30, 2020: The Control Techniques Guidelines for the Oil and Natural Gas Industry (EPA 453/B-16-001).
 
-(ii) \[Reserved\] 
+(ii) \[Reserved\]
 
-(16) Eastern Kern Air Pollution Control District. 
+(16) Eastern Kern Air Pollution Control District.
 
-(i) The following negative declarations for the 2008 ozone standard were adopted by the District on May 11, 2017 and submitted to the EPA on August 9, 2017: 
+(i) The following negative declarations for the 2008 ozone standard were adopted by the District on May 11, 2017 and submitted to the EPA on August 9, 2017:
 
 | EPA document No.       | Title                                                                                                                                                                                                                                               |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -730,28 +728,28 @@
 | (LL) EPA-453/R-94-032  | Alternative Control Technology Document—Surface Coating Operations at Shipbuilding and Ship Repair Facilities and Control Techniques Guidelines for Shipbuilding and Ship Repair Operations (Surface Coating), see the Federal Register of 8/27/96. |
 | (MM) EPA-453/B-16-001  | Control Techniques Guidelines for the Oil and Natural Gas Industry.                                                                                                                                                                                 |
 
-(ii) \[Reserved\] 
+(ii) \[Reserved\]
 
-(b) The following air pollution control districts submitted negative declarations for oxides of nitrogen source categories to satisfy the requirements of section 182 of the Clean Air Act, as amended. The following negative declarations are approved as additional information to the State Implementation Plan. 
+(b) The following air pollution control districts submitted negative declarations for oxides of nitrogen source categories to satisfy the requirements of section 182 of the Clean Air Act, as amended. The following negative declarations are approved as additional information to the State Implementation Plan.
 
-(1) Sacramento Metropolitan Air Quality Management District. 
+(1) Sacramento Metropolitan Air Quality Management District.
 
-(i) Nitric and Adipic Acid Manufacturing Plants, Utility Boilers, Cement Manufacturing Plants, Glass Manufacturing Plants, and Iron and Steel Manufacturing Plants were submitted on March 4, 1996, and adopted on August 3, 1995. 
+(i) Nitric and Adipic Acid Manufacturing Plants, Utility Boilers, Cement Manufacturing Plants, Glass Manufacturing Plants, and Iron and Steel Manufacturing Plants were submitted on March 4, 1996, and adopted on August 3, 1995.
 
-(2) San Joaquin Valley Unified Air Pollution Control District. 
+(2) San Joaquin Valley Unified Air Pollution Control District.
 
-(i) Nitric and Adipic Acid Manufacturing Plants, Cement Manufacturing Plants, Asphalt Batch Plants, Iron and Steel Manufacturing Plants, and Driers were submitted on October 17, 1994 and adopted on September 14, 1994. 
+(i) Nitric and Adipic Acid Manufacturing Plants, Cement Manufacturing Plants, Asphalt Batch Plants, Iron and Steel Manufacturing Plants, and Driers were submitted on October 17, 1994 and adopted on September 14, 1994.
 
-(3) Placer County Air Pollution Control District. 
+(3) Placer County Air Pollution Control District.
 
-(i) Nitric and Adipic Acid Manufacturing Plants, Utility Boilers, Cement Manufacturing Plants, Glass Manufacturing Plants, and Iron and Steel Manufacturing Plants were submitted on February 25, 1998 and adopted on October 9, 1997. 
+(i) Nitric and Adipic Acid Manufacturing Plants, Utility Boilers, Cement Manufacturing Plants, Glass Manufacturing Plants, and Iron and Steel Manufacturing Plants were submitted on February 25, 1998 and adopted on October 9, 1997.
 
-(4) Antelope Valley Air Pollution Control District. 
+(4) Antelope Valley Air Pollution Control District.
 
-(i) Boilers and Process Heaters In Petroleum Refineries submitted on May 13, 1999 and adopted on April 21, 1998. 
+(i) Boilers and Process Heaters In Petroleum Refineries submitted on May 13, 1999 and adopted on April 21, 1998.
 
-(ii) Cement Kilns and Glass Melting Furnaces submitted on July 23, 1999 and adopted on March 16, 1999. 
+(ii) Cement Kilns and Glass Melting Furnaces submitted on July 23, 1999 and adopted on March 16, 1999.
 
-(iii) Nitric Acid Units submitted on March 28, 2000 and adopted on January 18, 2000. 
+(iii) Nitric Acid Units submitted on March 28, 2000 and adopted on January 18, 2000.
 
 \[60 FR 47076, Sept. 11, 1995\] Editorial Note:For Federal Register citations affecting § 52.222, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

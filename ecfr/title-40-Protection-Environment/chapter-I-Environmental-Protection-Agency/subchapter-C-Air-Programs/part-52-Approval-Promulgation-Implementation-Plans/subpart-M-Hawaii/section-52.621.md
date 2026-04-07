@@ -1,6 +1,6 @@
 ##### § 52.621 Classification of regions.
 
-The Hawaii plan was evaluated on the basis of the following classifications: 
+The Hawaii plan was evaluated on the basis of the following classifications:
 
 | Air quality control region | Pollutant |
 | -------------------------- | --------- |
