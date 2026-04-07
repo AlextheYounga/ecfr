@@ -1,6 +1,6 @@
 ##### § 1910.504 Mini Respiratory Protection Program.
 
-(a) *Scope and application.* This section applies only to respirator use in accordance with § 1910.502(f)(4).
+(a) *Scope and application.* This section applies only to respirator use in accordance with §§ 1910.501(i)(4) and 1910.502(f)(4).
 
 (b) *Definitions.* The following definitions apply to this section:
 
@@ -83,3 +83,5 @@ The reuse of single-use respirators (*e.g.,* filtering facepiece respirators) is
 (4) *Discontinuing use of respirators.* Employers must require employees to discontinue use of a respirator when either the employee or a supervisor reports medical signs or symptoms (*e.g.,* shortness of breath, coughing, wheezing, chest pain, any other symptoms related to lung problems, cardiovascular symptoms) that are related to ability to use a respirator. Any employee who previously had a medical evaluation and was determined to not be medically fit to wear a respirator must not be provided with a respirator under this standard unless they are re-evaluated and medically cleared to use a respirator.
 
 (e) *Effective date.* This section is effective as of June 21, 2021.
+
+\[86 FR 32620, June 21, 2021, as amended at 86 FR 61554, Nov. 5, 2021\]

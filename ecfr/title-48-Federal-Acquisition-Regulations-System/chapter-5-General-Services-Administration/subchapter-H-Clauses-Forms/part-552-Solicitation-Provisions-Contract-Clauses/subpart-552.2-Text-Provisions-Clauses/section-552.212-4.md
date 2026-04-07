@@ -30,7 +30,7 @@ Contract Terms and Conditions - Commercial Items (FAR DEVIATION) (FEB 2018)
 
 (8) Other documents, exhibits, and attachments.
 
-(9) The specification.
+(9) The specificatin.
 
 (u) *Unauthorized Obligations.* (1) Except as stated in paragraph (u)(2) of this clause, when any supply or service acquired under this contract is subject to any commercial supplier agreement (as defined in 502.101) that includes any language, provision, or clause requiring the Government to pay any future fees, penalties, interest, legal costs or to indemnify the Contractor or any person or entity for damages, costs, fees, or any other loss or liability that would create an Anti-Deficiency Act violation (31 U.S.C. 1341), the following shall govern:
 
