@@ -23191,7 +23191,99 @@ Diminutive amphipod (*Gammarus hyalleloides*)
 
 (5) Diamond Y Spring Unit, Pecos County, Texas. Map of Diamond Y Spring Unit follows:
 
-![](/graphics/er09jy13.013.gif)Slenderclaw Crayfish (Cambarus cracens)
+![](/graphics/er09jy13.013.gif)Panama City Crayfish (*Procambarus econfinae*)
+
+(1) Critical habitat units are depicted for Bay County, Florida, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Panama City crayfish consist of the following components:
+
+(i) Undeveloped lands, including cropland, utilities rights-of-way, timberlands, and grazing lands, that support open wet pine flatwoods and wet prairie habitats that contain the following:
+
+(A) Appropriate herbaceous ground cover vegetation;
+
+(B) Permanent or temporary pools of shallow (usually less than 1 foot) freshwater locations; and
+
+(C) Gently sloped ground-level swales with a 3:1 or shallower slope ratio along ecotonal or transitional areas.
+
+(ii) Soil types within undeveloped lands that provide sediment structure needed for burrow construction and that support mostly native herbaceous vegetation needed for additional food and shelter, and where the ground water is always within 3 feet of the ground surface and surface waters occur on occasion. These soil types include:
+
+(A) Core soils for Panama City crayfish, including Pamlico-Dorovan Complex, Rutlege Sand, Plummer Sand, Pelham Sand, Pantego Sandy Loam, and Rutledge-Pamlico Complex;
+
+(B) Secondary soils within 50 feet (15 meters) of core soils: Albany Sand, Leefield Sand, Leon Fine Sand, Osier Fine Sand, and Alapaha Loamy Sand; and
+
+(C) Soils that currently, or can eventually, support native herbaceous vegetation such as, but not limited to, wiregrass (*Aristida beyrichiana*), redroot (*Lachnanthes caroliniana*), beakrushes (*Rhynchospora* spp.), pitcher plants (*Sarracenia* spp.), sundews (*Drosera* spp.), butterworts (*Pinguicula* spp.), and lilies (*Hymenocallis* spp.).
+
+(iii) Undeveloped lands that contain surface and groundwater of sufficient quality to support all life stages of the Panama City crayfish and the herbaceous vegetation on which they rely, specifically surface waters with:
+
+(A) Oxygen levels that range between 2 and 9 milligrams per liter;
+
+(B) pH levels between 4.1 and 9.2; and
+
+(C) Temperatures between 42 and 94 degrees Fahrenheit ( °F) (5 and 34.4 degrees Celsius ( °C)), although optimum temperatures are thought to be in the range of 68 to 79 °F (20 to 26 °C).
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on February 4, 2022.
+
+(4) Data layers defining map units were created based on known occurrences and habitat requirements. Critical habitat units were mapped in ArcMap (ESRI, Inc.) using the U.S. Department of Agriculture, Natural Resources Conservation Service, Soil Survey Geographic Database dataset. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *https://www.regulations.gov* at Docket No. FWS-R4-ES-2020-0137 and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+![](/graphics/er05ja22.002.gif)
+
+(6) Unit 1: 19th Street, Bay County, Florida.
+
+(i) Unit 1 consists of 23.2 acres (9.4 ha) and is composed of lands in State, county, or city ownership (3.7 ac (1.5 ha)), and private ownership (19.5 ac (7.9 ha)).
+
+(ii) Map of Units 1, 2, 3, and 4 follows:
+
+![](/graphics/er05ja22.003.gif)
+
+(7) Unit 2: Talkington, Bay County, Florida.
+
+(i) Unit 2 consists of 37.2 acres (15.1 ha) and is composed of lands in State, county, or city ownership (4.09 ac (1.7 ha)), and private ownership (33.08 ac (13.4 ha)).
+
+(ii) Map of Unit 2 is provided at paragraph (6)(ii) of this entry.
+
+(8) Unit 3: Minnesota, Bay County, Florida.
+
+(i) Unit 3 consists of 49.0 acres (19.8 ha) and is composed of lands in State, county, or city ownership (30.0 ac (12.1 ha)), and private ownership (19.1 ac (7.7 ha)).
+
+(ii) Map of Unit 3 is provided at paragraph (6)(ii) of this entry.
+
+(9) Unit 4: Transmitter West, Bay County, Florida.
+
+(i) Unit 4 consists of 181.8 acres (73.6 ha) and is composed of lands in State, county, or city ownership (2.2 ac (0.9 ha)), and private ownership (179.6 ac (72.7 ha)).
+
+(ii) Map of Unit 4 is provided at paragraph (6)(ii) of this entry.
+
+(10) Unit 5: Deer Point, Bay County, Florida.
+
+(i) Unit 5 consists of 278.8 ac (112.8 ha) and is composed of lands in State, county, or city ownership (4.5 ac (1.8 ha)), and private ownership (274.3 ac (111.0 ha)).
+
+(ii) Map of Units 5 and 6 follows:
+
+![](/graphics/er05ja22.004.gif)
+
+(11) Unit 6: High Point, Bay County, Florida.
+
+(i) Unit 6 consists of 36.8 ac (14.9 ha) and is composed of lands in State, county, or city ownership (0.5 ac (0.2 ha)), and private ownership (36.3 ac (14.7 ha)).
+
+(ii) Map of Unit 6 is provided at paragraph (10)(ii) of this entry.
+
+(12) Unit 7: Star, Bay County, Florida.
+
+(i) Unit 7 consists of 1,424.3 ac (576.4 ha) and is composed of lands in State, county, or city ownership (6.5 ac (2.6 ha)), and private ownership (1,417.8 ac (573.8 ha)).
+
+(ii) Map of Units 7 and 8 follows:
+
+![](/graphics/er05ja22.005.gif)
+
+(13) Unit 8: Transmitter East, Bay County, Florida.
+
+(i) Unit 8 consists of 2,107.4 ac (852.8 ha) and is composed of lands in State, county, or city ownership (49.9 ac (20.2 ha)), and private ownership (2,057.5 ac (832.6 ha)).
+
+(ii) Map of Unit 8 is provided at paragraph (12)(ii) of this entry.
+
+Slenderclaw Crayfish (*Cambarus cracens*)
 
 (1) Critical habitat units are depicted for DeKalb and Marshall Counties, Alabama, on the maps in this entry.
 
