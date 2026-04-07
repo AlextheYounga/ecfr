@@ -6,7 +6,7 @@
 
 (c) If an LOA expires prior to the expiration date of the regulations in this subpart, the Navy may apply for and obtain a renewal of the LOA.
 
-(d) In the event of projected changes to the activity or to mitigation, monitoring, or reporting (excluding changes made pursuant to the adaptive management provision of § 218.87(c)(1)) as required by an LOA issued under this subpart, the Navy must apply for and obtain a modification of the LOA as described in § 218.87.
+(d) In the event of projected changes to the activity or to mitigation, monitoring, or reporting (excluding changes made pursuant to the adaptive management provision of § 218.87(c)(1) as required by an LOA issued under this subpart, the Navy must apply for and obtain a modification of the LOA as described in § 218.87.
 
 (e) Each LOA will set forth:
 
