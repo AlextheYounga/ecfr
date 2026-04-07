@@ -86,8 +86,6 @@ It is not permissible for the Interactive Data File to present only partial face
 
 (B) *Elements.* An electronic filer must create and use a new special element if and only if an appropriate tag does not exist in the standard list of tags for reasons other than or in addition to an inappropriate standard label; and
 
-(C) *Additional elements.* Annual reports on forms 10-K, 20-F or 40-F filed for periods after December 15, 2021, must contain all applicable data elements from the most recently updated relevant standard taxonomy; and
-
 (2) *Additional mark-up related content.* The Interactive Data File contains any additional mark-up related content (e.g., the eXtensible Business Reporting Language tags themselves, identification of the core XML documents used and other technology related content) not found in the corresponding data in the Related Official Filing that is necessary to comply with the EDGAR Filer Manual requirements.
 
 (d) *Format—Footnotes—Generally.* The part of the Interactive Data File for which the corresponding data in the Related Official Filing consists of footnotes to financial statements must comply with the requirements of paragraphs (c)(1) and (2) of this section, as modified by this paragraph (d). Footnotes to financial statements must be tagged as follows:
