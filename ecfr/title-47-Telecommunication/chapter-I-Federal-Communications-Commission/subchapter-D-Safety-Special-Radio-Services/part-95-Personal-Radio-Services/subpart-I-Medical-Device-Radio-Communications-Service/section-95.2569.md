@@ -13,4 +13,6 @@ Compliance with MedRadio equivalent isotropic radiated power (M-EIRP) limits can
 
 (b) Compliance with the maximum transmitter power requirements in § 95.2567 is based on measurements using a peak detector function and measured over an interval of time when transmission is continuous and at its maximum power level. In lieu of using a peak detector function, measurement procedures that have been found to be acceptable to the FCC in accordance with § 2.947 of this chapter may be used to demonstrate compliance.
 
-(c) For a MedRadio transmitter intended to be implanted in a human body, radiated emissions and M-EIRP measurements for transmissions by stations authorized under this section may be made in accordance with an FCC-approved human body simulator and test technique. Guidance regarding SAR measurement techniques dielectric parameters for the tissue-equivalent material can be found in the Office of Engineering and Technology (OET) Laboratory Division Knowledge Database (KDB).
+(c) For a MedRadio transmitter intended to be implanted in a human body, radiated emissions and M-EIRP measurements for transmissions by stations authorized under this section may be made in accordance with an FCC-approved human body simulator and test technique. Guidance regarding dielectric parameters for the tissue-equivalent material can be found in the Office of Engineering and Technology (OET) Laboratory Division Knowledge Database (KDB).
+
+\[82 FR 41104, Aug. 29, 2017, as amended at 86 FR 53566, Sept. 28, 2021\]
