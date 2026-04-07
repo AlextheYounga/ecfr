@@ -1,5 +1,7 @@
 ##### § 324.173 Disclosures by certain advanced approaches FDIC-supervised institutions and Category III FDIC-supervised institutions.
 
+Link to an amendment published at 85 FR 4442, Jan. 24, 2020.
+
 (a)(1) An advanced approaches FDIC-supervised institution described in § 324.172(b) must make the disclosures described in Tables 1 through 12 to § 324.173.
 
 (2) An advanced approaches FDIC-supervised institution and a Category III FDIC-supervised institution that is required to publicly disclose its supplementary leverage ratio pursuant to § 324.172(d) must make the disclosures required under Table 13 to this section unless the FDIC-supervised institution is a consolidated subsidiary of a bank holding company, savings and loan holding company, or depository institution that is subject to these disclosure requirements or a subsidiary of a non-U.S. banking organization that is subject to comparable public disclosure requirements in its home jurisdiction.
@@ -71,8 +73,7 @@ The amount of total capital, with separate disclosure of:
 
 (e)
 
-(1) Whether the FDIC-supervised institution has elected to phase in recognition of the transitional amounts as defined in § 324.300(f). 
-
+(1) Whether the FDIC-supervised institution has elected to phase in recognition of the transitional amounts as defined in § 324.300(f)  
 (2) The FDIC-supervised institution's common equity tier 1 capital, tier 1 capital, and total capital without including the transitional amounts as defined in § 324.300(f).
 
 Table 3 to § 324.173 - Capital Adequacy
@@ -109,18 +110,14 @@ Risk-weighted assets for operational risk.
 
 (e)
 
-(1) Common equity tier 1, tier 1 and total risk-based capital ratios reflecting the transition provisions described in § 324.300(f): 
-
-(A) For the top consolidated group; and 
-
+(1) Common equity tier 1, tier 1 and total risk-based capital ratios reflecting the transition provisions described in § 324.300(f):  
+(A) For the top consolidated group; and  
 (2) For each depository institution subsidiary. 
 
 (f)
 
-Common equity tier 1, tier 1 and total risk-based capital ratios reflecting the full adoption of CECL: 
-
-(1) For the top consolidated group; and 
-
+Common equity tier 1, tier 1 and total risk-based capital ratios reflecting the full adoption of CECL:  
+(1) For the top consolidated group; and  
 (2) For each depository institution subsidiary. 
 
 (g)

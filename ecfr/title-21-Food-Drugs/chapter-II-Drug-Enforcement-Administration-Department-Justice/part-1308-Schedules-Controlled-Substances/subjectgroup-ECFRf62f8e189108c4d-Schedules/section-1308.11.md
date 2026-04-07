@@ -712,6 +712,30 @@ Some other names: TCPy
 
 (7032) 
 
+(73) methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate (Other names: 5F-ADB; 5F-MDMB-PINACA)
+
+7034 
+
+(74) methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3-methylbutanoate (Other names: 5F-AMB)
+
+7033 
+
+(75) N-(adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (Other names: 5F-APINACA, 5F-AKB48)
+
+7049 
+
+(76) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (Other names: ADB-FUBINACA)
+
+7010 
+
+(77) methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxamido)-3,3-dimethylbutanoate (Other names: MDMB-CHMICA, MMB-CHMINACA)
+
+7042 
+
+(78) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate (Other names: MDMB-FUBINACA)
+
+7020 
+
 (e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
 (1) gamma-hydroxybutyric acid (some other names include GHB; gamma-hydroxybutyrate; 4-hydroxybutyrate; 4-hydroxybutanoic acid; sodium oxybate; sodium oxybutyrate)
@@ -826,51 +850,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (h) *Temporary listing of substances subject to emergency scheduling.* Any material, compound, mixture or preparation which contains any quantity of the following substances:
 
-(1) \[Reserved\] 
-
-(2) \[Reserved\] 
-
-(3) \[Reserved\] 
-
-(4) \[Reserved\] 
-
-(5) \[Reserved\] 
-
-(6) methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-ADB; 5F-MDMB-PINACA)
-
-(7034) 
-
-(7) methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3-methylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-AMB).
-
-(7033) 
-
-(8) N-(adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-APINACA, 5F-AKB48)
-
-(7049) 
-
-(9) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: ADB-FUBINACA)
-
-(7010) 
-
-(10) methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MDMB-CHMICA, MMB-CHMINACA)
-
-(7042) 
-
-(11) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MDMB-FUBINACA)
-
-(7020) 
-
-(12) \[Reserved\] 
-
-(13) \[Reserved\] 
-
-(14) \[Reserved\] 
-
-(15) \[Reserved\] 
-
-(16) \[Reserved\] 
-
-(17) \[Reserved\] 
+(1)-(17) \[Reserved\] 
 
 (18) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3-methylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: FUB-AMB, MMB-FUBINACA, AMB-FUBINACA)
 

@@ -1,5 +1,7 @@
 ##### § 217.202 Definitions.
 
+Link to an amendment published at 85 FR 4419, Jan. 24, 2020.
+
 (a) Terms set forth in § 217.2 and used in this subpart have the definitions assigned thereto in § 217.2.
 
 (b) For the purposes of this subpart, the following terms are defined as follows:
