@@ -1,6 +1,6 @@
 ##### § 1.30001 Definitions.
 
-For purposes of this subpart:
+For purposes of this subpart:*Wavelength at the AM frequency.*
 
 (a) *Wavelength at the AM frequency.* In this subpart, critical distances from an AM station are described in terms of the AM wavelength. The AM wavelength, expressed in meters, is computed as follows:
 

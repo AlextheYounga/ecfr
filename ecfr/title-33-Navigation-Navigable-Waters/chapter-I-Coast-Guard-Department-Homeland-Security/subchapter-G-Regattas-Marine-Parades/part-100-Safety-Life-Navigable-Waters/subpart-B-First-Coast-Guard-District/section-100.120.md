@@ -1,32 +1,32 @@
 ##### § 100.120 Special Local Regulations; Marine Events Held in the Coast Guard Sector Northern New England Captain of the Port Zone.
 
-The regulations in this section apply to the marine events listed in table 1 of this section. The regulations in this section will be enforced for the duration of each event, on or about the dates indicated. Actual notice of the exact dates and times of the effective period of the regulations with respect to each event, the geographical area, and details concerning the nature of the event and the number of participants and type(s) of vessels involved will be published in a Local Notices to Mariners and broadcast over VHF-FM radio. First Coast Guard District Local Notice to Mariners can be found at: *http://www.navcen.uscg.gov/.* Although listed in the Code of Federal Regulations, sponsors of events listed in table 1 of this section are still required to submit marine event applications in accordance with 33 CFR 100.15. 
+The regulations in this section apply to the marine events listed in table 1 of this section. The regulations in this section will be enforced for the duration of each event, on or about the dates indicated. Actual notice of the exact dates and times of the effective period of the regulations with respect to each event, the geographical area, and details concerning the nature of the event and the number of participants and type(s) of vessels involved will be published in a Local Notices to Mariners and broadcast over VHF-FM radio. First Coast Guard District Local Notice to Mariners can be found at: *http://www.navcen.uscg.gov/.* Although listed in the Code of Federal Regulations, sponsors of events listed in table 1 of this section are still required to submit marine event applications in accordance with 33 CFR 100.15.
 
-(a) The following definitions apply to this section: 
+(a) The following definitions apply to this section:
 
-(1) *Designated Representative.* A “Designated Representative” is any Coast Guard Commissioned, Warrant or Petty Officer who has been designated by the Captain of the Port, Sector Northern New England (COTP), to act on his or her behalf. The Designated Representative may be on an official patrol vessel or may be on shore and will communicate with vessels via VHF-FM radio or loudhailer. In addition, members of the Coast Guard Auxiliary may be present to inform vessel operators of this regulation. 
+(1) *Designated Representative.* A “Designated Representative” is any Coast Guard Commissioned, Warrant or Petty Officer who has been designated by the Captain of the Port, Sector Northern New England (COTP), to act on his or her behalf. The Designated Representative may be on an official patrol vessel or may be on shore and will communicate with vessels via VHF-FM radio or loudhailer. In addition, members of the Coast Guard Auxiliary may be present to inform vessel operators of this regulation.
 
-(2) *Official patrol vessels.* Official patrol vessels may consist of any Coast Guard, Coast Guard Auxiliary, state, or local law enforcement vessels assigned or approved by the COTP. 
+(2) *Official patrol vessels.* Official patrol vessels may consist of any Coast Guard, Coast Guard Auxiliary, state, or local law enforcement vessels assigned or approved by the COTP.
 
-(3) *Spectators.* All persons and vessels not registered with the event sponsor as participants or official patrol vessels. 
+(3) *Spectators.* All persons and vessels not registered with the event sponsor as participants or official patrol vessels.
 
-(b) Vessels may not transit the regulated areas without the COTP or Designated Representative approval. Vessels permitted to transit must operate at a no wake speed, in a manner which will not endanger participants or other crafts in the event. 
+(b) Vessels may not transit the regulated areas without the COTP or Designated Representative approval. Vessels permitted to transit must operate at a no wake speed, in a manner which will not endanger participants or other crafts in the event.
 
-(c) Vessel operators desiring to enter or operate within the regulated areas shall contact the COTP or the Designated Representative via VHF channel 16 or (207) 741-5465 (Coast Guard Sector Northern New England Command Center) to obtain permission to do so. 
+(c) Vessel operators desiring to enter or operate within the regulated areas shall contact the COTP or the Designated Representative via VHF channel 16 or (207) 741-5465 (Coast Guard Sector Northern New England Command Center) to obtain permission to do so.
 
-(d) Spectators or other vessels shall not anchor, block, loiter, or impede the transit of event participants or official patrol vessels in the regulated areas during the effective dates and times, unless authorized by COTP or Designated Representative. 
+(d) Spectators or other vessels shall not anchor, block, loiter, or impede the transit of event participants or official patrol vessels in the regulated areas during the effective dates and times, unless authorized by COTP or Designated Representative.
 
-(e) The COTP or Designated Representative may control the movement of all vessels in the regulated area. When hailed or signaled by an official patrol vessel, a vessel shall come to an immediate stop and comply with the lawful directions issued. Failure to comply with a lawful direction may result in expulsion from the area, citation for failure to comply, or both. 
+(e) The COTP or Designated Representative may control the movement of all vessels in the regulated area. When hailed or signaled by an official patrol vessel, a vessel shall come to an immediate stop and comply with the lawful directions issued. Failure to comply with a lawful direction may result in expulsion from the area, citation for failure to comply, or both.
 
-(f) The COTP or Designated Representative may delay or terminate any marine event in this section at any time it is deemed necessary to ensure the safety of life or property. 
+(f) The COTP or Designated Representative may delay or terminate any marine event in this section at any time it is deemed necessary to ensure the safety of life or property.
 
-(g) For all power boat races listed, vessels not participating in this event, swimmers, and personal watercraft of any nature are prohibited from entering or moving within the regulated area unless authorized by the COTP or Designated Representative. Vessels within the regulated area must be at anchor within a designated spectator area or moored to a waterfront facility in a way that will not interfere with the progress of the event. 
+(g) For all power boat races listed, vessels not participating in this event, swimmers, and personal watercraft of any nature are prohibited from entering or moving within the regulated area unless authorized by the COTP or Designated Representative. Vessels within the regulated area must be at anchor within a designated spectator area or moored to a waterfront facility in a way that will not interfere with the progress of the event.
 
-(h) For all regattas and boat parades listed, spectator vessels operating within the regulated area shall maintain a separation of at least 50 yards from the participants. 
+(h) For all regattas and boat parades listed, spectator vessels operating within the regulated area shall maintain a separation of at least 50 yards from the participants.
 
-(i) For all rowing and paddling boat races listed, vessels not associated with the event shall maintain a separation of at least 50 yards from the participants. 
+(i) For all rowing and paddling boat races listed, vessels not associated with the event shall maintain a separation of at least 50 yards from the participants.
 
-(j) The specific calendar date upon which the listed event falls will be published through a Notice of Enforcement in the Federal Register. 
+(j) The specific calendar date upon which the listed event falls will be published through a Notice of Enforcement in the Federal Register.
 
 Table 1 to § 100.120
 | **5.0**                                                                                                    | **MAY**                                                                                                                                                                                                            |

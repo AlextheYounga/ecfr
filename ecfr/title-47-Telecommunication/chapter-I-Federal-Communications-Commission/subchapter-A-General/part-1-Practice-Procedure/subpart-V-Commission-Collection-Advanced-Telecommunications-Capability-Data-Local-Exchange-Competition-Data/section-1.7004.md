@@ -1,6 +1,6 @@
 ##### § 1.7004 Scope, content, and frequency of Broadband Data Collection filings.
 
-(a) All providers shall make biannual filings with the Commission in the Broadband Data Collection portal in accordance with this subpart.
+(a) All providers shall make biannual filings with the Commission in the Broadband Data Collection portal in accordance with this subpart.*1*
 
 (b) Broadband Data Collection filings shall be made each year on or before March 1 (reporting data as of December 31 of the prior year) and September 1 (reporting data as of June 30 of the current year). Providers becoming subject to the provisions of this section for the first time shall file data initially for the reporting period in which they become eligible.
 

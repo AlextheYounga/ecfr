@@ -1,6 +1,6 @@
 ##### § 1.924 Quiet zones.
 
-Areas implicated by this paragraph are those in which it is necessary to restrict radiation so as to minimize possible impact on the operations of radio astronomy or other facilities that are highly sensitive to interference. Consent throughout this paragraph means written consent from the quiet zone, radio astronomy, research, and receiving installation entity. The areas involved and procedures required are as follows:
+Areas implicated by this paragraph are those in which it is necessary to restrict radiation so as to minimize possible impact on the operations of radio astronomy or other facilities that are highly sensitive to interference. Consent throughout this paragraph means written consent from the quiet zone, radio astronomy, research, and receiving installation entity. The areas involved and procedures required are as follows:*NRAO, NRRO.*2
 
 (a) *NRAO, NRRO.* The requirements of this paragraph are intended to minimize possible interference at the National Radio Astronomy Observatory site located at Green Bank, Pocahontas County, West Virginia, and at the Naval Radio Research Observatory site at Sugar Grove, Pendleton County, West Virginia.
 
@@ -17,7 +17,7 @@ Areas implicated by this paragraph are those in which it is necessary to restric
 (1) Licensees and applicants planning to construct and operate a new or modified station at a permanent fixed location in the vicinity of Boulder County, Colorado are advised to give consideration, prior to filing applications, to the need to protect the Table Mountain Radio Receiving Zone from interference. To prevent degradation of the present ambient radio signal level at the site, the Department of Commerce seeks to ensure that the field strengths of any radiated signals (excluding reflected signals) received on this 1800 acre site (in the vicinity of coordinates 40°07′49.9″ North Latitude, 105°14′42.0″ West Longitude) resulting from new assignments (other than mobile stations) or from the modification or relocation of existing facilities do not exceed the values given in the following table:
 
 Field Strength Limits for Table Mountain 1
-| Frequency range                                                                                                                   | Field strength   (mV/m) | Power flux density   (dBW/m 2) |
+| Frequency range   2                                                                                                               | Field strength   (mV/m) | Power flux density   (dBW/m 2) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------ |
 | Below 540 kHz                                                                                                                     | 10                      | −65.8                          |
 | 540 to 1600 kHz                                                                                                                   | 20                      | −59.8                          |

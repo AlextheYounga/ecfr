@@ -1,6 +1,6 @@
 ##### § 1.1929 Deduction from employee's pay.
 
-(a) Deduction by salary offset, from an employee's current disposable pay, shall be subject to the following conditions:
+(a) Deduction by salary offset, from an employee's current disposable pay, shall be subject to the following conditions:*see*
 
 (1) Ordinarily, debts to the United States will be collected in full, in one lump sum. This will be done when funds are available for payment in one lump sum. However, if the employee is financially unable to pay in one lump sum or the amount of the debt exceeds 15 percent of disposable pay for an officially established pay interval, collection must be made in installments.
 

@@ -1,6 +1,6 @@
 ##### § 1.733 Status conference.
 
-(a) In any complaint proceeding, the Commission may, in its discretion, direct the attorneys and/or the parties to appear before it for a status conference. A status conference may include discussion of:
+(a) In any complaint proceeding, the Commission may, in its discretion, direct the attorneys and/or the parties to appear before it for a status conference. A status conference may include discussion of:*inter alia,*
 
 (1) Simplification or narrowing of the issues;
 

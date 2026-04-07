@@ -1,6 +1,6 @@
 ##### § 1.1870 Compliance procedures.
 
-(a) Except as provided in paragraph (b) of this section, this section applies to all allegations of discrimination on the basis of disability in programs or activities conducted by the Commission.
+(a) Except as provided in paragraph (b) of this section, this section applies to all allegations of discrimination on the basis of disability in programs or activities conducted by the Commission.*Address for filing complaints.*
 
 (b) The Commission shall process complaints alleging violations of section 504 with respect to employment according to the procedures established by the Equal Employment Opportunity Commission in 29 CFR part 1614 pursuant to section 501 of the Rehabilitation Act of 1973, 29 U.S.C. 791.
 

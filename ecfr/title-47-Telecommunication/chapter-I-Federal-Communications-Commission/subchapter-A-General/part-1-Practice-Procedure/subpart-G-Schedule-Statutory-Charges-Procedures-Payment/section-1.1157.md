@@ -1,6 +1,6 @@
 ##### § 1.1157 Payment of charges for regulatory fees.
 
-Payment of a regulatory fee, required under §§ 1.1152 through 1.1156, shall be filed in the following manner:
+Payment of a regulatory fee, required under §§ 1.1152 through 1.1156, shall be filed in the following manner:Federal Register.
 
 (a)(1) The amount of the regulatory fee payment that is due with any application for authorization shall be the multiple of the number of years in the entire term of the requested license or other authorization multiplied by the annual fee payment required in the Schedule of Regulatory Fees, effective at the time the application is filed. Except as set forth in § 1.1160, advance payments shall be final and shall not be readjusted during the term of the license or authorization, notwithstanding any subsequent increase or decrease in the annual amount of a fee required under the Schedule of Regulatory Fees.
 

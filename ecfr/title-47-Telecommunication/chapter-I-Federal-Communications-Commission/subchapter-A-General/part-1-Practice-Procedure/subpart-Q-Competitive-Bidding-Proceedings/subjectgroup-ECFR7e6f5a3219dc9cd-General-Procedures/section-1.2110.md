@@ -1,6 +1,6 @@
 ##### § 1.2110 Designated entities.
 
-(a) Designated entities are small businesses (including businesses owned by members of minority groups and/or women), rural telephone companies, and eligible rural service providers.
+(a) Designated entities are small businesses (including businesses owned by members of minority groups and/or women), rural telephone companies, and eligible rural service providers.*Eligibility for small business and entrepreneur provisions*
 
 (b) *Eligibility for small business and entrepreneur provisions*— (1) *Size attribution.* (i) The gross revenues of the applicant (or licensee), its affiliates, its controlling interests, and the affiliates of its controlling interests shall be attributed to the applicant (or licensee) and considered on a cumulative basis and aggregated for purposes of determining whether the applicant (or licensee) is eligible for status as a small business, very small business, or entrepreneur, as those terms are defined in the service-specific rules. An applicant seeking status as a small business, very small business, or entrepreneur, as those terms are defined in the service-specific rules, must disclose on its short- and long-form applications, separately and in the aggregate, the gross revenues for each of the previous three years of the applicant (or licensee), its affiliates, its controlling interests, and the affiliates of its controlling interests.
 

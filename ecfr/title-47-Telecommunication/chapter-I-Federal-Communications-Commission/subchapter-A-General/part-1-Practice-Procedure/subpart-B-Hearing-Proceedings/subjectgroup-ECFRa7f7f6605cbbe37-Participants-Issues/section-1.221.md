@@ -1,6 +1,6 @@
 ##### § 1.221 Notice of hearing; appearances.
 
-(a) Upon designation of an application for hearing, the Commission issues an order containing the following:
+(a) Upon designation of an application for hearing, the Commission issues an order containing the following:Federal Register.
 
 (1) A statement as to the reasons for the Commission's action.
 

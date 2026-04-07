@@ -10,21 +10,21 @@
 
 (2) Each “Accepted for Filing” Public Notice has a report number. Examples of various types of applications and their corresponding report number (the “x” represents a sequential number) follow.
 
-| Type of application                      | Report No.             |
-| ---------------------------------------- | ---------------------- |
-| 325-C Applications                       | 325-xxxxx.             |
-| Accounting Rate Change                   | ARC-xxxxx.             |
-| Foreign Carrier Affiliation Notification | FCN-xxxxx.             |
-| International High Frequency             | IHF-xxxxx.             |
-| Recognized Operating Agency              | ROA-xxxxx.             |
-| Satellite Space Station                  | SAT-xxxxx.             |
-| Satellite Earth Station                  | SES-xxxxx.             |
-| International Telecommunications:        |                        |
-| Streamlined                              | TEL-xxxxxS.            |
-| Non-streamlined                          | TEL-xxxxxNS and/or DA. |
-| Submarine Cable Landing:                 |                        |
-| Streamlined                              | SCL-xxxxxS.            |
-| Non-streamlined                          | SCL-xxxxxNS and/or DA. |
+| Type of application                       | Report No.             |
+| ----------------------------------------- | ---------------------- |
+| 325-C Applicationshttp://www.fcc.gov/icfs | 325-xxxxx.             |
+| Accounting Rate Change                    | ARC-xxxxx.             |
+| Foreign Carrier Affiliation Notification  | FCN-xxxxx.             |
+| International High Frequency              | IHF-xxxxx.             |
+| Recognized Operating Agency               | ROA-xxxxx.             |
+| Satellite Space Station                   | SAT-xxxxx.             |
+| Satellite Earth Station                   | SES-xxxxx.             |
+| International Telecommunications:         |                        |
+| Streamlined                               | TEL-xxxxxS.            |
+| Non-streamlined                           | TEL-xxxxxNS and/or DA. |
+| Submarine Cable Landing:                  |                        |
+| Streamlined                               | SCL-xxxxxS.            |
+| Non-streamlined                           | SCL-xxxxxNS and/or DA. |
 
 (d) After the Public Notice, your application may undergo legal, technical and/or financial review as deemed necessary. In addition, some applications require coordination with other government agencies.
 

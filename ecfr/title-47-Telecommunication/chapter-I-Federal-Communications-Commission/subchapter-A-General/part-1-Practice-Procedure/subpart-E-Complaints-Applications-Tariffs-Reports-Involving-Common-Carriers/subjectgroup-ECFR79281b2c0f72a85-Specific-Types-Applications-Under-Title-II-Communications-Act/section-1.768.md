@@ -1,6 +1,6 @@
 ##### § 1.768 Notification by and prior approval for submarine cable landing licensees that are or propose to become affiliated with a foreign carrier.
 
-Any entity that is licensed by the Commission (“licensee”) to land or operate a submarine cable landing in a particular foreign destination market that becomes, or seeks to become, affiliated with a foreign carrier that is authorized to operate in that market, including an entity that owns or controls a cable landing station in that market, shall notify the Commission of that affiliation.
+Any entity that is licensed by the Commission (“licensee”) to land or operate a submarine cable landing in a particular foreign destination market that becomes, or seeks to become, affiliated with a foreign carrier that is authorized to operate in that market, including an entity that owns or controls a cable landing station in that market, shall notify the Commission of that affiliation.*Affiliations requiring prior notification:*
 
 (a) *Affiliations requiring prior notification:* Except as provided in paragraph (b) of this section, the licensee must notify the Commission, pursuant to this section, forty-five (45) days before consummation of either of the following types of transactions:
 

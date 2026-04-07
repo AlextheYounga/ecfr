@@ -1,6 +1,6 @@
 ##### § 1.8004 Penalty for Failure to Provide the FRN.
 
-(a) Electronic filing systems for filings that require the FRN will not accept a filing without the appropriate FRN. If a party seeks to make an electronic filing and does not have an FRN, the system will direct the party to the CORES website to obtain an FRN.
+(a) Electronic filing systems for filings that require the FRN will not accept a filing without the appropriate FRN. If a party seeks to make an electronic filing and does not have an FRN, the system will direct the party to the CORES website to obtain an FRN.*see*
 
 (b) Except as provided in paragraph (d) of this section or in other Commission rules, filings subject to the FRN requirement and submitted without an FRN will be returned or dismissed.
 

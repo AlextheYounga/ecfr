@@ -18,7 +18,11 @@ MHz
 *   1850.0-2200.0
 *   2450.0-2690.0
 *   3700.0-4200.0
-*   5925.0-7125.0GHz 
+*   5925.0-7125.0
+
+Line A—Begins at Aberdeen, Wash., running by great circle arc to the intersection of 48 deg. N., 120 deg. W., thence along parallel 48 deg. N., to the intersection of 95 deg. W., thence by great circle arc through the southernmost point of Duluth, Minn., thence by great circle arc to 45 deg. N., 85 deg. W., thence southward along meridian 85 deg. W., to its intersection with parallel 41 deg. N., thence along parallel 41 deg. N., to its intersection with meridian 82 deg. W., thence by great circle arc through the southernmost point of Bangor, Maine, thence by great circle arc through the southern-most point of Searsport, Maine, at which point it terminates; and
+
+GHz 
 *   10.55-10.68
 *   10.70-13.25
 

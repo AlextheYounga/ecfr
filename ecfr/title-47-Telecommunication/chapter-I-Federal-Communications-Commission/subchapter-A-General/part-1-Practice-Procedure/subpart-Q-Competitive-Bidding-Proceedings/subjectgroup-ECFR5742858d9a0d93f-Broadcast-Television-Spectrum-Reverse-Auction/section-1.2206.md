@@ -1,6 +1,6 @@
 ##### § 1.2206 Confidentiality of Commission-held data.
 
-(a) The Commission will take all reasonable steps necessary to protect all Confidential Broadcaster Information for all reverse auction applicants from the time the broadcast television licensee applies to participate in the reverse auction until the reassignments and reallocations under section 6403(b)(1)(B) of the Spectrum Act become effective or until two years after public notice that the reverse auction is complete and that no such reassignments and reallocations shall become effective.
+(a) The Commission will take all reasonable steps necessary to protect all Confidential Broadcaster Information for all reverse auction applicants from the time the broadcast television licensee applies to participate in the reverse auction until the reassignments and reallocations under section 6403(b)(1)(B) of the Spectrum Act become effective or until two years after public notice that the reverse auction is complete and that no such reassignments and reallocations shall become effective.*Confidential Broadcaster Information*
 
 (b) In addition, if reassignments and reallocations under section 6403(b)(1)(B) of the Spectrum Act become effective, the Commission will continue to take all reasonable steps necessary to protect Confidential Broadcaster Information pertaining to any unsuccessful reverse auction bid and pertaining to any unsuccessful application to participate in the reverse auction until two years after the effective date.
 

@@ -1,6 +1,6 @@
 ##### § 1.50001 Definitions.
 
-For purposes of this subpart:
+For purposes of this subpart:*Advanced communications service.*
 
 (a) *Advanced communications service.* The term “advanced communications service” means high-speed, switched, broadband telecommunications capability that enables users to originate and receive high-quality voice, data, graphics, and video telecommunications using any technology with connection speeds of at least 200 kbps in either direction.
 

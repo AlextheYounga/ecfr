@@ -1,6 +1,6 @@
 ##### § 1.1514 When an application may be filed.
 
-(a) An application may be filed whenever the applicant has prevailed in the proceeding or in a significant and discrete substantive portion of the proceeding, or when the demand of the Commission is substantially in excess of the decision in the proceeding, but in no case later than 30 days after the Commission's final disposition of the proceeding.
+(a) An application may be filed whenever the applicant has prevailed in the proceeding or in a significant and discrete substantive portion of the proceeding, or when the demand of the Commission is substantially in excess of the decision in the proceeding, but in no case later than 30 days after the Commission's final disposition of the proceeding.*final disposition*
 
 (b) If review or reconsideration is sought or taken of a decision as to which an applicant believes it has prevailed, proceedings for the award of fees shall be stayed pending final disposition of the underlying controversy.
 

@@ -1,6 +1,6 @@
 ##### § 1.1310 Radiofrequency radiation exposure limits.
 
-(a) Specific absorption rate (SAR) shall be used to evaluate the environmental impact of human exposure to radiofrequency (RF) radiation as specified in § 1.1307(b) of this part within the frequency range of 100 kHz to 6 GHz (inclusive).
+(a) Specific absorption rate (SAR) shall be used to evaluate the environmental impact of human exposure to radiofrequency (RF) radiation as specified in § 1.1307(b) of this part within the frequency range of 100 kHz to 6 GHz (inclusive).*OET Bulletin 65,*
 
 (b) The SAR limits for occupational/controlled exposure are 0.4 W/kg, as averaged over the whole body, and a peak spatial-average SAR of 8 W/kg, averaged over any 1 gram of tissue (defined as a tissue volume in the shape of a cube). Exceptions are the parts of the human body treated as extremities, such as hands, wrists, feet, ankles, and pinnae, where the peak spatial-average SAR limit for occupational/controlled exposure is 20 W/kg, averaged over any 10 grams of tissue (defined as a tissue volume in the shape of a cube). Exposure may be averaged over a time period not to exceed 6 minutes to determine compliance with occupational/controlled SAR limits.
 
@@ -21,9 +21,9 @@ SAR is a measure of the rate of energy absorption due to exposure to RF electrom
 (e)(1) Table 1 to § 1.1310(e)(1) sets forth limits for Maximum Permissible Exposure (MPE) to radiofrequency electromagnetic fields.
 
 Table 1 to § 1.1310(e)(1)—Limits for Maximum Permissible Exposure (MPE)
-| Frequency   range   (MHz)                                       | Electric field strength   (V/m) | Magnetic field strength   (A/m) | Power density   (mW/cm2) | Averaging   time   (minutes) |
+| Frequency   range   (MHz)2                                      | Electric field strength   (V/m) | Magnetic field strength   (A/m) | Power density   (mW/cm2) | Averaging   time   (minutes) |
 | --------------------------------------------------------------- | ------------------------------- | ------------------------------- | ------------------------ | ---------------------------- |
-| **(i) Limits for Occupational/Controlled Exposure**             |                                 |                                 |                          |                              |
+| **(i) Limits for Occupational/Controlled Exposure**≤2           |                                 |                                 |                          |                              |
 | 0.3-3.0                                                         | 614                             | 1.63                            | \*(100)                  | ≤6                           |
 | 3.0-30                                                          | 1842/f                          | 4.89/f                          | \*(900/f2)               | <6                           |
 | 30-300                                                          | 61.4                            | 0.163                           | 1.0                      | <6                           |

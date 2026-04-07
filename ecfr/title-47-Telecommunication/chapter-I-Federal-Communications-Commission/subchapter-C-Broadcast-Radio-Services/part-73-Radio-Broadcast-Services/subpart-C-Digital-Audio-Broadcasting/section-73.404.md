@@ -17,3 +17,12 @@ Link to an amendment published at 89 FR 84104, Oct. 21, 2024.
 (3) Must have a radiation center height above average terrain between 70 and 100 percent of the height above average terrain of the analog antenna.
 
 \[72 FR 45692, Aug. 15, 2007, as amended at 75 FR 17877, Apr. 8, 2010; 85 FR 18151, Apr. 1, 2020; 85 FR 78027, Dec. 3, 2020\]
+
+Table 1 to Paragraph (f)—Maximum Permissible FM Digital ERP per Sideband
+| IBOC station's F(50,10) field strength at the upper or lower first-adjacent station's analog 60 dBµ F(50,50) contour | Maximum permissible FM digital ERP for the respective (upper or lower) sideband |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 51.2 dBµ and above                                                                                                   | −17 dBc.                                                                        |
+| 50.7 dBµ to 51.1 dBµ                                                                                                 | −16 dBc.                                                                        |
+| 50.3 dBµ to 50.6 dBµ                                                                                                 | −15 dBc.                                                                        |
+| 49.6 dBµ to 50.2 dBµ                                                                                                 | −14 dBc.                                                                        |
+| 49.5 dBµ or less                                                                                                     | −13 dBc.                                                                        |
