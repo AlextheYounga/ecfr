@@ -4,7 +4,7 @@
 
 Note 1 to paragraph (a):
 
-For purposes ofthis section, the term “you” has the same meaning as the term “exporter”, as defined in part 772 of the EAR.
+For purposes of this section, the term “you” has the same meaning as the term “exporter”, as defined in part 772 of the EAR.
 
 (b) *Requirements.* You must submit one electronic copy of each report required under the provisions of this section, or submit this information using the alternative submission method specified in paragraph (h) of this section, and maintain accurate supporting records (see § 762.2(b) of the EAR) for all exports of items specified in paragraph (c) of this section for the following:
 
