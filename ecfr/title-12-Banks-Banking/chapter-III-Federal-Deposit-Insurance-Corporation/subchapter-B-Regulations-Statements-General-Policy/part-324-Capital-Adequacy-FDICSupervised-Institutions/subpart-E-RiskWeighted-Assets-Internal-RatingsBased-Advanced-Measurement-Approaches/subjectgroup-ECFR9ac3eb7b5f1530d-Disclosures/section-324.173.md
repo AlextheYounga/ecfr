@@ -32,7 +32,7 @@ Quantitative disclosures
 
 The aggregate amount of surplus capital of insurance subsidiaries included in the total capital of the consolidated group. 
 
-((e)
+(e)
 
 The aggregate amount by which actual total capital is less than the minimum total capital requirement in all subsidiaries, with total capital requirements and the name(s) of the subsidiaries with such deficiencies. 
 
