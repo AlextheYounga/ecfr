@@ -170,7 +170,7 @@ Activities of Controlled in Fact Foreign Subsidiaries, Affiliates, and Other Per
 
 Activities in United States Commerce
 
-(8) A transaction between a domestic concern's controlled in fact foreign subsidiary, affiliate, or other permanent foreign establishment and a person outside the United States, involving goods or services (including information but not including ancillary services) acquired from a person in the United States is in United States commerce under any of the following circumstances -
+(8) A transaction between a domestic concern's controlled in fact foreign subsidiary, affiliate, or other permanent foreign establishment and a person outside the United States, involving goods or services (including information but not including ancillary services) acquired from a person in the United States is in United States commerce under any of the following circumstances—
 
 (i) If the goods or services were acquired for the purpose of filling an order from a person outside the United States;
 
