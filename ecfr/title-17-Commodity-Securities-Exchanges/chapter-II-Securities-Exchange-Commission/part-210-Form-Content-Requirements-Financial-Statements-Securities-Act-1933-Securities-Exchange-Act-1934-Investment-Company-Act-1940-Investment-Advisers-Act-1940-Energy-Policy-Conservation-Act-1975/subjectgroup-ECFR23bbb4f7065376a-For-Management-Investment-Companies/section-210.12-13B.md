@@ -1,3 +1,17 @@
-##### § 210.12-13B xxx
+##### § 210.12-13B Open forward foreign currency contracts.
 
-Link to an amendment published at 81 FR 82017, November 18, 2016.
+\[For management investment companies only\]
+
+| Col. A                                               | Col. B                                          | Col. C       | Col. D          | Col. E                                        |
+| ---------------------------------------------------- | ----------------------------------------------- | ------------ | --------------- | --------------------------------------------- |
+| Amount and description of currency to be purchased 1 | Amount and description of currency to be sold 1 | Counterparty | Settlement date | Unrealized appreciation/   depreciation.2 3 4 |
+
+1 Forward foreign currency contracts where description of currency purchased, description of currency sold, counterparty, or settlement dates differ shall be listed separately.
+
+2 Indicate by an appropriate symbol each investment which cannot be sold because of restrictions or conditions applicable to the investment.
+
+3 Indicate by an appropriate symbol each investment whose value was determined using significant unobservable inputs.
+
+4 Column E shall be totaled and shall agree with the total of correlative amount(s) shown on the related balance sheet.
+
+\[81 FR 82017, Nov. 18, 2016\]

@@ -582,13 +582,25 @@ Some other names: TCPy
 
 (54) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (ADB-PINACA)
 
-(7035)
+(7035) 
 
-(55) 2-(4-iodo-2,5-dimethoxyphenyl)-*N-*(2-methoxybenzyl)ethanamine (25I-NBOMe, 2C-I-NBOMe) (7538)
+(55) 2-(4-iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (25I-NBOMe, 2C-I-NBOMe)
 
-(56) 2-(4-chloro-2,5-dimethoxyphenyl)-*N-*(2-methoxybenzyl)ethanamine (25C-NBOMe, 2C-C-NBOMe) (7537)
+(7538) 
 
-(57) 2-(4-bromo-2,5-dimethoxyphenyl)-*N-*(2-methoxybenzyl)ethanamine (25B-NBOMe, 2C-B-NBOMe) (7536)
+(56) 2-(4-chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (25C-NBOMe, 2C-C-NBOMe)
+
+(7537) 
+
+(57) 2-(4-bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (25B-NBOMe, 2C-B-NBOMe)
+
+(7536) 
+
+(58) Marihuana Extract - 
+
+(7350)
+
+Meaning an extract containing one or more cannabinoids that has been derived from any plant of the genus Cannabis, other than the separated resin (whether crude or purified) obtained from the plant.
 
 (e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
@@ -755,29 +767,5 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 (9834). 
 
 (20)-(22) \[Reserved\] 
-
-(23) methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-ADB; 5F-MDMB-PINACA)
-
-(7034) 
-
-(24) methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3-methylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-AMB)
-
-(7033) 
-
-(25) N-(adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-APINACA, 5F-AKB48)
-
-(7049) 
-
-(26) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: ADB-FUBINACA)
-
-(7010) 
-
-(27) methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MDMB-CHMICA, MMB-CHMINACA)
-
-(7042) 
-
-(28) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MDMB-FUBINACA)
-
-(7020)
 
 \[39 FR 22141, June 20, 1974\] Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
