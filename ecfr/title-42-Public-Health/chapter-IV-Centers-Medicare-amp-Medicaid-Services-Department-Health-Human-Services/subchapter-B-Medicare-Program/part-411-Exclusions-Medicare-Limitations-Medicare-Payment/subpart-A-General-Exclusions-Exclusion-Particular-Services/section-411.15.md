@@ -34,9 +34,11 @@ The following services are excluded from coverage:
 
 (2) Pneumococcal vaccinations that are reasonable and necessary for the prevention of illness;
 
-(3) Hepatitis B vaccinations that are reasonable and necessary for the prevention of illness for those individuals, as defined in § 410.63(a) of this chapter, who are at high or intermediate risk of contracting hepatitis B; and
+(3) Hepatitis B vaccinations that are reasonable and necessary for the prevention of illness for those individuals, as defined in § 410.63(a) of this chapter, who are at high or intermediate risk of contracting hepatitis B;
 
-(4) Influenza vaccinations that are reasonable and necessary for the prevention of illness.
+(4) Influenza vaccinations that are reasonable and necessary for the prevention of illness; and
+
+(5) COVID-19 vaccinations that are reasonable and necessary for the prevention of illness.
 
 (f) *Orthopedic shoes* or other supportive devices for the feet, *except when* shoes are integral parts of leg braces.
 
