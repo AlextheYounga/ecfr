@@ -8,6 +8,6 @@
 
 (3) Meet all applicable pollution control requirements.
 
-(b) Remote controls for flooding safety equipment must remain functional under flooding conditions to the extent required for the associated equipment by § 56.50-50 and § 56.50-95 of this chapter.
+(b) Remote controls for flooding safety equipment must remain functional under flooding conditions.
 
 (c) Remote bilge level sensors, where provided, must be located to detect flooding at an early stage and to provide redundant coverage.
