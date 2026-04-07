@@ -1,7 +1,5 @@
 ##### § 1223.21 Promoting diversity and ensuring inclusion in all business and activities.
 
-Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
-
 (a) *Equal opportunity notice.* Each regulated entity shall publish a statement, endorsed by its Chief Executive Officer and approved by its Board of Directors, confirming its commitment to the principles of equal opportunity in employment and in contracting, at a minimum, regardless of race, color, religion, sex, national origin, disability status, genetic information, age, sexual orientation, gender identity, or status as a parent. The notice also shall confirm commitment against retaliation or reprisal. Publication shall include, at a minimum, conspicuous posting in all regulated entity physical facilities, including through alternative media formats, as necessary, and accessible posting on the regulated entity's Web site. The notice shall be updated and re-published, re-endorsed by the Chief Executive Officer and re-approved by the Board of Directors annually.
 
 (b) *Policies and procedures.* Each regulated entity shall develop, implement, and maintain policies and procedures to ensure, to the maximum extent possible in balance with financially safe and sound business practices, the inclusion and utilization of minorities, women, individuals with disabilities, and minority-, women-, and disabled-owned businesses in all business and activities and at all levels of the regulated entity, including in management, employment, procurement, insurance, and all types of contracts. The policies and procedures of each regulated entity, at a minimum, shall:
@@ -22,7 +20,7 @@ Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
 
 (8) Establish a process for developing a stand-alone D&I strategic plan or incorporating into its existing strategic plan a D&I plan that proactively focuses on promoting the advancement of D&I. The stand-alone D&I strategic plan and the incorporated D&I plan are hereinafter referred to as the D&I strategic plan;
 
-(9) Except as limited by § 1207.3(b), require that each contract it enters contains a material clause committing the contractor to practice the principles of equal employment opportunity and non-discrimination in all its business activities and requiring each such contractor to include the clause in each subcontract it enters for services or goods provided to the regulated entity;
+(9) Except as limited by § 1223.3(b), require that each contract it enters contains a material clause committing the contractor to practice the principles of equal employment opportunity and non-discrimination in all its business activities and requiring each such contractor to include the clause in each subcontract it enters for services or goods provided to the regulated entity;
 
 (10) Identify the types of contracts the regulated entity considers exempt under § 1223.3(b) and any thresholds, exceptions, and limitations the regulated entity establishes for implementing paragraph (c)(2) of this section. The policies and procedures must describe the following:
 
@@ -54,4 +52,4 @@ Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
 
 (3) A requirement to create and implement action plans to achieve the strategic goals and objectives and management reporting requirements for monitoring the implementation of those goals and objectives.
 
-\[75 FR 81402, Dec. 28, 2010, as amended at 82 FR 34396, July 25, 2017\]
+\[75 FR 81402, Dec. 28, 2010, as amended at 82 FR 34396, July 25, 2017; 83 FR 39326, Aug. 9, 2018\]
