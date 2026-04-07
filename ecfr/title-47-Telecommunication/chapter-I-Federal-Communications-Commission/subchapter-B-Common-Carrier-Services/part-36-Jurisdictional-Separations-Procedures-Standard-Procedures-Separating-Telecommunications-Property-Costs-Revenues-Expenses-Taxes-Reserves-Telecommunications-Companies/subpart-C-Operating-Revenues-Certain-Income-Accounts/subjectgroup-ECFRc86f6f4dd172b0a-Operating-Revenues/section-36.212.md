@@ -4,7 +4,7 @@
 
 (b) Revenues that are attributable to the origination or termination of interstate FX or CCSA like services shall be assigned to the interstate jurisdiction.
 
-(c) Wideband Message Service revenues from monthly and miscellaneous charges, service connections, move and change charges, are apportioned between state and interstate operations on the basis of the relative number of minutes-of-use in the study area. Effective July 1, 2001, through December 30, 2018, all study areas shall apportion Wideband Message Service revenues among the jurisdictions using the relative number of minutes of use for the twelve-month period ending December 31, 2000.
+(c) Wideband Message Service revenues from monthly and miscellaneous charges, service connections, move and change charges, are apportioned between state and interstate operations on the basis of the relative number of minutes-of-use in the study area. Effective July 1, 2001, through December 31, 2018, all study areas shall apportion Wideband Message Service revenues among the jurisdictions using the relative number of minutes of use for the twelve-month period ending December 31, 2000.
 
 (d) All other revenues in this account are assigned to the exchange operation based on their subsidiary record categories or on the basis of analysis and studies.
 
