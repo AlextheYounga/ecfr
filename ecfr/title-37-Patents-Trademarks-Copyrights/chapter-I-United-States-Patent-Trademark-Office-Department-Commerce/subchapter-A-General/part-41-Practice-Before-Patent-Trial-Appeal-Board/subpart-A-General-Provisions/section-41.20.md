@@ -48,16 +48,10 @@ By other than a small or micro entity
 
 (4) In addition to the fee for filing a notice of appeal, for forwarding an appeal in an application or *ex parte* reexamination proceeding to the Board:
 
-By a micro entity (§ 1.29 of this chapter)
-
-$560.00 
-
-By a small entity (§ 1.27(a)) of this chapter)
-
-1,120.00 
-
-By other than a small or micro entity
-
-2,240.00
+|                                                |          |
+| ---------------------------------------------- | -------- |
+| By a micro entity (§ 1.29 of this chapter)     | $560.00  |
+| By a small entity (§ 1.27(a)) of this chapter) | 1,120.00 |
+| By other than a small or micro entity          | 2,240.00 |
 
 \[78 FR 4290, Jan. 18, 2013, as amended at 82 FR 52817, Nov. 14, 2017\]

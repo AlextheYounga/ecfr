@@ -2,33 +2,21 @@
 
 (a)(1) Issue fee for issuing each original patent, except a design or plant patent, or for issuing each reissue patent:
 
-By a micro entity (§ 1.29)
-
-$250.00 
-
-By a small entity (§ 1.27(a))
-
-500.00 
-
-By other than a small or micro entity
-
-1,000.00
+|                                       |          |
+| ------------------------------------- | -------- |
+| By a micro entity (§ 1.29)            | $250.00  |
+| By a small entity (§ 1.27(a))         | 500.00   |
+| By other than a small or micro entity | 1,000.00 |
 
 (2) \[Reserved\]
 
 (b)(1) Issue fee for issuing an original design patent:
 
-By a micro entity (§ 1.29)
-
-$175.00 
-
-By a small entity (§ 1.27(a))
-
-350.00 
-
-By other than a small or micro entity
-
-700.00
+|                                       |         |
+| ------------------------------------- | ------- |
+| By a micro entity (§ 1.29)            | $175.00 |
+| By a small entity (§ 1.27(a))         | 350.00  |
+| By other than a small or micro entity | 700.00  |
 
 (2) \[Reserved\]
 
@@ -36,17 +24,11 @@ By other than a small or micro entity
 
 (c)(1) Issue fee for issuing an original plant patent:
 
-By a micro entity (§ 1.29)
-
-$200.00 
-
-By a small entity (§ 1.27(a))
-
-400.00 
-
-By other than a small or micro entity
-
-800.00
+|                                       |         |
+| ------------------------------------- | ------- |
+| By a micro entity (§ 1.29)            | $200.00 |
+| By a small entity (§ 1.27(a))         | 400.00  |
+| By other than a small or micro entity | 800.00  |
 
 (2) \[Reserved\]
 

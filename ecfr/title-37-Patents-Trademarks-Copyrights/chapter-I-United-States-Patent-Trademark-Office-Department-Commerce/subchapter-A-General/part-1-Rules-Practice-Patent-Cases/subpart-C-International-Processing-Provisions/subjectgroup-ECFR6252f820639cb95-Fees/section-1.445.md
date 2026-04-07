@@ -78,17 +78,11 @@ $2,080.00
 
 (5) Late furnishing fee for providing a sequence listing in response to an invitation under PCT Rule 13*ter:*
 
-By a micro entity (§ 1.29)
-
-$75.00 
-
-By a small entity (§ 1.27(a))
-
-150.00 
-
-By other than a small or micro entity
-
-300.00
+|                                       |        |
+| ------------------------------------- | ------ |
+| By a micro entity (§ 1.29)            | $75.00 |
+| By a small entity (§ 1.27(a))         | 150.00 |
+| By other than a small or micro entity | 300.00 |
 
 (b) The international filing fee shall be as prescribed in PCT Rule 15.
 
