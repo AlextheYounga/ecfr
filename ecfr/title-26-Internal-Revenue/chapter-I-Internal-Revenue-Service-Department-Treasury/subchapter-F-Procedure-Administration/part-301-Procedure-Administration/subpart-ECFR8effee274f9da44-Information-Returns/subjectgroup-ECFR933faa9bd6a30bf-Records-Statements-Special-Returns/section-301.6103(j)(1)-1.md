@@ -20,7 +20,7 @@
 
 (viii) Gross rent and royalty income.
 
-(ix) Total of -
+(ix) Total of—
 
 (A) Wages, salaries, tips, etc.;
 
@@ -64,13 +64,13 @@
 
 (xx) Paid Preparer Code.
 
-(2) Officers or employees of the Internal Revenue Service will disclose to officers and employees of the Bureau of the Census for purposes of, but only to the extent necessary in, conducting, as authorized by chapter 5 of title 13, United States Code, demographic, economic, and agricultural statistics programs and censuses and related program evaluation -
+(2) Officers or employees of the Internal Revenue Service will disclose to officers and employees of the Bureau of the Census for purposes of, but only to the extent necessary in, conducting, as authorized by chapter 5 of title 13, United States Code, demographic, economic, and agricultural statistics programs and censuses and related program evaluation—
 
-(i) From the business master files of the Internal Revenue Service - the taxpayer name directory and entity records consisting of taxpayer identity information (as defined in section 6103(b)(6)) with respect to taxpayers engaged in a trade or business, the principal industrial activity code, the filing requirement code, the employment code, the physical location, the location codes (including area/district office and campus/service center codes), and monthly corrections of, and additions to, such entity records;
+(i) From the business master files of the Internal Revenue Service—the taxpayer name directory and entity records consisting of taxpayer identity information (as defined in section 6103(b)(6)) with respect to taxpayers engaged in a trade or business, the principal industrial activity code, the filing requirement code, the employment code, the physical location, the location codes (including area/district office and campus/service center codes), and monthly corrections of, and additions to, such entity records;
 
-(ii) From Form SS-4 - all information reflected on such form;
+(ii) From Form SS-4—all information reflected on such form;
 
-(iii) From an employment tax return -
+(iii) From an employment tax return—
 
 (A) Taxpayer identifying number (as described in section 6109) of the employer;
 
@@ -88,11 +88,17 @@
 
 (H) Total number of individuals employed in the taxable period covered by the return;
 
-(I) Total taxable wages paid for purposes of chapter 21; and
+(I) Total taxable wages paid for purposes of chapter 21;
 
 (J) Total taxable tip income reported for purposes of chapter 21;
 
-(iv) From Form 1040 (Schedule SE) -
+(K) If a business has closed or stopped paying wages;
+
+(L) Final date a business paid wages; and
+
+(M) If a business is a seasonal employer and does not have to file a return for every quarter of the year;
+
+(iv) From Form 1040 (Schedule SE)—
 
 (A) Taxpayer identifying number of self-employed individual;
 
@@ -110,7 +116,7 @@
 
 (vi) Quarters of Social Security coverage.
 
-(b)(3) Officers or employees of the Internal Revenue Service will disclose the following business-related return information reflected on returns of taxpayers to officers and employees of the Bureau of the Census for purposes of, but only to the extent necessary in, conducting and preparing, as authorized by chapter 5 of title 13, United States Code, demographic and economic statistics programs, censuses, and surveys. (The “returns of taxpayers” include, but are not limited to: Form 941; Form 990 series; Form 1040 series and Schedules C and SE; Form 1065 and all attending schedules and Form 8825; Form 1120 series and all attending schedules and Form 8825; Form 851; Form 1096; and other business returns, schedules and forms that the Internal Revenue Service may issue.):
+(3) Officers or employees of the Internal Revenue Service will disclose the following business-related return information reflected on returns of taxpayers to officers and employees of the Bureau of the Census for purposes of, but only to the extent necessary in, conducting and preparing, as authorized by chapter 5 of title 13, United States Code, demographic and economic statistics programs, censuses, and surveys. (The “returns of taxpayers” include, but are not limited to: Form 941; Form 990 series; Form 1040 series and Schedules C and SE; Form 1065 and all attending schedules and Form 8825; Form 1120 series and all attending schedules and Form 8825; Form 851; Form 1096; and other business returns, schedules and forms that the Internal Revenue Service may issue.):
 
 (i) Taxpayer identity information (as defined in section 6103(b)(6)) including parent corporation, shareholder, partner, and employer identity information.
 
@@ -120,7 +126,33 @@
 
 (iv) Cost of labor, salaries, and wages.
 
-(v) Total expenses or deductions.
+(v) Total expenses or deductions, including totals of the following components thereof:
+
+(A) Repairs (and maintenance) expense;
+
+(B) Rents (or lease) expense;
+
+(C) Taxes and licenses expense;
+
+(D) Interest expense, including mortgage or other interest;
+
+(E) Depreciation expense;
+
+(F) Depletion expense;
+
+(G) Advertising expense;
+
+(H) Pension and profit-sharing plans (retirement plans) expense;
+
+(I) Employee benefit programs expense;
+
+(J) Utilities expense;
+
+(K) Supplies expense;
+
+(L) Contract labor expense; and
+
+(M) Management (and investment advisory) fees.
 
 (vi) Total assets.
 
@@ -160,25 +192,51 @@
 
 (xxiv) Gross distributions from employer-sponsored and individual retirement plans from Form 1099-R.
 
-(xxv) From Form 6765 (when filed with corporation income tax returns) - total qualified research expenses.
+(xxv) From Form 6765 (when filed with corporation income tax returns)—
 
-(xxvi) Social Security tip income.
+(A) Indicator that total qualified research expenses is greater than zero, but less than $1 million; greater than or equal to $1 million, but less than $3 million; or, greater than or equal to $3 million;
 
-(xxvii) Total Social Security taxable earnings.
+(B) Cycle posted; and
 
-(xxviii) Gross distributions from employer-sponsored and individual retirement plans from Form 1099-R.
+(C) Research tax credit amount to be carried over to a business return, schedule, or form.
 
-(xxix) Total number of documents reported on Form 1096 transmitting Forms 1099-MISC.
+(xxvi) Total number of documents reported on Form 1096 transmitting Forms 1099-MISC.
 
-(xxx) Total amount reported on Form 1096 transmitting Forms 1099-MISC.
+(xxvii) Total amount reported on Form 1096 transmitting Forms 1099-MISC.
+
+(xxviii) Type of REIT.
+
+(xxix) From Form 1125-A— purchases.
+
+(xxx) From Form 1040, Schedule C—
+
+(A) Purchases less cost of items withdrawn for personal use; and
+
+(B) Materials and supplies.
+
+(xxxi) Electronic filing system indicator.
+
+(xxxii) Posting cycle date relative to filing.
+
+(xxxiii) Dividends, including ordinary or qualified.
+
+(xxxiv) From Form 1120S, Schedule K-1—ordinary business income (loss).
+
+(xxxv) From Form 1065, Schedule K-1—
+
+(A) Publicly-traded partnership indicator;
+
+(B) Partner's share of nonrecourse, qualified nonrecourse, and recourse liabilities; and
+
+(C) Ordinary business income (loss).
 
 (4) Officers or employees of the Internal Revenue Service will disclose return information reflected on returns of taxpayers contained in the exempt organization master files of the Internal Revenue Service to officers and employees of the Bureau of the Census for purposes of, but only to the extent necessary in, conducting and preparing, as authorized by chapter 5 of title 13, United States Code, economic censuses. This return information reflected on returns of taxpayers consists of taxpayer identity information (as defined in section 6103(b)(6)), activity codes, and filing requirement code, and monthly corrections of, and additions to, such information.
 
 (5) Subject to the requirements of paragraph (d) of this section and § 301.6103(p)(2)(B)-1, officers or employees of the Social Security Administration to whom the following return information reflected on returns has been disclosed as provided by section 6103(l)(1)(A) or (l)(5) may disclose such information to officers and employees of the Bureau of the Census for necessary purposes described in paragraph (b)(2) or (3) of this section:
 
-(i) From Form SS-4 - all information reflected on such form.
+(i) From Form SS-4—all information reflected on such form.
 
-(ii) From Form 1040 (Schedule SE) -
+(ii) From Form 1040 (Schedule SE)—
 
 (A) Taxpayer identifying number of self-employed individual;
 
@@ -192,7 +250,7 @@
 
 (F) Taxable self-employment income for purposes of chapter 2.
 
-(iii) From Form W-2, and related forms and schedules -
+(iii) From Form W-2, and related forms and schedules—
 
 (A) Social Security number;
 
@@ -210,7 +268,7 @@
 
 (6)(i) Officers or employees of the Internal Revenue Service will disclose the following return information (but not including return information described in section 6103(o)(2)) reflected on returns of corporations with respect to the tax imposed by chapter 1 to officers and employees of the Bureau of the Census for purposes of, but only to the extent necessary in, developing and preparing, as authorized by law, the Quarterly Financial Report:
 
-(A) From the business master files of the Internal Revenue Service -
+(A) From the business master files of the Internal Revenue Service—
 
 (*1*) Taxpayer identity information (as defined in section 6103(b)(6)), including parent corporation identity information;
 
@@ -230,7 +288,7 @@
 
 (*9*) Total assets.
 
-(B) From Form SS-4 -
+(B) From Form SS-4—
 
 (*1*) Month and year in which such form was executed;
 
@@ -238,11 +296,21 @@
 
 (*3*) Principal industrial activity, geographic, firm size, and reason for application codes.
 
+(C) From Form 1120-REIT—
+
+(*1*) Type of REIT; and
+
+(*2*) Gross rents from real property;
+
+(D) From Form 1120F—corporation's method of accounting.
+
+(E) From Form 1096—total amount reported.
+
 (ii) Subject to the requirements of paragraph (d) of this section and § 301.6103(p)(2)(B)-1, officers or employees of the Social Security Administration to whom return information reflected on returns of corporations described in paragraph (b)(6)(i)(B) of this section has been disclosed as provided by section 6103(l)(1)(A) or (l)(5) may disclose such information to officers and employees of the Bureau of the Census for a purpose described in this paragraph (b)(6).
 
 (iii) Return information reflected on employment tax returns disclosed pursuant to paragraphs (b)(2)(iii) (A), (B), (D), (I) and (J) of this section may be used by officers and employees of the Bureau of the Census for the purpose described in and subject to the limitations of this paragraph (b)(6).
 
-(7) Officers or employees of the Internal Revenue Service will disclose the following return information reflected on Form 1098 “Mortgage Interest Statement” to officers and employees of the Bureau of the Census for purposes of, but only to the extent necessary in, conducting and preparing, as authorized by chapter 5 of title 13, United States Code, demographic statistics programs, censuses, and surveys -
+(7) Officers or employees of the Internal Revenue Service will disclose the following return information reflected on Form 1098 “Mortgage Interest Statement” to officers and employees of the Bureau of the Census for purposes of, but only to the extent necessary in, conducting and preparing, as authorized by chapter 5 of title 13, United States Code, demographic statistics programs, censuses, and surveys—
 
 (i) Payee/Payer/Employee Taxpayer Identification Number;
 
@@ -270,7 +338,7 @@
 
 (3) The Internal Revenue Service will disclose the following return information reflected on returns filed by corporations to officers and employees of the Bureau of Economic Analysis:
 
-(i) From the business master files of the Internal Revenue Service -
+(i) From the business master files of the Internal Revenue Service—
 
 (A) Taxpayer identity information (as defined in section 6103(b)(6)) with respect to corporate taxpayers;
 
@@ -280,7 +348,7 @@
 
 (D) Physical location.
 
-(ii) From Form SS-4, “Application for Employer Identification Number,” filed by an entity identifying itself on the form as a corporation or a private services corporation -
+(ii) From Form SS-4, “Application for Employer Identification Number,” filed by an entity identifying itself on the form as a corporation or a private services corporation—
 
 (A) Taxpayer identity information (as defined in section 6103(b)(6), including legal, trade, and business name);
 
@@ -300,7 +368,7 @@
 
 (I) Document code.
 
-(iii) From an employment tax return filed by a corporation -
+(iii) From an employment tax return filed by a corporation—
 
 (A) Taxpayer identity information (as defined in section 6103(b)(6));
 
@@ -318,7 +386,7 @@
 
 (H) Document code.
 
-(iv) From returns of corporate taxpayers, including Form 1120, “U.S. Corporation Income Tax Return,” Form 851, “Affiliations Schedule,” and other business returns, schedules and forms that the Internal Revenue Service may issue -
+(iv) From returns of corporate taxpayers, including Form 1120, “U.S. Corporation Income Tax Return,” Form 851, “Affiliations Schedule,” and other business returns, schedules and forms that the Internal Revenue Service may issue—
 
 (A) Taxpayer identity information (as defined in section 6103(b)(6)), including that of a parent corporation, affiliate, or subsidiary; a shareholder; a foreign corporation of which one or more U.S. shareholders (as defined in section 951(b)) own at least 10% of the voting stock; a foreign trust; and a U.S. agent of a foreign trust;
 
@@ -364,7 +432,7 @@
 
 (V) Principal industrial activity code.
 
-(d) *Procedures and restrictions.* Disclosure of return information reflected on returns by officers or employees of the Internal Revenue Service or the Social Security Administration as provided by paragraphs (b) and (c) of this section will be made only upon written request to the Commissioner of Internal Revenue by the Secretary of Commerce describing -
+(d) *Procedures and restrictions.* Disclosure of return information reflected on returns by officers or employees of the Internal Revenue Service or the Social Security Administration as provided by paragraphs (b) and (c) of this section will be made only upon written request to the Commissioner of Internal Revenue by the Secretary of Commerce describing—
 
 (1) The particular return information reflected on returns to be disclosed;
 
@@ -374,6 +442,6 @@
 
 (ii) No such officer or employee to whom return information reflected on returns is disclosed pursuant to the provisions of paragraph (b) or (c) of this section shall disclose such information to any person, other than the taxpayer to whom such return information reflected on returns relates or other officers or employees of such bureau whose duties or responsibilities require such disclosure for a purpose described in paragraph (b) or (c) of this section, except in a form which cannot be associated with, or otherwise identify, directly or indirectly, a particular taxpayer. If the Internal Revenue Service determines that the Bureau of the Census or the Bureau of Economic Analysis, or any officer or employee thereof, has failed to, or does not, satisfy the requirements of section 6103(p)(4) of the Internal Revenue Code or regulations or published procedures thereunder (see § 601.601(d)(2) of this chapter), the Internal Revenue Service may take such actions as are deemed necessary to ensure that such requirements are or will be satisfied, including suspension of disclosures of return information reflected on returns otherwise authorized by section 6103 (j)(1) and paragraph (b) or (c) of this section, until the Internal Revenue Service determines that such requirements have been or will be satisfied.
 
-(e) *Effective/applicability date.* Paragraphs (b)(1)(xviii) through (xx) and (b)(7) of this section apply to disclosures to the Bureau of the Census made on or after July 15, 2014. For rules that apply to disclosures to the Bureau of the Census before that date, see 26 CFR 301.6103(j)(1)-1 (revised as of April 1, 2014).
+(e) *Applicability date.* Paragraphs (b)(2)(iii)(I), (b)(2)(iii)(K) through (b)(2)(iii)(M), (b)(3)(v), (b)(3)(xxv) through (b)(3)(xxxv), and (b)(6)(i)(C) through (b)(6)(i)(E) of this section apply to disclosure to the Bureau of the Census made on or after December 9, 2016. For rules that apply to disclosure to the Bureau of the Census before December 9, 2016, see 26 CFR 301.6103(j)(1)-1 (revised as of April 1, 2016).
 
-\[T.D. 9037, 68 FR 2693, Jan. 21, 2003, as amended by T.D. 9188, 70 FR 12141, Mar. 11, 2005; T.D. 9267, 71 FR 38263, July 6, 2006; T.D. 9372, 72 FR 73262, Dec. 27, 2007; T.D. 9439, 73 FR 79361, Dec. 29, 2008; T.D. 9500, 75 FR 52459, Aug. 26, 2010; T.D. 9631, 78 FR 52857, Aug. 27, 2013 T.D. 9754, 81 FR 9767, Feb. 26, 2016\]
+\[T.D. 9037, 68 FR 2693, Jan. 21, 2003, as amended by T.D. 9188, 70 FR 12141, Mar. 11, 2005; T.D. 9267, 71 FR 38263, July 6, 2006; T.D. 9372, 72 FR 73262, Dec. 27, 2007; T.D. 9439, 73 FR 79361, Dec. 29, 2008; T.D. 9500, 75 FR 52459, Aug. 26, 2010; T.D. 9631, 78 FR 52857, Aug. 27, 2013 T.D. 9754, 81 FR 9767, Feb. 26, 2016; T.D. 9856, 84 FR 14011, Apr. 9, 2019\]
