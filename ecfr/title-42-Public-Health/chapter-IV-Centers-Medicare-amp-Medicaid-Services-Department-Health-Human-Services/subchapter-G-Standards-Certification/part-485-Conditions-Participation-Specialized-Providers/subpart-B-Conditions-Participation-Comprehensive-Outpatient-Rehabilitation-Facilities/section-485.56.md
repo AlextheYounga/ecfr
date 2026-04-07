@@ -4,7 +4,7 @@ The facility must have a governing body that assumes full legal responsibility f
 
 (a) *Standard: Disclosure of ownership.* The facility must comply with the provisions of part 420, subpart C of this chapter that require health care providers and fiscal agents to disclose certain information about ownership and control.
 
-(b) *Standard: Administrator.* The governing body must appoint an administrator who -
+(b) *Standard: Administrator.* The governing body must appoint an administrator who—
 
 (1) Is responsible for the overall management of the facility under the authority delegated by the governing body;
 
@@ -14,7 +14,7 @@ The facility must have a governing body that assumes full legal responsibility f
 
 (4) Retains professional and administrative responsibility for all personnel providing facility services.
 
-(c) *Standard: Group of professional personnel.* The facility must have a group of professional personnel associated with the facility that -
+(c) *Standard: Group of professional personnel.* The facility must have a group of professional personnel associated with the facility that—
 
 (1) Develops and periodically reviews policies to govern the services provided by the facility; and
 
@@ -24,7 +24,7 @@ The facility must have a governing body that assumes full legal responsibility f
 
 (1) It is prepared, under the direction of the governing body, by a committee consisting of representatives of the governing body and the administrative staff.
 
-(2) It provides for -
+(2) It provides for—
 
 (i) An annual operating budget prepared according to generally accepted accounting principles;
 
@@ -46,7 +46,7 @@ The facility must have a governing body that assumes full legal responsibility f
 
 (6) A procedure for explaining to the patient and the patient's family the extent and purpose of the services to be provided.
 
-(7) A procedure to assist the referring physician in locating another level of care for - patients whose treatment has terminated and who are discharged.
+(7) A procedure to assist the referring physician in locating another level of care for—patients whose treatment has terminated and who are discharged.
 
 (8) A requirement that patients accepted by the facility must be under the care of a physician.
 
@@ -78,4 +78,4 @@ The facility must have a governing body that assumes full legal responsibility f
 
 (iv) Must state that only the facility may bill the Medicare program; and
 
-(v) May not include clauses that state or imply that the contractor has power and authority to act on behalf of the facility, or clauses that give the contractor rights, duties, discretions, or responsibilities that enable it to dictate the administration, mangement, or operations of the facility.
+(v) May not include clauses that state or imply that the contractor has power and authority to act on behalf of the facility, or clauses that give the contractor rights, duties, discretions, or responsibilities that enable it to dictate the administration, management, or operations of the facility.
