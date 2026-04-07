@@ -1,5 +1,7 @@
 ##### § 1.601 Qualifications for access.
 
+Link to an amendment published at 87 FR 37749, June 24, 2022.
+
 (a) An applicant for read-only access to VBA automated claims records from a location other than a VA Regional Office must be:
 
 (1) An organization, representative, attorney or agent approved or accredited by VA under §§ 14.626 through 14.635; or

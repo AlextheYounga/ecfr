@@ -1,5 +1,7 @@
 ##### § 1.603 Disqualification.
 
+Link to an amendment published at 87 FR 37750, June 24, 2022.
+
 (a) The Regional Office Director or the Regional Office Director's designee may revoke an individual's or an organization's access privileges to a particular claimant's records because the individual or organization no longer represents the claimant, and, therefore, the beneficiary's consent is no longer in effect. The individual or organization is no longer entitled to access as a matter of law under the Privacy Act, 5 U.S.C. 552a, and 38 U.S.C. 5701 and 7332. Under these circumstances, the individual or organization is not entitled to any hearing or to present any evidence in opposition to the revocation.
 
 (b) The Regional Office Director or the Regional Office Director's designee may revoke an individual's or an organization's access privileges either to an individual claimant's records or to all claimants' records in the VBA automated claims benefits systems if the individual or organization:

@@ -1,5 +1,7 @@
 ##### § 1.600 Purpose.
 
+Link to an amendment published at 87 FR 37749, June 24, 2022.
+
 (a) Sections 1.600 through 1.603 establish policy, assign responsibilities and prescribe procedures with respect to:
 
 (1) When, and under what circumstances, VA will grant authorized claimants' representatives read-only access to the automated Veterans Benefits Administration (VBA) claims records of those claimants whom they represent;

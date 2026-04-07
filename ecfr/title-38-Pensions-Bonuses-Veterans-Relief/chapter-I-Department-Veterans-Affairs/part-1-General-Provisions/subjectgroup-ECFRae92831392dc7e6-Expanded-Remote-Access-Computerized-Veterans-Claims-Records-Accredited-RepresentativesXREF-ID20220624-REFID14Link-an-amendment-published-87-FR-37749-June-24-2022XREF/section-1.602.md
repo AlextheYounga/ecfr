@@ -1,5 +1,7 @@
 ##### § 1.602 Utilization of access.
 
+Link to an amendment published at 87 FR 37750, June 24, 2022.
+
 (a) Once an individual or organization has been issued the necessary passwords to obtain read-only access to the automated claims records of individuals represented, access will be exercised in accordance with the following requirements:
 
 (1) The individual or organization will obtain access only from equipment and software approved in advance by the Regional Office from the location where the individual or organization primarily conducts its representation activities which also has been approved in advance;
