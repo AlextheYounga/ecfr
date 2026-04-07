@@ -8,9 +8,9 @@
 
 (ii) Each letter of conditions will contain the following paragraphs:
 
-This letter establishes conditions which must be understood and agreed to by you before further consideration may be given to the application. Any changes in the project cost, source of funds, scope of services, or any other significant changes in the project or applicant must be reported to and approved by RDwritten amendment to this letter. Any changes not approved by RD shall be cause for discontinuing processing of the application.
+This letter establishes conditions which must be understood and agreed to by you before further consideration may be given to the application. Any changes in the project cost, source of funds, scope of services, or any other significant changes in the project or applicant must be reported to and approved by RD written amendment to this letter. Any changes not approved by RD shall be cause for discontinuing processing of the application.
 
-This letter is not to be considered as loan approval or as representation to the availability of funds. The docket may be completed on the basis of a loan not to exceed $\_\_\_.
+This letter is not to be considered as loan approval or as representation to the availability of funds. The docket may be completed on the basis of a loan not to exceed $\_\_\_\_\_\_.
 
 If (insert agency name) makes the loan, you may make a written request that the interest rate be the lower of the rate in effect at the time of loan approval or the time of loan closing. If you do not request the lower of the two interest rates, the interest rate charged will be the rate in effect at the time of loan approval. The loan will be considered approved on the date a signed copy of Form RD 1940-1, “Request for Obligation of Funds,” is mailed to you. If you want the lower of the two rates, your written request should be submitted to RD as soon as practical. In order to avoid possible delays in loan closing such a request should ordinarily be submitted at least 30 calendar days before loan closing.
 
@@ -18,7 +18,7 @@ Please complete and return the attached Form RD 1942-46, “Letter of Intent to 
 
 (iii) Rural Development Managers may add the following:
 
-If the conditions set forth in this letter are not met within \_\_\_ days from the date hereof, FmHA or its successor agency under Public Law 103-354 reserves the right to discontinue the processing of the application.
+If the conditions set forth in this letter are not met within \_\_\_\_\_\_ days from the date hereof, FmHA or its successor agency under Public Law 103-354 reserves the right to discontinue the processing of the application.
 
 (2) The State staff engineer or architect, as appropriate, will include a written analysis and recommendations on the project summary.
 
