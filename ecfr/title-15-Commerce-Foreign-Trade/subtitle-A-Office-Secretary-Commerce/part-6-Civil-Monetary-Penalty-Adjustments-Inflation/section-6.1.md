@@ -2,7 +2,7 @@
 
 (a) The *Department of Commerce* means the United States Department of Commerce.
 
-(b) *Civil Monetary Penalty* means any penalty, fine, or other sanction that:
+(b) *Civil monetary penalty* means any penalty, fine, or other sanction that:
 
 (1) Is for a specific monetary amount as provided by Federal law, or has a maximum amount provided for by Federal law; and
 

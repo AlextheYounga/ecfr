@@ -1,5 +1,7 @@
 ##### § 1206.260 What general transportation allowance requirements apply to me?
 
+Link to an amendment published at 86 FR 4658, Jan. 15, 2021.
+
 (a)(1) ONRR will allow a deduction for the reasonable, actual costs to transport coal from the lease to the point off of the lease or mine as determined under § 1206.261 or § 1206.262, as applicable.
 
 (2) You do not need ONRR's approval before reporting a transportation allowance for costs incurred.

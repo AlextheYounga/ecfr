@@ -1,4 +1,4 @@
-##### § 42.400 Procedure; pendency
+##### § 42.400 Procedure; pendency.
 
 (a) A derivation proceeding is a trial subject to the procedures set forth in subpart A of this part.
 
