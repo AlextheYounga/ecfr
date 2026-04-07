@@ -176,9 +176,7 @@
 
 (v) *Ownership cap.* Have an ownership interest in more than 5 percent of the total number of vessels issued limited access scallop permits and confirmations of permit history, except as provided in § 648.4(a)(2)(i)(M).
 
-(vi) *Closed area requirements* -
-
-(A) *Habitat Management Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the Habitat Management Areas specified in § 648.370.
+(vi) *Closed area requirements* - (A) *Habitat Management Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the Habitat Management Areas specified in § 648.370.
 
 (*2*) Transit or enter the Habitat Management Areas specified in § 648.370, except as provided by § 648.61(b).
 
@@ -316,7 +314,7 @@
 
 (i) *Possession and landing.* (A) Fish for or land per trip, or possess at any time, in excess of the possession and landing limits described in § 648.52(a).
 
-(B) \[Reserved}
+(B) \[Reserved\]
 
 (C) Declare into the NGOM scallop management area and fish against the NGOM Set-Aside after the effective date of a notification published in the Federal Register stating that after the NGOM Set-Aside has been harvested as specified in § 648.62, unless the vessel is fishing exclusively in state waters, declared a state-waters only NGOM trip, and is participating in an approved state waters exemption program as specified in § 648.54, or unless the vessel is participating in the scallop RSA program as specified in § 648.56.
 
