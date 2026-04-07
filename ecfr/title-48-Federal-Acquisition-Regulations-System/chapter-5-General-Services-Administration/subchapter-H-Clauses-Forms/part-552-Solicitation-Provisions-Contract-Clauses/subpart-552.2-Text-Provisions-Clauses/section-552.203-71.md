@@ -1,6 +1,6 @@
 ##### 552.203-71 Restriction on Advertising.
 
-As prescribed in 503.570-2, insert the following clause: 
+As prescribed in 503.570-2, insert the following clause:
 
 Restriction on Advertising (SEP 1999)
 

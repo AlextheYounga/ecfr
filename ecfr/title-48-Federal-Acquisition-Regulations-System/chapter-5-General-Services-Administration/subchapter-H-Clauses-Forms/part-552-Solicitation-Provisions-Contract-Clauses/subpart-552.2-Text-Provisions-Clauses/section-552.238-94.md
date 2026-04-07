@@ -1,6 +1,6 @@
 ##### 552.238-94 Accelerated Delivery Requirements.
 
-As prescribed in 538.273(d)(18), insert the following clause: 
+As prescribed in 538.273(d)(18), insert the following clause:
 
 Accelerated Delivery Requirements (MAY 2019)
 

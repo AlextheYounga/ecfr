@@ -1,6 +1,6 @@
 ##### 552.211-79 Acceptable Age of Supplies.
 
-As prescribed in 511.404(a)(1), insert the following clause: 
+As prescribed in 511.404(a)(1), insert the following clause:
 
 Acceptable Age of Supplies (FEB 1996)
 
@@ -8,7 +8,7 @@ The supplies furnished under this contract shall not be more than \_\_\_\_ month
 
 (End of clause)
 
-*Alternate I* (FEB 1996). As prescribed in 511.404(a)(1)(i), substitute the following sentence for the first sentence of the basic clause: 
+*Alternate I* (FEB 1996). As prescribed in 511.404(a)(1)(i), substitute the following sentence for the first sentence of the basic clause:
 
 The supplies furnished under this contract shall not be more than \_\_\_\_ days old, beginning with the date of manufacture (month, day, year) marked on the container.
 

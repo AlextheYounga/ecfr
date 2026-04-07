@@ -1,6 +1,6 @@
 ##### 552.238-79 Cancellation.
 
-As prescribed in 538.273(d)(3), insert the following clause: 
+As prescribed in 538.273(d)(3), insert the following clause:
 
 Cancellation (MAY 2019)
 

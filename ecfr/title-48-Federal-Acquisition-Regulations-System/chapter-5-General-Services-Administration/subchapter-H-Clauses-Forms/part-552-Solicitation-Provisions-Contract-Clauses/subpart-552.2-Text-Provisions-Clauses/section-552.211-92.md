@@ -1,6 +1,6 @@
 ##### 552.211-92 Radio Frequency Identification (RFID) Using Passive Tags.
 
-As prescribed in 511.204(b)(11), insert the following clause: 
+As prescribed in 511.204(b)(11), insert the following clause:
 
 Radio Frequency Identification (RFID) Using Passive Tags (JAN 2010)
 

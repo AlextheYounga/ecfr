@@ -1,6 +1,6 @@
 ##### 552.238-72 Information Collection Requirements.
 
-As prescribed in 538.273(a)(3), insert the following provision: 
+As prescribed in 538.273(a)(3), insert the following provision:
 
 Information Collection Requirements (MAY 2019)
 

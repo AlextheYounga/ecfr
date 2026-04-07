@@ -1,21 +1,21 @@
 ##### § 573.500 Condensed, extracted glutamic acid fermentation product.
 
-Condensed, extracted glutamic acid fermentation product may be safely used in animal feed under the following conditions:
+Condensed, extracted glutamic acid fermentation product may be safely used in animal feed under the following conditions: 
 
-(a) The additive is a concentrated mixture of the liquor remaining from the extraction of glutamic acid, combined with the cells of *Corynebacterium glutamicum* used to produce the glutamic acid.
+(a) The additive is a concentrated mixture of the liquor remaining from the extraction of glutamic acid, combined with the cells of *Corynebacterium glutamicum* used to produce the glutamic acid. 
 
-(b) It is used or intended for use as follows:
+(b) It is used or intended for use as follows: 
 
-(1) In poultry feed as a source of protein in an amount not to exceed 5 percent of the total ration.
+(1) In poultry feed as a source of protein in an amount not to exceed 5 percent of the total ration. 
 
-(2) In cattle feed as a source of protein in an amount not to exceed 10 percent of the feed.
+(2) In cattle feed as a source of protein in an amount not to exceed 10 percent of the feed. 
 
-(c) In order to assure safe use, the label and labeling of the additive shall bear, in addition to the other information required by the Act, the following:
+(c) In order to assure safe use, the label and labeling of the additive shall bear, in addition to the other information required by the Act, the following: 
 
-(1) The name of the additive.
+(1) The name of the additive. 
 
-(2) A statement of the concentration of the additive contained in any mixture.
+(2) A statement of the concentration of the additive contained in any mixture. 
 
-(3) Adequate directions for use.
+(3) Adequate directions for use. 
 
 \[41 FR 38652, Sept. 10, 1976, as amended at 89 FR 33231, Apr. 29, 2024\]

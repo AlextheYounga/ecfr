@@ -1,6 +1,6 @@
 ##### 552.270-15 Liquidated Damages.
 
-As prescribed in 570.703, insert the following clause: 
+As prescribed in 570.703, insert the following clause:
 
 Liquidated Damages (SEP 1999)
 

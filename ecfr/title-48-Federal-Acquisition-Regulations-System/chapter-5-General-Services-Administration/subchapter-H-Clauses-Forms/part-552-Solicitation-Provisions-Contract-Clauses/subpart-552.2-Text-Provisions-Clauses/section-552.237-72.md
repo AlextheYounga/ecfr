@@ -1,6 +1,6 @@
 ##### 552.237-72 Prohibition Regarding “Quasi-Military Armed Forces.”
 
-As prescribed in 537.110(b), insert the following clause: 
+As prescribed in 537.110(b), insert the following clause:
 
 Prohibition Regarding “Quasi-Military Armed Forces” (SEP 1999)
 

@@ -1,6 +1,6 @@
 ##### 552.270-8 Compliance with Applicable Law.
 
-As prescribed in 570.703, insert the following clause: 
+As prescribed in 570.703, insert the following clause:
 
 Compliance With Applicable Law (SEP 1999)
 

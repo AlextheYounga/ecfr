@@ -1,6 +1,6 @@
 ##### 552.238-90 Characteristics of Electric Current.
 
-As prescribed in 538.273(d)(14), insert the following clause: 
+As prescribed in 538.273(d)(14), insert the following clause:
 
 Characteristics of Electric Current (MAY 2019)
 

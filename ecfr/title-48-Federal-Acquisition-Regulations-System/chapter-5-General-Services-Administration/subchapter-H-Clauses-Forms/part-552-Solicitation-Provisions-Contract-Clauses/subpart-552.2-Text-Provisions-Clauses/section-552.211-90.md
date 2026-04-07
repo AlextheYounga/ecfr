@@ -1,6 +1,6 @@
 ##### 552.211-90 Small Parts.
 
-As prescribed in 511.204(b)(9), insert the following clause: 
+As prescribed in 511.204(b)(9), insert the following clause:
 
 Small Parts (JAN 2010)
 
