@@ -8,4 +8,4 @@ You must comply with the requirements in this part for—
 
 (c) Coal reclamation projects by certified States and Indian tribes required to maintain certification under section 411(a) of SMCRA and the agreement required by §§ 875.13(a)(3) and 875.14(b) of this chapter to maintain that certification.
 
-\[73 FR 67639, Nov. 14, 2008\]
+\[73 FR 67639, Nov. 14, 2008\] Link to an amendment published at 90 FR 54583, Nov. 28, 2025.

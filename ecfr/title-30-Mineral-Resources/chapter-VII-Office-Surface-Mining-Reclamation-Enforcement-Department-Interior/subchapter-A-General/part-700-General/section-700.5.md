@@ -1,6 +1,6 @@
 ##### § 700.5 Definitions.
 
-As used throughout this chapter, the following terms have the specified meaning except where otherwise indicated—
+As used throughout this chapter, the following terms have the specified meaning except where otherwise indicated—*Act*Federal Register.2/3
 
 *Act* means the Surface Mining Control and Reclamation Act of 1977 (Pub. L. 95-87).
 

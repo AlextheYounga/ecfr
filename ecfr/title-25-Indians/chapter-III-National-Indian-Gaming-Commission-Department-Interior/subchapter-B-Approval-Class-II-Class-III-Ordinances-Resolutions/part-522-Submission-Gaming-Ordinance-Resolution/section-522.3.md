@@ -11,3 +11,5 @@ Link to an amendment published at 90 FR 46756, Sept. 30, 2025.
 (2) Any submission under § 522.2(b) through (h) that has been modified since it prior conveyance to the Chair for an ordinance, resolution, or amendment approval; and
 
 (3) A conforming copy of the entire ordinance or resolution.
+
+\[87 FR 57593, Sept. 21, 2022, as amended at 90 FR 46756, Sept. 30, 2025\]

@@ -1,6 +1,6 @@
 ##### § 875.15 Reclamation priorities for noncoal program.
 
-(a) This section applies to reclamation projects involving the restoration of lands and water adversely affected by past mineral mining; projects involving the protection, repair, replacement, construction, or enhancement of utilities (such as those relating to water supply, roads, and other such facilities serving the public adversely affected by mineral mining and processing practices); and the construction of public facilities in communities impacted by coal or other mineral mining and processing practices.
+(a) This section applies to reclamation projects involving the restoration of lands and water adversely affected by past mineral mining; projects involving the protection, repair, replacement, construction, or enhancement of utilities (such as those relating to water supply, roads, and other such facilities serving the public adversely affected by mineral mining and processing practices); and the construction of public facilities in communities impacted by coal or other mineral mining and processing practices.Federal Register
 
 (b) Following certification pursuant to § 875.13, the projects and construction of public facilities identified in paragraph (a) of this section shall reflect the following priorities in the order stated:
 

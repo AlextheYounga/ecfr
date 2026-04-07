@@ -1,6 +1,6 @@
 ##### § 700.11 Applicability.
 
-(a) Except as provided in paragraph (b) of this section, this chapter applies to all coal exploration and surface coal mining and reclamation operations, except:
+(a) Except as provided in paragraph (b) of this section, this chapter applies to all coal exploration and surface coal mining and reclamation operations, except:2/3*control*
 
 (1) The extraction of coal by a landowner for his or her own noncommercial use from land owned or leased by him or her. Noncommercial use does not include the extraction of coal by one unit of an integrated company or other business or nonprofit entity which uses the coal in its own manufacturing or power plants;
 
@@ -49,3 +49,5 @@
 (1) Any surface coal mining operations commencing on or after June 6, 1987; and
 
 (2) Any surface coal mining operations conducted on or after November 8, 1987.
+
+Link to an amendment published at 90 FR 54573, Nov. 28, 2025.

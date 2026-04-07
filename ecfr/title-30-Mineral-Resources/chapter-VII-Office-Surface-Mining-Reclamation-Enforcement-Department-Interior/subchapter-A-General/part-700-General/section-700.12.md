@@ -1,6 +1,6 @@
 ##### § 700.12 Petitions to initiate rulemaking.
 
-(a) Any person may petition the Director to initiate a proceeding for the issuance, amendment, or repeal of any regulation under the Act. The petition shall be submitted to the Office of the Director, Office of Surface Mining Reclamation and Enforcement, Department of the Interior, Washington, DC 20240.
+(a) Any person may petition the Director to initiate a proceeding for the issuance, amendment, or repeal of any regulation under the Act. The petition shall be submitted to the Office of the Director, Office of Surface Mining Reclamation and Enforcement, Department of the Interior, Washington, DC 20240.Federal Register
 
 (b) The petition shall be a concise statement of the facts, technical justification, and law which require issuance, amendment, or repeal of a regulation under the Act and shall indicate whether the petitioner desires a public hearing.
 

@@ -1,6 +1,6 @@
 ##### § 522.13 Revocation of class III gaming.
 
-A governing body of a tribe, in its sole discretion and without the approval of the Chair, may adopt an ordinance or resolution revoking any prior ordinance or resolution that authorizes class III gaming.
+A governing body of a tribe, in its sole discretion and without the approval of the Chair, may adopt an ordinance or resolution revoking any prior ordinance or resolution that authorizes class III gaming.Federal Register
 
 (a) A tribe shall submit to the Chair one copy of any revocation ordinance or resolution certified as authentic by an authorized tribal official.
 

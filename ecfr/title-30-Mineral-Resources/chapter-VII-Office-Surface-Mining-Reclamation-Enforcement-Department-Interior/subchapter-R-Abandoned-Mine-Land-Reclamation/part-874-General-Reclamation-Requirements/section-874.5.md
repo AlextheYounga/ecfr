@@ -1,6 +1,6 @@
 ##### § 874.5 Definitions.
 
-As used in this Part—
+As used in this Part—*Reclamation plan*
 
 *Reclamation plan* or *State reclamation plan* means a plan that a State or Indian tribe submitted and that we approved under section 405 of SMCRA and part 884 of this chapter.
 

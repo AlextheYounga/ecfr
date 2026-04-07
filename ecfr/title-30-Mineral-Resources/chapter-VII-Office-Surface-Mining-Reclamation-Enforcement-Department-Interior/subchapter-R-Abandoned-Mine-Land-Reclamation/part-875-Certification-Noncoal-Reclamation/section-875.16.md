@@ -10,4 +10,4 @@
 
 (3) Certified in lieu funds distributed to you under section 411(h)(2) of the Act where you are conducting reclamation under the provisions of this part.
 
-\[73 FR 67640, Nov. 14, 2008, as amended at 80 FR 6446, Feb. 5, 2015\]
+\[73 FR 67640, Nov. 14, 2008, as amended at 80 FR 6446, Feb. 5, 2015\] Link to an amendment published at 90 FR 54585, Nov. 28, 2025.

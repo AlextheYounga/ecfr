@@ -1,6 +1,6 @@
 ##### § 874.13 Reclamation objectives and priorities.
 
-(a) When you conduct reclamation projects under this part you may follow OSM's “Final Guidelines for Reclamation Programs and Projects” (66 FR 31250, June 11, 2001) and the expenditures must reflect the following priorities in the order stated:
+(a) When you conduct reclamation projects under this part you may follow OSM's “Final Guidelines for Reclamation Programs and Projects” (66 FR 31250, June 11, 2001) and the expenditures must reflect the following priorities in the order stated:*Priority 1:*
 
 (1) *Priority 1:* The protection of public health, safety, and property from extreme danger of adverse effects of coal mining practices, including the restoration of land and water resources and the environment that:
 

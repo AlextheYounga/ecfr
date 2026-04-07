@@ -19,3 +19,5 @@ A tribe shall submit to the Chair via electronic or physical mail all of the fol
 (g) Identification of the entity that will take fingerprints and a copy of the procedures for conducting a criminal history check. Such a criminal history check shall include a check of criminal history records information maintained by the Federal Bureau of Investigation.
 
 (h) A tribe shall provide Indian lands or tribal gaming regulations or environmental and public health and safety documentation that the Chair may request in the Chair's discretion. The tribe shall have 30 days from receipt of a request for additional documentation to respond.
+
+\[90 FR 46755, Sept. 30, 2025\]

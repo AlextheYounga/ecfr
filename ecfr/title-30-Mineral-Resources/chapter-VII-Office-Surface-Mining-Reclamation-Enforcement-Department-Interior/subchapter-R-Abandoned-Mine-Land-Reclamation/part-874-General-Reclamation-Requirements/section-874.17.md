@@ -1,6 +1,6 @@
 ##### § 874.17 AML agency procedures for reclamation projects receiving less than 50 percent government funding.
 
-This section tells you, the AML agency, what to do when considering an abandoned mine land reclamation project as government-financed construction under part 707 of this chapter. This section only applies if the level of funding for the construction will be less than 50 percent of the total cost because of planned coal extraction.
+This section tells you, the AML agency, what to do when considering an abandoned mine land reclamation project as government-financed construction under part 707 of this chapter. This section only applies if the level of funding for the construction will be less than 50 percent of the total cost because of planned coal extraction.*Consultation with the Title V regulatory authority.*
 
 (a) *Consultation with the Title V regulatory authority.* In consultation with the Title V regulatory authority, you must make the following determinations:
 

@@ -1,6 +1,8 @@
 ##### § 870.13 Fee rates.
 
-(a) *Fees for coal produced for sale, transfer, or use from October 1, 2012, through September 30, 2021.* The fees for coal produced for sale, transfer, or use from October 1, 2012, through September 30, 2021, are shown in the following table: 
+Link to an amendment published at 90 FR 54581, Nov. 28, 2025.
+
+(a) *Fees for coal produced for sale, transfer, or use from October 1, 2012, through September 30, 2021.* The fees for coal produced for sale, transfer, or use from October 1, 2012, through September 30, 2021, are shown in the following table:
 
 | Type of fee                            | Type of coal                                                        | Amount of fee                                                                                                                                                  |
 | -------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -12,7 +14,7 @@
 | (4) In situ coal mining fee            | All types other than lignite                                        | 12 cents per ton based on Btus per ton in place equated to the gas produced at the site as certified through analysis by an independent laboratory.            |
 | (5) In situ coal mining fee            | Lignite                                                             | 8 cents per ton based on the Btus per ton of coal in place equated to the gas produced at the site as certified through analysis by an independent laboratory. |
 
-(b) *Fees for coal produced for sale, transfer, or use from October 1, 2021, through September 30, 2034.* Fees for coal produced for sale, transfer, or use from October 1, 2021, through September 30, 2034, are shown in the following table: 
+(b) *Fees for coal produced for sale, transfer, or use from October 1, 2021, through September 30, 2034.* Fees for coal produced for sale, transfer, or use from October 1, 2021, through September 30, 2034, are shown in the following table:
 
 | Type of fee                            | Type of coal                                                   | Amount of fee                                                                                                                                                    |
 | -------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |

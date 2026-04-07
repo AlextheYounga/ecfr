@@ -1,6 +1,6 @@
 ##### § 875.13 Certification of completion of coal sites.
 
-(a) The Governor of a State, or the equivalent head of an Indian tribe, may submit to the Secretary a certification of completion of coal sites. The certification must express the finding that the State or Indian tribe has achieved all existing known coal-related reclamation objectives for eligible lands and waters under section 404 of SMCRA or has instituted the necessary processes to reclaim any remaining coal related problems. In addition to the above finding, the certification of completion must contain:
+(a) The Governor of a State, or the equivalent head of an Indian tribe, may submit to the Secretary a certification of completion of coal sites. The certification must express the finding that the State or Indian tribe has achieved all existing known coal-related reclamation objectives for eligible lands and waters under section 404 of SMCRA or has instituted the necessary processes to reclaim any remaining coal related problems. In addition to the above finding, the certification of completion must contain:Federal Register
 
 (1) A description of both the rationale and the process used to arrive at the above finding for the completion of all coal-related reclamation under section 403(a)(1) through (3).
 
