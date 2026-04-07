@@ -1,53 +1,55 @@
 ##### § 142.47 Training center instructor eligibility requirements.
 
-(a) A certificate holder may not employ a person as an instructor in a flight training course that is subject to approval by the Administrator unless that person—
+Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
 
-(1) Is at least 18 years of age;
+(a) A certificate holder may not employ a person as an instructor in a flight training course that is subject to approval by the Administrator unless that person— 
 
-(2) Is able to read, write, and speak and understand in the English language;
+(1) Is at least 18 years of age; 
 
-(3) If instructing in an aircraft in flight, is qualified in accordance with subpart H of part 61 of this chapter;
+(2) Is able to read, write, and speak and understand in the English language; 
 
-(4) Satisfies the requirements of paragraph (c) of this section; and
+(3) If instructing in an aircraft in flight, is qualified in accordance with subpart H of part 61 of this chapter; 
 
-(5) Meets at least one of the following requirements—
+(4) Satisfies the requirements of paragraph (c) of this section; and 
 
-(i) Except as allowed by paragraph (a)(5)(ii) of this section, meets the aeronautical experience requirements of § 61.129 (a), (b), (c), or (e) of this chapter, as applicable, excluding the required hours of instruction in preparation for the commercial pilot practical test;
+(5) Meets at least one of the following requirements— 
 
-(ii) If instructing in flight simulator or flight training device that represents an airplane requiring a type rating or if instructing in a curriculum leading to the issuance of an airline transport pilot certificate or an added rating to an airline transport pilot certificate, meets the aeronautical experience requirements of § 61.159, § 61.161, or § 61.163 of this chapter, as applicable; or
+(i) Except as allowed by paragraph (a)(5)(ii) of this section, meets the aeronautical experience requirements of § 61.129 (a), (b), (c), or (e) of this chapter, as applicable, excluding the required hours of instruction in preparation for the commercial pilot practical test; 
 
-(iii) Is employed as a flight simulator instructor or a flight training device instructor for a training center providing instruction and testing to meet the requirements of part 61 of this chapter on August 1, 1996.
+(ii) If instructing in flight simulator or flight training device that represents an airplane requiring a type rating or if instructing in a curriculum leading to the issuance of an airline transport pilot certificate or an added rating to an airline transport pilot certificate, meets the aeronautical experience requirements of § 61.159, § 61.161, or § 61.163 of this chapter, as applicable; or 
 
-(b) A training center must designate each instructor in writing to instruct in each approved course, prior to that person functioning as an instructor in that course.
+(iii) Is employed as a flight simulator instructor or a flight training device instructor for a training center providing instruction and testing to meet the requirements of part 61 of this chapter on August 1, 1996. 
 
-(c) Prior to initial designation, each instructor shall:
+(b) A training center must designate each instructor in writing to instruct in each approved course, prior to that person functioning as an instructor in that course. 
 
-(1) Complete at least 8 hours of ground training on the following subject matter:
+(c) Prior to initial designation, each instructor shall: 
 
-(i) Instruction methods and techniques.
+(1) Complete at least 8 hours of ground training on the following subject matter: 
 
-(ii) Training policies and procedures.
+(i) Instruction methods and techniques. 
 
-(iii) The fundamental principles of the learning process.
+(ii) Training policies and procedures. 
 
-(iv) Instructor duties, privileges, responsibilities, and limitations.
+(iii) The fundamental principles of the learning process. 
 
-(v) Proper operation of simulation controls and systems.
+(iv) Instructor duties, privileges, responsibilities, and limitations. 
 
-(vi) Proper operation of environmental control and warning or caution panels.
+(v) Proper operation of simulation controls and systems. 
 
-(vii) Limitations of simulation.
+(vi) Proper operation of environmental control and warning or caution panels. 
 
-(viii) Minimum equipment requirements for each curriculum.
+(vii) Limitations of simulation. 
 
-(ix) Revisions to the training courses.
+(viii) Minimum equipment requirements for each curriculum. 
 
-(x) Cockpit resource management and crew coordination.
+(ix) Revisions to the training courses. 
 
-(2) Satisfactorily complete a written test—
+(x) Cockpit resource management and crew coordination. 
 
-(i) On the subjects specified in paragraph (c)(1) of this section; and
+(2) Satisfactorily complete a written test— 
 
-(ii) That is accepted by the Administrator as being of equivalent difficulty, complexity, and scope as the tests provided by the Administrator for the flight instructor airplane and instrument flight instructor knowledge tests.
+(i) On the subjects specified in paragraph (c)(1) of this section; and 
+
+(ii) That is accepted by the Administrator as being of equivalent difficulty, complexity, and scope as the tests provided by the Administrator for the flight instructor airplane and instrument flight instructor knowledge tests. 
 
 \[Doc. No. 26933, 61 FR 34562, July 2, 1996, as amended by Amdt. 142-2, 62 FR 68137, Dec. 30, 1997\]

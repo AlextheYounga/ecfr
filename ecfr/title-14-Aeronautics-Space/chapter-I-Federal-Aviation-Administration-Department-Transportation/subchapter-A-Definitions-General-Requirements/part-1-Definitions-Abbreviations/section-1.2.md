@@ -1,243 +1,245 @@
 ##### § 1.2 Abbreviations and symbols.
 
-In Subchapters A through K of this chapter:
+Link to an amendment published at 89 FR 92483, Nov. 21, 2024.
 
-*AFM* means airplane flight manual.
+In Subchapters A through K of this chapter: 
 
-*AGL* means above ground level.
+*AFM* means airplane flight manual. 
 
-*ALS* means approach light system.
+*AGL* means above ground level. 
 
-*APU* means auxiliary power unit.
+*ALS* means approach light system. 
 
-*ASR* means airport surveillance radar.
+*APU* means auxiliary power unit. 
 
-*ATC* means air traffic control.
+*ASR* means airport surveillance radar. 
 
-*ATS* means Air Traffic Service.
+*ATC* means air traffic control. 
 
-*CAMP* means continuous airworthiness maintenance program.
+*ATS* means Air Traffic Service. 
 
-*CAS* means calibrated airspeed.
+*CAMP* means continuous airworthiness maintenance program. 
 
-*CAT II* means Category II.
+*CAS* means calibrated airspeed. 
 
-*CMP* means configuration, maintenance, and procedures.
+*CAT II* means Category II. 
 
-*DH* means decision height.
+*CMP* means configuration, maintenance, and procedures. 
 
-*DME* means distance measuring equipment compatible with TACAN.
+*DH* means decision height. 
 
-*EAS* means equivalent airspeed.
+*DME* means distance measuring equipment compatible with TACAN. 
 
-*EFVS* means enhanced flight vision system.
+*EAS* means equivalent airspeed. 
 
-*Equi-Time Point* means a point on the route of flight where the flight time, considering wind, to each of two selected airports is equal.
+*EFVS* means enhanced flight vision system. 
 
-*ETOPS* means extended operations.
+*Equi-Time Point* means a point on the route of flight where the flight time, considering wind, to each of two selected airports is equal. 
 
-*EWIS*, as defined by § 25.1701 of this chapter, means electrical wiring interconnection system.
+*ETOPS* means extended operations. 
 
-*FAA* means Federal Aviation Administration.
+*EWIS*, as defined by § 25.1701 of this chapter, means electrical wiring interconnection system. 
 
-*FFS* means full flight simulator.
+*FAA* means Federal Aviation Administration. 
 
-*FM* means fan marker.
+*FFS* means full flight simulator. 
 
-*FSTD* means flight simulation training device.
+*FM* means fan marker. 
 
-*FTD* means flight training device.
+*FSTD* means flight simulation training device. 
 
-*GS* means glide slope.
+*FTD* means flight training device. 
 
-*HIRL* means high-intensity runway light system.
+*GS* means glide slope. 
 
-*IAS* means indicated airspeed.
+*HIRL* means high-intensity runway light system. 
 
-*ICAO* means International Civil Aviation Organization.
+*IAS* means indicated airspeed. 
 
-*IFR* means instrument flight rules.
+*ICAO* means International Civil Aviation Organization. 
 
-*IFSD* means in-flight shutdown.
+*IFR* means instrument flight rules. 
 
-*ILS* means instrument landing system.
+*IFSD* means in-flight shutdown. 
 
-*IM* means ILS inner marker.
+*ILS* means instrument landing system. 
 
-*INT* means intersection.
+*IM* means ILS inner marker. 
 
-*LDA* means localizer-type directional aid.
+*INT* means intersection. 
 
-*LFR* means low-frequency radio range.
+*LDA* means localizer-type directional aid. 
 
-*LMM* means compass locator at middle marker.
+*LFR* means low-frequency radio range. 
 
-*LOC* means ILS localizer.
+*LMM* means compass locator at middle marker. 
 
-*LOM* means compass locator at outer marker.
+*LOC* means ILS localizer. 
 
-*M* means mach number.
+*LOM* means compass locator at outer marker. 
 
-*MAA* means maximum authorized IFR altitude.
+*M* means mach number. 
 
-*MALS* means medium intensity approach light system.
+*MAA* means maximum authorized IFR altitude. 
 
-*MALSR* means medium intensity approach light system with runway alignment indicator lights.
+*MALS* means medium intensity approach light system. 
 
-*MCA* means minimum crossing altitude.
+*MALSR* means medium intensity approach light system with runway alignment indicator lights. 
 
-*MDA* means minimum descent altitude.
+*MCA* means minimum crossing altitude. 
 
-*MEA* means minimum en route IFR altitude.
+*MDA* means minimum descent altitude. 
 
-*MEL* means minimum equipment list.
+*MEA* means minimum en route IFR altitude. 
 
-*MM* means ILS middle marker.
+*MEL* means minimum equipment list. 
 
-*MOCA* means minimum obstruction clearance altitude.
+*MM* means ILS middle marker. 
 
-*MRA* means minimum reception altitude.
+*MOCA* means minimum obstruction clearance altitude. 
 
-*MSL* means mean sea level.
+*MRA* means minimum reception altitude. 
 
-*NDB (ADF)* means nondirectional beacon (automatic direction finder).
+*MSL* means mean sea level. 
 
-*NM* means nautical mile.
+*NDB (ADF)* means nondirectional beacon (automatic direction finder). 
 
-*NOPAC* means North Pacific area of operation.
+*NM* means nautical mile. 
 
-*NOPT* means no procedure turn required.
+*NOPAC* means North Pacific area of operation. 
 
-*OEI* means one engine inoperative.
+*NOPT* means no procedure turn required. 
 
-*OM* means ILS outer marker.
+*OEI* means one engine inoperative. 
 
-*OPSPECS* means operations specifications.
+*OM* means ILS outer marker. 
 
-*PACOTS* means Pacific Organized Track System.
+*OPSPECS* means operations specifications. 
 
-*PAR* means precision approach radar.
+*PACOTS* means Pacific Organized Track System. 
 
-*PMA* means parts manufacturer approval.
+*PAR* means precision approach radar. 
 
-*POC* means portable oxygen concentrator.
+*PMA* means parts manufacturer approval. 
 
-*PTRS* means Performance Tracking and Reporting System.
+*POC* means portable oxygen concentrator. 
 
-*RAIL* means runway alignment indicator light system.
+*PTRS* means Performance Tracking and Reporting System. 
 
-*RBN* means radio beacon.
+*RAIL* means runway alignment indicator light system. 
 
-*RCLM* means runway centerline marking.
+*RBN* means radio beacon. 
 
-*RCLS* means runway centerline light system.
+*RCLM* means runway centerline marking. 
 
-*REIL* means runway end identification lights.
+*RCLS* means runway centerline light system. 
 
-*RFFS* means rescue and firefighting services.
+*REIL* means runway end identification lights. 
 
-*RNAV* means area navigation.
+*RFFS* means rescue and firefighting services. 
 
-*RR* means low or medium frequency radio range station.
+*RNAV* means area navigation. 
 
-*RVR* means runway visual range as measured in the touchdown zone area.
+*RR* means low or medium frequency radio range station. 
 
-*SALS* means short approach light system.
+*RVR* means runway visual range as measured in the touchdown zone area. 
 
-*SATCOM* means satellite communications.
+*SALS* means short approach light system. 
 
-*SSALS* means simplified short approach light system.
+*SATCOM* means satellite communications. 
 
-*SSALSR* means simplified short approach light system with runway alignment indicator lights.
+*SSALS* means simplified short approach light system. 
 
-*TACAN* means ultra-high frequency tactical air navigational aid.
+*SSALSR* means simplified short approach light system with runway alignment indicator lights. 
 
-*TAS* means true airspeed.
+*TACAN* means ultra-high frequency tactical air navigational aid. 
 
-*TCAS* means a traffic alert and collision avoidance system.
+*TAS* means true airspeed. 
 
-*TDZL* means touchdown zone lights.
+*TCAS* means a traffic alert and collision avoidance system. 
 
-*TSO* means technical standard order.
+*TDZL* means touchdown zone lights. 
 
-*TVOR* means very high frequency terminal omnirange station.
+*TSO* means technical standard order. 
 
-*V*A means design maneuvering speed.
+*TVOR* means very high frequency terminal omnirange station. 
 
-*V*B means design speed for maximum gust intensity.
+*V*A means design maneuvering speed. 
 
-*V*C means design cruising speed.
+*V*B means design speed for maximum gust intensity. 
 
-*V*D means design diving speed.
+*V*C means design cruising speed. 
 
-*V*DF/*M*DF means demonstrated flight diving speed.
+*V*D means design diving speed. 
 
-*V*EF means the speed at which the critical engine is assumed to fail during takeoff.
+*V*DF/*M*DF means demonstrated flight diving speed. 
 
-*V*F means design flap speed.
+*V*EF means the speed at which the critical engine is assumed to fail during takeoff. 
 
-*V*FC/*M*FC means maximum speed for stability characteristics.
+*V*F means design flap speed. 
 
-*V*FE means maximum flap extended speed.
+*V*FC/*M*FC means maximum speed for stability characteristics. 
 
-*V*FTO means final takeoff speed.
+*V*FE means maximum flap extended speed. 
 
-*V*H means maximum speed in level flight with maximum continuous power.
+*V*FTO means final takeoff speed. 
 
-*V*LE means maximum landing gear extended speed.
+*V*H means maximum speed in level flight with maximum continuous power. 
 
-*V*LO means maximum landing gear operating speed.
+*V*LE means maximum landing gear extended speed. 
 
-*V*LOF means lift-off speed.
+*V*LO means maximum landing gear operating speed. 
 
-*V*MC means minimum control speed with the critical engine inoperative.
+*V*LOF means lift-off speed. 
 
-*V*MO/*M*MO means maximum operating limit speed.
+*V*MC means minimum control speed with the critical engine inoperative. 
 
-*V*MU means minimum unstick speed.
+*V*MO/*M*MO means maximum operating limit speed. 
 
-*V*NE means never-exceed speed.
+*V*MU means minimum unstick speed. 
 
-*V*NO means maximum structural cruising speed.
+*V*NE means never-exceed speed. 
 
-*V*R means rotation speed.
+*V*NO means maximum structural cruising speed. 
 
-*V*REF means reference landing speed.
+*V*R means rotation speed. 
 
-*V*S means the stalling speed or the minimum steady flight speed at which the airplane is controllable.
+*V*REF means reference landing speed. 
 
-*V*S0 means the stalling speed or the minimum steady flight speed in the landing configuration.
+*V*S means the stalling speed or the minimum steady flight speed at which the airplane is controllable. 
 
-*V*S1 means the stalling speed or the minimum steady flight speed obtained in a specific configuration.
+*V*S0 means the stalling speed or the minimum steady flight speed in the landing configuration. 
 
-*V*SR means reference stall speed.
+*V*S1 means the stalling speed or the minimum steady flight speed obtained in a specific configuration. 
 
-*V*SRO means reference stall speed in the landing configuration.
+*V*SR means reference stall speed. 
 
-*V*SR1 means reference stall speed in a specific configuration.
+*V*SRO means reference stall speed in the landing configuration. 
 
-*V*SW means speed at which onset of natural or artificial stall warning occurs.
+*V*SR1 means reference stall speed in a specific configuration. 
 
-VTOSS means takeoff safety speed for Category A rotorcraft.
+*V*SW means speed at which onset of natural or artificial stall warning occurs. 
 
-*V*X means speed for best angle of climb.
+VTOSS means takeoff safety speed for Category A rotorcraft. 
 
-*V*Y means speed for best rate of climb.
+*V*X means speed for best angle of climb. 
 
-*V*1 means the maximum speed in the takeoff at which the pilot must take the first action (e.g., apply brakes, reduce thrust, deploy speed brakes) to stop the airplane within the accelerate-stop distance. V1 also means the minimum speed in the takeoff, following a failure of the critical engine at VEF, at which the pilot can continue the takeoff and achieve the required height above the takeoff surface within the takeoff distance.
+*V*Y means speed for best rate of climb. 
 
-*V*2 means takeoff safety speed.
+*V*1 means the maximum speed in the takeoff at which the pilot must take the first action (e.g., apply brakes, reduce thrust, deploy speed brakes) to stop the airplane within the accelerate-stop distance. V1 also means the minimum speed in the takeoff, following a failure of the critical engine at VEF, at which the pilot can continue the takeoff and achieve the required height above the takeoff surface within the takeoff distance. 
 
-*V*2min means minimum takeoff safety speed.
+*V*2 means takeoff safety speed. 
 
-*VFR* means visual flight rules.
+*V*2min means minimum takeoff safety speed. 
 
-*VGSI* means visual glide slope indicator.
+*VFR* means visual flight rules. 
 
-*VHF* means very high frequency.
+*VGSI* means visual glide slope indicator. 
 
-*VOR* means very high frequency omnirange station.
+*VHF* means very high frequency. 
 
-*VORTAC* means collocated VOR and TACAN.
+*VOR* means very high frequency omnirange station. 
+
+*VORTAC* means collocated VOR and TACAN. 
 
 \[Doc. No. 1150, 27 FR 4590, May 15, 1962\] Editorial Note:For Federal Register citations affecting § 1.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

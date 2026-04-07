@@ -1,49 +1,51 @@
 ##### § 135.339 Initial and transition training and checking: Check airmen (aircraft), check airmen (simulator).
 
-(a) No certificate holder may use a person nor may any person serve as a check pilot unless—
+Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
 
-(1) That person has satisfactorily completed initial or transition check pilot training; and
+(a) No certificate holder may use a person nor may any person serve as a check pilot unless— 
 
-(2) Within the preceding 24 calendar months, that person satisfactorily conducts a proficiency or competency check under the observation of an FAA inspector or an aircrew designated examiner employed by the operator. The observation check may be accomplished in part or in full in an aircraft, in a flight simulator, or in a flight training device. This paragraph applies after March 19, 1997.
+(1) That person has satisfactorily completed initial or transition check pilot training; and 
 
-(b) The observation check required by paragraph (a)(2) of this section is considered to have been completed in the month required if completed in the calendar month before or the calendar month after the month in which it is due.
+(2) Within the preceding 24 calendar months, that person satisfactorily conducts a proficiency or competency check under the observation of an FAA inspector or an aircrew designated examiner employed by the operator. The observation check may be accomplished in part or in full in an aircraft, in a flight simulator, or in a flight training device. This paragraph applies after March 19, 1997. 
 
-(c) The initial ground training for check pilots must include the following:
+(b) The observation check required by paragraph (a)(2) of this section is considered to have been completed in the month required if completed in the calendar month before or the calendar month after the month in which it is due. 
 
-(1) Check pilot duties, functions, and responsibilities.
+(c) The initial ground training for check pilots must include the following: 
 
-(2) The applicable Code of Federal Regulations and the certificate holder's policies and procedures.
+(1) Check pilot duties, functions, and responsibilities. 
 
-(3) The applicable methods, procedures, and techniques for conducting the required checks.
+(2) The applicable Code of Federal Regulations and the certificate holder's policies and procedures. 
 
-(4) Proper evaluation of student performance including the detection of—
+(3) The applicable methods, procedures, and techniques for conducting the required checks. 
 
-(i) Improper and insufficient training; and
+(4) Proper evaluation of student performance including the detection of— 
 
-(ii) Personal characteristics of an applicant that could adversely affect safety.
+(i) Improper and insufficient training; and 
 
-(5) The corrective action in the case of unsatisfactory checks.
+(ii) Personal characteristics of an applicant that could adversely affect safety. 
 
-(6) The approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures in the aircraft.
+(5) The corrective action in the case of unsatisfactory checks. 
 
-(d) The transition ground training for check pilots must include the approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures applicable to the aircraft to which the check pilot is in transition.
+(6) The approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures in the aircraft. 
 
-(e) The initial and transition flight training for check pilots (aircraft) must include the following—
+(d) The transition ground training for check pilots must include the approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures applicable to the aircraft to which the check pilot is in transition. 
 
-(1) The safety measures for emergency situations that are likely to develop during a check;
+(e) The initial and transition flight training for check pilots (aircraft) must include the following— 
 
-(2) The potential results of improper, untimely, or nonexecution of safety measures during a check;
+(1) The safety measures for emergency situations that are likely to develop during a check; 
 
-(3) Training and practice in conducting flight checks from the left and right pilot seats in the required normal, abnormal, and emergency procedures to ensure competence to conduct the pilot flight checks required by this part; and
+(2) The potential results of improper, untimely, or nonexecution of safety measures during a check; 
 
-(4) The safety measures to be taken from either pilot seat for emergency situations that are likely to develop during checking.
+(3) Training and practice in conducting flight checks from the left and right pilot seats in the required normal, abnormal, and emergency procedures to ensure competence to conduct the pilot flight checks required by this part; and 
 
-(f) The requirements of paragraph (e) of this section may be accomplished in full or in part in flight, in a flight simulator, or in a flight training device, as appropriate.
+(4) The safety measures to be taken from either pilot seat for emergency situations that are likely to develop during checking. 
 
-(g) The initial and transition flight training for check pilots (FSTD) must include the following:
+(f) The requirements of paragraph (e) of this section may be accomplished in full or in part in flight, in a flight simulator, or in a flight training device, as appropriate. 
 
-(1) Training and practice in conducting flight checks in the required normal, abnormal, and emergency procedures to ensure competence to conduct the flight checks required by this part. This training and practice must be accomplished in a flight simulator or in a flight training device.
+(g) The initial and transition flight training for check pilots (FSTD) must include the following: 
 
-(2) Training in the operation of flight simulators, flight training devices, or both, to ensure competence to conduct the flight checks required by this part.
+(1) Training and practice in conducting flight checks in the required normal, abnormal, and emergency procedures to ensure competence to conduct the flight checks required by this part. This training and practice must be accomplished in a flight simulator or in a flight training device. 
+
+(2) Training in the operation of flight simulators, flight training devices, or both, to ensure competence to conduct the flight checks required by this part. 
 
 \[Doc. No. 28471, 61 FR 30745, June 17, 1996; 62 FR 3739, Jan. 24, 1997, as amended by Docket No. FAA-2019-0360; Amdt. No. 135-145, 89 FR 51431, June 18, 2024\]

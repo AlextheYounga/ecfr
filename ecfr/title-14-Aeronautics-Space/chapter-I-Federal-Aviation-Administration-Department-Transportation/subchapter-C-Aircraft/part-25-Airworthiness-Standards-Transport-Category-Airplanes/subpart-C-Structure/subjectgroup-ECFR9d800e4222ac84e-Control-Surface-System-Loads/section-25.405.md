@@ -1,6 +1,6 @@
 ##### § 25.405 Secondary control system.
 
-Secondary controls, such as wheel brake, spoiler, and tab controls, must be designed for the maximum forces that a pilot is likely to apply to those controls. The following values may be used:
+Secondary controls, such as wheel brake, spoiler, and tab controls, must be designed for the maximum forces that a pilot is likely to apply to those controls. The following values may be used: 
 
 Pilot Control Force Limits (Secondary Controls)
 | Control                                                                           | Limit pilot forces                                                                                                                                |

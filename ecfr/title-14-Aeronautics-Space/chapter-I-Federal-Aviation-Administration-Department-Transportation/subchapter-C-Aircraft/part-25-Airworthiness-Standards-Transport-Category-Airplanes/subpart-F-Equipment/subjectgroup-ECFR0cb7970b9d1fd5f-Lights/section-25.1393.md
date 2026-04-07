@@ -1,6 +1,6 @@
 ##### § 25.1393 Minimum intensities in any vertical plane of forward and rear position lights.
 
-Each position light intensity must equal or exceed the applicable values in the following table:
+Each position light intensity must equal or exceed the applicable values in the following table: 
 
 | Angle above or below the horizontal plane | Intensity, l |
 | ----------------------------------------- | ------------ |

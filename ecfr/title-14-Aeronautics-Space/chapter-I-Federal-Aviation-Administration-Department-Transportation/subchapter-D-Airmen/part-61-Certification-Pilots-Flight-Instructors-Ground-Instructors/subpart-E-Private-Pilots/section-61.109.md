@@ -1,211 +1,213 @@
 ##### § 61.109 Aeronautical experience.
 
-(a) *For an airplane single-engine rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with an airplane category and single-engine class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(1) of this part, and the training must include at least—
+Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
 
-(1) 3 hours of cross-country flight training in a single-engine airplane;
+(a) *For an airplane single-engine rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with an airplane category and single-engine class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(1) of this part, and the training must include at least— 
 
-(2) Except as provided in § 61.110 of this part, 3 hours of night flight training in a single-engine airplane that includes—
+(1) 3 hours of cross-country flight training in a single-engine airplane; 
 
-(i) One cross-country flight of over 100 nautical miles total distance; and
+(2) Except as provided in § 61.110 of this part, 3 hours of night flight training in a single-engine airplane that includes— 
 
-(ii) 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
+(i) One cross-country flight of over 100 nautical miles total distance; and 
 
-(3) 3 hours of flight training in a single-engine airplane on the control and maneuvering of an airplane solely by reference to instruments, including straight and level flight, constant airspeed climbs and descents, turns to a heading, recovery from unusual flight attitudes, radio communications, and the use of navigation systems/facilities and radar services appropriate to instrument flight;
+(ii) 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport. 
 
-(4) 3 hours of flight training with an authorized instructor in a single-engine airplane in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and
+(3) 3 hours of flight training in a single-engine airplane on the control and maneuvering of an airplane solely by reference to instruments, including straight and level flight, constant airspeed climbs and descents, turns to a heading, recovery from unusual flight attitudes, radio communications, and the use of navigation systems/facilities and radar services appropriate to instrument flight; 
 
-(5) 10 hours of solo flight time in a single-engine airplane, consisting of at least—
+(4) 3 hours of flight training with an authorized instructor in a single-engine airplane in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and 
 
-(i) 5 hours of solo cross-country time;
+(5) 10 hours of solo flight time in a single-engine airplane, consisting of at least— 
 
-(ii) One solo cross country flight of 150 nautical miles total distance, with full-stop landings at three points, and one segment of the flight consisting of a straight-line distance of more than 50 nautical miles between the takeoff and landing locations; and
+(i) 5 hours of solo cross-country time; 
 
-(iii) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
+(ii) One solo cross country flight of 150 nautical miles total distance, with full-stop landings at three points, and one segment of the flight consisting of a straight-line distance of more than 50 nautical miles between the takeoff and landing locations; and 
 
-(b) *For an airplane multiengine rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with an airplane category and multiengine class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(2) of this part, and the training must include at least—
+(iii) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower. 
 
-(1) 3 hours of cross-country flight training in a multiengine airplane;
+(b) *For an airplane multiengine rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with an airplane category and multiengine class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(2) of this part, and the training must include at least— 
 
-(2) Except as provided in § 61.110 of this part, 3 hours of night flight training in a multiengine airplane that includes—
+(1) 3 hours of cross-country flight training in a multiengine airplane; 
 
-(i) One cross-country flight of over 100 nautical miles total distance; and
+(2) Except as provided in § 61.110 of this part, 3 hours of night flight training in a multiengine airplane that includes— 
 
-(ii) 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
+(i) One cross-country flight of over 100 nautical miles total distance; and 
 
-(3) 3 hours of flight training in a multiengine airplane on the control and maneuvering of an airplane solely by reference to instruments, including straight and level flight, constant airspeed climbs and descents, turns to a heading, recovery from unusual flight attitudes, radio communications, and the use of navigation systems/facilities and radar services appropriate to instrument flight;
+(ii) 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport. 
 
-(4) 3 hours of flight training with an authorized instructor in a multiengine airplane in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and
+(3) 3 hours of flight training in a multiengine airplane on the control and maneuvering of an airplane solely by reference to instruments, including straight and level flight, constant airspeed climbs and descents, turns to a heading, recovery from unusual flight attitudes, radio communications, and the use of navigation systems/facilities and radar services appropriate to instrument flight; 
 
-(5) 10 hours of solo flight time in an airplane consisting of at least—
+(4) 3 hours of flight training with an authorized instructor in a multiengine airplane in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and 
 
-(i) 5 hours of solo cross-country time;
+(5) 10 hours of solo flight time in an airplane consisting of at least— 
 
-(ii) One solo cross country flight of 150 nautical miles total distance, with full-stop landings at three points, and one segment of the flight consisting of a straight-line distance of more than 50 nautical miles between the takeoff and landing locations; and
+(i) 5 hours of solo cross-country time; 
 
-(iii) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
+(ii) One solo cross country flight of 150 nautical miles total distance, with full-stop landings at three points, and one segment of the flight consisting of a straight-line distance of more than 50 nautical miles between the takeoff and landing locations; and 
 
-(c) *For a helicopter rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with rotorcraft category and helicopter class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(3) of this part, and the training must include at least—
+(iii) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower. 
 
-(1) 3 hours of cross-country flight training in a helicopter;
+(c) *For a helicopter rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with rotorcraft category and helicopter class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(3) of this part, and the training must include at least— 
 
-(2) Except as provided in § 61.110 of this part, 3 hours of night flight training in a helicopter that includes—
+(1) 3 hours of cross-country flight training in a helicopter; 
 
-(i) One cross-country flight of over 50 nautical miles total distance; and
+(2) Except as provided in § 61.110 of this part, 3 hours of night flight training in a helicopter that includes— 
 
-(ii) 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
+(i) One cross-country flight of over 50 nautical miles total distance; and 
 
-(3) 3 hours of flight training with an authorized instructor in a helicopter in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and
+(ii) 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport. 
 
-(4) 10 hours of solo flight time in a helicopter, consisting of at least—
+(3) 3 hours of flight training with an authorized instructor in a helicopter in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and 
 
-(i) 3 hours cross-country time;
+(4) 10 hours of solo flight time in a helicopter, consisting of at least— 
 
-(ii) One solo cross country flight of 100 nautical miles total distance, with landings at three points, and one segment of the flight being a straight-line distance of more than 25 nautical miles between the takeoff and landing locations; and
+(i) 3 hours cross-country time; 
 
-(iii) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
+(ii) One solo cross country flight of 100 nautical miles total distance, with landings at three points, and one segment of the flight being a straight-line distance of more than 25 nautical miles between the takeoff and landing locations; and 
 
-(d) *For a gyroplane rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with rotorcraft category and gyroplane class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(4) of this part, and the training must include at least—
+(iii) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower. 
 
-(1) 3 hours of cross-country flight training in a gyroplane;
+(d) *For a gyroplane rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with rotorcraft category and gyroplane class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(4) of this part, and the training must include at least— 
 
-(2) Except as provided in § 61.110 of this part, 3 hours of night flight training in a gyroplane that includes—
+(1) 3 hours of cross-country flight training in a gyroplane; 
 
-(i) One cross-country flight of over 50 nautical miles total distance; and
+(2) Except as provided in § 61.110 of this part, 3 hours of night flight training in a gyroplane that includes— 
 
-(ii) 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
+(i) One cross-country flight of over 50 nautical miles total distance; and 
 
-(3) 3 hours of flight training with an authorized instructor in a gyroplane in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and
+(ii) 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport. 
 
-(4) 10 hours of solo flight time in a gyroplane, consisting of at least—
+(3) 3 hours of flight training with an authorized instructor in a gyroplane in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and 
 
-(i) 3 hours of cross-country time;
+(4) 10 hours of solo flight time in a gyroplane, consisting of at least— 
 
-(ii) One solo cross country flight of 100 nautical miles total distance, with landings at three points, and one segment of the flight being a straight-line distance of more than 25 nautical miles between the takeoff and landing locations; and
+(i) 3 hours of cross-country time; 
 
-(iii) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
+(ii) One solo cross country flight of 100 nautical miles total distance, with landings at three points, and one segment of the flight being a straight-line distance of more than 25 nautical miles between the takeoff and landing locations; and 
 
-(e) *For a powered-lift rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with a powered-lift category rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(5) of this part, and the training must include at least—
+(iii) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower. 
 
-(1) 3 hours of cross-country flight training in a powered-lift;
+(e) *For a powered-lift rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with a powered-lift category rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(5) of this part, and the training must include at least— 
 
-(2) Except as provided in § 61.110 of this part, 3 hours of night flight training in a powered-lift that includes—
+(1) 3 hours of cross-country flight training in a powered-lift; 
 
-(i) One cross-country flight of over 100 nautical miles total distance; and
+(2) Except as provided in § 61.110 of this part, 3 hours of night flight training in a powered-lift that includes— 
 
-(ii) 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
+(i) One cross-country flight of over 100 nautical miles total distance; and 
 
-(3) 3 hours of flight training in a powered-lift on the control and maneuvering of a powered-lift solely by reference to instruments, including straight and level flight, constant airspeed climbs and descents, turns to a heading, recovery from unusual flight attitudes, radio communications, and the use of navigation systems/facilities and radar services appropriate to instrument flight;
+(ii) 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport. 
 
-(4) 3 hours of flight training with an authorized instructor in a powered-lift in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and
+(3) 3 hours of flight training in a powered-lift on the control and maneuvering of a powered-lift solely by reference to instruments, including straight and level flight, constant airspeed climbs and descents, turns to a heading, recovery from unusual flight attitudes, radio communications, and the use of navigation systems/facilities and radar services appropriate to instrument flight; 
 
-(5) 10 hours of solo flight time in an airplane or powered-lift consisting of at least—
+(4) 3 hours of flight training with an authorized instructor in a powered-lift in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and 
 
-(i) 5 hours cross-country time;
+(5) 10 hours of solo flight time in an airplane or powered-lift consisting of at least— 
 
-(ii) One solo cross country flight of 150 nautical miles total distance, with full-stop landings at three points, and one segment of the flight consisting of a straight-line distance of more than 50 nautical miles between the takeoff and landing locations; and
+(i) 5 hours cross-country time; 
 
-(iii) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
+(ii) One solo cross country flight of 150 nautical miles total distance, with full-stop landings at three points, and one segment of the flight consisting of a straight-line distance of more than 50 nautical miles between the takeoff and landing locations; and 
 
-(f) *For a glider category rating.* (1) If the applicant for a private pilot certificate with a glider category rating has not logged at least 40 hours of flight time as a pilot in a heavier-than-air aircraft, the applicant must log at least 10 hours of flight time in a glider in the areas of operation listed in § 61.107(b)(6) of this part, and that flight time must include at least—
+(iii) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower. 
 
-(i) 20 flights in a glider in the areas of operations listed in § 61.107(b)(6) of this part, including at least 3 training flights with an authorized instructor in a glider in preparation for the practical test that must have been performed within the preceding 2 calendar months from the month of the test; and
+(f) *For a glider category rating.* (1) If the applicant for a private pilot certificate with a glider category rating has not logged at least 40 hours of flight time as a pilot in a heavier-than-air aircraft, the applicant must log at least 10 hours of flight time in a glider in the areas of operation listed in § 61.107(b)(6) of this part, and that flight time must include at least— 
 
-(ii) 2 hours of solo flight time in a glider in the areas of operation listed in § 61.107(b)(6) of this part, with not less than 10 launches and landings being performed.
+(i) 20 flights in a glider in the areas of operations listed in § 61.107(b)(6) of this part, including at least 3 training flights with an authorized instructor in a glider in preparation for the practical test that must have been performed within the preceding 2 calendar months from the month of the test; and 
 
-(2) If the applicant has logged at least 40 hours of flight time in a heavier-than-air aircraft, the applicant must log at least 3 hours of flight time in a glider in the areas of operation listed in § 61.107(b)(6) of this part, and that flight time must include at least—
+(ii) 2 hours of solo flight time in a glider in the areas of operation listed in § 61.107(b)(6) of this part, with not less than 10 launches and landings being performed. 
 
-(i) 10 solo flights in a glider in the areas of operation listed in § 61.107(b)(6) of this part; and
+(2) If the applicant has logged at least 40 hours of flight time in a heavier-than-air aircraft, the applicant must log at least 3 hours of flight time in a glider in the areas of operation listed in § 61.107(b)(6) of this part, and that flight time must include at least— 
 
-(ii) 3 training flights with an authorized instructor in a glider in preparation for the practical test that must have been performed within the preceding 2 calendar months from the month of the test.
+(i) 10 solo flights in a glider in the areas of operation listed in § 61.107(b)(6) of this part; and 
 
-(g) *For an airship rating.* A person who applies for a private pilot certificate with a lighter-than-air category and airship class rating must log at least:
+(ii) 3 training flights with an authorized instructor in a glider in preparation for the practical test that must have been performed within the preceding 2 calendar months from the month of the test. 
 
-(1) 25 hours of flight training in airships on the areas of operation listed in § 61.107(b)(7) of this part, which consists of at least:
+(g) *For an airship rating.* A person who applies for a private pilot certificate with a lighter-than-air category and airship class rating must log at least: 
 
-(i) 3 hours of cross-country flight training in an airship;
+(1) 25 hours of flight training in airships on the areas of operation listed in § 61.107(b)(7) of this part, which consists of at least: 
 
-(ii) Except as provided in § 61.110 of this part, 3 hours of night flight training in an airship that includes:
+(i) 3 hours of cross-country flight training in an airship; 
 
-(A) A cross-country flight of over 25 nautical miles total distance; and
+(ii) Except as provided in § 61.110 of this part, 3 hours of night flight training in an airship that includes: 
 
-(B) Five takeoffs and five landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
+(A) A cross-country flight of over 25 nautical miles total distance; and 
 
-(2) 3 hours of flight training in an airship on the control and maneuvering of an airship solely by reference to instruments, including straight and level flight, constant airspeed climbs and descents, turns to a heading, recovery from unusual flight attitudes, radio communications, and the use of navigation systems/facilities and radar services appropriate to instrument flight;
+(B) Five takeoffs and five landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport. 
 
-(3) Three hours of flight training with an authorized instructor in an airship in preparation for the practical test within the preceding 2 calendar months from the month of the test; and
+(2) 3 hours of flight training in an airship on the control and maneuvering of an airship solely by reference to instruments, including straight and level flight, constant airspeed climbs and descents, turns to a heading, recovery from unusual flight attitudes, radio communications, and the use of navigation systems/facilities and radar services appropriate to instrument flight; 
 
-(4) 5 hours performing the duties of pilot in command in an airship with an authorized instructor.
+(3) Three hours of flight training with an authorized instructor in an airship in preparation for the practical test within the preceding 2 calendar months from the month of the test; and 
 
-(h) *For a balloon rating.* A person who applies for a private pilot certificate with a lighter-than-air category and balloon class rating must log at least 10 hours of flight training that includes at least six training flights with an authorized instructor in the areas of operation listed in § 61.107(b)(8) of this part, that includes—
+(4) 5 hours performing the duties of pilot in command in an airship with an authorized instructor. 
 
-(1) *Gas balloon.* If the training is being performed in a gas balloon, at least two flights of 2 hours each that consists of—
+(h) *For a balloon rating.* A person who applies for a private pilot certificate with a lighter-than-air category and balloon class rating must log at least 10 hours of flight training that includes at least six training flights with an authorized instructor in the areas of operation listed in § 61.107(b)(8) of this part, that includes— 
 
-(i) At least one training flight with an authorized instructor in a gas balloon in preparation for the practical test within the preceding 2 calendar months from the month of the test;
+(1) *Gas balloon.* If the training is being performed in a gas balloon, at least two flights of 2 hours each that consists of— 
 
-(ii) At least one flight performing the duties of pilot in command in a gas balloon with an authorized instructor; and
+(i) At least one training flight with an authorized instructor in a gas balloon in preparation for the practical test within the preceding 2 calendar months from the month of the test; 
 
-(iii) At least one flight involving a controlled ascent to 3,000 feet above the launch site.
+(ii) At least one flight performing the duties of pilot in command in a gas balloon with an authorized instructor; and 
 
-(2) *Balloon with an airborne heater.* If the training is being performed in a balloon with an airborne heater, at least—
+(iii) At least one flight involving a controlled ascent to 3,000 feet above the launch site. 
 
-(i) At least two training flights of 1 hour each with an authorized instructor in a balloon with an airborne heater in preparation for the practical test within the preceding 2 calendar months from the month of the test;
+(2) *Balloon with an airborne heater.* If the training is being performed in a balloon with an airborne heater, at least— 
 
-(ii) One solo flight in a balloon with an airborne heater; and
+(i) At least two training flights of 1 hour each with an authorized instructor in a balloon with an airborne heater in preparation for the practical test within the preceding 2 calendar months from the month of the test; 
 
-(iii) At least one flight involving a controlled ascent to 2,000 feet above the launch site.
+(ii) One solo flight in a balloon with an airborne heater; and 
 
-(i) *For a powered parachute rating.* A person who applies for a private pilot certificate with a powered parachute category rating must log at least 25 hours of flight time in a powered parachute that includes at least 10 hours of flight training with an authorized instructor, including 30 takeoffs and landings, and 10 hours of solo flight training in the areas of operation listed in § 61.107 (b)(9) and the training must include at least—
+(iii) At least one flight involving a controlled ascent to 2,000 feet above the launch site. 
 
-(1) One hour of cross-country flight training in a powered parachute that includes a 1-hour cross-country flight with a landing at an airport at least 25 nautical miles from the airport of departure;
+(i) *For a powered parachute rating.* A person who applies for a private pilot certificate with a powered parachute category rating must log at least 25 hours of flight time in a powered parachute that includes at least 10 hours of flight training with an authorized instructor, including 30 takeoffs and landings, and 10 hours of solo flight training in the areas of operation listed in § 61.107 (b)(9) and the training must include at least— 
 
-(2) Except as provided in § 61.110, 3 hours of night flight training in a powered parachute that includes 10 takeoffs and landings (with each landing involving a flight in the traffic pattern) at an airport;
+(1) One hour of cross-country flight training in a powered parachute that includes a 1-hour cross-country flight with a landing at an airport at least 25 nautical miles from the airport of departure; 
 
-(3) Three hours of flight training with an authorized instructor in a powered parachute in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test;
+(2) Except as provided in § 61.110, 3 hours of night flight training in a powered parachute that includes 10 takeoffs and landings (with each landing involving a flight in the traffic pattern) at an airport; 
 
-(4) Three hours of solo flight time in a powered parachute, consisting of at least—
+(3) Three hours of flight training with an authorized instructor in a powered parachute in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; 
 
-(i) One solo cross-country flight with a landing at an airport at least 25 nautical miles from the departure airport; and
+(4) Three hours of solo flight time in a powered parachute, consisting of at least— 
 
-(ii) Twenty solo takeoffs and landings to a full stop (with each landing involving a flight in a traffic pattern) at an airport; and
+(i) One solo cross-country flight with a landing at an airport at least 25 nautical miles from the departure airport; and 
 
-(5) Three takeoffs and landings (with each landing involving a flight in the traffic pattern) in an aircraft at an airport with an operating control tower.
+(ii) Twenty solo takeoffs and landings to a full stop (with each landing involving a flight in a traffic pattern) at an airport; and 
 
-(j) *For a weight-shift-control aircraft rating.* A person who applies for a private pilot certificate with a weight-shift-control rating must log at least 40 hours of flight time that includes at least 20 hours of flight training with an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(10) and the training must include at least—
+(5) Three takeoffs and landings (with each landing involving a flight in the traffic pattern) in an aircraft at an airport with an operating control tower. 
 
-(1) Three hours of cross-country flight training in a weight-shift-control aircraft;
+(j) *For a weight-shift-control aircraft rating.* A person who applies for a private pilot certificate with a weight-shift-control rating must log at least 40 hours of flight time that includes at least 20 hours of flight training with an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(10) and the training must include at least— 
 
-(2) Except as provided in § 61.110, 3 hours of night flight training in a weight-shift-control aircraft that includes—
+(1) Three hours of cross-country flight training in a weight-shift-control aircraft; 
 
-(i) One cross-country flight of over 75 nautical miles total distance that includes a point of landing that is a straight-line distance of more than 50 nautical miles from the original point of departure; and
+(2) Except as provided in § 61.110, 3 hours of night flight training in a weight-shift-control aircraft that includes— 
 
-(ii) Ten takeoffs and landings (with each landing involving a flight in the traffic pattern) at an airport;
+(i) One cross-country flight of over 75 nautical miles total distance that includes a point of landing that is a straight-line distance of more than 50 nautical miles from the original point of departure; and 
 
-(3) Three hours of flight training with an authorized instructor in a weight-shift-control aircraft in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test;
+(ii) Ten takeoffs and landings (with each landing involving a flight in the traffic pattern) at an airport; 
 
-(4) Ten hours of solo flight time in a weight-shift-control aircraft, consisting of at least—
+(3) Three hours of flight training with an authorized instructor in a weight-shift-control aircraft in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; 
 
-(i) Five hours of solo cross-country time; and
+(4) Ten hours of solo flight time in a weight-shift-control aircraft, consisting of at least— 
 
-(ii) One solo cross-country flight over 100 nautical miles total distance, with landings at a minimum of three points, and one segment of the flight being a straight line distance of at least 50 nautical miles between takeoff and landing locations; and
+(i) Five hours of solo cross-country time; and 
 
-(5) Three takeoffs and landings (with each landing involving a flight in the traffic pattern) in an aircraft at an airport with an operating control tower.
+(ii) One solo cross-country flight over 100 nautical miles total distance, with landings at a minimum of three points, and one segment of the flight being a straight line distance of at least 50 nautical miles between takeoff and landing locations; and 
 
-(k) *Permitted credit for use of a full flight simulator or flight training device.* (1) Except as provided in paragraphs (k)(2) of this section, a maximum of 2.5 hours of training in a full flight simulator or flight training device representing the category, class, and type, if applicable, of aircraft appropriate to the rating sought, may be credited toward the flight training time required by this section, if received from an authorized instructor.
+(5) Three takeoffs and landings (with each landing involving a flight in the traffic pattern) in an aircraft at an airport with an operating control tower. 
 
-(2) A maximum of 5 hours of training in a flight simulator or flight training device representing the category, class, and type, if applicable, of aircraft appropriate to the rating sought, may be credited toward the flight training time required by this section if the training is accomplished in a course conducted by a training center certificated under part 142 of this chapter.
+(k) *Permitted credit for use of a full flight simulator or flight training device.* (1) Except as provided in paragraphs (k)(2) of this section, a maximum of 2.5 hours of training in a full flight simulator or flight training device representing the category, class, and type, if applicable, of aircraft appropriate to the rating sought, may be credited toward the flight training time required by this section, if received from an authorized instructor. 
 
-(3) Except when fewer hours are approved by the Administrator, an applicant for a private pilot certificate with an airplane, rotorcraft, or powered-lift rating, who has satisfactorily completed an approved private pilot course conducted by a training center certificated under part 142 of this chapter, need only have a total of 35 hours of aeronautical experience to meet the requirements of this section.
+(2) A maximum of 5 hours of training in a flight simulator or flight training device representing the category, class, and type, if applicable, of aircraft appropriate to the rating sought, may be credited toward the flight training time required by this section if the training is accomplished in a course conducted by a training center certificated under part 142 of this chapter. 
 
-(l) *Permitted credit for flight training received from a flight instructor with a sport pilot rating.* The holder of a sport pilot certificate may credit flight training received from a flight instructor with a sport pilot rating toward the aeronautical experience requirements of this section if the following conditions are met:
+(3) Except when fewer hours are approved by the Administrator, an applicant for a private pilot certificate with an airplane, rotorcraft, or powered-lift rating, who has satisfactorily completed an approved private pilot course conducted by a training center certificated under part 142 of this chapter, need only have a total of 35 hours of aeronautical experience to meet the requirements of this section. 
 
-(1) The flight training was accomplished in the same category and class of aircraft for which the rating is sought;
+(l) *Permitted credit for flight training received from a flight instructor with a sport pilot rating.* The holder of a sport pilot certificate may credit flight training received from a flight instructor with a sport pilot rating toward the aeronautical experience requirements of this section if the following conditions are met: 
 
-(2) The flight instructor with a sport pilot rating was authorized to provide the flight training; and
+(1) The flight training was accomplished in the same category and class of aircraft for which the rating is sought; 
 
-(3) The flight training included either—
+(2) The flight instructor with a sport pilot rating was authorized to provide the flight training; and 
 
-(i) Training on areas of operation that are required for both a sport pilot certificate and a private pilot certificate; or
+(3) The flight training included either— 
 
-(ii) For airplanes with a VH greater than 87 knots CAS, training on the control and maneuvering of an airplane solely by reference to the flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives, provided the training was received from a flight instructor with a sport pilot rating who holds an endorsement required by § 61.412(c).
+(i) Training on areas of operation that are required for both a sport pilot certificate and a private pilot certificate; or 
+
+(ii) For airplanes with a VH greater than 87 knots CAS, training on the control and maneuvering of an airplane solely by reference to the flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives, provided the training was received from a flight instructor with a sport pilot rating who holds an endorsement required by § 61.412(c). 
 
 \[Doc. No. 25910, 62 FR 40902, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20287, Apr. 23, 1998; Amdt. 61-110, 69 FR 44868, July 27, 2004; Amdt. 61-124, 74 FR 42558, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53645, Oct. 20, 2009; Amdt. 61-125, 75 FR 5220, Feb. 1, 2010; Amdt. 61-142, 83 FR 30278, June 27, 2018\]

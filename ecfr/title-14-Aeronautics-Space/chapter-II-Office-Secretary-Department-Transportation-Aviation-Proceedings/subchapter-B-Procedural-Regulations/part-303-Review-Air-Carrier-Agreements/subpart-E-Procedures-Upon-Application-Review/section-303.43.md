@@ -1,8 +1,8 @@
 ##### § 303.43 Action following the comment period.
 
-(a) \[Reserved\]
+(a) \[Reserved\] 
 
-(b) *Section 41309 applications.* After the period for which comments, requests for a hearing or responses to an order to show cause are due concerning a section 41309 application, the Assistant Secretary may proceed by order requesting further information or justification or by order of approval or disapproval or, in appropriate cases, may proceed by order to show cause or by order instituting a full evidentiary hearing.
+(b) *Section 41309 applications.* After the period for which comments, requests for a hearing or responses to an order to show cause are due concerning a section 41309 application, the Assistant Secretary may proceed by order requesting further information or justification or by order of approval or disapproval or, in appropriate cases, may proceed by order to show cause or by order instituting a full evidentiary hearing. 
 
 (c) Notice to the public of any full evidentiary hearing or order to show cause concerning an application shall be made by publication in the Federal Register.
 

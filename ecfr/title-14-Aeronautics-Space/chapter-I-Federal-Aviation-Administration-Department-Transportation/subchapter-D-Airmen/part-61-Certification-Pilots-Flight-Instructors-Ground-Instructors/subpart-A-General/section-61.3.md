@@ -1,209 +1,211 @@
 ##### § 61.3 Requirement for certificates, ratings, and authorizations.
 
-(a) *Required pilot certificate for operating a civil aircraft of the United States.* No person may serve as a required pilot flight crewmember of a civil aircraft of the United States, unless that person:
+Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
-(1) Has in the person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate or authorization—
+(a) *Required pilot certificate for operating a civil aircraft of the United States.* No person may serve as a required pilot flight crewmember of a civil aircraft of the United States, unless that person: 
 
-(i) A pilot certificate issued under this part and in accordance with § 61.19;
+(1) Has in the person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate or authorization— 
 
-(ii) A special purpose pilot authorization issued under § 61.77;
+(i) A pilot certificate issued under this part and in accordance with § 61.19; 
 
-(iii) A temporary certificate issued under § 61.17;
+(ii) A special purpose pilot authorization issued under § 61.77; 
 
-(iv) A document conveying temporary authority to exercise certificate privileges issued by the Airmen Certification Branch under § 61.29(e);
+(iii) A temporary certificate issued under § 61.17; 
 
-(v) When engaged in a flight operation within the United States for a part 119 certificate holder authorized to conduct operations under part 121 or 135 of this chapter, a temporary document provided by that certificate holder under an approved certificate verification plan;
+(iv) A document conveying temporary authority to exercise certificate privileges issued by the Airmen Certification Branch under § 61.29(e); 
 
-(vi) When engaged in a flight operation within the United States for a fractional ownership program manager authorized to conduct operations under part 91, subpart K, of this chapter, a temporary document provided by that program manager under an approved certificate verification plan; or
+(v) When engaged in a flight operation within the United States for a part 119 certificate holder authorized to conduct operations under part 121 or 135 of this chapter, a temporary document provided by that certificate holder under an approved certificate verification plan; 
 
-(vii) When operating an aircraft within a foreign country, a pilot license issued by that country may be used.
+(vi) When engaged in a flight operation within the United States for a fractional ownership program manager authorized to conduct operations under part 91, subpart K, of this chapter, a temporary document provided by that program manager under an approved certificate verification plan; or 
 
-(2) Has a photo identification that is in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate or authorization. The photo identification must be a:
+(vii) When operating an aircraft within a foreign country, a pilot license issued by that country may be used. 
 
-(i) Driver's license issued by a State, the District of Columbia, or territory or possession of the United States;
+(2) Has a photo identification that is in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate or authorization. The photo identification must be a: 
 
-(ii) Government identification card issued by the Federal government, a State, the District of Columbia, or a territory or possession of the United States;
+(i) Driver's license issued by a State, the District of Columbia, or territory or possession of the United States; 
 
-(iii) U.S. Armed Forces' identification card;
+(ii) Government identification card issued by the Federal government, a State, the District of Columbia, or a territory or possession of the United States; 
 
-(iv) Official passport;
+(iii) U.S. Armed Forces' identification card; 
 
-(v) Credential that authorizes unescorted access to a security identification display area at an airport regulated under 49 CFR part 1542; or
+(iv) Official passport; 
 
-(vi) Other form of identification that the Administrator finds acceptable.
+(v) Credential that authorizes unescorted access to a security identification display area at an airport regulated under 49 CFR part 1542; or 
 
-(b) *Required pilot certificate for operating a foreign-registered aircraft within the United States.* No person may serve as a required pilot flight crewmember of a civil aircraft of foreign registry within the United States, unless—
+(vi) Other form of identification that the Administrator finds acceptable. 
 
-(1) That person's pilot certificate or document issued under § 61.29(e) is in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate; and
+(b) *Required pilot certificate for operating a foreign-registered aircraft within the United States.* No person may serve as a required pilot flight crewmember of a civil aircraft of foreign registry within the United States, unless— 
 
-(2) Has been issued in accordance with this part, or has been issued or validated by the country in which the aircraft is registered.
+(1) That person's pilot certificate or document issued under § 61.29(e) is in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate; and 
 
-(c) *Medical certificate.* (1) A person may serve as a required pilot flight crewmember of an aircraft only if that person holds the appropriate medical certificate issued under part 67 of this chapter, or other documentation acceptable to the FAA, that is in that person's physical possession or readily accessible in the aircraft. Paragraph (c)(2) of this section provides certain exceptions to the requirement to hold a medical certificate.
+(2) Has been issued in accordance with this part, or has been issued or validated by the country in which the aircraft is registered. 
 
-(2) A person is not required to meet the requirements of paragraph (c)(1) of this section if that person—
+(c) *Medical certificate.* (1) A person may serve as a required pilot flight crewmember of an aircraft only if that person holds the appropriate medical certificate issued under part 67 of this chapter, or other documentation acceptable to the FAA, that is in that person's physical possession or readily accessible in the aircraft. Paragraph (c)(2) of this section provides certain exceptions to the requirement to hold a medical certificate. 
 
-(i) Is exercising the privileges of a student pilot certificate while seeking a pilot certificate with a glider category rating, a balloon class rating, or glider or balloon privileges;
+(2) A person is not required to meet the requirements of paragraph (c)(1) of this section if that person— 
 
-(ii) Is exercising the privileges of a student pilot certificate while seeking a sport pilot certificate with other than glider or balloon privileges and holds a U.S. driver's license;
+(i) Is exercising the privileges of a student pilot certificate while seeking a pilot certificate with a glider category rating, a balloon class rating, or glider or balloon privileges; 
 
-(iii) Is exercising the privileges of a student pilot certificate while seeking a pilot certificate with a weight-shift-control aircraft category rating or a powered parachute category rating and holds a U.S. driver's license;
+(ii) Is exercising the privileges of a student pilot certificate while seeking a sport pilot certificate with other than glider or balloon privileges and holds a U.S. driver's license; 
 
-(iv) Is exercising the privileges of a sport pilot certificate with glider or balloon privileges;
+(iii) Is exercising the privileges of a student pilot certificate while seeking a pilot certificate with a weight-shift-control aircraft category rating or a powered parachute category rating and holds a U.S. driver's license; 
 
-(v) Is exercising the privileges of a sport pilot certificate with other than glider or balloon privileges and holds a U.S. driver's license. A person who has applied for or held a medical certificate may exercise the privileges of a sport pilot certificate using a U.S. driver's license only if that person—
+(iv) Is exercising the privileges of a sport pilot certificate with glider or balloon privileges; 
 
-(A) Has been found eligible for the issuance of at least a third-class airman medical certificate at the time of his or her most recent application; and
+(v) Is exercising the privileges of a sport pilot certificate with other than glider or balloon privileges and holds a U.S. driver's license. A person who has applied for or held a medical certificate may exercise the privileges of a sport pilot certificate using a U.S. driver's license only if that person— 
 
-(B) Has not had his or her most recently issued medical certificate suspended or revoked or most recent Authorization for a Special Issuance of a Medical Certificate withdrawn.
+(A) Has been found eligible for the issuance of at least a third-class airman medical certificate at the time of his or her most recent application; and 
 
-(vi) Is holding a pilot certificate with a balloon class rating and that person—
+(B) Has not had his or her most recently issued medical certificate suspended or revoked or most recent Authorization for a Special Issuance of a Medical Certificate withdrawn. 
 
-(A) Is exercising the privileges of a private pilot certificate in a balloon; or
+(vi) Is holding a pilot certificate with a balloon class rating and that person— 
 
-(B) Is providing flight training in a balloon in accordance with § 61.133(a)(2)(ii);
+(A) Is exercising the privileges of a private pilot certificate in a balloon; or 
 
-(vii) Is holding a pilot certificate or a flight instructor certificate with a glider category rating, and is piloting or providing training in a glider, as appropriate;
+(B) Is providing flight training in a balloon in accordance with § 61.133(a)(2)(ii); 
 
-(viii) Is exercising the privileges of a flight instructor certificate, provided the person is not acting as pilot in command or as a required pilot flight crewmember;
+(vii) Is holding a pilot certificate or a flight instructor certificate with a glider category rating, and is piloting or providing training in a glider, as appropriate; 
 
-(ix) Is exercising the privileges of a ground instructor certificate;
+(viii) Is exercising the privileges of a flight instructor certificate, provided the person is not acting as pilot in command or as a required pilot flight crewmember; 
 
-(x) Is operating an aircraft within a foreign country using a pilot license issued by that country and possesses evidence of current medical qualification for that license;
+(ix) Is exercising the privileges of a ground instructor certificate; 
 
-(xi) Is operating an aircraft with a U.S. pilot certificate, issued on the basis of a foreign pilot license, issued under § 61.75, and holds a medical certificate issued by the foreign country that issued the foreign pilot license, which is in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that airman certificate;
+(x) Is operating an aircraft within a foreign country using a pilot license issued by that country and possesses evidence of current medical qualification for that license; 
 
-(xii) Is a pilot of the U.S. Armed Forces, has an up-to-date U.S. military medical examination, and holds military pilot flight status;
+(xi) Is operating an aircraft with a U.S. pilot certificate, issued on the basis of a foreign pilot license, issued under § 61.75, and holds a medical certificate issued by the foreign country that issued the foreign pilot license, which is in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that airman certificate; 
 
-(xiii) Is exercising the privileges of a student, recreational or private pilot certificate for operations conducted under the conditions and limitations set forth in § 61.113(i) and holds a U.S. driver's license;
+(xii) Is a pilot of the U.S. Armed Forces, has an up-to-date U.S. military medical examination, and holds military pilot flight status; 
 
-(xiv) Is exercising the privileges of a flight instructor certificate and acting as pilot in command or a required flightcrew member for operations conducted under the conditions and limitations set forth in § 61.113(i) and holds a U.S. driver's license; or
+(xiii) Is exercising the privileges of a student, recreational or private pilot certificate for operations conducted under the conditions and limitations set forth in § 61.113(i) and holds a U.S. driver's license; 
 
-(xv) Is exercising the privileges of a student pilot certificate or higher while acting as pilot in command on a special medical flight test authorized under part 67 of this chapter.
+(xiv) Is exercising the privileges of a flight instructor certificate and acting as pilot in command or a required flightcrew member for operations conducted under the conditions and limitations set forth in § 61.113(i) and holds a U.S. driver's license; or 
 
-(d) *Flight instructor certificate.* (1) A person who holds a flight instructor certificate issued under this part must have that certificate, or other documentation acceptable to the Administrator, in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that flight instructor certificate.
+(xv) Is exercising the privileges of a student pilot certificate or higher while acting as pilot in command on a special medical flight test authorized under part 67 of this chapter. 
 
-(2) Except as provided in paragraph (d)(3) of this section, no person other than the holder of a flight instructor certificate issued under this part with the appropriate rating on that certificate may—
+(d) *Flight instructor certificate.* (1) A person who holds a flight instructor certificate issued under this part must have that certificate, or other documentation acceptable to the Administrator, in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that flight instructor certificate. 
 
-(i) Give training required to qualify a person for solo flight and solo cross-country flight;
+(2) Except as provided in paragraph (d)(3) of this section, no person other than the holder of a flight instructor certificate issued under this part with the appropriate rating on that certificate may— 
 
-(ii) Endorse an applicant for a—
+(i) Give training required to qualify a person for solo flight and solo cross-country flight; 
 
-(A) Pilot certificate or rating issued under this part;
+(ii) Endorse an applicant for a— 
 
-(B) Flight instructor certificate or rating issued under this part; or
+(A) Pilot certificate or rating issued under this part; 
 
-(C) Ground instructor certificate or rating issued under this part;
+(B) Flight instructor certificate or rating issued under this part; or 
 
-(iii) Endorse a pilot logbook to show training given; or
+(C) Ground instructor certificate or rating issued under this part; 
 
-(iv) Endorse a logbook for solo operating privileges.
+(iii) Endorse a pilot logbook to show training given; or 
 
-(3) A flight instructor certificate issued under this part is not necessary—
+(iv) Endorse a logbook for solo operating privileges. 
 
-(i) Under paragraph (d)(2) of this section, if the training is given by the holder of a commercial pilot certificate with a lighter-than-air rating, provided the training is given in accordance with the privileges of the certificate in a lighter-than-air aircraft;
+(3) A flight instructor certificate issued under this part is not necessary— 
 
-(ii) Under paragraph (d)(2) of this section, if the training is given by the holder of an airline transport pilot certificate with a rating appropriate to the aircraft in which the training is given, provided the training is given in accordance with the privileges of the certificate and conducted in accordance with an approved air carrier training program approved under part 121 or part 135 of this chapter;
+(i) Under paragraph (d)(2) of this section, if the training is given by the holder of a commercial pilot certificate with a lighter-than-air rating, provided the training is given in accordance with the privileges of the certificate in a lighter-than-air aircraft; 
 
-(iii) Under paragraph (d)(2) of this section, if the training is given by a person who is qualified in accordance with subpart C of part 142 of this chapter, provided the training is conducted in accordance with an approved part 142 training program;
+(ii) Under paragraph (d)(2) of this section, if the training is given by the holder of an airline transport pilot certificate with a rating appropriate to the aircraft in which the training is given, provided the training is given in accordance with the privileges of the certificate and conducted in accordance with an approved air carrier training program approved under part 121 or part 135 of this chapter; 
 
-(iv) Under paragraphs (d)(2)(i), (d)(2)(ii)(C), and (d)(2)(iii) of this section, if the training is given by the holder of a ground instructor certificate in accordance with the privileges of the certificate; or
+(iii) Under paragraph (d)(2) of this section, if the training is given by a person who is qualified in accordance with subpart C of part 142 of this chapter, provided the training is conducted in accordance with an approved part 142 training program; 
 
-(v) Under paragraph (d)(2)(iii) of this section, if the training is given by an authorized flight instructor under § 61.41 of this part.
+(iv) Under paragraphs (d)(2)(i), (d)(2)(ii)(C), and (d)(2)(iii) of this section, if the training is given by the holder of a ground instructor certificate in accordance with the privileges of the certificate; or 
 
-(e) *Instrument rating.* No person may act as pilot in command of a civil aircraft under IFR or in weather conditions less than the minimums prescribed for VFR flight unless that person holds:
+(v) Under paragraph (d)(2)(iii) of this section, if the training is given by an authorized flight instructor under § 61.41 of this part. 
 
-(1) The appropriate aircraft category, class, type (if required), and instrument rating on that person's pilot certificate for any airplane, helicopter, or powered-lift being flown;
+(e) *Instrument rating.* No person may act as pilot in command of a civil aircraft under IFR or in weather conditions less than the minimums prescribed for VFR flight unless that person holds: 
 
-(2) An airline transport pilot certificate with the appropriate aircraft category, class, and type rating (if required) for the aircraft being flown;
+(1) The appropriate aircraft category, class, type (if required), and instrument rating on that person's pilot certificate for any airplane, helicopter, or powered-lift being flown; 
 
-(3) For a glider, a pilot certificate with a glider category rating and an airplane instrument rating; or
+(2) An airline transport pilot certificate with the appropriate aircraft category, class, and type rating (if required) for the aircraft being flown; 
 
-(4) For an airship, a commercial pilot certificate with a lighter-than-air category rating and airship class rating.
+(3) For a glider, a pilot certificate with a glider category rating and an airplane instrument rating; or 
 
-(f) *Category II pilot authorization.* Except for a pilot conducting Category II operations under part 121 or part 135, a person may not:
+(4) For an airship, a commercial pilot certificate with a lighter-than-air category rating and airship class rating. 
 
-(1) Act as pilot in command of a civil aircraft during Category II operations unless that person—
+(f) *Category II pilot authorization.* Except for a pilot conducting Category II operations under part 121 or part 135, a person may not: 
 
-(i) Holds a Category II pilot authorization for that category or class of aircraft, and the type of aircraft, if applicable; or
+(1) Act as pilot in command of a civil aircraft during Category II operations unless that person— 
 
-(ii) In the case of a civil aircraft of foreign registry, is authorized by the country of registry to act as pilot in command of that aircraft in Category II operations.
+(i) Holds a Category II pilot authorization for that category or class of aircraft, and the type of aircraft, if applicable; or 
 
-(2) Act as second in command of a civil aircraft during Category II operations unless that person—
+(ii) In the case of a civil aircraft of foreign registry, is authorized by the country of registry to act as pilot in command of that aircraft in Category II operations. 
 
-(i) Holds a pilot certificate with category and class ratings for that aircraft and an instrument rating for that category aircraft;
+(2) Act as second in command of a civil aircraft during Category II operations unless that person— 
 
-(ii) Holds an airline transport pilot certificate with category and class ratings for that aircraft; or
+(i) Holds a pilot certificate with category and class ratings for that aircraft and an instrument rating for that category aircraft; 
 
-(iii) In the case of a civil aircraft of foreign registry, is authorized by the country of registry to act as second in command of that aircraft during Category II operations.
+(ii) Holds an airline transport pilot certificate with category and class ratings for that aircraft; or 
 
-(g) *Category III pilot authorization.* Except for a pilot conducting Category III operations under part 121 or part 135, a person may not:
+(iii) In the case of a civil aircraft of foreign registry, is authorized by the country of registry to act as second in command of that aircraft during Category II operations. 
 
-(1) Act as pilot in command of a civil aircraft during Category III operations unless that person—
+(g) *Category III pilot authorization.* Except for a pilot conducting Category III operations under part 121 or part 135, a person may not: 
 
-(i) Holds a Category III pilot authorization for that category or class of aircraft, and the type of aircraft, if applicable; or
+(1) Act as pilot in command of a civil aircraft during Category III operations unless that person— 
 
-(ii) In the case of a civil aircraft of foreign registry, is authorized by the country of registry to act as pilot in command of that aircraft in Category III operations.
+(i) Holds a Category III pilot authorization for that category or class of aircraft, and the type of aircraft, if applicable; or 
 
-(2) Act as second in command of a civil aircraft during Category III operations unless that person—
+(ii) In the case of a civil aircraft of foreign registry, is authorized by the country of registry to act as pilot in command of that aircraft in Category III operations. 
 
-(i) Holds a pilot certificate with category and class ratings for that aircraft and an instrument rating for that category aircraft;
+(2) Act as second in command of a civil aircraft during Category III operations unless that person— 
 
-(ii) Holds an airline transport pilot certificate with category and class ratings for that aircraft; or
+(i) Holds a pilot certificate with category and class ratings for that aircraft and an instrument rating for that category aircraft; 
 
-(iii) In the case of a civil aircraft of foreign registry, is authorized by the country of registry to act as second in command of that aircraft during Category III operations.
+(ii) Holds an airline transport pilot certificate with category and class ratings for that aircraft; or 
 
-(h) *Category A aircraft pilot authorization.* The Administrator may issue a certificate of authorization for a Category II or Category III operation to the pilot of a small aircraft that is a Category A aircraft, as identified in § 97.3(b)(1) of this chapter if:
+(iii) In the case of a civil aircraft of foreign registry, is authorized by the country of registry to act as second in command of that aircraft during Category III operations. 
 
-(1) The Administrator determines that the Category II or Category III operation can be performed safely by that pilot under the terms of the certificate of authorization; and
+(h) *Category A aircraft pilot authorization.* The Administrator may issue a certificate of authorization for a Category II or Category III operation to the pilot of a small aircraft that is a Category A aircraft, as identified in § 97.3(b)(1) of this chapter if: 
 
-(2) The Category II or Category III operation does not involve the carriage of persons or property for compensation or hire.
+(1) The Administrator determines that the Category II or Category III operation can be performed safely by that pilot under the terms of the certificate of authorization; and 
 
-(i) *Ground instructor certificate.* (1) Each person who holds a ground instructor certificate issued under this part must have that certificate or a temporary document issued under § 61.29(e) in that person's physical possession or immediately accessible when exercising the privileges of that certificate.
+(2) The Category II or Category III operation does not involve the carriage of persons or property for compensation or hire. 
 
-(2) Except as provided in paragraph (i)(3) of this section, no person other than the holder of a ground instructor certificate, issued under this part or part 143, with the appropriate rating on that certificate may—
+(i) *Ground instructor certificate.* (1) Each person who holds a ground instructor certificate issued under this part must have that certificate or a temporary document issued under § 61.29(e) in that person's physical possession or immediately accessible when exercising the privileges of that certificate. 
 
-(i) Give ground training required to qualify a person for solo flight and solo cross-country flight;
+(2) Except as provided in paragraph (i)(3) of this section, no person other than the holder of a ground instructor certificate, issued under this part or part 143, with the appropriate rating on that certificate may— 
 
-(ii) Endorse an applicant for a knowledge test required for a pilot, flight instructor, or ground instructor certificate or rating issued under this part; or
+(i) Give ground training required to qualify a person for solo flight and solo cross-country flight; 
 
-(iii) Endorse a pilot logbook to show ground training given.
+(ii) Endorse an applicant for a knowledge test required for a pilot, flight instructor, or ground instructor certificate or rating issued under this part; or 
 
-(3) A ground instructor certificate issued under this part is not necessary—
+(iii) Endorse a pilot logbook to show ground training given. 
 
-(i) Under paragraph (i)(2) of this section, if the training is given by the holder of a flight instructor certificate issued under this part in accordance with the privileges of that certificate;
+(3) A ground instructor certificate issued under this part is not necessary— 
 
-(ii) Under paragraph (i)(2) of this section, if the training is given by the holder of a commercial pilot certificate with a lighter-than-air rating, provided the training is given in accordance with the privileges of the certificate in a lighter-than-air aircraft;
+(i) Under paragraph (i)(2) of this section, if the training is given by the holder of a flight instructor certificate issued under this part in accordance with the privileges of that certificate; 
 
-(iii) Under paragraph (i)(2) of this section, if the training is given by the holder of an airline transport pilot certificate with a rating appropriate to the aircraft in which the training is given, provided the training is given in accordance with the privileges of the certificate and conducted in accordance with an approved air carrier training program approved under part 121 or part 135 of this chapter;
+(ii) Under paragraph (i)(2) of this section, if the training is given by the holder of a commercial pilot certificate with a lighter-than-air rating, provided the training is given in accordance with the privileges of the certificate in a lighter-than-air aircraft; 
 
-(iv) Under paragraph (i)(2) of this section, if the training is given by a person who is qualified in accordance with subpart C of part 142 of this chapter, provided the training is conducted in accordance with an approved part 142 training program; or
+(iii) Under paragraph (i)(2) of this section, if the training is given by the holder of an airline transport pilot certificate with a rating appropriate to the aircraft in which the training is given, provided the training is given in accordance with the privileges of the certificate and conducted in accordance with an approved air carrier training program approved under part 121 or part 135 of this chapter; 
 
-(v) Under paragraph (i)(2)(iii) of this section, if the training is given by an authorized flight instructor under § 61.41 of this part.
+(iv) Under paragraph (i)(2) of this section, if the training is given by a person who is qualified in accordance with subpart C of part 142 of this chapter, provided the training is conducted in accordance with an approved part 142 training program; or 
 
-(j) *Age limitation for certain operations.* (1) *Age limitation.* No person who holds a pilot certificate issued under this part may serve as a pilot on a civil airplane of U.S. registry in the following operations if the person has reached his or her 60th birthday or, in the case of operations with more than one pilot, his or her 65th birthday:
+(v) Under paragraph (i)(2)(iii) of this section, if the training is given by an authorized flight instructor under § 61.41 of this part. 
 
-(i) Scheduled international air services carrying passengers in turbojet-powered airplanes;
+(j) *Age limitation for certain operations.* (1) *Age limitation.* No person who holds a pilot certificate issued under this part may serve as a pilot on a civil airplane of U.S. registry in the following operations if the person has reached his or her 60th birthday or, in the case of operations with more than one pilot, his or her 65th birthday: 
 
-(ii) Scheduled international air services carrying passengers in airplanes having a passenger-seat configuration of more than nine passenger seats, excluding each crewmember seat;
+(i) Scheduled international air services carrying passengers in turbojet-powered airplanes; 
 
-(iii) Nonscheduled international air transportation for compensation or hire in airplanes having a passenger-seat configuration of more than 30 passenger seats, excluding each crewmember seat; or
+(ii) Scheduled international air services carrying passengers in airplanes having a passenger-seat configuration of more than nine passenger seats, excluding each crewmember seat; 
 
-(iv) Scheduled international air services, or nonscheduled international air transportation for compensation or hire, in airplanes having a payload capacity of more than 7,500 pounds.
+(iii) Nonscheduled international air transportation for compensation or hire in airplanes having a passenger-seat configuration of more than 30 passenger seats, excluding each crewmember seat; or 
 
-(2) *Definitions.* (i) “International air service,” as used in this paragraph (j), means scheduled air service performed in airplanes for the public transport of passengers, mail, or cargo, in which the service passes through the airspace over the territory of more than one country.
+(iv) Scheduled international air services, or nonscheduled international air transportation for compensation or hire, in airplanes having a payload capacity of more than 7,500 pounds. 
 
-(ii) “International air transportation,” as used in this paragraph (j), means air transportation performed in airplanes for the public transport of passengers, mail, or cargo, in which the service passes through the airspace over the territory of more than one country.
+(2) *Definitions.* (i) “International air service,” as used in this paragraph (j), means scheduled air service performed in airplanes for the public transport of passengers, mail, or cargo, in which the service passes through the airspace over the territory of more than one country. 
 
-(k) *Special purpose pilot authorization.* Any person that is required to hold a special purpose pilot authorization, issued in accordance with § 61.77 of this part, must have that authorization and the person's foreign pilot license in that person's physical possession or have it readily accessible in the aircraft when exercising the privileges of that authorization.
+(ii) “International air transportation,” as used in this paragraph (j), means air transportation performed in airplanes for the public transport of passengers, mail, or cargo, in which the service passes through the airspace over the territory of more than one country. 
 
-(l) *Inspection of certificate.* Each person who holds an airman certificate, temporary document in accordance with paragraph (a)(1)(v) or (vi) of this section, medical certificate, documents establishing alternative medical qualification under part 68 of this chapter, authorization, or license required by this part must present it and their photo identification as described in paragraph (a)(2) of this section for inspection upon a request from:
+(k) *Special purpose pilot authorization.* Any person that is required to hold a special purpose pilot authorization, issued in accordance with § 61.77 of this part, must have that authorization and the person's foreign pilot license in that person's physical possession or have it readily accessible in the aircraft when exercising the privileges of that authorization. 
 
-(1) The Administrator;
+(l) *Inspection of certificate.* Each person who holds an airman certificate, temporary document in accordance with paragraph (a)(1)(v) or (vi) of this section, medical certificate, documents establishing alternative medical qualification under part 68 of this chapter, authorization, or license required by this part must present it and their photo identification as described in paragraph (a)(2) of this section for inspection upon a request from: 
 
-(2) An authorized representative of the National Transportation Safety Board;
+(1) The Administrator; 
 
-(3) Any Federal, State, or local law enforcement officer; or
+(2) An authorized representative of the National Transportation Safety Board; 
 
-(4) An authorized representative of the Transportation Security Administration.
+(3) Any Federal, State, or local law enforcement officer; or 
+
+(4) An authorized representative of the Transportation Security Administration. 
 
 \[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40894, July 30, 1997; Amdt. 61-111, 67 FR 65861, Oct. 28, 2002; Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53644, Oct. 20, 2009; Amdt. 61-131, 78 FR 56828, Sept. 16, 2013; Amdt. 61-134, 80 FR 33400, June 12, 2015; Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1306, Jan. 12, 2016; Doc. No. FAA-2016-9157, Amdt. 61-140, 82 FR 3164, Jan. 11, 2017; Amdt. 60-6, 83 FR 30276, June 27, 2018; Docket No. FAA-2021-1040, Amdt. Nos. 61-152, 87 FR 71236, Nov. 22, 2022; Docket No. FAA-2021-1040; Amdt. No. 61-152, 87 FR 71236, Nov. 22, 2022\]

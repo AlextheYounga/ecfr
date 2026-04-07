@@ -1,135 +1,137 @@
 ##### § 61.5 Certificates and ratings issued under this part.
 
-(a) The following certificates are issued under this part to an applicant who satisfactorily accomplishes the training and certification requirements for the certificate sought:
+Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
-(1) Pilot certificates—
+(a) The following certificates are issued under this part to an applicant who satisfactorily accomplishes the training and certification requirements for the certificate sought: 
 
-(i) Student pilot.
+(1) Pilot certificates— 
 
-(ii) Sport pilot.
+(i) Student pilot. 
 
-(iii) Recreational pilot.
+(ii) Sport pilot. 
 
-(iv) Private pilot.
+(iii) Recreational pilot. 
 
-(v) Commercial pilot.
+(iv) Private pilot. 
 
-(vi) Airline transport pilot.
+(v) Commercial pilot. 
 
-(2) Flight instructor certificates.
+(vi) Airline transport pilot. 
 
-(3) Ground instructor certificates.
+(2) Flight instructor certificates. 
 
-(b) The following ratings are placed on a pilot certificate (other than student pilot) when an applicant satisfactorily accomplishes the training and certification requirements for the rating sought:
+(3) Ground instructor certificates. 
 
-(1) Aircraft category ratings—
+(b) The following ratings are placed on a pilot certificate (other than student pilot) when an applicant satisfactorily accomplishes the training and certification requirements for the rating sought: 
 
-(i) Airplane.
+(1) Aircraft category ratings— 
 
-(ii) Rotorcraft.
+(i) Airplane. 
 
-(iii) Glider.
+(ii) Rotorcraft. 
 
-(iv) Lighter-than-air.
+(iii) Glider. 
 
-(v) Powered-lift.
+(iv) Lighter-than-air. 
 
-(vi) Powered parachute.
+(v) Powered-lift. 
 
-(vii) Weight-shift-control aircraft.
+(vi) Powered parachute. 
 
-(2) Airplane class ratings—
+(vii) Weight-shift-control aircraft. 
 
-(i) Single-engine land.
+(2) Airplane class ratings— 
 
-(ii) Multiengine land.
+(i) Single-engine land. 
 
-(iii) Single-engine sea.
+(ii) Multiengine land. 
 
-(iv) Multiengine sea.
+(iii) Single-engine sea. 
 
-(3) Rotorcraft class ratings—
+(iv) Multiengine sea. 
 
-(i) Helicopter.
+(3) Rotorcraft class ratings— 
 
-(ii) Gyroplane.
+(i) Helicopter. 
 
-(4) Lighter-than-air class ratings—
+(ii) Gyroplane. 
 
-(i) Airship.
+(4) Lighter-than-air class ratings— 
 
-(ii) Balloon.
+(i) Airship. 
 
-(5) Weight-shift-control aircraft class ratings—
+(ii) Balloon. 
 
-(i) Weight-shift-control aircraft land.
+(5) Weight-shift-control aircraft class ratings— 
 
-(ii) Weight-shift-control aircraft sea.
+(i) Weight-shift-control aircraft land. 
 
-(6) Powered parachute class ratings—
+(ii) Weight-shift-control aircraft sea. 
 
-(i) Powered parachute land.
+(6) Powered parachute class ratings— 
 
-(ii) Powered parachute sea.
+(i) Powered parachute land. 
 
-(7) Aircraft type ratings—
+(ii) Powered parachute sea. 
 
-(i) Large aircraft other than lighter-than-air.
+(7) Aircraft type ratings— 
 
-(ii) Turbojet-powered airplanes.
+(i) Large aircraft other than lighter-than-air. 
 
-(iii) Other aircraft type ratings specified by the Administrator through the aircraft type certification procedures.
+(ii) Turbojet-powered airplanes. 
 
-(iv) Second-in-command pilot type rating for aircraft that is certificated for operations with a minimum crew of at least two pilots.
+(iii) Other aircraft type ratings specified by the Administrator through the aircraft type certification procedures. 
 
-(8) Instrument ratings (on private and commercial pilot certificates only)—
+(iv) Second-in-command pilot type rating for aircraft that is certificated for operations with a minimum crew of at least two pilots. 
 
-(i) Instrument—Airplane.
+(8) Instrument ratings (on private and commercial pilot certificates only)— 
 
-(ii) Instrument—Helicopter.
+(i) Instrument—Airplane. 
 
-(iii) Instrument—Powered-lift.
+(ii) Instrument—Helicopter. 
 
-(c) The following ratings are placed on a flight instructor certificate when an applicant satisfactorily accomplishes the training and certification requirements for the rating sought:
+(iii) Instrument—Powered-lift. 
 
-(1) Aircraft category ratings—
+(c) The following ratings are placed on a flight instructor certificate when an applicant satisfactorily accomplishes the training and certification requirements for the rating sought: 
 
-(i) Airplane.
+(1) Aircraft category ratings— 
 
-(ii) Rotorcraft.
+(i) Airplane. 
 
-(iii) Glider.
+(ii) Rotorcraft. 
 
-(iv) Powered-lift.
+(iii) Glider. 
 
-(2) Airplane class ratings—
+(iv) Powered-lift. 
 
-(i) Single-engine.
+(2) Airplane class ratings— 
 
-(ii) Multiengine.
+(i) Single-engine. 
 
-(3) Rotorcraft class ratings—
+(ii) Multiengine. 
 
-(i) Helicopter.
+(3) Rotorcraft class ratings— 
 
-(ii) Gyroplane.
+(i) Helicopter. 
 
-(4) Instrument ratings—
+(ii) Gyroplane. 
 
-(i) Instrument—Airplane.
+(4) Instrument ratings— 
 
-(ii) Instrument—Helicopter.
+(i) Instrument—Airplane. 
 
-(iii) Instrument—Powered-lift.
+(ii) Instrument—Helicopter. 
 
-(5) Sport pilot rating.
+(iii) Instrument—Powered-lift. 
 
-(d) The following ratings are placed on a ground instructor certificate when an applicant satisfactorily accomplishes the training and certification requirements for the rating sought:
+(5) Sport pilot rating. 
 
-(1) Basic.
+(d) The following ratings are placed on a ground instructor certificate when an applicant satisfactorily accomplishes the training and certification requirements for the rating sought: 
 
-(2) Advanced.
+(1) Basic. 
 
-(3) Instrument.
+(2) Advanced. 
+
+(3) Instrument. 
 
 \[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-113, 70 FR 45271, Aug. 4, 2005\]

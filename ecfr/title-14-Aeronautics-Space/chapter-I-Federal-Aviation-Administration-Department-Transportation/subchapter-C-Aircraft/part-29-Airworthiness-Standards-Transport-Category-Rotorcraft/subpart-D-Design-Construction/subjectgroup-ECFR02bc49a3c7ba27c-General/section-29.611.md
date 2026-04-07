@@ -1,9 +1,9 @@
 ##### § 29.611 Inspection provisions.
 
-There must be means to allow close examination of each part that requires—
+There must be means to allow close examination of each part that requires— 
 
-(a) Recurring inspection;
+(a) Recurring inspection; 
 
-(b) Adjustment for proper alignment and functioning; or
+(b) Adjustment for proper alignment and functioning; or 
 
 (c) Lubrication.

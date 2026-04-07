@@ -1,181 +1,183 @@
 ##### § 61.31 Type rating requirements, additional training, and authorization requirements.
 
-(a) *Type ratings required.* A person who acts as a pilot in command of any of the following aircraft must hold a type rating for that aircraft:
+Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
-(1) Large aircraft (except lighter-than-air).
+(a) *Type ratings required.* A person who acts as a pilot in command of any of the following aircraft must hold a type rating for that aircraft: 
 
-(2) Turbojet-powered airplanes.
+(1) Large aircraft (except lighter-than-air). 
 
-(3) Other aircraft specified by the Administrator through aircraft type certificate procedures.
+(2) Turbojet-powered airplanes. 
 
-(b) *Authorization in lieu of a type rating.* A person may be authorized to operate without a type rating for up to 60 days an aircraft requiring a type rating, provided—
+(3) Other aircraft specified by the Administrator through aircraft type certificate procedures. 
 
-(1) The Administrator has authorized the flight or series of flights;
+(b) *Authorization in lieu of a type rating.* A person may be authorized to operate without a type rating for up to 60 days an aircraft requiring a type rating, provided— 
 
-(2) The Administrator has determined that an equivalent level of safety can be achieved through the operating limitations on the authorization;
+(1) The Administrator has authorized the flight or series of flights; 
 
-(3) The person shows that compliance with paragraph (a) of this section is impracticable for the flight or series of flights; and
+(2) The Administrator has determined that an equivalent level of safety can be achieved through the operating limitations on the authorization; 
 
-(4) The flight—
+(3) The person shows that compliance with paragraph (a) of this section is impracticable for the flight or series of flights; and 
 
-(i) Involves only a ferry flight, training flight, test flight, or practical test for a pilot certificate or rating;
+(4) The flight— 
 
-(ii) Is within the United States;
+(i) Involves only a ferry flight, training flight, test flight, or practical test for a pilot certificate or rating; 
 
-(iii) Does not involve operations for compensation or hire unless the compensation or hire involves payment for the use of the aircraft for training or taking a practical test; and
+(ii) Is within the United States; 
 
-(iv) Involves only the carriage of flight crewmembers considered essential for the flight.
+(iii) Does not involve operations for compensation or hire unless the compensation or hire involves payment for the use of the aircraft for training or taking a practical test; and 
 
-(5) If the flight or series of flights cannot be accomplished within the time limit of the authorization, the Administrator may authorize an additional period of up to 60 days to accomplish the flight or series of flights.
+(iv) Involves only the carriage of flight crewmembers considered essential for the flight. 
 
-(c) *Aircraft category, class, and type ratings: Limitations on the carriage of persons, or operating for compensation or hire.* Unless a person holds a category, class, and type rating (if a class and type rating is required) that applies to the aircraft, that person may not act as pilot in command of an aircraft that is carrying another person, or is operated for compensation or hire. That person also may not act as pilot in command of that aircraft for compensation or hire.
+(5) If the flight or series of flights cannot be accomplished within the time limit of the authorization, the Administrator may authorize an additional period of up to 60 days to accomplish the flight or series of flights. 
 
-(d) *Aircraft category, class, and type ratings: Limitations on operating an aircraft as the pilot in command.* To serve as the pilot in command of an aircraft, a person must—
+(c) *Aircraft category, class, and type ratings: Limitations on the carriage of persons, or operating for compensation or hire.* Unless a person holds a category, class, and type rating (if a class and type rating is required) that applies to the aircraft, that person may not act as pilot in command of an aircraft that is carrying another person, or is operated for compensation or hire. That person also may not act as pilot in command of that aircraft for compensation or hire. 
 
-(1) Hold the appropriate category, class, and type rating (if a class or type rating is required) for the aircraft to be flown; or
+(d) *Aircraft category, class, and type ratings: Limitations on operating an aircraft as the pilot in command.* To serve as the pilot in command of an aircraft, a person must— 
 
-(2) Have received training required by this part that is appropriate to the pilot certification level, aircraft category, class, and type rating (if a class or type rating is required) for the aircraft to be flown, and have received an endorsement for solo flight in that aircraft from an authorized instructor.
+(1) Hold the appropriate category, class, and type rating (if a class or type rating is required) for the aircraft to be flown; or 
 
-(e) *Additional training required for operating complex airplanes.* (1) Except as provided in paragraph (e)(2) of this section, no person may act as pilot in command of a complex airplane, unless the person has—
+(2) Have received training required by this part that is appropriate to the pilot certification level, aircraft category, class, and type rating (if a class or type rating is required) for the aircraft to be flown, and have received an endorsement for solo flight in that aircraft from an authorized instructor. 
 
-(i) Received and logged ground and flight training from an authorized instructor in a complex airplane, or in a full flight simulator or flight training device that is representative of a complex airplane, and has been found proficient in the operation and systems of the airplane; and
+(e) *Additional training required for operating complex airplanes.* (1) Except as provided in paragraph (e)(2) of this section, no person may act as pilot in command of a complex airplane, unless the person has— 
 
-(ii) Received a one-time endorsement in the pilot's logbook from an authorized instructor who certifies the person is proficient to operate a complex airplane.
+(i) Received and logged ground and flight training from an authorized instructor in a complex airplane, or in a full flight simulator or flight training device that is representative of a complex airplane, and has been found proficient in the operation and systems of the airplane; and 
 
-(2) The training and endorsement required by paragraph (e)(1) of this section is not required if—
+(ii) Received a one-time endorsement in the pilot's logbook from an authorized instructor who certifies the person is proficient to operate a complex airplane. 
 
-(i) The person has logged flight time as pilot in command of a complex airplane, or in a full flight simulator or flight training device that is representative of a complex airplane prior to August 4, 1997; or
+(2) The training and endorsement required by paragraph (e)(1) of this section is not required if— 
 
-(ii) The person has received ground and flight training under an approved training program and has satisfactorily completed a competency check under § 135.293 of this chapter in a complex airplane, or in a full flight simulator or flight training device that is representative of a complex airplane which must be documented in the pilot's logbook or training record.
+(i) The person has logged flight time as pilot in command of a complex airplane, or in a full flight simulator or flight training device that is representative of a complex airplane prior to August 4, 1997; or 
 
-(f) *Additional training required for operating high-performance airplanes.* (1) Except as provided in paragraph (f)(2) of this section, no person may act as pilot in command of a high-performance airplane (an airplane with an engine of more than 200 horsepower), unless the person has—
+(ii) The person has received ground and flight training under an approved training program and has satisfactorily completed a competency check under § 135.293 of this chapter in a complex airplane, or in a full flight simulator or flight training device that is representative of a complex airplane which must be documented in the pilot's logbook or training record. 
 
-(i) Received and logged ground and flight training from an authorized instructor in a high-performance airplane, or in a full flight simulator or flight training device that is representative of a high-performance airplane, and has been found proficient in the operation and systems of the airplane; and
+(f) *Additional training required for operating high-performance airplanes.* (1) Except as provided in paragraph (f)(2) of this section, no person may act as pilot in command of a high-performance airplane (an airplane with an engine of more than 200 horsepower), unless the person has— 
 
-(ii) Received a one-time endorsement in the pilot's logbook from an authorized instructor who certifies the person is proficient to operate a high-performance airplane.
+(i) Received and logged ground and flight training from an authorized instructor in a high-performance airplane, or in a full flight simulator or flight training device that is representative of a high-performance airplane, and has been found proficient in the operation and systems of the airplane; and 
 
-(2) The training and endorsement required by paragraph (f)(1) of this section is not required if—
+(ii) Received a one-time endorsement in the pilot's logbook from an authorized instructor who certifies the person is proficient to operate a high-performance airplane. 
 
-(i) The person has logged flight time as pilot in command of a high-performance airplane, or in a full flight simulator or flight training device that is representative of a high-performance airplane prior to August 4, 1997; or
+(2) The training and endorsement required by paragraph (f)(1) of this section is not required if— 
 
-(ii) The person has received ground and flight training under an approved training program and has satisfactorily completed a competency check under § 135.293 of this chapter in a high performance airplane, or in a full flight simulator or flight training device that is representative of a high performance airplane which must be documented in the pilot's logbook or training record.
+(i) The person has logged flight time as pilot in command of a high-performance airplane, or in a full flight simulator or flight training device that is representative of a high-performance airplane prior to August 4, 1997; or 
 
-(g) *Additional training required for operating pressurized aircraft capable of operating at high altitudes.* (1) Except as provided in paragraph (g)(3) of this section, no person may act as pilot in command of a pressurized aircraft (an aircraft that has a service ceiling or maximum operating altitude, whichever is lower, above 25,000 feet MSL), unless that person has received and logged ground training from an authorized instructor and obtained an endorsement in the person's logbook or training record from an authorized instructor who certifies the person has satisfactorily accomplished the ground training. The ground training must include at least the following subjects:
+(ii) The person has received ground and flight training under an approved training program and has satisfactorily completed a competency check under § 135.293 of this chapter in a high performance airplane, or in a full flight simulator or flight training device that is representative of a high performance airplane which must be documented in the pilot's logbook or training record. 
 
-(i) High-altitude aerodynamics and meteorology;
+(g) *Additional training required for operating pressurized aircraft capable of operating at high altitudes.* (1) Except as provided in paragraph (g)(3) of this section, no person may act as pilot in command of a pressurized aircraft (an aircraft that has a service ceiling or maximum operating altitude, whichever is lower, above 25,000 feet MSL), unless that person has received and logged ground training from an authorized instructor and obtained an endorsement in the person's logbook or training record from an authorized instructor who certifies the person has satisfactorily accomplished the ground training. The ground training must include at least the following subjects: 
 
-(ii) Respiration;
+(i) High-altitude aerodynamics and meteorology; 
 
-(iii) Effects, symptoms, and causes of hypoxia and any other high-altitude sickness;
+(ii) Respiration; 
 
-(iv) Duration of consciousness without supplemental oxygen;
+(iii) Effects, symptoms, and causes of hypoxia and any other high-altitude sickness; 
 
-(v) Effects of prolonged usage of supplemental oxygen;
+(iv) Duration of consciousness without supplemental oxygen; 
 
-(vi) Causes and effects of gas expansion and gas bubble formation;
+(v) Effects of prolonged usage of supplemental oxygen; 
 
-(vii) Preventive measures for eliminating gas expansion, gas bubble formation, and high-altitude sickness;
+(vi) Causes and effects of gas expansion and gas bubble formation; 
 
-(viii) Physical phenomena and incidents of decompression; and
+(vii) Preventive measures for eliminating gas expansion, gas bubble formation, and high-altitude sickness; 
 
-(ix) Any other physiological aspects of high-altitude flight.
+(viii) Physical phenomena and incidents of decompression; and 
 
-(2) Except as provided in paragraph (g)(3) of this section, no person may act as pilot in command of a pressurized aircraft unless that person has received and logged training from an authorized instructor in a pressurized aircraft, or in a full flight simulator or flight training device that is representative of a pressurized aircraft, and obtained an endorsement in the person's logbook or training record from an authorized instructor who found the person proficient in the operation of a pressurized aircraft. The flight training must include at least the following subjects:
+(ix) Any other physiological aspects of high-altitude flight. 
 
-(i) Normal cruise flight operations while operating above 25,000 feet MSL;
+(2) Except as provided in paragraph (g)(3) of this section, no person may act as pilot in command of a pressurized aircraft unless that person has received and logged training from an authorized instructor in a pressurized aircraft, or in a full flight simulator or flight training device that is representative of a pressurized aircraft, and obtained an endorsement in the person's logbook or training record from an authorized instructor who found the person proficient in the operation of a pressurized aircraft. The flight training must include at least the following subjects: 
 
-(ii) Proper emergency procedures for simulated rapid decompression without actually depressurizing the aircraft; and
+(i) Normal cruise flight operations while operating above 25,000 feet MSL; 
 
-(iii) Emergency descent procedures.
+(ii) Proper emergency procedures for simulated rapid decompression without actually depressurizing the aircraft; and 
 
-(3) The training and endorsement required by paragraphs (g)(1) and (g)(2) of this section are not required if that person can document satisfactory accomplishment of any of the following in a pressurized aircraft, or in a full flight simulator or flight training device that is representative of a pressurized aircraft:
+(iii) Emergency descent procedures. 
 
-(i) Serving as pilot in command before April 15, 1991;
+(3) The training and endorsement required by paragraphs (g)(1) and (g)(2) of this section are not required if that person can document satisfactory accomplishment of any of the following in a pressurized aircraft, or in a full flight simulator or flight training device that is representative of a pressurized aircraft: 
 
-(ii) Completing a pilot proficiency check for a pilot certificate or rating before April 15, 1991;
+(i) Serving as pilot in command before April 15, 1991; 
 
-(iii) Completing an official pilot-in-command check conducted by the military services of the United States; or
+(ii) Completing a pilot proficiency check for a pilot certificate or rating before April 15, 1991; 
 
-(iv) Completing a pilot-in-command proficiency check under part 121, 125, or 135 of this chapter conducted by the Administrator or by an approved pilot check airman.
+(iii) Completing an official pilot-in-command check conducted by the military services of the United States; or 
 
-(h) *Additional aircraft type-specific training.* No person may serve as pilot in command of an aircraft that the Administrator has determined requires aircraft type-specific training unless that person has—
+(iv) Completing a pilot-in-command proficiency check under part 121, 125, or 135 of this chapter conducted by the Administrator or by an approved pilot check airman. 
 
-(1) Received and logged type-specific training in the aircraft, or in a full flight simulator or flight training device that is representative of that type of aircraft; and
+(h) *Additional aircraft type-specific training.* No person may serve as pilot in command of an aircraft that the Administrator has determined requires aircraft type-specific training unless that person has— 
 
-(2) Received a logbook endorsement from an authorized instructor who has found the person proficient in the operation of the aircraft and its systems.
+(1) Received and logged type-specific training in the aircraft, or in a full flight simulator or flight training device that is representative of that type of aircraft; and 
 
-(i) *Additional training required for operating tailwheel airplanes.* (1) Except as provided in paragraph (i)(2) of this section, no person may act as pilot in command of a tailwheel airplane unless that person has received and logged flight training from an authorized instructor in a tailwheel airplane and received an endorsement in the person's logbook from an authorized instructor who found the person proficient in the operation of a tailwheel airplane. The flight training must include at least the following maneuvers and procedures:
+(2) Received a logbook endorsement from an authorized instructor who has found the person proficient in the operation of the aircraft and its systems. 
 
-(i) Normal and crosswind takeoffs and landings;
+(i) *Additional training required for operating tailwheel airplanes.* (1) Except as provided in paragraph (i)(2) of this section, no person may act as pilot in command of a tailwheel airplane unless that person has received and logged flight training from an authorized instructor in a tailwheel airplane and received an endorsement in the person's logbook from an authorized instructor who found the person proficient in the operation of a tailwheel airplane. The flight training must include at least the following maneuvers and procedures: 
 
-(ii) Wheel landings (unless the manufacturer has recommended against such landings); and
+(i) Normal and crosswind takeoffs and landings; 
 
-(iii) Go-around procedures.
+(ii) Wheel landings (unless the manufacturer has recommended against such landings); and 
 
-(2) The training and endorsement required by paragraph (i)(1) of this section is not required if the person logged pilot-in-command time in a tailwheel airplane before April 15, 1991.
+(iii) Go-around procedures. 
 
-(j) *Additional training required for operating a glider.* (1) No person may act as pilot in command of a glider—
+(2) The training and endorsement required by paragraph (i)(1) of this section is not required if the person logged pilot-in-command time in a tailwheel airplane before April 15, 1991. 
 
-(i) Using ground-tow procedures, unless that person has satisfactorily accomplished ground and flight training on ground-tow procedures and operations, and has received an endorsement from an authorized instructor who certifies in that pilot's logbook that the pilot has been found proficient in ground-tow procedures and operations;
+(j) *Additional training required for operating a glider.* (1) No person may act as pilot in command of a glider— 
 
-(ii) Using aerotow procedures, unless that person has satisfactorily accomplished ground and flight training on aerotow procedures and operations, and has received an endorsement from an authorized instructor who certifies in that pilot's logbook that the pilot has been found proficient in aerotow procedures and operations; or
+(i) Using ground-tow procedures, unless that person has satisfactorily accomplished ground and flight training on ground-tow procedures and operations, and has received an endorsement from an authorized instructor who certifies in that pilot's logbook that the pilot has been found proficient in ground-tow procedures and operations; 
 
-(iii) Using self-launch procedures, unless that person has satisfactorily accomplished ground and flight training on self-launch procedures and operations, and has received an endorsement from an authorized instructor who certifies in that pilot's logbook that the pilot has been found proficient in self-launch procedures and operations.
+(ii) Using aerotow procedures, unless that person has satisfactorily accomplished ground and flight training on aerotow procedures and operations, and has received an endorsement from an authorized instructor who certifies in that pilot's logbook that the pilot has been found proficient in aerotow procedures and operations; or 
 
-(2) The holder of a glider rating issued prior to August 4, 1997, is considered to be in compliance with the training and logbook endorsement requirements of this paragraph for the specific operating privilege for which the holder is already qualified.
+(iii) Using self-launch procedures, unless that person has satisfactorily accomplished ground and flight training on self-launch procedures and operations, and has received an endorsement from an authorized instructor who certifies in that pilot's logbook that the pilot has been found proficient in self-launch procedures and operations. 
 
-(k) *Additional training required for night vision goggle operations.* (1) Except as provided under paragraph (k)(3) of this section, a person may act as pilot in command of an aircraft using night vision goggles only if that person receives and logs ground training from an authorized instructor and obtains a logbook or training record endorsement from an authorized instructor who certifies the person completed the ground training. The ground training must include the following subjects:
+(2) The holder of a glider rating issued prior to August 4, 1997, is considered to be in compliance with the training and logbook endorsement requirements of this paragraph for the specific operating privilege for which the holder is already qualified. 
 
-(i) Applicable portions of this chapter that relate to night vision goggle limitations and flight operations;
+(k) *Additional training required for night vision goggle operations.* (1) Except as provided under paragraph (k)(3) of this section, a person may act as pilot in command of an aircraft using night vision goggles only if that person receives and logs ground training from an authorized instructor and obtains a logbook or training record endorsement from an authorized instructor who certifies the person completed the ground training. The ground training must include the following subjects: 
 
-(ii) Aeromedical factors related to the use of night vision goggles, including how to protect night vision, how the eyes adapt to night, self-imposed stresses that affect night vision, effects of lighting on night vision, cues used to estimate distance and depth perception at night, and visual illusions;
+(i) Applicable portions of this chapter that relate to night vision goggle limitations and flight operations; 
 
-(iii) Normal, abnormal, and emergency operations of night vision goggle equipment;
+(ii) Aeromedical factors related to the use of night vision goggles, including how to protect night vision, how the eyes adapt to night, self-imposed stresses that affect night vision, effects of lighting on night vision, cues used to estimate distance and depth perception at night, and visual illusions; 
 
-(iv) Night vision goggle performance and scene interpretation; and
+(iii) Normal, abnormal, and emergency operations of night vision goggle equipment; 
 
-(v) Night vision goggle operation flight planning, including night terrain interpretation and factors affecting terrain interpretation.
+(iv) Night vision goggle performance and scene interpretation; and 
 
-(2) Except as provided under paragraph (k)(3) of this section, a person may act as pilot in command of an aircraft using night vision goggles only if that person receives and logs flight training from an authorized instructor and obtains a logbook or training record endorsement from an authorized instructor who found the person proficient in the use of night vision goggles. The flight training must include the following tasks:
+(v) Night vision goggle operation flight planning, including night terrain interpretation and factors affecting terrain interpretation. 
 
-(i) Preflight and use of internal and external aircraft lighting systems for night vision goggle operations;
+(2) Except as provided under paragraph (k)(3) of this section, a person may act as pilot in command of an aircraft using night vision goggles only if that person receives and logs flight training from an authorized instructor and obtains a logbook or training record endorsement from an authorized instructor who found the person proficient in the use of night vision goggles. The flight training must include the following tasks: 
 
-(ii) Preflight preparation of night vision goggles for night vision goggle operations;
+(i) Preflight and use of internal and external aircraft lighting systems for night vision goggle operations; 
 
-(iii) Proper piloting techniques when using night vision goggles during the takeoff, climb, enroute, descent, and landing phases of flight; and
+(ii) Preflight preparation of night vision goggles for night vision goggle operations; 
 
-(iv) Normal, abnormal, and emergency flight operations using night vision goggles.
+(iii) Proper piloting techniques when using night vision goggles during the takeoff, climb, enroute, descent, and landing phases of flight; and 
 
-(3) The requirements under paragraphs (k)(1) and (2) of this section do not apply if a person can document satisfactory completion of any of the following pilot proficiency checks using night vision goggles in an aircraft:
+(iv) Normal, abnormal, and emergency flight operations using night vision goggles. 
 
-(i) A pilot proficiency check on night vision goggle operations conducted by the U.S. Armed Forces.
+(3) The requirements under paragraphs (k)(1) and (2) of this section do not apply if a person can document satisfactory completion of any of the following pilot proficiency checks using night vision goggles in an aircraft: 
 
-(ii) A pilot proficiency check on night vision goggle operations under part 135 of this chapter conducted by an Examiner or Check Airman.
+(i) A pilot proficiency check on night vision goggle operations conducted by the U.S. Armed Forces. 
 
-(iii) A pilot proficiency check on night vision goggle operations conducted by a night vision goggle manufacturer or authorized instructor, when the pilot—
+(ii) A pilot proficiency check on night vision goggle operations under part 135 of this chapter conducted by an Examiner or Check Airman. 
 
-(A) Is employed by a Federal, State, county, or municipal law enforcement agency; and
+(iii) A pilot proficiency check on night vision goggle operations conducted by a night vision goggle manufacturer or authorized instructor, when the pilot— 
 
-(B) Has logged at least 20 hours as pilot in command in night vision goggle operations.
+(A) Is employed by a Federal, State, county, or municipal law enforcement agency; and 
 
-(l) *Exceptions.* (1) This section does not require a category and class rating for aircraft not type-certificated as airplanes, rotorcraft, gliders, lighter-than-air aircraft, powered-lifts, powered parachutes, or weight-shift-control aircraft.
+(B) Has logged at least 20 hours as pilot in command in night vision goggle operations. 
 
-(2) The rating limitations of this section do not apply to—
+(l) *Exceptions.* (1) This section does not require a category and class rating for aircraft not type-certificated as airplanes, rotorcraft, gliders, lighter-than-air aircraft, powered-lifts, powered parachutes, or weight-shift-control aircraft. 
 
-(i) An applicant when taking a practical test given by an examiner;
+(2) The rating limitations of this section do not apply to— 
 
-(ii) The holder of a student pilot certificate;
+(i) An applicant when taking a practical test given by an examiner; 
 
-(iii) The holder of a pilot certificate when operating an aircraft under the authority of—
+(ii) The holder of a student pilot certificate; 
 
-(A) A provisional type certificate; or
+(iii) The holder of a pilot certificate when operating an aircraft under the authority of— 
 
-(B) An experimental certificate, unless the operation involves carrying a passenger;
+(A) A provisional type certificate; or 
 
-(iv) The holder of a pilot certificate with a lighter-than-air category rating when operating a balloon;
+(B) An experimental certificate, unless the operation involves carrying a passenger; 
 
-(v) The holder of a recreational pilot certificate operating under the provisions of § 61.101(h); or
+(iv) The holder of a pilot certificate with a lighter-than-air category rating when operating a balloon; 
 
-(vi) The holder of a sport pilot certificate when operating a light-sport aircraft.
+(v) The holder of a recreational pilot certificate operating under the provisions of § 61.101(h); or 
+
+(vi) The holder of a sport pilot certificate when operating a light-sport aircraft. 
 
 \[Doc. No. 25910, 62 FR 40896, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-110, 69 FR 44865, July 27, 2004; Amdt. 61-124, 74 FR 42548, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-142, 83 FR 30276, June 27, 2018\]

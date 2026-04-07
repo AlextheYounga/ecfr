@@ -1,6 +1,6 @@
 ##### § 29.815 Main aisle width.
 
-The main passenger aisle width between seats must equal or exceed the values in the following table:
+The main passenger aisle width between seats must equal or exceed the values in the following table: 
 
 | Passenger seating capacity                                                                                                  | Minimum main passenger aisle width |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
