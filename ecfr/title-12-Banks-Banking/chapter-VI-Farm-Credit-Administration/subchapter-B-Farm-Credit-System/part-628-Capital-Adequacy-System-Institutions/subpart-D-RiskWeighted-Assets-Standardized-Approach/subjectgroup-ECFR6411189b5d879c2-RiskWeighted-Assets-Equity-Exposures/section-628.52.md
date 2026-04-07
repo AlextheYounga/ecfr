@@ -38,7 +38,7 @@
 
 (ii) Has greater than immaterial leverage.
 
-(c) *Hedge transactions* - (1) *Hedge pair.* A hedge pair is two equity exposures that form an effective hedge so long as each equity exposure is publicly traded or has a return that is primarily based on a publicly traded equity exposure.
+(c) *Hedge transactions*—(1) *Hedge pair.* A hedge pair is two equity exposures that form an effective hedge so long as each equity exposure is publicly traded or has a return that is primarily based on a publicly traded equity exposure.
 
 (2) *Effective hedge.* Two equity exposures form an effective hedge if the exposures either have the same remaining maturity or each has a remaining maturity of at least 3 months; the hedge relationship is formally documented in a prospective manner (that is, before the System institution acquires at least one of the equity exposures); the documentation specifies the measure of effectiveness (E) the System institution will use for the hedge relationship throughout the life of the transaction; and the hedge relationship has an E greater than or equal to 0.8. A System institution must measure E at least quarterly and must use one of three alternative measures of E as set forth in this paragraph (c):
 
