@@ -104,7 +104,7 @@
 
 (iv) Each embassy and consulate should have sufficient quantities of materials to include SF 76s, and SF 186s, needed by U.S. citizens to register and vote. Embassies and consulates will also inform and educate U.S. citizens regarding their right to register and vote, and will publicize voter assistance programs.
 
-(v) The Department of State's voting action officer shall coordinate with the Director, FVAP, in the development and conduct of voting events, programs to inform and educate U.S. citizens outside of the United States, and provision of voting information and resources for assistance.
+(v) The Department of State's voting action officer shall coordinate with the FVAP, in the development and conduct of voting events, programs to inform and educate U.S. citizens outside of the United States, and provision of voting information and resources for assistance.
 
 (vi) Department of State and the Military Service voting action officers shall assist, as requested, installation, embassy and consulate VAOs with post-election surveys of U.S. civilians outside of the United States.
 
