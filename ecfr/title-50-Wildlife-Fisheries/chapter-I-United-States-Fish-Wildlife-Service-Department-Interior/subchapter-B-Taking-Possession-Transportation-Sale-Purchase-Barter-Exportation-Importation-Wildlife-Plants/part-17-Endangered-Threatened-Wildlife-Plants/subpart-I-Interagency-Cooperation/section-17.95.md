@@ -26627,7 +26627,115 @@ Taylor's Checkerspot Butterfly (*Euphydryas editha taylori*)
 
 (ii) Note: Map of *Drosophila differens*—Unit 1—Puu Kolekole follows:
 
-![](/graphics/er04de08.003.gif)Hawaiian picture-wing fly (*Drosophila hemipeza*)
+![](/graphics/er04de08.003.gif)Hawaiian picture-wing fly (*Drosophila digressa*)
+
+(1) Critical habitat units are depicted for Hawaii County, Hawaii, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of *Drosophila digressa* consist of the following components:
+
+(i) In units 1, 2, 5, 6, 7, 8, and 9, the physical or biological features essential to the conservation of *Drosophila digressa* are the features of the wet forest ecosystem and consist of:
+
+(A) Elevation of less than 7,218 feet (ft) (2,200 meters (m)).
+
+(B) Annual precipitation that is greater than 98 inches (in) (250 centimeters (cm)).
+
+(C) Substrate of very weathered soils to rocky substrate, basaltic lava, undeveloped soils, or developed soils.
+
+(D) Canopy contains one or more of the following native plant genera: *Acacia, Antidesma, Cheirodendron, Ilex, Melicope, Metrosideros, Myrsine, Pittosporum, Psychotria*.
+
+(E) Subcanopy contains one or more of the following native plant genera: *Cibotium, Clermontia, Coprosma, Cyanea, Freycinetia, Hydrangea, Vaccinium*.
+
+(F) Understory contains one or more of the following native plant genera: *Adenophorus, Cibotium, Cyrtandra, Dicranopteris, Huperzia, Peperomia, Stenogyne*.
+
+(ii) In unit 3, the physical or biological features essential to the conservation of *Drosophila digressa* are the features of both the wet forest ecosystem and the mesic forest ecosystem and consist of the physical and biological features described in paragraphs (2)(i)(A) through (F) and (2)(iii)(A) through (F) of this entry.
+
+(iii) In unit 4, the physical or biological features essential to the conservation of *Drosophila digressa* are the features of the mesic forest ecosystem and consist of:
+
+(A) Elevation of less than 6,562 ft (2,000 m).
+
+(B) Annual precipitation of 39 to 150 in (100 to 380 cm).
+
+(C) Substrate of rocky, shallow, organic muck soils; rocky talus soils; shallow soils over weathered rock; deep soils over soft weathered rock; or gravelly alluvium.
+
+(D) Canopy contains one or more of the following native plant genera: *Acacia, Antidesma, Charpentiera, Chrysodracon, Metrosideros, Myrsine, Nestegis, Pisonia, Santalum*.
+
+(E) Subcanopy contains one or more of the following native plant genera: *Coprosma, Freycinetia, Leptecophylla, Myoporum, Pipturus, Rubus, Sadleria, Sophora*.
+
+(F) Understory contains one or more of the following native plant genera: *Ctenitis, Doodia, Dryopteris, Pelea, Sadleria*.
+
+(3) Existing humanmade features and structures, such as buildings, aqueducts, runways, roads, and other paved areas, and the land on which they are located existing within the legal boundaries on April 11, 2024, are not included in the critical habitat designation.
+
+(4) Data layers defining map units were created based on summaries of occurrences and landcover layers including habitat characteristics that indicate the physical or biological features essential to the conservation of *Drosophila digressa*. Coordinates were created using World Geodetic System 1984 (WGS84). The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *https://www.regulations.gov* at Docket No. FWS-R1-ES-2023-0017, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map follows:
+
+Figure 1 to Hawaiian picture-wing fly (*Drosophila digressa*) paragraph (5) Critical Habitat for Drosophila digressa Hawaii Island, HI Index Map ![](/graphics/er12mr24.004.gif)
+
+(6) *Drosophila digressa*—Unit 1; Hawaii County, Hawaii.
+
+(i) *Drosophila digressa*—Unit 1 consists of 15,714 ac (6,359 ha) of wet forest ecosystem from Ookala to Maulua Nui on the northeastern slope of Maunakea. Lands within this unit include approximately 4,098 ac (1,658 ha) in Federal ownership, 10,644 ac (4,308 ha) in State ownership, and 972 ac (394 ha) in private or other ownership. Federal lands within this unit are within the Hakalau Forest National Wildlife Refuge Hakalau Forest Unit. State lands within this unit are part of the Hilo Forest Reserve Humuula, Laupahoehoe, and Piha Sections; the Laupahoehoe Natural Area Reserve; and the Manowaialee Forest Reserve.
+
+(ii) Map of *Drosophila digressa*—Unit 1 follows:
+
+Figure 2 to Hawaiian picture-wing fly (*Drosophila digressa*) paragraph (6)(ii) Critical Habitat for Drosophila digressa Hawaii Island, HI Unit 1 ![](/graphics/er12mr24.005.gif)
+
+(7) *Drosophila digressa*—Unit 2; Hawaii County, Hawaii.
+
+(i) *Drosophila digressa*—Unit 2 consists of 31,998 ac (12,949 ha) of wet forest ecosystem from Olaa to Upper Waiakea on the eastern slope of Mauna Loa and partially on the northern slope of Kilauea Volcano. Lands within this unit include approximately 7,875 ac (3,187 ha) in Federal ownership, 23,897 ac (9,671 ha) in State ownership, and 226 ac (91 ha) in private or other ownership. Federal lands in this unit are within Hawaii Volcanoes National Park. State lands in this unit are part of the Hilo Forest Reserve Kukuau Section, Olaa Forest Reserve Mountain View Section, Upper Waiākea Forest Reserve, Waiākea Forest Reserve, Puu Makaala Natural Area Reserve, and Waiakea 1942 Lava Flow Natural Area Reserve.
+
+(ii) Map of *Drosophila digressa*—Unit 2 follows:
+
+Figure 3 to Hawaiian picture-wing fly (*Drosophila digressa*) paragraph (7)(ii) Critical Habitat for Drosophila digressa Hawaii Island, HI Unit 2 ![](/graphics/er12mr24.006.gif)
+
+(8) *Drosophila digressa*—Unit 3; Hawaii County, Hawaii.
+
+(i) *Drosophila digressa*—Unit 3 consists of 8,781 ac (3,554 ha) of wet and mesic forest ecosystems at Kahuku on the southern slopes of Mauna Loa. Lands within this unit include approximately 8,773 ac (3,550 ha) in Federal ownership and 8 ac (3 ha) in State ownership. Federal lands within this unit are within Hawaii Volcanoes National Park. State-owned lands in this unit are part of the Ka'ū Forest Reserve.
+
+(ii) Map of *Drosophila digressa*—Unit 3 follows:
+
+Figure 4 to Hawaiian picture-wing fly (*Drosophila digressa*) paragraph (8)(ii) Critical Habitat for Drosophila digressa Hawaii Island, HI Unit 3 ![](/graphics/er12mr24.007.gif)
+
+(9) *Drosophila digressa*—Unit 4; Hawaii County, Hawaii.
+
+(i) *Drosophila digressa*—Unit 4 consists of 167 ac (67 ha) of mesic forest ecosystem at Manuka on the southern slopes of Mauna Loa. Lands within this unit are entirely in State ownership and are part of the Manuka Natural Area Reserve.
+
+(ii) Map of *Drosophila digressa*—Unit 4 follows:
+
+Figure 5 to Hawaiian picture-wing fly (*Drosophila digressa*) paragraph (9)(ii) Critical Habitat for Drosophila digressa Hawaii Island, HI Unit 4 ![](/graphics/er12mr24.008.gif)
+
+(10) *Drosophila digressa*—Unit 5; Hawaii County, Hawaii.
+
+(i) *Drosophila digressa*—Unit 5 consists of 3,412 ac (1,381 ha) of wet forest ecosystem from Kipahoehoe to Honomalino on the southwestern slopes of Mauna Loa. Lands within this unit include approximately 411 ac (166 ha) in State ownership and 3,001 ac (1,214 ha) in private or other ownership. State-owned lands in this unit are part of the Kipahoehoe Natural Area Reserve and South Kona Forest Reserve Kapua-Manukā Section. Some private lands are owned by The Nature Conservancy, within the Kona Hema Preserve.
+
+(ii) Map of *Drosophila digressa*—Unit 5, *Drosophila digressa*—Unit 6, *Drosophila digressa*—Unit 7, *Drosophila digressa*—Unit 8, and *Drosophila digressa*—Unit 9 follows:
+
+Figure 6 to Hawaiian picture-wing fly (*Drosophila digressa*) paragraph (10)(ii) Critical Habitat for Drosophila digressa Hawaii Island, HI Unit 5, Unit 6, Unit 7, Unit 8, and Unit 9 ![](/graphics/er12mr24.009.gif)
+
+(11) *Drosophila digressa*—Unit 6; Hawaii County, Hawaii.
+
+(i) *Drosophila digressa*—Unit 6 consists of 224 ac (91 ha) of wet forest ecosystem from Milolii to Honomalino on the southwestern slopes of Mauna Loa. Lands within this unit are entirely in State ownership and are part of the South Kona Forest Reserve Kapua-Manuka Section.
+
+(ii) Map of *Drosophila digressa*—Unit 6 is provided at paragraph (10)(ii) of this entry.
+
+(12) *Drosophila digressa*—Unit 7; Hawaii County, Hawaii.
+
+(i) *Drosophila digressa*—Unit 7 consists of 1,346 ac (545 ha) of wet forest ecosystem from Kukuiopae to Olelomoana on the southwestern slopes of Mauna Loa. Lands within this unit include approximately 1,179 ac (477 ha) in State ownership and 167 ac (68 ha) in private or other ownership. State-owned lands in this unit are part of the South Kona Forest Reserve Kukuiopae Section.
+
+(ii) Map of *Drosophila digressa*—Unit 7 is provided at paragraph (10)(ii) of this entry.
+
+(13) *Drosophila digressa*—Unit 8; Hawaii County, Hawaii.
+
+(i) *Drosophila digressa*—Unit 8 consists of 661 ac (267 ha) of wet forest ecosystem in Kaohe on the southwestern slopes of Mauna Loa. Lands within this unit include approximately 352 ac (142 ha) in State ownership and 309 ac (125 ha) in private or other ownership. State-owned lands in this unit are part of the South Kona Forest Reserve, Kaohe Section and Kukuiopae Section.
+
+(ii) Map of *Drosophila digressa*—Unit 8 is provided at paragraph (10)(ii) of this entry.
+
+(14) *Drosophila digressa*—Unit 9; Hawaii County, Hawaii.
+
+(i) *Drosophila digressa*—Unit 9 consists of 1,906 ac (771 ha) of wet forest ecosystem in Hookena on the southwestern slopes of Mauna Loa. Lands within this unit include 1,906 ac (771 ha) of Federal land within Hakalau Forest National Wildlife Refuge Kona Forest Unit and less than 1 ac (less than 1 ha) of land that is privately owned or has other ownership.
+
+(ii) Map of *Drosophila digressa*—Unit 9 is provided at paragraph (10)(ii) of this entry.
+
+Hawaiian picture-wing fly (*Drosophila hemipeza*)
 
 (1) Critical habitat units are depicted for County of Honolulu, island of Oahu, Hawaii, on the maps below. The maps provided are for informational purposes only.
 

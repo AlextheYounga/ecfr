@@ -1,10 +1,6 @@
 ##### § 236.2 Definitions.
 
-Link to an amendment published at 89 FR 17747, Mar. 12, 2024.
-
 As used in this part:
-
-*Access to media* means provision of media, or access to media physically or remotely to DoD personnel, as determined by the contractor.
 
 *Cleared defense contractor (CDC)* means a private entity granted clearance by DoD to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of DoD.
 
@@ -30,11 +26,11 @@ As used in this part:
 
 *Defense Industrial Base (DIB)* means the Department of Defense, Government, and private sector worldwide industrial complex with capabilities to perform research and development, design, produce, and maintain military weapon systems, subsystems, components, or parts to satisfy military requirements.
 
-*DIB participant* means a contractor that has met all of the eligibility requirements to participate in the voluntary DIB CS program as set forth in this part (see § 236.7).
+*DIB CS Program participant* means a contractor that has met all of the eligibility requirements to participate in the voluntary DIB CS Program as set forth in this part (see § 236.7).
 
 *Forensic analysis* means the practice of gathering, retaining, and analyzing computer-related data for investigative purposes in a manner that maintains the integrity of the data.
 
-*Government furnished information (GFI)* means information provided by the Government under the voluntary DIB CS program including but not limited to cyber threat information and cybersecurity practices.
+*Government furnished information (GFI)* means information provided by the Government under the voluntary DIB CS Program including but not limited to cyber threat information and cybersecurity practices.
 
 *Information* means any communication or representation of knowledge such as facts, data, or opinions in any medium or form, including textual, numerical, graphic, cartographic, narrative, or audiovisual.
 
@@ -56,4 +52,4 @@ As used in this part:
 
 *U.S. citizen* means a person born in the United States or naturalized.
 
-\[80 FR 59584, Oct. 2, 2015, as amended at 81 FR 68317, Oct. 4, 2016\] Editorial Note:At 81 FR 68317, Oct. 4, 2016, § 236.2 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.
+\[80 FR 59584, Oct. 2, 2015, as amended at 81 FR 68317, Oct. 4, 2016; 89 FR 17747, Mar. 12, 2024\] Editorial Note:At 81 FR 68317, Oct. 4, 2016, § 236.2 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.
