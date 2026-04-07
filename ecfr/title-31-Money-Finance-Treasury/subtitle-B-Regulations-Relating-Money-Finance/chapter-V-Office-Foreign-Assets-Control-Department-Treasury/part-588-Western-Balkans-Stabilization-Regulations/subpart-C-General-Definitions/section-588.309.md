@@ -1,3 +1,3 @@
-##### § 588.309 United States.
+##### § 588.309 Person.
 
-The term *United States* means the United States, its territories and possessions, and all areas under the jurisdiction or authority thereof.
+The term *person* means an individual or entity.
