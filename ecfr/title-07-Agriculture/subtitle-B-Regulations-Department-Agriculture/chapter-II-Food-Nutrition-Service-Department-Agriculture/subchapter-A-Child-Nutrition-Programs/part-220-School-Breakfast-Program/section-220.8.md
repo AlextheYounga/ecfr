@@ -28,25 +28,24 @@
 
 (c) *Meal pattern for school breakfasts for grades K through 12.* A school must offer the food components and quantities required in the breakfast meal pattern established in the following table:
 
-|                                                                          | Breakfast meal pattern                                                                            |
+| Food components                                                          | Breakfast meal pattern                                                                            |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| Food Components                                                          | Amount of Food a per Week                                                                         |
-|                                                                          | (minimum per day)                                                                                 |
-| Fruits (cups) b c                                                        | 5 (1)                                                                                             |
-| Vegetables (cups) b c                                                    | 0                                                                                                 |
+|                                                                          | Amount of food a per week (minimum per day)                                                       |
+| Fruits (cups) bc                                                         | 5 (1)                                                                                             |
+| Vegetables (cups) bc                                                     | 0                                                                                                 |
 | Dark green                                                               | 0                                                                                                 |
 | Red/Orange                                                               | 0                                                                                                 |
 | Beans and peas (legumes)                                                 | 0                                                                                                 |
 | Starchy                                                                  | 0                                                                                                 |
 | Other                                                                    | 0                                                                                                 |
-| Grains (oz eq) d                                                         | 7-10 (1)                                                                                          |
+| Grains (oz. eq.) d                                                       | 7-10 (1)                                                                                          |
 | Meats/Meat Alternates (oz eq) e                                          | 0                                                                                                 |
 | Fluid milk (cups) f                                                      | 5 (1)                                                                                             |
 | Other Specifications: Daily Amount Based on the Average for a 5-Day Week |                                                                                                   |
-| Min-max calories (kcal) g h                                              | 350-500                                                                                           |
+| Min-max calories (kcal) gh                                               | 350-500                                                                                           |
 | Saturated fat (% of total calories) h                                    | <10                                                                                               |
-| Sodium Target 2 (mg) h i                                                 | ≤485                                                                                              |
-| Trans fat h j                                                            | Nutrition label or manufacturer specifications must indicate zero grams of trans fat per serving. |
+| Sodium (mg) hi                                                           | ≤430                                                                                              |
+| Trans fat h                                                              | Nutrition label or manufacturer specifications must indicate zero grams of trans fat per serving. |
 
 a Food items included in each group and subgroup and amount equivalents. Minimum creditable serving is 1/8 cup.
 
@@ -54,19 +53,17 @@ b One quarter cup of dried fruit counts as 1/2 cup of fruit; 1 cup of leafy gree
 
 c Schools must offer 1 cup of fruit daily and 5 cups of fruit weekly. Vegetables may be substituted for fruits, but the first two cups per week of any such substitution must be from the dark green, red/orange, beans and peas (legumes) or “Other vegetables” subgroups, as defined in § 210.10(c)(2)(iii) of this chapter.
 
-d At least half of the grains offered weekly must be whole grain-rich as specified in FNS guidance, and the remaining grain items offered must be enriched. Schools may substitute 1 oz. eq. of meat/meat alternate for 1 oz. eq. of grains after the minimum daily grains requirement is met.
+d All grains offered weekly must be whole grain-rich as specified in FNS guidance. Schools may substitute 1 oz. eq. of meat/meat alternate for 1 oz. eq. of grains after the minimum daily grains requirement is met.
 
 e There is no meat/meat alternate requirement.
 
-f All fluid milk must be fat-free (skim) or low-fat (1 percent fat or less). Milk may be unflavored or flavored provided that unflavored milk is offered at each meal service.
+f All fluid milk must be low-fat (1 percent fat or less, unflavored) or fat-free (unflavored or flavored).
 
 g The average daily calories for a 5-day school week menu must be within the range (at least the minimum and no more than the maximum values).
 
 h Discretionary sources of calories (solid fats and added sugars) may be added to the meal pattern if within the specifications for calories, saturated fat, trans fat, and sodium. Foods of minimal nutritional value and fluid milk with fat content greater than 1 percent milk fat are not allowed.
 
-i Sodium Target 1 is effective from July 1, 2014 (SY 2014-2015) through June 30, 2024 (SY 2023-2024). Sodium Target 2 (shown) is effective July 1, 2024 (SY 2024-2025).
-
-j Food products and ingredients must contain zero grams of trans fat (less than 0.5 grams) per serving.
+i Final sodium targets (shown) must be met no later than July 1, 2022 (SY 2022-2023). The second intermediate target must be met no later than SY 2017-2018. See required intermediate specifications in § 220.8(f)(3).
 
 (1) *Age/grade groups.* Schools must plan menus for students using the following age/grade groups: Grades K-5 (ages 5-10), grades 6-8 (ages 11-13), and grades 9-12 (ages 14-18). If an unusual grade configuration in a school prevents the use of the established age/grade groups, students in grades K-5 and grades 6-8 may be offered the same food quantities at breakfast provided that the calorie and sodium standards for each age/grade group are met. No customization of the established age/grade groups is allowed.
 
@@ -92,11 +89,11 @@ j Food products and ingredients must contain zero grams of trans fat (less than 
 
 (iv) *Grains component.* (A) *Enriched and whole grains.* All grains must be made with enriched and whole grain meal or flour, in accordance with the most recent FNS guidance on grains. The whole grain-rich criteria included in FNS guidance may be updated to reflect additional information provided by industry on the food label or a whole grains definition by the Food and Drug Administration. Whole grain-rich products must contain at least 50 percent whole grains and the remaining grains in the product must be enriched. Schools may substitute meats/meat alternates for grains, after the daily grains requirement is met, to meet the weekly grains requirement. One ounce equivalent of meat/meat alternate is equivalent to one ounce equivalent of grains.
 
-(B) *Daily and weekly servings.* The grains component is based on minimum daily servings plus total servings over a 5-day school week. Schools serving breakfast 6 or 7 days per week must increase the weekly grains quantity by approximately 20 percent ( 1/5) for each additional day. When schools operate less than 5 days per week, they may decrease the weekly quantity by approximately 20 percent ( 1/5) for each day less than 5. The servings for biscuits, rolls, muffins, and other grain/bread varieties are specified in FNS guidance. At least half of the grains offered weekly must meet the whole grain-rich criteria specified in FNS guidance, and the remaining grain items offered must be enriched.
+(B) *Daily and weekly servings.* The grains component is based on minimum daily servings plus total servings over a 5-day school week. Schools serving breakfast 6 or 7 days per week must increase the weekly grains quantity by approximately 20 percent ( 1/5) for each additional day. When schools operate less than 5 days per week, they may decrease the weekly quantity by approximately 20 percent ( 1/5) for each day less than 5. The servings for biscuits, rolls, muffins, and other grain/bread varieties are specified in FNS guidance. All grains offered weekly must meet the whole grain-rich criteria specified in FNS guidance.
 
 (3) *Food components in outlying areas.* Schools in American Samoa, Puerto Rico and the Virgin Islands may serve a vegetable such as yams, plantains, or sweet potatoes to meet the grains component.
 
-(d) *Fluid milk requirement.* Breakfast must include a serving of fluid milk as a beverage or on cereal or used in part for each purpose. Schools must offer students a variety (at least two different options) of fluid milk. All fluid milk must be fat-free (skim) or low-fat (1 percent fat or less). Milk with higher fat content is not allowed. Low-fat or fat-free lactose-free and reduced-lactose fluid milk may also be offered. Milk may be unflavored or flavored provided that unflavored milk is offered at each meal service. Schools must also comply with other applicable fluid milk requirements in § 210.10(d)(1) through (4) of this part.
+(d) *Fluid milk requirement.* Breakfast must include a serving of fluid milk as a beverage or on cereal or used in part for each purpose. Schools must offer students a variety (at least two different options) of fluid milk. All fluid milk must be fat-free (skim) or low-fat (1 percent fat or less). Milk with higher fat content is not allowed. Fat-free fluid milk may be flavored or unflavored, and low-fat fluid milk must be unflavored. Low-fat or fat-free lactose-free and reduced-lactose fluid milk may also be offered. Schools must also comply with other applicable fluid milk requirements in § 210.10(d)(1) through (4) of this chapter.
 
 (e) *Offer versus serve for grades K through 12.* School breakfast must offer daily at least the three food components required in the meal pattern in paragraph (c) of this section. To exercise the offer versus serve option at breakfast, a school food authority or school must offer a minimum of four food items daily as part of the required components. Under offer versus serve, students are allowed to decline one of the four food items, provided that students select at least 1/2 cup of the fruit component for a reimbursable meal. If only three food items are offered at breakfast, school food authorities or schools may not exercise the offer versus serve option.
 
@@ -118,9 +115,9 @@ b Discretionary sources of calories (solid fats and added sugars) may be added t
 
 | School breakfast program | Sodium timeline & limits |
 | ------------------------ | ------------------------ |
-| K-5                      | ≤540                     |
-| 6-8                      | ≤600                     |
-| 9-12                     | ≤640                     |
+| K-5                      | ≤485                     |
+| 6-8                      | ≤535                     |
+| 9-12                     | ≤570                     |
 
 (4) *Trans fat.* Food products and ingredients used to prepare school meals must contain zero grams of *trans* fat (less than 0.5 grams) per serving. Schools must add the *trans* fat specification and request the required documentation (nutrition label or manufacturer specifications) in their procurement contracts. Documentation for food products and food ingredients must indicate zero grams of *trans* fat per serving. Meats that contain a minimal amount of naturally-occurring *trans* fats are allowed in the school meal programs.
 
@@ -203,4 +200,4 @@ Endnotes:
 
 6 Fruit and vegetable juices must not be served.
 
-\[77 FR 4154, Jan. 26, 2012, as amended at 78 FR 39093, June 28, 2013; 81 FR 24375, Apr. 25, 2016; 81 FR 50193, July 29, 2016; 81 FR 75675, Nov. 1, 2016; 82 FR 56714, Nov. 30, 2017; 83 FR 63790, Dec. 12, 2018; 84 FR 50292, Sept. 25, 2019; 85 FR 7854, Feb. 12, 2020\]
+\[77 FR 4154, Jan. 26, 2012, as amended at 78 FR 39093, June 28, 2013; 81 FR 24375, Apr. 25, 2016; 81 FR 50193, July 29, 2016; 81 FR 75675, Nov. 1, 2016; 82 FR 56714, Nov. 30, 2017; 83 FR 63790, Dec. 12, 2018; 84 FR 50292, Sept. 25, 2019; 85 FR 7854, Feb. 12, 2020; 85 FR 74849, Nov. 24, 2020\]

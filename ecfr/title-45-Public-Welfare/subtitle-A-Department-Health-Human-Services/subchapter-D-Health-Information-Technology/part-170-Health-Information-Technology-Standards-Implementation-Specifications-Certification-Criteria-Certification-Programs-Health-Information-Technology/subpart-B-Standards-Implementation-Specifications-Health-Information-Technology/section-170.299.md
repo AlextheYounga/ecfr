@@ -126,7 +126,7 @@ Link to an amendment published at 85 FR 70082, Nov. 4, 2020.
 
 (34) HL7 FHIR® US Core Implementation Guide STU3 Release 3.1.0, November 06, 2019, IBR approved for § 170.215(a).
 
-(g) Integrating the Healthcare Enterprise (IHE), 820 Jorie Boulevard, Oak Brook, IL, Telephone (630) 481-1004, *http://http://www.ihe.net/.*
+(g) Integrating the Healthcare Enterprise (IHE), 820 Jorie Boulevard, Oak Brook, IL, Telephone (630) 481-1004, *http://www.ihe.net/.*
 
 (1) IHE IT Infrastructure Technical Framework Volume 2b (ITI TF-2b), Transactions Part B - Sections 3.29 - 2.43, Revision 7.0, August 10, 2010, IBR approved for § 170.205(p).
 

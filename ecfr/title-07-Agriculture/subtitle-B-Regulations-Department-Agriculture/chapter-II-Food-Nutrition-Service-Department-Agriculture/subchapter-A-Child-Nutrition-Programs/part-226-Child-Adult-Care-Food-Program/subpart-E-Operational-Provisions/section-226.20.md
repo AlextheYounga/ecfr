@@ -8,9 +8,9 @@
 
 (ii) *Children 2 through 5 years old.* Children two through five years old must be served either unflavored low-fat (1 percent) or unflavored fat-free (skim) milk.
 
-(iii) *Children 6 years old and older.* Children six years old and older must be served milk that is low-fat (1 percent fat or less) or fat-free (skim). Milk may be unflavored or flavored.
+*(iii) Children 6 years old and older.* Children 6 years old and older must be served unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk.
 
-(iv) *Adults.* Adults must be served milk that is low-fat (1 percent fat or less) or fat-free (skim). Milk may be unflavored or flavored. Six ounces (weight) or 3/4 cup (volume) of yogurt may be used to fulfill the equivalent of 8 ounces of fluid milk once per day. Yogurt may be counted as either a fluid milk substitute or as a meat alternate, but not as both in the same meal.
+*(iv) Adults.* Adults must be served unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk. Six ounces (weight) or 3/4 cup (volume) of yogurt may be used to fulfill the equivalent of 8 ounces of fluid milk once per day. Yogurt may be counted as either a fluid milk substitute or as a meat alternate, but not as both in the same meal.
 
 (2) *Vegetables.* A serving may contain fresh, frozen, or canned vegetables, dry beans and peas (legumes), or vegetable juice. All vegetables are credited based on their volume as served, except that 1 cup of leafy greens counts as 1/2 cup of vegetables.
 
@@ -125,18 +125,21 @@ Endnotes:
 
 (1) *Breakfast.* Fluid milk, vegetables or fruit, or portions of both, and grains are required components of the breakfast meal. Meat and meat alternates may be used to meet the entire grains requirement a maximum of three times per week. The minimum amounts of food components to be served at breakfast are as follows:
 
-Child And Adult Care Food Program - Breakfast
+Child and Adult Care Food Program
+
+Breakfast
+
+\[Select the appropriate components for a reimbursable meal\]
 
 | Food components and food items 1                                                               | Minimum quantities |
 | ---------------------------------------------------------------------------------------------- | ------------------ |
-| Select the Appropriate Components for a Reimbursable Meal                                      |                    |
 | Fluid Milk 3                                                                                   | 4 fluid ounces     |
 | Vegetables, fruits, or portions of both 4                                                      | 1/4 cup            |
-| Grains (oz eq): 5 6 7                                                                          |                    |
+| Grains (oz. eq.) 567:                                                                          |                    |
 | Whole grain-rich or enriched bread                                                             | 1/2 slice          |
 | Whole grain-rich or enriched bread product, such as biscuit, roll, or muffin                   | 1/2 serving        |
-| Whole grain-rich, enriched, or fortified cooked breakfast cereal 8, cereal grain, and/or pasta | 1/4 cup            |
-| Whole grain-rich, enriched or fortified ready-to-eat breakfast cereal (dry, cold) 8 9          |                    |
+| Whole grain-rich, enriched, or fortified cooked breakfast cereal, 8 cereal grain, and/or pasta | 1/4 cup            |
+| Whole grain-rich, enriched or fortified ready-to-eat breakfast cereal (dry, cold) 8            |                    |
 | Flakes or rounds                                                                               | 1/2 cup            |
 | Puffed cereal                                                                                  | 3/4 cup            |
 | Granola                                                                                        | 1/8 cup            |
@@ -147,7 +150,7 @@ Endnotes:
 
 2 Larger portion sizes than specified may need to be served to children 13 through 18 years old to meet their nutritional needs.
 
-3 Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be low-fat (1 percent fat or less) or fat-free (skim) milk for children six years old and older and adults, and may be unflavored or flavored. For adult participants, 6 ounces (weight) or 3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
+3 Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be unflavored low-fat (1 percent fat or less), unflavored or flavored fat-free (skim) milk for children 6 years old and older and adults. For adult participants, 6 ounces (weight) or 3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
 
 4 Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal, including snack, per day.
 
@@ -161,11 +164,14 @@ Endnotes:
 
 (2) *Lunch and supper.* Fluid milk, meat and meat alternates, vegetables, fruits, and grains are required components in the lunch and supper meals. The minimum amounts of food components to be served at lunch and supper are as follows:
 
-Child And Adult Care Food Program - Lunch and Supper
+Child and Adult Care Food Program
+
+Lunch and Supper
+
+\[Select the appropriate components for a reimbursable meal\]
 
 | Food components and food items 1                                                                                                                                                                                              | Minimum quantities  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| Select the Appropriate Components for a Reimbursable Meal                                                                                                                                                                     |                     |
 | Fluid Milk 3                                                                                                                                                                                                                  | 4 fluid ounces      |
 | Meat/meat alternates (edible portion as served):                                                                                                                                                                              |                     |
 | Lean meat, poultry, or fish                                                                                                                                                                                                   | 1 ounce             |
@@ -178,11 +184,11 @@ Child And Adult Care Food Program - Lunch and Supper
 | The following may be used to meet no more than 50% of the requirement:                                                                                                                                                        |                     |
 | Peanuts, soy nuts, tree nuts, or seeds, as listed in program guidance, or an equivalent quantity of any combination of the above meat/meat alternates (1 ounce of nuts/seeds = 1 ounce of cooked lean meat, poultry, or fish) | 1/2 ounce = 50%     |
 | Vegetables 7                                                                                                                                                                                                                  | 1/8 cup             |
-| Fruits 7 8                                                                                                                                                                                                                    | 1/8 cup             |
-| Grains (oz eq): 9 10                                                                                                                                                                                                          |                     |
+| Fruits 78                                                                                                                                                                                                                     | 1/8 cup             |
+| Grains (oz eq): 910                                                                                                                                                                                                           |                     |
 | Whole grain-rich or enriched bread                                                                                                                                                                                            | 1/2 slice           |
 | Whole grain-rich or enriched bread product, such as biscuit, roll, or muffin                                                                                                                                                  | 1/2 serving         |
-| Whole grain-rich, enriched, or fortified cooked breakfast cereal 11, cereal grain, and/or pasta                                                                                                                               | 1/4 cup             |
+| Whole grain-rich, enriched, or fortified cooked breakfast cereal, 11 cereal grain, and/or pasta                                                                                                                               | 1/4 cup             |
 
 Endnotes:
 
@@ -190,11 +196,11 @@ Endnotes:
 
 2 Larger portion sizes than specified may need to be served to children 13 through 18 years old to meet their nutritional needs.
 
-3 Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be low-fat (1 percent fat or less) or fat-free (skim) milk for children six years old and older and adults, and may be unflavored or flavored. For adult participants, 6 ounces (weight) or 3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
+3 Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be unflavored low-fat (1 percent fat or less) or unflavoredor flavored fat-free (skim) milk for children 6 years old and older and adults. For adult participants, 6 ounces (weight) or 3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
 
 4 A serving of fluid milk is optional for suppers served to adult participants.
 
-5 Alternate protein products must meet the requirements in Appendix A to part 226 of this chapter.
+5 Alternate protein products must meet the requirements in Appendix A to Part 226 of this chapter.
 
 6 Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
 
@@ -210,11 +216,14 @@ Endnotes:
 
 (3) *Snack.* Serve two of the following five components: Fluid milk, meat and meat alternates, vegetables, fruits, and grains. Fruit juice, vegetable juice, and milk may comprise only one component of the snack. The minimum amounts of food components to be served at snacks are as follows:
 
-Child And Adult Care Food Program - Snack
+Child and Adult Care Food Program
+
+Snack
+
+\[Select two of the five components for a reimbursable meal\]
 
 | Food components and food items 1                                                               | Minimum quantities  |
 | ---------------------------------------------------------------------------------------------- | ------------------- |
-| Select Two of the Five Components for a Reimbursable Meal                                      |                     |
 | Fluid Milk 3                                                                                   | 4 fluid ounces      |
 | Meat/meat alternates (edible portion as served):                                               |                     |
 | Lean meat, poultry, or fish                                                                    | 1/2 ounce           |
@@ -227,11 +236,11 @@ Child And Adult Care Food Program - Snack
 | Peanuts, soy nuts, tree nuts, or seeds                                                         | 1/2 ounce           |
 | Vegetables 6                                                                                   | 1/2 cup             |
 | Fruits 6                                                                                       | 1/2 cup             |
-| Grains (oz eq): 7 8                                                                            |                     |
+| Grains (oz. eq.): 78                                                                           |                     |
 | Whole grain-rich or enriched bread                                                             | 1/2 slice           |
 | Whole grain-rich or enriched bread product, such as biscuit, roll, or muffin                   | 1/2 serving         |
-| Whole grain-rich, enriched, or fortified cooked breakfast cereal 9, cereal grain, and/or pasta | 1/4 cup             |
-| Whole grain-rich, enriched, or fortified ready-to-eat breakfast cereal (dry, cold) 9 10        |                     |
+| Whole grain-rich, enriched, or fortified cooked breakfast cereal, 9 cereal grain, and/or pasta | 1/4 cup             |
+| Whole grain-rich, enriched, or fortified ready-to-eat breakfast cereal (dry, cold) 9           |                     |
 | Flakes or rounds                                                                               | 1/2 cup             |
 | Puffed cereal                                                                                  | 3/4 cup             |
 | Granola                                                                                        | 1/8 cup             |
@@ -242,15 +251,15 @@ Endnotes:
 
 2 Larger portion sizes than specified may need to be served to children 13 through 18 years old to meet their nutritional needs.
 
-3 Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be low-fat (1 percent fat or less) or fat-free (skim) milk for children six years old and older and adults, and may be unflavored or flavored. For adult participants, 6 ounces (weight) or 3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
+3 Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be unflavored low-fat (1 percent fat or less) or unflavored or flavored fat-free (skim) milk for children 6 years old and older and adults. For adult participants, 6 ounces (weight) or 3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
 
-4 Alternate protein products must meet the requirements in Appendix A to Part 226 of this chapter.
+4 Alternate protein products must meet the requirements in Appendix A to part 226 of this chapter.
 
 5 Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
 
 6 Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal, including snack, per day.
 
-7At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not count towards the grains requirement.
+7 At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not count towards the grains requirement.
 
 8 Beginning October 1, 2021, ounce equivalents are used to determine the quantity of the creditable grains.
 
@@ -324,4 +333,4 @@ Endnotes:
 
 (p) *Prohibition on using foods and beverages as punishments or rewards.* Meals served under this part must contribute to the development and socialization of children. Institutions and facilities must not use foods and beverages as punishments or rewards.
 
-\[81 FR 24377, Apr. 25, 2016, as amended at 81 FR 75677, Nov. 1, 2016; 83 FR 56716, Nov. 30, 2017; 84 FR 50292, Sept. 25, 2019; 85 FR 7855, Feb. 12, 2020\]
+\[81 FR 24377, Apr. 25, 2016, as amended at 81 FR 75677, Nov. 1, 2016; 83 FR 56716, Nov. 30, 2017; 84 FR 50292, Sept. 25, 2019; 85 FR 7855, Feb. 12, 2020; 85 FR 74850, Nov. 24, 2020\]

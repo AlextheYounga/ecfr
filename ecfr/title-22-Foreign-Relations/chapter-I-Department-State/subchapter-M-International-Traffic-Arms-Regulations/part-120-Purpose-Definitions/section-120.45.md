@@ -14,7 +14,9 @@
 
 (g) A *system* is a combination of parts, components, accessories, attachments, firmware, software, equipment, or end-items that operate together to perform a function.
 
-*Note to paragraph (g):* The industrial standards established by INCOSE and NASA provide examples for when commodities and software operate together to perform a function as a system. References to these standards are included in this note to provide examples for when commodities or software operate together to perform a function as a system. See the INCOSE standards for what constitutes a system at: *http://g2sebok.incose.org/app/mss/asset.cfm?ID=INCOSE%20G2SEBOK%202.00&ST=F,* and in INCOSE SE Handbook v3.1 2007; ISO/IEC 15288:2008. See the NASA standards for examples of what constitutes a system in NASA SE Handbook SP-2007-6105 Rev 1.
+Note to paragraph (g):
+
+The industrial standards established by INCOSE and NASA provide examples for when commodities and software operate together to perform a function as a system. References to these standards are included in this note to provide examples for when commodities or software operate together to perform a function as a system. See the INCOSE standards for what constitutes a system at: *http://g2sebok.incose.org/app/mss/asset.cfm?ID=INCOSE%20G2SEBOK%202.00&ST=F,* and in INCOSE SE Handbook v3.1 2007; ISO/IEC 15288:2008. See the NASA standards for examples of what constitutes a system in NASA SE Handbook SP-2007-6105 Rev 1.
 
 (h) *Equipment* is a combination of parts, components, accessories, attachments, firmware, or software that operate together to perform a function of, as, or for an end-item or system. Equipment may be a subset of an end-item based on the characteristics of the equipment. Equipment that meets the definition of an end-item is an end-item. Equipment that does not meet the definition of an end-item is a component, accessory, attachment, firmware, or software.
 
