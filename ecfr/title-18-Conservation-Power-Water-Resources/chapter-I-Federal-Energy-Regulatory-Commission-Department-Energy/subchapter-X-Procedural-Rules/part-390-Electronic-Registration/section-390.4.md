@@ -1,0 +1,3 @@
+##### § 390.4 Exemptions.
+
+In instances in which the Commission receives communications from persons who are not registered under this part that relate to docketed proceedings and in which it appears that registration under this part offers no value to the person submitting the communication, the Commission may accept the communication for filing without requiring the person to comply with § 390.1 or § 390.3.

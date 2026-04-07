@@ -1,5 +1,7 @@
 ##### § 121.409 Training courses using airplane simulators and other training devices.
 
+Link to an amendment published at 85 FR 10921, Feb. 25, 2020.
+
 (a) Training courses utilizing airplane simulators and other training devices may be included in the certificate holder's approved training program for use as provided in this section.
 
 (b) Except for the airline transport pilot certification training program approved to satisfy the requirements of § 61.156 of this chapter, a course of training in an airplane simulator may be included for use as provided in § 121.441 if that course -
