@@ -1,5 +1,7 @@
 ##### § 553.12 Eligibility for interment in Arlington National Cemetery.
 
+Link to an amendment published at 84 FR 45408, Aug. 29, 2019.
+
 Only those who qualify as a primarily eligible person or a derivatively eligible person are eligible for interment in Arlington National Cemetery, unless otherwise prohibited as provided for in §§ 553.19-553.20, provided that the last period of active duty of the service member or veteran ended with an honorable discharge.
 
 (a) *Primarily eligible persons.* The following are primarily eligible persons for purposes of interment:

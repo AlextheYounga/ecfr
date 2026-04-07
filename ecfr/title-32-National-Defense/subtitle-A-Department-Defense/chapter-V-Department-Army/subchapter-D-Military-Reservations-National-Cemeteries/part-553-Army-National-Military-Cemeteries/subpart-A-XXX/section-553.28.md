@@ -1,5 +1,7 @@
 ##### § 553.28 Private headstones and markers.
 
+Link to an amendment published at 84 FR 45408, Aug. 29, 2019.
+
 (a) Construction and installation of private headstones and markers in lieu of Government-furnished headstones and markers is permitted only in sections of Army National Military Cemeteries in which private memorials and markers were authorized as of January 1, 1947. These headstones or markers must be of simple design, dignified, and appropriate for a military cemetery as determined by the Executive Director.
 
 (b) The design and inscription of a private headstone or marker must be approved by the Executive Director prior to its construction and placement. All private headstones and markers will be designed to conform to the dimensions and profiles specified by the Executive Director and will be inscribed with the location of the gravesite.

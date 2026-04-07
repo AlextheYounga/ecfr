@@ -1,5 +1,7 @@
 ##### § 553.10 Proof of eligibility.
 
+Link to an amendment published at 84 FR 45408, Aug. 29, 2019.
+
 (a) The personal representative or primary next of kin is responsible for providing appropriate documentation to verify the decedent's eligibility for interment or inurnment.
 
 (b) The personal representative or primary next of kin must certify in writing that the decedent is not prohibited from interment, inurnment, or memorialization under § 553.20 because he or she has committed or been convicted of a Federal or State capital crime or is a convicted Tier III sex offender as defined in 38 U.S.C. 2411.
