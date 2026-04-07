@@ -1,18 +1,18 @@
 ##### § 3285.303 Piers.
 
-(a) *General.* The piers used must be capable of transmitting the vertical live and dead loads to the footings or foundation.
+(a) *General.* The piers used must be capable of transmitting the vertical live and dead loads to the footings or foundation. 
 
-(b) *Acceptable piers—materials specification.* (1) Piers are permitted to be concrete blocks; pressure-treated wood with a water borne preservative, in accordance with AWPA Standard U1-04 (incorporated by reference, see § 3285.4) for Use Category 4B ground contact applications; or adjustable metal or concrete piers.
+(b) *Acceptable piers—materials specification.* (1) Piers are permitted to be concrete blocks; pressure-treated wood with a water borne preservative, in accordance with AWPA Standard U1-04 (incorporated by reference, see § 3285.4) for Use Category 4B ground contact applications; or adjustable metal or concrete piers. 
 
-(2) Manufactured piers must be listed or labeled for the required vertical load capacity, and, where required by design, for the appropriate horizontal load capacity.
+(2) Manufactured piers must be listed or labeled for the required vertical load capacity, and, where required by design, for the appropriate horizontal load capacity. 
 
-(c) *Design requirements.* (1) *Load-bearing capacity.* The load bearing capacity for each pier must be designed to include consideration for the dimensions of the home, the design dead and live loads, the spacing of the piers, and the way the piers are used to support the home.
+(c) *Design requirements.* (1) *Load-bearing capacity.* The load bearing capacity for each pier must be designed to include consideration for the dimensions of the home, the design dead and live loads, the spacing of the piers, and the way the piers are used to support the home. 
 
-(2) Center beam/mating wall support must be required for multi-section homes and designs must be consistent with Tables 2 and 3 to § 3285.303 and Figures A, B, and C to § 3285.310.
+(2) Center beam/mating wall support must be required for multi-section homes and designs must be consistent with Tables 2 and 3 to § 3285.303 and Figures A, B, and C to § 3285.310. 
 
-(d) *Pier loads.* (1) Design support configurations for the pier loads, pier spacing, and roof live loads must be in accordance with Tables 1, 2, and 3 to § 3285.303 and the MHCSS. Other pier designs are permitted in accordance with the provisions of this subpart.
+(d) *Pier loads.* (1) Design support configurations for the pier loads, pier spacing, and roof live loads must be in accordance with Tables 1, 2, and 3 to § 3285.303 and the MHCSS. Other pier designs are permitted in accordance with the provisions of this subpart. 
 
-(2) Manufactured piers must be rated at least to the loads required to safely support the dead and live loads, as required by § 3285.301, and the installation instructions for those piers must be consistent with Tables 1, 2, and 3 to this section.
+(2) Manufactured piers must be rated at least to the loads required to safely support the dead and live loads, as required by § 3285.301, and the installation instructions for those piers must be consistent with Tables 1, 2, and 3 to this section. 
 
 Table 1 to § 3285.303—Frame Blocking Only/Perimeter Support Not Required Except at Openings
 | Pier spacing | Roof live load (psf) | Location | Load (lbs.) |
@@ -32,13 +32,13 @@ Table 1 to § 3285.303—Frame Blocking Only/Perimeter Support Not Required Exce
 
 Notes:
 
-1\. See Table to § 3285.312 for cast-in-place footing design by using the noted loads.
+1\. See Table to § 3285.312 for cast-in-place footing design by using the noted loads. 
 
-2\. Table 1 is based on the following design assumptions: maximum 16 ft. nominal section width (15 ft. actual width), 12” eave, 10” I-beam size, 300 lbs. pier dead load, 10 psf roof dead load, 6 psf floor dead load, 35 plf wall dead load, and 10 plf chassis dead load.
+2\. Table 1 is based on the following design assumptions: maximum 16 ft. nominal section width (15 ft. actual width), 12” eave, 10” I-beam size, 300 lbs. pier dead load, 10 psf roof dead load, 6 psf floor dead load, 35 plf wall dead load, and 10 plf chassis dead load. 
 
-3\. Interpolation for other pier spacing is permitted.
+3\. Interpolation for other pier spacing is permitted. 
 
-4\. The pier spacing and loads shown in the above table do not consider flood or seismic loads and are not intended for use in flood or seismic hazard areas. In those areas, the foundation support system is to be designed by a professional engineer or architect.
+4\. The pier spacing and loads shown in the above table do not consider flood or seismic loads and are not intended for use in flood or seismic hazard areas. In those areas, the foundation support system is to be designed by a professional engineer or architect. 
 
 5\. See Table to § 3285.312 for sizing of footings.
 
@@ -84,15 +84,15 @@ Table 2 to § 3285.303—Frame Plus Perimeter Blocking/Perimeter Blocking Requir
 
 Notes:
 
-1\. See Table to § 3285.312 for cast-in-place footing design by using the noted loads.
+1\. See Table to § 3285.312 for cast-in-place footing design by using the noted loads. 
 
-2\. Mating wall perimeter piers and footings only required under full height mating walls supporting roof loads. Refer to Figures A and B to § 3285.310.
+2\. Mating wall perimeter piers and footings only required under full height mating walls supporting roof loads. Refer to Figures A and B to § 3285.310. 
 
-3\. Table 2 is based on the following design assumptions: maximum 16 ft. nominal section width (15 ft. actual width), 12” eave, 10” I-beam size, 300 lbs. pier dead load, 10 psf roof dead load, 6 psf floor dead load, 35 plf wall dead load, and 10 plf chassis dead load.
+3\. Table 2 is based on the following design assumptions: maximum 16 ft. nominal section width (15 ft. actual width), 12” eave, 10” I-beam size, 300 lbs. pier dead load, 10 psf roof dead load, 6 psf floor dead load, 35 plf wall dead load, and 10 plf chassis dead load. 
 
-4\. Interpolation for other pier spacing is permitted.
+4\. Interpolation for other pier spacing is permitted. 
 
-5\. The pier spacing and loads shown in the above table do not consider flood or seismic loads and are not intended for use in flood or seismic hazard areas. In those areas, the foundation support system is to be designed by a professional engineer or architect.
+5\. The pier spacing and loads shown in the above table do not consider flood or seismic loads and are not intended for use in flood or seismic hazard areas. In those areas, the foundation support system is to be designed by a professional engineer or architect. 
 
 6\. See Table to § 3285.312 for sizing of footings.
 
@@ -123,14 +123,14 @@ Table 3 to § 3285.303—Ridge Beam Span Footing Capacity
 
 Notes:
 
-1\. See Table to § 3285.312 for cast-in-place footing design by using the noted loads.
+1\. See Table to § 3285.312 for cast-in-place footing design by using the noted loads. 
 
-2\. Table 3 is based on the following design assumptions: maximum 16 ft. nominal section width (15 ft. actual width), 10″ I-beam size, 300 lbs. pier dead load, 10 psf roof dead load, 6 psf floor dead load, 35 plf wall dead load, and 10 plf chassis dead load.
+2\. Table 3 is based on the following design assumptions: maximum 16 ft. nominal section width (15 ft. actual width), 10″ I-beam size, 300 lbs. pier dead load, 10 psf roof dead load, 6 psf floor dead load, 35 plf wall dead load, and 10 plf chassis dead load. 
 
-3\. Loads listed are maximum column loads for each section of the manufactured home.
+3\. Loads listed are maximum column loads for each section of the manufactured home. 
 
-4\. Interpolation for maximum allowable pier and column loads is permitted for mate-line openings between those shown in the table.
+4\. Interpolation for maximum allowable pier and column loads is permitted for mate-line openings between those shown in the table. 
 
-5\. The pier spacing and loads shown in the above table do not consider flood or seismic loads and are not intended for use in flood or seismic hazard areas. In those areas, the foundation support system must be designed by a professional engineer or registered architect.
+5\. The pier spacing and loads shown in the above table do not consider flood or seismic loads and are not intended for use in flood or seismic hazard areas. In those areas, the foundation support system must be designed by a professional engineer or registered architect. 
 
 6\. See Table to § 3285.312 for sizing of footings.

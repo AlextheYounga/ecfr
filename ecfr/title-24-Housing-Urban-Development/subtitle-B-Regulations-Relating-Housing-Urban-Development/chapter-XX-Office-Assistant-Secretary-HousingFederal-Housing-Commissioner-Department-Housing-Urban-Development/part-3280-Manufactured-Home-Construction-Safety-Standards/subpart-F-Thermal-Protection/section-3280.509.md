@@ -1,8 +1,8 @@
 ##### § 3280.509 Criteria in absence of specific data.
 
-In the absence of specific data, for purposes of heat-loss/gain calculation, the following criteria shall be used:
+In the absence of specific data, for purposes of heat-loss/gain calculation, the following criteria shall be used: 
 
-(a) *Infiltration heat loss.* In the absence of measured infiltration heat loss data, the following formula shall be used to calculate heat loss due to infiltration and intermittently operated fans exhausting to the outdoors. The perimeter calculation shall be based on the dimensions of the pressure envelope.
+(a) *Infiltration heat loss.* In the absence of measured infiltration heat loss data, the following formula shall be used to calculate heat loss due to infiltration and intermittently operated fans exhausting to the outdoors. The perimeter calculation shall be based on the dimensions of the pressure envelope. 
 
 Infiltration Heat-Loss = 0.7 (T) (ft. of perimeter), BTU/hr. where: T = 70 minus the heating system capacity certification temperature stipulated in the Heating Certificate, in F.
 
@@ -11,7 +11,7 @@ Infiltration Heat-Loss = 0.7 (T) (ft. of perimeter), BTU/hr. where: T = 70 minus
 | Wall              | 15 percent of wall area less windows and doors. |
 | Floor and Ceiling | 10 percent of the area.                         |
 
-(c) *Insulation compression.* Insulation compressed to less than nominal thickness and loose-fill insulation in sloping cavities must have its nominal R-values reduced in compressed areas in accordance with the following table:
+(c) *Insulation compression.* Insulation compressed to less than nominal thickness and loose-fill insulation in sloping cavities must have its nominal R-values reduced in compressed areas in accordance with the following table: 
 
 Table to Paragraph (c)—Effect of Insulation Compression and Restriction on R-Values
 | Original thickness   (%)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Non-uniform (a) restriction | Uniform (b)   compression batt   (%) |
@@ -121,12 +121,12 @@ Table to Paragraph (c)—Effect of Insulation Compression and Restriction on R-V
 | (a) Non-uniform restriction is that which occurs between non-parallel planes, such as in the ceiling near the eaves.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                             |                                      |
 | (b) Uniform compression is compression between parallel planes, such as that which occurs in a wall.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                             |                                      |
 
-(d) *Air supply ducts within floor cavity.* Air supply ducts located within a floor cavity shall be assumed to be heating or cooling the floor cavity to living space temperatures unless the duct is structurally isolated by the framing system or thermally insulated from the rest of the floor cavity with a thermal insulation at least equal to R-4.
+(d) *Air supply ducts within floor cavity.* Air supply ducts located within a floor cavity shall be assumed to be heating or cooling the floor cavity to living space temperatures unless the duct is structurally isolated by the framing system or thermally insulated from the rest of the floor cavity with a thermal insulation at least equal to R-4. 
 
-(e) *Air supply ducts within ceiling cavity.* Where supply ducts are located in ceiling cavities, the influence of the duct on cavity temperatures shall be considered in calculating envelope heat loss or heat gain.
+(e) *Air supply ducts within ceiling cavity.* Where supply ducts are located in ceiling cavities, the influence of the duct on cavity temperatures shall be considered in calculating envelope heat loss or heat gain. 
 
-(f) The supply duct loss (and/or heat gain where applicable—See § 3280.511) shall be calculated using the actual duct surface area and the actual thickness of insulation between the duct and outside of the manufactured home. If there is an air space of at least 1/2 inch between the duct and the insulation, heat loss/gain need not be calculated if the cavity in which the duct is located is assumed to be at living space temperature. The average temperature inside the supply duct, including ducts installed outside the manufactured home, shall be assumed to be 130 F for purposes of calculation of heat loss and 60 F for heat gain.
+(f) The supply duct loss (and/or heat gain where applicable—See § 3280.511) shall be calculated using the actual duct surface area and the actual thickness of insulation between the duct and outside of the manufactured home. If there is an air space of at least 1/2 inch between the duct and the insulation, heat loss/gain need not be calculated if the cavity in which the duct is located is assumed to be at living space temperature. The average temperature inside the supply duct, including ducts installed outside the manufactured home, shall be assumed to be 130 F for purposes of calculation of heat loss and 60 F for heat gain. 
 
-(g) *Return air cavities.* Cavities used as return air plenums shall be considered to be at living space temperature.
+(g) *Return air cavities.* Cavities used as return air plenums shall be considered to be at living space temperature. 
 
 \[40 FR 58752, Dec. 18, 1975. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 78 FR 73984, Dec. 9, 2013\]

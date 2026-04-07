@@ -1,8 +1,8 @@
 ##### § 242.18 Inspection fee.
 
-(a) The commitment may provide for the payment of an inspection fee in an amount not to exceed $5 per thousand dollars of the commitment. The inspection fee shall be paid no later than the time of initial endorsement.
+(a) The commitment may provide for the payment of an inspection fee in an amount not to exceed $5 per thousand dollars of the commitment. The inspection fee shall be paid no later than the time of initial endorsement. 
 
-(b) In the case of mortgages where the applicant is seeking only refinancing or acquisition, the inspection fee will not exceed 10 basis points on the loan. For applicants seeking a loan for refinancing or acquisition that also involves limited rehabilitation, the commitment shall provide for an inspection fee according to the following schedule:
+(b) In the case of mortgages where the applicant is seeking only refinancing or acquisition, the inspection fee will not exceed 10 basis points on the loan. For applicants seeking a loan for refinancing or acquisition that also involves limited rehabilitation, the commitment shall provide for an inspection fee according to the following schedule: 
 
 | Hard cost % of mortgage amount   | Inspection fee limit   (basis points) |
 | -------------------------------- | ------------------------------------- |

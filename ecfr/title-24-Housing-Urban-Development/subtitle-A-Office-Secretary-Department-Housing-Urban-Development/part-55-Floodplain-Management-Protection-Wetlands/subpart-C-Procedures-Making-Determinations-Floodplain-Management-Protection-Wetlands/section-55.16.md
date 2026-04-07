@@ -1,6 +1,6 @@
 ##### § 55.16 Applicability of subpart C decision making process.
 
-Table 1 to this section indicates the applicability, by location and type of action, of the decision making process for implementing Executive Order 11988 and Executive Order 11990 under this subpart.
+Table 1 to this section indicates the applicability, by location and type of action, of the decision making process for implementing Executive Order 11988 and Executive Order 11990 under this subpart. 
 
 Table 1 to § 55.16
 | Type of proposed action   (new reviewable action or an amendment) 1                                                                                  | Floodways                                                                                                                       | Coastal high hazard and LiMWA areas                                                                                                                                                                                                                                                                                                                                                      | Wetlands or FFRMS   floodplain outside coastal high hazard area, LiMWA area, and floodways |

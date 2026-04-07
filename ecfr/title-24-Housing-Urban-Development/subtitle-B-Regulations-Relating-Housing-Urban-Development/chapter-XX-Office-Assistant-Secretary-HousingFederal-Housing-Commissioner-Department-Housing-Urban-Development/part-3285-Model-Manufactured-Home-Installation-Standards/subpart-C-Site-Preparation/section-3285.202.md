@@ -1,18 +1,18 @@
 ##### § 3285.202 Soil classifications and bearing capacity.
 
-The soil classification and bearing capacity of the soil must be determined before the foundation is constructed and anchored. The soil classification and bearing capacity must be determined by one or more of the following methods, unless the soil bearing capacity is established as permitted in paragraph (f) of this section:
+The soil classification and bearing capacity of the soil must be determined before the foundation is constructed and anchored. The soil classification and bearing capacity must be determined by one or more of the following methods, unless the soil bearing capacity is established as permitted in paragraph (f) of this section: 
 
-(a) *Soil tests.* Soil tests that are in accordance with generally accepted engineering practice; or
+(a) *Soil tests.* Soil tests that are in accordance with generally accepted engineering practice; or 
 
-(b) *Soil records.* Soil records of the applicable LAHJ; or
+(b) *Soil records.* Soil records of the applicable LAHJ; or 
 
-(c) *Soil classifications and bearing capacities.* If the soil class or bearing capacity cannot be determined by test or soil records, but its type can be identified, the soil classification, allowable pressures, and torque values shown in Table to § 3285.202 may be used.
+(c) *Soil classifications and bearing capacities.* If the soil class or bearing capacity cannot be determined by test or soil records, but its type can be identified, the soil classification, allowable pressures, and torque values shown in Table to § 3285.202 may be used. 
 
-(d) A pocket penetrometer; or
+(d) A pocket penetrometer; or 
 
-(e) In lieu of determining the soil bearing capacity by use of the methods shown in the table, an allowable pressure of 1,500 psf may be used, unless the site-specific information requires the use of lower values based on soil classification and type.
+(e) In lieu of determining the soil bearing capacity by use of the methods shown in the table, an allowable pressure of 1,500 psf may be used, unless the site-specific information requires the use of lower values based on soil classification and type. 
 
-(f) If the soil appears to be composed of peat, organic clays, or uncompacted fill, or appears to have unusual conditions, a registered professional geologist, registered professional engineer, or registered architect must determine the soil classification and maximum allowable soil bearing capacity.
+(f) If the soil appears to be composed of peat, organic clays, or uncompacted fill, or appears to have unusual conditions, a registered professional geologist, registered professional engineer, or registered architect must determine the soil classification and maximum allowable soil bearing capacity. 
 
 Table to § 3285.202
 | Soil classification                                                                                                                                                                                                                                      | Soil description       | Allowable soil bearing   pressure (psf) 1                                                                           | Blow count ASTM D 1586-99 | Torque probe 3 value 4   (inch-pounds)- |
