@@ -1,5 +1,7 @@
 ##### § 665.408 CNMI Annual Catch Limits (ACL) and Annual Catch Targets (ACT).
 
+Link to an amendment published at 89 FR 61357, July 31, 2024.
+
 (a) In accordance with § 665.4, the ACL and ACT for Mariana bottomfish MUS in the CNMI Management Subarea for each fishing year is as follows:
 
 Table 1 to Paragraph (a)
