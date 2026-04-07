@@ -1,5 +1,7 @@
 ##### § 431.816 Case review completion deadlines and submittal of reports.
 
+Link to an amendment published at 82 FR 31183, July 5, 2017.
+
 (a) The agency must complete case reviews and submit reports of findings to CMS as specified in paragraph (b) of this section in the form and at the time specified by CMS.
 
 (b) In addition to the reporting requirements specified in § 431.814 relating to sampling, the agency must complete case reviews and submit reports of findings to CMS in accordance with paragraphs (b)(1) through (6) of this section for review periods beginning after July 1, 1990. The agency must not combine or otherwise integrate case findings from the MAO and AFDC strata to meet the case percentage deadlines as specified in paragraphs (b)(1) through (6) of this section.

@@ -1,5 +1,7 @@
 ##### § 431.820 Corrective action under the MEQC program.
 
+Link to an amendment published at 82 FR 31184, July 5, 2017.
+
 The agency must -
 
 (a) Take action to correct any active or negative case action errors found in the sample cases;

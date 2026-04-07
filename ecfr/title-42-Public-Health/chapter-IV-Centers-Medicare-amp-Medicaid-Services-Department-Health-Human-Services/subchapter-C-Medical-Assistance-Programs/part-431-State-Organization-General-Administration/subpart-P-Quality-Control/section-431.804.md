@@ -1,5 +1,7 @@
 ##### § 431.804 Definitions.
 
+Link to an amendment published at 82 FR 31182, July 5, 2017.
+
 As used in this subpart -
 
 *Active case* means an individual or family determined to be currently authorized as eligible for Medicaid by the agency.

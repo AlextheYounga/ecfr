@@ -1,5 +1,7 @@
 ##### § 431.812 Review procedures.
 
+Link to an amendment published at 82 FR 31183, July 5, 2017.
+
 (a) *Active case reviews.* (1) Except as provided in paragraph (a)(2) of this section, the agency must review all active cases selected from the State agency's lists of cases authorized eligible for the review month, to determine if the cases were eligible for services during all or part of the month under review, and, if appropriate, whether the proper amount of beneficiary liability was computed.
 
 (2) The agency is not required to conduct reviews of the following cases:

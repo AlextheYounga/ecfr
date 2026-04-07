@@ -1,5 +1,7 @@
 ##### § 431.814 Sampling plan and procedures.
 
+Link to an amendment published at 82 FR 31183, July 5, 2017.
+
 (a) *Plan approval.* The agency must submit a basic MEQC sampling plan (or revisions to a current plan) that meets the requirements of this section to the appropriate CMS regional office for approval at least 60 days before the beginning of the review period in which it is to be implemented. If a plan is unchanged from a previous period, the agency is not required to resubmit the entire plan. Universe estimates and sampling intervals are required 2 weeks before the first monthly sample selection for each review period. The agency must receive approval for a plan before it can be implemented.
 
 (b) *Plan requirements.* The agency must have an approved sampling plan in effect for the full 6-month sampling period that includes the following:
