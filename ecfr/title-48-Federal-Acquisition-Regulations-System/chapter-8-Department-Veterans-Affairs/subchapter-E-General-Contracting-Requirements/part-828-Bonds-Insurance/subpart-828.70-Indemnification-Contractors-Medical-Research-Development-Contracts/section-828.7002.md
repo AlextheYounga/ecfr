@@ -1,8 +1,8 @@
-##### 828.7103 Financial protection.
+##### 828.7002 Financial protection.
 
-(a) A contractor must have and maintain an amount of financial protection to cover liability to third persons and loss of or damage to the contractor's property that meets one of the following:
+(a) A contractor shall have and maintain an amount of financial protection to cover liability to third persons and loss of or damage to the contractor's property that meets one of the following:
 
-(1) The maximum amount of insurance available from private sources.
+(1) The maximum amount of insurance available from private sources; or
 
 (2) A lesser amount that the Secretary establishes after taking into consideration the cost and terms of private insurance.
 
