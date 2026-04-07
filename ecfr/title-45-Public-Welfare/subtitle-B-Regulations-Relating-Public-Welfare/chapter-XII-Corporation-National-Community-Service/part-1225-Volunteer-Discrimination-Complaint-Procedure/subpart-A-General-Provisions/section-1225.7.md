@@ -1,3 +1,0 @@
-##### § 1225.7 Review of allegations of reprisal.
-
-An aggrieved party, his or her representative, or a witness who alleges restraint, interference, coercion, discrimination, or reprisal in connection with the presentation of a complaint under this part, may, if covered by this part, request in writing that the allegation be reviewed as an individual complaint of discrimination subject to the procedures described in Subpart B or that the allegation be considered as an issue in the complaint at hand.
