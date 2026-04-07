@@ -38,7 +38,7 @@
 
 (iii) TSU, under the provisions of § 740.13(a) and (c).
 
-(9) The item is identified in paragraphs (a)(9)(i) and (ii) of this section, being exported, reexported, or transferred (in-country) to or within the People's Republic of China (PRC), and the license exception is other than: RPL (excluding 3B090, 3D001 (for 3B090), and 3E001 (for 3B090)), under the provisions of § 740.10, including § 740.10(a)(3)(v), which prohibits exports and reexports of replacement parts to countries in Country Group E:1 (see supplement no. 1 to this part)); GOV, restricted to eligibility under the provisions of § 740.11(b)(2)(ii); or TSU (excluding 3B090, 3D001 (for 3B090), and 3E001 (for 3B090)), under the provisions of § 740.13(a) and (c). Items restricted to eligibility only for the foregoing license exceptions are:
+(9) The item is identified in paragraphs (a)(9)(i) and (ii) of this section, being exported, reexported, or transferred (in-country) to or within the People's Republic of China (PRC) or Macau, and the license exception is other than: RPL (excluding 3B090, 3D001 (for 3B090), and 3E001 (for 3B090)), under the provisions of § 740.10, including § 740.10(a)(3)(v), which prohibits exports and reexports of replacement parts to countries in Country Group E:1 (see supplement no. 1 to this part)); GOV, restricted to eligibility under the provisions of § 740.11(b)(2)(ii); or TSU (excluding 3B090, 3D001 (for 3B090), and 3E001 (for 3B090)), under the provisions of § 740.13(a) and (c). Items restricted to eligibility only for the foregoing license exceptions are:
 
 (i) Controlled under ECCNs 3A090, 3B090, 4A090, or associated software and technology in 3D001, 3E001, 4D090, and 4E001; or
 
