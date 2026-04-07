@@ -1,0 +1,3 @@
+##### § 63.23 Elimination of repetition.
+
+In its application or environmental impact statement, DOE may incorporate, by reference, information contained in previous applications, statements, or reports filed with the Commission, if the references are clear and specific and copies of the information incorporated are made available to the public locations near the site of the proposed geologic repository, as specified in § 63.22(d).

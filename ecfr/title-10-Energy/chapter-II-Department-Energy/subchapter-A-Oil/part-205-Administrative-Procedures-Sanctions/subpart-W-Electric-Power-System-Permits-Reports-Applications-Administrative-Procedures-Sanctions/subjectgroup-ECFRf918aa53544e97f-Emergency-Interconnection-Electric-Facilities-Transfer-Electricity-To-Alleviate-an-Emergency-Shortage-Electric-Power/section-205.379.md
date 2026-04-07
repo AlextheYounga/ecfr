@@ -1,0 +1,3 @@
+##### § 205.379 Application for approval of the installation of permanent facilities for emergency use only.
+
+Application for DOE approval of a permanent connection for emergency use only shall conform with the requirements in § 205.373. However, the baseline data specified in § 205.373(d) need not be included in an application made under this section. In addition, the application shall state in full the reasons why such permanent connection for emergency use is in the public interest.

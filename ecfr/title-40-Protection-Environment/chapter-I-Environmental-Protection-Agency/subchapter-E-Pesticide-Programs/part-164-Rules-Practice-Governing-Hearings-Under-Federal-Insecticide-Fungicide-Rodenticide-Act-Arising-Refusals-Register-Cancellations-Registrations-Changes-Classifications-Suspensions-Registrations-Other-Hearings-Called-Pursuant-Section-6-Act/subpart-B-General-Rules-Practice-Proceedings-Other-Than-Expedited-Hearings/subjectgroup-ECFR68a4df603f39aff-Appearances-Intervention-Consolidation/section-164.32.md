@@ -1,0 +1,3 @@
+##### § 164.32 Consolidation.
+
+The Chief Administrative Law Judge, by motion or sua sponte, may consolidate two or more proceedings whenever it appears that this will expedite or simplify consideration of the issues. Consolidation shall not affect the right of any party to raise issues that could have been raised if consolidation had not occurred. At the conclusion of proceedings consolidated under this section, the Administrative Law Judge shall issue one decision under § 164.90 unless one or more of the consolidated proceedings have been dismissed pursuant to § 164.91.

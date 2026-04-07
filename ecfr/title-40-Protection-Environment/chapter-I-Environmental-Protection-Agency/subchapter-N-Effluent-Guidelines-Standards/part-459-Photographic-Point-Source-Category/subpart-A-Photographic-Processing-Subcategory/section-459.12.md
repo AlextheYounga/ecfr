@@ -1,0 +1,17 @@
+##### § 459.12 Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available.
+
+In establishing the limitations set forth in this section, EPA took into account all information it was able to collect, develop and solicit with respect to factors (such as age and size of plant, raw materials, manufacturing processes, products produced, treatment technology available energy requirements and costs) which can affect the industry subcategorization and effluent levels established. It is, however, possible that data which would affect these limitations have not been available and, as a result, these limitations should be adjusted for certain plants in this industry. An individual discharger or other interested person may submit evidence to the Regional Administrator (or to the State, if the State has the authority to issue NPDES permits) that factors relating to the equipment of facilities involved, the process applied, or other such factors related to such discharger are fundamentally different from the factors considered in the establishment of the guidelines. On the basis of such evidence or other available information, the Regional Administrator (or the State) will make a written finding that such factors are or are not fundamentally different for that facility compared to those specified in the Development Document. If such fundamentally different factors are found to exist, the Regional Administrator or the State shall establish for the discharger effluent limitations in the NPDES permit either more or less stringent than the limitations established herein, to the extent dictated by such fundamentally different factors. Such limitations must be approved by the Administrator of the Environmental Protection Agency. The Administrator may approve or disapprove such limitations, specify other limitations, or initiate proceedings to revise these regulations. 
+
+(a) The following limitations establish the quantity or quality of pollutants or pollutant properties, controlled by this paragraph, which may be discharged from a photographic processing point source subject to the provisions of this paragraph after application of the best practicable control technology currently available: 
+
+| Effluent characteristic        | Effluent limitations                              |
+| ------------------------------ | ------------------------------------------------- |
+|                                | Metric units (kilograms per 1,000 m 2 of product) |
+| Ag                             | 0.14                                              |
+| CN                             | 0.18                                              |
+| pH                             | (1)                                               |
+|                                | English units (pounds per 1,000 ft 2 of product)  |
+| Ag                             | 0.030                                             |
+| CN                             | 0.038                                             |
+| pH                             | (1)                                               |
+| 1 Within the range 6.0 to 9.0. |                                                   |

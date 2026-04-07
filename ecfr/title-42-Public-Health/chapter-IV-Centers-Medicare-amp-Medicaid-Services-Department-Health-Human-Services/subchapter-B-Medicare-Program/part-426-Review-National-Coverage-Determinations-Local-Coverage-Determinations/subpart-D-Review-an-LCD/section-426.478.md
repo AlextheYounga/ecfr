@@ -1,0 +1,3 @@
+##### § 426.478 Retiring or revising an LCD during the Board's review of an ALJ's decision.
+
+A contractor may retire or revise an LCD during the Board's review of an ALJ's decision using the same process described in § 426.420. If an LCD is retired or revised to remove completely the challenged provision(s), the aggrieved party who sought the review is entitled to individual claim review provided at § 426.488(b).

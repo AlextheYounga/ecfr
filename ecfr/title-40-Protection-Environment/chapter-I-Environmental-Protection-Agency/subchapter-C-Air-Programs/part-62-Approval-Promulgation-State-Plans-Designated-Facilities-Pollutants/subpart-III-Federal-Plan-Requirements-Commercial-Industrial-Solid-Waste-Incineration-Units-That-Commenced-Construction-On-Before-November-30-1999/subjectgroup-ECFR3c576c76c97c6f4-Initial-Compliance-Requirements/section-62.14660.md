@@ -1,0 +1,3 @@
+##### § 62.14660 How do I demonstrate initial compliance with the emission limitations and establish the operating limits?
+
+You must conduct an initial performance test, as required under 40 CFR 60.8, to determine compliance with the emission limitations in Table 1 of this subpart and to establish operating limits using the procedure in § 62.14635 or § 62.14640. The initial performance test must be conducted using the test methods listed in table 1 of this subpart and the procedures in § 62.14650.

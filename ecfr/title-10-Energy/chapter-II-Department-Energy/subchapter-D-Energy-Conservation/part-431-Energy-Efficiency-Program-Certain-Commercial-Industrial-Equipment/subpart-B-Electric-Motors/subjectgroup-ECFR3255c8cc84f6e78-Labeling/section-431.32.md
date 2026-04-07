@@ -1,0 +1,3 @@
+##### § 431.32 Preemption of State regulations.
+
+The provisions of § 431.31 supersede any State regulation to the extent required by Section 327 of the Act. Pursuant to the Act, all State regulations that require the disclosure for any electric motor of information with respect to energy consumption, other than the information required to be disclosed in accordance with this part, are superseded.

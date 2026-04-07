@@ -1,0 +1,3 @@
+##### § 351.607 Permissive continuing exceptions.
+
+An agency may make exception to the order of release in § 351.601 and to the action provisions of § 351.603 when needed to retain an employee on duties that cannot be taken over within 90 days and without undue interruption to the activity by an employee with higher retention standing. The agency shall notify in writing each higher-standing employee reached for release from the same competitive level of the reasons for the exception.

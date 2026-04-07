@@ -1,0 +1,43 @@
+##### § 420.12 Effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT).
+
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available. 
+
+(a) *By-product cokemaking—iron and steel.*
+
+Subpart A
+| Pollutant or pollutant property   | BPT effluent limitations                |
+| --------------------------------- | --------------------------------------- |
+|                                   | Kg/kkg (pounds per 1,000 lb) of product |
+| TSS                               | 0.253                                   |
+| O&G                               | 0.0327                                  |
+| Ammonia-N                         | 0.274                                   |
+| Cyanide                           | 0.0657                                  |
+| Phenols (4AAP)                    | 0.00451                                 |
+| pH                                | (1)                                     |
+| 1 Within the range of 6.0 to 9.0. |                                         |
+
+(1) Increased loadings, not to exceed 11 percent of the above limitations, are allowed for by-product coke plants which have wet desulfurization systems but only to the extent such systems generate an increased effluent volume. 
+
+(2) Increased loadings, not to exceed 27 percent of the above limitations, are allowed for by-product coke plants which include indirect ammonia recovery systems but only to the extent that such systems generate an increased effluent volume. 
+
+(b) *By-product cokemaking—merchant.*
+
+Subpart A
+| Pollutant or pollutant property   | BPT effluent limitations                |
+| --------------------------------- | --------------------------------------- |
+|                                   | Kg/kkg (pounds per 1,000 lb) of product |
+| TSS                               | 0.270                                   |
+| O&G                               | 0.0349                                  |
+| Ammonia-N                         | 0.292                                   |
+| Cyanide                           | 0.0701                                  |
+| Phenols (4AAP)                    | 0.00481                                 |
+| pH                                | (1)                                     |
+| 1 Within the range of 6.0 to 9.0. |                                         |
+
+(1) Increased loadings, not to exceed 10 percent of the above limitations, are allowed for by-product coke plants which have wet desulfurization systems but only to the extent such systems generate an increased effluent volume. 
+
+(2) Increased loadings, not to exceed 25 percent of the above limitations, are allowed for by-product coke plants which include indirect ammonia recovery systems but only to the extent that such systems generate an increased effluent volume. 
+
+(c) *Cokemaking—non-recovery.* Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this segment must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT): There shall be no discharge of process wastewater pollutants to waters of the U.S. 
+
+\[47 FR 23284, May 27, 1982, as amended at 67 FR 64262, Oct. 17, 2002\]

@@ -1,0 +1,28 @@
+##### § 90.214 Transient frequency behavior.
+
+Transmitters designed to operate in the 150-174 MHz and 421-512 MHz frequency bands must maintain transient frequencies within the maximum frequency difference limits during the time intervals indicated:
+
+| Time intervals 1 2                                                                                                                                                                      | Maximum   frequency   difference 3 | All equipment |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------- |
+| Transient Frequency Behavior for Equipment Designed to Operate on 25 kHz Channels                                                                                                       |                                    |               |
+| t14                                                                                                                                                                                     | ±25.0 kHz                          | 5.0 ms        |
+| t2                                                                                                                                                                                      | ±12.5 kHz                          | 20.0 ms       |
+| t34                                                                                                                                                                                     | ±25.0 kHz                          | 5.0 ms        |
+| Transient Frequency Behavior for Equipment Designed to Operate on 12.5 kHz Channels                                                                                                     |                                    |               |
+| t14                                                                                                                                                                                     | ±12.5 kHz                          | 5.0 ms        |
+| t2                                                                                                                                                                                      | ±6.25 kHz                          | 20.0 ms       |
+| t34                                                                                                                                                                                     | ±12.5 kHz                          | 5.0 ms        |
+| Transient Frequency Behavior for Equipment Designed to Operate on 6.25 kHz Channels                                                                                                     |                                    |               |
+| t14                                                                                                                                                                                     | ±6.25 kHz                          | 5.0 ms        |
+| t2                                                                                                                                                                                      | ±3.125 kHz                         | 20.0 ms       |
+| t34                                                                                                                                                                                     | ±6.25 kHz                          | 5.0 ms        |
+| 1on is the instant when a 1 kHz test signal is completely suppressed, including any capture time due to phasing.                                                                        |                                    |               |
+| t1 is the time period immediately following ton.                                                                                                                                        |                                    |               |
+| t2 is the time period immediately following t1.                                                                                                                                         |                                    |               |
+| t3 is the time period from the instant when the transmitter is turned off until toff.                                                                                                   |                                    |               |
+| toff is the instant when the 1 kHz test signal starts to rise.                                                                                                                          |                                    |               |
+| 2 During the time from the end of t2 to the beginning of t3, the frequency difference must not exceed the limits specified in § 90.213.                                                 |                                    |               |
+| 3 Difference between the actual transmitter frequency and the assigned transmitter frequency.                                                                                           |                                    |               |
+| 4 If the transmitter carrier output power rating is 6 watts or less, the frequency difference during this time period may exceed the maximum frequency difference for this time period. |                                    |               |
+
+\[62 FR 2040, Jan. 15, 1997\]

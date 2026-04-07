@@ -1,0 +1,3 @@
+##### § 264.603 Post-closure care.
+
+A miscellaneous unit that is a disposal unit must be maintained in a manner that complies with § 264.601 during the post-closure care period. In addition, if a treatment or storage unit has contaminated soils or ground water that cannot be completely removed or decontaminated during closure, then that unit must also meet the requirements of § 264.601 during post-closure care. The post-closure plan under § 264.118 must specify the procedures that will be used to satisfy this requirement.

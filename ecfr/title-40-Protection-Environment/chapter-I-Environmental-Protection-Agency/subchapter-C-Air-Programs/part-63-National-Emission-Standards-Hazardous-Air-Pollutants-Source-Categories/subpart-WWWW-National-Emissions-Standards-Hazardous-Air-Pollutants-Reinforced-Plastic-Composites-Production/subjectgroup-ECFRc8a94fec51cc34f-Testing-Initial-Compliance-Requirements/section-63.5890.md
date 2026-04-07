@@ -1,0 +1,7 @@
+##### § 63.5890 How do I calculate an organic HAP emissions factor to demonstrate compliance for continuous lamination/casting operations?
+
+(a) *Compliant line option.* Use Equation 1 of this section to calculate an organic HAP emissions factor in lbs/ton. 
+
+![](/graphics/er21ap03.007.gif)Where: E = HAP emissions factor in lbs/ton of resin and gel coat WAEu = uncontrolled wet-out area organic HAP emissions, lbs per year WAEc = controlled wet-out area organic HAP emissions, lbs per year Ou = uncontrolled oven organic HAP emissions, lbs per year Oc = controlled oven organic HAP emissions, lbs per year R = total usage of neat resin plus, tpy G = total usage of neat gel coat plus, tpy (b) *Averaging option.* Use Equation 2 of this section to demonstrate compliance.![](/graphics/er21ap03.008.gif)Where: E = HAP emissions factor in lbs/ton of resin and gel coat WAEui = uncontrolled organic HAP emissions from wet-out area i, lbs per year WAEci = controlled organic HAP emissions from wet-out area i, lbs per year Ouj = uncontrolled organic HAP emissions from oven j, lbs per year Ocj = controlled organic HAP emissions from oven j, lbs per year i = number of wet-out areas j = number of ovens m = number of wet-out areas uncontrolled n = number of ovens uncontrolled o = number of wet-out areas controlled p = number of ovens controlled R = total usage of neat resin plus, tpy G = total usage of neat gel coat plus, tpy
+
+(c) *Combination option.* Use Equations 1 and 2 of this section, as applicable, to demonstrate compliance.

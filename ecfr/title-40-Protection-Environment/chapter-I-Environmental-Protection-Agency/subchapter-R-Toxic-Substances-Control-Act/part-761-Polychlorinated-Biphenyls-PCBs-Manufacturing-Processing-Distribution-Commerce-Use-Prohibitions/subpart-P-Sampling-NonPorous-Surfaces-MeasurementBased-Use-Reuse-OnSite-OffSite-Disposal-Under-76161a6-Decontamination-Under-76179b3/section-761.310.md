@@ -1,0 +1,3 @@
+##### § 761.310 Collecting the sample.
+
+Use the standard wipe test as defined in § 761.123 to sample one 10 centimeter by 10 centimeter square (100 cm 2) area to represent surface area PCB concentrations of each square meter or fraction of a square meter of a nearly flat, non-porous surface. For small surfaces, use the same procedure as for the standard wipe test, only sample the entire area, rather than 10 centimeter by 10 centimeter squares.

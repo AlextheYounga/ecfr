@@ -1,0 +1,3 @@
+##### § 437.12 Effluent limitations attainable by the application of the best conventional pollutant control technology (BCT).
+
+Except as provided in 40 CFR 125.30 through 125.32 or § 437.10(b), any existing point source subject to this subpart must achieve the following effluent limitations representing the application of BCT: Limitations for oil and grease, pH, and TSS are the same as the corresponding limitation specified in § 437.11(a).
