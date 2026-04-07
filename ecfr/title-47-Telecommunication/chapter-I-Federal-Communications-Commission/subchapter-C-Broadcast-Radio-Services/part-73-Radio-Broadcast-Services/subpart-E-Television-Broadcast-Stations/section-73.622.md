@@ -486,7 +486,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Lafayette            | 10, 16, \*23, 28                                    |
 | Lake Charles         | 7, 18, \*20                                         |
 | Minden               | 32                                                  |
-| Monroe               | 8, \*13                                             |
+| Monroe               | \*13, 24                                            |
 | New Iberia           | 17                                                  |
 | New Orleans          | 15, 19, 21, \*23, 26, 27, \*28, 29, 33              |
 | Shreveport           | 16, \*17, 23, 28, 34                                |

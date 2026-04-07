@@ -20307,7 +20307,7 @@ Note:
 
 The map provided is for informational purposes only.
 
-![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 86 FR 72429, Dec. 21, 2021.
+![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (f) *Clams and Snails.*
 
@@ -24595,7 +24595,47 @@ Fender's Blue butterfly (*Icaricia icarioides fenderi*)
 
 (B) Map B of Unit FLB4 follows:
 
-![](/graphics/er12au14.018.gif)Island Marble Butterfly (*Euchloe ausonides insulanus*)
+![](/graphics/er12au14.018.gif)Hermes Copper Butterfly (*Lycaena hermes*)
+
+(1) Critical habitat units are depicted for San Diego County, California, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Hermes copper butterfly consist of the following components when found between 30 m and 1,341 m above sea level, and located in habitat providing an appropriate quality, quantity, and spatial and temporal arrangement of these habitat characteristics in the context of the life-history needs, condition, and status of the species:
+
+(i) Spiny redberry host plants (*Rhamnus crocea*).
+
+(ii) Nectar sources for adult butterflies.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on January 20, 2022.
+
+(4) Critical habitat was mapped using GIS analysis tools and refined using 2016 NAIP imagery and/or the World Imagery layer from ArcGIS Online. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *https://www.regulations.gov* at Docket No. FWS-R8-ES-2017-0053, on our internet site *https://www.fws.gov/carlsbad/gis/cfwogis.html,* and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er21de21.002.gif)
+
+(6) Unit 1: Lopez Canyon, San Diego County, California.
+
+(i) Unit 1 consists of 166 hectares (ha) (410 acres (ac)) in San Diego County and is composed of lands jointly owned and managed by the City and County of San Diego (88 ha (218 ac)) and private or other ownership (77 ha (191 ac)).
+
+(ii) Map of Unit 1, Lopez Canyon, follows:
+
+![](/graphics/er21de21.003.gif)
+
+(7) Unit 2: Miramar/Santee, San Diego County, California.
+
+(i) Unit 2 consists of 2,870 ha (7,092 ac) in San Diego County and is composed of lands owned and managed by the State of California (111 ha (275 ac)), local jurisdictions (primarily the County of San Diego; 1,113 ha (2,750 ac)), and private or other ownership (1,646 ha (4,068 ac)).
+
+(ii) Map of Unit 2, Miramar/Santee, follows:
+
+![](/graphics/er21de21.004.gif)
+
+(8) Unit 3: Southeast San Diego, San Diego County, California.
+
+(i) Unit 3 consists of 11,213 ha (27,709 ac) in San Diego County and is composed of lands owned by the Federal Government (4,213 ha (10,411 ac)), the State of California (2,000 ha (4,940 ac)), local jurisdictions (primarily the City and County of San Diego; 1,162 ha (2,871 ac)), and private or other ownership (3,765 ha (9,303 ac)).
+
+(ii) Map of Unit 3, Southeast San Diego, follows:
+
+![](/graphics/er21de21.005.gif)Island Marble Butterfly (*Euchloe ausonides insulanus*)
 
 (1) The critical habitat unit is depicted for San Juan County, Washington, on the map below.
 
