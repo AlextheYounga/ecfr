@@ -38,9 +38,7 @@ Paragraph (e) (2) through (8) of this section provides the applicable rules for 
 
 For purposes of apportioning deductions which are not taken into account under § 1.1502-13 in determining gain or loss from intercompany transactions, as defined in § 1.1502-13, income from such transactions shall be taken into account in the year such income is ultimately included in gross income.
 
-(ii) *Exempt income and exempt asset defined* -
-
-(A) *In general.* For further guidance, see § 1.861-8(d)(2)(ii)(A).
+(ii) *Exempt income and exempt asset defined* - (A) *In general.* For further guidance, see § 1.861-8(d)(2)(ii)(A).
 
 (B)(*1*) *Certain stock and dividends.* The term “exempt income” includes the portion of the dividends that are deductible under -
 

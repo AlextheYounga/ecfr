@@ -1,6 +1,6 @@
 ##### § 1.704-1 Partner's distributive share.
 
-Link to an amendment published at 85 FR 56842, Sept. 14, 2020.Link to an amendment published at 85 FR 72033, Nov. 12, 2020.
+Link to an amendment published at 85 FR 72033, Nov. 12, 2020.
 
 (a) *Effect of partnership agreement.* A partner's distributive share of any item or class of items of income, gain, loss, deduction, or credit of the partnership shall be determined by the partnership agreement, unless otherwise provided by section 704 and paragraphs (b) through (e) of this section. For definition of partnership agreement see section 761(c).
 
@@ -472,6 +472,8 @@ the partners' interests in the partnership with respect to the portion of the al
 (*b*) *Timing.* Section 706 and the regulations and principles thereunder apply in determining the items of income, gain, loss, and deduction that may be subject to corrective allocation.
 
 (*c*) *Allocation of gross income and gain and gross loss and deduction.* If the capital account reallocation is from the historic partners to the exercising option holder, then the corrective allocations must first be made with gross income and gain. If an allocation of gross income and gain alone does not completely take into account the capital account reallocation in a given year, then the partnership must also make corrective allocations using a pro rata portion of items of gross loss and deduction as to further take into account the capital account reallocation. Conversely, if the capital account reallocation is from the exercising option holder to the historic partners, then the corrective allocations must first be made with gross loss and deduction. If an allocation of gross loss and deduction alone does not completely take into account the capital account reallocation in a given year, then the partnership must also make corrective allocations using a pro rata portion of items of gross income and gain as to further take into account the capital account reallocation.
+
+(xi) *Section 163(j) excess items.* Allocations of section 163(j) excess items as defined in § 1.163(j)-6(b)(6) do not have substantial economic effect under paragraph (b)(2) of this section and, accordingly, such expenditures must be allocated in accordance with the partners' interests in the partnership. See paragraph (b)(3)(iv) of this section. Allocations of section 163(j) excess items will be deemed to be in accordance with the partners' interests in the partnership if such allocations are made in accordance with § 1.163(j)-6(f).
 
 (5) *Examples.* The operation of the rules in this paragraph is illustrated by the following examples:
 
