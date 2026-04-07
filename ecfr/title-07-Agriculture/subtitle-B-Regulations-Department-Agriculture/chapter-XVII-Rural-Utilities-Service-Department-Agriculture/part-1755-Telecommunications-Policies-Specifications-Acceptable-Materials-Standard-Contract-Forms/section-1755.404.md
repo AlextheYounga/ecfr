@@ -24,7 +24,7 @@
 
 ![](/graphics/er02my97.036.gif)![](/graphics/er02my97.037.gif)
 
-(4) *Applicable results.* (i) The splice loss for each single mode field splice shall be the bi-directional average of the two OTDR readings. To calculate the actual splice loss, substitute the OTDR readings maintaining the sign of the loss ( + ) or apparent gain (−) into the following equation:
+(4) *Applicable results.* (i) The splice loss for each single mode field splice shall be the bi-directional average of the two OTDR readings. To calculate the actual splice loss, substitute the OTDR readings maintaining the sign of the loss (+) or apparent gain (−) into the following equation:
 
 ![](/graphics/en07my97.000.gif)
 
@@ -32,13 +32,13 @@
 
 (iii) When no limit is specified in the applicable construction contract, the splice loss of each field splice shall not exceed 0.2 dB at 1310 and/or 1550 nanometers.
 
-(iv) The splice loss for each single mode CO splice shall be the bi-directional average of the two OTDR reading. To calculate actual splice loss, substitute the OTDR reading, maintaining the sign of the loss ( + ) or apparent gain (−), into the equation specified in paragraph (b)(4)(i) of this section.
+(iv) The splice loss for each single mode CO splice shall be the bi-directional average of the two OTDR reading. To calculate actual splice loss, substitute the OTDR reading, maintaining the sign of the loss (+) or apparent gain (−), into the equation specified in paragraph (b)(4)(i) of this section.
 
 (v) When specified in the applicable construction contract, the splice loss of each central office splice at 1310 and/or 1550 nanometers shall not exceed the limit specified in the contract.
 
 (vi) When no limit is specified in the applicable construction contract, the splice loss of each central office splice shall not exceed 1.2 dB at 1310 and/or 1550 nanometers.
 
-(5) *Data record.* The measurement data shall be recorded. A suggested format similar to Format V, Outside Plant Acceptance Test - Fiber Optic Telecommunications Plant, in § 1755.407 or a format specified in the applicable construction contract may be used.
+(5) *Data record.* The measurement data shall be recorded. A suggested format similar to Format V, Outside Plant Acceptance Test—Fiber Optic Telecommunications Plant, in § 1755.407 or a format specified in the applicable construction contract may be used.
 
 (6) *Probable causes for nonconformance.* When the results of the splice loss measurements exceed the specified limits the following factors should be checked:
 
