@@ -10,7 +10,7 @@
 
 (5) At least two of the recall notice forms listed in subsection (b) should be used.
 
-(b) Form of recall notice - (1) Possible forms. A recall notice may be written, electronic, audio, visual, or in any other form ordered by the Commission in an order under section 15(c) or (d) of the CPSA (15 U.S.C. 2064(c) or (d)), or by a United States district court under section 12 of the CPSA (15 U.S.C. 2061). The forms of, and means for communicating, recall notices include, but are not limited to:
+(b) *Form of recall notice*—(1) *Possible forms.* A recall notice may be written, electronic, audio, visual, or in any other form ordered by the Commission in an order under section 15(c) or (d) of the CPSA (15 U.S.C. 2064(c) or (d)), or by a United States district court under section 12 of the CPSA (15 U.S.C. 2061). The forms of, and means for communicating, recall notices include, but are not limited to:
 
 (i) Letter, Web site posting, electronic mail, RSS feed, or text message;
 
