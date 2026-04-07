@@ -1,6 +1,6 @@
 ##### § 1209.9 Labeling requirement.
 
-(a) Manufacturers, importers, and private labelers of cellulose insulation shall place on all containers of cellulose insulation the following statement:
+(a) Manufacturers, importers, and private labelers of cellulose insulation shall place on all containers of cellulose insulation the following statement: 
 
 This product meets the amended CPSC standard for flame resistance and corrosiveness of cellulose insulation.
 

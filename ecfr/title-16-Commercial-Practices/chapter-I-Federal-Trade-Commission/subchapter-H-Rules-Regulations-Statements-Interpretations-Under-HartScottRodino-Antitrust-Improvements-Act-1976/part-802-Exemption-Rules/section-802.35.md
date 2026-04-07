@@ -1,12 +1,12 @@
 ##### § 802.35 Acquisitions by employee trusts.
 
-An acquisition of voting securities shall be exempt from the notification requirements of the act if:
+An acquisition of voting securities shall be exempt from the notification requirements of the act if: 
 
-(a) The securities are acquired by a trust that meets the qualifications of section 401 of the Internal Revenue Code;
+(a) The securities are acquired by a trust that meets the qualifications of section 401 of the Internal Revenue Code; 
 
-(b) The trust is controlled by a person that employs the beneficiaries and,
+(b) The trust is controlled by a person that employs the beneficiaries and, 
 
-(c) The voting securities acquired are those of that person or an entity within that person.
+(c) The voting securities acquired are those of that person or an entity within that person. 
 
 Examples:1\. Company A establishes a trust for its employees that meets the qualifications of section 401 of the Internal Revenue Code. Company A has the power to designate the trustee of the trust. That trust then acquires 30% of the voting securities of Company A for in excess of $50 million (as adjusted). Later, the trust acquires 20% of the stock of Company B, a wholly-owned subsidiary of Company A, for in excess of $50 million (as adjusted). Neither acquisition is reportable.
 

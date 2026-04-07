@@ -1,6 +1,6 @@
 ##### § 1033.2 Display of control numbers.
 
-The following rules enforced by the Consumer Product Safety Commission containing collections of information are listed with the control numbers assigned by the Office of Management and Budget:
+The following rules enforced by the Consumer Product Safety Commission containing collections of information are listed with the control numbers assigned by the Office of Management and Budget: 
 
 | Part or section of title 16 Code of Federal Regulations | Currently assigned OMB control No. |
 | ------------------------------------------------------- | ---------------------------------- |

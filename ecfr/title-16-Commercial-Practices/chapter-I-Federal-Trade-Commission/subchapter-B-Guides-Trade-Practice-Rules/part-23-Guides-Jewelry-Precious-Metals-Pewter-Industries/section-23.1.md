@@ -1,6 +1,6 @@
 ##### § 23.1 Deception (general).
 
-It is unfair or deceptive to misrepresent the type, kind, grade, quality, quantity, metallic content, size, weight, cut, color, character, treatment, substance, durability, serviceability, origin, price, value, preparation, production, manufacture, distribution, or any other material aspect of an industry product.
+It is unfair or deceptive to misrepresent the type, kind, grade, quality, quantity, metallic content, size, weight, cut, color, character, treatment, substance, durability, serviceability, origin, price, value, preparation, production, manufacture, distribution, or any other material aspect of an industry product. 
 
 Note 1 to § 23.1:
 

@@ -1,6 +1,6 @@
 ##### § 500.18 SI metric prefixes.
 
-The following chart indicates SI prefixes that may be used on a broad range of consumer commodity labels:
+The following chart indicates SI prefixes that may be used on a broad range of consumer commodity labels: 
 
 | Prefix                                                    | Symbol | Multiplying factor 1 |
 | --------------------------------------------------------- | ------ | -------------------- |

@@ -1,6 +1,6 @@
 ##### § 23.17 Misuse of the words “brilliant” and “full cut.”
 
-It is unfair or deceptive to use the unqualified expressions “brilliant,” “brilliant cut,” or “full cut” to describe, identify, or refer to any diamond except a round diamond that has at least thirty-two (32) facets plus the table above the girdle and at least twenty-four (24) facets below.
+It is unfair or deceptive to use the unqualified expressions “brilliant,” “brilliant cut,” or “full cut” to describe, identify, or refer to any diamond except a round diamond that has at least thirty-two (32) facets plus the table above the girdle and at least twenty-four (24) facets below. 
 
 Note to § 23.17:
 

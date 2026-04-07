@@ -4,24 +4,24 @@
 
 (b) Door and Access Systems Manufacturers' Association, International (DASMA), 1300 Sumner Avenue, Cleveland, OH 44115-2851, Telephone: (216) 241-7333, *http://www.dasma.com/dasma-pages/D-AS-standards.asp.*
 
-(1) ANSI/DASMA 102, Specifications for Sectional Doors, 2011 revision, dated May 19, 2011, into § 1211.6(c).
+(1) ANSI/DASMA 102, Specifications for Sectional Doors, 2011 revision, dated May 19, 2011, into § 1211.6(c). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 (c) National Fire Prevention Association (NFPA), 1 Batterymarch Park, Quincy, MA 02269-9101, Telephone: (800) 344-3555, *http://www.nfpa.org/.*
 
-(1) NFPA 70, National Electrical Code, 2014 edition, effective August 21, 2013, into § 1211.2(c).
+(1) NFPA 70, National Electrical Code, 2014 edition, effective August 21, 2013, into § 1211.2(c). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 (d) UL, formerly Underwriters Laboratories, International, 151 Eastern Avenue, Bensenville, IL 60106, Telephone: 1-888-853-3503, *http://ulstandards.ul.com/.*
 
-(1) UL 325, Standard for Safety: Door, Drapery, Gate, Louver, and Window Operators and Systems, SUPPLEMENT SA—(Normative)—UL 60335-1/CAN/CSA-C22.2 No. 60335-1 Based Requirements for the Evaluation of Electronic Circuits, Seventh Edition, May 19, 2017, into §§ 1211.4 and 1211.5.
+(1) UL 325, Standard for Safety: Door, Drapery, Gate, Louver, and Window Operators and Systems, SUPPLEMENT SA—(Normative)—UL 60335-1/CAN/CSA-C22.2 No. 60335-1 Based Requirements for the Evaluation of Electronic Circuits, Seventh Edition, May 19, 2017, into §§ 1211.4 and 1211.5. 
 
-(2) UL 746C, Standard for Safety: Polymeric Materials—Use in Electrical Equipment Evaluations, Sixth Edition, dated September 10, 2004, into §§ 1211.10(d) and (e) and 1211.12(c).
+(2) UL 746C, Standard for Safety: Polymeric Materials—Use in Electrical Equipment Evaluations, Sixth Edition, dated September 10, 2004, into §§ 1211.10(d) and (e) and 1211.12(c). 
 
-(3) UL 991, Standard for Safety: Tests for Safety-Related Controls Employing Solid-State Devices, Third Edition, dated October 22, 2004, into §§ 1211.4(c) and 1211.5(b)(3).
+(3) UL 991, Standard for Safety: Tests for Safety-Related Controls Employing Solid-State Devices, Third Edition, dated October 22, 2004, into §§ 1211.4(c) and 1211.5(b)(3). 
 
-(4) UL 1998, Standard for Safety: Software in Programmable Components, Third Edition, December 18, 2013, into § 1211.8(f).
+(4) UL 1998, Standard for Safety: Software in Programmable Components, Third Edition, December 18, 2013, into § 1211.8(f). 
 
 \[81 FR 20245, Apr. 7, 2016, as amended at 83 FR 32579, July 13, 2018\]

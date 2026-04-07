@@ -1,6 +1,6 @@
 ##### § 1.101 OMB control numbers assigned pursuant to the Paperwork Reduction Act.
 
-(a) *Purpose.* This part collects and displays control numbers assigned by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act of 1995 to information collection requirements in rules issued or enforced by the Commission. A response to an information collection is not required unless the collection of information displays a valid OMB control number. This part fulfills the mandate (44 U.S.C. 3507(a)(3), 44 U.S.C. 3512) that agencies display the current control number assigned by the OMB Director to agency information collection requirements and inform affected persons that they need not respond to a collection of information unless it displays a valid control number.
+(a) *Purpose.* This part collects and displays control numbers assigned by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act of 1995 to information collection requirements in rules issued or enforced by the Commission. A response to an information collection is not required unless the collection of information displays a valid OMB control number. This part fulfills the mandate (44 U.S.C. 3507(a)(3), 44 U.S.C. 3512) that agencies display the current control number assigned by the OMB Director to agency information collection requirements and inform affected persons that they need not respond to a collection of information unless it displays a valid control number. 
 
 (b) *Display.*
 

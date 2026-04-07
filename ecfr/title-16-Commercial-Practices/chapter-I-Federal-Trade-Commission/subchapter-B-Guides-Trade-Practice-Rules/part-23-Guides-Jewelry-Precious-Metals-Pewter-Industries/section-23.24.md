@@ -1,12 +1,12 @@
 ##### § 23.24 Disclosure of treatments to gemstones.
 
-It is unfair or deceptive to fail to disclose that a gemstone has been treated if:
+It is unfair or deceptive to fail to disclose that a gemstone has been treated if: 
 
-(a) The treatment is not permanent. The seller should disclose that the gemstone has been treated and that the treatment is or may not be permanent;
+(a) The treatment is not permanent. The seller should disclose that the gemstone has been treated and that the treatment is or may not be permanent; 
 
-(b) The treatment creates special care requirements for the gemstone. The seller should disclose that the gemstone has been treated and has special care requirements. It is also recommended that the seller disclose the special care requirements to the purchaser; or
+(b) The treatment creates special care requirements for the gemstone. The seller should disclose that the gemstone has been treated and has special care requirements. It is also recommended that the seller disclose the special care requirements to the purchaser; or 
 
-(c) The treatment has a significant effect on the stone's value. The seller should disclose that the gemstone has been treated.
+(c) The treatment has a significant effect on the stone's value. The seller should disclose that the gemstone has been treated. 
 
 Note to § 23.24:
 

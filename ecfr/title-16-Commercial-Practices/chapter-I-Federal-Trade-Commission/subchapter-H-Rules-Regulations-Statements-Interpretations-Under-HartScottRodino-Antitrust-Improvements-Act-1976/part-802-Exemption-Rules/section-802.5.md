@@ -1,16 +1,16 @@
 ##### § 802.5 Acquisitions of investment rental property assets.
 
-(a) Acquisitions of investment rental property assets shall be exempt from the requirements of the act.
+(a) Acquisitions of investment rental property assets shall be exempt from the requirements of the act. 
 
-(b) Investment rental property assets. “Investment rental property assets” means real property that will not be rented to entities included within the acquiring person except for the sole purpose of maintaining, managing or supervising the operation of the real property, and will be held solely for rental or investment purposes. In an acquisition that includes investment rental property assets, the transfer of any property or assets that are not investment rental property assets shall be subject to the requirements of the act and these rules as if they were being acquired in a separate transaction. Investment rental property assets include:
+(b) Investment rental property assets. “Investment rental property assets” means real property that will not be rented to entities included within the acquiring person except for the sole purpose of maintaining, managing or supervising the operation of the real property, and will be held solely for rental or investment purposes. In an acquisition that includes investment rental property assets, the transfer of any property or assets that are not investment rental property assets shall be subject to the requirements of the act and these rules as if they were being acquired in a separate transaction. Investment rental property assets include: 
 
-(1) Property currently rented,
+(1) Property currently rented, 
 
-(2) Property held for rent but not currently rented,
+(2) Property held for rent but not currently rented, 
 
-(3) Common areas on the property, and
+(3) Common areas on the property, and 
 
-(4) Assets incidental to the ownership of property, which may include cash, prepaid taxes or insurance, rental receivables and the like.
+(4) Assets incidental to the ownership of property, which may include cash, prepaid taxes or insurance, rental receivables and the like. 
 
 Example:1\. “X”, a corporation, proposes to purchase a sports/entertainment complex which it will rent to professional sports teams and promoters of special events for concerts, ice shows, sporting events and other entertainment activities. “X” will provide office space in the complex for “Y”, a management company which will maintain and manage the facility for “X.” This acquisition is an exempt acquisition of investment rental property assets since “X” intends to rent the facility to third parties and is providing space within the facility to a management company solely to maintain, manage or supervise the operation of the facility on its behalf. If, however, “X” controls Z, a concert promoter to whom it also intends to rent the complex, the acquisition would not be exempt under § 802.5, since the property would not meet the requirements of § 802.5(b)(1).
 

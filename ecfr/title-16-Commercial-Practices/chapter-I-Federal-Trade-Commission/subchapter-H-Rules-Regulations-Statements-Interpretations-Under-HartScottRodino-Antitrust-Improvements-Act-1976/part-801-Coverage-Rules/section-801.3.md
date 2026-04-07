@@ -1,6 +1,6 @@
 ##### § 801.3 Activities in or affecting commerce.
 
-Section 7A(a)(1) is satisfied if any entity included within the acquiring person, or any entity included within the acquired person, is engaged in commerce or in any activity affecting commerce.
+Section 7A(a)(1) is satisfied if any entity included within the acquiring person, or any entity included within the acquired person, is engaged in commerce or in any activity affecting commerce. 
 
 Examples:1\. A foreign subsidiary of a U.S. corporation seeks to acquire a foreign business. The acquiring person includes the U.S. parent corporation. If the U.S. corporation, or the foreign subsidiary, or any entity controlled by either one of them, is engaged in commerce or in any activity affecting commerce, section 7A(a)(1) is satisfied. Note, however, that §§ 802.50-802.52 may exempt certain acquisitions of foreign businesses or assets.
 

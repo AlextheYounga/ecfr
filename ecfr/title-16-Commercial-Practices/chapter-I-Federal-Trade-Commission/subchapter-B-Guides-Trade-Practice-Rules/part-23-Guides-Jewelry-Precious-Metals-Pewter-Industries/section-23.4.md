@@ -1,8 +1,8 @@
 ##### § 23.4 Misuse of the word “vermeil.”
 
-(a) It is unfair or deceptive to represent, directly or by implication, that an industry product is “vermeil” if such mark or description misrepresents the product's true composition.
+(a) It is unfair or deceptive to represent, directly or by implication, that an industry product is “vermeil” if such mark or description misrepresents the product's true composition. 
 
-(b) An industry product may be described or marked as “vermeil” if it consists of a base of sterling silver coated or plated on all significant surfaces with gold, or gold alloy of not less than 10 karat fineness, that is of reasonable durability 33 and a minimum thickness throughout equivalent to two and one half (2 1/2) microns (or approximately 100/1,000,000ths of an inch) of fine gold.
+(b) An industry product may be described or marked as “vermeil” if it consists of a base of sterling silver coated or plated on all significant surfaces with gold, or gold alloy of not less than 10 karat fineness, that is of reasonable durability 33 and a minimum thickness throughout equivalent to two and one half (2 1/2) microns (or approximately 100/1,000,000ths of an inch) of fine gold. 
 
 33 See footnote 2.
 

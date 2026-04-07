@@ -16,7 +16,7 @@ D. *“See our full 2 year warranty at the store nearest you.”*
 
 E. “Don't take our word—take our warranty. *See our limited 2 year warranty where you shop.”*
 
-(b) If an advertisement in any catalogue, or in any other solicitation 2 for mail order sales or for telephone order sales mentions a warranty or guarantee that is offered on the advertised product, the advertisement should disclose, with such clarity and prominence as will be noticed and understood by prospective purchasers, that prospective purchasers can obtain complete details of the written warranty or guarantee free from the seller upon specific written request or from the catalogue or other solicitation (whichever is applicable).
+(b) If an advertisement in any catalogue, or in any other solicitation 2 for mail order sales or for telephone order sales mentions a warranty or guarantee that is offered on the advertised product, the advertisement should disclose, with such clarity and prominence as will be noticed and understood by prospective purchasers, that prospective purchasers can obtain complete details of the written warranty or guarantee free from the seller upon specific written request or from the catalogue or other solicitation (whichever is applicable). 
 
 2 See note 1.
 

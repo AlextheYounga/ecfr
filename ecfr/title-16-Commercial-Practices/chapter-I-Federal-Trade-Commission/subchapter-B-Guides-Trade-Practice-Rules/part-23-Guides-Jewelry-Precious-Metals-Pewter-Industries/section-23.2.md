@@ -1,6 +1,6 @@
 ##### § 23.2 Misuse of the terms “handmade,” “hand-polished,” etc.
 
-(a) It is unfair or deceptive to represent, directly or by implication, that any industry product is handmade or hand-wrought unless the entire shaping and forming of such product from raw materials and its finishing and decoration were accomplished by hand labor and manually-controlled methods which permit the maker to control and vary the construction, shape, design, and finish of each part of each individual product.
+(a) It is unfair or deceptive to represent, directly or by implication, that any industry product is handmade or hand-wrought unless the entire shaping and forming of such product from raw materials and its finishing and decoration were accomplished by hand labor and manually-controlled methods which permit the maker to control and vary the construction, shape, design, and finish of each part of each individual product. 
 
 Note to Paragraph (a):
 
