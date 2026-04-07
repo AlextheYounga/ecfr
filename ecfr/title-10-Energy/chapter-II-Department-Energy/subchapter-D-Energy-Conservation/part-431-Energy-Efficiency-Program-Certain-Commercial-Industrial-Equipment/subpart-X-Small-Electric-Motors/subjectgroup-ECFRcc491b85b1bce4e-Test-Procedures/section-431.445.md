@@ -44,4 +44,4 @@
 
 The average full-load efficiency of the sample, X which is defined by
 
-![](/graphics/er04my12.000.gif)where Xi is the measured full-load efficiency of unit i and n is the number of units tested, shall satisfy the condition:![](/graphics/er04my12.001.gif)where RE is the required average full-load efficiency.\[74 FR 32072, July 7, 2009, as amended at 77 FR 26638, May 4, 2012\]
+![](/graphics/er04my12.000.gif)where Xi is the measured full-load efficiency of unit i and n is the number of units tested, shall satisfy the condition: ![](/graphics/er04my12.001.gif)where RE is the required average full-load efficiency.\[74 FR 32072, July 7, 2009, as amended at 77 FR 26638, May 4, 2012\]
