@@ -241,9 +241,6 @@ Link to an amendment published at 89 FR 34159, Apr. 30, 2024.
 (149) 5.149 In making assignments to stations of other services to which the bands listed in table 1 to paragraph (b)(149) of this section are allocated, administrations are urged to take all practicable steps to protect the radio astronomy service from harmful interference. Emissions from spaceborne or airborne stations can be particularly serious sources of interference to the radio astronomy service (see Nos. 4.5 and 4.6 and Article 29).
 
 Table 1 to Paragraph (b)(149) Introductory Text
-
-|                                |                                   |
-| ------------------------------ | --------------------------------- |
 | 13 360-13 410 kHz              | 23.07-23.12 GHz.                  |
 | 25 550-25 670 kHz              | 31.2-31.3 GHz.                    |
 | 37.5-38.25 MHz                 | 31.5-31.8 GHz in Regions 1 and 3. |
@@ -1653,9 +1650,6 @@ Note 3 to § 2.16(b)(346) introductory text: The use by Palestine of the allocat
 (i) New assignments on the frequencies 406.125 MHz and 406.175 MHz are to be primarily for paired operations with the frequencies 415.125 MHz and 415.175 MHz, respectively.
 
 Table 2 to Paragraph (c)(13)(i)
-
-|                      |          |
-| -------------------- | -------- |
 | Hydro channels (MHz) |          |
 | 171.1000             | 406.1250 |
 | 171.1125             | 406.1750 |
@@ -1697,9 +1691,6 @@ To determine the assigned frequency, add 1.4 kHz to the carrier frequency. Other
 (C) D or N: From two hours after local sunrise until two hours before local sunset (*i.e.,* Day only operations) or from two hours prior to local sunset until two hours after local sunrise (*i.e.,* Night only operations).
 
 Table 3 to Paragraph (c)(22)
-
-|                                     |                              |                |                          |                |
-| ----------------------------------- | ---------------------------- | -------------- | ------------------------ | -------------- |
 | Preferred carrier frequencies (kHz) |                              |                |                          |                |
 | Disaster communications             | Long distance communications |                |                          |                |
 | FX, FB, ML                          | FX                           | FX, FB, ML     | FX (including itinerant) |                |
@@ -1861,7 +1852,6 @@ Table 3 to Paragraph (c)(22)
 (83) US83 In the 1432-1435 MHz band, Federal stations in the fixed and mobile services may operate indefinitely on a primary basis at the 22 sites listed in table 4 to this paragraph (c)(83). The first 21 sites are in the United States and the last site is in Guam (GU). All other Federal stations in the fixed and mobile services shall operate in the band 1432-1435 MHz on a primary basis until reaccommodated in accordance with the National Defense Authorization Act of 1999.
 
 Table 4 to Paragraph (c)(83)
-
 | State | Site                                                         | North  | West    | Radius |
 | ----- | ------------------------------------------------------------ | ------ | ------- | ------ |
 | AK    | Fort Greely                                                  | 63°47′ | 145°52′ | 80     |
@@ -1910,7 +1900,6 @@ The coordinates (North latitude and West longitude) are listed under the heading
 (ii) Forty-seven Federal earth stations located within the protection zones listed below operate on a co-equal, primary basis with AWS operations. All other Federal earth stations operate on a secondary basis.
 
 Table 5 to Paragraph (c)(88)(ii)—Protection Zones for Federal Earth Stations Receiving in the Band 1695-1710 MHz
-
 | State | Location             | Latitude  | Longitude  | Radius   (km) |
 | ----- | -------------------- | --------- | ---------- | ------------- |
 | AK    | Barrow               | 71°19′22″ | 156°36′41″ | 35            |
@@ -1928,7 +1917,6 @@ Table 5 to Paragraph (c)(88)(ii)—Protection Zones for Federal Earth Stations R
 | GU    | Andersen AFB         | 13°34′52″ | 144°55′28″ | 42            |
 
 Table 6 to paragraph (c)(88)(ii)—Protection Zones For Federal Earth Stations Receiving in the Band 1675-1695 MHz
-
 | State | Location      | Latitude  | Longitude  | Radius   (km) |
 | ----- | ------------- | --------- | ---------- | ------------- |
 | CA    | Sacramento    | 38°35′50″ | 121°32′34″ | 55            |
@@ -1963,7 +1951,6 @@ The coordinates are specified in the conventional manner (North latitude, West l
 (A) Joint Tactical Radio Systems (JTRS) may operate indefinitely at the locations provided in table 7.
 
 Table 7 to Paragraph (c)(91)(ii)(A)
-
 | State | Training area                       | Latitude  | Longitude  |
 | ----- | ----------------------------------- | --------- | ---------- |
 | AZ    | Yuma Proving Ground                 | 33°12′14″ | 114°13′47″ |
@@ -1976,7 +1963,6 @@ Table 7 to Paragraph (c)(91)(ii)(A)
 (B) Air combat training system (ACTS) stations may operate on two frequencies within two geographic zones that are defined by the coordinates provided in table 8.
 
 Table 8 to Paragraph (c)(91)(ii)(B)
-
 | Geographic Zone | Latitude  | Longitude  |
 | --------------- | --------- | ---------- |
 | Polygon 1       | 41°52′00″ | 117°49′00″ |
@@ -1994,7 +1980,6 @@ ACTS transmitters may cause interference to AWS base stations between separation
 (C) In the sub-band 1761-1780 MHz, Federal earth stations in the space operation service (Earth-to-space) may transmit at the 25 sites identified in table 9 and non-Federal base stations must accept harmful interference caused by the operation of these earth stations.
 
 Table 9 to Paragraph (c)(91)(ii)(C)
-
 | State | Site                     | Latitude  | Longitude  |
 | ----- | ------------------------ | --------- | ---------- |
 | AK    | Fairbanks                | 64°58′20″ | 147°30′59″ |
@@ -2090,7 +2075,6 @@ NASA operates a deep space facility in Goldstone in the band 2290-2300 MHz.
 (111) US111 In the band 5091-5150 MHz, aeronautical mobile telemetry operations for flight testing are conducted at the locations specified in table 10 to this paragraph (c)(111). Flight testing at additional locations may be authorized on a case-by-case basis.
 
 Table 10 to Paragraph (c)(111)
-
 | Location                           | Test sites                                                                                                                                                              | Lat.   (N) | Long.   (W) |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- |
 | Gulf Area Ranges Complex (GARC)    | Eglin AFB, Tyndall AFB, FL; Gulfport ANG Range, MS; Ft. Rucker, Redstone, NASA Marshall Space Flight Center, AL                                                         | 30°28′     | 86°31′      |
@@ -2116,7 +2100,6 @@ Table 10 to Paragraph (c)(111)
 (113) US113 Radio astronomy observations of the formaldehyde line frequencies 4825-4835 MHz and 14.47-14.5 GHz may be made at certain radio astronomy observatories as indicated in table 11 to paragraph (c)(113). Every practicable effort will be made to avoid the assignment of frequencies to stations in the fixed or mobile services in these bands. Should such assignments result in harmful interference to these observations, the situation will be remedied to the extent practicable.
 
 Table 11 to Paragraph (c)(113)—Bands To Be Observed
-
 | 4 GHz | 14 GHz | Observatory                                                                |
 | ----- | ------ | -------------------------------------------------------------------------- |
 | X     |        | National Astronomy and Ionosphere Center (NAIC), Arecibo, PR.              |
@@ -2163,7 +2146,6 @@ Table 11 to Paragraph (c)(113)—Bands To Be Observed
 (131) US131 In the band 10.7-11.7 GHz, non-geostationary satellite orbit licensees in the fixed-satellite service (space-to-Earth), prior to commencing operations, shall coordinate with the radio astronomy observatories listed in table 12 to this paragraph (c)(131) to achieve a mutually acceptable agreement regarding the protection of the radio telescope facilities operating in the band 10.6-10.7 GHz:
 
 Table 12 to Paragraph (c)(131)
-
 | Observatory                               | North latitude | West longitude | Elevation   (in meters) |
 | ----------------------------------------- | -------------- | -------------- | ----------------------- |
 | Arecibo Observatory, PR                   | 18°20′37″      | 66°45′11″      | 497                     |
@@ -2202,7 +2184,6 @@ Table 12 to Paragraph (c)(131)
 (B) *Non-Federal stations.* Non-Federal use of the HF NIB Bands is restricted to stations in the FS, land mobile service (LMS), and maritime mobile service (MMS) that were licensed prior to March 25, 2007, except that, in the sub-band 7.35-7.4 MHz, use is restricted to stations that were licensed prior to March 29, 2009.
 
 Table 13 to Paragraph (c)(136)(ii)—NIB Operations in Eight HFBC Bands (MHz)
-
 | HF NIB band  | Federal   (\*new stations permitted)     | Non-Federal     | HFBC band   |
 | ------------ | ---------------------------------------- | --------------- | ----------- |
 | 5.90-5.95    | \*FS and MS except AM(R)S                | MMS             | 5.90-6.20   |
@@ -2260,7 +2241,6 @@ Non-Federal stations may continue to operate in nine HF NIB Bands as follows: in
 (i) Within 25 km of the National Radio Astronomy Observatory's (NRAO's) Very Long Baseline Array (VLBA) Stations listed in table 14 to this paragraph (c)(161)(i).
 
 Table 14 to Paragraph (c)(161)(i)
-
 | State | VLBA station  | Lat.   (N) | Long.   (W) |
 | ----- | ------------- | ---------- | ----------- |
 | AZ    | Kitt Peak     | 31°57′23″  | 111°36′45″  |
@@ -2277,7 +2257,6 @@ Table 14 to Paragraph (c)(161)(i)
 (ii) Within 150 km of the observatories in table 15 to this paragraph (c)(161)(ii):
 
 Table 15 to Paragraph (c)(161)(ii)
-
 | State | Telescope and site                                               | Lat.   (N) | Long.   (W) |
 | ----- | ---------------------------------------------------------------- | ---------- | ----------- |
 | AZ    | Heinrich Hertz Submillimeter Observatory, Mt. Graham             | 32°42′06″  | 109°53′28″  |
@@ -2386,7 +2365,6 @@ Satisfactory completion of the coordination procedure utilizing the automated me
 (iv) The use of Channels 181-185 is restricted to emergency medical communications.
 
 Table 16 to Paragraph (c)(242)—220 MHz Plan
-
 | Use                   | Base transmit  | Mobile transmit | Channel Nos. |
 | --------------------- | -------------- | --------------- | ------------ |
 | Non-Federal exclusive | 220.00-220.55  | 221.00-221.55   | 001-110      |
@@ -2616,9 +2594,6 @@ For n > 288, X = (1/69) (n + 402) dB.
 (342) US342 In making assignments to stations of other services to which the bands in table 17 to paragraph (c)(342) of this section are allocated (\*indicates radio astronomy use for spectral line observations), all practicable steps must be taken to protect the radio astronomy service from harmful interference. Emissions from spaceborne or airborne stations can be particularly serious sources of interference to the radio astronomy service (*see* ITU *Radio Regulations* at Nos. 4.5 and 4.6 and Article 29).
 
 Table 17 to Paragraph (c)(342)
-
-|                      |                      |
-| -------------------- | -------------------- |
 | 13.36-13.41 MHz      | 42.77-42.87 GHz.\*   |
 | 25.55-25.67 MHz      | 43.07-43.17 GHz.\*   |
 | 37.5-38.25 MHz       | 43.37-43.47 GHz.\*   |
@@ -2651,9 +2626,6 @@ Table 17 to Paragraph (c)(342)
 (346) US346 Except as provided for in table 18 to this paragraph (c)(346) and by US222, Federal use of the band 2025-2110 MHz by the space operation service (Earth-to-space), Earth exploration-satellite service (Earth-to-space), and space research service (Earth-to-space) shall not constrain the deployment of the Television Broadcast Auxiliary Service, the Cable Television Relay Service, or the Local Television Transmission Service. To facilitate compatible operations between non-Federal terrestrial receiving stations at fixed sites and Federal earth station transmitters, coordination is required. To facilitate compatible operations between non-Federal terrestrial transmitting stations and Federal spacecraft receivers, the terrestrial transmitters in the band 2025-2110 MHz shall not be high-density systems (see Recommendations ITU-R SA.1154 and ITU-R F.1247). Military satellite control stations at the following sites shall operate on a co-equal, primary basis with non-Federal operations:
 
 Table 18 to Paragraph (c)(346)
-
-|                                                                                                  |             |              |
-| ------------------------------------------------------------------------------------------------ | ----------- | ------------ |
 | Facility                                                                                         | Coordinates |              |
 | Naval Satellite Control Network, Prospect Harbor, ME                                             | 44°24′16″ N | 068°00′46″ W |
 | New Hampshire Tracking Station, New Boston AFS, NH                                               | 42°56′52″ N | 071°37′36″ W |
@@ -2736,7 +2708,6 @@ Table 18 to Paragraph (c)(346)
 (iv) All other Federal stations in the fixed and mobile services shall operate on a primary basis until reaccommodated in accordance with the Commercial Spectrum Enhancement Act.
 
 Table 19 to Paragraph (c)(378)
-
 | State                                  | Location                              | Coordinates         |
 | -------------------------------------- | ------------------------------------- | ------------------- |
 | 80 km radius of operation centered on: |                                       |                     |
@@ -2775,9 +2746,6 @@ Table 19 to Paragraph (c)(378)
 (ii) In the band 2655-2690 MHz, for radio astronomy observations performed at the locations listed in table 20 to this paragraph (c)(385)(ii), licensees are urged to coordinate their systems through the National Science Foundation, Division of Astronomical Sciences, Electromagnetic Spectrum Management Unit, 2415 Eisenhower Avenue, Alexandria, VA 22314; Email: *esm@nsf.gov.*
 
 Table 20 to Paragraph (c)(385)(ii)
-
-|                                                                 |                                                                                                   |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | Allen Telescope Array, Hat Creek, CA                            | Rectangle between latitudes 40°00′ N and 42°00′ N and between longitudes 120°15′ W and 122°15′ W. |
 | NASA Goldstone Deep Space Communications Complex, Goldstone, CA | 80 kilometers (50 mile) radius centered on 35°20′ N, 116°53′ W.                                   |
 | National Astronomy and Ionosphere Center, Arecibo, PR           | Rectangle between latitudes 17°30′ N and 19°00′ N and between longitudes 65°10′ W and 68°00′ W.   |
@@ -2803,7 +2771,6 @@ Table 20 to Paragraph (c)(385)(ii)
 (389) US389 In the bands 71-76 GHz and 81-86 GHz, stations in the fixed, mobile, and broadcasting services shall not cause harmful interference to, nor claim protection from, Federal stations in the fixed-satellite service at any of the 28 military installations in table 21 to this paragraph (c)(389).
 
 Table 21 to Paragraph (c)(389)
-
 | Military installation                                              | State | Nearby city         |
 | ------------------------------------------------------------------ | ----- | ------------------- |
 | Redstone Arsenal                                                   | AL    | Huntsville.         |
@@ -2864,7 +2831,6 @@ Table 21 to Paragraph (c)(389)
 (iv) Table 22 to this paragraph (c)(431) identifies the coordinates for the location of each CPA and PUA. An area may be represented as either a polygon made up of several corresponding coordinates or a circle represented by a center point and a radius. If a CPA has a corresponding PUA, the PUA coordinates are provided. A location marked with an asterisk (\*) indicates a high-power federal radiolocation facility. If a location includes a Shipboard Electronic Systems Evaluation Facility (SESEF) attached to a homeport, it specifies the associated SESEF.
 
 Table 22 to Paragraph (c)(431)—Department of Defense Cooperative Planning Areas and Periodic Use Areas
-
 | Location name                                                          | State | CPA | PUA | Latitude                                                                                                                                                                                                                                                                                     | Longitude                                                                                                                                                                                                                                                                                   | Radius   (km) |
 | ---------------------------------------------------------------------- | ----- | --- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | Little Rock                                                            | AR    | Yes |     | 37°28′34″, 37°42′55″, 36°38′29″, 34°57′57″, 32°09′36″, 31°51′52″, 32°12′11″, 33°42′22″, 35°17′35″, 36°12′18″                                                                                                                                                                                 | 94°28′24″, 88°54′36″, 87°52′34″, 88°09′26″, 92°06′54″, 93°10′35″, 94°37′07″, 95°49′52″, 96°23′06″, 96°08′46″                                                                                                                                                                                | N/A           |
@@ -2897,7 +2863,6 @@ Table 22 to Paragraph (c)(431)—Department of Defense Cooperative Planning Area
 | Fort Sill                                                              | OK    | Yes | Yes | 35°03′39″, 35°10′31″, 34°42′54″, 34°13′49″, 34°13′46″, 34°38′26″                                                                                                                                                                                                                             | 99°02′38″, 98°05′47″, 97°45′20″, 98°05′49″, 98°56′09″, 99°16′57″                                                                                                                                                                                                                            | N/A           |
 | Tobyhanna Army Depot                                                   | PA    | Yes |     | 41°30′25″, 41°38′51″, 41°31′41″, 41°11′31″, 40°52′07″, 40°44′53″, 40°51′43″, 41°07′40″                                                                                                                                                                                                       | 75°51′60″, 75°26′33″, 75°1′39″, 74°50′07″, 75°1′2″, 75°23′50″, 75°48′52″, 76°00′38″                                                                                                                                                                                                         | N/A           |
 | Dahlgren \*                                                            | VA    | Yes | Yes | 38°23′10″, 38°41′25″, 38°46′14″, 38°49′37″, 38°50′16″, 38°46′30″, 38°49′42″, 38°54′42″, 38°55′37″, 38°56′05″, 38°44′45″, 38°44′22″, 38°35′14″, 38°51′04″, 38°26′52″, 38°22′59″, 37°59′27″, 37°47′08″, 37°54′01″, 38°23′10″                                                                   | 76°23′21″, 76°35′56″, 76°44′44″, 76°54′57″, 76°58′18″, 77°01′57″, 77°04′08″, 77°7′35″, 77°12′04″, 77°23′5″, 77°25′23″, 77°28′48″, 77°36′11″, 78°12′06″, 78°29′02″, 77°42′19″, 77°28′26″, 76°53′47″, 76°06′14″, 76°23′21″                                                                    | N/A           |
-| Newport News \*                                                        | VA    | Yes | Yes | 36°58′24″                                                                                                                                                                                                                                                                                    | 76°26′07″                                                                                                                                                                                                                                                                                   | 93            |
 | Newport News-Norfolk \* (includes Fort Story SESEF range)              | VA    | Yes | Yes | 36°58′24″                                                                                                                                                                                                                                                                                    | 76°26′07″                                                                                                                                                                                                                                                                                   | 93            |
 | Wallops Island \*                                                      | VA    | Yes | Yes | 37°51′25″                                                                                                                                                                                                                                                                                    | 75°27′59″                                                                                                                                                                                                                                                                                   | 76            |
 | Bremerton \*                                                           | WA    | Yes | Yes | 47°28′40″, 47°31′16″, 47°31′13″, 47°34′12″, 47°45′36″, 47°59′07″, 48°12′20″, 47°39′46″, 47°39′12″, 47°45′23″, 47°44′48″, 47°57′40″, 47°31′15″, 47°35′53″, 47°27′33″, 47°27′07″, 47°24′25″, 47°23′07″, 47°28′33″, 46°50′25″, 46°53′09″, 47°28′40″                                             | 122°31′22″, 122°31′26″, 122°32′37″, 122°31′52″, 121°32′28″, 121°34′09″, 121°44′51″, 122°29′60″, 122°34′35″, 122°38′09″, 122°45′18″, 122°59′06″, 123°16′23″, 122°49′28″, 122°55′25″, 122°46′16″, 122°42′48″, 122°39′18″, 122°33′44″, 121°49′24″, 121°44′01″, 122°31′22″                      | N/A           |
@@ -3128,7 +3093,6 @@ The provisions of paragraphs (d)(53)(i) through (iii) of this section shall not 
 (*2*) New York City; Nassau, Suffolk, and Westchester Counties in New York State; and Bergen County, NJ.
 
 Table 23 to Paragraph (d)(66)(i)
-
 | Urbanized area               | Bands   (MHz)             | TV channels |
 | ---------------------------- | ------------------------- | ----------- |
 | Boston, MA                   | 470-476, 482-488          | 14, 16      |
