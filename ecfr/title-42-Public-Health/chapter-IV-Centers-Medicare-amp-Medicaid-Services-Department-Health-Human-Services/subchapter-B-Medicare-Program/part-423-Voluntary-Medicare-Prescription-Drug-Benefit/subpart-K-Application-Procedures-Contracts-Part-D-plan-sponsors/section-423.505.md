@@ -38,6 +38,12 @@
 
 (17) Provide benefits by means of point of service systems to adjudicate in a drug claims in a timely and efficient manner in compliance with CMS standards, except when necessary to provide access in underserved areas, I/T/U pharmacies (as defined in § 423.100), and long-term care pharmacies (as defined in § 423.100).
 
+(18) To agree to have a standard contract with reasonable and relevant terms and conditions of participation whereby any willing pharmacy may access the standard contract and participate as a network pharmacy including all of the following:
+
+(i) Making standard contracts available upon request from interested pharmacies no later than September 15 of each year for contracts effective January 1 of the following year.
+
+(ii) Providing a copy of a standard contract to a requesting pharmacy within 7 business days after receiving such a request from the pharmacy.
+
 (19) Effective contract year 2010, include the prompt payment provisions described in § 423.520.
 
 (20) Effective contract year 2010, provide that pharmacies located in, or having a contract with, a long-term care facility (as defined in § 423.100) must have not less than 30 days, nor more than 90 days, to submit to the Part D sponsor claims for reimbursement under the plan.
@@ -58,7 +64,9 @@
 
 (24) Provide applicable beneficiaries with applicable discounts on applicable drugs in accordance with the requirements in subpart W of part 423.
 
-(25) Maintain administrative and management capabilities sufficient for the organization to organize, implement, and control the financial, , benefit administration, and quality assurance activities related to the delivery of Part D services.
+(25) Maintain administrative and management capabilities sufficient for the organization to organize, implement, and control the financial, communication, benefit administration, and quality assurance activities related to the delivery of Part D services.
+
+(26) Maintain a Part D summary plan rating score of at least 3 stars under the 5-star rating system specified in subpart 186 of this part 423. A Part D summary plan rating is calculated as provided in § 423.186.
 
 (27) Pass an essential operations test prior to the start of the benefit year. This provision only applies to new sponsors that have not previously entered into a Part D contract with CMS and neither it, nor another subsidiary of the applicant's parent organization, is offering Part D benefits during the current year.
 
