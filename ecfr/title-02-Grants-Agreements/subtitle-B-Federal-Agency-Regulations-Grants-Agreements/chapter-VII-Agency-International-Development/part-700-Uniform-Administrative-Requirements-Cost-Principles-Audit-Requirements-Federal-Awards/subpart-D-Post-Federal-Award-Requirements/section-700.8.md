@@ -6,4 +6,4 @@
 
 (1) Except for situations described in paragraph (b)(2) of this section, USAID does not require separate depository accounts for funds provided to a non-Federal entity or establish any eligibility requirements for depositories for funds provided to the non-Federal entity. However, the non-Federal entity must be able to account for receipt, obligation and expenditure of funds.
 
-(2) Advance payments of Federal funds must be deposited and maintained in insured accounts whenever possible.
+(2) Recipients must deposit and maintain advance payments of Federal funds in insured accounts whenever possible.

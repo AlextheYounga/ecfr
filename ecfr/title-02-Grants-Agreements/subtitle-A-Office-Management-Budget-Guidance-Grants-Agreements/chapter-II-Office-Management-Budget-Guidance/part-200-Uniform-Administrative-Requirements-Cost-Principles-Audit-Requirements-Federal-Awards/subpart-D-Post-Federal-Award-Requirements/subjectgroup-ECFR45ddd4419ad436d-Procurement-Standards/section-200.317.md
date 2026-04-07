@@ -1,3 +1,0 @@
-##### § 200.317 Procurements by states.
-
-When procuring property and services under a Federal award, a State must follow the same policies and procedures it uses for procurements from its non-Federal funds. The State will comply with §§ 200.321, 200.322, and 200.323 and ensure that every purchase order or other contract includes any clauses required by § 200.327. All other non-Federal entities, including subrecipients of a State, must follow the procurement standards in §§ 200.318 through 200.327.
