@@ -22,8 +22,6 @@ In addition to the definitions set forth in sec. 3 of the Workforce Innovation a
 
 *Clearance order* means a job order that is processed through the clearance system under the Agricultural Recruitment System (ARS) at part 653, subpart F, of this chapter.
 
-*Clearance order* means a job order that is processed through the clearance system under the Agricultural Recruitment System (ARS).
-
 *Clearance system* means the orderly movement of U.S. job seekers as they are referred through the employment placement process by an ES office. This includes joint action of local ES offices in different labor market areas and/or States.
 
 *Complainant* means the individual, employer, organization, association, or other entity filing a complaint.
