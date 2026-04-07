@@ -42,7 +42,7 @@ In this tariff,
 
 *Containerized cargo* means cargo shipped in a container. Containers are used to transport freight in multiple modes; ship, rail, and truck. There are many configurations: Dry, insulated or thermal, refrigerated or reefer, flat racks and platforms, open top and tank. Usual dimensions: Width 8 feet, height 8 foot 6 inches or 9 foot 6 inches, lengths 20 foot or 40 foot. Less common lengths include, for example, 24, 28, 44, 45, 46, 48, 53, and 56 feet.
 
-*Corporation* means the Saint Lawrence Seaway Development Corporation.
+*Corporation* means the Great Lakes St. Lawrence Seaway Development Corporation.
 
 *Domestic cargo* means cargo, the shipment of which originates at one Canadian point and terminates at another Canadian point, or originates at one United States point and terminates at another United States point or originates at one Canadian or United States point in the Great Lakes Saint Lawrence Seaway System and terminates at another Canadian or United States point in the Great Lakes Saint Lawrence Seaway System but does not include import or export cargo designated at the point of origin for transshipment by water at a point in Canada or in the United States.
 
@@ -118,4 +118,4 @@ In this tariff,
 
 *Volume rebate* means a percentage reduction, as part of an initiative program, offered on applicable cargo tolls for shipments of a specific commodity above and beyond a pre-approved historical maximum volume.
 
-\[66 FR 15329, Mar. 16, 2001, as amended at 71 FR 14807, Mar. 24, 2006; 72 FR 4431, Jan. 31, 2007; 74 FR 10678, Mar. 12, 2009; 78 FR 19106, Mar. 29, 2013; 79 FR 13252, Mar. 10, 2014; 81 FR 14391, Mar. 17, 2016; 84 FR 8985, Mar. 13, 2019\]
+\[66 FR 15329, Mar. 16, 2001, as amended at 71 FR 14807, Mar. 24, 2006; 72 FR 4431, Jan. 31, 2007; 74 FR 10678, Mar. 12, 2009; 78 FR 19106, Mar. 29, 2013; 79 FR 13252, Mar. 10, 2014; 81 FR 14391, Mar. 17, 2016; 84 FR 8985, Mar. 13, 2019; 86 FR 15586, Mar. 24, 2021\]

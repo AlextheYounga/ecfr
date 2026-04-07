@@ -1,6 +1,4 @@
-##### § 401.72 Reporting - explosive and hazardous cargo vessels.
-
-Link to an amendment published at 86 FR 15412, Mar. 23, 2021.
+##### § 401.72 Reporting—explosive and hazardous cargo vessels.
 
 (a) Every explosive vessel or hazardous cargo vessel shall, when reporting information related to cargo as required by § 401.64(a), report the nature and tonnage of its explosive or hazardous cargo where applicable. Every vessel carrying grain which is under fumigation shall declare to the nearest traffic control center the nature of the fumigant, its properties and cargo holds affected.
 
@@ -26,10 +24,10 @@ Link to an amendment published at 86 FR 15412, Mar. 23, 2021.
 
 (f) For tankers, the information required under this section shall be detailed on a plan showing the general layout of the tanks, and a midships cross-section showing the double bottom tanks and ballast side tanks.
 
-(g) If a Material Safety Data Sheet (MSDS) on a hazardous cargo that a vessel is carrying is not available in a Seaway Traffic Control Center, the vessel shall provide information enabling the preparation of an MSDS.
+(g) If a Safety Data Sheet (SDS) on a hazardous cargo that a vessel is carrying is not available in a Seaway Traffic Control Center, the vessel shall provide information enabling the preparation of an SDS.
 
 (h) Every vessel shall submit its load plan to the nearest Seaway Traffic Control Center from which it will be distributed to all other Seaway Traffic Control Centers. Any changes in stowage, including loading and discharging during a transit, the ship shall submit an updated plan before departing from any port between St. Lambert and Long Point.
 
 (i) Failure to comply with the requirements in this section may result in unnecessary delays or transit refusal.
 
-\[45 FR 52379, Aug. 7, 1980, as amended at 61 FR 19551, May 2, 1996; 65 FR 52915, Aug. 31, 2000; 70 FR 12972, Mar. 17, 2005; 72 FR 2620, Jan. 22, 2007; 77 FR 40805, July 11, 2012\]
+\[45 FR 52379, Aug. 7, 1980, as amended at 61 FR 19551, May 2, 1996; 65 FR 52915, Aug. 31, 2000; 70 FR 12972, Mar. 17, 2005; 72 FR 2620, Jan. 22, 2007; 77 FR 40805, July 11, 2012; 86 FR 15412, Mar. 23, 2021\]
