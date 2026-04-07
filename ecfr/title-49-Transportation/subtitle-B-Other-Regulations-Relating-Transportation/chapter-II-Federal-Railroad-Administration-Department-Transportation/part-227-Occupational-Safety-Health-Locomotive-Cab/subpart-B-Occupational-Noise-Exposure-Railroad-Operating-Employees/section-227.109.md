@@ -1,7 +1,5 @@
 ##### § 227.109 Audiometric testing program.
 
-Link to an amendment published at 89 FR 5132, Jan. 26, 2024.
-
 (a) Each railroad shall establish and maintain an audiometric testing program as set forth in this section and include employees who are required to be included in a hearing conservation program pursuant to § 227.107.
 
 (b) *Cost.* The audiometric tests shall be provided at no cost to employees.
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 5132, Jan. 26, 2024.
 
 (ii) Where mobile test vans are used to meet the requirement in paragraph (e)(1)(i), the railroad shall establish a valid baseline audiogram within one year of the new employee's first tour of duty.
 
-(2) *Existing employees.* (i) For all employees without a baseline audiogram as of February 26, 2007, Class 1, passenger, and commuter railroads, and railroads with 400,000 or more annual employee hours shall establish a valid baseline audiogram by February 26, 2009; and railroads with less than 400,000 annual employee hours shall establish a valid baseline audiogram by February 26, 2010.
+(2) *Existing employees.* (i) For all employees without a baseline audiogram as of February 26, 2007, Class I, passenger, and commuter railroads, and railroads with 400,000 or more annual employee hours shall establish a valid baseline audiogram by February 26, 2009; and railroads with less than 400,000 annual employee hours shall establish a valid baseline audiogram by February 26, 2010.
 
 (ii) If an employee has had a baseline audiogram as of February 26, 2007, and it was obtained under conditions that satisfy the requirements found in 29 CFR 1910.95(h), the railroad must use that baseline audiogram.
 
@@ -73,3 +71,5 @@ Link to an amendment published at 89 FR 5132, Jan. 26, 2024.
 (2) Baseline audiograms from audiometric tests conducted after February 26, 2009, shall be revised in accordance with the method specified in appendix C of this part: Audiometric Baseline Revision.
 
 (j) *Standard threshold shift.* In determining whether a standard threshold shift has occurred, allowance may be made for the contribution of aging (presbycusis) to the change in hearing level by correcting the annual audiogram according to the procedure described in appendix F of this part: Calculation and Application of Age Correction to Audiograms.
+
+\[71 FR 63123, Oct. 27, 2006, as amended at 89 FR 5132, Jan. 26, 2024\]

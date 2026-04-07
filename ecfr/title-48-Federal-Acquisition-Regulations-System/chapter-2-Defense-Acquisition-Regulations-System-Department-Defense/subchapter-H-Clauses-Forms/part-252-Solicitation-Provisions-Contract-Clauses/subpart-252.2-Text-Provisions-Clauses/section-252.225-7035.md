@@ -26,14 +26,10 @@ Buy American—Free Trade Agreements—Balance of Payments Program Certificate�
 
 (i) The Offeror certifies that the following supplies are qualifying country (except Australian) end products:
 
-|               |                   |
-| ------------- | ----------------- |
 | Line item No. | Country of origin |
 
 (ii) The Offeror certifies that the following supplies are Free Trade Agreement country end products other than Bahraini end products, Moroccan end products, Panamanian end products or Peruvian end products:
 
-|               |                   |
-| ------------- | ----------------- |
 | Line item No. | Country of origin |
 
 (iii) The following supplies are other foreign end products, including end products manufactured in the United States that do not qualify as domestic end products. For those foreign end products that do not consist wholly or predominantly of iron or steel or a combination of both, the Offeror shall also indicate whether these foreign end products exceed 55 percent domestic content, except those that are COTS items. If the percentage of the domestic content is unknown, select “no”.
@@ -74,8 +70,6 @@ Buy American—Free Trade Agreements—Balance of Payments Program Certificate�
 
 (i) The Offeror certifies that the following supplies are qualifying country end products:
 
-|               |                   |
-| ------------- | ----------------- |
 | Line item No. | Country of origin |
 
 (ii) The following supplies are other foreign end products, including end products manufactured in the United States that do not qualify as domestic end products. For those foreign end products that do not consist wholly or predominantly of iron or steel or a combination of both, the Offeror shall also indicate whether these foreign end products exceed 55 percent domestic content, except those that are COTS items that are mined, produced, or manufactured in the United States. If the percentage of the domestic content is unknown, select “no”.
@@ -116,14 +110,10 @@ Buy American—Free Trade Agreements—Balance of Payments Program Certificate�
 
 (i) The Offeror certifies that the following supplies are qualifying country (except Australian) or SC/CASA state end products:
 
-|               |                   |
-| ------------- | ----------------- |
 | Line item No. | Country of origin |
 
 (ii) The Offeror certifies that the following supplies are Free Trade Agreement country end products other than Bahraini end products, Moroccan end products, Panamanian end products, or Peruvian end products:
 
-|               |                   |
-| ------------- | ----------------- |
 | Line item No. | Country of origin |
 
 (iii) The following supplies are other foreign end products, including end products manufactured in the United States that do not qualify as domestic end products. For those foreign end products that do not consist wholly or predominantly of iron or steel or a combination of both, the Offeror shall also indicate whether these foreign end products exceed 55 percent domestic content, except those that are COTS items. If the percentage of the domestic content is unknown, select “no”.
@@ -164,14 +154,10 @@ Buy American—Free Trade Agreements—Balance of Payments Program Certificate�
 
 (i) The Offeror certifies that the following supplies are qualifying country or SC/CASA state end products:
 
-|               |                   |
-| ------------- | ----------------- |
 | Line item No. | Country of origin |
 
 (ii) The Offeror certifies that the following supplies are Free Trade Agreement country end products other than Bahraini end products, Moroccan end products, Panamanian end products, or Peruvian end products:
 
-|               |                   |
-| ------------- | ----------------- |
 | Line item No. | Country of origin |
 
 (iii) The following supplies are other foreign end products, including end products manufactured in the United States that do not qualify as domestic end products. For those foreign end products that do not consist wholly or predominantly of iron or steel or a combination of both, the Offeror shall also indicate whether these foreign end products exceed 55 percent domestic content, except those that are COTS items. If the percentage of the domestic content is unknown, select “no”.
@@ -188,7 +174,7 @@ Line Item Number: *\[List as necessary\]*(End of provision)
 
 *Alternate IV.* As prescribed in 225.1101(9) and (9)(v), use the following provision, which adds *Korean end product* to paragraph (a); and uses “Free Trade Agreement country end products other than Bahraini end products, Korean end products, Moroccan end products, Panamanian end products, or Peruvian end products” in paragraphs (b)(2) and (c)(2)(ii), rather than “Free Trade Agreement country end products other than Bahraini end products, Moroccan end products, Panamanian end products, or Peruvian end products” in paragraphs (b)(2) and (c)(2)(ii) of the basic provision:
 
- Buy American—Free Trade Agreements—Balance of Payments Program Certificate—Alternate IV (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program Certificate—Alternate IV (Feb 2024)
 
 (a) *Definitions. Bahraini end product, commercially available off-the-shelf (COTS) item,component, domestic end product,Free Trade Agreement country, Free Trade Agreement country end product,foreign end product, Korean end product,Moroccan end product, Panamanian end product,Peruvian end product, qualifying country end product,* and *United States,* as used in this provision, have the meanings given in the Buy American—Free Trade Agreements—Balance of Payments Program—Alternate IV clause of this solicitation.
 
@@ -212,14 +198,10 @@ Line Item Number: *\[List as necessary\]*(End of provision)
 
 (i) The Offeror certifies that the following supplies are qualifying country (except Australian) end products:
 
-|               |                   |
-| ------------- | ----------------- |
 | Line item No. | Country of origin |
 
 (ii) The Offeror certifies that the following supplies are Free Trade Agreement country end products other than Bahraini end products, Korean end products, Moroccan end products, Panamanian end products, or Peruvian end products:
 
-|               |                   |
-| ------------- | ----------------- |
 | Line item No. | Country of origin |
 
 (iii) The following supplies are other foreign end products, including end products manufactured in the United States that do not qualify as domestic end products. For those foreign end products that do not consist wholly or predominantly of iron or steel or a combination of both, the Offeror shall also indicate whether these foreign end products exceed 55 percent domestic content, except those that are COTS items. If the percentage of the domestic content is unknown, select “no”.
@@ -260,14 +242,10 @@ Buy American—Free Trade Agreements—Balance of Payments Program Certificate�
 
 (i) The Offeror certifies that the following supplies are qualifying country (except Australian) or SC/CASA state end products:
 
-|               |                   |
-| ------------- | ----------------- |
 | Line item No. | Country of origin |
 
 (ii) The Offeror certifies that the following supplies are Free Trade Agreement country end products other than Bahraini end products, Korean end products, Moroccan end products, Panamanian end products, or Peruvian end products:
 
-|               |                   |
-| ------------- | ----------------- |
 | Line item No. | Country of origin |
 
 (iii) The following supplies are other foreign end products, including end products manufactured in the United States that do not qualify as domestic end products. For those foreign end products that do not consist wholly or predominantly of iron or steel or a combination of both, the Offeror shall also indicate whether these foreign end products exceed 55 percent domestic content, except those that are COTS items. If the percentage of the domestic content is unknown, select “no”.
