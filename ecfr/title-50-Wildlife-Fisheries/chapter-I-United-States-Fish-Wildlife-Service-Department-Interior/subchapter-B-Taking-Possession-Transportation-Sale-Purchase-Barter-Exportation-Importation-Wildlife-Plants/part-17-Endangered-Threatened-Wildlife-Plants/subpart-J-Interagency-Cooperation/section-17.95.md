@@ -21055,7 +21055,53 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (ii) Map of Unit FK24 follows:
 
-![](/graphics/er26se13.084.gif)Slabside Pearlymussel (*Pleuronaia dolabelloides*)
+![](/graphics/er26se13.084.gif)Suwannee Moccasinshell (Medionidus walkeri)
+
+(1) Critical habitat units are depicted on the maps in this entry for Alachua, Bradford, Columbia, Dixie, Gilchrist, Hamilton, Lafayette, Madison, Suwannee, and Union Counties, Florida; and Brooks and Lowndes Counties, Georgia.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Suwannee moccasinshell consist of the following components:
+
+(i) Geomorphically stable stream channels (channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation).
+
+(ii) Stable substrates of muddy sand or mixtures of sand and gravel, and with little to no accumulation of unconsolidated sediments and low amounts of filamentous algae.
+
+(iii) A natural hydrologic flow regime (magnitude, frequency, duration, and seasonality of discharge over time) necessary to maintain benthic habitats where the species is found, and connectivity of stream channels with the floodplain, allowing the exchange of nutrients and sediment for habitat maintenance, food availability, and spawning habitat for native fishes.
+
+(iv) Water quality conditions needed to sustain healthy Suwannee moccasinshell populations, including low pollutant levels (not less than State criteria), a natural temperature regime, pH (between 6.0 to 8.5), adequate oxygen content (not less than State criteria), hardness, turbidity, and other chemical characteristics necessary for normal behavior, growth, and viability of all life stages.
+
+(v) The presence of fish hosts necessary for recruitment of the Suwannee moccasinshell. The presence of blackbanded darters (*Percina nigrofasciata*) and brown darters (*Etheostoma edwini*) will serve as an indication of fish host presence.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, dams, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on August 2, 2021.
+
+(4) Data layers defining map units were created with U.S. Geological Survey National Hydrography Dataset GIS data. The high-resolution 1:24,000 flowlines were used to calculate river kilometers and miles. ESRIs ArcGIS 10.2.2 software was used to determine longitude and latitude coordinates using decimal degrees. The projection used in mapping all units was Universal Transverse Mercator, NAD 83, Zone 16 North. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates on which each map is based are available at *http://www.regulations.gov* at Docket No. FWS-R4-ES-2019-0059, the Service's internet site (*https://www.fws.gov/panamacity*), and at the field office responsible for this designation. You may obtain field office location by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map of critical habitat units for the Suwannee moccasinshell in Florida and Georgia follows:
+
+![](/graphics/er01jy21.000.gif)
+
+(6) Unit 1: Suwannee River in Alachua, Columbia, Dixie, Gilchrist, Lafayette, Madison, and Suwannee Counties, Florida.
+
+(i) Unit 1 consists of approximately 187 kilometers (km) (116 miles (mi)) of the Suwannee River and lower Santa Fe River in Alachua, Columbia, Dixie, Gilchrist, Lafayette, Madison, and Suwannee Counties, Florida. The unit includes the Suwannee River mainstem from the confluence of Hart Springs in Dixie and Gilchrist Counties, upstream 137 km (85 mi) to the confluence of the Withlacoochee River in Madison and Suwannee Counties; and the Santa Fe River from its confluence with the Suwannee River in Suwannee and Gilchrist Counties, upstream 50 km (31 mi) to the river's rise (the Santa Fe River runs underground for more than 3 miles, emerging at River Rise Preserve State Park) in Alachua County.
+
+(ii) Map of Unit 1, Suwannee River, follows:
+
+![](/graphics/er01jy21.001.gif)
+
+(7) Unit 2: Upper Santa Fe River in Alachua, Bradford, Columbia, and Union, Counties, Florida.
+
+(i) The Upper Santa Fe River Unit consists of approximately 43 km (27 mi) of the Santa Fe River and New River in Alachua, Bradford, Columbia, and Union Counties, Florida. The unit includes the Santa Fe River from the river's sink in Alachua County, upstream 36.5 km (23 mi) to the confluence of Rocky Creek in Bradford and Alachua Counties; and the New River from its confluence with the Santa Fe River, upstream 6.5 km (4 mi) to the confluence of Five Mile Creek in Union and Bradford Counties.
+
+(ii) Map of Unit 2, Upper Santa Fe River, follows:
+
+![](/graphics/er01jy21.002.gif)
+
+(8) Unit 3: Withlacoochee River in Hamilton and Madison Counties, Florida; Brooks and Lowndes Counties, Georgia.
+
+(i) The Withlacoochee River Unit consists of approximately 75.5 km (47 mi) of the Withlacoochee River in Hamilton and Madison Counties, Florida, and Brooks and Lowndes Counties, Georgia. The unit includes the Withlacoochee River from its confluence with the Suwannee River in Madison and Hamilton Counties, FL, upstream 75.5 km (47 mi) to the confluence of Okapilco Creek in Brooks and Lowndes Counties, GA.
+
+(ii) Map of Unit 3, Withlacoochee River, follows:
+
+![](/graphics/er01jy21.003.gif)Slabside Pearlymussel (*Pleuronaia dolabelloides*)
 
 (1) Critical habitat units are depicted on the maps below for Colbert, Jackson, Limestone, Madison, and Marshall Counties, Alabama; Tishomingo County, Mississippi; Bedford, Bledsoe, Claiborne, Cocke, Franklin, Giles, Greene, Hamblen, Hancock, Hickman, Humphreys, Lincoln, Marion, Marshall, Maury, Moore, Perry, Polk, and Sequatchie Counties, Tennessee; and Bland, Lee, Russell, Scott, Smyth, Tazewell, Washington, and Wythe Counties, Virginia.
 

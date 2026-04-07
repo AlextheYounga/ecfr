@@ -1,4 +1,4 @@
-##### § 165.T09-0035 Safety Zone; Blasting Project; Menominee River, Marinette, WI.
+##### § 165.T09-0083 Safety Zone; Blasting Project; Menominee River, Marinette, WI.
 
 (a) *Location.* All navigable waters of the Menominee River within 1,000 feet of the blast area on the southern bank of the river at coordinates 43.0705000°N, 086.2346667°.
 
@@ -12,4 +12,4 @@
 
 (4) Persons and vessel operators desiring to enter or operate within the safety zone during blasting operations, or at speeds that would create a wake, must contact the COTP Lake Michigan or an on-scene representative to obtain permission to do so. The COTP or an on-scene representative may be contacted via VHF Channel 16. Vessel operators given permission to enter or operate in the safety zone must comply with all directions given to them by the COTP Lake Michigan or an on-scene representative.
 
-\[USCG-2021-0083, 86 FR 27522, May 21, 2021\] Effective Date Note:By USCG-2021-0083, 86 FR 27522, May 21, 2021, § 165.T09-0035 was added, effective May 21, 2021 through Nov. 30, 2021.
+\[USCG-2021-0083, 86 FR 27522, May 21, 2021\] Effective Date Note:By USCG-2021-0083, 86 FR 27522, May 21, 2021, § 165.T09-0083 was added, effective May 21, 2021 through Nov. 30, 2021.
