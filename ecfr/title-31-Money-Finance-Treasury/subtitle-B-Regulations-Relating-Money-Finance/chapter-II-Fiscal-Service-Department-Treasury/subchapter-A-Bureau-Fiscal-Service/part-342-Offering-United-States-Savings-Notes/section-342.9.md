@@ -1,8 +1,8 @@
 ##### § 342.9 Fiscal agents.
 
-(a) Federal Reserve Banks and Branches referred to below, as fiscal agents of the United States, are authorized to perform such services as may be requested of them by the Secretary of the Treasury, or his or her delegate, in connection with the issue, redemption and payment of savings notes. 
+(a) Federal Reserve Banks and Branches referred to below, as fiscal agents of the United States, are authorized to perform such services as may be requested of them by the Secretary of the Treasury, or his or her delegate, in connection with the issue, redemption and payment of savings notes.
 
-(b)(1) The following Federal Reserve Offices have been designated to provide savings bond services: 
+(b)(1) The following Federal Reserve Offices have been designated to provide savings bond services:
 
 | Servicing office                                                                 | Reserve districts served                      | Geographic area served                                                                                                                                                                               |
 | -------------------------------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -12,6 +12,6 @@
 | Federal Reserve Bank of Minneapolis, 250 Marquette Avenue, Minneapolis, MN 55480 | Minneapolis, Chicago                          | IA, IL (northern half), IN (northern half), MN, MT, ND, SD, WI.                                                                                                                                      |
 | Federal Reserve Bank of Kansas City, 925 Grand Avenue, Kansas City, MO 64198     | Dallas, San Francisco, Kansas City, St. Louis | AK, AR, AZ, CA, CO, HI, ID, IL (southern half), IN (southern half), KS, KY (western half), LA (northern half), MO, MS (northern half), NE, NM, NV, OK, OR, TN (western half), TX, WA, WY, UT and GU. |
 
-(2) Until March 1, 1996, other Federal Reserve Offices may continue to provide some savings bond services, but such services will be phased out over the period prior to that date. 
+(2) Until March 1, 1996, other Federal Reserve Offices may continue to provide some savings bond services, but such services will be phased out over the period prior to that date.
 
 \[59 FR 10540, Mar. 4, 1994\]

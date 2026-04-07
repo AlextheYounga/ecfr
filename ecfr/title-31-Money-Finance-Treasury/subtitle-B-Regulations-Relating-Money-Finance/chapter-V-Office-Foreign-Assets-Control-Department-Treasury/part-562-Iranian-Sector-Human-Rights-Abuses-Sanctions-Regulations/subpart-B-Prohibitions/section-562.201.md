@@ -1,8 +1,8 @@
 ##### § 562.201 Prohibited transactions.
 
-(a) All transactions prohibited pursuant to Executive Order 13553 are also prohibited pursuant to this part. 
+(a) All transactions prohibited pursuant to Executive Order 13553 are also prohibited pursuant to this part.
 
-(b) All transactions prohibited pursuant to sections 1 and 6 of Executive Order 13871 are also prohibited pursuant to this part. 
+(b) All transactions prohibited pursuant to sections 1 and 6 of Executive Order 13871 are also prohibited pursuant to this part.
 
 Note 1 to paragraph (b):
 

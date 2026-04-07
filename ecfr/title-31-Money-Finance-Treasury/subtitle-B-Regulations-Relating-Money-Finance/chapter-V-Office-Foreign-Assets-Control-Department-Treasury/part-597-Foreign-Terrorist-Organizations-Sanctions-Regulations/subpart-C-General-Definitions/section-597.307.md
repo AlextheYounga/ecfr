@@ -1,6 +1,6 @@
 ##### § 597.307 Financial institution.
 
-The term *financial institution* shall have the definition given that term in 31 U.S.C. 5312(a)(2) as from time to time amended, notwithstanding the definition of that term in 31 CFR part 103. 
+The term *financial institution* shall have the definition given that term in 31 U.S.C. 5312(a)(2) as from time to time amended, notwithstanding the definition of that term in 31 CFR part 103.
 
 Note:
 

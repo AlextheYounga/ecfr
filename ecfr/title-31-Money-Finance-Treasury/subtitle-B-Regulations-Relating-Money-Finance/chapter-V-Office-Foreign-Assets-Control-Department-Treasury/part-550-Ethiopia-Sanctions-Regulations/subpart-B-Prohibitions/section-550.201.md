@@ -1,8 +1,8 @@
 ##### § 550.201 Prohibited transactions.
 
-(a) All transactions prohibited pursuant to Executive Order (E.O.) 14046 of September 17, 2021 are prohibited pursuant to this part. 
+(a) All transactions prohibited pursuant to Executive Order (E.O.) 14046 of September 17, 2021 are prohibited pursuant to this part.
 
-(b) All transactions prohibited pursuant to any further Executive orders issued pursuant to the national emergency declared in E.O. 14046 are prohibited pursuant to this part. 
+(b) All transactions prohibited pursuant to any further Executive orders issued pursuant to the national emergency declared in E.O. 14046 are prohibited pursuant to this part.
 
 Note 1 to § 550.201.
 
@@ -18,7 +18,7 @@ In certain cases, OFAC may issue an order to: identify as blocked specific prope
 
 Note 4 to § 550.201.
 
-The names of persons on whom non-blocking sanctions implemented by the Department of the Treasury are imposed pursuant to this section are incorporated into a data file containing OFAC's Consolidated Non-SDN data and are provided in a human readable format on OFAC's Non-SDN Menu-Based Sanctions List (NS-MBS List) on the following page on OFAC's website: *www.treasury.gov/consolidated-sanctions-list-non-sdn-lists.* These listings are published in the Federal Register and include specific information on the non-blocking sanctions imposed on such persons. However, for any persons on whom blocking and non-blocking sanctions are imposed pursuant to this section, such persons' names are instead incorporated into OFAC's SDN List using the identifier “\[ETHIOPIA-E.O.\[E.O. number pursuant to which the person's property and interests in property are blocked\]\].” 
+The names of persons on whom non-blocking sanctions implemented by the Department of the Treasury are imposed pursuant to this section are incorporated into a data file containing OFAC's Consolidated Non-SDN data and are provided in a human readable format on OFAC's Non-SDN Menu-Based Sanctions List (NS-MBS List) on the following page on OFAC's website: *www.treasury.gov/consolidated-sanctions-list-non-sdn-lists.* These listings are published in the Federal Register and include specific information on the non-blocking sanctions imposed on such persons. However, for any persons on whom blocking and non-blocking sanctions are imposed pursuant to this section, such persons' names are instead incorporated into OFAC's SDN List using the identifier “\[ETHIOPIA-E.O.\[E.O. number pursuant to which the person's property and interests in property are blocked\]\].”
 
 Note 5 to § 550.201:
 

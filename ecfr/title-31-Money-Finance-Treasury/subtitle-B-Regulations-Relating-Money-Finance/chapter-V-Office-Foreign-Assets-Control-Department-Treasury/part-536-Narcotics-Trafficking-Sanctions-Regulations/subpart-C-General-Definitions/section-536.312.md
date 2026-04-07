@@ -1,18 +1,18 @@
 ##### § 536.312 Specially designated narcotics trafficker.
 
-The term *specially designated narcotics trafficker* means: 
+The term *specially designated narcotics trafficker* means:
 
-(a) Persons listed in the Annex to Executive Order 12978 of October 24, 1995, as amended; 
+(a) Persons listed in the Annex to Executive Order 12978 of October 24, 1995, as amended;
 
-(b) Foreign persons designated by the Secretary of the Treasury, in consultation with the Attorney General, Secretary of Homeland Security, and the Secretary of State, because they are found: 
+(b) Foreign persons designated by the Secretary of the Treasury, in consultation with the Attorney General, Secretary of Homeland Security, and the Secretary of State, because they are found:
 
-(1) To play a significant role in international narcotics trafficking centered in Colombia; or 
+(1) To play a significant role in international narcotics trafficking centered in Colombia; or
 
-(2) Materially to assist in, or provide financial or technological support for or goods or services in support of, the narcotics trafficking activities of specially designated narcotics traffickers; 
+(2) Materially to assist in, or provide financial or technological support for or goods or services in support of, the narcotics trafficking activities of specially designated narcotics traffickers;
 
-(c) Persons determined by the Secretary of the Treasury, in consultation with the Attorney General, Secretary of Homeland Security, and the Secretary of State, to be owned or controlled by, or to act for or on behalf of, any other specially designated narcotics trafficker; and 
+(c) Persons determined by the Secretary of the Treasury, in consultation with the Attorney General, Secretary of Homeland Security, and the Secretary of State, to be owned or controlled by, or to act for or on behalf of, any other specially designated narcotics trafficker; and
 
-(d) Entities owned in the aggregate, directly or indirectly, 50 percent or more by one or more specially designated narcotics traffickers. 
+(d) Entities owned in the aggregate, directly or indirectly, 50 percent or more by one or more specially designated narcotics traffickers.
 
 Note 1 to § 536.312:
 

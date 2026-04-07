@@ -1,12 +1,12 @@
 ##### § 536.406 Provision of services.
 
-(a) The prohibitions on transactions contained in § 536.201 apply to services performed in the United States or by U.S. persons, wherever located, including by a foreign branch of an entity located in the United States: 
+(a) The prohibitions on transactions contained in § 536.201 apply to services performed in the United States or by U.S. persons, wherever located, including by a foreign branch of an entity located in the United States:
 
-(1) On behalf of or for the benefit of a specially designated narcotics trafficker; or 
+(1) On behalf of or for the benefit of a specially designated narcotics trafficker; or
 
-(2) With respect to property interests of a specially designated narcotics trafficker. 
+(2) With respect to property interests of a specially designated narcotics trafficker.
 
-(b) For example, U.S. persons may not, except as authorized by or pursuant to this part, provide legal, accounting, financial, brokering, freight forwarding, transportation, public relations, or other services to a specially designated narcotics trafficker. 
+(b) For example, U.S. persons may not, except as authorized by or pursuant to this part, provide legal, accounting, financial, brokering, freight forwarding, transportation, public relations, or other services to a specially designated narcotics trafficker.
 
 Note 1 to § 536.406:
 

@@ -1,6 +1,6 @@
 ##### § 598.202 Prohibited transactions.
 
-(a) All property and interests in property that are in the United States, that come within the United States, or that are or come within the possession or control of any U.S. person, of a specially designated narcotics trafficker are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in. 
+(a) All property and interests in property that are in the United States, that come within the United States, or that are or come within the possession or control of any U.S. person, of a specially designated narcotics trafficker are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in.
 
 Note 1 to paragraph (a):
 
@@ -10,14 +10,14 @@ Note 2 to paragraph (a):
 
 Subpart E of part 501 of this chapter describes the procedures to be followed for the release of property and interests in property blocked pursuant to this section, including funds blocked due to mistaken identity or typographical or similar errors, and for administrative reconsideration of one's status as a person whose property and interests in property are blocked pursuant to this paragraph (a).
 
-(b) The prohibitions in paragraph (a) of this section include prohibitions on the following transactions: 
+(b) The prohibitions in paragraph (a) of this section include prohibitions on the following transactions:
 
-(1) The making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to paragraph (a) of this section; and 
+(1) The making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to paragraph (a) of this section; and
 
-(2) The receipt of any contribution or provision of funds, goods, or services from any person whose property and interests in property are blocked pursuant to paragraph (a) of this section. 
+(2) The receipt of any contribution or provision of funds, goods, or services from any person whose property and interests in property are blocked pursuant to paragraph (a) of this section.
 
-(c) Unless authorized by this part or by a specific license expressly referring to this part, any dealing in securities (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of, or known to be held for the benefit of, or issued by, a specially designated narcotics trafficker is prohibited. This prohibition includes the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on, any securities on or after the effective date. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such securities may have or might appear to have assigned, transferred, or otherwise disposed of the securities. 
+(c) Unless authorized by this part or by a specific license expressly referring to this part, any dealing in securities (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of, or known to be held for the benefit of, or issued by, a specially designated narcotics trafficker is prohibited. This prohibition includes the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on, any securities on or after the effective date. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such securities may have or might appear to have assigned, transferred, or otherwise disposed of the securities.
 
-(d) The prohibitions in paragraph (a) of this section apply except to the extent provided by regulations, orders, directives, or licenses that may be issued pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to the effective date. 
+(d) The prohibitions in paragraph (a) of this section apply except to the extent provided by regulations, orders, directives, or licenses that may be issued pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to the effective date.
 
 \[86 FR 26667, May 17, 2021, as amended at 89 FR 75968, Sept. 17, 2024\]

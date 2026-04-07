@@ -1,6 +1,6 @@
 ##### § 363.43 What are the procedures for certifying my signature on an offline application for a TreasuryDirect ® account, or on an offline transaction form?
 
-(a) *Certification within the United States.* For certifications within the United States, the certifying individual must be authorized to bind his or her institution by his or her acts, to guarantee signatures to assignments of securities, or to certify assignments of securities. The following table provides a list of authorized certifying individuals and the required evidence of authority. Members of Treasury-recognized signature guarantee programs are for security transfers only. 
+(a) *Certification within the United States.* For certifications within the United States, the certifying individual must be authorized to bind his or her institution by his or her acts, to guarantee signatures to assignments of securities, or to certify assignments of securities. The following table provides a list of authorized certifying individuals and the required evidence of authority. Members of Treasury-recognized signature guarantee programs are for security transfers only.
 
 | Who can certify signatures in the U.S.                                                                                                                                                                          | Evidence of certifying individual's authority                                                                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -11,7 +11,7 @@
 | (5) A judge or clerk of the court                                                                                                                                                                               | We require the seal of the court.                                                                                                                                                                                                                                     |
 | (6) Other persons as designated by the Commissioner or Deputy Commissioner of Fiscal Service                                                                                                                    | Evidence is determined by our procedures.                                                                                                                                                                                                                             |
 
-(b) *Certification within foreign countries.* The following table lists the authorized certifying individuals for foreign countries and the required evidence of the individual's authority. 
+(b) *Certification within foreign countries.* The following table lists the authorized certifying individuals for foreign countries and the required evidence of the individual's authority.
 
 | Who can certify signatures in foreign countries                                                                                                                                                   | Evidence of certifying individual's authority                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -19,28 +19,28 @@
 | (2) Managers and officers of foreign branches of U.S. depository institutions and institutions that are members of Treasury-recognized signature guarantee programs (for security transfers only) | We require the seal of the depository institution, or the imprint of the signature guarantee stamp, i.e., the STAMP, SEMP, or MSP stamp for members of the Securities Transfer Agents Medallion Program, the Stock Exchanges Medallion Program, or the New York Stock Exchange Incorporated Medallion Signature Program. |
 | (3) Notaries Public and other officers authorized to administer oaths, provided their authority is certified by a United States diplomatic or consular official                                   | (i) We require the official seal or stamp of the office.   (ii) If there is no seal or stamp, the position must be certified by some other authorized individual, under seal or stamp, or otherwise proved to our satisfaction.                                                                                          |
 
-(c) *Duties and liabilities of certifying individuals.* (1) The certifying individual must first establish the identity of the signer. 
+(c) *Duties and liabilities of certifying individuals.* (1) The certifying individual must first establish the identity of the signer.
 
-(2) The form must be signed in the presence of the certifying individual. 
+(2) The form must be signed in the presence of the certifying individual.
 
-(3) If the certifying individual is not an officer, the certifying individual must insert the words “Authorized Signature” in the space provided for the title. 
+(3) If the certifying individual is not an officer, the certifying individual must insert the words “Authorized Signature” in the space provided for the title.
 
-(4) If the certifying individual is negligent in making the certification, the certifying individual and his or her organization are jointly and severally liable for any loss the United States may incur as a result of the negligence. 
+(4) If the certifying individual is negligent in making the certification, the certifying individual and his or her organization are jointly and severally liable for any loss the United States may incur as a result of the negligence.
 
-(d) *Guaranteed signatures.* (1) A security or other form requiring certification need not be executed in the presence of a certifying individual if the signature is unconditionally guaranteed by the certifying individual. To guarantee a signature, the certifying individual must add a dated endorsement after the signature. For example: 
+(d) *Guaranteed signatures.* (1) A security or other form requiring certification need not be executed in the presence of a certifying individual if the signature is unconditionally guaranteed by the certifying individual. To guarantee a signature, the certifying individual must add a dated endorsement after the signature. For example:
 
 Signature guaranteed, First National Bank of Smithville, Smithville, NH, by A. B. Doe, President, dated 1/1/2001.
 
-(2) The certifying individual and his or her organization unconditionally guarantee to us that the signature is genuine and the signer had the legal capacity to execute the assignment or related form. 
+(2) The certifying individual and his or her organization unconditionally guarantee to us that the signature is genuine and the signer had the legal capacity to execute the assignment or related form.
 
-(e) *Guaranteed absence of a signature.* (1) A form requiring a certified signature need not be signed when a certifying individual associated with a depository financial institution places the following endorsement on the security or the form: 
+(e) *Guaranteed absence of a signature.* (1) A form requiring a certified signature need not be signed when a certifying individual associated with a depository financial institution places the following endorsement on the security or the form:
 
 Absence of signature by owner and validity of transaction guaranteed, Second State Bank of Jonesville, Jonesville, NC, by B. R. Butler, Vice President, dated 11/1/2001.
 
-(2) The endorsement must be dated and the seal of the institution must be added. 
+(2) The endorsement must be dated and the seal of the institution must be added.
 
-(3) This form of endorsement is an unconditional guarantee to us that the institution is acting for the signer under proper authorization. 
+(3) This form of endorsement is an unconditional guarantee to us that the institution is acting for the signer under proper authorization.
 
-(f) *Persons who cannot act as certifying individuals.* Any person having an interest in a security involved in the transaction cannot act as a certifying individual. However, an authorized officer or employee of a depository financial institution that is a member of a Treasury-recognized signature guarantee program can act as a certifying individual for transfer of a security to the institution or on behalf of the institution. 
+(f) *Persons who cannot act as certifying individuals.* Any person having an interest in a security involved in the transaction cannot act as a certifying individual. However, an authorized officer or employee of a depository financial institution that is a member of a Treasury-recognized signature guarantee program can act as a certifying individual for transfer of a security to the institution or on behalf of the institution.
 
 \[67 FR 64286, Oct. 17, 2002, as amended at 70 FR 57435, Sept. 30, 2005\]

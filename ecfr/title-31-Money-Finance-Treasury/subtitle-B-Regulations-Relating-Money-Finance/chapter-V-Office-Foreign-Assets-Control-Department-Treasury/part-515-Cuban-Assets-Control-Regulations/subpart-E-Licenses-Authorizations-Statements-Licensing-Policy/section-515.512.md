@@ -1,46 +1,46 @@
 ##### § 515.512 Provision of certain legal services authorized.
 
-(a) The provision of the following legal services to or on behalf of Cuba or a Cuban national is authorized, provided that receipt of payment of professional fees and reimbursement of incurred expenses must be authorized by or pursuant to paragraph (d) or (e) of this section, or otherwise authorized pursuant to this part: 
+(a) The provision of the following legal services to or on behalf of Cuba or a Cuban national is authorized, provided that receipt of payment of professional fees and reimbursement of incurred expenses must be authorized by or pursuant to paragraph (d) or (e) of this section, or otherwise authorized pursuant to this part:
 
-(1) Provision of legal advice and counseling on the requirements of and compliance with the laws of the United States or any jurisdiction within the United States, provided that such advice and counseling are not provided to facilitate transactions in violation of this part; 
+(1) Provision of legal advice and counseling on the requirements of and compliance with the laws of the United States or any jurisdiction within the United States, provided that such advice and counseling are not provided to facilitate transactions in violation of this part;
 
-(2) Representation of persons named as defendants in or otherwise made parties to legal, arbitration, or administrative proceedings before any U.S. federal, state, or local court or agency; 
+(2) Representation of persons named as defendants in or otherwise made parties to legal, arbitration, or administrative proceedings before any U.S. federal, state, or local court or agency;
 
-(3) Initiation and conduct of legal, arbitration, or administrative proceedings before any U.S. federal, state, or local court or agency; 
+(3) Initiation and conduct of legal, arbitration, or administrative proceedings before any U.S. federal, state, or local court or agency;
 
-(4) Representation of persons before any U.S. federal, state, or local court or agency with respect to the imposition, administration, or enforcement of U.S. sanctions against such persons; and 
+(4) Representation of persons before any U.S. federal, state, or local court or agency with respect to the imposition, administration, or enforcement of U.S. sanctions against such persons; and
 
-(5) Provision of legal services in any other context in which prevailing U.S. law requires access to legal counsel at public expense. 
+(5) Provision of legal services in any other context in which prevailing U.S. law requires access to legal counsel at public expense.
 
-(b) The provision of any other legal services to Cuba or a Cuban national, not otherwise authorized in this part, requires the issuance of a specific license. 
+(b) The provision of any other legal services to Cuba or a Cuban national, not otherwise authorized in this part, requires the issuance of a specific license.
 
-(c) Entry into a settlement agreement or the enforcement of any lien, judgment, arbitral award, decree, or other order through execution, garnishment, or other judicial process purporting to transfer or otherwise alter or affect property in which Cuba or a Cuban national has had an interest at any time on or since 12:01 a.m., Eastern Standard Time, July 8, 1963, is prohibited unless licensed pursuant to this part. 
+(c) Entry into a settlement agreement or the enforcement of any lien, judgment, arbitral award, decree, or other order through execution, garnishment, or other judicial process purporting to transfer or otherwise alter or affect property in which Cuba or a Cuban national has had an interest at any time on or since 12:01 a.m., Eastern Standard Time, July 8, 1963, is prohibited unless licensed pursuant to this part.
 
-(d) *Receipts of payment*—(1) *Legal services to or on behalf of certain blocked persons.* All receipts of payment of professional fees and reimbursement of incurred expenses for the provision of legal services authorized pursuant to paragraph (a) of this section to or on behalf of a prohibited official of the Government of Cuba, as defined in § 515.337, or a prohibited member of the Cuban Communist Party, as defined in § 515.338, must be specifically licensed or otherwise authorized pursuant to § 515.512(e), which authorizes certain payments from funds originating outside the United States. 
+(d) *Receipts of payment*—(1) *Legal services to or on behalf of certain blocked persons.* All receipts of payment of professional fees and reimbursement of incurred expenses for the provision of legal services authorized pursuant to paragraph (a) of this section to or on behalf of a prohibited official of the Government of Cuba, as defined in § 515.337, or a prohibited member of the Cuban Communist Party, as defined in § 515.338, must be specifically licensed or otherwise authorized pursuant to § 515.512(e), which authorizes certain payments from funds originating outside the United States.
 
-(2) *Legal services to or on behalf of all others.* All receipts of payment of professional fees and reimbursement of incurred expenses for the provision of legal services authorized pursuant to paragraph (a) of this section to or on behalf of Cuba or a Cuban national, other than those described in paragraph (d)(1) of this section, are authorized, except that nothing in this section authorizes the debiting of any blocked account or the transfer of any blocked property. 
+(2) *Legal services to or on behalf of all others.* All receipts of payment of professional fees and reimbursement of incurred expenses for the provision of legal services authorized pursuant to paragraph (a) of this section to or on behalf of Cuba or a Cuban national, other than those described in paragraph (d)(1) of this section, are authorized, except that nothing in this section authorizes the debiting of any blocked account or the transfer of any blocked property.
 
-(e) *Payments for legal services from funds originating outside the United States authorized.* Receipts of payment of professional fees and reimbursement of incurred expenses for the provision of legal services authorized pursuant to § 515.512(a) to or on behalf of a prohibited official of the Government of Cuba, as defined in § 515.337, or a prohibited member of the Cuban Communist Party, as defined in § 515.338, are authorized from funds originating outside the United States, provided that: 
+(e) *Payments for legal services from funds originating outside the United States authorized.* Receipts of payment of professional fees and reimbursement of incurred expenses for the provision of legal services authorized pursuant to § 515.512(a) to or on behalf of a prohibited official of the Government of Cuba, as defined in § 515.337, or a prohibited member of the Cuban Communist Party, as defined in § 515.338, are authorized from funds originating outside the United States, provided that:
 
-(1) The funds received by persons subject to U.S. jurisdiction as payment of professional fees and reimbursement of incurred expenses for the provision of legal services authorized pursuant to paragraph (a) of this section do not originate from: 
+(1) The funds received by persons subject to U.S. jurisdiction as payment of professional fees and reimbursement of incurred expenses for the provision of legal services authorized pursuant to paragraph (a) of this section do not originate from:
 
-(i) A source within the United States; 
+(i) A source within the United States;
 
-(ii) Any source, wherever located, within the possession or control of a person subject to U.S. jurisdiction; or 
+(ii) Any source, wherever located, within the possession or control of a person subject to U.S. jurisdiction; or
 
-(iii) Any person, other than the person on whose behalf the legal services authorized pursuant to paragraph (a) of this section are to be provided, whose property and interests in property are blocked pursuant to any part of this chapter other than part 515. 
+(iii) Any person, other than the person on whose behalf the legal services authorized pursuant to paragraph (a) of this section are to be provided, whose property and interests in property are blocked pursuant to any part of this chapter other than part 515.
 
-(2) *Records.* Consistent with §§ 501.601 and 501.602 of this chapter, persons subject to U.S. jurisdiction who receive payments in connection with legal services authorized pursuant to paragraph (a) of this section must retain for ten years from the date of the relevant payment, and furnish to OFAC on demand, a record that specifies the following for each payment: 
+(2) *Records.* Consistent with §§ 501.601 and 501.602 of this chapter, persons subject to U.S. jurisdiction who receive payments in connection with legal services authorized pursuant to paragraph (a) of this section must retain for ten years from the date of the relevant payment, and furnish to OFAC on demand, a record that specifies the following for each payment:
 
-(i) The individual or entity from whom the funds originated and the amount of funds received; and 
+(i) The individual or entity from whom the funds originated and the amount of funds received; and
 
-(ii) If applicable: 
+(ii) If applicable:
 
-(A) The names of any persons subject to U.S. jurisdiction receiving payment in connection with authorized legal services to or on behalf of Cuba or a Cuban national, such as private investigators or expert witnesses; 
+(A) The names of any persons subject to U.S. jurisdiction receiving payment in connection with authorized legal services to or on behalf of Cuba or a Cuban national, such as private investigators or expert witnesses;
 
-(B) A general description of the services provided; and 
+(B) A general description of the services provided; and
 
-(C) The amount of funds paid in connection with such services. 
+(C) The amount of funds paid in connection with such services.
 
 Note 1 to § 515.512:
 

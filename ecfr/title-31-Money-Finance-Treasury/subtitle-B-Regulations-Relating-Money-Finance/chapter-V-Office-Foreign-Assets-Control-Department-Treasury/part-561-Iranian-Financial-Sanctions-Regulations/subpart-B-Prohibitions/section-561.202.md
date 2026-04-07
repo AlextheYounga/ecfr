@@ -1,6 +1,6 @@
 ##### § 561.202 Prohibitions on persons owned or controlled by U.S. financial institutions.
 
-Except as otherwise authorized pursuant to this part, any person that is owned or controlled by a U.S. financial institution is prohibited from knowingly engaging in any transaction with or benefitting Iran's Islamic Revolutionary Guard Corps or any of its agents or affiliates whose property and interests in property are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 *et seq.*) (“IEEPA”). 
+Except as otherwise authorized pursuant to this part, any person that is owned or controlled by a U.S. financial institution is prohibited from knowingly engaging in any transaction with or benefitting Iran's Islamic Revolutionary Guard Corps or any of its agents or affiliates whose property and interests in property are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 *et seq.*) (“IEEPA”).
 
 Note 1 to § 561.202:
 

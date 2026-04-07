@@ -1,6 +1,6 @@
 ##### § 560.322 Blocked account; blocked property.
 
-The terms *blocked account* and *blocked property* shall mean any account or property subject to the prohibitions in § 560.211 held in the name of the Government of Iran, any Iranian financial institution, or any other person whose property and interests in property are blocked pursuant to § 560.211, or in which the Government of Iran, an Iranian financial institution, or such person has an interest, and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to an authorization or license from the Office of Foreign Assets Control expressly authorizing such action. 
+The terms *blocked account* and *blocked property* shall mean any account or property subject to the prohibitions in § 560.211 held in the name of the Government of Iran, any Iranian financial institution, or any other person whose property and interests in property are blocked pursuant to § 560.211, or in which the Government of Iran, an Iranian financial institution, or such person has an interest, and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to an authorization or license from the Office of Foreign Assets Control expressly authorizing such action.
 
 Note to 1 § 560.322:
 

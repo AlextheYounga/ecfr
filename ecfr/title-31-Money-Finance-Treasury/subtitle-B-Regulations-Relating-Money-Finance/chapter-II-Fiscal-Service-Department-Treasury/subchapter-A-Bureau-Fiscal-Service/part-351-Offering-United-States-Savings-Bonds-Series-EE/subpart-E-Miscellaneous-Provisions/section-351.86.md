@@ -1,8 +1,8 @@
 ##### § 351.86 What is the role of Federal Reserve Banks and Branches?
 
-(a) Federal Reserve Banks and Branches are fiscal agents of the United States. They are authorized to perform such services as we may request of them, in connection with the issue, servicing and redemption of Series EE bonds. 
+(a) Federal Reserve Banks and Branches are fiscal agents of the United States. They are authorized to perform such services as we may request of them, in connection with the issue, servicing and redemption of Series EE bonds.
 
-(b) We have currently designated the following Federal Reserve Offices to provide savings bond services: 
+(b) We have currently designated the following Federal Reserve Offices to provide savings bond services:
 
 | Servicing site                                                                  | Reserve district served                       | Geographic area served                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
