@@ -8,7 +8,7 @@
 
 (2) No. 061133 for use as in paragraph (c)(1)(ii), (2), and (3) of this section.
 
-(c) *Conditions of use* - (1) *Amount* - (i) Horses, 40 to 60 mg per 100 pounds (lbs) body weight; foals, 20 mg/100 lbs body weight. Administer by intramuscular, subcutaneous, or intravenous injection. Dosage may be repeated every 6 to 12 hours whenever necessary.
+(c) *Conditions of use*—(1) *Amount.* (i) Horses, 40 to 60 mg per 100 pounds (lbs) body weight; foals, 20 mg/100 lbs body weight. Administer by intramuscular, subcutaneous, or intravenous injection. Dosage may be repeated every 6 to 12 hours whenever necessary.
 
 (ii) Horses, 40 to 60 mg/100 lbs body weight; foals, 20 mg/100 lbs body weight. Administer by slow intravenous injection. Dosage may be repeated every 6 to 12 hours if necessary.
 

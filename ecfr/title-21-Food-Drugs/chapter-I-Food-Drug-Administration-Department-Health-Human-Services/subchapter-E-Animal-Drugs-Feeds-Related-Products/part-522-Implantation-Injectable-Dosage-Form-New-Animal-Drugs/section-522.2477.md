@@ -1,5 +1,7 @@
 ##### § 522.2477 Trenbolone acetate and estradiol.
 
+Link to an amendment published at 84 FR 32992, July 11, 2019.
+
 (a) \[Reserved\]
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for uses as in paragraph (d) of this section.

@@ -4,7 +4,7 @@
 
 (b) *Sponsor.* See No. 050378 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use in finfish* - (1) *Amount* - (i) Freshwater-reared finfish eggs: 500 to 1,000 mg per liter (/L) of culture water for 15 minutes in a continuous flow system once per day on consecutive or alternate days until hatch for all coldwater and coolwater species of freshwater-reared finfish eggs or 750 to 1,000 mg/L for 15 minutes in a continuous flow system once per day on consecutive or alternate days until hatch for all warmwater species of freshwater-reared finfish eggs.
+(c) *Conditions of use in finfish* - (1) *Amount.* (i) Freshwater-reared finfish eggs: 500 to 1,000 mg per liter (/L) of culture water for 15 minutes in a continuous flow system once per day on consecutive or alternate days until hatch for all coldwater and coolwater species of freshwater-reared finfish eggs or 750 to 1,000 mg/L for 15 minutes in a continuous flow system once per day on consecutive or alternate days until hatch for all warmwater species of freshwater-reared finfish eggs.
 
 (ii) Freshwater-reared salmonids: 100 mg/L for 30 minutes or 50 to 100 mg/L for 60 minutes once per day on alternate days for three treatments in a continuous flow water supply or as a static bath.
 

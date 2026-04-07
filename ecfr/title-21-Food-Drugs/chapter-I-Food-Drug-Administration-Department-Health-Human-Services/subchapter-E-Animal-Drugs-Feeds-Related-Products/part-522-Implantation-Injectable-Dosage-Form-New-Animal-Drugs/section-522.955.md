@@ -18,7 +18,7 @@
 
 (c) *Related tolerances.* See §§ 500.1410 and 556.283 of this chapter.
 
-(d) *Conditions of use* - (1) *Beef and non-lactating dairy cattle* - (i) 300 mg per milliliter (mL) florfenicol in the inactive vehicles 2-pyrrolidone and triacetin:
+(d) *Conditions of use* - (1) *Beef and non-lactating dairy cattle.* (i) 300 mg per milliliter (mL) florfenicol in the inactive vehicles 2-pyrrolidone and triacetin:
 
 (A) *Amount.* 40 mg/kilogram (kg) body weight as a single subcutaneous injection.
 

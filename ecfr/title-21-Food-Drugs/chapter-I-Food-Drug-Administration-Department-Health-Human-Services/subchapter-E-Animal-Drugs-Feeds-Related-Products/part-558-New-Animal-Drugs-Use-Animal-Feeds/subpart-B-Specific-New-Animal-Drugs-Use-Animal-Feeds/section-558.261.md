@@ -10,7 +10,7 @@
 
 (c) *Related tolerances.* See § 556.283 of this chapter.
 
-(d) *Special considerations* - (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements.
+(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements.
 
 (2) The expiration date of VFDs for florfenicol medicated feeds:
 

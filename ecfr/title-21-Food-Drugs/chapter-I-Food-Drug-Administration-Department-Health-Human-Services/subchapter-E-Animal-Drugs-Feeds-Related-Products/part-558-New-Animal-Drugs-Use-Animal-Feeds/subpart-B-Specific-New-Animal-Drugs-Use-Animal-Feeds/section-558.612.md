@@ -6,7 +6,7 @@
 
 (c) *Related tolerances.* See § 556.732 of this chapter.
 
-(d) *Special considerations* - (1) Swine being treated with tiamulin should not have access to feeds containing polyether ionophores (e.g., lasalocid, monensin, narasin, salinomycin, or semduramycin) as adverse reactions may occur. If signs of toxicity occur, discontinue use.
+(d) *Special considerations.* (1) Swine being treated with tiamulin should not have access to feeds containing polyether ionophores (e.g., lasalocid, monensin, narasin, salinomycin, or semduramycin) as adverse reactions may occur. If signs of toxicity occur, discontinue use.
 
 (2) The effects of tiamulin on swine reproductive performance, pregnancy, and lactation have not been determined.
 

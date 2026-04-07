@@ -10,7 +10,7 @@
 
 (c) *Related tolerances.* See § 556.560 of this chapter.
 
-(d) *Special considerations* - (1) See § 500.25 of this chapter. Consult a veterinarian before using in severely debilitated animals.
+(d) *Special considerations.* (1) See § 500.25 of this chapter. Consult a veterinarian before using in severely debilitated animals.
 
 (2) Do not mix in Type B or Type C medicated feeds containing bentonite.
 

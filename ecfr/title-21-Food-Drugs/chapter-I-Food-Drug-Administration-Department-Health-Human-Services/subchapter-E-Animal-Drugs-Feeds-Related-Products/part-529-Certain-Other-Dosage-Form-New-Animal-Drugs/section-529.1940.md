@@ -14,7 +14,7 @@
 
 (e) *Conditions of use* - (1) *Cows* - (i) *Amount.* Administer one intravaginal insert per animal for 7 days. When used for indications listed in paragraph (e)(1)(ii)(A) of this section, administer 25 mg dinoprost as a single intramuscular injection 1 day prior to insert removal (Day 6). When used for indications listed in paragraph (e)(1)(ii)(B) of this section, administer 25 mg dinoprost as a single intramuscular injection on the day of insert removal (Day 7).
 
-(ii) *Indications for use* - (A) For synchronization of estrus in suckled beef cows and replacement beef and dairy heifers; for advancement of first postpartum estrus in suckled beef cows; and for advancement of first pubertal estrus in replacement beef heifers.
+(ii) *Indications for use.* (A) For synchronization of estrus in suckled beef cows and replacement beef and dairy heifers; for advancement of first postpartum estrus in suckled beef cows; and for advancement of first pubertal estrus in replacement beef heifers.
 
 (B) For synchronization of estrus in lactating dairy cows.
 
