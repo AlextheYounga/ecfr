@@ -1,6 +1,6 @@
 ##### § 97.2 Administrative instructions prescribing commuted traveltime.
 
-Each period of overtime and holiday duty as prescribed in § 97.1 shall in addition include a commuted traveltime period for the respective ports, stations, and areas in which employees are located. The prescribed computed traveltime periods are as follows:
+Each period of overtime and holiday duty as prescribed in § 97.1 shall in addition include a commuted traveltime period for the respective ports, stations, and areas in which employees are located. The prescribed computed traveltime periods are as follows: 
 
 Commuted Traveltime Allowances
 

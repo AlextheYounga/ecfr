@@ -1,6 +1,6 @@
 ##### § 381.221 Designation of States under paragraph 5(c) of the Act.
 
-Each of the following States has been designated, under paragraph 5(c) of the Act, as a State in which the provisions of sections 1 through 4, 6 through 10, and 12 through 22 of the Act shall apply to operations and transactions wholly within the State. The Federal provisions apply, effective on the dates shown below:
+Each of the following States has been designated, under paragraph 5(c) of the Act, as a State in which the provisions of sections 1 through 4, 6 through 10, and 12 through 22 of the Act shall apply to operations and transactions wholly within the State. The Federal provisions apply, effective on the dates shown below: 
 
 | States                   | Effective date of application of Federal provisions |
 | ------------------------ | --------------------------------------------------- |
