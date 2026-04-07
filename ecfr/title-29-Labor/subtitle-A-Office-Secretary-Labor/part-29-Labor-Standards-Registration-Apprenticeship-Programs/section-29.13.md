@@ -1,10 +1,8 @@
 ##### § 29.13 Recognition of State Apprenticeship Agencies.
 
-Link to an amendment published at 87 FR 58287, Sept. 26, 2022.
-
 (a) *Recognition.* The Department may exercise its authority to grant recognition to a State Apprenticeship Agency. Recognition confers non-exclusive authority to determine whether an apprenticeship program conforms to the published standards and whether the program is, therefore, eligible for those Federal purposes which require such a determination by the Department. Such recognition shall be accorded upon the State's submission of, the Department's approval of, and the State's compliance with the following:
 
-(1) The State Apprenticeship Agency must submit a State apprenticeship law, whether instituted through statute, Executive Order, regulation, or other means, that conforms to the requirements of 29 CFR part 29 subpart A, and part 30;
+(1) The State Apprenticeship Agency must submit a State apprenticeship law, whether instituted through statute, Executive Order, regulation, or other means, that conforms to the requirements of this part and 29 CFR part 30;
 
 (2) The State Apprenticeship Agency must establish and continue to use a State Apprenticeship Council, which operates under the direction of the State Apprenticeship Agency. The State Apprenticeship Council may be either regulatory or advisory and must meet the following requirements:
 
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 58287, Sept. 26, 2022.
 
 (b) *Basic requirements.* In order to obtain and maintain recognition as provided under paragraph (a) of this section, the State Apprenticeship Agency must conform to the requirements of this part. To accomplish this, the State must:
 
-(1) Establish and maintain an administrative entity (the State Apprenticeship Agency) that is capable of performing the functions of a Registration Agency under 29 CFR part 29 subpart A;
+(1) Establish and maintain an administrative entity (the State Apprenticeship Agency) that is capable of performing the functions of a Registration Agency under this part;
 
 (2) Provide sufficient resources to carry out the functions of a Registration Agency, including: Outreach and education; registration of programs and apprentices; provision of technical assistance, and monitoring as required to fulfill the requirements of this part;
 
@@ -38,11 +36,11 @@ Link to an amendment published at 87 FR 58287, Sept. 26, 2022.
 
 (9) Submit all proposed modifications in legislation, regulations, policies and/or operational procedures planned or anticipated by a State Apprenticeship Agency, either at the time of application for recognition or subsequently, to the Office of Apprenticeship for review and obtain the Office of Apprenticeship's concurrence prior to implementation.
 
-(c) *Application for recognition.* A State Apprenticeship Agency desiring new or continued recognition as a Registration Agency must submit to the Administrator of the Office of Apprenticeship the documentation specified in paragraph (a) of this section. A currently recognized State desiring continued recognition by the Office of Apprenticeship must submit to the Administrator of the Office of Apprenticeship the documentation specified in paragraph (a) of this section within 2 years of the effective date of the final rule. The recognition of a currently recognized State shall continue for up to 2 years from the effective date of this regulation and during any extension period granted by the Administrator. An extension of time within which to comply with the requirements of this subpart may be granted by the Administrator for good cause upon written request by the State, but the Administrator shall not extend the time for submission of the documentation required by paragraph (a) of this section. Upon approval of the State Apprenticeship Agency's application for recognition and any subsequent modifications to this application as required under paragraph (b)(9) of this section, the Administrator shall so notify the State Apprenticeship Agency in writing.
+(c) *Application for recognition.* A State Apprenticeship Agency desiring new or continued recognition as a Registration Agency must submit to the Administrator of the Office of Apprenticeship the documentation specified in paragraph (a) of this section. A currently recognized State desiring continued recognition by the Office of Apprenticeship must submit to the Administrator of the Office of Apprenticeship the documentation specified in paragraph (a) of this section within 2 years of the effective date of the final rule. The recognition of a currently recognized State shall continue for up to 2 years from the effective date of this regulation and during any extension period granted by the Administrator. An extension of time within which to comply with the requirements of this part may be granted by the Administrator for good cause upon written request by the State, but the Administrator shall not extend the time for submission of the documentation required by paragraph (a) of this section. Upon approval of the State Apprenticeship Agency's application for recognition and any subsequent modifications to this application as required under paragraph (b)(9) of this section, the Administrator shall so notify the State Apprenticeship Agency in writing.
 
 (d) *Duration of recognition.* The recognition of a State Apprenticeship Agency shall last for 5 years from the date recognition is granted under paragraph (c) of this section. The Administrator shall notify each State Registration Agency at least 180 days prior to the expiration of the 5-year period whether the Registration Agency is in conformity with this part, based on reviews conducted by the Office of Apprenticeship, as required by paragraph (e) of this section. If the notification states that the State Apprenticeship Agency is in conformity, recognition will be renewed for an additional 5-year period. If the notification states that the State Apprenticeship Agency is not in conformity, the notification shall specify the areas of non-conformity, require corrective action, and offer technical assistance. After the Administrator determines that a State Apprenticeship Agency has corrected the identified non-conformities, recognition will be renewed for an additional 5-year period.
 
-(e) *Compliance.* The Office of Apprenticeship will monitor a State Registration Agency for compliance with the recognition requirements of this subpart through:
+(e) *Compliance.* The Office of Apprenticeship will monitor a State Registration Agency for compliance with the recognition requirements of this part through:
 
 (1) On-site reviews conducted by Office of Apprenticeship staff.
 
@@ -50,7 +48,7 @@ Link to an amendment published at 87 FR 58287, Sept. 26, 2022.
 
 (3) Review of State Apprenticeship Agency legislation, regulations, policies, and/or operating procedures required to be submitted under paragraphs (a)(1), (a)(5) and (b)(9) of this section for review and approval as required under § 29.13(a).
 
-(4) Determination whether, based on the review performed under paragraphs (e)(1), (2), and (3) of this section, the State Registration Agency is in compliance with part 29 subpart A. Notice to the State Registration Agency of the determination will be given within 45 days of receipt of proposed modifications to legislation, regulations, policies, and/or operational procedures required to be submitted under paragraphs (a)(1), (a)(5) and (b)(9) of this section.
+(4) Determination whether, based on the review performed under paragraphs (e)(1), (2), and (3) of this section, the State Registration Agency is in compliance with this part. Notice to the State Registration Agency of the determination will be given within 45 days of receipt of proposed modifications to legislation, regulations, policies, and/or operational procedures required to be submitted under paragraphs (a)(1), (a)(5) and (b)(9) of this section.
 
 (f) *Accountability/Remedies for non-conformity.* (1) State Registration Agencies that fail to maintain compliance with the requirements of this part, as provided under paragraph (e) of this section, will:
 
@@ -88,4 +86,4 @@ Link to an amendment published at 87 FR 58287, Sept. 26, 2022.
 
 (2) In the event that a State Apprenticeship Agency is not recognized by the Office of Apprenticeship for Federal purposes or that such recognition has been withdrawn, or if no State Apprenticeship Agency exists, registration with the Office of Apprenticeship may be requested. Such registration must be granted if the program is conducted, administered and operated in accordance with the requirements of this part and the equal opportunity regulation in 29 CFR part 30, as amended.
 
-\[73 FR 64425, Oct. 29, 2008, as amended at 85 FR 13033, Mar. 6, 2020; 85 FR 14387, Mar. 11, 2020; 85 FR 30619, May 20, 2020; 86 FR 1784, Jan. 11, 2021\]
+\[73 FR 64425, Oct. 29, 2008, as amended at 85 FR 13033, Mar. 6, 2020; 85 FR 14387, Mar. 11, 2020; 85 FR 30619, May 20, 2020; 86 FR 1784, Jan. 11, 2021; 87 FR 58287, Sept. 26, 2022\]

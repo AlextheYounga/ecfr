@@ -1,12 +1,10 @@
 ##### § 29.10 Hearings for deregistration.
 
-Link to an amendment published at 87 FR 58287, Sept. 26, 2022.
-
 (a) Within 10 days of receipt of a request for a hearing, the Administrator of the Office of Apprenticeship must contact the Department's Office of Administrative Law Judges to request the designation of an Administrative Law Judge to preside over the hearing. The Administrative Law Judge shall give reasonable notice of such hearing to the appropriate sponsor. Such notice will include:
 
 (1) A reasonable time and place of hearing;
 
-(2) A statement of the provisions of this subpart pursuant to which the hearing is to be held; and
+(2) A statement of the provisions of this part pursuant to which the hearing is to be held; and
 
 (3) A concise statement of the matters pursuant to which the action forming the basis of the hearing is proposed to be taken.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 87 FR 58287, Sept. 26, 2022.
 
 (c) The Administrative Law Judge should issue a written decision within 90 days of the close of the hearing record. The Administrative Law Judge's decision constitutes final agency action unless, within 15 days from receipt of the decision, a party dissatisfied with the decision files a petition for review with the Administrative Review Board in accordance with 29 CFR part 26, specifically identifying the procedure, fact, law, or policy to which exception is taken. Any exception not specifically urged is deemed to have been waived. A copy of the petition for review must be served on the opposing party at the same time in accordance with 29 CFR part 26. Thereafter, the decision of the Administrative Law Judge remains final agency action unless the Administrative Review Board, within 30 days of the filing of the petition for review, notifies the parties that it has accepted the case for review. The Administrative Review Board may set a briefing schedule or decide the matter on the record. The Administrative Review Board must issue a decision in any case it accepts for review within 180 days of the close of the record. If a decision is not so issued, the Administrative Law Judge's decision constitutes final agency action.
 
-\[73 FR 64425, Oct. 29, 2008, as amended at 85 FR 13033, Mar. 6, 2020; 85 FR 14387, Mar. 11, 2020; 85 FR 30619, May 20, 2020; 86 FR 1783, Jan. 11, 2021\]
+\[73 FR 64425, Oct. 29, 2008, as amended at 85 FR 13033, Mar. 6, 2020; 85 FR 14387, Mar. 11, 2020; 85 FR 30619, May 20, 2020; 86 FR 1783, Jan. 11, 2021; 87 FR 58287, Sept. 26, 2022\]

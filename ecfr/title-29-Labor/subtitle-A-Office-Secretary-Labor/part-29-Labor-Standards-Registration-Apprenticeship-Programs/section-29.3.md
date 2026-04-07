@@ -1,12 +1,10 @@
 ##### § 29.3 Eligibility and procedure for registration of an apprenticeship program.
 
-Link to an amendment published at 87 FR 58287, Sept. 26, 2022.
-
 (a) Eligibility for registration of an apprenticeship program for various Federal purposes is conditioned upon a program's conformity with the apprenticeship program standards published in this part. For a program to be determined by the Secretary as being in conformity with these published standards, the program must apply for registration and be registered with the Office of Apprenticeship or with a State Apprenticeship Agency recognized by the Office of Apprenticeship. The determination by the Secretary that the program meets the apprenticeship program standards is effectuated only through such registration.
 
 (b) Only an apprenticeship program or agreement that meets the following criteria is eligible for Office of Apprenticeship or State Apprenticeship Agency registration:
 
-(1) It is in conformity with the requirements of this subpart and the training is in an apprenticeable occupation having the characteristics set forth in § 29.4; and
+(1) It is in conformity with the requirements of this part and the training is in an apprenticeable occupation having the characteristics set forth in § 29.4; and
 
 (2) It is in conformity with the requirements of the Department's regulation on Equal Employment Opportunity in Apprenticeship and Training in 29 CFR part 30, as amended.
 
@@ -22,7 +20,7 @@ Link to an amendment published at 87 FR 58287, Sept. 26, 2022.
 
 (f) Operating apprenticeship programs, when approved by the Office of Apprenticeship, are accorded registration evidenced by a Certificate of Registration. Programs approved by recognized State Apprenticeship Agencies must be accorded registration and/or approval evidenced by a similar certificate or other written indicia. When approved by the Office of Apprenticeship, National Apprenticeship Guideline Standards for policy or guidance will be accorded a certificate.
 
-(g) Applications for new programs that the Registration Agency determines meet the required standards for program registration must be given provisional approval for a period of 1 year. The Registration Agency must review all new programs for quality and for conformity with the requirements of this subpart at the end of the first year after registration. At that time:
+(g) Applications for new programs that the Registration Agency determines meet the required standards for program registration must be given provisional approval for a period of 1 year. The Registration Agency must review all new programs for quality and for conformity with the requirements of this part at the end of the first year after registration. At that time:
 
 (1) A program that conforms with the requirements of this part:
 
@@ -32,7 +30,7 @@ Link to an amendment published at 87 FR 58287, Sept. 26, 2022.
 
 (2) A program not in operation or not conforming to the regulations during the provisional approval period must be recommended for deregistration procedures.
 
-(h) The Registration Agency must review all programs for quality and for conformity with the requirements of this subpart at the end of the first full training cycle. A satisfactory review of a provisionally approved program will result in conversion of provisional approval to permanent registration. Subsequent reviews must be conducted no less frequently than every 5 years. Programs not in operation or not conforming to the regulations must be recommended for deregistration procedures.
+(h) The Registration Agency must review all programs for quality and for conformity with the requirements of this part at the end of the first full training cycle. A satisfactory review of a provisionally approved program will result in conversion of provisional approval to permanent registration. Subsequent reviews must be conducted no less frequently than every 5 years. Programs not in operation or not conforming to the regulations must be recommended for deregistration procedures.
 
 (i) Any sponsor proposals or applications for modification(s) or change(s) to registered programs or certified National Guidelines for Apprenticeship Standards must be submitted to the Registration Agency. The Registration Agency must make a determination on whether to approve such submissions within 90 days from the date of receipt. If approved, the modification(s) or change(s) will be recorded and acknowledged within 90 days of approval as an amendment to such program. If not approved, the sponsor must be notified of the disapproval and the reasons therefore and provided the appropriate technical assistance.
 
@@ -40,4 +38,4 @@ Link to an amendment published at 87 FR 58287, Sept. 26, 2022.
 
 (k) Where the employees to be trained have no collective bargaining agreement, an apprenticeship program may be proposed for registration by an employer or group of employers, or an employer association.
 
-\[73 FR 64425, Oct. 29, 2008, as amended at 85 FR 14387, Mar. 11, 2020\]
+\[73 FR 64425, Oct. 29, 2008, as amended at 85 FR 14387, Mar. 11, 2020; 87 FR 58287, Sept. 26, 2022\]
