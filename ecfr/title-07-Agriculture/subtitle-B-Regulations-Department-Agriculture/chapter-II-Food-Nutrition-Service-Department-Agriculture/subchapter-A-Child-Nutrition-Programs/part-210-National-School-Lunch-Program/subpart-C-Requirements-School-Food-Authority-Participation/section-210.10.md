@@ -30,33 +30,31 @@
 
 (c) *Meal pattern for school lunches.* Schools must offer the food components and quantities required in the lunch meal pattern established in the following table:
 
-Table 1 to Paragraph (c) Introductory Text - Lunch Meal Pattern
-
-|                                                                          | Grades K-5                                                                                        | Grades 6-8   | Grades 9-12 |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ------------ | ----------- |
-| Food components                                                          | Amount of Food a per Week                                                                         |              |             |
-|                                                                          | (minimum per day)                                                                                 |              |             |
-| Fruits (cups) b                                                          | 2 1/2 ( 1/2)                                                                                      | 2 1/2 ( 1/2) | 5 (1)       |
-| Vegetables (cups) b                                                      | 3 3/4 ( 3/4)                                                                                      | 3 3/4 ( 3/4) | 5 (1)       |
-| Dark green c                                                             | 1/2                                                                                               | 1/2          | 1/2         |
-| Red/Orange c                                                             | 3/4                                                                                               | 3/4          | 1 1/4       |
-| Beans and peas (legumes) c                                               | 1/2                                                                                               | 1/2          | 1/2         |
-| Starchy c                                                                | 1/2                                                                                               | 1/2          | 1/2         |
-| Other cd                                                                 | 1/2                                                                                               | 1/2          | 3/42        |
-| Additional Vegetables to Reach Total e                                   | 1                                                                                                 | 1            | 1 1/2       |
-| Grains (oz eq) f                                                         | 8-9 (1)                                                                                           | 8-10 (1)     | 10-12 (2)   |
-| Meats/Meat Alternates (oz eq)                                            | 8-10 (1)                                                                                          | 9-10 (1)     | 10-12 (2)   |
-| Fluid milk (cups) g                                                      | 5 (1)                                                                                             | 5 (1)        | 5 (1)       |
-| Other Specifications: Daily Amount Based on the Average for a 5-Day Week |                                                                                                   |              |             |
-| Min-max calories (kcal) h                                                | 550-650                                                                                           | 600-700      | 750-850     |
-| Saturated fat (% of total calories) h                                    | <10                                                                                               | <10          | <10         |
-| Sodium Interim Target 1 (mg) h                                           | ≤1,230                                                                                            | ≤1,360       | ≤1,420      |
-| Sodium Interim Target 1A (mg) hi                                         | ≤1,110                                                                                            | ≤1,225       | ≤1,280      |
-| Trans fat h                                                              | Nutrition label or manufacturer specifications must indicate zero grams of trans fat per serving. |              |             |
+|                                                                          | Lunch meal pattern                                                                                |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| Food components                                                          | Amount of Food a per Week                                                                         |
+|                                                                          | (minimum per day)                                                                                 |
+| Fruits (cups) b                                                          | 2 1/2 ( 1/2)                                                                                      |
+| Vegetables (cups) b                                                      | 3 3/4 ( 3/4)                                                                                      |
+| Dark green c                                                             | 1/2                                                                                               |
+| Red/Orange c                                                             | 3/4                                                                                               |
+| Beans and peas (legumes) c                                               | 1/2                                                                                               |
+| Starchy c                                                                | 1/2                                                                                               |
+| Other c d                                                                | 1/2                                                                                               |
+| Additional Vegetables to Reach Total e                                   | 1                                                                                                 |
+| Grains (oz eq) f                                                         | 8-9 (1)                                                                                           |
+| Meats/Meat Alternates (oz eq)                                            | 8-10 (1)                                                                                          |
+| Fluid milk (cups) g                                                      | 5 (1)                                                                                             |
+| Other Specifications: Daily Amount Based on the Average for a 5-Day Week |                                                                                                   |
+| Min-max calories (kcal) h                                                | 550-650                                                                                           |
+| Saturated fat (% of total calories) h                                    | <10                                                                                               |
+| Sodium Interim Target 1 (mg) h                                           | ≤1,230                                                                                            |
+| Sodium Interim Target 1A (mg) h i                                        | ≤1,110                                                                                            |
+| Trans fat h                                                              | Nutrition label or manufacturer specifications must indicate zero grams of trans fat per serving. |
 
 a Food items included in each group and subgroup and amount equivalents. Minimum creditable serving is 1/8 cup.
 
-b One-quarter cup of dried fruit counts as 1/2 cup of fruit; 1 cup of leafy greens counts as 1/2 cup of vegetables. No more than half of the fruit or vegetable offerings may be in the form of juice. All juice must be 100% full-strength.
+b One quarter-cup of dried fruit counts as 1/2 cup of fruit; 1 cup of leafy greens counts as 1/2 cup of vegetables. No more than half of the fruit or vegetable offerings may be in the form of juice. All juice must be 100% full-strength.
 
 c Larger amounts of these vegetables may be served.
 
@@ -64,9 +62,9 @@ d This category consists of “Other vegetables” as defined in paragraph (c)(2
 
 e Any vegetable subgroup may be offered to meet the total weekly vegetable requirement.
 
-f At least 80 percent of grains offered weekly must meet the whole grain-rich criteria specified in FNS guidance, and the remaining grain items offered must be enriched.
+f At least 80 percent of grains offered weekly (by ounce equivalents) must meet the whole grain-rich criteria specified in FNS guidance, and the remaining grain items offered must be enriched.
 
-g All fluid milk must be fat-free (skim) or low-fat (1 percent fat or less). Milk may be flavored or flavored, provided that unflavored milk is offered at each meal service.
+g All fluid milk must be fat-free (skim) or low-fat (1 percent fat or less). Milk may be unflavored or flavored, provided that unflavored milk is offered at each meal service.
 
 h Discretionary sources of calories (solid fats and added sugars) may be added to the meal pattern if within the specifications for calories, saturated fat, trans fat, and sodium. Foods of minimal nutritional value and fluid milk with fat content greater than 1 percent are not allowed.
 
@@ -383,4 +381,4 @@ Table 8 to Paragraph (q)(2) - Infant Lunch Meal Pattern
 
 6 Fruit and vegetable juices must not be served.
 
-\[77 FR 4143, Jan. 26, 2012, as amended at 78 FR 13448, Feb. 28, 2013; 78 FR 39090, June 28, 2013; 81 FR 24372, Apr. 25, 2016; 81 FR 50185, July 29, 2016; 81 FR 75671, Nov. 1, 2016; 82 FR 56713, Nov. 30, 2017; 83 FR 63789, Dec. 12, 2018; 84 FR 50289, Sept. 25, 2019; 85 FR 7853, Feb. 12, 2020; 85 FR 74847, Nov. 24, 2020; 86 FR 57544, Oct. 18, 2021; 87 FR 4126, Jan. 27, 2022; 87 FR 7005, Feb. 7, 2022\]
+\[77 FR 4143, Jan. 26, 2012, as amended at 78 FR 13448, Feb. 28, 2013; 78 FR 39090, June 28, 2013; 81 FR 24372, Apr. 25, 2016; 81 FR 50185, July 29, 2016; 81 FR 75671, Nov. 1, 2016; 82 FR 56713, Nov. 30, 2017; 83 FR 63789, Dec. 12, 2018; 84 FR 50289, Sept. 25, 2019; 85 FR 7853, Feb. 12, 2020; 85 FR 74847, Nov. 24, 2020; 86 FR 57544, Oct. 18, 2021; 87 FR 4126, Jan. 27, 2022; 87 FR 7005, Feb. 7, 2022; 87 FR 47331, Aug. 3, 2022\]
