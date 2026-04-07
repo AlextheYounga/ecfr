@@ -4,19 +4,19 @@
 
 (1) Establish procedures for opening and closing for business and for the safekeeping of all currency, negotiable securities, and similar valuables at all times;
 
-(2) Establish procedures that will assist in identifying persons committing crimes against the bank and that will preserve evidence that may aid in their identification and prosecution; such procedures may include, but are not limited to:
+(2) Establish procedures that will assist in identifying persons committing crimes against the institution and that will preserve evidence that may aid in their identification and prosecution; such procedures may include, but are not limited to:
 
-(i) Retaining a record of any robbery, burglary, or larceny committed against the bank;
+(i) Retaining a record of any robbery, burglary, or larceny committed against the institution;
 
 (ii) Maintaining a camera that records activity in the banking office; and
 
 (iii) Using identification devices, such as prerecorded serial-numbered bills, or chemical and electronic devices;
 
-(3) Provide for initial and periodic training of officers and employees in their responsibilities under the security program and in proper employee conduct during and after a robbery, burglary or larceny; and
+(3) Provide for initial and periodic training of officers and employees in their responsibilities under the security program and in proper employee conduct during and after a robbery, burglar or larceny; and
 
 (4) Provide for selecting, testing, operating and maintaining appropriate security devices, as specified in paragraph (b) of this section.
 
-(b) *Security devices.* Each insured nonmember bank shall have, at a minimum, the following security devices:
+(b) *Security devices.* Each institution shall have, at a minimum, the following security devices:
 
 (1) A means of protecting cash or other liquid assets, such as a vault, safe, or other secure space;
 
