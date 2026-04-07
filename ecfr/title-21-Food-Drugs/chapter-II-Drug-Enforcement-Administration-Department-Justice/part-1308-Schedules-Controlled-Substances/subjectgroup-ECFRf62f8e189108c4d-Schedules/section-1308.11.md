@@ -592,6 +592,26 @@ Meaning an extract containing one or more cannabinoids that has been derived fro
 
 (1245) 
 
+(89) ethyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate (other name: 5F-EDMB-PINACA)
+
+7036 
+
+(90) methyl 2-(1-(5-fluoropentyl)-1H-indole-3-carboxamido)-3,3-dimethylbutanoate (other names: 5F-MDMB-PICA; 5F-MDMB-2201)
+
+7041 
+
+(91) N-(adamantan-1-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (other names: FUB-AKB48; FUB-APINACA; AKB48 N-(4-FLUOROBENZYL))
+
+7047 
+
+(92) 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide (other names: 5F-CUMYL-PINACA; SGT-25)
+
+7083 
+
+(93) (1-(4-fluorobenzyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone (other name: FUB-144)
+
+7014 
+
 (e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
 (1) gamma-hydroxybutyric acid (some other names include GHB; gamma-hydroxybutyrate; 4-hydroxybutyrate; 4-hydroxybutanoic acid; sodium oxybate; sodium oxybutyrate)
@@ -730,27 +750,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (ii) This definition includes, but is not limited to, the following substances: (A)-(B) \[Reserved\]
 
-(31)-(36) \[Reserved\] 
-
-(37) ethyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (trivial name: 5F-EDMB-PINACA)
-
-7036 
-
-(38) methyl 2-(1-(5-fluoropentyl)-1H-indole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (trivial name: 5F-MDMB-PICA)
-
-7041 
-
-(39) N-(adamantan-1-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (trivial names: FUB-AKB48; FUB-APINACA; AKB48 N-(4-FLUOROBENZYL))
-
-7047 
-
-(40) 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (trivial names: 5F-CUMYL-PINACA; SGT-25)
-
-7083 
-
-(41) (1-(4-fluorobenzyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl) methanone, its optical, positional, and geometric isomers, salts and salts of isomers (trivial name: FUB-144)
-
-7014 
+(31)-(41) \[Reserved\] 
 
 (42) N-Ethylhexedrone, its optical, positional, and geometric isomers, salts and salts of isomers (Other name: 2-(ethylamino)-1-phenylhexan-1-one)
 
