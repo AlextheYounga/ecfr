@@ -1,10 +1,10 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates.
 
-Link to an amendment published at 89 FR 11547, Feb. 14, 2024.Link to an amendment published at 89 FR 18243, Mar. 12, 2024.Link to an amendment published at 89 FR 19126, Mar. 15, 2024.Link to an amendment published at 89 FR 28963, Apr. 19, 2024.Link to an amendment published at 89 FR 31484, Apr. 24, 2024.
+Link to an amendment published at 89 FR 18243, Mar. 12, 2024.Link to an amendment published at 89 FR 19126, Mar. 15, 2024.Link to an amendment published at 89 FR 28963, Apr. 19, 2024.Link to an amendment published at 89 FR 31484, Apr. 24, 2024.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
-(a) *Refrigerators/refrigerator-freezers/freezers.* The standards in this paragraph (a) do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
+(a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
 
 (1) The following standards apply to products manufactured on or before September 15, 2014, and before the 2029/2030 compliance dates depending on product class (see paragraphs (a)(2) and (3) of this section).
 
@@ -59,83 +59,81 @@ Table 1 to Paragraph (a)(1)
 (2) The following standards apply to products manufactured on or after January 31, 2029.
 
 Table 2 to Paragraph (a)(2)
-| Product class                                                                                                        | Equations for maximum energy use   (kWh/yr) |
-| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| 3-BI. Built-in refrigerator-freezer—automatic defrost with top-mounted freezer                                       | 8.24AV + 238.4 + 28I                        |
-| 3A-BI. Built-in All-refrigerators—automatic defrost                                                                  | (7.22AV + 205.7)\*K3ABI                     |
-| 4-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer                                     | (8.79AV + 307.4)\*K4BI + 28I                |
-| 5-BI. Built-In Refrigerator-freezers—automatic defrost with bottom-mounted freezer                                   | (8.65AV + 309.9)\*K5BI + 28I                |
-| 5A. Refrigerator-freezer—automatic defrost with bottom-mounted freezer with through-the-door ice service             | (7.76AV + 351.9)\*K5A                       |
-| 5A-BI. Built-in refrigerator-freezer—automatic defrost with bottom-mounted freezer with through-the-door ice service | (8.21AV + 370.7)\*K5ABI                     |
-| 7-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer                                     | (8.82AV + 384.1)\*K7BI                      |
-| 8\. Upright freezers with manual defrost                                                                             | 5.57AV + 193.7                              |
-| 9-BI. Built-In Upright freezers with automatic defrost                                                               | (9.37AV + 247.9)\*K9BI + 28I                |
-| 9A-BI. Built-In Upright freezers with automatic defrost with through-the-door ice service                            | 9.86AV + 288.9                              |
-| 10\. Chest freezers and all other freezers except compact freezers                                                   | 7.29AV + 107.8                              |
-| 10A. Chest freezers with automatic defrost                                                                           | 10.24AV + 148.1                             |
-| 11\. Compact refrigerator-freezers and refrigerators other than all-refrigerators with manual defrost                | 7.68AV + 214.5                              |
-| 11A. Compact all-refrigerators—manual defrost                                                                        | 6.66AV + 186.2                              |
-| 12\. Compact refrigerator-freezers—partial automatic defrost                                                         | (5.32AV + 302.2)\*K12                       |
-| 13\. Compact refrigerator-freezers—automatic defrost with top-mounted freezer                                        | 10.62AV + 305.3 + 28I                       |
-| 13A. Compact all-refrigerators—automatic defrost                                                                     | (8.25AV + 233.4)\*K13A                      |
-| 14\. Compact refrigerator-freezers—automatic defrost with side-mounted freezer                                       | 6.14AV + 411.2 + 28I                        |
-| 15\. Compact refrigerator-freezers—automatic defrost with bottom-mounted freezer                                     | 10.62AV + 305.3 + 28I                       |
-| 16\. Compact upright freezers with manual defrost                                                                    | 7.35AV + 191.8                              |
-| 17\. Compact upright freezers with automatic defrost                                                                 | 9.15AV + 316.7                              |
-| 18\. Compact chest freezers                                                                                          | 7.86AV + 107.8                              |
-| AV = Total adjusted volume, expressed in ft3, as determined in appendices A and B to subpart B of 10 CFR part 430.   |                                             |
-| av = Total adjusted volume, expressed in Liters.                                                                     |                                             |
-| I = 1 for a product with an automatic icemaker and = 0 for a product without an automatic icemaker.                  |                                             |
-| Door Coefficients (e.g., K3ABI) are as defined in the following table.                                               |                                             |
+| Product class                                                                                                                                                              | Equations for maximum energy use   (kWh/yr) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 3-BI. Built-in refrigerator-freezer—automatic defrost with top-mounted freezer                                                                                             | 8.24AV + 238.4 + 28I                        |
+| 3A-BI. Built-in All-refrigerators—automatic defrost                                                                                                                        | (7.22AV + 205.7) \* K3ABI                   |
+| 4-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer                                                                                           | (8.79AV + 307.4) \* K4BI + 28I              |
+| 5-BI. Built-In Refrigerator-freezers—automatic defrost with bottom-mounted freezer                                                                                         | (8.65AV + 309.9) \* K5BI + 28I              |
+| 5A. Refrigerator-freezer—automatic defrost with bottom-mounted freezer with through-the-door ice service                                                                   | (7.76AV + 351.9) \* K5A                     |
+| 5A-BI. Built-in refrigerator-freezer—automatic defrost with bottom-mounted freezer with through-the-door ice service                                                       | (8.21AV + 370.7) \* K5ABI                   |
+| 7-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer with through-the-door ice service                                                         | (8.82AV + 384.1) \* K7BI                    |
+| 8\. Upright freezers with manual defrost                                                                                                                                   | 5.57AV + 193.7                              |
+| 9-BI. Built-In Upright freezers with automatic defrost                                                                                                                     | (9.37AV + 247.9) \* K9BI + 28I              |
+| 9A-BI. Built-In Upright freezers with automatic defrost with through-the-door ice service                                                                                  | 9.86AV + 288.9                              |
+| 10\. Chest freezers and all other freezers except compact freezers                                                                                                         | 7.29AV + 107.8                              |
+| 10A. Chest freezers with automatic defrost                                                                                                                                 | 10.24AV + 148.1                             |
+| 11\. Compact refrigerator-freezers and refrigerators other than all-refrigerators with manual defrost                                                                      | 7.68AV + 214.5                              |
+| 11A. Compact all-refrigerators—manual defrost                                                                                                                              | 6.66AV + 186.2                              |
+| 12\. Compact refrigerator-freezers—partial automatic defrost                                                                                                               | (5.32AV + 302.2) \* K12                     |
+| 13\. Compact refrigerator-freezers—automatic defrost with top-mounted freezer                                                                                              | 10.62AV + 305.3 + 28I                       |
+| 13A. Compact all-refrigerators—automatic defrost                                                                                                                           | (8.25AV + 233.4) \* K13A                    |
+| 14\. Compact refrigerator-freezers—automatic defrost with side-mounted freezer                                                                                             | 6.14AV + 411.2 + 28I                        |
+| 15\. Compact refrigerator-freezers—automatic defrost with bottom-mounted freezer                                                                                           | 10.62AV + 305.3 + 28I                       |
+| 16\. Compact upright freezers with manual defrost                                                                                                                          | 7.35AV + 191.8                              |
+| 17\. Compact upright freezers with automatic defrost                                                                                                                       | 9.15AV + 316.7                              |
+| 18\. Compact chest freezers                                                                                                                                                | 7.86AV + 107.8                              |
+| AV = Total adjusted volume, expressed in ft3, as determined in appendices A and B to subpart B of this part.                                                               |                                             |
+| av = Total adjusted volume, expressed in Liters.                                                                                                                           |                                             |
+| I = 1 for a product with an automatic icemaker and = 0 for a product without an automatic icemaker. Door Coefficients (e.g., K3ABI) are as defined in the following table. |                                             |
 
 Table 3 to Paragraph (a)(2)
-| Door coefficient                                                                 | Products   with a   transparent   door | Products   without a   transparent   door with a   door-in-door | Products without a transparent door or door-in-door with added external doors |
-| -------------------------------------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| K3ABI                                                                            | 1.10                                   | 1.0                                                             | 1.0.                                                                          |
-| K4BI                                                                             | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−2).                                                           |
-| K5BI                                                                             | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−2).                                                           |
-| K5A                                                                              | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−3).                                                           |
-| K5ABI                                                                            | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−3).                                                           |
-| K7BI                                                                             | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−2).                                                           |
-| K9BI                                                                             | 1.0                                    | 1.0                                                             | 1 + 0.02 \* (Nd−1).                                                           |
-| K12                                                                              | 1.0                                    | 1.0                                                             | 1 + 0.02 \* (Nd−1).                                                           |
-| K13A                                                                             | 1.10                                   | 1.0                                                             | 1.0                                                                           |
-| **Notes:**                                                                       |                                        |                                                                 |                                                                               |
-| 1 Nd is the number of external doors.                                            |                                        |                                                                 |                                                                               |
-| 2 The maximum Nd values are 2 for K12, 3 for K9BI, and 5 for all other K values. |                                        |                                                                 |                                                                               |
+| Door coefficient                                                                 | Products with a   transparent door | Products without a   transparent door   with a door-in-door | Products without a   transparent door or   door-in-door with   added external doors |
+| -------------------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| K3ABI                                                                            | 1.10                               | 1.0                                                         | 1.0.                                                                                |
+| K4BI                                                                             | 1.10                               | 1.06                                                        | 1 + 0.02 \* (Nd−2).                                                                 |
+| K5BI                                                                             | 1.10                               | 1.06                                                        | 1 + 0.02 \* (Nd−2).                                                                 |
+| K5A                                                                              | 1.10                               | 1.06                                                        | 1 + 0.02 \* (Nd−3).                                                                 |
+| K5ABI                                                                            | 1.10                               | 1.06                                                        | 1 + 0.02 \* (Nd−3).                                                                 |
+| K7BI                                                                             | 1.10                               | 1.06                                                        | 1 + 0.02 \* (Nd−2).                                                                 |
+| K9BI                                                                             | 1.0                                | 1.0                                                         | 1 + 0.02 \* (Nd−1).                                                                 |
+| K12                                                                              | 1.0                                | 1.0                                                         | 1 + 0.02 \* (Nd−1).                                                                 |
+| K13A                                                                             | 1.10                               | 1.0                                                         | 1.0.                                                                                |
+| **Notes:**                                                                       |                                    |                                                             |                                                                                     |
+| 1 Nd is the number of external doors.                                            |                                    |                                                             |                                                                                     |
+| 2 The maximum Nd values are 2 for K12, 3 for K9BI, and 5 for all other K values. |                                    |                                                             |                                                                                     |
 
 (3) The following standards apply to products manufactured on or after January 31, 2030.
 
 Table 4 to Paragraph (a)(3)
-| Product class                                                                                                | Equations for maximum energy use   (kWh/yr) |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
-| 1\. Refrigerator-freezers and refrigerators other than all-refrigerators with manual defrost                 | 6.79AV + 191.3                              |
-| 1A. All-refrigerators—manual defrost                                                                         | 5.77AV + 164.6                              |
-| 2\. Refrigerator-freezers—partial automatic defrost                                                          | (6.79AV + 191.3)\*K2                        |
-| 3\. Refrigerator-freezers—automatic defrost with top-mounted freezer                                         | 6.86AV + 198.6 + 28I                        |
-| 3A. All-refrigerators—automatic defrost                                                                      | (6.01AV + 171.4)\*K3A                       |
-| 4\. Refrigerator-freezers—automatic defrost with side-mounted freezer                                        | (7.28AV + 254.9)\*K4 + 28I                  |
-| 5\. Refrigerator-freezers—automatic defrost with bottom-mounted freezer                                      | (7.61AV + 272.6)\*K5 + 28I                  |
-| 6\. Refrigerator-freezers—automatic defrost with top-mounted freezer with through-the-door ice service       | 7.14AV + 280.0                              |
-| 7\. Refrigerator-freezers—automatic defrost with side-mounted freezer with through-the-door ice service      | (7.31AV + 322.5)\*K7                        |
-| 9\. Upright freezers with automatic defrost                                                                  | (7.33AV + 194.1)\*K9 + 28I                  |
-| AV = Total adjusted volume, expressed in ft3, as determined in appendices A and B to subpart B of this part. |                                             |
-| av = Total adjusted volume, expressed in Liters.                                                             |                                             |
-| I = 1 for a product with an automatic icemaker and = 0 for a product without an automatic icemaker.          |                                             |
-| Door Coefficients (e.g., K3A) are as defined in the following table.                                         |                                             |
+| Product class                                                                                                                                                            | Equations for maximum energy use   (kWh/yr) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
+| 1\. Refrigerator-freezers and refrigerators other than all-refrigerators with manual defrost                                                                             | 6.79AV + 191.3                              |
+| 1A. All-refrigerators—manual defrost                                                                                                                                     | 5.77AV + 164.6                              |
+| 2\. Refrigerator-freezers—partial automatic defrost                                                                                                                      | (6.79AV + 191.3) \* K2                      |
+| 3\. Refrigerator-freezers—automatic defrost with top-mounted freezer                                                                                                     | 6.86AV + 198.6 + 28I                        |
+| 3A. All-refrigerators—automatic defrost                                                                                                                                  | (6.01AV + 171.4) \* K3A                     |
+| 4\. Refrigerator-freezers—automatic defrost with side-mounted freezer                                                                                                    | (7.28AV + 254.9) \* K4 + 28I                |
+| 5\. Refrigerator-freezers—automatic defrost with bottom-mounted freezer                                                                                                  | (7.61AV + 272.6) \* K5 + 28I                |
+| 6\. Refrigerator-freezers—automatic defrost with top-mounted freezer with through-the-door ice service                                                                   | 7.14AV + 280.0                              |
+| 7\. Refrigerator-freezers—automatic defrost with side-mounted freezer with through-the-door ice service                                                                  | (7.31AV + 322.5) \* K7                      |
+| 9\. Upright freezers with automatic defrost                                                                                                                              | (7.33AV + 194.1) \* K9 + 28I                |
+| AV = Total adjusted volume, expressed in ft3, as determined in appendices A and B to subpart B of this part.                                                             |                                             |
+| av = Total adjusted volume, expressed in Liters.                                                                                                                         |                                             |
+| I = 1 for a product with an automatic icemaker and = 0 for a product without an automatic icemaker. Door Coefficients (e.g., K3A) are as defined in the following table. |                                             |
 
 Table 5 to Paragraph (a)(3)
-| Door coefficient                                                    | Products   with a   transparent   door | Products   without a   transparent   door with a   door-in-door | Products without a transparent door or door-in-door with added external doors |
-| ------------------------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| K2                                                                  | 1.0                                    | 1.0                                                             | 1 + 0.02 \* (Nd−1).                                                           |
-| K3A                                                                 | 1.10                                   | 1.0                                                             | 1.0.                                                                          |
-| K4                                                                  | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−2).                                                           |
-| K5                                                                  | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−2).                                                           |
-| K7                                                                  | 1.10                                   | 1.06                                                            | 1 + 0.02 \* (Nd−2).                                                           |
-| K9                                                                  | 1.0                                    | 1.0                                                             | 1 + 0.02 \* (Nd−1).                                                           |
-| **Notes:**                                                          |                                        |                                                                 |                                                                               |
-| 1 Nd is the number of external doors.                               |                                        |                                                                 |                                                                               |
-| 2 The maximum Nd values are 2 for K2, and 5 for all other K values. |                                        |                                                                 |                                                                               |
+| Door coefficient                                                    | Products with a   transparent door | Products without a   transparent door   with a door-in-door | Products without a   transparent door or   door-in-door with   added external doors |
+| ------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| K2                                                                  | 1.0                                | 1.0                                                         | 1 + 0.02 \* (Nd−1).                                                                 |
+| K3A                                                                 | 1.10                               | 1.0                                                         | 1.0.                                                                                |
+| K4                                                                  | 1.10                               | 1.06                                                        | 1 + 0.02 \* (Nd−2).                                                                 |
+| K5                                                                  | 1.10                               | 1.06                                                        | 1 + 0.02 \* (Nd−2).                                                                 |
+| K7                                                                  | 1.10                               | 1.06                                                        | 1 + 0.02 \* (Nd−2).                                                                 |
+| K9                                                                  | 1.0                                | 1.0                                                         | 1 + 0.02 \* (Nd−1).                                                                 |
+| **Notes:**                                                          |                                    |                                                             |                                                                                     |
+| 1 Nd is the number of external doors.                               |                                    |                                                             |                                                                                     |
+| 2 The maximum Nd values are 2 for K2, and 5 for all other K values. |                                    |                                                             |                                                                                     |
 
 (b) *Room air conditioners.* (1) The following standards remain in effect from June 1, 2014, until May 26, 2026:
 
@@ -487,11 +485,26 @@ Table 7 to Paragraph (b)(2)
 | Gas room over 27,000 Btu/h up to 46,000 Btu/h              | 67                                                           |
 | Gas room over 46,000 Btu/h                                 | 68                                                           |
 
-(j) *Cooking Products* (1) Gas cooking products with an electrical supply cord manufactured on or after January 1, 1990, shall not be equipped with a constant burning pilot light.
+(j) *Cooking Products* (1) *Conventional cooking tops.* (i) Gas cooking tops, other than gas portable indoor conventional cooking tops, manufactured on or after April 9, 2012, and before January 31, 2028, shall not be equipped with a constant burning pilot light.
 
-(2) Gas cooking products without an electrical supply cord manufactured on or after April 9, 2012, shall not be equipped with a constant burning pilot light.
+(ii) Gas portable indoor conventional cooking tops, manufactured on or after April 9, 2012, shall not be equipped with a constant burning pilot light.
 
-(3) Microwave ovens:
+(iii) Conventional cooking tops, other than portable indoor conventional cooking tops, manufactured on or after January 31, 2028, shall have an integrated annual energy consumption (IAEC), excluding any downdraft venting system energy consumption, no greater than:
+
+| Product class                                                                  | Maximum integrated annual energy consumption   (IAEC) |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------- |
+| (A) Electric Smooth Element Standalone Cooking Tops                            | 207 kWh/year.                                         |
+| (B) Electric Smooth Element Cooking Top Component of Combined Cooking Products | 207 kWh/year.                                         |
+| (C) Gas Standalone Cooking Tops                                                | 1,770 kBtu/year.                                      |
+| (D) Gas Cooking Top Component of Combined Cooking Products                     | 1,770 kBtu/year.                                      |
+
+(2) *Conventional ovens.* The control system of a conventional oven shall:
+
+(i) Not be equipped with a constant burning pilot light, for gas ovens manufactured on or after April 9, 2012; and
+
+(ii) Not be equipped with a linear power supply, for electric and gas ovens manufactured on or after January 31, 2028.
+
+(3) *Microwave ovens.*
 
 (i) Microwave-only ovens and countertop convection microwave ovens manufactured on or after June 17, 2016, and before June 22, 2026, shall have an average standby power not more than 1.0 watt. Built-in and over-the-range convection microwave ovens manufactured on or after June 17, 2016, and before June 22, 2026, shall have an average standby power not more than 2.2 watts.
 
