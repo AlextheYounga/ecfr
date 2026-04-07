@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 42804, Sept. 5, 2025.
 
-The following standards for enforcement activities contained in this section must be adhered to by every immigration officer involved in enforcement activities. Any violation of this section shall be reported to the Office of the Inspector General or such other entity as may be provided for in 8 CFR 287.10.
+The following standards for enforcement activities contained in this section must be adhered to by every immigration officer involved in enforcement activities. Any violation of this section shall be reported to the Office of the Inspector General or such other entity as may be provided for in 8 CFR 287.10.*Use of force*
 
 (a) *Use of force*—(1) *Non-deadly force.* (i) Non-deadly force is any use of force other than that which is considered deadly force as defined in paragraph (a)(2) of this section.
 

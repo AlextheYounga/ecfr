@@ -1,3 +1,5 @@
 ##### § 153.23 Reporting requirements.
 
+Link to an amendment published at 90 FR 48229, Oct. 10, 2025.
+
 Each person authorized under this part 153 that is not otherwise required to file information concerning the start of construction or modification of import/export facilities, the completion of construction or modification, and the commencement of service must file such information with the Commission within 10 days after such event. Each person, other than entities without pipeline capacity, must also report by March 1 of each year the estimated peak day capacity and actual peak day usage of its import/export facilities.
