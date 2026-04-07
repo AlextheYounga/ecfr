@@ -1,10 +1,10 @@
 ##### § 87.451 Licensing limitations.
 
-Operational fixed stations are subject to the following licensing limitations: 
+Operational fixed stations are subject to the following licensing limitations:
 
-(a) A maximum of four frequencies will be assigned. 
+(a) A maximum of four frequencies will be assigned.
 
-(b) Stations will not be authorized when applications indicate less than 16 km (10 miles) separation between a proposed station and a TV transmitter operating on either Channel 4 or 5, or from the post office of a community in which either channel is assigned but not in operation. 
+(b) Stations will not be authorized when applications indicate less than 16 km (10 miles) separation between a proposed station and a TV transmitter operating on either Channel 4 or 5, or from the post office of a community in which either channel is assigned but not in operation.
 
 (c) Stations located between 16 km (10 miles) and 128 km (80 miles) of a TV transmitter operating on either Channel 4 or 5, or from the post office of a community in which either channel is assigned but not in operation, are secondary to TV operations within the Grade B service contour. 1
 

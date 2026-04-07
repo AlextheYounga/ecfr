@@ -1,6 +1,6 @@
 ##### § 80.387 Frequencies for Alaska fixed stations.
 
-(a) The carrier frequencies listed in (b) of this section are assignable for point-to-point simplex radiotelephone communications between private fixed stations in Alaska. The frequency pairs listed in paragraph (d) of this section are assignable for point-to-point duplex radiotelephone communications between private and public fixed stations in Alaska. Fixed stations in Alaska authorized to share carrier frequencies with the maritime mobile service must always give priority on such frequencies to maritime distress, urgency and safety communications. 
+(a) The carrier frequencies listed in (b) of this section are assignable for point-to-point simplex radiotelephone communications between private fixed stations in Alaska. The frequency pairs listed in paragraph (d) of this section are assignable for point-to-point duplex radiotelephone communications between private and public fixed stations in Alaska. Fixed stations in Alaska authorized to share carrier frequencies with the maritime mobile service must always give priority on such frequencies to maritime distress, urgency and safety communications.
 
 (b) *Alaska private-fixed station frequencies:*
 
@@ -30,13 +30,13 @@ Carrier Frequencies (kHz)
 | 4 Use of these frequencies is on a secondary basis to Region 2 broadcasting.                                                                                                                                                                                                                                                                        |        |             |
 | 5 After April 1, 2007, use of the frequency 11601.5 kHz shall be on the condition that harmful interference is not caused to HF broadcasting.                                                                                                                                                                                                       |        |             |
 
-(c) Use of the frequencies in paragraph (b) of this section must meet the following conditions: 
+(c) Use of the frequencies in paragraph (b) of this section must meet the following conditions:
 
-(1) Communications between private coast and private fixed stations are prohibited; and 
+(1) Communications between private coast and private fixed stations are prohibited; and
 
-(2) Station licensees must not charge for third party communication services between their station and any other private fixed station. 
+(2) Station licensees must not charge for third party communication services between their station and any other private fixed station.
 
-(d) The following carrier frequency pairs are assignable for point-to-point communications between public fixed and private fixed stations: 
+(d) The following carrier frequency pairs are assignable for point-to-point communications between public fixed and private fixed stations:
 
 | Public fixed station frequencies (kHz)                                                                                                                                                                                                                                                     | Private fixed Station frequencies (kHz) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
@@ -55,10 +55,10 @@ Carrier Frequencies (kHz)
 | 3 Peak envelope power must not exceed 1 kW.                                                                                                                                                                                                                                                |                                         |
 | 4 Licensees must cease all communications on 5134.5 kHz and 5137.5 kHz when notified by the State of Alaska of an emergency or disaster. Licensees may resume communication on these frequencies when notified by the State of Alaska that the disaster or harmful interference has ended. |                                         |
 
-(e) The public fixed station frequencies are assignable to common carriers. 
+(e) The public fixed station frequencies are assignable to common carriers.
 
-(f) The private fixed station frequencies described in paragraph (d) of this section are assignable to private entities located in areas where common carrier facilities are not available. Private fixed stations operating on the frequencies in paragraph (d) of this section, must communicate with public fixed stations only. Private fixed stations are permitted to provide third party communications between their station and the public fixed stations. A charge for such service is prohibited. 
+(f) The private fixed station frequencies described in paragraph (d) of this section are assignable to private entities located in areas where common carrier facilities are not available. Private fixed stations operating on the frequencies in paragraph (d) of this section, must communicate with public fixed stations only. Private fixed stations are permitted to provide third party communications between their station and the public fixed stations. A charge for such service is prohibited.
 
-(g) U.S. Government frequencies will be authorized if the Commission determines that the assignment is in the public interest. 
+(g) U.S. Government frequencies will be authorized if the Commission determines that the assignment is in the public interest.
 
 \[51 FR 31213, Sept. 2, 1986, as amended at 52 FR 35245, Sept. 18, 1987; 56 FR 34030, July 25, 1991; 68 FR 25540, May 13, 2003\]

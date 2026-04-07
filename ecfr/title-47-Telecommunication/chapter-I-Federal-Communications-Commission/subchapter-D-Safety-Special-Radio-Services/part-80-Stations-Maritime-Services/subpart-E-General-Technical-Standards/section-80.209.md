@@ -1,6 +1,6 @@
 ##### § 80.209 Transmitter frequency tolerances.
 
-(a) The frequency tolerance requirements applicable to transmitters in the maritime services are shown in the following table. Tolerances are given as parts in 10 6 unless shown in Hz. 
+(a) The frequency tolerance requirements applicable to transmitters in the maritime services are shown in the following table. Tolerances are given as parts in 10 6 unless shown in Hz.
 
 | Frequency bands and categories of stations                                                                                                                                                                                                                                                                      | Tolerances 1 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -79,8 +79,8 @@
 | 6 \[Reserved\]                                                                                                                                                                                                                                                                                                  |              |
 | 7 For transmitters operated at private coast stations with antenna heights less than 6 meters (20 feet) above ground and output power of 25 watts or less the frequency tolerance is 10 parts in 10 6.                                                                                                          |              |
 
-(b) When pulse modulation is used in land and ship radar stations operating in the bands above 2.4 GHz the frequency at which maximum emission occurs must be within the authorized bandwidth and must not be closer than 1.5/T MHz to the upper and lower limits of the authorized bandwidth where “T” is the pulse duration in microseconds. In the band 14.00-14.05 GHz the center frequency must not vary more than 10 MHz from 14.025 GHz. 
+(b) When pulse modulation is used in land and ship radar stations operating in the bands above 2.4 GHz the frequency at which maximum emission occurs must be within the authorized bandwidth and must not be closer than 1.5/T MHz to the upper and lower limits of the authorized bandwidth where “T” is the pulse duration in microseconds. In the band 14.00-14.05 GHz the center frequency must not vary more than 10 MHz from 14.025 GHz.
 
-(c) For stations in the maritime radiodetermination service, other than ship radar stations, the authorized frequency tolerance will be specified on the license when it is not specified in this part. 
+(c) For stations in the maritime radiodetermination service, other than ship radar stations, the authorized frequency tolerance will be specified on the license when it is not specified in this part.
 
 \[51 FR 31213, Sept. 2, 1986, as amended at 52 FR 7418, Mar. 11, 1987; 53 FR 37308, Sept. 26, 1988; 54 FR 49994, Dec. 4, 1989; 57 FR 26778, June 16, 1992; 58 FR 33344, June 17, 1993; 62 FR 40306, July 28, 1997; 63 FR 36606, July 7, 1998; 68 FR 46964, Aug. 7, 2003; 76 FR 67611, Nov. 2, 2011\]

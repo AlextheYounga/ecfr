@@ -1,5 +1,7 @@
 ##### § 410.63 Hepatitis B vaccine and blood clotting factors: Conditions.
 
+Link to an amendment published at 89 FR 98556, Dec. 9, 2024.
+
 Notwithstanding the exclusion from coverage of vaccines (see § 411.15 of this chapter) and self-administered drugs (see § 410.29), the following services are included as medical and other health services covered under § 410.10, subject to the specified conditions:
 
 (a) *Hepatitis B vaccine: Conditions.* Effective September 1, 1984, hepatitis B vaccinations that are reasonable and necessary for the prevention of illness for those individuals who are at high or intermediate risk of contracting hepatitis B as listed below:

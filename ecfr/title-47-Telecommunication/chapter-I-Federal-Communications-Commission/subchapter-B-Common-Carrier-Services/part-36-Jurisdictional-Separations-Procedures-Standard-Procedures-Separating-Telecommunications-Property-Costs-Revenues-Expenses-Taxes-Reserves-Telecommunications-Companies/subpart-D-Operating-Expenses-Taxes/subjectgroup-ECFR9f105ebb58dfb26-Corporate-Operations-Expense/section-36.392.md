@@ -1,14 +1,14 @@
 ##### § 36.392 General and administrative—Account 6720.
 
-(a) These expenses are divided into two categories: 
+(a) These expenses are divided into two categories:
 
-(1) Extended Area Services (EAS). 
+(1) Extended Area Services (EAS).
 
-(2) All other. 
+(2) All other.
 
-(b) Extended Area Services (EAS) settlements are directly assigned to the exchange operation. 
+(b) Extended Area Services (EAS) settlements are directly assigned to the exchange operation.
 
-(c) The expenses in this account are apportioned among the operations on the basis of the separation of the cost of the combined Big Three Expenses which include the following accounts: 
+(c) The expenses in this account are apportioned among the operations on the basis of the separation of the cost of the combined Big Three Expenses which include the following accounts:
 
 Table 1 to Paragraph (c)
 | **Plant Specific Expenses**                  |               |

@@ -1,6 +1,6 @@
 ##### § 80.381 Frequencies for operational fixed stations.
 
-The following carrier frequencies in the 72-76 MHz band are assignable to operational fixed stations using vertical polarization, if no harmful interference is caused to TV reception on Channels 4 and 5. These frequencies are shared with the Land Mobile and Aviation Radio Services. 
+The following carrier frequencies in the 72-76 MHz band are assignable to operational fixed stations using vertical polarization, if no harmful interference is caused to TV reception on Channels 4 and 5. These frequencies are shared with the Land Mobile and Aviation Radio Services.
 
 Operational Fixed Frequencies in the 72-76 MHz Band
 

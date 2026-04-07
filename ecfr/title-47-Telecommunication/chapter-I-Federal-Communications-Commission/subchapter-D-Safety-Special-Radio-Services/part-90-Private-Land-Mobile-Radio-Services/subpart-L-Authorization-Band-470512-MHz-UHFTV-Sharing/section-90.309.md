@@ -1,14 +1,14 @@
 ##### § 90.309 Tables and figures.
 
-(a) *Directions for using the tables.* (1) Using the method specified in § 1.958 of this chapter, determine the distances between the proposed land mobile base station and the protected co-channel television station and between the proposed land mobile base station and the protected adjacent channel television station. If the exact mileage does not appear in table A for protected co-channel television stations (or table B for channel 15 in New York and Cleveland and channel 16 in Detroit) or table E for protected adjacent channel television stations, the next lower mileage separation figure is to be used. 
+(a) *Directions for using the tables.* (1) Using the method specified in § 1.958 of this chapter, determine the distances between the proposed land mobile base station and the protected co-channel television station and between the proposed land mobile base station and the protected adjacent channel television station. If the exact mileage does not appear in table A for protected co-channel television stations (or table B for channel 15 in New York and Cleveland and channel 16 in Detroit) or table E for protected adjacent channel television stations, the next lower mileage separation figure is to be used.
 
-(2) Entering the proper table at the mileage figure found in paragraph (a)(1) of this section, find opposite, a selection of powers that may be used for antenna heights ranging from 15 m (50 ft) to 152.5 m (500 ft) (AAT). If the exact antenna height proposed for the land mobile base station does not appear in the proper table, use the power figure beneath the next greater antenna height. 
+(2) Entering the proper table at the mileage figure found in paragraph (a)(1) of this section, find opposite, a selection of powers that may be used for antenna heights ranging from 15 m (50 ft) to 152.5 m (500 ft) (AAT). If the exact antenna height proposed for the land mobile base station does not appear in the proper table, use the power figure beneath the next greater antenna height.
 
-(3) The lowest power found using the tables mentioned in paragraphs (a)(1) and (a)(2) of this section is the maximum power that may be employed by the proposed land mobile base station. 
+(3) The lowest power found using the tables mentioned in paragraphs (a)(1) and (a)(2) of this section is the maximum power that may be employed by the proposed land mobile base station.
 
-(4) In determining the average elevation of the terrain, the elevations between 3.2 kilometers (2 miles) and 16 kilometers (10 miles) from the antenna site are employed. Profile graphs shall be drawn for a minimum of eight radials beginning at the antenna site and extending 16 kilometers (10 miles). The radials should be drawn starting with true north. At least one radial should be constructed in the direction of the nearest co-channel and adjacent channel UHF television stations. The profile graph for each radial shall be plotted by contour intervals of from 12.2 meters (40 feet) to 30.5 meters (100 feet) and, where the data permits, at least 50 points of elevation (generally uniformly spaced) should be used for each radial. For very rugged terrain, 61 meters (200 feet) to 122 meters (400 foot) contour intervals may be used. Where the terrain is uniform or gently sloping, the smallest contour interval indicated on the topographic chart may be used. The average elevation of the 12.8 kilometer (8 mile) distance between 3.2 kilometers (2 miles) and 16 kilometers (10 miles) from the antenna site should be determined from the profile graph for each radial. This may be obtained by averaging a large number of equally spaced points, by using a planimeter, or by obtaining the median elevation (that exceeded by 50 percent of the distance) in sectors and averaging those values. In the preparation of the profile graphs, the elevation or contour intervals may be taken from U.S. Geological Survey Topographic Maps, U.S. Army Corps of Engineers Maps, or Tennessee Valley Authority Maps. Maps with a scale of 1:250,000 or larger (such as 1:24,000) shall be used. Digital Terrain Data Tapes, provided by the National Cartographic Institute, U.S. Geologic Survey, may be utilized in lieu of maps, but the number of data points must be equal to or exceed that specified above. If such maps are not published for the area in question, the next best topographic information should be used. 
+(4) In determining the average elevation of the terrain, the elevations between 3.2 kilometers (2 miles) and 16 kilometers (10 miles) from the antenna site are employed. Profile graphs shall be drawn for a minimum of eight radials beginning at the antenna site and extending 16 kilometers (10 miles). The radials should be drawn starting with true north. At least one radial should be constructed in the direction of the nearest co-channel and adjacent channel UHF television stations. The profile graph for each radial shall be plotted by contour intervals of from 12.2 meters (40 feet) to 30.5 meters (100 feet) and, where the data permits, at least 50 points of elevation (generally uniformly spaced) should be used for each radial. For very rugged terrain, 61 meters (200 feet) to 122 meters (400 foot) contour intervals may be used. Where the terrain is uniform or gently sloping, the smallest contour interval indicated on the topographic chart may be used. The average elevation of the 12.8 kilometer (8 mile) distance between 3.2 kilometers (2 miles) and 16 kilometers (10 miles) from the antenna site should be determined from the profile graph for each radial. This may be obtained by averaging a large number of equally spaced points, by using a planimeter, or by obtaining the median elevation (that exceeded by 50 percent of the distance) in sectors and averaging those values. In the preparation of the profile graphs, the elevation or contour intervals may be taken from U.S. Geological Survey Topographic Maps, U.S. Army Corps of Engineers Maps, or Tennessee Valley Authority Maps. Maps with a scale of 1:250,000 or larger (such as 1:24,000) shall be used. Digital Terrain Data Tapes, provided by the National Cartographic Institute, U.S. Geologic Survey, may be utilized in lieu of maps, but the number of data points must be equal to or exceed that specified above. If such maps are not published for the area in question, the next best topographic information should be used.
 
-(5) Applicants for base stations in the Miami, FL, urbanized area may, in lieu of calculating the height of average terrain, use 3 m (10 ft) as the average terrain height. 
+(5) Applicants for base stations in the Miami, FL, urbanized area may, in lieu of calculating the height of average terrain, use 3 m (10 ft) as the average terrain height.
 
 Table A—Base Station—Cochannel Frequencies (50 dB Protection) Maximum Effective Radiated Power (ERP) 1
 | Distance in kilometers (miles): 2                                                                                                    | Antenna height in meters (feet) (AAT) |
@@ -116,18 +116,18 @@ Table “F”—Decibel Reduction/Power Equivalents
 | 29                      | 1.25                            |
 | 30                      | 1                               |
 
-(b) *Directions for Using the Figures.* (1) Determine antenna height above average terrain. (According to § 90.309(a)(4).) 
+(b) *Directions for Using the Figures.* (1) Determine antenna height above average terrain. (According to § 90.309(a)(4).)
 
-(2) Locate this value on the antenna height axis. 
+(2) Locate this value on the antenna height axis.
 
-(3) Determine the separation between the LM antenna site and the nearest protected co-channel TV station. (According to § 73.611.) 
+(3) Determine the separation between the LM antenna site and the nearest protected co-channel TV station. (According to § 73.611.)
 
-(4) Draw a vertical line to intersect the LM/TV separation curve at the distance determined in step 3 above. For distances not shown in the graph use linear interpolation. 
+(4) Draw a vertical line to intersect the LM/TV separation curve at the distance determined in step 3 above. For distances not shown in the graph use linear interpolation.
 
-(5) From the intersection of the LM/TV separation curve draw a horizontal line to the power reduction scale. 
+(5) From the intersection of the LM/TV separation curve draw a horizontal line to the power reduction scale.
 
-(6) The power reduction in dB determines the reduction below 1 kW that must be achieved. 
+(6) The power reduction in dB determines the reduction below 1 kW that must be achieved.
 
-(7) See table F for dB/power equivalents. 
+(7) See table F for dB/power equivalents.
 
 ![](/graphics/ec02ap91.010.gif)![](/graphics/ec02ap91.011.gif)(Section 0.231(d) of the Commission's Rules and secs. 4(i) and 303 of the Communications Act, as amended) \[43 FR 54791, Nov. 22, 1978, as amended at 49 FR 36107, Sept. 14, 1984; 49 FR 49837, Dec. 17, 1984; 58 FR 44958, Aug. 25, 1993; 70 FR 19312, Apr. 13, 2005; 72 FR 35197, June 27, 2007\]

@@ -1,8 +1,8 @@
 ##### § 80.357 Working frequencies for Morse code and data transmission.
 
-This section describes the working frequencies assignable to maritime stations for A1A, J2A, J2B (2000-27500 kHz band only), or J2D (2000-27500 kHz band only) radiotelegraphy. 
+This section describes the working frequencies assignable to maritime stations for A1A, J2A, J2B (2000-27500 kHz band only), or J2D (2000-27500 kHz band only) radiotelegraphy.
 
-(a) *Ship station frequencies*—(1) *Frequencies in the 100-160 kHz band.* The following table describes the working carrier frequencies in the 100-160 kHz band which are assignable to ship stations. A ship station may also transmit on a radiotelegraphy working channel of a coast station within the 100-160 kHz band when directed to do so by the coast station provided interference is not caused to any land, fixed, broadcast, or radiolocation station. 
+(a) *Ship station frequencies*—(1) *Frequencies in the 100-160 kHz band.* The following table describes the working carrier frequencies in the 100-160 kHz band which are assignable to ship stations. A ship station may also transmit on a radiotelegraphy working channel of a coast station within the 100-160 kHz band when directed to do so by the coast station provided interference is not caused to any land, fixed, broadcast, or radiolocation station.
 
 |  | 100-160 (kHz) |  |
 |  | ------------- |  |
@@ -14,7 +14,7 @@ This section describes the working frequencies assignable to maritime stations f
 |  | 157           |  |
 |  | 158           |  |
 
-(2) *Frequencies in the 405-525 kHz band.* The following table describes the working carrier frequencies in the 405-525 kHz band which are assignable to ship stations. A ship station may transmit on a radiotelegraphy working channel of a coast station in the 415-490 kHz band when directed to do so by the coast station. 
+(2) *Frequencies in the 405-525 kHz band.* The following table describes the working carrier frequencies in the 405-525 kHz band which are assignable to ship stations. A ship station may transmit on a radiotelegraphy working channel of a coast station in the 415-490 kHz band when directed to do so by the coast station.
 
 |                                                                                                                                                                                                                                                                                                                                                  | 405-525 (kHz) |  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |  |
@@ -29,9 +29,9 @@ This section describes the working frequencies assignable to maritime stations f
 | 2 The frequency 512 kHz may be used as a supplementary calling frequency when 500 kHz is used for distress, safety and urgency communications. The use of the 512 kHz as a working frequency is prohibited in areas where it is used as a supplementary calling frequency when 500 kHz is used for distress, safety, and urgency communications. |               |  |
 | 3 The frequency 518 kHz is a receive only frequency by ship stations. It is used by U.S. Coast Guard coast stations for NB-DP transmissions of meteorological and navigational warnings to ships.                                                                                                                                                |               |  |
 
-(3) *Frequencies in the 2000-27500 kHz band.* This paragraph describes the working frequencies and Channel Series in the 2000-27500 kHz band which are assignable to ship stations. 
+(3) *Frequencies in the 2000-27500 kHz band.* This paragraph describes the working frequencies and Channel Series in the 2000-27500 kHz band which are assignable to ship stations.
 
-(i) Two Channel Series will be assigned for routine use to each ship station. Frequencies from any other Channel Series may be used if the frequencies in the assigned Channel Series are not adequate for communications. 
+(i) Two Channel Series will be assigned for routine use to each ship station. Frequencies from any other Channel Series may be used if the frequencies in the assigned Channel Series are not adequate for communications.
 
 Ship Morse Working Frequencies (kHz)
 | Channel Series: |        |        |        |         |         |         |         |
@@ -222,9 +222,9 @@ Ship Morse Working Frequencies (kHz)
 |                 |        |        | 8344.5 | 12428.5 | 16680.5 | 22266.0 |         |
 |                 |        |        |        |         | 16678.0 |         |         |
 
-(ii) If the frequencies listed in paragraph (3)(i) of this section are not adequate for communications, ship stations may use any of the non-paired narrow-band direct-printing frequencies listed in § 80.361(b) of this part for A1A or J2A radiotelegraphy. 
+(ii) If the frequencies listed in paragraph (3)(i) of this section are not adequate for communications, ship stations may use any of the non-paired narrow-band direct-printing frequencies listed in § 80.361(b) of this part for A1A or J2A radiotelegraphy.
 
-(b) *Coast station frequencies*—(1) *Frequencies in the 100-27500 kHz band.* The following table describes the working carrier frequencies in the 100-27500 kHz band which are assignable to coast stations located in the designated geographical areas. The exclusive maritime mobile HF bands listed in the table contained in § 80.363(a)(2) of this chapter are also available for assignment to public coast stations for A1A, J2A, J2B, or J2D radiotelegraphy following coordination with government users. 
+(b) *Coast station frequencies*—(1) *Frequencies in the 100-27500 kHz band.* The following table describes the working carrier frequencies in the 100-27500 kHz band which are assignable to coast stations located in the designated geographical areas. The exclusive maritime mobile HF bands listed in the table contained in § 80.363(a)(2) of this chapter are also available for assignment to public coast stations for A1A, J2A, J2B, or J2D radiotelegraphy following coordination with government users.
 
 | Area                                                                                                                                                                                         | Bands 1 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
@@ -285,12 +285,12 @@ Ship Morse Working Frequencies (kHz)
 |                                                                                                                                                                                              |         |
 | 1 All frequencies in this table are shown in kilohertz. The use of frequencies in the 472-479 kHz band is restricted to public coast stations that were licensed on or before July 14, 2017. |         |
 
-(2) *Conditions of use.* The following conditions are applicable to these frequencies: 
+(2) *Conditions of use.* The following conditions are applicable to these frequencies:
 
-(i) Frequencies in the 100-160 kHz band are assignable to coast stations for high seas communications only; 
+(i) Frequencies in the 100-160 kHz band are assignable to coast stations for high seas communications only;
 
-(ii) Frequencies above 5 MHz may be assigned primarily to stations serving the high seas and secondarily to stations serving inland waters of the United States, including the Great Lakes, under the condition that interference will not be caused to any coast station serving the high seas. 
+(ii) Frequencies above 5 MHz may be assigned primarily to stations serving the high seas and secondarily to stations serving inland waters of the United States, including the Great Lakes, under the condition that interference will not be caused to any coast station serving the high seas.
 
-(iii) The frequency 410 kHz may be used on a secondary basis for the transmission of radiodetermination information and for transmitting by radiotelegraph radiodetermination messages to direction-finding stations; and 
+(iii) The frequency 410 kHz may be used on a secondary basis for the transmission of radiodetermination information and for transmitting by radiotelegraph radiodetermination messages to direction-finding stations; and
 
 \[51 FR 31213, Sept. 2, 1986; 51 FR 34984, Oct. 1, 1986, as amended at 56 FR 9887, Mar. 8, 1991; 56 FR 34029, July 25, 1991; 65 FR 77824, Dec. 13, 2000; 67 FR 48264, July 15, 2002; 68 FR 46969, Aug. 7, 2003; 69 FR 64674, Nov. 8, 2004; 82 FR 27213, June 14, 2017; 82 FR 48460, Oct. 18, 2017\]

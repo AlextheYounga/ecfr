@@ -1,14 +1,14 @@
 ##### § 87.475 Frequencies.
 
-(a) *Frequency coordination.* The Commission will assign frequencies to radionavigation land stations and radionavigation land test stations after coordination with the FAA. The applicant must notify the appropriate Regional Office of the FAA prior to submission to the Commission of an application for a new station or for modification of an existing station to change frequency, power, location or emission. Each application must include the FAA Regional Office notified and date of notification. 
+(a) *Frequency coordination.* The Commission will assign frequencies to radionavigation land stations and radionavigation land test stations after coordination with the FAA. The applicant must notify the appropriate Regional Office of the FAA prior to submission to the Commission of an application for a new station or for modification of an existing station to change frequency, power, location or emission. Each application must include the FAA Regional Office notified and date of notification.
 
-(b) *Frequencies available for radionavigation land stations.* (1) LORAN-C is a long range navigation system which operates in the 90-110 kHz band. 
+(b) *Frequencies available for radionavigation land stations.* (1) LORAN-C is a long range navigation system which operates in the 90-110 kHz band.
 
-(2) Radiobeacon stations enable an aircraft station to determine bearing or direction in relation to the radiobeacon station. Radiobeacons operate in the bands 190-285 kHz; 325-435 kHz; 510-525 kHz; and 525-535 kHz. Radiobeacons may be authorized, primarily for off-shore use, in the band 525-535 kHz on a non-interference basis to travelers information stations. 
+(2) Radiobeacon stations enable an aircraft station to determine bearing or direction in relation to the radiobeacon station. Radiobeacons operate in the bands 190-285 kHz; 325-435 kHz; 510-525 kHz; and 525-535 kHz. Radiobeacons may be authorized, primarily for off-shore use, in the band 525-535 kHz on a non-interference basis to travelers information stations.
 
-(3) Aeronautical marker beacon stations radiate a vertical distinctive pattern on 75 MHz which provides position information to aircraft. 
+(3) Aeronautical marker beacon stations radiate a vertical distinctive pattern on 75 MHz which provides position information to aircraft.
 
-(4) The following table lists the specific frequencies in the 108.100-111.950 MHz band which are assignable to localizer stations with simultaneous radiotelephone channels and their associated glide path station frequency from the 328.600-335.400 MHz band. 
+(4) The following table lists the specific frequencies in the 108.100-111.950 MHz band which are assignable to localizer stations with simultaneous radiotelephone channels and their associated glide path station frequency from the 328.600-335.400 MHz band.
 
 | Localizer (MHz) | Glide path (MHz) |
 | --------------- | ---------------- |
@@ -53,7 +53,7 @@
 | 111.900         | 331.100          |
 | 111.950         | 330.950          |
 
-(5) VHF omni-range (VOR) stations are to be assigned frequencies in the 112.050-117.950 MHz band (50 kHz channel spacing) and the following frequencies in the 108-112 MHz band: 
+(5) VHF omni-range (VOR) stations are to be assigned frequencies in the 112.050-117.950 MHz band (50 kHz channel spacing) and the following frequencies in the 108-112 MHz band:
 
 *   108.200
 *   108.250
@@ -95,7 +95,7 @@
 *   111.850
 *   112.000
 
-(6) The band 960-1215 MHz is available for the use of land stations and associated airborne electronic aids to air navigation. When distance measuring equipment (DME) is intended to operate with a single VHF navigation station in the 108-117.975 MHz band, the DME operating channel must be paired with the VHF channel as shown in the following table: 
+(6) The band 960-1215 MHz is available for the use of land stations and associated airborne electronic aids to air navigation. When distance measuring equipment (DME) is intended to operate with a single VHF navigation station in the 108-117.975 MHz band, the DME operating channel must be paired with the VHF channel as shown in the following table:
 
 DME Channeling and Pairing
 
@@ -303,42 +303,42 @@ DME Channeling and Pairing
 | 117.900     | 1150.000                         | 1213.000               |
 | 117.950     | 1150.000                         | 1087.000               |
 
-(7) 978.0 MHz is authorized for Universal Access Transceiver service. 
+(7) 978.0 MHz is authorized for Universal Access Transceiver service.
 
-(8) 1300-1350 MHz: The use of this band is restricted to surveillance radar stations and associated airborne transponders. 
+(8) 1300-1350 MHz: The use of this band is restricted to surveillance radar stations and associated airborne transponders.
 
-(9) 1559-1626.5 MHz: The use of this band is limited to airborne electronic aids to air navigation and any associated land stations. 
+(9) 1559-1626.5 MHz: The use of this band is limited to airborne electronic aids to air navigation and any associated land stations.
 
-(10) 2700-2900 MHz: Non-Government land-based radars may be licensed. U.S. Government coordination is required. Applicants must demonstrate a need for the service which the Government is not prepared to render. 
+(10) 2700-2900 MHz: Non-Government land-based radars may be licensed. U.S. Government coordination is required. Applicants must demonstrate a need for the service which the Government is not prepared to render.
 
-(11) 5000-5250 MHz: This band is to be used for the operation of the international standard system (microwave landing system). 
+(11) 5000-5250 MHz: This band is to be used for the operation of the international standard system (microwave landing system).
 
-(12) 9000-9200 MHz: This band is available to land-based radars. Stations operating in this band may receive interference from stations operating in the radiolocation service. 
+(12) 9000-9200 MHz: This band is available to land-based radars. Stations operating in this band may receive interference from stations operating in the radiolocation service.
 
-(13) 15,400-15,700 MHz: This band is available for use of land stations associated with airborne electronic aids to air navigation. 
+(13) 15,400-15,700 MHz: This band is available for use of land stations associated with airborne electronic aids to air navigation.
 
-(14) 24,250-25,250, 32,300-33,400 MHz: In these bands, land-based radionavigation aids are permitted where they operate with airborne radionavigation devices. 
+(14) 24,250-25,250, 32,300-33,400 MHz: In these bands, land-based radionavigation aids are permitted where they operate with airborne radionavigation devices.
 
-(c) *Frequencies available for radionavigation land test stations.* (1) The frequencies set forth in §§ 87.187(c), (e) through (j), (r), (t), and (ff); and 87.475(b)(6) through (b)(11) may be assigned to radionavigation land test stations for the testing of aircraft transmitting equipment that normally operate on these frequencies and for the testing of land-based receiving equipment that operate with airborne radionavigation equipment. 
+(c) *Frequencies available for radionavigation land test stations.* (1) The frequencies set forth in §§ 87.187(c), (e) through (j), (r), (t), and (ff); and 87.475(b)(6) through (b)(11) may be assigned to radionavigation land test stations for the testing of aircraft transmitting equipment that normally operate on these frequencies and for the testing of land-based receiving equipment that operate with airborne radionavigation equipment.
 
-(2) The frequencies available for assignment to radionavigation land test stations for the testing of airborne receiving equipment are 108.000 and 108.050 MHz for VHF omni-range; 108.100 and 108.150 MHz for localizer; 334.550 and 334.700 MHz for glide slope; 978 and 979 MHz (X channel)/1104 MHz (Y channel) for DME; 978 MHz for Universal Access Transceiver; 1030 MHz for air traffic control radar beacon transponders; 1090 MHz for Traffic Alert and Collision Avoidance Systems (TCAS); and 5031.0 MHz for microwave landing systems. Additionally, the frequencies in paragraph (b) of this section may be assigned to radionavigation land test stations after coordination with the FAA. The following conditions apply:after coordination with the FAA. The following conditions apply: 
+(2) The frequencies available for assignment to radionavigation land test stations for the testing of airborne receiving equipment are 108.000 and 108.050 MHz for VHF omni-range; 108.100 and 108.150 MHz for localizer; 334.550 and 334.700 MHz for glide slope; 978 and 979 MHz (X channel)/1104 MHz (Y channel) for DME; 978 MHz for Universal Access Transceiver; 1030 MHz for air traffic control radar beacon transponders; 1090 MHz for Traffic Alert and Collision Avoidance Systems (TCAS); and 5031.0 MHz for microwave landing systems. Additionally, the frequencies in paragraph (b) of this section may be assigned to radionavigation land test stations after coordination with the FAA. The following conditions apply:after coordination with the FAA. The following conditions apply:
 
-(i) The maximum power authorized on the frequencies 108.150 and 334.550 MHz is 1 milliwatt. The maximum power authorized on all other frequencies is one watt. 
+(i) The maximum power authorized on the frequencies 108.150 and 334.550 MHz is 1 milliwatt. The maximum power authorized on all other frequencies is one watt.
 
-(ii) The pulse repetition rate (PRR) of the 1030 MHz ATC radar beacon test set will be 235 pulses per second (pps) ±5pps. 
+(ii) The pulse repetition rate (PRR) of the 1030 MHz ATC radar beacon test set will be 235 pulses per second (pps) ±5pps.
 
-(iii) The assignment of 108.000 MHz is subject to the condition that no interference will be caused to the reception of FM broadcasting stations and stations using the frequency are not protected against interference from FM broadcasting stations. 
+(iii) The assignment of 108.000 MHz is subject to the condition that no interference will be caused to the reception of FM broadcasting stations and stations using the frequency are not protected against interference from FM broadcasting stations.
 
-(d) *Frequencies available for ELT test stations.* The frequencies available for assignment to ELT test stations are 121.600, 121.650, 121.700, 121.750, 121.800, 121.850, and 121.900 MHz. Licensees must: 
+(d) *Frequencies available for ELT test stations.* The frequencies available for assignment to ELT test stations are 121.600, 121.650, 121.700, 121.750, 121.800, 121.850, and 121.900 MHz. Licensees must:
 
-(1) Not cause harmful interference to voice communications on these frequencies or any harmonically related frequency. 
+(1) Not cause harmful interference to voice communications on these frequencies or any harmonically related frequency.
 
-(2) Coordinate with the appropriate FAA Regional Spectrum Management Office prior to each activation of the transmitter. 
+(2) Coordinate with the appropriate FAA Regional Spectrum Management Office prior to each activation of the transmitter.
 
-(e) *Frequencies available for differential GPS stations.* Frequencies in the 112-118 MHz band may be assigned to Special Category I (SCAT-I) ground stations for differential GPS data links. 
+(e) *Frequencies available for differential GPS stations.* Frequencies in the 112-118 MHz band may be assigned to Special Category I (SCAT-I) ground stations for differential GPS data links.
 
-(1) The frequencies available are on 25 kHz centers with the lowest assignable frequency being centered at 112.000 MHz and the highest assignable frequency being centered at 117.950 MHz. 
+(1) The frequencies available are on 25 kHz centers with the lowest assignable frequency being centered at 112.000 MHz and the highest assignable frequency being centered at 117.950 MHz.
 
-(2) Applicants must coordinate a frequency, time slot assignment, and three-letter identifier with the FAA and provide this information to the Commission upon application. 
+(2) Applicants must coordinate a frequency, time slot assignment, and three-letter identifier with the FAA and provide this information to the Commission upon application.
 
 \[53 FR 28940, Aug. 1, 1988, as amended at 54 FR 11721, Mar. 22, 1989; 63 FR 68958, Dec. 14, 1998; 64 FR 27476, May 20, 1999; 69 FR 32886, June 14, 2004; 71 FR 70680, Dec. 6, 2006; 78 FR 61207, Oct. 3, 2013\] Editorial Note:At 80 FR 38911, July 7, 2015, § 87.475 was amended by adding paragraphs (b)(11) and (14), however these paragraphs already existed, and the amendment could not be incorporated.
