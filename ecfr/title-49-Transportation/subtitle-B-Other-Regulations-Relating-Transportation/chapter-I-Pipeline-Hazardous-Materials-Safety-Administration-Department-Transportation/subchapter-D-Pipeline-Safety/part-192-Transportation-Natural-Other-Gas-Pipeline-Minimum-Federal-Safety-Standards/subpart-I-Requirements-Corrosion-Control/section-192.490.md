@@ -1,6 +1,6 @@
 ##### § 192.490 Direct assessment.
 
-Each operator that uses direct assessment as defined in § 192.903 on an onshore transmission line made primarily of steel or iron to evaluate the effects of a threat in the first column must carry out the direct assessment according to the standard listed in the second column. These standards do not apply to methods associated with direct assessment, such as close interval surveys, voltage gradient surveys, or examination of exposed pipelines, when used separately from the direct assessment process.
+Each operator that uses direct assessment as defined in § 192.903 on an onshore transmission line made primarily of steel or iron to evaluate the effects of a threat in the first column must carry out the direct assessment according to the standard listed in the second column. These standards do not apply to methods associated with direct assessment, such as close interval surveys, voltage gradient surveys, or examination of exposed pipelines, when used separately from the direct assessment process. 
 
 | Threat                                                                                                                                                                                                                   | Standard 1  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |

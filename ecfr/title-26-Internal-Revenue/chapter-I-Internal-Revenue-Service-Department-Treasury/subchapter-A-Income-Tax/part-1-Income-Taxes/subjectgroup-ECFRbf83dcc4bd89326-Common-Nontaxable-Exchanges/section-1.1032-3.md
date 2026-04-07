@@ -1,24 +1,24 @@
 ##### § 1.1032-3 Disposition of stock or stock options in certain transactions not qualifying under any other nonrecognition provision.
 
-(a) *Scope.* This section provides rules for certain transactions in which a corporation or a partnership (the acquiring entity) acquires money or other property (as defined in § 1.1032-1) in exchange, in whole or in part, for stock of a corporation (the issuing corporation).
+(a) *Scope.* This section provides rules for certain transactions in which a corporation or a partnership (the acquiring entity) acquires money or other property (as defined in § 1.1032-1) in exchange, in whole or in part, for stock of a corporation (the issuing corporation). 
 
-(b) *Nonrecognition of gain or loss*—(1) *General rule.* In a transaction to which this section applies, no gain or loss is recognized on the disposition of the issuing corporation's stock by the acquiring entity. The transaction is treated as if, immediately before the acquiring entity disposes of the stock of the issuing corporation, the acquiring entity purchased the issuing corporation's stock from the issuing corporation for fair market value with cash contributed to the acquiring entity by the issuing corporation (or, if necessary, through intermediate corporations or partnerships). For rules that may apply in determining the issuing corporation's adjustment to basis in the acquiring entity (or, if necessary, in determining the adjustment to basis in intermediate entities), see sections 358, 722, and the regulations thereunder.
+(b) *Nonrecognition of gain or loss*—(1) *General rule.* In a transaction to which this section applies, no gain or loss is recognized on the disposition of the issuing corporation's stock by the acquiring entity. The transaction is treated as if, immediately before the acquiring entity disposes of the stock of the issuing corporation, the acquiring entity purchased the issuing corporation's stock from the issuing corporation for fair market value with cash contributed to the acquiring entity by the issuing corporation (or, if necessary, through intermediate corporations or partnerships). For rules that may apply in determining the issuing corporation's adjustment to basis in the acquiring entity (or, if necessary, in determining the adjustment to basis in intermediate entities), see sections 358, 722, and the regulations thereunder. 
 
-(2) *Special rule for actual payment for stock of the issuing corporation.* If the issuing corporation receives money or other property in payment for its stock, the amount of cash deemed contributed under paragraph (b)(1) of this section is the difference between the fair market value of the issuing corporation stock and the amount of money or the fair market value of other property that the issuing corporation receives as payment.
+(2) *Special rule for actual payment for stock of the issuing corporation.* If the issuing corporation receives money or other property in payment for its stock, the amount of cash deemed contributed under paragraph (b)(1) of this section is the difference between the fair market value of the issuing corporation stock and the amount of money or the fair market value of other property that the issuing corporation receives as payment. 
 
-(c) *Applicability.* The rules of this section apply only if, pursuant to a plan to acquire money or other property—
+(c) *Applicability.* The rules of this section apply only if, pursuant to a plan to acquire money or other property— 
 
-(1) The acquiring entity acquires stock of the issuing corporation directly or indirectly from the issuing corporation in a transaction in which, but for this section, the basis of the stock of the issuing corporation in the hands of the acquiring entity would be determined, in whole or in part, with respect to the issuing corporation's basis in the issuing corporation's stock under section 362(a) or 723 (provided that, in the case of an indirect acquisition by the acquiring entity, the transfers of issuing corporation stock through intermediate entities occur immediately after one another);
+(1) The acquiring entity acquires stock of the issuing corporation directly or indirectly from the issuing corporation in a transaction in which, but for this section, the basis of the stock of the issuing corporation in the hands of the acquiring entity would be determined, in whole or in part, with respect to the issuing corporation's basis in the issuing corporation's stock under section 362(a) or 723 (provided that, in the case of an indirect acquisition by the acquiring entity, the transfers of issuing corporation stock through intermediate entities occur immediately after one another); 
 
-(2) The acquiring entity immediately transfers the stock of the issuing corporation to acquire money or other property (from a person other than an entity from which the stock was directly or indirectly acquired);
+(2) The acquiring entity immediately transfers the stock of the issuing corporation to acquire money or other property (from a person other than an entity from which the stock was directly or indirectly acquired); 
 
-(3) The party receiving stock of the issuing corporation in the exchange specified in paragraph (c)(2) of this section from the acquiring entity does not receive a substituted basis in the stock of the issuing corporation within the meaning of section 7701(a)(42); and
+(3) The party receiving stock of the issuing corporation in the exchange specified in paragraph (c)(2) of this section from the acquiring entity does not receive a substituted basis in the stock of the issuing corporation within the meaning of section 7701(a)(42); and 
 
-(4) The issuing corporation stock is not exchanged for stock of the issuing corporation.
+(4) The issuing corporation stock is not exchanged for stock of the issuing corporation. 
 
-(d) *Stock options.* The rules of this section shall apply to an option issued by a corporation to buy or sell its own stock in the same manner as the rules of this section apply to the stock of an issuing corporation.
+(d) *Stock options.* The rules of this section shall apply to an option issued by a corporation to buy or sell its own stock in the same manner as the rules of this section apply to the stock of an issuing corporation. 
 
-(e) *Examples.* The following examples illustrate the application of this section:
+(e) *Examples.* The following examples illustrate the application of this section: 
 
 Example 1.(i) *X,* a corporation, owns all of the stock of *Y* corporation. *Y* reaches an agreement with *C,* an individual, to acquire a truck from *C* in exchange for 10 shares of *X* stock with a fair market value of $100. To effectuate *Y'*s agreement with *C,X* transfers to *Y* the *X* stock in a transaction in which, but for this section, the basis of the *X* stock in the hands of *Y* would be determined with respect to *X'*s basis in the *X* stock under section 362(a). *Y* immediately transfers the *X* stock to *C* to acquire the truck.
 
@@ -60,6 +60,6 @@ Example 10.(i) In Year 1, *X,* a corporation, forms a trust which will be used t
 
 (ii) In this *Example 10, X* is considered to be the grantor of the trust, and, under section 677, *X* is also the owner of the trust. Any income earned by the trust would be reflected on *X*'s income tax return. *Y* is not considered a grantor or owner of the trust corpus at the time *X* transfers *X* stock to the trust. In Year 5, when employees of *Y* receive X stock in satisfaction of the deferred compensation obligation, no gain or loss is recognized on the deemed disposition of the *X* stock by *Y.* Immediately before *Y*'s deemed disposition of the *X* stock, *Y* is treated as purchasing the *X* stock from *X* for fair market value using cash contributed to *Y* by *X.* Under section 358, *X*'s basis in its *Y* stock increases by the amount of cash deemed contributed.
 
-(f) *Effective date.* This section applies to transfers of stock or stock options of the issuing corporation occurring on or after May 16, 2000.
+(f) *Effective date.* This section applies to transfers of stock or stock options of the issuing corporation occurring on or after May 16, 2000. 
 
 \[T.D. 8883, 65 FR 31076, May 16, 2000; 65 FR 37482, June 15, 2000\]

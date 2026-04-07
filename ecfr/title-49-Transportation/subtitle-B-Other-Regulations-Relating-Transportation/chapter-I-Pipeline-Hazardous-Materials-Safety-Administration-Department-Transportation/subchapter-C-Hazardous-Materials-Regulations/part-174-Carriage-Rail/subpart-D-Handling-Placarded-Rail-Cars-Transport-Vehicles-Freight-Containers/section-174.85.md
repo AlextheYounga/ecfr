@@ -1,12 +1,12 @@
 ##### § 174.85 Position in train of placarded cars, transport vehicles, freight containers, and bulk packagings.
 
-(a) Except as provided in paragraphs (b) and (c) of this section, the position in a train of each loaded placarded car, transport vehicle, freight container, and bulk packaging must conform to the provisions of this section.
+(a) Except as provided in paragraphs (b) and (c) of this section, the position in a train of each loaded placarded car, transport vehicle, freight container, and bulk packaging must conform to the provisions of this section. 
 
-(b) A car placarded “RADIOACTIVE” must comply with train positioning requirements of paragraph (d) of this section and must be separated from a locomotive, occupied caboose, or carload of undeveloped film by at least one non-placarded car.
+(b) A car placarded “RADIOACTIVE” must comply with train positioning requirements of paragraph (d) of this section and must be separated from a locomotive, occupied caboose, or carload of undeveloped film by at least one non-placarded car. 
 
-(c) A tank car containing the residue of a hazardous material must be separated from a locomotive or occupied caboose by at least one rail car other than a placarded tank car.
+(c) A tank car containing the residue of a hazardous material must be separated from a locomotive or occupied caboose by at least one rail car other than a placarded tank car. 
 
-(d) Position of rail cars in a train. In the following table:
+(d) Position of rail cars in a train. In the following table: 
 
 Position in Train of Placarded Cars Transporting Hazardous Materials
 | RESTRICTIONS                                                                                                                                                                                                                                                                          | Placard Group 1 | Placard Group 2 | Placard Group 3 | Placard Group 4 |
@@ -27,10 +27,10 @@ Position in Train of Placarded Cars Transporting Hazardous Materials
 | Group 3—Divisions 2.3 (Zone A; poisonous gas) and 6.1 (PG I, Zone A; poisonous liquid) materials.                                                                                                                                                                                     |                 |                 |                 |                 |
 | Group 4—Class 7 (radioactive) materials.                                                                                                                                                                                                                                              |                 |                 |                 |                 |
 
-(1) Where an “X” appears at the intersection of a Placard Group column and a Restriction row, the corresponding restriction applies.
+(1) Where an “X” appears at the intersection of a Placard Group column and a Restriction row, the corresponding restriction applies. 
 
-(2) “Rail Car” means a car other than a tank car.
+(2) “Rail Car” means a car other than a tank car. 
 
-(3) For purposes of this subpart, each unit of an articulated intermodal rail car shall be considered as one car.
+(3) For purposes of this subpart, each unit of an articulated intermodal rail car shall be considered as one car. 
 
 \[Amdt. 174-68, 55 FR 52680, Dec. 21, 1990, as amended at 57 FR 45464, Oct. 1, 1992; Amdt. 174-83, 61 FR 28678, June 5, 1996; Amdt.174-83, 61 FR 50255, Sept. 25, 1996; Amdt. 174-83, 61 FR 51339, Oct. 1, 1996; 64 FR 51919, Sept. 27, 1999; 66 FR 45383, Aug. 28, 2001\]

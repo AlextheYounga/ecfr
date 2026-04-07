@@ -1,14 +1,14 @@
 ##### § 393.104 Standards for cargo securement devices and systems.
 
-(a) *General.* All devices and systems used to secure cargo to or within a vehicle must be capable of meeting the requirements of § 393.102.
+(a) *General.* All devices and systems used to secure cargo to or within a vehicle must be capable of meeting the requirements of § 393.102. 
 
-(b) *Prohibition on the use of damaged securement devices.* All tiedowns, cargo securement systems, parts and components used to secure cargo must be in proper working order when used to perform that function with no damaged or weakened components, such as, but not limited to, cracks or cuts that will adversely affect their performance for cargo securement purposes, including reducing the working load limit.
+(b) *Prohibition on the use of damaged securement devices.* All tiedowns, cargo securement systems, parts and components used to secure cargo must be in proper working order when used to perform that function with no damaged or weakened components, such as, but not limited to, cracks or cuts that will adversely affect their performance for cargo securement purposes, including reducing the working load limit. 
 
-(c) *Vehicle structures and anchor points.* Vehicle structures, floors, walls, decks, tiedown anchor points, headerboards, bulkheads, stakes, posts, and associated mounting pockets used to contain or secure articles of cargo must be strong enough to meet the performance criteria of § 393.102, with no damaged or weakened components, such as, but not limited to, cracks or cuts that will adversely affect their performance for cargo securement purposes, including reducing the working load limit.
+(c) *Vehicle structures and anchor points.* Vehicle structures, floors, walls, decks, tiedown anchor points, headerboards, bulkheads, stakes, posts, and associated mounting pockets used to contain or secure articles of cargo must be strong enough to meet the performance criteria of § 393.102, with no damaged or weakened components, such as, but not limited to, cracks or cuts that will adversely affect their performance for cargo securement purposes, including reducing the working load limit. 
 
-(d) *Material for dunnage, chocks, cradles, shoring bars, blocking and bracing.* Material used as dunnage or dunnage bags, chocks, cradles, shoring bars, or used for blocking and bracing, must not have damage or defects which would compromise the effectiveness of the securement system.
+(d) *Material for dunnage, chocks, cradles, shoring bars, blocking and bracing.* Material used as dunnage or dunnage bags, chocks, cradles, shoring bars, or used for blocking and bracing, must not have damage or defects which would compromise the effectiveness of the securement system. 
 
-(e) *Manufacturing standards for tiedown assemblies.* Tiedown assemblies (including chains, wire rope, steel strapping, synthetic webbing, and cordage) and other attachment or fastening devices used to secure articles of cargo to, or in, commercial motor vehicles must conform to the following applicable standards:
+(e) *Manufacturing standards for tiedown assemblies.* Tiedown assemblies (including chains, wire rope, steel strapping, synthetic webbing, and cordage) and other attachment or fastening devices used to secure articles of cargo to, or in, commercial motor vehicles must conform to the following applicable standards: 
 
 | An assembly component of . . .                                                                                                                                                                   | Must conform to . . .                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,12 +27,12 @@
 | 3 Wire rope which is not marked by the manufacturer with a working load limit shall be considered to have a working load limit equal to one-fourth of the nominal strength listed in the manual. |                                                                                                                                          |
 | 4 See § 393.7 for information on the incorporation by reference and availability of this document.                                                                                               |                                                                                                                                          |
 
-(f) *Use of tiedowns.* (1) Tiedowns and securing devices must not contain knots.
+(f) *Use of tiedowns.* (1) Tiedowns and securing devices must not contain knots. 
 
-(2) If a tiedown is repaired, it must be repaired in accordance with the applicable standards in paragraph (e) of this section, or the manufacturer's instructions.
+(2) If a tiedown is repaired, it must be repaired in accordance with the applicable standards in paragraph (e) of this section, or the manufacturer's instructions. 
 
-(3) Each tiedown must be attached and secured in a manner that prevents it from becoming loose, unfastening, opening or releasing while the vehicle is in transit.
+(3) Each tiedown must be attached and secured in a manner that prevents it from becoming loose, unfastening, opening or releasing while the vehicle is in transit. 
 
-(4) Edge protection must be used whenever a tiedown would be subject to abrasion or cutting at the point where it touches an article of cargo. The edge protection must resist abrasion, cutting and crushing.
+(4) Edge protection must be used whenever a tiedown would be subject to abrasion or cutting at the point where it touches an article of cargo. The edge protection must resist abrasion, cutting and crushing. 
 
 \[67 FR 61225, Sept. 27, 2002, as amended at 71 FR 35833, June 22, 2006\]

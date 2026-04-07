@@ -1,20 +1,20 @@
 ##### § 393.108 Determining the working load limit of a tiedown or the load restraining value of a friction mat.
 
-(a) The working load limit (WLL) of a tiedown, associated connector or attachment mechanism is the lowest working load limit of any of its components (including tensioner), or the working load limit of the anchor points to which it is attached, whichever is less.
+(a) The working load limit (WLL) of a tiedown, associated connector or attachment mechanism is the lowest working load limit of any of its components (including tensioner), or the working load limit of the anchor points to which it is attached, whichever is less. 
 
-(b) The working load limits of tiedowns may be determined by using either the tiedown manufacturer's markings or by using the tables in this section. The working load limits listed in the tables are to be used when the tiedown material is not marked by the manufacturer with the working load limit. Tiedown materials which are marked by the manufacturer with working load limits that differ from the tables, shall be considered to have a working load limit equal to the value for which they are marked.
+(b) The working load limits of tiedowns may be determined by using either the tiedown manufacturer's markings or by using the tables in this section. The working load limits listed in the tables are to be used when the tiedown material is not marked by the manufacturer with the working load limit. Tiedown materials which are marked by the manufacturer with working load limits that differ from the tables, shall be considered to have a working load limit equal to the value for which they are marked. 
 
-(c) Synthetic cordage (*e.g.,* nylon, polypropylene, polyester) which is not marked or labeled to enable identification of its composition or working load limit shall be considered to have a working load limit equal to that for polypropylene fiber rope.
+(c) Synthetic cordage (*e.g.,* nylon, polypropylene, polyester) which is not marked or labeled to enable identification of its composition or working load limit shall be considered to have a working load limit equal to that for polypropylene fiber rope. 
 
-(d) Welded steel chain which is not marked or labeled to enable identification of its grade or working load limit shall be considered to have a working load limit equal to that for grade 30 proof coil chain.
+(d) Welded steel chain which is not marked or labeled to enable identification of its grade or working load limit shall be considered to have a working load limit equal to that for grade 30 proof coil chain. 
 
-(e)(1) Wire rope which is not marked by the manufacturer with a working load limit shall be considered to have a working load limit equal to one-fourth of the nominal strength listed in the Wire Rope Users Manual.
+(e)(1) Wire rope which is not marked by the manufacturer with a working load limit shall be considered to have a working load limit equal to one-fourth of the nominal strength listed in the Wire Rope Users Manual. 
 
-(2) Wire which is not marked or labeled to enable identification of its construction type shall be considered to have a working load limit equal to that for 6 × 37, fiber core wire rope.
+(2) Wire which is not marked or labeled to enable identification of its construction type shall be considered to have a working load limit equal to that for 6 × 37, fiber core wire rope. 
 
-(f) Manila rope which is not marked by the manufacturer with a working load limit shall be considered to have a working load limit based on its diameter as provided in the tables of working load limits.
+(f) Manila rope which is not marked by the manufacturer with a working load limit shall be considered to have a working load limit based on its diameter as provided in the tables of working load limits. 
 
-(g) Friction mats which are not marked or rated by the manufacturer shall be considered to provide resistance to horizontal movement equal to 50 percent of the weight placed on the mat.
+(g) Friction mats which are not marked or rated by the manufacturer shall be considered to provide resistance to horizontal movement equal to 50 percent of the weight placed on the mat. 
 
 Tables to § 393.108
 

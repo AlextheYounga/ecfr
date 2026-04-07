@@ -1,8 +1,8 @@
 ##### § 385.321 Safety audit: Failure.
 
-(a) *General.* The failures of safety management practices consist of a lack of basic safety management controls as described in Appendix A of this part or failure to comply with one or more of the regulations set forth in paragraph (b) of this section and will result in a notice to a new entrant that its USDOT new entrant registration will be revoked.
+(a) *General.* The failures of safety management practices consist of a lack of basic safety management controls as described in Appendix A of this part or failure to comply with one or more of the regulations set forth in paragraph (b) of this section and will result in a notice to a new entrant that its USDOT new entrant registration will be revoked. 
 
-(b) *Automatic failure of the audit.* A new entrant will automatically fail a safety audit if found in violation of any one of the following 16 regulations:
+(b) *Automatic failure of the audit.* A new entrant will automatically fail a safety audit if found in violation of any one of the following 16 regulations: 
 
 Table to § 385.321—Violations That Will Result in Automatic Failure of the New Entrant Safety Audit
 | Violation                                                                                                                                                                                                                                                                                                                                   | Guidelines for determining automatic   failure of the safety audit                             |

@@ -1,6 +1,6 @@
 ##### § 1242.87 Joint facility—debit and credit and casualties and insurance (accounts 37-63-00, 38-63-00 and 50-63-00).
 
-Separate the common expenses in proportion to the total of all common expense separations determined in §§ 1242.83 and 1242.84 above.
+Separate the common expenses in proportion to the total of all common expense separations determined in §§ 1242.83 and 1242.84 above. 
 
 Note:
 

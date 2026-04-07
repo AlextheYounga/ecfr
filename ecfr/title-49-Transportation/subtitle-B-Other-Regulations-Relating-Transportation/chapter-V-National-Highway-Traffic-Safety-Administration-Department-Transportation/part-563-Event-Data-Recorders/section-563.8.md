@@ -1,6 +1,6 @@
 ##### § 563.8 Data format.
 
-(a) The data elements listed in Tables I and II, as applicable, must be reported in accordance with the range, accuracy, and resolution specified in Table III.
+(a) The data elements listed in Tables I and II, as applicable, must be reported in accordance with the range, accuracy, and resolution specified in Table III. 
 
 Table III—Reported Data Element Format
 | Data element                                                                                                                                                                                                                                                                                                       | Minimum range                                                     | Accuracy 1                | Resolution                 |
@@ -52,14 +52,14 @@ Table III—Reported Data Element Format
 | Complete file recorded                                                                                                                                                                                                                                                                                             | Yes or No                                                         | N/A                       | Yes or No.                 |
 | 1 Accuracy requirement only applies within the range of the physical sensor. For vehicles manufactured after September 1, 2014, if measurements captured by a sensor exceed the design range of the sensor, the reported element must indicate when the measurement first exceeded the design range of the sensor. |                                                                   |                           |                            |
 
-(b) Acceleration Time-History data and format: the longitudinal, lateral, and normal acceleration time-history data, as applicable, must be filtered either during the recording phase or during the data downloading phase to include:
+(b) Acceleration Time-History data and format: the longitudinal, lateral, and normal acceleration time-history data, as applicable, must be filtered either during the recording phase or during the data downloading phase to include: 
 
-(1) The Time Step (TS) that is the inverse of the sampling frequency of the acceleration data and which has units of seconds;
+(1) The Time Step (TS) that is the inverse of the sampling frequency of the acceleration data and which has units of seconds; 
 
-(2) The number of the first point (NFP), which is an integer that when multiplied by the TS equals the time relative to time zero of the first acceleration data point;
+(2) The number of the first point (NFP), which is an integer that when multiplied by the TS equals the time relative to time zero of the first acceleration data point; 
 
-(3) The number of the last point (NLP), which is an integer that when multiplied by the TS equals the time relative to time zero of the last acceleration data point; and
+(3) The number of the last point (NLP), which is an integer that when multiplied by the TS equals the time relative to time zero of the last acceleration data point; and 
 
-(4) NLP—NFP + 1 acceleration values sequentially beginning with the acceleration at time NFP \* TS and continue sampling the acceleration at TS increments in time until the time NLP \* TS is reached.
+(4) NLP—NFP + 1 acceleration values sequentially beginning with the acceleration at time NFP \* TS and continue sampling the acceleration at TS increments in time until the time NLP \* TS is reached. 
 
 \[73 FR 2183, Jan. 14, 2008, as amended at 76 FR 47488, Aug. 5, 2011; 77 FR 47556, Aug. 9, 2012; 77 FR 59566, Sept. 28, 2012\]

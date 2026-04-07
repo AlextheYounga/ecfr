@@ -1,10 +1,10 @@
 ##### § 173.304a Additional requirements for shipment of liquefied compressed gases in specification cylinders.
 
-(a) *Detailed filling requirements.* Liquefied gases (except gas in solution) must be offered for transportation, subject to the requirements in this section and §§ 173.301 and 173.304, in specification cylinders, as follows:
+(a) *Detailed filling requirements.* Liquefied gases (except gas in solution) must be offered for transportation, subject to the requirements in this section and §§ 173.301 and 173.304, in specification cylinders, as follows: 
 
-(1) DOT 3, 3A, 3AA, 3AL, 3B, 3BN, 3E, 4B, 4BA, 4B240ET, 4BW, 4E, 39, except that no DOT 4E or 39 packaging may be filled and shipped with a mixture containing a pyrophoric liquid, carbon bisulfide (disulfide), ethyl chloride, ethylene oxide, nickel carbonyl, spirits of nitroglycerin, or toxic material (Division 6.1 or 2.3), unless specifically authorized in this part.
+(1) DOT 3, 3A, 3AA, 3AL, 3B, 3BN, 3E, 4B, 4BA, 4B240ET, 4BW, 4E, 39, except that no DOT 4E or 39 packaging may be filled and shipped with a mixture containing a pyrophoric liquid, carbon bisulfide (disulfide), ethyl chloride, ethylene oxide, nickel carbonyl, spirits of nitroglycerin, or toxic material (Division 6.1 or 2.3), unless specifically authorized in this part. 
 
-(2) For the gases named, the requirements in table 1 to paragraph (a)(2) apply (for cryogenic liquids, *see* § 173.316):
+(2) For the gases named, the requirements in table 1 to paragraph (a)(2) apply (for cryogenic liquids, *see* § 173.316): 
 
 Table 1 to Paragraph (a)(2)
 | Kind of gas                                                                                                                                                                   | Maximum permitted filling density (percent)   (see Note 1) | Packaging marked as shown in this column or of the same type with higher service pressure must be used, except as provided in §§ 173.301(l), 173.301a(e), and 180.205(a)   (see the following notes after the table)      |
@@ -100,13 +100,13 @@ Note 13 to paragraph (a)(2):
 
 For a refrigerant or dispersant gas that is nontoxic and nonflammable, see § 173.304(d).
 
-(3) A DOT 39 cylinder shall be equipped with a pressure relief device as defined by the commodity in CGA S-1.1, excluding paragraph 9.1.1 (IBR; see § 171.7 of this subchapter). If the commodity is not listed in CGA S-1.1, a CG-7 pressure relief valve must be used.
+(3) A DOT 39 cylinder shall be equipped with a pressure relief device as defined by the commodity in CGA S-1.1, excluding paragraph 9.1.1 (IBR; see § 171.7 of this subchapter). If the commodity is not listed in CGA S-1.1, a CG-7 pressure relief valve must be used. 
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
-(c) *Verification of content in cylinder.* Except as noted in paragraph (d)(4) of this section, the amount of liquefied gas filled into a cylinder must be by weight or, when the gas is lower in pressure than required for liquefaction, a pressure-temperature chart for the specific gas may be used to ensure that the service pressure at 55 °C (131 °F) will not exceed 5/4 of the service pressure at 21 °C (70 °F). The weight of liquefied gas filled into the cylinder also must be checked, after disconnecting the cylinder from the filling line, by the use of an accurate scale.
+(c) *Verification of content in cylinder.* Except as noted in paragraph (d)(4) of this section, the amount of liquefied gas filled into a cylinder must be by weight or, when the gas is lower in pressure than required for liquefaction, a pressure-temperature chart for the specific gas may be used to ensure that the service pressure at 55 °C (131 °F) will not exceed 5/4 of the service pressure at 21 °C (70 °F). The weight of liquefied gas filled into the cylinder also must be checked, after disconnecting the cylinder from the filling line, by the use of an accurate scale. 
 
-(d) *Requirements for liquefied petroleum gas.* (1) Filling density limits are as follows:
+(d) *Requirements for liquefied petroleum gas.* (1) Filling density limits are as follows: 
 
 | Minimum specific gravity of liquid material at 60 °F | Maximum the filling density in percent of the water-weight capacity of the cylinder |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -143,13 +143,13 @@ For a refrigerant or dispersant gas that is nontoxic and nonflammable, see § 17
 | 0.618 to 0.626                                       | 56                                                                                  |
 | 0.627 to 0.634                                       | 57                                                                                  |
 
-(2) Subject to § 173.301a(d), any filling density percentage prescribed in this section is authorized to be increased by a factor of 2 for liquefied petroleum gas in DOT 3 cylinders or in DOT 3A cylinders marked for 1800 psig, or higher, service pressure.
+(2) Subject to § 173.301a(d), any filling density percentage prescribed in this section is authorized to be increased by a factor of 2 for liquefied petroleum gas in DOT 3 cylinders or in DOT 3A cylinders marked for 1800 psig, or higher, service pressure. 
 
-(3) Liquefied petroleum gas must be shipped in specification cylinders as follows:
+(3) Liquefied petroleum gas must be shipped in specification cylinders as follows: 
 
-(i) DOT 3, 3A, 3AA, 3B, 3E, 3AL, 4B, 4BA, 4B240ET, 4BW, 4E, or 39 cylinders. The internal volume of a Specification 39 cylinder must not exceed 75 cubic inches. Shipments of flammable gases in DOT 3AL cylinders are authorized only when transported by motor vehicle, rail car, or cargo-only aircraft.
+(i) DOT 3, 3A, 3AA, 3B, 3E, 3AL, 4B, 4BA, 4B240ET, 4BW, 4E, or 39 cylinders. The internal volume of a Specification 39 cylinder must not exceed 75 cubic inches. Shipments of flammable gases in DOT 3AL cylinders are authorized only when transported by motor vehicle, rail car, or cargo-only aircraft. 
 
-(ii) Additional containers may be used within the limits of quantity and pressure as follows:
+(ii) Additional containers may be used within the limits of quantity and pressure as follows: 
 
 | Type of container                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Maximum capacity (cubic inches) | Maximum filling pressure   (psig)                     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------- |
@@ -158,17 +158,17 @@ For a refrigerant or dispersant gas that is nontoxic and nonflammable, see § 17
 | **Note 1:** Containers must be packed in strong wooden or fiber boxes of such design as to protect valves from damage or accidental functioning under conditions normally incident to transportation. Each completed container filled for shipment must have been heated until its contents reach a temperature of 54 °C (130 °F), without evidence of leakage, distortion, or other defect. Each outside shipping container must be plainly marked “INSIDE CONTAINERS COMPLY WITH PRESCRIBED SPECIFICATIONS'. |                                 |                                                       |
 | **Note 2:** A container must be equipped with a pressure relief device that will prevent rupture of the container and dangerous projection of a closing device when exposed to fire.                                                                                                                                                                                                                                                                                                                           |                                 |                                                       |
 
-(4) *Verification of content.* A cylinder with a water capacity of 90.72 kg (200 lb) or more and for use with a liquefied petroleum gas with a specific gravity of 0.504 or greater at 16 °C (60 °F) may have the quantity of its contents determined by using a fixed length dip tube gauging device. The length of the dip tube must be such that when a liquefied petroleum gas, with a specific volume of 0.03051 cu. ft./lb. at a temperature of 40 °F, is filled into the container, the liquid just reaches the bottom of the tube. The weight of this liquid may not exceed 42 percent of the water capacity of the container, which must be stamped on the cylinder. The length of the dip tube, expressed in inches carried out to one decimal place and prefixed with the letters “DT”, must be stamped on the container and on the exterior of removable type dip tube. For the purpose of this requirement, the marked length must be expressed as the distance measured along the axis of a straight tube from the top of the boss through which the tube is inserted to the proper level of the liquid in the container. The length of each dip tube must be checked when installed by weighing each container after filling except when installed in groups of substantially identical containers, in which case one of each 25 containers must be weighed. The quantity of liquefied gas in each container must be checked by means of the dip tube after disconnecting from the filling line. The outlet from the dip tube may not be larger than 0.1016 centimeters (0.040 inch; No. 54 drill bit size orifice). A container representative of each day's filling at each filling plant must have its contents checked by weighing after disconnecting from the filling line.
+(4) *Verification of content.* A cylinder with a water capacity of 90.72 kg (200 lb) or more and for use with a liquefied petroleum gas with a specific gravity of 0.504 or greater at 16 °C (60 °F) may have the quantity of its contents determined by using a fixed length dip tube gauging device. The length of the dip tube must be such that when a liquefied petroleum gas, with a specific volume of 0.03051 cu. ft./lb. at a temperature of 40 °F, is filled into the container, the liquid just reaches the bottom of the tube. The weight of this liquid may not exceed 42 percent of the water capacity of the container, which must be stamped on the cylinder. The length of the dip tube, expressed in inches carried out to one decimal place and prefixed with the letters “DT”, must be stamped on the container and on the exterior of removable type dip tube. For the purpose of this requirement, the marked length must be expressed as the distance measured along the axis of a straight tube from the top of the boss through which the tube is inserted to the proper level of the liquid in the container. The length of each dip tube must be checked when installed by weighing each container after filling except when installed in groups of substantially identical containers, in which case one of each 25 containers must be weighed. The quantity of liquefied gas in each container must be checked by means of the dip tube after disconnecting from the filling line. The outlet from the dip tube may not be larger than 0.1016 centimeters (0.040 inch; No. 54 drill bit size orifice). A container representative of each day's filling at each filling plant must have its contents checked by weighing after disconnecting from the filling line. 
 
-(e) *Carbon dioxide, refrigerated liquid or nitrous oxide, refrigerated liquid.* (1) The following provisions apply to carbon dioxide, refrigerated liquid, and nitrous oxide, refrigerated liquid:
+(e) *Carbon dioxide, refrigerated liquid or nitrous oxide, refrigerated liquid.* (1) The following provisions apply to carbon dioxide, refrigerated liquid, and nitrous oxide, refrigerated liquid: 
 
-(i) DOT 4L cylinders conforming to the provisions of this paragraph are authorized.
+(i) DOT 4L cylinders conforming to the provisions of this paragraph are authorized. 
 
-(ii) Each cylinder must be protected with at least one pressure relief device and at least one frangible disc conforming to § 173.301(f) and paragraph (a)(2) of this section. The relieving capacity of the pressure relief device system must be equal to or greater than that calculated by the applicable formula in paragraph 5.8.3 of CGA S-1.1 (IBR, see § 171.7 of this subchapter).
+(ii) Each cylinder must be protected with at least one pressure relief device and at least one frangible disc conforming to § 173.301(f) and paragraph (a)(2) of this section. The relieving capacity of the pressure relief device system must be equal to or greater than that calculated by the applicable formula in paragraph 5.8.3 of CGA S-1.1 (IBR, see § 171.7 of this subchapter). 
 
-(iii) The temperature and pressure of the gas at the time the shipment is offered for transportation may not exceed −18 °C (0 °F) and 290 psig for carbon dioxide and −15.6 °C (+4 °F) and 290 psig for nitrous oxide. Maximum time in transit may not exceed 120 hours.
+(iii) The temperature and pressure of the gas at the time the shipment is offered for transportation may not exceed −18 °C (0 °F) and 290 psig for carbon dioxide and −15.6 °C (+4 °F) and 290 psig for nitrous oxide. Maximum time in transit may not exceed 120 hours. 
 
-(2) The following pressure relief device settings, design service temperatures and filling densities apply:
+(2) The following pressure relief device settings, design service temperatures and filling densities apply: 
 
 | Pressure relief device setting maximum start—to discharge gauge pressure in psig | Maximum permitted filling density   (percent by weight) |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------- |

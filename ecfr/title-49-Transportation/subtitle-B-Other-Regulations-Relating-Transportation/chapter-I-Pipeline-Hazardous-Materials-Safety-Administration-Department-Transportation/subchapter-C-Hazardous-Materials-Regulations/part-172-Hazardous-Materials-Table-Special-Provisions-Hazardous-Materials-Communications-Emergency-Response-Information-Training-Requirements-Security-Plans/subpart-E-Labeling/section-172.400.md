@@ -1,18 +1,18 @@
 ##### § 172.400 General labeling requirements.
 
-(a) Except as specified in § 172.400a, each person who offers for transportation or transports a hazardous material in any of the following packages or containment devices, shall label the package or containment device with labels specified for the material in the § 172.101 table and in this subpart:
+(a) Except as specified in § 172.400a, each person who offers for transportation or transports a hazardous material in any of the following packages or containment devices, shall label the package or containment device with labels specified for the material in the § 172.101 table and in this subpart: 
 
-(1) A non-bulk package;
+(1) A non-bulk package; 
 
-(2) A bulk packaging, other than a cargo tank, portable tank, or tank car, with a volumetric capacity of less than 18 m 3 (640 cubic feet), unless placarded in accordance with subpart F of this part;
+(2) A bulk packaging, other than a cargo tank, portable tank, or tank car, with a volumetric capacity of less than 18 m 3 (640 cubic feet), unless placarded in accordance with subpart F of this part; 
 
-(3) A portable tank of less than 3785 L (1000 gallons) capacity, unless placarded in accordance with subpart F of this part;
+(3) A portable tank of less than 3785 L (1000 gallons) capacity, unless placarded in accordance with subpart F of this part; 
 
-(4) A DOT Specification 106 or 110 multi-unit tank car tank, unless placarded in accordance with subpart F of this part; and
+(4) A DOT Specification 106 or 110 multi-unit tank car tank, unless placarded in accordance with subpart F of this part; and 
 
-(5) An overpack, freight container or unit load device, of less than 18 m 3 (640 cubic feet), which contains a package for which labels are required, unless placarded or marked in accordance with § 172.512 of this part.
+(5) An overpack, freight container or unit load device, of less than 18 m 3 (640 cubic feet), which contains a package for which labels are required, unless placarded or marked in accordance with § 172.512 of this part. 
 
-(b) Labeling is required for a hazardous material which meets one or more hazard class definitions, in accordance with column 6 of the § 172.101 table and the following table:
+(b) Labeling is required for a hazardous material which meets one or more hazard class definitions, in accordance with column 6 of the § 172.101 table and the following table: 
 
 Table 1 to Paragraph (b)
 | Hazard class or division                                                | Label name                | Label design   or section   reference |

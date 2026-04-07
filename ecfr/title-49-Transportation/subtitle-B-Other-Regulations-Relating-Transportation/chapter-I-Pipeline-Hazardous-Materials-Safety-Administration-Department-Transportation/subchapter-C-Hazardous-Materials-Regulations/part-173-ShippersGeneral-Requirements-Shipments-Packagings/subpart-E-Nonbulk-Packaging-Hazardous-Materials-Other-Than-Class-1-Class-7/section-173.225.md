@@ -1,52 +1,52 @@
 ##### § 173.225 Packaging requirements and other provisions for organic peroxides.
 
-(a) *General.* When the § 172.101 table specifies that an organic peroxide must be packaged under this section, the organic peroxide must be packaged and offered for transportation in accordance with the provisions of this section. Each packaging must conform to the general requirements of subpart B of part 173 and to the applicable requirements of part 178 of this subchapter. Non-bulk packagings must meet Packing Group II performance levels. To avoid unnecessary confinement, metallic non-bulk packagings meeting Packing Group I are not authorized. No used material, other than production residues or regrind from the same production process, may be used in plastic packagings. Organic peroxides that require temperature control are subject to the provisions of § 173.21(f). When an IBC or bulk packaging is authorized and meets the requirements of paragraph (f) or (h) of this section, respectively, lower control temperatures than those specified for non-bulk packaging may be required. An organic peroxide not identified in paragraph (c), (e), or (g) of this section by technical name, or not assigned to a generic type in accordance with the provisions in paragraph (b)(3) of this section, must conform to the provisions of paragraph (c) of § 173.128.
+(a) *General.* When the § 172.101 table specifies that an organic peroxide must be packaged under this section, the organic peroxide must be packaged and offered for transportation in accordance with the provisions of this section. Each packaging must conform to the general requirements of subpart B of part 173 and to the applicable requirements of part 178 of this subchapter. Non-bulk packagings must meet Packing Group II performance levels. To avoid unnecessary confinement, metallic non-bulk packagings meeting Packing Group I are not authorized. No used material, other than production residues or regrind from the same production process, may be used in plastic packagings. Organic peroxides that require temperature control are subject to the provisions of § 173.21(f). When an IBC or bulk packaging is authorized and meets the requirements of paragraph (f) or (h) of this section, respectively, lower control temperatures than those specified for non-bulk packaging may be required. An organic peroxide not identified in paragraph (c), (e), or (g) of this section by technical name, or not assigned to a generic type in accordance with the provisions in paragraph (b)(3) of this section, must conform to the provisions of paragraph (c) of § 173.128. 
 
-(b) *New organic peroxides, formulations and samples.* (1) Except as provided for samples in paragraph (b)(2) of this section, no person may offer for transportation an organic peroxide that is not identified by technical name in the Organic Peroxides Table, Organic Peroxide IBC Table, or the Organic Peroxide Portable Tank Table of this section, or a formulation of one or more organic peroxides that are identified by technical name in one of those tables, unless the organic peroxide is assigned a generic type and shipping description and is approved by the Associate Administrator under the provisions of § 173.128(d) of this subchapter.
+(b) *New organic peroxides, formulations and samples.* (1) Except as provided for samples in paragraph (b)(2) of this section, no person may offer for transportation an organic peroxide that is not identified by technical name in the Organic Peroxides Table, Organic Peroxide IBC Table, or the Organic Peroxide Portable Tank Table of this section, or a formulation of one or more organic peroxides that are identified by technical name in one of those tables, unless the organic peroxide is assigned a generic type and shipping description and is approved by the Associate Administrator under the provisions of § 173.128(d) of this subchapter. 
 
-(2) *Samples.* Samples of new organic peroxides or new formulations of organic peroxides identified in the Organic Peroxides Table in paragraph (c) of this section, for which complete test data are not available, and that are to be transported for further testing or product evaluation, may be assigned an appropriate shipping description for organic peroxide Type C, packaged and offered for transportation, under the following conditions:
+(2) *Samples.* Samples of new organic peroxides or new formulations of organic peroxides identified in the Organic Peroxides Table in paragraph (c) of this section, for which complete test data are not available, and that are to be transported for further testing or product evaluation, may be assigned an appropriate shipping description for organic peroxide Type C, packaged and offered for transportation, under the following conditions: 
 
-(i) Data available to the person offering the material for transportation must indicate that the sample would pose a level of hazard no greater than that of an organic peroxide Type B and that the control temperature, if any, is sufficiently low to prevent any dangerous decomposition and sufficiently high to prevent any dangerous phase separation;
+(i) Data available to the person offering the material for transportation must indicate that the sample would pose a level of hazard no greater than that of an organic peroxide Type B and that the control temperature, if any, is sufficiently low to prevent any dangerous decomposition and sufficiently high to prevent any dangerous phase separation; 
 
-(ii) The sample must be packaged in accordance with packing method OP2, for a liquid or solid, respectively;
+(ii) The sample must be packaged in accordance with packing method OP2, for a liquid or solid, respectively; 
 
-(iii) Packages of the organic peroxide may be offered for transportation and transported in a quantity not to exceed 10 kg (22 pounds) per transport vehicle; and
+(iii) Packages of the organic peroxide may be offered for transportation and transported in a quantity not to exceed 10 kg (22 pounds) per transport vehicle; and 
 
-(iv) One of the following shipping descriptions must be assigned:
+(iv) One of the following shipping descriptions must be assigned: 
 
-(A) Organic peroxide Type C, liquid, 5.2, UN 3103;
+(A) Organic peroxide Type C, liquid, 5.2, UN 3103; 
 
-(B) Organic peroxide Type C, solid, 5.2, UN 3104;
+(B) Organic peroxide Type C, solid, 5.2, UN 3104; 
 
-(C) Organic peroxide Type C, liquid, temperature controlled, 5.2, UN 3113; or
+(C) Organic peroxide Type C, liquid, temperature controlled, 5.2, UN 3113; or 
 
-(D) Organic peroxide Type C, solid, temperature controlled, 5.2, UN 3114.
+(D) Organic peroxide Type C, solid, temperature controlled, 5.2, UN 3114. 
 
-(3) *Mixtures.* Mixtures of organic peroxides individually identified in the Organic Peroxides Table in paragraph (c) of this section may be classified as the same type of organic peroxide as that of the most dangerous component and be transported under the conditions for transportation given for this type. If the stable components form a thermally less stable mixture, the SADT of the mixture must be determined and the new control and emergency temperature derived under the provisions of § 173.21(f).
+(3) *Mixtures.* Mixtures of organic peroxides individually identified in the Organic Peroxides Table in paragraph (c) of this section may be classified as the same type of organic peroxide as that of the most dangerous component and be transported under the conditions for transportation given for this type. If the stable components form a thermally less stable mixture, the SADT of the mixture must be determined and the new control and emergency temperature derived under the provisions of § 173.21(f). 
 
-(c) *Organic peroxides table.* The following Organic Peroxides Table specifies by technical name those organic peroxides that are authorized for transportation and not subject to the approval provisions of § 173.128 of this part. An organic peroxide identified by technical name in the following table is authorized for transportation only if it conforms to all applicable provisions of the table. The column headings of the Organic Peroxides Table are as follows:
+(c) *Organic peroxides table.* The following Organic Peroxides Table specifies by technical name those organic peroxides that are authorized for transportation and not subject to the approval provisions of § 173.128 of this part. An organic peroxide identified by technical name in the following table is authorized for transportation only if it conforms to all applicable provisions of the table. The column headings of the Organic Peroxides Table are as follows: 
 
-(1) *Technical name.* The first column specifies the technical name.
+(1) *Technical name.* The first column specifies the technical name. 
 
-(2) *ID number.* The second column specifies the identification (ID) number which is used to identify the proper shipping name in the § 172.101 table. The word “EXEMPT” appearing in the column denotes that the material is not regulated as an organic peroxide.
+(2) *ID number.* The second column specifies the identification (ID) number which is used to identify the proper shipping name in the § 172.101 table. The word “EXEMPT” appearing in the column denotes that the material is not regulated as an organic peroxide. 
 
-(3) *Concentration of organic peroxide.* The third column specifies concentration (mass percent) limitations, if any, in mixtures or solutions for the organic peroxide. Limitations are given as minimums, maximums, or a range, as appropriate. A range includes the lower and upper limits (*i.e.*, “53-100” means from, and including, 53% to, and including 100%). See introductory paragraph of § 172.203(k) of this subchapter for additional description requirements for an organic peroxide that may qualify for more than one generic listing, depending on its concentration.
+(3) *Concentration of organic peroxide.* The third column specifies concentration (mass percent) limitations, if any, in mixtures or solutions for the organic peroxide. Limitations are given as minimums, maximums, or a range, as appropriate. A range includes the lower and upper limits (*i.e.*, “53-100” means from, and including, 53% to, and including 100%). See introductory paragraph of § 172.203(k) of this subchapter for additional description requirements for an organic peroxide that may qualify for more than one generic listing, depending on its concentration. 
 
-(4) *Concentration of diluents.* The fourth column specifies the type and concentration (mass percent) of diluent or inert solid, when required. Other types and concentrations of diluents may be used if approved by the Associate Administrator.
+(4) *Concentration of diluents.* The fourth column specifies the type and concentration (mass percent) of diluent or inert solid, when required. Other types and concentrations of diluents may be used if approved by the Associate Administrator. 
 
-(i) The required mass percent of “Diluent type A” is specified in column 4a. A diluent type A is an organic liquid that does not detrimentally affect the thermal stability or increase the hazard of the organic peroxide and with a boiling point not less than 150 °C at atmospheric pressure. Type A diluents may be used for desensitizing all organic peroxides.
+(i) The required mass percent of “Diluent type A” is specified in column 4a. A diluent type A is an organic liquid that does not detrimentally affect the thermal stability or increase the hazard of the organic peroxide and with a boiling point not less than 150 °C at atmospheric pressure. Type A diluents may be used for desensitizing all organic peroxides. 
 
-(ii) The required mass percent of “Diluent type B” is specified in column 4b. A diluent type B is an organic liquid which is compatible with the organic peroxide and which has a boiling point, at atmospheric pressure, of less than 150 °C (302 °F) but at least 60 °C (140 °F), and a flash point greater than 5 °C (41 °F). Type B diluents may be used for desensitizing all organic peroxides, when specified in the organic peroxide tables, provided that the boiling point is at least 60 °C (140 °F) above the SADT of the peroxide in a 50 kg (110 lbs) package. A type A diluent may be used to replace a type B diluent in equal concentration.
+(ii) The required mass percent of “Diluent type B” is specified in column 4b. A diluent type B is an organic liquid which is compatible with the organic peroxide and which has a boiling point, at atmospheric pressure, of less than 150 °C (302 °F) but at least 60 °C (140 °F), and a flash point greater than 5 °C (41 °F). Type B diluents may be used for desensitizing all organic peroxides, when specified in the organic peroxide tables, provided that the boiling point is at least 60 °C (140 °F) above the SADT of the peroxide in a 50 kg (110 lbs) package. A type A diluent may be used to replace a type B diluent in equal concentration. 
 
-(iii) The required mass percent of “Inert solid” is specified in column 4c. An inert solid is a solid that does not detrimentally affect the thermal stability or hazard of the organic peroxide.
+(iii) The required mass percent of “Inert solid” is specified in column 4c. An inert solid is a solid that does not detrimentally affect the thermal stability or hazard of the organic peroxide. 
 
-(5) *Concentration of water.* Column 5 specifies, in mass percent, the minimum amount of water, if any, which must be in formulation.
+(5) *Concentration of water.* Column 5 specifies, in mass percent, the minimum amount of water, if any, which must be in formulation. 
 
-(6) *Packing method.* Column 6 specifies the highest packing method (largest packaging capacity) authorized for the organic peroxide. Lower numbered packing methods (smaller packaging capacities) are also authorized. For example, if OP3 is specified, then OP2 and OP1 are also authorized. The Table of Packing Methods in paragraph (d) of this section defines the non-bulk packing methods.
+(6) *Packing method.* Column 6 specifies the highest packing method (largest packaging capacity) authorized for the organic peroxide. Lower numbered packing methods (smaller packaging capacities) are also authorized. For example, if OP3 is specified, then OP2 and OP1 are also authorized. The Table of Packing Methods in paragraph (d) of this section defines the non-bulk packing methods. 
 
-(7) *Temperatures.* Column 7a specifies the control temperature. Column 7b specifies the emergency temperature. Temperatures are specified only when temperature controls are required. (See § 173.21(f)).
+(7) *Temperatures.* Column 7a specifies the control temperature. Column 7b specifies the emergency temperature. Temperatures are specified only when temperature controls are required. (See § 173.21(f)). 
 
-(8) *Notes.* Column 8 specifies other applicable provisions, as set forth in notes following the table.
+(8) *Notes.* Column 8 specifies other applicable provisions, as set forth in notes following the table. 
 
 Table 1 to Paragraph (c)—Organic Peroxide Table
 | Technical name                                                                                                                                                                                                                                     | ID No. | Concentration   (mass %)            | Diluent   (mass %) | Water   (mass %) | Packing   method | Temperature   ( °C) | Notes  |
@@ -337,25 +337,25 @@ Table 1 to Paragraph (c)—Organic Peroxide Table
 | 31\. Available oxygen ≤6.7%.                                                                                                                                                                                                                       |        |                                     |                    |                  |                  |                     |        |
 | 32\. Active oxygen concentration ≤4.15%.                                                                                                                                                                                                           |        |                                     |                    |                  |                  |                     |        |
 
-(d) *Packing Method Table.* Packagings for organic peroxides and self-reactive substances are listed in the Maximum Quantity per Packing Method Table. The packing methods are designated OP1 to OP8. The quantities specified for each packing method represent the maximum that is authorized.
+(d) *Packing Method Table.* Packagings for organic peroxides and self-reactive substances are listed in the Maximum Quantity per Packing Method Table. The packing methods are designated OP1 to OP8. The quantities specified for each packing method represent the maximum that is authorized. 
 
-(1) The following types of packagings are authorized:
+(1) The following types of packagings are authorized: 
 
-(i) Drums: 1A1, 1A2, 1B1, 1B2, 1D, 1G, 1H1, 1H2;
+(i) Drums: 1A1, 1A2, 1B1, 1B2, 1D, 1G, 1H1, 1H2; 
 
-(ii) Jerricans: 3A1, 3A2, 3B1, 3B2, 3H1, 3H2;
+(ii) Jerricans: 3A1, 3A2, 3B1, 3B2, 3H1, 3H2; 
 
-(iii) Boxes: 4C1, 4C2, 4D, 4F, 4G, 4H1, 4H2, 4A, 4B; or
+(iii) Boxes: 4C1, 4C2, 4D, 4F, 4G, 4H1, 4H2, 4A, 4B; or 
 
-(iv) Composite packagings with a plastic inner receptacle: 6HA1, 6HA2, 6HB1, 6HB2, 6HC, 6HD1, 6HD2, 6HG1, 6HG2, 6HH1, 6HH2.
+(iv) Composite packagings with a plastic inner receptacle: 6HA1, 6HA2, 6HB1, 6HB2, 6HC, 6HD1, 6HD2, 6HG1, 6HG2, 6HH1, 6HH2. 
 
-(2) Metal packaging (including inner packagings of combination packagings and outer packagings of combination or composite packagings) are used only for packing methods OP7 and OP8.
+(2) Metal packaging (including inner packagings of combination packagings and outer packagings of combination or composite packagings) are used only for packing methods OP7 and OP8. 
 
-(3) In combination packagings, glass receptacles are used only as inner packagings with a maximum content of 0.5 kg for solids or 0.5 L for liquids.
+(3) In combination packagings, glass receptacles are used only as inner packagings with a maximum content of 0.5 kg for solids or 0.5 L for liquids. 
 
-(4) The maximum quantity per packaging or package for Packing Methods OP1-OP8 must be as follows:
+(4) The maximum quantity per packaging or package for Packing Methods OP1-OP8 must be as follows: 
 
-Table 2 to Paragraph (d): Maximum Quantity per Packaging/Package
+Table 2 to Paragraph (d): Maximum Quantity per Packaging/Package 
 
 \[For packing methods OP1 to OP8\]
 | Maximum quantity                                                                                                                                                                                                                                      | Packing method |
@@ -366,7 +366,7 @@ Table 2 to Paragraph (d): Maximum Quantity per Packaging/Package
 | 2 60 kg for jerricans/200 kg for boxes and, for solids, 400 kg in combination packagings with outer packagings comprising boxes (4C1, 4C2, 4D, 4F, 4G, 4H1, and 4H2) and with inner packagings of plastics or fiber with a maximum net mass of 25 kg. |                |
 | 3 60 L for jerricans.                                                                                                                                                                                                                                 |                |
 
-(e) *Organic Peroxide IBC Table.* The following Organic Peroxide IBC Table specifies, by technical name, those organic peroxides that are authorized for transportation in certain IBCs and not subject to the approval provisions of § 173.128 of this part. The formulations listed below may also be transported packed in accordance with packing method OP8 of this section, with the same control and emergency temperatures, if applicable. Additional requirements for authorized IBCs are found in paragraph (f) of this section.
+(e) *Organic Peroxide IBC Table.* The following Organic Peroxide IBC Table specifies, by technical name, those organic peroxides that are authorized for transportation in certain IBCs and not subject to the approval provisions of § 173.128 of this part. The formulations listed below may also be transported packed in accordance with packing method OP8 of this section, with the same control and emergency temperatures, if applicable. Additional requirements for authorized IBCs are found in paragraph (f) of this section. 
 
 Table 3 to Paragraph (e)—Organic Peroxide IBC Table
 | UN No. | Organic peroxide                                                                                | Type of   IBC | Maximum   quantity   (liters) | Control   temperature | Emergency   temperature |
@@ -436,13 +436,13 @@ Table 3 to Paragraph (e)—Organic Peroxide IBC Table
 |        | 1,1,3,3-Tetramethylbutyl peroxyneodecanoate, not more than 52%, stable dispersion, in water     | 31A           | 1250                          | −5 °C                 | +5 °C                   |
 |        |                                                                                                 | 31HA1         | 1000                          | −5 °C                 | +5 °C                   |
 
-(f) *IBCs.* IBCs are authorized subject to the conditions and limitations of this section if the IBC type is authorized according to paragraph (e) of this section, as applicable, and the IBC conforms to the requirements in subpart O of part 178 of this subchapter at the Packing Group II performance level. Type F organic peroxides or self-reactive substances are not authorized for transportation in IBCs other than those specified, unless approved by the Associate Administrator.
+(f) *IBCs.* IBCs are authorized subject to the conditions and limitations of this section if the IBC type is authorized according to paragraph (e) of this section, as applicable, and the IBC conforms to the requirements in subpart O of part 178 of this subchapter at the Packing Group II performance level. Type F organic peroxides or self-reactive substances are not authorized for transportation in IBCs other than those specified, unless approved by the Associate Administrator. 
 
-(1) IBCs shall be provided with a device to allow venting during transportation. The inlet to the pressure relief device shall be sited in the vapor space of the IBC under maximum filling conditions during transportation.
+(1) IBCs shall be provided with a device to allow venting during transportation. The inlet to the pressure relief device shall be sited in the vapor space of the IBC under maximum filling conditions during transportation. 
 
-(2) To prevent explosive rupture of metal IBCs or composite IBCs with a complete metal casing, the emergency-relief devices shall be designed to vent all the decomposition products and vapors evolved during self-accelerating decomposition or during a period of not less than one hour of complete fire-engulfment as calculated by the formula in paragraph (h)(3)(v) of this section. The control and emergency temperatures specified in the Organic Peroxide IBC Table are based on a non-insulated IBC.
+(2) To prevent explosive rupture of metal IBCs or composite IBCs with a complete metal casing, the emergency-relief devices shall be designed to vent all the decomposition products and vapors evolved during self-accelerating decomposition or during a period of not less than one hour of complete fire-engulfment as calculated by the formula in paragraph (h)(3)(v) of this section. The control and emergency temperatures specified in the Organic Peroxide IBC Table are based on a non-insulated IBC. 
 
-(g) *Organic Peroxide Portable Tank Table.* The following Organic Peroxide Portable Tank Table provides certain portable tank requirements and identifies, by technical name, those organic peroxides that are authorized for transportation in the bulk packagings listed in paragraph (h) of this section. Organic peroxides listed in this table, provided they meet the specific packaging requirements found in paragraph (h) of this section, are not subject to the approval provisions of § 173.128 of this part. In addition, the formulations listed below may also be transported packed in accordance with packing method OP8 of this section, with the same control and emergency temperatures, if applicable.
+(g) *Organic Peroxide Portable Tank Table.* The following Organic Peroxide Portable Tank Table provides certain portable tank requirements and identifies, by technical name, those organic peroxides that are authorized for transportation in the bulk packagings listed in paragraph (h) of this section. Organic peroxides listed in this table, provided they meet the specific packaging requirements found in paragraph (h) of this section, are not subject to the approval provisions of § 173.128 of this part. In addition, the formulations listed below may also be transported packed in accordance with packing method OP8 of this section, with the same control and emergency temperatures, if applicable. 
 
 Table 4 to Paragraph (g): Organic Peroxide Portable Tank Table
 | UN No.                                               | Hazardous material                                                                                                                                                             | Minimum test pressure (bar) | Minimum shell thickness (mm-reference steel)   See. . . | Bottom opening requirements   See. . . | Pressure-relief requirements See. . . | Filling limits                     | Control temperature | Emergency temperature |
@@ -470,48 +470,48 @@ Table 4 to Paragraph (g): Organic Peroxide Portable Tank Table
 | 1\. “Corrosive” subsidiary risk placard is required. |                                                                                                                                                                                |                             |                                                         |                                        |                                       |                                    |                     |                       |
 | 2\. Diluent type B is tert-Butyl alcohol.            |                                                                                                                                                                                |                             |                                                         |                                        |                                       |                                    |                     |                       |
 
-(h) *Bulk packagings other than IBCs.* The following bulk packagings are authorized, subject to the conditions and limitations of this section, if the organic peroxide is listed in the Organic Peroxide Portable Tank Table and bulk packagings are authorized, or if the organic peroxide is specifically authorized for transport in a bulk packaging by this paragraph (h), and the bulk packaging conforms to the requirements of this subchapter:
+(h) *Bulk packagings other than IBCs.* The following bulk packagings are authorized, subject to the conditions and limitations of this section, if the organic peroxide is listed in the Organic Peroxide Portable Tank Table and bulk packagings are authorized, or if the organic peroxide is specifically authorized for transport in a bulk packaging by this paragraph (h), and the bulk packaging conforms to the requirements of this subchapter: 
 
-(1) *Rail cars.* Class DOT 103, 104, 105, 109, 111, 112, 114, 115, or 120 fusion-weld tank car tanks are authorized. DOT 103W, 111A60F1 and 111A60W1 tank car tanks must have bottom outlets effectively sealed from inside. Gauging devices are required on DOT 103W tank car tanks. Riveted tank car tanks are not authorized.
+(1) *Rail cars.* Class DOT 103, 104, 105, 109, 111, 112, 114, 115, or 120 fusion-weld tank car tanks are authorized. DOT 103W, 111A60F1 and 111A60W1 tank car tanks must have bottom outlets effectively sealed from inside. Gauging devices are required on DOT 103W tank car tanks. Riveted tank car tanks are not authorized. 
 
-(2) *Cargo tanks.* Specification MC 307, MC 310, MC 311, MC 312, DOT 407, and DOT 412 cargo tank motor vehicles with a tank design pressure of at least 172 kPa (25 psig) are authorized.
+(2) *Cargo tanks.* Specification MC 307, MC 310, MC 311, MC 312, DOT 407, and DOT 412 cargo tank motor vehicles with a tank design pressure of at least 172 kPa (25 psig) are authorized. 
 
-(3) *Portable tanks.* The following requirements apply to portable tanks intended for the transport of organic peroxides or self-reactive substances. DOT 51, 57, IM 101 portable tanks, and UN portable tanks that conform to the requirements of paragraph (g) of this section, are authorized. Type F organic peroxide or self-reactive substance formulations other than those indicated in the Organic Peroxide Portable Tank Table may be transported in portable tanks if approved by the Associate Administrator. The following conditions also apply:
+(3) *Portable tanks.* The following requirements apply to portable tanks intended for the transport of organic peroxides or self-reactive substances. DOT 51, 57, IM 101 portable tanks, and UN portable tanks that conform to the requirements of paragraph (g) of this section, are authorized. Type F organic peroxide or self-reactive substance formulations other than those indicated in the Organic Peroxide Portable Tank Table may be transported in portable tanks if approved by the Associate Administrator. The following conditions also apply: 
 
-(i) The portable tank must be designed for a test pressure of at least 0.4 MPa (4 bar).
+(i) The portable tank must be designed for a test pressure of at least 0.4 MPa (4 bar). 
 
-(ii) The portable tank must be fitted with temperature-sensing devices.
+(ii) The portable tank must be fitted with temperature-sensing devices. 
 
-(iii) The portable tank must be fitted with pressure relief devices and emergency-relief devices. Vacuum-relief devices may also be used. Pressure relief devices must operate at pressures determined according to both the properties of the hazardous material and the construction characteristics of the portable tank. Fusible elements are not allowed in the shell.
+(iii) The portable tank must be fitted with pressure relief devices and emergency-relief devices. Vacuum-relief devices may also be used. Pressure relief devices must operate at pressures determined according to both the properties of the hazardous material and the construction characteristics of the portable tank. Fusible elements are not allowed in the shell. 
 
-(iv) The pressure relief devices must consist of reclosing devices fitted to prevent significant build-up within the portable tank of the decomposition products and vapors released at a temperature of 50 °C (122 °F). The capacity and start-to-discharge pressure of the relief devices must be in accordance with the applicable requirements of this subchapter specified for the portable tank. The pressure relief devices must not allow liquid to escape in the event the portable tank is overturned in a loaded condition.
+(iv) The pressure relief devices must consist of reclosing devices fitted to prevent significant build-up within the portable tank of the decomposition products and vapors released at a temperature of 50 °C (122 °F). The capacity and start-to-discharge pressure of the relief devices must be in accordance with the applicable requirements of this subchapter specified for the portable tank. The pressure relief devices must not allow liquid to escape in the event the portable tank is overturned in a loaded condition. 
 
-(v)(A) The emergency-relief devices may be of the reclosing or frangible types, or a combination of the two, designed to vent all the decomposition products and vapors evolved during a period of not less than one hour of complete fire engulfment as calculated by the following formula:
+(v)(A) The emergency-relief devices may be of the reclosing or frangible types, or a combination of the two, designed to vent all the decomposition products and vapors evolved during a period of not less than one hour of complete fire engulfment as calculated by the following formula: 
 
 ![](/graphics/er20de04.002.gif)Where: q = heat absorption (W) A = wetted area (m 2) F = insulation factor (−)
 
-(B) Insulation factor (F) in the formula in paragraph (h)(3)(v)(A) of this section equals 1 for non-insulated vessels and for insulated vessels F is calculated using the following formula:
+(B) Insulation factor (F) in the formula in paragraph (h)(3)(v)(A) of this section equals 1 for non-insulated vessels and for insulated vessels F is calculated using the following formula: 
 
 ![](/graphics/er20de04.003.gif)Where: U = K/L = heat transfer coefficient of the insulation (W·m−2·K−1); where K = heat conductivity of insulation layer (W·m−1·K−1), and L = thickness of insulation layer (m). TPO = temperature of material at relieving conditions (K).
 
-(vi) The start-to-discharge pressure of emergency-relief devices must be higher than that specified for the pressure relief devices in paragraph (h)(3)(iv) of this section. The emergency-relief devices must be sized and designed in such a way that the maximum pressure in the shell never exceeds the test pressure of the portable tank.
+(vi) The start-to-discharge pressure of emergency-relief devices must be higher than that specified for the pressure relief devices in paragraph (h)(3)(iv) of this section. The emergency-relief devices must be sized and designed in such a way that the maximum pressure in the shell never exceeds the test pressure of the portable tank. 
 
 Note to paragraph (h)(3)(vi):
 
 An example of a method to determine the size of emergency-relief devices is given in Appendix 5 of the UN Manual of Tests and Criteria (IBR, see § 171.7 of this subchapter). A second example of a test method for venting sizing is given in the American Institute of Chemical Engineers Process Safety Progress Journal, June 2002 issue (Vol. 21, No. 2) (Informational materials not requiring incorporation by reference, see § 171.7(b)).
 
-(vii) For insulated portable tanks, the capacity and setting of emergency-relief devices must be determined assuming a loss of insulation from 1% of the surface area.
+(vii) For insulated portable tanks, the capacity and setting of emergency-relief devices must be determined assuming a loss of insulation from 1% of the surface area. 
 
-(viii) Vacuum-relief devices and reclosing devices on portable tanks used for flammable hazardous materials must be provided with flame arresters. Any reduction of the relief capacity caused by the flame arrester must be taken into account and the appropriate relief capacity must be provided.
+(viii) Vacuum-relief devices and reclosing devices on portable tanks used for flammable hazardous materials must be provided with flame arresters. Any reduction of the relief capacity caused by the flame arrester must be taken into account and the appropriate relief capacity must be provided. 
 
-(ix) Service equipment such as devices and external piping must be designed and constructed so that no hazardous material remains in them after filling the portable tank.
+(ix) Service equipment such as devices and external piping must be designed and constructed so that no hazardous material remains in them after filling the portable tank. 
 
-(x) Portable tanks may be either insulated or protected by a sun-shield. If the SADT of the hazardous material in the portable tank is 55 °C (131 °F) or less, the portable tank must be completely insulated. The outer surface must be finished in white or bright metal.
+(x) Portable tanks may be either insulated or protected by a sun-shield. If the SADT of the hazardous material in the portable tank is 55 °C (131 °F) or less, the portable tank must be completely insulated. The outer surface must be finished in white or bright metal. 
 
-(xi) The degree of filling must not exceed 90% at 15 °C (59 °F).
+(xi) The degree of filling must not exceed 90% at 15 °C (59 °F). 
 
-(xii) DOT 57 metal portable tanks are authorized only for those materials or mixtures of two or more materials that are provided with a reference to Note 9 in Column 8 of the Organic Peroxide Table, found in paragraph (c) of this section. DOT 57 portable tanks must conform to the venting requirements of paragraph (f) of this section. These portable tanks are not subject to any other requirements of paragraph (h) of this section.
+(xii) DOT 57 metal portable tanks are authorized only for those materials or mixtures of two or more materials that are provided with a reference to Note 9 in Column 8 of the Organic Peroxide Table, found in paragraph (c) of this section. DOT 57 portable tanks must conform to the venting requirements of paragraph (f) of this section. These portable tanks are not subject to any other requirements of paragraph (h) of this section. 
 
-(4) For tertiary butyl hydroperoxide (TBHP), each tank car, cargo tank or portable tank must contain 7.6 cm (3.0 inches) low density polyethylene (PE) saddles having a melt index of at least 0.2 grams per 10 minutes (for example see, ASTM D1238, condition E) as part of the lading, with a ratio of PE to TBHP over a range of 0.008 to 0.012 by mass. Alternatively, plastic or metal containers equipped with fusible plugs having a melting point between 69 °C (156 °F) and 71 °C (160 °F) and filled with a sufficient quantity of water to dilute the TBHP to 65% or less by mass may be used. The PE saddles must be visually inspected after each trip and, at a minimum, once every 12 months, and replaced when discoloration, fracture, severe deformation, or other indication of change is noted.
+(4) For tertiary butyl hydroperoxide (TBHP), each tank car, cargo tank or portable tank must contain 7.6 cm (3.0 inches) low density polyethylene (PE) saddles having a melt index of at least 0.2 grams per 10 minutes (for example see, ASTM D1238, condition E) as part of the lading, with a ratio of PE to TBHP over a range of 0.008 to 0.012 by mass. Alternatively, plastic or metal containers equipped with fusible plugs having a melting point between 69 °C (156 °F) and 71 °C (160 °F) and filled with a sufficient quantity of water to dilute the TBHP to 65% or less by mass may be used. The PE saddles must be visually inspected after each trip and, at a minimum, once every 12 months, and replaced when discoloration, fracture, severe deformation, or other indication of change is noted. 
 
 \[69 FR 76159, Dec. 20, 2004, as amended at 70 FR 34398, June 14, 2005; 72 FR 55693, Oct. 1, 2007; 74 FR 2260, Jan. 14, 2009; 78 FR 1089, Jan. 7, 2013; 78 FR 65482, Oct. 31, 2013; 80 FR 1160, Jan. 8, 2015; 81 FR 35542, June 2, 2016; 82 FR 15884, Mar. 30, 2017; 85 FR 27889, May 11, 2020; 87 FR 44996, July 26, 2022; 87 FR 79777, Dec. 27, 2022; 89 FR 25481, Apr. 10, 2024\]

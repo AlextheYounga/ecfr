@@ -1,8 +1,8 @@
 ##### § 179.220-7 Materials.
 
-(a) The plate material used to fabricate the inner container and nozzles must meet one of the following specifications and with the indicated minimum tensile strength and elongation in the welded condition.
+(a) The plate material used to fabricate the inner container and nozzles must meet one of the following specifications and with the indicated minimum tensile strength and elongation in the welded condition. 
 
-(b) Carbon steel plate: The maximum allowable carbon content must be 0.31 percent when the individual specification allows carbon content greater than this amount. The plates may be clad with other approved materials.
+(b) Carbon steel plate: The maximum allowable carbon content must be 0.31 percent when the individual specification allows carbon content greater than this amount. The plates may be clad with other approved materials. 
 
 | Specifications                                                                           | Minimum tensile strength (p.s.i.) welded condition 1 | Minimum elongation in 2 inches (percent) weld metal (longitudinal) |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------ |
@@ -11,7 +11,7 @@
 | 1 Maximum stresses to be used in calculations.                                           |                                                      |                                                                    |
 | 2 This specification is incorporated by reference (IBR, see § 171.7 of this subchapter). |                                                      |                                                                    |
 
-(c) *Aluminum alloy plate:* Aluminum alloy plate must be suitable for welding and comply with one of the following specifications (IBR, see § 171.7 of this subchapter): \* \* \*
+(c) *Aluminum alloy plate:* Aluminum alloy plate must be suitable for welding and comply with one of the following specifications (IBR, see § 171.7 of this subchapter): \* \* \* 
 
 | Specifications                                                                                                                                          | Minimum tensile strength (p.s.i.) welded condition3 4 | Minimum elongation in 2 inches (percent) weld metal (longitudinal) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------ |
@@ -27,7 +27,7 @@
 | 3 Weld filler metal 5556 must not be used.                                                                                                              |                                                       |                                                                    |
 | 4 Maximum stresses to be used in calculations.                                                                                                          |                                                       |                                                                    |
 
-(d) High alloy steel plate: High alloy steel plate must comply with one of the following specifications (IBR, see § 171.7 of this subchapter):
+(d) High alloy steel plate: High alloy steel plate must comply with one of the following specifications (IBR, see § 171.7 of this subchapter): 
 
 | Specifications                                                                           | Minimum tensile strength (p.s.i.) welded condition1 | Minimum elongation in 2 inches (percent) weld metal (longitudinal) |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------ |
@@ -37,15 +37,15 @@
 | ASTM A 240/A 240M (incorporated by reference; see § 171.7 of this subchapter), Type 316L | 70,000                                              | 30                                                                 |
 | 1 Maximum stresses to be used in calculations.                                           |                                                     |                                                                    |
 
-(e) Manganese-molybdenum steel plate: Manganese-molybdenum steel plate must be suitable for fusion welding and must comply with the following specification (IBR, see § 171.7 of this subchapter):
+(e) Manganese-molybdenum steel plate: Manganese-molybdenum steel plate must be suitable for fusion welding and must comply with the following specification (IBR, see § 171.7 of this subchapter): 
 
 | Specifications                                 | Minimum tensile strength (p.s.i.) welded condition 1 | Minimum elongation in 2 inches (percent) weld metal (longitudinal) |
 | ---------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------ |
 | ASTM A 302, Gr. B                              | 80,000                                               | 20                                                                 |
 | 1 Maximum stresses to be used in calculations. |                                                      |                                                                    |
 
-(f) Plate materials used to fabricate the outer shell and heads must be those listed in paragraphs (b), (c), (d), or (e) of this section. The maximum allowable carbon content must be 0.31 percent when the individual specification allows carbon content greater than this amount. The plates may be clad with other approved materials.
+(f) Plate materials used to fabricate the outer shell and heads must be those listed in paragraphs (b), (c), (d), or (e) of this section. The maximum allowable carbon content must be 0.31 percent when the individual specification allows carbon content greater than this amount. The plates may be clad with other approved materials. 
 
-(g) All appurtenances on the inner container in contact with the lading must be made of approved material compatible with the plate material of the inner container. These appurtenances must not be subject to rapid deterioration by the lading, or must be coated or lined with suitable corrosion resistant material. See AAR Specifications for Tank Cars, appendix M, M4.05 for approved material specifications for castings for fittings.
+(g) All appurtenances on the inner container in contact with the lading must be made of approved material compatible with the plate material of the inner container. These appurtenances must not be subject to rapid deterioration by the lading, or must be coated or lined with suitable corrosion resistant material. See AAR Specifications for Tank Cars, appendix M, M4.05 for approved material specifications for castings for fittings. 
 
 \[Amdt. 179-9, 36 FR 21340, Nov. 6, 1971, as amended by Amdt. 179-28, 46 FR 49906, Oct. 8, 1981; Amdt. 179-40, 52 FR 13048, Apr. 20, 1987; Amdt. 179-52, 61 FR 28681, June 5, 1996; 66 FR 45186, Aug. 28, 2001; 67 FR 51660, Aug. 8, 2002; 68 FR 75762, Dec. 31, 2003\]

@@ -1,38 +1,38 @@
 ##### § 173.302c Additional requirements for the shipment of adsorbed gases in UN pressure receptacles.
 
-(a) A cylinder filled with an adsorbed gas must be offered for transportation in UN pressure receptacles subject to the requirements in this section and § 173.302, as well as, §§ 173.301 and 173.301b.
+(a) A cylinder filled with an adsorbed gas must be offered for transportation in UN pressure receptacles subject to the requirements in this section and § 173.302, as well as, §§ 173.301 and 173.301b. 
 
-(b) The pressure of each filled cylinder must be less than 101.3 kPa at 20 °C (68 °F) and must not exceed 300 kPa at 50 °C (122 °F).
+(b) The pressure of each filled cylinder must be less than 101.3 kPa at 20 °C (68 °F) and must not exceed 300 kPa at 50 °C (122 °F). 
 
-(c) The minimum test pressure of the cylinder must be 21 bar.
+(c) The minimum test pressure of the cylinder must be 21 bar. 
 
-(d) The minimum burst pressure of the cylinder must be 94.5 bar.
+(d) The minimum burst pressure of the cylinder must be 94.5 bar. 
 
-(e) The internal pressure at 65 °C (149 °F) of the filled cylinder must not exceed the test pressure of the cylinder.
+(e) The internal pressure at 65 °C (149 °F) of the filled cylinder must not exceed the test pressure of the cylinder. 
 
-(f) The adsorbent material must be compatible with the cylinder and must not form harmful or dangerous compounds with the gas to be adsorbed. The gas in combination with the adsorbent material must not affect or weaken the cylinder or cause a dangerous reaction (*e.g.,* a catalyzing reaction).
+(f) The adsorbent material must be compatible with the cylinder and must not form harmful or dangerous compounds with the gas to be adsorbed. The gas in combination with the adsorbent material must not affect or weaken the cylinder or cause a dangerous reaction (*e.g.,* a catalyzing reaction). 
 
-(g) The quality of the adsorbent material must be verified at the time of each fill to assure the pressure and chemical stability requirements of this section are met each time an adsorbed gas package is offered for transport.
+(g) The quality of the adsorbent material must be verified at the time of each fill to assure the pressure and chemical stability requirements of this section are met each time an adsorbed gas package is offered for transport. 
 
-(h) The adsorbent material must not meet the definition of any other hazard class.
+(h) The adsorbent material must not meet the definition of any other hazard class. 
 
-(i) Cylinders and closures containing toxic gases with an LC50 less than or equal to 200 ml/m3 (ppm) (see the following Adsorbed Gases Table) must meet the following requirements:
+(i) Cylinders and closures containing toxic gases with an LC50 less than or equal to 200 ml/m3 (ppm) (see the following Adsorbed Gases Table) must meet the following requirements: 
 
-(1) Valve outlets must be fitted with pressure retaining gas-tight plugs or caps having threads matching those of the valve outlets.
+(1) Valve outlets must be fitted with pressure retaining gas-tight plugs or caps having threads matching those of the valve outlets. 
 
-(2) Each valve must either be of the packless type with non-perforated diaphragm, or be of a type which prevents leakage through or past the packing.
+(2) Each valve must either be of the packless type with non-perforated diaphragm, or be of a type which prevents leakage through or past the packing. 
 
-(3) Each cylinder and closure must be tested for leakage after filling.
+(3) Each cylinder and closure must be tested for leakage after filling. 
 
-(4) Each valve must be capable of withstanding the test pressure of the cylinder and be directly connected to the cylinder by either a taper-thread or other means which meets the requirements of ISO 10692-2 (IBR, see § 171.7 of this subchapter); and
+(4) Each valve must be capable of withstanding the test pressure of the cylinder and be directly connected to the cylinder by either a taper-thread or other means which meets the requirements of ISO 10692-2 (IBR, see § 171.7 of this subchapter); and 
 
-(5) Cylinders and valves must not be fitted with a pressure relief device.
+(5) Cylinders and valves must not be fitted with a pressure relief device. 
 
-(j) Valve outlets for cylinders containing pyrophoric gases must be fitted with gas-tight plugs or caps having threads matching those of the valve outlets.
+(j) Valve outlets for cylinders containing pyrophoric gases must be fitted with gas-tight plugs or caps having threads matching those of the valve outlets. 
 
-(k) The filling procedure must be in accordance with Annex A of ISO 11513:2019 (IBR, see § 171.7 of this subchapter). Until December 31, 2026, filling may instead be in accordance with Annex A of ISO 11513:2011(E) (IBR, see § 171.7 of this subchapter).
+(k) The filling procedure must be in accordance with Annex A of ISO 11513:2019 (IBR, see § 171.7 of this subchapter). Until December 31, 2026, filling may instead be in accordance with Annex A of ISO 11513:2011(E) (IBR, see § 171.7 of this subchapter). 
 
-(l) The maximum period for periodic requalification must be in accordance with § 180.207(c) of this subchapter.
+(l) The maximum period for periodic requalification must be in accordance with § 180.207(c) of this subchapter. 
 
 Adsorbed Gases Table
 | ID No.                                                                                                                                                                         | Hazardous material                                | LC50 ml/m3 | Notes |

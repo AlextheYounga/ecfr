@@ -1,6 +1,6 @@
 ##### § 179.300-7 Materials.
 
-(a) Steel plate material used to fabricate tanks must conform with the following specifications with the indicated minimum tensile strength and elongation in the welded condition. However, the maximum allowable carbon content for carbon steel must not exceed 0.31 percent, although the individual ASTM specification may allow for a greater amount of carbon. The plates may be clad with other approved materials:
+(a) Steel plate material used to fabricate tanks must conform with the following specifications with the indicated minimum tensile strength and elongation in the welded condition. However, the maximum allowable carbon content for carbon steel must not exceed 0.31 percent, although the individual ASTM specification may allow for a greater amount of carbon. The plates may be clad with other approved materials: 
 
 | Specifications 2                                                                            | Tensile strength (psi) welded condition 1 (minimum) | Elongation in 2 inches (percent) welded condition 1 (longitudinal) (minimum) |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -18,8 +18,8 @@
 | 1 Maximum stresses to be used in calculations.                                              |                                                     |                                                                              |
 | 2 These specifications are incorporated by reference (IBR, see § 171.7 of this subchapter.) |                                                     |                                                                              |
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
-(c) All plates must have their heat number and the name or brand of the manufacturer legibly stamped on them at the rolling mill.
+(c) All plates must have their heat number and the name or brand of the manufacturer legibly stamped on them at the rolling mill. 
 
 \[Amdt. 179-10, 36 FR 21355, Nov. 6, 1971, as amended by Amdt. 179-42, 54 FR 38798, Sept. 20, 1989; Amdt. 179-43, 55 FR 27642, July 5, 1990; Amdt. 179-52, 61 FR 28682, June 5, 1996; Amdt. 179-52, 61 FR 50255, Sept. 25, 1996; Amdt. 179-53, 61 FR 51342, Oct. 1, 1996; 68 FR 75763, Dec. 31, 2003\]
