@@ -32,4 +32,4 @@
 
 (2) Violations of this regulation may be reported to the COTP at 718-354-4353 or on VHF-Channel 16.
 
-Effective Date Note:By USCG-2013-0705, 79 FR 43254, July 25, 2014, as amended by USCG-2015-0433, 80 FR 44282, July 27, 2015, temporary § 165.T01-0174 was revised, effective from July 25, 2014, to Dec. 31, 2018.
+Effective Date Note:By USCG-2013-0705, 79 FR 43254, July 25, 2014, as amended by USCG-2015-0433, 80 FR 44282, July 27, 2015, temporary § 165.T01-0174 was revised, effective from July 25, 2014, to Dec. 31, 2018. By USCG-2013-0705, 83 FR 65521, Dec. 21, 2018, the effective period of § 165.T01-0174 is extended to December 31, 2019.

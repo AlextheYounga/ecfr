@@ -16,10 +16,6 @@
 
 (ii) The judge may not grant voluntary departure under section 240B(a) of the Act beyond 30 days after the master calendar hearing at which the case is initially calendared for a merits hearing, except pursuant to a stipulation under paragraph (b)(2) of this section.
 
-(iii) If the alien files a post-decision motion to reopen or reconsider during the period allowed for voluntary departure, the grant of voluntary departure shall be terminated automatically, and the alternate order of removal will take effect immediately. The penalties for failure to depart voluntarily under section 240B(d) of the Act shall not apply if the alien has filed a post-decision motion to reopen or reconsider during the period allowed for voluntary departure. Upon the granting of voluntary departure, the immigration judge shall advise the alien of the provisions of this paragraph (b)(3)(iii).
-
-(iv) The automatic termination of a grant of voluntary departure and the effectiveness of the alternative order of removal shall not affect, in any way, the date that the order of the immigration judge or the Board became administratively final, as determined under the provisions of the applicable regulations in this chapter.
-
 (2) *Stipulation.* At any time prior to the completion of removal proceedings, the Service counsel may stipulate to a grant of voluntary departure under section 240B(a) of the Act.
 
 (3) *Conditions.* (i) The judge may impose such conditions as he or she deems necessary to ensure the alien's timely departure from the United States, including the posting of a voluntary departure bond to be canceled upon proof that the alien has departed the United States within the time specified. The alien shall be required to present to the Service, for inspection and photocopying, his or her passport or other travel documentation sufficient to assure lawful entry into the country to which the alien is departing, unless:
@@ -29,6 +25,10 @@
 (B) The document is already in the possession of the Service.
 
 (ii) The Service may hold the passport or documentation for sufficient time to investigate its authenticity. If such documentation is not immediately available to the alien, but the immigration judge is satisfied that the alien is making diligent efforts to secure it, voluntary departure may be granted for a period not to exceed 120 days, subject to the condition that the alien within 60 days must secure such documentation and present it to the Service. The Service in its discretion may extend the period within which the alien must provide such documentation. If the documentation is not presented within the 60-day period or any extension thereof, the voluntary departure order shall vacate automatically and the alternate order of removal will take effect, as if in effect on the date of issuance of the immigration judge order.
+
+(iii) If the alien files a post-decision motion to reopen or reconsider during the period allowed for voluntary departure, the grant of voluntary departure shall be terminated automatically, and the alternate order of removal will take effect immediately. The penalties for failure to depart voluntarily under section 240B(d) of the Act shall not apply if the alien has filed a post-decision motion to reopen or reconsider during the period allowed for voluntary departure. Upon the granting of voluntary departure, the immigration judge shall advise the alien of the provisions of this paragraph (b)(3)(iii).
+
+(iv) The automatic termination of a grant of voluntary departure and the effectiveness of the alternative order of removal shall not affect, in any way, the date that the order of the immigration judge or the Board became administratively final, as determined under the provisions of the applicable regulations in this chapter.
 
 (c) *At the conclusion of the removal proceedings* - (1) *Required findings.* An immigration judge may grant voluntary departure at the conclusion of the removal proceedings under section 240B(b) of the Act, if he or she finds that:
 

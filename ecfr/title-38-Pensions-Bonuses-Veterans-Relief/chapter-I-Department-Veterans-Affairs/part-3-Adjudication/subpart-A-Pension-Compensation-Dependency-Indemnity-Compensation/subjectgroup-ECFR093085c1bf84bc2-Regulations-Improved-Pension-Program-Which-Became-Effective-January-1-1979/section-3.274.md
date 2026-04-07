@@ -12,7 +12,7 @@
 
 (4) *Example of net worth calculation.* For purposes of this example, presume the net worth limit is $123,600. A claimant's assets total $117,000 and annual income is $9,000. Therefore, adding the claimant's annual income to assets produces net worth of $126,000. This amount exceeds the net worth limit.
 
-(c) *Assets of other individuals included as claimant's or beneficiary's assets* - (1) *Claimant or beneficiary is a veteran.* A veteran's assets include the assets of the veteran as well as the assets of his or her spouse, if the veteran has a spouse.
+(c) *Assets of other individuals included as claimant's or beneficiary's assets*—(1) *Claimant or beneficiary is a veteran.* A veteran's assets include the assets of the veteran as well as the assets of his or her spouse, if the veteran has a spouse.
 
 (2) *Claimant or beneficiary is a surviving spouse.* A surviving spouse's assets include only the assets of the surviving spouse.
 
@@ -22,7 +22,7 @@
 
 (d) *How a child's net worth affects a veteran's or surviving spouse's pension entitlement.* VA will not consider a child to be a veteran's or surviving spouse's dependent child for pension purposes if the child's net worth exceeds the net worth limit in paragraph (a) of this section.
 
-(1) *Dependent child and potential dependent child.* For the purposes of this section -
+(1) *Dependent child and potential dependent child.* For the purposes of this section—
 
 (i) “Dependent child” refers to a child for whom a veteran or a surviving spouse is entitled to an increased maximum annual pension rate.
 
@@ -36,7 +36,7 @@
 
 (e) *When VA calculates net worth.* VA calculates net worth only when:
 
-(1) VA has received -
+(1) VA has received—
 
 (i) An original pension claim;
 
@@ -48,7 +48,7 @@
 
 (2) The claimant or beneficiary meets the other factors necessary for pension entitlement as provided in § 3.3(a)(3) and (b)(4).
 
-Note to Paragraph (e).
+Note to paragraph (e):
 
 If the evidence shows that net worth exceeds the net worth limit, VA may decide the pension claim before determining if the claimant meets other entitlement factors. VA will notify the claimant of the entitlement factors that have not been established.
 
@@ -62,7 +62,7 @@ If the evidence shows that net worth exceeds the net worth limit, VA may decide 
 
 (4) *Example 2.* For purposes of this example, presume the net worth limit is $123,600 and the MAPR is $12,000. A claimant has assets of $123,000 and annual income of $9,500. Adding annual income to assets produces a net worth of $132,500, which exceeds the net worth limit. The claimant pays reasonably predictable annual unreimbursed medical expenses of $9,000. Unreimbursed medical expenses are deductible from annual income under § 3.272(g) to the extent that they exceed 5 percent of the applicable MAPR. VA subtracts the projected expenditures that exceed 5 percent of the applicable MAPR (here, $8,400) from annual income, which decreases annual income to $1,100. This decreases net worth to $124,100, which is still over the limit. VA must deny the claim for excessive net worth.
 
-(g) *Effective dates of pension entitlement or increased entitlement after a denial, reduction, or discontinuance based on excessive net worth* - (1) *Scope of paragraph.* This paragraph (g) applies when VA has:
+(g) *Effective dates of pension entitlement or increased entitlement after a denial, reduction, or discontinuance based on excessive net worth*—(1) *Scope of paragraph.* This paragraph (g) applies when VA has:
 
 (i) Discontinued pension or denied pension entitlement for a veteran, surviving spouse, or surviving child based on the veteran's, surviving spouse's, or surviving child's excessive net worth; or
 
@@ -70,11 +70,11 @@ If the evidence shows that net worth exceeds the net worth limit, VA may decide 
 
 (2) *Effective date of entitlement or increased entitlement.* The effective date of entitlement or increased entitlement is the day net worth ceases to exceed the limit. For this effective date to apply, the claimant or beneficiary must submit a certified statement that net worth has decreased and VA must receive the certified statement before the pension claim has become finally adjudicated under § 3.160. This means that VA must receive the certified statement within 1 year after its decision notice to the claimant concerning the denial, reduction, or discontinuance unless the claimant appeals VA's decision. Otherwise, the effective date is the date VA receives a new pension claim. In accordance with § 3.277(a), VA may require the claimant or beneficiary to submit additional evidence as the individual circumstances may require.
 
-(h) *Reduction or discontinuance of beneficiary's pension entitlement based on excessive net worth* - (1) *Effective date of reduction or discontinuance.* When an increase in a beneficiary's or dependent child's net worth results in a pension reduction or discontinuance because net worth exceeds the limit, the effective date of reduction or discontinuance is the last day of the calendar year in which net worth exceeds the limit.
+(h) *Reduction or discontinuance of beneficiary's pension entitlement based on excessive net worth*—(1) *Effective date of reduction or discontinuance.* When an increase in a beneficiary's or dependent child's net worth results in a pension reduction or discontinuance because net worth exceeds the limit, the effective date of reduction or discontinuance is the last day of the calendar year in which net worth exceeds the limit.
 
 (2) *Net worth decreases before the effective date.* If net worth decreases to the limit or below the limit before the effective date provided in paragraph (h)(1) of this section, VA will not reduce or discontinue the pension award on the basis of excessive net worth.
 
-(i) *Additional effective-date provisions for dependent children* - (1) *Establishing a dependent child on veteran's or surviving spouse's pension award results in increased pension entitlement.* When establishing a dependent child on a veteran's or surviving spouse's pension award results in increased pension entitlement for the veteran or surviving spouse, VA will apply the effective-date provisions in paragraphs (g) and (h) of this section.
+(i) *Additional effective-date provisions for dependent children*—(1) *Establishing a dependent child on veteran's or surviving spouse's pension award results in increased pension entitlement.* When establishing a dependent child on a veteran's or surviving spouse's pension award results in increased pension entitlement for the veteran or surviving spouse, VA will apply the effective-date provisions in paragraphs (g) and (h) of this section.
 
 (2) *Establishing a dependent child on veteran's or surviving spouse's pension award results in decreased pension entitlement.* (i) When a dependent child's non-excessive net worth results in decreased pension entitlement for the veteran or surviving spouse, the effective date of the decreased pension entitlement rate (*i.e.,* VA action to add the child to the award) is the end of the year that the child's net worth decreases.
 
