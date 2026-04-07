@@ -32,7 +32,7 @@ The following provisions and clauses apply to the acquisition of supplies and th
 
 (ii) If the acquisition value is $50,000 or more but is less than $92,319, use the provision with its Alternate II.
 
-(iii If the acquisition value is $92,319 or more, but is less than $100,000, use the provision with its Alternate III.
+(iii) If the acquisition value is $92,319 or more, but is less than $100,000, use the provision with its Alternate III.
 
 (c)(1) Insert the clause at 52.225-5, Trade Agreements, in solicitations and contracts valued at $183,000 or more, if the acquisition is covered by the WTO GPA (see subpart 25.4) and the agency has determined that the restrictions of the Buy American statute are not applicable to U.S.-made end products. If the agency has not made such a determination, the contracting officer must follow agency procedures.
 

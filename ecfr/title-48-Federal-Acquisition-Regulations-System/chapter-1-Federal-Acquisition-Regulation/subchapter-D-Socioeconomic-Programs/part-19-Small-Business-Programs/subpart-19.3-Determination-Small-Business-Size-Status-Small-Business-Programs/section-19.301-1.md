@@ -28,7 +28,7 @@
 
 (e) Multiple-award contract representations:
 
-(1) A business that represents as a small business concern at the time of its initial offer for the contract (whether or not the offer includes price or the price is evaluated (see 13 CFR 121.404(a)(1)(iv)) is considered a small business concern for each order issued under the contract (but see 19.301-2 for rerepresentations).
+(1) A business that represents as a small business concern at the time of its initial offer for the contract (whether or not the offer includes price or the price is evaluated (see 13 CFR 121.404(a)(1)(iv)), is considered a small business concern for each order issued under the contract (but see 19.301-2 for rerepresentations).
 
 (2) A business that represents as a small business concern at the time of its initial offer for a distinct portion or category as set forth in paragraph (a)(1)(ii) is considered a small business concern for each order issued under that distinct portion or category (but see 19.301-2 for rerepresentations).
 

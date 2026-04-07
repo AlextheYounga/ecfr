@@ -4,7 +4,7 @@
 
 (i) Obtain whatever data are available from Government or other secondary sources and use that data in determining a fair and reasonable price;
 
-(ii) Require submission of data other than certified cost or pricing data, as defined in 2.101, from the offeror to the extent necessary to determine a fair and reasonable price (10 U.S.C. 3705(a)and 41 U.S.C. 3505(a)) if the contracting officer determines that adequate data from sources other than the offeror are not available. This includes requiring data from an offeror to support a cost realism analysis;
+(ii) Require submission of data other than certified cost or pricing data, as defined in 2.101, from the offeror to the extent necessary to determine a fair and reasonable price (10 U.S.C. 3705(a) and 41 U.S.C. 3505(a)) if the contracting officer determines that adequate data from sources other than the offeror are not available. This includes requiring data from an offeror to support a cost realism analysis;
 
 (iii) Consider whether cost data are necessary to determine a fair and reasonable price when there is not adequate price competition;
 
