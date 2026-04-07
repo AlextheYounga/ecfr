@@ -4,11 +4,7 @@
 
 (2) Liquid Type A medicated article containing 500 mg melengestrol acetate per pound.
 
-(b) *Approvals.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (e) of this section.
-
-(1) No. 054771 for use of products described in paragraph (a) of this section.
-
-(2) Nos. 016592 and 058198 for use of product described in paragraph (a)(2) of this section.
+(b) *Sponsor.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (e) of this section.
 
 (c) *Related tolerances.* See § 556.380 of this chapter.
 

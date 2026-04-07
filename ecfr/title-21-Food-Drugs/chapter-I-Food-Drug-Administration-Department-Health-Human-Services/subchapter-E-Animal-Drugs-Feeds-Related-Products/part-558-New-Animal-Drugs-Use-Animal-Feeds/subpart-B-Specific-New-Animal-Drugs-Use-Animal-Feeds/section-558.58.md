@@ -6,11 +6,11 @@
 
 (2) 25 percent amprolium and 0.8 percent ethopabate or 5 percent amprolium and 0.16 percent ethopabate.
 
-(b) *Approvals.* See No. 016592 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 016592 in § 510.600(c) of this chapter.
 
-(c) *Special considerations.* Do not use in Type B or Type C medicated feeds containing bentonite.
+(c) *Related tolerances.* See §§ 556.50 and 556.260 of this chapter.
 
-(d) *Related tolerances.* See §§ 556.50 and 556.260 of this chapter.
+(d) *Special considerations.* Do not use in Type B or Type C medicated feeds containing bentonite.
 
 (e) *Conditions of use.* It is used in chicken feed as follows:
 

@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Type A medicated articles containing 45, 60, 90.7, or 110 grams monensin, USP, per pound.
 
-(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (f) of this section.
+(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows:
 
 (1) No. 058198 for use as in paragraph (f) of this section.
 
@@ -62,9 +62,9 @@
 
 (9) Type B feeds containing monensin shall bear the statements specified in the following paragraphs of this section when intended for use in:
 
-(i) *Cattle (as described in paragraphs (f)(3)(i) through (f)(3)(xii) of this section)*: See paragraphs (d)(6), (d)(7)(i) through (d)(7)(v), (d)(7)(vii), and (d)(7)(viii) of this section.
+(i) *Cattle (as described in paragraphs (f)(3)(i) through (iii), (vi), and (vii) and (f)(4)(i) through (vi) of this section).* See paragraphs (d)(6) and (d)(7)(i) through (v), (vii), and (viii) of this section.
 
-(ii) *Dairy cows (as described in paragraphs (f)(3)(xiii) and (f)(3)(xiv) of this section)*: See paragraphs (d)(6), (d)(7)(i) through (d)(7)(iv), (d)(7)(vii), (d)(7)(viii), and (d)(7)(ix) of this section.
+(ii) *Dairy cows (as described in paragraphs (f)(3)(iv) and (v) of this section).* See paragraphs (d)(6) and (d)(7)(i) through (iv), (vii), (viii), and (ix) of this section.
 
 (iii) *Goats*: See paragraphs (d)(6) and (d)(7)(i) through (d)(7)(vi) of this section.
 
@@ -76,9 +76,9 @@
 
 (10) Type C feeds containing monensin shall bear the statements specified in the following paragraphs of this section when intended for use in:
 
-(i) *Cattle (as described in paragraphs (f)(3)(i) through (f)(3)(xii) of this section):* See paragraphs (d)(6), (d)(7)(i), (d)(7)(v), (d)(7)(vii), and (d)(7)(viii) of this section. Paragraph (d)(7)(vii) of this section does not apply to free-choice Type C medicated feeds as defined in § 510.455 of this chapter.
+(i) *Cattle (as described in paragraphs (f)(3)(i) through (iii), (vi), and (vii) and (f)(4)(i) through (vi) of this section).* See paragraphs (d)(6) and (d)(7)(i), (v), (vii), and (viii) of this section. Paragraph (d)(7)(vii) of this section does not apply to free-choice Type C medicated feeds as defined in § 510.455 of this chapter.
 
-(ii) *Dairy cows (as described in paragraphs (f)(3)(xiii) and (f)(3)(xiv) of this section):* See paragraphs (d)(6), (d)(7)(i), (d)(7)(vii), (d)(7)(viii), and (d)(7)(ix) of this section. Paragraph (d)(7)(vii) of this section does not apply to free-choice Type C medicated feeds as defined in § 510.455 of this chapter.
+(ii) *Dairy cows (as described in paragraphs (f)(3)(iv) and (v) of this section).* See paragraphs (d)(6) and (d)(7)(i), (vii), (viii), and (ix) of this section. Paragraph (d)(7)(vii) of this section does not apply to free-choice Type C medicated feeds as defined in § 510.455 of this chapter.
 
 (iii) *Goats*: See paragraphs (d)(6), (d)(7)(i), (d)(7)(v), and (d)(7)(vi) of this section.
 
