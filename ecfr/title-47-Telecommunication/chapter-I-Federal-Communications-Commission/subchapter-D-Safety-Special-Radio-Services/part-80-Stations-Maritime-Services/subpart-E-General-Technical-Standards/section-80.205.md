@@ -1,6 +1,6 @@
 ##### § 80.205 Bandwidths.
 
-(a) An emission designator shows the necessary bandwidth for each class of emission of a station except that in ship earth stations it shows the occupied or necessary bandwidth, whichever is greater. The following table gives the class of emission and corresponding emission designator and authorized bandwidth:
+(a) An emission designator shows the necessary bandwidth for each class of emission of a station except that in ship earth stations it shows the occupied or necessary bandwidth, whichever is greater. The following table gives the class of emission and corresponding emission designator and authorized bandwidth: 
 
 | Class of emission                                                                                                                                                                                                                                                                                                       | Emission designator | Authorized bandwidth (kHz) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | -------------------------- |
@@ -61,10 +61,10 @@
 | 13 \[Reserved\]                                                                                                                                                                                                                                                                                                         |                     |                            |
 | 14 The information is contained in multiple very low level subcarriers.                                                                                                                                                                                                                                                 |                     |                            |
 
-(b) For land stations the maximum authorized frequency deviation for F3E or G3E emission is as follows:
+(b) For land stations the maximum authorized frequency deviation for F3E or G3E emission is as follows: 
 
-(1) 5 kHz in the 72.0-73.0 MHz, 75.4-76.0 MHz and 156-162 MHz bands;
+(1) 5 kHz in the 72.0-73.0 MHz, 75.4-76.0 MHz and 156-162 MHz bands; 
 
-(2) 15 kHz for stations which were authorized for operation before December 1, 1961, in the 73.0-74.6 MHz band.
+(2) 15 kHz for stations which were authorized for operation before December 1, 1961, in the 73.0-74.6 MHz band. 
 
 \[51 FR 31213, Sept. 2, 1986, as amended at 52 FR 7418, Mar. 11, 1987; 53 FR 37308, Sept. 26, 1988; 56 FR 11516, Mar. 19, 1991; 57 FR 43407, Sept. 21, 1992; 58 FR 33344, June 17, 1993; 59 FR 7714, Feb. 16, 1994; 62 FR 40305, July 28, 1997; 63 FR 36606, July 7, 1998; 68 FR 46962, Aug. 7, 2003; 76 FR 67611, Nov. 2, 2011\]

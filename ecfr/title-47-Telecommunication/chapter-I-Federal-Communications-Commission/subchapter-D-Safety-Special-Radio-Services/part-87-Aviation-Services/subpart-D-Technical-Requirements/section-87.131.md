@@ -1,6 +1,6 @@
 ##### § 87.131 Power and emissions.
 
-The following table lists authorized emissions and maximum power. Power must be determined by direct measurement.
+The following table lists authorized emissions and maximum power. Power must be determined by direct measurement. 
 
 | Class of station                                                                                                                                                                          | Frequency band/frequency                                        | Authorized emission(s) 9          | Maximum power 1          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------- | ------------------------ |

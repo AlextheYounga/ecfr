@@ -1,6 +1,6 @@
 ##### § 36.201 Section arrangement.
 
-This subpart is arranged in sections as follows:
+This subpart is arranged in sections as follows: 
 
 | General                                                             | 36.202 |
 | Operating Revenues                                                  | 36.211 |

@@ -1,6 +1,6 @@
 ##### § 90.715 Frequencies available.
 
-(a) The following table indicates the channel designations of frequencies available for assignment to eligible applicants under this subpart. Frequencies shall be assigned in pairs, with base station frequencies taken from the 220-221 MHz band with corresponding mobile and control station frequencies being 1 MHz higher and taken from the 221-222 MHz band. Only the lower half of the frequency pair(s) is listed in the table. Use of these frequencies in the Mexican and Canadian border areas is subject to coordination with those countries. See paragraph (c) of this section for special provisions concerning use in the Mexico border area.
+(a) The following table indicates the channel designations of frequencies available for assignment to eligible applicants under this subpart. Frequencies shall be assigned in pairs, with base station frequencies taken from the 220-221 MHz band with corresponding mobile and control station frequencies being 1 MHz higher and taken from the 221-222 MHz band. Only the lower half of the frequency pair(s) is listed in the table. Use of these frequencies in the Mexican and Canadian border areas is subject to coordination with those countries. See paragraph (c) of this section for special provisions concerning use in the Mexico border area. 
 
 Table of 220-222 MHz Channel Designations
 | Channel No. | Base frequency (MHz) |
@@ -206,7 +206,7 @@ Table of 220-222 MHz Channel Designations
 | 199         | .9925                |
 | 200         | 220.9975             |
 
-(b) The 200 channels are divided into three sub-bands as follows:
+(b) The 200 channels are divided into three sub-bands as follows: 
 
 | Channel No. | Sub-band | Frequencies (MHz)                   |
 | ----------- | -------- | ----------------------------------- |
@@ -214,10 +214,10 @@ Table of 220-222 MHz Channel Designations
 | 41-160      | C        | 220.2025-220.7975/221.2025-221.7975 |
 | 161-200     | B        | 220.8025-220.9975/221.8025-221.9975 |
 
-(c) *U.S./Mexico border area.* (1) Channels 16-30, 45-60, 76-90, 106-120, 136-145, 156-165, 178-194 are available for primary use within the United States within 120 km (74.6 mi) of the Mexican border, subject to the power and antenna height conditions specified in § 90.729 and the use restrictions specified in §§ 90.717-90.721.
+(c) *U.S./Mexico border area.* (1) Channels 16-30, 45-60, 76-90, 106-120, 136-145, 156-165, 178-194 are available for primary use within the United States within 120 km (74.6 mi) of the Mexican border, subject to the power and antenna height conditions specified in § 90.729 and the use restrictions specified in §§ 90.717-90.721. 
 
-(2) Channels 195-200 are available to both the United States and Mexico in the border area on an unprotected basis. Use is limited to a maximum effective radiated power (ERP) of 2 watts and a maximum antenna height of 6.1 meters (20 ft) above ground.
+(2) Channels 195-200 are available to both the United States and Mexico in the border area on an unprotected basis. Use is limited to a maximum effective radiated power (ERP) of 2 watts and a maximum antenna height of 6.1 meters (20 ft) above ground. 
 
-(3) Channels allotted for primary Mexican use (1-15, 31-45, 61-75, 91-105, 121-135, 146-155, and 166-177) may be used in the border area subject to the condition that the power flux density not exceed−86 dB(W/m 2) at or beyond any point on the border. Stations operating under this provision will be considered secondary and will not be granted protection from harmful interference from stations that have primary use of the frequencies.
+(3) Channels allotted for primary Mexican use (1-15, 31-45, 61-75, 91-105, 121-135, 146-155, and 166-177) may be used in the border area subject to the condition that the power flux density not exceed−86 dB(W/m 2) at or beyond any point on the border. Stations operating under this provision will be considered secondary and will not be granted protection from harmful interference from stations that have primary use of the frequencies. 
 
 \[56 FR 19603, Apr. 29, 1991, as amended at 57 FR 55148, Nov. 24, 1992\]

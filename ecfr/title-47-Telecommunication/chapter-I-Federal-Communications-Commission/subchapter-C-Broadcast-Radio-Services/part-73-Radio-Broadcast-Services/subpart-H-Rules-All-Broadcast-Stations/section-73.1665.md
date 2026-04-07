@@ -1,10 +1,10 @@
 ##### § 73.1665 Main transmitters.
 
-(a) Each AM, FM, TV and Class A TV broadcast station must have at least one main transmitter which complies with the provisions of the transmitter technical requirements for the type and class of station. A main transmitter is one which is used for regular program service having power ratings appropriate for the authorized operating power(s).
+(a) Each AM, FM, TV and Class A TV broadcast station must have at least one main transmitter which complies with the provisions of the transmitter technical requirements for the type and class of station. A main transmitter is one which is used for regular program service having power ratings appropriate for the authorized operating power(s). 
 
-(b) There is no maximum manufacturer-rated power limit for AM, FM, TV or Class A TV station transmitters.
+(b) There is no maximum manufacturer-rated power limit for AM, FM, TV or Class A TV station transmitters. 
 
-(c) A licensee may, without further authority or notification to the FCC, replace an existing main transmitter or install additional main transmitter(s) for use with the authorized antenna if the replacement or additional transmitter(s) has been approved with Supplier's Declaration of Conformity. Within 10 days after commencement of regular use of the replacement or additional transmitter(s), equipment performance measurements, as prescribed for the type of station are to be completed.
+(c) A licensee may, without further authority or notification to the FCC, replace an existing main transmitter or install additional main transmitter(s) for use with the authorized antenna if the replacement or additional transmitter(s) has been approved with Supplier's Declaration of Conformity. Within 10 days after commencement of regular use of the replacement or additional transmitter(s), equipment performance measurements, as prescribed for the type of station are to be completed. 
 
 Note 1 to paragraph (c):
 

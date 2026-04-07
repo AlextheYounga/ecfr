@@ -1,6 +1,6 @@
 ##### § 36.211 General.
 
-Operating revenues are included in the following accounts:
+Operating revenues are included in the following accounts: 
 
 | Account title                 | Account No. |
 | ----------------------------- | ----------- |

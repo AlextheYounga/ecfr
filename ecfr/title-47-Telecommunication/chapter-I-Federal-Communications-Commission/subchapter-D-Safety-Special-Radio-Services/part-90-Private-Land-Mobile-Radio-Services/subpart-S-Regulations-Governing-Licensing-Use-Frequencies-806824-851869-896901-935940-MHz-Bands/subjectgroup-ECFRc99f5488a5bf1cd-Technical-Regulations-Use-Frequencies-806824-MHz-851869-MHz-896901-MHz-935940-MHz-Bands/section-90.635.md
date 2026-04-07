@@ -1,8 +1,8 @@
 ##### § 90.635 Limitations on power and antenna height.
 
-(a) The effective radiated power and antenna height for base stations may not exceed 1 kilowatt (30 dBw) and 304 m. (1,000 ft.) above average terrain (AAT), respectively, or the equivalent thereof as determined from the Table. These are maximum values, and applicants will be required to justify power levels and antenna heights requested.
+(a) The effective radiated power and antenna height for base stations may not exceed 1 kilowatt (30 dBw) and 304 m. (1,000 ft.) above average terrain (AAT), respectively, or the equivalent thereof as determined from the Table. These are maximum values, and applicants will be required to justify power levels and antenna heights requested. 
 
-(b) The maximum output power of the transmitter for mobile stations is 100 watts (20 dBw).
+(b) The maximum output power of the transmitter for mobile stations is 100 watts (20 dBw). 
 
 Table—Equivalent Power and Antenna Heights for Base Stations in the 851-869 MHz and 935-940 MHz Bands Which Have a Requirement for a 32 km (20 mi) Service Area Radius
 | Antenna height (ATT) meters (feet)                                                                                                                                                                                                                       | Effective radiated power (watts) 1 2 4 |

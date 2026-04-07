@@ -1,12 +1,12 @@
 ##### § 24.132 Power and antenna height limits.
 
-(a) Stations transmitting in the 901-902 MHz band are limited to 7 watts e.r.p.
+(a) Stations transmitting in the 901-902 MHz band are limited to 7 watts e.r.p. 
 
-(b) Mobile stations transmitting in the 930-931 MHz and 940-941 MHz bands are limited to 7 watts e.r.p.
+(b) Mobile stations transmitting in the 930-931 MHz and 940-941 MHz bands are limited to 7 watts e.r.p. 
 
-(c) Base stations transmitting in the 930-931 MHz and 940-941 MHz bands are limited to 3500 watts e.r.p. per authorized channel and are unlimited in antenna height except as provided in paragraph (d) of this section.
+(c) Base stations transmitting in the 930-931 MHz and 940-941 MHz bands are limited to 3500 watts e.r.p. per authorized channel and are unlimited in antenna height except as provided in paragraph (d) of this section. 
 
-(d)(1) MTA and regional base stations located between 200 kilometers (124 miles) and 80 kilometers (50 miles) from their licensed service area border are limited to the power levels in the following table:
+(d)(1) MTA and regional base stations located between 200 kilometers (124 miles) and 80 kilometers (50 miles) from their licensed service area border are limited to the power levels in the following table: 
 
 | Antenna HAAT in meters (feet) (see § 24.53 for HAAT HAAT calculation method) | Effective radiated power (e.r.p.) (watts) |
 | ---------------------------------------------------------------------------- | ----------------------------------------- |
@@ -29,14 +29,14 @@
 | 1244 (4080) to 1413 (4636)                                                   | 31 to 22                                  |
 | Above 1413 (4636)                                                            | 16                                        |
 
-(2) For heights between the values listed in the table, linear interpolation shall be used to determine maximum e.r.p.
+(2) For heights between the values listed in the table, linear interpolation shall be used to determine maximum e.r.p. 
 
-(e) MTA and regional base stations located less than 80 kilometers (50 miles) from the licensed service area border must limit their effective radiated power in accordance with the following formula:
+(e) MTA and regional base stations located less than 80 kilometers (50 miles) from the licensed service area border must limit their effective radiated power in accordance with the following formula: 
 
 PW = 0.0175 × dkm\* \* 6.6666 × x hm\* \* − 3.1997 PW is effective radiated power in watts dkm is distance in kilometers hm is antenna HAAT in meters; see § 24.53 for HAAT calculation method
 
-(f) All power levels specified in this section are expressed in terms of the maximum power, averaged over a 100 millisecond interval, when measured with instrumentation calibrated in terms of an rms-equivalent voltage with a resolution bandwidth equal to or greater than the authorized bandwidth.
+(f) All power levels specified in this section are expressed in terms of the maximum power, averaged over a 100 millisecond interval, when measured with instrumentation calibrated in terms of an rms-equivalent voltage with a resolution bandwidth equal to or greater than the authorized bandwidth. 
 
-(g) Additionally, PCS stations will be subject to any power limits imposed by international agreements.
+(g) Additionally, PCS stations will be subject to any power limits imposed by international agreements. 
 
 \[58 FR 59183, Nov. 8, 1993; 59 FR 15269, Mar. 31, 1994, as amended at 62 FR 27511, May 20, 1997; 65 FR 35853, June 6, 2000\]

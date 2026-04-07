@@ -1,6 +1,6 @@
 ##### § 76.1800 Additional reports and filings.
 
-In addition to the reports and filings required by this subpart, cable operators must provide all notifications which are required by § 1.1155 of this chapter (annual regulatory user fees). In addition, all cable systems subject to rate regulation must file FCC rate forms pursuant to the Commission's rate rules contained in subparts N and R of this part.
+In addition to the reports and filings required by this subpart, cable operators must provide all notifications which are required by § 1.1155 of this chapter (annual regulatory user fees). In addition, all cable systems subject to rate regulation must file FCC rate forms pursuant to the Commission's rate rules contained in subparts N and R of this part. 
 
 Note 1 to § 76.1800:
 

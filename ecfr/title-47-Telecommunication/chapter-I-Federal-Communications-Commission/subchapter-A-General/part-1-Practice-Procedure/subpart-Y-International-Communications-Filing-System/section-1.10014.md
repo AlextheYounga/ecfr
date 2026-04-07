@@ -1,14 +1,14 @@
 ##### § 1.10014 What happens after officially filing my application?
 
-(a) We give you an ICFS file number.
+(a) We give you an ICFS file number. 
 
-(b) We electronically route your application to an analyst who conducts an initial review of your application. If your application is incomplete, we will either dismiss the application, or contact you by telephone, letter or email to ask for additional information within a specific time. In cases where we ask for additional information, if we do not receive it within the specified time, we will dismiss your application. In either case, we will dismiss your application without prejudice, so that you may file again with a complete application.
+(b) We electronically route your application to an analyst who conducts an initial review of your application. If your application is incomplete, we will either dismiss the application, or contact you by telephone, letter or email to ask for additional information within a specific time. In cases where we ask for additional information, if we do not receive it within the specified time, we will dismiss your application. In either case, we will dismiss your application without prejudice, so that you may file again with a complete application. 
 
-(c) If your application is complete, and we verify receipt of your payment, it will appear on an “Accepted for Filing” Public Notice, unless public notice is not required. An “Accepted for Filing” Public Notice gives the public a certain amount of time to comment on your filing. This period varies depending upon the type of application.
+(c) If your application is complete, and we verify receipt of your payment, it will appear on an “Accepted for Filing” Public Notice, unless public notice is not required. An “Accepted for Filing” Public Notice gives the public a certain amount of time to comment on your filing. This period varies depending upon the type of application. 
 
-(1) Certain applications do not have to go on an “Accepted for Filing” Public Notice prior to initiation of service, but instead are filed as notifications to the Commission of prior actions by the carriers as authorized by the rules. Examples include pro forma notifications of transfer of control and assignment and certain foreign carrier notifications.
+(1) Certain applications do not have to go on an “Accepted for Filing” Public Notice prior to initiation of service, but instead are filed as notifications to the Commission of prior actions by the carriers as authorized by the rules. Examples include pro forma notifications of transfer of control and assignment and certain foreign carrier notifications. 
 
-(2) Each “Accepted for Filing” Public Notice has a report number. Examples of various types of applications and their corresponding report number (the “x” represents a sequential number) follow.
+(2) Each “Accepted for Filing” Public Notice has a report number. Examples of various types of applications and their corresponding report number (the “x” represents a sequential number) follow. 
 
 | Type of application                      | Report No.             |
 | ---------------------------------------- | ---------------------- |
@@ -26,11 +26,11 @@
 | Streamlined                              | SCL-xxxxxS.            |
 | Non-streamlined                          | SCL-xxxxxNS and/or DA. |
 
-(d) After the Public Notice, your application may undergo legal, technical and/or financial review as deemed necessary. In addition, some applications require coordination with other government agencies.
+(d) After the Public Notice, your application may undergo legal, technical and/or financial review as deemed necessary. In addition, some applications require coordination with other government agencies. 
 
-(e) After review, we decide whether to grant or deny applications or whether to take other necessary action. Grants, denials and any other necessary actions are noted in the ICFS database. Some filings may not require any affirmative action, such as some Foreign Carrier Affiliation Notification Filings. Other filings, such as some International Section 214 Applications, International Accounting Rate Change Filings and Requests for assignment of Data Network Identification Codes, may be granted automatically on a specific date unless the applicant is notified otherwise prior to that date, as specified in the rules.
+(e) After review, we decide whether to grant or deny applications or whether to take other necessary action. Grants, denials and any other necessary actions are noted in the ICFS database. Some filings may not require any affirmative action, such as some Foreign Carrier Affiliation Notification Filings. Other filings, such as some International Section 214 Applications, International Accounting Rate Change Filings and Requests for assignment of Data Network Identification Codes, may be granted automatically on a specific date unless the applicant is notified otherwise prior to that date, as specified in the rules. 
 
-(f) We list most actions taken on public notices. Each “Action Taken” Public Notice has a report number. Examples of various types of applications and their corresponding report number (the “x” represents a sequential number) follow.
+(f) We list most actions taken on public notices. Each “Action Taken” Public Notice has a report number. Examples of various types of applications and their corresponding report number (the “x” represents a sequential number) follow. 
 
 | Type of application                      | Report No.                   |
 | ---------------------------------------- | ---------------------------- |
@@ -44,9 +44,9 @@
 | International Telecommunications         | TEL-xxxxx and DA.            |
 | Submarine Cable Landing                  | TEL-xxxxx and DA.            |
 
-(g) Other actions are taken by formal written Order, oral actions that are followed up with a written document, or grant stamp of the application. In all cases, the action dates are available online through the ICFS system.
+(g) Other actions are taken by formal written Order, oral actions that are followed up with a written document, or grant stamp of the application. In all cases, the action dates are available online through the ICFS system. 
 
-(h) Issuing and Mailing Licenses for Granted Applications. Not all applications handled through ICFS and granted by the Commission result in the issuance of a paper license or authorization. A list of application types and their corresponding authorizations follows.
+(h) Issuing and Mailing Licenses for Granted Applications. Not all applications handled through ICFS and granted by the Commission result in the issuance of a paper license or authorization. A list of application types and their corresponding authorizations follows. 
 
 | Type of application                                                                                     | Type of license/authorization issued                                                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

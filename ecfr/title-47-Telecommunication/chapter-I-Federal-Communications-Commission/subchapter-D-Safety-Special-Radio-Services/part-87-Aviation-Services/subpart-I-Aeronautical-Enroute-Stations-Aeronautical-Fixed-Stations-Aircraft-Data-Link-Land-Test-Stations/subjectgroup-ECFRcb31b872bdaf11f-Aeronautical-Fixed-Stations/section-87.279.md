@@ -1,10 +1,10 @@
 ##### § 87.279 Frequencies.
 
-(a) *United States (except Alaska).* The applicant must request specific frequencies in accordance with § 2.106 of this chapter. The Commission will determine the suitability of the applicant's selection based on the probability of interference to and from existing services assigned on the same or adjacent frequencies. All new assignments of frequencies will be subject to such conditions as may be required to minimize the possibility of harmful interference to existing services.
+(a) *United States (except Alaska).* The applicant must request specific frequencies in accordance with § 2.106 of this chapter. The Commission will determine the suitability of the applicant's selection based on the probability of interference to and from existing services assigned on the same or adjacent frequencies. All new assignments of frequencies will be subject to such conditions as may be required to minimize the possibility of harmful interference to existing services. 
 
-(b) *Alaska.* (1) Only stations which serve scheduled air carriers will be licensed. Applicants must show that the station will provide communications only along routes served by the scheduled operations of such carriers.
+(b) *Alaska.* (1) Only stations which serve scheduled air carriers will be licensed. Applicants must show that the station will provide communications only along routes served by the scheduled operations of such carriers. 
 
-(2) The following frequencies are available in Alaska. These frequencies will only be licensed in conjunction with licenses for use of the aeronautical enroute frequencies specified in § 87.263(c).
+(2) The following frequencies are available in Alaska. These frequencies will only be licensed in conjunction with licenses for use of the aeronautical enroute frequencies specified in § 87.263(c). 
 
 kHz
 | 2648.0 | 5310.0 |
