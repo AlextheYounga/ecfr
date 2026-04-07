@@ -6,7 +6,7 @@
 
 (2) Class C safety devices have logic that allows for the PSL sensors to be bypassed until the component comes into full service (*i.e.,* the time at which the startup pressure equals or exceeds the set pressure of the PSL sensor, the system reaches a stabilized pressure, and the PSL sensor clears).
 
-(3) Class B/C safety devices have logic that allows for the PSL sensors to incorporate a combination of Class B and Class C circuitry. These devices are used to ensure that the PSL sensors are not unnecessarily bypassed during startup and idle operations, (*e.g.,* Class B/C bypass circuitry activates when a pump is shut down during normal operations). The PSL sensor remains bypassed until the pump's start circuitry is activated and either:
+(3) Class B/C safety devices have logic that allows for the PSL sensors to incorporate a combination of Class B and Class C circuitry. These devices are used to ensure that the PSL sensors are not unnecessarily bypassed during startup and idle operations, (e.g., Class B/C bypass circuitry activates when a pump is shut down during normal operations). The PSL sensor remains bypassed until the pump's start circuitry is activated and either:
 
 (i) The Class B timer expires no later than 45 seconds from start activation, or
 

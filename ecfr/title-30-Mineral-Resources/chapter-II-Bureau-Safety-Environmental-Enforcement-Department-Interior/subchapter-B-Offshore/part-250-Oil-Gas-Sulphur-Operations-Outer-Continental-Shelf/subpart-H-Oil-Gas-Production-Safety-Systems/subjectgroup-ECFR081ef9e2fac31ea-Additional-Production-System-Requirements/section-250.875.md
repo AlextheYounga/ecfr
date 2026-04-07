@@ -24,7 +24,7 @@ If you choose to install a subsea pump system, your system must comply with your
 
 (iii) The upstream subsea pump isolation valve is open; and
 
-(iv) All parameters associated with the subsea pump operation (*e.g.,* pump temperature high, pump vibration high, pump suction pressure high, pump discharge pressure high, pump suction flow low) must be cleared (*i.e.,* within operational limits) or continuously monitored by personnel who observe visual indicators displayed at a designated control station and have the capability to initiate shut-in action in the event of an abnormal condition.
+(iv) All parameters associated with the subsea pump operation (e.g., pump temperature high, pump vibration high, pump suction pressure high, pump discharge pressure high, pump suction flow low) must be cleared (*i.e.,* within operational limits) or continuously monitored by personnel who observe visual indicators displayed at a designated control station and have the capability to initiate shut-in action in the event of an abnormal condition.
 
 (3) Monitor the separator for seawater.
 

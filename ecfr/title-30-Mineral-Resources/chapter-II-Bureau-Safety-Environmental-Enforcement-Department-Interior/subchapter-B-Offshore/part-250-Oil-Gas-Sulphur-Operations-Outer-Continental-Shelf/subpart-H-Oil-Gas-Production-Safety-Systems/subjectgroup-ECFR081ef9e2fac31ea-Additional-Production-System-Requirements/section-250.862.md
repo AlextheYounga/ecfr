@@ -6,7 +6,7 @@ For production processing areas only:
 
 (1) Adequate ventilation is defined as ventilation that is sufficient to prevent accumulation of significant quantities of vapor-air mixture in concentrations over 25 percent of the lower explosive limit. An acceptable method of providing adequate ventilation is one that provides a change of air volume each 5 minutes or 1 cubic foot of air-volume flow per minute per square foot of solid floor area, whichever is greater.
 
-(2) Enclosed areas (*e.g.,* buildings, living quarters, or doghouses) are defined as those areas confined on more than 4 of their 6 possible sides by walls, floors, or ceilings more restrictive to air flow than grating or fixed open louvers and of sufficient size to allow entry of personnel.
+(2) Enclosed areas (e.g., buildings, living quarters, or doghouses) are defined as those areas confined on more than 4 of their 6 possible sides by walls, floors, or ceilings more restrictive to air flow than grating or fixed open louvers and of sufficient size to allow entry of personnel.
 
 (3) A classified area is any area classified Class I, Group D, Division 1 or 2, following the guidelines of API RP 500 (incorporated by reference as specified in § 250.198), or any area classified Class I, Zone 0, Zone 1, or Zone 2, following the guidelines of API RP 505 (incorporated by reference as specified in § 250.198).
 
