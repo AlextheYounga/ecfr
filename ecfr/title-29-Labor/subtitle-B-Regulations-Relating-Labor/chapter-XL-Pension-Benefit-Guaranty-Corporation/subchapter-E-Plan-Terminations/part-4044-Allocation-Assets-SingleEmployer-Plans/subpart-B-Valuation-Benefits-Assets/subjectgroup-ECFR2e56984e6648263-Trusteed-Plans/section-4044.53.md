@@ -10,31 +10,31 @@
 
 (c) *Healthy lives.* If the individual is not disabled under paragraph (f) of this section, the plan administrator will value the benefit using -
 
-(1) For male participants, the rates in Table 1 of Appendix A to this part projected from 1994 to the calendar year in which the valuation date occurs plus 10 years using Scale AA from Table 2 of Appendix A to this part; and
+(1) For male participants, the rates in Table 1 of appendix A to this part projected from 1994 to the calendar year in which the valuation date occurs plus 10 years using Scale AA from Table 2 of appendix A to this part; and
 
-(2) For female participants, the rates in Table 3 of Appendix A to this part projected from 1994 to the calendar year in which the valuation date occurs plus 10 years using Scale AA from Table 4 of Appendix A to this part.
+(2) For female participants, the rates in Table 3 of appendix A to this part projected from 1994 to the calendar year in which the valuation date occurs plus 10 years using Scale AA from Table 4 of appendix A to this part.
 
 (d) *Social Security disabled lives.* If the individual is Social Security disabled under paragraph (f)(1) of this section, the plan administrator will value the benefit using -
 
-(1) For male participants, the rates in Table 5 of Appendix A to this part; and
+(1) For male participants, the rates in Table 5 of appendix A to this part; and
 
-(2) For female participants, the rates in Table 6 of Appendix A to this part.
+(2) For female participants, the rates in Table 6 of appendix A to this part.
 
 (e) Non-Social Security disabled lives. If the individual is non-Social Security disabled under paragraph (f)(2) of this section, the plan administrator will value the benefit at each age using -
 
 (1) For male participants, the lesser of -
 
-(i) The rate determined from Table 1 of Appendix A to this part projected from 1994 to the calendar year in which the valuation date occurs plus 10 years using Scale AA from Table 2 of Appendix A to this part and setting the resulting table forward three years, or
+(i) The rate determined from Table 1 of appendix A to this part projected from 1994 to the calendar year in which the valuation date occurs plus 10 years using Scale AA from Table 2 of appendix A to this part and setting the resulting table forward three years, or
 
-(ii) The rate in Table 5 of Appendix A to this part.
+(ii) The rate in Table 5 of appendix A to this part.
 
 (2) For female participants, the lesser of -
 
-(i) The rate determined from Table 3 of Appendix A to this part projected from 1994 to the calendar year in which the valuation date occurs plus 10 years using Scale AA from Table 4 of Appendix A to this part and setting the resulting table forward three years, or
+(i) The rate determined from Table 3 of appendix A to this part projected from 1994 to the calendar year in which the valuation date occurs plus 10 years using Scale AA from Table 4 of appendix A to this part and setting the resulting table forward three years, or
 
-(ii) The rate in Table 6 of Appendix A to this part.
+(ii) The rate in Table 6 of appendix A to this part.
 
-(f) *Definitions of disability.* (1) *Social Security disabled.* A participant is Social Security disabled if, on the valuation date, the participant is less than age 65 and has a benefit in pay status that -
+(f) *Definitions of disability* - (1) *Social Security disabled.* A participant is Social Security disabled if, on the valuation date, the participant is less than age 65 and has a benefit in pay status that -
 
 (i) Is being received as a disability benefit under a plan provision requiring either receipt of or eligibility for Social Security disability benefits, or
 

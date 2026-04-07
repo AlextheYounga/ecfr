@@ -4,4 +4,4 @@
 
 (b) *If designated benefit paid.* If the PBGC locates or is contacted by a missing participant (or his or her beneficiary or estate) for whom a plan administrator paid a designated benefit to the PBGC, the PBGC will pay benefits in accordance with §§ 4050.8 through 4050.10 (subject to the limitations and special rules in §§ 4050.11 and 4050.12).
 
-(c) *Examples.* See Appendix B to this part for examples illustrating the provisions of §§ 4050.8 through 4050.10.
+(c) *Examples.* See appendix B to this part for examples illustrating the provisions of §§ 4050.8 through 4050.10.

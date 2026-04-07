@@ -4,7 +4,7 @@ This section applies to a beneficiary of a deceased missing participant whose de
 
 (a) *If deceased missing participant's benefit was not in pay status as of the deemed distribution date.* The PBGC will pay a benefit with respect to a deceased missing participant whose benefit was not in pay status as of the deemed distribution date as follows.
 
-(1) *General rule.* (i) *Beneficiary.* The PBGC will pay a benefit to the surviving spouse of a missing participant who was a participant (unless the surviving spouse has properly waived a benefit in accordance with section 205 of ERISA).
+(1) *General rule* - (i) *Beneficiary.* The PBGC will pay a benefit to the surviving spouse of a missing participant who was a participant (unless the surviving spouse has properly waived a benefit in accordance with section 205 of ERISA).
 
 (ii) *Form and amount of benefit.* The PBGC will pay the survivor benefit in the form of a single life annuity. Each monthly (or other periodic) benefit payment will equal 50 percent of the quotient that results when the unloaded designated benefit is divided by the present value (determined as of the deemed distribution date under the missing participant annuity assumptions, and assuming that the missing participant survived to the deemed distribution date) of a $1 monthly (or other periodic) joint and 50 percent survivor annuity beginning on the annuity starting date, under which reduced payments (at the 50 percent level) are made only after the death of the missing participant during the life of the spouse (and not after the death of the spouse during the missing participant's life).
 

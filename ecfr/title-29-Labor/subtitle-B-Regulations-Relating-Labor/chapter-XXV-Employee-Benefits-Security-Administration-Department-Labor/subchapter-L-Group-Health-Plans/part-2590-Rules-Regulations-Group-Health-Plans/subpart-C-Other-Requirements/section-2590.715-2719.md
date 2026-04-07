@@ -136,7 +136,7 @@ Example 2.(i) *Facts.* A group health plan does not provide coverage for service
 
 (B) Within one business day after completion of the preliminary review, the plan or issuer must issue a notification in writing to the claimant. If the request is complete but not eligible for external review, such notification must include the reasons for its ineligibility and current contact information, including the phone number, for the Employee Benefits Security Administration. If the request is not complete, such notification must describe the information or materials needed to make the request complete, and the plan or issuer must allow a claimant to perfect the request for external review within the four-month filing period or within the 48 hour period following the receipt of the notification, whichever is later.
 
-(iii) *Referral to Independent Review Organization.* (A) *In general.* The group health plan or health insurance issuer must assign an IRO that is accredited by URAC or by similar nationally-recognized accrediting organization to conduct the external review. The IRO referral process must provide for the following:
+(iii) *Referral to Independent Review Organization* - (A) *In general.* The group health plan or health insurance issuer must assign an IRO that is accredited by URAC or by similar nationally-recognized accrediting organization to conduct the external review. The IRO referral process must provide for the following:
 
 (*1*) The plan or issuer must ensure that the IRO process is not biased and ensures independence;
 

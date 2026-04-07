@@ -1,5 +1,7 @@
 ##### § 74.802 Frequency assignment.
 
+Link to an amendment published at 82 FR 41560, Sept. 1, 2017.
+
 (a)(1) Frequencies within the following bands may be assigned for use by low power auxiliary stations:
 
 26.100-26.480 MHz 54.000-72.000 MHz 76.000-88.000 MHz 161.625-161.775 MHz (except in Puerto Rico or the Virgin Islands) 174.000-216.000 MHz 450.000-451.000 MHz 455.000-456.000 MHz 470.000-488.000 MHz 488.000-494.000 MHz (except Hawaii) 494.000-608.000 MHz 614.000-698.000 MHz 941.500-952.000 MHz 952.850-956.250 MHz 956.45-959.85 MHz 1435-1525 MHz 6875.000-6900.000 MHz 7100.000-7125.000 MHz

@@ -10,7 +10,7 @@
 
 (ii) Dispute specific data used in the determination, such as date of hire, date of retirement, date of termination of employment, length of service, compensation, marital status and form of benefit elected; or
 
-(iii) Request an explanation of the limits on benefits payable by PBGC under Part 4022, Subpart B, such as the maximum guaranteeable benefit and phase-in of the PBGC guarantee.
+(iii) Request an explanation of the limits on benefits payable by PBGC under part 4022, subpart B, such as the maximum guaranteeable benefit and phase-in of the PBGC guarantee.
 
 (2) An explanation or corrected benefit determination issued under this subsection is not considered a decision of the Appeals Board. If an appellant aggrieved by PBGC's initial determination is issued an explanation or corrected benefit determination under this section, the appellant has not exhausted his or her administrative remedies until the appellant has filed a timely request with the Appeals Board for review and the Appeals Board has issued a decision granting or denying the relief requested. See § 4003.7 of this part.
 
