@@ -826,15 +826,25 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 9759 
 
-(57) 4-(2-chlorophenyl)-2-ethyl-9-methyl-6H-thieno\[3,2-f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: etizolam) 2780 
+(57) 4-(2-chlorophenyl)-2-ethyl-9-methyl-6H-thieno\[3,2-f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: etizolam)
 
-(58) 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-benzo\[f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: flualprazolam) 2785 
+2780 
 
-(59) 6-(2-chlorophenyl)-1-methyl-8-nitro-4H-benzo\[f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: clonazolam) 2786 
+(58) 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-benzo\[f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: flualprazolam)
 
-(60) 8-bromo-6-(2-fluorophenyl)-1-methyl-4H-benzo\[f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: flubromazolam) 2788 
+2785 
 
-(61) 7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H-benzo\[e\]\[1,4\]diazepin-2-one, its salts, isomers, and salts of isomers (Other name: diclazepam) 2789 
+(59) 6-(2-chlorophenyl)-1-methyl-8-nitro-4H-benzo\[f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: clonazolam)
+
+2786 
+
+(60) 8-bromo-6-(2-fluorophenyl)-1-methyl-4H-benzo\[f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: flubromazolam)
+
+2788 
+
+(61) 7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H-benzo\[e\]\[1,4\]diazepin-2-one, its salts, isomers, and salts of isomers (Other name: diclazepam)
+
+2789 
 
 \[39 FR 22141, June 20, 1974\] Editorial Notes:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
