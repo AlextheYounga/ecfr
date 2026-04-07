@@ -30,9 +30,9 @@ As used in this part:
 
 *CDLIS driver record* means the electronic record of the individual CDL driver's status and history stored by the State-of-Record as part of the Commercial Driver's License Information System (CDLIS) established under 49 U.S.C. 31309.
 
-*Commerce* means
+*Commerce* means:
 
-(1) Any trade, traffic or transportation within the jurisdiction of the United States between a place in a State and a place outside of such State, including a place outside of the United States, and
+(1) Any trade, traffic, or transportation within the jurisdiction of the United States between a place in a State and a place outside of such State, including a place outside of the United States; or
 
 (2) Trade, traffic, and transportation in the United States that affects any trade, traffic, and transportation described in paragraph (1) of this definition.
 
