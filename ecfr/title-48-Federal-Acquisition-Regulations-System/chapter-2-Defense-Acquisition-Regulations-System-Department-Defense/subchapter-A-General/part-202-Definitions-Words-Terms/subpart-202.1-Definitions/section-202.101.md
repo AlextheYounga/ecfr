@@ -44,7 +44,7 @@
 
 *Major defense acquisition program* is defined in 10 U.S.C. 4201.
 
-*Milestone decision authority,* with respect to a major defense acquisition program, major automated information system, or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process (10 U.S.C. 4211).
+*Milestone decision authority,* with respect to a major defense acquisition program or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process (10 U.S.C. 4211).
 
 *Non-Government sales* means sales of the supplies or services to non-Governmental entities for purposes other than governmental purposes.
 
