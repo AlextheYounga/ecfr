@@ -1,5 +1,7 @@
 ##### § 23.2 Definitions.
 
+Link to an amendment published at 84 FR 4240, Feb. 14, 2019.
+
 (a) *Affiliate* means an affiliate as described in § 23.6.
 
 (b) *Capital and surplus* means:
