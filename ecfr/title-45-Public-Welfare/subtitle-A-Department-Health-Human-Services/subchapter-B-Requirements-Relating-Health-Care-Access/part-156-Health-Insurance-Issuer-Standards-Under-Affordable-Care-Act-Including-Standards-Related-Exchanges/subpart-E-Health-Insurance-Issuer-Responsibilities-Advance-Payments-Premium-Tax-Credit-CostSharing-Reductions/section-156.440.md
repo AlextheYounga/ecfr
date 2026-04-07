@@ -1,6 +1,6 @@
 ##### § 156.440 Plans eligible for advance payments of the premium tax credit and cost-sharing reductions.
 
-Except as noted in paragraph (a) through (c) of this section, the provisions of this subpart apply to qualified health plans offered in the individual market on the Exchange.
+Except as noted in paragraph (a) through (c) of this section, the provisions of this subpart apply to qualified health plans offered in the individual market on the Exchange.*Catastrophic plans.*
 
 (a) *Catastrophic plans.* The provisions of this subpart do not apply to catastrophic plans described in § 156.155.
 

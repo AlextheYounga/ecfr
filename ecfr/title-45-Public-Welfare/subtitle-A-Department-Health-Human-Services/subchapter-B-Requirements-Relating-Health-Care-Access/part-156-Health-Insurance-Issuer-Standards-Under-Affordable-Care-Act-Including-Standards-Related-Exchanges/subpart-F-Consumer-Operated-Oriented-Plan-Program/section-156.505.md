@@ -1,6 +1,6 @@
 ##### § 156.505 Definitions.
 
-The following definitions apply to this subpart:
+The following definitions apply to this subpart:*Applicant*
 
 *Applicant* means an entity eligible to apply for a loan described in § 156.520 of this subpart.
 

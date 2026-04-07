@@ -1,6 +1,6 @@
 ##### § 156.100 State selection of benchmark plan for plan years beginning prior to January 1, 2020.
 
-For plan years beginning before January 1, 2020, each State may identify a base-benchmark plan according to the selection criteria described below:
+For plan years beginning before January 1, 2020, each State may identify a base-benchmark plan according to the selection criteria described below:*State selection of base-benchmark plan.*
 
 (a) *State selection of base-benchmark plan.* The options from which a base-benchmark plan may be selected by the State are the following:
 

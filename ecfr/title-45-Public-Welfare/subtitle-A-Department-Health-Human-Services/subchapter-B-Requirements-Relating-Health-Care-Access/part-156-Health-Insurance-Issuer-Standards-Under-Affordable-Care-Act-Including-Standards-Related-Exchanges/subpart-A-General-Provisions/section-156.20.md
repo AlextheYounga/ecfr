@@ -1,6 +1,6 @@
 ##### § 156.20 Definitions.
 
-The following definitions apply to this part, unless the context indicates otherwise:
+The following definitions apply to this part, unless the context indicates otherwise:*Actuarial value (AV)*
 
 *Actuarial value (AV)* means the percentage paid by a health plan of the percentage of the total allowed costs of benefits.
 

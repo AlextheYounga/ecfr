@@ -1,6 +1,6 @@
 ##### § 156.604 Requirements for recognition as minimum essential coverage for types of coverage not otherwise designated minimum essential coverage in the statute or this subpart.
 
-(a) The Secretary may recognize “other coverage” as minimum essential coverage provided HHS determines that the coverage meets the following substantive and procedural requirements:
+(a) The Secretary may recognize “other coverage” as minimum essential coverage provided HHS determines that the coverage meets the following substantive and procedural requirements:*Coverage requirements.*
 
 (1) *Coverage requirements.* A plan must meet substantially all the requirements of title I of the Affordable Care Act pertaining to non-grandfathered, individual health insurance coverage.
 

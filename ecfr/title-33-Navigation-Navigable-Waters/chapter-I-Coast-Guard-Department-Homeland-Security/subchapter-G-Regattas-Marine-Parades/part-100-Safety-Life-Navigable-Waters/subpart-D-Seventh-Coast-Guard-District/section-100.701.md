@@ -1,6 +1,6 @@
 ##### § 100.701 Special Local Regulations; Marine Events in the Seventh Coast Guard District.
 
-The following regulations apply to the marine events listed in Table 1 of this section. These regulations will be effective annually, for the duration of each event listed in Table 1. Annual notice of the exact dates and times of the effective period of the regulation with respect to each event, the geographical area, and details concerning the nature of the event and the number of participants and type(s) of vessels involved will also be published in the local notice to mariners and broadcast over VHF.
+The following regulations apply to the marine events listed in Table 1 of this section. These regulations will be effective annually, for the duration of each event listed in Table 1. Annual notice of the exact dates and times of the effective period of the regulation with respect to each event, the geographical area, and details concerning the nature of the event and the number of participants and type(s) of vessels involved will also be published in the local notice to mariners and broadcast over VHF.*Definitions.*
 
 (a) *Definitions.* The following definitions apply to this section:
 

@@ -1,6 +1,6 @@
 ##### § 156.400 Definitions.
 
-The following definitions apply to this subpart:
+The following definitions apply to this subpart:*Advance payments of the premium tax credit*
 
 *Advance payments of the premium tax credit* has the meaning given to the term in § 155.20 of this subchapter.
 

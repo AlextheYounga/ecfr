@@ -1,6 +1,6 @@
 ##### § 156.225 Marketing and benefit design of QHPs.
 
-A QHP issuer and its officials, employees, agents and representatives must—
+A QHP issuer and its officials, employees, agents and representatives must—*State law applies.*
 
 (a) *State law applies.* Comply with any applicable State laws and regulations regarding marketing by health insurance issuers;
 

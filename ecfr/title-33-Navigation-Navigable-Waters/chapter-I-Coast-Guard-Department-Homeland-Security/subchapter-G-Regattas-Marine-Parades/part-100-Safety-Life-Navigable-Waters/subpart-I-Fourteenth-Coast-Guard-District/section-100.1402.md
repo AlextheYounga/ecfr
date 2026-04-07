@@ -1,6 +1,6 @@
 ##### § 100.1402 Special Local Regulation; Kailua Bay, Ironman World Championship, Kailua-Kona, Hawaii.
 
-(a) *Definitions.* As used in this section:
+(a) *Definitions.* As used in this section:Federal Register,
 
 *Buffer area* is a neutral 100-yard area that surrounds the perimeter of the course area's navigable waters as described by this section. The purpose of a buffer area is to minimize potential collision conflicts with marine event participants and spectator vessels or nearby transiting vessels. This area provides separation between a course area and spectator viewing areas.
 

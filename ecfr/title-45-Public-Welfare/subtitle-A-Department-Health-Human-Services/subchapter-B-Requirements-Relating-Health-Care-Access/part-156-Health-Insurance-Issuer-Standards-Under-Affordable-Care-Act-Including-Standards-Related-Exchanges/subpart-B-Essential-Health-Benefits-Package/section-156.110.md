@@ -1,6 +1,6 @@
 ##### § 156.110 EHB-benchmark plan standards.
 
-An EHB-benchmark plan must meet the following standards:
+An EHB-benchmark plan must meet the following standards:*EHB coverage.*
 
 (a) *EHB coverage.* Provide coverage of at least the following categories of benefits:
 

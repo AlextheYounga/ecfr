@@ -1,6 +1,6 @@
 ##### § 156.430 Payment for cost-sharing reductions.
 
-(a) \[Reserved\]
+(a) \[Reserved\]*Advance payments for cost-sharing reductions.*
 
 (b) *Advance payments for cost-sharing reductions.* (1) When there is an appropriation to make cost-sharing reduction payments to QHP issuers, a QHP issuer will receive periodic advance payments from HHS to the extent permitted by the appropriation and calculated in accordance with § 155.1030(b)(3) of this subchapter.
 

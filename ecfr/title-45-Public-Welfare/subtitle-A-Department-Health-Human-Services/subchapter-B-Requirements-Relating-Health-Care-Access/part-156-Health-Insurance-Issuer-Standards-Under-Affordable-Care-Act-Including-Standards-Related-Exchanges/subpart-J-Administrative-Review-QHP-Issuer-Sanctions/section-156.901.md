@@ -1,6 +1,6 @@
 ##### § 156.901 Definitions.
 
-In this subpart, unless the context indicates otherwise:
+In this subpart, unless the context indicates otherwise:*ALJ*
 
 *ALJ* means administrative law judge of the Departmental Appeals Board of HHS.
 

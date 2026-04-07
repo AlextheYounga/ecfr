@@ -1,6 +1,6 @@
 ##### § 156.602 Other coverage that qualifies as minimum essential coverage.
 
-The following types of coverage are designated by the Secretary as minimum essential coverage for purposes of section 5000A(f)(1)(E) of the Code:
+The following types of coverage are designated by the Secretary as minimum essential coverage for purposes of section 5000A(f)(1)(E) of the Code:*Self-funded student health coverage.*
 
 (a) *Self-funded student health coverage.* Coverage offered to students by an institution of higher education (as defined in the Higher Education Act of 1965), where the institution assumes the risk for payment of claims, are designated as minimum essential coverage for plan or policy years beginning on or before December 31, 2014. For coverage beginning after December 31, 2014, sponsors of self-funded student health coverage may apply to be recognized as minimum essential coverage pursuant to the process provided under 45 CFR 156.604.
 

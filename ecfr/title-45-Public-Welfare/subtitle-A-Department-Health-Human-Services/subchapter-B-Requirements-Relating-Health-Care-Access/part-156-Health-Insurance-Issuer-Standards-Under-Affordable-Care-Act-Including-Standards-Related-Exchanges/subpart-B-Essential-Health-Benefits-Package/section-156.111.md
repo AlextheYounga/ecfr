@@ -1,6 +1,6 @@
 ##### § 156.111 State selection of EHB-benchmark plan for plan years beginning on or after January 1, 2020.
 
-(a)(1) Subject to paragraphs (b) through (e) of this section, for plan years beginning on or after January 1, 2020, through December 31, 2025, a State may change its EHB-benchmark plan by:
+(a)(1) Subject to paragraphs (b) through (e) of this section, for plan years beginning on or after January 1, 2020, through December 31, 2025, a State may change its EHB-benchmark plan by:*EHB coverage.*
 
 (i) Selecting the EHB-benchmark plan that another State used for the 2017 plan year under §§ 156.100 and 156.110;
 

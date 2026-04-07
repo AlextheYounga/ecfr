@@ -1,6 +1,6 @@
 ##### § 156.122 Prescription drug benefits.
 
-(a) A health plan does not provide essential health benefits unless it:
+(a) A health plan does not provide essential health benefits unless it:*Membership standards.*
 
 (1) Subject to the exception in paragraph (b) of this section, covers at least the greater of:
 
