@@ -978,7 +978,7 @@ Table 12 to Paragraph (e)(10)
 
 (xix) The Klawock River drainage is closed to the use of seines and gillnets during July and August. 
 
-(xx) The Federal public waters in the Makhnati Island area, as defined in § \_\_.3(b)(5) are closed to the harvest of herring and herring spawn, except by federally qualified users. 
+(xx) The Federal public waters in the Makhnati Island area, as defined in § 242.3(b)(5) are closed to the harvest of herring and herring spawn, except by federally qualified users. 
 
 (xxi) Only federally qualified subsistence users may harvest sockeye salmon in Neva Lake, Neva Creek, and South Creek. 
 
