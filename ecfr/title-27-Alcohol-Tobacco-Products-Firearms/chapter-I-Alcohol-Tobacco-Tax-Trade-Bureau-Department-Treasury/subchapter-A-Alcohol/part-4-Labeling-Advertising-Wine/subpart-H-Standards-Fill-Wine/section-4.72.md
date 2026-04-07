@@ -2,29 +2,12 @@
 
 (a) *Authorized standards of fill.* The standards of fill for wine are the following:
 
-3 liters.
-
-355 milliliters 
-
-1.5 liters.
-
-250 milliliters. 
-
-1 liter.
-
-200 milliliters. 
-
-750 milliliters.
-
-187 milliliters. 
-
-500 milliliters.
-
-100 milliliters. 
-
-375 milliliters.
-
-50 milliliters. 
+| 3 liters.        | 355 milliliters  |
+| 1.5 liters.      | 250 milliliters. |
+| 1 liter.         | 200 milliliters. |
+| 750 milliliters. | 187 milliliters. |
+| 500 milliliters. | 100 milliliters. |
+| 375 milliliters. | 50 milliliters.  |
 
 (b) *Sizes larger than 3 liters.* Wine may be bottled or packed in containers of 4 liters or larger if the containers are filled and labeled in quantities of even liters (4 liters, 5 liters, 6 liters, etc.).
 

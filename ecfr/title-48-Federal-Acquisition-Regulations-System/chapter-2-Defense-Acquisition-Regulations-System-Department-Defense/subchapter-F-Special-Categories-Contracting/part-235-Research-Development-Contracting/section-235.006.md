@@ -6,7 +6,7 @@
 
 (B) It is not possible to provide an equitable and sensible allocation of program risk between the Government and the contractor.
 
-(b)(ii) For major defense acquisition programs as defined in 10 U.S.C. 2430 -
+(ii) For major defense acquisition programs as defined in 10 U.S.C. 2430 -
 
 (A) Follow the procedures at 234.004; and
 
