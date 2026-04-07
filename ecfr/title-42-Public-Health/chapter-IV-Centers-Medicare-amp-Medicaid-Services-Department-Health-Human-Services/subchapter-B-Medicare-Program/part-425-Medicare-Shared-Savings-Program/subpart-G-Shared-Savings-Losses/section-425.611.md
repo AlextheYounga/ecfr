@@ -24,8 +24,6 @@
 
 (B) Truncating expenditures for assignable beneficiaries in each county for purposes of determining county fee-for-service expenditures according to §§ 425.601(c)(3), 425.603(e)(3), and 425.654(a)(3).
 
-(iii) Determining 5 percent of national per capita expenditures for
-
 (iii) Determining national per capita expenditures for Parts A and B services under the original Medicare fee-for-service program for assignable beneficiaries for purposes of capping the regional adjustment to the ACO's historical benchmark according to §§ 425.601(a)(8)(ii)(C) and 425.656(c)(3), and capping the prior savings adjustment according to § 425.652(a)(8)(iv).
 
 (iv) Determining the flat dollar equivalent of the projected absolute amount of growth in national per capita expenditures for Parts A and B services under the original Medicare fee-for-service program for assignable beneficiaries, for purposes of updating the ACO's historical benchmark according to § 425.602(b)(2).
