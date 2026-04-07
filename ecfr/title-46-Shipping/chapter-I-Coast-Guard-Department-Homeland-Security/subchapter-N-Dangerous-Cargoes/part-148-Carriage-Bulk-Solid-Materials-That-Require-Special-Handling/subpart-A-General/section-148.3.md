@@ -1,6 +1,6 @@
 ##### § 148.3 Definitions.
 
-As used in this part -
+As used in this part—
 
 *A-60 class division* means a division as defined in § 32.57-5 of this chapter.
 
@@ -12,7 +12,7 @@ As used in this part -
 
 *Bulk Cargo Shipping Name* or *BCSN* identifies a bulk solid material during transport by sea. When a cargo is listed in this Part, the BCSN of the cargo is identified by Roman type and is listed in Column 1 of Table 148.10 of this part. When the cargo is a hazardous material, as defined in 49 CFR part 173, the proper shipping name of that material is the BCSN.
 
-*Cold-molded briquettes* are briquettes of direct reduced iron (DRI) that have been molded at a temperature of under 650 °C (1,202 °F) or that have a density of under 5.0 g/cm3;.
+*Cold-molded briquettes* are briquettes of direct reduced iron (DRI) that have been molded at a temperature of under 650 °C (1,202 °F) or that have a density of under 5.0 g/cm 3;.
 
 *Commandant (CG-ENG-5)* means the Chief, Hazardous Materials Division of the Office of Design and Engineering Systems. The mailing address is: Commandant (CG-ENG-5), Attn: Hazardous Materials Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509; telephone 202-372-1420 or email *hazmatstandards@uscg.mil.*
 
@@ -29,7 +29,6 @@ As used in this part -
 Hazard Class Definitions
 
 Hazard Classes Used in This Part Are Defined in the Following Sections of Title 49
-
 | Class No. | Division No. (if any)        | Description                                                                      | Reference   (49 CFR) |
 | --------- | ---------------------------- | -------------------------------------------------------------------------------- | -------------------- |
 | 1         | 1.1, 1.2, 1.3, 1.4, 1.5, 1.6 | Explosives                                                                       | § 173.50             |
@@ -48,13 +47,13 @@ Hazard Classes Used in This Part Are Defined in the Following Sections of Title 
 
 *Hold* means a compartment below deck that is used exclusively for the stowage of cargo.
 
-*Hot-molded briquettes* are briquettes of DRI that have been molded at a temperature of 650 °C (1,202 °F) or higher, and that have a density of 5.0 g/cm3 (312 lb/ft3) or greater.
+*Hot-molded briquettes* are briquettes of DRI that have been molded at a temperature of 650 °C (1,202 °F) or higher, and that have a density of 5.0 g/cm 3 (312 lb/ft 3) or greater.
 
 *IMSBC Code* means the English version of the “International Maritime Solid Bulk Cargoes Code” published by the International Maritime Organization (incorporated by reference, see § 148.8).
 
 *Incompatible materials* means two materials whose stowage together may result in undue hazards in the case of leakage, spillage, or other accident.
 
-*International voyage* means voyages -
+*International voyage* means voyages—
 
 (1) Between any place in the United States and any place in a foreign country;
 
