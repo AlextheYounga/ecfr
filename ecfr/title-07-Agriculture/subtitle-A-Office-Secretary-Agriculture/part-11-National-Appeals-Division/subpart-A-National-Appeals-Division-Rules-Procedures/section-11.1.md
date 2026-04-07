@@ -68,7 +68,7 @@ For purposes of this part:
 
 (3) The Freedom of Information Act (appealable under 7 CFR part 1, subpart A);
 
-(4) Suspension and debarment disputes, including, but not limited to, those falling within the scope of 7 CFR parts 1407 and 3017;
+(4) Suspension and debarment disputes, including, but not limited to, those falling within the scope of 7 CFR part 1407 and 2 CFR part 417;
 
 (5) Export programs administered by the Commodity Credit Corporation;
 
@@ -87,3 +87,5 @@ For purposes of this part:
 *Record review* means an appeal considered by the Hearing Officer in which the Hearing Officer's determination is based on the agency record and other information submitted by the appellant and the agency, including information submitted by affidavit or declaration.
 
 *Secretary* means the Secretary of Agriculture.
+
+\[64 FR 33373, June 23, 1999, as amended at 85 FR 31938, May 28, 2020\]
