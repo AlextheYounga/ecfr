@@ -20,7 +20,7 @@
 | 2\. Facility ID.                                  |
 | 3\. Sample collection date.                       |
 | 4\. Sample type (field or matrix spike).          |
-| 5\. Sample volume filtered (L), to nearest 1/4 L. |
+| 5\. Sample volume filtered (L), to nearest 1⁄4 L. |
 | 6\. Was 100% of filtered volume examined.         |
 | 7\. Number of oocysts counted.                    |
 

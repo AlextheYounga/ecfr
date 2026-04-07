@@ -59,7 +59,7 @@
 |                          | Off-road vehicles that are not registered in a state may not be used from 10 p.m.-6 a.m. (unless otherwise posted) |                       |
 | Hunting Zone             | Off-road vehicles may be used only for hunting during the Texas general white-tailed deer season                   | Rosita.               |
 | Low-Speed Zone           | Speed limit: 15 mph (unless otherwise posted)                                                                      |                       |
-|                          | Located approximately 1/2 mile on either side of the FM 1913 bridge                                                | Blue Creek.           |
+|                          | Located approximately 1⁄2 mile on either side of the FM 1913 bridge                                                | Blue Creek.           |
 | Resource Protection Zone | Off-road vehicles with a wheel width greater than 65 inches are prohibited                                         | Rosita.               |
 
 (6) *Camping at Blue Creek and Rosita.* Camping is prohibited in designated ORV areas, routes, and access points and within 100 feet of these locations, except for marked camping zones where camping is allowed in or next to a motor vehicle, including a tent trailer, RV, or van. 

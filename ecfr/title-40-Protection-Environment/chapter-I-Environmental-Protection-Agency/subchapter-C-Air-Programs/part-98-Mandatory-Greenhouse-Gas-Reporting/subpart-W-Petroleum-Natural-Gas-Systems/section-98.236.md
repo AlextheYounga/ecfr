@@ -1,7 +1,5 @@
 ##### § 98.236 Data reporting requirements.
 
-Link to an amendment published at 89 FR 71846, Sept. 4, 2024.
-
 In addition to the information required by § 98.3(c), each annual report must contain reported emissions and related information as specified in this section. Reporters that use a flow or volume measurement system that corrects to standard conditions as provided in the introductory text in § 98.233 for data elements that are otherwise required to be determined at actual conditions, report gas volumes at standard conditions rather than the gas volumes at actual conditions and report the standard temperature and pressure used by the measurement system rather than the actual temperature and pressure. 
 
 (a) The annual report must include the information specified in paragraphs (a)(1) through (10) of this section for each applicable industry segment. The annual report must also include annual emissions totals, in metric tons of each GHG, for each applicable industry segment listed in paragraphs (a)(1) through (10) of this section, and each applicable emission source listed in paragraphs (b) through (z), (dd) and (ee) of this section. 

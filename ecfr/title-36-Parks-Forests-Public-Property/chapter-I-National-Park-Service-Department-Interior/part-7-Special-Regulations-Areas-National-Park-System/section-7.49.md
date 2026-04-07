@@ -15,13 +15,13 @@
 | (A) Ocracoke Inlet | Wallace Channel dock to the demarcation line in Ocracoke Inlet near Milepost 1.                                                                                                   |
 | (B) Milepost 11B   | Existing sound-side dock at mile post 11B approximately 4 miles north of Long Point.                                                                                              |
 | (C) Long Point     | Ferry landing at the Long Point Cabin area.                                                                                                                                       |
-| (D) Old Drum Inlet | Sound-side beach near Milepost 19 (as designated by signs), approximately 1/2 mile north of Old Drum inlet (adjacent to the cross-over route) encompassing approximately 50 feet. |
+| (D) Old Drum Inlet | Sound-side beach near Milepost 19 (as designated by signs), approximately 1⁄2 mile north of Old Drum inlet (adjacent to the cross-over route) encompassing approximately 50 feet. |
 
 (ii) South Core Banks: 
 
 | Access                  | Location                                                                                                                                           |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| (A) New Drum Inlet      | Sound-side beach near Milepost 23 (as designated by signs), approximately 1/4 mile long, beginning approximately 1/2 mile south of New Drum Inlet. |
+| (A) New Drum Inlet      | Sound-side beach near Milepost 23 (as designated by signs), approximately 1⁄4 mile long, beginning approximately 1⁄2 mile south of New Drum Inlet. |
 | (B) Great Island Access | Carly Dock at Great Island Camp, near Milepost 30 (noted as Island South Core Banks-Great Island on map).                                          |
 
 (iii) Cape Lookout: 

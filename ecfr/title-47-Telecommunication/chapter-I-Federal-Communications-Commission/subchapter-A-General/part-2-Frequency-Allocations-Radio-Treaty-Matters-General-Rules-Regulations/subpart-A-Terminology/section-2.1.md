@@ -564,4 +564,4 @@ In these \[international Radio\] Regulations, unless otherwise stated, any stati
 
 *Unwanted Emissions.* Consist of spurious emissions and out-of-band emissions. (RR) 
 
-\[49 FR 2368, Jan. 19, 1984, as amended at 50 FR 25239, June 18, 1985; 51 FR 37399, Oct. 22, 1986; 52 FR 7417, Mar. 11, 1987; 54 FR 49980, Dec. 4, 1990; 55 FR 28761, July 13, 1990; 56 FR 42703, Aug. 29, 1991; 58 FR 68058, Dec. 23, 1993; 62 FR 26242, May 13, 1997; 65 FR 60109, Oct. 10, 2000; 66 FR 50840, Oct. 5, 2001; 68 FR 74330, Dec. 23, 2003; 70 FR 23039, May 4, 2005; 70 FR 46583, Aug. 10, 2005; 71 FR 15619, Mar. 29, 2006; 72 FR 31192, June 6, 2007; 73 FR 25421, May 6, 2008; 75 FR 62933, Oct. 13, 2010; 78 FR 25161, Apr. 29, 2013; 80 FR 38823, July 7, 2015\]
+\[49 FR 2368, Jan. 19, 1984\] Editorial Note:For Federal Register citations affecting § 2.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

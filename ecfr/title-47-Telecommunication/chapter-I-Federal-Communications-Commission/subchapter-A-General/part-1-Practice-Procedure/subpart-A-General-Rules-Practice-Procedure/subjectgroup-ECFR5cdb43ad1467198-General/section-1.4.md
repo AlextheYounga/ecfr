@@ -72,4 +72,4 @@ Example 14:The filing date falls on Friday, December 25, 1987. The document is r
 
 (l) When Commission action is required by statute to be taken by a date that falls on a holiday, such action may be taken by the next business day (unless the statute provides otherwise). 
 
-\[52 FR 49159, Dec. 30, 1987; 53 FR 44196, Nov. 2, 1988, as amended at 56 FR 40567, 40568, Aug. 15, 1991; 58 FR 17529, Apr. 5, 1993; 61 FR 11749, Mar. 22, 1996; 62 FR 26238, May 13, 1997; 63 FR 24124, May 1, 1998; 64 FR 27201, May 19, 1999; 64 FR 60725, Nov. 8, 1999; 65 FR 46109, July 27, 2000; 67 FR 13223, Mar. 21, 2002; 71 FR 15618, Mar. 29, 2006; 74 FR 68544, Dec. 28, 2009; 76 FR 24390, May 2, 2011; 76 FR 70908, Nov. 16, 2011; 85 FR 39075, June 30, 2020\]
+\[52 FR 49159, Dec. 30, 1987; 53 FR 44196, Nov. 2, 1988\] Editorial Note:For Federal Register citations affecting § 1.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

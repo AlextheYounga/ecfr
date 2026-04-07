@@ -306,6 +306,8 @@
 
 (*ii*) The next quarterly reporting deadline in paragraph (f)(2) of this section after the deadline in paragraph (f)(1)(i)(B)(*3*) of this section. 
 
+(*5*) For the 2024 compliance year, annual compliance reports must be submitted by the next quarterly reporting deadline under paragraph (f)(2) of this section after the date the revised 2024 cellulosic biofuel standard becomes effective in § 80.1405(a). 
+
 (ii) *All other parties.* For all parties other than obligated parties, annual compliance reports must be submitted by March 31 of the subsequent year. 
 
 (iii) *Deadline publication.* The annual compliance reporting deadline will be calculated in accordance with paragraph (f)(1)(i) of this section and published on EPA's website. 

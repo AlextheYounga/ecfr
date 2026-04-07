@@ -72,24 +72,4 @@
 
 (v) For systems monitoring under § 141.40 that become aware of results for samples collected during the reporting year but were not included in the reports distributed by July 1, the system must include information as required by § 141.153(d)(7). 
 
-(i) Systems serving 100,000 or more persons, must develop a plan for providing assistance to consumers with limited English proficiency. The system must evaluate the languages spoken by persons with limited English proficiency served by the water system, and the system's anticipated approach to address translation needs. The first plan must be provided to the state with the first report in 2027. Plans must be evaluated annually and updated as necessary and reported with the certification required in paragraph (c) of this section. 
-
-(j) Delivery timing and biannual delivery: 
-
-(1) Each community water system must distribute reports by July 1 each year. Each report distributed by July 1 must use data collected during, or prior to, the previous calendar year using methods described in paragraph (a) of this section. 
-
-(2) Each community water system serving 10,000 or more persons must distribute the report biannually, or twice per calendar year, by December 31 using methods described in paragraph (a) of this section. 
-
-(3) Systems required to comply with paragraph (j)(2) of this section, with a violation or action level exceedance that occurred between January 1 and June 30 of the current year, or have received monitoring results from required monitoring under the Unregulated Contaminant Monitoring Rule in § 141.40, must include a 6-month update with the second report with the following: 
-
-(i) A short description of the nature of the 6-month update and the biannual delivery. 
-
-(ii) If a system receives an MCL, MRDL, or treatment technique violation, the 6-month update must include the applicable contaminant section information in § 141.153(d)(4), and a readily understandable explanation of the violation including: the length of the violation, the potential adverse health effects, actions taken by the system to address the violation, and timeframe the system expects to complete those actions. To describe the potential health effects, the system must use the relevant language of appendix A to this subpart. 
-
-(iii) If a system receives any other violation, the 6-month update must include the information in § 141.153(f). 
-
-(iv) If a system exceeded the lead action level following monitoring conducted between January 1 and June 30 of the current year, the system must include information identified in § 141.153(d)(4)(vi) and (d)(8). 
-
-(v) For systems monitoring under § 141.40 that become aware of results for samples collected during the reporting year but were not included in the reports distributed by July 1, the system must include information as required by § 141.153(d)(7). 
-
 \[63 FR 44526, Aug. 19, 1998, as amended at 65 FR 26023, May 4, 2000; 89 FR 46012, May 24, 2024\]

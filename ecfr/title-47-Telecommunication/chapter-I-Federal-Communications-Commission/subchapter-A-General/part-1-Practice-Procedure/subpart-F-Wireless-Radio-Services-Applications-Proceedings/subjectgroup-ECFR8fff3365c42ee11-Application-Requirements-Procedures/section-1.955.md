@@ -12,4 +12,4 @@
 
 (c) Authorizations submitted by licensees for cancellation terminate when the Commission gives Public Notice of such action. 
 
-\[63 FR 68934, Dec. 14, 1998, as amended at 64 FR 53240, Oct. 1, 1999; 70 FR 61058, Oct. 20, 2005; 72 FR 27708, May 16, 2007; 72 FR 48843, Aug. 24, 2007; 82 FR 41547, Sept. 1, 2017\] Editorial Note:At 64 FR 53240, Oct. 1, 1999, § 1.955 was amended by revising the last sentence of paragraph (b)(2) to read “*See* § 1.946(c) of this part.”, effective Nov. 30, 1999. However, paragraph (b)(2) does not exist in the 1998 volume.
+\[63 FR 68934, Dec. 14, 1998, as amended at 64 FR 53240, Oct. 1, 1999; 70 FR 61058, Oct. 20, 2005; 72 FR 27708, May 16, 2007; 72 FR 48843, Aug. 24, 2007; 82 FR 41547, Sept. 1, 2017\]

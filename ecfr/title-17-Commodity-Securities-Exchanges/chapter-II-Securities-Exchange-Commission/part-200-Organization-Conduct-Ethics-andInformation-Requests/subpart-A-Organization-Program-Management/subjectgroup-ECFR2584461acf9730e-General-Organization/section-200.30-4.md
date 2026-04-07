@@ -26,7 +26,7 @@ Pursuant to the provisions of Pub. L. No. 100-181, 101 Stat. 1254, 1255 (15 U.S.
 
 (12) Pursuant to Section 36 of the Securities Exchange Act of 1934 (15 U.S.C. 78mm) to review and, either unconditionally or on specified terms and conditions, grant, or deny exemptions from rule 17a-25 of the Act (§ 240.17a-25 of this chapter), provided that the Division of Trading and Markets is notified of any such granting or denial of an exemption. 
 
-(13) To order the making of private investigations pursuant to section 19(c) of the Securities Act of 1933 (15 U.S.C. 77s(c)), section 21(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(b)), section 42(b) of the Investment Company Act of 1940 (15 U.S.C. 80a-41(b) and section 209(b) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-9(b)). 
+(13) \[Reserved\] 
 
 (14) To submit witness immunity requests to the U.S. Attorney General pursuant to 18 U.S.C. 6002-6004, and, upon approval by the U.S. Attorney General, to seek or, for the period from June 17, 2011 through December 19, 2012, to issue orders compelling an individual to give testimony or provide other information pursuant to subpoenas that may be necessary to the public interest in connection with investigations and related enforcement actions pursuant to section 22(b) of the Securities Act of 1933 (15 U.S.C. 77v(b)), section 21(c) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(c)), section 42(c) of the Investment Company Act of 1940 (15 U.S.C. 80a-41(c)) and section 209(c) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-9(c)). 
 

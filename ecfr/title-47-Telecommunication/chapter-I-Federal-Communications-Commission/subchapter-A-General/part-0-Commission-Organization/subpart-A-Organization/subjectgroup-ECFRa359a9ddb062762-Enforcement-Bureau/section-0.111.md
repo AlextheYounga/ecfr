@@ -122,4 +122,4 @@ The Media Bureau has primary responsibility for complaints regarding the followi
 
 (k) Perform such other functions as may be assigned or referred to it by the Commission. 
 
-\[64 FR 60716, Nov. 8, 1999, as amended at 67 FR 13218, Mar. 21, 2002; 68 FR 36942, June 20, 2003; 69 FR 30233, May 27, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 24381, May 2, 2011; 76 FR 26220, May 6, 2011; 76 FR 59232, Sept. 23, 2011; 76 FR 60754, Sept. 30, 2011; 78 FR 23151, Apr. 18, 2013; 80 FR 53749, Sept. 8, 2015; 84 FR 9465, Mar. 15, 2019; 85 FR 21788, Apr. 20, 2020; 85 FR 63171, Oct. 6, 2020; 86 FR 17734, Apr. 6, 2021; 86 FR 52843, Sept. 23, 2021; 87 FR 42944, July 18, 2022; 88 FR 21429, Apr. 10, 2023; 88 FR 40116, June 21, 2023; 88 FR 43458, July 10, 2023; 89 FR 4161, Jan. 22, 2024; 89 FR 5104, Jan. 26, 2024\]
+\[64 FR 60716, Nov. 8, 1999\] Editorial Note:For Federal Register citations affecting § 0.111, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

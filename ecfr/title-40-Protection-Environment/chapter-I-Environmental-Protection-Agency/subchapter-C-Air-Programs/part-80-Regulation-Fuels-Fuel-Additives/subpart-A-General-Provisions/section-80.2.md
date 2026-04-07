@@ -324,7 +324,7 @@ The definitions of this section apply in this part unless otherwise specified. N
 
 *Gasoline treated as blendstock (GTAB)* means imported gasoline that is excluded from an import facility's compliance calculations, but is treated as blendstock in a related refinery that includes the GTAB in its refinery compliance calculations. 
 
-*Glycerin* means a coproduct from the production of biodiesel that primarily contains glycerol. 
+*Glycerin* means a co-product from the production of biodiesel that primarily contains glycerol. 
 
 *Heating oil* means any of the following: 
 
@@ -344,7 +344,7 @@ The definitions of this section apply in this part unless otherwise specified. N
 
 *Liquefied petroleum gas (LPG)* means a liquid hydrocarbon fuel that is stored under pressure and is composed primarily of species that are gases at atmospheric conditions (temperature = 25 °C and pressure = 1 atm), excluding natural gas. 
 
-*Locomotive engine* means an engine used in a locomotive as defined under 40 CFR 92.2. 
+*Locomotive engine* means an engine used in a locomotive as defined under 40 CFR 1033.901. 
 
 *Marine engine* has the meaning given in 40 CFR 1042.901. 
 
@@ -578,4 +578,4 @@ The definitions of this section apply in this part unless otherwise specified. N
 
 *Wholesale purchaser-consumer* means any person that is an ultimate consumer of gasoline, diesel fuel, natural gas, or liquefied petroleum gas and which purchases or obtains gasoline, diesel fuel, natural gas or liquefied petroleum gas from a supplier for use in motor vehicles or nonroad engines, including locomotive or marine engines and, in the case of gasoline, diesel fuel, or liquefied petroleum gas, receives delivery of that product into a storage tank of at least 550-gallon capacity substantially under the control of that person. 
 
-\[88 FR 44555, July 12, 2023\]
+\[88 FR 44555, July 12, 2023, as amended at 90 FR 12113, Mar. 14, 2025\]

@@ -28,8 +28,8 @@
 
 (f) The requirements described in paragraph (b) of this section may be delegated directly upstream for renewable fuel (neat or blended) that is produced, imported, sold, offered for sale, supplied, offered for supply, stored, dispensed, or transported for use in any of the following: 
 
-(1) Tactical military vehicles, engines, or equipment having an EPA national security exemption from emission standards under 40 CFR 85.1708, 89.908, 92.908, 94.908, 1042.635, or 1068.225. 
+(1) Tactical military vehicles, engines, or equipment having an EPA national security exemption from emission standards under 40 CFR 85.1708, 1042.635, or 1068.225. 
 
 (2) Tactical military vehicles, engines, or equipment that are not subject to a national security exemption from vehicle or engine emissions standards as described in paragraph (f)(1) of this section but, for national security purposes (for purposes of readiness for deployment overseas), need to be fueled on the same transportation fuel, heating oil, or jet fuel as the vehicles, engines, or equipment for which EPA has granted such a national security exemption. 
 
-\[75 FR 14863, Mar. 26, 2010, as amended at 75 FR 26042, May 10, 2010; 79 FR 42162, July 18, 2014; 85 FR 7077, Feb. 6, 2020; 85 FR 78467, Dec. 4, 2020\]
+\[75 FR 14863, Mar. 26, 2010, as amended at 75 FR 26042, May 10, 2010; 79 FR 42162, July 18, 2014; 85 FR 7077, Feb. 6, 2020; 85 FR 78467, Dec. 4, 2020, 90 FR 12114, Mar. 14, 2025\]

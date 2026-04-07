@@ -140,19 +140,9 @@ The requirements regarding annual attest engagements in 40 CFR 1090.1800, also a
 
 (7) *Compliance reports.* Compare the list of compliance reports submitted to EPA during the compliance period to the reporting requirements for the entity in § 80.1451. Report as a finding any reporting requirements that were not completed. 
 
-(d) *Report submission deadlines*—(1) *Obligated parties.* (i) Except as specified in paragraph (d)(1)(ii) of this section, for obligated parties, annual attest engagement reports must be submitted to EPA by whichever of the following dates is latest: 
+(d) *Report submission deadlines*—
 
-(A) June 1 of the subsequent calendar year. 
-
-(B) The next June 1 annual attest engagement reporting deadline after the annual compliance reporting deadline under § 80.1451(f)(1)(i)(A). 
-
-(ii)(A) For obligated parties that meet the requirements for a small refinery under § 80.1441(e)(2)(iii), for the 2019 compliance year, annual attest engagement reports must be submitted to EPA no later than the next June 1 annual attest engagement reporting deadline after the annual compliance reporting deadline under § 80.1451(f)(1)(i)(B)(*1*). 
-
-(B) For obligated parties, for the 2020 compliance year, annual attest engagement reports must be submitted to EPA no later than the next June 1 annual attest engagement reporting deadline after the annual compliance reporting deadline under § 80.1451(f)(1)(i)(B)(*2*). 
-
-(C) For obligated parties, for the 2021 compliance year, annual attest engagement reports must be submitted to EPA no later than the next June 1 annual attest engagement reporting deadline after the annual compliance reporting deadline under § 80.1451(f)(1)(i)(B)(*3*). 
-
-(D) For obligated parties, for the 2022 compliance year, annual attest engagement reports must be submitted to EPA no later than the next June 1 annual attest engagement reporting deadline after the annual compliance reporting deadline under § 80.1451(f)(1)(i)(B)(*4*). 
+(1) *Obligated parties.* Obligated parties must submit annual attest engagement reports to EPA by the next June 1 annual attest engagement reporting deadline after the annual compliance reporting deadline under § 80.1451(f)(1)(i). 
 
 (2) *All other parties.* All parties other than obligated parties must submit annual attest engagement reports to EPA by June 1 of the subsequent calendar year. 
 

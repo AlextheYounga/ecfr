@@ -1,6 +1,6 @@
 ##### § 9.1 OMB approvals under the Paperwork Reduction Act.
 
-Link to an amendment published at 89 FR 100365, Dec. 12, 2024.Link to an amendment published at 90 FR 571, Jan. 6, 2025.
+Link to an amendment published at 89 FR 100365, Dec. 12, 2024.
 
 This part consolidates the display of control numbers assigned to collections of information in certain EPA regulations by the Office of Management and Budget (OMB) under the Paperwork Reduction Act (PRA). No person is required to respond to an information collection request regulated by the PRA unless a valid control number assigned by OMB is displayed in either this part, another part of the Code of Federal Regulations, a valid Federal Register notice, or by other appropriate means. 
 
@@ -3685,7 +3685,10 @@ This part consolidates the display of control numbers assigned to collections of
 | 721.11416                                                                                                                                                                                             | 2070-0012                                                        |
 | 721.11417                                                                                                                                                                                             | 2070-0012                                                        |
 | 721.11419                                                                                                                                                                                             | 2070-0012                                                        |
+| 721.11420                                                                                                                                                                                             | 2070-0012                                                        |
+| 721.11421                                                                                                                                                                                             | 2070-0012                                                        |
 | 721.11422                                                                                                                                                                                             | 2070-0012                                                        |
+| 721.11423                                                                                                                                                                                             | 2070-0012                                                        |
 | 721.11426                                                                                                                                                                                             | 2070-0012                                                        |
 | 721.11427                                                                                                                                                                                             | 2070-0012                                                        |
 | 721.11428                                                                                                                                                                                             | 2070-0012                                                        |
@@ -3704,6 +3707,9 @@ This part consolidates the display of control numbers assigned to collections of
 | 721.11441                                                                                                                                                                                             | 2070-0012                                                        |
 | 721.11442                                                                                                                                                                                             | 2070-0012                                                        |
 | 721.11443                                                                                                                                                                                             | 2070-0012                                                        |
+| 721.11444                                                                                                                                                                                             | 2070-0012                                                        |
+| 721.11445                                                                                                                                                                                             | 2070-0012                                                        |
+| 721.11446                                                                                                                                                                                             | 2070-0012                                                        |
 | 721.11447                                                                                                                                                                                             | 2070-0012                                                        |
 | 721.11448                                                                                                                                                                                             | 2070-0012                                                        |
 | 721.11449                                                                                                                                                                                             | 2070-0012                                                        |
@@ -4079,8 +4085,4 @@ This part consolidates the display of control numbers assigned to collections of
 
 \[58 FR 27472, May 10, 1993\] Editorial Notes:1\. For Federal Register citations affecting § 9.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
-2\. At 65 FR 76745, Dec. 7, 2000, the table in § 9.1 was amended, but amendments could not be incorporated because of inaccurate amendatory instructions. 
-
-3\. At 71 FR 767, Jan. 5, 2006, the table was amended under the heading “National Primary Drinking Water Regulations Implementation” by removing the entry for § 142.15(c); however, the amendment could not be incorporated because that entry does not exist. 
-
-4\. At 88 FR 21484, Apr. 11, 2023, the table in § 9.1 was amended by adding entries for §§ 721.11604 through 721.11634 in numerical order under the undesignated center heading “Significant New Uses of Chemical Substances”. However, the amendment will not be incorporated as this listing is erroneous.
+2\. At 88 FR 21484, Apr. 11, 2023, the table in § 9.1 was amended by adding entries for §§ 721.11604 through 721.11634 in numerical order under the undesignated center heading “Significant New Uses of Chemical Substances”. However, the amendment will not be incorporated as this listing is erroneous.

@@ -72,7 +72,7 @@ Table C—Detection Limits for Man-made Beta Particle and Photon Emitters
 | Iodine-131          | 1 pCi/1.                      |
 | Cesium-134          | 10 pCi/1.                     |
 | Gross beta          | 4 pCi/1.                      |
-| Other radionuclides | 1/10 of the applicable limit. |
+| Other radionuclides | 1⁄10 of the applicable limit. |
 
 (d) To judge compliance with the maximum contaminant levels listed in § 141.66, averages of data shall be used and shall be rounded to the same number of significant figures as the maximum contaminant level for the substance in question. 
 

@@ -1,7 +1,5 @@
 ##### § 240.15c3-1 Net capital requirements for brokers or dealers.
 
-Link to an amendment published at 90 FR 2836, Jan. 13, 2025.
-
 (a) Every broker or dealer must at all times have and maintain net capital no less than the greater of the highest minimum requirement applicable to its ratio requirement under paragraph (a)(1) of this section, or to any of its activities under paragraph (a)(2) of this section, and must otherwise not be “insolvent” as that term is defined in paragraph (c)(16) of this section. In lieu of applying paragraphs (a)(1) and (a)(2) of this section, an OTC derivatives dealer shall maintain net capital pursuant to paragraph (a)(5) of this section. Each broker or dealer also shall comply with the supplemental requirements of paragraphs (a)(4) and (a)(9) of this section, to the extent either paragraph is applicable to its activities. In addition, a broker or dealer shall maintain net capital of not less than its own net capital requirement plus the sum of each broker's or dealer's subsidiary or affiliate minimum net capital requirements, which is consolidated pursuant to appendix C, § 240.15c3-1c. 
 
 Ratio Requirements Aggregate Indebtedness Standard
@@ -12,7 +10,7 @@ Alternative Standard
 
 (ii) A broker or dealer may elect not to be subject to the Aggregate Indebtedness Standard of paragraph (a)(1)(i) of this section. That broker or dealer shall not permit its net capital to be less than the greater of $250,000 or 2 percent of aggregate debit items computed in accordance with the Formula for Determination of Reserve Requirements for Brokers and Dealers (Exhibit A to Rule 15c3-3, § 240.15c3-3a). Such broker or dealer shall notify its Examining Authority, in writing, of its election to operate under this paragraph (a)(1)(ii). Once a broker or dealer has notified its Examining Authority, it shall continue to operate under this paragraph unless a change is approved upon application to the Commission. A broker or dealer that elects this standard and is not exempt from Rule 15c3-3 shall: 
 
-(A) Make the computation required by § 240.15c3-3(e) and set forth in Exhibit A, § 240.15c3-3a, on a weekly basis and, in lieu of the 1 percent reduction of certain debit items required by Note E (3) in the computation of its Exhibit A requirement, reduce aggregate debit items in such computation by 3 percent; 
+(A) Make the computation required by § 240.15c3-3(e) and set forth in Exhibit A, § 240.15c3-3a, on a weekly basis and, in lieu of the 1% reduction of certain debit items required by Note E (3) in the computation of its Exhibit A requirement, reduce aggregate debit items in such computation by 3%; provided, however, that, if a broker or dealer is required to make the computation required by § 240.15c3-3(e) and set forth in Exhibit A, § 240.15c3-3a, on a daily basis, the broker or dealer may reduce aggregate debit items in such computation by 2%; 
 
 (B) Include in Items 7 and 8 of Exhibit A, § 240.15c3-3a, the market value of items specified therein more than 7 business days old; 
 

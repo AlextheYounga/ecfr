@@ -22,7 +22,7 @@ API MPMS 14.3.1, 14.3.2, 14.3.3, and 141.3.4, are co-published as AGA Report 3, 
 
 (b) American Public Health Association (APHA), 1015 15th Street NW, Washington, DC 20005; (202) 777-2742; *www.standardmethods.org.*
 
-(1) SM 2540, revised June 10, 2020; IBR approved for § 80.155(c). 
+(1) SM 2540, Solids, revised June 10, 2020; IBR approved for § 80.155(c). 
 
 (2) \[Reserved\] 
 
@@ -50,7 +50,7 @@ API MPMS 14.3.1, 14.3.2, 14.3.3, and 141.3.4, are co-published as AGA Report 3, 
 
 (11) ASTM D5854-96 (Reapproved 2010), Standard Practice for Mixing and Handling of Liquid Samples of Petroleum and Petroleum Products, approved May 1, 2010 (“ASTM D5854”); IBR approved for § 80.8(d). 
 
-(12) ASTM D6751-20a, Standard Specification for Biodiesel Fuel Blend Stock (B100) for Middle Distillate Fuels, approved August 1, 2020 (“ASTM D6751”); IBR approved for § 80.2. 
+(12) ASTM D6751-24, Standard Specification for Biodiesel Fuel Blendstock (B100) for Middle Distillate Fuels, approved March 1, 2024 (“ASTM D6751”); IBR approved for § 80.2. 
 
 (13) ASTM D6866-22, Standard Test Methods for Determining the Biobased Content of Solid, Liquid, and Gaseous Samples Using Radiocarbon Analysis, approved March 15, 2022 (“ASTM D6866”); IBR approved for §§ 80.155(b); 80.1426(f); 80.1430(e). 
 
@@ -68,4 +68,4 @@ API MPMS 14.3.1, 14.3.2, 14.3.3, and 141.3.4, are co-published as AGA Report 3, 
 
 (2) \[Reserved\] 
 
-\[88 FR 44563, July 12, 2023\]
+\[88 FR 44563, July 12, 2023, as amended at 90 FR 12113, Mar. 14, 2025\]

@@ -62,4 +62,20 @@
 
 (4) Any support reductions resulting from a failure to timely make required filing pursuant to this section shall be applied in the next month following the notice of support reduction to the eligible telecommunications carrier from the Administrator or as soon as feasible thereafter. 
 
+(d) *Reporting locations pursuant to paragraph (a)(1) of this section after the March 1st annual deadline.* (1) An ETC that did not report and certify specific locations by March 1 of the year following the year in which the locations were deployed (late-reported locations) may report and certify those locations in a future year for the purpose of counting those locations toward fulfillment of future defined deployment obligations and/or for curing any noncompliance with such obligations in accordance with the terms of § 54.320. To do so, the ETC must indicate that the late-reported locations are being filed for this purpose. 
+
+(2) An ETC filing late-reported locations will be subject to a reduction in support calculated by multiplying the following numbers: 
+
+(i) The per diem per location support received by the ETC, subject to a maximum per-day, per-location reduction of seven dollars. 
+
+(ii) The number of days between the March 1 deadline for the reporting year in which the late-reported locations were deployed and the date that the ETC reported, certified, and indicated that the location should be counted toward defined deployment obligations, subject to a 15 day limit if the late-reported locations are filed as of the next reporting deadline after the locations should have been filed and at 30 day limit if the late-reported locations are filed at any time thereafter (for each instance of late reporting). 
+
+(iii) The number of late-reported locations as a percentage of the total number of locations that the ETC filed for the reporting year in which the untimely filed location should have been reported. 
+
+(3) If an ETC has not reported any untimely locations previously, the ETC is not subject to the reduction in support specified in paragraph (d)(2) of this section for a number of untimely reported locations deployed in any single year constituting 5% or less of the ETC's reported locations for the relevant reporting year. 
+
+(4) If an ETC has not reported any late-reported locations previously and the ETC filed a timely annual report, the ETC may amend the annual filing to include additional locations within four business days of the reporting deadline without being subject to the reduction in support specified in paragraph (d)(2) of this section. 
+
+(5) The reduction in support for the filing of the late-reported locations shall be applied in the next month following the notice of support reduction to the eligible telecommunications carrier from the Administrator or as soon as feasible thereafter. 
+
 \[81 FR 24341, Apr. 25, 2016, as amended at 81 FR 44451, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 14340, Mar. 20, 2017; 84 FR 4732, Feb. 19, 2019; 84 FR 59964, Nov. 7, 2019, 85 FR 13798, Mar. 10, 2020; 87 FR 13948, Mar. 11, 2022; 88 FR 55937, Aug. 17, 2023; 89 FR 25161, Apr. 10, 2024; 89 FR 107229, Dec. 31, 2024\]

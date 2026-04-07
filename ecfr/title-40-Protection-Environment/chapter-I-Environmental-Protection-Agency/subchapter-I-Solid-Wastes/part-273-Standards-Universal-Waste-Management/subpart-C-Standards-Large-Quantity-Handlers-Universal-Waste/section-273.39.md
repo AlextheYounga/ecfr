@@ -8,7 +8,7 @@
 
 (3) The date of receipt of the shipment of universal waste. 
 
-(b) *Shipments off-sit*e. A large quantity handler of universal waste must keep a record of each shipment of universal waste sent from the handler to other facilities. The record may take the form of a log, invoice, manifest, bill of lading, movement document or other shipping document. The record for each shipment of universal waste sent must include the following information: 
+(b) *Shipments off-site.* A large quantity handler of universal waste must keep a record of each shipment of universal waste sent from the handler to other facilities. The record may take the form of a log, invoice, manifest, bill of lading, movement document or other shipping document. The record for each shipment of universal waste sent must include the following information: 
 
 (1) The name and address of the universal waste handler, destination facility, or foreign destination to whom the universal waste was sent; 
 

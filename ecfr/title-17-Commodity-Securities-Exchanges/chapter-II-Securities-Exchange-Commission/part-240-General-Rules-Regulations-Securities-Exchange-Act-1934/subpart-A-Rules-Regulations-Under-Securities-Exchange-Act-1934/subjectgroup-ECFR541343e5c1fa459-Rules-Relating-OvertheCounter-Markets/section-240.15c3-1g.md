@@ -204,4 +204,4 @@ Conditions Regarding Notification
 
 (4) Upon the written request of the ultimate holding company, or upon its own motion, the Commission may grant an extension of time or an exemption from any of the requirements of this paragraph (e) either unconditionally or on specified terms and conditions as are necessary or appropriate in the public interest or for the protection of investors. 
 
-\[69 FR 34467, June 21, 2004, as amended at 79 FR 1550, Jan. 8, 2014; 83 FR 50222, Oct. 4, 2018\]
+\[69 FR 34467, June 21, 2004, as amended at 79 FR 1550, Jan. 8, 2014; 83 FR 50222, Oct. 4, 2018; 90 FR 2836, Jan. 13, 2025\]

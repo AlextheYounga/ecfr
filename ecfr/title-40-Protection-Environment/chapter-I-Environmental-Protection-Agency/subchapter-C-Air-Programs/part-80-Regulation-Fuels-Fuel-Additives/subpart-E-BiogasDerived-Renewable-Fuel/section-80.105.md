@@ -88,7 +88,7 @@ BED3/7,i,j = Mi,j \* TSi,j \* VSi,j \* CFi,jWhere: BED3/7,i,j = The amount of en
 
 (B) For the cellulosic converted fraction value specified in paragraph (j)(2)(iv)(E) of this section, the mixed digester must operate according to the conditions accepted at registration under § 80.135(c)(10)(vi)(A)(*4*). 
 
-(3) The biogas producer must assign a number (the “batch number”) to each batch of biogas consisting of their EPA-issued company registration number, the EPA-issued facility registration number, the last two digits of the calendar year in which the batch was produced, and a unique number for the batch, beginning with the number one for the first batch produced each calendar year and each subsequent batch during the calendar year being assigned the next sequential number (*e.g.,* 4321-54321-23-000001, 4321-54321-23-000002, etc.). 
+(3) The biogas producer must assign a number (the “batch number”) to each batch of biogas consisting of their EPA-issued company registration number, the EPA-issued facility registration number, the last two digits of the compliance year in which the batch was produced, and a unique number for the batch, beginning with the number one for the first batch produced each compliance year and each subsequent batch during the compliance year being assigned the next sequential number (*e.g.,* 4321-54321-23-000001, 4321-54321-23-000002, etc.). 
 
 (k) *Limitations.* (1) For each biogas production facility, the biogas producer must only supply biogas for only one of the following uses: 
 
@@ -102,4 +102,6 @@ BED3/7,i,j = Mi,j \* TSi,j \* VSi,j \* CFi,jWhere: BED3/7,i,j = The amount of en
 
 (3) If the biogas producer operates a municipal wastewater treatment facility digester, the biogas producer must not introduce any feedstocks into that digester that do not contain at least 75% average adjusted cellulosic content. 
 
-(4) The transfer and batch segregation limits specified in § 80.1476(g) do not apply.
+(4) The transfer and batch segregation limits specified in § 80.1476(g) do not apply. 
+
+\[88 FR 44564, July 12, 2023, as amended at 90 FR 12114, Mar. 14, 2025\]
