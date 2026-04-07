@@ -202,9 +202,11 @@
 
 (v) *Ownership cap.* Have an ownership interest in more than 5 percent of the total number of vessels issued limited access scallop permits and confirmations of permit history, except as provided in § 648.4(a)(2)(i)(M).
 
-(vi) *Closed area requirements* - (A) *EFH Closed Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the EFH Closed Areas and Habitat Management Areas specified in §§ 648.61 and 648.370, respectively.
+(vi) *Closed area requirements* -
 
-(*2*) Transit or enter the EFH Closure Areas or Habitat Management Areas specified in §§ 648.61 and 648.370, respectively, except as provided by § 648.61(b).
+(A) *Habitat Management Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the Habitat Management Areas specified in § 648.370.
+
+(*2*) Transit or enter the Habitat Management Areas specified in § 648.370, except as provided by § 648.61(b).
 
 (B) *Scallop Rotational Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the Scallop Rotational Areas closed to the scallop fishery through the specifications or framework adjustment processes specified in § 648.55.
 
@@ -284,9 +286,9 @@
 
 (vi) *Scallop rotational area management program and scallop access area program requirements.* (A) Fail to comply with any of the provisions and specifications of § 648.59.
 
-(B) Transit the Closed Area II Scallop Rotational Area or the Closed Area II Extension Scallop Rotational Area, as defined § 648.60(d) and (e), respectively, or the Elephant Trunk Flex Scallop Rotational Area, as defined in § 648.60(b), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
+(B) Transit the Closed Area II Scallop Rotational Area, as defined in § 648.60(d), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
 
-(C) Fish for, possess, or land scallops in or from the Elephant Trunk Flex Access Area in excess of the vessel's total Elephant Trunk Flex Access Area specific allocation as specified in § 648.59(b)(3)(i)(B)(*1*)(*ii*) or the amount permitted to be landed from the Elephant Trunk Flex Access Area as allowed under trip exchanges specified in § 648.59(b)(3)(ii)(A) and (B).
+(C) Fish for, possess, or land scallops in or from an access area in excess of the vessel's remaining specific allocation for that area as specified in § 648.59(b)(3) or the amount permitted to be landed from that area.
 
 (D) Possess more than 50 bu (17.6 hL) of in-shell scallops outside the boundaries of a Sea Scallop Access Area by a vessel that is declared into the Area Access Program as specified in § 648.59.
 
@@ -298,7 +300,9 @@
 
 (viii) Fish for scallops in, or possess scallops or land scallops from, the yellowtail flounder accountability measure closed areas specified in § 648.64 during the period specified in the notice announcing the closure and based on the closure table specified in § 648.64.
 
-(ix) Fish for scallops west of 71° W. long., outside of the Sea Scallop Access Areas, with gear that does not meet the specifications described in § 648.65 during the period specified in the notice announcing the windowpane flounder accountability measure gear restricted area described in § 648.65.
+(ix) Fish for scallops in the Mid-Atlantic Accountability Measure Area, described in § 648.64(b)(2) with gear that does not meet the specifications described in § 648.64(c) during the period specified in the notice announcing the Southern New England/Mid-Atlantic Yellowtail Flounder or the Southern Windowpane Flounder Gear Restricted Area described in § 648.64(e) and (g), respectively.
+
+(x) Fish for scallops in the Georges Bank Accountability Measure Area described in § 648.64(b)(1), with gear that does not meet the specifications described in § 648.64(c) during the period specified in the notice announcing the Georges Bank Yellowtail Flounder or the Northern Windowpane Flounder Gear Restricted Area described in § 648.64(d) and (f), respectively.
 
 (3) *LAGC scallop vessels.* It is unlawful for any person owning or operating a vessel issued an LAGC scallop permit to do any of the following:
 
@@ -334,7 +338,7 @@
 
 (D) Fish for, possess, or land scallops in or from any Sea Scallop Access Area without an observer on board, unless the vessel owner, operator, or manager has received a waiver to carry an observer for the specified trip and area fished.
 
-(E) Transit the Elephant Trunk Flex Scallop Rotational Area, Closed Area II Scallop Rotational Area, or the Closed Area II Extension Scallop Rotational Area, as defined § 648.60(b), (d), and (e), respectively, unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
+(E) Transit the Closed Area II Scallop Rotational Area, as defined in § 648.60 (d), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
 
 (vi) *Sectors.* Fail to comply with any of the requirements and restrictions for General Category sectors and harvesting cooperatives specified in § 648.63.
 
@@ -356,9 +360,9 @@
 
 (H) Land scallops more than once per calendar day.
 
-(ii) *Owner and allocation cap.* (A) Have an ownership interest in vessels that collectively are allocated more than 5 percent of the total IFQ scallop ACL as specified in § 648.53(a)(5)(ii) and (iii).
+(ii) *Owner and allocation cap.* (A) Have an ownership interest in vessels that collectively are allocated more than 5 percent of the total IFQ scallop APL as specified in § 648.53(a)(8).
 
-(B) Have an IFQ allocation on an IFQ scallop vessel of more than 2.5 percent of the total IFQ scallop ACL as specified in § 648.53(a)(4)(i).
+(B) Have an IFQ allocation on an IFQ scallop vessel of more than 2.5 percent of the total IFQ scallop APL as specified in § 648.53(a)(8).
 
 (iii) *IFQ Transfer Program.* (A) Apply for an IFQ transfer that will result in the transferee having an aggregate ownership interest in more than 5 percent of the total IFQ scallop ACL.
 
@@ -371,6 +375,10 @@
 (G) Transfer scallop IFQ to, or receive scallop IFQ from, a vessel that has not been issued a valid IFQ scallop permit.
 
 (iv) *Cost Recovery Program.* Fail to comply with any of the cost recovery requirements specified under § 648.53(g)(4).
+
+(v) Fish for scallops in the Mid-Atlantic Accountability Measure Area, described in § 648.64(b)(2) with gear that does not meet the specifications described in § 648.64(c) during the period specified in the notice announcing the Southern New England/Mid-Atlantic Yellowtail Flounder or the Southern Windowpane Flounder Gear Restricted Area described in § 648.64(e) and (g), respectively.
+
+(vi) Fish for scallops in the Georges Bank Accountability Measure Area described in § 648.64(b)(1), with gear that does not meet the specifications described in § 648.64(c) during the period specified in the notice announcing the Georges Bank Yellowtail Flounder or the Northern Windowpane Flounder Gear Restricted Area described in § 648.64(d) and (f), respectively.
 
 (5) *NGOM scallop permit.* It is unlawful for any person owning or operating a vessel issued an NGOM scallop permit to do any of the following:
 

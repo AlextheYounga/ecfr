@@ -12,7 +12,7 @@
 
 (2) Proof of eligibility as required by paragraphs (e) through (g) of this section;
 
-(3) Any additional documentation to establish the decedent's eligibility (*e.g.,* marriage certificate, birth certificate, waivers, statements that the decedent had no children);
+(3) Any additional documentation to establish the decedent's eligibility (e.g., marriage certificate, birth certificate, waivers, statements that the decedent had no children);
 
 (4) Burial agreement;
 
