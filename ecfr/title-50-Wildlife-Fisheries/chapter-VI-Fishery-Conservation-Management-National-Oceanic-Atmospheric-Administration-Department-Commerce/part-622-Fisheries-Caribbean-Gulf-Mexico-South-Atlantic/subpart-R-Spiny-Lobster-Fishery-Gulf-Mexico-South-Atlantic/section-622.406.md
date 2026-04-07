@@ -1,8 +1,8 @@
 ##### § 622.406 Areas closed to lobster trap gear.
 
-(a) Fishing with spiny lobster trap gear is prohibited year-round in the following areas bounded by rhumb lines connecting, in order, the points listed. 
+(a) Fishing with spiny lobster trap gear is prohibited year-round in the following areas bounded by rhumb lines connecting, in order, the points listed.
 
-(1) Lobster Trap Gear Closed Area 1. 
+(1) Lobster Trap Gear Closed Area 1.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -12,7 +12,7 @@
 | D     | 24°31′29.999″ | 81°31′00.000″ |
 | A     | 24°31′15.002″ | 81°31′00.000″ |
 
-(2) Lobster Trap Gear Closed Area 2. 
+(2) Lobster Trap Gear Closed Area 2.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -22,7 +22,7 @@
 | D     | 24°31′29.831″ | 81°30′19.483″ |
 | A     | 24°31′20.205″ | 81°30′17.213″ |
 
-(3) Lobster Trap Gear Closed Area 3. 
+(3) Lobster Trap Gear Closed Area 3.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -32,7 +32,7 @@
 | D     | 24°31′32.335″ | 81°30′00.466″ |
 | A     | 24°31′42.665″ | 81°30′02.892″ |
 
-(4) Lobster Trap Gear Closed Area 4. 
+(4) Lobster Trap Gear Closed Area 4.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -42,7 +42,7 @@
 | D     | 24°31′56.998″ | 81°28′39.999″ |
 | A     | 24°31′50.996″ | 81°28′39.999″ |
 
-(5) Lobster Trap Gear Closed Area 5. 
+(5) Lobster Trap Gear Closed Area 5.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -52,7 +52,7 @@
 | D     | 24°32′33.005″ | 81°26′23.995″ |
 | A     | 24°32′20.014″ | 81°26′20.390″ |
 
-(6) Lobster Trap Gear Closed Area 6. 
+(6) Lobster Trap Gear Closed Area 6.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -62,7 +62,7 @@
 | D     | 24°32′52.218″ | 81°25′01.433″ |
 | A     | 24°32′30.011″ | 81°24′47.000″ |
 
-(7) Lobster Trap Gear Closed Area 7. 
+(7) Lobster Trap Gear Closed Area 7.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -72,7 +72,7 @@
 | D     | 24°32′59.002″ | 81°27′21.000″ |
 | A     | 24°32′46.834″ | 81°27′17.615″ |
 
-(8) Lobster Trap Gear Closed Area 8. 
+(8) Lobster Trap Gear Closed Area 8.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -82,7 +82,7 @@
 | D     | 24°33′23.254″ | 81°25′53.838″ |
 | A     | 24°33′10.002″ | 81°25′50.995″ |
 
-(9) Lobster Trap Gear Closed Area 9. 
+(9) Lobster Trap Gear Closed Area 9.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -92,7 +92,7 @@
 | D     | 24°33′29.008″ | 81°30′31.998″ |
 | A     | 24°33′22.004″ | 81°30′31.998″ |
 
-(10) Lobster Trap Gear Closed Area 10. 
+(10) Lobster Trap Gear Closed Area 10.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -102,7 +102,7 @@
 | D     | 24°33′41.999″ | 81°30′00.000″ |
 | A     | 24°33′33.004″ | 81°30′00.000″ |
 
-(11) Lobster Trap Gear Closed Area 11. 
+(11) Lobster Trap Gear Closed Area 11.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -112,7 +112,7 @@
 | D     | 24°34′03.382″ | 81°23′39.035″ |
 | A     | 24°33′50.376″ | 81°23′35.039″ |
 
-(12) Lobster Trap Gear Closed Area 12. 
+(12) Lobster Trap Gear Closed Area 12.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -122,7 +122,7 @@
 | D     | 24°34′24.997″ | 81°19′29.996″ |
 | A     | 24°34′00.003″ | 81°19′29.996″ |
 
-(13) Lobster Trap Gear Closed Area 13. 
+(13) Lobster Trap Gear Closed Area 13.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -132,7 +132,7 @@
 | D     | 24°35′29.006″ | 81°14′25.002″ |
 | A     | 24°35′19.997″ | 81°14′25.002″ |
 
-(14) Lobster Trap Gear Closed Area 14. 
+(14) Lobster Trap Gear Closed Area 14.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -142,7 +142,7 @@
 | D     | 24°44′47.002″ | 80°46′47.000″ |
 | A     | 24°44′37.004″ | 80°46′47.000″ |
 
-(15) Lobster Trap Gear Closed Area 15. 
+(15) Lobster Trap Gear Closed Area 15.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -152,7 +152,7 @@
 | D     | 24°50′06.004″ | 80°38′26.003″ |
 | A     | 24°49′53.946″ | 80°38′17.646″ |
 
-(16) Lobster Trap Gear Closed Area 16. 
+(16) Lobster Trap Gear Closed Area 16.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -162,7 +162,7 @@
 | D     | 24°53′24.562″ | 80°33′14.886″ |
 | A     | 24°53′32.085″ | 80°33′22.065″ |
 
-(17) Lobster Trap Gear Closed Area 17. 
+(17) Lobster Trap Gear Closed Area 17.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -172,7 +172,7 @@
 | D     | 24°53′25.348″ | 80°32′43.302″ |
 | A     | 24°53′33.410″ | 80°32′50.247″ |
 
-(18) Lobster Trap Gear Closed Area 18. 
+(18) Lobster Trap Gear Closed Area 18.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -182,7 +182,7 @@
 | D     | 24°54′13.917″ | 80°32′41.238″ |
 | A     | 24°54′06.317″ | 80°32′34.115″ |
 
-(19) Lobster Trap Gear Closed Area 19. 
+(19) Lobster Trap Gear Closed Area 19.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -192,7 +192,7 @@
 | D     | 24°54′36.006″ | 80°31′33.995″ |
 | A     | 24°54′06.000″ | 80°31′33.995″ |
 
-(20) Lobster Trap Gear Closed Area 20. 
+(20) Lobster Trap Gear Closed Area 20.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -202,7 +202,7 @@
 | D     | 24°56′31.102″ | 80°28′55.325″ |
 | A     | 24°56′21.104″ | 80°28′52.331″ |
 
-(21) Lobster Trap Gear Closed Area 21. 
+(21) Lobster Trap Gear Closed Area 21.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -212,7 +212,7 @@
 | D     | 24°57′06.107″ | 80°27′57.626″ |
 | A     | 24°56′53.006″ | 80°27′46.997″ |
 
-(22) Lobster Trap Gear Closed Area 22. 
+(22) Lobster Trap Gear Closed Area 22.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -222,7 +222,7 @@
 | D     | 24°57′40.200″ | 80°27′21.106″ |
 | A     | 24°57′35.001″ | 80°27′14.999″ |
 
-(23) Lobster Trap Gear Closed Area 23. 
+(23) Lobster Trap Gear Closed Area 23.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -232,7 +232,7 @@
 | D     | 24°59′03.002″ | 80°26′11.999″ |
 | A     | 24°58′58.154″ | 80°26′03.911″ |
 
-(24) Lobster Trap Gear Closed Area 24. 
+(24) Lobster Trap Gear Closed Area 24.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -242,7 +242,7 @@
 | D     | 24°59′33.598″ | 80°24′45.187″ |
 | A     | 24°59′17.009″ | 80°24′32.999″ |
 
-(25) Lobster Trap Gear Closed Area 25. 
+(25) Lobster Trap Gear Closed Area 25.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -252,7 +252,7 @@
 | D     | 24°59′49.666″ | 80°25′48.612″ |
 | A     | 24°59′44.008″ | 80°25′38.999″ |
 
-(26) Lobster Trap Gear Closed Area 26. 
+(26) Lobster Trap Gear Closed Area 26.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -262,7 +262,7 @@
 | D     | 25°01′18.010″ | 80°21′55.002″ |
 | A     | 25°01′00.006″ | 80°21′55.002″ |
 
-(27) Lobster Trap Gear Closed Area 27. 
+(27) Lobster Trap Gear Closed Area 27.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -273,7 +273,7 @@
 | E     | 25°01′46.657″ | 80°23′19.390″ |
 | A     | 25°01′34.997″ | 80°23′12.998″ |
 
-(28) Lobster Trap Gear Closed Area 28. 
+(28) Lobster Trap Gear Closed Area 28.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -283,7 +283,7 @@
 | D     | 25°01′54.553″ | 80°21′33.839″ |
 | A     | 25°01′38.005″ | 80°21′25.998″ |
 
-(29) Lobster Trap Gear Closed Area 29. 
+(29) Lobster Trap Gear Closed Area 29.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -293,7 +293,7 @@
 | D     | 25°02′01.008″ | 80°23′08.995″ |
 | A     | 25°01′53.001″ | 80°23′08.995″ |
 
-(30) Lobster Trap Gear Closed Area 30. 
+(30) Lobster Trap Gear Closed Area 30.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -303,7 +303,7 @@
 | D     | 25°02′32.250″ | 80°22′14.138″ |
 | A     | 25°02′20.000″ | 80°22′11.001″ |
 
-(31) Lobster Trap Gear Closed Area 31. 
+(31) Lobster Trap Gear Closed Area 31.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -313,7 +313,7 @@
 | D     | 25°02′38.004″ | 80°20′38.997″ |
 | A     | 25°02′29.503″ | 80°20′30.503″ |
 
-(32) Lobster Trap Gear Closed Area 32. 
+(32) Lobster Trap Gear Closed Area 32.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -323,7 +323,7 @@
 | D     | 25°02′50.007″ | 80°21′57.000″ |
 | A     | 25°02′34.008″ | 80°21′57.000″ |
 
-(33) Lobster Trap Gear Closed Area 33. 
+(33) Lobster Trap Gear Closed Area 33.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -333,7 +333,7 @@
 | D     | 25°03′17.446″ | 80°21′45.554″ |
 | A     | 25°03′11.294″ | 80°21′36.864″ |
 
-(34) Lobster Trap Gear Closed Area 34. 
+(34) Lobster Trap Gear Closed Area 34.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -343,7 +343,7 @@
 | D     | 25°03′26.200″ | 80°21′24.304″ |
 | A     | 25°03′30.196″ | 80°21′34.263″ |
 
-(35) Lobster Trap Gear Closed Area 35. 
+(35) Lobster Trap Gear Closed Area 35.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -353,7 +353,7 @@
 | D     | 25°03′41.011″ | 80°19′43.001″ |
 | A     | 25°03′26.001″ | 80°19′43.001″ |
 
-(36) Lobster Trap Gear Closed Area 36. 
+(36) Lobster Trap Gear Closed Area 36.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -363,7 +363,7 @@
 | D     | 25°07′14.997″ | 80°17′57.999″ |
 | A     | 25°07′03.008″ | 80°17′57.999″ |
 
-(37) Lobster Trap Gear Closed Area 37. 
+(37) Lobster Trap Gear Closed Area 37.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -373,7 +373,7 @@
 | D     | 25°07′59.011″ | 80°17′40.998″ |
 | A     | 25°07′51.156″ | 80°17′27.910″ |
 
-(38) Lobster Trap Gear Closed Area 38. 
+(38) Lobster Trap Gear Closed Area 38.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -383,7 +383,7 @@
 | D     | 25°08′22.000″ | 80°17′20.000″ |
 | A     | 25°08′12.002″ | 80°17′09.996″ |
 
-(39) Lobster Trap Gear Closed Area 39. 
+(39) Lobster Trap Gear Closed Area 39.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -393,7 +393,7 @@
 | D     | 25°08′29.003″ | 80°17′34.001″ |
 | A     | 25°08′18.003″ | 80°17′34.001″ |
 
-(40) Lobster Trap Gear Closed Area 40. 
+(40) Lobster Trap Gear Closed Area 40.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -403,7 +403,7 @@
 | D     | 25°08′48.999″ | 80°15′53.998″ |
 | A     | 25°08′45.002″ | 80°15′50.002″ |
 
-(41) Lobster Trap Gear Closed Area 41. 
+(41) Lobster Trap Gear Closed Area 41.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -413,7 +413,7 @@
 | D     | 25°09′09.007″ | 80°17′24.999″ |
 | A     | 25°08′58.007″ | 80°17′24.999″ |
 
-(42) Lobster Trap Gear Closed Area 42. 
+(42) Lobster Trap Gear Closed Area 42.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -423,7 +423,7 @@
 | D     | 25°09′20.996″ | 80°16′00.000″ |
 | A     | 25°09′10.999″ | 80°16′00.000″ |
 
-(43) Lobster Trap Gear Closed Area 43. 
+(43) Lobster Trap Gear Closed Area 43.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -433,7 +433,7 @@
 | D     | 25°09′36.006″ | 80°17′12.001″ |
 | A     | 25°09′28.316″ | 80°17′03.713″ |
 
-(44) Lobster Trap Gear Closed Area 44. 
+(44) Lobster Trap Gear Closed Area 44.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -443,7 +443,7 @@
 | D     | 25°10′09.995″ | 80°16′06.000″ |
 | A     | 25°10′00.011″ | 80°16′06.000″ |
 
-(45) Lobster Trap Gear Closed Area 45. 
+(45) Lobster Trap Gear Closed Area 45.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -453,7 +453,7 @@
 | D     | 25°10′37.997″ | 80°15′52.995″ |
 | A     | 25°10′29.002″ | 80°15′52.995″ |
 
-(46) Lobster Trap Gear Closed Area 46. 
+(46) Lobster Trap Gear Closed Area 46.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -463,7 +463,7 @@
 | D     | 25°11′20.006″ | 80°14′25.997″ |
 | A     | 25°11′05.998″ | 80°14′25.997″ |
 
-(47) Lobster Trap Gear Closed Area 47. 
+(47) Lobster Trap Gear Closed Area 47.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -473,7 +473,7 @@
 | D     | 25°12′06.011″ | 80°13′33.998″ |
 | A     | 25°12′00.998″ | 80°13′24.996″ |
 
-(48) Lobster Trap Gear Closed Area 48. 
+(48) Lobster Trap Gear Closed Area 48.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -483,7 +483,7 @@
 | D     | 25°12′24.001″ | 80°14′41.001″ |
 | A     | 25°12′18.343″ | 80°14′32.768″ |
 
-(49) Lobster Trap Gear Closed Area 49. 
+(49) Lobster Trap Gear Closed Area 49.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -493,7 +493,7 @@
 | D     | 25°15′29.148″ | 80°12′42.946″ |
 | A     | 25°15′23.998″ | 80°12′29.000″ |
 
-(50) Lobster Trap Gear Closed Area 50. 
+(50) Lobster Trap Gear Closed Area 50.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -503,7 +503,7 @@
 | D     | 25°16′12.585″ | 80°12′48.597″ |
 | A     | 25°16′01.997″ | 80°12′32.996″ |
 
-(51) Lobster Trap Gear Closed Area 51. 
+(51) Lobster Trap Gear Closed Area 51.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -514,7 +514,7 @@
 | E     | 25°16′42.001″ | 80°13′30.001″ |
 | A     | 25°16′33.006″ | 80°13′30.001″ |
 
-(52) Lobster Trap Gear Closed Area 52. 
+(52) Lobster Trap Gear Closed Area 52.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -524,7 +524,7 @@
 | D     | 25°17′11.705″ | 80°12′31.300″ |
 | A     | 25°17′04.715″ | 80°12′11.305″ |
 
-(53) Lobster Trap Gear Closed Area 53. 
+(53) Lobster Trap Gear Closed Area 53.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -534,7 +534,7 @@
 | D     | 25°17′33.005″ | 80°12′40.000″ |
 | A     | 25°17′23.008″ | 80°12′40.000″ |
 
-(54) Lobster Trap Gear Closed Area 54. 
+(54) Lobster Trap Gear Closed Area 54.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -544,7 +544,7 @@
 | D     | 25°21′07.005″ | 80°09′50.000″ |
 | A     | 25°20′57.996″ | 80°09′50.000″ |
 
-(55) Lobster Trap Gear Closed Area 55. 
+(55) Lobster Trap Gear Closed Area 55.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -554,7 +554,7 @@
 | D     | 25°21′56.004″ | 80°10′07.997″ |
 | A     | 25°21′45.004″ | 80°09′51.998″ |
 
-(56) Lobster Trap Gear Closed Area 56. 
+(56) Lobster Trap Gear Closed Area 56.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -564,7 +564,7 @@
 | D     | 25°21′58.998″ | 80°09′21.999″ |
 | A     | 25°21′49.000″ | 80°09′21.999″ |
 
-(57) Lobster Trap Gear Closed Area 57. 
+(57) Lobster Trap Gear Closed Area 57.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -574,7 +574,7 @@
 | D     | 25°24′41.005″ | 80°07′36.997″ |
 | A     | 25°24′31.008″ | 80°07′36.997″ |
 
-(58) Lobster Trap Gear Closed Area 58. 
+(58) Lobster Trap Gear Closed Area 58.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -584,7 +584,7 @@
 | D     | 25°25′26.008″ | 80°07′27.995″ |
 | A     | 25°25′14.005″ | 80°07′27.995″ |
 
-(59) Lobster Trap Gear Closed Area 59. 
+(59) Lobster Trap Gear Closed Area 59.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |
@@ -594,7 +594,7 @@
 | D     | 25°35′24.007″ | 80°05′39.999″ |
 | A     | 25°35′13.996″ | 80°05′39.999″ |
 
-(60) Lobster Trap Gear Closed Area 60. 
+(60) Lobster Trap Gear Closed Area 60.
 
 | Point | North lat.    | West long.    |
 | ----- | ------------- | ------------- |

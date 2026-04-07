@@ -730,4 +730,4 @@ In order to facilitate the use of § 1.6045-1, this section lists the paragraphs
 
 (r) Cross-references.
 
-\[T.D. 10000, 89 FR 56548, July 9, 2024, as amended by T.D. 10021, 89 FR 106958, Dec. 30, 2024\]
+\[T.D. 10000, 89 FR 56548, July 9, 2024, as amended by T.D. 10021, 89 FR 106958, Dec. 30, 2024\] Editorial Note:At 90 FR 30825, July 11, 2025, as required by the Congressional Review Act and Public Law 119-5, the Internal Revenue Service removed all amendments to §§ 1.6045-0 and 1.6045-1 published at 89 FR 106928, Dec. 30, 2024.

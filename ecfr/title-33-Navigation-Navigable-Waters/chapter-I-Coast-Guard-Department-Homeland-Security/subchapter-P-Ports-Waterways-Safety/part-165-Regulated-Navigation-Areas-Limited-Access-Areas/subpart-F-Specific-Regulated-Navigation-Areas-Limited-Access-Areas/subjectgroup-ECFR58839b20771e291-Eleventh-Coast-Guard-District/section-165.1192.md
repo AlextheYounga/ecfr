@@ -1,8 +1,8 @@
 ##### § 165.1192 Security Zones; Waters surrounding San Francisco International Airport and Oakland International Airport, San Francisco Bay, California.
 
-(a) *Locations.* The following areas are security zones: 
+(a) *Locations.* The following areas are security zones:
 
-(1) *San Francisco International Airport Security Zone.* This security zone includes all waters extending from the surface to the sea floor within approximately 200 yards seaward from the shoreline of the San Francisco International Airport and encompasses all waters in San Francisco Bay within a line connecting the following geographical positions— 
+(1) *San Francisco International Airport Security Zone.* This security zone includes all waters extending from the surface to the sea floor within approximately 200 yards seaward from the shoreline of the San Francisco International Airport and encompasses all waters in San Francisco Bay within a line connecting the following geographical positions—
 
 | Latitude    | Longitude     |
 | ----------- | ------------- |
@@ -23,7 +23,7 @@
 
 and along the shoreline back to the beginning point.
 
-(2) *Oakland International Airport Security Zone.* This security zone includes all waters extending from the surface to the sea floor within approximately 200 yards seaward from the shoreline of the Oakland International Airport and encompasses all waters in San Francisco Bay within a line connecting the following geographical positions— 
+(2) *Oakland International Airport Security Zone.* This security zone includes all waters extending from the surface to the sea floor within approximately 200 yards seaward from the shoreline of the Oakland International Airport and encompasses all waters in San Francisco Bay within a line connecting the following geographical positions—
 
 | Latitude    | Longitude    |
 | ----------- | ------------ |
@@ -43,10 +43,10 @@ and along the shoreline back to the beginning point.
 
 and along the shoreline back to the beginning point.
 
-(b) *Regulations.* (1) Under § 165.33, entering, transiting through, or anchoring in this zone is prohibited unless authorized by the Coast Guard Captain of the Port, San Francisco Bay, or his designated representative. 
+(b) *Regulations.* (1) Under § 165.33, entering, transiting through, or anchoring in this zone is prohibited unless authorized by the Coast Guard Captain of the Port, San Francisco Bay, or his designated representative.
 
-(2) Persons desiring to transit the area of a security zone may contact the Captain of the Port at telephone number 415-399-3547 or on VHF-FM channel 16 (156.8 MHz) to seek permission to transit the area. If permission is granted, all persons and vessels must comply with the instructions of the Captain of the Port or his or her designated representative. 
+(2) Persons desiring to transit the area of a security zone may contact the Captain of the Port at telephone number 415-399-3547 or on VHF-FM channel 16 (156.8 MHz) to seek permission to transit the area. If permission is granted, all persons and vessels must comply with the instructions of the Captain of the Port or his or her designated representative.
 
-(c) *Enforcement.* All persons and vessels shall comply with the instructions of the Coast Guard Captain of the Port or the designated on-scene patrol personnel. Patrol personnel comprise commissioned, warrant, and petty officers of the Coast Guard onboard Coast Guard, Coast Guard Auxiliary, local, state, and federal law enforcement vessels. Upon being hailed by U.S. Coast Guard patrol personnel by siren, radio, flashing light, or other means, the operator of a vessel shall proceed as directed. 
+(c) *Enforcement.* All persons and vessels shall comply with the instructions of the Coast Guard Captain of the Port or the designated on-scene patrol personnel. Patrol personnel comprise commissioned, warrant, and petty officers of the Coast Guard onboard Coast Guard, Coast Guard Auxiliary, local, state, and federal law enforcement vessels. Upon being hailed by U.S. Coast Guard patrol personnel by siren, radio, flashing light, or other means, the operator of a vessel shall proceed as directed.
 
 \[COTP San Francisco Bay 03-009, 69 FR 34282, June 21, 2004\]
