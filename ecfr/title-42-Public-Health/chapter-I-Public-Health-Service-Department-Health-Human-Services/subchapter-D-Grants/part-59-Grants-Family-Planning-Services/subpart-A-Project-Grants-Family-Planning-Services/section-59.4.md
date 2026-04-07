@@ -4,7 +4,7 @@
 
 (b) An individual authorized to act for the applicant and to assume on behalf of the applicant the obligations imposed by the terms and conditions of the grant, including the regulations of this subpart, must sign the application.
 
-(c) The application shall contain -
+(c) The application shall contain
 
 (1) A description, satisfactory to the Secretary, of the project and how it will meet the requirements of this subpart;
 

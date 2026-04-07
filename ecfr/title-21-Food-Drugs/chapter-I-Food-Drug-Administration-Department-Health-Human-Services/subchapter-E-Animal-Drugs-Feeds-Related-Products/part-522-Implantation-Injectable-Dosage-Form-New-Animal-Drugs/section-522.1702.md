@@ -1,4 +1,4 @@
-##### § 522.1698 Pentazocine.
+##### § 522.1702 Pentazocine.
 
 (a) *Specifications.* Each milliliter of solution contains pentazocine lactate equivalent to 30 milligrams (mg) of pentazocine base.
 
@@ -16,4 +16,4 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-\[42 FR 31450, June 21, 1977, as amended at 42 FR 36995, July 19, 1977; 47 FR 5409, Feb. 5, 1982; 55 FR 23076, June 6, 1990; 79 FR 16193, Mar. 25, 2014\]
+\[42 FR 31450, June 21, 1977, as amended at 42 FR 36995, July 19, 1977; 47 FR 5409, Feb. 5, 1982; 55 FR 23076, June 6, 1990; 79 FR 16193, Mar. 25, 2014. Redesignated at 86 FR 61685, Nov. 8, 2021\]
