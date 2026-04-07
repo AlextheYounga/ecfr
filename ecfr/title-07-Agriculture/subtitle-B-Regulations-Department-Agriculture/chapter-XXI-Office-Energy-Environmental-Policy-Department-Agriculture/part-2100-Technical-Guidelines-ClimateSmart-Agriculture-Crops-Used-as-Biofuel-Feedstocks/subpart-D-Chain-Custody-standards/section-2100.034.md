@@ -8,7 +8,7 @@
 
 (d) For any given CI, records must indicate that incoming and outgoing crops and processed products are balanced according to the equation:
 
-incoming feedstocki,c,m + beginning stored feedstock i,c,m = outgoing feedstocki,c,m + ending stored feedstock i,c,m
+incoming feedstocki,c,m + beginning stored feedstocki,c,m = outgoing feedstocki,c,m + ending stored feedstocki,c,m
 
 (1) Where feedstocks (incoming, stored, and outgoing) for entity *i* are identified by their carbon intensity, *c,* and the pre-defined mass balance accounting time period, *m.*
 
