@@ -1,6 +1,6 @@
 ##### § 10.2 Definitions.
 
-For purposes of this part:
+For purposes of this part:*Act*
 
 (a) *Act* means the Commodity Exchange Act, as amended, 7 U.S.C. 1, *et seq.;*
 

@@ -1,6 +1,6 @@
 ##### § 10.101 Interlocutory appeals.
 
-Interlocutory review by the Commission of a ruling on a motion by an Administrative Law Judge may be sought in accordance with the following procedures:
+Interlocutory review by the Commission of a ruling on a motion by an Administrative Law Judge may be sought in accordance with the following procedures:*Scope of review.*
 
 (a) *Scope of review.* The Commission will not review a ruling of the Administrative Law Judge prior to the Commission's consideration of the entire proceeding in the absence of extraordinary circumstances. An interlocutory appeal may be permitted, in the discretion of the Commission, under the following circumstances:
 

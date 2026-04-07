@@ -1,8 +1,8 @@
 ##### § 140.84 Criterion I—Substantial discharge of radioactive material or substantial radiation levels offsite.
 
-The Commission will determine that there has been a substantial discharge or dispersal of radioactive material offsite, or that there have been substantial levels of radiation offsite, when, as a result of an event comprised of one or more related happenings, radioactive material is released from its intended place of confinement or radiation levels occur offsite and either of the following findings are also made: 
+The Commission will determine that there has been a substantial discharge or dispersal of radioactive material offsite, or that there have been substantial levels of radiation offsite, when, as a result of an event comprised of one or more related happenings, radioactive material is released from its intended place of confinement or radiation levels occur offsite and either of the following findings are also made:
 
-(a) The Commission finds that one or more persons offsite were, could have been, or might be exposed to radiation or to radioactive material, resulting in a dose or in a projected dose in excess of one of the levels in the following table: 
+(a) The Commission finds that one or more persons offsite were, could have been, or might be exposed to radiation or to radioactive material, resulting in a dose or in a projected dose in excess of one of the levels in the following table:
 
 Total Projected Radiation Doses
 | Critical organ          | Dose (rems) |
@@ -15,17 +15,17 @@ Total Projected Radiation Doses
 
 Exposures from the following types of sources of radiation shall be included:
 
-(1) Radiation from sources external to the body; 
+(1) Radiation from sources external to the body;
 
-(2) Radioactive material that may be taken into the body from its occurrence in air or water; and 
+(2) Radioactive material that may be taken into the body from its occurrence in air or water; and
 
-(3) Radioactive material that may be taken into the body from its occurrence in food or on terrestrial surfaces. 
+(3) Radioactive material that may be taken into the body from its occurrence in food or on terrestrial surfaces.
 
-(b) The Commission finds that: 
+(b) The Commission finds that:
 
-(1) Surface contamination of at least a total of any 100 square meters of offsite property has occurred as the result of a release of radioactive material from a production or utilization facility and such contamination is characterized by levels of radiation in excess of one of the values listed in Column 1 or Column 2 of the following table, or 
+(1) Surface contamination of at least a total of any 100 square meters of offsite property has occurred as the result of a release of radioactive material from a production or utilization facility and such contamination is characterized by levels of radiation in excess of one of the values listed in Column 1 or Column 2 of the following table, or
 
-(2) Surface contamination of any offsite property has occurred as the result of a release of radioactive material in the course of transportation and such contamination is characterized by levels of radiation in excess of one of the values listed in column 2 of the following table: 
+(2) Surface contamination of any offsite property has occurred as the result of a release of radioactive material in the course of transportation and such contamination is characterized by levels of radiation in excess of one of the values listed in column 2 of the following table:
 
 Total Surface Contamination Levels 1
 | Type of emitter                                                                                           | Column 1 Offsite property, contiguous to site, owned or leased by person with whom an indemnity agreement is executed | Column 2 Other offsite property    |

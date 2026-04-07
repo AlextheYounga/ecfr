@@ -1,6 +1,6 @@
 ##### § 10.109 Delegation of authority to Chief of the Opinions Section.
 
-The Commodity Futures Trading Commission hereby delegates, until such time as it orders otherwise, the following function to the General Counsel, to be performed by him or by such person or persons under his direction as he may designate from time to time:
+The Commodity Futures Trading Commission hereby delegates, until such time as it orders otherwise, the following function to the General Counsel, to be performed by him or by such person or persons under his direction as he may designate from time to time:*et seq.,*
 
 (a) With respect to proceedings conducted pursuant to the Commodity Exchange Act, as amended, 7 U.S.C. 1 *et seq.,* and subject to the Commission's Rules of Practice as set forth in part 10 of this chapter, to:
 

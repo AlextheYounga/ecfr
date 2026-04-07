@@ -1,5 +1,19 @@
 ##### § 170.20 Average cost per professional staff-hour.
 
-Fees for permits, licenses, amendments, renewals, special projects, 10 CFR part 55 re-qualification and replacement examinations and tests, other required reviews, approvals, and inspections under §§ 170.21 and 170.31 will be calculated using the professional staff-hour rate of $317 per hour. 
+(a) Except as provided in paragraphs (b) and (c) of this section, fees for permits, licenses, amendments, renewals, special projects, 10 CFR part 55 re-qualification and replacement examinations and tests, other required reviews, approvals, and inspections under §§ 170.21 and 170.31 will be calculated using the professional staff-hour rate of $318 per hour.
 
-\[83 FR 29645, June 25, 2018, as amended at 85 FR 37270, June 19, 2020; 86 FR 32170, June 16, 2021; 87 FR 37214, June 22, 2022; 88 FR 39140, June 15, 2023; 89 FR 51811, June 20, 2024\]
+(b) For advanced nuclear reactor applicants:
+
+(1) Prior to October 1, 2025, fees under § 170.21 will be calculated using the professional staff-hour rate of $318 per hour.
+
+(2) Effective on October 1, 2025, fees under § 170.21 relating to the review of the submitted application for the advanced nuclear reactor applicant will be calculated using the reduced hourly rate of $148 per hour.
+
+(c) For advanced nuclear reactor pre-applicants:
+
+(1) Prior to October 1, 2025, fees under § 170.21 will be calculated using the professional staff-hour rate of $318 per hour.
+
+(2) Effective on October 1, 2025, fees under § 170.21 relating to the review of submitted materials as described in the licensing project plan will be calculated using the reduced hourly rate of $148 per hour.
+
+(3) Paragraph (c) of this section shall cease to be effective on September 30, 2030.
+
+\[90 FR 26753, June 24, 2025\]

@@ -1,6 +1,6 @@
 ##### § 10.8 Presiding officers.
 
-Unless otherwise determined by the Commission, all proceedings within the scope of this part shall be assigned to an Administrative Law Judge for hearing. If the Commission determines that a proceeding within the scope of this part shall be conducted before a Presiding Officer who is not an Administrative Law Judge, all provisions of this part or of part 3 of this chapter that refer to and grant authority to or impose obligations upon an Administrative Law Judge shall be read as referring to and granting authority to and imposing obligations upon the designated Presiding Officer.
+Unless otherwise determined by the Commission, all proceedings within the scope of this part shall be assigned to an Administrative Law Judge for hearing. If the Commission determines that a proceeding within the scope of this part shall be conducted before a Presiding Officer who is not an Administrative Law Judge, all provisions of this part or of part 3 of this chapter that refer to and grant authority to or impose obligations upon an Administrative Law Judge shall be read as referring to and granting authority to and imposing obligations upon the designated Presiding Officer.*Functions and responsibilities of Administrative Law Judge.*
 
 (a) *Functions and responsibilities of Administrative Law Judge.* The Administrative Law Judge shall be responsible for the fair and orderly conduct of the proceeding and shall have the authority to:
 

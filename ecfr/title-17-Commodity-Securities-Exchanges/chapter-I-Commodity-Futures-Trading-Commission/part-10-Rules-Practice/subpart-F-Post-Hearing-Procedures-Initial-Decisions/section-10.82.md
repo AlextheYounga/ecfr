@@ -1,6 +1,6 @@
 ##### § 10.82 Proposed findings and conclusions; briefs.
 
-In any proceeding involving a hearing or an opportunity for hearing, the parties may file written proposed findings of fact and conclusions of law. Briefs may be filed in support of proposed findings and conclusions either as part of the same document or in a separate document. Any proposed finding or conclusion not briefed may be regarded as waived.
+In any proceeding involving a hearing or an opportunity for hearing, the parties may file written proposed findings of fact and conclusions of law. Briefs may be filed in support of proposed findings and conclusions either as part of the same document or in a separate document. Any proposed finding or conclusion not briefed may be regarded as waived.*Proposed findings and briefs; time for filing.*
 
 (a) *Proposed findings and briefs; time for filing.* Where the parties file proposed findings and briefs, the following schedule shall apply, unless otherwise determined by the Administrative Law Judge:
 
