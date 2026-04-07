@@ -1,6 +1,6 @@
 ##### § 214.6 Citizens of Canada or Mexico seeking temporary entry under USMCA to engage in business activities at a professional level.
 
-(a) *General.* Under section 214(e) of the Act, a citizen of Canada or Mexico who seeks temporary entry as a business person to engage in business activities at a professional level may be admitted to the United States in accordance with the Agreement Between the United States of America, the United Mexican States, and Canada (USMCA).
+(a) *General.* Under section 214(e) of the Act, a citizen of Canada or Mexico who seeks temporary entry as a business person to engage in business activities at a professional level may be admitted to the United States in accordance with the Agreement Between the United States of America, the United Mexican States, and Canada (USMCA).1
 
 (b) *Definitions.* As used in this section, the terms:
 
@@ -16,7 +16,7 @@
 
 1 A business person seeking temporary employment under this Appendix may also perform training functions relating to the profession, including conducting seminars.
 
-Appendix 2 to Annex 16-A of Chapter 16 (Annotated) General —Accountant—Baccalaureate or Licenciatura Degree; or C.P.A., C.A., C.G.A., or C.M.A. —Architect—Baccalaureate or Licenciatura Degree; or state/provincial license. 2
+Appendix 2 to Annex 16-A of Chapter 16 (Annotated) General —Accountant—Baccalaureate or Licenciatura Degree; or C.P.A., C.A., C.G.A., or C.M.A. 2—Architect—Baccalaureate or Licenciatura Degree; or state/provincial license. 2
 
 2 The terms “state/provincial license” and “state/provincial/federal license” mean any document issued by a state, provincial, or federal government, as the case may be, or under its authority, but not by a local government, that permits a person to engage in a regulated activity or profession.
 

@@ -1,22 +1,22 @@
 ##### § 550.270 What decisions will BOEM make on the DPP or DOCD and within what timeframe?
 
-(a) *Timeframe.* The Regional Supervisor will act on your deemed-submitted DPP or DOCD as follows: 
+(a) *Timeframe.* The Regional Supervisor will act on your deemed-submitted DPP or DOCD as follows:
 
-(1) The Regional Supervisor will make a decision within 60 calendar days after the latest of the day that: 
+(1) The Regional Supervisor will make a decision within 60 calendar days after the latest of the day that:
 
-(i) The comment period provided in § 550.267(a)(1), (a)(2), and (b) closes; 
+(i) The comment period provided in § 550.267(a)(1), (a)(2), and (b) closes;
 
-(ii) The final EIS for a DPP is released or adopted; or 
+(ii) The final EIS for a DPP is released or adopted; or
 
-(iii) The last amendment to your proposed DOCD is received by the Regional Supervisor. 
+(iii) The last amendment to your proposed DOCD is received by the Regional Supervisor.
 
-(2) Notwithstanding paragraph (a)(1) of this section, BOEM will not approve your DPP or DOCD until either: 
+(2) Notwithstanding paragraph (a)(1) of this section, BOEM will not approve your DPP or DOCD until either:
 
-(i) All affected States with approved CZMA programs concur, or have been conclusively presumed to concur, with your DPP or DOCD consistency certification under section 307(c)(3)(B)(i) and (ii) of the CZMA (16 U.S.C. 1456(c)(3)(B)(i) and (ii)); or 
+(i) All affected States with approved CZMA programs concur, or have been conclusively presumed to concur, with your DPP or DOCD consistency certification under section 307(c)(3)(B)(i) and (ii) of the CZMA (16 U.S.C. 1456(c)(3)(B)(i) and (ii)); or
 
-(ii) The Secretary of Commerce has made a finding authorized by section 307(c)(3)(B)(iii) of the CZMA (16 U.S.C. 1456(c)(3)(B)(iii)) that each activity described in the DPP or DOCD is consistent with the objectives of the CZMA, or is otherwise necessary in the interest of National security. 
+(ii) The Secretary of Commerce has made a finding authorized by section 307(c)(3)(B)(iii) of the CZMA (16 U.S.C. 1456(c)(3)(B)(iii)) that each activity described in the DPP or DOCD is consistent with the objectives of the CZMA, or is otherwise necessary in the interest of National security.
 
-(b) *BOEM decision.* By the deadline in paragraph (a) of this section, the Regional Supervisor will take one of the following actions: 
+(b) *BOEM decision.* By the deadline in paragraph (a) of this section, the Regional Supervisor will take one of the following actions:
 
 | The regional supervisor will . . .                   | If . . .                                                                                                                                                                                                                               | And then . . .                                                                                                                                                                                                                                                                                                |
 | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 ##### § 214.202 Eligibility for T-1 nonimmigrant status.
 
-An applicant is eligible for T-1 nonimmigrant status under section 101(a)(15)(T)(i) of the Act if they demonstrate all of the following, subject to section 214(o) of the Act:
+An applicant is eligible for T-1 nonimmigrant status under section 101(a)(15)(T)(i) of the Act if they demonstrate all of the following, subject to section 214(o) of the Act:*Victim.*
 
 (a) *Victim.* The applicant is or has been a victim of a severe form of trafficking in persons, according to § 214.206.
 

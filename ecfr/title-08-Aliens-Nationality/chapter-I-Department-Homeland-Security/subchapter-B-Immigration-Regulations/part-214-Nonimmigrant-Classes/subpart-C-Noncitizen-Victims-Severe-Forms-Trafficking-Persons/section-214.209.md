@@ -1,6 +1,6 @@
 ##### § 214.209 Extreme hardship involving unusual and severe harm.
 
-To be eligible for T-1 nonimmigrant status, an applicant must demonstrate that removal from the United States would subject the applicant to extreme hardship involving unusual and severe harm.
+To be eligible for T-1 nonimmigrant status, an applicant must demonstrate that removal from the United States would subject the applicant to extreme hardship involving unusual and severe harm.*Standard.*
 
 (a) *Standard.* A finding of extreme hardship involving unusual and severe harm may be based on the following factors.
 

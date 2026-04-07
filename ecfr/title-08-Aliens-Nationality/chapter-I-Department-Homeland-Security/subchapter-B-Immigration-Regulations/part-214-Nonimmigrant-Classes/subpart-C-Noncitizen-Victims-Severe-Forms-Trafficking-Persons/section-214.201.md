@@ -1,6 +1,6 @@
 ##### § 214.201 Definitions.
 
-Where applicable, USCIS will apply the definitions provided in section 103 and 107(e) of the Trafficking Victims Protection Act (TVPA), 22 U.S.C. 7102, and 8 U.S.C. 1101, 1182(d), and 1184, with due regard for the definitions and application of these terms in 28 CFR part 1100 and the provisions of 18 U.S.C. 77. As used in this section the term:
+Where applicable, USCIS will apply the definitions provided in section 103 and 107(e) of the Trafficking Victims Protection Act (TVPA), 22 U.S.C. 7102, and 8 U.S.C. 1101, 1182(d), and 1184, with due regard for the definitions and application of these terms in 28 CFR part 1100 and the provisions of 18 U.S.C. 77. As used in this section the term:*Abuse or threatened abuse of the legal process*
 
 *Abuse or threatened abuse of the legal process* means the use or threatened use of a law or legal process whether administrative, civil, or criminal, in any manner or for any purpose for which the law was not designed, in order to exert pressure on another person to cause that person to take some action or refrain from taking some action.
 
