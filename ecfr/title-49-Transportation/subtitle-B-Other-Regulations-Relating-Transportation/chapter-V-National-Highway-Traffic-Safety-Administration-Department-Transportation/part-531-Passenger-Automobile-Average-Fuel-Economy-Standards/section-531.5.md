@@ -1,7 +1,5 @@
 ##### § 531.5 Fuel economy standards.
 
-Link to an amendment published at 85 FR 25272, Apr. 30, 2020.
-
 (a) Except as provided in paragraph (f) of this section, each manufacturer of passenger automobiles shall comply with the fleet average fuel economy standards in Table I, expressed in miles per gallon, in the model year specified as applicable:
 
 ![](/graphics/er30mr09.101.gif)
@@ -16,7 +14,7 @@ Table II-Parameters for the Passenger Automobile Fuel Economy Targets
 | ---------- | ---------- |
 | 2011       | 31.20      |
 
-(c) For model years 2012-2025, a manufacturer's passenger automobile fleet shall comply with the fleet average fuel economy level calculated for that model year according to Figure 2 and the appropriate values in Table III.
+(c) For model years 2012-2026, a manufacturer's passenger automobile fleet shall comply with the fleet average fuel economy level calculated for that model year according to this Figure 2 and the appropriate values in this Table III.
 
 ![](/graphics/er15oc12.072.gif)Where: *CAFE*required is the fleet average fuel economy standard for a given fleet (domestic passenger automobiles or import passenger automobiles); Subscript *i* is a designation of multiple groups of automobiles, where each group's designation, *i.e., i* = 1, 2, 3, etc., represents automobiles that share a unique model type and footprint within the applicable fleet, either domestic passenger automobiles or import passenger automobiles; *Production*i is the number of passenger automobiles produced for sale in the United States within each *ith* designation, *i.e.,* which share the same model type and footprint;
 
@@ -24,7 +22,7 @@ Table II-Parameters for the Passenger Automobile Fuel Economy Targets
 
 ![](/graphics/er15oc12.073.gif)Where: *TARGET* is the fuel economy target (in mpg) applicable to vehicles of a given footprint (*FOOTPRINT,* in square feet); Parameters *a, b,c,* and *d* are defined in Table III; and The *MIN* and *MAX* functions take the minimum and maximum, respectively, of the included values.
 
-Table III-Parameters for the Passenger Automobile Fuel Economy Targets, MYs 2012-2025
+Table III - Parameters for the Passenger Automobile Fuel Economy Targets, MYs 2012-2026
 
 | Model year | Parameters |
 | ---------- | ---------- |
@@ -37,37 +35,37 @@ Table III-Parameters for the Passenger Automobile Fuel Economy Targets, MYs 2012
 | 2018       | 45.21      |
 | 2019       | 46.87      |
 | 2020       | 48.74      |
-| 2021       | 50.83      |
-| 2022       | 53.21      |
-| 2023       | 55.71      |
-| 2024       | 58.32      |
-| 2025       | 61.07      |
+| 2021       | 49.48      |
+| 2022       | 50.24      |
+| 2023       | 51.00      |
+| 2024       | 51.78      |
+| 2025       | 52.57      |
+| 2026       | 53.37      |
 
 (d) In addition to the requirements of paragraphs (b) and (c) of this section, each manufacturer shall also meet the minimum fleet standard for domestically manufactured passenger automobiles expressed in Table IV:
 
-Table IV - Minimum Fuel Economy Standards for Domestically Manufactured Passenger Automobiles, MYs 2011-2021
+Table IV - Minimum Fuel Economy Standards for Domestically Manufactured Passenger Automobiles, MYs 2011-2026
 
-| Model year | Minimum standard |
-| ---------- | ---------------- |
-| 2011       | 27.8             |
-| 2012       | 30.7             |
-| 2013       | 31.4             |
-| 2014       | 32.1             |
-| 2015       | 33.3             |
-| 2016       | 34.7             |
-| 2017       | 36.7             |
-| 2018       | 38.0             |
-| 2019       | 39.4             |
-| 2020       | 40.9             |
-| 2021       | 42.7             |
-| 2022       | 44.7             |
-| 2023       | 46.8             |
-| 2024       | 49.0             |
-| 2025       | 51.3             |
+| Model year | Minimum   standard |
+| ---------- | ------------------ |
+| 2011       | 27.8               |
+| 2012       | 30.7               |
+| 2013       | 31.4               |
+| 2014       | 32.1               |
+| 2015       | 33.3               |
+| 2016       | 34.7               |
+| 2017       | 36.7               |
+| 2018       | 38.0               |
+| 2019       | 39.4               |
+| 2020       | 40.9               |
+| 2021       | 39.9               |
+| 2022       | 40.6               |
+| 2023       | 41.1               |
+| 2024       | 41.8               |
+| 2025       | 42.4               |
+| 2026       | 43.1               |
 
-(e) For model years 2022-2025, each manufacturer shall comply with the standards set forth in paragraphs (c) and (d) in this section, if NHTSA determines in a rulemaking, initiated after January 1, 2017, and conducted in accordance with 49 U.S.C. 32902, that the standards in paragraphs (c) and (d) are the maximum feasible standards for model years 2022-2025. If, for any of those model years, NHTSA determines that the maximum feasible standard for passenger cars and the corresponding minimum standard for domestically manufactured passenger cars should be set at a different level, manufacturers shall comply with those different standards in lieu of the standards set forth for those model years in paragraphs (c) and (d), and NHTSA will revise this section to reflect the different standards.
-
-(f) The following manufacturers shall comply with the standards indicated below for the specified model years:
+(e) The following manufacturers shall comply with the standards indicated below for the specified model years:
 
 (1) Avanti Motor Corporation.
 
