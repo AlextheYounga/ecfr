@@ -9324,7 +9324,7 @@ Critical Habitat Map Unit
 
 2\. For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
-Link to an amendment published at 88 FR 20427, Apr. 6, 2023.Link to an amendment published at 88 FR 71672, Oct. 17, 2023.
+Link to an amendment published at 88 FR 71672, Oct. 17, 2023.
 
 (c) *Reptiles.*
 
@@ -15368,15 +15368,7 @@ Tennessee. Lawrence County, Buffalo River and its tributaries in Lawrence County
 
 (ii) Map of Unit 4 of critical habitat for the yellowcheek darter follows:
 
-![](/graphics/er16oc12.065.gif)San Marcos Gambusia (*Gambusia georgei*)
-
-Texas, Hays County; San Marcos River from Highway 12 bridge downstream to approximately 0.5 miles below Interstate Highway 35 bridge.
-
-Note:
-
-The map provided is for informational purposes only. Map follows:
-
-![](/graphics/ec01jn91.109.gif)Tidewater Goby (*Eucyclogobius newberryi*)
+![](/graphics/er16oc12.065.gif)Tidewater Goby (*Eucyclogobius newberryi*)
 
 (1) Critical habitat units are depicted for Del Norte, Humboldt, Mendocino, Sonoma, Marin, San Mateo, Santa Cruz, Monterey, San Luis Obispo, Santa Barbara, Ventura, Los Angeles, Orange, and San Diego Counties, California, on the maps below.
 
@@ -20481,8 +20473,6 @@ The map provided is for informational purposes only.
 
 2\. The remainder of § 17.95 appears in 50 Part 17, § 17.95(f) to end of § 17.95.
 
-Link to an amendment published at 88 FR 56488, Aug. 18, 2023.
-
 (f) *Clams and Snails.*
 
 Canoe Creek Clubshell (*Pleurobema athearni*)
@@ -21027,9 +21017,9 @@ Figure 12 to Longsolid (*Fusconaia subrotunda*) paragraph (16)(ii) ![](/graphics
 
 (ii) Map of Unit LS 12 follows:
 
-Figure 13 to Longsolid (*Fusconaia subrotunda*) paragraph (17)(ii) ![](/graphics/er09mr23.044.gif)Eleven Mobile River Basin Mussel Species: Southern acornshell (*Epioblasma othcaloogensis*), ovate clubshell (*Pleurobema perovatum*), southern clubshell (*Pleurobema decisum*), upland combshell (*Epioblasma metastriata*), triangular kidneyshell (*Ptychobranchus greenii*), Alabama moccasinshell (*Medionidus acutissimus*), Coosa moccasinshell (*Medionidus parvulus*), orangenacre mucket (*Hamiota perovalis*), dark pigtoe (*Pleurobema furvum*), southern pigtoe (*Pleurobema georgianum*), and finelined pocketbook (*Hamiota altilis*)
+Figure 13 to Longsolid (*Fusconaia subrotunda*) paragraph (17)(ii) ![](/graphics/er09mr23.044.gif)Nine Mobile River Basin Mussel Species: Ovate Clubshell (Pleurobema Perovatum), Southern Clubshell (Pleurobema Decisum), Triangular Kidneyshell (Ptychobranchus Greenii), Alabama Moccasinshell (Medionidus Acutissimus), Coosa Moccasinshell (Medionidus Parvulus), Orange-Nacre Mucket (Hamiota Perovalis), Dark Pigtoe (Pleurobema Furvum), Southern Pigtoe (Pleurobema Georgianum), and Fine-Lined Pocketbook (Hamiota Altilis)
 
-(1) The primary constituent elements essential for the conservation of the southern acornshell (*Epioblasma othcaloogensis*), ovate clubshell (*Pleurobema perovatum*), southern clubshell (*Pleurobema decisum),* upland combshell (*Epioblasma metastriata*), triangular kidneyshell (*Ptychobranchus greenii*), Alabama moccasinshell (*Medionidus acutissimus*), Coosa moccasinshell (*Medionidus parvulus*), orangenacre mucket (*Hamiota perovalis*), dark pigtoe (*Pleurobema furvum*), southern pigtoe (*Pleurobema georgianum*), and finelined pocketbook (*Hamiota altilis*) are those habitat components that support feeding, sheltering, reproduction, and physical features for maintaining the natural processes that support these habitat components. The primary constituent elements include:
+(1) The primary constituent elements essential for the conservation of the ovate clubshell (*Pleurobema perovatum*), southern clubshell (*Pleurobema decisum*), triangular kidneyshell (*Ptychobranchus greenii*), Alabama moccasinshell (*Medionidus acutissimus*), Coosa moccasinshell (*Medionidus parvulus*), orange-nacre mucket (*Hamiota perovalis*), dark pigtoe (*Pleurobema furvum*), southern pigtoe (*Pleurobema georgianum*), and fine-lined pocketbook (*Hamiota altilis*) are those habitat components that support feeding, sheltering, reproduction, and physical features for maintaining the natural processes that support these habitat components. The primary constituent elements include:
 
 (i) Geomorphically stable stream and river channels and banks;
 
@@ -21045,25 +21035,25 @@ Figure 13 to Longsolid (*Fusconaia subrotunda*) paragraph (17)(ii) ![](/graphics
 
 (2) Critical habitat unit descriptions and maps. The maps provided are for informational purposes only.
 
-(i) Index map. The index map showing critical habitat units in the States of Mississippi, Alabama, Georgia, and Tennessee for the 11 Mobile River Basin mussel species follows:
+(i) *Index map.* The index map showing critical habitat units in the States of Mississippi, Alabama, Georgia, and Tennessee for the nine Mobile River Basin mussel species follows:
 
 ![](/graphics/er01jy04.001.gif)
 
 (ii) *Protected species and critical habitat units.* A table listing the protected species, their respective critical habitat units, and the States that contain those habitat units follows. Detailed critical habitat unit descriptions and maps appear below the table.
 
-| Species                                         | Critical habitat units                                                      | States         |
-| ----------------------------------------------- | --------------------------------------------------------------------------- | -------------- |
-| Southern acornshell (Epioblasma othcaloogensis) | Units 13, 18, 19, 21, 24, 25, 26                                            | AL, GA, TN     |
-| Ovate clubshell (Pleurobema perovatum)          | Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 21, 24, 25, 26 | AL, GA, MS, TN |
-| Southern clubshell (Pleurobema decisum)         | Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 14, 15, 17, 18, 19, 21, 24, 25, 26     | AL, GA, MS, TN |
-| Upland combshell (Epioblasma metastriata)       | Units 12, 13, 18, 19, 21, 24, 25, 26                                        | AL, GA, TN     |
-| Triangular kidneyshell (Ptychobranchus greenii) | Units 10, 11, 12, 13, 18, 19, 20, 21, 22, 23, 24, 25, 26                    | AL, GA, TN     |
-| Alabama moccasinshell (Medionidus acutissimus)  | Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 25, 26                 | AL, GA, MS, TN |
-| Coosa moccasinshell (Medionidus parvulus)       | Units 18, 19, 20, 21, 22, 23, 24, 25, 26                                    | AL, GA, TN     |
-| Orangenacre mucket (Hamiota perovalis)          | Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15                     | AL, MS.        |
-| Dark pigtoe (Pleurobema furvum)                 | Units 10, 11, 12                                                            | AL             |
-| Southern pigtoe (Pleurobema georgianum)         | Units 18, 19, 20, 21, 22, 23, 24, 25, 26                                    | AL, GA, TN     |
-| Finelined pocketbook (Hamiota altilis)          | Units 13, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26                        | AL, GA, TN.    |
+Table 1 to Nine Mobile River Basin Mussel Species Paragraph (2)(ii)
+
+| Species                                         | Critical habitat units                                                      | States          |
+| ----------------------------------------------- | --------------------------------------------------------------------------- | --------------- |
+| Ovate clubshell (Pleurobema perovatum)          | Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 21, 24, 25, 26 | AL, GA, MS, TN. |
+| Southern clubshell (Pleurobema decisum)         | Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 14, 15, 17, 18, 19, 21, 24, 25, 26     | AL, GA, MS, TN. |
+| Triangular kidneyshell (Ptychobranchus greenii) | Units 10, 11, 12, 13, 18, 19, 20, 21, 22, 23, 24, 25, 26                    | AL, GA, TN.     |
+| Alabama moccasinshell (Medionidus acutissimus)  | Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 25, 26                 | AL, GA, MS, TN. |
+| Coosa moccasinshell (Medionidus parvulus)       | Units 18, 19, 20, 21, 22, 23, 24, 25, 26                                    | AL, GA, TN.     |
+| Orange-nacre mucket (Hamiota perovalis)         | Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15                     | AL, MS.         |
+| Dark pigtoe (Pleurobema furvum)                 | Units 10, 11, 12                                                            | AL.             |
+| Southern pigtoe (Pleurobema georgianum)         | Units 18, 19, 20, 21, 22, 23, 24, 25, 26                                    | AL, GA, TN.     |
+| Fine-lined pocketbook (Hamiota altilis)         | Units 13, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26                        | AL, GA, TN.     |
 
 (iii) Unit 1. East Fork Tombigbee River, Monroe, Itawamba County, Mississippi. This is a critical habitat unit for the ovate clubshell, southern clubshell, Alabama moccasinshell, and orange-nacre mucket.
 
@@ -21151,21 +21141,21 @@ Figure 13 to Longsolid (*Fusconaia subrotunda*) paragraph (17)(ii) ![](/graphics
 
 ![](/graphics/er01jy04.013.gif)
 
-(xiv) Unit 12. Locust Fork and Little Warrior Rivers, Jefferson, Blount Counties, Alabama. This is a critical habitat unit for the ovate clubshell, upland combshell, triangular kidneyshell, Alabama moccasinshell, orange-nacre mucket, and dark pigtoe.
+(xiv) *Unit 12.* Locust Fork and Little Warrior Rivers, Jefferson, Blount Counties, Alabama. This is a critical habitat unit for the ovate clubshell, triangular kidneyshell, Alabama moccasinshell, orange-nacre mucket, and dark pigtoe.
 
 (A) Unit 12 includes the Locust Fork main stem from U.S. Highway 78 (T15S R4W S30), Jefferson County, upstream to the confluence of Little Warrior River (T13S R1W S3), Blount County, Alabama; and Little Warrior River from its confluence with the Locust Fork (T13S R1W S3), upstream to the confluence of Calvert Prong and Blackburn Fork (T13S R1W S12), Blount County, Alabama.
 
 (B) Map of Unit 12 follows:
 
-![](/graphics/er01jy04.014.gif)
+Figure 14 to Nine Mobile River Basin Mussel Species Paragraph (2)(xiv)(B) Unit 12: Ovate Clubshell, Triangular Kidneyshell, Alabama Moccasinshell, Orange-Nacre Mucket, Dark Pigtoe ![](/graphics/er17oc23.000.gif)
 
-(xv) Unit 13. Cahaba River and Little Cahaba River, Jefferson, Shelby, Bibb Counties, Alabama. This is a critical habitat unit for the southern acornshell, ovate clubshell, southern clubshell, upland combshell, triangular kidneyshell, Alabama moccasinshell, orange-nacre mucket, and fine-lined pocketbook.
+(xv) *Unit 13.* Cahaba River and Little Cahaba River, Jefferson, Shelby, Bibb Counties, Alabama. This is a critical habitat unit for the ovate clubshell, southern clubshell, triangular kidneyshell, Alabama moccasinshell, orange-nacre mucket, and fine-lined pocketbook.
 
 (A) Unit 13 includes the Cahaba River from U.S. Highway 82 (T23N R9E S26), Centerville, Bibb County, upstream to Jefferson County Road 143 (T18S R1E S33), Jefferson County, Alabama; and the Little Cahaba River from its confluence with the Cahaba River (T24N R10E S21), upstream to the confluence of Mahan and Shoal Creeks (T24N R11E S14), Bibb County, Alabama.
 
 (B) Map of Unit 13 follows:
 
-![](/graphics/er01jy04.015.gif)
+Figure 15 to Nine Mobile River Basin Mussel Species Paragraph (2)(xv)(B) Unit 13: Ovate Clubshell, Southern Clubshell, Triangular Kidneyshell, Alabama Moccasinshell, Orange-Nacre Mucket, Fine-Lined Pocketbook ![](/graphics/er17oc23.001.gif)
 
 (xvi) Unit 14. Alabama River, Autauga, Lowndes, Dallas Counties, Alabama. This is a critical habitat unit for the southern clubshell and orange-nacre mucket.
 
@@ -21199,21 +21189,21 @@ Figure 13 to Longsolid (*Fusconaia subrotunda*) paragraph (17)(ii) ![](/graphics
 
 ![](/graphics/er01jy04.019.gif)
 
-(xx) Unit 18. Coosa River (Old River Channel) and Terrapin Creek, Cherokee, Calhoun, Cleburne Counties, Alabama. This is a critical habitat unit for the southern acornshell, ovate clubshell, southern clubshell, upland combshell, triangular kidneyshell, Coosa moccasinshell, southern pigtoe, and fine-lined pocketbook.
+(xx) *Unit 18.* Coosa River (Old River Channel) and Terrapin Creek, Cherokee, Calhoun, Cleburne Counties, Alabama. This is a critical habitat unit for the ovate clubshell, southern clubshell, triangular kidneyshell, Coosa moccasinshell, southern pigtoe, and fine-lined pocketbook.
 
 (A) Unit 18 includes the Coosa River main stem from the power line crossing southeast of Maple Grove, Alabama (T10S R8E S35), upstream to Weiss Dam (T10S R8E S13), Cherokee County, Alabama; Terrapin Creek, 53 km (33 mi) extending from its confluence with the Old Coosa River channel (T10S R9E S28), Cherokee County, upstream to Cleburne County Road 49 (T13S R11E S15), Cleburne County, Alabama; South Fork Terrapin Creek, 7 km (4 mi), from its confluence with Terrapin Creek (T13S R11E S18), upstream to Cleburne County Road 55 (T13S R11E S30), Cleburne County, Alabama.
 
 (B) Map of Unit 18 follows:
 
-![](/graphics/er01jy04.020.gif)
+Figure 20 to Nine Mobile River Basin Mussel Species Paragraph (2)(xx)(B) Unit 18: Ovate Clubshell, Southern Clubshell, Triangular Kidneyshell, Coosa Moccasinshell, Southern Pigtoe, Fine-Lined Pocketbook ![](/graphics/er17oc23.002.gif)
 
-(xxi) Unit 19. Hatchet Creek, Coosa, Clay Counties, Alabama. This is a critical habitat unit for the southern acornshell, ovate clubshell, southern clubshell, upland combshell, triangular kidneyshell, Coosa moccasinshell, southern pigtoe, and fine-lined pocketbook.
+(xxi) *Unit 19.* Hatchet Creek, Coosa, Clay Counties, Alabama. This is a critical habitat unit for the ovate clubshell, southern clubshell, triangular kidneyshell, Coosa moccasinshell, southern pigtoe, and fine-lined pocketbook.
 
 (A) Unit 19 includes the main stem of Hatchet Creek from the confluence of Swamp Creek at Coosa County Road 29 (T22N R17E S26), Coosa County, Alabama, upstream to Clay County Road 4 (T22S R6E S17) Clay County, Alabama.
 
 (B) Map of Unit 19 follows:
 
-![](/graphics/er01jy04.021.gif)
+Figure 21 to Nine Mobile River Basin Mussel Species Paragraph (2)(xxi)(B) Unit 19: Ovate Clubshell, Southern Clubshell, Triangular Kidneyshell, Coosa Moccasinshell, Southern Pigtoe, Fine-Lined Pocketbook ![](/graphics/er17oc23.003.gif)
 
 (xxii) Unit 20. Shoal Creek, Calhoun, Cleburne Counties, Alabama. This is a critical habitat unit for the triangular kidneyshell, Coosa moccasinshell, southern pigtoe, and fine-lined pocketbook.
 
@@ -21223,13 +21213,13 @@ Figure 13 to Longsolid (*Fusconaia subrotunda*) paragraph (17)(ii) ![](/graphics
 
 ![](/graphics/er01jy04.022.gif)
 
-(xxiii) Unit 21. Kelly Creek and Shoal Creek, Shelby, St. Clair Counties, Alabama. This is a critical habitat unit for the southern acornshell, ovate clubshell, southern clubshell, upland combshell, triangular kidneyshell, Coosa moccasinshell, southern pigtoe, and fine-lined pocketbook.
+(xxiii) *Unit 21.* Kelly Creek and Shoal Creek, Shelby, St. Clair Counties, Alabama. This is a critical habitat unit for the ovate clubshell, southern clubshell, triangular kidneyshell, Coosa moccasinshell, southern pigtoe, and fine-lined pocketbook.
 
 (A) Unit 21 includes the Kelly Creek main stem extending from the confluence with the Coosa River (T19S R3E S5), upstream to the confluence of Shoal Creek (T17S R2E S28), St. Clair County, Alabama; and the main stem of Shoal Creek from the confluence with Kelly Creek (T17S R2E S28), St. Clair County, Alabama, upstream to the St. Clair/Shelby County Line (T17S R2E S30), St. Clair County, Alabama.
 
 (B) Map of Unit 21 follows:
 
-![](/graphics/er01jy04.023.gif)
+Figure 23 to Nine Mobile River Basin Mussel Species Paragraph (2)(xxiii)(B) Unit 21: Ovate Clubshell, Southern Clubshell, Triangular Kidneyshell, Coosa Moccasinshell, Southern Pigtoe, Fine-Lined Pocketbook ![](/graphics/er17oc23.004.gif)
 
 (xxiv) Unit 22. Cheaha Creek, Talladega, Clay Counties, Alabama. This is a critical habitat unit for the triangular kidneyshell, Coosa moccasinshell, southern pigtoe, and fine-lined pocketbook.
 
@@ -21247,29 +21237,29 @@ Figure 13 to Longsolid (*Fusconaia subrotunda*) paragraph (17)(ii) ![](/graphics
 
 ![](/graphics/er01jy04.025.gif)
 
-(xxvi) Unit 24. Big Canoe Creek, St. Clair County, Alabama. This is a critical habitat unit for the southern acornshell, ovate clubshell, southern clubshell, upland combshell, triangular kidneyshell, Coosa moccasinshell, southern pigtoe, and fine-lined pocketbook.
+(xxvi) *Unit 24.* Big Canoe Creek, St. Clair County, Alabama. This is a critical habitat unit for the ovate clubshell, southern clubshell, triangular kidneyshell, Coosa moccasinshell, southern pigtoe, and fine-lined pocketbook.
 
 (A) Unit 24 includes the main stem of Big Canoe Creek from its confluence with Little Canoe Creek at the St. Clair/Etowah County line (T13S R5E S17), St. Clair County, upstream to the confluence of Fall Branch (T14S R1E S28) St. Clair County, Alabama.
 
 (B) Map of Unit 24 follows:
 
-![](/graphics/er01jy04.026.gif)
+Figure 26 to Nine Mobile River Basin Mussel Species Paragraph (2)(xxvi)(B) Unit 24: Ovate Clubshell, Southern Clubshell, Triangular Kidneyshell, Coosa Moccasinshell, Southern Pigtoe, Fine-Lined Pocketbook ![](/graphics/er17oc23.005.gif)
 
-(xxvii) Unit 25. Oostanaula, Coosawattee, and Conasauga Rivers, and Holly Creek, Floyd, Gordon, Whitfield, Murray Counties, Georgia; Bradley, Polk Counties, Tennessee. This is a critical habitat unit for the southern acornshell, ovate clubshell, southern clubshell, upland combshell, triangular kidneyshell, Alabama moccasinshell, Coosa moccasinshell, southern pigtoe, and fine-lined pocketbook.
+(xxvii) *Unit 25.* Oostanaula, Coosawattee, and Conasauga Rivers, and Holly Creek, Floyd, Gordon, Whitfield, Murray Counties, Georgia; Bradley, Polk Counties, Tennessee. This is a critical habitat unit for the ovate clubshell, southern clubshell, triangular kidneyshell, Alabama moccasinshell, Coosa moccasinshell, southern pigtoe, and fine-lined pocketbook.
 
 (A) Unit 25 includes the Oostanaula River main stem from its confluence with the Etowah River, Floyd County, Georgia (34°15′13″ N, 85°10′35″ W), upstream to the confluence of the Conasauga and Coosawattee River, Gordon County, Georgia (34°32′32″ N, 84°54′12″ W); the Coosawattee River main stem from its confluence with the Conasauga River (34°32′32″ N, 84°54′12″ W), upstream to Georgia State Highway 136, Gordon County, Georgia (34°36′49″ N, 84°46′43″ W); the Conasauga River main stem from confluence with the Coosawattee River (34°32′32″ N, 84°54′13″ W), Gordon County, Georgia, upstream through Bradley and Polk Counties, Tennessee, to Murray County Road 2 (34°58′27″ N, 84°38′43″ W), Murray County, Georgia; and the mainstem of Holly Creek from its confluence with the Conasauga River (34°42′12″ N, 84°53′29″ W), upstream to its confluence with Rock Creek, Murray County, Georgia (34°46′59″ N, 84°45′25″ W).
 
 (B) Map of Unit 25 follows:
 
-![](/graphics/er01jy04.027.gif)
+Figure 27 to Nine Mobile River Basin Mussel Species Paragraph (2)(xxvii)(B) Unit 25: Ovate Clubshell, Southern Clubshell, Triangular Kidneyshell, Alabama Moccasinshell, Coosa Moccasinshell, Southern Pigtoe, Fine-Lined Pocketbook ![](/graphics/er17oc23.006.gif)
 
-(xxviii) Unit 26. Lower Coosa River, Elmore County, Alabama. This is a critical habitat unit for the southern acornshell, ovate clubshell, southern clubshell, upland combshell, triangular kidneyshell, Alabama moccasinshell, Coosa moccasinshell, southern pigtoe, and fine-lined pocketbook.
+(xxviii) *Unit 26.* Lower Coosa River, Elmore County, Alabama. This is a critical habitat unit for the ovate clubshell, southern clubshell, triangular kidneyshell, Alabama moccasinshell, Coosa moccasinshell, southern pigtoe, and fine-lined pocketbook.
 
 (A) Unit 26 includes the Coosa River main stem from Alabama State Highway 111 bridge (T18N R18/19E S24/19), upstream to Jordan Dam (T19N R18E S22), Elmore County, Alabama.
 
 (B) Map of Unit 26 follows:
 
-![](/graphics/er01jy04.028.gif)Five Tennessee and Cumberland River Basin Mussels Species: Purple bean (*Villosa perpurpurea*), Cumberlandian combshell (*Epioblasma brevidens*), Cumberland elktoe (*Alasmidonta atropurpurea*), oyster mussel (*Epioblasma capsaeformis*), and rough rabbitsfoot (*Quadrula cylindrica strigillata*).
+Figure 28 to Nine Mobile River Basin Mussel Species Paragraph (2)(xxviii)(B) Unit 26: Ovate Clubshell, Southern Clubshell, Triangular Kidneyshell, Alabama Moccasinshell, Coosa Moccasinshell, Southern Pigtoe, Fine-Lined Pocketbook ![](/graphics/er17oc23.007.gif)Five Tennessee and Cumberland River Basin Mussels Species: Purple bean (*Villosa perpurpurea*), Cumberlandian combshell (*Epioblasma brevidens*), Cumberland elktoe (*Alasmidonta atropurpurea*), oyster mussel (*Epioblasma capsaeformis*), and rough rabbitsfoot (*Quadrula cylindrica strigillata*).
 
 (1) The primary constituent elements essential for the conservation of the purple bean (*Villosa perpurpurea*), Cumberlandian combshell (*Epioblasma brevidens*), Cumberland elktoe (*Alasmidonta atropurpurea*), oyster mussel (*Epioblasma capsaeformis*), and rough rabbitsfoot (*Quadrula cylindrica strigillata*) are those habitat components that support feeding, sheltering, reproduction, and physical features for maintaining the natural processes that support these habitat components. The primary constituent elements include:
 

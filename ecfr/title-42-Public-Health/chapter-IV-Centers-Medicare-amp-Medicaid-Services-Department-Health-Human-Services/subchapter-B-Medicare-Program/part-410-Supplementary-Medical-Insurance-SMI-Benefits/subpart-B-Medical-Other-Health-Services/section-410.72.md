@@ -1,5 +1,7 @@
 ##### § 410.72 Registered dietitians' and nutrition professionals' services.
 
+Link to an amendment published at 88 FR 79528, Nov. 16, 2023.
+
 (a) *Definition: Registered dietitians and nutrition professionals.* Meet the qualifications at § 410.134.
 
 (b) *Covered registered dietitian and nutrition professional services.* Medicare Part B covers:
