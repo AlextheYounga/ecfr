@@ -1,6 +1,6 @@
 ##### § 12.104 Definitions.
 
-For purposes of §§ 12.104 through 12.104i:
+For purposes of §§ 12.104 through 12.104i:*archaeological or ethnological material of the State Party*
 
 (a) The term, *archaeological or ethnological material of the State Party* to the 1970 UNESCO Convention means—
 

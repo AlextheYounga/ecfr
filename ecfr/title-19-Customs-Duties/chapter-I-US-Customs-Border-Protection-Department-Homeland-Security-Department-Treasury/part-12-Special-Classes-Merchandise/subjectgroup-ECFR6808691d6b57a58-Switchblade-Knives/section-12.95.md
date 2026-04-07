@@ -1,6 +1,6 @@
 ##### § 12.95 Definitions.
 
-Terms as used in §§ 12.96 through 12.103 of this part are defined as follows:
+Terms as used in §§ 12.96 through 12.103 of this part are defined as follows:*Switchblade knife.*
 
 (a) *Switchblade knife.* “Switchblade knife” means any imported knife, or components thereof, or any class of imported knife, including “switchblade”, “Balisong”, “butterfly”, “gravity” or “ballistic” knives, which has one or more of the following characteristics or identities:
 

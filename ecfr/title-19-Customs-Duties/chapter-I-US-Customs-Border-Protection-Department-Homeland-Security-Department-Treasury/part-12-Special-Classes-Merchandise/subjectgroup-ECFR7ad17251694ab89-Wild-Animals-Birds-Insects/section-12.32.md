@@ -1,6 +1,6 @@
 ##### § 12.32 Honeybees and honeybee semen.
 
-(a) Honeybees from any country may be imported into the U.S. by the Department of Agriculture for experimental or scientific purposes. All other importations of honeybees are prohibited except those from a country which the Secretary of Agriculture has determined to be free of diseases dangerous to honeybees.
+(a) Honeybees from any country may be imported into the U.S. by the Department of Agriculture for experimental or scientific purposes. All other importations of honeybees are prohibited except those from a country which the Secretary of Agriculture has determined to be free of diseases dangerous to honeybees.Federal Register
 
 (b) Honeybee semen may be imported into the U.S. only from countries determined by the Secretary of Agriculture to be free of undesirable honeybees, and which take adequate precautions to prevent the importation of undersirable honeybees and their semen.
 

@@ -1,6 +1,6 @@
 ##### § 12.104c Importations permitted.
 
-Designated archaeological or ethnological material for which entry is sought into the U.S., will be permitted entry if at the time of making entry:
+Designated archaeological or ethnological material for which entry is sought into the U.S., will be permitted entry if at the time of making entry:*Related persons.*
 
 (a) A certificate, its electronic equivalent, or other documentation, issued by the Government of the country of origin of such material in a form acceptable to the Secretary is filed with the port director, such form being, but not limited to, an affidavit, license, or permit, or their electronic equivalents, from an appropriate, authorized State Party official under seal, certifying that such exportation was not in violation of the laws of that country, or
 

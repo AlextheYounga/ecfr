@@ -1,6 +1,6 @@
 ##### § 12.140 Entry of softwood lumber products from Canada.
 
-The requirements set forth in this section are applicable for as long as the Softwood Lumber Agreement (SLA 2006), entered into on September 12, 2006, by the Governments of the United States and Canada, remains in effect.
+The requirements set forth in this section are applicable for as long as the Softwood Lumber Agreement (SLA 2006), entered into on September 12, 2006, by the Governments of the United States and Canada, remains in effect.*Definitions.*
 
 (a) *Definitions.* The following definitions apply for purposes of this section:
 
