@@ -2,9 +2,9 @@
 
 (a) *Statutory inflation adjustment of civil monetary penalties.* The Inflation Adjustment Act of 1990, as amended, requires annual inflation adjustments to the civil monetary penalties imposed under the Commodity Exchange Act for violations that occurred on or after November 2, 2015. The Commission will publish notice of these adjusted penalty amounts in the Federal Register. The inflation adjustment is calculated by multiplying the maximum dollar amount of the civil monetary penalty for the previous calendar year by the cost-of-living inflation adjustment multiplier provided by the Office Management and Budget, which is based on the change in the Consumer Price Index, and rounding the total to the nearest dollar. Set forth in the charts in paragraph (b) of this section are the inflation adjusted penalty amounts for violations occurring on or after November 2, 2015 and the penalty amounts for violations that occurred prior to November 2, 2015. These penalty charts are also available on the Commission's website at: *http://www.cftc.gov/LawRegulation/Enforcement/InflationAdjustedCivilMonetaryPenalties/index.htm.*
 
-(b) *2024 Inflation adjustment.* The maximum amount of each civil monetary penalty in the following charts applies to penalties assessed after January 15, 2024: 
+(b) *2025 Inflation adjustment.* The maximum amount of each civil monetary penalty in the following charts applies to penalties assessed after January 15, 2025: 
 
-(1) For violations, other manipulation, or attempted manipulation: 
+(1) For violations other than manipulation or attempted manipulation: 
 
 Table 1 to Paragraph (b)(1)
 | U.S. Code citation                                                                                   | Civil monetary penalty description                                       | Date of violation and corresponding penalty |
@@ -28,4 +28,4 @@ Table 2 to Paragraph (b)(2)
 | 7 U.S.C. 13a-1 (Section 6c of the Commodity Exchange Act)                                            | Any Person                                                               | 130,000                                     |
 | 1 The term “Registered Entity” is defined in 7 U.S.C. 1a (Section 1a of the Commodity Exchange Act). |                                                                          |                                             |
 
-\[83 FR 9428, Mar. 6, 2018, as amended at 88 FR 1502, Jan. 11, 2023; 89 FR 4544, Jan. 24, 2024\]
+\[83 FR 9428, Mar. 6, 2018, as amended at 88 FR 1502, Jan. 11, 2023; 89 FR 4544, Jan. 24, 2024; 90 FR 8113, Jan. 24, 2025\]
