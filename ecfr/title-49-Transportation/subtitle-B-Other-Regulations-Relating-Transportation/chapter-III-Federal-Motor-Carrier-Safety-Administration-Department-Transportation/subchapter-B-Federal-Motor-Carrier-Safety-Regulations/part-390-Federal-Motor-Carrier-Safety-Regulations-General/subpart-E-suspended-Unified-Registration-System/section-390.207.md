@@ -23,3 +23,5 @@
 (d) *Hazardous materials safety permit applicants.* A person who applies for a hazardous materials safety permit is subject to the requirements of part 385, subpart E, of this subchapter.
 
 (e) *Cargo tank facilities.* A cargo tank facility is subject to the requirements of 49 CFR part 107, subpart F, 49 CFR part 172, subpart H, and 49 CFR part 180.
+
+Effective Date Note:At 88 FR 80184, Nov. 17, 2023, § 390.207 was suspended indefinitely, effective Nov. 17, 2023.

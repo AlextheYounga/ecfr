@@ -14,4 +14,4 @@ A party who has responded to a request for discovery with a response that was co
 
 (2) he or she knows that the response though correct when made is no longer true and the circumstances are such that a failure to amend the response is in substance a knowing concealment.
 
-(c) A duty to supplement responses may be imposed by order of the Assistant Administrator or the administrative law judge or agreement of the parties.
+(c) A duty to supplement responses may be imposed by order of the Agency Decisionmaker or the administrative law judge or agreement of the parties.

@@ -7,3 +7,5 @@ For the purposes of this subpart, the following definitions apply:
 (b) *Operating authority.* Operating authority means a registration required by 49 U.S.C. 13902 issued to motor carriers; 49 U.S.C. 13903 issued to freight forwarders; and 49 U.S.C. 13904 issued to brokers.
 
 (c) *Person.* An individual, partnership, corporation, company, association, or other form of business, or a trustee, receiver, assignee, or personal representative of any of these entities.
+
+Effective Date Note:At 88 FR 80179, Nov. 17, 2023, § 365.403 was suspended indefinitely, effective Nov. 17, 2023.

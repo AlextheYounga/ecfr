@@ -152,9 +152,9 @@ As used in this part:
 
 (iii) Using a device capable of performing multiple functions (*e.g.,* fleet management systems, dispatching devices, smart phones, citizens band radios, music players, *etc.*) for a purpose that is not otherwise prohibited in this part.
 
-*Third party skills test examiner* means a person employed by a third party tester who is authorized by the State to administer the CDL skills tests specified in subparts G and H of this part.
+*Third-party skills test examiner* means a person employed by a third-party tester who is authorized by the State to administer the CDL skills tests specified in subparts G and H of this part.
 
-*Third party tester* means a person (including, but not limited to, another State, a motor carrier, a private driver training facility or other private institution, or a department, agency or instrumentality of a local government) authorized by the State to employ skills test examiners to administer the CDL skills tests specified in subparts G and H of this part.
+*Third-party tester* means a person (including, but not limited to, another State, a motor carrier, a private driver training facility or other private institution, or a department, agency or instrumentality of a local government) authorized by the State to employ skills test examiners to administer the CDL skills tests specified in subparts G and H of this part.
 
 *TWIC* means Transportation Worker Identification Credential as that term is defined in 49 CFR 1570.3, which is the transportation security card issued by TSA under the authority of 46 U.S.C. 70105.
 
