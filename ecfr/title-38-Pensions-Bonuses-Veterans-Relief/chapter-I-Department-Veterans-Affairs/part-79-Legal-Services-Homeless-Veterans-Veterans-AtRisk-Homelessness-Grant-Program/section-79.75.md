@@ -14,4 +14,4 @@
 
 (c) Grantees must inform VA in writing of any key personnel changes (*e.g.,* new executive director, grant program director, or chief financial officer) and grantee address changes within 30 days of the change.
 
-(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-TBD.)
+(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-TBD)

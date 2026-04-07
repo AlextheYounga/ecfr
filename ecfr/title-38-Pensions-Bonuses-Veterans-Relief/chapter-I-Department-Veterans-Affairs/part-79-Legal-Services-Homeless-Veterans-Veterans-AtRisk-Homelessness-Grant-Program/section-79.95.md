@@ -12,4 +12,4 @@
 
 (f) Grantees must provide VA with consent to post information from reports on the internet and use such information in other ways deemed appropriate by VA. Grantees must clearly redact information that is confidential based on attorney-client privilege, unless that privilege has been waived by the client.
 
-(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-TBD.)
+(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-TBD)

@@ -30,4 +30,4 @@
 
 (Authority: 38 U.S.C. 501, 523 note)
 
-(The Office of Management and Budget has approved the information collection provisions in this section under control numbers 4040-0003, 4040-0004, 4040-0006, 4040-0007, 4040-0008, 4040-0009, and 4040-0010.)
+(The Office of Management and Budget has approved the information collection provisions in this section under control numbers 4040-0003, 4040-0004, 4040-0006, 4040-0007, 4040-0008, 4040-0009, and 4040-0010)
