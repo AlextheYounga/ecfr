@@ -6,7 +6,7 @@
 
 (i) *Adjusted gross income (AGI)* means the borrower's adjusted gross income as reported to the Internal Revenue Service. For a married borrower filing jointly, AGI includes both the borrower's and spouse's income. For a married borrower filing separately, AGI includes only the borrower's income;
 
-(ii) *Eligible loan, for purposes of determining whether a borrower has a partial financial hardship in accordance with paragraph (a)(1)(v) of this section or adjusting a borrower's monthly payment amount in accordance with paragraph (a)(2)(ii) of this section,* means any outstanding loan made to a borrower under the Direct Loan Program or the FFEL Program except for a defaulted loan, a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower, or a Direct Consolidation Loan or Federal Consolidation Loan that repaid a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower;
+(ii) *Eligible loan,* for purposes of determining whether a borrower has a partial financial hardship in accordance with paragraph (a)(1)(v) of this section or adjusting a borrower's monthly payment amount in accordance with paragraph (a)(2)(ii) of this section, means any outstanding loan made to a borrower under the Direct Loan Program or the FFEL Program except for a defaulted loan, a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower, or a Direct Consolidation Loan or Federal Consolidation Loan that repaid a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower;
 
 (iii) *Eligible new borrower* means an individual who -
 
@@ -336,7 +336,7 @@
 
 (B) Unable to reasonably access the income information of his or her spouse.
 
-(ii) *Eligible loan, for purposes of adjusting a borrower's monthly payment amount in accordance with paragraph (c)(2)(ii) of this section,* means any outstanding loan made to a borrower under the Direct Loan Program or the FFEL Program except for a defaulted loan, a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower, or a Direct Consolidation Loan or Federal Consolidation Loan that repaid a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower;
+(ii) *Eligible loan,* for purposes of adjusting a borrower's monthly payment amount in accordance with paragraph (c)(2)(ii) of this section, means any outstanding loan made to a borrower under the Direct Loan Program or the FFEL Program except for a defaulted loan, a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower, or a Direct Consolidation Loan or Federal Consolidation Loan that repaid a Direct PLUS Loan or Federal PLUS Loan made to a parent borrower;
 
 (iii) *Family size* means the number that is determined by counting the borrower, the borrower's spouse, and the borrower's children, including unborn children who will be born during the year the borrower certifies family size, if the children receive more than half their support from the borrower. Family size does not include the borrower's spouse if the borrower is separated from his or her spouse, or if the borrower is filing separately and is unable to reasonably access the spouse's income information. A borrower's family size includes other individuals if, at the time the borrower certifies family size, the other individuals -
 

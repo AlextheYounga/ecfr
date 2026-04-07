@@ -330,8 +330,6 @@
 
 (*2*) If the agency determines that the borrower does not qualify for a discharge, the agency shall, not later than 90 days after the agency received the claim, return the claim to the lender with an explanation of the reasons for its determination.
 
-(H) If a borrower fails to submit the written request and sworn statement described in paragraph (d)(3) of this section within 60 days of being notified of that option, the lender or guaranty agency shall resume collection and shall be deemed to have exercised forbearance of payment of principal and interest from the date it suspended collection activity. The lender or guaranty agency may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period.
-
 (H) If a borrower described in paragraph (d)(6)(ii)(E) or (F) of this section fails to submit the completed application within 60 days of being notified of that option, the lender or guaranty agency shall resume collection.
 
 (I) Upon resuming collection on any affected loan, the lender or guaranty agency provides the borrower another discharge application and an explanation of the requirements and procedures for obtaining a discharge.

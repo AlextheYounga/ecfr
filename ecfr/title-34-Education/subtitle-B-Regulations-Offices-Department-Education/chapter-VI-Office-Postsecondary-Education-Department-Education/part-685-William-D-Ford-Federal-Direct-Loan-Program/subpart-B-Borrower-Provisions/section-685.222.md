@@ -6,7 +6,7 @@
 
 (3) A violation by the school of an eligibility or compliance requirement in the Act or its implementing regulations is not a basis for a borrower defense under either this section or § 685.206(c) unless the violation would otherwise constitute a basis for a borrower defense under this section or § 685.206(c), as applicable.
 
-(4) For the purposes of this section and § 685.206(c), “borrower” means -
+(4) For the purposes of this section and § 685.206(c), “borrower” means—
 
 (i) The borrower; and
 
@@ -38,9 +38,9 @@
 
 (v) Otherwise unreasonably pressuring the borrower or taking advantage of the borrower's distress or lack of knowledge or sophistication.
 
-(e) *Procedure for an individual borrower.* (1) To assert a borrower defense under this section, an individual borrower must -
+(e) *Procedure for an individual borrower.* (1) To assert a borrower defense under this section, an individual borrower must—
 
-(i) Submit an application to the Secretary, on a form approved by the Secretary -
+(i) Submit an application to the Secretary, on a form approved by the Secretary—
 
 (A) Certifying that the borrower received the proceeds of a loan, in whole or in part, to attend the named school;
 
@@ -50,15 +50,15 @@
 
 (ii) Provide any other information or supporting documentation reasonably requested by the Secretary.
 
-(2) Upon receipt of a borrower's application submitted under this section, the Secretary -
+(2) Upon receipt of a borrower's application submitted under this section, the Secretary—
 
-(i) If the borrower is not in default on the loan for which a borrower defense has been asserted, grants forbearance and -
+(i) If the borrower is not in default on the loan for which a borrower defense has been asserted, grants forbearance and—
 
 (A) Notifies the borrower of the option to decline the forbearance and to continue making payments on the loan; and
 
 (B) Provides the borrower with information about the availability of the income-contingent repayment plans under § 685.209 and the income-based repayment plan under § 685.221; or
 
-(ii) If the borrower is in default on the loan for which a borrower defense has been asserted -
+(ii) If the borrower is in default on the loan for which a borrower defense has been asserted—
 
 (A) Suspends collection activity on the loan until the Secretary issues a decision on the borrower's claim;
 
@@ -66,9 +66,9 @@
 
 (C) Notifies the borrower of the option to continue making payments under a rehabilitation agreement or other repayment agreement on the defaulted loan.
 
-(3) The Secretary designates a Department official to review the borrower's application under this section to determine whether the application states a basis for a borrower defense, and resolves the claim through a fact-finding process conducted by the Department official.
+(3) The Secretary designates a Department official to review the borrower's application submitted under this section to determine whether the application states a basis for a borrower defense, and resolves the claim through a fact-finding process conducted by the Department official.
 
-(i) As part of the fact-finding process, the Department official notifies the school of the borrower defense application and considers any evidence or argument presented by the borrower and also any additional information, including -
+(i) As part of the fact-finding process, the Department official notifies the school of the borrower defense application and considers any evidence or argument presented by the borrower and also any additional information, including—
 
 (A) Department records;
 
@@ -84,7 +84,7 @@
 
 (ii) If the Department official denies the borrower defense in full or in part, the Department official notifies the borrower of the reasons for the denial, the evidence that was relied upon, any portion of the loan that is due and payable to the Secretary, and whether the Secretary will reimburse any amounts previously collected, and informs the borrower that if any balance remains on the loan, the loan will return to its status prior to the borrower's submission of the application. The Department official also informs the borrower of the opportunity to request reconsideration of the claim based on new evidence pursuant to paragraph (e)(5)(i) of this section.
 
-(5) The decision of the Department official under this section is final as to the merits of the claim and any relief that may be granted on the claim. Notwithstanding the foregoing -
+(5) The decision of the Department official under this section is final as to the merits of the claim and any relief that may be granted on the claim. Notwithstanding the foregoing—
 
 (i) If the borrower defense is denied in full or in part, the borrower may request that the Secretary reconsider the borrower defense upon the identification of new evidence in support of the borrower's claim. “New evidence” is relevant evidence that the borrower did not previously provide and that was not identified in the final decision as evidence that was relied upon for the final decision. If accepted for reconsideration by the Secretary, the Secretary follows the procedure in paragraph (e)(2) of this section for granting forbearance and for defaulted loans; and
 
@@ -92,13 +92,13 @@
 
 (6) The Secretary may consolidate applications filed under this paragraph (e) that have common facts and claims, and resolve the borrowers' borrower defense claims as provided in paragraphs (f), (g), and (h) of this section.
 
-(7) The Secretary may initiate a proceeding to collect from the school the amount of relief resulting from a borrower defense under this section -
+(7) The Secretary may initiate a proceeding to collect from the school the amount of relief resulting from a borrower defense under this section—
 
 (i) Within the six-year period applicable to the borrower defense under paragraph (c) or (d) of this section;
 
 (ii) At any time, for a borrower defense under paragraph (b) of this section; or
 
-(iii) At any time if during the period described in paragraph (e)(7)(i) of this section, the institution received notice of the claim. For purposes of this paragraph, notice includes receipt of -
+(iii) At any time if during the period described in paragraph (e)(7)(i) of this section, the institution received notice of the claim. For purposes of this paragraph, notice includes receipt of—
 
 (A) Actual notice from the borrower, a representative of the borrower, or the Department of a claim, including notice of an application filed pursuant to this section or § 685.206(c);
 
@@ -112,7 +112,7 @@
 
 (ii) If the Secretary determines that there are common facts and claims that apply to borrowers who have not filed an application under paragraph (e) of this section, the Secretary may identify such borrowers as members of a group.
 
-(2) Upon the identification of a group of borrowers under paragraph (f)(1) of this section, the Secretary -
+(2) Upon the identification of a group of borrowers under paragraph (f)(1) of this section, the Secretary—
 
 (i) Designates a Department official to present the group's claim in the fact-finding process described in paragraph (g) or (h) of this section, as applicable;
 
@@ -124,7 +124,7 @@
 
 (3) For a group of borrowers identified by the Secretary, for which the Secretary determines that there may be a borrower defense under paragraph (d) of this section based upon a substantial misrepresentation that has been widely disseminated, there is a rebuttable presumption that each member reasonably relied on the misrepresentation.
 
-(g) *Procedures for group process for borrower defenses with respect to loans made to attend a closed school.* For groups identified by the Secretary under paragraph (f) of this section, for which the borrower defense is asserted with respect to a Direct Loan to attend a school that has closed and has provided no financial protection currently available to the Secretary from which to recover any losses arising from borrower defenses, and for which there is no appropriate entity from which the Secretary can otherwise practicably recover such losses -
+(g) *Procedures for group process for borrower defenses with respect to loans made to attend a closed school.* For groups identified by the Secretary under paragraph (f) of this section, for which the borrower defense under this section is asserted with respect to a Direct Loan to attend a school that has closed and has provided no financial protection currently available to the Secretary from which to recover any losses arising from borrower defenses, and for which there is no appropriate entity from which the Secretary can otherwise practicably recover such losses—
 
 (1) A hearing official resolves the borrower defense under this section through a fact-finding process. As part of the fact-finding process, the hearing official considers any evidence and argument presented by the Department official on behalf of the group and, as necessary to determine any claims at issue, on behalf of individual members of the group. The hearing official also considers any additional information the Department official considers necessary, including any Department records or response from the school or a person affiliated with the school as described in § 668.174(b), if practicable. The hearing official issues a written decision as follows:
 
@@ -150,7 +150,7 @@
 
 (iii) The Secretary provides copies of the written decision to the members of the group, the Department official, and the school.
 
-(2) The decision of the hearing official becomes final as to the merits of the group borrower defense and any relief that may be granted on the group borrower defense within 30 days after the decision is issued and received by the Department official and the school unless, within that 30-day period, the school or the Department official appeals the decision to the Secretary. In the case of an appeal -
+(2) The decision of the hearing official becomes final as to the merits of the group borrower defense and any relief that may be granted on the group borrower defense within 30 days after the decision is issued and received by the Department official and the school unless, within that 30-day period, the school or the Department official appeals the decision to the Secretary. In the case of an appeal—
 
 (i) The decision of the hearing official does not take effect pending the appeal; and
 
@@ -164,7 +164,7 @@
 
 (ii) For a borrower defense under paragraph (b) of this section, the Secretary may initiate a proceeding to collect at any time.
 
-(iii) For a borrower defense under paragraph (c) or (d) of this section, the Secretary may initiate a proceeding to collect within the limitation period that would apply to the borrower defense, provided that the Secretary may bring an action to collect at any time if, within the limitation period, the school received notice of the borrower's borrower defense claim. For purposes of this paragraph, the school receives notice of the borrower's claim by receipt of -
+(iii) For a borrower defense under paragraph (c) or (d) of this section, the Secretary may initiate a proceeding to collect within the limitation period that would apply to the borrower defense, provided that the Secretary may bring an action to collect at any time if, within the limitation period, the school received notice of the borrower's borrower defense claim. For purposes of this paragraph, the school receives notice of the borrower's claim by receipt of—
 
 (A) Actual notice of the claim from the borrower, a representative of the borrower, or the Department, including notice of an application filed pursuant to this section or § 685.206(c);
 
@@ -176,11 +176,11 @@
 
 (1) The Department official or the hearing official deciding the claim determines the appropriate amount of relief to award the borrower, which may be a discharge of all amounts owed to the Secretary on the loan at issue and may include the recovery of amounts previously collected by the Secretary on the loan, or some lesser amount.
 
-(2) For a borrower defense brought on the basis of -
+(2) For a borrower defense brought on the basis of—
 
 (i) A substantial misrepresentation, the Department official or the hearing official will factor the borrower's cost of attendance to attend the school, as well as the value of the education the borrower received, the value of the education that a reasonable borrower in the borrower's circumstances would have received, and/or the value of the education the borrower should have expected given the information provided by the institution, into the determination of appropriate relief. A borrower may be granted full, partial, or no relief. Value will be assessed in a manner that is reasonable and practicable. In addition, the Department official or the hearing official deciding the claim may consider any other relevant factors;
 
-(ii) A judgment against the school -
+(ii) A judgment against the school—
 
 (A) Where the judgment awards specific financial relief, relief will be the amount of the judgment that remains unsatisfied, subject to the limitation provided for in § 685.222(i)(8) and any other reasonable considerations; and
 
@@ -190,13 +190,13 @@
 
 (3) In a fact-finding process brought against an open school under paragraph (h) of this section on the basis of a substantial misrepresentation, the school has the burden of proof as to any value of the education.
 
-(4) In determining the relief, the Department official or the hearing official deciding the claim may consider -
+(4) In determining the relief, the Department official or the hearing official deciding the claim may consider—
 
 (i) Information derived from a sample of borrowers from the group when calculating relief for a group of borrowers; and
 
 (ii) The examples in Appendix A to this subpart.
 
-(5) In the written decision described in paragraphs (e), (g), and (h) of this section, the designated Department official or hearing official deciding the claim notifies the borrower of the relief provided and -
+(5) In the written decision described in paragraphs (e), (g), and (h) of this section, the designated Department official or hearing official deciding the claim notifies the borrower of the relief provided and—
 
 (i) Specifies the relief determination;
 
