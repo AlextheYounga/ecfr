@@ -4,9 +4,9 @@ The following lengths of American Pima staple are represented by a quantity of c
 
 | Staple length (inches) | Effective date |
 | ---------------------- | -------------- |
-| 15⁄16                  | Aug. 1, 1961.  |
-| 13⁄8                   | Aug. 10, 1943. |
-| 17⁄16                  | Aug. 10, 1943. |
-| 11⁄2                   | Aug. 1, 1929.  |
+| 15/16                  | Aug. 1, 1961.  |
+| 13/8                   | Aug. 10, 1943. |
+| 17/16                  | Aug. 10, 1943. |
+| 11/2                   | Aug. 1, 1929.  |
 
 \[49 FR 28391, July 12, 1984\]

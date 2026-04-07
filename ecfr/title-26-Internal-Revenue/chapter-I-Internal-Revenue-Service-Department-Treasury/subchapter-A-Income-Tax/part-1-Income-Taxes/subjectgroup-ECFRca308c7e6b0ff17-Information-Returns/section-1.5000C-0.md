@@ -128,4 +128,4 @@ This section lists the captions contained in §§ 1.5000C-1 through 1.5000C-7.
 
 (e) Refund requests when amount withheld exceeds tax liability.
 
-§ 1.5000C-5 Anti-abuse rule. § 1.5000C-6 Examples. § 1.5000C-7 Effective/applicability date. \[T.D. 9782, 81 FR 55137, Aug. 18, 2016\]
+§ 1.5000C-5 Anti-abuse rule. § 1.5000C-6 Examples. § 1.5000C-7 Effective/applicability date.\[T.D. 9782, 81 FR 55137, Aug. 18, 2016\]

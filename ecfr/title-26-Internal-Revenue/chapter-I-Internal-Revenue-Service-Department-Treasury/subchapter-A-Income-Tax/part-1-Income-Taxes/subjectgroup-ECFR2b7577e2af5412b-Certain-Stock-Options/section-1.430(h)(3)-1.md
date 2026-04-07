@@ -1,277 +1,329 @@
 ##### § 1.430(h)(3)-1 Mortality tables used to determine present value.
 
-(a) *Basis for mortality tables* - (1) *In general.* This section sets forth rules for the mortality tables to be used in determining present value or making any computation under section 430. Generally applicable mortality tables for participants and beneficiaries are set forth in this section pursuant to section 430(h)(3)(A). In lieu of using the mortality tables provided under this section with respect to participants and beneficiaries, plan-specific substitute mortality tables are permitted to be used for this purpose pursuant to section 430(h)(3)(C) provided that the requirements of § 1.430(h)(3)-2 are satisfied. Mortality tables that may be used with respect to disabled individuals are to be provided in guidance published in the Internal Revenue Bulletin. See § 601.601(d)(2)(ii)(*b*) of this chapter.
+(a) *Basis for mortality tables*—(1) *In general.* Pursuant to section 430(h)(3)(A), this section provides generally applicable mortality tables that are used to determine present value for purposes of section 430, and rules regarding the use of those mortality tables. Either the generational mortality tables under paragraph (a)(2) of this section or the static mortality tables under paragraph (a)(3) of this section may be used for a plan. In lieu of using the mortality tables provided under this section, 77plan-specific substitute mortality tables may be used pursuant to section 430(h)(3)(C), provided that the requirements of § 1.430(h)(3)-2 are satisfied. Mortality tables that may be used with respect to disabled individuals are provided in guidance published in the Internal Revenue Bulletin. See § 601.601(d)(2)(ii)(b) of this chapter.
 
-(2) *Static tables or generational tables permitted.* The generally applicable mortality tables provided under section 430(h)(3)(A) are the static tables described in paragraph (a)(3) of this section and the generational mortality tables described in paragraph (a)(4) of this section. A plan is permitted to use either of those sets of mortality tables with respect to participants and beneficiaries pursuant to this section.
+(2) *Generational mortality tables*—(i) *In general*—(A) *Use of generational mortality tables.* The generational mortality tables that are permitted to be used under section 430(h)(3)(A) and paragraph (a)(1) of this section are determined using the base mortality tables described in paragraph (a)(2)(i)(B) of this section and the mortality improvement rates described in paragraph (a)(2)(i)(C) of this section.
 
-(3) *Static tables.* The static mortality tables that are permitted to be used pursuant to paragraph (a)(2) of this section are updated annually to reflect expected improvements in mortality experience as described in paragraph (c)(2) of this section. Static mortality tables that are to be used with respect to valuation dates occurring during 2008 are provided in paragraph (e) of this section. The mortality tables to be used with respect to valuation dates occurring in later years are to be provided in guidance published in the Internal Revenue Bulletin. See § 601.601(d)(2)(ii)(*b*) of this chapter.
+(B) *Base mortality tables.* The base mortality tables are set forth in paragraph (d) of this section. The base year for those tables is 2006.
 
-(4) *Generational mortality tables* - (i) *In general.* The generational mortality tables that are permitted to be used pursuant to paragraph (a)(2) of this section are determined pursuant to this paragraph (a)(4) using the base mortality tables and projection factors set forth in paragraph (d) of this section. Under the generational mortality tables, the probability of an individual's death at a particular age is determined as the individual's base mortality rate (that is, the applicable mortality rate from the table set forth in paragraph (d) of this section for the age for which the probability of death is being determined) multiplied by the mortality improvement factor. The mortality improvement factor is equal to (1−projection factor for that age) n, where n is equal to the projection period. For this purpose, the projection period is the number of years between 2000 and the year for which the probability of death is being determined.
+(C) *Mortality improvement rates.* The mortality improvement rates for valuation dates occurring during 2018 are the mortality improvement rates contained in the Mortality Improvement Scale MP-2016 Report (issued by the Retirement Plans Experience Committee (RPEC) of the Society of Actuaries and available at *www.soa.org/Research/Experience-Study/Pension/research-2016-mp.aspx*). For later years, updated mortality improvement rates that take into account new data for mortality improvement trends of the general population will be provided in guidance published in the Internal Revenue Bulletin. See § 601.601(d)(2)(ii)(b) of this chapter.
 
-(ii) *Examples of calculation.* As an example of the use of generational mortality tables under paragraph (a)(4)(i) of this section, for purposes of determining the probability of death at age 54 for a male annuitant born in 1974, the base mortality rate is .005797, the projection factor is .020, and the projection period (the period from the year 2000 until the year the participant will attain age 54) is 28 years, so that the mortality improvement factor is .567976, and the probability of death at age 54 is .003293. Similarly, under these generational mortality tables, the probability of death at age 55 for the same male annuitant would be determined by using the base mortality rate and projection factor at age 55, and a projection period of 29 years (the period from the year 2000 until the year the participant will attain age 55). Thus, the base mortality rate is .005905, the projection factor is .019, so that the mortality improvement factor is .573325 ((1−.019) 29), and the probability of death at age 55 is .003385 (.573325 times .005905). Because these generational mortality tables reflect expected improvements in mortality experience, no periodic updates are needed.
+(D) *Application of mortality improvement rates.* Under the generational mortality tables described in this paragraph (a)(2), the probability of an individual's death at a particular age in the future is determined as the individual's base mortality rate that applies at that age (that is, the applicable mortality rate from the table set forth in paragraph (d) of this section for that age, gender, and status as an annuitant or a nonannuitant) multiplied by the cumulative mortality improvement factor for the individual's gender and for that age for the period from 2006 through the calendar year in which the individual is projected to reach the particular age. Paragraph (a)(2)(ii) of this section shows how the base mortality tables in paragraph (d) of this section and the mortality improvement rates for valuation dates occurring during 2018 are combined to determine projected mortality rates.
 
-(b) *Use of the tables* - (1) *Separate tables for annuitants and nonannuitants* - (i) *In general.* Separate tables are provided for use for annuitants and nonannuitants. The nonannuitant mortality table is applied to determine the probability of survival for a nonannuitant for the period before the nonannuitant is projected to commence receiving benefits. The annuitant mortality table is applied to determine the present value of benefits for each annuitant, and for each nonannuitant for the period beginning when the nonannuitant is projected to commence receiving benefits. For purposes of this section, an annuitant means a plan participant who has commenced receiving benefits and a nonannuitant means a plan participant who has not yet commenced receiving benefits (for example, an active employee or a terminated vested participant). A participant whose benefit has partially commenced is treated as an annuitant with respect to the portion of the benefit which has commenced and a nonannuitant with respect to the balance of the benefit. In addition, for any period in which an annuitant is projected to be receiving benefits, any beneficiary with respect to that annuitant is also treated as an annuitant for purposes of this paragraph (b)(1).
+(E) *Cumulative mortality improvement factor.* The cumulative mortality improvement factor for an age and gender for a period is the product of the annual mortality improvement factors for that age and gender for each year within that period.
 
-(ii) *Examples of calculation.* As an example of the use of separate annuitant and nonannuitant tables under paragraph (b)(1)(i) of this section, with respect to a 45-year-old active participant who is projected to commence receiving an annuity at age 55, the funding target would be determined using the nonannuitant mortality table for the period before the participant attains age 55 (so that, if the static mortality tables are used pursuant to paragraph (a)(3) of this section, the probability of an active male participant living from age 45 to age 55 using the table that applies for a plan year beginning in 2008 is 98.61%) and the annuitant mortality table for the period ages 55 and above. Similarly, if a 45-year-old terminated vested participant is projected to commence an annuity at age 65, the funding target would be determined using the nonannuitant mortality table for the period before the participant attains age 65 and the annuitant mortality table for ages 65 and above.
+(F) *Annual mortality improvement factor.* The annual mortality improvement factor for an age and gender for a year is 1 minus the mortality improvement rate that applies for that age and gender for that year.
 
-(2) *Small plan tables.* If static mortality tables are used pursuant to paragraph (a)(3) of this section, as an alternative to the separate static tables specified for annuitants and nonannuitants pursuant to paragraph (b)(1) of this section, a combined static table that applies the same mortality rates to both annuitants and nonannuitants is permitted to be used for a small plan. For this purpose, a small plan is defined as a plan with 500 or fewer participants (including both active and inactive participants) on the valuation date.
+(ii) *Example of calculation*—(A) *Calculation of mortality rate.* The mortality rate for 2018 that is applied to male annuitants who are age 66 in 2018 is equal to the product of the mortality rate for 2006 that applied to male annuitants who were age 66 in 2006 (0.013855) and the cumulative mortality improvement factor for age 66 males from 2006 to 2018. The cumulative mortality improvement factor for age 66 males for the period from 2006 to 2018 is 0.8929, and the mortality rate for 2018 for male annuitants who are age 66 in that year would be 0.012371, as shown in the following table.
 
-(c) *Construction of static tables* - (1) *Source of basic rates.* The static mortality tables that are used pursuant to paragraph (a)(3) of this section are based on the base mortality tables set forth in paragraph (d) of this section.
+| Calendar year | Scale MP-2016 mortality improvement rate | Annual   mortality   improvement   factor   (1- scale MP-2016 rate) | Cumulative   mortality   improvement   factor | Mortality rate |
+| ------------- | ---------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------- | -------------- |
+| 2006          | n/a                                      | n/a                                                                 | n/a                                           | 0.013855       |
+| 2007          | 0.0237                                   | 0.9763                                                              | 0.9763                                        |                |
+| 2008          | 0.0211                                   | 0.9789                                                              | 0.9557                                        |                |
+| 2009          | 0.0180                                   | 0.9820                                                              | 0.9385                                        |                |
+| 2010          | 0.0142                                   | 0.9858                                                              | 0.9252                                        |                |
+| 2011          | 0.0099                                   | 0.9901                                                              | 0.9160                                        |                |
+| 2012          | 0.0053                                   | 0.9947                                                              | 0.9112                                        |                |
+| 2013          | 0.0043                                   | 0.9957                                                              | 0.9072                                        |                |
+| 2014          | 0.0035                                   | 0.9965                                                              | 0.9041                                        |                |
+| 2015          | 0.0030                                   | 0.9970                                                              | 0.9014                                        |                |
+| 2016          | 0.0028                                   | 0.9972                                                              | 0.8988                                        |                |
+| 2017          | 0.0030                                   | 0.9970                                                              | 0.8961                                        |                |
+| 2018          | 0.0036                                   | 0.9964                                                              | 0.8929                                        | 0.012371       |
 
-(2) *Projected mortality improvements.* The mortality rates under the base mortality tables are projected to improve using the projection factors provided in Projection Scale AA, as set forth in paragraph (d) of this section. Using these projection factors, the mortality rate for an individual at each age is determined as the individual's base mortality rate (that is, the applicable base mortality rate from the table set forth in paragraph (d) of this section for the individual at that age) multiplied by the mortality improvement factor. The mortality improvement factor is equal to (1−projection factor for that age) n, where n is equal to the projection period. The annuitant mortality rates for a plan year are determined using a projection period that runs from the calendar year 2000 until 7 years after the calendar year that contains the valuation date for the plan year. The nonannuitant mortality rates for a plan year are determined using a projection period that runs from the calendar year 2000 until 15 years after the calendar year that contains the valuation date for the plan year. Thus, for example, for a plan year with a January 1, 2012, valuation date, the annuitant mortality rates are determined using a projection period that runs from 2000 until 2019 (19 years) and the nonannuitant mortality rates are determined using a projection period that runs from 2000 until 2027 (27 years).
+(B) *Probability of survival for an individual.* After the projected mortality rates are derived for each age for each year, the rates are used to calculate the present value of a benefit stream that depends on the probability of survival year-by-year. For example, for purposes of calculating the present value (for a 2018 valuation date) of future payments in a benefit stream payable for a male annuitant who is age 66 in 2018, the probability of survival for the annuitant is based on the mortality rate for a male annuitant who is age 66 in 2018 (0.012371), and the projected mortality rate for a male annuitant who will be age 67 in 2019 (0.013302), age 68 in 2020 (0.014321), and so on.
 
-(3) *Construction of combined tables for small plans.* The combined mortality tables that are permitted to be used for small plans pursuant to paragraph (b)(2) of this section are constructed from the separate nonannuitant and annuitant tables using the weighting factors for small plans that are set forth in paragraph (d) of this section. The weighting factors are applied to develop these mortality tables using the following equation: Combined mortality rate = \[nonannuitant rate \* (1−weighting factor)\] + \[annuitant rate \* weighting factor\].
+(3) *Static mortality tables.* The static mortality tables that are permitted to be used under section 430(h)(3)(A) and paragraph (a)(1) of this section are updated annually by the IRS according to the methodology described in paragraph (c)(2) of this section. Paragraph (e) of this section sets forth static tables that are permitted to be used for valuation dates in 2018. For valuation dates in later years, static mortality tables will be provided in guidance published in the Internal Revenue Bulletin. See § 601.601(d)(2)(ii)(b) of this chapter.
 
-(d) *Base mortality tables and projection factors.* The following base mortality tables and projection factors are used to determine generational mortality tables for purposes of determining present value or making any computation under section 430 as set forth in paragraph (a)(4) of this section. In addition, the following base mortality tables and projection factors are used to determine the static mortality tables that are used for purposes of determining present value or making any computation under section 430 as set forth in paragraphs (a)(3) and (c) of this section. See § 1.430(h)(3)-2(c)(3) for rules regarding the required use of the projection factors set forth in this paragraph (d) in connection with a plan-specific substitute mortality table.
+(b) *Use of the tables*—(1) *Separate tables for annuitants and nonannuitants*—(i) *In general.* Separate tables are provided for use for annuitants and nonannuitants. The nonannuitant mortality table is applied to determine the probability of survival for a nonannuitant for the period before the nonannuitant is projected to commence receiving benefits. The annuitant mortality table is applied to determine the present value of benefits for each annuitant. In addition, the annuitant mortality table is applied for each nonannuitant with respect to each assumed commencement of benefits for the period beginning with that assumed commencement. For purposes of this section, an annuitant means a plan participant who has commenced receiving benefits, and a nonannuitant means a plan participant who has not yet commenced receiving benefits (for example, an active employee or a terminated vested participant). A participant whose benefit has partially commenced is treated as an annuitant with respect to the portion of the benefit that has commenced and treated as a nonannuitant with respect to the balance of the benefit. In addition, with respect to a beneficiary of a participant, the annuitant mortality table applies for the period beginning with each assumed commencement of benefits for the participant. If the participant has died (or to the extent the participant is assumed to die before commencing benefits), the annuitant mortality table applies with respect to the beneficiary for the period beginning with each assumed commencement of benefits for the beneficiary.
 
-| Age | Male     | Male     | Male  | Male     | Female   | Female   | Female | Female |
-| --- | -------- | -------- | ----- | -------- | -------- | -------- | ------ | ------ |
-| 1   | 0.000637 | 0.000637 | 0.020 | 0.000571 | 0.000571 | 0.020    |        |        |
-| 2   | 0.000430 | 0.000430 | 0.020 | 0.000372 | 0.000372 | 0.020    |        |        |
-| 3   | 0.000357 | 0.000357 | 0.020 | 0.000278 | 0.000278 | 0.020    |        |        |
-| 4   | 0.000278 | 0.000278 | 0.020 | 0.000208 | 0.000208 | 0.020    |        |        |
-| 5   | 0.000255 | 0.000255 | 0.020 | 0.000188 | 0.000188 | 0.020    |        |        |
-| 6   | 0.000244 | 0.000244 | 0.020 | 0.000176 | 0.000176 | 0.020    |        |        |
-| 7   | 0.000234 | 0.000234 | 0.020 | 0.000165 | 0.000165 | 0.020    |        |        |
-| 8   | 0.000216 | 0.000216 | 0.020 | 0.000147 | 0.000147 | 0.020    |        |        |
-| 9   | 0.000209 | 0.000209 | 0.020 | 0.000140 | 0.000140 | 0.020    |        |        |
-| 10  | 0.000212 | 0.000212 | 0.020 | 0.000141 | 0.000141 | 0.020    |        |        |
-| 11  | 0.000219 | 0.000219 | 0.020 | 0.000143 | 0.000143 | 0.020    |        |        |
-| 12  | 0.000228 | 0.000228 | 0.020 | 0.000148 | 0.000148 | 0.020    |        |        |
-| 13  | 0.000240 | 0.000240 | 0.020 | 0.000155 | 0.000155 | 0.020    |        |        |
-| 14  | 0.000254 | 0.000254 | 0.019 | 0.000162 | 0.000162 | 0.018    |        |        |
-| 15  | 0.000269 | 0.000269 | 0.019 | 0.000170 | 0.000170 | 0.016    |        |        |
-| 16  | 0.000284 | 0.000284 | 0.019 | 0.000177 | 0.000177 | 0.015    |        |        |
-| 17  | 0.000301 | 0.000301 | 0.019 | 0.000184 | 0.000184 | 0.014    |        |        |
-| 18  | 0.000316 | 0.000316 | 0.019 | 0.000188 | 0.000188 | 0.014    |        |        |
-| 19  | 0.000331 | 0.000331 | 0.019 | 0.000190 | 0.000190 | 0.015    |        |        |
-| 20  | 0.000345 | 0.000345 | 0.019 | 0.000191 | 0.000191 | 0.016    |        |        |
-| 21  | 0.000357 | 0.000357 | 0.018 | 0.000192 | 0.000192 | 0.017    |        |        |
-| 22  | 0.000366 | 0.000366 | 0.017 | 0.000194 | 0.000194 | 0.017    |        |        |
-| 23  | 0.000373 | 0.000373 | 0.015 | 0.000197 | 0.000197 | 0.016    |        |        |
-| 24  | 0.000376 | 0.000376 | 0.013 | 0.000201 | 0.000201 | 0.015    |        |        |
-| 25  | 0.000376 | 0.000376 | 0.010 | 0.000207 | 0.000207 | 0.014    |        |        |
-| 26  | 0.000378 | 0.000378 | 0.006 | 0.000214 | 0.000214 | 0.012    |        |        |
-| 27  | 0.000382 | 0.000382 | 0.005 | 0.000223 | 0.000223 | 0.012    |        |        |
-| 28  | 0.000393 | 0.000393 | 0.005 | 0.000235 | 0.000235 | 0.012    |        |        |
-| 29  | 0.000412 | 0.000412 | 0.005 | 0.000248 | 0.000248 | 0.012    |        |        |
-| 30  | 0.000444 | 0.000444 | 0.005 | 0.000264 | 0.000264 | 0.010    |        |        |
-| 31  | 0.000499 | 0.000499 | 0.005 | 0.000307 | 0.000307 | 0.008    |        |        |
-| 32  | 0.000562 | 0.000562 | 0.005 | 0.000350 | 0.000350 | 0.008    |        |        |
-| 33  | 0.000631 | 0.000631 | 0.005 | 0.000394 | 0.000394 | 0.009    |        |        |
-| 34  | 0.000702 | 0.000702 | 0.005 | 0.000435 | 0.000435 | 0.010    |        |        |
-| 35  | 0.000773 | 0.000773 | 0.005 | 0.000475 | 0.000475 | 0.011    |        |        |
-| 36  | 0.000841 | 0.000841 | 0.005 | 0.000514 | 0.000514 | 0.012    |        |        |
-| 37  | 0.000904 | 0.000904 | 0.005 | 0.000554 | 0.000554 | 0.013    |        |        |
-| 38  | 0.000964 | 0.000964 | 0.006 | 0.000598 | 0.000598 | 0.014    |        |        |
-| 39  | 0.001021 | 0.001021 | 0.007 | 0.000648 | 0.000648 | 0.015    |        |        |
-| 40  | 0.001079 | 0.001079 | 0.008 | 0.000706 | 0.000706 | 0.015    |        |        |
-| 41  | 0.001142 | 0.001157 | 0.009 | 0.0045   | 0.000774 | 0.000774 | 0.015  |        |
-| 42  | 0.001215 | 0.001312 | 0.010 | 0.0091   | 0.000852 | 0.000852 | 0.015  |        |
-| 43  | 0.001299 | 0.001545 | 0.011 | 0.0136   | 0.000937 | 0.000937 | 0.015  |        |
-| 44  | 0.001397 | 0.001855 | 0.012 | 0.0181   | 0.001029 | 0.001029 | 0.015  |        |
-| 45  | 0.001508 | 0.002243 | 0.013 | 0.0226   | 0.001124 | 0.001124 | 0.016  | 0.0084 |
-| 46  | 0.001616 | 0.002709 | 0.014 | 0.0272   | 0.001223 | 0.001223 | 0.017  | 0.0167 |
-| 47  | 0.001734 | 0.003252 | 0.015 | 0.0317   | 0.001326 | 0.001335 | 0.018  | 0.0251 |
-| 48  | 0.001860 | 0.003873 | 0.016 | 0.0362   | 0.001434 | 0.001559 | 0.018  | 0.0335 |
-| 49  | 0.001995 | 0.004571 | 0.017 | 0.0407   | 0.001550 | 0.001896 | 0.018  | 0.0419 |
-| 50  | 0.002138 | 0.005347 | 0.018 | 0.0453   | 0.001676 | 0.002344 | 0.017  | 0.0502 |
-| 51  | 0.002288 | 0.005528 | 0.019 | 0.0498   | 0.001814 | 0.002459 | 0.016  | 0.0586 |
-| 52  | 0.002448 | 0.005644 | 0.020 | 0.0686   | 0.001967 | 0.002647 | 0.014  | 0.0744 |
-| 53  | 0.002621 | 0.005722 | 0.020 | 0.0953   | 0.002135 | 0.002895 | 0.012  | 0.0947 |
-| 54  | 0.002812 | 0.005797 | 0.020 | 0.1288   | 0.002321 | 0.003190 | 0.010  | 0.1189 |
-| 55  | 0.003029 | 0.005905 | 0.019 | 0.2066   | 0.002526 | 0.003531 | 0.008  | 0.1897 |
-| 56  | 0.003306 | 0.006124 | 0.018 | 0.3173   | 0.002756 | 0.003925 | 0.006  | 0.2857 |
-| 57  | 0.003628 | 0.006444 | 0.017 | 0.3780   | 0.003010 | 0.004385 | 0.005  | 0.3403 |
-| 58  | 0.003997 | 0.006895 | 0.016 | 0.4401   | 0.003291 | 0.004921 | 0.005  | 0.3878 |
-| 59  | 0.004414 | 0.007485 | 0.016 | 0.4986   | 0.003599 | 0.005531 | 0.005  | 0.4360 |
-| 60  | 0.004878 | 0.008196 | 0.016 | 0.5633   | 0.003931 | 0.006200 | 0.005  | 0.4954 |
-| 61  | 0.005382 | 0.009001 | 0.015 | 0.6338   | 0.004285 | 0.006919 | 0.005  | 0.5805 |
-| 62  | 0.005918 | 0.009915 | 0.015 | 0.7103   | 0.004656 | 0.007689 | 0.005  | 0.6598 |
-| 63  | 0.006472 | 0.010951 | 0.014 | 0.7902   | 0.005039 | 0.008509 | 0.005  | 0.7520 |
-| 64  | 0.007028 | 0.012117 | 0.014 | 0.8355   | 0.005429 | 0.009395 | 0.005  | 0.8043 |
-| 65  | 0.007573 | 0.013419 | 0.014 | 0.8832   | 0.005821 | 0.010364 | 0.005  | 0.8552 |
-| 66  | 0.008099 | 0.014868 | 0.013 | 0.9321   | 0.006207 | 0.011413 | 0.005  | 0.9118 |
-| 67  | 0.008598 | 0.016460 | 0.013 | 0.9510   | 0.006583 | 0.012540 | 0.005  | 0.9367 |
-| 68  | 0.009069 | 0.018200 | 0.014 | 0.9639   | 0.006945 | 0.013771 | 0.005  | 0.9523 |
-| 69  | 0.009510 | 0.020105 | 0.014 | 0.9714   | 0.007289 | 0.015153 | 0.005  | 0.9627 |
-| 70  | 0.009922 | 0.022206 | 0.015 | 0.9740   | 0.007613 | 0.016742 | 0.005  | 0.9661 |
-| 71  | 0.010912 | 0.024570 | 0.015 | 0.9766   | 0.008309 | 0.018579 | 0.006  | 0.9695 |
-| 72  | 0.012892 | 0.027281 | 0.015 | 0.9792   | 0.009700 | 0.020665 | 0.006  | 0.9729 |
-| 73  | 0.015862 | 0.030387 | 0.015 | 0.9818   | 0.011787 | 0.022970 | 0.007  | 0.9763 |
-| 74  | 0.019821 | 0.033900 | 0.015 | 0.9844   | 0.014570 | 0.025458 | 0.007  | 0.9797 |
-| 75  | 0.024771 | 0.037834 | 0.014 | 0.9870   | 0.018049 | 0.028106 | 0.008  | 0.9830 |
-| 76  | 0.030710 | 0.042169 | 0.014 | 0.9896   | 0.022224 | 0.030966 | 0.008  | 0.9864 |
-| 77  | 0.037640 | 0.046906 | 0.013 | 0.9922   | 0.027094 | 0.034105 | 0.007  | 0.9898 |
-| 78  | 0.045559 | 0.052123 | 0.012 | 0.9948   | 0.032660 | 0.037595 | 0.007  | 0.9932 |
-| 79  | 0.054469 | 0.057927 | 0.011 | 0.9974   | 0.038922 | 0.041506 | 0.007  | 0.9966 |
-| 80  | 0.064368 | 0.064368 | 0.010 | 1.0000   | 0.045879 | 0.045879 | 0.007  | 1.0000 |
-| 81  | 0.072041 | 0.072041 | 0.009 | 1.0000   | 0.050780 | 0.050780 | 0.007  | 1.0000 |
-| 82  | 0.080486 | 0.080486 | 0.008 | 1.0000   | 0.056294 | 0.056294 | 0.007  | 1.0000 |
-| 83  | 0.089718 | 0.089718 | 0.008 | 1.0000   | 0.062506 | 0.062506 | 0.007  | 1.0000 |
-| 84  | 0.099779 | 0.099779 | 0.007 | 1.0000   | 0.069517 | 0.069517 | 0.007  | 1.0000 |
-| 85  | 0.110757 | 0.110757 | 0.007 | 1.0000   | 0.077446 | 0.077446 | 0.006  | 1.0000 |
-| 86  | 0.122797 | 0.122797 | 0.007 | 1.0000   | 0.086376 | 0.086376 | 0.005  | 1.0000 |
-| 87  | 0.136043 | 0.136043 | 0.006 | 1.0000   | 0.096337 | 0.096337 | 0.004  | 1.0000 |
-| 88  | 0.150590 | 0.150590 | 0.005 | 1.0000   | 0.107303 | 0.107303 | 0.004  | 1.0000 |
-| 89  | 0.166420 | 0.166420 | 0.005 | 1.0000   | 0.119154 | 0.119154 | 0.003  | 1.0000 |
-| 90  | 0.183408 | 0.183408 | 0.004 | 1.0000   | 0.131682 | 0.131682 | 0.003  | 1.0000 |
-| 91  | 0.199769 | 0.199769 | 0.004 | 1.0000   | 0.144604 | 0.144604 | 0.003  | 1.0000 |
-| 92  | 0.216605 | 0.216605 | 0.003 | 1.0000   | 0.157618 | 0.157618 | 0.003  | 1.0000 |
-| 93  | 0.233662 | 0.233662 | 0.003 | 1.0000   | 0.170433 | 0.170433 | 0.002  | 1.0000 |
-| 94  | 0.250693 | 0.250693 | 0.003 | 1.0000   | 0.182799 | 0.182799 | 0.002  | 1.0000 |
-| 95  | 0.267491 | 0.267491 | 0.002 | 1.0000   | 0.194509 | 0.194509 | 0.002  | 1.0000 |
-| 96  | 0.283905 | 0.283905 | 0.002 | 1.0000   | 0.205379 | 0.205379 | 0.002  | 1.0000 |
-| 97  | 0.299852 | 0.299852 | 0.002 | 1.0000   | 0.215240 | 0.215240 | 0.001  | 1.0000 |
-| 98  | 0.315296 | 0.315296 | 0.001 | 1.0000   | 0.223947 | 0.223947 | 0.001  | 1.0000 |
-| 99  | 0.330207 | 0.330207 | 0.001 | 1.0000   | 0.231387 | 0.231387 | 0.001  | 1.0000 |
-| 100 | 0.344556 | 0.344556 | 0.001 | 1.0000   | 0.237467 | 0.237467 | 0.001  | 1.0000 |
-| 101 | 0.358628 | 0.358628 | 0.000 | 1.0000   | 0.244834 | 0.244834 | 0.000  | 1.0000 |
-| 102 | 0.371685 | 0.371685 | 0.000 | 1.0000   | 0.254498 | 0.254498 | 0.000  | 1.0000 |
-| 103 | 0.383040 | 0.383040 | 0.000 | 1.0000   | 0.266044 | 0.266044 | 0.000  | 1.0000 |
-| 104 | 0.392003 | 0.392003 | 0.000 | 1.0000   | 0.279055 | 0.279055 | 0.000  | 1.0000 |
-| 105 | 0.397886 | 0.397886 | 0.000 | 1.0000   | 0.293116 | 0.293116 | 0.000  | 1.0000 |
-| 106 | 0.400000 | 0.400000 | 0.000 | 1.0000   | 0.307811 | 0.307811 | 0.000  | 1.0000 |
-| 107 | 0.400000 | 0.400000 | 0.000 | 1.0000   | 0.322725 | 0.322725 | 0.000  | 1.0000 |
-| 108 | 0.400000 | 0.400000 | 0.000 | 1.0000   | 0.337441 | 0.337441 | 0.000  | 1.0000 |
-| 109 | 0.400000 | 0.400000 | 0.000 | 1.0000   | 0.351544 | 0.351544 | 0.000  | 1.0000 |
-| 110 | 0.400000 | 0.400000 | 0.000 | 1.0000   | 0.364617 | 0.364617 | 0.000  | 1.0000 |
-| 111 | 0.400000 | 0.400000 | 0.000 | 1.0000   | 0.376246 | 0.376246 | 0.000  | 1.0000 |
-| 112 | 0.400000 | 0.400000 | 0.000 | 1.0000   | 0.386015 | 0.386015 | 0.000  | 1.0000 |
-| 113 | 0.400000 | 0.400000 | 0.000 | 1.0000   | 0.393507 | 0.393507 | 0.000  | 1.0000 |
-| 114 | 0.400000 | 0.400000 | 0.000 | 1.0000   | 0.398308 | 0.398308 | 0.000  | 1.0000 |
-| 115 | 0.400000 | 0.400000 | 0.000 | 1.0000   | 0.400000 | 0.400000 | 0.000  | 1.0000 |
-| 116 | 0.400000 | 0.400000 | 0.000 | 1.0000   | 0.400000 | 0.400000 | 0.000  | 1.0000 |
-| 117 | 0.400000 | 0.400000 | 0.000 | 1.0000   | 0.400000 | 0.400000 | 0.000  | 1.0000 |
-| 118 | 0.400000 | 0.400000 | 0.000 | 1.0000   | 0.400000 | 0.400000 | 0.000  | 1.0000 |
-| 119 | 0.400000 | 0.400000 | 0.000 | 1.0000   | 0.400000 | 0.400000 | 0.000  | 1.0000 |
-| 120 | 1.000000 | 1.000000 | 0.000 | 1.0000   | 1.000000 | 1.000000 | 0.000  | 1.0000 |
+(ii) *Examples of calculation using separate annuitant and nonannuitant tables.* With respect to a 45-year-old active participant who is projected to commence receiving an annuity at age 55, the funding target is determined using the nonannuitant mortality table for the period before the participant attains age 55 (so that, if the static mortality tables are used pursuant to paragraph (a)(3) of this section, the probability of an active male participant living from age 45 to age 55 using the table that applies for a valuation date in 2018 is 0.988857) and using the annuitant mortality table for the period ages 55 and above. Similarly, for a 45-year-old terminated vested participant who is projected to commence an annuity at age 65, the funding target is determined using the nonannuitant mortality table for the period before the participant attains age 65 and using the annuitant mortality table for ages 65 and above.
 
-(e) *Static mortality tables with respect to valuation dates occurring during 2008.* The following static mortality tables are used pursuant to paragraph (a)(3) of this section for determining present value or making any computation under section 430 with respect to valuation dates occurring during 2008.
+(2) *Small plan tables.* If static mortality tables are used pursuant to paragraph (a)(3) of this section, as an alternative to the separate static tables specified for annuitants and nonannuitants pursuant to paragraph (b)(1) of this section, combined static tables that apply the same mortality rates to both annuitants and nonannuitants are permitted to be used for a small plan. For this purpose, a small plan is defined as a plan with 500 or fewer total participants (including both active and inactive participants and beneficiaries of deceased participants) on the valuation date. The combined static tables that are permitted to be used for small plans pursuant to this paragraph (b)(2) are constructed from the separate nonannuitant and annuitant static mortality tables using the weighting factors for small plans that are set forth in paragraph (d) of this section. The weighting factors are applied to develop these combined static tables using the following equation: Combined mortality rate = \[nonannuitant rate \* (1 − weighting factor)\] + \[annuitant rate \* weighting factor\].
 
-| Age | Male     | Male     | Male     | Female   | Female   | Female   |
-| --- | -------- | -------- | -------- | -------- | -------- | -------- |
-| 1   | 0.000400 | 0.000400 | 0.000400 | 0.000359 | 0.000359 | 0.000359 |
-| 2   | 0.000270 | 0.000270 | 0.000270 | 0.000234 | 0.000234 | 0.000234 |
-| 3   | 0.000224 | 0.000224 | 0.000224 | 0.000175 | 0.000175 | 0.000175 |
-| 4   | 0.000175 | 0.000175 | 0.000175 | 0.000131 | 0.000131 | 0.000131 |
-| 5   | 0.000160 | 0.000160 | 0.000160 | 0.000118 | 0.000118 | 0.000118 |
-| 6   | 0.000153 | 0.000153 | 0.000153 | 0.000111 | 0.000111 | 0.000111 |
-| 7   | 0.000147 | 0.000147 | 0.000147 | 0.000104 | 0.000104 | 0.000104 |
-| 8   | 0.000136 | 0.000136 | 0.000136 | 0.000092 | 0.000092 | 0.000092 |
-| 9   | 0.000131 | 0.000131 | 0.000131 | 0.000088 | 0.000088 | 0.000088 |
-| 10  | 0.000133 | 0.000133 | 0.000133 | 0.000089 | 0.000089 | 0.000089 |
-| 11  | 0.000138 | 0.000138 | 0.000138 | 0.000090 | 0.000090 | 0.000090 |
-| 12  | 0.000143 | 0.000143 | 0.000143 | 0.000093 | 0.000093 | 0.000093 |
-| 13  | 0.000151 | 0.000151 | 0.000151 | 0.000097 | 0.000097 | 0.000097 |
-| 14  | 0.000163 | 0.000163 | 0.000163 | 0.000107 | 0.000107 | 0.000107 |
-| 15  | 0.000173 | 0.000173 | 0.000173 | 0.000117 | 0.000117 | 0.000117 |
-| 16  | 0.000183 | 0.000183 | 0.000183 | 0.000125 | 0.000125 | 0.000125 |
-| 17  | 0.000194 | 0.000194 | 0.000194 | 0.000133 | 0.000133 | 0.000133 |
-| 18  | 0.000203 | 0.000203 | 0.000203 | 0.000136 | 0.000136 | 0.000136 |
-| 19  | 0.000213 | 0.000213 | 0.000213 | 0.000134 | 0.000134 | 0.000134 |
-| 20  | 0.000222 | 0.000222 | 0.000222 | 0.000132 | 0.000132 | 0.000132 |
-| 21  | 0.000235 | 0.000235 | 0.000235 | 0.000129 | 0.000129 | 0.000129 |
-| 22  | 0.000247 | 0.000247 | 0.000247 | 0.000131 | 0.000131 | 0.000131 |
-| 23  | 0.000263 | 0.000263 | 0.000263 | 0.000136 | 0.000136 | 0.000136 |
-| 24  | 0.000278 | 0.000278 | 0.000278 | 0.000142 | 0.000142 | 0.000142 |
-| 25  | 0.000298 | 0.000298 | 0.000298 | 0.000150 | 0.000150 | 0.000150 |
-| 26  | 0.000329 | 0.000329 | 0.000329 | 0.000162 | 0.000162 | 0.000162 |
-| 27  | 0.000340 | 0.000340 | 0.000340 | 0.000169 | 0.000169 | 0.000169 |
-| 28  | 0.000350 | 0.000350 | 0.000350 | 0.000178 | 0.000178 | 0.000178 |
-| 29  | 0.000367 | 0.000367 | 0.000367 | 0.000188 | 0.000188 | 0.000188 |
-| 30  | 0.000396 | 0.000396 | 0.000396 | 0.000210 | 0.000210 | 0.000210 |
-| 31  | 0.000445 | 0.000445 | 0.000445 | 0.000255 | 0.000255 | 0.000255 |
-| 32  | 0.000501 | 0.000501 | 0.000501 | 0.000291 | 0.000291 | 0.000291 |
-| 33  | 0.000562 | 0.000562 | 0.000562 | 0.000320 | 0.000320 | 0.000320 |
-| 34  | 0.000626 | 0.000626 | 0.000626 | 0.000345 | 0.000345 | 0.000345 |
-| 35  | 0.000689 | 0.000689 | 0.000689 | 0.000368 | 0.000368 | 0.000368 |
-| 36  | 0.000749 | 0.000749 | 0.000749 | 0.000389 | 0.000389 | 0.000389 |
-| 37  | 0.000806 | 0.000806 | 0.000806 | 0.000410 | 0.000410 | 0.000410 |
-| 38  | 0.000839 | 0.000839 | 0.000839 | 0.000432 | 0.000432 | 0.000432 |
-| 39  | 0.000869 | 0.000869 | 0.000869 | 0.000458 | 0.000458 | 0.000458 |
-| 40  | 0.000897 | 0.000897 | 0.000897 | 0.000499 | 0.000499 | 0.000499 |
-| 41  | 0.000928 | 0.000955 | 0.000928 | 0.000547 | 0.000547 | 0.000547 |
-| 42  | 0.000964 | 0.001070 | 0.000965 | 0.000602 | 0.000602 | 0.000602 |
-| 43  | 0.001007 | 0.001243 | 0.001010 | 0.000662 | 0.000662 | 0.000662 |
-| 44  | 0.001058 | 0.001474 | 0.001066 | 0.000727 | 0.000727 | 0.000727 |
-| 45  | 0.001116 | 0.001763 | 0.001131 | 0.000776 | 0.000779 | 0.000776 |
-| 46  | 0.001168 | 0.002109 | 0.001194 | 0.000824 | 0.000882 | 0.000825 |
-| 47  | 0.001225 | 0.002513 | 0.001266 | 0.000873 | 0.001037 | 0.000877 |
-| 48  | 0.001284 | 0.002975 | 0.001345 | 0.000944 | 0.001244 | 0.000954 |
-| 49  | 0.001345 | 0.003495 | 0.001433 | 0.001021 | 0.001502 | 0.001041 |
-| 50  | 0.001408 | 0.004072 | 0.001529 | 0.001130 | 0.001812 | 0.001164 |
-| 51  | 0.001472 | 0.004146 | 0.001605 | 0.001252 | 0.001931 | 0.001292 |
-| 52  | 0.001538 | 0.004168 | 0.001718 | 0.001422 | 0.002142 | 0.001476 |
-| 53  | 0.001647 | 0.004226 | 0.001893 | 0.001617 | 0.002415 | 0.001693 |
-| 54  | 0.001767 | 0.004281 | 0.002091 | 0.001842 | 0.002744 | 0.001949 |
-| 55  | 0.001948 | 0.004428 | 0.002460 | 0.002100 | 0.003130 | 0.002295 |
-| 56  | 0.002177 | 0.004663 | 0.002966 | 0.002400 | 0.003586 | 0.002739 |
-| 57  | 0.002446 | 0.004983 | 0.003405 | 0.002682 | 0.004067 | 0.003153 |
-| 58  | 0.002758 | 0.005413 | 0.003926 | 0.002933 | 0.004565 | 0.003566 |
-| 59  | 0.003046 | 0.005876 | 0.004457 | 0.003207 | 0.005130 | 0.004045 |
-| 60  | 0.003366 | 0.006435 | 0.005095 | 0.003503 | 0.005751 | 0.004617 |
-| 61  | 0.003802 | 0.007175 | 0.005940 | 0.003818 | 0.006418 | 0.005327 |
-| 62  | 0.004180 | 0.007904 | 0.006825 | 0.004149 | 0.007132 | 0.006117 |
-| 63  | 0.004680 | 0.008864 | 0.007986 | 0.004490 | 0.007893 | 0.007049 |
-| 64  | 0.005082 | 0.009807 | 0.009030 | 0.004838 | 0.008715 | 0.007956 |
-| 65  | 0.005476 | 0.010861 | 0.010232 | 0.005187 | 0.009613 | 0.008972 |
-| 66  | 0.005994 | 0.012218 | 0.011795 | 0.005531 | 0.010586 | 0.010140 |
-| 67  | 0.006363 | 0.013527 | 0.013176 | 0.005866 | 0.011632 | 0.011267 |
-| 68  | 0.006557 | 0.014731 | 0.014436 | 0.006189 | 0.012774 | 0.012460 |
-| 69  | 0.006876 | 0.016273 | 0.016004 | 0.006495 | 0.014055 | 0.013773 |
-| 70  | 0.007009 | 0.017702 | 0.017424 | 0.006784 | 0.015529 | 0.015233 |
-| 71  | 0.007888 | 0.019586 | 0.019312 | 0.007411 | 0.016975 | 0.016683 |
-| 72  | 0.009646 | 0.021747 | 0.021495 | 0.008666 | 0.018881 | 0.018604 |
-| 73  | 0.012283 | 0.024223 | 0.024006 | 0.010548 | 0.020673 | 0.020433 |
-| 74  | 0.015799 | 0.027024 | 0.026849 | 0.013058 | 0.022912 | 0.022712 |
-| 75  | 0.020195 | 0.030622 | 0.030486 | 0.016195 | 0.024916 | 0.024768 |
-| 76  | 0.025470 | 0.034131 | 0.034041 | 0.019959 | 0.027451 | 0.027349 |
-| 77  | 0.031624 | 0.038547 | 0.038493 | 0.024351 | 0.030694 | 0.030629 |
-| 78  | 0.038657 | 0.043489 | 0.043464 | 0.029370 | 0.033835 | 0.033805 |
-| 79  | 0.046569 | 0.049071 | 0.049064 | 0.035017 | 0.037355 | 0.037347 |
-| 80  | 0.055360 | 0.055360 | 0.055360 | 0.041291 | 0.041291 | 0.041291 |
-| 81  | 0.062905 | 0.062905 | 0.062905 | 0.045702 | 0.045702 | 0.045702 |
-| 82  | 0.071350 | 0.071350 | 0.071350 | 0.050664 | 0.050664 | 0.050664 |
-| 83  | 0.079534 | 0.079534 | 0.079534 | 0.056255 | 0.056255 | 0.056255 |
-| 84  | 0.089800 | 0.089800 | 0.089800 | 0.062565 | 0.062565 | 0.062565 |
-| 85  | 0.099680 | 0.099680 | 0.099680 | 0.070761 | 0.070761 | 0.070761 |
-| 86  | 0.110516 | 0.110516 | 0.110516 | 0.080120 | 0.080120 | 0.080120 |
-| 87  | 0.124300 | 0.124300 | 0.124300 | 0.090716 | 0.090716 | 0.090716 |
-| 88  | 0.139683 | 0.139683 | 0.139683 | 0.101042 | 0.101042 | 0.101042 |
-| 89  | 0.154366 | 0.154366 | 0.154366 | 0.113903 | 0.113903 | 0.113903 |
-| 90  | 0.172706 | 0.172706 | 0.172706 | 0.125879 | 0.125879 | 0.125879 |
-| 91  | 0.188113 | 0.188113 | 0.188113 | 0.138232 | 0.138232 | 0.138232 |
-| 92  | 0.207060 | 0.207060 | 0.207060 | 0.150672 | 0.150672 | 0.150672 |
-| 93  | 0.223365 | 0.223365 | 0.223365 | 0.165391 | 0.165391 | 0.165391 |
-| 94  | 0.239646 | 0.239646 | 0.239646 | 0.177391 | 0.177391 | 0.177391 |
-| 95  | 0.259578 | 0.259578 | 0.259578 | 0.188755 | 0.188755 | 0.188755 |
-| 96  | 0.275506 | 0.275506 | 0.275506 | 0.199303 | 0.199303 | 0.199303 |
-| 97  | 0.290981 | 0.290981 | 0.290981 | 0.212034 | 0.212034 | 0.212034 |
-| 98  | 0.310600 | 0.310600 | 0.310600 | 0.220611 | 0.220611 | 0.220611 |
-| 99  | 0.325288 | 0.325288 | 0.325288 | 0.227940 | 0.227940 | 0.227940 |
-| 100 | 0.339424 | 0.339424 | 0.339424 | 0.233930 | 0.233930 | 0.233930 |
-| 101 | 0.358628 | 0.358628 | 0.358628 | 0.244834 | 0.244834 | 0.244834 |
-| 102 | 0.371685 | 0.371685 | 0.371685 | 0.254498 | 0.254498 | 0.254498 |
-| 103 | 0.383040 | 0.383040 | 0.383040 | 0.266044 | 0.266044 | 0.266044 |
-| 104 | 0.392003 | 0.392003 | 0.392003 | 0.279055 | 0.279055 | 0.279055 |
-| 105 | 0.397886 | 0.397886 | 0.397886 | 0.293116 | 0.293116 | 0.293116 |
-| 106 | 0.400000 | 0.400000 | 0.400000 | 0.307811 | 0.307811 | 0.307811 |
-| 107 | 0.400000 | 0.400000 | 0.400000 | 0.322725 | 0.322725 | 0.322725 |
-| 108 | 0.400000 | 0.400000 | 0.400000 | 0.337441 | 0.337441 | 0.337441 |
-| 109 | 0.400000 | 0.400000 | 0.400000 | 0.351544 | 0.351544 | 0.351544 |
-| 110 | 0.400000 | 0.400000 | 0.400000 | 0.364617 | 0.364617 | 0.364617 |
-| 111 | 0.400000 | 0.400000 | 0.400000 | 0.376246 | 0.376246 | 0.376246 |
-| 112 | 0.400000 | 0.400000 | 0.400000 | 0.386015 | 0.386015 | 0.386015 |
-| 113 | 0.400000 | 0.400000 | 0.400000 | 0.393507 | 0.393507 | 0.393507 |
-| 114 | 0.400000 | 0.400000 | 0.400000 | 0.398308 | 0.398308 | 0.398308 |
-| 115 | 0.400000 | 0.400000 | 0.400000 | 0.400000 | 0.400000 | 0.400000 |
-| 116 | 0.400000 | 0.400000 | 0.400000 | 0.400000 | 0.400000 | 0.400000 |
-| 117 | 0.400000 | 0.400000 | 0.400000 | 0.400000 | 0.400000 | 0.400000 |
-| 118 | 0.400000 | 0.400000 | 0.400000 | 0.400000 | 0.400000 | 0.400000 |
-| 119 | 0.400000 | 0.400000 | 0.400000 | 0.400000 | 0.400000 | 0.400000 |
-| 120 | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 1.000000 |
+(c) *Static tables*—(1) *Source of rates.* The static mortality tables that are used pursuant to paragraph (a)(3) of this section are determined using the base mortality tables described in paragraph (a)(2)(i)(B) of this section taking into account the mortality improvement rates described in paragraph (a)(2)(i)(C) of this section, in accordance with the rules of paragraph (c)(3) of this section.
 
-(f) *Effective/Applicability date.* This section applies for plan years beginning on or after January 1, 2008.
+(2) *Selection of static tables.* The static mortality tables that are used for a valuation date are the static mortality tables for the calendar year that contains the valuation date.
 
-\[T.D. 9419, 73 FR 44639, July 31, 2008\]
+(3) *Projection of mortality improvements*—(i) *General rule.* Except as provided in paragraph (c)(3)(iii) of this section, the static mortality tables for a calendar year are determined by multiplying the applicable mortality rate for each age from the base mortality tables by both—
+
+(A) The cumulative mortality improvement factor (determined under the rules of paragraph (a)(2) of this section) for the period from 2006 through that calendar year; and
+
+(B) The cumulative mortality improvement factor (determined under the rules of paragraph (a)(2) of this section) for the period beginning in that calendar year and continuing beyond that calendar year for the number of years in the projection period described in paragraph (c)(3)(ii) of this section.
+
+(ii) *Projection period for static mortality tables*—(A) *In general.* The projection period is 8 years for males and 9 years for females, as adjusted based on age as provided in paragraph (c)(3)(ii)(B) of this section.
+
+(B) *Age adjustment.* For ages below 80, the projection period is increased by 1 year for each year below age 80. For ages above 80, the projection period is reduced (but not below zero) by 1/3 year for each year above 80.
+
+(iii) *Fractional projection periods.* If for an age the number of years in the projection period determined under this paragraph (c)(3) is not a whole number, then the mortality rate for that age is determined by using linear interpolation between—
+
+(A) The mortality rate for that age that would be determined under paragraph (c)(3)(i) of this section if the number of years in the projection period were the next lower whole number; and
+
+(B) The mortality rate for that age that would be determined under paragraph (c)(3)(i) of this section if the number of years in the projection period were the next higher whole number.
+
+(iv) *Example.* The following example illustrates how the mortality rates in the static mortality tables issued under the provisions of this paragraph (c) are calculated:
+
+Example.At age 85, the projection period for a male is 6 1/3 years (8 years minus 1/3 year for each of the 5 years above age 80). For a valuation date in 2018, the mortality rate in the static mortality table for an 85-year-old male is based on a projection of mortality improvement for 6 1/3 years beyond 2018. Under paragraph (c)(3)(iii) of this section, the mortality rate for an 85-year-old male annuitant in the static mortality table for 2018 is 2/3 times the projected mortality rate for a male annuitant that age in 2024 plus 1/3 times the projected mortality rate for a male annuitant that age in 2025. Accordingly, the mortality rate for an 85-year-old male annuitant in the static mortality table for 2018 is 0.075196 ( 2/3 times the projected mortality rate for an 85-year old male annuitant in 2024 (0.075447) plus 1/3 times the projected mortality rate for an 85-year old male annuitant in 2025 (0.074693)).
+
+(d) *Base mortality tables.* The following are the base mortality tables. The base year for these tables is 2006.
+
+| Age | Males    | Females  |
+| --- | -------- | -------- |
+| 0   | 0.008878 | 0.008878 |
+| 1   | 0.000515 | 0.000515 |
+| 2   | 0.000348 | 0.000348 |
+| 3   | 0.000289 | 0.000289 |
+| 4   | 0.000225 | 0.000225 |
+| 5   | 0.000197 | 0.000197 |
+| 6   | 0.000177 | 0.000177 |
+| 7   | 0.000156 | 0.000156 |
+| 8   | 0.000132 | 0.000132 |
+| 9   | 0.000107 | 0.000107 |
+| 10  | 0.000090 | 0.000090 |
+| 11  | 0.000095 | 0.000095 |
+| 12  | 0.000142 | 0.000142 |
+| 13  | 0.000187 | 0.000187 |
+| 14  | 0.000230 | 0.000230 |
+| 15  | 0.000274 | 0.000274 |
+| 16  | 0.000318 | 0.000318 |
+| 17  | 0.000364 | 0.000364 |
+| 18  | 0.000412 | 0.000412 |
+| 19  | 0.000463 | 0.000463 |
+| 20  | 0.000510 | 0.000510 |
+| 21  | 0.000552 | 0.000552 |
+| 22  | 0.000587 | 0.000587 |
+| 23  | 0.000599 | 0.000599 |
+| 24  | 0.000594 | 0.000594 |
+| 25  | 0.000545 | 0.000545 |
+| 26  | 0.000510 | 0.000510 |
+| 27  | 0.000486 | 0.000486 |
+| 28  | 0.000472 | 0.000472 |
+| 29  | 0.000468 | 0.000468 |
+| 30  | 0.000470 | 0.000470 |
+| 31  | 0.000480 | 0.000480 |
+| 32  | 0.000495 | 0.000495 |
+| 33  | 0.000514 | 0.000514 |
+| 34  | 0.000534 | 0.000534 |
+| 35  | 0.000557 | 0.000557 |
+| 36  | 0.000581 | 0.000581 |
+| 37  | 0.000611 | 0.000611 |
+| 38  | 0.000648 | 0.000648 |
+| 39  | 0.000694 | 0.000694 |
+| 40  | 0.000750 | 0.000750 |
+| 41  | 0.000814 | 0.000823 |
+| 42  | 0.000890 | 0.000969 |
+| 43  | 0.000982 | 0.001188 |
+| 44  | 0.001088 | 0.001480 |
+| 45  | 0.001207 | 0.001846 |
+| 46  | 0.001342 | 0.002285 |
+| 47  | 0.001487 | 0.002797 |
+| 48  | 0.001643 | 0.003382 |
+| 49  | 0.001807 | 0.004040 |
+| 50  | 0.001979 | 0.004771 |
+| 51  | 0.002159 | 0.005059 |
+| 52  | 0.002351 | 0.005343 |
+| 53  | 0.002539 | 0.005592 |
+| 54  | 0.002741 | 0.005839 |
+| 55  | 0.002967 | 0.006102 |
+| 56  | 0.003231 | 0.006399 |
+| 57  | 0.003548 | 0.006746 |
+| 58  | 0.003932 | 0.007155 |
+| 59  | 0.004396 | 0.007639 |
+| 60  | 0.004954 | 0.008211 |
+| 61  | 0.005616 | 0.008878 |
+| 62  | 0.006392 | 0.009646 |
+| 63  | 0.007291 | 0.010523 |
+| 64  | 0.008320 | 0.011514 |
+| 65  | 0.009486 | 0.012621 |
+| 66  | 0.010668 | 0.013855 |
+| 67  | 0.011973 | 0.015221 |
+| 68  | 0.013414 | 0.016736 |
+| 69  | 0.015006 | 0.018421 |
+| 70  | 0.016761 | 0.020288 |
+| 71  | 0.018690 | 0.022348 |
+| 72  | 0.020824 | 0.024638 |
+| 73  | 0.023176 | 0.027176 |
+| 74  | 0.025770 | 0.029992 |
+| 75  | 0.028623 | 0.033113 |
+| 76  | 0.031761 | 0.036585 |
+| 77  | 0.035214 | 0.040457 |
+| 78  | 0.039007 | 0.044778 |
+| 79  | 0.043169 | 0.049605 |
+| 80  | 0.047750 | 0.055022 |
+| 81  | 0.049804 | 0.061087 |
+| 82  | 0.053911 | 0.067902 |
+| 83  | 0.060072 | 0.075550 |
+| 84  | 0.068286 | 0.084162 |
+| 85  | 0.078554 | 0.093775 |
+| 86  | 0.090876 | 0.104507 |
+| 87  | 0.105251 | 0.116487 |
+| 88  | 0.121680 | 0.129770 |
+| 89  | 0.140162 | 0.144470 |
+| 90  | 0.160698 | 0.160698 |
+| 91  | 0.177741 | 0.177741 |
+| 92  | 0.195154 | 0.195154 |
+| 93  | 0.212642 | 0.212642 |
+| 94  | 0.230055 | 0.230055 |
+| 95  | 0.247257 | 0.247257 |
+| 96  | 0.265940 | 0.265940 |
+| 97  | 0.284940 | 0.284940 |
+| 98  | 0.304432 | 0.304432 |
+| 99  | 0.324272 | 0.324272 |
+| 100 | 0.344364 | 0.344364 |
+| 101 | 0.364420 | 0.364420 |
+| 102 | 0.384058 | 0.384058 |
+| 103 | 0.403188 | 0.403188 |
+| 104 | 0.421533 | 0.421533 |
+| 105 | 0.438903 | 0.438903 |
+| 106 | 0.455492 | 0.455492 |
+| 107 | 0.470810 | 0.470810 |
+| 108 | 0.484965 | 0.484965 |
+| 109 | 0.498023 | 0.498023 |
+| 110 | 0.509768 | 0.509768 |
+| 111 | 0.512472 | 0.512472 |
+| 112 | 0.509296 | 0.509296 |
+| 113 | 0.506193 | 0.506193 |
+| 114 | 0.503061 | 0.503061 |
+| 115 | 0.500000 | 0.500000 |
+| 116 | 0.500000 | 0.500000 |
+| 117 | 0.500000 | 0.500000 |
+| 118 | 0.500000 | 0.500000 |
+| 119 | 0.500000 | 0.500000 |
+| 120 | 1.000000 | 1.000000 |
+
+(e) *Static tables for 2018.* The following static mortality tables are used pursuant to paragraph (a)(3) of this section for determining present value or making any computation under section 430 with respect to valuation dates occurring during 2018.
+
+| Age | Males    | Females  |
+| --- | -------- | -------- |
+| 0   | 0.002420 | 0.002420 |
+| 1   | 0.000142 | 0.000142 |
+| 2   | 0.000097 | 0.000097 |
+| 3   | 0.000081 | 0.000081 |
+| 4   | 0.000064 | 0.000064 |
+| 5   | 0.000056 | 0.000056 |
+| 6   | 0.000051 | 0.000051 |
+| 7   | 0.000046 | 0.000046 |
+| 8   | 0.000039 | 0.000039 |
+| 9   | 0.000032 | 0.000032 |
+| 10  | 0.000027 | 0.000027 |
+| 11  | 0.000029 | 0.000029 |
+| 12  | 0.000044 | 0.000044 |
+| 13  | 0.000058 | 0.000058 |
+| 14  | 0.000072 | 0.000072 |
+| 15  | 0.000087 | 0.000087 |
+| 16  | 0.000102 | 0.000102 |
+| 17  | 0.000118 | 0.000118 |
+| 18  | 0.000135 | 0.000135 |
+| 19  | 0.000153 | 0.000153 |
+| 20  | 0.000170 | 0.000170 |
+| 21  | 0.000192 | 0.000192 |
+| 22  | 0.000214 | 0.000214 |
+| 23  | 0.000229 | 0.000229 |
+| 24  | 0.000238 | 0.000238 |
+| 25  | 0.000230 | 0.000230 |
+| 26  | 0.000226 | 0.000226 |
+| 27  | 0.000226 | 0.000226 |
+| 28  | 0.000230 | 0.000230 |
+| 29  | 0.000238 | 0.000238 |
+| 30  | 0.000249 | 0.000249 |
+| 31  | 0.000263 | 0.000263 |
+| 32  | 0.000278 | 0.000278 |
+| 33  | 0.000294 | 0.000294 |
+| 34  | 0.000309 | 0.000309 |
+| 35  | 0.000323 | 0.000323 |
+| 36  | 0.000336 | 0.000336 |
+| 37  | 0.000350 | 0.000350 |
+| 38  | 0.000366 | 0.000366 |
+| 39  | 0.000385 | 0.000385 |
+| 40  | 0.000410 | 0.000410 |
+| 41  | 0.000438 | 0.000443 |
+| 42  | 0.000474 | 0.000516 |
+| 43  | 0.000518 | 0.000627 |
+| 44  | 0.000573 | 0.000779 |
+| 45  | 0.000636 | 0.000973 |
+| 46  | 0.000712 | 0.001213 |
+| 47  | 0.000798 | 0.001502 |
+| 48  | 0.000896 | 0.001844 |
+| 49  | 0.001005 | 0.002248 |
+| 50  | 0.001128 | 0.002719 |
+| 51  | 0.001265 | 0.002963 |
+| 52  | 0.001418 | 0.003224 |
+| 53  | 0.001580 | 0.003481 |
+| 54  | 0.001761 | 0.003751 |
+| 55  | 0.001964 | 0.004040 |
+| 56  | 0.002200 | 0.004357 |
+| 57  | 0.002474 | 0.004704 |
+| 58  | 0.002796 | 0.005088 |
+| 59  | 0.003174 | 0.005515 |
+| 60  | 0.003613 | 0.005989 |
+| 61  | 0.004122 | 0.006516 |
+| 62  | 0.004705 | 0.007100 |
+| 63  | 0.005364 | 0.007742 |
+| 64  | 0.006111 | 0.008457 |
+| 65  | 0.006940 | 0.009234 |
+| 66  | 0.007779 | 0.010103 |
+| 67  | 0.008697 | 0.011056 |
+| 68  | 0.009709 | 0.012114 |
+| 69  | 0.010836 | 0.013302 |
+| 70  | 0.012093 | 0.014637 |
+| 71  | 0.013486 | 0.016126 |
+| 72  | 0.015044 | 0.017799 |
+| 73  | 0.016794 | 0.019693 |
+| 74  | 0.018751 | 0.021823 |
+| 75  | 0.020950 | 0.024237 |
+| 76  | 0.023428 | 0.026986 |
+| 77  | 0.026183 | 0.030081 |
+| 78  | 0.029308 | 0.033645 |
+| 79  | 0.032774 | 0.037661 |
+| 80  | 0.036705 | 0.042295 |
+| 81  | 0.038556 | 0.047291 |
+| 82  | 0.042087 | 0.053009 |
+| 83  | 0.047283 | 0.059466 |
+| 84  | 0.054248 | 0.066860 |
+| 85  | 0.062990 | 0.075196 |
+| 86  | 0.073605 | 0.084646 |
+| 87  | 0.086115 | 0.095308 |
+| 88  | 0.100513 | 0.107196 |
+| 89  | 0.116840 | 0.120431 |
+| 90  | 0.135087 | 0.135087 |
+| 91  | 0.150610 | 0.150610 |
+| 92  | 0.166534 | 0.166534 |
+| 93  | 0.182546 | 0.182546 |
+| 94  | 0.198598 | 0.198598 |
+| 95  | 0.214442 | 0.214442 |
+| 96  | 0.232944 | 0.232944 |
+| 97  | 0.251903 | 0.251903 |
+| 98  | 0.271612 | 0.271612 |
+| 99  | 0.291889 | 0.291889 |
+| 100 | 0.312680 | 0.312680 |
+| 101 | 0.333720 | 0.333720 |
+| 102 | 0.354570 | 0.354570 |
+| 103 | 0.375136 | 0.375136 |
+| 104 | 0.395172 | 0.395172 |
+| 105 | 0.413945 | 0.413945 |
+| 106 | 0.432145 | 0.432145 |
+| 107 | 0.449197 | 0.449197 |
+| 108 | 0.465497 | 0.465497 |
+| 109 | 0.480869 | 0.480869 |
+| 110 | 0.495080 | 0.495080 |
+| 111 | 0.500557 | 0.500557 |
+| 112 | 0.500454 | 0.500454 |
+| 113 | 0.500352 | 0.500352 |
+| 114 | 0.500201 | 0.500201 |
+| 115 | 0.500000 | 0.500000 |
+| 116 | 0.500000 | 0.500000 |
+| 117 | 0.500000 | 0.500000 |
+| 118 | 0.500000 | 0.500000 |
+| 119 | 0.500000 | 0.500000 |
+| 120 | 1.000000 | 1.000000 |
+
+(f) *Effective/applicability date*—(1) *In general.* Except as provided in paragraph (f)(2) of this section, this section applies to plan years beginning or after January 1, 2018.
+
+(2) *Option to apply prior regulations in certain circumstances.* For a plan for which substitute mortality tables are not used pursuant to § 1.430(h)(3)-2 for a plan year beginning during 2018, mortality tables determined in accordance with § 1.430(h)(3)-1 as in effect on December 31, 2017 (as contained in 26 CFR part 1 revised April 1, 2017) may be used for purposes of applying the rules of section 430 for a valuation date occurring during 2018 if the plan sponsor—
+
+(i) Concludes that the use of mortality tables determined in accordance with this section for the plan year would be administratively impracticable or would result in an adverse business impact that is greater than *de minimis;* and
+
+(ii) Informs the actuary of the intent to apply the option under this paragraph (f)(2).
+
+\[T.D. 9826, 82 FR 46398, Oct. 5, 2017\]
