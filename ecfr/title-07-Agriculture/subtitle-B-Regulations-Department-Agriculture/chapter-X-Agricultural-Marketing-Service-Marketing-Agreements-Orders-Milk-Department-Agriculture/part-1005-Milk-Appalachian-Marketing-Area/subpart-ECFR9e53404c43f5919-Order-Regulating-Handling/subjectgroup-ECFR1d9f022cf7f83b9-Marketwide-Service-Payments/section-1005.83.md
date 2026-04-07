@@ -1,8 +1,10 @@
-##### § 1007.83 Mileage rate for the transportation credit balancing fund.
+##### § 1005.83 Mileage rate for the transportation credit balancing fund.
 
-(a) The market administrator shall compute the mileage rate each month as follows:
+Link to an amendment published at 89 FR 6404, Feb. 1, 2024.
 
-(1) Compute the simple average rounded to three decimal places for the most recent 4 weeks of the Diesel Price per Gallon as reported by the Energy Information Administration of the United States Department of Energy for the Lower Atlantic and Gulf Coast Districts combined.
+(a) The market administrator shall compute a mileage rate each month as follows:
+
+(1) Compute the simple average rounded to three decimal places for the most recent four (4) weeks of the Diesel Price per Gallon as reported by the Energy Information Administration of the United States Department of Energy for the Lower Atlantic and Gulf Coast Districts combined.
 
 (2) From the result in paragraph (a)(1) in this section subtract $1.42 per gallon;
 
@@ -16,4 +18,4 @@
 
 (b) The market administrator shall announce publicly on or before the 23rd day of the month (except as provided in § 1000.90 of this chapter) the mileage rate pursuant to paragraph (a) of this section for the following month.
 
-\[79 FR 25006, May 2, 2014; 79 FR 26591, May 9, 2014\]
+\[79 FR 25005, May 2, 2014; 79 FR 26591, May 9, 2014\]
