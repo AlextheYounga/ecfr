@@ -1,6 +1,6 @@
 ##### § 22.1 Schedule of fees.
 
-The following table sets forth the fees for the following categories listed on the U.S. Department of State's Schedule of Fees for Consular Services:
+The following table sets forth the fees for the following categories listed on the U.S. Department of State's Schedule of Fees for Consular Services: 
 
 Schedule of Fees for Consular Services
 | Item No.                                                                                                                                                                                                                                                                                                                                          | Fee                                                  |

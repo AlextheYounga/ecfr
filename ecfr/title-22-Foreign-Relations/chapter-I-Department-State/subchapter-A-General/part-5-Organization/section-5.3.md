@@ -1,6 +1,6 @@
 ##### § 5.3 Rules of procedure, description of forms available, or the places at which forms may be obtained.
 
-Rules of procedure regarding the following listed matters may be consulted under the corresponding regulations referenced in § 5.4, or obtained upon application to the offices listed below. Forms pertaining to the following listed matters, and instructions relating thereto may also be obtained at the offices indicated in the following table 1 to § 5.3:
+Rules of procedure regarding the following listed matters may be consulted under the corresponding regulations referenced in § 5.4, or obtained upon application to the offices listed below. Forms pertaining to the following listed matters, and instructions relating thereto may also be obtained at the offices indicated in the following table 1 to § 5.3: 
 
 Table 1 to § 5.3
 | Subject matter                                                                                                                    | Office                                                   | Address                                                                                                                                                                                                                                                                                                         |

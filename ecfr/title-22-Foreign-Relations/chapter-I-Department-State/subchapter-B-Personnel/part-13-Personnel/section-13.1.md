@@ -1,6 +1,6 @@
 ##### § 13.1 Improper exaction of fees.
 
-Any consular officer who collects, or knowingly allows to be collected, for any services any other or greater fees than are allowed by law for such services, shall, besides his or her liability to refund the same, be liable to pay to the person by whom or in whose behalf the same are paid, treble the amount of the unlawful charge so collected, as a penalty. The refund and penalty may be recovered with costs, in any proper form of action, by such person for his or her own use. The amount of such overcharge and penalty may at the discretion of the Secretary of the Treasury be ordered withheld from the compensation of such officer for payment to the person entitled to the same (22 U.S.C. 4209).
+Any consular officer who collects, or knowingly allows to be collected, for any services any other or greater fees than are allowed by law for such services, shall, besides his or her liability to refund the same, be liable to pay to the person by whom or in whose behalf the same are paid, treble the amount of the unlawful charge so collected, as a penalty. The refund and penalty may be recovered with costs, in any proper form of action, by such person for his or her own use. The amount of such overcharge and penalty may at the discretion of the Secretary of the Treasury be ordered withheld from the compensation of such officer for payment to the person entitled to the same (22 U.S.C. 4209). 
 
 Note:
 
