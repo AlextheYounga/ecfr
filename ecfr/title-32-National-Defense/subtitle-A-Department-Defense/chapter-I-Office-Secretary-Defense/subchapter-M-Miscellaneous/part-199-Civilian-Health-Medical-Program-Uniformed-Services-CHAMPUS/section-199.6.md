@@ -156,7 +156,7 @@ Only the Secretary of Defense, the Secretary of Health and Human Services, or th
 
 Note to paragraph (b)(4)(i)(I):
 
-For the duration of Medicare's “Hospitals without Walls” initiative for the coronavirus disease 2019 (COVID-19) outbreak, certain temporary hospitals and freestanding ambulatory surgical centers (ASCs) that enroll with Medicare as hospitals may be temporarily exempt from certain institutional requirements for acute care hospitals in this paragraph 199.6(b)(4)(i), as determined by the Director, Defense Health Agency (DHA), or designee, to ensure access to acute inpatient care during the COVID-19 outbreak.
+For the duration of Medicare's “Hospitals Without Walls” initiative for the coronavirus disease 2019 (COVID-19) outbreak, any entity that temporarily enrolls with Medicare as a hospital may be temporarily exempt from certain institutional requirements for acute care hospitals under TRICARE. To the extent practicable, the Director, Defense Health Agency (DHA), will adopt by administrative policy any process requirement related to Medicare's Hospitals Without Walls initiative.
 
 (ii) *Organ transplant centers.* To obtain TRICARE approval as an organ transplant center, the center must be a Medicare approved transplant center or meet the criteria as established by the Executive Director, TMA, or a designee.
 

@@ -612,6 +612,30 @@ Meaning an extract containing one or more cannabinoids that has been derived fro
 
 7014 
 
+(94) N-Ethylhexedrone (Other names: α-ethylaminohexanophenone; 2-(ethylamino)-1-phenylhexan-1-one)
+
+7246 
+
+(95) alpha-Pyrrolidinohexanophenone (Other names: α-PHP; α-pyrrolidinohexanophenone; 1-phenyl-2-(pyrrolidin-1-yl)hexan-1-one)
+
+7544 
+
+(96) 4-Methyl-alpha-ethylaminopentiophenone (Other names: 4-MEAP; 2-(ethylamino)-1-(4-methylphenyl)pentan-1-one)
+
+7245 
+
+(97) 4′-Methyl-alpha-pyrrolidinohexiophenone (Other names: MPHP; 4′-methyl-alpha-pyrrolidinohexanophenone; 1-(4-methylphenyl)-2-(pyrrolidin-1-yl)hexan-1-one)
+
+7446 
+
+(98) alpha-Pyrrolidinoheptaphenone (Other names: PV8; 1-phenyl-2-(pyrrolidin-1-yl)heptan-1-one)
+
+7548 
+
+(99) 4′-Chloro-alpha-pyrrolidinovalerophenone (Other names: 4-chloro-α-PVP; 4′-chloro-α-pyrrolidinopentiophenone; 1-(4-chlorophenyl)-2-(pyrrolidin-1-yl)pentan-1-one)
+
+7443 
+
 (e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
 (1) gamma-hydroxybutyric acid (some other names include GHB; gamma-hydroxybutyrate; 4-hydroxybutyrate; 4-hydroxybutanoic acid; sodium oxybate; sodium oxybutyrate)
@@ -750,33 +774,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (ii) This definition includes, but is not limited to, the following substances: (A)-(B) \[Reserved\]
 
-(31)-(41) \[Reserved\] 
-
-(42) N-Ethylhexedrone, its optical, positional, and geometric isomers, salts and salts of isomers (Other name: 2-(ethylamino)-1-phenylhexan-1-one)
-
-7246 
-
-(43) alpha-Pyrrolidinohexanophenone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: α-PHP; alpha-pyrrolidinohexiophenone; 1-phenyl-2-(pyrrolidin-1-yl)hexan-1-one)
-
-7544 
-
-(44) 4-Methyl-alpha-ethylaminopentiophenone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 4-MEAP; 2-(ethylamino)-1-(4-methylphenyl)pentan-1-one)
-
-7245 
-
-(45) 4′-Methyl-alpha-pyrrolidinohexiophenone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MPHP; 4′-methyl-alpha-pyrrolidinohexanophenone; 1-(4-methylphenyl)-2-(pyrrolidin-1-yl)hexan-1-one)
-
-7446 
-
-(46) alpha-Pyrrolidinoheptaphenone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: PV8; 1-phenyl-2-(pyrrolidin-1-yl)heptan-1-one)
-
-7548 
-
-(47) 4′-Chloro-alpha-pyrrolidinovalerophenone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 4-chloro-α-PVP; 4′-chloro-alpha-pyrrolidinopentiophenone; 1-(4-chlorophenyl)-2-(pyrrolidin-1-yl)pentan-1-one)
-
-7443 
-
-(48)\[Reserved\] 
+(31)-(48) \[Reserved\] 
 
 (49) 1-(1-(1-(4-bromophenyl)ethyl)piperidin-4-yl)-1,3-dihydro-2H-benzo\[d\]imidazol-2-one, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: brorphine; 1-\[1-\[1-(4-bromophenyl)ethyl\]-4-piperidinyl\]-1,3-dihydro-2H-benzimidazol-2-one)
 
