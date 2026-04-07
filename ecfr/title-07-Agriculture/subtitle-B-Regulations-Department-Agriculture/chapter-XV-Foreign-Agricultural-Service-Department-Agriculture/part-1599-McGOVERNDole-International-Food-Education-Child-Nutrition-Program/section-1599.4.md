@@ -16,9 +16,11 @@
 
 (A) Administrative costs;
 
-(B) Inland and internal transportation, storage and handling (ITSH) costs; and
+(B) Commodity procurement costs, where applicable, for qualified commodities obtained through local or regional procurement;
 
-(C) Activity costs;
+(C) Overland transportation, storage, and handling costs; and
+
+(D) Activity costs;
 
 (ii) Where applicable, how the applicant's indirect cost rate will be applied to each type of expense; and
 
