@@ -1,0 +1,3 @@
+##### § 0.163 Approval by Solicitor General of action on compromise offers in certain cases.
+
+In any Supreme Court case the acceptance, recommendation of acceptance, or rejection, under § 0.160, § 0.161, or § 0.162, of a compromise offer by the Assistant Attorney General concerned, shall have the approval of the Solicitor General. In any case in which the Solicitor General has authorized an appeal to any other court, a compromise offer, or any other action, which would terminate the appeal, shall be accepted or acted upon by the Assistant Attorney General concerned only upon advice from the Solicitor General that the principles of law involved do not require appellate review in that case.

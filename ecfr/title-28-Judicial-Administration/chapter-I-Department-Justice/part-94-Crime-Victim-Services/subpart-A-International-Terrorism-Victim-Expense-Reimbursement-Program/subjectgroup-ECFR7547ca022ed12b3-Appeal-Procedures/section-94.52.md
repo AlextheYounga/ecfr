@@ -1,0 +1,3 @@
+##### § 94.52 Final agency decision.
+
+In cases that are not appealed under § 94.51, the Director's determination pursuant to § 94.24 shall be the final agency decision. In all cases that are appealed, the Assistant Attorney General shall issue a notice of final determination, which shall be the final agency decision, setting forth the findings of fact and conclusions of law supporting his determination.
