@@ -32,7 +32,7 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (B) The total amounts owed to the candidate or political committee in the form of credits, refunds of deposits, returns, or receivables, or a commercially reasonable amount based on the collectibility of those credits, refunds, returns, or receivables; and
 
-(C) The amount of personal loans, as defined in 11 CFR 116.11(b), that in the aggregate exceed $250,000 per election.
+(C) The amount of personal loans, as defined in 11 CFR 116.11(a), that in the aggregate exceed $250,000 per election.
 
 (iii) The amount of the net debts outstanding shall be adjusted as additional funds are received and expenditures are made. The candidate and his or her authorized political committee(s) may accept contributions made after the date of the election if:
 
