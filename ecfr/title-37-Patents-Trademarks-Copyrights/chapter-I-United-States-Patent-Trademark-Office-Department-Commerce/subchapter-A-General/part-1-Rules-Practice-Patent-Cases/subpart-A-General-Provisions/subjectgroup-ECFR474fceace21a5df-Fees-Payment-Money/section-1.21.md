@@ -1,7 +1,5 @@
 ##### § 1.21 Miscellaneous fees and charges.
 
-Link to an amendment published at 88 FR 45086, July 14, 2023.
-
 The Patent and Trademark Office has established the following fees for the services indicated:
 
 (a) Registration of attorneys and agents:
@@ -25,8 +23,6 @@ The Patent and Trademark Office has established the following fees for the servi
 (i) On registration to practice under § 11.6 of this chapter: $210.00
 
 (ii) On grant of limited recognition under § 11.9(b) of this chapter: $210.00
-
-(iii) On change of registration from agent to attorney: $110.00
 
 (3) \[Reserved\]
 
@@ -95,7 +91,6 @@ The Patent and Trademark Office has established the following fees for the servi
 (1) First receipt by the Office of a sequence listing in electronic form ranging in size from 300MB to 800MB (without file compression):
 
 Table 1 to Paragraph (o)(1)
-
 |                                       |          |
 | ------------------------------------- | -------- |
 | By a micro entity (§ 1.29)            | $212.00  |
@@ -105,7 +100,6 @@ Table 1 to Paragraph (o)(1)
 (2) First receipt by the Office of a sequence listing in electronic form exceeding 800MB in size (without file compression):
 
 Table 2 to Paragraph (o)(2)
-
 |                                       |           |
 | ------------------------------------- | --------- |
 | By a micro entity (§ 1.29)            | $2,100.00 |
@@ -116,4 +110,4 @@ Table 2 to Paragraph (o)(2)
 
 (q) Additional fee for expedited service: $170.00
 
-\[82 FR 52815, Nov. 14, 2017, as amended at 85 FR 46989, Aug. 3, 2020, 85 FR 58283, Sept. 18, 2020; 86 FR 28451, May 26, 2021; 88 FR 17157, Mar. 22, 2023\]
+\[82 FR 52815, Nov. 14, 2017, as amended at 85 FR 46989, Aug. 3, 2020, 85 FR 58283, Sept. 18, 2020; 86 FR 28451, May 26, 2021; 88 FR 17157, Mar. 22, 2023; 88 FR 45086, July 14, 2023\]
