@@ -1,4 +1,4 @@
-##### § 1427.105 Payment.
+##### § 870.9 Payment.
 
 (a) The payment rate for purposes of calculating payments as specified in this subpart is 3 cents per pound.
 
@@ -15,5 +15,3 @@
 (d) Payments specified in this subpart will be made available upon application for payment and submission of supporting documentation, as required by the CCC-issued provisions of the Upland Cotton Domestic User Agreement.
 
 (e) All payments received by the eligible domestic user of upland cotton must be used for purposes specified in 7 U.S.C. 9037(c)(3), which include but are not limited to, acquisition, construction, installation, modernization, development, conversion, or expansion of land, plant, buildings, equipment, facilities, or machinery. Such capital expenditures must be directly attributable and certified as such by the user for the purpose of manufacturing upland cotton into eligible cotton products in the United States.
-
-\[73 FR 65723, Nov. 5, 2008, as amended at 75 FR 50849, Aug. 18, 2010; 80 FR 136, Jan. 2, 2015\]

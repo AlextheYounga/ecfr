@@ -1,4 +1,4 @@
-##### § 1427.101 Eligible upland cotton.
+##### § 870.3 Eligible upland cotton.
 
 (a) For purposes of this subpart, eligible upland cotton is baled upland cotton, regardless of origin, that is opened by an eligible domestic user, and is either:
 
@@ -17,5 +17,3 @@
 (2) Raw (unprocessed) motes, pills, linters, or other derivatives of the lint cleaning process; or
 
 (3) Textile mill wastes.
-
-\[73 FR 65723, Nov. 5, 2008, as amended at 80 FR 136, Jan. 2, 2015\]

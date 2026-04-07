@@ -500,7 +500,7 @@
 
 (p) *Separate category of foreign currency gain or loss.* Foreign currency gain or loss recognized under section 986(c) with respect to a distribution of previously taxed earnings and profits (as described in section 959 or 1293(c)) is assigned to the separate category or categories of the previously taxed earnings and profits from which the distribution is made. See § 1.987-6(b) for rules on assigning section 987 gain or loss on a remittance from a section 987 QBU to a separate category or categories.
 
-(q) *Applicability date.* (1) Except as provided in paragraph (q)(2) and (3) of this section, this section applies for taxable years that both begin after December 31, 2017, and end on or after December 4, 2018.
+(q) *Applicability date.* (1) Except as provided in paragraph (q)(2) of this section, this section applies for taxable years that both begin after December 31, 2017, and end on or after December 4, 2018.
 
 (2) Paragraphs (c)(7)(i) and (iii) and (c)(8)(v) through (viii) apply to taxable years ending on or after December 16, 2019. For taxable years that both begin after December 31, 2017, and end on or after December 4, 2018, and also end before December 16, 2019, see § 1.904-4(c)(7)(i) and (iii) as in effect on December 17, 2019.
 
