@@ -12,7 +12,7 @@ For ADP equipment and services acquired by a State without prior approval, which
 
 (3) The request was not previously denied by HHS;
 
-(4) The acquisition must otherwise meet all other applicable Federal and State requirements, and would have been approved under part 95, Subpart F had the State requested in a record, prior approval;
+(4) The acquisition must otherwise meet all other applicable Federal and State requirements, and would have been approved under part 95, subpart F had the State requested in a record, prior approval;
 
 (5) The State must not have a record of recurrent failures, under any of the programs covered by the prior approval regulations, to comply with the requirement to obtain prior approval in a record, of its automatic data processing acquisitions (i.e., submissions under these procedures, from States that have failed in the past to acquire prior approval which is reflected in a record, in accordance with part 95, subpart F, may be denied);
 
