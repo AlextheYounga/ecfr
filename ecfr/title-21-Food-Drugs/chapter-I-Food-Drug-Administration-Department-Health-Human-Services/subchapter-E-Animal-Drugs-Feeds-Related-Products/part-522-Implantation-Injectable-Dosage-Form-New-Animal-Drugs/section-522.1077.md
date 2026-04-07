@@ -34,7 +34,7 @@
 
 (2) Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(e) *Conditions of use in cattle* - (1) *Indications for use and amounts* - (i) For the treatment of ovarian follicular cysts in dairy cattle: Administer 86 µg gonadorelin (No. 000061) or 100 µg gonadorelin diacetate tetrahydrate (Nos. 000010 and 061133) by intramuscular or intravenous injection.
+(e) *Conditions of use in cattle* - (1) *Indications for use and amounts.* (i) For the treatment of ovarian follicular cysts in dairy cattle: Administer 86 µg gonadorelin (No. 000061) or 100 µg gonadorelin diacetate tetrahydrate (Nos. 000010 and 061133) by intramuscular or intravenous injection.
 
 (ii) For the treatment of ovarian follicular cysts in cattle: Administer 100 µg gonadorelin hydrochloride by intramuscular injection.
 

@@ -1462,7 +1462,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Wailuku              | 7, \*10, 12, 16, 21, 24                             |
 | Waimanalo            | 15                                                  |
 | IDAHO                |                                                     |
-| Boise                | 7, 9, \*21, 39                                      |
+| Boise                | 7, 20, \*21, 39                                     |
 | Caldwell             | 10                                                  |
 | Coeur d'Alene        | \*45                                                |
 | Filer                | \*18                                                |
