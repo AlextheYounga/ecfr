@@ -1,7 +1,5 @@
 ##### § 165.1191 Northern California and Lake Tahoe Area Annual Fireworks Events.
 
-Link to an amendment published at 82 FR 15636, Mar. 30, 2017.
-
 (a) *General.* Safety zones are established for the events listed in Table 1 of this section. Further information on exact dates, times, and other details concerning the exact geographical description of the areas are published by the Eleventh Coast Guard District in the Local Notice to Mariners at least 20 days prior to the event.
 
 (b) *Regulations.* All persons and vessels not registered with the sponsor as participants or as official patrol vessels are considered spectators. The “official patrol” consists of any Coast Guard; other Federal, state, or local law enforcement; and any public or sponsor-provided vessels assigned or approved by the cognizant Coast Guard Sector Commander to patrol each event.
@@ -42,27 +40,7 @@ Regulated Area
 
 100-foot radius around the fireworks launch barge during the loading of pyrotechnics aboard the fireworks barge and during the transit of the fireworks barge from the loading location to the display location. Increases to a 700-foot radius upon commencement of the fireworks display. 
 
-2\. KFOG KaBoom
-
-Sponsor
-
-KFOG Radio, San Francisco, CA. 
-
-Event Description
-
-Fireworks Display. 
-
-Date
-
-Second or Third Saturday in May. 
-
-Location
-
-1,200 feet off Candlestick Point, San Francisco, CA. 
-
-Regulated Area
-
-100-foot radius around the fireworks launch barge during the loading of pyrotechnics aboard the fireworks barge and during the transit of the fireworks barge from the loading location to the display location. Increases to a 1,000-foot radius upon commencement of the fireworks display. 
+2\. \[Reserved\]
 
 3\. Fourth of July Fireworks, City of Eureka
 
@@ -208,7 +186,7 @@ Regulated Area
 
 Sponsor
 
-City of Richmond. 
+Various Sponsors. 
 
 Event Description
 
@@ -220,11 +198,11 @@ Week of July 4th.
 
 Location
 
-Richmond Harbor, Richmond, CA. 
+A barge located in Richmond Harbor in approximate position 37°54′40″ N., 122°21′05″ W., Richmond, CA. 
 
 Regulated Area
 
-The area of navigable waters within a 560-foot radius of the launch platform located at Lucretia Edwards Park. 
+100-foot radius around the fireworks barge during the loading, transit, setup, and until the commencement of the scheduled display. Increases to a 560-foot radius upon commencement of the fireworks display. 
 
 10\. Fourth of July Fireworks, City of Sausalito
 
@@ -620,6 +598,72 @@ Near Lover's Point Park in Pacific Grove, CA.
 
 Regulated Area
 
-The area of navigable waters within a 490-foot radius of the launch platform located on the beach near Lover's Point Park in approximate position 36°37′26″ N, 121°54′54″ W.
+The area of navigable waters within a 490-foot radius of the launch platform located on the beach near Lover's Point Park in approximate position 36°37′26″ N, 121°54′54″ W. 
 
-\[USCG-2009-0559, 76 FR 50675, Aug. 16, 2011, as amended by USCG-2013-0362, 79 FR 9093, Feb. 18, 2014; USCG-2016-0154, 81 FR 70943, Oct. 14, 2016\]
+28\. Execpro Services Fourth of July Fireworks
+
+Sponsor
+
+Execpro Services Inc. 
+
+Event Description
+
+Fireworks Display. 
+
+Date
+
+Week of July 4th. 
+
+Location
+
+Off-shore from Incline Village, NV. 
+
+Regulated Area
+
+100-foot radius around the fireworks barge during the loading, transit, setup, and until the commencement of the scheduled display. Increases to a 1,000-foot radius upon commencement of the fireworks display. 
+
+29\. Monte Foundation Fireworks, Lake Tahoe
+
+Sponsor
+
+Monte Foundation. 
+
+Event Description
+
+Fireworks Display. 
+
+Date
+
+Week of Labor Day. 
+
+Location
+
+Carnelian Bay, Lake Tahoe, CA. 
+
+Regulated Area
+
+100-foot radius around the fireworks barge during the loading, transit, setup, and until the commencement of the scheduled display. Increases to a 1,000-foot radius upon commencement of the fireworks display. 
+
+30\. Sausalito Lighted Boat Parade Fireworks
+
+Sponsor
+
+Various Sponsors. 
+
+Event Description
+
+Fireworks Display. 
+
+Date
+
+A Saturday or Sunday in December. 
+
+Location
+
+Off-shore from Sausalito Point, Sausalito, CA. 
+
+Regulated Area
+
+100-foot radius around the fireworks barge during the loading, transit, setup, and until the commencement of the scheduled display. Increases to a 1,000-foot radius upon commencement of the fireworks display.
+
+\[USCG-2009-0559, 76 FR 50675, Aug. 16, 2011, as amended by USCG-2013-0362, 79 FR 9093, Feb. 18, 2014; USCG-2016-0154, 81 FR 70943, Oct. 14, 2016; USCG-2016-0836, 82 FR 15636, Mar. 30, 2017\]

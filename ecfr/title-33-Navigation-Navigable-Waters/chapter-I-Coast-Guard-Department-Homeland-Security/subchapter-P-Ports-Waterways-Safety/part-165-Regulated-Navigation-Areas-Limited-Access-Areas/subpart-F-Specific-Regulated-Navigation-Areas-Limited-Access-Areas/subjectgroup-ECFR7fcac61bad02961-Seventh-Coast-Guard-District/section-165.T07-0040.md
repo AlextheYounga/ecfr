@@ -1,4 +1,4 @@
-##### § 165.T07-0040, Safety Zone; Cooper River Bridge Run, Charleston, SC.
+##### § 165.T07-0040 Safety Zone; Cooper River Bridge Run, Charleston, SC.
 
 (a) *Regulated area.* The rule establishes a safety zone on certain waters of the Cooper River, and Town Creek Reaches, South Carolina. The safety zone will consist of a regulated area which will be enforced from 7:30 a.m. until 10:30 a.m. on March 28, 2015. The safety zone would create a regulated area that will encompass a portion of the waterway. All waters of the Cooper River, and Town Creek Reaches encompassed within the following points: 32°48′32″ N./079°56′08″ W., 32°48′20″ N./079°54′20″ W., 32°47′20″ N./079°54′29″ W., 32°47′20″ N./079°55′28″ W. All coordinates are North American Datum 1983.
 
