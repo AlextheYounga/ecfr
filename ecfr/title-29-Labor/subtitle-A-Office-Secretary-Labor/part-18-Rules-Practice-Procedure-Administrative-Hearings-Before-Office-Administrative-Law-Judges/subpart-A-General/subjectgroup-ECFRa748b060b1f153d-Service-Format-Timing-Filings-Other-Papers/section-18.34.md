@@ -1,7 +1,5 @@
 ##### § 18.34 Format of papers filed.
 
-Link to an amendment published at 86 FR 1805, Jan. 11, 2021.
-
 Every paper filed must be printed in black ink on 8.5 × 11-inch opaque white paper and begin with a caption that includes:
 
 (a) The parties' names,
