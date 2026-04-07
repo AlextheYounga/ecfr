@@ -1,7 +1,5 @@
 ##### § 73.6026 Broadcast regulations applicable to Class A television stations.
 
-##### § 73.6026 Broadcast regulations applicable to Class A television stations.
-
 The following rules are applicable to Class A television stations:
 
 (a) Section 73.603 Numerical designation of television channels.
