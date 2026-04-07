@@ -1,6 +1,6 @@
 ##### § 29.3153 Leaf (B Group).
 
-This group consists of leaves normally grown above the midpoint of the stalk. Cured leaves from the upper stalk position have a tendency to fold, concealing the face of the leaf and exposing the stem or midrib. These leaves have a pointed tip and generally are medium to heavy in body. They are narrower in relation to their length than corresponding qualities of the C Group.
+This group consists of leaves normally grown above the midpoint of the stalk. Cured leaves from the upper stalk position have a tendency to fold, concealing the face of the leaf and exposing the stem or midrib. These leaves have a pointed tip and generally are medium to heavy in body. They are narrower in relation to their length than corresponding qualities of the C Group. 
 
 | Grades | Grade names and specifications                                                                                                                                                                              |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

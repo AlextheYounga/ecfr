@@ -94,6 +94,6 @@
 1 Grade of Scrap
 |  | S |  |
 
-Special factors “U” (unsound), “W” (doubtful-keeping order), “S” (strip), and “M” (mixed) may be applied to all grades. The special factors “dirt” or “sand” may be applied to any grade in the Primings group, including first quality Nondescript from the Primings group. Tobacco not covered by the standard grades is designated “No-G,” “No-G-F,” or “No-G-Nested.”
+Special factors “U” (unsound), “W” (doubtful-keeping order), “S” (strip), and “M” (mixed) may be applied to all grades. The special factors “dirt” or “sand” may be applied to any grade in the Primings group, including first quality Nondescript from the Primings group. Tobacco not covered by the standard grades is designated “No-G,” “No-G-F,” or “No-G-Nested.” 
 
 \[48 FR 29671, June 28, 1983, as amended at 49 FR 16756, Apr. 20, 1984; 51 FR 25028, July 10, 1986; 52 FR 28534, July 31, 1987; 60 FR 36028, July 13, 1995\]

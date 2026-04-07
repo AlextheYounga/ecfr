@@ -1,6 +1,6 @@
 ##### § 29.3651 Nondescript (N Group).
 
-Extremely common tobacco which does not meet the minimum specifications or which exceeds the tolerance of the lower grade of any other group except Scrap.
+Extremely common tobacco which does not meet the minimum specifications or which exceeds the tolerance of the lower grade of any other group except Scrap. 
 
 | Grades | Grade names, minimum specifications, and tolerances       |
 | ------ | --------------------------------------------------------- |

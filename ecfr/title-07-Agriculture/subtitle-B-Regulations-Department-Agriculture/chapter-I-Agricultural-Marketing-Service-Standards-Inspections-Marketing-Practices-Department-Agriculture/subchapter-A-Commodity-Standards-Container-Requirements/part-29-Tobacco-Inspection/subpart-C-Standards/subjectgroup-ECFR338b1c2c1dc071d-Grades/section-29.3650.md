@@ -1,6 +1,6 @@
 ##### § 29.3650 Lugs (X Group).
 
-This group consists of leaves that normally grow on the lower portions of the stalk. Leaves of the X group usually have a high degree of maturity and show ground and other injury characteristic of the group.
+This group consists of leaves that normally grow on the lower portions of the stalk. Leaves of the X group usually have a high degree of maturity and show ground and other injury characteristic of the group. 
 
 | Grades | Grade names, minimum specifications, and tolerances                                                                                                                            |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

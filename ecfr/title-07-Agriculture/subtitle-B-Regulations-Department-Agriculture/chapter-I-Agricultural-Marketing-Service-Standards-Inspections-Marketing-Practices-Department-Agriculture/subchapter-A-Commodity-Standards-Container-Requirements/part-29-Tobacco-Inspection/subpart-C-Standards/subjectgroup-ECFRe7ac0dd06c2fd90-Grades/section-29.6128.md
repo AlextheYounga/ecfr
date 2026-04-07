@@ -1,6 +1,6 @@
 ##### § 29.6128 Straight Stripped (X Group).
 
-This group consists of unsorted tobacco from which the trash has been removed.
+This group consists of unsorted tobacco from which the trash has been removed. 
 
 | U.S. grades | Grade names, minimum specifications, and tolerances                                                                                                                                                                     |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

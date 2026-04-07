@@ -1,6 +1,6 @@
 ##### § 29.3646 Wrappers (A Group).
 
-This group consists of leaves from the Heavy Leaf and the Thin Leaf groups. Cured leaves of the A group are very elastic, have small- to medium-sized and blending fibers, and show a low percentage of injury affecting wrapper yield.
+This group consists of leaves from the Heavy Leaf and the Thin Leaf groups. Cured leaves of the A group are very elastic, have small- to medium-sized and blending fibers, and show a low percentage of injury affecting wrapper yield. 
 
 | Grades | Grade names, minimum specifications, and tolerances                                                                                                                  |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

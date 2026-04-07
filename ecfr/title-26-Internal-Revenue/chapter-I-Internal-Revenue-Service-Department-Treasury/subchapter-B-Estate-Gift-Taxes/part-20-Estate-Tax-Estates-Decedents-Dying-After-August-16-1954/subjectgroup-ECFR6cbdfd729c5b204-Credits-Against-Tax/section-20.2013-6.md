@@ -1,10 +1,10 @@
 ##### § 20.2013-6 Examples.
 
-The application of §§ 20.2013-1 to 20.2013-5 may be further illustrated by the following examples: 
+The application of §§ 20.2013-1 to 20.2013-5 may be further illustrated by the following examples:
 
 Example (1).(a) A died December 1, 1953, leaving a gross estate of $1,000,000. Expenses, indebtedness, etc., amounted to $90,000. A bequeathed $200,000 to B, his wife, $100,000 of which qualified for the marital deduction. B died November 1, 1954, leaving a gross estate of $500,000. Expenses, indebtedness, etc., amounted to $40,000. B bequeathed $150,000 to charity. A and B were both citizens of the United States. The estates of A and B both paid State death taxes equal to the maximum credit allowable for State death taxes. Death taxes were not a charge on the bequest to B.
 
-(b) “First limitation” on credit for B's estate (§ 20.2013-2): 
+(b) “First limitation” on credit for B's estate (§ 20.2013-2):
 
 | A's gross estate                                                                                                                                                           | $1,000,000.00 |            |
 | Expenses, indebtedness, etc.                                                                                                                                               | 90,000.00     |            |
@@ -20,7 +20,7 @@ Example (1).(a) A died December 1, 1953, leaving a gross estate of $1,000,000. E
 
 (c) “Second limitation” on credit for B's estate (§ 20.2013-3):
 
-(1) B's net estate tax payable as described in § 20.2013-3(a)(1) (previously taxed transfer included): 
+(1) B's net estate tax payable as described in § 20.2013-3(a)(1) (previously taxed transfer included):
 
 | B's gross estate             | $500,000.00 |            |
 | Expenses, indebtedness, etc. | $40,000.00  |            |
@@ -56,13 +56,13 @@ Example (1).(a) A died December 1, 1953, leaving a gross estate of $1,000,000. E
 
 Example (2).(a) The facts are the same as those contained in example (1) of this paragraph with the following additions. C died December 1, 1950, leaving a gross estate of $250,000. Expenses, indebtedness, etc., amounted to $50,000. C bequeathed $50,000 to B. C was a citizen of the United States. His estate paid State death taxes equal to the maximum credit allowable for State death taxes. Death taxes were not a charge on the bequest to B.
 
-(b) “First limitation” on credit for B's estate (§ 20.2013-2(d))− 
+(b) “First limitation” on credit for B's estate (§ 20.2013-2(d))−
 
-(1) With respect to the property received from A: 
+(1) With respect to the property received from A:
 
-“First limitation” = $36,393.90 (this computation is identical with the one contained in paragraph (b) of example (1) of this section). 
+“First limitation” = $36,393.90 (this computation is identical with the one contained in paragraph (b) of example (1) of this section).
 
-(2) With respect to the property received from C: 
+(2) With respect to the property received from C:
 
 | C's gross estate                                                                                                                                       |            | $250,000.00 |
 | Expenses, indebtedness, etc.                                                                                                                           | $50,000.00 |             |
@@ -76,9 +76,9 @@ Example (2).(a) The facts are the same as those contained in example (1) of this
 
 (c) “Second limitation” on credit for B's estate (§ 20.2013-3(c)):
 
-(1) B's net estate tax payable as described in § 20.2013-3(a)(1) (previously taxed transfers included) = $61,780.00 (this computation is identical with the one contained in paragraph (c)(1) of example (1) of this section). 
+(1) B's net estate tax payable as described in § 20.2013-3(a)(1) (previously taxed transfers included) = $61,780.00 (this computation is identical with the one contained in paragraph (c)(1) of example (1) of this section).
 
-(2) B's net estate tax payable as described in § 20.2013-3(a)(2) (previously taxed transfers excluded): 
+(2) B's net estate tax payable as described in § 20.2013-3(a)(2) (previously taxed transfers excluded):
 
 | B's gross estate                                                                                                                              | $350,000.00 |            |
 | Expenses, indebtedness, etc                                                                                                                   | $40,000.00  |            |

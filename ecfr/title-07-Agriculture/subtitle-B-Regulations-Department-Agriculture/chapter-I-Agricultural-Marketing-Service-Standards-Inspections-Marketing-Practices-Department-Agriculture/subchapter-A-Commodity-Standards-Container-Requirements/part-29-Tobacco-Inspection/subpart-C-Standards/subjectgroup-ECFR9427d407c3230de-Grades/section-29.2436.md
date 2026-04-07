@@ -1,6 +1,6 @@
 ##### § 29.2436 Wrappers (A Group).
 
-This group consists of leaves usually grown at or above the center portion of the stalk. Cured leaves of the A group show a low percentage of injury affecting wrapper yield. Wrappers are high in oil, very elastic, and have a smooth leaf surface.
+This group consists of leaves usually grown at or above the center portion of the stalk. Cured leaves of the A group show a low percentage of injury affecting wrapper yield. Wrappers are high in oil, very elastic, and have a smooth leaf surface. 
 
 | U.S. grades | Grade names and specifications                                                                                                                           |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
