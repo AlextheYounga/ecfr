@@ -346,6 +346,28 @@ Mission Bay, San Diego, CA.
 
 Regulated Area
 
-Mission Bay, De Anza Cove, and North Pacific Passage.
+Mission Bay, De Anza Cove, and North Pacific Passage. 
 
-\[USCG-2013-0361, 79 FR 6459, Feb. 4, 2014, as amended by USCG-2018-0533, 85 FR 8172, Feb. 13, 2020\]
+16\. Swim for Special Operations Forces; San Diego Bay, San Diego, CA
+
+Sponsor
+
+The Honor Foundation. 
+
+Event Description
+
+Swim race. 
+
+Date
+
+Saturday in September. 
+
+Location
+
+San Diego Bay, CA. 
+
+Regulated Area
+
+All waters of San Diego Bay, from surface to bottom, beginning at Glorietta Bay, continuing to Tidelands Park, proceeding north along the Coronado shoreline, crossing the federal navigable channel at Bayview Park, and finishing at the USS MIDWAY Museum. 
+
+\[USCG-2013-0361, 79 FR 6459, Feb. 4, 2014, as amended by USCG-2018-0533, 85 FR 8172, Feb. 13, 2020; USCG-2021-0426, 86 FR 49236, Sept. 2, 2021\]
