@@ -1,5 +1,7 @@
 ##### § 412.86 Payment for extraordinarily high-cost day outliers.
 
+Link to an amendment published at 85 FR 59020, Sept. 18, 2020.
+
 For discharges occurring before October 1, 1997, if a discharge that qualifies for an additional payment under the provisions of § 412.82 has charges adjusted to costs that exceed the cost outlier threshold criteria for an extraordinarily high-cost case as set forth in § 412.80(a)(1)(ii), the additional payment made for the discharge is the greater of -
 
 (a) The applicable per diem payment computed under § 412.82 (c) or (d); or

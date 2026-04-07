@@ -1,4 +1,4 @@
-##### § 165.1414 Safety Zone; Pacific Ocean, Kilauea Lava Flow Ocean Entry on Southeast Side of Island of Hawaii, HI.
+##### § 165.1415 Safety Zone; Pacific Ocean, Kilauea Lava Flow Ocean Entry on Southeast Side of Island of Hawaii, HI.
 
 (a) *Location.* The safety zone area is located within the Captain of the Port (COTP) Honolulu Zone (See 33 CFR 3.70-10) and encompasses all primary areas from the surface of the water to the ocean floor at the Kilauea active lava flow entry into the Pacific Ocean on the southeast side of the Island of Hawaii, HI. The entry point of the lava may change based on flow. The safety zone encompasses all waters extending 300 meters (984 feet) in all directions around entry points of lava flow into the ocean associated with the Kilauea active lava flow.
 
@@ -18,4 +18,4 @@
 
 (6) The Coast Guard may be assisted in the patrol and enforcement of the safety zone by Federal, State, and local agencies.
 
-\[USCG-2017-0234, 83 FR 21882, May 11, 2018\]
+\[USCG-2017-0234, 83 FR 21882, May 11, 2018. Redesignated as § 165.1415 by USCG-2020-0304, 85 FR 58280, Sept. 18, 2020\]

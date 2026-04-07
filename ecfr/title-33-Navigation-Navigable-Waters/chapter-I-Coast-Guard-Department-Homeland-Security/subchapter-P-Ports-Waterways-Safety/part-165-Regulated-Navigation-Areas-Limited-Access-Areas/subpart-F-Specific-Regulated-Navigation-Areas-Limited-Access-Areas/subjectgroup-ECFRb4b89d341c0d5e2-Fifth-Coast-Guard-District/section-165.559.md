@@ -1,4 +1,4 @@
-##### § 165.784 Safety Zone, Schuylkill River; Philadelphia, PA
+##### § 165.559 Safety Zone, Schuylkill River; Philadelphia, PA
 
 (a) *Location.* The following area is a safety zone: All waters of the Schuylkill River in Philadelphia, PA, inside a boundary described as originating from 39°54′50″ N., 075°12′12″ W.; then West to 39°54′50″ N., 075°12′15″ W.; then Northeast to 39°55′10″ N., 075°12′05″ W.; the East to 39°55′10″ N., 075°12′04″ W.; then back to 39°54′50″ N., 075°12′12″ W.
 
@@ -36,4 +36,4 @@
 
 (e) *Enforcement.* The U.S. Coast Guard may be assisted in the patrol and enforcement of the Safety Zone by Federal, State, and local agencies.
 
-\[USCG-2015-0094, 80 FR 52626, Sept. 1, 2015\]
+\[USCG-2015-0094, 80 FR 52626, Sept. 1, 2015. Redesignated as § 165.559 by USCG-2020-0304, 85 FR 58281, Sept. 18, 2020\]
