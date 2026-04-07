@@ -1,21 +1,23 @@
 ##### § 64.6302 Caller ID authentication by intermediate providers.
 
-Not later than June 30, 2021, each intermediate provider shall fully implement the STIR/SHAKEN authentication framework in its internet Protocol networks. To fulfill this obligation, an intermediate provider shall: 
+Link to an amendment published at 90 FR 40255, Aug. 19, 2025.
 
-(a) Pass unaltered to the subsequent intermediate provider or voice service provider in the call path any authenticated caller identification information it receives with a SIP call, subject to the following exceptions under which it may remove the authenticated caller identification information: 
+Not later than June 30, 2021, each intermediate provider shall fully implement the STIR/SHAKEN authentication framework in its internet Protocol networks. To fulfill this obligation, an intermediate provider shall:
 
-(1) Where necessary for technical reasons to complete the call; or 
+(a) Pass unaltered to the subsequent intermediate provider or voice service provider in the call path any authenticated caller identification information it receives with a SIP call, subject to the following exceptions under which it may remove the authenticated caller identification information:
 
-(2) Where the intermediate provider reasonably believes the caller identification authentication information presents an imminent threat to its network security; and 
+(1) Where necessary for technical reasons to complete the call; or
 
-(b) Authenticate caller identification information for all calls it receives for which the caller identification information has not been authenticated and which it will exchange with another provider as a SIP call, except that the intermediate provider is excused from such duty to authenticate if it: 
+(2) Where the intermediate provider reasonably believes the caller identification authentication information presents an imminent threat to its network security; and
 
-(1) Cooperatively participates with the industry traceback consortium; and 
+(b) Authenticate caller identification information for all calls it receives for which the caller identification information has not been authenticated and which it will exchange with another provider as a SIP call, except that the intermediate provider is excused from such duty to authenticate if it:
 
-(2) Responds fully and in a timely manner to all traceback requests it receives from the Commission, law enforcement, and the industry traceback consortium regarding calls for which it acts as an intermediate provider. 
+(1) Cooperatively participates with the industry traceback consortium; and
 
-(c) Notwithstanding paragraph (b) of this section, a gateway provider must, not later than June 30, 2023, authenticate caller identification information for all calls it receives that use North American Numbering Plan resources that pertain to the United States in the caller ID field and for which the caller identification information has not been authenticated and which it will exchange with another provider as a SIP call, unless that gateway provider is subject to an applicable extension in § 64.6304. 
+(2) Responds fully and in a timely manner to all traceback requests it receives from the Commission, law enforcement, and the industry traceback consortium regarding calls for which it acts as an intermediate provider.
 
-(d) Notwithstanding paragraph (b) of this section, a non-gateway intermediate provider must, not later than December 31, 2023, authenticate caller identification information for all calls it receives directly from an originating provider and for which the caller identification information has not been authenticated and which it will exchange with another provider as a SIP call, unless that non-gateway intermediate provider is subject to an applicable extension in § 64.6304. 
+(c) Notwithstanding paragraph (b) of this section, a gateway provider must, not later than June 30, 2023, authenticate caller identification information for all calls it receives that use North American Numbering Plan resources that pertain to the United States in the caller ID field and for which the caller identification information has not been authenticated and which it will exchange with another provider as a SIP call, unless that gateway provider is subject to an applicable extension in § 64.6304.
+
+(d) Notwithstanding paragraph (b) of this section, a non-gateway intermediate provider must, not later than December 31, 2023, authenticate caller identification information for all calls it receives directly from an originating provider and for which the caller identification information has not been authenticated and which it will exchange with another provider as a SIP call, unless that non-gateway intermediate provider is subject to an applicable extension in § 64.6304.
 
 \[85 FR 73395, Nov. 17, 2020, as amended at 87 FR 42946, July 18, 2022; 88 FR 40118, June 21, 2023\]
