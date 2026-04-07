@@ -26,7 +26,7 @@
 
 (F) Ammunition.
 
-(b) Use the provision at 252.225-7010, Commercial Derivative Military Article—Specialty Metals Compliance Certificate, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services —
+(b) Use the provision at 252.225-7010, Commercial Derivative Military Article—Specialty Metals Compliance Certificate, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services—
 
 (1) That contain the clause at 252.225-7009; and
 

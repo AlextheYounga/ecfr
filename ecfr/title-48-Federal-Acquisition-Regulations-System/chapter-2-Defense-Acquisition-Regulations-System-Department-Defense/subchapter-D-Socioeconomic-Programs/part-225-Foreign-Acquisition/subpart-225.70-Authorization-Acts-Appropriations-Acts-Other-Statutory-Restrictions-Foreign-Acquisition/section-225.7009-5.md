@@ -2,7 +2,7 @@
 
 Use the clause at 252.225-7016, Restriction on Acquisition of Ball and Roller Bearings, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, unless—
 
-(a) The items being acquired are commercial products and commercial services other than ball or roller bearings acquired as end items;
+(a) The items being acquired are commercial products other than ball or roller bearings acquired as end items;
 
 (b) The items being acquired do not contain ball and roller bearings; or
 
