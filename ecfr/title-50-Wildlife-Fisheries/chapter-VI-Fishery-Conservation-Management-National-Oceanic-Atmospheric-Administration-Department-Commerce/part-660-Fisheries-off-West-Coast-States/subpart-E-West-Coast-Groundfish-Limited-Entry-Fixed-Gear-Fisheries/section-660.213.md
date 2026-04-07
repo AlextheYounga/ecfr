@@ -1,5 +1,7 @@
 ##### § 660.213 Fixed gear fishery - recordkeeping and reporting.
 
+Link to an amendment published at 87 FR 77027, Dec. 16, 2022.
+
 (a) *General.* General reporting requirements specified at § 660.13 (a) through (c), subpart C, apply to limited entry fixed gear fishery vessels.
 
 (b) *Declaration reports for limited entry fixed gear fishery vessels.* Declaration reporting requirements for limited entry fixed gear fishery vessels are specified at § 660.13 (d), subpart C.
