@@ -1,3 +1,3 @@
-##### § 19.210 Scope.
+##### § 19.210 Filing and service of documents.
 
-The Equal Access to Justice Act regulations applicable to formal OCC adjudicatory proceedings under this part are set forth at 31 CFR part 6.
+Any application for an award, or any accompanying documentation related to an application, must be filed and served on all parties to the proceeding in accordance with § 19.11, except as provided in § 19.208(b) for confidential financial information.
