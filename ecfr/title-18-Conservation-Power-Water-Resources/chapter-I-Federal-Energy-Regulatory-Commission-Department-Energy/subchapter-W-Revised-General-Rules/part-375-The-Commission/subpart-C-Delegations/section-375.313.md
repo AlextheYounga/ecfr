@@ -1,4 +1,4 @@
-##### § 375.313 Delegations to the Critical Energy/Electric Infrastructure Information (CEII) Coordinator .
+##### § 375.313 Delegations to the Critical Energy/Electric Infrastructure Information (CEII) Coordinator.
 
 The Commission authorizes the Coordinator or the Coordinator's designee to:
 
