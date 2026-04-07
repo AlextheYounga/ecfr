@@ -11,3 +11,5 @@ All transactions prohibited by this part that are for the conduct of the officia
 (d) The International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies; and
 
 (e) The Global Fund to Fight AIDS, Tuberculosis, and Malaria and the Global Alliance for Vaccines and Immunizations.
+
+Editorial Note:At 87 FR 78502, Dec. 21, 2022, § 588.511 was added; however, § 588.511 already existed so this amendment could not be incorporated.
