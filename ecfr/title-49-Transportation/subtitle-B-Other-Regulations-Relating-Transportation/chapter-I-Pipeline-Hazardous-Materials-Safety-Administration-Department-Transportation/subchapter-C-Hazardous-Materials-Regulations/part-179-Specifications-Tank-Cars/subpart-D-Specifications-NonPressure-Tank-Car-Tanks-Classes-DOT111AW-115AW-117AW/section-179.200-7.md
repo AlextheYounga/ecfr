@@ -1,8 +1,8 @@
 ##### § 179.200-7 Materials.
 
-(a) Plate material used to fabricate the tank and, when used, expansion dome or manway nozzle material, must meet one of the following specifications with the indicated minimum tensile strength and elongation in the welded condition.
+(a) Plate material used to fabricate the tank and, when used, expansion dome or manway nozzle material, must meet one of the following specifications with the indicated minimum tensile strength and elongation in the welded condition. 
 
-(b) *Carbon steel plate:* The maximum allowable carbon content must be 0.31 percent when the individual specification allows carbon content greater than this amount. The plates may be clad with other approved materials:
+(b) *Carbon steel plate:* The maximum allowable carbon content must be 0.31 percent when the individual specification allows carbon content greater than this amount. The plates may be clad with other approved materials: 
 
 | Specifications                                                                           | Minimum tensile strength (p.s.i.) welded condition 1 | Minimum elongation in 2 inches (percent) weld metal (longitudinal) |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------ |
@@ -11,7 +11,7 @@
 | 1 Minimum stresses to be used in calculations.                                           |                                                      |                                                                    |
 | 2 This specification is incorporated by reference (IBR, see § 171.7 of this subchapter). |                                                      |                                                                    |
 
-(c) *Aluminum alloy plate:* Aluminum alloy plate must be suitable for welding and comply with one of the following specifications (IBR, see § 171.7 of this subchapter):
+(c) *Aluminum alloy plate:* Aluminum alloy plate must be suitable for welding and comply with one of the following specifications (IBR, see § 171.7 of this subchapter): 
 
 | Specifications                                                                                                                                       | Minimum tensile strength (p.s.i.) welded condition 3 4 | Minimum elongation in 2 inches (percent) 0 temper weld metal (longitudinal) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@
 | 3 Weld filler metal 5556 must not be used.                                                                                                           |                                                        |                                                                             |
 | 4 Maximum stresses to be used in calculations.                                                                                                       |                                                        |                                                                             |
 
-(d) *High alloy steel plate:* High alloy steel plate must comply with one of the following specifications:
+(d) *High alloy steel plate:* High alloy steel plate must comply with one of the following specifications: 
 
 | Specifications                                                                                                                                                                                                                                                                                                                                                                                                                                   | Minimum tensile strength (p.s.i.) welded condition 1 | Minimum elongation in 2 inches (percent) weld metal (longitudinal) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------------ |
@@ -44,21 +44,21 @@
 | Practice C                                                                                                                                            | Type 304L                      | .0020                 |
 | Type 304L and Type 316L test specimens must be given a sensitizing treatment prior to testing. (A typical sensitizing treatment is 1 hour at 1250 F.) |                                |                       |
 
-(e) *Nickel plate:* Nickel plate must comply with the following specification (IBR, see § 171.7 of this subchapter):
+(e) *Nickel plate:* Nickel plate must comply with the following specification (IBR, see § 171.7 of this subchapter): 
 
 | Specifications | Minimum tensile strength (psi) welded condition 1 | Minimum elongation in 2 inches (percent) weld metal (longitudinal) |
 | -------------- | ------------------------------------------------- | ------------------------------------------------------------------ |
 | ASTM B 162 2   | 40,000                                            | 20                                                                 |
 
-(f) *Manganese-molybdenum steel plate:* Manganese-molybdenum steel plate must be suitable for fusion welding and comply with the following specification (IBR, see § 171.7 of this subchapter):
+(f) *Manganese-molybdenum steel plate:* Manganese-molybdenum steel plate must be suitable for fusion welding and comply with the following specification (IBR, see § 171.7 of this subchapter): 
 
 | Specifications                                 | Minimum tensile strength (p.s.i.) welded condition 1 | Minimum elongation in 2 inches (percent) weld metal (longitudinal) |
 | ---------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------ |
 | ASTM A 302, Gr. B                              | 80,000                                               | 20                                                                 |
 | 1 Maximum stresses to be used in calculations. |                                                      |                                                                    |
 
-(g) All parts and items of construction in contact with the lading must be made of material compatible with plate material and not subject to rapid deterioration by the lading, or be coated or lined with suitable corrosion resistant material.
+(g) All parts and items of construction in contact with the lading must be made of material compatible with plate material and not subject to rapid deterioration by the lading, or be coated or lined with suitable corrosion resistant material. 
 
-(h) All external projections that may be in contact with the lading and all castings, forgings, or fabrications used for fittings or attachments to tank and expansion dome, when used, in contact with lading must be made of material to an approved specification. See AAR Specifications for Tank Cars, appendix M, M4.05 (IBR, see § 171.7 of this subchapter) for approved material specifications for castings for fittings.
+(h) All external projections that may be in contact with the lading and all castings, forgings, or fabrications used for fittings or attachments to tank and expansion dome, when used, in contact with lading must be made of material to an approved specification. See AAR Specifications for Tank Cars, appendix M, M4.05 (IBR, see § 171.7 of this subchapter) for approved material specifications for castings for fittings. 
 
 \[Amdt. 179-10, 36 FR 21349, Nov. 9, 1971; 36 FR 21893, Nov. 17, 1971, as amended by Amdt.179-28, 46 FR 49906, Oct. 8, 1981; Amdt. 179-40, 52 FR 13046, Apr. 20, 1987; Amdt. 179-52, 61 FR 28680, June 5, 1996; 66 FR 45186, Aug. 28, 2001; 67 FR 51660, Aug. 8, 2002; 68 FR 75761, Dec. 31, 2003; 70 FR 34076, June 13, 2005\]

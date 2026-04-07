@@ -1,230 +1,230 @@
 ##### § 1.25E-0 Table of contents.
 
-This section lists the captions contained in §§ 1.25E-1 through 1.25E-3.
+This section lists the captions contained in §§ 1.25E-1 through 1.25E-3. 
 
 § 1.25E-1 Credit for previously-owned clean vehicles.
 
-(a) In general.
+(a) In general. 
 
-(b) Definitions.
+(b) Definitions. 
 
-(1) Advance payment program.
+(1) Advance payment program. 
 
-(2) Credit transfer election.
+(2) Credit transfer election. 
 
-(3) Dealer.
+(3) Dealer. 
 
-(4) Dealer tax compliance.
+(4) Dealer tax compliance. 
 
-(5) Electing taxpayer.
+(5) Electing taxpayer. 
 
-(6) Eligible entity.
+(6) Eligible entity. 
 
-(7) Excessive payment.
+(7) Excessive payment. 
 
-(8) Incentive.
+(8) Incentive. 
 
-(i) For purposes of sale price.
+(i) For purposes of sale price. 
 
-(ii) For purposes of eligible entity requirements.
+(ii) For purposes of eligible entity requirements. 
 
-(9) Modified adjusted gross income.
+(9) Modified adjusted gross income. 
 
-(10) Placed in service.
+(10) Placed in service. 
 
-(11) Previously-owned clean vehicle.
+(11) Previously-owned clean vehicle. 
 
-(12) Qualified buyer.
+(12) Qualified buyer. 
 
-(13) Qualified manufacturer.
+(13) Qualified manufacturer. 
 
-(14) Qualified sale.
+(14) Qualified sale. 
 
-(15) Registered dealer.
+(15) Registered dealer. 
 
-(16) Sale price.
+(16) Sale price. 
 
-(17) Section 25E regulations.
+(17) Section 25E regulations. 
 
-(18) Seller report.
+(18) Seller report. 
 
-(19) Time of sale.
+(19) Time of sale. 
 
-(20) Vehicle history report.
+(20) Vehicle history report. 
 
-(c) Limitation based on modified adjusted gross income.
+(c) Limitation based on modified adjusted gross income. 
 
-(1) In general.
+(1) In general. 
 
-(2) Threshold amount.
+(2) Threshold amount. 
 
-(3) Special rule for change in filing status.
+(3) Special rule for change in filing status. 
 
-(d) Credit may be claimed on only one tax return.
+(d) Credit may be claimed on only one tax return. 
 
-(1) In general.
+(1) In general. 
 
-(2) Seller reporting.
+(2) Seller reporting. 
 
-(e) Examples.
+(e) Examples. 
 
-(1) Example 1: First transfer since enactment of section 25E.
+(1) Example 1: First transfer since enactment of section 25E. 
 
-(2) Example 2: Multiple transfers since enactment of section 25E.
+(2) Example 2: Multiple transfers since enactment of section 25E. 
 
-(3) Example 3: Multiple transfers; commercial purchaser.
+(3) Example 3: Multiple transfers; commercial purchaser. 
 
-(4) Example 4: Multiple transfers; buyer exceeds modified adjusted gross income limitation.
+(4) Example 4: Multiple transfers; buyer exceeds modified adjusted gross income limitation. 
 
-(5) Example 5: Multiple transfers; buyer elects to not take credit.
+(5) Example 5: Multiple transfers; buyer elects to not take credit. 
 
-(6) Example 6: Multiple transfers; sale between dealers.
+(6) Example 6: Multiple transfers; sale between dealers. 
 
-(f) Reliance on vehicle history report for purposes of determining whether sale is a qualified sale.
+(f) Reliance on vehicle history report for purposes of determining whether sale is a qualified sale. 
 
-(g) Severability.
+(g) Severability. 
 
-(h) Applicability date.
+(h) Applicability date. 
 
 § 1.25E-2 Special rules.
 
-(a) In general.
+(a) In general. 
 
-(b) No double benefit.
+(b) No double benefit. 
 
-(1) In general.
+(1) In general. 
 
-(2) Interaction between section 25E and 30D credits.
+(2) Interaction between section 25E and 30D credits. 
 
-(c) Recapture.
+(c) Recapture. 
 
-(1) In general.
+(1) In general. 
 
-(i) Cancelled sale.
+(i) Cancelled sale. 
 
-(ii) Vehicle return.
+(ii) Vehicle return. 
 
-(iii) Resale.
+(iii) Resale. 
 
-(iv) Other returns and resales.
+(iv) Other returns and resales. 
 
-(2) Recapture rules in the case of a credit transfer election.
+(2) Recapture rules in the case of a credit transfer election. 
 
-(3) Example: Vehicle return.
+(3) Example: Vehicle return. 
 
-(d) Branded title.
+(d) Branded title. 
 
-(e) Seller registration.
+(e) Seller registration. 
 
-(f) Requirement to file income tax return.
+(f) Requirement to file income tax return. 
 
-(g) Taxpayer reliance on manufacturer certifications and periodic written reports to IRS.
+(g) Taxpayer reliance on manufacturer certifications and periodic written reports to IRS. 
 
-(h) Severability.
+(h) Severability. 
 
-(i) Applicability date.
+(i) Applicability date. 
 
 § 1.25E-3 Transfer of credit.
 
-(a) In general.
+(a) In general. 
 
-(b) Definitions.
+(b) Definitions. 
 
-(1) Advance payment program.
+(1) Advance payment program. 
 
-(2) Credit transfer election.
+(2) Credit transfer election. 
 
-(3) Dealer tax compliance.
+(3) Dealer tax compliance. 
 
-(4) Electing taxpayer.
+(4) Electing taxpayer. 
 
-(5) Eligible entity.
+(5) Eligible entity. 
 
-(6) Registered dealer.
+(6) Registered dealer. 
 
-(7) Time of sale.
+(7) Time of sale. 
 
-(c) Dealer registration.
+(c) Dealer registration. 
 
-(1) In general.
+(1) In general. 
 
-(2) Dealer tax compliance required.
+(2) Dealer tax compliance required. 
 
-(3) Suspension of registration.
+(3) Suspension of registration. 
 
-(4) Revocation of registration.
+(4) Revocation of registration. 
 
-(d) Credit transfer election by electing taxpayer.
+(d) Credit transfer election by electing taxpayer. 
 
-(e) Federal income tax consequences of credit transfer election.
+(e) Federal income tax consequences of credit transfer election. 
 
-(1) Tax consequences for electing taxpayer.
+(1) Tax consequences for electing taxpayer. 
 
-(2) Tax consequences for eligible entity.
+(2) Tax consequences for eligible entity. 
 
-(3) Form of payment from eligible entity to electing taxpayer.
+(3) Form of payment from eligible entity to electing taxpayer. 
 
-(4) Additional requirements.
+(4) Additional requirements. 
 
-(5) Examples.
+(5) Examples. 
 
-(i) Example 1: Electing taxpayer's regular tax liability less than amount of credit.
+(i) Example 1: Electing taxpayer's regular tax liability less than amount of credit. 
 
-(A) Facts.
+(A) Facts. 
 
-(B) Analysis.
+(B) Analysis. 
 
-(ii) Example 2: Non-cash payment by eligible entity to electing taxpayer.
+(ii) Example 2: Non-cash payment by eligible entity to electing taxpayer. 
 
-(A) Facts.
+(A) Facts. 
 
-(B) Analysis.
+(B) Analysis. 
 
-(iii) Example 3: Eligible entity is a partnership.
+(iii) Example 3: Eligible entity is a partnership. 
 
-(A) Facts.
+(A) Facts. 
 
-(B) Analysis.
+(B) Analysis. 
 
-(f) Advance payments received by eligible entities.
+(f) Advance payments received by eligible entities. 
 
-(1) In general.
+(1) In general. 
 
-(2) Requirements for a registered dealer to become an eligible entity.
+(2) Requirements for a registered dealer to become an eligible entity. 
 
-(g) Increase in tax.
+(g) Increase in tax. 
 
-(1) Recapture if electing taxpayer exceeds modified adjusted gross income limitation.
+(1) Recapture if electing taxpayer exceeds modified adjusted gross income limitation. 
 
-(2) Excessive payments.
+(2) Excessive payments. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Reasonable cause.
+(ii) Reasonable cause. 
 
-(iii) Excessive payment defined.
+(iii) Excessive payment defined. 
 
-(iv) Special rule for cases in which electing taxpayer's modified adjusted gross income exceeds the limitation.
+(iv) Special rule for cases in which electing taxpayer's modified adjusted gross income exceeds the limitation. 
 
-(3) Examples.
+(3) Examples. 
 
-(i) Example 1: Registered dealer is not an eligible entity.
+(i) Example 1: Registered dealer is not an eligible entity. 
 
-(A) Facts.
+(A) Facts. 
 
-(B) Analysis.
+(B) Analysis. 
 
-(ii) Example 2: Incorrect manufacturer certifications.
+(ii) Example 2: Incorrect manufacturer certifications. 
 
-(A) Facts.
+(A) Facts. 
 
-(B) Analysis.
+(B) Analysis. 
 
-(h) Return requirement.
+(h) Return requirement. 
 
-(i) Two credit transfer elections per year.
+(i) Two credit transfer elections per year. 
 
-(j) Severability.
+(j) Severability. 
 
 (k) Applicability date.
 

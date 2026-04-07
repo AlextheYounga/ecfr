@@ -1,22 +1,22 @@
 ##### § 1.7702-2 Attained age of the insured under a life insurance contract.
 
-(a) *In general.* This section provides guidance on determining the attained age of an insured under a contract that is a life insurance contract under the applicable law, for purposes of determining the guideline level premium of the contract under section 7702(c)(4), applying the cash value corridor of section 7702(d) or applying the computational rules of section 7702(e), as applicable.
+(a) *In general.* This section provides guidance on determining the attained age of an insured under a contract that is a life insurance contract under the applicable law, for purposes of determining the guideline level premium of the contract under section 7702(c)(4), applying the cash value corridor of section 7702(d) or applying the computational rules of section 7702(e), as applicable. 
 
-(b) *Contract insuring a single life.* (1) If a contract insures the life of a single individual, either of the following two ages may be treated as the attained age of the insured with respect to that contract—
+(b) *Contract insuring a single life.* (1) If a contract insures the life of a single individual, either of the following two ages may be treated as the attained age of the insured with respect to that contract— 
 
-(i) The insured's age determined by reference to the individual's actual birthday as of the date of determination (actual age); or
+(i) The insured's age determined by reference to the individual's actual birthday as of the date of determination (actual age); or 
 
-(ii) The insured's age determined by reference to contract anniversary (rather than the individual's actual birthday), so long as the age assumed under the contract (contract age) is within 12 months of the actual age as of that date.
+(ii) The insured's age determined by reference to contract anniversary (rather than the individual's actual birthday), so long as the age assumed under the contract (contract age) is within 12 months of the actual age as of that date. 
 
-(2) Once determined under paragraph (b)(1) of this section, the attained age with respect to an individual insured under a contract changes annually. Moreover, the same attained age must be used for purposes of applying sections 7702(c)(4), 7702(d), and 7702(e), as applicable.
+(2) Once determined under paragraph (b)(1) of this section, the attained age with respect to an individual insured under a contract changes annually. Moreover, the same attained age must be used for purposes of applying sections 7702(c)(4), 7702(d), and 7702(e), as applicable. 
 
-(c) *Contract insuring multiple lives on a last-to-die basis*—(1) *In general.* Except as provided in paragraph (c)(2) of this section, if a contract insures the lives of more than one individual on a last-to-die basis, the attained age of the insured is determined by applying paragraph (b) of this section as if the youngest individual were the only insured under the contract for purposes of sections 7702(c)(4), 7702(d), and 7702(e), as applicable.
+(c) *Contract insuring multiple lives on a last-to-die basis*—(1) *In general.* Except as provided in paragraph (c)(2) of this section, if a contract insures the lives of more than one individual on a last-to-die basis, the attained age of the insured is determined by applying paragraph (b) of this section as if the youngest individual were the only insured under the contract for purposes of sections 7702(c)(4), 7702(d), and 7702(e), as applicable. 
 
-(2) *Modifications to cash value and future mortality charges upon the death of insured.* If both the cash value and future mortality charges under a contract change by reason of the death of one or more insureds to no longer take into account the attained age of the deceased insured or insureds, the youngest surviving insured shall thereafter be treated as the only insured under the contract.
+(2) *Modifications to cash value and future mortality charges upon the death of insured.* If both the cash value and future mortality charges under a contract change by reason of the death of one or more insureds to no longer take into account the attained age of the deceased insured or insureds, the youngest surviving insured shall thereafter be treated as the only insured under the contract. 
 
-(d) *Contract insuring multiple lives on a first-to-die basis.* If a contract insures the lives of more than one individual on a first-to-die basis, the attained age of the insured is determined by applying paragraph (b) of this section as if the oldest individual were the only insured under the contract for purposes of sections 7702(c)(4), 7702(d), and 7702(e), as applicable.
+(d) *Contract insuring multiple lives on a first-to-die basis.* If a contract insures the lives of more than one individual on a first-to-die basis, the attained age of the insured is determined by applying paragraph (b) of this section as if the oldest individual were the only insured under the contract for purposes of sections 7702(c)(4), 7702(d), and 7702(e), as applicable. 
 
-(e) *Examples.* The following examples illustrate the determination of the attained age of the insured for purposes of sections 7702(c)(4), 7702(d), and 7702(e), as applicable. The examples are as follows:
+(e) *Examples.* The following examples illustrate the determination of the attained age of the insured for purposes of sections 7702(c)(4), 7702(d), and 7702(e), as applicable. The examples are as follows: 
 
 Example 1.(i) X was born on May 1, 1947. X became 60 years old on May 1, 2007. On January 1, 2008, X purchases from IC a contract insuring X's life. January 1 is the contract anniversary date for all future years. IC determines X's annual premiums on an age-last-birthday basis. Based on the method used by IC to determine age, X has an attained age of 60 for the first contract year, 61 for the second contract year, and so on.
 
@@ -42,12 +42,12 @@ Example 6.(i) The facts are the same as *Example 1* except that in addition to X
 
 (ii) Section 1.7702-2(d) provides that if a life insurance contract insures the lives of more than one individual on a first-to-die basis, the attained age of the insured is determined by applying § 1.7702-2(b) as if the oldest individual were the only insured under the contract. Because X is older than Z, the attained age of X must be used for purposes of sections 7702(c)(4), 7702(d), and 7702(e), as applicable.
 
-(f) *Effective dates*—(1) *In general.* Except as provided in paragraph (f)(2) of this section, these regulations apply to all life insurance contracts that are either—
+(f) *Effective dates*—(1) *In general.* Except as provided in paragraph (f)(2) of this section, these regulations apply to all life insurance contracts that are either— 
 
-(i) Issued after December 31, 2008; or
+(i) Issued after December 31, 2008; or 
 
-(ii) Issued on or after October 1, 2007 and based upon the 2001 CSO tables.
+(ii) Issued on or after October 1, 2007 and based upon the 2001 CSO tables. 
 
-(2) *Contracts issued before the general effective date.* Pursuant to section 7805(b)(7), a taxpayer may apply these regulations retroactively for contracts issued before October 1, 2007, provided that the taxpayer does not later determine qualification of those contracts in a manner that is inconsistent with these regulations.
+(2) *Contracts issued before the general effective date.* Pursuant to section 7805(b)(7), a taxpayer may apply these regulations retroactively for contracts issued before October 1, 2007, provided that the taxpayer does not later determine qualification of those contracts in a manner that is inconsistent with these regulations. 
 
 \[T.D. 9287, 71 FR 53970, Sept. 13, 2006\]

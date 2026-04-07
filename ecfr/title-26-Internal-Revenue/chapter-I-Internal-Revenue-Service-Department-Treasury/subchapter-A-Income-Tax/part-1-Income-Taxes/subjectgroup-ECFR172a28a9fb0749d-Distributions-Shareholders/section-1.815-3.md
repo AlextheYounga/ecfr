@@ -1,22 +1,22 @@
 ##### § 1.815-3 Shareholders surplus account.
 
-(a) *In general.* Every stock life insurance company subject to the tax imposed by section 802 shall establish and maintain a shareholders surplus account. This account shall be established as of January 1, 1958, and the beginning or opening balance of the shareholders surplus account on that date shall be zero.
+(a) *In general.* Every stock life insurance company subject to the tax imposed by section 802 shall establish and maintain a shareholders surplus account. This account shall be established as of January 1, 1958, and the beginning or opening balance of the shareholders surplus account on that date shall be zero. 
 
-(b) *Additions to shareholders surplus account.* (1) The amount added to the shareholders surplus account for any taxable year beginning after December 31, 1957, shall be the amount by which the sum of:
+(b) *Additions to shareholders surplus account.* (1) The amount added to the shareholders surplus account for any taxable year beginning after December 31, 1957, shall be the amount by which the sum of: 
 
-(i) The life insurance company taxable income (computed without regard to section 802(b)(3)),
+(i) The life insurance company taxable income (computed without regard to section 802(b)(3)), 
 
-(ii) In the case of a taxable year beginning after December 31, 1958, the amount (if any) by which the net long-term capital gain exceeds the net short-term capital loss, reduced (in the case of a taxable year beginning after December 31, 1961) by the amount referred to in subdivision (i) of this subparagraph,
+(ii) In the case of a taxable year beginning after December 31, 1958, the amount (if any) by which the net long-term capital gain exceeds the net short-term capital loss, reduced (in the case of a taxable year beginning after December 31, 1961) by the amount referred to in subdivision (i) of this subparagraph, 
 
-(iii) The deduction for partially tax-exempt interest provided by section 242 (as modified by section 804(a)(3)), the deductions for dividends received provided by sections 243, 244, and 245 (as modified by section 809(d)(8)(B)), and the amount of interest excluded from gross income under section 103, and
+(iii) The deduction for partially tax-exempt interest provided by section 242 (as modified by section 804(a)(3)), the deductions for dividends received provided by sections 243, 244, and 245 (as modified by section 809(d)(8)(B)), and the amount of interest excluded from gross income under section 103, and 
 
-(iv) The small business deduction provided by section 809(d)(10). Exceeds the taxes imposed for the taxable year by section 802(a), computed without regard to section 802(b)(3).
+(iv) The small business deduction provided by section 809(d)(10). Exceeds the taxes imposed for the taxable year by section 802(a), computed without regard to section 802(b)(3). 
 
-(c) *Subtractions from shareholders surplus account*—(1) *In general.* There shall be subtracted from the cumulative balance in the shareholders surplus account at the end of any taxable year, computed without diminution by reason of distributions made during the taxable year, the amount which is treated as being distributed out of such account under section 815(a) and paragraph (b) of § 1.815-2.
+(c) *Subtractions from shareholders surplus account*—(1) *In general.* There shall be subtracted from the cumulative balance in the shareholders surplus account at the end of any taxable year, computed without diminution by reason of distributions made during the taxable year, the amount which is treated as being distributed out of such account under section 815(a) and paragraph (b) of § 1.815-2. 
 
-(2) *Special rule; distributions in 1958.* There shall be subtracted from the shareholders surplus account (to the extent thereof) for any taxable year beginning in 1958 the amount of the distributions to shareholders made by the company during 1958. For example, assume S, a stock life insurance company, had additions to its shareholders surplus account (as determined under section 815(b)(2) and paragraph (b) of this section) for the taxable year 1958 of $10,000, and actually distributed as dividends to its shareholders $8,000 during the year 1958. The balance in S's shareholders surplus account as of January 1, 1959, shall be $2,000. If S had distributed $12,000 as dividends in 1958, the balance in its shareholders surplus account as of January 1, 1959, would be zero and the other accounts referred to in section 815(a)(3) and paragraph (b)(1)(iii) of § 1.815-2 would be reduced by $2,000.
+(2) *Special rule; distributions in 1958.* There shall be subtracted from the shareholders surplus account (to the extent thereof) for any taxable year beginning in 1958 the amount of the distributions to shareholders made by the company during 1958. For example, assume S, a stock life insurance company, had additions to its shareholders surplus account (as determined under section 815(b)(2) and paragraph (b) of this section) for the taxable year 1958 of $10,000, and actually distributed as dividends to its shareholders $8,000 during the year 1958. The balance in S's shareholders surplus account as of January 1, 1959, shall be $2,000. If S had distributed $12,000 as dividends in 1958, the balance in its shareholders surplus account as of January 1, 1959, would be zero and the other accounts referred to in section 815(a)(3) and paragraph (b)(1)(iii) of § 1.815-2 would be reduced by $2,000. 
 
-(d) *Illustration of principles.* The application of section 815(b) and this section may be illustrated by the following example:
+(d) *Illustration of principles.* The application of section 815(b) and this section may be illustrated by the following example: 
 
 Example.The books of S, a stock life insurance company, reflect the following items for the taxable year 1960.
 

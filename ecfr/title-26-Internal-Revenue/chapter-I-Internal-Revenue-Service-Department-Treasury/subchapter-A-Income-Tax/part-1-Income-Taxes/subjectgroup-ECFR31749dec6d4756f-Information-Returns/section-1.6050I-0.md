@@ -1,160 +1,160 @@
 ##### § 1.6050I-0 Table of contents.
 
-This section lists the major captions that appear in §§ 1.6050I-1 and 1.6050I-2.
+This section lists the major captions that appear in §§ 1.6050I-1 and 1.6050I-2. 
 
 § 1.6050I-1 Returns relating to cash in excess of $10,000 received in a trade or business.
 
-(a) Reporting requirement.
+(a) Reporting requirement. 
 
-(1) Reportable transaction.
+(1) Reportable transaction. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Certain financial transactions.
+(ii) Certain financial transactions. 
 
-(2) Cash received for the account of another.
+(2) Cash received for the account of another. 
 
-(3) Cash received by agents.
+(3) Cash received by agents. 
 
-(i) General rule.
+(i) General rule. 
 
-(ii) Exception.
+(ii) Exception. 
 
-(iii) Example.
+(iii) Example. 
 
-(b) Multiple payments.
+(b) Multiple payments. 
 
-(1) Initial payment in excess of $10,000.
+(1) Initial payment in excess of $10,000. 
 
-(2) Initial payment of $10,000 or less.
+(2) Initial payment of $10,000 or less. 
 
-(3) Subsequent payments.
+(3) Subsequent payments. 
 
-(4) Example.
+(4) Example. 
 
-(c) Meaning of terms.
+(c) Meaning of terms. 
 
-(1) Cash.
+(1) Cash. 
 
-(i) Amounts received prior to February 3, 1992.
+(i) Amounts received prior to February 3, 1992. 
 
-(ii) Amounts received on or after February 3, 1992.
+(ii) Amounts received on or after February 3, 1992. 
 
-(iii) Designated reporting transaction.
+(iii) Designated reporting transaction. 
 
-(iv) Exception for certain loans.
+(iv) Exception for certain loans. 
 
-(v) Exception for certain installment sales.
+(v) Exception for certain installment sales. 
 
-(vi) Exception for certain down payment plans.
+(vi) Exception for certain down payment plans. 
 
-(vii) Examples.
+(vii) Examples. 
 
-(2) Consumer durable.
+(2) Consumer durable. 
 
-(3) Collectible.
+(3) Collectible. 
 
-(4) Travel or entertainment activity.
+(4) Travel or entertainment activity. 
 
-(5) Retail sale.
+(5) Retail sale. 
 
-(6) Trade or business.
+(6) Trade or business. 
 
-(7) Transaction.
+(7) Transaction. 
 
-(8) Recipient.
+(8) Recipient. 
 
-(d) Exceptions to the reporting requirements of section 6050I.
+(d) Exceptions to the reporting requirements of section 6050I. 
 
-(1) Receipt of cash by certain financial institutions.
+(1) Receipt of cash by certain financial institutions. 
 
-(2) Receipt of cash by certain casinos having gross annual gaming revenue in excess of $1,000,000.
+(2) Receipt of cash by certain casinos having gross annual gaming revenue in excess of $1,000,000. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Casinos exempt under 31 CFR 1010.970(c).
+(ii) Casinos exempt under 31 CFR 1010.970(c). 
 
-(iii) Reporting of cash received in a nongaming business.
+(iii) Reporting of cash received in a nongaming business. 
 
-(iv) Example.
+(iv) Example. 
 
-(3) Receipt of cash not in the course of the recipient's trade or business.
+(3) Receipt of cash not in the course of the recipient's trade or business. 
 
-(4) Receipt is made with respect to a foreign cash transaction.
+(4) Receipt is made with respect to a foreign cash transaction. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Example.
+(ii) Example. 
 
-(e) Time, manner, and form of reporting.
+(e) Time, manner, and form of reporting. 
 
-(1) Time of reporting.
+(1) Time of reporting. 
 
-(2) Form of reporting.
+(2) Form of reporting. 
 
-(3) Manner of reporting.
+(3) Manner of reporting. 
 
-(i) Where to file.
+(i) Where to file. 
 
-(ii) Verification.
+(ii) Verification. 
 
-(iii) Retention of returns.
+(iii) Retention of returns. 
 
-(f) Requirement of furnishing statements.
+(f) Requirement of furnishing statements. 
 
-(1) In general.
+(1) In general. 
 
-(2) Form of statement.
+(2) Form of statement. 
 
-(3) When statement is to be furnished.
+(3) When statement is to be furnished. 
 
-(g) Cross-reference to penalty provisions.
+(g) Cross-reference to penalty provisions. 
 
-(1) Failure to file correct information return.
+(1) Failure to file correct information return. 
 
-(2) Failure to furnish correct statement.
+(2) Failure to furnish correct statement. 
 
-(3) Criminal penalties.
+(3) Criminal penalties. 
 
 § 1.6050I-2 Returns relating to cash in excess of $10,000 received as bail by court clerks.
 
-(a) Reporting requirement.
+(a) Reporting requirement. 
 
-(b) Meaning of terms.
+(b) Meaning of terms. 
 
-(c) Time, form, and manner of reporting.
+(c) Time, form, and manner of reporting. 
 
-(1) Time of reporting.
+(1) Time of reporting. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Multiple payments.
+(ii) Multiple payments. 
 
-(2) Form of reporting.
+(2) Form of reporting. 
 
-(3) Manner of reporting.
+(3) Manner of reporting. 
 
-(i) Where to file.
+(i) Where to file. 
 
-(ii) Verification of identity.
+(ii) Verification of identity. 
 
-(d) Requirement to furnish statements.
+(d) Requirement to furnish statements. 
 
-(1) Information to Federal prosecutors.
+(1) Information to Federal prosecutors. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Form of statement.
+(ii) Form of statement. 
 
-(2) Information to payors of bail.
+(2) Information to payors of bail. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Form of statement.
+(ii) Form of statement. 
 
-(iii) Aggregate amount.
+(iii) Aggregate amount. 
 
-(e) Cross-reference to penalty provisions.
+(e) Cross-reference to penalty provisions. 
 
 (f) Effective date.
 

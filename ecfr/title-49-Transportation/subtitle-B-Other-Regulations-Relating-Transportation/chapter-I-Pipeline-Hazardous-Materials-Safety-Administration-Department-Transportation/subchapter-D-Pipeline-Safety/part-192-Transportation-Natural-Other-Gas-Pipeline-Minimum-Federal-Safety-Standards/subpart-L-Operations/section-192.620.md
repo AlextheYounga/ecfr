@@ -1,8 +1,8 @@
 ##### § 192.620 Alternative maximum allowable operating pressure for certain steel pipelines.
 
-(a) *How does an operator calculate the alternative maximum allowable operating pressure?* An operator calculates the alternative maximum allowable operating pressure by using different factors in the same formulas used for calculating maximum allowable operating pressure under § 192.619(a) as follows:
+(a) *How does an operator calculate the alternative maximum allowable operating pressure?* An operator calculates the alternative maximum allowable operating pressure by using different factors in the same formulas used for calculating maximum allowable operating pressure under § 192.619(a) as follows: 
 
-(1) In determining the alternative design pressure under § 192.105, use a design factor determined in accordance with § 192.111(b), (c), or (d) or, if none of these paragraphs apply, in accordance with the following table:
+(1) In determining the alternative design pressure under § 192.105, use a design factor determined in accordance with § 192.111(b), (c), or (d) or, if none of these paragraphs apply, in accordance with the following table: 
 
 | Class location | Alternative design factor (F) |
 | -------------- | ----------------------------- |
@@ -10,15 +10,15 @@
 | 2              | 0.67                          |
 | 3              | 0.56                          |
 
-(i) For facilities installed prior to December 22, 2008, for which § 192.111(b), (c), or (d) applies, use the following design factors as alternatives for the factors specified in those paragraphs: § 192.111(b)−0.67 or less; 192.111(c) and (d)−0.56 or less.
+(i) For facilities installed prior to December 22, 2008, for which § 192.111(b), (c), or (d) applies, use the following design factors as alternatives for the factors specified in those paragraphs: § 192.111(b)−0.67 or less; 192.111(c) and (d)−0.56 or less. 
 
-(ii) \[Reserved\]
+(ii) \[Reserved\] 
 
-(2) The alternative maximum allowable operating pressure is the lower of the following:
+(2) The alternative maximum allowable operating pressure is the lower of the following: 
 
-(i) The design pressure of the weakest element in the pipeline segment, determined under subparts C and D of this part.
+(i) The design pressure of the weakest element in the pipeline segment, determined under subparts C and D of this part. 
 
-(ii) The pressure obtained by dividing the pressure to which the pipeline segment was tested after construction by a factor determined in the following table:
+(ii) The pressure obtained by dividing the pressure to which the pipeline segment was tested after construction by a factor determined in the following table: 
 
 | Class location                                                                                                                                    | Alternative test factor |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
@@ -27,51 +27,51 @@
 | 3                                                                                                                                                 | 1.50                    |
 | 1 For Class 2 alternative maximum allowable operating pressure segments installed prior to December 22, 2008 the alternative test factor is 1.25. |                         |
 
-(b) *When may an operator use the alternative maximum allowable operating pressure calculated under paragraph (a) of this section?* An operator may use an alternative maximum allowable operating pressure calculated under paragraph (a) of this section if the following conditions are met:
+(b) *When may an operator use the alternative maximum allowable operating pressure calculated under paragraph (a) of this section?* An operator may use an alternative maximum allowable operating pressure calculated under paragraph (a) of this section if the following conditions are met: 
 
-(1) The pipeline segment is in a Class 1, 2, or 3 location;
+(1) The pipeline segment is in a Class 1, 2, or 3 location; 
 
-(2) The pipeline segment is constructed of steel pipe meeting the additional design requirements in § 192.112;
+(2) The pipeline segment is constructed of steel pipe meeting the additional design requirements in § 192.112; 
 
-(3) A supervisory control and data acquisition system provides remote monitoring and control of the pipeline segment. The control provided must include monitoring of pressures and flows, monitoring compressor start-ups and shut-downs, and remote closure of valves per paragraph (d)(3) of this section;
+(3) A supervisory control and data acquisition system provides remote monitoring and control of the pipeline segment. The control provided must include monitoring of pressures and flows, monitoring compressor start-ups and shut-downs, and remote closure of valves per paragraph (d)(3) of this section; 
 
-(4) The pipeline segment meets the additional construction requirements described in § 192.328;
+(4) The pipeline segment meets the additional construction requirements described in § 192.328; 
 
-(5) The pipeline segment does not contain any mechanical couplings used in place of girth welds;
+(5) The pipeline segment does not contain any mechanical couplings used in place of girth welds; 
 
-(6) If a pipeline segment has been previously operated, the segment has not experienced any failure during normal operations indicative of a systemic fault in material as determined by a root cause analysis, including metallurgical examination of the failed pipe. The results of this root cause analysis must be reported to each PHMSA pipeline safety regional office where the pipeline is in service at least 60 days prior to operation at the alternative MAOP. An operator must also notify a State pipeline safety authority when the pipeline is located in a State where PHMSA has an interstate agent agreement, or an intrastate pipeline is regulated by that State; and
+(6) If a pipeline segment has been previously operated, the segment has not experienced any failure during normal operations indicative of a systemic fault in material as determined by a root cause analysis, including metallurgical examination of the failed pipe. The results of this root cause analysis must be reported to each PHMSA pipeline safety regional office where the pipeline is in service at least 60 days prior to operation at the alternative MAOP. An operator must also notify a State pipeline safety authority when the pipeline is located in a State where PHMSA has an interstate agent agreement, or an intrastate pipeline is regulated by that State; and 
 
-(7) At least 95 percent of girth welds on a segment that was constructed prior to December 22, 2008, must have been non-destructively examined in accordance with § 192.243(b) and (c).
+(7) At least 95 percent of girth welds on a segment that was constructed prior to December 22, 2008, must have been non-destructively examined in accordance with § 192.243(b) and (c). 
 
-(c) *What is an operator electing to use the alternative maximum allowable operating pressure required to do?* If an operator elects to use the alternative maximum allowable operating pressure calculated under paragraph (a) of this section for a pipeline segment, the operator must do each of the following:
+(c) *What is an operator electing to use the alternative maximum allowable operating pressure required to do?* If an operator elects to use the alternative maximum allowable operating pressure calculated under paragraph (a) of this section for a pipeline segment, the operator must do each of the following: 
 
-(1) For pipelines already in service, notify the PHMSA pipeline safety regional office where the pipeline is in service of the intention to use the alternative pressure at least 180 days before operating at the alternative MAOP. For new pipelines, notify the PHMSA pipeline safety regional office of planned alternative MAOP design and operation at least 60 days prior to the earliest start date of either pipe manufacturing or construction activities. An operator must also notify the state pipeline safety authority when the pipeline is located in a state where PHMSA has an interstate agent agreement or where an intrastate pipeline is regulated by that state.
+(1) For pipelines already in service, notify the PHMSA pipeline safety regional office where the pipeline is in service of the intention to use the alternative pressure at least 180 days before operating at the alternative MAOP. For new pipelines, notify the PHMSA pipeline safety regional office of planned alternative MAOP design and operation at least 60 days prior to the earliest start date of either pipe manufacturing or construction activities. An operator must also notify the state pipeline safety authority when the pipeline is located in a state where PHMSA has an interstate agent agreement or where an intrastate pipeline is regulated by that state. 
 
-(2) Certify, by signature of a senior executive officer of the company, as follows:
+(2) Certify, by signature of a senior executive officer of the company, as follows: 
 
-(i) The pipeline segment meets the conditions described in paragraph (b) of this section; and
+(i) The pipeline segment meets the conditions described in paragraph (b) of this section; and 
 
-(ii) The operating and maintenance procedures include the additional operating and maintenance requirements of paragraph (d) of this section; and
+(ii) The operating and maintenance procedures include the additional operating and maintenance requirements of paragraph (d) of this section; and 
 
-(iii) The review and any needed program upgrade of the damage prevention program required by paragraph (d)(4)(v) of this section has been completed.
+(iii) The review and any needed program upgrade of the damage prevention program required by paragraph (d)(4)(v) of this section has been completed. 
 
-(3) Send a copy of the certification required by paragraph (c)(2) of this section to each PHMSA pipeline safety regional office where the pipeline is in service 30 days prior to operating at the alternative MAOP. An operator must also send a copy to a State pipeline safety authority when the pipeline is located in a State where PHMSA has an interstate agent agreement, or an intrastate pipeline is regulated by that State.
+(3) Send a copy of the certification required by paragraph (c)(2) of this section to each PHMSA pipeline safety regional office where the pipeline is in service 30 days prior to operating at the alternative MAOP. An operator must also send a copy to a State pipeline safety authority when the pipeline is located in a State where PHMSA has an interstate agent agreement, or an intrastate pipeline is regulated by that State. 
 
-(4) For each pipeline segment, do one of the following:
+(4) For each pipeline segment, do one of the following: 
 
-(i) Perform a strength test as described in § 192.505 at a test pressure calculated under paragraph (a) of this section or
+(i) Perform a strength test as described in § 192.505 at a test pressure calculated under paragraph (a) of this section or 
 
-(ii) For a pipeline segment in existence prior to December 22, 2008, certify, under paragraph (c)(2) of this section, that the strength test performed under § 192.505 was conducted at test pressure calculated under paragraph (a) of this section, or conduct a new strength test in accordance with paragraph (c)(4)(i) of this section.
+(ii) For a pipeline segment in existence prior to December 22, 2008, certify, under paragraph (c)(2) of this section, that the strength test performed under § 192.505 was conducted at test pressure calculated under paragraph (a) of this section, or conduct a new strength test in accordance with paragraph (c)(4)(i) of this section. 
 
-(5) Comply with the additional operation and maintenance requirements described in paragraph (d) of this section.
+(5) Comply with the additional operation and maintenance requirements described in paragraph (d) of this section. 
 
-(6) If the performance of a construction task associated with implementing alternative MAOP that occurs after December 22, 2008, can affect the integrity of the pipeline segment, treat that task as a “covered task”, notwithstanding the definition in § 192.801(b) and implement the requirements of subpart N as appropriate.
+(6) If the performance of a construction task associated with implementing alternative MAOP that occurs after December 22, 2008, can affect the integrity of the pipeline segment, treat that task as a “covered task”, notwithstanding the definition in § 192.801(b) and implement the requirements of subpart N as appropriate. 
 
-(7) Maintain, for the useful life of the pipeline, records demonstrating compliance with paragraphs (b), (c)(6), and (d) of this section.
+(7) Maintain, for the useful life of the pipeline, records demonstrating compliance with paragraphs (b), (c)(6), and (d) of this section. 
 
-(8) A Class 1 and Class 2 location can be upgraded one class due to class changes per § 192.611(a). All class location changes from Class 1 to Class 2 and from Class 2 to Class 3 must have all anomalies evaluated and remediated per: The “original pipeline class grade” § 192.620(d)(11) anomaly repair requirements; and all anomalies with a wall loss equal to or greater than 40 percent must be excavated and remediated. Pipelines in Class 4 may not operate at an alternative MAOP.
+(8) A Class 1 and Class 2 location can be upgraded one class due to class changes per § 192.611(a). All class location changes from Class 1 to Class 2 and from Class 2 to Class 3 must have all anomalies evaluated and remediated per: The “original pipeline class grade” § 192.620(d)(11) anomaly repair requirements; and all anomalies with a wall loss equal to or greater than 40 percent must be excavated and remediated. Pipelines in Class 4 may not operate at an alternative MAOP. 
 
-(d) *What additional operation and maintenance requirements apply to operation at the alternative maximum allowable operating pressure?* In addition to compliance with other applicable safety standards in this part, if an operator establishes a maximum allowable operating pressure for a pipeline segment under paragraph (a) of this section, an operator must comply with the additional operation and maintenance requirements as follows:
+(d) *What additional operation and maintenance requirements apply to operation at the alternative maximum allowable operating pressure?* In addition to compliance with other applicable safety standards in this part, if an operator establishes a maximum allowable operating pressure for a pipeline segment under paragraph (a) of this section, an operator must comply with the additional operation and maintenance requirements as follows: 
 
 | To address increased risk of a maximum allowable operating pressure based on higher stress levels in the following areas: | Take the following additional step:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -138,10 +138,10 @@
 |                                                                                                                           | (D) The alternative maximum allowable operating pressure was based on a design factor of 0.56 under paragraph (a) of this section and the failure pressure is less than or equal to 1.80 times the alternative maximum allowable operating pressure.                                                                                                                                                                                                                                                                                                                                                                       |
 |                                                                                                                           | (iv) Evaluate any defect not required to be repaired under paragraph (d)(11)(ii) or (iii) of this section to determine its growth rate, set the maximum interval for repair or re-inspection, and repair or re-inspect within that interval.                                                                                                                                                                                                                                                                                                                                                                               |
 
-(e) *Is there any change in overpressure protection associated with operating at the alternative maximum allowable operating pressure?* Notwithstanding the required capacity of pressure relieving and limiting stations otherwise required by § 192.201, if an operator establishes a maximum allowable operating pressure for a pipeline segment in accordance with paragraph (a) of this section, an operator must:
+(e) *Is there any change in overpressure protection associated with operating at the alternative maximum allowable operating pressure?* Notwithstanding the required capacity of pressure relieving and limiting stations otherwise required by § 192.201, if an operator establishes a maximum allowable operating pressure for a pipeline segment in accordance with paragraph (a) of this section, an operator must: 
 
-(1) Provide overpressure protection that limits mainline pressure to a maximum of 104 percent of the maximum allowable operating pressure; and
+(1) Provide overpressure protection that limits mainline pressure to a maximum of 104 percent of the maximum allowable operating pressure; and 
 
-(2) Develop and follow a procedure for establishing and maintaining accurate set points for the supervisory control and data acquisition system.
+(2) Develop and follow a procedure for establishing and maintaining accurate set points for the supervisory control and data acquisition system. 
 
 \[73 FR 62177, Oct. 17, 2008, as amended by Amdt. 192-111, 74 FR 62505, Nov. 30, 2009; Amdt. 192-120, 80 FR 12779, Mar. 11, 2015\]

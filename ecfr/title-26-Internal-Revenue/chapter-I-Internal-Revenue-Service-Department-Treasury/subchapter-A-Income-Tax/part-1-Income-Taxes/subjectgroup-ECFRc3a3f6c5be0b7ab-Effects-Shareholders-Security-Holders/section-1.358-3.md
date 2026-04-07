@@ -1,8 +1,8 @@
 ##### § 1.358-3 Treatment of assumption of liabilities.
 
-(a) For purposes of section 358, where a party to the exchange assumes a liability of a distributee or acquires from him property subject to a liability, the amount of such liability is to be treated as money received by the distributee upon the exchange, whether or not the assumption of liabilities resulted in a recognition of gain or loss to the taxpayer under the law applicable to the year in which the exchange was made.
+(a) For purposes of section 358, where a party to the exchange assumes a liability of a distributee or acquires from him property subject to a liability, the amount of such liability is to be treated as money received by the distributee upon the exchange, whether or not the assumption of liabilities resulted in a recognition of gain or loss to the taxpayer under the law applicable to the year in which the exchange was made. 
 
-(b) The application of paragraph (a) of this section may be illustrated by the following examples:
+(b) The application of paragraph (a) of this section may be illustrated by the following examples: 
 
 Example 1.A, an individual, owns property with an adjusted basis of $100,000 on which there is a purchase money mortgage of $25,000. On December 1, 1945, A organizes Corporation X to which he transfers the property in exchange for all the stock of Corporation X and the assumption by Corporation X of the mortgage. The capital stock of the Corporation X has a fair market value of $150,000. Under sections 351 and 357, no gain or loss is recognized to A. The basis in A's hands of the stock of Corporation X is $75,000, computed as follows:
 

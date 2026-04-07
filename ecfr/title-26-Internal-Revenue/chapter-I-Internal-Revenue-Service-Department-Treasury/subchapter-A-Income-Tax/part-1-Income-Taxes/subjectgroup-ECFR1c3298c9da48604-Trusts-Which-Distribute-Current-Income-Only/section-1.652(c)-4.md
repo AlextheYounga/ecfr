@@ -1,6 +1,6 @@
 ##### § 1.652(c)-4 Illustration of the provisions of sections 651 and 652.
 
-The rules applicable to a trust required to distribute all of its income currently to its beneficiaries may be illustrated by the following example:
+The rules applicable to a trust required to distribute all of its income currently to its beneficiaries may be illustrated by the following example: 
 
 Example.(a) Under the terms of a simple trust all of the income is to be distributed equally to beneficiaries A and B and capital gains are to be allocated to corpus. The trust and both beneficiaries file returns on the calendar year basis. No provision is made in the governing instrument with respect to depreciation. During the taxable year 1955, the trust had the following items of income and expense:
 

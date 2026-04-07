@@ -1,172 +1,172 @@
 ##### § 1.1374-0 Table of contents.
 
-This section lists the major paragraph headings for §§ 1.1374-1 through 1.1374-10.
+This section lists the major paragraph headings for §§ 1.1374-1 through 1.1374-10. 
 
 § 1.1374-1 General rules and definitions.
 
-(a) Computation of tax.
+(a) Computation of tax. 
 
-(b) Anti-trafficking rules.
+(b) Anti-trafficking rules. 
 
-(c) Section 1374 attributes.
+(c) Section 1374 attributes. 
 
-(d) Recognition period.
+(d) Recognition period. 
 
-(e) Predecessor corporation.
+(e) Predecessor corporation. 
 
 § 1.1374-2 Net recognized built-in gain.
 
-(a) In general.
+(a) In general. 
 
-(b) Allocation rule.
+(b) Allocation rule. 
 
-(c) Recognized built-in gain carryover.
+(c) Recognized built-in gain carryover. 
 
-(d) Accounting methods.
+(d) Accounting methods. 
 
-(e) Example.
+(e) Example. 
 
 § 1.1374-3 Net unrealized built-in gain.
 
-(a) In general.
+(a) In general. 
 
-(b) Example.
+(b) Example. 
 
 § 1.1374-4 Recognized built-in gain or loss.
 
-(a) Sales and exchanges.
+(a) Sales and exchanges. 
 
-(1) In general.
+(1) In general. 
 
-(2) Oil and gas property.
+(2) Oil and gas property. 
 
-(3) Examples.
+(3) Examples. 
 
-(b) Accrual method rule.
+(b) Accrual method rule. 
 
-(1) Income items.
+(1) Income items. 
 
-(2) Deduction items.
+(2) Deduction items. 
 
-(3) Examples.
+(3) Examples. 
 
-(c) Section 267(a)(2) and 404(a)(5) deductions.
+(c) Section 267(a)(2) and 404(a)(5) deductions. 
 
-(1) Section 267(a)(2).
+(1) Section 267(a)(2). 
 
-(2) Section 404(a)(5).
+(2) Section 404(a)(5). 
 
-(3) Examples.
+(3) Examples. 
 
-(d) Section 481(a) adjustments.
+(d) Section 481(a) adjustments. 
 
-(1) In general.
+(1) In general. 
 
-(2) Examples.
+(2) Examples. 
 
-(e) Section 995(b)(2) deemed distributions.
+(e) Section 995(b)(2) deemed distributions. 
 
-(f) Discharge of indebtedness and bad debts.
+(f) Discharge of indebtedness and bad debts. 
 
-(g) Completion of contract.
+(g) Completion of contract. 
 
-(h) Installment method.
+(h) Installment method. 
 
-(1) In general.
+(1) In general. 
 
-(2) Limitation on amount subject to tax.
+(2) Limitation on amount subject to tax. 
 
-(3) Rollover rule.
+(3) Rollover rule. 
 
-(4) Use of losses and section 1374 attributes.
+(4) Use of losses and section 1374 attributes. 
 
-(5) Examples.
+(5) Examples. 
 
-(i) Partnership interests.
+(i) Partnership interests. 
 
-(1) In general.
+(1) In general. 
 
-(2) Limitations.
+(2) Limitations. 
 
-(i) Partnership RBIG.
+(i) Partnership RBIG. 
 
-(ii) Partnership RBIL.
+(ii) Partnership RBIL. 
 
-(3) Disposition of partnership interest.
+(3) Disposition of partnership interest. 
 
-(4) RBIG and RBIL limitations.
+(4) RBIG and RBIL limitations. 
 
-(i)-Sale of partnership interest.
+(i)-Sale of partnership interest. 
 
-(ii) Amounts of limitations.
+(ii) Amounts of limitations. 
 
-(5) Small interest exception.
+(5) Small interest exception. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Contributed assets.
+(ii) Contributed assets. 
 
-(iii) Anti-abuse rule.
+(iii) Anti-abuse rule. 
 
-(6) Section 704(c) gain or loss.
+(6) Section 704(c) gain or loss. 
 
-(7) Disposition of distributed partnership asset.
+(7) Disposition of distributed partnership asset. 
 
-(8) Examples.
+(8) Examples. 
 
 § 1.1374-5 Loss carryforwards.
 
-(a) In general.
+(a) In general. 
 
-(b) Example.
+(b) Example. 
 
 § 1.1374-6 Credits and credit carryforwards.
 
-(a) In general.
+(a) In general. 
 
-(b) Limitations.
+(b) Limitations. 
 
-(c) Examples.
+(c) Examples. 
 
 § 1.1374-7 Inventory.
 
-(a) Valuation.
+(a) Valuation. 
 
-(b) Identity of dispositions.
+(b) Identity of dispositions. 
 
 § 1.1374-8 Section 1374(d)(8) transactions.
 
-(a) In general.
+(a) In general. 
 
-(b) Effective date of section 1374(d)(8).
+(b) Effective date of section 1374(d)(8). 
 
-(c) Separate determination of tax.
+(c) Separate determination of tax. 
 
-(d) Taxable income limitation.
+(d) Taxable income limitation. 
 
-(e) Examples.
+(e) Examples. 
 
 § 1.1374-9 Anti-stuffing rule. § 1.1374-10 Effective date and additional rules.
 
-(a) In general.
+(a) In general. 
 
-(b) Additional rules.
+(b) Additional rules. 
 
-(1) Certain transfers to partnerships.
+(1) Certain transfers to partnerships. 
 
-(2) Certain inventory dispositions.
+(2) Certain inventory dispositions. 
 
-(3) Certain contributions of built-in loss assets.
+(3) Certain contributions of built-in loss assets. 
 
-(4) Certain installment sales.
+(4) Certain installment sales. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Examples.
+(ii) Examples. 
 
-(c) Revocation and re-election of S corporation status.
+(c) Revocation and re-election of S corporation status. 
 
-(1) In general.
+(1) In general. 
 
 (2) Example.
 
