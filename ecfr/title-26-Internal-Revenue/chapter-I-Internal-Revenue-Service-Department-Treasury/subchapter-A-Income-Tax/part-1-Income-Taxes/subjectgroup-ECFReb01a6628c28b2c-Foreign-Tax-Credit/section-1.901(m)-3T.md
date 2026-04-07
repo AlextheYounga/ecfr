@@ -1,1 +1,0 @@
-##### § 1.901(m)-3T Disqualified tax amount and aggregate basis difference carryover (temporary). \[Reserved\].
