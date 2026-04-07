@@ -9318,8 +9318,6 @@ Critical Habitat Map Unit
 
 2\. For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
-Link to an amendment published at 88 FR 13065, Mar. 2, 2023.
-
 (c) *Reptiles.*
 
 Culebra Island Giant Anole (*Anolis roosevetti*) Note:
@@ -15630,7 +15628,55 @@ The map provided is for informational purposes only. Map follows:
 
 (ii) Map of Little Chucky Creek Unit of critical habitat for the Chucky madtom follows:
 
-![](/graphics/er16oc12.067.gif)Smoky Madtom (*Noturus baileyi*)
+![](/graphics/er16oc12.067.gif)Frecklebelly Madtom \[Upper Coosa River DPS\] (*Noturus munitus*)
+
+(1) Critical habitat units are depicted for Bradley and Polk Counties, Tennessee, and Cherokee, Dawson, Forsyth, Lumpkin, Murray, and Whitfield Counties, Georgia, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the Upper Coosa River distinct population segment (DPS) consist of the following components:
+
+(i) Geomorphically stable, medium to large streams with:
+
+(A) Stable stream channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation; and
+
+(B) Banks with intact riparian cover to maintain stream morphology and reduce erosion and sediment inputs.
+
+(ii) Connected instream habitats that:
+
+(A) Include stable riffle-run-pool complexes;
+
+(B) Consist of silt-free gravel, coarse sand, cobble, boulders, woody structure, and river weed (*Podostemum* spp.); and
+
+(C) Have abundant cobble, boulders, woody structure, or other suitable cover used for nesting.
+
+(iii) Adequate flows, or a hydrologic flow regime (which includes the severity, frequency, duration, and seasonality of discharge over time), necessary to maintain instream habitats and to maintain connectivity of streams with the floodplain, allowing the exchange of nutrients and sediment for maintenance of the fish's habitat, food availability, and ample oxygenated flow for spawning and nesting habitat.
+
+(iv) Appropriate water and sediment quality (including, but not limited to, conductivity; hardness; turbidity; temperature; pH; ammonia; heavy metals; pesticides; animal waste products; and nitrogen, phosphorus, and potassium fertilizers) necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages.
+
+(v) Diversity and availability of aquatic macroinvertebrate prey items, which include larval midges, mayflies, caddisflies, dragonflies, and beetles.
+
+(3) Critical habitat does not include humanmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on April 3, 2023.
+
+(4) Data layers defining map units were selected from the U.S. Geological Survey National Hydrological Dataset—High Resolution (1:24,000 scale; Geographic Coordinate System North American 1983 coordinates) using mapping software. The selected river reaches were informed by species occurrence data. All layers use Universal Transverse Mercator (UTM) Zone 16N coordinates. We also used the mapping software to calculate the length of the units. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/about/region/southeast,* at *https://www.regulations.gov* at Docket No. FWS-R4-ES-2020-0058, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map follows:
+
+Figure 1 to Frecklebelly Madtom \[Upper Coosa River DPS\] (*Noturus munitus*) paragraph (5) ![](/graphics/er02mr23.001.gif)
+
+(6) Unit 1: Conasauga River; Bradley and Polk Counties, Tennessee, and Murray and Whitfield Counties, Georgia.
+
+(i) Unit 1 consists of 51.5 river miles (83 kilometers) of the Conasauga River beginning at the mouth of Coahulla Creek in Murray and Whitfield Counties, Georgia, and continuing upstream through Bradley County, Tennessee, to the mouth of Graham Branch in Polk County, Tennessee. Unit 1 does not extend beyond the bankfull width of the river.
+
+(ii) Map of Unit 1 follows:
+
+Figure 2 to Frecklebelly Madtom \[Upper Coosa River DPS\] (*Noturus munitus*) paragraph (6)(ii) ![](/graphics/er02mr23.002.gif)
+
+(7) Unit 2: Etowah River, Cherokee, Dawson, Forsyth, and Lumpkin Counties, Georgia.
+
+(i) Unit 2 consists of 82.5 river miles (133 kilometers) of the Etowah River beginning at its confluence with Shoal Creek in Cherokee County, Georgia, and continuing upstream through Forsyth and Dawson Counties to approximately 0.5 miles upstream of the Jay Bridge Road crossing over the Etowah River in Lumpkin County, Georgia. Unit 2 does not extend beyond the bankfull width of the river.
+
+(ii) Map of Unit 2 follows:
+
+Figure 3 to Frecklebelly Madtom \[Upper Coosa River DPS\] (*Noturus munitus*) paragraph (7)(ii) ![](/graphics/er02mr23.003.gif)Smoky Madtom (*Noturus baileyi*)
 
 Tennessee, Monroe County, Citico Creek, Cherokee National Forest. Citico Creek from the Cherokee National Forest boundary at upper Citico Bridge on Mountain Settlement Road (approximately creek mile 4.3) upstream to the confluence of Citico Creek with Barkcamp Branch (approximately creek mile 10.8).
 
