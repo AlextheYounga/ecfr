@@ -12,7 +12,7 @@ Link to an amendment published at 88 FR 76504, Nov. 6, 2023.
 
 (i) Are not related to patient care for outpatient maintenance dialysis;
 
-(ii) Section 413.420, Payment to independent organ procurement organizations and to histocompatibility laboratories for kidney acquisition costs;
+(ii) Are for services or items specifically not reimbursable under the program;
 
 (iii) Flow from the provision of luxury items or servicess (items or services substantially in excess of or more expensive than those generally considered necessary for the provision of needed health services); or
 
@@ -22,7 +22,7 @@ Link to an amendment published at 88 FR 76504, Nov. 6, 2023.
 
 (i) Section 413.157, Return on equity capital of proprietary providers;
 
-(ii) Section 413.200, Reimbursement of OPAs and histocompatibility laboratories;
+(ii) Section 413.420, Payment to independent organ procurement organizations and to histocompatibility laboratories for kidney acquisition costs;
 
 (iii) Section 413.9, Cost related to patient care (except for the principles stated in paragraph (b)(3) of this section); and
 
