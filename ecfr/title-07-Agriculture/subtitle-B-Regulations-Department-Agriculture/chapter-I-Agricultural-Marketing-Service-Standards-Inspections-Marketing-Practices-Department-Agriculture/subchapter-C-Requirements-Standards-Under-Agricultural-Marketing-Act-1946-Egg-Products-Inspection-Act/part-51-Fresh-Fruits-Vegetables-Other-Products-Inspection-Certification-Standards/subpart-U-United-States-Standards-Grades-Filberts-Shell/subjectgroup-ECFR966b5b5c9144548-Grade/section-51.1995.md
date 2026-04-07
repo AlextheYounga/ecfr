@@ -56,15 +56,15 @@ Table I
 | Size classifications  | Maximum size—Will pass through a round opening of the following size | Minimum size—Will not pass through a round opening of the following size |
 | --------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | Round type varieties: |                                                                      |                                                                          |
-| Jumbo                 | No maximum                                                           | 56/64 inch.                                                              |
-| Large                 | 56/64 inch                                                           | 49/64 inch.                                                              |
-| Medium                | 49/64 inch                                                           | 45/64 inch.                                                              |
-| Small                 | 45/64 inch                                                           | No minimum.                                                              |
+| Jumbo                 | No maximum                                                           | 56⁄64 inch.                                                              |
+| Large                 | 56⁄64 inch                                                           | 49⁄64 inch.                                                              |
+| Medium                | 49⁄64 inch                                                           | 45⁄64 inch.                                                              |
+| Small                 | 45⁄64 inch                                                           | No minimum.                                                              |
 | Long type varieties:  |                                                                      |                                                                          |
-| Jumbo                 | No maximum                                                           | 47/64 inch.                                                              |
-| Large                 | 48/64 inch                                                           | 44/64 inch.                                                              |
-| Medium                | 45/64 inch                                                           | 34/64 inch.                                                              |
-| Small                 | 35/64 inch.                                                          | No minimum.                                                              |
+| Jumbo                 | No maximum                                                           | 47⁄64 inch.                                                              |
+| Large                 | 48⁄64 inch                                                           | 44⁄64 inch.                                                              |
+| Medium                | 45⁄64 inch                                                           | 34⁄64 inch.                                                              |
+| Small                 | 35⁄64 inch.                                                          | No minimum.                                                              |
 
 (f) Tolerances: In order to allow for variations incident to proper grading and handling, the following tolerances, by count, are permitted as specified: 
 

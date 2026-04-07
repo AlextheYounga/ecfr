@@ -12,7 +12,7 @@ Table 1 to § 52.1857—Allowances for Defects in Zante Currant Raisins
 | Pieces of stem                                                                               | 1 per 24 ounces                    |
 | Seeds (in Seeded style)                                                                      | 12 per 16 ounces                   |
 |                                                                                              | Maximum (percent by weight)        |
-| Capstems—Zantes with capstems and loose capstems (include one Zante with each loose capstem) | 11/2                               |
+| Capstems—Zantes with capstems and loose capstems (include one Zante with each loose capstem) | 11⁄2                               |
 | Sugared                                                                                      | 5                                  |
 | Discolored, damaged, or moldy                                                                | 5                                  |
 | Provided these limits are not exceeded:                                                      |                                    |

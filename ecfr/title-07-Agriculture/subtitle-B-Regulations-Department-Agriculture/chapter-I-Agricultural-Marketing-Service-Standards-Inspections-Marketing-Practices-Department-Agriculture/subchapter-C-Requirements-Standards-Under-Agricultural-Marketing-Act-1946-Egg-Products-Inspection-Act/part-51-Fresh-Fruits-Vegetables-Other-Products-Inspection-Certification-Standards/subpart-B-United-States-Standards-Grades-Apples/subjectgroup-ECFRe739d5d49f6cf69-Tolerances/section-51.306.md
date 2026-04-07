@@ -15,9 +15,9 @@ In order to allow for variations incident to proper grading and handling in each
 Table II
 | Red delicious            | Golden delicious |
 | ------------------------ | ---------------- |
-| 21/8 inches or 65 grams  | 63 grams         |
-| 21/4 inches or 75 grams  | 70 grams         |
-| 23/8 inches or 84 grams  | 82 grams         |
-| 21/2 inches or 100 grams | 95 grams         |
-| 25/8 inches or 115 grams | 109 grams        |
-| 23/4 inches or 139 grams | 134 grams        |
+| 21⁄8 inches or 65 grams  | 63 grams         |
+| 21⁄4 inches or 75 grams  | 70 grams         |
+| 23⁄8 inches or 84 grams  | 82 grams         |
+| 21⁄2 inches or 100 grams | 95 grams         |
+| 25⁄8 inches or 115 grams | 109 grams        |
+| 23⁄4 inches or 139 grams | 134 grams        |

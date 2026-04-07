@@ -106,7 +106,7 @@ Since C attained age 62 in 1982, his computation base years are 1951 through 198
 |                         | benefit computation years   |  |
 |                         |                             |  |
 |                         |                             |  |
-|                         | $453 − 26 QC's (61/2 years) |  |
+|                         | $453 − 26 QC's (61⁄2 years) |  |
 |                         | 104 quarters (26 years)     |  |
 |                         |                             |  |
 |                         |                             |  |
