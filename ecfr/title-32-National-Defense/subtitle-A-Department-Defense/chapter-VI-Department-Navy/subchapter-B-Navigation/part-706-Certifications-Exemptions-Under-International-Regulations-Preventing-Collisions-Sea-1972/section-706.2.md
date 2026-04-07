@@ -688,6 +688,7 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 | USS JOHN FINN            | DDG 113  | 1.90 meters                                                                                                                                                       |
 | USS RALPH JOHNSON        | DDG 114  | 1.90 meters                                                                                                                                                       |
 | USS RAFAEL PERALTA       | DDG 115  | 1.88 meters                                                                                                                                                       |
+| USS THOMAS HUDNER        | DDG 116  | 1.81 meters                                                                                                                                                       |
 | USS ZUMWALT              | DDG 1000 | FWD Lower: 1 0.31 meters   FWD Middle: 1 0.31 meters   FWD Upper: 1 0.29 meters   AFT Lower: 1 1.04 meters   AFT Middle: 1 1.05 meters   AFT Upper: 1 1.06 meters |
 | USS MICHAEL MONSOOR      | DDG 1001 | FWD Lower: 10.33 meters.   FWD Middle: 10.31 meters   FWD Upper: 10.30 meters.   AFT Lower: 11.05 meters   AFT Middle: 11.05 meters.   AFT Upper: 11.05 meters    |
 | USS INDEPENDENCE         | LCS 2    | 1.31 meters                                                                                                                                                       |
@@ -775,7 +776,7 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 |                          |                                            | 287 thru 289°                              |
 | USS OMAHA                | LCS 12                                     | 72 thru 74°   286 thru 288°                |
 | USS MANCHESTER           | LCS 14                                     | 72 thru 74°   286 thru 288°                |
-| USS TULSA                | LCS 16                                     | 72° thru 74°.   286° thru 288°             |
+| USS TULSA                | LCS 16                                     | 72 thru 74°   286 thru 288°                |
 | USV                      | 11MUCO601, 11MUCO602, 11MUC0603, 11MUC0604 | 271 thru 278°                              |
 
 17\. The second masthead light required by Rule 23(a)(ii) will not be displayed on the PC 1 Class.
@@ -904,7 +905,7 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 | Vessel         | No.    | Obstruction angle relative ship heading |
 | -------------- | ------ | --------------------------------------- |
 | USS MANCHESTER | LCS 14 | 47° thru 59°   301° thru 313°           |
-| USS TULSA      | LCS 16 | 47° thru 59°.   301° thru 313°          |
+| USS TULSA      | LCS 16 | 47° thru 59°   301° thru 313°           |
 
 Table Five
 
@@ -1048,6 +1049,7 @@ Table Five
 | USS JOHN FINN            | DDG 113  |                                                                                | X                                                                         | X                                                                                                  | 14.5                                      |
 | RALPH JOHNSON            | DDG 114  | X                                                                              | X                                                                         | X                                                                                                  | 14.5                                      |
 | USS RAFAEL PERALTA       | DDG 115  | X                                                                              | X                                                                         | X                                                                                                  | 14.5                                      |
+| USS THOMAS HUDNER        | DDG 116  | X                                                                              | X                                                                         | X                                                                                                  | 14.5                                      |
 | USS ZUMWALT              | DDG 1000 | X                                                                              | X                                                                         | X                                                                                                  | 76.94                                     |
 | USS MICHAEL MONSOOR      | DDG 1001 | X                                                                              | X                                                                         | X                                                                                                  | 77.2                                      |
 | USS BLUE RIDGE           | LCC 19   | N/A                                                                            | N/A                                                                       | X                                                                                                  | 84                                        |
