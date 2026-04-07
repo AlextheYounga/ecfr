@@ -1,6 +1,6 @@
 ##### § 121.101 What are SBA size standards?
 
-(a) SBA's size standards define whether a business entity is small and, thus, eligible for Government programs and preferences reserved for “small business” concerns. Size standards have been established for types of economic activity, or industry, generally under the North American Industry Classification System (NAICS). 
+(a) SBA's size standards define whether a business entity is small and, thus, eligible for Government programs and preferences reserved for “small business” concerns. Size standards have been established for types of economic activity, or industry, generally under the North American Industry Classification System (NAICS).
 
 (b) NAICS is described in the North American Industry Classification Manual-United States, which is available from the National Technical Information Service, 5285 Port Royal Road, Springfield, VA 22161; by calling 1(800) 553-6847 or 1(703) 605-6000; or via the Internet at *http://www.ntis.gov/products/naics.aspx.* The manual includes definitions for each industry, tables showing relationships between 1997 NAICS and 1987 SICs, and a comprehensive index. NAICS assigns codes to all economic activity within twenty broad sectors. Section 121.201 provides a full table of small business size standards matched to the U.S. NAICS industry codes. A full table matching a size standard with each NAICS Industry or U.S. Industry code is also published annually by SBA in the Federal Register.
 
