@@ -1,14 +1,14 @@
 ##### § 530.302 Amounts of civil money penalties.
 
-(a) A civil money penalty, not to exceed $1,052 per affected homeworker for any one violation, may be assessed for any violation of the Act or of this part or of the assurances given in connection with the issuance of a certificate.
+(a) A civil money penalty, not to exceed $1,071 per affected homeworker for any one violation, may be assessed for any violation of the Act or of this part or of the assurances given in connection with the issuance of a certificate.
 
 (b) The amount of civil money penalties shall be determined per affected homeworker within the limits set forth in the following schedule, except that no penalty shall be assessed in the case of violations which are deemed to be *de minimis* in nature:
 
 | Nature of violation                                              | Penalty per affected homeworker |
 | ---------------------------------------------------------------- | ------------------------------- |
-| Recordkeeping                                                    | $21-210                         |
-| Monetary violations                                              | 21-210                          |
+| Recordkeeping                                                    | $21-214                         |
+| Monetary violations                                              | 21-214                          |
 | Employment of homeworkers without a certificate                  |                                 |
-| Other violations of statutes, regulations or employer assurances | 21-210                          |
+| Other violations of statutes, regulations or employer assurances | 21-214                          |
 
-\[81 FR 43450, July 1, 2016, as amended at 82 FR 5381, Jan. 18, 2017; 83 FR 13, Jan. 2, 2018; 84 FR 218, Jan. 23, 2019\]
+\[81 FR 43450, July 1, 2016, as amended at 82 FR 5381, Jan. 18, 2017; 83 FR 13, Jan. 2, 2018; 84 FR 218, Jan. 23, 2019; 85 FR 2298, Jan. 15, 2020\]
