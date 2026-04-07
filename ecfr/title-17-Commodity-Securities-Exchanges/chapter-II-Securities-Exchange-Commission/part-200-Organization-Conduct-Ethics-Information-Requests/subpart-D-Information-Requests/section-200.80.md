@@ -14,7 +14,7 @@
 
 (vi) The notice of Commission meetings described in § 200.403, but only to the extent, and under the conditions, specified in § 200.403.
 
-(2) *Records available for public inspection and copying; documents published and indexed.* Except as provided in paragraph (b) of this section, the following materials are available for public inspection and copying from 10 a.m. to 3 p.m., E.T., at the public reference room located at 100 F Street, NE., Washington, DC, and, except for indices, they are published weekly in a document entitled “SEC Docket” (see paragraph (e)(8)(ii) of this section):
+(2) *Records available for public inspection and copying; documents published and indexed.* Except as provided in paragraph (b) of this section, the following materials are available for public inspection and copying from 10 a.m. to 3 p.m., E.T., at the public reference room located at 100 F Street NE, Washington, DC.
 
 (i) Final opinions of the Commission, including concurring and dissenting opinions, as well as orders made by the Commission in the adjudication of cases;
 
@@ -80,7 +80,7 @@
 
 (i) The public reference room in Washington, DC has available for public inspection all of the publicly available records of the Commission as described in paragraph (a) of this section. Upon request, and only when suitable arrangements can be made with respect to the transportation, storage, and inspection of records, records may be sent to any other Commission office for inspection at that office, if the records are not needed by the Commission or the staff in connection with the performance of official duties. When the records are sent to another office at the request of a member of the public, the requestor shall be charged all costs incurred by the Commission in transporting the records.
 
-(ii) All regional offices of the Commission have available for public examination the materials set forth in paragraph (a)(2) of this section and the *SEC Docket, SEC News Digest,* and other SEC publications. Blank forms as well as other general information about the operations of the Commission described in paragraph (a)(1) of this section may also be available at particular regional offices.
+(ii) All regional offices of the Commission have available for public examination the materials set forth in paragraph (a)(2) of this section and the *SEC News Digest* and other SEC publications. Blank forms as well as other general information about the operations of the Commission described in paragraph (a)(1) of this section may also be available at particular regional offices.
 
 (iii) The addresses of the Commission's regional offices are:
 
@@ -210,7 +210,7 @@ San Francisco Regional Office - 44 Montgomery Street, Suite 2600, San Francisco,
 
 (8) *Releases and publications.* (i) The Commission's decisions, reports, orders, rules and regulations are published initially in the form of releases and distributed.
 
-(ii) The Commission publishes daily the *SEC News Digest,* which summarizes the releases published by the Commission each day, contains Commission announcements, and lists certain filings with the Commission. The Commission publishes weekly the *SEC Docket,* which prints the full text of every Commission release.
+(ii) The Commission publishes daily the *SEC News Digest,* which summarizes the releases published by the Commission each day, contains Commission announcements, and lists certain filings with the Commission.
 
 (iii) The Commission publishes an annual report to the Congress which sets forth the results of the Commission's operations during the past fiscal year under the various statutes committed to its charge. Copies may be obtained from the Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20402.
 
