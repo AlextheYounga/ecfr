@@ -1,6 +1,6 @@
 ##### § 404.231 Steps in computing your primary insurance amount under the guaranteed alternative—general.
 
-If you reach age 62 after 1978 but before 1984, we follow three major steps in finding your guaranteed alternative:
+If you reach age 62 after 1978 but before 1984, we follow three major steps in finding your guaranteed alternative:*ad hoc*
 
 (a) First, we compute your average monthly wage, as described in § 404.232;
 

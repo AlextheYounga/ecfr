@@ -1,6 +1,6 @@
 ##### § 404.2103 Definitions.
 
-For purposes of this subpart:
+For purposes of this subpart:*Accept the beneficiary as a client for VR services*
 
 *Accept the beneficiary as a client for VR services* means that the State VR agency determines that the individual is eligible for VR services and places the individual into an active caseload status for development of an individualized written rehabilitation program.
 

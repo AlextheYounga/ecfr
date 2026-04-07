@@ -64,6 +64,13 @@
 
 Example:B starts work in October 1981 at which time she purchases a medical device at a cost of $4,800 plus interest charges of $720. Her monthly payments begin in October. She earns and receives $400 a month. The term of the installment contract is 48 months. No downpayment is made. The monthly allowable deduction for the item would be $115 ($5520 divided by 48) for each month of work during the 48 months.
 
+If A's earnings had been $15 above the SGA earnings amount, A probably would select the option of projecting the $250 payment over the 12-month period, October 1981-September 1982, giving A an allowable deduction of $20.83 a month for each month of work during that period. This deduction would reduce A's earnings below the SGA level for 12 months.
+
+| Explanation:                         |           |            |
+| Downpayment in 10/81                 | $1,200    |            |
+| Monthly payments 11/81 through 09/82 | 1,265     |            |
+|                                      | 12) 2,465 | \= $205.42 |
+
 (2) *Nonrecurring expenses.* Part or all of your expenses may not be recurring. For example, you may make a one-time payment in full for an item or service or make a downpayment. If you are working when you make the payment we will either deduct the entire amount in the month you pay it or allocate the amount over a 12 consecutive month period beginning with the month of payment, whichever you select.
 
 Example:A begins working in October 1981 and earns $525 a month. In the same month he purchases and pays for a deductible item at a cost of $250. In this situation we could allow a $250 deduction for October 1981, reducing A's earnings below the SGA level for that month.

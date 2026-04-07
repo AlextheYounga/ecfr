@@ -1,6 +1,6 @@
 ##### § 404.339 How do I become entitled to mother's or father's benefits as a surviving spouse?
 
-You may be entitled as the widow or widower to mother's or father's benefits on the earnings record of someone who was fully or currently insured when he or she died. You are entitled to these benefits if—
+You may be entitled as the widow or widower to mother's or father's benefits on the earnings record of someone who was fully or currently insured when he or she died. You are entitled to these benefits if—*in your care*
 
 (a) You are the widow or widower of the insured and meet the conditions described in § 404.335(a);
 

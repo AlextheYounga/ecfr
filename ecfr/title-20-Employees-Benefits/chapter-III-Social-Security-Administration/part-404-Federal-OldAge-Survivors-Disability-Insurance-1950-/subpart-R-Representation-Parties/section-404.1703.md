@@ -1,6 +1,6 @@
 ##### § 404.1703 Definitions.
 
-As used in this subpart—
+As used in this subpart—*Affiliate*
 
 *Affiliate* means to associate with an entity through our prescribed registration process.
 

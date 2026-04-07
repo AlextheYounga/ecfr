@@ -1,6 +1,6 @@
 ##### § 404.1902 Definitions.
 
-For purposes of this subpart—
+For purposes of this subpart—*Act*
 
 *Act* means the Social Security Act (42 U.S.C. 301 *et seq.*).
 

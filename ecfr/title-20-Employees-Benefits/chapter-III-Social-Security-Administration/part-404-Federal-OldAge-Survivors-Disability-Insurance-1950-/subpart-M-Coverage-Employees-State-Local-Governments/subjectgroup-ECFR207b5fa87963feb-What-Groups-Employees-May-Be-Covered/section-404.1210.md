@@ -1,6 +1,6 @@
 ##### § 404.1210 Optionally excluded services.
 
-Certain services and positions may, if the State requests it, be excluded from coverage. These exclusions may be applied on a statewide basis or selectively by coverage groups. They are:
+Certain services and positions may, if the State requests it, be excluded from coverage. These exclusions may be applied on a statewide basis or selectively by coverage groups. They are:Federal Register
 
 (a) Services in any class or classes of elective positions;
 

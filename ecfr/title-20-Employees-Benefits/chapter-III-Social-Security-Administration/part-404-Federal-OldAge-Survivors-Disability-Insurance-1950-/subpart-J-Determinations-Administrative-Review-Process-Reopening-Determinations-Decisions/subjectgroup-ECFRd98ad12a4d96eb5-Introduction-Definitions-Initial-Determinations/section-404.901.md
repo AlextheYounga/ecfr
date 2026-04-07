@@ -1,6 +1,6 @@
 ##### § 404.901 Definitions.
 
-As used in this subpart:
+As used in this subpart:*Date you receive notice*
 
 *Date you receive notice* means 5 days after the date on the notice, unless you show us that you did not receive it within the 5-day period.
 

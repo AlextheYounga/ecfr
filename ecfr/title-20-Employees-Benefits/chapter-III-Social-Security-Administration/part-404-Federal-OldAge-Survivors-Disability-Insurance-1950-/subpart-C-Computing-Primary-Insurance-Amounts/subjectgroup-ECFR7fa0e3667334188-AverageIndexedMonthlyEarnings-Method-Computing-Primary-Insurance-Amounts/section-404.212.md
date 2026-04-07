@@ -1,6 +1,6 @@
 ##### § 404.212 Computing your primary insurance amount from your average indexed monthly earnings.
 
-(a) *General.* We compute your primary insurance amount under the average-indexed-monthly-earnings method by applying a *benefit formula* to your average indexed monthly earnings.
+(a) *General.* We compute your primary insurance amount under the average-indexed-monthly-earnings method by applying a *benefit formula* to your average indexed monthly earnings.Federal Register
 
 (b) *Benefit formula.* (1) We use the applicable benefit formula in appendix II for the year you reach age 62, become disabled, or die whichever occurs first. If you die before age 62, and your surviving spouse or surviving divorced spouse is first eligible after 1984, we may compute the primary insurance amount, for the purpose of paying benefits to your widow(er), as if you had not died but reached age 62 in the second year after the indexing year that we computed under the provisions of § 404.211(d)(4). We will not use this primary insurance amount for computing benefit amounts for your other survivors or for computing the maximum family benefits payable on your earnings record. Further, we will only use this primary insurance amount if it results in a higher widow(er)'s benefit than would result if we did not use this special computation.
 

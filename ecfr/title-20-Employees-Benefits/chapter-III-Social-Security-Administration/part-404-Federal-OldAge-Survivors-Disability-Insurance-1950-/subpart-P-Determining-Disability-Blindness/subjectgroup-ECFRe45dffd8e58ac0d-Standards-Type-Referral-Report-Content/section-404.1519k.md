@@ -1,6 +1,6 @@
 ##### § 404.1519k Purchase of medical examinations, laboratory tests, and other services.
 
-We may purchase medical examinations, including psychiatric and psychological examinations, X-rays and laboratory tests (including specialized tests, such as pulmonary function studies, electrocardiograms, and stress tests) from a medical source.
+We may purchase medical examinations, including psychiatric and psychological examinations, X-rays and laboratory tests (including specialized tests, such as pulmonary function studies, electrocardiograms, and stress tests) from a medical source.*See*
 
 (a) The rate of payment for purchasing medical or other services necessary to make determinations of disability may not exceed the highest rate paid by Federal or public agencies in the State for the same or similar types of service. *See* §§ 404.1624 and 404.1626 of this part.
 

@@ -1,6 +1,6 @@
 ##### § 404.506 When waiver may be applied and how to process the request.
 
-(a) Section 204(b) of the Act provides that there shall be no adjustment or recovery in any case where an overpayment under title II has been made to an individual who is without fault if adjustment or recovery would either defeat the purpose of title II of the Act, or be against equity and good conscience.
+(a) Section 204(b) of the Act provides that there shall be no adjustment or recovery in any case where an overpayment under title II has been made to an individual who is without fault if adjustment or recovery would either defeat the purpose of title II of the Act, or be against equity and good conscience.*pandemic period*
 
 (b) We will apply the procedures in this paragraph (b) when an individual requests waiver of all or part of a qualifying overpayment.
 

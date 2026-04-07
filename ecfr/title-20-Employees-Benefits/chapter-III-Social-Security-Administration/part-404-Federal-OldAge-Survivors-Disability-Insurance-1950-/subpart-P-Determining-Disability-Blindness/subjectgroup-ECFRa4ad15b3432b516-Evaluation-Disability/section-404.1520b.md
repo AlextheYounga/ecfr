@@ -1,6 +1,6 @@
 ##### § 404.1520b How we consider evidence.
 
-After we review all of the evidence relevant to your claim, we make findings about what the evidence shows.
+After we review all of the evidence relevant to your claim, we make findings about what the evidence shows.*Complete and consistent evidence.*
 
 (a) *Complete and consistent evidence.* If all of the evidence we receive, including all medical opinion(s), is consistent and there is sufficient evidence for us to determine whether you are disabled, we will make our determination or decision based on that evidence.
 

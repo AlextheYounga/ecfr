@@ -1,6 +1,6 @@
 ##### § 404.610 What makes an application a claim for benefits?
 
-We will consider your application a claim for benefits if it generally meets all of the following conditions:
+We will consider your application a claim for benefits if it generally meets all of the following conditions:*See*
 
 (a) You must file on a prescribed form, as stated in § 404.611. *See* § 422.505(a) of this chapter for the types of prescribed applications you can file.
 

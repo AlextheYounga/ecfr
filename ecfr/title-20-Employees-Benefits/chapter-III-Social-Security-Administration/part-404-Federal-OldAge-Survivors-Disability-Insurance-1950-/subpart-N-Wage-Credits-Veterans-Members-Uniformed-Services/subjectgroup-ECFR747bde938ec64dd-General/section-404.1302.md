@@ -1,6 +1,6 @@
 ##### § 404.1302 Definitions.
 
-As used in this subpart—
+As used in this subpart—*Act*
 
 *Act* means the Social Security Act, as amended.
 

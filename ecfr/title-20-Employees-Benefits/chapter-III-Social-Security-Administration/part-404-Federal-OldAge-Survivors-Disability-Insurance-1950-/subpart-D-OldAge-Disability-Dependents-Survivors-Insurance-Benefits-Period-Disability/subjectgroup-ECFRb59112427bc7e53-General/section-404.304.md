@@ -1,6 +1,6 @@
 ##### § 404.304 What are the general rules on benefit amounts?
 
-This subpart describes how we determine the highest monthly benefit amount you ordinarily could qualify for under each type of benefit. However, the highest monthly benefit amount you could qualify for may not be the amount you will be paid. In a particular month, your benefit amount may be reduced or not paid at all. Under some circumstances, your benefit amount may be increased. The most common reasons for a change in your benefit amount are listed below.
+This subpart describes how we determine the highest monthly benefit amount you ordinarily could qualify for under each type of benefit. However, the highest monthly benefit amount you could qualify for may not be the amount you will be paid. In a particular month, your benefit amount may be reduced or not paid at all. Under some circumstances, your benefit amount may be increased. The most common reasons for a change in your benefit amount are listed below.*Age.*
 
 (a) *Age.* Sections 404.410 through 404.413 explain how your old-age, wife's or husband's, or widow's or widower's benefits may be reduced if you choose to receive them before you attain full retirement age (as defined in § 404.409).
 

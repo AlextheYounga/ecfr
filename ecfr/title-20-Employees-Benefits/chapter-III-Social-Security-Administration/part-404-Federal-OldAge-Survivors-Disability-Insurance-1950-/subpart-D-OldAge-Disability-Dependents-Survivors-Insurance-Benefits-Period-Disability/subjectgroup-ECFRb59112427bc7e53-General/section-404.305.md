@@ -1,6 +1,6 @@
 ##### § 404.305 When you may not be entitled to benefits.
 
-In addition to the situations described in § 404.304 when you may not receive a benefit payment, there are special circumstances when you may not be entitled to benefits. These circumstances are—
+In addition to the situations described in § 404.304 when you may not receive a benefit payment, there are special circumstances when you may not be entitled to benefits. These circumstances are—*Waiver of benefits.*
 
 (a) *Waiver of benefits.* If you have waived benefits and been granted a tax exemption on religious grounds as described in §§ 404.1039 and 404.1075, no one may become entitled to any benefits or payments on your earnings record and you may not be entitled to benefits on anyone else's earnings record; and
 

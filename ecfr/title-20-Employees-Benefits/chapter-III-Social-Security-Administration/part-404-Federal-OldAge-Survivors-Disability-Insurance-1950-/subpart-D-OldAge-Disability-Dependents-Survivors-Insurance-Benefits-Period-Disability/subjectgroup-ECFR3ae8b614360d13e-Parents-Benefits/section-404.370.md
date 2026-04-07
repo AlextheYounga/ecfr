@@ -1,6 +1,6 @@
 ##### § 404.370 Who is entitled to parent's benefits?
 
-You may be entitled to parent's benefits on the earnings record of someone who has died and was fully insured. You are entitled to these benefits if all the following conditions are met:
+You may be entitled to parent's benefits on the earnings record of someone who has died and was fully insured. You are entitled to these benefits if all the following conditions are met:*one-half support.*
 
 (a) You are related to the insured person as his or her parent in one of the ways described in § 404.374.
 

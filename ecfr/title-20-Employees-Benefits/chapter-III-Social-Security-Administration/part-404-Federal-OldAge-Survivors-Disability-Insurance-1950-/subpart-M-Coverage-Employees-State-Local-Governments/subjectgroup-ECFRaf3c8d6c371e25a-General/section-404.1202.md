@@ -1,6 +1,6 @@
 ##### § 404.1202 Definitions.
 
-(a) Terms which have special meaning in this subpart are described in this section. Where necessary, further explanation is included in the section where the term is used.
+(a) Terms which have special meaning in this subpart are described in this section. Where necessary, further explanation is included in the section where the term is used.*Coverage terms:*
 
 (b) *Coverage terms:*
 

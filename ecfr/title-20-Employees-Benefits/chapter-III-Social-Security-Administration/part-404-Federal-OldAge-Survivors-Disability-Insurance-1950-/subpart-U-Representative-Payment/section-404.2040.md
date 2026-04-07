@@ -2,7 +2,7 @@
 
 (a) *Current maintenance.* (1) We will consider that payments we certify to a representative payee have been used for the use and benefit of the beneficiary if they are used for the beneficiary's current maintenance. Current maintenance includes cost incurred in obtaining food, shelter, clothing, medical care, and personal comfort items.
 
-Example:An aged beneficiary is entitled to a monthly Social Security benefit of $400. Her son, who is her payee, disburses her benefits in the following manner:
+Example:An aged beneficiary is entitled to a monthly Social Security benefit of $400. Her son, who is her payee, disburses her benefits in the following manner: *i.e.*
 
 | Rent and utilities | $200 |
 | Medical            | 25   |
@@ -12,6 +12,8 @@ Example:An aged beneficiary is entitled to a monthly Social Security benefit of 
 | Miscellaneous      | 30   |
 
 The above expenditures would represent proper disbursements on behalf of the beneficiary.
+
+The payee takes his brother to town and buys him a pair of shoes for $29. He also takes the beneficiary to see a movie which costs $3. When they return to the institution, the payee gives his brother $3 to be used at the canteen.
 
 (2) Notwithstanding the provisions of paragraph (a)(1) of this section, if a beneficiary is a member of an Aid to Families With Dependent Children (AFDC) assistance unit, we do not consider it inappropriate for a representative payee to make the benefit payments available to the AFDC assistance unit.
 

@@ -1,6 +1,6 @@
 ##### § 404.503 Underpayments.
 
-Underpayments will be adjusted as follows:
+Underpayments will be adjusted as follows:*Individual underpaid is living.*
 
 (a) *Individual underpaid is living.* If an individual to whom an underpayment is due is living, the amount of such underpayment will be paid to such individual either in a single payment (if he is not entitled to a monthly benefit or a lump-sum death payment) or by increasing one or more monthly benefits or a lump-sum death payment to which such individual is or becomes entitled. However, if we determine that the individual to whom an underpayment is due also received an overpayment as defined in § 404.501(a) for a different period, we will apply any underpayment due the individual to reduce that overpayment, unless we have waived recovery of the overpayment under the provisions of §§ 404.506 through 404.512.
 

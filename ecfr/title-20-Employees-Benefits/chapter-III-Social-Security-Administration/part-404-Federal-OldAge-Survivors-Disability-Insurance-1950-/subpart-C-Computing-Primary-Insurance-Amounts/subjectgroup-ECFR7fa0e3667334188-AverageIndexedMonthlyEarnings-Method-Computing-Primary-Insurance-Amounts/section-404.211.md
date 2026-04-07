@@ -1,6 +1,6 @@
 ##### § 404.211 Computing your average indexed monthly earnings.
 
-(a) *General.* In this method, your social security earnings after 1950 are *indexed,* as described in paragraph (d) of this section, then averaged over the period of time you can reasonably have been expected to have worked in employment or self-employment covered by social security. (Your earnings before 1951 are not used in finding your average indexed monthly earnings.)
+(a) *General.* In this method, your social security earnings after 1950 are *indexed,* as described in paragraph (d) of this section, then averaged over the period of time you can reasonably have been expected to have worked in employment or self-employment covered by social security. (Your earnings before 1951 are not used in finding your average indexed monthly earnings.)Federal Register
 
 (b) *Which earnings may be used in computing your average indexed monthly earnings*—(1) *Earnings.* In computing your average indexed monthly earnings, we use wages, compensation, self-employment income, and deemed military wage credits (see §§ 404.1340 through 404.1343) that are creditable to you for social security purposes for years after 1950.
 
@@ -24,7 +24,7 @@
 
 (3) The second step in indexing your social security earnings is to multiply the actual year-by-year dollar amounts of your earnings (up to the maximum amounts creditable, as explained in §§ 404.1047 and 404.1096 of this part) by the quotients found in paragraph (d)(2) of this section for each of those years. We round the results to the nearer penny. (The quotient for your indexing year is 1.0; this means that your earnings in that year are used in their actual dollar amount; any earnings after your indexing year that may be used in computing your average indexed monthly earnings are also used in their actual dollar amount.)
 
-Example:Ms. A reaches age 62 in July 1979. Her year-by-year social security earnings since 1950 are as follows:
+Example:Ms. A reaches age 62 in July 1979. Her year-by-year social security earnings since 1950 are as follows: *Step 1.*
 
 | Year | Earnings |
 | ---- | -------- |
@@ -121,6 +121,8 @@ Example:Ms. A reaches age 62 in July 1979. Her year-by-year social security earn
 | 1976 | 11,100             | 1.0599318             | 11,765.24                                                     |
 | 1977 | 9,900              | 1.0000000             | 9,900.00                                                      |
 | 1978 | 11,000             | 0                     | 11,000.00                                                     |
+
+Ms. M. lived with her child, who was born in 1972, in all months of 1973 and 1974 and did not have any earnings in those years. We, therefore, recompute Ms. M.'s DIB beginning with July 1981 to give her the advantage of the child care dropout. To do this, we reduce the 4 computation years by 1 child care year to get 3 computation years. Because the child care dropout cannot be applied to computation years in which the worker had earnings, we can drop only one of Ms. M.'s computation years, *i.e.*, 1976, in addition to the year 1975 which we dropped in the initial computation.
 
 (4) We calculate your indexing year under this paragraph if you, the insured worker, die before reaching age 62, your surviving spouse or surviving divorced spouse is first eligible after 1984, and the indexing year calculated under this paragraph results in a higher widow(er)'s benefit than results from the indexing year calculated under the general rule explained in paragraph (d)(1)(ii). For purposes of this paragraph, the indexing year is never earlier than the second year before the year of your death. Except for this limitation, the indexing year is the earlier of—
 

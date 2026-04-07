@@ -4,7 +4,7 @@ Deductions are made against the total family benefits where the excess earnings 
 
 Example:A is entitled to an old-age insurance benefit of $165 and his wife is entitled to $82.50 before rounding, making a total of $247.50. After A's excess earnings have been charged to the appropriate months, there remains a partial benefit of $200 payable for October, which is apportioned as follows:
 
-|                                                                             | Original benefit | Fraction of original | Benefit1 |
+| 1                                                                           | Original benefit | Fraction of original | Benefit1 |
 | --------------------------------------------------------------------------- | ---------------- | -------------------- | -------- |
 | A                                                                           | $165             | 2/3                  | $133     |
 | Wife                                                                        | 82.50            | 1/3                  | 66       |

@@ -1,6 +1,6 @@
 ##### § 404.721 Evidence to presume a person is dead.
 
-If you cannot prove the person is dead but evidence of death is needed, we will presume he or she died at a certain time if you give us the following evidence:
+If you cannot prove the person is dead but evidence of death is needed, we will presume he or she died at a certain time if you give us the following evidence:*presumed to be*
 
 (a) A certified copy of, or extract from, an official report or finding by an agency or department of the United States that a missing person is *presumed to be* dead as set out in Federal law (5 U.S.C. 5565). Unless we have other evidence showing an actual date of death, we will use the date he or she was reported missing as the date of death.
 

@@ -1,6 +1,6 @@
 ##### § 404.985 Application of circuit court law.
 
-The procedures which follow apply to administrative determinations or decisions on claims involving the application of circuit court law.
+The procedures which follow apply to administrative determinations or decisions on claims involving the application of circuit court law.*General.*Federal Register
 
 (a) *General.* We will apply a holding in a United States Court of Appeals decision that we determine conflicts with our interpretation of a provision of the Social Security Act or regulations unless the Government seeks further judicial review of that decision or we relitigate the issue presented in the decision in accordance with paragraphs (c) and (d) of this section. We will apply the holding to claims at all levels of the administrative review process within the applicable circuit unless the holding, by its nature, applies only at certain levels of adjudication.
 

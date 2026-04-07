@@ -1,6 +1,6 @@
 ##### § 404.316 When entitlement to disability benefits begins and ends.
 
-(a) You are entitled to disability benefits beginning with the first month covered by your application in which you meet all the other requirements for entitlement. If a waiting period is required, your benefits cannot begin earlier than the first month following that period.
+(a) You are entitled to disability benefits beginning with the first month covered by your application in which you meet all the other requirements for entitlement. If a waiting period is required, your benefits cannot begin earlier than the first month following that period.*Exception to paragraph (c):*
 
 (b) Your entitlement to disability benefits ends with the earliest of these months:
 

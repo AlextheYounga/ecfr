@@ -1,6 +1,6 @@
 ##### § 404.340 How do I become entitled to mother's or father's benefits as a surviving divorced spouse?
 
-You may be entitled to mother's or father's benefits as the surviving divorced wife or the surviving divorced husband on the earnings record of someone who was fully or currently insured when she or he died. You are entitled to these benefits if—
+You may be entitled to mother's or father's benefits as the surviving divorced wife or the surviving divorced husband on the earnings record of someone who was fully or currently insured when she or he died. You are entitled to these benefits if—*in your care*
 
 (a) You were validly married to the insured under State law as described in § 404.345 or you were deemed to be validly married as described in § 404.346 but the marriage ended in a final divorce and—
 

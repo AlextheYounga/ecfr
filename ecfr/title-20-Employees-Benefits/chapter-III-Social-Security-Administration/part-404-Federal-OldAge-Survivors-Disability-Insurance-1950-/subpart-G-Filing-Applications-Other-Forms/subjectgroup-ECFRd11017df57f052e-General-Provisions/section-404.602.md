@@ -1,6 +1,6 @@
 ##### § 404.602 Definitions.
 
-For the purpose of this subpart—
+For the purpose of this subpart—*Applicant*
 
 *Applicant* means the person who files an application for benefits for himself or herself or for someone else. A person who files for himself or herself is both the *applicant* and the *claimant.*
 

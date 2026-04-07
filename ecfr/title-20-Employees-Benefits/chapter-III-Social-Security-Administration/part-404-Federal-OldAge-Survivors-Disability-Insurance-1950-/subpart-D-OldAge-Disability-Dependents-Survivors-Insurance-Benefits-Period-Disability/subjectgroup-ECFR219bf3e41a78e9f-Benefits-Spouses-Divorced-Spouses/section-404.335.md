@@ -1,6 +1,6 @@
 ##### § 404.335 How do I become entitled to widow's or widower's benefits?
 
-We will find you entitled to benefits as the widow or widower of a person who died fully insured if you meet the requirements in paragraphs (a) through (e) of this section:
+We will find you entitled to benefits as the widow or widower of a person who died fully insured if you meet the requirements in paragraphs (a) through (e) of this section:*i.e.,*
 
 (a) You are the insured's widow or widower based upon a relationship described in §§ 404.345 through 404.346, and you meet one of the conditions in paragraphs (a)(1) through (4) of this section:
 

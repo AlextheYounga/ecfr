@@ -1,6 +1,6 @@
 ##### § 404.303 Definitions.
 
-As used in this subpart:
+As used in this subpart:*Apply*
 
 *Apply* means to sign a form or statement that the Social Security Administration accepts as an application for benefits under the rules set out in subpart G.
 

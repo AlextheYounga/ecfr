@@ -2,9 +2,9 @@
 
 (a) *General.* You may use the following table to determine the number of quarters of coverage (QCs) you need to be fully insured under § 404.110. Paragraphs (b) and (c) of this section tell you how to use this table.
 
-| Worker who reaches retirement age as described in § 404.110(b)(2)                                                  | Worker who dies before reaching retirement age as described in § 404.110(b)(2) |
+| Worker who reaches retirement age as described in § 404.110(b)(2)1                                                 | Worker who dies before reaching retirement age as described in § 404.110(b)(2) |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| Jan. 1, 1893 or earlier                                                                                            | 6                                                                              |
+| Jan. 1, 1893 or earlier5                                                                                           | 6                                                                              |
 | Jan. 2, 1893 to Jan. 1, 1894                                                                                       | 7                                                                              |
 | Jan. 2, 1894 to Jan. 1, 1895                                                                                       | 8                                                                              |
 | Jan. 2, 1895 to Jan. 1, 1896                                                                                       | 9                                                                              |

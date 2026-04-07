@@ -1,6 +1,6 @@
 ##### § 404.447 Evaluation of factors involved in substantial services test.
 
-In determining whether an individual's services are substantial, consideration is given to the following factors:
+In determining whether an individual's services are substantial, consideration is given to the following factors:*Amount of time devoted to trades or businesses.*
 
 (a) *Amount of time devoted to trades or businesses.* Consideration is first given to the amount of time the self-employed individual devotes to all trades or businesses, the net income or loss of which is includable in computing his earnings as defined in § 404.429. For the purposes of this paragraph, the time devoted to a trade or business includes all the time spent by the individual in any activity, whether physical or mental, at the place of business or elsewhere in furtherance of such trade or business. This includes the time spent in advising and planning the operation of the business, making business contacts, attending meetings, and preparing and maintaining the facilities and records of the business. All time spent at the place of business which cannot reasonably be considered unrelated to business activities is considered time devoted to the trade or business. In considering the weight to be given to the time devoted to trades or businesses the following rules are applied:
 

@@ -1,6 +1,6 @@
 ##### § 404.374 Parent's relationship to the insured.
 
-You may be eligible for benefits as the insured person's parent if—
+You may be eligible for benefits as the insured person's parent if—*permanent home.*
 
 (a) You are the mother or father of the insured and would be considered his or her parent under the laws of the State where the insured had a permanent home when he or she died;
 

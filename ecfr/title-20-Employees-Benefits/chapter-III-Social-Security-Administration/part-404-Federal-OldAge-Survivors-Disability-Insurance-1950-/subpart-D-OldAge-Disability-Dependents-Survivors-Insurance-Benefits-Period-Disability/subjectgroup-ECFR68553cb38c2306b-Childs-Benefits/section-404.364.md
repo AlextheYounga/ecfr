@@ -1,6 +1,6 @@
 ##### § 404.364 When is a grandchild or stepgrandchild dependent?
 
-If you are the insured's grandchild or stepgrandchild, as defined in § 404.358(a), you are considered dependent upon the insured if—
+If you are the insured's grandchild or stepgrandchild, as defined in § 404.358(a), you are considered dependent upon the insured if—*substantially all*
 
 (a) You began living with the insured before you became 18 years old; and
 

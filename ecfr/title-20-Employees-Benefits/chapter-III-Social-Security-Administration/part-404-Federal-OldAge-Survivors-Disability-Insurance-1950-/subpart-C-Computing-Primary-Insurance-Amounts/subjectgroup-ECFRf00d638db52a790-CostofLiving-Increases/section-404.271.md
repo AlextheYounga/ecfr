@@ -1,6 +1,6 @@
 ##### § 404.271 When automatic cost-of-living increases apply.
 
-Besides increases in the primary insurance amounts of current beneficiaries, automatic cost-of-living increases also apply to—
+Besides increases in the primary insurance amounts of current beneficiaries, automatic cost-of-living increases also apply to—*maximum family benefit amounts*
 
 (a) The special minimum primary insurance amounts (described in §§ 404.260 through 404.261) of current and future beneficiaries;
 

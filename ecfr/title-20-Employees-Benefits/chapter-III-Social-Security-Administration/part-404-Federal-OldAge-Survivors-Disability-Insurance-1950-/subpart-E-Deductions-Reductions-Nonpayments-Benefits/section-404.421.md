@@ -1,6 +1,6 @@
 ##### § 404.421 How are deductions made when a beneficiary fails to have a child in his or her care?
 
-Deductions for failure to have a child in care (as defined in subpart D of this part) are made as follows:
+Deductions for failure to have a child in care (as defined in subpart D of this part) are made as follows:*Wife's or husband's benefit.*
 
 (a) *Wife's or husband's benefit.* A deduction is made from the wife's or husband's benefits to which he or she is entitled for any month if he or she is under full retirement age and does not have in his or her care a child of the insured entitled to child's benefits. However, a deduction is not made for any month in which he or she is age 62 or over, but under full retirement age, and there is in effect a certificate of election for him or her to receive actuarially reduced wife's or husband's benefits for such month (see subpart D of this part).
 

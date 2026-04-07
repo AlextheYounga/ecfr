@@ -1,6 +1,6 @@
 ##### § 404.1520c How we consider and articulate medical opinions and prior administrative medical findings for claims filed on or after March 27, 2017.
 
-For claims filed (see § 404.614) on or after March 27, 2017, the rules in this section apply. For claims filed before March 27, 2017, the rules in § 404.1527 apply.
+For claims filed (see § 404.614) on or after March 27, 2017, the rules in this section apply. For claims filed before March 27, 2017, the rules in § 404.1527 apply.*How we consider medical opinions and prior administrative medical findings.*
 
 (a) *How we consider medical opinions and prior administrative medical findings.* We will not defer or give any specific evidentiary weight, including controlling weight, to any medical opinion(s) or prior administrative medical finding(s), including those from your medical sources. When a medical source provides one or more medical opinions or prior administrative medical findings, we will consider those medical opinions or prior administrative medical findings from that medical source together using the factors listed in paragraphs (c)(1) through (c)(5) of this section, as appropriate. The most important factors we consider when we evaluate the persuasiveness of medical opinions and prior administrative medical findings are supportability (paragraph (c)(1) of this section) and consistency (paragraph (c)(2) of this section). We will articulate how we considered the medical opinions and prior administrative medical findings in your claim according to paragraph (b) of this section.
 

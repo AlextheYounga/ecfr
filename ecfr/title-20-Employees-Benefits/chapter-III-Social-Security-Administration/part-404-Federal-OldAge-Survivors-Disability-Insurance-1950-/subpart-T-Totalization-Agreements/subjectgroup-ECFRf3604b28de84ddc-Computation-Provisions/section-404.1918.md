@@ -1,6 +1,6 @@
 ##### § 404.1918 How benefits are computed.
 
-(a) *General.* Unless otherwise provided in an agreement, benefits will be computed in accordance with this section. Benefits payable under an agreement are based on a pro rata primary insurance amount (PIA), which we determine as follows:
+(a) *General.* Unless otherwise provided in an agreement, benefits will be computed in accordance with this section. Benefits payable under an agreement are based on a pro rata primary insurance amount (PIA), which we determine as follows:Federal Register.1/4
 
 (1) We establish a theoretical earnings record for a worker which attributes to all computation base years (see §§ 404.211(b) and 404.241(c)) the same relative earnings position (REP) as he or she has in the years of his or her actual U.S. covered work. As explained in paragraph (b)(3) of this section, the REP is derived by determining the ratio of the worker's actual U.S. covered earnings in each year to the average of the total U.S. covered wages of all workers for that year, and then averaging the ratios for all such years. This average is the REP and is expressed as a percentage.
 
@@ -43,15 +43,15 @@
 
 (2) The ratio of the worker's actual number of U.S. QC's to the number of calendar quarters in the worker's coverage lifetime. A coverage lifetime means the worker's benefit computation years as determined under § 404.211(e), § 404.221(c), or § 404.241(d).
 
-Example 1:C attains age 62 in 1982 and needs 31 QC's to be insured. C worked under the U.S. system from July 1, 1974 to December 31, 1980 and therefore has only 6 1/2 years during which he worked under the U.S. system (26 QC's). C, however, has worked under the Social Security system of a foreign country that is party to a totalization agreement, and his total U.S. and foreign work, combined as described in § 404.1908, equals more than 31 QC's. Thus, the combined coverage gives C insured status. The benefit is computed as follows:
+Example 1:C attains age 62 in 1982 and needs 31 QC's to be insured. C worked under the U.S. system from July 1, 1974 to December 31, 1980 and therefore has only 6 1/2 years during which he worked under the U.S. system (26 QC's). C, however, has worked under the Social Security system of a foreign country that is party to a totalization agreement, and his total U.S. and foreign work, combined as described in § 404.1908, equals more than 31 QC's. Thus, the combined coverage gives C insured status. The benefit is computed as follows: *Step 2:*
 
-*Step 1:* Establish C's theoretical earnings record:
+*Step 1:* Establish C's theoretical earnings record:12/88
 
 The following table shows: (1) C's actual U.S. covered earnings for each year, (2) the average of the total wages of all workers for that year and (3) the ratio of (1) to (2):
 
 | Year | QC's | C's actual U.S. covered earnings | National average wage | Percentage ratio of (1) to (2) |
 | ---- | ---- | -------------------------------- | --------------------- | ------------------------------ |
-|      |      | (1)                              | (2)                   | (3)                            |
+| 12   |      | (1)                              | (2)                   | (3)                            |
 | 1974 | 2    | $2,045.08                        | $8,030.76             | 25.46558                       |
 | 1975 | 4    | 7,542.00                         | 8,630.92              | 87.38350                       |
 | 1976 | 4    | 9,016.00                         | 9,226.48              | 97.71874                       |

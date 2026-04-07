@@ -1,6 +1,6 @@
 ##### § 404.391 Who is entitled to the lump-sum death payment as a widow or widower who was living in the same household?
 
-You are entitled to the lump-sum death payment as a widow or widower who was living in the same household if—
+You are entitled to the lump-sum death payment as a widow or widower who was living in the same household if—*living in the same household*
 
 (a) You are the widow or widower of the deceased insured individual based upon a relationship described in § 404.345 or § 404.346;
 

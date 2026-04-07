@@ -1,6 +1,6 @@
 ##### § 404.2015 Information considered in determining whether to make representative payments.
 
-In determining whether to make representative payment we consider the following information:
+In determining whether to make representative payment we consider the following information:*Court determinations.*
 
 (a) *Court determinations.* If we learn that a beneficiary has been found to be legally incompetent, a certified copy of the court's determination will be the basis of our determination to make representative payment.
 

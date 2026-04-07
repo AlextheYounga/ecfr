@@ -1,6 +1,6 @@
 ##### § 404.1615 Making disability determinations.
 
-(a) When making a disability determination, the State agency will apply subpart P, part 404, of our regulations.
+(a) When making a disability determination, the State agency will apply subpart P, part 404, of our regulations.*i.e.*Federal Register
 
 (b) The State agency will make disability determinations based only on the medical and nonmedical evidence in its files.
 

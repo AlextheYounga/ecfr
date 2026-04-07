@@ -1,6 +1,6 @@
 ##### § 404.1527 Evaluating opinion evidence for claims filed before March 27, 2017.
 
-For claims filed (see § 404.614) before March 27, 2017, the rules in this section apply. For claims filed on or after March 27, 2017, the rules in § 404.1520c apply.
+For claims filed (see § 404.614) before March 27, 2017, the rules in this section apply. For claims filed on or after March 27, 2017, the rules in § 404.1520c apply.*Definitions.*
 
 (a) *Definitions.*
 

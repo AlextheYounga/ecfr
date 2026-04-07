@@ -1,6 +1,6 @@
 ##### § 404.463 Nonpayment of benefits of aliens outside the United States; “foreign social insurance system,” and “treaty obligation” exceptions defined.
 
-(a) *Foreign social insurance system exception.* The following criteria are used to evaluate the social insurance or pension system of a foreign country to determine whether the exception described in § 404.460(b) to the alien nonpayment provisions applies:
+(a) *Foreign social insurance system exception.* The following criteria are used to evaluate the social insurance or pension system of a foreign country to determine whether the exception described in § 404.460(b) to the alien nonpayment provisions applies:Federal Register.
 
 (1) *Social insurance or pension system.* A *social insurance system* means a governmental plan which pays benefits as an earned right, on the basis either of contributions or work in employment covered under the plan, without regard to the financial need of the beneficiary. However, a plan of this type may still be regarded as a *social insurance system* though it may provide, in a subordinate fashion, for a supplemental payment based on need. A *pension system* means a governmental plan which pays benefits based on residence or age, or a private employer's plan for which the government has set up uniform standards for coverage, contributions, eligibility, and benefit amounts provided that, in both of these types of plans, the financial need of the beneficiary is not a consideration.
 

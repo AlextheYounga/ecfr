@@ -1,6 +1,6 @@
 ##### § 404.1054 Payments by an employer of employee's tax or employee's contribution under State law.
 
-(a) We exclude as wages any payment by an employer (described in paragraph (b) of this section) that is not deducted from the employee's salary (or for which reimbursement is not made by the employee) of either—
+(a) We exclude as wages any payment by an employer (described in paragraph (b) of this section) that is not deducted from the employee's salary (or for which reimbursement is not made by the employee) of either—*Social Security tax*
 
 (1) The tax imposed by section 3101 of the Code (employee's share of *Social Security tax*); or
 

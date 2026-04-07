@@ -1,6 +1,6 @@
 ##### § 404.418 “Noncovered remunerative activity outside the United States,” defined.
 
-An individual is engaged in noncovered remunerative activity outside the United States for purposes of deductions described in § 404.417 if:
+An individual is engaged in noncovered remunerative activity outside the United States for purposes of deductions described in § 404.417 if:*United States*
 
 (a) He performs services outside the United States as an employee and the services do not constitute employment as defined in subpart K of this part and, for taxable years ending after 1955, the services are not performed in the active military or naval service of the United States; or
 

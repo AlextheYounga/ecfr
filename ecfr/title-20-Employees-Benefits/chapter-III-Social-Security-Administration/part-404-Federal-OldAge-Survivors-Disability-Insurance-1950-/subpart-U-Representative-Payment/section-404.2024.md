@@ -1,6 +1,6 @@
 ##### § 404.2024 How do we investigate a representative payee applicant?
 
-Before selecting an individual or organization to act as your representative payee, we will perform an investigation.
+Before selecting an individual or organization to act as your representative payee, we will perform an investigation.*Nature of the investigation.*
 
 (a) *Nature of the investigation.* As part of the investigation, we do the following:
 

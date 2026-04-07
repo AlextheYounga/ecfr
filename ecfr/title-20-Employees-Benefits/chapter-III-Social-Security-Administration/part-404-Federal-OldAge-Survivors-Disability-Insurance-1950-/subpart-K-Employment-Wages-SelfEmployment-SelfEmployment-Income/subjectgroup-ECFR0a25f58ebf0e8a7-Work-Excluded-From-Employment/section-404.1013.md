@@ -1,6 +1,6 @@
 ##### § 404.1013 Included-excluded rule.
 
-(a) If part of your work for an employer during a pay period is covered as employment and part excluded, all of your work during that period is considered covered if at least one-half of your time in the pay period is in covered work. If you spend most of your time in a pay period doing work that is excluded, all of your work in that period is excluded.
+(a) If part of your work for an employer during a pay period is covered as employment and part excluded, all of your work during that period is considered covered if at least one-half of your time in the pay period is in covered work. If you spend most of your time in a pay period doing work that is excluded, all of your work in that period is excluded.*pay period*
 
 (b) A *pay period* is the period for which your employer ordinarily pays you. It cannot be more than 31 consecutive days. If the actual period is not always the same, your usual pay period will be used for applying the included-excluded rule.
 

@@ -1,6 +1,6 @@
 ##### § 404.401 Deduction, reduction, and nonpayment of monthly benefits or lump-sum death payments.
 
-Under certain conditions, the amount of a monthly insurance benefit or the lump-sum death payment as calculated under the pertinent provisions of sections 202 and 203 of the Act (including reduction for age under section 202(q) of a monthly benefit) must be increased or decreased to determine the amount to be actually paid to a beneficiary. Increases in the amount of a monthly benefit or lump-sum death payment are based upon recomputation and recalculations of the primary insurance amount (see subpart C of this part). A decrease in the amount of a monthly benefit or lump-sum death payment is required in the following instances:
+Under certain conditions, the amount of a monthly insurance benefit or the lump-sum death payment as calculated under the pertinent provisions of sections 202 and 203 of the Act (including reduction for age under section 202(q) of a monthly benefit) must be increased or decreased to determine the amount to be actually paid to a beneficiary. Increases in the amount of a monthly benefit or lump-sum death payment are based upon recomputation and recalculations of the primary insurance amount (see subpart C of this part). A decrease in the amount of a monthly benefit or lump-sum death payment is required in the following instances:*Reductions.*
 
 (a) *Reductions.* A reduction of a person's monthly benefit is required where:
 

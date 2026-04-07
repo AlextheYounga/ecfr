@@ -1,6 +1,6 @@
 ##### § 404.1084 Gain or loss from disposition of property; capital assets; timber, coal, and iron ore; involuntary conversion.
 
-(a) If you are engaged in a trade or business, you must, in determining your net earnings from self-employment, exclude any gain or loss—
+(a) If you are engaged in a trade or business, you must, in determining your net earnings from self-employment, exclude any gain or loss—*involuntary conversion*
 
 (1) That is considered a gain or loss from the sale or exchange of a capital asset;
 

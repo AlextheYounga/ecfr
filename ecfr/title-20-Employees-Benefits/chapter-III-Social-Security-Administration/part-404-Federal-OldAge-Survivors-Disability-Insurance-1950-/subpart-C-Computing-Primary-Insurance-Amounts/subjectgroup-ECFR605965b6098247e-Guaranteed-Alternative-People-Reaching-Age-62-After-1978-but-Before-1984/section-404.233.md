@@ -1,6 +1,6 @@
 ##### § 404.233 Adjustment of your guaranteed alternative when you become entitled after age 62.
 
-(a) If you do not become entitled to benefits at the time you reach age 62, we adjust the guaranteed alternative computed for you under § 404.232 as described in paragraph (b) of this section.
+(a) If you do not become entitled to benefits at the time you reach age 62, we adjust the guaranteed alternative computed for you under § 404.232 as described in paragraph (b) of this section.*ad hoc*
 
 (b) To the primary insurance amount computed under the guaranteed alternative, we apply any automatic cost-of-living or *ad hoc* increases in primary insurance amounts that go into effect in the year you reach age 62 and in years up through the year you become entitled to benefits. (See appendix VI for a list of the percentage increases in primary insurance amounts since December 1978.)
 

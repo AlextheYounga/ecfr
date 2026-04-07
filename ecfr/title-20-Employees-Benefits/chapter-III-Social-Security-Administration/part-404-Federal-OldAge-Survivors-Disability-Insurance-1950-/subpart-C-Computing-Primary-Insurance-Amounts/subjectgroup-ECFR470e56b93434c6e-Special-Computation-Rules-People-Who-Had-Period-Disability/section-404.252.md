@@ -1,6 +1,6 @@
 ##### § 404.252 Subsequent entitlement to benefits 12 months or more after entitlement to disability benefits ended.
 
-In this situation, we compute your second-entitlement primary insurance amount by selecting the higher of the following:
+In this situation, we compute your second-entitlement primary insurance amount by selecting the higher of the following:*New primary insurance amount.*
 
 (a) *New primary insurance amount.* The primary insurance amount computed as of the time of your second entitlement under any of the computation methods for which you qualify at the time of your second entitlement; or
 

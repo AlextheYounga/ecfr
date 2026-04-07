@@ -1,6 +1,6 @@
 ##### § 404.1572 What we mean by substantial gainful activity.
 
-Substantial gainful activity is work activity that is both substantial and gainful:
+Substantial gainful activity is work activity that is both substantial and gainful:*Substantial work activity.*
 
 (a) *Substantial work activity.* Substantial work activity is work activity that involves doing significant physical or mental activities. Your work may be substantial even if it is done on a part-time basis or if you do less, get paid less, or have less responsibility than when you worked before.
 

@@ -1,6 +1,6 @@
 ##### § 404.999c What travel expenses are reimbursable.
 
-Reimbursable travel expenses include the ordinary expenses of public or private transportation as well as unusual costs due to special circumstances.
+Reimbursable travel expenses include the ordinary expenses of public or private transportation as well as unusual costs due to special circumstances.*Total cost*
 
 (a) Reimbursement for ordinary travel expenses is limited—
 

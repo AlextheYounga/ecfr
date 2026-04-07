@@ -1,6 +1,6 @@
 ##### § 404.336 How do I become entitled to widow's or widower's benefits as a surviving divorced spouse?
 
-We will find you entitled to widow's or widower's benefits as the surviving divorced wife or the surviving divorced husband of a person who died fully insured if you meet the requirements in paragraphs (a) through (e) of this section:
+We will find you entitled to widow's or widower's benefits as the surviving divorced wife or the surviving divorced husband of a person who died fully insured if you meet the requirements in paragraphs (a) through (e) of this section:*i.e.,*
 
 (a) You are the insured's surviving divorced wife or surviving divorced husband and you meet both of the conditions in paragraphs (a)(1) and (2) of this section:
 

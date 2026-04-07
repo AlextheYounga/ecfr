@@ -1,6 +1,6 @@
 ##### § 404.1730 Payment of fees.
 
-(a) *Fees allowed by a Federal court.* We will pay an attorney representative out of your past-due benefits the amount of the fee allowed by a Federal court in a proceeding under title II of the Act. The payment we make to the attorney is subject to the limitations described in paragraph (b)(1) of this section.
+(a) *Fees allowed by a Federal court.* We will pay an attorney representative out of your past-due benefits the amount of the fee allowed by a Federal court in a proceeding under title II of the Act. The payment we make to the attorney is subject to the limitations described in paragraph (b)(1) of this section.Federal Register.
 
 (b) *Fees we may pay*—(1) *Attorneys and eligible non-attorneys.* Except as provided in paragraph (c) of this section, if we make a determination or decision in your favor and you were represented by an attorney or an eligible non-attorney (see § 404.1717), and as a result of the determination or decision you have past-due benefits;
 

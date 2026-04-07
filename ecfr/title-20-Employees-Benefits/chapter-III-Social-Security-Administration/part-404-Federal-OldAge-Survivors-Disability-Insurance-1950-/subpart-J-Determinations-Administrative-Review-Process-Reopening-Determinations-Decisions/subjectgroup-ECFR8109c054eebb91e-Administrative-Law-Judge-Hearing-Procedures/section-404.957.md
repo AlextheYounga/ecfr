@@ -1,6 +1,6 @@
 ##### § 404.957 Dismissal of a request for a hearing before an administrative law judge.
 
-An administrative law judge may dismiss a request for a hearing under any of the following conditions:
+An administrative law judge may dismiss a request for a hearing under any of the following conditions:*res judicata*
 
 (a) At any time before notice of the hearing decision is mailed, you or the party or parties that requested the hearing ask to withdraw the request. This request may be submitted in writing to the administrative law judge or made orally at the hearing.
 

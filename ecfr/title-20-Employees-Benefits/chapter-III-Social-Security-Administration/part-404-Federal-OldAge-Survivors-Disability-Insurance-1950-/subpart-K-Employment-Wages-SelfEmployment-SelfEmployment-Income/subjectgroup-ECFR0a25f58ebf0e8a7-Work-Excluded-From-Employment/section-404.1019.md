@@ -1,6 +1,6 @@
 ##### § 404.1019 Work as a member of a uniformed service of the United States.
 
-(a) Your work as a member of a uniformed service of the United States is covered under Social Security (unless creditable under the Railroad Retirement Act), if—
+(a) Your work as a member of a uniformed service of the United States is covered under Social Security (unless creditable under the Railroad Retirement Act), if—*member of a uniformed service*
 
 (1) On or after January 1, 1957, the work is service on active duty or active duty for training but not including service performed while on leave without pay; or
 

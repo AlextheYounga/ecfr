@@ -1,6 +1,6 @@
 ##### § 404.201 What is included in this subpart?
 
-In this subpart we describe how we compute your primary insurance amount (PIA), how and when we will recalculate or recompute your PIA to include credit for additional earnings, and how we automatically adjust your PIA to reflect changes in the cost of living.
+In this subpart we describe how we compute your primary insurance amount (PIA), how and when we will recalculate or recompute your PIA to include credit for additional earnings, and how we automatically adjust your PIA to reflect changes in the cost of living.*What is my primary insurance amount?*
 
 (a) *What is my primary insurance amount?* Your primary insurance amount (PIA) is the basic figure we use to determine the monthly benefit amount payable to you and your family. For example, if you retire in the month you attain full retirement age (as defined in § 404.409) or if you become disabled, you will be entitled to a monthly benefit equal to your PIA. If you retire prior to full retirement age your monthly benefit will be reduced as explained in §§ 404.410-404.413. Benefits to other members of your family are a specified percentage of your PIA as explained in subpart D. Total benefits to your family are subject to a maximum as explained in § 404.403.
 

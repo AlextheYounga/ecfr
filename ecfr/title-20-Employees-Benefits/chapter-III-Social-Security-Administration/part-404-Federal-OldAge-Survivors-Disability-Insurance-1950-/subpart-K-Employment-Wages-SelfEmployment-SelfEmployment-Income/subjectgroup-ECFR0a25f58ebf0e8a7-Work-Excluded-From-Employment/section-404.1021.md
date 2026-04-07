@@ -1,6 +1,6 @@
 ##### § 404.1021 Work for the District of Columbia.
 
-If you work as an employee of the District of Columbia or a wholly owned instrumentality of the District of Columbia, your work is covered as employment unless—
+If you work as an employee of the District of Columbia or a wholly owned instrumentality of the District of Columbia, your work is covered as employment unless—*Medicare qualified government employment.*
 
 (a) Your work is covered by a retirement system established by a law of the United States; or
 

@@ -1,6 +1,6 @@
 ##### § 404.1568 Skill requirements.
 
-In order to evaluate your skills and to help determine the existence in the national economy of work you are able to do, occupations are classified as unskilled, semi-skilled, and skilled. In classifying these occupations, we use materials published by the Department of Labor. When we make disability determinations under this subpart, we use the following definitions:
+In order to evaluate your skills and to help determine the existence in the national economy of work you are able to do, occupations are classified as unskilled, semi-skilled, and skilled. In classifying these occupations, we use materials published by the Department of Labor. When we make disability determinations under this subpart, we use the following definitions:*Unskilled work.*
 
 (a) *Unskilled work.* Unskilled work is work which needs little or no judgment to do simple duties that can be learned on the job in a short period of time. The job may or may not require considerable strength. For example, we consider jobs unskilled if the primary work duties are handling, feeding and offbearing (that is, placing or removing materials from machines which are automatic or operated by others), or machine tending, and a person can usually learn to do the job in 30 days, and little specific vocational preparation and judgment are needed. A person does not gain work skills by doing unskilled jobs.
 

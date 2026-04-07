@@ -1,6 +1,6 @@
 ##### § 404.802 Definitions.
 
-For the purpose of this subpart—
+For the purpose of this subpart—*Earnings*
 
 *Earnings* means wages and self-employment income earned by a person based on work covered by social security. (See subpart K for the rules about what constitutes wages and self-employment income for benefit purposes.)
 

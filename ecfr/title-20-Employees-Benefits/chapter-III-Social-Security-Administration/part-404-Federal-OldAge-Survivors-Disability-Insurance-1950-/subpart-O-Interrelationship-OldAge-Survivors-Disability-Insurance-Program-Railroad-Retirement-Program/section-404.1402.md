@@ -1,6 +1,6 @@
 ##### § 404.1402 When are railroad industry services by a non-vested worker covered under Social Security?
 
-If you are a non-vested worker, we (the Social Security Administration) will consider your services in the railroad industry to be “employment” as defined in section 210 of the Social Security Act for the following purposes:
+If you are a non-vested worker, we (the Social Security Administration) will consider your services in the railroad industry to be “employment” as defined in section 210 of the Social Security Act for the following purposes:*see*
 
 (a) To determine entitlement to, or the amount of, any monthly benefits or lump-sum death payment on the basis of your wages and self-employment income;
 

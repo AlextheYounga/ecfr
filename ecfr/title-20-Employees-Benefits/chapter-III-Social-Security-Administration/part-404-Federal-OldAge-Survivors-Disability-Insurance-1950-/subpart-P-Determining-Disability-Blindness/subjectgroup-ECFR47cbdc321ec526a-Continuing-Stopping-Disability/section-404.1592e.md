@@ -1,6 +1,6 @@
 ##### § 404.1592e How do we determine provisional benefits?
 
-(a) You may receive up to 6 consecutive months of provisional cash benefits and Medicare during the provisional benefit period, while we determine whether we can reinstate your disability benefit entitlement under § 404.1592c—
+(a) You may receive up to 6 consecutive months of provisional cash benefits and Medicare during the provisional benefit period, while we determine whether we can reinstate your disability benefit entitlement under § 404.1592c—*Examples:*
 
 (1) We will pay you provisional benefits, and reinstate your Medicare if you are not already entitled to Medicare, beginning with the month you file your request for reinstatement under § 404.1592c(a) if you do not perform substantial gainful activity in that month. We will pay you provisional benefits, and reinstate your Medicare if you are not already entitled to Medicare, beginning with the month after you file your request for reinstatement under § 404.1592c(a) if you perform substantial gainful activity in the month in which you file your request for reinstatement.
 

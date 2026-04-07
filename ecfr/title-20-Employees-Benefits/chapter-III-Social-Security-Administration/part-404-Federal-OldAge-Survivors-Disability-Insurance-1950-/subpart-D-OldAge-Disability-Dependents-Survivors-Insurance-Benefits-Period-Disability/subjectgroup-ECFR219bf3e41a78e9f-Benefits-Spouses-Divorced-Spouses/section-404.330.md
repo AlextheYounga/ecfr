@@ -1,6 +1,6 @@
 ##### § 404.330 Who is entitled to wife's or husband's benefits.
 
-You are entitled to benefits as the wife or husband of an insured person who is entitled to old-age or disability benefits if—
+You are entitled to benefits as the wife or husband of an insured person who is entitled to old-age or disability benefits if—*in your care*
 
 (a) You are the insured's wife or husband based upon a relationship described in §§ 404.345 through 404.346 and one of the following conditions is met:
 

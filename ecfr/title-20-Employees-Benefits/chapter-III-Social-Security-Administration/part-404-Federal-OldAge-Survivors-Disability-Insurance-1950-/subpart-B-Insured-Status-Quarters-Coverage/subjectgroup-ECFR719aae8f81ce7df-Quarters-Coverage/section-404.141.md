@@ -10,14 +10,14 @@
 
 (c) *How we credit QCs based on wages paid for agricultural labor in a calendar year after 1954.* (1) We credit QCs based on wages for agricultural labor depending on the amount of wages paid during a calendar year for that work. If you were paid wages for agricultural labor in a calendar year after 1954 and before 1978, we credit you with QCs for calendar quarters in that year which are not otherwise QCs according to the following table.
 
-| If the wages paid to you in a calendar year for agricultural labor were | We credit you with | And assign: 1 |
-| ----------------------------------------------------------------------- | ------------------ | ------------- |
-| $400 or more                                                            | 4 QCs              | All.          |
-| At least $300 but less than $400                                        | 3 QCs              | Last 3.       |
-| At least $200 but less than $300                                        | 2 QCs              | Last 2.       |
-| At least $100 but less than $200                                        | 1 QC               | Last.         |
-| Less than $100                                                          | No QCs             |               |
-| 1 One QC to each of the following calendar quarters in that year.       |                    |               |
+| If the wages paid to you in a calendar year for agricultural labor were1 | We credit you with | And assign: 1 |
+| ------------------------------------------------------------------------ | ------------------ | ------------- |
+| $400 or more                                                             | 4 QCs              | All.          |
+| At least $300 but less than $400                                         | 3 QCs              | Last 3.       |
+| At least $200 but less than $300                                         | 2 QCs              | Last 2.       |
+| At least $100 but less than $200                                         | 1 QC               | Last.         |
+| Less than $100                                                           | No QCs             |               |
+| 1 One QC to each of the following calendar quarters in that year.        |                    |               |
 
 (2) When we assign QCs to calendar quarters in a year as shown in the table in paragraph (c)(1) of this section, you might not meet (or might not meet as early in the year as otherwise possible) the requirements to be fully or currently insured, to be entitled to a computation or recomputation of your primary insurance amount, or to establish a period of disability. If this happens, we assign the QCs to different quarters in that year than those shown in the table if this assignment permits you to meet these requirements (or meet them earlier in the year). We can only reassign QCs for purposes of meeting these requirements.
 

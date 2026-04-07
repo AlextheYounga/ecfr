@@ -1,6 +1,6 @@
 ##### § 404.352 When does my entitlement to child's benefits begin and end?
 
-(a) We will find your entitlement to child's benefits begins at the following times:
+(a) We will find your entitlement to child's benefits begins at the following times:*Exception to paragraph (d)*
 
 (1) If the insured is deceased, with the first month covered by your application in which you meet all other requirements for entitlement.
 

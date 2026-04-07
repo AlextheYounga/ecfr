@@ -1,6 +1,6 @@
 ##### § 404.1502 Definitions for this subpart.
 
-As used in the subpart—
+As used in the subpart—*Acceptable medical source*
 
 (a) *Acceptable medical source* means a medical source who is a:
 

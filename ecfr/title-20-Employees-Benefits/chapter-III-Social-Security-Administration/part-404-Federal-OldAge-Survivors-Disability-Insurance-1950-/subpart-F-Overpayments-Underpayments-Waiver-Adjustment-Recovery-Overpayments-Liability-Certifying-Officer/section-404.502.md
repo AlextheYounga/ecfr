@@ -1,6 +1,6 @@
 ##### § 404.502 Overpayments.
 
-Upon determination that an overpayment has been made, adjustments will be made against monthly benefits and lump sums as follows:
+Upon determination that an overpayment has been made, adjustments will be made against monthly benefits and lump sums as follows:*Individual overpaid is living.*
 
 (a) *Individual overpaid is living.* (1) If the individual to whom an overpayment was made is at the time of a determination of such overpayment entitled to a monthly benefit or a lump sum under title II of the Act, or at any time thereafter becomes so entitled, no benefit for any month and no lump sum is payable to such individual, except as provided in paragraphs (c) and (d) of this section, until an amount equal to the amount of the overpayment has been withheld or refunded. Such adjustments will be made against any monthly benefit or lump sum under title II of the Act to which such individual is entitled whether payable on the basis of such individual's earnings or the earnings of another individual.
 

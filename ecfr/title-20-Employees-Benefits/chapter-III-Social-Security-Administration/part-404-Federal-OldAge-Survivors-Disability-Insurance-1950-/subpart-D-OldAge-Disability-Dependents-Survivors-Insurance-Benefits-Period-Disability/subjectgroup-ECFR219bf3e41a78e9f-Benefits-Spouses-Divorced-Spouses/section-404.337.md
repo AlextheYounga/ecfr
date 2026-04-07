@@ -1,6 +1,6 @@
 ##### § 404.337 When does my entitlement to widow's and widower's benefits start and end?
 
-(a) We will find you entitled to widow's or widower's benefits under § 404.335 or § 404.336 beginning with the first month covered by your application in which you meet all other requirements for entitlement.
+(a) We will find you entitled to widow's or widower's benefits under § 404.335 or § 404.336 beginning with the first month covered by your application in which you meet all other requirements for entitlement.*Exception to paragraph (c)*
 
 (b) We will end your entitlement to widow's or widower's benefits at the earliest of the following times:
 

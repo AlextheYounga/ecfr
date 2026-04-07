@@ -1,6 +1,6 @@
 ##### § 404.102 Definitions.
 
-For the purpose of this subpart—
+For the purpose of this subpart—*Act*
 
 *Act* means the Social Security Act, as amended.
 

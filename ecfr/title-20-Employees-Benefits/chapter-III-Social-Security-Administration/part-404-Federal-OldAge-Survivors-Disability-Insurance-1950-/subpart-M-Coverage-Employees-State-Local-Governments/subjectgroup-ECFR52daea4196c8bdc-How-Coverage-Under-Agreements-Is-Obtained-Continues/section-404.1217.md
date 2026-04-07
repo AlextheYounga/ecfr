@@ -1,6 +1,6 @@
 ##### § 404.1217 Continuation of coverage.
 
-The coverage of State and local government employees continues as follows:
+The coverage of State and local government employees continues as follows:*Absolute coverage group.*
 
 (a) *Absolute coverage group.* Generally, the services of an employee covered as a part of an absolute coverage group (see § 404.1205) continue to be covered indefinitely. A position covered as a part of an absolute coverage group continues to be covered even if the position later comes under a retirement system. This includes policemen's and firemen's positions which are covered with an absolute coverage group.
 

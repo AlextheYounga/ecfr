@@ -1,6 +1,6 @@
 ##### § 404.301 Introduction.
 
-This subpart sets out what requirements you must meet to qualify for social security benefits, how your benefit amounts are figured, when your right to benefits begins and ends, and how family relationships are determined. These benefits are provided by title II of the Social Security Act. They include—
+This subpart sets out what requirements you must meet to qualify for social security benefits, how your benefit amounts are figured, when your right to benefits begins and ends, and how family relationships are determined. These benefits are provided by title II of the Social Security Act. They include—*For workers,*
 
 (a) *For workers,* old-age and disability benefits and benefit protection during periods of disability;
 

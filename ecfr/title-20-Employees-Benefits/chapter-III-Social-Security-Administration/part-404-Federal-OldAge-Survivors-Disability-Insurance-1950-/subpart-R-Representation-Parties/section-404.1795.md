@@ -1,6 +1,6 @@
 ##### § 404.1795 When the Appeals Council will dismiss a request for review.
 
-The Appeals Council may dismiss a request for the review of any proceeding to suspend or disqualify a representative in any of the following circumstances:
+The Appeals Council may dismiss a request for the review of any proceeding to suspend or disqualify a representative in any of the following circumstances:*Upon request of party.*
 
 (a) *Upon request of party.* The Appeals Council may dismiss a request for review upon written request of the party or parties who filed the request if there is no other party who objects to the dismissal.
 

@@ -1,6 +1,6 @@
 ##### § 404.1094 Options available for figuring net earnings from self-employment.
 
-(a) *General.* If you have income from a trade or business in certain situations, you have options for figuring your net earnings from self-employment. The options available to you depend on whether you have income from an agricultural trade or business or a non-agricultural trade or business. For a definition of agricultural trade or business see § 404.1095.
+(a) *General.* If you have income from a trade or business in certain situations, you have options for figuring your net earnings from self-employment. The options available to you depend on whether you have income from an agricultural trade or business or a non-agricultural trade or business. For a definition of agricultural trade or business see § 404.1095.2/3
 
 (b) *Agricultural trade or business.* The net earnings from self-employment you derive from an agricultural trade or business may, at your option, be figured as follows:
 
@@ -14,16 +14,16 @@
 
 (2) *Computation.* If your actual net earnings from self-employment are less than $1,600 and less than 66 2/3 percent of your gross income, you may, at your option, report 66 2/3 percent of your gross income (but not more than $1,600) as your net earnings from self-employment.
 
-Example:A operates a grocery store and files income tax returns on a calendar year basis. A meets the *self-employed on a regular basis* requirement because actual net earnings from self-employment were $400 or more in 1976 and in 1977. Gross income and net profit from operating the grocery store in 1978 through 1980 are as follows:
+Example:A operates a grocery store and files income tax returns on a calendar year basis. A meets the *self-employed on a regular basis* requirement because actual net earnings from self-employment were $400 or more in 1976 and in 1977. Gross income and net profit from operating the grocery store in 1978 through 1980 are as follows: 2/3
 
-|              | 1978   | 1979   | 1980   |
-| ------------ | ------ | ------ | ------ |
-| Gross income | $2,800 | $1,200 | $1,000 |
-| Net profit   | 300    | 400    | 800    |
+|                               | 1978   | 1979   | 1980   |
+| ----------------------------- | ------ | ------ | ------ |
+| Gross income**Grocery Store** | $2,800 | $1,200 | $1,000 |
+| Net profit                    | 300    | 400    | 800    |
 
 For the year 1978, A may report as annual net earnings from self-employment either—
 
-(i) None. (Actual net earnings from self-employment are less than $400); or
+(i) None. (Actual net earnings from self-employment are less than $400); or2/3
 
 (ii) $1,600. (Non-agricultural option, 66 2/3 percent of $2,800, but not to exceed the $1,600 maximum.)
 

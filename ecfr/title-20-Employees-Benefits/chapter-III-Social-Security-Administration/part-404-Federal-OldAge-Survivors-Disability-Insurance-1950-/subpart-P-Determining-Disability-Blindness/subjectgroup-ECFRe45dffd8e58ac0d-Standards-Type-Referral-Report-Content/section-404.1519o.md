@@ -1,6 +1,6 @@
 ##### § 404.1519o When a properly signed consultative examination report has not been received.
 
-If a consultative examination report is received unsigned or improperly signed we will take the following action.
+If a consultative examination report is received unsigned or improperly signed we will take the following action.*When we will make determinations and decisions without a properly signed report.*
 
 (a) *When we will make determinations and decisions without a properly signed report.* We will make a determination or decision in the circumstances specified in paragraphs (a)(1) and (a)(2) of this section without waiting for a properly signed consultative examination report. After we have made the determination or decision, we will obtain a properly signed report and include it in the file unless the medical source who performed the original consultative examination has died:
 
