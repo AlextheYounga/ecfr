@@ -4,13 +4,13 @@
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (c) of this section:
 
-(1) Nos. 017135, 023851, and 058670 for use only as a single dose.
+(1) Nos. 017135 and 023851 for use only as a single dose.
 
 (2) Nos. 000061, 054771, and 069043 for use in a single dose or divided-dosage regimen.
 
 (c) *Required statement.* Consult your veterinarian for assistance in the diagnosis, treatment, and control of parasitism, and before administering to weak or debilitated animals.
 
-(d) *Conditions of use* - (1) *Amount.* Administer as follows:
+(d) *Conditions of use*—(1) *Amount.* Administer as follows:
 
 (i) Single dose: Administer 100 mg of dicholorophene and 120 mg of toluene per pound of body weight.
 
