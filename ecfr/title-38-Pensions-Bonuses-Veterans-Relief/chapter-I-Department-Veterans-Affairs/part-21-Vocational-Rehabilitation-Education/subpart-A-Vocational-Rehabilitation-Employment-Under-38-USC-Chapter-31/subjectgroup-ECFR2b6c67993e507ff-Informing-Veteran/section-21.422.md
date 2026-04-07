@@ -54,7 +54,7 @@
 
 (iii) Any additional evidence obtained following the hearing pursuant to necessary development.
 
-(3) Whether or not a predetermination hearing was conducted, a written notice of the final action shall be issued to the veteran setting forth the reasons for the decison, and the evidence upon which it is based. The veteran will be informed of his or her appellate rights and right of representation. (For information concerning the conduct of the hearing see § 3.103 (c) and (d) of this chapter).
+(3) Whether or not a predetermination hearing was conducted, a written notice of the final action shall be issued to the veteran setting forth the reasons for the decision, and the evidence upon which it is based. The veteran will be informed of his or her appellate rights and right of representation. (For information concerning the conduct of the hearing see § 3.103 (c) and (d) of this chapter).
 
 (4) When a reduction of subsistence allowance is found to be warranted following consideration of any additional evidence submitted, the effective date of the reduction or discontinuance shall be as specified under the provisions of § 21.324 of this part.
 
