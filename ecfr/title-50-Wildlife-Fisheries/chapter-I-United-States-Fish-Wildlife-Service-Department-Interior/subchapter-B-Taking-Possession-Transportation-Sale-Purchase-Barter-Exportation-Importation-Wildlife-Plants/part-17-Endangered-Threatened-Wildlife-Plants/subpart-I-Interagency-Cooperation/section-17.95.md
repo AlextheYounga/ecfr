@@ -20363,7 +20363,7 @@ Note:
 
 The map provided is for informational purposes only.
 
-![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 87 FR 51928, Aug. 24, 2022.
 
 (f) *Clams and Snails.*
 
