@@ -78,6 +78,6 @@
 
 (f) *Proof of claim form.* A template customer proof of claim form which may (but is not required to) be used by the trustee is set forth in appendix A to this part.
 
-(1) If there are no open commodity contracts that are being treated as specifically identifiable property (*e.g.,* if the customer proof of claim form was distributed after the primary liquidation date), the trustee should modify the customer proof of claim form to delete references to open commodity contracts as specifically identifiable property.
+(1) If there are no open commodity contracts that are being treated as specifically identifiable property (e.g., if the customer proof of claim form was distributed after the primary liquidation date), the trustee should modify the customer proof of claim form to delete references to open commodity contracts as specifically identifiable property.
 
 (2) In the event the trustee determines that the debtor's books and records reflecting customer transactions are not reasonably reliable, or account statements are not available from which account balances as of the date of transfer or liquidation of customer property may be determined, the proof of claim form used by the trustee should be modified to take into account the particular facts and circumstances of the case.

@@ -1,5 +1,7 @@
 ##### § 367.20 Fees under the Unified Carrier Registration Plan and Agreement for registration years beginning in 2020 and ending in 2022.
 
+Link to an amendment published at 89 FR 51275, June 17, 2024.
+
 Table 1 to § 367.20—Fees Under the Unified Carrier Registration Plan and Agreement for Registration Years Beginning in 2020 and Ending in 2022
 | Bracket | Number of commercial motor vehicles owned or operated by exempt or non-exempt motor carrier, motor private carrier, or freight   forwarder | Fee per entity for   exempt or non-exempt   motor carrier, motor   private carrier, or   freight forwarder | Fee per entity for   broker or leasing   company |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |

@@ -1,6 +1,8 @@
 ##### § 90.207 Quarterly sampling.
 
-Link to an amendment published at 89 FR 28484, Apr. 18, 2024.Link to an amendment published at 89 FR 28485, Apr. 18, 2024.
+Link to an amendment published at 89 FR 28485, Apr. 18, 2024.
+
+The following is required until April 14, 2025:
 
 (a) Each operator shall take five valid representative samples every calendar quarter from the environment of each part 90 miner while performing normal work duties. Part 90 miner samples shall be collected on consecutive work days. The quarterly periods are:
 
@@ -63,3 +65,5 @@ Table 90-2—Excessive Concentration Values (ECV) Based on the Average of 5 Full
 | 0.4                           | 0.51          |
 | 0.3                           | 0.41          |
 | 0.2                           | 0.31          |
+
+\[79 FR 24990, May 1, 2014, as amended at 89 FR 28484, Apr. 18, 2024\]
