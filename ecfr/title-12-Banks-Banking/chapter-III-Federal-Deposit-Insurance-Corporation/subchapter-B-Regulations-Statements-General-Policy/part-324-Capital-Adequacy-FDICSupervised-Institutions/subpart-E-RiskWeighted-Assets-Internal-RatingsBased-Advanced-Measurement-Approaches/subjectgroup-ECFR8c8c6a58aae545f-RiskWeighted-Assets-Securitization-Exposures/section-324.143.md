@@ -60,7 +60,7 @@
 
 (6) *Effective number of exposures (N).* (i) Unless the FDIC-supervised institution elects to use the formula provided in paragraph (f) of this section,
 
-![](/graphics/er10se13.041.gif)where EADi represents the EAD associated with the ith instrument in the underlying exposures.
+![](/graphics/er10se13.041.gif)where EADi represents the EAD associated with the i th instrument in the underlying exposures.
 
 (ii) Multiple exposures to one obligor must be treated as a single underlying exposure.
 
@@ -68,7 +68,7 @@
 
 (7) *Exposure-weighted average loss given default (EWALGD).* EWALGD is calculated as:
 
-![](/graphics/er10se13.042.gif)where LGDi represents the average LGD associated with all exposures to the ith obligor. In the case of a resecuritization, an LGD of 100 percent must be assumed for the underlying exposures that are themselves securitization exposures.
+![](/graphics/er10se13.042.gif)where LGDi represents the average LGD associated with all exposures to the i th obligor. In the case of a resecuritization, an LGD of 100 percent must be assumed for the underlying exposures that are themselves securitization exposures.
 
 (f) *Simplified method for computing N and EWALGD.* (1) If all underlying exposures of a securitization are retail exposures, an FDIC-supervised institution may apply the SFA using the following simplifications:
 

@@ -1434,7 +1434,9 @@ This paragraph does not control radars not otherwise controlled in this subchapt
 
 (xvii) Radar having moving target indicator (MTI) or pulse-Doppler processing where any single Doppler filter provides a normalized clutter attenuation of greater than 60dB;
 
-*Note to paragraph (a)(3)(xvii):* Normalized clutter attenuation is defined as the reduction in the power level of received distributed clutter when normalized to the thermal noise level.
+Note to paragraph (a)(3)(xvii):
+
+Normalized clutter attenuation is defined as the reduction in the power level of received distributed clutter when normalized to the thermal noise level.
 
 (xviii) Radar having electronic protection or electronic counter-countermeasures (ECCM) other than manual gain control, automatic gain control, radio frequency selection, constant false alarm rate, and pulse repetition interval jitter;
 

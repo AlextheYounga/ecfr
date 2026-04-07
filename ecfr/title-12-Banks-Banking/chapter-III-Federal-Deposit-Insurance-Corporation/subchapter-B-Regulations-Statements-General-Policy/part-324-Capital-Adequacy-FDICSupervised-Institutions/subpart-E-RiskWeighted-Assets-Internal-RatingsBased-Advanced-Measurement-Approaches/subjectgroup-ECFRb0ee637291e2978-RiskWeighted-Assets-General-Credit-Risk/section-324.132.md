@@ -193,7 +193,7 @@ Table 2 to § 324.132 - Conversion Factor Matrix for OTC Derivative Contracts 1
 
 (*1*) *EffectiveEE*tk = max(*Effective EE*tk−1, *EE*tk) (that is, for a specific date tk, effective EE is the greater of EE at that date or the effective EE at the previous date); and
 
-(*2*) tk represents the kth future time period in the model and there are n time periods represented in the model over the first year, and
+(*2*) tk represents the k th future time period in the model and there are n time periods represented in the model over the first year, and
 
 (C) α = 1.4 except as provided in paragraph (d)(6) of this section, or when the FDIC has determined that the FDIC-supervised institution must set α higher based on the FDIC-supervised institution's specific characteristics of counterparty credit risk or model performance.
 
