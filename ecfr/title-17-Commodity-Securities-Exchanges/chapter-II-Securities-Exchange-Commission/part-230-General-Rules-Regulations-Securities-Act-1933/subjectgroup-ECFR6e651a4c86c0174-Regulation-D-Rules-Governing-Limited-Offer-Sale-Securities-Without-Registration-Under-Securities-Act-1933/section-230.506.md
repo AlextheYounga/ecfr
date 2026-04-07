@@ -2,9 +2,9 @@
 
 (a) *Exemption.* Offers and sales of securities by an issuer that satisfy the conditions in paragraph (b) or (c) of this section shall be deemed to be transactions not involving any public offering within the meaning of section 4(a)(2) of the Act.
 
-(b) *Conditions to be met in offerings subject to limitation on manner of offering* - (1) *General conditions.* To qualify for an exemption under this section, offers and sales must satisfy all the terms and conditions of §§ 230.501 and 230.502.
+(b) *Conditions to be met in offerings subject to limitation on manner of offering*—(1) *General conditions.* To qualify for an exemption under this section, offers and sales must satisfy all the terms and conditions of §§ 230.501 and 230.502.
 
-(2) *Specific conditions* - (i) *Limitation on number of purchasers.* There are no more than, or the issuer reasonably believes that there are no more than, 35 purchasers of securities from the issuer in offerings under this section in any 90-calendar-day period.
+(2) *Specific conditions*— (i) *Limitation on number of purchasers.* There are no more than, or the issuer reasonably believes that there are no more than, 35 purchasers of securities from the issuer in offerings under this section in any 90-calendar-day period.
 
 Note 1 to paragraph (b)(2)(i):
 
@@ -12,9 +12,9 @@ See § 230.501(e) for the calculation of the number of purchasers and § 230.502
 
 (ii) *Nature of purchasers.* Each purchaser who is not an accredited investor either alone or with his purchaser representative(s) has such knowledge and experience in financial and business matters that he is capable of evaluating the merits and risks of the prospective investment, or the issuer reasonably believes immediately prior to making any sale that such purchaser comes within this description.
 
-(c) *Conditions to be met in offerings not subject to limitation on manner of offering* - (1) *General conditions.* To qualify for exemption under this section, sales must satisfy all the terms and conditions of §§ 230.501 and 230.502(a) and (d).
+(c) *Conditions to be met in offerings not subject to limitation on manner of offering*—(1) *General conditions.* To qualify for exemption under this section, sales must satisfy all the terms and conditions of §§ 230.501 and 230.502(a) and (d).
 
-(2) *Specific conditions* - (i) *Nature of purchasers.* All purchasers of securities sold in any offering under paragraph (c) of this section are accredited investors.
+(2) *Specific conditions*—(i) *Nature of purchasers.* All purchasers of securities sold in any offering under paragraph (c) of this section are accredited investors.
 
 (ii) *Verification of accredited investor status.* The issuer shall take reasonable steps to verify that purchasers of securities sold in any offering under paragraph (c) of this section are accredited investors. The issuer shall be deemed to take reasonable steps to verify if the issuer uses, at its option, one of the following non-exclusive and non-mandatory methods of verifying that a natural person who purchases securities in such offering is an accredited investor; provided, however, that the issuer does not have knowledge that such person is not an accredited investor:
 
