@@ -1,9 +1,9 @@
 ##### § 4.1127 Initial orders and decisions.
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment was delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.This amendment was further delayed until May 5, 2025, at 90 FR 12461, Mar. 18, 2025.This amendment was further delayed to June 4, 2025, at 90 FR 18927, May 5, 2025.This amendment was further delayed until July 21, 2025, at 90 FR 24231, June 9, 2025.
 
-An initial order or decision disposing of a case shall incorporate— 
+An initial order or decision disposing of a case shall incorporate—
 
-(a) Findings of fact and conclusions of law and the basis and reasons therefore on all the material issues of fact, law, and discretion presented on the record; and 
+(a) Findings of fact and conclusions of law and the basis and reasons therefore on all the material issues of fact, law, and discretion presented on the record; and
 
 (b) An order granting or denying relief.

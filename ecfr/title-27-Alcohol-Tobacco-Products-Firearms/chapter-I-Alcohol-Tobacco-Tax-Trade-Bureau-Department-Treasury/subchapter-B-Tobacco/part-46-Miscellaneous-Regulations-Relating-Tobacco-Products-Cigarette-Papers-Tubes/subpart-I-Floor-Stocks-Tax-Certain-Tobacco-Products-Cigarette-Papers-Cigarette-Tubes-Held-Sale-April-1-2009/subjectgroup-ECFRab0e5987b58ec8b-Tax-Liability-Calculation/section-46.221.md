@@ -4,8 +4,8 @@
 | ---------------------------------------------- | ---------------------------------------- |
 | Small cigars                                   | $48.502 per thousand.                    |
 | Small cigarettes                               | 30.83 per thousand.                      |
-| Large cigarettes 61/2 inch or less in length   | 64.74 per thousand.                      |
-| Large cigarettes more than 61/2 inch in length | 30.83 per thousand units of length.      |
+| Large cigarettes 61⁄2 inch or less in length   | 64.74 per thousand.                      |
+| Large cigarettes more than 61⁄2 inch in length | 30.83 per thousand units of length.      |
 | Snuff                                          | 0.925 per pound.                         |
 | Chewing tobacco                                | 0.3083 per pound.                        |
 | Pipe tobacco                                   | 1.7342 per pound.                        |

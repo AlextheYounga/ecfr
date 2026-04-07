@@ -1,6 +1,6 @@
 ##### § 41.33 Smokeless tobacco tax rates.
 
-Smokeless tobacco products are taxed at the following rates under 26 U.S.C. 5701(e): 
+Smokeless tobacco products are taxed at the following rates under 26 U.S.C. 5701(e):
 
 | Product                                  | Tax rate per pound\* for removals during the following periods: |
 | ---------------------------------------- | --------------------------------------------------------------- |

@@ -1,19 +1,19 @@
 ##### § 4.1100 Definitions.
 
-Link to an amendment published at 90 FR 2429, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
+Link to an amendment published at 90 FR 2429, Jan. 10, 2025.This amendment was delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.This amendment was further delayed until May 5, 2025, at 90 FR 12461, Mar. 18, 2025.This amendment was further delayed to June 4, 2025, at 90 FR 18927, May 5, 2025.This amendment was further delayed until July 21, 2025, at 90 FR 24231, June 9, 2025.
 
-As used in the regulations in this subpart, the term— 
+As used in the regulations in this subpart, the term—
 
 *Act* means the Surface Mining Control and Reclamation Act of 1977, 91 Stat. 445 *et seq.,* 30 U.S.C. 1201 *et seq.*
 
-*Administrative law judge* means an administrative law judge in the Hearings Division of the Office of Hearings and Appeals appointed under 5 U.S.C. 3105 (1970). 
+*Administrative law judge* means an administrative law judge in the Hearings Division of the Office of Hearings and Appeals appointed under 5 U.S.C. 3105 (1970).
 
-*Board* means the Board of Land Appeals in the Office of Hearings and Appeals. 
+*Board* means the Board of Land Appeals in the Office of Hearings and Appeals.
 
-*Hearings Division* means the Departmental Cases Hearings Division, Office of Hearings and Appeals. 
+*Hearings Division* means the Departmental Cases Hearings Division, Office of Hearings and Appeals.
 
-*OHA* means the Office of Hearings and Appeals, Department of the Interior. 
+*OHA* means the Office of Hearings and Appeals, Department of the Interior.
 
-*OSM* and *OSMRE* mean the Office of Surface Mining Reclamation and Enforcement, Department of the Interior. 
+*OSM* and *OSMRE* mean the Office of Surface Mining Reclamation and Enforcement, Department of the Interior.
 
 \[43 FR 34386, Aug. 3, 1978, as amended at 49 FR 7565, Mar. 1, 1984; 59 FR 1488, Jan. 11, 1994; 67 FR 61509, Oct. 1, 2002; 88 FR 5795, Jan. 30, 2023\]

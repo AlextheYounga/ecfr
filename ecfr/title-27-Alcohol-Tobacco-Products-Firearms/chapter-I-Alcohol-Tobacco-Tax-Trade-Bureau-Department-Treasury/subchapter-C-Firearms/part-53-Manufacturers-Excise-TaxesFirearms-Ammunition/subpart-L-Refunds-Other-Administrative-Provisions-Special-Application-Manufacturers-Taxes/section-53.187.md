@@ -1,6 +1,6 @@
 ##### § 53.187 OMB control numbers.
 
-(a) *Purpose.* This section collects and displays the control numbers assigned to collections of information in this part by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1980. TTB intends that this section comply with the requirements of §§ 1320.12, 1320.13, and 1320.14 of 5 CFR part 1320 (OMB regulations implementing the Paperwork Reduction Act), for the display of control numbers assigned by OMB to collections of information in the regulations in this part. 
+(a) *Purpose.* This section collects and displays the control numbers assigned to collections of information in this part by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1980. TTB intends that this section comply with the requirements of §§ 1320.12, 1320.13, and 1320.14 of 5 CFR part 1320 (OMB regulations implementing the Paperwork Reduction Act), for the display of control numbers assigned by OMB to collections of information in the regulations in this part.
 
 (b) *Display.*
 
