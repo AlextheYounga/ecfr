@@ -1,7 +1,5 @@
 ##### § 1.17 Patent application and reexamination processing fees.
 
-Link to an amendment published at 82 FR 52814, November 14, 2017.
-
 (a) Extension fees pursuant to § 1.136(a):
 
 (1) For reply within first month:
@@ -110,29 +108,29 @@ $600.00
 
 By a micro entity (§ 1.29)
 
-$300.00 
+$325.00 
 
 By a small entity (§ 1.27(a))
 
-$600.00 
+650.00 
 
 By other than a small or micro entity
 
-$1,200.00
+1,300.00
 
 (2) For filing a second or subsequent request for continued examination pursuant to § 1.114 in an application:
 
 By a micro entity (§ 1.29)
 
-$425.00 
+$475.00 
 
 By a small entity (§ 1.27(a))
 
-$850.00 
+950.00 
 
 By other than a small or micro entity
 
-$1,700.00
+1,900.00
 
 (f) For filing a petition under one of the following sections which refers to this paragraph:
 
@@ -204,7 +202,7 @@ By other than a small or micro entity
 
 § 5.25 - for retroactive license.
 
-(h) For filing a petition under one of the following sections which refers to this paragraph:
+(h) For filing a petition under one of the following sections which refers to this paragraph (h):
 
 By a micro entity (§ 1.29)
 
@@ -212,13 +210,11 @@ $35.00
 
 By a small entity (§ 1.27(a))
 
-$70.00 
+70.00 
 
 By other than a small or micro entity
 
-$140.00
-
-§ 1.19(g) - to request documents in a form other than provided in this part.
+140.00
 
 § 1.84 - for accepting color drawings or photographs.
 
@@ -298,15 +294,19 @@ $900.00
 
 (l) \[Reserved\]
 
-(m) For filing a petition for the revival of an abandoned application for a patent, for the delayed payment of the fee for issuing each patent, for the delayed response by the patent owner in any reexamination proceeding, for the delayed payment of the fee for maintaining a patent in force, for the delayed submission of a priority or benefit claim, for the extension of the twelve-month (six-month for designs) period for filing a subsequent application (§§ 1.55(c), 1.55(e), 1.78(b), 1.78(c), 1.78(e), 1.137, 1.378, and 1.452), or for filing a petition to excuse applicant's failure to act within prescribed time limits in an international design application (§ 1.1051):
+(m) For filing a petition for the revival of an abandoned application for a patent, for the delayed payment of the fee for issuing each patent, for the delayed response by the patent owner in any reexamination proceeding, for the delayed payment of the fee for maintaining a patent in force, for the delayed submission of a priority or benefit claim, for the extension of the twelve-month (six-month for designs) period for filing a subsequent application (§§ 1.55(c) and (e), 1.78(b), (c), and (e), 1.137, 1.378, and 1.452), or for filing a petition to excuse applicant's failure to act within prescribed time limits in an international design application (§ 1.1051):
 
-By a small entity (§ 1.27(a)) or micro entity (§ 1.29)
+By a micro entity (§ 1.29)
 
-$850.00 
+$500.00 
+
+By a small entity (§ 1.27(a))
+
+1,000.00 
 
 By other than a small or micro entity
 
-1,700.00
+2,000.00
 
 (n) \[Reserved\]
 
@@ -324,15 +324,15 @@ $180.00
 
 By a micro entity (§ 1.29)
 
-$45.00 
+$60.00 
 
 By a small entity (§ 1.27(a))
 
-$90.00 
+120.00 
 
 By other than a small or micro entity
 
-$180.00 
+240.00
 
 (q) Processing fee for taking action under one of the following sections which refers to this paragraph
 
@@ -372,6 +372,18 @@ By other than a small or micro entity
 
 $840.00
 
-(t) For filing a petition to convert an international design application to a design application under 35 U.S.C. chapter 16 (§ 1.1052): $180.00.
+(t) For filing a petition to convert an international design application to a design application under 35 U.S.C. chapter 16 (§ 1.1052):
 
-\[78 FR 17105, Mar. 20, 2013, as amended at 78 FR 62395, Oct. 21, 2013; 78 FR 75252, Dec. 11, 2013; 80 FR 17954, Apr. 2, 2015\]
+By a micro entity (§ 1.29)
+
+$45.00 
+
+By a small entity (§ 1.27(a))
+
+90.00 
+
+By other than a small or micro entity
+
+180.00
+
+\[78 FR 17105, Mar. 20, 2013, as amended at 78 FR 62395, Oct. 21, 2013; 78 FR 75252, Dec. 11, 2013; 80 FR 17954, Apr. 2, 2015; 82 FR 52814, Nov. 14, 2017\]

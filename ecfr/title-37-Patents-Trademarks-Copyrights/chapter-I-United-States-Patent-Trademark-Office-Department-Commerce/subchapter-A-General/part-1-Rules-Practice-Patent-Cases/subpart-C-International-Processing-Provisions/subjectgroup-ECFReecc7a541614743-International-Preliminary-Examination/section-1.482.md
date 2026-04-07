@@ -1,6 +1,4 @@
-##### § 1.482 International preliminary examination fees.
-
-Link to an amendment published at 82 FR 52816, November 14, 2017.
+##### § 1.482 International preliminary examination and processing fees.
 
 (a) The following fees and charges for international preliminary examination are established by the Director under the authority of 35 U.S.C. 376:
 
@@ -66,4 +64,18 @@ $600.00
 
 (b) The handling fee is due on filing the Demand and shall be prescribed in PCT Rule 57.
 
-\[78 FR 17107, Mar. 20, 2013\]
+(c) Late furnishing fee for providing a sequence listing in response to an invitation under PCT Rule 13*ter:*
+
+By a micro entity (§ 1.29)
+
+$75.00 
+
+By a small entity (§ 1.27(a))
+
+150.00 
+
+By other than a small or micro entity
+
+300.00
+
+\[78 FR 17107, Mar. 20, 2013, as amended at 82 FR 52816, Nov. 14, 2017\]

@@ -1,22 +1,20 @@
 ##### § 1.492 National stage fees.
 
-Link to an amendment published at 82 FR 52816, November 14, 2017.
-
 The following fees and charges are established for international applications entering the national stage under 35 U.S.C. 371:
 
 (a) The basic national fee for an international application entering the national stage under 35 U.S.C. 371:
 
 By a micro entity (§ 1.29)
 
-$70.00 
+$75.00 
 
 By a small entity (§ 1.27(a))
 
-140.00 
+150.00 
 
 By other than a small or micro entity
 
-280.00
+300.00
 
 (b) Search fee for an international application entering the national stage under 35 U.S.C. 371:
 
@@ -38,43 +36,43 @@ By other than a small or micro entity
 
 By a micro entity (§ 1.29)
 
-$30.00 
+$35.00 
 
 By a small entity (§ 1.27(a))
 
-60.00 
+70.00 
 
 By other than a small or micro entity
 
-120.00
+140.00
 
 (3) If an international search report on the international application has been prepared by an International Searching Authority other than the United States International Searching Authority and is provided, or has been previously communicated by the International Bureau, to the Office:
 
 By a micro entity (§ 1.29)
 
-$120.00 
+$130.00 
 
 By a small entity (§ 1.27(a))
 
-240.00 
+260.00 
 
 By other than a small or micro entity
 
-480.00
+520.00
 
-(4) In all situations not provided for in paragraphs (b)(1), (2), or (3) of this section:
+(4) In all situations not provided for in paragraph (b)(1), (2), or (3) of this section:
 
 By a micro entity (§ 1.29)
 
-$150.00 
+$165.00 
 
 By a small entity (§ 1.27(a))
 
-300.00 
+330.00 
 
 By other than a small or micro entity
 
-600.00
+660.00
 
 (c) The examination fee for an international application entering the national stage under 35 U.S.C. 371:
 
@@ -94,57 +92,59 @@ By other than a small or micro entity
 
 (2) In all situations not provided for in paragraph (c)(1) of this section:
 
-By a micro entity (§ 1.29) $180.00.
+By a micro entity (§ 1.29)
+
+$190.00 
 
 By a small entity (§ 1.27(a))
 
-$360.00 
+380.00 
 
 By other than a small or micro entity
 
-720.00
+760.00
 
 (d) In addition to the basic national fee, for filing or on later presentation at any other time of each claim in independent form in excess of 3:
 
 By a micro entity (§ 1.29)
 
-$105.00 
+$115.00 
 
 By a small entity (§ 1.27(a))
 
-210.00 
+230.00 
 
 By other than a small or micro entity
 
-420.00
+460.00
 
 (e) In addition to the basic national fee, for filing or on later presentation at any other time of each claim (whether dependent or independent) in excess of 20 (note that § 1.75(c) indicates how multiple dependent claims are considered for fee calculation purposes):
 
 By a micro entity (§ 1.29)
 
-$20.00 
+$25.00 
 
 By a small entity (§ 1.27(a))
 
-40.00 
+50.00 
 
 By other than a small or micro entity
 
-80.00
+100.00
 
 (f) In addition to the basic national fee, if the application contains, or is amended to contain, a multiple dependent claim, per application:
 
 By a micro entity (§ 1.29)
 
-$195.00 
+$205.00 
 
 By a small entity (§ 1.27(a))
 
-390.00 
+410.00 
 
 By other than a small or micro entity
 
-780.00
+820.00
 
 (g) If the excess claims fees required by paragraphs (d) and (e) of this section and multiple dependent claim fee required by paragraph (f) of this section are not paid with the basic national fee or on later presentation of the claims for which excess claims or multiple dependent claim fees are due, the fees required by paragraphs (d), (e), and (f) of this section must be paid or the claims canceled by amendment prior to the expiration of the time period set for reply by the Office in any notice of fee deficiency in order to avoid abandonment.
 
@@ -190,4 +190,4 @@ By other than a small or micro entity
 
 400.00
 
-\[78 FR 4290, Jan. 18, 2013\]
+\[78 FR 4290, Jan. 18, 2013, as amended at 82 FR 52816, Nov. 14, 2017\]
