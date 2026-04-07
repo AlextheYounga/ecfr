@@ -1,6 +1,6 @@
 ##### § 1232.12 Under what conditions may Federal records be stored in records storage facilities?
 
-The following chart shows what records can be stored in a records storage facility and the conditions that apply: 
+The following chart shows what records can be stored in a records storage facility and the conditions that apply:
 
 | Type of record                                               | Conditions                                                                                                                 |
 | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |

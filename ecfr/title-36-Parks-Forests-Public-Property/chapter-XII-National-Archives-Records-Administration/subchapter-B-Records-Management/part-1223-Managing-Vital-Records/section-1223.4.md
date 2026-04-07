@@ -4,8 +4,8 @@
 
 (b) Federal Emergency Management Agency (FEMA), Department of Homeland Security (DHS); P.O. Box 2012; 8231 Stayton Drive; Jessup, MD 20794-2012, phone number (800) 480-2520; *https://www.fema.gov/guidance-directives.*
 
-(1) Federal Continuity Directive 1 (“FCD 1”): Federal Executive Branch National Continuity Program and Requirements, February 2008, IBR approved for § 1223.14. 
+(1) Federal Continuity Directive 1 (“FCD 1”): Federal Executive Branch National Continuity Program and Requirements, February 2008, IBR approved for § 1223.14.
 
-(2) \[Reserved\] 
+(2) \[Reserved\]
 
 \[83 FR 13653, Mar. 30, 2018\]

@@ -1,6 +1,6 @@
 ##### § 223.5 Scope of free use granted to individuals.
 
-(a) Free use may be granted to individuals for firewood for personal use, except that such use may be limited to bona fide settlers, miners, residents and prospectors living within or immediately adjacent to the National Forest when the available supply is insufficient to meet the total demand. Free use may be granted to such bona fide settlers, miners, residents and prospectors for minerals, for fencing, building, mining, prospecting and domestic purposes. 
+(a) Free use may be granted to individuals for firewood for personal use, except that such use may be limited to bona fide settlers, miners, residents and prospectors living within or immediately adjacent to the National Forest when the available supply is insufficient to meet the total demand. Free use may be granted to such bona fide settlers, miners, residents and prospectors for minerals, for fencing, building, mining, prospecting and domestic purposes.
 
 (Sec. 1, 30 Stat. 35, as amended; 16 U.S.C. 477, 551)
 

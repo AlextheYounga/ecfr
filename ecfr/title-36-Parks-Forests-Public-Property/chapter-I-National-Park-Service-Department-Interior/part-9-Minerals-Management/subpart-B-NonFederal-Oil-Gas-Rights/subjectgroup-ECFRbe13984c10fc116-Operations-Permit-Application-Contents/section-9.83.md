@@ -1,6 +1,6 @@
 ##### § 9.83 What information must be included in all applications?
 
-All applications must include the information required by this section. 
+All applications must include the information required by this section.
 
 | All operations permit applications must include information on . . . | and must include the following detailed information . . .                                                                                                                                                                                                                                                                                                                                                                                     |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

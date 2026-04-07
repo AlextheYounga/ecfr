@@ -1,6 +1,6 @@
 ##### § 1236.58 Transfer metadata.
 
-When agencies transfer permanent records to the National Archives' legal and physical custody, the agency must provide transfer metadata to NARA. The transfer metadata must be entered into the Electronic Records Archives (ERA) when the Transfer Request (TR) is created to begin transferring the records. Each transfer of digital records must include the following metadata that applies to the transfer as a whole: 
+When agencies transfer permanent records to the National Archives' legal and physical custody, the agency must provide transfer metadata to NARA. The transfer metadata must be entered into the Electronic Records Archives (ERA) when the Transfer Request (TR) is created to begin transferring the records. Each transfer of digital records must include the following metadata that applies to the transfer as a whole:
 
 Table 1 to § 1236.58—Transfer Metadata Table
 | Metadata label          | Required fields             | Description                                                                                                                                                                                                                                                                                                             | Requirement level                       |

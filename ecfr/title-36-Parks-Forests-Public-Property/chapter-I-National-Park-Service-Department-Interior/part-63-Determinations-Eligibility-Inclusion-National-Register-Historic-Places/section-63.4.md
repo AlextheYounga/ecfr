@@ -1,6 +1,6 @@
 ##### § 63.4 Other properties on which determinations of eligibility may be made by the Secretary of the Interior.
 
-(a) The Keeper of the National Register will make determinations of eligibility on properties nominated by Federal agencies under section 2(a) of Executive Order 11593 prior to returning the nominations for such properties to the agency for technical or professional revision or because of procedural requirements. Such determinations of eligibility will be made only if sufficient information exists to establish the significance of the property and its eligibility for the National Register 
+(a) The Keeper of the National Register will make determinations of eligibility on properties nominated by Federal agencies under section 2(a) of Executive Order 11593 prior to returning the nominations for such properties to the agency for technical or professional revision or because of procedural requirements. Such determinations of eligibility will be made only if sufficient information exists to establish the significance of the property and its eligibility for the National Register
 
 (b) Any property or district removed from the National Register for procedural deficiencies in the nomination and/or listing process shall automatically be considered eligible for inclusion in the National Register without further action and will be published as such in the Federal Register.
 

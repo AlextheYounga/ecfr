@@ -1,6 +1,6 @@
 ##### § 21.7 Health examinations.
 
-No employee who comes in direct personal contact with bathers or pool users will be permitted to enter duty without first undergoing a health examination, or remain in such employment without undergoing periodic health examinations, as required by the Superintendent, and being found free from any infectious or communicable disease. 
+No employee who comes in direct personal contact with bathers or pool users will be permitted to enter duty without first undergoing a health examination, or remain in such employment without undergoing periodic health examinations, as required by the Superintendent, and being found free from any infectious or communicable disease.
 
 Cross Reference:
 

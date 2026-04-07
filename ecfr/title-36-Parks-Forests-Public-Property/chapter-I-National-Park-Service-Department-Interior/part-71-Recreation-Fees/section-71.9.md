@@ -1,22 +1,22 @@
 ##### § 71.9 Establishment of recreation use fees.
 
-(a) Recreation use fees shall be established by all outdoor recreation administering agencies of the Department of the Interior in accordance with the following criteria: 
+(a) Recreation use fees shall be established by all outdoor recreation administering agencies of the Department of the Interior in accordance with the following criteria:
 
-(1) The direct and indirect cost to the government, 
+(1) The direct and indirect cost to the government,
 
-(2) The benefit to the recipient, 
+(2) The benefit to the recipient,
 
-(3) The public policy or interest served, 
+(3) The public policy or interest served,
 
-(4) The comparable recreation fees charged by other Federal agencies, non-Federal public agencies and the private sector located within the service area of the management unit at which the fee is charged, 
+(4) The comparable recreation fees charged by other Federal agencies, non-Federal public agencies and the private sector located within the service area of the management unit at which the fee is charged,
 
-(5) The economic and administrative feasibility of fee collection, and 
+(5) The economic and administrative feasibility of fee collection, and
 
-(6) Other pertinent factors. 
+(6) Other pertinent factors.
 
-(b) With the approval of the Secretary of the Interior recreation use fees may be established for other types of facilities in addition to those which are listed below. 
+(b) With the approval of the Secretary of the Interior recreation use fees may be established for other types of facilities in addition to those which are listed below.
 
-(c) Types of recreation facilities for which use fees may be charged: 
+(c) Types of recreation facilities for which use fees may be charged:
 
 Tent, trailer and recreation vehicle sites 1
 

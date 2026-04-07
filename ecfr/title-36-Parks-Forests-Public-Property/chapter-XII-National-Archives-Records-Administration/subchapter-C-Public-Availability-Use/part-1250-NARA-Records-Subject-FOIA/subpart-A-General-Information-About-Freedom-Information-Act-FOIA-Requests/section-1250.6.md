@@ -1,6 +1,6 @@
 ##### § 1250.6 Does the FOIA apply to all of the records at NARA?
 
-No, the FOIA applies only to the records of the executive branch of the Federal Government and certain Presidential and Vice Presidential records: 
+No, the FOIA applies only to the records of the executive branch of the Federal Government and certain Presidential and Vice Presidential records:
 
 | If you want access to . . .                                                                              | Then access is governed by . . .                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |

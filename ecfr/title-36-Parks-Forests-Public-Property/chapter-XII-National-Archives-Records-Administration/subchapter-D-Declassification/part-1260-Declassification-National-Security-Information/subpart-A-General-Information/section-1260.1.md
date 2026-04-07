@@ -1,18 +1,18 @@
 ##### § 1260.1 What is the purpose of this part?
 
-(a) This subchapter defines the responsibilities of NARA and other Federal agencies for declassification of classified national security information in the holdings of NARA. This part also describes NARA's procedures for: 
+(a) This subchapter defines the responsibilities of NARA and other Federal agencies for declassification of classified national security information in the holdings of NARA. This part also describes NARA's procedures for:
 
-(1) Operation of the National Declassification Center, 
+(1) Operation of the National Declassification Center,
 
-(2) Processing referrals to other agencies, 
+(2) Processing referrals to other agencies,
 
-(3) Facilitating systematic reviews of NARA holdings, and 
+(3) Facilitating systematic reviews of NARA holdings, and
 
-(4) Processing mandatory declassification review requests for NARA holdings. 
+(4) Processing mandatory declassification review requests for NARA holdings.
 
-(b) Regulations for researchers who wish to request access to materials containing classified national security information are found in 36 CFR part 1256. 
+(b) Regulations for researchers who wish to request access to materials containing classified national security information are found in 36 CFR part 1256.
 
-(c) For the convenience of the user, the following table provides references between the sections contained in this part and the relevant sections of the Order and the Implementing Directive. 
+(c) For the convenience of the user, the following table provides references between the sections contained in this part and the relevant sections of the Order and the Implementing Directive.
 
 | CFR section                                                                                                                                                                                                                                                       | Related section of E.O. 13526 | Related section of   Implementing Directive |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------- |
