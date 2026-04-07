@@ -769,7 +769,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Shaker Heights       | 10                                                  |
 | Springfield          | S                                                   |
 | Steubenville         | 9                                                   |
-| Toledo               | 5, 11, 13, 23, 26, \*29                             |
+| Toledo               | 11, 13, 23, 26, \*29, 35                            |
 | Youngstown           | 31, 33, S                                           |
 | Zanesville           | 30                                                  |
 | Oklahoma             |                                                     |
