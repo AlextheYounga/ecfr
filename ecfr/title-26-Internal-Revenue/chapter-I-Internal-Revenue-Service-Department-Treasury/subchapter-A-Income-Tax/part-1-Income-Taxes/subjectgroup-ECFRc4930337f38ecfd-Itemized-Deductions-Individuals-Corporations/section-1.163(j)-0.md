@@ -34,7 +34,7 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (*2*) Application of the alternative computation method.
 
-(C) Successor assets.
+(C) Successor rules.
 
 (*1*) Successor assets.
 
