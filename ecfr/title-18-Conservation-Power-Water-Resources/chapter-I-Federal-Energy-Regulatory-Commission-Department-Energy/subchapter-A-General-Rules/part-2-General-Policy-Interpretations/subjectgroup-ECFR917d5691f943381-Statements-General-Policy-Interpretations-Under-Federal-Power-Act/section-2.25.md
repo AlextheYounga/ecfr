@@ -18,4 +18,4 @@
 
 (f) *Other Costing Methods Not Precluded.* The ratemaking treatment of emissions allowance costs endorsed in this Policy Statement does not preclude other approaches proposed by individual utilities on a case-by-case basis.
 
-\[59 FR 65938, Dec. 22, 1994, as amended by Order 579, 60 FR 22261, May 5, 1995\]
+\[59 FR 65938, Dec. 22, 1994, as amended by Order 579, 60 FR 22261, May 5, 1995\] Link to an amendment published at 90 FR 48402, Oct. 21, 2025.

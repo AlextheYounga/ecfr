@@ -1,6 +1,6 @@
 ##### § 2.26 Policies concerning review of applications under section 203.
 
-(a) The Commission has adopted a Policy Statement on its policies for reviewing transactions subject to section 203. That Policy Statement can be found at 77 FERC ¶ 61,263 (1996). The Policy Statement is a complete description of the relevant guidelines. Paragraphs (b)-(e) of this section are only a brief summary of the Policy Statement.
+(a) The Commission has adopted a Policy Statement on its policies for reviewing transactions subject to section 203. That Policy Statement can be found at 77 FERC ¶ 61,263 (1996). The Policy Statement is a complete description of the relevant guidelines. Paragraphs (b)-(e) of this section are only a brief summary of the Policy Statement.*Factors Commission will generally consider.*
 
 (b) *Factors Commission will generally consider.* In determining whether a proposed transaction subject to section 203 is consistent with the public interest, the Commission will generally consider the following factors; it may also consider other factors:
 
@@ -20,4 +20,4 @@
 
 (f) Under section 203(a)(4) of the Federal Power Act (16 U.S.C. 824b), in reviewing a proposed transaction subject to section 203, the Commission will also consider whether the proposed transaction will result in cross-subsidization of a non-utility associate company or pledge or encumbrance of utility assets for the benefit of an associate company, unless that cross-subsidization, pledge, or encumbrance will be consistent with the public interest.
 
-\[Order 592, 61 FR 68606, Dec. 30, 1996, as amended by Order 669-A, 71 FR 28443, May 16, 2006\]
+\[Order 592, 61 FR 68606, Dec. 30, 1996, as amended by Order 669-A, 71 FR 28443, May 16, 2006\] Link to an amendment published at 90 FR 48402, Oct. 21, 2025.

@@ -1,6 +1,6 @@
 ##### § 375.205 Closed meetings.
 
-(a) Meetings will be closed to public observation where the Commission properly determines, according to the procedures set forth in § 375.206, that such meeting or portion of the meeting or disclosure of information to be considered at the meeting is likely to:
+(a) Meetings will be closed to public observation where the Commission properly determines, according to the procedures set forth in § 375.206, that such meeting or portion of the meeting or disclosure of information to be considered at the meeting is likely to:*Provided,*
 
 (1) Disclose matters that are (i) specifically authorized under criteria established by an Executive order to be kept secret in the interests of national defense or foreign policy and are (ii) in fact properly classified pursuant to such Executive order;
 

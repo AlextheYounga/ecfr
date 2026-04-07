@@ -1,6 +1,6 @@
 ##### § 375.308 Delegations to the Director of the Office of Energy Projects.
 
-The Commission authorizes the Director or the Director's designee to:
+The Commission authorizes the Director or the Director's designee to:Federal Register
 
 (a) Take appropriate action on uncontested applications and on applications for which the only motion or notice of intervention in opposition is filed by a competing preliminary permit or exemption applicant that does not propose and substantiate materially different plans to develop, conserve, and utilize the water resources of the region for the following:
 

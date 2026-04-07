@@ -16,4 +16,4 @@
 
 (c) *Where to file.* The paper copies and an accompanying transmittal letter must be submitted in one package to: Office of the Secretary, Federal Energy Regulatory Commission, Washington, DC 20426.
 
-\[Order 595, 62 FR 30446, June 4, 1997, as amended by Order 737, 75 FR 43404, July 26, 2010\]
+\[Order 595, 62 FR 30446, June 4, 1997, as amended by Order 737, 75 FR 43404, July 26, 2010\] Link to an amendment published at 90 FR 48403, Oct. 21, 2025.

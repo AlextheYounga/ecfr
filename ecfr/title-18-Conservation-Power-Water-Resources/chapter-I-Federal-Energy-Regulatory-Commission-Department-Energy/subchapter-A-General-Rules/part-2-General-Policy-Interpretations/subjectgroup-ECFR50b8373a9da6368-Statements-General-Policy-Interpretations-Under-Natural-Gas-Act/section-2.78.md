@@ -1,6 +1,6 @@
 ##### § 2.78 Utilization and conservation of natural resources—natural gas.
 
-(a)(1) The national interests in the development and utilization of natural gas resources throughout the United States will be served by recognition and implementation of the following priority-of-service categories for use during periods of curtailed deliveries by jurisdictional pipeline companies:
+(a)(1) The national interests in the development and utilization of natural gas resources throughout the United States will be served by recognition and implementation of the following priority-of-service categories for use during periods of curtailed deliveries by jurisdictional pipeline companies:*Residential.*
 
 (i) Residential, small commercial (less than 50 Mcf on a peak day).
 
@@ -72,4 +72,4 @@
 
 (10) *Alternate fuel capabilities.* Is defined as a situation where an alternate fuel could have been utilized whether or not the facilities for such use have actually been installed; *Provided, however,* Where the use of natural gas is for plant protection, feedstock, or process uses and the only alternate fuel is propane or other gaseous fuel then the consumer will be treated as if he had no alternate fuel capability.
 
-(Sec. 4, 52 Stat. 822, 76 Stat. 72 (15 U.S.C. 717c); Sec. 5, 52 Stat. 823 (15 U.S.C. 717d); Sec. 7, 52 Stat. 824, 825, 56 Stat. 83, 84, 61 Stat. 459 (15 U.S.C. 717f); Sec. 10, 52 Stat. 826 (15 U.S.C. 717i); Sec. 14, 52 Stat. 820 (15 U.S.C. 717m); Sec. 15, 52 Stat. 829 (15 U.S.C. 717n); Sec. 16, 52 Stat. 930 (15 U.S.C. 717o); Pub. L. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.))*\[Order 467A, 38 FR 2171, Jan. 22, 1973, as amended by Order 467B, 38 FR 6386, Mar. 9, 1973; Order 493-A, 38 FR 30433, Nov. 5, 1973; Order 467-C, 39 FR 12984, Apr. 10, 1974; Order 225, 47 FR 19055, May 3, 1982\]
+(Sec. 4, 52 Stat. 822, 76 Stat. 72 (15 U.S.C. 717c); Sec. 5, 52 Stat. 823 (15 U.S.C. 717d); Sec. 7, 52 Stat. 824, 825, 56 Stat. 83, 84, 61 Stat. 459 (15 U.S.C. 717f); Sec. 10, 52 Stat. 826 (15 U.S.C. 717i); Sec. 14, 52 Stat. 820 (15 U.S.C. 717m); Sec. 15, 52 Stat. 829 (15 U.S.C. 717n); Sec. 16, 52 Stat. 930 (15 U.S.C. 717o); Pub. L. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.))*\[Order 467A, 38 FR 2171, Jan. 22, 1973, as amended by Order 467B, 38 FR 6386, Mar. 9, 1973; Order 493-A, 38 FR 30433, Nov. 5, 1973; Order 467-C, 39 FR 12984, Apr. 10, 1974; Order 225, 47 FR 19055, May 3, 1982\] Link to an amendment published at 90 FR 48402, Oct. 21, 2025.

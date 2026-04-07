@@ -24,4 +24,4 @@
 
 (e) *Waiver.* To the extent permitted by law, the Commission may, for good cause, waive any provision of this part or prescribe any alternative procedures that it determines to be appropriate.
 
-\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 376, 49 FR 21705, May 23, 1984; Order 607, 65 FR 51234, Sept. 22, 1999\]
+\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 376, 49 FR 21705, May 23, 1984; Order 607, 65 FR 51234, Sept. 22, 1999\] Link to an amendment published at 90 FR 48406, Oct. 21, 2025.

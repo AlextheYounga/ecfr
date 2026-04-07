@@ -11,3 +11,5 @@
 (1) A petition for review is filed under subpart J of this subchapter in accordance with Rule 1110(a) (review of denials) in which case the order is final when the review process under subpart J has been completed; or
 
 (2) The Commission directs that the order be reviewed under subpart J in accordance with Rule 1110(b), in which case the order is final when the review process under subpart J has been completed unless the Commission expressly states that the order shall be effective pending review proceeding.
+
+Link to an amendment published at 90 FR 48408, Oct. 21, 2025.

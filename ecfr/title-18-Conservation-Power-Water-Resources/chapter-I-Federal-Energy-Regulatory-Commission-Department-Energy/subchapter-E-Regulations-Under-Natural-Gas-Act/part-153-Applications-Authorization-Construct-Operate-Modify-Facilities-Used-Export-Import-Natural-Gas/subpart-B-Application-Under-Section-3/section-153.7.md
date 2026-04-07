@@ -1,6 +1,6 @@
 ##### § 153.7 Contents of application.
 
-Every application under subpart B of this part shall include, in the order indicated, the following:
+Every application under subpart B of this part shall include, in the order indicated, the following:*Information regarding applicant.*
 
 (a) *Information regarding applicant.* (1) The exact legal name of applicant;
 

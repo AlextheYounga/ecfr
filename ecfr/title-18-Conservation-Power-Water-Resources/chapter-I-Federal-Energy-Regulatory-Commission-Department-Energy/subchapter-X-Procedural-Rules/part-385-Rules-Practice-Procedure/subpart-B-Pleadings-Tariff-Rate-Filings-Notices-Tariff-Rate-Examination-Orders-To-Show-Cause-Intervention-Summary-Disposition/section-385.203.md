@@ -36,4 +36,4 @@
 
 (d) *Form of notice.* If a pleading or tariff or rate filing must include a form of notice suitable for publication in the Federal Register, the company shall submit the draft notice in accordance with the form of notice specifications prescribed by the Secretary and posted on the Commission's website under Filing Procedures at *https://www.ferc.gov.*
 
-\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 647, 69 FR 32439, June 10, 2004; Order 663, 70 FR 55725, Sept. 23, 2005; 71 FR 14642, Mar. 23, 2006; Order 714, 73 FR 57538, Oct. 3, 2008; Order 899, 88 FR 74032, Oct. 30, 2023\]
+\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 647, 69 FR 32439, June 10, 2004; Order 663, 70 FR 55725, Sept. 23, 2005; 71 FR 14642, Mar. 23, 2006; Order 714, 73 FR 57538, Oct. 3, 2008; Order 899, 88 FR 74032, Oct. 30, 2023\] Link to an amendment published at 90 FR 48406, Oct. 21, 2025.

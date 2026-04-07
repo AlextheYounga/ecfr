@@ -72,4 +72,4 @@
 
 (i) *Reservation of rights.* Any procedural right that a participant has in the absence of an offer of settlement is not affected by Commission disapproval, or approval subject to condition, of the uncontested portion of the offer of settlement.
 
-\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 541, 57 FR 21734, May 22, 1992; Order 578, 60 FR 19505, Apr. 19, 1995\]
+\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 541, 57 FR 21734, May 22, 1992; Order 578, 60 FR 19505, Apr. 19, 1995\] Link to an amendment published at 90 FR 48406, Oct. 21, 2025.

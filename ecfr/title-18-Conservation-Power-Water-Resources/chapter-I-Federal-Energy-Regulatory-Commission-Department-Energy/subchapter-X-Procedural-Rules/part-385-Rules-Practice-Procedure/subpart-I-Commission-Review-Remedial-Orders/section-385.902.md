@@ -15,3 +15,5 @@ For purposes of this subpart:*Contested order*
 (f) *Remedial order* means a remedial order issued pursuant to 10 CFR 205.199B (remedial orders);
 
 (g) *Secretary* means the Secretary of Energy or his delegate.
+
+Link to an amendment published at 90 FR 48407, Oct. 21, 2025.

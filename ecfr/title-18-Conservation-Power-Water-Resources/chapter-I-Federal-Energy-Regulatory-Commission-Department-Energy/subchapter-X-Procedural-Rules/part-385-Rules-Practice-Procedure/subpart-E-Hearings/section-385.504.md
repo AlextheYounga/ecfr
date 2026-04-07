@@ -62,4 +62,4 @@
 
 (2) The Commission may, for good cause, order the removal of any presiding officer from a proceeding, on motion filed with the Commission or otherwise.
 
-\[Order 225, 47 FR 19022, May 3, 1982; 48 FR 786, Jan. 7, 1983, as amended by Order 375, 49 FR 21315, May 21, 1984; Order 466, 52 FR 6970, Mar. 6, 1987; Order 578, 60 FR 19505, Apr. 19, 1995\]
+\[Order 225, 47 FR 19022, May 3, 1982; 48 FR 786, Jan. 7, 1983, as amended by Order 375, 49 FR 21315, May 21, 1984; Order 466, 52 FR 6970, Mar. 6, 1987; Order 578, 60 FR 19505, Apr. 19, 1995\] Link to an amendment published at 90 FR 48406, Oct. 21, 2025.

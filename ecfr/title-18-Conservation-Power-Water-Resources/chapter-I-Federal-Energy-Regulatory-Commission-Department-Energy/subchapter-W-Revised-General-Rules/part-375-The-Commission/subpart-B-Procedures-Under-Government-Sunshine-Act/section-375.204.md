@@ -1,6 +1,6 @@
 ##### § 375.204 Notice of meetings.
 
-(a) *Public announcements of meetings*—(1) *General rule.* Except to the extent that information described in § 375.205(a) (involving closed meetings) is exempt from disclosure, the Secretary shall announce at least one week before each Commission meeting, the time, place, and subject matter of the meeting, whether it is an open meeting or closed meeting, and the name and telephone number of the official designated by the Commission to respond to requests for information about the meeting.
+(a) *Public announcements of meetings*—(1) *General rule.* Except to the extent that information described in § 375.205(a) (involving closed meetings) is exempt from disclosure, the Secretary shall announce at least one week before each Commission meeting, the time, place, and subject matter of the meeting, whether it is an open meeting or closed meeting, and the name and telephone number of the official designated by the Commission to respond to requests for information about the meeting.Federal Register.
 
 (2) *Abbreviated notice.* If the Commission determines by a majority of its members by a recorded vote that Commission business requires that a Commission meeting be called with less than one week's notice as prescribed in paragraph (a)(1) of this section, the Secretary shall make public announcements of the time, place, and subject matter of such meeting and whether open or closed to the public, at the earliest practicable time.
 

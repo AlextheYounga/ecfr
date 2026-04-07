@@ -1,6 +1,6 @@
 ##### § 375.301 Purpose and subdelegations.
 
-(a) The purpose of this subpart is to set forth the authorities that the Commission has delegated to staff officials. Any action by a staff official under the authority of this subpart may be appealed to the Commission in accordance with § 385.1902 of this chapter.
+(a) The purpose of this subpart is to set forth the authorities that the Commission has delegated to staff officials. Any action by a staff official under the authority of this subpart may be appealed to the Commission in accordance with § 385.1902 of this chapter.*designee*
 
 (b) Where the Commission, in delegating functions to specified Commission officials, permits an official to further delegate those functions to a designee of such official, *designee* shall mean the deputy of such official, the head of a division, or a comparable official as designated by the official to whom the direct delegation is made.
 

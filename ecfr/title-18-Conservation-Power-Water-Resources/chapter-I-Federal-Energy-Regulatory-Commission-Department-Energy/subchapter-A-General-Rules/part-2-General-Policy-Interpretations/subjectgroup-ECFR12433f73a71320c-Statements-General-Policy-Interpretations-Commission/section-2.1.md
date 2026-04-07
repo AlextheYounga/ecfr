@@ -1,6 +1,6 @@
 ##### § 2.1 Initial notice; service; and information copies of formal documents.
 
-(a) Whenever appropriate, publication of an initial notice or order in the Federal Register shall be the primary means of informing interested persons and the general public that the proceeding to which the notice or order relates has been instituted before the Commission. The mailing or e-mailing of individual copies shall be confined to that which is required by law, by the Commission's rules and regulations, or by other considerations deemed valid by the Secretary in specific instances.
+(a) Whenever appropriate, publication of an initial notice or order in the Federal Register shall be the primary means of informing interested persons and the general public that the proceeding to which the notice or order relates has been instituted before the Commission. The mailing or e-mailing of individual copies shall be confined to that which is required by law, by the Commission's rules and regulations, or by other considerations deemed valid by the Secretary in specific instances.*Natural gas pipeline companies and public utility rate schedules and tariffs.*
 
 (1) It is the policy of the Commission to publish notice in the Federal Register upon the institution of the following proceedings before the Commission:
 

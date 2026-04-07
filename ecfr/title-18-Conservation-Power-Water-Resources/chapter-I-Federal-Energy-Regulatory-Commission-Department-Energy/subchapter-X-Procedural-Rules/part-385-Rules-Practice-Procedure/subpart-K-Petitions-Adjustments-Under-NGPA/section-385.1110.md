@@ -22,4 +22,4 @@
 
 (c) *Separation of functions.* Any person who participated in the proceeding to review the grant or denial of that adjustment under this Rule as a witness or counsel may not advise the Commission concerning the review of the grant or denial of that adjustment.
 
-\[Order 225, 47 FR 19022, May 3, 1982; 48 FR 786, Jan. 7, 1983, as amended by Order 24-C, 50 FR 21596, May 28, 1985\]
+\[Order 225, 47 FR 19022, May 3, 1982; 48 FR 786, Jan. 7, 1983, as amended by Order 24-C, 50 FR 21596, May 28, 1985\] Link to an amendment published at 90 FR 48408, Oct. 21, 2025.

@@ -6,4 +6,4 @@
 
 (c) Upon commencement of a proceeding, the Commission or its designee will designate a presiding officer for the proceeding, and the Commission or its designee will notify participants in the prior proceedings and persons denied intervention in the prior proceedings of such designation.
 
-\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 416-A, 50 FR 36053, Sept. 5, 1985\]
+\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 416-A, 50 FR 36053, Sept. 5, 1985\] Link to an amendment published at 90 FR 48407, Oct. 21, 2025.

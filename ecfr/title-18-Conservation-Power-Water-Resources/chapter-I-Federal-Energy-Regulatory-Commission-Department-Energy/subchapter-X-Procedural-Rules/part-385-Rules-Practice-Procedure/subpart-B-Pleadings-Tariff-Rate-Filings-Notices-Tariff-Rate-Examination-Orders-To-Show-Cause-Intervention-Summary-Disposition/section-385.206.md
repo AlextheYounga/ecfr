@@ -68,4 +68,4 @@
 
 (2) The decisional authority may order the submission of additional information before acting on a motion for dismissal or an amendment under paragraph (c)(1)(ii) of this section.
 
-\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 602, 64 FR 17097, Apr. 8, 1999; Order 602-A, 64 FR 43608, Aug. 11, 1999; Order 647, 69 FR 32440, June 10, 2004; Order 769, 77 FR 65476, Oct. 29, 2012\]
+\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 602, 64 FR 17097, Apr. 8, 1999; Order 602-A, 64 FR 43608, Aug. 11, 1999; Order 647, 69 FR 32440, June 10, 2004; Order 769, 77 FR 65476, Oct. 29, 2012\] Link to an amendment published at 90 FR 48406, Oct. 21, 2025.

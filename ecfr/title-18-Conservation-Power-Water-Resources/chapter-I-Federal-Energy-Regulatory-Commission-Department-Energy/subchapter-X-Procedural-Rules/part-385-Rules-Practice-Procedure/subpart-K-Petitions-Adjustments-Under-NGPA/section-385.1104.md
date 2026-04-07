@@ -28,4 +28,4 @@
 
 (3) Staff may require the petitioner to provide alternate or additional service and will cause notice of the application to be published in the Federal Register.
 
-\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 394, 49 FR 35365, Sept. 7, 1984; Order 647, 69 FR 32440, June 10, 2004\]
+\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 394, 49 FR 35365, Sept. 7, 1984; Order 647, 69 FR 32440, June 10, 2004\] Link to an amendment published at 90 FR 48407, Oct. 21, 2025.

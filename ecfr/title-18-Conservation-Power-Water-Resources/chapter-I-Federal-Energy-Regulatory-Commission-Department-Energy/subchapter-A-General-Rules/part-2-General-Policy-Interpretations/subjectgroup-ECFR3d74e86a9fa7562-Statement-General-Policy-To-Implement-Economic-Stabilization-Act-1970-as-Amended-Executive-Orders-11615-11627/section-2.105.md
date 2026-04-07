@@ -10,4 +10,4 @@ An interstate natural gas pipeline that transports under part 284 of this chapte
 
 (d) By nominating a new level of service lower than its current level, a customer has consented to any abandonment sought by the pipeline commensurate with the difference between the current level of service and the nominated level.
 
-\[Order 500, 52 FR 30352, Aug. 14, 1987; 52 FR 35539, Sept. 22, 1987, and 54 FR 52394, Dec. 21, 1989\]
+\[Order 500, 52 FR 30352, Aug. 14, 1987; 52 FR 35539, Sept. 22, 1987, and 54 FR 52394, Dec. 21, 1989\] Link to an amendment published at 90 FR 48402, Oct. 21, 2025.

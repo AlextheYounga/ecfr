@@ -10,4 +10,4 @@
 
 (4) Staff may consider information obtained in informal conferences held under Rule 1111 (adjustment conferences).
 
-\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 24-C, 50 FR 21596, May 28, 1985\]
+\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 24-C, 50 FR 21596, May 28, 1985\] Link to an amendment published at 90 FR 48407, Oct. 21, 2025.

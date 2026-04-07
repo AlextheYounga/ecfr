@@ -20,4 +20,4 @@
 
 (2) The Commission may, on its own motion, at any time revoke, modify, rescind, stay or take any other appropriate action concerning the order granting interim relief.
 
-\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 24-C, 50 FR 21596, May 28, 1985\]
+\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 24-C, 50 FR 21596, May 28, 1985\] Link to an amendment published at 90 FR 48408, Oct. 21, 2025.

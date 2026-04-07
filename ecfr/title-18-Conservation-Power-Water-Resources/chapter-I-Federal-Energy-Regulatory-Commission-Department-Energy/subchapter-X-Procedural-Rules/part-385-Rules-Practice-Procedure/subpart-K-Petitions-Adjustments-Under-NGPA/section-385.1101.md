@@ -16,4 +16,4 @@
 
 (2) When provisions of other subparts of this part require Commission action, such provisions as applied under this subpart shall be deemed to require staff action. This subpart does not require a hearing to which subpart E applies.
 
-\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 478, 52 FR 28467, July 30, 1987\]
+\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 478, 52 FR 28467, July 30, 1987\] Link to an amendment published at 90 FR 48407, Oct. 21, 2025.

@@ -14,4 +14,4 @@
 
 (5) If the utility makes a convincing showing that application of the policy would be harsh and inequitable and that, therefore, good cause has been shown not to apply the policy in the case.
 
-\[52 FR 11, Jan. 11, 1987\]
+\[52 FR 11, Jan. 11, 1987\] Link to an amendment published at 90 FR 48401, Oct. 21, 2025.

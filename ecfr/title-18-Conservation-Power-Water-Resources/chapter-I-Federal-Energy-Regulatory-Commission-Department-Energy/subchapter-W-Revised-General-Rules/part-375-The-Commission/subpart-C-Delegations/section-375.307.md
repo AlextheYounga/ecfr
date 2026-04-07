@@ -1,6 +1,6 @@
 ##### § 375.307 Delegations to the Director of the Office of Energy Market Regulation.
 
-The Commission authorizes the Director or the Director's designee to:
+The Commission authorizes the Director or the Director's designee to:*Program-Specific Delegated Authority:*
 
 (a) *Program-Specific Delegated Authority:* Take the following actions with respect to the following programs:
 

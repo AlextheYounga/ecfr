@@ -1,6 +1,6 @@
 ##### § 2.76 Regulatory treatment of payments made in lieu of take-or-pay obligations.
 
-With respect to payments made to a first seller of natural gas as consideration for waiving or revising any agreement for the first sale of natural gas, as defined by section (2)(21) of the Natural Gas Policy Act (NGPA), the Commission sets forth the following statement of general policy and interpretation of law.
+With respect to payments made to a first seller of natural gas as consideration for waiving or revising any agreement for the first sale of natural gas, as defined by section (2)(21) of the Natural Gas Policy Act (NGPA), the Commission sets forth the following statement of general policy and interpretation of law.*Payments in consideration.*
 
 (a) *Payments in consideration.* A first seller of natural gas that receives payments as consideration for amending or waiving the take-or-pay or similar minimum payment provisions of a contract for the first sale of natural gas is not in violation of section 504(a) of the NGPA.
 

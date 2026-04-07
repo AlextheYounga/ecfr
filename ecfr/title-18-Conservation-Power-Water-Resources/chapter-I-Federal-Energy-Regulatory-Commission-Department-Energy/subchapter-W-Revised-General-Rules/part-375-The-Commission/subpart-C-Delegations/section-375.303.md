@@ -1,6 +1,6 @@
 ##### § 375.303 Delegations to the Director of the Office of Electric Reliability.
 
-The Commission authorizes the Director or the Director's designee to:
+The Commission authorizes the Director or the Director's designee to:*Program-Specific Delegated Authority:*
 
 (a) *Program-Specific Delegated Authority:* Take the following actions with respect to the following programs:
 

@@ -6,4 +6,4 @@
 
 (c) *Where to make filings.* All filings of documents with the Commission shall be made with the Secretary. The address for filings to be made with the Secretary is: Secretary, Federal Energy Regulatory Commission, 888 First St., NE., Washington, DC 20426. Where a document to be filed with the Secretary is hand-delivered, it shall be submitted to Room 1A, 888 First St., NE., Washington, DC 20426. Documents received after regular business hours are deemed to have been filed on the next regular business day.
 
-\[45 FR 21217, Apr. 1, 1980, as amended by Order 647, 69 FR 32439, June 10, 2004\]
+\[45 FR 21217, Apr. 1, 1980, as amended by Order 647, 69 FR 32439, June 10, 2004\] Link to an amendment published at 90 FR 48406, Oct. 21, 2025.

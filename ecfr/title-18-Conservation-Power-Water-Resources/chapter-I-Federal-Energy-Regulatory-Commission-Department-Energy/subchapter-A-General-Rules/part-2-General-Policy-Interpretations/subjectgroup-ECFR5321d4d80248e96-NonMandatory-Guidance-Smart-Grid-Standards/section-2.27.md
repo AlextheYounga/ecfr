@@ -1,6 +1,6 @@
 ##### § 2.27 Availability of North American Energy Standards Board (NAESB) Smart Grid Standards as non-mandatory guidance.
 
-The Commission informationally lists the following NAESB Business Practices Standards as non-mandatory guidance:
+The Commission informationally lists the following NAESB Business Practices Standards as non-mandatory guidance:*https://www.naesb.org/.*
 
 (a) WEQ-016, Specifications for Common Electricity Product and Pricing Definition, (WEQ Version 004, July 31, 2023);
 
@@ -14,4 +14,4 @@ The Commission informationally lists the following NAESB Business Practices Stan
 
 (f) Copies of the standards in this section may be obtained from the North American Energy Standards Board, 801 Travis Street, Suite 1675, Houston, TX 77002, Tel: (713) 356-0060. NAESB's website is at *https://www.naesb.org/.*
 
-\[79 FR 56954, Sept. 24, 2014, as amended by Order 676-I, 85 FR 10585, Feb. 25, 2020; Order 899, 88 FR 74030, Oct. 30, 2023; Order 676-K, 90 FR 10796, Feb. 27, 2025\]
+\[79 FR 56954, Sept. 24, 2014, as amended by Order 676-I, 85 FR 10585, Feb. 25, 2020; Order 899, 88 FR 74030, Oct. 30, 2023; Order 676-K, 90 FR 10796, Feb. 27, 2025\] Link to an amendment published at 90 FR 48402, Oct. 21, 2025.

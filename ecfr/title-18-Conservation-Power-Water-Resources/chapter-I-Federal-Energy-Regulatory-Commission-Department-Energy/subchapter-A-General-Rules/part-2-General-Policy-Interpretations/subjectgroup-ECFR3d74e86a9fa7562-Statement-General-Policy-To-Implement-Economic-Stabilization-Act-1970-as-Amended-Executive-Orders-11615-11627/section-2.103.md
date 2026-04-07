@@ -4,4 +4,4 @@
 
 (b) With respect to gas purchase contracts entered into on or after December 23, 1982, the Commission intends to apply a rebuttable presumption in general rate cases that prepayments to producers will not be given rate base treatment if the prepayments are made pursuant to take or pay requirements in such gas purchase contracts or amendments which exceed 75 percent of annual deliverability.
 
-(Natural Gas Act, 15 U.S.C. 717-717w; Natural Gas Policy Act of 1978, Pub. L. No. 95-621, 92 Stat. 3350, 15 U.S.C. 3301-3432) \[47 FR 57269, Dec. 23, 1982\]
+(Natural Gas Act, 15 U.S.C. 717-717w; Natural Gas Policy Act of 1978, Pub. L. No. 95-621, 92 Stat. 3350, 15 U.S.C. 3301-3432) \[47 FR 57269, Dec. 23, 1982\] Link to an amendment published at 90 FR 48402, Oct. 21, 2025.

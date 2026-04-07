@@ -1,6 +1,6 @@
 ##### § 2.400 Statement of interpretation of waste concerning natural gas as the primary energy source for qualifying small power production facilities.
 
-For purposes of deciding whether natural gas may be considered as waste as the primary energy source pursuant to § 292.204(b)(1)(i) of this chapter, the Commission will use the criteria described in paragraphs (a), (b) and (c) of this section.
+For purposes of deciding whether natural gas may be considered as waste as the primary energy source pursuant to § 292.204(b)(1)(i) of this chapter, the Commission will use the criteria described in paragraphs (a), (b) and (c) of this section.*Category 1.*
 
 (a) *Category 1.* Except as provided in paragraph (b) of this section, natural gas with a heating value of 300 Btu per standard cubic foot (scf) or below will be considered unmarketable.
 

@@ -1,8 +1,10 @@
 ##### § 131.52 Certificate of concurrence.
 
-(See §§ 35.1 through 35.21 of this chapter.) 
+Link to an amendment published at 90 FR 48403, Oct. 21, 2025.
 
-This is to certify that\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+(See §§ 35.1 through 35.21 of this chapter.)
+
+This is to certify that\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 (Name of public utility concurring) assents to and concurs in the rate schedule (rate schedule supplement) described below, which the\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of public utility filing rate schedule) has filed, and hereby files this certificate of concurrence in lieu of the filing of the rate schedule (rate schedule supplement) specified. (Here give exact description of rate schedule or supplement, including F.E.R.C. number) (Name of public utility) By (Title)
 

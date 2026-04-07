@@ -18,4 +18,4 @@
 
 (d) *Filing procedures.* Any proposed RTG agreement that in any manner affects or relates to the transmission of electric energy in interstate commerce by a public utility, or rates or charges for such transmission, must be filed with the Commission. Any public utility member of a proposed RTG may file the RTG agreement with the Commission on behalf of the other public utility members under section 205 of the FPA.
 
-\[58 FR 41632, Aug. 5, 1993\]
+\[58 FR 41632, Aug. 5, 1993\] Link to an amendment published at 90 FR 48401, Oct. 21, 2025.

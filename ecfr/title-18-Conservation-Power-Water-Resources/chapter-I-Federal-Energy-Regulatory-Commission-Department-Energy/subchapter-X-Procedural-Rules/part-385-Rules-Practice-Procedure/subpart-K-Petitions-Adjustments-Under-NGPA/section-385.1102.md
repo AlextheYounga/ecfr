@@ -21,3 +21,5 @@ For purposes of this subpart:*Adjustment*
 (e) *Party* means, with respect to a particular petition for adjustment, the person making the petition, and intervener, or a person who has moved to intervene but whose motion has not been granted or denied under Rule 1105(b) (intervention in adjustment proceedings).
 
 (f) *Staff* means the Director of the Office of Producer and Pipeline Regulation, or a person who is designated by the Director and who is an employee of the Commission.
+
+Link to an amendment published at 90 FR 48407, Oct. 21, 2025.

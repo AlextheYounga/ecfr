@@ -1,6 +1,6 @@
 ##### § 153.8 Required exhibits.
 
-(a) An application must include the following exhibits:
+(a) An application must include the following exhibits:*Exhibit A.*
 
 (1) *Exhibit A.* A certified copy of articles of incorporation, partnership or joint venture agreements, and by-laws of applicant; the amount and classes of capital stock; nationality of officers, directors, and stockholders, and the amount and class of stock held by each;
 
