@@ -1,5 +1,7 @@
 ##### § 425.600 Selection of risk model.
 
+Link to an amendment published at 83 FR 68069, December 31, 2018.
+
 (a) For its initial agreement period, an ACO may elect to operate under one of the following tracks:
 
 (1) *Track 1.* Under Track 1, the ACO operates under the one-sided model (as described under § 425.604 of this part) for the agreement period.
