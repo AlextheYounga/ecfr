@@ -147,15 +147,23 @@ Table 6 to § 628.63 - General Disclosure for Counterparty Credit Risk-Related E
 
 Table 7 to § 628.63 - Credit Risk Mitigation 1 2
 
-|                          |                                                                                                                                                                                    |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Qualitative Disclosures  | (a) The general qualitative disclosure requirement with respect to credit risk mitigation, including:                                                                              |
-|                          | (1) Policies and processes for collateral valuation and management;                                                                                                                |
-|                          | (2) A description of the main types of collateral taken by the System bank;                                                                                                        |
-|                          | (3) The main types of guarantors/credit derivative counterparties and their creditworthiness; and                                                                                  |
-|                          | (4) Information about (market or credit) risk concentrations with respect to credit risk mitigation.                                                                               |
-| Quantitative Disclosures | (b) For each separately disclosed credit risk portfolio, the total exposure that is covered by eligible financial collateral, and after the application of haircuts.               |
-|                          | (c) For each separately disclosed portfolio, the total exposure that is covered by guarantees/credit derivatives and the risk-weighted asset amount associated with that exposure. |
+Qualitative Disclosures
+
+(a) The general qualitative disclosure requirement with respect to credit risk mitigation, including: 
+
+(1) Policies and processes for collateral valuation and management; 
+
+(2) A description of the main types of collateral taken by the System bank; 
+
+(3) The main types of guarantors/credit derivative counterparties and their creditworthiness; and 
+
+(4) Information about (market or credit) risk concentrations with respect to credit risk mitigation. 
+
+Quantitative Disclosures
+
+(b) For each separately disclosed credit risk portfolio, the total exposure that is covered by eligible financial collateral, and after the application of haircuts. 
+
+(c) For each separately disclosed portfolio, the total exposure that is covered by guarantees/credit derivatives and the risk-weighted asset amount associated with that exposure. 
 
 1 At a minimum, a System bank must provide the disclosures in this Table 7 in relation to credit risk mitigation that has been recognized for the purposes of reducing capital requirements under this subpart. Where relevant, System banks are encouraged to give further information about mitigants that have not been recognized for that purpose.
 
