@@ -16,7 +16,7 @@
 
 (2) No. 068504 for use of the 100-µg/mL product described in paragraph (a)(2) as in paragraphs (d)(1)(ii), (d)(1)(v), and (d)(2) of this section.
 
-(3) Nos. 050604 for use of the 50-µg/mL product described in paragraph (a)(3) as in paragraphs (d)(1)(ii) and (d)(2) of this section.
+(3) Nos. 050604 and 061623 for use of the 50-µg/mL product described in paragraph (a)(3) as in paragraphs (d)(1)(ii) and (d)(2) of this section.
 
 (4) No. 054771 for use of the 50-µg/mL product described in paragraph (a)(4) as in paragraphs (d)(1)(iii), (d)(1)(vi), and (d)(2) of this section.
 

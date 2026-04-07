@@ -1,6 +1,4 @@
-##### § 622.372 Limited access system for king mackerel gillnet permits applicable in the southern Florida west coast subzone.
-
-Link to an amendment published at 82 FR 17396, Apr. 11, 2017.
+##### § 622.372 Limited access system for king mackerel gillnet permits applicable in the Gulf southern zone.
 
 (a) Except for applications for renewals of king mackerel gillnet permits, no applications for king mackerel gillnet permits will be accepted. Application forms for permit renewal are available from the RA.
 
