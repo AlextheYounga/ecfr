@@ -1,6 +1,6 @@
 ##### § 180.316 Pyrazon; tolerances for residues.
 
-(a) *General.* Tolerances are established for combined residues of the herbicide pyrazon (5-amino-4-chloro-2-phenyl-3(2H)-pyridazinone) and its metabolites (calculated as pyrazon) in or on the following food commodities: 
+(a) *General.* Tolerances are established for combined residues of the herbicide pyrazon (5-amino-4-chloro-2-phenyl-3(2H)-pyridazinone) and its metabolites (calculated as pyrazon) in or on the following food commodities:
 
 | Commodity                             | Parts per million |
 | ------------------------------------- | ----------------- |
@@ -27,11 +27,11 @@
 | Sheep, meat                           | 0.10              |
 | Sheep, meat byproducts, except liver  | 0.10              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for combined residues of the herbicide pyrazon, 5-amino-4-chloro-2-phenyl-3(2*H*)-pyridazinone, and its metabolites (calculated as pyrazon), in or on the following food commodities: 
+(d) *Indirect or inadvertent residues.* Tolerances are established for combined residues of the herbicide pyrazon, 5-amino-4-chloro-2-phenyl-3(2*H*)-pyridazinone, and its metabolites (calculated as pyrazon), in or on the following food commodities:
 
 | Commodity           | Parts per million |
 | ------------------- | ----------------- |

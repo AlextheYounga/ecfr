@@ -1,6 +1,6 @@
 ##### § 180.660 Pyriofenone; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide pyriofenone, including its metabolites and degradates, in or on the following commodities listed in the table. Compliance with the tolerance levels specified in the table is to be determined by measuring only pyriofenone, (5-chloro-2-methoxy-4-methyl-3-pyridinyl)(2,3,4-trimethoxy-6-methylphenyl) methanone, in or on the following commodities: 
+(a) *General.* Tolerances are established for residues of the fungicide pyriofenone, including its metabolites and degradates, in or on the following commodities listed in the table. Compliance with the tolerance levels specified in the table is to be determined by measuring only pyriofenone, (5-chloro-2-methoxy-4-methyl-3-pyridinyl)(2,3,4-trimethoxy-6-methylphenyl) methanone, in or on the following commodities:
 
 Table 1 to Paragraph (a)
 | Commodity                                                | Parts per   million |
@@ -17,10 +17,10 @@ Table 1 to Paragraph (a)
 | Vegetables, cucurbit, crop group 9                       | 0.30                |
 | 1 This tolerance expires on January 5, 2023.             |                     |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[77 FR 13506, Mar. 7, 2012, as amended at 82 FR 18240, Apr. 18, 2017; 84 FR 24987, May 30, 2019; 86 FR 17548, Apr. 5, 2021; 87 FR 39755, July 5, 2022\]

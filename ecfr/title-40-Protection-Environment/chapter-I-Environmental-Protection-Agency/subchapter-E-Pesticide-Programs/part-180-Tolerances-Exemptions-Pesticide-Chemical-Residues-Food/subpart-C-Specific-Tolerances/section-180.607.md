@@ -1,6 +1,6 @@
 ##### § 180.607 Spiromesifen; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide/miticide spiromesifen, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spiromesifen \[2-oxo-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-4-yl 3,3-dimethylbutanoate\] and 4-hydroxy-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-2-one, calculated as the stoichiometric equivalent of spiromesifen, in or on the following primary crop commodities: 
+(a) *General.* (1) Tolerances are established for residues of the insecticide/miticide spiromesifen, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spiromesifen \[2-oxo-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-4-yl 3,3-dimethylbutanoate\] and 4-hydroxy-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-2-one, calculated as the stoichiometric equivalent of spiromesifen, in or on the following primary crop commodities:
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                      | Parts per million |
@@ -39,7 +39,7 @@ Table 1 to Paragraph (a)(1)
 | 1 This use has not been registered in the United States as of August 28, 2018. |                   |
 | 2 There are no U.S. registrations for these commodities as of June 26, 2024.   |                   |
 
-(2) Tolerances are established for residues of the insecticide/miticide spiromesifen, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spiromesifen \[2-oxo-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-4-yl 3,3-dimethylbutanoate\] and its metabolites containing the 4-hydroxy-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-2-one and 4-hydroxy-3-\[4-(hydroxymethyl)-2,6-dimethylphenyl\]-1-oxaspiro\[4.4\]non-3-en-2-one moieties, calculated as the stoichiometric equivalent of spiromesifen, in the following livestock commodities: 
+(2) Tolerances are established for residues of the insecticide/miticide spiromesifen, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spiromesifen \[2-oxo-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-4-yl 3,3-dimethylbutanoate\] and its metabolites containing the 4-hydroxy-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-2-one and 4-hydroxy-3-\[4-(hydroxymethyl)-2,6-dimethylphenyl\]-1-oxaspiro\[4.4\]non-3-en-2-one moieties, calculated as the stoichiometric equivalent of spiromesifen, in the following livestock commodities:
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -58,7 +58,7 @@ Table 1 to Paragraph (a)(1)
 | Sheep, meat             | 0.02              |
 | Sheep, meat byproducts  | 0.20              |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances specified in the following table are established for residues of the insecticide/miticide spiromesifen, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spiromesifen \[2-oxo-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-4-yl 3,3-dimethylbutanoate\] and 4-hydroxy-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-2-one, calculated as the stoichiometric equivalent of spiromesifen, in or on the specified agricultural commodities, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. The tolerances expire and are revoked on the date specified in the table. 
+(b) *Section 18 emergency exemptions.* Time-limited tolerances specified in the following table are established for residues of the insecticide/miticide spiromesifen, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spiromesifen \[2-oxo-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-4-yl 3,3-dimethylbutanoate\] and 4-hydroxy-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-2-one, calculated as the stoichiometric equivalent of spiromesifen, in or on the specified agricultural commodities, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. The tolerances expire and are revoked on the date specified in the table.
 
 | Commodity       | Parts per million | Expiration/revocation date |
 | --------------- | ----------------- | -------------------------- |
@@ -66,9 +66,9 @@ Table 1 to Paragraph (a)(1)
 | Soybean, hay    | 86                | 12/31/14                   |
 | Soybean, seed   | 0.02              | 12/31/14                   |
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for the inadvertent or indirect residues of the insecticide/miticide spiromesifen, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spiromesifen \[2-oxo-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-4-yl 3,3-dimethylbutanoate\], 4-hydroxy-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-2-one, and its metabolites containing the 4-hydroxy-3-\[4-(hydroxymethyl)-2,6-dimethylphenyl\]-1-oxaspiro\[4.4\]non-3-en-2-one moiety, calculated as the stoichiometric equivalent of spiromesifen, in the following rotational crop commodities: 
+(d) *Indirect or inadvertent residues.* Tolerances are established for the inadvertent or indirect residues of the insecticide/miticide spiromesifen, including its metabolites and degradates, in or on the commodities listed below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of spiromesifen \[2-oxo-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-4-yl 3,3-dimethylbutanoate\], 4-hydroxy-3-(2,4,6-trimethylphenyl)-1-oxaspiro\[4.4\]non-3-en-2-one, and its metabolites containing the 4-hydroxy-3-\[4-(hydroxymethyl)-2,6-dimethylphenyl\]-1-oxaspiro\[4.4\]non-3-en-2-one moiety, calculated as the stoichiometric equivalent of spiromesifen, in the following rotational crop commodities:
 
 | Commodity                   | Parts per million |
 | --------------------------- | ----------------- |

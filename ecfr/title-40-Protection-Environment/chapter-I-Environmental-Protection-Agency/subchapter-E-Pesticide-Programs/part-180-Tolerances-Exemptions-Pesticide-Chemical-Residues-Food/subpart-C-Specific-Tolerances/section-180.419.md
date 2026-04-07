@@ -1,6 +1,6 @@
 ##### § 180.419 Chlorpyrifos-methyl; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for the combined residues of the insecticide chlorpyrifos-methyl \[*O,-O,-*dimethyl *O*-(3,5,6-trichloro-2-pyridyl)\] phosphorothioate and its metabolite (3,5,6-trichloro-2-pyridinol) in or on the following food commodities: 
+(a) *General.* (1) Tolerances are established for the combined residues of the insecticide chlorpyrifos-methyl \[*O,-O,-*dimethyl *O*-(3,5,6-trichloro-2-pyridyl)\] phosphorothioate and its metabolite (3,5,6-trichloro-2-pyridinol) in or on the following food commodities:
 
 | Commodity                             | Parts per million |
 | ------------------------------------- | ----------------- |
@@ -30,7 +30,7 @@
 | Sorghum, grain                        | 6.0               |
 | Wheat, grain                          | 6.0               |
 
-(2) Tolerances are established for the combined residues of the insecticide chlorpyrifos-methyl (*O,-O-* dimethyl-*O-*(3,5,6-trichloro-2-pyridyl) phosphorothioate and its metabolite (3,5,6-trichloro-2-pyridinol) in or on the following food commodities when present therein as a result of application to stored grains: 
+(2) Tolerances are established for the combined residues of the insecticide chlorpyrifos-methyl (*O,-O-* dimethyl-*O-*(3,5,6-trichloro-2-pyridyl) phosphorothioate and its metabolite (3,5,6-trichloro-2-pyridinol) in or on the following food commodities when present therein as a result of application to stored grains:
 
 | Commodity              | Parts per million |
 | ---------------------- | ----------------- |
@@ -45,10 +45,10 @@
 | Wheat, middlings       | 30                |
 | Wheat, shorts          | 30                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[65 FR 33715, May 24, 2000, as amended at 74 FR 46374, Sept. 9, 2009\]

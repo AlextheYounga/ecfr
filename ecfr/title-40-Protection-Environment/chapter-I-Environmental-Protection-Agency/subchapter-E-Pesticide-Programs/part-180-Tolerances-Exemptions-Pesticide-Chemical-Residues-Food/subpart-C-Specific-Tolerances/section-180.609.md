@@ -1,6 +1,6 @@
 ##### § 180.609 Fluoxastrobin; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of fluoxastrobin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fluoxastrobin, (1E)-\[2-\[\[6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinyl\]oxy\]phenyl\](5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime and its Z isomer, (1Z)-\[2-\[\[6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinyl\]oxy\]phenyl\](5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime, calculated as the stoichiometric equivalent of fluoxastrobin. 
+(a) *General.* (1) Tolerances are established for residues of fluoxastrobin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fluoxastrobin, (1E)-\[2-\[\[6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinyl\]oxy\]phenyl\](5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime and its Z isomer, (1Z)-\[2-\[\[6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinyl\]oxy\]phenyl\](5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime, calculated as the stoichiometric equivalent of fluoxastrobin.
 
 | Commodity                                                | Parts per million |
 | -------------------------------------------------------- | ----------------- |
@@ -42,7 +42,7 @@
 | Wheat, hay                                               | 17                |
 | Wheat, straw                                             | 11                |
 
-(2) Tolerances are established for residues of fluoxastrobin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fluoxastrobin, (1E)-\[2-\[\[6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinyl\]oxy\]phenyl\](5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime, its Z isomer, (1Z)-\[2-\[\[6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinyl\]oxy\]phenyl\](5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime, and its phenoxy-hydroxypyrimidine, 6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinol, calculated as the stoichiometric equivalent of fluoxastrobin. 
+(2) Tolerances are established for residues of fluoxastrobin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fluoxastrobin, (1E)-\[2-\[\[6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinyl\]oxy\]phenyl\](5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime, its Z isomer, (1Z)-\[2-\[\[6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinyl\]oxy\]phenyl\](5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime, and its phenoxy-hydroxypyrimidine, 6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinol, calculated as the stoichiometric equivalent of fluoxastrobin.
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -64,11 +64,11 @@
 | Sheep, meat             | 0.05              |
 | Sheep, meat byproducts  | 0.20              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent residues of fluoxastrobin, including its metabolites and degradates, in or on the commodities in the table below, when present therein as a result of the application of fluoxastrobin to the growing crops listed in paragraph (a)(1) of this section. Compliance with the tolerance levels specified below is to be determined by measuring only fluoxastrobin, (1E)-\[2-\[\[6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinyl\]oxy\]phenyl\](5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime and its Z isomer, (1Z)-\[2-\[\[6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinyl\]oxy\]phenyl\](5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime, calculated as the stoichiometric equivalent of fluoxastrobin. 
+(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent residues of fluoxastrobin, including its metabolites and degradates, in or on the commodities in the table below, when present therein as a result of the application of fluoxastrobin to the growing crops listed in paragraph (a)(1) of this section. Compliance with the tolerance levels specified below is to be determined by measuring only fluoxastrobin, (1E)-\[2-\[\[6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinyl\]oxy\]phenyl\](5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime and its Z isomer, (1Z)-\[2-\[\[6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinyl\]oxy\]phenyl\](5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime, calculated as the stoichiometric equivalent of fluoxastrobin.
 
 | Commodity                                                       | Parts per million |
 | --------------------------------------------------------------- | ----------------- |

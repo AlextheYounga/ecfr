@@ -1,6 +1,6 @@
 ##### § 180.555 Trifloxystrobin; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of trifloxystrobin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of trifloxystrobin, benzeneacetic acid, (*E,E*)-α-(methoxyimino)-2-\[\[\[\[1-\[3-(trifluoromethyl) phenyl\]ethylidene\] amino\]oxy\]methyl\]-, methyl ester, and the free form of its acid metabolite CGA-321113, (*E,E*)-methoxyimino-\[2-\[1-(3-trifluoromethyl-phenyl)-ethylideneaminooxymethyl\]-phenyl\]acetic acid, calculated as the stoichiometric equivalent of trifloxystrobin, in or on the commodity. 
+(a) *General.* Tolerances are established for residues of trifloxystrobin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of trifloxystrobin, benzeneacetic acid, (*E,E*)-α-(methoxyimino)-2-\[\[\[\[1-\[3-(trifluoromethyl) phenyl\]ethylidene\] amino\]oxy\]methyl\]-, methyl ester, and the free form of its acid metabolite CGA-321113, (*E,E*)-methoxyimino-\[2-\[1-(3-trifluoromethyl-phenyl)-ethylideneaminooxymethyl\]-phenyl\]acetic acid, calculated as the stoichiometric equivalent of trifloxystrobin, in or on the commodity.
 
 Table 1 to Paragraph (a)
 | Commodity                                                                                | Parts per   million |
@@ -127,10 +127,10 @@ Table 1 to Paragraph (a)
 | 3 There are no U.S. registrations as of June 24, 2019, for use on tea.                   |                     |
 | 4 There are no U.S. registrations on this commodity as of January 11, 2022.              |                     |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[64 FR 51907, Sept. 27, 1999\] Editorial Note:For Federal Register citations affecting § 180.555, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

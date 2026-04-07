@@ -1,6 +1,6 @@
 ##### § 180.117 S-Ethyl dipropylthiocarbamate; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide *S*-ethyl dipropylthiocarbamate, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of *S*-ethyl dipropylthiocarbamate, *S*-ethyl (2-hydroxypropyl)propylcarbamothioate, *S*-(2-hydroxyethyl)dipropylcarbamothioate, and *S*-ethyl (3-hydroxypropyl)propylcarbamothioate, calculated as the stoichiometric equivalent of *S*-ethyl dipropylthiocarbamate, in or on the commodity. 
+(a) *General.* Tolerances are established for residues of the herbicide *S*-ethyl dipropylthiocarbamate, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only the sum of *S*-ethyl dipropylthiocarbamate, *S*-ethyl (2-hydroxypropyl)propylcarbamothioate, *S*-(2-hydroxyethyl)dipropylcarbamothioate, and *S*-ethyl (3-hydroxypropyl)propylcarbamothioate, calculated as the stoichiometric equivalent of *S*-ethyl dipropylthiocarbamate, in or on the commodity.
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
@@ -39,10 +39,10 @@
 | Vegetable, root                                 | 0.1               |
 | Walnut                                          | 0.08              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[75 FR 60239, Sept. 29, 2010, as amended at 82 FR 42952, Sept. 13, 2017\]

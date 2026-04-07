@@ -1,6 +1,6 @@
 ##### § 180.111 Malathion; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide malathion (*O,O*-dimethyl dithiophosphate of diethyl mercaptosuccinate) in or on the following food commodities: 
+(a) *General.* (1) Tolerances are established for residues of the insecticide malathion (*O,O*-dimethyl dithiophosphate of diethyl mercaptosuccinate) in or on the following food commodities:
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
@@ -123,7 +123,7 @@
 | Walnut                                          | 8                 |
 | Wheat, grain, postharvest                       | 8                 |
 
-(2) Tolerances are established for the combined residues of the insecticide malathion (*O,O*-dimethyl dithiophosphate of diethyl mercaptosuccinate) and its metabolite, malaoxon (O,O-dimethyl thiophosphate of diethyl mercaptosuccinate), in or on the following food commodities: 
+(2) Tolerances are established for the combined residues of the insecticide malathion (*O,O*-dimethyl dithiophosphate of diethyl mercaptosuccinate) and its metabolite, malaoxon (O,O-dimethyl thiophosphate of diethyl mercaptosuccinate), in or on the following food commodities:
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -140,7 +140,7 @@
 | Wheat, forage           | 4.0               |
 | Wheat, straw            | 50                |
 
-(3) Tolerances are established for residues of the insecticide malathion (*O,O*-dimethyl dithiophosphate of diethyl mercaptosuccinate), in or on the following food commodities: 
+(3) Tolerances are established for residues of the insecticide malathion (*O,O*-dimethyl dithiophosphate of diethyl mercaptosuccinate), in or on the following food commodities:
 
 | Commodity                                                                                                                                  | Parts per million |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
@@ -166,28 +166,28 @@
 | Sheep, meat byproducts1                                                                                                                    | 4                 |
 | 1 The tolerance level shall not be exceeded in any cut of meat or in any meat byproducts from cattle, goat, hog, horse, poultry, or sheep. |                   |
 
-(4) Malathion may be safely used in accordance with the following conditions: 
+(4) Malathion may be safely used in accordance with the following conditions:
 
-(i) It is incorporated into paper trays in amounts not exceeding 100 milligrams per square foot. 
+(i) It is incorporated into paper trays in amounts not exceeding 100 milligrams per square foot.
 
-(ii) Treated paper trays are intended for use only in the drying of grape (raisins). 
+(ii) Treated paper trays are intended for use only in the drying of grape (raisins).
 
-(iii) Total residues of malathion resulting from drying of grape on treated trays and from application to grape before harvest shall not exceed 12 parts per million on processed ready-to-eat raisins. 
+(iii) Total residues of malathion resulting from drying of grape on treated trays and from application to grape before harvest shall not exceed 12 parts per million on processed ready-to-eat raisins.
 
-(5) Residues of malathion in safflower, refined oil from application to the growing safflower plant shall not exceed 0.6 parts per million. 
+(5) Residues of malathion in safflower, refined oil from application to the growing safflower plant shall not exceed 0.6 parts per million.
 
-(6) Malathion may be safely used for the control of insects during the drying of grape (raisins) in compliance with paragraph (a)(4) of this section by incorporation into paper trays in amounts not exceeding 100 milligrams per square foot. 
+(6) Malathion may be safely used for the control of insects during the drying of grape (raisins) in compliance with paragraph (a)(4) of this section by incorporation into paper trays in amounts not exceeding 100 milligrams per square foot.
 
-(7) Malathion (*O,O-*dimethyl dithiophosphate of diethyl mercaptosuccinate) may be safely used in feed in accordance with the following conditions. 
+(7) Malathion (*O,O-*dimethyl dithiophosphate of diethyl mercaptosuccinate) may be safely used in feed in accordance with the following conditions.
 
-(i) A tolerance of 50 parts per million is established for residues of malathion in citrus, dried pulp for cattle feed, when present as the result of the application of the pesticide to bagged citrus pulp during storage. Whether or not tolerances for residues of malathion on the fresh fruit have been established under section 408 of the Act, the total residue of malathion in the citrus, dried pulp shall not exceed 50 parts per million. 
+(i) A tolerance of 50 parts per million is established for residues of malathion in citrus, dried pulp for cattle feed, when present as the result of the application of the pesticide to bagged citrus pulp during storage. Whether or not tolerances for residues of malathion on the fresh fruit have been established under section 408 of the Act, the total residue of malathion in the citrus, dried pulp shall not exceed 50 parts per million.
 
-(ii) A tolerance of 10 parts per million is established for malathion in nonmedicated cattle feed concentrate blocks resulting from its application as a pesticide to paper used in packaging the nonmedicated cattle feed concentrate blocks. 
+(ii) A tolerance of 10 parts per million is established for malathion in nonmedicated cattle feed concentrate blocks resulting from its application as a pesticide to paper used in packaging the nonmedicated cattle feed concentrate blocks.
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[43 FR 22974, May 30, 1978, as amended at 43 FR 45584, Oct. 3, 1978; 44 FR 38844, July 3, 1979; 45 FR 76145, Nov. 18, 1980; 47 FR 42738, Sept. 29, 1982; 47 FR 55226, Dec. 8, 1982; 52 FR 45183, Nov. 25, 1987; 62 FR 66023, 66025, Dec. 17, 1997; 65 FR 33694, May 24, 2000; 72 FR 35665, June 29, 2007; 73 FR 54959, Sept. 24, 2008; 74 FR 47455, Sept. 16, 2009; 75 FR 60238, Sept. 29, 2010\]

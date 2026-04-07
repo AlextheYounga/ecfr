@@ -1,60 +1,60 @@
 ##### § 52.122 Negative declarations.
 
-(a) The following air pollution control districts submitted negative declarations for volatile organic compound source categories to satisfy the requirements of section 182 of the Clean Air Act, as amended. The following negative declarations are approved as additional information to the State Implementation Plan. 
+(a) The following air pollution control districts submitted negative declarations for volatile organic compound source categories to satisfy the requirements of section 182 of the Clean Air Act, as amended. The following negative declarations are approved as additional information to the State Implementation Plan.
 
-(1) Maricopa County Environmental Services Department. 
+(1) Maricopa County Environmental Services Department.
 
-(i) Refinery Sources (Refinery Process Turnarounds), Automobile and Light Duty Trucks, Magnet Wire, Flatwood Paneling, Pharmaceuticals and Cosmetic Manufacturing Operations, Rubber Tire Manufacturing, Polymer Manufacturing, Industrial Wastewater, Ship Building and Repair, Synthetic Organic Chemical Manufacturing Industry (SOCMI) Batch Processing, SOCMI Reactors, and SOCMI Distillation were adopted on April 26, 2000 and submitted on December 14, 2000. 
+(i) Refinery Sources (Refinery Process Turnarounds), Automobile and Light Duty Trucks, Magnet Wire, Flatwood Paneling, Pharmaceuticals and Cosmetic Manufacturing Operations, Rubber Tire Manufacturing, Polymer Manufacturing, Industrial Wastewater, Ship Building and Repair, Synthetic Organic Chemical Manufacturing Industry (SOCMI) Batch Processing, SOCMI Reactors, and SOCMI Distillation were adopted on April 26, 2000 and submitted on December 14, 2000.
 
-(ii) Fiberglass Boat Manufacturing was adopted on March 24, 2004 and submitted on April 21, 2004. 
+(ii) Fiberglass Boat Manufacturing was adopted on March 24, 2004 and submitted on April 21, 2004.
 
-(2) Pinal County Air Quality Control District. 
+(2) Pinal County Air Quality Control District.
 
-(i) The following negative declarations for the 2008 ozone NAAQS were adopted on November 30, 2016 and submitted on February 3, 2017. 
+(i) The following negative declarations for the 2008 ozone NAAQS were adopted on November 30, 2016 and submitted on February 3, 2017.
 
-| EPA document No.                        | Title                                                                                                                       |
-| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| EPA-450/2-77-008                        | Surface Coating of Cans.                                                                                                    |
-| EPA-450/2-77-008                        | Surface Coating of Coils.                                                                                                   |
-| EPA-450/2-77-008                        | Surface Coating of Paper.                                                                                                   |
-| EPA-450/2-77-008                        | Surface Coating of Fabric.                                                                                                  |
-| EPA-450/2-77-008                        | Surface Coating of Automobiles and Light-Duty Trucks.                                                                       |
-| EPA-450/2-77-022                        | Solvent Metal Cleaning.                                                                                                     |
-| EPA-450/2-77-025                        | Refinery Vacuum Producing Systems, Wastewater Separators, and Process Unit Turnarounds.                                     |
-| EPA-450/2-77-026                        | Tank Truck Gasoline Loading Terminals.                                                                                      |
-| EPA-450/2-77-032                        | Surface Coating of Metal Furniture.                                                                                         |
-| EPA-450/2-77-033                        | Surface Coating of Insulation of Magnet Wire.                                                                               |
-| EPA-450/2-77-034                        | Surface Coating of Large Appliances.                                                                                        |
-| EPA-450/2-77-035                        | Bulk Gasoline Plants.                                                                                                       |
-| EPA-450/2-77-036                        | Storage of Petroleum Liquids in Fixed-Roof Tanks.                                                                           |
-| EPA-450/2-78-029                        | Manufacture of Synthesized Pharmaceutical Products.                                                                         |
-| EPA-450/2-78-030                        | Manufacture of Pneumatic Rubber Tires.                                                                                      |
-| EPA-450/2-78-032                        | Factory Surface Coating of Flat Wood Paneling.                                                                              |
-| EPA-450/2-78-033                        | Graphic Arts—Rotogravure and Flexography.                                                                                   |
-| EPA-450/2-78-036                        | Leaks from Petroleum Refinery Equipment.                                                                                    |
-| EPA-450/2-78-047                        | Petroleum Liquid Storage in External Floating Roof Tanks.                                                                   |
-| EPA-450/2-78-051                        | Leaks from Gasoline Tank Trucks and Vapor Collection Systems.                                                               |
-| EPA-450/3-82-009                        | Large Petroleum Dry Cleaners.                                                                                               |
-| EPA-450/3-83-006                        | Leaks from Synthetic Organic Chemical Polymer and Resin Manufacturing Equipment.                                            |
-| EPA-450/3-83-007                        | Leaks from Natural Gas/Gasoline Processing Plants.                                                                          |
-| EPA-450/3-83-008                        | Manufacture of High-Density Polyethylene, Polypropylene, and Polystyrene Resins.                                            |
-| EPA-450/3-84-015                        | Air Oxidation Processes in Synthetic Organic Chemical Manufacturing Industry.                                               |
-| EPA-450/4-91-031                        | Reactor Processes and Distillation Operations in Synthetic Organic Chemical Manufacturing Industry.                         |
-| EPA-453/R-96-007                        | Wood Furniture Manufacturing Operations.                                                                                    |
-| EPA-453/R-94-032   61 FR 44050; 8/27/96 | ACT Surface Coating at Shipbuilding and Ship Repair Facilities   Shipbuilding and Ship Repair Operations (Surface Coating). |
-| EPA-453/R-97-004   59 FR 29216; 6/06/94 | Aerospace MACT and Aerospace (CTG & MACT).                                                                                  |
-| EPA-453/R-06-001                        | Industrial Cleaning Solvents.                                                                                               |
-| EPA-453/R-06-002                        | Offset Lithographic Printing and Letterpress Printing.                                                                      |
-| EPA-453/R-06-003                        | Flexible Package Printing.                                                                                                  |
-| EPA-453/R-06-004                        | Flat Wood Paneling Coatings.                                                                                                |
-| EPA 453/R-07-003                        | Paper, Film, and Foil Coatings.                                                                                             |
-| EPA 453/R-07-004                        | Large Appliance Coatings.                                                                                                   |
-| EPA 453/R-07-005                        | Metal Furniture Coatings.                                                                                                   |
-| EPA 453/R-08-004                        | Fiberglass Boat Manufacturing Materials.                                                                                    |
-| EPA 453/R-08-005                        | Miscellaneous Industrial Adhesives.                                                                                         |
-| EPA 453/R-08-006                        | Automobile and Light-Duty Truck Assembly Coatings.                                                                          |
+| EPA document No.                                | Title                                                                                                                       |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| EPA-450/2-77-008   Xsee the**Federal Register** | Surface Coating of Cans.                                                                                                    |
+| EPA-450/2-77-008                                | Surface Coating of Coils.                                                                                                   |
+| EPA-450/2-77-008                                | Surface Coating of Paper.                                                                                                   |
+| EPA-450/2-77-008                                | Surface Coating of Fabric.                                                                                                  |
+| EPA-450/2-77-008                                | Surface Coating of Automobiles and Light-Duty Trucks.                                                                       |
+| EPA-450/2-77-022                                | Solvent Metal Cleaning.                                                                                                     |
+| EPA-450/2-77-025                                | Refinery Vacuum Producing Systems, Wastewater Separators, and Process Unit Turnarounds.                                     |
+| EPA-450/2-77-026                                | Tank Truck Gasoline Loading Terminals.                                                                                      |
+| EPA-450/2-77-032                                | Surface Coating of Metal Furniture.                                                                                         |
+| EPA-450/2-77-033                                | Surface Coating of Insulation of Magnet Wire.                                                                               |
+| EPA-450/2-77-034                                | Surface Coating of Large Appliances.                                                                                        |
+| EPA-450/2-77-035                                | Bulk Gasoline Plants.                                                                                                       |
+| EPA-450/2-77-036                                | Storage of Petroleum Liquids in Fixed-Roof Tanks.                                                                           |
+| EPA-450/2-78-029                                | Manufacture of Synthesized Pharmaceutical Products.                                                                         |
+| EPA-450/2-78-030                                | Manufacture of Pneumatic Rubber Tires.                                                                                      |
+| EPA-450/2-78-032                                | Factory Surface Coating of Flat Wood Paneling.                                                                              |
+| EPA-450/2-78-033                                | Graphic Arts—Rotogravure and Flexography.                                                                                   |
+| EPA-450/2-78-036                                | Leaks from Petroleum Refinery Equipment.                                                                                    |
+| EPA-450/2-78-047                                | Petroleum Liquid Storage in External Floating Roof Tanks.                                                                   |
+| EPA-450/2-78-051                                | Leaks from Gasoline Tank Trucks and Vapor Collection Systems.                                                               |
+| EPA-450/3-82-009                                | Large Petroleum Dry Cleaners.                                                                                               |
+| EPA-450/3-83-006                                | Leaks from Synthetic Organic Chemical Polymer and Resin Manufacturing Equipment.                                            |
+| EPA-450/3-83-007                                | Leaks from Natural Gas/Gasoline Processing Plants.                                                                          |
+| EPA-450/3-83-008                                | Manufacture of High-Density Polyethylene, Polypropylene, and Polystyrene Resins.                                            |
+| EPA-450/3-84-015                                | Air Oxidation Processes in Synthetic Organic Chemical Manufacturing Industry.                                               |
+| EPA-450/4-91-031                                | Reactor Processes and Distillation Operations in Synthetic Organic Chemical Manufacturing Industry.                         |
+| EPA-453/R-96-007                                | Wood Furniture Manufacturing Operations.                                                                                    |
+| EPA-453/R-94-032   61 FR 44050; 8/27/96         | ACT Surface Coating at Shipbuilding and Ship Repair Facilities   Shipbuilding and Ship Repair Operations (Surface Coating). |
+| EPA-453/R-97-004   59 FR 29216; 6/06/94         | Aerospace MACT and Aerospace (CTG & MACT).                                                                                  |
+| EPA-453/R-06-001                                | Industrial Cleaning Solvents.                                                                                               |
+| EPA-453/R-06-002                                | Offset Lithographic Printing and Letterpress Printing.                                                                      |
+| EPA-453/R-06-003                                | Flexible Package Printing.                                                                                                  |
+| EPA-453/R-06-004                                | Flat Wood Paneling Coatings.                                                                                                |
+| EPA 453/R-07-003                                | Paper, Film, and Foil Coatings.                                                                                             |
+| EPA 453/R-07-004                                | Large Appliance Coatings.                                                                                                   |
+| EPA 453/R-07-005                                | Metal Furniture Coatings.                                                                                                   |
+| EPA 453/R-08-004                                | Fiberglass Boat Manufacturing Materials.                                                                                    |
+| EPA 453/R-08-005                                | Miscellaneous Industrial Adhesives.                                                                                         |
+| EPA 453/R-08-006                                | Automobile and Light-Duty Truck Assembly Coatings.                                                                          |
 
-(ii) The following negative declarations for the 2008 ozone NAAQS were adopted on August 5, 2020 and submitted on August 20, 2020. 
+(ii) The following negative declarations for the 2008 ozone NAAQS were adopted on August 5, 2020 and submitted on August 20, 2020.
 
 | EPA document No. | Title                                                                                                                                                                                             |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,9 +64,9 @@
 | N/A              | Major non CTG VOC sources.                                                                                                                                                                        |
 | N/A              | Major NOX sources.                                                                                                                                                                                |
 
-(3) Maricopa County Air Quality Department. 
+(3) Maricopa County Air Quality Department.
 
-(i) The following negative declarations for the 2008 ozone NAAQS were adopted by the Maricopa County Air Quality Department. 
+(i) The following negative declarations for the 2008 ozone NAAQS were adopted by the Maricopa County Air Quality Department.
 
 | EPA document No.      | Title                                                                                                                                                               | Adopted:   05/24/2017   Submitted:   6/22/2017   SIP approved:   01/07/2021 | Adopted:   09/01/2021   Submitted:   09/17/2021   SIP approved:   1/16/2025 |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -100,8 +100,8 @@
 | (BB) EPA 453/R-08-006 | Automobile and Light-Duty Truck Assembly Coatings                                                                                                                   | X                                                                           |                                                                             |
 | (CC) EPA 453/B16-001  | Oil and Natural Gas Industry                                                                                                                                        | X                                                                           |                                                                             |
 
-(ii) \[Reserved\] 
+(ii) \[Reserved\]
 
-(b) \[Reserved\] 
+(b) \[Reserved\]
 
 \[67 FR 54743, Aug. 26, 2002, as amended at 70 FR 7041, Feb. 10, 2005; 84 FR 39200, Aug. 9, 2019; 86 FR 976, Jan. 7, 2021; 86 FR 46989, Aug. 23, 2021; 90 FR 4654, Jan. 16, 2025\]

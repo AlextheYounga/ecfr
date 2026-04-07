@@ -1,6 +1,6 @@
 ##### § 180.317 Propyzamide; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide propyzamide, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only those propyzamide residues convertible to methyl 3,5-dichlorobenzoate, expressed as the stoichiometric equivalent of propyzamide, 3,5-dichloro-*N*-(1,1-dimethyl-2-propynyl)benzamide, in or on the commodity. 
+(a) *General.* Tolerances are established for residues of the herbicide propyzamide, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only those propyzamide residues convertible to methyl 3,5-dichlorobenzoate, expressed as the stoichiometric equivalent of propyzamide, 3,5-dichloro-*N*-(1,1-dimethyl-2-propynyl)benzamide, in or on the commodity.
 
 | Commodity                                        | Parts per million |
 | ------------------------------------------------ | ----------------- |
@@ -51,21 +51,21 @@
 | Sheep, meat                                      | 0.02              |
 | Sheep, meat byproducts, except kidney and liver  | 0.02              |
 
-(b) *Section 18 emergency exemptions.* The time-limited tolerance specified in the table in this paragraph (b) is established for residues of the herbicide propyzamide, including its metabolites and degradates, in or on the specified agricultural commodity in the table in this paragraph (b), resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. Compliance with the tolerance level specified in the table in this paragraph (b) is to be determined by measuring only those propyzamide residues convertible to methyl 3,5-dichlorobenzoate, expressed as the stoichiometric equivalent of propyzamide, 3,5-dichloro-N-(1,1-dimethyl-2-propynyl)benzamide in or on the commodity. The time-limited tolerance expires on the date specified in the table in this paragraph (b). 
+(b) *Section 18 emergency exemptions.* The time-limited tolerance specified in the table in this paragraph (b) is established for residues of the herbicide propyzamide, including its metabolites and degradates, in or on the specified agricultural commodity in the table in this paragraph (b), resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. Compliance with the tolerance level specified in the table in this paragraph (b) is to be determined by measuring only those propyzamide residues convertible to methyl 3,5-dichlorobenzoate, expressed as the stoichiometric equivalent of propyzamide, 3,5-dichloro-N-(1,1-dimethyl-2-propynyl)benzamide in or on the commodity. The time-limited tolerance expires on the date specified in the table in this paragraph (b).
 
 Table 2 to Paragraph (b)
 | Commodity | Parts per million | Expiration/revocation date |
 | --------- | ----------------- | -------------------------- |
 | Cranberry | 1                 | 12/31/2025                 |
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for residues of the herbicide propyzamide, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only those propyzamide residues convertible to methyl 3,5-dichlorobenzoate, expressed as the stoichiometric equivalent of propyzamide, 3,5-dichloro-*N*-(1,1-dimethyl-2-propynyl)benzamide, in or on the commodity. 
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for residues of the herbicide propyzamide, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only those propyzamide residues convertible to methyl 3,5-dichlorobenzoate, expressed as the stoichiometric equivalent of propyzamide, 3,5-dichloro-*N*-(1,1-dimethyl-2-propynyl)benzamide, in or on the commodity.
 
 | Commodity        | Parts per million |
 | ---------------- | ----------------- |
 | Pea, field, seed | 0.05              |
 | Rhubarb          | 0.1               |
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of the herbicide propyzamide, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only those propyzamide residues convertible to methyl 3,5-dichlorobenzoate, expressed as the stoichiometric equivalent of propyzamide, 3,5-dichloro-*N*-(1,1-dimethyl-2-propynyl)benzamide, in or on the commodity. 
+(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of the herbicide propyzamide, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only those propyzamide residues convertible to methyl 3,5-dichlorobenzoate, expressed as the stoichiometric equivalent of propyzamide, 3,5-dichloro-*N*-(1,1-dimethyl-2-propynyl)benzamide, in or on the commodity.
 
 | Commodity                       | Parts per million |
 | ------------------------------- | ----------------- |

@@ -1,6 +1,6 @@
 ##### § 180.649 Saflufenacil; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of saflufenacil, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of saflufenacil, 2-chloro-5-\[3,6-dihydro-3-methyl-2,6-dioxo-4-(trifluoromethyl)-1(2*H*)-pyrimidinyl\]-4-fluoro-*N*-\[\[methyl(1-methylethyl)amino\]sulfonyl\]benzamide, and its metabolites *N*-\[2-chloro-5-(2,6-dioxo-4-(trifluoromethyl)-3,6-dihydro-1(2*H*)-pyrimidinyl)-4-fluorobenzoyl\]-*N*′-isopropylsulfamide and *N*-\[4-chloro-2-fluoro-5-({\[(isopropylamino)sulfonyl\]amino}carbonyl)phenyl\]urea, calculated as the stoichiometric equivalent of saflufenacil, in or on the commodities. 
+(a) *General.* (1) Tolerances are established for residues of saflufenacil, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of saflufenacil, 2-chloro-5-\[3,6-dihydro-3-methyl-2,6-dioxo-4-(trifluoromethyl)-1(2*H*)-pyrimidinyl\]-4-fluoro-*N*-\[\[methyl(1-methylethyl)amino\]sulfonyl\]benzamide, and its metabolites *N*-\[2-chloro-5-(2,6-dioxo-4-(trifluoromethyl)-3,6-dihydro-1(2*H*)-pyrimidinyl)-4-fluorobenzoyl\]-*N*′-isopropylsulfamide and *N*-\[4-chloro-2-fluoro-5-({\[(isopropylamino)sulfonyl\]amino}carbonyl)phenyl\]urea, calculated as the stoichiometric equivalent of saflufenacil, in or on the commodities.
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                                                | Parts per million |
@@ -58,7 +58,7 @@ Table 1 to Paragraph (a)(1)
 | 1 No U.S. registration as of December 7, 2011.                                                           |                   |
 | 2 No U.S. registration as of February 21, 2014.                                                          |                   |
 
-(2) Tolerances are established for residues of saflufenacil, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only saflufenacil, 2-chloro-5-\[3,6-dihydro-3-methyl-2,6-dioxo-4-(trifluoromethyl)-1(2*H*)-pyrimidinyl\]-4-fluoro-*N*-\[\[methyl(1-methylethyl)amino\]sulfonyl\]benzamide, in or on the commodities. 
+(2) Tolerances are established for residues of saflufenacil, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only saflufenacil, 2-chloro-5-\[3,6-dihydro-3-methyl-2,6-dioxo-4-(trifluoromethyl)-1(2*H*)-pyrimidinyl\]-4-fluoro-*N*-\[\[methyl(1-methylethyl)amino\]sulfonyl\]benzamide, in or on the commodities.
 
 | Commodity                             | Parts per million |
 | ------------------------------------- | ----------------- |
@@ -86,10 +86,10 @@ Table 1 to Paragraph (a)(1)
 | Sheep, meat                           | 0.02              |
 | Sheep, meat byproducts, except liver  | 0.30              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[74 FR 46689, Sept. 11, 2009, as amended at 76 FR 27261, May 11, 2011; 76 FR 76309, Dec. 7, 2011; 79 FR 9866, Feb. 21, 2014; 79 FR 52219, Sept. 3, 2014; 80 FR 22420, Apr. 22, 2015; 80 FR 73667, Nov. 25, 2015; 85 FR 60365, Sept. 25, 2020; 89 FR 7294, Feb. 2, 2024; 89 FR 72997, Sept. 9, 2024\]

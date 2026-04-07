@@ -1,6 +1,6 @@
 ##### § 180.142 2,4-D; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide, plant regulator, and fungicide 2,4-D, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels is to be determined by measuring residues of 2,4-D (2,4-dichlorophenoxyacetic acid), both free and conjugated, determined as the acid, in or on the following commodities: 
+(a) *General.* Tolerances are established for residues of the herbicide, plant regulator, and fungicide 2,4-D, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels is to be determined by measuring residues of 2,4-D (2,4-dichlorophenoxyacetic acid), both free and conjugated, determined as the acid, in or on the following commodities:
 
 Table 1 to Paragraph (a)
 | Commodity                                         | Parts per million |
@@ -89,15 +89,15 @@ Table 1 to Paragraph (a)
 | Wheatgrass, intermediate, grain                   | 2                 |
 | Wheatgrass, intermediate, straw                   | 50                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for residues of the herbicide, plant regulator, and fungicide 2,4-D, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels is to be determined by measuring residues of 2,4-D (2,4-dichlorophenoxyacetic acid), both free and conjugated, determined as the acid, in or on the follow commodities: 
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l), are established for residues of the herbicide, plant regulator, and fungicide 2,4-D, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels is to be determined by measuring residues of 2,4-D (2,4-dichlorophenoxyacetic acid), both free and conjugated, determined as the acid, in or on the follow commodities:
 
 | Commodity         | Parts per million |
 | ----------------- | ----------------- |
 | Rice, wild, grain | 0.05              |
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of the herbicide, plant regulator, and fungicide 2,4-D, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerances levels is to be determined by measuring residues of 2,4-D (2,4-dichlorophenoxyacetic acid), both free and conjugated, determined as the acid, in or on the following commodities: 
+(d) *Indirect or inadvertent residues.* Tolerances are established for indirect or inadvertent residues of the herbicide, plant regulator, and fungicide 2,4-D, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerances levels is to be determined by measuring residues of 2,4-D (2,4-dichlorophenoxyacetic acid), both free and conjugated, determined as the acid, in or on the following commodities:
 
 | Commodity                                  | Parts per million |
 | ------------------------------------------ | ----------------- |

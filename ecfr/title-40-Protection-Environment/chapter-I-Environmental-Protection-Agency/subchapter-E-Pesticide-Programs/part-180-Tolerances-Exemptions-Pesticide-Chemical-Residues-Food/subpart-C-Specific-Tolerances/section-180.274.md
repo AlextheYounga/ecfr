@@ -1,6 +1,6 @@
 ##### § 180.274 Propanil; tolerances for residues.
 
-(a) *General.* Tolerances are established for the combined residues of the herbicide propanil (3′, 4′-dichloropropionanilide) and its metabolites convertible to 3, 4-dichloroaniline (3, 4-DCA) in or on the following food commodities: 
+(a) *General.* Tolerances are established for the combined residues of the herbicide propanil (3′, 4′-dichloropropionanilide) and its metabolites convertible to 3, 4-dichloroaniline (3, 4-DCA) in or on the following food commodities:
 
 | Commodity                | Parts per million |
 | ------------------------ | ----------------- |
@@ -29,10 +29,10 @@
 | Sheep, meat              | 0.05              |
 | Sheep, meat byproducts   | 1.0               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[63 FR 34827, June 26, 1998, as amended at 72 FR 28888, May 23, 2007; 80 FR 72598, Nov. 20, 2015\]

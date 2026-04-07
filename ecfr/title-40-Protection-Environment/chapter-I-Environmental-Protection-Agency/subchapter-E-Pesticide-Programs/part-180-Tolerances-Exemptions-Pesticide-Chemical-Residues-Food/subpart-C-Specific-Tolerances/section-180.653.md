@@ -1,6 +1,6 @@
 ##### § 180.653 Indaziflam; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the herbicide indaziflam, *N*-\[(1R,2S)-2,3-dihydro-2,6-dimethyl-1*H*-inden-1-yl\]-6-(1-fluoroethyl)-1,3,5-triazine-2,4-diamine, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only indaziflam and FDAT, 6-\[(1*R*)-1-fluoroethyl\]-1,3,5-triazine-2,4-diamine, calculated as the stoichiometric equivalent of indaziflam, in or on the commodity. 
+(a) *General.* (1) Tolerances are established for residues of the herbicide indaziflam, *N*-\[(1R,2S)-2,3-dihydro-2,6-dimethyl-1*H*-inden-1-yl\]-6-(1-fluoroethyl)-1,3,5-triazine-2,4-diamine, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only indaziflam and FDAT, 6-\[(1*R*)-1-fluoroethyl\]-1,3,5-triazine-2,4-diamine, calculated as the stoichiometric equivalent of indaziflam, in or on the commodity.
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                            | Parts per   million |
@@ -23,7 +23,7 @@ Table 1 to Paragraph (a)(1)
 | Sugarcane, cane                                                      | 0.01                |
 | 1 No U.S. Registrations as of 12/02/2013.                            |                     |
 
-(2) Tolerances are established for residues of the herbicide indaziflam, *N*-\[(1R,2S)-2,3-dihydro-2,6-dimethyl-1*H*-inden-1-yl\]-6-(1-fluoroethyl)-1,3,5-triazine-2,4-diamine, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only indaziflam in or on the commodity. 
+(2) Tolerances are established for residues of the herbicide indaziflam, *N*-\[(1R,2S)-2,3-dihydro-2,6-dimethyl-1*H*-inden-1-yl\]-6-(1-fluoroethyl)-1,3,5-triazine-2,4-diamine, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only indaziflam in or on the commodity.
 
 Table 2 to Paragraph (a)(2)
 | Commodity               | Parts per million |
@@ -43,10 +43,10 @@ Table 2 to Paragraph (a)(2)
 | Sheep, meat             | 0.01              |
 | Sheep, meat by-products | 0.3               |
 
-(b) \[Reserved\] 
+(b) \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[76 FR 18905, Apr. 6, 2011, as amended at 79 FR 4630, Jan. 29, 2014; 82 FR 30987, July 5, 2017; 83 FR 8002, Feb. 23, 2018; 84 FR 54516, Oct. 10, 2019; 85 FR 37762, June 24, 2020; 88 FR 47781, July 25, 2023\]

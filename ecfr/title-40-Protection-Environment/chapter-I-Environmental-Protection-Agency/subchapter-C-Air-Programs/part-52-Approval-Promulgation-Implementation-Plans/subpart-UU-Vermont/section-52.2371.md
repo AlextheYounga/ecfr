@@ -1,6 +1,6 @@
 ##### § 52.2371 Classification of regions.
 
-The Vermont plan was evaluated on the basis of the following classifications: 
+The Vermont plan was evaluated on the basis of the following classifications:
 
 | Air quality control region  | Pollutant |
 | --------------------------- | --------- |

@@ -1,6 +1,6 @@
 ##### § 180.364 Glyphosate; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of glyphosate, including its metabolites and degradates, in or on the commodities listed below resulting from the application of glyphosate, the isopropylamine salt of glyphosate, the ethanolamine salt of glyphosate, the dimethylamine salt of glyphosate, the ammonium salt of glyphosate, and the potassium salt of glyphosate. Compliance with the following tolerance levels is to be determined by measuring only glyphosate (*N-*(phosphonomethyl)glycine). 
+(a) *General.* (1) Tolerances are established for residues of glyphosate, including its metabolites and degradates, in or on the commodities listed below resulting from the application of glyphosate, the isopropylamine salt of glyphosate, the ethanolamine salt of glyphosate, the dimethylamine salt of glyphosate, the ammonium salt of glyphosate, and the potassium salt of glyphosate. Compliance with the following tolerance levels is to be determined by measuring only glyphosate (*N-*(phosphonomethyl)glycine).
 
 | Commodity                                                                                           | Parts per million |
 | --------------------------------------------------------------------------------------------------- | ----------------- |
@@ -146,7 +146,7 @@
 | Wax jambu                                                                                           | 0.2               |
 | Yacon, tuber                                                                                        | 0.2               |
 
-(2) Tolerances are established for residues of glyphosate, including its metabolites and degradates, in or on the commodities listed below resulting from the application of glyphosate, the isopropylamine salt of glyphosate, the ethanolamine salt of glyphosate, the dimethylamine salt of glyphosate, the ammonium salt of glyphosate, and the potassium salt of glyphosate. Compliance with the following tolerance levels is to be determined by measuring only glyphosate (*N-*(phosphonomethyl)glycine) and its metabolite *N-*acetyl-glyphosate (*N-*acetyl-*N-*(phosphonomethyl)glycine; calculated as the stoichiometric equivalent of glyphosate). 
+(2) Tolerances are established for residues of glyphosate, including its metabolites and degradates, in or on the commodities listed below resulting from the application of glyphosate, the isopropylamine salt of glyphosate, the ethanolamine salt of glyphosate, the dimethylamine salt of glyphosate, the ammonium salt of glyphosate, and the potassium salt of glyphosate. Compliance with the following tolerance levels is to be determined by measuring only glyphosate (*N-*(phosphonomethyl)glycine) and its metabolite *N-*acetyl-glyphosate (*N-*acetyl-*N-*(phosphonomethyl)glycine; calculated as the stoichiometric equivalent of glyphosate).
 
 | Commodity                 | Parts per Million |
 | ------------------------- | ----------------- |
@@ -168,10 +168,10 @@
 | Soybean, hulls            | 120.0             |
 | Soybean, seed             | 20.0              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[45 FR 64911, Oct. 1, 1980\] Editorial Note:For Federal Register citations affecting § 180.364, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

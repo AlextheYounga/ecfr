@@ -1,6 +1,6 @@
 ##### § 180.587 Famoxadone; tolerance for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide famoxadone (3-anilino-5-methyl-5-(4-phenoxyphenyl)-1,3-oxazolidine-2,4-dione) in or on the following commodities: 
+(a) *General.* Tolerances are established for residues of the fungicide famoxadone (3-anilino-5-methyl-5-(4-phenoxyphenyl)-1,3-oxazolidine-2,4-dione) in or on the following commodities:
 
 | Commodity                                                  | Parts per million |
 | ---------------------------------------------------------- | ----------------- |
@@ -27,14 +27,14 @@
 | Vegetable, leafy, except Brassica, group 4, except spinach | 25                |
 | 1 There are no U.S. registrations as of May 15, 2003.      |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with a regional registrations.* Tolerances with a regional registration as defined in § 180.1(l) are established for the residues of the fungicide famoxadone, 3-anilino-5-methyl-5-(4-phenoxyphenyl)-1,3-oxazolidine-2,4-dione) in or on the raw agricultural commodities: 
+(c) *Tolerances with a regional registrations.* Tolerances with a regional registration as defined in § 180.1(l) are established for the residues of the fungicide famoxadone, 3-anilino-5-methyl-5-(4-phenoxyphenyl)-1,3-oxazolidine-2,4-dione) in or on the raw agricultural commodities:
 
 | Commodity | Parts per million |
 | --------- | ----------------- |
 | Grape     | 2.5               |
 
-(d) *Indirect or inadvertant residues.* \[Reserved\] 
+(d) *Indirect or inadvertant residues.* \[Reserved\]
 
 \[68 FR 39471, July 2, 2003, as amended at 72 FR 28881, May 23, 2007; 74 FR 9364, Mar. 4, 2009; 76 FR 34885, June 15, 2011\]

@@ -1,6 +1,6 @@
 ##### § 180.612 Topramezone; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide topramezone, including its metabolites and degradates, in or on the following commodities. Compliance with the following tolerance levels is to be determined by measuring only topramezone (\[3-(4,5-dihydro-3-isoxazolyl)-2-methyl-4-(methylsulfonyl)phenyl\](5-hydroxy-1-methyl-1*H*-pyrazol-4-yl)methanone) in or on the following commodities: 
+(a) *General.* Tolerances are established for residues of the herbicide topramezone, including its metabolites and degradates, in or on the following commodities. Compliance with the following tolerance levels is to be determined by measuring only topramezone (\[3-(4,5-dihydro-3-isoxazolyl)-2-methyl-4-(methylsulfonyl)phenyl\](5-hydroxy-1-methyl-1*H*-pyrazol-4-yl)methanone) in or on the following commodities:
 
 | Commodity                                       | Parts per   million |
 | ----------------------------------------------- | ------------------- |
@@ -24,10 +24,10 @@
 | Sheep, meat byproducts                          | 0.80                |
 | Sugarcane, cane                                 | 0.01                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[78 FR 48074, Aug. 7, 2013, as amended at 82 FR 35120, July 28, 2017\]

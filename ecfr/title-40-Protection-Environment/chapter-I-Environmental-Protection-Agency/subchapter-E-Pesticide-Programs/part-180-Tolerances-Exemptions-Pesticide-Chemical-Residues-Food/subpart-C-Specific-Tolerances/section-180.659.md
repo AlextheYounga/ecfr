@@ -1,6 +1,6 @@
 ##### § 180.659 Pyroxasulfone; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the herbicide pyroxasulfone, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyroxasulfone, 3-\[\[\[5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1*H*-pyrazol-4-yl\]methyl\]sulfonyl\]-4,5-dihydro-5,5-dimethylisoxazole, and its metabolite, 5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1*H*-pyrazol-4-carboxylic acid (M-3), calculated as the stoichiometric equivalent of pyroxasulfone, in or on the commodity. 
+(a) *General.* (1) Tolerances are established for residues of the herbicide pyroxasulfone, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyroxasulfone, 3-\[\[\[5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1*H*-pyrazol-4-yl\]methyl\]sulfonyl\]-4,5-dihydro-5,5-dimethylisoxazole, and its metabolite, 5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1*H*-pyrazol-4-carboxylic acid (M-3), calculated as the stoichiometric equivalent of pyroxasulfone, in or on the commodity.
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
@@ -10,7 +10,7 @@
 | Cottonseed, subgroup 20C                        | 0.04              |
 | Wheat, grain                                    | 0.03              |
 
-(2) Tolerances are established for residues of the herbicide pyroxasulfone, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyroxasulfone, 3-\[\[\[5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1*H*-pyrazol-4-yl\]methyl\]sulfonyl\]-4,5-dihydro-5,5-dimethylisoxazole, and its metabolites, 5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1*H*-pyrazol-4-yl\]methanesulfonic acid (M-1); 5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1*H*-pyrazol-4-carboxylic acid (M-3); and \[5-(difluoromethoxy)-3-(trifluoromethyl)-1*H*-pyrazol-4-yl\]methanesulfonic acid (M-25), calculated as the stoichiometric equivalent of pyroxasulfone, in or on the commodity. 
+(2) Tolerances are established for residues of the herbicide pyroxasulfone, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyroxasulfone, 3-\[\[\[5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1*H*-pyrazol-4-yl\]methyl\]sulfonyl\]-4,5-dihydro-5,5-dimethylisoxazole, and its metabolites, 5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1*H*-pyrazol-4-yl\]methanesulfonic acid (M-1); 5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1*H*-pyrazol-4-carboxylic acid (M-3); and \[5-(difluoromethoxy)-3-(trifluoromethyl)-1*H*-pyrazol-4-yl\]methanesulfonic acid (M-25), calculated as the stoichiometric equivalent of pyroxasulfone, in or on the commodity.
 
 | Commodity              | Parts per million |
 | ---------------------- | ----------------- |
@@ -26,19 +26,19 @@
 | Wheat, hay             | 1.0               |
 | Wheat, straw           | 0.60              |
 
-(3) Tolerances are established for residues of the herbicide pyroxasulfone, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyroxasulfone, 3-\[\[\[5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1*H*-pyrazol-4-yl\]methyl\]sulfonyl\]-4,5-dihydro-5,5-dimethylisoxazole, and its metabolites, 5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1*H*-pyrazol-4-carboxylic acid (M-3); \[5-(difluoromethoxy)-3-(trifluoromethyl)-1*H*-pyrazol-4-yl\]methanesulfonic acid (M-25); and 3-\[1-carboxy-2-(5,5-dimethyl-4,5-dihydroisoxazol-3-ylthio)ethylamino\]-3-oxopropanoic acid (M-28), calculated as the stoichiometric equivalent of pyroxasulfone, in or on the commodity. 
+(3) Tolerances are established for residues of the herbicide pyroxasulfone, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyroxasulfone, 3-\[\[\[5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1*H*-pyrazol-4-yl\]methyl\]sulfonyl\]-4,5-dihydro-5,5-dimethylisoxazole, and its metabolites, 5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1*H*-pyrazol-4-carboxylic acid (M-3); \[5-(difluoromethoxy)-3-(trifluoromethyl)-1*H*-pyrazol-4-yl\]methanesulfonic acid (M-25); and 3-\[1-carboxy-2-(5,5-dimethyl-4,5-dihydroisoxazol-3-ylthio)ethylamino\]-3-oxopropanoic acid (M-28), calculated as the stoichiometric equivalent of pyroxasulfone, in or on the commodity.
 
 | Commodity     | Parts per million |
 | ------------- | ----------------- |
 | Soybean, seed | 0.06              |
 
-(4) Tolerances are established for residues of the herbicide pyroxasulfone, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only the sum of pyroxasulfone \[3-\[\[\[5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1H-pyrazol-4-yl\]methyl\]sulfonyl\]-4,5-dihydro-5,5-dimethylisoxazole\] and its metabolites \[5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1H-pyrazol-4-yl\]methanesulfonic acid (M-1) and 5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1H-pyrazol-4-carboxylic acid (M-3), calculated as the stoichiometric equivalent of pyroxasulfone, in or on the commodity. 
+(4) Tolerances are established for residues of the herbicide pyroxasulfone, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only the sum of pyroxasulfone \[3-\[\[\[5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1H-pyrazol-4-yl\]methyl\]sulfonyl\]-4,5-dihydro-5,5-dimethylisoxazole\] and its metabolites \[5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1H-pyrazol-4-yl\]methanesulfonic acid (M-1) and 5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1H-pyrazol-4-carboxylic acid (M-3), calculated as the stoichiometric equivalent of pyroxasulfone, in or on the commodity.
 
 | Commodity | Parts per million |
 | --------- | ----------------- |
 | Milk      | 0.003             |
 
-(5) Tolerances are established for residues of the herbicide pyroxasulfone, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyroxasulfone (3-\[(5-difluoromethoxy-1-methyl-3-(trifluoromethyl)pyrazol-4-ylmethylsulfonyl\]-4,5-dihydro-5,5-dimethyl-1,2-oxazole), and its metabolites, M-1 (5-difluoromethoxy-1-methyl-3-trifluoromethyl-1H-pyrazol-4-yl) methanesulfonic acid), M-3 (5-difluoromethoxy-1-methyl-3-trifluoromethyl-1H-pyrazol-4-carboxylic acid), M-25 (5-difluoromethoxy-3-trifluoromethyl-1H-pyrazol-4-yl)methanesulfonic acid) and M-28 (3-\[1-carboxy-2-(5,5-dimethyl-4,5-dihydroisoxazol-3-ylthio)ethylamino\]-3-oxopropanoic acid) calculated as the stoichiometric equivalent of pyroxasulfone, in or on the following commodities: 
+(5) Tolerances are established for residues of the herbicide pyroxasulfone, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyroxasulfone (3-\[(5-difluoromethoxy-1-methyl-3-(trifluoromethyl)pyrazol-4-ylmethylsulfonyl\]-4,5-dihydro-5,5-dimethyl-1,2-oxazole), and its metabolites, M-1 (5-difluoromethoxy-1-methyl-3-trifluoromethyl-1H-pyrazol-4-yl) methanesulfonic acid), M-3 (5-difluoromethoxy-1-methyl-3-trifluoromethyl-1H-pyrazol-4-carboxylic acid), M-25 (5-difluoromethoxy-3-trifluoromethyl-1H-pyrazol-4-yl)methanesulfonic acid) and M-28 (3-\[1-carboxy-2-(5,5-dimethyl-4,5-dihydroisoxazol-3-ylthio)ethylamino\]-3-oxopropanoic acid) calculated as the stoichiometric equivalent of pyroxasulfone, in or on the following commodities:
 
 | Commodity                                                 | Parts per   million |
 | --------------------------------------------------------- | ------------------- |
@@ -60,15 +60,15 @@
 | Vegetable, soybean, edible podded                         | 0.40                |
 | Vegetable, tuberous and corm, subgroup 1C                 | 0.08                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerance with regional registrations.* Tolerances are established for residues of the herbicide pyroxasulfone, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyroxasulfone (3-\[(5-difluoromethoxy-1-methyl-3-(trifluoromethyl)pyrazol-4-ylmethylsulfonyl\]-4,5-dihydro-5,5-dimethyl-1,2-oxazole), and its metabolites, M-1 (5-difluoromethoxy-1-methyl-3-trifluoromethyl-1H-pyrazol-4-yl)methanesulfonic acid), M-3 (5-difluoromethoxy-1-methyl-3-trifluoromethyl-1H-pyrazol-4-carboxylic acid), M-25 (5-difluoromethoxy-3-trifluoromethyl-1H-pyrazol-4-yl)methanesulfonic acid) and M-28 (3-\[1-carboxy-2-(5,5-dimethyl-4,5-dihydroisoxazol-3-ylthio)ethylamino\]-3-oxopropanoic acid) calculated as the stoichiometric equivalent of pyroxasulfone, in or on the commodity. 
+(c) *Tolerance with regional registrations.* Tolerances are established for residues of the herbicide pyroxasulfone, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of pyroxasulfone (3-\[(5-difluoromethoxy-1-methyl-3-(trifluoromethyl)pyrazol-4-ylmethylsulfonyl\]-4,5-dihydro-5,5-dimethyl-1,2-oxazole), and its metabolites, M-1 (5-difluoromethoxy-1-methyl-3-trifluoromethyl-1H-pyrazol-4-yl)methanesulfonic acid), M-3 (5-difluoromethoxy-1-methyl-3-trifluoromethyl-1H-pyrazol-4-carboxylic acid), M-25 (5-difluoromethoxy-3-trifluoromethyl-1H-pyrazol-4-yl)methanesulfonic acid) and M-28 (3-\[1-carboxy-2-(5,5-dimethyl-4,5-dihydroisoxazol-3-ylthio)ethylamino\]-3-oxopropanoic acid) calculated as the stoichiometric equivalent of pyroxasulfone, in or on the commodity.
 
 | Commodity     | Parts per   million |
 | ------------- | ------------------- |
 | Grass, forage | 0.50                |
 | Grass, hay    | 1.0                 |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[77 FR 12213, Feb. 29, 2012, as amended at 78 FR 13257, Feb. 27, 2013; 78 FR 46279, July 31, 2013; 79 FR 34633, June 18, 2014; 82 FR 18235, Apr. 18, 2017; 83 FR 22859, May 17, 2018; 83 FR 54264, Oct. 29, 2018\]

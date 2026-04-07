@@ -1,6 +1,6 @@
 ##### § 180.564 Indoxacarb; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of indoxacarb, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only indoxacarb, (S)-methyl 7-chloro-2,5-dihydro-2-\[\[(methoxycarbonyl)\[4-(trifluoromethoxy)phenyl\]amino\]carbonyl\]indeno\[1,2-*e*\]\[1,3,4\]\[oxadiazine-4a(3*H*)-carboxylate, and its R-enantiomer, (R)-methyl 7-chloro-2,5-dihydro-2-\[\[(methoxycarbonyl)\[4-(trifluoromethoxy)phenyl\]amino\]carbonyl\]indeno\[1,2-*e*\]\[1,3,4\]\[oxadiazine-4a(3*H*)-carboxylate. 
+(a) *General.* (1) Tolerances are established for residues of indoxacarb, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only indoxacarb, (S)-methyl 7-chloro-2,5-dihydro-2-\[\[(methoxycarbonyl)\[4-(trifluoromethoxy)phenyl\]amino\]carbonyl\]indeno\[1,2-*e*\]\[1,3,4\]\[oxadiazine-4a(3*H*)-carboxylate, and its R-enantiomer, (R)-methyl 7-chloro-2,5-dihydro-2-\[\[(methoxycarbonyl)\[4-(trifluoromethoxy)phenyl\]amino\]carbonyl\]indeno\[1,2-*e*\]\[1,3,4\]\[oxadiazine-4a(3*H*)-carboxylate.
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                                     | Parts per   million |
@@ -73,7 +73,7 @@ Table 1 to Paragraph (a)(1)
 | Vegetable, legume, pulse, bean, dried shelled, except soybean, subgroup 6-22E | 0.2                 |
 | Vegetable, tuberous and corm, subgroup 1-C                                    | 0.01                |
 
-(2) Tolerances are established for residues of indoxacarb, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of indoxacarb, (S)-methyl-7-chloro-2,5-dihydro-2-\[\[(methoxycarbonyl)\[4-(trifluoromethoxy)-phenyl\]amino\]carbonyl\]indeno\[1,2e\] \[1,3,4\]oxadiazine-4a(3*H*)-carboxylate, its R-enantiomer, (R)-methyl 7-chloro-2,5-dihydro-2-\[\[(methoxycarbonyl)\[4-(trifluoromethoxy) phenyl\]amino\]carbonyl\]indeno \[1,2-e\] \[1,3,4\] oxadiazine-4a(3*H*)-carboxylate, and the metabolites: IN-JT333, methyl 7-chloro-2,5-dihydro-2-\[\[\[4-(trifluoromethoxy)phenyl\]-amino\]carbonyl\]indeno\[1,2-e\]\[1,3,4\]oxadiazine-4a(3*H*)-carboxylate; IN-KT319, (E)-methyl 5-chloro-2,3,-dihydro-2-hydroxy-1-\[\[\[(methoxycarbonyl)\[4-(trifluoromethoxy)phenyl\]amino\]-carbonyl\]hydrazono\]-1*H*-indene-2-carboxylate; IN-JU873, methyl 5-chloro-2,3-dihydro-2-hydroxy-1-\[\[\[\[4-(triflurormethoxy)-phenyl\]amino\]carbonyl\]hydrazono\]-1*H*-indene-2-carboxylate; IN-KG433, methyl 5-chloro-2,3,-dihydro-2-hydroxy-1-\[\[\[(methoxycarbonyl)\[4-(trifluoromethoxy)phenyl\]amino\]carbonyl\]-hydrazono\]-1*H*-indene-2-carboxylate; and IN-KB687, methyl \[4-(trifluoromethoxy)phenyl\]carbamate, calculated as the stoichiometric equivalent of indoxacarb in the commodity. 
+(2) Tolerances are established for residues of indoxacarb, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only the sum of indoxacarb, (S)-methyl-7-chloro-2,5-dihydro-2-\[\[(methoxycarbonyl)\[4-(trifluoromethoxy)-phenyl\]amino\]carbonyl\]indeno\[1,2e\] \[1,3,4\]oxadiazine-4a(3*H*)-carboxylate, its R-enantiomer, (R)-methyl 7-chloro-2,5-dihydro-2-\[\[(methoxycarbonyl)\[4-(trifluoromethoxy) phenyl\]amino\]carbonyl\]indeno \[1,2-e\] \[1,3,4\] oxadiazine-4a(3*H*)-carboxylate, and the metabolites: IN-JT333, methyl 7-chloro-2,5-dihydro-2-\[\[\[4-(trifluoromethoxy)phenyl\]-amino\]carbonyl\]indeno\[1,2-e\]\[1,3,4\]oxadiazine-4a(3*H*)-carboxylate; IN-KT319, (E)-methyl 5-chloro-2,3,-dihydro-2-hydroxy-1-\[\[\[(methoxycarbonyl)\[4-(trifluoromethoxy)phenyl\]amino\]-carbonyl\]hydrazono\]-1*H*-indene-2-carboxylate; IN-JU873, methyl 5-chloro-2,3-dihydro-2-hydroxy-1-\[\[\[\[4-(triflurormethoxy)-phenyl\]amino\]carbonyl\]hydrazono\]-1*H*-indene-2-carboxylate; IN-KG433, methyl 5-chloro-2,3,-dihydro-2-hydroxy-1-\[\[\[(methoxycarbonyl)\[4-(trifluoromethoxy)phenyl\]amino\]carbonyl\]-hydrazono\]-1*H*-indene-2-carboxylate; and IN-KB687, methyl \[4-(trifluoromethoxy)phenyl\]carbamate, calculated as the stoichiometric equivalent of indoxacarb in the commodity.
 
 | Commodity                | Parts per million |
 | ------------------------ | ----------------- |
@@ -82,17 +82,17 @@ Table 1 to Paragraph (a)(1)
 | Poultry, meat            | 0.06              |
 | Poultry, meat byproducts | 0.06              |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances specified in the following table are established for residues of the indoxacarb, including its metabolites and degradates, in or on the specified agricultural commodities in the table below, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. Compliance with the tolerance levels specified in the table below is to be determined by measuring only indoxacarb, (S)-methyl 7-chloro-2,5-dihydro-2-\[\[(methoxycarbonyl)\[4-(trifluoromethoxy)phenyl\]amino\]carbonyl\]indeno\[1,2-e\]\[1,3,4\]\[oxadiazine-4a(3H)-carboxylate, and its R-enantiomer, (R)-methyl 7-chloro-2,5-dihydro-2-\[\[(methoxycarbonyl)\[4-(trifluoromethoxy)phenyl\]amino\]carbonyl\]indeno\[1,2-e\]\[1,3,4\]\[oxadiazine-4a(3H)-carboxylate. 
+(b) *Section 18 emergency exemptions.* Time-limited tolerances specified in the following table are established for residues of the indoxacarb, including its metabolites and degradates, in or on the specified agricultural commodities in the table below, resulting from use of the pesticide pursuant to FIFRA section 18 emergency exemptions. Compliance with the tolerance levels specified in the table below is to be determined by measuring only indoxacarb, (S)-methyl 7-chloro-2,5-dihydro-2-\[\[(methoxycarbonyl)\[4-(trifluoromethoxy)phenyl\]amino\]carbonyl\]indeno\[1,2-e\]\[1,3,4\]\[oxadiazine-4a(3H)-carboxylate, and its R-enantiomer, (R)-methyl 7-chloro-2,5-dihydro-2-\[\[(methoxycarbonyl)\[4-(trifluoromethoxy)phenyl\]amino\]carbonyl\]indeno\[1,2-e\]\[1,3,4\]\[oxadiazine-4a(3H)-carboxylate.
 
-The tolerances expire on the dates specified in the table. 
+The tolerances expire on the dates specified in the table.
 
 | Commodity     | Parts per   million | Expiration   date |
 | ------------- | ------------------- | ----------------- |
 | Grass, forage | 10                  | 12/31/2022        |
 | Grass, hay    | 50                  | 12/31/2022        |
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
-\[65 FR 58424, Sept. 29, 2000, as amended at 67 FR 41807, June 19, 2002; 67 FR 47309, July 18, 2002; 67 FR 58730, Sept. 18, 2002; 68 FR 25830, May 14, 2003; 68 FR 27746, May 21, 2003; 69 FR 28842, May 19, 2004; 69 FR 29459, May 24, 2004; 69 FR 32282, June 9, 2004; 72 FR 37641, July 11, 2007; 74 FR 33165, July 10, 2009; 77 FR 8749, Feb. 15, 2012; 78 FR 78738, Dec. 27, 2013; 82 FR 57866, Dec. 8, 2017; 84 FR 32094, July 5, 2019; 85 FR 31389, May 26, 2020; 85 FR 72971, Nov. 16, 2020; 89 FR 64814, Aug. 8, 2024\]
+\[65 FR 58424, Sept. 29, 2000\] Editorial Note:For Federal Register citations affecting § 180.564, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

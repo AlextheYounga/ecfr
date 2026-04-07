@@ -1,6 +1,6 @@
 ##### § 180.646 Ipconazole; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of ipconazole, including its metabolites and degradates, in or on the commodities listed in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only ipconazole (2-\[(4-chlorophenyl)methyl\]-5-(1-methylethyl)-1-(1*H*-1,2,4-triazol-1-ylmethyl)cyclopentanol) in or on the commodity. 
+(a) *General.* Tolerances are established for residues of ipconazole, including its metabolites and degradates, in or on the commodities listed in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only ipconazole (2-\[(4-chlorophenyl)methyl\]-5-(1-methylethyl)-1-(1*H*-1,2,4-triazol-1-ylmethyl)cyclopentanol) in or on the commodity.
 
 | Commodity                                                      | Parts per million |
 | -------------------------------------------------------------- | ----------------- |
@@ -12,10 +12,10 @@
 | Soybean, forage                                                | 0.01              |
 | Vegetable, legume, group 6                                     | 0.01              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[73 FR 69559, Nov. 19, 2008, as amended at 79 FR 15240, Mar. 19, 2014\]

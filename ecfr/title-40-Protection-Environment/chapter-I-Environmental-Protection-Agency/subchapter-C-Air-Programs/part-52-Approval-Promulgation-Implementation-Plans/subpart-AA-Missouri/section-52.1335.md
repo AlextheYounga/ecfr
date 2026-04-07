@@ -1,20 +1,22 @@
 ##### § 52.1335 Compliance schedules.
 
-(a) The compliance schedule for the source identified below is approved as a revision to the plan pursuant to § 51.104 and subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted. 
+(a) The compliance schedule for the source identified below is approved as a revision to the plan pursuant to § 51.104 and subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted.
 
 Missouri
-| Source                                                                | Location              | Regulation involved                 | Adopted date  | Effective date | Final compliance date |
-| --------------------------------------------------------------------- | --------------------- | ----------------------------------- | ------------- | -------------- | --------------------- |
-| Pilot Knob Pelleting Co                                               | Pilot Knob, MO        | V(10 CSR 10-3.050)                  | Oct. 19, 1977 | Immediately    | Dec. 31, 1982.        |
-| Union Electric Labadie power plant                                    | Labadie, MO           | 10 CSR 10-5.090 and 10 CSR 10-5.030 | June 20, 1979 | July 20, 1979  | Mar. 1, 1984.         |
-| St. Joe Minerals Corp., Pea Ridge Iron Ore Facility                   | Washington County, MO | 10 CSR 10-3,050                     | Mar. 23, 1983 | Mar. 23, 1983  | Dec. 31, 1988.        |
-| St. Joe Minerals Corp., Pea Ridge Iron Ore Facility                   | ......do              | ......do                            | Apr. 22, 1981 | Dec. 28, 1981  | July 1, 1985.         |
-| Associated Electric Cooperative, Inc., Thomas Hill Power Plant—Unit 1 | Randolph County, MO   | 10 CSR 10-3.060 and 10 CSR 10-3.080 | June 17, 1981 | Jan. 12, 1982  | June 1, 1984.         |
-| American Oil Co. (AMOCO)                                              | Sugar Creek, MO       | 10 CSR 10-2.260                     | Feb. 18, 1981 | Oct. 1, 1981   | June 1, 1982.         |
-| St. Joe Lead Co                                                       | Herculaneum, MO       | § 203.050.1(5) RSM01978             | Aug. 15, 1980 | Immediately    | Oct. 27, 1984.        |
-| AMAX Lead Co                                                          | Boss, MO              | ......do                            | ......do      | ......do       | Apr. 27, 1985.        |
+| Source                                                                                          | Location              | Regulation involved                 | Adopted date  | Effective date | Final compliance date |
+| ----------------------------------------------------------------------------------------------- | --------------------- | ----------------------------------- | ------------- | -------------- | --------------------- |
+| Pilot Knob Pelleting Co1                                                                        | Pilot Knob, MO        | V(10 CSR 10-3.050)                  | Oct. 19, 1977 | Immediately    | Dec. 31, 1982.        |
+| Union Electric Labadie power plant                                                              | Labadie, MO           | 10 CSR 10-5.090 and 10 CSR 10-5.030 | June 20, 1979 | July 20, 1979  | Mar. 1, 1984.         |
+| St. Joe Minerals Corp., Pea Ridge Iron Ore Facility                                             | Washington County, MO | 10 CSR 10-3,050                     | Mar. 23, 1983 | Mar. 23, 1983  | Dec. 31, 1988.        |
+| St. Joe Minerals Corp., Pea Ridge Iron Ore Facility                                             | ......do              | ......do                            | Apr. 22, 1981 | Dec. 28, 1981  | July 1, 1985.         |
+| Associated Electric Cooperative, Inc., Thomas Hill Power Plant—Unit 1                           | Randolph County, MO   | 10 CSR 10-3.060 and 10 CSR 10-3.080 | June 17, 1981 | Jan. 12, 1982  | June 1, 1984.         |
+| American Oil Co. (AMOCO)                                                                        | Sugar Creek, MO       | 10 CSR 10-2.260                     | Feb. 18, 1981 | Oct. 1, 1981   | June 1, 1982.         |
+| St. Joe Lead Co                                                                                 | Herculaneum, MO       | § 203.050.1(5) RSM01978             | Aug. 15, 1980 | Immediately    | Oct. 27, 1984.        |
+| AMAX Lead Co                                                                                    | Boss, MO              | ......do                            | ......do      | ......do       | Apr. 27, 1985.        |
+| 1 Regulation IV, air pollution control regulations for Kansas City metropolitan area. **Note:** |                       |                                     |               |                |                       |
+| **Note:** X = Air Pollution Control Regulations for the St. Louis Metropolitan Area.            |                       |                                     |               |                |                       |
 
-(b) The compliance schedule submitted for the source identified below is disapproved as not meeting the requirements of subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted. 
+(b) The compliance schedule submitted for the source identified below is disapproved as not meeting the requirements of subpart N of this chapter. All regulations cited are air pollution control regulations of the State, unless otherwise noted.
 
 | Source                                                                                | Location          | Regulation involved                       | Date adopted   |
 | ------------------------------------------------------------------------------------- | ----------------- | ----------------------------------------- | -------------- |

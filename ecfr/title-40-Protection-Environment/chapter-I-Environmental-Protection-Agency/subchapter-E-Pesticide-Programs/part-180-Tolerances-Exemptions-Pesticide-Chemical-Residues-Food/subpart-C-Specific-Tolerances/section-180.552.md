@@ -1,6 +1,6 @@
 ##### § 180.552 Sulfosulfuron; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide sulfosulfuron, 1-(4,6-dimethoxypyrimidin-2-yl)-3-\[(2-ethanesulfonyl-imidazo\[1,2-a\]pyridine-3-yl) sulfonyl\]urea and its metabolites converted to 2-(ethylsulfonyl)-imidazo\[1,2-a\]pyridine and calculated as sulfosulfuron in or on the raw agricultural commodities. 
+(a) *General.* Tolerances are established for residues of the herbicide sulfosulfuron, 1-(4,6-dimethoxypyrimidin-2-yl)-3-\[(2-ethanesulfonyl-imidazo\[1,2-a\]pyridine-3-yl) sulfonyl\]urea and its metabolites converted to 2-(ethylsulfonyl)-imidazo\[1,2-a\]pyridine and calculated as sulfosulfuron in or on the raw agricultural commodities.
 
 | Commodity                                       | Parts per million |
 | ----------------------------------------------- | ----------------- |
@@ -27,10 +27,10 @@
 | Wheat, hay                                      | 0.3               |
 | Wheat, straw                                    | 0.1               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[64 FR 27192, May 19, 1999, as amended at 70 FR 69464, Nov. 16, 2005; 72 FR 54574, Sept. 26, 2007\]

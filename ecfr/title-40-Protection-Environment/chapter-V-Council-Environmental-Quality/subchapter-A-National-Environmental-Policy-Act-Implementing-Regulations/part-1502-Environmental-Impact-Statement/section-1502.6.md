@@ -1,0 +1,3 @@
+##### § 1502.6 Interdisciplinary preparation.
+
+Agencies shall prepare environmental impact statements using an interdisciplinary approach that will ensure the integrated use of the natural and social sciences and the environmental design arts (section 102(2)(A) of NEPA). The disciplines of the preparers shall be appropriate to the scope and issues identified in the scoping process (§ 1502.4 of this subchapter).

@@ -1,6 +1,6 @@
 ##### § 52.671 Classification of regions.
 
-The Idaho plan was evaluated on the basis of the following classifications: 
+The Idaho plan was evaluated on the basis of the following classifications:
 
 | Air quality control region                           | Pollutants |
 | ---------------------------------------------------- | ---------- |

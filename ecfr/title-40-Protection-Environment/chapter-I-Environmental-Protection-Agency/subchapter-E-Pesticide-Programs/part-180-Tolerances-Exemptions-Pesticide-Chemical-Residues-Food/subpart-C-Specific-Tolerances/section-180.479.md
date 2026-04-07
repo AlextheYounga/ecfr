@@ -1,6 +1,6 @@
 ##### § 180.479 Halosulfuron-methyl; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the herbicide halosulfuron-methyl, methyl 5-\[(4,6-dimethoxy-2-pyrimidiny)amino\] carbonylaminosulfonyl\]-3-chloro-1-methyl-1H-pyrazole-4-carboxylate, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only those halosulfuron-methyl residues containing the 3-chlorosulfonamide (3-CSA) moiety, expressed as the stoichiometric equivalent of halosulfuron-methyl, in or on the commodity. 
+(a) *General.* (1) Tolerances are established for residues of the herbicide halosulfuron-methyl, methyl 5-\[(4,6-dimethoxy-2-pyrimidiny)amino\] carbonylaminosulfonyl\]-3-chloro-1-methyl-1H-pyrazole-4-carboxylate, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only those halosulfuron-methyl residues containing the 3-chlorosulfonamide (3-CSA) moiety, expressed as the stoichiometric equivalent of halosulfuron-methyl, in or on the commodity.
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |
@@ -19,7 +19,7 @@
 | Sheep, meat             | 0.05              |
 | Sheep, meat byproducts  | 1.0               |
 
-(2) Tolerances are established for residues of the herbicide halosulfuron-methyl, methyl 5-\[(4,6-dimethoxy-2-pyrimidiny)amino\]carbonylaminosulfonyl\]-3-chloro-1-methyl-1H-pyrazole-4-carboxylate, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only halosulfuron-methyl. 
+(2) Tolerances are established for residues of the herbicide halosulfuron-methyl, methyl 5-\[(4,6-dimethoxy-2-pyrimidiny)amino\]carbonylaminosulfonyl\]-3-chloro-1-methyl-1H-pyrazole-4-carboxylate, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only halosulfuron-methyl.
 
 | Commodity                                        | Parts per million |
 | ------------------------------------------------ | ----------------- |
@@ -65,14 +65,14 @@
 | Vegetable, fruiting, group 8                     | 0.05              |
 | Vegetable, tuberous and corm, subgroup 1C        | 0.05              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registrations are established for residues of the herbicide halosulfuron-methyl, methyl 5-\[(4,6-dimethoxy-2-pyrimidiny)amino\]carbonylaminosulfonyl\]-3-chloro-1-methyl-1H-pyrazole-4-carboxylate, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only halosulfuron-methyl. 
+(c) *Tolerances with regional registrations.* Tolerances with regional registrations are established for residues of the herbicide halosulfuron-methyl, methyl 5-\[(4,6-dimethoxy-2-pyrimidiny)amino\]carbonylaminosulfonyl\]-3-chloro-1-methyl-1H-pyrazole-4-carboxylate, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified in the following table is to be determined by measuring only halosulfuron-methyl.
 
 | Commodity                                                           | Parts per million |
 | ------------------------------------------------------------------- | ----------------- |
 | Fruit, small vine climbing, except fuzzy kiwifruit, subgroup 13-07F | 0.05              |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[64 FR 25448, May 12, 1999, as amended at 65 FR 58433, Sept. 29, 2000; 66 FR 66340, Dec. 26, 2001; 66 FR 66786, Dec. 27, 2001; 67 FR 45649, July 10, 2002; 67 FR 59192, Sept. 20, 2002; 70 FR 51622, Aug. 31, 2005; 72 FR 8927, Feb. 28, 2007; 74 FR 48401, Sept. 23, 2009; 75 FR 46853, Aug. 4, 2010; 76 FR 34886, June 15, 2011; 77 FR 71561, Dec. 3, 2012; 78 FR 53051, Aug. 28, 2013; 80 FR 55773, Sept. 17, 2015; 80 FR 72599, Nov. 20, 2015\]

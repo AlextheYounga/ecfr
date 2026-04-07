@@ -1,6 +1,6 @@
 ##### § 180.664 Penflufen; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide penflufen, including its metabolites and degradates, in or on the following commodities listed in the table. Compliance with the tolerance levels specified in the table is to be determined by measuring only penflufen *N*-\[2-(1,3-dimethylbutyl)phenyl\]-5-fluoro-1,3-dimethyl-1*H-*pyrazole-4-carboxamide, in or on the following commodities. 
+(a) *General.* Tolerances are established for residues of the fungicide penflufen, including its metabolites and degradates, in or on the following commodities listed in the table. Compliance with the tolerance levels specified in the table is to be determined by measuring only penflufen *N*-\[2-(1,3-dimethylbutyl)phenyl\]-5-fluoro-1,3-dimethyl-1*H-*pyrazole-4-carboxamide, in or on the following commodities.
 
 | Commodity                                        | Parts per million |
 | ------------------------------------------------ | ----------------- |
@@ -17,10 +17,10 @@
 | Vegetable, legume, group 6                       | 0.01              |
 | Vegetable, tuberous and corm subgroup 1C         | 0.01              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[77 FR 28281, May 14, 2012, as amended at 81 FR 72007, Oct. 19, 2016\]

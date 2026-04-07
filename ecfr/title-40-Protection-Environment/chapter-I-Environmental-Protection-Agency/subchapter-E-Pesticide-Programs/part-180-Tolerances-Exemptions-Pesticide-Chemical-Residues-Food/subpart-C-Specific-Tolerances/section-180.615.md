@@ -1,6 +1,6 @@
 ##### § 180.615 Amicarbazone; tolerances for residues.
 
-(a) *General.* Tolerances are established for combined residues of the herbicide, amicarbazone \[4-amino-4, 5-dihydro- N-(1,1-dimethylethyl)-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide\] and its metabolites DA amicarbazone \[N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide\] and iPr-2-OH DA amicarbazone \[N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-hydroxy-1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide\], calculated as parent equivalents, in or on the following commodities: 
+(a) *General.* Tolerances are established for combined residues of the herbicide, amicarbazone \[4-amino-4, 5-dihydro- N-(1,1-dimethylethyl)-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide\] and its metabolites DA amicarbazone \[N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide\] and iPr-2-OH DA amicarbazone \[N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-hydroxy-1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide\], calculated as parent equivalents, in or on the following commodities:
 
 | Commodity                             | Parts per million |
 | ------------------------------------- | ----------------- |
@@ -30,11 +30,11 @@
 | Sheep, meat byproducts, except liver  | 0.10              |
 | Poultry, liver                        | 0.10              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent residues of amicarbazone \[4-amino-4, 5-dihydro-N-(1,1-dimethylethyl)-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide\] and its metabolites DA amicarbazone \[N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide\] and iPr-2-OH DA amicarbazone \[N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-hydroxy-1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide\], calculated as parent equivalents, in or on the following commodities when present therein as a result of application of amicarbazone to the growing crops in paragraph (a) of this section: 
+(d) *Indirect or inadvertent residues.* Tolerances are established for the indirect or inadvertent residues of amicarbazone \[4-amino-4, 5-dihydro-N-(1,1-dimethylethyl)-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide\] and its metabolites DA amicarbazone \[N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide\] and iPr-2-OH DA amicarbazone \[N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-hydroxy-1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide\], calculated as parent equivalents, in or on the following commodities when present therein as a result of application of amicarbazone to the growing crops in paragraph (a) of this section:
 
 | Commodity               | Parts per million |
 | ----------------------- | ----------------- |

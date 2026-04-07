@@ -1,6 +1,6 @@
 ##### § 180.622 Ethaboxam; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of ethaboxam, including its metabolites and degradates, in or on the commodities listed in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only ethaboxam (*N*-(cyano-2-thienylmethyl)-4-ethyl-2-(ethylamino)-5-thiazolecarboxamide) in or on the commodity. 
+(a) *General.* Tolerances are established for residues of ethaboxam, including its metabolites and degradates, in or on the commodities listed in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only ethaboxam (*N*-(cyano-2-thienylmethyl)-4-ethyl-2-(ethylamino)-5-thiazolecarboxamide) in or on the commodity.
 
 Table 1 to Paragraph (a)
 | Commodity                                                 | Parts per   million |
@@ -16,10 +16,10 @@ Table 1 to Paragraph (a)
 | Vegetable, tuberous and corm, subgroup 1C                 | 0.01                |
 | 1 There is no U.S. registration as of September 27, 2006. |                     |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[71 FR 56392, Sept. 27, 2006, as amended at 82 FR 36090, Aug. 3, 2017; 86 FR 8713, Feb. 9, 2021; 87 FR 2728, Jan. 19, 2022; 89 FR 68117, Aug. 23, 2024\]

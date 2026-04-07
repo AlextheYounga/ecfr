@@ -1,6 +1,6 @@
 ##### § 180.666 Fluxapyroxad; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide fluxapyroxad, including its metabolites and degradates, in or on the commodities listed in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fluxapyroxad, 3-(difluoromethyl)-1-methyl-*N*-(3′,4′,5′-trifluoro\[1,1′-biphenyl\]-2-yl)-1*H*-pyrazole-4-carboxamide in or on the commodity. 
+(a) *General.* Tolerances are established for residues of the fungicide fluxapyroxad, including its metabolites and degradates, in or on the commodities listed in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fluxapyroxad, 3-(difluoromethyl)-1-methyl-*N*-(3′,4′,5′-trifluoro\[1,1′-biphenyl\]-2-yl)-1*H*-pyrazole-4-carboxamide in or on the commodity.
 
 Table 1 to Paragraph (a)
 | Commodity                                                                                                                                                  | Parts per   million |
@@ -89,11 +89,11 @@ Table 1 to Paragraph (a)
 | Wheat, grain                                                                                                                                               | 0.3                 |
 | 1 There are no U.S. registrations for this commodity as of November 8, 2016.                                                                               |                     |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* Tolerances are established for the combined indirect or inadvertent residues of the fungicide fluxapyroxad, including its metabolites and degradates, in or on the commodities listed in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fluxapyroxad, 3-(difluoromethyl)-1-methyl-N-(3′,4′,5′-trifluoro\[1,1′-biphenyl\]-2-yl)-1H-pyrazole-4-carboxamide in or on the commodity. 
+(d) *Indirect or inadvertent residues.* Tolerances are established for the combined indirect or inadvertent residues of the fungicide fluxapyroxad, including its metabolites and degradates, in or on the commodities listed in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fluxapyroxad, 3-(difluoromethyl)-1-methyl-N-(3′,4′,5′-trifluoro\[1,1′-biphenyl\]-2-yl)-1H-pyrazole-4-carboxamide in or on the commodity.
 
 | Commodity        | Parts per   million |
 | ---------------- | ------------------- |

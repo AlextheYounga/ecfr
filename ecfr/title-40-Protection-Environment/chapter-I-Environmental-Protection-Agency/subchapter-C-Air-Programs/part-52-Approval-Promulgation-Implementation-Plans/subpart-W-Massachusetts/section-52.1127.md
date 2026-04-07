@@ -1,8 +1,8 @@
 ##### § 52.1127 Attainment dates for national standards.
 
-The following table presents the latest dates by which the national standards are to be attained. The table reflects the new information presented in the approved Massachusetts plan. 
+The following table presents the latest dates by which the national standards are to be attained. The table reflects the new information presented in the approved Massachusetts plan.
 
-| Air quality control region                                                     | Pollutant |
+| Air quality control region2                                                    | Pollutant |
 | ------------------------------------------------------------------------------ | --------- |
 | AQCR 42: Hartford-New Haven-Springfield Interstate Area (See 40 CFR 81.26)     | (a)       |
 | AQCR 117: Berkshire Intrastat Area (See 40 CFR 81.141)                         | (a)       |

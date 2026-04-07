@@ -1,6 +1,6 @@
 ##### § 180.436 Cyfluthrin and the isomer beta-cyfluthrin; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of the insecticide cyfluthrin (cyano(4-fluoro-3-phenoxyphenyl)methyl-3-(2,2-dichloroethenyl)-2,2dimethyl-cyclopropane-carboxylate; CAS No. 68359-37-5) in or on the following raw agricultural commodities: 
+(a) *General.* (1) Tolerances are established for residues of the insecticide cyfluthrin (cyano(4-fluoro-3-phenoxyphenyl)methyl-3-(2,2-dichloroethenyl)-2,2dimethyl-cyclopropane-carboxylate; CAS No. 68359-37-5) in or on the following raw agricultural commodities:
 
 | Commodity                                                            | Parts per million |
 | -------------------------------------------------------------------- | ----------------- |
@@ -99,23 +99,23 @@
 | Wheat, grain                                                         | 0.15              |
 | Wheat, shorts                                                        | 0.5               |
 
-(2) A tolerance of 0.05 ppm is established for residues of the insecticide cyfluthrin (cyano(4-fluoro-3-phenoxyphenyl)methyl-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropanecarboxylate; CAS Reg. No. 69359-37-5) in food commodities exposed to the insecticide during treatment of food-handling establishments where food and food products are held, processed, prepared, or served. Treatments may be made by general surface, spot, and/or crack and crevice applications. 
+(2) A tolerance of 0.05 ppm is established for residues of the insecticide cyfluthrin (cyano(4-fluoro-3-phenoxyphenyl)methyl-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropanecarboxylate; CAS Reg. No. 69359-37-5) in food commodities exposed to the insecticide during treatment of food-handling establishments where food and food products are held, processed, prepared, or served. Treatments may be made by general surface, spot, and/or crack and crevice applications.
 
-(i) General surface treatments shall be limited to a maximum of 3.8 grams of active ingredient per 1,000 square feet, applying to walls, floors, and ceilings with a low-pressure system. Cover or remove all food processing and/or handling equipment during application. Do not apply directly to food products. Reapplications may be made at 10-day intervals. 
+(i) General surface treatments shall be limited to a maximum of 3.8 grams of active ingredient per 1,000 square feet, applying to walls, floors, and ceilings with a low-pressure system. Cover or remove all food processing and/or handling equipment during application. Do not apply directly to food products. Reapplications may be made at 10-day intervals.
 
-(ii) Crack and crevice or spot treatments shall be limited to a maximum of 0.1 percent of the active ingredient weight, applied with a low-pressure system with a pinpoint or variable-pattern nozzle. Dust formulation shall be limited to a maximum of 0.1 percent of the active ingredient by weight, applied using a hand duster, power duster, or other equipment capable of applying dust insecticide directly into voids and cracks and crevices. Dust applications should be made in a manner to avoid deposits on exposed surfaces or introducing the material into the air. Cover exposed food or remove food from premises. Do not apply directly to food. Reapplications may be made at 10-day intervals. 
+(ii) Crack and crevice or spot treatments shall be limited to a maximum of 0.1 percent of the active ingredient weight, applied with a low-pressure system with a pinpoint or variable-pattern nozzle. Dust formulation shall be limited to a maximum of 0.1 percent of the active ingredient by weight, applied using a hand duster, power duster, or other equipment capable of applying dust insecticide directly into voids and cracks and crevices. Dust applications should be made in a manner to avoid deposits on exposed surfaces or introducing the material into the air. Cover exposed food or remove food from premises. Do not apply directly to food. Reapplications may be made at 10-day intervals.
 
-(iii) To ensure safe use of the insecticide, its label and labeling shall conform to that registered by the Environmental Protection Agency, and it shall be used in accordance with such label and labeling. 
+(iii) To ensure safe use of the insecticide, its label and labeling shall conform to that registered by the Environmental Protection Agency, and it shall be used in accordance with such label and labeling.
 
-(3) A tolerance of 0.05 part per million is established for residues of the insecticide cyfluthrin (cyano(4-fluoro-3-phenoxyphenyl)methyl-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropanecarboxylate; CAS Reg. No. 68359-37-5) in feed commodities exposed to the insecticide during treatment of feed-handling establishments where feed and feed products are held, processed, prepared, or served. Treatments may be made by general surface, spot, and/or crack and crevice applications. 
+(3) A tolerance of 0.05 part per million is established for residues of the insecticide cyfluthrin (cyano(4-fluoro-3-phenoxyphenyl)methyl-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropanecarboxylate; CAS Reg. No. 68359-37-5) in feed commodities exposed to the insecticide during treatment of feed-handling establishments where feed and feed products are held, processed, prepared, or served. Treatments may be made by general surface, spot, and/or crack and crevice applications.
 
-(i) General surface tratments shall be limited to a maximum of 3.8 grams of active ingredient per 1,000 square feet, applying to walls, floors, and ceilings with a low-pressure system. Cover or remove all feed processing and/or handling equipment during application. Do not apply directly to feed products. Reapplications may be made at 10-day intervals. 
+(i) General surface tratments shall be limited to a maximum of 3.8 grams of active ingredient per 1,000 square feet, applying to walls, floors, and ceilings with a low-pressure system. Cover or remove all feed processing and/or handling equipment during application. Do not apply directly to feed products. Reapplications may be made at 10-day intervals.
 
-(ii) Crack and crevice or spot treatments shall be limited to a maximum of 0.1 percent of the active ingredient by weight, applied with a low-pressure system with a pinpoint or variable-pattern nozzle. Dust formulation shall be limited to a maximum of 0.1 percent of the active ingredient by weight, applied using a hand duster, power duster, or other equipment capable of applying dust insecticide directly into voids and cracks and crevices. Dust applications should be made in a manner to avoid deposits on exposed surfaces or introducing the material into the air. Cover exposed feed or remove feed from premises. Do not apply directly to feed. Reapplications may be made at 10-day intervals. 
+(ii) Crack and crevice or spot treatments shall be limited to a maximum of 0.1 percent of the active ingredient by weight, applied with a low-pressure system with a pinpoint or variable-pattern nozzle. Dust formulation shall be limited to a maximum of 0.1 percent of the active ingredient by weight, applied using a hand duster, power duster, or other equipment capable of applying dust insecticide directly into voids and cracks and crevices. Dust applications should be made in a manner to avoid deposits on exposed surfaces or introducing the material into the air. Cover exposed feed or remove feed from premises. Do not apply directly to feed. Reapplications may be made at 10-day intervals.
 
-(iii) To ensure safe use of the insecticide, its label and labeling shall conform to that registered by EPA, and it shall be used in accordance with such label and labeling. 
+(iii) To ensure safe use of the insecticide, its label and labeling shall conform to that registered by EPA, and it shall be used in accordance with such label and labeling.
 
-(4) Tolerances are established for residues of the isomer, beta-cyfluthrin, cyano(4-fluoro-3-phenoxyphenyl)methyl-3-(2,2-dichloroethenyl)-2,2-dimethyl-cyclopropanecarboxylate \[mixture comprising the enantiomeric pair (*R*)-α-cyano-4-fluoro-3-phenoxybenzyl (1*S*,3*S*)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate and (S)-α-cyano-4-fluoro-3-phenoxybenzyl (1*R*,3*R*)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate with the enantiomeric pair (*R*)-α-cyano-4-fluoro-3-phenoxybenzyl (1*S*,3*R*)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate and (*S*)-α-cyano-4-fluoro-3-phenoxybenzyl (1*R*,3*S*)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate\], in or on the following raw agricultural commodities: 
+(4) Tolerances are established for residues of the isomer, beta-cyfluthrin, cyano(4-fluoro-3-phenoxyphenyl)methyl-3-(2,2-dichloroethenyl)-2,2-dimethyl-cyclopropanecarboxylate \[mixture comprising the enantiomeric pair (*R*)-α-cyano-4-fluoro-3-phenoxybenzyl (1*S*,3*S*)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate and (S)-α-cyano-4-fluoro-3-phenoxybenzyl (1*R*,3*R*)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate with the enantiomeric pair (*R*)-α-cyano-4-fluoro-3-phenoxybenzyl (1*S*,3*R*)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate and (*S*)-α-cyano-4-fluoro-3-phenoxybenzyl (1*R*,3*S*)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate\], in or on the following raw agricultural commodities:
 
 | Commodity                                                            | Parts per million |
 | -------------------------------------------------------------------- | ----------------- |
@@ -213,10 +213,10 @@
 | Wheat, grain                                                         | 0.15              |
 | Wheat, shorts                                                        | 0.5               |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[53 FR 1924, Jan. 25, 1988\] Editorial Note:For Federal Register citations affecting § 180.436, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

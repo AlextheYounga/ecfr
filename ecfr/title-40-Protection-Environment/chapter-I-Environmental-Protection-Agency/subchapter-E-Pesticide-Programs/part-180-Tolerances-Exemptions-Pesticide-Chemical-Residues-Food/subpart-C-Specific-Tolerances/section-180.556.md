@@ -1,6 +1,6 @@
 ##### § 180.556 Pymetrozine; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide pymetrozine 1,2,4-triazin-3(2H)-one,4,5-dihydro-6-methyl-4-\[(3-pyridinylmethylene) amino\] in or on the following raw agricultural commodities. The tolerance level for each commodity is expressed in terms of the parent insecticide only, which serves as an indicator of the use of pymetrozine on these raw agricultural commodities. 
+(a) *General.* Tolerances are established for residues of the insecticide pymetrozine 1,2,4-triazin-3(2H)-one,4,5-dihydro-6-methyl-4-\[(3-pyridinylmethylene) amino\] in or on the following raw agricultural commodities. The tolerance level for each commodity is expressed in terms of the parent insecticide only, which serves as an indicator of the use of pymetrozine on these raw agricultural commodities.
 
 | Commodity                                  | Parts per million |
 | ------------------------------------------ | ----------------- |
@@ -17,10 +17,10 @@
 | Vegetable, leafy, execpt brassica, group 4 | 0.6               |
 | Vegetable, tuberous and corm, subgroup 1C  | 0.02              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[65 FR 48634, Aug. 9, 2000, as amended at 66 FR 14846, Mar. 14, 2001; 66 FR 66794, Dec. 27, 2001; 70 FR 7047, Feb. 10, 2005; 70 FR 43298, July 27, 2005\]

@@ -1,6 +1,6 @@
 ##### § 180.632 Fenazaquin; Tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide fenazaquin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fenazaquin, or 4-\[2-\[4-(1,1-dimethylethyl)phenyl\]-ethoxy\]quinazoline. 
+(a) *General.* Tolerances are established for residues of the insecticide fenazaquin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only fenazaquin, or 4-\[2-\[4-(1,1-dimethylethyl)phenyl\]-ethoxy\]quinazoline.
 
 | Commodity                                                                          | Parts per   million |
 | ---------------------------------------------------------------------------------- | ------------------- |
@@ -30,10 +30,10 @@
 | 1 There are no U.S. registrations as of May 25, 2017 for use on pineapple and tea. |                     |
 | 2 This tolerance expires on October 11, 2019.                                      |                     |
 
-(b) *Section is emergency exempotions.* \[Reserved\] 
+(b) *Section is emergency exempotions.* \[Reserved\]
 
-(c) *Tolerances with regional registration.* \[Reserved\] 
+(c) *Tolerances with regional registration.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[72 FR 44393, Aug. 8, 2007, as amended at 80 FR 25958, May 6, 2015; 82 FR 24071, May 25, 2017; 84 FR 14622, Apr. 11, 2019\]

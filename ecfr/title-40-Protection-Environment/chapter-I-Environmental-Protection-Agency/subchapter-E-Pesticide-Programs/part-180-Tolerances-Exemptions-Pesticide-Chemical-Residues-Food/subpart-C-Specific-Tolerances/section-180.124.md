@@ -1,12 +1,12 @@
 ##### § 180.124 Methyl bromide; tolerances for residues.
 
-(a) *General.* A tolerance is established for residues of the fumigant methyl bromide, including metabolites and degradates, in or on the commodity in the table below. Compliance with the tolerance level specified below is to be determined by measuring only methyl bromide. 
+(a) *General.* A tolerance is established for residues of the fumigant methyl bromide, including metabolites and degradates, in or on the commodity in the table below. Compliance with the tolerance level specified below is to be determined by measuring only methyl bromide.
 
 | Commodity               | Parts per   million |
 | ----------------------- | ------------------- |
 | Cotton, undelinted seed | 150                 |
 
-(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of the fumigant methyl bromide, including its metabolites and degradates, in or on the specified agricultural commodities in Table 2 to this paragraph (b). Compliance with the tolerance levels specified in Table 2 to this paragraph (b) is to be determined by measuring only methyl bromide, in or on the commodities, resulting from use of the pesticide pursuant to Federal Insecticide, Fungicide, Rodenticide Act (FIFRA) section 18 emergency exemptions. The tolerances expire and are revoked on the dates specified in Table 2 to this paragraph (b). 
+(b) *Section 18 emergency exemptions.* Time-limited tolerances are established for residues of the fumigant methyl bromide, including its metabolites and degradates, in or on the specified agricultural commodities in Table 2 to this paragraph (b). Compliance with the tolerance levels specified in Table 2 to this paragraph (b) is to be determined by measuring only methyl bromide, in or on the commodities, resulting from use of the pesticide pursuant to Federal Insecticide, Fungicide, Rodenticide Act (FIFRA) section 18 emergency exemptions. The tolerances expire and are revoked on the dates specified in Table 2 to this paragraph (b).
 
 Table 2 to Paragraph (b)
 | Commodity                                                | Parts per   million | Expiration/   revocation date |
@@ -42,8 +42,8 @@ Table 2 to Paragraph (b)
 | Vegetable, root and tuber, group 1                       | 3.0                 | 12/31/26                      |
 | Vegetable, stalk, stem and leaf petiole, group 22        | 0.50                | 12/31/26                      |
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[77 FR 35298, June 13, 2012, as amended at 83 FR 8763, Mar. 1, 2018; 85 FR 65734, Oct. 16, 2020; 86 FR 8703, Feb. 9, 2021; 88 FR 75505, Nov. 3, 2023\]

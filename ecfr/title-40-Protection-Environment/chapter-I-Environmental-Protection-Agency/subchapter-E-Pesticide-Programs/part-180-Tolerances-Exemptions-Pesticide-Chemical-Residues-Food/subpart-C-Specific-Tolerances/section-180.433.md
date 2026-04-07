@@ -1,6 +1,6 @@
 ##### § 180.433 Fomesafen; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide fomesafen, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels specified in the following table 1 to this paragraph (a) is to be determined by measuring only fomesafen, 5-\[2-chloro-4-(trifluoromethyl)phenoxy\]-N-(methylsulfonyl)-2-nitrobenzamide, in or on the commodity. 
+(a) *General.* Tolerances are established for residues of the herbicide fomesafen, including its metabolites and degradates, in or on the following commodities. Compliance with the tolerance levels specified in the following table 1 to this paragraph (a) is to be determined by measuring only fomesafen, 5-\[2-chloro-4-(trifluoromethyl)phenoxy\]-N-(methylsulfonyl)-2-nitrobenzamide, in or on the commodity.
 
 Table 1 to Paragraph (a)
 | Commodity                                                         | Parts per   million |
@@ -15,6 +15,6 @@ Table 1 to Paragraph (a)
 | Vegetable, legume, group 6                                        | 0.05                |
 | Vegetable, tuberous and corm, subgroup 1C                         | 0.025               |
 
-(b)-(d) \[Reserved\] 
+(b)-(d) \[Reserved\]
 
 \[88 FR 29839, May 9, 2023\]

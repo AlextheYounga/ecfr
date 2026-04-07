@@ -1,6 +1,6 @@
 ##### § 52.51 Classification of regions.
 
-The Alabama plan was evaluated on the basis of the following classifications: 
+The Alabama plan was evaluated on the basis of the following classifications:
 
 | Air quality control region                                                       | Pollutant |
 | -------------------------------------------------------------------------------- | --------- |

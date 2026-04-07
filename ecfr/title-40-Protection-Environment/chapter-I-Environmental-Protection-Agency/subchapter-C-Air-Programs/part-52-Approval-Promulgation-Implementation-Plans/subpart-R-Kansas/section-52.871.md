@@ -1,6 +1,6 @@
 ##### § 52.871 Classification of regions.
 
-The Kansas plan was evaluated on the basis of the following classifications: 
+The Kansas plan was evaluated on the basis of the following classifications:
 
 | Air quality control region          | Pollutant |
 | ----------------------------------- | --------- |

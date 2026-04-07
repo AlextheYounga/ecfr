@@ -1,6 +1,6 @@
 ##### § 180.253 Methomyl; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the insecticide methomyl, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only methomyl, methyl *N*-\[\[(methylamino)carbonyl\]oxy\]ethanimidothioate, in or on the commodity. 
+(a) *General.* Tolerances are established for residues of the insecticide methomyl, including its metabolites and degradates, in or on the commodities in the table in this paragraph. Compliance with the tolerance levels specified in this paragraph is to be determined by measuring only methomyl, methyl *N*-\[\[(methylamino)carbonyl\]oxy\]ethanimidothioate, in or on the commodity.
 
 | Commodity                                                                                                                                                                                                                                           | Parts per million | Expiration/revocation date |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------- |
@@ -89,14 +89,14 @@
 | 1 There are no U.S. registrations for use of methomyl on hop, dried cone, as of February 14, 1990.                                                                                                                                                  |                   |                            |
 | 2 Except for Beet (tops), broccoli, Brussels sprouts, cabbage, cabbage, Chinese, cauliflower, celery, collards, dandelions, endive (escarole), kale, lettuce, mustard greens, parsley, spinach, Swiss chard, turnip, greens (tops), and watercress. |                   |                            |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* A tolerance with regional registration, as defined in § 180.1(l), is established for residues of the insecticide methomyl, including its metabolites and degradates, in or on the commodity in the table in this paragraph. Compliance with the tolerance level specified in this paragraph is to be determined by measuring only methomyl, methyl *N*-\[\[(methylamino)carbonyl\]oxy\]ethanimidothioate, in or on the commodity. 
+(c) *Tolerances with regional registrations.* A tolerance with regional registration, as defined in § 180.1(l), is established for residues of the insecticide methomyl, including its metabolites and degradates, in or on the commodity in the table in this paragraph. Compliance with the tolerance level specified in this paragraph is to be determined by measuring only methomyl, methyl *N*-\[\[(methylamino)carbonyl\]oxy\]ethanimidothioate, in or on the commodity.
 
 | Commodity | Parts   per million |
 | --------- | ------------------- |
 | Pear      | 4                   |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[65 FR 33697, May 24, 2000, as amended at 72 FR 35666, June 29, 2007; 74 FR 46373, Sept. 9, 2009; 75 FR 60242, Sept. 29, 2010; 76 FR 34885, June 15, 2011; 77 FR 59125, Sept. 26, 2012; 80 FR 72598, Nov. 20, 2015\]

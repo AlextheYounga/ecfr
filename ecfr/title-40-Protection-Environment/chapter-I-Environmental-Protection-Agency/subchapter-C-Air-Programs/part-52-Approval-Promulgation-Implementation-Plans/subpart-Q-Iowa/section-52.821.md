@@ -1,6 +1,6 @@
 ##### § 52.821 Classification of regions.
 
-The Iowa plan was evaluated on the basis of the following classification: 
+The Iowa plan was evaluated on the basis of the following classification:
 
 | Air quality control region                   | Pollutant |
 | -------------------------------------------- | --------- |

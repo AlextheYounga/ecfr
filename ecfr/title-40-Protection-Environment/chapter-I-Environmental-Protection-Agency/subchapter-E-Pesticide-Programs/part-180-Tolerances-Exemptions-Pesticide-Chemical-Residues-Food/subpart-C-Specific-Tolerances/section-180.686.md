@@ -1,6 +1,6 @@
 ##### § 180.686 Benzovindiflupyr; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the fungicide benzovindiflupyr, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only benzovindiflupyr (*N*-\[9-(dichloromethylene)-1,2,3,4-tetrahydro-1,4-methanonaphthalen-5-yl\]-3-(difluoromethyl)-1-methyl-1*H*-pyrazole-4-carboxamide) in or on the commodity. 
+(a) *General.* Tolerances are established for residues of the fungicide benzovindiflupyr, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only benzovindiflupyr (*N*-\[9-(dichloromethylene)-1,2,3,4-tetrahydro-1,4-methanonaphthalen-5-yl\]-3-(difluoromethyl)-1-methyl-1*H*-pyrazole-4-carboxamide) in or on the commodity.
 
 Table 1 to Paragraph (a)
 | Commodity                                                           | Parts per million |
@@ -90,10 +90,10 @@ Table 1 to Paragraph (a)
 | Wheat, hay                                                          | 15.0              |
 | Wheat, straw                                                        | 15.0              |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[80 FR 59633, Oct. 2, 2015, as amended at 82 FR 52674, Nov. 14, 2017; 83 FR 29038, June 22, 2018; 86 FR 8707, Feb. 9, 2021; 87 FR 59027, Sept. 29, 2022\]

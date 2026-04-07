@@ -1,6 +1,6 @@
 ##### § 180.510 Pyriproxyfen; tolerances for residues.
 
-(a) *General.* (1) Tolerances are established for residues of pyriproxyfen, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified is determined by measuring only pyriproxyfen, 2-\[1-methyl-2-(4-phenoxyphenoxy) ethoxy\]pyridine, in or on the commodity. 
+(a) *General.* (1) Tolerances are established for residues of pyriproxyfen, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified is determined by measuring only pyriproxyfen, 2-\[1-methyl-2-(4-phenoxyphenoxy) ethoxy\]pyridine, in or on the commodity.
 
 Table 1 to Paragraph (a)(1)
 | Commodity                                                  | Parts per million |
@@ -100,12 +100,12 @@ Table 1 to Paragraph (a)(1)
 | Watercress                                                 | 2.0               |
 | Wax jambu                                                  | 0.10              |
 
-(2) A tolerance of 0.10 parts per million is established for all food commodities as a result of the proposed use of NYLAR in food handling establishments where food and food products are held, prepared, processed or served. Application is limited to space, general surface, spot, and/or crack and crevice treatment in food handling establishments where food and food products are held, processed, prepared and served. Space and general surface application may be used only when the facility is not in operation provided exposed food is covered or removed from the area being treated prior to application. Spot, and/or crack and crevice treatment may be used while the facility is in operation provided exposed food is covered or removed from the area being treated prior to application. Food contact surfaces should be thoroughly washed with an effective cleaning compound and rinced with potable water after use of the product. To assure safe use of this additive, its label and labeling shall conform to that registered with the U.S. Environmental Protection Agency, and shall be used in accordance with such label and labeling. 
+(2) A tolerance of 0.10 parts per million is established for all food commodities as a result of the proposed use of NYLAR in food handling establishments where food and food products are held, prepared, processed or served. Application is limited to space, general surface, spot, and/or crack and crevice treatment in food handling establishments where food and food products are held, processed, prepared and served. Space and general surface application may be used only when the facility is not in operation provided exposed food is covered or removed from the area being treated prior to application. Spot, and/or crack and crevice treatment may be used while the facility is in operation provided exposed food is covered or removed from the area being treated prior to application. Food contact surfaces should be thoroughly washed with an effective cleaning compound and rinced with potable water after use of the product. To assure safe use of this additive, its label and labeling shall conform to that registered with the U.S. Environmental Protection Agency, and shall be used in accordance with such label and labeling.
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[64 FR 10233, Mar. 3, 1999\] Editorial Note:For Federal Register citations affecting § 180.510, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

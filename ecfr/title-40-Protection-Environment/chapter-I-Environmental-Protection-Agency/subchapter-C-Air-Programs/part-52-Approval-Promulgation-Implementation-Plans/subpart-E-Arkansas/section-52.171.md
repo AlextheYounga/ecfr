@@ -1,6 +1,6 @@
 ##### § 52.171 Classification of regions.
 
-The Arkansas plan was evaluated on the basis of the following classifications: 
+The Arkansas plan was evaluated on the basis of the following classifications:
 
 | Air quality control region                         | Pollutant |
 | -------------------------------------------------- | --------- |

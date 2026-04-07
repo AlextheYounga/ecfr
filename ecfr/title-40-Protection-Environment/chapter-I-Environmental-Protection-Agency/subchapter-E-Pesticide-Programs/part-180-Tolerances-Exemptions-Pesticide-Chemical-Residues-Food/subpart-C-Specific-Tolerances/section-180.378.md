@@ -1,6 +1,6 @@
 ##### § 180.378 Permethrin; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of permethrin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only permethrin \[(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropanecarboxylate\], as the sum of its *cis*\- and *trans*\- isomers in or on the commodity. 
+(a) *General.* Tolerances are established for residues of permethrin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only permethrin \[(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropanecarboxylate\], as the sum of its *cis*\- and *trans*\- isomers in or on the commodity.
 
 | Commodity                                                                                                    | Parts per million |
 | ------------------------------------------------------------------------------------------------------------ | ----------------- |
@@ -72,9 +72,9 @@
 | Watercress                                                                                                   | 5.0               |
 | 1 There are no United States registrations for use of permethrin on tea, plucked leaves as of July 28, 2020. |                   |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) Tolerances with regional registrations. Tolerances with regional registrations, as defined in § 180.1(l), are established for residues of permethrin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only permethrin \[(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropanecarboxylate\], as the sum of its *cis*\- and *trans*\- isomers in or on the commodity. 
+(c) Tolerances with regional registrations. Tolerances with regional registrations, as defined in § 180.1(l), are established for residues of permethrin, including its metabolites and degradates, in or on the commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only permethrin \[(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropanecarboxylate\], as the sum of its *cis*\- and *trans*\- isomers in or on the commodity.
 
 | Commodity                                                            | Parts per million |
 | -------------------------------------------------------------------- | ----------------- |
@@ -86,6 +86,6 @@
 | Turnip, tops                                                         | 10                |
 | Turnip, roots                                                        | 0.20              |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[72 FR 52019, Sept. 12, 2007, as amended at 85 FR 45335, July 28, 2020\]

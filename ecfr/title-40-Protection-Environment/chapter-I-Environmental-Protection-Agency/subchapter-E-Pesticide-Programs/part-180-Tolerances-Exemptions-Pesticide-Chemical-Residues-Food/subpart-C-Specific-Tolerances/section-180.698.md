@@ -1,6 +1,6 @@
 ##### § 180.698 Chlormequat chloride; tolerances for residues.
 
-(a) *General.* Tolerances are established for the residues of the plant regulator chlormequat chloride, including its metabolites and degradates in or on food commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only chlormequat chloride \[(2-chloroethyl) trimethylammonium chloride in or on the following commodities: 
+(a) *General.* Tolerances are established for the residues of the plant regulator chlormequat chloride, including its metabolites and degradates in or on food commodities in the table below. Compliance with the tolerance levels specified below is to be determined by measuring only chlormequat chloride \[(2-chloroethyl) trimethylammonium chloride in or on the following commodities:
 
 | Commodity                                                                  | Parts per   million |
 | -------------------------------------------------------------------------- | ------------------- |
@@ -22,10 +22,10 @@
 | 1 There are no U.S. registrations for this commodity as of April 25, 2018. |                     |
 | 2 There are no U.S. registrations for this commodity.                      |                     |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[83 FR 17929, Apr. 25, 2018, as amended at 85 FR 31386, May 26, 2020\]

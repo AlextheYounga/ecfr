@@ -1,6 +1,6 @@
 ##### § 180.451 Tribenuron methyl; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide tribenuron methyl and its metabolites and degradates in or on the commodities in the following table. Compliance with the tolerance levels specified below is to be determined by measuring only tribenuron methyl, methyl-2-\[\[\[\[N-(4-methoxy-6-methyl-1,3,5-triazin-2-yl) methylamino\] carbonyl\] amino\] sulfonyl\] benzoate, in or on the following commodities: 
+(a) *General.* Tolerances are established for residues of the herbicide tribenuron methyl and its metabolites and degradates in or on the commodities in the following table. Compliance with the tolerance levels specified below is to be determined by measuring only tribenuron methyl, methyl-2-\[\[\[\[N-(4-methoxy-6-methyl-1,3,5-triazin-2-yl) methylamino\] carbonyl\] amino\] sulfonyl\] benzoate, in or on the following commodities:
 
 Table 1 to Paragraph (a)
 | Commodity                        | Parts per   million |
@@ -272,15 +272,15 @@ Table 1 to Paragraph (a)
 | Wild rice, eastern, grain        | 0.05                |
 | Yam bean, African, dry seed      | 0.01                |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l) are established for residues of the herbicide tribenuron methyl (methyl-2-\[\[\[\[N-(4-methoxy-6-methyl-1,3,5-triazin-2-yl) methylamino\] carbonyl\]amino\]sulfonyl\] benzoate) in or on the following raw agricultural commodities: 
+(c) *Tolerances with regional registrations.* Tolerances with regional registration, as defined in § 180.1(l) are established for residues of the herbicide tribenuron methyl (methyl-2-\[\[\[\[N-(4-methoxy-6-methyl-1,3,5-triazin-2-yl) methylamino\] carbonyl\]amino\]sulfonyl\] benzoate) in or on the following raw agricultural commodities:
 
 | Commodity                                                            | Parts per million |
 | -------------------------------------------------------------------- | ----------------- |
 | Grass, forage, fodder and hay, group 17, except bermudagrass; forage | 0.10              |
 | Grass, forage, fodder and hay, group 17, except bermudagrass; hay    | 0.10              |
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[69 FR 56718, Sept. 22, 2004, as amended at 72 FR 11789, Mar. 14, 2007; 73 FR 47065, Aug. 13, 2008; 74 FR 67128, Dec. 18, 2009; 76 FR 34885, June 15, 2011; 80 FR 72599, Nov. 20, 2015; 87 FR 42337, July 15, 2022\]

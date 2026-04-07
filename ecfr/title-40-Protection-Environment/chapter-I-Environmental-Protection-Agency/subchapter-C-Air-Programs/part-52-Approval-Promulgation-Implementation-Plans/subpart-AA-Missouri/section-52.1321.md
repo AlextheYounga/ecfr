@@ -1,6 +1,6 @@
 ##### § 52.1321 Classification of regions.
 
-The Missouri plans were evaluated on the basis of the following classifications: 
+The Missouri plans were evaluated on the basis of the following classifications:
 
 | Air quality control region          | Pollutant |
 | ----------------------------------- | --------- |

@@ -1,6 +1,6 @@
 ##### § 180.617 Metconazole; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of metconazole, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified below is to be determined by measuring only metconazole \[5-\[(4-chlorophenyl)methyl\]-2,2-dimethyl-1-(1*H*-1,2,4-triazol-1-ylmethyl)cyclopentanol\] as the sum of its *cis*\- and *trans*-isomers in or on the following commodities: 
+(a) *General.* Tolerances are established for residues of metconazole, including its metabolites and degradates, in or on the commodities in the following table. Compliance with the tolerance levels specified below is to be determined by measuring only metconazole \[5-\[(4-chlorophenyl)methyl\]-2,2-dimethyl-1-(1*H*-1,2,4-triazol-1-ylmethyl)cyclopentanol\] as the sum of its *cis*\- and *trans*-isomers in or on the following commodities:
 
 | Commodity                                                | Parts per   million |
 | -------------------------------------------------------- | ------------------- |
@@ -53,10 +53,10 @@
 | Wheat, straw                                             | 18                  |
 | 1 No U.S. registration as of August 30, 2006.            |                     |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[71 FR 56388, Sept. 27, 2006, as amended at 71 FR 76196, Dec. 20, 2006; 73 FR 22828, Apr. 28, 2008; 74 FR 21266, May 7, 2009; 76 FR 50904, Aug. 17, 2011; 76 FR 81396, Dec. 28, 2011; 77 FR 26456, May 4, 2012; 77 FR 66723, Nov. 7, 2012; 79 FR 12411, Mar. 5, 2014; 80 FR 30625. May 29, 2015\]

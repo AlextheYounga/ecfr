@@ -1,6 +1,6 @@
 ##### § 180.328 Napropamide; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of the herbicide napropamide, *N*,*N*-diethyl-2-(1-napthalenyloxy) propionamide, in or on the following food commodities: 
+(a) *General.* Tolerances are established for residues of the herbicide napropamide, *N*,*N*-diethyl-2-(1-napthalenyloxy) propionamide, in or on the following food commodities:
 
 | Commodity                           | Parts per million | Expiration/revocation date |
 | ----------------------------------- | ----------------- | -------------------------- |
@@ -26,10 +26,10 @@
 | Vegetable, brassica, leafy, group 5 | 0.1               | None                       |
 | Vegetable, fruiting, group 8        | 0.1               | None                       |
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registrations.* \[Reserved\] 
+(c) *Tolerances with regional registrations.* \[Reserved\]
 
-(d) *Indirect or inadvertent residues.* \[Reserved\] 
+(d) *Indirect or inadvertent residues.* \[Reserved\]
 
 \[73 FR 52614, Sept. 10, 2008, as amended at 76 FR 34885, June 15, 2011\]

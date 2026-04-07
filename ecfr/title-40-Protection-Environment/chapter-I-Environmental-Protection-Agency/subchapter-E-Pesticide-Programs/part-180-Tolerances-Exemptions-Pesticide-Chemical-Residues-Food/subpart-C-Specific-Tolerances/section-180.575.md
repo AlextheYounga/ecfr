@@ -1,6 +1,6 @@
 ##### § 180.575 Sulfuryl fluoride; tolerances for residues.
 
-(a)(1) *General.* Tolerances are established for residues of sulfuryl fluoride in or on the following commodities from the postharvest fumigation with sulfuryl fluoride for the control of insects: 
+(a)(1) *General.* Tolerances are established for residues of sulfuryl fluoride in or on the following commodities from the postharvest fumigation with sulfuryl fluoride for the control of insects:
 
 | Commodity                                           | Parts per million |
 | --------------------------------------------------- | ----------------- |
@@ -51,12 +51,12 @@
 | Wheat, milled byproducts, postharvest               | 0.05              |
 | Wheat, shorts, postharvest                          | 0.05              |
 
-(2) To assure safe use of this pesticide commodities treated with sulfuryl fluoride must be aerated for at least 24 hours prior to entering commerce. 
+(2) To assure safe use of this pesticide commodities treated with sulfuryl fluoride must be aerated for at least 24 hours prior to entering commerce.
 
-(b) *Section 18 emergency exemptions.* \[Reserved\] 
+(b) *Section 18 emergency exemptions.* \[Reserved\]
 
-(c) *Tolerances with regional registration.* \[Reserved\] 
+(c) *Tolerances with regional registration.* \[Reserved\]
 
-(d) *Indirect or inadvertant residues.* \[Reserved\] 
+(d) *Indirect or inadvertant residues.* \[Reserved\]
 
 \[67 FR 5740, Feb. 7, 2002, as amended at 69 FR 3257, Jan. 23, 2004; 70 FR 40908, July 15, 2005\]

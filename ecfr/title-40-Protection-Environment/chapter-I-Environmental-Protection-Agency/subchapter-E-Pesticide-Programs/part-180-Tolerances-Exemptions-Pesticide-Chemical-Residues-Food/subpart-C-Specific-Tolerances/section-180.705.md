@@ -1,6 +1,6 @@
 ##### § 180.705 Mefentrifluconazole; tolerances for residues.
 
-(a) *General.* Tolerances are established for residues of mefentrifluconazole, including its metabolites and degradates, in or on the commodities in Table 1 to this paragraph (a). Compliance with the tolerance levels specified in Table 1 to this paragraph (a) is to be determined by measuring only mefentrifluconazole, α-\[4-(4-chlorophenoxy)-2-(trifluoromethyl)phenyl\]-α-methyl-1*H*-1,2,4-triazole-1-ethanol, in or on the commodity. 
+(a) *General.* Tolerances are established for residues of mefentrifluconazole, including its metabolites and degradates, in or on the commodities in Table 1 to this paragraph (a). Compliance with the tolerance levels specified in Table 1 to this paragraph (a) is to be determined by measuring only mefentrifluconazole, α-\[4-(4-chlorophenoxy)-2-(trifluoromethyl)phenyl\]-α-methyl-1*H*-1,2,4-triazole-1-ethanol, in or on the commodity.
 
 Table 1 to Paragraph (a)
 | Commodity                                                            | Parts per million |
@@ -87,6 +87,6 @@ Table 1 to Paragraph (a)
 | Wheat, grain                                                         | 0.3               |
 | 1 There are no U.S. registrations as of December 15, 2021.           |                   |
 
-(b)-(d) \[Reserved\] 
+(b)-(d) \[Reserved\]
 
 \[84 FR 30945, June 28, 2019, as amended at 85 FR 71000, Nov. 6, 2020; 86 FR 71158, Dec. 15, 2021\]
