@@ -796,7 +796,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | La Grande            | \*13, 16                                            |
 | Medford              | 5, \*8, 10, 12, 26                                  |
 | Pendleton            | 11                                                  |
-| Portland             | \*10, 12, 24, 25, 26, 32                            |
+| Portland             | \*10, 21, 24, 25, 26, 32                            |
 | Roseburg             | 18, 19, 36                                          |
 | Salem                | 22, 33                                              |
 | Pennsylvania         |                                                     |
