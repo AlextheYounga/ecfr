@@ -1,8 +1,8 @@
 ##### § 603.20 What is the purpose and scope of this subpart?
 
-(a) *Purpose.* Subpart C implements Section 303(f), SSA. Section 303(f) requires States to have in effect an income and eligibility verification system, which meets the requirements of Section 1137, SSA, under which information is requested and exchanged for the purpose of verifying eligibility for, and the amount of, benefits available under several federally assisted programs, including the Federal-State UC program. 
+(a) *Purpose.* Subpart C implements Section 303(f), SSA. Section 303(f) requires States to have in effect an income and eligibility verification system, which meets the requirements of Section 1137, SSA, under which information is requested and exchanged for the purpose of verifying eligibility for, and the amount of, benefits available under several federally assisted programs, including the Federal-State UC program.
 
-(b) *Scope.* This subpart C applies only to a State UC agency. 
+(b) *Scope.* This subpart C applies only to a State UC agency.
 
 Note to paragraph (b):
 

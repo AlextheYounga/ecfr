@@ -1,12 +1,12 @@
 ##### § 422.515 Forms used for withdrawal, reconsideration and other appeals, appointment of representative, and representative registration.
 
-The following is a list of forms prescribed by the Social Security Administration for use by the public to request a withdrawal of an application, a reconsideration of an initial determination, a hearing, a review of an administrative law judge's decision, or for use where a person is authorized to represent a claimant. 
+The following is a list of forms prescribed by the Social Security Administration for use by the public to request a withdrawal of an application, a reconsideration of an initial determination, a hearing, a review of an administrative law judge's decision, or for use where a person is authorized to represent a claimant.
 
 SSA-521—Request for Withdrawal of Application. (For use by an individual to cancel his application.) SSA-561—Request for Reconsideration. (For use by an individual who disagrees with an initial determination concerning (a) entitlement to benefits or any other right under title II of the Social Security Act, or (b) entitlement to hospital insurance benefits or supplementary medical insurance benefits under title XVIII of the act, or (c) entitlement to black lung benefits under title IV of the Federal Coal Mine Health and Safety Act. See § 422.140 for a discussion of the reconsideration procedure.)
 
-SSA-1696—Claimant's Appointment of a Representative. (For use by claimants or representatives as a notice of their appointment of a representative in a claim, issue, or other matter that is pending a determination or a decision before us). 
+SSA-1696—Claimant's Appointment of a Representative. (For use by claimants or representatives as a notice of their appointment of a representative in a claim, issue, or other matter that is pending a determination or a decision before us).
 
-SSA-1699—Representative Registration. (For use by individuals to register with us as representatives prior to appointment as a representative on a claim or designation as a point of contact for an entity). 
+SSA-1699—Representative Registration. (For use by individuals to register with us as representatives prior to appointment as a representative on a claim or designation as a point of contact for an entity).
 
 SSA-1763—Request for Termination of Supplementary Medical Insurance. (For use by an enrollee in requesting that his supplementary medical insurance coverage be terminated.) SSA-1965—Request for Hearing—Part B Medicare Claim. (For use by an individual enrollee or his assignee to obtain a hearing before a hearing officer designated by the carrier concerning benefits payable under part B of title XVIII.) HA-501—Request for Hearing. (For use by an individual or institution to obtain a hearing on a claim for title II benefits before an administrative law judge of the Social Security Administration.) Note:
 

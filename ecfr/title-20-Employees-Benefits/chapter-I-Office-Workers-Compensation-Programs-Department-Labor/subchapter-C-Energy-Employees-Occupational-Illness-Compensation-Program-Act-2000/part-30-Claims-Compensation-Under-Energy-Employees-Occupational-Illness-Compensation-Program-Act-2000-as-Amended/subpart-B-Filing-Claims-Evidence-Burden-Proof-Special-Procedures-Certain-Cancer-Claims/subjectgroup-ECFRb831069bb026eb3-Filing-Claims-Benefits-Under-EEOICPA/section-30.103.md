@@ -1,6 +1,6 @@
 ##### § 30.103 How does a claimant make sure that OWCP has the evidence necessary to process the claim?
 
-(a) Claims and certain required submissions should be made on forms prescribed by OWCP. Persons submitting forms shall not modify these forms or use substitute forms. 
+(a) Claims and certain required submissions should be made on forms prescribed by OWCP. Persons submitting forms shall not modify these forms or use substitute forms.
 
 | Form No. | Title                                                                                                              |
 | -------- | ------------------------------------------------------------------------------------------------------------------ |
