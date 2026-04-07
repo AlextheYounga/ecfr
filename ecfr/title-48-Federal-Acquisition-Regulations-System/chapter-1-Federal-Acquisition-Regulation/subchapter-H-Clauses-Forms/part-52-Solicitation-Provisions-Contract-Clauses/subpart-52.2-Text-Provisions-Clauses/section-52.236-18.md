@@ -1,6 +1,6 @@
 ##### 52.236-18 Work Oversight in Cost-Reimbursement Construction Contracts.
 
-As prescribed in 36.518, insert the following clause in solicitations and contracts when cost-reimbursement construction contracts are contemplated: 
+As prescribed in 36.518, insert the following clause in solicitations and contracts when cost-reimbursement construction contracts are contemplated:
 
 Work Oversight in Cost-Reimbursement Construction Contracts (APR 1984)
 

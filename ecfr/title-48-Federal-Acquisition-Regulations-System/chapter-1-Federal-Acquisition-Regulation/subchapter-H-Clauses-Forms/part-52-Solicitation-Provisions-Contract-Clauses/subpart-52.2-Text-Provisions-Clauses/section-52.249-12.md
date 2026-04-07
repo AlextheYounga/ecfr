@@ -1,6 +1,6 @@
 ##### 52.249-12 Termination (Personal Services).
 
-As prescribed in 49.505(a), insert the following clause in solicitations and contracts for personal services (see part 37): 
+As prescribed in 49.505(a), insert the following clause in solicitations and contracts for personal services (see part 37):
 
 Termination (Personal Services) (APR 1984)
 

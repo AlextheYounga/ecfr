@@ -1,6 +1,6 @@
 ##### 52.223-19 Compliance with Environmental Management Systems.
 
-As prescribed in 23.406(b), insert the following clause: 
+As prescribed in 23.406(b), insert the following clause:
 
 Compliance With Environmental Management Systems (MAY 2011)
 

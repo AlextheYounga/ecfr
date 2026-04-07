@@ -1,10 +1,10 @@
 ##### 52.237-9 Waiver of Limitation on Severance Payments to Foreign Nationals.
 
-As prescribed in 37.113-2(b), use the following clause: 
+As prescribed in 37.113-2(b), use the following clause:
 
 Waiver of Limitation on Severance Payments to Foreign Nationals (DEC 2022)
 
-(a) Pursuant to 10 U.S.C. 3744(b) or 41 U.S.C. 4304(b)(1), as applicable, the cost allowability limitations in FAR 31.205-6(g)(6) are waived. 
+(a) Pursuant to 10 U.S.C. 3744(b) or 41 U.S.C. 4304(b)(1), as applicable, the cost allowability limitations in FAR 31.205-6(g)(6) are waived.
 
 (b) This clause may be incorporated into subcontracts issued under this contract, if approved by the Contracting Officer.
 

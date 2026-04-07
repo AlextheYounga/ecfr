@@ -1,6 +1,6 @@
 ##### 52.236-7 Permits and Responsibilities.
 
-As prescribed in 36.507, insert the following clause: 
+As prescribed in 36.507, insert the following clause:
 
 Permits and Responsibilities (NOV 1991)
 

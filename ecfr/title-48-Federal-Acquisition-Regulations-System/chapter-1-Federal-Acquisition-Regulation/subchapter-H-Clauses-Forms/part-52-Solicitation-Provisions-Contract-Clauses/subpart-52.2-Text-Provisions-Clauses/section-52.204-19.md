@@ -1,6 +1,6 @@
 ##### 52.204-19 Incorporation by Reference of Representations and Certifications.
 
-As prescribed in 4.1202(b), insert the following clause: 
+As prescribed in 4.1202(b), insert the following clause:
 
 Incorporation by Reference of Representations and Certifications (DEC 2014)
 

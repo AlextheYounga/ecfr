@@ -1,20 +1,20 @@
 ##### 25.401 Exceptions.
 
-(a) This subpart does not apply to— 
+(a) This subpart does not apply to—
 
-(1) Acquisitions set aside for small businesses; 
+(1) Acquisitions set aside for small businesses;
 
-(2) Acquisitions of arms, ammunition, or war materials, or purchases indispensable for national security or for national defense purposes; 
+(2) Acquisitions of arms, ammunition, or war materials, or purchases indispensable for national security or for national defense purposes;
 
-(3) Acquisitions of end products for resale; 
+(3) Acquisitions of end products for resale;
 
-(4) Acquisitions from Federal Prison Industries, Inc., under Subpart 8.6, and acquisitions under Subpart 8.7, Acquisition from Nonprofit Agencies Employing People Who Are Blind or Severely Disabled; 
+(4) Acquisitions from Federal Prison Industries, Inc., under Subpart 8.6, and acquisitions under Subpart 8.7, Acquisition from Nonprofit Agencies Employing People Who Are Blind or Severely Disabled;
 
-(5) Other acquisitions not using full and open competition, if authorized by Subpart 6.2 or 6.3, when the limitation of competition would preclude use of the procedures of this subpart; or sole source acquisitions justified in accordance with 13.501(a); and 
+(5) Other acquisitions not using full and open competition, if authorized by Subpart 6.2 or 6.3, when the limitation of competition would preclude use of the procedures of this subpart; or sole source acquisitions justified in accordance with 13.501(a); and
 
-(6) Goods and services specifically excluded under individual trade agreements, such as exceptions negotiated by the U.S. Trade Representative for particular agencies. See the agency supplementary regulations. 
+(6) Goods and services specifically excluded under individual trade agreements, such as exceptions negotiated by the U.S. Trade Representative for particular agencies. See the agency supplementary regulations.
 
-(b) In the World Trade Organization Government Procurement Agreement (WTO GPA) and each FTA, there is a U.S. schedule that lists services that are excluded from that agreement in acquisitions by the United States. Acquisitions of the following services are excluded from coverage by the U.S. schedule of the WTO GPA or an FTA as indicated in this table: 
+(b) In the World Trade Organization Government Procurement Agreement (WTO GPA) and each FTA, there is a U.S. schedule that lists services that are excluded from that agreement in acquisitions by the United States. Acquisitions of the following services are excluded from coverage by the U.S. schedule of the WTO GPA or an FTA as indicated in this table:
 
 |                                                                                                                                                                                        | The service   (Federal Service Codes from the Federal Procurement Data System Product/Service Code Manual are indicated in parentheses for some services.)                                                                                                                                                        | WTO GPA AND KOREA FTA | Bahrain FTA, CAFTA-DR, Chile FTA, Columbia FTA, USMCA, Oman FTA, Panama FTA, and Peru FTA | Singapore FTA | Australia and Morocco FTA |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ----------------------------------------------------------------------------------------- | ------------- | ------------------------- |

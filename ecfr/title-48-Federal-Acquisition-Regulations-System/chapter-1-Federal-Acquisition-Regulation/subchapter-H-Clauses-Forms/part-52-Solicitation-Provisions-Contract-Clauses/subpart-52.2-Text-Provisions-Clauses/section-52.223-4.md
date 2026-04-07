@@ -1,6 +1,6 @@
 ##### 52.223-4 Recovered Material Certification.
 
-As prescribed in 23.109(b)(1), insert the following provision: 
+As prescribed in 23.109(b)(1), insert the following provision:
 
 Recovered Material Certification (MAY 2008)
 

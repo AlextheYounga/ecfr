@@ -1,10 +1,10 @@
 ##### 52.247-2 Permits, Authorities, or Franchises.
 
-As prescribed in 47.207-1(a), insert the following clause: 
+As prescribed in 47.207-1(a), insert the following clause:
 
 Permits, Authorities, or Franchises (JAN 1997)
 
-(a) The offeror does □, does not □, hold authorization from the Federal Highway Administration (FHWA) or other cognizant regulatory body. If authorization is held, it is as follows: 
+(a) The offeror does □, does not □, hold authorization from the Federal Highway Administration (FHWA) or other cognizant regulatory body. If authorization is held, it is as follows:
 
 (Name of regulatory body) (Authorization No.)
 

@@ -1,6 +1,6 @@
 ##### 52.201-1 Acquisition 360: Voluntary Survey.
 
-As prescribed in 1.102-3(b), insert the following provision: 
+As prescribed in 1.102-3(b), insert the following provision:
 
 Acquisition 360: Voluntary Survey (SEP 2023)
 

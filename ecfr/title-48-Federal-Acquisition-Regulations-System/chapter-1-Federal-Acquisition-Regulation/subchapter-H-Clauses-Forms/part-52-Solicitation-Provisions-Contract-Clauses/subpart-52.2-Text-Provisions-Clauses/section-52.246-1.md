@@ -1,6 +1,6 @@
 ##### 52.246-1 Contractor Inspection Requirements.
 
-As prescribed in 46.301, insert the following clause: 
+As prescribed in 46.301, insert the following clause:
 
 Contractor Inspection Requirements (APR 1984)
 

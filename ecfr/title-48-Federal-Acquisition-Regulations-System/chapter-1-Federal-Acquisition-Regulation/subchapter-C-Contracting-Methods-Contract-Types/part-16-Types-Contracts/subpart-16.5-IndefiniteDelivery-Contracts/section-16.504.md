@@ -1,87 +1,89 @@
 ##### 16.504 Indefinite-quantity contracts.
 
-(a) *Description.* An indefinite-quantity contract provides for an indefinite quantity, within stated limits, of supplies or services during a fixed period. The Government places orders for individual requirements. Quantity limits may be stated as number of units or as dollar values. 
+Link to an amendment published at 90 FR 41878, Aug. 27, 2025.
 
-(1) The contract must require the Government to order and the contractor to furnish at least a stated minimum quantity of supplies or services. In addition, if ordered, the contractor must furnish any additional quantities, not to exceed the stated maximum. The contracting officer should establish a reasonable maximum quantity based on market research, trends on recent contracts for similar supplies or services, survey of potential users, or any other rational basis. 
+(a) *Description.* An indefinite-quantity contract provides for an indefinite quantity, within stated limits, of supplies or services during a fixed period. The Government places orders for individual requirements. Quantity limits may be stated as number of units or as dollar values.
 
-(2) To ensure that the contract is binding, the minimum quantity must be more than a nominal quantity, but it should not exceed the amount that the Government is fairly certain to order. 
+(1) The contract must require the Government to order and the contractor to furnish at least a stated minimum quantity of supplies or services. In addition, if ordered, the contractor must furnish any additional quantities, not to exceed the stated maximum. The contracting officer should establish a reasonable maximum quantity based on market research, trends on recent contracts for similar supplies or services, survey of potential users, or any other rational basis.
 
-(3) The contract may also specify maximum or minimum quantities that the Government may order under each task or delivery order and the maximum that it may order during a specific period of time. 
+(2) To ensure that the contract is binding, the minimum quantity must be more than a nominal quantity, but it should not exceed the amount that the Government is fairly certain to order.
 
-(4) A solicitation and contract for an indefinite quantity must— 
+(3) The contract may also specify maximum or minimum quantities that the Government may order under each task or delivery order and the maximum that it may order during a specific period of time.
 
-(i) Specify the period of the contract, including the number of options and the period for which the Government may extend the contract under each option; 
+(4) A solicitation and contract for an indefinite quantity must—
 
-(ii) Specify the total minimum and maximum quantity of supplies or services the Government will acquire under the contract; 
+(i) Specify the period of the contract, including the number of options and the period for which the Government may extend the contract under each option;
 
-(iii) Include a statement of work, specifications, or other description, that reasonably describes the general scope, nature, complexity, and purpose of the supplies or services the Government will acquire under the contract in a manner that will enable a prospective offeror to decide whether to submit an offer; 
+(ii) Specify the total minimum and maximum quantity of supplies or services the Government will acquire under the contract;
 
-(iv) State the procedures that the Government will use in issuing orders, including the ordering media, and, if multiple awards may be made, state the procedures and selection criteria that the Government will use to provide awardees a fair opportunity to be considered for each order (see 16.505(b)(1)); 
+(iii) Include a statement of work, specifications, or other description, that reasonably describes the general scope, nature, complexity, and purpose of the supplies or services the Government will acquire under the contract in a manner that will enable a prospective offeror to decide whether to submit an offer;
 
-(v) Include a description of the activities authorized to issue orders; and 
+(iv) State the procedures that the Government will use in issuing orders, including the ordering media, and, if multiple awards may be made, state the procedures and selection criteria that the Government will use to provide awardees a fair opportunity to be considered for each order (see 16.505(b)(1));
 
-(vi) Include authorization for placing oral orders, if appropriate, provided that the Government has established procedures for obligating funds and that oral orders are confirmed in writing. 
+(v) Include a description of the activities authorized to issue orders; and
 
-(b) *Application.* Contracting officers may use an indefinite-quantity contract when the Government cannot predetermine, above a specified minimum, the precise quantities of supplies or services that the Government will require during the contract period, and it is inadvisable for the Government to commit itself for more than a minimum quantity. The contracting officer should use an indefinite-quantity contract only when a recurring need is anticipated. 
+(vi) Include authorization for placing oral orders, if appropriate, provided that the Government has established procedures for obligating funds and that oral orders are confirmed in writing.
 
-(c) *Multiple award preference*—(1) *Planning the acquisition.* (i) Except for indefinite-quantity contracts for advisory and assistance services as provided in paragraph (c)(2) of this section, the contracting officer must, to the maximum extent practicable, give preference to making multiple awards of indefinite-quantity contracts under a single solicitation for the same or similar supplies or services to two or more sources. 
+(b) *Application.* Contracting officers may use an indefinite-quantity contract when the Government cannot predetermine, above a specified minimum, the precise quantities of supplies or services that the Government will require during the contract period, and it is inadvisable for the Government to commit itself for more than a minimum quantity. The contracting officer should use an indefinite-quantity contract only when a recurring need is anticipated.
 
-(ii)(A) The contracting officer must determine whether multiple awards are appropriate as part of acquisition planning. The contracting officer must avoid situations in which awardees specialize exclusively in one or a few areas within the statement of work, thus creating the likelihood that orders in those areas will be awarded on a sole-source basis; however, each awardee need not be capable of performing every requirement as well as any other awardee under the contracts. The contracting officer should consider the following when determining the number of contracts to be awarded: 
+(c) *Multiple award preference*—(1) *Planning the acquisition.* (i) Except for indefinite-quantity contracts for advisory and assistance services as provided in paragraph (c)(2) of this section, the contracting officer must, to the maximum extent practicable, give preference to making multiple awards of indefinite-quantity contracts under a single solicitation for the same or similar supplies or services to two or more sources.
 
-(*1*) The scope and complexity of the contract requirement. 
+(ii)(A) The contracting officer must determine whether multiple awards are appropriate as part of acquisition planning. The contracting officer must avoid situations in which awardees specialize exclusively in one or a few areas within the statement of work, thus creating the likelihood that orders in those areas will be awarded on a sole-source basis; however, each awardee need not be capable of performing every requirement as well as any other awardee under the contracts. The contracting officer should consider the following when determining the number of contracts to be awarded:
 
-(*2*) The expected duration and frequency of task or delivery orders. 
+(*1*) The scope and complexity of the contract requirement.
 
-(*3*) The mix of resources a contractor must have to perform expected task or delivery order requirements. 
+(*2*) The expected duration and frequency of task or delivery orders.
 
-(*4*) The ability to maintain competition among the awardees throughout the contracts' period of performance. 
+(*3*) The mix of resources a contractor must have to perform expected task or delivery order requirements.
 
-(B) The contracting officer must not use the multiple award approach if— 
+(*4*) The ability to maintain competition among the awardees throughout the contracts' period of performance.
 
-(*1*) Only one contractor is capable of providing performance at the level of quality required because the supplies or services are unique or highly specialized; 
+(B) The contracting officer must not use the multiple award approach if—
 
-(*2*) Based on the contracting officer's knowledge of the market, more favorable terms and conditions, including pricing, will be provided if a single award is made; 
+(*1*) Only one contractor is capable of providing performance at the level of quality required because the supplies or services are unique or highly specialized;
 
-(*3*) The expected cost of administration of multiple contracts outweighs the expected benefits of making multiple awards; 
+(*2*) Based on the contracting officer's knowledge of the market, more favorable terms and conditions, including pricing, will be provided if a single award is made;
 
-(*4*) The projected orders are so integrally related that only a single contractor can reasonably perform the work; 
+(*3*) The expected cost of administration of multiple contracts outweighs the expected benefits of making multiple awards;
 
-(*5*) The total estimated value of the contract is at or below the simplified acquisition threshold; or 
+(*4*) The projected orders are so integrally related that only a single contractor can reasonably perform the work;
 
-(*6*) Multiple awards would not be in the best interests of the Government. 
+(*5*) The total estimated value of the contract is at or below the simplified acquisition threshold; or
 
-(C) The contracting officer must document the decision whether or not to use multiple awards in the acquisition plan or contract file. The contracting officer may determine that a class of acquisitions is not appropriate for multiple awards (see subpart 1.7). 
+(*6*) Multiple awards would not be in the best interests of the Government.
 
-(D)(*1*) No task or delivery order contract in an amount estimated to exceed $100 million (including all options) may be awarded to a single source unless the head of the agency determines in writing that— 
+(C) The contracting officer must document the decision whether or not to use multiple awards in the acquisition plan or contract file. The contracting officer may determine that a class of acquisitions is not appropriate for multiple awards (see subpart 1.7).
 
-(*i*) The task or delivery orders expected under the contract are so integrally related that only a single source can reasonably perform the work; 
+(D)(*1*) No task or delivery order contract in an amount estimated to exceed $100 million (including all options) may be awarded to a single source unless the head of the agency determines in writing that—
 
-(*ii*) The contract provides only for firm-fixed price (see 16.202) task or delivery orders for— 
+(*i*) The task or delivery orders expected under the contract are so integrally related that only a single source can reasonably perform the work;
 
-(*A*) Products for which unit prices are established in the contract; or 
+(*ii*) The contract provides only for firm-fixed price (see 16.202) task or delivery orders for—
 
-(*B*) Services for which prices are established in the contract for the specific tasks to be performed; 
+(*A*) Products for which unit prices are established in the contract; or
 
-(*iii*) Only one source is qualified and capable of performing the work at a reasonable price to the Government; or 
+(*B*) Services for which prices are established in the contract for the specific tasks to be performed;
 
-(*iv*) It is necessary in the public interest to award the contract to a single source due to exceptional circumstances. 
+(*iii*) Only one source is qualified and capable of performing the work at a reasonable price to the Government; or
 
-(*2*) The head of the agency must notify Congress within 30 days after any determination under paragraph (c)(1)(ii)(D)(*1*)(*iv*) of this section. 
+(*iv*) It is necessary in the public interest to award the contract to a single source due to exceptional circumstances.
 
-(*3*) The requirement for a determination for a single-award contract greater than $100 million— 
+(*2*) The head of the agency must notify Congress within 30 days after any determination under paragraph (c)(1)(ii)(D)(*1*)(*iv*) of this section.
 
-(*i*) Is in addition to any applicable requirements of Subpart 6.3; and 
+(*3*) The requirement for a determination for a single-award contract greater than $100 million—
 
-(*ii*) Is not applicable for architect-engineer services awarded pursuant to Subpart 36.6. 
+(*i*) Is in addition to any applicable requirements of Subpart 6.3; and
 
-(2) *Contracts for advisory and assistance services.* (i) Except as provided in paragraph (c)(2)(ii) of this section, if an indefinite-quantity contract for advisory and assistance services exceeds 3 years and $15 million, including all options, the contracting officer must make multiple awards unless— 
+(*ii*) Is not applicable for architect-engineer services awarded pursuant to Subpart 36.6.
 
-(A) The contracting officer or other official designated by the head of the agency determines in writing, as part of acquisition planning, that multiple awards are not practicable. The contracting officer or other official must determine that only one contractor can reasonably perform the work because either the scope of work is unique or highly specialized or the tasks so integrally related; 
+(2) *Contracts for advisory and assistance services.* (i) Except as provided in paragraph (c)(2)(ii) of this section, if an indefinite-quantity contract for advisory and assistance services exceeds 3 years and $15 million, including all options, the contracting officer must make multiple awards unless—
 
-(B) The contracting officer or other official designated by the head of the agency determines in writing, after the evaluation of offers, that only one offeror is capable of providing the services required at the level of quality required; or 
+(A) The contracting officer or other official designated by the head of the agency determines in writing, as part of acquisition planning, that multiple awards are not practicable. The contracting officer or other official must determine that only one contractor can reasonably perform the work because either the scope of work is unique or highly specialized or the tasks so integrally related;
 
-(C) Only one offer is received. 
+(B) The contracting officer or other official designated by the head of the agency determines in writing, after the evaluation of offers, that only one offeror is capable of providing the services required at the level of quality required; or
 
-(ii) The requirements of paragraph (c)(2)(i) of this section do not apply if the contracting officer or other official designated by the head of the agency determines that the advisory and assistance services are incidental and not a significant component of the contract. 
+(C) Only one offer is received.
+
+(ii) The requirements of paragraph (c)(2)(i) of this section do not apply if the contracting officer or other official designated by the head of the agency determines that the advisory and assistance services are incidental and not a significant component of the contract.
 
 \[65 FR 24318, Apr. 25, 2000, as amended at 71 FR 57367, Sept. 28, 2006; 73 FR 54010, Sept. 17, 2008; 75 FR 13421, Mar. 19, 2010; 75 FR 53133, Aug. 30, 2010; 78 FR 13767, Feb. 28, 2013; 80 FR 38297, July 2, 2015; 84 FR 38838, Aug. 7, 2019; 85 FR 40071, July 2, 2020; 85 FR 62488, Oct. 2, 2020\]

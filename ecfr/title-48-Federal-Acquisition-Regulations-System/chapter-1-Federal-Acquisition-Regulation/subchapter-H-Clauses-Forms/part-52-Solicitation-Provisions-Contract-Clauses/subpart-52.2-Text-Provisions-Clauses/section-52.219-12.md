@@ -1,18 +1,18 @@
 ##### 52.219-12 Special 8(a) Subcontract Conditions.
 
-As prescribed in 19.811-3(b), insert the following clause: 
+As prescribed in 19.811-3(b), insert the following clause:
 
 Special 8(a) Subcontract Conditions (OCT 2019)
 
-(a) The Small Business Administration (SBA) has entered into Contract No. \_\_\_\_ \[*insert number of contract*\] with the \_\_\_\_ \[*insert name of contracting agency*\] to furnish the supplies or services as described therein. A copy of the contract is attached hereto and made a part hereof. 
+(a) The Small Business Administration (SBA) has entered into Contract No. \_\_\_\_ \[*insert number of contract*\] with the \_\_\_\_ \[*insert name of contracting agency*\] to furnish the supplies or services as described therein. A copy of the contract is attached hereto and made a part hereof.
 
-(b) The \_\_\_\_ \[*insert name of subcontractor*\], hereafter referred to as the subcontractor, agrees and acknowledges as follows: 
+(b) The \_\_\_\_ \[*insert name of subcontractor*\], hereafter referred to as the subcontractor, agrees and acknowledges as follows:
 
-(1) That it will, for and on behalf of the SBA, fulfill and perform all of the requirements of Contract No. \_\_\_ \[*insert number of contract*\] for the consideration stated therein and that it has read and is familiar with each and every part of the contract. 
+(1) That it will, for and on behalf of the SBA, fulfill and perform all of the requirements of Contract No. \_\_\_ \[*insert number of contract*\] for the consideration stated therein and that it has read and is familiar with each and every part of the contract.
 
-(2) That the SBA has delegated responsibility, except for novation agreements, for the administration of this subcontract to the \_\_\_ \[*insert name of contracting agency*\] with complete authority to take any action on behalf of the Government und\_d conditions of this subcontract. 
+(2) That the SBA has delegated responsibility, except for novation agreements, for the administration of this subcontract to the \_\_\_ \[*insert name of contracting agency*\] with complete authority to take any action on behalf of the Government und\_d conditions of this subcontract.
 
-(3) That it will notify the \[*insert name of contracting agency*\] Contracting Officer in writing immediately upon entering an agreement (either oral or written) to transfer all or part of its stock or other ownership interest to any other party. 
+(3) That it will notify the \[*insert name of contracting agency*\] Contracting Officer in writing immediately upon entering an agreement (either oral or written) to transfer all or part of its stock or other ownership interest to any other party.
 
 (c) Payments, including any progress payments under this subcontract, will be made directly to the subcontractor by the \_\_\_\_ \[*insert name of contracting agency*\].
 

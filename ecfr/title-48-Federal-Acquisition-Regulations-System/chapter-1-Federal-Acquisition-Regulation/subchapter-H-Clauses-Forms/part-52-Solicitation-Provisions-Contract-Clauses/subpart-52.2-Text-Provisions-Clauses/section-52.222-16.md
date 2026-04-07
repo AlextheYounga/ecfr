@@ -1,6 +1,6 @@
 ##### 52.222-16 Approval of Wage Rates.
 
-As prescribed in 22.407(b), insert the following clause: 
+As prescribed in 22.407(b), insert the following clause:
 
 Approval of Wage Rates (MAY 2014)
 

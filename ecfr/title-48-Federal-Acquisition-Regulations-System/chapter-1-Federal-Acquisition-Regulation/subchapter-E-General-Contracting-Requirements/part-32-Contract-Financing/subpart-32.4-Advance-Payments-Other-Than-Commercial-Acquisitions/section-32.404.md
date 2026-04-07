@@ -1,29 +1,31 @@
 ##### 32.404 Exclusions.
 
-(a) This subpart does not apply to advance payments authorized by law for— 
+Link to an amendment published at 90 FR 41879, Aug. 27, 2025.
 
-(1) Rent; 
+(a) This subpart does not apply to advance payments authorized by law for—
 
-(2) Tuition; 
+(1) Rent;
 
-(3) Insurance premiums; 
+(2) Tuition;
 
-(4) Expenses of investigations in foreign countries; 
+(3) Insurance premiums;
 
-(5) Extension or connection of public utilities for Government buildings or installations; 
+(4) Expenses of investigations in foreign countries;
 
-(6) Subscriptions to publications; 
+(5) Extension or connection of public utilities for Government buildings or installations;
 
-(7) Purchases of supplies or services in foreign countries, if— 
+(6) Subscriptions to publications;
 
-(i) The purchase price does not exceed $15,000 (or equivalent amount of the applicable foreign currency); and 
+(7) Purchases of supplies or services in foreign countries, if—
 
-(ii) The advance payment is required by the laws or government regulations of the foreign country concerned; 
+(i) The purchase price does not exceed $15,000 (or equivalent amount of the applicable foreign currency); and
 
-(8) Enforcement of the customs or narcotics laws; or 
+(ii) The advance payment is required by the laws or government regulations of the foreign country concerned;
 
-(9) Other types of transactions excluded by agency procedures under statutory authority. 
+(8) Enforcement of the customs or narcotics laws; or
 
-(b) Agencies may issue their own instructions to deal with advance payment items in paragraph (a) above authorized under statutes relevant to their agencies. 
+(9) Other types of transactions excluded by agency procedures under statutory authority.
+
+(b) Agencies may issue their own instructions to deal with advance payment items in paragraph (a) above authorized under statutes relevant to their agencies.
 
 \[48 FR 42328, Sept. 19, 1983, as amended at 75 FR 53134, Aug. 30, 2010\]

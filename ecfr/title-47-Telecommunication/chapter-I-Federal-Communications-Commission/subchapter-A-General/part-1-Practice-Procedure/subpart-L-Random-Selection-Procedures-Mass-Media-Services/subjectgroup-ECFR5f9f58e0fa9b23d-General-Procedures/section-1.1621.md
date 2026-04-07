@@ -1,48 +1,48 @@
 ##### § 1.1621 Definitions.
 
-(a) *Medium of mass communications* means: 
+(a) *Medium of mass communications* means:
 
-(1) A daily newspaper; 
+(1) A daily newspaper;
 
-(2) A cable television system; and 
+(2) A cable television system; and
 
-(3) A license or construction permit for 
+(3) A license or construction permit for
 
-(i) A television station, including low power TV or TV translator, 
+(i) A television station, including low power TV or TV translator,
 
-(ii) A standard (AM) radio station, 
+(ii) A standard (AM) radio station,
 
-(iii) An FM radio station, 
+(iii) An FM radio station,
 
-(iv) A direct broadcast satellite transponder under the editorial control of the licensee, and 
+(iv) A direct broadcast satellite transponder under the editorial control of the licensee, and
 
-(v) A Multipoint Distribution Service station. 
+(v) A Multipoint Distribution Service station.
 
-(b) *Minority group* means: 
+(b) *Minority group* means:
 
-(1) Blacks, 
+(1) Blacks,
 
-(2) Hispanics 
+(2) Hispanics
 
-(3) American Indians, 
+(3) American Indians,
 
-(4) Alaska Natives, 
+(4) Alaska Natives,
 
-(5) Asians, and 
+(5) Asians, and
 
-(6) Pacific Islanders. 
+(6) Pacific Islanders.
 
-(c) *Owner* means the applicant and any individual, partnership, trust, unincorporated association, or corporation which: 
+(c) *Owner* means the applicant and any individual, partnership, trust, unincorporated association, or corporation which:
 
-(1) If the applicant is a proprietorship, is the proprietor, 
+(1) If the applicant is a proprietorship, is the proprietor,
 
-(2) If the applicant is a partnership, holds any partnership interest, 
+(2) If the applicant is a partnership, holds any partnership interest,
 
-(3) If the applicant is a trust, is the beneficiary thereof, 
+(3) If the applicant is a trust, is the beneficiary thereof,
 
-(4) If the applicant is an unincorporated association or non-stock corporation, is a member, or, in the case of a nonmembership association or corporation, a director, 
+(4) If the applicant is an unincorporated association or non-stock corporation, is a member, or, in the case of a nonmembership association or corporation, a director,
 
-(5) If the applicant is a stock corporation, is the beneficial owner of voting shares. 
+(5) If the applicant is a stock corporation, is the beneficial owner of voting shares.
 
 Note 1:
 

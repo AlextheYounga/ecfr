@@ -1,6 +1,6 @@
 ##### 52.222-7 Withholding of Funds.
 
-As prescribed in 22.407(a), insert the following clause: 
+As prescribed in 22.407(a), insert the following clause:
 
 Withholding of Funds (MAY 2014)
 
