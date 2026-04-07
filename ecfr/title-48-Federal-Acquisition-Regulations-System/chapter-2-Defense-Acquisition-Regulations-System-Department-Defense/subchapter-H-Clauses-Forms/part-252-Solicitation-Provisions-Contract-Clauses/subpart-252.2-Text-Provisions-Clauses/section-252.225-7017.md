@@ -2,7 +2,7 @@
 
 As prescribed in 225.7017-4(a), use the following clause:
 
-Photovoltaic Devices (JAN 2022)
+Photovoltaic Devices (MAR 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -94,6 +94,7 @@ Photovoltaic Devices (JAN 2022)
 *   Italy
 *   Japan
 *   Latvia
+*   Lithuania
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -136,4 +137,4 @@ Photovoltaic Devices (JAN 2022)
 
 (5) $183,000 or more, then the Contractor shall utilize under this contract only U.S.-made, designated country, or qualifying country photovoltaic devices.
 
-(End of clause) \[76 FR 78861, Dec. 20, 2011, as amended at 77 FR 13013, Mar. 5, 2012; 77 FR 30357, 30361, May 22, 2012; 77 FR 31537, May 29, 2012; 77 FR 38737, June 29, 2012; 77 FR 52254, Aug. 29, 2012; 77 FR 68700, Nov. 16, 2012; 77 FR 76942, Dec. 31, 2012; 78 FR 48334, Aug. 8, 2013; 78 FR 65221, Oct. 31, 2013; 78 FR 76995, Dec. 20, 2013; 78 FR 79621, Dec. 31, 2013; 80 FR 36905, June 26, 2015; 80 FR 67254, Oct. 30, 2015; 80 FR 72604, Nov. 20, 2015; 80 FR 81471, Dec. 30, 2015; 81 FR 42563, June 30, 2016; 81 FR 50651, Aug. 2, 2016; 81 FR 65568, Sept. 23, 2016; 81 FR 93841, Dec. 22, 2016; 82 FR 61483; 82 FR 61484, Dec. 28, 2017; 83 FR 62500, Dec. 4, 2018; 84 FR 39208, Aug. 9, 2019; 84 FR 72247, Dec. 31, 2019; 86 FR 74377, Dec. 30, 2021\]
+(End of clause) \[76 FR 78861, Dec. 20, 2011, as amended at 77 FR 13013, Mar. 5, 2012; 77 FR 30357, 30361, May 22, 2012; 77 FR 31537, May 29, 2012; 77 FR 38737, June 29, 2012; 77 FR 52254, Aug. 29, 2012; 77 FR 68700, Nov. 16, 2012; 77 FR 76942, Dec. 31, 2012; 78 FR 48334, Aug. 8, 2013; 78 FR 65221, Oct. 31, 2013; 78 FR 76995, Dec. 20, 2013; 78 FR 79621, Dec. 31, 2013; 80 FR 36905, June 26, 2015; 80 FR 67254, Oct. 30, 2015; 80 FR 72604, Nov. 20, 2015; 80 FR 81471, Dec. 30, 2015; 81 FR 42563, June 30, 2016; 81 FR 50651, Aug. 2, 2016; 81 FR 65568, Sept. 23, 2016; 81 FR 93841, Dec. 22, 2016; 82 FR 61483; 82 FR 61484, Dec. 28, 2017; 83 FR 62500, Dec. 4, 2018; 84 FR 39208, Aug. 9, 2019; 84 FR 72247, Dec. 31, 2019; 86 FR 74377, Dec. 30, 2021; 87 FR 15816, Mar. 18, 2022\]

@@ -60,6 +60,7 @@ As used in this part -
 *   Italy
 *   Japan
 *   Latvia
+*   Lithuania
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -94,4 +95,4 @@ As used in this part -
 
 *United States Munitions List* means the munitions list of the International Traffic in Arms Regulation in 22 CFR part 121.
 
-\[68 FR 15618, Mar. 31, 2003, as amended at 69 FR 1927, Jan. 13, 2004; 70 FR 73153, Dec. 9, 2005; 73 FR 76971, Dec. 18, 2008; 74 FR 37651, July 29, 2009; 75 FR 34945, June 21, 2010; 75 FR 81916, Dec. 29, 2010; 77 FR 35880, June 15, 2012; 77 FR 38737, June 29, 2012; 77 FR 76942, Dec. 31, 2012; 81 FR 50651, Aug. 2, 2016; 81 FR 93840, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017; 83 FR 66071, Dec. 21, 2018\]
+\[68 FR 15618, Mar. 31, 2003, as amended at 69 FR 1927, Jan. 13, 2004; 70 FR 73153, Dec. 9, 2005; 73 FR 76971, Dec. 18, 2008; 74 FR 37651, July 29, 2009; 75 FR 34945, June 21, 2010; 75 FR 81916, Dec. 29, 2010; 77 FR 35880, June 15, 2012; 77 FR 38737, June 29, 2012; 77 FR 76942, Dec. 31, 2012; 81 FR 50651, Aug. 2, 2016; 81 FR 93840, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017; 83 FR 66071, Dec. 21, 2018; 87 FR 15816, Mar. 18, 2022\]

@@ -2,7 +2,7 @@
 
 *Basic.* As prescribed in 225.1101(6) and (6)(i), use the following clause:
 
-Trade Agreements - Basic (SEP 2019)
+Trade Agreements - Basic (MAR 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -80,6 +80,7 @@ Trade Agreements - Basic (SEP 2019)
 *   Italy
 *   Japan
 *   Latvia
+*   Lithuania
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -150,7 +151,7 @@ Trade Agreements - Basic (SEP 2019)
 
 *Alternate II.* As prescribed in 225.1101(6) and (6)(ii), use the following clause, which (i) adds *South Caucasus/Central and South Asian (SC/CASA) state* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a); (ii) uses a different paragraph (c) than the basic clause; (iii) adds a new paragraph (d); and (iv) includes paragraphs (e) and (f) which are the same paragraphs (d) and (e) of the basic clause:
 
-Trade Agreements - Alternate II (SEP 2019)
+Trade Agreements - Alternate II (MAR 2022)
 
 (a) *Definitions. As used in this clause - Caribbean Basin country end product* -
 
@@ -228,6 +229,7 @@ Trade Agreements - Alternate II (SEP 2019)
 *   Italy
 *   Japan
 *   Latvia
+*   Lithuania
 *   Luxembourg
 *   Netherlands
 *   Norway

@@ -17,6 +17,7 @@
 *   Italy
 *   Japan
 *   Latvia
+*   Lithuania
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -33,4 +34,4 @@
 
 (c) The determination in paragraph (a) of this subsection does not limit the authority of the Secretary concerned to restrict acquisitions to domestic sources or reject an otherwise acceptable offer from a qualifying country source when considered necessary for national defense reasons.
 
-\[68 FR 15621, Mar. 31, 2003, as amended at 69 FR 8116, Feb. 23, 2004; 75 FR 32641, June 8, 2010; 77 FR 35880, June 15, 2012; 77 FR 76942, Dec. 31, 2012; 81 FR 50651, Aug. 2, 2016; 81 FR 93840, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017\]
+\[68 FR 15621, Mar. 31, 2003, as amended at 69 FR 8116, Feb. 23, 2004; 75 FR 32641, June 8, 2010; 77 FR 35880, June 15, 2012; 77 FR 76942, Dec. 31, 2012; 81 FR 50651, Aug. 2, 2016; 81 FR 93840, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017; 87 FR 15816, Mar. 18, 2022\]

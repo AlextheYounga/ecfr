@@ -2,7 +2,7 @@
 
 *Basic.* As prescribed in 225.1101(10)(i) and (10)(i)(A), use the following clause:
 
-Buy American - Free Trade Agreements - Balance of Payments Program - Basic (DEC 2017)
+Buy American - Free Trade Agreements - Balance of Payments Program - Basic (MAR 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -88,6 +88,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Basic (DEC 
 *   Italy
 *   Japan
 *   Latvia
+*   Lithuania
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -130,7 +131,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Basic (DEC 
 
 *Alternate I.* As prescribed in 225.1101(10)(i) and (10)(i)(B), use the following clause, which adds *Canadian end product* to paragraph (a), and uses a different paragraph (c) than the basic clause:
 
-Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I (DEC 2017)
+Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I (MAR 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -222,6 +223,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I
 *   Italy
 *   Japan
 *   Latvia
+*   Lithuania
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -264,7 +266,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I
 
 *Alternate II.* As prescribed in 225.1101(10)(i) and (10)(i)(C), use the following clause, which adds *South Caucasus/Central and South Asian (SC/CASA) state* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a), and uses a different paragraph (c) than the basic clause:
 
-Buy American - Free Trade Agreements - Balance of Payments Program - Alternate II (DEC 2017)
+Buy American - Free Trade Agreements - Balance of Payments Program - Alternate II (MAR 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -350,6 +352,7 @@ Commercially available off-the-shelf *(COTS) item* -
 *   Italy
 *   Japan
 *   Latvia
+*   Lithuania
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -400,7 +403,7 @@ Commercially available off-the-shelf *(COTS) item* -
 
 *Alternate III.* As prescribed in 225.1101(10)(i) and (10)(i)(D), use the following clause, which adds *Canadian end product, South Caucasus/Central and South Asian (SC/CASA) state,* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a) and uses a different paragraph (c) than the basic clause:
 
-Buy American - Free Trade Agreements - Balance of Payments Program - Alternate III (DEC 2017)
+Buy American - Free Trade Agreements - Balance of Payments Program - Alternate III (MAR 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -492,6 +495,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I
 *   Italy
 *   Japan
 *   Latvia
+*   Lithuania
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -542,7 +546,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I
 
 *Alternate IV.* As prescribed in 225.1101(10)(i) and (10)(i)(E), use the following clause, which adds *Korean end product* to paragraph (a), and uses a different paragraph (c) than the basic clause:
 
-Buy American - Free Trade Agreements - Balance of Payments Program - Alternate IV (DEC 2017)
+Buy American - Free Trade Agreements - Balance of Payments Program - Alternate IV (MAR 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -634,6 +638,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I
 *   Italy
 *   Japan
 *   Latvia
+*   Lithuania
 *   Luxembourg
 *   Netherlands
 *   Norway
@@ -676,7 +681,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate I
 
 *Alternate V.* As prescribed in 225.1101(10)(i) and (10)(i)(F), use the following clause, which adds *Korean end product, South Caucasus/Central and South Asian (SC/CASA) state,* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a), and uses a different paragraph (c) than the basic clause:
 
-Buy American - Free Trade Agreements - Balance of Payments Program - Alternate V (DEC 2017)
+Buy American - Free Trade Agreements - Balance of Payments Program - Alternate V (MAR 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -768,6 +773,7 @@ Buy American - Free Trade Agreements - Balance of Payments Program - Alternate V
 *   Italy
 *   Japan
 *   Latvia
+*   Lithuania
 *   Luxembourg
 *   Netherlands
 *   Norway
