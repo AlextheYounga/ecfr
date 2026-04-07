@@ -442,6 +442,8 @@ This definition does not include a stack of single detector elements or any two,
 
 *Government end user” (as applied to encryption items*). A government end user is any foreign central, regional or local government department, agency, or other entity performing governmental functions; including governmental research institutions, governmental corporations or their separate business units (as defined in part 772 of the EAR) which are engaged in the manufacture or distribution of items or services controlled on the Wassenaar Munitions List, and international governmental organizations. This term does not include: Utilities (including telecommunications companies and Internet service providers); banks and financial institutions; transportation; broadcast or entertainment; educational organizations (except public schools and universities); civil health and medical organizations (including public civilian hospitals); retail or wholesale firms; and manufacturing or industrial entities not engaged in the manufacture or distribution of items or services controlled on the Wassenaar Munitions List.
 
+*Hard selectors.* (Cat 5P1) Data or set of data, related to an individual (*e.g.,* family name, given name, email, street address, phone number or group affiliations).
+
 *Hold Without Action (HWA).* License applications may be held without action only in the limited circumstances described in § 750.4(b) of the EAR. Encryption review requests may be placed on hold without action status as provided in § 740.17(d)(2) and § 742.15(b)(2) of the EAR.
 
 *Hybrid computer.* (Cat 4) - Equipment that can:
@@ -489,6 +491,28 @@ Notes:
 *Intermediate consignee.* The person that acts as an agent for a principal party in interest for the purpose of effecting delivery of items to the ultimate consignee. The intermediate consignee may be a bank, forwarding agent, or other person who acts as an agent for a principal party in interest.
 
 *Intrinsic Magnetic Gradiometer.* (Cat 6) - A single magnetic field gradient sensing element and associated electronics the output of which is a measure of magnetic field gradient. (See also “Magnetic Gradiometer”)
+
+*Intrusion software.* (5P2) “Software” specially designed or modified to avoid detection by 'monitoring tools', or to defeat 'protective countermeasures', of a computer or network-capable device, and performing any of the following:
+
+(1) The extraction of data or information, from a computer or network-capable device, or the modification of system or user data; or
+
+(2) The modification of the standard execution path of a program or process in order to allow the execution of externally provided instructions.
+
+Note 1 to “Intrusion software” definition:
+
+“Intrusion software” does not include any of the following: Hypervisors, debuggers or Software Reverse Engineering (SRE) tools; Digital Rights Management (DRM) “software”; or “Software” designed to be installed by manufacturers, administrators or users, for the purposes of asset tracking or recovery.
+
+Note 2 to “Intrusion software” definition:
+
+Network-capable devices include mobile devices and smart meters.
+
+Technical note 1 to “Intrusion software” definition:
+
+'Monitoring tools': “software” or hardware devices, that monitor system behaviors or processes running on a device. This includes antivirus (AV) products, end point security products, Personal Security Products (PSP), Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) or firewalls.
+
+Technical note 2 to “Intrusion software” definition:
+
+'Protective countermeasures': techniques designed to ensure the safe execution of code, such as Data Execution Prevention (DEP), Address Space Layout Randomization (ASLR) or sandboxing.
 
 *Isostatic presses.* (Cat 2) - Equipment capable of pressurizing a closed cavity through various media (gas, liquid, solid particles, etc.) to create equal pressure in all directions within the cavity upon a workpiece or material.
 
@@ -1159,6 +1183,14 @@ Equipment may be “stored program controlled” whether the electronic storage 
 *Subject to the EAR.* A term used in the EAR to describe those commodities, software, technology, and activities over which the Bureau of Industry and Security (BIS) exercises regulatory jurisdiction under the EAR (See § 734.2(a) of the EAR).
 
 *Subject to the ITAR.* A term used in the EAR to describe those commodities, software, technology (e.g., technical data) and defense services over which the U.S. Department of State, Directorate of Defense Trade Controls (DDTC) exercises regulatory jurisdiction under the International Traffic in Arms Regulations (ITAR) (see 22 CFR parts 120 through 130).
+
+“*Sub-orbital craft*”. (Cat 9) A craft having an enclosure designed for the transport of people or cargo, which is designed to:
+
+(1) Operate above the stratosphere;
+
+(2) Perform a non-orbital trajectory; *and*
+
+(3) Land back on Earth with the people or cargo intact.
 
 *Substrate.* (Cat 3) - A sheet of base material with or without an interconnection pattern and on which or within which “discrete components” or integrated circuits or both can be located.
 

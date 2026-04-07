@@ -1,6 +1,6 @@
-##### § 1552.239-71 Open Source Software.
+##### 1552.239-71 Open Source Software.
 
-As prescribed in § 1539.2071, insert the following clause:
+As prescribed in 1539.2071, insert the following clause:
 
 Open Source Software (AUG 2020)
 
@@ -26,7 +26,7 @@ Open Source Software (AUG 2020)
 
 (3) *Exceptions:* Exceptions may be applied in specific instances to exempt EPA from sharing custom-developed code with other government agencies. Any exceptions used must be approved and documented by the Chief Information Officer (CIO) or his or her designee for the purposes of ensuring effective oversight and management of IT resources. For excepted software, EPA must provide OMB a brief narrative justification for each exception, with redactions as appropriate. Applicable exceptions are as follows:
 
-(i) The sharing of the source code is restricted by law or regulation, including - but not limited to - patent or intellectual property law, the Export Asset Regulations, the International Traffic in Arms Regulation and the federal laws and regulations governing classified information.
+(i) The sharing of the source code is restricted by law or regulation, including—but not limited to—patent or intellectual property law, the Export Asset Regulations, the International Traffic in Arms Regulation and the federal laws and regulations governing classified information.
 
 (ii) The sharing of the source code would create an identifiable risk to the detriment of national security, confidentiality of government information or individual privacy.
 
@@ -38,7 +38,7 @@ Open Source Software (AUG 2020)
 
 (c) The Contractor shall deliver to the Contracting Officer (CO) or Contracting Officer's Representative (COR) the underlying source code, license file, related files, build instructions, software user's guides, automated test suites, and other associated documentation as applicable.
 
-(d) In accordance with OMB Memorandum M-16-21 the Government asserts its unlimited rights - including rights to reproduction, reuse, modification and distribution of the custom source code, associated documentation, and related files - for reuse across the federal government and as open source software for the public. These unlimited rights described above attach to all code furnished in the performance of the contract, unless the parties expressly agree otherwise in the contract.
+(d) In accordance with OMB Memorandum M-16-21 the Government asserts its unlimited rights—including rights to reproduction, reuse, modification and distribution of the custom source code, associated documentation, and related files—for reuse across the federal government and as open source software for the public. These unlimited rights described above attach to all code furnished in the performance of the contract, unless the parties expressly agree otherwise in the contract.
 
 (e) The Contractor is prohibited from reselling code developed under this contract without express written consent of the EPA Contracting Officer. The Contractor must provide at least 30 days advance notice if it intends to resell code developed under this contract.
 
