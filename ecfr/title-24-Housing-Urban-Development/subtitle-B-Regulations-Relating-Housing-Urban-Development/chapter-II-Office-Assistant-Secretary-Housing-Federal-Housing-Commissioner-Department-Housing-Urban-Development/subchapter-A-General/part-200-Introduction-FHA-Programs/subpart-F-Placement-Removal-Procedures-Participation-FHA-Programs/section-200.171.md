@@ -1,5 +1,7 @@
 ##### § 200.171 Placement on the Inspector Roster.
 
+Link to an amendment published at 83 FR 31042, July 3, 2018.
+
 (a) *Application.* To be considered for placement on the Roster, an inspector must apply to HUD using an application (or materials) in a form prescribed by HUD.
 
 (b) *Eligibility.* To be eligible for placement on the Roster, an inspector must demonstrate the following to HUD:

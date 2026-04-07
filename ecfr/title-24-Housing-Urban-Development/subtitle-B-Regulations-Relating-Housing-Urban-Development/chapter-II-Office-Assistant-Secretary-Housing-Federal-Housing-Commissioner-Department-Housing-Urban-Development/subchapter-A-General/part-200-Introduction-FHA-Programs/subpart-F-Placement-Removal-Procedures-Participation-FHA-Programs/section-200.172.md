@@ -1,5 +1,7 @@
 ##### § 200.172 Removal from the Inspector Roster.
 
+Link to an amendment published at 83 FR 31042, July 3, 2018.
+
 (a) *Cause for removal.* HUD may remove an inspector from the Roster for any cause that HUD determines to be detrimental to HUD or its programs. Cause for removal includes, but is not limited to:
 
 (1) Poor performance on a HUD quality control field review;
