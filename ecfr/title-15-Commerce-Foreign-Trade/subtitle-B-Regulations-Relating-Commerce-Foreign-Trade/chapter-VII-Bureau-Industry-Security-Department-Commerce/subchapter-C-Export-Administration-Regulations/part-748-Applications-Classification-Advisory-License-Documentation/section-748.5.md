@@ -1,6 +1,6 @@
 ##### § 748.5 Parties to the transaction.
 
-The following parties may be entered on the application. The definitions, which also appear in part 772 of the EAR, are set out here for your convenience to assist you in filling out your application correctly.
+The following parties may be entered on the application. The definitions, which also appear in part 772 of the EAR, are set out here for your convenience to assist you in filling out your application correctly.*Applicant.*
 
 (a) *Applicant.* The person who applies for an export or reexport license, and who has the authority of a principal party in interest to determine and control the export or reexport of items. See § 748.4(a) and definition of “exporter” in part 772 of the EAR.
 

@@ -1,6 +1,6 @@
 ##### § 622.430 Management area.
 
-The management area is the EEZ around Puerto Rico bounded by rhumb lines connecting the following points and geographic instructions in order: 
+The management area is the EEZ around Puerto Rico bounded by rhumb lines connecting the following points and geographic instructions in order:
 
 Table 1 to § 622.430
 | Point                                                                                                                                        | North lat.     | West long.     |

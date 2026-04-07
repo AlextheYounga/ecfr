@@ -1,6 +1,6 @@
 ##### § 208.35 Limitation on asylum eligibility and credible fear procedures for those who enter the United States during emergency border circumstances.
 
-Notwithstanding any contrary section of this part, including §§ 208.2, 208.13, 208.30, and 208.33—
+Notwithstanding any contrary section of this part, including §§ 208.2, 208.13, 208.30, and 208.33—*Limitation on eligibility.*
 
 (a) *Limitation on eligibility.* (1) *Applicability.* An alien who is described in § 208.13(g) and who is not described in section 3(b) of the Presidential Proclamation of June 3, 2024, as defined in 8 CFR 208.13(h), is ineligible for asylum.
 

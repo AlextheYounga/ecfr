@@ -1,33 +1,33 @@
 ##### § 1308.15 Schedule V.
 
-(a) Schedule V shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section.
+(a) Schedule V shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. 
 
-(b) *Narcotic drugs.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing any of the following narcotic drugs and their salts, as set forth below:
+(b) *Narcotic drugs.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing any of the following narcotic drugs and their salts, as set forth below: 
 
-(1) \[Reserved\]
+(1) \[Reserved\] 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(c) *Narcotic drugs containing non-narcotic active medicinal ingredients.* Any compound, mixture, or preparation containing any of the following narcotic drugs, or their salts calculated as the free anhydrous base or alkaloid, in limited quantities as set forth below, which shall include one or more non-narcotic active medicinal ingredients in sufficient proportion to confer upon the compound, mixture, or preparation valuable medicinal qualities other than those possessed by narcotic drugs alone:
+(c) *Narcotic drugs containing non-narcotic active medicinal ingredients.* Any compound, mixture, or preparation containing any of the following narcotic drugs, or their salts calculated as the free anhydrous base or alkaloid, in limited quantities as set forth below, which shall include one or more non-narcotic active medicinal ingredients in sufficient proportion to confer upon the compound, mixture, or preparation valuable medicinal qualities other than those possessed by narcotic drugs alone: 
 
-(1) Not more than 200 milligrams of codeine per 100 milliliters or per 100 grams.
+(1) Not more than 200 milligrams of codeine per 100 milliliters or per 100 grams. 
 
-(2) Not more than 100 milligrams of dihydrocodeine per 100 milliliters or per 100 grams.
+(2) Not more than 100 milligrams of dihydrocodeine per 100 milliliters or per 100 grams. 
 
-(3) Not more than 100 milligrams of ethylmorphine per 100 milliliters or per 100 grams.
+(3) Not more than 100 milligrams of ethylmorphine per 100 milliliters or per 100 grams. 
 
-(4) Not more than 2.5 milligrams of diphenoxylate and not less than 25 micrograms of atropine sulfate per dosage unit.
+(4) Not more than 2.5 milligrams of diphenoxylate and not less than 25 micrograms of atropine sulfate per dosage unit. 
 
-(5) Not more than 100 milligrams of opium per 100 milliliters or per 100 grams.
+(5) Not more than 100 milligrams of opium per 100 milliliters or per 100 grams. 
 
-(6) Not more than 0.5 milligram of difenoxin and not less than 25 micrograms of atropine sulfate per dosage unit.
+(6) Not more than 0.5 milligram of difenoxin and not less than 25 micrograms of atropine sulfate per dosage unit. 
 
-(d) *Stimulants.* Unless specifically exempted or excluded or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, isomers and salts of isomers:
+(d) *Stimulants.* Unless specifically exempted or excluded or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, isomers and salts of isomers: 
 
 | (1) Pyrovalerone | 1485. |
 | (2) \[Reserved\] |       |
 
-(e) *Depressants.* Unless specifically exempted or excluded or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts:
+(e) *Depressants.* Unless specifically exempted or excluded or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts: 
 
 | (1) Brivaracetam ((2S)-2-\[(4R)-2-oxo-4-propylpyrrolidin-1-yl\] butanamide) (also referred to as BRV; UCB-34714; Briviact) (including its salts)                                                                                       | 2710 |
 | (2) Cenobamate (\[(1R)-1-(2-chlorophenyl)-2-(tetrazol-2-yl)ethyl\] carbamate; 2H-tetrazole-2-ethanol, alpha-(2-chlorophenyl)-, carbamate (ester), (alphaR)-; carbamic acid (R)-(+)-1-(2-chlorophenyl)-2-(2H-tetrazol-2-yl)ethyl ester) | 2720 |

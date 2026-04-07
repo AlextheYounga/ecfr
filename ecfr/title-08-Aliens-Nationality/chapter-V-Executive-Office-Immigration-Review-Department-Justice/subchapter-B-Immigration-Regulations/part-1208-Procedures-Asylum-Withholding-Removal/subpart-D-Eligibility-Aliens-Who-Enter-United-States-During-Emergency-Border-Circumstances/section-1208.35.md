@@ -1,6 +1,6 @@
 ##### § 1208.35 Limitation on asylum eligibility and credible fear procedures for those who enter the United States during emergency border circumstances.
 
-Notwithstanding any contrary section of this chapter, including §§ 1003.42, 1208.2, 1208.13, 1208.30, and 1208.33—
+Notwithstanding any contrary section of this chapter, including §§ 1003.42, 1208.2, 1208.13, 1208.30, and 1208.33—*Limitation on eligibility.*
 
 (a) *Limitation on eligibility.* (1) *Applicability.* An alien who is described in § 1208.13(g) and who is not described in section 3(b) of the Presidential Proclamation of June 3, 2024, as defined in 8 CFR 1208.13(h) is ineligible for asylum.
 

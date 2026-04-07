@@ -1,305 +1,307 @@
 ##### § 17.272 Benefits limitations/exclusions.
 
-(a) Benefits cover allowable expenses for medical services and supplies that are medically necessary and appropriate for the treatment of a condition and that are not specifically excluded from program coverage. Covered benefits may have limitations. The fact that a physician may prescribe, order, recommend, or approve a service or supply does not, of itself, make it medically necessary or make the charge an allowable expense, even though it is not listed specifically as an exclusion. The following are specifically excluded from program coverage: 
+Link to an amendment published at 90 FR 61328, Dec. 31, 2025.
 
-(1) Services, procedures or supplies for which the beneficiary has no legal obligation to pay, or for which no charge would be made in the absence of coverage under a health benefits plan. 
+(a) Benefits cover allowable expenses for medical services and supplies that are medically necessary and appropriate for the treatment of a condition and that are not specifically excluded from program coverage. Covered benefits may have limitations. The fact that a physician may prescribe, order, recommend, or approve a service or supply does not, of itself, make it medically necessary or make the charge an allowable expense, even though it is not listed specifically as an exclusion. The following are specifically excluded from program coverage:
 
-(2) Services and supplies required as a result of an occupational disease or injury for which benefits are payable under workers' compensation or similar protection plan (whether or not such benefits have been applied for or paid) except when such benefits are exhausted and the services and supplies are otherwise not excluded from CHAMPVA coverage. 
+(1) Services, procedures or supplies for which the beneficiary has no legal obligation to pay, or for which no charge would be made in the absence of coverage under a health benefits plan.
 
-(3) Services and supplies that are paid directly or indirectly by a local, State or Federal government agency, including court-ordered treatment. In the case of the following exceptions, CHAMPVA assumes primary payer status: 
+(2) Services and supplies required as a result of an occupational disease or injury for which benefits are payable under workers' compensation or similar protection plan (whether or not such benefits have been applied for or paid) except when such benefits are exhausted and the services and supplies are otherwise not excluded from CHAMPVA coverage.
 
-(i) Medicaid. 
+(3) Services and supplies that are paid directly or indirectly by a local, State or Federal government agency, including court-ordered treatment. In the case of the following exceptions, CHAMPVA assumes primary payer status:
 
-(ii) State Victims of Crime Compensation Programs. 
+(i) Medicaid.
 
-(iii) Indian Health Service. 
+(ii) State Victims of Crime Compensation Programs.
 
-(iv) CHAMPVA supplemental policies. 
+(iii) Indian Health Service.
 
-(4) Services and supplies that are not medically or psychologically necessary for the diagnosis or treatment of a covered condition (including mental disorder) or injury. 
+(iv) CHAMPVA supplemental policies.
 
-(5) Radiology, laboratory, and pathological services and machine diagnostic testing not related to a specific illness or injury or a definitive set of symptoms. 
+(4) Services and supplies that are not medically or psychologically necessary for the diagnosis or treatment of a covered condition (including mental disorder) or injury.
 
-(6) Services and supplies above the appropriate level required to provide necessary medical care. 
+(5) Radiology, laboratory, and pathological services and machine diagnostic testing not related to a specific illness or injury or a definitive set of symptoms.
 
-(7) Services and supplies related to an inpatient admission primarily to perform diagnostic tests, examinations, and procedures that could have been and are performed routinely on an outpatient basis. 
+(6) Services and supplies above the appropriate level required to provide necessary medical care.
 
-(8) Postpartum inpatient stay of a mother for purposes of staying with the newborn infant (primarily for the purpose of breast feeding the infant) when the infant (but not the mother) requires the extended stay; or continued inpatient stay of a newborn infant primarily for purposes of remaining with the mother when the mother (but not the newborn infant) requires extended postpartum inpatient stay. 
+(7) Services and supplies related to an inpatient admission primarily to perform diagnostic tests, examinations, and procedures that could have been and are performed routinely on an outpatient basis.
 
-(9) Therapeutic absences from an inpatient facility or residential treatment center (RTC). 
+(8) Postpartum inpatient stay of a mother for purposes of staying with the newborn infant (primarily for the purpose of breast feeding the infant) when the infant (but not the mother) requires the extended stay; or continued inpatient stay of a newborn infant primarily for purposes of remaining with the mother when the mother (but not the newborn infant) requires extended postpartum inpatient stay.
 
-(10) Custodial care. 
+(9) Therapeutic absences from an inpatient facility or residential treatment center (RTC).
 
-(11) Inpatient stays primarily for domiciliary care purposes. 
+(10) Custodial care.
 
-(12) Inpatient stays primarily for rest or rest cures. 
+(11) Inpatient stays primarily for domiciliary care purposes.
 
-(13) Services and supplies provided as a part of, or under, a scientific or medical study, grant, or research program. 
+(12) Inpatient stays primarily for rest or rest cures.
 
-(14) Services and supplies not provided in accordance with accepted professional medical standards or related to experimental or investigational procedures or treatment regimens. 
+(13) Services and supplies provided as a part of, or under, a scientific or medical study, grant, or research program.
 
-(15) Services or supplies prescribed or provided by a member of the beneficiary's immediate family, or a person living in the beneficiary's or sponsor's household. 
+(14) Services and supplies not provided in accordance with accepted professional medical standards or related to experimental or investigational procedures or treatment regimens.
 
-(16) Services and supplies that are (or are eligible to be) payable under another medical insurance or program, either private or governmental, such as coverage through employment or Medicare. 
+(15) Services or supplies prescribed or provided by a member of the beneficiary's immediate family, or a person living in the beneficiary's or sponsor's household.
 
-(17) Services or supplies subject to preauthorization (see § 17.273) that were obtained without the required preauthorization; and services and supplies that were not provided according to the terms of the preauthorization. 
+(16) Services and supplies that are (or are eligible to be) payable under another medical insurance or program, either private or governmental, such as coverage through employment or Medicare.
 
-(18) Inpatient stays primarily to control or detain a runaway child, whether or not admission is to an authorized institution. 
+(17) Services or supplies subject to preauthorization (see § 17.273) that were obtained without the required preauthorization; and services and supplies that were not provided according to the terms of the preauthorization.
 
-(19) Services and supplies (to include prescription medications) in connection with cosmetic surgery which is performed to primarily improve physical appearance or for psychological purposes or to restore form without correcting or materially improving a bodily function. 
+(18) Inpatient stays primarily to control or detain a runaway child, whether or not admission is to an authorized institution.
 
-(20) Electrolysis. 
+(19) Services and supplies (to include prescription medications) in connection with cosmetic surgery which is performed to primarily improve physical appearance or for psychological purposes or to restore form without correcting or materially improving a bodily function.
 
-(21) Dental care with the following exceptions: 
+(20) Electrolysis.
 
-(i) Dental care that is medically necessary in the treatment of an otherwise covered medical condition, is an integral part of the treatment of such medical condition, and is essential to the control of the primary medical condition. 
+(21) Dental care with the following exceptions:
 
-(ii) Dental care required in preparation for, or as a result of, radiation therapy for oral or facial cancer. 
+(i) Dental care that is medically necessary in the treatment of an otherwise covered medical condition, is an integral part of the treatment of such medical condition, and is essential to the control of the primary medical condition.
 
-(iii) Gingival Hyperplasia. 
+(ii) Dental care required in preparation for, or as a result of, radiation therapy for oral or facial cancer.
 
-(iv) Loss of jaw substance due to direct trauma to the jaw or due to treatment of neoplasm. 
+(iii) Gingival Hyperplasia.
 
-(v) Intraoral abscess when it extends beyond the dental alveolus. 
+(iv) Loss of jaw substance due to direct trauma to the jaw or due to treatment of neoplasm.
 
-(vi) Extraoral abscess. 
+(v) Intraoral abscess when it extends beyond the dental alveolus.
 
-(vii) Cellulitis and osteitis which is clearly exacerbating and directly affecting a medical condition currently under treatment. 
+(vi) Extraoral abscess.
 
-(viii) Repair of fracture, dislocation, and other injuries of the jaw, to include removal of teeth and tooth fragments only when such removal is incidental to the repair of the jaw. 
+(vii) Cellulitis and osteitis which is clearly exacerbating and directly affecting a medical condition currently under treatment.
 
-(ix) Treatment for stabilization of myofascial pain dysfunction syndrome, also referred to as temporomandibular joint disorder (TMD). Authorization is limited to initial imaging such as radiographs, Computed Tomography, or Magnetic Resonance Imaging; up to four office visits; and the construction of an occlusal splint. 
+(viii) Repair of fracture, dislocation, and other injuries of the jaw, to include removal of teeth and tooth fragments only when such removal is incidental to the repair of the jaw.
 
-(x) Total or complete ankyloglossia. 
+(ix) Treatment for stabilization of myofascial pain dysfunction syndrome, also referred to as temporomandibular joint disorder (TMD). Authorization is limited to initial imaging such as radiographs, Computed Tomography, or Magnetic Resonance Imaging; up to four office visits; and the construction of an occlusal splint.
 
-(xi) Adjunctive dental and orthodontic support for cleft palate. 
+(x) Total or complete ankyloglossia.
 
-(xii) Prosthetic replacement of jaw due to trauma or cancer. 
+(xi) Adjunctive dental and orthodontic support for cleft palate.
 
-(22) Nonsurgical treatment of obesity or morbid obesity for dietary control or weight reduction (with the exception of gastric bypass, gastric stapling, or gastroplasty procedures in connection with morbid obesity when determined to be medically necessary) including prescription medications. 
+(xii) Prosthetic replacement of jaw due to trauma or cancer.
 
-(23) Services and supplies related to transsexualism or other similar conditions such as gender dysphoria (including, but not limited to, intersex surgery and psychotherapy, except for ambiguous genitalia which was documented to be present at birth). 
+(22) Nonsurgical treatment of obesity or morbid obesity for dietary control or weight reduction (with the exception of gastric bypass, gastric stapling, or gastroplasty procedures in connection with morbid obesity when determined to be medically necessary) including prescription medications.
 
-(24) Sex therapy, sexual advice, sexual counseling, sex behavior modification, psychotherapy for mental disorders involving sexual deviations (e.g., transvestic fetish), or other similar services, and any supplies provided in connection with therapy for sexual dysfunctions or inadequacies. 
+(23) Services and supplies related to transsexualism or other similar conditions such as gender dysphoria (including, but not limited to, intersex surgery and psychotherapy, except for ambiguous genitalia which was documented to be present at birth).
 
-(25) Removal of corns or calluses or trimming of toenails and other routine foot care services, except those required as a result of a diagnosed systemic medical disease affecting the lower limbs, such as severe diabetes. 
+(24) Sex therapy, sexual advice, sexual counseling, sex behavior modification, psychotherapy for mental disorders involving sexual deviations (e.g., transvestic fetish), or other similar services, and any supplies provided in connection with therapy for sexual dysfunctions or inadequacies.
 
-(26) Surgery to reverse voluntary surgical sterilization procedures. 
+(25) Removal of corns or calluses or trimming of toenails and other routine foot care services, except those required as a result of a diagnosed systemic medical disease affecting the lower limbs, such as severe diabetes.
 
-(27) Services and supplies related to artificial insemination (including semen donors and semen banks), in vitro fertilization, gamete intrafallopian transfer and all other noncoital reproductive technologies. 
+(26) Surgery to reverse voluntary surgical sterilization procedures.
 
-(28) Nonprescription contraceptives, except those non-prescription contraceptives used as emergency contraceptives. 
+(27) Services and supplies related to artificial insemination (including semen donors and semen banks), in vitro fertilization, gamete intrafallopian transfer and all other noncoital reproductive technologies.
 
-(29) Diagnostic tests to establish paternity of a child; or tests to determine sex of an unborn child. 
+(28) Nonprescription contraceptives, except those non-prescription contraceptives used as emergency contraceptives.
 
-(30) Preventive care (such as employment-requested physical examinations and routine screening procedures). The following exceptions apply, including but not limited to: 
+(29) Diagnostic tests to establish paternity of a child; or tests to determine sex of an unborn child.
 
-(i) Well-child care from birth to age six. Periodic health examinations designed for prevention, early detection, and treatment of disease are covered to include screening procedures, immunizations, and risk counseling. The following services are payable when required as part of a well-child care program and when rendered by the attending pediatrician, family physician, or a pediatric nurse practitioner. 
+(30) Preventive care (such as employment-requested physical examinations and routine screening procedures). The following exceptions apply, including but not limited to:
 
-(A) Newborn examination, heredity and metabolic screening, and newborn circumcision. 
+(i) Well-child care from birth to age six. Periodic health examinations designed for prevention, early detection, and treatment of disease are covered to include screening procedures, immunizations, and risk counseling. The following services are payable when required as part of a well-child care program and when rendered by the attending pediatrician, family physician, or a pediatric nurse practitioner.
 
-(B) Periodic health supervision visits intended to promote optimal health for infants and children to include the following services: 
+(A) Newborn examination, heredity and metabolic screening, and newborn circumcision.
 
-(*1*) History and physical examination. 
+(B) Periodic health supervision visits intended to promote optimal health for infants and children to include the following services:
 
-(*2*) Vision, hearing, and dental screening. 
+(*1*) History and physical examination.
 
-(*3*) Developmental appraisal to include body measurement. 
+(*2*) Vision, hearing, and dental screening.
 
-(*4*) Immunizations as recommended by the Centers for Disease Control (CDC) and Prevention Advisory Committee on Immunization Practices. 
+(*3*) Developmental appraisal to include body measurement.
 
-(*5*) Pediatric blood lead level test. 
+(*4*) Immunizations as recommended by the Centers for Disease Control (CDC) and Prevention Advisory Committee on Immunization Practices.
 
-(*6*) Tuberculosis screening. 
+(*5*) Pediatric blood lead level test.
 
-(*7*) Blood pressure screening. 
+(*6*) Tuberculosis screening.
 
-(*8*) Measurement of hemoglobin and hematocrit for anemia. 
+(*7*) Blood pressure screening.
 
-(*9*) Urinalysis. 
+(*8*) Measurement of hemoglobin and hematocrit for anemia.
 
-(C) Additional services or visits required because of specific findings or because the particular circumstances of the individual case are covered if medically necessary and otherwise authorized for benefits under CHAMPVA. 
+(*9*) Urinalysis.
 
-(ii) Rabies vaccine following an animal bite. 
+(C) Additional services or visits required because of specific findings or because the particular circumstances of the individual case are covered if medically necessary and otherwise authorized for benefits under CHAMPVA.
 
-(iii) Tetanus vaccine following an accidental injury. 
+(ii) Rabies vaccine following an animal bite.
 
-(iv) Rh immune globulin. 
+(iii) Tetanus vaccine following an accidental injury.
 
-(v) Cervical cancer screening. 
+(iv) Rh immune globulin.
 
-(vi) Breast cancer screening. 
+(v) Cervical cancer screening.
 
-(vii) Genetic testing and counseling determined to be medically necessary. 
+(vi) Breast cancer screening.
 
-(viii) Chromosome analysis in cases of habitual abortion or infertility. 
+(vii) Genetic testing and counseling determined to be medically necessary.
 
-(ix) Gamma globulin. 
+(viii) Chromosome analysis in cases of habitual abortion or infertility.
 
-(x) School-required physical examinations for beneficiaries through age 17 that are provided on or after October 1, 2001. 
+(ix) Gamma globulin.
 
-(xi) Colorectal cancer screening. 
+(x) School-required physical examinations for beneficiaries through age 17 that are provided on or after October 1, 2001.
 
-(xii) Prostate cancer screening. 
+(xi) Colorectal cancer screening.
 
-(xiii) Annual physical examination. 
+(xii) Prostate cancer screening.
 
-(xiv) Vaccinations/immunizations. 
+(xiii) Annual physical examination.
 
-(31) Chiropractic and naturopathic services. 
+(xiv) Vaccinations/immunizations.
 
-(32) Counseling services that are not medically necessary in the treatment of a diagnosed medical condition (such as educational counseling; vocational counseling; and counseling for socioeconomic purposes, stress management, life style modification, etc.). 
+(31) Chiropractic and naturopathic services.
 
-(33) Acupuncture, whether used as a therapeutic agent or as an anesthetic. 
+(32) Counseling services that are not medically necessary in the treatment of a diagnosed medical condition (such as educational counseling; vocational counseling; and counseling for socioeconomic purposes, stress management, life style modification, etc.).
 
-(34) Hair transplants, wigs, or hairpieces, except that benefits may be extended for one wig or hairpiece per beneficiary (lifetime maximum) when the attending physician certifies that alopecia has resulted from treatment of malignant disease and the beneficiary certifies that a wig or hairpiece has not been obtained previously through the U.S. Government (including the Department of Veterans Affairs). The wig or hairpiece benefit does not include coverage for the following: 
+(33) Acupuncture, whether used as a therapeutic agent or as an anesthetic.
 
-(i) Maintenance, wig or hairpiece supplies, or replacement of the wig or hairpiece. 
+(34) Hair transplants, wigs, or hairpieces, except that benefits may be extended for one wig or hairpiece per beneficiary (lifetime maximum) when the attending physician certifies that alopecia has resulted from treatment of malignant disease and the beneficiary certifies that a wig or hairpiece has not been obtained previously through the U.S. Government (including the Department of Veterans Affairs). The wig or hairpiece benefit does not include coverage for the following:
 
-(ii) Hair transplant or any other surgical procedure involving the attachment of hair or a wig or hairpiece to the scalp. 
+(i) Maintenance, wig or hairpiece supplies, or replacement of the wig or hairpiece.
 
-(iii) Any diagnostic or therapeutic method or supply intended to encourage hair growth. 
+(ii) Hair transplant or any other surgical procedure involving the attachment of hair or a wig or hairpiece to the scalp.
 
-(35) Self-help, academic education or vocational training services and supplies. 
+(iii) Any diagnostic or therapeutic method or supply intended to encourage hair growth.
 
-(36) Exercise equipment, spas, whirlpools, hot tubs, swimming pools, health club membership or other such charges or items. 
+(35) Self-help, academic education or vocational training services and supplies.
 
-(37) General exercise programs, even if recommended by a physician. 
+(36) Exercise equipment, spas, whirlpools, hot tubs, swimming pools, health club membership or other such charges or items.
 
-(38) Eye exercises or visual training (orthoptics). 
+(37) General exercise programs, even if recommended by a physician.
 
-(39) Eye and hearing examinations except when rendered in connection with medical or surgical treatment of a covered illness or injury or in connection with well-child care. 
+(38) Eye exercises or visual training (orthoptics).
 
-(40) Eyeglasses, spectacles, contact lenses, or other optical devices with the following exceptions: 
+(39) Eye and hearing examinations except when rendered in connection with medical or surgical treatment of a covered illness or injury or in connection with well-child care.
 
-(i) When necessary to perform the function of the human lens, lost as a result of intraocular surgery, ocular injury or congenital absence. 
+(40) Eyeglasses, spectacles, contact lenses, or other optical devices with the following exceptions:
 
-(ii) Pinhole glasses prescribed for use after surgery for detached retina. 
+(i) When necessary to perform the function of the human lens, lost as a result of intraocular surgery, ocular injury or congenital absence.
 
-(iii) Lenses prescribed as “treatment” instead of surgery for the following conditions: 
+(ii) Pinhole glasses prescribed for use after surgery for detached retina.
 
-(A) Contact lenses used for treatment of infantile glaucoma. 
+(iii) Lenses prescribed as “treatment” instead of surgery for the following conditions:
 
-(B) Corneal or scleral lenses prescribed in connection with treatment of keratoconus. 
+(A) Contact lenses used for treatment of infantile glaucoma.
 
-(C) Scleral lenses prescribed to retain moisture when normal tearing is not present or is inadequate. 
+(B) Corneal or scleral lenses prescribed in connection with treatment of keratoconus.
 
-(D) Corneal or scleral lenses prescribed to reduce a corneal irregularity other than astigmatism. 
+(C) Scleral lenses prescribed to retain moisture when normal tearing is not present or is inadequate.
 
-(iv) The specified benefits are limited to one set of lenses related to one qualifying eye condition as set forth in paragraphs (a)(40)(iii)(A) through (D) of this section. If there is a prescription change requiring a new set of lenses, but still related to the qualifying eye condition, benefits may be extended for a second set of lenses, subject to medical review. 
+(D) Corneal or scleral lenses prescribed to reduce a corneal irregularity other than astigmatism.
 
-(41) Hearing aids or other auditory sensory enhancing devices. 
+(iv) The specified benefits are limited to one set of lenses related to one qualifying eye condition as set forth in paragraphs (a)(40)(iii)(A) through (D) of this section. If there is a prescription change requiring a new set of lenses, but still related to the qualifying eye condition, benefits may be extended for a second set of lenses, subject to medical review.
 
-(42) Prostheses with the following exceptions: 
+(41) Hearing aids or other auditory sensory enhancing devices.
 
-(i) Dental prostheses specifically required in connection with otherwise covered orthodontia directly related to the surgical correction of a cleft palate anomaly. 
+(42) Prostheses with the following exceptions:
 
-(ii) Any prostheses, other than dental prostheses, determined to be medically necessary because of significant conditions resulting from trauma, congenital anomalies, or disease, including, but not limited to: 
+(i) Dental prostheses specifically required in connection with otherwise covered orthodontia directly related to the surgical correction of a cleft palate anomaly.
 
-(A) Artificial limbs. 
+(ii) Any prostheses, other than dental prostheses, determined to be medically necessary because of significant conditions resulting from trauma, congenital anomalies, or disease, including, but not limited to:
 
-(B) Voice prostheses. 
+(A) Artificial limbs.
 
-(C) Eyes. 
+(B) Voice prostheses.
 
-(D) Items surgically inserted in the body as an integral part of a surgical procedure. 
+(C) Eyes.
 
-(E) Ears, noses, and fingers. 
+(D) Items surgically inserted in the body as an integral part of a surgical procedure.
 
-(43) Orthopedic shoes, arch supports, shoe inserts, and other supportive devices for the feet, including special ordered, custom-made built-up shoes, or regular shoes later built up with the following exceptions: 
+(E) Ears, noses, and fingers.
 
-(i) Shoes that are an integral part of an orthopedic brace, and which cannot be used separately from the brace. 
+(43) Orthopedic shoes, arch supports, shoe inserts, and other supportive devices for the feet, including special ordered, custom-made built-up shoes, or regular shoes later built up with the following exceptions:
 
-(ii) Extra-depth shoes with inserts or custom molded shoes with inserts for individuals with diabetes. 
+(i) Shoes that are an integral part of an orthopedic brace, and which cannot be used separately from the brace.
 
-(44) Telephone Services, with the following exceptions: 
+(ii) Extra-depth shoes with inserts or custom molded shoes with inserts for individuals with diabetes.
 
-(i) Services or advice rendered by telephone (audio only) on or after May 12, 2020, are not excluded when the services are otherwise covered CHAMPVA services provided through this modality and are medically necessary and appropriate. 
+(44) Telephone Services, with the following exceptions:
 
-(ii) A diagnostic or monitoring procedure which incorporates electronic transmission of data or remote detection and measurement of a condition, activity, or function (biotelemetry) is covered when: 
+(i) Services or advice rendered by telephone (audio only) on or after May 12, 2020, are not excluded when the services are otherwise covered CHAMPVA services provided through this modality and are medically necessary and appropriate.
 
-(A) The procedure, without electronic data transmission, is a covered benefit; 
+(ii) A diagnostic or monitoring procedure which incorporates electronic transmission of data or remote detection and measurement of a condition, activity, or function (biotelemetry) is covered when:
 
-(B) The addition of electronic data transmission or biotelemetry improves the management of a clinical condition in defined circumstances; and 
+(A) The procedure, without electronic data transmission, is a covered benefit;
 
-(C) The electronic data or biotelemetry device has been classified by the U.S. Food and Drug Administration, either separately or as part of a system, for use consistent with the medical condition and clinical management of such condition. 
+(B) The addition of electronic data transmission or biotelemetry improves the management of a clinical condition in defined circumstances; and
 
-(45) Air conditioners, humidifiers, dehumidifiers, and purifiers. 
+(C) The electronic data or biotelemetry device has been classified by the U.S. Food and Drug Administration, either separately or as part of a system, for use consistent with the medical condition and clinical management of such condition.
 
-(46) Elevators. 
+(45) Air conditioners, humidifiers, dehumidifiers, and purifiers.
 
-(47) Alterations to living spaces or permanent features attached thereto, even when necessary to accommodate installation of covered durable medical equipment or to facilitate entrance or exit. 
+(46) Elevators.
 
-(48) Items of clothing, even if required by virtue of an allergy (such as cotton fabric versus synthetic fabric and vegetable-dyed shoes). 
+(47) Alterations to living spaces or permanent features attached thereto, even when necessary to accommodate installation of covered durable medical equipment or to facilitate entrance or exit.
 
-(49) Food, food substitutes, vitamins or other nutritional supplements, including those related to care for a home patient whose condition permits oral feeding, except for prenatal vitamins which are medically necessary as a component of prenatal care and prescribed by a VA provider or an authorized non-VA provider as defined in § 17.270 of this part. 
+(48) Items of clothing, even if required by virtue of an allergy (such as cotton fabric versus synthetic fabric and vegetable-dyed shoes).
 
-(50) Enuretic (bed-wetting) conditioning programs. 
+(49) Food, food substitutes, vitamins or other nutritional supplements, including those related to care for a home patient whose condition permits oral feeding, except for prenatal vitamins which are medically necessary as a component of prenatal care and prescribed by a VA provider or an authorized non-VA provider as defined in § 17.270 of this part.
 
-(51) Autopsy and post-mortem examinations. 
+(50) Enuretic (bed-wetting) conditioning programs.
 
-(52) All camping, even when organized for a specific therapeutic purpose (such as diabetic camp or a camp for emotionally disturbed children), or when offered as a part of an otherwise covered treatment plan. 
+(51) Autopsy and post-mortem examinations.
 
-(53) Housekeeping, homemaker, or attendant services, including a sitter or companion. 
+(52) All camping, even when organized for a specific therapeutic purpose (such as diabetic camp or a camp for emotionally disturbed children), or when offered as a part of an otherwise covered treatment plan.
 
-(54) Personal comfort or convenience items, such as beauty and barber services, radio, television, and telephone. 
+(53) Housekeeping, homemaker, or attendant services, including a sitter or companion.
 
-(55) Megavitamin psychiatric therapy; orthomolecular psychiatric therapy. 
+(54) Personal comfort or convenience items, such as beauty and barber services, radio, television, and telephone.
 
-(56) All transportation except for specialized transportation with life sustaining equipment, when medically required for the treatment of a covered condition. 
+(55) Megavitamin psychiatric therapy; orthomolecular psychiatric therapy.
 
-(57) Services that are provided to a beneficiary who is referred to a provider of such services by a provider who has an economic interest in the facility to which the patient is referred, unless a waiver is granted. 
+(56) All transportation except for specialized transportation with life sustaining equipment, when medically required for the treatment of a covered condition.
 
-(58) Abortions, except when: 
+(57) Services that are provided to a beneficiary who is referred to a provider of such services by a provider who has an economic interest in the facility to which the patient is referred, unless a waiver is granted.
 
-(i) The life or the health of the pregnant beneficiary would be endangered if the pregnancy were carried to term; or 
+(58) Abortions, except when:
 
-(ii) The pregnancy is the result of an act of rape or incest. Self-reporting from the pregnant beneficiary constitutes sufficient evidence that an act of rape or incest occurred. 
+(i) The life or the health of the pregnant beneficiary would be endangered if the pregnancy were carried to term; or
 
-(59) Aversion therapy. 
+(ii) The pregnancy is the result of an act of rape or incest. Self-reporting from the pregnant beneficiary constitutes sufficient evidence that an act of rape or incest occurred.
 
-(60) Rental or purchase of biofeedback equipment. 
+(59) Aversion therapy.
 
-(61) Biofeedback therapy for treatment of ordinary muscle tension states (including tension headaches) or for psychosomatic conditions. 
+(60) Rental or purchase of biofeedback equipment.
 
-(62) Immunotherapy for malignant diseases except for treatment of Stage O and Stage A carcinoma of the bladder. 
+(61) Biofeedback therapy for treatment of ordinary muscle tension states (including tension headaches) or for psychosomatic conditions.
 
-(63) Services and supplies provided by other than a hospital, such as nonskilled nursing homes, intermediate care facilities, halfway houses, homes for the aged, or other institutions of similar purpose. 
+(62) Immunotherapy for malignant diseases except for treatment of Stage O and Stage A carcinoma of the bladder.
 
-(64) Services performed when the patient is not physically present. 
+(63) Services and supplies provided by other than a hospital, such as nonskilled nursing homes, intermediate care facilities, halfway houses, homes for the aged, or other institutions of similar purpose.
 
-(65) Medical photography. 
+(64) Services performed when the patient is not physically present.
 
-(66) Special tutoring. 
+(65) Medical photography.
 
-(67) Surgery for psychological reasons. 
+(66) Special tutoring.
 
-(68) Treatment of premenstrual syndrome (PMS). 
+(67) Surgery for psychological reasons.
 
-(69) Over-the-counter products except for pharmaceutical smoking cessation supplies that are approved by the U.S. Food and Drug Administration, prescribed, and provided through MbM, and insulin and related diabetic testing supplies and syringes. 
+(68) Treatment of premenstrual syndrome (PMS).
 
-(70) Thermography. 
+(69) Over-the-counter products except for pharmaceutical smoking cessation supplies that are approved by the U.S. Food and Drug Administration, prescribed, and provided through MbM, and insulin and related diabetic testing supplies and syringes.
 
-(71) Removal of tattoos. 
+(70) Thermography.
 
-(72) Penile implant/testicular prosthesis procedures and related supplies for psychological impotence. 
+(71) Removal of tattoos.
 
-(73) Dermabrasion of the face except in those cases where coverage has been authorized for reconstructive or plastic surgery required to restore body form following an accidental injury or to revise disfiguring and extensive scars resulting from neoplastic surgery. 
+(72) Penile implant/testicular prosthesis procedures and related supplies for psychological impotence.
 
-(74) Chemical peeling for facial wrinkles. 
+(73) Dermabrasion of the face except in those cases where coverage has been authorized for reconstructive or plastic surgery required to restore body form following an accidental injury or to revise disfiguring and extensive scars resulting from neoplastic surgery.
 
-(75) Panniculectomy, body sculpting procedures. 
+(74) Chemical peeling for facial wrinkles.
 
-(76) Medications not approved by the U.S. Food and Drug Administration (FDA), excluding FDA exceptions to the approval requirement. 
+(75) Panniculectomy, body sculpting procedures.
 
-(77) Services and supplies related to the treatment of dyslexia. 
+(76) Medications not approved by the U.S. Food and Drug Administration (FDA), excluding FDA exceptions to the approval requirement.
 
-(b) Costs of services and supplies to the extent such amounts are billed over the CHAMPVA determined allowable amount are specifically excluded from coverage. 
+(77) Services and supplies related to the treatment of dyslexia.
 
-(1) The CHAMPVA determined allowable amount is the maximum level of payment by CHAMPVA to an authorized non-VA provider for the provision of CHAMPVA-covered services and supplies to a CHAMPVA beneficiary. The CHAMPVA determined allowable amount is determined before consideration of cost sharing and the application of deductibles or OHI. 
+(b) Costs of services and supplies to the extent such amounts are billed over the CHAMPVA determined allowable amount are specifically excluded from coverage.
 
-(2) A Medicare-participating hospital must accept the CHAMPVA determined allowable amount for inpatient services provided to a CHAMPVA beneficiary as payment in full. See 42 CFR 489.25. 
+(1) The CHAMPVA determined allowable amount is the maximum level of payment by CHAMPVA to an authorized non-VA provider for the provision of CHAMPVA-covered services and supplies to a CHAMPVA beneficiary. The CHAMPVA determined allowable amount is determined before consideration of cost sharing and the application of deductibles or OHI.
 
-(3) An authorized non-VA provider who accepts responsibility for the care of a CHAMPVA beneficiary thereby agrees to accept the CHAMPVA determined allowable amount as full payment for services and supplies rendered to the beneficiary (*i.e.,* accepted assignment). The provider's acceptance of the CHAMPVA determined allowable amount extinguishes the beneficiary's payment liability to the provider. Any attempts to collect any additional amount from the CHAMPVA beneficiary may result in the provider being excluded from Federal benefits programs. See 42 CFR 1003.105. 
+(2) A Medicare-participating hospital must accept the CHAMPVA determined allowable amount for inpatient services provided to a CHAMPVA beneficiary as payment in full. See 42 CFR 489.25.
+
+(3) An authorized non-VA provider who accepts responsibility for the care of a CHAMPVA beneficiary thereby agrees to accept the CHAMPVA determined allowable amount as full payment for services and supplies rendered to the beneficiary (*i.e.,* accepted assignment). The provider's acceptance of the CHAMPVA determined allowable amount extinguishes the beneficiary's payment liability to the provider. Any attempts to collect any additional amount from the CHAMPVA beneficiary may result in the provider being excluded from Federal benefits programs. See 42 CFR 1003.105.
 
 \[63 FR 48102, Sept. 9, 1998, as amended at 67 FR 4359, Jan. 30, 2002; 73 FR 65553, Nov. 4, 2008; 87 FR 41600, July 13, 2022; 87 FR 55296, Sept. 9, 2022; 89 FR 34136, Apr. 30, 2024\]
