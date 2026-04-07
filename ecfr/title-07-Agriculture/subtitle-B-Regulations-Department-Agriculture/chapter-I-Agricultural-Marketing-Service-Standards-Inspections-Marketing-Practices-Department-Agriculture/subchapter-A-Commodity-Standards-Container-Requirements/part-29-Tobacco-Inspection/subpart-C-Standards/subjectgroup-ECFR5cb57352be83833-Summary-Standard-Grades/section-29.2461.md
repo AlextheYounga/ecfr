@@ -26,7 +26,7 @@
 | 1 Grade of scrap        |     |      |      |     |
 | S                       |     |      |      |     |
 
-Special factors “U”, “W” and “SF” may be applied to all grades. Tobacco not covered by the standard grades is designated “No-G.” 
+Special factors “U”, “W” and “SF” may be applied to all grades. Tobacco not covered by the standard grades is designated “No-G.”
 
 Standard sizes applicable.
 

@@ -1,6 +1,6 @@
 ##### § 29.2661 Wrappers (A Group).
 
-This group consists of leaves usually grown at or above the center portion of the stalk. Cured leaves of this group are elastic and show a low percentage of injury affecting wrapper yield. 
+This group consists of leaves usually grown at or above the center portion of the stalk. Cured leaves of this group are elastic and show a low percentage of injury affecting wrapper yield.
 
 | Grades | Grade names and specifications                                                                                                                                                     |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

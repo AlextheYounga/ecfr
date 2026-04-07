@@ -1,6 +1,6 @@
 ##### § 29.6127 Stripper (C Group).
 
-This group consists of tobacco from which the trash and trashy Farm Fillers have been removed but does not meet the specifications of the Binder group. 
+This group consists of tobacco from which the trash and trashy Farm Fillers have been removed but does not meet the specifications of the Binder group.
 
 | U.S. grades | Grade names, minimum specifications, and tolerances                                                                                                                                                             |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

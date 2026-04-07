@@ -1,6 +1,6 @@
 ##### § 29.3151 Flyings (X Group).
 
-This group consists of leaves normally grown at the bottom of the stalk. These leaves are flat and open-faced and have a blunt or oblate tip. Compared with other groups on the stalk, Flyings consist of relatively thin to tissuey leaves which show the highest degree of maturity and the most open leaf structure. Flyings show a material amount of injury characteristic of leaves grown near the ground. (See Rule 14.) 
+This group consists of leaves normally grown at the bottom of the stalk. These leaves are flat and open-faced and have a blunt or oblate tip. Compared with other groups on the stalk, Flyings consist of relatively thin to tissuey leaves which show the highest degree of maturity and the most open leaf structure. Flyings show a material amount of injury characteristic of leaves grown near the ground. (See Rule 14.)
 
 | Grades | Grade names and specifications                                                                                                                                    |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |

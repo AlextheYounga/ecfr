@@ -1,6 +1,6 @@
 ##### § 29.2440 (N Group).
 
-Extremely common tobacco which does not meet the minimum specifications or which exceeds the tolerance of the lowest grade of any other group except scrap. 
+Extremely common tobacco which does not meet the minimum specifications or which exceeds the tolerance of the lowest grade of any other group except scrap.
 
 | U.S. grades | Grade names and specifications                                                                                            |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------- |

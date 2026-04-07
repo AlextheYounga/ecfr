@@ -1,6 +1,6 @@
 ##### § 29.3652 Scrap (S Group).
 
-A byproduct of stemmed and unstemmed tobacco. Scrap accumulates from handling tobacco in farm buildings, warehouses, packing and conditioning plants, and stemmeries. 
+A byproduct of stemmed and unstemmed tobacco. Scrap accumulates from handling tobacco in farm buildings, warehouses, packing and conditioning plants, and stemmeries.
 
 | Grades | Grade name and specifications                                                                                             |
 | ------ | ------------------------------------------------------------------------------------------------------------------------- |

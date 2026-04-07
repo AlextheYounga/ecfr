@@ -1,6 +1,6 @@
 ##### § 29.3648 Thin Leaf (C Group).
 
-This group consists of leaves that are thin to medium in body and show little or no ground injury. 
+This group consists of leaves that are thin to medium in body and show little or no ground injury.
 
 | Grades | Grade names, minimum specifications, and tolerances                                                                                                                      |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

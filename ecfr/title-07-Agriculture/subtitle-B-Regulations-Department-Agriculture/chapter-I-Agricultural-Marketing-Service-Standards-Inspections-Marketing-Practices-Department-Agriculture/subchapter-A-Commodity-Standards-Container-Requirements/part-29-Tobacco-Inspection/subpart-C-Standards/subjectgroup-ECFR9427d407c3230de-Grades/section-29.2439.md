@@ -1,6 +1,6 @@
 ##### § 29.2439 Lugs (X Group).
 
-This group consists of leaves that normally grow near the bottom of the stalk. These leaves usually have a blunt tip, tend to roll, and show ground injury. 
+This group consists of leaves that normally grow near the bottom of the stalk. These leaves usually have a blunt tip, tend to roll, and show ground injury.
 
 | U.S. grades | Grade names and specifications                                                                                                                                |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |

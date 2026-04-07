@@ -1,5 +1,5 @@
 ##### § 117.147 Cerritos Channel.
 
-The draw of the Henry Ford Avenue railroad bridge, mile 4.8 at Long Beach, shall be maintained in the fully open position, except when a train is crossing or for maintenance. If the draw is in the closed position, the opening signal is two short blasts followed by one prolonged blast. The acknowledging signal is two prolonged blasts followed by one short blast when the draw will open immediately and five short blasts when the draw will not open immediately. Channel 13 (156.65 MHZ) or other assigned frequencies may be used.
+The draw of the Henry Ford Avenue railroad bridge, mile 4.8 at Long Beach, shall be maintained in the fully open position, except when a train is crossing or for maintenance. If the draw is in the closed position, the opening signal is two short blasts followed by one prolonged blast. The acknowledging signal is two prolonged blasts followed by one short blast when the draw will open immediately and five short blasts when the draw will not open immediately. Channel 13 (156.65 MHZ) or other assigned frequencies may be used. 
 
 \[CGD 82-025, 49 FR 17452, Apr. 24, 1984; 49 FR 37381, Sept. 24, 1984, as amended by CGD11-90-03, 61 FR 59026, Nov. 20, 1996; 62 FR 31724, June 11, 1997; USCG-1999-5832, 64 FR 34712, June 29, 1999; USCG-2017-0473, 82 FR 28997, June 27, 2017\]

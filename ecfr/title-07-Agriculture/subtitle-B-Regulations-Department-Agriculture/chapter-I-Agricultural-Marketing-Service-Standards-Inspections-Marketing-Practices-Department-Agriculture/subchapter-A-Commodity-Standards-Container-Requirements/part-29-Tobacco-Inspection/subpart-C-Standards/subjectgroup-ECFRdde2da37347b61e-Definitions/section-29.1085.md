@@ -1,6 +1,6 @@
 ##### § 29.1085 Width.
 
-The relative breadth of a tobacco leaf expressed in relation to its length. Width, as an element of quality, does not apply to tobacco in strip form. (See Elements of Quality Chart.) 
+The relative breadth of a tobacco leaf expressed in relation to its length. Width, as an element of quality, does not apply to tobacco in strip form. (See Elements of Quality Chart.)
 
 | Elements                   |          |        | Degrees  |         |         |
 | -------------------------- | -------- | ------ | -------- | ------- | ------- |

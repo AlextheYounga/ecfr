@@ -1,6 +1,6 @@
 ##### § 29.3152 Lugs or Cutters (C Group).
 
-This group consists of leaves normally grown at the midportion of the stalk. Cured leaves from this stalk position have a tendency to roll, concealing the stem or midrib. Lugs or Cutters have an oblate to rounded tip and are usually thin to medium in body. The leaves are spready in relation to their length and show little or no ground injury. 
+This group consists of leaves normally grown at the midportion of the stalk. Cured leaves from this stalk position have a tendency to roll, concealing the stem or midrib. Lugs or Cutters have an oblate to rounded tip and are usually thin to medium in body. The leaves are spready in relation to their length and show little or no ground injury.
 
 | Grades | Grade names and specifications                                                                                                                                                             |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
