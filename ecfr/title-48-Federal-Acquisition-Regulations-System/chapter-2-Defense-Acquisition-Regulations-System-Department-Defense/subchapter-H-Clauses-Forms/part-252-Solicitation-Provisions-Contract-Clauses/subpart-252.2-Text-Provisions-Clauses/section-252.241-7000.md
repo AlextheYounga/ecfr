@@ -4,7 +4,7 @@ As prescribed in 241.501-70(a), use the following clause:
 
 Superseding Contract (DEC 1991)
 
-This contract supersedes contract No. \_\_\_, dated \_\_ which provided similar services. Any capital credits accrued to the Government, any remaining credits due to the Government under the connection charge, or any termination liability are transferred to this contract, as follows:
+This contract supersedes contract No. \_\_\_\_\_\_, dated \_\_\_\_ which provided similar services. Any capital credits accrued to the Government, any remaining credits due to the Government under the connection charge, or any termination liability are transferred to this contract, as follows:
 
 Capital Credits
 

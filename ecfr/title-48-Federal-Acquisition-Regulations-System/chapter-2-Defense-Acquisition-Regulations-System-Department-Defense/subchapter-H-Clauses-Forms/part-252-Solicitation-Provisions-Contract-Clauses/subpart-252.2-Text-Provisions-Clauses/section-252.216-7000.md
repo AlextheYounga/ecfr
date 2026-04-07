@@ -10,7 +10,7 @@ Economic Price Adjustment - Basic Steel, Aluminum, Brass, Bronze, or Copper Mill
 
 *Unit price* excludes any part of the price which reflects requirements for preservation, packaging, and packing beyond standard commercial practice.
 
-(b) As represented by the Contractor in its offer, the unit price stated for \_\_\_\_\_\_\_\_ (*Identify the item*) is not in excess of the Contractor's established price in effect on the date set for opening of bids (or the contract date if this is a negotiated contract) for like quantities of the same item. This price is the net price after applying any applicable standard trade discounts offered by the Contractor from its catalog, list, or schedule price.
+(b) As represented by the Contractor in its offer, the unit price stated for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (*Identify the item*) is not in excess of the Contractor's established price in effect on the date set for opening of bids (or the contract date if this is a negotiated contract) for like quantities of the same item. This price is the net price after applying any applicable standard trade discounts offered by the Contractor from its catalog, list, or schedule price.
 
 (c) The Contractor shall promptly notify the Contracting Officer of the amount and effective date of each decrease in any established price.
 

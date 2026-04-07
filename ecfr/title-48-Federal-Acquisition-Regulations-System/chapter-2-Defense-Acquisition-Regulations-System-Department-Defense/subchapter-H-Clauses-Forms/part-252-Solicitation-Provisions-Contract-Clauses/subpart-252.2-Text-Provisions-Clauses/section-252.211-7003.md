@@ -80,9 +80,9 @@ Item Unique Identification and Valuation (MAR 2022)
 
 (*If items are identified in the Schedule, insert “See Schedule” in this table.*)
 
-(iii) Subassemblies, components, and parts embedded within delivered items, items with warranty requirements, DoD serially managed reparables and DoD serially managed nonreparables as specified in Attachment Number \_\_.
+(iii) Subassemblies, components, and parts embedded within delivered items, items with warranty requirements, DoD serially managed reparables and DoD serially managed nonreparables as specified in Attachment Number \_\_\_\_.
 
-(iv) Any item of special tooling or special test equipment as defined in FAR 2.101 that have been designated for preservation and storage for a Major Defense Acquisition Program as specified in Attachment Number \_\_.
+(iv) Any item of special tooling or special test equipment as defined in FAR 2.101 that have been designated for preservation and storage for a Major Defense Acquisition Program as specified in Attachment Number \_\_\_\_.
 
 (v) Any item not included in paragraphs (c)(1)(i), (ii), (iii), or (iv) of this clause for which the contractor creates and marks a unique item identifier for traceability.
 
@@ -192,7 +192,7 @@ Item Unique Identification and Valuation (MAR 2022)
 
 (ii) Direct data submission to the IUID Registry following the procedures and formats at *http://dodprocurementtoolbox.com/site/uidregistry/;* or
 
-(iii) Via WAWF as a deliverable attachment for exhibit line item number (*fill in*) \_\_, Unique Item Identifier Report for Embedded Items, Contract Data Requirements List, DD Form 1423.
+(iii) Via WAWF as a deliverable attachment for exhibit line item number (*fill in*) \_\_\_\_, Unique Item Identifier Report for Embedded Items, Contract Data Requirements List, DD Form 1423.
 
 (g) *Subcontracts.* If the Contractor acquires by contract any items for which item unique identification is required in accordance with paragraph (c)(1) of this clause, the Contractor shall include this clause, including this paragraph (g), in the applicable subcontract(s), including subcontracts for commercial items.
 

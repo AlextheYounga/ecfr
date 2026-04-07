@@ -2,9 +2,9 @@
 
 (a) *Description.* This profit factor addresses the contractor's degree of risk in fulfilling the contract requirements. The factor consists of two parts:
 
-(1) Technical - the technical uncertainties of performance.
+(1) Technical—the technical uncertainties of performance.
 
-(2) Management/cost control - the degree of management effort necessary -
+(2) Management/cost control—the degree of management effort necessary—
 
 (i) To ensure that contract requirements are met; and
 
@@ -45,7 +45,7 @@
 
 (2) *Technology incentive.* For the technical factor only, contracting officers may use the technology incentive range for acquisitions that include development, production, or application of innovative new technologies. The technology incentive range does not apply to efforts restricted to studies, analyses, or demonstrations that have a technical report as their primary deliverable.
 
-(d) *Evaluation criteria for technical.* (1) Review the contract requirements and focus on the critical performance elements in the statement of work or specifications. Factors to consider include -
+(d) *Evaluation criteria for technical.* (1) Review the contract requirements and focus on the critical performance elements in the statement of work or specifications. Factors to consider include—
 
 (i) Technology being applied or developed by the contractor;
 
@@ -59,7 +59,7 @@
 
 (vi) Extent of a warranty or guarantee.
 
-(2) *Above normal conditions.* (i) The contracting officer may assign a higher than normal value in those cases where there is a substantial technical risk. Indicators are -
+(2) *Above normal conditions.* (i) The contracting officer may assign a higher than normal value in those cases where there is a substantial technical risk. Indicators are—
 
 (A) Items are being manufactured using specifications with stringent tolerance limits;
 
@@ -75,13 +75,13 @@
 
 (ii) Extremely complex, vital efforts to overcome difficult technical obstacles that require personnel with exceptional abilities, experience, and professional credentials may justify a value significantly above normal.
 
-(iii) The following may justify a maximum value -
+(iii) The following may justify a maximum value—
 
 (A) Development or initial production of a new item, particularly if performance or quality specifications are tight; or
 
 (B) A high degree of development or production concurrency.
 
-(3) *Below normal conditions.* (i) The contracting officer may assign a lower than normal value in those cases where the technical risk is low. Indicators are -
+(3) *Below normal conditions.* (i) The contracting officer may assign a lower than normal value in those cases where the technical risk is low. Indicators are—
 
 (A) Requirements are relatively simple;
 
@@ -95,7 +95,7 @@
 
 (F) Acquisition is a follow-on effort or a repetitive type acquisition.
 
-(ii) The contracting officer may assign a value significantly below normal for -
+(ii) The contracting officer may assign a value significantly below normal for—
 
 (A) Routine services;
 
@@ -105,7 +105,7 @@
 
 (D) Simple operations with Government-furnished property.
 
-(4) *Technology incentive range.* (i) The contracting officer may assign values within the technology incentive range when contract performance includes the introduction of new, significant technological innovation. Use the technology incentive range only for the most innovative contract efforts. Innovation may be in the form of -
+(4) *Technology incentive range.* (i) The contracting officer may assign values within the technology incentive range when contract performance includes the introduction of new, significant technological innovation. Use the technology incentive range only for the most innovative contract efforts. Innovation may be in the form of—
 
 (A) Development or application of new technology that fundamentally changes the characteristics of an existing product or system and that results in increased technical performance, improved reliability, or reduced costs; or
 
@@ -113,7 +113,7 @@
 
 (ii) When selecting a value within the technology incentive range, the contracting officer should consider the relative value of the proposed innovation to the acquisition as a whole. When the innovation represents a minor benefit, the contracting officer should consider using values less than the norm. For innovative efforts that will have a major positive impact on the product or program, the contracting officer may use values above the norm.
 
-(e) *Evaluation criteria for management/cost control.* (1) The contracting officer should evaluate -
+(e) *Evaluation criteria for management/cost control.* (1) The contracting officer should evaluate—
 
 (i) The contractor's management and internal control systems using contracting office data, information and reviews made by field contract administration offices or other DoD field offices;
 
@@ -129,7 +129,7 @@
 
 (vii) Any other factors that affect the contractor's ability to meet the cost targets (e.g., foreign currency exchange rates and inflation rates).
 
-(2) *Above normal conditions.* (i) The contracting officer may assign a higher than normal value when there is a high degree of management effort. Indicators of this are -
+(2) *Above normal conditions.* (i) The contracting officer may assign a higher than normal value when there is a high degree of management effort. Indicators of this are—
 
 (A) The contractor's value added is both considerable and reasonably difficult;
 
@@ -145,7 +145,7 @@
 
 (G) The contractor has a proven record of cost tracking and control.
 
-(ii) The contracting officer may justify a maximum value when the effort -
+(ii) The contracting officer may justify a maximum value when the effort—
 
 (A) Requires large scale integration of the most complex nature;
 
@@ -153,9 +153,9 @@
 
 (C) Has critically important milestones.
 
-(iii) If the contractor demonstrates efficient management and cost control through the submittal of a timely, qualifying proposal (as defined in217.7401) in furtherance of definitization of an undefinitized contract action, and the proposal demonstrates effective cost control from the time of award to the present, the contracting officer may add 1 percentage point to the value determined for management/cost control up to the maximum of 7 percent.
+(iii) If the contractor demonstrates efficient management and cost control through the submittal of a timely, qualifying proposal (as defined in 217.7401) in furtherance of definitization of an undefinitized contract action, and the proposal demonstrates effective cost control from the time of award to the present, the contracting officer may add 1 percentage point to the value determined for management/cost control up to the maximum of 7 percent.
 
-(3) *Below normal conditions.* (i) The contracting officer may assign a lower than normal value when the management effort is minimal. Indicators of this are -
+(3) *Below normal conditions.* (i) The contracting officer may assign a lower than normal value when the management effort is minimal. Indicators of this are—
 
 (A) The program is mature and many end item deliveries have been made;
 
@@ -179,7 +179,7 @@
 
 (K) The contractor has a poor record of past performance.
 
-(ii) The following may justify a value significantly below normal -
+(ii) The following may justify a value significantly below normal—
 
 (A) Reviews performed by the field contract administration offices disclose unsatisfactory management and internal control systems (e.g., quality assurance, property control, safety, security); or
 

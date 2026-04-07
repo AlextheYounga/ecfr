@@ -4,7 +4,7 @@ As prescribed in 249.501-70, use the following clause:
 
 Special Termination Costs (DEC 1991)
 
-(a) *Definition. Special termination costs,* as used in this clause, means only costs in the following categories as defined in part 31 of the Federal Acquisition Regulation (FAR) -
+(a) *Definition. Special termination costs,* as used in this clause, means only costs in the following categories as defined in part 31 of the Federal Acquisition Regulation (FAR)—
 
 (1) Severance pay, as provided in FAR 31.205-6(g);
 
@@ -18,7 +18,7 @@ Special Termination Costs (DEC 1991)
 
 (b) Notwithstanding the Limitation of Cost/Limitation of Funds clause of this contract, the Contractor shall not include in its estimate of costs incurred or to be incurred, any amount for special termination costs to which the Contractor may be entitled in the event this contract is terminated for the convenience of the Government.
 
-(c) The Contractor agrees to perform this contract in such a manner that the Contractor's claim for special termination costs will not exceed $\_\_\_\_. The Government shall have no obligation to pay the Contractor any amount for the special termination costs in excess of this amount.
+(c) The Contractor agrees to perform this contract in such a manner that the Contractor's claim for special termination costs will not exceed $\_\_\_\_\_\_\_\_. The Government shall have no obligation to pay the Contractor any amount for the special termination costs in excess of this amount.
 
 (d) In the event of termination for the convenience of the Government, this clause shall not be construed as affecting the allowability of special termination costs in any manner other than limiting the maximum amount of the costs payable by the Government.
 

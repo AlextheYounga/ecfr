@@ -200,6 +200,10 @@
 
 (HH) Use the clause at 252.225-7054, Prohibition on Use of Certain Energy Sourced from Inside the Russian Federation, as prescribed in 225.7019-4(b), to comply with section 2821 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
 
+(II) Use the provision at 252.225-7055, Representation Regarding Business Operations with the Maduro Regime, as prescribed in 225.7020-5(a), to comply with section 890 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
+
+(JJ) Use the clause at 252.225-7056, Prohibition Regarding Business Operations with the Maduro Regime, as prescribed in 225.7020-5(b), to comply with section 890 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
+
 (xi) *Part 226 - Other Socioeconomic Programs.* (A) Use the clause at 252.226-7001, Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Native Hawaiian Small Business Concerns, as prescribed in 226.104, to comply with section 8021 of Pub. L. 107-248 and similar sections in subsequent DoD appropriations acts.
 
 (B) Use the provision at 252.226-7002, Representation for Demonstration Project for Contractors Employing Persons with Disabilities, as prescribed in 226.7203.

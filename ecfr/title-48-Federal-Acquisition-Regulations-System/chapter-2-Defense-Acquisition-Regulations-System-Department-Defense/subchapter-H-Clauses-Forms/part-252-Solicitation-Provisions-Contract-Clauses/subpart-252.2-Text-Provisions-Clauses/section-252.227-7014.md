@@ -212,7 +212,7 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 Special License Rights
 
-The Government's rights to use, modify, reproduce, release, perform, display, or disclose this software are restricted by Contract No. \_\_\_\_(Insert contract number)\_\_\_\_, License No.\_\_\_\_(Insert license identifier)\_\_\_\_. Any reproduction of computer software, computer software documentation, or portions thereof marked with this legend must also reproduce the markings.
+The Government's rights to use, modify, reproduce, release, perform, display, or disclose this software are restricted by Contract No. \_\_\_\_\_\_\_\_(Insert contract number)\_\_\_\_\_\_\_\_, License No.\_\_\_\_\_\_\_\_(Insert license identifier)\_\_\_\_\_\_\_\_. Any reproduction of computer software, computer software documentation, or portions thereof marked with this legend must also reproduce the markings.
 
 (End of legend) 
 
