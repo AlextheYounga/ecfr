@@ -1,20 +1,18 @@
 ##### § 959.322 Handling regulation.
 
-Link to an amendment published at 83 FR 594, Jan. 5, 2018.
-
 During the period beginning March 1 and ending June 4, no handler shall handle any onions, including onions for peeling, chopping, and slicing, unless they comply with paragraphs (a) through (c) or (d) or (e) of this section; except that onions handled during the period June 5 through July 15 shall comply with paragraphs (c) or (d) or (e) of this section.
 
 (a) *Grade requirements.* Not to exceed 20 percent defects of U.S. No. 1 grade. In percentage grade lots, tolerances for serious damage shall not exceed 10 percent including not more than 2 percent decay. Double the lot tolerance shall be permitted in individual packages in percentage grade lots. Application of tolerances in U.S. onion standards shall apply to in-grade lots.
 
-(b) *Size requirements.* (1) “Small” - 1 to 2 1/4 inches in diameter, and limited to whites only;
+(b) *Size requirements.* (1) “Small”—1 to 2 1/4 inches in diameter, and limited to whites only;
 
-(2) “Repacker” - 1 3/4 to 3 inches in diameter, with 60 percent or more 2 inches in diameter or larger;
+(2) “Repacker”—1 3/4 to 3 inches in diameter, with 60 percent or more 2 inches in diameter or larger;
 
-(3) “Medium” - 2 to 3 1/2 inches in diameter; or
+(3) “Medium”—2 to 3 1/2 inches in diameter; or
 
-(4) “Jumbo” or “Large” - 3 inches or larger in diameter; or
+(4) “Jumbo” or “Large”—3 inches or larger in diameter; or
 
-(5) “Colossal” - 3 3/4 inches or larger in diameter.
+(5) “Colossal”—3 3/4 inches or larger in diameter.
 
 (6) Tolerances for size in the U.S. onion standards shall apply except that for “repacker” and “medium” sizes not more than 20 percent, by weight, of onions in any lot may be larger than the maximum diameter specified. Application of tolerances in the U.S. onion standards shall apply.
 
@@ -60,4 +58,4 @@ During the period beginning March 1 and ending June 4, no handler shall handle a
 
 (g) *Definitions. U.S. onion standards* means the United States Standards for Grades of Bermuda-Granex-Grano Type Onions (7 CFR 51.3195-51.3209), or the United States Standards for Grades of Onions (Other Than Bermuda-Granex-Grano and Creole Types) (7 CFR 51.2830-51.2854), whichever is applicable to the particular variety, or variations thereof specified in this section. The term *U.S. No. 1* shall have the same meaning as set forth in these standards. *Processing* means cooking or freezing the onions in such a way, or with such other food components, that the consistency of the product is changed. Canning and freezing shall be considered forms of processing. All other terms used in this section shall have the same meaning as when used in Marketing Agreement No. 143, as amended, and this part.
 
-\[47 FR 8552, Mar. 1, 1982\] Editorial Note:For Federal Register citations affecting § 959.322, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+\[47 FR 8552, Mar. 1, 1982\] Editorial Note:For Federal Register citations affecting § 959.322, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
