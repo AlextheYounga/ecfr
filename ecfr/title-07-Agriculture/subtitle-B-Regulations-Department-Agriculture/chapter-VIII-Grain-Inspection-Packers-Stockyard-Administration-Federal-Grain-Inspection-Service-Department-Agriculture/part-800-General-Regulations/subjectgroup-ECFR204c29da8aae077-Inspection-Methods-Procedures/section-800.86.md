@@ -1,7 +1,5 @@
 ##### § 800.86 Inspection of shiplot, unit train, and lash barge grain in single lots.
 
-Link to an amendment published at 81 FR 20543, May 3, 2017.
-
 (a) *General.* Official inspection for grade of bulk or sacked grain aboard, or being loaded aboard, or being unloaded from a ship, unit train, or lash barges as a single lot shall be performed according to the provisions of this section and procedures prescribed in the instructions.
 
 (b) *Application procedure.* Applications for the official inspection of shiplot, unit train, and lash barges as a single lot shall:
@@ -14,50 +12,50 @@ Link to an amendment published at 81 FR 20543, May 3, 2017.
 
 (4) Identify the carrier and stowage area into which the grain is being loaded, or from which the grain is being unloaded, or in which the grain is at rest.
 
-(c) *Inspection procedures* - (1) *General information.* Shiplot, unit train, and lash barge grain officially inspected as a single lot shall be sampled in a reasonably continuous operation. Representative samples shall be obtained from the grain offered for inspection and inspected and graded in accordance with a statistical acceptance sampling and inspection plan according to the provisions of this section and procedures prescribed in the instructions.
+(c) *Inspection procedures*—(1) *General information.* Shiplot, unit train, and lash barge grain officially inspected as a single lot shall be sampled in a reasonably continuous operation. Representative samples shall be obtained from the grain offered for inspection and inspected and graded in accordance with a statistical acceptance sampling and inspection plan according to the provisions of this section and procedures prescribed in the instructions.
 
 (2) *Tolerances.* The probability of accepting or rejecting portions of the lot during loading or unloading is dependent on inspection results obtained from preceding portions and the applied breakpoints and procedures. Breakpoints shall be periodically reviewed and revised based on new estimates of inspection variability. Tables 1 through 24 list the breakpoints for all grains.
 
-Table 1 - Grade Limits (GL) and Breakpoints (BP) for Six-Rowed Malting Barley and Six-Rowed Blue Malting Barley
+Table 1—Grade Limits (GL) and Breakpoints (BP) for Six-Rowed Malting Barley
 
-| Grade      | Minimum limits of - | Maximum limits of - |
-| ---------- | ------------------- | ------------------- |
-|            | GL BP               | GL BP               |
-| U.S. No. 1 | 47.0 −0.5           | 95.0 −1.3           |
-| U.S. No. 2 | 45.0 −0.5           | 95.0 −1.3           |
-| U.S. No. 3 | 43.0 −0.5           | 95.0 −1.3           |
-| U.S. No. 4 | 43.0 −0.5           | 95.0 −1.3           |
-
-1 Injured-by-frost kernels and injured-by-mold kernels are not considered damaged kernels or considered against sound barley.
-
-Table 2 - Grade Limits (GL) and Breakpoints (BP) for Two-Rowed Malting Barley
-
-| Grade      | Minimum limits of - | Maximum limits of - |
-| ---------- | ------------------- | ------------------- |
-|            | GL BP               | GL BP               |
-| U.S. No. 1 | 50.0 −0.5           | 97.0 −1.0           |
-| U.S. No. 2 | 48.0 −0.5           | 97.0 −1.0           |
-| U.S. No. 3 | 48.0 −0.5           | 95.0 −1.3           |
-| U.S. No. 4 | 48.0 −0.5           | 95.0 −1.3           |
+| Grade      | Minimum limits of— | Maximum limits of— |
+| ---------- | ------------------ | ------------------ |
+| U.S. No. 1 | 47.0               | −0.5               |
+| U.S. No. 2 | 45.0               | −0.5               |
+| U.S. No. 3 | 43.0               | −0.5               |
+| U.S. No. 4 | 43.0               | −0.5               |
 
 1 Injured-by-frost kernels and injured-by-mold kernels are not considered damaged kernels or considered against sound barley.
 
-Note: Malting barley shall not be infested in accordance with § 810.107(b) and shall not contain any special grades as defined in § 810.206. Six- and two-rowed barley varieties not meeting the above requirements shall be graded in accordance with standards established for the class Barley.
+Table 2—Grade Limits (GL) and Breakpoints (BP) for Two-Rowed Malting Barley
 
-Table 3 - Grade Limits (GL) and Breakpoints (BP) for Barley
+| Grade      | Minimum limits of— | Maximum limits of— |
+| ---------- | ------------------ | ------------------ |
+| U.S. No. 1 | 50.0               | −0.5               |
+| U.S. No. 2 | 48.0               | −0.5               |
+| U.S. No. 3 | 48.0               | −0.5               |
+| U.S. No. 4 | 48.0               | −0.5               |
 
-| Grade      | Minimum limits of - | Maximum limits of - |
-| ---------- | ------------------- | ------------------- |
-|            | GL BP               | GL BP               |
-| U.S. No. 1 | 47.0 −0.5           | 97.0 −1.1           |
-| U.S. No. 2 | 45.0 −0.5           | 94.0 −1.4           |
-| U.S. No. 3 | 43.0 −0.5           | 90.0 −1.6           |
-| U.S. No. 4 | 40.0 −0.5           | 85.0 −2.2           |
-| U.S. No. 5 | 36.0 −0.5           | 75.0 −2.2           |
+1 Injured-by-frost kernels and injured-by-mold kernels are not considered damaged kernels or considered against sound barley.
+
+Note:
+
+Malting barley must not be infested in accordance with § 810.107(b) and must not contain any special grades as defined in § 810.206. Six- and two-rowed barley varieties not meeting the above requirements must be graded in accordance with standards established for the class Barley.
+
+Table 3—Grade Limits (GL) and Breakpoints (BP) for Barley
+
+| Grade      | Minimum limits of— | Maximum limits of— |
+| ---------- | ------------------ | ------------------ |
+|            | GL BP              | GL BP              |
+| U.S. No. 1 | 47.0 −0.5          | 97.0 −1.1          |
+| U.S. No. 2 | 45.0 −0.5          | 94.0 −1.4          |
+| U.S. No. 3 | 43.0 −0.5          | 90.0 −1.6          |
+| U.S. No. 4 | 40.0 −0.5          | 85.0 −2.2          |
+| U.S. No. 5 | 36.0 −0.5          | 75.0 −2.2          |
 
 1 Includes heat-damaged kernels. Injured-by-frost kernels and injured-by-mold kernels are not considered damaged kernels.
 
-Table 4 - Breakpoints for Barley Special Grades and Factors
+Table 4—Breakpoints for Barley Special Grades and Factors
 
 | Special grade or factor         | Grade or range limit                          | Breakpoint |
 | ------------------------------- | --------------------------------------------- | ---------- |
@@ -78,18 +76,18 @@ Table 4 - Breakpoints for Barley Special Grades and Factors
 | Other Grains                    | Not more than 25.0%                           | 2.4        |
 | Moisture                        | As specified by contract or load order grade  | 0.5        |
 
-Table 5 - Grade Limits (GL) and Breakpoints (BP) for Corn
+Table 5—Grade Limits (GL) and Breakpoints (BP) for Corn
 
-| Grade      | Minimum test weight per bushel (pounds) | Maximum limits of - |
-| ---------- | --------------------------------------- | ------------------- |
-|            | GL BP                                   | GL BP               |
-| U.S. No. 1 | 56.0 −0.4                               | 0.1 0.1             |
-| U.S. No. 2 | 54.0 −0.4                               | 0.2 0.2             |
-| U.S. No. 3 | 52.0 −0.4                               | 0.5 0.3             |
-| U.S. No. 4 | 49.0 −0.4                               | 1.0 0.5             |
-| U.S. No. 5 | 46.0 −0.4                               | 3.0 0.9             |
+| Grade      | Minimum test weight per bushel (pounds) | Maximum limits of— |
+| ---------- | --------------------------------------- | ------------------ |
+|            | GL BP                                   | GL BP              |
+| U.S. No. 1 | 56.0 −0.4                               | 0.1 0.1            |
+| U.S. No. 2 | 54.0 −0.4                               | 0.2 0.2            |
+| U.S. No. 3 | 52.0 −0.4                               | 0.5 0.3            |
+| U.S. No. 4 | 49.0 −0.4                               | 1.0 0.5            |
+| U.S. No. 5 | 46.0 −0.4                               | 3.0 0.9            |
 
-Table 6 - Breakpoints for Corn Special Grades and Factors
+Table 6—Breakpoints for Corn Special Grades and Factors
 
 | Special grade or factor | Grade limit                                                 | Breakpoint                         |
 | ----------------------- | ----------------------------------------------------------- | ---------------------------------- |
@@ -103,7 +101,7 @@ Table 6 - Breakpoints for Corn Special Grades and Factors
 | High BCFM               | As specified by contract or load order grade                | 10 percent of the load order grade |
 | Moisture                | As specified by contract or load order grade                | 0.4                                |
 
-Table 7 - Grade limits (GL) and Breakpoints (BP) for Flaxseed
+Table 7—Grade limits (GL) and Breakpoints (BP) for Flaxseed
 
 | Grade      | Minimum test weight per bushel (pounds) | Maximum limits of-damaged kernels |
 | ---------- | --------------------------------------- | --------------------------------- |
@@ -111,23 +109,23 @@ Table 7 - Grade limits (GL) and Breakpoints (BP) for Flaxseed
 | U.S. No. 1 | 49.0 -0.1                               | 0.2 0.1                           |
 | U.S. No. 2 | 47.0 -0.1                               | 0.5 0.1                           |
 
-Table 8 - Breakpoints for Flaxseed Special Grades and Factors
+Table 8—Breakpoints for Flaxseed Special Grades and Factors
 
 | Special grade or factor | Grade limit                                  | Breakpoint |
 | ----------------------- | -------------------------------------------- | ---------- |
 | Moisture                | As specified by load order or contract grade | 0.4        |
 | Dockage                 | 0.99 percent or above                        | 0.32       |
 
-Table 9 - Grade Limits (GL) and Breakpoints (BP) for Mixed Grain
+Table 9—Grade Limits (GL) and Breakpoints (BP) for Mixed Grain
 
-| Grade            | Maximum Limits of - |
-| ---------------- | ------------------- |
-|                  |                     |
-| U.S. Mixed Grain | 16.0                |
+| Grade            | Maximum Limits of— |
+| ---------------- | ------------------ |
+|                  |                    |
+| U.S. Mixed Grain | 16.0               |
 
 Note: There is no tolerance for U.S. Sample grade Mixed Grain.
 
-Table 10 - Breakpoints for Mixed Grain Special Grades and Factors
+Table 10—Breakpoints for Mixed Grain Special Grades and Factors
 
 | Special grade or factor | Grade limit                                                       | Breakpoint |
 | ----------------------- | ----------------------------------------------------------------- | ---------- |
@@ -142,21 +140,21 @@ Table 10 - Breakpoints for Mixed Grain Special Grades and Factors
 | Treated                 | Same as in § 810.805                                              | 0          |
 | Moisture                | As specified by contract or load order grade                      | 0.5        |
 
-Table 11 - Grade Limits (GL) and Breakpoints (BP) for Oats
+Table 11—Grade Limits (GL) and Breakpoints (BP) for Oats
 
-| Grade        | Minimum limits of - | Maximum limits of - |
-| ------------ | ------------------- | ------------------- |
-|              | GL BP               | GL BP               |
-| U.S. No. 1   | 36.0 −0.5           | 97.0 −0.8           |
-| U.S. No. 2   | 33.0 −0.5           | 94.0 −1.2           |
-| U.S. No. 3 1 | 30.0 −0.5           | 90.0 −1.4           |
-| U.S. No. 4 2 | 27.0 −0.5           | 80.0 −1.9           |
+| Grade        | Minimum limits of— | Maximum limits of— |
+| ------------ | ------------------ | ------------------ |
+|              | GL BP              | GL BP              |
+| U.S. No. 1   | 36.0 −0.5          | 97.0 −0.8          |
+| U.S. No. 2   | 33.0 −0.5          | 94.0 −1.2          |
+| U.S. No. 3 1 | 30.0 −0.5          | 90.0 −1.4          |
+| U.S. No. 4 2 | 27.0 −0.5          | 80.0 −1.9          |
 
 1 Oats that are Slightly Weathered shall be graded not higher than U.S. No. 3.
 
 2 Oats that are Badly Stained or Materially Weathered shall be graded not higher than U.S. No. 4.
 
-Table 12 - Breakpoints for Oats Special Grades and Factors
+Table 12—Breakpoints for Oats Special Grades and Factors
 
 | Special grade or factors | Grade limit                                  | Breakpoint |
 | ------------------------ | -------------------------------------------- | ---------- |
@@ -170,17 +168,17 @@ Table 12 - Breakpoints for Oats Special Grades and Factors
 | Infested                 | Same as in § 810.107                         | 0          |
 | Bleached                 | Same as in § 810.1005                        | 0          |
 
-Table 13 - Grade Limits (GL) and Breakpoints (BP) for Rye
+Table 13—Grade Limits (GL) and Breakpoints (BP) for Rye
 
-| Grade      | Minimum test weight per bushel (pounds) | Maximum limits of - |
-| ---------- | --------------------------------------- | ------------------- |
-|            | GL BP                                   | GL BP               |
-| U.S. No. 1 | 56.0 −0.5                               | 1.0 0.4             |
-| U.S. No. 2 | 54.0 −0.5                               | 2.0 0.5             |
-| U.S. No. 3 | 52.0 −0.5                               | 4.0 0.8             |
-| U.S. No. 4 | 49.0 −0.5                               | 6.0 0.8             |
+| Grade      | Minimum test weight per bushel (pounds) | Maximum limits of— |
+| ---------- | --------------------------------------- | ------------------ |
+|            | GL BP                                   | GL BP              |
+| U.S. No. 1 | 56.0 −0.5                               | 1.0 0.4            |
+| U.S. No. 2 | 54.0 −0.5                               | 2.0 0.5            |
+| U.S. No. 3 | 52.0 −0.5                               | 4.0 0.8            |
+| U.S. No. 4 | 49.0 −0.5                               | 6.0 0.8            |
 
-Table 14 - Breakpoints for Rye Special Grades and Factors
+Table 14—Breakpoints for Rye Special Grades and Factors
 
 | Special grade or factor | Grade limit                                  | Breakpoint |
 | ----------------------- | -------------------------------------------- | ---------- |
@@ -194,19 +192,19 @@ Table 14 - Breakpoints for Rye Special Grades and Factors
 | Infested                | Same as in § 810.107                         | 0          |
 | Dockage                 | As specified by contract or load order grade | 0.2        |
 
-Table 15 - Grade Limits (GL) and Breakpoints (BP) for Sorghum
+Table 15—Grade Limits (GL) and Breakpoints (BP) for Sorghum
 
-| Grade        | Minimum test weight per bushel   (pounds) | Maximum limits of - |
-| ------------ | ----------------------------------------- | ------------------- |
-|              | GL BP                                     | GL BP               |
-| U.S. No. 1   | 57.0 −0.4                                 | 0.2 0.1             |
-| U.S. No. 2   | 55.0 −0.4                                 | 0.5 −0.4            |
-| U.S. No. 3 1 | 53.0 −0.4                                 | 1.0 0.5             |
-| U.S. No. 4   | 51.0 −0.4                                 | 3.0 0.8             |
+| Grade        | Minimum test weight per bushel   (pounds) | Maximum limits of— |
+| ------------ | ----------------------------------------- | ------------------ |
+|              | GL BP                                     | GL BP              |
+| U.S. No. 1   | 57.0 −0.4                                 | 0.2 0.1            |
+| U.S. No. 2   | 55.0 −0.4                                 | 0.5 −0.4           |
+| U.S. No. 3 1 | 53.0 −0.4                                 | 1.0 0.5            |
+| U.S. No. 4   | 51.0 −0.4                                 | 3.0 0.8            |
 
 1 Sorghum that is distinctly discolored shall be graded not higher than U.S. No. 3.
 
-Table 16 - Breakpoints for Sorghum Special Grades and Factors
+Table 16—Breakpoints for Sorghum Special Grades and Factors
 
 | Special grade or factors | Grade limit                                  | Breakpoint |
 | ------------------------ | -------------------------------------------- | ---------- |
@@ -218,20 +216,20 @@ Table 16 - Breakpoints for Sorghum Special Grades and Factors
 | Dockage                  | 0.99% and above                              | 0.32       |
 | Moisture                 | As specified by contract or load order grade | 0.5        |
 
-Table 17 - Grade Limits (GL) and Breakpoints (BP) for Soybeans
+Table 17—Grade Limits (GL) and Breakpoints (BP) for Soybeans
 
-| Grade        | Maximum limits of - |
-| ------------ | ------------------- |
-| U.S. No. 1   | 0.2                 |
-| U.S. No. 2   | 0.5                 |
-| U.S. No. 3 1 | 1.0                 |
-| U.S. No. 4 2 | 3.0                 |
+| Grade        | Maximum limits of— |
+| ------------ | ------------------ |
+| U.S. No. 1   | 0.2                |
+| U.S. No. 2   | 0.5                |
+| U.S. No. 3 1 | 1.0                |
+| U.S. No. 4 2 | 3.0                |
 
 1 Soybeans that are purple mottled or stained which will not be graded higher than U.S. No. 3.
 
 2 Soybeans that are materially weathered which will not be graded not higher than U.S. No. 4.
 
-Table 18 - Breakpoints for Soybean Special Grades and Factors
+Table 18—Breakpoints for Soybean Special Grades and Factors
 
 | Special grade or factor  | Grade limit                                  | Breakpoint |
 | ------------------------ | -------------------------------------------- | ---------- |
@@ -241,7 +239,7 @@ Table 18 - Breakpoints for Soybean Special Grades and Factors
 | Moisture                 | As specified by contract or load order grade | 0.3        |
 | Test Weight              | As specified by contract or load order       | −0.4       |
 
-Table 20 - Breakpoints for Sunflower Seed Special Grades and Factors
+Table 20—Breakpoints for Sunflower Seed Special Grades and Factors
 
 | Special grade or factor | Grade limit                                  | Breakpoint |
 | ----------------------- | -------------------------------------------- | ---------- |
@@ -250,15 +248,15 @@ Table 20 - Breakpoints for Sunflower Seed Special Grades and Factors
 |                         | 1.26% and above                              | 0.39       |
 | Admixture               | As specified by contract or load order grade | 0.6        |
 
-Table 21 - Grade Limits (GL) and Breakpoints (BP) for Triticale
+Table 21—Grade Limits (GL) and Breakpoints (BP) for Triticale
 
-| Grade      | Minimum test weight per bushel (percent) | Maximum limits of - |
-| ---------- | ---------------------------------------- | ------------------- |
-|            | GL BP                                    | GL BP               |
-| U.S. No. 1 | 48.0 -0.5                                | 0.2 0.1             |
-| U.S. No. 2 | 45.0 -0.5                                | 0.2 0.1             |
-| U.S. No. 3 | 43.0 -0.5                                | 0.5 0.4             |
-| U.S. No. 4 | 41.0 -0.5                                | 3.0 0.8             |
+| Grade      | Minimum test weight per bushel (percent) | Maximum limits of— |
+| ---------- | ---------------------------------------- | ------------------ |
+|            | GL BP                                    | GL BP              |
+| U.S. No. 1 | 48.0 -0.5                                | 0.2 0.1            |
+| U.S. No. 2 | 45.0 -0.5                                | 0.2 0.1            |
+| U.S. No. 3 | 43.0 -0.5                                | 0.5 0.4            |
+| U.S. No. 4 | 41.0 -0.5                                | 3.0 0.8            |
 
 1 Includes heat-damaged kernels.
 
@@ -266,7 +264,7 @@ Table 21 - Grade Limits (GL) and Breakpoints (BP) for Triticale
 
 3 Defects includes damaged kernels (total), foreign material (total), and shrunken and broken kernels. The sum of these three factors may not exceed the limit for defects for each numerical grade.
 
-Table 22 - Breakpoints for Triticale Special Grades and Factors
+Table 22—Breakpoints for Triticale Special Grades and Factors
 
 | Special grade or factor | Grade limit                                  | Breakpoint |
 | ----------------------- | -------------------------------------------- | ---------- |
@@ -277,16 +275,16 @@ Table 22 - Breakpoints for Triticale Special Grades and Factors
 | Dockage                 | 0.99% or above                               | 0.32       |
 | Moisture                | As specified by contract or load order grade | 0.5        |
 
-Table 23 - Grade Limits (GL) and Breakpoints (BP) for Wheat
+Table 23—Grade Limits (GL) and Breakpoints (BP) for Wheat
 
-| Grade      | Minimum limits of - | Maximum limits of - |
-| ---------- | ------------------- | ------------------- |
-|            | GL BP               | GL BP               |
-| U.S. No. 1 | 58.0 −0.3           | 60.0 −0.3           |
-| U.S. No. 2 | 57.0 −0.3           | 58.0 −0.3           |
-| U.S. No. 3 | 55.0 −0.3           | 56.0 −0.3           |
-| U.S. No. 4 | 53.0 −0.3           | 54.0 −0.3           |
-| U.S. No. 5 | 50.0 −0.3           | 51.0 −0.3           |
+| Grade      | Minimum limits of— | Maximum limits of— |
+| ---------- | ------------------ | ------------------ |
+|            | GL BP              | GL BP              |
+| U.S. No. 1 | 58.0 −0.3          | 60.0 −0.3          |
+| U.S. No. 2 | 57.0 −0.3          | 58.0 −0.3          |
+| U.S. No. 3 | 55.0 −0.3          | 56.0 −0.3          |
+| U.S. No. 4 | 53.0 −0.3          | 54.0 −0.3          |
+| U.S. No. 5 | 50.0 −0.3          | 51.0 −0.3          |
 
 1 These requirements also apply when Hard Red Spring or White Club wheat predominate in a sample of Mixed wheat.
 
@@ -298,7 +296,7 @@ Table 23 - Grade Limits (GL) and Breakpoints (BP) for Wheat
 
 5 Includes contrasting classes.
 
-Table 24 - Breakpoints for Wheat Special Grades and Factors
+Table 24—Breakpoints for Wheat Special Grades and Factors
 
 | Special grade or factor | Grade limit                                                    | Breakpoint |
 | ----------------------- | -------------------------------------------------------------- | ---------- |
@@ -342,7 +340,7 @@ Table 24 - Breakpoints for Wheat Special Grades and Factors
 
 (ii) *Entire lot.* The applicant may request a reinspection service, an appeal inspection service, and a Board appeal inspection service on the entire lot. Inspection results for these services shall replace the previous inspection results. The tolerances shall be reapplied to all portions of the entire lot to determine acceptance or rejection.
 
-(d) *Infested grain* - (1) *Available options.* If gain or any portion of grain in a single shiplot, unit train, or lash barge lot is found to be infested, according to the provisions of the Official U.S. Standards for Grain, the applicant shall be promptly notified and have the option of:
+(d) *Infested grain*—(1) *Available options.* If gain or any portion of grain in a single shiplot, unit train, or lash barge lot is found to be infested, according to the provisions of the Official U.S. Standards for Grain, the applicant shall be promptly notified and have the option of:
 
 (i) Unloading the portion of infested grain from the lot and an additional amount of other grain in common stowage with the infested grain; or
 
@@ -356,7 +354,7 @@ Table 24 - Breakpoints for Wheat Special Grades and Factors
 
 (3) *With treatment.* If infested grain is treated with a fumigant in accordance with the instructions and the treatment is witnessed by official personnel, the official sampling, inspection, grading, and certification of the lot shall continue as though the infested condition did not exist.
 
-(e) *Special certification procedures* - (1) *Rejected grain.* When grain is rejected by the inspection plan under paragraph (c)(4) of this section, the official inspection certificate for each different portion of different quality shall show:
+(e) *Special certification procedures*—(1) *Rejected grain.* When grain is rejected by the inspection plan under paragraph (c)(4) of this section, the official inspection certificate for each different portion of different quality shall show:
 
 (i) A statement that the grain has been loaded aboard with grain of other quality;
 
@@ -378,4 +376,4 @@ The requirement of paragraph (e)(1)(i) of this section does not apply to grain t
 
 (5) *Official mark.* If the grain in a single lot is officially inspected for grade as it is being loaded, upon request, the following official mark shall be shown on the inspection certificate: “Loaded under continuous official inspection.”
 
-\[55 FR 24042, June 13, 1990; 55 FR 46131, Nov. 1, 1990, as amended at 56 FR 4675, Feb. 5, 1991; 57 FR 58965, 58970, Dec. 14, 1992; 61 FR 18490, Apr. 26, 1996; 63 FR 20056, Apr. 23, 1998; 64 FR 6783, Feb. 11, 1999; 71 FR 52405, Sept. 6, 2006; 71 FR 77853, Dec. 27, 2006; 73 FR 39732, July 20, 2007\]
+\[55 FR 24042, June 13, 1990; 55 FR 46131, Nov. 1, 1990, as amended at 56 FR 4675, Feb. 5, 1991; 57 FR 58965, 58970, Dec. 14, 1992; 61 FR 18490, Apr. 26, 1996; 63 FR 20056, Apr. 23, 1998; 64 FR 6783, Feb. 11, 1999; 71 FR 52405, Sept. 6, 2006; 71 FR 77853, Dec. 27, 2006; 73 FR 39732, July 20, 2007; 82 FR 20543, May 3, 2017\]
