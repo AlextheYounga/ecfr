@@ -18,4 +18,6 @@ To be eligible for a CFAP payment, a producer must:
 
 (6) Foreign person or foreign entity who meets all requirements as described in part 1400 of this title; and
 
-(c) Have had a share in the eligible commodity on January 15, 2020, or April 16, 2020, through May 14, 2020.
+(c) For payments under § 9.102 of this part, have had a share in the eligible commodity on January 15, 2020, or April 16, 2020, through May 14, 2020.
+
+\[85 FR 30830, May 21, 2020, as amended at 85 FR 59384, Sept. 22, 2020\]

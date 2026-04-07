@@ -1,6 +1,10 @@
 ##### § 9.4 Time and method of application.
 
-(a) An application under this subpart must be submitted in person, by mail, email, or facsimile to any FSA county office by the close of business on September 11, 2020.
+(a) A completed application under this subpart must be submitted in person, by mail, email, or facsimile to any FSA county office by the close of business on:
+
+(1) September 11, 2020, for payments issued under § 9.102 of this part; and
+
+(2) December 11, 2020, for payments issued under § 9.202 of this part.
 
 (b) Failure of an individual, entity, or a member of an entity to submit the following payment limitation and payment eligibility forms within 60-days from the date of signing the CFAP application, may result in no payment or a reduced payment:
 
@@ -22,4 +26,6 @@
 
 (3) Establishes the applicant's value at risk in the commodity.
 
-\[85 FR 30830, May 21, 2020, as amended at 85 FR 49594, Aug. 14, 2020\]
+(d) A producer applying for assistance for a crop subject to § 9.202(a) or (b) must file a report of all acreage of the crop on FSA-578, Report of Acreage.
+
+\[85 FR 30830, May 21, 2020, as amended at 85 FR 49594, Aug. 14, 2020; 85 FR 59384, Sept. 22, 2020\]
