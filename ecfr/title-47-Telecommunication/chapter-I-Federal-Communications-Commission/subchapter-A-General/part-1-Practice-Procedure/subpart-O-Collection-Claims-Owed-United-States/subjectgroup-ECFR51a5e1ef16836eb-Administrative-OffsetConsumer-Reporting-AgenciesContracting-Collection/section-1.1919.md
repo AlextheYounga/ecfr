@@ -1,6 +1,6 @@
 ##### § 1.1919 Contracting for collection services.
 
-(a) Subject to the provisions of paragraph (b) of this section, the Commission may contract with private collection contractors, as defined in 31 U.S.C. 3701(f), to recover delinquent debts. In that regard, the Commission:
+(a) Subject to the provisions of paragraph (b) of this section, the Commission may contract with private collection contractors, as defined in 31 U.S.C. 3701(f), to recover delinquent debts. In that regard, the Commission:*See*
 
 (1) Retains the authority to resolve disputes, compromise debts, suspend or terminate collection activity, and refer debts for litigation;
 

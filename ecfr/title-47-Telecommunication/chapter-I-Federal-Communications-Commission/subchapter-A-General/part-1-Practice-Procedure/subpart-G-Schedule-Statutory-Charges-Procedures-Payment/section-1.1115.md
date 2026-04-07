@@ -1,6 +1,6 @@
 ##### § 1.1115 Return or refund of charges.
 
-(a) All refunds will be issued to the payer named in the appropriate block of the FCC Form 159. The full amount of any fee submitted will be returned or refunded, as appropriate, under the authority granted at § 0.231.
+(a) All refunds will be issued to the payer named in the appropriate block of the FCC Form 159. The full amount of any fee submitted will be returned or refunded, as appropriate, under the authority granted at § 0.231.*see*
 
 (1) When no fee is required for the application or other filing. (*see* § 1.1111).
 

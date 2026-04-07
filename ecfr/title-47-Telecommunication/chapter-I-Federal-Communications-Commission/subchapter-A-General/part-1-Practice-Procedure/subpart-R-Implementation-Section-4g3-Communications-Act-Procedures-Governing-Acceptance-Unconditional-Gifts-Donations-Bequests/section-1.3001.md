@@ -1,6 +1,6 @@
 ##### § 1.3001 Definitions.
 
-For purposes of this subpart:
+For purposes of this subpart:*agency*
 
 (a) The term *agency* means the Federal Communications Commission.
 

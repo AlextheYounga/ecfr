@@ -1,6 +1,6 @@
 ##### § 1.2200 Definitions.
 
-For purposes of §§ 1.2200 through 1.2209:
+For purposes of §§ 1.2200 through 1.2209:*Broadcast television licensee.*
 
 (a) *Broadcast television licensee.* The term *broadcast television licensee* means the licensee of
 

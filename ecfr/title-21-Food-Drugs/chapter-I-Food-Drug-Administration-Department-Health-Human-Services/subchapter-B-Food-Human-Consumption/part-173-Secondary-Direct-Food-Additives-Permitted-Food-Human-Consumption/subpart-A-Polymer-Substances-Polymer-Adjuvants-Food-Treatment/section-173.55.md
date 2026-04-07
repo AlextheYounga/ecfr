@@ -1,10 +1,10 @@
 ##### § 173.55 Polyvinylpyrrolidone.
 
-The food additive polyvinylpyrroli-done may be safely used in accordance with the following prescribed conditions: 
+The food additive polyvinylpyrroli-done may be safely used in accordance with the following prescribed conditions:
 
-(a) The additive is a polymer of purified vinylpyrrolidone catalytically produced, having an average molecular weight of 40,000 and a maximum unsaturation of 1 percent, calculated as the monomer, except that the polyvinylpyrrolidone used in beer is that having an average molecular weight of 360,000 and a maximum unsaturation of 1 percent, calculated as the monomer. 
+(a) The additive is a polymer of purified vinylpyrrolidone catalytically produced, having an average molecular weight of 40,000 and a maximum unsaturation of 1 percent, calculated as the monomer, except that the polyvinylpyrrolidone used in beer is that having an average molecular weight of 360,000 and a maximum unsaturation of 1 percent, calculated as the monomer.
 
-(b) The additive is used or intended for use in foods as follows: 
+(b) The additive is used or intended for use in foods as follows:
 
 | Food                                                | Limitations                                                                                             |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |

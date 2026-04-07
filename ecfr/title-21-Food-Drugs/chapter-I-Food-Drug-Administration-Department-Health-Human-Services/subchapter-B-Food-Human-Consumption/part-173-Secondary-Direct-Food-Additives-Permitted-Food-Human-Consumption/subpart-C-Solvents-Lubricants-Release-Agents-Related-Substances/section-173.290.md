@@ -1,6 +1,6 @@
 ##### § 173.290 Trichloroethylene.
 
-Tolerances are established for residues of trichloroethylene resulting from its use as a solvent in the manufacture of foods as follows: 
+Tolerances are established for residues of trichloroethylene resulting from its use as a solvent in the manufacture of foods as follows:
 
 | Decaffeinated ground coffee                    | 25 parts per million.                                                                                                                                                                                  |
 | Decaffeinated soluble (instant) coffee extract | 10 parts per million.                                                                                                                                                                                  |

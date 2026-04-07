@@ -1,6 +1,6 @@
 ##### § 1.719 Informal complaints filed pursuant to section 258.
 
-(a) Notwithstanding the requirements of §§ 1.716 through 1.718, the following procedures shall apply to complaints alleging that a carrier has violated section 258 of the Communications Act of 1934, as amended by the Telecommunications Act of 1996, by making an unauthorized change of a subscriber's preferred carrier, as defined by § 64.1100(e) of this chapter.
+(a) Notwithstanding the requirements of §§ 1.716 through 1.718, the following procedures shall apply to complaints alleging that a carrier has violated section 258 of the Communications Act of 1934, as amended by the Telecommunications Act of 1996, by making an unauthorized change of a subscriber's preferred carrier, as defined by § 64.1100(e) of this chapter.*Form.*
 
 (b) *Form.* The complaint shall be in writing, and should contain: The complainant's name, address, telephone number and e-mail address (if the complainant has one); the name of both the allegedly unauthorized carrier, as defined by § 64.1100(d) of this chapter, and authorized carrier, as defined by § 64.1100(c) of this chapter; a complete statement of the facts (including any documentation) tending to show that such carrier engaged in an unauthorized change of the subscriber's preferred carrier; a statement of whether the complainant has paid any disputed charges to the allegedly unauthorized carrier; and the specific relief sought.
 

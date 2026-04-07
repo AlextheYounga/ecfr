@@ -20,7 +20,7 @@
 
 Note 1 to paragraph (a):
 
-A forfeiture penalty assessed under this section is in addition to any other penalty provided for by the Communications Act, except that the penalties provided for in paragraphs (b)(1) through (4) of this section shall not apply to conduct which is subject to a forfeiture penalty or fine under sections 202(c), 203(e), 205(b), 214(d), 219(b), 220(d), 223(b), 364(a), 364(b), 386(a), 386(b), 506, and 634 of the Communications Act. The remaining provisions of this section are applicable to such conduct.
+A forfeiture penalty assessed under this section is in addition to any other penalty provided for by the Communications Act, except that the penalties provided for in paragraphs (b)(1) through (4) of this section shall not apply to conduct which is subject to a forfeiture penalty or fine under sections 202(c), 203(e), 205(b), 214(d), 219(b), 220(d), 223(b), 364(a), 364(b), 386(a), 386(b), 506, and 634 of the Communications Act. The remaining provisions of this section are applicable to such conduct.*Guidelines for Assessing Forfeitures.*
 
 (b) *Limits on the amount of forfeiture assessed*—(1) *Forfeiture penalty for a broadcast station licensee, permittee, cable television operator, or applicant.* If the violator is a broadcast station licensee or permittee, a cable television operator, or an applicant for any broadcast or cable television operator license, permit, certificate, or other instrument of authorization issued by the Commission, except as otherwise noted in this paragraph (b)(1), the forfeiture penalty under this section shall not exceed $62,829 for each violation or each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $628,305 for any single act or failure to act described in paragraph (a) of this section. There is no limit on forfeiture assessments for EEO violations by cable operators that occur after notification by the Commission of a potential violation. See section 634(f)(2) of the Communications Act (47 U.S.C. 554). Notwithstanding the foregoing in this section, if the violator is a broadcast station licensee or permittee or an applicant for any broadcast license, permit, certificate, or other instrument of authorization issued by the Commission, and if the violator is determined by the Commission to have broadcast obscene, indecent, or profane material, the forfeiture penalty under this section shall not exceed $508,373 for each violation or each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $4,692,668 for any single act or failure to act described in paragraph (a) of this section.
 
@@ -46,10 +46,10 @@ A forfeiture penalty assessed under this section is in addition to any other pen
 
 (11) *Factors considered in determining the amount of the forfeiture penalty.* In determining the amount of the forfeiture penalty, the Commission or its designee will take into account the nature, circumstances, extent and gravity of the violations and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
 
-Table 1 to Paragraph (b)(11)—Base Amounts for Section 503 Forfeitures
+Table 1 to Paragraph (b)(11)—Base Amounts for Section 503 Forfeitures1
 | Forfeitures                                                                                                      | Violation   amount |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------ |
-| Misrepresentation/lack of candor                                                                                 | (1)                |
+| Misrepresentation/lack of candor1Upward Adjustment Criteria:                                                     | (1)                |
 | Failure to file required DODC required forms, and/or filing materially inaccurate or incomplete DODC information | $15,000            |
 | Construction and/or operation without an instrument of authorization for the service                             | 10,000             |
 | Failure to comply with prescribed lighting and/or marking                                                        | 10,000             |

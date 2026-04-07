@@ -1,6 +1,6 @@
 ##### § 1.1901 Definitions and construction.
 
-For purposes of this subpart:
+For purposes of this subpart:*administrative offset*
 
 (a) The term *administrative offset* means withholding money payable by the United States Government to, or held by the Government for, a person, organization, or entity to satisfy a debt the person, organization, or entity owes the Government.
 

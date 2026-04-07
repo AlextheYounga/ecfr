@@ -1,6 +1,6 @@
 ##### § 1.2113 Construction prior to grant of application.
 
-Subject to the provisions of this section, applicants for licenses awarded by competitive bidding may construct facilities to provide service prior to grant of their applications, but must not operate such facilities until the FCC grants an authorization. If the conditions stated in this section are not met, applicants must not begin to construct facilities for licenses subject to competitive bidding.
+Subject to the provisions of this section, applicants for licenses awarded by competitive bidding may construct facilities to provide service prior to grant of their applications, but must not operate such facilities until the FCC grants an authorization. If the conditions stated in this section are not met, applicants must not begin to construct facilities for licenses subject to competitive bidding.*When applicants may begin construction.*
 
 (a) *When applicants may begin construction.* An applicant may begin construction of a facility upon release of the Public Notice listing the post-auction long-form application for that facility as acceptable for filing.
 

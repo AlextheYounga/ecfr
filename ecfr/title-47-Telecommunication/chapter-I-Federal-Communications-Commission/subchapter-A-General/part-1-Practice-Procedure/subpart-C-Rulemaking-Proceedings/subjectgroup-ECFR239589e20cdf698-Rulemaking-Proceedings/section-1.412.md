@@ -1,6 +1,6 @@
 ##### § 1.412 Notice of proposed rulemaking.
 
-(a) Except as provided in paragraphs (b) and (c) of this section, prior notice of proposed rulemaking will be given.
+(a) Except as provided in paragraphs (b) and (c) of this section, prior notice of proposed rulemaking will be given.Federal Register.
 
 (1) Notice is ordinarily given by publication of a “Notice of Proposed Rule Making” in the Federal Register. A summary of the full decision adopted by the Commission constitutes a “Notice of Proposed Rulemaking” for purposes of Federal Register publication.
 

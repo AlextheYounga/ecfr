@@ -1,6 +1,6 @@
 ##### § 1.1114 Conditionality of Commission or staff authorizations.
 
-(a) Any instrument of authorization granted by the Commission, or by its staff under delegated authority, will be conditioned upon final payment of the applicable fee or delinquent fees and timely payment of bills issued by the Commission. As applied to checks, bank drafts and money orders, final payment shall mean receipt by the Treasury of funds cleared by the financial institution on which the check, bank draft or money order is drawn.
+(a) Any instrument of authorization granted by the Commission, or by its staff under delegated authority, will be conditioned upon final payment of the applicable fee or delinquent fees and timely payment of bills issued by the Commission. As applied to checks, bank drafts and money orders, final payment shall mean receipt by the Treasury of funds cleared by the financial institution on which the check, bank draft or money order is drawn.*nunc pro tunc*
 
 (1) If, prior to a grant of an instrument of authorization, the Commission is notified that final payment has not been made, the application or filing will be:
 

@@ -1,6 +1,6 @@
 ##### § 1.927 Amendment of applications.
 
-(a) Pending applications may be amended as a matter of right if they have not been designated for hearing or listed in a public notice as accepted for filing for competitive bidding, except as provided in paragraphs (b) through (e) of this section.
+(a) Pending applications may be amended as a matter of right if they have not been designated for hearing or listed in a public notice as accepted for filing for competitive bidding, except as provided in paragraphs (b) through (e) of this section.*de jure*
 
 (b) Applicants for an initial license in auctionable services may amend such applications only in accordance with Subpart Q of this part.
 

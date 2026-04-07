@@ -1,6 +1,6 @@
 ##### § 1.1212 Procedures for handling of prohibited ex parte presentations.
 
-(a) Commission personnel who believe that an oral presentation which is being made to them or is about to be made to them is prohibited shall promptly advise the person initiating the presentation that it is prohibited and shall terminate the discussion.
+(a) Commission personnel who believe that an oral presentation which is being made to them or is about to be made to them is prohibited shall promptly advise the person initiating the presentation that it is prohibited and shall terminate the discussion.*ex parte*
 
 (b) Commission personnel who receive oral *ex parte* presentations which they believe are prohibited shall forward to the Office of General Counsel a statement containing the following information:
 

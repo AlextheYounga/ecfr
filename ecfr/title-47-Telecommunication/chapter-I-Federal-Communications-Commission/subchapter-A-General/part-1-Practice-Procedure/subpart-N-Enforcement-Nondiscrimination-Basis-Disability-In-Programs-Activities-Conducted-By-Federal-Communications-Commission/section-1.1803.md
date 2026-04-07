@@ -1,6 +1,6 @@
 ##### § 1.1803 Definitions.
 
-For purposes of this part, the term—
+For purposes of this part, the term—*Auxiliary aids*
 
 *Auxiliary aids* means services or devices that enable persons with impaired sensory, manual, or speaking skills to have an equal opportunity to participate in, and enjoy the benefits of, programs or activities conducted by the Commission. For example, auxiliary aids useful for persons with impaired vision include readers, Brailled materials, audio recordings, and other similar services and devices. Auxiliary aids useful for persons with impaired hearing include telephone handset amplifiers, telephones compatible with hearing aids, telecommunication devices for deaf persons (TTY/TDDs), interpreters, Computer-aided realtime transcription (CART), captioning, notetakers, written materials, and other similar services and devices.
 

@@ -22,7 +22,7 @@
 
 Note 1 to § 1.2205:
 
-References to “full power broadcast television licensees” and “Class A broadcast television licensees” are intended to include all broadcast television licensees that are or could become eligible to participate in the reverse auction, including broadcast television licensees that may be parties to a channel sharing agreement.
+References to “full power broadcast television licensees” and “Class A broadcast television licensees” are intended to include all broadcast television licensees that are or could become eligible to participate in the reverse auction, including broadcast television licensees that may be parties to a channel sharing agreement.*de jure*
 
 Note 2 to § 1.2205:
 

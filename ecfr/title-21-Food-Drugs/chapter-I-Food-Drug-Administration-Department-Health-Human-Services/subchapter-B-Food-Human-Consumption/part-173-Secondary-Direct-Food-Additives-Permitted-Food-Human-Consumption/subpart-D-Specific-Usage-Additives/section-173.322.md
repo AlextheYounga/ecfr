@@ -1,12 +1,12 @@
 ##### § 173.322 Chemicals used in delinting cottonseed.
 
-Chemicals may be safely used to assist in the delinting of cottonseed in accordance with the following conditions: 
+Chemicals may be safely used to assist in the delinting of cottonseed in accordance with the following conditions:
 
-(a) The chemicals consist of one or more of the following: 
+(a) The chemicals consist of one or more of the following:
 
-(1) Substances generally recognized as safe for direct addition to food. 
+(1) Substances generally recognized as safe for direct addition to food.
 
-(2) Substances identified in this paragraph and subject to such limitations as are provided: 
+(2) Substances identified in this paragraph and subject to such limitations as are provided:
 
 | Substances                                                                                                                                                                                                           | Limitations                                                                                                                                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

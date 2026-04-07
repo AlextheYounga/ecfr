@@ -1,6 +1,6 @@
 ##### § 1.429 Petition for reconsideration of final orders in rulemaking proceedings.
 
-(a) Any interested person may petition for reconsideration of a final action in a proceeding conducted under this subpart (see §§ 1.407 and 1.425). Where the action was taken by the Commission, the petition will be acted on by the Commission. Where action was taken by a staff official under delegated authority, the petition may be acted on by the staff official or referred to the Commission for action.
+(a) Any interested person may petition for reconsideration of a final action in a proceeding conducted under this subpart (see §§ 1.407 and 1.425). Where the action was taken by the Commission, the petition will be acted on by the Commission. Where action was taken by a staff official under delegated authority, the petition may be acted on by the staff official or referred to the Commission for action.Federal Register.
 
 Note:
 

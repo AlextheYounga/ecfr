@@ -1,12 +1,12 @@
 ##### § 173.315 Chemicals used in washing or to assist in the peeling of fruits and vegetables.
 
-Chemicals may be safely used to wash or to assist in the peeling of fruits and vegetables in accordance with the following conditions: 
+Chemicals may be safely used to wash or to assist in the peeling of fruits and vegetables in accordance with the following conditions:
 
-(a) The chemicals consist of one or more of the following: 
+(a) The chemicals consist of one or more of the following:
 
-(1) Substances generally recognized as safe in food or covered by prior sanctions for use in washing fruits and vegetables. 
+(1) Substances generally recognized as safe in food or covered by prior sanctions for use in washing fruits and vegetables.
 
-(2) Substances identified in this subparagraph and subject to such limitations as are provided: 
+(2) Substances identified in this subparagraph and subject to such limitations as are provided:
 
 | Substances                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Limitations                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,9 +20,9 @@ Chemicals may be safely used to wash or to assist in the peeling of fruits and v
 | Sodium hypochlorite                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | May be used in the washing or to assist in the lye peeling of fruits and vegetables.                                                                          |
 | Sodium mono- and dimethyl naphthalene sulfonates (mol. wt. 245-260)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Not to exceed 0.2 percent in wash water. May be used in the washing or to assist in the lye peeling of fruits and vegetables.                                 |
 
-(3) Sodium mono- and dimethyl naphthalene sulfonates (mol. wt. 245-260) may be used in the steam/scald vacuum peeling of tomatoes at a level not to exceed 0.2 percent in the condensate or scald water. 
+(3) Sodium mono- and dimethyl naphthalene sulfonates (mol. wt. 245-260) may be used in the steam/scald vacuum peeling of tomatoes at a level not to exceed 0.2 percent in the condensate or scald water.
 
-(4) Substances identified in this paragraph (a)(4) for use in flume water for washing sugar beets prior to the slicing operation and subject to the limitations as are provided for the level of the substances in the flume water: 
+(4) Substances identified in this paragraph (a)(4) for use in flume water for washing sugar beets prior to the slicing operation and subject to the limitations as are provided for the level of the substances in the flume water:
 
 | Substance                                                                                                                                                                                     | Limitations            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
@@ -37,7 +37,7 @@ Chemicals may be safely used to wash or to assist in the peeling of fruits and v
 | Ethylene dichloride                                                                                                                                                                           | Not to exceed 0.2 ppm. |
 | Tetrasodium ethylenediaminetetraacetate                                                                                                                                                       | Not to exceed 0.1 ppm. |
 
-(5) Substances identified in this paragraph (a)(5) for use on fruits and vegetables that are not raw agricultural commodities and subject to the limitations provided: 
+(5) Substances identified in this paragraph (a)(5) for use on fruits and vegetables that are not raw agricultural commodities and subject to the limitations provided:
 
 | Substances                                | Limitations                                                                                         |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -45,14 +45,14 @@ Chemicals may be safely used to wash or to assist in the peeling of fruits and v
 | 1-Hydroxyethylidene-1,1-diphosphonic acid | May be used only with peroxyacetic acid. Not to exceed 4.8 ppm in wash water.                       |
 | Peroxyacetic acid                         | Prepared by reacting acetic acid with hydrogen peroxide. Not to exceed 80 ppm in wash water.        |
 
-(b) The chemicals are used in amounts not in excess of the minimum required to accomplish their intended effect. 
+(b) The chemicals are used in amounts not in excess of the minimum required to accomplish their intended effect.
 
-(c) The use of the chemicals listed under paragraphs (a)(1), (a)(2), and (a)(4) is followed by rinsing with potable water to remove, to the extent possible, residues of the chemicals. 
+(c) The use of the chemicals listed under paragraphs (a)(1), (a)(2), and (a)(4) is followed by rinsing with potable water to remove, to the extent possible, residues of the chemicals.
 
-(d) To assure safe use of the additive: 
+(d) To assure safe use of the additive:
 
-(1) The label and labeling of the additive container shall bear, in addition to the other information required by the act, the name of the additive or a statement of its composition. 
+(1) The label and labeling of the additive container shall bear, in addition to the other information required by the act, the name of the additive or a statement of its composition.
 
-(2) The label or labeling of the additive container shall bear adequate use directions to assure use in compliance with all provisions of this section. 
+(2) The label or labeling of the additive container shall bear adequate use directions to assure use in compliance with all provisions of this section.
 
 \[42 FR 14526, Mar. 15, 1977, as amended at 42 FR 29856, June 10, 1977; 42 FR 32229, June 24, 1977; 43 FR 54926, Nov. 24, 1978; 61 FR 46376, 46377, Sept. 3, 1996; 63 FR 7069, Feb. 12, 1998; 64 FR 38564, July 19, 1999\]

@@ -1,6 +1,6 @@
 ##### § 1.1118 Penalty for late or insufficient payments.
 
-(a) Filings subject to fees and accompanied by defective fee submissions will be dismissed under § 1.1111 (d) of this subpart where the defect is discovered by the Commission's staff within 30 calendar days from the receipt of the application or filing by the Commission.
+(a) Filings subject to fees and accompanied by defective fee submissions will be dismissed under § 1.1111 (d) of this subpart where the defect is discovered by the Commission's staff within 30 calendar days from the receipt of the application or filing by the Commission.*et seq. See*
 
 (1) A defective fee may be corrected by resubmitting the application or other filing, together with the entire correct fee.
 

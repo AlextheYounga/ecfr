@@ -1,6 +1,6 @@
 ##### § 1.5001 Contents of petitions for declaratory ruling under section 310(b) of the Communications Act of 1934, as amended.
 
-The petition for declaratory ruling required by § 1.5000(a)(1) and/or (2) shall contain the following information:
+The petition for declaratory ruling required by § 1.5000(a)(1) and/or (2) shall contain the following information:*Disclosable interest holders—direct U.S. or foreign interests in the controlling U.S. parent.*
 
 (a) With respect to each petitioning applicant or licensee, provide its name; FCC Registration Number (FRN); mailing address; place of organization; telephone number; facsimile number (if available); electronic mail address (if available); type of business organization (e.g., corporation, unincorporated association, trust, general partnership, limited partnership, limited liability company, trust, other (include description of legal entity)); name and title of officer certifying to the information contained in the petition.
 
@@ -34,7 +34,7 @@ The petition for declaratory ruling required by § 1.5000(a)(1) and/or (2) shall
 
 Note to paragraph (e):
 
-The Commission presumes that a general partner of a general partnership or limited partnership has a controlling (100 percent) voting interest in the partnership. A general partner shall in all cases be deemed to hold an uninsulated interest in the partnership.
+The Commission presumes that a general partner of a general partnership or limited partnership has a controlling (100 percent) voting interest in the partnership. A general partner shall in all cases be deemed to hold an uninsulated interest in the partnership.*not*
 
 (f) *Disclosable interest holders—indirect U.S. or foreign interests in the controlling U.S. parent.* Paragraphs (f)(1) through (3) of this section apply only to petitions filed under § 1.5000(a)(1) and/or § 1.5000(a)(2) for common carrier, aeronautical en route, and aeronautical fixed radio station applicants or licensees, as applicable. Petitions filed under § 1.5000(a)(1) for broadcast licensees shall provide the name of any individual or entity that holds, or would hold, *indirectly,* an attributable interest in the controlling U.S. parent of the petitioning broadcast station applicant(s) or licensee(s), as defined in the Notes to § 73.3555 of this chapter. Where no individual or entity holds, or would hold, *indirectly,* an attributable interest in the controlling U.S. parent (for petitions filed under § 1.5000(a)(1)), the petition shall specify that no individual or entity holds, or would hold, *indirectly,* an attributable interest in the U.S. parent, applicant(s), or licensee(s).
 

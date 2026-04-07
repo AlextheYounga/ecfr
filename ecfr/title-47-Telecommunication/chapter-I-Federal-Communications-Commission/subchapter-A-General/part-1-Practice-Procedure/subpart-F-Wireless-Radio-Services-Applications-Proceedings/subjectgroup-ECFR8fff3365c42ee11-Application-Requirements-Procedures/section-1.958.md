@@ -1,6 +1,6 @@
 ##### § 1.958 Distance computation.
 
-The method given in this section must be used to compute the distance between any two locations, except that, for computation of distance involving stations in Canada and Mexico, methods for distance computation specified in the applicable international agreement, if any, must be used instead. The result of a distance calculation under parts 21 and 101 of this chapter must be rounded to the nearest tenth of a kilometer. The method set forth in this paragraph is considered to be sufficiently accurate for distances not exceeding 475 km (295 miles).
+The method given in this section must be used to compute the distance between any two locations, except that, for computation of distance involving stations in Canada and Mexico, methods for distance computation specified in the applicable international agreement, if any, must be used instead. The result of a distance calculation under parts 21 and 101 of this chapter must be rounded to the nearest tenth of a kilometer. The method set forth in this paragraph is considered to be sufficiently accurate for distances not exceeding 475 km (295 miles).dd
 
 (a) Convert the latitudes and longitudes of each reference point from degree-minute-second format to degree-decimal format by dividing minutes by 60 and seconds by 3600, then adding the results to degrees.
 

@@ -1,6 +1,6 @@
 ##### § 1.1308 Consideration of environmental assessments (EAs); findings of no significant impact.
 
-(a) Applicants shall prepare EAs for actions that may have a significant environmental impact (*see* § 1.1307). An EA is described in detail in § 1.1311 of this part of the Commission rules.
+(a) Applicants shall prepare EAs for actions that may have a significant environmental impact (*see* § 1.1307). An EA is described in detail in § 1.1311 of this part of the Commission rules.Federal Register
 
 (b) The EA is a document which shall explain the environmental consequences of the proposal and set forth sufficient analysis for the Bureau or the Commission to reach a determination that the proposal will or will not have a significant environmental effect. To assist in making that determination, the Bureau or the Commission may request further information from the applicant, interested persons, and agencies and authorities which have jurisdiction by law or which have relevant expertise.
 

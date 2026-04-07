@@ -66,7 +66,7 @@
 
 Note to paragraph (a):
 
-The Commission may also request applicants to submit additional information for informational purposes to aid in its preparation of required reports to Congress.
+The Commission may also request applicants to submit additional information for informational purposes to aid in its preparation of required reports to Congress.*de jure*
 
 (b) *Modification and Dismissal of Short-Form Application (FCC Form 175).* (1) (i) Any short-form application (FCC Form 175) that does not contain all of the certifications required pursuant to this section is unacceptable for filing and cannot be corrected subsequent to the applicable filing deadline. The application will be deemed incomplete, the applicant will not be found qualified to bid, and the upfront payment, if paid, will be returned.
 
