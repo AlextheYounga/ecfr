@@ -2,23 +2,23 @@
 
 (a) *Grounds for administrative appeals.* A requester may appeal an initial determination of the Council, including but not limited to a determination:
 
-(1) To deny access to records in whole or in part (as provided in § 1301.8(b)(4));
+(1) To deny access to records in whole or in part (as provided in § 1301.8(b)(3));
 
 (2) To assign a particular fee category to the requester (as provided in § 1301.12(c));
 
 (3) To deny a request for a reduction or waiver of fees (as provided in § 1301.12(f)(7));
 
-(4) That no records could be located that are responsive to the request (as provided in § 1301.8(b)(5)); or
+(4) That no records could be located that are responsive to the request (as provided in § 1301.8(b)(4)); or
 
 (5) To deny a request for expedited processing (as provided in § 1301.7(c)(5)).
 
-(b) *Time limits for filing administrative appeals.* An appeal, other than an appeal of a denial of expedited processing, must be submitted within ninety (90) days of the date of the initial determination or the date of the letter transmitting the last records released, whichever is later. An appeal of a denial of expedited processing must be made within ten (10) days of the date of the initial determination to deny expedited processing (see § 1301.7).
+(b) *Time limits for filing administrative appeals.* An appeal must be submitted within ninety (90) days of the date of the initial determination or the date of the letter transmitting the last records released, whichever is later, or, in the case of an appeal of a denial of expedited processing, within ninety (90) days of the date of the initial determination to deny expedited processing (see § 1301.7).
 
-(c) *Form and content of administrative appeals.* The appeal shall -
+(c) *Form and content of administrative appeals.* The appeal shall—
 
 (1) Be made in writing or, as set forth on the Council's Web site, via the Internet;
 
-(2) Be clearly marked on the appeal request and any envelope that encloses it with the words “Freedom of Information Act Appeal” and addressed to Financial Stability Oversight Council, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW, Washington DC 20220;
+(2) Be clearly marked on the appeal request and any envelope that encloses it with the words “Freedom of Information Act Appeal” and addressed to Financial Stability Oversight Council, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW., Washington, DC 20220;
 
 (3) Set forth the name of and contact information for the requester, including a mailing address, telephone number, and, if available, an email address at which the Council may contact the requester regarding the appeal;
 
@@ -30,7 +30,7 @@
 
 (e) *Determinations to grant or deny administrative appeals.* The Chairperson of the Council or his/her designee is authorized to and shall decide whether to affirm or reverse the initial determination (in whole or in part), and shall notify the requester of this decision in writing within twenty (20) days (exclusive of Saturdays, Sundays, and legal public holidays) after the date of receipt of the appeal, unless extended pursuant to § 1301.7(e).
 
-(1) If it is decided that the appeal is to be denied (in whole or in part) the requester shall be -
+(1) If it is decided that the appeal is to be denied (in whole or in part) the requester shall be—
 
 (i) Notified in writing of the denial;
 

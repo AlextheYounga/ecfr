@@ -14,7 +14,7 @@ Unless a national bank elects to provide notification by one of the means specif
 
 (5) Amount of any remuneration that the customer has provided or is to provide any broker/dealer, directly or indirectly, in connection with the transaction;
 
-(6) (i) Amount of any remuneration that the bank has received or will receive from the customer, and the source and amount of any other remuneration that the bank has received or will receive in connection with the transaction; unless:
+(6)(i) Amount of any remuneration that the bank has received or will receive from the customer, and the source and amount of any other remuneration that the bank has received or will receive in connection with the transaction; unless:
 
 (A) The bank and its customer have determined remuneration pursuant to a written agreement; or
 

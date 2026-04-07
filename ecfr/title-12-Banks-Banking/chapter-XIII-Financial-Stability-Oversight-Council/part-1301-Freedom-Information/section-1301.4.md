@@ -20,4 +20,4 @@
 
 (e) *Indices.* (1) The Council shall maintain and make available for public inspection in an electronic format current indices identifying any material described in paragraphs (a)(1) through (3) of this section. In addition, the Council shall promptly publish, quarterly or more frequently, and distribute (by sale or otherwise) copies of each index or supplement unless the Council determines by order published in the Federal Register that the publication would be unnecessary and impractical, in which case the Council shall nonetheless provide copies of the index on request at a cost not to exceed the direct cost of duplication.
 
-(2) The Council shall make the indices referred to in paragraph (a)(5) and (e)(1) of this section available on its Web site.
+(2) The Council shall make the indices referred to in paragraphs (a)(5) and (e)(1) of this section available on its Web site.
