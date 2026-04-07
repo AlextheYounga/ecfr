@@ -24,4 +24,4 @@
 
 (1) The reduction in net tax revenue of the State or Territory for the reporting year, measured as the difference between the State's or Territory's baseline and its actual tax revenue, each measured as of the end of the reporting year; and,
 
-(2) The aggregate amount of the reductions in tax revenues caused by covered changes identified in paragraph (b)(1) of this section, minus the sum of the amounts in identified in paragraphs (b)(4)(i) and (ii).
+(2) The aggregate amount of the reductions in tax revenues caused by covered changes identified in paragraph (b)(1) of this section, minus the sum of the amounts in identified in paragraphs (b)(4)(i) and (ii) of this section.
