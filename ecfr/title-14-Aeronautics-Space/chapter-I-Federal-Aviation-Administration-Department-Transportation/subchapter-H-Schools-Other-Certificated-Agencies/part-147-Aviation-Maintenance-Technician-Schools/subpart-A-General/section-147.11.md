@@ -1,6 +1,6 @@
 ##### § 147.11 Ratings.
 
-The following ratings are issued under this part:
+The following ratings may be issued under this part:
 
 (a) Airframe.
 

@@ -54,7 +54,7 @@ Both FCIC and reinsured policies: Cabbage Crop Insurance Provisions.
 
 In addition to the requirements of section 3 of the Basic Provisions:
 
-(a) You may select only one price election for all the cabbage in the county insured under this policy unless the actuarial documents provide different price elections by type, in which case you may select one price election for each cabbage type designated in the Special Provisions.
+(a) You may select only one price election for all the cabbage in the county insured under this policy unless the actuarial documents provide different price elections by type, in which case you may select one price election for each cabbage type designated in the actuarial documents.
 
 (b) The price elections you choose for each type must bear the same percentage relationship to the maximum price election offered by us for each type. For example, if you selected 100 percent of the maximum price election for one type, you must also select 100 percent of the maximum price election for all other types.
 
