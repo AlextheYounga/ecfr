@@ -175,9 +175,10 @@ Table 1 to Paragraph (b)
 | MISSOURI             |                           |
 | Bourbon              | 231A                      |
 | Columbia             | 252C2                     |
+| Cuba                 | 269A                      |
 | Eminence             | 281A                      |
 | Laurie               | 265C3                     |
-| Maryville            | 285C3                     |
+| Wheatland            | 272A                      |
 | MONTANA              |                           |
 | Bozeman              | \*240C3                   |
 | Cut Bank             | 265C2                     |

@@ -36,13 +36,13 @@ None of the Commission's offices is open on Saturday, Sunday or the following le
 
 (i) If executed outside the United States: “I declare (or certify, verify, or state) under penalty of perjury under the laws of the United States of America that the foregoing is true and correct.”
 
-Executed on (date)\_\_\_\_
+Executed on (date)\_\_\_\_\_\_\_
 
 (Signature)
 
 (ii) If executed within the United States, its territories, possessions, or commonwealths: “I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct.”
 
-Executed on (date)\_\_\_\_
+Executed on (date)\_\_\_\_\_\_\_
 
 (Signature)
 
