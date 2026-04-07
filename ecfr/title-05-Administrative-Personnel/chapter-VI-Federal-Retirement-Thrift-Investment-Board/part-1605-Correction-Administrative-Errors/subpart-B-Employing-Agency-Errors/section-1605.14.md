@@ -44,6 +44,6 @@
 
 (1) Employee contributions may remain in the participant's account. If the participant requests a refund of employee contributions, the employing agency must submit a negative adjustment record to remove these funds under the procedure described in § 1605.12. 
 
-(2) All agency contributions that were made to a non-BRS participant's account will be forfeited. An employing service may submit a negative adjustment record to request the return of an erroneous contribution that has been in the participant's account for less than one year.
+(2) All agency contributions that were made to a non-BRS participant's account will be forfeited. An employing service may submit a negative adjustment record to request the return of an erroneous contribution that has been in the participant's account for less than one year. 
 
 \[66 FR 44277, Aug. 22, 2001, as amended at 68 FR 35500, June 13, 2003; 68 FR 74451, Dec. 23, 2003; 70 FR 32212, June 1, 2005; 72 FR 53414, Sept. 19, 2007; 77 FR 26426, May 4, 2012; 82 FR 60104, Dec. 19, 2017; 87 FR 31677, May 24, 2022\]

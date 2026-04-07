@@ -34,6 +34,6 @@
 
 (d) *Prior withdrawal of TSP account.* If a participant has received a post-employment distribution in any form other than an annuity, and the separation from Government service upon which the post-employment distribution was based is reversed, resulting in reinstatement of the participant without a break in service, the participant will have the option to restore the amount distributed to his or her TSP account. The right to restore the distributed funds will expire if the participant does not notify the TSP record keeper within 90 days of reinstatement. If the participant returns the funds that were distributed, the number of shares purchased will be determined by using the share price of the applicable investment fund on the posting date. Restored funds will not incur breakage.
 
-(e) *Reinstating a loan.* Participants who are covered by paragraph (d) of this section and who elect to return funds that were distributed may also elect to reinstate a loan which was previously declared to be a loan foreclosure.
+(e) *Reinstating a loan.* Participants who are covered by paragraph (d) of this section and who elect to return funds that were distributed may also elect to reinstate a loan which was previously declared to be a loan foreclosure. 
 
 \[66 FR 44277, Aug. 22, 2001, as amended at 68 FR 35500, June 13, 2003; 68 FR 74451, Dec. 23, 2003; 70 FR 32211, June 1, 2005; 76 FR 78094, Dec. 16, 2011; 80 FR 57069, Sept. 22, 2015; 85 FR 72914, Nov. 16, 2020; 87 FR 31677, May 24, 2022\]

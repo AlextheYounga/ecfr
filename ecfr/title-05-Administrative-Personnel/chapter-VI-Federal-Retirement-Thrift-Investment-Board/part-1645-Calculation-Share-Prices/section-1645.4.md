@@ -12,6 +12,6 @@ A portion of the administrative expenses accrued during each business day will b
 
 (b) Investment management fees and other accrued administrative expenses attributable only to a particular fund will be charged solely to that fund. 
 
-(c) The amount of accrued administrative expenses not covered by forfeitures, fees, and earnings under paragraph (a) of this section, and not described in paragraph (b) of this section, will be charged on a pro rata basis to all TSP core funds, based on the respective fund balances on the last business day of the prior month end.
+(c) The amount of accrued administrative expenses not covered by forfeitures, fees, and earnings under paragraph (a) of this section, and not described in paragraph (b) of this section, will be charged on a pro rata basis to all TSP core funds, based on the respective fund balances on the last business day of the prior month end. 
 
 \[70 FR 32214, June 1, 2005, as amended at 87 FR 31681, May 24, 2022\]

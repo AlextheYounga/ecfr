@@ -16,6 +16,6 @@
 
 (3) The employee must notify the TSP record keeper of his or her intent to reverse a loan foreclosure within 90 days of the date the employee returns to civilian service or pay status; if the employee is eligible to reverse a loan foreclosure, the TSP record keeper will then inform the employee of the actions that must be taken to reverse the distribution. 
 
-(d) *Breakage.* Employees will not receive breakage on amounts returned to their accounts under this section.
+(d) *Breakage.* Employees will not receive breakage on amounts returned to their accounts under this section. 
 
 \[87 FR 31679, May 24, 2022\]

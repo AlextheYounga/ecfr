@@ -16,6 +16,6 @@
 
 (3) For requests including closing costs and/or settlement charges, a loan estimate/worksheet/statement/closing disclosure from a mortgage company. 
 
-(f) The documentation provided under this section must meet the requirements set forth by the TSP record keeper.
+(f) The documentation provided under this section must meet the requirements set forth by the TSP record keeper. 
 
 \[87 FR 31694, May 24, 2022\]

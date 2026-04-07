@@ -16,6 +16,6 @@
 
 (C) Expressly states that the participant may obtain a loan from his or her TSP account or make a TSP withdrawal notwithstanding the absence of the spouse's signature.
 
-(b) A post-employment distribution election or an in-service withdrawal request processed within 90 days of an approved exception will be accepted by the TSP record keeper so long as the spouse named on the request is the spouse for whom the exception has been approved.
+(b) A post-employment distribution election or an in-service withdrawal request processed within 90 days of an approved exception will be accepted by the TSP record keeper so long as the spouse named on the request is the spouse for whom the exception has been approved. 
 
 \[68 FR 35503, June 13, 2003, as amended at 69 FR 29851, May 26, 2004; 87 FR 31685, May 24, 2022\]

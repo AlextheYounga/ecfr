@@ -16,6 +16,6 @@
 
 (5) If the employee received uniformed services agency automatic (1%) contributions, the agency automatic (1%) contributions will be reduced by the amount of the uniformed services agency automatic (1%) contributions.
 
-(d) *Breakage.* The employee is entitled to breakage on agency contributions made under paragraph (c) of this section. Breakage will be calculated based on the investment election(s) on file for the participant during the period of military service.
+(d) *Breakage.* The employee is entitled to breakage on agency contributions made under paragraph (c) of this section. Breakage will be calculated based on the investment election(s) on file for the participant during the period of military service. 
 
 \[67 FR 49525, July 30, 2002, as amended at 70 FR 32212, June 1, 2005; 80 FR 57070, Sept. 22, 2015; 82 FR 60105, Dec. 19, 2017; 87 FR 31679, May 24, 2022\]

@@ -12,6 +12,6 @@
 
 (2) Any other information that the Executive Director may require. 
 
-(e) A participant may request, in the form and manner prescribed by the TSP record keeper, that the loan be disbursed by direct deposit to a checking or savings account maintained by the participant in a financial institution.
+(e) A participant may request, in the form and manner prescribed by the TSP record keeper, that the loan be disbursed by direct deposit to a checking or savings account maintained by the participant in a financial institution. 
 
 \[87 FR 31693, May 24, 2022\]
