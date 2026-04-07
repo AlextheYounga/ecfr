@@ -6,4 +6,4 @@
 
 (c) For the purposes of this chapter, parts 416, Sanitation, 417, Hazard Analysis and Critical Control Point (HACCP) Systems, and 500, Rules of Practice, an official establishment or establishment includes an official plant.
 
-Effective Date Note:At 85 FR 81340, Dec. 16, 2020, § 591.1(a) was stayed through Oct. 29, 2021 and paragraph (b) was stayed through Oct. 31, 2022.
+Effective Date Note:At 85 FR 81340, Dec. 16, 2020, § 591.1(b) was stayed through Oct. 31, 2022.

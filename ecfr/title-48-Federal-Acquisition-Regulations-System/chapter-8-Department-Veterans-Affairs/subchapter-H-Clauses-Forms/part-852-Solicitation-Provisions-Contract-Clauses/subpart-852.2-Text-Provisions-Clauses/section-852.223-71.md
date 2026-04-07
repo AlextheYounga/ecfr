@@ -1,6 +1,4 @@
-##### 852.223-71 Safety and health.
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.223-71 Safety and Health.
 
 As prescribed by 823.303-70, the Contracting Officer shall insert the following clause:
 
@@ -28,4 +26,4 @@ Safety and Health (SEP 2019)
 
 (d) The Contractor shall insert this clause in each subcontract involving toxic substances or hazardous materials. The Contractor is responsible for the compliance of its subcontractors with the provisions of this clause.
 
-(End of clause)\[84 FR 45682, Aug. 30, 2019\]
+(End of clause) \[84 FR 45682, Aug. 30, 2019\]
