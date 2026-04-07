@@ -978,7 +978,11 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (47) 4′-Chloro-alpha-pyrrolidinovalerophenone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 4-chloro-α-PVP; 4′-chloro-alpha-pyrrolidinopentiophenone; 1-(4-chlorophenyl)-2-(pyrrolidin-1-yl)pentan-1-one)
 
-7443
+7443 
+
+(48) N,N-diethyl-2-(2-(4 isopropoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: isotonitazene; N,N-diethyl-2-\[\[4-(1-methylethoxy)phenyl\]methyl\]-5-nitro-1H-benzimidazole-1-ethanamine)
+
+9614 
 
 \[39 FR 22141, June 20, 1974\] Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:1\. At 83 FR 31882, July 10, 2018, § 1308.11 was amended by adding paragraphs (h)(31) through (h)(35) effective July 10, 2018, through July 10, 2020. At 85 FR 42296, July 13, 2020, the effective period was extended to July 10, 2021, effective July 10, 2020.
 
@@ -991,3 +995,5 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 5\. At 85 FR 5322, Jan. 30, 2020, § 1308.11 was amended by extending the order at 83 FR 4580, Feb. 1, 2018, is effective Feb. 1, 2020, and expires Feb. 1. 2021.
 
 6.At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020. Effective Feb. 6, 2020, Congress extended the effective period for paragraph (h)(30) until May 6, 2021, by Public Law 116-114.
+
+7\. At 85 51346, Aug. 20, 2020, § 1308.11 was amended by adding paragraph (h)(48), effective Aug. 20, 2020, through Aug. 20, 2022.
