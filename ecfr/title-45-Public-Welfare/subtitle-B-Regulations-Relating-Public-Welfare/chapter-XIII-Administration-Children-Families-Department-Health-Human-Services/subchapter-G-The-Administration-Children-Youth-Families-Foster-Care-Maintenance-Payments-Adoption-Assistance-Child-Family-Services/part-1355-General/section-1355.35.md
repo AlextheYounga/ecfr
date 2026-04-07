@@ -6,7 +6,7 @@
 
 (ii) Identify the areas in which the title IV-E agency's program is not in substantial conformity;
 
-(iii)Set forth the goals, the action steps required to correct each identified weakness or deficiency, and dates by which each action step is to be completed in order to improve the specific areas;
+(iii) Set forth the goals, the action steps required to correct each identified weakness or deficiency, and dates by which each action step is to be completed in order to improve the specific areas;
 
 (iv) Set forth the amount of progress the statewide/Tribal data will make toward meeting the national standards;
 
