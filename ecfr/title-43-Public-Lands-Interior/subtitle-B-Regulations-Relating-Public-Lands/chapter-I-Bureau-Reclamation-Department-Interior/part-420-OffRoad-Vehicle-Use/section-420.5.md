@@ -2,7 +2,7 @@
 
 As used in this part, the term:
 
-(a) *Off-road vehicle* means any motorized vehicle (including standard automobile) designed for or capable of cross-country travel on or immediately over land, water, sand, snow, ice, marsh, swampland, or natural terrain. The term includes:
+(a) *Off-road vehicle* means any motorized vehicle (including standard automobile) designed for or capable of cross-country travel on or immediately over land, water, sand, snow, ice, marsh, swampland, or natural terrain. The term excludes:
 
 (1) Nonamphibious registered motorboats;
 
