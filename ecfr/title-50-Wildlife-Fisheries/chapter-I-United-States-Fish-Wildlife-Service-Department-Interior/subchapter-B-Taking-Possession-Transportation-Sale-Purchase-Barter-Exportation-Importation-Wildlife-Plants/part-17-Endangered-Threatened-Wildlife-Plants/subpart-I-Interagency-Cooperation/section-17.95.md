@@ -8960,7 +8960,7 @@ Critical Habitat Map Unit
 
 (ii) Map 1 of the critical habitat for Rota bridled white-eye follows:
 
-![](/graphics/er12se06.000.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 85 FR 35594, June 11, 2020.Link to an amendment published at 85 FR 37588, June 23, 2020.
+![](/graphics/er12se06.000.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (c) *Reptiles.*
 
@@ -9884,7 +9884,45 @@ Note:
 
 Map follows:
 
-![](/graphics/ec01jn91.079.gif)Alameda Whipsnake (*Masticophis lateralis euryxanthus*)
+![](/graphics/ec01jn91.079.gif)Sonoyta Mud Turtle (*Kinosternon sonoriense longifemorale*)
+
+(1) Critical habitat unit is depicted for Pima County, Arizona, on the map below.
+
+(2) Within this area, the physical or biological features essential to the conservation of the Sonoyta mud turtle consist of the following components:
+
+(i) Aquatic habitat, such as streams and natural or manmade ponds, with perennial or near-perennial sources of water, containing or including:
+
+(A) Surface water to 2 meters (7 feet) deep, with a rocky, muddy, or sandy substrate, and emergent or submergent vegetation, or both;
+
+(B) Surface water free of nonnative predators and competitors, including crayfish, American bullfrogs, and large sunfish;
+
+(C) Shallow water areas with dense emergent vegetation (*e.g.,* cattail, spikerush, and travelling spikerush);
+
+(D) Access to deeper open water in ponds, and submerged vegetation (*e.g.,* holly-leaved water nymph, slender pondweed, ditch-grass, and horned pondweed); and
+
+(E) Areas with complex structure, including protective shelter sites such as root masses, rock features, and undercut banks.
+
+(ii) Aquatic invertebrate prey base (*e.g.,* Anisoptera, Trichoptera, Diptera, Coleoptera, aquatic snail species) and their corresponding habitat, including submergent or emergent vegetation and a variety of forage, and prey such as algae, diatoms, and other microorganisms.
+
+(iii) Terrestrial, riparian habitat, adjacent to suitable aquatic habitat, containing or including:
+
+(A) Accessible shoreline for Sonoyta mud turtles without insurmountable rock or artificial vertical barriers to allow movement between wetted sites, between aquatic habitat and terrestrial nest sites, and between aquatic habitat and estivation sites;
+
+(B) Riparian areas that maintain soil moisture to prevent desiccation of eggs and provide estivation sites, located along the banks of ponds and streams with riparian vegetation (*e.g.,* cottonwood, willow, seepwillow, mesquite, greythorn, wolfberry, salt grass, and arrowweed); and
+
+(C) Estivation and nesting sites, including depressions under vegetation, soil, or organic matter; rock crevices; and soil burrows under overhanging banks of streams or ponds, that are available year-round.
+
+(3) Critical habitat does not include most manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 23, 2020. However, the spring enclosure, the manmade pond, the manmade channel that connects the springs to the pond, and the piped water that connects the two springs within the designated critical habitat are part of the designation.
+
+(4) *Critical habitat map units.* Data layers defining map unit were developed using ESRI ArcGIS mapping software along with various spatial layers. We used ground-truthed data provided by Organ Pipe Cactus National Monument staff that depicts all aquatic habitat used by the Sonoyta mud turtle, including Quitobaquito Pond and moat, the two Quitobaquito springs, the manmade channel that connects the springs to the pond, and the piped water that connects the two springs. For terrestrial, we used satellite imagery available in ArcGIS to delineate the riparian areas surrounding the surface water habitat. World Imagery used from ArcGIS provides 1 meter or better satellite and aerial imagery in many parts of the world and lower resolution satellite imagery worldwide. The map includes 15m TerraColor 0.3m resolution imagery at this map scale of 1:6,000. Additionally, imagery at different resolutions has been contributed by the GIS User Community. ArcGIS was also used to calculate area hectares and acres, and was used to determine longitude and latitude coordinates in decimal degrees. The coordinate system used in mapping and calculating area and locations within the unit was Universal Transverse Mercator (UTM) conformal projection with 1983 North American Datum in Zone 12. The map in this entry, as modified by any accompanying regulatory text, establishes the boundaries of the critical habitat designation. The coordinates or plot points or both on which the map is based are available to the public at *http://www.fws.gov/southwest/es/arizona/*, at *http://www.regulations.gov* at Docket No. FWS-R2-ES-2017-0014, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Quitobaquito Unit, Pima County, Arizona.
+
+(i) *General description:* This unit consists of 12.28 acres (4.97 hectares) in the Rio Sonoyta watershed in Pima County, and is composed entirely of Federal land owned by the National Park Service on Organ Pipe Cactus National Monument. The unit includes Quitobaquito Pond, the two Quitobaquito springs, the manmade channel that connects the springs to the pond, and the piped water that connects the two springs and surrounding riparian habitat.
+
+(ii) Unit map follows:
+
+![](/graphics/er23jn20.000.gif)Alameda Whipsnake (*Masticophis lateralis euryxanthus*)
 
 (1) Critical habitat units are depicted for Alameda, Contra Costa, San Joaquin, and Santa Clara counties, California, on the maps below.
 
