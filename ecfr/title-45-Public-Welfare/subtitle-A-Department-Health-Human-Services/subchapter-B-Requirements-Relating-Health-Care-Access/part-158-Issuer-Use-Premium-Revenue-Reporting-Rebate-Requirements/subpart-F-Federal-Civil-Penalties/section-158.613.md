@@ -14,4 +14,4 @@
 
 (6) A statement that failure to request a hearing within 30 days after the date of the notice permits the assessment of the proposed penalty without right of appeal in accordance with § 158.615 of this subpart.
 
-(b) *Delivery of Notice.* This notice must be either hand delivered, sent by certified mail, return receipt requested, or sent by overnight delivery service with signature upon delivery required.
+(b) *Delivery of notice.* This notice must be either hand delivered, sent by certified mail, return receipt requested, or sent by overnight delivery service with signature upon delivery required.

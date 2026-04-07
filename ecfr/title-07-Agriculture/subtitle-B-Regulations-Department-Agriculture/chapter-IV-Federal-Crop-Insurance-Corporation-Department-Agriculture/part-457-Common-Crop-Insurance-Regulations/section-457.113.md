@@ -1,5 +1,7 @@
 ##### § 457.113 Coarse grains crop insurance provisions.
 
+Link to an amendment published at 84 FR 65261, Nov. 27, 2019.
+
 The Coarse Grains Crop Insurance Provisions for the 2017 and succeeding crop years are as follows:
 
 United States Department of Agriculture Federal Crop Insurance Corporation Coarse Grains Crop Provisions 1\. Definitions
