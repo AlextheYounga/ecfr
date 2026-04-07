@@ -1,87 +1,89 @@
 ##### § 412.634 Requirements under the Inpatient Rehabilitation Facility (IRF) Quality Reporting Program (QRP).
 
-(a) *Participation.*(1) For the FY 2018 payment determination and subsequent years, an IRF must begin reporting data under the IRF QRP requirements no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter, which designates the IRF as operating in the CMS designated data submission system. 
+Link to an amendment published at 90 FR 37724, Aug. 5, 2025.
 
-(2) \[Reserved\] 
+(a) *Participation.*(1) For the FY 2018 payment determination and subsequent years, an IRF must begin reporting data under the IRF QRP requirements no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter, which designates the IRF as operating in the CMS designated data submission system.
 
-(b) *Submission requirements.* (1) IRFs must submit to CMS data on measures specified under sections 1886(j)(7)(D), 1899B(c)(1), 1899B(d)(1) of the Act, and standardized patient assessment data required under section 1899B(b)(1) of the Act, as applicable. Such data must be submitted in the form and manner, and at a time, specified by CMS. 
+(2) \[Reserved\]
 
-(2) CMS may remove a quality measure from the IRF QRP based on one or more of the following factors: 
+(b) *Submission requirements.* (1) IRFs must submit to CMS data on measures specified under sections 1886(j)(7)(D), 1899B(c)(1), 1899B(d)(1) of the Act, and standardized patient assessment data required under section 1899B(b)(1) of the Act, as applicable. Such data must be submitted in the form and manner, and at a time, specified by CMS.
 
-(i) Measure performance among IRFs is so high and unvarying that meaningful distinctions in improvements in performance can no longer be made; 
+(2) CMS may remove a quality measure from the IRF QRP based on one or more of the following factors:
 
-(ii) Performance or improvement on a measure does not result in better patient outcomes; 
+(i) Measure performance among IRFs is so high and unvarying that meaningful distinctions in improvements in performance can no longer be made;
 
-(iii) A measure does not align with current clinical guidelines or practice; 
+(ii) Performance or improvement on a measure does not result in better patient outcomes;
 
-(iv) The availability of a more broadly applicable (across settings, populations, or conditions) measure for the particular topic; 
+(iii) A measure does not align with current clinical guidelines or practice;
 
-(v) The availability of a measure that is more proximal in time to desired patient outcomes for the particular topic; 
+(iv) The availability of a more broadly applicable (across settings, populations, or conditions) measure for the particular topic;
 
-(vi) The availability of a measure that is more strongly associated with desired patient outcomes for the particular topic; 
+(v) The availability of a measure that is more proximal in time to desired patient outcomes for the particular topic;
 
-(vii) The collection or public reporting of a measure leads to negative unintended consequences other than patient harm; 
+(vi) The availability of a measure that is more strongly associated with desired patient outcomes for the particular topic;
 
-(viii) The costs associated with a measure outweigh the benefit of its continued use in the program. 
+(vii) The collection or public reporting of a measure leads to negative unintended consequences other than patient harm;
 
-(c) *Exception and Extension Requirements.* (1) An IRF may request and CMS may grant exceptions or extensions to the measures data or standardized patient assessment data reporting requirements, for one or more quarters, when there are certain extraordinary circumstances beyond the control of the IRF. 
+(viii) The costs associated with a measure outweigh the benefit of its continued use in the program.
 
-(2) An IRF must request an exception or extension within 90 days of the date that the extraordinary circumstances occurred. 
+(c) *Exception and Extension Requirements.* (1) An IRF may request and CMS may grant exceptions or extensions to the measures data or standardized patient assessment data reporting requirements, for one or more quarters, when there are certain extraordinary circumstances beyond the control of the IRF.
 
-(3) Exception and extension requests must be submitted to CMS from the IRF by sending an email to *IRFQRPReconsiderations@cms.hhs.gov* containing all of the following information: 
+(2) An IRF must request an exception or extension within 90 days of the date that the extraordinary circumstances occurred.
 
-(i) IRF CMS Certification Number (CCN). 
+(3) Exception and extension requests must be submitted to CMS from the IRF by sending an email to *IRFQRPReconsiderations@cms.hhs.gov* containing all of the following information:
 
-(ii) IRF Business Name. 
+(i) IRF CMS Certification Number (CCN).
 
-(iii) IRF Business Address. 
+(ii) IRF Business Name.
 
-(iv) CEO or CEO-designated personnel contact information including name, telephone number, title, email address, and mailing address. (The address must be a physical address, not a post office box.) 
+(iii) IRF Business Address.
 
-(v) IRF's reason for requesting the exception or extension. 
+(iv) CEO or CEO-designated personnel contact information including name, telephone number, title, email address, and mailing address. (The address must be a physical address, not a post office box.)
 
-(vi) Evidence of the impact of extraordinary circumstances, including, but not limited to, photographs, newspaper, and other media articles. 
+(v) IRF's reason for requesting the exception or extension.
 
-(vii) Date when the IRF believes it will be able to again submit IRF QRP data and a justification for the proposed date. 
+(vi) Evidence of the impact of extraordinary circumstances, including, but not limited to, photographs, newspaper, and other media articles.
 
-(4) CMS may grant exceptions or extensions to IRFs without a request if it is determined that one or more of the following has occurred: 
+(vii) Date when the IRF believes it will be able to again submit IRF QRP data and a justification for the proposed date.
 
-(i) An extraordinary circumstance affects an entire region or locale. 
+(4) CMS may grant exceptions or extensions to IRFs without a request if it is determined that one or more of the following has occurred:
 
-(ii) A systemic problem with one of CMS's data collection systems directly affected the ability of an IRF to submit data. 
+(i) An extraordinary circumstance affects an entire region or locale.
 
-(5) Email is the only form of submission that will be accepted. Any reconsideration requests received through another channel will not be considered as a valid exception or extension request. 
+(ii) A systemic problem with one of CMS's data collection systems directly affected the ability of an IRF to submit data.
 
-(d) *Reconsideration.* (1) IRFs that do not meet the requirement in paragraph (b) of this section for a program year will receive a written notification of non-compliance through at least one of the following methods: The CMS designated data submission system, the United States Postal Service, or via an email from the Medicare Administrative Contractor (MAC). 
+(5) Email is the only form of submission that will be accepted. Any reconsideration requests received through another channel will not be considered as a valid exception or extension request.
 
-(2) Reconsideration requests must be submitted to CMS by sending an email to *IRFQRPReconsiderations@cms.hhs.gov* containing all of the following information: 
+(d) *Reconsideration.* (1) IRFs that do not meet the requirement in paragraph (b) of this section for a program year will receive a written notification of non-compliance through at least one of the following methods: The CMS designated data submission system, the United States Postal Service, or via an email from the Medicare Administrative Contractor (MAC).
 
-(i) IRF CCN. 
+(2) Reconsideration requests must be submitted to CMS by sending an email to *IRFQRPReconsiderations@cms.hhs.gov* containing all of the following information:
 
-(ii) IRF Business Name. 
+(i) IRF CCN.
 
-(iii) IRF Business Address. 
+(ii) IRF Business Name.
 
-(iv) CEO or CEO-designated personnel contact information including name, telephone number, title, email address, and mailing address. (The address must be a physical address, not a post office box.) 
+(iii) IRF Business Address.
 
-(v) CMS identified reason(s) for non-compliance from the non-compliance letter. 
+(iv) CEO or CEO-designated personnel contact information including name, telephone number, title, email address, and mailing address. (The address must be a physical address, not a post office box.)
 
-(vi) Reason(s) for requesting reconsideration. 
+(v) CMS identified reason(s) for non-compliance from the non-compliance letter.
 
-(3) The request for reconsideration must be accompanied by supporting documentation demonstrating compliance. This documentation must be submitted electronically as an attachment to the reconsideration request email. Any request for reconsideration that does not contain sufficient evidence of compliance with the IRF QRP requirements will be denied. 
+(vi) Reason(s) for requesting reconsideration.
 
-(4) Email is the only form of submission that will be accepted. Any reconsideration requests received through another channel will not be considered as a valid exception or extension request. 
+(3) The request for reconsideration must be accompanied by supporting documentation demonstrating compliance. This documentation must be submitted electronically as an attachment to the reconsideration request email. Any request for reconsideration that does not contain sufficient evidence of compliance with the IRF QRP requirements will be denied.
 
-(5) CMS will notify IRFs, in writing, of its final decision regarding any reconsideration request through at least one of the following methods: CMS designated data submission system, the United States Postal Service, or via an email from the Medicare Administrative Contractor (MAC). 
+(4) Email is the only form of submission that will be accepted. Any reconsideration requests received through another channel will not be considered as a valid exception or extension request.
 
-(e) *Appeals.* (1) An IRF may appeal the decision made by CMS on its reconsideration request by filing with the Provider Reimbursement Review Board (PRRB) under 42 CFR part 405, subpart R. 
+(5) CMS will notify IRFs, in writing, of its final decision regarding any reconsideration request through at least one of the following methods: CMS designated data submission system, the United States Postal Service, or via an email from the Medicare Administrative Contractor (MAC).
 
-(2) \[Reserved\] 
+(e) *Appeals.* (1) An IRF may appeal the decision made by CMS on its reconsideration request by filing with the Provider Reimbursement Review Board (PRRB) under 42 CFR part 405, subpart R.
 
-(f) *Data Completion Thresholds.* (1) IRFs must meet or exceed two separate data completeness thresholds: One threshold set at 95 percent for completion of required quality measures data and standardized patient assessment data collected using the IRF-PAI submitted through the CMS designated data submission system; and a second threshold set at 100 percent for measures data collected and submitted using the CDC NHSN. 
+(2) \[Reserved\]
 
-(2) These thresholds (95 percent for completion of required quality measures data and standardized patient assessment data on the IRF-PAI; 100 percent for CDC NHSN data) will apply to all measures and standardized patient assessment data requirements adopted into the IRF QRP. 
+(f) *Data Completion Thresholds.* (1) IRFs must meet or exceed two separate data completeness thresholds: One threshold set at 95 percent for completion of required quality measures data and standardized patient assessment data collected using the IRF-PAI submitted through the CMS designated data submission system; and a second threshold set at 100 percent for measures data collected and submitted using the CDC NHSN.
 
-(3) An IRF must meet or exceed both thresholds to avoid receiving a 2 percentage point reduction to their annual payment update for a given fiscal year, beginning with FY 2016 and for all subsequent payment updates. 
+(2) These thresholds (95 percent for completion of required quality measures data and standardized patient assessment data on the IRF-PAI; 100 percent for CDC NHSN data) will apply to all measures and standardized patient assessment data requirements adopted into the IRF QRP.
+
+(3) An IRF must meet or exceed both thresholds to avoid receiving a 2 percentage point reduction to their annual payment update for a given fiscal year, beginning with FY 2016 and for all subsequent payment updates.
 
 \[80 FR 47138, Aug. 6, 2015, as amended at 81 FR 52140, Aug. 5, 2016; 82 FR 36305, Aug. 3, 2017; 83 FR 38573, Aug. 6, 2018; 84 FR 39172, Aug. 8, 2019\]

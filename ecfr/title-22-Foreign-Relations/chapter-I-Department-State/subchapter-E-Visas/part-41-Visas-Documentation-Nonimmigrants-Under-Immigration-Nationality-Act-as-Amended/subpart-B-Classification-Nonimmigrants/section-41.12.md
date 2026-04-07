@@ -1,6 +1,6 @@
 ##### § 41.12 Classification symbols.
 
-A nonimmigrant visa issued to an applicant within one of the classes described in this section shall bear an appropriate visa symbol to show its classification. The symbol shall be inserted in the space provided on the visa. The following visa symbols shall be used: 
+A nonimmigrant visa issued to an applicant within one of the classes described in this section shall bear an appropriate visa symbol to show its classification. The symbol shall be inserted in the space provided on the visa. The following visa symbols shall be used:
 
 Table 1 to § 41.12
 | Symbol | Class                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Section of law                                                                                          |
