@@ -1,6 +1,6 @@
 ##### § 380.5 Handling Confidential Information.
 
-(a) *Definition.* For purposes of this part 380, “Confidential Information” means the Statements of Account and any information contained therein, including the amount of royalty payments and the number of Performances, and any information pertaining to the Statements of Account reasonably designated as confidential by the party submitting the statement. Confidential Information does not include documents or information that at the time of delivery to the Collective is public knowledge. The party seeking information from the Collective based on a claim that the information sought is a matter of public knowledge shall have the burden of proving to the Collective that the requested information is in the public domain.
+(a) *Definition.* For purposes of this part, “Confidential Information” means the Statements of Account and any information contained therein, including the amount of royalty payments and the number of Performances, and any information pertaining to the Statements of Account reasonably designated as confidential by the party submitting the statement. Confidential Information does not include documents or information that at the time of delivery to the Collective is public knowledge. The party seeking information from the Collective based on a claim that the information sought is a matter of public knowledge shall have the burden of proving to the Collective that the requested information is in the public domain.
 
 (b) *Use of Confidential Information.* The Collective may not use any Confidential Information for any purpose other than royalty collection and distribution and activities related directly thereto.
 
@@ -10,9 +10,9 @@
 
 (2) A Qualified Auditor or outside counsel who is authorized to act on behalf of:
 
-(i) The Collective with respect to verification of a Licensee's statement of account pursuant to this part 380; or
+(i) The Collective with respect to verification of a Licensee's statement of account pursuant to this part; or
 
-(ii) A Copyright Owner or Performer with respect to the verification of royalty distributions pursuant to this part 380;
+(ii) A Copyright Owner or Performer with respect to the verification of royalty distributions pursuant to this part;
 
 (3) Copyright Owners and Performers, including their designated agents, whose works a Licensee used under the statutory licenses set forth in 17 U.S.C. 112(e) and 114 by the Licensee whose Confidential Information is being supplied, subject to an appropriate written confidentiality agreement, and including those employees, agents, consultants, and independent contractors of such Copyright Owners and Performers and their designated agents, subject to an appropriate written confidentiality agreement, who require access to the Confidential Information to perform their duties during the ordinary course of their work;
 
