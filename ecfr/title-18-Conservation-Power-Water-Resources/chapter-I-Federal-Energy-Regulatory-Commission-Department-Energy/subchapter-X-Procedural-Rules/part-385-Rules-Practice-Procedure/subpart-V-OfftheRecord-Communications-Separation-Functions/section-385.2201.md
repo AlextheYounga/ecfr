@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 29425, July 3, 2025.
 
-(a) *Purpose and scope.* This section governs off-the-record communications with the Commission in a manner that permits fully informed decision making by the Commission while ensuring the integrity and fairness of the Commission's decisional process. This rule will apply to all contested on-the-record proceedings, except that the Commission may, by rule or order, modify any provision of this subpart, as it applies to all or part of a proceeding, to the extent permitted by law.
+(a) *Purpose and scope.* This section governs off-the-record communications with the Commission in a manner that permits fully informed decision making by the Commission while ensuring the integrity and fairness of the Commission's decisional process. This rule will apply to all contested on-the-record proceedings, except that the Commission may, by rule or order, modify any provision of this subpart, as it applies to all or part of a proceeding, to the extent permitted by law.Federal Register,
 
 (b) *General rule prohibiting off-the-record communications.* Except as permitted in paragraph (e) of this section, in any contested on-the-record proceeding, no person outside the Commission shall make or knowingly cause to be made to any decisional employee, and no decisional employee shall make or knowingly cause to be made to any person outside the Commission, any off-the-record communication.
 

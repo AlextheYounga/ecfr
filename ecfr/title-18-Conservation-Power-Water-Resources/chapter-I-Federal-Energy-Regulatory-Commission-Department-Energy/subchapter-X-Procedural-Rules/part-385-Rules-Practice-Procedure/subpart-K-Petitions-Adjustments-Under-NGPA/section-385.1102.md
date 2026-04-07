@@ -1,6 +1,6 @@
 ##### § 385.1102 Definitions (Rule 1102).
 
-For purposes of this subpart:
+For purposes of this subpart:*Adjustment*
 
 (a) *Adjustment* means an order issued by Staff under Rule 1109 (orders):
 

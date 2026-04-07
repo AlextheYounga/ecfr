@@ -13,3 +13,5 @@ In addition to the requirements for an environmental impact statement prescribed
 (d) Any significant environmental impacts of the proposed action that cannot be mitigated; and
 
 (e) References to any pending, completed, or recommended studies that might provide baseline data or additional data on the proposed action.
+
+\[Order 908, 90 FR 29425, July 3, 2025\]

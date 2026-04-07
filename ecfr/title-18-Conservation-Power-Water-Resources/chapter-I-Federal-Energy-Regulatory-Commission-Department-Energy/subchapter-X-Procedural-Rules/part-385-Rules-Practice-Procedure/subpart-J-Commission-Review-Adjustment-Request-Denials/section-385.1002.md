@@ -1,6 +1,6 @@
 ##### § 385.1002 Definitions (Rule 1002).
 
-For purposes of this subpart:
+For purposes of this subpart:*Commission*
 
 (a) *Commission* includes an officer or employee designated as presiding officer in a proceeding under this subpart.
 

@@ -1,6 +1,6 @@
 ##### § 385.102 Definitions (Rule 102).
 
-For purposes of this part—
+For purposes of this part—*Decisional authority*
 
 (a) *Decisional authority* means the Commission or Commission employee that, at the time for decision on a question, has authority or responsibility under this chapter to decide that particular question.
 

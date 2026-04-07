@@ -1,6 +1,6 @@
 ##### § 385.2003 Specifications (Rule 2003).
 
-(a) *All filings.* Any filing with the Commission must be:
+(a) *All filings.* Any filing with the Commission must be:1/2
 
 (1) Typewritten, printed, reproduced, or prepared using a computer or other word or data processing equipment;
 

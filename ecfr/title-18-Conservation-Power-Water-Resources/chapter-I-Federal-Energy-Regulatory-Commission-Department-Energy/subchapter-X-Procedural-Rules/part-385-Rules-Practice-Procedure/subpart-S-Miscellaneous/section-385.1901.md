@@ -1,6 +1,6 @@
 ##### § 385.1901 Interpretations and interpretative rules under the NGPA (Rule 1901).
 
-(a) *Purpose and applicability*—(1) *Purpose.* The purpose of this section is to provide procedures by which:
+(a) *Purpose and applicability*—(1) *Purpose.* The purpose of this section is to provide procedures by which:Federal Register
 
 (i) A person may seek a written interpretation from the General Counsel construing a provision of the NGPA, or clarifying a rule issued by the Commission under the NGPA; and
 

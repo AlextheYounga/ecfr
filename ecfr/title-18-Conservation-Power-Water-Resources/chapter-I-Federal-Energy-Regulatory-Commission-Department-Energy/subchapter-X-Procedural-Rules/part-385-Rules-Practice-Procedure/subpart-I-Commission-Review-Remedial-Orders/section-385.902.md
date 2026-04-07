@@ -1,6 +1,6 @@
 ##### § 385.902 Definitions (Rule 902).
 
-For purposes of this subpart:
+For purposes of this subpart:*Contested order*
 
 (a) *Contested order* means the remedial order, interim remedial order for immediate compliance or order of disallowance being contested in proceeding pursuant to this subpart;
 

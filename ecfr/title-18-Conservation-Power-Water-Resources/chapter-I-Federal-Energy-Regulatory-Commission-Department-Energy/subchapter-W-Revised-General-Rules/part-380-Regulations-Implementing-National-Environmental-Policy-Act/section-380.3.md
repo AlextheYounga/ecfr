@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 29425, July 3, 2025.
 
-(a) An applicant must submit information as follows:
+(a) An applicant must submit information as follows:*Content of an applicant's environmental report for specific proposals*
 
 (1) For any proposed action identified in §§ 380.5 and 380.6, an environmental report with the proposal as prescribed in paragraph (c) of this section.
 

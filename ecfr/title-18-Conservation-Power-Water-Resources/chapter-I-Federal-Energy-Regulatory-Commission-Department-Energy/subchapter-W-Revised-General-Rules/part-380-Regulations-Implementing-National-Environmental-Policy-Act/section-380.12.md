@@ -1,6 +1,6 @@
 ##### § 380.12 Environmental reports for Natural Gas Act applications.
 
-(a) *Introduction.* (1) The applicant must submit an environmental report with any application that proposes the construction, operation, or abandonment of any facility identified in § 380.3(c)(2)(i). The environmental report shall consist of the thirteen resource reports and related material described in this section.
+(a) *Introduction.* (1) The applicant must submit an environmental report with any application that proposes the construction, operation, or abandonment of any facility identified in § 380.3(c)(2)(i). The environmental report shall consist of the thirteen resource reports and related material described in this section.eq
 
 (2) The detail of each resource report must be commensurate with the complexity of the proposal and its potential for environmental impact. Each topic in each resource report shall be addressed or its omission justified, unless the resource report description indicates that the data is not required for that type of proposal. If material required for one resource report is provided in another resource report or in another exhibit, it may be incorporated by reference. If any resource report topic is required for a particular project but is not provided at the time the application is filed, the environmental report shall explain why it is missing and when the applicant anticipates it will be filed.
 

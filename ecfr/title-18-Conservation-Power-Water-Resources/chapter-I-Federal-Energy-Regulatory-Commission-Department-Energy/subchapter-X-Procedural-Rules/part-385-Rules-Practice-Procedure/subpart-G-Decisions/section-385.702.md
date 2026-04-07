@@ -1,6 +1,6 @@
 ##### § 385.702 Definitions (Rule 702).
 
-For purposes of this subpart:
+For purposes of this subpart:*Initial decision*
 
 (a) *Initial decision* means any decision rendered by a presiding officer in accordance with Rule 708;
 
