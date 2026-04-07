@@ -1,5 +1,7 @@
 ##### § 441.301 Contents of request for a waiver.
 
+Link to an amendment published at 89 FR 40863, May 10, 2024.
+
 (a) A request for a waiver under this section must consist of the following:
 
 (1) The assurances required by § 441.302 and the supporting documentation required by § 441.303.

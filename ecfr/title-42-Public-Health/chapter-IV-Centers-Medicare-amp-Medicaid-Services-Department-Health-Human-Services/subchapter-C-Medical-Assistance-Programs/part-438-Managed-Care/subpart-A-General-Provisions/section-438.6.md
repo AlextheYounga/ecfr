@@ -1,5 +1,7 @@
 ##### § 438.6 Special contract provisions related to payment.
 
+Link to an amendment published at 89 FR 41267, May 10, 2024.
+
 (a) *Definitions.* As used in this part, the following terms have the indicated meanings:
 
 *Base amount* is the starting amount, calculated according to paragraph (d)(2) of this section, available for pass-through payments to hospitals in a given contract year subject to the schedule in paragraph (d)(3) of this section.

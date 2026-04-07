@@ -2,7 +2,7 @@
 
 See § 622.4 for information regarding general permit procedures including, but not limited to fees, duration, transfer, renewal, display, sanctions and denials, and replacement.
 
-(a) *Required permits*—-(1) *Allowable chemical.* For an individual to take or possess fish or other marine organisms with an allowable chemical in a coral area, other than fish or other marine organisms that are landed in Florida, a Federal allowable chemical permit must have been issued to the individual. Such permit must be available when the permitted activity is being conducted and when such fish or other marine organisms are possessed, through landing ashore.
+(a) *Required permits*—(1) *Allowable chemical.* For an individual to take or possess fish or other marine organisms with an allowable chemical in a coral area, other than fish or other marine organisms that are landed in Florida, a Federal allowable chemical permit must have been issued to the individual. Such permit must be available when the permitted activity is being conducted and when such fish or other marine organisms are possessed, through landing ashore.
 
 (2) *Aquacultured live rock.* For a person to take or possess aquacultured live rock in the Gulf EEZ, a Federal aquacultured live rock permit must have been issued for the specific harvest site. Such permit, or a copy, must be on board a vessel depositing or possessing material on an aquacultured live rock site or harvesting or possessing live rock from an aquacultured live rock site.
 

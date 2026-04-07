@@ -1,5 +1,7 @@
 ##### § 438.207 Assurances of adequate capacity and services.
 
+Link to an amendment published at 89 FR 41277, May 10, 2024.
+
 (a) *Basic rule.* The State must ensure, through its contracts, that each MCO, PIHP, and PAHP gives assurances to the State and provides supporting documentation that demonstrates that it has the capacity to serve the expected enrollment in its service area in accordance with the State's standards for access to care under this part, including the standards at § 438.68 and § 438.206(c)(1).
 
 (b) *Nature of supporting documentation.* Each MCO, PIHP, and PAHP must submit documentation to the State, in a format specified by the State, to demonstrate that it complies with the following requirements:
