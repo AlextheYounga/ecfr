@@ -1,0 +1,3 @@
+##### § 418.21 Diversion of Truckee River water to Lahontan Reservoir, July through December.
+
+Truckee River diversions through the Truckee Canal to Lahontan Reservoir from July through December must be made only in accordance with the Adjustments to Lahontan Reservoir Storage Targets table and § 418.22. Diversions shall be started to achieve the end-of-month storage targets listed in the table in § 418.22 and will be discontinued when storage is forecast to meet or exceed the end-of-month storage targets at the end of the month. Diversions may be adjusted any time during the month as conditions warrant (i.e., new forecasts, information from other forecasts becoming available, or any other new information that may impact stream forecasts).

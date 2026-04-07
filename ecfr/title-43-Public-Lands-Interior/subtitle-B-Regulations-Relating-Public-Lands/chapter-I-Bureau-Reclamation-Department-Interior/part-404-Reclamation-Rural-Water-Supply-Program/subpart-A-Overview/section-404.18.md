@@ -1,0 +1,3 @@
+##### § 404.18 How can I request assistance to conduct a feasibility study?
+
+To request assistance to conduct a feasibility study under § 404.11(a) or (b), consistent with Reclamation's recommendation in an appraisal report, you must submit a full proposal to conduct a feasibility study in response to the program announcement, pursuant to § 404.20. You are not required to submit a statement of interest.

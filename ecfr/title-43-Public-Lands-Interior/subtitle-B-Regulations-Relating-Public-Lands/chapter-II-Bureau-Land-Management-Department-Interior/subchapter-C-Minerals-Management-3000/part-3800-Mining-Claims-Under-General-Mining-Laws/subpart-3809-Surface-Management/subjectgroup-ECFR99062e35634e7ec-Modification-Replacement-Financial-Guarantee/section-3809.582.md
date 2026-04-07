@@ -1,0 +1,3 @@
+##### § 3809.582 How long must I maintain my financial guarantee?
+
+You must maintain your financial guarantee until you or a new operator replace it with another adequate financial guarantee, subject to BLM's written concurrence, or until BLM releases the requirement to maintain your financial guarantee after you have completed reclamation of your operation according to the requirements of § 3809.320 (for notices), including any measures identified as the result of consultation with BLM under § 3809.313, or § 3809.420 (for plans of operations).

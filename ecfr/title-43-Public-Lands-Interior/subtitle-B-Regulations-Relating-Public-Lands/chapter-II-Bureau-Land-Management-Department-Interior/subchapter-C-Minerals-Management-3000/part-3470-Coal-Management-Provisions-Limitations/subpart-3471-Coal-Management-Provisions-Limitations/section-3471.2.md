@@ -1,0 +1,1 @@
+##### § 3471.2 Effect of land transactions.

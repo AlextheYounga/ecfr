@@ -1,0 +1,3 @@
+##### § 560.3 Cooperation of States for the Interstate Shipment of Fish and Fish Products.
+
+The provisions in § 321.3 authorizing the Administrator to coordinate with States that have meat inspection programs as provided in § 321.1 of this chapter to select certain establishments operating under these programs to participate in a cooperative program to ship products in interstate commerce apply with respect to fish and fish products inspection.

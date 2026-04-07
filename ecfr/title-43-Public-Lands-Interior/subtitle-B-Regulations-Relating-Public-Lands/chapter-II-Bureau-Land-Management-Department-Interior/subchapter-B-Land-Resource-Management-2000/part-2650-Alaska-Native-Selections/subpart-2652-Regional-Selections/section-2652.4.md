@@ -1,0 +1,3 @@
+##### § 2652.4 Conveyance reservations.
+
+In addition to the conveyance reservations in § 2650.4 of this chapter, conveyances issued to regional corporations for the subsurface estate of lands whose surface has been conveyed to village corporations shall provide that the right to explore, develop, or remove minerals from the subsurface estate in the lands within the boundaries of any Native village shall be subject to the consent of the village corporation.

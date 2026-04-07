@@ -1,0 +1,3 @@
+##### § 4.450-3 Initiation of contest.
+
+Any person desiring to initiate a private contest must file a complaint in the proper land office (see § 1821.2-1 of chapter II of this title). The contestant must serve a copy of the complaint on the contestee not later than 30 days after filing the complaint and must file proof of such service, as required by § 4.422(c), in the office where the complaint was filed within 30 days after service.

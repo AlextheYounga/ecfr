@@ -1,0 +1,20 @@
+##### § 130.4 User fees for processing import permit applications.
+
+User fees for any service rendered by an APHIS representative for processing applications for permits to import certain animals and animal products (using VS forms 16-3 and 17-129) are listed in the table in this section. The person for whom the service is provided and the person requesting the service are jointly and severally liable for payment of these user fees in accordance with §§ 130.50 and 130.51. These fees are nonrefundable. The table follows:
+
+| Service                                                                                                                                                                                    | Unit                    | User fee |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | -------- |
+| Import compliance assistance:                                                                                                                                                              |                         |          |
+| Simple (4 hours or less)                                                                                                                                                                   | Per shipment            | $99.00   |
+| Complicated (more than 4 hours)                                                                                                                                                            | Per shipment            | 514.00   |
+| Processing an application for a permit to import live animals, animal products or by products, organisms, vectors, or germ plasm (embryos or semen) or to transport organisms or vectors 1 |                         |          |
+| Initial permit                                                                                                                                                                             | Per application         | 133.00   |
+| Amended permit                                                                                                                                                                             | Per amended application | 66.00    |
+| Renewed permit 2                                                                                                                                                                           | Per application         | 86.00    |
+| Processing an application for a permit to import fetal bovine serum when facility inspection is required                                                                                   | Per application         | 455.00   |
+
+1 Using Veterinary Services Form 16-3, “Application for Permit to Import or Transport Controlled Material or Organisms or Vectors,” or Form 17-129, “Application for Import or In Transit Permit (Animals, Animal Semen, Animal Embryos, Birds, Poultry, or Hatching Eggs).”
+
+2 Permits to import germ plasm and live animals are not renewable.
+
+\[66 FR 39631, Aug. 1, 2001, as amended at 68 FR 51883, Aug. 29, 2003; 72 FR 70766, Dec. 13, 2007; 74 FR 14002, Mar. 30, 2009\]

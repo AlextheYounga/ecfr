@@ -1,0 +1,1 @@
+##### § 3862.8 Patents for mining claims.
