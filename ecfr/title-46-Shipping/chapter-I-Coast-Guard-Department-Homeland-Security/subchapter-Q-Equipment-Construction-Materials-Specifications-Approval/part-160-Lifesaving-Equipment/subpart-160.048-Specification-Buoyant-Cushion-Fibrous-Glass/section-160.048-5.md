@@ -1,4 +1,4 @@
-##### § 160.048-5 Inspections and tests. 1/>
+##### § 160.048-5 Inspections and tests. 1
 
 1 The manufacturer of a personal flotation device must meet 33 CFR 181.701 through 33 CFR 181.705 which require an instruction pamphlet for each device that is sold or offered for sale for use on recreational boats.
 
@@ -6,8 +6,7 @@
 
 (b) *Lot size and sampling.* (1) A lot shall consist of not more than 1,000 buoyant cushions. A new lot shall be started with any change or modification in materials used or manufacturing methods employed. When a lot of buoyant cushions is ready for inspection, the manufacturer shall notify the recognized laboratory so that they may, at their discretion, assign an inspector to the plant for the purpose of making any tests and inspections deemed necessary. From each lot of buoyant cushions, the manufacturer or the recognized laboratory or U.S. Coast Guard inspector, when assigned, shall select samples in accordance with Table 160.048-5(b)(1) to be tested for buoyancy in accordance with paragraph (e) of this section.
 
-Table 160.048-5(b)(1) - Sampling for Buoyancy Tests
-
+Table 160.048-5(b)(1)—Sampling for Buoyancy Tests
 | Lot size      | No. of cushions in sample |
 | ------------- | ------------------------- |
 | 200 and under | 1                         |
@@ -21,7 +20,7 @@ Table 160.048-5(b)(1) - Sampling for Buoyancy Tests
 
 (d) *Test facilities.* The laboratory inspector, or the Coast Guard inspector, or both, shall be admitted to any place in the factory where work is being done on listed and labeled products, and either or both inspectors may take samples of parts or materials entering into construction of final assemblies, for further examinations, inspections, or tests. The manufacturer shall provide a suitable place and the apparatus necessary for the performance of the tests which are done at the place of manufacture.
 
-(e) *Buoyancy* - (1) *Buoyancy test method.* Remove the buoyant pad inserts from the cushion and cut three slits in the vinyl film, each not less than 6 inches in length on both sides of each pad. Securely attach the spring scale in a position directly over the test tank. Suspend the weighted wire basket from the scale in such a manner that the basket is weighed while it is completely under water. In order to measure the actual buoyancy provided by the pads, the underwater weight of the empty basket should exceed the buoyancy of the pads. To obtain the buoyancy of the pads, proceed as follows:
+(e) *Buoyancy*—(1) *Buoyancy test method.* Remove the buoyant pad inserts from the cushion and cut three slits in the vinyl film, each not less than 6 inches in length on both sides of each pad. Securely attach the spring scale in a position directly over the test tank. Suspend the weighted wire basket from the scale in such a manner that the basket is weighed while it is completely under water. In order to measure the actual buoyancy provided by the pads, the underwater weight of the empty basket should exceed the buoyancy of the pads. To obtain the buoyancy of the pads, proceed as follows:
 
 (i) Weigh the empty wire basket under water.
 
