@@ -1,6 +1,6 @@
 ##### 52.236-6 Superintendence by the Contractor.
 
-As prescribed in 36.506, insert the following clause:
+As prescribed in 36.506, insert the following clause: 
 
 Superintendence by the Contractor (APR 1984)
 

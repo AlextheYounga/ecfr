@@ -1,6 +1,6 @@
 ##### 52.246-9 Inspection of Research and Development (Short Form).
 
-As prescribed in 46.309, insert the following clause:
+As prescribed in 46.309, insert the following clause: 
 
 Inspection of Research and Development (Short Form) (APR 1984)
 

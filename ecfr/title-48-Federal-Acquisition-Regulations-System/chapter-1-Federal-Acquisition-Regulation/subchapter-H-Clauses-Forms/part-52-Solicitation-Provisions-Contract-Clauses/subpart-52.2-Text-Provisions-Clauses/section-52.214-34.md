@@ -1,6 +1,6 @@
 ##### 52.214-34 Submission of Offers in the English Language.
 
-As prescribed in 14.201-6(w), insert the following provision:
+As prescribed in 14.201-6(w), insert the following provision: 
 
 Submission of Offers in the English Language (APR 1991)
 

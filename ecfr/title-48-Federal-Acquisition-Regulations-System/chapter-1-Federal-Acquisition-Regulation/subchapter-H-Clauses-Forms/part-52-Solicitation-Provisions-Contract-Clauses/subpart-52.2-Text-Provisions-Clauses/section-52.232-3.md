@@ -1,6 +1,6 @@
 ##### 52.232-3 Payments Under Personal Services Contracts.
 
-As prescribed in 32.111(a)(3), insert the following clause, appropriately modified with respect to payment due dates in accordance with agency regulations, in solicitations and contracts for personal services:
+As prescribed in 32.111(a)(3), insert the following clause, appropriately modified with respect to payment due dates in accordance with agency regulations, in solicitations and contracts for personal services: 
 
 Payments Under Personal Services Contracts (APR 1984)
 

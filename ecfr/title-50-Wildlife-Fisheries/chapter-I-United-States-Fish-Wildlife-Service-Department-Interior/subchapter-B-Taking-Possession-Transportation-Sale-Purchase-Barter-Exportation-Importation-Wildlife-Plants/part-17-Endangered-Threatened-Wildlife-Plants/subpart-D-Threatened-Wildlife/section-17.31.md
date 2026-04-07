@@ -1,6 +1,6 @@
 ##### § 17.31 Prohibitions.
 
-(a) Except as provided in §§ 17.4 through 17.8, or in a permit issued pursuant to § 17.32, the provisions of paragraph (b) of this section and all of the provisions of § 17.21 (for endangered species of wildlife), except § 17.21(c)(3) and (5), apply to threatened species of wildlife, unless the Secretary has promulgated species-specific provisions (see paragraph (c) of this section).
+(a) Except as provided in §§ 17.4 through 17.8, or in a permit issued pursuant to § 17.32, the provisions of paragraph (b) of this section and all of the provisions of § 17.21 (for endangered species of wildlife), except § 17.21(c)(3) and (5), apply to threatened species of wildlife, unless the Secretary has promulgated species-specific provisions (see paragraph (c) of this section).*https://www.fws.gov,*
 
 (b)(1) Notwithstanding § 17.21(c)(1), and unless otherwise specified, any employee or agent of the Service, any other Federal land management agency, the National Marine Fisheries Service, a State conservation agency, or a federally recognized Tribe, who is designated by their agency or Tribe for such purposes, may, when acting in the course of their official duties, take threatened wildlife without a permit if such action is necessary to:
 

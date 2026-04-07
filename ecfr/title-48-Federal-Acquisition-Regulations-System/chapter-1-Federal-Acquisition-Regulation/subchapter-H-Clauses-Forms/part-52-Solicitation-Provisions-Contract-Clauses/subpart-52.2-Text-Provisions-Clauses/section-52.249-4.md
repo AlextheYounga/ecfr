@@ -1,6 +1,6 @@
 ##### 52.249-4 Termination for Convenience of the Government (Services) (Short Form).
 
-As prescribed in 49.502(c), insert the following clause in solicitations and contracts for services, regardless of value, when a fixed-price contract is contemplated and the Contracting Officer determines that because of the kind of services required, the successful offeror will not incur substantial charges in preparation for and in carrying out the contract, and would, if terminated for the convenience of the Government, limit termination settlement charges to services rendered before the date of termination:
+As prescribed in 49.502(c), insert the following clause in solicitations and contracts for services, regardless of value, when a fixed-price contract is contemplated and the Contracting Officer determines that because of the kind of services required, the successful offeror will not incur substantial charges in preparation for and in carrying out the contract, and would, if terminated for the convenience of the Government, limit termination settlement charges to services rendered before the date of termination: 
 
 Termination for Convenience of the Government (Services) (Short Form) (APR 1984)
 

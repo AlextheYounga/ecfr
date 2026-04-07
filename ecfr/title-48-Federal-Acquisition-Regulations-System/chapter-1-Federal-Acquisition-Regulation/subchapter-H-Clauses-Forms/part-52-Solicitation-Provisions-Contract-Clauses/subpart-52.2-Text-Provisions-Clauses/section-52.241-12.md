@@ -1,6 +1,6 @@
 ##### 52.241-12 Nonrefundable, Nonrecurring Service Charge.
 
-As prescribed in 41.501(d)(6), insert a clause substantially the same as the following:
+As prescribed in 41.501(d)(6), insert a clause substantially the same as the following: 
 
 Nonrefundable, Nonrecurring Service Charge (FEB 1995)
 

@@ -1,6 +1,6 @@
 ##### 52.211-17 Delivery of Excess Quantities.
 
-As prescribed in 11.703(b), insert the following clause:
+As prescribed in 11.703(b), insert the following clause: 
 
 Delivery of Excess Quantities (SEP 1989)
 

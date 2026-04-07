@@ -4,7 +4,7 @@
 
 Family Agavaceae: *Agave eggersiana* (No Common Name)
 
-(1) Critical habitat units are depicted for St. Croix, USVI, on the maps in this entry.
+(1) Critical habitat units are depicted for St. Croix, USVI, on the maps in this entry.*Agave eggersiana*Note:1/22
 
 (2) Within these areas, the primary constituent elements of the physical or biological features essential to the conservation of *Agave eggersiana* consist of these components:
 

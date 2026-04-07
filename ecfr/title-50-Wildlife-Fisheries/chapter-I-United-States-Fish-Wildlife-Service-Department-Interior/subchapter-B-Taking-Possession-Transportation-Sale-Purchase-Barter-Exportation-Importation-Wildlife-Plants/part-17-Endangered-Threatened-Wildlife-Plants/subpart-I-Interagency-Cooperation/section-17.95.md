@@ -4,7 +4,7 @@
 
 Florida Bonneted Bat (*Eumops floridanus*)
 
-(1) Critical habitat units are depicted for Charlotte, Collier, DeSoto, Glades, Hardee, Hendry, Highlands, Lee, Miami-Dade, Monroe, Okeechobee, Osceola, and Polk Counties, Florida, on the maps in this entry.
+(1) Critical habitat units are depicted for Charlotte, Collier, DeSoto, Glades, Hardee, Hendry, Highlands, Lee, Miami-Dade, Monroe, Okeechobee, Osceola, and Polk Counties, Florida, on the maps in this entry.*i.e.,*Note:1/42**Note:**
 
 (2) Within these areas, the physical or biological features essential to the conservation of Florida bonneted bat consist of the following components:
 
@@ -48,7 +48,7 @@ Florida Bonneted Bat (*Eumops floridanus*)
 
 (5) Index map follows:
 
-Figure 1 to Florida Bonneted Bat (*Eumops floridanus*) Paragraph (5) ![](/graphics/er07mr24.000.gif)
+Figure 1 to Florida Bonneted Bat (*Eumops floridanus*) Paragraph (5) Note:![](/graphics/er07mr24.000.gif)
 
 (6) Unit 1: Kissimmee Unit; Polk, Osceola, Highlands, and Okeechobee Counties, Florida.
 
@@ -838,7 +838,7 @@ Figure 6 to Pacific Marten (*Martes caurina*), Coastal DPS paragraph (10)(ii) ![
 
 (5) *Note:* Index map of critical habitat for the Preble's meadow jumping mouse follows:
 
-![](/graphics/er15de10.002.gif)(6) Unit 1: North Fork Cache la Poudre River, Larimer County, Colorado.
+![](/graphics/er15de10.002.gif)(6) Unit 1: North Fork Cache la Poudre River, Larimer County, Colorado. 1/2*Astragalus trichopodus leucopsis.*
 
 (i) This unit consists of 87.2 mi (140.4 km) of streams and rivers. North Fork Cache la Poudre River from Seaman Reservoir (40 43 7N 105 14 32W, T.9N., R.70W., Sec. 28) upstream to Halligan Reservoir spillway (40 52 44N 105 20 15W, T.11N., R.71W., Sec. 34) excluding 1.06 mi (1.71 km) of the North Fork Cache la Poudre River within the Eagles Nest Open Space (from 40 45 44N 105 13 50W, T. 9N, R.70W., Sec. 9 to 40 46 17N 105 13 59W, T. 9N, R.70W., Sec. 4). Includes Lone Pine Creek from its confluence North Fork Cache la Poudre River (40 47 54N 105 15 30W, T.10N., R.70W., Sec. 32) upstream and continuing upstream into North Lone Pine Creek to 7,600 ft (2,317 m) elevation (40 49 58N 105 34 09W, T.10N., R.73W., Sec. 15). Includes Columbine Canyon from its confluence with North Lone Pine Creek (40 49 47N 105 33 31W, T.10N., R.73W., Sec. 15) upstream to 7,600 ft (2,317 m) elevation (40 49 32N 105 33 58W, T.10N., R.73W., Sec. 15). Also includes Stonewall Creek from its confluence with North Fork Cache la Poudre River (40 48 19N 105 15 21W, T.10N., R.70W., Sec. 29) upstream to (40 53 26N 105 15 40W, T.11N., R.70W., Sec. 29). Includes Tenmile Creek from its confluence with Stonewall Creek (40 51 49N 105 15 32W, T.10N., R.70W., Sec. 5) upstream to Red Mountain Road (40 53 00N 105 16 09W, T.11N., R.70W., Sec. 31). Also includes Rabbit Creek from its confluence with North Fork Cache la Poudre River (40 48 30N 105 16 07W, T.10N., R.70W., Sec. 30) upstream to the confluence with North and Middle Forks of Rabbit Creek (40 49 34N 105 20 49W, T.10N., R 71W., Sec. 21). Also includes South Fork Rabbit Creek from its confluence with Rabbit Creek (40 48 39N 105 19 45W, T.10N., R.71W., Sec. 27) upstream to (40 49 39N 105 24 40W, T.10N., R.72W., north boundary Sec. 24). Includes an unnamed tributary from its confluence with South Fork Rabbit Creek (40 47 28N 105 20 47W, T.10N., R.71W., Sec. 33) upstream to (40 47 28N 105 23 12W, T.10N., R.71W., Sec. 31). Which in turn has an unnamed tributary from their confluence at (40 47 17N 105 21 48W, T.10N., R.71W., east boundary Sec. 32) upstream to (40 46 55N 105 22 16W, T.9N., R.71W., Sec. 5). Also includes Middle Fork Rabbit Creek from its confluence with Rabbit Creek (40 49 34N 105 20 49W, T.10N., R 71W., Sec. 21) upstream to 7,600 ft (2,317 m) elevation (40 49 46N 105 26 59W, T.10N., R.72W., Sec. 15). This includes an unnamed tributary from its confluence with Middle Fork Rabbit Creek (40 49 56N 105 25 51W, T.10N., R.72W., Sec. 14) upstream to 7,600 ft (2,317 m) elevation (40 48 48N 105 26 29W, T.10N., R.72W., Sec. 23). This unit includes North Fork Rabbit Creek from its confluence with Rabbit Creek (40 49 34N 105 20 49W, T.10N., R.71W., Sec. 21) upstream to 7,600 ft (2,317 m) elevation (40 49 38N 105 29 19W, T.10N., R.72W., Sec. 17). Includes an unnamed tributary from its confluence with North Fork Rabbit Creek (40 50 45N 105 27 44W, T.10N., R.72W., Sec. 9) upstream to 7,600 ft (2,317 m) elevation (40 50 57N 105 28 46W, T.10N., R.72W., Sec. 9).
 
@@ -1394,17 +1394,32 @@ The map provided is for informational purposes only. Map follows:
 
 Within these areas, the major constituent elements that are known to require special management considerations or protection are marsh vegetation (primarily bulrushes of the genus *Scirpus*), springs, and some open water along the Amargosa River, which provide escape cover and an adequate food supply.
 
+Table 1 to Nine Mobile River Basin Mussel Species Paragraph (2)(ii)
+| Stream segment                                                                                                                                                                                                                                                                                                                                                    | Start: UTM Zone, E, N | End: UTM Zone, E, N  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | -------------------- |
+| Santa Ynez River (east)   Pleurobema perovatum                                                                                                                                                                                                                                                                                                                    | 11, 259890, 3821926   | 11, 255550, 3823716. |
+| Santa Ynez River (middle)                                                                                                                                                                                                                                                                                                                                         | 11, 253343, 3823606   | 11, 249967, 3824847. |
+| Santa Ynez River (west)                                                                                                                                                                                                                                                                                                                                           | 10, 759116, 3832075   | 10, 732972, 3839168. |
+| Mono Creek                                                                                                                                                                                                                                                                                                                                                        | 11, 258529, 3824766   | 11, 258310, 3822974. |
+| \* Includes shrubs such as horsebrush (Tetradymia spp.), rabbitbrush (Chrysothamnus spp.), bitterbrush (Purshia spp.), snakeweed (Gutierrezia sarothrae), greasewood (Sarcobatus spp.), winterfat (Eurotia lanata), Gambel's oak (Quercus gambelii), snowberry (Symphoricarpos oreophilus), serviceberry (Amelanchier spp.), and chokecherry (Prunus virginiana). |                       |                      |
+
+Map of Units MN/WI-1, WI-1, WI-2, and WI-3 
+
+1 Sections T. 17 N., R. 01 E., sec. 32 and T. 17 N., R. 01 E., sec. 33 are designated CH for both Platte and Loup Rivers.
+
 Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.020.gif)Gray Wolf (Canis Lupus)
+![](/graphics/ec01jn91.020.gif)Gray Wolf (Canis Lupus) *Necturus lewisi*
 
 *Michigan.* Isle Royale National Park.
 
 *Minnesota.* Areas of land, water, and airspace in Beltrami, Cook, Itasca, Koochiching, Lake, Lake of the Woods, Roseau, and St. Louis Counties, with boundaries (4th and 5th Principal meridians) identical to those of zones 1, 2, and 3, as delineated in 50 CFR 17.40(d)(l).
 
 Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+
+2\. For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (b) *Birds.*
 

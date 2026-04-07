@@ -1,6 +1,6 @@
 ##### § 17.104 Prohibitions.
 
-Except as provided in § 17.105,
+Except as provided in § 17.105,*Manatee sanctuary.*1
 
 (a) *Manatee sanctuary.* It is unlawful for any person to engage in any waterborne activity within a manatee sanctuary.
 

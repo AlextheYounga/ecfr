@@ -1,6 +1,6 @@
 ##### 52.217-8 Option To Extend Services.
 
-As prescribed in 17.208(f), insert a clause substantially the same as the following:
+As prescribed in 17.208(f), insert a clause substantially the same as the following: 
 
 Option To Extend Services (NOV 1999)
 

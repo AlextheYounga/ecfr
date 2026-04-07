@@ -1,6 +1,6 @@
 ##### 52.236-1 Performance of Work by the Contractor.
 
-As prescribed in 36.501(b), insert the following clause: \[*Complete the clause by inserting the appropriate percentage consistent with the complexity and magnitude of the work and customary or necessary specialty subcontracting (see 36.501(a)).*\]
+As prescribed in 36.501(b), insert the following clause: \[*Complete the clause by inserting the appropriate percentage consistent with the complexity and magnitude of the work and customary or necessary specialty subcontracting (see 36.501(a)).*\] 
 
 Performance of Work by the Contractor (APR 1984)
 

@@ -1,6 +1,6 @@
 ##### 52.247-61 F.o.b. Origin—Minimum Size of Shipments.
 
-As prescribed in 47.305-16(c), insert the following clause in solicitations and contracts when volume rates may apply:
+As prescribed in 47.305-16(c), insert the following clause in solicitations and contracts when volume rates may apply: 
 
 F.o.b. Origin—Minimum Size of Shipments (APR 1984)
 

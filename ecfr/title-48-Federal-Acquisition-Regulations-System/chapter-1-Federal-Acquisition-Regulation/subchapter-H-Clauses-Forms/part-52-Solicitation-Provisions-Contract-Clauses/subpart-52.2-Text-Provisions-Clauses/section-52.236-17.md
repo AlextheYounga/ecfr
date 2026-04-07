@@ -1,6 +1,6 @@
 ##### 52.236-17 Layout of Work.
 
-As prescribed in 36.517, insert the following clause in solicitations and contracts when a fixed-price construction contract is contemplated and use of this clause is appropriate due to a need for accurate work layout and for siting verification during work performance:
+As prescribed in 36.517, insert the following clause in solicitations and contracts when a fixed-price construction contract is contemplated and use of this clause is appropriate due to a need for accurate work layout and for siting verification during work performance: 
 
 Layout of Work (APR 1984)
 

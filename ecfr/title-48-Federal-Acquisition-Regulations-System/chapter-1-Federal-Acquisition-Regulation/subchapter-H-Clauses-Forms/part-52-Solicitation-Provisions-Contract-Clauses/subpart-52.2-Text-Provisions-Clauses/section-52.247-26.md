@@ -1,6 +1,6 @@
 ##### 52.247-26 Government Direction and Marking.
 
-As prescribed in 47.207-8(a)(3), insert the following clause in solicitations and contracts for transportation or for transportation-related services when office relocations are involved:
+As prescribed in 47.207-8(a)(3), insert the following clause in solicitations and contracts for transportation or for transportation-related services when office relocations are involved: 
 
 Government Direction and Marking (APR 1984)
 
