@@ -1,5 +1,7 @@
 ##### § 75.220 Procedures the Department uses under § 75.219(a).
 
+Link to an amendment published at 89 FR 70326, Aug. 29, 2024.
+
 If the special circumstances of § 75.219(a) appear to exist for an application, the Secretary uses the following procedures: 
 
 (a) The Secretary assembles a board to review the application. 

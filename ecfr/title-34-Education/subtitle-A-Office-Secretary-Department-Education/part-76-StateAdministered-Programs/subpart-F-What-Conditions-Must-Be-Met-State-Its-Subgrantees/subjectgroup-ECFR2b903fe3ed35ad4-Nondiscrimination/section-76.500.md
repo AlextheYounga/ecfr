@@ -1,5 +1,7 @@
 ##### § 76.500 Constitutional rights, freedom of inquiry, and Federal statutes and regulations on nondiscrimination.
 
+Link to an amendment published at 89 FR 70337, Aug. 29, 2024.
+
 (a) A State and a subgrantee shall comply with the following statutes and regulations: 
 
 Table 1 to § 76.500(a)

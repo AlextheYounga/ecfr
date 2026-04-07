@@ -1,5 +1,7 @@
 ##### § 76.708 When certain subgrantees may begin to obligate funds.
 
+Link to an amendment published at 89 FR 70339, Aug. 29, 2024.
+
 (a) If the authorizing statute for a program requires a State to make subgrants on the basis of a formula (see § 76.5), the State may not authorize an applicant for a subgrant to obligate funds until the later of the following two dates: 
 
 (1) The date that the State may begin to obligate funds under § 76.703; or 
