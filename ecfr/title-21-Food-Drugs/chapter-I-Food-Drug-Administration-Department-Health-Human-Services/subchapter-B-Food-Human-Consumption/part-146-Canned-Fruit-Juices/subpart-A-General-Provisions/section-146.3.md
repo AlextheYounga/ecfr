@@ -22,7 +22,7 @@ For the purposes of this part:
 
 (h) The sampling and acceptance procedure means the following:
 
-(1) *Definitions* - (i) *Lot.* A collection of primary containers or units of the same size, type, and style manufactured or packed under similar conditions and handled as a single unit of trade.
+(1) *Definitions*—(i) *Lot.* A collection of primary containers or units of the same size, type, and style manufactured or packed under similar conditions and handled as a single unit of trade.
 
 (ii) *Lot size.* The number of primary containers or units in the lot.
 
@@ -38,33 +38,31 @@ For the purposes of this part:
 
 (2) *Sampling plans:*
 
-| Lot size (primary containers)                                          | Size of container |
-| ---------------------------------------------------------------------- | ----------------- |
-| net weight equal to or less than 1 kg (2.2 lb)                         |                   |
-| 4,800 or less                                                          | 13                |
-| 4,801 to 24,000                                                        | 21                |
-| 24,001 to 48,000                                                       | 29                |
-| 48,001 to 84,000                                                       | 48                |
-| 84,001 to 144,000                                                      | 84                |
-| 144,001 to 240,000                                                     | 126               |
-| Over 240,000                                                           | 200               |
-| net weight greater than 1 kg (2.2 lb) but not more than 4.5 kg (10 lb) |                   |
-| 2,400 or less                                                          | 13                |
-| 2,401 to 15,000                                                        | 21                |
-| 15,001 to 24,000                                                       | 29                |
-| 24,001 to 42,000                                                       | 48                |
-| 42,001 to 72,000                                                       | 84                |
-| 72,001 to 120,000                                                      | 126               |
-| Over 120,000                                                           | 200               |
-| net weight greater than 4.5 kg (10 lb)                                 |                   |
-| 600 or less                                                            | 13                |
-| 601 to 2,000                                                           | 21                |
-| 2,001 to 7,200                                                         | 29                |
-| 7,201 to 15,000                                                        | 48                |
-| 15,001 to 24,000                                                       | 84                |
-| 24,001 to 42,000                                                       | 126               |
-| Over 42,000                                                            | 200               |
-
-1n = number of primary containers in sample.
-
-2c = acceptance number.
+| Lot size (primary containers)                                              | Size of container |
+| -------------------------------------------------------------------------- | ----------------- |
+| **net weight equal to or less than 1 kg (2.2 lb)**                         |                   |
+| 4,800 or less                                                              | 13                |
+| 4,801 to 24,000                                                            | 21                |
+| 24,001 to 48,000                                                           | 29                |
+| 48,001 to 84,000                                                           | 48                |
+| 84,001 to 144,000                                                          | 84                |
+| 144,001 to 240,000                                                         | 126               |
+| Over 240,000                                                               | 200               |
+| **net weight greater than 1 kg (2.2 lb) but not more than 4.5 kg (10 lb)** |                   |
+| 2,400 or less                                                              | 13                |
+| 2,401 to 15,000                                                            | 21                |
+| 15,001 to 24,000                                                           | 29                |
+| 24,001 to 42,000                                                           | 48                |
+| 42,001 to 72,000                                                           | 84                |
+| 72,001 to 120,000                                                          | 126               |
+| Over 120,000                                                               | 200               |
+| **net weight greater than 4.5 kg (10 lb)**                                 |                   |
+| 600 or less                                                                | 13                |
+| 601 to 2,000                                                               | 21                |
+| 2,001 to 7,200                                                             | 29                |
+| 7,201 to 15,000                                                            | 48                |
+| 15,001 to 24,000                                                           | 84                |
+| 24,001 to 42,000                                                           | 126               |
+| Over 42,000                                                                | 200               |
+| 1n = number of primary containers in sample.                               |                   |
+| 2c = acceptance number.                                                    |                   |

@@ -41,7 +41,6 @@
 (iv) When the food is whole shrimp within a size range designated in table I as “extra large,” “large,” “medium,” or “small” and does not contain broken shrimp as defined in paragraph (a)(3)(iv) of this section in excess of the amount listed in table II for the applicable size, the appropriate size designation may be declared on the label.
 
 Table I
-
 | Size                 | Number of shrimp per 28.4 g (1 oz) of drained product | Number of shrimp per 100 g (3.5 oz) of drained product |
 | -------------------- | ----------------------------------------------------- | ------------------------------------------------------ |
 | Extra large or jumbo | Less than 3.5                                         | Less than 3.8                                          |
@@ -51,16 +50,14 @@ Table I
 | Tiny                 | More than 17.0                                        | More than 18.4                                         |
 
 Table II
-
-| Size                 | Maximum percent by weight of broken shrimp a |
-| -------------------- | -------------------------------------------- |
-| Extra large or jumbo | 5                                            |
-| Large                | 5                                            |
-| Medium               | 5                                            |
-| Small                | 10                                           |
-| Tiny                 | 15                                           |
-
-a Grams of broken shrimp per 100 g of cut-out weight as determined in § 161.173(c) of this section.
+| Size                                                                                                | Maximum percent by weight of broken shrimp a |
+| --------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Extra large or jumbo                                                                                | 5                                            |
+| Large                                                                                               | 5                                            |
+| Medium                                                                                              | 5                                            |
+| Small                                                                                               | 10                                           |
+| Tiny                                                                                                | 15                                           |
+| a Grams of broken shrimp per 100 g of cut-out weight as determined in § 161.173(c) of this section. |                                              |
 
 (v) When the food consists of tiny shrimp, as designated in table I in paragraph (a)(5)(iv) of this section and does not contain broken shrimp as defined in paragraph (a)(3)(iv) of this section in excess of 15 percent by weight, the name of the food on the label shall be accompanied by the word “tiny” in type size equal to that used in the name of the food.
 
@@ -93,29 +90,26 @@ a Grams of broken shrimp per 100 g of cut-out weight as determined in § 161.173
 (ii) Sampling plans:
 
 Acceptable Quality Level 6.5
-
-| Lot size (primary containers)                                          | Size of container |
-| ---------------------------------------------------------------------- | ----------------- |
-| net weight equal to or less than 1 kg (2.2 lb)                         |                   |
-| 4,800 or less                                                          | 13                |
-| 4,801 to 24,000                                                        | 21                |
-| 24,001 to 48,000                                                       | 29                |
-| 48,001 to 84,000                                                       | 48                |
-| 84,001 to 144,000                                                      | 84                |
-| 144,001 to 240,000                                                     | 126               |
-| Over 240,000                                                           | 200               |
-| net weight greater than 1 kg (2.2 lb) but not more than 4.5 kg (10 lb) |                   |
-| 2,400 or less                                                          | 13                |
-| 2,401 to 15,000                                                        | 21                |
-| 15,001 to 24,000                                                       | 29                |
-| 24,001 to 42,000                                                       | 48                |
-| 42,001 to 72,000                                                       | 84                |
-| 72,001 to 120,000                                                      | 126               |
-| Over 120,000                                                           | 200               |
-
-1n = Number of primary containers in sample.
-
-2c = Acceptance number.
+| Lot size (primary containers)                                              | Size of container |
+| -------------------------------------------------------------------------- | ----------------- |
+| **net weight equal to or less than 1 kg (2.2 lb)**                         |                   |
+| 4,800 or less                                                              | 13                |
+| 4,801 to 24,000                                                            | 21                |
+| 24,001 to 48,000                                                           | 29                |
+| 48,001 to 84,000                                                           | 48                |
+| 84,001 to 144,000                                                          | 84                |
+| 144,001 to 240,000                                                         | 126               |
+| Over 240,000                                                               | 200               |
+| **net weight greater than 1 kg (2.2 lb) but not more than 4.5 kg (10 lb)** |                   |
+| 2,400 or less                                                              | 13                |
+| 2,401 to 15,000                                                            | 21                |
+| 15,001 to 24,000                                                           | 29                |
+| 24,001 to 42,000                                                           | 48                |
+| 42,001 to 72,000                                                           | 84                |
+| 72,001 to 120,000                                                          | 126               |
+| Over 120,000                                                               | 200               |
+| 1n = Number of primary containers in sample.                               |                   |
+| 2c = Acceptance number.                                                    |                   |
 
 (b) \[Reserved\]
 

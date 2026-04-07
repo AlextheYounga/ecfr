@@ -400,7 +400,7 @@
 
 (ii) Article 210.12(A) and (B), IBR approved for § 3280.801(b).
 
-(iii)Article 220.61, IBR approved for § 3280.811(b).
+(iii) Article 220.61, IBR approved for § 3280.811(b).
 
 (iv) Article 230, IBR approved for §§ 3280.803(k) and 3280.804(k).
 
@@ -416,11 +416,11 @@
 
 (ix) Article 314.23(B), IBR approved for §§ 3280.808(m) and 3280.808(q).
 
-(xi)Article 406.3, IBR approved for § 3280.807(d).
+(xi) Article 406.3, IBR approved for § 3280.807(d).
 
-(xii)Article 410.4(D), IBR approved for § 3280.805(a).
+(xii) Article 410.4(D), IBR approved for § 3280.805(a).
 
-(xiii)Article 440, IBR approved for § 3280.805(a).
+(xiii) Article 440, IBR approved for § 3280.805(a).
 
 (xiv) Article 440.65, IBR approved for § 3280.801(b).
 
@@ -430,9 +430,9 @@
 
 (xvii) Article 680.70, IBR approved for §§ 3280.607(c) and 3280.801(a).
 
-(xviii)Article 680.71, IBR approved for §§ 3280.607(c) and 3280.801(a).
+(xviii) Article 680.71, IBR approved for §§ 3280.607(c) and 3280.801(a).
 
-(xix)Articles 680.72, IBR approved for §§ 3280.607(c) and 3280.801(a).
+(xix) Articles 680.72, IBR approved for §§ 3280.607(c) and 3280.801(a).
 
 (5) NFPA 90B, Warm Air Heating and Air Conditioning Systems, 1996 Edition, IBR approved for § 3280.703.
 
