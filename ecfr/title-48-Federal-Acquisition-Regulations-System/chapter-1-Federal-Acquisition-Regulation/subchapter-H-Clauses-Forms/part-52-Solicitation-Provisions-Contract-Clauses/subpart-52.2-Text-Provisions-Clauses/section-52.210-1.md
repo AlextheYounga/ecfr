@@ -1,22 +1,22 @@
 ##### 52.210-1 Market Research.
 
-As prescribed in 10.003, insert the following clause:
+As prescribed in 10.003, insert the following clause: 
 
 Market Research (NOV 2021)
 
-(a) *Definition.* As used in this clause—
+(a) *Definition.* As used in this clause— 
 
-*Commercial product, commercial service,* and *nondevelopmental item* have the meaning contained in Federal Acquisition Regulation (FAR) 2.101.
+*Commercial product, commercial service,* and *nondevelopmental item* have the meaning contained in Federal Acquisition Regulation (FAR) 2.101. 
 
-(b) Before awarding subcontracts for other than commercial acquisitions, where the subcontracts are over the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, the Contractor shall conduct market research to—
+(b) Before awarding subcontracts for other than commercial acquisitions, where the subcontracts are over the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, the Contractor shall conduct market research to— 
 
-(1) Determine if commercial products, commercial services, or, to the extent commercial products suitable to meet the agency's needs are not available, nondevelopmental items are available that—
+(1) Determine if commercial products, commercial services, or, to the extent commercial products suitable to meet the agency's needs are not available, nondevelopmental items are available that— 
 
-(i) Meet the agency's requirements;
+(i) Meet the agency's requirements; 
 
-(ii) Could be modified to meet the agency's requirements; or
+(ii) Could be modified to meet the agency's requirements; or 
 
-(iii) Could meet the agency's requirements if those requirements were modified to a reasonable extent; and
+(iii) Could meet the agency's requirements if those requirements were modified to a reasonable extent; and 
 
 (2) Determine the extent to which commercial products, commercial services, or nondevelopmental items could be incorporated at the component level.
 

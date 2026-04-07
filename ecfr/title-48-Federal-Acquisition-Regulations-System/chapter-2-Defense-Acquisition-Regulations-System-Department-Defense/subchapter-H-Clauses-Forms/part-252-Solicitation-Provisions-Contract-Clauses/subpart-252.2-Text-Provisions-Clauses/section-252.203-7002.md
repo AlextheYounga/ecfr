@@ -1,10 +1,10 @@
 ##### 252.203-7002 Requirement to Inform Employees of Whistleblower Rights.
 
-As prescribed in 203.970, use the following clause:
+As prescribed in 203.970, use the following clause: 
 
 Requirement To Inform Employees of Whistleblower Rights (DEC 2022)
 
-(a) The Contractor shall inform its employees in writing, in the predominant native language of the workforce, of contractor employee whistleblower rights and protections under 10 U.S.C. 4701, as described in subpart 203.9 of the Defense Federal Acquisition Regulation Supplement.
+(a) The Contractor shall inform its employees in writing, in the predominant native language of the workforce, of contractor employee whistleblower rights and protections under 10 U.S.C. 4701, as described in subpart 203.9 of the Defense Federal Acquisition Regulation Supplement. 
 
 (b) The Contractor shall include the substance of this clause, including this paragraph (b), in all subcontracts.
 

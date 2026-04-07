@@ -1,6 +1,6 @@
 ##### 252.247-7014 Demurrage.
 
-As prescribed in 247.271-3(c), use the following clause:
+As prescribed in 247.271-3(c), use the following clause: 
 
 Demurrage (DEC 1991)
 

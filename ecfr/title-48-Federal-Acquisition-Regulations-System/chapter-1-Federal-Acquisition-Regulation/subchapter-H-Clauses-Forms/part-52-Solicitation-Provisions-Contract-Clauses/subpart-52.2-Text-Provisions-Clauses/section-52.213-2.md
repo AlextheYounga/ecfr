@@ -1,6 +1,6 @@
 ##### 52.213-2 Invoices.
 
-As prescribed in 13.302-5(b), insert the following clause:
+As prescribed in 13.302-5(b), insert the following clause: 
 
 Invoices (APR 1984)
 

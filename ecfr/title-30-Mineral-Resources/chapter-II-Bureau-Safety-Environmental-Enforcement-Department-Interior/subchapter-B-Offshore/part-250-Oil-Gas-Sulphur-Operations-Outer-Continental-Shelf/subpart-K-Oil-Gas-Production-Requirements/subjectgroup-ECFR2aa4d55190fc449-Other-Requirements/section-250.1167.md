@@ -1,6 +1,6 @@
 ##### § 250.1167 What information must I submit with forms and for approvals?
 
-You must submit the supporting information listed in the following table with the form identified in column 1 and for the approvals required under this subpart identified in columns 2 through 4: 
+You must submit the supporting information listed in the following table with the form identified in column 1 and for the approvals required under this subpart identified in columns 2 through 4:
 
 |                                                                                                                                                                                                                                                              | WPT BSEE-0126   (2 copies) | Gas cap production | Downhole commingling | Production within 500-ft of a unit or lease line |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | ------------------ | -------------------- | ------------------------------------------------ |

@@ -1,6 +1,6 @@
 ##### 52.247-5 Familiarization With Conditions.
 
-As prescribed in 47.207-1(d), insert the following clause in solicitations and contracts for transportation or for transportation-related services to ensure that offerors become familiar with conditions under which and where the services will be performed:
+As prescribed in 47.207-1(d), insert the following clause in solicitations and contracts for transportation or for transportation-related services to ensure that offerors become familiar with conditions under which and where the services will be performed: 
 
 Familiarization With Conditions (APR 1984)
 

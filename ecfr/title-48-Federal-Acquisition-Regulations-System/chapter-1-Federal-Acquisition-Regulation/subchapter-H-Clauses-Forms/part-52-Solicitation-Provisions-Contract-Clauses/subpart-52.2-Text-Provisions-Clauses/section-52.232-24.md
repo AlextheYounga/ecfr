@@ -1,6 +1,6 @@
 ##### 52.232-24 Prohibition of Assignment of Claims.
 
-As prescribed in 32.806(b), insert the following clause:
+As prescribed in 32.806(b), insert the following clause: 
 
 Prohibition of Assignment of Claims (MAY 2014)
 

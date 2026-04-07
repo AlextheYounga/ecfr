@@ -1,8 +1,8 @@
 ##### § 250.102 What does this part do?
 
-(a) This part 250 contains the regulations of the BSEE Offshore program that govern oil, gas, and sulphur exploration, development, and production operations on the OCS. When you conduct operations on the OCS, you must submit requests, applications, and notices, or provide supplemental information for BSEE approval. 
+(a) This part 250 contains the regulations of the BSEE Offshore program that govern oil, gas, and sulphur exploration, development, and production operations on the OCS. When you conduct operations on the OCS, you must submit requests, applications, and notices, or provide supplemental information for BSEE approval.
 
-(b) The following table of general references shows where to look for information about these processes. 
+(b) The following table of general references shows where to look for information about these processes.
 
 | For information about . . .                              | Refer to . . .                                             |
 | -------------------------------------------------------- | ---------------------------------------------------------- |

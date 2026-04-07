@@ -1,6 +1,6 @@
 ##### 52.247-27 Contract Not Affected by Oral Agreement.
 
-As prescribed in 47.207-8(b), insert the following clause in solicitations and contracts for transportation or for transportation-related services:
+As prescribed in 47.207-8(b), insert the following clause in solicitations and contracts for transportation or for transportation-related services: 
 
 Contract Not Affected by Oral Agreement (APR 1984)
 

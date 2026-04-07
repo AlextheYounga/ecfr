@@ -1,6 +1,6 @@
 ##### 4.1803 Verifying CAGE codes prior to award.
 
-(a) Contracting officers shall verify the offeror's CAGE code by reviewing the entity's registration in the System for Award Management (SAM). Active registrations in SAM have had the associated CAGE codes verified.
+(a) Contracting officers shall verify the offeror's CAGE code by reviewing the entity's registration in the System for Award Management (SAM). Active registrations in SAM have had the associated CAGE codes verified. 
 
 (b) For entities not required to be registered in SAM, the contracting officer shall validate the CAGE code using the CAGE code search feature at *https://cage.dla.mil.*
 

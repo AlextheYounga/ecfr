@@ -1,12 +1,12 @@
 ##### 252.239-7017 Notice of Supply Chain Risk.
 
-As prescribed in 239.7306(a), use the following provision:
+As prescribed in 239.7306(a), use the following provision: 
 
 Notice of Supply Chain Risk (DEC 2022)
 
-(a) *Definition. Supply chain risk,* as used in this provision, means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of such system (see 10 U.S.C. 3252).
+(a) *Definition. Supply chain risk,* as used in this provision, means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of such system (see 10 U.S.C. 3252). 
 
-(b) In order to manage supply chain risk, the Government may use the authorities provided by 10 U.S.C. 3252. In exercising these authorities, the Government may consider information, public and non-public, including all-source intelligence, relating to an offeror and its supply chain.
+(b) In order to manage supply chain risk, the Government may use the authorities provided by 10 U.S.C. 3252. In exercising these authorities, the Government may consider information, public and non-public, including all-source intelligence, relating to an offeror and its supply chain. 
 
 (c) If the Government exercises the authority provided in 10 U.S.C. 3252 to limit disclosure of information, no action undertaken by the Government under such authority shall be subject to review in a bid protest before the Government Accountability Office or in any Federal court.
 

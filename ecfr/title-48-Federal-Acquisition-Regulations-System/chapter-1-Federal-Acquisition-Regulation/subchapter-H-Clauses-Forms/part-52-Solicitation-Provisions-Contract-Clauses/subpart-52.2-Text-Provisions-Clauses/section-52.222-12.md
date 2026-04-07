@@ -1,6 +1,6 @@
 ##### 52.222-12 Contract Termination—Debarment.
 
-As prescribed in 22.407(a), insert the following clause:
+As prescribed in 22.407(a), insert the following clause: 
 
 Contract Termination—Debarment (MAY 2014)
 

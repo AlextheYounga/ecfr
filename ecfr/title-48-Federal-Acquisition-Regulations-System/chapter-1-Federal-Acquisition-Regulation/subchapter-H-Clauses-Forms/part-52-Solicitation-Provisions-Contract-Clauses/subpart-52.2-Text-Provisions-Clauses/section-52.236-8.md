@@ -1,6 +1,6 @@
 ##### 52.236-8 Other Contracts.
 
-As prescribed in 36.508, insert the following clause:
+As prescribed in 36.508, insert the following clause: 
 
 Other Contracts (APR 1984)
 

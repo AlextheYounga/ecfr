@@ -1,6 +1,6 @@
 ##### 52.237-1 Site Visit.
 
-As prescribed in 37.110(a), insert the following provision in solicitations for services to be performed on Government installations, unless the solicitation is for construction:
+As prescribed in 37.110(a), insert the following provision in solicitations for services to be performed on Government installations, unless the solicitation is for construction: 
 
 Site Visit (APR 1984)
 

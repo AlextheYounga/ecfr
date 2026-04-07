@@ -1,8 +1,8 @@
 ##### § 250.916 What are the CVA's primary duties during the design phase?
 
-(a) The CVA must use good engineering judgment and practices in conducting an independent assessment of the design of the platform, major modification, or repair. The CVA must ensure that the platform, major modification, or repair is designed to withstand the environmental and functional load conditions appropriate for the intended service life at the proposed location. 
+(a) The CVA must use good engineering judgment and practices in conducting an independent assessment of the design of the platform, major modification, or repair. The CVA must ensure that the platform, major modification, or repair is designed to withstand the environmental and functional load conditions appropriate for the intended service life at the proposed location.
 
-(b) Primary duties of the CVA during the design phase include the following: 
+(b) Primary duties of the CVA during the design phase include the following:
 
 | Type of facility . . .                                           | The CVA must . . .                                                                                                                                                                     |
 | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,12 +21,12 @@
 |                                                                  | (iii) Foundations, foundation pilings and templates, and anchoring systems; and                                                                                                        |
 |                                                                  | (iv) Mooring or tethering systems.                                                                                                                                                     |
 
-(c) The CVA must submit interim reports and a final report to the Regional Supervisor, and to you, during the design phase in accordance with the approved schedule required by § 250.911(d). In each interim and final report the CVA must: 
+(c) The CVA must submit interim reports and a final report to the Regional Supervisor, and to you, during the design phase in accordance with the approved schedule required by § 250.911(d). In each interim and final report the CVA must:
 
-(1) Provide a summary of the material reviewed and the CVA's findings; 
+(1) Provide a summary of the material reviewed and the CVA's findings;
 
-(2) In the final CVA report, make a recommendation that the Regional Supervisor either accept, request modifications, or reject the proposed design unless such a recommendation has been previously made in an interim report; 
+(2) In the final CVA report, make a recommendation that the Regional Supervisor either accept, request modifications, or reject the proposed design unless such a recommendation has been previously made in an interim report;
 
-(3) Describe the particulars of how, by whom, and when the independent review was conducted; and 
+(3) Describe the particulars of how, by whom, and when the independent review was conducted; and
 
 (4) Provide any additional comments the CVA deems necessary.

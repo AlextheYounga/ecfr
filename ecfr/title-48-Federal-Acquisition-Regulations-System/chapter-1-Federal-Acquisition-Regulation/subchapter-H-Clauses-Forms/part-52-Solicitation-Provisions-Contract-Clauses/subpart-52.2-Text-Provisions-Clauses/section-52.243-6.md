@@ -1,6 +1,6 @@
 ##### 52.243-6 Change Order Accounting.
 
-As prescribed in 43.205(f), the contracting officer may insert a clause, substantially the same as follows:
+As prescribed in 43.205(f), the contracting officer may insert a clause, substantially the same as follows: 
 
 Change Order Accounting (APR 1984)
 

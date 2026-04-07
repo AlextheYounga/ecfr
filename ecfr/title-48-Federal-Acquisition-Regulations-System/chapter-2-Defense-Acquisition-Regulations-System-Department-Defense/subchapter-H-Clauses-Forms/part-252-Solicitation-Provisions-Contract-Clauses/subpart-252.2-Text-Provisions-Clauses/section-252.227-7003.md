@@ -1,6 +1,6 @@
 ##### 252.227-7003 Termination.
 
-As prescribed at 227.7009-2(c), insert the following clause in patent releases, license agreements, and assignments:
+As prescribed at 227.7009-2(c), insert the following clause in patent releases, license agreements, and assignments: 
 
 Termination (AUG 1984)
 

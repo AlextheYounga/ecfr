@@ -1,68 +1,68 @@
 ##### 42.1503 Procedures.
 
-(a)(1) Agencies shall assign responsibility and management accountability for the completeness of past performance submissions. Agency procedures for the past performance evaluation system shall—
+(a)(1) Agencies shall assign responsibility and management accountability for the completeness of past performance submissions. Agency procedures for the past performance evaluation system shall— 
 
-(i) Generally provide for input to the evaluations from the technical office, contracting office, program management office, and, where appropriate, quality assurance and end users of the product or service;
+(i) Generally provide for input to the evaluations from the technical office, contracting office, program management office, and, where appropriate, quality assurance and end users of the product or service; 
 
-(ii) Identify and assign past performance evaluation roles and responsibilities to those individuals responsible for preparing and reviewing interim evaluations, if prepared, and final evaluations (e.g., contracting officers, contracting officer representatives, project managers, and program managers). Those individuals identified may obtain information for the evaluation of performance from the program office, administrative contracting office, audit office, end users of the product or service, and any other technical or business advisor, as appropriate; and
+(ii) Identify and assign past performance evaluation roles and responsibilities to those individuals responsible for preparing and reviewing interim evaluations, if prepared, and final evaluations (e.g., contracting officers, contracting officer representatives, project managers, and program managers). Those individuals identified may obtain information for the evaluation of performance from the program office, administrative contracting office, audit office, end users of the product or service, and any other technical or business advisor, as appropriate; and 
 
-(iii) Address management controls and appropriate management reviews of past performance evaluations, to include accountability for documenting past performance on CPARS.
+(iii) Address management controls and appropriate management reviews of past performance evaluations, to include accountability for documenting past performance on CPARS. 
 
-(2) If agency procedures do not specify the individuals responsible for past performance evaluation duties, the contracting officer is responsible for this function.
+(2) If agency procedures do not specify the individuals responsible for past performance evaluation duties, the contracting officer is responsible for this function. 
 
-(3) Interim evaluations may be prepared as required, in accordance with agency procedures.
+(3) Interim evaluations may be prepared as required, in accordance with agency procedures. 
 
-(b)(1) The evaluation should include a clear, non-technical description of the principal purpose of the contract or order. The evaluation should reflect how the contractor performed. The evaluation should include clear relevant information that accurately depicts the contractor's performance, and be based on objective facts supported by program and contract or order performance data. The evaluations should be tailored to the contract type, size, content, and complexity of the contractual requirements.
+(b)(1) The evaluation should include a clear, non-technical description of the principal purpose of the contract or order. The evaluation should reflect how the contractor performed. The evaluation should include clear relevant information that accurately depicts the contractor's performance, and be based on objective facts supported by program and contract or order performance data. The evaluations should be tailored to the contract type, size, content, and complexity of the contractual requirements. 
 
-(2) Evaluation factors for each assessment shall include, at a minimum, the following:
+(2) Evaluation factors for each assessment shall include, at a minimum, the following: 
 
-(i) Technical (quality of product or service).
+(i) Technical (quality of product or service). 
 
-(ii) Cost control (not applicable for firm-fixed-price or fixed-price with economic price adjustment arrangements).
+(ii) Cost control (not applicable for firm-fixed-price or fixed-price with economic price adjustment arrangements). 
 
-(iii) Schedule/timeliness.
+(iii) Schedule/timeliness. 
 
-(iv) Management or business relations.
+(iv) Management or business relations. 
 
-(v) Small business subcontracting, including reduced or untimely payments to small business subcontractors when 19.702(a) requires a subcontracting plan (as applicable, see Table 42-2).
+(v) Small business subcontracting, including reduced or untimely payments to small business subcontractors when 19.702(a) requires a subcontracting plan (as applicable, see Table 42-2). 
 
-(vi) Other (as applicable) (e.g., trafficking violations, tax delinquency, failure to report in accordance with contract terms and conditions, defective cost or pricing data, terminations, suspension and debarments, and failure to comply with limitations on subcontracting).
+(vi) Other (as applicable) (e.g., trafficking violations, tax delinquency, failure to report in accordance with contract terms and conditions, defective cost or pricing data, terminations, suspension and debarments, and failure to comply with limitations on subcontracting). 
 
-(3) Evaluation factors may include subfactors.
+(3) Evaluation factors may include subfactors. 
 
-(4) Each factor and subfactor used shall be evaluated and a supporting narrative provided. Each evaluation factor, as listed in paragraph (b)(2) of this section, shall be rated in accordance with a five scale rating system (*i.e.,* exceptional, very good, satisfactory, marginal, and unsatisfactory). The ratings and narratives must reflect the definitions in the tables 42-1 or 42-2 of this section.
+(4) Each factor and subfactor used shall be evaluated and a supporting narrative provided. Each evaluation factor, as listed in paragraph (b)(2) of this section, shall be rated in accordance with a five scale rating system (*i.e.,* exceptional, very good, satisfactory, marginal, and unsatisfactory). The ratings and narratives must reflect the definitions in the tables 42-1 or 42-2 of this section. 
 
-(c)(1) When the contract provides for incentive fees, the incentive-fee contract performance evaluation shall be entered into CPARS.
+(c)(1) When the contract provides for incentive fees, the incentive-fee contract performance evaluation shall be entered into CPARS. 
 
-(2) When the contract provides for award fee, the award fee-contract performance adjectival rating as described in 16.401(e)(3) shall be entered into CPARS.
+(2) When the contract provides for award fee, the award fee-contract performance adjectival rating as described in 16.401(e)(3) shall be entered into CPARS. 
 
-(d) Agency evaluations of contractor performance, including both negative and positive evaluations, prepared under this subpart shall be provided to the contractor as soon as practicable after completion of the evaluation. The contractor will receive a CPARS-system generated notification when an evaluation is ready for comment. Contractors shall be afforded up to 14 calendar days from the date of notification of availability of the past performance evaluation to submit comments, rebutting statements, or additional information. Agencies shall provide for review at a level above the contracting officer to consider disagreements between the parties regarding the evaluation. The ultimate conclusion on the performance evaluation is a decision of the contracting agency. Copies of the evaluation, contractor response, and review comments, if any, shall be retained as part of the evaluation. These evaluations may be used to support future award decisions, and should therefore be marked “Source Selection Information”. Evaluation of Federal Prison Industries (FPI) performance may be used to support a waiver request (see 8.604) when FPI is a mandatory source in accordance with subpart 8.6. The completed evaluation shall not be released to other than Government personnel and the contractor whose performance is being evaluated during the period the information may be used to provide source selection information. Disclosure of such information could cause harm both to the commercial interest of the Government and to the competitive position of the contractor being evaluated as well as impede the efficiency of Government operations. Evaluations used in determining award or incentive fee payments may also be used to satisfy the requirements of this subpart. A copy of the annual or final past performance evaluation shall be provided to the contractor as soon as it is finalized.
+(d) Agency evaluations of contractor performance, including both negative and positive evaluations, prepared under this subpart shall be provided to the contractor as soon as practicable after completion of the evaluation. The contractor will receive a CPARS-system generated notification when an evaluation is ready for comment. Contractors shall be afforded up to 14 calendar days from the date of notification of availability of the past performance evaluation to submit comments, rebutting statements, or additional information. Agencies shall provide for review at a level above the contracting officer to consider disagreements between the parties regarding the evaluation. The ultimate conclusion on the performance evaluation is a decision of the contracting agency. Copies of the evaluation, contractor response, and review comments, if any, shall be retained as part of the evaluation. These evaluations may be used to support future award decisions, and should therefore be marked “Source Selection Information”. Evaluation of Federal Prison Industries (FPI) performance may be used to support a waiver request (see 8.604) when FPI is a mandatory source in accordance with subpart 8.6. The completed evaluation shall not be released to other than Government personnel and the contractor whose performance is being evaluated during the period the information may be used to provide source selection information. Disclosure of such information could cause harm both to the commercial interest of the Government and to the competitive position of the contractor being evaluated as well as impede the efficiency of Government operations. Evaluations used in determining award or incentive fee payments may also be used to satisfy the requirements of this subpart. A copy of the annual or final past performance evaluation shall be provided to the contractor as soon as it is finalized. 
 
-(e) Agencies shall require frequent evaluation (e.g., monthly, quarterly) of agency compliance with the reporting requirements in 42.1502, so agencies can readily identify delinquent past performance reports and monitor their reports for quality control.
+(e) Agencies shall require frequent evaluation (e.g., monthly, quarterly) of agency compliance with the reporting requirements in 42.1502, so agencies can readily identify delinquent past performance reports and monitor their reports for quality control. 
 
-(f) Agencies shall prepare and submit all past performance evaluations electronically in CPARS at *https://www.cpars.gov.* These evaluations, including any contractor-submitted information (with indication whether agency review is pending), become available for source selection officials not later than 14 days after the date on which the contractor is notified of the evaluation's availability for comment. The Government shall update CPARS with any contractor comments provided after 14 days, as well as any subsequent agency review of comments received. Past performance evaluations for classified contracts and special access programs shall not be reported in CPARS, but will be reported as stated in this subpart and in accordance with agency procedures. Agencies shall ensure that appropriate management and technical controls are in place to ensure that only authorized personnel have access to the data and the information safeguarded in accordance with 42.1503(d).
+(f) Agencies shall prepare and submit all past performance evaluations electronically in CPARS at *https://www.cpars.gov.* These evaluations, including any contractor-submitted information (with indication whether agency review is pending), become available for source selection officials not later than 14 days after the date on which the contractor is notified of the evaluation's availability for comment. The Government shall update CPARS with any contractor comments provided after 14 days, as well as any subsequent agency review of comments received. Past performance evaluations for classified contracts and special access programs shall not be reported in CPARS, but will be reported as stated in this subpart and in accordance with agency procedures. Agencies shall ensure that appropriate management and technical controls are in place to ensure that only authorized personnel have access to the data and the information safeguarded in accordance with 42.1503(d). 
 
-(g) Agencies shall use the past performance information in CPARS that is within three years (six for construction and architect-engineer contracts) of the completion of performance of the evaluated contract or order, and information contained in the Federal Awardee Performance and Integrity Information System (FAPIIS), e.g., terminations for default or cause.
+(g) Agencies shall use the past performance information in CPARS that is within three years (six for construction and architect-engineer contracts) of the completion of performance of the evaluated contract or order, and information contained in the Federal Awardee Performance and Integrity Information System (FAPIIS), e.g., terminations for default or cause. 
 
-(h) *Other contractor performance information.* (1) Agencies shall ensure information is accurately reported in the FAPIIS module of CPARS within 3 calendar days after a contracting officer—
+(h) *Other contractor performance information.* (1) Agencies shall ensure information is accurately reported in the FAPIIS module of CPARS within 3 calendar days after a contracting officer— 
 
-(i) Issues a final determination that a contractor has submitted defective cost or pricing data;
+(i) Issues a final determination that a contractor has submitted defective cost or pricing data; 
 
-(ii) Makes a subsequent change to the final determination concerning defective cost or pricing data pursuant to 15.407-1(d);
+(ii) Makes a subsequent change to the final determination concerning defective cost or pricing data pursuant to 15.407-1(d); 
 
-(iii) Issues a final termination for cause or default notice;
+(iii) Issues a final termination for cause or default notice; 
 
-(iv) Makes a subsequent withdrawal or a conversion of a termination for default to a termination for convenience;
+(iv) Makes a subsequent withdrawal or a conversion of a termination for default to a termination for convenience; 
 
-(v) Receives a final determination after an administrative proceeding, in accordance with 22.1704(d)(1), that substantiates an allegation of a violation of the trafficking in persons prohibitions in 22.1703(a) and 52.222-50(b); or
+(v) Receives a final determination after an administrative proceeding, in accordance with 22.1704(d)(1), that substantiates an allegation of a violation of the trafficking in persons prohibitions in 22.1703(a) and 52.222-50(b); or 
 
-(vi) Determines that a contractor has a history of three or more unjustified reduced or untimely payments to small business subcontractors under a single contract within a 12-month period (see 42.1502(g)(2)).
+(vi) Determines that a contractor has a history of three or more unjustified reduced or untimely payments to small business subcontractors under a single contract within a 12-month period (see 42.1502(g)(2)). 
 
-(2) The information to be posted in accordance with this paragraph (h) is information relating to contractor performance, but does not constitute a “past performance review,” which would be exempted from public availability in accordance with section 3010 of the Supplemental Appropriations Act, 2010 (Pub. L. 111-212). Therefore, all such information posted in FAPIIS will be publicly available, unless covered by a disclosure exemption under the Freedom of Information Act (see 9.105-2(b)(2)).
+(2) The information to be posted in accordance with this paragraph (h) is information relating to contractor performance, but does not constitute a “past performance review,” which would be exempted from public availability in accordance with section 3010 of the Supplemental Appropriations Act, 2010 (Pub. L. 111-212). Therefore, all such information posted in FAPIIS will be publicly available, unless covered by a disclosure exemption under the Freedom of Information Act (see 9.105-2(b)(2)). 
 
-(3) Agencies shall establish CPARS focal points who will register users to report data into the FAPIIS module of CPARS (available at *https://www.cpars.gov”*.
+(3) Agencies shall establish CPARS focal points who will register users to report data into the FAPIIS module of CPARS (available at *https://www.cpars.gov”*. 
 
-(4) With regard to information that may be covered by a disclosure exemption under the Freedom of Information Act, the contracting officer shall follow the procedures at 9.105-2(b)(2)(iv).
+(4) With regard to information that may be covered by a disclosure exemption under the Freedom of Information Act, the contracting officer shall follow the procedures at 9.105-2(b)(2)(iv). 
 
 Table 42-1—Evaluation Ratings Definitions
 | Rating                                                                                                                                        | Definition                                                                                                                                                                                                                                                                                                                         | Note                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

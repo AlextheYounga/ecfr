@@ -1,12 +1,12 @@
 ##### 252.225-7006 Acquisition of the American flag.
 
-As prescribed in 225.7002-3(c), insert the following clause:
+As prescribed in 225.7002-3(c), insert the following clause: 
 
 Acquisition of the American Flag (DEC 2022)
 
-(a) *Definition. United States,* as used in this clause, means the 50 States, the District of Columbia, and outlying areas.
+(a) *Definition. United States,* as used in this clause, means the 50 States, the District of Columbia, and outlying areas. 
 
-(b) If the Contractor is required to deliver under this contract one or more American flags (Product or Service Code 8345), such flag(s), including the materials and components thereof, shall be manufactured in the United States, consistent with the requirements at 10 U.S.C. 4862 (commonly known as the “Berry Amendment”).
+(b) If the Contractor is required to deliver under this contract one or more American flags (Product or Service Code 8345), such flag(s), including the materials and components thereof, shall be manufactured in the United States, consistent with the requirements at 10 U.S.C. 4862 (commonly known as the “Berry Amendment”). 
 
 (c) This clause does not apply to the acquisition of any end items or components related to flying or displaying the flag (*e.g.,* flagpoles and accessories).
 

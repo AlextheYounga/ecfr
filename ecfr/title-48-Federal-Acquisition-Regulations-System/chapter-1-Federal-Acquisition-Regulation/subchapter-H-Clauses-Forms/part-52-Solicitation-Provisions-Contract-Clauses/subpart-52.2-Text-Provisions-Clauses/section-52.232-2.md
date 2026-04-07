@@ -1,6 +1,6 @@
 ##### 52.232-2 Payments Under Fixed-Price Research and Development Contracts.
 
-As prescribed in 32.111(a)(2), insert the following clause, as appropriately modified with respect to payment due dates in accordance with agency regulations, in solicitations and contracts when a fixed-price research and development contract is contemplated:
+As prescribed in 32.111(a)(2), insert the following clause, as appropriately modified with respect to payment due dates in accordance with agency regulations, in solicitations and contracts when a fixed-price research and development contract is contemplated: 
 
 Payments Under Fixed-Price Research and Development Contracts (APR 1984)
 

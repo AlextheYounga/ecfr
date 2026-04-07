@@ -1,6 +1,6 @@
 ##### 52.222-25 Affirmative Action Compliance.
 
-As prescribed in 22.810(d), insert the following provision:
+As prescribed in 22.810(d), insert the following provision: 
 
 Affirmative Action Compliance (APR 1984)
 

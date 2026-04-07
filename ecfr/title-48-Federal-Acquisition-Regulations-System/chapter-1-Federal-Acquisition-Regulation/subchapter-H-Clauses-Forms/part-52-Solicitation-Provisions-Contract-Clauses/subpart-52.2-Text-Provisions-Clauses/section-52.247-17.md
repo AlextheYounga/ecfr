@@ -1,6 +1,6 @@
 ##### 52.247-17 Charges.
 
-As prescribed in 47.207-6(a)(2), insert the following clause in solicitations and contracts for transportation or for transportation-related services:
+As prescribed in 47.207-6(a)(2), insert the following clause in solicitations and contracts for transportation or for transportation-related services: 
 
 Charges (APR 1984)
 

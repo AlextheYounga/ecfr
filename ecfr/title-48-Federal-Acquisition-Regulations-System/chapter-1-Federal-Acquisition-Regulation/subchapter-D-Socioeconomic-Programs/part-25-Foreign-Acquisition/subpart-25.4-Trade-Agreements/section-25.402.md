@@ -1,10 +1,10 @@
 ##### 25.402 General.
 
-(a)(1) The Trade Agreements Act (19 U.S.C. 2501, *et seq.*) provides the authority for the President to waive the Buy American statute and other discriminatory provisions for eligible products from countries that have signed an international trade agreement with the United States, or that meet certain other criteria, such as being a least developed country. The President has delegated this waiver authority to the U.S. Trade Representative. In acquisitions covered by the WTO GPA, Free Trade Agreements, or the Israeli Trade Act, the U.S. Trade Representativehas waived the Buy American statute and other discriminatory provisions for eligible products. Offers of eligible products receive equal consideration with domestic offers.
+(a)(1) The Trade Agreements Act (19 U.S.C. 2501, *et seq.*) provides the authority for the President to waive the Buy American statute and other discriminatory provisions for eligible products from countries that have signed an international trade agreement with the United States, or that meet certain other criteria, such as being a least developed country. The President has delegated this waiver authority to the U.S. Trade Representative. In acquisitions covered by the WTO GPA, Free Trade Agreements, or the Israeli Trade Act, the U.S. Trade Representativehas waived the Buy American statute and other discriminatory provisions for eligible products. Offers of eligible products receive equal consideration with domestic offers. 
 
-(2) The contracting officer shall determine the origin of services by the country in which the firm providing the services is established. See Subpart 25.5 for evaluation procedures for supply contracts covered by trade agreements.
+(2) The contracting officer shall determine the origin of services by the country in which the firm providing the services is established. See Subpart 25.5 for evaluation procedures for supply contracts covered by trade agreements. 
 
-(b) The value of the acquisition is a determining factor in the applicability of trade agreements. Most of these dollar thresholds are subject to revision by the U.S. Trade Representative approximately every 2 years. The various thresholds are summarized as follows:
+(b) The value of the acquisition is a determining factor in the applicability of trade agreements. Most of these dollar thresholds are subject to revision by the U.S. Trade Representative approximately every 2 years. The various thresholds are summarized as follows: 
 
 Table 1 to Paragraph (b)
 | Trade agreement                                                                            | Supply   contract   (equal to or   exceeding) | Service   contract   (equal to or   exceeding) | Construction   contract   (equal to or   exceeding) |

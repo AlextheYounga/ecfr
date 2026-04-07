@@ -1,19 +1,19 @@
 ##### 215.404-75 Fee requirements for FFRDCs.
 
-For nonprofit organizations that are FFRDCs, the contracting officer—
+For nonprofit organizations that are FFRDCs, the contracting officer— 
 
-(a) Should consider whether any fee is appropriate. Considerations shall include the FFRDC's—
+(a) Should consider whether any fee is appropriate. Considerations shall include the FFRDC's— 
 
-(1) Proportion of retained earnings (as established under generally accepted accounting methods) that relates to DoD contracted effort;
+(1) Proportion of retained earnings (as established under generally accepted accounting methods) that relates to DoD contracted effort; 
 
-(2) Facilities capital acquisition plans;
+(2) Facilities capital acquisition plans; 
 
-(3) Working capital funding as assessed on operating cycle cash needs; and
+(3) Working capital funding as assessed on operating cycle cash needs; and 
 
-(4) Provision for funding unreimbursed costs deemed ordinary and necessary to the FFRDC.
+(4) Provision for funding unreimbursed costs deemed ordinary and necessary to the FFRDC. 
 
-(b) Shall, when a fee is considered appropriate, establish the fee objective in accordance with FFRDC fee policies in the DoD Instruction 5000.77, DoD Federally Funded Research and Development Center Program.
+(b) Shall, when a fee is considered appropriate, establish the fee objective in accordance with FFRDC fee policies in the DoD Instruction 5000.77, DoD Federally Funded Research and Development Center Program. 
 
-(c) Shall not use the weighted guidelines method or an alternate structured approach.
+(c) Shall not use the weighted guidelines method or an alternate structured approach. 
 
 \[63 FR 63800, Nov. 17, 1998, as amended at 88 FR 80466, Nov. 17, 2023\]

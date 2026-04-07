@@ -1,6 +1,6 @@
 ##### 225.7102-1 Policy.
 
-When acquiring the following forging items, whether as end items or components, acquire items that are of domestic manufacture to the maximum extent practicable:
+When acquiring the following forging items, whether as end items or components, acquire items that are of domestic manufacture to the maximum extent practicable: 
 
 | Items                        | Categories                                 |
 | ---------------------------- | ------------------------------------------ |

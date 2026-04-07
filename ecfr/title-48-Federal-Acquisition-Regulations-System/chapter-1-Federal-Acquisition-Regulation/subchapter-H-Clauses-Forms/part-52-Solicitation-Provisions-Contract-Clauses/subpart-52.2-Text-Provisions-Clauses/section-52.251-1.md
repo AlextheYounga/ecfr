@@ -1,6 +1,6 @@
 ##### 52.251-1 Government Supply Sources.
 
-As prescribed in 51.107, insert the following clause:
+As prescribed in 51.107, insert the following clause: 
 
 Government Supply Sources (APR 2012)
 
