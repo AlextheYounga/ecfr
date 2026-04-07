@@ -40,7 +40,7 @@
 
 (ii) A request for an alternative compliance schedule under paragraph (a)(9)(i) of this section shall be acted upon within 30 days from the time such a request is received, or it shall be deemed approved.
 
-(iii) The Commission hereby delegates to the Director of the Division of Swap Dealer and Intermediary Oversight or such other employee or employees as the Director may designate from time to time, the authority to exercise the discretion. Notwithstanding such delegation, in any case in which a Commission employee delegated authority under this paragraph believes it appropriate, he or she may submit to the Commission for its consideration the question of whether an alternative compliance schedule should be established. The delegation of authority in this paragraph shall not prohibit the Commission, at its election, from exercising the authority set forth in paragraph (a)(9)(i) of this section.
+(iii) The Commission hereby delegates to the Director of the Market Participants Division or such other employee or employees as the Director may designate, the authority to exercise the discretion. Notwithstanding such delegation, in any case in which a Commission employee delegated authority under this paragraph believes it appropriate, he or she may submit to the Commission for its consideration the question of whether an alternative compliance schedule should be established. The delegation of authority in this paragraph shall not prohibit the Commission, at its election, from exercising the authority set forth in paragraph (a)(9)(i) of this section.
 
 (iv) Relief granted under paragraph (a)(9)(i) of this section shall not cause an affected entity to be out of compliance or deemed in violation of any recordkeeping requirements.
 
