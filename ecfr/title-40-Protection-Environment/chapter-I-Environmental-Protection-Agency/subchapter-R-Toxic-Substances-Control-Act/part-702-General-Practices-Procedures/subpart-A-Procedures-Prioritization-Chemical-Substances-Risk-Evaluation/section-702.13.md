@@ -1,0 +1,3 @@
+##### § 702.13 Revision of designation.
+
+EPA may revise a final designation of a chemical substance from Low-Priority to High-Priority Substance at any time based on reasonably available information. To revise such a designation, EPA will re-initiate the prioritization process on that chemical substance in accordance with § 702.7, re-screen the chemical substance and propose a priority designation pursuant to § 702.9, and finalize the priority designation pursuant to § 702.11.

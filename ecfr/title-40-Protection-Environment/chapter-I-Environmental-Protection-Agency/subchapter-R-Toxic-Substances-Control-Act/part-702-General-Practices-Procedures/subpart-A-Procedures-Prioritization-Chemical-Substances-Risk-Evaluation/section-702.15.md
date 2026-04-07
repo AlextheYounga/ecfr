@@ -1,0 +1,3 @@
+##### § 702.15 Effect of designation as a low-priority substance.
+
+Designation of a chemical substance as a Low-Priority Substance under § 702.11 means that a risk evaluation of the chemical substance is not warranted at the time, but does not preclude EPA from later revising the designation pursuant to § 702.13, if warranted. Designation as a Low-Priority Substance is not a finding that the chemical substance does not present an unreasonable risk, but rather that it does not meet the High-Priority Substance definition.
