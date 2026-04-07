@@ -6,7 +6,7 @@ The State plan shall provide as follows:
 
 (1) *For IV-D cases and IV-D purposes by the IV-D agency.* The State PLS shall access the Federal PLS and all relevant sources of information and records available in the State, and in other States as appropriate, for locating custodial parents, noncustodial parents, and children for IV-D purposes.
 
-(2) *For authorized non-IV-D individuals and purposes* - (i) The State PLS shall access and release information authorized to be disclosed under section 453(a)(2) and 453(j)(3) of the Act from the Federal PLS and, in accordance with State law, information from relevant in-State sources of information and records, as appropriate, for locating custodial parents, noncustodial parents, non-parent relatives, and children upon request of authorized individuals specified in paragraph (c) of this section, for authorized purposes specified in paragraph (d) of this section.
+(2) *For authorized non-IV-D individuals and purposes.* (i) The State PLS shall access and release information authorized to be disclosed under section 453(a)(2) and 453(j)(3) of the Act from the Federal PLS and, in accordance with State law, information from relevant in-State sources of information and records, as appropriate, for locating custodial parents, noncustodial parents, non-parent relatives, and children upon request of authorized individuals specified in paragraph (c) of this section, for authorized purposes specified in paragraph (d) of this section.
 
 (ii) The State PLS shall not release information from the computerized support enforcement system required under part 307 of this chapter, IRS information, or financial institution data match information, nor shall the State PLS forward a non-IV-D request to another State IV-D agency.
 
