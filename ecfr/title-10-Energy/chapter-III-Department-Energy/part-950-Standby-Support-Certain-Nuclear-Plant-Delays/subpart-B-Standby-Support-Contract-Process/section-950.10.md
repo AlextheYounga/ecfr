@@ -16,4 +16,4 @@
 
 (c) The Program Administrator shall enter into a Conditional Agreement with a sponsor upon a determination by the Department that the sponsor is eligible for a Conditional Agreement, the information provided by the sponsor under paragraph (b) of this section is accurate and complete, and the Conditional Agreement is consistent with applicable laws and regulations.
 
-Effective Date Note:At 71 FR 46325, Aug. 11, 2006, § 950.10 was revised, effective Sept. 11, 2006. Paragraph (b) of this section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+Effective Date Note:At 71 FR 46325, Aug. 11, 2006, § 950.10 was revised. Paragraph (b) of this section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

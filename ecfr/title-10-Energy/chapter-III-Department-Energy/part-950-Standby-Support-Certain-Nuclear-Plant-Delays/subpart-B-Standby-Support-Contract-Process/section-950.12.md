@@ -32,4 +32,4 @@
 
 (2) Not more than two Standby Support Contracts may be re-executed in situations involving abandonment and cancellation by the Program Administrator.
 
-Effective Date Note:At 71 FR 46325, Aug. 11, 2006, § 950.12 was revised, effective Sept. 11, 2006. Paragraph (a) of this section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+Effective Date Note:At 71 FR 46325, Aug. 11, 2006, § 950.12 was revised. Paragraph (a) of this section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
