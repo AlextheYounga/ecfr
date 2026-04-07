@@ -2,7 +2,7 @@
 
 Unless an exception at 225.7002-2 applies -
 
-(a) Use the clause at 252.225-7012, Preference for Certain Domestic Commodities, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items .
+(a) Use the clause at 252.225-7012, Preference for Certain Domestic Commodities, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items.
 
 (b) Use the clause at 252.225-7015, Restriction on Acquisition of Hand or Measuring Tools, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, that exceed the threshold at 225.7002-2(a) that require delivery of hand or measuring tools.
 
