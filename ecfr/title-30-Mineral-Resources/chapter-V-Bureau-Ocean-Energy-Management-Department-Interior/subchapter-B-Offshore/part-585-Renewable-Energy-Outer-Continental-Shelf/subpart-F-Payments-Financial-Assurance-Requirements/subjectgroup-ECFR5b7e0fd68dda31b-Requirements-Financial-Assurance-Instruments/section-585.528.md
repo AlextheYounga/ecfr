@@ -26,6 +26,6 @@
 
 (5) If your guarantor wants to terminate the period of liability, your guarantor must notify you and BOEM at least 90 days before the proposed termination date, obtain BOEM's approval for termination of all or a specified portion of the guarantee for liabilities arising after that date, and remain liable for all your work performed during the period the agreement is in effect.
 
-(6) Each guaranty submitted pursuant to this section is deemed to contain all the terms described in in paragraphs (d)(1) through (5) of this section, even if they are not actually in the agreement.
+(6) Each guaranty submitted pursuant to this section is deemed to contain all the terms described in paragraphs (d)(1) through (5) of this section, even if they are not actually in the agreement.
 
 (e) Before the termination of your guaranty, you must provide an acceptable replacement in the form of a bond or other security.

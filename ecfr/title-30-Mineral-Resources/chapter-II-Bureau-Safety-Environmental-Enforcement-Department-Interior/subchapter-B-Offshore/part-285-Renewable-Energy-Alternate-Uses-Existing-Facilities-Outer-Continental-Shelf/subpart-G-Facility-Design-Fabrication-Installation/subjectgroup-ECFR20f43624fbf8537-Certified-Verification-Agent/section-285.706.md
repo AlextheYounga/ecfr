@@ -2,8 +2,6 @@
 
 (a) A CVA must be nominated by the lessee and approved by BSEE before conducting any verification or certification activities for which they have been nominated. If you intend to use multiple CVAs, you must nominate a general project CVA who will manage the overall project verification and certification approach and who will ensure consistency and oversight among the CVAs, especially in transition areas between different CVAs. The general project CVA must be nominated no later than COP submission.
 
-(a) A CVA must be nominated by the lessee and approved by BSEE before conducting any verification or certification activities for which they have been nominated. If you intend to use multiple CVAs, you must nominate a general project CVA who will manage the overall project verification and certification approach and who will ensure consistency and oversight among the CVAs, especially in transition areas between different CVAs. The general project CVA must be nominated no later than COP submission.
-
 (b) For each CVA that you nominate, you must submit to BSEE a list of documents used in your design that you will forward to the CVA and a qualification statement that includes the following:
 
 (1) Previous experience in third-party verification or experience in the design, fabrication, installation, or major modification of offshore energy facilities;
