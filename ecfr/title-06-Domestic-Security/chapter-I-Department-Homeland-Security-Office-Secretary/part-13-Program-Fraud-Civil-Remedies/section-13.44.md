@@ -1,0 +1,3 @@
+##### § 13.44 Right to administrative offset.
+
+The amount of any penalty or assessment that has become final, or for which a judgment has been entered under § 13.42 or § 13.43, or any amount agreed upon in a compromise or settlement under § 13.46, may be collected by administrative offset under 31 U.S.C. 3716, except that an administrative offset may not be Made under that subsection against a refund of an overpayment of Federal taxes, then or later owing by the United States to the Defendant.
