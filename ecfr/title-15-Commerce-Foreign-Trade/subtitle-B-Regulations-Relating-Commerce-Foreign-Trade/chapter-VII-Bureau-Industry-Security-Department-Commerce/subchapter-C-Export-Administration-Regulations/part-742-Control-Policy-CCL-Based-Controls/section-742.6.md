@@ -50,6 +50,8 @@
 
 (6) *Remote sensing spacecraft.* Applications to export or reexport a “spacecraft” described in ECCN 9A515.a.1,.a.2, a.3, or .a.4, sensitive remote sensing components described in 9A515.g, or “technology” described in ECCN 9E515.f may require a government-to-government agreement at the discretion of the U.S. Government.
 
+(7) For India, there is a general policy of approval for license applications to export, reexport, or transfer items, including “600 series” items, for civil or military end uses in India, for ultimate end use by the Government of India, for reexport to countries in Country Group A:5, or for return to the United States, so long as such items are not for use in nuclear, “missile,” or chemical or biological weapons activities.
+
 (c)(1)*Contract sanctity date:* March 21, 2003. This contract sanctity date applies only to items controlled under ECCNs 2A983, 2D983 and 2E983 destined for countries not listed in Country Group E (supplement 1 to part 740). See parts 742 and 746 for the contract sanctity requirements applicable to exports and reexports to countries listed in Country Group E.
 
 (2) *Contract sanctity date:* March 19, 2010. This contract sanctity date applies only to items controlled under ECCNs 2A984, 2D984 and 2E984 destined for countries not listed in Country Group E (supplement 1 to part 740). See parts 742 and 746 for the contract sanctity requirements applicable to exports and reexports to countries listed in Country Group E.

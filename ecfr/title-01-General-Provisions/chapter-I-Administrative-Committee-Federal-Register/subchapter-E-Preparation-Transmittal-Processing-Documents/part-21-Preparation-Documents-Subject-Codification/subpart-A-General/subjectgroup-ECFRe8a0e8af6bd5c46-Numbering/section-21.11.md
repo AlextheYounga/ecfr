@@ -18,4 +18,4 @@ The standard organization consists of the following structural units:
 
 (h) Paragraphs, which are designated as follows:
 
-level 1 (a), (b), (c), etc.level 2 (1), (2), (3), etc.level 3 (i), (ii), (iii), etc.level 4 (A), (B), (C), etc.level 5 (*1*), (*2*), (*3*), etc.level 6 (*i*), (*ii*), (*iii*), etc.\[54 FR 9682, Mar. 7, 1989; 54 FR 23343, May 31, 1989\]
+level 1 (a), (b), (c), etc. level 2 (1), (2), (3), etc. level 3 (i), (ii), (iii), etc. level 4 (A), (B), (C), etc. level 5 (*1*), (*2*), (*3*), etc. level 6 (*i*), (*ii*), (*iii*), etc.\[54 FR 9682, Mar. 7, 1989; 54 FR 23343, May 31, 1989\]
