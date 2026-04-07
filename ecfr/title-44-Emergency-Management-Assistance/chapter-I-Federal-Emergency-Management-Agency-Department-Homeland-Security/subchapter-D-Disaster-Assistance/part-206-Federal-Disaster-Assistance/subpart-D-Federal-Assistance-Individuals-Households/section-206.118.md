@@ -1,5 +1,7 @@
 ##### § 206.118 Disposal of housing units.
 
+Link to an amendment published at 89 FR 4123, Jan. 22, 2024.
+
 (a) FEMA may sell housing units purchased under § 206.117(b)(1)(ii), Temporary housing, direct assistance, as follows:
 
 (1) Sale to an applicant.

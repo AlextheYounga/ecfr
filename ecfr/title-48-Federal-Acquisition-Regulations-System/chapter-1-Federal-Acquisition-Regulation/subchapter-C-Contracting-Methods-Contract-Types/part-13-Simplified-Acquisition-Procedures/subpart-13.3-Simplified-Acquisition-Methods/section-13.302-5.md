@@ -14,7 +14,7 @@
 
 (ii) May be modified to fit the individual acquisition to add other needed clauses, or those clauses may be added separately. Modifications (*i.e.,* additions, deletions, or substitutions) must not create a void or internal contradiction in the clause. For example, do not add an inspection and acceptance or termination for convenience requirement unless the existing requirement is deleted. Also, do not delete a paragraph without providing for an appropriate substitute.
 
-((3)(i) When an acquisition for supplies for use within the United States cannot be set aside for small business concerns and trade agreements apply (see subpart 25.4), substitute the clause at 52.225-3, Buy American-Free Trade Agreements-Israeli Trade Act, used with the appropriate Alternate (see 25.1101(b)(1)), instead of the clause at 52.225-1, Buy American-Supplies.
+(3)(i) When an acquisition for supplies for use within the United States cannot be set aside for small business concerns and trade agreements apply (see subpart 25.4), substitute the clause at 52.225-3, Buy American-Free Trade Agreements-Israeli Trade Act, used with the appropriate Alternate (see 25.1101(b)(1)), instead of the clause at 52.225-1, Buy American-Supplies.
 
 (ii) When acquiring supplies for use outside the United States, delete clause 52.225-1 from the clause list at 52.213-4(b).
 
