@@ -4,7 +4,7 @@
 
 (b) When MSHA determines that a special assessment is appropriate, the proposed penalty will be based on the six criteria set forth in § 100.3(a). All findings shall be in narrative form.
 
-(c) Any operator who fails to correct a violation for which a citation has been issued under Section 104(a) of the Mine Act within the period permitted for its correction may be assessed a civil penalty of not more than $9,271 for each day during which such failure or violation continues.
+(c) Any operator who fails to correct a violation for which a citation has been issued under Section 104(a) of the Mine Act within the period permitted for its correction may be assessed a civil penalty of not more than $9,571 for each day during which such failure or violation continues.
 
 (d) Any miner who willfully violates the mandatory safety standards relating to smoking or the carrying of smoking materials, matches, or lighters shall be subject to a civil penalty of not more than $404 for each occurrence of such violation.
 

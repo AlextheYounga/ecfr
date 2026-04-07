@@ -5,9 +5,9 @@
 |                                          | Inches |
 | ---------------------------------------- | ------ |
 | Engine truck wheels (with swing centers) | 1      |
-| Engine truck wheels (with rigid centers) | 11/2   |
+| Engine truck wheels (with rigid centers) | 11⁄2   |
 | Trailing truck wheels                    | 1      |
-| Driving wheels                           | 3/4    |
+| Driving wheels                           | 3⁄4    |
 
 (b) *Limits increased.* These limits may be increased on steam locomotives operating on track where the curvature exceeds 20 degrees when it can be shown that conditions require additional lateral motion.
 
