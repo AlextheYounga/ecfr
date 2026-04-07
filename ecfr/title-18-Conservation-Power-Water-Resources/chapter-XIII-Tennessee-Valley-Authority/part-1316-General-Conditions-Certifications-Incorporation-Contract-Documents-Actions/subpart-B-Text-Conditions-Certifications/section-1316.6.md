@@ -1,6 +1,6 @@
 ##### § 1316.6 Discrimination on the basis of age.
 
-When so indicated in TVA contract documents or actions, the following clause is included by reference in such documents or actions:
+When so indicated in TVA contract documents or actions, the following clause is included by reference in such documents or actions: 
 
 Discrimination On The Basis Of Age
 

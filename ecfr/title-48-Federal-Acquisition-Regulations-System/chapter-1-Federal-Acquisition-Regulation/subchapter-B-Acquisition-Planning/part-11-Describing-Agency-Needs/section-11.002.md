@@ -32,18 +32,6 @@
 
 (d)(1) Agencies shall procure sustainable products and services (as defined in 2.101) in accordance with subpart 23.1.
 
-(i) Energy-efficient and water-efficient services and products (including products containing energy-efficient standby power devices) (subpart 23.2);
-
-(ii) Products and services that utilize renewable energy technologies (subpart 23.2);
-
-(iii) Products containing recovered materials (subpart 23.4);
-
-(iv) Biobased products (subpart 23.4);
-
-(v) Environmentally preferable products and services, including EPEAT®-registered electronic products and non-toxic or low-toxic alternatives (subpart 23.7); and
-
-(vi) Non-ozone-depleting substances, and products and services that minimize or eliminate, when feasible, the use, release, or emission of high global warming potential hydrofluorocarbons, such as by using reclaimed instead of virgin hydrofluorocarbons (subpart 23.8).
-
 (2) Unless it is not practicable (see 23.104(a)) or an exception or exemption applies (see 23.105 and 23.106, respectively), agencies shall incorporate the use of sustainable products and services when—
 
 (i) Developing, reviewing, or revising Federal and military specifications, product descriptions (including commercial item descriptions) and standards;

@@ -1,6 +1,6 @@
 ##### § 1316.10 Officials not to benefit.
 
-When so indicated in TVA contract documents or actions, the following clause is included by reference in such documents or actions:
+When so indicated in TVA contract documents or actions, the following clause is included by reference in such documents or actions: 
 
 Officials Not To Benefit
 

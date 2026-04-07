@@ -1,16 +1,16 @@
 ##### § 157.215 Underground storage testing and development.
 
-(a) *Automatic authorization.* The certificate holder is authorized to acquire, construct and operate natural gas pipeline and compression facilities, including injection, withdrawal, and observation wells for the testing or development of underground reservoirs for the possible storage of gas, if:
+(a) *Automatic authorization.* The certificate holder is authorized to acquire, construct and operate natural gas pipeline and compression facilities, including injection, withdrawal, and observation wells for the testing or development of underground reservoirs for the possible storage of gas, if: 
 
-(1) The testing and development of a particular storage project will be completed within a three-year-period;
+(1) The testing and development of a particular storage project will be completed within a three-year-period; 
 
-(2) The quantity of natural gas injected into the prospective storage fields pursuant to the blanket certificate does not exceed a total of 10,000,000 Mcf at any time in all fields with no more than 2,000,000 Mcf injected into any single field;
+(2) The quantity of natural gas injected into the prospective storage fields pursuant to the blanket certificate does not exceed a total of 10,000,000 Mcf at any time in all fields with no more than 2,000,000 Mcf injected into any single field; 
 
-(3) Gas will be injected for testing purposes only during off-peak periods;
+(3) Gas will be injected for testing purposes only during off-peak periods; 
 
-(4) The storage field developed pursuant to this section will not be utilized to render service without further authorization from the Commission, except that gas may be withdrawn on occasion for testing purposes; and
+(4) The storage field developed pursuant to this section will not be utilized to render service without further authorization from the Commission, except that gas may be withdrawn on occasion for testing purposes; and 
 
-(5) The total expenditures per calendar year pursuant to this section do not exceed the amount specified in table 1 to this paragraph (a)(5) as adjusted pursuant to § 157.208(d). These costs shall include expenditures for leases, wells, pipeline, compressors, and related facilities, but shall exclude the cost of the natural gas to be used for testing purposes.
+(5) The total expenditures per calendar year pursuant to this section do not exceed the amount specified in table 1 to this paragraph (a)(5) as adjusted pursuant to § 157.208(d). These costs shall include expenditures for leases, wells, pipeline, compressors, and related facilities, but shall exclude the cost of the natural gas to be used for testing purposes. 
 
 Table 1 to Paragraph (a)(5)
 | Year | Limit      |
@@ -59,34 +59,34 @@ Table 1 to Paragraph (a)(5)
 | 2023 | 7,600,000  |
 | 2024 | 7,900,000  |
 
-(b) *Reporting requirements*—(1) *Annual reports.* For any storage project tested or developed pursuant to this section, the certificate holder shall file, in the manner prescribed in §§ 157.6(a) and 385.2011 of this chapter as part of the annual report required under § 157.207(a), the following information:
+(b) *Reporting requirements*—(1) *Annual reports.* For any storage project tested or developed pursuant to this section, the certificate holder shall file, in the manner prescribed in §§ 157.6(a) and 385.2011 of this chapter as part of the annual report required under § 157.207(a), the following information: 
 
-(i) A description of the facilities constructed and the type of storage reservoir, i.e., gas expansion or dry gas, water-drive or aquifer;
+(i) A description of the facilities constructed and the type of storage reservoir, i.e., gas expansion or dry gas, water-drive or aquifer; 
 
-(ii) The location of the facilities;
+(ii) The location of the facilities; 
 
-(iii) The cost of such facilities, the date construction began, and the date they were placed in service;
+(iii) The cost of such facilities, the date construction began, and the date they were placed in service; 
 
-(iv) The monthly volumes of gas injected into and withdrawn from each reservoir;
+(iv) The monthly volumes of gas injected into and withdrawn from each reservoir; 
 
-(v) An estimate of the storage capacity and daily deliverability of each project; and
+(v) An estimate of the storage capacity and daily deliverability of each project; and 
 
-(vi) A description of the contacts made, reports produced, and results of consultations which took place to ensure compliance with the Endangered Species Act, the National Historic Preservation Act and the Coastal Zone Management Act.
+(vi) A description of the contacts made, reports produced, and results of consultations which took place to ensure compliance with the Endangered Species Act, the National Historic Preservation Act and the Coastal Zone Management Act. 
 
-(2) *Quarterly reports.* If the reservoir to be tested and developed is an aquifer-type reservoir, the certificate holder shall file, in the manner prescribed in §§ 157.6(a) and 385.2011 of this chapter unless otherwise ordered by the commission, for each such project quarterly reports, under oath, until the project is either certificated for regular service or abandoned. The quarterly report shall contain the following information in addition to the data required by paragraph (b)(1) of this section:
+(2) *Quarterly reports.* If the reservoir to be tested and developed is an aquifer-type reservoir, the certificate holder shall file, in the manner prescribed in §§ 157.6(a) and 385.2011 of this chapter unless otherwise ordered by the commission, for each such project quarterly reports, under oath, until the project is either certificated for regular service or abandoned. The quarterly report shall contain the following information in addition to the data required by paragraph (b)(1) of this section: 
 
-(i) The daily volumes of natural gas injected into and withdrawn from the aquifer during the quarter and the volume of gas in the aquifer at the end of each month;
+(i) The daily volumes of natural gas injected into and withdrawn from the aquifer during the quarter and the volume of gas in the aquifer at the end of each month; 
 
-(ii) The maximum daily injection or withdrawal rate experienced during the quarter and the average working pressure on such maximum days taken at a central measuring point where the total volume injected or withdrawn is measured;
+(ii) The maximum daily injection or withdrawal rate experienced during the quarter and the average working pressure on such maximum days taken at a central measuring point where the total volume injected or withdrawn is measured; 
 
-(iii) Results of any tracer program by which leakage of gas may be determined;
+(iii) Results of any tracer program by which leakage of gas may be determined; 
 
-(iv) Any pressure surveys of gas wells and water levels in observation wells conducted during the quarter by individual well, and copies of any core analyses, gamma ray, neutron or other electric log surveys and back-pressure tests taken during the quarter;
+(iv) Any pressure surveys of gas wells and water levels in observation wells conducted during the quarter by individual well, and copies of any core analyses, gamma ray, neutron or other electric log surveys and back-pressure tests taken during the quarter; 
 
-(v) A map of the storage project showing the location of the wells, the latest revised structure contours, and the location and extent of the gas bubble. This map need not be filed if there is no material change from the map previously filed; and
+(v) A map of the storage project showing the location of the wells, the latest revised structure contours, and the location and extent of the gas bubble. This map need not be filed if there is no material change from the map previously filed; and 
 
-(vi) Such other data or reports which may aid the Commission in the evaluation of the project.
+(vi) Such other data or reports which may aid the Commission in the evaluation of the project. 
 
-(c) *Accounting.* The cost of any project ultimately determined to be infeasible for storage shall be charged to Account No. 822 of part 201, Underground Storage Exploration and Development Expenses.
+(c) *Accounting.* The cost of any project ultimately determined to be infeasible for storage shall be charged to Account No. 822 of part 201, Underground Storage Exploration and Development Expenses. 
 
 \[Order 234, 47 FR 24266, June 4, 1982\] Editorial Note:For Federal Register citations affecting § 157.215, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
