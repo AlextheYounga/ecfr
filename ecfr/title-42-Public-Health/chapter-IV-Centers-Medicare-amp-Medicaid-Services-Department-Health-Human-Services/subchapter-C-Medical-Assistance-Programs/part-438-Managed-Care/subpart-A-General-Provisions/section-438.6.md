@@ -96,30 +96,6 @@ Link to an amendment published at 85 FR 72839, Nov. 13, 2020.
 
 (ii) Approval of a payment arrangement under paragraph (c)(1)(iii) of this section is for one rating period.
 
-(2) *Process for approval.* (i) All contract arrangements that direct the MCO's, PIHP's or PAHP's expenditures under paragraphs (c)(1)(i) through (iii) of this section must be developed in accordance with § 438.4, the standards specified in § 438.5, generally accepted actuarial principles and practices, and have written approval prior to implementation. To obtain written approval, a state must demonstrate, in writing, that the arrangement -
-
-(A) Is based on the utilization and delivery of services;
-
-(B) Directs expenditures equally, and using the same terms of performance, for a class of providers providing the service under the contract;
-
-(C) Expects to advance at least one of the goals and objectives in the quality strategy in § 438.340;
-
-(D) Has an evaluation plan that measures the degree to which the arrangement advances at least one of the goals and objectives in the quality strategy in § 438.340;
-
-(E) Does not condition network provider participation in contract arrangements under paragraphs (c)(1)(i) through (iii) of this section on the network provider entering into or adhering to intergovernmental transfer agreements; and
-
-(F) May not be renewed automatically.
-
-(ii) Any contract arrangements that direct the MCO's, PIHP's or PAHP's expenditures under paragraphs (c)(1)(i) or (c)(1)(ii) of this section must also demonstrate, in writing, that the arrangement -
-
-(A) Must make participation in the value-based purchasing initiative, delivery system reform or performance improvement initiative available, using the same terms of performance, to a class of providers providing services under the contract related to the reform or improvement initiative;
-
-(B) Must use a common set of performance measures across all of the payers and providers;
-
-(C) May not set the amount or frequency of the expenditures; and
-
-(D) Does not allow the State to recoup any unspent funds allocated for these arrangements from the MCO, PIHP, or PAHP.
-
 (d) *Pass-through payments under MCO, PIHP, and PAHP contracts* - (1) *General rule.* States may continue to require MCOs, PIHPs, and PAHPs to make pass-through payments (as defined in paragraph (a) of this section) to network providers that are hospitals, physicians, or nursing facilities under the contract, provided the requirements of this paragraph (d) are met. States may not require MCOs, PIHPs, and PAHPs to make pass-through payments other than those permitted under this paragraph (d).
 
 (i) In order to use a transition period described in this paragraph (d), a State must demonstrate that it had pass-through payments for hospitals, physicians, or nursing facilities in:
