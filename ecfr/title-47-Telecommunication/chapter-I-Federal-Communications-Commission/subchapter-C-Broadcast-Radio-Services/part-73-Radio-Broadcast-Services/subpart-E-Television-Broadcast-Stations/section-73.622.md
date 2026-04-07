@@ -607,7 +607,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | St. Louis            | 14, \*23, 24, 26, 31, 33, 35                        |
 | Montana              |                                                     |
 | Billings             | 11, \*16, 18, 20                                    |
-| Bozeman              | \*8, 13                                             |
+| Bozeman              | \* 8, 27                                            |
 | Butte                | 5, 19, 20, 24                                       |
 | Glendive             | 5                                                   |
 | Great Falls          | 7, 8, 17, \*21, 26                                  |

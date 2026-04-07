@@ -76,7 +76,7 @@
 
 (e) *Possession and transportation of wildlife.* (1) Except as specified in paragraph (e)(2) or (f)(1) of this section, or as otherwise provided, you may not take a species of wildlife in any Unit, or portion of a Unit, if your total take of that species already obtained anywhere in the State under Federal and State regulations equals or exceeds the harvest limit in that Unit.
 
-(2) An animal taken under Federal or State regulations by any member of a community with an established community harvest limit for that species counts toward the community harvest limit for that species. Except for wildlife taken pursuant to § \_\_.10(d)(5)(iii) or as otherwise provided for by this part, an animal taken as part of a community harvest limit counts toward every community member's harvest limit for that species taken under Federal or State of Alaska regulations.
+(2) An animal taken under Federal or State regulations by any member of a community with an established community harvest limit for that species counts toward the community harvest limit for that species. Except for wildlife taken pursuant to § \_\_\_\_.10(d)(5)(iii) or as otherwise provided for by this part, an animal taken as part of a community harvest limit counts toward every community member's harvest limit for that species taken under Federal or State of Alaska regulations.
 
 (f) *Harvest limits.* (1) The harvest limit specified for a trapping season for a species and the harvest limit set for a hunting season for the same species are separate and distinct. This means that if you have taken a harvest limit for a particular species under a trapping season, you may take additional animals under the harvest limit specified for a hunting season or vice versa.
 
