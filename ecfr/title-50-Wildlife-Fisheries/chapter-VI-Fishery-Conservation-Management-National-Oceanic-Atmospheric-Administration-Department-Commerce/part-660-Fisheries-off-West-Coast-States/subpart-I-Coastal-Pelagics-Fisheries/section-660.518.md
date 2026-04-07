@@ -1,6 +1,6 @@
 ##### § 660.518 Pacific Coast Treaty Indian Rights.
 
-(a) Pacific Coast treaty Indian tribes have treaty rights to harvest CPS in their usual and accustomed fishing areas in the EEZ.
+(a) Pacific Coast treaty Indian tribes have treaty rights to harvest CPS in their usual and accustomed fishing areas in the EEZ.*Procedures.*
 
 (b) For the purposes of this section, Pacific Coast treaty Indian tribes means the Hoh, Makah, and Quileute Indian Tribes and the Quinault Indian Nation, and their “usual and accustomed fishing areas” are described at § 660.4, subpart A.
 

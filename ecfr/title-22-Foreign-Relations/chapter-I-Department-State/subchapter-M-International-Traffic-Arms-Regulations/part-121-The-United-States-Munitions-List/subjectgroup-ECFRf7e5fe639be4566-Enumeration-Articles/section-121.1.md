@@ -6,7 +6,7 @@ Link to an amendment published at 86 FR 48022, Aug. 27, 2021.Link to an amendmen
 
 Category I—Firearms and Related Articles
 
-\* (a) Firearms using caseless ammunition.
+\* (a) Firearms using caseless ammunition.62*i.e.,*1/4
 
 \* (b) Fully automatic firearms to .50 caliber (12.7 mm) inclusive.
 
@@ -14,7 +14,7 @@ Category I—Firearms and Related Articles
 
 Note 1 to paragraph (c):
 
-Integration does not include only attaching to the firearm or rail.
+Integration does not include only attaching to the firearm or rail.*i.e.,*1/22
 
 \* (d) Fully automatic shotguns regardless of gauge.
 
@@ -2374,7 +2374,7 @@ Thermal batteries are single use batteries that contain a solid non-conducting i
 
 (9) Em is the line-of-sight target mass effectiveness ratio and provides a measure of the tested armor's performance to that of rolled homogenous armor, where Em is defined as follows:
 
-![](/graphics/er02ja14.000.gif)Where: ρRHA = density of RHA, (7.85 g/cm 3) Po = Baseline Penetration of RHA, (mm) Pr = Residual Line of Sight Penetration, either positive or negative (mm RHA equivalent) ADTARGET = Line-of-Sight Areal Density of Target (kg/m 2) If witness plate is penetrated, Pr is the distance from the projectile to the front edge of the witness plate. If not penetrated, Pr is negative and is the distance from the back edge of the target to the projectile.
+![](/graphics/er02ja14.000.gif)Where: rρRHA = density of RHA, (7.85 g/cm 3) Po = Baseline Penetration of RHA, (mm) Pr = Residual Line of Sight Penetration, either positive or negative (mm RHA equivalent) ADTARGET = Line-of-Sight Areal Density of Target (kg/m 2) If witness plate is penetrated, Pr is the distance from the projectile to the front edge of the witness plate. If not penetrated, Pr is negative and is the distance from the back edge of the target to the projectile.
 
 (10) NIJ is the National Institute of Justice and Level III refers to the requirements specified in NIJ standard 0108.01 Ballistic Resistant Protective Materials.
 

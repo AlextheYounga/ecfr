@@ -1,6 +1,6 @@
 ##### § 29.2663 Thin Leaf (C Group).
 
-This group consists of leaves that are thin in body. 
+This group consists of leaves that are thin in body.
 
 | Grades | Grade names and specifications                                                                                                                                 |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

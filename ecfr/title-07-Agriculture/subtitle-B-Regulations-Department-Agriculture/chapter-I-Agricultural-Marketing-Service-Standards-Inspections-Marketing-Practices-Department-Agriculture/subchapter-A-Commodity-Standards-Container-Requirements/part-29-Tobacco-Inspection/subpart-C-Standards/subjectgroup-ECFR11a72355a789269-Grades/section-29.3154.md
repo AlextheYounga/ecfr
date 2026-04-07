@@ -1,6 +1,6 @@
 ##### § 29.3154 Tips (T Group).
 
-This group consists of leaves usually grown at the top of the stalk. These relatively narrow and sharp-pointed leaves have the general characteristics of B-Group tobacco. Tips have a slightly lower degree of maturity and leaf structure than other leaves on the stalk. (See Rule 12.) 
+This group consists of leaves usually grown at the top of the stalk. These relatively narrow and sharp-pointed leaves have the general characteristics of B-Group tobacco. Tips have a slightly lower degree of maturity and leaf structure than other leaves on the stalk. (See Rule 12.)
 
 | Grades | Grade names and specifications                                                                                                                                                                            |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

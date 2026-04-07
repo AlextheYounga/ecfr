@@ -1,6 +1,6 @@
 ##### § 72.10 Employee protection.
 
-(a) Discrimination by a Commission licensee, certificate holder, an applicant for a Commission license or a CoC, or a contractor or subcontractor of any of these, against an employee for engaging in certain protected activities, is prohibited. Discrimination includes discharge and other actions that relate to compensation, terms, conditions, or privileges of employment. The protected activities are established in section 211 of the Energy Reorganization Act of 1974, as amended, and in general are related to the administration or enforcement of a requirement imposed under the Atomic Energy Act or the Energy Reorganization Act.
+(a) Discrimination by a Commission licensee, certificate holder, an applicant for a Commission license or a CoC, or a contractor or subcontractor of any of these, against an employee for engaging in certain protected activities, is prohibited. Discrimination includes discharge and other actions that relate to compensation, terms, conditions, or privileges of employment. The protected activities are established in section 211 of the Energy Reorganization Act of 1974, as amended, and in general are related to the administration or enforcement of a requirement imposed under the Atomic Energy Act or the Energy Reorganization Act.*Forms.Resource@nrc.gov,*
 
 (1) The protected activities include but are not limited to:
 

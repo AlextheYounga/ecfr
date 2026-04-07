@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 5601, Jan. 17, 2025.
 
-(a) For a description of the U.S. Munitions List and its designations, including the use of asterisks and the parenthetical “(MT)”, see § 120.10 of this subchapter.
+(a) For a description of the U.S. Munitions List and its designations, including the use of asterisks and the parenthetical “(MT)”, see § 120.10 of this subchapter.*EAR*
 
 (b) As used in this part, *EAR* means Export Administration Regulations in 15 CFR parts 730 through 774.
 

@@ -1,6 +1,6 @@
 ##### § 29.2664 Lugs (X Group).
 
-This group consists of leaves that normally grow near the bottom of the stalk. Leaves of the X group usually have a high degree of maturity and show ground injury. 
+This group consists of leaves that normally grow near the bottom of the stalk. Leaves of the X group usually have a high degree of maturity and show ground injury.
 
 | Grades | Grade names and specifications                                                                                                                              |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |

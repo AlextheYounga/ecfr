@@ -1,6 +1,6 @@
 ##### § 660.507 Closed areas to reduction fishing.
 
-The following areas are closed to reduction fishing:
+The following areas are closed to reduction fishing:*Farallon Islands closure*
 
 (a) *Farallon Islands closure* (see Figure 1 to this subpart). The portion of Subarea A bounded by—
 

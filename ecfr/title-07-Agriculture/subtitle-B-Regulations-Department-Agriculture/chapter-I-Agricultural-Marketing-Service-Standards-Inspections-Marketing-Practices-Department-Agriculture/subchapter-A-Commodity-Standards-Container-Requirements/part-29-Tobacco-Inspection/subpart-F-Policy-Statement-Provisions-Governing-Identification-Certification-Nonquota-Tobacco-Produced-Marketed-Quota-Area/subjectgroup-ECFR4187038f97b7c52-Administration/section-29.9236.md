@@ -1,17 +1,19 @@
 ##### § 29.9236 Form of application.
 
-Application for inspection and certification of class or type of nonquota tobacco shall include the following information; 
+Link to an amendment published at 90 FR 22613, May 29, 2025.
 
-(a) The date of the application; 
+Application for inspection and certification of class or type of nonquota tobacco shall include the following information;
 
-(b) The producer's certification of the type of the tobacco, the crop year when produced, and where produced; 
+(a) The date of the application;
 
-(c) The name and post office address of the applicant; 
+(b) The producer's certification of the type of the tobacco, the crop year when produced, and where produced;
 
-(d) The financial interest of the applicant in the tobacco; 
+(c) The name and post office address of the applicant;
 
-(e) The exact nature of the service desired; 
+(d) The financial interest of the applicant in the tobacco;
 
-(f) A statement that the tobacco is (1) in commerce, as defined in the act, or (2) entering such commerce; and 
+(e) The exact nature of the service desired;
+
+(f) A statement that the tobacco is (1) in commerce, as defined in the act, or (2) entering such commerce; and
 
 (g) Such other necessary information as the Director may require.

@@ -125,7 +125,7 @@
 Table 1 to Paragraph (d)(1)(ii)(D)—Shorebased Trawl Allocations for 2025 and 2026
 | IFQ species                                                                                   | Area                  | 2025 Shorebased   trawl allocation   (mt) | 2026 Shorebased   trawl allocation   (mt) |
 | --------------------------------------------------------------------------------------------- | --------------------- | ----------------------------------------- | ----------------------------------------- |
-| YELLOWEYE ROCKFISH                                                                            | Coastwide             | 3.3                                       | 3.3                                       |
+| YELLOWEYE ROCKFISHaone**Bocaccio**                                                            | Coastwide             | 3.3                                       | 3.3                                       |
 | Arrowtooth flounder                                                                           | Coastwide             | 8,543                                     | 6,765                                     |
 | Bocaccio                                                                                      | South of 40°10′ N lat | 653                                       | 648                                       |
 | Canary rockfish                                                                               | Coastwide             | 348                                       | 348                                       |

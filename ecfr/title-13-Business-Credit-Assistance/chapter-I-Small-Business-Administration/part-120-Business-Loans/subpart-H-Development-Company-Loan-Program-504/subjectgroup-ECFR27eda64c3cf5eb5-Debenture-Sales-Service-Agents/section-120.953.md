@@ -1,25 +1,25 @@
 ##### § 120.953 Trustee.
 
-SBA must appoint a Trustee to: 
+SBA must appoint a Trustee to:
 
-(a) Issue Certificates; 
+(a) Issue Certificates;
 
-(b) Transfer the Certificates upon resale in the secondary market; 
+(b) Transfer the Certificates upon resale in the secondary market;
 
-(c) Hold in trust paper Debentures composing a Debenture Pool for the benefit of SBA and the Certificate holders; 
+(c) Hold in trust paper Debentures composing a Debenture Pool for the benefit of SBA and the Certificate holders;
 
-(d) Establish and maintain a central registry of: 
+(d) Establish and maintain a central registry of:
 
-(1) Debenture Pools, including the CDC obligors and the interest rate payable on the Debentures in each Pool; 
+(1) Debenture Pools, including the CDC obligors and the interest rate payable on the Debentures in each Pool;
 
-(2) Certificates issued or transferred, including the Debenture Pool backing the Certificate, name and address of the purchaser, price paid, the interest rate on the Certificate, and fees or charges assessed by the transferror; and 
+(2) Certificates issued or transferred, including the Debenture Pool backing the Certificate, name and address of the purchaser, price paid, the interest rate on the Certificate, and fees or charges assessed by the transferror; and
 
-(3) Brokers and dealers in Certificates, and the commissions, fees or discounts granted to the brokers and dealers; 
+(3) Brokers and dealers in Certificates, and the commissions, fees or discounts granted to the brokers and dealers;
 
-(e) Receive semi-annual Debenture payments and prepayments; 
+(e) Receive semi-annual Debenture payments and prepayments;
 
-(f) Make regularly scheduled and prepayment payments to Investors; and 
+(f) Make regularly scheduled and prepayment payments to Investors; and
 
-(g) Assure before any resale of a Debenture or Certificate is recorded in the registry that the seller has provided the purchaser a written disclosure statement approved by SBA. 
+(g) Assure before any resale of a Debenture or Certificate is recorded in the registry that the seller has provided the purchaser a written disclosure statement approved by SBA.
 
 \[61 FR 3235, Jan. 31, 1996, as amended at 89 FR 102701, Dec. 18, 2024\]

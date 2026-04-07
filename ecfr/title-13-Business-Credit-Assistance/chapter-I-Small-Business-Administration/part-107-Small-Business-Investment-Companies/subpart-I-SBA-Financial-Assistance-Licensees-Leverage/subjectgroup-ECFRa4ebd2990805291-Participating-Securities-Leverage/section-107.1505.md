@@ -1,16 +1,16 @@
 ##### § 107.1505 Liquidity requirements for Licensees issuing Participating Securities.
 
-If you have outstanding Participating Securities, you must maintain sufficient liquidity to avoid a condition of Liquidity Impairment. Such a condition will constitute noncompliance with the terms of your Leverage under § 107.1820(e). 
+If you have outstanding Participating Securities, you must maintain sufficient liquidity to avoid a condition of Liquidity Impairment. Such a condition will constitute noncompliance with the terms of your Leverage under § 107.1820(e).
 
-(a) *Definition of Liquidity Impairment.* A condition of Liquidity Impairment exists when your Liquidity Ratio, as determined in paragraph (b) of this section, is less than 1.20. You are responsible for calculating whether you have a condition of Liquidity Impairment: 
+(a) *Definition of Liquidity Impairment.* A condition of Liquidity Impairment exists when your Liquidity Ratio, as determined in paragraph (b) of this section, is less than 1.20. You are responsible for calculating whether you have a condition of Liquidity Impairment:
 
-(1) As of the close of your fiscal year; 
+(1) As of the close of your fiscal year;
 
-(2) At the time you apply for Leverage, unless SBA permits otherwise; and 
+(2) At the time you apply for Leverage, unless SBA permits otherwise; and
 
-(3) At such time as you contemplate making any Distribution. 
+(3) At such time as you contemplate making any Distribution.
 
-(b) *Computation of Liquidity Ratio.* Your Liquidity Ratio equals your Total Current Funds Available (A) divided by your Total Current Funds Required (B), as determined in the following table: 
+(b) *Computation of Liquidity Ratio.* Your Liquidity Ratio equals your Total Current Funds Available (A) divided by your Total Current Funds Required (B), as determined in the following table:
 
 Calculation of Liquidity Ratio
 | Financial account                                                 | Amount reported   on SBA form 468 | Weight | Weighted amount |

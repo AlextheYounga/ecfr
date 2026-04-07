@@ -4,7 +4,7 @@ Link to an amendment published at 90 FR 13052, Mar. 20, 2025.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
-Certificate Number: 1004.
+Certificate Number: 1004.TM*Initial Certificate Effective Date:*
 
 Initial Certificate Effective Date: January 23, 1995, superseded by Initial Certificate, Revision 1, on April 25, 2017, superseded by Renewed Initial Certificate, Revision 1, on December 11, 2017.
 

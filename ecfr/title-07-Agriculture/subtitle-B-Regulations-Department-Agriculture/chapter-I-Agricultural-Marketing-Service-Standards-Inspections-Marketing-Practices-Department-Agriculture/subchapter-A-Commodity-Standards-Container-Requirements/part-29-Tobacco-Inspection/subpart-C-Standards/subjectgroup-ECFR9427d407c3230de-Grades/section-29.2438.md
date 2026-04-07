@@ -1,6 +1,6 @@
 ##### § 29.2438 Thin Leaf (C Group).
 
-This group consists of leaves usually grown at the center portion of the stalk. These leaves normally have a rounded tip, are thinner in body than those of the B group, and show little or no ground injury. Choice- and fine-quality tobacco of this group has a distinctive, smooth leaf surface. 
+This group consists of leaves usually grown at the center portion of the stalk. These leaves normally have a rounded tip, are thinner in body than those of the B group, and show little or no ground injury. Choice- and fine-quality tobacco of this group has a distinctive, smooth leaf surface.
 
 | U.S. grades | Grade names and specifications                                                                                                                                                                 |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

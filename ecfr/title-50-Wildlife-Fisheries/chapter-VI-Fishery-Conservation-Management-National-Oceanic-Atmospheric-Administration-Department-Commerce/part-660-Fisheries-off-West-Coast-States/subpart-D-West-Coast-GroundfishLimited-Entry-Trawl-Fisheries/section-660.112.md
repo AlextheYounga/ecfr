@@ -1,6 +1,6 @@
 ##### § 660.112 Trawl fishery—prohibitions.
 
-In addition to the general prohibitions specified in § 660.12 and § 600.725 of this chapter, it is unlawful for any person or vessel to:
+In addition to the general prohibitions specified in § 660.12 and § 600.725 of this chapter, it is unlawful for any person or vessel to:*General*
 
 (a) *General*—(1) *Trawl gear endorsement.* Fish with groundfish trawl gear, or carry groundfish trawl gear on board a vessel that also has groundfish on board, unless the vessel is registered for use with a valid limited entry permit with a trawl gear endorsement, with the following exception.
 

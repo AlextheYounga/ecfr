@@ -1,6 +1,6 @@
 ##### § 29.427 Pesticide residue standards.
 
-The maximum concentration of residues of the following pesticides allowed in flue-cured or burley tobacco, expressed as parts by weight of the residue per one million parts by weight of the tobacco (ppm) are: 
+The maximum concentration of residues of the following pesticides allowed in flue-cured or burley tobacco, expressed as parts by weight of the residue per one million parts by weight of the tobacco (ppm) are:
 
 | CHLORDANE                                      | 3.0 |
 | DIBROMOCHLOROPROPANE (DBCP)                    | 1.0 |

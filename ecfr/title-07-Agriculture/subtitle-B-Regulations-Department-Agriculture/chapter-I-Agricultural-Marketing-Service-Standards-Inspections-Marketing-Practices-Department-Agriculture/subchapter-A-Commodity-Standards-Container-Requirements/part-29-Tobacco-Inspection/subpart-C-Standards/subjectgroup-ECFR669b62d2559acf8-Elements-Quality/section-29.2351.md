@@ -1,6 +1,6 @@
 ##### § 29.2351 Elements of quality and degrees of each element.
 
-Tobacco attributes or characteristics which constitute quality are designated as elements of quality. The range within each element is expressed by words or terms designated as degrees. These degrees are arranged to show their relative value and are used in determining the quality of tobacco. The actual value of each degree varies with group. 
+Tobacco attributes or characteristics which constitute quality are designated as elements of quality. The range within each element is expressed by words or terms designated as degrees. These degrees are arranged to show their relative value and are used in determining the quality of tobacco. The actual value of each degree varies with group.
 
 | Elements                                    |           | Degrees     |                |
 | ------------------------------------------- | --------- | ----------- | -------------- |

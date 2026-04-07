@@ -1,6 +1,6 @@
 ##### § 72.3 Definitions.
 
-As used in this part:
+As used in this part:*Act*
 
 *Act* means the Atomic Energy Act of 1954 (68 Stat. 919) including any amendments thereto.
 

@@ -1,6 +1,6 @@
 ##### § 29.3155 Mixed (M Group).
 
-This group consists of tobacco of distinctly different groups which are mixed together in various combinations. 
+This group consists of tobacco of distinctly different groups which are mixed together in various combinations.
 
 | Grades | Grade names and specifications                                                                                                              |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
