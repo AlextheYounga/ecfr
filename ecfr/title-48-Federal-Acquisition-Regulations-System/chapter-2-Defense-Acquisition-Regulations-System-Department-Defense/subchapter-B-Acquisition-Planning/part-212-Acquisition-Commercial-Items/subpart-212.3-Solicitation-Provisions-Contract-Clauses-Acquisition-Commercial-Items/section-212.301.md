@@ -86,7 +86,7 @@
 
 (F) Use the clause at 252.225-7009, Restriction on Acquisition of Certain Articles Containing Specialty Metals, as prescribed in 225.7003-5(a)(2), to comply with 10 U.S.C. 2533b.
 
-(G)Use the provision at 252.225-7010, Commercial Derivative Military Article - Specialty Metals Compliance Certificate, as prescribed in 225.7003-5(b), to comply with 10 U.S.C. 2533b.
+(G) Use the provision at 252.225-7010, Commercial Derivative Military Article - Specialty Metals Compliance Certificate, as prescribed in 225.7003-5(b), to comply with 10 U.S.C. 2533b.
 
 (H) Use the clause at 252.225-7012, Preference for Certain Domestic Commodities, as prescribed in 225.7002-3(a), to comply with 10 U.S.C. 2533a.
 
