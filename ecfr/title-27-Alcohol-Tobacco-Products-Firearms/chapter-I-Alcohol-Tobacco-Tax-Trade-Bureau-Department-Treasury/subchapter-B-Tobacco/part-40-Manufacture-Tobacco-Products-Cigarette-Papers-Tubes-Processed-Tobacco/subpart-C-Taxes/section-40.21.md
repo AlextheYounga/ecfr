@@ -1,6 +1,6 @@
 ##### § 40.21 Cigar tax rates.
 
-(a) Cigars are taxed at the following rates under 26 U.S.C. 5701(a):
+(a) Cigars are taxed at the following rates under 26 U.S.C. 5701(a): 
 
 | Type and amount                                                                                                                                                                                                                                                                                                                                                                                                                              | Tax rate for removals during the following periods: |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
@@ -10,8 +10,8 @@
 | • but not to exceed—                                                                                                                                                                                                                                                                                                                                                                                                                         | $48.75 per thousand                                 |
 | \* For large cigars: Until March 31, 2009, the percentage tax rate applies when the sale price is $235.294 per thousand or less, and the flat tax rate applies when the sale price is more than $235.294 per thousand. On and after April 1, 2009, the percentage tax rate applies when the sale price is $763.222 or less per thousand cigars, and the flat tax rate applies when the sale price is more than $763.222 per thousand cigars. |                                                     |
 
-(b) See § 40.22 of this part for rules concerning determination of sale price of large cigars.
+(b) See § 40.22 of this part for rules concerning determination of sale price of large cigars. 
 
-(c) Cigars not exempt from tax under 26 U.S.C. chapter 52 and the provisions of this part which are removed but not intended for sale shall be taxed at the same rate as similar cigars removed for sale.
+(c) Cigars not exempt from tax under 26 U.S.C. chapter 52 and the provisions of this part which are removed but not intended for sale shall be taxed at the same rate as similar cigars removed for sale. 
 
 \[T.D. ATF-420, 64 FR 71939, Dec. 22, 1999, as amended by T.D. TTB-75, 74 FR 14481, Mar. 31, 2009\]

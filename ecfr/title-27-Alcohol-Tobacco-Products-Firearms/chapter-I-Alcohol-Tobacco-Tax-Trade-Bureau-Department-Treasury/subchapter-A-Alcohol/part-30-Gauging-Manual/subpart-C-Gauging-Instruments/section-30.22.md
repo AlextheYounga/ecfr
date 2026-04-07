@@ -1,6 +1,6 @@
 ##### § 30.22 Hydrometers and thermometers.
 
-The hydrometers used are graduated to read the proof of aqueous alcoholic solutions at 60 degrees Fahrenheit; thus, they read, 0 for water, 100 for proof spirits, and 200 for absolute alcohol. Because of temperature-density relationships and the selection of 60 degrees Fahrenheit for reporting proof, the hydrometer readings will be less than the true percent of proof at temperatures below 60 degrees Fahrenheit and greater than the true percent of proof at temperatures above 60 degrees Fahrenheit. Hence, corrections are necessary for hydrometer readings at temperatures other than 60 degrees Fahrenheit. Precision hydrometers shall be used for gauging spirits. Hydrometers and thermometers shall be used and the true percent of proof shall be determined in accordance with § 30.31. Hydrometers are designated by letter according to range of proof and are provided in ranges and subdivisions of stems as follows:
+The hydrometers used are graduated to read the proof of aqueous alcoholic solutions at 60 degrees Fahrenheit; thus, they read, 0 for water, 100 for proof spirits, and 200 for absolute alcohol. Because of temperature-density relationships and the selection of 60 degrees Fahrenheit for reporting proof, the hydrometer readings will be less than the true percent of proof at temperatures below 60 degrees Fahrenheit and greater than the true percent of proof at temperatures above 60 degrees Fahrenheit. Hence, corrections are necessary for hydrometer readings at temperatures other than 60 degrees Fahrenheit. Precision hydrometers shall be used for gauging spirits. Hydrometers and thermometers shall be used and the true percent of proof shall be determined in accordance with § 30.31. Hydrometers are designated by letter according to range of proof and are provided in ranges and subdivisions of stems as follows: 
 
 | Precision | Range      | Subdivision |
 | --------- | ---------- | ----------- |
@@ -16,7 +16,7 @@ The hydrometers used are graduated to read the proof of aqueous alcoholic soluti
 | Q         | 165 to 185 | 0.2°        |
 | R         | 185 to 206 | 0.2°        |
 
-Thermometers are designated by type according to range of degrees Fahrenheit and are provided in ranges and subdivisions of degrees as follows:
+Thermometers are designated by type according to range of degrees Fahrenheit and are provided in ranges and subdivisions of degrees as follows: 
 
 | Type                        | Range       | Subdivision |
 | --------------------------- | ----------- | ----------- |

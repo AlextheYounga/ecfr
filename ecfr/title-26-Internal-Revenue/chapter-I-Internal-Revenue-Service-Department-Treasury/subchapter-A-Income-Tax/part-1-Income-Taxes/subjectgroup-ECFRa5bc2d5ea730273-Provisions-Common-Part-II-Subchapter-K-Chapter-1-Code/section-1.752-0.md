@@ -1,378 +1,378 @@
 ##### § 1.752-0 Table of contents.
 
-This section lists the major paragraphs that appear in §§ 1.752-1 through 1.752-7. 
+This section lists the major paragraphs that appear in §§ 1.752-1 through 1.752-7.
 
 § 1.752-1 Treatment of partnership liabilities.
 
-(a) Definitions. 
+(a) Definitions.
 
-(1) Recourse liability defined. 
+(1) Recourse liability defined.
 
-(2) Nonrecourse liability defined. 
+(2) Nonrecourse liability defined.
 
-(3) Related person. 
+(3) Related person.
 
-(4) Liability defined. 
+(4) Liability defined.
 
-(i) In general. 
+(i) In general.
 
-(ii) Obligation. 
+(ii) Obligation.
 
-(iii) Other liabilities. 
+(iii) Other liabilities.
 
-(iv) Effective date. 
+(iv) Effective date.
 
-(b) Increase in partner's share of liabilities. 
+(b) Increase in partner's share of liabilities.
 
-(c) Decrease in partner's share of liabilities. 
+(c) Decrease in partner's share of liabilities.
 
-(d) Assumption of liability. 
+(d) Assumption of liability.
 
-(1) In general. 
+(1) In general.
 
-(2) Applicability date. 
+(2) Applicability date.
 
-(e) Property subject to a liability. 
+(e) Property subject to a liability.
 
-(f) Netting of increases and decreases in liabilities resulting from same transaction. 
+(f) Netting of increases and decreases in liabilities resulting from same transaction.
 
-(g) Example. 
+(g) Example.
 
-(h) Sale or exchange of partnership interest. 
+(h) Sale or exchange of partnership interest.
 
-(i) Bifurcation of partnership liabilities. 
+(i) Bifurcation of partnership liabilities.
 
 § 1.752-2 Partner's share of recourse liabilities.
 
-(a) Partner's share of recourse liabilities. 
+(a) Partner's share of recourse liabilities.
 
-(1) In general. 
+(1) In general.
 
-(2) Overlapping economic risk of loss. 
+(2) Overlapping economic risk of loss.
 
-(3) Direct economic risk of loss. 
+(3) Direct economic risk of loss.
 
-(b) Obligation to make a payment. 
+(b) Obligation to make a payment.
 
-(1) In general. 
+(1) In general.
 
-(2) Treatment upon deemed disposition. 
+(2) Treatment upon deemed disposition.
 
-(3) Obligations recognized. 
+(3) Obligations recognized.
 
-(i) In general. 
+(i) In general.
 
-(ii) Special rules for bottom dollar payment obligations. 
+(ii) Special rules for bottom dollar payment obligations.
 
-(A) In general. 
+(A) In general.
 
-(B) Exception. 
+(B) Exception.
 
-(C) Definition of bottom dollar payment obligation. 
+(C) Definition of bottom dollar payment obligation.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Exceptions. 
+(*2*) Exceptions.
 
-(*3*) Benefited party defined. 
+(*3*) Benefited party defined.
 
-(D) Disclosure of bottom dollar payment obligations. 
+(D) Disclosure of bottom dollar payment obligations.
 
-(iii) Special rule for indemnities and reimbursement agreements. 
+(iii) Special rule for indemnities and reimbursement agreements.
 
-(4) Contingent obligations. 
+(4) Contingent obligations.
 
-(5) Reimbursement rights. 
+(5) Reimbursement rights.
 
-(6) Deemed satisfaction or obligation. 
+(6) Deemed satisfaction or obligation.
 
-(c) Partner or related person as lender. 
+(c) Partner or related person as lender.
 
-(1) In general. 
+(1) In general.
 
-(2) Wrapped debt. 
+(2) Wrapped debt.
 
-(d) De minimis exceptions. 
+(d) De minimis exceptions.
 
-(1) Partner as lender. 
+(1) Partner as lender.
 
-(2) Partner as guarantor. 
+(2) Partner as guarantor.
 
-(e) Special rule for nonrecourse liability with interest guaranteed by a partner. 
+(e) Special rule for nonrecourse liability with interest guaranteed by a partner.
 
-(1) In general. 
+(1) In general.
 
-(2) Computation of present value. 
+(2) Computation of present value.
 
-(3) Safe harbor. 
+(3) Safe harbor.
 
-(4) De minimis exception. 
+(4) De minimis exception.
 
-(f) Examples. 
+(f) Examples.
 
-(g) Time-value-of-money considerations. 
+(g) Time-value-of-money considerations.
 
-(1) In general. 
+(1) In general.
 
-(2) Valuation of an obligation. 
+(2) Valuation of an obligation.
 
-(3) Satisfaction of obligation with partner's promissory note. 
+(3) Satisfaction of obligation with partner's promissory note.
 
-(4) Example. 
+(4) Example.
 
-(h) Partner providing property as security for partnership liability. 
+(h) Partner providing property as security for partnership liability.
 
-(1) Direct pledge. 
+(1) Direct pledge.
 
-(2) Indirect pledge. 
+(2) Indirect pledge.
 
-(3) Valuation. 
+(3) Valuation.
 
-(4) Partner's promissory note. 
+(4) Partner's promissory note.
 
 (i) Treatment of recourse liabilities in tiered partnerships.
 
-(1) In general. 
+(1) In general.
 
-(2) Coordination with overlapping economic risk of loss. 
+(2) Coordination with overlapping economic risk of loss.
 
-(3) Example. 
+(3) Example.
 
-(j) Anti-abuse rules. 
+(j) Anti-abuse rules.
 
-(1) In general. 
+(1) In general.
 
-(2) Arrangements tantamount to a guarantee. 
+(2) Arrangements tantamount to a guarantee.
 
-(i) In general. 
+(i) In general.
 
-(ii) Economic risk of loss. 
+(ii) Economic risk of loss.
 
-(3) Plan to circumvent or avoid an obligation. 
+(3) Plan to circumvent or avoid an obligation.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Factors indicating plan to circumvent or avoid an obligation. 
+(ii) Factors indicating plan to circumvent or avoid an obligation.
 
-(4) Example. 
+(4) Example.
 
-(k) No reasonable expectation of payment. 
+(k) No reasonable expectation of payment.
 
-(1) In general. 
+(1) In general.
 
-(2) Examples. 
+(2) Examples.
 
-(3) Plan to circumvent or avoid the regulations. 
+(3) Plan to circumvent or avoid the regulations.
 
-(4) Examples. 
+(4) Examples.
 
-(l) Applicability dates. 
+(l) Applicability dates.
 
 § 1.752-3 Partner's share of nonrecourse liabilities.
 
-(a) In general. 
+(a) In general.
 
-(b) Examples. 
+(b) Examples.
 
 § 1.752-4 Special rules.
 
-(a) Tiered partnerships. 
+(a) Tiered partnerships.
 
-(b) Related person definition. 
+(b) Related person definition.
 
-(1) In general. 
+(1) In general.
 
-(2) Related partner exception. 
+(2) Related partner exception.
 
-(3) Person related to more than one partner. 
+(3) Person related to more than one partner.
 
-(4) Special rule where entity structured to avoid related person status. 
+(4) Special rule where entity structured to avoid related person status.
 
-(i) In general. 
+(i) In general.
 
-(ii) Ownership interest. 
+(ii) Ownership interest.
 
-(5) Examples. 
+(5) Examples.
 
-(c) Limitation. 
+(c) Limitation.
 
-(d) Time of determination. 
+(d) Time of determination.
 
-(e) Ordering rule. 
+(e) Ordering rule.
 
-(f) Example. 
+(f) Example.
 
 § 1.752-5 Effective dates and transition rules.
 
-(a) In general. 
+(a) In general.
 
-(b) Election. 
+(b) Election.
 
-(1) In general. 
+(1) In general.
 
-(2) Time and manner of election. 
+(2) Time and manner of election.
 
-(c) Effect of section 708(b)(1)(B) termination on determining date liabilities are incurred or assumed. 
+(c) Effect of section 708(b)(1)(B) termination on determining date liabilities are incurred or assumed.
 
 § 1.752-6 Partnership assumption of partner's section 358(h)(3) liability after October 18, 1999, and before June 24, 2003.
 
-(a) In general. 
+(a) In general.
 
-(b) Exceptions. 
+(b) Exceptions.
 
-(1) In general. 
+(1) In general.
 
-(2) Transactions described in Notice 2000-44. 
+(2) Transactions described in Notice 2000-44.
 
-(c) Example. 
+(c) Example.
 
-(d) Effective date. 
+(d) Effective date.
 
-(1) In general. 
+(1) In general.
 
-(2) Election to apply § 1.752-7. 
+(2) Election to apply § 1.752-7.
 
 § 1.752-7 Partnership assumption of partner's § 1.752-7 liability on or after June 24, 2003.
 
-(a) Purpose and structure. 
+(a) Purpose and structure.
 
-(b) Definitions. 
+(b) Definitions.
 
-(1) Assumption. 
+(1) Assumption.
 
-(2) Adjusted value. 
+(2) Adjusted value.
 
-(3) § 1.752-7 liability. 
+(3) § 1.752-7 liability.
 
-(i) In general. 
+(i) In general.
 
-(ii) Amount and share of § 1.752-7 liability. 
+(ii) Amount and share of § 1.752-7 liability.
 
-(iii) Example. 
+(iii) Example.
 
-(4) § 1.752-7 liability transfer. 
+(4) § 1.752-7 liability transfer.
 
-(i) In general. 
+(i) In general.
 
-(ii) Terminations under section 708(b)(1)(B). 
+(ii) Terminations under section 708(b)(1)(B).
 
-(5) § 1.752-7 liability partner. 
+(5) § 1.752-7 liability partner.
 
-(i) In general. 
+(i) In general.
 
-(ii) Tiered partnerships. 
+(ii) Tiered partnerships.
 
-(A) Assumption by a lower-tier partnership. 
+(A) Assumption by a lower-tier partnership.
 
-(B) Distribution of partnership interest. 
+(B) Distribution of partnership interest.
 
-(6) Remaining built-in loss associated with a § 1.752-7 liability. 
+(6) Remaining built-in loss associated with a § 1.752-7 liability.
 
-(i) In general. 
+(i) In general.
 
-(ii) Partial dispositions and assumptions. 
+(ii) Partial dispositions and assumptions.
 
-(7) § 1.752-7 liability reduction. 
+(7) § 1.752-7 liability reduction.
 
-(i) In general. 
+(i) In general.
 
-(ii) Partial dispositions and assumptions. 
+(ii) Partial dispositions and assumptions.
 
-(8) Satisfaction of § 1.752-7 liability. 
+(8) Satisfaction of § 1.752-7 liability.
 
-(9) Testing date. 
+(9) Testing date.
 
-(10) Trade or business. 
+(10) Trade or business.
 
-(i) In general. 
+(i) In general.
 
-(ii) Examples. 
+(ii) Examples.
 
-(c) Application of section 704(b) and (c) to assumed § 1.752-7 liabilities. 
+(c) Application of section 704(b) and (c) to assumed § 1.752-7 liabilities.
 
-(1) In general. 
+(1) In general.
 
-(i) Section 704(c). 
+(i) Section 704(c).
 
-(ii) Section 704(b). 
+(ii) Section 704(b).
 
-(2) Example. 
+(2) Example.
 
-(d) Special rules for transfers of partnership interests, distributions of partnership assets, and assumptions of the § 1.752-7 liability after a § 1.752-7 liability transfer. 
+(d) Special rules for transfers of partnership interests, distributions of partnership assets, and assumptions of the § 1.752-7 liability after a § 1.752-7 liability transfer.
 
-(1) In general. 
+(1) In general.
 
-(2) Exceptions. 
+(2) Exceptions.
 
-(i) In general. 
+(i) In general.
 
-(ii) Examples. 
+(ii) Examples.
 
-(e) Transfer of § 1.752-7 liability partner's partnership interest. 
+(e) Transfer of § 1.752-7 liability partner's partnership interest.
 
-(1) In general. 
+(1) In general.
 
-(2) Examples. 
+(2) Examples.
 
-(3) Exception for nonrecognition transactions. 
+(3) Exception for nonrecognition transactions.
 
-(i) In general. 
+(i) In general.
 
-(ii) Examples. 
+(ii) Examples.
 
-(f) Distribution in liquidation of § 1.752-7 liability partner's partnership interest. 
+(f) Distribution in liquidation of § 1.752-7 liability partner's partnership interest.
 
-(1) In general. 
+(1) In general.
 
-(2) Example. 
+(2) Example.
 
-(g) Assumption of § 1.752-7 liability by a partner other than § 1.752-7 liability partner. 
+(g) Assumption of § 1.752-7 liability by a partner other than § 1.752-7 liability partner.
 
-(1) In general. 
+(1) In general.
 
-(2) Consequences to § 1.752-7 liability partner. 
+(2) Consequences to § 1.752-7 liability partner.
 
-(3) Consequences to partnership. 
+(3) Consequences to partnership.
 
-(4) Consequences to assuming partner. 
+(4) Consequences to assuming partner.
 
-(5) Example. 
+(5) Example.
 
-(h) Notification by the partnership (or successor) of the satisfaction of the § 1.752-7 liability. 
+(h) Notification by the partnership (or successor) of the satisfaction of the § 1.752-7 liability.
 
-(i) Special rule for amounts that are capitalized prior to the occurrence of an event described in paragraphs (e), (f), or (g). 
+(i) Special rule for amounts that are capitalized prior to the occurrence of an event described in paragraphs (e), (f), or (g).
 
-(1) In general. 
+(1) In general.
 
-(2) Example. 
+(2) Example.
 
-(j) Tiered partnerships. 
+(j) Tiered partnerships.
 
-(1) Look-through treatment. 
+(1) Look-through treatment.
 
-(2) Trade or business exception. 
+(2) Trade or business exception.
 
-(3) Partnership as a § 1.752-7 liability partner. 
+(3) Partnership as a § 1.752-7 liability partner.
 
-(4) Transfer of § 1.752-7 liability by partnership to another partnership or corporation after a transaction described in paragraphs (e),(f), or (g). 
+(4) Transfer of § 1.752-7 liability by partnership to another partnership or corporation after a transaction described in paragraphs (e),(f), or (g).
 
-(i) In general. 
+(i) In general.
 
-(ii) Subsequent transfers. 
+(ii) Subsequent transfers.
 
-(5) Example. 
+(5) Example.
 
-(k) Effective dates. 
+(k) Effective dates.
 
-(1) In general. 
+(1) In general.
 
-(2) Election to apply this section to assumptions of liabilities occurring after October 18, 1999 and before June 24, 2003. 
+(2) Election to apply this section to assumptions of liabilities occurring after October 18, 1999 and before June 24, 2003.
 
-(i) In general. 
+(i) In general.
 
-(ii) Manner of making election. 
+(ii) Manner of making election.
 
-(iii) Filing of amended returns. 
+(iii) Filing of amended returns.
 
 (iv) Time for making election.
 

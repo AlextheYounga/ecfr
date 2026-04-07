@@ -1,6 +1,6 @@
 ##### § 41.34 Cigarette papers.
 
-Cigarette papers are taxed at the following rates under 26 U.S.C. 5701(c):
+Cigarette papers are taxed at the following rates under 26 U.S.C. 5701(c): 
 
 | Product                                                                   | Tax rate for each 50 papers\* for removals during the following periods:                                |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |

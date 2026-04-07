@@ -1,6 +1,6 @@
 ##### § 30.63 Table 3, for determining the number of proof gallons from the weight and proof of spirituous liquor.
 
-When the weight or proof of a quantity of distilled spirits is not found in Table 2, the proof gallons may be ascertained from Table 3. The wine gallons (at 60 degrees Fahrenheit) may be ascertained by dividing the proof gallons by the proof.
+When the weight or proof of a quantity of distilled spirits is not found in Table 2, the proof gallons may be ascertained from Table 3. The wine gallons (at 60 degrees Fahrenheit) may be ascertained by dividing the proof gallons by the proof. 
 
 Example.A tank car of spirits of 190 degrees of proof weighed 60,378 pounds net. We find—
 

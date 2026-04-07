@@ -1,6 +1,6 @@
 ##### § 25.1391 Minimum intensities in the horizontal plane of forward and rear position lights.
 
-Each position light intensity must equal or exceed the applicable values in the following table: 
+Each position light intensity must equal or exceed the applicable values in the following table:
 
 | Dihedral angle (light included) | Angle from right or left of longitudinal axis, measured from dead ahead | Intensity (candles) |
 | ------------------------------- | ----------------------------------------------------------------------- | ------------------- |

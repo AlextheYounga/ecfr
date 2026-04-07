@@ -1,18 +1,18 @@
 ##### § 1.0-1 Internal Revenue Code of 1954 and regulations.
 
-(a) *Enactment of law.* The Internal Revenue Code of 1954 which became law upon enactment of Public Law 591, 83d Congress, approved August 16, 1954, provides in part as follows: 
+(a) *Enactment of law.* The Internal Revenue Code of 1954 which became law upon enactment of Public Law 591, 83d Congress, approved August 16, 1954, provides in part as follows:
 
-*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,* That 
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,* That
 
-(a) *Citation.* (1) The provisions of this Act set forth under the heading “Internal Revenue Title” may be cited as the “Internal Revenue Code of 1954” 
+(a) *Citation.* (1) The provisions of this Act set forth under the heading “Internal Revenue Title” may be cited as the “Internal Revenue Code of 1954”
 
-(2) The Internal Revenue Code enacted on February 10, 1939, as amended, may be cited as the “Internal Revenue Code of 1939”. 
+(2) The Internal Revenue Code enacted on February 10, 1939, as amended, may be cited as the “Internal Revenue Code of 1939”.
 
-(b) *Publication.* This Act shall be published as volume 68A of the United States Statutes at Large, with a comprehensive table of contents and an appendix; but without an index or marginal references. The date of enactment, bill number, public law number, and chapter number, shall be printed as a headnote. 
+(b) *Publication.* This Act shall be published as volume 68A of the United States Statutes at Large, with a comprehensive table of contents and an appendix; but without an index or marginal references. The date of enactment, bill number, public law number, and chapter number, shall be printed as a headnote.
 
-(c) *Cross reference.* For saving provisions, effective date provisions, and other related provisions, see chapter 80 (sec. 7801 and following) of the Internal Revenue Code of 1954. 
+(c) *Cross reference.* For saving provisions, effective date provisions, and other related provisions, see chapter 80 (sec. 7801 and following) of the Internal Revenue Code of 1954.
 
-(d) *Enactment of Internal Revenue Title into law.* The Internal Revenue Title referred to in subsection (a)(1) is as follows: 
+(d) *Enactment of Internal Revenue Title into law.* The Internal Revenue Title referred to in subsection (a)(1) is as follows:
 
 In general, the provisions of the Internal Revenue Code of 1954 are applicable with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. Certain provisions of that Code are deemed to be included in the Internal Revenue Code of 1939. See section 7851.
 

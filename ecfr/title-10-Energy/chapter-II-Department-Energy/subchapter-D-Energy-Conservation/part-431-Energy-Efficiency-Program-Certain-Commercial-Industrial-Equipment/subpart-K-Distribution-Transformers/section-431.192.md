@@ -112,7 +112,7 @@ The following definitions apply for purposes of this subpart:
 
 *Special-impedance transformer* means a transformer built to operate at an impedance outside of the normal impedance range for that transformer's kVA rating. The normal impedance range for each kVA rating for liquid-immersed and dry-type transformers is shown in Tables 1 and 2, respectively. 
 
-Table 1 to the Definition o “Special-Impedance Transformer”—Normal Impedance Ranges for Liquid-Immersed Transformers
+Table 1 to the Definition of “Special-Impedance Transformer”—Normal Impedance Ranges for Liquid-Immersed Transformers
 | Single-phase transformers | Three-phase transformers |
 | ------------------------- | ------------------------ |
 | 10 <= kVA < 50            | 1.0-4.5                  |
@@ -121,7 +121,7 @@ Table 1 to the Definition o “Special-Impedance Transformer”—Normal Impedan
 | 500 <= kVA < 667          | 1.5-7.0                  |
 | 667 <= kVA <= 833         | 5.0-7.5                  |
 
-Table 2 to the Definition o “Special-Impedance Transformer”—Normal Impedance Ranges for Dry-Type Transformers
+Table 2 to the Definition of “Special-Impedance Transformer”—Normal Impedance Ranges for Dry-Type Transformers
 | Single-phase transformers | Three-phase transformers |
 | ------------------------- | ------------------------ |
 | 10 <= kVA < 50            | 1.0-4.5                  |
@@ -160,4 +160,4 @@ Table 2 to the Definition o “Special-Impedance Transformer”—Normal Impedan
 
 *Welding transformer* means a transformer designed for use in arc welding equipment or resistance welding equipment. 
 
-\[70 FR 60416, Oct. 18, 2005, as amended at 71 FR 24995, Apr. 27, 2006; 71 FR 60662, Oct. 16, 2006; 72 FR 58239, Oct. 12, 2007; 78 FR 23433, Apr. 18, 2013; 86 FR 51252, Sept. 14, 2021; 89 FR 30039, Apr. 22, 2024\]
+\[70 FR 60416, Oct. 18, 2005, as amended at 71 FR 24995, Apr. 27, 2006; 71 FR 60662, Oct. 16, 2006; 72 FR 58239, Oct. 12, 2007; 78 FR 23433, Apr. 18, 2013; 86 FR 51252, Sept. 14, 2021; 89 FR 30039, Apr. 22, 2024; 90 FR 6795, Jan. 21, 2025\]

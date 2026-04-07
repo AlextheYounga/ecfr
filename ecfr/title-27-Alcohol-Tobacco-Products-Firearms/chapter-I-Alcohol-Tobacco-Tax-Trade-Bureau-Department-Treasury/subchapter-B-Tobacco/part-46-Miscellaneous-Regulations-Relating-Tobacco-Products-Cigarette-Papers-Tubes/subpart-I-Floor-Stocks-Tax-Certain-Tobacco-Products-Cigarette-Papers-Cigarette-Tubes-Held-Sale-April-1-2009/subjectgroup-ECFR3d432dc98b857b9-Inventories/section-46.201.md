@@ -1,10 +1,10 @@
 ##### § 46.201 General.
 
-(a) *Date.* The dealer must take an inventory to establish the quantities of articles subject to the floor stocks tax held for sale on April 1, 2009. The dealer must take the physical inventory or record (book) inventory not earlier than March 26, 2009 and not later than April 10, 2009.
+(a) *Date.* The dealer must take an inventory to establish the quantities of articles subject to the floor stocks tax held for sale on April 1, 2009. The dealer must take the physical inventory or record (book) inventory not earlier than March 26, 2009 and not later than April 10, 2009. 
 
-(b) *Reconciliation.* If the dealer takes a physical inventory on any day other than April 1, 2009, the resulting records must be reconciled to reflect the actual quantity of articles held at 12:01 a.m. on April 1, 2009. These records must include all supporting records of receipt and disposition.
+(b) *Reconciliation.* If the dealer takes a physical inventory on any day other than April 1, 2009, the resulting records must be reconciled to reflect the actual quantity of articles held at 12:01 a.m. on April 1, 2009. These records must include all supporting records of receipt and disposition. 
 
-(c) *Method.* The dealer may take a physical inventory in accordance with § 46.202 or a record (book) inventory in accordance with § 46.203. The following table lists the taxable articles and the method to use for each to determine quantities:
+(c) *Method.* The dealer may take a physical inventory in accordance with § 46.202 or a record (book) inventory in accordance with § 46.203. The following table lists the taxable articles and the method to use for each to determine quantities: 
 
 | Article                                    | Inventory method                                                                                                                                                                      |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

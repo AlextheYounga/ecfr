@@ -1,6 +1,6 @@
 ##### § 20.135 State code numbers.
 
-In showing the permit number on labels as provided in § 20.134(b)(2)(ii), the permittee who distributes the article may substitute the appropriate number shown below for the State abbreviation. For example, permit number SDA-CONN-1234 may be shown on the labels as SDA-07-1234. The code numbers for the respective State are as follows:
+In showing the permit number on labels as provided in § 20.134(b)(2)(ii), the permittee who distributes the article may substitute the appropriate number shown below for the State abbreviation. For example, permit number SDA-CONN-1234 may be shown on the labels as SDA-07-1234. The code numbers for the respective State are as follows: 
 
 *   01—Alabama
 *   02—Alaska

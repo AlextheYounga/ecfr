@@ -1,8 +1,8 @@
 ##### § 20.118 Rubbing alcohol general-use formula.
 
-(a) Rubbing alcohol is an article made with S.D.A. Formula No. 23-H (1) containing 70% ethyl alcohol by volume (2) made in accordance with one of the two formulas prescribed in paragraph (b) of this section, and (3) labeled in accordance with § 20.134(e) of this part.
+(a) Rubbing alcohol is an article made with S.D.A. Formula No. 23-H (1) containing 70% ethyl alcohol by volume (2) made in accordance with one of the two formulas prescribed in paragraph (b) of this section, and (3) labeled in accordance with § 20.134(e) of this part. 
 
-(b) Either of the following two formulas is approved for manufacturing rubbing alcohol:
+(b) Either of the following two formulas is approved for manufacturing rubbing alcohol: 
 
 | Formula A                                                                          |                |
 | S.D.A. formula no. 23-H                                                            | 103.3 fl. oz.  |

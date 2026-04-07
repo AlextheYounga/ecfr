@@ -1,10 +1,10 @@
 ##### § 1.37-2 Credit for individuals age 65 or over.
 
-(a) *In general.* This section illustrates the computation of the credit for the elderly in the case of an individual who has attained the age of 65 before the close of the taxable year. This section shall not apply to an individual for any taxable year for which the individual makes the election described in section 37(e)(2) and paragraph (b) of § 1.37-3. 
+(a) *In general.* This section illustrates the computation of the credit for the elderly in the case of an individual who has attained the age of 65 before the close of the taxable year. This section shall not apply to an individual for any taxable year for which the individual makes the election described in section 37(e)(2) and paragraph (b) of § 1.37-3.
 
-(b) *Computation of credit.* The credit for the elderly for an individual to whom this section applies equals 15 percent of the individual's “section 37 amount” for the taxable year. An individual's “section 37 amount” for a taxable year is the initial amount determined under section 37(b)(2), reduced as provided in section 37(b)(3) and (c)(1). 
+(b) *Computation of credit.* The credit for the elderly for an individual to whom this section applies equals 15 percent of the individual's “section 37 amount” for the taxable year. An individual's “section 37 amount” for a taxable year is the initial amount determined under section 37(b)(2), reduced as provided in section 37(b)(3) and (c)(1).
 
-(c) *Examples.* The computation of the credit for the elderly for individuals to whom this section applies may be illustrated by the following examples: 
+(c) *Examples.* The computation of the credit for the elderly for individuals to whom this section applies may be illustrated by the following examples:
 
 Example 1.A, a single individual who is 67 years old, has adjusted gross income of $8,000 for the calendar year 1977. A also receives social security payments of $1,450 during 1977. A does not itemize deductions. A's credit for the elderly is $120, computed as follows:
 

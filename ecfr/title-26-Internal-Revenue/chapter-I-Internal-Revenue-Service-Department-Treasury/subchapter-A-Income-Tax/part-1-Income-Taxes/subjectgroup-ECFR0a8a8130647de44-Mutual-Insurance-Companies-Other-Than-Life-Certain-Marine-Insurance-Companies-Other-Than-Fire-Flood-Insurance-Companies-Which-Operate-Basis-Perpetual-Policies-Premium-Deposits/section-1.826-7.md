@@ -1,6 +1,6 @@
 ##### § 1.826-7 Examples.
 
-The application of section 826 may be illustrated by the following examples: 
+The application of section 826 may be illustrated by the following examples:
 
 Example 1.For the taxable year 1963, R, a reciprocal underwriter subject to the taxes imposed by section 821(a), has the following items (determined before applying any election under section 826):
 

@@ -19,11 +19,11 @@
 Table 1 to § 57.03-1(b)—Low Temperature Weld Procedure Qualification Thickness Ranges
 | Thickness, “t” of test plate or pipe as welded   (inches)                                                         | Range of thickness of materials qualified by test plate or pipe   (inches) |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 1/16 to 3/8, inclusive                                                                                            | 1/16                                                                       |
-| Over 3/8 but less than 3/4                                                                                        | 1 3/8                                                                      |
-| 3/4 to 3, inclusive                                                                                               | 3/4                                                                        |
-| 1 For thicknesses less than 5/8 inch, the thickness of the test plate or pipe is the minimum thickness qualified. |                                                                            |
-| 2 Where “t” is the thickest material over 3/4 inch to be used in production.                                      |                                                                            |
+| 1⁄16 to 3⁄8, inclusive                                                                                            | 1⁄16                                                                       |
+| Over 3⁄8 but less than 3⁄4                                                                                        | 13⁄8                                                                       |
+| 3⁄4 to 3, inclusive                                                                                               | 3⁄4                                                                        |
+| 1 For thicknesses less than 5⁄8 inch, the thickness of the test plate or pipe is the minimum thickness qualified. |                                                                            |
+| 2 Where “t” is the thickest material over 3⁄4 inch to be used in production.                                      |                                                                            |
 
 (5) The limits for heat input production, as measured in Joules/inch, must be at or below the maximum heat input applied to the procedure test plate. The word “maximum” must not be interpreted as either nominal or average. 
 

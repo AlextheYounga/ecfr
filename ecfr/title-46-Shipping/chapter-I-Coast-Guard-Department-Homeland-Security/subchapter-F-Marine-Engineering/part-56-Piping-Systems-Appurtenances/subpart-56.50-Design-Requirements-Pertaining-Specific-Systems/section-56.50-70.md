@@ -11,9 +11,9 @@
 Table 1 to § 56.50-70(a)—Tubing Wall Thickness
 | Outside diameter of tubing in inches | Thickness |
 | ------------------------------------ | --------- |
-| 1/8, 3/16, 1/4                       | #21       |
-| 5/16, 3/8                            | #20       |
-| 7/16, 1/2                            | #19       |
+| 1⁄8, 3⁄16, 1⁄4                       | #21       |
+| 5⁄16, 3⁄8                            | #20       |
+| 7⁄16, 1⁄2                            | #19       |
 
 (b) *Installation.* (1) All fuel pipes, pipe connections, and accessories must be readily accessible, protected against mechanical injury, and effectively secured against excessive movement and vibration by the use of soft nonferrous metal liners or straps. Where passing through steel decks or bulkheads, fuel lines must be protected by close fitting ferrules or stuffing boxes. Refer to § 56.30-25 for tubing joint installations. 
 

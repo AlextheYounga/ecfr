@@ -1,6 +1,6 @@
 ##### § 40.352 Cigarette tubes.
 
-Cigarette tubes are taxed at the following rates under 26 U.S.C. 5701(d):
+Cigarette tubes are taxed at the following rates under 26 U.S.C. 5701(d): 
 
 | Product                                                                  | Tax rate for each 50 tubes\* for removals during the years:                                                    |
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |

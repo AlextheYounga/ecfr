@@ -1,7 +1,5 @@
 ##### § 11.920 Subjects for MODU endorsements.
 
-Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
-
 Table 1 to § 11.920 gives the codes used in Table 2 to § 11.920 for MODU endorsements. Table 2 to § 11.920 indicates the examination subjects for each endorsement by the code number. 
 
 Table 1 to § 11.920—Codes for MODU Endorsements
@@ -13,7 +11,7 @@ Table 1 to § 11.920—Codes for MODU Endorsements
 | 6\. Barge Supervisor.                     |
 | 7\. Ballast Control Operator.             |
 
-Table 2 to § 11.920—Subjects for MODU Licenses
+Table 2 to § 11.920—Subjects for MODU Endorsements
 | Examination topics                                                                                                  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | ------------------------------------------------------------------------------------------------------------------- | - | - | - | - | - | - | - |
 | Watchkeeping:                                                                                                       |   |   |   |   |   |   |   |
@@ -107,3 +105,5 @@ Table 2 to § 11.920—Subjects for MODU Licenses
 | Procedures/rules for lifeboats, survival suits, personal flotation devices (PFDs), life rafts and emergency signals | X | X | X | X | X | X | X |
 | Emergency radio transmissions                                                                                       | X | X | X | X | X | X | X |
 | Survival at sea                                                                                                     | X | X | X | X | X | X | X |
+
+\[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2021-0834, 89 FR 102336, Dec. 17, 2024\]

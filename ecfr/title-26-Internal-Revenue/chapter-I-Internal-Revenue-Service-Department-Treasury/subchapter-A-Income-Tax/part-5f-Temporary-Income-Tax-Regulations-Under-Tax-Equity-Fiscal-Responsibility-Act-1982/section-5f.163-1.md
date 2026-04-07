@@ -1,32 +1,32 @@
 ##### § 5f.163-1 Denial of interest deduction on certain obligations issued after December 31, 1982, unless issued in registered form.
 
-(a) *Denial of deduction generally.* Interest paid or accrued on a registration-required obligation (as defined in paragraph (b) of this section) shall not be allowed as a deduction under section 163 or any other provision of law unless such obligation is issued in registered form (as defined in § 5f.103-1(c)). 
+(a) *Denial of deduction generally.* Interest paid or accrued on a registration-required obligation (as defined in paragraph (b) of this section) shall not be allowed as a deduction under section 163 or any other provision of law unless such obligation is issued in registered form (as defined in § 5f.103-1(c)).
 
-(b) *Registration-required obligation.* For purposes of this section, the term “registration-required obligation” means any obligation except any one of the following: 
+(b) *Registration-required obligation.* For purposes of this section, the term “registration-required obligation” means any obligation except any one of the following:
 
-(1) An obligation issued by a natural person. 
+(1) An obligation issued by a natural person.
 
-(2) An obligation not of a type offered to the public. The determination as to whether an obligation is not of a type offered to the public shall be based on whether similar obligations are in fact publicly offered or traded. 
+(2) An obligation not of a type offered to the public. The determination as to whether an obligation is not of a type offered to the public shall be based on whether similar obligations are in fact publicly offered or traded.
 
-(3) An obligation that has a maturity at the date of issue of not more than 1 year. 
+(3) An obligation that has a maturity at the date of issue of not more than 1 year.
 
-(4) An obligation issued before January 1, 1983. An obligation first issued before January 1, 1983, shall not be considered to have been issued on or after such date merely as a result of the existence of a right on the part of the holder of such obligation to convert such obligation from registered form into bearer form, or as a result of the exercise of such a right. 
+(4) An obligation issued before January 1, 1983. An obligation first issued before January 1, 1983, shall not be considered to have been issued on or after such date merely as a result of the existence of a right on the part of the holder of such obligation to convert such obligation from registered form into bearer form, or as a result of the exercise of such a right.
 
-(5) An obligation described in subparagraph (1) of paragraph (c) (relating to certain obligations issued to foreign persons). 
+(5) An obligation described in subparagraph (1) of paragraph (c) (relating to certain obligations issued to foreign persons).
 
-(c) \[Reserved\] 
+(c) \[Reserved\]
 
-(d) *Effective date.* The provisions of this section shall apply to obligations issued after December 31, 1982, unless issued on an exercise of a warrant for the conversion of a convertible obligation if such warrant or obligation was offered or sold outside the United States without registration under the Securities Act of 1933 and was issued before August 10, 1982. 
+(d) *Effective date.* The provisions of this section shall apply to obligations issued after December 31, 1982, unless issued on an exercise of a warrant for the conversion of a convertible obligation if such warrant or obligation was offered or sold outside the United States without registration under the Securities Act of 1933 and was issued before August 10, 1982.
 
-(e) *Obligations first issued after December 31, 1982, where the right exists for the holder to convert such obligation from registered form into bearer form.* \[Reserved\] 
+(e) *Obligations first issued after December 31, 1982, where the right exists for the holder to convert such obligation from registered form into bearer form.* \[Reserved\]
 
-(f) *Examples.* The application of this section may be illustrated by the following examples: 
+(f) *Examples.* The application of this section may be illustrated by the following examples:
 
 Example (1).All of the shares of Corporation X are owned by two individuals, A and B. X desires to sell all of its assets to Corporation Y, all of the shares of which are owned by individual C. Following the sale, Corporation X will be completely liquidated. As partial consideration for the Corporation X assets, Corporation Y delivers a promissory note to X, secured by a security interest and mortgage on the acquired assets. The note given by Y to X is not of a type offered to the public.Example (2).Corporation Z has a credit agreement with Bank M pursuant to which Corporation Z may borrow amounts not exceeding $10X upon delivery of Z's note to Bank M. The note Z delivers to M is not of a type offered to the public.Example (3).Individuals D and E operate a retail business through partnership DE. D wishes to loan partnership DE $5X. DE's note evidencing the loan from D is not of a type offered to the public.Example (4).Individual F owns one-third of the shares of Corporation W. F makes a cash advance to W. W's note evidencing F's cash advance is not of a type offered to the public.Example (5).Closely-held Corporation R places its convertible debentures with 30 individuals who are United States persons. The offering is not required to be registered under the Securities Act of 1933. Similar debentures are publicly offered and traded. The obligations are not considered of a type not offered to the public.Example (6).In 1980, Corporation V issued its bonds due in 1986 through an offering registered with the Securities and Exchange Commission. Although the bonds were initially issued in registered form, the terms of the bonds permit a holder, at his option, to convert a bond into bearer form at any time prior to maturity. Similarly, a person who holds a bond in bearer form may, at any time, have the bond converted into registered form.
 
-(i) Assume G bought one of Corporation V's bonds upon the original issuance in 1980. In 1983, G requests that V convert the bond into bearer form. Except for the change from registered to bearer form, the terms of the bond are unchanged. The bond held by G is not considered issued after December 31, 1982, under § 5f.163-1(b)(4). 
+(i) Assume G bought one of Corporation V's bonds upon the original issuance in 1980. In 1983, G requests that V convert the bond into bearer form. Except for the change from registered to bearer form, the terms of the bond are unchanged. The bond held by G is not considered issued after December 31, 1982, under § 5f.163-1(b)(4).
 
-(ii) Assume H buys one of Corporation V's bonds in the secondary market in 1983. The bond H receives is in registered form, but H requests that V convert the obligation into bearer form. There is no other change in the terms of the instrument. The bond held by H is not considered issued after December 31, 1982, under § 5f.163-1(b)(4). 
+(ii) Assume H buys one of Corporation V's bonds in the secondary market in 1983. The bond H receives is in registered form, but H requests that V convert the obligation into bearer form. There is no other change in the terms of the instrument. The bond held by H is not considered issued after December 31, 1982, under § 5f.163-1(b)(4).
 
 (iii) Assume the same facts as in (ii) except that in 1984 I purchases H's V Corporation bond, which is in bearer form. I requests V to convert the bond into registered form. There is no other change in the terms of the instrument. In 1985, I requests V to convert the bond back into bearer form. Again, there is no other change in the terms of the instrument. The bond purchased by I is not considered issued after December 31, 1982, under § 5f.163-1(b)(4).
 

@@ -1,6 +1,6 @@
 ##### § 19-8.7 Submission of data.
 
-(a) *Period of coverage by submission.* Reporting carriers must file data for each calendar month as shown in Table 1 to paragraph (a). 
+(a) *Period of coverage by submission.* Reporting carriers must file data for each calendar month as shown in Table 1 to paragraph (a).
 
 Table 1 to Paragraph (a)
 | Data report | Time period covered      |
@@ -18,7 +18,7 @@ Table 1 to Paragraph (a)
 | November    | Nov 1 through Nov 30.    |
 | December    | Dec 1 through Dec 31.    |
 
-(b) *Filing date for data.* Reporting carriers must file data with the Department on or before the dates listed below, 45 days after the end of each reporting period. Reporting carriers must file all data through BTS approved channels as specified in accounting and reporting directives issued by BTS/OAI. 
+(b) *Filing date for data.* Reporting carriers must file data with the Department on or before the dates listed below, 45 days after the end of each reporting period. Reporting carriers must file all data through BTS approved channels as specified in accounting and reporting directives issued by BTS/OAI.
 
 Table 2 to Paragraph (b)
 | Report                                                                                                         | Due date 1    |
@@ -37,6 +37,6 @@ Table 2 to Paragraph (b)
 | December                                                                                                       | February 15.  |
 | 1 Due dates falling on Saturday, Sunday or national holiday will become effective the first following workday. |               |
 
-(c) *Waiver requests.* Requests for permission to depart from the required O&D Survey procedures should include a procedural statement describing the process the carrier proposes to employ in examining, selecting, and editing the data from reportable flight coupons for the O&D Survey, as well as a flow chart diagramming the proposed procedures. 
+(c) *Waiver requests.* Requests for permission to depart from the required O&D Survey procedures should include a procedural statement describing the process the carrier proposes to employ in examining, selecting, and editing the data from reportable flight coupons for the O&D Survey, as well as a flow chart diagramming the proposed procedures.
 
 (d) *Quantity and quality controls.* Carriers are expected to establish and maintain continuous quantity and quality controls on the flow of all lifted flight coupons through their system processes to determine the total number of coupons handled and the number of reportable coupons selected. Such data controls and tests have not been specified by the Department, and necessarily must be developed by each carrier. Each participating carrier shall develop and use on a continuous basis such control tests as are necessary to ensure that all reportable coupons are being selected, recorded, and reported as intended by these regulations, the *Instructions to Air Carriers for Collecting and Reporting Passenger Origin—Destination Survey Data,* and any related accounting and reporting directives. (Instructions and accounting and reporting directives are available from the Bureau of Transportation Statistics Office of Airline Information. Please visit *https://www.bts.gov/* or call 800-853-1351 for more information.) Such controls should extend over all ADP processing, both in-house and that from third-party service providers.

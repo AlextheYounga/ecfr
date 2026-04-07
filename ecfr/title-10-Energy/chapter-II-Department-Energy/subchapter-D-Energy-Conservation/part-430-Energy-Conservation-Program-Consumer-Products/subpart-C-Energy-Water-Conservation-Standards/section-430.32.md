@@ -6,55 +6,55 @@ The energy and water (in the case of faucets, showerheads, water closets, and ur
 
 (a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values. 
 
-(1) The following standards apply to products manufactured on or before September 15, 2014, and before the 2029/2030 compliance dates depending on product class (see paragraphs (a)(2) and (3) of this section). 
+(1) The following standards apply to products manufactured on or after September 15, 2014, and before the 2029/2030 compliance dates depending on product class (see paragraphs (a)(2) and (a)(3) of this section). 
 
 Table 1 to Paragraph (a)(1)
-| Product class                                                                                                                                       | Equations for maximum energy use   (kWh/yr) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| 1\. Refrigerators and refrigerator-freezers with manual defrost                                                                                     | 7.99AV + 225.0                              |
-| 1A. All-refrigerators—manual defrost                                                                                                                | 6.79AV + 193.6                              |
-| 2\. Refrigerator-freezers—partial automatic defrost                                                                                                 | 7.99AV + 225.0                              |
-| 3\. Refrigerator-freezers—automatic defrost with top-mounted freezer without an automatic icemaker                                                  | 8.07AV + 233.7                              |
-| 3-BI. Built-in refrigerator-freezer—automatic defrost with top-mounted freezer without an automatic icemaker                                        | 9.15AV + 264.9                              |
-| 3I. Refrigerator-freezers—automatic defrost with top-mounted freezer with an automatic icemaker without through-the-door ice service                | 8.07AV + 317.7                              |
-| 3I-BI. Built-in refrigerator-freezers—automatic defrost with top-mounted freezer with an automatic icemaker without through-the-door ice service    | 9.15AV + 348.9                              |
-| 3A. All-refrigerators—automatic defrost                                                                                                             | 7.07AV + 201.6                              |
-| 3A-BI. Built-in All-refrigerators—automatic defrost                                                                                                 | 8.02AV + 228.5                              |
-| 4\. Refrigerator-freezers—automatic defrost with side-mounted freezer without an automatic icemaker                                                 | 8.51AV + 297.8                              |
-| 4-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer without an automatic icemaker                                      | 10.22AV + 357.4                             |
-| 4I. Refrigerator-freezers—automatic defrost with side-mounted freezer with an automatic icemaker without through-the-door ice service               | 8.51AV + 381.8                              |
-| 4I-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer with an automatic icemaker without through-the-door ice service   | 10.22AV + 441.4.2                           |
-| 5\. Refrigerator-freezers—automatic defrost with bottom-mounted freezer without an automatic icemaker                                               | 8.85AV + 317.0                              |
-| 5-BI. Built-In Refrigerator-freezers—automatic defrost with bottom-mounted freezer without an automatic icemaker                                    | 9.40AV + 336.9                              |
-| 5I. Refrigerator-freezers—automatic defrost with bottom-mounted freezer with an automatic icemaker without through-the-door ice service             | 8.85AV + 401.0                              |
-| 5I-BI. Built-In Refrigerator-freezers—automatic defrost with bottom-mounted freezer with an automatic icemaker without through-the-door ice service | 9.40AV + 420.9                              |
-| 5A. Refrigerator-freezer—automatic defrost with bottom-mounted freezer with through-the-door ice service                                            | 9.25AV + 475.4                              |
-| 5A-BI. Built-in refrigerator-freezer—automatic defrost with bottom-mounted freezer with through-the-door ice service                                | 9.83AV + 499.9                              |
-| 6\. Refrigerator-freezers—automatic defrost with top-mounted freezer with through-the-door ice service                                              | 8.40AV + 385.4                              |
-| 7\. Refrigerator-freezers—automatic defrost with side-mounted freezer with through-the-door ice service                                             | 8.54AV + 432.8                              |
-| 7-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer with through-the-door ice service                                  | 10.25AV + 502.6                             |
-| 8\. Upright freezers with manual defrost                                                                                                            | 5.57AV + 193.7                              |
-| 9\. Upright freezers with automatic defrost without an automatic icemaker                                                                           | 8.62AV + 228.3                              |
-| 9I. Upright freezers with automatic defrost with an automatic icemaker                                                                              | 8.62AV + 312.3                              |
-| 9-BI. Built-In Upright freezers with automatic defrost without an automatic icemaker                                                                | 9.86AV + 260.9                              |
-| 9I-BI. Built-In Upright freezers with automatic defrost with an automatic icemaker                                                                  | 9.86AV + 344.9                              |
-| 10\. Chest freezers and all other freezers except compact freezers                                                                                  | 7.29AV + 107.8                              |
-| 10A. Chest freezers with automatic defrost                                                                                                          | 10.24AV + 148.1                             |
-| 11\. Compact refrigerators and refrigerator-freezers with manual defrost                                                                            | 9.03AV + 252.3                              |
-| 11A.Compact refrigerators and refrigerator-freezers with manual defrost                                                                             | 7.84AV + 219.1                              |
-| 12\. Compact refrigerator-freezers—partial automatic defrost                                                                                        | 5.91AV + 335.8                              |
-| 13\. Compact refrigerator-freezers—automatic defrost with top-mounted freezer                                                                       | 11.80AV + 339.2                             |
-| 13I. Compact refrigerator-freezers—automatic defrost with top-mounted freezer with an automatic icemaker                                            | 11.80AV + 423.2                             |
-| 13A. Compact all-refrigerator—automatic defrost                                                                                                     | 9.17AV + 259.3                              |
-| 14\. Compact refrigerator-freezers—automatic defrost with side-mounted freezer                                                                      | 6.82AV + 456.9                              |
-| 14I. Compact refrigerator-freezers—automatic defrost with side-mounted freezer with an automatic icemaker                                           | 6.82AV + 540.9                              |
-| 15\. Compact refrigerator-freezers—automatic defrost with bottom-mounted freezer                                                                    | 11.80AV + 339.2                             |
-| 15I. Compact refrigerator-freezers—automatic defrost with bottom-mounted freezer with an automatic icemaker                                         | 11.80AV + 423.2                             |
-| 16\. Compact upright freezers with manual defrost                                                                                                   | 8.65AV + 225.7                              |
-| 17\. Compact upright freezers with automatic defrost                                                                                                | 10.17AV + 351.9                             |
-| 18\. Compact chest freezers                                                                                                                         | 9.25AV + 136.8                              |
-| AV = Total adjusted volume, expressed in ft3, as determined in appendices A and B to subpart B of this part.                                        |                                             |
-| av = Total adjusted volume, expressed in Liters.                                                                                                    |                                             |
+| Product class                                                                                                                                       | Equations for maximum energy use (kWh/yr) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 1\. Refrigerators and refrigerator-freezers with manual defrost                                                                                     | 7.99AV + 225.0                            |
+| 1A. All-refrigerators—manual defrost                                                                                                                | 6.79AV + 193.6                            |
+| 2\. Refrigerator-freezers—partial automatic defrost                                                                                                 | 7.99AV + 225.0                            |
+| 3\. Refrigerator-freezers—automatic defrost with top-mounted freezer without an automatic icemaker                                                  | 8.07AV + 233.7                            |
+| 3-BI. Built-in refrigerator-freezer—automatic defrost with top-mounted freezer without an automatic icemaker                                        | 9.15AV + 264.9                            |
+| 3I. Refrigerator-freezers—automatic defrost with top-mounted freezer with an automatic icemaker without through-the-door ice service                | 8.07AV + 317.7                            |
+| 3I-BI. Built-in refrigerator-freezers—automatic defrost with top-mounted freezer with an automatic icemaker without through-the-door ice service    | 9.15AV + 348.9                            |
+| 3A. All-refrigerators—automatic defrost                                                                                                             | 7.07AV + 201.6                            |
+| 3A-BI. Built-in All-refrigerators—automatic defrost                                                                                                 | 8.02AV + 228.5                            |
+| 4\. Refrigerator-freezers—automatic defrost with side-mounted freezer without an automatic icemaker                                                 | 8.51AV + 297.8                            |
+| 4-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer without an automatic icemaker                                      | 10.22AV + 357.4                           |
+| 4I. Refrigerator-freezers—automatic defrost with side-mounted freezer with an automatic icemaker without through-the-door ice service               | 8.51AV + 381.8                            |
+| 4I-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer with an automatic icemaker without through-the-door ice service   | 10.22AV + 441.4                           |
+| 5\. Refrigerator-freezers—automatic defrost with bottom-mounted freezer without an automatic icemaker                                               | 8.85AV + 317.0                            |
+| 5-BI. Built-In Refrigerator-freezers—automatic defrost with bottom-mounted freezer without an automatic icemaker                                    | 9.40AV + 336.9                            |
+| 5I. Refrigerator-freezers—automatic defrost with bottom-mounted freezer with an automatic icemaker without through-the-door ice service             | 8.85AV + 401.0                            |
+| 5I-BI. Built-In Refrigerator-freezers—automatic defrost with bottom-mounted freezer with an automatic icemaker without through-the-door ice service | 9.40AV + 420.9                            |
+| 5A. Refrigerator-freezer—automatic defrost with bottom-mounted freezer with through-the-door ice service                                            | 9.25AV + 475.4                            |
+| 5A-BI. Built-in refrigerator-freezer—automatic defrost with bottom-mounted freezer with through-the-door ice service                                | 9.83AV + 499.9                            |
+| 6\. Refrigerator-freezers—automatic defrost with top-mounted freezer with through-the-door ice service                                              | 8.40AV + 385.4                            |
+| 7\. Refrigerator-freezers—automatic defrost with side-mounted freezer with through-the-door ice service                                             | 8.54AV + 432.8                            |
+| 7-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer with through-the-door ice service                                  | 10.25AV + 502.6                           |
+| 8\. Upright freezers with manual defrost                                                                                                            | 5.57AV + 193.7                            |
+| 9\. Upright freezers with automatic defrost without an automatic icemaker                                                                           | 8.62AV + 228.3                            |
+| 9I. Upright freezers with automatic defrost with an automatic icemaker                                                                              | 8.62AV + 312.3                            |
+| 9-BI. Built-In Upright freezers with automatic defrost without an automatic icemaker                                                                | 9.86AV + 260.9                            |
+| 9I-BI. Built-In Upright freezers with automatic defrost with an automatic icemaker                                                                  | 9.86AV + 344.9                            |
+| 10\. Chest freezers and all other freezers except compact freezers                                                                                  | 7.29AV + 107.8                            |
+| 10A. Chest freezers with automatic defrost                                                                                                          | 10.24AV + 148.1                           |
+| 11\. Compact refrigerators and refrigerator-freezers with manual defrost                                                                            | 9.03AV + 252.3                            |
+| 11A. Compact refrigerators and refrigerator-freezers with manual defrost                                                                            | 7.84AV + 219.1                            |
+| 12\. Compact refrigerator-freezers—partial automatic defrost                                                                                        | 5.91AV + 335.8                            |
+| 13\. Compact refrigerator-freezers—automatic defrost with top-mounted freezer                                                                       | 11.80AV + 339.2                           |
+| 13I. Compact refrigerator-freezers—automatic defrost with top-mounted freezer with an automatic icemaker                                            | 11.80AV + 423.2                           |
+| 13A. Compact all-refrigerator—automatic defrost                                                                                                     | 9.17AV + 259.3                            |
+| 14\. Compact refrigerator-freezers—automatic defrost with side-mounted freezer                                                                      | 6.82AV + 456.9                            |
+| 14I. Compact refrigerator-freezers—automatic defrost with side-mounted freezer with an automatic icemaker                                           | 6.82AV + 540.9                            |
+| 15\. Compact refrigerator-freezers—automatic defrost with bottom-mounted freezer                                                                    | 11.80AV + 339.2                           |
+| 15I. Compact refrigerator-freezers—automatic defrost with bottom-mounted freezer with an automatic icemaker                                         | 11.80AV + 423.2                           |
+| 16\. Compact upright freezers with manual defrost                                                                                                   | 8.65AV + 225.7                            |
+| 17\. Compact upright freezers with automatic defrost                                                                                                | 10.17AV + 351.9                           |
+| 18\. Compact chest freezers                                                                                                                         | 9.25AV + 136.8                            |
+| AV = Total adjusted volume, expressed in ft3, as determined in appendices A and B to subpart B of this part.                                        |                                           |
+| av = Total adjusted volume, expressed in Liters.                                                                                                    |                                           |
 
 (2) The following standards apply to products manufactured on or after January 31, 2029. 
 
@@ -251,7 +251,7 @@ Table 7 to Paragraph (b)(2)
 
 (ii) Any model of outdoor unit that has a certified combination with a rating below the applicable standard level(s) for a region cannot be installed in that region. The least-efficient combination of each basic model, which for single-split-system air conditioner (AC) with single-stage or two-stage compressor (including space-constrained and small-duct high velocity systems (SDHV)) must be a coil-only combination, must comply with the applicable standard. See 10 CFR 429.16(a)(1) and (a)(4)(i). 
 
-(d) *Water Heaters.* (1) The uniform energy factor of water heaters manufactured May 6, 2029 shall not be less than the following: 
+(d) *Water Heaters.* (1) The uniform energy factor of water heaters manufactured before May 6, 2029, shall not be less than the following: 
 
 | Product class                                                                                      | Rated storage volume   and input rating   (if applicable) | Draw pattern | Uniform energy factor 1 |
 | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------ | ----------------------- |
@@ -293,77 +293,78 @@ Table 7 to Paragraph (b)(2)
 |                                                                                                    |                                                           | High         | 0.9720 − (0.0007 × Vr)  |
 | 1 Vr is the rated storage volume (in gallons), as determined pursuant to § 429.17 of this chapter. |                                                           |              |                         |
 
-(2) The uniform energy factor of water heaters manufactured on or after May 6, 2029 shall not be less than the following: 
+(2) The uniform energy factor of water heaters manufactured on or after May 6, 2029, shall not be less than the following: 
 
-| Product class                                                                                            | Rated storage volume   and input rating   (if applicable)         | Draw pattern | Uniform energy factor 1  |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------ | ------------------------ |
-| Gas-fired Storage Water Heater                                                                           | <20 gal                                                           | Very Small   | 0.2062 − (0.0020 × Veff) |
-|                                                                                                          |                                                                   | Low          | 0.4893 − (0.0027 × Veff) |
-|                                                                                                          |                                                                   | Medium       | 0.5758 − (0.0023 × Veff) |
-|                                                                                                          |                                                                   | High         | 0.6586 − (0.0020 × Veff) |
-|                                                                                                          | ≥20 gal and ≤55 gal                                               | Very Small   | 0.3925 − (0.0020 × Veff) |
-|                                                                                                          |                                                                   | Low          | 0.6451 − (0.0019 × Veff) |
-|                                                                                                          |                                                                   | Medium       | 0.7046 − (0.0017 × Veff) |
-|                                                                                                          |                                                                   | High         | 0.7424 − (0.0013 × Veff) |
-|                                                                                                          | \>55 gal and ≤100 gal                                             | Very Small   | 0.6470 − (0.0006 × Veff) |
-|                                                                                                          |                                                                   | Low          | 0.7689 − (0.0005 × Veff) |
-|                                                                                                          |                                                                   | Medium       | 0.7897 − (0.0004 × Veff) |
-|                                                                                                          |                                                                   | High         | 0.8072 − (0.0003 × Veff) |
-|                                                                                                          | \>100 gal                                                         | Very Small   | 0.1482 − (0.0007 × Veff) |
-|                                                                                                          |                                                                   | Low          | 0.4342 − (0.0017 × Veff) |
-|                                                                                                          |                                                                   | Medium       | 0.5596 − (0.0020 × Veff) |
-|                                                                                                          |                                                                   | High         | 0.6658 − (0.0019 × Veff) |
-| Oil-fired Storage Water Heater                                                                           | ≤50 gal                                                           | Very Small   | 0.2909 − (0.0012 × Veff) |
-|                                                                                                          |                                                                   | Low          | 0.5730 − (0.0016 × Veff) |
-|                                                                                                          |                                                                   | Medium       | 0.6478 − (0.0016 × Veff) |
-|                                                                                                          |                                                                   | High         | 0.7215 − (0.0014 × Veff) |
-|                                                                                                          | \> 50 gal                                                         | Very Small   | 0.1580 − (0.0009 × Veff) |
-|                                                                                                          |                                                                   | Low          | 0.4390 − (0.0020 × Veff) |
-|                                                                                                          |                                                                   | Medium       | 0.5389 − (0.0021 × Veff) |
-|                                                                                                          |                                                                   | High         | 0.6172 − (0.0018 × Veff) |
-| Very Small Electric Storage Water Heater                                                                 | < 20 gal                                                          | Very Small   | 0.5925 − (0.0059 × Veff) |
-|                                                                                                          |                                                                   | Low          | 0.8642 − (0.0030 × Veff) |
-|                                                                                                          |                                                                   | Medium       | 0.9096 − (0.0020 × Veff) |
-|                                                                                                          |                                                                   | High         | 0.9430 − (0.0012 × Veff) |
-| Small Electric Storage Water Heater                                                                      | ≥20 gal and ≤35 gal                                               | Very Small   | 0.8808 − (0.0008 × Veff) |
-|                                                                                                          |                                                                   | Low          | 0.9254 − (0.0003 × Veff) |
-| Electric Storage Water Heaters                                                                           | \>20 and ≤55 gal (excluding small electric storage water heaters) | Very Small   | 2.30                     |
-|                                                                                                          |                                                                   | Low          | 2.30                     |
-|                                                                                                          |                                                                   | Medium       | 2.30                     |
-|                                                                                                          |                                                                   | High         | 2.30                     |
-|                                                                                                          | \>55 gal and ≤120 gal                                             | Very Small   | 2.50                     |
-|                                                                                                          |                                                                   | Low          | 2.50                     |
-|                                                                                                          |                                                                   | Medium       | 2.50                     |
-|                                                                                                          |                                                                   | High         | 2.50                     |
-|                                                                                                          | \>120 gal                                                         | Very Small   | 0.3574 − (0.0012 × Veff) |
-|                                                                                                          |                                                                   | Low          | 0.7897 − (0.0019 × Veff) |
-|                                                                                                          |                                                                   | Medium       | 0.8884 − (0.0017 × Veff) |
-|                                                                                                          |                                                                   | High         | 0.9575 − (0.0013 × Veff) |
-| Tabletop Water Heater                                                                                    | <20 gal                                                           | Very Small   | 0.5925 − (0.0059 × Veff) |
-|                                                                                                          |                                                                   | Low          | 0.8642 − (0.0030 × Veff) |
-|                                                                                                          | ≥20 gal                                                           | Very Small   | 0.6323 − (0.0058 × Veff) |
-|                                                                                                          |                                                                   | Low          | 0.9188 − (0.0031 × Veff) |
-| Instantaneous Oil-fired Water Heater                                                                     | <2 gal and ≤210,000 Btu/h                                         | Very Small   | 0.61                     |
-|                                                                                                          |                                                                   | Low          | 0.61                     |
-|                                                                                                          |                                                                   | Medium       | 0.61                     |
-|                                                                                                          |                                                                   | High         | 0.61                     |
-|                                                                                                          | ≥2 gal and ≤210,000 Btu/h                                         | Very Small   | 0.2780 − (0.0022 × Veff) |
-|                                                                                                          |                                                                   | Low          | 0.5151 − (0.0023 × Veff) |
-|                                                                                                          |                                                                   | Medium       | 0.5687 − (0.0021 × Veff) |
-|                                                                                                          |                                                                   | High         | 0.6147 − (0.0017 × Veff) |
-| Instantaneous Electric Water Heater                                                                      | <2 gal                                                            | Very Small   | 0.91                     |
-|                                                                                                          |                                                                   | Low          | 0.91                     |
-|                                                                                                          |                                                                   | Medium       | 0.91                     |
-|                                                                                                          |                                                                   | High         | 0.92                     |
-|                                                                                                          | ≥2 gal                                                            | Very Small   | 0.8086 − (0.0050 × Veff) |
-|                                                                                                          |                                                                   | Low          | 0.9123 − (0.0020 × Veff) |
-|                                                                                                          |                                                                   | Medium       | 0.9252 − (0.0015 × Veff) |
-|                                                                                                          |                                                                   | High         | 0.9350 − (0.0011 × Veff) |
-| Grid-Enabled Water Heater                                                                                | \>75 gal                                                          | Very Small   | 1.0136 − (0.0028 × Veff) |
-|                                                                                                          |                                                                   | Low          | 0.9984 − (0.0014 × Veff) |
-|                                                                                                          |                                                                   | Medium       | 0.9853 − (0.0010 × Veff) |
-|                                                                                                          |                                                                   | High         | 0.9720 − (0.0007 × Veff) |
-| 1 Veff is the Effective Storage Volume (in gallons), as determined pursuant to § 429.17 of this chapter. |                                                                   |              |                          |
+Table 14 to Paragraph (d)(2)
+| Product class                                                                                             | Effective storage volume and input rating   (if applicable)      | Draw pattern | Uniform energy factor \* |
+| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------ | ------------------------ |
+| Gas-fired Storage Water Heater                                                                            | <20 gal                                                          | Very Small   | 0.2062−(0.0020 × Veff)   |
+|                                                                                                           |                                                                  | Low          | 0.4893−(0.0027 × Veff)   |
+|                                                                                                           |                                                                  | Medium       | 0.5758−(0.0023 × Veff)   |
+|                                                                                                           |                                                                  | High         | 0.6586−(0.0020 × Veff)   |
+|                                                                                                           | ≥20 gal and ≤55 gal                                              | Very Small   | 0.3925−(0.0020 × Veff)   |
+|                                                                                                           |                                                                  | Low          | 0.6451−(0.0019 × Veff)   |
+|                                                                                                           |                                                                  | Medium       | 0.7046−(0.0017 × Veff)   |
+|                                                                                                           |                                                                  | High         | 0.7424−(0.0013 × Veff)   |
+|                                                                                                           | \>55 gal and ≤100 gal                                            | Very Small   | 0.6470−(0.0006 × Veff)   |
+|                                                                                                           |                                                                  | Low          | 0.7689−(0.0005 × Veff)   |
+|                                                                                                           |                                                                  | Medium       | 0.7897−(0.0004 × Veff)   |
+|                                                                                                           |                                                                  | High         | 0.8072−(0.0003 × Veff)   |
+|                                                                                                           | \>100 gal                                                        | Very Small   | 0.1482−(0.0007 × Veff)   |
+|                                                                                                           |                                                                  | Low          | 0.4342−(0.0017 × Veff)   |
+|                                                                                                           |                                                                  | Medium       | 0.5596−(0.0020 × Veff)   |
+|                                                                                                           |                                                                  | High         | 0.6658−(0.0019 × Veff)   |
+| Oil-fired Storage Water Heater                                                                            | ≤50 gal                                                          | Very Small   | 0.2909−(0.0012 × Veff)   |
+|                                                                                                           |                                                                  | Low          | 0.5730−(0.0016 × Veff)   |
+|                                                                                                           |                                                                  | Medium       | 0.6478−(0.0016 × Veff)   |
+|                                                                                                           |                                                                  | High         | 0.7215−(0.0014 × Veff)   |
+|                                                                                                           | \>50 gal                                                         | Very Small   | 0.1580−(0.0009 × Veff)   |
+|                                                                                                           |                                                                  | Low          | 0.4390−(0.0020 × Veff)   |
+|                                                                                                           |                                                                  | Medium       | 0.5389−(0.0021 × Veff)   |
+|                                                                                                           |                                                                  | High         | 0.6172−(0.0018 × Veff)   |
+| Very Small Electric Storage Water Heater                                                                  | <20 gal                                                          | Very Small   | 0.5925−(0.0059 × Veff)   |
+|                                                                                                           |                                                                  | Low          | 0.8642−(0.0030 × Veff)   |
+|                                                                                                           |                                                                  | Medium       | 0.9096−(0.0020 × Veff)   |
+|                                                                                                           |                                                                  | High         | 0.9430−(0.0012 × Veff)   |
+| Small Electric Storage Water Heater                                                                       | ≥20 gal and ≤35 gal                                              | Very Small   | 0.8808−(0.0008 × Veff)   |
+|                                                                                                           |                                                                  | Low          | 0.9254−(0.0003 × Veff)   |
+| Electric Storage Water Heaters                                                                            | ≥20 and ≤55 gal (excluding small electric storage water heaters) | Very Small   | 2.30                     |
+|                                                                                                           |                                                                  | Low          | 2.30                     |
+|                                                                                                           |                                                                  | Medium       | 2.30                     |
+|                                                                                                           |                                                                  | High         | 2.30                     |
+|                                                                                                           | \>55 gal and ≤120 gal                                            | Very Small   | 2.50                     |
+|                                                                                                           |                                                                  | Low          | 2.50                     |
+|                                                                                                           |                                                                  | Medium       | 2.50                     |
+|                                                                                                           |                                                                  | High         | 2.50                     |
+|                                                                                                           | \>120 gal                                                        | Very Small   | 0.3574−(0.0012 × Veff)   |
+|                                                                                                           |                                                                  | Low          | 0.7897−(0.0019 × Veff)   |
+|                                                                                                           |                                                                  | Medium       | 0.8884−(0.0017 × Veff)   |
+|                                                                                                           |                                                                  | High         | 0.9575−(0.0013 × Veff)   |
+| Tabletop Water Heater                                                                                     | <20 gal                                                          | Very Small   | 0.5925−(0.0059 × Veff)   |
+|                                                                                                           |                                                                  | Low          | 0.8642−(0.0030 × Veff)   |
+|                                                                                                           | ≥20 gal                                                          | Very Small   | 0.6323−(0.0058 × Veff)   |
+|                                                                                                           |                                                                  | Low          | 0.9188−(0.0031 × Veff)   |
+| Instantaneous Oil-fired Water Heater                                                                      | <2 gal and ≤210,000 Btu/h                                        | Very Small   | 0.61                     |
+|                                                                                                           |                                                                  | Low          | 0.61                     |
+|                                                                                                           |                                                                  | Medium       | 0.61                     |
+|                                                                                                           |                                                                  | High         | 0.61                     |
+|                                                                                                           | ≥2 gal and ≤210,000 Btu/h                                        | Very Small   | 0.2780−(0.0022 × Veff)   |
+|                                                                                                           |                                                                  | Low          | 0.5151−(0.0023 × Veff)   |
+|                                                                                                           |                                                                  | Medium       | 0.5687−(0.0021 × Veff)   |
+|                                                                                                           |                                                                  | High         | 0.6147−(0.0017 × Veff)   |
+| Instantaneous Electric Water Heater                                                                       | <2 gal                                                           | Very Small   | 0.91                     |
+|                                                                                                           |                                                                  | Low          | 0.91                     |
+|                                                                                                           |                                                                  | Medium       | 0.91                     |
+|                                                                                                           |                                                                  | High         | 0.92                     |
+|                                                                                                           | ≥2 gal                                                           | Very Small   | 0.8086−(0.0050 × Veff)   |
+|                                                                                                           |                                                                  | Low          | 0.9123−(0.0020 × Veff)   |
+|                                                                                                           |                                                                  | Medium       | 0.9252−(0.0015 × Veff)   |
+|                                                                                                           |                                                                  | High         | 0.9350−(0.0011 × Veff)   |
+| Grid-Enabled Water Heater                                                                                 | \>75 gal                                                         | Very Small   | 1.0136−(0.0028 × Veff)   |
+|                                                                                                           |                                                                  | Low          | 0.9984−(0.0014 × Veff)   |
+|                                                                                                           |                                                                  | Medium       | 0.9853−(0.0010 × Veff)   |
+|                                                                                                           |                                                                  | High         | 0.9720−(0.0007 × Veff)   |
+| \* Veff is the Effective Storage Volume (in gallons), as determined pursuant to § 429.17 of this chapter. |                                                                  |              |                          |
 
 (3) The provisions of paragraph (d) of this section are separate and severable from one another. Should a court of competent jurisdiction hold any provision(s) of paragraph (d) of this section to be stayed or invalid, such action shall not affect any other provision of paragraph (d) of this section. 
 

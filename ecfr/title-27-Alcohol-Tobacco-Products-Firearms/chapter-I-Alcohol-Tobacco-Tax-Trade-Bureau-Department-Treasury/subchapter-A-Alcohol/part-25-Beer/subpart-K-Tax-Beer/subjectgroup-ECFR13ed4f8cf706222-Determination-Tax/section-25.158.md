@@ -1,6 +1,6 @@
 ##### § 25.158 Tax computation for bottled beer.
 
-Barrel equivalents for various case sizes are as follows:
+Barrel equivalents for various case sizes are as follows: 
 
 (a) *For U.S. measure bottles.*
 
@@ -59,6 +59,6 @@ Barrel equivalents for various case sizes are as follows:
 | 2 liters                          | 6                          | 0.10226           |
 | 5 liters                          | 1                          | 0.04261           |
 
-(c) *For other case sizes.* If beer is to be removed in cases or bottles of sizes other than those listed in the above tables, the brewer shall notify the appropriate TTB officer in advance and request to be advised of the fractional barrel equivalent applicable to the proposed case size.
+(c) *For other case sizes.* If beer is to be removed in cases or bottles of sizes other than those listed in the above tables, the brewer shall notify the appropriate TTB officer in advance and request to be advised of the fractional barrel equivalent applicable to the proposed case size. 
 
 (26 U.S.C. 5412) \[T.D. ATF-345, 58 FR 40357, July 28, 1993\]

@@ -1,6 +1,6 @@
 ##### § 1.1031(d)-2 Treatment of assumption of liabilities.
 
-For the purposes of section 1031(d), the amount of any liabilities of the taxpayer assumed by the other party to the exchange (or of any liabilities to which the property exchanged by the taxpayer is subject) is to be treated as money received by the taxpayer upon the exchange, whether or not the assumption resulted in a recognition of gain or loss to the taxpayer under the law applicable to the year in which the exchange was made. The application of this section may be illustrated by the following examples: 
+For the purposes of section 1031(d), the amount of any liabilities of the taxpayer assumed by the other party to the exchange (or of any liabilities to which the property exchanged by the taxpayer is subject) is to be treated as money received by the taxpayer upon the exchange, whether or not the assumption resulted in a recognition of gain or loss to the taxpayer under the law applicable to the year in which the exchange was made. The application of this section may be illustrated by the following examples:
 
 Example 1.B, an individual, owns an apartment house which has an adjusted basis in his hands of $500,000, but which is subject to a mortgage of $150,000. On September 1, 1954, he transfers the apartment house to C, receiving in exchange therefor $50,000 in cash and another apartment house with a fair market value on that date of $600,000. The transfer to C is made subject to the $150,000 mortgage. B realizes a gain of $300,000 on the exchange, computed as follows:
 
@@ -21,7 +21,7 @@ Example 1.B, an individual, owns an apartment house which has an adjusted basis 
 
 Example 2.(a) D, an individual, owns an apartment house. On December 1, 1955, the apartment house owned by D has an adjusted basis in his hands of $100,000, a fair market value of $220,000, but is subject to a mortgage of $80,000. E, an individual, also owns an apartment house. On December 1, 1955, the apartment house owned by E has an adjusted basis of $175,000, a fair market value of $250,000, but is subject to a mortgage of $150,000. On December 1, 1955, D transfers his apartment house to E, receiving in exchange therefore $40,000 in cash and the apartment house owned by E. Each apartment house is transferred subject to the mortgage on it.
 
-(b) D realizes a gain of $120,000 on the exchange, computed as follows: 
+(b) D realizes a gain of $120,000 on the exchange, computed as follows:
 
 | Value of property received                                |          | $250,000 |
 | Cash                                                      | 40,000   |          |

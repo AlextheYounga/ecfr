@@ -1,6 +1,6 @@
 ##### § 20.119 Toilet preparations containing not less than 10% essential oils general-use formula.
 
-This general-use formula describes an article containing not less than 10% essential oils by volume made with a formulation of S.D.A. authorized for that article on the following list:
+This general-use formula describes an article containing not less than 10% essential oils by volume made with a formulation of S.D.A. authorized for that article on the following list: 
 
 | Article                                   | Product code No. | Formula authorized                                                                 |
 | ----------------------------------------- | ---------------- | ---------------------------------------------------------------------------------- |

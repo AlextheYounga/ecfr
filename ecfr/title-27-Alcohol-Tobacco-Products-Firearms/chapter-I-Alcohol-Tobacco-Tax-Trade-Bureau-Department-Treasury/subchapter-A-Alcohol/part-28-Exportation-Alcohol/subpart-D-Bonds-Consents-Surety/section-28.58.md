@@ -1,10 +1,10 @@
 ##### § 28.58 Operations or unit bond—distilled spirits.
 
-(a) *Spirits.* Where, as authorized in § 28.91, spirits are withdrawn without payment of tax, from the bonded premises of a distilled spirits plant on notice of the proprietor thereof, the approved operations or unit bond must cover such withdrawals if the proprietor is required to give a bond under part 19 of this chapter.
+(a) *Spirits.* Where, as authorized in § 28.91, spirits are withdrawn without payment of tax, from the bonded premises of a distilled spirits plant on notice of the proprietor thereof, the approved operations or unit bond must cover such withdrawals if the proprietor is required to give a bond under part 19 of this chapter. 
 
-(b) *Wine.* Where the provisions of part 19 of this chapter require an operations or unit bond to be given and approved to cover the operations of a distilled spirits plant and an adjacent bonded wine cellar, such bond will cover the withdrawal of wine without payment of tax, as authorized in § 28.121, from such bonded wine cellar on application for such withdrawal by the proprietor.
+(b) *Wine.* Where the provisions of part 19 of this chapter require an operations or unit bond to be given and approved to cover the operations of a distilled spirits plant and an adjacent bonded wine cellar, such bond will cover the withdrawal of wine without payment of tax, as authorized in § 28.121, from such bonded wine cellar on application for such withdrawal by the proprietor. 
 
-(c) *Specially denatured spirits.* Where specially denatured spirits are withdrawn free of tax, as authorized in § 28.151, from the bonded premises of a distilled spirits plant on application of the proprietor thereof, the proprietor shall file a consent of surety extending the terms of the operations or unit bond, which consent shall be in the following form:
+(c) *Specially denatured spirits.* Where specially denatured spirits are withdrawn free of tax, as authorized in § 28.151, from the bonded premises of a distilled spirits plant on application of the proprietor thereof, the proprietor shall file a consent of surety extending the terms of the operations or unit bond, which consent shall be in the following form: 
 
 The obligors agree to extend the terms of said bond to cover all liability that may be incurred on all specially denatured spirits withdrawn by the principal for exportation or transfer to a foreign-trade zone, for which satisfactory evidence of exportation, or of deposit in a foreign-trade zone, as required by law and regulations, is not submitted to the appropriate TTB officer.
 

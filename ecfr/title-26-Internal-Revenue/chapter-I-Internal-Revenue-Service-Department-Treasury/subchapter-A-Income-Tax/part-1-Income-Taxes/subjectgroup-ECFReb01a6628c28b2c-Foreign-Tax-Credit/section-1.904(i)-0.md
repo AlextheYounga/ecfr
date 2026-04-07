@@ -1,30 +1,30 @@
 ##### § 1.904(i)-0 Outline of regulation provisions.
 
-This section lists the headings for § 1.904(i)-1. 
+This section lists the headings for § 1.904(i)-1.
 
 § 1.904(i)-1 Limitation on use of deconsolidation to avoid foreign tax credit limitations.
 
-(a) General rule. 
+(a) General rule.
 
-(1) Determination of taxable income. 
+(1) Determination of taxable income.
 
-(2) Allocation. 
+(2) Allocation.
 
-(b) Definitions and special rules. 
+(b) Definitions and special rules.
 
-(1) Affiliate. 
+(1) Affiliate.
 
-(i) Generally. 
+(i) Generally.
 
-(ii) Rules for consolidated groups. 
+(ii) Rules for consolidated groups.
 
-(iii) Exception for newly acquired affiliates. 
+(iii) Exception for newly acquired affiliates.
 
-(2) Includible corporation. 
+(2) Includible corporation.
 
-(c) Taxable years. 
+(c) Taxable years.
 
-(d) Consistent treatment of foreign taxes paid. 
+(d) Consistent treatment of foreign taxes paid.
 
 (e) Effective date.
 

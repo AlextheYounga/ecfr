@@ -1,8 +1,8 @@
 ##### § 5.147 Rum.
 
-(a) *The class rum.* “Rum” is distilled spirits that is distilled from the fermented juice of sugar cane, sugar cane syrup, sugar cane molasses, or other sugar cane by-products at less than 95 percent alcohol by volume (190° proof) having the taste, aroma, and characteristics generally attributed to rum, and bottled at not less than 40 percent alcohol by volume (80° proof); and also includes mixtures solely of such spirits. All rum may be designated as “rum” on the label, even if it also meets the standards for a specific type of rum.
+(a) *The class rum.* “Rum” is distilled spirits that is distilled from the fermented juice of sugar cane, sugar cane syrup, sugar cane molasses, or other sugar cane by-products at less than 95 percent alcohol by volume (190° proof) having the taste, aroma, and characteristics generally attributed to rum, and bottled at not less than 40 percent alcohol by volume (80° proof); and also includes mixtures solely of such spirits. All rum may be designated as “rum” on the label, even if it also meets the standards for a specific type of rum. 
 
-(b) *Types.* Paragraph (b)(1) of this section describes a specific type of rum and the standards for that type.
+(b) *Types.* Paragraph (b)(1) of this section describes a specific type of rum and the standards for that type. 
 
 | Type             | Standards                                                                                                                                                                                                                                                                                                                                        |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -1,136 +1,136 @@
 ##### § 26.21 Limit of validity.
 
-(a) *Applicability.* Except as provided in paragraph (g) of this section, this section applies to transport category, turbine-powered airplanes with a maximum takeoff gross weight greater than 75,000 pounds and a type certificate issued after January 1, 1958, regardless of whether the maximum takeoff gross weight is a result of an original type certificate or a later design change. This section also applies to transport category, turbine-powered airplanes with a type certificate issued after January 1, 1958, if a design change approval for which application is made after January 14, 2011 has the effect of reducing the maximum takeoff gross weight from greater than 75,000 pounds to 75,000 pounds or less. 
+(a) *Applicability.* Except as provided in paragraph (g) of this section, this section applies to transport category, turbine-powered airplanes with a maximum takeoff gross weight greater than 75,000 pounds and a type certificate issued after January 1, 1958, regardless of whether the maximum takeoff gross weight is a result of an original type certificate or a later design change. This section also applies to transport category, turbine-powered airplanes with a type certificate issued after January 1, 1958, if a design change approval for which application is made after January 14, 2011 has the effect of reducing the maximum takeoff gross weight from greater than 75,000 pounds to 75,000 pounds or less.
 
-(b) *Limit of validity.* Each person identified in paragraph (c) of this section must comply with the following requirements: 
+(b) *Limit of validity.* Each person identified in paragraph (c) of this section must comply with the following requirements:
 
-(1) Establish a limit of validity of the engineering data that supports the structural maintenance program (hereafter referred to as LOV) that corresponds to the period of time, stated as a number of total accumulated flight cycles or flight hours or both, during which it is demonstrated that widespread fatigue damage will not occur in the airplane. This demonstration must include an evaluation of airplane structural configurations and be supported by test evidence and analysis at a minimum and, if available, service experience, or service experience and teardown inspection results, of high-time airplanes of similar structural design, accounting for differences in operating conditions and procedures. The airplane structural configurations to be evaluated include— 
+(1) Establish a limit of validity of the engineering data that supports the structural maintenance program (hereafter referred to as LOV) that corresponds to the period of time, stated as a number of total accumulated flight cycles or flight hours or both, during which it is demonstrated that widespread fatigue damage will not occur in the airplane. This demonstration must include an evaluation of airplane structural configurations and be supported by test evidence and analysis at a minimum and, if available, service experience, or service experience and teardown inspection results, of high-time airplanes of similar structural design, accounting for differences in operating conditions and procedures. The airplane structural configurations to be evaluated include—
 
-(i) All model variations and derivatives approved under the type certificate; and 
+(i) All model variations and derivatives approved under the type certificate; and
 
-(ii) All structural modifications to and replacements for the airplane structural configurations specified in paragraph (b)(1)(i) of this section, mandated by airworthiness directives as of January 14, 2011. 
+(ii) All structural modifications to and replacements for the airplane structural configurations specified in paragraph (b)(1)(i) of this section, mandated by airworthiness directives as of January 14, 2011.
 
-(2) If the LOV depends on performance of maintenance actions for which service information has not been mandated by airworthiness directive as of January 14, 2011, submit the following to the responsible Aircraft Certification Service office: 
+(2) If the LOV depends on performance of maintenance actions for which service information has not been mandated by airworthiness directive as of January 14, 2011, submit the following to the responsible Aircraft Certification Service office:
 
-(i) For those maintenance actions for which service information has been issued as of the applicable compliance date specified in paragraph (c) of this section, a list identifying each of those actions. 
+(i) For those maintenance actions for which service information has been issued as of the applicable compliance date specified in paragraph (c) of this section, a list identifying each of those actions.
 
-(ii) For those maintenance actions for which service information has not been issued as of the applicable compliance date specified in paragraph (c) of this section, a list identifying each of those actions and a binding schedule for providing in a timely manner the necessary service information for those actions. Once the responsible Aircraft Certification Service office approves this schedule, each person identified in paragraph (c) of this section must comply with that schedule. 
+(ii) For those maintenance actions for which service information has not been issued as of the applicable compliance date specified in paragraph (c) of this section, a list identifying each of those actions and a binding schedule for providing in a timely manner the necessary service information for those actions. Once the responsible Aircraft Certification Service office approves this schedule, each person identified in paragraph (c) of this section must comply with that schedule.
 
-(3) Unless previously accomplished, establish an Airworthiness Limitations section (ALS) for each airplane structural configuration evaluated under paragraph (b)(1) of this section. 
+(3) Unless previously accomplished, establish an Airworthiness Limitations section (ALS) for each airplane structural configuration evaluated under paragraph (b)(1) of this section.
 
-(4) Incorporate the applicable LOV established under paragraph (b)(1) of this section into the ALS for each airplane structural configuration evaluated under paragraph (b)(1) and submit it to the responsible Aircraft Certification Service office for approval. 
+(4) Incorporate the applicable LOV established under paragraph (b)(1) of this section into the ALS for each airplane structural configuration evaluated under paragraph (b)(1) and submit it to the responsible Aircraft Certification Service office for approval.
 
-(c) *Persons who must comply and compliance dates.* The following persons must comply with the requirements of paragraph (b) of this section by the specified date. 
+(c) *Persons who must comply and compliance dates.* The following persons must comply with the requirements of paragraph (b) of this section by the specified date.
 
-(1) Holders of type certificates (TC) of airplane models identified in Table 1 of this section: No later than the applicable date identified in Table 1 of this section. 
+(1) Holders of type certificates (TC) of airplane models identified in Table 1 of this section: No later than the applicable date identified in Table 1 of this section.
 
-(2) Applicants for TCs, if the date of application was before January 14, 2011: No later than the latest of the following dates: 
+(2) Applicants for TCs, if the date of application was before January 14, 2011: No later than the latest of the following dates:
 
-(i) January 14, 2016; 
+(i) January 14, 2016;
 
-(ii) The date the certificate is issued; or 
+(ii) The date the certificate is issued; or
 
-(iii) The date specified in the plan approved under § 25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure. 
+(iii) The date specified in the plan approved under § 25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
 
-(3) Applicants for amendments to TCs, with the exception of amendments to TCs specified in paragraphs (c)(6) or (c)(7) of this section, if the original TC was issued before January 14, 2011: No later than the latest of the following dates: 
+(3) Applicants for amendments to TCs, with the exception of amendments to TCs specified in paragraphs (c)(6) or (c)(7) of this section, if the original TC was issued before January 14, 2011: No later than the latest of the following dates:
 
-(i) January 14, 2016; 
+(i) January 14, 2016;
 
-(ii) The date the amended certificate is issued; or 
+(ii) The date the amended certificate is issued; or
 
-(iii) The date specified in the plan approved under § 25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure. 
+(iii) The date specified in the plan approved under § 25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
 
-(4) Applicants for amendments to TCs, with the exception of amendments to TCs specified in paragraphs (c)(6) or (c)(7) of this section, if the application for the original TC was made before January 14, 2011 but the TC was not issued before January 14, 2011: No later than the latest of the following dates: 
+(4) Applicants for amendments to TCs, with the exception of amendments to TCs specified in paragraphs (c)(6) or (c)(7) of this section, if the application for the original TC was made before January 14, 2011 but the TC was not issued before January 14, 2011: No later than the latest of the following dates:
 
-(i) January 14, 2016; 
+(i) January 14, 2016;
 
-(ii) The date the amended certificate is issued; or 
+(ii) The date the amended certificate is issued; or
 
-(iii) The date specified in the plan approved under § 25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure. 
+(iii) The date specified in the plan approved under § 25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
 
-(5) Holders of either supplemental type certificates (STCs) or amendments to TCs that increase maximum takeoff gross weights from 75,000 pounds or less to greater than 75,000 pounds: No later than July 14, 2012. 
+(5) Holders of either supplemental type certificates (STCs) or amendments to TCs that increase maximum takeoff gross weights from 75,000 pounds or less to greater than 75,000 pounds: No later than July 14, 2012.
 
-(6) Applicants for either STCs or amendments to TCs that increase maximum takeoff gross weights from 75,000 pounds or less to greater than 75,000 pounds: No later than the latest of the following dates: 
+(6) Applicants for either STCs or amendments to TCs that increase maximum takeoff gross weights from 75,000 pounds or less to greater than 75,000 pounds: No later than the latest of the following dates:
 
-(i) July 14, 2012; 
+(i) July 14, 2012;
 
-(ii) The date the certificate is issued; or 
+(ii) The date the certificate is issued; or
 
-(iii) The date specified in the plan approved under § 25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure. 
+(iii) The date specified in the plan approved under § 25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
 
-(7) Applicants for either STCs or amendments to TCs that decrease maximum takeoff gross weights from greater than 75,000 pounds to 75,000 pounds or less, if the date of application was after January 14, 2011: No later than the latest of the following dates: 
+(7) Applicants for either STCs or amendments to TCs that decrease maximum takeoff gross weights from greater than 75,000 pounds to 75,000 pounds or less, if the date of application was after January 14, 2011: No later than the latest of the following dates:
 
-(i) July 14, 2012; 
+(i) July 14, 2012;
 
-(ii) The date the certificate is issued; or 
+(ii) The date the certificate is issued; or
 
-(iii) The date specified in the plan approved under § 25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure. 
+(iii) The date specified in the plan approved under § 25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
 
-(d) *Compliance plan.* Each person identified in paragraph (e) of this section must submit a compliance plan consisting of the following: 
+(d) *Compliance plan.* Each person identified in paragraph (e) of this section must submit a compliance plan consisting of the following:
 
-(1) A proposed project schedule, identifying all major milestones, for meeting the compliance dates specified in paragraph (c) of this section. 
+(1) A proposed project schedule, identifying all major milestones, for meeting the compliance dates specified in paragraph (c) of this section.
 
-(2) A proposed means of compliance with paragraphs (b)(1) through (b)(4) of this section. 
+(2) A proposed means of compliance with paragraphs (b)(1) through (b)(4) of this section.
 
-(3) A proposal for submitting a draft of all compliance items required by paragraph (b) of this section for review by the responsible Aircraft Certification Service office not less than 60 days before the compliance date specified in paragraph (c) of this section, as applicable. 
+(3) A proposal for submitting a draft of all compliance items required by paragraph (b) of this section for review by the responsible Aircraft Certification Service office not less than 60 days before the compliance date specified in paragraph (c) of this section, as applicable.
 
-(4) A proposal for how the LOV will be distributed. 
+(4) A proposal for how the LOV will be distributed.
 
-(e) *Compliance dates for compliance plans.* The following persons must submit the compliance plan described in paragraph (d) of this section to the responsible Aircraft Certification Service office by the specified date. 
+(e) *Compliance dates for compliance plans.* The following persons must submit the compliance plan described in paragraph (d) of this section to the responsible Aircraft Certification Service office by the specified date.
 
-(1) Holders of type certificates: No later than April 14, 2011. 
+(1) Holders of type certificates: No later than April 14, 2011.
 
-(2) Applicants for TCs and amendments to TCs, with the exception of amendments to TCs specified in paragraphs (e)(4), (e)(5), or (e)(6) of this section, if the date of application was before January 14, 2011 but the TC or TC amendment was not issued before January 14, 2011: No later than April 14, 2011. 
+(2) Applicants for TCs and amendments to TCs, with the exception of amendments to TCs specified in paragraphs (e)(4), (e)(5), or (e)(6) of this section, if the date of application was before January 14, 2011 but the TC or TC amendment was not issued before January 14, 2011: No later than April 14, 2011.
 
-(3) Holders of either supplemental type certificates or amendments to TCs that increase maximum takeoff gross weights from 75,000 pounds or less to greater than 75,000 pounds: No later than April 14, 2011. 
+(3) Holders of either supplemental type certificates or amendments to TCs that increase maximum takeoff gross weights from 75,000 pounds or less to greater than 75,000 pounds: No later than April 14, 2011.
 
-(4) Applicants for either STCs or amendments to TCs that increase maximum takeoff gross weights from 75,000 pounds or less to greater than 75,000 pounds, if the date of application was before January 14, 2011: No later than April 14, 2011. 
+(4) Applicants for either STCs or amendments to TCs that increase maximum takeoff gross weights from 75,000 pounds or less to greater than 75,000 pounds, if the date of application was before January 14, 2011: No later than April 14, 2011.
 
-(5) Applicants for either STCs or amendments to TCs that increase maximum takeoff gross weights from 75,000 pounds or less to greater than 75,000 pounds, if the date of application is on or after January 14, 2011: Within 90 days after the date of application. 
+(5) Applicants for either STCs or amendments to TCs that increase maximum takeoff gross weights from 75,000 pounds or less to greater than 75,000 pounds, if the date of application is on or after January 14, 2011: Within 90 days after the date of application.
 
-(6) Applicants for either STCs or amendments to TCs that decrease maximum takeoff gross weights from greater than 75,000 pounds to 75,000 pounds or less, if the date of application is on or after January 14, 2011: Within 90 days after the date of application. 
+(6) Applicants for either STCs or amendments to TCs that decrease maximum takeoff gross weights from greater than 75,000 pounds to 75,000 pounds or less, if the date of application is on or after January 14, 2011: Within 90 days after the date of application.
 
-(f) *Compliance plan implementation.* Each affected person must implement the compliance plan as approved in compliance with paragraph (d) of this section. 
+(f) *Compliance plan implementation.* Each affected person must implement the compliance plan as approved in compliance with paragraph (d) of this section.
 
-(g) *Exceptions.* This section does not apply to the following airplane models: 
+(g) *Exceptions.* This section does not apply to the following airplane models:
 
-(1) Bombardier BD-700. 
+(1) Bombardier BD-700.
 
-(2) Bombardier CL-44. 
+(2) Bombardier CL-44.
 
-(3) Gulfstream GV. 
+(3) Gulfstream GV.
 
-(4) Gulfstream GV-SP. 
+(4) Gulfstream GV-SP.
 
-(5) British Aerospace, Aircraft Group, and Societe Nationale Industrielle Aerospatiale Concorde Type 1. 
+(5) British Aerospace, Aircraft Group, and Societe Nationale Industrielle Aerospatiale Concorde Type 1.
 
-(6) British Aerospace (Commercial Aircraft) Ltd., Armstrong Whitworth Argosy A.W. 650 Series 101. 
+(6) British Aerospace (Commercial Aircraft) Ltd., Armstrong Whitworth Argosy A.W. 650 Series 101.
 
-(7) British Aerospace Airbus, Ltd., BAC 1-11. 
+(7) British Aerospace Airbus, Ltd., BAC 1-11.
 
-(8) BAE Systems (Operations) Ltd., BAe 146. 
+(8) BAE Systems (Operations) Ltd., BAe 146.
 
-(9) BAE Systems (Operations) Ltd., Avro 146. 
+(9) BAE Systems (Operations) Ltd., Avro 146.
 
-(10) Lockheed 300-50A01 (USAF C141A). 
+(10) Lockheed 300-50A01 (USAF C141A).
 
-(11) Boeing 707. 
+(11) Boeing 707.
 
-(12) Boeing 720. 
+(12) Boeing 720.
 
-(13) deHavilland D.H. 106 Comet 4C. 
+(13) deHavilland D.H. 106 Comet 4C.
 
-(14) Ilyushin Aviation IL-96T. 
+(14) Ilyushin Aviation IL-96T.
 
-(15) Bristol Aircraft Britannia 305. 
+(15) Bristol Aircraft Britannia 305.
 
-(16) Avions Marcel Dassault-Breguet Aviation Mercure 100C. 
+(16) Avions Marcel Dassault-Breguet Aviation Mercure 100C.
 
-(17) Airbus Caravelle. 
+(17) Airbus Caravelle.
 
-(18) D & R Nevada, LLC, Convair Model 22. 
+(18) D & R Nevada, LLC, Convair Model 22.
 
-(19) D & R Nevada, LLC, Convair Model 23M. 
+(19) D & R Nevada, LLC, Convair Model 23M.
 
 Table 1—Compliance Dates for Affected Airplanes
 | Airplane model   (all existing 1 models)                                           | Compliance date—   (months after January 14, 2011) |

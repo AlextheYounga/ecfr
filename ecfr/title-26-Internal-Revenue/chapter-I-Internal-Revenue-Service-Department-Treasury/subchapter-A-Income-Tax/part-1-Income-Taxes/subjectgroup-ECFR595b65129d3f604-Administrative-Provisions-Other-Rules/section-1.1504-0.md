@@ -1,134 +1,134 @@
 ##### § 1.1504-0 Outline of provisions.
 
-In order to facilitate the use of §§ 1.1504-1 through 1.1504-4, this section lists the captions contained in §§ 1.1504-1 through 1.1504-4. 
+In order to facilitate the use of §§ 1.1504-1 through 1.1504-4, this section lists the captions contained in §§ 1.1504-1 through 1.1504-4.
 
 § 1.1504-1 Definitions. §§ 1.1504-2—1.1504-3 \[Reserved\] § 1.1504-4 Treatment of warrants, options, convertible obligations, and other similar interests.
 
-(a) Introduction. 
+(a) Introduction.
 
-(1) General rule. 
+(1) General rule.
 
-(2) Exceptions. 
+(2) Exceptions.
 
-(b) Options not treated as stock or as exercised. 
+(b) Options not treated as stock or as exercised.
 
-(1) General rule. 
+(1) General rule.
 
-(2) Options treated as exercised. 
+(2) Options treated as exercised.
 
-(i) In general. 
+(i) In general.
 
-(ii) Aggregation of options. 
+(ii) Aggregation of options.
 
-(iii) Effect of treating option as exercised. 
+(iii) Effect of treating option as exercised.
 
-(A) In general. 
+(A) In general.
 
-(B) Cash settlement options, phantom stock, stock appreciation rights, or similar interests. 
+(B) Cash settlement options, phantom stock, stock appreciation rights, or similar interests.
 
-(iv) Valuation. 
+(iv) Valuation.
 
-(3) Example. 
+(3) Example.
 
-(c) Definitions. 
+(c) Definitions.
 
-(1) Issuing corporation. 
+(1) Issuing corporation.
 
-(2) Related or sequential option. 
+(2) Related or sequential option.
 
-(3) Related persons. 
+(3) Related persons.
 
-(4) Measurement date. 
+(4) Measurement date.
 
-(i) General rule. 
+(i) General rule.
 
-(ii) Issuances, transfers, or adjustments not treated as measurement dates. 
+(ii) Issuances, transfers, or adjustments not treated as measurement dates.
 
-(iii) Transactions increasing likelihood of exercise. 
+(iii) Transactions increasing likelihood of exercise.
 
-(iv) Measurement date for options issued pursuant to a plan. 
+(iv) Measurement date for options issued pursuant to a plan.
 
-(v) Measurement date for related or sequential options. 
+(v) Measurement date for related or sequential options.
 
-(vi) Example. 
+(vi) Example.
 
-(5) In-the-money. 
+(5) In-the-money.
 
-(d) Options. 
+(d) Options.
 
-(1) Instruments treated as options. 
+(1) Instruments treated as options.
 
-(2) Instruments generally not treated as options. 
+(2) Instruments generally not treated as options.
 
-(i) Options on section 1504(a)(4) stock. 
+(i) Options on section 1504(a)(4) stock.
 
-(ii) Certain publicly traded options. 
+(ii) Certain publicly traded options.
 
-(A) General rule. 
+(A) General rule.
 
-(B) Exception. 
+(B) Exception.
 
-(iii) Stock purchase agreements. 
+(iii) Stock purchase agreements.
 
-(iv) Escrow, pledge, or other security agreements. 
+(iv) Escrow, pledge, or other security agreements.
 
-(v) Compensatory options. 
+(v) Compensatory options.
 
-(A) General rule. 
+(A) General rule.
 
-(B) Exceptions. 
+(B) Exceptions.
 
-(vi) Options granted in connection with a loan. 
+(vi) Options granted in connection with a loan.
 
-(vii) Options created pursuant to a title 11 or similar case. 
+(vii) Options created pursuant to a title 11 or similar case.
 
-(viii) Convertible preferred stock. 
+(viii) Convertible preferred stock.
 
-(ix) Other enumerated instruments. 
+(ix) Other enumerated instruments.
 
-(e) Elimination of federal income tax liability. 
+(e) Elimination of federal income tax liability.
 
-(f) Substantial amount of federal income tax liability. 
+(f) Substantial amount of federal income tax liability.
 
-(g) Reasonable certainty of exercise. 
+(g) Reasonable certainty of exercise.
 
-(1) Generally. 
+(1) Generally.
 
-(i) Purchase price. 
+(i) Purchase price.
 
-(ii) In-the-money option. 
+(ii) In-the-money option.
 
-(iii) Not in-the-money option. 
+(iii) Not in-the-money option.
 
-(iv) Exercise price. 
+(iv) Exercise price.
 
-(v) Time of exercise. 
+(v) Time of exercise.
 
-(vi) Related or sequential options. 
+(vi) Related or sequential options.
 
-(vii) Stockholder rights. 
+(vii) Stockholder rights.
 
-(viii) Restrictive covenants. 
+(viii) Restrictive covenants.
 
-(ix) Intention to alter value. 
+(ix) Intention to alter value.
 
-(x) Contingencies. 
+(x) Contingencies.
 
-(2) Cash settlement options, phantom stock, stock appreciation rights, or similar interests. 
+(2) Cash settlement options, phantom stock, stock appreciation rights, or similar interests.
 
-(3) Safe harbors. 
+(3) Safe harbors.
 
-(i) Options to acquire stock. 
+(i) Options to acquire stock.
 
-(ii) Options to sell stock. 
+(ii) Options to sell stock.
 
-(iii) Options exercisable at fair market value. 
+(iii) Options exercisable at fair market value.
 
-(iv) Exceptions. 
+(iv) Exceptions.
 
-(v) Failure to satisfy safe harbor. 
+(v) Failure to satisfy safe harbor.
 
-(h) Examples. 
+(h) Examples.
 
 (i) Effective date.
 

@@ -1,20 +1,20 @@
 ##### § 46.75 Required information for claim.
 
-The claim should contain the following information:
+The claim should contain the following information: 
 
-(a) That the tax on such tobacco products, or cigarette papers or tubes has been paid or determined and customs duty has been paid;
+(a) That the tax on such tobacco products, or cigarette papers or tubes has been paid or determined and customs duty has been paid; 
 
-(b) That such tobacco products, or cigarette papers or tubes were lost, rendered unmarketable, or condemned by a duly authorized official, by reason of a disaster;
+(b) That such tobacco products, or cigarette papers or tubes were lost, rendered unmarketable, or condemned by a duly authorized official, by reason of a disaster; 
 
-(c) The type and date of occurrence of the disaster and the location of the tobacco products, or cigarette papers or tubes at that time;
+(c) The type and date of occurrence of the disaster and the location of the tobacco products, or cigarette papers or tubes at that time; 
 
-(d) That the claimant was not indemnified by any valid claim of insurance or otherwise in respect of the tax, or tax and duty, on the tobacco products, or cigarette papers or tubes covered by the claim;
+(d) That the claimant was not indemnified by any valid claim of insurance or otherwise in respect of the tax, or tax and duty, on the tobacco products, or cigarette papers or tubes covered by the claim; 
 
-(e) That no amount of internal revenue tax or customs duty claimed has been or will be otherwise claimed under any other provision of law or regulations,
+(e) That no amount of internal revenue tax or customs duty claimed has been or will be otherwise claimed under any other provision of law or regulations, 
 
-(f) That the claimant is entitled to payment under this subpart, and
+(f) That the claimant is entitled to payment under this subpart, and 
 
-(g) The claim must set forth the quantity and kind of tobacco products and cigarette papers and tubes in sufficient detail to calculate the amount of tax and duty paid on these products, substantially as shown in the examples below:
+(g) The claim must set forth the quantity and kind of tobacco products and cigarette papers and tubes in sufficient detail to calculate the amount of tax and duty paid on these products, substantially as shown in the examples below: 
 
 \[Example using rates for 2002 and After\]
 | Quantity      | Article                               | Rate of tax           | Amount   |

@@ -1,6 +1,6 @@
 ##### § 21.141 List of products and processes using specially denatured alcohol and rum, and formulas authorized therefor.
 
-This section lists, alphabetically by product or process, formulas of specially denatured alcohol authorized for use in those products or processes, and lists the code numbers assigned thereto. Specially denatured rum, as well as specially denatured alcohol, may be used in tobacco sprays and flavors, Code No. 460, under Formula No. 4.
+This section lists, alphabetically by product or process, formulas of specially denatured alcohol authorized for use in those products or processes, and lists the code numbers assigned thereto. Specially denatured rum, as well as specially denatured alcohol, may be used in tobacco sprays and flavors, Code No. 460, under Formula No. 4. 
 
 Uses of Specially Denatured Alcohol 1
 | Product or process                                                                                                                  | Code No. | Formulas authorized                                                |

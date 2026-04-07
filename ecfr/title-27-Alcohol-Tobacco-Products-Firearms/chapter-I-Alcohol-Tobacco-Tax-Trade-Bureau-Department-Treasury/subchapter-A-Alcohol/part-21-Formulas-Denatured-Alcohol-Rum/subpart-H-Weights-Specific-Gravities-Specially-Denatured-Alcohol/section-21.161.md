@@ -1,6 +1,6 @@
 ##### § 21.161 Weights and specific gravities of specially denatured alcohol.
 
-The weight of one gallon of each formula of specially denatured alcohol at 15.56 °C. (60 °F.) is as listed in this section. The specific gravity of each formula of specially denatured alcohol at 15.56 °C./15.56 °C. (60 °F./60 °F.) in air is as listed in this section. (Weight of 1 gallon of water at 15.56 °C. (60 °F.) is 8.32823 pounds in air.)
+The weight of one gallon of each formula of specially denatured alcohol at 15.56 °C. (60 °F.) is as listed in this section. The specific gravity of each formula of specially denatured alcohol at 15.56 °C./15.56 °C. (60 °F./60 °F.) in air is as listed in this section. (Weight of 1 gallon of water at 15.56 °C. (60 °F.) is 8.32823 pounds in air.) 
 
 Weights and Specific Gravities of Specially Denatured Alcohol 1
 

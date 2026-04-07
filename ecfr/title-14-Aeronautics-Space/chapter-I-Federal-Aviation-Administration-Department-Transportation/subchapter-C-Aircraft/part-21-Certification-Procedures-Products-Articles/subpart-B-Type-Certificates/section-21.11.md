@@ -1,7 +1,7 @@
 ##### § 21.11 Applicability.
 
-This subpart prescribes— 
+This subpart prescribes—
 
-(a) Procedural requirements for the issue of type certificates for aircraft, aircraft engines, and propellers; and 
+(a) Procedural requirements for the issue of type certificates for aircraft, aircraft engines, and propellers; and
 
 (b) Rules governing the holders of those certificates.

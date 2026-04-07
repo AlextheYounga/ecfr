@@ -1,10 +1,10 @@
 ##### § 1.801-6 Adjustments in reserves for policy loans.
 
-(a) *In general.* Section 801(d) provides that for purposes only of determining whether or not an insurance company is a life insurance company (as defined in section 801(a) and paragraph (b) of § 1.801-3), the life insurance reserves (as defined in section 801(b) and § 1.801-4), and the total reserves (as defined in section 801(c) and paragraph (a) of § 1.801-5), shall each be reduced by an amount equal to the mean of the aggregates, at the beginning and end of the taxable year, of the policy loans outstanding with respect to contracts for which life insurance reserves are maintained. Such reduction shall be made after any adjustments required under section 806(a) and § 1.806-3 have been made. 
+(a) *In general.* Section 801(d) provides that for purposes only of determining whether or not an insurance company is a life insurance company (as defined in section 801(a) and paragraph (b) of § 1.801-3), the life insurance reserves (as defined in section 801(b) and § 1.801-4), and the total reserves (as defined in section 801(c) and paragraph (a) of § 1.801-5), shall each be reduced by an amount equal to the mean of the aggregates, at the beginning and end of the taxable year, of the policy loans outstanding with respect to contracts for which life insurance reserves are maintained. Such reduction shall be made after any adjustments required under section 806(a) and § 1.806-3 have been made.
 
-(b) *Policy loans defined.* The term *policy loans* includes loans made by the insurance company, by whatever name called, for which the reserve on a contract is the collateral. 
+(b) *Policy loans defined.* The term *policy loans* includes loans made by the insurance company, by whatever name called, for which the reserve on a contract is the collateral.
 
-(c) *Illustration of principles.* The provisions of section 801(d) and this section may be illustrated by the following example: 
+(c) *Illustration of principles.* The provisions of section 801(d) and this section may be illustrated by the following example:
 
 Example.The books of T, an insurance company, selling only life insurance and cancellable accident and health insurance, reflect (after adjustment under section 806 (a)) the following facts for the taxable year 1958:
 

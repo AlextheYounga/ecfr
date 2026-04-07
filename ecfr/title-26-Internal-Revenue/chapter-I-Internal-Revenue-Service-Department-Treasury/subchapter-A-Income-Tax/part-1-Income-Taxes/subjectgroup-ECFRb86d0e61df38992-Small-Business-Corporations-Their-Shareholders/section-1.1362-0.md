@@ -1,268 +1,268 @@
 ##### § 1.1362-0 Table of contents.
 
-This section lists the captions that appear in the regulations under section 1362. 
+This section lists the captions that appear in the regulations under section 1362.
 
 § 1.1362-1 Election to be an S corporation.
 
-(a) In general. 
+(a) In general.
 
-(b) Years for which election is effective. 
+(b) Years for which election is effective.
 
 § 1.1362-2 Termination of election.
 
-(a) Termination by revocation. 
+(a) Termination by revocation.
 
-(1) In general. 
+(1) In general.
 
-(2) When effective. 
+(2) When effective.
 
-(i) In general. 
+(i) In general.
 
-(ii) Revocations specifying a prospective revocation date. 
+(ii) Revocations specifying a prospective revocation date.
 
-(3) Effect on taxable year of corporation. 
+(3) Effect on taxable year of corporation.
 
-(4) Rescission of a revocation. 
+(4) Rescission of a revocation.
 
-(b) Termination by reason of corporation ceasing to be a small business corporation. 
+(b) Termination by reason of corporation ceasing to be a small business corporation.
 
-(1) In general. 
+(1) In general.
 
-(2) When effective. 
+(2) When effective.
 
-(3) Effect on taxable year of corporation. 
+(3) Effect on taxable year of corporation.
 
-(c) Termination by reason of excess passive investment income. 
+(c) Termination by reason of excess passive investment income.
 
-(1) In general. 
+(1) In general.
 
-(2) When effective. 
+(2) When effective.
 
-(3) Subchapter C earnings and profits. 
+(3) Subchapter C earnings and profits.
 
-(4) Gross receipts. 
+(4) Gross receipts.
 
-(i) In general. 
+(i) In general.
 
-(ii) Special rules for sales of capital assets, stock and securities. 
+(ii) Special rules for sales of capital assets, stock and securities.
 
-(A) Sales of capital assets. 
+(A) Sales of capital assets.
 
-(B) Sales of stock or securities. 
+(B) Sales of stock or securities.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Treatment of certain liquidations. 
+(*2*) Treatment of certain liquidations.
 
-(*3*) Definition of stock or securities. 
+(*3*) Definition of stock or securities.
 
-(*4*) General partner interests. 
+(*4*) General partner interests.
 
-(*i*) In general. 
+(*i*) In general.
 
-(*ii*) Exception. 
+(*ii*) Exception.
 
-(iii) Other exclusions from gross receipts. 
+(iii) Other exclusions from gross receipts.
 
-(5) Passive investment income. 
+(5) Passive investment income.
 
-(i) In general. 
+(i) In general.
 
-(ii) Definitions. 
+(ii) Definitions.
 
-(A) Royalties. 
+(A) Royalties.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Royalties derived in the ordinary course of a trade or business. 
+(*2*) Royalties derived in the ordinary course of a trade or business.
 
-(*3*) Copyright, mineral, oil and gas, and active business computer software royalties. 
+(*3*) Copyright, mineral, oil and gas, and active business computer software royalties.
 
-(B) Rents. 
+(B) Rents.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Rents derived in the active trade or business of renting property. 
+(*2*) Rents derived in the active trade or business of renting property.
 
-(*3*) Produced film rents. 
+(*3*) Produced film rents.
 
-(*4*) Income from leasing self-produced tangible property. 
+(*4*) Income from leasing self-produced tangible property.
 
-(C) Dividends. 
+(C) Dividends.
 
-(D) Interest. 
+(D) Interest.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Interest on obligations acquired in the ordinary course of a trade or business. 
+(*2*) Interest on obligations acquired in the ordinary course of a trade or business.
 
-(E) Annuities. 
+(E) Annuities.
 
-(F) Gross receipts from the sale of stock or securities. 
+(F) Gross receipts from the sale of stock or securities.
 
-(G) Identified income. 
+(G) Identified income.
 
-(iii) Special rules. 
+(iii) Special rules.
 
-(A) Options or commodities dealers. 
+(A) Options or commodities dealers.
 
-(B) Treatment of certain lending, financing and other businesses. 
+(B) Treatment of certain lending, financing and other businesses.
 
-(*1*) In general. 
+(*1*) In general.
 
-(*2*) Directly derived. 
+(*2*) Directly derived.
 
-(C) Payment to a patron of a cooperative. 
+(C) Payment to a patron of a cooperative.
 
-(6) Examples. 
+(6) Examples.
 
 § 1.1362-3 Treatment of S termination year.
 
-(a) In general. 
+(a) In general.
 
-(b) Allocations other than pro rata. 
+(b) Allocations other than pro rata.
 
-(1) Elections under section 1362(e)(3). 
+(1) Elections under section 1362(e)(3).
 
-(2) Purchase of stock treated as an asset purchase. 
+(2) Purchase of stock treated as an asset purchase.
 
-(3) 50 percent change in ownership during S termination year. 
+(3) 50 percent change in ownership during S termination year.
 
-(c) Special rules. 
+(c) Special rules.
 
-(1) S corporation that is a partner in a partnership. 
+(1) S corporation that is a partner in a partnership.
 
-(2) Tax for the C short year. 
+(2) Tax for the C short year.
 
-(3) Each short year treated as taxable year. 
+(3) Each short year treated as taxable year.
 
-(4) Year for carryover purposes. 
+(4) Year for carryover purposes.
 
-(5) Due date for S short year return. 
+(5) Due date for S short year return.
 
-(6) Year in which income from S short year is includible. 
+(6) Year in which income from S short year is includible.
 
-(d) Examples. 
+(d) Examples.
 
 § Inadvertent terminations. § 1.1362-4 Inadvertent terminations and inadvertently invalid elections.
 
-(a) In general. 
+(a) In general.
 
-(b) Inadvertent termination. 
+(b) Inadvertent termination.
 
-(c) Corporation's request for determination of an inadvertent termination. 
+(c) Corporation's request for determination of an inadvertent termination.
 
-(d) Adjustments. 
+(d) Adjustments.
 
-(e) Corporation and shareholder consents. 
+(e) Corporation and shareholder consents.
 
-(f) Status of corporation. 
+(f) Status of corporation.
 
 (g) *Effective/applicability date.*
 
 § 1.1362-5 Election after termination.
 
-(a) In general. 
+(a) In general.
 
-(b) Successor corporation. 
+(b) Successor corporation.
 
-(c) Automatic consent after certain terminations. 
+(c) Automatic consent after certain terminations.
 
 § 1.1362-6 Elections and consents.
 
-(a) Time and manner of making elections. 
+(a) Time and manner of making elections.
 
-(1) In general. 
+(1) In general.
 
-(2) Election to be an S corporation. 
+(2) Election to be an S corporation.
 
-(i) Manner of making election. 
+(i) Manner of making election.
 
-(ii) Time of making election. 
+(ii) Time of making election.
 
-(A) In general. 
+(A) In general.
 
-(B) Elections made during the first 2 1/2 months treated as made for the following taxable year. 
+(B) Elections made during the first 2 1/2 months treated as made for the following taxable year.
 
-(C) Definition of month and beginning of the taxable year. 
+(C) Definition of month and beginning of the taxable year.
 
-(iii) Examples. 
+(iii) Examples.
 
-(3) Revocation of S election. 
+(3) Revocation of S election.
 
-(i) Manner of revoking election. 
+(i) Manner of revoking election.
 
-(ii) Time of revoking election. 
+(ii) Time of revoking election.
 
-(iii) Examples. 
+(iii) Examples.
 
-(4) Rescission of a revocation. 
+(4) Rescission of a revocation.
 
-(i) Manner of rescinding a revocation. 
+(i) Manner of rescinding a revocation.
 
-(ii) Time of rescinding a revocation. 
+(ii) Time of rescinding a revocation.
 
-(5) Election not to apply pro rata allocation. 
+(5) Election not to apply pro rata allocation.
 
-(b) Shareholders' consents. 
+(b) Shareholders' consents.
 
-(1) Manner of consents in general. 
+(1) Manner of consents in general.
 
-(2) Persons required to consent. 
+(2) Persons required to consent.
 
-(i) Community interest in stock. 
+(i) Community interest in stock.
 
-(ii) Minor. 
+(ii) Minor.
 
-(iii) Estate. 
+(iii) Estate.
 
-(iv) Trust. 
+(iv) Trust.
 
-(3) Special rules for consent of shareholder to election to be an S corporation. 
+(3) Special rules for consent of shareholder to election to be an S corporation.
 
-(i) In general. 
+(i) In general.
 
-(ii) Examples. 
+(ii) Examples.
 
-(iii) Extension of time for filing consents to an election. 
+(iii) Extension of time for filing consents to an election.
 
-(A) In general. 
+(A) In general.
 
-(B) Required consents. 
+(B) Required consents.
 
 § 1.1362-7 Effective date.
 
-(a) In general. 
+(a) In general.
 
-(b) Special effective date for passive investment income provisions. 
+(b) Special effective date for passive investment income provisions.
 
 § 1362-8 Dividends received from affiliated subsidiaries.
 
-(a) In general. 
+(a) In general.
 
-(b) Determination of active or passive earnings and profits. 
+(b) Determination of active or passive earnings and profits.
 
-(1) In general. 
+(1) In general.
 
-(2) Lower tier subsidiaries. 
+(2) Lower tier subsidiaries.
 
-(3) De minimis exception. 
+(3) De minimis exception.
 
-(4) Special rules for earnings and profits accumulated by a C corporation prior to 80 percent acquisition. 
+(4) Special rules for earnings and profits accumulated by a C corporation prior to 80 percent acquisition.
 
-(5) Gross receipts safe harbor. 
+(5) Gross receipts safe harbor.
 
-(c) Allocating distributions to active or passive earnings and profits. 
+(c) Allocating distributions to active or passive earnings and profits.
 
-(1) Distributions from current earnings and profits. 
+(1) Distributions from current earnings and profits.
 
-(2) Distributions from accumulated earnings and profits. 
+(2) Distributions from accumulated earnings and profits.
 
-(3) Adjustments to active earnings and profits. 
+(3) Adjustments to active earnings and profits.
 
-(4) Special rules for consolidated groups. 
+(4) Special rules for consolidated groups.
 
-(d) Examples. 
+(d) Examples.
 
 (e) Effective date.
 

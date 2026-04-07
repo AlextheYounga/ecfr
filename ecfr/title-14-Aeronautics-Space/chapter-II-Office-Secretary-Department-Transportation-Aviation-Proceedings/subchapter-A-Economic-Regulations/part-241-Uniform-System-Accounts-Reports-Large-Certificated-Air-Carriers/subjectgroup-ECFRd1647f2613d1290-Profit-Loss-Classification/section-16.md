@@ -2,13 +2,13 @@
 
 95 Discontinued Operations.
 
-(a) Record here the earnings (losses) of discontinued nontransport operations. For the purposes of this system of accounts and reports discontinued operations shall refer to the disposal of investor controlled companies and nontransport ventures whether sold, abandoned, spun off, or otherwise disposed of. This account shall not include earnings or losses from discontinued transport or transport-related operations. 
+(a) Record here the earnings (losses) of discontinued nontransport operations. For the purposes of this system of accounts and reports discontinued operations shall refer to the disposal of investor controlled companies and nontransport ventures whether sold, abandoned, spun off, or otherwise disposed of. This account shall not include earnings or losses from discontinued transport or transport-related operations.
 
-(b) This account shall be subdivided as follows by all air carrier groups: 
+(b) This account shall be subdivided as follows by all air carrier groups:
 
 95.1 *Income from Discontinued Operations.*
 
-Record here the results of operations of the discontinued operations. 
+Record here the results of operations of the discontinued operations.
 
 95.2 *Loss of Disposal of Discontinued Operations.*
 

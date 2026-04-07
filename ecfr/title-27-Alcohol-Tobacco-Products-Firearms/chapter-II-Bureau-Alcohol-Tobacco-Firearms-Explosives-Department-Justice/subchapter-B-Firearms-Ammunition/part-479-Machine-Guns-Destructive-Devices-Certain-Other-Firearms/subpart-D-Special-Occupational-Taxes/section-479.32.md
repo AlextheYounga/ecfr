@@ -1,6 +1,6 @@
 ##### § 479.32 Special (occupational) tax rates.
 
-Except as provided in § 479.32a, the special (occupational) tax rates effective January 1, 1988, are as follows:
+Except as provided in § 479.32a, the special (occupational) tax rates effective January 1, 1988, are as follows: 
 
 |                                                                                                              | Per year or fraction thereof |
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------- |

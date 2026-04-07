@@ -1,6 +1,6 @@
 ##### § 41.32 Cigarette tax rates.
 
-Cigarettes are taxed at the following rates under 26 U.S.C. 5701(b):
+Cigarettes are taxed at the following rates under 26 U.S.C. 5701(b): 
 
 | Product                           | Tax rate per thousand for removals during the following periods:                                                       |
 | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |

@@ -1,16 +1,16 @@
 ##### § 21.106 Diethyl phthalate.
 
-(a) *Refractive index at 25 °C.* 1.497 to 1.502.
+(a) *Refractive index at 25 °C.* 1.497 to 1.502. 
 
-(b) *Color.* Colorless.
+(b) *Color.* Colorless. 
 
-(c) *Odor.* Practically odorless.
+(c) *Odor.* Practically odorless. 
 
-(d) *Solubility.* Soluble in 20 parts of 60 percent alcohol.
+(d) *Solubility.* Soluble in 20 parts of 60 percent alcohol. 
 
-(e) *Specific gravity at 25 °/25 °C.* 1.115 to 1.118.
+(e) *Specific gravity at 25 °/25 °C.* 1.115 to 1.118. 
 
-(f) *Ester content (as diethyl phthalate).* Not less than 99 percent by weight.
+(f) *Ester content (as diethyl phthalate).* Not less than 99 percent by weight. 
 
 Note.
 

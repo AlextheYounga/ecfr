@@ -1,8 +1,8 @@
 ##### § 1.401(a)(9)-9 Life expectancy and Uniform Lifetime tables.
 
-(a) *In general.* This section specifies the life expectancy and Uniform Lifetime tables that apply for purposes of determining required minimum distributions under section 401(a)(9). Paragraphs (b), (c), and (d) of this section set forth these tables. Paragraph (e) of this section provides the mortality rates that are used to develop these tables. Paragraph (f) of this section provides applicability date rules. 
+(a) *In general.* This section specifies the life expectancy and Uniform Lifetime tables that apply for purposes of determining required minimum distributions under section 401(a)(9). Paragraphs (b), (c), and (d) of this section set forth these tables. Paragraph (e) of this section provides the mortality rates that are used to develop these tables. Paragraph (f) of this section provides applicability date rules.
 
-(b) *Single Life Table.* The following table, referred to as the Single Life Table, sets forth the life expectancy of an individual at each age. 
+(b) *Single Life Table.* The following table, referred to as the Single Life Table, sets forth the life expectancy of an individual at each age.
 
 Table 1 to Paragraph (b)
 | Age  | Life expectancy |
@@ -129,7 +129,7 @@ Table 1 to Paragraph (b)
 | 119  | 1.1             |
 | 120+ | 1.0             |
 
-(c) *Uniform Lifetime Table.* The following table, referred to as the Uniform Lifetime Table, sets forth the applicable denominator that applies for lifetime distributions to an employee in situations in which the employee's surviving spouse is not the sole designated beneficiary. This table is also used if the employee's surviving spouse is the sole designated beneficiary but is not more than 10 years younger than the employee. 
+(c) *Uniform Lifetime Table.* The following table, referred to as the Uniform Lifetime Table, sets forth the applicable denominator that applies for lifetime distributions to an employee in situations in which the employee's surviving spouse is not the sole designated beneficiary. This table is also used if the employee's surviving spouse is the sole designated beneficiary but is not more than 10 years younger than the employee.
 
 Table 2 to Paragraph (c)
 | Age of employee | Applicable denominator |
@@ -184,7 +184,7 @@ Table 2 to Paragraph (c)
 | 119             | 2.3                    |
 | 120+            | 2.0                    |
 
-(d) *Joint and Last Survivor Table.* The following table, referred to as the Joint and Last Survivor Table, is used for determining the joint and last survivor life expectancy of two individuals. 
+(d) *Joint and Last Survivor Table.* The following table, referred to as the Joint and Last Survivor Table, is used for determining the joint and last survivor life expectancy of two individuals.
 
 Table 3 to Paragraph (d)
 | Ages | 0    | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    |
@@ -1970,7 +1970,7 @@ Table 3 to Paragraph (d)
 | 119  | 1.9  | 1.7  | 1.3  | 1.1  |  |  |  |  |  |
 | 120+ | 1.6  | 1.4  | 1.1  | 1.0  |  |  |  |  |  |
 
-(e) *Mortality rates.* The following are the mortality rates used to calculate the tables set forth in paragraphs (b), (c), and (d) of this section. 
+(e) *Mortality rates.* The following are the mortality rates used to calculate the tables set forth in paragraphs (b), (c), and (d) of this section.
 
 Table 4 to Paragraph (e)
 | Age | Probability of death |
@@ -2097,12 +2097,12 @@ Table 4 to Paragraph (e)
 | 119 | 0.400000             |
 | 120 | 0.400000             |
 
-(f) *Applicability dates*—(1) *In general.* The life expectancy tables and Uniform Lifetime Table set forth in this section apply for distribution calendar years beginning on or after January 1, 2022. For life expectancy tables and the Uniform Lifetime Table applicable for earlier distribution calendar years, see § 1.401(a)(9)-9, as set forth in 26 CFR part 1 revised as of April 1, 2020 (formerly applicable § 1.401(a)(9)-9). 
+(f) *Applicability dates*—(1) *In general.* The life expectancy tables and Uniform Lifetime Table set forth in this section apply for distribution calendar years beginning on or after January 1, 2022. For life expectancy tables and the Uniform Lifetime Table applicable for earlier distribution calendar years, see § 1.401(a)(9)-9, as set forth in 26 CFR part 1 revised as of April 1, 2020 (formerly applicable § 1.401(a)(9)-9).
 
-(2) *Application to life expectancies that may not be recalculated*—(i) *Redetermination of initial life expectancy using current tables.* If an employee died before January 1, 2022, and, under the rules of § 1.401(a)(9)-5, the applicable denominator for a calendar year following the calendar year of the employee's death is equal to a single life expectancy calculated as of the calendar year of the employee's death (or, if applicable, the following calendar year), reduced by 1 for each subsequent year, then that life expectancy is reset as provided in paragraph (f)(2)(ii) of this section. Similarly, if an employee's sole beneficiary is the employee's surviving spouse, and the spouse dies before January 1, 2022, then the spouse's life expectancy for the calendar year of the spouse's death (which is used to determine the applicable denominator for later years) is reset as provided in paragraph (f)(2)(ii) of this section. 
+(2) *Application to life expectancies that may not be recalculated*—(i) *Redetermination of initial life expectancy using current tables.* If an employee died before January 1, 2022, and, under the rules of § 1.401(a)(9)-5, the applicable denominator for a calendar year following the calendar year of the employee's death is equal to a single life expectancy calculated as of the calendar year of the employee's death (or, if applicable, the following calendar year), reduced by 1 for each subsequent year, then that life expectancy is reset as provided in paragraph (f)(2)(ii) of this section. Similarly, if an employee's sole beneficiary is the employee's surviving spouse, and the spouse dies before January 1, 2022, then the spouse's life expectancy for the calendar year of the spouse's death (which is used to determine the applicable denominator for later years) is reset as provided in paragraph (f)(2)(ii) of this section.
 
-(ii) *Determination of applicable denominator*—(A) *Applicable denominator based on new life expectancy.* With respect to a life expectancy described in paragraph (f)(2)(i) of this section, the applicable denominator for a distribution calendar year beginning on or after January 1, 2022, is determined by using the Single Life Table in paragraph (b) of this section to determine the initial life expectancy for the age of the relevant individual in the relevant calendar year and then reducing the resulting applicable denominator by 1 for each subsequent year. 
+(ii) *Determination of applicable denominator*—(A) *Applicable denominator based on new life expectancy.* With respect to a life expectancy described in paragraph (f)(2)(i) of this section, the applicable denominator for a distribution calendar year beginning on or after January 1, 2022, is determined by using the Single Life Table in paragraph (b) of this section to determine the initial life expectancy for the age of the relevant individual in the relevant calendar year and then reducing the resulting applicable denominator by 1 for each subsequent year.
 
-(B) *Example of redetermination.* Assume that an employee died at age 80 in 2019 and the employee's designated beneficiary (who was not the employee's spouse) was age 75 in the year of the employee's death. For 2020, the denominator that would have applied for the beneficiary was 12.7 years (the life expectancy for a 76-year-old under the Single Life Table in formerly applicable § 1.401(a)(9)-9), and for 2021, it would have been 11.7 years (the original life expectancy, reduced by 1 year). For 2022, if the designated beneficiary is still alive, then the applicable denominator would be 12.1 years (the 14.1-year life expectancy for a 76-year-old under the Single Life Table in paragraph (b) of this section, reduced by 2 years). 
+(B) *Example of redetermination.* Assume that an employee died at age 80 in 2019 and the employee's designated beneficiary (who was not the employee's spouse) was age 75 in the year of the employee's death. For 2020, the denominator that would have applied for the beneficiary was 12.7 years (the life expectancy for a 76-year-old under the Single Life Table in formerly applicable § 1.401(a)(9)-9), and for 2021, it would have been 11.7 years (the original life expectancy, reduced by 1 year). For 2022, if the designated beneficiary is still alive, then the applicable denominator would be 12.1 years (the 14.1-year life expectancy for a 76-year-old under the Single Life Table in paragraph (b) of this section, reduced by 2 years).
 
 \[T.D. 9930, 85 FR 72477, Nov. 12, 2020, as amended by T.D. 10001, 89 FR 58938, July 19, 2024\]

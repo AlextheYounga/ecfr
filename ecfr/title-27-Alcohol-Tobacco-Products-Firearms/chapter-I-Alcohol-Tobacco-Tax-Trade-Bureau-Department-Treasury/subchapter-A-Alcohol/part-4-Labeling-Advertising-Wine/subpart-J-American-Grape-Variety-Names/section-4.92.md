@@ -1,6 +1,6 @@
 ##### § 4.92 Alternative names permitted for temporary use.
 
-The following alternative names shown in the left column may be used as the type designation for American wine in lieu of the name of the grape variety shown in the right column. Alternative names listed in the left column may only be used for wine bottled prior to the date indicated.
+The following alternative names shown in the left column may be used as the type designation for American wine in lieu of the name of the grape variety shown in the right column. Alternative names listed in the left column may only be used for wine bottled prior to the date indicated. 
 
 (a) *Wines bottled prior to January 1, 1997.*
 
@@ -14,6 +14,6 @@ Alternative Name/Name *Cabernet—Cabernet Sauvignon**Grey Riesling—Trousseau 
 
 Alternative Name/Name *Johannisberg Riesling—Riesling*
 
-(d) *Wines bottled prior to* October 29, 2012.
+(d) *Wines bottled prior to* October 29, 2012. 
 
 Alternative Name/Name *Agwam—Agawam*\[T.D. ATF-370, 61 FR 539, Jan. 8, 1996, as amended by T.D. ATF-417, 64 FR 49388, Sept. 13, 1999; T.D. TTB-95, 76 FR 66629, Oct. 27, 2011\]

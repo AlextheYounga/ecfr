@@ -1,22 +1,22 @@
 ##### § 26.262a Computation of effective tax rate.
 
-(a) The proprietor shall compute the effective tax rate for distilled spirits containing eligible wine or eligible flavors as the ratio of the numerator and denominator as follows:
+(a) The proprietor shall compute the effective tax rate for distilled spirits containing eligible wine or eligible flavors as the ratio of the numerator and denominator as follows: 
 
-(1) The numerator will be the sum of:
+(1) The numerator will be the sum of: 
 
-(i) The proof gallons of all distilled spirits used in the product (exclusive of distilled spirits derived from eligible flavors), multipled by the tax rate prescribed by 26 U.S.C. 5001;
+(i) The proof gallons of all distilled spirits used in the product (exclusive of distilled spirits derived from eligible flavors), multipled by the tax rate prescribed by 26 U.S.C. 5001; 
 
-(ii) The wine gallons of each eligible wine used in the product, multiplied by the tax rate prescribed by 26 U.S.C. 5041(b) (1), (2), or (3), as applicable; and
+(ii) The wine gallons of each eligible wine used in the product, multiplied by the tax rate prescribed by 26 U.S.C. 5041(b) (1), (2), or (3), as applicable; and 
 
-(iii) The proof gallons of all distilled spirits derived from eligible flavors used in the product, multiplied by the tax rate prescribed by 26 U.S.C. 5001, but only to the extent that such distilled spirits exceed 2 1/2% of the denominator prescribed in paragraph (a)(2) of this section.
+(iii) The proof gallons of all distilled spirits derived from eligible flavors used in the product, multiplied by the tax rate prescribed by 26 U.S.C. 5001, but only to the extent that such distilled spirits exceed 2 1/2% of the denominator prescribed in paragraph (a)(2) of this section. 
 
-(2) The denominator will be the sum of:
+(2) The denominator will be the sum of: 
 
-(i) The proof gallons of all distilled spirits used in the product, including distilled spirits derived from eligible flavors; and
+(i) The proof gallons of all distilled spirits used in the product, including distilled spirits derived from eligible flavors; and 
 
-(ii) The wine gallons of each eligible wine used in the product, multiplied by twice the percentage of alcohol by volume of each, divided by 100.
+(ii) The wine gallons of each eligible wine used in the product, multiplied by twice the percentage of alcohol by volume of each, divided by 100. 
 
-(b) In determining the effective tax rate, quantities of distilled spirits, eligible wine, and eligible flavors will be expressed to the nearest tenth of a proof gallon. The effective tax rate may be rounded to as many decimal places as the proprietor deems appropriate, provided that, such rate is expressed no less exactly than the rate rounded to the nearest whole cent, and the effective tax rates for all products will be consistently expressed to the same number of decimal places. In such case, if the number is less than five it will be dropped; if it is five or over, a unit will be added.
+(b) In determining the effective tax rate, quantities of distilled spirits, eligible wine, and eligible flavors will be expressed to the nearest tenth of a proof gallon. The effective tax rate may be rounded to as many decimal places as the proprietor deems appropriate, provided that, such rate is expressed no less exactly than the rate rounded to the nearest whole cent, and the effective tax rates for all products will be consistently expressed to the same number of decimal places. In such case, if the number is less than five it will be dropped; if it is five or over, a unit will be added. 
 
 (c) The following is an example of the use of the formula. 
 
