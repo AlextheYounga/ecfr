@@ -8,7 +8,7 @@
 
 (3) A type certificate and changes to that certificate, and standard airworthiness certificates, for Concorde airplanes.
 
-(4) Type certificates, and changes to those certificates, for helicopters except those helicopters that are designated exclusively for “argicultural aircraft operations” (as defined in § 137.3 of this chapter, as effective on January 1, 1966), for dispensing fire fighting materials, or for carrying external loads (as defined in § 133.1(b) of this chapter, as effective on December 20, 1976).
+(4) Type certificates, and changes to those certificates, for helicopters except those helicopters that are designated exclusively for “agricultural aircraft operations” (as defined in § 137.3 of this chapter, as effective on January 1, 1966), for dispensing fire fighting materials, or for carrying external loads (as defined in § 133.1(b) of this chapter, as effective on December 20, 1976).
 
 (5) Type certificates, changes to those certificates, and standard airworthiness certificates, for tiltrotors.
 
@@ -18,7 +18,7 @@
 
 (d) Each person who applies for the original issue of a standard airworthiness certificate for a transport category large airplane or for a jet airplane under § 21.183 must, regardless of date of application, show compliance with the following provisions of this part (including appendix B):
 
-(1) The provisions of this part in effect on December 1, 1969, for subsonic airplanes that have not had any flight time before -
+(1) The provisions of this part in effect on December 1, 1969, for subsonic airplanes that have not had any flight time before—
 
 (i) December 1, 1973, for airplanes with maximum weights greater than 75,000 pounds, except for airplanes that are powered by Pratt & Whitney Turbo Wasp JT3D series engines;
 

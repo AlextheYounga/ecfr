@@ -4,7 +4,7 @@
 
 (b) *Interior emergency exit marking.* The following must be complied with for each passenger-carrying airplane:
 
-(1) Each passenger emergency exit, its means of access, and its means of opening must be conspicuously marked. The identity and location of each passenger emergency exit must be recognizable from a distance equal to the width of the cabin. The location of each passenger emergency exit must be indicated by a sign visible to occupants approaching along the main passenger aisle. There must be a locating sign -
+(1) Each passenger emergency exit, its means of access, and its means of opening must be conspicuously marked. The identity and location of each passenger emergency exit must be recognizable from a distance equal to the width of the cabin. The location of each passenger emergency exit must be indicated by a sign visible to occupants approaching along the main passenger aisle. There must be a locating sign—
 
 (i) Above the aisle near each over-the-wing passenger emergency exit, or at another ceiling location if it is more practical because of low headroom;
 
@@ -18,11 +18,11 @@
 
 (ii) For a transport category airplane for which the application for the type certificate was filed on or after May 1, 1972, each passenger emergency exit marking and each locating sign must be manufactured to meet the interior emergency exit marking requirements under which the airplane was type certificated. On these airplanes, no sign may continue to be used if its luminescence (brightness) decreases to below 250 microlamberts.
 
-(iii) For a nontransport category turbopropeller powered airplane type certificated after December 31, 1964, each passenger emergency exit marking and each locating sign must be manufactured to have white letters 1 inch high on a red background 2 inches high, be self-illuminated or independently, internally electrically illuminated, and have a minimum brightness of at least 160 microlamberts. The color may be reversed if the passenger compartment illumination is essentially the same. On these airplanes, no sign may continue to be used if its luminescence (brightness) decreases to below 100 microlamberts.
+(iii) For a nontransport category turbopropellerpowered airplane type certificated after December 31, 1964, each passenger emergency exit marking and each locating sign must be manufactured to have white letters 1 inch high on a red background 2 inches high, be self-illuminated or independently, internally electrically illuminated, and have a minimum brightness of at least 160 microlamberts. The color may be reversed if the passenger compartment illumination is essentially the same. On these airplanes, no sign may continue to be used if its luminescence (brightness) decreases to below 100 microlamberts.
 
 (c) *Lighting for interior emergency exit markings.* Except for nontransport category airplanes type certificated after December 31, 1964, each passenger-carrying airplane must have an emergency lighting system, independent of the main lighting system. However, sources of general cabin illumination may be common to both the emergency and the main lighting systems if the power supply to the emergency lighting system is independent of the power supply to the main lighting system.
 
-The emergency lighting system must -
+The emergency lighting system must—
 
 (1) Illuminate each passenger exit marking and locating sign;
 
@@ -32,7 +32,7 @@ The emergency lighting system must -
 
 (d) *Emergency light operation.* Except for lights forming part of emergency lighting subsystems provided in compliance with § 25.812(h) of this chapter (as prescribed in paragraph (h) of this section) that serve no more than one assist means, are independent of the airplane's main emergency lighting systems, and are automatically activated when the assist means is deployed, each light required by paragraphs (c) and (h) of this section must comply with the following:
 
-(1) Each light must -
+(1) Each light must—
 
 (i) Be operable manually both from the flightcrew station and, for airplanes on which a flight attendant is required, from a point in the passenger compartment that is readily accessible to a normal flight attendant seat;
 
@@ -46,7 +46,7 @@ The emergency lighting system must -
 
 (4) Each light must have a cockpit control device that has an “on,” “off,” and “armed” position.
 
-(e) *Emergency exit operating handles.* (1) For a passenger-carrying airplane for which the application for the type certificate was filed prior to May 1, 1972, the location of each passenger emergency exit operating handle, and instructions for opening the exit, must be shown by a marking on or near the exit that is readable from a distance of 30 inches. In addition, for each Type I and Type II emergency exit with a locking mechanism released by rotary motion of the handle, the instructions for opening must be shown by -
+(e) *Emergency exit operating handles.* (1) For a passenger-carrying airplane for which the application for the type certificate was filed prior to May 1, 1972, the location of each passenger emergency exit operating handle, and instructions for opening the exit, must be shown by a marking on or near the exit that is readable from a distance of 30 inches. In addition, for each Type I and Type II emergency exit with a locking mechanism released by rotary motion of the handle, the instructions for opening must be shown by—
 
 (i) A red arrow with a shaft at least three-fourths inch wide and a head twice the width of the shaft, extending along at least 70° of arc at a radius approximately equal to three-fourths of the handle length; and
 
@@ -60,7 +60,7 @@ The emergency lighting system must -
 
 (2) For each Type I or Type II emergency exit equipped with an assist means, there must be enough space next to the exit to allow a crewmember to assist in the evacuation of passengers without reducing the unobstructed width of the passageway below that required in paragraph (f)(1) of this section. In addition, all airplanes manufactured on or after November 26, 2008 must comply with the provisions of §§ 25.813(b)(1), (b)(2), (b)(3) and (b)(4) in effect on November 26, 2004. However, a deviation from this requirement may be authorized for an airplane certificated under the provisions of part 4b of the Civil Air Regulations in effect before December 20, 1951, if the Administrator finds that special circumstances exist that provide an equivalent level of safety.
 
-(3) There must be access from the main aisle to each Type III and Type IV exit. The access from the aisle to these exits must not be obstructed by seats, berths, or other protrusions in a manner that would reduce the effectiveness of the exit. In addition -
+(3) There must be access from the main aisle to each Type III and Type IV exit. The access from the aisle to these exits must not be obstructed by seats, berths, or other protrusions in a manner that would reduce the effectiveness of the exit. In addition—
 
 (i) For an airplane for which the application for the type certificate was filed prior to May 1, 1972, the access must meet the requirements of § 25.813(c) of this chapter in effect on April 30, 1972; and
 
@@ -104,7 +104,7 @@ The emergency lighting system must -
 
 (j) *Additional emergency exits.* Approved emergency exits in the passenger compartments that are in excess of the minimum number of required emergency exits must meet all of the applicable provisions of this section except paragraphs (f)(1), (2), and (3) of this section and must be readily accessible.
 
-(k) On each large passenger-carrying turbojet-powered airplane, each ventral exit and tailcone exit must be -
+(k) On each large passenger-carrying turbojet-powered airplane, each ventral exit and tailcone exit must be—
 
 (1) Designed and constructed so that it cannot be opened during flight; and
 
