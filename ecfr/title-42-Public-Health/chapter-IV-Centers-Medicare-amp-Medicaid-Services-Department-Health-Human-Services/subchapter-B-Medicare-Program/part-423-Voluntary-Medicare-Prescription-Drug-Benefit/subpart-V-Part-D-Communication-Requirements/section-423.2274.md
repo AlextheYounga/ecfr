@@ -104,7 +104,7 @@ If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, t
 
 (iv) Part D sponsors may only pay compensation for the number of months a member is enrolled.
 
-(2) *Initial enrollment year compensation.* Initial enrollment year compensation. For each enrollment in an initial enrollment year for contract years through contract year 2024, Part D sponsors may pay compensation at or below FMV.
+(2) Initial enrollment year compensation. For each enrollment in an initial enrollment year for contract years through contract year 2024, Part D sponsors may pay compensation at or below FMV.
 
 (i) Part D sponsors may pay either a full or pro-rated initial enrollment year compensation for:
 
