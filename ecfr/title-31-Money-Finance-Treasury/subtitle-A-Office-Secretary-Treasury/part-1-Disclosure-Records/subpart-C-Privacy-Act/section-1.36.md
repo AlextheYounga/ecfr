@@ -9,7 +9,6 @@
 (i) *Treasury-wide.*
 
 Table 1 to Paragraph (c)(1)(i)
-
 | No.           | Name of system                                          |
 | ------------- | ------------------------------------------------------- |
 | Treasury .004 | Freedom of Information Act/Privacy Act Request Records. |
@@ -17,7 +16,6 @@ Table 1 to Paragraph (c)(1)(i)
 (ii) *Departmental Offices.*
 
 Table 2 to Paragraph (c)(1)(ii)
-
 | No.     | Name of system                                                                                                             |
 | ------- | -------------------------------------------------------------------------------------------------------------------------- |
 | DO .190 | Office of Inspector General Investigations Management Information System (formerly: Investigation Data Management System). |
@@ -36,7 +34,6 @@ Table 2 to Paragraph (c)(1)(ii)
 (iii) *Special Investigator for Pandemic Recovery (SIGPR).*
 
 Table 3 to Paragraph (c)(1)(iii)
-
 | No.        | Name of system                                    |
 | ---------- | ------------------------------------------------- |
 | SIGPR .420 | Audit and Evaluations Records.                    |
@@ -46,7 +43,6 @@ Table 3 to Paragraph (c)(1)(iii)
 (iv) *Office of the Comptroller of the Currency (OCC).*
 
 Table 4 to Paragraph (c)(1)(iv)
-
 | No.     | Name of system                                                                                                 |
 | ------- | -------------------------------------------------------------------------------------------------------------- |
 | CC .110 | Reports of Suspicious Activities.                                                                              |
@@ -58,7 +54,6 @@ Table 4 to Paragraph (c)(1)(iv)
 (v) *Internal Revenue Service.*
 
 Table 5 to Paragraph (c)(1)(v)
-
 | No.        | Name of system                                                                                       |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
 | IRS 46.002 | Criminal Investigation Management Information System and Case Files.                                 |
@@ -74,7 +69,6 @@ Table 5 to Paragraph (c)(1)(v)
 (vi) *Financial Crimes Enforcement Network.*
 
 Table 6 to Paragraph (c)(1)(vi)
-
 | No.         | Name of system                                                                      |
 | ----------- | ----------------------------------------------------------------------------------- |
 | FinCEN .001 | FinCEN Investigations and Examinations System.                                      |
@@ -179,7 +173,6 @@ Table 6 to Paragraph (c)(1)(vi)
 (i) *Treasury-wide.*
 
 Table 7 to Paragraph (e)(1)(i)
-
 | No.           | Name of system                                          |
 | ------------- | ------------------------------------------------------- |
 | Treasury .004 | Freedom of Information Act/Privacy Act Request Records. |
@@ -187,7 +180,6 @@ Table 7 to Paragraph (e)(1)(i)
 (ii) *Departmental Offices.*
 
 Table 8 to Paragraph (e)(1)(ii)
-
 | No.     | Name of system                                                                       |
 | ------- | ------------------------------------------------------------------------------------ |
 | DO .120 | Records Related to Office of Foreign Assets Control Economic Sanctions.              |
@@ -197,7 +189,6 @@ Table 8 to Paragraph (e)(1)(ii)
 (iii) *Financial Crimes Enforcement Network.*
 
 Table 9 to Paragraph (e)(1)(iii)
-
 | No.         | Name of system                                 |
 | ----------- | ---------------------------------------------- |
 | FinCEN .001 | FinCEN Investigations and Examinations System. |
@@ -211,7 +202,6 @@ Table 9 to Paragraph (e)(1)(iii)
 (i) *Treasury-wide.*
 
 Table 10 to Paragraph (g)(1)(i)
-
 | No.           | Name of system                                                                                                   |
 | ------------- | ---------------------------------------------------------------------------------------------------------------- |
 | Treasury .004 | Freedom of Information Act/Privacy Act Request Records.                                                          |
@@ -220,7 +210,6 @@ Table 10 to Paragraph (g)(1)(i)
 (ii) *Departmental Offices.*
 
 Table 11 to Paragraph (g)(1)(ii)
-
 | No.     | Name of system                                                                                                             |
 | ------- | -------------------------------------------------------------------------------------------------------------------------- |
 | DO .120 | Records Related to Office of Foreign Assets Control Economic Sanctions.                                                    |
@@ -243,7 +232,6 @@ Table 11 to Paragraph (g)(1)(ii)
 (iii) *Special Investigator for Pandemic Recovery (SIGPR).*
 
 Table 12 to Paragraph (g)(1)(iii)
-
 | No.        | Name of system                                    |
 | ---------- | ------------------------------------------------- |
 | SIGPR .420 | Audit and Evaluations Records.                    |
@@ -253,7 +241,6 @@ Table 12 to Paragraph (g)(1)(iii)
 (iv) *The Alcohol and Tobacco Tax and Trade Bureau (TTB).*
 
 Table 13 to Paragraph (g)(1)(iv)
-
 | No.      | Name of system                        |
 | -------- | ------------------------------------- |
 | TTB .001 | Regulatory Enforcement Record System. |
@@ -261,7 +248,6 @@ Table 13 to Paragraph (g)(1)(iv)
 (v) *Comptroller of the Currency.*
 
 Table 14 to Paragraph (g)(1)(v)
-
 | No.     | Name of system                                                                    |
 | ------- | --------------------------------------------------------------------------------- |
 | CC .100 | Enforcement Action Report System.                                                 |
@@ -276,7 +262,6 @@ Table 14 to Paragraph (g)(1)(v)
 (vi) *Bureau of Engraving and Printing.*
 
 Table 15 to Paragraph (g)(1)(vi)
-
 | No.      | Name of system       |
 | -------- | -------------------- |
 | BEP .021 | Investigative files. |
@@ -284,7 +269,6 @@ Table 15 to Paragraph (g)(1)(vi)
 (vii) *Internal Revenue Service.*
 
 Table 16 to Paragraph (g)(1)(vii)
-
 | No.                                               | Name of system                                                                                                                                                                |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | IRS 00.002                                        | Correspondence File-Inquiries about Enforcement Activities.                                                                                                                   |
@@ -318,7 +302,6 @@ Table 16 to Paragraph (g)(1)(vii)
 (viii) *Bureau of the Fiscal Service.*
 
 Table 17 to Paragraph (g)(1)(viii)
-
 | No.     | Name of system                                     |
 | ------- | -------------------------------------------------- |
 | FS .020 | U.S. Treasury Securities Fraud Information System. |
@@ -326,7 +309,6 @@ Table 17 to Paragraph (g)(1)(viii)
 (ix) *Financial Crimes Enforcement Network.*
 
 Table 18 to Paragraph (g)(1)(ix)
-
 | No.                       | Name of system                                                                                                         |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | FinCEN .001               | FinCEN Database.                                                                                                       |
@@ -397,7 +379,6 @@ Table 18 to Paragraph (g)(1)(ix)
 (i) *Treasury-wide.*
 
 Table 19 to Paragraph (i)(1)(i)
-
 | No.           | Name of system                                          |
 | ------------- | ------------------------------------------------------- |
 | Treasury .004 | Freedom of Information Act/Privacy Act Request Records. |
@@ -405,7 +386,6 @@ Table 19 to Paragraph (i)(1)(i)
 (ii) *Internal Revenue Service.*
 
 Table 20 to Paragraph (i)(1)(ii)
-
 | No.        | Name of system                                       |
 | ---------- | ---------------------------------------------------- |
 | IRS 70.001 | Individual Income Tax Returns, Statistics of Income. |
@@ -421,7 +401,6 @@ Table 20 to Paragraph (i)(1)(ii)
 (i) *Treasury-wide.*
 
 Table 21 to Paragraph (k)(1)(i)
-
 | No.           | Name of system                                          |
 | ------------- | ------------------------------------------------------- |
 | Treasury .004 | Freedom of Information Act/Privacy Act Request Records. |
@@ -430,7 +409,6 @@ Table 21 to Paragraph (k)(1)(i)
 (ii) *Departmental Offices.*
 
 Table 22 to Paragraph (k)(1)(ii)
-
 | No.     | Name of system                          |
 | ------- | --------------------------------------- |
 | DO .004 | Personnel Security System.              |
@@ -439,7 +417,6 @@ Table 22 to Paragraph (k)(1)(ii)
 (iii) *Internal Revenue Service.*
 
 Table 23 to Paragraph (k)(1)(iii)
-
 | No.        | Name of system                                            |
 | ---------- | --------------------------------------------------------- |
 | IRS 34.021 | Personnel Security Investigations.                        |
@@ -457,7 +434,6 @@ Table 23 to Paragraph (k)(1)(iii)
 (i) *Treasury-wide.*
 
 Table 24 to Paragraph (m)(1)(i)
-
 | No.           | Name of system                                          |
 | ------------- | ------------------------------------------------------- |
 | Treasury .004 | Freedom of Information Act/privacy Act Request Records. |
@@ -465,7 +441,6 @@ Table 24 to Paragraph (m)(1)(i)
 (ii) *Departmental Offices.*
 
 Table 25 to Paragraph (m)(1)(ii)
-
 | No.     | Name of system                          |
 | ------- | --------------------------------------- |
 | DO .306 | TIGTA Recruiting and Placement Records. |
@@ -478,4 +453,4 @@ Table 25 to Paragraph (m)(1)(ii)
 
 (o) *Exempt information included in another system.* Any information from a system of records for which an exemption is claimed under 5 U.S.C. 552a(j) or (k) which is also included in another system of records retains the same exempt status such information has in the system for which such exemption is claimed.
 
-\[88 FR 88815, Dec. 26, 2023\] Editorial Note:At 88 FR 81347, Nov. 22, 2023, § 1.36 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+\[88 FR 88815, Dec. 26, 2023\]

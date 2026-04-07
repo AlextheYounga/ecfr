@@ -1,6 +1,6 @@
 ##### § 1280.86 National Archives at College Park space available for events.
 
-You may ask to use the following areas:
+You may ask to use the following areas: 
 
 Table 1 to § 1280.86
 | Area          | Capacity                                                  |

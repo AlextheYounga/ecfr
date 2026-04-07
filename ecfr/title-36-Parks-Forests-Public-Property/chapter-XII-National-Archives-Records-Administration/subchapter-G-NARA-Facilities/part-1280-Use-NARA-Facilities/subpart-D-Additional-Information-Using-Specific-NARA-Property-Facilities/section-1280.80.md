@@ -1,6 +1,6 @@
 ##### § 1280.80 Public areas in the National Archives Building available for events.
 
-You may ask to use the following areas in the National Archives Building, Washington, DC:
+You may ask to use the following areas in the National Archives Building, Washington, DC: 
 
 Table 1 to § 1280.80
 | Area                          | Capacity         |

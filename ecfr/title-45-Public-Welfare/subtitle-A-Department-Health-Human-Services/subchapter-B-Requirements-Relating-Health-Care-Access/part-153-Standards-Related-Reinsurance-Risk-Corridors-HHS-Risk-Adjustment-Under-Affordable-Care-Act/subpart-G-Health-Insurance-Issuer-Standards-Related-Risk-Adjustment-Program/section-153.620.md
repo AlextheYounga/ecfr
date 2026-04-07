@@ -1,6 +1,4 @@
-##### § 153.620 Compliance with risk adjustment standards.
-
-Link to an amendment published at 89 FR 26419, Apr. 15, 2024.
+##### § 153.620 Compliance with HHS risk adjustment standards.
 
 (a) *Issuer support of data validation.* An issuer that offers risk adjustment covered plans must comply with any data validation requests by the State or HHS on behalf of the State.
 
@@ -30,7 +28,7 @@ Link to an amendment published at 89 FR 26419, Apr. 15, 2024.
 
 (ii) If the issuer responds and disputes the preliminary findings, HHS will review and consider such response and finalize the audit findings after such review.
 
-(4) *Final audit findings.* If an audit results in the inclusion of a finding in the final audit report, the issuer must comply with the actions set forth in the final audit report in the manner and timeframe established by HHS, and the issuer must complete all of the following:
+(4) *Final audit findings.* If an audit results in the inclusion of a finding or observation in the final audit report, the issuer must comply with the actions set forth in the final audit report in the manner and timeframe established by HHS, and the issuer must complete all of the following, if required by HHS:
 
 (i) Within 45 calendar days of the issuance of the final audit report, provide a written corrective action plan to HHS for approval.
 
@@ -44,4 +42,4 @@ Link to an amendment published at 89 FR 26419, Apr. 15, 2024.
 
 (ii) HHS will notify the issuer that HHS may recoup any risk adjustment (including high-cost risk pool) payments identified in paragraph (c)(5)(i) of this section.
 
-\[77 FR 17245, Mar. 23, 2012, as amended at 78 FR 65095, Oct. 30, 2013; 79 FR 13836, Mar. 11, 2014; 86 FR 24287, May 5, 2021\]
+\[77 FR 17245, Mar. 23, 2012, as amended at 78 FR 65095, Oct. 30, 2013; 79 FR 13836, Mar. 11, 2014; 86 FR 24287, May 5, 2021; 89 FR 26419, Apr. 15, 2024\]
