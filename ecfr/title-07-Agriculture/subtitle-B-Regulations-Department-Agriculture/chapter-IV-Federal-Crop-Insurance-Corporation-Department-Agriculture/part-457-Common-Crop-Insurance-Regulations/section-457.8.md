@@ -610,7 +610,7 @@ A person, other than an individual, may be eligible for veteran farmer or ranche
 
 (iii) Because the incorrect information was the result of our error or the error of someone from USDA.
 
-(3) If you do not have written verifiable records to support the information you certified on your production report, you will receive an assigned yield in accordance with section 3(f)(1) and 7 CFR part 400, subpart G, for the applicable units, determined by us, for those crop years for which you do not have such records. If the conditions of section 34(c)(3) are not met, you will receive an assigned yield for the applicable basic unit.
+(3) If you do not have written verifiable records to support the information you certified on your production report, you will receive an assigned yield in accordance with section 3(f)(1) and 7 CFR part 400, subpart G, for the applicable units, determined by us, for those crop years for which you do not have such records. If the conditions of section 34(b)(3) are not met, you will receive an assigned yield for the applicable basic unit.
 
 (4) At any time we discover you have misreported any material information used to determine your approved yield or your approved yield is not correct, the following actions will be taken, as applicable:
 
