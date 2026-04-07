@@ -62,13 +62,13 @@ The following definitions apply to this part and the forms prescribed under this
 
 *Savings account* means any withdrawable account, including a demand account, except this term does not mean a tax and loan account, a note account, a United States Treasury general account, or a United States Treasury time deposit-open account.
 
-S*avings association* means a savings association as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(1)).
+*Savings association* means a savings association as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(1)).
 
 *Solicitation* and *solicit* is a request for a proxy, whether or not accompanied by or included in a form of proxy; a request to execute, not execute, or revoke a proxy; or the furnishing of a form of proxy or other communication reasonably calculated to cause a savings association's members to procure, withhold, or revoke a proxy. Solicitation or solicit does not include providing a form of proxy at the unsolicited request of a member, the acts required to mail communications for members, or ministerial acts performed on behalf of a person soliciting a proxy.
 
 *State* means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
-*State* s*avings association* means a State savings association as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(3)).
+*State savings association* means a State savings association as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(3)).
 
 *Subscription offering* is the offering of shares through nontransferable subscription rights to:
 

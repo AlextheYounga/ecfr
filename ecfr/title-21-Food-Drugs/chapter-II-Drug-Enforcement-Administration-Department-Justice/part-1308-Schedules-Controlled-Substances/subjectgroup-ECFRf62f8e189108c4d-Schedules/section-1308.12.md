@@ -4,7 +4,7 @@
 
 (b) *Substances, vegetable origin or chemical synthesis.* Unless specifically excepted or unless listed in another schedule, any of the following substances whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
 
-(1) Opium and opiate, and any salt, compound, derivative, or preparation of opium or opiate excluding apomorphine, thebaine-derived butorphanol, dextrorphan, nalbuphine, naldemedine, nalmefene, naloxegol, naloxone, 6β-naltrexol and naltrexone, and their respective salts, but including the following:
+(1) Opium and opiate, and any salt, compound, derivative, or preparation of opium or opiate excluding apomorphine, thebaine-derived butorphanol, dextrorphan, nalbuphine, naldemedine, nalmefene, naloxegol, naloxone, 6β-naltrexol, naltrexone, and samidorphan, and their respective salts, but including the following:
 
 (i) Codeine
 
@@ -166,51 +166,55 @@
 
 9802 
 
-(18) Pethidine (meperidine)
+(18) Oliceridine (N-\[(3-methoxythiophen-2-yl)methyl\] ({2-\[(9R)-9-(pyridin-2-yl)-6-oxaspiro \[4.5\]decan-9-yl\]ethyl})amine fumarate)
+
+9245 
+
+(19) Pethidine (meperidine)
 
 9230 
 
-(19) Pethidine-Intermediate-A, 4-cyano-1-methyl-4-phenylpiperidine
+(20) Pethidine-Intermediate-A, 4-cyano-1-methyl-4-phenylpiperidine
 
 9232 
 
-(20) Pethidine-Intermediate-B, ethyl-4-phenylpiperidine-4-carboxylate
+(21) Pethidine-Intermediate-B, ethyl-4-phenylpiperidine-4-carboxylate
 
 9233 
 
-(21) Pethidine-Intermediate-C, 1-methyl-4-phenylpiperidine-4-carboxylic acid
+(22) Pethidine-Intermediate-C, 1-methyl-4-phenylpiperidine-4-carboxylic acid
 
 9234 
 
-(22) Phenazocine
+(23) Phenazocine
 
 9715 
 
-(23) Piminodine
+(24) Piminodine
 
 9730 
 
-(24) Racemethorphan
+(25) Racemethorphan
 
 9732 
 
-(25) Racemorphan
+(26) Racemorphan
 
 9733 
 
-(26) Remifentanil
+(27) Remifentanil
 
 9739 
 
-(27) Sufentanil
+(28) Sufentanil
 
 9740 
 
-(28) Tapentadol
+(29) Tapentadol
 
 9780 
 
-(29) Thiafentanil
+(30) Thiafentanil
 
 9729
 

@@ -15,5 +15,3 @@ After a savings association converts, it must:
 (c) Use its best efforts to list its shares on a national or regional securities exchange or on the National Association of Securities Dealers Automated Quotation system.
 
 (d) File all post-conversion reports that the appropriate Federal banking agency requires.
-
-Contributions to Charitable Organizations

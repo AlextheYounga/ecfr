@@ -14062,7 +14062,75 @@ The maps provided are for informational purposes only. Map follows:
 
 Tennessee. Lawrence County, Buffalo River and its tributaries in Lawrence County, Tenn.
 
-![](/graphics/ec01jn91.108.gif)Vermilion Darter (*Etheostoma chermocki*)
+![](/graphics/ec01jn91.108.gif)Trispot Darter (*Etheostoma Trisella*)
+
+(1) Critical habitat units are depicted for St. Clair, Etowah, Cherokee, and Calhoun Counties, Alabama; Bradley and Polk Counties, Tennessee; and Whitfield, Murray, and Gordon Counties, Georgia, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the trispot darter consist of the following components:
+
+(i) Geomorphically stable, small to medium streams with detritus, woody debris, and stands of water willow (*Justicia americana*) over stream substrate that consists of small cobble, pebbles, gravel, and fine layers of silt; and intact riparian cover to maintain stream morphology and reduce erosion and sediment inputs.
+
+(ii) Adequate seasonal water flows, or a hydrologic flow regime (which includes the severity, frequency, duration, and seasonality of discharge over time) necessary to maintain appropriate benthic habitats and to maintain and create connectivity between permanently flowing streams with associated streams that hold water from November through April, providing connectivity between the darter's spawning and summer areas.
+
+(iii) Water and sediment quality (including, but not limited to, conductivity; hardness; turbidity; temperature; pH; ammonia; heavy metals; pesticides; animal waste products; and nitrogen, phosphorus, and potassium fertilizers) necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages.
+
+(iv) Prey base of aquatic macroinvertebrates.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on October 30, 2020. In addition, any lands that are perennially dry areas that are located within the critical habitat boundaries shown on the maps in this entry are not designated as critical habitat.
+
+(4) *Critical habitat map units.* Data layers defining map units were created using Universal Transverse Mercator (UTM) Zone 16N coordinates and species' occurrence data. The hydrologic data used in the maps were extracted from U.S. Geological Survey National Hydrography Dataset High Resolution (1:24,000 scale) using Geographic Coordinate System North American 1983 coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *http://www.regulations.gov* under Docket No. FWS-R4-ES-2018-0073.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er30se20.003.gif)
+
+(6) Unit 1: Big Canoe Creek, St. Clair County, Alabama.
+
+(i) *General Description:* Unit 1 consists of 41 stream miles (mi) (66 kilometers (km)) in St. Clair County, Alabama, from approximately 3.5 mi (5.6 km) upstream of Pinedale Road, west of Ashville, Alabama, to approximately U.S. Highway (Hwy.) 11. In addition to Big Canoe Creek, Unit 1 includes the westernmost portion of Little Canoe Creek to State Hwy. 174 and all of its associated tributaries. Unit 1 also includes all low-elevation areas (5,286 acres (ac) (2,139 hectares (ha))) containing channels that hold water from November through April beginning 0.5 mi (0.8 km) upstream of County Road 31 upstream to the U.S. Hwy. 11 crossing with Big Canoe Creek, approximately 0.70 mi (1.1 km) downstream of the Interstate 59 (I-59) crossing with the Left Hand Prong Little Canoe Creek, and the State Hwy. 174 crossing with Little Canoe Creek and Stovall Branch.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er30se20.004.gif)
+
+(7) Unit 2: Ballplay Creek, Etowah, Cherokee, and Calhoun Counties, Alabama.
+
+(i) Unit 2 consists of 17 stream mi (27 km) of Ballplay Creek in Etowah, Cherokee, and Calhoun Counties, Alabama, and 2,527 ac (1,023 ha) of ephemeral spawning habitat. Unit 2 begins upstream of a wetland complex located at the border between Etowah and Cherokee Counties approximately at County Road 32, and continues upstream approximately to the U.S. Hwy. 278 crossing over Ballplay Creek in Calhoun County, Alabama. Unit 2 includes all low-elevation areas containing channels that hold water from November through April beginning upstream of the wetland complex located at the border between Etowah and Cherokee Counties approximately 0.60 mi (1 km) southwest of County Road 32, extending upstream to the confluence of Ballplay and Little Ballplay Creeks and to the west along Rocky Ford Road and Alford Road.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er30se20.005.gif)
+
+(8) Unit 3: Conasauga River, Bradley and Polk Counties, Tennessee, and Whitfield and Murray Counties, Georgia.
+
+(i) Unit 3 consists of 57 stream mi (92 km) and 1,400 ac (567 ha) of ephemeral wetland spawning habitat in Whitfield and Murray Counties, Georgia, and Polk and Bradley Counties, Tennessee. Unit 3 begins in the Conasauga River upstream of the mouth of Coahulla Creek and continues upstream to the mouth of Minneawauga Creek. Unit 3 also includes Mill Creek, from its confluence with the Conasauga River in Bradley County, Tennessee, upstream to the first impoundment on Mill Creek approximately at Green Shadow Road SE; Old Fort Creek, from Ladd Springs Road SE in Polk County, Tennessee, to its confluence with Mill Creek in Bradley County, Tennessee; and Perry Creek, from its headwaters (approximately 0.35 mi (0.6 km) upstream of Tennga Gregory Road) to its confluence with the Conasauga River in Murray County, Georgia, and both of its tributaries. Unit 3 includes all low-elevation areas containing channels that hold water from November through April, beginning from the confluence of the Conasauga River and Shears Branch (west of U.S. Hwy. 411 in Polk County, Tennessee) to approximately 0.30 mi (0.5 km) downstream of the confluence of the Conasauga River and Perry Creek; Mill Creek from Hicks Tanyard Road downstream to its confluence with the Conasauga River; Old Fort Creek from Hicks Tanyard Road to its confluence with Mill Creek; and Perry Creek.
+
+(ii) Map of Unit 3 follows:
+
+![](/graphics/er30se20.006.gif)
+
+(9) Unit 4: Mill Creek, Whitfield County, Georgia.
+
+(i) Unit 4 consists of 9.4 stream mi (15.1 km) of Mill Creek in Whitfield County, Georgia. Unit 4 begins at the confluence of Mill Creek with Coahulla Creek and continues upstream along Mill Creek for approximately 9.4 mi (15.1 km) to the U.S. Hwy. 41 crossing.
+
+(ii) Map of Unit 4 follows:
+
+![](/graphics/er30se20.007.gif)
+
+(10) Unit 5: Coahulla Creek, Whitfield County, Georgia, and Bradley County, Tennessee.
+
+(i) Unit 5 consists of 26 stream mi (42 km) of Coahulla Creek and 716 ac (290 ha) of ephemeral spawning habitat in Whitfield County, Georgia, and Bradley County, Tennessee. Unit 5 begins immediately upstream of the Prater Mill dam upstream of State Hwy. 2 in Georgia. The unit continues upstream for approximately 26 mi (42 km) to Ramsey Bridge Road SE and includes ephemeral wetland habitat from 0.5 mi (0.8 km) downstream of Hopewell Road to approximately 0.5 mi (0.8 km) upstream of McGaughey Chapel Road.
+
+(ii) Map of Unit 5 follows:
+
+![](/graphics/er30se20.008.gif)
+
+(11) Unit 6: Coosawattee River, Gordon and Murray Counties, Georgia.
+
+(i) Unit 6 consists of 25 stream mi (40.2 km) of the Coosawattee River beginning at the confluence with the Conasauga River in Gordon County, Georgia. The unit continues upstream to Old Highway 411 downstream of Carters Lake Reregulation Dam in Murray County, Georgia.
+
+(ii) Map of Unit 6 follows:
+
+![](/graphics/er30se20.009.gif)Vermilion Darter (*Etheostoma chermocki*)
 
 (1) Critical habitat units are depicted for Jefferson County, Alabama, on the map below.
 
