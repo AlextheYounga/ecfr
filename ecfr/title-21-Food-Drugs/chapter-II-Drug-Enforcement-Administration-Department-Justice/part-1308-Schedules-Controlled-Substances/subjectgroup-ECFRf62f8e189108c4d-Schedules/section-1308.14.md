@@ -300,7 +300,7 @@
 
 1675 
 
-(12) Solriamfetol (2-amino-3-phenylpropyl car-bamate; benzenepropanol, beta-amino-, carbamate (ester))
+(12) Solriamfetol (2-amino-3-phenylpropyl carbamate; benzenepropanol, beta-amino-, carbamate (ester))
 
 1650 
 
