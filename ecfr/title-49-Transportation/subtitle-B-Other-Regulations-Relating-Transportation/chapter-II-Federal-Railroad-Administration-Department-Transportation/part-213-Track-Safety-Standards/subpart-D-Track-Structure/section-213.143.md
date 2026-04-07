@@ -5,10 +5,10 @@
 Table 1 to § 213.143(a)
 | Class of track                                                                                                                                                            | Guard check gage | Guard face gage |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------- |
-| Class 1 track                                                                                                                                                             | 4′61/8″          | 4′51/4″         |
-| Class 2 track                                                                                                                                                             | 4′61/4″          | 4′51/8″         |
-| Class 3 and 4 track                                                                                                                                                       | 4′63/8″          | 4′51/8″         |
-| Class 5 track                                                                                                                                                             | 3 4′61/2″        | 4′5″            |
+| Class 1 track                                                                                                                                                             | 4′61⁄8″          | 4′51⁄4″         |
+| Class 2 track                                                                                                                                                             | 4′61⁄4″          | 4′51⁄8″         |
+| Class 3 and 4 track                                                                                                                                                       | 4′63⁄8″          | 4′51⁄8″         |
+| Class 5 track                                                                                                                                                             | 3 4′61⁄2″        | 4′5″            |
 | 1 A line along that side of the flangeway which is nearer to the center of the track and at the same elevation as the gage line.                                          |                  |                 |
 | 2 A line five-eighths of an inch below the top of the center line of the head of the running rail, or corresponding location of the tread portion of the track structure. |                  |                 |
 | 3 See paragraph (b) of this section.                                                                                                                                      |                  |                 |
