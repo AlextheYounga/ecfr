@@ -1,5 +1,7 @@
 ##### § 19.116 Change in proprietorship.
 
+Link to an amendment published at 89 FR 87939, Nov. 6, 2024.
+
 (a) *General.* If there is a change in proprietorship at a distilled spirits plant, the following requirements apply to the outgoing proprietor and to the incoming (successor) proprietor.
 
 (1) *Outgoing proprietor.* An outgoing proprietor must comply with the requirements of § 19.147. An outgoing proprietor may transfer spirits to its successor in accordance with § 19.141.

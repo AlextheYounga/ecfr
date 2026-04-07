@@ -1,4 +1,6 @@
-##### § 25.11 Meaning of terms.
+##### § 25.11 Meaning of terms. -
+
+Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
 
 When used in this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms have the meanings given in this section.
 

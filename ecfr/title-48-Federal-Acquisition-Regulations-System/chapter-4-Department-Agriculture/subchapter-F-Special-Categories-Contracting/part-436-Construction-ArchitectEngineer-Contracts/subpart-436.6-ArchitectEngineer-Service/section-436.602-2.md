@@ -1,3 +1,0 @@
-##### 436.602-2 Evaluation boards.
-
-HCA's shall establish written procedures for providing permanent or ad hoc architect-engineer evaluation boards as prescribed in FAR 36.602-2. The procedures may provide for the appointment of private practitioners of architecture, engineering, or related professions when such action is determined by the HCA to be essential to meet the Government's minimum needs.
