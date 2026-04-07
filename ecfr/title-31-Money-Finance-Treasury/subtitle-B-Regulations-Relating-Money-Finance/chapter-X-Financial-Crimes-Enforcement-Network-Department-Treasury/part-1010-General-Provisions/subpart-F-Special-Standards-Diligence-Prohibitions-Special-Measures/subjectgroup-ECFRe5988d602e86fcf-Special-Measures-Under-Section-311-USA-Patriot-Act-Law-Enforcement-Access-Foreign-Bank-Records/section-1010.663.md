@@ -1,6 +1,6 @@
 ##### § 1010.663 Special measures regarding Al-Huda Bank.
 
-(a) Definitions. For purposes of this section, the following terms have the following meanings.
+(a) Definitions. For purposes of this section, the following terms have the following meanings.*Al-Huda Bank.*
 
 (1) *Al-Huda Bank.* The term “Al-Huda Bank” means all subsidiaries, branches, and offices of Al-Huda Bank operating as a bank in any jurisdiction.
 

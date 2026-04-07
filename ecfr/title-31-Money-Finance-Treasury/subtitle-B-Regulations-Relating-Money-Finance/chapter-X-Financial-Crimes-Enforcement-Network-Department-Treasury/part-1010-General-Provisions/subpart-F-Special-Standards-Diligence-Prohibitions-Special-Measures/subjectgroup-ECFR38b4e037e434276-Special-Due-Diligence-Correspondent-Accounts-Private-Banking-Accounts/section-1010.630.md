@@ -1,6 +1,6 @@
 ##### § 1010.630 Prohibition on correspondent accounts for foreign shell banks; records concerning owners of foreign banks and agents for service of legal process.
 
-(a) *Requirements for covered financial institutions*—(1) *Prohibition on correspondent accounts for foreign shell banks.* (i) A covered financial institution shall not establish, maintain, administer, or manage a correspondent account in the United States for, or on behalf of, a foreign shell bank.
+(a) *Requirements for covered financial institutions*—(1) *Prohibition on correspondent accounts for foreign shell banks.* (i) A covered financial institution shall not establish, maintain, administer, or manage a correspondent account in the United States for, or on behalf of, a foreign shell bank.Federal Register
 
 (ii) A covered financial institution shall take reasonable steps to ensure that any correspondent account established, maintained, administered, or managed by that covered financial institution in the United States for a foreign bank is not being used by that foreign bank to indirectly provide banking services to a foreign shell bank.
 

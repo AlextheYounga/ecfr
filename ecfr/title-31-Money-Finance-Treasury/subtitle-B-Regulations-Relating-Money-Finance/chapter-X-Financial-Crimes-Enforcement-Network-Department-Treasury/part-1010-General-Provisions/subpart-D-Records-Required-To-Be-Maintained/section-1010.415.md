@@ -1,6 +1,6 @@
 ##### § 1010.415 Purchases of bank checks and drafts, cashier's checks, money orders and traveler's checks.
 
-(a) No financial institution may issue or sell a bank check or draft, cashier's check, money order or traveler's check for $3,000 or more in currency unless it maintains records of the following information, which must be obtained for each issuance or sale of one or more of these instruments to any individual purchaser which involves currency in amounts of $3,000-$10,000 inclusive:
+(a) No financial institution may issue or sell a bank check or draft, cashier's check, money order or traveler's check for $3,000 or more in currency unless it maintains records of the following information, which must be obtained for each issuance or sale of one or more of these instruments to any individual purchaser which involves currency in amounts of $3,000-$10,000 inclusive:*e.g.,*
 
 (1) If the purchaser has a deposit account with the financial institution:
 

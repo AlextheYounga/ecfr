@@ -1,6 +1,6 @@
 ##### § 1010.505 Definitions.
 
-For purposes of this subpart E, the following definitions apply:
+For purposes of this subpart E, the following definitions apply:*Account*
 
 (a) *Account* means a formal banking or business relationship established to provide regular services, dealings, and other financial transactions, and includes, but is not limited to, a demand deposit, savings deposit, or other transaction or asset account and a credit account or other extension of credit.
 

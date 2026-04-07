@@ -1,6 +1,6 @@
 ##### § 1010.912 Persons who may issue summons.
 
-For purposes of this chapter, the following officials are hereby designated as delegates of the Secretary who are authorized to issue a summons under § 1010.911, solely for the purposes of civil enforcement of this chapter:
+For purposes of this chapter, the following officials are hereby designated as delegates of the Secretary who are authorized to issue a summons under § 1010.911, solely for the purposes of civil enforcement of this chapter:*FinCEN.*
 
 (a) *FinCEN.* The Director, FinCEN.
 
