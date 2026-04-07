@@ -1,3 +1,5 @@
 ##### § 250.1621 Crew instructions.
 
+Link to an amendment published at 90 FR 36109, Aug. 1, 2025.
+
 Prior to engaging in well-completion or well-workover operations, crew members shall be instructed in the safety requirements of the operations to be performed, possible hazards to be encountered, and general safety considerations to protect personnel, equipment, and the environment. Date and time of safety meetings shall be recorded and available for BSEE review.
