@@ -1,0 +1,3 @@
+##### § 12.52 Can I file a petition for remission for my abandoned property?
+
+You may file a petition for remission of abandoned property with the Service and seek the return of property you had voluntarily abandoned, within the time period described in § 12.33. If you have agreed to abandon property, your right to seek relief is limited to whatever process expressly was reserved in the abandonment document you signed.
