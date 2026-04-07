@@ -1,7 +1,5 @@
 ##### § 622.1 Purpose and scope.
 
-Link to an amendment published at 82 FR 34580, July 25, 2017.Link to an amendment published at 82 FR 34594, July 25, 2017.
-
 (a) The purpose of this part is to implement the FMPs prepared under the Magnuson-Stevens Act by the CFMC, GMFMC, and/or SAFMC listed in Table 1 of this section.
 
 (b) This part governs conservation and management of species included in the FMPs in or from the Caribbean, Gulf, Mid-Atlantic, South Atlantic, or Atlantic EEZ, unless otherwise specified, as indicated in Table 1 of this section. For the FMPs noted in the following table, conservation and management extends to adjoining state waters for the purposes of data collection and monitoring.
@@ -24,17 +22,17 @@ Table 1 to § 622.1 - FMPs Implemented Under Part 622
 | FMP for Queen Conch Resources of Puerto Rico and the U.S. Virgin Islands                               | CFMC                                          | Caribbean.                               |
 | FMP for the Red Drum Fishery of the Gulf of Mexico                                                     | GMFMC                                         | Gulf. 1                                  |
 | FMP for the Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands                               | CFMC                                          | Caribbean.                               |
-| FMP for the Reef Fish Resources of the Gulf of Mexico                                                  | GMFMC                                         | Gulf. 1 3 4                              |
+| FMP for the Reef Fish Resources of the Gulf of Mexico                                                  | GMFMC                                         | Gulf. 1 3 4 7                            |
 | FMP for Regulating Offshore Marine Aquaculture in the Gulf                                             | GMFMC                                         | Gulf.                                    |
 | FMP for the Shrimp Fishery of the Gulf of Mexico                                                       | GMFMC                                         | Gulf. 1                                  |
 | FMP for the Shrimp Fishery of the South Atlantic Region                                                | SAFMC                                         | South Atlantic.                          |
-| FMP for the Snapper-Grouper Fishery of the South Atlantic Region                                       | SAFMC                                         | South Atlantic 6                         |
+| FMP for the Snapper-Grouper Fishery of the South Atlantic Region                                       | SAFMC                                         | South Atlantic. 1 2 6 8                  |
 | FMP for the Spiny Lobster Fishery of Puerto Rico and the U.S. Virgin Islands                           | CFMC                                          | Caribbean.                               |
 | FMP for the Spiny Lobster Fishery of the Gulf of Mexico and South Atlantic                             | GMFMC/SAFMC                                   | Gulf 1, South Atlantic. 1                |
 
 1 Regulated area includes adjoining state waters for purposes of data collection and quota monitoring.
 
-2 Black sea bass and scup are not managed by the FMP or regulated by this part north of 35°15.9′ N. lat., the latitude of Cape Hatteras Light, NC.
+2 Black sea bass and scup are not managed by the FMP or regulated by this part north of 35°15.19′ N. lat., the latitude of Cape Hatteras Light, NC.”
 
 3 Regulated area includes adjoining state waters for Gulf red snapper harvested or possessed by a person aboard a vessel for which a Gulf red snapper IFQ vessel account has been established or possessed by a dealer with a Gulf IFQ dealer endorsement.
 
@@ -44,4 +42,8 @@ Table 1 to § 622.1 - FMPs Implemented Under Part 622
 
 6 Nassau grouper in the South Atlantic EEZ and the Gulf EEZ are managed under the FMP.
 
-\[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 81 FR 1792, Jan. 13, 2016\]
+7 Hogfish are managed by the FMP in the Gulf EEZ except south of 25°09′ N. lat. off the west coast of Florida. Hogfish in the remainder of the Gulf EEZ south of 25°09′ N. lat. off the west coast of Florida are managed under the FMP for the Snapper-Grouper Fishery of the South Atlantic Region.
+
+8 Hogfish in the Gulf EEZ are managed under the FMP from the South Atlantic and Gulf of Mexico intercouncil boundary specified in § 600.105(c) and south of 25°09′ N. lat. off the west coast of Florida. Hogfish in the remainder of the Gulf EEZ are managed under the FMP for the Reef Fish Resources of the Gulf of Mexico.
+
+\[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, 34594 July 25, 2017; 82 FR 40075, Aug. 24, 2017\]
