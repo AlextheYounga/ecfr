@@ -1,6 +1,6 @@
 ##### § 381.168 Maximum percent of skin in certain poultry products.
 
-The poultry products listed in Table V shall have not more than the percent of skin specified in the table, when raw and when cooked.
+The poultry products listed in Table V shall have not more than the percent of skin specified in the table, when raw and when cooked. 
 
 Table V
 | Product name                 | Percent skin |

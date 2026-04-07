@@ -1,8 +1,8 @@
 ##### § 648.372 Frank R. Lautenberg Deep-Sea Coral Protection Area.
 
-(a) *Restrictions.* No vessel may fish with bottom-tending gear within the Frank R. Lautenberg Deep-Sea Coral Protection Area described in this section, unless transiting pursuant to paragraph (d) of this section, fishing lobster trap gear in accordance with § 697.21 of this chapter, or fishing red crab trap gear in accordance with § 648.264. Bottom-tending gear includes but is not limited to bottom-tending otter trawls, bottom-tending beam trawls, hydraulic dredges, non-hydraulic dredges, bottom-tending seines, bottom longlines, pots and traps, and sink or anchored gillnets. The Frank R. Lautenberg Deep-Sea Coral Protection Area consists of the Broad and Discrete Deep-Sea Coral Zones defined in paragraphs (b) and (c) of this section. 
+(a) *Restrictions.* No vessel may fish with bottom-tending gear within the Frank R. Lautenberg Deep-Sea Coral Protection Area described in this section, unless transiting pursuant to paragraph (d) of this section, fishing lobster trap gear in accordance with § 697.21 of this chapter, or fishing red crab trap gear in accordance with § 648.264. Bottom-tending gear includes but is not limited to bottom-tending otter trawls, bottom-tending beam trawls, hydraulic dredges, non-hydraulic dredges, bottom-tending seines, bottom longlines, pots and traps, and sink or anchored gillnets. The Frank R. Lautenberg Deep-Sea Coral Protection Area consists of the Broad and Discrete Deep-Sea Coral Zones defined in paragraphs (b) and (c) of this section.
 
-(b) *Broad Deep-Sea Coral Zone.* The Broad Deep-Sea Coral Zone is bounded on the east by the outer limit of the U.S. Exclusive Economic Zone, and bounded on all other sides by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Discrete Zone column means the point is shared with a Discrete Deep-Sea Coral Zone, as defined in paragraph (c) of this section. 
+(b) *Broad Deep-Sea Coral Zone.* The Broad Deep-Sea Coral Zone is bounded on the east by the outer limit of the U.S. Exclusive Economic Zone, and bounded on all other sides by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Discrete Zone column means the point is shared with a Discrete Deep-Sea Coral Zone, as defined in paragraph (c) of this section.
 
 Broad Zone
 | Point | Latitude    | Longitude   | Discrete zone |
@@ -199,7 +199,7 @@ Broad Zone
 | 190   | 38°4.84′ N  | 68°49.99′ W |               |
 | 191   | 38°2.21′ N  | 68°47.62′ W |               |
 
-(c) *Discrete Deep-Sea Coral Zones*—(1) *Block Canyon.* Block Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section. 
+(c) *Discrete Deep-Sea Coral Zones*—(1) *Block Canyon.* Block Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section.
 
 Block Canyon
 | Point | Latitude    | Longitude   | Broad zone |
@@ -213,7 +213,7 @@ Block Canyon
 | 7     | 39°52.6′ N  | 71°17.51′ W |            |
 | 1     | 39°55.08′ N | 71°18.62′ W | (\*)       |
 
-(2) *Ryan and McMaster Canyons.* Ryan and McMaster Canyons discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-sea Coral Zone, as defined in paragraph (b) of this section. 
+(2) *Ryan and McMaster Canyons.* Ryan and McMaster Canyons discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-sea Coral Zone, as defined in paragraph (b) of this section.
 
 Ryan and McMaster Canyons
 | Point | Latitude    | Longitude   | Broad zone |
@@ -229,7 +229,7 @@ Ryan and McMaster Canyons
 | 9     | 39°40.12′ N | 71°42.36′ W |            |
 | 1     | 39°43.84′ N | 71°44.85′ W | (\*)       |
 
-(3) *Emery and Uchupi Canyons.* Emery and Uchupi Canyons discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-sea Coral Zone, as defined in paragraph (b) of this section. 
+(3) *Emery and Uchupi Canyons.* Emery and Uchupi Canyons discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-sea Coral Zone, as defined in paragraph (b) of this section.
 
 Emery and Uchupi Canyons
 | Point | Latitude    | Longitude   | Broad zone |
@@ -243,7 +243,7 @@ Emery and Uchupi Canyons
 | 7     | 39°33.91′ N | 71°52.61′ W |            |
 | 1     | 39°37.15′ N | 71°55.85′ W | (\*)       |
 
-(4) *Jones and Babylon Canyons.* Jones and Babylon Canyons discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-sea Coral Zone, as defined in paragraph (b) of this section. 
+(4) *Jones and Babylon Canyons.* Jones and Babylon Canyons discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-sea Coral Zone, as defined in paragraph (b) of this section.
 
 Jones and Babylon Canyons
 | Point | Latitude    | Longitude   | Broad zone |
@@ -259,7 +259,7 @@ Jones and Babylon Canyons
 | 9     | 39°23′ N    | 71°52.48′ W |            |
 | 1     | 39°28.26′ N | 72°2.2′ W   | (\*)       |
 
-(5) *Hudson Canyon.* Hudson Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section. 
+(5) *Hudson Canyon.* Hudson Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section.
 
 Hudson Canyon
 | Point | Latitude    | Longitude   | Broad zone |
@@ -284,7 +284,7 @@ Hudson Canyon
 | 18    | 39°14.27′ N | 72°3.09′ W  |            |
 | 1     | 39°19.08′ N | 72°9.56′ W  | (\*)       |
 
-(6) *Mey-Lindenkohl Slope.* Mey-Lindenkohl Slope discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section. 
+(6) *Mey-Lindenkohl Slope.* Mey-Lindenkohl Slope discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section.
 
 Mey-Lindenkohl Slope
 | Point | Latitude    | Longitude   | Broad zone |
@@ -321,7 +321,7 @@ Mey-Lindenkohl Slope
 | 30    | 38°34.88′ N | 72°53.78′ W |            |
 | 1     | 38°43′ N    | 73°1.24′ W  | (\*)       |
 
-(7) *Spencer Canyon.* Spencer Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section. 
+(7) *Spencer Canyon.* Spencer Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section.
 
 Spencer Canyon
 | Point | Latitude    | Longitude   | Broad zone |
@@ -337,7 +337,7 @@ Spencer Canyon
 | 9     | 38°26.45′ N | 73°3.24′ W  |            |
 | 1     | 38°34.14′ N | 73°11.14′ W | (\*)       |
 
-(8) *Wilmington Canyon.* Wilmington Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-sea Coral Zone, as defined in paragraph (b) of this section. 
+(8) *Wilmington Canyon.* Wilmington Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-sea Coral Zone, as defined in paragraph (b) of this section.
 
 Wilmington Canyon
 | Point | Latitude    | Longitude   | Broad zone |
@@ -360,7 +360,7 @@ Wilmington Canyon
 | 16    | 38°15.79′ N | 73°26.38′ W |            |
 | 1     | 38°19.04′ N | 73°33.02′ W | (\*)       |
 
-(9) *North Heyes and South Wilmington Canyons.* North Heyes and South Wilmington Canyons discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section. 
+(9) *North Heyes and South Wilmington Canyons.* North Heyes and South Wilmington Canyons discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section.
 
 North Heyes and South Wilmington Canyons
 | Point | Latitude    | Longitude   | Broad zone |
@@ -380,7 +380,7 @@ North Heyes and South Wilmington Canyons
 | 13    | 38°11.13′ N | 73°28.72′ W |            |
 | 1     | 38°15.25′ N | 73°36.2′ W  | (\*)       |
 
-(10) *South Vries Canyon.* South Vries Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section. 
+(10) *South Vries Canyon.* South Vries Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section.
 
 South Vries Canyon
 | Point | Latitude   | Longitude   | Broad zone |
@@ -393,7 +393,7 @@ South Vries Canyon
 | 6     | 38°2.54′ N | 73°36.73′ W |            |
 | 1     | 38°6.35′ N | 73°44.8′ W  | (\*)       |
 
-(11) *Baltimore Canyon.* Baltimore Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section. 
+(11) *Baltimore Canyon.* Baltimore Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section.
 
 Baltimore Canyon
 | Point | Latitude    | Longitude   | Broad zone |
@@ -419,7 +419,7 @@ Baltimore Canyon
 | 19    | 37°59.19′ N | 73°40.67′ W |            |
 | 1     | 38°3.29′ N  | 73°49.1′ W  | (\*)       |
 
-(12) *Warr and Phoenix Canyon Complex.* Warr and Phoenix Canyon Complex discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section. 
+(12) *Warr and Phoenix Canyon Complex.* Warr and Phoenix Canyon Complex discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section.
 
 Warr and Phoenix Canyon Complex
 | Point | Latitude    | Longitude   | Broad zone |
@@ -433,7 +433,7 @@ Warr and Phoenix Canyon Complex
 | 7     | 37°49.84′ N | 73°47.11′ W |            |
 | 1     | 37°53.68′ N | 73°57.41′ W | (\*)       |
 
-(13) *Accomac and Leonard Canyons.* Accomac and Leonard Canyons discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section. 
+(13) *Accomac and Leonard Canyons.* Accomac and Leonard Canyons discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section.
 
 Accomac and Leonard Canyons
 | Point | Latitude    | Longitude   | Broad zone |
@@ -458,7 +458,7 @@ Accomac and Leonard Canyons
 | 18    | 37°44.14′ N | 74°6.96′ W  |            |
 | 1     | 37°45.15′ N | 74°7.24′ W  | (\*)       |
 
-(14) *Washington Canyon.* Washington Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section. 
+(14) *Washington Canyon.* Washington Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section.
 
 Washington Canyon
 | Point | Latitude    | Longitude   | Broad zone |
@@ -485,7 +485,7 @@ Washington Canyon
 | 20    | 37°15.73′ N | 74°12.2′ W  |            |
 | 1     | 37°22.74′ N | 74°26.24′ W | (\*)       |
 
-(15) *Norfolk Canyon.* Norfolk Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section. 
+(15) *Norfolk Canyon.* Norfolk Canyon discrete deep-sea coral zone is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request). An asterisk (\*) in the Broad Zone column means the point is shared with the Broad Deep-Sea Coral Zone, as defined in paragraph (b) of this section.
 
 Norfolk Canyon
 | Point | Latitude    | Longitude   | Broad zone |

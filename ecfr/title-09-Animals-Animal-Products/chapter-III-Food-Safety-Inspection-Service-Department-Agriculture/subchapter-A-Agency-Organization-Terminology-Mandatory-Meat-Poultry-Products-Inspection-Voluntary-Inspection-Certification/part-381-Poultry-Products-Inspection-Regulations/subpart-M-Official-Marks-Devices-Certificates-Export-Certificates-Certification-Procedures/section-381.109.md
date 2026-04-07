@@ -1,6 +1,6 @@
 ##### § 381.109 Form of official poultry inspection certificate.
 
-(a) The official poultry inspection certificate authorized by this subpart is a paper certificate (Form MP-505) for signature by an inspector, bearing the legend
+(a) The official poultry inspection certificate authorized by this subpart is a paper certificate (Form MP-505) for signature by an inspector, bearing the legend 
 
 U.S. Department of Agriculture Animal and Plant Health Inspection Service Meat and Poultry Inspection Program poultry inspection certificate and the seal of the U.S. Department of Agriculture, with a certification that the poultry described therein had been inspected in compliance with the Regulations of the Secretary of Agriculture Governing the Inspection of Poultry and Poultry Products.
 
