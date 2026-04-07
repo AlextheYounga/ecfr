@@ -1,7 +1,5 @@
 ##### § 423.2274 Broker and agent requirements.
 
-Link to an amendment published at 83 FR 16755, April 16, 2018.
-
 If a Part D sponsor uses agents and brokers to sell its Part D plans, the following requirements in this section are applicable.
 
 (a) *Definitions.* For purposes of this section, the following definitions are applicable:
@@ -52,27 +50,23 @@ If a Part D sponsor uses agents and brokers to sell its Part D plans, the follow
 
 (ii) For renewal years, compensation may be up to 50 percent of the current fair market value cut-off amounts published annually by CMS.
 
-(iii) If the Part D sponsor contracts with a third party entity such as a Field Marketing Organization or similar type entity to sell its insurance products, or perform services (for example, training, customer service, or agent recruitment) -
+(iii) The initial compensation is paid for replacements between unlike plan types.
+
+(iv) If the Part D sponsor contracts with a third party entity such as a Field Marketing Organization or similar type entity to sell its insurance products, or perform services (for example, training, customer service, or agent recruitment) -
 
 (A) The total amount paid by the Part D sponsor to the third party and its agents for enrollment of a beneficiary into a plan, if any, must be made in accordance with paragraph (b)(1) of this section; and
 
 (B) The amount paid to the third party for services other than selling insurance products, if any, must be fair-market value and must not exceed an amount that is commensurate with the amounts paid by the Part D sponsor to a third party for similar services during each of the previous 2 years.
 
-(2) *Aggregate compensation.* (i) An entity must not provide aggregate compensation to its agents or brokers greater than the renewal compensation payable by the replacing plan on renewal policies if an existing policy is replaced with a like plan at any time.
+(2) *Compensation payment and payment recovery.* (i) Compensation may only be paid for the enrollee's months of enrollment during a plan year.
 
-(ii) An agent or broker must not receive aggregate compensation greater than the renewal compensation payable by the replacing plan on renewal policies if an existing policy is replaced with a like plan type at any time.
-
-(iii) The initial compensation is paid for replacements between unlike plan types.
-
-(3) *Compensation payment and payment recovery.* (i) Compensation may only be paid for the enrollee's months of enrollment during a plan year.
-
-(ii)(A) Subject to paragraph (b)(3)(iii) of this section, compensation payments may be made at one time for the entire current plan year or in installments throughout the year.
+(ii)(A) Subject to paragraph (b)(2)(iii) of this section, compensation payments may be made at one time for the entire current plan year or in installments throughout the year.
 
 (B) Compensation may not be paid until January 1 of the enrollment year and, if paid at all, must be paid in full by December 31 of the enrollment year.
 
-(iii) When a beneficiary disenrolls from an MA plan, compensation paid to agents and brokers must be recovered for those months of the plan year for which the beneficiary is not enrolled. For disenrollments occurring within the first 3 months, the entire compensation must be recovered unless CMS determines that recoupment is not in the best interests of the Medicare program.
+(iii) When a beneficiary disenrolls from a Part D sponsor, compensation paid to agents and brokers must be recovered for those months of the plan year for which the beneficiary is not enrolled. For disenrollments occurring within the first 3 months, the entire compensation must be recovered unless CMS determines that recoupment is not in the best interests of the Medicare program.
 
-(4) *Compensation structure.* (i) A Part D sponsor must establish a compensation structure for new and replacement enrollments and renewals effective in a given plan year. Compensation structures must be in place by the beginning of the plan marketing period, October 1.
+(3) *Compensation structure.* (i) A Part D sponsor must establish a compensation structure for new and replacement enrollments and renewals effective in a given plan year. Compensation structures must be in place by the beginning of the plan marketing period, October 1.
 
 (ii) Compensation structures must be available upon CMS request including for audits, investigations, and to resolve complaints.
 
@@ -104,4 +98,4 @@ If a Part D sponsor uses agents and brokers to sell its Part D plans, the follow
 
 (2) Must be included in the total compensation not to exceed the fair market value for that calendar year.
 
-\[73 FR 54253, Sept. 18, 2008, as amended at 73 FR 67413, Nov. 14, 2008; 76 FR 21577, Apr. 15, 2011; 76 FR 54635, Sept. 1, 2011; 77 FR 22171, Apr. 12, 2012; 79 FR 29966, May 23, 2014; 80 FR 7965, Feb. 12, 2015\]
+\[73 FR 54253, Sept. 18, 2008, as amended at 73 FR 67413, Nov. 14, 2008; 76 FR 21577, Apr. 15, 2011; 76 FR 54635, Sept. 1, 2011; 77 FR 22171, Apr. 12, 2012; 79 FR 29966, May 23, 2014; 80 FR 7965, Feb. 12, 2015; 83 FR 16755, Apr. 16, 2018\]

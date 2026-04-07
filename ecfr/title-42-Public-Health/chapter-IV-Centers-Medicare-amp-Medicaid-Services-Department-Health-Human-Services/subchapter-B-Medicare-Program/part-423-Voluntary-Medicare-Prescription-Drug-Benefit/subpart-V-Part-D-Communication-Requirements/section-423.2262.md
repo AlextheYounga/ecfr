@@ -1,7 +1,5 @@
 ##### § 423.2262 Review and distribution of marketing materials.
 
-Link to an amendment published at 83 FR 16755, April 16, 2018.
-
 (a) *CMS review of marketing materials.* (1) Except as provided in paragraph (a)(2) of this section, a Part D plan may not distribute any marketing materials (as defined in § 423.2260 of this Part), or enrollment forms, or make such materials or forms available to Part D eligible individuals unless -
 
 (i) At least 45 days (or 10 days if using certain types of marketing materials that use, without modification, proposed model language and format, including standardized language and formatting, as specified by CMS) before the date of distribution, the Part D sponsor submits the material or form to CMS for review under the guidelines in § 423.2264 of this subpart; and
@@ -14,6 +12,6 @@ Link to an amendment published at 83 FR 16755, April 16, 2018.
 
 (c) *Standardized model marketing materials.* When specified by CMS, organizations must use standardized formats and language in model materials.
 
-(d) *Ad hoc enrollee communication materials.* Ad hoc enrollee communication materials may be reviewed by CMS, which may upon review determine that such materials must be modified, or may not longer be used.
+(d) *Enrollee communication materials.* Enrollee communication materials may be reviewed by CMS and CMS may determine, upon review of such materials, that the materials must be modified, or may no longer be used.
 
-\[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19826, Apr. 15, 2010; 80 FR 7965, Feb. 12, 2015\]
+\[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19826, Apr. 15, 2010; 80 FR 7965, Feb. 12, 2015; 83 FR 16755, Apr. 16, 2018\]

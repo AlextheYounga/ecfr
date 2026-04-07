@@ -1,7 +1,5 @@
 ##### § 422.2274 Broker and agent requirements.
 
-Link to an amendment published at 83 FR 16736, April 16, 2018.
-
 If an MA organization uses agents and brokers to sell its Medicare plans, the following requirements in this section are applicable.
 
 (a) *Definitions.* For purposes of this section, the following definitions are applicable:
@@ -52,21 +50,17 @@ If an MA organization uses agents and brokers to sell its Medicare plans, the fo
 
 (ii) For renewal years, compensation may be up to 50 percent of the current fair market value cut-off amounts published annually by CMS.
 
-(iii) If the MA organization contracts with a third party entity such as a Field Marketing Organization or similar type entity to sell its insurance products, or perform services (for example, training, customer service, or agent recruitment) -
+(iii) The initial compensation is paid for replacements between unlike plan types.
+
+(iv) If the MA organization contracts with a third party entity such as a Field Marketing Organization or similar type entity to sell its insurance products, or perform services (for example, training, customer service, or agent recruitment) -
 
 (A) The total amount paid by the MA organization to the third party and its agents for enrollment of a beneficiary into a plan, if any, must be made in accordance with paragraph (b)(1) of this section; and
 
 (B) The amount paid to the third party for services other than selling insurance products, if any, must be fair-market value and must not exceed an amount that is commensurate with the amounts paid by the MA organization to a third party for similar services during each of the previous 2 years.
 
-(2) *Aggregate compensation.* (i) An entity must not provide aggregate compensation to its agents or brokers greater than the renewal compensation payable by the replacing plan on renewal policies if an existing policy is replaced with a like plan at any time.
+(2) *Compensation payment and payment recovery.* (i) Compensation may only be paid for the enrollee's months of enrollment during a plan year.
 
-(ii) An agent or broker must not receive aggregate compensation greater than the renewal compensation payable by the replacing plan on renewal policies if an existing policy is replaced with a like plan type at any time.
-
-(iii) The initial compensation is paid for replacements between unlike plan types.
-
-(3) *Compensation payment and payment recovery.* (i) Compensation may only be paid for the enrollee's months of enrollment during a plan year.
-
-(ii)(A) Subject to paragraph (b)(3)(iii) of this section, compensation payments may be made at one time for the entire current plan year or in installments throughout the year.
+(ii)(A) Subject to paragraph (b)(2)(iii) of this section, compensation payments may be made at one time for the entire current plan year or in installments throughout the year.
 
 (B) Compensation may not be paid until January 1 of the enrollment year and, if paid at all, must be paid in full by December 31 of the enrollment year.
 
@@ -104,4 +98,4 @@ If an MA organization uses agents and brokers to sell its Medicare plans, the fo
 
 (2) Must be included in the total compensation not to exceed the fair market value for that calendar year.
 
-\[73 FR 54250, Sept. 18, 2008, as amended at 73 FR 67412, Nov. 14, 2008; 76 FR 21569, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22168, Apr. 12, 2012; 79 FR 29960, May 23, 2014; 80 FR 7962, Feb. 12, 2015\]
+\[73 FR 54250, Sept. 18, 2008, as amended at 73 FR 67412, Nov. 14, 2008; 76 FR 21569, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22168, Apr. 12, 2012; 79 FR 29960, May 23, 2014; 80 FR 7962, Feb. 12, 2015; 83 FR 16736, Apr. 16, 2018\]
