@@ -60,7 +60,7 @@
 
 (*4*) The design, “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, refurbishing, shipment, or transfer (in-country) of a whole plant to make chemical weapons precursors identified in ECCN 1C350, in or by countries other than those listed in Country Group A:3 (Australia Group); or
 
-(*5*) A 'military-intelligence end use' or a 'military-intelligence end user,' as defined in § 744.22(f) of the EAR, in Burma, the People's Republic of China, Russia, or Venezuela; or a country listed in Country Groups E:1 or E:2.
+(*5*) A 'military-intelligence end use' or a 'military-intelligence end user,' as defined in § 744.22(f) of the EAR, in Belarus, Burma, the People's Republic of China, Russia, or Venezuela; or a country listed in Country Groups E:1 or E:2.
 
 (B) If you are a “U.S. person” as that term is defined in § 772.1 of the EAR, you may not export a Schedule 1 chemical listed in Supplement No. 1 to part 745 without first complying with the provisions of §§ 742.18 and 745.1 of the EAR.
 
