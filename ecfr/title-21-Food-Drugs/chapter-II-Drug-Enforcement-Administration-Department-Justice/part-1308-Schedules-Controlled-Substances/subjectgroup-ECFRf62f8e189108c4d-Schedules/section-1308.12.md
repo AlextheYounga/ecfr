@@ -42,39 +42,43 @@
 
 9300 
 
-(x) Opium extracts
+(x) Noroxymorphone
+
+9668 
+
+(xi) Opium extracts
 
 9610 
 
-(xi) Opium fluid
+(xii) Opium fluid
 
 9620 
 
-(xii) Oripavine
+(xiii) Oripavine
 
 9330 
 
-(xiii) Oxycodone
+(xiv) Oxycodone
 
 9143 
 
-(xiv) Oxymorphone
+(xv) Oxymorphone
 
 9652 
 
-(xv) Powdered opium
+(xvi) Powdered opium
 
 9639 
 
-(xvi) Raw opium
+(xvii) Raw opium
 
 9600 
 
-(xvii) Thebaine
+(xviii) Thebaine
 
 9333 
 
-(xviii) Tincture of opium
+(xix) Tincture of opium
 
 9630
 

@@ -4,7 +4,7 @@
 
 (1) *Scheduled flight.* The scheduled aircraft of a scheduled airline may be allowed to land at a landing rights airport. Permission is given by the director of the port, or his representative, at the port nearest to which first landing is made.
 
-(i) *Additional flights, charters or changes in schedule - Scheduled aircraft.* If a new carrier plans to set up a new flight schedule, or an established carrier makes changes in its approved schedule, landing rights may be granted by the port director.
+(i) *Additional flights, charters or changes in schedule—Scheduled aircraft.* If a new carrier plans to set up a new flight schedule, or an established carrier makes changes in its approved schedule, landing rights may be granted by the port director.
 
 (ii) *Additional or charter flight.* If a carrier or charter operator wants to begin operating or to add flights, application must be made to the port director for landing rights. All requests must be made not less than 48 hours before the intended time of arrival, except in emergencies. If the request is oral, it must be put in writing before or at the time of arrival.
 
@@ -30,7 +30,7 @@
 
 (b) *Payment of expenses.* In the case of an arrival at a location outside the limits of a port of entry, the owner, operator or person in charge of the aircraft must pay any added charges for inspecting the aircraft, passengers, employees and merchandise when landing rights are given (see §§ 24.17 and 24.22(e) of this chapter).
 
-(c) *Payment of expenses.* In the case of an arrival at a location outside the limits of a port of entry, the owner, operator or person in charge of the aircraft shall pay any added charges for inspecting the aircraft, passengers, employees and merchandise when landing rights are given (see § § 24.17 and 24.22(e) of this chapter).
+(c) *Payment of expenses.* In the case of an arrival at a location outside the limits of a port of entry, the owner, operator or person in charge of the aircraft shall pay any added charges for inspecting the aircraft, passengers, employees and merchandise when landing rights are given (see §§ 24.17 and 24.22(e) of this chapter).
 
 (d) *Denial or withdrawal of landing rights.* Permission to land at a landing rights airport may be denied or withdrawn for any of the following reasons:
 

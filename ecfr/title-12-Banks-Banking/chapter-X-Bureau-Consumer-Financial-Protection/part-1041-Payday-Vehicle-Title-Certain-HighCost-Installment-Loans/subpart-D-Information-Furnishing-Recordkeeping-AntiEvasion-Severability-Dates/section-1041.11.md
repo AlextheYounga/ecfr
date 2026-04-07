@@ -1,7 +1,5 @@
 ##### § 1041.11 Registered information systems.
 
-Link to an amendment published at 84 FR 27929, June 17, 2019.
-
 (a) *Definitions.* (1) *Consumer report* has the same meaning as in section 603(d) of the Fair Credit Reporting Act, 15 U.S.C. 1681a(d).
 
 (2) *Federal consumer financial law* has the same meaning as in section 1002(14) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, 12 U.S.C. 5481(14).
@@ -44,9 +42,9 @@ Link to an amendment published at 84 FR 27929, June 17, 2019.
 
 (8) *Bureau supervisory authority.* The entity acknowledges it is, or consents to being, subject to the Bureau's supervisory authority.
 
-(c) *Registration of information systems prior to August 19, 2019* - (1) *Preliminary approval.* Prior to August 19, 2019, the Bureau may preliminarily approve an entity for registration only if the entity submits an application for preliminary approval to the Bureau by the deadline set forth in paragraph (c)(3)(i) of this section containing information sufficient for the Bureau to determine that the entity is reasonably likely to satisfy the conditions set forth in paragraph (b) of this section by the deadline set forth in paragraph (c)(3)(ii) of this section. The assessments described in paragraphs (b)(5) and (7) of this section need not be included with an application for preliminary approval for registration or completed prior to the submission of the application. The Bureau may require additional information and documentation to facilitate this determination.
+(c) *Registration of information systems prior to November 19, 2020* - (1) *Preliminary approval.* Prior to November 19, 2020, the Bureau may preliminarily approve an entity for registration only if the entity submits an application for preliminary approval to the Bureau by the deadline set forth in paragraph (c)(3)(i) of this section containing information sufficient for the Bureau to determine that the entity is reasonably likely to satisfy the conditions set forth in paragraph (b) of this section by the deadline set forth in paragraph (c)(3)(ii) of this section. The assessments described in paragraphs (b)(5) and (7) of this section need not be included with an application for preliminary approval for registration or completed prior to the submission of the application. The Bureau may require additional information and documentation to facilitate this determination.
 
-(2) *Registration.* Prior to August 19, 2019, the Bureau may approve the application of an entity to be a registered information system only if:
+(2) *Registration.* Prior to November 19, 2020, the Bureau may approve the application of an entity to be a registered information system only if:
 
 (i) The entity received preliminary approval pursuant to paragraph (c)(1) of this section; and
 
@@ -58,7 +56,7 @@ Link to an amendment published at 84 FR 27929, June 17, 2019.
 
 (iii) The Bureau may waive the deadlines set forth in this paragraph (c).
 
-(d) *Registration of information systems on or after August 19, 2019* - (1) *Provisional registration.* On or after August 19, 2019, the Bureau may approve an entity to be a provisionally registered information system only if the entity submits an application to the Bureau that contains information and documentation sufficient for the Bureau to determine that the entity satisfies the conditions set forth in paragraph (b) of this section. The Bureau may require additional information and documentation to facilitate this determination or otherwise to assess whether provisional registration of the entity would pose an unreasonable risk to consumers.
+(d) *Registration of information systems on or after August 19, 2019* - (1) *Provisional registration.* On or after November 19, 2020, the Bureau may approve an entity to be a provisionally registered information system only if the entity submits an application to the Bureau that contains information and documentation sufficient for the Bureau to determine that the entity satisfies the conditions set forth in paragraph (b) of this section. The Bureau may require additional information and documentation to facilitate this determination or otherwise to assess whether provisional registration of the entity would pose an unreasonable risk to consumers.
 
 (2) *Registration.* An information system that is provisionally registered pursuant to paragraph (d)(1) of this section shall automatically become a registered information system pursuant to this paragraph (d)(2) upon the expiration of the 240-day period commencing on the date the information system is provisionally registered. For purposes of this paragraph (d)(2), an information system is provisionally registered on the date that the Bureau publishes notice of the provisional registration on the Bureau's Web site.
 
@@ -117,3 +115,5 @@ Link to an amendment published at 84 FR 27929, June 17, 2019.
 (4) *Appeals process.* The filing and pendency of an appeal does not by itself suspend the determination that is the subject of the appeal during the appeals process. Notwithstanding the foregoing, the Bureau may, in its discretion, suspend the determination that is the subject of the appeal during the appeals process.
 
 (5) *Decisions to grant or deny administrative appeals.* The Bureau shall decide whether to affirm the determination (in whole or in part) or to reverse the determination (in whole or in part) and shall notify the appellant of this decision in writing.
+
+\[82 FR 54871, Nov. 17, 2017, as amended at 84 FR 27929, June 17, 2019\]
