@@ -6,7 +6,7 @@
 
 (2) Contains either a narcotic or nonnarcotic controlled substance and one or more adulterating or denaturing agents in such a manner, combination, quantity, proportion, or concentration, that the preparation or mixture does not present any potential for abuse. If the preparation or mixture contains a narcotic controlled substance, the preparation or mixture must be formulated in such a manner that it incorporates methods of denaturing or other means so that the preparation or mixture is not liable to be abused or have ill effects, if abused, and so that the narcotic substance cannot in practice be removed.
 
-(b) Any person seeking to have any preparation or mixture containing a controlled substance and one or more noncontrolled substances exempted from the application of all or any part of the Act, pursuant to paragraph (a) of this section, may apply to the Drug and Chemical Evaluation Section, Diversion Control Division, Drug Enforcement Administration . See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
+(b) Any person seeking to have any preparation or mixture containing a controlled substance and one or more noncontrolled substances exempted from the application of all or any part of the Act, pursuant to paragraph (a) of this section, may apply to the Drug and Chemical Evaluation Section, Diversion Control Division, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 
 (c) An application for an exemption under this section shall contain the following information:
 
