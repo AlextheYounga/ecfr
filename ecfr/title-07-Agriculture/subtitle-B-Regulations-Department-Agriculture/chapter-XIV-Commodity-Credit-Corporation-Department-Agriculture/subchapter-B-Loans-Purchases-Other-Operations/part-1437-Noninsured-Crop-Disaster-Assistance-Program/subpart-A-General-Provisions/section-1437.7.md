@@ -2,7 +2,7 @@
 
 (a) Except as provided in paragraph (i) of this section, with respect to each crop, commodity, or acreage, producers must file an application for coverage under this part by the application closing date.
 
-(b) The service fee or certification of eligibility for service fee waiver specified in paragraph (g) of this section must accompany the application for coverage in order for it to be considered filed. The service fee is:
+(b) The service fee or certification of eligibility for a service fee waiver specified in paragraph (g) of this section must accompany the application for coverage in order for it to be considered filed. The service fee is:
 
 (1) For applications filed by April 7, 2019, $250 per crop per administrative county, up to $750 per producer per administrative county, not to exceed $1,875 per producer; and
 
