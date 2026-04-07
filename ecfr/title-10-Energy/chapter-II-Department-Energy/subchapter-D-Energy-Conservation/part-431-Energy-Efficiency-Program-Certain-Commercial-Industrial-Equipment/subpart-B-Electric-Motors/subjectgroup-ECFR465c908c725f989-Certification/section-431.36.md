@@ -6,7 +6,7 @@
 
 (2) Any testing of the basic model on which the representations are based must be conducted at an accredited laboratory.
 
-(b) *Required contents* - (1) *General representations.* Each Compliance Certification must certify that:
+(b) *Required contents*—(1) *General representations.* Each Compliance Certification must certify that:
 
 (i) The nominal full load efficiency for each basic model of electric motor distributed is not less than the minimum nominal full load efficiency required for that motor by § 431.25;
 
@@ -28,11 +28,11 @@
 
 (e) *New basic models.* For electric motors, a Compliance Certification must be submitted for a new basic model only if the manufacturer or private labeler has not previously submitted to DOE a Compliance Certification, that meets the requirements of this section, for a basic model that has the same rating as the new basic model, and that has a lower nominal full load efficiency than the new basic model.
 
-(f) *Response to Compliance Certification; Compliance Certification Number (CC number)* - (1) DOE processing of Certification. Promptly upon receipt of a Compliance Certification, the Department will determine whether the document contains all of the elements required by this section, and may, in its discretion, determine whether all or part of the information provided in the document is accurate. The Department will then advise the submitting party in writing either that the Compliance Certification does not satisfy the requirements of this section, in which case the document will be returned, or that the Compliance Certification satisfies this section. The Department will also advise the submitting party of the basis for its determination.
+(f) *Response to Compliance Certification; Compliance Certification Number (CC number)*—(1) DOE processing of Certification. Promptly upon receipt of a Compliance Certification, the Department will determine whether the document contains all of the elements required by this section, and may, in its discretion, determine whether all or part of the information provided in the document is accurate. The Department will then advise the submitting party in writing either that the Compliance Certification does not satisfy the requirements of this section, in which case the document will be returned, or that the Compliance Certification satisfies this section. The Department will also advise the submitting party of the basis for its determination.
 
 (2) *Issuance of CC number(s).* (i) Initial Compliance Certification. When DOE advises that the initial Compliance Certification submitted by or on behalf of a manufacturer or private labeler is acceptable, either:
 
-(A) DOE will provide a single unique CC number, “CC\_\_\_\_,” to the manufacturer or private labeler, and such CC number shall be applicable to all electric motors distributed by the manufacturer or private labeler, or
+(A) DOE will provide a single unique CC number, “CC\_\_\_\_\_\_\_\_,” to the manufacturer or private labeler, and such CC number shall be applicable to all electric motors distributed by the manufacturer or private labeler, or
 
 (B) When required by paragraph (f)(3) of this section, DOE will provide more than one CC number to the manufacturer or private labeler.
 
