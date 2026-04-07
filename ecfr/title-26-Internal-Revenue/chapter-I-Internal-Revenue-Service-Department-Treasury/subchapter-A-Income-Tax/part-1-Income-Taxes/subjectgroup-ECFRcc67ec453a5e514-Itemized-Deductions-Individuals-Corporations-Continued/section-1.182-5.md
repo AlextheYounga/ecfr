@@ -26,7 +26,7 @@ Example 1.For the taxable year 1963, A, who uses the cash receipts and disbursem
 | Loss on destruction of barn                                                                                                | 2,000   |         |
 | Loss on sale of truck                                                                                                      | 300     |         |
 | Section 1202 deduction—gain on sale of cows (500 × 1/2)                                                                    | 250     |         |
-| Section 1202 deduction—net gain on disposition of section 1231 property, other than cows \[$2,800 ($5,100−$2,300) × 1⁄2 \] | 1,400   |         |
+| Section 1202 deduction—net gain on disposition of section 1231 property, other than cows \[$2,800 ($5,100−$2,300) × 1/2 \] | 1,400   |         |
 |                                                                                                                            | ———     | $16,950 |
 | Net income before section 182 deduction                                                                                    |         | 6,750   |
 
