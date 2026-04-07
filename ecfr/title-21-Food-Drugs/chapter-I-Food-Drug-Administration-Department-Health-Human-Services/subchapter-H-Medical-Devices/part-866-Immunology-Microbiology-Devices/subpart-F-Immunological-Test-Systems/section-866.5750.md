@@ -1,8 +1,8 @@
 ##### § 866.5750 Radioallergosorbent (RAST) immunological test system.
 
-(a) *Identification.* A radioallergosorbent immunological test system is a device that consists of the reagents used to measure by immunochemical techniques the allergen antibodies (antibodies which cause an allergic reaction) specific for a given allergen. Measurement of specific allergen antibodies may aid in the diagnosis of asthma, allergies, and other pulmonary disorders. 
+(a) *Identification.* A radioallergosorbent immunological test system is a device that consists of the reagents used to measure by immunochemical techniques the allergen antibodies (antibodies which cause an allergic reaction) specific for a given allergen. Measurement of specific allergen antibodies may aid in the diagnosis of asthma, allergies, and other pulmonary disorders.
 
-(b) *Classification.* Class II (special controls). The device, when intended to detect any of the allergens included in Table 1 in this paragraph, is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 866.9. 
+(b) *Classification.* Class II (special controls). The device, when intended to detect any of the allergens included in Table 1 in this paragraph, is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 866.9.
 
 Table 1—Class II Exempt Allergens Under § 866.5750—Radioallergosorbent (RAST) Immunological Test Systems
 | Allergen code                    | Allergen product                                                                                       | Source   (taxonomical name)                                           |

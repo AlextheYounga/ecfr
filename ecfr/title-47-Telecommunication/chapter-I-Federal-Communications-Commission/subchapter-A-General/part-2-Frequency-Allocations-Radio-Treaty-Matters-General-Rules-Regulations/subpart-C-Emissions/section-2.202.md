@@ -1,16 +1,16 @@
 ##### § 2.202 Bandwidths.
 
-(a) *Occupied bandwidth.* The frequency bandwidth such that, below its lower and above its upper frequency limits, the mean powers radiated are each equal to 0.5 percent of the total mean power radiated by a given emission. In some cases, for example multichannel frequency-division systems, the percentage of 0.5 percent may lead to certain difficulties in the practical application of the definitions of occupied and necessary bandwidth; in such cases a different percentage may prove useful.
+(a) *Occupied bandwidth.* The frequency bandwidth such that, below its lower and above its upper frequency limits, the mean powers radiated are each equal to 0.5 percent of the total mean power radiated by a given emission. In some cases, for example multichannel frequency-division systems, the percentage of 0.5 percent may lead to certain difficulties in the practical application of the definitions of occupied and necessary bandwidth; in such cases a different percentage may prove useful. 
 
-(b) *Necessary bandwidth.* For a given class of emission, the minimum value of the occupied bandwidth sufficient to ensure the transmission of information at the rate and with the quality required for the system employed, under specified conditions. Emissions useful for the good functioning of the receiving equipment as, for example, the emission corresponding to the carrier of reduced carrier systems, shall be included in the necessary bandwidth.
+(b) *Necessary bandwidth.* For a given class of emission, the minimum value of the occupied bandwidth sufficient to ensure the transmission of information at the rate and with the quality required for the system employed, under specified conditions. Emissions useful for the good functioning of the receiving equipment as, for example, the emission corresponding to the carrier of reduced carrier systems, shall be included in the necessary bandwidth. 
 
-(1) The necessary bandwidth shall be expressed by three numerals and one letter. The letter occupies the position of the decimal point and represents the unit of bandwidth. The first character shall be neither zero nor K, M or G.
+(1) The necessary bandwidth shall be expressed by three numerals and one letter. The letter occupies the position of the decimal point and represents the unit of bandwidth. The first character shall be neither zero nor K, M or G. 
 
-(2) Necessary bandwidths:
+(2) Necessary bandwidths: 
 
 between 0.001 and 999 Hz shall be expressed in Hz (letter H); between 1.00 and 999 kHz shall be expressed in kHz (letter K); between 1.00 and 999 MHz shall be expressed in MHz (letter M); between 1.00 and 999 GHz shall be expressed in GHz (letter G).
 
-(3) Examples:
+(3) Examples: 
 
 *   0.002 Hz—H002
 *   0.1 Hz—H100
@@ -28,29 +28,29 @@ between 0.001 and 999 Hz shall be expressed in Hz (letter H); between 1.00 and 9
 *   202 MHz—202M
 *   5.65 GHz—5G65
 
-(c) The necessary bandwidth may be determined by one of the following methods:
+(c) The necessary bandwidth may be determined by one of the following methods: 
 
-(1) Use of the formulas included in the table, in paragraph (g) of this section, which also gives examples of necessary bandwidths and designation of corresponding emissions;
+(1) Use of the formulas included in the table, in paragraph (g) of this section, which also gives examples of necessary bandwidths and designation of corresponding emissions; 
 
-(2) For frequency modulated radio systems which have a substantially linear relationship between the value of input voltage to the modulator and the resulting frequency deviation of the carrier and which carry either single sideband suppressed carrier frequency division multiplex speech channels or television, computation in accordance with provisions of paragraph (f) of this section and formulas and methods indicated in the table, in paragraph (g) of this section;
+(2) For frequency modulated radio systems which have a substantially linear relationship between the value of input voltage to the modulator and the resulting frequency deviation of the carrier and which carry either single sideband suppressed carrier frequency division multiplex speech channels or television, computation in accordance with provisions of paragraph (f) of this section and formulas and methods indicated in the table, in paragraph (g) of this section; 
 
-(3) Computation in accordance with Recommendations of the International Radio Consultative Committee (C.C.I.R.);
+(3) Computation in accordance with Recommendations of the International Radio Consultative Committee (C.C.I.R.); 
 
-(4) Measurement in cases not covered by paragraph (c) (1), (2), or (3) of this section.
+(4) Measurement in cases not covered by paragraph (c) (1), (2), or (3) of this section. 
 
-(d) The value so determined should be used when the full designation of an emission is required. However, the necessary bandwidth so determined is not the only characteristic of an emission to be considered in evaluating the interference that may be caused by that emission.
+(d) The value so determined should be used when the full designation of an emission is required. However, the necessary bandwidth so determined is not the only characteristic of an emission to be considered in evaluating the interference that may be caused by that emission. 
 
-(e) In the formulation of the table in paragraph (g) of this section, the following terms are employed:
+(e) In the formulation of the table in paragraph (g) of this section, the following terms are employed: 
 
 Bn = Necessary bandwidth in hertz B = Modulation rate in bauds N = Maximum possible number of black plus white elements to be transmitted per second, in facsimile M = Maximum modulation frequency in hertz C = Sub-carrier frequency in hertz D = Peak frequency deviation, *i.e.*, half the difference between the maximum and minimum values of the instantaneous frequency. The instantaneous frequency in hertz is the time rate of change in phase in radians divided by 2 t = Pulse duration in seconds at half-amplitude tr = Pulse rise time in seconds between 10% and 90% of maximum amplitude K = An overall numerical factor which varies according to the emission and which depends upon the allowable signal distortion. Nc = Number of baseband telephone channels in radio systems employing multichannel multiplexing P = Continuity pilot sub-carrier frequency (Hz) (continuous signal utilized to verify performance of frequency-division multiplex systems).
 
-(f) Determination of values of *D* and *B*n for systems specified in paragraph (c)(2) of this section:
+(f) Determination of values of *D* and *B*n for systems specified in paragraph (c)(2) of this section: 
 
-(1) Determination of *D* in systems for multichannel telephony:
+(1) Determination of *D* in systems for multichannel telephony: 
 
-(i) The rms value of the per-channel deviation for the system shall be specified. (In the case of systems employing preemphasis or phase modulation, this value of per-channel deviation shall be specified at the characteristic baseband frequency.)
+(i) The rms value of the per-channel deviation for the system shall be specified. (In the case of systems employing preemphasis or phase modulation, this value of per-channel deviation shall be specified at the characteristic baseband frequency.) 
 
-(ii) The value of D is then calculated by multiplying the rms value of the per-channel deviation by the appropriate factors, as follows:
+(ii) The value of D is then calculated by multiplying the rms value of the per-channel deviation by the appropriate factors, as follows: 
 
 | Number of message circuits                                                                                                                                                          | Multiplying factors                                                                                             | Limits of X (Pavg (dBmO)) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------- |
@@ -66,19 +66,19 @@ Bn = Necessary bandwidth in hertz B = Modulation rate in bauds N = Maximum possi
 |                                                                                                                                                                                     | 20                                                                                                              |                           |
 | Where X represents the average power in a message circuit in dBmO; Nc is the number of circuits in the multiplexed message load; 3.76 corresponds to a peak load factor of 11.5 dB. |                                                                                                                 |                           |
 
-(2) The necessary bandwidth (*B*n) normally is considered to be numerically equal to:
+(2) The necessary bandwidth (*B*n) normally is considered to be numerically equal to: 
 
-(i) 2*M* + 2*DK,* for systems having no continuity pilot subcarrier or having a continuity pilot subcarrier whose frequency is not the highest modulating the main carrier;
+(i) 2*M* + 2*DK,* for systems having no continuity pilot subcarrier or having a continuity pilot subcarrier whose frequency is not the highest modulating the main carrier; 
 
-(ii) 2*P* + 2*DK,* for systems having a continuity pilot subcarrier whose frequency exceeds that of any other signal modulating the main carrier, unless the conditions set forth in paragraph (f)(3) of this section are met.
+(ii) 2*P* + 2*DK,* for systems having a continuity pilot subcarrier whose frequency exceeds that of any other signal modulating the main carrier, unless the conditions set forth in paragraph (f)(3) of this section are met. 
 
-(3) As an exception to paragraph (f)(2)(ii) of this section, the necessary bandwidth (*B*n) for such systems is numerically equal to 2*P* or 2*M* + 2*DK*, whichever is greater, provided the following conditions are met:
+(3) As an exception to paragraph (f)(2)(ii) of this section, the necessary bandwidth (*B*n) for such systems is numerically equal to 2*P* or 2*M* + 2*DK*, whichever is greater, provided the following conditions are met: 
 
-(i) The modulation index of the main carrier due to the continuity pilot subcarrier does not exceed 0.25, and
+(i) The modulation index of the main carrier due to the continuity pilot subcarrier does not exceed 0.25, and 
 
-(ii) In a radio system of multichannel telephony, the rms frequency deviation of the main carrier due to the continuity pilot subcarrier does not exceed 70 percent of the rms value of the per-channel deviation, or, in a radio system for television, the rms deviation of the main carrier due to the pilot does not exceed 3.55 percent of the peak deviation of the main carrier.
+(ii) In a radio system of multichannel telephony, the rms frequency deviation of the main carrier due to the continuity pilot subcarrier does not exceed 70 percent of the rms value of the per-channel deviation, or, in a radio system for television, the rms deviation of the main carrier due to the pilot does not exceed 3.55 percent of the peak deviation of the main carrier. 
 
-(g) Table of necessary bandwidths:
+(g) Table of necessary bandwidths: 
 
 | Description of emission                                                                                                                         | Necessary bandwidth                                                                                                                                 | Designation of emission                                                                                                                                                                                                                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
