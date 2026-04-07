@@ -6,15 +6,7 @@
 
 (c) The Commandant has reserved the authority to issue any rules and regulations determined to be significant under Executive Order 12866, Regulatory Planning and Review.
 
-(d) The Commandant has redelegated the authority to develop and issue those regulations necessary to implement laws, treaties and Executive Orders to the Assistant Commandant for Response Policy (CG-5R). The Commandant further redelegates this same authority to the Director, National Pollution Fund Center (Director, NPFC) for those regulations within the Director, NPFC area of responsibility.
-
-(1) The Assistant Commandant for Response Policy (CG-5R) may further reassign the delegated authority of this paragraph to:
-
-(i) Any Director within the CG-5 Directorate as appropriate; or
-
-(ii) Any other Assistant Commandant as appropriate.
-
-(2) The authority redelegated in paragraph (d) of this section is limited to those regulations determined to be nonsignificant within the meaning of Executive Order 12866.
+(d) The Commandant has redelegated the authority to develop and issue those regulations necessary to implement laws, treaties, and Executive orders to the Assistant Commandant for Prevention Policy, the Assistant Commandant for Response Policy, the Assistant Commandant for Resources, and the Judge Advocate General. The authority redelegated in this paragraph is limited to those regulations determined to be nonsignificant within the meaning of Executive Order 12866.
 
 (e)(1) The Commandant has redelegated to the Coast Guard District Commanders, with the reservation that this authority must not be further redelegated except as specified in paragraph (i) below, the authority to issue regulations pertaining to the following:
 
