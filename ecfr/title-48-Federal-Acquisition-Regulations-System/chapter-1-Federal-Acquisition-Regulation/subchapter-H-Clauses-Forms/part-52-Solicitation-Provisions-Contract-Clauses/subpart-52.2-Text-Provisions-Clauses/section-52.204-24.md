@@ -1,8 +1,10 @@
 ##### 52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment.
 
+Link to an amendment published at 85 FR 53133, Aug. 27, 2020.
+
 As prescribed in 4.2105(a), insert the following provision:
 
-Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2020) 
+Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2020)
 
 The Offeror shall not complete the representation at paragraph (d)(1) of this provision if the Offeror has represented that it “does not provide covered telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument” in the provision at 52.204-26, Covered Telecommunications Equipment or Services - Representation, or in paragraph (v) of the provision at 52.212-3, Offeror Representations and Certifications-Commercial Items.
 
