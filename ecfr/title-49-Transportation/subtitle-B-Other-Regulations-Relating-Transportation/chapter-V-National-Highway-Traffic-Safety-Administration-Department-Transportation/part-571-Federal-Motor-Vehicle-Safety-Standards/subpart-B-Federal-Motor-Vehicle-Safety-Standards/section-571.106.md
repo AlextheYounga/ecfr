@@ -73,9 +73,9 @@ S5.3.2 *Expansion and burst strength.* The maximum expansion of a hydraulic brak
 Table I—Maximum Expansion of Free Length Brake Hose, CC/FT
 | Hydraulic brake hose, inside diameter   | Test pressure |
 | --------------------------------------- | ------------- |
-| 1⁄8 inch, or 3mm, or less               | 0.66          |
-| \>1⁄8 inch or 3mm, to 3⁄16 inch or 5 mm | 0.86          |
-| \>3⁄16 inch or 5 mm                     | 1.04          |
+| 1/8 inch, or 3mm, or less               | 0.66          |
+| \>1/8 inch or 3mm, to 3/16 inch or 5 mm | 0.86          |
+| \>3/16 inch or 5 mm                     | 1.04          |
 
 S5.3.3 *Whip resistance.* A hydraulic brake hose assembly shall not rupture when run continuously on a flexing machine for 35 hours (S6.3).
 
@@ -172,9 +172,9 @@ S6.3.2 *Preparation.* (a) Except for the supplemental support specified in S6.3.
 Table II—Hose Lengths
 | Free length between end fittings, inches | Slack, inches |
 | ---------------------------------------- | ------------- |
-| 8 to 151⁄2, inclusive                    | 1.750         |
-| 10 to 151⁄2, inclusive                   |               |
-| Over 151⁄2 to 19 inclusive               | 1.250         |
+| 8 to 151/2, inclusive                    | 1.750         |
+| 10 to 151/2, inclusive                   |               |
+| Over 151/2 to 19 inclusive               | 1.250         |
 | Over 19 to 24, inclusive                 | 0.750         |
 
 S6.3.3 *Operation.* (a) Apply 235 psi water pressure and bleed all gases from the system.
@@ -353,18 +353,18 @@ Table III—Air Brake Hose Dimensions—Inside Diameter (ID) and Outside Diamete
 | Min. O.D.                                                                                                                                                                      | 0.594   (15.1)                                 |
 | Max. O.D.                                                                                                                                                                      | 0.656   (16.7)                                 |
 |                                                                                                                                                                                | Type AI (2)—Hose Size—Nominal Inside Diameter  |
-|                                                                                                                                                                                | 3⁄16                                           |
+|                                                                                                                                                                                | 3/16                                           |
 | Min. I.D.                                                                                                                                                                      | 0.188   (4.8)                                  |
 | Max. I.D.                                                                                                                                                                      | 0.214   (5.4)                                  |
 | Min. O.D.                                                                                                                                                                      | 0.472   (12.0)                                 |
 | Max. O.D.                                                                                                                                                                      | 0.510   (13.0)                                 |
 |                                                                                                                                                                                | Type AII (2)—Hose Size—Nominal Inside Diameter |
-|                                                                                                                                                                                | 3⁄16                                           |
+|                                                                                                                                                                                | 3/16                                           |
 | Min. I.D.                                                                                                                                                                      | 0.188   (4.8)                                  |
 | Max. I.D.                                                                                                                                                                      | 0.214   (5.4)                                  |
 | Min. O.D.                                                                                                                                                                      | 0.500   (12.7)                                 |
 | Max. O.D.                                                                                                                                                                      | 0.539   (13.7)                                 |
-| (1) Notes: Type A, sizes 3⁄8, 7⁄16, and 1⁄2 Special can be assembled with reusable end fittings. All sizes can be assembled using permanently-attached (crimped) end fittings. |                                                |
+| (1) Notes: Type A, sizes 3/8, 7/16, and 1/2 Special can be assembled with reusable end fittings. All sizes can be assembled using permanently-attached (crimped) end fittings. |                                                |
 | (2) Types AI and AII, all sizes, can be assembled with reusable or permanently-attached (crimped) end fittings.                                                                |                                                |
 
 S7.2.2 *End fittings.* Except for an end fitting that is attached by deformation of the fitting about a hose by crimping or swaging, at least one component of each air brake hose fitting shall be etched, embossed, or stamped in block capital letters and numerals at least one-sixteenth of an inch high with the following information:
@@ -394,10 +394,10 @@ S7.3.2 *High temperature resistance.* An air brake hose shall not show external 
 S7.3.3 *Low temperature resistance.* The inside and outside surfaces of an air brake hose shall not show cracks as a result of conditioning at minus 40 degrees Fahrenheit (minus 40 degrees Celsius) for 70 hours when bent around a large test cylinder having the radius specified in Table IV for the size of hose tested (S8.2).
 
 Table IV—Air Brake Hose Diameters and Test Cylinder Radii
-| Nominal hose inside diameter, inches 1                                                                                                  | 3⁄16   | 1⁄4       | 5⁄16      | 3⁄8       | 13⁄32     | 7⁄16, 1⁄2 | 5⁄8        |
+| Nominal hose inside diameter, inches 1                                                                                                  | 3/16   | 1/4       | 5/16      | 3/8       | 13/32     | 7/16, 1/2 | 5/8        |
 | Nominal hose inside diameter, millimeters 1                                                                                             | 4, 5   | 6         | 8         |           | 10        | 12        | 16         |
-| Small test cylinder, radius in inches (millimeters) 2                                                                                   | 1 (25) | 11⁄2 (38) | 13⁄4 (45) | 13⁄4 (45) | 17⁄8 (48) | 2 (51)    | 21⁄2 (64)  |
-| Large test cylinder, radius in inches (millimeters) 3                                                                                   | 2 (51) | 21⁄2 (64) | 3 (76)    | 31⁄2 (89) | 31⁄2 (89) | 4 (102)   | 41⁄2 (114) |
+| Small test cylinder, radius in inches (millimeters) 2                                                                                   | 1 (25) | 11/2 (38) | 13/4 (45) | 13/4 (45) | 17/8 (48) | 2 (51)    | 21/2 (64)  |
+| Large test cylinder, radius in inches (millimeters) 3                                                                                   | 2 (51) | 21/2 (64) | 3 (76)    | 31/2 (89) | 31/2 (89) | 4 (102)   | 41/2 (114) |
 | Notes:                                                                                                                                  |        |           |           |           |           |           |            |
 | 1 These sizes are listed to provide test cylinder radii for brake hoses manufactured in these sizes. They do not represent conversions. |        |           |           |           |           |           |            |
 | 2 Small test cylinders are used for the high temperature resistance test.                                                               |        |           |           |           |           |           |            |
@@ -504,9 +504,9 @@ S8.7.1 *Apparatus.* A flex testing machine with a fixed hose assembly attachment
 Table Accompanying Figure 5—Dimensions in Inches (Millimeters)
 | Free hose length                                     | Nominal hose inside diameter | Dimensions  |
 | ---------------------------------------------------- | ---------------------------- | ----------- |
-| 10.00 (254)                                          | 3⁄16, 1⁄4                    | 3.00   (76) |
-| 11.00 (279)                                          | 5⁄16, 3⁄8, 13⁄32             | 3.00   (76) |
-| 14.00 (355)                                          | 7⁄16, 1⁄2, 5⁄8               | 3.00   (76) |
+| 10.00 (254)                                          | 3/16, 1/4                    | 3.00   (76) |
+| 11.00 (279)                                          | 5/16, 3/8, 13/32             | 3.00   (76) |
+| 14.00 (355)                                          | 7/16, 1/2, 5/8               | 3.00   (76) |
 | **Note (1):** This is an approximate average radius. |                              |             |
 
 S8.7.2 *Preparation.* (a) Lay the hose material on a flat surface in an unstressed condition. Apply a permanent marking line along the centerline of the hose on the uppermost surface.
@@ -610,17 +610,17 @@ S9.2.7 *Bend.* The collapse of the outside diameter of a vacuum brake hose, othe
 Table V—Vacuum Brake Hose Test Requirements
 | Hose inside diameter\*                                                                                                          | High temperature resistance | Low temperature resistance | Bend | Deformation—collapsed inside diameter (dimension D), inches |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | -------------------------- | ---- | ----------------------------------------------------------- |
-| 7⁄32                                                                                                                            | 5                           | 8                          | 11⁄2 | 171⁄2                                                       |
-| 1⁄4                                                                                                                             | 6                           | 9                          | 11⁄2 | 171⁄2                                                       |
-| 9⁄32                                                                                                                            |                             | 9                          | 13⁄4 | 19                                                          |
-| 11⁄32                                                                                                                           | 8                           | 9                          | 13⁄4 | 19                                                          |
-| 3⁄8                                                                                                                             | 10                          | 10                         | 13⁄4 | 19                                                          |
-| 7⁄16                                                                                                                            |                             | 11                         | 2    | 201⁄2                                                       |
-| 15⁄32                                                                                                                           |                             | 11                         | 2    | 201⁄2                                                       |
-| 1⁄2                                                                                                                             | 12                          | 11                         | 2    | 201⁄2                                                       |
-| 5⁄8                                                                                                                             | 16                          | 12                         | 21⁄4 | 22                                                          |
-| 3⁄4                                                                                                                             |                             | 14                         | 21⁄2 | 24                                                          |
-| 1                                                                                                                               |                             | 16                         | 31⁄4 | 281⁄2                                                       |
+| 7/32                                                                                                                            | 5                           | 8                          | 11/2 | 171/2                                                       |
+| 1/4                                                                                                                             | 6                           | 9                          | 11/2 | 171/2                                                       |
+| 9/32                                                                                                                            |                             | 9                          | 13/4 | 19                                                          |
+| 11/32                                                                                                                           | 8                           | 9                          | 13/4 | 19                                                          |
+| 3/8                                                                                                                             | 10                          | 10                         | 13/4 | 19                                                          |
+| 7/16                                                                                                                            |                             | 11                         | 2    | 201/2                                                       |
+| 15/32                                                                                                                           |                             | 11                         | 2    | 201/2                                                       |
+| 1/2                                                                                                                             | 12                          | 11                         | 2    | 201/2                                                       |
+| 5/8                                                                                                                             | 16                          | 12                         | 21/4 | 22                                                          |
+| 3/4                                                                                                                             |                             | 14                         | 21/2 | 24                                                          |
+| 1                                                                                                                               |                             | 16                         | 31/4 | 281/2                                                       |
 | \*These sizes are listed to provide test values for brake hoses manufactured in these sizes. They do not represent conversions. |                             |                            |      |                                                             |
 
 S9.2.8 *Swell and adhesion.* Following exposure to Reference Fuel B (as described in ASTM D471-98 (incorporated by reference, see § 571.5)), every inside diameter of any section of a vacuum brake hose shall not be less than 75 percent of the nominal inside diameter of the hose if for heavy duty, or 70 percent of the nominal inside diameter of the hose if for light duty. The vacuum brake hose shall show no leakage in a vacuum test of 26 inches of Hg for 10 minutes. A vacuum hose that is constructed of two or more layers shall withstand a force of 6 pounds per inch of length before separation of adjacent layers. (S10.7).
@@ -684,17 +684,17 @@ S10.9.2 *Operation.* (a) Position the test specimen longitudinally in the compre
 Table VI—Dimensions of Test Specimen and Feeler Gage For Deformation Test
 | Hose inside diameter \*                                                                                                         | Specimen dimensions (see Fig. 7) | Feeler gage dimensions |
 | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------- |
-| 7⁄32                                                                                                                            | 5                                | 3⁄64                   |
-| 1⁄4                                                                                                                             | 6                                | 1⁄16                   |
-| 9⁄32                                                                                                                            |                                  | 1⁄16                   |
-| 11⁄32                                                                                                                           | 8                                | 5⁄64                   |
-| 3⁄8                                                                                                                             | 10                               | 3⁄32                   |
-| 7⁄16                                                                                                                            |                                  | 5⁄64                   |
-| 15⁄32                                                                                                                           |                                  | 5⁄64                   |
-| 1⁄2                                                                                                                             | 12                               | 1⁄8                    |
-| 5⁄8                                                                                                                             | 16                               | 5⁄32                   |
-| 3⁄4                                                                                                                             |                                  | 3⁄16                   |
-| 1                                                                                                                               |                                  | 1⁄4                    |
+| 7/32                                                                                                                            | 5                                | 3/64                   |
+| 1/4                                                                                                                             | 6                                | 1/16                   |
+| 9/32                                                                                                                            |                                  | 1/16                   |
+| 11/32                                                                                                                           | 8                                | 5/64                   |
+| 3/8                                                                                                                             | 10                               | 3/32                   |
+| 7/16                                                                                                                            |                                  | 5/64                   |
+| 15/32                                                                                                                           |                                  | 5/64                   |
+| 1/2                                                                                                                             | 12                               | 1/8                    |
+| 5/8                                                                                                                             | 16                               | 5/32                   |
+| 3/4                                                                                                                             |                                  | 3/16                   |
+| 1                                                                                                                               |                                  | 1/4                    |
 | \*These sizes are listed to provide test values for brake hoses manufactured in these sizes. They do not represent conversions. |                                  |                        |
 
 (b) Apply gradually increasing force to the test specimen to compress its inside diameter to that specified in Table VI (dimension D of Figure 7) for the size of hose tested.
@@ -716,15 +716,15 @@ S11. *Requirements—Plastic air brake tubing, plastic air brake tubing assembli
 Table VII—Plastic Air Brake Tubing Dimensions
 | Nominal tubing outside diameter | Maximum outside diameter | Minimum outside diameter | Nominal inside diameter | Nominal wall thickness | Wall thickness tolerance |
 | ------------------------------- | ------------------------ | ------------------------ | ----------------------- | ---------------------- | ------------------------ |
-| 1⁄8 inch                        | 3.25                     | 0.128                    | 3.10                    | 0.122                  | 2.01                     |
-| 5⁄32 inch                       | 4.04                     | 0.159                    | 3.89                    | 0.153                  | 2.34                     |
-| 3⁄16 inch                       | 4.83                     | 0.190                    | 4.67                    | 0.184                  | 2.97                     |
-| 1⁄4 inch                        | 6.43                     | 0.253                    | 6.27                    | 0.247                  | 4.32                     |
-| 5⁄16 inch                       | 8.03                     | 0.316                    | 7.82                    | 0.308                  | 5.89                     |
-| 3⁄8 inch                        | 9.63                     | 0.379                    | 9.42                    | 0.371                  | 6.38                     |
-| 1⁄2 inch                        | 12.83                    | 0.505                    | 12.57                   | 0.495                  | 9.55                     |
-| 5⁄8 inch                        | 16.00                    | 0.630                    | 15.75                   | 0.620                  | 11.20                    |
-| 3⁄4 inch                        | 19.18                    | 0.755                    | 18.92                   | 0.745                  | 14.38                    |
+| 1/8 inch                        | 3.25                     | 0.128                    | 3.10                    | 0.122                  | 2.01                     |
+| 5/32 inch                       | 4.04                     | 0.159                    | 3.89                    | 0.153                  | 2.34                     |
+| 3/16 inch                       | 4.83                     | 0.190                    | 4.67                    | 0.184                  | 2.97                     |
+| 1/4 inch                        | 6.43                     | 0.253                    | 6.27                    | 0.247                  | 4.32                     |
+| 5/16 inch                       | 8.03                     | 0.316                    | 7.82                    | 0.308                  | 5.89                     |
+| 3/8 inch                        | 9.63                     | 0.379                    | 9.42                    | 0.371                  | 6.38                     |
+| 1/2 inch                        | 12.83                    | 0.505                    | 12.57                   | 0.495                  | 9.55                     |
+| 5/8 inch                        | 16.00                    | 0.630                    | 15.75                   | 0.620                  | 11.20                    |
+| 3/4 inch                        | 19.18                    | 0.755                    | 18.92                   | 0.745                  | 14.38                    |
 | 6 mm                            | 6.10                     | 0.240                    | 5.90                    | 0.232                  | 4.00                     |
 | 8 mm                            | 8.10                     | 0.319                    | 7.90                    | 0.311                  | 6.00                     |
 | 10 mm                           | 10.13                    | 0.399                    | 9.87                    | 0.389                  | 7.00                     |
@@ -778,15 +778,15 @@ S11.3.5 *Moisture absorption and burst strength.* Plastic air brake tubing shall
 Table VIII—Plastic Air Brake Tubing Mechanical Properties
 | Nominal tubing OD                                                                                                                                                                                                                    | Burst strength pressure | Supported bend radius 1 | Unsupported bend radius 2 | Conditioned tensile load |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | ----------------------- | ------------------------- | ------------------------ |
-| 1⁄8 inch                                                                                                                                                                                                                             | 6900                    | 1000                    | 9.4                       | 0.37                     |
-| 5⁄32 inch                                                                                                                                                                                                                            | 8300                    | 1200                    | 12.7                      | 0.50                     |
-| 3⁄16 inch                                                                                                                                                                                                                            | 8300                    | 1200                    | 19.1                      | 0.75                     |
-| 1⁄4 inch                                                                                                                                                                                                                             | 8300                    | 1200                    | 25.4                      | 1.00                     |
-| 5⁄16 inch                                                                                                                                                                                                                            | 6900                    | 1000                    | 31.8                      | 1.25                     |
-| 3⁄8 inch                                                                                                                                                                                                                             | 9700                    | 1400                    | 38.1                      | 1.50                     |
-| 1⁄2 inch                                                                                                                                                                                                                             | 6600                    | 950                     | 50.8                      | 2.00                     |
-| 5⁄8 inch                                                                                                                                                                                                                             | 6200                    | 900                     | 63.5                      | 2.50                     |
-| 3⁄4 inch                                                                                                                                                                                                                             | 5500                    | 800                     | 76.2                      | 3.00                     |
+| 1/8 inch                                                                                                                                                                                                                             | 6900                    | 1000                    | 9.4                       | 0.37                     |
+| 5/32 inch                                                                                                                                                                                                                            | 8300                    | 1200                    | 12.7                      | 0.50                     |
+| 3/16 inch                                                                                                                                                                                                                            | 8300                    | 1200                    | 19.1                      | 0.75                     |
+| 1/4 inch                                                                                                                                                                                                                             | 8300                    | 1200                    | 25.4                      | 1.00                     |
+| 5/16 inch                                                                                                                                                                                                                            | 6900                    | 1000                    | 31.8                      | 1.25                     |
+| 3/8 inch                                                                                                                                                                                                                             | 9700                    | 1400                    | 38.1                      | 1.50                     |
+| 1/2 inch                                                                                                                                                                                                                             | 6600                    | 950                     | 50.8                      | 2.00                     |
+| 5/8 inch                                                                                                                                                                                                                             | 6200                    | 900                     | 63.5                      | 2.50                     |
+| 3/4 inch                                                                                                                                                                                                                             | 5500                    | 800                     | 76.2                      | 3.00                     |
 | 6 mm                                                                                                                                                                                                                                 | 7600                    | 1100                    | 20.0                      | 0.75                     |
 | 8 mm                                                                                                                                                                                                                                 | 6200                    | 900                     | 31.8                      | 1.25                     |
 | 10 mm                                                                                                                                                                                                                                | 8200                    | 1200                    | 38.1                      | 1.50                     |
@@ -909,15 +909,15 @@ S12.7 *Ultraviolet light resistance test.* (a) *Apparatus.* An accelerated weath
 Table Accompanying Figure 8
 | Nominal tubing outside diameter | Hole diameter “D” |
 | ------------------------------- | ----------------- |
-| 1⁄8 inch                        | 3.96              |
-| 5⁄32 inch                       | 4.75              |
-| 3⁄16 inch                       | 5.54              |
-| 1⁄4 inch                        | 7.14              |
-| 5⁄16 inch                       | 8.71              |
-| 3⁄8 inch                        | 10.31             |
-| 1⁄2 inch                        | 13.49             |
-| 5⁄8 inch                        | 16.66             |
-| 3⁄4 inch                        | 20.32             |
+| 1/8 inch                        | 3.96              |
+| 5/32 inch                       | 4.75              |
+| 3/16 inch                       | 5.54              |
+| 1/4 inch                        | 7.14              |
+| 5/16 inch                       | 8.71              |
+| 3/8 inch                        | 10.31             |
+| 1/2 inch                        | 13.49             |
+| 5/8 inch                        | 16.66             |
+| 3/4 inch                        | 20.32             |
 | 6 mm                            | 6.80              |
 | 8 mm                            | 8.80              |
 | 10 mm                           | 10.80             |
