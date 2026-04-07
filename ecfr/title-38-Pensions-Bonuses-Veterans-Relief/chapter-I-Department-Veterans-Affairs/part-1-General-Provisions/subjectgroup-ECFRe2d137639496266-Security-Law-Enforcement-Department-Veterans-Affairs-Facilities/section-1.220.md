@@ -4,7 +4,7 @@
 
 (b) *Definitions.* For the purposes of this section:
 
-*Criteria-for-use* means clinical criteria developed by the Department of Veterans Affairs (VA) at a National level that describe how certain drugs may be used. VA's criteria-for-use are available to the public at www.pbm.va.gov. Exceptions may be applied at the local level for operational reasons.
+*Criteria-for-use* means clinical criteria developed by the Department of Veterans Affairs (VA) at a National level that describe how certain drugs may be used. VA's criteria-for-use are available to the public at *www.pbm.va.gov.* Exceptions may be applied at the local level for operational reasons.
 
 *Drug or drugs* means:
 
@@ -58,7 +58,7 @@
 
 (6) Educational programs and associated materials focusing primarily on non-VANF drugs or drug-related supplies without criteria-for-use are permitted only if those drugs or drug-related supplies may be promoted under paragraph (d) of this section.
 
-(g) *Providing gifts, drugs or other promotional items to VA employees or facilities* - (1) *General.* No pharmaceutical company representative may give, and no VA employee may receive, any item (including but not limited to promotional materials, continuing education materials, textbooks, entertainment, and gratuities) that exceeds the value permissible for acceptance under government ethical rules (5 CFR 2635.204(a)). However, such items may be donated to a medical center library or individual department for use by all employees, in accordance with medical center policy. Gifts in support of VA staff official travel may be accepted by the Department subject to advance legal review in accordance with 31 U.S.C. 1353, 41 CFR part 304, and VA policy regarding such gifts.
+(g) *Providing gifts, drugs or other promotional items to VA employees or facilities*—(1) *General.* No pharmaceutical company representative may give, and no VA employee may receive, any item (including but not limited to promotional materials, continuing education materials, textbooks, entertainment, and gratuities) that exceeds the value permissible for acceptance under government ethical rules (5 CFR 2635.204(a)). However, such items may be donated to a medical center library or individual department for use by all employees, in accordance with medical center policy. Gifts in support of VA staff official travel may be accepted by the Department subject to advance legal review in accordance with 31 U.S.C. 1353, 41 CFR part 304, and VA policy regarding such gifts.
 
 (2) *Samples of drugs and drug-related supplies.* Pharmaceutical company representatives must submit samples of drugs and drug-related supplies for approval to the person at the medical facility to whom such responsibility is delegated under local policy, usually the Director. All usage information pertaining to these drugs or drug-related supplies must be forwarded to the VISN Pharmacist Executive or VISN Formulary Committee. All samples of drugs or drug-related supplies must be delivered to the Office of the Chief of Pharmacy Services for proper storage, documentation and dispensing. Drug or drug-related supply samples may not be provided to VA staff for their personal use.
 
