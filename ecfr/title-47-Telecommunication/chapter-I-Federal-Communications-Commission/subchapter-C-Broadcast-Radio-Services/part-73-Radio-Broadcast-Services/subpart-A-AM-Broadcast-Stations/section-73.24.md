@@ -1,6 +1,6 @@
 ##### § 73.24 Broadcast facilities; showing required.
 
-An authorization for a new AM broadcast station or increase in facilities of an existing station will be issued only after a satisfactory showing has been made in regard to the following, among others:
+An authorization for a new AM broadcast station or increase in facilities of an existing station will be issued only after a satisfactory showing has been made in regard to the following, among others:*Provided, however,*
 
 (a) That the proposed assignment will tend to effect a fair, efficient, and equitable distribution of radio service among the several states and communities.
 

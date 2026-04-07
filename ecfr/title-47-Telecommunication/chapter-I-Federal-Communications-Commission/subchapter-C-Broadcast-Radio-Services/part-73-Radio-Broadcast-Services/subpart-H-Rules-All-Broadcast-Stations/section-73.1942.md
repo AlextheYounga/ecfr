@@ -1,6 +1,6 @@
 ##### § 73.1942 Candidate rates.
 
-(a) Charges for use of stations. The charges, if any, made for the use of any broadcasting station by any person who is a legally qualified candidate for any public office in connection with his or her campaign for nomination for election, or election, to such office shall not exceed:
+(a) Charges for use of stations. The charges, if any, made for the use of any broadcasting station by any person who is a legally qualified candidate for any public office in connection with his or her campaign for nomination for election, or election, to such office shall not exceed:*bona fide*
 
 (1) During the 45 days preceding the date of a primary or primary runoff election and during the 60 days preceding the date of a general or special election in which such person is a candidate, the lowest unit charge of the station for the same class and amount of time for the same period.
 

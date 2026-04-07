@@ -1,6 +1,6 @@
 ##### § 73.258 Indicating instruments.
 
-(a) Each FM broadcast station shall be equipped with indicating instruments which conform with the specifications described in § 73.1215 for determining power by the indirect method; for indicating the relative amplitude of the transmission line radio frequency current, voltage, or power; and with such other instruments as are necessary for the proper adjustment, operation, and maintenance of the transmitting system.
+(a) Each FM broadcast station shall be equipped with indicating instruments which conform with the specifications described in § 73.1215 for determining power by the indirect method; for indicating the relative amplitude of the transmission line radio frequency current, voltage, or power; and with such other instruments as are necessary for the proper adjustment, operation, and maintenance of the transmitting system.*Provided that,*
 
 (b) The function of each instrument shall be clearly and permanently shown in the instrument itself or on the panel immediately adjacent thereto.
 

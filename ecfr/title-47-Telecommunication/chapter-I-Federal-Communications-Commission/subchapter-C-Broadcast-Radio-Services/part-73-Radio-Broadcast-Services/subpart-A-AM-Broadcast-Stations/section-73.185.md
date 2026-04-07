@@ -1,6 +1,6 @@
 ##### § 73.185 Computation of interfering signal.
 
-(a) Measured values of radiation are not to be used in calculating overlap, interference, and coverage.
+(a) Measured values of radiation are not to be used in calculating overlap, interference, and coverage.f2*i.e.*
 
 (1) In the case of an antenna which is intended to be non-directional in the horizontal plane, an ideal non-directional radiation pattern shall be used in determining interference, overlap, and coverage, even if the antenna is not actually non-directional.
 

@@ -1,6 +1,6 @@
 ##### § 73.3542 Application for emergency authorization.
 
-(a) Authority may be granted, on a temporary basis, in extraordinary circumstances requiring emergency operation to serve the public interest. such situations include: emergencies involving danger to life and property; a national emergency proclaimed by the President or the Congress of the U.S.A and; the continuance of any war in which the United States is engaged, and where such action is necessary for the national defense or security or otherwise in furtherance of the war effort.
+(a) Authority may be granted, on a temporary basis, in extraordinary circumstances requiring emergency operation to serve the public interest. such situations include: emergencies involving danger to life and property; a national emergency proclaimed by the President or the Congress of the U.S.A and; the continuance of any war in which the United States is engaged, and where such action is necessary for the national defense or security or otherwise in furtherance of the war effort.*See also*
 
 (1) An informal application may be used. The FCC may grant such construction permits, station licenses, modifications or renewals thereof, without the filing of a formal application.
 

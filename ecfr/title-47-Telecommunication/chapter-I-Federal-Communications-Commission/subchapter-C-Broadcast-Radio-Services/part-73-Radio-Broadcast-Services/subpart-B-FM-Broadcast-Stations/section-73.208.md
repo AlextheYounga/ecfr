@@ -1,6 +1,6 @@
 ##### § 73.208 Reference points and distance computations.
 
-(a)(1) The following reference points must be used to determine distance separation requirements when petitions to amend the Table of Allotments (§ 73.202(b)) are considered:
+(a)(1) The following reference points must be used to determine distance separation requirements when petitions to amend the Table of Allotments (§ 73.202(b)) are considered:dd
 
 (i) First, transmitter sites if authorized, or if proposed in applications with cut-off protection pursuant to paragraph (a)(3) of this section;
 
@@ -44,7 +44,7 @@ If the filing of a conflicting FM application renders an otherwise timely filed 
 
 (2) Calculate the middle latitude between the two reference points by averaging the two latitudes as follows:
 
-ML = (LAT1dd + LAT2dd) ÷ 2
+ML = (LAT1dd + LAT2dd) ÷ 2 2
 
 (3) Calculate the number of kilometers per degree latitude difference for the middle latitude calculated in paragraph (c)(2) as follows:
 

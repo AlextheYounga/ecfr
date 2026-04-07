@@ -1,6 +1,6 @@
 ##### § 73.313 Prediction of coverage.
 
-(a) All predictions of coverage made pursuant to this section shall be made without regard to interference and shall be made only on the basis of estimated field strengths.
+(a) All predictions of coverage made pursuant to this section shall be made without regard to interference and shall be made only on the basis of estimated field strengths.*F*
 
 (b) Predictions of coverage shall be made only for the same purposes as relate to the use of field strength contours as specified in § 73.311.
 

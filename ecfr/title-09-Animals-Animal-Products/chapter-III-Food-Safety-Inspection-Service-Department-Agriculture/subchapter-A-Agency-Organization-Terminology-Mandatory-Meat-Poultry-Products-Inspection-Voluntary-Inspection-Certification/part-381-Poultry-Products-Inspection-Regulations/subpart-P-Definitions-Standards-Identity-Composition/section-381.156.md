@@ -1,6 +1,6 @@
 ##### § 381.156 Poultry meat content standards for certain poultry products.
 
-Poultry products with labeling terminology as set forth in Table I shall comply with the specifications for percent light meat and percent dark meat set forth in said table. 
+Poultry products with labeling terminology as set forth in Table I shall comply with the specifications for percent light meat and percent dark meat set forth in said table.
 
 Table I
 | Label terminology   | Percent light meat | Percent dark meat |

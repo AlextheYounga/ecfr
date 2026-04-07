@@ -1,6 +1,6 @@
 ##### § 73.99 Presunrise service authorization (PSRA) and postsunset service authorization (PSSA).
 
-(a) To provide maximum uniformity in early morning operation compatible with interference considerations, and to provide for additional service during early evening hours for Class D stations, provisions are made for presunrise service and postsunset service. The permissible power for presunrise or postsunset service authorizations shall not exceed 500 watts, or the authorized daytime or critical hours power (whichever is less). Calculation of the permissible power shall consider only co-channel stations for interference protection purposes.
+(a) To provide maximum uniformity in early morning operation compatible with interference considerations, and to provide for additional service during early evening hours for Class D stations, provisions are made for presunrise service and postsunset service. The permissible power for presunrise or postsunset service authorizations shall not exceed 500 watts, or the authorized daytime or critical hours power (whichever is less). Calculation of the permissible power shall consider only co-channel stations for interference protection purposes.*Estimated Ground Conductivity in the United States.*
 
 (b) Presunrise service authorizations (PSRA) permit:
 

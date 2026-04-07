@@ -1,6 +1,6 @@
 ##### § 73.3588 Dismissal of petitions to deny or withdrawal of informal objections.
 
-(a) Whenever a petition to deny or an informal objection has been filed against any application, and the filing party seeks to dismiss or withdraw the petition to deny or the informal objection, either unilaterally or in exchange for financial consideration, that party must file with the Commission a request for approval of the dismissal or withdrawal, a copy of any written agreement related to the dismissal or withdrawal, and an affidavit setting forth:
+(a) Whenever a petition to deny or an informal objection has been filed against any application, and the filing party seeks to dismiss or withdraw the petition to deny or the informal objection, either unilaterally or in exchange for financial consideration, that party must file with the Commission a request for approval of the dismissal or withdrawal, a copy of any written agreement related to the dismissal or withdrawal, and an affidavit setting forth:*Citizens' agreements.*
 
 (1) A certification that neither the petitioner nor its principals has received or will receive any money or other consideration in excess of legitimate and prudent expenses in exchange for the dismissal or withdrawal of the petition to deny;
 

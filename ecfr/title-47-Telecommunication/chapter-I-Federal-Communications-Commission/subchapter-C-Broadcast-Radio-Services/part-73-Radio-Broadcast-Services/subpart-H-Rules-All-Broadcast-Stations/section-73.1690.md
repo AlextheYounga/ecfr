@@ -1,6 +1,6 @@
 ##### § 73.1690 Modification of transmission systems.
 
-The following procedures and restrictions apply to licensee modifications of authorized broadcast transmission system facilities.
+The following procedures and restrictions apply to licensee modifications of authorized broadcast transmission system facilities.*See*
 
 (a) The following changes are prohibited:
 

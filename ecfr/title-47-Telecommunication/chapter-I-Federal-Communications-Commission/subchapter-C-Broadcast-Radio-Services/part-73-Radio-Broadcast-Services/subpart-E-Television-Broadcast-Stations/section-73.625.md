@@ -1,6 +1,6 @@
 ##### § 73.625 TV antenna system.
 
-(a)-(b) \[Reserved\]
+(a)-(b) \[Reserved\]*Antenna system.*
 
 (c) *Antenna system.* (1) The antenna system shall be designed so that the effective radiated power at any angle above the horizontal shall be as low as the state of the art permits, and in the same vertical plane may not exceed the effective radiated power in either the horizontal direction or below the horizontal, whichever is greater.
 

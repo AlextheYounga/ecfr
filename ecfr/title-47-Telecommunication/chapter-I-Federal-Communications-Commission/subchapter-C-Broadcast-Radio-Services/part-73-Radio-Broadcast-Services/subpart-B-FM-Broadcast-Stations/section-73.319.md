@@ -1,6 +1,6 @@
 ##### § 73.319 FM multiplex subcarrier technical standards.
 
-(a) The technical specifications in this Section apply to all transmissions of FM multiplex subcarriers except those used for stereophonic sound broadcasts under the provisions of § 73.322.
+(a) The technical specifications in this Section apply to all transmissions of FM multiplex subcarriers except those used for stereophonic sound broadcasts under the provisions of § 73.322.*Modulation.*
 
 (b) *Modulation.* Any form of modulation may be used for subcarrier operation.
 
