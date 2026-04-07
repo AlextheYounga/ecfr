@@ -2,7 +2,7 @@
 
 As prescribed in 246.870-3(b), use the following clause:
 
-SOURCES OF ELECTRONIC PARTS (MAY 2018)
+Sources of Electronic Parts (MAY 2018)
 
 (a) *Definitions.* As used in this clause -
 
