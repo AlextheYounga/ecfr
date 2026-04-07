@@ -1,10 +1,8 @@
 ##### § 25.172 Requirements for reporting space station control arrangements.
 
-Link to an amendment published at 86 FR 11888, Mar. 1, 2021.
-
 (a) The operator of any space station licensed by the Commission or granted U.S. market access must file the following information with the Commission prior to commencing operation with the space station, or, in the case of a non-U.S.-licensed space station, prior to commencing operation with U.S. earth stations.
 
-(1) The information required by § 25.170(b).
+(1) The information required by § 25.171(a).
 
 (2) The call signs of any telemetry, tracking, and command earth station(s) communicating with the space station from any site in the United States.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 86 FR 11888, Mar. 1, 2021.
 
 (b) The information required by paragraph (a) of this section must be filed electronically in the Commission's International Bureau Filing System (IBFS), in the “Other Filings” tab of the space station's current authorization file. If call sign or location information provided pursuant to paragraph (a) of this section becomes invalid due to a change of circumstances, the space station operator must file updated information in the same manner within 30 days, except with respect to changes less than 30 days in duration, for which no update is necessary.
 
-\[79 FR 8321, Feb. 12, 2014\]
+\[79 FR 8321, Feb. 12, 2014, as amended at 86 FR 11888, Mar. 1, 2021\]
