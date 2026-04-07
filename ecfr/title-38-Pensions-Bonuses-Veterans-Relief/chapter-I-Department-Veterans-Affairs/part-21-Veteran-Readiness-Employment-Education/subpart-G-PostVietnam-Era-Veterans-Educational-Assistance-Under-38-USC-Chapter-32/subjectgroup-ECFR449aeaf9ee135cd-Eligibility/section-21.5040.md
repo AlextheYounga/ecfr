@@ -30,13 +30,13 @@
 
 (Authority: 38 U.S.C. 3202)
 
-(c) *Additional active duty service requirements for some individuals not on active duty - Chapter 32.* (1) Unless exempted by paragraph (d) of this section, persons who originally enlist in a regular component of the Armed Forces after September 7, 1980, or who enter on active duty after October 16, 1981 (either as an enlisted member or an officer) to be eligible under 38 U.S.C. Chapter 32, must first complete the shorter of:
+(c) *Additional active duty service requirements for some individuals not on active duty—Chapter 32.* (1) Unless exempted by paragraph (d) of this section, persons who originally enlist in a regular component of the Armed Forces after September 7, 1980, or who enter on active duty after October 16, 1981 (either as an enlisted member or an officer) to be eligible under 38 U.S.C. Chapter 32, must first complete the shorter of:
 
 (i) 24 continuous months of active duty, or
 
 (ii) The full period for which the individual was called or ordered to active duty.
 
-(2) For the purpose of paragraph (c)(1) of this section the Department of Veterans Affairs considers that an enlisted person originally enlisted in a regular component of the Armed Forces on the date he or she entered on active duty even through he or she may have signed a delayed-entry contract on an earlier date.
+(2) For the purpose of paragraph (c)(1) of this section the Department of Veterans Affairs considers that an enlisted person originally enlisted in a regular component of the Armed Forces on the date he or she entered on active duty even though he or she may have signed a delayed-entry contract on an earlier date.
 
 (3) In computing time served for the purpose of this paragraph, the Department of Veterans Affairs will exclude any period during which the individual is not entitled to credit for service as specified in § 3.15 of this chapter. However, those periods will be included in determining if the service was continuous.
 
@@ -80,7 +80,7 @@
 
 (ii) The individual's period of active duty which began after December 31, 1976, and which is 6 years in length,
 
-(4) If enrolled in a course, courses or a program of education leading to a seondary school diploma or equivalency certificate, the individual:
+(4) If enrolled in a course, courses or a program of education leading to a secondary school diploma or equivalency certificate, the individual:
 
 (i) Must be an enlisted member of the Armed Forces,
 

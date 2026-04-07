@@ -6,7 +6,7 @@ As used in this part:
 
 (1) Any U.S. person (see § 120.62 of this subchapter) wherever located;
 
-(2) Any foreign person see § 120.63 of this subchapter) located in the United States; or
+(2) Any foreign person (see § 120.63 of this subchapter) located in the United States; or
 
 (3) Any foreign person located outside the United States where the foreign person is owned or controlled by a U.S. person.
 
@@ -38,7 +38,7 @@ The exclusion does not apply to persons subject to U.S. jurisdiction with respec
 
 (v) Activities performed by an affiliate, as defined in § 120.66 of this subchapter, on behalf of another affiliate;
 
-(vi) Activities by persons, including their regular employees (see § 120.64 of this subchapter), that do not extend beyond acting as an end-user of a defense article or defense service exported pursuant to a license or other approval under part, 123, 124, or 125 of this subchapter, or subsequently acting as a reexporter or retransferor of such article or service under such license or other approval, or under an approval pursuant to § 123.9 of this subchapter;
+(vi) Activities by persons, including their regular employees (see § 120.64 of this subchapter), that do not extend beyond acting as an end-user of a defense article or defense service exported pursuant to a license or other approval under part 123, 124, or 125 of this subchapter, or subsequently acting as a reexporter or retransferor of such article or service under such license or other approval, or under an approval pursuant to § 123.9 of this subchapter;
 
 (vii) Activities by persons to facilitate the manufacture in the United States or export of an item subject to the EAR; or
 

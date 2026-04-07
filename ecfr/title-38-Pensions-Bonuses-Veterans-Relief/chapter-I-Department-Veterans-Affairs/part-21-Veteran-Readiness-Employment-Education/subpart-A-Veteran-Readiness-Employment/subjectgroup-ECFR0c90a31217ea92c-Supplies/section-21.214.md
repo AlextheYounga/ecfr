@@ -24,7 +24,7 @@
 
 (d) *Obtaining and maintaining employment.* A veteran being furnished employment services may receive supplies which:
 
-(1) The employer requires similarly circumstanced nonveterans to own upon begining employment to the extent that the items were not furnished during the period in which the veteran was training for the objective, or the items that were furnished for training purposes are not adequate for employment;
+(1) The employer requires similarly circumstanced nonveterans to own upon beginning employment to the extent that the items were not furnished during the period in which the veteran was training for the objective, or the items that were furnished for training purposes are not adequate for employment;
 
 (2) VA determines that special equipment is necessary for the veteran to perform his or her duties, subject to the obligation of the employer to make reasonable accommodation to the disabling effects of the veteran's condition.
 

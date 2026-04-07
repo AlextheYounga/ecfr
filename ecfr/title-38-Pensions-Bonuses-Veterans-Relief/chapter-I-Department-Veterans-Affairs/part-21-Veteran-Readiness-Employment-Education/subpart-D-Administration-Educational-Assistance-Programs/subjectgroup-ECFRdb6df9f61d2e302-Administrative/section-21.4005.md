@@ -4,13 +4,13 @@ For the purposes of this section, a person will be considered to be an “office
 
 (Authority: 38 U.S.C. 3683, 3689)
 
-(a) *A conflict of interest can cause the dismissal of a VA or State approving agency officer or employee and other adverse consequences.* (1) An officer or employee of VA will be immediately dismissed from his or her office or employment, if while such an officer or employee he or she has owned any interest in, or received any wages, salary, dividends, profits, gratuities, or services from any educational institution operated for profit -
+(a) *A conflict of interest can cause the dismissal of a VA or State approving agency officer or employee and other adverse consequences.* (1) An officer or employee of VA will be immediately dismissed from his or her office or employment, if while such an officer or employee he or she has owned any interest in, or received any wages, salary, dividends, profits, gratuities, or services from any educational institution operated for profit—
 
 (i) In which a veteran or eligible person was pursuing a course of education under 10 U.S.C. chapter 1606 or 38 U.S.C. chapter 30, 32, 33, 35, or 36; or
 
 (ii) Offering a licensing or certification test that is approved for payment of educational assistance under 10 U.S.C. chapter 1606, or 38 U.S.C. chapter 30, 32, 33, or 35 to veterans, reservists, or eligible individuals who take that test.
 
-(2) Except as provided in paragraph (a)(3) or (c) of this section, VA will discontinue payments under § 21.4153 to a State approving agency when the Secretary finds that any individual who is an officer or employee of a State approving agency has, while he or she was such an officer or employee, owned any interest in, or received any wages, salary, dividends, profits, gratuities, or services from any educational institution operated for profit -
+(2) Except as provided in paragraph (a)(3) or (c) of this section, VA will discontinue payments under § 21.4153 to a State approving agency when the Secretary finds that any individual who is an officer or employee of a State approving agency has, while he or she was such an officer or employee, owned any interest in, or received any wages, salary, dividends, profits, gratuities, or services from any educational institution operated for profit—
 
 (i) In which a veteran or eligible person was pursuing a course of education or training under 10 U.S.C. chapter 1606 or 38 U.S.C. chapter 30, 32, 33, 35, or 36; or
 
@@ -64,7 +64,7 @@ For the purposes of this section, a person will be considered to be an “office
 
 (A) His or her position does not require him or her to perform duties involved in the investigation of irregular actions on the part of educational institutions or veterans or eligible persons in connection with 10 U.S.C. chapter 1606 or 38 U.S.C. chapters 30, 32, 33, 35 or 36.
 
-(B) His or her work is not connected in any way with the inspection, approval, or supervision of educational institutions desiring to train veterans or eligible persons, or desiring to offer licensing or certification tests to veterans or elegible persons.
+(B) His or her work is not connected in any way with the inspection, approval, or supervision of educational institutions desiring to train veterans or eligible persons, or desiring to offer licensing or certification tests to veterans or eligible persons.
 
 (Authority: 10 U.S.C. 16136(b); 38 U.S.C. 3034(a), 3241(a), 3323(a), 3683, 3689)
 

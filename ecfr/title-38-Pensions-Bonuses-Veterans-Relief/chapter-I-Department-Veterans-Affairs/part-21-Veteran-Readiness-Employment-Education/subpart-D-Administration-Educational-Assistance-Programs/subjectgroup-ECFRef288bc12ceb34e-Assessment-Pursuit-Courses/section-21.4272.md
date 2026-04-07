@@ -4,17 +4,17 @@ VA will measure a college level course in an institution of higher learning on a
 
 (Authority: 38 U.S.C. 3688)
 
-(a) *Degree courses - accredited or candidate.* VA will measure a degree course on a credit-hour basis when -
+(a) *Degree courses—accredited or candidate.* VA will measure a degree course on a credit-hour basis when—
 
 (1) An institution of higher learning offers the course; and
 
-(2) A nationally recognized accrediting association either -
+(2) A nationally recognized accrediting association either—
 
 (i) Accredits the institution of higher learning, or
 
 (ii) Recognizes the institution as a candidate for accreditation; and
 
-(3) The credits earned in the course can be applied towards an associate, baccalaureate or higher degree which is -
+(3) The credits earned in the course can be applied towards an associate, baccalaureate or higher degree which is—
 
 (i) Appropriate to the level of the institution of higher learning's accreditation, or
 
@@ -22,7 +22,7 @@ VA will measure a college level course in an institution of higher learning on a
 
 (4) The course is offered on a semester-hour or quarter-hour basis, and
 
-(5) The degree to which the course credits are applicable either -
+(5) The degree to which the course credits are applicable either—
 
 (i) Is granted by the institution of higher learning offering the course,
 
@@ -30,7 +30,7 @@ VA will measure a college level course in an institution of higher learning on a
 
 (iii) Is being pursued by a nonmatriculated student as provided in § 21.4252(l)(1), (2) or (3).
 
-(b) *Degree courses - nonaccredited.* VA will measure on a credit-hour basis a degree course which does not meet the requirements of paragraph (a) of this section when -
+(b) *Degree courses—nonaccredited.* VA will measure on a credit-hour basis a degree course which does not meet the requirements of paragraph (a) of this section when—
 
 (1) The course is offered on a semester- or quarter-hour basis, and
 
@@ -58,9 +58,9 @@ VA will measure a college level course in an institution of higher learning on a
 
 (ii) Dividing the product by the number of whole weeks in the term.
 
-(2) In determining whole weeks for this formula VA will -
+(2) In determining whole weeks for this formula VA will—
 
-(i) Determine the number of days from the beginning to the end of the term as certified by the educational institution, substracting any vacation period of 7 days or more;
+(i) Determine the number of days from the beginning to the end of the term as certified by the educational institution, subtracting any vacation period of 7 days or more;
 
 (ii) Divide the number of days in the term by 7;
 

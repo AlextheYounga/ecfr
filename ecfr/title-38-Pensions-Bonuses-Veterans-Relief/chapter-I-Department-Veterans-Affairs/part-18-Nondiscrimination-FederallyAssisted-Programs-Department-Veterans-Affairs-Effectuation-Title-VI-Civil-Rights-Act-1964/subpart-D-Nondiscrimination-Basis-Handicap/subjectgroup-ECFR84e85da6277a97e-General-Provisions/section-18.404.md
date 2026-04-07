@@ -36,7 +36,7 @@
 
 (ii) Have the purpose or effect of defeating or substantially impairing the accomplishment of the objective of the program or activity with respect to handicapped persons.
 
-(6) As used in this section, the aid, benefit, or service provided under a program or activity receiving Federal financial assistance includes any aid, benefit, or service provided in or through a facility that has been constructed, expanded, altered, leased or rented, or otherwise acquired, in whole of in part, with Federal financial assistance.
+(6) As used in this section, the aid, benefit, or service provided under a program or activity receiving Federal financial assistance includes any aid, benefit, or service provided in or through a facility that has been constructed, expanded, altered, leased or rented, or otherwise acquired, in whole or in part, with Federal financial assistance.
 
 (c) *Aid, benefits, or services limited by Federal law.* The exclusion of nonhandicapped persons or the exclusion of a specific class of handicapped persons from aid, benefits, or services limited by Federal statute or Executive order to a different class of handicapped persons is not prohibited by this part.
 

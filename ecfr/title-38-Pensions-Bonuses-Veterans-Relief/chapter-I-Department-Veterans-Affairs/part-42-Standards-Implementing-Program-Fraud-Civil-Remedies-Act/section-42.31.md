@@ -2,7 +2,7 @@
 
 (a) In determining an appropriate amount of civil penalties and assessments, the ALJ and the Secretary of Veterans Affairs, upon appeal, should evaluate any circumstances that mitigate or aggravate the violation and should articulate in their opinions the reasons that support the penalties and assessments they impose. Because of the intangible costs of fraud, the expense of investigating the conduct, and the need to deter others who might be similarly tempted, ordinarily double damages and a significant civil penalty should be imposed.
 
-(b) Although not exhaustive, the following factors are among those that may influence the ALJ and the Secretary or Veterans Affairs in determining the amount of penalties and assessments to impose with respect to the misconduct (*i.e.*, the false, fictitious, or fraudulent claims or statements) charged in the complaint:
+(b) Although not exhaustive, the following factors are among those that may influence the ALJ and the Secretary of Veterans Affairs in determining the amount of penalties and assessments to impose with respect to the misconduct (*i.e.*, the false, fictitious, or fraudulent claims or statements) charged in the complaint:
 
 (1) The number of false, fictitious, or fraudulent claims or statements;
 
@@ -20,7 +20,7 @@
 
 (8) Whether the defendant has engaged in a pattern of the same or similar misconduct;
 
-(9) Whether the defendant attempted to conceal the miscounduct;
+(9) Whether the defendant attempted to conceal the misconduct;
 
 (10) The degree to which the defendant has involved others in the misconduct or in concealing it;
 

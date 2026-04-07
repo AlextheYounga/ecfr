@@ -4,7 +4,7 @@
 
 (1) The date of the facility requires the veteran to report for prescribed activities; or
 
-(2) The date the program begins at the faciliity providing services.
+(2) The date the program begins at the facility providing services.
 
 (Authority: 38 U.S.C. 1524(b)(2))
 

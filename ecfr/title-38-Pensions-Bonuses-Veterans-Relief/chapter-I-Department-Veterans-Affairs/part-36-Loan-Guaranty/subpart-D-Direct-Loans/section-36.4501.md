@@ -10,7 +10,7 @@ Wherever used in 38 U.S.C. 3711, 3762 or the regulations concerning direct loans
 
 *Dwelling* means a building designed primarily for use as a home, consisting of one residential unit only and not containing any business unit.
 
-*Energy conservation improvement.* An improvement to an existing dwelling'or farm residence through the installation of a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system, or through application of a residential energy conservation measure as prescribed in 38 U.S.C. 3710(d) or by the Secretary.
+*Energy conservation improvement.* An improvement to an existing dwelling or farm residence through the installation of a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system, or through application of a residential energy conservation measure as prescribed in 38 U.S.C. 3710(d) or by the Secretary.
 
 *Farm residence* means a dwelling located on a farm which is to be occupied by the veteran as the veteran's home.
 

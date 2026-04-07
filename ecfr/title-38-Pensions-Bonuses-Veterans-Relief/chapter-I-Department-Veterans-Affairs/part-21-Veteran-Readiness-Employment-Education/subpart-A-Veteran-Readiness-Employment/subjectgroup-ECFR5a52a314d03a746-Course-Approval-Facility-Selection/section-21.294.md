@@ -58,7 +58,7 @@
 
 (e) *Relatives.* Relatives of the veteran may not be selected to provide services, even if otherwise qualified, unless such use is specifically permitted by VA regulation governing provision of the service. Selection of a training or rehabilitation facility owned by the veteran or a relative, or in which the veteran or a relative of the veteran has an interest is precluded, except for selection of a farm as provided in § 21.298. The term relative has the same meaning as in § 21.374.
 
-(f) *Contracts or agreements required.* The Department of Veterans Affairs will negotiate formal contracts for reimbursement to providers of services as requred by § 21.262. However, a letter contract will be effected immediately to permit the induction of the veteran into a program if:
+(f) *Contracts or agreements required.* The Department of Veterans Affairs will negotiate formal contracts for reimbursement to providers of services as required by § 21.262. However, a letter contract will be effected immediately to permit the induction of the veteran into a program if:
 
 (1) The veteran is immediately entered into a school with which a contract is required;
 
