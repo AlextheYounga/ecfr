@@ -1,0 +1,3 @@
+##### § 801.301 Control.
+
+For the sole purpose of determining whether a transaction could result in control of a pilot program U.S. business by a foreign person, the provisions set forth in subpart C of this part (excluding § 800.302(b) of this chapter and the examples thereunder) regarding covered transactions shall apply to any pilot program covered transaction declared to the Committee pursuant to § 801.401 or notified to the Committee pursuant to § 801.501.
