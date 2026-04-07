@@ -1,16 +1,16 @@
 ##### § 558.360 Morantel.
 
-(a) *Specifications.* Each pound of Type A medicated article contains 88 grams morantel tartrate. 
+(a) *Specifications.* Each pound of Type A medicated article contains 88 grams morantel tartrate.
 
-(b) *Sponsor.* See No. 066104 in § 510.600(c) of this chapter. 
+(b) *Sponsor.* See No. 066104 in § 510.600(c) of this chapter.
 
-(c) *Related tolerances.* See § 556.425 of this chapter. 
+(c) *Related tolerances.* See § 556.425 of this chapter.
 
-(d) *Special considerations.* (1) Do not use in Type B or Type C medicated feeds containing bentonite. 
+(d) *Special considerations.* (1) Do not use in Type B or Type C medicated feeds containing bentonite.
 
-(2) Consult your veterinarian before using in severely debilitated animals and for assistance in the diagnosis, treatment, and control of parasitism. 
+(2) Consult your veterinarian before using in severely debilitated animals and for assistance in the diagnosis, treatment, and control of parasitism.
 
-(e) *Conditions of use.* It is used in feed as follows: 
+(e) *Conditions of use.* It is used in feed as follows:
 
 | Morantel tartrate in grams/ton                               | Indications for use                                                                                                                                                                                                                                                                                                            | Limitations                                                                                                                                                                                                                                                                                                                                 | Sponsor |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |

@@ -1,28 +1,28 @@
 ##### § 558.325 Lincomycin.
 
-(a) *Specifications.* Type A medicated articles containing 20 or 50 grams of lincomycin (as lincomycin hydrochloride) per pound. 
+(a) *Specifications.* Type A medicated articles containing 20 or 50 grams of lincomycin (as lincomycin hydrochloride) per pound.
 
-(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter. 
+(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
-(c) *Related tolerances.* See § 556.360 of this chapter. 
+(c) *Related tolerances.* See § 556.360 of this chapter.
 
-(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements. 
+(d) *Special considerations.* (1) Federal law restricts medicated feed containing this veterinary feed directive (VFD) drug to use by or on the order of a licensed veterinarian. See § 558.6 for additional requirements.
 
-(2) The expiration date of VFDs for lincomycin medicated feeds must not exceed 6 months from the date of issuance. VFDs for lincomycin shall not be refilled. 
+(2) The expiration date of VFDs for lincomycin medicated feeds must not exceed 6 months from the date of issuance. VFDs for lincomycin shall not be refilled.
 
-(3) Labeling of Type A medicated articles and Type B and Type C medicated feeds containing lincomycin shall bear the following: 
+(3) Labeling of Type A medicated articles and Type B and Type C medicated feeds containing lincomycin shall bear the following:
 
-(i) “CAUTION: Do not allow rabbits, hamsters, guinea pigs, horses, or ruminants access to feeds containing lincomycin. Ingestion by these species may result in severe gastrointestinal effects.” 
+(i) “CAUTION: Do not allow rabbits, hamsters, guinea pigs, horses, or ruminants access to feeds containing lincomycin. Ingestion by these species may result in severe gastrointestinal effects.”
 
-(ii) \[Reserved\] 
+(ii) \[Reserved\]
 
-(4) Labeling of medicated feeds containing lincomycin intended for use in swine shall bear the following: 
+(4) Labeling of medicated feeds containing lincomycin intended for use in swine shall bear the following:
 
-(i) “CAUTION: Occasionally, swine fed lincomycin may within the first 2 days after the onset of treatment develop diarrhea and/or swelling of the anus. On rare occasions, some pigs may show reddening of the skin and irritable behavior. These conditions have been self-correcting within 5 to 8 days without discontinuing the lincomycin treatment.” 
+(i) “CAUTION: Occasionally, swine fed lincomycin may within the first 2 days after the onset of treatment develop diarrhea and/or swelling of the anus. On rare occasions, some pigs may show reddening of the skin and irritable behavior. These conditions have been self-correcting within 5 to 8 days without discontinuing the lincomycin treatment.”
 
-(ii) “CAUTION: The effects of lincomycin on swine reproductive performance, pregnancy, and lactation have not been determined.” 
+(ii) “CAUTION: The effects of lincomycin on swine reproductive performance, pregnancy, and lactation have not been determined.”
 
-(e) *Conditions of use*—(1) *Chickens*— 
+(e) *Conditions of use*—(1) *Chickens*—
 
 | Lincomycin   grams/ton | Combination in grams/ton     | Indications for use                                                                                                                                                                                                                                                                                              | Limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Sponsors |
 | ---------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
@@ -37,7 +37,7 @@
 | (ix) 2                 | Salinomycin, 40 to 60        | Broiler chickens: For the control of necrotic enteritis caused or complicated by Clostridium spp. or other organisms susceptible to lincomycin, and for the prevention of coccidiosis caused by Eimeria tenella, E. necatrix, E. acervulina, E maxima, E. brunetti, and E. mivati                                | Feed as the sole ration to broiler chickens. Do not feed to laying hens producing eggs for human consumption. Not approved for use with pellet binders. May be fatal if accidentally fed to adult turkeys or horses. Not for use in laying hens, breeding chickens, or turkeys. Do not allow rabbits, hamsters, guinea pigs, horses, or ruminants access to feeds containing lincomycin. Ingestion by these species may result in severe gastrointestinal effects. Salinomycin as provided by No. 054771 in § 510.600 of this chapter                                                                          | 05477    |
 | (x) 2                  | Zoalene, 113.5               | Broiler chickens: For the control of necrotic enteritis caused or complicated by Clostridium spp. or other organisms susceptible to lincomycin; and for the prevention and control of coccidiosis                                                                                                                | Feed as the sole ration from the time chicks are placed in floor pens until slaughtered for meat. Not for use in laying hens, breeding chickens, or turkeys. Do not allow rabbits, hamsters, guinea pigs, horses, or ruminants access to feeds containing lincomycin. Ingestion by these species may result in severe gastrointestinal effects. Zoalene as provided by No. 054771 in § 510.600 of this chapter                                                                                                                                                                                                 | 054771   |
 
-(2) *Swine*— 
+(2) *Swine*—
 
 | Lincomycin   grams/ton | Combination in grams/ton | Indications for use                                                                                                                                                                                                                                                                                                                 | Limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Sponsors |
 | ---------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |

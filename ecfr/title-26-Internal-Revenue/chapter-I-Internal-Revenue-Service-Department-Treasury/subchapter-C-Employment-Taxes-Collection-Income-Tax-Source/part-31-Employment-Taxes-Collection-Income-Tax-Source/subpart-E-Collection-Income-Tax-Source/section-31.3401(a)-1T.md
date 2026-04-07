@@ -1,6 +1,6 @@
 ##### § 31.3401(a)-1T Question and answer relating to the definition of wages in section 3401(a) (Temporary).
 
-The following question and answer relates to the definition of wages in section 3401(a) of the Internal Revenue Code of 1954, as amended by section 531(d)(4) of the Tax Reform Act of 1984 (98 Stat. 886):
+The following question and answer relates to the definition of wages in section 3401(a) of the Internal Revenue Code of 1954, as amended by section 531(d)(4) of the Tax Reform Act of 1984 (98 Stat. 886):*Q-1:*
 
 *Q-1:* Are fringe benefits included in the definition of “wages” under section 3401(a)?
 

@@ -4,7 +4,7 @@ This section lists the table of contents for §§ 31.6302-1 through 31.6302-4.
 
 § 31.6302-1 Deposit rules for taxes under the Federal Insurance Contributions Act (FICA) and withheld income taxes.
 
-(a) Introduction.
+(a) Introduction.*De minimis*
 
 (b) Determination of status.
 

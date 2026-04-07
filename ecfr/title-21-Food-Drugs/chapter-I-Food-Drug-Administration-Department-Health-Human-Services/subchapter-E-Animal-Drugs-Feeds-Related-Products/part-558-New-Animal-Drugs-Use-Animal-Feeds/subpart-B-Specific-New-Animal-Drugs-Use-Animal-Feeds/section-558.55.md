@@ -1,21 +1,21 @@
 ##### § 558.55 Amprolium.
 
-(a) *Specifications.* Type A medicated article containing 25 percent amprolium. 
+(a) *Specifications.* Type A medicated article containing 25 percent amprolium.
 
-(b) *Sponsor.* No. 016592 in § 510.600(c) of this chapter. 
+(b) *Sponsor.* No. 016592 in § 510.600(c) of this chapter.
 
-(c) *Related tolerances.* See § 556.50 of this chapter. 
+(c) *Related tolerances.* See § 556.50 of this chapter.
 
-(d) *Special considerations.* Do not use in Type B or Type C medicated feeds containing bentonite. 
+(d) *Special considerations.* Do not use in Type B or Type C medicated feeds containing bentonite.
 
-(e) *Conditions of use*—(1) *Cattle.* It is used as follows: 
+(e) *Conditions of use*—(1) *Cattle.* It is used as follows:
 
 | Amprolium in grams per ton                                                          | Indications for use                                                                       | Limitations                                                                                                                                                                                                                                                                                                                              | Sponsor |
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | (i) 113.5 to 11, 350; to provide 5 milligrams per kilogram of body weight per day   | Calves: As an aid in the prevention of coccidiosis caused by Eimeria bovis and E. zuernii | Top-dress on or mix in the daily ration. Feed for 21 days when experience indicates that coccidiosis is likely to be a hazard, as the sole source of amprolium. Withdraw 24 hours before slaughter. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal | 016592  |
 | (ii) 113.5 to 11, 350; to provide 10 milligrams per kilogram of body weight per day | Calves: As an aid in the treatment of coccidiosis caused by Eimeria bovis and E. zuernii  | Top-dress on or mix in the daily ration. Feed for 5 days as the sole source of amprolium. Withdraw 24 hours before slaughter. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal                                                                       | 016592  |
 
-(2) *Chickens.* It is used as follows: 
+(2) *Chickens.* It is used as follows:
 
 | Amprolium in grams per ton | Combination in grams per ton | Indications for use                                                     | Limitations                                             | Sponsor |
 | -------------------------- | ---------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------- | ------- |
@@ -42,24 +42,24 @@
 | (vii) 113.5 to 227         | Bambermycins 1 to 2                      | Broiler chickens: For prevention of coccidiosis where immunity to coccidiosis is not desired; and for increased rate of weight gain and improved feed efficiency | Feed continuously as the sole ration; as sole source of amprolium. Bambermycins as provided by No. 016592 in § 510.600(c) of this chapter | 016592  |
 | (viii) 227                 |                                          | Laying chickens: For treatment of coccidiosis in severe outbreaks.                                                                                               | Feed for 2 weeks                                                                                                                          | 016592  |
 
-(3) *Turkeys.* It is used as follows: 
+(3) *Turkeys.* It is used as follows:
 
 | Amprolium in grams per ton | Combination in grams per ton | Indications for use                                                                                                | Limitations                                                                                                               | Sponsor |
 | -------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | ------- |
 | (i) 113.5                  | Bambermycins 1 to 4          | Growing turkeys: For prevention of coccidiosis; and for increased rate of weight gain and improved feed efficiency | Feed continuously as the sole source of amprolium; bambermycins as provided by No. 016592 in § 510.600(c) of this chapter | 016592  |
 | (ii) 113.5 to 227          |                              | Turkeys: For prevention of coccidiosis                                                                             | Feed continuously as the sole ration; as sole source of amprolium                                                         | 016592  |
 
-(4) *Pheasants.* It is used as follows: 
+(4) *Pheasants.* It is used as follows:
 
 | Amprolium in grams per ton | Combination in grams per ton | Indications for use                                                                                             | Limitations                                                       | Sponsor |
 | -------------------------- | ---------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------- |
 | (i) 159                    |                              | Growing pheasants: For the prevention of coccidiosis caused by Eimeria colchici, E. duodenalis, and E. phasiani | Feed continuously as sole ration. Use as sole source of amprolium | 016592  |
 | (ii) \[Reserved\]          |                              |                                                                                                                 |                                                                   |         |
 
-(5) *Permitted combinations.* Amprolium may also be used in combination with: 
+(5) *Permitted combinations.* Amprolium may also be used in combination with:
 
-(i) Virginiamycin as in § 558.635. 
+(i) Virginiamycin as in § 558.635.
 
-(ii) \[Reserved\] 
+(ii) \[Reserved\]
 
 \[41 FR 10985, Mar. 15, 1976\] Editorial Note:For Federal Register citations affecting § 558.55, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

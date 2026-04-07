@@ -1,6 +1,6 @@
 ##### § 31.3501(a)-1T Question and answer relating to the time employers must collect and pay the taxes on noncash fringe benefits (Temporary).
 
-The following questions and answers relate to the time employers must collect and pay the taxes imposed by subtitle C on noncash fringe benefits:
+The following questions and answers relate to the time employers must collect and pay the taxes imposed by subtitle C on noncash fringe benefits:*Q-1:*
 
 *Q-1:* If a noncash fringe benefit constitutes “wages” under section 3121(a), 3306(b), or 3401(a), or constitutes “compensation” under section 3231(e), when must an employer collect and pay the taxes imposed by Subtitle C?
 

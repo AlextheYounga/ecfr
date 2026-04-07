@@ -4,7 +4,7 @@ This section lists paragraphs contained in §§ 31.3406(a)-1 through 31.3406(i)-
 
 § 31.3406(a)-1 Backup withholding requirement on reportable payments.
 
-(a) Overview.
+(a) Overview.*1*
 
 (b) Conditions that invoke the backup withholding requirement.
 

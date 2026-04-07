@@ -1,6 +1,6 @@
 ##### § 31.3121(v)(2)-2 Effective dates and transition rules.
 
-(a) *General statutory effective date.* Except as otherwise provided in paragraphs (b) through (e) of this section, section 3121(v)(2) and the amendments made to section 3121(a)(2), (a)(3), and (a)(13) by the Social Security Amendments of 1983 (Pub. L. 98-21, 97 Stat. 65), as amended by section 2662(f)(2) of the Deficit Reduction Act of 1984 (Pub. L. 98-369, 98 Stat. 494), apply to amounts deferred and benefits paid after December 31, 1983.
+(a) *General statutory effective date.* Except as otherwise provided in paragraphs (b) through (e) of this section, section 3121(v)(2) and the amendments made to section 3121(a)(2), (a)(3), and (a)(13) by the Social Security Amendments of 1983 (Pub. L. 98-21, 97 Stat. 65), as amended by section 2662(f)(2) of the Deficit Reduction Act of 1984 (Pub. L. 98-369, 98 Stat. 494), apply to amounts deferred and benefits paid after December 31, 1983.9/25
 
 (b) *Definitions.* For purposes of § 31.3121(v)(2)-1 and this section, the following definitions apply:
 

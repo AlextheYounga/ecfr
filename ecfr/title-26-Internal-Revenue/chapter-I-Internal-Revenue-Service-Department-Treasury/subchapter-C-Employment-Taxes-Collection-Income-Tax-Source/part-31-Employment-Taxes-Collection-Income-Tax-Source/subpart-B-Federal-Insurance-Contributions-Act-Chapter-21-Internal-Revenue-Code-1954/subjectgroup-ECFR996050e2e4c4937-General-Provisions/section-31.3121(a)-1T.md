@@ -1,6 +1,6 @@
 ##### § 31.3121(a)-1T Question and answer relating to the definition of wages in section 3121(a) (Temporary).
 
-The following question and answer relates to the definition of wages in section 3121(a) of the Internal Revenue Code of 1954, as amended by section 531(d)(1)(A) of the Tax Reform Act of 1984 (98 Stat. 885):
+The following question and answer relates to the definition of wages in section 3121(a) of the Internal Revenue Code of 1954, as amended by section 531(d)(1)(A) of the Tax Reform Act of 1984 (98 Stat. 885):*Q-1:*
 
 *Q-1:* Are fringe benefits included in the definition of “wages” under section 3121(a)?
 

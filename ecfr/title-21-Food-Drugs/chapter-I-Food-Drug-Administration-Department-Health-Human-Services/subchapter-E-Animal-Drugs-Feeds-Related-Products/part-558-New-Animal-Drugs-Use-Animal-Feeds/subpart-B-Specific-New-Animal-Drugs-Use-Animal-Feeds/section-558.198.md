@@ -1,18 +1,18 @@
 ##### § 558.198 Dichlorvos.
 
-(a) *Specifications.* Each pound of Type A medicated article containing 3.1 or 9.6 percent dichlorvos. 
+(a) *Specifications.* Each pound of Type A medicated article containing 3.1 or 9.6 percent dichlorvos.
 
-(b) *Sponsor.* See No. 054628 in § 510.600(c) of this chapter. 
+(b) *Sponsor.* See No. 054628 in § 510.600(c) of this chapter.
 
-(c) *Related tolerances.* See § 556.180 of this chapter. 
+(c) *Related tolerances.* See § 556.180 of this chapter.
 
-(d) *Special considerations.* (1) Dichlorvos is to be included in meal or mash or mixed with feed in crumble form only after the crumble feed has been manufactured. Do not mix in feeds to be pelleted nor with pelleted feed. Do not soak the feed or administer as wet mash. Feed must be dry when administered. Do not use in animals other than swine. Do not allow fowl access to feed containing this preparation or to feces from treated animals. 
+(d) *Special considerations.* (1) Dichlorvos is to be included in meal or mash or mixed with feed in crumble form only after the crumble feed has been manufactured. Do not mix in feeds to be pelleted nor with pelleted feed. Do not soak the feed or administer as wet mash. Feed must be dry when administered. Do not use in animals other than swine. Do not allow fowl access to feed containing this preparation or to feces from treated animals.
 
-(2) Dichlorvos is a cholinesterase inhibitor. Do not use this product in animals simultaneously or within a few days before or after treatment with or exposure to cholinesterase-inhibiting drugs, pesticides, or chemicals. If human or animal poisoning should occur, immediately consult a physician or a veterinarian. Atropine is antidotal. 
+(2) Dichlorvos is a cholinesterase inhibitor. Do not use this product in animals simultaneously or within a few days before or after treatment with or exposure to cholinesterase-inhibiting drugs, pesticides, or chemicals. If human or animal poisoning should occur, immediately consult a physician or a veterinarian. Atropine is antidotal.
 
-(3) Labeling for Type A articles and Type B feeds must include a statement that containers or materials used in packaging such Type A articles and Type B feeds are not to be reused and all such packaging materials must be destroyed after the product has been used. 
+(3) Labeling for Type A articles and Type B feeds must include a statement that containers or materials used in packaging such Type A articles and Type B feeds are not to be reused and all such packaging materials must be destroyed after the product has been used.
 
-(e) *Conditions of use.* It is used in swine feed as follows: 
+(e) *Conditions of use.* It is used in swine feed as follows:
 
 | Dichlorvos   grams/ton | Combination in grams/ton | Indications for use                                                                                                                                                                                                                                                                                                                                                                                                                                         | Limitations                                                                                                                                                                                                                                                                                                                       | Sponsor |
 | ---------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |

@@ -2,7 +2,7 @@
 
 (a) The rates of tax with respect to wages paid in calendar years after 1954 are as follows:
 
-|                                                         | Percent |
+| Percent                                                 | Percent |
 | ------------------------------------------------------- | ------- |
 | In the calendar years 1955 to 1960, both inclusive      | 3       |
 | In the calendar year 1961                               | 3.1     |

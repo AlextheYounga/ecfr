@@ -1,20 +1,20 @@
 ##### § 558.330 Lubabegron.
 
-(a) *Specifications.* Each pound of Type A medicated article contains 4.54 grams (10 grams per kilogram) or 22.7 grams (50 grams per kilogram) of lubabegron as lubabegron fumarate. 
+(a) *Specifications.* Each pound of Type A medicated article contains 4.54 grams (10 grams per kilogram) or 22.7 grams (50 grams per kilogram) of lubabegron as lubabegron fumarate.
 
-(b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter. 
+(b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter.
 
-(c) *Related tolerances.* See § 556.370 of this chapter. 
+(c) *Related tolerances.* See § 556.370 of this chapter.
 
-(d) *Special considerations.* Labeling shall bear the following caution statements: 
+(d) *Special considerations.* Labeling shall bear the following caution statements:
 
-(1) Lubabegron has not been approved for use in breeding animals because safety and effectiveness have not been evaluated in these animals. 
+(1) Lubabegron has not been approved for use in breeding animals because safety and effectiveness have not been evaluated in these animals.
 
-(2) Do not allow horses or other equines access to feed containing lubabegron. 
+(2) Do not allow horses or other equines access to feed containing lubabegron.
 
-(3) A decrease in dry matter intake may be noticed in some animals receiving lubabegron. 
+(3) A decrease in dry matter intake may be noticed in some animals receiving lubabegron.
 
-(e) *Conditions of use.* (1) It is used in cattle feed as follows: 
+(e) *Conditions of use.* (1) It is used in cattle feed as follows:
 
 | Lubabegron (as lubabegron fumarate) in grams/ton | Combination in grams/ton                               | Indications for use                                                                                                                                                                                                                                                                                                                                                           | Limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Sponsors       |
 | ------------------------------------------------ | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
@@ -24,10 +24,10 @@
 | (iv) 1.25 to 4.54                                | Monensin, 10 to 40                                     | Beef steers and heifers fed in confinement for slaughter: For reduction of ammonia gas emissions per pound of live weight and hot carcass weight; and for prevention and control of coccidiosis due to Eimeria bovis and E. zuernii during the last 14 to 91 days on feed                                                                                                     | Feed continuously as the sole ration to provide 13 to 90 mg lubabegron/head/day and 0.14 to 0.42 mg monensin/lb body weight per day, depending upon severity of coccidiosis challenge, during the last 14 to 91 days on feed. See special labeling considerations in paragraph (d) of this section and in § 558.355(d). Lubabegron fumarate as provided by No. 058198; monensin as provided by No. 016592 or 058198 in § 510.600(c) of this chapter.                                                                                                                                                                                                                                                                                                                                                               | 016592, 058198 |
 | (v) 1.25 to 4.54                                 | Monensin, 10 to 40 and melengestrol acetate, 0.25 to 2 | Growing beef heifers fed in confinement for slaughter: For increased rate of weight gain, improved feed efficiency, suppression of estrus (heat), for reduction of ammonia gas emissions per pound of live weight and hot carcass weight, and for the prevention and control of coccidiosis caused by Eimeria bovis and Eimeria zuernii during the last 14 to 91 days on feed | Melengestrol acetate Type C top-dress medicated feed (0.5 to 2 lb(s) per head per day) must be top dressed onto or mixed at feeding with a Type C medicated feed containing 1.25 to 4.54 g/ton lubabegron and 10 to 40 g/ton monensin, to provide 0.25 to 0.5 mg melengestrol acetate and 13 to 90 mg lubabegron per head per day, and 0.14 to 0.42 mg monensin per pound of body weight per day, depending upon severity of challenge, up to a maximum of 480 mg monensin per head per day. Feed as the sole ration during the last 14 to 91 days on feed. See special labeling considerations in paragraph (d) of this section, and in §§ 558.342(d) and 558.355(d). Lubabegron fumarate and monensin as provided by No. 058198; melengestrol acetate as provided by No. 054771 in § 510.600(c) of this chapter. | 058198         |
 
-(2) Lubabegron may also be used in combination with: 
+(2) Lubabegron may also be used in combination with:
 
-(i) \[Reserved\] 
+(i) \[Reserved\]
 
-(ii) Tylosin as in § 558.625. 
+(ii) Tylosin as in § 558.625.
 
 \[84 FR 12501, Apr. 2, 2019, as amended at 84 FR 53311, Oct. 7, 2019; 88 FR 14905, Mar. 10, 2023; 88 FR 84701, Dec. 6, 2023; 90 FR 6802, Jan. 21, 2025\]

@@ -1,6 +1,6 @@
 ##### § 31.3401(a)(17)-1 Remuneration for services performed on a boat engaged in catching fish.
 
-(a) Remuneration for services performed on or after December 31, 1954, by an individual on a boat engaged in catching fish or other forms of aquatic animal life (hereinafter “fish”) is excepted from wages and hence is not subject to withholding if—
+(a) Remuneration for services performed on or after December 31, 1954, by an individual on a boat engaged in catching fish or other forms of aquatic animal life (hereinafter “fish”) is excepted from wages and hence is not subject to withholding if—*e.g.,*
 
 (1) The individual receives a share of the boat's (or boats' for a fishing operation involved more than one boat) catch of fish or a share of the proceeds from the sale of the catch,
 

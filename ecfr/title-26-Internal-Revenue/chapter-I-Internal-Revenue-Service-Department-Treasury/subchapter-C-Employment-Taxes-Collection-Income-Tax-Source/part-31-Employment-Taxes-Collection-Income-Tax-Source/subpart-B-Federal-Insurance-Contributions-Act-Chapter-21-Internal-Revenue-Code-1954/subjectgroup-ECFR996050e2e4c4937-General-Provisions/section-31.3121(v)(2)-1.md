@@ -74,9 +74,24 @@ Thus, for example, the term stock value right does not include a phantom stock o
 
 (5) *Examples.* This paragraph (b) is illustrated by the following examples:
 
-Example 1:(i) In December of 2001, Employer L tells Employee A that, if specified goals are satisfied for 2002, Employee A will receive a bonus on July 1, 2003, equal to a specified percentage of 2002 compensation. Because Employee A meets the specified goals, Employer L pays the bonus to Employee A on July 1, 2003, consistent with its oral commitment.
+Example 1:(i) In December of 2001, Employer L tells Employee A that, if specified goals are satisfied for 2002, Employee A will receive a bonus on July 1, 2003, equal to a specified percentage of 2002 compensation. Because Employee A meets the specified goals, Employer L pays the bonus to Employee A on July 1, 2003, consistent with its oral commitment. *Example 3,*
 
-(ii) This arrangement is not a nonqualified deferred compensation plan under this section because its terms were not set forth in writing and, therefore, it was not established in accordance with paragraph (b)(2) of this section.
+(ii) This arrangement is not a nonqualified deferred compensation plan under this section because its terms were not set forth in writing and, therefore, it was not established in accordance with paragraph (b)(2) of this section.*Example 10,*
+
+| Year                | Annual gross amount | Assumed qualified plan annual payment (based on cost of   living) | Net annual payment under nonqualified plan |
+| ------------------- | ------------------- | ----------------------------------------------------------------- | ------------------------------------------ |
+| 2003                | $200,000            | $145,000                                                          | $55,000                                    |
+| 2004                | 200,000             | 150,000                                                           | 50,000                                     |
+| 2005                | 200,000             | 155,000                                                           | 45,000                                     |
+| 2006                | 200,000             | 160,000                                                           | 40,000                                     |
+| 2007                | 200,000             | 165,000                                                           | 35,000                                     |
+| 2008                | 200,000             | 170,000                                                           | 30,000                                     |
+| 2009                | 200,000             | 175,000                                                           | 25,000                                     |
+| 2010                | 200,000             | 180,000                                                           | 20,000                                     |
+| 2011                | 200,000             | 185,000                                                           | 15,000                                     |
+| 2012                | 200,000             | 190,000                                                           | 10,000                                     |
+| 2013                | 200,000             | 195,000                                                           | 5,000                                      |
+| 2014 and thereafter | 200,000             | 205,000 or greater                                                | 0                                          |
 
 Example 2:(i) In 2004, Employer M establishes a compensation arrangement for Employee B under which Employer M agrees to pay Employee B a specified amount based on a percentage of his salary for 2004. The amount due is to be paid out of the general assets of Employer M and is payable in 2008.
 

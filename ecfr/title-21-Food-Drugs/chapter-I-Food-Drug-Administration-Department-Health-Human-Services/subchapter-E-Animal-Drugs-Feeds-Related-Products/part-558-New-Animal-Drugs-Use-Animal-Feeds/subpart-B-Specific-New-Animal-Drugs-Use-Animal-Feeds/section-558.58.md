@@ -1,18 +1,18 @@
 ##### § 558.58 Amprolium and ethopabate.
 
-(a) *Specifications.* Type A medicated articles containing: 
+(a) *Specifications.* Type A medicated articles containing:
 
-(1) 25 percent amprolium and 8 percent ethopabate or 5 percent amprolium and 1.6 percent ethopabate; 
+(1) 25 percent amprolium and 8 percent ethopabate or 5 percent amprolium and 1.6 percent ethopabate;
 
-(2) 25 percent amprolium and 0.8 percent ethopabate or 5 percent amprolium and 0.16 percent ethopabate. 
+(2) 25 percent amprolium and 0.8 percent ethopabate or 5 percent amprolium and 0.16 percent ethopabate.
 
-(b) *Sponsor.* See No. 016592 in § 510.600(c) of this chapter. 
+(b) *Sponsor.* See No. 016592 in § 510.600(c) of this chapter.
 
-(c) *Related tolerances.* See §§ 556.50 and 556.260 of this chapter. 
+(c) *Related tolerances.* See §§ 556.50 and 556.260 of this chapter.
 
-(d) *Special considerations.* Do not use in Type B or Type C medicated feeds containing bentonite. 
+(d) *Special considerations.* Do not use in Type B or Type C medicated feeds containing bentonite.
 
-(e) *Conditions of use.* It is used in chicken feed as follows: 
+(e) *Conditions of use.* It is used in chicken feed as follows:
 
 | Amprolium and ethopabate in grams per ton | Combination in grams per ton | Indications for use                                                                                                                                                                                                                                                                                                      | Limitations                                                                                                                                                                                                                                                                                                                                                                                            | Sponsor |
 | ----------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
@@ -23,10 +23,10 @@
 | (5) Amprolium 113.5 and ethopabate 36.6   | Bambermycins 1 to 3          | Broiler chickens: As an aid in the prevention of coccidiosis where severe exposure to coccidiosis from Eimeria acervulina, E. maxima, and E. brunetti is likely to occur; for increased rate of weight gain, improved feed efficiency                                                                                    | Feed continuously as the sole ration; as sole source of amprolium   Bambermycins as provided by No. 016592 in § 510.600(c) of this chapter                                                                                                                                                                                                                                                             | 016592  |
 | (6) Amprolium 227 and ethopabate 3.6      |                              | For broiler chickens and replacement chickens where immunity to coccidiosis is not desired; prevention of coccidiosis                                                                                                                                                                                                    | Not for laying chickens                                                                                                                                                                                                                                                                                                                                                                                | 016592  |
 
-(f) Amprolium and ethopabate may also be used in combination with: 
+(f) Amprolium and ethopabate may also be used in combination with:
 
-(1)-(2) \[Reserved\] 
+(1)-(2) \[Reserved\]
 
-(3) Chlortetracycline as in § 558.128. 
+(3) Chlortetracycline as in § 558.128.
 
 \[41 FR 10990, Mar. 15, 1976\] Editorial Note:For Federal Register citations affecting § 558.58, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

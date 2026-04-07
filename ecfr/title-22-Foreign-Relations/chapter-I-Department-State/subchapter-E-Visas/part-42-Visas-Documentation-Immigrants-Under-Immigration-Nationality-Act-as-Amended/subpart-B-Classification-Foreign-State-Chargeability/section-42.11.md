@@ -1,6 +1,6 @@
 ##### § 42.11 Classification symbols.
 
-An immigrant visa issued to an applicant who applies to one of the classes described below shall bear an appropriate visa symbol to show its classification. 
+An immigrant visa issued to an applicant who applies to one of the classes described below shall bear an appropriate visa symbol to show its classification.
 
 Table 1 to § 42.11
 | Symbol                                                                                                          | Class                                                                                                                                                                                                                                                                                                                       | Section of law                                                                                                                                                                                                                                                   |

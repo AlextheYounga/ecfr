@@ -1,6 +1,6 @@
 ##### § 31.3121(b)(3)-1 Family employment.
 
-(a) Certain services are excepted from employment because of the existence of a family relationship between the employee and the individual employing him. The exceptions are as follows:
+(a) Certain services are excepted from employment because of the existence of a family relationship between the employee and the individual employing him. The exceptions are as follows:*a*
 
 (1) Services performed by an individual in the employ of his or her spouse;
 

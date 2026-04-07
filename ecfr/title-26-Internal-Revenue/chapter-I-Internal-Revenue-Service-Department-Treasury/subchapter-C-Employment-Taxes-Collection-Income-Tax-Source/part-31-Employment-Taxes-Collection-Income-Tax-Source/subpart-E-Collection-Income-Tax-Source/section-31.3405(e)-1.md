@@ -1,6 +1,6 @@
 ##### § 31.3405(e)-1 Questions and answers relating to withholding on pensions, annuities, and certain other deferred income.
 
-(a) The following questions and answers apply for purposes of determining whether a payor of periodic payments or nonperiodic distributions from pensions, annuities, and certain other deferred income (other than eligible rollover distributions) must withhold federal income tax under section 3405(a) or (b) of the Code. For purposes of this section, references to the United States include possessions of the United States.
+(a) The following questions and answers apply for purposes of determining whether a payor of periodic payments or nonperiodic distributions from pensions, annuities, and certain other deferred income (other than eligible rollover distributions) must withhold federal income tax under section 3405(a) or (b) of the Code. For purposes of this section, references to the United States include possessions of the United States.*Q-1.*
 
 (b)(1) *Q-1.* Is an Army Post Office (APO), a Fleet Post Office (FPO), or a Diplomatic Post Office (DPO) address an address located within the United States for purposes of section 3405(e)(13)(A)?
 

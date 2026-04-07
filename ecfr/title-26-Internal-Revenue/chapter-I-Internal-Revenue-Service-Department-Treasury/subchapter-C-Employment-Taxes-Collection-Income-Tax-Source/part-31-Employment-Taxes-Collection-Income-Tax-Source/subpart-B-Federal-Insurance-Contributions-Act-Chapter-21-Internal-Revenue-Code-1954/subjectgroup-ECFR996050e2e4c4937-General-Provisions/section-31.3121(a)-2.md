@@ -1,6 +1,6 @@
 ##### § 31.3121(a)-2 Wages; when paid and received.
 
-(a) In general, wages are received by an employee at the time that they are paid by the employer to the employee. Wages are paid by an employer at the time that they are actually or constructively paid unless under paragraph (c) of this section they are deemed to be subsequently paid. For provisions relating to the time when tips received by an employee are deemed paid to the employee, see § 31.3121(q)-1.
+(a) In general, wages are received by an employee at the time that they are paid by the employer to the employee. Wages are paid by an employer at the time that they are actually or constructively paid unless under paragraph (c) of this section they are deemed to be subsequently paid. For provisions relating to the time when tips received by an employee are deemed paid to the employee, see § 31.3121(q)-1.*see*
 
 (b) Wages are constructively paid when they are credited to the account of or set apart for an employee so that they may be drawn upon by him at any time although not then actually reduced to possession. To constitute payment in such a case the wages must be credited to or set apart for the employee without any substantial limitation or restriction as to the time or manner of payment or condition upon which payment is to be made, and must be made available to him so that they may be drawn upon at any time, and their payment brought within his own control and disposition. For provisions relating to the treatment of deductions from remuneration as payments of remuneration, see § 31.3123-1.
 

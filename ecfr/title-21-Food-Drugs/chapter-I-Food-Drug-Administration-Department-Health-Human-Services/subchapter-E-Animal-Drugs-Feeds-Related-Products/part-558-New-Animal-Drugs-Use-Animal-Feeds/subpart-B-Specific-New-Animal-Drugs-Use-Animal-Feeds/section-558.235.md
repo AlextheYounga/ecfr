@@ -1,12 +1,12 @@
 ##### § 558.235 Efrotomycin.
 
-(a) *Specifications.* Type A medicated articles containing 14.5 grams efrotomycin per pound. 
+(a) *Specifications.* Type A medicated articles containing 14.5 grams efrotomycin per pound.
 
-(b) *Sponsor.* See No. 000010 in § 510.600(c) of this chapter. 
+(b) *Sponsor.* See No. 000010 in § 510.600(c) of this chapter.
 
-(c) *Related tolerances.* See § 556.224 of this chapter. 
+(c) *Related tolerances.* See § 556.224 of this chapter.
 
-(d) *Conditions of use in swine*— 
+(d) *Conditions of use in swine*—
 
 | Efrotomycin   in grams/ton | Indications for use                      | Limitations                                                                             | Sponsor |
 | -------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------- | ------- |

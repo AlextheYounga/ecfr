@@ -1,6 +1,6 @@
 ##### § 31.3231(a)-1 Who are employers.
 
-(a) Each of the following persons is an employer within the meaning of the act:
+(a) Each of the following persons is an employer within the meaning of the act:*a*
 
 (1) Any carrier, that is, any express carrier, sleeping car carrier, or rail carrier providing transportation subject to subchapter I of chapter 105 of title 49;
 

@@ -4,7 +4,7 @@ The following questions and answers relate to withholding on eligible rollover d
 
 List of Questions
 
-Q-1: What are the withholding requirements under section 3405 for distributions from qualified plans and section 403(b) annuities?
+Q-1: What are the withholding requirements under section 3405 for distributions from qualified plans and section 403(b) annuities?*General rule.*
 
 Q-2: May a distributee elect under section 3405(c) not to have Federal income tax withheld from an eligible rollover distribution?
 
