@@ -18,4 +18,4 @@
 
 (2) When a faith-based organization determines that it is unable to identify an alternative provider, the organization must promptly notify the subgrantee, grantee, or Department that made the award under which the referral could not be made. If the organization is unable to identify an alternative provider, the subgrantee, grantee, or Department that made the award under which the referral could not be made must determine whether there is any other suitable alternative provider to which the beneficiary or prospective beneficiary may be referred. If the entity that made the award under which the referral could not be made cannot make a referral, that entity must promptly notify the grantee or the Department, as appropriate, and the grantee or the Department must determine whether a suitable referral can be made.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474, E.O. 13559) \[Approved by the Office of Management and Budget under control number 1895-0001\]\[81 FR 19407, Apr. 4, 2016\]
+(Authority: 20 U.S.C. 1221e-3 and 3474, E.O. 13559) \[Approved by the Office of Management and Budget under control number 1895-0001\] \[81 FR 19407, Apr. 4, 2016\]

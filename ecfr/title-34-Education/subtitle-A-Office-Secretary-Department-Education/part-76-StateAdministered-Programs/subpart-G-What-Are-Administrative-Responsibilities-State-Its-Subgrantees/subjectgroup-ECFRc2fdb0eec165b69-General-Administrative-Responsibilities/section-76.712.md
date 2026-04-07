@@ -18,4 +18,4 @@
 
 (c) The notice that a faith-based organization must use to notify beneficiaries or prospective beneficiaries of their rights under paragraph (a) of this section is specified in appendix A to part 75.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474, E.O. 13559) \[Approved by the Office of Management and Budget under control number 1895-0001\]\[81 FR 19409, Apr. 4, 2016\]
+(Authority: 20 U.S.C. 1221e-3 and 3474, E.O. 13559) \[Approved by the Office of Management and Budget under control number 1895-0001\] \[81 FR 19409, Apr. 4, 2016\]
