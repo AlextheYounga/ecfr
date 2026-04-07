@@ -26,7 +26,7 @@
 
 (iii) Discrimination against an employee (§ 655.801(a)); or
 
-(3) An amount not to exceed $52,641 per violation where an employer (whether or not the employer is an H-1B-dependent employer or willful violator) displaced a U.S. worker employed by the employer in the period beginning 90 days before and ending 90 days after the filing of an H-1B petition in conjunction with any of the following violations:
+(3) An amount not to exceed $53,969 per violation where an employer (whether or not the employer is an H-1B-dependent employer or willful violator) displaced a U.S. worker employed by the employer in the period beginning 90 days before and ending 90 days after the filing of an H-1B petition in conjunction with any of the following violations:
 
 (i) A willful violation of any of the provisions described in § 655.805(a)(2) through (9) pertaining to wages/working condition, strike/lockout, notification, labor condition application specificity, displacement, or recruitment; or
 
