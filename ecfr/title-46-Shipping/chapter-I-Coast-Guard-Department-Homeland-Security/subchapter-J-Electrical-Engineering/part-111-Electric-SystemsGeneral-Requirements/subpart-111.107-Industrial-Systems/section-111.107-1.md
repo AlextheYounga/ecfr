@@ -26,7 +26,7 @@
 
 (c) Cables that penetrate a watertight or fire boundary deck or bulkhead must—
 
-(1) Be installed in accordance with 46 CFR 111.60-5 and meet the flammability-test requirements of either IEEE 1202 , IEC 60332-3-22:2018, or IEC 60332-3-21:2018, Category A or A F/R (all incorporated by reference; see § 110.10-1 of this subchapter) ; or
+(1) Be installed in accordance with 46 CFR 111.60-5 and meet the flammability-test requirements of either IEEE 1202, IEC 60332-3-22:2018, or IEC 60332-3-21:2018, Category A or A F/R (all incorporated by reference; see § 110.10-1 of this subchapter); or
 
 (2) Be specialty cable installed in accordance with § 111.60-2.
 

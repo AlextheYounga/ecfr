@@ -8,7 +8,7 @@
 
 (3) If the overcurrent device that protects the larger conductors also protects the smaller conductors, an overcurrent device is not required at the supply to the smaller conductors.
 
-(4) If the overcurrent device protecting the primary side of a (two wire with single voltage secondary) transformer (two wire with single-voltage secondary) also protects the conductors connected to the secondary side, as determined by multiplying the current-carrying capacity of the secondary conductor by the secondary to primary transformer voltage ratio, and this protection meets § 111.20-15 of this chapter, an overcurrent device is not required at the supply to the secondary side conductors.
+(4) If the overcurrent device protecting the primary side of a transformer also protects the conductors connected to the secondary side, as determined by multiplying the current-carrying capacity of the secondary conductor by the secondary to primary transformer voltage ratio, and this protection meets § 111.20-15 of this chapter, an overcurrent device is not required at the supply to the secondary side conductors.
 
 (b) *Location on vessel.* Each overcurrent device:
 
