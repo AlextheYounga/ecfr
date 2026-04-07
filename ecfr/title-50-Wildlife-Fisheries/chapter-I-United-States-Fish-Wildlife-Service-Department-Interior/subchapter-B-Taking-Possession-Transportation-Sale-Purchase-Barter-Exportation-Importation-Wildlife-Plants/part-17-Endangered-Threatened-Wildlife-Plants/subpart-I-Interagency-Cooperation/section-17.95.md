@@ -1,5 +1,7 @@
 ##### § 17.95 Critical habitat—fish and wildlife.
 
+Link to an amendment published at 89 FR 99683, Dec. 10, 2024.
+
 (a) *Mammals.*
 
 Florida Bonneted Bat (*Eumops floridanus*)

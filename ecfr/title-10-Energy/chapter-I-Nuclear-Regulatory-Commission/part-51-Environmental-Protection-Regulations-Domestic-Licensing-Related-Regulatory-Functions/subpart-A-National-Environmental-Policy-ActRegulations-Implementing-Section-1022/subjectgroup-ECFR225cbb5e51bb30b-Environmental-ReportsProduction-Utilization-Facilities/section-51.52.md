@@ -1,22 +1,22 @@
 ##### § 51.52 Environmental effects of transportation of fuel and waste—Table S-4.
 
-Under § 51.50, every environmental report prepared for the construction permit stage or early site permit stage or combined license stage of a light-water-cooled nuclear power reactor, and submitted after February 4, 1975, shall contain a statement concerning transportation of fuel and radioactive wastes to and from the reactor. That statement shall indicate that the reactor and this transportation either meet all of the conditions in paragraph (a) of this section or all of the conditions of paragraph (b) of this section.
+Under § 51.50, every environmental report prepared for the construction permit stage or early site permit stage or combined license stage of a light-water-cooled nuclear power reactor, and submitted after February 4, 1975, shall contain a statement concerning transportation of fuel and radioactive wastes to and from the reactor. That statement shall indicate that the reactor and this transportation either meet all of the conditions in paragraph (a) of this section or all of the conditions of paragraph (b) of this section. 
 
-(a)(1) The reactor has a core thermal power level not exceeding 3,800 megawatts;
+(a)(1) The reactor has a core thermal power level not exceeding 3,800 megawatts; 
 
-(2) The reactor fuel is in the form of sintered uranium dioxide pellets having a uranium-235 enrichment not exceeding 4% by weight, and the pellets are encapsulated in zircaloy rods;
+(2) The reactor fuel is in the form of sintered uranium dioxide pellets having a uranium-235 enrichment not exceeding 4% by weight, and the pellets are encapsulated in zircaloy rods; 
 
-(3) The average level of irradiation of the irradiated fuel from the reactor does not exceed 33,000 megawatt-days per metric ton, and no irradiated fuel assembly is shipped until at least 90 days after it is discharged from the reactor;
+(3) The average level of irradiation of the irradiated fuel from the reactor does not exceed 33,000 megawatt-days per metric ton, and no irradiated fuel assembly is shipped until at least 90 days after it is discharged from the reactor; 
 
-(4) With the exception of irradiated fuel, all radioactive waste shipped from the reactor is packaged and in a solid form;
+(4) With the exception of irradiated fuel, all radioactive waste shipped from the reactor is packaged and in a solid form; 
 
-(5) Unirradiated fuel is shipped to the reactor by truck; irradiated fuel is shipped from the reactor by truck, rail, or barge; and radioactive waste other than irradiated fuel is shipped from the reactor by truck or rail; and
+(5) Unirradiated fuel is shipped to the reactor by truck; irradiated fuel is shipped from the reactor by truck, rail, or barge; and radioactive waste other than irradiated fuel is shipped from the reactor by truck or rail; and 
 
-(6) The environmental impacts of transportation of fuel and waste to and from the reactor, with respect to normal conditions of transport and possible accidents in transport, are as set forth in Summary Table S-4 in paragraph (c) of this section; and the values in the table represent the contribution of the transportation to the environmental costs of licensing the reactor.
+(6) The environmental impacts of transportation of fuel and waste to and from the reactor, with respect to normal conditions of transport and possible accidents in transport, are as set forth in Summary Table S-4 in paragraph (c) of this section; and the values in the table represent the contribution of the transportation to the environmental costs of licensing the reactor. 
 
-(b) For reactors not meeting the conditions of paragraph (a) of this section, the statement shall contain a full description and detailed analysis of the environmental effects of transportation of fuel and wastes to and from the reactor, including values for the environmental impact under normal conditions of transport and for the environmental risk from accidents in transport. The statement shall indicate that the values determined by the analysis represent the contribution of such effects to the environmental costs of licensing the reactor.
+(b) For reactors not meeting the conditions of paragraph (a) of this section, the statement shall contain a full description and detailed analysis of the environmental effects of transportation of fuel and wastes to and from the reactor, including values for the environmental impact under normal conditions of transport and for the environmental risk from accidents in transport. The statement shall indicate that the values determined by the analysis represent the contribution of such effects to the environmental costs of licensing the reactor. 
 
-(c)
+(c) 
 
 Summary Table S-4—Environmental Impact of Transportation of Fuel and Waste to and From One Light-Water-Cooled Nuclear Power Reactor 1
 

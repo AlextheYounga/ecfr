@@ -1,6 +1,6 @@
 ##### § 26.163 Cutoff levels for drugs and drug metabolites.
 
-(a) *Initial drug testing.* (1) HHS-certified laboratories shall apply the following cutoff levels for initial testing of specimens to determine whether they are negative or positive for the indicated drugs and drug metabolites, except as specified in paragraph (a)(2) of this section or the licensee or other entity has established more stringent cutoff levels:
+(a) *Initial drug testing.* (1) HHS-certified laboratories shall apply the following cutoff levels for initial testing of specimens to determine whether they are negative or positive for the indicated drugs and drug metabolites, except as specified in paragraph (a)(2) of this section or the licensee or other entity has established more stringent cutoff levels: 
 
 Table 1 to Paragraph (a)(1)—Urine, Initial Test Cutoff Levels for Drugs and Drug Metabolites
 | Drugs or drug metabolites                                                                                                                                                    | Cutoff level   \[nanograms   (ng)/mL\] |
@@ -44,15 +44,15 @@ Table 2 to Paragraph (a)(1)—Oral Fluid, Initial Test Cutoff Levels for Drugs a
 | 4 Amphetamine (AMP) and methamphetamine (MAMP).                                                                                                                                                                                                                                                             |                                          |
 | 5 Methylenedioxymethamphetamine (MDMA) and methylenedioxyamphetamine (MDA).                                                                                                                                                                                                                                 |                                          |
 
-(2) HHS-certified laboratories shall conduct special analyses of specimens as follows:
+(2) HHS-certified laboratories shall conduct special analyses of specimens as follows: 
 
-(i) If initial validity testing indicates that a specimen is dilute, or if a specimen is collected under direct observation for any of the conditions specified in § 26.115(a)(1) through (3) or (a)(5), the laboratory shall compare the immunoassay responses of the specimen to the cutoff calibrator in each drug class tested;
+(i) If initial validity testing indicates that a specimen is dilute, or if a specimen is collected under direct observation for any of the conditions specified in § 26.115(a)(1) through (3) or (a)(5), the laboratory shall compare the immunoassay responses of the specimen to the cutoff calibrator in each drug class tested; 
 
-(ii) If any immunoassay response is equal to or greater than 40 percent of the cutoff calibrator, the laboratory shall conduct confirmatory drug testing of the specimen to the LOQ for those drugs and/or drug metabolites; and
+(ii) If any immunoassay response is equal to or greater than 40 percent of the cutoff calibrator, the laboratory shall conduct confirmatory drug testing of the specimen to the LOQ for those drugs and/or drug metabolites; and 
 
-(iii) The laboratory shall report the numerical values obtained from this special analysis to the MRO.
+(iii) The laboratory shall report the numerical values obtained from this special analysis to the MRO. 
 
-(b) *Confirmatory drug testing.* (1) A specimen that is identified as positive on an initial drug test must be subject to confirmatory testing for the class(es) of drugs for which the specimen initially tested positive. The HHS-certified laboratory shall apply the confirmatory cutoff levels specified in this paragraph, except as permitted in paragraph (a)(2) of this section or the licensee or other entity has established more stringent cutoff levels.
+(b) *Confirmatory drug testing.* (1) A specimen that is identified as positive on an initial drug test must be subject to confirmatory testing for the class(es) of drugs for which the specimen initially tested positive. The HHS-certified laboratory shall apply the confirmatory cutoff levels specified in this paragraph, except as permitted in paragraph (a)(2) of this section or the licensee or other entity has established more stringent cutoff levels. 
 
 Table 3 to Paragraph (b)(1)—Urine, Confirmatory Test Cutoff Levels for Drugs and Drug Metabolites
 | Drugs or drug metabolites                                                                                                                      | Cutoff level   (ng/mL) |
@@ -98,6 +98,6 @@ Table 4 to Paragraph (b)(1)—Oral Fluid, Confirmatory Test Cutoff Levels for Dr
 | Methylenedioxymethamphetamine (MDMA) | 25                                     |
 | Methylenedioxyamphetamine (MDA)      | 25                                     |
 
-(2) Each confirmatory drug test must provide a quantitative result. When the concentration of a drug or metabolite exceeds the linear range of the standard curve, the laboratory may record the result as “exceeds the linear range of the test” or as “equal to or greater than \<insert the value for the upper limit of the linear range>,” or may dilute an aliquot of the specimen to obtain an accurate quantitative result when the concentration is above the upper limit of the linear range.
+(2) Each confirmatory drug test must provide a quantitative result. When the concentration of a drug or metabolite exceeds the linear range of the standard curve, the laboratory may record the result as “exceeds the linear range of the test” or as “equal to or greater than \<insert the value for the upper limit of the linear range>,” or may dilute an aliquot of the specimen to obtain an accurate quantitative result when the concentration is above the upper limit of the linear range. 
 
 \[73 FR 17176, Mar. 31, 2008, as amended at 87 FR 71460, Nov. 22, 2022\]

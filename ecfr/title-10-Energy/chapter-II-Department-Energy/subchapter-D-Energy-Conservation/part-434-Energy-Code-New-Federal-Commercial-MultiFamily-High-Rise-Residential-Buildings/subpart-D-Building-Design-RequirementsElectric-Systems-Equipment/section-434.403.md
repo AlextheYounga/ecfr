@@ -1,8 +1,8 @@
 ##### § 434.403 Building mechanical systems and equipment.
 
-Mechanical systems and equipment used to provide heating, ventilating, and air conditioning functions as well as additional functions not related to space conditioning, such as, but not limited to, freeze protection in fire projection systems and water heating, shall meet the requirements of this section.
+Mechanical systems and equipment used to provide heating, ventilating, and air conditioning functions as well as additional functions not related to space conditioning, such as, but not limited to, freeze protection in fire projection systems and water heating, shall meet the requirements of this section. 
 
-403.1 *Mechanical Equipment Efficiency.* When equipment shown in Tables 403.1a through 403.1f is used, it shall have a minimum performance at the specified rating conditions when tested in accordance with the specified reference standard. The reference standards listed in Tables 403.1a through 403.1f are incorporated by reference, see § 434.701. Omission of minimum performance requirements for equipment not listed in Tables 403.1a through 403.1f does not preclude use of such equipment.
+403.1 *Mechanical Equipment Efficiency.* When equipment shown in Tables 403.1a through 403.1f is used, it shall have a minimum performance at the specified rating conditions when tested in accordance with the specified reference standard. The reference standards listed in Tables 403.1a through 403.1f are incorporated by reference, see § 434.701. Omission of minimum performance requirements for equipment not listed in Tables 403.1a through 403.1f does not preclude use of such equipment. 
 
 Table 403.1a—Unitary Air Conditioners and Condensing Units, Electrically Operated, Minimum Efficiency Requirements
 | Equipment type                                                                       | Size category                     | Subcategory or rating condition | Minimum   Efficiency 2 | Test   procedure 1      |
@@ -106,155 +106,155 @@ Table 403.1f—Boilers, Gas- and Oil-Fired, Minimum Efficiency Requirements
 | c Ec = combustion efficiency (100% less flue losses). See reference document for detailed information. |                 |                                       |                      |                             |
 | \* Incorporation by reference, see § 434.701.                                                          |                 |                                       |                      |                             |
 
-403.1.1 Where multiple rating conditions and/or performance requirements are provided, the equipment shall satisfy all stated requirements.
+403.1.1 Where multiple rating conditions and/or performance requirements are provided, the equipment shall satisfy all stated requirements. 
 
-403.1.2 Equipment used to provide water heating functions as part of a combination integrated system shall satisfy all stated requirements for the appropriate space heating or cooling category.
+403.1.2 Equipment used to provide water heating functions as part of a combination integrated system shall satisfy all stated requirements for the appropriate space heating or cooling category. 
 
-403.1.3 The equipment efficiency shall be supported by data furnished by the manufacturer or shall be certified under a nationally recognized certification program or rating procedure.
+403.1.3 The equipment efficiency shall be supported by data furnished by the manufacturer or shall be certified under a nationally recognized certification program or rating procedure. 
 
-403.1.4 Where components, such as indoor or outdoor coils, from different manufacturers are used, the system designer shall specify component efficiencies whose combined efficiency meets the standards herein.
+403.1.4 Where components, such as indoor or outdoor coils, from different manufacturers are used, the system designer shall specify component efficiencies whose combined efficiency meets the standards herein. 
 
 403.2 *HVAC Systems.*
 
-403.2.1 *Load Calculations.* Heating and cooling system design loads for the purpose of sizing systems and equipment shall be determined in accordance with the procedures described in RS-1 (incorporated by reference, see § 434.701) using the design parameters specified in subpart C of this part.
+403.2.1 *Load Calculations.* Heating and cooling system design loads for the purpose of sizing systems and equipment shall be determined in accordance with the procedures described in RS-1 (incorporated by reference, see § 434.701) using the design parameters specified in subpart C of this part. 
 
-403.2.2 *Equipment and System Sizing.* Heating and cooling equipment and systems shall be sized to provide no more than the loads calculated in accordance with subsection 403.2.1. A single piece of equipment providing both heating and cooling must satisfy this provision for one function with the other function sized as small as possible to meet the load, within available equipment options. Exceptions are as follows:
+403.2.2 *Equipment and System Sizing.* Heating and cooling equipment and systems shall be sized to provide no more than the loads calculated in accordance with subsection 403.2.1. A single piece of equipment providing both heating and cooling must satisfy this provision for one function with the other function sized as small as possible to meet the load, within available equipment options. Exceptions are as follows: 
 
-(a) When the equipment selected is the smallest size needed to meet the load within available options of the desired equipment line.
+(a) When the equipment selected is the smallest size needed to meet the load within available options of the desired equipment line. 
 
-(b) Standby equipment provided with controls and devices that allow such equipment to operate automatically only when the primary equipment is not operating.
+(b) Standby equipment provided with controls and devices that allow such equipment to operate automatically only when the primary equipment is not operating. 
 
-(c) Multiple units of the same equipment type with combined capacities exceeding the design load and provided with controls that sequence or otherwise optimally control the operation of each unit based on load.
+(c) Multiple units of the same equipment type with combined capacities exceeding the design load and provided with controls that sequence or otherwise optimally control the operation of each unit based on load. 
 
-403.2.3 *Separate Air Distribution System.* Zones with special process temperature and/or humidity requirements shall be served by air distribution systems separate from those serving zones requiring only comfort conditions or shall include supplementary provisions so that the primary systems may be specifically controlled for comfort purposes only. Exceptions: Zones requiring only comfort heating or comfort cooling that are served by a system primarily used for process temperature and humidity control need not be served by a separate system if the total supply air to these comfort zones is no more than 25% of the total system supply air or the total conditioned floor area of the zones is less than 1000 ft2.
+403.2.3 *Separate Air Distribution System.* Zones with special process temperature and/or humidity requirements shall be served by air distribution systems separate from those serving zones requiring only comfort conditions or shall include supplementary provisions so that the primary systems may be specifically controlled for comfort purposes only. Exceptions: Zones requiring only comfort heating or comfort cooling that are served by a system primarily used for process temperature and humidity control need not be served by a separate system if the total supply air to these comfort zones is no more than 25% of the total system supply air or the total conditioned floor area of the zones is less than 1000 ft2. 
 
-403.2.4 *Ventilation and Fan System Design.* Ventilation systems shall be designed to be capable of reducing the supply of outdoor air to the minimum ventilation rates required by Section 6.1.3 of RS-41 (incorporated by reference, see § 434.701) through the use of return ducts, manually or automatically operated control dampers, fan volume controls, or other devices. Exceptions are as follows: Minimum outdoor air rates may be greater if:
+403.2.4 *Ventilation and Fan System Design.* Ventilation systems shall be designed to be capable of reducing the supply of outdoor air to the minimum ventilation rates required by Section 6.1.3 of RS-41 (incorporated by reference, see § 434.701) through the use of return ducts, manually or automatically operated control dampers, fan volume controls, or other devices. Exceptions are as follows: Minimum outdoor air rates may be greater if: 
 
-(a) Required to make up air exhausted for source control of contaminants such as in a fume hood.
+(a) Required to make up air exhausted for source control of contaminants such as in a fume hood. 
 
-(b) Required by process systems.
+(b) Required by process systems. 
 
-(c) Required to maintain a slightly positive building pressure. For this purpose, minimum outside air intake may be increased up to no greater than 0.30 air changes per hour in excess of exhaust quantities.
+(c) Required to maintain a slightly positive building pressure. For this purpose, minimum outside air intake may be increased up to no greater than 0.30 air changes per hour in excess of exhaust quantities. 
 
-403.2.4.1 *Ventilation controls for variable or high occupancy areas.* Systems with design outside air capacities greater than 3,000 cfm serving areas having an average design occupancy density exceeding 100 people per 1,000 ft 2 shall include means to automatically reduce outside air intake to the minimum values required by RS-41 (incorporated by reference, see § 434.701) during unoccupied or low-occupancy periods. Outside air shall not be reduced below 0.14 cfm/ft 2. Outside air intake shall be controlled by one or more of the following:
+403.2.4.1 *Ventilation controls for variable or high occupancy areas.* Systems with design outside air capacities greater than 3,000 cfm serving areas having an average design occupancy density exceeding 100 people per 1,000 ft 2 shall include means to automatically reduce outside air intake to the minimum values required by RS-41 (incorporated by reference, see § 434.701) during unoccupied or low-occupancy periods. Outside air shall not be reduced below 0.14 cfm/ft 2. Outside air intake shall be controlled by one or more of the following: 
 
-(a) A clearly labeled, readily accessible bypass timer that may be used by occupants or operating personnel to temporarily increase minimum outside air flow up to design levels.
+(a) A clearly labeled, readily accessible bypass timer that may be used by occupants or operating personnel to temporarily increase minimum outside air flow up to design levels. 
 
-(b) A carbon dioxide (CO2) control system having sensors located in the spaces served, or in the return air from the spaces served, capable of maintaining space CO2 concentrations below levels recommended by the manufacturer, but no fewer than one sensor per 25,000 ft 2 of occupied space shall be provided.
+(b) A carbon dioxide (CO2) control system having sensors located in the spaces served, or in the return air from the spaces served, capable of maintaining space CO2 concentrations below levels recommended by the manufacturer, but no fewer than one sensor per 25,000 ft 2 of occupied space shall be provided. 
 
-(c) An automatic timeclock that can be programmed to maintain minimum outside air intake levels commensurate with scheduled occupancy levels.
+(c) An automatic timeclock that can be programmed to maintain minimum outside air intake levels commensurate with scheduled occupancy levels. 
 
-(d) Spaces equipped with occupancy sensors.
+(d) Spaces equipped with occupancy sensors. 
 
-403.2.4.2 *Ventilation Controls for enclosed parking garages.* Garage ventilation fan systems with a total design capacity greater than 30,000 cfm shall have automatic controls that stage fans or modulate fan volume as required to maintain carbon monoxide (CO) below levels recommended in RS-41.
+403.2.4.2 *Ventilation Controls for enclosed parking garages.* Garage ventilation fan systems with a total design capacity greater than 30,000 cfm shall have automatic controls that stage fans or modulate fan volume as required to maintain carbon monoxide (CO) below levels recommended in RS-41. 
 
-403.2.4.3 *Ventilation and Fan Power.* The fan system energy demand of each HVAC system at design conditions shall not exceed 0.8 W/cfm of supply air for constant air volume systems and 1.25 W/cfm of supply air for variable-air-volume (VAV) systems. Fan system energy demand shall not include the additional power required by air treatment or filtering systems with pressure drops over 1 in. w.c. Individual VAV fans with motors 75 hp and larger shall include controls and devices necessary for the fan motor to demand no more than 30 percent of design wattage at 50 percent of design air volume, based on manufacturer's test data. Exceptions are as follows:
+403.2.4.3 *Ventilation and Fan Power.* The fan system energy demand of each HVAC system at design conditions shall not exceed 0.8 W/cfm of supply air for constant air volume systems and 1.25 W/cfm of supply air for variable-air-volume (VAV) systems. Fan system energy demand shall not include the additional power required by air treatment or filtering systems with pressure drops over 1 in. w.c. Individual VAV fans with motors 75 hp and larger shall include controls and devices necessary for the fan motor to demand no more than 30 percent of design wattage at 50 percent of design air volume, based on manufacturer's test data. Exceptions are as follows: 
 
-(a) Systems with total fan system motor horsepower of 10 hp or less.
+(a) Systems with total fan system motor horsepower of 10 hp or less. 
 
-(b) Unitary equipment for which the energy used by the fan is considered in the efficiency ratings of subsection 403.1.
+(b) Unitary equipment for which the energy used by the fan is considered in the efficiency ratings of subsection 403.1. 
 
-403.2.5 *Pumping System Design.* HVAC pumping systems used for comfort heating and/or comfort air conditioning that serve control valves designed to modulate or step open and closed as a function of load shall be designed for variable fluid flow and capable of reducing system flow to 50 percent of design flow or less. Exceptions are as follows:
+403.2.5 *Pumping System Design.* HVAC pumping systems used for comfort heating and/or comfort air conditioning that serve control valves designed to modulate or step open and closed as a function of load shall be designed for variable fluid flow and capable of reducing system flow to 50 percent of design flow or less. Exceptions are as follows: 
 
-(a) Systems where a minimum flow greater than 50% of the design flow is required for the proper operation of equipment served by the system, such as chillers.
+(a) Systems where a minimum flow greater than 50% of the design flow is required for the proper operation of equipment served by the system, such as chillers. 
 
-(b) Systems that serve no more than one control valve.
+(b) Systems that serve no more than one control valve. 
 
-(c) Systems with a total pump system horse power ≤10 hp.
+(c) Systems with a total pump system horse power ≤10 hp. 
 
-(d) Systems that comply with subsection 403.2.6.8 without exception.
+(d) Systems that comply with subsection 403.2.6.8 without exception. 
 
 403.2.6 *Temperature and Humidity Controls.*
 
-403.2.6.1 *System Controls.* Each heating and cooling system shall include at least one temperature control device.
+403.2.6.1 *System Controls.* Each heating and cooling system shall include at least one temperature control device. 
 
-403.2.6.2 *Zone Controls.* The supply of heating and cooling energy to each zone shall be controlled by individual thermostatic controls responding to temperature within the zone. For the purposes of this section, a dwelling unit is considered a zone. Exceptions are as follows: Independent perimeter systems that are designed to offset building envelope heat losses or gains or both may serve one or more zones also served by an interior system when the perimeter system includes at least one thermostatic control zone for each building exposure having exterior walls facing only one orientation for at least 50 contiguous ft and the perimeter system heating and cooling supply is controlled by thermostat(s) located within the zone(s) served by the system.
+403.2.6.2 *Zone Controls.* The supply of heating and cooling energy to each zone shall be controlled by individual thermostatic controls responding to temperature within the zone. For the purposes of this section, a dwelling unit is considered a zone. Exceptions are as follows: Independent perimeter systems that are designed to offset building envelope heat losses or gains or both may serve one or more zones also served by an interior system when the perimeter system includes at least one thermostatic control zone for each building exposure having exterior walls facing only one orientation for at least 50 contiguous ft and the perimeter system heating and cooling supply is controlled by thermostat(s) located within the zone(s) served by the system. 
 
-403.2.6.3 *Zone Thermostatic Control Capabilities.* Where used to control comfort heating, zone thermostatic controls shall be capable of being set locally or remotely by adjustment or selection of sensors down to 55 °F or lower. Where used to control comfort cooling, zone thermostatic controls shall be capable of being set locally or remotely by adjustment or selection of sensors up to 85 °F or higher. Where used to control both comfort heating and cooling, zone thermostatic controls shall be capable of providing a temperature range or deadband of at least 5 °F within which the supply of heating and cooling energy to the zone is shut off or reduced to a minimum. Exceptions are as follows:
+403.2.6.3 *Zone Thermostatic Control Capabilities.* Where used to control comfort heating, zone thermostatic controls shall be capable of being set locally or remotely by adjustment or selection of sensors down to 55 °F or lower. Where used to control comfort cooling, zone thermostatic controls shall be capable of being set locally or remotely by adjustment or selection of sensors up to 85 °F or higher. Where used to control both comfort heating and cooling, zone thermostatic controls shall be capable of providing a temperature range or deadband of at least 5 °F within which the supply of heating and cooling energy to the zone is shut off or reduced to a minimum. Exceptions are as follows: 
 
-(a) Special occupancy or special usage conditions approved by the building official or
+(a) Special occupancy or special usage conditions approved by the building official or 
 
-(b) Thermostats that require manual changeover between heating and cooling modes.
+(b) Thermostats that require manual changeover between heating and cooling modes. 
 
-403.2.6.4 *Heat Pump Auxiliary Heat.* Heat pumps having supplementary electric resistance heaters shall have controls that prevent heater operation when the heating load can be met by the heat pump. Supplemental heater operation is permitted during outdoor coil defrost cycles not exceeding 15 minutes.
+403.2.6.4 *Heat Pump Auxiliary Heat.* Heat pumps having supplementary electric resistance heaters shall have controls that prevent heater operation when the heating load can be met by the heat pump. Supplemental heater operation is permitted during outdoor coil defrost cycles not exceeding 15 minutes. 
 
-403.2.6.5 *Humidistats.* Humidistats used for comfort purposes shall be capable of being set to prevent the use of fossil fuel or electricity to reduce relative humidity below 60% or increase relative humidity above 30%.
+403.2.6.5 *Humidistats.* Humidistats used for comfort purposes shall be capable of being set to prevent the use of fossil fuel or electricity to reduce relative humidity below 60% or increase relative humidity above 30%. 
 
-403.2.6.6 *Simultaneous Heating and Cooling.* Zone thermostatic and humidistatic controls shall be capable of operating in sequence the supply of heating and cooling energy to the zone. Such controls shall prevent: Reheating; recooling; mixing or simultaneous supply of air that has been previously mechanically heated and air that has been previously cooled, either by mechanical refrigeration or by economizer systems; and other simultaneous operation of heating and cooling systems to the same zone. Exceptions are as follows:
+403.2.6.6 *Simultaneous Heating and Cooling.* Zone thermostatic and humidistatic controls shall be capable of operating in sequence the supply of heating and cooling energy to the zone. Such controls shall prevent: Reheating; recooling; mixing or simultaneous supply of air that has been previously mechanically heated and air that has been previously cooled, either by mechanical refrigeration or by economizer systems; and other simultaneous operation of heating and cooling systems to the same zone. Exceptions are as follows: 
 
-(a) Variable-air-volume systems that, during periods of occupancy, are designed to reduce the air supply to each zone to a minimum before heating, recooling, or mixing takes place. This minimum volume shall be no greater than the larger of 30% of the peak supply volume, the minimum required to meet minimum ventilation requirements of the Federal agency. (0.4 cfm/ft 2 of zone conditioned floor area, and 300 cfm).
+(a) Variable-air-volume systems that, during periods of occupancy, are designed to reduce the air supply to each zone to a minimum before heating, recooling, or mixing takes place. This minimum volume shall be no greater than the larger of 30% of the peak supply volume, the minimum required to meet minimum ventilation requirements of the Federal agency. (0.4 cfm/ft 2 of zone conditioned floor area, and 300 cfm). 
 
-(b) Zones where special pressurization relationships or cross-contamination requirements are such that variable-air-volume systems are impractical, such as isolation rooms, operating areas of hospitals and clean rooms.
+(b) Zones where special pressurization relationships or cross-contamination requirements are such that variable-air-volume systems are impractical, such as isolation rooms, operating areas of hospitals and clean rooms. 
 
-(c) At least 75% of the energy for reheating or for providing warm air in mixing systems is provided from a site-recovered or site-solar energy source.
+(c) At least 75% of the energy for reheating or for providing warm air in mixing systems is provided from a site-recovered or site-solar energy source. 
 
-(d) Zones where specified humidity levels are required to satisfy process needs, such as computer rooms and museums.
+(d) Zones where specified humidity levels are required to satisfy process needs, such as computer rooms and museums. 
 
-(e) Zones with a peak supply air quantity of 300 cfm or less.
+(e) Zones with a peak supply air quantity of 300 cfm or less. 
 
-403.2.6.7 *Temperature Reset for Air Systems.* Air systems supplying heated or cooled air to multiple zones shall include controls that automatically reset supply air temperatures by representative building loads or by outside air temperature. Temperature shall be reset by at least 25% of the design supply air to room air temperature difference. Zones that are expected to experience relatively constant loads, such as interior zones, shall be designed for the fully reset supply temperature. Exception are as follows: Systems that comply with subsection 403.2.6.6 without using exceptions (a) or (b).
+403.2.6.7 *Temperature Reset for Air Systems.* Air systems supplying heated or cooled air to multiple zones shall include controls that automatically reset supply air temperatures by representative building loads or by outside air temperature. Temperature shall be reset by at least 25% of the design supply air to room air temperature difference. Zones that are expected to experience relatively constant loads, such as interior zones, shall be designed for the fully reset supply temperature. Exception are as follows: Systems that comply with subsection 403.2.6.6 without using exceptions (a) or (b). 
 
-403.2.6.8 *Temperature Reset for Hydronic Systems.* Hydronic systems of at least 600,000 Btu/hr design capacity supplying heated and/or chilled water to comfort conditioning systems shall include controls that automatically reset supply water temperatures by representative building loads (including return water temperature) or by outside air temperature. Temperature shall be reset by at least 25% of the design supply-to-return water temperature difference. Exceptions are as follows:
+403.2.6.8 *Temperature Reset for Hydronic Systems.* Hydronic systems of at least 600,000 Btu/hr design capacity supplying heated and/or chilled water to comfort conditioning systems shall include controls that automatically reset supply water temperatures by representative building loads (including return water temperature) or by outside air temperature. Temperature shall be reset by at least 25% of the design supply-to-return water temperature difference. Exceptions are as follows: 
 
-(a) Systems that comply with subsection 403.2.5 without exception or
+(a) Systems that comply with subsection 403.2.5 without exception or 
 
-(b) Where the design engineer certifies to the building official that supply temperature reset controls cannot be implemented without causing improper operation of heating, cooling, humidification, or dehumidification systems.
+(b) Where the design engineer certifies to the building official that supply temperature reset controls cannot be implemented without causing improper operation of heating, cooling, humidification, or dehumidification systems. 
 
 403.2.7 *Off Hour Controls.*
 
-403.2.7.1 *Automatic Setback or Shutdown Controls.* HVAC systems shall be equipped with automatic controls capable of accomplishing a reduction of energy use through control setback or equipment shutdown. Exceptions are as follows:
+403.2.7.1 *Automatic Setback or Shutdown Controls.* HVAC systems shall be equipped with automatic controls capable of accomplishing a reduction of energy use through control setback or equipment shutdown. Exceptions are as follows: 
 
-(a) Systems serving areas expected to operate continuously or
+(a) Systems serving areas expected to operate continuously or 
 
-(b) Equipment with full load demands not exceeding 2 kW controlled by readily accessible, manual off-hour controls.
+(b) Equipment with full load demands not exceeding 2 kW controlled by readily accessible, manual off-hour controls. 
 
-403.2.7.2 *Shutoff Dampers.* Outdoor air supply and exhaust systems shall be provided with motorized or gravity dampers or other means of automatic volume shutoff or reduction. Exceptions are as follows:
+403.2.7.2 *Shutoff Dampers.* Outdoor air supply and exhaust systems shall be provided with motorized or gravity dampers or other means of automatic volume shutoff or reduction. Exceptions are as follows: 
 
-(a) Systems serving areas expected to operate continuously.
+(a) Systems serving areas expected to operate continuously. 
 
-(b) Individual systems which have a design airflow rate or 3000 cfm or less.
+(b) Individual systems which have a design airflow rate or 3000 cfm or less. 
 
-(c) Gravity and other non-electrical ventilation systems controlled by readily accessible, manual damper controls.
+(c) Gravity and other non-electrical ventilation systems controlled by readily accessible, manual damper controls. 
 
-(d) Where restricted by health and life safety codes.
+(d) Where restricted by health and life safety codes. 
 
-403.2.7.3 Zone Isolation systems that serve zones that can be expected to operate nonsimultaneously for more than 750 hours per year shall include isolation devices and controls to shut off or set back the supply of heating and cooling to each zone independently. Isolation is not required for zones expected to operate continuously or expected to be inoperative only when all other zones are inoperative. For buildings where occupancy patterns are not known at the time of system design, such as speculative buildings, the designer may predesignate isolation areas. The grouping of zones on one floor into a single isolation area shall be permitted when the total conditioned floor area does not exceed 25,000 ft 2 per group.
+403.2.7.3 Zone Isolation systems that serve zones that can be expected to operate nonsimultaneously for more than 750 hours per year shall include isolation devices and controls to shut off or set back the supply of heating and cooling to each zone independently. Isolation is not required for zones expected to operate continuously or expected to be inoperative only when all other zones are inoperative. For buildings where occupancy patterns are not known at the time of system design, such as speculative buildings, the designer may predesignate isolation areas. The grouping of zones on one floor into a single isolation area shall be permitted when the total conditioned floor area does not exceed 25,000 ft 2 per group. 
 
 403.2.8 *Economizer Controls.*
 
-403.2.8.1 Each fan system shall be designed and capable of being controlled to take advantage of favorable weather conditions to reduce mechanical cooling requirements. The system shall include either: A temperature or enthalpy air economizer system that is capable of automatically modulating outside air and return air dampers to provide up to 85% of the design supply air quantity as outside air, or a water economizer system that is capable of cooling supply air by direct and/or indirect evaporation and is capable of providing 100% of the expected system cooling load at outside air temperatures of 50 °F dry-bulb/45 °F wet-bulb and below. Exceptions are as follows:
+403.2.8.1 Each fan system shall be designed and capable of being controlled to take advantage of favorable weather conditions to reduce mechanical cooling requirements. The system shall include either: A temperature or enthalpy air economizer system that is capable of automatically modulating outside air and return air dampers to provide up to 85% of the design supply air quantity as outside air, or a water economizer system that is capable of cooling supply air by direct and/or indirect evaporation and is capable of providing 100% of the expected system cooling load at outside air temperatures of 50 °F dry-bulb/45 °F wet-bulb and below. Exceptions are as follows: 
 
-(a) Individual fan-cooling units with a supply capacity of less than 3000 cfm or a total cooling capacity less than 90,000 Btu/h.
+(a) Individual fan-cooling units with a supply capacity of less than 3000 cfm or a total cooling capacity less than 90,000 Btu/h. 
 
-(b) Systems with air-cooled or evaporatively cooled condensers that include extensive filtering equipment provided in order to meet the requirements of RS-41 (incorporated by reference, see § 434.701).
+(b) Systems with air-cooled or evaporatively cooled condensers that include extensive filtering equipment provided in order to meet the requirements of RS-41 (incorporated by reference, see § 434.701). 
 
-(c) Systems with air-cooled or evaporatively cooled condensers where the design engineer certifies to the building official that use of outdoor air cooling affects the operation of other systems, such as humidification, dehumidification, and supermarket refrigeration systems, so as to increase overall energy usage.
+(c) Systems with air-cooled or evaporatively cooled condensers where the design engineer certifies to the building official that use of outdoor air cooling affects the operation of other systems, such as humidification, dehumidification, and supermarket refrigeration systems, so as to increase overall energy usage. 
 
-(d) Systems that serve envelope-dominated spaces whose sensible cooling load at design conditions, excluding transmission and infiltration loads, is less than or equal to transmission and infiltration losses at an outdoor temperature of 60 °F.
+(d) Systems that serve envelope-dominated spaces whose sensible cooling load at design conditions, excluding transmission and infiltration loads, is less than or equal to transmission and infiltration losses at an outdoor temperature of 60 °F. 
 
-(e) Systems serving residential spaces and hotel or motel rooms.
+(e) Systems serving residential spaces and hotel or motel rooms. 
 
-(f) Systems for which at least 75% of the annual energy used for mechanical cooling is provided from a site-recovered or site-solar energy source.
+(f) Systems for which at least 75% of the annual energy used for mechanical cooling is provided from a site-recovered or site-solar energy source. 
 
-(g) The zone(s) served by the system each have operable openings (windows, doors, etc.) with an openable area greater than 5% of the conditioned floor area. This applies only to spaces open to and within 20 ft of the operable openings. Automatic controls shall be provided that lock out system mechanical cooling to these zones when outdoor air temperatures are less than 60 °F.
+(g) The zone(s) served by the system each have operable openings (windows, doors, etc.) with an openable area greater than 5% of the conditioned floor area. This applies only to spaces open to and within 20 ft of the operable openings. Automatic controls shall be provided that lock out system mechanical cooling to these zones when outdoor air temperatures are less than 60 °F. 
 
-403.2.8.2 Economizer systems shall be capable of providing partial cooling even when additional mechanical cooling is required to meet the remainder of the cooling load. Exceptions are as follows:
+403.2.8.2 Economizer systems shall be capable of providing partial cooling even when additional mechanical cooling is required to meet the remainder of the cooling load. Exceptions are as follows: 
 
-(a) Direct-expansion systems may include controls to reduce the quantity of outdoor air as required to prevent coil frosting at the lowest step of compressor unloading. Individual direct-expansion units that have a cooling capacity of 180,000 Btu/h or less may use economizer controls that preclude economizer operation whenever mechanical cooling is required simultaneously.
+(a) Direct-expansion systems may include controls to reduce the quantity of outdoor air as required to prevent coil frosting at the lowest step of compressor unloading. Individual direct-expansion units that have a cooling capacity of 180,000 Btu/h or less may use economizer controls that preclude economizer operation whenever mechanical cooling is required simultaneously. 
 
-(b) Systems in climates with less than 750 average operating hours per year between 8 a.m. and 4 p.m. when the ambient dry-bulb temperatures are between 55 °F and 69 °F inclusive.
+(b) Systems in climates with less than 750 average operating hours per year between 8 a.m. and 4 p.m. when the ambient dry-bulb temperatures are between 55 °F and 69 °F inclusive. 
 
-403.2.8.3 System design and economizer controls shall be such that economizer operation does not increase the building heating energy use during normal operation.
+403.2.8.3 System design and economizer controls shall be such that economizer operation does not increase the building heating energy use during normal operation. 
 
 403.2.9 *Distribution System Construction and Insulation.*
 
-403.2.9.1 *Piping Insulation.* All HVAC system piping shall be thermally insulated in accordance with Table 403.2.9.1. Exceptions are as follows:
+403.2.9.1 *Piping Insulation.* All HVAC system piping shall be thermally insulated in accordance with Table 403.2.9.1. Exceptions are as follows: 
 
-(a) Factory-installed piping within HVAC equipment tested and rated in accordance with subsection 403.1.
+(a) Factory-installed piping within HVAC equipment tested and rated in accordance with subsection 403.1. 
 
-(b) Piping that conveys fluids that have a design operating temperature range between 55 °F and 105 °F.
+(b) Piping that conveys fluids that have a design operating temperature range between 55 °F and 105 °F. 
 
-(c) Piping that conveys fluids that have not been heated or cooled through the use of fossil fuels or electricity.
+(c) Piping that conveys fluids that have not been heated or cooled through the use of fossil fuels or electricity. 
 
 Table 403.2.9.1—Minimum Pipe Insulation (in.) a
 |                                                                                                                                                                                                                                                                                                                                                                                                                                    | Insulation conductivity a | Nominal pipe diameter (in.) |
@@ -289,48 +289,48 @@ Table 403.2.9.2—Minimum Duct Insulation R-value a
 | b Includes crawl spaces, both ventilated and non-ventilated.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                      |                      |              |
 | c Includes return air plenums, with and without exposed roofs above.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                      |                      |              |
 
-403.2.9.2 *Duct and Plenum Insulation.* All supply and return air ducts and plenums installed as part of an HVAC air distribution system shall be thermally insulated in accordance with Table 403.2.9.1. Exceptions are as follows:
+403.2.9.2 *Duct and Plenum Insulation.* All supply and return air ducts and plenums installed as part of an HVAC air distribution system shall be thermally insulated in accordance with Table 403.2.9.1. Exceptions are as follows: 
 
-(a) Factory-installed plenums, casings, or ductwork furnished as a part of the HVAC equipment tested and rated in accordance with subsection 403.1
+(a) Factory-installed plenums, casings, or ductwork furnished as a part of the HVAC equipment tested and rated in accordance with subsection 403.1 
 
-(b) Ducts within the conditioned space that they serve. (incorporated by reference, see § 434.701)ca a06oc0.186
+(b) Ducts within the conditioned space that they serve. (incorporated by reference, see § 434.701)ca a06oc0.186 
 
-403.2.9.3 *Duct and Plenum Construction.* All air-handling ductwork and plenums shall be constructed and erected in accordance with RS-34, RS-35, and RS-36 (incorporated by reference, see § 434.701). Where supply ductwork and plenums designed to operate at static pressures from 0.25 in. wc to 2 in. wc, inclusive, are located outside of the conditioned space or in return plenums, joints shall be sealed in accordance with Seal Class C as defined in RS-34 (incorporated by reference, see § 434.701). Pressure sensitive tape shall not be used as the primary sealant where such ducts are designed to operate at static pressures of 1 in. wc, or greater.
+403.2.9.3 *Duct and Plenum Construction.* All air-handling ductwork and plenums shall be constructed and erected in accordance with RS-34, RS-35, and RS-36 (incorporated by reference, see § 434.701). Where supply ductwork and plenums designed to operate at static pressures from 0.25 in. wc to 2 in. wc, inclusive, are located outside of the conditioned space or in return plenums, joints shall be sealed in accordance with Seal Class C as defined in RS-34 (incorporated by reference, see § 434.701). Pressure sensitive tape shall not be used as the primary sealant where such ducts are designed to operate at static pressures of 1 in. wc, or greater. 
 
-403.2.9.3.1 Ductwork designed to operate at static pressures in excess of 3 in. wc shall be leak-tested in accordance with Section 5 of RS-35, (incorporated by reference, see § 434.701), or equivalent. Test reports shall be provided in accordance with Section 6 of RS-35, (incorporated by reference, see § 434.701)m or equivalent. The tested duct leakage class at a test pressure equal to the design duct pressure class rating shall be equal to or less than leakage Class 6 as defined in Section 4.1 of RS-35 (incorporated by reference, see § 434.701). Representative sections totaling at least 25% of the total installed duct area for the designated pressure class shall be tested.
+403.2.9.3.1 Ductwork designed to operate at static pressures in excess of 3 in. wc shall be leak-tested in accordance with Section 5 of RS-35, (incorporated by reference, see § 434.701), or equivalent. Test reports shall be provided in accordance with Section 6 of RS-35, (incorporated by reference, see § 434.701)m or equivalent. The tested duct leakage class at a test pressure equal to the design duct pressure class rating shall be equal to or less than leakage Class 6 as defined in Section 4.1 of RS-35 (incorporated by reference, see § 434.701). Representative sections totaling at least 25% of the total installed duct area for the designated pressure class shall be tested. 
 
 403.2.10 *Completion.*
 
-403.2.10.1 *Manuals.* Construction documents shall require an operating and maintenance manual provided to the Federal Agency. The manual shall include, at a minimum, the following:
+403.2.10.1 *Manuals.* Construction documents shall require an operating and maintenance manual provided to the Federal Agency. The manual shall include, at a minimum, the following: 
 
-(a) Submittal data stating equipment size and selected options for each piece of equipment requiring maintenance, including assumptions used in outdoor design calculations.
+(a) Submittal data stating equipment size and selected options for each piece of equipment requiring maintenance, including assumptions used in outdoor design calculations. 
 
-(b) Operating and maintenance manuals for each piece of equipment requiring maintenance. Required maintenance activity shall be specified.
+(b) Operating and maintenance manuals for each piece of equipment requiring maintenance. Required maintenance activity shall be specified. 
 
-(c) Names and addresses of at least one qualified service agency to perform the required periodic maintenance shall be provided.
+(c) Names and addresses of at least one qualified service agency to perform the required periodic maintenance shall be provided. 
 
-(d) HVAC controls systems maintenance and calibration information, including wiring diagrams, schematics, and control sequence descriptions. Desired or field determined setpoints shall be permanently recorded on control drawings, at control devices, or, for digital control systems, in programming comments.
+(d) HVAC controls systems maintenance and calibration information, including wiring diagrams, schematics, and control sequence descriptions. Desired or field determined setpoints shall be permanently recorded on control drawings, at control devices, or, for digital control systems, in programming comments. 
 
-(e) A complete narrative, prepared by the designer, of how each system is intended to operate shall be included with the construction documents.
+(e) A complete narrative, prepared by the designer, of how each system is intended to operate shall be included with the construction documents. 
 
-403.2.10.2 *Drawings.* Construction documents shall require that within 30 days after the date of system acceptance, record drawings of the actual installation be provided to the Federal agency. The drawings shall include details of the air barrier installation in every envelope component, demonstrating continuity of the air barrier at all joints and penetrations.
+403.2.10.2 *Drawings.* Construction documents shall require that within 30 days after the date of system acceptance, record drawings of the actual installation be provided to the Federal agency. The drawings shall include details of the air barrier installation in every envelope component, demonstrating continuity of the air barrier at all joints and penetrations. 
 
-403.2.10.3 *Air System Balancing.* Construction documents shall require that all HVAC systems be balanced in accordance with the industry accepted procedures (such as National Environmental Balancing Bureau (NEBB) Procedural Standards, Associated Air Balance Council (AABC) National Standards, or ANSI/ASHRAE Standard 111). Air and water flow rates shall be measured and adjusted to deliver final flow rates within 10% of design rates, except variable flow distribution systems need not be balanced upstream of the controlling device (VAV box or control valve).
+403.2.10.3 *Air System Balancing.* Construction documents shall require that all HVAC systems be balanced in accordance with the industry accepted procedures (such as National Environmental Balancing Bureau (NEBB) Procedural Standards, Associated Air Balance Council (AABC) National Standards, or ANSI/ASHRAE Standard 111). Air and water flow rates shall be measured and adjusted to deliver final flow rates within 10% of design rates, except variable flow distribution systems need not be balanced upstream of the controlling device (VAV box or control valve). 
 
-403.2.10.3.1 Construction documents shall require a written balance report be provided to the Federal agency for HVAC systems serving zones with a total conditioned area exceeding 5,000 ft 2.
+403.2.10.3.1 Construction documents shall require a written balance report be provided to the Federal agency for HVAC systems serving zones with a total conditioned area exceeding 5,000 ft 2. 
 
-403.2.10.3.2 Air systems shall be balanced in a manner to first minimize throttling losses, then fan speed shall be adjusted to meet design flow conditions or equivalent procedures. Exceptions are as follows: Damper throttling may be used for air system balancing;
+403.2.10.3.2 Air systems shall be balanced in a manner to first minimize throttling losses, then fan speed shall be adjusted to meet design flow conditions or equivalent procedures. Exceptions are as follows: Damper throttling may be used for air system balancing; 
 
-(a) With fan motors of 1 hp (0.746 kW) or less, or
+(a) With fan motors of 1 hp (0.746 kW) or less, or 
 
-(b) Of throttling results in no greater than 1/3 hp (0.248 kW) fan horsepower draw above that required if the fan speed were adjusted.
+(b) Of throttling results in no greater than 1/3 hp (0.248 kW) fan horsepower draw above that required if the fan speed were adjusted. 
 
-403.2.10.4 *Hydronic System Balancing.* Hydronic systems shall be balanced in a manner to first minimize throttling losses; then the pump impeller shall be trimmed or pump speed shall be adjusted to meet design flow conditions. Exceptions are as follows:
+403.2.10.4 *Hydronic System Balancing.* Hydronic systems shall be balanced in a manner to first minimize throttling losses; then the pump impeller shall be trimmed or pump speed shall be adjusted to meet design flow conditions. Exceptions are as follows: 
 
-(a) Pumps with pump motors of 10 hp (7.46 kW) or less.
+(a) Pumps with pump motors of 10 hp (7.46 kW) or less. 
 
-(b) If throttling results in no greater than 3 hp (2.23 kW) pump horsepower draw above that required if the impeller were trimmed.
+(b) If throttling results in no greater than 3 hp (2.23 kW) pump horsepower draw above that required if the impeller were trimmed. 
 
-(c) To reserve additional pump pressure capability in open circuit piping systems subject to fouling. Valve throttling pressure drop shall not exceed that expected for future fouling.
+(c) To reserve additional pump pressure capability in open circuit piping systems subject to fouling. Valve throttling pressure drop shall not exceed that expected for future fouling. 
 
 403.2.10.5 *Control System Testing.* HVAC control systems shall be tested to assure that control elements are calibrated, adjusted, and in proper working condition. For projects larger than 50,000 ft2 conditioned area, detailed instructions for commissioning HVAC systems shall be provided by the designer in plans and specifications.

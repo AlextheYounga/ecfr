@@ -1,6 +1,6 @@
 ##### § 26.133 Cutoff levels for drugs and drug metabolites.
 
-Subject to the provisions of § 26.31(d)(3)(iii), licensees and other entities may specify more stringent cutoff levels for drugs and drug metabolites than those in Table 1 to § 26.133 and, in such cases, may report initial test results for only the more stringent cutoff levels. Otherwise, the following cutoff levels must be used for initial testing of urine specimens to determine whether they are negative or positive for the indicated drugs and drug metabolites:
+Subject to the provisions of § 26.31(d)(3)(iii), licensees and other entities may specify more stringent cutoff levels for drugs and drug metabolites than those in Table 1 to § 26.133 and, in such cases, may report initial test results for only the more stringent cutoff levels. Otherwise, the following cutoff levels must be used for initial testing of urine specimens to determine whether they are negative or positive for the indicated drugs and drug metabolites: 
 
 Table 1 to § 26.133—Urine, Initial Test Cutoff Levels for Drugs and Drug Metabolites
 | Drugs or drug metabolites                                                                                                                                                    | Cutoff level   \[nanograms   (ng)/mL\] |
