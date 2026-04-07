@@ -1,6 +1,6 @@
 ##### § 1.22 Requirements relating to systems of records.
 
-(a) *In general.* Subject to 5 U.S.C. 552a(j) and (k) and § 1.23(c), each component shall, in conformance with the Privacy Act:
+(a) *In general.* Subject to 5 U.S.C. 552a(j) and (k) and § 1.23(c), each component shall, in conformance with the Privacy Act:Federal Register.
 
 (1) Maintain in its records only such information about an individual as is relevant and necessary to accomplish a purpose of the agency required to be accomplished by the statute or by Executive order of the President. (*See* 5 U.S.C. 552a(e)(1).)
 

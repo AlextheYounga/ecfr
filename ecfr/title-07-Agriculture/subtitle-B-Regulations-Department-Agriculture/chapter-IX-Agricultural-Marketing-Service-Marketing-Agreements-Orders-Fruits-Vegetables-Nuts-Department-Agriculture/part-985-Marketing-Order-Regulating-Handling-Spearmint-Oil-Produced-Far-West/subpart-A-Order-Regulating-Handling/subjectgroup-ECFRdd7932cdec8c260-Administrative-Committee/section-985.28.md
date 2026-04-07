@@ -1,6 +1,6 @@
 ##### § 985.28 Duties.
 
-The Committee shall have, among others, the following duties;
+The Committee shall have, among others, the following duties;*Provided,*
 
 (a) To select from among its membership such officers and adopt such rules or by-laws for the conduct of its meetings as it deems necessary;
 

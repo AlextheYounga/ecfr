@@ -1,6 +1,6 @@
 ##### § 1.32 Collection, use, disclosure, and protection of Social Security numbers.
 
-(a) Treasury must only collect full Social Security numbers (SSNs) when relevant and necessary to accomplish a legally authorized purpose related to a Treasury mission. In the absence of another compelling justification for the use of the full SSN (approved by the relevant component Head and the Departmental Senior Agency Official for Privacy), Treasury must only collect and maintain full SSNs:
+(a) Treasury must only collect full Social Security numbers (SSNs) when relevant and necessary to accomplish a legally authorized purpose related to a Treasury mission. In the absence of another compelling justification for the use of the full SSN (approved by the relevant component Head and the Departmental Senior Agency Official for Privacy), Treasury must only collect and maintain full SSNs:*See*
 
 (1) As a unique identifier for identity verification purposes related to cyber security, law enforcement, intelligence, and/or security background investigations;
 

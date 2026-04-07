@@ -1,6 +1,6 @@
 ##### § 985.57 Reserve pool requirements.
 
-(a) On November 1, or such other date as the Committee, with the approval of the Secretary may establish, the Committee shall pool identified excess oil as reserve oil in such manner as to accurately account for its receipt, storage, and disposition. The Committee shall store reserve oil for the account of the producer and maintain the identity of the reserve oil by producer's name, the year produced, the class of oil, and such other identification as may be used in normal commercial trade practices. The Committee shall designate a Committee employee as reserve pool manager.
+(a) On November 1, or such other date as the Committee, with the approval of the Secretary may establish, the Committee shall pool identified excess oil as reserve oil in such manner as to accurately account for its receipt, storage, and disposition. The Committee shall store reserve oil for the account of the producer and maintain the identity of the reserve oil by producer's name, the year produced, the class of oil, and such other identification as may be used in normal commercial trade practices. The Committee shall designate a Committee employee as reserve pool manager.*Disposition.*
 
 (b) *Disposition.* (1) When, in any marketing year, a producer has produced less than the annual allotment of a class of oil, the producer may, upon notification of the Committee, fill the deficiency with the same class of reserve oil from the producer's prior production.
 
