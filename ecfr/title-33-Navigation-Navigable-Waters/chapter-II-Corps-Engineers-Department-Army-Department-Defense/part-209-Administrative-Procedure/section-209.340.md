@@ -34,9 +34,9 @@
 
 (8) Prior to undertaking laboratory investigations or materials testing for private firms, written certification will be obtained from such firms stating that the results of the work will not be used in litigation or for promotional purposes.
 
-(e) *Terms of providing reimbursement for work performed* - (1) *Federal agencies.* Reimbursement for work for the Department of Defense, the Department of the Army, and other Federal Agencies will be in accordance with the procedures prescribed in AR 37-27.
+(e) *Terms of providing reimbursement for work performed*—(1) *Federal agencies.* Reimbursement for work for the Department of Defense, the Department of the Army, and other Federal Agencies will be in accordance with the procedures prescribed in AR 37-27.
 
-(2) *State and local units of Government.* Funds to cover the total estimated cost of the work or an initial increment of the esitmated cost based on an approved schedule of payment will be deposited with the installation performing the work before any obligations or expenses in connection with the work are incurred; and when funds are being deposited on an approved schedule no obligations or expenses will be incurred in connection with the work in excess of funds on deposit.
+(2) *State and local units of Government.* Funds to cover the total estimated cost of the work or an initial increment of the estimated cost based on an approved schedule of payment will be deposited with the installation performing the work before any obligations or expenses in connection with the work are incurred; and when funds are being deposited on an approved schedule no obligations or expenses will be incurred in connection with the work in excess of funds on deposit.
 
 (3) *Private concerns and foreign governments.* Funds will be deposited in advance of the work as required in paragraph (e)(2) of this section. Charges shall include a surcharge of 15 percent of all applicable costs, except under the following conditions.
 

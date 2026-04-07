@@ -1493,7 +1493,8 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Moline               | \*23, 38                                            |
 | Mount Vernon         | 11                                                  |
 | Olney                | \*19                                                |
-| Peoria               | 19, 25, 30, 39, \*46                                |
+| Oswego               | 10                                                  |
+| Peoria               | 19, 25, 30, \*46                                    |
 | Quincy               | 10, 32, \*34                                        |
 | Rock Island          | 4                                                   |
 | Rockford             | 13, 16, 42                                          |
