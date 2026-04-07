@@ -8,27 +8,43 @@
 
 (ii) A legal description of the land on which the producer will produce hemp in the State or territory of the Indian Tribe including, to the extent practicable, its geospatial location; and
 
-(iii) The status and number of the producer's license or authorization.
+(iii) The status and number of the producer's license or authorization in a format prescribed by USDA.
 
-(2) A State or Tribal plan must include a procedure for accurate and effective sampling of all hemp produced, to include the requirements in this paragraph (a)(2).
+(2) A State or Tribal plan must include a procedure for accurate and effective sampling of hemp that includes the requirements in this paragraph (a)(2).
 
-(i) Within 15 days prior to the anticipated harvest of cannabis plants, a Federal, State, local, or Tribal law enforcement agency or other Federal, State, or Tribal designated person shall collect samples from the flower material from such cannabis plants for delta-9 tetrahydrocannabinol concentration level testing as described in §§ 990.24 and 990.25.
+(i) Samples from cannabis plants must be collected within 30 days prior to the anticipated harvest, for total delta-9 tetrahydrocannabinol concentration level testing. Samples must be collected by a sampling agent. Producers may not collect samples from their own growing facilities.
 
-(ii) The method used for sampling from the flower material of the cannabis plant must be sufficient at a confidence level of 95 percent that no more than one percent (1%) of the plants in the lot would exceed the acceptable hemp THC level. The method used for sampling must ensure that a representative sample is collected that represents a homogeneous composition of the lot.
+(ii) Samples shall be obtained from the flowering tops of plants when flowering tops are present, and shall be approximately five to eight inches in length from the “main stem” (that includes the leaves and flowers), “terminal bud” (that occurs at the end of a stem), or “central cola” (cut stem that could develop into a bud) of the flowering top of the plant.
 
-(iii) During a scheduled sample collection, the producer or an authorized representative of the producer shall be present at the growing site.
+(iii) The method used for sampling must be sufficient at a confidence level of 95 percent that no more than one percent of the plants in each lot would exceed the acceptable hemp THC level and ensure that a representative sample is collected that represents a homogeneous composition of the lot. Alternatively, States and Tribes may adopt a performance-based method that meets the requirements in paragraphs (a)(2)(iii)(A) and (B) of this section.
 
-(iv) Representatives of the sampling agency shall be provided with complete and unrestricted access during business hours to all hemp and other cannabis plants, whether growing or harvested, and all land, buildings, and other structures used for the cultivation, handling, and storage of all hemp and other cannabis plants, and all locations listed in the producer license.
+(A) The alternative method must be part of the State or Tribe's hemp plan and is subject to USDA approval.
 
-(v) A producer shall not harvest the cannabis crop prior to samples being taken.
+(B) The alternative method must have the potential to ensure, at a confidence level of 95 percent, that the cannabi*s*plant species *Cannabis sativa* L. that will be subject to the alternative method will not test above the acceptable hemp THC level. The alternative method may consider one or more of the following factors:
 
-(3) A State or Tribal plan must include a procedure for testing that is able to accurately identify whether the sample contains a delta-9 tetrahydrocannabinol content concentration level that exceeds the acceptable hemp THC level. The procedure must include a validated testing methodology that uses postdecarboxylation or other similarly reliable methods. The testing methodology must consider the potential conversion of delta-9 tetrahydrocannabinolic *acid* (THC-A) in hemp into THC and the test result measures total available THC derived from the sum of the THC and THC-A content. Testing methodologies meeting the requirements of this paragraph (a)(3) include, but are not limited to, gas or liquid chromatography with detection. The total THC concentration level shall be determined and reported on a dry weight basis.
+(*1*) Seed certification process or process that identifies varieties that have consistently demonstrated to result in compliant hemp plants in that State or territory of the Indian Tribe;
 
-(i) Any test of a representative sample resulting in higher than the acceptable hemp THC level shall be conclusive evidence that the lot represented by the sample is not in compliance with this part. Lots tested and not certified by the DEA-registered laboratory at or below the acceptable hemp THC level may *not* be further handled, processed or enter the stream of commerce and the producer shall ensure the lot is disposed of in accordance with § 990.27.
+(*2*) Whether the producer is conducting research on hemp;
+
+(*3*) Whether a producer has consistently produced compliant hemp plants over an extended period of time; and
+
+(*4*) Factors similar to those in this paragraph (a)(2)(iii)(B).
+
+(iv) During a scheduled sample collection, the producer or an authorized representative of the producer shall be present at the growing site if possible.
+
+(v) Sampling agents shall be provided with complete and unrestricted access during business hours to all hemp and other cannabis plants (whether growing or harvested), to areas where hemp is grown and stored, and to all land, buildings, and other structures used for the cultivation, handling, and storage of all hemp and other cannabis plants, and all locations listed in the producer license.
+
+(vi) A producer shall not harvest the cannabis crop prior to samples being taken.
+
+(vii) Sampling agents must be trained using USDA, State, or Tribal training procedures. States and Indian Tribes must maintain information, available to producers, about trained sampling agents.
+
+(3) A State or Tribal plan must include a procedure for testing that is able to accurately identify whether the sample contains a total delta-9 tetrahydrocannabinol content concentration level that exceeds the acceptable hemp THC level. The procedure must include a validated testing methodology that uses post-decarboxylation or other similarly reliable methods. The testing methodology must consider the potential conversion of THCA in hemp into THC and the test result must report the total available THC derived from the sum of the THC and THCA content. Testing methodologies meeting the requirements of this paragraph (a)(3) include, but are not limited to, gas or liquid chromatography with detection. The total THC concentration level shall be determined and reported on a dry weight basis.
+
+(i) Any test of a representative sample resulting in higher than the acceptable hemp THC level shall be conclusive evidence that the lot represented by the sample is not in compliance with this part and shall be disposed of or remediated in accordance with § 990.27.
 
 (ii) Samples of hemp plant material from one lot shall not be commingled with hemp plant material from other lots.
 
-(iii) Analytical testing for purposes of detecting the concentration levels of THC shall meet the following standards:
+(iii) Laboratories conducting analytical testing for purposes of detecting the concentration levels of Total THC shall meet the following requirements:
 
 (A) Laboratory quality assurance must ensure the validity and reliability of test results;
 
@@ -38,27 +54,39 @@
 
 (D) Method performance specifications must ensure analytical tests are sufficiently sensitive for the purposes of the detectability requirements of this part; and
 
-(E) An effective disposal procedure for hemp plants that are produced that do not meet the requirements of this part. The procedure must be in accordance with DEA reverse distributor regulations found at 21 CFR 1317.15.
+(E) Effective disposal procedures for non-compliant samples that do not meet the requirements of this part.
 
 (F) Measurement of uncertainty (MU) must be estimated and reported with test results. Laboratories shall use appropriate, validated methods and procedures for all testing activities and evaluate measurement of uncertainty.
 
-(4) A State or Indian Tribe shall promptly notify the Administrator by certified mail or electronically of any occurrence of cannabis plants or plant material that do not meet the definition of hemp in this part and attach the records demonstrating the appropriate disposal of all of those plants and materials in the lot from which the representative samples were taken.
+(G) Sample preparation of pre- or post-harvest samples shall require grinding of sample to ensure homogeneity of plant material prior to testing. Sample preparation may follow a procedure described by USDA.
+
+(H) After December 31, 2022, States and Indian Tribes shall require that only laboratories registered with the DEA may conduct testing under this section.
+
+(4) A State or Indian Tribe shall require testing laboratories to comply with USDA reporting requirements in subpart F of this part. Laboratories shall only submit test results used to determine compliance with this part. Test results from informal testing conducted throughout the growing season shall not be reported to USDA.
 
 (5) A State or Tribal plan must include a procedure to comply with the enforcement procedures in § 990.6.
 
-(6) A State or Tribal plan must include a procedure for conducting annual inspections of, at a minimum, a random sample of producers to verify that hemp is not produced in violation of this part. These procedures must enforce the terms of violations as stated in the Act and defined under § 990.6.
+(6) A State or Tribal plan must include a procedure for the disposal or remediation of cannabis plants if the sample representing that plant tests above the acceptable hemp THC level.
 
-(7) A State or Tribal plan must include a procedure for submitting the information described in § 990.70 to the Secretary not more than 30 days after the date on which the information is received. All such information must be submitted to the USDA in a format that is compatible with USDA's information sharing system.
+(i) The disposal must be conducted either by using a DEA-registered reverse distributor or law enforcement; or on site at the farm or hemp production facility.
 
-(8) The State or Tribal government must certify that the State or Indian Tribe has the resources and personnel to carry out the practices and procedures described in paragraphs (a)(1) through (7) of this section.
+(ii) The State or Tribal plan must include procedures to verify the disposal or remediation of the cannabis plant. This may come in the form of in-person verification by State or Tribal representatives, or alternative requirements that direct growers to provide pictures, videos, or other proof that disposal or remediation occurred successfully. Disposal and remediation means are described at AMS's website.
 
-(9) The State or Tribal plan must include a procedure to share information with USDA to support the information sharing requirements in 7 U.S.C. 1639q(d). The procedure must include the requirements described in this paragraph (a)(9).
+(iii) If a producer elects to perform remediation activities, an additional sampling and testing of the post-remediated crop must occur to determine THC concentration levels.
 
-(i) The State or Tribal plan shall require producers to report their hemp crop acreage to the FSA, consistent with the requirement in § 990.7.
+(7) A State or Tribal plan must include a procedure for conducting annual inspections of, at a minimum, a random group of producers to verify that hemp is not produced in violation of this part.
 
-(ii) The State or Tribal government shall assign each producer with a license or authorization identifier in a format prescribed by USDA.
+(8) A State or Tribal plan must include a procedure for submitting the report described in § 990.70 to the Secretary by the first of each month. If the first of the month falls on a weekend or holiday, the report is due by the first business day following the due date. All such information must be submitted to the USDA in a format that is compatible with USDA's information sharing system.
 
-(iii) The State or Tribal government shall require producers to report the total acreage of hemp planted, harvested, and, if applicable, disposed. The State or Tribal government shall collect this information and report it to AMS.
+(9) The State or Tribal government must certify that the State or Indian Tribe has the resources and personnel to carry out the practices and procedures described in paragraphs (a)(1) through (9) of this section.
+
+(10) The State or Tribal plan must include a procedure to collect and share information with USDA to support the information sharing requirements in 7 U.S.C. 1639q(d). The State or Tribal government is responsible for reporting the information identified in paragraphs (a)(10)(i) through (iii) of this section with AMS. The State or Tribal hemp production plan must include the following:
+
+(i) A requirement that producers report their hemp crop acreage to the FSA, consistent with the requirement in § 990.7.
+
+(ii) Assignment of a license or authorization identifier for each producer in a format prescribed by USDA.
+
+(iii) A requirement that producers report the total acreage of hemp planted, harvested, and, if applicable, disposed or remediated. The State or Tribal government shall collect this information and report it to AMS.
 
 (b) *Relation to State and Tribal law.* A State or Tribal plan may include any other practice or procedure established by a State or Indian Tribe, as applicable; *Provided,* That the practice or procedure is consistent with this part and Subtitle G of the Act.
 

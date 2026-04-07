@@ -12,6 +12,6 @@
 
 (d) A producer whose license has been suspended may appeal that decision in accordance with subpart D of this part.
 
-(e) A producer whose license has been suspended and not restored on appeal may have their license restored after a waiting period of one year from the date of the suspension.
+(e) A producer whose license has been suspended and not restored on appeal may have their license restored after a waiting period of one year from the date of the suspension. If the license was issued more than three years prior to the date of restoration, the producer shall submit a new application and criminal history report to USDA.
 
-(f) A producer whose license has been suspended may be required to complete a corrective action plan to fully restore the license.
+(f) A producer whose license has been suspended may be required to provide, and operate under, a corrective action plan to fully restore their license.
