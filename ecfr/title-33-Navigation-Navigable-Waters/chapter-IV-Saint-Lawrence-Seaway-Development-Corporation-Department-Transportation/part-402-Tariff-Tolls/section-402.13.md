@@ -1,0 +1,9 @@
+##### § 402.13 Operational surcharges—no postponements.
+
+| Item                            | Column 1   Place in Montreal-Lake Ontario section            | Column 2   Period after clearance date                                                                                                                 | Column 3   Amount ($)   (5 locks) 1 |
+| ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------- |
+| (a)                             | Cape Vincent (downbound) or Cap Saint-Michel (upbound)       | (a) 24 hours   (b) 24 hours or more but less than 48 hours   (c) 48 hours or more but less than 72 hours   (d) 72 hours or more but less than 96 hours | 20,000   40,000   60,000   80,000   |
+| (b)                             | Port, dock or wharf within St. Lambert—Iroquois lock segment | (a) 24 hours   (b) 24 hours or more but less than 48 hours   (c) 48 hours or more but less than 72 hours   (d) 72 hours or more but less than 96 hours | n/a   20,000   40,000   60,000      |
+| 1 Prorated on a per-lock basis. |                                                              |                                                                                                                                                        |                                     |
+
+\[66 FR 15329, Mar. 16, 2001. Redesignated at 74 FR 10679, Mar. 12, 2009, and further redesignated at 79 FR 13253, Mar. 10, 2014, and at 81 FR 14391, Mar. 17, 2016\]

@@ -1,0 +1,40 @@
+##### § 149.409 How many fire extinguishers are needed and how should they be installed?
+
+(a) Approved portable and semi-portable extinguishers must be installed in accordance with table 149.409 of this section.
+
+(b) Semi-portable extinguishers must be located in the open so as to be readily seen.
+
+(c) Semi-portable extinguishers must be fitted so that all portions of the space concerned may be covered.
+
+(d) Table 149.409 of this section indicates the minimum required classification for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.
+
+Table 149.409—Portable and Semi-Portable Extinguishers, Minimum Quantity and Location
+| Space                                                                                                                                                | Classification | Minimum quantity and location                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------- |
+| (1) Safety Areas                                                                                                                                     |                |                                                                                                           |
+| (i) Communicating corridors                                                                                                                          | 2-A            | One in each main corridor or stairway not more than 150 ft apart.                                         |
+| (ii) Radio room                                                                                                                                      | 20-B:C         | One outside or near each radio room exit.                                                                 |
+| (2) Accommodation Spaces                                                                                                                             |                |                                                                                                           |
+| (i) Sleeping quarters                                                                                                                                | 2-A            | One in each sleeping space that fits more than four persons.                                              |
+| (3) Service Spaces                                                                                                                                   |                |                                                                                                           |
+| (i) Galleys                                                                                                                                          | 40-B:C         | One for each 2,500 sq ft or fraction thereof, for hazards involved.                                       |
+| (ii) Storerooms                                                                                                                                      | 2-A            | One for each 2,500 sq ft or fraction thereof, located near each exit, either inside or outside the space. |
+| (iii) Paint room                                                                                                                                     | 40-B           | One outside each paint room exit.                                                                         |
+| (4) Machinery Spaces                                                                                                                                 |                |                                                                                                           |
+| (i) Gas-fired boilers                                                                                                                                | 40-B:C         | Two.                                                                                                      |
+|                                                                                                                                                      | 160-B          | One.1                                                                                                     |
+| (ii) Oil-fired boilers                                                                                                                               | 40-B:C         | Two.                                                                                                      |
+|                                                                                                                                                      | 160-B          | Two.1                                                                                                     |
+| (iii) Internal combustion or gas turbine engines                                                                                                     | 40-B           | One for each engine.2                                                                                     |
+| (iv) Open electric motors and generators                                                                                                             | 40-B:C         | One for each of two motors or generators.3                                                                |
+| (5) Helicopter Areas                                                                                                                                 |                |                                                                                                           |
+| (i) Helicopter landing decks                                                                                                                         | 160-B          | One at each access route.                                                                                 |
+| (ii) Helicopter fueling facility                                                                                                                     | 160-B          | One at each fuel transfer facility.4                                                                      |
+| 1 Not required if a fixed system is installed.                                                                                                       |                |                                                                                                           |
+| 2 If the engine is installed on a weather deck or is open to the atmosphere at all times, one 40-B extinguisher may be used for every three engines. |                |                                                                                                           |
+| 3 Small electrical appliances, such as fans, are exempt.                                                                                             |                |                                                                                                           |
+| 4 Not required if a fixed foam system is installed in accordance with 46 CFR 108.489.                                                                |                |                                                                                                           |
+
+(e) Semi-portable extinguishers must be fitted with a suitable hose and nozzle, or other practicable means, so that all areas of the space can be protected.
+
+\[USCG-2012-0196, 81 FR 48244, July 22, 2016\]

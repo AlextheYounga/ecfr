@@ -1,0 +1,1 @@
+##### § 520.2123 Spectinomycin oral dosage forms.

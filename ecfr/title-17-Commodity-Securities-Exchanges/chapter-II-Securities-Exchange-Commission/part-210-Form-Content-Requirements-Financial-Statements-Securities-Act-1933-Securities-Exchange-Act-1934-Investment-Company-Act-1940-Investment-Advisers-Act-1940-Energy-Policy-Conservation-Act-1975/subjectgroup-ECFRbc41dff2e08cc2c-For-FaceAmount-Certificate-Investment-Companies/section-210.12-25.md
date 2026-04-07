@@ -1,0 +1,10 @@
+##### § 210.12-25 Supplementary profit and loss information.
+
+| Column A—Item 1                                                                                                                                         | Column B—Charged to investment expense | Column C—Charged to other accounts | Column D—Total |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ---------------------------------- | -------------- |
+| 1\. Legal expenses (including those in connection with any matter, measure or proceeding before legislative bodies, officers or government departments) |                                        |                                    |                |
+| 2\. Advertising and publicity                                                                                                                           |                                        |                                    |                |
+| 3\. Sales promotion 2                                                                                                                                   |                                        |                                    |                |
+| 4\. Payments directly and indirectly to trade associations and service organizations, and contributions to other organizations                          |                                        |                                    |                |
+| 1 Amounts resulting from transactions with affiliates shall be stated separately.                                                                       |                                        |                                    |                |
+| 2 State separately each category of expense representing more than 5 percent of the total expense shown under this item.                                |                                        |                                    |                |
