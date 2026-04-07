@@ -1,6 +1,6 @@
 ##### § 302-9.205 What is the “authorized destination” of a POV transported under this subpart?
 
-The “authorized destination” of a POV transported under this subpart is illustrated in the following table:
+The “authorized destination” of a POV transported under this subpart is illustrated in the following table: 
 
 | If                                                                                                                                       | The authorized destination of the POV you transport at Government expense is |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |

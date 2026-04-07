@@ -1,6 +1,6 @@
 ##### § 301-71.106 Who must sign a trip-by-trip authorization?
 
-The appropriate official is determined as follows:
+The appropriate official is determined as follows: 
 
 | For                                                                 | The appropriate official to sign a trip-by-trip authorization is                                                                                                                                       |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

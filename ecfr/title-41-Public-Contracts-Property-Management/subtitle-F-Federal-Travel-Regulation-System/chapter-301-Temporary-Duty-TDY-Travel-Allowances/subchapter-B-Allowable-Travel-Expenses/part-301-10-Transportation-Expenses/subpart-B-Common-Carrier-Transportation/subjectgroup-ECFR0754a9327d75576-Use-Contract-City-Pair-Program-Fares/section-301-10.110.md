@@ -1,6 +1,6 @@
 ##### § 301-10.110 When must I use a contract City Pair Program fare?
 
-If you are an employee of an agency as defined in § 301-1.1 of this chapter, you must use a contract City Pair Program fare for scheduled air passenger transportation service unless one of the limited exceptions in § 301-10.111 exists.
+If you are an employee of an agency as defined in § 301-1.1 of this chapter, you must use a contract City Pair Program fare for scheduled air passenger transportation service unless one of the limited exceptions in § 301-10.111 exists. 
 
 Note 1 to § 301-10.110:
 

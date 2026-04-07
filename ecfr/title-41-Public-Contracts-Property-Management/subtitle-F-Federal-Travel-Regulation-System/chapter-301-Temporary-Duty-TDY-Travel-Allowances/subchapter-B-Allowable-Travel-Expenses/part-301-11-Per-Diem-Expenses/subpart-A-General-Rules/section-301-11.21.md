@@ -1,8 +1,8 @@
 ##### § 301-11.21 Will I be reimbursed for per diem or actual expenses on leave or non-workdays (weekend, legal Federal Government holiday, or other scheduled non-workdays) while I am on official travel?
 
-(a) In general, you will be reimbursed as long as your travel status requires your stay to include a non-workday, (e.g., if you are on travel through Friday and again starting Monday you will be reimbursed for Saturday and Sunday), however, your agency should determine the most cost effective situation (*i.e.,* remaining in a travel status and paying per diem or actual expenses or permitting your return to your official station).
+(a) In general, you will be reimbursed as long as your travel status requires your stay to include a non-workday, (e.g., if you are on travel through Friday and again starting Monday you will be reimbursed for Saturday and Sunday), however, your agency should determine the most cost effective situation (*i.e.,* remaining in a travel status and paying per diem or actual expenses or permitting your return to your official station). 
 
-(b) Your agency will determine whether you will be reimbursed for non-workdays when you take leave immediately (e.g., Friday or Monday) before or after the non-workday(s).
+(b) Your agency will determine whether you will be reimbursed for non-workdays when you take leave immediately (e.g., Friday or Monday) before or after the non-workday(s). 
 
 Note to § 301-11.21:
 

@@ -1,76 +1,76 @@
 ##### § 11.83 Damage determination phase—use value methodologies.
 
-(a) *General.* (1) This section contains guidance and methodologies for determining: The costs of the selected alternative for (i) the restoration or rehabilitation of the injured natural resources to a condition where they can provide the level of services available at baseline, or (ii) the replacement and/or acquisition of equivalent natural resources capable of providing such services; and the compensable value of the services lost to the public through the completion of the baseline restoration, rehabilitation, replacement, and/or acquisition of equivalent natural resources.
+(a) *General.* (1) This section contains guidance and methodologies for determining: The costs of the selected alternative for (i) the restoration or rehabilitation of the injured natural resources to a condition where they can provide the level of services available at baseline, or (ii) the replacement and/or acquisition of equivalent natural resources capable of providing such services; and the compensable value of the services lost to the public through the completion of the baseline restoration, rehabilitation, replacement, and/or acquisition of equivalent natural resources. 
 
-(2)(i) The authorized official shall select among the cost estimating and valuation methodologies set forth in this section, or methodologies that meet the acceptance criterion of either paragraph (b)(3) or (c)(3) of this section.
+(2)(i) The authorized official shall select among the cost estimating and valuation methodologies set forth in this section, or methodologies that meet the acceptance criterion of either paragraph (b)(3) or (c)(3) of this section. 
 
-(ii) The authorized official shall define the objectives to be achieved by the application of the methodologies.
+(ii) The authorized official shall define the objectives to be achieved by the application of the methodologies. 
 
-(iii) The authorized official shall follow the guidance provided in this section for choosing among the methodologies that will be used in the Damage Determination phase.
+(iii) The authorized official shall follow the guidance provided in this section for choosing among the methodologies that will be used in the Damage Determination phase. 
 
-(iv) The authorized official shall describe his selection of methodologies and objectives in the Restoration and Compensation Determination Plan.
+(iv) The authorized official shall describe his selection of methodologies and objectives in the Restoration and Compensation Determination Plan. 
 
-(3) The authorized official shall determine that the following criteria have been met when choosing among the cost estimating and valuation methodologies. The authorized official shall document this determination in the Report of the Assessment. Only those methodologies shall be chosen:
+(3) The authorized official shall determine that the following criteria have been met when choosing among the cost estimating and valuation methodologies. The authorized official shall document this determination in the Report of the Assessment. Only those methodologies shall be chosen: 
 
-(i) That are feasible and reliable for a particular incident and type of damage to be measured.
+(i) That are feasible and reliable for a particular incident and type of damage to be measured. 
 
-(ii) That can be performed at a reasonable cost, as that term is used in this part.
+(ii) That can be performed at a reasonable cost, as that term is used in this part. 
 
-(iii) That avoid double counting or that allow any double counting to be estimated and eliminated in the final damage calculation.
+(iii) That avoid double counting or that allow any double counting to be estimated and eliminated in the final damage calculation. 
 
-(iv) That are cost-effective, as that term is used in this part.
+(iv) That are cost-effective, as that term is used in this part. 
 
-(4) Factors that may be considered by trustees to evaluate the feasibility and reliability of methodologies can include:
+(4) Factors that may be considered by trustees to evaluate the feasibility and reliability of methodologies can include: 
 
-(i) Is the methodology capable of providing information of use in determining the restoration cost or compensable value appropriate for a particular natural resource injury?
+(i) Is the methodology capable of providing information of use in determining the restoration cost or compensable value appropriate for a particular natural resource injury? 
 
-(ii) Does the methodology address the particular natural resource injury and associated service loss in light of the nature, degree, and spatial and temporal extent of the injury?
+(ii) Does the methodology address the particular natural resource injury and associated service loss in light of the nature, degree, and spatial and temporal extent of the injury? 
 
-(iii) Has the methodology been subject to peer review, either through publication or otherwise?
+(iii) Has the methodology been subject to peer review, either through publication or otherwise? 
 
-(iv) Does the methodology enjoy general or widespread acceptance by experts in the field?
+(iv) Does the methodology enjoy general or widespread acceptance by experts in the field? 
 
-(v) Is the methodology subject to standards governing its application?
+(v) Is the methodology subject to standards governing its application? 
 
-(vi) Are methodological inputs and assumptions supported by a clearly articulated rationale?
+(vi) Are methodological inputs and assumptions supported by a clearly articulated rationale? 
 
-(vii) Are cutting edge methodologies tested or analyzed sufficiently so as to be reasonably reliable under the circumstances?
+(vii) Are cutting edge methodologies tested or analyzed sufficiently so as to be reasonably reliable under the circumstances? 
 
-(5) All of the above factors may not be applicable to every case, and other factors may be considered to evaluate feasibility and reliability. The authorized official shall document any consideration of factors deemed applicable in the Report of Assessment.
+(5) All of the above factors may not be applicable to every case, and other factors may be considered to evaluate feasibility and reliability. The authorized official shall document any consideration of factors deemed applicable in the Report of Assessment. 
 
-(b) *Costs of restoration, rehabilitation, replacement, and/or acquisition of equivalent resources.* (1) Costs for restoration, rehabilitation, replacement, and/or acquisition of equivalent resources are the amount of money determined by the authorized official as necessary to complete all actions identified in the selected alternative for restoration, rehabilitation, replacement, and/or acquisition of equivalent resources, as selected in the Restoration and Compensation Determination Plan of § 11.81 of this part. Such costs shall include direct and indirect costs, consistent with the provisions of this section.
+(b) *Costs of restoration, rehabilitation, replacement, and/or acquisition of equivalent resources.* (1) Costs for restoration, rehabilitation, replacement, and/or acquisition of equivalent resources are the amount of money determined by the authorized official as necessary to complete all actions identified in the selected alternative for restoration, rehabilitation, replacement, and/or acquisition of equivalent resources, as selected in the Restoration and Compensation Determination Plan of § 11.81 of this part. Such costs shall include direct and indirect costs, consistent with the provisions of this section. 
 
-(i) Direct costs are those that are identified by the authorized official as attributed to the selected alternative. Direct costs are those charged directly to the conduct of the selected alternative including, but not limited to, the compensation of employees for the time and effort devoted to the completion of the selected alternative; cost of materials acquired, consumed, or expended specifically for the purpose of the action; equipment and other capital expenditures; and other items of expense identified by the authorized official that are expected to be incurred in the performance of the selected alternative.
+(i) Direct costs are those that are identified by the authorized official as attributed to the selected alternative. Direct costs are those charged directly to the conduct of the selected alternative including, but not limited to, the compensation of employees for the time and effort devoted to the completion of the selected alternative; cost of materials acquired, consumed, or expended specifically for the purpose of the action; equipment and other capital expenditures; and other items of expense identified by the authorized official that are expected to be incurred in the performance of the selected alternative. 
 
-(ii) Indirect costs are costs of activities or items that support the selected alternative, but that cannot practically be directly accounted for as costs of the selected alternative. The simplest example of indirect costs is traditional overhead, e.g., a portion of the lease costs of the buildings that contain the offices of trustee employees involved in work on the selected alternative may, under some circumstances, be considered as an indirect cost. In referring to costs that cannot practically be directly accounted for, this subpart means to include costs that are not readily assignable to the selected alternative without a level of effort disproportionate to the results achieved.
+(ii) Indirect costs are costs of activities or items that support the selected alternative, but that cannot practically be directly accounted for as costs of the selected alternative. The simplest example of indirect costs is traditional overhead, e.g., a portion of the lease costs of the buildings that contain the offices of trustee employees involved in work on the selected alternative may, under some circumstances, be considered as an indirect cost. In referring to costs that cannot practically be directly accounted for, this subpart means to include costs that are not readily assignable to the selected alternative without a level of effort disproportionate to the results achieved. 
 
-(iii) An indirect cost rate for overhead costs may, at the discretion of the authorized official, be applied instead of calculating indirect costs where the benefits derived from the estimation of indirect costs do not outweigh the costs of the indirect cost estimation. When an indirect cost rate is used, the authorized official shall document the assumptions from which that rate has been derived.
+(iii) An indirect cost rate for overhead costs may, at the discretion of the authorized official, be applied instead of calculating indirect costs where the benefits derived from the estimation of indirect costs do not outweigh the costs of the indirect cost estimation. When an indirect cost rate is used, the authorized official shall document the assumptions from which that rate has been derived. 
 
-(2) *Cost estimating methodologies.* The authorized official may choose among the cost estimating methodologies listed in this section or may choose other methodologies that meet the acceptance criterion in paragraph (b)(3) of this section. Nothing in this section precludes the use of a combination of cost estimating methodologies so long as the authorized official does not double count or uses techniques that allow any double counting to be estimated and eliminated in the final damage calculation.
+(2) *Cost estimating methodologies.* The authorized official may choose among the cost estimating methodologies listed in this section or may choose other methodologies that meet the acceptance criterion in paragraph (b)(3) of this section. Nothing in this section precludes the use of a combination of cost estimating methodologies so long as the authorized official does not double count or uses techniques that allow any double counting to be estimated and eliminated in the final damage calculation. 
 
-(i) *Comparison methodology.* This methodology may be used for unique or difficult design and estimating conditions. This methodology requires the construction of a simple design for which an estimate can be found and applied to the unique or difficult design.
+(i) *Comparison methodology.* This methodology may be used for unique or difficult design and estimating conditions. This methodology requires the construction of a simple design for which an estimate can be found and applied to the unique or difficult design. 
 
-(ii) *Unit methodology.* This methodology derives an estimate based on the cost per unit of a particular item. Many other names exist for describing the same basic approach, such as order of magnitude, lump sum, module estimating, flat rates, and involve various refinements. Data used by this methodology may be collected from technical literature or previous cost expenditures.
+(ii) *Unit methodology.* This methodology derives an estimate based on the cost per unit of a particular item. Many other names exist for describing the same basic approach, such as order of magnitude, lump sum, module estimating, flat rates, and involve various refinements. Data used by this methodology may be collected from technical literature or previous cost expenditures. 
 
-(iii) *Probability methodologies.* Under these methodologies, the cost estimate represents an “average” value. These methodologies require information which is called certain, or deterministic, to derive the expected value of the cost estimate. Expected value estimates and range estimates represent two types of probability methodologies that may be used.
+(iii) *Probability methodologies.* Under these methodologies, the cost estimate represents an “average” value. These methodologies require information which is called certain, or deterministic, to derive the expected value of the cost estimate. Expected value estimates and range estimates represent two types of probability methodologies that may be used. 
 
-(iv) *Factor methodology.* This methodology derives a cost estimate by summing the product of several items or activities. Other terms such as ratio and percentage methodologies describe the same basic approach.
+(iv) *Factor methodology.* This methodology derives a cost estimate by summing the product of several items or activities. Other terms such as ratio and percentage methodologies describe the same basic approach. 
 
-(v) *Standard time data methodology.* This methodology provides for a cost estimate for labor. Standard time data are a catalogue of standard tasks typically undertaken in performing a given type of work.
+(v) *Standard time data methodology.* This methodology provides for a cost estimate for labor. Standard time data are a catalogue of standard tasks typically undertaken in performing a given type of work. 
 
-(vi) *Cost- and time-estimating relationships (CERs and TERs).* CERs and TERs are statistical regression models that mathematically describe the cost of an item or activity as a function of one or more independent variables. The regression models provide statistical relationships between cost or time and physical or performance characteristics of past designs.
+(vi) *Cost- and time-estimating relationships (CERs and TERs).* CERs and TERs are statistical regression models that mathematically describe the cost of an item or activity as a function of one or more independent variables. The regression models provide statistical relationships between cost or time and physical or performance characteristics of past designs. 
 
-(3) *Other cost estimating methodologies.* Other cost estimating methodologies that are based upon standard and accepted cost estimating practices and are cost-effective are acceptable methodologies to determine the costs of restoration, rehabilitation, replacement, and/or acquisition of equivalent resources under this part.
+(3) *Other cost estimating methodologies.* Other cost estimating methodologies that are based upon standard and accepted cost estimating practices and are cost-effective are acceptable methodologies to determine the costs of restoration, rehabilitation, replacement, and/or acquisition of equivalent resources under this part. 
 
-(c) *Compensable value.* (1) Compensable value is the amount of money required to compensate the public for the loss in services provided by the injured resources between the time of the discharge or release and the time the resources are fully returned to their baseline conditions, or until the resources are replaced and/or equivalent natural resources are acquired. The compensable value can include the economic value of lost services provided by the injured resources, including both public use and nonuse values such as existence and bequest values. Economic value can be measured by changes in consumer surplus, economic rent, and any fees or other payments collectible by a Federal or State agency or an Indian tribe for a private party's use of the natural resources; and any economic rent accruing to a private party because the Federal or State agency or Indian tribe does not charge a fee or price for the use of the resources. Alternatively, compensable value can be determined utilizing a restoration cost approach, which measures the cost of implementing a project or projects that restore, replace, or acquire the equivalent of natural resource services lost pending restoration to baseline.
+(c) *Compensable value.* (1) Compensable value is the amount of money required to compensate the public for the loss in services provided by the injured resources between the time of the discharge or release and the time the resources are fully returned to their baseline conditions, or until the resources are replaced and/or equivalent natural resources are acquired. The compensable value can include the economic value of lost services provided by the injured resources, including both public use and nonuse values such as existence and bequest values. Economic value can be measured by changes in consumer surplus, economic rent, and any fees or other payments collectible by a Federal or State agency or an Indian tribe for a private party's use of the natural resources; and any economic rent accruing to a private party because the Federal or State agency or Indian tribe does not charge a fee or price for the use of the resources. Alternatively, compensable value can be determined utilizing a restoration cost approach, which measures the cost of implementing a project or projects that restore, replace, or acquire the equivalent of natural resource services lost pending restoration to baseline. 
 
-(i) Use value is the economic value of the resources to the public attributable to the direct use of the services provided by the natural resources.
+(i) Use value is the economic value of the resources to the public attributable to the direct use of the services provided by the natural resources. 
 
-(ii) Nonuse value is the economic value the public derives from natural resources that is independent of any direct use of the services provided.
+(ii) Nonuse value is the economic value the public derives from natural resources that is independent of any direct use of the services provided. 
 
-(iii) Restoration cost is the cost of a project or projects that restore, replace, or acquire the equivalent of natural resource services lost pending restoration to baseline.
+(iii) Restoration cost is the cost of a project or projects that restore, replace, or acquire the equivalent of natural resource services lost pending restoration to baseline. 
 
-(2) *Valuation methodologies.* The authorized official may choose among the valuation methodologies listed in this section to estimate appropriate compensation for lost services or may choose other methodologies provided that the methodology can satisfy the acceptance criterion in paragraph (c)(3) of this section. Nothing in this section precludes the use of a combination of valuation methodologies so long as the authorized official does not double count or uses techniques that allow any double counting to be estimated and eliminated in the final damage calculation.
+(2) *Valuation methodologies.* The authorized official may choose among the valuation methodologies listed in this section to estimate appropriate compensation for lost services or may choose other methodologies provided that the methodology can satisfy the acceptance criterion in paragraph (c)(3) of this section. Nothing in this section precludes the use of a combination of valuation methodologies so long as the authorized official does not double count or uses techniques that allow any double counting to be estimated and eliminated in the final damage calculation. 
 
 | Type of Methodology                                                                  | Description                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -90,6 +90,6 @@
 | (x) Resource Equivalency Analysis                                                    | Similar to habitat equivalency analysis. This methodology may be used to compare the effects of restoration actions on specifically identified resources that are injured or destroyed.                                                                                                                                                                                                                                                                 |
 | (xi) Random Utility Model                                                            | Can be used to: (A) Compare restoration actions on the basis of equivalent resource services provided; and (B) Calculate the monetary value of lost recreational services to the public.                                                                                                                                                                                                                                                                |
 
-(3) *Other valuation methodologies.* Other methodologies that measure compensable value in accordance with the public's willingness to pay for the lost service, or with the cost of a project that restores, replaces, or acquires services equivalent of natural resource services lost pending restoration to baseline in a cost-effective manner, are acceptable methodologies to determine compensable value under this part.
+(3) *Other valuation methodologies.* Other methodologies that measure compensable value in accordance with the public's willingness to pay for the lost service, or with the cost of a project that restores, replaces, or acquires services equivalent of natural resource services lost pending restoration to baseline in a cost-effective manner, are acceptable methodologies to determine compensable value under this part. 
 
 \[51 FR 27725, Aug. 1, 1986, as amended at 53 FR 5175, Feb. 22, 1988; 59 FR 14285, Mar. 25, 1994; 73 FR 57266, Oct. 2, 2008\]

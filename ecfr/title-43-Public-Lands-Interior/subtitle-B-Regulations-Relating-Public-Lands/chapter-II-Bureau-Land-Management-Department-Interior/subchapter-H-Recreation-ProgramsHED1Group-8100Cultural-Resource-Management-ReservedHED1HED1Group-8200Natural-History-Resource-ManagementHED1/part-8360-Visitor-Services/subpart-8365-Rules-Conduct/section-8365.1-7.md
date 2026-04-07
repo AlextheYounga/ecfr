@@ -1,25 +1,25 @@
 ##### § 8365.1-7 State and local laws.
 
-Except as otherwise provided by Federal law or regulation, State and local laws and ordinances shall apply and be enforced by the appropriate State and local authorities. This includes, but is not limited to, State and local laws and ordinances governing:
+Except as otherwise provided by Federal law or regulation, State and local laws and ordinances shall apply and be enforced by the appropriate State and local authorities. This includes, but is not limited to, State and local laws and ordinances governing: 
 
-(a) Operation and use of motor vehicles, aircraft and boats;
+(a) Operation and use of motor vehicles, aircraft and boats; 
 
-(b) Hunting and fishing;
+(b) Hunting and fishing; 
 
-(c) Use of firearms or other weapons;
+(c) Use of firearms or other weapons; 
 
-(d) Injury to persons, or destruction or damage to property;
+(d) Injury to persons, or destruction or damage to property; 
 
-(e) Air and water pollution;
+(e) Air and water pollution; 
 
-(f) Littering;
+(f) Littering; 
 
-(g) Sanitation;
+(g) Sanitation; 
 
-(h) Use of fire;
+(h) Use of fire; 
 
-(i) Pets;
+(i) Pets; 
 
-(j) Forest products; and
+(j) Forest products; and 
 
 (k) Caves.

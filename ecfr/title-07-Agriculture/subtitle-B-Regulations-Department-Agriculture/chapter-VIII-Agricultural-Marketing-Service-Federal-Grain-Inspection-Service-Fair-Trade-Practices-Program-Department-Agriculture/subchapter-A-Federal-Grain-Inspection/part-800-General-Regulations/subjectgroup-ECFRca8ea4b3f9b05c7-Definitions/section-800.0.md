@@ -48,7 +48,7 @@
 
 *Compliance.* Conformance with all requirements and procedures established by statute, regulation, instruction, or directive so that managerial, administrative, and technical functions are accomplished effectively. Compliance functions include: evaluating alleged violations, initiating preliminary investigations; initiating implementation of all necessary corrective actions; conducting management and technical reviews; administering the designation of agencies and the delegation of State agencies to perform official functions; identifying and, where appropriate, waiving and monitoring conflicts of interest; licensing agency personnel; responding to audits of FGIS programs; and reviewing and, when appropriate, approving agency fee schedules.
 
-*Composite grade.* Multiple samples obtained from the same type of carriers (*e.g.,* trucklots, containers) that are combined into one sample for grade to form a single lot inspection.
+*Composite grade.* Multiple samples obtained from the same type of carriers (e.g., trucklots, containers) that are combined into one sample for grade to form a single lot inspection.
 
 *Container.* A carrier, or a bin, other storage space, bag, box, or other receptacle for grain.
 

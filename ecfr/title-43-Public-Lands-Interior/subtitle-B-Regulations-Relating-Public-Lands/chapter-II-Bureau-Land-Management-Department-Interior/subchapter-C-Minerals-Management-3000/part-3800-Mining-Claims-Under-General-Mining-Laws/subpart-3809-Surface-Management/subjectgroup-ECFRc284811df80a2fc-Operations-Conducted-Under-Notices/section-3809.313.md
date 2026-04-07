@@ -1,6 +1,6 @@
 ##### § 3809.313 Under what circumstances may I not begin operations 15 calendar days after filing my notice?
 
-To see when you may not begin operations 15 calendar days after filing your notice, follow this table:
+To see when you may not begin operations 15 calendar days after filing your notice, follow this table: 
 
 | If BLM reviews your notice and, within 15 calendar days—                                                | Then—                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

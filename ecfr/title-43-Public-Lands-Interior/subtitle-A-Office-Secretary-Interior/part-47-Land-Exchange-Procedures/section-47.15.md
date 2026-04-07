@@ -1,8 +1,8 @@
 ##### § 47.15 What laws apply to exchanges made under this part?
 
-(a) The Chairman may only exchange land under the authority of the HHCA in conformity with the HHLRA.
+(a) The Chairman may only exchange land under the authority of the HHCA in conformity with the HHLRA. 
 
-(b) When the Chairman makes any land exchange, the following laws and regulations constitute a partial list of applicable laws and regulations:
+(b) When the Chairman makes any land exchange, the following laws and regulations constitute a partial list of applicable laws and regulations: 
 
 | Legislation or regulation                                                                   | Citation                                |
 | ------------------------------------------------------------------------------------------- | --------------------------------------- |

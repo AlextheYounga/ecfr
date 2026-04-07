@@ -1,14 +1,14 @@
 ##### § 50-204.10 Occupational noise exposure.
 
-(a) Protection against the effects of noise exposure shall be provided when the sound levels exceed those shown in Table I of this section when measured on the A scale of a standard sound level meter at slow response. When noise levels are determined by octave band analysis, the equivalent A-weighted sound level may be determined as follows:
+(a) Protection against the effects of noise exposure shall be provided when the sound levels exceed those shown in Table I of this section when measured on the A scale of a standard sound level meter at slow response. When noise levels are determined by octave band analysis, the equivalent A-weighted sound level may be determined as follows: 
 
 ![](/graphics/ec21oc91.015.gif)Equivalent sound level contours. Octave band sound pressure levels may be converted to the equivalent A-weighted sound level by plotting them on this graph and noting the A-weighted sound level corresponding to the point of highest penetration into the sound level contours. This equivalent A-weighted sound level, which may differ from the actual A-weighted sound level of the noise, is used to determine exposure limits from Table I.
 
-(b) When employees are subject to sound exceeding those listed in Table I of this section, feasible administrative or engineering controls shall be utilized. If such controls fail to reduce sound levels within the levels of the table, personal protective equipment shall be provided and used to reduce sound levels within the levels of the table.
+(b) When employees are subject to sound exceeding those listed in Table I of this section, feasible administrative or engineering controls shall be utilized. If such controls fail to reduce sound levels within the levels of the table, personal protective equipment shall be provided and used to reduce sound levels within the levels of the table. 
 
-(c) If the variations in noise level involve maxima at intervals of 1 second or less, it is to be considered continuous.
+(c) If the variations in noise level involve maxima at intervals of 1 second or less, it is to be considered continuous. 
 
-(d) In all cases where the sound levels exceed the values shown herein, a continuing, effective hearing conservation program shall be administered.
+(d) In all cases where the sound levels exceed the values shown herein, a continuing, effective hearing conservation program shall be administered. 
 
 Table I
 

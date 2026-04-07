@@ -1,6 +1,6 @@
 ##### § 30.260 What land is subject to a tribal purchase option at probate?
 
-Sections 30.260 through 30.274 apply to formal Indian probate proceedings that relate to the tribal purchase of a decedent's interests in trust and restricted land under the statutes shown in the following table.
+Sections 30.260 through 30.274 apply to formal Indian probate proceedings that relate to the tribal purchase of a decedent's interests in trust and restricted land under the statutes shown in the following table. 
 
 | Location of trust or restricted land                                                                    | Statutes governing purchase                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |

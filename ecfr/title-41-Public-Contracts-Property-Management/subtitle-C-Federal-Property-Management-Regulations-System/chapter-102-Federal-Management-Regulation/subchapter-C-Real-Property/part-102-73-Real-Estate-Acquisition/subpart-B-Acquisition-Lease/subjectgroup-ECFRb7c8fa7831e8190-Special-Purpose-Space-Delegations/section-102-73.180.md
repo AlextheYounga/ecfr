@@ -1,25 +1,25 @@
 ##### § 102-73.180 What types of special purpose space may the Department of Defense lease?
 
-The Department of Defense is delegated authority to lease the following types of special purpose space:
+The Department of Defense is delegated authority to lease the following types of special purpose space: 
 
-(a) Air Force—Civil Air Patrol Liaison Offices and land incidental thereto when required for use incidental to, in conjunction with, and in close proximity to airports, including aircraft and warning stations (if unimproved, land may be leased only on a fiscal year basis; for space, lease terms, including all options, limited to 5 years).
+(a) Air Force—Civil Air Patrol Liaison Offices and land incidental thereto when required for use incidental to, in conjunction with, and in close proximity to airports, including aircraft and warning stations (if unimproved, land may be leased only on a fiscal year basis; for space, lease terms, including all options, limited to 5 years). 
 
-(b) Armories.
+(b) Armories. 
 
-(c) Film library in the vicinity of Washington, DC.
+(c) Film library in the vicinity of Washington, DC. 
 
-(d) Mess halls.
+(d) Mess halls. 
 
-(e) Ports of embarkation and debarkation.
+(e) Ports of embarkation and debarkation. 
 
-(f) Post exchanges.
+(f) Post exchanges. 
 
-(g) Postal Concentration Center, Long Island City, NY.
+(g) Postal Concentration Center, Long Island City, NY. 
 
-(h) Recreation centers.
+(h) Recreation centers. 
 
-(i) Reserve training space.
+(i) Reserve training space. 
 
-(j) Service clubs.
+(j) Service clubs. 
 
 (k) Testing laboratories (lease terms, including all options, limited to 5 years).

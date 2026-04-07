@@ -1,6 +1,6 @@
 ##### § 429.26 When may Reclamation reduce or waive costs or fees?
 
-(a) As determined appropriate and approved and documented by the applicable Regional Director, the application fees may be waived, and charges for administrative costs or use fees may be waived or reduced as indicated by a ✓ in the following table:
+(a) As determined appropriate and approved and documented by the applicable Regional Director, the application fees may be waived, and charges for administrative costs or use fees may be waived or reduced as indicated by a ✓ in the following table: 
 
 | Situations where costs and fees may be reduced or waived                                                                        | Application fee | Administrative costs | Use fee |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------- | ------- |

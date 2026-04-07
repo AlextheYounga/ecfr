@@ -1,8 +1,8 @@
 ##### § 101-27.205 Shelf-life codes.
 
-Shelf-life items shall be identified by use of a one-digit code to provide for uniform coding of shelf-life materials by all agencies.
+Shelf-life items shall be identified by use of a one-digit code to provide for uniform coding of shelf-life materials by all agencies. 
 
-(a) The code designators for shelf-life periods of up to 60 months are as follows:
+(a) The code designators for shelf-life periods of up to 60 months are as follows: 
 
 | Shelf-life period (months) | Type I item code | Type II item code |
 | -------------------------- | ---------------- | ----------------- |
@@ -24,10 +24,10 @@ Shelf-life items shall be identified by use of a one-digit code to provide for u
 | 48                         | R                | 8                 |
 | 60                         | S                | 9                 |
 
-(b) Code designator 0 is used to identify items not included in a shelf-life program.
+(b) Code designator 0 is used to identify items not included in a shelf-life program. 
 
-(c) Code designator X shall be used to identify critical end-use items, military essential items, and medical items with a shelf life greater than 60 months. Agencies shall establish controls for such materials to prevent issuance of any unserviceable items.
+(c) Code designator X shall be used to identify critical end-use items, military essential items, and medical items with a shelf life greater than 60 months. Agencies shall establish controls for such materials to prevent issuance of any unserviceable items. 
 
-(d) Agencies may also establish controls for materials with a shelf life greater than 60 months that are not identified in paragraph (c) of this section. Such controls should be established only when they are necessary for effective management of the items.
+(d) Agencies may also establish controls for materials with a shelf life greater than 60 months that are not identified in paragraph (c) of this section. Such controls should be established only when they are necessary for effective management of the items. 
 
 \[40 FR 59595, Dec. 29, 1975\]

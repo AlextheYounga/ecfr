@@ -1,18 +1,18 @@
 ##### § 3152.1 Application for oil and gas geophysical exploration permit.
 
-Parties wishing to conduct oil and gas geophysical exploration operations in Alaska shall complete an application for an oil and gas geophysical exploration permit. The application shall contain the following information:
+Parties wishing to conduct oil and gas geophysical exploration operations in Alaska shall complete an application for an oil and gas geophysical exploration permit. The application shall contain the following information: 
 
-(a) The applicant's name and address;
+(a) The applicant's name and address; 
 
-(b) The operator's name and address;
+(b) The operator's name and address; 
 
-(c) The contractor's name and address;
+(c) The contractor's name and address; 
 
-(d) A description of lands involved by township and range, including a map or overlays showing the lands to be entered and affected;
+(d) A description of lands involved by township and range, including a map or overlays showing the lands to be entered and affected; 
 
-(e) The period of time when operations will be conducted; and
+(e) The period of time when operations will be conducted; and 
 
-(f) A plan for conducting the exploration operations.
+(f) A plan for conducting the exploration operations. 
 
 Note to § 3152.1:
 

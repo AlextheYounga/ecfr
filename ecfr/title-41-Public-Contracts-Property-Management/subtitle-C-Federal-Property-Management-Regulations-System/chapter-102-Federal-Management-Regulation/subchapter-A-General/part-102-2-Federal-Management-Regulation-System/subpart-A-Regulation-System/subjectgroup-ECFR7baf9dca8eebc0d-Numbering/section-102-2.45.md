@@ -1,6 +1,6 @@
 ##### § 102-2.45 How is the FMR numbered?
 
-(a) All FMR sections are designated by three numbers. The following example illustrates the chapter (it's always 102), part, and section designations:
+(a) All FMR sections are designated by three numbers. The following example illustrates the chapter (it's always 102), part, and section designations: 
 
 ![](/graphics/er21jy99.001.gif)
 

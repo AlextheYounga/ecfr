@@ -1,6 +1,6 @@
 ##### § 301-10.101 What classes of common carrier accommodations are available?
 
-Common carriers frequently update their levels of service and use various terminologies to distinguish those levels of service. For the purposes of this regulation, the classes of common carrier transportation are categorized as coach class, premium economy class, business class, and first class.
+Common carriers frequently update their levels of service and use various terminologies to distinguish those levels of service. For the purposes of this regulation, the classes of common carrier transportation are categorized as coach class, premium economy class, business class, and first class. 
 
 Note 1 to § 301-10.101:
 

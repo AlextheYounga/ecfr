@@ -1,6 +1,6 @@
 ##### § 3173.29 Immediate assessments for certain violations.
 
-Certain instances of noncompliance warrant the imposition of immediate assessments upon discovery, as prescribed in the following table. Imposition of these assessments does not preclude other appropriate enforcement actions:
+Certain instances of noncompliance warrant the imposition of immediate assessments upon discovery, as prescribed in the following table. Imposition of these assessments does not preclude other appropriate enforcement actions: 
 
 Table 1 to § 3173.29—Violations Subject to an Immediate Assessment
 | Violation                                                                                                                                                                        | Assessment amount per violation   ($) |

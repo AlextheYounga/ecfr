@@ -1,6 +1,6 @@
 ##### § 301-11.6 Where do I find maximum per diem and actual expense rates?
 
-Consult this table to find out where to access *per diem* rates for various types of Government travel:
+Consult this table to find out where to access *per diem* rates for various types of Government travel: 
 
 | For travel in                         | Rates set by                                                                              | For per diem and actual expense see                                                                                                                                                                                                                                                                                    |
 | ------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

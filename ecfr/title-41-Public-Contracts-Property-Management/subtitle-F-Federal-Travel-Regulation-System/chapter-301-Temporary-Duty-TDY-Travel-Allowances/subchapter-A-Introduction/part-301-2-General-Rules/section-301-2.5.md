@@ -1,38 +1,38 @@
 ##### § 301-2.5 What travel arrangements require specific authorization or prior approval?
 
-You must have a specific authorization or prior approval for:
+You must have a specific authorization or prior approval for: 
 
-(a) Use of other than coach-class service on common carrier transportation;
+(a) Use of other than coach-class service on common carrier transportation; 
 
-(b) Use of a foreign air carrier or foreign ship;
+(b) Use of a foreign air carrier or foreign ship; 
 
-(c) Use of reduced fares for group or charter arrangements;
+(c) Use of reduced fares for group or charter arrangements; 
 
-(d) Use of cash to pay for common carrier transportation;
+(d) Use of cash to pay for common carrier transportation; 
 
-(e) Use of extra-fare train service;
+(e) Use of extra-fare train service; 
 
-(f) Travel by ship;
+(f) Travel by ship; 
 
-(g) Use of a rental car;
+(g) Use of a rental car; 
 
-(h) Use of a Government aircraft;
+(h) Use of a Government aircraft; 
 
-(i) Payment of a reduced per diem rate;
+(i) Payment of a reduced per diem rate; 
 
-(j) Payment of actual expense, unless your agency has issued a blanket actual expense authorization under § 301-70.201;
+(j) Payment of actual expense, unless your agency has issued a blanket actual expense authorization under § 301-70.201; 
 
-(k) Travel expenses related to emergency travel;
+(k) Travel expenses related to emergency travel; 
 
-(l) Transportation expenses related to threatened law enforcement/investigative employees and members of their families;
+(l) Transportation expenses related to threatened law enforcement/investigative employees and members of their families; 
 
-(m) Travel expenses related to travel to a foreign area;
+(m) Travel expenses related to travel to a foreign area; 
 
-(n) Acceptance of payment from a non-Federal source for travel expenses, see chapter 304 of this subtitle;
+(n) Acceptance of payment from a non-Federal source for travel expenses, see chapter 304 of this subtitle; 
 
-(o) Travel expenses related to attendance at a conference; and
+(o) Travel expenses related to attendance at a conference; and 
 
-(p) Due to an employee's medical requirements or religious beliefs, payment of the full M&IE allowance even though meals are furnished by the Government either directly or through a registration fee or other payment for a conference or other event, in accordance with § 301-11.18(b).
+(p) Due to an employee's medical requirements or religious beliefs, payment of the full M&IE allowance even though meals are furnished by the Government either directly or through a registration fee or other payment for a conference or other event, in accordance with § 301-11.18(b). 
 
 Note to § 301-2.5:
 

@@ -1,10 +1,10 @@
 ##### § 50-204.50 Gases, vapors, fumes, dusts, and mists.
 
-(a) (1) Exposures by inhalation, ingestion, skin absorption, or contact to any material or substance (i) at a concentration above those specified in the “Threshold Limit Values of Airborne Contaminants for 1968” of the American Conference of Governmental Industrial Hygienists, except for the ANSI Standards listed in Table I of this section and except for the values of mineral dusts listed in Table II of this section, and (ii) concentrations above those specified in Tables I and II of this section, shall be avoided, or protective equipment shall be provided and used.
+(a) (1) Exposures by inhalation, ingestion, skin absorption, or contact to any material or substance (i) at a concentration above those specified in the “Threshold Limit Values of Airborne Contaminants for 1968” of the American Conference of Governmental Industrial Hygienists, except for the ANSI Standards listed in Table I of this section and except for the values of mineral dusts listed in Table II of this section, and (ii) concentrations above those specified in Tables I and II of this section, shall be avoided, or protective equipment shall be provided and used. 
 
-(2) The requirements of this section do not apply to exposures to airborne asbestos dust. Exposures of employees to airborne asbestos dust shall be subject to the requirements of 29 CFR 1910.93a.
+(2) The requirements of this section do not apply to exposures to airborne asbestos dust. Exposures of employees to airborne asbestos dust shall be subject to the requirements of 29 CFR 1910.93a. 
 
-(b) To achieve compliance with paragraph (a) of this section, feasible administrative or engineering controls must first be determined and implemented in all cases. In cases where protective equipment in addition to other measures is used as the method of protecting the employee, such protection must be approved for each specific application by a competent industrial hygienist or other technically qualified source.
+(b) To achieve compliance with paragraph (a) of this section, feasible administrative or engineering controls must first be determined and implemented in all cases. In cases where protective equipment in addition to other measures is used as the method of protecting the employee, such protection must be approved for each specific application by a competent industrial hygienist or other technically qualified source. 
 
 Table II—Mineral Dusts
 | Substance                                                                                                                                                                                 | Mppcf e   | Mg/M 3    |

@@ -1,6 +1,6 @@
 ##### § 114.103 Who may file a claim?
 
-(a) If a claim is based on factors listed in the first column, then it may be presented by persons listed in the second column.
+(a) If a claim is based on factors listed in the first column, then it may be presented by persons listed in the second column. 
 
 | Claim factors                                                   | Claim presenters                                                                                                                                            |
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |

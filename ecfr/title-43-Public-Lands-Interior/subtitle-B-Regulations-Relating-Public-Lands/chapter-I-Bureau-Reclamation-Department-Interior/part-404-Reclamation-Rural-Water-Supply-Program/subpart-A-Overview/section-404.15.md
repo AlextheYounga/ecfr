@@ -1,6 +1,6 @@
 ##### § 404.15 How can I request assistance under the program?
 
-This table summarizes the requirements for requesting assistance under the program. The requirements are described in more detail in the sections that follow.
+This table summarizes the requirements for requesting assistance under the program. The requirements are described in more detail in the sections that follow. 
 
 | Type of assistance requested                                                                                                             | How to request assistance                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |

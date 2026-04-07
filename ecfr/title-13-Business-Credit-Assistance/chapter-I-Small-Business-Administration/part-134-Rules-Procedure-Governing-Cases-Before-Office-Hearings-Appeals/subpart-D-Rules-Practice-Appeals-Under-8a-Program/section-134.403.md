@@ -1,6 +1,6 @@
 ##### § 134.403 Service of appeal petition.
 
-Concurrent with its filing with OHA, the petitioner also must serve separate copies of the petition, including attachments, on two SBA officials.
+Concurrent with its filing with OHA, the petitioner also must serve separate copies of the petition, including attachments, on two SBA officials. 
 
 (a) All 8(a) appeals must be served to: Director, Office of Business Development, U.S. Small Business Administration, 409 Third Street, SW., Washington, DC 20416, facsimile (202) 205-5206, or e-mail at *8aBD2@sba.gov.*
 

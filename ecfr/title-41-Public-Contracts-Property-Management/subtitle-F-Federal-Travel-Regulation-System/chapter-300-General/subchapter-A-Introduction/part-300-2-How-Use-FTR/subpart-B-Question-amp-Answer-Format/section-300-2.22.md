@@ -1,6 +1,6 @@
 ##### § 300-2.22 Who is subject to the FTR?
 
-*Employees and agencies.* Since the user may be an employee or an agency, portions of the FTR have been separated into employee and agency sections. However, while the employee provisions are addressed to the employee, the rules expressed in those provisions apply to the agency as well. The following lists the relevant employee and agency sections of the FTR:
+*Employees and agencies.* Since the user may be an employee or an agency, portions of the FTR have been separated into employee and agency sections. However, while the employee provisions are addressed to the employee, the rules expressed in those provisions apply to the agency as well. The following lists the relevant employee and agency sections of the FTR: 
 
 | For         | The employee provisions contained in | And the agency provisions are contained in |
 | ----------- | ------------------------------------ | ------------------------------------------ |

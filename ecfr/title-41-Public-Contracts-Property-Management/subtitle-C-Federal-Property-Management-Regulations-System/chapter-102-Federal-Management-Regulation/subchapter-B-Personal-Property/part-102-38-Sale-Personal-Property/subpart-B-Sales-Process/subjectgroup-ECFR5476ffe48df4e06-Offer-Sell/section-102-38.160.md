@@ -1,19 +1,19 @@
 ##### § 102-38.160 What must be included in the offer to sell?
 
-The offer to sell must include—
+The offer to sell must include— 
 
-(a) Sale date and time;
+(a) Sale date and time; 
 
-(b) Method of sale;
+(b) Method of sale; 
 
-(c) Description of property being offered for sale;
+(c) Description of property being offered for sale; 
 
-(d) Selling agency;
+(d) Selling agency; 
 
-(e) Location of property;
+(e) Location of property; 
 
-(f) Time and place for receipt of bids;
+(f) Time and place for receipt of bids; 
 
-(g) Acceptable forms of bid deposits and payments; and
+(g) Acceptable forms of bid deposits and payments; and 
 
 (h) Terms and conditions of sale, including any specific restrictions and limitations.

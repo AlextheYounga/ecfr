@@ -8,4 +8,4 @@
 
 (3) Supplied or performed under circumstances which could not be anticipated prior to the carrier's departure for the United States.
 
-(b) This section does not authorize the provision of services in connection with the transport of any goods to or from the Government of Syria or any other person whose property and interests in property are blocked pursuant to § 542.201(a).
+(b) This section does not authorize the provision of services in connection with the transport of any goods to or from the Government of Syria or any other person whose property and interests in property are blocked pursuant to § 542.201.

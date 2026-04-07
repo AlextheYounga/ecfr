@@ -2,9 +2,9 @@
 
 Link to an amendment published at 89 FR 30996, Apr. 23, 2024.
 
-(a) The Director is authorized to issue Onshore Oil and Gas Orders when necessary to implement and supplement the regulations in this part. All orders will be published in the Federal Register both for public comment and in final form.
+(a) The Director is authorized to issue Onshore Oil and Gas Orders when necessary to implement and supplement the regulations in this part. All orders will be published in the Federal Register both for public comment and in final form. 
 
-(b) These Orders are binding on operating rights owners and operators, as appropriate, of Federal and restricted Indian oil and gas leases which have been, or may hereafter be, issued. The Onshore Oil and Gas Orders listed below are currently in effect:
+(b) These Orders are binding on operating rights owners and operators, as appropriate, of Federal and restricted Indian oil and gas leases which have been, or may hereafter be, issued. The Onshore Oil and Gas Orders listed below are currently in effect: 
 
 | Order No.                                                                                                           | Subject                     | Effective date  | **Federal Register** reference | Supersedes |
 | ------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------------- | ------------------------------ | ---------- |

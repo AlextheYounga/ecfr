@@ -1,6 +1,6 @@
 ##### § 302-16.3 Who is and is not eligible for a MEA?
 
-See the following table for eligibility of MEA:
+See the following table for eligibility of MEA: 
 
 | Employees eligible for MEA                                                                      | Employees not eligible for MEA                                                    |
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |

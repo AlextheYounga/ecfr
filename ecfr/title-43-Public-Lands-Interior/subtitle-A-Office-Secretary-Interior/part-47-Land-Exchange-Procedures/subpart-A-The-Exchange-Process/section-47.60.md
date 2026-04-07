@@ -1,6 +1,6 @@
 ##### § 47.60 What documentation must the Chairman submit to the Secretary in the land exchange packet?
 
-The documents in the exchange packet submitted to us for approval must include the following:
+The documents in the exchange packet submitted to us for approval must include the following: 
 
 | The packet must contain . . .     | that must include . . .                                                                                                                                |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |

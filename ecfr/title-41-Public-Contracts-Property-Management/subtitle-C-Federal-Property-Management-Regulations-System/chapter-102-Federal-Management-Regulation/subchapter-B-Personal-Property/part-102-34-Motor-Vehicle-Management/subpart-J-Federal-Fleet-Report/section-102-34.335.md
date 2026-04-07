@@ -2,17 +2,17 @@
 
 (a) Annually, agencies must submit to GSA the information needed to produce the FFR through the Federal Automotive Statistical Tool (FAST), an Internet-based reporting tool. To find out how to submit motor vehicle data to GSA through FAST, consult the instructions from your agency fleet manager and read the documentation at *http://fastweb.inel.gov/.*
 
-(b) Specific reporting categories, by agency, included in the FFR are—
+(b) Specific reporting categories, by agency, included in the FFR are— 
 
-(1) Inventory;
+(1) Inventory; 
 
-(2) Acquisitions;
+(2) Acquisitions; 
 
-(3) Operating costs;
+(3) Operating costs; 
 
-(4) Miles traveled; and
+(4) Miles traveled; and 
 
-(5) Fuel used.
+(5) Fuel used. 
 
 Note to § 102-34.335:
 

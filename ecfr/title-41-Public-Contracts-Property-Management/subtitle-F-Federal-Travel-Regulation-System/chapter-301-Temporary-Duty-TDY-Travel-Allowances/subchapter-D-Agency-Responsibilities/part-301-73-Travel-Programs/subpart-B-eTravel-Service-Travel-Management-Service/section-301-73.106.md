@@ -1,30 +1,30 @@
 ##### § 301-73.106 What are the basic services that should be covered by a TMS?
 
-The TMS must, at a minimum—
+The TMS must, at a minimum— 
 
-(a) Include a Travel Management Center (TMC), commercial ticket office (CTO), an in-house system, an electronically available system, or other method(s) of arranging travel, which has the ability to provide the following as appropriate to the agency's travel needs:
+(a) Include a Travel Management Center (TMC), commercial ticket office (CTO), an in-house system, an electronically available system, or other method(s) of arranging travel, which has the ability to provide the following as appropriate to the agency's travel needs: 
 
-(1) Booking and fulfillment of common carrier arrangements (e.g., flight confirmation and seat assignment, compliance with the Fly America Act, Governmentwide travel policies, contract city-pair fares, electronic ticketing, ticket delivery, etc.).
+(1) Booking and fulfillment of common carrier arrangements (e.g., flight confirmation and seat assignment, compliance with the Fly America Act, Governmentwide travel policies, contract city-pair fares, electronic ticketing, ticket delivery, etc.). 
 
-(2) Lodging information (e.g., room availability, reservations and confirmation, compliance with Hotel/Motel Fire Safety Act, availability of FedRooms® properties, per diem rate availability, etc.).
+(2) Lodging information (e.g., room availability, reservations and confirmation, compliance with Hotel/Motel Fire Safety Act, availability of FedRooms® properties, per diem rate availability, etc.). 
 
-(3) Car rental and rail information (e.g., availability of Defense Travel Management Office (DTMO) Government agreement rates where applicable, confirmation of reservations, etc.).
+(3) Car rental and rail information (e.g., availability of Defense Travel Management Office (DTMO) Government agreement rates where applicable, confirmation of reservations, etc.). 
 
-(b) Provide basic management information, such as—
+(b) Provide basic management information, such as— 
 
-(1) Number of reservations by type of service (common carrier, lodging, and car rental);
+(1) Number of reservations by type of service (common carrier, lodging, and car rental); 
 
-(2) Extent to which reservations are in compliance with policy and reasons for exceptions;
+(2) Extent to which reservations are in compliance with policy and reasons for exceptions; 
 
-(3) Origin and destination points of common carrier usage;
+(3) Origin and destination points of common carrier usage; 
 
-(4) Destination points for lodging accommodations;
+(4) Destination points for lodging accommodations; 
 
-(5) Number of lodging nights in approved accommodations;
+(5) Number of lodging nights in approved accommodations; 
 
-(6) City or location where car rentals are obtained; and
+(6) City or location where car rentals are obtained; and 
 
-(7) Other tasks, e.g., reconciliation of charges on centrally billed accounts and processing ticket refunds.
+(7) Other tasks, e.g., reconciliation of charges on centrally billed accounts and processing ticket refunds. 
 
 Note to § 301-73.106:
 

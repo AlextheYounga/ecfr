@@ -1,6 +1,6 @@
 ##### § 102-33.240 What must we consider before disposing or replacing aircraft and aircraft parts?
 
-Before disposing of aircraft and aircraft parts, you must first determine if the aircraft or parts are excess to your agency's mission or, if your aircraft or parts are not excess, if you will need replacements, as follows:
+Before disposing of aircraft and aircraft parts, you must first determine if the aircraft or parts are excess to your agency's mission or, if your aircraft or parts are not excess, if you will need replacements, as follows: 
 
 | (a) If your aircraft/parts are . . .                                                               | And . . .                        | Then . . .                                                                   |
 | -------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------- |

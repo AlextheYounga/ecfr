@@ -1,6 +1,6 @@
 ##### § 302-3.2 As a new appointee or student trainee what relocation expenses may my agency pay or reimburse me for incident to an assignment to my first official station?
 
-As a new appointee or student trainee assigned to your first official station, your agency may pay or reimburse you the relocation expenses indicated for the type of assignment in Tables A and B of this section. However, once the decision is made to pay or reimburse your relocation expenses, all mandatory relocation allowances are reimbursed, unless otherwise stated in the applicable parts of this chapter.
+As a new appointee or student trainee assigned to your first official station, your agency may pay or reimburse you the relocation expenses indicated for the type of assignment in Tables A and B of this section. However, once the decision is made to pay or reimburse your relocation expenses, all mandatory relocation allowances are reimbursed, unless otherwise stated in the applicable parts of this chapter. 
 
 Table A—Assigned to First Official Station in the Continental United States (CONUS)
 | Column 1—Relocation allowances that agency must pay or reimburse                                                                                       | Column 2—Relocation allowances that agency has   discretionary authority to pay or reimburse |

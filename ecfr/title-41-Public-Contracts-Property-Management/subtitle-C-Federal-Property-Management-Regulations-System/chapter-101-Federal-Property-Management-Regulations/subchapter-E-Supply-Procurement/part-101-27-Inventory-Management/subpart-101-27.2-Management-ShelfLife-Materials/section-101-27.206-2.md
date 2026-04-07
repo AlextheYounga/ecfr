@@ -1,6 +1,6 @@
 ##### § 101-27.206-2 Identification and shipping requirements.
 
-Manufacturers shall, whenever practicable, be required to mark the unit or container with the month and year of manufacture or production and the batch number on all shelf-life items (60 months or less) procured from other than GSA sources. Whenever practical, the supplier shall be required to ship or deliver material within a given number of months from the date of manufacture or production. These “age on delivery” requirements should not be imposed in such a manner as to unduly restrict competition at any trade level. The following guidelines are suggested as appropriate for most shelf-life items:
+Manufacturers shall, whenever practicable, be required to mark the unit or container with the month and year of manufacture or production and the batch number on all shelf-life items (60 months or less) procured from other than GSA sources. Whenever practical, the supplier shall be required to ship or deliver material within a given number of months from the date of manufacture or production. These “age on delivery” requirements should not be imposed in such a manner as to unduly restrict competition at any trade level. The following guidelines are suggested as appropriate for most shelf-life items: 
 
 | Shelf-life period | Age on delivery |
 | ----------------- | --------------- |

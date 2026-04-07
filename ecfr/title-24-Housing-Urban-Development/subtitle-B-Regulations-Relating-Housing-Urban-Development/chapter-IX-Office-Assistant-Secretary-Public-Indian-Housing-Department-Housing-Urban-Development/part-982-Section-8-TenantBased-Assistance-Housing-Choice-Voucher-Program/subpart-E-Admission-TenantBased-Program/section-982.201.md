@@ -8,7 +8,7 @@
 
 (ii) A low-income family that is “continuously assisted” under the 1937 Housing Act;
 
-(iii) A low-income family that meets additional eligibility criteria specified in the PHA administrative plan. Such additional PHA criteria must be consistent with the PHA plan and with the consolidated plans for local governments in the PHA jurisdiction;
+(iii) A low-income family that meets additional eligibility criteria specified in the PHA Administrative Plan. Such additional PHA criteria must be consistent with the PHA plan and with the consolidated plans for local governments in the PHA jurisdiction;
 
 (iv) A low-income family that qualifies for voucher assistance as a non-purchasing family residing in a HOPE 1 (HOPE for public housing homeownership) or HOPE 2 (HOPE for homeownership of multifamily units) project. (Section 8(o)(4)(D) of the 1937 Act (42 U.S.C. 1437f(o)(4)(D));
 

@@ -1,20 +1,20 @@
 ##### § 301-13.3 What additional travel expenses may my agency pay under this part?
 
-Your agency approving official may pay for any expenses deemed necessary by your agency to accommodate your special need including, but not limited to, the following expenses:
+Your agency approving official may pay for any expenses deemed necessary by your agency to accommodate your special need including, but not limited to, the following expenses: 
 
-(a) Transportation and per diem expenses incurred by a family member or other attendant who must travel with you to make the trip possible;
+(a) Transportation and per diem expenses incurred by a family member or other attendant who must travel with you to make the trip possible; 
 
-(b) Specialized transportation to, from, and/or at the TDY duty location;
+(b) Specialized transportation to, from, and/or at the TDY duty location; 
 
-(c) Specialized services provided by a common carrier to accommodate your special need;
+(c) Specialized services provided by a common carrier to accommodate your special need; 
 
-(d) Costs for handling your baggage that are a direct result of your special need;
+(d) Costs for handling your baggage that are a direct result of your special need; 
 
-(e) Renting and/or transporting a wheelchair;
+(e) Renting and/or transporting a wheelchair; 
 
-(f) Other than coach class accommodations to accommodate your special need, under subpart B of part 301-10 of this subchapter; and
+(f) Other than coach class accommodations to accommodate your special need, under subpart B of part 301-10 of this subchapter; and 
 
-(g) Services of an attendant, when necessary, to accommodate your special need.
+(g) Services of an attendant, when necessary, to accommodate your special need. 
 
 Note to § 301-13.3(g):
 

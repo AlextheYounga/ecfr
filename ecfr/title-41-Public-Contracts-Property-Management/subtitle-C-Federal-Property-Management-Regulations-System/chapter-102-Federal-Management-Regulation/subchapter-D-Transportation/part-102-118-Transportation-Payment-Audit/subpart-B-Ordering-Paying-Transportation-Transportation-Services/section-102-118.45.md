@@ -1,6 +1,6 @@
 ##### § 102-118.45 How does a transportation service provider (TSP) bill my agency for transportation and transportation services?
 
-The manner in which your agency orders transportation and transportation services determines the manner in which a TSP bills for service. This is shown in the following table:
+The manner in which your agency orders transportation and transportation services determines the manner in which a TSP bills for service. This is shown in the following table: 
 
 Transportation Service Provider Billing
 | (a) Ordering method                                    | (b) Billing method                                     |

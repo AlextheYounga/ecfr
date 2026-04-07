@@ -1,6 +1,6 @@
 ##### § 302-17.63 What information should I provide to my agency to make the RITA calculation possible under the two-year process?
 
-You should provide the information required in the “Statement of Income and Tax Filing Status” shown below. This information should be taken from the income tax returns you filed for Year 1.
+You should provide the information required in the “Statement of Income and Tax Filing Status” shown below. This information should be taken from the income tax returns you filed for Year 1. 
 
 Statement of Income and Tax Filing Status—Two-Year Process
 | The following information, which my agency will use in calculating the RITA to which I am entitled, was shown on the Federal, state and local income tax returns that I (or my spouse and I) filed for the 20\_\_\_\_\_\_\_\_ tax year. |                                          |

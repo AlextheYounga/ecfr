@@ -1,30 +1,30 @@
 ##### § 134.611 What should I include in my application for an award?
 
-(a) Your application must be in the form of a written petition which is served and filed in accordance with § 134.204. It must contain the following information:
+(a) Your application must be in the form of a written petition which is served and filed in accordance with § 134.204. It must contain the following information: 
 
-(1) A statement that OHA has jurisdiction over the case pursuant to § 134.102(g);
+(1) A statement that OHA has jurisdiction over the case pursuant to § 134.102(g); 
 
-(2) Identification of the administrative proceeding for which you are seeking an award;
+(2) Identification of the administrative proceeding for which you are seeking an award; 
 
-(3) A statement that you have prevailed, and a list of each issue in which you claim the position of SBA was not substantially justified;
+(3) A statement that you have prevailed, and a list of each issue in which you claim the position of SBA was not substantially justified; 
 
-(4) Your status as an individual, owner of an unincorporated business, partnership, corporation, association, organization, or unit of local government;
+(4) Your status as an individual, owner of an unincorporated business, partnership, corporation, association, organization, or unit of local government; 
 
-(5) Your net worth and number of employees as of the date the administrative proceeding was initiated, or a statement that one or both of these eligibility requirements do not apply to you;
+(5) Your net worth and number of employees as of the date the administrative proceeding was initiated, or a statement that one or both of these eligibility requirements do not apply to you; 
 
-(6) The amount of fees and expenses you are seeking, along with the invoice or billing statement from each service provider;
+(6) The amount of fees and expenses you are seeking, along with the invoice or billing statement from each service provider; 
 
-(7) A description of any affiliates (as that term is defined in § 134.608), or a statement that no affiliates exist;
+(7) A description of any affiliates (as that term is defined in § 134.608), or a statement that no affiliates exist; 
 
-(8) A statement that the application and any attached statements and exhibits are true and complete to the best of your knowledge and that you understand a false statement on these documents is a felony punishable by fine and imprisonment under 18 U.S.C. 1001; and
+(8) A statement that the application and any attached statements and exhibits are true and complete to the best of your knowledge and that you understand a false statement on these documents is a felony punishable by fine and imprisonment under 18 U.S.C. 1001; and 
 
-(9)(i) Your name and address;
+(9)(i) Your name and address; 
 
-(ii) Your signature, or the signature of either a responsible official or your attorney; and
+(ii) Your signature, or the signature of either a responsible official or your attorney; and 
 
-(iii) The address and telephone number of the person who signs the application.
+(iii) The address and telephone number of the person who signs the application. 
 
-(b) You should follow this chart to determine which further documents must be included with your application:
+(b) You should follow this chart to determine which further documents must be included with your application: 
 
 | Party                                                                                                                              | Required documents                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |

@@ -1,6 +1,6 @@
 ##### § 419.4 What specific provisions govern operations of the reservoirs?
 
-The specific provisions governing operations of the Truckee River Reservoirs and other reservoirs are contained in the TROA (incorporated by reference at § 419.1). The following table shows the location of the provisions in the TROA.
+The specific provisions governing operations of the Truckee River Reservoirs and other reservoirs are contained in the TROA (incorporated by reference at § 419.1). The following table shows the location of the provisions in the TROA. 
 
 | Provisions governing . . .                                                                                                                                           | Are in the following sections of the TROA . . .      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |

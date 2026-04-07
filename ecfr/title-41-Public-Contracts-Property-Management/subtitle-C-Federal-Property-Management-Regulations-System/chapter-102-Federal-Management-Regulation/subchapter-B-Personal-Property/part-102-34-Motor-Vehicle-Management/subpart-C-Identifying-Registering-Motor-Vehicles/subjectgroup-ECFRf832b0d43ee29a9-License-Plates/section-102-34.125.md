@@ -1,8 +1,8 @@
 ##### § 102-34.125 Where may we obtain U.S. Government license plates?
 
-You may obtain U.S. Government license plates for domestic fleets—
+You may obtain U.S. Government license plates for domestic fleets— 
 
-(a) By contacting: U.S. Department of Justice, UNICOR, Federal Prison Industries, Inc., 400 First Street, NW., Room 6010, Washington, DC 20534.
+(a) By contacting: U.S. Department of Justice, UNICOR, Federal Prison Industries, Inc., 400 First Street, NW., Room 6010, Washington, DC 20534. 
 
 (b) For assistance with any issues involving license plates, contact the following office: General Services Administration, ATTN: MT, Washington, DC 20405. E-mail: *vehicle.policy@gsa.gov.*
 

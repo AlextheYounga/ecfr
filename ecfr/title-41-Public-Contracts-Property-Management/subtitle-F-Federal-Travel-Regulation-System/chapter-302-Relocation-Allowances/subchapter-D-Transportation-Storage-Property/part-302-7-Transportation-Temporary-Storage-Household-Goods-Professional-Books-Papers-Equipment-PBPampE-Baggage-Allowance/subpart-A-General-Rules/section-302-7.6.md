@@ -1,6 +1,6 @@
 ##### § 302-7.6 What are the authorized origin and destination points for the transportation of HHG and PBP&E?
 
-The authorized origin and destination points for the transportation of HHG and PBP&E vary by category of employee and are listed in the following table:
+The authorized origin and destination points for the transportation of HHG and PBP&E vary by category of employee and are listed in the following table: 
 
 Transportation of HHG and PBP&E
 | Category of employee                                                                                                                                     | Authorized origin/destination                                                                                                                                                                                                                                                                 |

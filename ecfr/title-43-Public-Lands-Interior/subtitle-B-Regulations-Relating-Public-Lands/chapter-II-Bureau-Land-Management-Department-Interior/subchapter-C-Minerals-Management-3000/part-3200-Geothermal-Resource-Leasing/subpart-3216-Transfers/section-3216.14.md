@@ -1,8 +1,8 @@
 ##### § 3216.14 What filing fees and forms does a transfer require?
 
-With each transfer request you must send BLM the correct form and pay the transfer fee required by this section. When you calculate your fee, make sure it covers the full amount. For example, if you are transferring record title for three leases, submit three times the fee for “Assignment and transfer of record title or operating rights” in the fee schedule in § 3000.12 of this chapter.
+With each transfer request you must send BLM the correct form and pay the transfer fee required by this section. When you calculate your fee, make sure it covers the full amount. For example, if you are transferring record title for three leases, submit three times the fee for “Assignment and transfer of record title or operating rights” in the fee schedule in § 3000.12 of this chapter. 
 
-Use the following chart to determine the number and types of forms required. The applicable transfer fees are in the fee schedule in § 3000.12 of this chapter.
+Use the following chart to determine the number and types of forms required. The applicable transfer fees are in the fee schedule in § 3000.12 of this chapter. 
 
 | Type of transfer      | Form required? | Form No.  | Number of copies   |
 | --------------------- | -------------- | --------- | ------------------ |

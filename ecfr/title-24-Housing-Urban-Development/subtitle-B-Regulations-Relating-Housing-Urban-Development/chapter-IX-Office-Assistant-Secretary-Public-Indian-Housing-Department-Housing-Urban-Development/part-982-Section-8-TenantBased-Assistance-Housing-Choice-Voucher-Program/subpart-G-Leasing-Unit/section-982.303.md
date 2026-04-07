@@ -2,7 +2,7 @@
 
 (a) *Initial term.* The initial term of a voucher must be at least 60 calendar days. The initial term must be stated on the voucher.
 
-(b) *Extensions of term.* (1) At its discretion, the PHA may grant a family one or more extensions of the initial voucher term in accordance with PHA policy as described in the PHA administrative plan. Any extension of the term is granted by PHA notice to the family.
+(b) *Extensions of term.* (1) At its discretion, the PHA may grant a family one or more extensions of the initial voucher term in accordance with PHA policy as described in the PHA Administrative Plan. Any extension of the term is granted by PHA notice to the family.
 
 (2) If the family needs and requests an extension of the initial voucher term as a reasonable accommodation, in accordance with part 8 of this title, to make the program accessible to a family member who is a person with disabilities, the PHA must extend the voucher term up to the term reasonably required for that purpose.
 

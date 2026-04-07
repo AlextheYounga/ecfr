@@ -1,6 +1,6 @@
 ##### § 102-118.455 What is the time limit for a TSP to file a transportation claim against my agency?
 
-The time limits on a TSP transportation claim against the Government differ by mode as shown in the following table:
+The time limits on a TSP transportation claim against the Government differ by mode as shown in the following table: 
 
 Time Limits on Actions Taken by TSP
 | Mode                                           | Freight charges | Statute               |

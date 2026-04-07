@@ -16,7 +16,7 @@
 
 (7) Except for cooperative members who have acquired cooperative membership shares prior to the commencement of homeownership assistance, the family has entered a contract of sale in accordance with § 982.631(c).
 
-(8) The family also satisfies any other initial requirements established by the PHA (see § 982.626(b)). Any such additional requirements must be described in the PHA administrative plan.
+(8) The family also satisfies any other initial requirements established by the PHA (see § 982.626(b)). Any such additional requirements must be described in the PHA Administrative Plan.
 
 (b) *First-time homeowner requirements.* At commencement of homeownership assistance for the family, the family must be any of the following:
 

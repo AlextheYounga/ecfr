@@ -1,6 +1,6 @@
 ##### § 301-10.304 What expenses are allowable in addition to the POV mileage rate allowances?
 
-Following is a chart listing the reimbursable and non-reimbursable expenses:
+Following is a chart listing the reimbursable and non-reimbursable expenses: 
 
 | Reimbursable expenses in addition to mileage allowance                                                                | Non-reimbursable expenses included in the mileage allowance                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

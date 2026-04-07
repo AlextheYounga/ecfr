@@ -1,12 +1,12 @@
 ##### § 2542.3 Publication and posting of notice.
 
-(a) If upon consideration of the application it is determined that the applicant is entitled to purchase the land applied for, the applicant will be required to publish notice of the application in a newspaper of general circulation in the county wherein the land applied for is situated. Notice for publication shall be issued in the following form:
+(a) If upon consideration of the application it is determined that the applicant is entitled to purchase the land applied for, the applicant will be required to publish notice of the application in a newspaper of general circulation in the county wherein the land applied for is situated. Notice for publication shall be issued in the following form: 
 
 Land Office, Santa Fe, New Mexico.
 
-Notice is hereby given that \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of applicant) of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Address) has filed application \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Number and land office) under the Act of February 23, 1932 (47 Stat. 53), to purchase \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Land) Sec.\_\_\_\_\_\_, T.\_\_\_\_\_\_, R.\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_ Mer., claiming under \_\_\_\_\_\_\_\_\_\_\_\_ (Ground of claim).
+Notice is hereby given that \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of applicant) of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Address) has filed application \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Number and land office) under the Act of February 23, 1932 (47 Stat. 53), to purchase \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Land) Sec.\_\_\_\_\_\_, T.\_\_\_\_\_\_, R.\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_ Mer., claiming under \_\_\_\_\_\_\_\_\_\_\_\_ (Ground of claim). 
 
-The purpose of this notice is to allow all persons having *bona fide* objection to the proposed purchase, an opportunity to file their protests in this office on or before
+The purpose of this notice is to allow all persons having *bona fide* objection to the proposed purchase, an opportunity to file their protests in this office on or before 
 
 (Date) (Manager)
 

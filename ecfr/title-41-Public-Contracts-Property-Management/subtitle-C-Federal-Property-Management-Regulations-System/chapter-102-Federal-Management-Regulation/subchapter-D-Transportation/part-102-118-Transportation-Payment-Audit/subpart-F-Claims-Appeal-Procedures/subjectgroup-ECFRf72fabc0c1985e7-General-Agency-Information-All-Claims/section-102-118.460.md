@@ -1,6 +1,6 @@
 ##### § 102-118.460 What is the time limit for my agency to file a court claim with a TSP for freight charges, reparations, and loss or damage to the property?
 
-Statutory time limits vary depending on the mode and the service involved and may involve freight charges. The following tables list the time limits:
+Statutory time limits vary depending on the mode and the service involved and may involve freight charges. The following tables list the time limits: 
 
 (a) Time Limits on Actions Taken by the Federal Government Against TSPs
 | Mode                                         | Freight charges                | Reparations                    | Loss and damage                                                                                   |

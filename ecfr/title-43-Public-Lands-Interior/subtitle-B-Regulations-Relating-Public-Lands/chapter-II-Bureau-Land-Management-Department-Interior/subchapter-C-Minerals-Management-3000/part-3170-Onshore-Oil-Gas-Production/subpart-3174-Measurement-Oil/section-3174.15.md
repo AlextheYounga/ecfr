@@ -1,6 +1,6 @@
 ##### § 3174.15 Immediate assessments.
 
-Certain instances of noncompliance warrant the imposition of immediate assessments upon the BLM's discovery of the violation, as prescribed in the following table. Imposition of any of these assessments does not preclude other appropriate enforcement actions.
+Certain instances of noncompliance warrant the imposition of immediate assessments upon the BLM's discovery of the violation, as prescribed in the following table. Imposition of any of these assessments does not preclude other appropriate enforcement actions. 
 
 Table 1 to § 3174.15—Violations Subject to an Immediate Assessment
 | Violations subject to an immediate assessment                                                                                                                                                                       |

@@ -1,8 +1,8 @@
 ##### § 102-33.370 What must we do to dispose of military FSCAP and/or life-limited parts?
 
-To dispose of military FSCAP and/or life-limited parts, you must use the following tables:
+To dispose of military FSCAP and/or life-limited parts, you must use the following tables: 
 
-(a) Table 1 for disposing of uninstalled FSCAP and/or life-limited parts follows:
+(a) Table 1 for disposing of uninstalled FSCAP and/or life-limited parts follows: 
 
 Table 1 for Disposing of Uninstalled FSCAP and/or Life-Limited Parts
 | (1) If an Uninstalled FSCAP (i.e., not installed in an aircraft or engine)—                                                             |      |                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -18,7 +18,7 @@ Table 1 for Disposing of Uninstalled FSCAP and/or Life-Limited Parts
 |                                                                                                                                         |      | (C) GSA may donate it for ground use only, after you mutilate and mark it, “EXPIRED LIFE-LIMITED—NOT AIRWORTHY” (the State Agency for Surplus Property must certify that the part has been mutilated and marked before donation).                                                                                                                                                                                                                   |
 | (ii) Is documented with no service life remaining, or undocumented, GSA may not transfer it to another executive agency for flight use— | But  | (A) GSA may transfer or donate it for ground use only, after you mutilate and mark it, “EXPIRED LIFE-LIMITED—NOT AIRWORTHY” (the State Agency for Surplus Property must certify that the part has been mutilated and marked before donation); or   (B) You must mutilate it and may sell it only for scrap.                                                                                                                                         |
 
-(b) Table 2 for disposing of installed FSCAP and/or life-limited parts follows:
+(b) Table 2 for disposing of installed FSCAP and/or life-limited parts follows: 
 
 Table 2 for Disposing of Installed FSCAP and/or Life-Limited Parts
 | (1) If a FSCAP and/or life-limited part is installed in an aircraft or an engine, and it— |      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

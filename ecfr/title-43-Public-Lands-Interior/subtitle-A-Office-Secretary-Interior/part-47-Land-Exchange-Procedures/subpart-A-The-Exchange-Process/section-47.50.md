@@ -1,6 +1,6 @@
 ##### § 47.50 What should the Chairman include in a land exchange proposal for the Secretary?
 
-(a) A land exchange proposal should include the following documentation:
+(a) A land exchange proposal should include the following documentation: 
 
 | The proposal should include . . .                   | that should contain . . .                                                                                                                                                                                 |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

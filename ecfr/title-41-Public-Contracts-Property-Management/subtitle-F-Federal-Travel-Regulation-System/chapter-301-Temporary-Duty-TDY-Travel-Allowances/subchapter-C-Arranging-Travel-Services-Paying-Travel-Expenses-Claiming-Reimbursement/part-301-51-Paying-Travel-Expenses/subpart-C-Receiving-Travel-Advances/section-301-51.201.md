@@ -1,6 +1,6 @@
 ##### § 301-51.201 What is the maximum amount that my agency may advance?
 
-The amount your agency advances you may not exceed the following amounts:
+The amount your agency advances you may not exceed the following amounts: 
 
 | For                                                 | The maximum amount your agency may advance is                                                                                                                                                                                                 |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

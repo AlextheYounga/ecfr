@@ -1,9 +1,9 @@
 ##### § 102-75.40 What are the standards that each Executive agency must use to identify unneeded Federal real property?
 
-Each Executive agency must identify unneeded Federal property using the following standards:
+Each Executive agency must identify unneeded Federal property using the following standards: 
 
-(a) Not utilized.
+(a) Not utilized. 
 
-(b) Underutilized.
+(b) Underutilized. 
 
 (c) Not being put to optimum use.

@@ -1,14 +1,14 @@
 ##### § 3861.2-1 Particulars to be observed in mineral surveys.
 
-(a) The following particulars should be observed in the survey of every mining claim:
+(a) The following particulars should be observed in the survey of every mining claim: 
 
-(1) The exterior boundaries of the claim, the number of feet claimed along the vein, and, as nearly as can be ascertained, the direction of the vein, and the number of feet claimed on the vein in each direction from the point of discovery or other well-defined place on the claim should be represented on the plat of survey and in the field notes.
+(1) The exterior boundaries of the claim, the number of feet claimed along the vein, and, as nearly as can be ascertained, the direction of the vein, and the number of feet claimed on the vein in each direction from the point of discovery or other well-defined place on the claim should be represented on the plat of survey and in the field notes. 
 
-(2) The intersection of the lines of the survey with the lines of conflicting prior surveys should be noted in the field notes and represented upon the plat.
+(2) The intersection of the lines of the survey with the lines of conflicting prior surveys should be noted in the field notes and represented upon the plat. 
 
-(3) Conflicts with unsurveyed claims, where the applicant for survey does not claim the area in conflict, should be shown by actual survey.
+(3) Conflicts with unsurveyed claims, where the applicant for survey does not claim the area in conflict, should be shown by actual survey. 
 
-(4) The total area of the claim embraced by the exterior boundaries should be stated, and also the area in conflict with each intersecting survey, substantially as follows:
+(4) The total area of the claim embraced by the exterior boundaries should be stated, and also the area in conflict with each intersecting survey, substantially as follows: 
 
 |                                                                   | Acres |
 | ----------------------------------------------------------------- | ----- |

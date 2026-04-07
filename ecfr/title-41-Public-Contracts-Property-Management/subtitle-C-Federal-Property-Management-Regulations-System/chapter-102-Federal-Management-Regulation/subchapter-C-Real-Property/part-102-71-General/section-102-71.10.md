@@ -1,27 +1,27 @@
 ##### § 102-71.10 How are these policies organized?
 
-GSA has divided its real property policies into the following functional areas:
+GSA has divided its real property policies into the following functional areas: 
 
-(a) Delegation of authority.
+(a) Delegation of authority. 
 
-(b) Real estate acquisition.
+(b) Real estate acquisition. 
 
-(c) Facility management.
+(c) Facility management. 
 
-(d) Real property disposal.
+(d) Real property disposal. 
 
-(e) Design and construction.
+(e) Design and construction. 
 
-(f) Art-in-architecture.
+(f) Art-in-architecture. 
 
-(g) Historic preservation.
+(g) Historic preservation. 
 
-(h) Assignment and utilization of space.
+(h) Assignment and utilization of space. 
 
-(i) Safety and environmental management.
+(i) Safety and environmental management. 
 
-(j) Security.
+(j) Security. 
 
-(k) Utility services.
+(k) Utility services. 
 
 (l) Location of space.

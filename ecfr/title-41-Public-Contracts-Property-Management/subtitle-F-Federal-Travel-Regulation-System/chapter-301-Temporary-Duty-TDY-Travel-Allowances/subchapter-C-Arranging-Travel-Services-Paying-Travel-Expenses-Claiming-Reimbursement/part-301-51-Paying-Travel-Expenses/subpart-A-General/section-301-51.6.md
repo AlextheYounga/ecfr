@@ -1,12 +1,12 @@
 ##### § 301-51.6 How may I pay for official travel expenses if I receive an exemption from use of the Government contractor-issued travel charge card?
 
-If you receive an exemption from use of the Government contractor-issued travel charge card, your agency may authorize one or a combination of the following methods of payment:
+If you receive an exemption from use of the Government contractor-issued travel charge card, your agency may authorize one or a combination of the following methods of payment: 
 
-(a) Personal funds, including cash or personal charge card;
+(a) Personal funds, including cash or personal charge card; 
 
-(b) Travel advances; or
+(b) Travel advances; or 
 
-(c) Government Transportation Request (GTR).
+(c) Government Transportation Request (GTR). 
 
 Note to § 301-51.6:
 

@@ -1,6 +1,6 @@
 ##### § 301-51.100 What method of payment must I use to procure common carrier transportation?
 
-You must use a Government contractor-issued individually billed travel card, centrally billed account, or GTR to procure contract passenger transportation services. For all other common carrier transportation, you must use one of the methods specified in the following table:
+You must use a Government contractor-issued individually billed travel card, centrally billed account, or GTR to procure contract passenger transportation services. For all other common carrier transportation, you must use one of the methods specified in the following table: 
 
 | For passenger transportation services costing                                         | You must use                                                                                          | Unless                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

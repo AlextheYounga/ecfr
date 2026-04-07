@@ -1,10 +1,10 @@
 ##### § 3284.1 What general standards apply to operations within a unit?
 
-All unit operations must comply with:
+All unit operations must comply with: 
 
-(a) The terms and conditions of the unit agreement; and
+(a) The terms and conditions of the unit agreement; and 
 
-(b) The standards and orders listed in the following chart:
+(b) The standards and orders listed in the following chart: 
 
 | Type of operation         | Regulations on Operational   Standards   (43 CFR) | Regulations on Orders or Instructions   (43 CFR) |
 | ------------------------- | ------------------------------------------------- | ------------------------------------------------ |

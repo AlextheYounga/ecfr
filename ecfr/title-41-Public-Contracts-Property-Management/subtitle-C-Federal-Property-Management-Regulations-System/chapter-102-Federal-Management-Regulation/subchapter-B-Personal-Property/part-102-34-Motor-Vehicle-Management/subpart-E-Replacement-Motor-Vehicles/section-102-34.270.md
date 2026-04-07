@@ -1,6 +1,6 @@
 ##### § 102-34.270 How long must we keep a Government-owned motor vehicle?
 
-You must keep a Government-owned motor vehicle for at least the years or miles shown in the following table, unless it is no longer needed and declared excess:
+You must keep a Government-owned motor vehicle for at least the years or miles shown in the following table, unless it is no longer needed and declared excess: 
 
 Table of Minimum Replacement Standards
 | Motor vehicle type                                                                  | Years 1 | Or miles 1 |

@@ -1,10 +1,10 @@
 ##### § 102-33.435 What CAS cost and utilization data must we report?
 
-You must report:
+You must report: 
 
-(a) The costs and flying hours for each CAS aircraft you hire;
+(a) The costs and flying hours for each CAS aircraft you hire; 
 
-(b) The costs and contractual periods for related aviation services that you hire (by contract or through an Inter-service support agreement (ISSA)).
+(b) The costs and contractual periods for related aviation services that you hire (by contract or through an Inter-service support agreement (ISSA)). 
 
 Note to § 102-33.435:
 

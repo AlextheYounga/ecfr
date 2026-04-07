@@ -1,6 +1,6 @@
 ##### § 102-37.70 How should a transferee account for the receipt of a larger or smaller number of items than approved by GSA on the SF 123?
 
-When the quantity of property received doesn't agree with that approved by GSA on the SF 123, the transferee should handle the overage or shortage as follows:
+When the quantity of property received doesn't agree with that approved by GSA on the SF 123, the transferee should handle the overage or shortage as follows: 
 
 | If . . .                                                                                                            | And . . .                                                                            | Then . . .                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |

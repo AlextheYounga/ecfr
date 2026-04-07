@@ -1,6 +1,6 @@
 ##### § 47.55 What are the minimum requirements for appraisals used in a land exchange?
 
-(a) The following table shows the steps in the appraisal process.
+(a) The following table shows the steps in the appraisal process. 
 
 | Appraisal process step                                       | Requirements                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -12,16 +12,16 @@
 |                                                              | (iii) Complete the appraisal under the timeframe and terms negotiated with the parties in the exchange.                                                                                                                                                                                                                                                                                                                                                                                                 |
 | (3) The Secretary will review appraisal reports              | The Secretary will evaluate the reports using:   (i) The Uniform Standards of Professional Appraisal Practice; and   (ii) The Uniform Appraisal Standards for Federal Land Acquisitions.                                                                                                                                                                                                                                                                                                                |
 
-(b) To be qualified to appraise land for exchange under paragraph (a)(2) of this section, an appraiser must:
+(b) To be qualified to appraise land for exchange under paragraph (a)(2) of this section, an appraiser must: 
 
-(1) Be competent, reputable, impartial, and experienced in appraising property similar to the properties involved in the appraisal assignment; and
+(1) Be competent, reputable, impartial, and experienced in appraising property similar to the properties involved in the appraisal assignment; and 
 
-(2) Be approved by the OVS, if required by the Department of the Interior's Office of Native Hawaiian Relations.
+(2) Be approved by the OVS, if required by the Department of the Interior's Office of Native Hawaiian Relations. 
 
-(3) Be licensed to perform appraisals in the State of Hawai'i unless a Federal employee whose position requires the performance of appraisal duties. Federal employees only need to be licensed in one State or territory to perform real estate appraisal duties as Federal employees in all States and territories.
+(3) Be licensed to perform appraisals in the State of Hawai'i unless a Federal employee whose position requires the performance of appraisal duties. Federal employees only need to be licensed in one State or territory to perform real estate appraisal duties as Federal employees in all States and territories. 
 
-(c) Appraisal reports for the exchange must:
+(c) Appraisal reports for the exchange must: 
 
-(1) Be completed in accordance with the current edition of the Uniform Standards of Professional Appraisal Practice (USPAP) and the Uniform Appraisal Standards for Federal Land Acquisition (UASFLA); and
+(1) Be completed in accordance with the current edition of the Uniform Standards of Professional Appraisal Practice (USPAP) and the Uniform Appraisal Standards for Federal Land Acquisition (UASFLA); and 
 
 (2) Include the estimated market value of Hawaiian home lands and non-Hawaiian home lands properties involved in the exchange.

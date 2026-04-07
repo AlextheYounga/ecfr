@@ -1,12 +1,12 @@
 ##### § 3900.5 Information collection.
 
-(a) OMB has approved the information collection requirements in parts 3900 through 3930 of this chapter under 44 U.S.C. 3501 *et seq.* The table in paragraph (d) of this section lists the subpart in the rule requiring the information and its title, provides the OMB control number, and summarizes the reasons for collecting the information and how the BLM uses the information.
+(a) OMB has approved the information collection requirements in parts 3900 through 3930 of this chapter under 44 U.S.C. 3501 *et seq.* The table in paragraph (d) of this section lists the subpart in the rule requiring the information and its title, provides the OMB control number, and summarizes the reasons for collecting the information and how the BLM uses the information. 
 
-(b) Respondents are oil shale lessees and operators. The requirement to respond to the information collections in these parts are mandated under the Energy Policy Act of 2005 (EP Act) (42 U.S.C. 15927), the Mineral Leasing Act for Acquired Lands of 1947 (30 U.S.C. 351-359), and the Federal Land Policy and Management Act (FLPMA) of 1976 (43 U.S.C. 1701 *et seq.,* including 43 U.S.C. 1732).
+(b) Respondents are oil shale lessees and operators. The requirement to respond to the information collections in these parts are mandated under the Energy Policy Act of 2005 (EP Act) (42 U.S.C. 15927), the Mineral Leasing Act for Acquired Lands of 1947 (30 U.S.C. 351-359), and the Federal Land Policy and Management Act (FLPMA) of 1976 (43 U.S.C. 1701 *et seq.,* including 43 U.S.C. 1732). 
 
-(c) The Paperwork Reduction Act of 1995 requires us to inform the public that an agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number.
+(c) The Paperwork Reduction Act of 1995 requires us to inform the public that an agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number. 
 
-(d) The BLM is collecting this information for the reasons given in the following table:
+(d) The BLM is collecting this information for the reasons given in the following table: 
 
 | 43 CFR Parts 3900-3930, General (1004-0201) | Reasons for collecting information and how used                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

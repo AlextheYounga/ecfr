@@ -8,7 +8,7 @@ Note to paragraph (a):
 
 (b) This section does not authorize:
 
-(1) Any transaction with a person whose property and interests in property are blocked pursuant to § 542.201(a); or
+(1) Any transaction with a person whose property and interests in property are blocked pursuant to § 542.201; or
 
 (2) The exportation, reexportation, sale, or supply, directly or indirectly, of any services in support of the exportation or reexportation to Syria of any item listed on the United States Munitions List (22 CFR part 121).
 

@@ -24,4 +24,4 @@ U.S. financial institutions are required to obtain specific licenses to operate 
 
 Note to § 542.509:
 
-Nothing in this section authorizes the transfer of any property to the Government of Syria, or any other person whose property and interests in property are blocked pursuant to § 542.201(a), other than the diplomatic missions of the Government of Syria to the United States and to international organizations in the United States.
+Nothing in this section authorizes the transfer of any property to the Government of Syria, or any other person whose property and interests in property are blocked pursuant to § 542.201, other than the diplomatic missions of the Government of Syria to the United States and to international organizations in the United States.

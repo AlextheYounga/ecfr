@@ -1,10 +1,10 @@
 ##### § 302-16.2 What are miscellaneous expenses?
 
-Miscellaneous expenses are:
+Miscellaneous expenses are: 
 
-(a) Costs associated with relocating that are not covered by other relocation benefits detailed in chapter 302, but are covered by the MEA.
+(a) Costs associated with relocating that are not covered by other relocation benefits detailed in chapter 302, but are covered by the MEA. 
 
-(b) Expenses allowable under this section include but are not limited to the following, and similar, items:
+(b) Expenses allowable under this section include but are not limited to the following, and similar, items: 
 
 | General expenses                                                                                        | Fees/deposits                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Losses                                                                                                         |
 | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 ##### § 2631.0-3 Authority.
 
-Subsection (b) of section 321, Part II, Title III, of the Transportation Act of September 18, 1940 (54 Stat. 934; 49 U.S.C. 65), authorizes the issuance of patents for the benefit of certain innocent purchasers for value of land-grant lands from railroad carriers which have released their land-grant claims.
+Subsection (b) of section 321, Part II, Title III, of the Transportation Act of September 18, 1940 (54 Stat. 934; 49 U.S.C. 65), authorizes the issuance of patents for the benefit of certain innocent purchasers for value of land-grant lands from railroad carriers which have released their land-grant claims. 
 
 Note:
 

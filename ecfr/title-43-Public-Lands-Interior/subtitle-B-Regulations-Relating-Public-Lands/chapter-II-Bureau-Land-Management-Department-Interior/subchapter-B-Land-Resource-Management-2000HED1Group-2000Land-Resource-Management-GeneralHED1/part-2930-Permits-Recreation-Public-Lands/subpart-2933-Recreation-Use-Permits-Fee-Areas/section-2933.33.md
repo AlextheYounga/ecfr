@@ -1,26 +1,26 @@
 ##### § 2933.33 Prohibited acts and penalties.
 
-(a) *Prohibited acts.* You must not—
+(a) *Prohibited acts.* You must not— 
 
-(1) Fail to obtain a use permit or pay any fees required by this subpart;
+(1) Fail to obtain a use permit or pay any fees required by this subpart; 
 
-(2) Violate the stipulations or conditions of a permit issued under this subpart;
+(2) Violate the stipulations or conditions of a permit issued under this subpart; 
 
-(3) Fail to pay any fees within the time specified;
+(3) Fail to pay any fees within the time specified; 
 
-(4) Fail to display any required proof of payment of fees;
+(4) Fail to display any required proof of payment of fees; 
 
-(5) Willfully and knowingly possess, use, publish as true, or sell to another, any forged, counterfeited, or altered document or instrument used as proof of or exemption from fee payment;
+(5) Willfully and knowingly possess, use, publish as true, or sell to another, any forged, counterfeited, or altered document or instrument used as proof of or exemption from fee payment; 
 
-(6) Willfully and knowingly use any document or instrument used as proof of or exemption from fee payment, that the BLM issued to or intended another to use; or
+(6) Willfully and knowingly use any document or instrument used as proof of or exemption from fee payment, that the BLM issued to or intended another to use; or 
 
-(7) Falsely represent yourself to be a person to whom the BLM has issued a document or instrument used as proof of or exemption from fee payment.
+(7) Falsely represent yourself to be a person to whom the BLM has issued a document or instrument used as proof of or exemption from fee payment. 
 
-(b) *Evidence of nonpayment.* The BLM will consider failure to display proof of payment on your unattended vehicle parked within a fee area, where payment is required to be prima facie evidence of nonpayment.
+(b) *Evidence of nonpayment.* The BLM will consider failure to display proof of payment on your unattended vehicle parked within a fee area, where payment is required to be prima facie evidence of nonpayment. 
 
-(c) *Responsibility for penalties.* If another driver incurs a penalty under this subpart when using a vehicle registered in your name, you and the driver are jointly responsible for the penalty, unless you show that the vehicle was used without your permission.
+(c) *Responsibility for penalties.* If another driver incurs a penalty under this subpart when using a vehicle registered in your name, you and the driver are jointly responsible for the penalty, unless you show that the vehicle was used without your permission. 
 
-(d) *Types of penalties.* You may be subject to the following fines or penalties for violating the provisions of this subpart:
+(d) *Types of penalties.* You may be subject to the following fines or penalties for violating the provisions of this subpart: 
 
 | If you are convicted of . . .                                                                                                                          | then you may be subject to . . .                                                                                                                                                                           | under . . .                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 ##### § 302-5.13 What methods may my agency use to reimburse me for househunting trip expenses?
 
-Your agency will reimburse your househunting trip expenses as indicated in the following table:
+Your agency will reimburse your househunting trip expenses as indicated in the following table: 
 
 | For                                              | You are reimbursed                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

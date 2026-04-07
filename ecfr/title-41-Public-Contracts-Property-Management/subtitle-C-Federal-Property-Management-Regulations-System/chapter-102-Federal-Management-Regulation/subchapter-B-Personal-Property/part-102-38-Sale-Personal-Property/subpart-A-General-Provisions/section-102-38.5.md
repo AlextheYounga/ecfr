@@ -1,10 +1,10 @@
 ##### § 102-38.5 What does this part cover?
 
-This part prescribes the policies governing the sale of Federal personal property, including—
+This part prescribes the policies governing the sale of Federal personal property, including— 
 
-(a) Surplus personal property that has completed all required Federal and/or donation screening; and
+(a) Surplus personal property that has completed all required Federal and/or donation screening; and 
 
-(b) Personal property to be sold under the exchange/sale authority.
+(b) Personal property to be sold under the exchange/sale authority. 
 
 Note to § 102-38.5:
 

@@ -1,6 +1,6 @@
 ##### § 301-50.7 Should I use the online self-service booking tool once ETS is available within my agency?
 
-Yes, you should use the online self-service booking tool offered by ETS or your agency's TMS until ETS becomes available to you.
+Yes, you should use the online self-service booking tool offered by ETS or your agency's TMS until ETS becomes available to you. 
 
 Note to § 301-50.7:
 

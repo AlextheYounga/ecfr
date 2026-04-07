@@ -1,6 +1,6 @@
 ##### § 302-5.12 When must my househunting trip be completed?
 
-You and/or your spouse must complete your househunting trip as indicated in the following table:
+You and/or your spouse must complete your househunting trip as indicated in the following table: 
 
 | For         | Your househunting trip must be completed by                                                                   |
 | ----------- | ------------------------------------------------------------------------------------------------------------- |

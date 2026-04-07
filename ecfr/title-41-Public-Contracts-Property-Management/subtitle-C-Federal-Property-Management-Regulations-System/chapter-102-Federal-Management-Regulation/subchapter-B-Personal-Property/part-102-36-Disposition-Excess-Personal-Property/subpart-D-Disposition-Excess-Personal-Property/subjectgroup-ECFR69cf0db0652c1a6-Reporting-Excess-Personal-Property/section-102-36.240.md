@@ -1,6 +1,6 @@
 ##### § 102-36.240 What are the disposal condition codes?
 
-The disposal condition codes are contained in the following table:
+The disposal condition codes are contained in the following table: 
 
 | Disposal condition code | Definition                                                                                                                                  |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |

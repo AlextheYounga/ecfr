@@ -1,6 +1,6 @@
 ##### § 30.100 How do I use this part?
 
-(a) The following table is a guide to the relevant contents of this part by subject matter.
+(a) The following table is a guide to the relevant contents of this part by subject matter. 
 
 | For provisions relating to . . .                                                                                   | consult . . .                                 |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
@@ -15,18 +15,18 @@
 | (9) Summary probate proceedings                                                                                    | §§ 30.200 through 30.209.                     |
 | (10) Tribal purchase of certain property interests of decedents under special laws applicable to particular Tribes | §§ 30.260 through 30.274.                     |
 
-(b) Except as limited by the provisions of this part, the regulations in part 4, subparts A and B of this subtitle apply to these proceedings.
+(b) Except as limited by the provisions of this part, the regulations in part 4, subparts A and B of this subtitle apply to these proceedings. 
 
-(c) The following provisions do not apply to Alaska property interests:
+(c) The following provisions do not apply to Alaska property interests: 
 
-(1) § 30.151;
+(1) § 30.151; 
 
-(2) §§ 30.400 through 30.424 (purchases at probate);
+(2) §§ 30.400 through 30.424 (purchases at probate); 
 
-(3) §§ 30.183 through 30.189, except for §§ 30.186(a), (b)(2), and (c) and 30.187.
+(3) §§ 30.183 through 30.189, except for §§ 30.186(a), (b)(2), and (c) and 30.187. 
 
-(4) § 30.213; and
+(4) § 30.213; and 
 
-(5) § 30.214(f) and (g).
+(5) § 30.214(f) and (g). 
 
 \[73 FR 67289, Nov. 13, 2008, as amended at 76 FR 7506, Feb. 10, 2011; 86 FR 72083, Dec. 20, 2021; 88 FR 39769, June 20, 2023\]

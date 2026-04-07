@@ -1,6 +1,6 @@
 ##### § 302-15.13 What are the income tax consequences when my agency pays for my property management services?
 
-When your agency pays for your property management services, you will be taxed on the amount of expenses your agency pays for property management services whether it reimburses you directly or whether it pays a relocation services company to manage your residence. Your agency must pay you a relocation income tax (RIT) allowance for the additional Federal, State and local income taxes you incur on property management expenses it reimburses you or pays on your behalf.
+When your agency pays for your property management services, you will be taxed on the amount of expenses your agency pays for property management services whether it reimburses you directly or whether it pays a relocation services company to manage your residence. Your agency must pay you a relocation income tax (RIT) allowance for the additional Federal, State and local income taxes you incur on property management expenses it reimburses you or pays on your behalf. 
 
 Note to § 302-15.13:
 

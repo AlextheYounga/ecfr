@@ -4,8 +4,8 @@
 
 (b) This section does not authorize:
 
-(1) Any debit to a blocked account of the Government of Syria on the books of a U.S. financial institution or to any other account blocked pursuant to § 542.201(a);
+(1) Any debit to a blocked account of the Government of Syria on the books of a U.S. financial institution or to any other account blocked pursuant to § 542.201;
 
-(2) Any transaction with a person whose property and interests in property are blocked pursuant to § 542.201(a) other than the Government of Syria; or
+(2) Any transaction with a person whose property and interests in property are blocked pursuant to § 542.201 other than the Government of Syria; or
 
 (3) Transactions or services ordinarily incident to operating or supporting a business in Syria, employment in Syria, or any new investment in Syria prohibited by § 542.206.

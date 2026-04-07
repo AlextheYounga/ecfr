@@ -1,6 +1,6 @@
 ##### § 301-31.10 How will my agency pay my subsistence expenses?
 
-Your agency will pay your actual subsistence expenses not to exceed the “maximum allowable amount” for the period you or your family occupy temporary living accommodations. The “maximum allowable amount” is the “maximum daily amount” multiplied by the number of days you or your family occupy temporary living accommodations not to exceed the number of days authorized. The “maximum daily amount” is determined by adding the rates in the following table for you and each member of your family authorized to occupy temporary living accommodations:
+Your agency will pay your actual subsistence expenses not to exceed the “maximum allowable amount” for the period you or your family occupy temporary living accommodations. The “maximum allowable amount” is the “maximum daily amount” multiplied by the number of days you or your family occupy temporary living accommodations not to exceed the number of days authorized. The “maximum daily amount” is determined by adding the rates in the following table for you and each member of your family authorized to occupy temporary living accommodations: 
 
 | If your agency authorizes                               | The “maximum daily amount” of per diem expenses that  |
 | ------------------------------------------------------- | ----------------------------------------------------- |

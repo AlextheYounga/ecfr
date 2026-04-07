@@ -1,6 +1,6 @@
 ##### § 105-60.804 Fee schedule.
 
-Table 1 to § 105-60.804 outlines the basic fee categories and applicable fees:
+Table 1 to § 105-60.804 outlines the basic fee categories and applicable fees: 
 
 Table 1 to § 105-60.804—Fee Requester Category Table
 | Requester category                                        | Search fees                        | Review fees | Duplication fees                                                                                                                                                                                                                                                                                                    | Amount                                                                |

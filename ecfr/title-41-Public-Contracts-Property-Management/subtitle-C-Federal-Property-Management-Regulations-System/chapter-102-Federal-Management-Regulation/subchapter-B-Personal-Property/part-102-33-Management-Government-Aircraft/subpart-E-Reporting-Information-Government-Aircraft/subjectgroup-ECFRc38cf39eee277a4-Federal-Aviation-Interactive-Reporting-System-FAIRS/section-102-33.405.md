@@ -1,8 +1,8 @@
 ##### § 102-33.405 When must we report to FAIRS?
 
-(a) You must report any changes in your Federal aircraft inventory within 14 calendar days of those changes.
+(a) You must report any changes in your Federal aircraft inventory within 14 calendar days of those changes. 
 
-(b) You must report cost and utilization data to FAIRS at the end of every quarter of the fiscal year (December 31, March 31, June 30, and September 30). However, you may submit your information to FAIRS on a daily, weekly, or monthly basis. To provide enough time to calculate your cost and utilization data, you may report any one quarter's cost and utilization in the following quarter, as follows:
+(b) You must report cost and utilization data to FAIRS at the end of every quarter of the fiscal year (December 31, March 31, June 30, and September 30). However, you may submit your information to FAIRS on a daily, weekly, or monthly basis. To provide enough time to calculate your cost and utilization data, you may report any one quarter's cost and utilization in the following quarter, as follows: 
 
 | Quarter                     | Submit                                           |
 | --------------------------- | ------------------------------------------------ |

@@ -1,6 +1,6 @@
 ##### § 2.39 How does your requester category affect the fees you are charged?
 
-You will be charged as shown in the following table:
+You will be charged as shown in the following table: 
 
 | Requester Category                                    | Search fees              | Review fees | Duplication fees                                   |
 | ----------------------------------------------------- | ------------------------ | ----------- | -------------------------------------------------- |

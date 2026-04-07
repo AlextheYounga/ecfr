@@ -1,6 +1,6 @@
 ##### § 134.607 How do I know which eligibility requirement applies to me?
 
-Follow this chart to determine your eligibility. You should calculate your net worth and the number of your employees as of the date the administrative proceeding was initiated.
+Follow this chart to determine your eligibility. You should calculate your net worth and the number of your employees as of the date the administrative proceeding was initiated. 
 
 | If your participation in   the proceeding was:                                                                                                      | Eligibility requirements:                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
