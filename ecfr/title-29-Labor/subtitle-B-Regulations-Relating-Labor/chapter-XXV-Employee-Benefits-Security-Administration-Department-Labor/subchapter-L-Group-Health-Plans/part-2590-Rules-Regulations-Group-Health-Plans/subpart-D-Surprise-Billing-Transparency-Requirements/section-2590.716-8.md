@@ -1,4 +1,6 @@
-##### § 2590.716--8 Independent dispute resolution process.
+##### § 2590.716-8 Independent dispute resolution process.
+
+Link to an amendment published at 87 FR 52649, Aug. 26, 2022.
 
 (a) *Scope and definitions -* (1) *Scope.* This section sets forth requirements with respect to the independent dispute resolution (IDR) process (referred to in this section as the Federal IDR process) under which a nonparticipating provider, nonparticipating emergency facility, or nonparticipating provider of air ambulance services (as applicable), and a group health plan or health insurance issuer offering group health insurance coverage completes a requisite open negotiation period and at least one party submits a notification under paragraph (b) of this section to initiate the Federal IDR process under paragraph (c) of this section, and under which an IDR entity (as certified under paragraph (e) of this section) determines the amount of payment under the plan or coverage for an item or service furnished by the provider or facility.
 
