@@ -18,7 +18,7 @@
 
 (iii) Low risk if an area is not high or medium risk.
 
-(2) The product indicator is 1
+(2) The product indicator is 1/>
 
 1 (See Appendix B, Table C).
 
