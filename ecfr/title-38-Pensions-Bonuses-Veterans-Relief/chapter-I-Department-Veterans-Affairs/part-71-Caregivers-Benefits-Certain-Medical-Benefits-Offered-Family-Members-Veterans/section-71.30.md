@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 46480, Sept. 29, 2025.
 
-(a) Except as provided in paragraphs (b) and (c) of this section, the eligible veteran and Family Caregiver will be reassessed by VA (in collaboration with the primary care team to the maximum extent practicable) on an annual basis to determine their continued eligibility for participation in PCAFC under this part. Reassessments will include consideration of whether the eligible veteran is unable to self-sustain in the community for purposes of the monthly stipend rate under § 71.40(c)(4)(i)(A). Reassessment may include a visit to the eligible veteran's home.
+(a) Except as provided in paragraphs (b) and (c) of this section, the eligible veteran and Family Caregiver will be reassessed by VA (in collaboration with the primary care team to the maximum extent practicable) on an annual basis to determine their continued eligibility for participation in PCAFC under this part. Reassessments will include consideration of whether the eligible veteran is unable to self-sustain in the community for purposes of the monthly stipend rate under § 71.40(c)(4)(i)(A). Reassessment may include a visit to the eligible veteran's home.*i.e.,*
 
 (b) Reassessments may occur more frequently than annually if a determination is made and documented by VA that more frequent reassessment is appropriate.
 

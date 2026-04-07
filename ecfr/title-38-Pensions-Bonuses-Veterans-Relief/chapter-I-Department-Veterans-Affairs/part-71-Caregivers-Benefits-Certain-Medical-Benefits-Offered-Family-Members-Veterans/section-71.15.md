@@ -1,6 +1,6 @@
 ##### § 71.15 Definitions.
 
-For the purposes of this part:
+For the purposes of this part:*Domestic violence (DV)*
 
 *Domestic violence (DV)* refers to any violence or abuse that occurs within the domestic sphere or at home, and may include child abuse, elder abuse, and other types of interpersonal violence.
 
