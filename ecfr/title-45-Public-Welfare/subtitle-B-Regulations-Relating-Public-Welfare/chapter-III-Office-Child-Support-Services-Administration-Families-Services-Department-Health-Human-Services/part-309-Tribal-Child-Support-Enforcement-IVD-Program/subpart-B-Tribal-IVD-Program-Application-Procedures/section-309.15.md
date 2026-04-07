@@ -10,11 +10,7 @@
 
 (ii) Notification of whether the Tribe or Tribal organization is requesting funds for indirect costs and if so, an election of a method under paragraph (a)(3) of this section to calculate estimated indirect costs; and
 
-(iii) A narrative justification for each cost category on the form; and either:
-
-(iv) A statement that the Tribe or Tribal organization has or will have the non-Federal share of program expenditures available, as required; or
-
-(v) A request for a waiver of the non-Federal share in accordance with § 309.130(e), if appropriate.
+(iii) A narrative justification for each cost category on the form.
 
 (3) If the Tribe or Tribal organization requests funding for indirect costs, estimated indirect costs may be submitted either by:
 
@@ -29,3 +25,5 @@
 (c) *Annual budget submission.* Following the initial funding period, the Tribe or Tribal organization operating a IV-D program must submit annually Form SF 424A, including all the necessary accompanying information and documentation described in paragraphs (a)(2) and (a)(3) of this section.
 
 (d) *Plan Amendments.* Plan amendments must be submitted in accordance with the requirements of § 309.35(e).
+
+\[69 FR 16672, Mar. 30, 2004, as amended at 89 FR 9792, Feb. 12, 2024\]

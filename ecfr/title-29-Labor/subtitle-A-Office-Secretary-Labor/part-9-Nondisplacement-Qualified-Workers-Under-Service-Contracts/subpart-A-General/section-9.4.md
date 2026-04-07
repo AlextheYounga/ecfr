@@ -1,0 +1,7 @@
+##### § 9.4 Exclusions.
+
+(a) *Small contracts*—(1) *General.* The requirements of this part do not apply to prime contracts under the simplified acquisition threshold set by the Office of Federal Procurement Policy Act, as amended (41 U.S.C. 134), and any subcontracts of any tier under such prime contracts.
+
+(2) *Application to subcontracts.* The amount of the prime contract determines whether a subcontract is excluded from the requirements of this part. If a prime contract is under the simplified acquisition threshold, then each subcontract under that prime contract will also be excluded from the requirements of this part. If a prime contract meets or exceeds the simplified acquisition threshold and meets the other coverage requirements of § 9.3, then each subcontract for services under that prime contract will also be subject to the requirements of this part, even if the value of an individual subcontract is under the simplified acquisition threshold.
+
+(b) *Federal service work constituting only part of employee's job.* This part does not apply to employees who were hired to work under a Federal service contract and one or more nonfederal service contracts as part of a single job, provided that the employees were not deployed in a manner that was designed to avoid the purposes of Executive Order 14055.

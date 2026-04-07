@@ -16,12 +16,10 @@
 
 (6) A narrative report on activities, accomplishments, and progress of the program, including success in reaching the performance targets established by the Tribe or Tribal organization;
 
-(7) Total costs claimed;
+(7) Total costs claimed; and
 
-(8) Total amount of fees and costs recovered; and
-
-(9) Total amount of laboratory paternity establishment costs.
+(8) Total amount of laboratory paternity establishment costs.
 
 (c) A Tribe or Tribal organization must submit Tribal IV-D program statistical and narrative reports required by paragraph (b) of this section no later than 90 days after the end of each funding period.
 
-\[69 FR 16672, Mar. 30, 2004, as amended at 85 FR 35208, June 9, 2020\]
+\[69 FR 16672, Mar. 30, 2004, as amended at 85 FR 35208, June 9, 2020; 89 FR 9793, Feb. 12, 2024\]

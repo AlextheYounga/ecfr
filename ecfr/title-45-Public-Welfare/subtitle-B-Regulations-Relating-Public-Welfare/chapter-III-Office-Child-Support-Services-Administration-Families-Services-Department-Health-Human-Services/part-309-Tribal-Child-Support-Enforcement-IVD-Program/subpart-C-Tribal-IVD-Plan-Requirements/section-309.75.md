@@ -10,7 +10,7 @@ A Tribe or Tribal organization must include in its Tribal IV-D plan the administ
 
 (d) A certification that for each year during which the Tribe or Tribal organization receives or expends funds pursuant to section 455(f) of the Act and this part, it shall comply with the provisions of chapter 75 of Title 31 of the United States Code (the Single Audit Act of 1984, Pub. L. 98-502, as amended) and 45 CFR part 75, subpart F.
 
-(e) If the Tribe or Tribal organization intends to charge an application fee or recover costs in excess of the fee, the Tribal IV-D plan must provide that:
+(e) Provide that charging fees and recovering costs will not be permitted.
 
 (1) The application fee must be uniformly applied by the Tribe or Tribal organization and must be:
 
@@ -24,4 +24,4 @@ A Tribe or Tribal organization must include in its Tribal IV-D plan the administ
 
 (4) The Tribal IV-D agency must exclude from its quarterly expenditure claims an amount equal to all fees which are collected and costs recovered during the quarter.
 
-\[69 FR 16672, Mar. 30, 2004, as amended at 85 FR 35208, June 9, 2020\]
+\[69 FR 16672, Mar. 30, 2004, as amended at 85 FR 35208, June 9, 2020; 89 FR 9793, Feb. 12, 2024\]

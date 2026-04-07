@@ -18,6 +18,8 @@
 
 (f) The Secretary's determination that a Tribal IV-D application, new plan or plan amendment is not approvable remains in effect pending the reconsideration under this part.
 
-(g) Disapproval of start-up funding, a request for waiver of the 100-child rule, and a request for waiver of the non-Federal Tribal share is not subject to administrative appeal.
+(g) Disapproval of start-up funding and a request for waiver of the 100-child rule is not subject to administrative appeal.
 
 (h) Where the Secretary believes an approved Tribal IV-D plan should be disapproved, he will notify the Tribe of his intent to disapprove the plan. If the Tribe waives its right to reconsideration under this section, the Tribe may request a pre-decision hearing with 60 days of the date of the Notice of Intent to Disapprove the plan. The hearing will utilize the procedures at 45 CFR part 213.
+
+\[69 FR 16672, Mar. 30, 2004, as amended at 89 FR 9793, Feb. 12, 2024\]

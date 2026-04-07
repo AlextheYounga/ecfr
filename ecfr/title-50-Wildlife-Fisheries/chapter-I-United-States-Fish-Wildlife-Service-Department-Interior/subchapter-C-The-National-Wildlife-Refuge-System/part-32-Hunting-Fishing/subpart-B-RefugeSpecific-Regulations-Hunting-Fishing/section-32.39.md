@@ -38,7 +38,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow youth deer and turkey hunters to hunt on designated areas on designated days (youth hunt) if they meet the criteria of a “youth hunter” as governed by State law and possess a turkey or deer hunting permit (printed and signed copy of permit from *Recreation.gov*).
 
-(v) For the designated disabled hunt: (A) We require disabled hunters to have an America the Beautiful Access pass (OMB Control 1024-0252) in their possession while hunting in disabled areas.
+(v) For the designated disabled hunt:
+
+(A) We require disabled hunters to have an America the Beautiful Access pass (OMB Control 1024-0252) in their possession while hunting in disabled areas.
 
 (B) Disabled hunters may have an assistant, age 18 or older, who must remain within sight and normal voice contact while hunting. Assistants must possess a printed and signed copy of a permit from *Recreation.gov* and a valid government-issued photo identification.
 
@@ -68,7 +70,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow youth deer hunters to hunt on designated areas on designated days (youth hunt) if they meet the criteria of a “youth hunter” as governed by State law and possess a printed and signed copy of a permit from *Recreation.gov.*
 
-(iii) For the designated disabled hunt: (A) We require disabled hunters to have an America the Beautiful Access pass (OMB Control 1024-0252) in their possession while hunting in disabled areas.
+(iii) For the designated disabled hunt:
+
+(A) We require disabled hunters to have an America the Beautiful Access pass (OMB Control 1024-0252) in their possession while hunting in disabled areas.
 
 (B) Disabled hunters may have an assistant who must be age 18 or older and remain within sight and normal voice contact. Assistants must possess a printed and signed copy of a permit from *Recreation.gov* and a valid government-issued photo identification.
 

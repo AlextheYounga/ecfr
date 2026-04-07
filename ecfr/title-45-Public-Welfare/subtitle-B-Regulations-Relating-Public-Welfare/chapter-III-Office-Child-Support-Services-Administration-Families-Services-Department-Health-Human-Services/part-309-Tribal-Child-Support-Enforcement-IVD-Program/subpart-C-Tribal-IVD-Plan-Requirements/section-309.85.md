@@ -12,12 +12,10 @@ A Tribal IV-D plan must provide that:
 
 (4) Amounts owed, arrearages, amounts and sources of support collections, and the distribution of such collections;
 
-(5) IV-D program expenditures;
+(5) IV-D program expenditures; and
 
-(6) Any fees charged and collected, if applicable; and
-
-(7) Statistical, fiscal, and other records necessary for reporting and accountability required by the Secretary.
+(6) Statistical, fiscal, and other records necessary for reporting and accountability required by the Secretary.
 
 (b) The Tribal IV-D agency will comply with the retention and access requirements at 45 CFR 75.361 through 75.370, including the requirement that records be retained for at least three years.
 
-\[69 FR 16672, Mar. 30, 2004, as amended at 81 FR 3021, Jan. 20, 2016\]
+\[69 FR 16672, Mar. 30, 2004, as amended at 81 FR 3021, Jan. 20, 2016; 89 FR 9796, Feb. 12, 2024\]
