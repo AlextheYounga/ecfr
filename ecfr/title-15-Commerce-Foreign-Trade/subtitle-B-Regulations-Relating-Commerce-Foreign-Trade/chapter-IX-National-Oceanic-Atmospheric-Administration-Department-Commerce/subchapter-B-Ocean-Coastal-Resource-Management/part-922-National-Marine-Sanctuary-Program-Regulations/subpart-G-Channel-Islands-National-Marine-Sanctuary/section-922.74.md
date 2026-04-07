@@ -1,6 +1,6 @@
 ##### § 922.74 Permit procedures and issuance criteria.
 
-Link to an amendment published at 88 FR 965, Jan. 6, 2023.
+Link to an amendment published at 88 FR 965, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
 
 (a) A person may conduct an activity prohibited by § 922.72(a)(3) through (10), (a)(12), and (a)(13), and § 922.73, if such activity is specifically authorized by, and conducted in accordance with the scope, purpose, terms, and conditions of, a permit issued under § 922.48 and this section.
 

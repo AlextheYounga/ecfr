@@ -1,14 +1,12 @@
 ##### § 1108.1 Definitions.
 
-Link to an amendment published at 88 FR 729, Jan. 4, 2023.
+As used in this subpart:
 
-As used in this part:
+(a) *Arbitrator* means a single person appointed to arbitrate pursuant to this subpart.
 
-(a) *Arbitrator* means a single person appointed to arbitrate pursuant to these rules.
+(b) *Arbitrator Panel* means a group of three people appointed to arbitrate pursuant to this subpart. One panel member would be selected from the roster by each side to the arbitration dispute, and the parties would mutually agree to the selection of the third-lead arbitrator under the “strike” methodology described in § 1108.6(c).
 
-(b) *Arbitrator Panel* means a group of three people appointed to arbitrate pursuant to these rules. One panel member would be selected from the roster by each side to the arbitration dispute, and the parties would mutually agree to the selection of the third-lead arbitrator under the “strike” methodology described in § 1108.6(c).
-
-(c) *Arbitration program* means the program established by the Surface Transportation Board in this part under which participating parties, including rail carriers and shippers, have agreed voluntarily in advance, or on a case-by-case basis to resolve disputes about arbitration-program-eligible matters brought before the Board using the Board's arbitration procedures.
+(c) *Arbitration program* means the program established by the Surface Transportation Board in this subpart under which participating parties, including rail carriers and shippers, have agreed voluntarily in advance, or on a case-by-case basis to resolve disputes about arbitration-program-eligible matters brought before the Board using the Board's arbitration procedures.
 
 (d) *Arbitration-program-eligible matters* are those disputes or components of disputes, that may be resolved using the Board's arbitration program and include disputes involving one or more of the following subjects: rates; Demurrage; accessorial charges; misrouting or mishandling of rail cars; and disputes involving a carrier's published rules and practices as applied to particular rail transportation.
 
@@ -30,4 +28,4 @@ As used in this part:
 
 (m) *Rate disputes* are disputes involving the reasonableness of a rail carrier's rates.
 
-\[78 FR 29079, May 17, 2013, as amended at 81 FR 69414, Oct. 6, 2016\]
+\[78 FR 29079, May 17, 2013, as amended at 81 FR 69414, Oct. 6, 2016; 88 FR 729, Jan. 4, 2023\]
