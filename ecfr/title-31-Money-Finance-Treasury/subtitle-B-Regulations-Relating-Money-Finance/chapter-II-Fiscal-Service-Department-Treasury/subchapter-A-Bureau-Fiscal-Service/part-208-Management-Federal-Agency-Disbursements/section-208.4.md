@@ -1,6 +1,6 @@
 ##### § 208.4 Waivers.
 
-Link to an amendment published at 89 FR 12960, Feb. 21, 2024.
+Link to an amendment published at 89 FR 12960, Feb. 21, 2024.Link to an amendment published at 89 FR 18543, Mar. 14, 2024.
 
 (a) Payment by electronic funds transfer is not required in the following cases:
 
