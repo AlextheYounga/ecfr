@@ -1,6 +1,6 @@
 ##### § 73.525 TV Channel 6 protection.
 
-The provisions of this section apply to all applications for construction permits for new or modified facilities for a NCE-FM station on Channels 200-220 unless the application is accompanied by a written agreement between the NCE-FM applicant and each affected TV Channel 6 broadcast station concurring with the proposed NCE-FM facilities.
+The provisions of this section apply to all applications for construction permits for new or modified facilities for a NCE-FM station on Channels 200-220 unless the application is accompanied by a written agreement between the NCE-FM applicant and each affected TV Channel 6 broadcast station concurring with the proposed NCE-FM facilities.*Affected TV Channel 6 station.*
 
 (a) *Affected TV Channel 6 station.* (1) An affected TV Channel 6 station is a TV broadcast station which is authorized to operate on Channel 6 that is located within the following distances of a NCE-FM station operating on Channels 201-220:
 
@@ -114,7 +114,7 @@ Table B
 
 (B) For each field strength contour of the affected TV Channel 6 station, there will be an associated co-channel or adjacent channel TV broadcast station interference contour, the value of which (in units of dBu) is defined as the sum of the affected TV Channel 6 station's field strength (in dBu) and the appropriate undesired-to-desired signal ratio (in dB) as follows:
 
-Co-channel, normal offset, −22 dB Co-channel, no offset, −39 dB Adjacent channel, + 12 dB
+Co-channel, normal offset, −22 dB Co-channel, no offset, −39 dB Adjacent channel, + 12 dBWhere:
 
 (C) The distances to the associated co-channel or adjacent channel TV broadcast station interference contour will be predicted according to the procedures specified in § 73.684, “Prediction of coverage,” using the F(50,10) curves in Figure 9a, § 73.699.
 

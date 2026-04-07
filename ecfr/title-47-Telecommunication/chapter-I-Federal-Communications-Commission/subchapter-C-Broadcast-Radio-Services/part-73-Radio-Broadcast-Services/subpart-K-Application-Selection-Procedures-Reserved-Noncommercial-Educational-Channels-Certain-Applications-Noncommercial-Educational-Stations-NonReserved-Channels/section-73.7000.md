@@ -1,6 +1,6 @@
 ##### § 73.7000 Definition of terms (as used in subpart K only).
 
-*Attributable interest.* An interest of an applicant, its parent, subsidiaries, their officers, and members of their governing boards that would be cognizable under the standards in the notes to § 73.3555. Also an interest of an entity providing more than 33 percent of an applicant's equity and/or debt that also either (1) supplies more than 15% of the station's weekly programming, or (2) has an attributable interest pursuant to § 73.3555 in media in the same market.
+*Attributable interest.* An interest of an applicant, its parent, subsidiaries, their officers, and members of their governing boards that would be cognizable under the standards in the notes to § 73.3555. Also an interest of an entity providing more than 33 percent of an applicant's equity and/or debt that also either (1) supplies more than 15% of the station's weekly programming, or (2) has an attributable interest pursuant to § 73.3555 in media in the same market.Federal Register
 
 *Established local applicant.* An applicant that has, for at least the two years (24 months) immediately preceding application, met the definition of local applicant.
 

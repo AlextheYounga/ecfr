@@ -1,6 +1,6 @@
 ##### § 73.788 Service; commercial or sponsored programs.
 
-(a) A licensee of an international broadcast station shall render only an international broadcast service which will reflect the culture of this country and which will promote international goodwill, understanding, and cooperation. Any program solely intended for and directed to an audience in the continental United States does not meet the requirements for this service.
+(a) A licensee of an international broadcast station shall render only an international broadcast service which will reflect the culture of this country and which will promote international goodwill, understanding, and cooperation. Any program solely intended for and directed to an audience in the continental United States does not meet the requirements for this service.*Provided,*
 
 (b) Such international broadcast service may include commercial or sponsored programs: *Provided,* That:
 

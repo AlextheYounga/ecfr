@@ -1,67 +1,51 @@
 ##### § 9.14 Accelerated Benefits.
 
-(a) *What is an Accelerated Benefit?* An Accelerated Benefit is a payment of a portion of your Servicemembers' Group Life Insurance or Veterans' Group Life Insurance to you before you die. 
+(a) *Accelerated Benefit.* An Accelerated Benefit is a payment of a portion of SGLI or VGLI to a terminally ill member (*i.e.,* an insured Service member or veteran), or a payment of a portion of Family Servicemembers' Group Life Insurance to a member on behalf of a terminally ill covered person, before death.
 
-(b) *Who is eligible to receive an Accelerated Benefit?* You are eligible to receive an Accelerated Benefit if you have a valid written medical prognosis from a physician of 9 months or less to live, and otherwise comply with the provisions of this section. 
+(b) *Eligibility to receive an Accelerated Benefit.* A member is eligible to receive an Accelerated Benefit if the member has a valid written medical prognosis from a physician of nine months or less to live, and otherwise complies with the provisions of this section.
 
-(c) *Who can apply for an Accelerated Benefit?* Only you, the insured member, can apply for an Accelerated Benefit. No one can apply on your behalf. 
+(c) *Applying for an Accelerated Benefit—SGLI Member or VGLI Member.* (1) A terminally ill member can apply for an Accelerated Benefit by completing the SGLV 8284 application form. The member's physician is required to complete part of the form by certifying that the member is terminally ill (*i.e.,* has a life expectancy of nine months or less). If the member is covered under Servicemembers' Group Life Insurance, the member's uniformed service must also complete part of the form and submit it to the Office of Servicemembers' Group Life Insurance. If the member is covered under VGLI, the member must submit the completed application form to the Office of Servicemembers' Group Life Insurance.
 
-(d) *How much can you request as an Accelerated Benefit?* (1) You can request as an Accelerated Benefit an amount up to a maximum of 50% of the face value of your insurance coverage. 
+(2) An alternate applicant can apply for an Accelerated Benefit on behalf of a terminally ill member if the member is medically incapacitated, as defined in paragraph (e) of this section. The alternate applicant can apply by completing the SGLV 8284 application form if all of the following conditions are met:
 
-(2) Your request for an Accelerated Benefit must be $5,000 or a multiple of $5000 (for example, $10,000, $15,000). 
+(i) The member's physician must certify that the member is terminally ill and medically incapacitated;
 
-(e) *How much can you receive as an Accelerated Benefit?* You can receive as an Accelerated Benefit the amount you request up to a maximum of 50% of the face value of your insurance coverage. 
+(ii) The alternate applicant must have power of attorney, guardianship, or conservatorship over the member, or be the member's VA-appointed fiduciary under 38 U.S.C. chapters 55 and 61 or military trustee under 37 U.S.C. 602; and
 
-(f) *How do you apply for an Accelerated Benefit?* (1) You can obtain an application form by writing the Office of Servicemembers' Group Life Insurance, 80 Livingston Avenue, Roseland, New Jersey 07068-1733; calling the Office of Servicemembers' Group Life Insurance toll-free at 1-800-419-1473; or downloading the form from the Internet at *www.insurance.va.gov.* You must submit the completed application form to the Office of Servicemembers' Group Life Insurance, 80 Livingston Avenue, Roseland, New Jersey 07068-1733. 
+(iii) The alternate applicant must sign the SGLV 8284 application form; identify that he or she holds the member's power of attorney to act on the member's behalf or is the member's court-appointed guardian or conservator, VA-appointed fiduciary, or military trustee; and attach the form to a true and correct copy of the power of attorney, court order establishing the guardianship or conservatorship, or documentation designating the alternate applicant as the member's VA-appointed fiduciary or military trustee.
 
-(2) As stated on the application form, you will be required to complete part of the application form and your physician will be required to complete part of the application form. If you are an active duty servicemember, your branch of service will also be required to complete part of the form. 
+(iv) If the member is covered under SGLI, the alternate applicant must submit the application to the member's uniformed service, who then must also complete part of the form and submit it to the Office of Servicemembers' Group Life Insurance. If the member is covered under VGLI, the alternate applicant must submit the completed application form to the Office of Servicemembers' Group Life Insurance.
 
-To Be Completed by Insured Claim for Accelerated Benefits Your name: Social Security Number: Your home address: Date of birth: Branch of Service (if covered under SGLI): Your mailing address (if different from above): Amount of SGLI coverage: $ Amount of claim (can be no more than one-half of coverage in increments of $5,000): Type of coverage (check one): *SGLI* (circle one of the following): *Active Duty Ready Reserve Army or Air National Guard Separated or Discharged**VGLI*Note:
+(d) *Applying for an Accelerated Benefit—Member's Spouse.* (1) If a member's insured spouse (*i.e.,* member's spouse) is terminally ill (*i.e.,* has a life expectancy of nine months or less), only the member can apply for an Accelerated Benefit by completing the SGLV 8284A application form. The member's spouse's physician is required to complete part of the form by certifying that the member's spouse is terminally ill. The member's uniformed service must also complete part of the form and submit it to the Office of Servicemembers' Group Life Insurance.
 
-If you checked SGLI, you must also have your military unit complete the attached form.
+(2) If the member's spouse is terminally ill and the member is medically incapacitated, an alternate applicant acting on behalf of such member can apply for the Accelerated Benefit. The alternate applicant can apply by completing the SGLV 8284A application form if all of the following conditions are met:
 
-I acknowledge that I have read all of the attached information about the accelerated benefit. I understand that I can get this benefit only once during my lifetime and that I can use it for any purpose I choose. I further understand that the face amount of my coverage will reduce by the amount of accelerated benefit I choose to receive now. 
+(i) The member's spouse's physician must certify that the member's spouse is terminally ill;
 
-Your signature: Date: Authorization To Release Medical Records
+(ii) The member's physician must certify that the member is medically incapacitated;
 
-To all physicians, hospitals, medical service providers, pharmacists, employers, other insurance companies, and all other agencies and organizations: 
+(iii) The alternate applicant must have power of attorney, guardianship, or conservatorship over the member, or be the member's VA-appointed fiduciary under 38 U.S.C. chapters 55 and 61 or military trustee under 37 U.S.C. 602; and
 
-You are authorized to release a copy of all my medical records, including examinations, treatments, history, and prescriptions, to the Office of Servicemembers' Group Life Insurance (OSGLI) or its representatives. 
+(iv) The alternate applicant must sign the SGLV 8284A application form; identify that he or she holds the member's power of attorney to act on the member's behalf or is the member's court-appointed guardian or conservator, VA-appointed fiduciary, or military trustee; and attach the form to a true and correct copy of the power of attorney, court order establishing the guardianship or conservatorship, or documentation designating the alternate applicant as the member's VA-appointed fiduciary or military trustee.
 
-Printed name: Signature: Date:
+(v) The member's uniformed service must also complete part of the form and submit it to the Office of Servicemembers' Group Life Insurance.
 
-A photocopy of this authorization will be considered as effective and valid as the original. 
+(e) *Medically Incapacitated.* For the purposes of paragraphs (c) and (d) of this section, the term “medically incapacitated” means that a member has been determined by a medical professional to be physically or mentally impaired by physical disability, mental illness, mental deficiency, advanced age, chronic use of drugs or alcohol, or other causes that prevent sufficient understanding or capacity to manage his or her own affairs competently.
 
-Valid for one year from date signed. 
+(f) *Amount of Accelerated Benefit Request.* (1) A member can request as an Accelerated Benefit an amount up to a maximum of 50% of the face value of the insurance coverage.
 
-To Be Completed by Physician Attending Physician's Certification Patient's name: Patient's Social Security Number: Diagnosis: ICD-9-CM Disease Code \*: Description of present medical condition (please attach results of x-rays, E.K.G. or other tests):
+(2) A member's request for an Accelerated Benefit must be $5,000 or a multiple of $5,000 (for example, $10,000, $15,000).
 
-Is the patient capable of handling his/her own affairs? \_\_\_\_\_\_\_\_ Yes\_\_\_\_ No\_\_\_\_ 
+(g) *Accelerated Benefit Decision.* The Office of Servicemembers' Group Life Insurance will review the application and determine whether a member meets the requirements of this section for receiving an Accelerated Benefit.
 
-The patient applied for an accelerated benefit under his/her government life insurance coverage. To qualify, the patient must have a life expectancy of nine (9) months or less. 
+(1) They will approve the application if the requirements of this section are met.
 
-Does your patient meet this requirement? \_\_\_\_\_\_\_\_ Yes\_\_\_\_ No\_\_\_\_ 
+(2) If the Office of Servicemembers' Group Life Insurance determines that the application form does not fully and legibly provide the information requested by the application form, they will contact the member or their alternate applicant and request that the member or their alternate applicant submit the missing information to them. They will not take action on the application until the information is provided.
 
-Attending Physician's name (please print): State in which you are licensed to practice: Specialty: Mailing address: Telephone number: Fax Number: Signature: Date:
+(h) *Payment of Accelerated Benefit.* An Accelerated Benefit will be paid in a lump sum.
 
-\*ICD-9-CM is an acronym for International Classification of Diseases, 9th revision, Clinical Modification. 
+(i) *Cancellation of Application for Accelerated Benefit.* (1) An election to receive the Accelerated Benefit is made at the time the Accelerated Benefit is cashed or deposited. After that time, the Accelerated Benefit cannot be cancelled. Until that time, a request for the Accelerated Benefit may be cancelled by informing the Office of Servicemembers' Group Life Insurance in writing and returning payment, if issued by check, or stopping payment before deposit in the member's account, if issued by electronic funds transfer. If a member wants to change the amount of benefits requested or decides to reapply after cancelling a request, the member must file another application requesting either the same or a different amount of benefits.
 
-To Be Completed by Personnel Office of Servicemember's Unit (Complete this form only if the applicant for Accelerated Benefits is covered under SGLI.) Branch of Service Statement Servicemember's name: Social Security Number: Branch of Service: Amount of SGLI coverage: $ Monthly premium amount: $ Name of person completing this form: Telephone Number: Fax Number: Title of person completing this form: Duty Station and address: Signature of person completing this form: Date:
+(2) If a member dies before cashing or depositing an Accelerated Benefit payment, the payment must be returned to the Office of Servicemembers' Group Life Insurance.
 
-*Notice:* It is fraudulent to complete these forms with information you know to be false or to omit important facts. Criminal and/or civil penalties can result from such acts.
-
-(g) *Who decides whether or not an Accelerated Benefit will be paid to you?* The Office of Servicemembers' Group Life Insurance will review your application and determine whether you meet the requirements of this section for receiving an Accelerated Benefit. 
-
-(1) They will approve your application if the requirements of this section are met. 
-
-(2) If the Office of Servicemembers' Group Life Insurance determines that your application form does not fully and legibly provide the information requested by the application form, they will contact you and request that you or your physician submit the missing information to them. They will not take action on your application until the information is provided. 
-
-(h) *How will an Accelerated Benefit be paid to you?* An Accelerated Benefit will be paid to you in a lump sum. 
-
-(i) *What happens if you change your mind about an application you filed for Accelerated Benefits?* (1) An election to receive the Accelerated Benefit is made at the time you have cashed or deposited the Accelerated Benefit. After that time, you cannot cancel your request for an Accelerated Benefit. Until that time, you may cancel your request for benefits by informing the Office of Servicemembers' Group Life Insurance in writing that you are canceling your request and by returning the check if you have received one. If you want to change the amount of benefits you requested or decide to reapply after canceling a request, you may file another application in which you request either the same or a different amount of benefits. 
-
-(2) If you die before cashing or depositing an Accelerated Benefit payment, the payment must be returned to the Office of Servicemembers' Group Life Insurance. Their mailing address is 290 W. Mt. Pleasant Avenue, Livingston, New Jersey 07039. 
-
-(j) *If you have cashed or deposited an Accelerated Benefit, are you eligible for additional Accelerated Benefits?* No. 
-
-(Approved by the Office of Management and Budget under control number 2900-0618) (Authority: 38 U.S.C. 1965, 1966, 1967, 1980) \[67 FR 52413, Aug. 12, 2002; 79 FR 44299, July 31, 2014\]
+(Approved by the Office of Management and Budget under control number 2900-0618) (Authority: 38 U.S.C. 1965, 1966, 1967, 1980) \[90 FR 46476, Sept. 29, 2025\]

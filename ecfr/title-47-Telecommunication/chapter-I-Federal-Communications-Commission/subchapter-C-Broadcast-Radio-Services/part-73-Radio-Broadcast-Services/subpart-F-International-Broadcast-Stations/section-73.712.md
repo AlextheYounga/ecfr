@@ -1,6 +1,6 @@
 ##### § 73.712 Equipment tests.
 
-(a) During the process of construction of an international broadcasting station, the permittee, having obtained authorization for frequencies and hours as set forth in the Note to § 73.702(d) may, without further authority of the FCC, conduct equipment tests for the purpose of such adjustments and measurements as may be necessary to assure compliance with the terms of the construction permit, the technical provisions of the application therefor and the rules and regulations. Such tests shall use voice identification and test tones only. No programming shall be conducted during equipment tests.
+(a) During the process of construction of an international broadcasting station, the permittee, having obtained authorization for frequencies and hours as set forth in the Note to § 73.702(d) may, without further authority of the FCC, conduct equipment tests for the purpose of such adjustments and measurements as may be necessary to assure compliance with the terms of the construction permit, the technical provisions of the application therefor and the rules and regulations. Such tests shall use voice identification and test tones only. No programming shall be conducted during equipment tests.*Provided, however,*
 
 (b) The Commission may notify the permittee to conduct no tests or may cancel, suspend, or change the date for the beginning of equipment tests when and if such action may appear to be in the public interest, convenience, and necessity.
 

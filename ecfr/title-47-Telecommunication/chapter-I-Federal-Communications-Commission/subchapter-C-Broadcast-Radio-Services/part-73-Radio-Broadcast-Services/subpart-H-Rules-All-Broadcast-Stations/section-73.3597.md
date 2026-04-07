@@ -1,6 +1,6 @@
 ##### § 73.3597 Procedures on transfer and assignment applications.
 
-(a) If, upon the examination of an application for FCC consent to an assignment of a broadcast construction permit or license or for a transfer of control of a corporate permittee or licensee, it appears that the station involved has been operated on-air by the current licensee or permittee for less than one year, the application will be designated for hearing on appropriate issues unless the FCC is able to find that:
+(a) If, upon the examination of an application for FCC consent to an assignment of a broadcast construction permit or license or for a transfer of control of a corporate permittee or licensee, it appears that the station involved has been operated on-air by the current licensee or permittee for less than one year, the application will be designated for hearing on appropriate issues unless the FCC is able to find that:*pro forma*
 
 (1) The permit or license was not authorized either through the Minority Ownership Policy or after a comparative hearing or, in the case of low power TV and TV translator stations, the permit or license was not authorized after a lottery in which the permittee or licensee benefited from minority or diversity preferences;
 

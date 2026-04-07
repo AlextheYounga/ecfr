@@ -1,6 +1,6 @@
 ##### § 73.267 Determining operating power.
 
-(a) The operating power of each FM station is to be determined by either the direct or indirect method.
+(a) The operating power of each FM station is to be determined by either the direct or indirect method.*Indirect method.*
 
 (b) Direct method. The direct method of power determination for an FM station uses the indications of a calibrated transmission line meter (responsive to relative voltage, current, or power) located at the RF output terminals of the transmitter. This meter must be calibrated whenever there is any indication that the calibration is inaccurate or whenever any component of the metering circuit is repaired or replaced. The calibration must cover, as a minimum, the range from 90% to 105% of authorized power. The meter calibration may be checked by measuring the power at the transmitter terminals while either:
 
@@ -12,7 +12,7 @@
 
 (c) *Indirect method.* The operating power is determined by the indirect method by applying an appropriate factor to the input power to the last radio-frequency power amplifier stage of the transmitter, using the following formula:
 
-Transmitter output power = Ep × Ip × *F*Where: Ep = DC input voltage of final radio stage. Ip = Total DC input current of final radio stage. *F* = Efficiency factor.
+Transmitter output power = Ep × Ip × *F*Where: Ep = DC input voltage of final radio stage. *F*Ip = Total DC input current of final radio stage. *F* = Efficiency factor.
 
 (1) If the above formula is not appropriate for the design of the transmitter final amplifier, use a formula specified by the transmitter manufacturer with other appropriate operating parameters.
 

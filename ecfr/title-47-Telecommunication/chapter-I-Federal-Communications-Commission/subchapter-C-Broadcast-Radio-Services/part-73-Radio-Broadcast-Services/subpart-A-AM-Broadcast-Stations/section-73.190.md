@@ -4,7 +4,7 @@
 
 (b) Formula 1 is used for calculation of 50% skywave field strength values.
 
-Formula 1. Skywave field strength, 50% of the time (at SS + 6):
+Formula 1. Skywave field strength, 50% of the time (at SS + 6):*F*
 
 The skywave field strength, *F*c(50), for a characteristic field strength of 100 mV/m at 1 km is given by:
 
@@ -12,7 +12,7 @@ The skywave field strength, *F*c(50), for a characteristic field strength of 100
 
 The slant distance, *D*, is given by:
 
-![](/graphics/ec13no91.020.gif)The geomagnetic latitude of the midpoint of the path, ΦM, is given by: ΦM = arcsin\[sin *a*M sin 78.5° + cos *a*M cos 78.5° cos(69 + *b*M)\]degrees (Eq. 3) The short great-circle path distance, *d,* is given by: ![](/graphics/ec13no91.021.gif)Where: *d*° = arccos\[sin *a*T sin *a*R + cos *a*T cos *a*R cos(*b*R − *b*T)\]degrees (Eq.5) Where: *a*T is the geographic latitude of the transmitting terminal (degrees) *a*R is the geographic latitude of the receiving terminal (degrees) *b*T is the geographic longitude of the transmitting terminal (degrees) *b*R is the geographic longitude of the receiving terminal (degrees) *a*M is the geographic latitude of the midpoint of the great-circle path (degrees) and is given by: *b*M is the geographic longitude of the midpoint of the great-circle path (degrees) and is given by: ![](/graphics/ec01mr91.069.gif)![](/graphics/ec01mr91.070.gif)
+![](/graphics/ec13no91.020.gif)The geomagnetic latitude of the midpoint of the path, ΦM, is given by: *a*ΦM = arcsin\[sin *a*M sin 78.5° + cos *a*M cos 78.5° cos(69 + *b*M)\]degrees (Eq. 3) The short great-circle path distance, *d,* is given by: ![](/graphics/ec13no91.021.gif)Where: *d*° = arccos\[sin *a*T sin *a*R + cos *a*T cos *a*R cos(*b*R − *b*T)\]degrees (Eq.5) Where: *a*T is the geographic latitude of the transmitting terminal (degrees) *a*R is the geographic latitude of the receiving terminal (degrees) *b*T is the geographic longitude of the transmitting terminal (degrees) *b*R is the geographic longitude of the receiving terminal (degrees) *a*M is the geographic latitude of the midpoint of the great-circle path (degrees) and is given by: *b*M is the geographic longitude of the midpoint of the great-circle path (degrees) and is given by: ![](/graphics/ec01mr91.069.gif)![](/graphics/ec01mr91.070.gif)
 
 Note (1): If |FM| is greater than 60 degrees, equation (1) is evaluated for | FM| = 60 degrees.
 

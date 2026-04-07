@@ -1,6 +1,6 @@
 ##### § 73.322 FM stereophonic sound transmission standards.
 
-(a) An FM broadcast station shall not use 19 kHz ±20 Hz, except as the stereophonic pilot frequency in a transmission system meeting the following parameters:
+(a) An FM broadcast station shall not use 19 kHz ±20 Hz, except as the stereophonic pilot frequency in a transmission system meeting the following parameters:*i.e.*
 
 (1) The modulating signal for the main channel consists of the sum of the right and left signals.
 
