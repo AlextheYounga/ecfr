@@ -1,6 +1,6 @@
 ##### § 926.25 Approval of Montana abandoned mine land reclamation plan amendments.
 
-(a) Montana certification of completing all known coal-related impacts is accepted, effective July 9, 1990.
+(a) Montana certification of completing all known coal-related impacts is accepted, effective July 9, 1990. 
 
 (b) The following is a list of the dates amendments were submitted to OSM, the dates when the Director's decision approving all, or portions of these amendments, were published in the Federal Register and the State citations or a brief description of each amendment. The amendments in this table are listed in order of the date of final publication in the Federal Register.
 
