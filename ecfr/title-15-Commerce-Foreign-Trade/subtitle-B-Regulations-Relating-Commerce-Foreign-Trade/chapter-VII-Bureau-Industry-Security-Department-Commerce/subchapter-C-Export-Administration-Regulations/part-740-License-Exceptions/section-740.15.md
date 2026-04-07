@@ -10,7 +10,7 @@ This License Exception authorizes departure from the United States of foreign re
 
 (iii) It does not carry from the United States any item for which an export license is required and has not been granted by the U.S. Government.
 
-(2) *U.S. registered aircraft.* (i) A civil aircraft of U.S. registry operating under an Air Carrier Operating Certificate, Commercial Operating Certificate, or Air Taxi Operating Certificate issued by the Federal Aviation Administration or conducting flights under operating specifications approved by the Federal Aviation Administration pursuant to 14 CFR part 129 of the regulations of the Federal Aviation Administration, may depart from the United States under its own power for any destination, provided that:
+(2) *U.S. registered aircraft.* (i) A civil aircraft of U.S. registry operating under an Air Carrier Operating Certificate, Commercial Operating Certificate, or Air Taxi Operating Certificate issued by the Federal Aviation Administration (FAA), conducting flights under operating specifications approved by the FAA pursuant to 14 CFR part 129, or air ambulances operating under 14 CFR part 135, may depart from the United States under its own power for any destination, provided that:
 
 (A) The aircraft does not depart for the purpose of sale, lease or other disposition of operational control of the aircraft, or its equipment, parts, accessories, or components to a foreign country or any national thereof;
 
@@ -20,7 +20,7 @@ This License Exception authorizes departure from the United States of foreign re
 
 (D) The aircraft does not carry from the United States any item for which a license is required and has not been granted by the U.S. Government.
 
-(ii) Any other operating civil aircraft of U.S. registry may depart from the United States under its own power for any destination, except to a destination in Country Group E:1 (see supplement no. 1 to this part) (flights to these destinations require a license), provided that:
+(ii) Any other operating civil aircraft of U.S. registry may depart from the United States under its own power for any destination, except to Cuba or a destination in Country Group E:1 (see supplement no. 1 to this part) (flights to these destinations require a license), provided that:
 
 (A) The aircraft does not depart for the purpose of sale, lease or other disposition of operational control of the aircraft, or its equipment, parts, accessories, or components to a foreign country or any national thereof;
 
@@ -166,19 +166,9 @@ An aircraft exported or reexported to a country pursuant to this paragraph (a) m
 
 (5) No vessels may be exported or reexported under this License Exception to a country in Country Group E:1.
 
-(6) *Cuba, eligible vessels and purposes.* Only the types of vessels listed in this paragraph (d)(6) departing for Cuba for the purposes listed in this paragraph (d)(6) may depart for Cuba pursuant to this paragraph (d). Vessels used to transport both passengers and items to Cuba may transport automobiles only if the export or reexport of the automobiles to Cuba has been authorized by a separate license issued by BIS (*i.e.,* not authorized by license exception).
+(6) *Cuba, eligible vessels and purposes.* For Cuba, only cargo vessels for hire for use in the transportation of items are eligible for this paragraph (d).
 
-(i) Cargo vessels for hire for use in the transportation of items;
-
-(ii) Passenger vessels for hire for use in the transportation of passengers and/or items; and
-
-(iii) Recreational vessels that are used in connection with travel authorized by the Department of the Treasury, Office of Foreign Assets Control (OFAC).
-
-Note to paragraph (d)(6)(iii):
-
-Readers should also consult U.S. Coast Guard regulations at 33 CFR part 107 Subpart B - Unauthorized Entry into Cuban Territorial Waters.
-
-Note to paragraph (d).
+Note 1 to paragraph (d).
 
 A vessel exported or reexported to a country pursuant to this paragraph (d) may not remain in that country for more than 14 consecutive days before it departs for a country to which it may be exported without a license or the United States.
 
