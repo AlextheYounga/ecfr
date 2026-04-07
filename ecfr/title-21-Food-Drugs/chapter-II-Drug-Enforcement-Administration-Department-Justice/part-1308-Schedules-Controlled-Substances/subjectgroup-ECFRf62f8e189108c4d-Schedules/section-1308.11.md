@@ -4,7 +4,7 @@ Link to an amendment published at 84 FR 13796, Apr. 8, 2019.
 
 (a) Schedule I shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
 
-(b) *Opiates.* Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers and salts is possible within the specific chemical de signation (for purposes of paragraph (b)(39) only, the term isomer includes the optical and geometric isomers):
+(b) *Opiates.* Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers and salts is possible within the specific chemical designation (for purposes of 3-methylthiofentanyl only, the term isomer includes the optical and geometric isomers):
 
 (1) Acetyl-alpha-methylfentanyl (N-\[1-(1-methyl-2-phenethyl)-4-piperidinyl\]-N-phenylacetamide)
 
@@ -18,7 +18,7 @@ Link to an amendment published at 84 FR 13796, Apr. 8, 2019.
 
 9821 
 
-4) Acryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide; other name: acryloylfentanyl)
+(4) Acryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide; other name: acryloylfentanyl)
 
 9811 
 
@@ -66,203 +66,207 @@ Link to an amendment published at 84 FR 13796, Apr. 8, 2019.
 
 9831 
 
-(16) Betameprodine
+(16) N-\[1-\[2-hydroxy-2-(thiophen-2-yl)ethyl\]piperidin-4-yl\]-N-phenylpropionamide (Other name: beta-Hydroxythiofentanyl)
+
+9836 
+
+(17) Betameprodine
 
 9608 
 
-(17) Betamethadol
+(18) Betamethadol
 
 9609 
 
-(18) Betaprodine
+(19) Betaprodine
 
 9611 
 
-(19) Butyryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylbutyramide)
+(20) Butyryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylbutyramide)
 
 9822 
 
-(20) Clonitazene
+(21) Clonitazene
 
 9612 
 
-(21) Dextromoramide
+(22) Dextromoramide
 
 9613 
 
-(22) Diampromide
+(23) Diampromide
 
 9615 
 
-(23) Diethylthiambutene
+(24) Diethylthiambutene
 
 9616 
 
-(24) Difenoxin
+(25) Difenoxin
 
 9168 
 
-(25) Dimenoxadol
+(26) Dimenoxadol
 
 9617 
 
-(26) Dimepheptanol
+(27) Dimepheptanol
 
 9618 
 
-(27) Dimethylthiambutene
+(28) Dimethylthiambutene
 
 9619 
 
-(28) Dioxaphetyl butyrate
+(29) Dioxaphetyl butyrate
 
 9621 
 
-(29) Dipipanone
+(30) Dipipanone
 
 9622 
 
-(30) Ethylmethylthiambutene
+(31) Ethylmethylthiambutene
 
 9623 
 
-(31) Etonitazene
+(32) Etonitazene
 
 9624 
 
-(32) Etoxeridine
+(33) Etoxeridine
 
 9625 
 
-(33) 4-Fluoroisobutyryl fentanyl (N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide; other name: para-fluoroisobutyryl fentanyl)
+(34) 4-Fluoroisobutyryl fentanyl (N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide; other name: para-fluoroisobutyryl fentanyl)
 
 9824 
 
-(34) Furanyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylfuran-2-carboxamide)
+(35) Furanyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylfuran-2-carboxamide)
 
 9834 
 
-(35) Furethidine
+(36) Furethidine
 
 9626 
 
-(36) Hydroxypethidine
+(37) Hydroxypethidine
 
 9627 
 
-(37) Ketobemidone
+(38) Ketobemidone
 
 9628 
 
-(38) Levomoramide
+(39) Levomoramide
 
 9629 
 
-(39) Levophenacylmorphan
+(40) Levophenacylmorphan
 
 9631 
 
-(40) 3-Methylfentanyl (N-\[3-methyl-1-(2-phenylethyl)-4-piperidyl\]-N-phenylpropanamide)
+(41) 3-Methylfentanyl (N-\[3-methyl-1-(2-phenylethyl)-4-piperidyl\]-N-phenylpropanamide)
 
 9813 
 
-(41) 3-methylthiofentanyl (N-\[(3-methyl-1-(2-thienyl)ethyl-4-piperidinyl\]-N-phenylpropanamide)
+(42) 3-methylthiofentanyl (N-\[(3-methyl-1-(2-thienyl)ethyl-4-piperidinyl\]-N-phenylpropanamide)
 
 9833 
 
-(42) Morpheridine
+(43) Morpheridine
 
 9632 
 
-(43) MPPP (1-methyl-4-phenyl-4-propionoxypiperidine)
+(44) MPPP (1-methyl-4-phenyl-4-propionoxypiperidine)
 
 9661 
 
-(44) MT-45 (1-cyclohexyl-4-(1,2-diphenylethyl)piperazine)
+(45) MT-45 (1-cyclohexyl-4-(1,2-diphenylethyl)piperazine)
 
 (9560) 
 
-(45) Noracymethadol
+(46) Noracymethadol
 
 9633 
 
-(46) Norlevorphanol
+(47) Norlevorphanol
 
 9634 
 
-(47) Normethadone
+(48) Normethadone
 
 9635 
 
-(48) Norpipanone
+(49) Norpipanone
 
 9636 
 
-(49) Ocfentanil (N-(2-fluorophenyl)-2-methoxy-N-(1-phenethylpiperidin-4-yl)acetamide)
+(50) Ocfentanil (N-(2-fluorophenyl)-2-methoxy-N-(1-phenethylpiperidin-4-yl)acetamide)
 
 9838 
 
-(50) Para-fluorofentanyl (N-(4-fluorophenyl)-N-\[1-(2-phenethyl)-4-piperidinyl\] propanamide
+(51) Para-fluorofentanyl (N-(4-fluorophenyl)-N-\[1-(2-phenethyl)-4-piperidinyl\] propanamide
 
 9812 
 
-(51) PEPAP (1-(-2-phenethyl)-4-phenyl-4-acetoxypiperidine
+(52) PEPAP (1-(-2-phenethyl)-4-phenyl-4-acetoxypiperidine
 
 9663 
 
-(52) Phenadoxone
+(53) Phenadoxone
 
 9637 
 
-(53) Phenampromide
+(54) Phenampromide
 
 9638 
 
-(54) Phenomorphan
+(55) Phenomorphan
 
 9647 
 
-(55) Phenoperidine
+(56) Phenoperidine
 
 9641 
 
-(56) Piritramide
+(57) Piritramide
 
 9642 
 
-(57) Proheptazine
+(58) Proheptazine
 
 9643 
 
-(58) Properidine
+(59) Properidine
 
 9644 
 
-(59) Propiram
+(60) Propiram
 
 9649 
 
-(60) Racemoramide
+(61) Racemoramide
 
 9645 
 
-(61) Tetrahydrofuranyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenyltetrahydrofuran-2-carboxamide)
+(62) Tetrahydrofuranyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenyltetrahydrofuran-2-carboxamide)
 
 9843 
 
-(62) Thiofentanyl (N-phenyl-N-\[1-(2-thienyl)ethyl-4-piperidinyl\]-propanamide
+(63) Thiofentanyl (N-phenyl-N-\[1-(2-thienyl)ethyl-4-piperidinyl\]-propanamide
 
 9835 
 
-(63) Tilidine
+(64) Tilidine
 
 9750 
 
-(64) Trimeperidine
+(65) Trimeperidine
 
 9646 
 
-(65) U-47700 (3,4-Dichloro-N-\[2-(dimethylamino)cyclohexyl\]-N-methylbenzamide)
+(66) U-47700 (3,4-Dichloro-N-\[2-(dimethylamino)cyclohexyl\]-N-methylbenzamide)
 
 9547
 
@@ -810,9 +814,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (2) \[Reserved\] 
 
-(3) N-\[1-\[2-hydroxy-2-(thiophen-2-yl)ethyl\]piperidin-4-yl\]-N-phenylpropionamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: beta-hydroxythiofentanyl)
-
-(9836) 
+(3) \[Reserved\] 
 
 (4) \[Reserved\] 
 
@@ -900,7 +902,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (30) Fentanyl-related substances, their isomers, esters, ethers, salts and salts of isomers, esters and ethers
 
-9850 
+9850
 
 (i) Fentanyl-related substance means any substance not otherwise listed under another Administration Controlled Substance Code Number, and for which no exemption or approval is in effect under section 505 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355\], that is structurally related to fentanyl by one or more of the following modifications:
 
@@ -960,7 +962,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (41) (1-(4-fluorobenzyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl) methanone, its optical, positional, and geometric isomers, salts and salts of isomers (trivial name: FUB-144)
 
-7014 
+7014
 
 \[39 FR 22141, June 20, 1974\] Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:At 82 FR 17123, Apr. 10, 2017, § 1308.11 was amended by adding paragraphs (h)(10) through (15), effective Apr. 10. 2017 through Apr. 10, 2019. At 84 FR 13796, Apr. 8, 2019, § 1308.11 was amended by extending the above effective date from Apr. 10, 2019 to Apr. 10, 2020. 2\. At 82 FR 20547, May 3, 2017, § 1308.11 was amended by adding (h)(16), effective May 3, 2017, until May 3, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(16) as paragraph (h)(13).
 
