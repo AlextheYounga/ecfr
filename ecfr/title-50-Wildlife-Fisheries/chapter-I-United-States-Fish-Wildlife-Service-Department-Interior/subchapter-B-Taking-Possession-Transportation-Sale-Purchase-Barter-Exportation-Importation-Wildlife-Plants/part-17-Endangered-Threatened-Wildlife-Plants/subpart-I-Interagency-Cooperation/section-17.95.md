@@ -9318,6 +9318,8 @@ Critical Habitat Map Unit
 
 For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
+Link to an amendment published at 88 FR 13065, Mar. 2, 2023.
+
 (c) *Reptiles.*
 
 Culebra Island Giant Anole (*Anolis roosevetti*) Note:

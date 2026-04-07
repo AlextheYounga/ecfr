@@ -1,84 +1,108 @@
 ##### § 1.1104 Schedule of charges for applications and other filings for media services.
 
-Link to an amendment published at 88 FR 6171, Jan. 31, 2023.
-
-Remit payment for these services electronically using the Commission's electronic payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees.* The asterisk (\*) indicates that multiple stations and multiple fee submissions are acceptable within the same payment.
-
 Table 1 to § 1.1104
 
-|                                                                                                                            | New fee                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Application for Full Power and Class A TV:                                                                                 |                                                                                                                  |
-| Full Power TV, Class A TV, new and major change construction permit                                                        | $4,260 (if no auction).   $4,835 (if auction - includes Post-Auction Consolidated Long Form and Short Form Fee). |
-| Full Power TV, minor modification construction permit                                                                      | $1,335.                                                                                                          |
-| Full Power TV, Class A TV, new license                                                                                     | $380.                                                                                                            |
-| Full Power TV, Class A TV, license renewal                                                                                 | $330.                                                                                                            |
-| Full Power TV, Class A TV, license assignment, long form                                                                   | $1,245.                                                                                                          |
-| Full Power TV, Class A TV, license assignment, short form                                                                  | $405.                                                                                                            |
-| Full Power TV, Class A TV, transfer of control, long form                                                                  | $1,245.                                                                                                          |
-| Full Power TV, Class A TV, transfer of control, short form                                                                 | $405.                                                                                                            |
-| Full Power TV, Class A TV, call sign                                                                                       | $170.                                                                                                            |
-| Full Power TV, Class A TV, STA                                                                                             | $270.                                                                                                            |
-| Full Power TV, petition for rulemaking                                                                                     | $3,395.                                                                                                          |
-| Full Power TV, ownership report                                                                                            | $85.                                                                                                             |
-| Application for TV translator and LPTV:                                                                                    |                                                                                                                  |
-| TV translator and LPTV, new or major change construction permit                                                            | $775 (if no auction).   $1,350 (if auction - includes Consolidated Long Form and Short Form Fee).                |
-| TV translator and LPTV, new license                                                                                        | $215.                                                                                                            |
-| TV translator and LPTV, license renewal                                                                                    | $145.                                                                                                            |
-| TV translator and LPTV, STA                                                                                                | $270.                                                                                                            |
-| TV translator and LPTV, license assignment                                                                                 | $335.                                                                                                            |
-| TV translator and LPTV, transfer of control                                                                                | $335.                                                                                                            |
-| TV translator and LPTV, call sign                                                                                          | $170.                                                                                                            |
-| Application for Cable Television and CARS License:                                                                         |                                                                                                                  |
-| Cable television, CARS license                                                                                             | $450.                                                                                                            |
-| Cable television, CARS license modification, major                                                                         | $345.                                                                                                            |
-| Cable television, CARS license modification, minor                                                                         | $50.                                                                                                             |
-| Cable television, CARS license renewal                                                                                     | $260.                                                                                                            |
-| Cable television, CARS, license assignment                                                                                 | $365.                                                                                                            |
-| Cable television, CARS, transfer of control                                                                                | $465.                                                                                                            |
-| Cable television, CARS, STA                                                                                                | $225.                                                                                                            |
-| Cable television, special relief petition                                                                                  | $1,615.                                                                                                          |
-| Cable television, CARS license, registration statement                                                                     | $105.                                                                                                            |
-| Cable television, multichannel video programming distributor (MVPD) aeronautical frequency usage notification              | $90.                                                                                                             |
-| Application for Commercial AM Stations:                                                                                    |                                                                                                                  |
-| AM radio new or major change construction permit                                                                           | $3,980 (if no auction).   $4,555 (if auction - includes Consolidated Long Form and Short Form Fee).              |
-| AM radio, minor modification construction permit                                                                           | $1,625.                                                                                                          |
-| AM radio, new license                                                                                                      | $645.                                                                                                            |
-| AM radio, directional antenna                                                                                              | $1,260.                                                                                                          |
-| AM radio, license renewal                                                                                                  | $325.                                                                                                            |
-| AM radio, license assignment, long-form                                                                                    | $1,005.                                                                                                          |
-| AM radio, license assignment, short-form                                                                                   | $425.                                                                                                            |
-| AM radio, transfer of control, long-form                                                                                   | $1,005.                                                                                                          |
-| AM radio, transfer of control, short-form                                                                                  | $425.                                                                                                            |
-| AM radio, call sign                                                                                                        | $170.                                                                                                            |
-| AM radio, STA                                                                                                              | $290.                                                                                                            |
-| AM radio, ownership report                                                                                                 | $85.                                                                                                             |
-| Application for Commercial FM Stations:                                                                                    |                                                                                                                  |
-| FM radio new or major change construction permit                                                                           | $3,295 (if no auction).   $3,870 (if auction - includes Consolidated Long Form and Short Form Fee).              |
-| FM radio, minor modification construction permit                                                                           | $1,265.                                                                                                          |
-| FM radio, new license                                                                                                      | $235.                                                                                                            |
-| FM radio, directional antenna                                                                                              | $630.                                                                                                            |
-| FM radio, license renewal                                                                                                  | $325.                                                                                                            |
-| FM radio, license assignment, long-form                                                                                    | $1,005.                                                                                                          |
-| FM radio, license assignment, short-form                                                                                   | $425.                                                                                                            |
-| FM radio, transfer of control, long-form                                                                                   | $1,005.                                                                                                          |
-| FM radio, transfer of control, short-form                                                                                  | $425.                                                                                                            |
-| FM radio, call sign                                                                                                        | $170.                                                                                                            |
-| FM radio, STA                                                                                                              | $210.                                                                                                            |
-| FM radio, petition for rulemaking                                                                                          | $3,180.                                                                                                          |
-| FM radio, ownership report                                                                                                 | $85.                                                                                                             |
-| Application for FM Translators:                                                                                            |                                                                                                                  |
-| FM translator new or major change construction permit                                                                      | $705.   $1,280 (if auction - includes Consolidated Long Form and Short Form Fee).                                |
-| FM translator, minor modification construction permit                                                                      | $210.                                                                                                            |
-| FM translator, new license                                                                                                 | $180.                                                                                                            |
-| FM translator and booster, license renewal                                                                                 | $175.                                                                                                            |
-| FM translator and booster, STA                                                                                             | $170.                                                                                                            |
-| FM translator, license assignment                                                                                          | $290.                                                                                                            |
-| FM translator, transfer of control                                                                                         | $290.                                                                                                            |
-| FM booster, new or major change construction permit                                                                        | $705.                                                                                                            |
-| FM booster, new license fee                                                                                                | $180.                                                                                                            |
-| FM booster, STA                                                                                                            | $170.                                                                                                            |
-| Application for Section 310(b)(4) Foreign Ownership Petition:                                                              |                                                                                                                  |
-| Section 310(b)(4) Foreign Ownership Petition (separate and additional to fee required for underlying application, if any). | $2,485.                                                                                                          |
+| Full power commercial and class A television stations     |
+| --------------------------------------------------------- |
+| New or Major Change, Construction Permit                  |
+| New or Major Change, Construction Permit                  |
+| Minor Modification, Construction Permit                   |
+| New License                                               |
+| License Renewal                                           |
+| License Assignment (2100 Schedule 314 & 159 (long form)   |
+| License Assignment (2100 Schedule 316 & 159 (short form)  |
+| Transfer of Control (2100 Schedule 315 & 159 (long form)  |
+| Transfer of Control (2100 Schedule 316 & 159 (short form) |
+| Call Sign                                                 |
+| Special Temporary Authority                               |
+| Petition for Rulemaking for New Community of License      |
+| Biennial Ownership Report (Full Power TV Stations Only)   |
 
-\[83 FR 38046, Aug. 3, 2018, as amended at 86 FR 11149, Feb. 24, 2021; 86 FR 15063, Mar. 19, 2021\]
+Table 2 to § 1.1104
+
+| Commercial AM radio stations                              |
+| --------------------------------------------------------- |
+| New or Major Change, Construction Permit                  |
+| New or Major Change, Construction Permit                  |
+| Minor Modification, Construction Permit                   |
+| New License                                               |
+| AM Directional Antenna                                    |
+| License Renewal                                           |
+| License Assignment (2100 Schedule 314 & 159 (long form)   |
+| License Assignment (2100 Schedule 316 & 159 (short form)  |
+| Transfer of Control (2100 Schedule 315 & 159 (long form)  |
+| Transfer of Control (2100 Schedule 316 & 159 (short form) |
+| Call Sign                                                 |
+| Special Temporary Authority                               |
+| Biennial Ownership Report                                 |
+
+Table 3 to § 1.1104
+
+| Commercial FM radio stations                              |
+| --------------------------------------------------------- |
+| New or Major Change, Construction Permit                  |
+| New or Major Change, Construction Permit                  |
+| Minor Modification, Construction Permit                   |
+| New License                                               |
+| FM Directional Antenna                                    |
+| License Renewal                                           |
+| License Assignment (2100 Schedule 314 & 159 (long form)   |
+| License Assignment (2100 Schedule 316 & 159 (short form)  |
+| Transfer of Control (2100 Schedule 315 & 159 (long form)  |
+| Transfer of Control (2100 Schedule 316 & 159 (short form) |
+| Call Sign                                                 |
+| Special Temporary Authority                               |
+| Petition for Rulemaking for New Community of License      |
+| Biennial Ownership Report                                 |
+
+Table 4 to § 1.1104
+
+| FM translators                                                                    |
+| --------------------------------------------------------------------------------- |
+| New or Major Change, Construction Permit                                          |
+| New or Major Change, Construction Permit                                          |
+| Minor Modification, Construction Permit                                           |
+| New License                                                                       |
+| FM Translator/Booster License Renewal                                             |
+| FM Translator/Booster Spec. Temp. Auth.                                           |
+| FM Translator License Assignment (2100 Schedule 345 & 159, 314 & 159, 316 & 159)  |
+| FM Translator Transfer of Control (2100 Schedule 345 & 159, 315 & 159, 316 & 159) |
+| FM Booster, New or Major Change, Construction Permit                              |
+| FM Booster, New License                                                           |
+| FM Booster, Special Temporary Authority                                           |
+
+Table 5 to § 1.1104
+
+| Section 310 (b)(4) Foreign Ownership Petition                                                        |
+| ---------------------------------------------------------------------------------------------------- |
+| Foreign Ownership Petition (separate and additional fee required for underlying application, if any) |
+
+Table 6 to § 1.1104
+
+| TV translators and LPTV stations                                    |
+| ------------------------------------------------------------------- |
+| New or Major Change, Construction Permit                            |
+| New or Major Change, Construction Permit                            |
+| New License                                                         |
+| License Renewal                                                     |
+| Special Temporary Authority                                         |
+| License Assignment (2100 Schedule 345 & 159, 314 & 159, 316 & 159)  |
+| Transfer of Control (2100 Schedule 345 & 159, 315 & 159, 316 & 159) |
+| Call Sign                                                           |
+
+Table 7 to § 1.1104
+
+| Cable television and cars license services           |
+| ---------------------------------------------------- |
+| Cable TV & CARS New License                          |
+| Cable TV & CARS License, Modification (Major)        |
+| Cable TV & CARS License, Modification (Minor)        |
+| Cable TV & CARS License, Renewal                     |
+| Cable TV & CARS License, Assignment                  |
+| Cable TV & CARS License, Transfer of Control         |
+| Cable TV & CARS License, Special Temporary Authority |
+| Cable TV, Special Relief Petition                    |
+| Cable TV & CARS License, Registration Statement      |
+| Cable TV & MVPD, Aeronautical Frequency Notification |
+
+\[88 FR 6171, Jan. 31, 2023\]
