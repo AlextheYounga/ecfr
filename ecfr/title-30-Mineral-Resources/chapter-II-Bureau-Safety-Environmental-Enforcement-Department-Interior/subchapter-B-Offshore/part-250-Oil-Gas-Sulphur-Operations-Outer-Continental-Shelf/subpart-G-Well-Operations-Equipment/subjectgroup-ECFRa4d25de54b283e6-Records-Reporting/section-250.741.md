@@ -1,6 +1,6 @@
 ##### § 250.741 How long must I keep records?
 
-You must keep records for the time periods shown in the following table.
+You must keep records for the time periods shown in the following table. 
 
 | You must keep records relating to . . .                                                                                                         | Until . . .                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |

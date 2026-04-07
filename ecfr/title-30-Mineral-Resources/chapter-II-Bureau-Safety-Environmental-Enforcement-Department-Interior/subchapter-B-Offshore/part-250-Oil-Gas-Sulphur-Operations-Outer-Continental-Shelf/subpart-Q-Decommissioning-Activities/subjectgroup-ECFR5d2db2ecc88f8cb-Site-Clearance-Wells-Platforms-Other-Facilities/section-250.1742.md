@@ -1,6 +1,6 @@
 ##### § 250.1742 What other methods can I use to verify that a site is clear?
 
-If you do not trawl a site, you can verify that the site is clear of obstructions by using any of the methods shown in the following table:
+If you do not trawl a site, you can verify that the site is clear of obstructions by using any of the methods shown in the following table: 
 
 | If you use . . .                        | You must . . .                                                                                                      | And you must . . .                                                                                                     |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |

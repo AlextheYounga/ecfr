@@ -1,30 +1,30 @@
 ##### § 250.860 Chemical firefighting system.
 
-For fixed platforms:
+For fixed platforms: 
 
-(a) On minor unmanned platforms, you may use a U.S. Coast Guard type and size rating “B-II” portable dry chemical unit (with a minimum UL Rating (US) of 60-B:C) or a 30-pound portable dry chemical unit, in lieu of a water system, as long as you ensure that the unit is available on the platform when personnel are on board.
+(a) On minor unmanned platforms, you may use a U.S. Coast Guard type and size rating “B-II” portable dry chemical unit (with a minimum UL Rating (US) of 60-B:C) or a 30-pound portable dry chemical unit, in lieu of a water system, as long as you ensure that the unit is available on the platform when personnel are on board. 
 
-(1) A minor platform is a structure with zero to five completions and no more than one item of production processing equipment.
+(1) A minor platform is a structure with zero to five completions and no more than one item of production processing equipment. 
 
-(2) An unmanned platform is one that is not attended 24 hours a day or one on which personnel are not quartered overnight.
+(2) An unmanned platform is one that is not attended 24 hours a day or one on which personnel are not quartered overnight. 
 
-(b) On major platforms and minor manned platforms, you may use a firefighting system using chemicals-only in lieu of a water-based system if the District Manager determines that the use of a chemical system provides equivalent fire-protection control and would not increase the risk to human safety.
+(b) On major platforms and minor manned platforms, you may use a firefighting system using chemicals-only in lieu of a water-based system if the District Manager determines that the use of a chemical system provides equivalent fire-protection control and would not increase the risk to human safety. 
 
-(1) A major platform is a structure with either six or more completions or zero to five completions with more than one item of production processing equipment.
+(1) A major platform is a structure with either six or more completions or zero to five completions with more than one item of production processing equipment. 
 
-(2) A minor platform is a structure with zero to five completions and no more than one item of production processing equipment.
+(2) A minor platform is a structure with zero to five completions and no more than one item of production processing equipment. 
 
-(3) A manned platform is one that is attended 24 hours a day or one on which personnel are quartered overnight.
+(3) A manned platform is one that is attended 24 hours a day or one on which personnel are quartered overnight. 
 
-(c) On major platforms and minor manned platforms, to obtain approval to use a chemical-only fire prevention and control system in lieu of a water system under paragraph (b) of this section, you must submit to the District Manager:
+(c) On major platforms and minor manned platforms, to obtain approval to use a chemical-only fire prevention and control system in lieu of a water system under paragraph (b) of this section, you must submit to the District Manager: 
 
-(1) A justification for asserting that the use of a chemical system provides equivalent fire-protection control. The justification must address fire prevention, fire protection, fire control, and firefighting on the platform; and
+(1) A justification for asserting that the use of a chemical system provides equivalent fire-protection control. The justification must address fire prevention, fire protection, fire control, and firefighting on the platform; and 
 
-(2) A risk assessment demonstrating that a chemical-only system would not increase the risk to human safety. You must provide the following and any other important information in your risk assessment:
+(2) A risk assessment demonstrating that a chemical-only system would not increase the risk to human safety. You must provide the following and any other important information in your risk assessment: 
 
 | For the use of a chemical firefighting system on major and minor manned platforms, you must provide the following in your risk assessment . . . | Including . . .                                                                                                                                                                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| (i) Platform descriptioni.e.,                                                                                                                   | (A) The type and quantity of hydrocarbons (i.e., natural gas, oil) that are produced, handled, stored, or processed at the facility.                                                                                                                                                                                            |
+| (i) Platform description                                                                                                                        | (A) The type and quantity of hydrocarbons (i.e., natural gas, oil) that are produced, handled, stored, or processed at the facility.                                                                                                                                                                                            |
 |                                                                                                                                                 | (B) The capacity of any tanks on the facility that you use to store either liquid hydrocarbons or other flammable liquids.                                                                                                                                                                                                      |
 |                                                                                                                                                 | (C) The total volume of flammable liquids (other than produced hydrocarbons) stored on the facility in containers other than bulk storage tanks. Include flammable liquids stored in paint lockers, storerooms, and drums.                                                                                                      |
 |                                                                                                                                                 | (D) If the facility is manned, provide the maximum number of personnel on board and the anticipated length of their stay.                                                                                                                                                                                                       |
