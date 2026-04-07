@@ -32,7 +32,7 @@
 
 (3) *“All other” requesters:* The direct costs of search and duplication of records. The first 100 pages of duplication and the first two hours of search time shall be provided without charge.
 
-(e) *Schedule of fees* - (1) *Manual searches.* Personnel search time includes time expended in either manual searches for paper records, searches using indices, review of computer search results for relevant records, and personal computer system searches.
+(e) *Schedule of fees*—(1) *Manual searches.* Personnel search time includes time expended in either manual searches for paper records, searches using indices, review of computer search results for relevant records, and personal computer system searches.
 
 (2) *Computer searches.* The direct costs of conducting a computer search will be charged. These direct costs will include the cost of operating a central processing unit for that portion of the operating time that is directly attributable to searching for responsive records as well as the costs of operator/programmer salary apportionable to the search.
 
@@ -40,13 +40,13 @@
 
 (4) *Review fees.* Review fees will be assessed for commercial use requests. Such fees will be assessed for review conducted in making an initial determination, or upon appeal, when review is conducted to determine whether an exemption not previously considered is applicable.
 
-(5) *Charges for other services.* The actual cost or amount shall be charged for all other types of output, production, and duplication (*e.g.,* photographs, maps, or printed materials). Determinations of actual cost shall include the commercial cost of the media, the personnel time expended in making the item available for release, and an allocated cost for the equipment used in producing the item. The requesting party will be charged actual production costs when a commercial service is required. Items published and available through Amtrak will be made available at the publication price.
+(5) *Charges for other services.* The actual cost or amount shall be charged for all other types of output, production, and duplication (e.g., photographs, maps, or printed materials). Determinations of actual cost shall include the commercial cost of the media, the personnel time expended in making the item available for release, and an allocated cost for the equipment used in producing the item. The requesting party will be charged actual production costs when a commercial service is required. Items published and available through Amtrak will be made available at the publication price.
 
 (6) *Charges for special services.* Apart from the other provisions of this section, when Amtrak chooses as a matter of discretion to provide a special service such as sending records by other than ordinary mail, the direct costs of providing such services shall be charged.
 
 (f) *Commitment to pay fees.* When Amtrak determines or estimates that applicable fees will likely exceed $25.00, the requesting party will be notified of the actual or estimated amount unless a written statement has been received indicating a willingness to pay all fees. To protect requesters from large and/or unexpected fees, Amtrak will request a specific commitment when it is estimated or determined that fees will exceed $100.00. See § 701.5(d) for additional information.
 
-(g) *Restrictions in accessing fees* - (1) *General.* Fees for search and review will not be charged for a quarter-hour period unless more than half of that period is required.
+(g) *Restrictions in accessing fees*—(1) *General.* Fees for search and review will not be charged for a quarter-hour period unless more than half of that period is required.
 
 (2) *Minimum fee.* No fees will be charged if the cost of collecting the fee is equal to or greater than the fee itself. That cost includes the costs to Amtrak for billing, receiving, recording, and processing the fee for deposit, which has been deemed to be $10.00.
 
@@ -68,7 +68,7 @@
 
 (j) *Charging interest.* Amtrak may charge interest on any unpaid bill for processing charges starting on the 31st day following the date of billing the requester. Interest charges will be assessed at the rate that Amtrak pays for short-term borrowing.
 
-(k) *Waiver or reduction of fees* - (1) *Automatic waiver of fees.* When the costs for a FOIA request total $10.00 or less, fees shall be waived automatically for all requesters regardless of category.
+(k) *Waiver or reduction of fees*—(1) *Automatic waiver of fees.* When the costs for a FOIA request total $10.00 or less, fees shall be waived automatically for all requesters regardless of category.
 
 (2) *Other fee waivers.* Decisions to waive or reduce fees that exceed the automatic waiver threshold shall be made on a case-by-case basis. Records responsive to a request will be furnished without charge or at below the established charge where Amtrak determines, based on all available information, that disclosure of the requested information is in the public interest because:
 
@@ -78,19 +78,19 @@
 
 (3) To determine whether the fee waiver requirement in paragraph (k)(2)(i) of this section is met, Amtrak will consider the following factors:
 
-(i) *The subject of the request - whether the subject of the requested records concerns the operations or activities of Amtrak.* The subject of the requested records must concern identifiable operations or activities of Amtrak with a connection that is direct and clear, not remote or attenuated.
+(i) *The subject of the request—whether the subject of the requested records concerns the operations or activities of Amtrak.* The subject of the requested records must concern identifiable operations or activities of Amtrak with a connection that is direct and clear, not remote or attenuated.
 
-(ii) *The informative value of the information to be disclosed - whether the disclosure is likely to contribute to an understanding of Amtrak operations or activities.* The disclosable portions of the requested records must be meaningfully informative about Amtrak's operations or activities in order to be found to be likely to contribute to an increased public understanding of those operations or activities. The disclosure of information that already is in the public domain, in either a duplicative or a substantially identical form, would not be as likely to contribute to such understanding where nothing new would be added to the public's understanding.
+(ii) *The informative value of the information to be disclosed—whether the disclosure is likely to contribute to an understanding of Amtrak operations or activities.* The disclosable portions of the requested records must be meaningfully informative about Amtrak's operations or activities in order to be found to be likely to contribute to an increased public understanding of those operations or activities. The disclosure of information that already is in the public domain, in either a duplicative or a substantially identical form, would not be as likely to contribute to such understanding where nothing new would be added to the public's understanding.
 
-(iii) *The contribution to an understanding of the subject by the public likely to result from disclosure - whether disclosure of the requested information will contribute to public understanding.* The disclosure must contribute to the understanding of a reasonably broad audience of persons interested in the subject as opposed to the individual understanding of the requester. A requester's ability and expertise in the subject area as well as the requester's intention to effectively convey information to the public shall be considered. It shall be presumed that a representative of the news media will satisfy this consideration.
+(iii) *The contribution to an understanding of the subject by the public likely to result from disclosure—whether disclosure of the requested information will contribute to public understanding.* The disclosure must contribute to the understanding of a reasonably broad audience of persons interested in the subject as opposed to the individual understanding of the requester. A requester's ability and expertise in the subject area as well as the requester's intention to effectively convey information to the public shall be considered. It shall be presumed that a representative of the news media will satisfy this consideration.
 
-(iv) *The significance of the contribution to public understanding - whether the disclosure is likely to contribute significantly to public understanding of Amtrak operations or activities.* The public's understanding of the subject in question, as compared to the level of public understanding existing prior to the disclosure, must be enhanced by the disclosure to a significant extent.
+(iv) *The significance of the contribution to public understanding—whether the disclosure is likely to contribute significantly to public understanding of Amtrak operations or activities.* The public's understanding of the subject in question, as compared to the level of public understanding existing prior to the disclosure, must be enhanced by the disclosure to a significant extent.
 
 (4) To determine whether the fee waiver requirement in paragraph (k)(2)(ii) of this section is met, Amtrak will consider the following factors:
 
-(i) *The existence and magnitude of a commercial interest - whether the requesting party has a commercial interest that would be furthered by the requested disclosure.* Amtrak shall consider any commercial interest of the requesting party (with reference to the definition of “commercial use” in paragraph (c)(1) of this section) or any person on whose behalf the requesting party may be acting that would be furthered by the requested disclosure. Requesters shall be given an opportunity to provide explanatory information regarding this consideration.
+(i) *The existence and magnitude of a commercial interest—whether the requesting party has a commercial interest that would be furthered by the requested disclosure.* Amtrak shall consider any commercial interest of the requesting party (with reference to the definition of “commercial use” in paragraph (c)(1) of this section) or any person on whose behalf the requesting party may be acting that would be furthered by the requested disclosure. Requesters shall be given an opportunity to provide explanatory information regarding this consideration.
 
-(ii) *The primary interest in disclosure - whether the magnitude of the identified commercial interest of the requester is sufficiently large in comparison with the public interest in disclosure, that disclosure is “primarily in the commercial interest of the requester.”* A fee waiver or reduction is justified where the public interest standard is satisfied and public interest is greater in magnitude than any identified commercial interest in disclosure.
+(ii) *The primary interest in disclosure—whether the magnitude of the identified commercial interest of the requester is sufficiently large in comparison with the public interest in disclosure, that disclosure is “primarily in the commercial interest of the requester.”* A fee waiver or reduction is justified where the public interest standard is satisfied and public interest is greater in magnitude than any identified commercial interest in disclosure.
 
 (5) Requests for a fee waiver will be considered on a case-by-case basis, based upon the merits of the information provided. Where it is difficult to determine whether the request is commercial in nature, Amtrak may draw inference from the requester's identity and the circumstances of the request.
 

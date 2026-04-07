@@ -278,6 +278,8 @@ Example. Prepayment after contract is executed.In 1998, City A enters into a ten
 
 (iv) *Additional prepayments as permitted by the Commissioner.* The Commissioner may, by published guidance, set forth additional circumstances in which a prepayment does not give rise to investment-type property.
 
+(3) *Certain hedges.* Investment-type property also includes the investment element of a contract that is a hedge (within the meaning of § 1.148-4(h)(2)(i)(A)) and that contains a significant investment element because a payment by the issuer relates to a conditional or unconditional obligation by the hedge provider to make a payment on a later date. See § 1.148-4(h)(2)(ii) relating to hedges with a significant investment element.
+
 (f) *Definition of issue price* - (1) *In general.* Except as otherwise provided in this paragraph (f), “issue price” is defined in sections 1273 and 1274 and the regulations under those sections.
 
 (2) *Bonds issued for money* - (i) *General rule.* Except as otherwise provided in this paragraph (f)(2), the issue price of bonds issued for money is the first price at which a substantial amount of the bonds is sold to the public. If a bond is issued for money in a private placement to a single buyer that is not an underwriter or a related party (as defined in § 1.150-1(b)) to an underwriter, the issue price of the bond is the price paid by that buyer. Issue price is not reduced by any issuance costs (as defined in § 1.150-1(b)).

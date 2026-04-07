@@ -28,11 +28,11 @@ As used in this part:
 
 *United States* means the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the U.S. Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-Appendix A to § 661.3 - End Products
+Appendix A to § 661.3—End Products
 
 The following is a list of representative end products that are subject to the requirements of Buy America. This list is representative, not exhaustive.
 
-(1) *Rolling stock end products:* All individual items identified as rolling stock in § 661.3 (*e.g.,* buses, vans, cars, railcars, locomotives, trolley cars and buses, ferry boats, as well as vehicles used for support services); train control, communication, and traction power equipment that meets the definition of end product at § 661.3 (*e.g.,* a communication or traction power system, including manufactured bimetallic power rail).
+(1) *Rolling stock end products:* All individual items identified as rolling stock in § 661.3 (e.g., buses, vans, cars, railcars, locomotives, trolley cars and buses, ferry boats, as well as vehicles used for support services); train control, communication, and traction power equipment that meets the definition of end product at § 661.3 (e.g., a communication or traction power system, including manufactured bimetallic power rail).
 
 (2) *Steel and iron end products:* Items made primarily of steel or iron such as structures, bridges, and track work, including running rail, contact rail, and turnouts.
 

@@ -10,7 +10,7 @@ To obtain a plant code required by § 574.5(b)(1), each manufacturer of new or r
 
 (d) The email addresses, phone numbers, and fax numbers for each person or corporation listed, including the main office; and
 
-(e) The type of tires manufactured at each plant, *e.g.,* pneumatic tires for passenger cars, buses, trucks, or motorcycles; pneumatic retreaded tires; or non-pneumatic tires or non-pneumatic tire assemblies.
+(e) The type of tires manufactured at each plant, e.g., pneumatic tires for passenger cars, buses, trucks, or motorcycles; pneumatic retreaded tires; or non-pneumatic tires or non-pneumatic tire assemblies.
 
 Note to § 574,6: Additional requirements for new tire manufacturers may be applicable. See 49 CFR parts 551 and 566.
 
