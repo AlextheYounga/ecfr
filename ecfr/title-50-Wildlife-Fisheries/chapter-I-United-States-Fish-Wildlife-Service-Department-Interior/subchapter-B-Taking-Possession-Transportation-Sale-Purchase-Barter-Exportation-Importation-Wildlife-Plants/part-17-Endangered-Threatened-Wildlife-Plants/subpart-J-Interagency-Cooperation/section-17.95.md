@@ -1154,7 +1154,7 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.020.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 86 FR 4844, Jan. 15, 2021.This amendment was delayed to Apr. 30, 2021, at 86 FR 11892, Mar. 1, 2021.
+![](/graphics/ec01jn91.020.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 86 FR 4844, Jan. 15, 2021.This amendment was delayed to Apr. 30, 2021, at 86 FR 11892, Mar. 1, 2021.This amendment was further delayed to Dec. 15, 2021, at 86 FR 22876, Apr. 30, 2021.
 
 (b) *Birds.*
 
