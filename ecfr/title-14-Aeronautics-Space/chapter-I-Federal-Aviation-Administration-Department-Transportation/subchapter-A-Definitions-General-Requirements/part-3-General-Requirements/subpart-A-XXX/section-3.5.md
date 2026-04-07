@@ -1,5 +1,7 @@
 ##### § 3.5 Statements about products, parts, appliances and materials.
 
+Link to an amendment published at 84 FR 42803, August 19, 2019.
+
 (a) *Definitions.* The following terms will have the stated meanings when used in this section:
 
 *Airworthy* means the aircraft conforms to its type design and is in a condition for safe operation.

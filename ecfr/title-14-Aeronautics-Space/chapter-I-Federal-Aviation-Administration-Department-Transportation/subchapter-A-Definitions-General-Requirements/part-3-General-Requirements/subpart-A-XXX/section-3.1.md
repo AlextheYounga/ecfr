@@ -1,5 +1,7 @@
 ##### § 3.1 Applicability.
 
+Link to an amendment published at 84 FR 42803, August 19, 2019.
+
 (a) This part applies to any person who makes a record regarding:
 
 (1) A type-certificated product, or
