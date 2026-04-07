@@ -8,6 +8,6 @@
 
 (2) We are notified that the individual has died;
 
-(3) We receive information that we reported an individual's record to the NICS in error (*e.g.,* we reported to the NICS the record of an individual who does not have a primary diagnosis code in our records that is based on a mental impairment, or we reported the record of an individual who does not have a representative payee); or
+(3) We receive information that we reported an individual's record to the NICS in error (e.g., we reported to the NICS the record of an individual who does not have a primary diagnosis code in our records that is based on a mental impairment, or we reported the record of an individual who does not have a representative payee); or
 
 (4) We grant the individual's request for relief under the rules in §§ 421.150 through 421.165, or a Federal court grants the individual's request for relief under the rules in § 421.170.

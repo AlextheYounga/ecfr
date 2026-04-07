@@ -134,7 +134,7 @@ B's taxable income (computed as though B were not exempt and disregarding rent p
 
 Ratio ($100,000/$300,000)
 
-1/3 
+1/3
 
 Total rent
 
@@ -186,7 +186,7 @@ $350,000
 
 Ratio ($350,000/$500,000)
 
-7/10 
+7/10
 
 Total rent paid to A
 
