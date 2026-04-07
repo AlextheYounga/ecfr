@@ -1,14 +1,12 @@
 ##### § 145.52 Participation.
 
-Link to an amendment published at 85 FR 62566, Oct. 5, 2020.
-
-Participating flocks of hobbyist and exhibition waterfowl, exhibition poultry, and game birds, and the eggs and baby poultry produced from them shall comply with the applicable general provisions of subpart A of this part and the special provisions of this subpart E. The special provisions that apply to meat-type waterfowl flocks are found in subpart I of this part.
+Participating flocks of hobbyist and exhibition poultry, raised-for-release waterfowl, and the eggs, chicks, started, and mature poultry produced from them shall comply with the applicable general provisions of subpart A of this part and the special provisions of this subpart. The special provisions that apply to meat-type waterfowl flocks are found in subpart I of this part. The special provisions that apply to game bird flocks are found in subpart J of this part.
 
 (a) Started poultry shall lose their identity under Plan terminology when not maintained by Plan participants under the conditions prescribed in § 145.5(a).
 
 (b) Hatching eggs produced by primary breeding flocks shall be fumigated or otherwise sanitized in accordance with part 147 of this subchapter.
 
-(c) It is recommended that waterfowl flocks and gallinaceous flocks in open-air facilities be kept separate.
+(c) It is recommended that waterfowl flocks and gallinaceous flocks be kept separate.
 
 (d) Subject to the approval of the Service and the Official State Agencies in the importing and exporting States, participating flocks may report poultry sales to importing States by using either VS Form 9-3, “Report of Sales of Hatching Eggs, Chicks, and Poults,” or by using a hatchery invoice form (9-3I) approved by the Official State Agency and the Service to identify poultry sales to clients. If the selling hatchery uses the 9-3I form, the following information must be included on the form:
 
@@ -36,4 +34,6 @@ Participating flocks of hobbyist and exhibition waterfowl, exhibition poultry, a
 
 (e) Any nutritive material provided to baby poultry must be free of the avian pathogens that are officially represented in the Plan disease classifications listed in § 145.10.
 
-\[36 FR 23112, Dec. 3, 1971. Redesignated at 44 FR 61586, Oct. 26, 1979, and amended at 49 FR 19803, May 10, 1984; 57 FR 57341, Dec. 4, 1992; 61 FR 11521, Mar. 21, 1996; 65 FR 8019, Feb. 17, 2000; 74 FR 14715, Apr. 1, 2009; 76 FR 15793, Mar. 22, 2011; 79 FR 38759, July 9, 2014; 83 FR 28353, June 19, 2018\]
+(f) All participating raised-for-release waterfowl flocks, regardless of whether they are breeders or non-breeders, shall be enrolled under this subpart.
+
+\[36 FR 23112, Dec. 3, 1971. Redesignated at 44 FR 61586, Oct. 26, 1979, and amended at 49 FR 19803, May 10, 1984; 57 FR 57341, Dec. 4, 1992; 61 FR 11521, Mar. 21, 1996; 65 FR 8019, Feb. 17, 2000; 74 FR 14715, Apr. 1, 2009; 76 FR 15793, Mar. 22, 2011; 79 FR 38759, July 9, 2014; 83 FR 28353, June 19, 2018; 85 FR 62566, Oct. 5, 2020\]

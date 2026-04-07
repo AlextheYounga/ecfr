@@ -1,8 +1,6 @@
 ##### § 145.53 Terminology and classification; flocks and products.
 
-Link to an amendment published at 85 FR 62566, Oct. 5, 2020.
-
-Participating flocks, and the eggs and baby poultry produced from them, which have met the respective requirements specified in this section may be designated by the following terms and the corresponding designs illustrated in § 145.10.
+Participating flocks, and the eggs, chicks, started, and mature poultry produced from them, which have met the respective requirements specified in this section may be designated by the following terms and the corresponding designs illustrated in § 145.10.
 
 (a) \[Reserved\]
 
@@ -38,7 +36,7 @@ Participating flocks, and the eggs and baby poultry produced from them, which ha
 
 (4) It is a multiplier breeding flock located in a State which has been determined by the Service to be in compliance with the provisions of paragraph (b)(3) of this section, and in which pullorum disease or fowl typhoid is not known to exist nor to have existed in hatchery supply flocks within the State during the preceding 24 months.
 
-(5) It is a primary breeding flock located in a State determined to be in compliance with the provisions of paragraph (b)(4) of this section, and in which a sample of 300 birds from flocks of more than 300, and each bird in flocks of 300 or less, has been officially tested for pullorum-typhoid within the past 12 months with either no reactors or reactors that, upon further bacteriological examination conducted in accordance with part 147 of this subchapter, fail to isolate *S. pullorum* or *S. gallinarum: Provided,* That a bacteriological examination monitoring program or serological examination monitoring program for game birds acceptable to the Official State Agency and approved by the Service may be used in lieu of annual blood testing: *And Provided further,* That when a flock is a hobbyist or exhibition waterfowl or exhibition poultry primary breeding flock located in a State which has been deemed to be a U.S. Pullorum-Typhoid Clean State for the past 3 years, and during which time no isolation of pullorum or typhoid has been made that can be traced to a source in that State, a bacteriological examination monitoring program or a serological examination monitoring program acceptable to the Official State Agency and approved by the Service may be used in lieu of annual blood testing.
+(5) It is a primary breeding flock located in a State determined to be in compliance with the provisions of paragraph (b)(4) of this section, and in which a sample of 300 birds from flocks of more than 300, and each bird in flocks of 300 or less, has been officially tested for pullorum-typhoid within the past 12 months with either no reactors or reactors that, upon further bacteriological examination conducted in accordance with part 147 of this subchapter, fail to isolate *S. pullorum* or *S. gallinarum: Provided,* That a bacteriological examination monitoring program or serological examination monitoring program for game birds acceptable to the Official State Agency and approved by the Service may be used in lieu of annual blood testing: *And Provided further,* That when a flock is a hobbyist or exhibition poultry primary breeding flock located in a State which has been deemed to be a U.S. Pullorum-Typhoid Clean State for the past 3 years, and during which time no isolation of pullorum or typhoid has been made that can be traced to a source in that State, a bacteriological examination monitoring program or a serological examination monitoring program acceptable to the Official State Agency and approved by the Service may be used in lieu of annual blood testing.
 
 (c) *U.S. M. Gallisepticum Clean.* (1) A flock maintained in accordance with part 147 of this subchapter with respect to Mycoplasma isolation, sanitation, and management and in which freedom from M. gallisepticum has been demonstrated under the criteria specified in paragraph (c)(1)(i) or (ii) of this section.
 
@@ -84,12 +82,26 @@ Participating flocks, and the eggs and baby poultry produced from them, which ha
 
 (3) A sample of at least 30 birds must be tested and found negative to H5/H7 avian influenza within 21 days prior to movement to slaughter.
 
-(f) *U.S. Salmonella Monitored.* This program is intended to be the basis from which the hatching industry may conduct a program for the prevention and control of salmonellosis. It is intended to reduce the incidence of *Salmonella* organisms in day-old poultry through an effective and practical sanitation program in the hatchery. This will afford other segments of the poultry industry an opportunity to reduce the incidence of *Salmonella* in their products. The following requirements must be met for a flock to be of this classification:
+(f) *U.S. Salmonella Monitored.* The program in this paragraph (f) is intended to be the basis from which the breeding-hatching industry may conduct a program for the prevention and control of salmonellosis. It is intended to reduce the incidence of Salmonella organisms in hatching eggs and day-old poultry through an effective and practical sanitation and testing program at the breeder farm and in the hatchery. This will afford other segments of the poultry industry an opportunity to reduce the incidence of *Salmonella* in their products. The following requirements must be met for a flock or hatchery to be eligible for the classification in this paragraph (f) as determined by the Official State Agency:
 
-(1) An Authorized Agent shall collect a minimum of five environmental samples, e.g., chick papers, hatching trays, and chick transfer devices, from the hatchery at least every 30 days. Testing must be performed at an authorized laboratory.
+(1) Hatcheries must be kept in a sanitary condition as applicable and as outlined in § 145.6 (within the NPIP Program Standards document, Program Standard C applies to hatcheries; alternatives to the program standards may also be approved by the Administrator under § 147.53 of this subchapter).
 
-(2) To claim products are of this classification, all products shall be derived from a hatchery that meets the requirements of the classification.
+(2) An Authorized Agent shall collect and submit to an authorized laboratory:
 
-(3) This classification may be revoked by the Official State Agency if the participant fails to follow recommended corrective measures.
+(i) A minimum of five samples from the hatchery at least every 30 days while in operation. These samples may include: Hatchery debris, swabs from hatchers, setters, hatchery environment, hatchery equipment, sexing tables and belts, meconium, chick box papers, hatching trays, or chick transfer devices. Samples will be examined bacteriologically at an authorized laboratory for *Salmonella*; and
+
+(ii) Annual environmental samples from each pullet and breeder farm in accordance with this section (within the NPIP Program Standards document, Program Standard B applies to bacteriological examination procedures; alternatives to the program standards may also be approved by the Administrator under § 147.53 of this subchapter). Samples will be examined bacteriologically at an authorized laboratory for *Salmonella.*
+
+(3) If *Salmonella* is identified through this testing:
+
+(i) A qualified poultry health professional knowledgeable with the operation will be consulted and will:
+
+(A) Review test results to evaluate the *Salmonella* monitoring program.
+
+(B) Use the *Salmonella* monitoring program test results to develop appropriate and practical *Salmonella* intervention measures.
+
+(ii) \[Reserved\]
+
+(4) To claim products are of the classification in this paragraph (f), all products shall be derived from a farm or hatchery that meets the requirements of the classification.
 
 (Approved by the Office of Management and Budget under control number 0579-0007) \[36 FR 23112, Dec. 3, 1971. Redesignated at 44 FR 61586, Oct. 26, 1979\] Editorial Note:For Federal Register citations affecting § 145.53, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
