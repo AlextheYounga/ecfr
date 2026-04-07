@@ -4,7 +4,7 @@ Any mismatch of rails at joints may not be more than that prescribed by the foll
 
 | Class of track      | Any mismatch of rails at joints may not be more than the following— |
 | ------------------- | ------------------------------------------------------------------- |
-| Class 1 track       | 1/4                                                                 |
-| Class 2 track       | 1/4                                                                 |
-| Class 3 track       | 3/16                                                                |
-| Class 4 and 5 track | 1/8                                                                 |
+| Class 1 track       | 1⁄4                                                                 |
+| Class 2 track       | 1⁄4                                                                 |
+| Class 3 track       | 3⁄16                                                                |
+| Class 4 and 5 track | 1⁄8                                                                 |
