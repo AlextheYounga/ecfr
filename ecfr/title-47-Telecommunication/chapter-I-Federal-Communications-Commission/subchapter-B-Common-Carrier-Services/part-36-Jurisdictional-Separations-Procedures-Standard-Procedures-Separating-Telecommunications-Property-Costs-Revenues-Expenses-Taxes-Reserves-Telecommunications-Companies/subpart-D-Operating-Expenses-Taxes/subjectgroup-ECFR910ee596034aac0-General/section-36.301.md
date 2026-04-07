@@ -1,8 +1,6 @@
 ##### § 36.301 Section arrangement.
 
-Link to an amendment published at 83 FR 63585, Dec. 11, 2018.
-
-(a) This subpart is arranged in sections as follows:
+This subpart is arranged in sections as follows:
 
 General
 
@@ -15,19 +13,19 @@ General
 
 36.310. 
 
-Network Support/General Support Expenses - Accounts 6110 and 6120 (Class B Telephone Companies); Accounts 6112, 6113, 6114, 6121, 6122, 6123, and 6124 (Class A Telephone Companies)
+Network Support/General Support Expenses - Accounts 6110 and 6120
 
 36.311. 
 
-Central Office Expenses - Accounts 6210, 6220, 6230 (Class B Telephone Companies); Accounts 6211, 6212, 6220, 6231, and 6232 (Class A Telephone Companies)
+Central Office Expenses - Accounts 6210, 6220, 6230
 
-36.321 
+36.321. 
 
-Information Origination/Termination Expenses - Account 6310 (Class B Telephone Companies); Accounts 6311, 6341, 6351, and 6362 (Class A Telephone Companies)
+Information Origination/Termination Expenses - Account 6310
 
 36.331. 
 
-Cable and Wire Facilities Expenses - Account 6410 (Class B Telephone Companies); Accounts 6411, 6421, 6422, 6423, 6424, 6426, 6431, and 6441 (Class A Telephone Companies)
+Cable and Wire Facilities Expenses - Account 6410
 
 36.341. 
 
@@ -37,11 +35,11 @@ General
 
 36.351. 
 
-Other Property Plant and Equipment Expenses - Account 6510 (Class B Telephone Companies); Accounts 6511 and 6512 (Class A Telephone Companies)
+Other Property Plant and Equipment Expenses - Account 6510
 
 36.352. 
 
-Network Operations Expenses - Account 6530 (Class B Telephone Companies); Accounts 6531, 6532, 6533, 6534, and 6535 (Class A Telephone Companies)
+Network Operations Expenses - Account 6530
 
 36.353. 
 
@@ -59,7 +57,7 @@ General
 
 36.371. 
 
-Marketing - Account 6610 (Class B Telephone Companies); Accounts 6611 and 6613 (Class A Telephone Companies)
+Marketing - Account 6610
 
 36.372. 
 
@@ -113,13 +111,12 @@ General and Administrative Expenses - Account 6720
 
 36.392. 
 
-Operating Taxes - Account 7200 (Class B Telephone Companies); Accounts 7210, 7220, 7230, 7240, and 7250 (Class A Telephone Companies)
+Operating Taxes - Account 7200
 
-36.411 and  
-36.412. 
+36.411 and 36.412. 
 
 Equal Access Expenses
 
 36.421.
 
-\[69 FR 12551, Mar. 17, 2004\]
+\[69 FR 12551, Mar. 17, 2004, as amended at 83 FR 63585, Dec. 11, 2018\]
