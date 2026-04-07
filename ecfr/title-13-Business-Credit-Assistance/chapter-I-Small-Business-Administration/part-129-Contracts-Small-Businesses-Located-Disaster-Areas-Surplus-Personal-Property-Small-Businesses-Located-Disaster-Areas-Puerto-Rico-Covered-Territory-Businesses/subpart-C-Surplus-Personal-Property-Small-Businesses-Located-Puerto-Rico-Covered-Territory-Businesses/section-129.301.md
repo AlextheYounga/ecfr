@@ -1,12 +1,10 @@
-##### § 129.301 How does a small business concern located in a Puerto Rico obtain Federal surplus personal property?
+##### § 129.301 How does a covered territory business or small business concern located in Puerto Rico obtain Federal surplus personal property?
 
-Link to an amendment published at 87 FR 50927, Aug. 19, 2022.
-
-(a) *General.* Pursuant to 15 U.S.C. 636(j)(13)(F)(iii), eligible small business concerns located in Puerto Rico may receive surplus Federal Government property from the Puerto Rico State Agency for Surplus Property (SASP). The procedures set forth in 41 CFR part 102-37 and this section will be used to transfer surplus personal property to eligible small business concerns. The property which may be transferred to the Puerto Rico SASP for further transfer to eligible small business concerns includes all personal property which has become available for donation pursuant to 41 CFR 102-37.30.
+(a) *General.* Pursuant to 15 U.S.C. 636(j)(13)(F)(iii), eligible covered territory businesses may receive surplus Federal Government property from their territory State Agency for Surplus Property (SASP), and eligible small business concerns located in Puerto Rico may receive such property from the Puerto Rico SASP. The procedures set forth in 41 CFR part 102-37 and this section will be used to transfer surplus personal property to eligible small business concerns. The property which may be transferred to the territory SASP or the Puerto Rico SASP for further transfer to eligible small business concerns includes all personal property which has become available for donation pursuant to 41 CFR 102-37.30.
 
 (b) *Eligibility to receive Federal surplus personal property.* To be eligible to receive Federal surplus personal property, on the date of transfer a concern must:
 
-(1) Be located in Puerto Rico;
+(1) Be a covered territory business or be located in Puerto Rico;
 
 (2) Qualify as small under the size standard corresponding to its primary NAICS code and certify its size in SAM.gov, or a successor system, prior to seeking access to surplus property. SASPs and GSA may rely on concern's certification as small for purposes of this program;
 
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 50927, Aug. 19, 2022.
 
 (4) Be engaged or expect to be engaged in business activities making the item useful to it.
 
-(c) *Use of acquired surplus personal property.* (1) Eligible concerns may acquire surplus Federal personal property from the Puerto Rico SASP, provided the concern represents and agrees in writing:
+(c) *Use of acquired surplus personal property.* (1) Eligible concerns may acquire surplus Federal personal property from their territory SASP or, for a Puerto Rico concern, the Puerto Rico SASP, provided the concern represents and agrees in writing:
 
 (i) As to what the intended use of the surplus personal property is to be;
 
@@ -32,4 +30,6 @@ Link to an amendment published at 87 FR 50927, Aug. 19, 2022.
 
 (d) *Costs.* Concerns acquiring surplus personal property from a SASP must pay a service fee to the SASP in accordance with 41 CFR 102-37.280. In no instance will any SASP charge a concern more for any service than their established fees charged to other transferees.
 
-(f) *Title.* Upon execution of the SASP distribution document, the firm receiving the surplus personal property has only conditional title to the surplus personal property during the applicable period of restriction. Full title to the surplus personal property will vest in the donee only after the donee has met all of the requirements of this part.
+(e) *Title.* Upon execution of the SASP distribution document, the firm receiving the surplus personal property has only conditional title to the surplus personal property during the applicable period of restriction. Full title to the surplus personal property will vest in the donee only after the donee has met all of the requirements of this part.
+
+\[85 FR 69125, Nov. 2, 2020, as amended at 87 FR 50927, Aug. 19, 2022\]
