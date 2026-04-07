@@ -1,5 +1,7 @@
 ##### § 301-10.121 What classes of airline accommodations are available?
 
+Link to an amendment published at 87 FR 55704, Sept. 12, 2022.
+
 Airlines are constantly updating their offerings. However, for the purposes of this regulation, the classes of available air accommodations are identified and defined as follows:
 
 (a) *Coach-class.* The basic class of accommodation by airlines that is normally the lowest fare offered regardless of airline terminology used. For reference purposes only, coach-class may also be referred to by airlines as “tourist class,” “economy class,” or as “single class” when the airline offers only one class of accommodations to all travelers.

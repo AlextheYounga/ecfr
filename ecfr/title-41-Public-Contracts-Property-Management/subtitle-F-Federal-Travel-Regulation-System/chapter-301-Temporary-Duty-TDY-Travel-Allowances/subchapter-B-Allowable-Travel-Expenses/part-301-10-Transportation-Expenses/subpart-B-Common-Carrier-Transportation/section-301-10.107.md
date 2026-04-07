@@ -1,5 +1,7 @@
 ##### § 301-10.107 Are there any exceptions to the use of a contract city-pair fare?
 
+Link to an amendment published at 87 FR 55704, Sept. 12, 2022.
+
 Yes, your agency may authorize use of a fare other-than a contract city-pair fare when -
 
 (a) Space on a scheduled contract flight is not available in time to accomplish the purpose of your travel, or use of contract service would require you to incur unnecessary overnight lodging costs which would increase the total cost of the trip;

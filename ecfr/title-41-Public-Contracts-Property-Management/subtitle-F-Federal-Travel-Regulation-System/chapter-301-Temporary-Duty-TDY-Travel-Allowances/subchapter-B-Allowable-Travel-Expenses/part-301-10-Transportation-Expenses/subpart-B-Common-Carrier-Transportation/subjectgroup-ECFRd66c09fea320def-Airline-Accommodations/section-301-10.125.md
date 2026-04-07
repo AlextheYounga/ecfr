@@ -1,5 +1,7 @@
 ##### § 301-10.125 When may I use the 14-hour rule to travel other than coach-class (see § 301-10.123(b)(6))?
 
+Link to an amendment published at 87 FR 55705, Sept. 12, 2022.
+
 (a) You may use the 14-hour rule to travel via other than coach-class when:
 
 (1) The origin and/or destination are OCONUS; and

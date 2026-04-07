@@ -1,5 +1,7 @@
 ##### § 301-10.123 When may I use other than coach-class airline accommodations?
 
+Link to an amendment published at 87 FR 55704, Sept. 12, 2022.
+
 Government travelers are required to exercise the same care in incurring expenses that a prudent person would exercise if traveling on personal business when making official travel arrangements, and therefore, should consider the least expensive class of travel that meets their needs. You may use the lowest other than coach-class airline accommodations only when your agency specifically authorizes/approves such use as specified in paragraphs (a) and (b) of this section.
 
 (a) Your agency may authorize/approve first class accommodations if any of the following apply:
