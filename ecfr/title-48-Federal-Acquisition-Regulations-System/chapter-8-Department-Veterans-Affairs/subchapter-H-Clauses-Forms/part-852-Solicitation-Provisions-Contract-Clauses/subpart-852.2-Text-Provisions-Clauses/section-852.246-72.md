@@ -2,7 +2,7 @@
 
 As prescribed in 846.370-2, insert the following clause:
 
-Frozen Processed Foods (Oct 2018)
+Frozen Processed Foods (OCT 2018)
 
 The products delivered under this contract shall be in excellent condition, shall not show evidence of defrosting, refreezing, or freezer burn and shall be transported and delivered to the consignee at a temperature of 0 degrees Fahrenheit or lower.
 

@@ -2,7 +2,7 @@
 
 As prescribed in 836.580, insert the following provision:
 
-Notice to Bidders - Additive or Deductive Bid Line Items (Apr 2019)
+Notice to Bidders - Additive or Deductive Bid Line Items (APR 2019)
 
 (a) Additive or deductive line items in the bid schedule shall be evaluated to determine the low offeror and the items to be awarded. The evaluation shall be made as follows -
 

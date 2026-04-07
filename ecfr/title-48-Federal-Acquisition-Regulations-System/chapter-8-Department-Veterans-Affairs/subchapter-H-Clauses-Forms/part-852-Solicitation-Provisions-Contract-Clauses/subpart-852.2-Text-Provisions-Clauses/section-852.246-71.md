@@ -2,7 +2,7 @@
 
 As prescribed in 846.370-1, insert the following clause:
 
-Rejected Goods (Oct 2018)
+Rejected Goods (OCT 2018)
 
 (a) *Supplies and equipment.* Rejected goods will be held subject to Contractor's order for not more than 15 days, after which the rejected merchandise will be returned to the Contractor's address at the Contractor's risk and expense. Expenses incident to the examination and testing of materials or supplies that have been rejected will be charged to the Contractor.
 

@@ -2,7 +2,7 @@
 
 As prescribed in 836.574, insert the following clause:
 
-Subcontracts and Work Coordination (Apr 2019)
+Subcontracts and Work Coordination (APR 2019)
 
 (a) Nothing contained in this contract shall be construed as creating any contractual relationship between any subcontractor and the Government. Divisions or sections of specifications are not intended to control the Contractor in dividing work among subcontractors, or to limit work performed by any trade.
 

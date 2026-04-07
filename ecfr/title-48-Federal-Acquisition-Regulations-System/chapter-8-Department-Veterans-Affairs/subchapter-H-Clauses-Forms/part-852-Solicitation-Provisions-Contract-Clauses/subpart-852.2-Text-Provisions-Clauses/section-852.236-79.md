@@ -2,7 +2,7 @@
 
 As prescribed in 836.573, insert the following clause:
 
-Contractor Production Report (Apr 2019)
+Contractor Production Report (APR 2019)
 
 (a) The Contractor shall furnish to the resident engineer, for each workday, a consolidated report for the preceding workday. Reporting shall begin from date of mobilization until the date of final acceptance except for authorized holidays. VA Form 10101, Contractor Production Report, or a Contractor generated form containing the same type of information shall be signed, dated and submitted by the Contractor superintendent.
 

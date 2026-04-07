@@ -2,7 +2,7 @@
 
 As prescribed in 846.702-70(e), insert the following clause:
 
-Warranty of Construction - Guarantee Period Services (Oct 2018)
+Warranty of Construction - Guarantee Period Services (OCT 2018)
 
 The clause 52.246-21, Warranty of Construction, is supplemented as follows:
 

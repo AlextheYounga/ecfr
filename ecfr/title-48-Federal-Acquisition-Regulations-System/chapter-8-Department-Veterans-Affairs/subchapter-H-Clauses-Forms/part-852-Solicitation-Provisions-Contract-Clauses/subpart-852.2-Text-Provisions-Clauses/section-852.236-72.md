@@ -2,7 +2,7 @@
 
 As prescribed in 836.501, insert the following clause:
 
-Performance of Work by the Contractor (Apr 2019)
+Performance of Work by the Contractor (APR 2019)
 
 (a) In accordance with FAR 52.236-1, the contract work accomplished on the site by laborers, mechanics, and foreman/superintendent on the Contractor's payroll and under their direct supervision shall be used in establishing the percent of work to be performed by the Contractor. Cost of material and equipment installed by such labor may be included. The work by the Contractor's executive, administrative and clerical forces shall be excluded in establishing compliance with the requirements of this clause.
 
