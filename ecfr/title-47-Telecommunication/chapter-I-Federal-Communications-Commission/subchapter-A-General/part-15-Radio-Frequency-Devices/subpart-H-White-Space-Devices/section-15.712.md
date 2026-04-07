@@ -1,7 +1,5 @@
 ##### § 15.712 Interference protection requirements.
 
-Link to an amendment published at 84 FR 34798, July 19, 2019.
-
 The separation distances in this section apply to fixed and personal/portable white space devices with a location accuracy of ±50 meters. These distances must be increased by the amount that the location uncertainty of a white space device exceeds ±50 meters.
 
 (a) *Digital television stations, and digital and analog Class A TV, low power TV, TV translator and TV booster stations* - (1) *Protected contour.* White space devices must protect digital and analog TV services within the contours shown in the following table. These contours are calculated using the methodology in § 73.684 of this chapter and the R-6602 curves contained in § 73.699 of this chapter.
@@ -363,48 +361,52 @@ Fixed White Space Devices
 
 (5) On frequencies used by wireless downlink services: 35 kilometers for co-channel operation, and 31 kilometers for adjacent channel operation.
 
-(j) *Wireless Medical Telemetry Service.* (1) White space devices operating in the 608-614 MHz band (channel 37) are not permitted to operate within an area defined by the polygon described in § 15.713(j)(11) plus the distances specified in the tables below:
+(j) *Wireless Medical Telemetry Service.* (1) White space devices operating in the 608-614 MHz band (channel 37) are not permitted to operate within an area defined by the polygon described in § 15.713(j)(11) plus the distances specified in the tables in this paragraph (j)(1):
 
-Mode II Personal/Portable White Space Devices
+(i) Mode II personal/portable white space devices.
 
-|                                            | Required co-channel separation distances in   kilometers from WMTS sites |
-| ------------------------------------------ | ------------------------------------------------------------------------ |
-| Communicating with Mode II or Fixed device | 0.38                                                                     |
-| Communicating with Mode I device           | 0.76                                                                     |
+Table 23 to Paragraph (j)(1)(i)
 
-Fixed White Space Devices
+|                                            | Required co-channel   separation distances   in kilometers from   edge of polygon |
+| ------------------------------------------ | --------------------------------------------------------------------------------- |
+| Communicating with Mode II or Fixed device | 0.38                                                                              |
+| Communicating with Mode I device           | 0.76                                                                              |
 
-| Antenna height above average terrain of unlicensed devices (meters) | Required co-channel separation distances in kilometers from WMTS sites\* |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Less than 3                                                         | 0.38                                                                     |
-| 3-10                                                                | 0.70                                                                     |
-| 10-30                                                               | 1.20                                                                     |
-| 30-50                                                               | 1.55                                                                     |
-| 50-75                                                               | 1.90                                                                     |
-| 75-100                                                              | 2.20                                                                     |
-| 100-150                                                             | 2.70                                                                     |
-| 150-200                                                             | 3.15                                                                     |
-| 200-250                                                             | 3.50                                                                     |
+(ii) Fixed white space devices, except that when communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 0.38 kilometers.
 
-\*When communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 0.38 kilometers if the Mode I device operates at power levels no more than 40 mW EIRP, or 0.48 kilometers if the Mode I device operates at power levels above 40 mW EIRP.
+Table 24 to Paragraph (j)(1)(ii)
 
-(2) White space devices operating in the 602-608 MHz band (channel 36) and 614-620 MHz band (channel 38) are not permitted to operate within an area defined by the polygon described in § 15.713(j)(11) plus the distances specified in the tables below:
+| Antenna height above average terrain of unlicensed devices   (meters) | Required co-channel   separation distances   in kilometers from   edge of polygon |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Less than 3                                                           | 0.38                                                                              |
+| 3-10                                                                  | 0.70                                                                              |
+| 10-30                                                                 | 1.20                                                                              |
+| 30-50                                                                 | 1.55                                                                              |
+| 50-75                                                                 | 1.90                                                                              |
+| 75-100                                                                | 2.20                                                                              |
+| 100-150                                                               | 2.70                                                                              |
+| 150-200                                                               | 3.15                                                                              |
+| 200-250                                                               | 3.50                                                                              |
 
-Mode II Personal/Portable White Space Devices
+(2) White space devices operating in the 602-608 MHz band (channel 36) and 614-620 MHz band (channel 38) are not permitted to operate within an area defined by the polygon described in § 15.713(j)(11) plus the distances specified in the tables in this paragraph (j)(2):
 
-|                                            | Required adjacent channel separation distances in meters from WMTS sites |
-| ------------------------------------------ | ------------------------------------------------------------------------ |
-| Communicating with Mode II or Fixed device | 8                                                                        |
-| Communicating with Mode I device           | 16                                                                       |
+(i) Mode II personal/portable white space devices.
 
-Fixed White Space Devices
+Table 25 to Paragraph (j)(2)(i)
 
-| Required adjacent channel separation distances in meters from WMTS sites \* |
-| --------------------------------------------------------------------------- |
-| 8                                                                           |
+|                                            | Required adjacent channel separation   distances in meters from edge of polygon |
+| ------------------------------------------ | ------------------------------------------------------------------------------- |
+| Communicating with Mode II or Fixed device | 8                                                                               |
+| Communicating with Mode I device           | 16                                                                              |
 
-\*When communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 8 meters if the Mode I device operates at power levels no more than 40 mW EIRP, or 13 meters if the Mode I device operates at power levels above 40 mW EIRP.
+(ii) Fixed white space devices, except that when communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 8 meters if the Mode I device operates at power levels no more than 40 mW EIRP, or 13 meters if the Mode I device operates at power levels above 40 mW EIRP.
+
+Table 26 to Paragraph (j)(2)(ii)
+
+| Required adjacent channel separation distances   in meters from edge of polygon |
+| ------------------------------------------------------------------------------- |
+| 8                                                                               |
 
 (k) *488-494 MHz band in Hawaii.* White space devices are not permitted to operate in the 488-494 MHz band in Hawaii.
 
-\[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016\]
+\[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016; 84 FR 34798, July 19, 2019\]
