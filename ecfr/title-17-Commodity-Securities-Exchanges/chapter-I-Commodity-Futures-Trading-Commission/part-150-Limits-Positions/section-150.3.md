@@ -1,5 +1,7 @@
 ##### § 150.3 Exemptions.
 
+Link to an amendment published at 86 FR 3468, Jan. 14, 2021.
+
 (a) Positions which may exceed limits. The position limits set forth in § 150.2 of this part may be exceeded to the extent such position are:
 
 (1) *Bona fide* hedging transactions as defined in § 1.3 of this chapter;

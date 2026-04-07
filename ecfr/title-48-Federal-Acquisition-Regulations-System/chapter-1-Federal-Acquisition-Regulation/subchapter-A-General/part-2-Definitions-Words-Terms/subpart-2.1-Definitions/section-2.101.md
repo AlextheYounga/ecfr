@@ -446,7 +446,7 @@
 
 (3) The Equal Employment Opportunity Acts and Executive orders;
 
-(4) 41 U.S.C. chapter 65, Contracts for Material, Supplies, Articles, and Equipment Exceeding $15,000;
+(4) 41 U.S.C. chapter 65, Contracts for Material, Supplies, Articles, and Equipment Exceeding $10,000;
 
 (5) 41 U.S.C. chapter 83, Buy American; or
 

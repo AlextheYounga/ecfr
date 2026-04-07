@@ -502,7 +502,7 @@ Non-mandatory appendix F contains examples of criteria which employers can use i
 
 (2) Employers shall make available to affected employees and their authorized representatives all information required to be developed by this section.
 
-Appendixes to § 1910.146 - Permit-required Confined SpacesNote:
+Appendixes to § 1910.146 - Permit-required Confined Spaces Note:
 
 Appendixes A through F serve to provide information and non-mandatory guidelines to assist employers and employees in complying with the appropriate requirements of this section.
 

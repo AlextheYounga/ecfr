@@ -1655,7 +1655,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Duluth               | \*8, 10, 17, 27, 33                                 |
 | Hibbing              | 13, \*31                                            |
 | Mankato              | 12                                                  |
-| Minneapolis          | 9, 11, 22, 29, 32, 45                               |
+| Minneapolis          | 9, 22, 29, 31, 32, 45                               |
 | Redwood Falls        | 27                                                  |
 | Rochester            | 10, 46                                              |
 | St. Cloud            | 40                                                  |
