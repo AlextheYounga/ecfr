@@ -62,7 +62,7 @@ Threshold Limit Values of Airborne Contaminants for Construction
 | Benzo(a)pyrene; see Coal tar pitch volatiles                                                                   |                      |                  |          |                  |
 | Benzoyl peroxide                                                                                               | 94-36-0              | -                | 5        | -                |
 | Benzyl chloride                                                                                                | 100-44-7             | 1                | 5        | -                |
-| Beryllium and beryllium compounds (as Be); see 1926.1124 (q)                                                   | 7440-41-7            |                  | 0.002    | -                |
+| Beryllium and beryllium compounds (as Be); see 1926.1124 (q)                                                   | 7440-41-7            | -                | 0.002    | -                |
 | Biphenyl; see Diphenyl                                                                                         |                      |                  |          |                  |
 | Bisphenol A; see Diglycidyl ether                                                                              |                      |                  |          |                  |
 | Boron oxide                                                                                                    | 1303-86-2            |                  |          |                  |

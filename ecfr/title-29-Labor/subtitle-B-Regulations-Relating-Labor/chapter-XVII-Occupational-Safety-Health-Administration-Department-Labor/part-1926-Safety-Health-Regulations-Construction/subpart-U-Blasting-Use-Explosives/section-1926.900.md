@@ -26,7 +26,7 @@
 
 (2) The suspension of all blasting operations and removal of persons from the blasting area during the approach and progress of an electric storm;
 
-(3) (i) The prominent display of adequate signs, warning against the use of mobile radio transmitters, on all roads within 1,000 feet of blasting operations. Whenever adherence to the 1,000-foot distance would create an operational handicap, a competent person shall be consulted to evaluate the particular situation, and alternative provisions may be made which are adequately designed to prevent any premature firing of electric blasting caps. A description of any such alternatives shall be reduced to writing and shall be certified as meeting the purposes of this subdivision by the competent person consulted. The description shall be maintained at the construction site during the duration of the work, and shall be available for inspection by representatives of the Secretary of Labor.
+(3)(i) The prominent display of adequate signs, warning against the use of mobile radio transmitters, on all roads within 1,000 feet of blasting operations. Whenever adherence to the 1,000-foot distance would create an operational handicap, a competent person shall be consulted to evaluate the particular situation, and alternative provisions may be made which are adequately designed to prevent any premature firing of electric blasting caps. A description of any such alternatives shall be reduced to writing and shall be certified as meeting the purposes of this subdivision by the competent person consulted. The description shall be maintained at the construction site during the duration of the work, and shall be available for inspection by representatives of the Secretary of Labor.
 
 (ii) Specimens of signs which would meet the requirements of paragraph (k)(3) of this section are the following:
 
@@ -34,7 +34,7 @@
 
 (4) Ensuring that mobile radio transmitters which are less than 100 feet away from electric blasting caps, in other than original containers, shall be deenergized and effectively locked;
 
-(5) Compliance with the recommendations of The Institute of the Makers of Explosives with regard to blasting in the vicinity of radio transmitters as stipulated in Radio Frequency Energy - A Potential Hazard in the Use of Electric Blasting Caps, IME Publication No. 20, March 1971.
+(5) Compliance with the recommendations of The Institute of the Makers of Explosives with regard to blasting in the vicinity of radio transmitters as stipulated in Radio Frequency Energy—A Potential Hazard in the Use of Electric Blasting Caps, IME Publication No. 20, March 1971.
 
 (l) Empty boxes and paper and fiber packing materials, which have previously contained high explosives, shall not be used again for any purpose, but shall be destroyed by burning at an approved location.
 

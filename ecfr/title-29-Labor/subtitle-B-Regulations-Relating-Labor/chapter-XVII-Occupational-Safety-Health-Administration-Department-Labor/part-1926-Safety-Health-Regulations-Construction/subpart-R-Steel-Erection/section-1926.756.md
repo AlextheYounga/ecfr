@@ -6,7 +6,7 @@
 
 (b) *Diagonal bracing.* Solid web structural members used as diagonal bracing shall be secured by at least one bolt per connection drawn up wrench-tight or the equivalent as specified by the project structural engineer of record.
 
-(c) (1) *Double connections at columns and/or at beam webs over a column.* When two structural members on opposite sides of a column web, or a beam web over a column, are connected sharing common connection holes, at least one bolt with its wrench-tight nut shall remain connected to the first member unless a shop-attached or field-attached seat or equivalent connection device is supplied with the member to secure the first member and prevent the column from being displaced (See appendix H to this subpart for examples of equivalent connection devices).
+(c)(1) *Double connections at columns and/or at beam webs over a column.* When two structural members on opposite sides of a column web, or a beam web over a column, are connected sharing common connection holes, at least one bolt with its wrench-tight nut shall remain connected to the first member unless a shop-attached or field-attached seat or equivalent connection device is supplied with the member to secure the first member and prevent the column from being displaced (See appendix H to this subpart for examples of equivalent connection devices).
 
 (2) If a seat or equivalent device is used, the seat (or device) shall be designed to support the load during the double connection process. It shall be adequately bolted or welded to both a supporting member and the first member before the nuts on the shared bolts are removed to make the double connection.
 
