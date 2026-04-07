@@ -1,6 +1,6 @@
 ##### § 490.205 Definitions.
 
-Unless otherwise specified, the following definitions apply in this subpart:
+Unless otherwise specified, the following definitions apply in this subpart:*5-year rolling average*
 
 *5-year rolling average* means the average of 5 individual, consecutive annual points of data (e.g., the 5-year rolling average of the annual fatality rate).
 

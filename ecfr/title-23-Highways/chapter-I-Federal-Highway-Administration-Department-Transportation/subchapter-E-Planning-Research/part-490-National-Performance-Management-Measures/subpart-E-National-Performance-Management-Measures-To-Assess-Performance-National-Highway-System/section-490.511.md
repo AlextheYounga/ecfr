@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 16466, Apr. 18, 2025.
 
-(a) Two performance metrics are required for the NHS Performance measures specified in § 490.507. These are:
+(a) Two performance metrics are required for the NHS Performance measures specified in § 490.507. These are:21
 
 (1) Level of Travel Time Reliability (LOTTR) for the Travel Time Reliability measures in § 490.507(a) (referred to as the LOTTR metric).
 
@@ -26,7 +26,9 @@ Link to an amendment published at 90 FR 16466, Apr. 18, 2025.
 
 (c) Tailpipe CO2 emissions on the NHS for a given year shall be computed in million metric tons (mmt) and rounded to the nearest hundredth as follows:
 
-![](/graphics/er07de23.000.gif)Where: (Tailpipe CO2 Emissions on NHS)CY = Total tailpipe CO2 emissions on the NHS in a calendar year (expressed in mmt, and rounded to the nearest hundredth); T = the total number of on-road fuel types; *t* = an on-road fuel type; (Fuel Consumed)t *=* the quantity of total annual fuel consumed for on-road fuel type ”*t”* (to the nearest thousand gallons); (CO2 Factor)t *=* is the amount of CO2 released per unit of fuel consumed for on-road fuel type “*t”;*NHS VMT = annual total vehicle-miles traveled on NHS (to the nearest one million vehicle-miles); and Total VMT = annual total vehicle-miles traveled on all public roads (to the nearest one million vehicle-miles).
+![](/graphics/er07de23.000.gif)Where: 2*t*(Tailpipe CO2 Emissions on NHS)CY = Total tailpipe CO2 emissions on the NHS in a calendar year (expressed in mmt, and rounded to the nearest hundredth); T = the total number of on-road fuel types; *t* = an on-road fuel type; (Fuel Consumed)t *=* the quantity of total annual fuel consumed for on-road fuel type ”*t”* (to the nearest thousand gallons); (CO2 Factor)t *=* is the amount of CO2 released per unit of fuel consumed for on-road fuel type “*t”;*NHS VMT = annual total vehicle-miles traveled on NHS (to the nearest one million vehicle-miles); and Total VMT = annual total vehicle-miles traveled on all public roads (to the nearest one million vehicle-miles).
+
+1 MOVES (Motor Vehicle Emission Simulator) is EPA's emission modeling system that estimates emissions for mobile sources at the national, county, and project level for criteria air pollutants, GHGs, and air toxics. See *https://www.epa.gov/moves*. The EMFAC model is used in California for emissions analysis.
 
 (d) For the GHG measure specified in § 490.507(b), MPOs are granted additional flexibility in how they calculate the GHG metric, described in § 490.511(a)(2). MPOs may use the MPO share of the State's VMT as a proxy for the MPO share of CO2 emissions in the State, VMT estimates along with MOVES 1 emissions factors, FHWA's Energy and Emissions Reduction Policy Analysis Tool (EERPAT) model, or other method the MPO can demonstrate has valid and useful results for CO2 measurement.
 

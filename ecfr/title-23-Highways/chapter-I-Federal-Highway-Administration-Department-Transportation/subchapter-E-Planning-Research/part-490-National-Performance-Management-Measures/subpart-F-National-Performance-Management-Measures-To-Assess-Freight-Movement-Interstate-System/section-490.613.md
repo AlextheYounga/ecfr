@@ -4,4 +4,4 @@
 
 (b) The Freight Reliability measure shall be computed to the nearest hundredth as follows:
 
-![](/graphics/er18ja17.030.gif)Where: *i* = An Interstate System reporting segment; maxTTTRi = The maximum TTTR of the five time periods in paragraphs (a)(1)(i) through (v) of § 490.611, to the nearest hundredth, of Interstate System reporting segment “i”; SLi = Segment length, to the nearest thousandth of a mile, of Interstate System reporting segment “i”; and T= A total number of Interstate System reporting segments.
+![](/graphics/er18ja17.030.gif)Where: *i* = An Interstate System reporting segment; imaxTTTRi = The maximum TTTR of the five time periods in paragraphs (a)(1)(i) through (v) of § 490.611, to the nearest hundredth, of Interstate System reporting segment “i”; SLi = Segment length, to the nearest thousandth of a mile, of Interstate System reporting segment “i”; and T= A total number of Interstate System reporting segments.

@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 16466, Apr. 18, 2025.
 
-There are three performance measures to assess the performance of the Interstate System and the performance of the non-Interstate NHS for the purpose of carrying out the National Highway Performance Program (referred to collectively as the NHS Performance measures).
+There are three performance measures to assess the performance of the Interstate System and the performance of the non-Interstate NHS for the purpose of carrying out the National Highway Performance Program (referred to collectively as the NHS Performance measures).2
 
 (a) Two measures are used to assess reliability (referred to collectively as the Travel Time Reliability measures). They are:
 

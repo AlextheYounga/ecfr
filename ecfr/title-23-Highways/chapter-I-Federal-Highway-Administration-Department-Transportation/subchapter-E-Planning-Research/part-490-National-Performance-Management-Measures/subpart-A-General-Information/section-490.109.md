@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 16466, Apr. 18, 2025.
 
-(a) *In general.* The FHWA will assess each of the State DOT targets separately for the NHPP measures specified in § 490.105(c)(1) through (5) and the Freight Reliability measure specified in § 490.105(c)(6) to determine the significant progress made toward the achievement of those targets.
+(a) *In general.* The FHWA will assess each of the State DOT targets separately for the NHPP measures specified in § 490.105(c)(1) through (5) and the Freight Reliability measure specified in § 490.105(c)(6) to determine the significant progress made toward the achievement of those targets.2
 
 (b) *Frequency.* The FHWA will determine whether a State DOT has or has not made significant progress toward the achievement of applicable targets as described in paragraph (e) of this section at the midpoint and the end of each performance period.
 

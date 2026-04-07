@@ -1,6 +1,6 @@
 ##### § 490.711 Calculation of Peak Hour Excessive Delay metric.
 
-(a) The performance metric required to calculate the measure specified in § 490.707(a) is Total Peak Hour Excessive Delay (person-hours)(referred to as the PHED metric). The following paragraphs explain how to calculate this PHED metric.
+(a) The performance metric required to calculate the measure specified in § 490.707(a) is Total Peak Hour Excessive Delay (person-hours)(referred to as the PHED metric). The following paragraphs explain how to calculate this PHED metric.C
 
 (b) State DOTs shall use the following data to calculate the PHED metric:
 
@@ -16,7 +16,7 @@
 
 (c) The State DOT shall calculate the “excessive delay threshold travel time” for all applicable travel time segments as follows:
 
-![](/graphics/er18ja17.031.gif)Where: Excessive Delay Threshold Travel Times = the time of travel, to the nearest whole second, to traverse the Travel Time Segment at which any longer measured travel times would result in excessive delay for the travel time segment “”; Travel Time Segment Lengths = total length of travel time segment to the nearest thousandth of a mile for travel time reporting segment “”; and Threshold Speeds = the speed of travel at which any slower measured speeds would result in excessive delay for travel time reporting segment “.” As defined in § 490.705, the speed threshold is 20 miles per hour (mph) or 60 percent of the posted speed limit travel time reporting segment “s,” whichever is greater.
+![](/graphics/er18ja17.031.gif)Where: Excessive Delay Threshold Travel Times = the time of travel, to the nearest whole second, to traverse the Travel Time Segment at which any longer measured travel times would result in excessive delay for the travel time segment “”; *RSD(s)*Travel Time Segment Lengths = total length of travel time segment to the nearest thousandth of a mile for travel time reporting segment “”; and Threshold Speeds = the speed of travel at which any slower measured speeds would result in excessive delay for travel time reporting segment “.” As defined in § 490.705, the speed threshold is 20 miles per hour (mph) or 60 percent of the posted speed limit travel time reporting segment “s,” whichever is greater.
 
 (d) State DOTs shall determine the “excessive delay” for each 15 minute bin of each reporting segment for every hour and every day in a calendar year as follows:
 

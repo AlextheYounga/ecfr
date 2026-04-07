@@ -1,6 +1,6 @@
 ##### § 490.305 Definitions.
 
-The following definitions are only applicable to this subpart, unless otherwise provided:
+The following definitions are only applicable to this subpart, unless otherwise provided:*Asphalt pavements*
 
 *Asphalt pavements* means pavements where the top-most surface is constructed with asphalt materials. These pavements are coded in the HPMS as having any one of the following Surface Types:
 

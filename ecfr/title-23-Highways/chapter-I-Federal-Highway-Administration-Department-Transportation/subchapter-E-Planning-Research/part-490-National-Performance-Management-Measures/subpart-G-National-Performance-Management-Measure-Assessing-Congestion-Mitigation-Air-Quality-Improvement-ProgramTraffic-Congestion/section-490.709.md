@@ -1,6 +1,6 @@
 ##### § 490.709 Data requirements.
 
-(a) Travel time data needed to calculate the PHED measure in § 490.707(a) shall come from the travel time data set, as specified in § 490.103(e).
+(a) Travel time data needed to calculate the PHED measure in § 490.707(a) shall come from the travel time data set, as specified in § 490.103(e).*Method A—American Community Survey.*
 
 (b) State DOTs, in coordination with MPOs, shall define reporting segments in accordance with § 490.103(f). Reporting segments must be contiguous so that they cover the full extent of the directional mainline highways of the NHS in the urbanized area(s).
 

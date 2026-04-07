@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 16466, Apr. 18, 2025.
 
-Unless otherwise specified, the following definitions apply to this part:
+Unless otherwise specified, the following definitions apply to this part:*American Community Survey (ACS)*101
 
 *American Community Survey (ACS)* is a national level ongoing survey from the U.S. Census Bureau that includes data on jobs, occupations, educational attainment, transportations patterns, and other topics of the Nation's population.
 

@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 16466, Apr. 18, 2025.
 
-All definitions in § 490.101 apply to this subpart. Unless otherwise specified in this subpart, the following definitions apply to this subpart:
+All definitions in § 490.101 apply to this subpart. Unless otherwise specified in this subpart, the following definitions apply to this subpart:*Greenhouse gas (GHG)*2
 
 *Greenhouse gas (GHG)* is any gas that absorbs infrared radiation (traps heat) in the atmosphere. Approximately 97 percent of on-road GHG emissions are carbon dioxide (CO2) from burning fossil fuel. Other transportation GHGs are methane (CH4), nitrous oxide (N2O), and hydrofluorocarbons (HFCs).
 

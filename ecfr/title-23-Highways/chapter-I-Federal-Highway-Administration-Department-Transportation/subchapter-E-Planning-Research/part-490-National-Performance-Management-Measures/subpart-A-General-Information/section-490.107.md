@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 16466, Apr. 18, 2025.
 
-(a) *In general.* All State DOTs and MPOs shall report the information specified in this section for the targets required in § 490.105.
+(a) *In general.* All State DOTs and MPOs shall report the information specified in this section for the targets required in § 490.105.2
 
 (1) All State DOTs and MPOs shall report in accordance with the schedule and content requirements under paragraphs (b), (c), and (d) of this section, respectively.
 
