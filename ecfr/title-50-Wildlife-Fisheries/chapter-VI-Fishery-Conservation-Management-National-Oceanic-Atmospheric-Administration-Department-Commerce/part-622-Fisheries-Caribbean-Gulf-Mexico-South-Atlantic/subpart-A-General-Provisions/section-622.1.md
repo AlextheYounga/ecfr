@@ -1,12 +1,12 @@
 ##### § 622.1 Purpose and scope.
 
-(a) The purpose of this part is to implement the FMPs prepared under the Magnuson-Stevens Act by the CFMC, GMFMC, and/or SAFMC listed in Table 1 of this section.
+(a) The purpose of this part is to implement the FMPs prepared under the Magnuson-Stevens Act by the CFMC, GMFMC, and/or SAFMC listed in Table 1 of this section. 
 
-(b) This part governs conservation and management of species included in the FMPs in or from the Caribbean, Gulf, Mid-Atlantic, South Atlantic, or Atlantic EEZ, unless otherwise specified, as indicated in Table 1 of this section. For the FMPs noted in the following table, conservation and management extends to adjoining state waters for the purposes of data collection and monitoring.
+(b) This part governs conservation and management of species included in the FMPs in or from the Caribbean, Gulf, Mid-Atlantic, South Atlantic, or Atlantic EEZ, unless otherwise specified, as indicated in Table 1 of this section. For the FMPs noted in the following table, conservation and management extends to adjoining state waters for the purposes of data collection and monitoring. 
 
-(c) This part also governs the importation of spiny lobster into Puerto Rico or the U.S. Virgin Islands.
+(c) This part also governs the importation of spiny lobster into Puerto Rico or the U.S. Virgin Islands. 
 
-(d) This part also governs importation of spiny lobster into any place subject to the jurisdiction of the United States.
+(d) This part also governs importation of spiny lobster into any place subject to the jurisdiction of the United States. 
 
 Table 1 to § 622.1—FMPs Implemented Under Part 622
 | FMP title                                                                                                                                                                                                                                                                                                                       | Responsible fishery   management   council(s) | Geographical area                            |

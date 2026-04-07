@@ -1,6 +1,6 @@
 ##### § 1308.49 Temporary scheduling.
 
-(a) Pursuant to 21 U.S.C. 811(h) and without regard to the requirements of 21 U.S.C. 811(b) relating to the scientific and medical evaluation of the Secretary of Health and Human Services, the Drug Enforcement Administration may place a substance into Schedule I on a temporary basis, if it determines that such action is necessary to avoid an imminent hazard to the public safety. An order issued under this section may not be effective before the expiration of 30 calendar days from:
+(a) Pursuant to 21 U.S.C. 811(h) and without regard to the requirements of 21 U.S.C. 811(b) relating to the scientific and medical evaluation of the Secretary of Health and Human Services, the Drug Enforcement Administration may place a substance into Schedule I on a temporary basis, if it determines that such action is necessary to avoid an imminent hazard to the public safety. An order issued under this section may not be effective before the expiration of 30 calendar days from:Federal Register
 
 (1) The date of publication by the Administration of a notice in the Federal Register of its intention to issue such order and the grounds upon which such order is to be issued; and
 

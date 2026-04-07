@@ -1,6 +1,6 @@
 ##### § 1308.43 Initiation of proceedings for rulemaking.
 
-(a) Any interested person may submit a petition to initiate proceedings for the issuance, amendment, or repeal of any rule or regulation issuable pursuant to the provisions of section 201 of the Act.
+(a) Any interested person may submit a petition to initiate proceedings for the issuance, amendment, or repeal of any rule or regulation issuable pursuant to the provisions of section 201 of the Act.Federal Register
 
 (b) Petitions shall be submitted in quintuplicate to the Administrator. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address. Petitions shall be in the following form:
 

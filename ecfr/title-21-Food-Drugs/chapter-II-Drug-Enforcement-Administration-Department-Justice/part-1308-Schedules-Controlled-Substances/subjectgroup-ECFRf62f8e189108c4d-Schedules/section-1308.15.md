@@ -1,6 +1,6 @@
 ##### § 1308.15 Schedule V.
 
-(a) Schedule V shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section.
+(a) Schedule V shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section.*Narcotic drugs.*
 
 (b) *Narcotic drugs.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing any of the following narcotic drugs and their salts, as set forth below:
 
@@ -24,8 +24,8 @@
 
 (d) *Stimulants.* Unless specifically exempted or excluded or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, isomers and salts of isomers:
 
-| (1) Pyrovalerone | 1485. |
-| (2) \[Reserved\] |       |
+| (1) PyrovaleroneH | 1485. |
+| (2) \[Reserved\]  |       |
 
 (e) *Depressants.* Unless specifically exempted or excluded or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts:
 

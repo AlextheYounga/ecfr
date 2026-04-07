@@ -1,6 +1,6 @@
 ##### § 1308.25 Exclusion of a veterinary anabolic steroid implant product; application.
 
-(a) Any person seeking to have any anabolic steroid product, which is expressly intended for administration through implants to cattle or other nonhuman species and which has been approved by the Secretary of Health and Human Services for such administration, identified as being excluded from any schedule, pursuant to section 102(41)(B)(i) of the Act (21 U.S.C. 802(41)(B)(i)), may apply to the Drug and Chemical Evaluation Section, Diversion Control Division, Drug Enforcement Administration . See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
+(a) Any person seeking to have any anabolic steroid product, which is expressly intended for administration through implants to cattle or other nonhuman species and which has been approved by the Secretary of Health and Human Services for such administration, identified as being excluded from any schedule, pursuant to section 102(41)(B)(i) of the Act (21 U.S.C. 802(41)(B)(i)), may apply to the Drug and Chemical Evaluation Section, Diversion Control Division, Drug Enforcement Administration . See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.Federal Register
 
 (b) An application for any exclusion under this section shall be submitted in triplicate and contain the following information:
 

@@ -1,6 +1,6 @@
 ##### § 1308.21 Application for exclusion of a nonnarcotic substance.
 
-(a) Any person seeking to have any nonnarcotic drug that may, under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301), be lawfully sold over the counter without a prescription, excluded from any schedule, pursuant to section 201(g)(1) of the Act (21 U.S.C. 811(g)(1)), may apply to the Drug and Chemical Evaluation Section, Diversion Control Division, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
+(a) Any person seeking to have any nonnarcotic drug that may, under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301), be lawfully sold over the counter without a prescription, excluded from any schedule, pursuant to section 201(g)(1) of the Act (21 U.S.C. 811(g)(1)), may apply to the Drug and Chemical Evaluation Section, Diversion Control Division, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.Federal Register
 
 (b) An application for an exclusion under this section shall contain the following information:
 
