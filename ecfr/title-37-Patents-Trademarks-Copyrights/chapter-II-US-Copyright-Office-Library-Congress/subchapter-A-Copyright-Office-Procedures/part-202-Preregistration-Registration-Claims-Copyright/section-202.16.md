@@ -82,7 +82,7 @@
 
 (10) *Notification of preregistration.* Upon completion of the preregistration, the Copyright Office will email an official notification of the preregistration to the person who submitted the application.
 
-(11) *Certification of preregistation.* A certified copy of the official notification may be obtained in physical form from the Records Research and Certification Section of the Office of Public Information and Education at the address specified in § 201.1 of this chapter.
+(11) *Certification of preregistration.* A certified copy of the official notification may be obtained in physical form from the Records Research and Certification Section of the Office of Public Information and Education at the address specified in § 201.1 of this chapter.
 
 (12) *Public record of preregistration.* The preregistration record also will be made available to the public on the Copyright Office website at: *http://www.copyright.gov.*
 
