@@ -64,7 +64,7 @@
 
 (vi) If the Secretary determines that the requirements for revocation or termination are met, publish with the notice of final results of review under § 351.221(b)(5) notice of “Revocation of Order” or “Termination of Suspended Investigation” (whichever is applicable).
 
-(3) If the Secretary revokes an order, the Secretary will order the suspension of liquidation terminated for the merchandise covered by the revocation on the first day after the period under review, and will instruct the Customs Service to release any cash deposit or bond.
+(3) If the Secretary revokes an order, the Secretary will order the suspension of liquidation terminated for the merchandise covered by the revocation on the first day after the period under review, and will instruct U.S. Customs and Border Protection to release any cash deposit or bond.
 
 (g) *Revocation or termination based on changed circumstances.* (1) The Secretary may revoke an order, in whole or in part, or terminate a suspended investigation if the Secretary concludes that:
 
@@ -90,7 +90,7 @@
 
 (vii) If the Secretary's determines that changed circumstances warrant revocation or termination, publish with the notice of final results of review, under § 351.221(b)(5), notice of “Revocation of Order (in Part)” or “Termination of Suspended Investigation” (whichever is applicable).
 
-(4) If the Secretary revokes an order, in whole or in part, under paragraph (g) of this section, the Secretary will order the suspension of liquidation ended for the merchandise covered by the revocation on the effective date of the notice of revocation, and will instruct the Customs Service to release any cash deposit or bond.
+(4) If the Secretary revokes an order, in whole or in part, under paragraph (g) of this section, the Secretary will order the suspension of liquidation ended for the merchandise covered by the revocation on the effective date of the notice of revocation, and will instruct U.S. Customs and Border Protection to release any cash deposit or bond.
 
 (h) *Revocation or termination based on injury reconsideration.* If the Commission determines in a changed circumstances review under section 751(b)(2) of the Act that the revocation of an order or termination of a suspended investigation is not likely to lead to continuation or recurrence of material injury, the Secretary will revoke, in whole or in part, the order or terminate the suspended investigation, and will publish in the Federal Register notice of “Revocation of Order (in Part)” or “Termination of Suspended Investigation” (whichever is applicable).
 
@@ -126,7 +126,7 @@
 
 (B) Publish with the notice of final results of review, under § 351.221(b)(5), a notice of “Revocation of Order (in Part),” that will include the effective date of the revocation; and
 
-(C) Order any suspension of liquidation ended for merchandise covered by the revocation that was entered on or after the effective date of the revocation, and instruct the Customs Service to release any cash deposit or bond.
+(C) Order any suspension of liquidation ended for merchandise covered by the revocation that was entered on or after the effective date of the revocation, and instruct U.S. Customs and Border Protection to release any cash deposit or bond.
 
 (l) *Revocation under section 129.* The Secretary may revoke an order under section 129 of the URAA (implementation of WTO dispute settlement).
 

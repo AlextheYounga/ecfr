@@ -18,9 +18,9 @@
 
 (5) Issue final results of review and publish in the Federal Register notice of the final results of review that include the rates determined, if the review involved the determination of rates;
 
-(6) If the type of review in question involves a determination as to the amount of duties to be assessed, promptly after publication of the notice of final results instruct the Customs Service to assess antidumping duties or countervailing duties (whichever is applicable) on the subject merchandise covered by the review, except as otherwise provided in § 351.106(c) with respect to *de minimis* duties; and
+(6) If the type of review in question involves a determination as to the amount of duties to be assessed, promptly after publication of the notice of final results instruct U.S. Customs and Border Protection to assess antidumping duties or countervailing duties (whichever is applicable) on the subject merchandise covered by the review, except as otherwise provided in § 351.106(c) with respect to *de minimis* duties; and
 
-(7) If the review involves a revision to the cash deposit rates for estimated antidumping duties or countervailing duties, instruct the Customs Service to collect cash deposits at the revised rates on future entries.
+(7) If the review involves a revision to the cash deposit rates for estimated antidumping duties or countervailing duties, instruct U.S. Customs and Border Protection to collect cash deposits at the revised rates on future entries.
 
 (c) *Special rules*—(1) *Administrative reviews and new shipper reviews.* In an administrative review under section 751(a)(1) of the Act and § 351.213 and a new shipper review under section 751(a)(2)(B) of the Act and § 351.214 the Secretary:
 
@@ -32,7 +32,7 @@
 
 (i) Will include in the notice of initiation of the review an invitation for argument consistent with § 351.309, and a statement that the Secretary is permitting the posting of a bond or other security instead of a cash deposit of estimated antidumping duties;
 
-(ii) Will instruct the Customs Service to accept, instead of the cash deposit of estimated antidumping duties under section 736(a)(3) of the Act, a bond for each entry of the subject merchandise entered, or withdrawn from warehouse, for consumption on or after the date of publication of the notice of initiation of the investigation and through the date not later than 90 days after the date of publication of the order; and
+(ii) Will instruct U.S. Customs and Border Protection to accept, instead of the cash deposit of estimated antidumping duties under section 736(a)(3) of the Act, a bond for each entry of the subject merchandise entered, or withdrawn from warehouse, for consumption on or after the date of publication of the notice of initiation of the investigation and through the date not later than 90 days after the date of publication of the order; and
 
 (iii) Will not issue preliminary results of review.
 

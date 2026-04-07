@@ -8,7 +8,7 @@
 
 (2) *New supplier.* In the case of subject merchandise that is exported to the United States by a company that is not the producer of the merchandise, if the Secretary has not established previously a combination cash deposit rate under paragraph (b)(1)(i) of this section for the exporter and producer in question or a noncombination rate for the exporter in question, the Secretary will apply the cash deposit rate established for the producer. If the Secretary has not previously established a cash deposit rate for the producer, the Secretary will apply the “all-others rate” described in section 705(c)(5) or section 735(c)(5) of the Act, as the case may be.
 
-(c) *Producer not identified*—(1) *In general.* In situations where entry documents do not identify the producer of subject merchandise, if the Secretary has not established previously a noncombination rate for the exporter, the Secretary may instruct the Customs Service to apply as the cash deposit rate the higher of:
+(c) *Producer not identified*—(1) *In general.* In situations where entry documents do not identify the producer of subject merchandise, if the Secretary has not established previously a noncombination rate for the exporter, the Secretary may instruct U.S. Customs and Border Protection to apply as the cash deposit rate the higher of:
 
 (i) The highest of any combination cash deposit rate established for the exporter under paragraph (b)(1)(i) of this section;
 
