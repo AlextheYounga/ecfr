@@ -410,7 +410,7 @@ N.B.
 
 This definition does not include a stack of single detector elements or any two, three, or four element detectors provided time delay and integration is not performed within the element.
 
-*Food.* Specific to exports and reexports to North Korea, Syria and Crimea region of Ukraine, food means items that are consumed by and provide nutrition to humans and animals, and seeds, with the exception of castor bean seeds, that germinate into items that will be consumed by and provide nutrition to humans and animals. (Food does not include alcoholic beverages.)
+*Food.* Specific to exports and reexports to North Korea, Syria, Crimea region of Ukraine, and the so-called Donetsk People's Republic and Luhansk People's Republic regions of Ukraine, food means items that are consumed by and provide nutrition to humans and animals, and seeds, with the exception of castor bean seeds, that germinate into items that will be consumed by and provide nutrition to humans and animals. (Food does not include alcoholic beverages.)
 
 *Foreign government agency.* For the purposes of exemption from support documentation (see § 748.9 of the EAR), a foreign government agency is defined as follows:
 
