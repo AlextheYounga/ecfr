@@ -1,6 +1,6 @@
 ##### § 1.625 Conclusion of supplemental examination; publication of supplemental examination certificate; procedure after conclusion.
 
-(a) A supplemental examination proceeding will conclude with the electronic issuance of a supplemental examination certificate. The supplemental examination certificate will indicate the result of the determination whether any of the items of information presented in the request raised a substantial new question of patentability.
+(a) A supplemental examination proceeding will conclude with the electronic issuance of a supplemental examination certificate. The supplemental examination certificate will indicate the result of the determination whether any of the items of information presented in the request raised a substantial new question of patentability.*ex parte*
 
 (b) If the supplemental examination certificate states that a substantial new question of patentability is raised by one or more items of information in the request, *ex parte* reexamination of the patent will be ordered under 35 U.S.C. 257. Upon the conclusion of the *ex parte* reexamination proceeding, an *ex parte* reexamination certificate, which will include a statement specifying that *ex parte* reexamination was ordered under 35 U.S.C. 257, will be published. The electronically issued supplemental examination certificate will remain as part of the public record of the patent.
 

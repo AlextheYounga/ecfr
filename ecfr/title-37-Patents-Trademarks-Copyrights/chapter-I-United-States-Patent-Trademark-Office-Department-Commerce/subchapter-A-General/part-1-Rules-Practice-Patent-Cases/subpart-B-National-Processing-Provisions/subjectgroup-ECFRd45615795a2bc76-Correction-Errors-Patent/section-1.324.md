@@ -1,6 +1,6 @@
 ##### § 1.324 Correction of inventorship in patent, pursuant to 35 U.S.C. 256.
 
-(a) Whenever through error a person is named in an issued patent as the inventor, or an inventor is not named in an issued patent, the Director, pursuant to 35 U.S.C. 256, may, on application of all the parties and assignees, or on order of a court before which such matter is called in question, issue a certificate naming only the actual inventor or inventors.
+(a) Whenever through error a person is named in an issued patent as the inventor, or an inventor is not named in an issued patent, the Director, pursuant to 35 U.S.C. 256, may, on application of all the parties and assignees, or on order of a court before which such matter is called in question, issue a certificate naming only the actual inventor or inventors.*see*
 
 (b) Any request to correct inventorship of a patent pursuant to paragraph (a) of this section must be accompanied by:
 

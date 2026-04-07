@@ -1,6 +1,6 @@
 ##### § 1.8 Certificate of mailing or transmission.
 
-(a) Except in the situations enumerated in paragraph (a)(2) of this section or as otherwise expressly excluded in this chapter, correspondence required to be filed in the U.S. Patent and Trademark Office within a set period of time will be considered as being timely filed if the procedure described in this section is followed. The actual date of receipt will be used for all other purposes.
+(a) Except in the situations enumerated in paragraph (a)(2) of this section or as otherwise expressly excluded in this chapter, correspondence required to be filed in the U.S. Patent and Trademark Office within a set period of time will be considered as being timely filed if the procedure described in this section is followed. The actual date of receipt will be used for all other purposes.*Relative to Patents and Patent Applications*
 
 (1) Correspondence will be considered as being timely filed if:
 

@@ -1,6 +1,6 @@
 ##### § 1.105 Requirements for information.
 
-(a)(1) In the course of examining or treating a matter in a pending or abandoned application, in a patent, or in a reexamination proceeding, including a reexamination proceeding ordered as a result of a supplemental examination proceeding, the examiner or other Office employee may require the submission, from individuals identified under § 1.56(c), or any assignee, of such information as may be reasonably necessary to properly examine or treat the matter, for example:
+(a)(1) In the course of examining or treating a matter in a pending or abandoned application, in a patent, or in a reexamination proceeding, including a reexamination proceeding ordered as a result of a supplemental examination proceeding, the examiner or other Office employee may require the submission, from individuals identified under § 1.56(c), or any assignee, of such information as may be reasonably necessary to properly examine or treat the matter, for example:*Commercial databases:*
 
 (i) *Commercial databases:* The existence of any particularly relevant commercial database known to any of the inventors that could be searched for a particular aspect of the invention.
 

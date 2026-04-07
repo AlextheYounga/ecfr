@@ -1,6 +1,6 @@
 ##### § 1.29 Micro entity status.
 
-(a) To establish micro entity status under this paragraph, the applicant must certify that:
+(a) To establish micro entity status under this paragraph, the applicant must certify that:*e.g.,*
 
 (1) The applicant qualifies as a small entity as defined in § 1.27 without relying on a government use license exception under § 1.27(a)(4);
 

@@ -1,6 +1,6 @@
 ##### § 1.111 Reply by applicant or patent owner to a non-final Office action.
 
-(a)(1) If the Office action after the first examination (§ 1.104) is adverse in any respect, the applicant or patent owner, if he or she persists in his or her application for a patent or reexamination proceeding, must reply and request reconsideration or further examination, with or without amendment. See §§ 1.135 and 1.136 for time for reply to avoid abandonment.
+(a)(1) If the Office action after the first examination (§ 1.104) is adverse in any respect, the applicant or patent owner, if he or she persists in his or her application for a patent or reexamination proceeding, must reply and request reconsideration or further examination, with or without amendment. See §§ 1.135 and 1.136 for time for reply to avoid abandonment.*Supplemental replies.*
 
 (2) *Supplemental replies.* (i) A reply that is supplemental to a reply that is in compliance with § 1.111(b) will not be entered as a matter of right except as provided in paragraph (a)(2)(ii) of this section. The Office may enter a supplemental reply if the supplemental reply is clearly limited to:
 

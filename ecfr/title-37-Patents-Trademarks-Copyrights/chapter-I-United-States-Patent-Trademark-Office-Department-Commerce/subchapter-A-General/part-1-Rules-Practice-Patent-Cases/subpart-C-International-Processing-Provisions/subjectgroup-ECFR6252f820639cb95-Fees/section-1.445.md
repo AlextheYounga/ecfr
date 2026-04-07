@@ -1,6 +1,6 @@
 ##### § 1.445 International application filing, processing and search fees.
 
-(a) The following fees and charges for international applications are established by law or by the director under the authority of 35 U.S.C. 376:
+(a) The following fees and charges for international applications are established by law or by the director under the authority of 35 U.S.C. 376:*ter:*
 
 (1) A transmittal fee (see 35 U.S.C. 361(d) and PCT Rule 14) consisting of:
 

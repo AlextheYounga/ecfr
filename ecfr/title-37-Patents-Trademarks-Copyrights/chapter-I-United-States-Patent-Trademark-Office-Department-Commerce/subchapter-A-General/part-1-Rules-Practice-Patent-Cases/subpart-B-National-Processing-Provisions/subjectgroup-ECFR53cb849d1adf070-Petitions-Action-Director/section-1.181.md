@@ -1,6 +1,6 @@
 ##### § 1.181 Petition to the Director.
 
-(a) Petition may be taken to the Director:
+(a) Petition may be taken to the Director:*ex parte*
 
 (1) From any action or requirement of any examiner in the *ex parte* prosecution of an application, or in *ex parte* or *inter partes* prosecution of a reexamination proceeding which is not subject to appeal to the Patent Trial and Appeal Board or to the court;
 

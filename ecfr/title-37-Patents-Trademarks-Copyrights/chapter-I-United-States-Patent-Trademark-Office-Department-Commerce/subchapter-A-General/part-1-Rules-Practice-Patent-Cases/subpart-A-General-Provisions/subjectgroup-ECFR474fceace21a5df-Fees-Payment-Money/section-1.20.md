@@ -2,7 +2,7 @@
 
 Link to an amendment published at 89 FR 92007, Nov. 20, 2024.
 
-(a) For providing a certificate of correction for an applicant's mistake (§ 1.323): $172.00.
+(a) For providing a certificate of correction for an applicant's mistake (§ 1.323): $172.00.*ex parte*
 
 (b) Processing fee for correcting inventorship in a patent (§ 1.324): $172.00.
 
@@ -23,6 +23,8 @@ Link to an amendment published at 89 FR 92007, Nov. 20, 2024.
 (F) Sufficient clarity and contrast to permit direct reproduction and electronic capture by use of digital imaging and optical character recognition.
 
 Table 1 to Paragraph (c)(1)(i)
+|                                       |           |
+| ------------------------------------- | --------- |
 | By a micro entity (§ 1.29)            | $1,355.00 |
 | By a small entity (§ 1.27(a))         | 2,710.00  |
 | By other than a small or micro entity | 6,775.00  |

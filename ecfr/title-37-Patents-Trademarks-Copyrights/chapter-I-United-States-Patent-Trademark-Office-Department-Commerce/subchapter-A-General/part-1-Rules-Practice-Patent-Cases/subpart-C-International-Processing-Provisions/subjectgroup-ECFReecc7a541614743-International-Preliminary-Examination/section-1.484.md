@@ -1,6 +1,6 @@
 ##### § 1.484 Conduct of international preliminary examination.
 
-(a) An international preliminary examination will be conducted to formulate a non-binding opinion as to whether the claimed invention has novelty, involves an inventive step (is non-obvious) and is industrially applicable.
+(a) An international preliminary examination will be conducted to formulate a non-binding opinion as to whether the claimed invention has novelty, involves an inventive step (is non-obvious) and is industrially applicable.*bis.*
 
 (b) International preliminary examination will begin in accordance with PCT Rule 69.1.
 

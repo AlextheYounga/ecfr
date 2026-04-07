@@ -1,6 +1,6 @@
 ##### § 1.1051 Relief from prescribed time limits.
 
-(a) If the delay in an applicant's failure to act within prescribed time limits under the Hague Agreement in connection with requirements pertaining to an international design application was unintentional, a petition may be filed pursuant to this section to excuse the failure to act as to the United States. A grantable petition pursuant to this section must be accompanied by:
+(a) If the delay in an applicant's failure to act within prescribed time limits under the Hague Agreement in connection with requirements pertaining to an international design application was unintentional, a petition may be filed pursuant to this section to excuse the failure to act as to the United States. A grantable petition pursuant to this section must be accompanied by:*Reply.*
 
 (1) A copy of any invitation sent from the International Bureau setting a prescribed time limit for which applicant failed to timely act;
 

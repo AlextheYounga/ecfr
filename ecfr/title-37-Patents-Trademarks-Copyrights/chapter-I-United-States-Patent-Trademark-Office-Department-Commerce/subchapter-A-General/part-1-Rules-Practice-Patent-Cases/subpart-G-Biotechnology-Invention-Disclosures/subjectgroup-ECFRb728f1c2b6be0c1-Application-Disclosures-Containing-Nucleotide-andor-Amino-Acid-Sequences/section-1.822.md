@@ -1,6 +1,6 @@
 ##### § 1.822 Symbols and format to be used for nucleotide and/or amino acid sequence data.
 
-(a) The symbols and format to be used for nucleotide and/or amino acid sequence data shall conform to the requirements of paragraphs (b) through (e) of this section.
+(a) The symbols and format to be used for nucleotide and/or amino acid sequence data shall conform to the requirements of paragraphs (b) through (e) of this section.*Format representation of nucleotides.*
 
 (b) The code for representing the nucleotide and/or amino acid sequence characters shall conform to the code set forth in appendices A and C to this subpart. No code other than that specified in these sections shall be used in nucleotide and amino acid sequences. A modified base or modified or unusual amino acid may be presented in a given sequence as the corresponding unmodified base or amino acid if the modified base or modified or unusual amino acid is one of those listed in appendices B and D to this subpart, and the modification is also set forth in the Feature section. Otherwise, each occurrence of a base or amino acid not appearing in appendices A and C, shall be listed in a given sequence as “n” or “Xaa,” respectively, with further information, as appropriate, given in the Feature section, by including one or more feature keys listed in appendices E and F to this subpart.
 

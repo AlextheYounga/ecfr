@@ -1,6 +1,6 @@
 ##### § 1.155 Expedited examination of design applications.
 
-(a) The applicant may request that the Office expedite the examination of a design application. To qualify for expedited examination:
+(a) The applicant may request that the Office expedite the examination of a design application. To qualify for expedited examination:*e.g.,*
 
 (1) The application must include drawings in compliance with § 1.84, or for an international design application that designates the United States, must have been published pursuant to Hague Agreement Article 10(3);
 

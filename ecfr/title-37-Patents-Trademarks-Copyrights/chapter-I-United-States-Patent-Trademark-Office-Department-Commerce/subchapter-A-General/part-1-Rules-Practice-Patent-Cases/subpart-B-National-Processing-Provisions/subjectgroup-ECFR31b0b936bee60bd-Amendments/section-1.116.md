@@ -1,6 +1,6 @@
 ##### § 1.116 Amendments and affidavits or other evidence after final action and prior to appeal.
 
-(a) An amendment after final action must comply with § 1.114 or this section.
+(a) An amendment after final action must comply with § 1.114 or this section.*ex parte*
 
 (b) After a final rejection or other final action (§ 1.113) in an application or in an *ex parte* reexamination filed under § 1.510, or an action closing prosecution (§ 1.949) in an *inter partes* reexamination filed under § 1.913, but before or on the same date of filing an appeal (§ 41.31 or § 41.61 of this title):
 

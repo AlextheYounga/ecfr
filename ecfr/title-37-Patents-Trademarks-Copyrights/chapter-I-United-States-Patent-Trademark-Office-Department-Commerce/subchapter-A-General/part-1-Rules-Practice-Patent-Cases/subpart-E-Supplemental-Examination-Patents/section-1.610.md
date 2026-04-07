@@ -1,6 +1,6 @@
 ##### § 1.610 Content of request for supplemental examination.
 
-(a) A request for supplemental examination must be accompanied by the fee for filing a request for supplemental examination as set forth in § 1.20(k)(1), the fee for reexamination ordered as a result of a supplemental examination proceeding as set forth in § 1.20(k)(2), and any applicable document size fees as set forth in § 1.20(k)(3).
+(a) A request for supplemental examination must be accompanied by the fee for filing a request for supplemental examination as set forth in § 1.20(k)(1), the fee for reexamination ordered as a result of a supplemental examination proceeding as set forth in § 1.20(k)(2), and any applicable document size fees as set forth in § 1.20(k)(3).*e.g.,*
 
 (b) A request for supplemental examination must include:
 

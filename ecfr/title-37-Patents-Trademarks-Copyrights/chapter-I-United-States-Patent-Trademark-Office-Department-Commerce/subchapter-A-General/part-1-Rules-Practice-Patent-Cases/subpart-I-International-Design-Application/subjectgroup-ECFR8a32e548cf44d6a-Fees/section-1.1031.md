@@ -1,6 +1,6 @@
 ##### § 1.1031 International design application fees.
 
-(a) International design applications filed through the Office as an office of indirect filing are subject to payment of a transmittal fee (35 U.S.C. 382(b) and Article 4(2)) in the amount of:
+(a) International design applications filed through the Office as an office of indirect filing are subject to payment of a transmittal fee (35 U.S.C. 382(b) and Article 4(2)) in the amount of:*http://www.wipo.int/hague.*
 
 Table 1 to Paragraph (a)
 | By a micro entity (§ 1.29)            | $26.00 |

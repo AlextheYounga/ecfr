@@ -1,6 +1,6 @@
 ##### § 1.63 Inventor's oath or declaration.
 
-(a) The inventor, or each individual who is a joint inventor of a claimed invention, in an application for patent must execute an oath or declaration directed to the application, except as provided for in § 1.64. An oath or declaration under this section must:
+(a) The inventor, or each individual who is a joint inventor of a claimed invention, in an application for patent must execute an oath or declaration directed to the application, except as provided for in § 1.64. An oath or declaration under this section must:*i.e.,*
 
 (1) Identify the inventor or joint inventor executing the oath or declaration by his or her legal name;
 

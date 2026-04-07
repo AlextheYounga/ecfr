@@ -1,6 +1,6 @@
 ##### § 1.4 Nature of correspondence and signature requirements.
 
-(a) Correspondence with the Patent and Trademark Office comprises:
+(a) Correspondence with the Patent and Trademark Office comprises:*Correspondence in and relating to a particular application or other proceeding in the Office.*
 
 (1) Correspondence relating to services and facilities of the Office, such as general inquiries, requests for publications supplied by the Office, orders for printed copies of patents, orders for copies of records, transmission of assignments for recording, and the like, and
 

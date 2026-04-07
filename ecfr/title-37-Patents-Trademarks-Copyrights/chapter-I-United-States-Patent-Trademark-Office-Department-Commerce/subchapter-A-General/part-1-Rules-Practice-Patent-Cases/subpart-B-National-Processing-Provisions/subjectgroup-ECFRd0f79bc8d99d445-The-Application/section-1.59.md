@@ -1,6 +1,6 @@
 ##### § 1.59 Expungement of information or copy of papers in application file.
 
-(a) (1) Information in an application will not be expunged, except as provided in paragraph (b) of this section or § 41.7(a) or § 42.7(a) of this title.
+(a) (1) Information in an application will not be expunged, except as provided in paragraph (b) of this section or § 41.7(a) or § 42.7(a) of this title.*i.e.,*
 
 (2) Information forming part of the original disclosure (*i.e.,* written specification including the claims, drawings, and any preliminary amendment present on the filing date of the application) will not be expunged from the application file.
 

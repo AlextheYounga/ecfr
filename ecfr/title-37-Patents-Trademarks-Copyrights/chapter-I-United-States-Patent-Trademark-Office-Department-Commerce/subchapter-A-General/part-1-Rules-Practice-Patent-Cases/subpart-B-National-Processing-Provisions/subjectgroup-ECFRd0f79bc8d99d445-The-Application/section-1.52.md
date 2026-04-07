@@ -1,6 +1,6 @@
 ##### § 1.52 Language, paper, writing, margins, read-only optical disc specifications.
 
-(a) *Papers that are to become a part of the permanent United States Patent and Trademark Office records in the file of a patent application, or a reexamination or supplemental examination proceeding.* (1) All papers, other than drawings, that are submitted on paper or by facsimile transmission, and are to become a part of the permanent United States Patent and Trademark Office records in the file of a patent application or reexamination or supplemental examination proceeding, must be on sheets of paper that are the same size, not permanently bound together, and:
+(a) *Papers that are to become a part of the permanent United States Patent and Trademark Office records in the file of a patent application, or a reexamination or supplemental examination proceeding.* (1) All papers, other than drawings, that are submitted on paper or by facsimile transmission, and are to become a part of the permanent United States Patent and Trademark Office records in the file of a patent application or reexamination or supplemental examination proceeding, must be on sheets of paper that are the same size, not permanently bound together, and:1/2
 
 (i) Flexible, strong, smooth, non-shiny, durable, and white;
 

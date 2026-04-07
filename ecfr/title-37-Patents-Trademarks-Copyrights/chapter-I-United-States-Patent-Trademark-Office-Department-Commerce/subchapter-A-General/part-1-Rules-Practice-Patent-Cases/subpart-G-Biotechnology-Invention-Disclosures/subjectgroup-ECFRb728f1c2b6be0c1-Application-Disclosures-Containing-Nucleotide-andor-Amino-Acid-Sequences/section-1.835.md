@@ -1,6 +1,6 @@
 ##### § 1.835 Amendment to add or replace a “Sequence Listing XML” in patent applications filed on or after July 1, 2022.
 
-(a) Any amendment to a patent application adding an initial submission of a “Sequence Listing XML” as required by § 1.831(a) after the application filing date must include:
+(a) Any amendment to a patent application adding an initial submission of a “Sequence Listing XML” as required by § 1.831(a) after the application filing date must include:*see*
 
 (1) A “Sequence Listing XML” in accordance with §§ 1.831 through 1.834, submitted as an XML file:
 

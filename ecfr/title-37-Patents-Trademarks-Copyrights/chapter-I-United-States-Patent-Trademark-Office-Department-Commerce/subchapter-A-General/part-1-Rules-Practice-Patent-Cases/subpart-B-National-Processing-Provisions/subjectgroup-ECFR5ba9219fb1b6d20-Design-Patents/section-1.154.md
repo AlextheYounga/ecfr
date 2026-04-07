@@ -1,6 +1,6 @@
 ##### § 1.154 Arrangement of application elements in a design application.
 
-(a) The elements of the design application, if applicable, should appear in the following order:
+(a) The elements of the design application, if applicable, should appear in the following order:*see*
 
 (1) Design application transmittal form.
 

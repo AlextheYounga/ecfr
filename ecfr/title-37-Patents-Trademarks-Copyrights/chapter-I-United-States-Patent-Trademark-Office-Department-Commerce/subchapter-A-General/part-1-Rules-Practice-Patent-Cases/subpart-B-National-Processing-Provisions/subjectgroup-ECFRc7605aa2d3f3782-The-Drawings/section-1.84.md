@@ -1,6 +1,6 @@
 ##### § 1.84 Standards for drawings.
 
-(a) *Drawings.* There are two acceptable categories for presenting drawings in utility and design patent applications.
+(a) *Drawings.* There are two acceptable categories for presenting drawings in utility and design patent applications.1/2©
 
 (1) *Black ink.* Black and white drawings are normally required. India ink, or its equivalent that secures solid black lines, must be used for drawings; or
 

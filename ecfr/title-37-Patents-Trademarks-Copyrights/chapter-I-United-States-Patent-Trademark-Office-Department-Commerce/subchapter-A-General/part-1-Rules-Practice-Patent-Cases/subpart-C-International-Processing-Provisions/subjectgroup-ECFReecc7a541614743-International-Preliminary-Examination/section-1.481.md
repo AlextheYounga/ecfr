@@ -1,6 +1,6 @@
 ##### § 1.481 Payment of international preliminary examination fees.
 
-(a) The handling and preliminary examination fees shall be paid within the time period set in PCT Rule 57.3. The handling fee or preliminary examination fee payable is the handling fee or preliminary examination fee in effect on the date of payment.
+(a) The handling and preliminary examination fees shall be paid within the time period set in PCT Rule 57.3. The handling fee or preliminary examination fee payable is the handling fee or preliminary examination fee in effect on the date of payment.*bis.*
 
 (1) If the handling and preliminary examination fees are not paid within the time period set in PCT Rule 57.3, applicant will be notified and given one month within which to pay the deficient fees plus a late payment fee equal to the greater of:
 

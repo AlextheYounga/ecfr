@@ -1,6 +1,6 @@
 ##### § 1.465 Timing of application processing based on the priority date.
 
-(a) For the purpose of computing time limits under the Treaty, the priority date shall be defined as in PCT Art. 2(xi).
+(a) For the purpose of computing time limits under the Treaty, the priority date shall be defined as in PCT Art. 2(xi).*bis.*
 
 (b) When a claimed priority date is corrected under PCT Rule 26*bis.*1(a), or a priority claim is added under PCT Rule 26*bis.*1(a), withdrawn under PCT Rule 90*bis.*3, or considered not to have been made under PCT Rule 26*bis.*2, the priority date for the purposes of computing any non-expired time limits will be the filing date of the earliest remaining priority claim under PCT Article 8 of the international application, or if none, the international filing date.
 

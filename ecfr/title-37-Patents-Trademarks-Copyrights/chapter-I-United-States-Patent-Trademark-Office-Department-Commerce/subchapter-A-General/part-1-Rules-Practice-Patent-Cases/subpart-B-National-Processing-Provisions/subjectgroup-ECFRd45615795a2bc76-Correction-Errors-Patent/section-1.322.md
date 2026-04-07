@@ -1,6 +1,6 @@
 ##### § 1.322 Certificate of correction of Office mistake.
 
-(a)(1) The Director may issue a certificate of correction pursuant to 35 U.S.C. 254 to correct a mistake in a patent, incurred through the fault of the Office, which mistake is clearly disclosed in the records of the Office:
+(a)(1) The Director may issue a certificate of correction pursuant to 35 U.S.C. 254 to correct a mistake in a patent, incurred through the fault of the Office, which mistake is clearly disclosed in the records of the Office:*sua sponte*
 
 (i) At the request of the patentee or the patentee's assignee;
 

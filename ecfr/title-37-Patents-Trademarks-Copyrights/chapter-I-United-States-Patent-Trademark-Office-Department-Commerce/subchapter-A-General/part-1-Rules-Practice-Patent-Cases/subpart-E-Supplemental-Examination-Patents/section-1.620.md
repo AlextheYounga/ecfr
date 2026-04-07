@@ -1,6 +1,6 @@
 ##### § 1.620 Conduct of supplemental examination proceeding.
 
-(a) Within three months after the filing date of a request for supplemental examination, the Office will determine whether a substantial new question of patentability affecting any claim of the patent is raised by any of the items of information presented in the request. The determination will generally be limited to a review of the item(s) of information identified in the request as applied to the identified claim(s) of the patent. The determination will be based on the claims in effect at the time of the determination and will become a part of the official record of the patent.
+(a) Within three months after the filing date of a request for supplemental examination, the Office will determine whether a substantial new question of patentability affecting any claim of the patent is raised by any of the items of information presented in the request. The determination will generally be limited to a review of the item(s) of information identified in the request as applied to the identified claim(s) of the patent. The determination will be based on the claims in effect at the time of the determination and will become a part of the official record of the patent.*e.g.,*
 
 (b) The Office may hold in abeyance action on any petition or other paper filed in a supplemental examination proceeding until after the proceeding is concluded by the electronic issuance of the supplemental examination certificate as set forth in § 1.625.
 

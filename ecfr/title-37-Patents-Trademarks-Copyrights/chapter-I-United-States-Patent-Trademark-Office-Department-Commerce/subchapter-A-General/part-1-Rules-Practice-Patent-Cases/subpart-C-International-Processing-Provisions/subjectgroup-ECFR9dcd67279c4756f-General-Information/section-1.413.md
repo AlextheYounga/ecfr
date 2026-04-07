@@ -1,6 +1,6 @@
 ##### § 1.413 The United States International Searching Authority.
 
-(a) Pursuant to appointment by the Assembly, the United States Patent and Trademark Office will act as an International Searching Authority for international applications filed in the United States Receiving Office and in other Receiving Offices as may be agreed upon by the Director, in accordance with the agreement between the Patent and Trademark Office and the International Bureau (PCT Art. 16(3)(b)).
+(a) Pursuant to appointment by the Assembly, the United States Patent and Trademark Office will act as an International Searching Authority for international applications filed in the United States Receiving Office and in other Receiving Offices as may be agreed upon by the Director, in accordance with the agreement between the Patent and Trademark Office and the International Bureau (PCT Art. 16(3)(b)).*bis*
 
 (b) The Patent and Trademark Office, when acting as an International Searching Authority, will be identified by the full title “United States International Searching Authority” or by the abbreviation “ISA/US.”
 

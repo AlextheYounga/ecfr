@@ -1,6 +1,6 @@
 ##### § 1.825 Amendment to add or replace a “Sequence Listing” and CRF copy thereof.
 
-(a) Any amendment adding a “Sequence Listing” (§ 1.821(c)) after the application filing date must include:
+(a) Any amendment adding a “Sequence Listing” (§ 1.821(c)) after the application filing date must include:*see*
 
 (1) A “Sequence Listing,” in accordance with the requirements of §§ 1.821 through 1.824, submitted as:
 

@@ -1,6 +1,6 @@
 ##### § 1.248 Service of papers; manner of service; proof of service in cases other than interferences and trials.
 
-(a) Service of papers must be on the attorney or agent of the party if there be such or on the party if there is no attorney or agent, and may be made in any of the following ways:
+(a) Service of papers must be on the attorney or agent of the party if there be such or on the party if there is no attorney or agent, and may be made in any of the following ways:*Official Gazette.*
 
 (1) By delivering a copy of the paper to the person served;
 

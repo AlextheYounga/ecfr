@@ -5,6 +5,8 @@ Link to an amendment published at 89 FR 92006, Nov. 20, 2024.
 (a) Issue fee for issuing each original patent, except a design or plant patent, or for issuing each reissue patent:
 
 Table 1 to Paragraph (a)
+|                                       |          |
+| ------------------------------------- | -------- |
 | By a micro entity (§ 1.29)            | $258.00  |
 | By a small entity (§ 1.27(a))         | 516.00   |
 | By other than a small or micro entity | 1,290.00 |

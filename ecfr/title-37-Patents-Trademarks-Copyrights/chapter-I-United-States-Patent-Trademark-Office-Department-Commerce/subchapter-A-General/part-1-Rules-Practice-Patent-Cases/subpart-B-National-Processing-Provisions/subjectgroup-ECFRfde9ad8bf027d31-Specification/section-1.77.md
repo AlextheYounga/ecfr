@@ -1,6 +1,6 @@
 ##### § 1.77 Arrangement of application elements.
 
-(a) The elements of the application, if applicable, should appear in the following order:
+(a) The elements of the application, if applicable, should appear in the following order:*see*
 
 (1) Utility application transmittal form.
 

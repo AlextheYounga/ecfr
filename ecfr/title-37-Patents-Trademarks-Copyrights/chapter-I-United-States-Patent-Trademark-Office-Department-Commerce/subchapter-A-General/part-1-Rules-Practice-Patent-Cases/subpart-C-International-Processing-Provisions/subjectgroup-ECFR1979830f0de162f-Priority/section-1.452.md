@@ -1,6 +1,6 @@
 ##### § 1.452 Restoration of right of priority.
 
-(a) If the international application has an international filing date which is later than the expiration of the priority period as defined by PCT Rule 2.4 but within two months from the expiration of the priority period, the right of priority in the international application may be restored upon request if the delay in filing the international application within the priority period was unintentional.
+(a) If the international application has an international filing date which is later than the expiration of the priority period as defined by PCT Rule 2.4 but within two months from the expiration of the priority period, the right of priority in the international application may be restored upon request if the delay in filing the international application within the priority period was unintentional.*bis.*
 
 (b) A request to restore the right of priority in an international application under paragraph (a) of this section must be filed not later than two months from the expiration of the priority period and must include:
 

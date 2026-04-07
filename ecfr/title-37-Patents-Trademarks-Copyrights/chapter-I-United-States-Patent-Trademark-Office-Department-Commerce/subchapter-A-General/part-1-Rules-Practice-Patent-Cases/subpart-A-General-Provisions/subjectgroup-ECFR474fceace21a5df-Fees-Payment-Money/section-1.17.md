@@ -2,14 +2,30 @@
 
 Link to an amendment published at 89 FR 92004, Nov. 20, 2024.Link to a correction of the above amendment published at 90 FR 3037, Jan. 14, 2025.Link to a correction published at 90 FR 3037, Jan. 14, 2025.
 
-(a) Extension fees pursuant to § 1.136(a), except in provisional applications filed under § 1.53(c):
+(a) Extension fees pursuant to § 1.136(a), except in provisional applications filed under § 1.53(c):*see*
 
 (1) For reply within first month:
 
 Table 1 to Paragraph (a)(1)
-| By a micro entity (§ 1.29)            | $47.00 |
-| By a small entity (§ 1.27(a))         | 94.00  |
-| By other than a small or micro entity | 235.00 |
+|                                                                                                                                                                                                                    |        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| By a micro entity (§ 1.29)                                                                                                                                                                                         | $47.00 |
+| By a small entity (§ 1.27(a))                                                                                                                                                                                      | 94.00  |
+| By other than a small or micro entity                                                                                                                                                                              | 235.00 |
+| **Note 4 to table 15 to paragraph (i)(1):**                                                                                                                                                                        |        |
+| § 1.28(c)(3)—for processing a non-itemized fee deficiency based on an error in small entity status.                                                                                                                |        |
+| § 1.29(k)(3)—for processing a non-itemized fee deficiency based on an error in micro entity status.                                                                                                                |        |
+| § 1.41(b)—for supplying the name or names of the inventor or joint inventors in an application without either an application data sheet or the inventor's oath or declaration, except in provisional applications. |        |
+| § 1.48—for correcting inventorship, except in provisional applications.                                                                                                                                            |        |
+| § 1.52(d)—for processing a nonprovisional application filed with a specification in a language other than English.                                                                                                 |        |
+| § 1.53(c)(3)—to convert a provisional application filed under § 1.53(c) into a nonprovisional application under § 1.53(b).                                                                                         |        |
+| § 1.71(g)(2)—for processing a belated amendment under § 1.71(g).                                                                                                                                                   |        |
+| § 1.102(e)—for requesting prioritized examination of an application.                                                                                                                                               |        |
+| § 1.103(b)—for requesting limited suspension of action, continued prosecution application for a design patent (§ 1.53(d)).                                                                                         |        |
+| § 1.103(c)—for requesting limited suspension of action, request for continued examination (§ 1.114).                                                                                                               |        |
+| § 1.103(d)—for requesting deferred examination of an application.                                                                                                                                                  |        |
+| § 1.291(c)(5)—for processing a second or subsequent protest by the same real party in interest.                                                                                                                    |        |
+| § 3.81 of this chapter—for a patent to issue to assignee, assignment submitted after payment of the issue fee.                                                                                                     |        |
 
 (2) For reply within second month:
 
@@ -115,7 +131,7 @@ Table 11 to Paragraph (g)
 | By a small entity (§ 1.27(a))         | 94.00  |
 | By other than a small or micro entity | 235.00 |
 
-**Note 2 to table 11 to paragraph (g)(1):**§ 1.12—for access to an assignment record. § 1.14—for access to an application. § 1.46—for filing an application on behalf of an inventor by a person who otherwise shows sufficient proprietary interest in the matter. § 1.55(f)—for filing a belated certified copy of a foreign application. § 1.55(g)—for filing a belated certified copy of a foreign application. § 1.57(a)—for filing a belated certified copy of a foreign application. § 1.59—for expungement of information. § 1.136(b)—for review of a request for extension of time when the provisions of § 1.136(a) are not available. § 1.377—for review of decision refusing to accept and record payment of a maintenance fee filed prior to expiration of a patent. § 1.550(c)—for patent owner requests for extension of time in *ex parte* reexamination proceedings. § 1.956—for patent owner requests for extension of time in *inter partes* reexamination proceedings. § 5.12 of this chapter—for expedited handling of a foreign filing license. § 5.15 of this chapter—for changing the scope of a license. § 5.25 of this chapter—for retroactive license.
+**Note 2 to table 11 to paragraph (g)(1):***ex parte*§ 1.12—for access to an assignment record. § 1.14—for access to an application. § 1.46—for filing an application on behalf of an inventor by a person who otherwise shows sufficient proprietary interest in the matter. § 1.55(f)—for filing a belated certified copy of a foreign application. § 1.55(g)—for filing a belated certified copy of a foreign application. § 1.57(a)—for filing a belated certified copy of a foreign application. § 1.59—for expungement of information. § 1.136(b)—for review of a request for extension of time when the provisions of § 1.136(a) are not available. § 1.377—for review of decision refusing to accept and record payment of a maintenance fee filed prior to expiration of a patent. § 1.550(c)—for patent owner requests for extension of time in *ex parte* reexamination proceedings. § 1.956—for patent owner requests for extension of time in *inter partes* reexamination proceedings. § 5.12 of this chapter—for expedited handling of a foreign filing license. § 5.15 of this chapter—for changing the scope of a license. § 5.25 of this chapter—for retroactive license.
 
 (2) For filing a petition to suspend action in an application under § 1.103(a):
 

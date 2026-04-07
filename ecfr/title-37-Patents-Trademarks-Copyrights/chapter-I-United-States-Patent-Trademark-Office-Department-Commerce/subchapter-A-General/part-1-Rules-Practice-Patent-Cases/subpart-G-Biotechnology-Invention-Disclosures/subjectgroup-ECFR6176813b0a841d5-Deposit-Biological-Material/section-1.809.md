@@ -1,6 +1,6 @@
 ##### § 1.809 Examination procedures.
 
-(a) The examiner shall determine pursuant to § 1.104 in each application for patent, application for reissue patent or reexamination proceeding if a deposit is needed, and if needed, if a deposit actually made is acceptable for patent purposes. If a deposit is needed and has not been made or replaced or supplemented in accordance with these regulations, the examiner, where appropriate, shall reject the affected claims under the appropriate provision of 35 U.S.C. 112, explaining why a deposit is needed and/or why a deposit actually made cannot be accepted.
+(a) The examiner shall determine pursuant to § 1.104 in each application for patent, application for reissue patent or reexamination proceeding if a deposit is needed, and if needed, if a deposit actually made is acceptable for patent purposes. If a deposit is needed and has not been made or replaced or supplemented in accordance with these regulations, the examiner, where appropriate, shall reject the affected claims under the appropriate provision of 35 U.S.C. 112, explaining why a deposit is needed and/or why a deposit actually made cannot be accepted.*see*
 
 (b) The applicant for patent or patent owner shall reply to a rejection under paragraph (a) of this section by—
 

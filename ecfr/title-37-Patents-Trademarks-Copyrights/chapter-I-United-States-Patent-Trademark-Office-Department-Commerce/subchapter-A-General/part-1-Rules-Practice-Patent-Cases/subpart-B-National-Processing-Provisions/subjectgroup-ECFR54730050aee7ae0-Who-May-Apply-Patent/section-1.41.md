@@ -1,6 +1,6 @@
 ##### § 1.41 Inventorship.
 
-(a) An application must include, or be amended to include, the name of the inventor for any invention claimed in the application.
+(a) An application must include, or be amended to include, the name of the inventor for any invention claimed in the application.*bis.*
 
 (b) The inventorship of a nonprovisional application under 35 U.S.C. 111(a) is the inventor or joint inventors set forth in the application data sheet in accordance with § 1.76 filed before or concurrently with the inventor's oath or declaration. If an application data sheet is not filed before or concurrently with the inventor's oath or declaration, the inventorship is the inventor or joint inventors set forth in the inventor's oath or declaration, except as provided for in §§ 1.53(d)(4) and 1.63(d). Once an application data sheet or the inventor's oath or declaration is filed in a nonprovisional application, any correction of inventorship must be pursuant to § 1.48. If neither an application data sheet nor the inventor's oath or declaration is filed during the pendency of a nonprovisional application, the inventorship is the inventor or joint inventors set forth in the application papers filed pursuant to § 1.53(b), unless the applicant files a paper, including the processing fee set forth in § 1.17(i), supplying the name or names of the inventor or joint inventors.
 

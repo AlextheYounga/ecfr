@@ -2,7 +2,7 @@
 
 Link to an amendment published at 89 FR 92008, Nov. 20, 2024.
 
-(a)(1) If an applicant is required to reply within a nonstatutory or shortened statutory time period, applicant may extend the time period for reply up to the earlier of the expiration of any maximum period set by statute or five months after the time period set for reply, if a petition for an extension of time and the fee set in § 1.17(a) or (u) are filed, unless:
+(a)(1) If an applicant is required to reply within a nonstatutory or shortened statutory time period, applicant may extend the time period for reply up to the earlier of the expiration of any maximum period set by statute or five months after the time period set for reply, if a petition for an extension of time and the fee set in § 1.17(a) or (u) are filed, unless:*ex parte*
 
 (i) Applicant is notified otherwise in an Office action;
 

@@ -1,6 +1,6 @@
 ##### § 1.480 Demand for international preliminary examination.
 
-(a) On the filing of a proper Demand in an application for which the United States International Preliminary Examining Authority is competent and for which the fees have been paid, the international application shall be the subject of an international preliminary examination. The preliminary examination fee (§ 1.482(a)(1)) and the handling fee (§ 1.482(b)) shall be due within the applicable time limit set forth in PCT Rule 57.3.
+(a) On the filing of a proper Demand in an application for which the United States International Preliminary Examining Authority is competent and for which the fees have been paid, the international application shall be the subject of an international preliminary examination. The preliminary examination fee (§ 1.482(a)(1)) and the handling fee (§ 1.482(b)) shall be due within the applicable time limit set forth in PCT Rule 57.3.*bis.*
 
 (b) The Demand shall be made on a standardized form (PCT Rule 53). Copies of the printed Demand forms are available from the United States Patent and Trademark Office. Letters requesting printed Demand forms should be marked “Mail Stop PCT.”
 

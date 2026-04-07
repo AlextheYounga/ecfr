@@ -1,6 +1,6 @@
 ##### § 1.421 Applicant for international application.
 
-(a) Only residents or nationals of the United States of America may file international applications in the United States Receiving Office. If an international application does not include an applicant who is indicated as being a resident or national of the United States of America, and at least one applicant:
+(a) Only residents or nationals of the United States of America may file international applications in the United States Receiving Office. If an international application does not include an applicant who is indicated as being a resident or national of the United States of America, and at least one applicant:*see also*
 
 (1) Has indicated a residence or nationality in a PCT Contracting State, or
 

@@ -1,6 +1,6 @@
 ##### § 1.740 Formal requirements for application for extension of patent term; correction of informalities.
 
-(a) An application for extension of patent term must be made in writing to the Director. A formal application for the extension of patent term must include:
+(a) An application for extension of patent term must be made in writing to the Director. A formal application for the extension of patent term must include:Federal Register*see*
 
 (1) A complete identification of the approved product as by appropriate chemical and generic name, physical structure or characteristics;
 

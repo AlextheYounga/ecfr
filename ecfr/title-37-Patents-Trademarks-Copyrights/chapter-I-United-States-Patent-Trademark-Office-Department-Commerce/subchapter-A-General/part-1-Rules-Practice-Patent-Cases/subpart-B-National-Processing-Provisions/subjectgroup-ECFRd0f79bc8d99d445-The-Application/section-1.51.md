@@ -1,6 +1,6 @@
 ##### § 1.51 General requisites of an application.
 
-(a) Applications for patents must be made to the Director of the United States Patent and Trademark Office. An application transmittal letter limited to the transmittal of the documents and fees comprising a patent application under this section may be signed by a juristic applicant or patent owner.
+(a) Applications for patents must be made to the Director of the United States Patent and Trademark Office. An application transmittal letter limited to the transmittal of the documents and fees comprising a patent application under this section may be signed by a juristic applicant or patent owner.*see*
 
 (b) A complete application filed under § 1.53(b) or § 1.53(d) comprises:
 

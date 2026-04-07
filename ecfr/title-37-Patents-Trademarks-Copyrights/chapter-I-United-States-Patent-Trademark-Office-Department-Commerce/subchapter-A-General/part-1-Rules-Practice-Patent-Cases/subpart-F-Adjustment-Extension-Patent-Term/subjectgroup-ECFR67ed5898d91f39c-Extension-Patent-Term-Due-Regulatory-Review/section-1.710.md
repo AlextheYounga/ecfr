@@ -1,6 +1,6 @@
 ##### § 1.710 Patents subject to extension of the patent term.
 
-(a) A patent is eligible for extension of the patent term if the patent claims a product as defined in paragraph (b) of this section, either alone or in combination with other ingredients that read on a composition that received permission for commercial marketing or use, or a method of using such a product, or a method of manufacturing such a product, and meets all other conditions and requirements of this subpart.
+(a) A patent is eligible for extension of the patent term if the patent claims a product as defined in paragraph (b) of this section, either alone or in combination with other ingredients that read on a composition that received permission for commercial marketing or use, or a method of using such a product, or a method of manufacturing such a product, and meets all other conditions and requirements of this subpart.*product*
 
 (b) The term *product* referred to in paragraph (a) of this section means—
 
