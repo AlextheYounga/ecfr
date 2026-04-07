@@ -1,7 +1,5 @@
 ##### § 685.102 Definitions.
 
-Link to an amendment published at 88 FR 43900, July 10, 2023.
-
 (a)(1) The definitions of the following terms used in this part are set forth in the Student Assistance General Provisions, 34 CFR part 668: 
 
 Academic year Campus-based programs Dependent student Disbursement Eligible program Eligible student Enrolled Expected family contribution (EFC) Federal Consolidation Loan Program Federal Pell Grant Program Federal Perkins Loan Program Federal PLUS Program Federal Supplemental Educational Opportunity Grant Program Federal Work-Study Program Full-time student Graduate or professional student Half-time student Independent student One-third of an academic year Parent Payment period Teacher Education Assistance for College and Higher Education (TEACH) Grant Program TEACH Grant Two-thirds of an academic year Undergraduate student U.S. citizen or national William D. Ford Federal Direct Loan (Direct Loan) Program
@@ -138,7 +136,7 @@ Accredited Clock hour Correspondence course Credit hour Educational program Elig
 
 (i) The making of three consecutive, voluntary, on-time, full monthly payments on a defaulted loan prior to consolidation; or 
 
-(ii) Agreeing to repay the Direct Consolidation Loan under one of the income-contingent repayment plans described in § 685.209 or the income-based repayment plan described in § 685.221. 
+(ii) Agreeing to repay the Direct Consolidation Loan under one of the income-driven repayment plans described in § 685.209. 
 
 (3) For the purpose of paragraph (2)(i) of this definition, the required monthly payment amount may not be more than is reasonable and affordable based on the borrower's total financial circumstances. “On-time” means a payment made within 20 days of the scheduled due date, and voluntary payments are payments made directly by the borrower and do not include payments obtained by Federal offset, garnishment, or income or asset execution. 
 

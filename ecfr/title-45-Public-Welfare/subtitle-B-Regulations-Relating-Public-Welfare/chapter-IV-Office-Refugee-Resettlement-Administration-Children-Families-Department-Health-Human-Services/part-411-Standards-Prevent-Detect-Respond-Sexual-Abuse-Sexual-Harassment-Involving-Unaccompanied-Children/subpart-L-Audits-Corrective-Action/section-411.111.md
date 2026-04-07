@@ -14,7 +14,7 @@
 
 (g) ORR and the care provider facility must provide the auditor with the relevant documentation to complete a thorough audit of the care provider facility.
 
-(h) The auditor must retain and preserve all documentation (including, *e.g.,* videotapes and interview notes) relied upon in making audit determinations. Such documentation must be provided to ORR upon request.
+(h) The auditor must retain and preserve all documentation (including, e.g., videotapes and interview notes) relied upon in making audit determinations. Such documentation must be provided to ORR upon request.
 
 (i) The auditor must interview a representative sample of UCs and staff, and the care provider facility must make space available suitable for such interviews.
 
