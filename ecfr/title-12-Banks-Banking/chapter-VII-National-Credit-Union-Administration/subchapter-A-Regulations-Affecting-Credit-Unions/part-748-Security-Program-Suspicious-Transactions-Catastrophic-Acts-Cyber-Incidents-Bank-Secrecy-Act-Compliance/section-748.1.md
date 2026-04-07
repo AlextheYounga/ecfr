@@ -1,12 +1,38 @@
 ##### § 748.1 Filing of reports.
 
-Link to an amendment published at 88 FR 12816, Mar. 1, 2023.
-
 (a) The president or managing official of each federally insured credit union must certify compliance with the requirements of this part in its Credit Union Profile annually through NCUA's online information management system.
 
 (b) *Catastrophic act report.* Each federally insured credit union will notify the regional director within 5 business days of any catastrophic act that occurs at its office(s). A catastrophic act is any disaster, natural or otherwise, resulting in physical destruction or damage to the credit union or causing an interruption in vital member services, as defined in § 749.1 of this chapter, projected to last more than two consecutive business days. Within a reasonable time after a catastrophic act occurs, the credit union shall ensure that a record of the incident is prepared and filed at its main office. In the preparation of such record, the credit union should include information sufficient to indicate the office where the catastrophic act occurred; when it took place; the amount of the loss, if any; whether any operational or mechanical deficiency(ies) might have contributed to the catastrophic act; and what has been done or is planned to be done to correct the deficiency(ies).
 
-(c) *Suspicious Activity Report.* A credit union must file a report if it knows, suspects, or has reason to suspect that any crime or any suspicious transaction related to money laundering activity or a violation of the Bank Secrecy Act has occurred. For the purposes of this paragraph (c) *credit union* means a federally insured credit union and *official* means any member of the board of directors or a volunteer committee.
+(c) *Cyber incident report.* Each federally insured credit union must notify the appropriate NCUA-designated point of contact of the occurrence of a *reportable cyber incident* via email, telephone, or other similar methods that the NCUA may prescribe. The NCUA must receive this notification as soon as possible but no later than 72 hours after a federally insured credit union reasonably believes that it has experienced a reportable cyber incident or, if reporting pursuant to paragraph (c)(1)(i)(C) of this section, within 72 hours of being notified by a third-party, whichever is sooner.
+
+(1) *Reportable cyber incident.* (i) A reportable cyber incident is any substantial cyber incident that leads to one or more of the following:
+
+(A) A substantial loss of confidentiality, integrity, or availability of a network or member information system as defined in appendix A, section I.B.2. e., of this part that results from the unauthorized access to or exposure of sensitive data, disrupts vital member services as defined in § 749.1 of this chapter, or has a serious impact on the safety and resiliency of operational systems and processes.
+
+(B) A disruption of business operations, vital member services, or a member information system resulting from a cyberattack or exploitation of vulnerabilities.
+
+(C) A disruption of business operations or unauthorized access to sensitive data facilitated through, or caused by, a compromise of a credit union service organization, cloud service provider, or other third-party data hosting provider or by a supply chain compromise.
+
+(ii) A *reportable cyber incident* does not include any event where the cyber incident is performed in good faith by an entity in response to a specific request by the owner or operators of the system.
+
+(2) *Definitions.* For purposes of this part:
+
+*Compromise* means the unauthorized disclosure, modification, substitution, or use of sensitive data or the unauthorized modification of a security-related system, device, or process in order to gain unauthorized access.
+
+*Confidentiality* means preserving authorized restrictions on information access and disclosure, including means for protecting personal privacy and proprietary information.
+
+*Cyber incident* means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system.
+
+*Cyberattack* means an attack, via cyberspace, targeting an enterprise's use of cyberspace for the purpose of disrupting, disabling, destroying, or maliciously controlling a computing environment/infrastructure; or destroying the integrity of the data or stealing controlled information.
+
+*Disruption* means an unplanned event that causes an information system to be inoperable for a length of time.
+
+*Integrity* means guarding against improper information modification or destruction and includes ensuring information non-repudiation and authenticity.
+
+*Sensitive data* means any information which by itself, or in combination with other information, could be used to cause harm to a credit union or credit union member and any information concerning a person or their account which is not public information, including any non-public personally identifiable information.
+
+(d) *Suspicious Activity Report.* A credit union must file a report if it knows, suspects, or has reason to suspect that any crime or any suspicious transaction related to money laundering activity or a violation of the Bank Secrecy Act has occurred. For the purposes of this paragraph (c) *credit union* means a federally insured credit union and *official* means any member of the board of directors or a volunteer committee.
 
 (1) *Reportable activity. Transaction* for purposes of this paragraph means a deposit, withdrawal, transfer between accounts, exchange of currency, loan, extension of credit, purchase or sale of any stock, bond, share certificate, or other monetary instrument or investment security, or any other payment, transfer, or delivery by, through, or to a financial institution, by whatever means effected. A credit union must report any known or suspected crime or any suspicious transaction related to money laundering or other illegal activity, for example, terrorism financing, loan fraud, or embezzlement, or a violation of the Bank Secrecy Act by sending a completed suspicious activity report (SAR) to the Financial Crimes Enforcement Network (FinCEN) in the following circumstances:
 
@@ -42,4 +68,4 @@ Link to an amendment published at 88 FR 12816, Mar. 1, 2023.
 
 (6) *Safe Harbor.* Any credit union, including its officials, employees, and agents, that makes a report of suspected or known criminal violations and suspicious activities to law enforcement and financial institution supervisory authorities, including supporting documentation, are protected from liability for any disclosure in the report, or for failure to disclose the existence of the report, or both, to the full extent provided by 31 U.S.C. 5318(g)(3). This protection applies if the report is filed pursuant to this part or is filed on a voluntary basis.
 
-\[50 FR 53295, Dec. 31, 1985, as amended at 53 FR 26232, July 12, 1988; 58 FR 17492, Apr. 5, 1993; 61 FR 11527, Mar. 21, 1996; 71 FR 62878, Oct. 27, 2006; 72 FR 42273, Aug. 2, 2007; 74 FR 35769, July 21, 2009; 76 FR 18366, Apr. 4, 2011; 78 FR 64885, Oct. 30, 2013\]
+\[50 FR 53295, Dec. 31, 1985, as amended at 53 FR 26232, July 12, 1988; 58 FR 17492, Apr. 5, 1993; 61 FR 11527, Mar. 21, 1996; 71 FR 62878, Oct. 27, 2006; 72 FR 42273, Aug. 2, 2007; 74 FR 35769, July 21, 2009; 76 FR 18366, Apr. 4, 2011; 78 FR 64885, Oct. 30, 2013; 88 FR 12816, Mar. 1, 2023\]
