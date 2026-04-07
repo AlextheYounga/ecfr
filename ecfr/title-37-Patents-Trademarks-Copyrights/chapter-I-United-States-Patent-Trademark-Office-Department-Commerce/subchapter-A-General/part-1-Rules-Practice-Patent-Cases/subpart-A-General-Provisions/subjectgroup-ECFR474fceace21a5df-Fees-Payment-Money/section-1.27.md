@@ -10,7 +10,7 @@
 
 (ii) Meets the size standards set forth in 13 CFR 121.801 through 121.805 to be eligible for reduced patent fees. Questions related to standards for a small business concern may be directed to: Small Business Administration, Size Standards Staff, 409 Third Street, SW., Washington, DC 20416.
 
-(3) *Nonprofit Organization.* A nonprofit organization, as used in paragraph (c) of this section, means any nonprofit organization that:
+(3) *Nonprofit organization.* A nonprofit organization, as used in paragraph (c) of this section, means any nonprofit organization that:
 
 (i) Has not assigned, granted, conveyed, or licensed, and is under no obligation under contract or law to assign, grant, convey, or license, any rights in the invention to any person, concern, or organization which would not qualify as a person, small business concern, or a nonprofit organization; and
 
