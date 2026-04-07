@@ -8,7 +8,7 @@
 
 (1) The reasons why the regulated entity or the Office of Finance seeks to make the payment;
 
-(2) An identification of the entity-affiliated party who will receive the payment;
+(2) An identification of the affiliated party who will receive the payment;
 
 (3) A copy of any contract or agreement regarding the subject matter of the filing;
 
