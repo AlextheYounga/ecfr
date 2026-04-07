@@ -1,6 +1,4 @@
-##### § 40.99 How long does the laboratory retain specimens after testing?
-
-Link to an amendment published at 88 FR 27643, May 2, 2023.
+##### § 40.84 How long does the laboratory retain specimens after testing?
 
 (a) As a laboratory testing the primary specimen, you must retain a specimen that was reported with positive, adulterated, substituted, or invalid results for a minimum of one year.
 
@@ -11,3 +9,5 @@ Link to an amendment published at 88 FR 27643, May 2, 2023.
 (d) If you have not sent the split specimen to another laboratory for testing, you must retain the split specimen for an employee's test for the same period of time that you retain the primary specimen and under the same storage conditions.
 
 (e) As the laboratory testing the split specimen, you must meet the requirements of paragraphs (a) through (d) of this section with respect to the split specimen.
+
+\[65 FR 79526, Dec. 19, 2000. Redesignated at 88 FR 27643, May 2, 2023\]

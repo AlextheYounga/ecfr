@@ -1,6 +1,4 @@
-##### § 40.41 Where does a urine collection for a DOT drug test take place?
-
-Link to an amendment published at 88 FR 27639, May 2, 2023.
+##### § 40.42 Where does a urine collection for a DOT drug test take place?
 
 (a) A urine collection for a DOT drug test must take place in a collection site meeting the requirements of this section.
 
@@ -29,3 +27,5 @@ Link to an amendment published at 88 FR 27639, May 2, 2023.
 (3) No one but the employee may be present in the multistall restroom during the collection, except for the monitor in the event of a monitored collection or the observer in the event of a directly observed collection.
 
 (g) A collection site may be in a medical facility, a mobile facility (*e.g.,* a van), a dedicated collection facility, or any other location meeting the requirements of this section.
+
+\[65 FR 79526, Dec. 19, 2000. Redesignated at 88 FR 27639, May 2, 2023\]

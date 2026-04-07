@@ -1,6 +1,4 @@
-##### § 40.96 What criteria do laboratories use to establish that a specimen is invalid?
-
-Link to an amendment published at 88 FR 27643, May 2, 2023.
+##### § 40.90 What criteria do laboratories use to establish that a urine specimen is invalid?
 
 (a) As a laboratory, you must use the invalid test result criteria for the initial and confirmation testing as required by the HHS Mandatory Guidelines, and you must use two separate aliquots—one for the initial test and another for the confirmation test.
 
@@ -10,4 +8,4 @@ Link to an amendment published at 88 FR 27643, May 2, 2023.
 
 (d) As a laboratory, you must report the reason a test result is invalid.
 
-\[73 FR 35970, June 25, 2008\]
+\[73 FR 35970, June 25, 2008. Redesignated at 88 FR 27643, May 2, 2023\]
