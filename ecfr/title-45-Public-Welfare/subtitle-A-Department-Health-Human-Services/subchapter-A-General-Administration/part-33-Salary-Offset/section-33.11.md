@@ -6,7 +6,7 @@
 
 (b) *Non-centralized administrative offset.* When salary offset through centralized administrative offset under paragraph (a) of this section is not possible, the Department may attempt to collect a debt through non-centralized administrative offset in accordance with part 30 of this title.
 
-(1) *Format of the request. Upon completion of the procedures established in this part and pursuant to 5 U.S.C. 5514, the Department shall:*
+(1) *Format of the request.* Upon completion of the procedures established in this part and pursuant to 5 U.S.C. 5514, the Department shall:
 
 (i) Certify in writing to the paying agency that the employee owes the debt, the amount and basis of the debt, the date on which payment(s) is due, the date the Government's right to collect the debt first accrued, and that the Departmental regulations implementing 5 U.S.C. 5514 have been approved by the Office of Personnel Management.
 
