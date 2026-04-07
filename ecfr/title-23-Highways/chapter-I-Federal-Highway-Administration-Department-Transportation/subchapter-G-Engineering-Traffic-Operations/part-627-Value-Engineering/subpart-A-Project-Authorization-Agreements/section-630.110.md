@@ -2,7 +2,7 @@
 
 (a) When changes are needed to the original project agreement, a modification of agreement shall be prepared. Agreements should not be modified to replace one Federal fund category with another unless specifically authorized by statute.
 
-(b) The STD may develop the modification of project agreement in a format acceptable to both the STD and the FHWA provided the following are included:
+(b) The State DOT may develop the modification of project agreement in a format acceptable to both the State DOT and the FHWA provided the following are included:
 
 (1) The Federal-aid project number and State;
 
@@ -18,4 +18,4 @@
 
 (7) Signatures of officials from both the State and the FHWA and date executed.
 
-(c) The STD may use an electronic version of the modification of project agreement as provided by the FHWA.
+(c) The State DOT may use an electronic version of the modification of project agreement as provided by the FHWA.

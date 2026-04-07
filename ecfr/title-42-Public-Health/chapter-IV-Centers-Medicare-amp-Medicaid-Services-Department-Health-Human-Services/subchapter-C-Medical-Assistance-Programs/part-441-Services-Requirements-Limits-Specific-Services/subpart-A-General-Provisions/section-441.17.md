@@ -1,5 +1,7 @@
 ##### § 441.17 Laboratory services.
 
+Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
+
 (a) The plan must provide for payment of laboratory services as defined in § 440.30 of this subchapter if provided by -
 
 (1) An independent laboratory that meets the requirements for participation in the Medicare program found in § 405.1316 of this chapter;
