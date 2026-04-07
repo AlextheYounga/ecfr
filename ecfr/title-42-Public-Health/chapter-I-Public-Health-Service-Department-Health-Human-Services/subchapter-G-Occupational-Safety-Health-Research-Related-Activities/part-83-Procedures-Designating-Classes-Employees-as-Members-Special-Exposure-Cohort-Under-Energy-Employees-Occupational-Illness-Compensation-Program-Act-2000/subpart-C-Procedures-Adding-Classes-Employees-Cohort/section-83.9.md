@@ -47,8 +47,4 @@
 Table 1 for § 83.9: Summary of Informational Requirements for All Petitions
 
 \[Petitioner(s) must submit identifying and contact information and either A. or B. of this table.\]
-
-A. The claimant's authorization of the petition, based on NIOSH having found it could not complete a dose reconstrucitn for the claimant submitting the petition; or
-
-B. (1) A proposed class definition identifying: (i) Facility, (ii) relevant locations at the facility; (iii) job titles/duties, (iv) period of employment, and if relevant, (v) exposure incident.  
-(2) The basis for infeasibility of dose reconstruction; either: (i) lack of monitoring; or (ii) destruction, falsification, or loss of records; or (iii) expert report; or (iv) scientific or technical report.
+| A. The claimant's authorization of the petition, based on NIOSH having found it could not complete a dose reconstrucitn for the claimant submitting the petition; or | B. (1) A proposed class definition identifying: (i) Facility, (ii) relevant locations at the facility; (iii) job titles/duties, (iv) period of employment, and if relevant, (v) exposure incident.   (2) The basis for infeasibility of dose reconstruction; either: (i) lack of monitoring; or (ii) destruction, falsification, or loss of records; or (iii) expert report; or (iv) scientific or technical report. |

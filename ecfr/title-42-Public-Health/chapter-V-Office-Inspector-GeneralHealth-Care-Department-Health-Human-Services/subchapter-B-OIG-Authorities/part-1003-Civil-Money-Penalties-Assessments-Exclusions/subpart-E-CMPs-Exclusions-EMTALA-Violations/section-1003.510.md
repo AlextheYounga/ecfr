@@ -1,6 +1,6 @@
 ##### § 1003.510 Amount of penalties.
 
-The OIG may impose 5 -
+The OIG may impose 5/> -
 
 5 The penalty amounts in this section are adjusted for inflation annually. Adjusted amounts are published at 45 CFR part 102.
 
