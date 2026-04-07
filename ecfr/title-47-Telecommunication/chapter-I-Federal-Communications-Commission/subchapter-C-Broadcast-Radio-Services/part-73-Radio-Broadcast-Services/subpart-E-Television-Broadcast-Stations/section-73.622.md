@@ -1971,7 +1971,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | TEXAS                |                                                     |
 | Abilene              | 15, 24, 29                                          |
 | Alvin                | 36                                                  |
-| Amarillo             | 7, \*9, 10, 15, 19                                  |
+| Amarillo             | \*9, 10, 15, 19, 20                                 |
 | Arlington            | 42                                                  |
 | Austin               | 7, 21, \*22, 33, 43, 49                             |
 | Baytown              | 41                                                  |
@@ -2039,7 +2039,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Provo                | 29, 32, \*44                                        |
 | Richfield            | \*19                                                |
 | Salt Lake City       | 20, 28, 34, 38, 40, \*42, 46                        |
-| St. George           | 9, \*18                                             |
+| St. George           | 18, 21                                              |
 | Vernal               | 16                                                  |
 | VERMONT              |                                                     |
 | Burlington           | 13, 22, \*32, 43                                    |
