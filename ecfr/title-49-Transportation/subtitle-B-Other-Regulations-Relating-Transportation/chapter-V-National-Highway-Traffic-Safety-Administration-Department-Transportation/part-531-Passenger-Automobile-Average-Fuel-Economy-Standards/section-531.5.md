@@ -1,11 +1,8 @@
 ##### § 531.5 Fuel economy standards.
 
-Link to an amendment published at 89 FR 12756, Feb. 20, 2024.
-
-(a) Except as provided in paragraph (f) of this section, each manufacturer of passenger automobiles shall comply with the fleet average fuel economy standards in Table 1 to this paragraph (a), expressed in miles per gallon, in the model year specified as applicable:
+(a) Except as provided in paragraph (e) of this section, each manufacturer of passenger automobiles shall comply with the fleet average fuel economy standards in Table 1 to this paragraph (a), expressed in miles per gallon, in the model year specified as applicable:
 
 Table 1 to § 531.5(a)
-
 | Model year | Average fuel economy standard (miles per gallon) |
 | ---------- | ------------------------------------------------ |
 | 1978       | 18.0                                             |
@@ -27,7 +24,6 @@ Table 1 to § 531.5(a)
 ![](/graphics/er02my22.256.gif)Where: *N* is the total number (sum) of passenger automobiles produced by a manufacturer; *N*i is the number (sum) of the *ith* passenger automobile model produced by the manufacturer; and *T*i is the fuel economy target of the *ith* model passenger automobile, which is determined according to the following formula, rounded to the nearest hundredth:![](/graphics/er02my22.257.gif)Where: Parameters *a, b, c,* and *d* are defined in Table 2 to this paragraph (b); *e* = 2.718; and *x* = footprint (in square feet, rounded to the nearest tenth) of the vehicle model.
 
 Table 2 to § 531.5(b)—Parameters for the Passenger Automobile Fuel Economy Targets
-
 | Model year | Parameters |
 | ---------- | ---------- |
 | 2011       | 31.20      |
@@ -39,7 +35,6 @@ Table 2 to § 531.5(b)—Parameters for the Passenger Automobile Fuel Economy Ta
 Table 3 to § 531.5(c)—Parameters for the Passenger Automobile Fuel Economy Targets
 
 \[MYs 2012-2026\]
-
 | Model year | Parameters |
 | ---------- | ---------- |
 | 2012       | 35.95      |
@@ -63,7 +58,6 @@ Table 3 to § 531.5(c)—Parameters for the Passenger Automobile Fuel Economy Ta
 Table 4 to § 531.5(d)—Minimum Fuel Economy Standards for Domestically Manufactured Passenger Automobiles
 
 \[MYs 2011-2026\]
-
 | Model year | Minimum standard |
 | ---------- | ---------------- |
 | 2011       | 27.8             |
@@ -88,7 +82,6 @@ Table 4 to § 531.5(d)—Minimum Fuel Economy Standards for Domestically Manufac
 (1) *Avanti Motor Corporation.*
 
 Table 5 to § 531.5(e)(1)—Average Fuel Economy Standards
-
 | Model year | Miles per gallon |
 | ---------- | ---------------- |
 | 1978       | 16.1             |
@@ -103,7 +96,6 @@ Table 5 to § 531.5(e)(1)—Average Fuel Economy Standards
 (2) *Rolls-Royce Motors, Inc.*
 
 Table 6 to § 531.5(e)(2)—Average Fuel Economy Standards
-
 | Model year | Miles per gallon |
 | ---------- | ---------------- |
 | 1978       | 10.7             |
@@ -132,7 +124,6 @@ Table 6 to § 531.5(e)(2)—Average Fuel Economy Standards
 (3) *Checker Motors Corporation.*
 
 Table 7 to § 531.5(e)(3)—Average Fuel Economy Standards
-
 | Model year | Miles per gallon |
 | ---------- | ---------------- |
 | 1978       | 17.6             |
@@ -141,24 +132,38 @@ Table 7 to § 531.5(e)(3)—Average Fuel Economy Standards
 | 1981       | 18.3             |
 | 1982       | 18.4             |
 
-(4) *Aston Martin Lagonda, Inc.*
+(4) *Aston Martin Lagonda Limited.*
 
-Table 8 to § 531.5(e)(4)—Average Fuel Economy Standards
-
-| Model year | Miles per gallon |
-| ---------- | ---------------- |
-| 1979       | 11.5             |
-| 1980       | 12.1             |
-| 1981       | 12.2             |
-| 1982       | 12.2             |
-| 1983       | 11.3             |
-| 1984       | 11.3             |
-| 1985       | 11.4             |
+Table 8 to § 531.5(e)(4)—Average Fuel Economy Standard
+| Model year | (Miles per   gallon) |
+| ---------- | -------------------- |
+| 1979       | 11.5                 |
+| 1980       | 12.1                 |
+| 1981       | 12.2                 |
+| 1982       | 12.2                 |
+| 1983       | 11.3                 |
+| 1984       | 11.3                 |
+| 1985       | 11.4                 |
+| 2008       | 19.0                 |
+| 2009       | 18.6                 |
+| 2010       | 19.2                 |
+| 2011       | 19.1                 |
+| 2012       | 19.2                 |
+| 2013       | 20.1                 |
+| 2014       | 19.7                 |
+| 2015       | 19.8                 |
+| 2016       | 20.2                 |
+| 2017       | 21.4                 |
+| 2018       | 22.9                 |
+| 2019       | 22.4                 |
+| 2020       | 22.6                 |
+| 2021       | 24.9                 |
+| 2022       | 24.9                 |
+| 2023       | 24.9                 |
 
 (5) *Excalibur Automobile Corporation.*
 
 Table 9 to § 531.5(e)(5)—Average Fuel Economy Standards
-
 | Model year | Miles per   gallon |
 | ---------- | ------------------ |
 | 1978       | 11.5               |
@@ -173,7 +178,6 @@ Table 9 to § 531.5(e)(5)—Average Fuel Economy Standards
 (6) *Lotus Cars Ltd.*
 
 Table 10 to § 531.5(e)(6)—Average Fuel Economy Standards
-
 | Model year | Miles per   gallon |
 | ---------- | ------------------ |
 | 1994       | 24.2               |
@@ -182,7 +186,6 @@ Table 10 to § 531.5(e)(6)—Average Fuel Economy Standards
 (7) *Officine Alfieri Maserati, S.p.A.*
 
 Table 11 to § 531.5(e)(7)—Average Fuel Economy Standard
-
 | Model year | Miles per   gallon |
 | ---------- | ------------------ |
 | 1978       | 12.5               |
@@ -194,7 +197,6 @@ Table 11 to § 531.5(e)(7)—Average Fuel Economy Standard
 (8) *Lamborghini of North America.*
 
 Table 12 to § 531.5(e)(8)—Average Fuel Economy Standard
-
 | Model year | Miles per   gallon |
 | ---------- | ------------------ |
 | 1983       | 13.7               |
@@ -203,7 +205,6 @@ Table 12 to § 531.5(e)(8)—Average Fuel Economy Standard
 (9) *LondonCoach Co., Inc.*
 
 Table 13 to § 531.5(e)(9)—Average Fuel Economy Standard
-
 | Model year | Miles per   gallon |
 | ---------- | ------------------ |
 | 1985       | 21.0               |
@@ -213,7 +214,6 @@ Table 13 to § 531.5(e)(9)—Average Fuel Economy Standard
 (10) *Automobili Lamborghini S.p.A./Vector Aeromotive Corporation.*
 
 Table 14 § 531.5(e)(10)—Average Fuel Economy Standard
-
 | Model year | Miles per   gallon |
 | ---------- | ------------------ |
 | 1995       | 12.8               |
@@ -223,7 +223,6 @@ Table 14 § 531.5(e)(10)—Average Fuel Economy Standard
 (11) *Dutcher Motors, Inc.*
 
 Table 15 to § 531.5(e)(11)—Average Fuel Economy Standard
-
 | Model year | Miles per   gallon |
 | ---------- | ------------------ |
 | 1986       | 16.0               |
@@ -237,7 +236,6 @@ Table 15 to § 531.5(e)(11)—Average Fuel Economy Standard
 (12) *MedNet, Inc.*
 
 Table 16 to § 531.5(e)(12)—Average Fuel Economy Standard
-
 | Model year | Average   fuel   economy   standard   (miles per   gallon) |
 | ---------- | ---------------------------------------------------------- |
 | 1996       | 17.0                                                       |
@@ -247,7 +245,6 @@ Table 16 to § 531.5(e)(12)—Average Fuel Economy Standard
 (13) *Vector Aeromotive Corporation.*
 
 Table 17 to § 531.5(e)(13)—Average Fuel Economy Standard
-
 | Model year | Miles per   gallon |
 | ---------- | ------------------ |
 | 1998       | 12.1               |
@@ -255,7 +252,6 @@ Table 17 to § 531.5(e)(13)—Average Fuel Economy Standard
 (14) *Qvale Automotive Group Srl.*
 
 Table 18 to § 531.5(e)(14)—Average Fuel Economy Standard
-
 | Model year | Miles per   gallon |
 | ---------- | ------------------ |
 | 2000       | 22.0               |
@@ -264,8 +260,77 @@ Table 18 to § 531.5(e)(14)—Average Fuel Economy Standard
 (15) *Spyker Automobielen B.V.*
 
 Table 19 to § 531.5(e)(15)—Average Fuel Economy Standard
+| Model year | (Miles per   gallon) |
+| ---------- | -------------------- |
+| 2006       | 18.9                 |
+| 2007       | 18.9                 |
+| 2008       | 19.6                 |
+| 2009       | 19.6                 |
+| 2010       | 20.7                 |
 
-| Model year | Miles per   gallon |
-| ---------- | ------------------ |
-| 2006       | 18.9               |
-| 2007       | 18.9               |
+(16) *Ferrari.*
+
+Table 20 to § 531.5(e)(16)—Average Fuel Economy Standard
+| Model year | (Miles per   gallon) |
+| ---------- | -------------------- |
+| 2016       | 21.7                 |
+| 2017       | 21.5                 |
+| 2018       | 21.6                 |
+| 2020       | 21.1                 |
+
+(17) *Koenigsegg.*
+
+Table 21 to § 531.5(e)(17)—Average Fuel Economy Standard
+| Model year | (Miles per   gallon) |
+| ---------- | -------------------- |
+| 2015       | 16.7                 |
+| 2018       | 16.7                 |
+| 2019       | 16.6                 |
+| 2020       | 16.6                 |
+| 2021       | 16.6                 |
+| 2022       | 16.9                 |
+| 2023       | 16.9                 |
+
+(18) *McLaren.*
+
+Table 22 to § 531.5(e)(18)—Average Fuel Economy Standard
+| Model year | (Miles per   gallon) |
+| ---------- | -------------------- |
+| 2012       | 23.2                 |
+| 2013       | 24.0                 |
+| 2014       | 23.8                 |
+| 2015       | 22.9                 |
+| 2016       | 23.2                 |
+| 2017       | 24.3                 |
+| 2018       | 23.3                 |
+| 2019       | 22.5                 |
+| 2020       | 22.5                 |
+| 2021       | 21.5                 |
+| 2022       | 24.6                 |
+| 2023       | 25.7                 |
+
+(19) *Mobility Ventures.*
+
+Table 23 to § 531.5(e)(19)—Average Fuel Economy Standard
+| Model year | (Miles per   gallon) |
+| ---------- | -------------------- |
+| 2014       | 19.6                 |
+| 2015       | 20.1                 |
+| 2016       | 20.1                 |
+
+(20) *Pagani.*
+
+Table 24 to § 531.5(e)(20)—Average Fuel Economy Standard
+| Model year | (Miles per   gallon) |
+| ---------- | -------------------- |
+| 2014       | 15.6                 |
+| 2016       | 15.6                 |
+| 2017       | 15.6                 |
+| 2018       | 15.6                 |
+| 2019       | 15.5                 |
+| 2020       | 15.5                 |
+| 2021       | 15.5                 |
+| 2022       | 15.5                 |
+| 2023       | 15.5                 |
+
+\[87 FR 26070, May 2, 2022, as amended at 89 FR 12756, Feb. 20, 2024\]
