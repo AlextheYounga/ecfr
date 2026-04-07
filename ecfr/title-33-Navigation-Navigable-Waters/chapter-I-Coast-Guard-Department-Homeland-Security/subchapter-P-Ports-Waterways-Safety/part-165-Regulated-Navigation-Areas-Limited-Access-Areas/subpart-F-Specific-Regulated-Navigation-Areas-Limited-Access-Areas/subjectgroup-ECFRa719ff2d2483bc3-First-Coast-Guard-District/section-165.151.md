@@ -34,7 +34,7 @@
 
 (h) The regulated area for all air shows is the entire geographic area described as the location for that show unless otherwise noted in Table 1 to § 165.151 or modified in USCG First District Local Notice to Mariners at: *http://www.navcen.uscg.gov/.*
 
-(i) Fireworks barges used in these locations will also have a sign on their port and starboard side labeled “FIREWORKS - STAY AWAY”. This sign will consist of 10 inch high by 1.5 inch wide red lettering on a white background. Shore sites used in these locations will display a sign labeled “FIREWORKS - STAY AWAY” with the same dimensions. These zones will be enforced from 8:30 p.m. to 10:30 p.m. each day a barge with a “FIREWORKS - STAY AWAY” sign on the port and starboard side is on-scene or a “FIREWORKS - STAY AWAY” sign is posted in a location listed in Table 1 to § 165.151.
+(i) Fireworks barges used in these locations will also have a sign on their port and starboard side labeled “FIREWORKS—STAY AWAY”. This sign will consist of 10 inch high by 1.5 inch wide red lettering on a white background. Shore sites used in these locations will display a sign labeled “FIREWORKS—STAY AWAY” with the same dimensions. These zones will be enforced from 8:30 p.m. to 10:30 p.m. each day a barge with a “FIREWORKS—STAY AWAY” sign on the port and starboard side is on-scene or a “FIREWORKS—STAY AWAY” sign is posted in a location listed in Table 1 to § 165.151.
 
 (j) For all swim events listed in Table 2 to § 165.151, vessels not associated with the event shall maintain a separation of at least 100 yards from the participants.
 
@@ -60,12 +60,6 @@ April
 5
 
 May 
-
-5.1 Jones Beach Air Show
-
-• Date: The Thursday through Sunday before Memorial Day each May from 9:30 a.m. until 3:30 p.m. each day. 
-
-• Location: Waters of the Atlantic Ocean off Jones Beach State Park, Wantagh, NY, contained within the following described area; beginning in approximate position 40°34′54″ N, 073°33′21″ W, then running east along the shoreline of Jones Beach State Park to approximate position 40°35′53″ N, 073°28′47″ W; then running south to a position in the Atlantic Ocean off of Jones Beach at approximate position 40°35′05″ N, 073°28′34″ W; then running West to approximate position 40°33′15″ N, 073°33′09″ W; then running North to the point of origin. 
 
 5.2 Greenport Spring Fireworks
 
@@ -472,6 +466,11 @@ September
 
 • Location: Waters of Hempstead Harbor off Bar Beach, North Hempstead, NY, in approximate position 40°49′48.04″ N, 073°39′24.32″ W (NAD 83). 
 
+9.7 Dolan Family Labor Day Fireworks
+
+• Date: A single day event in September.  
+• Location: Waters of Oyster Bay Harbor in Long Island Sound off Oyster Bay, NY in approximate position 40°53′43.50″ N, 073°30′06.85″ W. The regulated area for this fireworks displays is that area of navigable waters within a 500 foot radius of the launch platform or launch site for each fireworks display. 
+
 11
 
 November 
@@ -503,41 +502,9 @@ Table 2 to § 165.151
 
 \[June, July & August\]
 
-1.1 Swim Across the Sound
-
-• Location: Waters of Long Island Sound, Port Jefferson, NY to Captain's Cove Seaport, Bridgeport, CT. in approximate positions 40°58′11.71″ N, 073°05′51.12″ W, north-westerly to the finishing point at Captain's Cove Seaport 41°09′25.07″ N, 073°12′47.82″ W (NAD 83). 
-
 1.2 Huntington Bay Open Water Championships Swim
 
 • Location: Waters of Huntington Bay, NY. In approximate positions start/finish at approximate position 40°54′25.8″ N, 073°24′28.8″ W, East turn at approximate position 40°54′45″ N 073°23′36.6″ W and a West turn at approximate position 40°54′31.2″ N, 073°25′21″ W, °09′25.07″ N 073°12′47.82″ W (NAD 83). 
-
-1.3 Maggie Fischer Memorial Great South Bay Cross Bay Swim
-
-• Location: Waters of the Great South Bay, NY. Starting Point at the Fire Island Lighthouse Dock in approximate position 40°38′01″ N, 073°13′07″ W; northerly through approximate points 40°38′52″ N, 073°13′09″ W; 40°39′40″ N, 073°13′30″ W; 40°40′30″ N, 073°14′00″ W; and finishing at Gilbert Park, Brightwaters, NY at approximate position 40°42′25″ N, 073°14′52″ W (NAD 83). 
-
-1.4 Waves of Hope Swim
-
-• Date: A day during the last week of June or first two weeks of July. 
-
-• Time: 8 a.m. until 1 p.m. 
-
-• Location: All waters of the Great South Bay off Amityville, NY shoreward of a line created by connecting the following points. Beginning at 40°39′22.38″ N, 073°25′31.63″ W, then to 40°39′02.18″ N, 073°25′31.63″ W, then to 40°39′02.18″ N, 073°24′03.81″ W, ending at 40°39′18.27″ N, 073°24′03.81″ W (NAD 83). 
-
-1.5 Stonewall Swim
-
-• Date: A day during a weekend in August. 
-
-• Time: 8:30 a.m. until 12:30 p.m. 
-
-• Location: All navigable waters of the Great South Bay within a three miles long and half mile wide box connecting Snedecor Avenue in Bayport, NY to Porgie Walk in Fire Island, NY. Formed by connecting the following points. Beginning at 40°43′40.24″ N, 073°03′41.50″ W; then to 40°43′40.00″ N, 073°03′13.40″ W; then to 40°40′04.13 N, 073°03′43.81″ W; then to 40°40′08.30″ N, 073°03′17.70″ W; and ending at the beginning point 40°43′40.24″ N, 073°03′41.5″ W (NAD 83). 
-
-1.6 Swim Across America Greenwich
-
-• Date: A single day during June. 
-
-• Time: 5:30 a.m. until noon. 
-
-• Location: All navigable waters of Stamford Harbor within a half miles long and 1000 foot wide polygon shaped box stretching from Dolphin Cove to Rocky Point between Stamford and Greenwich, CT. Formed by connecting the following points. Beginning at point (A) 41°01′32.03″ N, 073°33′8.93″ W, then south east to point (B) 41°01′15.01″ N, 073°32′55.58″ W; then south west to point (c) 41°00′49.25N, 073°33′20.36″ W; then north west to point (D) 41°00′58.00″ N, 073°33′27.00″ W, then north east to point (E) 41°01′15.80″ N, 073°33′09.85″ W, then heading north and ending at point (A)(NAD 83). 
 
 1.7 US Coast Guard Triathlon Swim
 
@@ -545,4 +512,4 @@ Table 2 to § 165.151
 
 • Location: All navigable waters of the Thames River, New London Harbor off Fort Trumbull State Park around a half mile long course that is west of the Federal navigation channel in New London, CT. Formed by connecting the following points. Beginning at point (A) 41°20′40.03″ N, 072°05′32.15″ W; then east to point (B) 41°20′40.08″ N, 072°05′22.03″ W, then north to point (C) 41°20′48.29N, 072°05′23.19″ W; then north west to point (D) 41°20′50.84″ N, 072°05′29.29″ W, then south west to end point (E) 41°20′46.41″ N, 072°05′35.77″ W, (NAD 83).
 
-\[USCG-2008-0384, 77 FR 6958, Feb. 10, 2012, as amended by USCG-2012-1036, 78 FR 31406, May 24, 2013; USCG-2014-0410, 79 FR 38442, July 7, 2014; USCG-2018-0532, 85 FR 5570, Jan. 31, 2020; 85 FR 11294, Feb. 27, 2020; USCG-2020-0082, 85 FR 38073, June 25, 2020\]
+\[USCG-2008-0384, 77 FR 6958, Feb. 10, 2012, as amended by USCG-2012-1036, 78 FR 31406, May 24, 2013; USCG-2014-0410, 79 FR 38442, July 7, 2014; USCG-2018-0532, 85 FR 5570, Jan. 31, 2020; 85 FR 11294, Feb. 27, 2020; USCG-2020-0082, 85 FR 38073, June 25, 2020; USCG-2021-0135, 86 FR 50262, Sept. 8, 2021\]
