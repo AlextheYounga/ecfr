@@ -1,5 +1,7 @@
 ##### § 4219.2 Definitions.
 
+Link to an amendment published at 86 FR 1277, Jan. 8, 2021.
+
 (a) The following terms are defined in § 4001.2 of this chapter: employer, ERISA, IRS, mass withdrawal, multiemployer plan, PBGC, plan, and plan year.
 
 (b) For purposes of this part:
