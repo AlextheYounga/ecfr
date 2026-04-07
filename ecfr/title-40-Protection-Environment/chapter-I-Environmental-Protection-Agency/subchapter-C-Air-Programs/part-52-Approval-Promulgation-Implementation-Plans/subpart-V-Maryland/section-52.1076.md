@@ -150,4 +150,4 @@ Table 11 to Paragraph (hh)—Revised Onroad Motor Vehicle Emissions Budgets Usin
 | 2030 Safety Margin                             | 4.35                           | 6.85                           |
 | 2030 Final Budget with Safety Margin           | 26.10                          | 41.11                          |
 
-\[62 FR 40458, July 29, 1997\] Editorial Note:For Federal Register citations affecting § 52.1076, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+\[62 FR 40458, July 29, 1997\] Editorial Note:For Federal Register citations affecting § 52.1076, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 90 FR 14735, Apr. 4, 2025.

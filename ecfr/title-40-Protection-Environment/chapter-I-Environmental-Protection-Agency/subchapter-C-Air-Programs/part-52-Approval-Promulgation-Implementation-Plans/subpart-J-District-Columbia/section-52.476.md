@@ -52,4 +52,4 @@ Table 5 to Paragraph (k)—Revised Onroad Motor Vehicle Emissions Budgets Using 
 | 2030 Safety Margin                             | 4.35                           | 6.85                           |
 | 2030 Final Budget with Safety Margin           | 26.10                          | 41.11                          |
 
-\[64 FR 42602, Aug. 5, 1999, as amended at 66 FR 631, Jan. 3, 2001; 69 FR 43522, July 21, 2004; 73 FR 43361, July 25, 2008; 76 FR 58118, Sept. 20, 2011; 77 FR 11741, Feb. 28, 2012; 80 FR 19218, Apr. 10, 2015; 84 FR 15115, Apr. 15, 2019; 89 FR 80747, Oct. 4, 2024\]
+\[64 FR 42602, Aug. 5, 1999, as amended at 66 FR 631, Jan. 3, 2001; 69 FR 43522, July 21, 2004; 73 FR 43361, July 25, 2008; 76 FR 58118, Sept. 20, 2011; 77 FR 11741, Feb. 28, 2012; 80 FR 19218, Apr. 10, 2015; 84 FR 15115, Apr. 15, 2019; 89 FR 80747, Oct. 4, 2024\] Link to an amendment published at 90 FR 14735, Apr. 4, 2025.

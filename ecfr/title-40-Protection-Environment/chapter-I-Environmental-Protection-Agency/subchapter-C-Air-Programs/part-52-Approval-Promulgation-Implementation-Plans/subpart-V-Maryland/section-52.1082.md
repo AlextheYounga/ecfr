@@ -26,4 +26,4 @@
 
 (m) The EPA has determined, as of January 6, 2025, that based on 2018-2020 monitoring data, relevant modeling analysis, and additional emissions inventory information, the Anne Arundel and Baltimore County SO2 nonattainment area has attained the 2010 1-hour SO2 primary NAAQS by the applicable attainment date of September 12, 2021.
 
-\[77 FR 1413, Jan. 10, 2012, as amended at 77 FR 11741, Feb. 28, 2012; 77 FR 17344, Mar. 26, 2012; 77 FR 30212, May 22, 2012; 77 FR 34819, June 12, 2012; 80 FR 29972, May 26, 2015; 80 FR 30946, June 1, 2015; 82 FR 50820, Nov. 2, 2017; 82 FR 52655, Nov. 14, 2017; 87 FR 66091, Nov. 2, 2022; 89 FR 96906, Dec. 6, 2024\]
+\[77 FR 1413, Jan. 10, 2012, as amended at 77 FR 11741, Feb. 28, 2012; 77 FR 17344, Mar. 26, 2012; 77 FR 30212, May 22, 2012; 77 FR 34819, June 12, 2012; 80 FR 29972, May 26, 2015; 80 FR 30946, June 1, 2015; 82 FR 50820, Nov. 2, 2017; 82 FR 52655, Nov. 14, 2017; 87 FR 66091, Nov. 2, 2022; 89 FR 96906, Dec. 6, 2024\] Link to an amendment published at 90 FR 14735, Apr. 4, 2025.

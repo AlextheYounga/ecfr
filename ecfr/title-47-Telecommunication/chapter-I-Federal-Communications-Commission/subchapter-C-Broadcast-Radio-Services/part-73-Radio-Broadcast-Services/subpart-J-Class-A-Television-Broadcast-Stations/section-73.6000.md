@@ -1,8 +1,8 @@
 ##### § 73.6000 Definitions.
 
-For the purpose of this subpart, the following definition applies: 
+For the purpose of this subpart, the following definition applies:
 
-*Locally produced programming* is programming produced within the predicted noise-limited contour (*see* § 73.619(c)) of a Class A station broadcasting the program or within the contiguous predicted noise-limited contours of any of the Class A stations in a commonly owned group. 
+*Locally produced programming* is programming produced within the predicted noise-limited contour (*see* § 73.619(c)) of a Class A station broadcasting the program or within the contiguous predicted noise-limited contours of any of the Class A stations in a commonly owned group.
 
 Note to § 73.6000:
 

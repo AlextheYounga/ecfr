@@ -6,4 +6,4 @@
 
 (c) Based upon EPA's review of the air quality data for the 3-year period 2013 to 2015, the Washington, DC-MD-VA marginal ozone nonattainment area has attained the 2008 8-hour ozone national ambient air quality standard (NAAQS) by the applicable attainment date of July 20, 2016. Therefore, EPA has met the requirement pursuant to Clean Air Act section 181(b)(2)(A) to determine, based on the area's air quality as of the attainment date, whether the area attained the standard. EPA also determined that the Washington, DC-MD-VA marginal nonattainment area will not be reclassified for failure to attain by its applicable attainment date pursuant to section 181(b)(2)(A).
 
-\[77 FR 1413, Jan. 10, 2012, as amended at 77 FR 11741, Feb. 28, 2012; 82 FR 52655, Nov. 14, 2017\]
+\[77 FR 1413, Jan. 10, 2012, as amended at 77 FR 11741, Feb. 28, 2012; 82 FR 52655, Nov. 14, 2017\] Link to an amendment published at 90 FR 14735, Apr. 4, 2025.

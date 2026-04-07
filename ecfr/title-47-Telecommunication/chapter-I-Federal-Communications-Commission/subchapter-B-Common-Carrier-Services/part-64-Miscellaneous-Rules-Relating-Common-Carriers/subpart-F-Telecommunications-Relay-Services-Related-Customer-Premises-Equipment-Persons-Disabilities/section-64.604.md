@@ -490,4 +490,4 @@ I swear under penalty of perjury that:
 
 (f) *Other standards.* The applicable requirements of § 9.14 of this chapter and §§ 64.611, 64.615, 64.621, 64.631, 64.632, 64.644, 64.5105, 64.5107, 64.5108, 64.5109, and 64.5110 are to be considered mandatory minimum standards.
 
-\[65 FR 38436, June 21, 2000\] Editorial Note:For Federal Register citations affecting § 64.604, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+\[65 FR 38436, June 21, 2000\] Editorial Note:For Federal Register citations affecting § 64.604, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 89 FR 20132, Mar. 21, 2024.
