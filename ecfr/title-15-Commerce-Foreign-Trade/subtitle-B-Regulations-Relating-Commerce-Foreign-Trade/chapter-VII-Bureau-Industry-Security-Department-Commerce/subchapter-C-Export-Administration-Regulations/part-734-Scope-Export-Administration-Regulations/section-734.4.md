@@ -16,7 +16,7 @@
 
 (i) There is no de minimis level for foreign-made items that incorporate U.S.-origin 9x515 or “600 series” items enumerated or otherwise described in paragraphs .a through .x of a 9x515 or “600 series” ECCN when destined for a country listed in Country Group D:5 of supplement no. 1 to part 740 of the EAR.
 
-(ii) There is no *de minimis* level for foreign-made items that incorporate U.S.-origin 9x515 or “600 series” .y items when destined for a country listed in Country Group E:1 or E:2 of supplement no. 1 to part 740 of the EAR or for the People's Republic of China (PRC).
+(ii) There is no *de minimis* level for foreign-made items that incorporate U.S.-origin 9x515 or “600 series” .y items when destined for a country listed in Country Group E:1 or E:2 of supplement no. 1 to part 740 of the EAR or for Belarus, the People's Republic of China (PRC), or Russia.
 
 (7) Under certain rules issued by the Office of Foreign Assets Control, certain exports from abroad by U.S.-owned or controlled entities may be prohibited notwithstanding the *de minimis* provisions of the EAR. In addition, the *de minimis* rules do not relieve U.S. persons of the obligation to refrain from supporting the proliferation of weapons of mass-destruction and missiles as provided in § 744.6 of the EAR.
 
