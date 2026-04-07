@@ -22917,7 +22917,65 @@ Diminutive amphipod (*Gammarus hyalleloides*)
 
 (5) Diamond Y Spring Unit, Pecos County, Texas. Map of Diamond Y Spring Unit follows:
 
-![](/graphics/er09jy13.013.gif)Conservancy Fairy Shrimp (*Branchinecta conservatio*).
+![](/graphics/er09jy13.013.gif)Slenderclaw Crayfish (Cambarus cracens)
+
+(1) Critical habitat units are depicted for DeKalb and Marshall Counties, Alabama, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the slenderclaw crayfish consist of the following components:
+
+(i) Geomorphically stable, small to medium, flowing streams:
+
+(A) That are typically 19.8 feet (ft) (6 meters (m)) wide or smaller;
+
+(B) With attributes ranging from:
+
+(*1*) Streams with predominantly large boulders and fractured bedrock, with widths from 16.4 to 19.7 ft (5 to 6 m), low to no turbidity, and depths up to 2.3 ft (0.7 m); to
+
+(*2*) Streams dominated by small substrate types with a mix of cobble, gravel, and sand, with widths of approximately 9.8 feet (3 m), low to no turbidity, and depths up to 0.5 feet (0.15 m);
+
+(C) With substrate consisting of boulder and cobble containing abundant interstitial spaces for sheltering and breeding; and
+
+(D) With intact riparian cover to maintain stream morphology and to reduce erosion and sediment inputs.
+
+(ii) Seasonal water flows, or a hydrologic flow regime (which includes the severity, frequency, duration, and seasonality of discharge over time), necessary to maintain benthic habitats where the species is found and to maintain connectivity of streams with the floodplain, allowing the exchange of nutrients and sediment for maintenance of the crayfish's habitat and food availability.
+
+(iii) Appropriate water and sediment quality (including, but not limited to, conductivity; hardness; turbidity; temperature; pH; and minimal levels of ammonia, heavy metals, pesticides, animal waste products, and nitrogen, phosphorus, and potassium fertilizers) necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages.
+
+(iv) Prey base of aquatic macroinvertebrates and detritus. Prey items may include, but are not limited to, insect larvae, snails and their eggs, fish and their eggs, and plant and animal detritus.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on October 8, 2021.
+
+(4) Data layers defining map units were created using Universal Transverse Mercator (UTM) Zone 16N coordinates and species' occurrence data. The hydrologic data used in the maps were extracted from U.S. Geological Survey National Hydrography Dataset High Resolution (1:24,000 scale) using Geographic Coordinate System North American 1983 coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *http://www.regulations.gov* under Docket No. FWS-R4-ES-2018-0069 and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+![](/graphics/er08se21.000.gif)
+
+(6) Unit 1: Town Creek, DeKalb County, Alabama.
+
+(i) This unit consists of 41.8 river miles (67.2 river kilometers) of occupied habitat in Bengis and Town Creeks. Unit 1 includes stream habitat up to bank full height consisting of the headwaters of Bengis Creek to its confluence with Town Creek and upstream to the headwaters of Town Creek.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er08se21.001.gif)
+
+(7) Unit 2: Short Creek, DeKalb and Marshall Counties, Alabama.
+
+(i) Subunit 2a: Shoal Creek and Short Creek, DeKalb and Marshall Counties, Alabama.
+
+(A) This subunit consists of 10.3 river miles (16.6 river kilometers) of occupied habitat in Scarham, Shoal, Short, and Whippoorwill Creeks. Subunit 2a includes stream habitat up to bank full height consisting of the headwaters of Shoal Creek to its confluence with Whippoorwill Creek, Whippoorwill Creek to its confluence with Scarham Creek, Scarham Creek to its confluence with Short Creek, and Short Creek to its downstream extent to the Guntersville Lake Tennessee Valley Authority project boundary.
+
+(B) Map of Subunit 2a follows:
+
+![](/graphics/er08se21.002.gif)
+
+(ii) Subunit 2b: Scarham-Laurel Creek, DeKalb and Marshall Counties, Alabama.
+
+(A) This subunit consists of 25.9 river miles (41.7 river kilometers) of unoccupied habitat in Scarham-Laurel Creek. Subunit 2b includes stream habitat up to bank full height consisting of the headwaters of Scarham-Laurel Creek to its confluence with Whippoorwill Creek. This subunit is a small to medium, flowing stream with substrate consisting of boulder and cobble containing interstitial spaces for sheltering and breeding and connected to the occupied subunit 2a.
+
+(B) Map of Subunit 2b follows:
+
+![](/graphics/er08se21.003.gif)Conservancy Fairy Shrimp (*Branchinecta conservatio*).
 
 (1) Critical habitat units are depicted for Butte, Colusa, Mariposa, Merced, Solano, Stanislaus, Tehama, and Ventura Counties, California, on the maps below.
 
