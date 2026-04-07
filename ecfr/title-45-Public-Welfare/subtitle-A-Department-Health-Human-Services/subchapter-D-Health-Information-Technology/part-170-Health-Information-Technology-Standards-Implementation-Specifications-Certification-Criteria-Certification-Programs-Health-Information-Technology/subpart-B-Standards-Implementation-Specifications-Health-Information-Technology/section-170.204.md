@@ -1,5 +1,7 @@
 ##### § 170.204 Functional standards.
 
+Link to an amendment published at 85 FR 25940, May 1, 2020.
+
 The Secretary adopts the following functional standards:
 
 (a) *Accessibility* - (1) *Standard.* Web Content Accessibility Guidelines (WCAG) 2.0, Level A Conformance (incorporated by reference in § 170.299).

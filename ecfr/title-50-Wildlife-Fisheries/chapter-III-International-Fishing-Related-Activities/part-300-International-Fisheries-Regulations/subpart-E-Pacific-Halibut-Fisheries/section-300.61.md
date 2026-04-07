@@ -112,7 +112,7 @@ In addition to the terms defined in § 300.2 and those in the Act and the Conven
 
 *Sport fishing guide services,* for purposes of §§ 300.65(d) and 300.67, means assistance, for compensation or with the intent to receive compensation, to a person who is sport fishing, to take or attempt to take halibut by accompanying or physically directing the sport fisherman in sport fishing activities during any part of a charter vessel fishing trip. Sport fishing guide services do not include services provided by a crew member, as defined at § 300.61.
 
-*Subarea 2A-1* includes all waters off the coast of Washington that are north of the Quinault River, WA (47°21.00′ N. lat) and east of 125°44.00' W. long; all waters off the coast of Washington that are between the Quinault River, WA (47°21.00′ N. lat) and Point Chehalis, WA (46°53.30′ N. lat.), and east of 125°08.50′ W. long.; and all inland marine waters of Washington.
+*Subarea 2A-1* includes the usual and accustomed fishing areas for Pacific Coast treaty tribes off the coast of Washington and all inland marine waters of Washington north of Point Chehalis (46°53.30′ N lat.), including Puget Sound. Boundaries of a tribe's fishing area may be revised as ordered by a Federal court.
 
 *Subsistence* means, with respect to waters in and off Alaska, the non-commercial, long-term, customary and traditional use of halibut.
 
