@@ -54,7 +54,7 @@
 
 (10) For purposes of paragraphs (b)(1)(ix) and (x) and (b)(3)(iii) and (v) of this section, employees of the pooled plan provider include employees of the pooled employer plan, but only if they handle assets of the plan, within the meaning of section 412 of the Act, or if they are responsible for operations or investments of the pooled employer plan.
 
-(c) *Transition rule.* Notwithstanding paragraph (b)(1) of this section, a person intending to act as a pooled plan provider may file the Form PR on or before beginning operations as a pooled plan provider (dispensing with the 30-day advance filing requirement) if the filing is made before February1, 2021.
+(c) *Transition rule.* Notwithstanding paragraph (b)(1) of this section, a person intending to act as a pooled plan provider may file the Form PR on or before beginning operations as a pooled plan provider (dispensing with the 30-day advance filing requirement) if the filing is made before February 1, 2021.
 
 (d) *Acquittals and removal of information.* A pooled plan provider may file an update to remove any matter previously reported under paragraph (b)(1)(ix) or (b)(3)(v) of this section for which the defendant has received an acquittal. For this purpose, the term “acquittal” means a finding by a judge or jury that a defendant is not guilty or any other dismissal or judgment which the government may not appeal.
 
