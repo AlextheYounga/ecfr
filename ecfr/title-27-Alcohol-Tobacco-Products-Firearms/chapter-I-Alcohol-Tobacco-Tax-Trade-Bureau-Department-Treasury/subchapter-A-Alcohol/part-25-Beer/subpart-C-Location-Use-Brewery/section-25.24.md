@@ -4,7 +4,7 @@
 
 (1) Taxpaid beer will be segregated in such a manner as to preclude mixing with nontaxpaid beer;
 
-(2) If required by Part 1 of this chapter, the brewer shall have a wholesalers or importers basic permit under the Federal Alcohol Administration Act, and keep records of the taxpaid beer as a wholesaler or importer under part 31 of this chapter.
+(2) If required by part 1 of this chapter, the brewer shall have a wholesalers or importers basic permit under the Federal Alcohol Administration Act, and keep records of the taxpaid beer as a wholesaler or importer under part 31 of this chapter.
 
 (3) Taxpaid beer may be stored in packages;
 

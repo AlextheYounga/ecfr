@@ -14,7 +14,7 @@ When used in this part, where not otherwise distinctly expressed or manifestly i
 
 *Container.* Any receptacle, vessel, or form of package, bottle, tank, or pipeline used, or capable of use, for holding, storing, transferring or conveying distilled spirits.
 
-*Denatured spirits or denatured alcohol.* Spirits to which denaturants have been added pursuant to formulas prescribed in 27 CFR Part 21.
+*Denatured spirits or denatured alcohol.* Spirits to which denaturants have been added pursuant to formulas prescribed in 27 CFR part 21.
 
 *Gallon or wine gallon.* The liquid measure equivalent to the volume of 231 cubic inches.
 

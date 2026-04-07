@@ -1,10 +1,8 @@
 ##### § 7.71 Alcoholic content.
 
-Link to an amendment published at 85 FR 18726, Apr. 2, 2020.Link to a correction published at 85 FR 20424, Apr. 13, 2020.
-
 (a) *General.* Alcoholic content and the percentage and quantity of the original gravity or extract may be stated on a label unless prohibited by State law. When alcoholic content is stated, and the manner of statement is not required under State law, it shall be stated as prescribed in paragraph (b) of this section.
 
-(b) *Form of statement.* (1) Statement of alcoholic content shall be expressed in percent alcohol by volume, and not by percent by weight, proof, or by maximums or minimums.
+(b) *Form of statement.* (1) Statement of alcoholic content shall be expressed in percent alcohol by volume, and not by proof, by a range, or by maximums or minimums, unless required by State law. Other truthful, accurate, and specific factual representations of alcohol content, such as alcohol by weight, may be made, as long as they appear together with, and as part of, the statement of alcohol content as a percentage of alcohol by volume.
 
 (2) For malt beverages containing 0.5 percent or more alcohol by volume, statements of alcoholic content shall be expressed to the nearest one-tenth of a percent, subject to the tolerance permitted by paragraph (c) (1) and (2) of this section. For malt beverages containing less than 0.5 percent alcohol by volume, alcoholic content may be expressed in one-hundredths of a percent, subject to the tolerance permitted in paragraph (c)(3) of this section.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 85 FR 18726, Apr. 2, 2020.Link to a correction
 
 (f) *Alcohol free.* The term “alcohol free” may be used only on malt beverages containing no alcohol.
 
-\[T.D. ATF-339, 58 FR 21232, Apr. 19, 1993\]
+\[T.D. ATF-339, 58 FR 21232, Apr. 19, 1993; T.D. TTB-158, 85 FR 18726, Apr. 2, 2020, 85 FR 20424, Apr. 13, 2020\]

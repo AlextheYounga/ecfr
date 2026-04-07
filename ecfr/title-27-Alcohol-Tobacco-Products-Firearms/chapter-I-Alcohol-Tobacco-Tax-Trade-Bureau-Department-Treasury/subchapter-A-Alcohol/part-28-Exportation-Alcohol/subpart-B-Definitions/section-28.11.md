@@ -4,7 +4,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.
 
-*Appropriate TTB officer.* An officer or employee of the Alcohol and Tobacco Tax and Trade Bureau (TTB) authorized to perform any functions relating to the administration or enforcement of this part by TTB Order 1135.28, Delegation of the Administrator's Authorities in 27 CFR part 28, Exportation of Alcohol.
+*Appropriate TTB officer.* An officer or employee of the Alcohol and Tobacco Tax and Trade Bureau (TTB) authorized to perform any functions relating to the administration or enforcement of this part by TTB Order 1135.28, Delegation of the Administrator's Authorities in 27 CFR Part 28, Exportation of Alcohol.
 
 *Beer.* Beer, ale, porter, stout, and other similar fermented beverages (including sake or similar products) of any name or description containing one-half of 1 percent or more of alcohol by volume, brewed or produced from malt, wholly or in part, or from any substitute therefor.
 
