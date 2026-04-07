@@ -12,6 +12,6 @@
 
 (c) We may consider informal expressions of interest suggesting lands to be included in a competitive offer. If you submit a written expression of interest, you must provide a description of the suggested lands and rationale for their inclusion in a competitive offer.
 
-(d) In order to submit a nomination, you must be qualified to hold a grant or lease under
+(d) In order to submit a nomination, you must be qualified to hold a grant or lease under § 2803.10.
 
 (e) *Nomination withdrawals.* A nomination cannot be withdrawn, except by the BLM for cause, in which case all nomination monies will be refunded to the nominator.

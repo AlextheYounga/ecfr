@@ -42,7 +42,7 @@
 
 (2) An agency offering a construction requirement on behalf of a specific offeror should submit it to the SBA District Office servicing that concern.
 
-(3) Sole source requirements, other than construction, should be forwarded directly to the district office that services the nominated 8(a) participant. If the contracting officer is not nominating a specific firm, the offering letter should be forwarded to the district office servicing the geographical area in which the contracting office is located.
+(3) Sole source requirements, other than construction, should be forwarded directly to the district office that services the nominated 8(a) participant. If the contracting officer is not nominating a specific 8(a) participant, the offering letter should be forwarded to the district office servicing the geographical area in which the contracting office is located.
 
 (c) All requirements for 8(a) competition, other than construction, should be forwarded to the district office servicing the geographical area in which the contracting office is located. All requirements for 8(a) construction competition should be forwarded to the district office servicing the geographical area in which all or the major portion of the construction is to be performed. All requirements, including construction, must be synopsized through the GPE. For construction, the synopsis must include the geographical area of the competition set forth in the SBA's acceptance letter.
 

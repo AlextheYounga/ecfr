@@ -2,7 +2,7 @@
 
 As prescribed in 44.403, insert the following clause:
 
-Subcontracts for Commercial Items (JAN 2017)
+Subcontracts for Commercial Items (NOV 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -42,25 +42,17 @@ Subcontracts for Commercial Items (JAN 2017)
 
 (xiii) 52.222-55, Minimum Wages under Executive Order 13658 (DEC 2015), if flowdown is required in accordance with paragraph (k) of FAR clause 52.222-55.
 
-(xiv) 52.222-59, Compliance with Labor Laws (Executive Order 13673) (OCT 2016), if the estimated subcontract value exceeds $500,000, and is for other than commercially available off-the-shelf items.
-
-Note to paragraph (c)(1)(xiv):
-
-By a court order issued on October 24, 2016, 52.222-59 is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, DoD, GSA, and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.
-
-(xv) 52.222-60, Paycheck Transparency (Executive Order 13673) (OCT 2016), if the estimated subcontract value exceeds $500,000, and is for other than commercially available off-the-shelf items.
-
-(xvi)(A) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a) if flow down is required in accordance with 52.224-3(f).
+(xiv)(A) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a) if flow down is required in accordance with 52.224-3(f).
 
 (B) Alternate I (JAN 2017) of 52.224-3, if flow down is required in accordance with 52.224-3(f) and the agency specifies that only its agency-provided training is acceptable).
 
-(xvii) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706), if flowdown is required in accordance with paragraph (m) of FAR clause 52.222-62.
+(xv) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706), if flowdown is required in accordance with paragraph (m) of FAR clause 52.222-62.
 
-(xviii) 52.225-26, Contractors Performing Private Security Functions Outside the United States (Oct 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
+(xvi) 52.225-26, Contractors Performing Private Security Functions Outside the United States (Oct 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 
-(xix) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (DEC 2013), if flow down is required in accordance with paragraph (c) of FAR clause 52.232-40.
+(xvii) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (DEC 2013), if flow down is required in accordance with paragraph (c) of FAR clause 52.232-40.
 
-(xx) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. App. 1241 and 10 U.S.C. 2631), if flow down is required in accordance with paragraph (d) of FAR clause 52.247-64.
+(xviii) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. App. 1241 and 10 U.S.C. 2631), if flow down is required in accordance with paragraph (d) of FAR clause 52.247-64.
 
 (2) While not required, the Contractor may flow down to subcontracts for commercial items a minimal number of additional clauses necessary to satisfy its contractual obligations.
 
