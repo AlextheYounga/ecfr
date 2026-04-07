@@ -44,13 +44,25 @@
 
 *Airport control tower (control tower) station.* An aeronautical station providing communication between a control tower and aircraft.
 
-*Automatic dependent surveillance - broadcast (ADS-B) Service.* Broadcast transmissions from aircraft, supporting aircraft-to-aircraft or aircraft-to-ground surveillance applications, including position reports, velocity vector, intent and other relevant information about the aircraft.
+*Automatic dependent surveillance—broadcast (ADS-B) Service.* Broadcast transmissions from aircraft, supporting aircraft-to-aircraft or aircraft-to-ground surveillance applications, including position reports, velocity vector, intent and other relevant information about the aircraft.
 
 *Automatic terminal information service-broadcast (ATIS-B).* The automatic provision of current, routine information to arriving and departing aircraft throughout a 24-hour period or a specified portion thereof.
 
 *Automatic weather observation station (AWOS) or automatic surface observation station (ASOS).* A land station located at an airport and used to automatically transmit weather information to aircraft.
 
-*Aviation service organization.* Any business firm which maintains facilities at an airport for the purposes of one or more of the following general aviation activities: (a) Aircraft fueling; (b) aircraft services (e.g. parking, storage, tie-downs); (c) aircraft maintenance or sales; (d) electronics equipment maintenance or sales; (e) aircraft rental, air taxi service or flight instructions; and (f) baggage and cargo handling, and other passenger or freight services.
+*Aviation service organization.* Any business firm which maintains facilities at an airport for the purposes of one or more of the following general aviation activities:
+
+(a) Aircraft fueling;
+
+(b) Aircraft services (e.g. parking, storage, tie-downs);
+
+(c) Aircraft maintenance or sales;
+
+(d) Electronics equipment maintenance or sales;
+
+(e) Aircraft rental, air taxi service or flight instructions; and
+
+(f) Baggage and cargo handling, and other passenger or freight services.
 
 *Aviation services.* Radio-communication services for the operation of aircraft. These services include aeronautical fixed service, aeronautical mobile service, aeronautical radiodetermination service, and secondarily, the handling of public correspondence on frequencies in the maritime mobile and maritime mobile satellite services to and from aircraft.
 
@@ -120,9 +132,9 @@
 
 *Survival craft station.* A mobile station in the maritime or aeronautical mobile service intended solely for survival purposes and located on any lifeboat, life raft or other survival equipment.
 
-*Traffic information services - broadcast (TIS-B).* Traffic information broadcasts derived from ground-based radar systems.
+*Traffic information services—broadcast (TIS-B).* Traffic information broadcasts derived from ground-based radar systems.
 
-*Universal access transceiver (UAT).* A radio datalink system authorized to operate on the frequency 978 MHz to support Automatic Dependent Surveillance - Broadcast (ADS-B) Service, Traffic Information Services - Broadcast (TIS-B) and Flight Information Service - Broadcast (FIS-B).
+*Universal access transceiver (UAT).* A radio datalink system authorized to operate on the frequency 978 MHz to support Automatic Dependent Surveillance—Broadcast (ADS-B) Service, Traffic Information Services—Broadcast (TIS-B) and Flight Information Service—Broadcast (FIS-B).
 
 *VHF Omni directional range station (VOR).* A radionavigation land station in the aeronautical radionavigation service providing direct indication of the bearing (omni-bearing) of that station from an aircraft.
 

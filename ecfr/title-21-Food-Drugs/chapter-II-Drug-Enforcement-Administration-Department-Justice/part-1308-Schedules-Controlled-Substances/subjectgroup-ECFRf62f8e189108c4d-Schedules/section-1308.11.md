@@ -1,7 +1,5 @@
 ##### § 1308.11 Schedule I.
 
-Link to an amendment published at 81 FR 90196, December 14, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
-
 (a) Schedule I shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
 
 (b) *Opiates.* Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers and salts is possible within the specific chemical de signation (for purposes of paragraph (b)(34) only, the term isomer includes the optical and geometric isomers):
@@ -596,11 +594,49 @@ Some other names: TCPy
 
 (7536) 
 
-(58) Marihuana Extract - 
+(58) Marihuana Extract - Meaning an extract containing one or more cannabinoids that has been derived from any plant of the genus Cannabis, other than the separated resin (whether crude or purified) obtained from the plant
 
-(7350)
+(7350) 
 
-Meaning an extract containing one or more cannabinoids that has been derived from any plant of the genus Cannabis, other than the separated resin (whether crude or purified) obtained from the plant.
+(59) 4-methyl-N-ethylcathinone (4-MEC)
+
+(1249) 
+
+(60) 4-methyl-alpha-pyrrolidinopropiophenone (4-MePPP)
+
+(7498) 
+
+(61) alpha-pyrrolidinopentiophenone (α-PVP)
+
+(7545) 
+
+(62) 1-(1,3-benzodioxol-5-yl)-2-(methylamino)butan-1-one (butylone, bk-MBDB)
+
+(7541) 
+
+(63) 2-(methylamino)-1-phenylpentan-1-one (pentedrone)
+
+(1246) 
+
+(64) 1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one (pentylone, bk-MBDP)
+
+(7542) 
+
+(65) 4-fluoro-N-methylcathinone (4-FMC; flephedrone)
+
+(1238) 
+
+(66) 3-fluoro-N-methylcathinone (3-FMC)
+
+(1233) 
+
+(67) 1-(naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one (naphyrone)
+
+(1258) 
+
+(68) alpha-pyrrolidinobutiophenone (α-PBP)
+
+(7546) 
 
 (e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
@@ -716,56 +752,34 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (h) *Temporary listing of substances subject to emergency scheduling.* Any material, compound, mixture or preparation which contains any quantity of the following substances:
 
-(1) 4-methyl-N-ethylcathinone, its optical, positional, and geometric isomers, salts and salts of isomers - 1249 (Other names: 4-MEC; 2-(ethylamino)-1-(4-methylphenyl)propan-1-one) 
+(1) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts, and salts of isomers - 7031 (Other names: AB-CHMINACA). 
 
-(2) 4-methyl-alpha-pyrrolidinopropiophenone, its optical, positional, and geometric isomers, salts and salts of isomers - 7498 (Other names: 4-MePPP; MePPP; 4-methyl-α-pyrrolidinopropiophenone; 1-(4-methylphenyl)-2-(pyrrolidin-1-yl)-propan-1-one) 
+(2) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts, and salts of isomers - 7023 (Other names: AB-PINACA). 
 
-(3) alpha-pyrrolidinopentiophenone, its optical, positional, and geometric isomers, salts and salts of isomers - 7545 (Other names: α-PVP; α-pyrrolidinovalerophenone; 1-phenyl-2-(pyrrolidin-1-yl)pentan-1-one) 
+(3) \[1-(5-fluoropentyl)-1H-indazol-3-yl\](naphthalen-1-yl)methanone, its optical, positional, and geometric isomers, salts, and salts of isomers - 7024 (Other names: THJ-2201). 
 
-(4) Butylone, its optical, positional, and geometric isomers, salts and salts of isomers - 7541 (Other names: bk-MBDB; 1-(1,3-benzodioxol-5-yl)-2-(methylamino)butan-1-one) 
-
-(5) Pentedrone, its optical, positional, and geometric isomers, salts and salts of isomers - 1246 (Other names: α-methylaminovalerophenone; 2-(methylamino)-1-phenylpentan-1-one) 
-
-(6) Pentylone, its optical, positional, and geometric isomers, salts and salts of isomers - 7542 (Other names: bk-MBDP; 1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one) 
-
-(7) 4-fluoro-N-methylcathinone, its optical, positional, and geometric isomers, salts and salts of isomers - 1238 (Other names: 4-FMC; flephedrone; 1-(4-fluorophenyl)-2-(methylamino)propan-1-one) 
-
-(8) 3-fluoro-N-methylcathinone, its optical, positional, and geometric isomers, salts and salts of isomers - 1233 (Other names: 3-FMC; 1-(3-fluorophenyl)-2-(methylamino)propan-1-one) 
-
-(9) Naphyrone, its optical, positional, and geometric isomers, salts and salts of isomers - 1258 (Other names: naphthylpyrovalerone; 1-(naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one) 
-
-(10) alpha-pyrrolidinobutiophenone, its optical, positional, and geometric isomers, salts and salts of isomers - 7546 (Other names: α-PBP; 1-phenyl-2-(pyrrolidin-1-yl)butan-1-one) 
-
-(11) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts, and salts of isomers - 7031 (Other names: AB-CHMINACA). 
-
-(12) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts, and salts of isomers - 7023 (Other names: AB-PINACA). 
-
-(13) \[1-(5-fluoropentyl)-1H-indazol-3-yl\](naphthalen-1-yl)methanone, its optical, positional, and geometric isomers, salts, and salts of isomers - 7024 (Other names: THJ-2201). 
-
-(14) N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: acetyl fentanyl)
+(4) N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: acetyl fentanyl)
 
 (9821). 
 
-(15) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MAB-CHMINACA; ADB-CHMINACA)
+(5) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MAB-CHMINACA; ADB-CHMINACA)
 
 (7032) 
 
-(16) N-(1-phenethylpiperidin-4-yl)-N-phenylbutyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: Butyryl fentanyl)
+(6) N-(1-phenethylpiperidin-4-yl)-N-phenylbutyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: Butyryl fentanyl)
 
 (9822) 
 
-(17) N-\[1-\[2-hydroxy-2-(thiophen-2-yl)ethyl\]piperidin-4-yl\]-N-phenylpropionamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: beta-hydroxythiofentanyl)
+(7) N-\[1-\[2-hydroxy-2-(thiophen-2-yl)ethyl\]piperidin-4-yl\]-N-phenylpropionamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: beta-hydroxythiofentanyl)
 
 (9836) 
 
-(18) 3,4-Dichloro-N-\[2-(dimethylamino)cyclohexyl\]-N-methylbenzamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: U-47700)
+(8) 3,4-Dichloro-N-\[2-(dimethylamino)cyclohexyl\]-N-methylbenzamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: U-47700)
 
 (9547) 
 
-(19) N-(1-phenethylpiperidin-4-yl)-N-phenylfuran-2-carboxamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: Furanyl fentanyl)
+(9) N-(1-phenethylpiperidin-4-yl)-N-phenylfuran-2-carboxamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: Furanyl fentanyl)
 
 (9834). 
-
-(20)-(22) \[Reserved\] 
 
 \[39 FR 22141, June 20, 1974\] Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

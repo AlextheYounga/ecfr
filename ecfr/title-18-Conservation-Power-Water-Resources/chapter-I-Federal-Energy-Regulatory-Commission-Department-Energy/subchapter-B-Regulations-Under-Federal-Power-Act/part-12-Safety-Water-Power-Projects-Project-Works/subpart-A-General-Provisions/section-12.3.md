@@ -8,7 +8,7 @@
 
 (2) *Owner* means any person, state, or municipality, or combination thereof, that has a real property interests in a water power project sufficient to operate and maintain the project works.
 
-(3) *Authorized Commission representative* means the Director of the Office of Energy Projects Licensing, the Director of the Division of Inspections, the Regional Engineer, or any other member of the Commission staff whom the Commission may specifically designate.
+(3) *Authorized Commission representative* means the Director of the Office of Energy Projects, the Director of the Division of Inspections, the Regional Engineer, or any other member of the Commission staff whom the Commission may specifically designate.
 
 (4) *Condition affecting the safety of a project or project works* means any condition, event, or action at the project which might compromise the safety, stability, or integrity of any project work or the ability of any project work to function safely for its intended purposes, including navigation, water power development, or other beneficial public uses; or which might otherwise adversely affect life, health, or property. Conditions affecting the safety of a project or project works include, but are not limited to:
 

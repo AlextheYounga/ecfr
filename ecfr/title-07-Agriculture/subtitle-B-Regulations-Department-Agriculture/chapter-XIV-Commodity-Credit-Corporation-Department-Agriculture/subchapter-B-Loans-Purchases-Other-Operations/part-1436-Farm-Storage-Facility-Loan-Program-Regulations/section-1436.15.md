@@ -2,7 +2,7 @@
 
 (a) The borrower must maintain the loan collateral in a condition suitable for the storage or handling of one or more of the facility loan commodities.
 
-(b) Until the loan has been repaid, the borrower will be liable for all damages to or destruction of the collateral. CCC will not assume any loss of the collateral.
+(b) Until the has been repaid, the borrower will be liable for all damages to or destruction of the collateral. CCC will not assume any loss of the collateral.
 
 (c) CCC may conduct annual collateral inspections to insure compliance with this part. The borrower must consent to such inspection as a term of the loan and failure to supply such access will put the borrower into default.
 

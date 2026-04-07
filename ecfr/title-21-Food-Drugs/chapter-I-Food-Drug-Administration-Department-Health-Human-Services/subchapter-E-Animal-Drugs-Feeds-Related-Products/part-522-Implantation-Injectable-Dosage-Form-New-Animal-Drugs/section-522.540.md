@@ -54,7 +54,7 @@
 
 (2) *Sponsors.* See the following numbers in § 510.600(c) of this chapter:
 
-(i) Nos. 016592 and 054771 for intravenous or intramuscular use of 2.0 milligrams dexamethasone injection.
+(i) Nos. 016592 and 051031 for intravenous or intramuscular use of 2.0 milligrams dexamethasone injection.
 
 (ii) No. 054771 for intravenous use of 2.0 milligrams dexamethasone injection.
 
