@@ -10,7 +10,7 @@ Unless otherwise noted, the following terms and their definitions are for the pu
 
 *Contingency contractor personnel.* Individual contractors, individual subcontractors at all tiers, contractor employees, and sub-contractor employees at all tiers under all contracts supporting the Military Services during contingency operations.
 
-*Contingency operation.* Defined in Joint Publication 1-02 (see *http://www.dtic.mil/doctrine/new\_\_pubs/jp1\_\_02.pdf*).
+*Contingency operation.* Defined in Joint Publication 1-02 (see *http://www.dtic.mil/doctrine/new\_pubs/jp1\_02.pdf*).
 
 *Contingency program management.* The process of planning, organizing, staffing, controlling, and leading the operational contract support (OCS) efforts to meet joint force commander (JFC) objectives.
 
@@ -64,7 +64,7 @@ Unless otherwise noted, the following terms and their definitions are for the pu
 
 *Replacement center.* The centers at selected installations that ensure personnel readiness processing actions have been completed prior to an individual reporting to the aerial port of embarkation for deployment to a designated operational area.
 
-*Requiring activity.* The organization charged with meeting the mission and delivering the requirements the contract supports. This activity is responsible for delivering the services to meet the mission if the contract is not in effect. The requiring activity may also be the organizational unit that submits a written requirement, or statement of need, for services required by a contract. This activity is responsible for ensuring compliance with DoD Instruction 1100.22 (see *http://www.dtic.mil/whs/directives/corres/pdf/110022p.pdf*) and Deputy Secretary of Defense Memorandums, “In-sourcing Contracted Services - Implementation Guidance” dated May 28, 2009, and “Implementation of Section 324 of the National Defense Authorization Act for Fiscal Year 2008 (FY 2008 NDAA) - Guidelines and Procedures on In-Sourcing New and Contracted Out Functions” dated April 4, 2008 (for both Deputy Secretary of Defense Memorandums see *http://prhome.defense.gov/RSI/REQUIREMENTS/INSOURCE/INSOURCE\_\_GUIDANCE.ASPX*).
+*Requiring activity.* The organization charged with meeting the mission and delivering the requirements the contract supports. This activity is responsible for delivering the services to meet the mission if the contract is not in effect. The requiring activity may also be the organizational unit that submits a written requirement, or statement of need, for services required by a contract. This activity is responsible for ensuring compliance with DoD Instruction 1100.22 (see *http://www.dtic.mil/whs/directives/corres/pdf/110022p.pdf*) and Deputy Secretary of Defense Memorandums, “In-sourcing Contracted Services—Implementation Guidance” dated May 28, 2009, and “Implementation of Section 324 of the National Defense Authorization Act for Fiscal Year 2008 (FY 2008 NDAA)—Guidelines and Procedures on In-Sourcing New and Contracted Out Functions” dated April 4, 2008 (for both Deputy Secretary of Defense Memorandums see *http://prhome.defense.gov/RSI/REQUIREMENTS/INSOURCE/INSOURCE\_GUIDANCE.ASPX*).
 
 *Subcontract.* Defined in 48 CFR 3.502.
 

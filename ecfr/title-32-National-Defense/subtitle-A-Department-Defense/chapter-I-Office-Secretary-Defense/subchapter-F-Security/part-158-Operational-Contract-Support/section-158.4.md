@@ -10,7 +10,7 @@ It is DoD policy that:
 
 (3) Use contract support only in appropriate situations consistent with 48 CFR subpart 7.5, 48 CFR 207.503, and DoD Instruction 1100.22, “Policy and Procedures for Determining Workforce Mix.”
 
-(4) Fully consider, plan for, integrate, and execute acquisition of, contracted support, including synchronizing and integrating contracted support flowing into an operational area from systems support, external support and theater support contracts and managing the associated contractor personnel, into applicable contingency operations consistent with CCDR policies and procedures and Joint Publication (JP) 4-10, “Operational Contract Support,” (see *http://www.dtic.mil/doctrine/new\_\_pubs/jp4\_\_10.pdf*).
+(4) Fully consider, plan for, integrate, and execute acquisition of, contracted support, including synchronizing and integrating contracted support flowing into an operational area from systems support, external support and theater support contracts and managing the associated contractor personnel, into applicable contingency operations consistent with CCDR policies and procedures and Joint Publication (JP) 4-10, “Operational Contract Support,” (see *http://www.dtic.mil/doctrine/new\_pubs/jp4\_10.pdf*).
 
 (b) Contractors are generally responsible for providing their own logistical support. However, in austere, uncertain, and/or hostile environments, the DoD may provide logistical support to ensure continuation of essential contractor services. CAAF may receive Government-furnished support commensurate with the operational situation in accordance with the terms and conditions of their contract.
 

@@ -92,15 +92,15 @@
 
 (i) Minimum prescribed construction standards:
 
-(A) For all Marine Corps, Navy, and Air Force CDC facility construction, the Unified Facilities Criteria (UFC) 4-740-14, “Design: Child Development Centers” (see *http://www.wbdg.org/ccb/DOD/UFC/ufc\_\_4\_\_740\_\_14.pdf*) apply.
+(A) For all Marine Corps, Navy, and Air Force CDC facility construction, the Unified Facilities Criteria (UFC) 4-740-14, “Design: Child Development Centers” (see *http://www.wbdg.org/ccb/DOD/UFC/ufc\_4\_740\_14.pdf*) apply.
 
-(B) For all Army CDC facility construction, the Army Standard for Child Development Centers (see *https://mrsi.usace.army.mil/fdt/Army%20Standards/ CDC%20age%206 wk%20to%205yr% 20Army%20Standard.pdf*) apply.
+(B) For all Army CDC facility construction, the Army Standard for Child Development Centers (see *https://mrsi.usace.army.mil/fdt/Army%20Standards/CDC%20age%206wk%20to%205yr%20Army%20Standard.pdf*) apply.
 
-(C) When SAC is provided in youth facilities, UFC 4-740-06, “Youth Centers” (see *http://www.wbdg.org/ccb/DOD/UFC/ufc\_\_4\_\_740\_\_06.pdf*) and Service-specific exceptions to the UFC apply.
+(C) When SAC is provided in youth facilities, UFC 4-740-06, “Youth Centers” (see *http://www.wbdg.org/ccb/DOD/UFC/ufc\_4\_740\_06.pdf*) and Service-specific exceptions to the UFC apply.
 
 (D) State and local construction standards may be used but are not required, except if the CDC facility is located on an area over which the United States has no legislative jurisdiction and then only if State and local standards are more stringent than those in UFC 4-740-14.
 
-(ii) All facilities shall comply with the structural requirements of the National Fire Protection Association 101, “Life Safety Code®” 2012 (available at *http://www.nfpa.org/aboutthecodes/ AboutTheCodes.asp?DocNum=101& cookie%5Ftest=1*)
+(ii) All facilities shall comply with the structural requirements of the National Fire Protection Association 101, “Life Safety Code®” 2012 (available at *http://www.nfpa.org/aboutthecodes/AboutTheCodes.asp?DocNum=101& cookie%5Ftest=1*)
 
 (4) *Oversight.*
 
@@ -394,926 +394,399 @@
 
 (3) Table 3 outlines the operational standards for community-based child care facilities. These standards, in addition to the state licensing requirements, may be used to determine eligibility of child care subsidies under conditions designated by the DoD Components. Programs eligible to receive child care subsidies when the Service member is deployed must meet the state licensing requirements and be annually inspected.
 
-Table 1 - CDC and School-Age Programs Standards of Operations
-
-A. Administrative
-
-Both CDC and SAC
-
-The program has implemented the fee policy in accordance with current DoD and DoD Component guidance. If appropriate, the program has an approved waiver to utilize the high cost fee option. 
-
-75 percent of the program's total labor hours are paid to direct program staff who are in benefit status. 
-
-Unannounced inspections are conducted by program staff following complaints. 
-
-B. Facility
-
-Facility: Both CDC and SAC
-
-The DoD Certificate to Operate is displayed in a prominent location. 
-
-Newly constructed CDP facilities follow the UFC or Service guidance for program capacity and capability. 
-
-The facility food service area supports the sanitary preparation and service of healthy foods. 
-
-All playgrounds, playground surfaces, and equipment meet American Society for Testing and Materials and Consumer Product Safety Commission (CPSC) guidelines. 
-
-There is a balance of sun and shade on the playground and a variety of surfaces, such as resilient surfaces, and natural elements. CDC playgrounds include equipment for riding, climbing, balancing, and swinging. 
-
-The program provides opportunities for active play every day, indoors and outdoors. Children have ample opportunity to do vigorous activities such as running, climbing, dancing, skipping, and jumping. 
-
-Programs use gardens to educate children about healthy eating. 
-
-The square footage of useable space for each child in each activity room meets the requirements of the UFC or Service-specific guidelines. 
-
-Sound absorbing materials, such as ceiling tiles and rugs are used to minimize noise levels. 
-
-Areas used by children have adequate lighting for safety, evacuation, and security measures, are ventilated and kept at a comfortable temperature. 
-
-There is adequate and convenient storage space for equipment and materials. 
-
-Individual space is provided for each child's belongings. 
-
-Supervised private areas where children can play or work alone or with a friend are available indoors and outdoors. 
-
-Bathrooms, drinking water, and hand-washing facilities are easily accessible to children. 
-
-Clean, sanitary drinking water is readily available at all times. 
-
-The facility includes a place for adults to take a break away from children, an adult bathroom, a secure place for staff to store their personal belongings, and an administrative area for planning or preparing materials that is separated from the children's areas. 
-
-The facility includes soft elements that help create a home-like environment. 
-
-Facility: CDC ONLY
-
-The square footage of activity space per child meets the requirements of the UFC or Service specifications for facilities built after 2002. A minimum of 50 square feet per child of activity space is provided for infants in facilities built prior to 2002. 
-
-If more than one care group occupies a single room, each group has its own defined physical space and primary interest centers. 
-
-Outdoor play areas directly adjoin CDCs. Playgrounds for alternative program options must be accessible via a route free from hazards and are located within 1/8 mile from the facility. 
-
-Playgrounds are enclosed by a fence and meet the requirements of the UFC. 
-
-The square footage of playground space per child meets the requirements of the UFC or Service specific guidelines. The playground area is capable of supporting 30 percent of the total capacity of the CDC in a center of 100 or more children, and all the children in centers with a capacity of fewer than 100 children. 
-
-The facility has a designated place set aside for breastfeeding mothers who want to come during work to breastfeed, as well as a private area with an outlet (not a bathroom) for mothers to pump their breast milk. 
-
-Facility: SAC ONLY
-
-There are separate male and female bathrooms for children as well as separate multi-unit restrooms for staff and visitors or a system to ensure that adults and teens do not use the bathrooms at the same time as children in SAC. 
-
-C. Health and Sanitation
-
-Health and Sanitation: Both CDC and SAC
-
-A comprehensive health and sanitation inspection has been conducted within the last 12 months, corrective actions have been completed per specified timelines, and the inspection report is available for review. 
-
-The program shall require that all children enrolling in CDPs provide written documentation of immunizations appropriate for the child's age in accordance with Army Standard for Child Development Center. Children enrolled in the SAC program are not required to provide documentation if they are enrolled in a local public school system. 
-
-Staff employed by the CDP and regular volunteers shall be current for all immunizations recommended for adults by the ACIP of the Centers for Disease Control and Prevention. All must provide written documentation of immunization. 
-
-There is a policy in place that addresses the daily informal screening for illness based on criteria established by the DoD Component. This policy also addresses admission back into the CDP after an illness. 
-
-There is a policy in place that addresses food or other allergies, special accommodations, or potentially life-threatening conditions. 
-
-Individual medical problems and accidents are recorded and reported to management staff and families, and a written record is kept of such incidents. 
-
-Only physician-prescribed medications are administered; medications are only given with the written approval of the child's parents; and medications given are documented. 
-
-Providers have documented parental permission to apply basic topical care items such as sunscreen, insect repellant, and lotion. 
-
-A plan exists for dealing with medical emergencies that include written parental consent forms, and transportation arrangements approved by the DoD Component. 
-
-Policies and procedures are followed for administering and storing medication. Designated staff are trained to administer medications, and the training is updated annually or as required by state laws. 
-
-The facility is cleaned daily, and as needed throughout the day. Food preparation areas, bathrooms, diapering areas, hand-washing facilities, and drinking fountains are sanitary. 
-
-A sink with running water at a comfortable temperature of no more than 110 degrees temperature is very close to bathrooms and diapering areas. 
-
-Staff and children wash hands before and after eating, after toileting and diapering, after handling animals, after entering the facility from outdoors, before water play, after wiping their nose, and after any other activity when the hands become contaminated. Signs are posted reminding staff and children of proper hand-washing procedures. 
-
-Staff and volunteers follow universal precautions to prevent transmission of blood-borne diseases and the program has a blood-borne pathogen procedure, as required by the Occupational Safety and Health Administration (OSHA). 
-
-The program requires parents to provide proper attire for active play indoors and outdoors. 
-
-At least one staff member, who has certification in first aid treatment, including CPR for infants and children and emergency management of choking, is always present. Current certificates are kept on file. 
-
-Health and Sanitation: CDC ONLY
-
-Infant equipment is washed and disinfected at least daily. Toys that are mouthed are removed immediately after mouthing and are washed and sanitized prior to being used by another child. 
-
-Individual bedding is washed at least once a week and used by only one child between washings. Individual cribs, cots, and mats are washed if soiled. 
-
-Diapering procedures are in accordance with national recommendations and are posted in diapering areas. 
-
-Sinks used for diapering are not co-located with food service areas or the sink used for dishwashing. 
-
-D. Fire and Safety
-
-Fire and Safety: Both CDC and SAC
-
-Comprehensive fire and safety inspections have been completed within the last 12 months, corrective actions have been completed per specified timelines, and the inspection reports are available for review. 
-
-A safety walk-through of all play areas is conducted daily. Safety concerns are identified, documented, and corrected immediately or put off limits to children until they can be corrected. 
-
-The building, playground, and all equipment are maintained in safe, clean condition, are in good repair, and there are no observable safety hazards in the indoor and outdoor program space. 
-
-Stairways and ramps are well lighted and equipped with handrails, where appropriate. 
-
-Fire extinguishers, smoke detectors, and carbon monoxide detectors, where required, are in working order, and documentation shows status is checked monthly. 
-
-Adequate first aid supplies are readily available and maintained. First aid supplies are available during field trips and outings. 
-
-Toys and materials do not present a choking hazard for children under age 3 years. 
-
-Chemicals and potentially dangerous products, such as medicine or cleaning supplies, are stored in original, labeled containers in locked cabinets inaccessible to children. Diluted bleach solution must be accessible to staff in an unlocked location, but inaccessible to children. 
-
-There is a written plan for reporting and managing emergencies, including terrorist attacks, severe storm warnings, medical and pandemic emergencies, or a lost or missing child, which includes shelter in place and evacuation procedures. Staff and volunteers understand the plan. 
-
-Evacuation drills are conducted monthly at different times of the day or evening when children are in care. The drills are documented. 
-
-Emergency telephone numbers including police, fire, rescue, and poison control services are posted by telephones and are available at all times. 
-
-Staff and regular volunteers are familiar with primary and secondary evacuation routes and practice evacuation procedures monthly with children. 
-
-A system is in place to keep unauthorized people from taking children from the program. 
-
-Smoking and use of tobacco is not permitted in the facility or in the sight or presence of children. 
-
-Fire and Safety: CDC ONLY
-
-Cribs meet the current CPSC guidelines. 
-
-CPSC crib safety guidelines are followed: infants are placed on their backs for sleeping; soft cushions, such as pillows, comforters, thick blankets, quilts, or bumper pads are not used in cribs. 
-
-E. Parent Involvement/Participation
-
-Parent Involvement/Participation: Both CDC and SAC
-
-Parents have access to their children at all times, are helped to feel welcome and comfortable, and are treated with respect. 
-
-Written information is available to families, including operating policies and procedures, program philosophy, and a parent participation plan. 
-
-Programs are encouraged to include the culture and language of the families they serve. Families are encouraged to share their heritage and culture. 
-
-Parents are offered a program orientation as a part of the child enrollment process. 
-
-Parents are informed about the program and curriculum and about policy or regulatory changes and other critical issues that could potentially affect the program, through newsletters, bulletin boards, technology, and other appropriate means. 
-
-Families are encouraged to participate in the planning and evaluation of the CDC and SAC programs with regards to their child's care and development. They are encouraged to be involved in the program in various ways, taking into consideration working parents and those with little spare time. 
-
-There is a parent board that meets on a scheduled basis through in-person or virtual meetings. The board meets periodically to provide opportunities for families to have input regarding policies, procedures, and plans for meeting children's needs. 
-
-Staff work in collaborative partnerships with families, establishing and maintaining daily or ongoing two-way communication with children's parents to build trust, share changes in a child's physical or emotional state regularly, facilitate smooth transitions for children, and ensure that children's learning and developmental needs are met. 
-
-Policies ensure that staff and parents have an effective way of negotiating difficulties and differences that arise in their interactions. 
-
-Programs inform families on how to increase physical activity, improve nutrition, and reduce screen time (TV, video games, computers, etc.). 
-
-The program provides information to parents to ensure that each child has routine health assessment by the child's primary care provider, according to standards of the AAP, to include evaluation for nutrition-related medical problems. 
-
-Parent Involvement/Participation: CDC ONLY
-
-Conferences are held at least once per year and at other times, as needed, to discuss children's progress, accomplishments, and difficulties at home and at the program. 
-
-F. Learning Activities and Interaction with Children
-
-Both CDC and SAC
-
-Learning activities reflect the program's written statement of its philosophy and goals for children. This statement is available to all staff and families. 
-
-The program is designed to reasonably accommodate and be inclusive of all children, including those with identified disabilities as well as special learning, medical, and developmental needs. 
-
-Programs have established a planned program of developmentally appropriate activities that recognizes the individual differences of children and provides an environment that encourages children's self-confidence, self-help, life skills, curiosity, creativity, and self-discipline. 
-
-Staff include age-appropriate nutrition education activities in the curriculum. 
-
-The daily schedule provides a balance of activities in consideration of the child's daily routine and experience. 
-
-Staff are engaged and interact frequently with children, speaking in a friendly, positive, and courteous manner, respectful of gender, race, religion, family background, special needs, and culture. The physical environment supports these interactions. 
-
-Staff conduct smooth and unregimented transitions between activities and are flexible in changing planned or routine activities, as appropriate. Infants and toddlers are not expected to function in large group activities. 
-
-Staff use a variety of teaching strategies to enhance children's learning and development throughout the day. 
-
-Staff addresses bullying and supports positive behavior by modeling appropriate behavior, responding consistently to issues, and encouraging children to resolve their own conflicts, when possible and appropriate. 
-
-The outdoor environment meets the needs of children, allows them to be independent and creative, and have access to a variety of age-appropriate outdoor equipment and games. Staff plan and participate in children's active play. 
-
-Program materials are in good condition, sufficient for the number of children in the program, developmentally appropriate for the age of the children, and appropriate to the activities offered. 
-
-Screen time and the use of passive media is limited and developmentally appropriate. Media viewing and computer use is not permitted for children younger than 2 years. 
-
-CDC Only
-
-There is a DoD Component-approved curriculum that supports school readiness. It is based on knowledge of child and youth development and learning, and assessment of individual needs and interests. 
-
-Developmentally appropriate activities emphasize concrete experiential learning and promote development in six developmental domains: social, physical, language and literacy, cognitive and intellectual, emotional, and cultural. 
-
-Individual observations of children's development and learning are written, compiled, assessed, and are used as a basis for planning appropriate learning activities. 
-
-Staff plan with families to make toileting, feeding, and the development of other self-regulation skills a positive experience for children. 
-
-SAC Only
-
-Developmentally appropriate activities encourage physical fitness; positive self-esteem; intellectual, social, and physical achievement; leadership skills and initiative; lifelong recreation skill; positive use of leisure time; moral development and community leadership; self-reliance and independence; and respect for diversity. 
-
-SAC daily schedules are flexible, provide stability without being rigid, allow youth to  
-meet their physical needs (e.g., water, food, restrooms) in a relaxed way, allow children to move smoothly from one activity to another (usually at their own pace), and facilitate smooth transitions when it is necessary for children to move as a group. 
-
-Appropriate protected internet access and programs that teach technology are available. 
-
-G. Nutrition and Food Service
-
-Both CDC and SAC
-
-Meals and snacks are a pleasant, social learning experience for children. 
-
-The DoD Components will establish policies that are consistent with USDA guidelines for meals provided by parents. Under limited circumstances when meals are provided by parents, food storage and handling procedures are approved by local health and sanitation authorities. 
-
-Unless documented circumstances approved by the DoD Component prevent enrollment, all programs must enroll in the USDA CACFP (United States Department of Agriculture Child and Adult Care Food Program). 
-
-Dietary modifications are made on the basis of recommendations by the child's primary medical care provider and are documented. Documentation is available for religious and medical dietary substitutions. Menus contain some vegetarian meals. 
-
-The program provides or posts menus showing all foods to be served during that month. Core and cyclical menus are approved by a nutritionist or registered dietician. Foods typical of the child's culture and religious preferences, as well as a variety of healthful foods that may not be familiar to the child, are included. 
-
-The program provides healthy meals and snacks that include restrictions on the provision of juice and beverages with added sweeteners and no fried, high-fat, or highly salted foods. 
-
-Meals and snacks are conducted using family-style dining. In SAC programs, snacks may be served buffet style. 
-
-CDC Only
-
-The program encourages, provides arrangements for, and supports breastfeeding. 
-
-There is an accountability system in place for bottles, including bottles for breast milk. Bottle-feeding is done in such a way as to minimize disease and promote interaction. Infants are held for bottle-feeding, bottles are never propped, never heated in a crock pot or microwave, and infants are never put to sleep with a bottle. 
-
-One adult should not feed more than one infant for bottle feeding, two children in high chairs, or three children who need assistance with feeding at the same time. 
-
-H. Supervision of Children
-
-Both CDC and SAC
-
-The following staffing requirements are met at all times, except during nap time (for CDC): 
-
-a. For infants from birth to 12 months, there are never more than four children per staff member. 
-
-b. For pre-toddlers 13 months to 24 months, there are never more than five children per staff member. 
-
-c. For toddlers, 25 months to 36 months, there are never more than seven children per staff member. 
-
-d. For children 37 months through 5 years, there are never more than twelve children per staff member. 
-
-e. For children 6 years through 12 years, there are never more than fifteen children per staff member. 
-
-During rest time, the staff-to-child ratios for children over 24 months of age may increase to twice the non-napping staff-to-child ratio. Sufficient staff are required to remain in the building during rest time to meet the non-napping ratios and be available to assist with emergencies. 
-
-The following maximum group sizes are followed at all times: 
-
-a. For infants birth to 12 months, there are never more than eight children per group. 
-
-b. For pre-toddlers 13 months to 24 months, there are never more than ten children per group. 
-
-c. For toddlers, 25 to 36 months, there are never more than fourteen children per group. 
-
-d. For children thirty-seven months through five years, there are never more than twenty-four children per group. 
-
-e. For SAC, there are never more than thirty children per group. 
-
-In multi-age groupings, the Service may follow the ratio per age group. For example, four infants and five pre-toddlers equal a group of nine with two direct care personnel, or seven toddlers and twelve preschoolers equal a group of nineteen with two direct care personnel. 
-
-Volunteers or persons under 18 years of age may not be counted in determining compliance with staff-to-child ratios and are not allowed to work alone with children. 
-
-The program has an accountability system in place. Each staff member has primary responsibility and accountability for a group of children. There is specific accountability for each child by one staff member. Systems are in place for accounting for children's whereabouts, especially during periods of transition and emergencies. 
-
-Children are released only to their parents or guardian. Children may be released to a designee when signed permission is given by the parent or guardian. 
-
-Families are notified about procedures and policies for field trips. Families are notified of all activities outside the center. 
-
-Children are under adult supervision at all times. Staff are not permitted to use personal electronic devices (including, but not limited to cell phones, iPods, smart phones, etc.) when supervising children. 
-
-CDC Only
-
-At least two staff members must be present with each group of children at all times. When one staff person is alone with a single ratio of children, the program director or designee frequently monitors the room through closed circuit television or visual access panels to ensure oversight by more than one adult. In this case, the staff member must have an initiated National Agency Check Investigation (NACI) and the program director or designee must have a completed NACI. 
-
-Infants and toddlers spend the majority of the time interacting with staff who have primary responsibility for them each day. 
-
-SAC Only
-
-At least two paid staff members shall be present whenever children are in the facility. 
-
-Adult volunteers may supplement paid staff during field trips and other activities away from the facility. Only paid staff are counted in the ratio. 
-
-Signed permission is given by the parent allowing the child to self-release for a specific organized activity. Self-release procedures are consistent with the installation home alone policy or self-care policy. 
-
-I. Child Abuse Prevention and Reporting
-
-Both CDC and SAC
-
-A NACI to include a name-based criminal history record check (State and Federal) and fingerprint check has been initiated on all staff. Background checks are tracked to ensure completion in a timely manner. 
-
-All individuals in a CDP who have contact with children have completed a DD Form X656 “Basic Criminal History and Statement of Admission” 
-
-Updates to the background checks are completed every five years. 
-
-Newly hired staff without a completed background check are readily identifiable and work within line of sight of a staff member with a completed check. 
-
-Hiring practices include careful checking of references of all potential employees and volunteers. 
-
-The program has a written guidance, discipline, and touch policy that is available to staff and families. Staff do not use corporal punishment or other negative discipline methods that hurt, humiliate, or frighten children. 
-
-The program has a child abuse and neglect policy that includes reporting requirements for staff as well as procedures to be followed should a staff member be accused of abuse or neglect. This information is included in employee handbooks. All staff are knowledgeable of the policy. 
-
-The DoD Child Abuse and Safety Hotline telephone number is displayed in a highly visible area where parents can see it. The telephone number is published in parent handbooks and other brochures. 
-
-The facility is designed in accordance with the Unified Facilities Criteria (UFC) 4-740-14, “Design: Child Development Centers,” to help minimize the risk of child abuse: 
-
-a. Access to children by those not employed by the program is restricted. 
-
-b. Areas to which a child or children can be taken out of view of others are limited. 
-
-c. All exit doors that do not open onto a fenced area have operating alarms, except the main entrance to the facility and the kitchen entrance. 
-
-d. Evening or weekend care is provided in rooms located near the front entryway to facilitate additional supervision by the front desk staff and parents. 
-
-e. In the CDC: 
-
-1) Children can be observed at all times by parents and supervisors. 
-
-2) There is visual access into and throughout activity rooms used for care, including nap time. Closed-circuit television, vision panels, and convex mirrors are used as necessary to facilitate visual access. 
-
-3) Diapering areas are visible. 
-
-All persons other than employees and family members bringing in or picking up children sign in and out at the front desk or with appropriate personnel. Visitors to the CDP shall sign in and out of the facility and wear a visitors badge at all times while they are in the facility or on playgrounds. 
-
-If transportation is provided for children by the program, vehicles are equipped with age-appropriate restraint devices in accordance with State and Federal requirements. The program maintains documentation that vehicles used in transporting children are appropriately licensed, inspected, and maintained. A current copy of the appropriate driver's license and Department of Motor Vehicles driving record is on file for staff members who transport children. 
-
-In SAC programs, a procedure for accountability when a child fails to show for the program is in place and followed.
-
-Table 2 - FCC Standards of Operation
-
-A. Administrative
-
-The installation regulates FCC in accordance with DoD Component requirements, ensuring care is not permitted unless subject to inspection and approval. 
-
-Processes are in place to support recruitment and retention of FCC providers. 
-
-Unannounced inspections are conducted by program staff following complaints. 
-
-B. Home
-
-Where applicable, the DoD Component has a process to register and certify homes located off the installation or in privatized government housing. 
-
-The Certificate to Operate, issued by the DoD Component or designee, is displayed in a prominent location. 
-
-Providers can demonstrate proof of current liability insurance. 
-
-There is a signed contract between each family and provider. Parents are informed of changes in the provider's household composition. 
-
-Children are cared for by the provider or an approved substitute. Parents and the FCC administrator are informed when a substitute provider will be caring for their children. Civilian members of the provider's household providing care as a substitute must be approved and trained. Active duty Military Service members may serve as substitute providers only under circumstances approved by the DoD component. 
-
-There is adequate space indoors and outdoors in the home for the number of children in care to play, rest, and eat. 
-
-C. Health and Sanitation
-
-On installations, comprehensive fire, safety, and sanitation inspections have been completed within the last 12 months, and the inspection reports are available for review. 
-
-The provider notifies parents and FCC of medical emergencies, communicable diseases or illness of the children, the provider, or the provider's family member(s). Health consultants will be informed based on installation policy. 
-
-Children are informally screened daily for illness based on criteria established by the DoD Component. Children are readmitted after illness only when their presence no longer endangers the health of other children. 
-
-Only physician-prescribed medications are administered; medications are only given with the written approval of the child's parents; and medications given are documented. 
-
-Providers have documented parental permission to apply basic topical care items such as sunscreen, insect repellant, and lotion. 
-
-Procedures for diapering, hand washing, and toileting are followed in accordance with national recommendations. 
-
-Providers follow universal precautions to prevent transmission of blood-borne diseases, and the provider has a blood-borne pathogen procedure, as required by OSHA. 
-
-Providers and children wash hands before and after eating, after toileting and diapering, after handling animals, after entering the home from outdoors, before water play, after wiping their nose, and after any other activity when the hands become contaminated. Signs are posted reminding providers and children of proper hand-washing procedures. 
-
-Homes are maintained in a sanitary manner. 
-
-Individual bedding is washed at least once a week and used by only one child between washings. Individual cribs, cots, and mats are washed if soiled. 
-
-Infant equipment is washed and disinfected at least daily. Toys that are mouthed are removed immediately after mouthing and are washed and sanitized prior to being used by another child. 
-
-All windows used for ventilation are properly screened. 
-
-Providers do not consume alcohol while children are in care. 
-
-Smoking is not permitted in the home or outdoor area while children are in care. 
-
-D. Fire and Safety
-
-There are policies in place to ensure the home operates to protect children against the risk of fire and safety hazards. 
-
-There is a policy to keep children protected from hazards stemming from poisoning, toxic materials, electrical shock, standing water, unsafe playground equipment, and strangulation. 
-
-There is a written plan for reporting and managing emergencies, including terrorist attacks, severe storm warnings, medical and pandemic emergencies, or a lost or missing child, which includes shelter in place and evacuation procedures. Providers and volunteers understand the plan. 
-
-First aid supplies are readily available for emergencies and maintained. 
-
-Evacuation drills are conducted monthly at different times of the day or evening when children are in care. The drills are documented. 
-
-There is a working landline or cellular phone within the home. Emergency telephone numbers including police, fire, rescue, and poison control services, and instructions are accessible or kept with the telephone(s). 
-
-Providers use safety gates to prevent children from falls. Door locks that can entrap children inside a bathroom or bedroom may be opened from the outside. 
-
-If there are firearms in the home, the ammunition must be removed from the firearm. Firearms and ammunition are stored separately in locked cabinets that are inaccessible to children. 
-
-Young infants are placed on their backs for sleeping to lower the risk of SIDS. Soft cushions, pillows, thick blankets, and comforters are not used in cribs. 
-
-Providers shall not permit children to sleep in family beds unless a separate bed is designated for the child and clean linens are provided. 
-
-Cribs meet CPSC guidelines. The sides of infants' cribs shall be in a locked position when cribs are occupied and do not present a strangulation or entrapment hazard. 
-
-Providers inform parents if they will be taking children from the home while they are in care. 
-
-If transportation is provided for children by the provider, age-appropriate restraint devices are used, and appropriate safety precautions are taken. 
-
-A current copy of the driver's license and proof of insurance is on file for providers who transport children. 
-
-E. Parent Involvement/Participation
-
-Parents are given access to the home at all times when their children are present. 
-
-Parents are provided with a copy of policies governing FCC. 
-
-The provider communicates regularly with parents and recognizes them as partners in the care of children, and there is a prominent place to display information for parents. 
-
-Parents are provided with information about the importance of routine health supervision by the child's primary care provider, according to standards of the AAP, to include evaluation for nutrition-related medical problems. 
-
-F. Learning Activities and Interaction with Children
-
-Activities and experiences are provided daily that enhance children's physical, social, emotional, and cognitive development. 
-
-Activities include age-appropriate nutrition education. 
-
-There are enough toys and materials, home-made or purchased, to engage all the children in developmentally appropriate ways. 
-
-Toys, materials, and equipment are in good repair and are arranged so children are able to select and put toys and materials away with little or no assistance. 
-
-A variety of daily activities is planned for indoors and outdoors. There is a balance between child-initiated and adult-directed activities. A daily schedule of activities is posted for parents to see. 
-
-The provider plans and participates in children's active play. 
-
-The provider interacts frequently with the children and shows them affection and respect. The provider speaks to children in a friendly, courteous manner. 
-
-Children's routines are handled in a relaxed and individualized manner that promotes respect and opportunities to develop self-esteem, self-discipline, and learning by doing. 
-
-Screen time (e.g., non-active video games) and the use of passive media, (e.g., television, audio tapes), are limited and developmentally appropriate. Media viewing and computer use are not permitted for children younger than 2 years. 
-
-The provider observes and evaluates each child's growth and development for program planning. 
-
-G. Nutrition and Meal Service
-
-Unless documented circumstances prevent enrollment, providers are offered the opportunity to enroll in the USDA CACFP and all meals and snacks are prepared, handled, transported, and served according to USDA CACFP guidelines found in 7 CFR part 226. 
-
-Providers develop written menus showing all foods to be served during that month, and the menus are available to parents and guardians. Menus are posted for meals and snacks. 
-
-Dietary modifications are made on the basis of recommendations by the child's primary care provider and are documented. Documentation is available for religious and medical dietary substitutions. Menus contain some vegetarian meals. 
-
-Meals and snacks include restrictions on the provision of juice and beverages with added sweeteners and limited high-fat and salted foods. 
-
-Food is prepared, served and stored in a sanitary manner. If meals are provided by parents, food storage and handling procedures are approved by local health and sanitation authorities. 
-
-All children present are served meals or snacks. Meals and snacks for toddlers, preschool, and school-age children use family-style dining. 
-
-Bottle-feeding is done in such a way as to minimize disease and promote interaction. Infants are held for bottle-feeding. Bottles are never propped, never heated in a crock pot or microwave, and infants are never put to sleep with a bottle. 
-
-There is an accountability system in place for bottles, including bottles for breast milk. 
-
-The provider encourages, provides arrangements for, and supports breastfeeding. There is an accountability system in place for bottles. 
-
-H. Supervision of Children
-
-The maximum group size in a home is six children per provider, including the provider's own children under the age of eight. 
-
-a. When all children are under the age of two, the maximum group size at any one time is three. 
-
-b. In mixed-age groups, the number of children under two years of age is limited to two children. 
-
-c. When all children are school-age, the maximum group size is eight. 
-
-Parents sign children in and out of the home on a daily basis. Children are only released to persons that parents have authorized in writing. Children may sign themselves out of the home consistent with the installation home alone policy or self-care policy and parental consent. 
-
-Providers supervise all children in care both inside and outdoors. School-age children may be outside without direct supervision as long as they are within sight or sound of the provider. 
-
-I. Child Abuse Prevention and Reporting
-
-Providers, substitute providers, and individuals age 18 and older living in the home, must complete a background check annually. 
-
-All individuals in a CDP who have contact with children have completed a DD Form X656 “Basic Criminal History and Statement of Admission”. 
-
-The DoD Child Abuse and Safety Hotline telephone number is displayed in a highly visible area where parents can see it. The telephone number is published in parent materials. 
-
-Children are never left alone with a visitor or another adult who is not authorized to care for children. 
-
-There is a guidance policy in place, and providers do not use corporal punishment or other negative discipline methods that hurt, humiliate, or frighten children.
-
-Table 3 - ERIS
-
-Oversight
-
-The State Child Care Licensing/Regulating Agency conducts an annual on-site inspection of the facility and program. 
-
-SCR 01 - Staff-Child Ratio/Group Size (SCR)
-
-Standard
-
-SCR 01.01
-
-RATIO (number of children per child care provider/staff). Ratios must be equal to or lower than: 
-
-1:4 or less for infants (birth to 12 months). 
-
-1:5 or less for pre-toddlers (13-24 months). 
-
-1:7 or less for toddlers (25-36 months). 
-
-1:12 or less for preschool (37 months-5 years). 
-
-1:15 or less for school age (6-12 years). 
-
-SCR 01.02
-
-GROUP SIZE (the total number of children within various age groups). Group size must be equal to or lower than: 
-
-Eight or less for infants (birth to 12 months) with two caregiving staff per eight infants. 
-
-Ten or less for pre-toddlers (13-24 months) with two caregiving staff per ten pre-toddlers. 
-
-Fourteen or less for toddlers (25-36 months) with two caregiving staff per fourteen toddlers. 
-
-Twenty four or less for preschool (27 months-5 years) with two caregiving staff per twenty four preschoolers. 
-
-Twenty four/thirty or less for school age (6-12 years) with two caregiving staff per twenty four/thirty school agers. 
-
-SCR 01.03
-
-MULTI-AGE GROUPINGS (more than one age group in a room). No more than TWO AGE GROUPs may be combined within 18 month range (THIS DOES NOT APPLY TO SAC). Each age group is represented by appropriate ratio. Examples: two caregiving staff: four infants and five pre-toddlers; twp caregiving staff: five pre-toddlers and seven toddlers; two caregiving staff: seven toddlers and twelve preschoolers. 
-
-BAC 02 - Background Check/Child Abuse Prevention (BAC)
-
-Standard
-
-BAC 2.01
-
-Background checks are completed and documented for each employee or regular volunteer who is in contact with children, including management, administration, classroom, support staff, and individuals contracted for hire. 
-
-BAC 02.02
-
-Background checks are renewed and documented every 5 years for each employee or regular volunteer who is in contact with children, including management and administration, classroom staff, and support staff. 
-
-BAC 02.03.a
-
-Background checks include documentation of State Criminal History Repository completed for all states that an employee or prospective employee lists as current and former residences, in an employment application by using fingerprints. 
-
-BAC 02.03.b
-
-Background checks include documentation of FBI fingerprint check and name-based criminal history records check of law enforcement records completed for any States lived in by applicant during the past 5 years. 
-
-BAC 02.03.c
-
-Background checks include documentation of a review of the State Child Abuse Registry. 
-
-BAC 02.03.d
-
-Background checks include a review of the State Sex Offender Registry. 
-
-BAC 02.04
-
-Each employee and regular volunteer is trained annually about child abuse prevention, common symptoms, and signs of child abuse. 
-
-BAC 02.05
-
-All employees and regular volunteers are trained annually on HOW to report, WHERE to report, and WHEN to report possible child abuse or neglect. 
-
-SR 03 - Staff Requirements (SR)
-
-Standard
-
-SR 03.01.a
-
-Director has a minimum of a Bachelor's Degree (BA) in childhood education, child development, social work, nursing, or other child-related field AND experience working with the age groups enrolled in the program. 
-
-In the event that the director does not have a BA degree in those areas, the director must have an AA degree and must be working toward the completion of a BA degree. 
-
-SR 03.01.b
-
-The director is not responsible for a classroom of children. 
-
-SR 03.02
-
-The direct care personnel are at least 18 years old and have a high school diploma or a graduation equivalency diploma (GED). 
-
-TRG 04 - Training Requirements (TRG)
-
-Standard
-
-TRG 04.01
-
-Orientation is provided for each staff member and includes training on the following: early childhood development and education; child abuse recognition, prevention, and reporting; safety; first aid; proper hygiene; and positive guidance. 
-
-TRG 04.02.a
-
-There is an annual training plan for directors. Topics shall include, but are not limited to: 
-
-Child abuse prevention and positive guidance. 
-
-Universally accepted health and safety practices to include hand washing. 
-
-Emergency preparedness and evacuation procedures. 
-
-Social and emotional needs of children. 
-
-Developmentally appropriate practices. 
-
-General management practices, such as financial management, facility management, staff development, and working with parents. 
-
-Safe sleep practices. 
-
-TRG 04.02.b
-
-There is an annual training plan for staff that include topics such as: 
-
-Child abuse prevention and positive guidance. 
-
-Universally accepted health and safety practices to include hand washing. 
-
-Social and emotional needs of children. 
-
-Developmentally appropriate practices. 
-
-TRG 04.03
-
-Staff complete forty hours of initial orientation training within the first three months. 
-
-TRG 04.04
-
-Staff are required to complete at least 24 hours of training per year. 
-
-TRG 04.05
-
-At least one staff member certified in emergency pediatric first aid treatment, including CPR for infants and children and emergency management of choking, is present in the facility during hours of operation. 
-
-IMM 05 - Immunizations (IMM)
-
-Standard
-
-IMM 05.01
-
-Children's records include EITHER: 
-
-Documentation of current age-appropriate immunizations, as recommended by the AAP; OR 
-
-A letter of exception on file and a statement of medical religious exception. 
-
-IMM 05.02
-
-Staff files include a copy of a TB screening. Also included is documentation of a general health assessment or a physical examination completed during employment in-processing. Information is available at: http://www.cdc.gov/media/.
-
-SUP 06 - Supervision/Guidance (SUP)
-
-Standard
-
-SUP 06.01.a
-
-The written policies and practices of the program specify that staff supervise children at all times, including nap times. No child is left alone or unsupervised. 
-
-SUP 06.01.b
-
-The written policies and practices of the program specify that children are released only to persons listed on the child's registration form or for whom the parents have provided written authorization. 
-
-SUP 06.01.c
-
-The written policies and practices of the program specify that parent, or authorized adult, signs children in and out upon arrival and departure each day, and attendance records are kept. 
-
-A system is in place for accounting for school-age arriving from school or other activities without the parent (for example, children transported to the program by a school bus). 
-
-SUP 06.02
-
-Organizational policy prohibits: punishment by spanking or hitting or other physical means, to include corporal punishment; isolation from adult sight; confinement, binding, humiliation, or verbal abuse; deprivation of food and water, outdoor play or activities, or other program components; inappropriate touch; and punishment for lapses in toilet training or refusing food. 
-
-DRL 07 - Evacuation and Fire Drills (DRL)
-
-Standard
-
-DRL 07.01
-
-The program has a written plan for emergency evacuation (for example, a plan for evacuating building occupants in case of fire, tornado, earthquake, hurricane, or other disaster that could pose a health and safety hazard). 
-
-DRL 07.02
-
-Procedures are in place to ensure all children in attendance are accounted for during an evacuation drill or event. 
-
-DRL 07.03
-
-There is an automatic fire detection and alarm system in place, and it is operational. 
-
-DRL 07.04
-
-A fire extinguisher is accessible and in operating condition. 
-
-DRL 07.05
-
-Fire and emergency evacuation drill procedures are practiced at least monthly. 
-
-HWD 08 - Hand Washing and Diapering (HWD)
-
-Standard
-
-HWD 08.01
-
-Policies are in place to ensure staff and children wash their hands with soap and warm running water: 
-
-Before eating or food preparation. 
-
-After toileting or changing diapers. 
-
-After handling animals, and after any other activity when the hands may become contaminated to include returning from outside. 
-
-HWD 08.02
-
-Toileting and diapering areas are not located in food preparation areas. The areas are in easily visible locations and are sanitary. 
-
-MED 09 - Medication and Health (MED)
-
-Standard
-
-If the program does not administer medications, proceed to 09.02. 
-
-MED 09.01.a
-
-The program has a written policy and clear procedures on administering medicine, proper storage, and labeling. 
-
-MED 09.01.b
-
-If medication (prescription and/or over-the-counter) is administered, written parental permission is kept on file and instructions from a physician are required (“N/A” is allowed if no children currently receive medication). 
-
-MED 09.01.c
-
-Designated staff are trained to administer the medicine, and the training is updated annually. 
-
-MED 09.02
-
-First aid kits are readily available and maintained. 
-
-MED 09.03.a
-
-Programs provide healthy meals and snacks consistent the U.S. Dietary Guidelines and are encouraged to participate in the USDA CACFP. 
-
-MED 09.03.b
-
-Programs are encouraged to limit sugar-sweetened juices, beverages, and snacks, and high-fat and high-salt foods. 
-
-MED 09.04
-
-Bottle-feeding is done in such a way to minimize disease and promote interaction. For example, infants are held for bottle-feeding, bottles are never propped, never heated in a crock pot or microwave, and infants are never put to sleep with a bottle. 
-
-EMG 10 - Emergency Plan/Contact Information (EMG)
-
-Standard
-
-EMG 10.01.a
-
-There is a written plan for reporting and managing a lost or missing child. 
-
-EMG 10.01.b
-
-There is a written plan for reporting and managing injuries requiring medical or dental care, including hospitalization or serious injury. 
-
-EMG 10.01.c
-
-There is a written plan for reporting and managing abuse or neglect of a child. 
-
-EMG 10.01.d
-
-There is a written policy that requires all parents to provide emergency information to include: 
-
-Multiple contact phone numbers (work, cellular, home). 
-
-Emergency contact phone numbers (relatives or friends) authorized to pick up the child if parent cannot be reached. 
-
-The child's physician, dentist, and emergency room preference. 
-
-OUT 11 - Outdoor Play Area (OUT)
-
-Standard
-
-OUT 11.01
-
-The playground and all equipment are maintained in safe, clean condition, in good repair, and there are no observable safety hazards and no entrapment areas. 
-
-OUT 11.02
-
-Playground equipment is surrounded by resilient surfaces (e.g., fine, loose sand, wood chips, wood mulch) of an acceptable depth (9 inches) or by rubber mats manufactured for such use. 
-
-OUT 11.03
-
-The playground equipment is arranged to ensure that a child is visible and supervision is maintained. 
-
-OUT 11.04
-
-There is a plan to check and inspect playgrounds on a weekly basis. Each staff member is responsible for immediately reporting hazards or unsafe areas to the director. 
-
-HAZ 12 - Hazardous Materials and General Safety (HAZ)
-
-Standard
-
-HAZ 12.01
-
-Accident protection and liability insurance coverage are maintained for children and adults. 
-
-HAZ 12.02
-
-All chemicals and potentially dangerous products, such as medicine or cleaning supplies are stored in original, labeled containers in locked cabinets inaccessible to children. 
-
-HAZ 12.03
-
-Poisonous or potentially harmful plants on the premises are inaccessible to children. 
-
-HAZ 12.04
-
-Children are protected from accidental drowning by limiting access to all bodies of water. 
-
-HAZ 12.05
-
-Electrical outlets are covered in all areas accessible to children, including corridors. 
-
-HAZ 12.06
-
-Toys and art supplies are made of safe, non-toxic, durable, and cleanable materials. 
-
-HAZ 12.07
-
-There are no items that could cause choking or strangulation.  
-Additional information is available at: http://www.cpsc.gov/.
-
-HAZ 12.08.a
-
-Infants are placed on their backs for sleeping to lower the risk of SIDS. 
-
-HAZ 12.08.b
-
-Staff make sure that soft surfaces such as pillows, quilts, thick blankets, and soft bumpers are not used in the crib. 
-
-HAZ 12.09
-
-The building has been inspected for dangerous substances such as lead, radon, formaldehyde, asbestos, etc., in accordance with State requirements. 
-
-PAR 13 - Parent Involvement (PAR)
-
-Standard
-
-PAR 13.01
-
-Families are offered an orientation and information prior to enrolling to include: hours of operation, enrollment policies, program costs, inclusion of special needs children, and opportunities for parent involvement. 
-
-PAR 13.02
-
-The program policy clearly includes open door policy; family members are welcome visitors in the program at all times. 
-
-PAR 13.03
-
-The program provides opportunities for communication between parents and staff verbally or in writing on a daily basis. 
-
-DEV 14 - Developmentally Appropriate Environment and Materials (DEV)
-
-Standard
-
-DEV 14.01
-
-Classrooms are arranged to facilitate a variety of activities for each age group and provide areas where children can play and work independently or with friends. 
-
-DEV 14.02
-
-Classrooms are well lit, ventilated, and kept at a comfortable temperature. 
-
-DEV 14.03.a
-
-Staff offer a variety of developmentally appropriate activities and materials for children indoors and outdoors that are respective of children's race, gender, religion, family background, culture, age, and special needs and include: 
-
-Language and literacy. 
-
-Physical development. 
-
-Health, safety, and nutrition. 
-
-Creative expression. 
-
-Cognitive development. 
-
-Social and emotional development. 
-
-DEV 14.03.b
-
-Weekly classroom schedules include opportunities for alternating periods of quiet and active play, child-initiated and teacher-initiated activity, and individual, small group, and large group activities. Schedules are available for parents to review. 
-
-DEV 14.03.c
-
-Programs provide an opportunity for physical activity on a daily basis. 
-
-DEV 14.03.d
-
-Screen time (e.g., non-active video games) and the use of passive media (e.g., television, audio tapes) are limited and developmentally appropriate.
+Table 1—CDC and School-Age Programs Standards of Operations
+| **A. Administrative**                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Both CDC and SAC**                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| The program has implemented the fee policy in accordance with current DoD and DoD Component guidance. If appropriate, the program has an approved waiver to utilize the high cost fee option.                                                                                                                                                                                                                                                                                              |
+| 75 percent of the program's total labor hours are paid to direct program staff who are in benefit status.                                                                                                                                                                                                                                                                                                                                                                                  |
+| Unannounced inspections are conducted by program staff following complaints.                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **B. Facility**                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Facility: Both CDC and SAC**                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| The DoD Certificate to Operate is displayed in a prominent location.                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Newly constructed CDP facilities follow the UFC or Service guidance for program capacity and capability.                                                                                                                                                                                                                                                                                                                                                                                   |
+| The facility food service area supports the sanitary preparation and service of healthy foods.                                                                                                                                                                                                                                                                                                                                                                                             |
+| All playgrounds, playground surfaces, and equipment meet American Society for Testing and Materials and Consumer Product Safety Commission (CPSC) guidelines.                                                                                                                                                                                                                                                                                                                              |
+| There is a balance of sun and shade on the playground and a variety of surfaces, such as resilient surfaces, and natural elements. CDC playgrounds include equipment for riding, climbing, balancing, and swinging.                                                                                                                                                                                                                                                                        |
+| The program provides opportunities for active play every day, indoors and outdoors. Children have ample opportunity to do vigorous activities such as running, climbing, dancing, skipping, and jumping.                                                                                                                                                                                                                                                                                   |
+| Programs use gardens to educate children about healthy eating.                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| The square footage of useable space for each child in each activity room meets the requirements of the UFC or Service-specific guidelines.                                                                                                                                                                                                                                                                                                                                                 |
+| Sound absorbing materials, such as ceiling tiles and rugs are used to minimize noise levels.                                                                                                                                                                                                                                                                                                                                                                                               |
+| Areas used by children have adequate lighting for safety, evacuation, and security measures, are ventilated and kept at a comfortable temperature.                                                                                                                                                                                                                                                                                                                                         |
+| There is adequate and convenient storage space for equipment and materials.                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Individual space is provided for each child's belongings.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Supervised private areas where children can play or work alone or with a friend are available indoors and outdoors.                                                                                                                                                                                                                                                                                                                                                                        |
+| Bathrooms, drinking water, and hand-washing facilities are easily accessible to children.                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Clean, sanitary drinking water is readily available at all times.                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| The facility includes a place for adults to take a break away from children, an adult bathroom, a secure place for staff to store their personal belongings, and an administrative area for planning or preparing materials that is separated from the children's areas.                                                                                                                                                                                                                   |
+| The facility includes soft elements that help create a home-like environment.                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Facility: CDC ONLY**                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| The square footage of activity space per child meets the requirements of the UFC or Service specifications for facilities built after 2002. A minimum of 50 square feet per child of activity space is provided for infants in facilities built prior to 2002.                                                                                                                                                                                                                             |
+| If more than one care group occupies a single room, each group has its own defined physical space and primary interest centers.                                                                                                                                                                                                                                                                                                                                                            |
+| Outdoor play areas directly adjoin CDCs. Playgrounds for alternative program options must be accessible via a route free from hazards and are located within 1/8 mile from the facility.                                                                                                                                                                                                                                                                                                   |
+| Playgrounds are enclosed by a fence and meet the requirements of the UFC.                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| The square footage of playground space per child meets the requirements of the UFC or Service specific guidelines. The playground area is capable of supporting 30 percent of the total capacity of the CDC in a center of 100 or more children, and all the children in centers with a capacity of fewer than 100 children.                                                                                                                                                               |
+| The facility has a designated place set aside for breastfeeding mothers who want to come during work to breastfeed, as well as a private area with an outlet (not a bathroom) for mothers to pump their breast milk.                                                                                                                                                                                                                                                                       |
+| **Facility: SAC ONLY**                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| There are separate male and female bathrooms for children as well as separate multi-unit restrooms for staff and visitors or a system to ensure that adults and teens do not use the bathrooms at the same time as children in SAC.                                                                                                                                                                                                                                                        |
+| **C. Health and Sanitation**                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Health and Sanitation: Both CDC and SAC**                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| A comprehensive health and sanitation inspection has been conducted within the last 12 months, corrective actions have been completed per specified timelines, and the inspection report is available for review.                                                                                                                                                                                                                                                                          |
+| The program shall require that all children enrolling in CDPs provide written documentation of immunizations appropriate for the child's age in accordance with Army Standard for Child Development Center. Children enrolled in the SAC program are not required to provide documentation if they are enrolled in a local public school system.                                                                                                                                           |
+| Staff employed by the CDP and regular volunteers shall be current for all immunizations recommended for adults by the ACIP of the Centers for Disease Control and Prevention. All must provide written documentation of immunization.                                                                                                                                                                                                                                                      |
+| There is a policy in place that addresses the daily informal screening for illness based on criteria established by the DoD Component. This policy also addresses admission back into the CDP after an illness.                                                                                                                                                                                                                                                                            |
+| There is a policy in place that addresses food or other allergies, special accommodations, or potentially life-threatening conditions.                                                                                                                                                                                                                                                                                                                                                     |
+| Individual medical problems and accidents are recorded and reported to management staff and families, and a written record is kept of such incidents.                                                                                                                                                                                                                                                                                                                                      |
+| Only physician-prescribed medications are administered; medications are only given with the written approval of the child's parents; and medications given are documented.                                                                                                                                                                                                                                                                                                                 |
+| Providers have documented parental permission to apply basic topical care items such as sunscreen, insect repellant, and lotion.                                                                                                                                                                                                                                                                                                                                                           |
+| A plan exists for dealing with medical emergencies that include written parental consent forms, and transportation arrangements approved by the DoD Component.                                                                                                                                                                                                                                                                                                                             |
+| Policies and procedures are followed for administering and storing medication. Designated staff are trained to administer medications, and the training is updated annually or as required by state laws.                                                                                                                                                                                                                                                                                  |
+| The facility is cleaned daily, and as needed throughout the day. Food preparation areas, bathrooms, diapering areas, hand-washing facilities, and drinking fountains are sanitary.                                                                                                                                                                                                                                                                                                         |
+| A sink with running water at a comfortable temperature of no more than 110 degrees temperature is very close to bathrooms and diapering areas.                                                                                                                                                                                                                                                                                                                                             |
+| Staff and children wash hands before and after eating, after toileting and diapering, after handling animals, after entering the facility from outdoors, before water play, after wiping their nose, and after any other activity when the hands become contaminated. Signs are posted reminding staff and children of proper hand-washing procedures.                                                                                                                                     |
+| Staff and volunteers follow universal precautions to prevent transmission of blood-borne diseases and the program has a blood-borne pathogen procedure, as required by the Occupational Safety and Health Administration (OSHA).                                                                                                                                                                                                                                                           |
+| The program requires parents to provide proper attire for active play indoors and outdoors.                                                                                                                                                                                                                                                                                                                                                                                                |
+| At least one staff member, who has certification in first aid treatment, including CPR for infants and children and emergency management of choking, is always present. Current certificates are kept on file.                                                                                                                                                                                                                                                                             |
+| **Health and Sanitation: CDC ONLY**                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Infant equipment is washed and disinfected at least daily. Toys that are mouthed are removed immediately after mouthing and are washed and sanitized prior to being used by another child.                                                                                                                                                                                                                                                                                                 |
+| Individual bedding is washed at least once a week and used by only one child between washings. Individual cribs, cots, and mats are washed if soiled.                                                                                                                                                                                                                                                                                                                                      |
+| Diapering procedures are in accordance with national recommendations and are posted in diapering areas.                                                                                                                                                                                                                                                                                                                                                                                    |
+| Sinks used for diapering are not co-located with food service areas or the sink used for dishwashing.                                                                                                                                                                                                                                                                                                                                                                                      |
+| **D. Fire and Safety**                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Fire and Safety: Both CDC and SAC**                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Comprehensive fire and safety inspections have been completed within the last 12 months, corrective actions have been completed per specified timelines, and the inspection reports are available for review.                                                                                                                                                                                                                                                                              |
+| A safety walk-through of all play areas is conducted daily. Safety concerns are identified, documented, and corrected immediately or put off limits to children until they can be corrected.                                                                                                                                                                                                                                                                                               |
+| The building, playground, and all equipment are maintained in safe, clean condition, are in good repair, and there are no observable safety hazards in the indoor and outdoor program space.                                                                                                                                                                                                                                                                                               |
+| Stairways and ramps are well lighted and equipped with handrails, where appropriate.                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Fire extinguishers, smoke detectors, and carbon monoxide detectors, where required, are in working order, and documentation shows status is checked monthly.                                                                                                                                                                                                                                                                                                                               |
+| Adequate first aid supplies are readily available and maintained. First aid supplies are available during field trips and outings.                                                                                                                                                                                                                                                                                                                                                         |
+| Toys and materials do not present a choking hazard for children under age 3 years.                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Chemicals and potentially dangerous products, such as medicine or cleaning supplies, are stored in original, labeled containers in locked cabinets inaccessible to children. Diluted bleach solution must be accessible to staff in an unlocked location, but inaccessible to children.                                                                                                                                                                                                    |
+| There is a written plan for reporting and managing emergencies, including terrorist attacks, severe storm warnings, medical and pandemic emergencies, or a lost or missing child, which includes shelter in place and evacuation procedures. Staff and volunteers understand the plan.                                                                                                                                                                                                     |
+| Evacuation drills are conducted monthly at different times of the day or evening when children are in care. The drills are documented.                                                                                                                                                                                                                                                                                                                                                     |
+| Emergency telephone numbers including police, fire, rescue, and poison control services are posted by telephones and are available at all times.                                                                                                                                                                                                                                                                                                                                           |
+| Staff and regular volunteers are familiar with primary and secondary evacuation routes and practice evacuation procedures monthly with children.                                                                                                                                                                                                                                                                                                                                           |
+| A system is in place to keep unauthorized people from taking children from the program.                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Smoking and use of tobacco is not permitted in the facility or in the sight or presence of children.                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Fire and Safety: CDC ONLY**                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Cribs meet the current CPSC guidelines.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| CPSC crib safety guidelines are followed: infants are placed on their backs for sleeping; soft cushions, such as pillows, comforters, thick blankets, quilts, or bumper pads are not used in cribs.                                                                                                                                                                                                                                                                                        |
+| **E. Parent Involvement/Participation**                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Parent Involvement/Participation: Both CDC and SAC**                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Parents have access to their children at all times, are helped to feel welcome and comfortable, and are treated with respect.                                                                                                                                                                                                                                                                                                                                                              |
+| Written information is available to families, including operating policies and procedures, program philosophy, and a parent participation plan.                                                                                                                                                                                                                                                                                                                                            |
+| Programs are encouraged to include the culture and language of the families they serve. Families are encouraged to share their heritage and culture.                                                                                                                                                                                                                                                                                                                                       |
+| Parents are offered a program orientation as a part of the child enrollment process.                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Parents are informed about the program and curriculum and about policy or regulatory changes and other critical issues that could potentially affect the program, through newsletters, bulletin boards, technology, and other appropriate means.                                                                                                                                                                                                                                           |
+| Families are encouraged to participate in the planning and evaluation of the CDC and SAC programs with regards to their child's care and development. They are encouraged to be involved in the program in various ways, taking into consideration working parents and those with little spare time.                                                                                                                                                                                       |
+| There is a parent board that meets on a scheduled basis through in-person or virtual meetings. The board meets periodically to provide opportunities for families to have input regarding policies, procedures, and plans for meeting children's needs.                                                                                                                                                                                                                                    |
+| Staff work in collaborative partnerships with families, establishing and maintaining daily or ongoing two-way communication with children's parents to build trust, share changes in a child's physical or emotional state regularly, facilitate smooth transitions for children, and ensure that children's learning and developmental needs are met.                                                                                                                                     |
+| Policies ensure that staff and parents have an effective way of negotiating difficulties and differences that arise in their interactions.                                                                                                                                                                                                                                                                                                                                                 |
+| Programs inform families on how to increase physical activity, improve nutrition, and reduce screen time (TV, video games, computers, etc.).                                                                                                                                                                                                                                                                                                                                               |
+| The program provides information to parents to ensure that each child has routine health assessment by the child's primary care provider, according to standards of the AAP, to include evaluation for nutrition-related medical problems.                                                                                                                                                                                                                                                 |
+| **Parent Involvement/Participation: CDC ONLY**                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Conferences are held at least once per year and at other times, as needed, to discuss children's progress, accomplishments, and difficulties at home and at the program.                                                                                                                                                                                                                                                                                                                   |
+| **F. Learning Activities and Interaction with Children**                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Both CDC and SAC**                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Learning activities reflect the program's written statement of its philosophy and goals for children. This statement is available to all staff and families.                                                                                                                                                                                                                                                                                                                               |
+| The program is designed to reasonably accommodate and be inclusive of all children, including those with identified disabilities as well as special learning, medical, and developmental needs.                                                                                                                                                                                                                                                                                            |
+| Programs have established a planned program of developmentally appropriate activities that recognizes the individual differences of children and provides an environment that encourages children's self-confidence, self-help, life skills, curiosity, creativity, and self-discipline.                                                                                                                                                                                                   |
+| Staff include age-appropriate nutrition education activities in the curriculum.                                                                                                                                                                                                                                                                                                                                                                                                            |
+| The daily schedule provides a balance of activities in consideration of the child's daily routine and experience.                                                                                                                                                                                                                                                                                                                                                                          |
+| Staff are engaged and interact frequently with children, speaking in a friendly, positive, and courteous manner, respectful of gender, race, religion, family background, special needs, and culture. The physical environment supports these interactions.                                                                                                                                                                                                                                |
+| Staff conduct smooth and unregimented transitions between activities and are flexible in changing planned or routine activities, as appropriate. Infants and toddlers are not expected to function in large group activities.                                                                                                                                                                                                                                                              |
+| Staff use a variety of teaching strategies to enhance children's learning and development throughout the day.                                                                                                                                                                                                                                                                                                                                                                              |
+| Staff addresses bullying and supports positive behavior by modeling appropriate behavior, responding consistently to issues, and encouraging children to resolve their own conflicts, when possible and appropriate.                                                                                                                                                                                                                                                                       |
+| The outdoor environment meets the needs of children, allows them to be independent and creative, and have access to a variety of age-appropriate outdoor equipment and games. Staff plan and participate in children's active play.                                                                                                                                                                                                                                                        |
+| Program materials are in good condition, sufficient for the number of children in the program, developmentally appropriate for the age of the children, and appropriate to the activities offered.                                                                                                                                                                                                                                                                                         |
+| Screen time and the use of passive media is limited and developmentally appropriate. Media viewing and computer use is not permitted for children younger than 2 years.                                                                                                                                                                                                                                                                                                                    |
+| **CDC Only**                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| There is a DoD Component-approved curriculum that supports school readiness. It is based on knowledge of child and youth development and learning, and assessment of individual needs and interests.                                                                                                                                                                                                                                                                                       |
+| Developmentally appropriate activities emphasize concrete experiential learning and promote development in six developmental domains: social, physical, language and literacy, cognitive and intellectual, emotional, and cultural.                                                                                                                                                                                                                                                        |
+| Individual observations of children's development and learning are written, compiled, assessed, and are used as a basis for planning appropriate learning activities.                                                                                                                                                                                                                                                                                                                      |
+| Staff plan with families to make toileting, feeding, and the development of other self-regulation skills a positive experience for children.                                                                                                                                                                                                                                                                                                                                               |
+| **SAC Only**                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Developmentally appropriate activities encourage physical fitness; positive self-esteem; intellectual, social, and physical achievement; leadership skills and initiative; lifelong recreation skill; positive use of leisure time; moral development and community leadership; self-reliance and independence; and respect for diversity.                                                                                                                                                 |
+| SAC daily schedules are flexible, provide stability without being rigid, allow youth to   meet their physical needs (e.g., water, food, restrooms) in a relaxed way, allow children to move smoothly from one activity to another (usually at their own pace), and facilitate smooth transitions when it is necessary for children to move as a group.                                                                                                                                     |
+| Appropriate protected internet access and programs that teach technology are available.                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **G. Nutrition and Food Service**                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Both CDC and SAC**                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Meals and snacks are a pleasant, social learning experience for children.                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| The DoD Components will establish policies that are consistent with USDA guidelines for meals provided by parents. Under limited circumstances when meals are provided by parents, food storage and handling procedures are approved by local health and sanitation authorities.                                                                                                                                                                                                           |
+| Unless documented circumstances approved by the DoD Component prevent enrollment, all programs must enroll in the USDA CACFP (United States Department of Agriculture Child and Adult Care Food Program).                                                                                                                                                                                                                                                                                  |
+| Dietary modifications are made on the basis of recommendations by the child's primary medical care provider and are documented. Documentation is available for religious and medical dietary substitutions. Menus contain some vegetarian meals.                                                                                                                                                                                                                                           |
+| The program provides or posts menus showing all foods to be served during that month. Core and cyclical menus are approved by a nutritionist or registered dietician. Foods typical of the child's culture and religious preferences, as well as a variety of healthful foods that may not be familiar to the child, are included.                                                                                                                                                         |
+| The program provides healthy meals and snacks that include restrictions on the provision of juice and beverages with added sweeteners and no fried, high-fat, or highly salted foods.                                                                                                                                                                                                                                                                                                      |
+| Meals and snacks are conducted using family-style dining. In SAC programs, snacks may be served buffet style.                                                                                                                                                                                                                                                                                                                                                                              |
+| **CDC Only**                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| The program encourages, provides arrangements for, and supports breastfeeding.                                                                                                                                                                                                                                                                                                                                                                                                             |
+| There is an accountability system in place for bottles, including bottles for breast milk. Bottle-feeding is done in such a way as to minimize disease and promote interaction. Infants are held for bottle-feeding, bottles are never propped, never heated in a crock pot or microwave, and infants are never put to sleep with a bottle.                                                                                                                                                |
+| One adult should not feed more than one infant for bottle feeding, two children in high chairs, or three children who need assistance with feeding at the same time.                                                                                                                                                                                                                                                                                                                       |
+| **H. Supervision of Children**                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Both CDC and SAC**                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| The following staffing requirements are met at all times, except during nap time (for CDC):                                                                                                                                                                                                                                                                                                                                                                                                |
+| a. For infants from birth to 12 months, there are never more than four children per staff member.                                                                                                                                                                                                                                                                                                                                                                                          |
+| b. For pre-toddlers 13 months to 24 months, there are never more than five children per staff member.                                                                                                                                                                                                                                                                                                                                                                                      |
+| c. For toddlers, 25 months to 36 months, there are never more than seven children per staff member.                                                                                                                                                                                                                                                                                                                                                                                        |
+| d. For children 37 months through 5 years, there are never more than twelve children per staff member.                                                                                                                                                                                                                                                                                                                                                                                     |
+| e. For children 6 years through 12 years, there are never more than fifteen children per staff member.                                                                                                                                                                                                                                                                                                                                                                                     |
+| During rest time, the staff-to-child ratios for children over 24 months of age may increase to twice the non-napping staff-to-child ratio. Sufficient staff are required to remain in the building during rest time to meet the non-napping ratios and be available to assist with emergencies.                                                                                                                                                                                            |
+| The following maximum group sizes are followed at all times:                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| a. For infants birth to 12 months, there are never more than eight children per group.                                                                                                                                                                                                                                                                                                                                                                                                     |
+| b. For pre-toddlers 13 months to 24 months, there are never more than ten children per group.                                                                                                                                                                                                                                                                                                                                                                                              |
+| c. For toddlers, 25 to 36 months, there are never more than fourteen children per group.                                                                                                                                                                                                                                                                                                                                                                                                   |
+| d. For children thirty-seven months through five years, there are never more than twenty-four children per group.                                                                                                                                                                                                                                                                                                                                                                          |
+| e. For SAC, there are never more than thirty children per group.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| In multi-age groupings, the Service may follow the ratio per age group. For example, four infants and five pre-toddlers equal a group of nine with two direct care personnel, or seven toddlers and twelve preschoolers equal a group of nineteen with two direct care personnel.                                                                                                                                                                                                          |
+| Volunteers or persons under 18 years of age may not be counted in determining compliance with staff-to-child ratios and are not allowed to work alone with children.                                                                                                                                                                                                                                                                                                                       |
+| The program has an accountability system in place. Each staff member has primary responsibility and accountability for a group of children. There is specific accountability for each child by one staff member. Systems are in place for accounting for children's whereabouts, especially during periods of transition and emergencies.                                                                                                                                                  |
+| Children are released only to their parents or guardian. Children may be released to a designee when signed permission is given by the parent or guardian.                                                                                                                                                                                                                                                                                                                                 |
+| Families are notified about procedures and policies for field trips. Families are notified of all activities outside the center.                                                                                                                                                                                                                                                                                                                                                           |
+| Children are under adult supervision at all times. Staff are not permitted to use personal electronic devices (including, but not limited to cell phones, iPods, smart phones, etc.) when supervising children.                                                                                                                                                                                                                                                                            |
+| **CDC Only**                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| At least two staff members must be present with each group of children at all times. When one staff person is alone with a single ratio of children, the program director or designee frequently monitors the room through closed circuit television or visual access panels to ensure oversight by more than one adult. In this case, the staff member must have an initiated National Agency Check Investigation (NACI) and the program director or designee must have a completed NACI. |
+| Infants and toddlers spend the majority of the time interacting with staff who have primary responsibility for them each day.                                                                                                                                                                                                                                                                                                                                                              |
+| **SAC Only**                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| At least two paid staff members shall be present whenever children are in the facility.                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Adult volunteers may supplement paid staff during field trips and other activities away from the facility. Only paid staff are counted in the ratio.                                                                                                                                                                                                                                                                                                                                       |
+| Signed permission is given by the parent allowing the child to self-release for a specific organized activity. Self-release procedures are consistent with the installation home alone policy or self-care policy.                                                                                                                                                                                                                                                                         |
+| **I. Child Abuse Prevention and Reporting**                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Both CDC and SAC**                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| A NACI to include a name-based criminal history record check (State and Federal) and fingerprint check has been initiated on all staff. Background checks are tracked to ensure completion in a timely manner.                                                                                                                                                                                                                                                                             |
+| All individuals in a CDP who have contact with children have completed a DD Form X656 “Basic Criminal History and Statement of Admission”                                                                                                                                                                                                                                                                                                                                                  |
+| Updates to the background checks are completed every five years.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Newly hired staff without a completed background check are readily identifiable and work within line of sight of a staff member with a completed check.                                                                                                                                                                                                                                                                                                                                    |
+| Hiring practices include careful checking of references of all potential employees and volunteers.                                                                                                                                                                                                                                                                                                                                                                                         |
+| The program has a written guidance, discipline, and touch policy that is available to staff and families. Staff do not use corporal punishment or other negative discipline methods that hurt, humiliate, or frighten children.                                                                                                                                                                                                                                                            |
+| The program has a child abuse and neglect policy that includes reporting requirements for staff as well as procedures to be followed should a staff member be accused of abuse or neglect. This information is included in employee handbooks. All staff are knowledgeable of the policy.                                                                                                                                                                                                  |
+| The DoD Child Abuse and Safety Hotline telephone number is displayed in a highly visible area where parents can see it. The telephone number is published in parent handbooks and other brochures.                                                                                                                                                                                                                                                                                         |
+| The facility is designed in accordance with the Unified Facilities Criteria (UFC) 4-740-14, “Design: Child Development Centers,” to help minimize the risk of child abuse:                                                                                                                                                                                                                                                                                                                 |
+| a. Access to children by those not employed by the program is restricted.                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| b. Areas to which a child or children can be taken out of view of others are limited.                                                                                                                                                                                                                                                                                                                                                                                                      |
+| c. All exit doors that do not open onto a fenced area have operating alarms, except the main entrance to the facility and the kitchen entrance.                                                                                                                                                                                                                                                                                                                                            |
+| d. Evening or weekend care is provided in rooms located near the front entryway to facilitate additional supervision by the front desk staff and parents.                                                                                                                                                                                                                                                                                                                                  |
+| e. In the CDC:                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 1) Children can be observed at all times by parents and supervisors.                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 2) There is visual access into and throughout activity rooms used for care, including nap time. Closed-circuit television, vision panels, and convex mirrors are used as necessary to facilitate visual access.                                                                                                                                                                                                                                                                            |
+| 3) Diapering areas are visible.                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| All persons other than employees and family members bringing in or picking up children sign in and out at the front desk or with appropriate personnel. Visitors to the CDP shall sign in and out of the facility and wear a visitors badge at all times while they are in the facility or on playgrounds.                                                                                                                                                                                 |
+| If transportation is provided for children by the program, vehicles are equipped with age-appropriate restraint devices in accordance with State and Federal requirements. The program maintains documentation that vehicles used in transporting children are appropriately licensed, inspected, and maintained. A current copy of the appropriate driver's license and Department of Motor Vehicles driving record is on file for staff members who transport children.                  |
+| In SAC programs, a procedure for accountability when a child fails to show for the program is in place and followed.                                                                                                                                                                                                                                                                                                                                                                       |
+
+Table 2—FCC Standards of Operation
+| **A. Administrative**                                                                                                                                                                                                                                                                                                                                                                                                   |
+| The installation regulates FCC in accordance with DoD Component requirements, ensuring care is not permitted unless subject to inspection and approval.                                                                                                                                                                                                                                                                 |
+| Processes are in place to support recruitment and retention of FCC providers.                                                                                                                                                                                                                                                                                                                                           |
+| Unannounced inspections are conducted by program staff following complaints.                                                                                                                                                                                                                                                                                                                                            |
+| **B. Home**                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Where applicable, the DoD Component has a process to register and certify homes located off the installation or in privatized government housing.                                                                                                                                                                                                                                                                       |
+| The Certificate to Operate, issued by the DoD Component or designee, is displayed in a prominent location.                                                                                                                                                                                                                                                                                                              |
+| Providers can demonstrate proof of current liability insurance.                                                                                                                                                                                                                                                                                                                                                         |
+| There is a signed contract between each family and provider. Parents are informed of changes in the provider's household composition.                                                                                                                                                                                                                                                                                   |
+| Children are cared for by the provider or an approved substitute. Parents and the FCC administrator are informed when a substitute provider will be caring for their children. Civilian members of the provider's household providing care as a substitute must be approved and trained. Active duty Military Service members may serve as substitute providers only under circumstances approved by the DoD component. |
+| There is adequate space indoors and outdoors in the home for the number of children in care to play, rest, and eat.                                                                                                                                                                                                                                                                                                     |
+| **C. Health and Sanitation**                                                                                                                                                                                                                                                                                                                                                                                            |
+| On installations, comprehensive fire, safety, and sanitation inspections have been completed within the last 12 months, and the inspection reports are available for review.                                                                                                                                                                                                                                            |
+| The provider notifies parents and FCC of medical emergencies, communicable diseases or illness of the children, the provider, or the provider's family member(s). Health consultants will be informed based on installation policy.                                                                                                                                                                                     |
+| Children are informally screened daily for illness based on criteria established by the DoD Component. Children are readmitted after illness only when their presence no longer endangers the health of other children.                                                                                                                                                                                                 |
+| Only physician-prescribed medications are administered; medications are only given with the written approval of the child's parents; and medications given are documented.                                                                                                                                                                                                                                              |
+| Providers have documented parental permission to apply basic topical care items such as sunscreen, insect repellant, and lotion.                                                                                                                                                                                                                                                                                        |
+| Procedures for diapering, hand washing, and toileting are followed in accordance with national recommendations.                                                                                                                                                                                                                                                                                                         |
+| Providers follow universal precautions to prevent transmission of blood-borne diseases, and the provider has a blood-borne pathogen procedure, as required by OSHA.                                                                                                                                                                                                                                                     |
+| Providers and children wash hands before and after eating, after toileting and diapering, after handling animals, after entering the home from outdoors, before water play, after wiping their nose, and after any other activity when the hands become contaminated. Signs are posted reminding providers and children of proper hand-washing procedures.                                                              |
+| Homes are maintained in a sanitary manner.                                                                                                                                                                                                                                                                                                                                                                              |
+| Individual bedding is washed at least once a week and used by only one child between washings. Individual cribs, cots, and mats are washed if soiled.                                                                                                                                                                                                                                                                   |
+| Infant equipment is washed and disinfected at least daily. Toys that are mouthed are removed immediately after mouthing and are washed and sanitized prior to being used by another child.                                                                                                                                                                                                                              |
+| All windows used for ventilation are properly screened.                                                                                                                                                                                                                                                                                                                                                                 |
+| Providers do not consume alcohol while children are in care.                                                                                                                                                                                                                                                                                                                                                            |
+| Smoking is not permitted in the home or outdoor area while children are in care.                                                                                                                                                                                                                                                                                                                                        |
+| **D. Fire and Safety**                                                                                                                                                                                                                                                                                                                                                                                                  |
+| There are policies in place to ensure the home operates to protect children against the risk of fire and safety hazards.                                                                                                                                                                                                                                                                                                |
+| There is a policy to keep children protected from hazards stemming from poisoning, toxic materials, electrical shock, standing water, unsafe playground equipment, and strangulation.                                                                                                                                                                                                                                   |
+| There is a written plan for reporting and managing emergencies, including terrorist attacks, severe storm warnings, medical and pandemic emergencies, or a lost or missing child, which includes shelter in place and evacuation procedures. Providers and volunteers understand the plan.                                                                                                                              |
+| First aid supplies are readily available for emergencies and maintained.                                                                                                                                                                                                                                                                                                                                                |
+| Evacuation drills are conducted monthly at different times of the day or evening when children are in care. The drills are documented.                                                                                                                                                                                                                                                                                  |
+| There is a working landline or cellular phone within the home. Emergency telephone numbers including police, fire, rescue, and poison control services, and instructions are accessible or kept with the telephone(s).                                                                                                                                                                                                  |
+| Providers use safety gates to prevent children from falls. Door locks that can entrap children inside a bathroom or bedroom may be opened from the outside.                                                                                                                                                                                                                                                             |
+| If there are firearms in the home, the ammunition must be removed from the firearm. Firearms and ammunition are stored separately in locked cabinets that are inaccessible to children.                                                                                                                                                                                                                                 |
+| Young infants are placed on their backs for sleeping to lower the risk of SIDS. Soft cushions, pillows, thick blankets, and comforters are not used in cribs.                                                                                                                                                                                                                                                           |
+| Providers shall not permit children to sleep in family beds unless a separate bed is designated for the child and clean linens are provided.                                                                                                                                                                                                                                                                            |
+| Cribs meet CPSC guidelines. The sides of infants' cribs shall be in a locked position when cribs are occupied and do not present a strangulation or entrapment hazard.                                                                                                                                                                                                                                                  |
+| Providers inform parents if they will be taking children from the home while they are in care.                                                                                                                                                                                                                                                                                                                          |
+| If transportation is provided for children by the provider, age-appropriate restraint devices are used, and appropriate safety precautions are taken.                                                                                                                                                                                                                                                                   |
+| A current copy of the driver's license and proof of insurance is on file for providers who transport children.                                                                                                                                                                                                                                                                                                          |
+| **E. Parent Involvement/Participation**                                                                                                                                                                                                                                                                                                                                                                                 |
+| Parents are given access to the home at all times when their children are present.                                                                                                                                                                                                                                                                                                                                      |
+| Parents are provided with a copy of policies governing FCC.                                                                                                                                                                                                                                                                                                                                                             |
+| The provider communicates regularly with parents and recognizes them as partners in the care of children, and there is a prominent place to display information for parents.                                                                                                                                                                                                                                            |
+| Parents are provided with information about the importance of routine health supervision by the child's primary care provider, according to standards of the AAP, to include evaluation for nutrition-related medical problems.                                                                                                                                                                                         |
+| **F. Learning Activities and Interaction with Children**                                                                                                                                                                                                                                                                                                                                                                |
+| Activities and experiences are provided daily that enhance children's physical, social, emotional, and cognitive development.                                                                                                                                                                                                                                                                                           |
+| Activities include age-appropriate nutrition education.                                                                                                                                                                                                                                                                                                                                                                 |
+| There are enough toys and materials, home-made or purchased, to engage all the children in developmentally appropriate ways.                                                                                                                                                                                                                                                                                            |
+| Toys, materials, and equipment are in good repair and are arranged so children are able to select and put toys and materials away with little or no assistance.                                                                                                                                                                                                                                                         |
+| A variety of daily activities is planned for indoors and outdoors. There is a balance between child-initiated and adult-directed activities. A daily schedule of activities is posted for parents to see.                                                                                                                                                                                                               |
+| The provider plans and participates in children's active play.                                                                                                                                                                                                                                                                                                                                                          |
+| The provider interacts frequently with the children and shows them affection and respect. The provider speaks to children in a friendly, courteous manner.                                                                                                                                                                                                                                                              |
+| Children's routines are handled in a relaxed and individualized manner that promotes respect and opportunities to develop self-esteem, self-discipline, and learning by doing.                                                                                                                                                                                                                                          |
+| Screen time (e.g., non-active video games) and the use of passive media, (e.g., television, audio tapes), are limited and developmentally appropriate. Media viewing and computer use are not permitted for children younger than 2 years.                                                                                                                                                                              |
+| The provider observes and evaluates each child's growth and development for program planning.                                                                                                                                                                                                                                                                                                                           |
+| **G. Nutrition and Meal Service**                                                                                                                                                                                                                                                                                                                                                                                       |
+| Unless documented circumstances prevent enrollment, providers are offered the opportunity to enroll in the USDA CACFP and all meals and snacks are prepared, handled, transported, and served according to USDA CACFP guidelines found in 7 CFR part 226.                                                                                                                                                               |
+| Providers develop written menus showing all foods to be served during that month, and the menus are available to parents and guardians. Menus are posted for meals and snacks.                                                                                                                                                                                                                                          |
+| Dietary modifications are made on the basis of recommendations by the child's primary care provider and are documented. Documentation is available for religious and medical dietary substitutions. Menus contain some vegetarian meals.                                                                                                                                                                                |
+| Meals and snacks include restrictions on the provision of juice and beverages with added sweeteners and limited high-fat and salted foods.                                                                                                                                                                                                                                                                              |
+| Food is prepared, served and stored in a sanitary manner. If meals are provided by parents, food storage and handling procedures are approved by local health and sanitation authorities.                                                                                                                                                                                                                               |
+| All children present are served meals or snacks. Meals and snacks for toddlers, preschool, and school-age children use family-style dining.                                                                                                                                                                                                                                                                             |
+| Bottle-feeding is done in such a way as to minimize disease and promote interaction. Infants are held for bottle-feeding. Bottles are never propped, never heated in a crock pot or microwave, and infants are never put to sleep with a bottle.                                                                                                                                                                        |
+| There is an accountability system in place for bottles, including bottles for breast milk.                                                                                                                                                                                                                                                                                                                              |
+| The provider encourages, provides arrangements for, and supports breastfeeding. There is an accountability system in place for bottles.                                                                                                                                                                                                                                                                                 |
+| **H. Supervision of Children**                                                                                                                                                                                                                                                                                                                                                                                          |
+| The maximum group size in a home is six children per provider, including the provider's own children under the age of eight.                                                                                                                                                                                                                                                                                            |
+| a. When all children are under the age of two, the maximum group size at any one time is three.                                                                                                                                                                                                                                                                                                                         |
+| b. In mixed-age groups, the number of children under two years of age is limited to two children.                                                                                                                                                                                                                                                                                                                       |
+| c. When all children are school-age, the maximum group size is eight.                                                                                                                                                                                                                                                                                                                                                   |
+| Parents sign children in and out of the home on a daily basis. Children are only released to persons that parents have authorized in writing. Children may sign themselves out of the home consistent with the installation home alone policy or self-care policy and parental consent.                                                                                                                                 |
+| Providers supervise all children in care both inside and outdoors. School-age children may be outside without direct supervision as long as they are within sight or sound of the provider.                                                                                                                                                                                                                             |
+| **I. Child Abuse Prevention and Reporting**                                                                                                                                                                                                                                                                                                                                                                             |
+| Providers, substitute providers, and individuals age 18 and older living in the home, must complete a background check annually.                                                                                                                                                                                                                                                                                        |
+| All individuals in a CDP who have contact with children have completed a DD Form X656 “Basic Criminal History and Statement of Admission”.                                                                                                                                                                                                                                                                              |
+| The DoD Child Abuse and Safety Hotline telephone number is displayed in a highly visible area where parents can see it. The telephone number is published in parent materials.                                                                                                                                                                                                                                          |
+| Children are never left alone with a visitor or another adult who is not authorized to care for children.                                                                                                                                                                                                                                                                                                               |
+| There is a guidance policy in place, and providers do not use corporal punishment or other negative discipline methods that hurt, humiliate, or frighten children.                                                                                                                                                                                                                                                      |
+
+Table 3—ERIS
+| **Oversight**                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| The State Child Care Licensing/Regulating Agency conducts an annual on-site inspection of the facility and program. |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **SCR 01—Staff-Child Ratio/Group Size (SCR)**                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Standard**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| SCR 01.01                                                                                                           | RATIO (number of children per child care provider/staff). Ratios must be equal to or lower than:                                                                                                                                                                                                                                                                                                           |
+|                                                                                                                     | 1:4 or less for infants (birth to 12 months).                                                                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                     | 1:5 or less for pre-toddlers (13-24 months).                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                     | 1:7 or less for toddlers (25-36 months).                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                     | 1:12 or less for preschool (37 months-5 years).                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                     | 1:15 or less for school age (6-12 years).                                                                                                                                                                                                                                                                                                                                                                  |
+| SCR 01.02                                                                                                           | GROUP SIZE (the total number of children within various age groups). Group size must be equal to or lower than:                                                                                                                                                                                                                                                                                            |
+|                                                                                                                     | Eight or less for infants (birth to 12 months) with two caregiving staff per eight infants.                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                     | Ten or less for pre-toddlers (13-24 months) with two caregiving staff per ten pre-toddlers.                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                     | Fourteen or less for toddlers (25-36 months) with two caregiving staff per fourteen toddlers.                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                     | Twenty four or less for preschool (27 months-5 years) with two caregiving staff per twenty four preschoolers.                                                                                                                                                                                                                                                                                              |
+|                                                                                                                     | Twenty four/thirty or less for school age (6-12 years) with two caregiving staff per twenty four/thirty school agers.                                                                                                                                                                                                                                                                                      |
+| SCR 01.03                                                                                                           | MULTI-AGE GROUPINGS (more than one age group in a room). No more than TWO AGE GROUPs may be combined within 18 month range (THIS DOES NOT APPLY TO SAC). Each age group is represented by appropriate ratio. Examples: two caregiving staff: four infants and five pre-toddlers; two caregiving staff: five pre-toddlers and seven toddlers; two caregiving staff: seven toddlers and twelve preschoolers. |
+| **BAC 02—Background Check/Child Abuse Prevention (BAC)**                                                            |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Standard**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| BAC 2.01                                                                                                            | Background checks are completed and documented for each employee or regular volunteer who is in contact with children, including management, administration, classroom, support staff, and individuals contracted for hire.                                                                                                                                                                                |
+| BAC 02.02                                                                                                           | Background checks are renewed and documented every 5 years for each employee or regular volunteer who is in contact with children, including management and administration, classroom staff, and support staff.                                                                                                                                                                                            |
+| BAC 02.03.a                                                                                                         | Background checks include documentation of State Criminal History Repository completed for all states that an employee or prospective employee lists as current and former residences, in an employment application by using fingerprints.                                                                                                                                                                 |
+| BAC 02.03.b                                                                                                         | Background checks include documentation of FBI fingerprint check and name-based criminal history records check of law enforcement records completed for any States lived in by applicant during the past 5 years.                                                                                                                                                                                          |
+| BAC 02.03.c                                                                                                         | Background checks include documentation of a review of the State Child Abuse Registry.                                                                                                                                                                                                                                                                                                                     |
+| BAC 02.03.d                                                                                                         | Background checks include a review of the State Sex Offender Registry.                                                                                                                                                                                                                                                                                                                                     |
+| BAC 02.04                                                                                                           | Each employee and regular volunteer is trained annually about child abuse prevention, common symptoms, and signs of child abuse.                                                                                                                                                                                                                                                                           |
+| BAC 02.05                                                                                                           | All employees and regular volunteers are trained annually on HOW to report, WHERE to report, and WHEN to report possible child abuse or neglect.                                                                                                                                                                                                                                                           |
+| **SR 03—Staff Requirements (SR)**                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Standard**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| SR 03.01.a                                                                                                          | Director has a minimum of a Bachelor's Degree (BA) in childhood education, child development, social work, nursing, or other child-related field AND experience working with the age groups enrolled in the program.                                                                                                                                                                                       |
+|                                                                                                                     | In the event that the director does not have a BA degree in those areas, the director must have an AA degree and must be working toward the completion of a BA degree.                                                                                                                                                                                                                                     |
+| SR 03.01.b                                                                                                          | The director is not responsible for a classroom of children.                                                                                                                                                                                                                                                                                                                                               |
+| SR 03.02                                                                                                            | The direct care personnel are at least 18 years old and have a high school diploma or a graduation equivalency diploma (GED).                                                                                                                                                                                                                                                                              |
+| **TRG 04—Training Requirements (TRG)**                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Standard**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| TRG 04.01                                                                                                           | Orientation is provided for each staff member and includes training on the following: early childhood development and education; child abuse recognition, prevention, and reporting; safety; first aid; proper hygiene; and positive guidance.                                                                                                                                                             |
+| TRG 04.02.a                                                                                                         | There is an annual training plan for directors. Topics shall include, but are not limited to:                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                     | Child abuse prevention and positive guidance.                                                                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                     | Universally accepted health and safety practices to include hand washing.                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                                                     | Emergency preparedness and evacuation procedures.                                                                                                                                                                                                                                                                                                                                                          |
+|                                                                                                                     | Social and emotional needs of children.                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                                                                                     | Developmentally appropriate practices.                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                     | General management practices, such as financial management, facility management, staff development, and working with parents.                                                                                                                                                                                                                                                                              |
+|                                                                                                                     | Safe sleep practices.                                                                                                                                                                                                                                                                                                                                                                                      |
+| TRG 04.02.b                                                                                                         | There is an annual training plan for staff that include topics such as:                                                                                                                                                                                                                                                                                                                                    |
+|                                                                                                                     | Child abuse prevention and positive guidance.                                                                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                     | Universally accepted health and safety practices to include hand washing.                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                                                     | Social and emotional needs of children.                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                                                                                     | Developmentally appropriate practices.                                                                                                                                                                                                                                                                                                                                                                     |
+| TRG 04.03                                                                                                           | Staff complete forty hours of initial orientation training within the first three months.                                                                                                                                                                                                                                                                                                                  |
+| TRG 04.04                                                                                                           | Staff are required to complete at least 24 hours of training per year.                                                                                                                                                                                                                                                                                                                                     |
+| TRG 04.05                                                                                                           | At least one staff member certified in emergency pediatric first aid treatment, including CPR for infants and children and emergency management of choking, is present in the facility during hours of operation.                                                                                                                                                                                          |
+| **IMM 05—Immunizations (IMM)**                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Standard**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| IMM 05.01                                                                                                           | Children's records include EITHER:                                                                                                                                                                                                                                                                                                                                                                         |
+|                                                                                                                     | Documentation of current age-appropriate immunizations, as recommended by the AAP; OR                                                                                                                                                                                                                                                                                                                      |
+|                                                                                                                     | A letter of exception on file and a statement of medical religious exception.                                                                                                                                                                                                                                                                                                                              |
+| IMM 05.02                                                                                                           | Staff files include a copy of a TB screening. Also included is documentation of a general health assessment or a physical examination completed during employment in-processing. Information is available at: http://www.cdc.gov/media/.                                                                                                                                                                   |
+| **SUP 06—Supervision/Guidance (SUP)**                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Standard**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| SUP 06.01.a                                                                                                         | The written policies and practices of the program specify that staff supervise children at all times, including nap times. No child is left alone or unsupervised.                                                                                                                                                                                                                                         |
+| SUP 06.01.b                                                                                                         | The written policies and practices of the program specify that children are released only to persons listed on the child's registration form or for whom the parents have provided written authorization.                                                                                                                                                                                                  |
+| SUP 06.01.c                                                                                                         | The written policies and practices of the program specify that parent, or authorized adult, signs children in and out upon arrival and departure each day, and attendance records are kept.                                                                                                                                                                                                                |
+|                                                                                                                     | A system is in place for accounting for school-age arriving from school or other activities without the parent (for example, children transported to the program by a school bus).                                                                                                                                                                                                                         |
+| SUP 06.02                                                                                                           | Organizational policy prohibits: punishment by spanking or hitting or other physical means, to include corporal punishment; isolation from adult sight; confinement, binding, humiliation, or verbal abuse; deprivation of food and water, outdoor play or activities, or other program components; inappropriate touch; and punishment for lapses in toilet training or refusing food.                    |
+| **DRL 07—Evacuation and Fire Drills (DRL)**                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Standard**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| DRL 07.01                                                                                                           | The program has a written plan for emergency evacuation (for example, a plan for evacuating building occupants in case of fire, tornado, earthquake, hurricane, or other disaster that could pose a health and safety hazard).                                                                                                                                                                             |
+| DRL 07.02                                                                                                           | Procedures are in place to ensure all children in attendance are accounted for during an evacuation drill or event.                                                                                                                                                                                                                                                                                        |
+| DRL 07.03                                                                                                           | There is an automatic fire detection and alarm system in place, and it is operational.                                                                                                                                                                                                                                                                                                                     |
+| DRL 07.04                                                                                                           | A fire extinguisher is accessible and in operating condition.                                                                                                                                                                                                                                                                                                                                              |
+| DRL 07.05                                                                                                           | Fire and emergency evacuation drill procedures are practiced at least monthly.                                                                                                                                                                                                                                                                                                                             |
+| **HWD 08—Hand Washing and Diapering (HWD)**                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Standard**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| HWD 08.01                                                                                                           | Policies are in place to ensure staff and children wash their hands with soap and warm running water:                                                                                                                                                                                                                                                                                                      |
+|                                                                                                                     | Before eating or food preparation.                                                                                                                                                                                                                                                                                                                                                                         |
+|                                                                                                                     | After toileting or changing diapers.                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                     | After handling animals, and after any other activity when the hands may become contaminated to include returning from outside.                                                                                                                                                                                                                                                                             |
+| HWD 08.02                                                                                                           | Toileting and diapering areas are not located in food preparation areas. The areas are in easily visible locations and are sanitary.                                                                                                                                                                                                                                                                       |
+| **MED 09—Medication and Health (MED)**                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Standard**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                     | If the program does not administer medications, proceed to 09.02.                                                                                                                                                                                                                                                                                                                                          |
+| MED 09.01.a                                                                                                         | The program has a written policy and clear procedures on administering medicine, proper storage, and labeling.                                                                                                                                                                                                                                                                                             |
+| MED 09.01.b                                                                                                         | If medication (prescription and/or over-the-counter) is administered, written parental permission is kept on file and instructions from a physician are required (“N/A” is allowed if no children currently receive medication).                                                                                                                                                                           |
+| MED 09.01.c                                                                                                         | Designated staff are trained to administer the medicine, and the training is updated annually.                                                                                                                                                                                                                                                                                                             |
+| MED 09.02                                                                                                           | First aid kits are readily available and maintained.                                                                                                                                                                                                                                                                                                                                                       |
+| MED 09.03.a                                                                                                         | Programs provide healthy meals and snacks consistent the U.S. Dietary Guidelines and are encouraged to participate in the USDA CACFP.                                                                                                                                                                                                                                                                      |
+| MED 09.03.b                                                                                                         | Programs are encouraged to limit sugar-sweetened juices, beverages, and snacks, and high-fat and high-salt foods.                                                                                                                                                                                                                                                                                          |
+| MED 09.04                                                                                                           | Bottle-feeding is done in such a way to minimize disease and promote interaction. For example, infants are held for bottle-feeding, bottles are never propped, never heated in a crock pot or microwave, and infants are never put to sleep with a bottle.                                                                                                                                                 |
+| **EMG 10—Emergency Plan/Contact Information (EMG)**                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Standard**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| EMG 10.01.a                                                                                                         | There is a written plan for reporting and managing a lost or missing child.                                                                                                                                                                                                                                                                                                                                |
+| EMG 10.01.b                                                                                                         | There is a written plan for reporting and managing injuries requiring medical or dental care, including hospitalization or serious injury.                                                                                                                                                                                                                                                                 |
+| EMG 10.01.c                                                                                                         | There is a written plan for reporting and managing abuse or neglect of a child.                                                                                                                                                                                                                                                                                                                            |
+| EMG 10.01.d                                                                                                         | There is a written policy that requires all parents to provide emergency information to include:                                                                                                                                                                                                                                                                                                           |
+|                                                                                                                     | Multiple contact phone numbers (work, cellular, home).                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                     | Emergency contact phone numbers (relatives or friends) authorized to pick up the child if parent cannot be reached.                                                                                                                                                                                                                                                                                        |
+|                                                                                                                     | The child's physician, dentist, and emergency room preference.                                                                                                                                                                                                                                                                                                                                             |
+| **OUT 11—Outdoor Play Area (OUT)**                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Standard**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| OUT 11.01                                                                                                           | The playground and all equipment are maintained in safe, clean condition, in good repair, and there are no observable safety hazards and no entrapment areas.                                                                                                                                                                                                                                              |
+| OUT 11.02                                                                                                           | Playground equipment is surrounded by resilient surfaces (e.g., fine, loose sand, wood chips, wood mulch) of an acceptable depth (9 inches) or by rubber mats manufactured for such use.                                                                                                                                                                                                                   |
+| OUT 11.03                                                                                                           | The playground equipment is arranged to ensure that a child is visible and supervision is maintained.                                                                                                                                                                                                                                                                                                      |
+| OUT 11.04                                                                                                           | There is a plan to check and inspect playgrounds on a weekly basis. Each staff member is responsible for immediately reporting hazards or unsafe areas to the director.                                                                                                                                                                                                                                    |
+| **HAZ 12—Hazardous Materials and General Safety (HAZ)**                                                             |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Standard**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| HAZ 12.01                                                                                                           | Accident protection and liability insurance coverage are maintained for children and adults.                                                                                                                                                                                                                                                                                                               |
+| HAZ 12.02                                                                                                           | All chemicals and potentially dangerous products, such as medicine or cleaning supplies are stored in original, labeled containers in locked cabinets inaccessible to children.                                                                                                                                                                                                                            |
+| HAZ 12.03                                                                                                           | Poisonous or potentially harmful plants on the premises are inaccessible to children.                                                                                                                                                                                                                                                                                                                      |
+| HAZ 12.04                                                                                                           | Children are protected from accidental drowning by limiting access to all bodies of water.                                                                                                                                                                                                                                                                                                                 |
+| HAZ 12.05                                                                                                           | Electrical outlets are covered in all areas accessible to children, including corridors.                                                                                                                                                                                                                                                                                                                   |
+| HAZ 12.06                                                                                                           | Toys and art supplies are made of safe, non-toxic, durable, and cleanable materials.                                                                                                                                                                                                                                                                                                                       |
+| HAZ 12.07                                                                                                           | There are no items that could cause choking or strangulation.   Additional information is available at: http://www.cpsc.gov/.                                                                                                                                                                                                                                                                              |
+| HAZ 12.08.a                                                                                                         | Infants are placed on their backs for sleeping to lower the risk of SIDS.                                                                                                                                                                                                                                                                                                                                  |
+| HAZ 12.08.b                                                                                                         | Staff make sure that soft surfaces such as pillows, quilts, thick blankets, and soft bumpers are not used in the crib.                                                                                                                                                                                                                                                                                     |
+| HAZ 12.09                                                                                                           | The building has been inspected for dangerous substances such as lead, radon, formaldehyde, asbestos, etc., in accordance with State requirements.                                                                                                                                                                                                                                                         |
+| **PAR 13—Parent Involvement (PAR)**                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Standard**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| PAR 13.01                                                                                                           | Families are offered an orientation and information prior to enrolling to include: hours of operation, enrollment policies, program costs, inclusion of special needs children, and opportunities for parent involvement.                                                                                                                                                                                  |
+| PAR 13.02                                                                                                           | The program policy clearly includes open door policy; family members are welcome visitors in the program at all times.                                                                                                                                                                                                                                                                                     |
+| PAR 13.03                                                                                                           | The program provides opportunities for communication between parents and staff verbally or in writing on a daily basis.                                                                                                                                                                                                                                                                                    |
+| **DEV 14—Developmentally Appropriate Environment and Materials (DEV)**                                              |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Standard**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| DEV 14.01                                                                                                           | Classrooms are arranged to facilitate a variety of activities for each age group and provide areas where children can play and work independently or with friends.                                                                                                                                                                                                                                         |
+| DEV 14.02                                                                                                           | Classrooms are well lit, ventilated, and kept at a comfortable temperature.                                                                                                                                                                                                                                                                                                                                |
+| DEV 14.03.a                                                                                                         | Staff offer a variety of developmentally appropriate activities and materials for children indoors and outdoors that are respective of children's race, gender, religion, family background, culture, age, and special needs and include:                                                                                                                                                                  |
+|                                                                                                                     | Language and literacy.                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                     | Physical development.                                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                                                                                     | Health, safety, and nutrition.                                                                                                                                                                                                                                                                                                                                                                             |
+|                                                                                                                     | Creative expression.                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                     | Cognitive development.                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                     | Social and emotional development.                                                                                                                                                                                                                                                                                                                                                                          |
+| DEV 14.03.b                                                                                                         | Weekly classroom schedules include opportunities for alternating periods of quiet and active play, child-initiated and teacher-initiated activity, and individual, small group, and large group activities. Schedules are available for parents to review.                                                                                                                                                 |
+| DEV 14.03.c                                                                                                         | Programs provide an opportunity for physical activity on a daily basis.                                                                                                                                                                                                                                                                                                                                    |
+| DEV 14.03.d                                                                                                         | Screen time (e.g., non-active video games) and the use of passive media (e.g., television, audio tapes) are limited and developmentally appropriate.                                                                                                                                                                                                                                                       |

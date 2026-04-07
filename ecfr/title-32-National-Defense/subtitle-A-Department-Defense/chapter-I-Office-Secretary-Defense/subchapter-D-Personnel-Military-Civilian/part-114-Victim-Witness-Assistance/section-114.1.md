@@ -12,7 +12,7 @@ This part:
 
 (3) Annual reporting requirements on assistance provided across the DoD to victims and witnesses of alleged crimes.
 
-(c) Provides for legal assistance for crime victims entitled to such services pursuant to 10 U.S.C. 1044 and 1044e, and in accordance with Under Secretary of Defense for Personnel and Readiness (USD(P&R)) Memorandum, “Legal Assistance for Victims of Crimes” (available at *http://www.sapr.mil/public/docs/directives/Legal\_\_Assistance\_\_for\_\_Victims\_\_of\_\_Crime-Memo.pdf*), and 10 U.S.C. 1565b, and as further prescribed by the Military Departments and National Guard Bureau policies.
+(c) Provides for legal assistance for crime victims entitled to such services pursuant to 10 U.S.C. 1044 and 1044e, and in accordance with Under Secretary of Defense for Personnel and Readiness (USD(P&R)) Memorandum, “Legal Assistance for Victims of Crimes” (available at *http://www.sapr.mil/public/docs/directives/Legal\_Assistance\_for\_Victims\_of\_Crime-Memo.pdf*), and 10 U.S.C. 1565b, and as further prescribed by the Military Departments and National Guard Bureau policies.
 
 (d) Adopts section 573 of Public Law 112-239, “The National Defense Authorization Act for Fiscal Year 2013,” January 2, 2013, requiring each Military Service to establish a special victim capability comprised of specially trained criminal investigators, judge advocates, paralegals, and victim and witness assistance personnel to support victims of covered special victim offenses. To de-conflict with victims' counsel programs, this distinct group of recognizable professionals will be referred to, at the DoD level, as the Special Victim Investigation and Prosecution (SVIP) capability.
 
