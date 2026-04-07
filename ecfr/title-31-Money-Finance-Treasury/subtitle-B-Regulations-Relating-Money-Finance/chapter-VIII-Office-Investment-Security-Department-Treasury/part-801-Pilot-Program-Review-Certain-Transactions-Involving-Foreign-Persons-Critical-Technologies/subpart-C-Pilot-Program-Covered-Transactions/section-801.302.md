@@ -1,5 +1,7 @@
 ##### § 801.302 Transactions that are pilot program covered transactions.
 
+Link to an amendment published at 85 FR 3156, Jan. 17, 2020.
+
 Transactions that are pilot program covered transactions include, without limitation:
 
 (a) A transaction that meets the requirements of § 801.209, irrespective of the percentage of voting interest acquired.
