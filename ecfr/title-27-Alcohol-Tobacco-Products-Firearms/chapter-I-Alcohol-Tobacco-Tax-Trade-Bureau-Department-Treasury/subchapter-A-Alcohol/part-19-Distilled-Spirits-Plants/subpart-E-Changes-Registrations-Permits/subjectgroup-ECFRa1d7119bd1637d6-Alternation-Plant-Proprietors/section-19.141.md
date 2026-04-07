@@ -34,13 +34,13 @@
 
 (1) Transfer in bond any spirits or wines in any bonded areas, rooms, or buildings that will be alternated; and
 
-(2)Except where no bond is required under § 19.151(d), execute a form TTB F 5000.18, Change of Bond (Consent of Surety), to continue in effect the operations or unit bond whenever operations of the areas, rooms, or buildings will be resumed by the outgoing proprietor following suspension of operations by the other proprietor.
+(2) Except where no bond is required under § 19.151(d), execute a form TTB F 5000.18, Change of Bond (Consent of Surety), to continue in effect the operations or unit bond whenever operations of the areas, rooms, or buildings will be resumed by the outgoing proprietor following suspension of operations by the other proprietor.
 
 (e) *Alternation of processing operations.* In the case of an outgoing proprietor who intends to alternate processing operations with another proprietor, the outgoing proprietor:
 
 (1) Before the effective date and time of the alternation, must process to completion and remove from the affected area all spirits, denatured spirits, wines, or articles located in any rooms, areas, or buildings that will alternate, or must transfer these spirits, wines, and articles in bond to the incoming proprietor;
 
-(2)Except where no bond is required under § 19.151(d), must execute a TTB F 5000.18, Change of Bond (Consent of Surety), to continue in effect the operations or unit bond whenever operations of the areas, rooms, or buildings will be resumed by the outgoing proprietor following suspension of operations by the other proprietor; and
+(2) Except where no bond is required under § 19.151(d), must execute a TTB F 5000.18, Change of Bond (Consent of Surety), to continue in effect the operations or unit bond whenever operations of the areas, rooms, or buildings will be resumed by the outgoing proprietor following suspension of operations by the other proprietor; and
 
 (3) May retain denatured spirits and articles in tanks locked with approved locks if the outgoing proprietor maintains custody and control of the locks and keys for the tanks. In this case, the outgoing proprietor must obtain a consent of surety on TTB F 5000.18 to continue liability on the operations or unit bond for the tax on the denatured spirits or articles that retained in the locked tanks.
 
