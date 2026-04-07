@@ -1,20 +1,20 @@
 ##### § 34.60 Introduction.
 
-(a) Use the equipment and procedures specified in Appendix 3, Appendix 5, and Appendix 6 of ICAO Annex 16, as applicable, to demonstrate whether engines meet the applicable gaseous emission standards specified in subpart C of this part. Measure the emissions of all regulated gaseous pollutants. Use the equipment and procedures specified in Appendix 2 and Appendix 6 of ICAO Annex 16 to determine whether engines meet the applicable smoke standard specified in subpart C of this part. The compliance demonstration consists of establishing a mean value from testing the specified number of engines, then calculating a “characteristic level” by applying a set of statistical factors that take into account the number of engines tested. Round each characteristic level to the same number of decimal places as the corresponding emission standard. For turboprop engines, use the procedures specified for turbofan engines, consistent with good engineering judgment.
+(a) Use the equipment and procedures specified in Appendix 3, Appendix 5, and Appendix 6 of ICAO Annex 16, as applicable, to demonstrate whether engines meet the applicable gaseous emission standards specified in subpart C of this part. Measure the emissions of all regulated gaseous pollutants. Use the equipment and procedures specified in Appendix 2 and Appendix 6 of ICAO Annex 16 to determine whether engines meet the applicable smoke standard specified in subpart C of this part. The compliance demonstration consists of establishing a mean value from testing the specified number of engines, then calculating a “characteristic level” by applying a set of statistical factors that take into account the number of engines tested. Round each characteristic level to the same number of decimal places as the corresponding emission standard. For turboprop engines, use the procedures specified for turbofan engines, consistent with good engineering judgment. 
 
-(b) Use a test fuel that meets the specifications described in Appendix 4 of ICAO Annex 16. The test fuel must not have additives whose purpose is to suppress smoke, such as organometallic compounds.
+(b) Use a test fuel that meets the specifications described in Appendix 4 of ICAO Annex 16. The test fuel must not have additives whose purpose is to suppress smoke, such as organometallic compounds. 
 
-(c) Prepare test engines by including accessories that are available with production engines if they can reasonably be expected to influence emissions. The test engine may not extract shaft power or bleed service air to provide power to auxiliary gearbox-mounted components required to drive aircraft systems.
+(c) Prepare test engines by including accessories that are available with production engines if they can reasonably be expected to influence emissions. The test engine may not extract shaft power or bleed service air to provide power to auxiliary gearbox-mounted components required to drive aircraft systems. 
 
-(d) Test engines must reach a steady operating temperature before the start of emission measurements.
+(d) Test engines must reach a steady operating temperature before the start of emission measurements. 
 
-(e) In consultation with the EPA, the FAA may approve alternative procedures for measuring emissions, including testing and sampling methods, analytical techniques, and equipment specifications that differ from those specified in this part. Manufacturers and operators may request approval of alternative procedures by written request with supporting justification to the FAA and to the Designated EPA Program Officer. To be approved, one of the following conditions must be met:
+(e) In consultation with the EPA, the FAA may approve alternative procedures for measuring emissions, including testing and sampling methods, analytical techniques, and equipment specifications that differ from those specified in this part. Manufacturers and operators may request approval of alternative procedures by written request with supporting justification to the FAA and to the Designated EPA Program Officer. To be approved, one of the following conditions must be met: 
 
-(1) The engine cannot be tested using the specified procedures; or
+(1) The engine cannot be tested using the specified procedures; or 
 
-(2) The alternative procedure is shown to be equivalent to, or more accurate or precise than, the specified procedure.
+(2) The alternative procedure is shown to be equivalent to, or more accurate or precise than, the specified procedure. 
 
-(f) The following landing and takeoff (LTO) cycles apply for emissions testing and for calculating weighted LTO values:
+(f) The following landing and takeoff (LTO) cycles apply for emissions testing and for calculating weighted LTO values: 
 
 LTO Test Cycles and Time in Mode
 | Mode      | Class |
@@ -25,8 +25,8 @@ LTO Test Cycles and Time in Mode
 | Descent   | NA    |
 | Approach  | 4.5   |
 
-(g) Engines comply with an applicable standard if the testing results show that the engine type certificate family's characteristic level does not exceed the numerical level of that standard, as described in the applicable appendix of Annex 16.
+(g) Engines comply with an applicable standard if the testing results show that the engine type certificate family's characteristic level does not exceed the numerical level of that standard, as described in the applicable appendix of Annex 16. 
 
-(h) The system and procedure for sampling and measurement of gaseous emissions shall be as specified by in Appendices 2, 3, 4, 5 and 6 to the International Civil Aviation Organization (ICAO) Annex 16, Environmental Protection, Volume II, Aircraft Engine Emissions, Third Edition, July 2008 (incorporated by reference, see § 34.4).
+(h) The system and procedure for sampling and measurement of gaseous emissions shall be as specified by in Appendices 2, 3, 4, 5 and 6 to the International Civil Aviation Organization (ICAO) Annex 16, Environmental Protection, Volume II, Aircraft Engine Emissions, Third Edition, July 2008 (incorporated by reference, see § 34.4). 
 
 \[Doc. No. FAA-2012-1333, 77 FR 76853, Dec. 31, 2012, as amended by Doc. No. FAA-2018-0119, Amdt. 34-6, 83 FR 9170, Mar. 5, 2018; Doc. No. FAA-2023-2434; Amdt. No. 34-7, 89 FR 31088, Apr. 24, 2024\]

@@ -1,10 +1,10 @@
 ##### § 25.397 Control system loads.
 
-(a) *General.* The maximum and minimum pilot forces, specified in paragraph (c) of this section, are assumed to act at the appropriate control grips or pads (in a manner simulating flight conditions) and to be reacted at the attachment of the control system to the control surface horn.
+(a) *General.* The maximum and minimum pilot forces, specified in paragraph (c) of this section, are assumed to act at the appropriate control grips or pads (in a manner simulating flight conditions) and to be reacted at the attachment of the control system to the control surface horn. 
 
-(b) *Pilot effort effects.* In the control surface flight loading condition, the air loads on movable surfaces and the corresponding deflections need not exceed those that would result in flight from the application of any pilot force within the ranges specified in paragraph (c) of this section. Two-thirds of the maximum values specified for the aileron and elevator may be used if control surface hinge moments are based on reliable data. In applying this criterion, the effects of servo mechanisms, tabs, and automatic pilot systems, must be considered.
+(b) *Pilot effort effects.* In the control surface flight loading condition, the air loads on movable surfaces and the corresponding deflections need not exceed those that would result in flight from the application of any pilot force within the ranges specified in paragraph (c) of this section. Two-thirds of the maximum values specified for the aileron and elevator may be used if control surface hinge moments are based on reliable data. In applying this criterion, the effects of servo mechanisms, tabs, and automatic pilot systems, must be considered. 
 
-(c) *Limit pilot forces and torques.* The limit pilot forces and torques are as follows:
+(c) *Limit pilot forces and torques.* The limit pilot forces and torques are as follows: 
 
 | Control                                                                                                                                                                                   | Maximum forces or torques | Minimum forces or torques |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------- |

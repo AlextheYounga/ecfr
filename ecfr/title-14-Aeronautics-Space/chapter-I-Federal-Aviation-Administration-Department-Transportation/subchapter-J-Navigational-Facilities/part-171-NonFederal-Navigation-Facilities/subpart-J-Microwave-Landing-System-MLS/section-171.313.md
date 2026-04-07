@@ -1,8 +1,8 @@
 ##### § 171.313 Azimuth performance requirements.
 
-This section prescribes the performance requirements for the azimuth equipment of the MLS as follows:
+This section prescribes the performance requirements for the azimuth equipment of the MLS as follows: 
 
-(a) *Approach azimuth coverage requirements.* The approach azimuth equipment must provide guidance information in at least the following volume of space (see Figure 9):
+(a) *Approach azimuth coverage requirements.* The approach azimuth equipment must provide guidance information in at least the following volume of space (see Figure 9): 
 
 Table 8b—Auxiliary Data Word Address Codes
 | No. | I13 | I14 | I15 | I16 | I17 | I18 | I19 | I20 |
@@ -72,7 +72,7 @@ Table 8b—Auxiliary Data Word Address Codes
 | 63. | 1   | 1   | 1   | 1   | 1   | 1   | 0   | 1   |
 | 64. | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 
-Note 1: Parity bits I19 and I20 are chosen to satisfy the equations:
+Note 1: Parity bits I19 and I20 are chosen to satisfy the equations: 
 
 I13 + I14 + I15 + I16 + I17 + I18 + I19 = EVEN I14 + I16 + I18 + I20 = EVEN
 
@@ -110,7 +110,7 @@ Table 8c—Auxiliary Data
 
 Note 1:
 
-Parity bits I70 to I76 are chosen to satisfy the equations which follow:
+Parity bits I70 to I76 are chosen to satisfy the equations which follow: 
 
 For BIT I70:
 
@@ -146,11 +146,11 @@ Code for I56 is: 0 = conical; 1 = planar.
 
 Note 3:
 
-The convention for the coding of negative numbers is as follows: − MSB is the sign bit; 0 = + ; 1 = −.
+The convention for the coding of negative numbers is as follows: − MSB is the sign bit; 0 = + ; 1 = −. 
 
-—Other bits represent the absolute value.
+—Other bits represent the absolute value. 
 
-The convention for the antenna location is as follows: As viewed from the MLS approach reference datum looking toward the datum point, a positive number shall represent a location to the right of the runway centerline (lateral offset) or above the runway (vertical offset), or towards the stop end of the runway (longitudinal distance).
+The convention for the antenna location is as follows: As viewed from the MLS approach reference datum looking toward the datum point, a positive number shall represent a location to the right of the runway centerline (lateral offset) or above the runway (vertical offset), or towards the stop end of the runway (longitudinal distance). 
 
 The convention for the antenna alignment is as follows: As viewed from above, a positive number shall represent clockwise rotation from the runway centerline to the respective zero-degree guidance plane.
 
@@ -168,25 +168,25 @@ The designation “A1” represents the function identification code for “Auxi
 
 ![](/graphics/ec15se91.014.gif)
 
-(1) Horizontally within a sector plus or minus 40 degrees about the runway centerline originating at the datum point and extending in the direction of the approach to 20 nautical miles from the runway threshold. The minimum proportional guidance sector must be plus or minus 10 degrees about the runway centerline. Clearance signals must be used to provide the balance of the required coverage, where the proportional sector is less than plus or minus 40 degrees. When intervening obstacles prevent full coverage, the ±40° guidance sector can be reduced as required. For systems providing ±60° lateral guidance the coverage requirement is reduced to 14 nm beyond ±40°.
+(1) Horizontally within a sector plus or minus 40 degrees about the runway centerline originating at the datum point and extending in the direction of the approach to 20 nautical miles from the runway threshold. The minimum proportional guidance sector must be plus or minus 10 degrees about the runway centerline. Clearance signals must be used to provide the balance of the required coverage, where the proportional sector is less than plus or minus 40 degrees. When intervening obstacles prevent full coverage, the ±40° guidance sector can be reduced as required. For systems providing ±60° lateral guidance the coverage requirement is reduced to 14 nm beyond ±40°. 
 
-(2) Vertically between:
+(2) Vertically between: 
 
-(i) A conical surface originating 2.5 meters (8 feet) above the runway centerline at threshold inclined at 0.9 degree above the horizontal.
+(i) A conical surface originating 2.5 meters (8 feet) above the runway centerline at threshold inclined at 0.9 degree above the horizontal. 
 
-(ii) A conical surface originating at the azimuth ground equipment antenna inclined at 15 degrees above the horizontal to a height of 6,000 meters (20,000 feet).
+(ii) A conical surface originating at the azimuth ground equipment antenna inclined at 15 degrees above the horizontal to a height of 6,000 meters (20,000 feet). 
 
-(iii) Where intervening obstacles penetrate the lower surface, coverage need be provided only to the minimum line of sight.
+(iii) Where intervening obstacles penetrate the lower surface, coverage need be provided only to the minimum line of sight. 
 
-(3) Runway region:
+(3) Runway region: 
 
-(i) Proportional guidance horizontally within a sector 45 meters (150 feet) each side of the runway centerline beginning at the stop end and extending parallel with the runway centerline in the direction of the approach to join the approach region. This requirement does not apply to offset azimuth installations.
+(i) Proportional guidance horizontally within a sector 45 meters (150 feet) each side of the runway centerline beginning at the stop end and extending parallel with the runway centerline in the direction of the approach to join the approach region. This requirement does not apply to offset azimuth installations. 
 
-(ii) Vertically between a horizontal surface which is 2.5 meters (8 feet) above the farthest point of runway centerline which is in line of sight of the azimuth antenna, and in a conical surface originating at the azimuth ground equipment antenna inclined at 20 degrees above the horizontal up to a height to 600 meters (2,000 feet). This requirement does not apply to offset azimuth installations.
+(ii) Vertically between a horizontal surface which is 2.5 meters (8 feet) above the farthest point of runway centerline which is in line of sight of the azimuth antenna, and in a conical surface originating at the azimuth ground equipment antenna inclined at 20 degrees above the horizontal up to a height to 600 meters (2,000 feet). This requirement does not apply to offset azimuth installations. 
 
-(4) Within the approach azimuth coverage sector defined in paragraphs (a) (1), and (2) and (3) of this section, the power densities must not be less than those shown in Table 9 but the equipment design must also allow for:
+(4) Within the approach azimuth coverage sector defined in paragraphs (a) (1), and (2) and (3) of this section, the power densities must not be less than those shown in Table 9 but the equipment design must also allow for: 
 
-(i) Transmitter power degradation from normal by −1.5 dB;
+(i) Transmitter power degradation from normal by −1.5 dB; 
 
 Table 9—Minimum Power Density Within Coverage Boundaries(dBW/m 2)
 | Function                   | Data signals | Angle signals for various antenna beamwidths | Clearance signals |
@@ -196,47 +196,47 @@ Table 9—Minimum Power Density Within Coverage Boundaries(dBW/m 2)
 | Back azimuth               | −89.5        | −88                                          |                   |
 | Approach elevation         | −89.5        | −88                                          | −88               |
 
-(ii) Rain loss of −2.2 dB at the longitudinal coverage extremes.
+(ii) Rain loss of −2.2 dB at the longitudinal coverage extremes. 
 
-(b) *Siting requirements.* The approach azimuth antenna system must, except as allowed in paragraph (c) of this section:
+(b) *Siting requirements.* The approach azimuth antenna system must, except as allowed in paragraph (c) of this section: 
 
-(1) Be located on the extension of the centerline of the runway beyond the stop end;
+(1) Be located on the extension of the centerline of the runway beyond the stop end; 
 
-(2) Be adjusted so that the zero degree azimuth plane will be a vertical plane which contains the centerline of the runway served;
+(2) Be adjusted so that the zero degree azimuth plane will be a vertical plane which contains the centerline of the runway served; 
 
-(3) Have the minimum height necessary to comply with the coverage requirements prescribed in paragraph (a) of this section;
+(3) Have the minimum height necessary to comply with the coverage requirements prescribed in paragraph (a) of this section; 
 
-(4) Be located at a distance from the stop end of the runway that is consistent with safe obstruction clearance practices;
+(4) Be located at a distance from the stop end of the runway that is consistent with safe obstruction clearance practices; 
 
-(5) Not obscure any light of an approach lighting system; and
+(5) Not obscure any light of an approach lighting system; and 
 
-(6) Be installed on frangible mounts or beyond the 300 meter (1,000 feet) light bar.
+(6) Be installed on frangible mounts or beyond the 300 meter (1,000 feet) light bar. 
 
-(c) On runways where limited terrain prevents the azimuth antenna from being positioned on the runway centerline extended, and the cost of the land fill or a tall tower antenna support is prohibitive, the azimuth antenna may be offset.
+(c) On runways where limited terrain prevents the azimuth antenna from being positioned on the runway centerline extended, and the cost of the land fill or a tall tower antenna support is prohibitive, the azimuth antenna may be offset. 
 
-(d) *Antenna coordinates.* The scanning beams transmitted by the approach azimuth equipment within ±40° of the centerline may be either conical or planar.
+(d) *Antenna coordinates.* The scanning beams transmitted by the approach azimuth equipment within ±40° of the centerline may be either conical or planar. 
 
-(e) *Approach azimuth accuracy.* (1) The system and subsystem errors shall not exceed those listed in Table 10 at the approach reference datum.
+(e) *Approach azimuth accuracy.* (1) The system and subsystem errors shall not exceed those listed in Table 10 at the approach reference datum. 
 
-At the approach reference datum, temporal sinusoidal noise components shall not exceed 0.025 degree peak in the frequency band 0.01 Hz to 1.6 Hz, and the CMN shall not exceed 0.10 degree. From the approach reference datum to the coverage limit, the PFE, PFN and CMN limits, expressed in angular terms, shall be allowed to linearly increase as follows:
+At the approach reference datum, temporal sinusoidal noise components shall not exceed 0.025 degree peak in the frequency band 0.01 Hz to 1.6 Hz, and the CMN shall not exceed 0.10 degree. From the approach reference datum to the coverage limit, the PFE, PFN and CMN limits, expressed in angular terms, shall be allowed to linearly increase as follows: 
 
-(i) With distance along the runway centerline extended, by a factor of 1.2 for the PFE and PFN limits and to ±0.10 degree for the CMN limits.
+(i) With distance along the runway centerline extended, by a factor of 1.2 for the PFE and PFN limits and to ±0.10 degree for the CMN limits. 
 
-(ii) With azimuth angle, by a factor of 1.5 at the ±40 degree and a factor of 2.0 at the ±60 degree azimuth angles for the PFE, PFN and CMN limits.
+(ii) With azimuth angle, by a factor of 1.5 at the ±40 degree and a factor of 2.0 at the ±60 degree azimuth angles for the PFE, PFN and CMN limits. 
 
-(iii) With elevation angle from + 9 degrees to + 15 degrees, by a factor of 1.5 for the PFE and PFN limits.
+(iii) With elevation angle from + 9 degrees to + 15 degrees, by a factor of 1.5 for the PFE and PFN limits. 
 
-(iv) Maximum angular limits. The PFE limits shall not exceed ±0.25 degree in any coverage region below an elevation angle of + 9 degrees nor exceed ±0.50 degree in any coverage region above that elevation angle. The CMN limits shall not exceed ±0.10 degree in any coverage region within ±10 degrees of runway centerline extended nor exceed ±0.20 degree in any other region within coverage.
+(iv) Maximum angular limits. The PFE limits shall not exceed ±0.25 degree in any coverage region below an elevation angle of + 9 degrees nor exceed ±0.50 degree in any coverage region above that elevation angle. The CMN limits shall not exceed ±0.10 degree in any coverage region within ±10 degrees of runway centerline extended nor exceed ±0.20 degree in any other region within coverage. 
 
 Note:
 
 It is desirable that the CMN not exceed ±0.10 degree throughout the coverage.
 
-(f) Approach azimuth antenna characteristics are as follows:
+(f) Approach azimuth antenna characteristics are as follows: 
 
-(1) *Drift.* Any azimuth angle as encoded by the scanning beam at any point within the proportional coverage must not vary more than ±0.07 degree over the range of service conditions specified in § 171.309(d) without the use of internal environmental controls. Multipath effects are excluded from this requirement.
+(1) *Drift.* Any azimuth angle as encoded by the scanning beam at any point within the proportional coverage must not vary more than ±0.07 degree over the range of service conditions specified in § 171.309(d) without the use of internal environmental controls. Multipath effects are excluded from this requirement. 
 
-(2) *Beam pointing errors.* The azimuth angle as encoded by the scanning beam at any point within ±0.5 degree of the zero degree azimuth must not deviate from the true azimuth angle at that point by more than ±.05 degree. Multipath and drift effects are excluded from this requirement.
+(2) *Beam pointing errors.* The azimuth angle as encoded by the scanning beam at any point within ±0.5 degree of the zero degree azimuth must not deviate from the true azimuth angle at that point by more than ±.05 degree. Multipath and drift effects are excluded from this requirement. 
 
 Table 10—Approach Azimuth Accuracies at the Approach Reference Datum
 | Error type                                                                                        | System                 | Angular error (degrees) |
@@ -250,71 +250,71 @@ Table 10—Approach Azimuth Accuracies at the Approach Reference Datum
 | 4 The system control motion noise must not exceed 0.1 degree.                                     |                        |                         |
 | 5 The airborne subsystem angular errors are provided for information only.                        |                        |                         |
 
-(3) *Antenna alignment.* The antenna must be equipped with suitable optical, electrical or mechanical means or any combination of the three, to bring the zero degree azimuth radial into coincidence with the approach reference datum (for centerline siting) with a maximum error of 0.02 degree. Additionally, the azimuth antenna bias adjustment must be electronically steerable at least to the monitor limits in steps not greater than 0.005 degree.
+(3) *Antenna alignment.* The antenna must be equipped with suitable optical, electrical or mechanical means or any combination of the three, to bring the zero degree azimuth radial into coincidence with the approach reference datum (for centerline siting) with a maximum error of 0.02 degree. Additionally, the azimuth antenna bias adjustment must be electronically steerable at least to the monitor limits in steps not greater than 0.005 degree. 
 
-(4) *Antenna far field patterns in the plane of scan.* On boresight, the azimuth antenna mainlobe pattern must conform to Figure 10, and the beamwidth must be such that, in the installed environment, no significant lateral reflections of the mainlobe exist along the approach course. In any case the beamwidth must not exceed three degrees. Anywhere within coverage the −3 dB width of the antenna mainlobe, while scanning normally, must not be less than 25 microseconds (0.5 degree) or greater than 250 microseconds (5 degrees). The antenna mainlobe may be allowed to broaden from the value at boresight by a factor of 1/cosθ, where θ is the angle off boresight. The sidelobe levels must be as follows:
+(4) *Antenna far field patterns in the plane of scan.* On boresight, the azimuth antenna mainlobe pattern must conform to Figure 10, and the beamwidth must be such that, in the installed environment, no significant lateral reflections of the mainlobe exist along the approach course. In any case the beamwidth must not exceed three degrees. Anywhere within coverage the −3 dB width of the antenna mainlobe, while scanning normally, must not be less than 25 microseconds (0.5 degree) or greater than 250 microseconds (5 degrees). The antenna mainlobe may be allowed to broaden from the value at boresight by a factor of 1/cosθ, where θ is the angle off boresight. The sidelobe levels must be as follows: 
 
-(i) *Dynamic sidelobe levels.* With the antenna scanning normally, the dynamic sidelobe level that is detected by a receiver at any point within the proportional coverage sector must be down at least 10 dB from the peak of the main beam. Outside the coverage sector, the radiation from the scanning beam antenna must be of such a nature that receiver warning will not be removed or suitable OCI signals must be provided.
+(i) *Dynamic sidelobe levels.* With the antenna scanning normally, the dynamic sidelobe level that is detected by a receiver at any point within the proportional coverage sector must be down at least 10 dB from the peak of the main beam. Outside the coverage sector, the radiation from the scanning beam antenna must be of such a nature that receiver warning will not be removed or suitable OCI signals must be provided. 
 
-(ii) *Effective sidelobe levels.* With the antenna scanning normally, the sidelobe levels in the plane of scan must be such that, in the installed environment, the CMN contributed by sidelobe reflections will not exceed the angular equivalent of 9 feet at approach reference datum over the required range of aircraft approach speeds.
+(ii) *Effective sidelobe levels.* With the antenna scanning normally, the sidelobe levels in the plane of scan must be such that, in the installed environment, the CMN contributed by sidelobe reflections will not exceed the angular equivalent of 9 feet at approach reference datum over the required range of aircraft approach speeds. 
 
 ![](/graphics/ec15se91.015.gif)
 
-(5) *Antenna far field pattern in the vertical plane.* The azimuth antenna free space radiation pattern below the horizon must have a slope of at least −8 dB/degree at the horizon and all sidelobes below the horizon must be at least 13 dB below the pattern peak. The antenna radiation pattern above the horizon must satisfy both the system coverage requirements and the spurious radiation requirement.
+(5) *Antenna far field pattern in the vertical plane.* The azimuth antenna free space radiation pattern below the horizon must have a slope of at least −8 dB/degree at the horizon and all sidelobes below the horizon must be at least 13 dB below the pattern peak. The antenna radiation pattern above the horizon must satisfy both the system coverage requirements and the spurious radiation requirement. 
 
-(6) *Data antenna.* The data antenna must have horizontal and vertical patterns as required for its function.
+(6) *Data antenna.* The data antenna must have horizontal and vertical patterns as required for its function. 
 
-(g) *Back azimuth coverage requirements.* The back azimuth equipment where used must provide guidance information in at least the following volume of space (see Figure 11):
+(g) *Back azimuth coverage requirements.* The back azimuth equipment where used must provide guidance information in at least the following volume of space (see Figure 11): 
 
 ![](/graphics/ec15se91.016.gif)
 
-(1) Horizontally within a sector ±40 degrees about the runway centerline originating at the back azimuth ground equipment antenna and extending in the direction of the missed approach at least to 20 nautical miles from the runway stop end. The minimum proportional guidance sector must be ±10 degrees about the runway centerline. Clearance signals must be used to provide the balance of the required coverage where the proportional sector is less than ±40 degrees.
+(1) Horizontally within a sector ±40 degrees about the runway centerline originating at the back azimuth ground equipment antenna and extending in the direction of the missed approach at least to 20 nautical miles from the runway stop end. The minimum proportional guidance sector must be ±10 degrees about the runway centerline. Clearance signals must be used to provide the balance of the required coverage where the proportional sector is less than ±40 degrees. 
 
-(2) Vertically in the runway region between:
+(2) Vertically in the runway region between: 
 
-(i) A horizontal surface 2.5 meters (8 feet) above the farthest point of runway centerline which is in line of sight of the azimuth antenna, and,
+(i) A horizontal surface 2.5 meters (8 feet) above the farthest point of runway centerline which is in line of sight of the azimuth antenna, and, 
 
-(ii) A conical surface originating at the azimuth ground equipment antenna inclined at 20 degrees above the horizontal up to a height of 600 meters (2000 feet).
+(ii) A conical surface originating at the azimuth ground equipment antenna inclined at 20 degrees above the horizontal up to a height of 600 meters (2000 feet). 
 
-(3) Vertically in the back azimuth region between:
+(3) Vertically in the back azimuth region between: 
 
-(i) A conical surface originating 2.5 meters (8 feet) above the runway stop end, included at 0.9 degree above the horizontal, and,
+(i) A conical surface originating 2.5 meters (8 feet) above the runway stop end, included at 0.9 degree above the horizontal, and, 
 
-(ii) A conical surface orginating at the missed approach azimuth ground equipment antenna, inclined at 15 degrees above the horizontal up to a height of 1500 meters (5000 feet).
+(ii) A conical surface orginating at the missed approach azimuth ground equipment antenna, inclined at 15 degrees above the horizontal up to a height of 1500 meters (5000 feet). 
 
-(iii) Where obstacles penetrate the lower coverage limits, coverage need be provided only to minimum line of sight.
+(iii) Where obstacles penetrate the lower coverage limits, coverage need be provided only to minimum line of sight. 
 
-(4) Within the back azimuth coverage sector defined in paragraph (q) (1), (2), and (3) of this section the power densities must not be less than those shown in Table 9, but the equipment design must also allow for:
+(4) Within the back azimuth coverage sector defined in paragraph (q) (1), (2), and (3) of this section the power densities must not be less than those shown in Table 9, but the equipment design must also allow for: 
 
-(i) Transmitter power degradation from normal −1.5 dB.
+(i) Transmitter power degradation from normal −1.5 dB. 
 
-(ii) Rain loss of −2.2 dB at the longitudinal coverage extremes.
+(ii) Rain loss of −2.2 dB at the longitudinal coverage extremes. 
 
-(h) *Back azimuth siting.* The back azimuth equipment antenna must:
+(h) *Back azimuth siting.* The back azimuth equipment antenna must: 
 
-(1) Normally be located on the extension of the runway centerline at the threshold end;
+(1) Normally be located on the extension of the runway centerline at the threshold end; 
 
-(2) Be adjusted so that the vertical plane containing the zero degree course line contains the back azimuth reference datum;
+(2) Be adjusted so that the vertical plane containing the zero degree course line contains the back azimuth reference datum; 
 
-(3) Have minimum height necessary to comply with the course requirements prescribed in paragraph (g) of this section;
+(3) Have minimum height necessary to comply with the course requirements prescribed in paragraph (g) of this section; 
 
-(4) Be located at a distance from the threshold end that is consistent with safe obstruction clearance practices;
+(4) Be located at a distance from the threshold end that is consistent with safe obstruction clearance practices; 
 
-(5) Not obscure any light of an approach lighting system; and
+(5) Not obscure any light of an approach lighting system; and 
 
-(6) Be installed on frangible mounts or beyond the 300 meter (1000 feet) light bar.
+(6) Be installed on frangible mounts or beyond the 300 meter (1000 feet) light bar. 
 
-(i) *Back azimuth antenna coordinates.* The scanning beams transmitted by the back azimuth equipment may be either conical or planar.
+(i) *Back azimuth antenna coordinates.* The scanning beams transmitted by the back azimuth equipment may be either conical or planar. 
 
-(j) *Back azimuth accuracy.* The requirements specified in § 171.313(e) apply except that the reference point is the back azimuth reference datum.
+(j) *Back azimuth accuracy.* The requirements specified in § 171.313(e) apply except that the reference point is the back azimuth reference datum. 
 
-(k) *Back azimuth antenna characteristics.* The requirements specified in § 171.313(f) apply.
+(k) *Back azimuth antenna characteristics.* The requirements specified in § 171.313(f) apply. 
 
-(l) *Scanning conventions.* Figure 12 shows the approach azimuth and back azimuth scanning conventions.
+(l) *Scanning conventions.* Figure 12 shows the approach azimuth and back azimuth scanning conventions. 
 
 ![](/graphics/ec15se91.017.gif)![](/graphics/ec15se91.018.gif)![](/graphics/ec15se91.019.gif)
 
-(m) *False guidance.* False courses which can be acquired and tracked by an aircraft shall not exist anywhere either inside or outside of the MLS coverage sector. False courses which exist outside of the minimum coverage sector may be suppressed by the use of OCI.
+(m) *False guidance.* False courses which can be acquired and tracked by an aircraft shall not exist anywhere either inside or outside of the MLS coverage sector. False courses which exist outside of the minimum coverage sector may be suppressed by the use of OCI. 
 
 Note:
 

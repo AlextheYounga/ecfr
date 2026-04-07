@@ -2,9 +2,9 @@
 
 Link to an amendment published at 89 FR 67849, Aug. 22, 2024.
 
-(a) The Paperwork Reduction Act of 1995 (44 U.S.C. 3501-3520) requires FAA to get approval from OMB for our information collection activities, and to list a record of those approvals in the Federal Register. This subpart lists the control numbers OMB assigned to FAA's information collection activities.
+(a) The Paperwork Reduction Act of 1995 (44 U.S.C. 3501-3520) requires FAA to get approval from OMB for our information collection activities, and to list a record of those approvals in the Federal Register. This subpart lists the control numbers OMB assigned to FAA's information collection activities. 
 
-(b) The table listing OMB control numbers assigned to FAA's information collection activities follows:
+(b) The table listing OMB control numbers assigned to FAA's information collection activities follows: 
 
 | 14 CFR part or   section identified and described | Current OMB control number                                                                                                                                           |
 | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

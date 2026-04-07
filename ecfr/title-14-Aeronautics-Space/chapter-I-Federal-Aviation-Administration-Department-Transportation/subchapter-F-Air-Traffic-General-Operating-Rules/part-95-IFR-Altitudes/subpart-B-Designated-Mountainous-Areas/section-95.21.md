@@ -1,6 +1,6 @@
 ##### § 95.21 Puerto Rico Mountainous Area.
 
-The area bounded by the following coordinates:
+The area bounded by the following coordinates: 
 
 Beginning at latitude 18°22′ N., longitude 66°58′ W., thence to latitude 18°19′ N., longitude 66°06′ W.; thence to latitude 18°20′ N., longitude 65°50′ W.; thence to latitude 18°20′ N., longitude 65°42′ W.; thence to latitude 18°03′ N., longitude 65°52′ W.; thence to latitude 18°02′ N., longitude 65°51′ W.; thence to latitude 17°59′ N., longitude 65°55′ W.; thence to latitude 18°05′ N., longitude 66°57′ W.; thence to latitude 18°11′ N., longitude 67°07′ W.; thence to latitude 18°22′ N., longitude 66°58′ W.; the point of beginning.
 

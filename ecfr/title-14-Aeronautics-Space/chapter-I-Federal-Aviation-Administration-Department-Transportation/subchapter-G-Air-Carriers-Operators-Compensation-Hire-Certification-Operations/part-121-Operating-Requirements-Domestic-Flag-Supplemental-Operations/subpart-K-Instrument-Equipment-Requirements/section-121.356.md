@@ -1,6 +1,6 @@
 ##### § 121.356 Collision avoidance system.
 
-Effective January 1, 2005, any airplane you operate under this part must be equipped and operated according to the following table:
+Effective January 1, 2005, any airplane you operate under this part must be equipped and operated according to the following table: 
 
 Collision Avoidance Systems
 | If you operate any—                                                                                                  | Then you must operate that airplane with—                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

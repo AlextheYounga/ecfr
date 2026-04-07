@@ -1,32 +1,32 @@
 ##### § 33.77 Foreign object ingestion—ice.
 
-(a) Compliance with the requirements of this section must be demonstrated by engine ice ingestion test or by validated analysis showing equivalence of other means for demonstrating soft body damage tolerance.
+(a) Compliance with the requirements of this section must be demonstrated by engine ice ingestion test or by validated analysis showing equivalence of other means for demonstrating soft body damage tolerance. 
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
-(c) Ingestion of ice under the conditions of this section may not—
+(c) Ingestion of ice under the conditions of this section may not— 
 
-(1) Cause an immediate or ultimate unacceptable sustained power or thrust loss; or
+(1) Cause an immediate or ultimate unacceptable sustained power or thrust loss; or 
 
-(2) Require the engine to be shutdown.
+(2) Require the engine to be shutdown. 
 
-(d) For an engine that incorporates a protection device, compliance with this section need not be demonstrated with respect to ice formed forward of the protection device if it is shown that—
+(d) For an engine that incorporates a protection device, compliance with this section need not be demonstrated with respect to ice formed forward of the protection device if it is shown that— 
 
-(1) Such ice is of a size that will not pass through the protective device;
+(1) Such ice is of a size that will not pass through the protective device; 
 
-(2) The protective device will withstand the impact of the ice; and
+(2) The protective device will withstand the impact of the ice; and 
 
-(3) The ice stopped by the protective device will not obstruct the flow of induction air into the engine with a resultant sustained reduction in power or thrust greater than those values defined by paragraph (c) of this section.
+(3) The ice stopped by the protective device will not obstruct the flow of induction air into the engine with a resultant sustained reduction in power or thrust greater than those values defined by paragraph (c) of this section. 
 
-(e) Compliance with the requirements of this section must be demonstrated by engine ice ingestion test under the following ingestion conditions or by validated analysis showing equivalence of other means for demonstrating soft body damage tolerance.
+(e) Compliance with the requirements of this section must be demonstrated by engine ice ingestion test under the following ingestion conditions or by validated analysis showing equivalence of other means for demonstrating soft body damage tolerance. 
 
-(1) The minimum ice quantity and dimensions will be established by the engine size as defined in Table 1 of this section.
+(1) The minimum ice quantity and dimensions will be established by the engine size as defined in Table 1 of this section. 
 
-(2) The ingested ice dimensions are determined by linear interpolation between table values, and are based on the actual engine's inlet hilite area.
+(2) The ingested ice dimensions are determined by linear interpolation between table values, and are based on the actual engine's inlet hilite area. 
 
-(3) The ingestion velocity will simulate ice from the inlet being sucked into the engine.
+(3) The ingestion velocity will simulate ice from the inlet being sucked into the engine. 
 
-(4) Engine operation will be at the maximum cruise power or thrust unless lower power is more critical.
+(4) Engine operation will be at the maximum cruise power or thrust unless lower power is more critical. 
 
 Table 1—Minimum Ice Slab Dimensions Based on Engine Inlet Size
 | Engine Inlet Hilite area   (sq. inch) | Thickness   (inch) | Width   (inch) | Length   (inch) |
