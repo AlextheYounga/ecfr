@@ -886,7 +886,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (30) Fentanyl-related substances, their isomers, esters, ethers, salts and salts of isomers, esters and ethers
 
-9850
+9850 
 
 (i) Fentanyl-related substance means any substance not otherwise listed under another Administration Controlled Substance Code Number, and for which no exemption or approval is in effect under section 505 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355\], that is structurally related to fentanyl by one or more of the following modifications:
 
@@ -924,6 +924,10 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (7085) 
 
+(36) N-Ethylpentylone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: ephylone, 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)-pentan-1-one)
+
+(7543) 
+
 \[39 FR 22141, June 20, 1974\] Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Notes:At 82 FR 20547, May 3, 2017, § 1308.11 was amended by adding (h)(16), effective May 3, 2017, until May 3, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(16) as paragraph (h)(13).
 
 2\. At 82 FR 32457, July 14, 2017, § 1308.11 was amended by adding (h)(17), effective July 14, 2017, until July 15, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(17) as paragraph (h)(14).
@@ -941,3 +945,5 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 8\. At 83 FR 10368, Mar. 9, 2018, § 1308.11 was amended by revising paragraphs (h)(23) and (h)(29), effective Mar. 9, 2018, through Feb. 1, 2020.
 
 9\. At 83 FR 31882, July 10, 2018, § 1308.11 was amended by adding paragraphs (h)(31) through (h)(35) effective July 10, 2018 through July 10, 2020.
+
+10\. At 83 FR 44478, Aug. 31, 2018, § 1308.11 was amended by adding paragraph (h)(36) effective Aug. 31, 2018 through Aug. 31, 2020.

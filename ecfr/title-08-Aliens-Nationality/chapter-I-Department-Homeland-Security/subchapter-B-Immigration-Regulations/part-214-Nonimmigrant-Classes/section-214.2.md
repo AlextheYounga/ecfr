@@ -1276,7 +1276,7 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (ix) *Enforcement.* The Secretary of Labor may investigate employers to enforce compliance with the conditions of a petition and Department of Labor-approved temporary labor certification to admit or otherwise provide status to an H-2B worker.
 
-(x) *Special requirements for additional cap allocations under the Consolidated Appropriations Act, 2018, Public Law 115-141.* (A) *Public Law 115-141.* Notwithstanding the numerical limitations set forth in paragraph (h)(8)(i)(C) of this section, for fiscal year 2018 only, the Secretary has authorized up to an additional 15,000 aliens who may receive H-2B nonimmigrant visas pursuant to section 205 of Division M of the Consolidated Appropriations Act, 2018, Public Law 115-141. Notwithstanding section 248.2 of this part, an alien may not change status to H-2B nonimmigrant under this provision.
+(x) *Special requirements for additional cap allocations under the Consolidated Appropriations Act, 2018, Public Law 115-141 -* (A) *Public Law 115-141.* Notwithstanding the numerical limitations set forth in paragraph (h)(8)(i)(C) of this section, for fiscal year 2018 only, the Secretary has authorized up to an additional 15,000 aliens who may receive H-2B nonimmigrant visas pursuant to section 205 of Division M of the Consolidated Appropriations Act, 2018, Public Law 115-141. Notwithstanding section 248.2 of this part, an alien may not change status to H-2B nonimmigrant under this provision.
 
 (B) *Eligibility.* In order to file a petition with USCIS under this paragraph (h)(6)(x), the petitioner must:
 
