@@ -6,7 +6,7 @@
 
 (2) An incomplete Cargo Declaration as provided for in § 4.75.
 
-(b) Except as hereafter stated, the Internal Transaction Number (ITN) of the Electronic Export Information (EEI) covering each shipment for which EEI is required must be shown on the Cargo Declaration Outward With Commercial Forms, CBP Form 1302A, in the marginal column headed “B/L No.” If EEI is not required for a shipment, a notation must be made on the Cargo Declaration Outward With Commercial Forms (CBP Form 1302A) describing the basis for the exemption or exclusion using the reference number found in the Census Bureau's Foreign Trade Regulations (see 15 CFR part 30, Appendix B) where the particular exemption or exclusion is provided.
+(b) Except as hereafter stated, the Internal Transaction Number (ITN) of the Electronic Export Information (EEI) covering each shipment for which EEI is required must be shown on the Cargo Declaration Outward With Commercial Forms, CBP Form 1302A, in the marginal column headed “B/L No.” If EEI is not required for a shipment, a notation must be made on the Cargo Declaration Outward With Commercial Forms (CBP Form 1302A) describing the basis for the exemption or exclusion using the reference number found in the Census Bureau's Foreign Trade Regulations (see 15 CFR part 30, appendix B) where the particular exemption or exclusion is provided.
 
 (c) The following minimal information must be included on the Cargo Declaration Outward With Commercial Forms, CBP Form 1302A (other information required to be on a CBP Form 1302A as shown on the form itself must also be included thereon) or on attached copies of bills of lading or equivalent commercial documents:
 
