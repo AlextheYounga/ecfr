@@ -1,16 +1,16 @@
 ##### § 404.261 Computing your special minimum primary insurance amount.
 
-(a) *Years of coverage.* (1) The first step in computing your special minimum primary insurance amount is to find the number of your years of coverage, which is the sum of— 
+(a) *Years of coverage.* (1) The first step in computing your special minimum primary insurance amount is to find the number of your years of coverage, which is the sum of—
 
-(i) The quotient found by dividing your total creditable social security earnings during the period 1937-1950 by $900, disregarding any fractional remainder; plus 
+(i) The quotient found by dividing your total creditable social security earnings during the period 1937-1950 by $900, disregarding any fractional remainder; plus
 
-(ii) The number of your computation base years after 1950 in which your social security earnings were at least the amounts shown in appendix IV. (*Computation base years* mean the same here as in other computation methods discussed in this subpart.) 
+(ii) The number of your computation base years after 1950 in which your social security earnings were at least the amounts shown in appendix IV. (*Computation base years* mean the same here as in other computation methods discussed in this subpart.)
 
-(2) You must have at least 11 years of coverage to qualify for a special minimum primary insurance amount computation. However, special minimum primary insurance amounts based on little more than 10 years of coverage are usually lower than the regular minimum benefit that was in effect before 1982 (see §§ 404.212(e) and 404.222(b) of this part). In any situation where your primary insurance amount computed under another method is higher, we use that higher amount. 
+(2) You must have at least 11 years of coverage to qualify for a special minimum primary insurance amount computation. However, special minimum primary insurance amounts based on little more than 10 years of coverage are usually lower than the regular minimum benefit that was in effect before 1982 (see §§ 404.212(e) and 404.222(b) of this part). In any situation where your primary insurance amount computed under another method is higher, we use that higher amount.
 
-(b) *Computing your special minimum primary insurance amount.* (1) First, we subtract 10 from your years of coverage and multiply the remainder (at least 1 and no more than 20) by $11.50; 
+(b) *Computing your special minimum primary insurance amount.* (1) First, we subtract 10 from your years of coverage and multiply the remainder (at least 1 and no more than 20) by $11.50;
 
-(2) Then we increase the amount found in paragraph (b)(1) of this section by any automatic cost-of-living or *ad hoc* increases that have become effective since December 1978 to find your special minimum primary insurance amount. See appendix V for the applicable table, which includes the 9.9 percent cost-of-living increase that became effective June 1979, the 14.3 percent increase that became effective June 1980, and the 11.2 percent increase that became effective June 1981. 
+(2) Then we increase the amount found in paragraph (b)(1) of this section by any automatic cost-of-living or *ad hoc* increases that have become effective since December 1978 to find your special minimum primary insurance amount. See appendix V for the applicable table, which includes the 9.9 percent cost-of-living increase that became effective June 1979, the 14.3 percent increase that became effective June 1980, and the 11.2 percent increase that became effective June 1981.
 
 Example:Ms. F, who attained age 62 in January 1979, had $10,000 in total social security earnings before 1951 and her post-1950 earnings are as follows:
 

@@ -1,10 +1,10 @@
 ##### § 404.509 Against equity and good conscience; defined.
 
-(a) Recovery of an overpayment is *against equity and good conscience* (under title II and title XVIII) if an individual— 
+(a) Recovery of an overpayment is *against equity and good conscience* (under title II and title XVIII) if an individual—
 
-(1) Changed his or her position for the worse (Example 1) or relinquished a valuable right (Example 2) because of reliance upon a notice that a payment would be made or because of the overpayment itself; or 
+(1) Changed his or her position for the worse (Example 1) or relinquished a valuable right (Example 2) because of reliance upon a notice that a payment would be made or because of the overpayment itself; or
 
-(2) Was living in a separate household from the overpaid person at the time of the overpayment and did not receive the overpayment (Examples 3 and 4). 
+(2) Was living in a separate household from the overpaid person at the time of the overpayment and did not receive the overpayment (Examples 3 and 4).
 
 (b) The individual's financial circumstances are not material to a finding of *against equity and good conscience.*
 
