@@ -8,9 +8,9 @@ The following regulations apply to the marine events listed in Table 1 of this s
 
 *Spectators.* All persons and vessels not registered with the event sponsor as participants or official patrol vessels.
 
-(b) *Event Patrol.* The Coast Guard may assign an event patrol, as described in § 100.40 of this part, to each regulated event listed in the table. Additionally, a Patrol Commander may be assigned to oversee the patrol. The event patrol and Patrol Commander may be contacted on VHF Channel 16.
+(b) *Event patrol.* The Coast Guard may assign an event patrol, as described in § 100.40 of this part, to each regulated event listed in the table. Additionally, a Patrol Commander may be assigned to oversee the patrol. The event patrol and Patrol Commander may be contacted on VHF Channel 16.
 
-(c) *Special Local Regulations.* (1) The Coast Guard Patrol Commander may forbid and control the movement of all vessels in the regulated area(s). When hailed or signaled by an official patrol vessel, a vessel in these areas shall immediately comply with the directions given. Failure to do so may result in expulsion from the area, citation for failure to comply, or both.
+(c) *Special local regulations.* (1) The Coast Guard Patrol Commander may forbid and control the movement of all vessels in the regulated area(s). When hailed or signaled by an official patrol vessel, a vessel in these areas shall immediately comply with the directions given. Failure to do so may result in expulsion from the area, citation for failure to comply, or both.
 
 (2) The Coast Guard Patrol Commander may terminate the event, or the operation of any vessel participating in the event, at any time it is deemed necessary for the protection of life or property.
 
@@ -18,7 +18,7 @@ The following regulations apply to the marine events listed in Table 1 of this s
 
 (4) Spectators are only allowed inside the regulated area if they remain within a designated spectator area. Spectators may contact the Coast Guard Patrol Commander to request permission to pass through the regulated area. If permission is granted, spectators must pass directly through the regulated area at safe speed and without loitering.
 
-(d) *Contact Information.* Questions about marine events should be addressed to the local Coast Guard Captain of the Port for the area in which the event is occurring. Contact information is listed below. For a description of the geographical area of each Captain of the Port zone, please see subpart 3.35 of this chapter.
+(d) *Contact information.* Questions about marine events should be addressed to the local Coast Guard Captain of the Port for the area in which the event is occurring. Contact information is listed below. For a description of the geographical area of each Captain of the Port zone, please see subpart 3.35 of this chapter.
 
 (1) Captain of the Port Charleston, South Carolina: (843) 740-7050.
 
@@ -34,7 +34,7 @@ The following regulations apply to the marine events listed in Table 1 of this s
 
 (7) Captain of the Port San Juan, Puerto Rico: (787) 289-2041.
 
-(e) *Application for Marine Events.* The application requirements of § 100.15 of this part apply to all events listed in Table 1. For information on applying for a marine event, contact the Captain of the Port for the area in which the event will occur, at the phone numbers listed above.
+(e) *Application for marine events.* The application requirements of § 100.15 of this part apply to all events listed in Table 1. For information on applying for a marine event, contact the Captain of the Port for the area in which the event will occur, at the phone numbers listed above.
 
 Table 1 to § 100.701
 

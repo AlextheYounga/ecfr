@@ -18,7 +18,9 @@
 
 (1) Not later than 10 days (excluding Saturdays, Sundays, and legal public holidays) after the date of receipt of such request, acknowledge in writing such receipt; and
 
-(2) Promptly, either - (i) Make any correction of any portion which the individual believes and the official agrees is not accurate, relevant, timely, or complete; or
+(2) Promptly, either -
+
+(i) Make any correction of any portion which the individual believes and the official agrees is not accurate, relevant, timely, or complete; or
 
 (ii) Inform the individual of the refusal to amend the record in accordance with the individual's request, the reason for the refusal, and the name and business address of the officer designated in the applicable appendix to this subpart, as the person who is to review such refusal. (See 5 U.S.C. 552a (d) and (f))
 
