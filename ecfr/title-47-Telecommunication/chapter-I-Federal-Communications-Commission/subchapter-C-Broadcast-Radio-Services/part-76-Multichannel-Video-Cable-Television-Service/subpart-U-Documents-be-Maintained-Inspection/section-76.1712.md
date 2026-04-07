@@ -1,6 +1,6 @@
 ##### § 76.1712 Open video system (OVS) requests for carriage.
 
-An open video system operator shall maintain a file of qualified video programming providers who have requested carriage or additional carriage since the previous allocation of capacity. Information regarding how a video programming provider should apply for carriage must be made available upon request. 
+An open video system operator shall maintain a file of qualified video programming providers who have requested carriage or additional carriage since the previous allocation of capacity. Information regarding how a video programming provider should apply for carriage must be made available upon request.
 
 Note 1 to § 76.1712:
 

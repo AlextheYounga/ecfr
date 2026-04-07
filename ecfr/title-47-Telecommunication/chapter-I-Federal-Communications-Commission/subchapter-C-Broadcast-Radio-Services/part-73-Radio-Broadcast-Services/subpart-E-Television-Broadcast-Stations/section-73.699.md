@@ -1,6 +1,6 @@
 ##### § 73.699 TV engineering charts.
 
-This section consists of the following Figures: 1-5, 5a, 6-10, 10a-10e, 11-12, 13-16. 
+This section consists of the following Figures: 1-5, 5a, 6-10, 10a-10e, 11-12, 13-16.
 
 Note:
 

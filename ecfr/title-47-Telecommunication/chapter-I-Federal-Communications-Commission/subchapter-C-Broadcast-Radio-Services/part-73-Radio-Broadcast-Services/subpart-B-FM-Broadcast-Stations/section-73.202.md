@@ -1,14 +1,14 @@
 ##### § 73.202 Table of Allotments.
 
-(a) *General.* The following Table of Allotments contains the channels (other than noncommercial educational Channels 201-220) designated for use in communities in the United States, its territories, and possessions, and not currently assigned to a licensee or permittee or subject to a pending application for construction permit or license. All listed channels are for Class B stations in Zones I and I-A and for Class C stations in Zone II unless otherwise specifically designated. Channels to which licensed, permitted, and “reserved” facilities have been assigned are reflected in the Media Bureau's publicly available Consolidated Data Base System. 
+(a) *General.* The following Table of Allotments contains the channels (other than noncommercial educational Channels 201-220) designated for use in communities in the United States, its territories, and possessions, and not currently assigned to a licensee or permittee or subject to a pending application for construction permit or license. All listed channels are for Class B stations in Zones I and I-A and for Class C stations in Zone II unless otherwise specifically designated. Channels to which licensed, permitted, and “reserved” facilities have been assigned are reflected in the Media Bureau's publicly available Consolidated Data Base System.
 
-(1) Channels designated with an asterisk may be used only by noncommercial educational broadcast stations. The rules governing the use of those channels are contained in part 73, subpart C of this chapter. An entity that would be eligible to operate a noncommercial educational broadcast station can, in conjunction with an initial petition for rulemaking filed pursuant to part 1, subpart C of this chapter, request that a nonreserved FM channel (channels 221 through 300) be allotted as reserved only for noncommercial educational broadcasting by demonstrating the following: 
+(1) Channels designated with an asterisk may be used only by noncommercial educational broadcast stations. The rules governing the use of those channels are contained in part 73, subpart C of this chapter. An entity that would be eligible to operate a noncommercial educational broadcast station can, in conjunction with an initial petition for rulemaking filed pursuant to part 1, subpart C of this chapter, request that a nonreserved FM channel (channels 221 through 300) be allotted as reserved only for noncommercial educational broadcasting by demonstrating the following:
 
-(i) No reserved channel can be used without causing prohibited interference to TV channel 6 stations or foreign broadcast stations; or 
+(i) No reserved channel can be used without causing prohibited interference to TV channel 6 stations or foreign broadcast stations; or
 
-(ii) The applicant is technically precluded from using the reserved band by existing stations or previously filed applications and the proposed station would provide a first or second noncommercial educational radio service to 2,000 or more people who constitute 10% of the population within the proposed allocation's 60 dBu (1 mV/m) service contour. 
+(ii) The applicant is technically precluded from using the reserved band by existing stations or previously filed applications and the proposed station would provide a first or second noncommercial educational radio service to 2,000 or more people who constitute 10% of the population within the proposed allocation's 60 dBu (1 mV/m) service contour.
 
-(2) Each channel listed in the Table of Allotments reflects the class of station that is authorized to use it based on the minimum and maximum facility requirements for each class contained in § 73.211. 
+(2) Each channel listed in the Table of Allotments reflects the class of station that is authorized to use it based on the minimum and maximum facility requirements for each class contained in § 73.211.
 
 Note:
 
@@ -32,7 +32,6 @@ Table 1 to Paragraph (b)
 | **ARIZONA**              |                           |
 | Aguila                   | 297C2                     |
 | Ajo                      | 275A                      |
-| Desert Hills             | 292A                      |
 | Ehrenberg                | 228C2                     |
 | First Mesa               | 281C                      |
 | Fredonia                 | 266C1                     |
@@ -45,7 +44,6 @@ Table 1 to Paragraph (b)
 | Salome                   | 231A                      |
 | Sells                    | 285A                      |
 | Snowflake                | 259C2                     |
-| Tusayan                  | 222C1                     |
 | Wickenburg               | 229C3                     |
 | **ARKANSAS**             |                           |
 | Hermitage                | 300A                      |
@@ -55,24 +53,17 @@ Table 1 to Paragraph (b)
 | **CALIFORNIA**           |                           |
 | Alturas                  | 277C                      |
 | Avenal                   | 269A                      |
-| Boonville                | 300A                      |
-| Cartago                  | 233A                      |
 | Cedarville               | 238A                      |
 | Coalinga                 | 247B1                     |
 | Coalinga                 | 261B                      |
-| Cottonwood               | 221A                      |
 | Dos Palos                | 240A                      |
 | Earlimart                | 228A                      |
-| Essex                    | 280B                      |
 | Firebaugh                | 234A                      |
 | Ford City                | 271A                      |
-| Ft. Bragg                | 253B1                     |
 | Kettleman City           | 299A                      |
 | Lindsay                  | 277B1                     |
-| Ludlow                   | 261B1                     |
+| Loleta                   | 254C1                     |
 | Portola                  | 258A                      |
-| Randsburg                | 275A                      |
-| Sacramento               | 300B                      |
 | Tecopa                   | 256A                      |
 | Visalia                  | 241A                      |
 | Wasco                    | 224A                      |
@@ -81,12 +72,9 @@ Table 1 to Paragraph (b)
 | Calhan                   | 284C3                     |
 | Dinosaur                 | 262C1                     |
 | Dotsero                  | 261A                      |
-| Eckley                   | 257C1                     |
-| Hugo                     | 222A                      |
 | Idalia                   | 231A                      |
 | Lake City                | 247A                      |
 | Olathe                   | 270C2, 293C               |
-| Stratton                 | 246C1                     |
 | Walden                   | 226A                      |
 | Yampa                    | 277C3                     |
 | **CONNECTICUT**          |                           |
@@ -95,11 +83,9 @@ Table 1 to Paragraph (b)
 | **FLORIDA**              |                           |
 | Big Coppitt Key          | 265C3                     |
 | Cross City               | 249C3                     |
-| Fort Walton Beach        | 295A                      |
 | Horseshoe Beach          | \*234C3                   |
 | Otter Creek              | 240A                      |
 | **GEORGIA**              |                           |
-| Pembroke                 | 257C1                     |
 | Plains                   | 290A                      |
 | **HAWAII**               |                           |
 | Kekaha                   | 298C3                     |
@@ -111,7 +97,6 @@ Table 1 to Paragraph (b)
 | **IDAHO**                |                           |
 | Weiser                   | 247C1                     |
 | **ILLINOIS**             |                           |
-| Abingdon                 | 291A                      |
 | Cedarville               | 258A                      |
 | Greenup                  | 230A                      |
 | Mattoon                  | 245B1                     |
@@ -122,11 +107,9 @@ Table 1 to Paragraph (b)
 | Madison                  | 265A                      |
 | **IOWA**                 |                           |
 | Asbury                   | 254A                      |
-| Dunkerton                | 280A                      |
 | Keosauqua                | 271C3                     |
 | Moville                  | 246A                      |
 | North English            | 246A                      |
-| Rockford                 | 225A                      |
 | Rudd                     | 268A                      |
 | **KANSAS**               |                           |
 | Council Grove            | 281C3                     |
@@ -143,70 +126,53 @@ Table 1 to Paragraph (b)
 | **MAINE**                |                           |
 | **MARYLAND**             |                           |
 | **MASSACHUSETTS**        |                           |
-| Orange                   | 247A                      |
 | West Tisbury             | 282A                      |
 | **MICHIGAN**             |                           |
 | Bear Lake                | 264C3                     |
 | Carney                   | 260A                      |
-| Custer                   | 260A                      |
-| Houghton                 | 242C1                     |
 | Lake Isabella            | 255A                      |
 | Lexington                | \*256A                    |
 | Onekama                  | 227C3                     |
-| Pigeon                   | 267A                      |
 | **MINNESOTA**            |                           |
 | Grand Marais             | 245C3                     |
 | Grand Portage            | 251A                      |
 | **MISSISSIPPI**          |                           |
 | Bruce                    | 233A                      |
 | Calhoun City             | 272A                      |
-| Cleveland                | 226C2                     |
 | Greenwood                | 230C3                     |
 | McLain                   | 245A                      |
-| New Albany               | 268A                      |
 | New Augusta              | 269A                      |
 | **MISSOURI**             |                           |
 | Bourbon                  | 231A                      |
 | Bunker                   | 292C3                     |
 | Cuba                     | 269A                      |
 | Eminence                 | 281A                      |
-| Maryville                | 285C3                     |
 | Wheatland                | 272A                      |
 | **MONTANA**              |                           |
 | Cut Bank                 | 265C2                     |
 | Huntley                  | 284A                      |
 | Valler                   | 289C1                     |
 | **NEBRASKA**             |                           |
-| Bayard                   | 251A                      |
 | **NEVADA**               |                           |
 | Battle Mountain          | 253C2                     |
 | Caliente                 | 264A                      |
 | Owyhee                   | 247C1                     |
-| Tonopah                  | 224A                      |
 | **NEW HAMPSHIRE**        |                           |
 | Enfield                  | 282A                      |
 | Groveton                 | 268A                      |
-| Jefferson                | 247A                      |
 | Stratford                | 254A                      |
 | **NEW JERSEY**           |                           |
 | **NEW MEXICO**           |                           |
 | Animas                   | 279C1                     |
 | Carrizozo                | 261C2                     |
-| Chama                    | 241C3                     |
 | Clovis                   | 272C3                     |
 | Des Moines               | 287C                      |
 | Lovington                | 269C3                     |
-| Skyline-Ganipa           | 240A                      |
 | **NEW YORK**             |                           |
 | Keeseville               | 231A                      |
-| Narrowsburg              | 275A                      |
-| Sagaponack               | 233A                      |
-| Shelter Island           | 277A                      |
-| Westfield                | 265A                      |
 | **NORTH CAROLINA**       |                           |
 | **NORTH DAKOTA**         |                           |
 | Beulah                   | 250A                      |
-| Gackle                   | 256C1                     |
 | Medina                   | 222C1                     |
 | Sarles                   | 290C1                     |
 | **OHIO**                 |                           |
@@ -234,15 +200,13 @@ Table 1 to Paragraph (b)
 | Liberty                  | 298A                      |
 | **RHODE ISLAND**         |                           |
 | **SOUTH CAROLINA**       |                           |
-| Edgefield                | 238A                      |
 | **SOUTH DAKOTA**         |                           |
 | Edgemont                 | 289C1                     |
 | Murdo                    | 265A                      |
 | **TENNESSEE**            |                           |
-| Englewood                | 250A                      |
-| Selmer                   | 288A                      |
+|                          | Selmer                    |
 | **TEXAS**                |                           |
-| Albany                   | 255A                      |
+| Adamsville               | 285A                      |
 | Asherton                 | 284A                      |
 | Aspermont                | 226C2                     |
 | Balmorhea                | 283C                      |
@@ -252,7 +216,7 @@ Table 1 to Paragraph (b)
 | Bruni                    | 293A                      |
 | Camp Wood                | 251C3                     |
 | Canadian                 | 285C1                     |
-| Carrizo Springs          | 228A, 295A                |
+| Carrizo Springs          | 295A                      |
 | Centerville              | 274A                      |
 | Cotulla                  | 289A                      |
 | Crystal Beach            | 268A                      |
@@ -264,6 +228,7 @@ Table 1 to Paragraph (b)
 | El Indio                 | 236A                      |
 | Encino                   | 250A, 283A                |
 | Estelline                | 263C3                     |
+| Fabens                   | 276A                      |
 | Fort Stockton            | 263C                      |
 | Freer                    | 288A                      |
 | George West              | 292A                      |
@@ -276,7 +241,7 @@ Table 1 to Paragraph (b)
 | Hereford                 | 278C2                     |
 | Iraan                    | 269C2                     |
 | Jayton                   | 231C2                     |
-| Junction                 | 228C2, 277C3, 290A        |
+| Junction                 | 228C2, 290A               |
 | Kermit                   | 289C3                     |
 | Knox City                | 293A                      |
 | Leakey                   | 275A, 299A                |
@@ -293,24 +258,20 @@ Table 1 to Paragraph (b)
 | Memphis                  | 292A                      |
 | Menard                   | 265A, 292A                |
 | Milano                   | 274A                      |
-| Mullin                   | 224A, 277A                |
+| Mullin                   | 224A                      |
 | Munday                   | 270C1                     |
 | O'Donnell                | 249A                      |
-| Olney                    | 282A                      |
 | Ozona                    | 275A                      |
 | Palacios                 | 259C1                     |
-| Pearsall                 | 277A                      |
-| Premont                  | 264C3, 287A               |
-| Richland Springs         | 235A, 299A                |
+| Pearsall                 | 227A, 277A                |
+| Premont                  | 287A                      |
+| Richland Springs         | 299A                      |
 | Rising Star              | 290C3                     |
 | Roaring Springs          | 227A                      |
 | Roby                     | 290A                      |
 | Rocksprings              | 291A                      |
-| Roscoe                   | 228A                      |
-| Rule                     | 253A                      |
-| San Isidro               | 255A, 278A                |
+| San Isidro               | 255A                      |
 | Sanderson                | 274C1                     |
-| Sanger                   | 281C3                     |
 | Seymour                  | 222C2                     |
 | Sheffield                | 224C2                     |
 | Silverton                | 221A                      |
@@ -322,39 +283,29 @@ Table 1 to Paragraph (b)
 | Turkey                   | 221C2                     |
 | Van Alstyne              | 260A                      |
 | Wellington               | 248C3, 253C3              |
-| Wells                    | 254A                      |
 | Westbrook                | 272A                      |
 | Wharton                  | 277C2                     |
 | Zapata                   | 292A                      |
 | **UTAH**                 |                           |
-| Huntington               | 287C3                     |
 | Milford                  | 288C                      |
-| Paragonah                | 258A                      |
 | **VERMONT**              |                           |
 | Barton                   | 262A                      |
 | Hardwick                 | 290A                      |
-| West Rutland             | 298A                      |
 | **VIRGINIA**             |                           |
 | **WASHINGTON**           |                           |
+| Basin City               | 248C1                     |
 | Coupeville               | 266A                      |
-| Kahlotus                 | 283A                      |
 | Oak Harbor               | 233A                      |
-| Raymond                  | 300A                      |
-| Trout Lake               | 236A                      |
 | **WEST VIRGINIA**        |                           |
 | **WISCONSIN**            |                           |
 | Ashland                  | 275A                      |
-| Crandon                  | 276A                      |
 | Hayward                  | 232C2                     |
 | Laona                    | 272C3                     |
 | Lac Du Flambeau          | 225A                      |
 | New Holstein             | 258A                      |
-| Tomahawk                 | 265C3                     |
 | **WYOMING**              |                           |
-| Albin                    | 282C3                     |
 | Bairoil                  | 235C3                     |
 | Basin                    | 299C1                     |
-| Cora                     | 274C2                     |
 | Dubois                   | 242A                      |
 | Jackson                  | 294C2                     |
 | Lusk                     | 242A                      |
@@ -363,10 +314,9 @@ Table 1 to Paragraph (b)
 | Medicine Bow             | 259C3                     |
 | Pine Bluffs              | 287A                      |
 | Ralston                  | 233C                      |
-| Rawlins                  | 298C2                     |
 | Rozet                    | 256C3                     |
 | Wamsutter                | 285A                      |
-| Wheatland                | 286A, 293A                |
+| Wheatland                | 286A                      |
 | \[U.S. Territories\]     |                           |
 | **AMERICAN SAMOA**       |                           |
 | **CENTRAL MARIANAS**     |                           |

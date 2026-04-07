@@ -1,6 +1,6 @@
 ##### § 36.501 General.
 
-For separations purposes, reserves and deferrals include the following accounts: 
+For separations purposes, reserves and deferrals include the following accounts:
 
 | Other Jurisdictional Assets—Net                                          | Account 1500. |
 | Accumulated Depreciation                                                 | Account 3100. |

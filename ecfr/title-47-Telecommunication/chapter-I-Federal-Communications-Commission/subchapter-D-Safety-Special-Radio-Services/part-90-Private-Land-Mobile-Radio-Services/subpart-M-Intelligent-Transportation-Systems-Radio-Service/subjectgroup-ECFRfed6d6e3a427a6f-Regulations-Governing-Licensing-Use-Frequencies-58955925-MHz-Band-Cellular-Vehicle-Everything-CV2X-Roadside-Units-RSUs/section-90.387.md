@@ -1,8 +1,8 @@
 ##### § 90.387 Cellular Vehicle to Everything (C-V2X).
 
-(a) These provisions pertain to Cellular Vehicle to Everything (C-V2X) Roadside Units (RSUs) operating in the 5895-5925 MHz band. C-V2X On-Board Units are authorized under part 95, subpart L of this chapter. 
+(a) These provisions pertain to Cellular Vehicle to Everything (C-V2X) Roadside Units (RSUs) operating in the 5895-5925 MHz band. C-V2X On-Board Units are authorized under part 95, subpart L of this chapter.
 
-(b) C-V2X RSUs operating in the band 5895-5925 MHz shall not receive protection from Government Radiolocation services in operation prior to the establishment of the RSU. Operation of RSU stations within the radius centered on the locations listed in the table below, must be coordinated through National Telecommunications and Information Administration (NTIA). 
+(b) C-V2X RSUs operating in the band 5895-5925 MHz shall not receive protection from Government Radiolocation services in operation prior to the establishment of the RSU. Operation of RSU stations within the radius centered on the locations listed in the table below, must be coordinated through National Telecommunications and Information Administration (NTIA).
 
 Table 1 to § 90.387(b)—Coordination Locations
 | Location                              | Latitude | Longitude | Coordination   zone radius |
@@ -38,6 +38,6 @@ Table 1 to § 90.387(b)—Coordination Locations
 | White Sands Missile Range, New Mexico | 32-58-26 | 106-23-43 | 158                        |
 | Yuma, Arizona                         | 32-54-03 | 114-23-10 | 2                          |
 
-(c) NTIA may authorize additional station assignments in the federal radiolocation service and may amend, modify, or revoke existing or additional assignments for such service. Once a federal assignment action is taken, the Commission's Universal Licensing System (ULS) database will be updated accordingly and the list in paragraph (b) of this section will be updated as soon as practicable. 
+(c) NTIA may authorize additional station assignments in the federal radiolocation service and may amend, modify, or revoke existing or additional assignments for such service. Once a federal assignment action is taken, the Commission's Universal Licensing System (ULS) database will be updated accordingly and the list in paragraph (b) of this section will be updated as soon as practicable.
 
 \[89 FR 100852, Dec. 13, 2024\]

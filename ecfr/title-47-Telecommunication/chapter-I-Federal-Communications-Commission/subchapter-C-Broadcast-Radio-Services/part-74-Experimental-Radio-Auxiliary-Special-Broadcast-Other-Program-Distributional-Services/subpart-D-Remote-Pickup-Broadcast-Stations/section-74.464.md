@@ -1,6 +1,6 @@
 ##### § 74.464 Frequency tolerance.
 
-For operations on frequencies above 25 MHz using authorized bandwidths up to 30 kHz, the licensee of a remote pickup broadcast station or system shall maintain the operating frequency of each station in compliance with the frequency tolerance requirements of § 90.213 of this chapter. For all other operations, the licensee of a remote pickup broadcast station or system shall maintain the operating frequency of each station in accordance with the following: 
+For operations on frequencies above 25 MHz using authorized bandwidths up to 30 kHz, the licensee of a remote pickup broadcast station or system shall maintain the operating frequency of each station in compliance with the frequency tolerance requirements of § 90.213 of this chapter. For all other operations, the licensee of a remote pickup broadcast station or system shall maintain the operating frequency of each station in accordance with the following:
 
 | Frequency range            | Tolerance (percent) |
 | -------------------------- | ------------------- |

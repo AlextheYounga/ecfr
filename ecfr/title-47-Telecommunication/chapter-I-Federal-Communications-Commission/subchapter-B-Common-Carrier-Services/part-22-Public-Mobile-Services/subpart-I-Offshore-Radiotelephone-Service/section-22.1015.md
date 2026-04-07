@@ -1,6 +1,6 @@
 ##### § 22.1015 Repeater operation.
 
-Offshore central stations may be used as repeater stations provided that the licensee is able to maintain control of the station, and in particular, to turn the transmitter off, regardless of whether associated subscriber stations are transmitting at the time. 
+Offshore central stations may be used as repeater stations provided that the licensee is able to maintain control of the station, and in particular, to turn the transmitter off, regardless of whether associated subscriber stations are transmitting at the time.
 
 Table I-2—Maximum ERP (Watts)
 | Distance from the 4.8 km (3 mi) limit | 30 meters (100 feet) | 61 meters (200 feet) |

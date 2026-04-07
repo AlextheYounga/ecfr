@@ -1,6 +1,6 @@
 ##### § 36.391 General.
 
-Corporate Operations Expenses are included in the following account: 
+Corporate Operations Expenses are included in the following account:
 
 | General and Administrative | Account 6720. |
 

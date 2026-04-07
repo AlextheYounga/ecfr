@@ -1,6 +1,6 @@
 ##### § 80.364 Frequencies for VHF digital small message services (VDSMS).
 
-Frequencies in the 156-162 MHz band may be used for VHF digital small message services (VDSMS) complying with RTCM 12301 (incorporated by reference, *see* § 80.7), except as follows 
+Frequencies in the 156-162 MHz band may be used for VHF digital small message services (VDSMS) complying with RTCM 12301 (incorporated by reference, *see* § 80.7), except as follows
 
 VHF-FM Channels Not Available for Digital Small Message Service
 | Channel | Frequency (MHz) |

@@ -1,12 +1,12 @@
 ##### § 80.871 VHF radiotelephone station.
 
-(a) All passenger ships irrespective of size and all cargo ships of 300 gross tons and upwards subject to part II of title III of the Communications Act or to the Safety Convention are required to carry a VHF radiotelephone station complying with this subpart. Ships subject only to the Communications Act may use a VHF radiotelephone installation meeting the technical standards of the Bridge-to-Bridge Act to satisfy the watch requirements of § 80.305(a)(3) if the equipment can transmit and receive on 156.800 MHz. 
+(a) All passenger ships irrespective of size and all cargo ships of 300 gross tons and upwards subject to part II of title III of the Communications Act or to the Safety Convention are required to carry a VHF radiotelephone station complying with this subpart. Ships subject only to the Communications Act may use a VHF radiotelephone installation meeting the technical standards of the Bridge-to-Bridge Act to satisfy the watch requirements of § 80.305(a)(3) if the equipment can transmit and receive on 156.800 MHz.
 
-(b) The VHF radiotelephone station must be installed to insure safe and effective operation of the equipment and facilitate repair. It must be protected against vibration, moisture and temperature. 
+(b) The VHF radiotelephone station must be installed to insure safe and effective operation of the equipment and facilitate repair. It must be protected against vibration, moisture and temperature.
 
-(c) The principal operating position of the radiotelephone station must be in the room from which the ship is normally steered while at sea. 
+(c) The principal operating position of the radiotelephone station must be in the room from which the ship is normally steered while at sea.
 
-(d) The radiotelephone stations on ships subject to Part II of Title III of the Communications Act must be capable of operating on the frequency 156.800 MHz and in other respects meet the requirements of § 80.143. The radiotelephone stations on ships subject to the Safety Convention must be capable of operating in the simplex mode on the ship station transmitting frequencies specified in the frequency band 156.025 MHz to 157.425 MHz and in the semiduplex mode on the two frequency channels specified in the following table: 
+(d) The radiotelephone stations on ships subject to Part II of Title III of the Communications Act must be capable of operating on the frequency 156.800 MHz and in other respects meet the requirements of § 80.143. The radiotelephone stations on ships subject to the Safety Convention must be capable of operating in the simplex mode on the ship station transmitting frequencies specified in the frequency band 156.025 MHz to 157.425 MHz and in the semiduplex mode on the two frequency channels specified in the following table:
 
 | Channel designators | Transmitting frequencies (MHz) |
 | ------------------- | ------------------------------ |

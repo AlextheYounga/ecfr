@@ -11,10 +11,10 @@
 Table 1 to § 56.50-105(a)(1)(ii)—Charpy V-Notch Energy Multiplying Factors
 | Charpy V-notch specimen size 1                                      | Factor for minimum   energy, average of   3 specimens 1 | Factor for minimum   energy single   specimen 1 |
 | ------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------- |
-| 10 × 10 mm                                                          | 1                                                       | 2/3                                             |
-| 10 × 7.5 mm                                                         | 5/6                                                     | 5/9                                             |
-| 10 × 5.0 mm                                                         | 2/3                                                     | 4/9                                             |
-| 10 × 2.5 mm                                                         | 1/2                                                     | 1/3                                             |
+| 10 × 10 mm                                                          | 1                                                       | 2⁄3                                             |
+| 10 × 7.5 mm                                                         | 5⁄6                                                     | 5⁄9                                             |
+| 10 × 5.0 mm                                                         | 2⁄3                                                     | 4⁄9                                             |
+| 10 × 2.5 mm                                                         | 1⁄2                                                     | 1⁄3                                             |
 | 1 Straight line interpolation for intermediate values is permitted. |                                                         |                                                 |
 
 (iii) Steels differing in chemical composition, mechanical properties, or heat treatments from those specified may be specially approved by the Marine Safety Center. Similarly, aluminum alloys and other materials not covered in table 2 to § 56.50-105 may be specifically approved by the Marine Safety Center. 

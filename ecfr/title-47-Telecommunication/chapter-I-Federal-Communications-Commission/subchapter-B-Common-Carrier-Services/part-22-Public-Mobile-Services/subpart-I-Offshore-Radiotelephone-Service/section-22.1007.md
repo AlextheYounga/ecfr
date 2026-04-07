@@ -1,12 +1,12 @@
 ##### § 22.1007 Channels for offshore radiotelephone systems.
 
-The channels listed in this section are allocated for paired assignment to transmitters located in the specified geographical zones that provide offshore radiotelephone service. All channels have a bandwidth of 20 kHz and are designated by their center frequencies in MegaHertz. 
+The channels listed in this section are allocated for paired assignment to transmitters located in the specified geographical zones that provide offshore radiotelephone service. All channels have a bandwidth of 20 kHz and are designated by their center frequencies in MegaHertz.
 
-(a) *Zone A—Southern Louisiana.* The geographical area in Zone A is bounded as follows: 
+(a) *Zone A—Southern Louisiana.* The geographical area in Zone A is bounded as follows:
 
 From longitude W.87°45′ on the East to longitude W.94°00′ on the West and from the 4.8 kilometer (3 mile) limit along the Gulf of Mexico shoreline on the North to the limit of the Outer Continental Shelf on the South.
 
-(1) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for voice-grade general communications: 
+(1) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for voice-grade general communications:
 
 | Central | Subscriber | Central | Subscriber |
 | ------- | ---------- | ------- | ---------- |
@@ -19,7 +19,7 @@ From longitude W.87°45′ on the East to longitude W.94°00′ on the West and 
 | 488.175 | 491.175    | 488.375 | 491.375    |
 | 488.200 | 491.200    | 488.400 | 491.400    |
 
-(2) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for voice-grade general communications and private line service: 
+(2) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for voice-grade general communications and private line service:
 
 | Central | Subscriber | Central | Subscriber |
 | ------- | ---------- | ------- | ---------- |
@@ -30,27 +30,27 @@ From longitude W.87°45′ on the East to longitude W.94°00′ on the West and 
 | 488.525 | 491.525    | 488.675 | 491.675    |
 | 488.550 | 491.550    | 488.700 | 491.700    |
 
-(3) These channels may be assigned for use by relay stations in systems where it would be impractical to provide offshore radiotelephone service without the use of relay stations. 
+(3) These channels may be assigned for use by relay stations in systems where it would be impractical to provide offshore radiotelephone service without the use of relay stations.
 
 | Central | Subscriber | Central | Subscriber |
 | ------- | ---------- | ------- | ---------- |
 | 488.725 | 491.725    | 488.775 | 491.775    |
 | 488.750 | 491.750    | 488.800 | 491.800    |
 
-(4) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for emergency communications involving protection of life and property. 
+(4) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for emergency communications involving protection of life and property.
 
 | Central | Subscriber | Central | Subscriber |
 | ------- | ---------- | ------- | ---------- |
 | 488.825 | 491.825    | 488.875 | 491.875    |
 | 488.850 | 491.850    | 488.900 | 491.900    |
 
-(5) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for emergency auto alarm and voice transmission pertaining to emergency conditions only. 
+(5) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for emergency auto alarm and voice transmission pertaining to emergency conditions only.
 
 |  | Central | Subscriber |  |
 |  | ------- | ---------- |  |
 |  | 488.950 | 491.950    |  |
 
-(6) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for emergency shut-off remote control telemetry, environmental data acquisition and disseminations, or facsimile transmissions. 
+(6) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for emergency shut-off remote control telemetry, environmental data acquisition and disseminations, or facsimile transmissions.
 
 | Central | Subscriber | Central | Subscriber |
 | ------- | ---------- | ------- | ---------- |
@@ -63,7 +63,7 @@ From longitude W.87°45′ on the East to longitude W.94°00′ on the West and 
 | 489.150 | 492.150    | 489.350 | 492.350    |
 | 489.175 | 492.175    | 489.375 | 492.375    |
 
-(7) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for private line service: 
+(7) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for private line service:
 
 | Central | Subscriber | Central | Subscriber |
 | ------- | ---------- | ------- | ---------- |
@@ -81,23 +81,23 @@ From longitude W.87°45′ on the East to longitude W.94°00′ on the West and 
 | 489.675 | 492.675    | 490.000 | 493.000    |
 | 489.700 | 492.700    |         |            |
 
-(8) *Interstitial channels.* Interstitial channels are those with center frequencies offset by ±12.5 kHz from the listed center frequencies. The FCC may assign interstitial channels to offshore stations in Zone A subject to the following conditions: 
+(8) *Interstitial channels.* Interstitial channels are those with center frequencies offset by ±12.5 kHz from the listed center frequencies. The FCC may assign interstitial channels to offshore stations in Zone A subject to the following conditions:
 
-(i) Offshore stations transmitting on interstitial channels must be located east of W.92° longitude. 
+(i) Offshore stations transmitting on interstitial channels must be located east of W.92° longitude.
 
-(ii) Operations on interstitial channels are considered to be secondary to operations on channels with the listed center frequencies. 
+(ii) Operations on interstitial channels are considered to be secondary to operations on channels with the listed center frequencies.
 
-(iii) Offshore stations operating on interstitial channels must be used only for voice grade general communications or to provide for private line service. 
+(iii) Offshore stations operating on interstitial channels must be used only for voice grade general communications or to provide for private line service.
 
 Note to paragraph (a) of § 22.1007:
 
 These channels are contained in UHF TV Channel 17.
 
-(b) *Zone B—Southern Louisiana—Texas.* (1) The geographical area in Zone B is bounded as follows: 
+(b) *Zone B—Southern Louisiana—Texas.* (1) The geographical area in Zone B is bounded as follows:
 
 From longitude W.87°45′ on the East to longitude W.95°00′ on the West and from the 4.8 kilometer (3 mile) limit along the Gulf of Mexico shoreline on the North to the limit of the Outer Continental Shelf on the South.
 
-(2) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for voice-grade general communications and private line service: 
+(2) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for voice-grade general communications and private line service:
 
 | Central | Subscriber | Central | Subscriber |
 | ------- | ---------- | ------- | ---------- |
@@ -146,17 +146,17 @@ Note to paragraph (b) of § 22.1007:
 
 These channels are contained in UHF TV Channel 16.
 
-(c) *Zone C—Southern Texas.* The geographical area in Zone C is bounded as follows: 
+(c) *Zone C—Southern Texas.* The geographical area in Zone C is bounded as follows:
 
 Longitude W.94°00′ on the East, the 4.8 kilometer (3 mile) limit on the North and West, a 282 kilometer (175 mile) radius from the reference point at Linares, N.L., Mexico on the Southwest, latitude N.26°00′ on the South, and the limits of the outer continental shelf on the Southeast.
 
-(1) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for emergency auto alarm and voice transmission pertaining to emergency conditions only. 
+(1) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for emergency auto alarm and voice transmission pertaining to emergency conditions only.
 
 |  | Central | Subscriber |  |
 |  | ------- | ---------- |  |
 |  | 476.950 | 479.950    |  |
 
-(2) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for voice-grade general communications and private line service: 
+(2) These channels may be assigned for use by offshore central (base/fixed) or subscriber stations (fixed, temporary fixed, surface and/or airborne mobile) as indicated, for voice-grade general communications and private line service:
 
 | 476.025 | 479.025 |
 | 476.050 | 479.050 |

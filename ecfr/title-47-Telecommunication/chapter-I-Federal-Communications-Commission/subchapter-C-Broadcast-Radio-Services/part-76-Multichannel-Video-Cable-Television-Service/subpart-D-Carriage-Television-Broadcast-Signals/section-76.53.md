@@ -1,6 +1,6 @@
 ##### § 76.53 Reference points.
 
-The following list of reference points shall be used to identify the boundaries of the major and smaller television markets (defined in § 76.5). Where a community's reference point is not given, the geographic coordinates of the main post office in the community shall be used. 
+The following list of reference points shall be used to identify the boundaries of the major and smaller television markets (defined in § 76.5). Where a community's reference point is not given, the geographic coordinates of the main post office in the community shall be used.
 
 | State and community     | Latitude  | Longitude  |
 | ----------------------- | --------- | ---------- |

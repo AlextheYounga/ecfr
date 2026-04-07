@@ -1,14 +1,14 @@
 ##### § 74.536 Directional antenna required.
 
-(a) Aural broadcast STL and ICR stations are required to use a directional antenna with the minimum beamwidth necessary, consistent with good engineering practice, to establish the link. 
+(a) Aural broadcast STL and ICR stations are required to use a directional antenna with the minimum beamwidth necessary, consistent with good engineering practice, to establish the link.
 
-(b) An aural broadcast STL or intercity relay station operating in the 17.7-19.7 GHz band shall employ an antenna that meets the performance standards for Category A, except that in areas not subject to frequency congestion, antennas meeting standards for Category B may be employed. However, the Commission may require the replacement, at the licensee's expense, of any antenna or periscope antenna system of a permanent fixed station that does not meet performance Standard A, which is specified in the table in paragraph (c) of this section, upon a showing that said antenna causes or is likely to cause interference to (or receive interference from) any other authorized or proposed station; provided that an antenna meeting performance Standard A is unlikely to involve such interference. 
+(b) An aural broadcast STL or intercity relay station operating in the 17.7-19.7 GHz band shall employ an antenna that meets the performance standards for Category A, except that in areas not subject to frequency congestion, antennas meeting standards for Category B may be employed. However, the Commission may require the replacement, at the licensee's expense, of any antenna or periscope antenna system of a permanent fixed station that does not meet performance Standard A, which is specified in the table in paragraph (c) of this section, upon a showing that said antenna causes or is likely to cause interference to (or receive interference from) any other authorized or proposed station; provided that an antenna meeting performance Standard A is unlikely to involve such interference.
 
-(c) Licensees shall comply with the antenna standards table shown in this paragraph in the following manner: 
+(c) Licensees shall comply with the antenna standards table shown in this paragraph in the following manner:
 
-(1) With either the maximum beamwidth to 3 dB points requirement or with the minimum antenna gain requirement; and 
+(1) With either the maximum beamwidth to 3 dB points requirement or with the minimum antenna gain requirement; and
 
-(2) With the minimum radiation suppression to angle requirement. 
+(2) With the minimum radiation suppression to angle requirement.
 
 Antenna Standards
 | Frequency (GHz)                                                                                                                                                  | Category | Maximum beamwidth to 3 dB points 1   (included angle in   degrees) | Minimum antenna gain (dbi) | Minimum radiation suppression to angle in degrees from centerline of main beam in decibels |

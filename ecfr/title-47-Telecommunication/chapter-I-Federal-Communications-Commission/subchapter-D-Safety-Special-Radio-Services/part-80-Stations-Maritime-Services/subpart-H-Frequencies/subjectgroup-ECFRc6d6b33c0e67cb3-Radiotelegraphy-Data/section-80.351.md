@@ -1,17 +1,17 @@
 ##### § 80.351 Scope.
 
-The following sections describe the carrier frequencies and general uses of radiotelegraphy and data transmission with respect to the following: 
+The following sections describe the carrier frequencies and general uses of radiotelegraphy and data transmission with respect to the following:
 
-(a) Distress, urgency, safety, call and reply. 
+(a) Distress, urgency, safety, call and reply.
 
-(b) Working. 
+(b) Working.
 
-(c) Digital selective calling (DSC). 
+(c) Digital selective calling (DSC).
 
-(d) Narrow-band direct-printing (NB-DP). 
+(d) Narrow-band direct-printing (NB-DP).
 
-(e) Facsimile. 
+(e) Facsimile.
 
-(f) VHF-FM digital small message services (VDSMS). 
+(f) VHF-FM digital small message services (VDSMS).
 
 \[81 FR 90747, Dec. 15, 2016\]

@@ -1,6 +1,6 @@
 ##### § 30.205 Federal coordination requirements.
 
-(a) Licensees in the 37-38 GHz band located within the zones defined by the coordinates in the tables below must coordinate their operations with Federal Space Research Service (space to Earth) users of the band via the National Telecommunications and Information Administration (NTIA). All licensees operating within the zone defined by the 60 dBm/100 MHz EIRP coordinates in the tables below must coordinate all operations. Licensees operating within the area between the zones defined by the 60 dBm and 75 dBm/100 MHz EIRP coordinates in the tables below must coordinate all operations if their base station EIRP is greater than 60 dBm/100 MHz or if their antenna height exceeds 100 meters above ground level. Licensees operating outside the zones defined by the 75 dBm/100 MHz EIRP coordinates in the tables below are not required to coordinate their operations with NTIA. 
+(a) Licensees in the 37-38 GHz band located within the zones defined by the coordinates in the tables below must coordinate their operations with Federal Space Research Service (space to Earth) users of the band via the National Telecommunications and Information Administration (NTIA). All licensees operating within the zone defined by the 60 dBm/100 MHz EIRP coordinates in the tables below must coordinate all operations. Licensees operating within the area between the zones defined by the 60 dBm and 75 dBm/100 MHz EIRP coordinates in the tables below must coordinate all operations if their base station EIRP is greater than 60 dBm/100 MHz or if their antenna height exceeds 100 meters above ground level. Licensees operating outside the zones defined by the 75 dBm/100 MHz EIRP coordinates in the tables below are not required to coordinate their operations with NTIA.
 
 Table 1 to Paragraph (a): Goldstone, California Coordination Zone
 | 60 dBm/100 MHz EIRP | 75 dBm/100 MHz EIRP |
@@ -54,7 +54,7 @@ Table 3 to Paragraph (a)—White Sands, New Mexico Coordination Zone
 | 32.31543/−108.16101 |                     |
 | 31.79429/−107.88616 |                     |
 
-(b) Licensees in the 37-38.6 GHz band located within the zones defined by the coordinates in the table below must coordinate their operations with the Department of Defense via the National Telecommunications and Information Administration (NTIA). 
+(b) Licensees in the 37-38.6 GHz band located within the zones defined by the coordinates in the table below must coordinate their operations with the Department of Defense via the National Telecommunications and Information Administration (NTIA).
 
 Table 4 to Paragraph (b)—Coordination Areas for Federal Terrestrial Systems
 | Location                      | Agency    | Coordination area   (decimal degrees)                                         |
@@ -75,6 +75,6 @@ Table 4 to Paragraph (b)—Coordination Areas for Federal Terrestrial Systems
 | Moody Air Force Base, GA      | Air Force | 30 kilometer radius centered on latitude 30.96694 and longitude −83.185.      |
 | Hurlburt Air Force Base, FL   | Air Force | 30 kilometer radius centered on latitude 30.42388 and longitude −86.70694.    |
 
-(c) In addition to the locations listed in table 4 to paragraph (b) of this section, requests may be submitted to the Commission for access to the 37.6-38.6 GHz band for specific additional military bases and ranges for the purpose of defense applications or national security when the proposed military operations cannot be accommodated in the 37-37.6 GHz band. 
+(c) In addition to the locations listed in table 4 to paragraph (b) of this section, requests may be submitted to the Commission for access to the 37.6-38.6 GHz band for specific additional military bases and ranges for the purpose of defense applications or national security when the proposed military operations cannot be accommodated in the 37-37.6 GHz band.
 
 \[81 FR 79937, Nov. 14, 2016, as amended at 84 FR 18405, May 1, 2019; 84 FR 20820, May 13, 2019\]

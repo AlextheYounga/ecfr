@@ -1,6 +1,6 @@
 ##### § 87.137 Types of emission.
 
-(a) The assignable emissions, corresponding emission designators and authorized bandwidths are as follows: 
+(a) The assignable emissions, corresponding emission designators and authorized bandwidths are as follows:
 
 | Class of emission                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Emission designator | Authorized bandwidth (kilohertz) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | -------------------------------- |
@@ -65,8 +65,8 @@
 | 17 In the band 117.975-137 MHz, the Commission will not authorize any 8.33 kHz channel spaced transmissions or the use of their associated emission designator within the U.S. National Airspace System, except, on an optional basis, by Aeronautical Enroute Stations and Flight Test Stations, or by avionics equipment manufacturers which are required to perform installation and checkout of such radio systems prior to delivery to their customers. For transmitters certificated to tune to 8.33 kHz channel spacing as well as 25 kHz channel spacing, the authorized bandwidth is 8.33 kHz when tuned to an 8.33 kHz channel. |                     |                                  |
 | 18 Authorized only for Universal Access Transceiver use at 978 MHz.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                     |                                  |
 
-(b) For other emissions, an applicant must determine the emission designator by using part 2 of this chapter. 
+(b) For other emissions, an applicant must determine the emission designator by using part 2 of this chapter.
 
-(c) A license to use radiotelephony includes the use of tone signals or signaling devices whose sole function is to establish or maintain voice communications. 
+(c) A license to use radiotelephony includes the use of tone signals or signaling devices whose sole function is to establish or maintain voice communications.
 
 \[53 FR 28940, Aug. 1, 1988\] Editorial Note:For Federal Register citations affecting § 87.137, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

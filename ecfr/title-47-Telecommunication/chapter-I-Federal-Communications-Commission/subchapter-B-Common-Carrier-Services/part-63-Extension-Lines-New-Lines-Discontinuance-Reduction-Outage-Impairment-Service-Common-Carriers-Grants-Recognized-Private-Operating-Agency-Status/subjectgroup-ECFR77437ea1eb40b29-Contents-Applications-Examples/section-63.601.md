@@ -2,7 +2,7 @@
 
 F.C.C. File No. T\_D\_\_\_ Month \_\_\_\_ Year \_\_\_\_ (Name of applicant) (Address of applicant)
 
-In the matter of Proposed Reduction in Hours of Service of a Public Coast Station Pursuant to § 63.70 of the Commission's rules. 
+In the matter of Proposed Reduction in Hours of Service of a Public Coast Station Pursuant to § 63.70 of the Commission's rules.
 
 Data regarding public coast station (Call and address) Present hours: Monday through Friday Saturday Sunday Proposed hours: Monday through Friday Saturday Sunday Proposed effective time and date of change Average number of messages handled for month of \_\_\_\_\_\_\_\_, 19\_\_ during total hours to be deleted during maximum hour to be deleted
 

@@ -1,130 +1,130 @@
 ##### § 90.20 Public Safety Pool.
 
-(a) *Eligibility.* The following are eligible to hold authorizations in the Public Safety Pool. 
+(a) *Eligibility.* The following are eligible to hold authorizations in the Public Safety Pool.
 
-(1) Any territory, possession, state, city, county, town or similar governmental entity is eligible to hold authorizations in the Public Safety Pool to operate radio stations for transmission of communications essential to official activities of the licensee, including: 
+(1) Any territory, possession, state, city, county, town or similar governmental entity is eligible to hold authorizations in the Public Safety Pool to operate radio stations for transmission of communications essential to official activities of the licensee, including:
 
-(i) A district and an authority; 
+(i) A district and an authority;
 
-(ii) A governmental institution authorized by law to provide its own police protection; 
+(ii) A governmental institution authorized by law to provide its own police protection;
 
-(iii) Persons or entities engaged in the provision of basic or advanced life support services on an ongoing basis are eligible to hold authorization to operate stations for transmission of communications essential for the delivery or rendition of emergency medical services for the provision of basic or advanced life support. Applications submitted by persons or organizations (governmental or otherwise) other than the governmental body having jurisdiction over the state's emergency medical service plans must be accompanied by a statement prepared by the governmental body having jurisdiction over the state's emergency medical services plan indicating that the applicant is included in the state's emergency plan or otherwise supporting the application; 
+(iii) Persons or entities engaged in the provision of basic or advanced life support services on an ongoing basis are eligible to hold authorization to operate stations for transmission of communications essential for the delivery or rendition of emergency medical services for the provision of basic or advanced life support. Applications submitted by persons or organizations (governmental or otherwise) other than the governmental body having jurisdiction over the state's emergency medical service plans must be accompanied by a statement prepared by the governmental body having jurisdiction over the state's emergency medical services plan indicating that the applicant is included in the state's emergency plan or otherwise supporting the application;
 
-(iv) Governmental entities and governmental agencies for their own medical activities; and 
+(iv) Governmental entities and governmental agencies for their own medical activities; and
 
-(v) Governmental entities and governmental agencies for providing medical services communications to other eligible persons through direct participation in and direct operational control of the system, such as through central dispatch service. 
+(v) Governmental entities and governmental agencies for providing medical services communications to other eligible persons through direct participation in and direct operational control of the system, such as through central dispatch service.
 
-(2) Persons or organizations other than governmental entities are eligible to hold authorizations in the Public Safety Pool to operate radio stations for transmission of communications, as listed below. When requesting frequencies not designated by a “PS” in the coordinator column of the frequency table in paragraph (c)(3) of this section, applications must be accompanied by a statement from the governmental entity having legal jurisdiction over the area to be served, supporting the request: 
+(2) Persons or organizations other than governmental entities are eligible to hold authorizations in the Public Safety Pool to operate radio stations for transmission of communications, as listed below. When requesting frequencies not designated by a “PS” in the coordinator column of the frequency table in paragraph (c)(3) of this section, applications must be accompanied by a statement from the governmental entity having legal jurisdiction over the area to be served, supporting the request:
 
-(i) Persons or organizations charged with specific fire protection activities; 
+(i) Persons or organizations charged with specific fire protection activities;
 
-(ii) Persons or organizations charged with specific forestry-conservation activities; 
+(ii) Persons or organizations charged with specific forestry-conservation activities;
 
-(iii) Persons or organizations, listed below, engaged in the delivery or rendition of medical services to the public and on a secondary basis, for transmission of messages related to the efficient administration of organizations and facilities engaged in medical services operations: 
+(iii) Persons or organizations, listed below, engaged in the delivery or rendition of medical services to the public and on a secondary basis, for transmission of messages related to the efficient administration of organizations and facilities engaged in medical services operations:
 
-(A) Hospital establishments that offer services, facilities, and beds for use beyond 24 hours in rendering medical treatment; 
+(A) Hospital establishments that offer services, facilities, and beds for use beyond 24 hours in rendering medical treatment;
 
-(B) Institutions and organizations regularly engaged in providing medical services through clinics, public health facilities, and similar establishments; 
+(B) Institutions and organizations regularly engaged in providing medical services through clinics, public health facilities, and similar establishments;
 
-(C) Ambulance companies regularly engaged in providing medical ambulance services; 
+(C) Ambulance companies regularly engaged in providing medical ambulance services;
 
-(D) Rescue organizations for the limited purpose of participation in providing medical services; 
+(D) Rescue organizations for the limited purpose of participation in providing medical services;
 
-(E) Associations comprised of two or more of the organizations eligible under paragraph (a)(2)(iii) (A), (B), (C), and (D) of this section, for the purpose of active participation in and direct operational control of the medical services communication activities of such organizations; or 
+(E) Associations comprised of two or more of the organizations eligible under paragraph (a)(2)(iii) (A), (B), (C), and (D) of this section, for the purpose of active participation in and direct operational control of the medical services communication activities of such organizations; or
 
-(F) Physicians, schools of medicine, oral surgeons, and associations of physicians or oral surgeons; 
+(F) Physicians, schools of medicine, oral surgeons, and associations of physicians or oral surgeons;
 
-(iv) Persons or organizations operating a rescue squad for transmission of messages pertaining to the safety of life or property and urgent messages necessary for the rendition of an efficient emergency rescue service. 
+(iv) Persons or organizations operating a rescue squad for transmission of messages pertaining to the safety of life or property and urgent messages necessary for the rendition of an efficient emergency rescue service.
 
-(A) Each rescue squad will normally be authorized to operate one base station, and a number of mobile units (excluding hand carried mobile units) not exceeding the number of vehicles actually used in emergency rescue operations. 
+(A) Each rescue squad will normally be authorized to operate one base station, and a number of mobile units (excluding hand carried mobile units) not exceeding the number of vehicles actually used in emergency rescue operations.
 
-(B) In addition, each rescue squad will be authorized to operate a number of hand carried mobile units not exceeding two such units for each radio equipped vehicle actually used in emergency rescue operations. 
+(B) In addition, each rescue squad will be authorized to operate a number of hand carried mobile units not exceeding two such units for each radio equipped vehicle actually used in emergency rescue operations.
 
-(v) *Persons with disabilities.* The initial application from a person claiming eligibility under this paragraph shall be accompanied by a statement from a physician attesting to the condition of the applicant or the applicant's child (or ward in case of guardianship). 
+(v) *Persons with disabilities.* The initial application from a person claiming eligibility under this paragraph shall be accompanied by a statement from a physician attesting to the condition of the applicant or the applicant's child (or ward in case of guardianship).
 
-(A) Any person having a hearing deficiency such that average hearing threshold levels are 90 dB above ANSI (American National Standards Institute) 1969 or ISO (International Standards Organization) 1964 levels and such other persons who submit medical certification of similar hearing deficiency. 
+(A) Any person having a hearing deficiency such that average hearing threshold levels are 90 dB above ANSI (American National Standards Institute) 1969 or ISO (International Standards Organization) 1964 levels and such other persons who submit medical certification of similar hearing deficiency.
 
-(B) Any person having visual acuity corrected to no better than 20/200 in the better eye or having a field of vision of less than 20 degrees. 
+(B) Any person having visual acuity corrected to no better than 20/200 in the better eye or having a field of vision of less than 20 degrees.
 
-(C) Any person, who, through loss of limbs or motor function, is confined to a wheelchair, or is non-ambulatory. 
+(C) Any person, who, through loss of limbs or motor function, is confined to a wheelchair, or is non-ambulatory.
 
-(D) Any person actively awaiting an organ transplant. 
+(D) Any person actively awaiting an organ transplant.
 
-(E) Parents or guardians of persons under 18 years eligible under paragraphs (a)(2)(v)(A), (a)(2)(v)(B), (a)(2)(v)(C) of this section, or institutions devoted to the care or training of those persons. 
+(E) Parents or guardians of persons under 18 years eligible under paragraphs (a)(2)(v)(A), (a)(2)(v)(B), (a)(2)(v)(C) of this section, or institutions devoted to the care or training of those persons.
 
-(vi) A veterinarian, veterinary clinic, or a school of veterinary medicine for the transmission of messages pertaining to the care and treatment of animals. Each licensee may be authorized to operate one base station and two mobile units. Additional base stations or mobile units will be authorized only on a showing of need. 
+(vi) A veterinarian, veterinary clinic, or a school of veterinary medicine for the transmission of messages pertaining to the care and treatment of animals. Each licensee may be authorized to operate one base station and two mobile units. Additional base stations or mobile units will be authorized only on a showing of need.
 
-(vii) Organizations established for disaster relief purposes having an emergency radio communications plan for the transmission of communications relating to the safety of life or property, the establishment and maintenance of temporary relief facilities, and the alleviation of the emergency situation during periods of actual or impending emergency, or disaster, and until substantially normal conditions are restored. In addition, the stations may be used for training exercises, incidental to the emergency communications plan, and for operational communications of the disaster relief organization or its chapter affiliates. The initial application from a disaster relief organization shall be accompanied by a copy of the charter or other authority under which the organization was established and a copy of its communications plan. The plan shall fully describe the operation of the radio facilities and describe the method of integration into other communications facilities which normally would be available to assist in the alleviation of the emergency condition. 
+(vii) Organizations established for disaster relief purposes having an emergency radio communications plan for the transmission of communications relating to the safety of life or property, the establishment and maintenance of temporary relief facilities, and the alleviation of the emergency situation during periods of actual or impending emergency, or disaster, and until substantially normal conditions are restored. In addition, the stations may be used for training exercises, incidental to the emergency communications plan, and for operational communications of the disaster relief organization or its chapter affiliates. The initial application from a disaster relief organization shall be accompanied by a copy of the charter or other authority under which the organization was established and a copy of its communications plan. The plan shall fully describe the operation of the radio facilities and describe the method of integration into other communications facilities which normally would be available to assist in the alleviation of the emergency condition.
 
-(viii) Persons or organizations operating school buses on a regular basis over regular routes for the transmission of messages pertaining to either the efficient operation of the school bus service or the safety or general welfare of the students they are engaged in transporting. Each school bus operator may be authorized to operate one base station and a number of mobile units not in excess of the total of the number of buses and maintenance vehicles regularly engaged in the school bus operation. Additional base stations or mobile units will be authorized only in exceptional circumstances when the applicant can show a specific need. 
+(viii) Persons or organizations operating school buses on a regular basis over regular routes for the transmission of messages pertaining to either the efficient operation of the school bus service or the safety or general welfare of the students they are engaged in transporting. Each school bus operator may be authorized to operate one base station and a number of mobile units not in excess of the total of the number of buses and maintenance vehicles regularly engaged in the school bus operation. Additional base stations or mobile units will be authorized only in exceptional circumstances when the applicant can show a specific need.
 
-(ix) Persons or organizations operating beach patrols having responsibility for life-saving activities for the transmission of messages required for the safety of life or property. 
+(ix) Persons or organizations operating beach patrols having responsibility for life-saving activities for the transmission of messages required for the safety of life or property.
 
-(x) Persons or organizations maintaining establishment in isolated areas where public communications facilities are not available and where the use of radio is the only feasible means of establishing communication with a center of population, or other point from which emergency assistance might be obtained if needed, for the transmission of messages only during an actual or impending emergency endangering life, health or property for the transmission of essential communications arising from the emergency. The transmission of routine or non-emergency communications is strictly prohibited. 
+(x) Persons or organizations maintaining establishment in isolated areas where public communications facilities are not available and where the use of radio is the only feasible means of establishing communication with a center of population, or other point from which emergency assistance might be obtained if needed, for the transmission of messages only during an actual or impending emergency endangering life, health or property for the transmission of essential communications arising from the emergency. The transmission of routine or non-emergency communications is strictly prohibited.
 
-(A) *Special eligibility showing.* The initial application requesting a station authorization for an establishment in an isolated area shall be accompanied by a statement describing the status of public communication facilities in the area of the applicant's establishment; the results of any attempts the applicant may have made to obtain public communication service, and; in the event radio communications service is to be furnished under paragraph (a)(2)(x)(C)(*2*) of this section, a copy of the agreement involved must be submitted. 
+(A) *Special eligibility showing.* The initial application requesting a station authorization for an establishment in an isolated area shall be accompanied by a statement describing the status of public communication facilities in the area of the applicant's establishment; the results of any attempts the applicant may have made to obtain public communication service, and; in the event radio communications service is to be furnished under paragraph (a)(2)(x)(C)(*2*) of this section, a copy of the agreement involved must be submitted.
 
-(B) *Class and number of stations available.* Persons or organizations in this category may be authorized to operate not more than one fixed station at any isolated establishment and not more than one fixed station in a center of population. 
+(B) *Class and number of stations available.* Persons or organizations in this category may be authorized to operate not more than one fixed station at any isolated establishment and not more than one fixed station in a center of population.
 
-(C) *Communication service rendered and received.* (*1*) The licensee of a station at any establishment in an isolated area shall make the communication facilities of such station available at no charge to any person desiring the transmission of any communication permitted by paragraph (a) of this section. 
+(C) *Communication service rendered and received.* (*1*) The licensee of a station at any establishment in an isolated area shall make the communication facilities of such station available at no charge to any person desiring the transmission of any communication permitted by paragraph (a) of this section.
 
-(*2*) For the purpose of providing the communications link desired the licensee of a station at an establishment in an isolated area either may be the licensee of a similar station at another location or may obtain communication service under a mutual agreement from the licensee of any station in the Public Safety Pool or any other station which is authorized to communicate with the fixed station. 
+(*2*) For the purpose of providing the communications link desired the licensee of a station at an establishment in an isolated area either may be the licensee of a similar station at another location or may obtain communication service under a mutual agreement from the licensee of any station in the Public Safety Pool or any other station which is authorized to communicate with the fixed station.
 
-(xi) A communications common carrier operating communications circuits that normally carry essential communication of such a nature that their disruption would endanger life or public property is eligible to hold authorizations for standby radio facilities for the transmission of messages only during periods when the normal circuits are inoperative due to circumstances beyond the control of the user. During such periods the radio facilities may be used to transmit any communication which would be carried by the regular circuit. Initial applications for authorization to operate a standby radio facility must include a statement describing radio communication facilities desired, the proposed method of operation, a description of the messages normally being carried, and an explanation of how their disruption will endanger life or public property. 
+(xi) A communications common carrier operating communications circuits that normally carry essential communication of such a nature that their disruption would endanger life or public property is eligible to hold authorizations for standby radio facilities for the transmission of messages only during periods when the normal circuits are inoperative due to circumstances beyond the control of the user. During such periods the radio facilities may be used to transmit any communication which would be carried by the regular circuit. Initial applications for authorization to operate a standby radio facility must include a statement describing radio communication facilities desired, the proposed method of operation, a description of the messages normally being carried, and an explanation of how their disruption will endanger life or public property.
 
-(xii) Communications common carriers for radio facilities to be used in effecting expeditious repairs to interruption of public communications facilities where such interruptions have resulted in disabling intercity circuits or service to a multiplicity of subscribers in a general area. Stations authorized under this section may be used only when no other means of communication is readily available, for the transmission of messages relating to the safety of life and property and messages which are necessary for the efficient restoration of the public communication facilities which have been disrupted. 
+(xii) Communications common carriers for radio facilities to be used in effecting expeditious repairs to interruption of public communications facilities where such interruptions have resulted in disabling intercity circuits or service to a multiplicity of subscribers in a general area. Stations authorized under this section may be used only when no other means of communication is readily available, for the transmission of messages relating to the safety of life and property and messages which are necessary for the efficient restoration of the public communication facilities which have been disrupted.
 
-(xiii) Persons or entities engaged in the provision of basic or advanced life support services on an ongoing basis are eligible to hold authorization to operate stations for transmission of communications essential for the delivery or rendition of emergency medical services for the provision of basic or advanced life support. Applications submitted by persons or organizations (governmental or otherwise) other than the governmental body having jurisdiction over the state's emergency medical service plans must be accompanied by a statement prepared by the governmental body having jurisdiction over the state's emergency medical services plan indicating that the applicant is included in the state's emergency plan or otherwise supporting the application. 
+(xiii) Persons or entities engaged in the provision of basic or advanced life support services on an ongoing basis are eligible to hold authorization to operate stations for transmission of communications essential for the delivery or rendition of emergency medical services for the provision of basic or advanced life support. Applications submitted by persons or organizations (governmental or otherwise) other than the governmental body having jurisdiction over the state's emergency medical service plans must be accompanied by a statement prepared by the governmental body having jurisdiction over the state's emergency medical services plan indicating that the applicant is included in the state's emergency plan or otherwise supporting the application.
 
-(xiv)(A) Railroad police officers are a class of users eligible to operate on the nationwide interoperability and mutual aid channels listed in 90.20(i) provided their employer holds a Private Land Mobile Radio (PLMR) license of any radio category, including Industrial/Business (I/B). Eligible users include full and part time railroad police officers, Amtrak employees who qualify as railroad police officers under this subsection, Alaska Railroad employees who qualify as railroad police officers under this subsection, freight railroad employees who qualify as railroad police officers under this subsection, and passenger transit lines police officers who qualify as railroad police officers under this subsection. Railroads and railroad police departments may obtain licenses for the nationwide interoperability and mutual aid channels on behalf of railroad police officers in their employ. Employers of railroad police officers must obtain concurrence from the relevant state interoperability coordinator or regional planning committee before applying for a license to the Federal Communications Commission or operating on the interoperability and mutual aid channels. 
+(xiv)(A) Railroad police officers are a class of users eligible to operate on the nationwide interoperability and mutual aid channels listed in 90.20(i) provided their employer holds a Private Land Mobile Radio (PLMR) license of any radio category, including Industrial/Business (I/B). Eligible users include full and part time railroad police officers, Amtrak employees who qualify as railroad police officers under this subsection, Alaska Railroad employees who qualify as railroad police officers under this subsection, freight railroad employees who qualify as railroad police officers under this subsection, and passenger transit lines police officers who qualify as railroad police officers under this subsection. Railroads and railroad police departments may obtain licenses for the nationwide interoperability and mutual aid channels on behalf of railroad police officers in their employ. Employers of railroad police officers must obtain concurrence from the relevant state interoperability coordinator or regional planning committee before applying for a license to the Federal Communications Commission or operating on the interoperability and mutual aid channels.
 
-(*1*) Railroad police officer means a peace officer who is commissioned in his or her state of legal residence or state of primary employment and employed, full or part time, by a railroad to enforce state laws for the protection of railroad property, personnel, passengers, and/or cargo. 
+(*1*) Railroad police officer means a peace officer who is commissioned in his or her state of legal residence or state of primary employment and employed, full or part time, by a railroad to enforce state laws for the protection of railroad property, personnel, passengers, and/or cargo.
 
-(*2*) Commissioned means that a state official has certified or otherwise designated a railroad employee as qualified under the licensing requirements of that state to act as a railroad police officer in that state. 
+(*2*) Commissioned means that a state official has certified or otherwise designated a railroad employee as qualified under the licensing requirements of that state to act as a railroad police officer in that state.
 
-(*3*) Property means rights-of-way, easements, appurtenant property, equipment, cargo, facilities, and buildings and other structures owned, leased, operated, maintained, or transported by a railroad. 
+(*3*) Property means rights-of-way, easements, appurtenant property, equipment, cargo, facilities, and buildings and other structures owned, leased, operated, maintained, or transported by a railroad.
 
-(*4*) Railroad means each class of freight railroad (*i.e.* Class I, II, III); Amtrak, Alaska Railroad, commuter railroads and passenger transit lines. 
+(*4*) Railroad means each class of freight railroad (*i.e.* Class I, II, III); Amtrak, Alaska Railroad, commuter railroads and passenger transit lines.
 
-(*5*) The word state, as used herein, encompasses states, territories and the District of Columbia. 
+(*5*) The word state, as used herein, encompasses states, territories and the District of Columbia.
 
-(B) Eligibility for licensing on the 700 MHz narrowband interoperability channels is restricted to entities that have as their sole or principal purpose the provision of public safety services. 
+(B) Eligibility for licensing on the 700 MHz narrowband interoperability channels is restricted to entities that have as their sole or principal purpose the provision of public safety services.
 
-(b) *International police radiocommunication.* Police licensees which are located in close proximity to the borders of the United States may be authorized to communicate internationally. Request for such authority shall be written and signed and submitted in duplicate. The request shall include information as to the station with which communication will be conducted, and the frequency, power, emission, etc., that will be used. If authorized, such international communication must be conducted in accordance with Article 5 of the Inter-American Radio Agreement, Washington, DC, 1949, which reads as follows: 
+(b) *International police radiocommunication.* Police licensees which are located in close proximity to the borders of the United States may be authorized to communicate internationally. Request for such authority shall be written and signed and submitted in duplicate. The request shall include information as to the station with which communication will be conducted, and the frequency, power, emission, etc., that will be used. If authorized, such international communication must be conducted in accordance with Article 5 of the Inter-American Radio Agreement, Washington, DC, 1949, which reads as follows:
 
-Article 5. *Police radio stations.* When the American countries authorize their police radio stations to exchange emergency information by radio with similar stations of another country, the following rules shall be applied. 
+Article 5. *Police radio stations.* When the American countries authorize their police radio stations to exchange emergency information by radio with similar stations of another country, the following rules shall be applied.
 
-(a) Only police radio stations located close to the boundaries of contiguous countries shall be allowed to exchange this information. 
+(a) Only police radio stations located close to the boundaries of contiguous countries shall be allowed to exchange this information.
 
-(b) In general, only important police messages shall be handled, such as those which would lose their value, because of slowness and time limitations if sent on other communication systems. 
+(b) In general, only important police messages shall be handled, such as those which would lose their value, because of slowness and time limitations if sent on other communication systems.
 
-(c) Frequencies used for radiotelephone communications with mobile police units shall not be used for radiotelegraph communications. 
+(c) Frequencies used for radiotelephone communications with mobile police units shall not be used for radiotelegraph communications.
 
-(d) Radiotelephone communications shall be conducted only on frequencies assigned for radiotelephony. 
+(d) Radiotelephone communications shall be conducted only on frequencies assigned for radiotelephony.
 
-(e) Radiotelegraph communications shall be conducted on the following frequencies: 2804 kHz calling, 2808 kHz working, 2812 kHz working, 5195 kHz day calling, 5185 kHz day working, 5140 kHz day working. 
+(e) Radiotelegraph communications shall be conducted on the following frequencies: 2804 kHz calling, 2808 kHz working, 2812 kHz working, 5195 kHz day calling, 5185 kHz day working, 5140 kHz day working.
 
-(f) The characteristics of police radio stations authorized to exchange information shall be notified to the International Telecommunication Union, Geneva, Switzerland. 
+(f) The characteristics of police radio stations authorized to exchange information shall be notified to the International Telecommunication Union, Geneva, Switzerland.
 
-(g) The abbreviations contained in Appendix 9 of the Atlantic City Radio Regulations shall be used to the greatest possible extent. Service indications are as follows: “P”, priority, for messages that are to be sent immediately, regardless of the number of other messages on file. If no service indication is given, the messages are to be transmitted in the order of receipt. 
+(g) The abbreviations contained in Appendix 9 of the Atlantic City Radio Regulations shall be used to the greatest possible extent. Service indications are as follows: “P”, priority, for messages that are to be sent immediately, regardless of the number of other messages on file. If no service indication is given, the messages are to be transmitted in the order of receipt.
 
-(h) The message shall contain the preamble, address, text and signature, as follows: 
+(h) The message shall contain the preamble, address, text and signature, as follows:
 
-*Preamble.* The preamble of the message shall consist of the following: The serial number preceded by the letters “NR”, service indications, as appropriate; the group count according to standard cable count system; the letters “CK”, followed by numerals indicating the number of words contained in the text of the message: Office and country of origin (not abbreviations): Day, month, and hour of filing; 
+*Preamble.* The preamble of the message shall consist of the following: The serial number preceded by the letters “NR”, service indications, as appropriate; the group count according to standard cable count system; the letters “CK”, followed by numerals indicating the number of words contained in the text of the message: Office and country of origin (not abbreviations): Day, month, and hour of filing;
 
-*Address.* The address must be as complete as possible and shall include the name of the addressee with any supplementary particulars necessary for immediate delivery of the message; 
+*Address.* The address must be as complete as possible and shall include the name of the addressee with any supplementary particulars necessary for immediate delivery of the message;
 
-*Text.* The text may be either in plain language or code; 
+*Text.* The text may be either in plain language or code;
 
 *Signature.* The signature shall include the name and title of the person originating the message.
 
-(c) *Public Safety frequencies.* (1) The following table indicates frequencies available for assignment to Public Safety stations, together with the class of station(s) to which they are normally assigned, the specific assignment limitations which are explained in paragraph (d) of this section, and the certified frequency coordinator for each frequency: 
+(c) *Public Safety frequencies.* (1) The following table indicates frequencies available for assignment to Public Safety stations, together with the class of station(s) to which they are normally assigned, the specific assignment limitations which are explained in paragraph (d) of this section, and the certified frequency coordinator for each frequency:
 
-(2)(i) The letter symbol(s) listed in the Coordinator column of the frequency table in paragraph (c)(3) of this section specifies the frequency coordinator(s) for each frequency as follows: 
+(2)(i) The letter symbol(s) listed in the Coordinator column of the frequency table in paragraph (c)(3) of this section specifies the frequency coordinator(s) for each frequency as follows:
 
 PF—Fire Coordinator PH—Highway Maintenance Coordinator PM—Emergency Medical Coordinator PO—Forestry-Conservation Coordinator PP—Police Coordinator PS—Special Emergency Coordinator PX—Any Public Safety Coordinator, except the Special Emergency Coordinator
 
-(ii) Frequencies without any coordinator specified may be coordinated by any coordinator certified in the Public Safety Pool. 
+(ii) Frequencies without any coordinator specified may be coordinated by any coordinator certified in the Public Safety Pool.
 
 (3) *Frequencies.*
 
@@ -1640,141 +1640,141 @@ Public Safety Pool Frequency Table
 | 5895-5925         | Base or mobile                         | 86                 | Not applicable. |
 | 10,550 to 10,680  | ......do                               | 74.                |                 |
 
-(d) Explanation of assignment limitations appearing in the frequency table of paragraph (c)(3) of this section: 
+(d) Explanation of assignment limitations appearing in the frequency table of paragraph (c)(3) of this section:
 
-(1) This frequency is available for use by Travelers' Information Stations in accordance with § 90.242. 
+(1) This frequency is available for use by Travelers' Information Stations in accordance with § 90.242.
 
-(2) The frequency is available for assignment only in accordance with a geographical assignment plan. 
+(2) The frequency is available for assignment only in accordance with a geographical assignment plan.
 
-(3) Base stations operating on this frequency and rendering service to state police mobile units may be authorized to use a maximum output power in excess of the maximum indicated in § 90.205 but not in excess of 7500 watts: Provided, That such operation is secondary to other stations. 
+(3) Base stations operating on this frequency and rendering service to state police mobile units may be authorized to use a maximum output power in excess of the maximum indicated in § 90.205 but not in excess of 7500 watts: Provided, That such operation is secondary to other stations.
 
-(4) The use of this frequency is on a secondary basis to any Canadian station. 
+(4) The use of this frequency is on a secondary basis to any Canadian station.
 
-(5) In addition to base and mobile stations, this frequency may be assigned to fixed stations on a secondary basis to base or mobile stations. Upon a showing of need, the use of a second frequency in the band 2505-3500 kHz may be made available to governmental entities through appropriate arrangements with Federal Government agencies for restricted area use on a shared basis with maximum power output, emission, and hours of operation determined on the basis of the technical conditions involved in using the selected frequency in the particular area. 
+(5) In addition to base and mobile stations, this frequency may be assigned to fixed stations on a secondary basis to base or mobile stations. Upon a showing of need, the use of a second frequency in the band 2505-3500 kHz may be made available to governmental entities through appropriate arrangements with Federal Government agencies for restricted area use on a shared basis with maximum power output, emission, and hours of operation determined on the basis of the technical conditions involved in using the selected frequency in the particular area.
 
-(6) Only the central governments of the fifty individual States, the District of Columbia, and the insular areas of the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, and the unincorporated territories of American Samoa, Guam and the United States Virgin Islands are eligible to be licensed to use this spectrum, and then only for disaster communications purposes. Licensees may not use this spectrum to provide operational communications circuits. See also, § 90.264. 
+(6) Only the central governments of the fifty individual States, the District of Columbia, and the insular areas of the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, and the unincorporated territories of American Samoa, Guam and the United States Virgin Islands are eligible to be licensed to use this spectrum, and then only for disaster communications purposes. Licensees may not use this spectrum to provide operational communications circuits. See also, § 90.264.
 
-(7) This frequency is shared with the Industrial/Business Pool. 
+(7) This frequency is shared with the Industrial/Business Pool.
 
-(8) This frequency is available for assignment only in accordance with a geographical assignment plan. This frequency may be used for conservation activities on a secondary basis to any station using the frequency for forest fire prevention, detection, and suppression. 
+(8) This frequency is available for assignment only in accordance with a geographical assignment plan. This frequency may be used for conservation activities on a secondary basis to any station using the frequency for forest fire prevention, detection, and suppression.
 
-(9) This frequency is reserved primarily for assignment to state licensees. Assignments to other licensees will be made only where the frequency is required for coordinated operation with the State system to which the frequency is assigned. Any request for such assignment must be supported by a statement from the State system concerned, indicating that the assignment is necessary for coordination of activities. 
+(9) This frequency is reserved primarily for assignment to state licensees. Assignments to other licensees will be made only where the frequency is required for coordinated operation with the State system to which the frequency is assigned. Any request for such assignment must be supported by a statement from the State system concerned, indicating that the assignment is necessary for coordination of activities.
 
-(10) A licensee regularly conducting two-way communication operations on this frequency may, on a secondary basis, also transmit one-way alert-paging signals to ambulance and rescue squad personnel. 
+(10) A licensee regularly conducting two-way communication operations on this frequency may, on a secondary basis, also transmit one-way alert-paging signals to ambulance and rescue squad personnel.
 
-(11) The maximum output power of any transmitter authorized to operate on this frequency shall not exceed 10 watts. 
+(11) The maximum output power of any transmitter authorized to operate on this frequency shall not exceed 10 watts.
 
-(12) This frequency is available in this service only to persons eligible under the provisions of paragraph (a)(2)(v) of this section for operation of transmitters having a maximum power output of three watts using A1A, A1D, A2B, A2D, F1B, F1D, F2B, F2D, G1B, G1D, G2B, or G2D emission. This frequency is also available in the Industrial/Business Pool on a co-equal basis with the Public Safety licensees. 
+(12) This frequency is available in this service only to persons eligible under the provisions of paragraph (a)(2)(v) of this section for operation of transmitters having a maximum power output of three watts using A1A, A1D, A2B, A2D, F1B, F1D, F2B, F2D, G1B, G1D, G2B, or G2D emission. This frequency is also available in the Industrial/Business Pool on a co-equal basis with the Public Safety licensees.
 
-(13) This frequency will be assigned only for one-way paging communications to mobile receivers. Transmissions for the purpose of activating or controlling remote objects on this frequency are not authorized. 
+(13) This frequency will be assigned only for one-way paging communications to mobile receivers. Transmissions for the purpose of activating or controlling remote objects on this frequency are not authorized.
 
-(14) The maximum output power of any transmitter authorized to operate on this frequency, after June 1, 1956, shall not exceed two watts. Licensees holding a valid authorization as of June 1, 1956, for base or mobile station operation on this frequency, with a power in excess of two watts, may continue to be authorized for such operation without regard to this power limitation. 
+(14) The maximum output power of any transmitter authorized to operate on this frequency, after June 1, 1956, shall not exceed two watts. Licensees holding a valid authorization as of June 1, 1956, for base or mobile station operation on this frequency, with a power in excess of two watts, may continue to be authorized for such operation without regard to this power limitation.
 
-(15) This frequency is reserved for assignment to stations for intersystem operations only: Provided, however, That licensees holding a valid authorization to use this frequency for local base or mobile operations as of June 1, 1956, may continue to be authorized for such use. 
+(15) This frequency is reserved for assignment to stations for intersystem operations only: Provided, however, That licensees holding a valid authorization to use this frequency for local base or mobile operations as of June 1, 1956, may continue to be authorized for such use.
 
-(16) This frequency is reserved primarily for assignment to state police licensees. Assignments to other police licensees will be made only where the frequency is required for coordinated operation with the state police system to which the frequency is assigned. Any request for such assignment must be supported by a statement from the state police system concerned indicating that the assignment is necessary for coordination of police activities. 
+(16) This frequency is reserved primarily for assignment to state police licensees. Assignments to other police licensees will be made only where the frequency is required for coordinated operation with the state police system to which the frequency is assigned. Any request for such assignment must be supported by a statement from the state police system concerned indicating that the assignment is necessary for coordination of police activities.
 
-(17) In the State of Alaska only, the frequency 42.40 MHz is available for assignment on a primary basis to stations in the Common Carrier Rural Radio Service utilizing meteor burst communications. The frequency may be used by private radio stations for meteor burst communications on a secondary, noninterference basis. Usage shall be in accordance with part 22 of this chapter or part 90. Stations utilizing meteor burst communications shall not cause harmful interference to stations of other radio services operating in accordance with the allocation table. 
+(17) In the State of Alaska only, the frequency 42.40 MHz is available for assignment on a primary basis to stations in the Common Carrier Rural Radio Service utilizing meteor burst communications. The frequency may be used by private radio stations for meteor burst communications on a secondary, noninterference basis. Usage shall be in accordance with part 22 of this chapter or part 90. Stations utilizing meteor burst communications shall not cause harmful interference to stations of other radio services operating in accordance with the allocation table.
 
-(18) No new licenses will be granted for one-way paging under § 90.487 for use on this frequency after August 1, 1980. This frequency is available to persons eligible for station licenses under the provisions of paragraph (a)(2)(v) of this section on a co-equal basis with one-way paging users under § 90.487 prior to August 1, 1985, and on a primary basis after August 1, 1985. Only A1A, A1D, A2B, A2D, F1B, F1D, F2B, F2D, G1B, G1D, G2B, G2D emissions and power not exceeding 10 watts will be authorized. Antennas having gain greater than 0 dBd will not be authorized. Transmissions shall not exceed two seconds duration. 
+(18) No new licenses will be granted for one-way paging under § 90.487 for use on this frequency after August 1, 1980. This frequency is available to persons eligible for station licenses under the provisions of paragraph (a)(2)(v) of this section on a co-equal basis with one-way paging users under § 90.487 prior to August 1, 1985, and on a primary basis after August 1, 1985. Only A1A, A1D, A2B, A2D, F1B, F1D, F2B, F2D, G1B, G1D, G2B, G2D emissions and power not exceeding 10 watts will be authorized. Antennas having gain greater than 0 dBd will not be authorized. Transmissions shall not exceed two seconds duration.
 
-(19) This frequency is reserved for assignment to stations in this service for intersystem operations only and these operations must be primarily base-mobile communications. 
+(19) This frequency is reserved for assignment to stations in this service for intersystem operations only and these operations must be primarily base-mobile communications.
 
-(20) In the State of Alaska only, the frequency 45.90 MHz is available for assignment on a primary basis to private land mobile radio stations utilizing meteor burst communications. The frequency may be used by common carrier stations for meteor burst communications on a secondary, noninterference basis. Usage shall be in accordance with part 22 of this chapter and part 90. Stations utilizing meteor burst communications shall not cause harmful interference to stations of other radio services operating in accordance with the allocation table. 
+(20) In the State of Alaska only, the frequency 45.90 MHz is available for assignment on a primary basis to private land mobile radio stations utilizing meteor burst communications. The frequency may be used by common carrier stations for meteor burst communications on a secondary, noninterference basis. Usage shall be in accordance with part 22 of this chapter and part 90. Stations utilizing meteor burst communications shall not cause harmful interference to stations of other radio services operating in accordance with the allocation table.
 
-(21) This frequency will be assigned only in accordance with a geographical assignment plan and is reserved primarily for assignment to Highway maintenance systems operated by states. The use of this frequency by other Highway maintenance licensees will be authorized only where such use is necessary to coordinate activities with the particular state to which the frequency is assigned. Any request for such use must be supported by a statement from the state concerned. 
+(21) This frequency will be assigned only in accordance with a geographical assignment plan and is reserved primarily for assignment to Highway maintenance systems operated by states. The use of this frequency by other Highway maintenance licensees will be authorized only where such use is necessary to coordinate activities with the particular state to which the frequency is assigned. Any request for such use must be supported by a statement from the state concerned.
 
-(22) Notwithstanding the provisions of paragraph (d)(21) of this section, this frequency may be used by any licensees in the Public Safety Pool without a separate license for the purpose of operating self-powered vehicle detectors for traffic control and safety purposes, on a secondary basis, in accordance with § 90.269. 
+(22) Notwithstanding the provisions of paragraph (d)(21) of this section, this frequency may be used by any licensees in the Public Safety Pool without a separate license for the purpose of operating self-powered vehicle detectors for traffic control and safety purposes, on a secondary basis, in accordance with § 90.269.
 
-(23) Thus frequency is reserved for assignment only to national organizations eligible for disaster relief operations under paragraph (a)(2)(vii) of this section. 
+(23) Thus frequency is reserved for assignment only to national organizations eligible for disaster relief operations under paragraph (a)(2)(vii) of this section.
 
-(24) Assignment and use of frequencies in the band 72-76 MHz are governed by § 90.257 for operational-fixed stations and by § 90.241 for emergency call box operations. Specific frequencies are listed at § 90.257(a)(1). 
+(24) Assignment and use of frequencies in the band 72-76 MHz are governed by § 90.257 for operational-fixed stations and by § 90.241 for emergency call box operations. Specific frequencies are listed at § 90.257(a)(1).
 
-(25) This frequency is available to Public Safety Pool licensees for fire call box operations on a shared basis in Industrial/Business Pool. All communications on this frequency must be conducted with persons or organizations charged with specific fire protection responsibility. All operations on this frequency are subject to the provisions of § 90.257(b). 
+(25) This frequency is available to Public Safety Pool licensees for fire call box operations on a shared basis in Industrial/Business Pool. All communications on this frequency must be conducted with persons or organizations charged with specific fire protection responsibility. All operations on this frequency are subject to the provisions of § 90.257(b).
 
-(26) Assignment of frequencies in this band are subject to the provisions of § 90.173. Licensees as of August 18, 1995 who operate systems in the 150-170 MHz band that are 2.5 kHz removed from regularly assignable frequencies may continue to operate on a secondary, non-interference basis after August 1, 2003. 
+(26) Assignment of frequencies in this band are subject to the provisions of § 90.173. Licensees as of August 18, 1995 who operate systems in the 150-170 MHz band that are 2.5 kHz removed from regularly assignable frequencies may continue to operate on a secondary, non-interference basis after August 1, 2003.
 
-(27) This frequency will be assigned with an authorized bandwidth not to exceed 11.25 kHz. In the 450-470 MHz band, secondary telemetry operations pursuant to § 90.238(e) will be authorized on this frequency. 
+(27) This frequency will be assigned with an authorized bandwidth not to exceed 11.25 kHz. In the 450-470 MHz band, secondary telemetry operations pursuant to § 90.238(e) will be authorized on this frequency.
 
-(28) This frequency is not available for assignment in this service in Puerto Rico or the Virgin Islands. 
+(28) This frequency is not available for assignment in this service in Puerto Rico or the Virgin Islands.
 
-(29) This frequency is removed by 22.5 kHz from frequencies assigned to other radio services. Utilization of this frequency may result in, as well as be subject to, interference under certain operating conditions. In considering the use of this frequency, adjacent channel operations should be taken into consideration. If interference occurs, the licensee may be required to take the necessary steps to resolve the problem. See § 90.173(b). 
+(29) This frequency is removed by 22.5 kHz from frequencies assigned to other radio services. Utilization of this frequency may result in, as well as be subject to, interference under certain operating conditions. In considering the use of this frequency, adjacent channel operations should be taken into consideration. If interference occurs, the licensee may be required to take the necessary steps to resolve the problem. See § 90.173(b).
 
-(30) This frequency will be authorized a channel bandwidth of 25 kHz. 
+(30) This frequency will be authorized a channel bandwidth of 25 kHz.
 
-(31) The maximum output power of any transmitter authorized to operate on this frequency shall not exceed 100 watts. Stations authorized prior to July 15, 1992 for fixed operations will be permitted to continue such operations, but at a maximum transmitter power output of 10 watts. 
+(31) The maximum output power of any transmitter authorized to operate on this frequency shall not exceed 100 watts. Stations authorized prior to July 15, 1992 for fixed operations will be permitted to continue such operations, but at a maximum transmitter power output of 10 watts.
 
-(32) The maximum effective radiated power (ERP) may not exceed 20 watts for fixed stations and 2 watts for mobile stations. The height of the antenna system may not exceed 15.24 meters (50 ft.) above ground. All such operation is on a secondary basis to adjacent channel land mobile operations. 
+(32) The maximum effective radiated power (ERP) may not exceed 20 watts for fixed stations and 2 watts for mobile stations. The height of the antenna system may not exceed 15.24 meters (50 ft.) above ground. All such operation is on a secondary basis to adjacent channel land mobile operations.
 
-(33) For FM transmitters, the sum of the highest modulating frequency in Hertz and the amount of the frequency deviation or swing in Hertz may not exceed 2800 Hz and the maximum deviation may not exceed 2.5 kHz. For AM transmitters, the highest modulation frequency may not exceed 2000 Hz. The carrier frequency must be maintained within .0005 percent of the center of the frequency band, and the authorized bandwidth may not exceed 6 kHz. 
+(33) For FM transmitters, the sum of the highest modulating frequency in Hertz and the amount of the frequency deviation or swing in Hertz may not exceed 2800 Hz and the maximum deviation may not exceed 2.5 kHz. For AM transmitters, the highest modulation frequency may not exceed 2000 Hz. The carrier frequency must be maintained within .0005 percent of the center of the frequency band, and the authorized bandwidth may not exceed 6 kHz.
 
-(34) This frequency is available on a shared basis with the Industrial/Business Pool for remote control and telemetry operations. 
+(34) This frequency is available on a shared basis with the Industrial/Business Pool for remote control and telemetry operations.
 
-(35) Operational fixed stations must employ directional antennas having a front-to-back ratio of at least 20 dB. Omnidirectional antennas having unity gain may be employed for stations communicating with at least three receiving locations separated by 160 degrees of azimuth. 
+(35) Operational fixed stations must employ directional antennas having a front-to-back ratio of at least 20 dB. Omnidirectional antennas having unity gain may be employed for stations communicating with at least three receiving locations separated by 160 degrees of azimuth.
 
-(36) The maximum power output of the transmitter may not exceed 50 watts for fixed stations and 1 watt for mobile stations. A1A, A1D, A2B, A2D, F1B, F1D, F2D, G1B, G1D, G2B, or G2D emission may be authorized. 
+(36) The maximum power output of the transmitter may not exceed 50 watts for fixed stations and 1 watt for mobile stations. A1A, A1D, A2B, A2D, F1B, F1D, F2D, G1B, G1D, G2B, or G2D emission may be authorized.
 
-(37) Use of this frequency is limited to stations located at least 120.7 km (75 miles) from the center of any urbanized area of 200,000 or more population (U.S. Census of Population 1970). Operation is on a secondary basis to licensees of the Industrial/Business Pool. 
+(37) Use of this frequency is limited to stations located at least 120.7 km (75 miles) from the center of any urbanized area of 200,000 or more population (U.S. Census of Population 1970). Operation is on a secondary basis to licensees of the Industrial/Business Pool.
 
-(38) \[Reserved\] 
+(38) \[Reserved\]
 
-(39) In addition to other authorized uses, the use of F1B, F1D, F2B or F2D emission is permitted on this frequency for the operation of biomedical telemetry systems except in the following geographic locations: 
+(39) In addition to other authorized uses, the use of F1B, F1D, F2B or F2D emission is permitted on this frequency for the operation of biomedical telemetry systems except in the following geographic locations:
 
-(i) New York, N.Y.-Northeastern New Jersey; Los Angeles-Long Beach, Calif.; Chicago, Ill.-Northwestern Indiana; Philadelphia, Pa.-N.J.; Detroit, Mich.; San Francisco-Oakland, Calif.; Boston, Mass.; Washington, D.C.-Md.-Va.; Cleveland, Ohio; St. Louis, Mo.-Ill.; Pittsburgh, Pa.; Minneapolis-St. Paul, Minn.; Houston, Tex.; Baltimore, Md.; Dallas, Tex.; Milwaukee, Wis.; Seattle-Everett, Wash.; Miami, Fla.; San Diego, Calif.; Atlanta, Ga.; Cincinnati, Ohio-Ky.; Kansas City, Mo.-Kans.; Buffalo, N.Y.; Denver, Colo.; San Jose, Calif.; New Orleans, La.; Phoenix, Ariz.; Portland, Oreg.-Wash.; Indianapolis, Ind.; Providence-Pawtucket-Warwick, R.I.-Mass.; Columbus, Ohio; San Antonio, Tex.; Louisville, Ky.-Ind.; Dayton, Ohio; Forth Worth, Tex.; Norfolk-Portsmouth, Va.; Memphis, Tenn.-Miss.; Sacramento, Calif.; Fort Lauderdale-Hollywood, Fla.; Rochester, N.Y.; Tampa-St. Petersburg, Fla; 
+(i) New York, N.Y.-Northeastern New Jersey; Los Angeles-Long Beach, Calif.; Chicago, Ill.-Northwestern Indiana; Philadelphia, Pa.-N.J.; Detroit, Mich.; San Francisco-Oakland, Calif.; Boston, Mass.; Washington, D.C.-Md.-Va.; Cleveland, Ohio; St. Louis, Mo.-Ill.; Pittsburgh, Pa.; Minneapolis-St. Paul, Minn.; Houston, Tex.; Baltimore, Md.; Dallas, Tex.; Milwaukee, Wis.; Seattle-Everett, Wash.; Miami, Fla.; San Diego, Calif.; Atlanta, Ga.; Cincinnati, Ohio-Ky.; Kansas City, Mo.-Kans.; Buffalo, N.Y.; Denver, Colo.; San Jose, Calif.; New Orleans, La.; Phoenix, Ariz.; Portland, Oreg.-Wash.; Indianapolis, Ind.; Providence-Pawtucket-Warwick, R.I.-Mass.; Columbus, Ohio; San Antonio, Tex.; Louisville, Ky.-Ind.; Dayton, Ohio; Forth Worth, Tex.; Norfolk-Portsmouth, Va.; Memphis, Tenn.-Miss.; Sacramento, Calif.; Fort Lauderdale-Hollywood, Fla.; Rochester, N.Y.; Tampa-St. Petersburg, Fla;
 
-(ii) The continuous carrier mode of operation may be used for telemetry transmissions on this frequency for periods up to two-minutes duration; following which there must be a break in the carrier for at least a one-minute period; and 
+(ii) The continuous carrier mode of operation may be used for telemetry transmissions on this frequency for periods up to two-minutes duration; following which there must be a break in the carrier for at least a one-minute period; and
 
-(iii) Geographical coordinates for the above-listed urbanized areas may be found at Table 1 of § 90.635. 
+(iii) Geographical coordinates for the above-listed urbanized areas may be found at Table 1 of § 90.635.
 
-(40) This frequency may be designated by common consent as an intersystem mutual assistance frequency under an area-wide medical communications plan. 
+(40) This frequency may be designated by common consent as an intersystem mutual assistance frequency under an area-wide medical communications plan.
 
-(41) This frequency is available nationwide for use in police emergency communications networks operated under statewide law enforcement emergency communications plans. 
+(41) This frequency is available nationwide for use in police emergency communications networks operated under statewide law enforcement emergency communications plans.
 
-(42) This frequency may not be assigned within 161 km (100 miles) of New Orleans, La. (coordinates 29°56′53″ N and 90°04′10″ W). 
+(42) This frequency may not be assigned within 161 km (100 miles) of New Orleans, La. (coordinates 29°56′53″ N and 90°04′10″ W).
 
-(43) \[Reserved\] 
+(43) \[Reserved\]
 
-(44) This frequency will be assigned with an authorized bandwidth not to exceed 6 kHz. 
+(44) This frequency will be assigned with an authorized bandwidth not to exceed 6 kHz.
 
-(45) Operations on this frequency are limited to 30 watts transmitter output power. 
+(45) Operations on this frequency are limited to 30 watts transmitter output power.
 
-(46) This frequency is shared with the Industrial/Business Pool in Puerto Rico and the Virgin Islands. 
+(46) This frequency is shared with the Industrial/Business Pool in Puerto Rico and the Virgin Islands.
 
-(47) This frequency may be assigned to stations in the Public Safety Pool in accordance with the provisions of § 90.265. 
+(47) This frequency may be assigned to stations in the Public Safety Pool in accordance with the provisions of § 90.265.
 
-(48) Frequencies in this band will be assigned only for transmitting hydrological or meteorological data or for low power wireless microphones in accordance with the provisions of § 90.265. 
+(48) Frequencies in this band will be assigned only for transmitting hydrological or meteorological data or for low power wireless microphones in accordance with the provisions of § 90.265.
 
-(49) This frequency may be assigned only for forest firefighting and conservation activities in accordance with the provisions of § 90.265. 
+(49) This frequency may be assigned only for forest firefighting and conservation activities in accordance with the provisions of § 90.265.
 
-(50)-(51) \[Reserved\] 
+(50)-(51) \[Reserved\]
 
-(52) In addition to agencies responsible for forest fire prevention, detection, and suppression, this frequency may be assigned to conservation agencies which do not have forest fire responsibilities on a secondary basis to any U.S. Government stations, *Provided,* That such assignment is necessary to permit mobile relay operation by such agencies. 
+(52) In addition to agencies responsible for forest fire prevention, detection, and suppression, this frequency may be assigned to conservation agencies which do not have forest fire responsibilities on a secondary basis to any U.S. Government stations, *Provided,* That such assignment is necessary to permit mobile relay operation by such agencies.
 
-(53) This frequency is subject to the provisions of paragraph (e)(6) of this section. 
+(53) This frequency is subject to the provisions of paragraph (e)(6) of this section.
 
-(54) For FM transmitters, the sum of the highest modulating frequency in hertz and the amount of the frequency deviation or swing in hertz may not exceed 1700 Hz and the maximum deviation may not exceed 1.2 kHz. For AM transmitters, the highest modulating frequency may not exceed 1200 Hz. The carrier frequency must be maintained within .0005 percent of the center of the frequency band, and the authorized bandwidth may not exceed 3 kHz. 
+(54) For FM transmitters, the sum of the highest modulating frequency in hertz and the amount of the frequency deviation or swing in hertz may not exceed 1700 Hz and the maximum deviation may not exceed 1.2 kHz. For AM transmitters, the highest modulating frequency may not exceed 1200 Hz. The carrier frequency must be maintained within .0005 percent of the center of the frequency band, and the authorized bandwidth may not exceed 3 kHz.
 
-(55) Subpart T of this part contains rules for assignment of frequencies in the 220-222 MHz band. 
+(55) Subpart T of this part contains rules for assignment of frequencies in the 220-222 MHz band.
 
-(56) The frequencies available for use at fixed stations in this band and the requirements for assignment are set forth in § 90.261. Operation on these frequencies is secondary to stations in the Industrial/Business Pool where they are assigned for land mobile operations. 
+(56) The frequencies available for use at fixed stations in this band and the requirements for assignment are set forth in § 90.261. Operation on these frequencies is secondary to stations in the Industrial/Business Pool where they are assigned for land mobile operations.
 
-(57) This frequency is available for systems first licensed prior to August 18, 1995. No new systems will be authorized after August 18, 1995, but prior authorized systems may be modified, expanded, and renewed. 
+(57) This frequency is available for systems first licensed prior to August 18, 1995. No new systems will be authorized after August 18, 1995, but prior authorized systems may be modified, expanded, and renewed.
 
-(58) This frequency is available for systems first licensed prior to March 31, 1980, for radio call box communications related to safety on highways in accordance with the provisions of § 90.241(c). No new systems will be authorized of this nature, but systems authorized prior to March 31, 1980 may be modified, expanded, and renewed. 
+(58) This frequency is available for systems first licensed prior to March 31, 1980, for radio call box communications related to safety on highways in accordance with the provisions of § 90.241(c). No new systems will be authorized of this nature, but systems authorized prior to March 31, 1980 may be modified, expanded, and renewed.
 
-(59) The continuous carrier mode of operation may be used for telemetry transmission on this frequency. 
+(59) The continuous carrier mode of operation may be used for telemetry transmission on this frequency.
 
-(60) Paging licensees as of March 20, 1991, may continue to operate on a primary basis until January 14, 1998. 
+(60) Paging licensees as of March 20, 1991, may continue to operate on a primary basis until January 14, 1998.
 
-(61) Highway radio call box operations first licensed prior to March 31, 1980 on this frequency may continue to operate in accordance with paragraph (d)(58) of this section. 
+(61) Highway radio call box operations first licensed prior to March 31, 1980 on this frequency may continue to operate in accordance with paragraph (d)(58) of this section.
 
-(62) This frequency is also authorized for use by biomedical telemetry stations. F1B, F1D, F2B, F2D, F3E, G1B, G1D, G2B, G2D, and G3E emissions may be authorized for biomedical transmissions. 
+(62) This frequency is also authorized for use by biomedical telemetry stations. F1B, F1D, F2B, F2D, F3E, G1B, G1D, G2B, G2D, and G3E emissions may be authorized for biomedical transmissions.
 
-(63) Available for medical services mobile operations in the Public Safety Pool in accordance with paragraph (d)(61) of this section. 
+(63) Available for medical services mobile operations in the Public Safety Pool in accordance with paragraph (d)(61) of this section.
 
-(64) Use of this frequency is on a secondary basis, limited to 2 watts output power and subject to the provisions of 90.267(h)(1), (h)(2), (h)(3), and (h)(4). 
+(64) Use of this frequency is on a secondary basis, limited to 2 watts output power and subject to the provisions of 90.267(h)(1), (h)(2), (h)(3), and (h)(4).
 
-(65) This frequency is primarily authorized for use in the dispatch of medical care vehicles and personnel for the rendition or delivery of medical services. This frequency may also be assigned for intra-system and inter-system mutual assistance purposes. For uniformity in usage these frequency pairs may be referred to by channel name as follows: 
+(65) This frequency is primarily authorized for use in the dispatch of medical care vehicles and personnel for the rendition or delivery of medical services. This frequency may also be assigned for intra-system and inter-system mutual assistance purposes. For uniformity in usage these frequency pairs may be referred to by channel name as follows:
 
 | Frequencies base and mobile (megahertz) | Mobile only (MHz) | Channel name |
 | --------------------------------------- | ----------------- | ------------ |
@@ -1787,9 +1787,9 @@ Public Safety Pool Frequency Table
 | 462.9875                                | 467.9875          | MED-102      |
 | 462.99375                               | 467.99375         | MED-103      |
 
-(66) For applications for new radio systems, the thirty-two frequency pairs listed in paragraph (d)(66)(i) of this section will be assigned in a block for shared operation under § 90.20(a)(1)(iii) or § 90.20(a)(2)(xiii) subject to the following: 
+(66) For applications for new radio systems, the thirty-two frequency pairs listed in paragraph (d)(66)(i) of this section will be assigned in a block for shared operation under § 90.20(a)(1)(iii) or § 90.20(a)(2)(xiii) subject to the following:
 
-(i) For uniformity in usage, these frequency pairs may be referred to by channel name as follows: 
+(i) For uniformity in usage, these frequency pairs may be referred to by channel name as follows:
 
 | Frequencies base and mobile (megahertz) | Mobile only (MHz) | Channel name |
 | --------------------------------------- | ----------------- | ------------ |
@@ -1826,99 +1826,99 @@ Public Safety Pool Frequency Table
 | 463.1875                                | 468.1875          | MED-82       |
 | 463.19375                               | 468.19375         | MED-83       |
 
-(ii) Except as provided in paragraphs (d)(66)(iv) and (v) of this section, mobile or portable stations licensed prior to July 6, 2000, must employ equipment that is both wired and equipped to transmit/receive, respectively, on each of the following MED frequency pairs with transmitters operated on the 468 MHz frequencies: MED-1, MED-2, MED-3, MED-4, MED-5, MED-6, MED-7, and MED-8. 
+(ii) Except as provided in paragraphs (d)(66)(iv) and (v) of this section, mobile or portable stations licensed prior to July 6, 2000, must employ equipment that is both wired and equipped to transmit/receive, respectively, on each of the following MED frequency pairs with transmitters operated on the 468 MHz frequencies: MED-1, MED-2, MED-3, MED-4, MED-5, MED-6, MED-7, and MED-8.
 
-(iii) Except as provided in paragraphs (d)(66)(v) and (vi) of this section, mobile or portable stations licensed on or after July 6, 2000, must employ equipment that is both wired and equipped to transmit/receive, respectively, on each of the following MED frequency pairs with transmitters operated on the 468 MHz frequencies: MED-1, MED-12, MED-2, MED-22, MED-3, MED-32, MED-4, MED-42, MED-5, MED-52, MED-6 MED-62, MED-7, MED-72, MED-8, and MED-82. 
+(iii) Except as provided in paragraphs (d)(66)(v) and (vi) of this section, mobile or portable stations licensed on or after July 6, 2000, must employ equipment that is both wired and equipped to transmit/receive, respectively, on each of the following MED frequency pairs with transmitters operated on the 468 MHz frequencies: MED-1, MED-12, MED-2, MED-22, MED-3, MED-32, MED-4, MED-42, MED-5, MED-52, MED-6 MED-62, MED-7, MED-72, MED-8, and MED-82.
 
-(iv) Except as provided in paragraphs (d)(66)(v) and (vi) of this section, mobile or portable stations licensed on or after January 1, 2006, must employ equipment that is both wired and equipped to transmit/receive, respectively, on each of these MED frequency pairs with transmitters operated on the 468 MHz frequencies. 
+(iv) Except as provided in paragraphs (d)(66)(v) and (vi) of this section, mobile or portable stations licensed on or after January 1, 2006, must employ equipment that is both wired and equipped to transmit/receive, respectively, on each of these MED frequency pairs with transmitters operated on the 468 MHz frequencies.
 
-(v) Portable (hand-held) units operated with a maximum output power of 2.5 watts are exempted from the multi-channel equipment requirements specified in paragraphs (d)(66)(ii), (d)(66)(iii), and (d)(66)(iv) of this section. 
+(v) Portable (hand-held) units operated with a maximum output power of 2.5 watts are exempted from the multi-channel equipment requirements specified in paragraphs (d)(66)(ii), (d)(66)(iii), and (d)(66)(iv) of this section.
 
-(vi) Stations located in areas above line A, as defined in § 90.7 will be required to meet multi-channel equipment requirements only for those frequencies up to the number specified in paragraphs (d)(66)(ii), (d)(66)(iii), and (d)(66)(iv) of this section that have been assigned and coordinates with Canada in accordance with the applicable U.S.-Canada agreement. 
+(vi) Stations located in areas above line A, as defined in § 90.7 will be required to meet multi-channel equipment requirements only for those frequencies up to the number specified in paragraphs (d)(66)(ii), (d)(66)(iii), and (d)(66)(iv) of this section that have been assigned and coordinates with Canada in accordance with the applicable U.S.-Canada agreement.
 
-(67) This frequency is authorized for use only for operations in biomedical telemetry stations. F1B, F1D, F2B, F2D, F3E, G1B, G1D, G2B, G2D and G3E emissions may be authorized. Entities eligible in the Public Safety Pool may use this frequency on a secondary basis for any other permissible communications consistent with § 90.20(a)(1)(iii) or § 90.20(a)(2)(xiii). 
+(67) This frequency is authorized for use only for operations in biomedical telemetry stations. F1B, F1D, F2B, F2D, F3E, G1B, G1D, G2B, G2D and G3E emissions may be authorized. Entities eligible in the Public Safety Pool may use this frequency on a secondary basis for any other permissible communications consistent with § 90.20(a)(1)(iii) or § 90.20(a)(2)(xiii).
 
-(68) Subpart L of this part contains rules for assignment of frequencies in the 470-512 MHz band. 
+(68) Subpart L of this part contains rules for assignment of frequencies in the 470-512 MHz band.
 
-(69) Subpart S of this part contains rules for assignment of frequencies in the 806-817 MHz and 851-862 MHz bands. 
+(69) Subpart S of this part contains rules for assignment of frequencies in the 806-817 MHz and 851-862 MHz bands.
 
-(70) Assignment of frequencies above 928 MHz for operational-fixed stations is governed by part 101 of this chapter. 
+(70) Assignment of frequencies above 928 MHz for operational-fixed stations is governed by part 101 of this chapter.
 
-(71) Frequencies in this band are available only for one-way paging operations in accordance with § 90.494. 
+(71) Frequencies in this band are available only for one-way paging operations in accordance with § 90.494.
 
-(72) This frequency band is available to stations in this service subject to the provisions of § 90.259. 
+(72) This frequency band is available to stations in this service subject to the provisions of § 90.259.
 
-(73) Available only on a shared basis with stations in other services, and subject to no protection from interference due to the operation of industrial, scientific, or medical (ISM) devices. In the band 2483.5-2500 MHz, no applications for new stations or modification to existing stations to increase the number of transmitters will be accepted. Existing licensees as of July 25, 1985, and licensees whose initial applications were filed on or before July 25, 1985, are grandfathered and their operations are on a co-primary basis with the mobile-satellite and radiodetermination-satellite services, and in the segment 2495-2500 MHz, their operations are also on a co-primary basis with part 27 fixed and mobile except aeronautical mobile service operations. 
+(73) Available only on a shared basis with stations in other services, and subject to no protection from interference due to the operation of industrial, scientific, or medical (ISM) devices. In the band 2483.5-2500 MHz, no applications for new stations or modification to existing stations to increase the number of transmitters will be accepted. Existing licensees as of July 25, 1985, and licensees whose initial applications were filed on or before July 25, 1985, are grandfathered and their operations are on a co-primary basis with the mobile-satellite and radiodetermination-satellite services, and in the segment 2495-2500 MHz, their operations are also on a co-primary basis with part 27 fixed and mobile except aeronautical mobile service operations.
 
-(74) This band is available for Digital Termination Systems and for associated internodal links in the Point-to-Point Microwave Radio Service. No new licenses will be issued under this subpart but current licenses will be renewed. 
+(74) This band is available for Digital Termination Systems and for associated internodal links in the Point-to-Point Microwave Radio Service. No new licenses will be issued under this subpart but current licenses will be renewed.
 
-(75) Appropriate frequencies in the band 2000-3000 kHz which are designated in part 80 of this chapter as available to Public Ship Stations for telephone communications with Public Coast Stations may be assigned on a secondary basis to fixed Stations in the Public Safety Pool for communication with Public Coast Stations only, provided such stations are located in the United States and the following conditions are met: 
+(75) Appropriate frequencies in the band 2000-3000 kHz which are designated in part 80 of this chapter as available to Public Ship Stations for telephone communications with Public Coast Stations may be assigned on a secondary basis to fixed Stations in the Public Safety Pool for communication with Public Coast Stations only, provided such stations are located in the United States and the following conditions are met:
 
-(i) That such fixed station is established pursuant to the eligibility provisions of (§ 90.47) and that the isolated area involved is an island or other location not more than 480 km (300 statute miles) removed from the desired; 
+(i) That such fixed station is established pursuant to the eligibility provisions of (§ 90.47) and that the isolated area involved is an island or other location not more than 480 km (300 statute miles) removed from the desired;
 
-(ii) That evidence is submitted showing that an arrangement has been made with the coast station licensee for the handling of emergency communications permitted by § 80.453 of this chapter and § 90.20(a)(2)(x)(C); and 
+(ii) That evidence is submitted showing that an arrangement has been made with the coast station licensee for the handling of emergency communications permitted by § 80.453 of this chapter and § 90.20(a)(2)(x)(C); and
 
-(iii) That operation of the Public Safety fixed station shall at no time conflict with any provision of part 80 of this chapter and further, that such operation in general shall conform to the practices employed by Public Ship Stations for radiotelephone communication with the same Public Coast Station. 
+(iii) That operation of the Public Safety fixed station shall at no time conflict with any provision of part 80 of this chapter and further, that such operation in general shall conform to the practices employed by Public Ship Stations for radiotelephone communication with the same Public Coast Station.
 
-(76) This frequency is authorized only for communications between medical facilities vehicles and personnel related to medical supervision and instruction for the treatment and transport of patients in the rendition or delivery of medical services. F1B, F1D, F2B, F2D, G1B, G1D, G2B, F3E and G3E emissions are authorized. Public Safety entities may use this frequency on a secondary basis for any other permissible communications consistent with § 90.20(a)(1)(iii) or § 90.20(a)(2)(xiii). 
+(76) This frequency is authorized only for communications between medical facilities vehicles and personnel related to medical supervision and instruction for the treatment and transport of patients in the rendition or delivery of medical services. F1B, F1D, F2B, F2D, G1B, G1D, G2B, F3E and G3E emissions are authorized. Public Safety entities may use this frequency on a secondary basis for any other permissible communications consistent with § 90.20(a)(1)(iii) or § 90.20(a)(2)(xiii).
 
-(77) Subpart R of this part contains rules for assignment of channels in the 758-775 MHz and 788-805 MHz bands. 
+(77) Subpart R of this part contains rules for assignment of channels in the 758-775 MHz and 788-805 MHz bands.
 
-(78) Paging operations are not permitted on this frequency. 
+(78) Paging operations are not permitted on this frequency.
 
-(79) This frequency will be secondary to marine port operations within 161 km (100 miles) of Los Angeles, Calif. (coordinates 34°03′15″ N and 118°14′28″ W). 
+(79) This frequency will be secondary to marine port operations within 161 km (100 miles) of Los Angeles, Calif. (coordinates 34°03′15″ N and 118°14′28″ W).
 
-(80) After December 7, 2000 this frequency is available primarily for public safety interoperability only communications. Stations licensed prior to December 7, 2000 may continue to use this frequency on a co-primary basis until January 1, 2005. After January 1, 2005, all operations will be secondary to co-channel interoperability communications. Analog FM emission shall exclusively be used for operation on the VHF and UHF interoperability channels. 
+(80) After December 7, 2000 this frequency is available primarily for public safety interoperability only communications. Stations licensed prior to December 7, 2000 may continue to use this frequency on a co-primary basis until January 1, 2005. After January 1, 2005, all operations will be secondary to co-channel interoperability communications. Analog FM emission shall exclusively be used for operation on the VHF and UHF interoperability channels.
 
-(81) After December 7, 2000 new stations will only be licensed with an authorized bandwidth not to exceed 1125 kHz. Licensees authorized prior to December 7, 2000 may continue to use bandwidths wider that 1125 kHz on a co-primary basis until January 1, 2005. After January 1, 2005, all stations operating with an authorized bandwidth greater than 11.25 kHz will be secondary to adjacent channel interoperability operations. 
+(81) After December 7, 2000 new stations will only be licensed with an authorized bandwidth not to exceed 1125 kHz. Licensees authorized prior to December 7, 2000 may continue to use bandwidths wider that 1125 kHz on a co-primary basis until January 1, 2005. After January 1, 2005, all stations operating with an authorized bandwidth greater than 11.25 kHz will be secondary to adjacent channel interoperability operations.
 
-(82) This frequency is reserved for assignment only in support of, and on a secondary basis to, nationwide interoperability use. 
+(82) This frequency is reserved for assignment only in support of, and on a secondary basis to, nationwide interoperability use.
 
-(83) This interoperability frequency is dedicated for the express purpose of nationwide interoperability calling. 
+(83) This interoperability frequency is dedicated for the express purpose of nationwide interoperability calling.
 
-(84) Operation on this frequency is subject to the low power provisions of § 90.267. This frequency is assigned to the Public Safety Group in the low power pool. 
+(84) Operation on this frequency is subject to the low power provisions of § 90.267. This frequency is assigned to the Public Safety Group in the low power pool.
 
-(85) Subpart Y of this part contains rules for assignment of frequencies in the 4940-4990 MHz band. 
+(85) Subpart Y of this part contains rules for assignment of frequencies in the 4940-4990 MHz band.
 
-(86) Subpart M of this part contains rules for assignment of frequencies in the 5895-5925 MHz band. 
+(86) Subpart M of this part contains rules for assignment of frequencies in the 5895-5925 MHz band.
 
-(87) The use the frequencies 150.775 MHz and 150.790 MHz are limited to a transmitter output power of 100 watts Effective Radiated Power (ERP) as of May 27, 2005. 
+(87) The use the frequencies 150.775 MHz and 150.790 MHz are limited to a transmitter output power of 100 watts Effective Radiated Power (ERP) as of May 27, 2005.
 
-(88) Use of this frequency is limited to stations licensed as of May 27, 2005. 
+(88) Use of this frequency is limited to stations licensed as of May 27, 2005.
 
-(89) As of March 25, 2007, the FCC will cease to issue licenses for new stations in the fixed and mobile services in the following bands: 5900-5950 kHz, 7300-7350 kHz and 9400-9500 kHz. As of March 29, 2009, the FCC will cease to issue licenses for new stations in the fixed and mobile services in the band 7350-7400 kHz and, in the U.S. Pacific insular areas in Region 3, the band 7400-7450 kHz. Stations licensed as of March 25, 2007 in the bands 5900-5950 kHz, 7300-7350 kHz and 9400-9500 kHz and as of March 29, 2009 for the band 7350-7400 kHz in Region 2 and the band 7350-7450 kHz in Region 3 shall: 
+(89) As of March 25, 2007, the FCC will cease to issue licenses for new stations in the fixed and mobile services in the following bands: 5900-5950 kHz, 7300-7350 kHz and 9400-9500 kHz. As of March 29, 2009, the FCC will cease to issue licenses for new stations in the fixed and mobile services in the band 7350-7400 kHz and, in the U.S. Pacific insular areas in Region 3, the band 7400-7450 kHz. Stations licensed as of March 25, 2007 in the bands 5900-5950 kHz, 7300-7350 kHz and 9400-9500 kHz and as of March 29, 2009 for the band 7350-7400 kHz in Region 2 and the band 7350-7450 kHz in Region 3 shall:
 
-(1) Be limited to communications only within the United States and its insular areas; 
+(1) Be limited to communications only within the United States and its insular areas;
 
-(2) Not cause harmful interference to the broadcasting service; 
+(2) Not cause harmful interference to the broadcasting service;
 
-(3) Be limited to the minimum power needed to achieve communications; and 
+(3) Be limited to the minimum power needed to achieve communications; and
 
 (4) Take account of the seasonal use of frequencies by the broadcasting service published in accordance with Article 12 of the ITU *Radio Regulations.*
 
-(90) The maximum effective radiated power (ERP) may not exceed 2 watts for mobile stations, and 5 watts for mobile repeater stations and hand-carried transmitters that communicate directly with mobile repeater stations. 
+(90) The maximum effective radiated power (ERP) may not exceed 2 watts for mobile stations, and 5 watts for mobile repeater stations and hand-carried transmitters that communicate directly with mobile repeater stations.
 
-(91) This frequency is available on a shared basis both for remote control and telemetry operations and for mobile repeater operations. The authorized bandwidth may not exceed 11.25 kHz. 
+(91) This frequency is available on a shared basis both for remote control and telemetry operations and for mobile repeater operations. The authorized bandwidth may not exceed 11.25 kHz.
 
-(92) This frequency is available on a shared basis with the Industrial/Business Pool for remote control and telemetry operations. Licensees seeking primary status for the use of this frequency for mobile repeater stations and hand-carried transmitters that communicate directly with mobile repeater stations must describe the area of normal day-to-day operations either in terms of operation in a specific county or in the terms of maximum distance from a geographic center (latitude and longitude) and shall be subject to the frequency coordination requirements of § 90.175. 
+(92) This frequency is available on a shared basis with the Industrial/Business Pool for remote control and telemetry operations. Licensees seeking primary status for the use of this frequency for mobile repeater stations and hand-carried transmitters that communicate directly with mobile repeater stations must describe the area of normal day-to-day operations either in terms of operation in a specific county or in the terms of maximum distance from a geographic center (latitude and longitude) and shall be subject to the frequency coordination requirements of § 90.175.
 
-(93) Mobile repeaters operating on this frequency are subject to a channel loading requirement of 50 transmitter-receivers. Loading standards will be applied in terms of the number of units actually in use or to be placed in use within 8 months following authorization. A licensee will be required to show that an assigned frequency is at full capacity before it may be assigned a second or additional frequency. Channel capacity may be reached either by the requirements of a single licensee or by several users sharing a channel. Until a channel is loaded to capacity it will be available for assignment to other users in the same area. 
+(93) Mobile repeaters operating on this frequency are subject to a channel loading requirement of 50 transmitter-receivers. Loading standards will be applied in terms of the number of units actually in use or to be placed in use within 8 months following authorization. A licensee will be required to show that an assigned frequency is at full capacity before it may be assigned a second or additional frequency. Channel capacity may be reached either by the requirements of a single licensee or by several users sharing a channel. Until a channel is loaded to capacity it will be available for assignment to other users in the same area.
 
-(e) *Additional frequencies available.* In addition to the frequencies shown in the frequency table of this section, the following frequencies are available in this service. (See also § 90.253.) 
+(e) *Additional frequencies available.* In addition to the frequencies shown in the frequency table of this section, the following frequencies are available in this service. (See also § 90.253.)
 
-(1) Substitution of frequencies available below 25 MHz may be made in accordance with the provisions of § 90.263. 
+(1) Substitution of frequencies available below 25 MHz may be made in accordance with the provisions of § 90.263.
 
-(2) Frequencies in the band 73.0-74.6 MHz may be assigned to stations authorized their use on or before December 1, 1961, but no new stations will be authorized in this band, nor will expansion of existing systems be permitted. See also § 90.257. 
+(2) Frequencies in the band 73.0-74.6 MHz may be assigned to stations authorized their use on or before December 1, 1961, but no new stations will be authorized in this band, nor will expansion of existing systems be permitted. See also § 90.257.
 
-(3) \[Reserved\] 
+(3) \[Reserved\]
 
-(4) Frequencies in the 421-430 MHz band are available in the Detroit, Mich., Cleveland, Ohio and Buffalo, N.Y. areas in accordance with the rules in §§ 90.273 through 90.281. 
+(4) Frequencies in the 421-430 MHz band are available in the Detroit, Mich., Cleveland, Ohio and Buffalo, N.Y. areas in accordance with the rules in §§ 90.273 through 90.281.
 
-(5) A Police licensee may use transmitters on the frequencies indicated below in connection with official police activities without specific authorization from the Commission, provided that such use shall be on a secondary basis and shall not cause harmful interference to services of other licensees operating on regularly assigned frequencies, and further provided that all such use complies with the requirements of Federal, State and local laws. The provisions of § 90.429 shall not apply to transmitters authorized under this paragraph. To be eligible for operations in this manner, the transmitter must comply with all of the following requirements. 
+(5) A Police licensee may use transmitters on the frequencies indicated below in connection with official police activities without specific authorization from the Commission, provided that such use shall be on a secondary basis and shall not cause harmful interference to services of other licensees operating on regularly assigned frequencies, and further provided that all such use complies with the requirements of Federal, State and local laws. The provisions of § 90.429 shall not apply to transmitters authorized under this paragraph. To be eligible for operations in this manner, the transmitter must comply with all of the following requirements.
 
-(i) In accordance with §§ 90.203 and 2.803 of this chapter, the transmitter must be of a type which has been certificated by the Commission. 
+(i) In accordance with §§ 90.203 and 2.803 of this chapter, the transmitter must be of a type which has been certificated by the Commission.
 
-(ii) The carrier frequency shall be within the bands listed below and must be maintained within 0.005 percent of the frequency of operation. Use on assigned channel center frequencies is not required. 
+(ii) The carrier frequency shall be within the bands listed below and must be maintained within 0.005 percent of the frequency of operation. Use on assigned channel center frequencies is not required.
 
 *   30.85-30.87 MHz
 *   30.89-30.91 MHz
@@ -1976,67 +1976,67 @@ Public Safety Pool Frequency Table
 *   465.5625-465.6375 MHz
 *   467.9375-467.9875 MHz
 
-(iii) The emitted signal shall be non-voice modulation (type PO emission). 
+(iii) The emitted signal shall be non-voice modulation (type PO emission).
 
-(iv) The maximum occupied bandwidth, containing 99 percent of the radiated power, shall not exceed 2.0 kHz. 
+(iv) The maximum occupied bandwidth, containing 99 percent of the radiated power, shall not exceed 2.0 kHz.
 
-(v) The transmitter output power shall not exceed a mean power of 30 mW nor shall any peak exceed 1 watt peak power, as measured into a 50 ohm resistive load. Should the transmitter be supplied with a permanently attached antenna or should the transmitter and antenna combination be contained in a sealed unit, the following standard may be used in lieu of the above: the field strength of the fundamental signal of the transmitter and antenna combination shall not exceed 0.4 V/m mean or 2.3 V/m peak when measured at a distance of 3 meters. 
+(v) The transmitter output power shall not exceed a mean power of 30 mW nor shall any peak exceed 1 watt peak power, as measured into a 50 ohm resistive load. Should the transmitter be supplied with a permanently attached antenna or should the transmitter and antenna combination be contained in a sealed unit, the following standard may be used in lieu of the above: the field strength of the fundamental signal of the transmitter and antenna combination shall not exceed 0.4 V/m mean or 2.3 V/m peak when measured at a distance of 3 meters.
 
-(vi) The transmitter shall contain positive means to limit the transmission time to no more than 10 days. In the event of a malfunction of this positive means, the transmitter signal shall cease. The use of battery life to accomplish the transmission time limitation is permissible. 
+(vi) The transmitter shall contain positive means to limit the transmission time to no more than 10 days. In the event of a malfunction of this positive means, the transmitter signal shall cease. The use of battery life to accomplish the transmission time limitation is permissible.
 
-(6) The frequency 173.075 MHz is available for stolen vehicle recovery systems on a shared basis with Federal stations in the fixed and mobile services. 
+(6) The frequency 173.075 MHz is available for stolen vehicle recovery systems on a shared basis with Federal stations in the fixed and mobile services.
 
-(i) Stolen vehicle recovery systems are limited to tracking and recovering vehicles, cargo, and hazardous materials that have been reported stolen or missing; missing or wanted persons; and individuals at risk, or individuals of interest to law enforcement, only when established boundaries are violated. Stolen vehicle recovery systems are not authorized for general purpose tracking or monitoring. Mobile units may also transmit automatic collision notifications, vehicle fire notifications, and carjacking alerts. 
+(i) Stolen vehicle recovery systems are limited to tracking and recovering vehicles, cargo, and hazardous materials that have been reported stolen or missing; missing or wanted persons; and individuals at risk, or individuals of interest to law enforcement, only when established boundaries are violated. Stolen vehicle recovery systems are not authorized for general purpose tracking or monitoring. Mobile units may also transmit automatic collision notifications, vehicle fire notifications, and carjacking alerts.
 
-(ii) Any type of emission may be used within a maximum authorized bandwidth of 12.5 kHz, except that stations that operate as part of a stolen vehicle recovery system that was authorized and in operation prior to May 27, 2005 may operate with a maximum authorized bandwidth of 20 kHz until May 27, 2019. For a complete listing of emission symbols allowable under this part, see § 2.201 of this chapter. 
+(ii) Any type of emission may be used within a maximum authorized bandwidth of 12.5 kHz, except that stations that operate as part of a stolen vehicle recovery system that was authorized and in operation prior to May 27, 2005 may operate with a maximum authorized bandwidth of 20 kHz until May 27, 2019. For a complete listing of emission symbols allowable under this part, see § 2.201 of this chapter.
 
-(iii) Mobile transmitters operating on this frequency with emissions authorized in a maximum bandwidth of 12.5 kHz are limited to 5.0 watts power output. Mobile transmitters operating on this frequency with emissions authorized in a maximum bandwidth of 20 kHz are limited to 2.5 watts power output. 
+(iii) Mobile transmitters operating on this frequency with emissions authorized in a maximum bandwidth of 12.5 kHz are limited to 5.0 watts power output. Mobile transmitters operating on this frequency with emissions authorized in a maximum bandwidth of 20 kHz are limited to 2.5 watts power output.
 
-(iv) Base station transmitters operating on this frequency with emissions authorized in a maximum bandwidth of 12.5 kHz are limited to 300 watts ERP before February 18, 2009, and 500 watts ERP thereafter. Base station transmitters operating on this frequency with emissions authorized in a maximum bandwidth of 20 kHz are limited to 300 watts ERP. 
+(iv) Base station transmitters operating on this frequency with emissions authorized in a maximum bandwidth of 12.5 kHz are limited to 300 watts ERP before February 18, 2009, and 500 watts ERP thereafter. Base station transmitters operating on this frequency with emissions authorized in a maximum bandwidth of 20 kHz are limited to 300 watts ERP.
 
-(v) Transmissions from mobiles shall be limited to 400 milliseconds for every 10 seconds, except when a vehicle is being tracked actively transmissions are limited to 400 milliseconds for every second. Alternatively, transmissions from mobiles shall be limited to 7200 milliseconds for every 300 seconds with a maximum of six such messages in any 30 minute period. 
+(v) Transmissions from mobiles shall be limited to 400 milliseconds for every 10 seconds, except when a vehicle is being tracked actively transmissions are limited to 400 milliseconds for every second. Alternatively, transmissions from mobiles shall be limited to 7200 milliseconds for every 300 seconds with a maximum of six such messages in any 30 minute period.
 
-(vi) Transmissions from base stations shall be limited to a total rate of five seconds every minute. 
+(vi) Transmissions from base stations shall be limited to a total rate of five seconds every minute.
 
-(vii) Any entity eligible to hold authorizations in the Public Safety Pool in accordance with §§ 90.20(a) and 90.111 of this chapter is authorized by this rule to operate mobile transmitters on this frequency. No license will be issued for mobile transmitters. 
+(vii) Any entity eligible to hold authorizations in the Public Safety Pool in accordance with §§ 90.20(a) and 90.111 of this chapter is authorized by this rule to operate mobile transmitters on this frequency. No license will be issued for mobile transmitters.
 
-(viii) Applications for base stations operating on this frequency shall require coordination with the Federal Government. Applicants shall perform an analysis for each base station that is located within 169 km (105 miles) of a TV Channel 7 transmitter of potential interference to TV Channel 7 viewers. Applicants shall serve a copy of the analysis to the licensee of the affected TV Channel 7 transmitter upon filing the application with the Commission. Such base stations will be authorized if the applicant has limited the interference contour to include fewer than 100 residences or if the applicant: 
+(viii) Applications for base stations operating on this frequency shall require coordination with the Federal Government. Applicants shall perform an analysis for each base station that is located within 169 km (105 miles) of a TV Channel 7 transmitter of potential interference to TV Channel 7 viewers. Applicants shall serve a copy of the analysis to the licensee of the affected TV Channel 7 transmitter upon filing the application with the Commission. Such base stations will be authorized if the applicant has limited the interference contour to include fewer than 100 residences or if the applicant:
 
-(A) Shows that the proposed site is the only suitable location (which, at the application stage, requires a showing that the proposed site is especially well-suited to provide the proposed service); 
+(A) Shows that the proposed site is the only suitable location (which, at the application stage, requires a showing that the proposed site is especially well-suited to provide the proposed service);
 
-(B) Develops a plan to control any interference caused to TV reception from operations; and 
+(B) Develops a plan to control any interference caused to TV reception from operations; and
 
-(C) Agrees to make such adjustments in the TV receivers affected as may be necessary to eliminate interference caused by its operations. 
+(C) Agrees to make such adjustments in the TV receivers affected as may be necessary to eliminate interference caused by its operations.
 
-(ix) The licensee must eliminate any interference caused by its operation to TV Channel 7 reception within 30 days after notification in writing by the Commission. If this interference is not removed within this 30-day period, operation of the base station must be discontinued. The licensee is expected to help resolve all complaints of interference. 
+(ix) The licensee must eliminate any interference caused by its operation to TV Channel 7 reception within 30 days after notification in writing by the Commission. If this interference is not removed within this 30-day period, operation of the base station must be discontinued. The licensee is expected to help resolve all complaints of interference.
 
-(7) Frequencies governed by § 90.35(c)(17). 
+(7) Frequencies governed by § 90.35(c)(17).
 
-(f) *Limitation on number of frequencies assignable.* Normally only two frequencies or pairs of frequencies in the paired frequency mode of operation will be assigned for mobile service operations by a single applicant in a given area. The assignment of an additional frequency or pair of frequencies will be made only upon a satisfactory showing of need, except that: 
+(f) *Limitation on number of frequencies assignable.* Normally only two frequencies or pairs of frequencies in the paired frequency mode of operation will be assigned for mobile service operations by a single applicant in a given area. The assignment of an additional frequency or pair of frequencies will be made only upon a satisfactory showing of need, except that:
 
-(1) Additional frequencies above 25 MHz may be assigned in connection with the operation of mobile repeaters in accordance with § 90.247 notwithstanding this limitation; 
+(1) Additional frequencies above 25 MHz may be assigned in connection with the operation of mobile repeaters in accordance with § 90.247 notwithstanding this limitation;
 
-(2) The frequency 39.06 MHz may be assigned notwithstanding this limitation; 
+(2) The frequency 39.06 MHz may be assigned notwithstanding this limitation;
 
-(3) Frequencies in the 25-50 MHz, 150-170 MHz, 450-512 MHz and 902-928 MHz bands may be assigned for the operation of Location and Monitoring Service (LMS) systems in accordance with the provisions of subpart M of this part, notwithstanding this limitation; 
+(3) Frequencies in the 25-50 MHz, 150-170 MHz, 450-512 MHz and 902-928 MHz bands may be assigned for the operation of Location and Monitoring Service (LMS) systems in accordance with the provisions of subpart M of this part, notwithstanding this limitation;
 
-(4) A licensee of a radio station in this service may operate radio units for the purpose of determining distance, direction, speed, or position by means of a radiolocation device on any frequency available for radiolocation purposes without additional authorization from the Commission, provided type accepted equipment or equipment authorized pursuant to § 90.203(b)(4) and (b)(5) of this part is used, and all other rule provisions are satisfied. A licensee in this service may also operate, subject to all of the foregoing conditions and on a secondary basis, radio units at fixed locations and in emergency vehicles that transmit on the frequency 24.10 GHz, both unmodulated continuous wave radio signals and modulated FM digital signals for the purpose of alerting motorists to hazardous driving conditions or the presence of an emergency vehicle. Unattended and continuous operation of such transmitters will be permitted. 
+(4) A licensee of a radio station in this service may operate radio units for the purpose of determining distance, direction, speed, or position by means of a radiolocation device on any frequency available for radiolocation purposes without additional authorization from the Commission, provided type accepted equipment or equipment authorized pursuant to § 90.203(b)(4) and (b)(5) of this part is used, and all other rule provisions are satisfied. A licensee in this service may also operate, subject to all of the foregoing conditions and on a secondary basis, radio units at fixed locations and in emergency vehicles that transmit on the frequency 24.10 GHz, both unmodulated continuous wave radio signals and modulated FM digital signals for the purpose of alerting motorists to hazardous driving conditions or the presence of an emergency vehicle. Unattended and continuous operation of such transmitters will be permitted.
 
-(5) A Police licensee may use, without special authorization from the Commission, any mobile service frequency between 40 and 952 MHz, listed in paragraph (c)(3) of this section, for communications in connection with physical surveillance, stakeouts, raids, and other such activities. Such use shall be on a secondary basis to operations of licensees regularly authorized on the assigned frequencies. The maximum output power that may be used for such communications is 2 watts. Transmitters, operating under this provision of the rules, shall be exempted from the station identification requirements of § 90.425. Use of frequencies not designated by a “PP” in the coordinator column of the frequency table in paragraph (c)(3) of this section, is conditional on the approval of the coordinator corresponding to each frequency. Spread spectrum transmitters may be operated on Public Safety Pool frequencies between 37 and 952 MHz, providing that they are certificated by the Commission under the provisions of § 2.803 of this chapter and § 90.203, and meet the following conditions: 
+(5) A Police licensee may use, without special authorization from the Commission, any mobile service frequency between 40 and 952 MHz, listed in paragraph (c)(3) of this section, for communications in connection with physical surveillance, stakeouts, raids, and other such activities. Such use shall be on a secondary basis to operations of licensees regularly authorized on the assigned frequencies. The maximum output power that may be used for such communications is 2 watts. Transmitters, operating under this provision of the rules, shall be exempted from the station identification requirements of § 90.425. Use of frequencies not designated by a “PP” in the coordinator column of the frequency table in paragraph (c)(3) of this section, is conditional on the approval of the coordinator corresponding to each frequency. Spread spectrum transmitters may be operated on Public Safety Pool frequencies between 37 and 952 MHz, providing that they are certificated by the Commission under the provisions of § 2.803 of this chapter and § 90.203, and meet the following conditions:
 
-(i) Frequency hopping transmitters can be operated, with a maximum output power of 2 watts, on any Public Safety Pool frequency between 37 and 952 MHz listed in paragraph (c)(3) of this section. At least 20 hopping frequencies shall be used and the average time of occupancy on any frequency shall not be greater than 1/10 second in every 2 seconds; 
+(i) Frequency hopping transmitters can be operated, with a maximum output power of 2 watts, on any Public Safety Pool frequency between 37 and 952 MHz listed in paragraph (c)(3) of this section. At least 20 hopping frequencies shall be used and the average time of occupancy on any frequency shall not be greater than 1/10 second in every 2 seconds;
 
-(ii) Use of spread spectrum transmitters under paragraph (f)(4) of this section is subject to approval by the applicable frequency coordinator of the radio services of the district in which the license and equipment are to be used; and 
+(ii) Use of spread spectrum transmitters under paragraph (f)(4) of this section is subject to approval by the applicable frequency coordinator of the radio services of the district in which the license and equipment are to be used; and
 
-(iii) The use of direct sequence spread spectrum equipment is also permitted. Equipment must meet the technical standards of § 15.247 of this chapter. 
+(iii) The use of direct sequence spread spectrum equipment is also permitted. Equipment must meet the technical standards of § 15.247 of this chapter.
 
-(6) In addition to the frequencies assigned for mobile service operation, one base station frequency above 152 MHz may be assigned as a common frequency to all licensees in a particular area to permit intersystem communication between base stations or mobile stations or both. This frequency use will not be authorized in any area where all available frequencies are required for independent systems. 
+(6) In addition to the frequencies assigned for mobile service operation, one base station frequency above 152 MHz may be assigned as a common frequency to all licensees in a particular area to permit intersystem communication between base stations or mobile stations or both. This frequency use will not be authorized in any area where all available frequencies are required for independent systems.
 
-(7) A licensee may use, without a specific authorization from the Commission, transmitters on the frequencies indicated below in connection with wildlife tracking and/or telemetry and in connection with official forestry-conservation activities, provided that such use shall be on a secondary basis and shall not cause harmful interference to services of other licensees operating on regularly assigned frequencies. The provisions of §§ 90.203, 90.425, and 90.429 shall not apply to transmitters complying with this paragraph. To be eligible for operations in this manner, the transmitter must comply with all of the following requirements. 
+(7) A licensee may use, without a specific authorization from the Commission, transmitters on the frequencies indicated below in connection with wildlife tracking and/or telemetry and in connection with official forestry-conservation activities, provided that such use shall be on a secondary basis and shall not cause harmful interference to services of other licensees operating on regularly assigned frequencies. The provisions of §§ 90.203, 90.425, and 90.429 shall not apply to transmitters complying with this paragraph. To be eligible for operations in this manner, the transmitter must comply with all of the following requirements.
 
-(i) The carrier frequency shall be within the bands listed below. The carrier frequency must be maintained within 0.005 percent of the frequency of operation. 
+(i) The carrier frequency shall be within the bands listed below. The carrier frequency must be maintained within 0.005 percent of the frequency of operation.
 
-Use on assigned channel center frequencies is not required. 
+Use on assigned channel center frequencies is not required.
 
 (MHz) 
 *   31.17 to 31.19
@@ -2074,47 +2074,47 @@ Use on assigned channel center frequencies is not required.
 *   151.145 to 151.475
 *   159.225 to 159.465
 
-(ii) The emitted signal shall be non-voice modulation (A1D, A2D, F1D, or F2D emission). 
+(ii) The emitted signal shall be non-voice modulation (A1D, A2D, F1D, or F2D emission).
 
-(iii) The maximum occupied bandwidth, containing 99 percent of the radiated power, shall not exceed 0.25 kHz. 
+(iii) The maximum occupied bandwidth, containing 99 percent of the radiated power, shall not exceed 0.25 kHz.
 
-(iv) The transmitter output power shall not exceed a mean power of 5 mW nor shall any peak exceed 100 mW peak power, as measured into a permanently attached antenna; or if the transmitter and antenna combination are contained in a sealed unit, the field strength of the fundamental signal of the transmitter and antenna combination shall not exceed 0.29 V/m mean or 1.28 V/m peak when measured at a distance of 3 meters. 
+(iv) The transmitter output power shall not exceed a mean power of 5 mW nor shall any peak exceed 100 mW peak power, as measured into a permanently attached antenna; or if the transmitter and antenna combination are contained in a sealed unit, the field strength of the fundamental signal of the transmitter and antenna combination shall not exceed 0.29 V/m mean or 1.28 V/m peak when measured at a distance of 3 meters.
 
-(v) The requirements of § 90.175 regarding frequency coordination apply. 
+(v) The requirements of § 90.175 regarding frequency coordination apply.
 
-(8) An additional frequency may be assigned for paging operations from those frequencies available under paragraph (d)(13) of this section. 
+(8) An additional frequency may be assigned for paging operations from those frequencies available under paragraph (d)(13) of this section.
 
-(9) The frequency 155.340 MHz may be assigned as an additional frequency when it is designated as a mutual assistance frequency as provided in paragraph (d)(40) of this section. 
+(9) The frequency 155.340 MHz may be assigned as an additional frequency when it is designated as a mutual assistance frequency as provided in paragraph (d)(40) of this section.
 
-(10) Additional frequencies may be assigned for fixed station operations. 
+(10) Additional frequencies may be assigned for fixed station operations.
 
-(11) The assignment of an additional frequency or frequencies may be authorized notwithstanding this limitation for common, intra-county, intra-fire-district, or intrastate fire coordination operations. The frequency or frequencies requested must be in accordance with a frequency utilization plan, for the area involved, on file with the Commission. 
+(11) The assignment of an additional frequency or frequencies may be authorized notwithstanding this limitation for common, intra-county, intra-fire-district, or intrastate fire coordination operations. The frequency or frequencies requested must be in accordance with a frequency utilization plan, for the area involved, on file with the Commission.
 
-(g) *Former public correspondence working channel in the maritime VHF (156-162 MHz) band allocated for public safety use in 33 inland Economic Areas.* (1) We define service areas in the marine VHF (156-162 MHz) band by forty-two geographic areas called VHF Public Coast Service Areas (VPCSAs). See § 80.371(c)(1)(ii) of this chapter (Public correspondence frequencies). VPCSAs are based on, and composed of one or more of, the U.S. Department of Commerce's 172 Economic Areas (EAs). See 60 Fed Reg. 13114 (Mar. 10, 1995). Maps of the EAs and VPCSAs are available for inspection through the Federal Communications Commission's Reference Information Center. These maps and data are also available on the FCC website at *https://www.fcc.gov/oet/info/maps/areas/.* We number public correspondence channels in the maritime VHF (156-162 MHz) band as channels 24 to 28 and channels 84 to 88. Each channel number represents a channel pair. See § 80.371(c) of this chapter. 
+(g) *Former public correspondence working channel in the maritime VHF (156-162 MHz) band allocated for public safety use in 33 inland Economic Areas.* (1) We define service areas in the marine VHF (156-162 MHz) band by forty-two geographic areas called VHF Public Coast Service Areas (VPCSAs). See § 80.371(c)(1)(ii) of this chapter (Public correspondence frequencies). VPCSAs are based on, and composed of one or more of, the U.S. Department of Commerce's 172 Economic Areas (EAs). See 60 Fed Reg. 13114 (Mar. 10, 1995). Maps of the EAs and VPCSAs are available for inspection through the Federal Communications Commission's Reference Information Center. These maps and data are also available on the FCC website at *https://www.fcc.gov/oet/info/maps/areas/.* We number public correspondence channels in the maritime VHF (156-162 MHz) band as channels 24 to 28 and channels 84 to 88. Each channel number represents a channel pair. See § 80.371(c) of this chapter.
 
-(2) In VHF Public Coast Service Areas (VPCSAs) 10-42, the duplex channel pair 157.250 MHz/161.850 MHz (VHF Maritime Channel 25) is allocated for public safety use by entities eligible for licensing under paragraph (a) of this section, and is designated primarily for the purpose of interoperability communications. *See* 47 CFR 80.371(c)(1)(ii) for the definitions of VPCSAs. 
+(2) In VHF Public Coast Service Areas (VPCSAs) 10-42, the duplex channel pair 157.250 MHz/161.850 MHz (VHF Maritime Channel 25) is allocated for public safety use by entities eligible for licensing under paragraph (a) of this section, and is designated primarily for the purpose of interoperability communications. *See* 47 CFR 80.371(c)(1)(ii) for the definitions of VPCSAs.
 
-(i) The channel pair 157.250 MHz/161.850 MHz was formerly allocated and assigned (under § 80.371(c) (1997) of this chapter) as a public correspondence working channel in the maritime VHF 156-162 MHz band, and was also shared (under former § 90.283 (1997) of this chapter) with private land mobile stations, including grandfathered public safety licensees. Thus, there are grandfathered licensees nationwide (maritime and private land mobile radio stations, including by rule waiver) operating on this channel both inside and outside of VPCSAs 10-42. 
+(i) The channel pair 157.250 MHz/161.850 MHz was formerly allocated and assigned (under § 80.371(c) (1997) of this chapter) as a public correspondence working channel in the maritime VHF 156-162 MHz band, and was also shared (under former § 90.283 (1997) of this chapter) with private land mobile stations, including grandfathered public safety licensees. Thus, there are grandfathered licensees nationwide (maritime and private land mobile radio stations, including by rule waiver) operating on this channel both inside and outside of VPCSAs 10-42.
 
-(ii) The channel pairs 157.225 MHz/161.825 MHz and 157.275 MHz/161.875 MHz were formerly allocated and assigned under this section as public safety interoperability channels but were reallocated for assignment as VHF public coast station channels under § 80.371(c) of this chapter. Public safety operations licensed on these channels as of March 2, 2009 or licensed pursuant to an application filed prior to September 19, 2008, may remain authorized to operate on the channels on a primary basis until March 2, 2024. 
+(ii) The channel pairs 157.225 MHz/161.825 MHz and 157.275 MHz/161.875 MHz were formerly allocated and assigned under this section as public safety interoperability channels but were reallocated for assignment as VHF public coast station channels under § 80.371(c) of this chapter. Public safety operations licensed on these channels as of March 2, 2009 or licensed pursuant to an application filed prior to September 19, 2008, may remain authorized to operate on the channels on a primary basis until March 2, 2024.
 
-(3) All applicants and licensees under this paragraph must comply with the relevant technical sections under this part unless otherwise stated in this paragraph (g) of this section using the following standards and procedures: 
+(3) All applicants and licensees under this paragraph must comply with the relevant technical sections under this part unless otherwise stated in this paragraph (g) of this section using the following standards and procedures:
 
-(i) Provide evidence of frequency coordination in accordance with § 90.175. Public safety coordinators except the Special Emergency Coordinator are certified to coordinate applications for the channel pair 157.250 MHz/161.850 MHz (*i.e.*, letter symbol PX under paragraph (c)(2) of this section). 
+(i) Provide evidence of frequency coordination in accordance with § 90.175. Public safety coordinators except the Special Emergency Coordinator are certified to coordinate applications for the channel pair 157.250 MHz/161.850 MHz (*i.e.*, letter symbol PX under paragraph (c)(2) of this section).
 
-(ii) Station power, as measured at the output terminals of the transmitter, must not exceed 50 Watts for base stations and 20 Watts for mobile stations, except in accordance with the provisions of paragraph (g)(3)(vi) of this section. Antenna height (HAAT) must not exceed 122 meters (400 feet) for base stations and 4.5 meters (15 feet) for mobile stations, except in accordance with paragraph (g)(3)(vi) of this section. Antenna height (HAAT) must not exceed 122 meters (400 feet) for base stations and 4.5 meters (15 feet) for mobile stations, except in accordance with paragraph (g)(3)(vi) of this section. Such base and mobile channels shall not be operated on board aircraft in flight. 
+(ii) Station power, as measured at the output terminals of the transmitter, must not exceed 50 Watts for base stations and 20 Watts for mobile stations, except in accordance with the provisions of paragraph (g)(3)(vi) of this section. Antenna height (HAAT) must not exceed 122 meters (400 feet) for base stations and 4.5 meters (15 feet) for mobile stations, except in accordance with paragraph (g)(3)(vi) of this section. Antenna height (HAAT) must not exceed 122 meters (400 feet) for base stations and 4.5 meters (15 feet) for mobile stations, except in accordance with paragraph (g)(3)(vi) of this section. Such base and mobile channels shall not be operated on board aircraft in flight.
 
-(iii) Frequency protection must be provided to other stations in accordance with the following guidelines for each channel and for each area and adjacent area: 
+(iii) Frequency protection must be provided to other stations in accordance with the following guidelines for each channel and for each area and adjacent area:
 
-(A) Protect coast stations licensed prior to July 6, 1998, by the required separations shown in Table C below. 
+(A) Protect coast stations licensed prior to July 6, 1998, by the required separations shown in Table C below.
 
-(B) Protect stations described in paragraph (g)(2)(i) of this section, by frequency coordination in accordance § 90.175 of this part. 
+(B) Protect stations described in paragraph (g)(2)(i) of this section, by frequency coordination in accordance § 90.175 of this part.
 
-(C) Protect public safety stations granted under paragraph (g) of this section by frequency coordination in accordance with § 90.175 of this part. 
+(C) Protect public safety stations granted under paragraph (g) of this section by frequency coordination in accordance with § 90.175 of this part.
 
-(D) *Where the Public safety designated channel is not a Public safety designated channel in an adjacent VPCSA:* Applicants shall engineer base stations such that the maximum signal strength at the boundary of the adjacent VPCSA does not exceed 5dBµV/m. 
+(D) *Where the Public safety designated channel is not a Public safety designated channel in an adjacent VPCSA:* Applicants shall engineer base stations such that the maximum signal strength at the boundary of the adjacent VPCSA does not exceed 5dBµV/m.
 
-(iv) The following table, along with the antenna height (HAAT) and power (ERP), must be used to determine the minimum separation required between proposed base stations and co-channel public coast stations licensed prior to July 6, 1998 under part 80 of this chapter. Applicants whose exact ERP or HAAT are not reflected in the table must use the next highest figure shown. 
+(iv) The following table, along with the antenna height (HAAT) and power (ERP), must be used to determine the minimum separation required between proposed base stations and co-channel public coast stations licensed prior to July 6, 1998 under part 80 of this chapter. Applicants whose exact ERP or HAAT are not reflected in the table must use the next highest figure shown.
 
 Table C—Required Separation in Kilometers (Miles) of Base Station From Public Coast Stations
 | Base Station Characteristics |
@@ -2124,15 +2124,15 @@ Table C—Required Separation in Kilometers (Miles) of Base Station From Public 
 | 61 (200)                     |
 | 122 (400)                    |
 
-(v) In the event of interference, the Commission may require, without a hearing, licensees of base stations authorized under this section that are located within 241 kilometers (150 miles) of a co-channel public coast, I/LT, or grandfathered public safety station licensed prior to July 6, 1998, or an international border, to reduce power, decrease antenna height, and/or install directional antennas. 
+(v) In the event of interference, the Commission may require, without a hearing, licensees of base stations authorized under this section that are located within 241 kilometers (150 miles) of a co-channel public coast, I/LT, or grandfathered public safety station licensed prior to July 6, 1998, or an international border, to reduce power, decrease antenna height, and/or install directional antennas.
 
-Mobile stations must be operated only within radio range of their associated base station. 
+Mobile stations must be operated only within radio range of their associated base station.
 
-(vi) Applicants seeking to be licensed for stations exceeding the power/antenna height limits of the table in paragraph (g)(3)(iv) of this section must request a waiver of that paragraph and must submit with their application an interference analysis, based upon an appropriate, generally-accepted terrain-based propagation model, that shows that co-channel protected entities, described in paragraph (g)(3)(iii) of this section, would receive the same or greater interference protection than the relevant criteria outlined in paragraph (g)(3)(iii) of this section. 
+(vi) Applicants seeking to be licensed for stations exceeding the power/antenna height limits of the table in paragraph (g)(3)(iv) of this section must request a waiver of that paragraph and must submit with their application an interference analysis, based upon an appropriate, generally-accepted terrain-based propagation model, that shows that co-channel protected entities, described in paragraph (g)(3)(iii) of this section, would receive the same or greater interference protection than the relevant criteria outlined in paragraph (g)(3)(iii) of this section.
 
-(h) *Spectrum leasing arrangements.* Notwithstanding any other provisions of this section to the contrary, licensees in the Public Safety Radio Services (*see* part 90, subpart B) may enter into spectrum leasing arrangements (*see* part 1, subpart X of this chapter) with entities providing communications in support of public safety operations. 
+(h) *Spectrum leasing arrangements.* Notwithstanding any other provisions of this section to the contrary, licensees in the Public Safety Radio Services (*see* part 90, subpart B) may enter into spectrum leasing arrangements (*see* part 1, subpart X of this chapter) with entities providing communications in support of public safety operations.
 
-(i) *Nationwide interoperability channels.* The nationwide interoperability and mutual aid channels are listed below for the VHF, (including 220-222 MHz), UHF, 700 MHz and 800 MHz bands. (See §§ 90.20(d)(80), 90.531(b)(1), 90.617(a)(1) and 90.720). Any Part 90 public safety eligible entity holding a Part 90 license may operate hand-held and vehicular mobile units on these channels without needing a separate authorization. Base stations or control stations operating on these channels must be licensed separately: Encryption may not be used on any of the interoperability or mutual aid calling channels. 
+(i) *Nationwide interoperability channels.* The nationwide interoperability and mutual aid channels are listed below for the VHF, (including 220-222 MHz), UHF, 700 MHz and 800 MHz bands. (See §§ 90.20(d)(80), 90.531(b)(1), 90.617(a)(1) and 90.720). Any Part 90 public safety eligible entity holding a Part 90 license may operate hand-held and vehicular mobile units on these channels without needing a separate authorization. Base stations or control stations operating on these channels must be licensed separately: Encryption may not be used on any of the interoperability or mutual aid calling channels.
 
 | VHF interoperability channel   (MHz) | Purpose   |
 | ------------------------------------ | --------- |
