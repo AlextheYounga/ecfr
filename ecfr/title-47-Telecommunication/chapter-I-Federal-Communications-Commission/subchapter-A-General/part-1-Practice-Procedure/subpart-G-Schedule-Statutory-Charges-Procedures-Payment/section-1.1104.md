@@ -1,7 +1,6 @@
 ##### § 1.1104 Schedule of charges for applications and other filings for media services.
 
 Table 1 to § 1.1104
-
 | Full power commercial and class A television stations     |
 | --------------------------------------------------------- |
 | New or Major Change, Construction Permit                  |
@@ -19,7 +18,6 @@ Table 1 to § 1.1104
 | Biennial Ownership Report (Full Power TV Stations Only)   |
 
 Table 2 to § 1.1104
-
 | Commercial AM radio stations                              |
 | --------------------------------------------------------- |
 | New or Major Change, Construction Permit                  |
@@ -37,7 +35,6 @@ Table 2 to § 1.1104
 | Biennial Ownership Report                                 |
 
 Table 3 to § 1.1104
-
 | Commercial FM radio stations                              |
 | --------------------------------------------------------- |
 | New or Major Change, Construction Permit                  |
@@ -56,7 +53,6 @@ Table 3 to § 1.1104
 | Biennial Ownership Report                                 |
 
 Table 4 to § 1.1104
-
 | FM translators                                                                    |
 | --------------------------------------------------------------------------------- |
 | New or Major Change, Construction Permit                                          |
@@ -72,13 +68,11 @@ Table 4 to § 1.1104
 | FM Booster, Special Temporary Authority                                           |
 
 Table 5 to § 1.1104
-
 | Section 310 (b)(4) Foreign Ownership Petition                                                        |
 | ---------------------------------------------------------------------------------------------------- |
 | Foreign Ownership Petition (separate and additional fee required for underlying application, if any) |
 
 Table 6 to § 1.1104
-
 | TV translators and LPTV stations                                    |
 | ------------------------------------------------------------------- |
 | New or Major Change, Construction Permit                            |
@@ -91,7 +85,6 @@ Table 6 to § 1.1104
 | Call Sign                                                           |
 
 Table 7 to § 1.1104
-
 | Cable television and cars license services           |
 | ---------------------------------------------------- |
 | Cable TV & CARS New License                          |
@@ -105,4 +98,4 @@ Table 7 to § 1.1104
 | Cable TV & CARS License, Registration Statement      |
 | Cable TV & MVPD, Aeronautical Frequency Notification |
 
-\[88 FR 6171, Jan. 31, 2023\]
+\[88 FR 6171, Jan. 31, 2023, as amended at 88 FR 29544, May 8, 2023\]

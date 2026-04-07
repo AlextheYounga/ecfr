@@ -15060,7 +15060,65 @@ The map provided is for informational purposes only. Map follows:
 
 Constituent elements, for all areas designated as critical habitat, consist of medium-sized creeks with silt-free pools and riffles and moderately clear water draining hilly areas underlain by chert and dolomite. Water ranges from 8 to 46 inches in depth over gravel with scattered rubble.
 
-Rush Darter (*Etheostoma phytophilum*)
+Pearl Darter (*Percina aurora*)
+
+(1) Critical habitat units are depicted for Clark, Covington, Forrest, George, Greene, Jackson, Jones, Lauderdale, Newton, Perry, Simpson, Stone, and Wayne Counties, Mississippi, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of pearl darter consist of the following components:
+
+(i) Unobstructed and stable stream and river channels with:
+
+(A) Connected sequences of channel runs and bends associated with pools and scour holes; and
+
+(B) Bottom substrates consisting of fine and coarse sand, silt, loose clay, coarse gravel, fine and coarse particulate organic matter, or woody debris.
+
+(ii) A natural flow regime necessary to maintain instream habitats and their connectivity.
+
+(iii) Water quality conditions, including cool to warm water temperatures (8 to 30 °C (46.4 to 86.0 °F)), high dissolved oxygen (5.8 to 9.3 mg/l), slightly acidic to basic pH (6.3 to 7.6), and low levels of pollutants and nutrients meeting the current State of Mississippi criteria, as necessary to maintain natural physiological processes for normal behavior, growth, and viability of all life stages of the species.
+
+(iv) Presence of a prey base of small aquatic macroinvertebrates, including larval mayflies, larval caddisflies, larval black flies, ostracods (crustaceans), chironomids (midges), and gastropods (snails).
+
+(3) Critical habitat includes only the stream channels within the ordinary high water line and does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on May 8, 2023.
+
+(4) Data layers defining map units were created using U.S. Geological Survey's National Hydrography Dataset flowline data on a base map of State and County boundaries from the U.S. Department of Agriculture's Natural Resources Conservation Service. Critical habitat units were mapped using the Geographic Coordinate System North American 1983 coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://fws.gov/office/mississippi-ecological-services,* at *https://www.regulations.gov* at Docket No. FWS-R4-ES-2020-0062, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map follows:
+
+Figure 1 to Pearl Darter (*Percina aurora*) paragraph (5) ![](/graphics/er06ap23.007.gif)
+
+(6) Unit 1: Pascagoula River drainage, Clarke, Covington, Forrest, George, Greene, Lauderdale, Jackson, Jones, Newton, Perry, Stone, and Wayne Counties, Mississippi.
+
+(i) Unit 1 consists of 494 river miles (mi) (794 river kilometers (km)) of connected river and stream channels within the Pascagoula River drainage, including:
+
+(A) The Pascagoula River from its confluence with the West Pascagoula River in Jackson County, upstream 63 mi (102 km) to the confluence of the Leaf and Chickasawhay Rivers in George County;
+
+(B) The Big Black/Black Creek from its confluence with the Pascagoula River in Jackson County, upstream 80 mi (129 km) to U.S. Highway 49 Bridge in Forrest County;
+
+(C) The Chickasawhay River from its confluence with the Leaf River just north of Enterprise, Clarke County, upstream 160 mi (257 km) to the confluence of Okatibbee Creek and Chunky River in Clarke County;
+
+(D) The Chunky River from its confluence with Okatibbee Creek in Clarke County, upstream 28 mi (45 km) to the third (most upstream) Highway 80 Crossing in Newton County;
+
+(E) The Leaf River from its confluence with the Chickasawhay River in George County, upstream 119 mi (192 km) to the bridge crossing at U.S. Highway 84 in Covington County;
+
+(F) The Bouie River from its confluence with the Leaf River, upstream 15 mi (24 km) to the confluence of Okatoma Creek, in Forrest County; and
+
+(G) The Okatoma Creek from its confluence with the Bouie River in Forrest County, upstream 28 mi (45 km) to the bridge crossing at U.S. Highway 84 in Covington County.
+
+(ii) The channel borders (and therefore the stream channel bottoms) in Unit 1 are generally privately owned agricultural or silvicultural lands with the exception of 76 mi (122 km) of the Pascagoula River channel border owned and managed by the Mississippi Department of Wildlife, Fisheries, and Parks, and 45 mi (72 km) owned by the U.S. Forest Service.
+
+(iii) Map of Unit 1 follows:
+
+Figure 2 to Pearl Darter (*Percina aurora*) paragraph (6)(iii) ![](/graphics/er06ap23.008.gif)
+
+(7) Unit 2: Strong River, Simpson County, Mississippi.
+
+(i) Unit 2 consists of approximately 30 mi (49 km) of the Strong River channel from its confluence with the Pearl River, upstream to U.S. Highway 49 in Simpson County.
+
+(ii) The channel borders (and therefore the stream channel bottoms) in this unit are generally privately owned agricultural or silvicultural lands with the exception of a short channel reach (0.39 mi (0.63 km)) owned and managed by the Simpson County Park Commission.
+
+(iii) Map of Unit 2 follows:
+
+Figure 3 to Pearl Darter (*Percina aurora*) paragraph (7)(iii) ![](/graphics/er06ap23.009.gif)Rush Darter (*Etheostoma phytophilum*)
 
 (1) The critical habitat units are depicted for Jefferson, Winston, and Etowah Counties in Alabama, on the maps below.
 
