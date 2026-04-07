@@ -2,7 +2,7 @@
 
 (a) *License requirements.* It is the policy of the United States to restrict the export and reexport of items that would make a significant contribution to the military potential of any other destination or combination of destinations that would prove detrimental to the national security (NS) of the United States. Generally, items on the Commerce Control List in supplement no. 1 to part 774 of the EAR that have a reason for control of NS are those that are also listed on the Wassenaar Arrangement's “List of Dual-use Goods and Technologies,” as well as some items listed on the Wassenaar Arrangement's “Munitions List.” “600 series” items and 9x515 items are also controlled for NS reasons.
 
-(1) *National Security column 1 (NS:1).* A license is required for exports and reexports to all destinations, except Canada, for all items in ECCNs on the CCL that include NS Column 1 in the Country Chart column of the “License Requirements” section.
+(1) *National Security column 1 (NS:1).* A license is required for exports and reexports to all destinations, except Australia, Canada, or the United Kingdom, for all items in ECCNs on the CCL that include NS Column 1 in the Country Chart column of the “License Requirements” section.
 
 (2) *National Security column 2 (NS:2).* A license is required to all destinations except those specified in Country Group A:1 (see supplement no. 1 to part 740 of the EAR), for all items in ECCNs on the CCL that include NS column 2 in the Commerce Country Chart column of the “License Requirements” section except those cameras in ECCN 6A003.b.4.b that have a focal plane array with 111,000 or fewer elements and a frame rate of 60 Hz or less.
 

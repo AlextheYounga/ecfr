@@ -2,7 +2,7 @@
 
 (a) *License requirements.* The following controls are maintained in support of the U.S. foreign policy of opposing the proliferation and illegal use of chemical and biological weapons. (See also § 742.18 of this part for license requirements pursuant to the Chemical Weapons Convention).
 
-(1) If CB Column 1 of the Country Chart (supplement no. 1 to part 738 of the EAR) is indicated in the appropriate ECCN, a license is required to all destinations, including Canada, for the following:
+(1) If CB Column 1 of the Country Chart (supplement no. 1 to part 738 of the EAR) is indicated in the appropriate ECCN, a license is required to all destinations, including Australia, Canada, and the United Kingdom, for the following:
 
 (i) Toxins identified in ECCNs 1C351.d.14 and .15;
 

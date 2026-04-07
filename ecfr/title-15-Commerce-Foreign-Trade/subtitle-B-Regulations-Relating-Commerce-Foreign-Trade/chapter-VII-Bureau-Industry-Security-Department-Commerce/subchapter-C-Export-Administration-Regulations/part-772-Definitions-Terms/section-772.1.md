@@ -92,6 +92,14 @@ A common use of “asymmetric algorithms” is key management.
 
 *Australia Group.* The countries participating in the Australia Group have agreed to adopt harmonized controls on certain dual-use chemicals (i.e., precursor chemicals), biological agents, related manufacturing facilities and equipment, and related technology in order to ensure that exports of these items do not contribute to the proliferation of chemical or biological weapons. Countries participating in the Australia Group as of November 1, 2013, include: Argentina, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, India, Ireland, Italy, Japan, Korea (South), Latvia, Lithuania, Luxembourg, Malta, Mexico, the Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, the United Kingdom, and the United States. See also § 742.2 of the EAR.
 
+*Australian airline.* Any citizen of Australia who is authorized by the Australian Government to engage in business as an airline. For purposes of this definition, an Australian citizen is:
+
+(1) A natural person who is a citizen of Australia; or
+
+(2) A partnership of which each member is such an individual; or
+
+(3) An Australian firm incorporated or otherwise organized under the laws of Australia or any Australian state or territory, having a total foreign stock interest not greater than 40 percent, and having the Chairman or Acting Chairman and at least two-thirds of the Directors thereof Australian citizens.
+
 “*Authentication*”. (Cat 5P2) Verifying the identity of a user, process or device, often as a prerequisite to allowing access to resources in an information system. This includes verifying the origin or content of a message or other information, and all aspects of access control where there is no encryption of files or text except as directly related to the protection of passwords, Personal Identification Numbers (PINs) or similar data to prevent unauthorized access.
 
 *Automated Export System (AES).* AES is a nationwide system operational at all ports and for all methods of transportation through which export shipment data required by multiple agencies is filed electronically to U.S. Customs and Border Protection, using the efficiencies of Electronic Data Interchange (EDI). AES allows the export information to be collected electronically and edited immediately. For more information about AES, visit the Bureau of Census Web site at: *http://www.census.gov/foreign-trade/aes/index.html* or see 15 CFR part 30 the Foreign Trade Regulations
@@ -158,11 +166,11 @@ c. The common basic characteristics.
 
 *Canadian airline.* Any citizen of Canada who is authorized by the Canadian Government to engage in business as an airline. For purposes of this definition, a Canadian citizen is:
 
-(a) A natural person who is a citizen of Canada; or
+(1) A natural person who is a citizen of Canada; or
 
-(b) A partnership of which each member is such an individual; or
+(2) A partnership of which each member is such an individual; or
 
-(c) A Canadian firm incorporated or otherwise organized under the laws of Canada or any Canadian province, having a total foreign stock interest not greater than 40 percent and having the Chairman or Acting Chairman and at least two-thirds of the Directors thereof Canadian citizens.
+(3) A Canadian firm incorporated or otherwise organized under the laws of Canada or any Canadian province or territory, having a total foreign stock interest not greater than 40 percent, and having the Chairman or Acting Chairman and at least two-thirds of the Directors thereof Canadian citizens.
 
 *Capable of.* (MTCR context)—See “usable in”.
 
@@ -1335,6 +1343,14 @@ This definition of “transfer” does not apply to § 750.10 of the EAR or Supp
 *Ultimate consignee.* The principal party in interest located abroad who receives the exported or reexported items. The ultimate consignee is not a forwarding agent or other intermediary, but may be the end-user.
 
 *Unidirectional positioning repeatability.* (Cat 2) The smaller of values R↑ and R↓ (forward and backward), as defined by 3.21 of ISO 230-2:2014 or national equivalents, of an individual machine tool axis.
+
+*United Kingdom (or UK) airline.* Any citizen of the United Kingdom who is authorized by the Government of the United Kingdom to engage in business as an airline. For purposes of this definition, a United Kingdom citizen is:
+
+(1) A natural person who is a citizen of the United Kingdom; or
+
+(2) A partnership of which each member is such an individual; or
+
+(3) A United Kingdom firm incorporated or otherwise organized under the laws of the United Kingdom or any country or territory that comprises the United Kingdom, having a total foreign stock interest not greater than 40 percent, and having the Chairman or Acting Chairman and at least two-thirds of the Directors thereof United Kingdom citizens.
 
 *United States.* Unless otherwise stated, the 50 States, including offshore areas within their jurisdiction pursuant to section 3 of the Submerged Lands Act (43 U.S.C. 1311), the District of Columbia, Puerto Rico, and all territories, dependencies, and possessions of the United States, including foreign trade zones established pursuant to 19 U.S.C. 81A-81U, and also including the outer continental shelf, as defined in section 2(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1331(a)).
 
