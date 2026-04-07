@@ -1,4 +1,4 @@
-##### § 240.13h-l Large trader reporting.
+##### § 240.13h-1 Large trader reporting.
 
 (a) *Definitions.* For purposes of this section:
 
@@ -50,7 +50,7 @@
 
 (9) The term *Unidentified Large Trader* means each person who has not complied with the identification requirements of paragraphs (b)(1) and (b)(2) of this section that a registered broker-dealer knows or has reason to know is a large trader. For purposes of determining under this section whether a registered broker-dealer has reason to know that a person is large trader, a registered broker-dealer need take into account only transactions in NMS securities effected by or through such broker-dealer.
 
-(b) *Identification requirements for large traders* - (1) *Form 13H.* Except as provided in paragraph (b)(3) of this section, each large trader shall file electronically Form 13H (17 CFR 249.327) with the Commission, in accordance with the instructions contained therein:
+(b) *Identification requirements for large traders*—(1) *Form 13H.* Except as provided in paragraph (b)(3) of this section, each large trader shall file electronically Form 13H (17 CFR 249.327) with the Commission, in accordance with the instructions contained therein:
 
 (i) Promptly after first effecting aggregate transactions, or after effecting aggregate transactions subsequent to becoming inactive pursuant to paragraph (b)(3) of this section, equal to or greater than the identifying activity level;
 
@@ -60,7 +60,7 @@
 
 (2) *Disclosure of large trader status.* Each large trader shall disclose to the registered broker-dealers effecting transactions on its behalf its large trader identification number and each account to which it applies. A large trader on Inactive Status pursuant to paragraph (b)(3) of this section must notify broker-dealers promptly after filing for reactivated status with the Commission.
 
-(3) *Filing requirement* - (i) *Compliance by controlling person.* A large trader shall not be required to separately comply with the requirements of this paragraph (b) if a person who controls the large trader complies with all of the requirements under paragraphs (b)(1), (b)(2), and (b)(4) of this section applicable to such large trader with respect to all of its accounts.
+(3) *Filing requirement*—(i) *Compliance by controlling person.* A large trader shall not be required to separately comply with the requirements of this paragraph (b) if a person who controls the large trader complies with all of the requirements under paragraphs (b)(1), (b)(2), and (b)(4) of this section applicable to such large trader with respect to all of its accounts.
 
 (ii) *Compliance by controlled person.* A large trader shall not be required to separately comply with the requirements of this paragraph (b) if one or more persons controlled by such large trader collectively comply with all of the requirements under paragraphs (b)(1), (b)(2), and (b)(4) of this section applicable to such large trader with respect to all of its accounts.
 
@@ -68,7 +68,7 @@
 
 (4) *Other information.* Upon request, a large trader must promptly provide additional descriptive or clarifying information that would allow the Commission to further identify the large trader and all accounts through which the large trader effects transactions.
 
-(c) *Aggregation* - (1) *Transactions.* For the purpose of determining whether a person is a large trader, the following shall apply:
+(c) *Aggregation*—(1) *Transactions.* For the purpose of determining whether a person is a large trader, the following shall apply:
 
 (i) The volume or fair market value of transactions in equity securities and the volume or fair market value of the equity securities underlying transactions in options on equity securities, purchased and sold, shall be aggregated;
 
@@ -78,7 +78,7 @@
 
 (2) *Accounts.* Under no circumstances shall a person disaggregate accounts to avoid the identification requirements of this section.
 
-(d) *Recordkeeping requirements for broker and dealers* - (1) *Generally.* Every registered broker-dealer shall maintain records of all information required under paragraphs (d)(2) and (d)(3) of this section for all transactions effected directly or indirectly by or through:
+(d) *Recordkeeping requirements for broker and dealers*—(1) *Generally.* Every registered broker-dealer shall maintain records of all information required under paragraphs (d)(2) and (d)(3) of this section for all transactions effected directly or indirectly by or through:
 
 (i) An account such broker-dealer carries for a large trader or an Unidentified Large Trader, or
 
