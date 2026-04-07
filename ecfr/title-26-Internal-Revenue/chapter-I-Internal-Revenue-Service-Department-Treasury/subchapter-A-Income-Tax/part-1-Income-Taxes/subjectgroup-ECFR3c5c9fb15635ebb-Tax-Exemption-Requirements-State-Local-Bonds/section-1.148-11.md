@@ -16,9 +16,7 @@
 
 (3) *Special limitation.* The provisions of § 1.148-9 apply to issues issued before August 15, 1993, only if the issuer in good faith estimates the present value savings, if any, associated with the effect of the application of that section on refunding escrows, using any reasonable accounting method, and applies those savings, if any, to redeem outstanding tax-exempt bonds of the applicable issue at the earliest possible date on which those bonds may be redeemed or otherwise retired. These savings are not reduced to take into account any administrative costs associated with applying these provisions retroactively.
 
-(d) *Transition rule excepting certain state guarantee funds from the definition of replacement proceeds* - (1) *Certain perpetual trust funds.* A guarantee by a fund created and controlled by a State and established pursuant to its constitution does not cause the amounts in the fund to be pledged funds treated as replacement proceeds if -
-
-(i) A guarantee by a fund created and controlled by a State and established pursuant to its constitution does not cause the amounts in the fund to be pledged funds treated as replacement proceeds if -
+(d) *Transition rule excepting certain state guarantee funds from the definition of replacement proceeds* - (1) *Certain perpetual trust funds.* (i) A guarantee by a fund created and controlled by a State and established pursuant to its constitution does not cause the amounts in the fund to be pledged funds treated as replacement proceeds if -
 
 (A) Substantially all of the corpus of the fund consists of nonfinancial assets, revenues derived from these assets, gifts, and bequests;
 
