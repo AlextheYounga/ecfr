@@ -1,8 +1,8 @@
 ##### § 23.36 What are the requirements for an export permit?
 
-(a) *Purposes.* Articles III, IV, and V of the Treaty set out the conditions under which a Management Authority may issue an export permit for an Appendix-I, -II, or -III specimen. Article XIV sets out the conditions under which a Management Authority may issue a document for export of certain Appendix-II marine specimens protected under a pre-existing treaty, convention, or international agreement. 
+(a) *Purposes.* Articles III, IV, and V of the Treaty set out the conditions under which a Management Authority may issue an export permit for an Appendix-I, -II, or -III specimen. Article XIV sets out the conditions under which a Management Authority may issue a document for export of certain Appendix-II marine specimens protected under a pre-existing treaty, convention, or international agreement.
 
-(b) *U.S. application forms.* Complete the appropriate form for the proposed activity and submit it to the U.S. Management Authority. Form 3-200-26 may also be submitted to FWS Law Enforcement at certain ports or regional offices: 
+(b) *U.S. application forms.* Complete the appropriate form for the proposed activity and submit it to the U.S. Management Authority. Form 3-200-26 may also be submitted to FWS Law Enforcement at certain ports or regional offices:
 
 | Type of application for an export permit                                                                                                           | Form no. |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
@@ -30,7 +30,7 @@
 | Live Captive-held Marine Mammals                                                                                                                   | 3-200-53 |
 | Take from the Wild for Export                                                                                                                      | 3-200-43 |
 
-(c) *Criteria.* The criteria in this paragraph (c) apply to the issuance and acceptance of U.S. and foreign export permits except as provided for certain marine specimens in paragraph (d) of this section. When applying for a U.S. permit or certificate, you must provide sufficient information for us to find that your proposed activity meets all of the following criteria: 
+(c) *Criteria.* The criteria in this paragraph (c) apply to the issuance and acceptance of U.S. and foreign export permits except as provided for certain marine specimens in paragraph (d) of this section. When applying for a U.S. permit or certificate, you must provide sufficient information for us to find that your proposed activity meets all of the following criteria:
 
 | Criteria for an export permit                                                                                                                                                                                                                             | Appendix of the specimen | Section |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ------- |
@@ -42,30 +42,30 @@
 | (6) The specimen originated in a country that listed the species.                                                                                                                                                                                         | n/a                      | n/a     |
 | (7) For wildlife with the source code “W” or “F,” the export is for noncommercial purposes. (See § 23.46 for the export of specimens that originated at a commercial breeding operation for Appendix-I wildlife that is registered with the Secretariat.) | Yes                      | n/a     |
 
-(d) *Export of certain exempt marine specimens.* Article XIV(4) and (5) of the Treaty provide a limited exemption for Appendix-II marine species that are protected under another treaty, convention, or international agreement that was in force at the time CITES entered into force. When all of the following conditions are met, export of exempt Appendix-II marine wildlife or plants requires only that the shipment is accompanied by a document issued by the Management Authority of the exporting country indicating that the specimens were taken in accordance with the provisions of the other international treaty, convention, or agreement: 
+(d) *Export of certain exempt marine specimens.* Article XIV(4) and (5) of the Treaty provide a limited exemption for Appendix-II marine species that are protected under another treaty, convention, or international agreement that was in force at the time CITES entered into force. When all of the following conditions are met, export of exempt Appendix-II marine wildlife or plants requires only that the shipment is accompanied by a document issued by the Management Authority of the exporting country indicating that the specimens were taken in accordance with the provisions of the other international treaty, convention, or agreement:
 
-(1) The exporting country is a CITES Party and is a party to an international treaty, convention, or agreement that affords protection to the species and was in force on July 1, 1975. 
+(1) The exporting country is a CITES Party and is a party to an international treaty, convention, or agreement that affords protection to the species and was in force on July 1, 1975.
 
-(2) The ship that harvested the specimen is registered in the exporting country. 
+(2) The ship that harvested the specimen is registered in the exporting country.
 
-(3) The specimen was taken within waters under the jurisdiction of the exporting country or in the marine environment not under the jurisdiction of any country. 
+(3) The specimen was taken within waters under the jurisdiction of the exporting country or in the marine environment not under the jurisdiction of any country.
 
-(4) The specimen was taken in accordance with the other international treaty, convention, or agreement, including any quotas. 
+(4) The specimen was taken in accordance with the other international treaty, convention, or agreement, including any quotas.
 
-(5) The shipment is accompanied by any official document required under the other international treaty, convention, or agreement or otherwise required by law. 
+(5) The shipment is accompanied by any official document required under the other international treaty, convention, or agreement or otherwise required by law.
 
-(e) *Export of exempt specimens from the United States.* To export a specimen exempted under paragraph (d) of this section, you must obtain a CITES document from the U.S. Management Authority that indicates the specimen was taken in accordance with the provisions of another international treaty, convention, or agreement that was in force on July 1, 1975. 
+(e) *Export of exempt specimens from the United States.* To export a specimen exempted under paragraph (d) of this section, you must obtain a CITES document from the U.S. Management Authority that indicates the specimen was taken in accordance with the provisions of another international treaty, convention, or agreement that was in force on July 1, 1975.
 
-(f) *U.S. application for export of exempt specimens.* To apply for a CITES exemption document under paragraph (e) of this section, complete the appropriate form for your activity and submit it to the U.S. Management Authority. 
+(f) *U.S. application for export of exempt specimens.* To apply for a CITES exemption document under paragraph (e) of this section, complete the appropriate form for your activity and submit it to the U.S. Management Authority.
 
-(g) *Criteria for certain exempt marine specimens.* The criteria in this paragraph (g) apply to the issuance and acceptance of U.S. and foreign export documents. To obtain a U.S. CITES document for export of specimens exempted under paragraph (d) of this section you must provide sufficient information for us to find that your proposed export meets all of the following issuance criteria: 
+(g) *Criteria for certain exempt marine specimens.* The criteria in this paragraph (g) apply to the issuance and acceptance of U.S. and foreign export documents. To obtain a U.S. CITES document for export of specimens exempted under paragraph (d) of this section you must provide sufficient information for us to find that your proposed export meets all of the following issuance criteria:
 
-(1) The specimen was taken in accordance with the provisions of an applicable international treaty, convention, or agreement that was in force on July 1, 1975. 
+(1) The specimen was taken in accordance with the provisions of an applicable international treaty, convention, or agreement that was in force on July 1, 1975.
 
-(2) The scientific name of the CITES species is in the standard nomenclature in the CITES Appendices or references adopted by the CoP (see § 23.23). 
+(2) The scientific name of the CITES species is in the standard nomenclature in the CITES Appendices or references adopted by the CoP (see § 23.23).
 
-(3) The ship that harvested the specimen is registered in the exporting country. 
+(3) The ship that harvested the specimen is registered in the exporting country.
 
-(4) The specimen was taken within waters under the jurisdiction of the exporting country or in the marine environment not under the jurisdiction of any country. 
+(4) The specimen was taken within waters under the jurisdiction of the exporting country or in the marine environment not under the jurisdiction of any country.
 
 \[72 FR 48448, Aug. 23, 2007, as amended at 79 FR 30424, May 27, 2014\]

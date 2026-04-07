@@ -1,6 +1,6 @@
 ##### § 74.661 Frequency tolerance.
 
-Stations in this service shall maintain the carrier frequency of each authorized transmitter to within the following percentage of the assigned frequency.
+Stations in this service shall maintain the carrier frequency of each authorized transmitter to within the following percentage of the assigned frequency. 
 
 Table 1 to § 74.661
 | Frequency band   (MHz)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Frequency tolerance (%) |

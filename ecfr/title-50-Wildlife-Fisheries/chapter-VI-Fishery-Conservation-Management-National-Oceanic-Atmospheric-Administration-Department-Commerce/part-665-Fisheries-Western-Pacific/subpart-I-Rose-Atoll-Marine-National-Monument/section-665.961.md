@@ -1,6 +1,6 @@
 ##### § 665.961 Boundaries.
 
-The Monument consists of emergent and submerged lands and waters extending seaward approximately 50 nm from Rose Atoll. The boundary is defined by straight lines connecting the following coordinates in the order listed: 
+The Monument consists of emergent and submerged lands and waters extending seaward approximately 50 nm from Rose Atoll. The boundary is defined by straight lines connecting the following coordinates in the order listed:
 
 | ID | W. long.  | S. lat.   |
 | -- | --------- | --------- |

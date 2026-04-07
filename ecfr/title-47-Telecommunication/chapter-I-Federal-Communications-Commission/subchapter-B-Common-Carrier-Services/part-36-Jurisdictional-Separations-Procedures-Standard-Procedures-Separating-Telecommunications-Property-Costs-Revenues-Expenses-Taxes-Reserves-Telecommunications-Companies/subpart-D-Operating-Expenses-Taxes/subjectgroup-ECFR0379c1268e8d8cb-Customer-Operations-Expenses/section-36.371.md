@@ -1,6 +1,6 @@
 ##### § 36.371 General.
 
-Customer Operations Expenses are included in the following accounts:
+Customer Operations Expenses are included in the following accounts: 
 
 | Marketing | Account 6610. |
 | Services  | Account 6620. |

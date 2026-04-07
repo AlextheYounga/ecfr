@@ -1,14 +1,14 @@
 ##### § 217.302 Permissible methods of taking.
 
-Under the LOA, issued pursuant to §§ 216.106 and 217.306, LOA Holder and those persons it authorizes or funds to conduct activities on its behalf may incidentally, but not intentionally, take marine mammals within BOEM Lease Areas, along export cable routes, and the two sea-to-shore transition points located in New Jersey at Atlantic City and Monmouth in the following ways, provided LOA Holder is in complete compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA: 
+Under the LOA, issued pursuant to §§ 216.106 and 217.306, LOA Holder and those persons it authorizes or funds to conduct activities on its behalf may incidentally, but not intentionally, take marine mammals within BOEM Lease Areas, along export cable routes, and the two sea-to-shore transition points located in New Jersey at Atlantic City and Monmouth in the following ways, provided LOA Holder is in complete compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA:
 
-(a) By Level B harassment associated with the acoustic disturbance resulting from impact pile driving of WTG, OSS, and Met Tower foundations, vibratory pile driving of temporary cofferdams, and HRG site characterization surveys; and 
+(a) By Level B harassment associated with the acoustic disturbance resulting from impact pile driving of WTG, OSS, and Met Tower foundations, vibratory pile driving of temporary cofferdams, and HRG site characterization surveys; and
 
-(b) By Level A harassment associated with the acoustic injury of marine mammals by impact pile driving WTG, OSS, and Met Tower foundations. 
+(b) By Level A harassment associated with the acoustic injury of marine mammals by impact pile driving WTG, OSS, and Met Tower foundations.
 
-(c) Take by mortality (death) or serious injury of any marine mammal species is not authorized. 
+(c) Take by mortality (death) or serious injury of any marine mammal species is not authorized.
 
-(d) The incidental take of marine mammals by the activities listed in paragraphs (a) and (b) of this section is limited to the following stocks: 
+(d) The incidental take of marine mammals by the activities listed in paragraphs (a) and (b) of this section is limited to the following stocks:
 
 Table 1 to Paragraph (d)
 | Marine mammal species        | Scientific name            | Stock                            |

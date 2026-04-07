@@ -1,6 +1,6 @@
 ##### § 80.361 Frequencies for narrow-band direct-printing (NBDP), radioprinter and data transmissions.
 
-(a) *Paired channels.* The following frequencies are available for assignment to public coast stations for narrow-band direct-printing (NBDP) and data transmissions. The paired ship frequencies are available for use by authorized ship stations for NBDP and data transmissions.
+(a) *Paired channels.* The following frequencies are available for assignment to public coast stations for narrow-band direct-printing (NBDP) and data transmissions. The paired ship frequencies are available for use by authorized ship stations for NBDP and data transmissions. 
 
 | Ch. no. | Paired frequencies for NBDP and data transmissions (kHz) |
 | ------- | -------------------------------------------------------- |
@@ -137,7 +137,7 @@
 | 131     |                                                          |
 | 132     |                                                          |
 
-(b) The following table describes the frequencies and Channel Series with F1B, J2B, or J2D emission which are assignable to ship stations for NBDP and data transmissions with other ship stations and public coast stations. Public coast stations may receive only on these frequencies.
+(b) The following table describes the frequencies and Channel Series with F1B, J2B, or J2D emission which are assignable to ship stations for NBDP and data transmissions with other ship stations and public coast stations. Public coast stations may receive only on these frequencies. 
 
 Non-Paired NBDP Channels (kHz)
 | Channel series: |        |        |        |         |         |         |         |         |
@@ -187,8 +187,8 @@ Non-Paired NBDP Channels (kHz)
 | 44              |        |        |        |         |         |         | 22373.5 |         |
 | 45              |        |        |        |         |         |         | 22374.0 |         |
 
-(c) *Distress and calling.* The frequencies 2174.5 kHz, 4177.5 kHz, 6268.0 kHz, 8376.5 kHz, 12520.0 kHz, and 16695.0 kHz may be used for NBDP and data transmissions by coast and ship stations on a simplex basis for distress and safety purposes.
+(c) *Distress and calling.* The frequencies 2174.5 kHz, 4177.5 kHz, 6268.0 kHz, 8376.5 kHz, 12520.0 kHz, and 16695.0 kHz may be used for NBDP and data transmissions by coast and ship stations on a simplex basis for distress and safety purposes. 
 
-(d) The frequencies in the 156-162 MHz band available for assignment to public coast stations that are contained in § 80.371(c) of this part are also available for radioprinter and data communications between ship and coast stations using F1B, F2B, F1D, or F2D emission.
+(d) The frequencies in the 156-162 MHz band available for assignment to public coast stations that are contained in § 80.371(c) of this part are also available for radioprinter and data communications between ship and coast stations using F1B, F2B, F1D, or F2D emission. 
 
 \[51 FR 31213, Sept. 2, 1986, as amended at 56 FR 9890, Mar. 8, 1991; 57 FR 43407, Sept. 21, 1992; 58 FR 16504, Mar. 29, 1993; 68 FR 46969, Aug. 7, 2003\]

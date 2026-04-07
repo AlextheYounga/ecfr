@@ -1,8 +1,8 @@
 ##### § 218.142 Permissible methods of taking.
 
-(a) Under LOAs issued pursuant to §§ 216.106 of this chapter and 218.146, the Holder of the LOAs (hereinafter “Navy”) may incidentally, but not intentionally, take marine mammals within the area described in § 218.140(b) by Level A harassment and Level B harassment associated with the use of active sonar and other acoustic sources and explosives, as well as serious injury or mortality associated with vessel strikes, provided the activity is in compliance with all terms, conditions, and requirements of this subpart and the applicable LOAs. 
+(a) Under LOAs issued pursuant to §§ 216.106 of this chapter and 218.146, the Holder of the LOAs (hereinafter “Navy”) may incidentally, but not intentionally, take marine mammals within the area described in § 218.140(b) by Level A harassment and Level B harassment associated with the use of active sonar and other acoustic sources and explosives, as well as serious injury or mortality associated with vessel strikes, provided the activity is in compliance with all terms, conditions, and requirements of this subpart and the applicable LOAs.
 
-(b) The incidental take of marine mammals by the activities listed in § 218.140(c) is limited to the following species: 
+(b) The incidental take of marine mammals by the activities listed in § 218.140(c) is limited to the following species:
 
 Table 1 to Paragraph (b)
 | Species                      | Stock                                  |

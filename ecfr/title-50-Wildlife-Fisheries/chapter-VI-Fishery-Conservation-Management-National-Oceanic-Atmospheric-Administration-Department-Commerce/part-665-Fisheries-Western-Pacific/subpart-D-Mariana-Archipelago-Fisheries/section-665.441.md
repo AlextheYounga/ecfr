@@ -1,12 +1,12 @@
 ##### § 665.441 Definitions.
 
-As used in §§ 665.440 through 665.459: 
+As used in §§ 665.440 through 665.459:
 
-*Crustacean Permit Area 5 (Permit Area 5)* means the EEZ around Guam and the EEZ seaward of points 3 nautical miles from the shoreline of the CNMI. 
+*Crustacean Permit Area 5 (Permit Area 5)* means the EEZ around Guam and the EEZ seaward of points 3 nautical miles from the shoreline of the CNMI.
 
-*Mariana crustacean ecosystem component species (Mariana crustacean ECS)* means those species identified as ECS in the Marianas Archipelago FEP. 
+*Mariana crustacean ecosystem component species (Mariana crustacean ECS)* means those species identified as ECS in the Marianas Archipelago FEP.
 
-*Mariana crustacean management unit species* means the following crustaceans: 
+*Mariana crustacean management unit species* means the following crustaceans:
 
 | Local name  | English common name | Scientific name                                 |
 | ----------- | ------------------- | ----------------------------------------------- |

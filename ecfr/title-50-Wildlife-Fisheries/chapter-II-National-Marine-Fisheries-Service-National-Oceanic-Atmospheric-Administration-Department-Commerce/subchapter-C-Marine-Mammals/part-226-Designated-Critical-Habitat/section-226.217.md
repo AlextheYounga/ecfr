@@ -1,14 +1,14 @@
 ##### § 226.217 Critical habitat for the Gulf of Maine Distinct Population Segment of Atlantic Salmon (Salmo salar).
 
-Critical habitat is designated to include all perennial rivers, streams, and estuaries and lakes connected to the marine environment within the range of the Gulf of Maine Distinct Population Segment of Atlantic Salmon (GOM DPS), except for those particular areas within the range which are specifically excluded. Within the GOM DPS, the primary constituent elements (PCEs) for Atlantic salmon include sites for spawning and incubation, sites for juvenile rearing, and sites for migration. The essential physical and biological features of habitat are those features that allow Atlantic salmon to successfully use sites for spawning and rearing and sites for migration. These features include substrate of suitable size and quality; rivers and streams of adequate flow, depth, water temperature and water quality; rivers, streams, lakes and ponds with sufficient space and diverse, abundant food resources to support growth and survival; waterways that allow for free migration of both adult and juvenile Atlantic salmon; and diverse habitat and native fish communities in which salmon interact with while feeding, migrating, spawning, and resting. 
+Critical habitat is designated to include all perennial rivers, streams, and estuaries and lakes connected to the marine environment within the range of the Gulf of Maine Distinct Population Segment of Atlantic Salmon (GOM DPS), except for those particular areas within the range which are specifically excluded. Within the GOM DPS, the primary constituent elements (PCEs) for Atlantic salmon include sites for spawning and incubation, sites for juvenile rearing, and sites for migration. The essential physical and biological features of habitat are those features that allow Atlantic salmon to successfully use sites for spawning and rearing and sites for migration. These features include substrate of suitable size and quality; rivers and streams of adequate flow, depth, water temperature and water quality; rivers, streams, lakes and ponds with sufficient space and diverse, abundant food resources to support growth and survival; waterways that allow for free migration of both adult and juvenile Atlantic salmon; and diverse habitat and native fish communities in which salmon interact with while feeding, migrating, spawning, and resting.
 
 (a) The GOM DPS is divided into three salmon habitat recovery units (SHRUs) within the range of the GOM DPS: These are the Downeast Coastal SHRU, the Penobscot Bay SHRU, and the Merrymeeting Bay SHRU. Critical habitat is being considered only in specific areas currently occupied by the species. Critical habitat specific areas are identified by hydrological unit codes (HUC) and counties within the States of Maine. Hydrological units are those defined by the Department of Interior (DOI), U.S. Geological Survey (USGS) publication, “Hydrologic Unit Maps” Water Supply Paper (Seaber *et al.*, 1994) and the following DOI, USGS 1:500,000 scale hydrologic unit map: State of Maine. These documents are incorporated by reference. The incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of the USGS publication and the maps may be obtained from the USGS, Map Sales, Box 25286, Denver, CO 80225. Copies may be inspected at NMFS, Protected Resources Division, Office of Protected Resources, 1315 East-West Highway, Silver Spring, MD 20910, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-(b) Critical habitat is designated in the Maine counties and towns for the three SHRUs described in paragraphs (b)(1) and (2) of this section. The textual descriptions of critical habitat for each SHRU are included in paragraphs (b)(3) through (6) of this section, and these descriptions are the definitive source for determining the critical habitat boundaries. A general location map (Figure 1) is provided at the end of paragraph (b)(2) and is for general guidance purposes only, and not as a definitive source for determining critical habitat boundaries. 
+(b) Critical habitat is designated in the Maine counties and towns for the three SHRUs described in paragraphs (b)(1) and (2) of this section. The textual descriptions of critical habitat for each SHRU are included in paragraphs (b)(3) through (6) of this section, and these descriptions are the definitive source for determining the critical habitat boundaries. A general location map (Figure 1) is provided at the end of paragraph (b)(2) and is for general guidance purposes only, and not as a definitive source for determining critical habitat boundaries.
 
-(1) *Maine counties and towns affected.* Critical habitat is designated for the following SHRUs in the following counties and towns. 
+(1) *Maine counties and towns affected.* Critical habitat is designated for the following SHRUs in the following counties and towns.
 
-(i) Counties and towns partially or entirely within areas containing critical habitat in the Downeast Coastal SHRU: 
+(i) Counties and towns partially or entirely within areas containing critical habitat in the Downeast Coastal SHRU:
 
 | Sub-basin                  | County     | Town                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | -------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,7 +16,7 @@ Critical habitat is designated to include all perennial rivers, streams, and est
 |                            | Hancock    | Waltham, Bucksport, Dedham, Eastbrook, Ellsworth, Fletchers Landing Twp, Franklin, Great Pond, Hancock, Lamoine, Mariaville, Oqiton Twp, Orland, Osborn, Trenton Otis, Sullivan, Surry, T10 SD, T16 MD, T22 MD, T28 MD, T32 MD, T34 MD, T35 MD, T39 MD, T40 MD, T41 MD, T7 SD, T9 SD.                                                                                                                                                                                                                                                                                                                                                  |
 |                            | Washington | Addison, Alexander, Baileyville, Baring Plt, Beddington, Centerville Twp, Charlotte, Cherryfield, Columbia, Columbia Falls, Cooper, Crawford, Cutler, Deblois, Dennysville, Devereaux Twp, East Machias, Edmunds Twp, Harrington, Jonesboro, Jonesport, Lubec, Machias, Machiasport, Marion Twp, Marshfield, Meddybemps, Milbridge, No 14 Twp, No 21 Twp, Northfield, Princeton, Roque Bluffs, Sakom Twp, Steuben, Trescott Twp, Whiting, Whitneyville, Wesley T18 ED BPP, T18 MD BPP, T19 ED BPP, T19 MD BPP, T24 MD BPP, T25 MD BPP, T26 ED BPP, T27 ED BPP, T30 MD BPP, T31 MD BPP, T36 MD BPP, T37 MD BPP, T42 MD BPP, T43 MD BPP. |
 
-(ii) Counties and towns partially or entirely within areas containing critical habitat in the Penobscot Bay SHRU: 
+(ii) Counties and towns partially or entirely within areas containing critical habitat in the Penobscot Bay SHRU:
 
 | Sub-basin     | County      | Town                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -36,7 +36,7 @@ Critical habitat is designated to include all perennial rivers, streams, and est
 |               | Waldo       | Brooks, Frankfort, Jackson, Knox, Monroe, Montville, Prospect, Searsport, Stockton Springs, Swanville, Thorndike, Waldo, Winterport.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Penobscot Bay | Waldo       | Belfast, Belmont, Brooks, Frankfort, Knox, Lincolnville, Monroe, Montville, Morrill, Northport, Searsmont, Searsport, Swanville, Waldo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-(iii) Counties and towns partially or entirely within areas containing critical habitat in the Merrymeeting Bay SHRU: 
+(iii) Counties and towns partially or entirely within areas containing critical habitat in the Merrymeeting Bay SHRU:
 
 | Sub-basin                             | County       | Town                                                                                                                                                                                                                                                                               |
 | ------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -57,11 +57,11 @@ Critical habitat is designated to include all perennial rivers, streams, and est
 |                                       | Sagadahoc    | Arrowsic, Bath, Bowdoinham, Georgetown, Phippsburg, West Bath, Woolwich.                                                                                                                                                                                                           |
 |                                       | Waldo        | Belmont, Freedom, Liberty, Lincolnville, Montville, Morrill, Palermo, Searsmont.                                                                                                                                                                                                   |
 
-(2) *Critical habitat boundaries.* Critical habitat includes the stream channels within the designated stream reaches, and includes a lateral extent as defined by the ordinary high-water line (33 CFR 329.11). In areas where the ordinary high-water line has not been defined, the lateral extent will be defined by the bankfull elevation. Bankfull elevation is the level at which water begins to leave the channel and move into the floodplain and is reached at a discharge which generally has a recurrence interval of 1 to 2 years on an annual flood series. Critical habitat in estuaries is defined by the perimeter of the water body as displayed on standard 1:24,000 scale topographic maps or the elevation of extreme high water, whichever is greater. 
+(2) *Critical habitat boundaries.* Critical habitat includes the stream channels within the designated stream reaches, and includes a lateral extent as defined by the ordinary high-water line (33 CFR 329.11). In areas where the ordinary high-water line has not been defined, the lateral extent will be defined by the bankfull elevation. Bankfull elevation is the level at which water begins to leave the channel and move into the floodplain and is reached at a discharge which generally has a recurrence interval of 1 to 2 years on an annual flood series. Critical habitat in estuaries is defined by the perimeter of the water body as displayed on standard 1:24,000 scale topographic maps or the elevation of extreme high water, whichever is greater.
 
 ![](/graphics/er19jn09.001.gif)
 
-(i) HUC 10 watersheds in the Penobscot Bay SHRU analyzed for critical habitat, those that meet the criteria for critical habitat, and those excluded under ESA section 4(b)(2): 
+(i) HUC 10 watersheds in the Penobscot Bay SHRU analyzed for critical habitat, those that meet the criteria for critical habitat, and those excluded under ESA section 4(b)(2):
 
 | Penobscot Bay SHRU | HUC 10 Code | HUC 10 Name                                    | Status           | Economic (E), Military (M), or   Tribal (T)   exclusions |
 | ------------------ | ----------- | ---------------------------------------------- | ---------------- | -------------------------------------------------------- |
@@ -112,7 +112,7 @@ Critical habitat is designated to include all perennial rivers, streams, and est
 | 103                | 0102000504  | Olamon Stream                                  |                  |                                                          |
 | 95                 | 0105000220  | West Penobscot Bay Coastal                     |                  |                                                          |
 
-(ii) HUC 10 watersheds in the Merrymeeting Bay SHRU analyzed for critical habitat, those that meet the criteria for critical habitat, and those excluded under ESA section 4(b)(2): 
+(ii) HUC 10 watersheds in the Merrymeeting Bay SHRU analyzed for critical habitat, those that meet the criteria for critical habitat, and those excluded under ESA section 4(b)(2):
 
 | Merrymeeting Bay SHRU | HUC 10 code | HUC 10 name                                            | Status           | Military (M)   exclusions |
 | --------------------- | ----------- | ------------------------------------------------------ | ---------------- | ------------------------- |
@@ -162,7 +162,7 @@ Critical habitat is designated to include all perennial rivers, streams, and est
 | 101                   | 0105000306  | Sheepscot Bay                                          | Critical Habitat |                           |
 | 102                   | 0105000307  | Kennebec River Estuary                                 | Critical Habitat | M                         |
 
-(iii) HUC 10 watersheds in the Downeast Coastal SHRU analyzed for critical habitat, and those that meet the criteria for critical habitat, and those excluded under ESA section 4(b)(2): 
+(iii) HUC 10 watersheds in the Downeast Coastal SHRU analyzed for critical habitat, and those that meet the criteria for critical habitat, and those excluded under ESA section 4(b)(2):
 
 | Downeast SHRU | HUC 10 code | HUC 10 name          | Status           | Tribal (T)   exclusions |
 | ------------- | ----------- | -------------------- | ---------------- | ----------------------- |
@@ -181,67 +181,67 @@ Critical habitat is designated to include all perennial rivers, streams, and est
 | 91            | 0105000215  | Mt. Desert Coastal   |                  |                         |
 | 104           | 0105000207  | Chandler River       | Critical Habitat |                         |
 
-(3) *Primary constituent elements.* Within the GOM DPS, the primary constituent elements (PCEs) for the conservation of Atlantic salmon include sites for spawning and incubation, sites for juvenile rearing, and sites for migration. The physical and biological features of the habitat that are essential to the conservation of Atlantic salmon are those features that allow Atlantic salmon to successfully use sites for spawning and rearing and sites for migration. These features include: 
+(3) *Primary constituent elements.* Within the GOM DPS, the primary constituent elements (PCEs) for the conservation of Atlantic salmon include sites for spawning and incubation, sites for juvenile rearing, and sites for migration. The physical and biological features of the habitat that are essential to the conservation of Atlantic salmon are those features that allow Atlantic salmon to successfully use sites for spawning and rearing and sites for migration. These features include:
 
-(i) Deep, oxygenated pools and cover (*e.g.*, boulders, woody debris, vegetation, etc.), near freshwater spawning sites, necessary to support adult migrants during the summer while they await spawning in the fall; 
+(i) Deep, oxygenated pools and cover (*e.g.*, boulders, woody debris, vegetation, etc.), near freshwater spawning sites, necessary to support adult migrants during the summer while they await spawning in the fall;
 
-(ii) Freshwater spawning sites that contain clean, permeable gravel and cobble substrate with oxygenated water and cool water temperatures to support spawning activity, egg incubation and larval development; 
+(ii) Freshwater spawning sites that contain clean, permeable gravel and cobble substrate with oxygenated water and cool water temperatures to support spawning activity, egg incubation and larval development;
 
-(iii) Freshwater spawning and rearing sites with clean gravel in the presence of cool, oxygenated water and diverse substrate to support emergence, territorial development, and feeding activities of Atlantic salmon fry; 
+(iii) Freshwater spawning and rearing sites with clean gravel in the presence of cool, oxygenated water and diverse substrate to support emergence, territorial development, and feeding activities of Atlantic salmon fry;
 
-(iv) Freshwater rearing sites with space to accommodate growth and survival of Atlantic salmon parr, and population densities needed to support sustainable populations; 
+(iv) Freshwater rearing sites with space to accommodate growth and survival of Atlantic salmon parr, and population densities needed to support sustainable populations;
 
-(v) Freshwater rearing sites with a combination of river, stream, and lake habitats, that accommodate parr's ability to occupy many niches and to maximize parr production; 
+(v) Freshwater rearing sites with a combination of river, stream, and lake habitats, that accommodate parr's ability to occupy many niches and to maximize parr production;
 
-(vi) Freshwater rearing sites with cool, oxygenated water to support growth and survival of Atlantic salmon parr; 
+(vi) Freshwater rearing sites with cool, oxygenated water to support growth and survival of Atlantic salmon parr;
 
-(vii) Freshwater rearing sites with diverse food resources to support growth and survival of Atlantic salmon parr; 
+(vii) Freshwater rearing sites with diverse food resources to support growth and survival of Atlantic salmon parr;
 
-(viii) Freshwater and estuary migratory sites free from physical and biological barriers that delay or prevent access to spawning grounds needed to support a recovered population; 
+(viii) Freshwater and estuary migratory sites free from physical and biological barriers that delay or prevent access to spawning grounds needed to support a recovered population;
 
-(ix) Freshwater and estuary migration sites with abundant, diverse native fish communities to serve as a protective buffer against predation; 
+(ix) Freshwater and estuary migration sites with abundant, diverse native fish communities to serve as a protective buffer against predation;
 
-(x) Freshwater and estuary migration sites free from physical and biological barriers that delay or prevent emigration of smolts to the marine environment; 
+(x) Freshwater and estuary migration sites free from physical and biological barriers that delay or prevent emigration of smolts to the marine environment;
 
-(xi) Freshwater and estuary migration sites with sufficiently cool water temperatures and water flows that coincide with diurnal cues to stimulate smolt migration; 
+(xi) Freshwater and estuary migration sites with sufficiently cool water temperatures and water flows that coincide with diurnal cues to stimulate smolt migration;
 
-(xii) Freshwater migration sites with water chemistry needed to support sea water adaptation of smolts; and 
+(xii) Freshwater migration sites with water chemistry needed to support sea water adaptation of smolts; and
 
-(xiii) Freshwater and marine sites with diverse, abundant assemblages of native fish communities to enhance survivorship as Atlantic salmon smolts emigrating through the estuary. 
+(xiii) Freshwater and marine sites with diverse, abundant assemblages of native fish communities to enhance survivorship as Atlantic salmon smolts emigrating through the estuary.
 
-(4) Habitat that meets the definition of critical habitat in occupied habitat areas on Passamaquoddy Tribal Indian lands and Fee lands or lands held in Trust by the Penobscot Indian Reservation within the range of the GOM DPS are excluded from designation. Per request of the Penobscot Tribe, critical habitat does include occupied habitat that makes up the Penobscot Indian Reservation. The Indian lands specifically excluded from critical habitat are those defined in the Secretarial Order 3206, including: 
+(4) Habitat that meets the definition of critical habitat in occupied habitat areas on Passamaquoddy Tribal Indian lands and Fee lands or lands held in Trust by the Penobscot Indian Reservation within the range of the GOM DPS are excluded from designation. Per request of the Penobscot Tribe, critical habitat does include occupied habitat that makes up the Penobscot Indian Reservation. The Indian lands specifically excluded from critical habitat are those defined in the Secretarial Order 3206, including:
 
-(i) Lands held in Trust by the United States for the benefit of any Indian Tribe; 
+(i) Lands held in Trust by the United States for the benefit of any Indian Tribe;
 
-(ii) Lands held in trust by the United States for the benefit of any Indian Tribe or individual subject to restrictions by the United States against alienation; 
+(ii) Lands held in trust by the United States for the benefit of any Indian Tribe or individual subject to restrictions by the United States against alienation;
 
-(iii) Fee lands, either within or outside the reservation boundaries, owned by the tribal government; and 
+(iii) Fee lands, either within or outside the reservation boundaries, owned by the tribal government; and
 
-(iv) Fee lands within the reservation boundaries owned by individual Indians. 
+(iv) Fee lands within the reservation boundaries owned by individual Indians.
 
-The rivers, streams, lakes, and estuaries on approximately 9,500 acres (38.4 sq km) of lands held by the Passamaquoddy Tribe and approximately 60,500 acres (244.8 sq km) of Fee lands and land held in Trust for the Penobscot Tribe within the areas occupied by the GOM DPS are excluded from critical habitat designation based on the principles of the Secretarial Order discussed above. Per request of the Penobscot Nation, the rivers, lakes, and streams within the approximately 4,400-acre (17.8 sq km) Penobscot Reservation are included as critical habitat. 
+The rivers, streams, lakes, and estuaries on approximately 9,500 acres (38.4 sq km) of lands held by the Passamaquoddy Tribe and approximately 60,500 acres (244.8 sq km) of Fee lands and land held in Trust for the Penobscot Tribe within the areas occupied by the GOM DPS are excluded from critical habitat designation based on the principles of the Secretarial Order discussed above. Per request of the Penobscot Nation, the rivers, lakes, and streams within the approximately 4,400-acre (17.8 sq km) Penobscot Reservation are included as critical habitat.
 
-(5) *Areas that do not meet the definition of critical habitat under section 4(a)(3)(B)(i).* Critical habitat does not include the following areas owned or controlled by the Department of Defense, or designated for its use, that are subject to an integrated natural resources management plan prepared under section 101 of the Sikes Act (16 U.S.C. 670a). These areas that are not included are: 
+(5) *Areas that do not meet the definition of critical habitat under section 4(a)(3)(B)(i).* Critical habitat does not include the following areas owned or controlled by the Department of Defense, or designated for its use, that are subject to an integrated natural resources management plan prepared under section 101 of the Sikes Act (16 U.S.C. 670a). These areas that are not included are:
 
-(i) The 435 acres (1.8 sq km) of the Brunswick Naval Air Station in Brunswick Maine within the Little Androscoggin HUC 10 watershed in the Merrymeeting Bay SHRU; and 
+(i) The 435 acres (1.8 sq km) of the Brunswick Naval Air Station in Brunswick Maine within the Little Androscoggin HUC 10 watershed in the Merrymeeting Bay SHRU; and
 
-(ii) The 5,328 acres (21.5 sq km) of the Brunswick Naval Air Stations cold weather survival, evasion, resistance, and escape school within the Sandy River HUC 10 watershed in the Merrymeeting Bay SHRU. 
+(ii) The 5,328 acres (21.5 sq km) of the Brunswick Naval Air Stations cold weather survival, evasion, resistance, and escape school within the Sandy River HUC 10 watershed in the Merrymeeting Bay SHRU.
 
-(6) *Areas excluded under ESA Section 4(b)(2).* (i) The 396 acres (1.6 sq km) of the Great Pond Outdoor Adventure Center in the Graham Lake HUC 10 watershed in the Downeast Coastal SHRU; 
+(6) *Areas excluded under ESA Section 4(b)(2).* (i) The 396 acres (1.6 sq km) of the Great Pond Outdoor Adventure Center in the Graham Lake HUC 10 watershed in the Downeast Coastal SHRU;
 
-(ii) The 3,000 acres (12.1 sq km) of the Naval Computer and Telecommunications Area Master Station Atlantic Detachment in the Roques Bluffs Coastal HUC 10 in the Downeast Coastal SHRU; 
+(ii) The 3,000 acres (12.1 sq km) of the Naval Computer and Telecommunications Area Master Station Atlantic Detachment in the Roques Bluffs Coastal HUC 10 in the Downeast Coastal SHRU;
 
-(iii) The Bath Iron Works ship building facility that provides the design, building, and support of complex Navy warships, including AEGIS Class Destroyers. The excluded area extends from U.S. Route 1 bridge over the Kennebec River down river to 50 feet below the south side of BIWs dry dock, but does not include any portion of Hanson Bay or the thoroughfare between Hanson Bay and the Kennebec River. The specific area excluded from designation lies within a box between four points with the following coordinates: Point 1: N43 54′39.8″, W069 48′43.5″; Point 2: N43 54′40″, W069 48′17.8″; Point 3: N43 54′0.0″, W069 48′47″; Point 4: N43 54′0.0″, W069 48′28″; 
+(iii) The Bath Iron Works ship building facility that provides the design, building, and support of complex Navy warships, including AEGIS Class Destroyers. The excluded area extends from U.S. Route 1 bridge over the Kennebec River down river to 50 feet below the south side of BIWs dry dock, but does not include any portion of Hanson Bay or the thoroughfare between Hanson Bay and the Kennebec River. The specific area excluded from designation lies within a box between four points with the following coordinates: Point 1: N43 54′39.8″, W069 48′43.5″; Point 2: N43 54′40″, W069 48′17.8″; Point 3: N43 54′0.0″, W069 48′47″; Point 4: N43 54′0.0″, W069 48′28″;
 
-(iv) The Belfast Bay HUC 10 Watershed (HUC 105000218); 
+(iv) The Belfast Bay HUC 10 Watershed (HUC 105000218);
 
-(v) The Passadumkeag River HUC 10 Watershed (HUC 102000503); and 
+(v) The Passadumkeag River HUC 10 Watershed (HUC 102000503); and
 
-(vi) The Molunkus Stream HUC 10 Watershed (HUC102000306). 
+(vi) The Molunkus Stream HUC 10 Watershed (HUC102000306).
 
-(7) *Description of critical habitat.* Critical habitat is designated to include the areas defined in the following hydrological units in the three SHRUs with the exception of those particular areas specifically identified: 
+(7) *Description of critical habitat.* Critical habitat is designated to include the areas defined in the following hydrological units in the three SHRUs with the exception of those particular areas specifically identified:
 
-(i) Downeast Coastal SHRU. Critical habitat area (in sq km), areas excluded under ESA section 4(b)(2) (in sq km), and exclusion type, by HUC 10 watersheds: 
+(i) Downeast Coastal SHRU. Critical habitat area (in sq km), areas excluded under ESA section 4(b)(2) (in sq km), and exclusion type, by HUC 10 watersheds:
 
 | Sub-basin                                                                                                                | HUC 10 code | HUC 10 watershed name | Critical habitat | Excluded areas \[type\]\* |
 | ------------------------------------------------------------------------------------------------------------------------ | ----------- | --------------------- | ---------------- | ------------------------- |
@@ -265,7 +265,7 @@ The rivers, streams, lakes, and estuaries on approximately 9,500 acres (38.4 sq 
 
 ![](/graphics/er10au09.025.gif)![](/graphics/er10au09.026.gif)
 
-(iii) Merrymeeting Bay SHRU. Critical habitat area (in sq km), areas excluded under ESA section 4(b)(2) (in sq km), and exclusion type, by HUC 10 watershed: 
+(iii) Merrymeeting Bay SHRU. Critical habitat area (in sq km), areas excluded under ESA section 4(b)(2) (in sq km), and exclusion type, by HUC 10 watershed:
 
 | Sub basin                                                                                                                | HUC 10 code | HUC 10 watershed name                 | Critical habitat | Excluded areas \[type\] \* |
 | ------------------------------------------------------------------------------------------------------------------------ | ----------- | ------------------------------------- | ---------------- | -------------------------- |

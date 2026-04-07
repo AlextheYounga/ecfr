@@ -1,16 +1,16 @@
 ##### § 628.63 Disclosures.
 
-(a) Except as provided in § 628.62, a System bank must make the disclosures described in Tables 1 through 10 of this section. The System bank must make these disclosures publicly available for each of the last 3 years (that is, 12 quarters) or such shorter period beginning on January 1, 2017.
+(a) Except as provided in § 628.62, a System bank must make the disclosures described in Tables 1 through 10 of this section. The System bank must make these disclosures publicly available for each of the last 3 years (that is, 12 quarters) or such shorter period beginning on January 1, 2017. 
 
-(b) A System bank must publicly disclose each quarter the following:
+(b) A System bank must publicly disclose each quarter the following: 
 
-(1) CET1 capital, tier 1 capital, and total capital ratios, including all the regulatory capital elements and all the regulatory adjustments and deductions needed to calculate the numerator of such ratios;
+(1) CET1 capital, tier 1 capital, and total capital ratios, including all the regulatory capital elements and all the regulatory adjustments and deductions needed to calculate the numerator of such ratios; 
 
-(2) Total risk-weighted assets, including the different regulatory adjustments and deductions needed to calculate total risk-weighted assets;
+(2) Total risk-weighted assets, including the different regulatory adjustments and deductions needed to calculate total risk-weighted assets; 
 
-(3) \[Reserved\]
+(3) \[Reserved\] 
 
-(4) A reconciliation of regulatory capital elements using month-end balances as they relate to its balance sheet in any applicable audited consolidated financial statements. The reconciliation must include a statement that compliance with the regulatory capital requirements outlined in subpart B of this part is determined using average daily balances for the most recent 3 months.
+(4) A reconciliation of regulatory capital elements using month-end balances as they relate to its balance sheet in any applicable audited consolidated financial statements. The reconciliation must include a statement that compliance with the regulatory capital requirements outlined in subpart B of this part is determined using average daily balances for the most recent 3 months. 
 
 Table 1 to § 628.63—Scope of Application
 | Qualitative Disclosures                                                                                                                                  | (a) The name of the top corporate entity in the group to which this subpart applies.1                                                                                                                                      |
@@ -72,7 +72,7 @@ Table 4 to § 628.63—Capital Buffers
 |                          | (b) At least quarterly, the System bank must calculate and publicly disclose the eligible retained income of the System bank, as described under § 628.11.                                                                                                                                                     |
 |                          | (c) At least quarterly, the System bank must calculate and publicly disclose any limitations it has on distributions and discretionary bonus payments resulting from the buffer framework described under § 628.11, including the maximum payout amount and/or maximum leverage payout amount for the quarter. |
 
-(c) *General qualitative disclosure requirement.* For each separate risk area described in tables 5 through 10 of this section, the System bank must describe its risk management objectives and policies, including: Strategies and processes; the structure and organization of the relevant risk management function; the scope and nature of risk reporting and/or measurement systems; policies for hedging and/or mitigating risk and strategies and processes for monitoring the continuing effectiveness of hedges/mitigants.
+(c) *General qualitative disclosure requirement.* For each separate risk area described in tables 5 through 10 of this section, the System bank must describe its risk management objectives and policies, including: Strategies and processes; the structure and organization of the relevant risk management function; the scope and nature of risk reporting and/or measurement systems; policies for hedging and/or mitigating risk and strategies and processes for monitoring the continuing effectiveness of hedges/mitigants. 
 
 Table 5 to § 628.63 1—Credit Risk: General Disclosures
 | Qualitative Disclosures                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | (a) The general qualitative disclosure requirement with respect to credit risk (excluding counterparty credit risk disclosed in accordance with Table 6 of this section), including the:                                                                                                                                                                                                                                                                                            |

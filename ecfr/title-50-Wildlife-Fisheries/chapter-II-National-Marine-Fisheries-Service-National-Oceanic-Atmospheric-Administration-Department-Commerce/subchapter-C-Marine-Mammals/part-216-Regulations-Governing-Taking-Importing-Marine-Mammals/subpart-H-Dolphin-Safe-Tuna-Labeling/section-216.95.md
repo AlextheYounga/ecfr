@@ -1,6 +1,6 @@
 ##### § 216.95 Official mark for “Dolphin-safe” tuna products.
 
-(a) This is the “official mark” (see figure 1) designated by the United States Department of Commerce that may be used to label tuna products that meet the “dolphin-safe” standards set forth in the Dolphin Protection Consumer Information Act, 16 U.S.C. 1385, and implementing regulations at §§ 216.91 through 216.94: 
+(a) This is the “official mark” (see figure 1) designated by the United States Department of Commerce that may be used to label tuna products that meet the “dolphin-safe” standards set forth in the Dolphin Protection Consumer Information Act, 16 U.S.C. 1385, and implementing regulations at §§ 216.91 through 216.94:
 
 ![](/graphics/er30my00.019.gif)
 

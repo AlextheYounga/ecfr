@@ -1,6 +1,6 @@
 ##### § 18.309 Frequency range of measurements.
 
-(a) For field strength measurements:
+(a) For field strength measurements: 
 
 | Frequency band in which device operates (MHz) | Range of frequency measurements                                         |
 | --------------------------------------------- | ----------------------------------------------------------------------- |
@@ -10,6 +10,6 @@
 | 500 to 1,000                                  | Lowest frequency generated in the device or 100 MHz, whichever is lower |
 | Above 1,000                                   | ......do                                                                |
 
-(b) For conducted powerline measurements, the frequency range over which the limits are specified will be scanned.
+(b) For conducted powerline measurements, the frequency range over which the limits are specified will be scanned. 
 
 \[50 FR 36070, Sept. 5, 1985, as amended at 51 FR 17971, May 16, 1986\]

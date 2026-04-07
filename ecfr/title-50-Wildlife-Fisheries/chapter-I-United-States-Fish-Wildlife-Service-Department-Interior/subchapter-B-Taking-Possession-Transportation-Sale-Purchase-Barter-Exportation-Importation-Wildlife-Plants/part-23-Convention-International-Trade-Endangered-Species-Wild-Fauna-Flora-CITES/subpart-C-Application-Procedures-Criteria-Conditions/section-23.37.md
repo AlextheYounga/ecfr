@@ -1,8 +1,8 @@
 ##### § 23.37 What are the requirements for a re-export certificate?
 
-(a) *Purposes.* Articles III, IV, and V of the Treaty set out the conditions under which a Management Authority may issue a re-export certificate for an Appendix-I, -II, or -III specimen. 
+(a) *Purposes.* Articles III, IV, and V of the Treaty set out the conditions under which a Management Authority may issue a re-export certificate for an Appendix-I, -II, or -III specimen.
 
-(b) *U.S. application forms.* Complete the appropriate form for the proposed activity and submit it to the U.S. Management Authority. Form 3-200-73 may also be submitted to Law Enforcement at certain ports or regional offices: 
+(b) *U.S. application forms.* Complete the appropriate form for the proposed activity and submit it to the U.S. Management Authority. Form 3-200-73 may also be submitted to Law Enforcement at certain ports or regional offices:
 
 | Type of application for a re-export certificate                                                                                                     | Form no.                                             |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
@@ -10,7 +10,7 @@
 | (2) Endangered Species Act and CITES:   ESA Plants   ESA Wildlife                                                                                   | 3-200-36   3-200-37                                  |
 | (3) Marine Mammal Protection Act and CITES:   Biological Samples   Live Captive-held Marine Mammals                                                 | 3-200-29   3-200-53                                  |
 
-(c) *Criteria.* The criteria in this paragraph (c) apply to the issuance and acceptance of U.S. and foreign re-export certificates. When applying for a U.S. certificate, you must provide sufficient information for us to find that your proposed activity meets all of the following criteria: 
+(c) *Criteria.* The criteria in this paragraph (c) apply to the issuance and acceptance of U.S. and foreign re-export certificates. When applying for a U.S. certificate, you must provide sufficient information for us to find that your proposed activity meets all of the following criteria:
 
 | Criteria for a re-export certificate                                                                                                                                                                                               | Appendix of the specimen | Section |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ------- |

@@ -1,16 +1,16 @@
 ##### § 90.616 896-897.5/935-936.5 MHz and 900.5-901/939.5-940 MHz narrowband segments.
 
-(a) In a transitioned market, the narrowband segments of realigned 900 MHz spectrum (*i.e.,* the 896-897.5/935-936.5 MHz and 900.5-901/939.5-940 MHz bands (Paired channels 1-119 and 361-399 as specified in § 90.613)) are designated for the following entities:
+(a) In a transitioned market, the narrowband segments of realigned 900 MHz spectrum (*i.e.,* the 896-897.5/935-936.5 MHz and 900.5-901/939.5-940 MHz bands (Paired channels 1-119 and 361-399 as specified in § 90.613)) are designated for the following entities: 
 
-(1) Applicants eligible in the Industrial/Business Pool of subpart C of this part;
+(1) Applicants eligible in the Industrial/Business Pool of subpart C of this part; 
 
-(2) Business/Industrial/Land Transportation Pool and Specialized Mobile Radio licensees authorized as of September 13, 2018, for continuing operations; and
+(2) Business/Industrial/Land Transportation Pool and Specialized Mobile Radio licensees authorized as of September 13, 2018, for continuing operations; and 
 
-(3) Business/Industrial/Land Transportation Pool and Specialized Mobile Radio licensees authorized as of September 13, 2018, for relocation to the new narrowband segments from the broadband segment pursuant to part 27, subpart P, of this chapter.
+(3) Business/Industrial/Land Transportation Pool and Specialized Mobile Radio licensees authorized as of September 13, 2018, for relocation to the new narrowband segments from the broadband segment pursuant to part 27, subpart P, of this chapter. 
 
-(b) Applications for new authorizations will only be accepted from applicants specified in paragraph (a)(1) of this section.
+(b) Applications for new authorizations will only be accepted from applicants specified in paragraph (a)(1) of this section. 
 
-(c) Table 1 to § 90.616(c) indicates the channels available in transitioned markets to the entities set forth in paragraph (a) of this section. These frequencies are available in transitioned markets in non-border areas and the U.S./Mexico border area. For multi-channel systems, channels may be grouped vertically or horizontally as they appear in the following table.
+(c) Table 1 to § 90.616(c) indicates the channels available in transitioned markets to the entities set forth in paragraph (a) of this section. These frequencies are available in transitioned markets in non-border areas and the U.S./Mexico border area. For multi-channel systems, channels may be grouped vertically or horizontally as they appear in the following table. 
 
 Table 1 to § 90.616(c)—Channels in the 896-897.5/935-936.5 MHz and 900.5-901/939.5-940 MHz Frequency Bands in Tran- sitioned Markets
 
@@ -32,7 +32,7 @@ Table 1 to § 90.616(c)—Channels in the 896-897.5/935-936.5 MHz and 900.5-901/
 | 71-72-73-74-75 | 391-392-393-394-395. |
 | 76-77-78-79-80 | 396-397-398-399.     |
 
-(d) Table 2 to § 90.616(d) indicates the channels available in transitioned markets to the entities set forth in paragraph (a) of this section, available for use in the U.S./Canada border area.
+(d) Table 2 to § 90.616(d) indicates the channels available in transitioned markets to the entities set forth in paragraph (a) of this section, available for use in the U.S./Canada border area. 
 
 Table 2 to § 90.616(d)—Channels in the 896-897.5/935-936.5 and 900.5-901/939.5-940 MHz Frequency Bands in Transitioned Markets Available in the U.S./Canada Border Area
 | Region | Location   (longitude)                   | Channels         |
@@ -46,7 +46,7 @@ Table 2 to § 90.616(d)—Channels in the 896-897.5/935-936.5 and 900.5-901/939.
 | 7      | 66° W-121°30′ W (100-140 km from border) | 1-119, 361-399.  |
 | 8      | 127° W-143° W (100-140 km from border)   | 1-119, 361-399.  |
 
-(e) Table 3 to § 90.616(e) indicates additional channels available in transitioned markets to the entities set forth in paragraph (a) of this section, available for use in the U.S./Canada border area. The channels listed in Table 3 are available for assignment in Regions 1-6 if the maximum power flux density (PFD) of the station's transmitted signal does not exceed the limits specified in tables 29 and 30 of § 90.619 of this chapter.
+(e) Table 3 to § 90.616(e) indicates additional channels available in transitioned markets to the entities set forth in paragraph (a) of this section, available for use in the U.S./Canada border area. The channels listed in Table 3 are available for assignment in Regions 1-6 if the maximum power flux density (PFD) of the station's transmitted signal does not exceed the limits specified in tables 29 and 30 of § 90.619 of this chapter. 
 
 Table 3 to § 90.616(e)—Additional Channels Available in Tran- sitioned Markets in the U.S./Canada Border Area
 

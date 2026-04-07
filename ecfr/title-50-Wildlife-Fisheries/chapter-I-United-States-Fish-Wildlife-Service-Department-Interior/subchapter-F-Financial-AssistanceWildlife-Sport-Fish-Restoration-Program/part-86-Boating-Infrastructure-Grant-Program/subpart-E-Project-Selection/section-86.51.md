@@ -1,6 +1,6 @@
 ##### § 86.51 What criteria does the Service use to evaluate BIG Tier 2—National applications?
 
-Our panel of professional staff and any invited participants evaluate BIG Tier 2—National applications using the ranking criteria in the following table and assign points within the range for each criterion. We may give added information to guide applicants regarding these criteria in the annual NOFO on *http://www.grants.gov.* This may include the minimum total points that your application must receive in order to qualify for award. 
+Our panel of professional staff and any invited participants evaluate BIG Tier 2—National applications using the ranking criteria in the following table and assign points within the range for each criterion. We may give added information to guide applicants regarding these criteria in the annual NOFO on *http://www.grants.gov.* This may include the minimum total points that your application must receive in order to qualify for award.
 
 | Ranking criteria                                                                                                                                                                                                                  | Points                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |

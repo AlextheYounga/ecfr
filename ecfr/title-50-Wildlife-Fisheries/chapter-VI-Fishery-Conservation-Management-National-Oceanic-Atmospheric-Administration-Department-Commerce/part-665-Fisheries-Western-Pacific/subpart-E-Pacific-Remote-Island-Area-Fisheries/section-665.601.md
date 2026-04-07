@@ -1,10 +1,10 @@
 ##### § 665.601 Definitions.
 
-As used in §§ 665.600 through 665.619: 
+As used in §§ 665.600 through 665.619:
 
-*PRIA bottomfish fishing permit* means the permit required by § 665.603 to use a vessel to fish for PRIA bottomfish MUS in the EEZ around the PRIA, or to land bottomfish MUS shoreward of the outer boundary of the EEZ around the PRIA, with the exception of EEZ waters around Midway Atoll. 
+*PRIA bottomfish fishing permit* means the permit required by § 665.603 to use a vessel to fish for PRIA bottomfish MUS in the EEZ around the PRIA, or to land bottomfish MUS shoreward of the outer boundary of the EEZ around the PRIA, with the exception of EEZ waters around Midway Atoll.
 
-*PRIA bottomfish management unit species (PRIA bottomfish MUS)* means the following fish: 
+*PRIA bottomfish management unit species (PRIA bottomfish MUS)* means the following fish:
 
 | Common name                      | Scientific name              |
 | -------------------------------- | ---------------------------- |

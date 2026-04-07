@@ -1,6 +1,6 @@
 ##### § 648.60 Sea Scallop Rotational Areas.
 
-(a) *Area I-Quad Scallop Rotational Area.* The Area 1-Quad Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request): 
+(a) *Area I-Quad Scallop Rotational Area.* The Area 1-Quad Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
 Table 1 to Paragraph (a)
 | Point | N latitude | W longitude |
@@ -11,7 +11,7 @@ Table 1 to Paragraph (a)
 | AIQ4  | 40°55.8′   | 68°46.8′    |
 | AIQ1  | 40°55.2′   | 68°53.4′    |
 
-(b) *Area II Scallop Rotational Area*—(1) *Area II Scallop Rotational Area boundary.* The Area II Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request): 
+(b) *Area II Scallop Rotational Area*—(1) *Area II Scallop Rotational Area boundary.* The Area II Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
 Table 2 to Paragraph (b)(1)
 | Point                                                                                                                                  | N latitude | W longitude | Note |
@@ -25,11 +25,11 @@ Table 2 to Paragraph (b)(1)
 | b From Point AII2 connected to Point AII3 along the United States-Canada Maritime Boundary.                                            |            |             |      |
 | c The intersection of lat. 40°40′ N and the United States-Canada Maritime Boundary, approximately lat. 40°40′ N and long. 65°52.61′ W. |            |             |      |
 
-(2) *Season.* (i) A vessel issued a scallop permit may not fish for, possess, or land scallops in or from the area known as the Area II Scallop Rotational Area, defined in paragraph (b)(1) of this section, during the period of August 15 through November 15 of each year the Area II Access Area is open to scallop vessels, unless transiting pursuant to § 648.59(a). 
+(2) *Season.* (i) A vessel issued a scallop permit may not fish for, possess, or land scallops in or from the area known as the Area II Scallop Rotational Area, defined in paragraph (b)(1) of this section, during the period of August 15 through November 15 of each year the Area II Access Area is open to scallop vessels, unless transiting pursuant to § 648.59(a).
 
-(ii) \[Reserved\] 
+(ii) \[Reserved\]
 
-(c) *Area I Scallop Rotational Area.* The Area I Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request): 
+(c) *Area I Scallop Rotational Area.* The Area I Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
 Table 3 to Paragraph (c)
 | Point | N latitude | W longitude |
@@ -42,7 +42,7 @@ Table 3 to Paragraph (c)
 | AIA6  | 41°25.8′   | 68°30′      |
 | AIA1  | 40°58.2′   | 68°30′      |
 
-(d) *Area 1-Sliver Scallop Rotational Area.* The Area 1-Sliver Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request): 
+(d) *Area 1-Sliver Scallop Rotational Area.* The Area 1-Sliver Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
 Table 4 to Paragraph (d)
 | Point | N latitude | W longitude |
@@ -53,9 +53,9 @@ Table 4 to Paragraph (d)
 | AIS4  | 41°30.0′   | 69°22.8′    |
 | AIS1  | 41°30.0′   | 68°30.0′    |
 
-(e)—(f) \[Reserved\] 
+(e)—(f) \[Reserved\]
 
-(g) *Nantucket Lightship Scallop Rotational Area.* The Nantucket Lightship Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request): 
+(g) *Nantucket Lightship Scallop Rotational Area.* The Nantucket Lightship Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
 Table 5 to Paragraph (g)
 | Point | N latitude | W longitude |
@@ -71,9 +71,9 @@ Table 5 to Paragraph (g)
 | NLS9  | 40°33.0′   | 69°0.0′     |
 | NLS1  | 40°49.8′   | 69°0.0′     |
 
-(h)—(i) \[Reserved\] 
+(h)—(i) \[Reserved\]
 
-(j) *New York Bight Scallop Rotational Area.* The New York Bight Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request): 
+(j) *New York Bight Scallop Rotational Area.* The New York Bight Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
 Table 6 to Paragraph (j)
 | Point | N latitude | W longitude |

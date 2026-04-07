@@ -1,8 +1,8 @@
 ##### § 131.43 Report of securities issued.
 
-(See § 34.10 of this chapter.) 
+(See § 34.10 of this chapter.)
 
-(Submit an original and four copies.) 
+(Submit an original and four copies.)
 
 \[Name of respondent\]
 
@@ -34,6 +34,6 @@ Description of security....................................
 
 ##### § 131.43 Report of securities issued.
 
-(See § 34.10 of this chapter) 
+(See § 34.10 of this chapter)
 
 (Submit in electronic format in accordance with § 385.2003 of this chapter.)

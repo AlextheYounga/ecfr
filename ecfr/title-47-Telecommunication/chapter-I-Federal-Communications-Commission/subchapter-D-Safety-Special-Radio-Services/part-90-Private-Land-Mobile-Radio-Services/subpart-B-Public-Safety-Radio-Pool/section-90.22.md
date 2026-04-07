@@ -1,6 +1,6 @@
 ##### § 90.22 Paging operations.
 
-Unless specified elsewhere in this part, paging operations may be authorized in the Public Safety Pool on any frequency except those assigned under the provisions of § 90.20(d)(78). Paging operations on frequencies subject to § 90.20(d)(78) authorized before August 17, 1974, may be continued only if they do not cause harmful interference to regular operations on the same frequencies. Such paging operations may be renewed indefinitely on a secondary basis to regular operations, except within 125 km (75 mi) of the following urbanized areas:
+Unless specified elsewhere in this part, paging operations may be authorized in the Public Safety Pool on any frequency except those assigned under the provisions of § 90.20(d)(78). Paging operations on frequencies subject to § 90.20(d)(78) authorized before August 17, 1974, may be continued only if they do not cause harmful interference to regular operations on the same frequencies. Such paging operations may be renewed indefinitely on a secondary basis to regular operations, except within 125 km (75 mi) of the following urbanized areas: 
 
 | Urbanized area               | North   latitude | West   longitude |
 | ---------------------------- | ---------------- | ---------------- |

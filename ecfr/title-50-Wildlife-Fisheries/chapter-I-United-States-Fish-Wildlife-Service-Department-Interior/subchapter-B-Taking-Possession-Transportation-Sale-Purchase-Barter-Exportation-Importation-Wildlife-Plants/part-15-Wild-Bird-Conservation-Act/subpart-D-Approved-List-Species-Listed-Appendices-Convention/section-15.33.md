@@ -1,6 +1,6 @@
 ##### § 15.33 Species included in the approved list.
 
-(a) *Captive-bred species.* The list in this paragraph includes species of captive-bred exotic birds for which importation into the United States is not prohibited by section 15.11. The species are grouped taxonomically by order. 
+(a) *Captive-bred species.* The list in this paragraph includes species of captive-bred exotic birds for which importation into the United States is not prohibited by section 15.11. The species are grouped taxonomically by order.
 
 | Species                                                                               | Common name                         |
 | ------------------------------------------------------------------------------------- | ----------------------------------- |
@@ -64,6 +64,6 @@
 | Serinus canaria                                                                       | Common Canary.                      |
 | 1**Note:** Permits are still required for this species under part 17 of this chapter. |                                     |
 
-(b) *Non-captive-bred species.* The list in this paragraph includes species of non-captive-bred exotic birds and countries for which importation into the United States is not prohibited by section 15.11. The species are grouped taxonomically by order, and may only be imported from the approved country, except as provided under a permit issued pursuant to subpart C of this part. 
+(b) *Non-captive-bred species.* The list in this paragraph includes species of non-captive-bred exotic birds and countries for which importation into the United States is not prohibited by section 15.11. The species are grouped taxonomically by order, and may only be imported from the approved country, except as provided under a permit issued pursuant to subpart C of this part.
 
 \[59 FR 62262, Dec. 2, 1994, as amended at 61 FR 2093, Jan. 24, 1996; 82 FR 16540, Apr. 5, 2017\]

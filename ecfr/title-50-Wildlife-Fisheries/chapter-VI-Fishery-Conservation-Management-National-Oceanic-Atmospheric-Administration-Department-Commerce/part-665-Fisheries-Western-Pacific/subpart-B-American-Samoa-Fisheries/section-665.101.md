@@ -1,10 +1,10 @@
 ##### § 665.101 Definitions.
 
-As used in §§ 665.100 through 665.119: 
+As used in §§ 665.100 through 665.119:
 
-*American Samoa bottomfish ecosystem component species (American Samoa bottomfish ECS)* means those species identified as ECS in the American Samoa FEP and not defined as American Samoa bottomfish MUS. 
+*American Samoa bottomfish ecosystem component species (American Samoa bottomfish ECS)* means those species identified as ECS in the American Samoa FEP and not defined as American Samoa bottomfish MUS.
 
-*American Samoa bottomfish management unit species (American Samoa bottomfish MUS)* means the following species: 
+*American Samoa bottomfish management unit species (American Samoa bottomfish MUS)* means the following species:
 
 | Local name          | Common name              | Scientific name              |
 | ------------------- | ------------------------ | ---------------------------- |

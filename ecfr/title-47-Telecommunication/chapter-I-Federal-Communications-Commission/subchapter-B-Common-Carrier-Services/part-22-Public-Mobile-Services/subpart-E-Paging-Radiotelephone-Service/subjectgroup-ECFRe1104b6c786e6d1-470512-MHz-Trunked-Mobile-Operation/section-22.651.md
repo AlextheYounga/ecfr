@@ -1,6 +1,6 @@
 ##### § 22.651 470-512 MHz channels for trunked mobile operation.
 
-The following channels are allocated for assignment to transmitters providing trunked public mobile service within the specified urban areas. All channels have a bandwidth of 20 kHz and are designated by their center frequencies in MegaHertz.
+The following channels are allocated for assignment to transmitters providing trunked public mobile service within the specified urban areas. All channels have a bandwidth of 20 kHz and are designated by their center frequencies in MegaHertz. 
 
 | Houston                      |          |          |          |
 | 488.0125                     | 491.0125 | 488.0875 | 491.0875 |

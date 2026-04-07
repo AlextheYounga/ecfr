@@ -2,23 +2,23 @@
 
 Link to an amendment published at 89 FR 72737, Sept. 6, 2024.
 
-(a) The EAS uses a four part message for an emergency activation of the EAS. The four parts are: Preamble and EAS Header Codes; audio Attention Signal; message; and, Preamble and EAS End Of Message (EOM) Codes.
+(a) The EAS uses a four part message for an emergency activation of the EAS. The four parts are: Preamble and EAS Header Codes; audio Attention Signal; message; and, Preamble and EAS End Of Message (EOM) Codes. 
 
-(1) The Preamble and EAS Codes must use Audio Frequency Shift Keying at a rate of 520.83 bits per second to transmit the codes. Mark frequency is 2083.3 Hz and space frequency is 1562.5 Hz. Mark and space time must be 1.92 milliseconds. Characters are ASCII seven bit characters as defined in ANSI X3.4-1977 ending with an eighth null bit (either 0 or 1) to constitute a full eight-bit byte.
+(1) The Preamble and EAS Codes must use Audio Frequency Shift Keying at a rate of 520.83 bits per second to transmit the codes. Mark frequency is 2083.3 Hz and space frequency is 1562.5 Hz. Mark and space time must be 1.92 milliseconds. Characters are ASCII seven bit characters as defined in ANSI X3.4-1977 ending with an eighth null bit (either 0 or 1) to constitute a full eight-bit byte. 
 
-(2) The Attention Signal must be made up of the fundamental frequencies of 853 and 960 Hz. The two tones must be transmitted simultaneously. The Attention Signal must be transmitted after the EAS header codes.
+(2) The Attention Signal must be made up of the fundamental frequencies of 853 and 960 Hz. The two tones must be transmitted simultaneously. The Attention Signal must be transmitted after the EAS header codes. 
 
-(3) The message may be audio, video or text.
+(3) The message may be audio, video or text. 
 
-(b) The ASCII dash and plus symbols are required and may not be used for any other purpose. Unused characters must be ASCII space characters. FM or TV call signs must use a slash ASCII character number 47 (/) in lieu of a dash.
+(b) The ASCII dash and plus symbols are required and may not be used for any other purpose. Unused characters must be ASCII space characters. FM or TV call signs must use a slash ASCII character number 47 (/) in lieu of a dash. 
 
-(c) The EAS protocol, including any codes, must not be amended, extended or abridged without FCC authorization. The EAS protocol and message format are specified in the following representation.
+(c) The EAS protocol, including any codes, must not be amended, extended or abridged without FCC authorization. The EAS protocol and message format are specified in the following representation. 
 
-Examples are provided in FCC Public Notices.
+Examples are provided in FCC Public Notices. 
 
 \[PREAMBLE\]ZCZC-ORG-EEE-PSSCCC + TTTT-JJJHHMM-LLLLLLLL-(one second pause) \[PREAMBLE\]ZCZC-ORG-EEE-PSSCCC + TTTTpJJJHHMM-LLLLLLLL-(one second pause) \[PREAMBLE\]ZCZC-ORG-EEE-PSSCCC + TTTT-JJJHHMM-LLLLLLLL-(at least a one second pause) (transmission of 8 to 25 seconds of Attention Signal) (transmission of audio, video or text messages) (at least a one second pause) \[PREAMBLE\]NNNN (one second pause) \[PREAMBLE\]NNNN (one second pause) \[PREAMBLE\]NNNN (at least one second pause) \[PREAMBLE\] This is a consecutive string of bits (sixteen bytes of AB hexadecimal \[8 bit byte 10101011\]) sent to clear the system, set AGC and set asynchronous decoder clocking cycles. The preamble must be transmitted before each header and End of Message code. ZCZC—This is the identifier, sent as ASCII characters ZCZC to indicate the start of ASCII code. ORG—This is the Originator code and indicates who originally initiated the activation of the EAS. These codes are specified in paragraph (d) of this section. EEE—This is the Event code and indicates the nature of the EAS activation. The codes are specified in paragraph (e) of this section. The Event codes must be compatible with the codes used by the NWS Weather Radio Specific Area Message Encoder (WRSAME). PSSCCC—This is the Location code and indicates the geographic area affected by the EAS alert. There may be 31 Location codes in an EAS alert. The Location code uses the codes described in the American National Standards Institute (ANSI) standard, ANSI INCITS 31-2009 (“Information technology—Codes for the Identification of Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas”). Each state is assigned an SS number as specified in paragraph (f) of this section. Each county and some cities are assigned a CCC number. A CCC number of 000 refers to an entire State or Territory. P defines county subdivisions as follows: 0 = all or an unspecified portion of a county, 1 = Northwest, 2 = North, 3 = Northeast, 4 = West, 5 = Central, 6 = East, 7 = Southwest, 8 = South, 9 = Southeast. Other numbers may be designated later for special applications. The use of county subdivisions will probably be rare and generally for oddly shaped or unusually large counties. Any subdivisions must be defined and agreed to by the local officials prior to use. + TTTT—This indicates the valid time period of a message in 15 minute segments up to one hour and then in 30 minute segments beyond one hour; *i.e.*, + 0015, + 0030, + 0045, + 0100, + 0430 and + 0600. JJJHHMM—This is the day in Julian Calendar days (JJJ) of the year and the time in hours and minutes (HHMM) when the message was initially released by the originator using 24 hour Universal Coordinated Time (UTC). LLLLLLLL—This is the identification of the EAS Participant, NWS office, etc., transmitting or retransmitting the message. These codes will be automatically affixed to all outgoing messages by the EAS encoder. NNNN—This is the End of Message (EOM) code sent as a string of four ASCII N characters.
 
-(d)(1) The only originator codes are:
+(d)(1) The only originator codes are: 
 
 | Originator               | ORG code |
 | ------------------------ | -------- |
@@ -27,9 +27,9 @@ Examples are provided in FCC Public Notices.
 | National Weather Service | WXR      |
 | United States Government | PEP      |
 
-(2) Use of the previously authorized NIC originator code (National Information Center) must be discontinued by no later than December 12, 2023.
+(2) Use of the previously authorized NIC originator code (National Information Center) must be discontinued by no later than December 12, 2023. 
 
-(e) The following Event (EEE) codes are presently authorized:
+(e) The following Event (EEE) codes are presently authorized: 
 
 | Nature of activation                          | Event codes |
 | --------------------------------------------- | ----------- |
@@ -91,7 +91,7 @@ Examples are provided in FCC Public Notices.
 | Winter Storm Warning                          | WSW.        |
 | Winter Storm Watch                            | WSA.        |
 
-(f) The All U.S., State, Territory and Offshore (Marine Area) ANSI number codes (SS) are as follows. County ANSI numbers (CCC) are contained in the State EAS Mapbook.
+(f) The All U.S., State, Territory and Offshore (Marine Area) ANSI number codes (SS) are as follows. County ANSI numbers (CCC) are contained in the State EAS Mapbook. 
 
 |                                                                                                                                                                                                      | ANSI No. |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |

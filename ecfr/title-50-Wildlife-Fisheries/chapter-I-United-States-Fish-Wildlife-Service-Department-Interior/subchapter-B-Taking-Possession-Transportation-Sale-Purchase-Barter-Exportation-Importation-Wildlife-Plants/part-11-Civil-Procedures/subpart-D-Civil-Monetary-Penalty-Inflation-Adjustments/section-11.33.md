@@ -1,6 +1,6 @@
 ##### § 11.33 Adjustments to penalties.
 
-The civil monetary penalties provided by law within the jurisdiction of the U.S. Fish and Wildlife Service are adjusted as follows: 
+The civil monetary penalties provided by law within the jurisdiction of the U.S. Fish and Wildlife Service are adjusted as follows:
 
 | Law                                               | Citation              | Type of violation                                                                                | Maximum   civil   monetary   penalty |
 | ------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------ |

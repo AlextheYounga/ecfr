@@ -1,8 +1,8 @@
 ##### § 430.7 Determination of protected areas and restriction on water use.
 
-In consideration of the foregoing facts and for the purposes cited above: 
+In consideration of the foregoing facts and for the purposes cited above:
 
-(a) The Commission hereby determines and delineates the following area to be a protected area within the meaning and for the purpose of Article 10 of the Delaware River Basin Compact: 
+(a) The Commission hereby determines and delineates the following area to be a protected area within the meaning and for the purpose of Article 10 of the Delaware River Basin Compact:
 
 Southeastern Pennsylvania Ground Water Protected Area
 

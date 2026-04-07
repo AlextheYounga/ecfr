@@ -1,6 +1,6 @@
 ##### § 32.7250 Provision for deferred operating income taxes—net.
 
-(a) This account shall be charged or credited, as appropriate, *with contra entries* recorded to the following accounts for income tax expense that has been deferred in accordance with § 32.22 of subpart B.
+(a) This account shall be charged or credited, as appropriate, *with contra entries* recorded to the following accounts for income tax expense that has been deferred in accordance with § 32.22 of subpart B. 
 
 4100 Net Current Deferred Operating Income Taxes 4340 Net Noncurrent Deferred Operating Income Taxes
 

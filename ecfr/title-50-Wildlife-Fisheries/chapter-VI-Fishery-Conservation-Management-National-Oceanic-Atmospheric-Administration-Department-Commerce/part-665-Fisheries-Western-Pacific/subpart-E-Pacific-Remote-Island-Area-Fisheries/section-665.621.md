@@ -1,10 +1,10 @@
 ##### § 665.621 Definitions.
 
-As used in §§ 665.620 through 665.639: 
+As used in §§ 665.620 through 665.639:
 
-*PRIA coral reef ecosystem management unit species (PRIA coral reef ecosystem MUS)* means all of the Currently Harvested Coral Reef Taxa and Potentially Harvested Coral Reef Taxa listed in this section and which spend the majority of their non-pelagic (post-settlement) life stages within waters less than or equal to 50 fathoms in total depth. 
+*PRIA coral reef ecosystem management unit species (PRIA coral reef ecosystem MUS)* means all of the Currently Harvested Coral Reef Taxa and Potentially Harvested Coral Reef Taxa listed in this section and which spend the majority of their non-pelagic (post-settlement) life stages within waters less than or equal to 50 fathoms in total depth.
 
-PRIA Currently Harvested Coral Reef Taxa: 
+PRIA Currently Harvested Coral Reef Taxa:
 
 | Family name                  | English common name         | Scientific name               |
 | ---------------------------- | --------------------------- | ----------------------------- |
@@ -64,7 +64,7 @@ PRIA Currently Harvested Coral Reef Taxa:
 | Scombridae                   | Dogtooth tuna               | Gymnosarda unicolor.          |
 | Sphyraenidae (Barracuda)     | great barracuda             | Sphyraena barracuda.          |
 
-PRIA Potentially Harvested Coral Reef Taxa: 
+PRIA Potentially Harvested Coral Reef Taxa:
 
 | English common name                                                                                                                                                                                                           | Scientific name                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |

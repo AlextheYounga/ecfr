@@ -1,16 +1,16 @@
 ##### § 3.63 Disclosures by national banks or Federal savings associations described in § 3.61.
 
-(a) Except as provided in § 3.62, a national bank or Federal savings association described in § 3.61 must make the disclosures described in Tables 1 through 10 of this section. The national bank or Federal savings association must make these disclosures publicly available for each of the last three years (that is, twelve quarters) or such shorter period beginning on January 1, 2015.
+(a) Except as provided in § 3.62, a national bank or Federal savings association described in § 3.61 must make the disclosures described in Tables 1 through 10 of this section. The national bank or Federal savings association must make these disclosures publicly available for each of the last three years (that is, twelve quarters) or such shorter period beginning on January 1, 2015. 
 
-(b) A national bank or Federal savings association must publicly disclose each quarter the following:
+(b) A national bank or Federal savings association must publicly disclose each quarter the following: 
 
-(1) Common equity tier 1 capital, additional tier 1 capital, tier 2 capital, tier 1 and total capital ratios, including the regulatory capital elements and all the regulatory adjustments and deductions needed to calculate the numerator of such ratios;
+(1) Common equity tier 1 capital, additional tier 1 capital, tier 2 capital, tier 1 and total capital ratios, including the regulatory capital elements and all the regulatory adjustments and deductions needed to calculate the numerator of such ratios; 
 
-(2) Total risk-weighted assets, including the different regulatory adjustments and deductions needed to calculate total risk-weighted assets;
+(2) Total risk-weighted assets, including the different regulatory adjustments and deductions needed to calculate total risk-weighted assets; 
 
-(3) Regulatory capital ratios during any transition periods, including a description of all the regulatory capital elements and all regulatory adjustments and deductions needed to calculate the numerator and denominator of each capital ratio during any transition period; and
+(3) Regulatory capital ratios during any transition periods, including a description of all the regulatory capital elements and all regulatory adjustments and deductions needed to calculate the numerator and denominator of each capital ratio during any transition period; and 
 
-(4) A reconciliation of regulatory capital elements as they relate to its balance sheet in any audited consolidated financial statements.
+(4) A reconciliation of regulatory capital elements as they relate to its balance sheet in any audited consolidated financial statements. 
 
 Table 1 to § 3.63—Scope of Application
 | Qualitative Disclosures                                                                                                                                                                                            | (a) | The name of the top corporate entity in the group to which subpart D of this part applies.                                                                                                                             |
@@ -68,7 +68,7 @@ Table 4 to § 3.63—Capital Conservation Buffer
 |                          | (b) | At least quarterly, the national bank or Federal savings association must calculate and publicly disclose the eligible retained income of the national bank or Federal savings association, as described under § 3.11.                                                                                                   |
 |                          | (c) | At least quarterly, the national bank or Federal savings association must calculate and publicly disclose any limitations it has on distributions and discretionary bonus payments resulting from the capital conservation buffer framework described under § 3.11, including the maximum payout amount for the quarter. |
 
-(c) *General qualitative disclosure requirement.* For each separate risk area described in Tables 5 through 10, the national bank or Federal savings association must describe its risk management objectives and policies, including: Strategies and processes; the structure and organization of the relevant risk management function; the scope and nature of risk reporting and/or measurement systems; policies for hedging and/or mitigating risk and strategies and processes for monitoring the continuing effectiveness of hedges/mitigants.
+(c) *General qualitative disclosure requirement.* For each separate risk area described in Tables 5 through 10, the national bank or Federal savings association must describe its risk management objectives and policies, including: Strategies and processes; the structure and organization of the relevant risk management function; the scope and nature of risk reporting and/or measurement systems; policies for hedging and/or mitigating risk and strategies and processes for monitoring the continuing effectiveness of hedges/mitigants. 
 
 Table 5 to § 3.63 1—Credit Risk: General Disclosures
 | Qualitative Disclosures                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | (a) | The general qualitative disclosure requirement with respect to credit risk (excluding counterparty credit risk disclosed in accordance with Table 6), including the:                                                                                                                                                                                                                                                                                                                                             |
@@ -187,8 +187,8 @@ Table 10 to § 3.63—Interest Rate Risk for Non-Trading Activities
 | Qualitative disclosures  | (a) | The general qualitative disclosure requirement, including the nature of interest rate risk for non-trading activities and key assumptions, including assumptions regarding loan prepayments and behavior of non-maturity deposits, and frequency of measurement of interest rate risk for non-trading activities. |
 | Quantitative disclosures | (b) | The increase (decline) in earnings or economic value (or relevant measure used by management) for upward and downward rate shocks according to management's method for measuring interest rate risk for non-trading activities, categorized by currency (as appropriate).                                         |
 
-(d) A Category III national bank or Federal savings association that is required to publicly disclose its supplementary leverage ratio pursuant to § 3.172(d) is subject to the supplementary leverage ratio disclosure requirement at § 3.173(a)(2).
+(d) A Category III national bank or Federal savings association that is required to publicly disclose its supplementary leverage ratio pursuant to § 3.172(d) is subject to the supplementary leverage ratio disclosure requirement at § 3.173(a)(2). 
 
-(e) A Category III national bank or Federal savings association that is required to calculate a countercyclical capital buffer pursuant to § 3.11 is subject to the disclosure requirement at Table 4 to § 3.173, “Capital Conservation and Countercyclical Capital Buffers,” and not to the disclosure requirement at Table 4 to this section, “Capital Conservation Buffer.”
+(e) A Category III national bank or Federal savings association that is required to calculate a countercyclical capital buffer pursuant to § 3.11 is subject to the disclosure requirement at Table 4 to § 3.173, “Capital Conservation and Countercyclical Capital Buffers,” and not to the disclosure requirement at Table 4 to this section, “Capital Conservation Buffer.” 
 
 \[78 FR 62157, 62273, Oct. 11, 2013, as amended at 84 FR 4238, Feb. 14, 2019; 84 FR 35256, July 22, 2019; 84 FR 59265, Nov. 1, 2019\]

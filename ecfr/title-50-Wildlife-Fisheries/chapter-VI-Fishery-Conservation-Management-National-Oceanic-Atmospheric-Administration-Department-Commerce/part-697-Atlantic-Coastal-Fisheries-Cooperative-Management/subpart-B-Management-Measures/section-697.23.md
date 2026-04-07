@@ -1,12 +1,12 @@
 ##### § 697.23 Restricted gear areas.
 
-(a) Resolution of lobster gear conflicts with fisheries managed under the Magnuson-Stevens Act shall be done under provisions of § 648.55 of this chapter. 
+(a) Resolution of lobster gear conflicts with fisheries managed under the Magnuson-Stevens Act shall be done under provisions of § 648.55 of this chapter.
 
-(b) *Restricted Gear Area I*—(1) *Duration*—(i) *Mobile Gear.* From October 1 through June 15 of each fishing year, no fishing vessel with mobile gear or person on a fishing vessel with mobile gear may fish, or be, in Restricted Gear Area I, as defined in paragraph (b)(2) of this section, unless transiting only, provided that all mobile gear is on board the vessel while inside the area. 
+(b) *Restricted Gear Area I*—(1) *Duration*—(i) *Mobile Gear.* From October 1 through June 15 of each fishing year, no fishing vessel with mobile gear or person on a fishing vessel with mobile gear may fish, or be, in Restricted Gear Area I, as defined in paragraph (b)(2) of this section, unless transiting only, provided that all mobile gear is on board the vessel while inside the area.
 
-(ii) *Lobster trap gear.* From June 16 through September 30 of each fishing year, no fishing vessel with lobster trap gear or person on a fishing vessel with lobster trap gear may fish, and no lobster trap gear may be deployed or remain, in Restricted Gear Area I as defined in paragraph (b)(2) of this section. 
+(ii) *Lobster trap gear.* From June 16 through September 30 of each fishing year, no fishing vessel with lobster trap gear or person on a fishing vessel with lobster trap gear may fish, and no lobster trap gear may be deployed or remain, in Restricted Gear Area I as defined in paragraph (b)(2) of this section.
 
-(2) *Definition of Restricted Gear Area I.* Restricted Gear Area I is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area): 
+(2) *Definition of Restricted Gear Area I.* Restricted Gear Area I is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area):
 
 Table 1 to Paragraph (b)(2)
 | Point | Latitude    | Longitude   | Note |
@@ -119,11 +119,11 @@ Table 1 to Paragraph (b)(2)
 | EB    | 39°59.30′ N | 70°14.00′ W | \*   |
 | AA    | 40°02.75′ N | 70°16.10′ W | \*   |
 
-(c) *Restricted Gear Area II*—(1) *Duration*—(i) *Mobile Gear.* From November 27 through June 15 of each fishing year, no fishing vessel with mobile gear or person on a fishing vessel with mobile gear may fish, or be, in Restricted Gear Area II (as defined in paragraph (c)(2) of this section) unless transiting only, provided that all mobile gear is on board the vessel while inside the area. 
+(c) *Restricted Gear Area II*—(1) *Duration*—(i) *Mobile Gear.* From November 27 through June 15 of each fishing year, no fishing vessel with mobile gear or person on a fishing vessel with mobile gear may fish, or be, in Restricted Gear Area II (as defined in paragraph (c)(2) of this section) unless transiting only, provided that all mobile gear is on board the vessel while inside the area.
 
-(ii) *Lobster trap gear.* From June 16 through November 26 of each fishing year, no fishing vessel with lobster trap gear or person on a fishing vessel with lobster trap gear may fish, and no lobster trap gear may be deployed or remain, in Restricted Gear Area II as defined in paragraph (c)(2) of this section. 
+(ii) *Lobster trap gear.* From June 16 through November 26 of each fishing year, no fishing vessel with lobster trap gear or person on a fishing vessel with lobster trap gear may fish, and no lobster trap gear may be deployed or remain, in Restricted Gear Area II as defined in paragraph (c)(2) of this section.
 
-(2) *Definition of Restricted Gear Area II.* Restricted Gear Area II is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area): 
+(2) *Definition of Restricted Gear Area II.* Restricted Gear Area II is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area):
 
 Table 2 to Paragraph (c)(2)
 | Point | Latitude    | Longitude   | Note |
@@ -194,11 +194,11 @@ Table 2 to Paragraph (c)(2)
 | GL    | 40°00.70′ N | 70°18.60′ W | (\*) |
 | AA    | 40°02.75′ N | 70°16.10′ W | (\*) |
 
-(d) *Restricted Gear Area III*—(1) *Duration*—(i) *Mobile Gear.* From June 16 through November 26 of each fishing year, no fishing vessel with mobile gear or person on a fishing vessel with mobile gear may fish, or be, in Restricted Gear Area III (as defined in paragraph (d)(2) of this section) unless transiting only, provided that all mobile gear is on board the vessel while inside the area. 
+(d) *Restricted Gear Area III*—(1) *Duration*—(i) *Mobile Gear.* From June 16 through November 26 of each fishing year, no fishing vessel with mobile gear or person on a fishing vessel with mobile gear may fish, or be, in Restricted Gear Area III (as defined in paragraph (d)(2) of this section) unless transiting only, provided that all mobile gear is on board the vessel while inside the area.
 
-(ii) *Lobster trap gear.* From January 1 through April 30 of each fishing year, no fishing vessel with lobster trap gear or person on a fishing vessel with lobster trap gear may fish, and no lobster trap gear may be deployed or remain, in Restricted Gear Area III as defined in paragraph (d)(2) of this section. 
+(ii) *Lobster trap gear.* From January 1 through April 30 of each fishing year, no fishing vessel with lobster trap gear or person on a fishing vessel with lobster trap gear may fish, and no lobster trap gear may be deployed or remain, in Restricted Gear Area III as defined in paragraph (d)(2) of this section.
 
-(2) *Definition of Restricted Gear Area III.* Restricted Gear Area III is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area): 
+(2) *Definition of Restricted Gear Area III.* Restricted Gear Area III is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area):
 
 Table 3 to Paragraph (d)(2)
 | Point | Latitude    | Longitude   | Note |
@@ -238,9 +238,9 @@ Table 3 to Paragraph (d)(2)
 | GW    | 40°05.60′ N | 70°17.70′ W |      |
 | AA    | 40°02.75′ N | 70°16.10′ W | (\*) |
 
-(e) *Restricted Gear Area IV*—(1) *Duration for Mobile Gear.* From June 16 through September 30 of each fishing year, no fishing vessel with mobile gear or person on a fishing vessel with mobile gear may fish, or be, in Restricted Gear Area IV (as defined in paragraph (e)(2) of this section) unless transiting only, provided that all mobile gear is on board the vessel while inside the area. 
+(e) *Restricted Gear Area IV*—(1) *Duration for Mobile Gear.* From June 16 through September 30 of each fishing year, no fishing vessel with mobile gear or person on a fishing vessel with mobile gear may fish, or be, in Restricted Gear Area IV (as defined in paragraph (e)(2) of this section) unless transiting only, provided that all mobile gear is on board the vessel while inside the area.
 
-(2) *Definition of Restricted Gear Area IV.* Restricted Gear Area IV is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area): 
+(2) *Definition of Restricted Gear Area IV.* Restricted Gear Area IV is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area):
 
 Table 4 to Paragraph (e)(2)
 | Point | Latitude    | Longitude   | Note |
@@ -306,18 +306,18 @@ Table 4 to Paragraph (e)(2)
 | AB    | 40°02.45′ N | 70°14.10′ W | (\*) |
 | AA    | 40°02.75′ N | 70°16.10′ W | (\*) |
 
-(f) *Carl N. Shuster Jr. Horseshoe Crab Reserve.* (1) No vessel or person may fish for horseshoe crabs in the area known as the Carl N. Shuster Jr. Horseshoe Crab Reserve bounded as follows: 
+(f) *Carl N. Shuster Jr. Horseshoe Crab Reserve.* (1) No vessel or person may fish for horseshoe crabs in the area known as the Carl N. Shuster Jr. Horseshoe Crab Reserve bounded as follows:
 
-(i) On the north by a straight line connecting points 39°14.6′ N. lat., 74°30.9′ W. long. (3 nm off of Peck Beach, NJ) and 39°14.6′ N lat., 74°22.5′ W. long. 
+(i) On the north by a straight line connecting points 39°14.6′ N. lat., 74°30.9′ W. long. (3 nm off of Peck Beach, NJ) and 39°14.6′ N lat., 74°22.5′ W. long.
 
-(ii) On the east by a straight line connecting points 39°14.6′ N. lat., 74°22.5′ W. long. and 38°22.0′ N. lat., 74°22.5′ W. long. 
+(ii) On the east by a straight line connecting points 39°14.6′ N. lat., 74°22.5′ W. long. and 38°22.0′ N. lat., 74°22.5′ W. long.
 
-(iii) On the south by a straight line connecting points 38°22.0′ N. lat., 74°22.5′ W. long. and 38°22.0′ N. lat., 75°00.4′ W. long. (3 nm off of Ocean City, MD). 
+(iii) On the south by a straight line connecting points 38°22.0′ N. lat., 74°22.5′ W. long. and 38°22.0′ N. lat., 75°00.4′ W. long. (3 nm off of Ocean City, MD).
 
-(iv) On the west by the outermost boundary of state waters. 
+(iv) On the west by the outermost boundary of state waters.
 
-(2) No vessel or person on a vessel with a trawl or dredge may possess horseshoe crabs in the area described in paragraph (f)(1) of this section. 
+(2) No vessel or person on a vessel with a trawl or dredge may possess horseshoe crabs in the area described in paragraph (f)(1) of this section.
 
-(3) Horseshoe crabs caught in the area described in paragraph (f)(1) of this section must be returned immediately to the water without further harm. 
+(3) Horseshoe crabs caught in the area described in paragraph (f)(1) of this section must be returned immediately to the water without further harm.
 
 \[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 8911, Feb. 5, 2001; 88 FR 67679, Oct. 2, 2023\]

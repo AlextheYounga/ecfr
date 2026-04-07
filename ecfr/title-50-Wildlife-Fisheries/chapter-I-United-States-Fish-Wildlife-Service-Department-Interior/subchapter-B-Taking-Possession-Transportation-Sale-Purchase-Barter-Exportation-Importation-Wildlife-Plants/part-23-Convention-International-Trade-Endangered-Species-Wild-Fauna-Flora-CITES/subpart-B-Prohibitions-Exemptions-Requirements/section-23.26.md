@@ -1,10 +1,10 @@
 ##### § 23.26 When is a U.S. or foreign CITES document valid?
 
-(a) *Purpose.* Article VIII of the Treaty provides that Parties take appropriate measures to enforce the Convention to prevent illegal trafficking in wildlife and plants. 
+(a) *Purpose.* Article VIII of the Treaty provides that Parties take appropriate measures to enforce the Convention to prevent illegal trafficking in wildlife and plants.
 
-(b) *Original CITES documents.* A separate original or a true copy of a CITES document must be issued before the import, introduction from the sea, export, or re-export occurs, and the document must accompany each shipment. No copy may be used in place of an original except as provided in § 23.23(e)(3) or when a shipment is in transit (see § 23.22). Fax or electronic copies are not acceptable. 
+(b) *Original CITES documents.* A separate original or a true copy of a CITES document must be issued before the import, introduction from the sea, export, or re-export occurs, and the document must accompany each shipment. No copy may be used in place of an original except as provided in § 23.23(e)(3) or when a shipment is in transit (see § 23.22). Fax or electronic copies are not acceptable.
 
-(c) *Acceptance of CITES documents.* We will accept a CITES document as valid for import, introduction from the sea, export, or re-export only if the document meets the requirements of this section, §§ 23.23 through 23.25, and the following conditions: 
+(c) *Acceptance of CITES documents.* We will accept a CITES document as valid for import, introduction from the sea, export, or re-export only if the document meets the requirements of this section, §§ 23.23 through 23.25, and the following conditions:
 
 | Key phrase                                                                   | Conditions for an acceptable CITES document                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,28 +28,28 @@
 | (18) Shipment contents                                                       | The contents of the shipment match the description of specimens provided on the CITES document, including the units and species. A shipment cannot contain more or different specimens or species than certified or validated on the CITES document at the time of export or re-export; the quantity of specimens validated or certified may be less, but not more, than the quantity stated at the time of issuance.                                                                                                                                                                                                                    |
 | (19) Wild-collected specimen                                                 | A wild-collected specimen (indicated on the CITES document with a source code of “W”) is not coming from a country that is outside the range of the species, unless we have information indicating that the species has been established in the wild in that country through accidental introduction or other means.                                                                                                                                                                                                                                                                                                                     |
 
-(d) *Verification of a CITES document.* We may request verification of a CITES document from the Secretariat or a foreign Management Authority before deciding whether to accept it under some circumstances, including, but not limited to, the following: 
+(d) *Verification of a CITES document.* We may request verification of a CITES document from the Secretariat or a foreign Management Authority before deciding whether to accept it under some circumstances, including, but not limited to, the following:
 
-(1) We receive reliable information that indicates the need for CITES document verification. 
+(1) We receive reliable information that indicates the need for CITES document verification.
 
-(2) We have reasonable grounds to believe that a CITES document is not valid or authentic because the species is being traded in a manner detrimental to the survival of the species or in violation of foreign wildlife or plant laws, or any applicable Management or Scientific Authority finding has not been made. 
+(2) We have reasonable grounds to believe that a CITES document is not valid or authentic because the species is being traded in a manner detrimental to the survival of the species or in violation of foreign wildlife or plant laws, or any applicable Management or Scientific Authority finding has not been made.
 
-(3) The re-export certificate refers to an export permit that does not exist or is not valid. 
+(3) The re-export certificate refers to an export permit that does not exist or is not valid.
 
-(4) The CITES document includes a species for which the Secretariat has published an annotated quota. 
+(4) The CITES document includes a species for which the Secretariat has published an annotated quota.
 
-(5) We have reasonable grounds to believe that the document is fraudulent, contains false information, or has unauthorized changes. 
+(5) We have reasonable grounds to believe that the document is fraudulent, contains false information, or has unauthorized changes.
 
-(6) We have reasonable grounds to believe that the specimen identified as bred in captivity or artificially propagated is a wild specimen, was produced from illegally acquired parental stock, or otherwise does not qualify for these exemptions. 
+(6) We have reasonable grounds to believe that the specimen identified as bred in captivity or artificially propagated is a wild specimen, was produced from illegally acquired parental stock, or otherwise does not qualify for these exemptions.
 
-(7) We know or have reasonable grounds to believe that an Appendix-I specimen was not bred at a facility registered with the CITES Secretariat and that the purpose of the import is commercial. 
+(7) We know or have reasonable grounds to believe that an Appendix-I specimen was not bred at a facility registered with the CITES Secretariat and that the purpose of the import is commercial.
 
-(8) The import of a specimen designated as bred in captivity or artificially propagated is from a non-Party. For an Appendix-I specimen, we must consult with the Secretariat. 
+(8) The import of a specimen designated as bred in captivity or artificially propagated is from a non-Party. For an Appendix-I specimen, we must consult with the Secretariat.
 
-(9) For a retrospectively issued CITES document, both the importing and exporting or re-exporting countries' Management Authorities have not agreed to the issuance of the document. 
+(9) For a retrospectively issued CITES document, both the importing and exporting or re-exporting countries' Management Authorities have not agreed to the issuance of the document.
 
-(10) For a replacement CITES document, we need clarification of the reason the document was issued. 
+(10) For a replacement CITES document, we need clarification of the reason the document was issued.
 
-(11) The export permit or re-export certificate does not contain validation or certification by an inspecting official at the time of export of the actual quantity exported or re-exported. 
+(11) The export permit or re-export certificate does not contain validation or certification by an inspecting official at the time of export of the actual quantity exported or re-exported.
 
 \[72 FR 48448, Aug. 23, 2007, as amended at 79 FR 30423, May 27, 2014; 87 FR 10080, Feb. 23, 2022\]

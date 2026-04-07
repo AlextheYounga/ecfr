@@ -1,8 +1,8 @@
 ##### § 665.901 Boundaries.
 
-The Marianas Trench Marine National Monument includes the following: 
+The Marianas Trench Marine National Monument includes the following:
 
-(a) *Islands Unit.* The Islands Unit includes the waters and submerged lands of the three northernmost Mariana Islands (Farallon de Pajaros (Uracas), Maug, and Asuncion). The shoreward boundary of the Islands Unit is the mean low water line. The seaward boundary of Islands Unit is defined by straight lines connecting the following coordinates in the order listed: 
+(a) *Islands Unit.* The Islands Unit includes the waters and submerged lands of the three northernmost Mariana Islands (Farallon de Pajaros (Uracas), Maug, and Asuncion). The shoreward boundary of the Islands Unit is the mean low water line. The seaward boundary of Islands Unit is defined by straight lines connecting the following coordinates in the order listed:
 
 | ID | E. long.      | N. lat.      |
 | -- | ------------- | ------------ |
@@ -15,7 +15,7 @@ The Marianas Trench Marine National Monument includes the following:
 | 7  | 144°1′22.97″  | 20°45′44.11″ |
 | 1  | 144°1′22.97″  | 21°23′42.40″ |
 
-(b) *Volcanic Unit.* The Volcanic Unit includes the submerged lands of designated volcanic sites. The boundaries of the Volcanic Unit are defined as circles of a one nautical mile radius centered on each of the following points: 
+(b) *Volcanic Unit.* The Volcanic Unit includes the submerged lands of designated volcanic sites. The boundaries of the Volcanic Unit are defined as circles of a one nautical mile radius centered on each of the following points:
 
 | ID               | E. long.   | N. lat.   |
 | ---------------- | ---------- | --------- |
@@ -41,7 +41,7 @@ The Marianas Trench Marine National Monument includes the following:
 | Pika site        | 143°38′55″ | 12°55′7″  |
 | Toto             | 143°31′42″ | 12°42′48″ |
 
-(c) *Trench Unit.* The Trench Unit includes the submerged lands of the Marianas Trench. The boundary of the Trench Unit extends from the northern limit of the EEZ around the Commonwealth of the Northern Mariana Islands to the southern limit of the EEZ around Guam as defined by straight lines connecting the following coordinates in the order listed: 
+(c) *Trench Unit.* The Trench Unit includes the submerged lands of the Marianas Trench. The boundary of the Trench Unit extends from the northern limit of the EEZ around the Commonwealth of the Northern Mariana Islands to the southern limit of the EEZ around Guam as defined by straight lines connecting the following coordinates in the order listed:
 
 | ID | E. long.      | N. lat.      |
 | -- | ------------- | ------------ |

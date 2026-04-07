@@ -1,8 +1,8 @@
 ##### § 665.806 Prohibited area management.
 
-(a) *Longline fishing prohibited areas.* Longline fishing is prohibited in the longline fishing prohibited areas as defined in paragraphs (a)(1) through (a)(4) of this section. 
+(a) *Longline fishing prohibited areas.* Longline fishing is prohibited in the longline fishing prohibited areas as defined in paragraphs (a)(1) through (a)(4) of this section.
 
-(1) *NWHI protected species zone.* The NWHI protected species zone is the portion of the EEZ within 50 nm of the center geographical positions of certain islands and reefs in the NWHI, as follows: 
+(1) *NWHI protected species zone.* The NWHI protected species zone is the portion of the EEZ within 50 nm of the center geographical positions of certain islands and reefs in the NWHI, as follows:
 
 | Name                                                                                                                                                                                                                                                                                                                                                                      | N. lat. | W. long. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------- |
@@ -18,7 +18,7 @@
 | Kure Island                                                                                                                                                                                                                                                                                                                                                               | 28°25′  | 178°20′  |
 | Where the areas are not contiguous, parallel lines drawn tangent to and connecting those semicircles of the 50-nm areas that lie between Nihoa Island and Necker Island, French Frigate Shoals and Gardner Pinnacles, Gardner Pinnacles and Maro Reef, and Lisianski Island and Pearl and Hermes Reef, delimit the remainder of the NWHI longline protected species zone. |         |          |
 
-(2) *Main Hawaiian Islands (MHI).* The MHI longline fishing prohibited area is the portion of the EEZ around Hawaii bounded by straight lines connecting the following coordinated in the order listed: 
+(2) *Main Hawaiian Islands (MHI).* The MHI longline fishing prohibited area is the portion of the EEZ around Hawaii bounded by straight lines connecting the following coordinated in the order listed:
 
 | Point | N. lat. | W. long. |
 | ----- | ------- | -------- |
@@ -35,7 +35,7 @@
 | K     | 19°00′  | 154°05′  |
 | A     | 18°05′  | 155°40′  |
 
-(3) *Guam.* The Guam longline fishing prohibited area is the portion of the EEZ around Guam bounded by straight lines connecting the following coordinates in the order listed: 
+(3) *Guam.* The Guam longline fishing prohibited area is the portion of the EEZ around Guam bounded by straight lines connecting the following coordinates in the order listed:
 
 | Point | N. lat. | E. long.   |
 | ----- | ------- | ---------- |
@@ -49,7 +49,7 @@
 | H     | 13°00′  | 145°42′    |
 | I     | 13°27′  | 145°51′    |
 
-(4) *CNMI.* The CNMI longline fishing prohibited area is the portion of the EEZ around the CNMI bounded by straight lines connecting the following coordinates in the order listed: 
+(4) *CNMI.* The CNMI longline fishing prohibited area is the portion of the EEZ around the CNMI bounded by straight lines connecting the following coordinates in the order listed:
 
 | Point | N. lat. | E. long. |
 | ----- | ------- | -------- |
@@ -65,9 +65,9 @@
 | J     | 13°32′  | 145°32′  |
 | A     | 14°00′  | 144°34′  |
 
-(b) *American Samoa large vessel prohibited areas.* A large vessel of the United States may not be used to fish for western Pacific pelagic MUS in the American Samoa large vessel prohibited areas as defined in paragraphs (b)(1) and (b)(2) of this section, except as allowed pursuant to an exemption issued under § 665.818. 
+(b) *American Samoa large vessel prohibited areas.* A large vessel of the United States may not be used to fish for western Pacific pelagic MUS in the American Samoa large vessel prohibited areas as defined in paragraphs (b)(1) and (b)(2) of this section, except as allowed pursuant to an exemption issued under § 665.818.
 
-(1) *Tutuila Island, Manua Islands, and Rose Atoll (AS-1).* The large vessel prohibited area around Tutuila Island, the Manua Islands, and Rose Atoll consists of the waters of the EEZ around American Samoa enclosed by straight lines connecting the following coordinates: 
+(1) *Tutuila Island, Manua Islands, and Rose Atoll (AS-1).* The large vessel prohibited area around Tutuila Island, the Manua Islands, and Rose Atoll consists of the waters of the EEZ around American Samoa enclosed by straight lines connecting the following coordinates:
 
 | Point                                                                                                                                                                                                                        | S. lat.   | W. long.   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------- |
@@ -77,7 +77,7 @@
 | AS-1-D                                                                                                                                                                                                                       | 15°13′    | 169°00′42″ |
 | and from point AS-1-A westward along latitude 13°41′54″ S. until intersecting the U.S. EEZ boundary with Samoa, and from point AS-1-D westward along latitude 15°13′ S. until intersecting the U.S. EEZ boundary with Samoa. |           |            |
 
-(2) *Swains Island (AS-2).* The Swains Island large vessel prohibited area is the portion of the EEZ around American Samoa enclosed by straight lines connecting the following coordinates: 
+(2) *Swains Island (AS-2).* The Swains Island large vessel prohibited area is the portion of the EEZ around American Samoa enclosed by straight lines connecting the following coordinates:
 
 | Point                                                                                                                                                                                                                                       | S. lat. | W. long. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------- |

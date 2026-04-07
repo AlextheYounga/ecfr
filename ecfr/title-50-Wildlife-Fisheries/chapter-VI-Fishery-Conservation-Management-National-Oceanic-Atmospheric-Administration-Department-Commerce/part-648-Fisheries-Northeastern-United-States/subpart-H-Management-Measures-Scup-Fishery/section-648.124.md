@@ -1,6 +1,6 @@
 ##### § 648.124 Scup commercial season and commercial fishery area restrictions.
 
-(a) *Southern Gear Restricted Area*—(1) *Restrictions.* From January 1 through March 15, all trawl vessels in the Southern Gear Restricted Area that fish for or possess non-exempt species as specified in paragraph (a)(2) of this section must fish with nets that have a minimum mesh size of 5.0-inch (12.7-cm) diamond mesh, applied throughout the codend for at least 75 continuous meshes forward of the terminus of the net. For trawl nets with codends (including an extension) of fewer than 75 meshes, the entire trawl net must have a minimum mesh size of 5.0 inches (12.7 cm) throughout the net. The Southern Gear Restricted Area is an area bounded by straight lines connecting the following points in the order stated (copies of a chart depicting the area are available from the Regional Administrator upon request): 
+(a) *Southern Gear Restricted Area*—(1) *Restrictions.* From January 1 through March 15, all trawl vessels in the Southern Gear Restricted Area that fish for or possess non-exempt species as specified in paragraph (a)(2) of this section must fish with nets that have a minimum mesh size of 5.0-inch (12.7-cm) diamond mesh, applied throughout the codend for at least 75 continuous meshes forward of the terminus of the net. For trawl nets with codends (including an extension) of fewer than 75 meshes, the entire trawl net must have a minimum mesh size of 5.0 inches (12.7 cm) throughout the net. The Southern Gear Restricted Area is an area bounded by straight lines connecting the following points in the order stated (copies of a chart depicting the area are available from the Regional Administrator upon request):
 
 Southern Gear Restricted Area
 | Point | Latitude    | Longitude    |
@@ -27,9 +27,9 @@ Southern Gear Restricted Area
 | SGA20 | 39°20′ N    | 72°53′ W.    |
 | SGA1  | 39°20′ N    | 72°37′ W.    |
 
-(2) *Non-exempt species.* Unless otherwise specified in paragraph (d) of this section, the restrictions specified in paragraph (a)(1) of this section apply only to vessels in the Southern Gear Restricted Area that are fishing for or in possession of the following non-exempt species: Longfin squid; black sea bass; and silver hake (whiting). 
+(2) *Non-exempt species.* Unless otherwise specified in paragraph (d) of this section, the restrictions specified in paragraph (a)(1) of this section apply only to vessels in the Southern Gear Restricted Area that are fishing for or in possession of the following non-exempt species: Longfin squid; black sea bass; and silver hake (whiting).
 
-(b) *Northern Gear Restricted Area 1*—(1) *Restrictions.* From November 1 through December 31, all trawl vessels in the Northern Gear Restricted Area 1 that fish for or possess non-exempt species as specified in paragraph (b)(2) of this section must fish with nets of 5.0-inch (12.7-cm) diamond mesh, applied throughout the codend for at least 75 continuous meshes forward of the terminus of the net. For trawl nets with codends (including an extension) of fewer than 75 meshes, the entire trawl net must have a minimum mesh size of 5.0 inches (12.7 cm) throughout the net. The Northern Gear Restricted Area 1 is an area bounded by straight lines connecting the following points in the order stated (copies of a chart depicting the area are available from the Regional Administrator upon request): 
+(b) *Northern Gear Restricted Area 1*—(1) *Restrictions.* From November 1 through December 31, all trawl vessels in the Northern Gear Restricted Area 1 that fish for or possess non-exempt species as specified in paragraph (b)(2) of this section must fish with nets of 5.0-inch (12.7-cm) diamond mesh, applied throughout the codend for at least 75 continuous meshes forward of the terminus of the net. For trawl nets with codends (including an extension) of fewer than 75 meshes, the entire trawl net must have a minimum mesh size of 5.0 inches (12.7 cm) throughout the net. The Northern Gear Restricted Area 1 is an area bounded by straight lines connecting the following points in the order stated (copies of a chart depicting the area are available from the Regional Administrator upon request):
 
 Northern Gear Restricted Area 1
 | Point | N. lat. | W. long. |
@@ -40,26 +40,26 @@ Northern Gear Restricted Area 1
 | NGA4  | 40°00′  | 72°05′   |
 | NGA1  | 41°00′  | 71°00′   |
 
-(2) *Non-exempt species.* Unless otherwise specified in paragraph (d) of this section, the restrictions specified in paragraph (b)(1) of this section apply only to vessels in the Northern Gear Restricted Area 1 that are fishing for, or in possession of, the following non-exempt species: Longfin squid squid; black sea bass; and silver hake (whiting). 
+(2) *Non-exempt species.* Unless otherwise specified in paragraph (d) of this section, the restrictions specified in paragraph (b)(1) of this section apply only to vessels in the Northern Gear Restricted Area 1 that are fishing for, or in possession of, the following non-exempt species: Longfin squid squid; black sea bass; and silver hake (whiting).
 
-(c) *Transiting.* Vessels that are subject to the provisions of the Southern and Northern GRAs, as specified in paragraphs (a) and (b) of this section, respectively, may transit these areas provided that trawl net codends on board of mesh size less than that specified in paragraphs (a) and (b) of this section are stowed and not available for immediate use as defined in § 648.2. 
+(c) *Transiting.* Vessels that are subject to the provisions of the Southern and Northern GRAs, as specified in paragraphs (a) and (b) of this section, respectively, may transit these areas provided that trawl net codends on board of mesh size less than that specified in paragraphs (a) and (b) of this section are stowed and not available for immediate use as defined in § 648.2.
 
-(d) \[Reserved\] 
+(d) \[Reserved\]
 
-(e) *Addition or deletion of exemptions.* The MAFMC may recommend to the Regional Administrator, through the framework procedure specified in § 648.130(a), additions or deletions to exemptions for fisheries other than scup. A fishery may be restricted or exempted by area, gear, season, or other means determined to be appropriate to reduce bycatch of scup. 
+(e) *Addition or deletion of exemptions.* The MAFMC may recommend to the Regional Administrator, through the framework procedure specified in § 648.130(a), additions or deletions to exemptions for fisheries other than scup. A fishery may be restricted or exempted by area, gear, season, or other means determined to be appropriate to reduce bycatch of scup.
 
-(f) *Exempted experimental fishing.* The Regional Administrator may issue an exempted experimental fishing permit (EFP) under the provisions of § 600.745(b), consistent with paragraph (d)(2) of this section, to allow any vessel participating in a scup discard mitigation research project to engage in any of the following activities: Fish in the applicable gear restriction area; use fishing gear that does not conform to the regulations; possess non-exempt species specified in paragraphs (a)(2) and (b)(2) of this section; or engage in any other activity necessary to project operations for which an exemption from regulatory provision is required. Vessels issued an EFP must comply with all conditions and restrictions specified in the EFP. 
+(f) *Exempted experimental fishing.* The Regional Administrator may issue an exempted experimental fishing permit (EFP) under the provisions of § 600.745(b), consistent with paragraph (d)(2) of this section, to allow any vessel participating in a scup discard mitigation research project to engage in any of the following activities: Fish in the applicable gear restriction area; use fishing gear that does not conform to the regulations; possess non-exempt species specified in paragraphs (a)(2) and (b)(2) of this section; or engage in any other activity necessary to project operations for which an exemption from regulatory provision is required. Vessels issued an EFP must comply with all conditions and restrictions specified in the EFP.
 
-(1) A vessel participating in an exempted experimental fishery in the Scup Gear Restriction Area(s) must carry an EFP authorizing the activity and any required Federal fishery permit on board. 
+(1) A vessel participating in an exempted experimental fishery in the Scup Gear Restriction Area(s) must carry an EFP authorizing the activity and any required Federal fishery permit on board.
 
-(2) The Regional Administrator may not issue an EFP unless s/he determines that issuance is consistent with the objectives of the FMP, the provisions of the Magnuson-Stevens Act, and other applicable law and will not: 
+(2) The Regional Administrator may not issue an EFP unless s/he determines that issuance is consistent with the objectives of the FMP, the provisions of the Magnuson-Stevens Act, and other applicable law and will not:
 
-(i) Have a detrimental effect on the scup resource and fishery; 
+(i) Have a detrimental effect on the scup resource and fishery;
 
-(ii) Cause the quotas for any species of fish for any quota period to be exceeded; 
+(ii) Cause the quotas for any species of fish for any quota period to be exceeded;
 
-(iii) Create significant enforcement problems; or 
+(iii) Create significant enforcement problems; or
 
-(iv) Have a detrimental effect on the scup discard mitigation research project. 
+(iv) Have a detrimental effect on the scup discard mitigation research project.
 
 \[76 FR 60633, Sept. 29, 2011, as amended at 77 FR 16480, Mar. 21, 2012; 79 FR 52580, Sept. 4, 2014; 81 FR 78731, Nov. 9, 2016\]

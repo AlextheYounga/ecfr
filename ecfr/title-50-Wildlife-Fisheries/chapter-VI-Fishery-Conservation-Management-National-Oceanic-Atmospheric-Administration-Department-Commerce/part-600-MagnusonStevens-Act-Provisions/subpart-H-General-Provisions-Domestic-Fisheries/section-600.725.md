@@ -2,53 +2,53 @@
 
 Link to an amendment published at 89 FR 102015, Dec. 17, 2024.
 
-It is unlawful for any person to do any of the following: 
+It is unlawful for any person to do any of the following:
 
-(a) Possess, have custody or control of, ship, transport, offer for sale, sell, purchase, land, import, export or re-export, any fish or parts thereof taken or retained in violation of the Magnuson-Stevens Act or any other statute administered by NOAA or any regulation or permit issued thereunder, or import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce any fish taken, possessed, transported, or sold in violation of any foreign law or regulation, or any treaty or in contravention of a binding conservation measure adopted by an international agreement or organization to which the United States is a party. 
+(a) Possess, have custody or control of, ship, transport, offer for sale, sell, purchase, land, import, export or re-export, any fish or parts thereof taken or retained in violation of the Magnuson-Stevens Act or any other statute administered by NOAA or any regulation or permit issued thereunder, or import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce any fish taken, possessed, transported, or sold in violation of any foreign law or regulation, or any treaty or in contravention of a binding conservation measure adopted by an international agreement or organization to which the United States is a party.
 
-(b) Transfer or attempt to transfer, directly or indirectly, any U.S.-harvested fish to any foreign fishing vessel, while such vessel is in the EEZ, unless the foreign fishing vessel has been issued a permit under section 204 of the Magnuson-Stevens Act, which authorizes the receipt by such vessel of U.S.- harvested fish. 
+(b) Transfer or attempt to transfer, directly or indirectly, any U.S.-harvested fish to any foreign fishing vessel, while such vessel is in the EEZ, unless the foreign fishing vessel has been issued a permit under section 204 of the Magnuson-Stevens Act, which authorizes the receipt by such vessel of U.S.- harvested fish.
 
-(c) Fail to comply immediately with enforcement and boarding procedures specified in § 600.730. 
+(c) Fail to comply immediately with enforcement and boarding procedures specified in § 600.730.
 
-(d) Refuse to allow an authorized officer to board a fishing vessel or to enter areas of custody for purposes of conducting any search, inspection, or seizure in connection with the enforcement of the Magnuson-Stevens Act or any other statute administered by NOAA. 
+(d) Refuse to allow an authorized officer to board a fishing vessel or to enter areas of custody for purposes of conducting any search, inspection, or seizure in connection with the enforcement of the Magnuson-Stevens Act or any other statute administered by NOAA.
 
-(e) Dispose of fish or parts thereof or other matter in any manner, after any communication or signal from an authorized officer, or after the approach by an authorized officer or an enforcement vessel or aircraft. 
+(e) Dispose of fish or parts thereof or other matter in any manner, after any communication or signal from an authorized officer, or after the approach by an authorized officer or an enforcement vessel or aircraft.
 
-(f) Assault, resist, oppose, impede, intimidate, threaten, or interfere with any authorized officer in the conduct of any search, inspection, or seizure in connection with enforcement of the Magnuson-Stevens Act or any other statute administered by NOAA. 
+(f) Assault, resist, oppose, impede, intimidate, threaten, or interfere with any authorized officer in the conduct of any search, inspection, or seizure in connection with enforcement of the Magnuson-Stevens Act or any other statute administered by NOAA.
 
-(g) Interfere with, delay, or prevent by any means, the apprehension of another person, knowing that such person has committed any act prohibited by the Magnuson-Stevens Act or any other statute administered by NOAA. 
+(g) Interfere with, delay, or prevent by any means, the apprehension of another person, knowing that such person has committed any act prohibited by the Magnuson-Stevens Act or any other statute administered by NOAA.
 
-(h) Resist a lawful arrest for any act prohibited under the Magnuson-Stevens Act or any other statute administered by NOAA. 
+(h) Resist a lawful arrest for any act prohibited under the Magnuson-Stevens Act or any other statute administered by NOAA.
 
-(i) Make any false statement, oral or written, to an authorized officer concerning the taking, catching, harvesting, landing, purchase, sale, offer of sale, possession, transport, import, export, or transfer of any fish, or attempts to do any of the above. 
+(i) Make any false statement, oral or written, to an authorized officer concerning the taking, catching, harvesting, landing, purchase, sale, offer of sale, possession, transport, import, export, or transfer of any fish, or attempts to do any of the above.
 
-(j) Interfere with, obstruct, delay, or prevent by any means an investigation, search, seizure, or disposition of seized property in connection with enforcement of the Magnuson-Stevens Act or any other statute administered by NOAA. 
+(j) Interfere with, obstruct, delay, or prevent by any means an investigation, search, seizure, or disposition of seized property in connection with enforcement of the Magnuson-Stevens Act or any other statute administered by NOAA.
 
-(k) Fish in violation of the terms or conditions of any permit or authorization issued under the Magnuson-Stevens Act or any other statute administered by NOAA. 
+(k) Fish in violation of the terms or conditions of any permit or authorization issued under the Magnuson-Stevens Act or any other statute administered by NOAA.
 
-(l) Fail to report catches as required while fishing pursuant to an exempted fishing permit. 
+(l) Fail to report catches as required while fishing pursuant to an exempted fishing permit.
 
-(m) On a scientific research vessel, engage in fishing other than recreational fishing authorized by applicable state or Federal regulations. 
+(m) On a scientific research vessel, engage in fishing other than recreational fishing authorized by applicable state or Federal regulations.
 
-(n) Trade, barter, or sell; or attempt to trade, barter, or sell fish possessed or retained while fishing pursuant to an authorization for an exempted educational activity. 
+(n) Trade, barter, or sell; or attempt to trade, barter, or sell fish possessed or retained while fishing pursuant to an authorization for an exempted educational activity.
 
-(o) Harass or sexually harass an authorized officer or an observer. 
+(o) Harass or sexually harass an authorized officer or an observer.
 
-(p) Fail to show proof of passing the USCG Commercial Fishing Vessel Safety Examination or the alternate NMFS safety equipment examination, or fail to maintain the vessel safety conditions necessary to pass the examination, when required by NMFS pursuant to § 600.746. 
+(p) Fail to show proof of passing the USCG Commercial Fishing Vessel Safety Examination or the alternate NMFS safety equipment examination, or fail to maintain the vessel safety conditions necessary to pass the examination, when required by NMFS pursuant to § 600.746.
 
-(q) Fail to display a Commercial Fishing Vessel Safety Examination decal or a valid certificate of compliance or inspection pursuant to § 600.746. 
+(q) Fail to display a Commercial Fishing Vessel Safety Examination decal or a valid certificate of compliance or inspection pursuant to § 600.746.
 
-(r) Fail to provide to an observer, a NMFS employee, or a designated observer provider information that has been requested pursuant to § 600.746, or fail to allow an observer, a NMFS employee, or a designated observer provider to inspect any item described at § 600.746. 
+(r) Fail to provide to an observer, a NMFS employee, or a designated observer provider information that has been requested pursuant to § 600.746, or fail to allow an observer, a NMFS employee, or a designated observer provider to inspect any item described at § 600.746.
 
-(s) Fish without an observer when the vessel is required to carry an observer. 
+(s) Fish without an observer when the vessel is required to carry an observer.
 
-(t) Assault, oppose, impede, intimidate, or interfere with a NMFS-approved observer. 
+(t) Assault, oppose, impede, intimidate, or interfere with a NMFS-approved observer.
 
-(u)(1) Prohibit or bar by command, impediment, threat, coercion, interference, or refusal of reasonable assistance, an observer from conducting his or her duties as an observer; or 
+(u)(1) Prohibit or bar by command, impediment, threat, coercion, interference, or refusal of reasonable assistance, an observer from conducting his or her duties as an observer; or
 
-(2) Tamper with or destroy samples or equipment. 
+(2) Tamper with or destroy samples or equipment.
 
-(v) The use of any gear or participation in a fishery not on the following list of authorized fisheries and gear is prohibited after December 1, 1999. A fish, regardless whether targeted, may be retained only if it is taken within a listed fishery, is taken with a gear authorized for that fishery, and is taken in conformance with all other applicable regulations. Listed gear can only be used in a manner that is consistent with existing laws and regulations. The list of fisheries and authorized gear does not, in any way, alter or supersede any definitions or regulations contained elsewhere in this chapter. A person or vessel is prohibited from engaging in fishing or employing fishing gear when such fishing gear is prohibited or restricted by regulation under an FMP or other applicable law. However, after December 1, 1999, an individual fisherman may notify the appropriate Council, or the Director, in the case of Atlantic highly migratory species, of the intent to use a gear or participate in a fishery not already on the list. Ninety days after such notification, the individual may use the gear or participate in that fishery unless regulatory action is taken to prohibit the use of the gear or participate in the fishery (*e.g.,* through emergency or interim regulations). The list of authorized fisheries and gear is as follows: 
+(v) The use of any gear or participation in a fishery not on the following list of authorized fisheries and gear is prohibited after December 1, 1999. A fish, regardless whether targeted, may be retained only if it is taken within a listed fishery, is taken with a gear authorized for that fishery, and is taken in conformance with all other applicable regulations. Listed gear can only be used in a manner that is consistent with existing laws and regulations. The list of fisheries and authorized gear does not, in any way, alter or supersede any definitions or regulations contained elsewhere in this chapter. A person or vessel is prohibited from engaging in fishing or employing fishing gear when such fishing gear is prohibited or restricted by regulation under an FMP or other applicable law. However, after December 1, 1999, an individual fisherman may notify the appropriate Council, or the Director, in the case of Atlantic highly migratory species, of the intent to use a gear or participate in a fishery not already on the list. Ninety days after such notification, the individual may use the gear or participate in that fishery unless regulatory action is taken to prohibit the use of the gear or participate in the fishery (*e.g.,* through emergency or interim regulations). The list of authorized fisheries and gear is as follows:
 
 | Fishery                                                                                                                                                                                                                                   | Authorized gear types                                                                                                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -616,14 +616,14 @@ It is unlawful for any person to do any of the following:
 | N. Commercial Caribbean Small Boat Fishery                                                                                                                                                                                                | N. Rod and reel, handline, harpoon, bandit gear, green-stick gear, buoy gear.                                                                                                                                                                     |
 | 2\. Commercial Fisheries (Non-FMP)                                                                                                                                                                                                        | Rod and reel, handline, longline, gillnet, harpoon, bandit gear, purse seine, green-stick gear.                                                                                                                                                   |
 
-(w) Fail to maintain safe conditions for the protection of observers including compliance with all U.S. Coast Guard and other applicable rules, regulations, or statutes applicable to the vessel and which pertain to safe operation of the vessel. 
+(w) Fail to maintain safe conditions for the protection of observers including compliance with all U.S. Coast Guard and other applicable rules, regulations, or statutes applicable to the vessel and which pertain to safe operation of the vessel.
 
-(x) Fish for commercial purposes within the Northeast Canyons and Seamounts Marine National Monument, as defined in § 600.10, consistent with Presidential Proclamations 9496 and 10287. Fishing for commercial purposes means fishing that is intended to, or results in, the barter, trade, transfer, or sale of fish, either in whole or in part. 
+(x) Fish for commercial purposes within the Northeast Canyons and Seamounts Marine National Monument, as defined in § 600.10, consistent with Presidential Proclamations 9496 and 10287. Fishing for commercial purposes means fishing that is intended to, or results in, the barter, trade, transfer, or sale of fish, either in whole or in part.
 
-(1) Vessels may transit the Northeast Canyons and Seamounts Marine National Monument, provided commercial fishing gear is stowed and not available for immediate use during passage without interruption through the Northeast Canyons and Seamounts Marine National Monument. 
+(1) Vessels may transit the Northeast Canyons and Seamounts Marine National Monument, provided commercial fishing gear is stowed and not available for immediate use during passage without interruption through the Northeast Canyons and Seamounts Marine National Monument.
 
-(2) \[Reserved\] 
+(2) \[Reserved\]
 
-(y) Disclose confidential information without authorization. 
+(y) Disclose confidential information without authorization.
 
 \[61 FR 32540, June 24, 1996\] Editorial Note:For Federal Register citations affecting § 600.725, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
