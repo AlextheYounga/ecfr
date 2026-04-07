@@ -1,21 +1,23 @@
 ##### § 73.1695 Changes in transmission standards.
 
-The FCC will consider the question whether a proposed change or modification of transmission standards adopted for broadcast stations would be in the public interest, convenience, and necessity, upon petition being filed by the person proposing such change or modification, setting forth the following: 
+Link to an amendment published at 90 FR 40538, Aug. 20, 2025.
 
-(a) The exact character of the change or modification proposed; 
+The FCC will consider the question whether a proposed change or modification of transmission standards adopted for broadcast stations would be in the public interest, convenience, and necessity, upon petition being filed by the person proposing such change or modification, setting forth the following:
 
-(b) The effect of the proposed change or modification upon all other transmission standards that have been adopted by the FCC for broadcast stations; 
+(a) The exact character of the change or modification proposed;
 
-(c) The experimentation and field tests that have been made to show that the proposed change or modification accomplishes an improvement and is technically feasible; 
+(b) The effect of the proposed change or modification upon all other transmission standards that have been adopted by the FCC for broadcast stations;
 
-(d) The effect of the proposed change or modification in the adopted standards upon operation and obsolescence of receivers; 
+(c) The experimentation and field tests that have been made to show that the proposed change or modification accomplishes an improvement and is technically feasible;
 
-(1) Should a change of modification in the transmission standards be adopted by the FCC, the effective date thereof will be determined in the light of the considerations mentioned in this paragraph (d); 
+(d) The effect of the proposed change or modification in the adopted standards upon operation and obsolescence of receivers;
 
-(2) \[Reserved\] 
+(1) Should a change of modification in the transmission standards be adopted by the FCC, the effective date thereof will be determined in the light of the considerations mentioned in this paragraph (d);
 
-(e) The change in equipment required in existing broadcast stations for incorporating the proposed change or modification in the adopted standards; and 
+(2) \[Reserved\]
 
-(f) The facts and reasons upon which the petitioner bases the conclusion that the proposed change or modification would be in the public interest, convenience, and necessity. 
+(e) The change in equipment required in existing broadcast stations for incorporating the proposed change or modification in the adopted standards; and
+
+(f) The facts and reasons upon which the petitioner bases the conclusion that the proposed change or modification would be in the public interest, convenience, and necessity.
 
 \[49 FR 4211, Feb. 3, 1984\]
