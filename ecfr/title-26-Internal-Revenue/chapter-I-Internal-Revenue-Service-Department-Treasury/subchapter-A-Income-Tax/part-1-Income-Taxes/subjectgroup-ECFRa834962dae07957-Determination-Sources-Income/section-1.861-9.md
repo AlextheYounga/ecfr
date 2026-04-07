@@ -1,5 +1,7 @@
 ##### § 1.861-9 Allocation and apportionment of interest expense and rules for asset-based apportionment.
 
+Link to an amendment published at 85 FR 72038, Nov. 12, 2020.
+
 (a) *In general.* For further guidance, see § 1.861-9T(a) through (b).
 
 (b) \[Reserved\]

@@ -1,6 +1,6 @@
 ##### § 1.704-1 Partner's distributive share.
 
-Link to an amendment published at 85 FR 56842, Sept. 14, 2020.
+Link to an amendment published at 85 FR 56842, Sept. 14, 2020.Link to an amendment published at 85 FR 72033, Nov. 12, 2020.
 
 (a) *Effect of partnership agreement.* A partner's distributive share of any item or class of items of income, gain, loss, deduction, or credit of the partnership shall be determined by the partnership agreement, unless otherwise provided by section 704 and paragraphs (b) through (e) of this section. For definition of partnership agreement see section 761(c).
 

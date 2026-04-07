@@ -1,3 +1,5 @@
-##### § 170.322 xxx
+##### § 170.322 Recipient.
 
-Link to an amendment published at 85 FR 49526, Aug. 13, 2020.
+*Recipient,* for the purposes of this part, means a non-Federal entity or Federal agency that received a Federal award.
+
+\[85 FR 49526, Aug. 13, 2020\]
