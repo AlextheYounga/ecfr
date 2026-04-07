@@ -8,4 +8,4 @@
 
 (d) Treasury will review and consider the insurer submission and other relevant facts and circumstances. Unless otherwise extended by Treasury, within 60 days after receipt of a complete submission, including any additional information requested by Treasury, and including any oral presentation, Treasury will issue a final determination of whether one insurer has a controlling influence over another insurer for purposes of the Program. The determination shall set forth Treasury's basis for its determination.
 
-(Approved by the Office of Management & Budget under control number 1505-0190.)
+(Approved by the Office of Management & Budget under control number 1505-0190)

@@ -2,7 +2,7 @@
 
 (a) *General.* The Secretary may assess a civil monetary penalty, in an amount not exceeding the amount specified under § 50.83, against any insurer that the Secretary determines, on the record after opportunity for a hearing:
 
-(1) Has failed to charge, collect, or remit the Federal terrorism policy surcharge under Subpart J;
+(1) Has failed to charge, collect, or remit the Federal terrorism policy surcharge under subpart J;
 
 (2) Has intentionally provided to Treasury erroneous information regarding premium or loss amounts;
 

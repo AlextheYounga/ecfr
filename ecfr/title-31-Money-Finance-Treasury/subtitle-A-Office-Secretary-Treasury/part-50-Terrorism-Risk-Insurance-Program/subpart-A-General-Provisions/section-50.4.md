@@ -106,7 +106,7 @@ For purposes of this part:
 
 (k) *Federal Insurance Office* means the Federal Insurance Office within the U.S. Department of the Treasury.
 
-(l) *Federal terrorism policy surcharge* means the amount established by Treasury under Subpart J of this Part that is imposed as a policy surcharge on property and casualty insurance policies, expressed as a percentage of the written premium.
+(l) *Federal terrorism policy surcharge* means the amount established by Treasury under subpart J of this part that is imposed as a policy surcharge on property and casualty insurance policies, expressed as a percentage of the written premium.
 
 (m) *Insurance marketplace aggregate retention amount* means an amount for a calendar year as calculated under section 103(e)(6) of the Act.
 

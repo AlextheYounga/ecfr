@@ -8,13 +8,13 @@
 
 (2) Any appraisal made by a disqualified appraiser after the effective date of disqualification will not have any probative effect in any administrative proceeding before the Department of the Treasury or the Internal Revenue Service. An appraisal otherwise barred from admission into evidence pursuant to this section may be admitted into evidence solely for the purpose of determining the taxpayer's reliance in good faith on such appraisal.
 
-(c) *Authority to impose monetary penalty* - (1) *In general. (i) The Secretary of the Treasury, or delegate, after notice and an opportunity for a proceeding, may impose a monetary penalty on any practitioner who engages in conduct subject to sanction under paragraph (a) of this section.*
+(c) *Authority to impose monetary penalty*—(1) *In general.* (i) The Secretary of the Treasury, or delegate, after notice and an opportunity for a proceeding, may impose a monetary penalty on any practitioner who engages in conduct subject to sanction under paragraph (a) of this section.
 
 (ii) If the practitioner described in paragraph (c)(1)(i) of this section was acting on behalf of an employer or any firm or other entity in connection with the conduct giving rise to the penalty, the Secretary of the Treasury, or delegate, may impose a monetary penalty on the employer, firm, or entity if it knew, or reasonably should have known, of such conduct.
 
 (2) *Amount of penalty.* The amount of the penalty shall not exceed the gross income derived (or to be derived) from the conduct giving rise to the penalty.
 
-(3) *Coordination with other sanctions.* Subject to paragraph (c)(2) of this section -
+(3) *Coordination with other sanctions.* Subject to paragraph (c)(2) of this section—
 
 (i) Any monetary penalty imposed on a practitioner under this paragraph (c) may be in addition to or in lieu of any suspension, disbarment or censure and may be in addition to a penalty imposed on an employer, firm or other entity under paragraph (c)(1)(ii) of this section.
 

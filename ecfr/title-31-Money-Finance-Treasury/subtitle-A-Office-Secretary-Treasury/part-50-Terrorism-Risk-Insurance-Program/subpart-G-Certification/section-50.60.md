@@ -14,6 +14,6 @@
 
 (c) *Other consultation.* Nothing in this section shall prevent the Secretary from consulting and coordinating with the Attorney General of the United States, the Secretary of Homeland Security, or any other government official prior to the consultation identified in paragraph (b)(4) of this section.
 
-(d) *Finality.* Any decision by the Secretary to certify, or determination not to certify, an act as an act of terrorism under this Subpart shall be final, and shall not be subject to judicial review.
+(d) *Finality.* Any decision by the Secretary to certify, or determination not to certify, an act as an act of terrorism under this subpart shall be final, and shall not be subject to judicial review.
 
 (e) *Nondelegation.* The Secretary may not delegate or designate to any other officer, employee, or person, the determination of whether to certify an act as an act of terrorism.

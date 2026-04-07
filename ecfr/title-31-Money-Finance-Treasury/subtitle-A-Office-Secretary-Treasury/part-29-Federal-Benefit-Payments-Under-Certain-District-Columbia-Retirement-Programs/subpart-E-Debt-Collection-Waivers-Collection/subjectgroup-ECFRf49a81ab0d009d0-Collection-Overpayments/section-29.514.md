@@ -10,9 +10,9 @@
 
 (3) When a request for waiver and/or compromise under this section is properly filed before the death of the debtor, it will be processed to completion unless the relief sought is nullified by the debtor's death.
 
-(d) *Waiver and/or compromise decisions.* (1) The Department's decision on a request for waiver and/or compromise will be based upon the individual's written submissions, evidence of record, and other pertinent available information. An individual's request for waiver will be evaluated by the standards set forth in § 29.521 through § 29.526. An individual's request for compromise will be evaluated by the standards set forth in the FCCS in 31 CFR part 902.
+(d) *Waiver and/or compromise decisions.* (1) The Department's decision on a request for waiver and/or compromise will be based upon the individual's written submissions, evidence of record, and other pertinent available information. An individual's request for waiver will be evaluated by the standards set forth in §§ 29.521 through 29.526. An individual's request for compromise will be evaluated by the standards set forth in the FCCS in 31 CFR part 902.
 
-(2) A waiver or compromise decision by the Department will -
+(2) A waiver or compromise decision by the Department will—
 
 (i) Be in writing;
 
