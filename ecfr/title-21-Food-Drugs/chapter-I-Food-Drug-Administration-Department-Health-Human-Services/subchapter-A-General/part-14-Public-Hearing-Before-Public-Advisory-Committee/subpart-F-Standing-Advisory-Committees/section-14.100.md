@@ -106,6 +106,12 @@ Standing advisory committees and the dates of their establishment are as follows
 
 (ii) Function: Provides advice on scientific, technical, and medical issues concerning drug compounding under sections 503A and 503B of the Federal Food, Drug, and Cosmetic Act and, as required, any other product for which the Food and Drug Administration has regulatory responsibility, and makes appropriate recommendations to the Commissioner of Food and Drugs.
 
+(18) *Genetic Metabolic Diseases Advisory Committee.*
+
+(i) Date Established: December 12, 2023.
+
+(ii) Function: Reviews and evaluates data on the safety and effectiveness of marketed and investigational human drug and biologic products for use in the treatment of genetic metabolic diseases and makes appropriate recommendations to the Commissioner of Food and Drugs.
+
 (d) *Center for Devices and Radiological Health*—(1) *Medical Devices Advisory Committee.* (i) *Date established:* October 27, 1990.
 
 (ii) *Function:* Reviews and evaluates data on the safety and effectiveness of marketed and investigational devices and makes recommendations for their regulation.
