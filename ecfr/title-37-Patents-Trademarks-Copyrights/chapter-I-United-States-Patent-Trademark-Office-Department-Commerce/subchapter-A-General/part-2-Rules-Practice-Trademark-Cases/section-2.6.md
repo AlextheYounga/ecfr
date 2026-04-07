@@ -1,4 +1,4 @@
-##### § 7.6 Schedule of U.S. process fees.
+##### § 2.6 Schedule of U.S. process fees.
 
 (a) The Office requires the following process fees:
 
@@ -36,4 +36,4 @@
 
 (b) The fees required in paragraph (a) of this section must be paid in U.S. dollars at the time of submission of the requested action. *See* § 2.207 of this chapter for acceptable forms of payment and § 2.208 of this chapter for payments using a deposit account established in the Office.
 
-\[81 FR 72708, Oct. 21, 2016\]
+\[81 FR 72706, Oct. 21, 2016\]

@@ -34,9 +34,9 @@
 
 (xii) Has failed to report MLR data in a timely and accurate manner in accordance with § 422.2460 or that any MLR data required by this subpart is found to be materially incorrect or fraudulent.
 
-(b) *Notice.* If CMS decides to terminate a contract it gives notice of the termination as follows:
-
 (xiii) Fails to meet provider and supplier enrollment requirements in accordance with §§ 422.222 and 422.224.
+
+(b) *Notice.* If CMS decides to terminate a contract it gives notice of the termination as follows:
 
 (1) *Termination of contract by CMS.*
 
