@@ -166,7 +166,7 @@ Where:
 
 (e) *Making necessary investments in water, sewer, and broadband infrastructure.* A recipient may use funds to make the following investments in water, sewer, and broadband infrastructure.
 
-(1) *Water and sewer investments* - (i) *Clean Water State Revolving Fund projects.* Projects or activities of the type that meet the eligibility requirements of section 603(c) of the Federal Water Pollution Control Act (33 U.S.C. 1383(c));
+(1) *Water and sewer investments*—(i) *Clean Water State Revolving Fund projects.* Projects or activities of the type that meet the eligibility requirements of section 603(c) of the Federal Water Pollution Control Act (33 U.S.C. 1383(c));
 
 (ii) *Additional stormwater projects.* Projects to manage, reduce, treat, or recapture stormwater or subsurface drainage water regardless of whether such projects would improve water quality if such projects would otherwise meet the eligibility requirements of section 603(c)(5) of the Federal Water Pollution Control Act (33 U.S.C. 1383(c)(5));
 
@@ -210,7 +210,7 @@ Where:
 
 (vii) *Private wells.* Rehabilitation of private wells, testing initiatives to identify contaminants in private wells, and treatment activities and remediation projects that address contamination in private wells, if the project meets the requirements of 40 CFR 35.3520 other than the limitation to certain eligible systems under 40 CFR 35.3520(a).
 
-(2) *Broadband investments* - (i) *General.* Broadband infrastructure if the following conditions are met:
+(2) *Broadband investments*—(i) *General.* Broadband infrastructure if the following conditions are met:
 
 (A) The broadband infrastructure is designed to provide service to households and businesses with an identified need, as determined by the recipient, for such infrastructure;
 
