@@ -1,24 +1,24 @@
 ##### § 218.64 Mitigation requirements.
 
-(a) When conducting the activities identified in § 218.60(c), the mitigation measures contained in this subpart and any LOA issued under § 216.106 of this subchapter and § 218.66 must be implemented. These mitigation measures include, but are not limited to:
+(a) When conducting the activities identified in § 218.60(c), the mitigation measures contained in this subpart and any LOA issued under § 216.106 of this subchapter and § 218.66 must be implemented. These mitigation measures include, but are not limited to: 
 
-(1) *Operational measures.* Operational mitigation is mitigation that the USAF must implement whenever and wherever an applicable training or testing activity takes place within the EGTTR for each mission-day category.
+(1) *Operational measures.* Operational mitigation is mitigation that the USAF must implement whenever and wherever an applicable training or testing activity takes place within the EGTTR for each mission-day category. 
 
-(i) *Pre-mission survey.* (A) All missions must occur during daylight hours with the exception of gunnery training, mission-day category K, and other missions that can have nighttime monitoring capabilities comparable to the nighttime monitoring capabilities of gunnery aircraft.
+(i) *Pre-mission survey.* (A) All missions must occur during daylight hours with the exception of gunnery training, mission-day category K, and other missions that can have nighttime monitoring capabilities comparable to the nighttime monitoring capabilities of gunnery aircraft. 
 
-(B) USAF range-clearing vessels and marine mammal survey vessels must be onsite 90 minutes before mission to clear prescribed human safety zone and survey the mitigation zone for the given mission-day category.
+(B) USAF range-clearing vessels and marine mammal survey vessels must be onsite 90 minutes before mission to clear prescribed human safety zone and survey the mitigation zone for the given mission-day category. 
 
-(C) For all live missions except gunnery missions, USAF Protected Species Observers (PSOs) must monitor the mitigation zones as defined in table 1 to paragraph (a)(1)(i)(C)(*5*) of this section for the given mission-day category for a minimum of 30 minutes or until the entirety of the mitigation zone has been surveyed, whichever takes longer.
+(C) For all live missions except gunnery missions, USAF Protected Species Observers (PSOs) must monitor the mitigation zones as defined in table 1 to paragraph (a)(1)(i)(C)(*5*) of this section for the given mission-day category for a minimum of 30 minutes or until the entirety of the mitigation zone has been surveyed, whichever takes longer. 
 
-(*1*) The mitigation zone for live munitions must be defined by the mission-day category that most closely corresponds to the actual planned mission based on the predicted net explosive weight at impact (NEWi) to be released, as shown in table 1 to paragraph (a)(1)(i)(C)(*5*) of this section.
+(*1*) The mitigation zone for live munitions must be defined by the mission-day category that most closely corresponds to the actual planned mission based on the predicted net explosive weight at impact (NEWi) to be released, as shown in table 1 to paragraph (a)(1)(i)(C)(*5*) of this section. 
 
-(*2*) The mitigation zone for inert munitions must be defined by the energy class that most closely corresponds to the actual planned mission, as shown in table 2 to paragraph (a)(1)(i)(D) of this section.
+(*2*) The mitigation zone for inert munitions must be defined by the energy class that most closely corresponds to the actual planned mission, as shown in table 2 to paragraph (a)(1)(i)(D) of this section. 
 
-(*3*) The energy of the actual mission must be less than the energy of the identified mission-day category in terms of total NEWi as well as the largest single munition NEWi.
+(*3*) The energy of the actual mission must be less than the energy of the identified mission-day category in terms of total NEWi as well as the largest single munition NEWi. 
 
-(*4*) For any gunnery missions PSOs must at a minimum monitor out to the mitigation zone distances shown in table 3 to paragraph (a)(1)(i)(D) of this section that applies for the corresponding energy class.
+(*4*) For any gunnery missions PSOs must at a minimum monitor out to the mitigation zone distances shown in table 3 to paragraph (a)(1)(i)(D) of this section that applies for the corresponding energy class. 
 
-(*5*) Missions falling under mission-day categories A, B, C, and J, and all other missions when practicable must allot time to provide PSOs to vacate the human safety zone. While exiting, PSOs must observe the monitoring zone out to corresponding mission-day category as shown in table 1 to this paragraph (a)(1)(i)(C)(*5*).
+(*5*) Missions falling under mission-day categories A, B, C, and J, and all other missions when practicable must allot time to provide PSOs to vacate the human safety zone. While exiting, PSOs must observe the monitoring zone out to corresponding mission-day category as shown in table 1 to this paragraph (a)(1)(i)(C)(*5*). 
 
 Table 1 to Paragraph (a)(1)(i)(C)(5)—Pre-Mission Mitigation and Monitoring Zones (in m) for Live Missions Impact Area
 | Mission-day category                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Mitigation zone | Monitoring zone 56      |
@@ -49,7 +49,7 @@ Table 1 to Paragraph (a)(1)(i)(C)(5)—Pre-Mission Mitigation and Monitoring Zon
 | 5 The monitoring zone for non-gunnery missions is the area between the mitigation zone and the human safety zone and is not standardized, as the human safety zone is not standardized. The human safety zone is determined per each mission by the Test Wing Safety Office based on the munition and parameters of its release (to include altitude, pitch, heading, and airspeed).                                                                                                  |                 |                         |
 | 6 Based on the operational altitudes of gunnery firing, and the only monitoring during mission coming from onboard the aircraft conducting the firing, the monitoring zone for gunnery missions will be a smaller area than the mitigation zone and be based on the field of view from the aircraft. These observable areas will at least be double the Level A harassment threshold distance (PTS) for the mission-day categories G, H, and Q (gunnery-only mission-day categories). |                 |                         |
 
-(D) Missions involving air-to-surface gunnery operations must conduct aerial monitoring of the mitigation zones, as described in the table 3 to this paragraph (a)(1)(i)(D).
+(D) Missions involving air-to-surface gunnery operations must conduct aerial monitoring of the mitigation zones, as described in the table 3 to this paragraph (a)(1)(i)(D). 
 
 Table 2 to Paragraph (a)(1)(i)(D)—Pre-Mission Mitigation and Monitoring Zones (in m) for Inert Missions Impact Area
 | Inert impact class   (lb trinitrotoluene-equivalent (TNTeq))                                                                                                                                                                                                                                                                                                                 | Mitigation zone | Monitoring zone 1 |
@@ -67,39 +67,39 @@ Table 3 to Paragraph (a)(1)(i)(D)—Aerial Monitoring Requirements for Air-to-Su
 | CV-22 Osprey                         | .50 caliber                 | 3 nmi (5,556 m) | 1,000 ft (3,280 m)  | 1,000 ft (3,280 m).                         |
 | 1 FU = Full Up; TR = Training Round. |                             |                 |                     |                                             |
 
-(ii) *Mission postponement, relocation, or cancellation.* (A) If marine mammals other than the two authorized dolphin species for which take is authorized are observed in either the mitigation zone or monitoring zone by PSOs, then mission activities must be cancelled for the remainder of the day.
+(ii) *Mission postponement, relocation, or cancellation.* (A) If marine mammals other than the two authorized dolphin species for which take is authorized are observed in either the mitigation zone or monitoring zone by PSOs, then mission activities must be cancelled for the remainder of the day. 
 
-(B) The mission must be postponed, relocated, or cancelled if either of the two authorized dolphin species are visually detected in the mitigation zone during the pre-mission survey. Postponement must continue until the animals are confirmed to be outside of the mitigation zone and observed by a PSO to be heading away from the mitigation zone or until the animals are not seen again for 30 minutes.
+(B) The mission must be postponed, relocated, or cancelled if either of the two authorized dolphin species are visually detected in the mitigation zone during the pre-mission survey. Postponement must continue until the animals are confirmed to be outside of the mitigation zone and observed by a PSO to be heading away from the mitigation zone or until the animals are not seen again for 30 minutes. 
 
-(C) The mission must be postponed if marine mammal indicators (*i.e.,* large schools of fish or large flocks of birds) are observed feeding at the surface within the mitigation zone. Postponement must continue until these potential indicators are confirmed to be outside the mitigation zone.
+(C) The mission must be postponed if marine mammal indicators (*i.e.,* large schools of fish or large flocks of birds) are observed feeding at the surface within the mitigation zone. Postponement must continue until these potential indicators are confirmed to be outside the mitigation zone. 
 
-(D) If either of the two authorized dolphin species are observed in the monitoring zone by PSOs when observation vessels are exiting the human safety zone, and if PSOs determine the marine mammals are heading toward the mitigation zone, then missions must either be postponed, relocated, or cancelled based on mission-specific test and environmental parameters. Postponement must continue until the animals are confirmed by a PSO to be heading away from the mitigation zone or until the animals are not seen again for 30 minutes.
+(D) If either of the two authorized dolphin species are observed in the monitoring zone by PSOs when observation vessels are exiting the human safety zone, and if PSOs determine the marine mammals are heading toward the mitigation zone, then missions must either be postponed, relocated, or cancelled based on mission-specific test and environmental parameters. Postponement must continue until the animals are confirmed by a PSO to be heading away from the mitigation zone or until the animals are not seen again for 30 minutes. 
 
-(E) Aerial-based PSOs must look for potential indicators of marine mammal species presence, such as large schools of fish and large, active groups of birds.
+(E) Aerial-based PSOs must look for potential indicators of marine mammal species presence, such as large schools of fish and large, active groups of birds. 
 
-(F) If marine mammal or potential indicators are detected in the mitigation area during pre-mission surveys or during the mission by aerial-based or video-based PSOs, operations must be immediately halted until the mitigation zone is clear of all marine mammals, or the mission must be relocated to another target area.
+(F) If marine mammal or potential indicators are detected in the mitigation area during pre-mission surveys or during the mission by aerial-based or video-based PSOs, operations must be immediately halted until the mitigation zone is clear of all marine mammals, or the mission must be relocated to another target area. 
 
-(iii) *Vessel avoidance measures.* Vessel operators must follow vessel strike avoidance measures.
+(iii) *Vessel avoidance measures.* Vessel operators must follow vessel strike avoidance measures. 
 
-(A) When any marine mammal is sighted, vessels must attempt to maintain a distance of at least 150 ft (46 m) away from marine mammals and 300 ft (92 m) away from whales. Vessels must reduce speed and avoid abrupt changes in direction until the animal(s) has left the area.
+(A) When any marine mammal is sighted, vessels must attempt to maintain a distance of at least 150 ft (46 m) away from marine mammals and 300 ft (92 m) away from whales. Vessels must reduce speed and avoid abrupt changes in direction until the animal(s) has left the area. 
 
-(B) If a whale is sighted in a vessel's path or within 300 feet (92 m) from the vessel, the vessel speed must be reduced and the vessel's engine must be shifted to neutral. The engines must not be engaged until the animals are clear of the area.
+(B) If a whale is sighted in a vessel's path or within 300 feet (92 m) from the vessel, the vessel speed must be reduced and the vessel's engine must be shifted to neutral. The engines must not be engaged until the animals are clear of the area. 
 
-(C) If a whale is sighted farther than 300 feet (92 m) from the vessel, the vessel must maintain a distance of 300 feet greater between the whale and the vessel's speed must be reduced to 10 knots or less.
+(C) If a whale is sighted farther than 300 feet (92 m) from the vessel, the vessel must maintain a distance of 300 feet greater between the whale and the vessel's speed must be reduced to 10 knots or less. 
 
-(D) Vessels are required to stay 500 m away from the Rice's whale. If a baleen whale cannot be positively identified to species level then it must be assumed to be a Rice's whale and the 500 m separation distance must be maintained.
+(D) Vessels are required to stay 500 m away from the Rice's whale. If a baleen whale cannot be positively identified to species level then it must be assumed to be a Rice's whale and the 500 m separation distance must be maintained. 
 
-(E) Vessels must avoid transit in the core distribution area (CDA), as specified in the LOA issued under § 216.106 of this subchapter and § 218.66, and within the 100—400 m isobath zone outside the CDA. If transit in these areas is unavoidable, vessels must not exceed 10 knots and transit at night is prohibited.
+(E) Vessels must avoid transit in the core distribution area (CDA), as specified in the LOA issued under § 216.106 of this subchapter and § 218.66, and within the 100—400 m isobath zone outside the CDA. If transit in these areas is unavoidable, vessels must not exceed 10 knots and transit at night is prohibited. 
 
-(F) An exception to any vessel strike avoidance measure is for instances required for human safety, such as when members of the public need to be intercepted to secure the human safety zone, or when the safety of a vessel operations crew could be compromised.
+(F) An exception to any vessel strike avoidance measure is for instances required for human safety, such as when members of the public need to be intercepted to secure the human safety zone, or when the safety of a vessel operations crew could be compromised. 
 
-(iv) *Gunnery-specific mitigation.* (A) If 105-mm rounds are used during nighttime gunnery missions they must be 105 mm training rounds. The USAF may only use 105-mm high-explosive (HE) rounds during daytime operations.
+(iv) *Gunnery-specific mitigation.* (A) If 105-mm rounds are used during nighttime gunnery missions they must be 105 mm training rounds. The USAF may only use 105-mm high-explosive (HE) rounds during daytime operations. 
 
-(B) Within a mission, firing must start with use of the lowest caliber munition and proceed to increasingly larger rounds.
+(B) Within a mission, firing must start with use of the lowest caliber munition and proceed to increasingly larger rounds. 
 
-(C) Any pause in live fire activities greater than 10 minutes must be followed by the re-initiation of pre-mission surveys.
+(C) Any pause in live fire activities greater than 10 minutes must be followed by the re-initiation of pre-mission surveys. 
 
-(2) *Geographic mitigation measures*—(i) *Setbacks for Live Impact Areas (LIAs).* Use of live munitions with surface or subsurface detonations is restricted in the western part of the existing LIA and East LIA such that activities may not occur seaward of the setbacks from the 100 m-isobath shown in table 4 to this paragraph (a)(2)(i).
+(2) *Geographic mitigation measures*—(i) *Setbacks for Live Impact Areas (LIAs).* Use of live munitions with surface or subsurface detonations is restricted in the western part of the existing LIA and East LIA such that activities may not occur seaward of the setbacks from the 100 m-isobath shown in table 4 to this paragraph (a)(2)(i). 
 
 Table 4 to Paragraph (a)(2)(i)—Setback Distances To Prevent Permanent Threshold Shift Impacts to the Rice's Whale
 | User group                                            | Mission-day category | NEWi   (lb) | Setback from   100-meter   isobath   (km) |
@@ -122,20 +122,20 @@ Table 4 to Paragraph (a)(2)(i)—Setback Distances To Prevent Permanent Threshol
 |                                                       | R                    | 37.1        | 0.368                                     |
 | Naval School Explosive Ordnance Disposal (NAVSCOLEOD) | S                    | 130         | 1.042                                     |
 
-(ii) *Gunnery missions.* All gunnery missions must be conducted at least 500 meters landward of the 100-m isobath.
+(ii) *Gunnery missions.* All gunnery missions must be conducted at least 500 meters landward of the 100-m isobath. 
 
-(iii) *Live munition prohibitions.* Use of live munitions with surface or subsurface detonations must be restricted to the LIA and East LIA and is prohibited from the area between the 100-m and 400-m isobaths.
+(iii) *Live munition prohibitions.* Use of live munitions with surface or subsurface detonations must be restricted to the LIA and East LIA and is prohibited from the area between the 100-m and 400-m isobaths. 
 
-(iv) *Inert munition restrictions.* Use of inert munitions is prohibited between the 100-m and 400-m isobaths throughout the EGTTR.
+(iv) *Inert munition restrictions.* Use of inert munitions is prohibited between the 100-m and 400-m isobaths throughout the EGTTR. 
 
-(v) *Mission category K restrictions.* (A) Munitions under mission-day category K must be fired into the EGTTR inside of the LIAs and outside of the area between 100-m to 400-m isobaths
+(v) *Mission category K restrictions.* (A) Munitions under mission-day category K must be fired into the EGTTR inside of the LIAs and outside of the area between 100-m to 400-m isobaths 
 
-(B) Mission-day category K munitions must have a setback of 1.338 km from the 100-m isobath.
+(B) Mission-day category K munitions must have a setback of 1.338 km from the 100-m isobath. 
 
-(C) Mission-day category K munitions may be fired into portions of the EGTTR outside the LIAs but must be outside the area between the 100-m and 400-m isobaths.
+(C) Mission-day category K munitions may be fired into portions of the EGTTR outside the LIAs but must be outside the area between the 100-m and 400-m isobaths. 
 
-(3) *Environmental mitigation*—(i) *Sea state conditions.* Missions must be postponed or rescheduled if conditions exceed Beaufort sea state 4, which is defined as moderate breeze, breaking crests, numerous white caps, wind speed of 11 to 16 knots, and wave height of 3.3 to 6 feet.
+(3) *Environmental mitigation*—(i) *Sea state conditions.* Missions must be postponed or rescheduled if conditions exceed Beaufort sea state 4, which is defined as moderate breeze, breaking crests, numerous white caps, wind speed of 11 to 16 knots, and wave height of 3.3 to 6 feet. 
 
-(ii) *Daylight restrictions.* All live missions except for nighttime gunnery and mission-day category K will occur no earlier than 2 hours after sunrise and no later than 2 hours before sunset.
+(ii) *Daylight restrictions.* All live missions except for nighttime gunnery and mission-day category K will occur no earlier than 2 hours after sunrise and no later than 2 hours before sunset. 
 
 (b) \[Reserved\]

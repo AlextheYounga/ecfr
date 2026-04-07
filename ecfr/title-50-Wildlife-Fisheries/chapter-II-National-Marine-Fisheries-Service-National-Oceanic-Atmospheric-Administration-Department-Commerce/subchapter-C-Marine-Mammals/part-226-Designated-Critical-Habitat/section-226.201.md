@@ -1,32 +1,32 @@
 ##### § 226.201 Critical habitat for the Hawaiian monk seal (Neomonachus schauinslandi).
 
-Critical habitat is designated for Hawaiian monk seals as described in this section. The textual descriptions of critical habitat in this section are the definitive source for determining the critical habitat boundaries.
+Critical habitat is designated for Hawaiian monk seals as described in this section. The textual descriptions of critical habitat in this section are the definitive source for determining the critical habitat boundaries. 
 
-(a) *Critical habitat boundaries.* Critical habitat is designated to include all areas in paragraphs (a)(1) and (2) of this section and as described in paragraphs (b)(1) and (2) of this section:
+(a) *Critical habitat boundaries.* Critical habitat is designated to include all areas in paragraphs (a)(1) and (2) of this section and as described in paragraphs (b)(1) and (2) of this section: 
 
-(1) Northwestern Hawaiian Islands: Hawaiian monk seal critical habitat areas include all beach areas, sand spits and islets, including all beach crest vegetation to its deepest extent inland, lagoon waters, inner reef waters, and including marine habitat through the water's edge, including the seafloor and all subsurface waters and marine habitat within 10 m of the seafloor, out to the 200-m depth contour line (relative to mean lower low water) around the following 10 areas:
+(1) Northwestern Hawaiian Islands: Hawaiian monk seal critical habitat areas include all beach areas, sand spits and islets, including all beach crest vegetation to its deepest extent inland, lagoon waters, inner reef waters, and including marine habitat through the water's edge, including the seafloor and all subsurface waters and marine habitat within 10 m of the seafloor, out to the 200-m depth contour line (relative to mean lower low water) around the following 10 areas: 
 
-(i) Kure Atoll,
+(i) Kure Atoll, 
 
-(ii) Midway Islands,
+(ii) Midway Islands, 
 
-(iii) Pearl and Hermes Reef,
+(iii) Pearl and Hermes Reef, 
 
-(iv) Lisianski Island,
+(iv) Lisianski Island, 
 
-(v) Laysan Island,
+(v) Laysan Island, 
 
-(vi) Maro Reef,
+(vi) Maro Reef, 
 
-(vii) Gardner Pinnacles,
+(vii) Gardner Pinnacles, 
 
-(viii) French Frigate Shoals,
+(viii) French Frigate Shoals, 
 
-(ix) Necker Island, and
+(ix) Necker Island, and 
 
-(x) Nihoa Island.
+(x) Nihoa Island. 
 
-(2) Main Hawaiian Islands: Hawaiian monk seal critical habitat areas surrounding the following islands listed below are defined in the marine environment by a seaward boundary that extends from the 200-m depth contour line (relative to mean lower low water), including the seafloor and all subsurface waters and marine habitat within 10 m of the seafloor, through the water's edge into the terrestrial environment where the inland boundary extends 5 m (in length) from the shoreline between identified boundary points listed in the table below around the areas listed in paragraphs (a)(2)(i)-(vi) of this section. The shoreline is described by the upper reaches of the wash of the waves, other than storm or seismic waves, at high tide during the season in which the highest wash of the waves occurs, usually evidenced by the edge of vegetation growth or the upper limit of debris (except those areas identified in paragraph (c) of this section). In areas where critical habitat does not extend inland, the designation has a seaward boundary of a line that marks mean lower low water.
+(2) Main Hawaiian Islands: Hawaiian monk seal critical habitat areas surrounding the following islands listed below are defined in the marine environment by a seaward boundary that extends from the 200-m depth contour line (relative to mean lower low water), including the seafloor and all subsurface waters and marine habitat within 10 m of the seafloor, through the water's edge into the terrestrial environment where the inland boundary extends 5 m (in length) from the shoreline between identified boundary points listed in the table below around the areas listed in paragraphs (a)(2)(i)-(vi) of this section. The shoreline is described by the upper reaches of the wash of the waves, other than storm or seismic waves, at high tide during the season in which the highest wash of the waves occurs, usually evidenced by the edge of vegetation growth or the upper limit of debris (except those areas identified in paragraph (c) of this section). In areas where critical habitat does not extend inland, the designation has a seaward boundary of a line that marks mean lower low water. 
 
 | Area | Island    | Textual description of segment                                    | Boundary points | Latitude                     | Longitude                     |
 | ---- | --------- | ----------------------------------------------------------------- | --------------- | ---------------------------- | ----------------------------- |
@@ -100,34 +100,34 @@ Critical habitat is designated for Hawaiian monk seals as described in this sect
 | 16   | Hawaii    | Onomea Bay Area                                                   | HA 221   HA 222 | 19°48′33″ N.   19°48′37″ N.  | 155°05′34″ W.   155°05′22″ W. |
 | 16   | Hawaii    | Hakalau Area                                                      | HA 231   HA 232 | 19°54′02″ N.   19°54′05″ N.  | 155°07′32″ W.   155°07′43″ W. |
 
-(i) Kaula Island,
+(i) Kaula Island, 
 
-(ii) Niihau,
+(ii) Niihau, 
 
-(iii) Kauai,
+(iii) Kauai, 
 
-(iv) Oahu,
+(iv) Oahu, 
 
-(v) Maui Nui (including Kahoolawe, Lanai, Maui, and Molokai), and
+(v) Maui Nui (including Kahoolawe, Lanai, Maui, and Molokai), and 
 
-(vi) Hawaii.
+(vi) Hawaii. 
 
-(b) *Essential features.* The essential features for the conservation of the Hawaiian monk seal are the following:
+(b) *Essential features.* The essential features for the conservation of the Hawaiian monk seal are the following: 
 
-(1) *Terrestrial areas and adjacent shallow, sheltered aquatic areas with characteristics preferred by monk seals for pupping and nursing.* Preferred areas that serve an essential service or function for Hawaiian monk seal conservation are defined as those areas where two or more females have given birth or where a single female chooses to return to the same site more than one year. Preferred pupping areas generally include sandy, protected beaches located adjacent to shallow sheltered aquatic areas, where the mother and pup may nurse, rest, swim, thermoregulate, and shelter from extreme weather. Additionally, this habitat area provides relatively protected space for the newly weaned pup to acclimate to life on its own. The newly weaned pup uses these areas for swimming, exploring, socializing, thermoregulatory cooling and the first attempts at foraging. Characteristics of terrestrial pupping habitat may include various substrates such as sand, shallow tide pools, coral rubble, or rocky substrates, as long as these substrates provide accessibility to seals for hauling out. Some preferred sites may also incorporate areas with low lying vegetation used by the pair for shade or cover, or relatively low levels of anthropogenic disturbance. Characteristics of the adjoined sheltered aquatic sites may include reefs, tide pools, gently sloping beaches, and shelves or coves that provide refuge from storm surges and predators.
+(1) *Terrestrial areas and adjacent shallow, sheltered aquatic areas with characteristics preferred by monk seals for pupping and nursing.* Preferred areas that serve an essential service or function for Hawaiian monk seal conservation are defined as those areas where two or more females have given birth or where a single female chooses to return to the same site more than one year. Preferred pupping areas generally include sandy, protected beaches located adjacent to shallow sheltered aquatic areas, where the mother and pup may nurse, rest, swim, thermoregulate, and shelter from extreme weather. Additionally, this habitat area provides relatively protected space for the newly weaned pup to acclimate to life on its own. The newly weaned pup uses these areas for swimming, exploring, socializing, thermoregulatory cooling and the first attempts at foraging. Characteristics of terrestrial pupping habitat may include various substrates such as sand, shallow tide pools, coral rubble, or rocky substrates, as long as these substrates provide accessibility to seals for hauling out. Some preferred sites may also incorporate areas with low lying vegetation used by the pair for shade or cover, or relatively low levels of anthropogenic disturbance. Characteristics of the adjoined sheltered aquatic sites may include reefs, tide pools, gently sloping beaches, and shelves or coves that provide refuge from storm surges and predators. 
 
-(2) *Marine areas from 0 to 200 m in depth that support adequate prey quality and quantity for juvenile and adult monk seal foraging.* Inshore, benthic and offshore teleosts, cephalopods, and crustaceans are commonly described as monk seal prey items. Habitat types that are regularly used for foraging include the sand terraces, talus slopes, submerged reefs and banks, nearby seamounts, barrier reefs, and slopes of reefs and islands. Monk seals focus foraging in bottom habitats on bottom-associated prey species, with most foraging occurring in waters between 0 to 200 m in depth. Habitat conditions, such as water quality, substrate composition and available habitat, should support growth and recruitment of bottom-associated prey species to the extent that monk seal populations are able to successfully forage.
+(2) *Marine areas from 0 to 200 m in depth that support adequate prey quality and quantity for juvenile and adult monk seal foraging.* Inshore, benthic and offshore teleosts, cephalopods, and crustaceans are commonly described as monk seal prey items. Habitat types that are regularly used for foraging include the sand terraces, talus slopes, submerged reefs and banks, nearby seamounts, barrier reefs, and slopes of reefs and islands. Monk seals focus foraging in bottom habitats on bottom-associated prey species, with most foraging occurring in waters between 0 to 200 m in depth. Habitat conditions, such as water quality, substrate composition and available habitat, should support growth and recruitment of bottom-associated prey species to the extent that monk seal populations are able to successfully forage. 
 
-(3) *Significant areas used by monk seals for hauling out, resting or molting.* Significant haul-out areas are defined by the frequency with which local populations of seals use a stretch of coastline or particular beach. Significant haul-out areas are defined as natural coastlines that are accessible to Hawaiian monk seals and are frequented by Hawaiian monk seals at least 10 percent as often as the highest used haul out site(s) on individual islands, or islets. Significant haul-out areas are essential to Hawaiian monk seal conservation because these areas provide space that supports natural behaviors important to health and development, such as resting, molting, and social interactions. Hawaiian monk seals use terrestrial habitat to haul out for resting, and molting. Certain areas of coastline are more often favored by Hawaiian monk seals for hauling out. These favored areas may be located near preferred foraging areas, allow for relatively undisturbed periods of rest, or allow small numbers of Hawaiian monk seals to socially interact as young seals and reproductive adults. These haul-out sites are generally characterized by sandy beaches, sand spits, or low shelving reef rocks accessible to seals.
+(3) *Significant areas used by monk seals for hauling out, resting or molting.* Significant haul-out areas are defined by the frequency with which local populations of seals use a stretch of coastline or particular beach. Significant haul-out areas are defined as natural coastlines that are accessible to Hawaiian monk seals and are frequented by Hawaiian monk seals at least 10 percent as often as the highest used haul out site(s) on individual islands, or islets. Significant haul-out areas are essential to Hawaiian monk seal conservation because these areas provide space that supports natural behaviors important to health and development, such as resting, molting, and social interactions. Hawaiian monk seals use terrestrial habitat to haul out for resting, and molting. Certain areas of coastline are more often favored by Hawaiian monk seals for hauling out. These favored areas may be located near preferred foraging areas, allow for relatively undisturbed periods of rest, or allow small numbers of Hawaiian monk seals to socially interact as young seals and reproductive adults. These haul-out sites are generally characterized by sandy beaches, sand spits, or low shelving reef rocks accessible to seals. 
 
-(c) *Areas not included in critical habitat.* Critical habitat does not include the following particular areas where they overlap with the areas described in paragraph (a) of this section:
+(c) *Areas not included in critical habitat.* Critical habitat does not include the following particular areas where they overlap with the areas described in paragraph (a) of this section: 
 
-(1) Pursuant to ESA section 3(5)(A)(i), all cliffs and manmade structures, such as docks, seawalls, piers, fishponds, roads, pipelines, boat ramps, platforms, buildings, ramparts and pilings existing within the legal boundaries on September 21, 2015.
+(1) Pursuant to ESA section 3(5)(A)(i), all cliffs and manmade structures, such as docks, seawalls, piers, fishponds, roads, pipelines, boat ramps, platforms, buildings, ramparts and pilings existing within the legal boundaries on September 21, 2015. 
 
-(2) Pursuant to ESA section 4(a)(3)(B) all areas subject to the Marine Corps Base Hawaii, the Joint Base Pearl Harbor-Hickam, and the Pacific Missile Range Facility Integrated Natural Resource Management Plans.
+(2) Pursuant to ESA section 4(a)(3)(B) all areas subject to the Marine Corps Base Hawaii, the Joint Base Pearl Harbor-Hickam, and the Pacific Missile Range Facility Integrated Natural Resource Management Plans. 
 
-(3) Pursuant to ESA section 4(b)(2) the following areas have been excluded from the designation: The Kingfisher Underwater Training area in marine areas off the northeast coast of Niihau; the Pacific Missile Range Facility Offshore Areas in marine areas off the western coast of Kauai; the Puuloa Underwater Training Range in marine areas outside Pearl Harbor, Oahu; and the Shallow Water Minefield Sonar Training Range off the western coast of Kahoolawe in the Maui Nui area.
+(3) Pursuant to ESA section 4(b)(2) the following areas have been excluded from the designation: The Kingfisher Underwater Training area in marine areas off the northeast coast of Niihau; the Pacific Missile Range Facility Offshore Areas in marine areas off the western coast of Kauai; the Puuloa Underwater Training Range in marine areas outside Pearl Harbor, Oahu; and the Shallow Water Minefield Sonar Training Range off the western coast of Kahoolawe in the Maui Nui area. 
 
-(d) *Maps of Hawaiian monk seal critical habitat.* The following are the overview maps of Hawaiian monk seal critical habitat:
+(d) *Maps of Hawaiian monk seal critical habitat.* The following are the overview maps of Hawaiian monk seal critical habitat: 
 
 ![](/graphics/er21au15.000.gif)![](/graphics/er21au15.001.gif)![](/graphics/er21au15.002.gif)![](/graphics/er21au15.003.gif)![](/graphics/er21au15.004.gif)![](/graphics/er21au15.005.gif)![](/graphics/er21au15.006.gif)![](/graphics/er21au15.007.gif)![](/graphics/er21au15.008.gif)![](/graphics/er21au15.009.gif)![](/graphics/er21au15.010.gif)\[80 FR 50974, Aug. 21, 2015\]

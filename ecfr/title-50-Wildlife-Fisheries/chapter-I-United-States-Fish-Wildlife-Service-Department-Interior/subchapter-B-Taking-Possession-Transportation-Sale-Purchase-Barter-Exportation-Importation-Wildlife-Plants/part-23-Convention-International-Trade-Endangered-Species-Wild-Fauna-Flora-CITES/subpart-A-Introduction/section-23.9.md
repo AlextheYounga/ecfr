@@ -4,18 +4,18 @@ Certain material is incorporated by reference into this part with the approval o
 
 (a) International Air Transport Association (IATA), 800 Place Victoria, P.O. Box 113, Montreal, Quebec, Canada H4Z 1M1, 1-800-716-6326, *www.iata.org.*
 
-(1) *Live Animals Regulations (LAR) 48th edition,* effective January 1, 2022, into §§ 23.23, 23.26, and 23.56.
+(1) *Live Animals Regulations (LAR) 48th edition,* effective January 1, 2022, into §§ 23.23, 23.26, and 23.56. 
 
-(2) *Perishable Cargo Regulations (PCR) 21st edition,* effective January 1, 2022, into §§ 23.23, 23.26, and 23.56.
+(2) *Perishable Cargo Regulations (PCR) 21st edition,* effective January 1, 2022, into §§ 23.23, 23.26, and 23.56. 
 
 (b) CITES Secretariat: Palais des Nations, Avenue de la Paix 8-14, 1211 Genève 10, Switzerland; telephone +41-(0)22-917-81-39/40; email *info@cites.org, www.cites.org.*
 
-(1) *CITES Guidelines for the non-air transport of live wild animals and plants,* effective January 2, 2017, into §§ 23.23, 23.26, and 23.56, available for downloading at
+(1) *CITES Guidelines for the non-air transport of live wild animals and plants,* effective January 2, 2017, into §§ 23.23, 23.26, and 23.56, available for downloading at 
 
 (i) *https://cites.org/eng/resources/transport/index.php*
 
 (ii) *https://www.fws.gov/international/travel-and-trade/live-animal-transport.html*
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 \[87 FR 10079, Feb. 23, 2022\]

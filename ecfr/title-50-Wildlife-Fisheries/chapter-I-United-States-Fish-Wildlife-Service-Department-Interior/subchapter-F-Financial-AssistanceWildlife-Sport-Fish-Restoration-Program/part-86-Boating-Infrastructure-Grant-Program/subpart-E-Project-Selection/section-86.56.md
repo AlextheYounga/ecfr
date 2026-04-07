@@ -1,10 +1,10 @@
 ##### § 86.56 What does the Service consider when evaluating a project that includes more than the minimum match?
 
-(a) When we evaluate a project under the criterion for match at § 86.51(b)(1), we consider how much cash the applicant and partners commit above the required minimum match of 25 percent of project costs.
+(a) When we evaluate a project under the criterion for match at § 86.51(b)(1), we consider how much cash the applicant and partners commit above the required minimum match of 25 percent of project costs. 
 
-(b) The contribution may be from a State, a single source, or any combination of sources.
+(b) The contribution may be from a State, a single source, or any combination of sources. 
 
-(c) We will award points as follows:
+(c) We will award points as follows: 
 
 | Percent cash match | Points |
 | ------------------ | ------ |

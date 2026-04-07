@@ -1,6 +1,6 @@
 ##### § 648.350 Mid-Atlantic forage species landing limits.
 
-(a) *Mid-Atlantic forage species.* There is no annual landing limit for Mid-Atlantic forage species, as defined at § 648.2.
+(a) *Mid-Atlantic forage species.* There is no annual landing limit for Mid-Atlantic forage species, as defined at § 648.2. 
 
 (b) \[Reserved\]
 

@@ -1,10 +1,10 @@
 ##### § 80.123 How may an agency use program income?
 
-(a) A State fish and wildlife agency may choose any of the three methods listed in paragraph (b) of this section for applying program income to Federal and non-Federal outlays. The agency may also use a combination of these methods. The method or methods that the agency chooses will apply to the program income that it earns during the grant period and to the program income that any subgrantee earns during the grant period. The agency must indicate the method or methods that it wants to use in the project statement that it submits with each application for Federal assistance.
+(a) A State fish and wildlife agency may choose any of the three methods listed in paragraph (b) of this section for applying program income to Federal and non-Federal outlays. The agency may also use a combination of these methods. The method or methods that the agency chooses will apply to the program income that it earns during the grant period and to the program income that any subgrantee earns during the grant period. The agency must indicate the method or methods that it wants to use in the project statement that it submits with each application for Federal assistance. 
 
-(b) Program income must be spent within the grant period and program in which it is earned and before requesting additional Federal funds for the activity for which the program income is earned.
+(b) Program income must be spent within the grant period and program in which it is earned and before requesting additional Federal funds for the activity for which the program income is earned. 
 
-(c) The three methods for applying program income to Federal and non-Federal outlays are in table 1 to § 80.123(c):
+(c) The three methods for applying program income to Federal and non-Federal outlays are in table 1 to § 80.123(c): 
 
 Table 1 to § 80.123(c)
 | Method                       | Requirements for using method                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

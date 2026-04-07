@@ -1,40 +1,40 @@
 ##### § 226.203 Critical habitat for North Atlantic right whales (Eubalaena glacialis).
 
-Critical habitat is designated for North Atlantic right whales as described in this section. The textual descriptions in paragraph (b) of this section are the definitive source for determining the critical habitat boundaries. The maps of the critical habitat units provided in paragraph (c) of this section are for illustrative purposes only.
+Critical habitat is designated for North Atlantic right whales as described in this section. The textual descriptions in paragraph (b) of this section are the definitive source for determining the critical habitat boundaries. The maps of the critical habitat units provided in paragraph (c) of this section are for illustrative purposes only. 
 
-(a) Physical and biological features essential to the conservation of endangered North Atlantic right whales.
+(a) Physical and biological features essential to the conservation of endangered North Atlantic right whales. 
 
-(1) *Unit 1.* The physical and biological features essential to the conservation of the North Atlantic right whale, which provide foraging area functions in Unit 1 are: The physical oceanographic conditions and structures of the Gulf of Maine and Georges Bank region that combine to distribute and aggregate *C. finmarchicus* for right whale foraging, namely prevailing currents and circulation patterns, bathymetric features (basins, banks, and channels), oceanic fronts, density gradients, and temperature regimes; low flow velocities in Jordan, Wilkinson, and Georges Basins that allow diapausing *C. finmarchicus* to aggregate passively below the convective layer so that the copepods are retained in the basins; late stage *C. finmarchicus* in dense aggregations in the Gulf of Maine and Georges Bank region; and diapausing *C. finmarchicus* in aggregations in the Gulf of Maine and Georges Bank region.
+(1) *Unit 1.* The physical and biological features essential to the conservation of the North Atlantic right whale, which provide foraging area functions in Unit 1 are: The physical oceanographic conditions and structures of the Gulf of Maine and Georges Bank region that combine to distribute and aggregate *C. finmarchicus* for right whale foraging, namely prevailing currents and circulation patterns, bathymetric features (basins, banks, and channels), oceanic fronts, density gradients, and temperature regimes; low flow velocities in Jordan, Wilkinson, and Georges Basins that allow diapausing *C. finmarchicus* to aggregate passively below the convective layer so that the copepods are retained in the basins; late stage *C. finmarchicus* in dense aggregations in the Gulf of Maine and Georges Bank region; and diapausing *C. finmarchicus* in aggregations in the Gulf of Maine and Georges Bank region. 
 
-(2) *Unit 2.* The physical features essential to the conservation of the North Atlantic right whale, which provide calving area functions in Unit 2, are:
+(2) *Unit 2.* The physical features essential to the conservation of the North Atlantic right whale, which provide calving area functions in Unit 2, are: 
 
-(i) Sea surface conditions associated with Force 4 or less on the Beaufort Scale,
+(i) Sea surface conditions associated with Force 4 or less on the Beaufort Scale, 
 
-(ii) Sea surface temperatures of 7 °C to 17 °C, and
+(ii) Sea surface temperatures of 7 °C to 17 °C, and 
 
-(iii) Water depths of 6 to 28 meters, where these features simultaneously co-occur over contiguous areas of at least 231 nmi 2 of ocean waters during the months of November through April. When these features are available, they are selected by right whale cows and calves in dynamic combinations that are suitable for calving, nursing, and rearing, and which vary, within the ranges specified, depending on factors such as weather and age of the calves.
+(iii) Water depths of 6 to 28 meters, where these features simultaneously co-occur over contiguous areas of at least 231 nmi 2 of ocean waters during the months of November through April. When these features are available, they are selected by right whale cows and calves in dynamic combinations that are suitable for calving, nursing, and rearing, and which vary, within the ranges specified, depending on factors such as weather and age of the calves. 
 
-(b) *Critical habitat boundaries.* Critical habitat includes two areas (Units) located in the Gulf of Maine and Georges Bank Region (Unit 1) and off the coast of North Carolina, South Carolina, Georgia and Florida (Unit 2).
+(b) *Critical habitat boundaries.* Critical habitat includes two areas (Units) located in the Gulf of Maine and Georges Bank Region (Unit 1) and off the coast of North Carolina, South Carolina, Georgia and Florida (Unit 2). 
 
-(1) *Unit 1.* The specific area on which are found the physical and biological features essential to the conservation of the North Atlantic right whale include all waters, seaward of the boundary delineated by the line connecting the geographic coordinates and landmarks identified herein:
+(1) *Unit 1.* The specific area on which are found the physical and biological features essential to the conservation of the North Atlantic right whale include all waters, seaward of the boundary delineated by the line connecting the geographic coordinates and landmarks identified herein: 
 
-(i) The southern tip of Nauset Beach (Cape Cod) (41°38.39′ N./69°57.32′ W.).
+(i) The southern tip of Nauset Beach (Cape Cod) (41°38.39′ N./69°57.32′ W.). 
 
-(ii) From this point, southwesterly to 41°37.19′ N./69°59.11′ W.
+(ii) From this point, southwesterly to 41°37.19′ N./69°59.11′ W. 
 
-(iii) From this point, southward along the eastern shore of South Monomoy Island to 41°32.76′ N./69°59.73′ W.
+(iii) From this point, southward along the eastern shore of South Monomoy Island to 41°32.76′ N./69°59.73′ W. 
 
-(iv) From this point, southeasterly to 40°50′ N./69°12′ W.
+(iv) From this point, southeasterly to 40°50′ N./69°12′ W. 
 
-(v) From this point, east to 40°50′ N. 68°50′ W.
+(v) From this point, east to 40°50′ N. 68°50′ W. 
 
-(vi) From this point, northeasterly to 42°00′ N. 67°55′ W.
+(vi) From this point, northeasterly to 42°00′ N. 67°55′ W. 
 
-(vii) From this point, east to 42°00′ N. 67°30′ W.
+(vii) From this point, east to 42°00′ N. 67°30′ W. 
 
-(viii) From this point, northeast to the intersection of the U.S.-Canada maritime boundary and 42°10′ N.
+(viii) From this point, northeast to the intersection of the U.S.-Canada maritime boundary and 42°10′ N. 
 
-(ix) From this point, following the U.S.-Canada maritime boundary north to the intersection of 44°49.727′ N./66°57.952′ W.; From this point, moving southwest along the coast of Maine, the specific area is located seaward of the line connecting the following points:
+(ix) From this point, following the U.S.-Canada maritime boundary north to the intersection of 44°49.727′ N./66°57.952′ W.; From this point, moving southwest along the coast of Maine, the specific area is located seaward of the line connecting the following points: 
 
 | Latitude      | Longitude     |
 | ------------- | ------------- |
@@ -64,7 +64,7 @@ Critical habitat is designated for North Atlantic right whales as described in t
 | 43°4.06′ N.   | 70°36.70′ W.  |
 | 43°2.93′ N.   | 70°41.47′ W.  |
 
-(x) From this point (43°2.93′ N/70°41.47′ W.) on the coast of New Hampshire south of Portsmouth, the boundary of the specific area follows the coastline southward along the coasts of New Hampshire and Massachusetts along Cape Cod to Provincetown southward along the eastern edge of Cape Cod to the southern tip of Nauset Beach (Cape Cod) (41°38.39′ N./69°57.32′ W.) with the exception of the area landward of the lines drawn by connecting the following points:
+(x) From this point (43°2.93′ N/70°41.47′ W.) on the coast of New Hampshire south of Portsmouth, the boundary of the specific area follows the coastline southward along the coasts of New Hampshire and Massachusetts along Cape Cod to Provincetown southward along the eastern edge of Cape Cod to the southern tip of Nauset Beach (Cape Cod) (41°38.39′ N./69°57.32′ W.) with the exception of the area landward of the lines drawn by connecting the following points: 
 
 | 42°59.986′ N  | 70°44.654′ W  | TO | Rye Harbor.                             |
 | 42°59.956′ N. | 70°44.737′ W. |    | Rye Harbor.                             |
@@ -127,27 +127,27 @@ Critical habitat is designated for North Atlantic right whales as described in t
 | 41°40.685′ N. | 69°56.781′ W. | TO | Chatham Harbor.                         |
 | 41°40.884′ N. | 69°56.28′ W.  |    | Chatham Harbor.                         |
 
-(xi) In addition, the specific area does not include waters landward of the 72 COLREGS lines (33 CFR part 80) described below.
+(xi) In addition, the specific area does not include waters landward of the 72 COLREGS lines (33 CFR part 80) described below. 
 
 (A) *Portland Head, ME to Cape Ann, MA.*
 
-(*1*) A line drawn from the northernmost extremity of Farm Point to Annisquam Harbor Light.
+(*1*) A line drawn from the northernmost extremity of Farm Point to Annisquam Harbor Light. 
 
-(*2)* \[Reserved\]
+(*2)* \[Reserved\] 
 
 (B) *Cape Ann MA to Marblehead Neck, MA.*
 
-(*1*) A line drawn from Gloucester Harbor Breakwater Light to the twin towers charted at latitude 42°35.1′ N. longitude 70°41.6′ W.
+(*1*) A line drawn from Gloucester Harbor Breakwater Light to the twin towers charted at latitude 42°35.1′ N. longitude 70°41.6′ W. 
 
-(*2*) A line drawn from the westernmost extremity of Gales Point to the easternmost extremity of House Island; thence to Bakers Island Light; thence to Marblehead Light.
+(*2*) A line drawn from the westernmost extremity of Gales Point to the easternmost extremity of House Island; thence to Bakers Island Light; thence to Marblehead Light. 
 
 (C) *Hull, MA to Race Point, MA.*
 
-*(1)* A line drawn from Canal Breakwater Light 4 south to the shoreline.
+*(1)* A line drawn from Canal Breakwater Light 4 south to the shoreline. 
 
-*(2)* \[Reserved\]
+*(2)* \[Reserved\] 
 
-(2) *Unit 2.* Unit 2 includes marine waters from Cape Fear, North Carolina, southward to 28° N . latitude (approximately 31 miles south of Cape Canaveral, Florida) within the area bounded on the west by the shoreline and the 72 COLREGS lines, and on the east by rhumb lines connecting the following points in the order stated from north to south.
+(2) *Unit 2.* Unit 2 includes marine waters from Cape Fear, North Carolina, southward to 28° N . latitude (approximately 31 miles south of Cape Canaveral, Florida) within the area bounded on the west by the shoreline and the 72 COLREGS lines, and on the east by rhumb lines connecting the following points in the order stated from north to south. 
 
 | Latitude  | Longitude     |
 | --------- | ------------- |
@@ -173,6 +173,6 @@ Critical habitat is designated for North Atlantic right whales as described in t
 | 28°00′    | 80°29′ W.     |
 | 28°00′ N. | At shoreline. |
 
-(c) Overview maps of the designated critical habitat for the North Atlantic right whale follow.
+(c) Overview maps of the designated critical habitat for the North Atlantic right whale follow. 
 
 ![](/graphics/er27ja16.003.gif)![](/graphics/er27ja16.004.gif)\[81 FR 4871, Jan. 27, 2016\]

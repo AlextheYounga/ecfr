@@ -1,6 +1,6 @@
 ##### § 648.297 Tilefish gear restricted areas.
 
-No vessel of the United States may fish with bottom-tending mobile gear within the areas bounded by the following coordinates:
+No vessel of the United States may fish with bottom-tending mobile gear within the areas bounded by the following coordinates: 
 
 | Canyon        | N. lat. | W. long. |
 | ------------- | ------- | -------- |

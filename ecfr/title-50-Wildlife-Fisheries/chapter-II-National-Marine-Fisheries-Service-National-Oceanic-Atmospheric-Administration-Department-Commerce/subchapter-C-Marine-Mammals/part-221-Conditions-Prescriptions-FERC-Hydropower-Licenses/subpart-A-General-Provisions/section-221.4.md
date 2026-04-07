@@ -1,6 +1,6 @@
 ##### § 221.4 What deadlines apply to the trial-type hearing and alternatives processes?
 
-(a) The following table summarizes the steps in the trial-type hearing process under subpart B of this part and indicates the deadlines generally applicable to each step. If the deadlines in this table are in any way inconsistent with the deadlines as set by other sections of this part or by the ALJ, the deadlines as set by those other sections or by the ALJ control.
+(a) The following table summarizes the steps in the trial-type hearing process under subpart B of this part and indicates the deadlines generally applicable to each step. If the deadlines in this table are in any way inconsistent with the deadlines as set by other sections of this part or by the ALJ, the deadlines as set by those other sections or by the ALJ control. 
 
 | Process step                                                                                                   | Process day | Must generally be completed                                                                              | See section |
 | -------------------------------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------- | ----------- |
@@ -26,7 +26,7 @@
 | (20) Parties file post-hearing briefs                                                                          | 175         | Within 15 days after hearing closes                                                                      | 221.59(a).  |
 | (21) ALJ issues decision                                                                                       | 190         | Within 30 days after hearing closes                                                                      | 221.60(a).  |
 
-(b) The following table summarizes the steps in the alternatives process under subpart C of this part and indicates the deadlines generally applicable to each step. If the deadlines in this table are in any way inconsistent with the deadlines as set by other sections of this part, the deadlines as set by those other sections control.
+(b) The following table summarizes the steps in the alternatives process under subpart C of this part and indicates the deadlines generally applicable to each step. If the deadlines in this table are in any way inconsistent with the deadlines as set by other sections of this part, the deadlines as set by those other sections control. 
 
 | Process step                                                                              | Process day | Must generally be completed                                                           | See section |
 | ----------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------- | ----------- |

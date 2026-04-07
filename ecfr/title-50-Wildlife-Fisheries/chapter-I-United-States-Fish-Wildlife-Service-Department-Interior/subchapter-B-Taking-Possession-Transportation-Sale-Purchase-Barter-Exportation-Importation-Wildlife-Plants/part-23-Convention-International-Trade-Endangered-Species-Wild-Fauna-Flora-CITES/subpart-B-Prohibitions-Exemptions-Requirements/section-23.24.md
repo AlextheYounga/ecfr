@@ -1,6 +1,6 @@
 ##### § 23.24 What code is used to show the source of the specimen?
 
-The Management Authority must indicate on the CITES document the source of the specimen using one of the following codes, except the code “O” for pre-Convention, which may be used in conjunction with another code:
+The Management Authority must indicate on the CITES document the source of the specimen using one of the following codes, except the code “O” for pre-Convention, which may be used in conjunction with another code: 
 
 | Source of specimen                                                                                                                                                                                                                                                                                                                                                                                                                                        | Code |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |

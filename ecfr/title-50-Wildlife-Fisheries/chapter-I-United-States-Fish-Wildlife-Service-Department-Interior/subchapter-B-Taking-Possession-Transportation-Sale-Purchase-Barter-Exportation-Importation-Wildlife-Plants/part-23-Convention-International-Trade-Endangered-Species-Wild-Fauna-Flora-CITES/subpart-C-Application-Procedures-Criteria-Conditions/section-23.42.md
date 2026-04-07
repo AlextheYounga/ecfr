@@ -1,6 +1,6 @@
 ##### § 23.42 What are the requirements for a plant hybrid?
 
-*General provisions.* Except as provided in § 23.92, the export, re-export, or import of a plant hybrid of a CITES species must be accompanied by a valid CITES document that shows the Appendix of the specimen as follows:
+*General provisions.* Except as provided in § 23.92, the export, re-export, or import of a plant hybrid of a CITES species must be accompanied by a valid CITES document that shows the Appendix of the specimen as follows: 
 
 | Question on a plant hybrid                                                                                                                | Answer and status of specimen                                                                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -1,16 +1,16 @@
 ##### § 23.27 What CITES documents do I present at the port?
 
-(a) *Purpose.* Article VIII of the Treaty provides that Parties establish an inspection process that takes place at a port of exit and entry. Inspecting officials must verify that valid CITES documents accompany shipments and take enforcement action when shipments do not comply with the Convention. Article VI, paragraph 6, of the Treaty requires that the Management Authority of the importing country cancel and retain the export permit or re-export certificate and any corresponding import permit presented. In the United States, for imports of CITES-listed plant specimens, CITES inspecting officials cancel and submit original CITES documents to the U.S. Management Authority.
+(a) *Purpose.* Article VIII of the Treaty provides that Parties establish an inspection process that takes place at a port of exit and entry. Inspecting officials must verify that valid CITES documents accompany shipments and take enforcement action when shipments do not comply with the Convention. Article VI, paragraph 6, of the Treaty requires that the Management Authority of the importing country cancel and retain the export permit or re-export certificate and any corresponding import permit presented. In the United States, for imports of CITES-listed plant specimens, CITES inspecting officials cancel and submit original CITES documents to the U.S. Management Authority. 
 
-(b) *U.S. port requirements.* In the United States, you must follow the clearance requirements for wildlife in part 14 of this subchapter and for plants in part 24 of this subchapter and 7 CFR parts 319, 352, and 355, and the specific requirement in paragraphs (c) and (d) of this section.
+(b) *U.S. port requirements.* In the United States, you must follow the clearance requirements for wildlife in part 14 of this subchapter and for plants in part 24 of this subchapter and 7 CFR parts 319, 352, and 355, and the specific requirement in paragraphs (c) and (d) of this section. 
 
-(c) *General validation or certification process.* Officials in each exporting or re-exporting country inspect the shipment and validate or certify the CITES document. The table in this paragraph (c) provides information on:
+(c) *General validation or certification process.* Officials in each exporting or re-exporting country inspect the shipment and validate or certify the CITES document. The table in this paragraph (c) provides information on: 
 
-(1) The types of original CITES documents you must present to be validated or certified by the inspecting official to export or re-export from a country.
+(1) The types of original CITES documents you must present to be validated or certified by the inspecting official to export or re-export from a country. 
 
-(2) When you need to surrender a copy of the original CITES document to the inspecting official at the time of export or re-export.
+(2) When you need to surrender a copy of the original CITES document to the inspecting official at the time of export or re-export. 
 
-(3) When you need to surrender the original CITES document to the inspecting official at the time of import or introduction from the sea.
+(3) When you need to surrender the original CITES document to the inspecting official at the time of import or introduction from the sea. 
 
 | Type of CITES document                                                                                                           | Present original for export or re-export validation or certification | Surrender copy upon   export or re-export | Surrender original upon   import or introductionfrom the sea |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------ |
@@ -34,6 +34,6 @@
 | Traveling-exhibition certificate                                                                                                 | Required                                                             | Required                                  | Not required; submit copy                                    |
 | 1 Original must be available for inspection, but permit conditions will indicate whether an original or copy is to be validated. |                                                                      |                                           |                                                              |
 
-(d) *Customs declaration labels.* The customs declaration label used to identify specimens being moved between registered scientific institutions (§ 23.48) must be affixed to the shipping container. The label does not require export or re-export validation or certification at the port.
+(d) *Customs declaration labels.* The customs declaration label used to identify specimens being moved between registered scientific institutions (§ 23.48) must be affixed to the shipping container. The label does not require export or re-export validation or certification at the port. 
 
 \[72 FR 48448, Aug. 23, 2007, as amended at 79 FR 30424, May 27, 2014\]

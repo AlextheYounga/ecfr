@@ -1,8 +1,8 @@
 ##### § 218.152 Permissible methods of taking.
 
-(a) Under an LOA issued pursuant to §§ 216.106 of this chapter and 218.156, the Navy may incidentally, but not intentionally, take marine mammals within the TMAA only, by Level A harassment and Level B harassment associated with the use of active sonar and other acoustic sources and explosives, provided the activity is in compliance with all terms, conditions, and requirements of this subpart and the applicable LOA.
+(a) Under an LOA issued pursuant to §§ 216.106 of this chapter and 218.156, the Navy may incidentally, but not intentionally, take marine mammals within the TMAA only, by Level A harassment and Level B harassment associated with the use of active sonar and other acoustic sources and explosives, provided the activity is in compliance with all terms, conditions, and requirements of this subpart and the applicable LOA. 
 
-(b) The incidental take of marine mammals by the activities listed in § 218.150(c) is limited to the following species:
+(b) The incidental take of marine mammals by the activities listed in § 218.150(c) is limited to the following species: 
 
 Table 1 to § 218.152(b)
 | Species                     | Stock                                                                             |

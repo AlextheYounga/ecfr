@@ -1,194 +1,194 @@
 ##### § 100.26 Subsistence taking of wildlife.
 
-(a) *General taking prohibitions.* You may take wildlife for subsistence uses by any method, except as prohibited in this section or by other Federal statute. Taking wildlife for subsistence uses by a prohibited method is a violation of this part. Seasons are closed unless opened by Federal regulation. Hunting or trapping during a closed season or in an area closed by this part is prohibited.
+(a) *General taking prohibitions.* You may take wildlife for subsistence uses by any method, except as prohibited in this section or by other Federal statute. Taking wildlife for subsistence uses by a prohibited method is a violation of this part. Seasons are closed unless opened by Federal regulation. Hunting or trapping during a closed season or in an area closed by this part is prohibited. 
 
-(b) *Prohibited methods and means.* Except for special provisions found at paragraphs (n)(1) through (26) of this section, the following methods and means of taking wildlife for subsistence uses are prohibited:
+(b) *Prohibited methods and means.* Except for special provisions found at paragraphs (n)(1) through (26) of this section, the following methods and means of taking wildlife for subsistence uses are prohibited: 
 
-(1) Shooting from, on, or across a highway.
+(1) Shooting from, on, or across a highway. 
 
-(2) Using any poison.
+(2) Using any poison. 
 
-(3) Using a helicopter in any manner, including transportation of individuals, equipment, or wildlife; however, this prohibition does not apply to transportation of an individual, gear, or wildlife during an emergency rescue operation in a life-threatening situation.
+(3) Using a helicopter in any manner, including transportation of individuals, equipment, or wildlife; however, this prohibition does not apply to transportation of an individual, gear, or wildlife during an emergency rescue operation in a life-threatening situation. 
 
-(4) Taking wildlife from a motorized land or air vehicle when that vehicle is in motion, or from a motor-driven boat when the boat's progress from the motor's power has not ceased.
+(4) Taking wildlife from a motorized land or air vehicle when that vehicle is in motion, or from a motor-driven boat when the boat's progress from the motor's power has not ceased. 
 
-(5) Using a motorized vehicle to drive, herd, or molest wildlife.
+(5) Using a motorized vehicle to drive, herd, or molest wildlife. 
 
-(6) Using or being aided by use of a machine gun, set gun, or a shotgun larger than 10 gauge.
+(6) Using or being aided by use of a machine gun, set gun, or a shotgun larger than 10 gauge. 
 
-(7) Using a firearm other than a shotgun, muzzle-loaded rifle, rifle, or pistol using center-firing cartridges for the taking of ungulates, bear, wolves, or wolverine, except that—
+(7) Using a firearm other than a shotgun, muzzle-loaded rifle, rifle, or pistol using center-firing cartridges for the taking of ungulates, bear, wolves, or wolverine, except that— 
 
-(i) An individual in possession of a valid trapping license may use a firearm that shoots rimfire cartridges to take wolves and wolverine; and
+(i) An individual in possession of a valid trapping license may use a firearm that shoots rimfire cartridges to take wolves and wolverine; and 
 
-(ii) Only a muzzle-loading rifle of .54-caliber or larger, or a .45-caliber muzzle-loading rifle with a 250-grain, or larger, elongated slug may be used to take brown bear, black bear, elk, moose, musk ox, and mountain goat.
+(ii) Only a muzzle-loading rifle of .54-caliber or larger, or a .45-caliber muzzle-loading rifle with a 250-grain, or larger, elongated slug may be used to take brown bear, black bear, elk, moose, musk ox, and mountain goat. 
 
-(8) Using or being aided by use of a pit, fire, artificial light, radio communication, artificial salt lick, explosive, barbed arrow, bomb, smoke, chemical, conventional steel trap with a jaw spread over 9 inches, or conibear style trap with a jaw spread over 11 inches.
+(8) Using or being aided by use of a pit, fire, artificial light, radio communication, artificial salt lick, explosive, barbed arrow, bomb, smoke, chemical, conventional steel trap with a jaw spread over 9 inches, or conibear style trap with a jaw spread over 11 inches. 
 
-(9) Using a snare, except that an individual in possession of a valid hunting license may use nets and snares to take unclassified wildlife, ptarmigan, grouse, or hares; and individuals in possession of a valid trapping license may use snares to take furbearers.
+(9) Using a snare, except that an individual in possession of a valid hunting license may use nets and snares to take unclassified wildlife, ptarmigan, grouse, or hares; and individuals in possession of a valid trapping license may use snares to take furbearers. 
 
-(10) Using a trap to take ungulates or bear.
+(10) Using a trap to take ungulates or bear. 
 
-(11) Using hooks to physically snag, impale, or otherwise take wildlife; however, hooks may be used as a trap drag.
+(11) Using hooks to physically snag, impale, or otherwise take wildlife; however, hooks may be used as a trap drag. 
 
-(12) Using a crossbow to take ungulates, bear, wolf, or wolverine in any area restricted to hunting by bow and arrow only.
+(12) Using a crossbow to take ungulates, bear, wolf, or wolverine in any area restricted to hunting by bow and arrow only. 
 
-(13) Taking of ungulates, bear, wolf, or wolverine with a bow, unless the bow is capable of casting an inch-wide broadhead-tipped arrow at least 175 yards horizontally, and the arrow and broadhead together weigh at least 1 ounce (437.5 grains).
+(13) Taking of ungulates, bear, wolf, or wolverine with a bow, unless the bow is capable of casting an inch-wide broadhead-tipped arrow at least 175 yards horizontally, and the arrow and broadhead together weigh at least 1 ounce (437.5 grains). 
 
-(14) Using bait for taking ungulates, bear, wolf, or wolverine; except you may use bait to take wolves and wolverine with a trapping license, and you may use bait to take black bears and brown bears with a hunting license as authorized in Unit-specific regulations at paragraphs (n)(1) through (26) of this section. Baiting of black bears and brown bears is subject to the following restrictions:
+(14) Using bait for taking ungulates, bear, wolf, or wolverine; except you may use bait to take wolves and wolverine with a trapping license, and you may use bait to take black bears and brown bears with a hunting license as authorized in Unit-specific regulations at paragraphs (n)(1) through (26) of this section. Baiting of black bears and brown bears is subject to the following restrictions: 
 
-(i) Before establishing a bear bait station, you must register the site with ADF&G.
+(i) Before establishing a bear bait station, you must register the site with ADF&G. 
 
-(ii) When using bait, you must clearly mark the site with a sign reading “black bear bait station” that also displays your hunting license number and ADF&G-assigned number.
+(ii) When using bait, you must clearly mark the site with a sign reading “black bear bait station” that also displays your hunting license number and ADF&G-assigned number. 
 
-(iii) You may use only biodegradable materials for bait; if fish or wildlife is used as bait, only the head, bones, viscera, or skin of legally harvested fish and wildlife, the skinned carcasses of furbearers, and unclassified wildlife may be used, except that in Units 7 and 15, fish or fish parts may not be used as bait. Scent lures may be used at registered bait stations.
+(iii) You may use only biodegradable materials for bait; if fish or wildlife is used as bait, only the head, bones, viscera, or skin of legally harvested fish and wildlife, the skinned carcasses of furbearers, and unclassified wildlife may be used, except that in Units 7 and 15, fish or fish parts may not be used as bait. Scent lures may be used at registered bait stations. 
 
-(iv) You may not use bait within 1/4 mile of a publicly maintained road or trail.
+(iv) You may not use bait within 1/4 mile of a publicly maintained road or trail. 
 
-(v) You may not use bait within 1 mile of a house or other permanent dwelling, or within 1 mile of a developed campground or developed recreational facility.
+(v) You may not use bait within 1 mile of a house or other permanent dwelling, or within 1 mile of a developed campground or developed recreational facility. 
 
-(vi) When using bait, you must remove litter and equipment from the bait station site when done hunting.
+(vi) When using bait, you must remove litter and equipment from the bait station site when done hunting. 
 
-(vii) You may not give or receive payment for the use of a bait station, including barter or exchange of goods.
+(vii) You may not give or receive payment for the use of a bait station, including barter or exchange of goods. 
 
-(viii) You may not have more than two bait stations with bait present at any one time.
+(viii) You may not have more than two bait stations with bait present at any one time. 
 
-(15) Taking swimming ungulates, bears, wolves, or wolverine.
+(15) Taking swimming ungulates, bears, wolves, or wolverine. 
 
-(16) Taking or assisting in the taking of ungulates, bear, wolves, wolverine, or other furbearers before 3 a.m. following the day in which airborne travel occurred (except for flights in regularly scheduled commercial aircraft). This restriction does not apply to subsistence taking of deer (except on NPS lands) and of caribou on the Nushagak Peninsula (a portion of Units 17A and 17C) during Jan. 1-Mar. 31, provided the hunter is 300 feet from the airplane; moreover, this restriction does not apply to subsistence setting of snares or traps, or the removal of furbearers from traps or snares.
+(16) Taking or assisting in the taking of ungulates, bear, wolves, wolverine, or other furbearers before 3 a.m. following the day in which airborne travel occurred (except for flights in regularly scheduled commercial aircraft). This restriction does not apply to subsistence taking of deer (except on NPS lands) and of caribou on the Nushagak Peninsula (a portion of Units 17A and 17C) during Jan. 1-Mar. 31, provided the hunter is 300 feet from the airplane; moreover, this restriction does not apply to subsistence setting of snares or traps, or the removal of furbearers from traps or snares. 
 
-(17) Taking a bear cub or a sow accompanied by cub(s).
+(17) Taking a bear cub or a sow accompanied by cub(s). 
 
-(c) *Defense of life and property.* Wildlife taken in defense of life or property is not a subsistence use; wildlife so taken is subject to State regulations.
+(c) *Defense of life and property.* Wildlife taken in defense of life or property is not a subsistence use; wildlife so taken is subject to State regulations. 
 
-(d) *Trapping furbearing animals.* The following methods and means of trapping furbearers for subsistence uses pursuant to the requirements of a trapping license are prohibited, in addition to the prohibitions listed at paragraph (b) of this section:
+(d) *Trapping furbearing animals.* The following methods and means of trapping furbearers for subsistence uses pursuant to the requirements of a trapping license are prohibited, in addition to the prohibitions listed at paragraph (b) of this section: 
 
-(1) Disturbing or destroying a den, except that you may disturb a muskrat pushup or feeding house in the course of trapping;
+(1) Disturbing or destroying a den, except that you may disturb a muskrat pushup or feeding house in the course of trapping; 
 
-(2) Disturbing or destroying any beaver house;
+(2) Disturbing or destroying any beaver house; 
 
-(3) Taking beaver by any means other than a steel trap or snare, except that you may use firearms in certain Units with established seasons as identified in Unit-specific regulations found in this subpart;
+(3) Taking beaver by any means other than a steel trap or snare, except that you may use firearms in certain Units with established seasons as identified in Unit-specific regulations found in this subpart; 
 
-(4) Taking otter with a steel trap having a jaw spread of less than 5 7/8 inches during any closed mink and marten season in the same Unit;
+(4) Taking otter with a steel trap having a jaw spread of less than 5 7/8 inches during any closed mink and marten season in the same Unit; 
 
-(5) Using a net or fish trap (except a blackfish or fyke trap); and
+(5) Using a net or fish trap (except a blackfish or fyke trap); and 
 
-(6) Taking or assisting in the taking of furbearers by firearm before 3:00 a.m. on the day following the day on which airborne travel occurred; however, this does not apply to a trapper using a firearm to dispatch furbearers caught in a trap or snare.
+(6) Taking or assisting in the taking of furbearers by firearm before 3:00 a.m. on the day following the day on which airborne travel occurred; however, this does not apply to a trapper using a firearm to dispatch furbearers caught in a trap or snare. 
 
-(e) *Possession and transportation of wildlife.* Except as specified in paragraph (f)(1) of this section, or as otherwise provided, you may not take a species of wildlife in any Unit, or portion of a Unit, if your total take of that species already obtained anywhere in the State under Federal and State regulations equals or exceeds the harvest limit in that Unit.
+(e) *Possession and transportation of wildlife.* Except as specified in paragraph (f)(1) of this section, or as otherwise provided, you may not take a species of wildlife in any Unit, or portion of a Unit, if your total take of that species already obtained anywhere in the State under Federal and State regulations equals or exceeds the harvest limit in that Unit. 
 
-(f) *Harvest limits.* (1) The harvest limit specified for a trapping season for a species and the harvest limit set for a hunting season for the same species are separate and distinct. This means that if you have taken a harvest limit for a particular species under a trapping season, you may take additional animals under the harvest limit specified for a hunting season or vice versa.
+(f) *Harvest limits.* (1) The harvest limit specified for a trapping season for a species and the harvest limit set for a hunting season for the same species are separate and distinct. This means that if you have taken a harvest limit for a particular species under a trapping season, you may take additional animals under the harvest limit specified for a hunting season or vice versa. 
 
-(2) A brown/grizzly bear taken in a Unit or portion of a Unit having a harvest limit of “one brown/grizzly bear per year” counts against a “one brown/grizzly bear every four regulatory years” harvest limit in other Units. You may not take more than one brown/grizzly bear in a regulatory year.
+(2) A brown/grizzly bear taken in a Unit or portion of a Unit having a harvest limit of “one brown/grizzly bear per year” counts against a “one brown/grizzly bear every four regulatory years” harvest limit in other Units. You may not take more than one brown/grizzly bear in a regulatory year. 
 
-(g) *Evidence of sex and identity.* (1) If subsistence take of Dall sheep is restricted to a ram, you may not possess or transport a harvested sheep unless both horns accompany the animal.
+(g) *Evidence of sex and identity.* (1) If subsistence take of Dall sheep is restricted to a ram, you may not possess or transport a harvested sheep unless both horns accompany the animal. 
 
-(2) If the subsistence taking of an ungulate, except sheep, is restricted to one sex in the local area, you may not possess or transport the carcass of an animal taken in that area unless sufficient portions of the external sex organs remain attached to indicate conclusively the sex of the animal, except that in Units 1-5 antlers are also considered proof of sex for deer if the antlers are naturally attached to an entire carcass, with or without the viscera; and except in Units 11, 13, 19, 21, and 24, where you may possess either sufficient portions of the external sex organs (still attached to a portion of the carcass) or the head (with or without antlers attached; however, the antler stumps must remain attached) to indicate the sex of the harvested moose. However, this paragraph (g)(2) does not apply to the carcass of an ungulate that has been butchered and placed in storage or otherwise prepared for consumption upon arrival at the location where it is to be consumed.
+(2) If the subsistence taking of an ungulate, except sheep, is restricted to one sex in the local area, you may not possess or transport the carcass of an animal taken in that area unless sufficient portions of the external sex organs remain attached to indicate conclusively the sex of the animal, except that in Units 1-5 antlers are also considered proof of sex for deer if the antlers are naturally attached to an entire carcass, with or without the viscera; and except in Units 11, 13, 19, 21, and 24, where you may possess either sufficient portions of the external sex organs (still attached to a portion of the carcass) or the head (with or without antlers attached; however, the antler stumps must remain attached) to indicate the sex of the harvested moose. However, this paragraph (g)(2) does not apply to the carcass of an ungulate that has been butchered and placed in storage or otherwise prepared for consumption upon arrival at the location where it is to be consumed. 
 
-(3) If a moose harvest limit requires an antlered bull, an antler size, or configuration restriction, you may not possess or transport the moose carcass or its parts unless both antlers accompany the carcass or its parts. If you possess a set of antlers with less than the required number of brow tines on one antler, you must leave the antlers naturally attached to the unbroken, uncut skull plate; however, this paragraph (g)(3) does not apply to a moose carcass or its parts that have been butchered and placed in storage or otherwise prepared for consumption after arrival at the place where it is to be stored or consumed.
+(3) If a moose harvest limit requires an antlered bull, an antler size, or configuration restriction, you may not possess or transport the moose carcass or its parts unless both antlers accompany the carcass or its parts. If you possess a set of antlers with less than the required number of brow tines on one antler, you must leave the antlers naturally attached to the unbroken, uncut skull plate; however, this paragraph (g)(3) does not apply to a moose carcass or its parts that have been butchered and placed in storage or otherwise prepared for consumption after arrival at the place where it is to be stored or consumed. 
 
-(h) *Removing harvest from the field.* (1) You must leave all edible meat on the bones of the front quarters and hind quarters of caribou and moose harvested in Units 9, 17, 18, and 19B prior to October 1 until you remove the meat from the field or process it for human consumption.
+(h) *Removing harvest from the field.* (1) You must leave all edible meat on the bones of the front quarters and hind quarters of caribou and moose harvested in Units 9, 17, 18, and 19B prior to October 1 until you remove the meat from the field or process it for human consumption. 
 
-(2) You must leave all edible meat on the bones of the front quarters, hind quarters, and ribs of moose harvested in Unit 21 prior to October 1 until you remove the meat from the field or process it for human consumption.
+(2) You must leave all edible meat on the bones of the front quarters, hind quarters, and ribs of moose harvested in Unit 21 prior to October 1 until you remove the meat from the field or process it for human consumption. 
 
-(3) You must leave all edible meat on the bones of the front quarters, hind quarters, and ribs of caribou and moose harvested in Unit 24 prior to October 1 until you remove the meat from the field or process it for human consumption. Meat of the front quarters, hind quarters, or ribs from a harvested moose or caribou may be processed for human consumption and consumed in the field; however, meat may not be removed from the bones for purposes of transport out of the field.
+(3) You must leave all edible meat on the bones of the front quarters, hind quarters, and ribs of caribou and moose harvested in Unit 24 prior to October 1 until you remove the meat from the field or process it for human consumption. Meat of the front quarters, hind quarters, or ribs from a harvested moose or caribou may be processed for human consumption and consumed in the field; however, meat may not be removed from the bones for purposes of transport out of the field. 
 
-(4) You must leave all edible meat on the bones of the front quarters, hind quarters, and ribs of caribou and moose harvested in Unit 25 until you remove the meat from the field or process it for human consumption.
+(4) You must leave all edible meat on the bones of the front quarters, hind quarters, and ribs of caribou and moose harvested in Unit 25 until you remove the meat from the field or process it for human consumption. 
 
-(i) *Returning of tags, marks, or collars.* If you take an animal that has been marked or tagged for scientific studies, you must, within a reasonable time, notify the ADF&G or the agency identified on the collar or marker when and where the animal was taken. You also must retain any ear tag, collar, radio, tattoo, or other identification with the hide until it is sealed, if sealing is required; in all cases, you must return any identification equipment to the ADF&G or to an agency identified on such equipment.
+(i) *Returning of tags, marks, or collars.* If you take an animal that has been marked or tagged for scientific studies, you must, within a reasonable time, notify the ADF&G or the agency identified on the collar or marker when and where the animal was taken. You also must retain any ear tag, collar, radio, tattoo, or other identification with the hide until it is sealed, if sealing is required; in all cases, you must return any identification equipment to the ADF&G or to an agency identified on such equipment. 
 
-(j) *Sealing of bear skins and skulls.* (1) Sealing requirements for brown bear taken apply in all Units, except as specified in this paragraph (j). Sealing requirements for black bears of all color phases taken apply in Units 1-7, 13-17, and 20.
+(j) *Sealing of bear skins and skulls.* (1) Sealing requirements for brown bear taken apply in all Units, except as specified in this paragraph (j). Sealing requirements for black bears of all color phases taken apply in Units 1-7, 13-17, and 20. 
 
-(2) You may not possess or transport from Alaska the untanned skin or skull of a bear unless the skin and skull have been sealed by an authorized representative of ADF&G in accordance with State or Federal regulations, except that the skin and skull of a brown bear taken under a registration permit in Units 5, 9B, 9E, 17, 18, 19A, and 19B downstream of and including the Aniak River drainage, and Units 21D, 22, 23, 24, and 26A need not be sealed unless removed from the area.
+(2) You may not possess or transport from Alaska the untanned skin or skull of a bear unless the skin and skull have been sealed by an authorized representative of ADF&G in accordance with State or Federal regulations, except that the skin and skull of a brown bear taken under a registration permit in Units 5, 9B, 9E, 17, 18, 19A, and 19B downstream of and including the Aniak River drainage, and Units 21D, 22, 23, 24, and 26A need not be sealed unless removed from the area. 
 
-(3) You must keep a bear skin and skull together until a representative of the ADF&G has removed a rudimentary premolar tooth from the skull and sealed both the skull and the skin; however, this provision does not apply to brown bears taken within Units 5, 9B, 9E, 17, 18, 19A, and 19B downstream of and including the Aniak River drainage, and Units 21D, 22, 23, 24, and 26A and which are not removed from the Unit.
+(3) You must keep a bear skin and skull together until a representative of the ADF&G has removed a rudimentary premolar tooth from the skull and sealed both the skull and the skin; however, this provision does not apply to brown bears taken within Units 5, 9B, 9E, 17, 18, 19A, and 19B downstream of and including the Aniak River drainage, and Units 21D, 22, 23, 24, and 26A and which are not removed from the Unit. 
 
-(i) In areas where sealing is required by Federal regulations, you may not possess or transport the hide of a bear that does not have the penis sheath or vaginal orifice naturally attached to indicate conclusively the sex of the bear.
+(i) In areas where sealing is required by Federal regulations, you may not possess or transport the hide of a bear that does not have the penis sheath or vaginal orifice naturally attached to indicate conclusively the sex of the bear. 
 
-(ii) If the skin or skull of a bear taken in Units 9B, 17, 18, and 19A and 19B downstream of and including the Aniak River drainage is removed from the area, you must first have it sealed by an ADF&G representative in Bethel, Dillingham, or McGrath; at the time of sealing, the ADF&G representative must remove and retain the skin of the skull and front claws of the bear.
+(ii) If the skin or skull of a bear taken in Units 9B, 17, 18, and 19A and 19B downstream of and including the Aniak River drainage is removed from the area, you must first have it sealed by an ADF&G representative in Bethel, Dillingham, or McGrath; at the time of sealing, the ADF&G representative must remove and retain the skin of the skull and front claws of the bear. 
 
-(iii) If you remove the skin or skull of a bear taken in Units 21D, 22, 23, 24, and 26A from the area or present it for commercial tanning within the area, you must first have it sealed by an ADF&G representative in Barrow, Galena, Nome, or Kotzebue; at the time of sealing, the ADF&G representative must remove and retain the skin of the skull and front claws of the bear.
+(iii) If you remove the skin or skull of a bear taken in Units 21D, 22, 23, 24, and 26A from the area or present it for commercial tanning within the area, you must first have it sealed by an ADF&G representative in Barrow, Galena, Nome, or Kotzebue; at the time of sealing, the ADF&G representative must remove and retain the skin of the skull and front claws of the bear. 
 
-(iv) If you remove the skin or skull of a bear taken in Unit 5 from the area, you must first have it sealed by an ADF&G representative in Yakutat.
+(iv) If you remove the skin or skull of a bear taken in Unit 5 from the area, you must first have it sealed by an ADF&G representative in Yakutat. 
 
-(v) If you remove the skin or skull of a bear taken in Unit 9E from Unit 9, you must first have it sealed by an authorized sealing representative. At the time of sealing, the representative must remove and retain the skin of the skull and front claws of the bear.
+(v) If you remove the skin or skull of a bear taken in Unit 9E from Unit 9, you must first have it sealed by an authorized sealing representative. At the time of sealing, the representative must remove and retain the skin of the skull and front claws of the bear. 
 
-(4) You may not falsify any information required on the sealing certificate or temporary sealing form provided by the ADF&G in accordance with State regulations.
+(4) You may not falsify any information required on the sealing certificate or temporary sealing form provided by the ADF&G in accordance with State regulations. 
 
-(k) *Sealing of beaver, lynx, marten, otter, wolf, and wolverine.* You may not possess or transport from Alaska the untanned skin of a marten taken in Unit 1-5, 7, 13E, or 14-16 or the untanned skin of a beaver, lynx, otter, wolf, or wolverine, whether taken inside or outside the State, unless the skin has been sealed by an authorized representative in accordance with State or Federal regulations.
+(k) *Sealing of beaver, lynx, marten, otter, wolf, and wolverine.* You may not possess or transport from Alaska the untanned skin of a marten taken in Unit 1-5, 7, 13E, or 14-16 or the untanned skin of a beaver, lynx, otter, wolf, or wolverine, whether taken inside or outside the State, unless the skin has been sealed by an authorized representative in accordance with State or Federal regulations. 
 
-(1) In Unit 18, you must obtain an ADF&G seal for beaver skins only if they are to be sold or commercially tanned.
+(1) In Unit 18, you must obtain an ADF&G seal for beaver skins only if they are to be sold or commercially tanned. 
 
-(2) In Unit 2, you must seal any wolf taken on or before the 14th day after the date of taking.
+(2) In Unit 2, you must seal any wolf taken on or before the 14th day after the date of taking. 
 
-(l) *Sealing form.* If you take a species listed in paragraph (k) of this section but are unable to present the skin in person, you must complete and sign a temporary sealing form and ensure that the completed temporary sealing form and skin are presented to an authorized representative of ADF&G for sealing consistent with requirements listed in paragraph (k) of this section.
+(l) *Sealing form.* If you take a species listed in paragraph (k) of this section but are unable to present the skin in person, you must complete and sign a temporary sealing form and ensure that the completed temporary sealing form and skin are presented to an authorized representative of ADF&G for sealing consistent with requirements listed in paragraph (k) of this section. 
 
-(m) *Traditional religious ceremonies.* You may take wildlife, outside of established season or harvest limits, for food in traditional religious ceremonies, which are part of a funerary or mortuary cycle, including memorial potlatches, under the following provisions:
+(m) *Traditional religious ceremonies.* You may take wildlife, outside of established season or harvest limits, for food in traditional religious ceremonies, which are part of a funerary or mortuary cycle, including memorial potlatches, under the following provisions: 
 
-(1) The harvest does not violate recognized principles of wildlife conservation and uses the methods and means allowable for the particular species published in the applicable Federal regulations. The appropriate Federal land manager will establish the number, species, sex, or location of harvest, if necessary, for conservation purposes. Other regulations relating to ceremonial harvest may be found in the Unit-specific regulations in paragraph (n) of this section.
+(1) The harvest does not violate recognized principles of wildlife conservation and uses the methods and means allowable for the particular species published in the applicable Federal regulations. The appropriate Federal land manager will establish the number, species, sex, or location of harvest, if necessary, for conservation purposes. Other regulations relating to ceremonial harvest may be found in the Unit-specific regulations in paragraph (n) of this section. 
 
-(2) No permit or harvest ticket is required for harvesting under this section; however, the harvester must be a federally qualified subsistence user with customary and traditional use in the area where the harvesting will occur.
+(2) No permit or harvest ticket is required for harvesting under this section; however, the harvester must be a federally qualified subsistence user with customary and traditional use in the area where the harvesting will occur. 
 
-(3) In Units 1-26 (except for Koyukon/Gwich'in potlatch ceremonies in Unit 20F, 21, 24, or 25):
+(3) In Units 1-26 (except for Koyukon/Gwich'in potlatch ceremonies in Unit 20F, 21, 24, or 25): 
 
-(i) A tribal chief, village or tribal council president, or the chief's or president's designee for the village in which the religious/cultural ceremony will be held, or a federally qualified subsistence user outside of a village or tribal-organized ceremony, must notify the nearest Federal land manager that a wildlife harvest will take place. The notification must include the species, harvest location, and number of animals expected to be taken.
+(i) A tribal chief, village or tribal council president, or the chief's or president's designee for the village in which the religious/cultural ceremony will be held, or a federally qualified subsistence user outside of a village or tribal-organized ceremony, must notify the nearest Federal land manager that a wildlife harvest will take place. The notification must include the species, harvest location, and number of animals expected to be taken. 
 
-(ii) Immediately after the wildlife is taken, the tribal chief, village or tribal council president or designee, or other federally qualified subsistence user must create a list of the successful hunters and maintain these records, including the name of the decedent for whom the ceremony will be held. If requested, this information must be available to an authorized representative of the Federal land manager.
+(ii) Immediately after the wildlife is taken, the tribal chief, village or tribal council president or designee, or other federally qualified subsistence user must create a list of the successful hunters and maintain these records, including the name of the decedent for whom the ceremony will be held. If requested, this information must be available to an authorized representative of the Federal land manager. 
 
-(iii) The tribal chief, village or tribal council president or designee, or other federally qualified subsistence user outside of the village in which the religious/cultural ceremony will be held must report to the Federal land manager the harvest location, species, sex, and number of animals taken as soon as practicable, but not more than 15 days after the wildlife is taken.
+(iii) The tribal chief, village or tribal council president or designee, or other federally qualified subsistence user outside of the village in which the religious/cultural ceremony will be held must report to the Federal land manager the harvest location, species, sex, and number of animals taken as soon as practicable, but not more than 15 days after the wildlife is taken. 
 
-(4) In Units 20F, 21, 24, and 25 (for Koyukon/Gwich'in potlatch ceremonies only):
+(4) In Units 20F, 21, 24, and 25 (for Koyukon/Gwich'in potlatch ceremonies only): 
 
-(i) Taking wildlife outside of established season and harvest limits is authorized if it is for food for the traditional Koyukon/Gwich'in Potlatch Funerary or Mortuary ceremony and if it is consistent with conservation of healthy populations.
+(i) Taking wildlife outside of established season and harvest limits is authorized if it is for food for the traditional Koyukon/Gwich'in Potlatch Funerary or Mortuary ceremony and if it is consistent with conservation of healthy populations. 
 
-(ii) Immediately after the wildlife is taken, the tribal chief, village or tribal council president, or the chief's or president's designee for the village in which the religious ceremony will be held must create a list of the successful hunters and maintain these records. The list must be made available, after the harvest is completed, to a Federal land manager upon request.
+(ii) Immediately after the wildlife is taken, the tribal chief, village or tribal council president, or the chief's or president's designee for the village in which the religious ceremony will be held must create a list of the successful hunters and maintain these records. The list must be made available, after the harvest is completed, to a Federal land manager upon request. 
 
-(iii) As soon as practical, but not more than 15 days after the harvest, the tribal chief, village council president, or designee must notify the Federal land manager about the harvest location, species, sex, and number of animals taken.
+(iii) As soon as practical, but not more than 15 days after the harvest, the tribal chief, village council president, or designee must notify the Federal land manager about the harvest location, species, sex, and number of animals taken. 
 
-(n) *Unit regulations.* You may take for subsistence unclassified wildlife, all squirrel species, and marmots in all Units, without harvest limits, for the period of July 1-June 30. Unit-specific restrictions or allowances for subsistence taking of wildlife are identified at paragraphs (n)(1) through (26) of this section.
+(n) *Unit regulations.* You may take for subsistence unclassified wildlife, all squirrel species, and marmots in all Units, without harvest limits, for the period of July 1-June 30. Unit-specific restrictions or allowances for subsistence taking of wildlife are identified at paragraphs (n)(1) through (26) of this section. 
 
-(1) *Unit 1.* Unit 1 consists of all mainland drainages from Dixon Entrance to Cape Fairweather, and those islands east of the center line of Clarence Strait from Dixon Entrance to Caamano Point, and all islands in Stephens Passage and Lynn Canal north of Taku Inlet:
+(1) *Unit 1.* Unit 1 consists of all mainland drainages from Dixon Entrance to Cape Fairweather, and those islands east of the center line of Clarence Strait from Dixon Entrance to Caamano Point, and all islands in Stephens Passage and Lynn Canal north of Taku Inlet: 
 
-(i) Unit 1A consists of all drainages south of the latitude of Lemesurier Point including all drainages into Behm Canal, excluding all drainages of Ernest Sound.
+(i) Unit 1A consists of all drainages south of the latitude of Lemesurier Point including all drainages into Behm Canal, excluding all drainages of Ernest Sound. 
 
-(ii) Unit 1B consists of all drainages between the latitude of Lemesurier Point and the latitude of Cape Fanshaw including all drainages of Ernest Sound and Farragut Bay, and including the islands east of the center lines of Frederick Sound, Dry Strait (between Sergief and Kadin Islands), Eastern Passage, Blake Channel (excluding Blake Island), Ernest Sound, and Seward Passage.
+(ii) Unit 1B consists of all drainages between the latitude of Lemesurier Point and the latitude of Cape Fanshaw including all drainages of Ernest Sound and Farragut Bay, and including the islands east of the center lines of Frederick Sound, Dry Strait (between Sergief and Kadin Islands), Eastern Passage, Blake Channel (excluding Blake Island), Ernest Sound, and Seward Passage. 
 
-(iii) Unit 1C consists of that portion of Unit 1 draining into Stephens Passage and Lynn Canal north of Cape Fanshaw and south of the latitude of Eldred Rock including Berners Bay, Sullivan Island, and all mainland portions north of Chichagof Island and south of the latitude of Eldred Rock, excluding drainages into Farragut Bay.
+(iii) Unit 1C consists of that portion of Unit 1 draining into Stephens Passage and Lynn Canal north of Cape Fanshaw and south of the latitude of Eldred Rock including Berners Bay, Sullivan Island, and all mainland portions north of Chichagof Island and south of the latitude of Eldred Rock, excluding drainages into Farragut Bay. 
 
-(iv) Unit 1D consists of that portion of Unit 1 north of the latitude of Eldred Rock, excluding Sullivan Island and the drainages of Berners Bay.
+(iv) Unit 1D consists of that portion of Unit 1 north of the latitude of Eldred Rock, excluding Sullivan Island and the drainages of Berners Bay. 
 
-(v) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands:
+(v) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands: 
 
-(A) Public lands within Glacier Bay National Park are closed to all taking of wildlife for subsistence uses.
+(A) Public lands within Glacier Bay National Park are closed to all taking of wildlife for subsistence uses. 
 
-(B) Unit 1A—in the Hyder area, the Salmon River drainage downstream from the Riverside Mine, excluding the Thumb Creek drainage, is closed to the taking of bear.
+(B) Unit 1A—in the Hyder area, the Salmon River drainage downstream from the Riverside Mine, excluding the Thumb Creek drainage, is closed to the taking of bear. 
 
-(C) Unit 1B—the Anan Creek drainage within 1 mile of Anan Creek downstream from the mouth of Anan Lake, including the area within a 1-mile radius from the mouth of Anan Creek Lagoon, is closed to the taking of bear.
+(C) Unit 1B—the Anan Creek drainage within 1 mile of Anan Creek downstream from the mouth of Anan Lake, including the area within a 1-mile radius from the mouth of Anan Creek Lagoon, is closed to the taking of bear. 
 
-(D) Unit 1C:
+(D) Unit 1C: 
 
-(*1*) You may not hunt within one-fourth mile of Mendenhall Lake, the U.S. Forest Service Mendenhall Glacier Visitor's Center, and the Center's parking area; and
+(*1*) You may not hunt within one-fourth mile of Mendenhall Lake, the U.S. Forest Service Mendenhall Glacier Visitor's Center, and the Center's parking area; and 
 
-(*2*) You may not take mountain goat in the area of Mt. Bullard bounded by the Mendenhall Glacier, Nugget Creek from its mouth to its confluence with Goat Creek, and a line from the mouth of Goat Creek north to the Mendenhall Glacier.
+(*2*) You may not take mountain goat in the area of Mt. Bullard bounded by the Mendenhall Glacier, Nugget Creek from its mouth to its confluence with Goat Creek, and a line from the mouth of Goat Creek north to the Mendenhall Glacier. 
 
-(vi) You may not trap furbearers for subsistence uses in Unit 1C, Juneau area, on the following public lands:
+(vi) You may not trap furbearers for subsistence uses in Unit 1C, Juneau area, on the following public lands: 
 
-(A) A strip within one-quarter mile of the mainland coast between the end of Thane Road and the end of Glacier Highway at Echo Cove;
+(A) A strip within one-quarter mile of the mainland coast between the end of Thane Road and the end of Glacier Highway at Echo Cove; 
 
-(B) That area of the Mendenhall Valley bounded on the south by the Glacier Highway, on the west by the Mendenhall Loop Road and Montana Creek Road and Spur Road to Mendenhall Lake, on the north by Mendenhall Lake, and on the east by the Mendenhall Loop Road and Forest Service Glacier Spur Road to the Forest Service Visitor Center;
+(B) That area of the Mendenhall Valley bounded on the south by the Glacier Highway, on the west by the Mendenhall Loop Road and Montana Creek Road and Spur Road to Mendenhall Lake, on the north by Mendenhall Lake, and on the east by the Mendenhall Loop Road and Forest Service Glacier Spur Road to the Forest Service Visitor Center; 
 
-(C) That area within the U.S. Forest Service Mendenhall Glacier Recreation Area; and
+(C) That area within the U.S. Forest Service Mendenhall Glacier Recreation Area; and 
 
-(D) A strip within one-quarter mile of the following trails as designated on U.S. Geological Survey maps: Herbert Glacier Trail, Windfall Lake Trail, Peterson Lake Trail, Spaulding Meadows Trail (including the loop trail), Nugget Creek Trail, Outer Point Trail, Dan Moller Trail, Perseverance Trail, Granite Creek Trail, Mt. Roberts Trail and Nelson Water Supply Trail, Sheep Creek Trail, and Point Bishop Trail.
+(D) A strip within one-quarter mile of the following trails as designated on U.S. Geological Survey maps: Herbert Glacier Trail, Windfall Lake Trail, Peterson Lake Trail, Spaulding Meadows Trail (including the loop trail), Nugget Creek Trail, Outer Point Trail, Dan Moller Trail, Perseverance Trail, Granite Creek Trail, Mt. Roberts Trail and Nelson Water Supply Trail, Sheep Creek Trail, and Point Bishop Trail. 
 
-(vii) Unit-specific regulations:
+(vii) Unit-specific regulations: 
 
-(A) You may hunt black bear with bait in Units 1A, 1B, and 1D between April 15 and June 15.
+(A) You may hunt black bear with bait in Units 1A, 1B, and 1D between April 15 and June 15. 
 
-(B) You may not shoot ungulates, bear, wolves, or wolverine from a boat, unless you are certified as disabled.
+(B) You may not shoot ungulates, bear, wolves, or wolverine from a boat, unless you are certified as disabled. 
 
-(C) Coyotes taken incidentally with a trap or snare during an open Federal trapping season for wolf, wolverine, or beaver may be legally retained.
+(C) Coyotes taken incidentally with a trap or snare during an open Federal trapping season for wolf, wolverine, or beaver may be legally retained. 
 
-(D) A firearm may be used to take beaver under a trapping license during an open beaver season, except on National Park Service lands.
+(D) A firearm may be used to take beaver under a trapping license during an open beaver season, except on National Park Service lands. 
 
 Table 1 to Paragraph (n)(1)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                                     | Open season                         |
@@ -244,19 +244,19 @@ Table 1 to Paragraph (n)(1)
 | Wolf: No limit                                                                                                                                                                                                                                                                                                                                                                     | Nov. 1-Apr. 30.                     |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                                                                                                | Nov. 10-Mar. 1.                     |
 
-(2) *Unit 2.* Unit 2 consists of Prince of Wales Island and all islands west of the center lines of Clarence Strait and Kashevarof Passage, south and east of the center lines of Sumner Strait, and east of the longitude of the westernmost point on Warren Island.
+(2) *Unit 2.* Unit 2 consists of Prince of Wales Island and all islands west of the center lines of Clarence Strait and Kashevarof Passage, south and east of the center lines of Sumner Strait, and east of the longitude of the westernmost point on Warren Island. 
 
-(i) Unit-specific regulations:
+(i) Unit-specific regulations: 
 
-(A) You may use bait to hunt black bear between April 15 and June 15.
+(A) You may use bait to hunt black bear between April 15 and June 15. 
 
-(B) You may not shoot ungulates, bear, wolves, or wolverine from a boat, unless you are certified as disabled.
+(B) You may not shoot ungulates, bear, wolves, or wolverine from a boat, unless you are certified as disabled. 
 
-(C) Coyotes taken incidentally with a trap or snare during an open Federal trapping season for wolf, wolverine, or beaver may be legally retained.
+(C) Coyotes taken incidentally with a trap or snare during an open Federal trapping season for wolf, wolverine, or beaver may be legally retained. 
 
-(D) A firearm may be used to take beaver under a trapping license during an open beaver season, except on National Park Service lands.
+(D) A firearm may be used to take beaver under a trapping license during an open beaver season, except on National Park Service lands. 
 
-(ii) \[Reserved\]
+(ii) \[Reserved\] 
 
 Table 2 to Paragraph (n)(2)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                      | Open season      |
@@ -289,25 +289,25 @@ Table 2 to Paragraph (n)(2)
 | Wolf: No limit. All wolves taken will be sequentially numbered, marked with the date and location recorded by the trapper for each wolf, and all hides must be sealed within 15 days of take                                                                                                                                                                        | Nov. 15-Mar. 31. |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                                                                                 | Nov. 10-Mar. 1.  |
 
-(3) *Unit 3.* (i) Unit 3 consists of all islands west of Unit 1B, north of Unit 2, south of the center line of Frederick Sound, and east of the center line of Chatham Strait including Coronation, Kuiu, Kupreanof, Mitkof, Zarembo, Kashevaroff, Woronkofski, Etolin, Wrangell, and Deer Islands.
+(3) *Unit 3.* (i) Unit 3 consists of all islands west of Unit 1B, north of Unit 2, south of the center line of Frederick Sound, and east of the center line of Chatham Strait including Coronation, Kuiu, Kupreanof, Mitkof, Zarembo, Kashevaroff, Woronkofski, Etolin, Wrangell, and Deer Islands. 
 
-(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands:
+(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands: 
 
-(A) In the Petersburg vicinity, you may not take ungulates, bear, wolves, and wolverine along a strip one-fourth mile wide on each side of the Mitkof Highway from Milepost 0 to Crystal Lake campground.
+(A) In the Petersburg vicinity, you may not take ungulates, bear, wolves, and wolverine along a strip one-fourth mile wide on each side of the Mitkof Highway from Milepost 0 to Crystal Lake campground. 
 
-(B) You may not take black bears in the Petersburg Creek drainage on Kupreanof Island.
+(B) You may not take black bears in the Petersburg Creek drainage on Kupreanof Island. 
 
-(C) You may not hunt in the Blind Slough draining into Wrangell Narrows and a strip one-fourth-mile wide on each side of Blind Slough, from the hunting closure markers at the southernmost portion of Blind Island to the hunting closure markers 1 mile south of the Blind Slough bridge.
+(C) You may not hunt in the Blind Slough draining into Wrangell Narrows and a strip one-fourth-mile wide on each side of Blind Slough, from the hunting closure markers at the southernmost portion of Blind Island to the hunting closure markers 1 mile south of the Blind Slough bridge. 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
-(A) You may use bait to hunt black bear between April 15 and June 15.
+(A) You may use bait to hunt black bear between April 15 and June 15. 
 
-(B) You may not shoot ungulates, bear, wolves, or wolverine from a boat, unless you are certified as disabled.
+(B) You may not shoot ungulates, bear, wolves, or wolverine from a boat, unless you are certified as disabled. 
 
-(C) Coyotes taken incidentally with a trap or snare during an open Federal trapping season for wolf, wolverine, or beaver may be legally retained.
+(C) Coyotes taken incidentally with a trap or snare during an open Federal trapping season for wolf, wolverine, or beaver may be legally retained. 
 
-(D) A firearm may be used to take beaver under a trapping license during an open beaver season, except on National Park Service lands.
+(D) A firearm may be used to take beaver under a trapping license during an open beaver season, except on National Park Service lands. 
 
 Table 3 to Paragraph (n)(3)
 | Harvest limits                                                                                                                                                                   | Open season                                          |
@@ -346,27 +346,27 @@ Table 3 to Paragraph (n)(3)
 | Wolf: No limit                                                                                                                                                                   | Nov. 1-Apr. 30.                                      |
 | Wolverine: No limit                                                                                                                                                              | Nov. 10-Mar. 1.                                      |
 
-(4) *Unit 4.* (i) Unit 4 consists of all islands south and west of Unit 1C and north of Unit 3 including Admiralty, Baranof, Chichagof, Yakobi, Inian, Lemesurier, and Pleasant Islands.
+(4) *Unit 4.* (i) Unit 4 consists of all islands south and west of Unit 1C and north of Unit 3 including Admiralty, Baranof, Chichagof, Yakobi, Inian, Lemesurier, and Pleasant Islands. 
 
-(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands:
+(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands: 
 
-(A) You may not take brown bears in the Seymour Canal Closed Area (Admiralty Island) including all drainages into northwestern Seymour Canal between Staunch Point and the southernmost tip of the unnamed peninsula separating Swan Cove and King Salmon Bay including Swan and Windfall Islands.
+(A) You may not take brown bears in the Seymour Canal Closed Area (Admiralty Island) including all drainages into northwestern Seymour Canal between Staunch Point and the southernmost tip of the unnamed peninsula separating Swan Cove and King Salmon Bay including Swan and Windfall Islands. 
 
-(B) You may not take brown bears in the Salt Lake Closed Area (Admiralty Island) including all lands within one-fourth mile of Salt Lake above Klutchman Rock at the head of Mitchell Bay.
+(B) You may not take brown bears in the Salt Lake Closed Area (Admiralty Island) including all lands within one-fourth mile of Salt Lake above Klutchman Rock at the head of Mitchell Bay. 
 
-(C) You may not take brown bears in the Port Althorp Closed Area (Chichagof Island), that area within the Port Althorp watershed south of a line from Point Lucan to Salt Chuck Point (Trap Rock).
+(C) You may not take brown bears in the Port Althorp Closed Area (Chichagof Island), that area within the Port Althorp watershed south of a line from Point Lucan to Salt Chuck Point (Trap Rock). 
 
-(D) You may not use any motorized land vehicle for brown bear hunting in the Northeast Chichagof Controlled Use Area (NECCUA) consisting of all portions of Unit 4 on Chichagof Island north of Tenakee Inlet and east of the drainage divide from the northwestern point of Gull Cove to Port Frederick Portage, including all drainages into Port Frederick and Mud Bay.
+(D) You may not use any motorized land vehicle for brown bear hunting in the Northeast Chichagof Controlled Use Area (NECCUA) consisting of all portions of Unit 4 on Chichagof Island north of Tenakee Inlet and east of the drainage divide from the northwestern point of Gull Cove to Port Frederick Portage, including all drainages into Port Frederick and Mud Bay. 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
-(A) You may shoot ungulates from a boat. You may not shoot bear, wolves, or wolverine from a boat, unless you are certified as disabled.
+(A) You may shoot ungulates from a boat. You may not shoot bear, wolves, or wolverine from a boat, unless you are certified as disabled. 
 
-(B) Five Federal registration permits will be issued by the Sitka or Hoonah District Ranger for the taking of brown bear for educational purposes associated with teaching customary and traditional subsistence harvest and use practices. Any bear taken under an educational permit does not count in an individual's one bear every 4 regulatory years limit.
+(B) Five Federal registration permits will be issued by the Sitka or Hoonah District Ranger for the taking of brown bear for educational purposes associated with teaching customary and traditional subsistence harvest and use practices. Any bear taken under an educational permit does not count in an individual's one bear every 4 regulatory years limit. 
 
-(C) Coyotes taken incidentally with a trap or snare during an open Federal trapping season for wolf, wolverine, or beaver may be legally retained.
+(C) Coyotes taken incidentally with a trap or snare during an open Federal trapping season for wolf, wolverine, or beaver may be legally retained. 
 
-(D) A firearm may be used to take beaver under a trapping license during an open beaver season, except on National Park Service lands.
+(D) A firearm may be used to take beaver under a trapping license during an open beaver season, except on National Park Service lands. 
 
 Table 4 to Paragraph (n)(4)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Open season                        |
@@ -403,25 +403,25 @@ Table 4 to Paragraph (n)(4)
 | Wolf: No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Nov. 10-Apr. 30.                   |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Nov. 10-Mar. 1.                    |
 
-(5) *Unit 5.* (i) Unit 5 consists of all Gulf of Alaska drainages and islands between Cape Fairweather and the center line of Icy Bay, including the Guyot Hills:
+(5) *Unit 5.* (i) Unit 5 consists of all Gulf of Alaska drainages and islands between Cape Fairweather and the center line of Icy Bay, including the Guyot Hills: 
 
-(A) Unit 5A consists of all drainages east of Yakutat Bay, Disenchantment Bay, and the eastern edge of Hubbard Glacier, and includes the islands of Yakutat and Disenchantment Bays; In Unit 5A, Nunatak Bench is defined as that area east of the Hubbard Glacier, north of Nunatak fiord, and north and east of the East Nunatak Glacier to the Canadian border.
+(A) Unit 5A consists of all drainages east of Yakutat Bay, Disenchantment Bay, and the eastern edge of Hubbard Glacier, and includes the islands of Yakutat and Disenchantment Bays; In Unit 5A, Nunatak Bench is defined as that area east of the Hubbard Glacier, north of Nunatak fiord, and north and east of the East Nunatak Glacier to the Canadian border. 
 
-(B) Unit 5B consists of the remainder of Unit 5.
+(B) Unit 5B consists of the remainder of Unit 5. 
 
-(ii) You may not take wildlife for subsistence uses on public lands within Glacier Bay National Park.
+(ii) You may not take wildlife for subsistence uses on public lands within Glacier Bay National Park. 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
-(A) You may use bait to hunt black bear between April 15 and June 15.
+(A) You may use bait to hunt black bear between April 15 and June 15. 
 
-(B) You may not shoot ungulates, bear, wolves, or wolverine from a boat, unless you are certified as disabled.
+(B) You may not shoot ungulates, bear, wolves, or wolverine from a boat, unless you are certified as disabled. 
 
-(C) You may hunt brown bear in Unit 5 with a Federal registration permit in lieu of a State metal locking tag if you have obtained a Federal registration permit prior to hunting.
+(C) You may hunt brown bear in Unit 5 with a Federal registration permit in lieu of a State metal locking tag if you have obtained a Federal registration permit prior to hunting. 
 
-(D) Coyotes taken incidentally with a trap or snare during an open Federal trapping season for wolf, wolverine, or beaver may be legally retained.
+(D) Coyotes taken incidentally with a trap or snare during an open Federal trapping season for wolf, wolverine, or beaver may be legally retained. 
 
-(E) A firearm may be used to take beaver under a trapping license during an open beaver season, except on National Park Service lands.
+(E) A firearm may be used to take beaver under a trapping license during an open beaver season, except on National Park Service lands. 
 
 Table 5 to Paragraph (n)(5)
 | Harvest limits                                                                                                                                                                                                                                     | Open season      |
@@ -461,33 +461,33 @@ Table 5 to Paragraph (n)(5)
 | Wolf: No limit                                                                                                                                                                                                                                     | Nov. 10-Apr. 30. |
 | Wolverine: No limit                                                                                                                                                                                                                                | Nov. 10-Mar. 1.  |
 
-(6) *Unit 6.* (i) Unit 6 consists of all Gulf of Alaska and Prince William Sound drainages from the center line of Icy Bay (excluding the Guyot Hills) to Cape Fairfield including Kayak, Hinchinbrook, Montague, and adjacent islands, and Middleton Island, but excluding the Copper River drainage upstream from Miles Glacier, and excluding the Nellie Juan and Kings River drainages:
+(6) *Unit 6.* (i) Unit 6 consists of all Gulf of Alaska and Prince William Sound drainages from the center line of Icy Bay (excluding the Guyot Hills) to Cape Fairfield including Kayak, Hinchinbrook, Montague, and adjacent islands, and Middleton Island, but excluding the Copper River drainage upstream from Miles Glacier, and excluding the Nellie Juan and Kings River drainages: 
 
-(A) Unit 6A consists of Gulf of Alaska drainages east of Palm Point near Katalla including Kanak, Wingham, and Kayak Islands.
+(A) Unit 6A consists of Gulf of Alaska drainages east of Palm Point near Katalla including Kanak, Wingham, and Kayak Islands. 
 
-(B) Unit 6B consists of Gulf of Alaska and Copper River Basin drainages west of Palm Point near Katalla, east of the west bank of the Copper River, and east of a line from Flag Point to Cottonwood Point.
+(B) Unit 6B consists of Gulf of Alaska and Copper River Basin drainages west of Palm Point near Katalla, east of the west bank of the Copper River, and east of a line from Flag Point to Cottonwood Point. 
 
-(C) Unit 6C consists of drainages west of the west bank of the Copper River, and west of a line from Flag Point to Cottonwood Point, and drainages east of the east bank of Rude River and drainages into the eastern shore of Nelson Bay and Orca Inlet.
+(C) Unit 6C consists of drainages west of the west bank of the Copper River, and west of a line from Flag Point to Cottonwood Point, and drainages east of the east bank of Rude River and drainages into the eastern shore of Nelson Bay and Orca Inlet. 
 
-(D) Unit 6D consists of the remainder of Unit 6.
+(D) Unit 6D consists of the remainder of Unit 6. 
 
-(ii) Unit-specific regulations:
+(ii) Unit-specific regulations: 
 
-(A) You may use bait to hunt black bear between April 15 and June 15. In addition, you may use bait in Unit 6D between June 16 and June 30. The harvest quota in Unit 6D is 20 bears taken with bait between June 16 and June 30.
+(A) You may use bait to hunt black bear between April 15 and June 15. In addition, you may use bait in Unit 6D between June 16 and June 30. The harvest quota in Unit 6D is 20 bears taken with bait between June 16 and June 30. 
 
-(B) You may take coyotes in Units 6B and 6C with the aid of artificial lights.
+(B) You may take coyotes in Units 6B and 6C with the aid of artificial lights. 
 
-(C) One permit will be issued by the Cordova District Ranger to the Native Village of Eyak to take one moose from Federal lands in Unit 6B or 6C for their annual Memorial/Sobriety Day potlatch.
+(C) One permit will be issued by the Cordova District Ranger to the Native Village of Eyak to take one moose from Federal lands in Unit 6B or 6C for their annual Memorial/Sobriety Day potlatch. 
 
-(D) A federally qualified subsistence user (recipient) who is either blind, 65 years of age or older, at least 70 percent disabled, or temporarily disabled may designate another federally qualified subsistence user to take any moose, deer, black bear, and beaver on his or her behalf in Unit 6 and goat in Unit 6D. The designated hunter must obtain a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for any number of recipients but may have no more than one harvest limit in his or her possession at any one time.
+(D) A federally qualified subsistence user (recipient) who is either blind, 65 years of age or older, at least 70 percent disabled, or temporarily disabled may designate another federally qualified subsistence user to take any moose, deer, black bear, and beaver on his or her behalf in Unit 6 and goat in Unit 6D. The designated hunter must obtain a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for any number of recipients but may have no more than one harvest limit in his or her possession at any one time. 
 
-(E) A hunter younger than 10 years old at the start of the hunt may not be issued a Federal subsistence permit to harvest black bear, deer, goat, moose, wolf, and wolverine.
+(E) A hunter younger than 10 years old at the start of the hunt may not be issued a Federal subsistence permit to harvest black bear, deer, goat, moose, wolf, and wolverine. 
 
-(F) A hunter younger than 10 years old may harvest black bear, deer, goat, moose, wolf, and wolverine under the direct, immediate supervision of a licensed adult, at least 18 years old. The animal taken is counted against the adult's harvest limit. The adult is responsible for ensuring that all legal requirements are met.
+(F) A hunter younger than 10 years old may harvest black bear, deer, goat, moose, wolf, and wolverine under the direct, immediate supervision of a licensed adult, at least 18 years old. The animal taken is counted against the adult's harvest limit. The adult is responsible for ensuring that all legal requirements are met. 
 
-(G) Up to five permits will be issued by the Cordova District Ranger to the Native Village of Chenega annually to harvest up to five deer total from Federal public lands in Unit 6D for their annual Old Chenega Memorial and other traditional memorial potlatch ceremonies. Permits will have effective dates of July 1-June 30.
+(G) Up to five permits will be issued by the Cordova District Ranger to the Native Village of Chenega annually to harvest up to five deer total from Federal public lands in Unit 6D for their annual Old Chenega Memorial and other traditional memorial potlatch ceremonies. Permits will have effective dates of July 1-June 30. 
 
-(H) Up to five permits will be issued by the Cordova District Ranger to the Tatitlek IRA Council annually to harvest up to five deer total from Federal public lands in Unit 6D for their annual Cultural Heritage Week. Permits will have effective dates of July 1-June 30.
+(H) Up to five permits will be issued by the Cordova District Ranger to the Tatitlek IRA Council annually to harvest up to five deer total from Federal public lands in Unit 6D for their annual Cultural Heritage Week. Permits will have effective dates of July 1-June 30. 
 
 Table 6 to Paragraph (n)(6)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                                                                  | Open season      |
@@ -530,21 +530,21 @@ Table 6 to Paragraph (n)(6)
 | Wolf: No limit                                                                                                                                                                                                                                                                                                                                                                                                  | Nov. 10-Mar. 31. |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                                                                                                                             | Nov. 10-Feb. 28. |
 
-(7) *Unit 7.* (i) Unit 7 consists of Gulf of Alaska drainages between Gore Point and Cape Fairfield including the Nellie Juan and Kings River drainages, and including the Kenai River drainage upstream from the Russian River, the drainages into the south side of Turnagain Arm west of and including the Portage Creek drainage, and east of 150° W long., and all Kenai Peninsula drainages east of 150° W long., from Turnagain Arm to the Kenai River.
+(7) *Unit 7.* (i) Unit 7 consists of Gulf of Alaska drainages between Gore Point and Cape Fairfield including the Nellie Juan and Kings River drainages, and including the Kenai River drainage upstream from the Russian River, the drainages into the south side of Turnagain Arm west of and including the Portage Creek drainage, and east of 150° W long., and all Kenai Peninsula drainages east of 150° W long., from Turnagain Arm to the Kenai River. 
 
-(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands:
+(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands: 
 
-(A) You may not take wildlife for subsistence uses in the Kenai Fjords National Park.
+(A) You may not take wildlife for subsistence uses in the Kenai Fjords National Park. 
 
-(B) You may not hunt in the Portage Glacier Closed Area in Unit 7, which consists of Portage Creek drainages between the Anchorage-Seward Railroad and Placer Creek in Bear Valley, Portage Lake, the mouth of Byron Creek, Glacier Creek, and Byron Glacier; however, you may hunt grouse, ptarmigan, hares, and squirrels with shotguns after September 1.
+(B) You may not hunt in the Portage Glacier Closed Area in Unit 7, which consists of Portage Creek drainages between the Anchorage-Seward Railroad and Placer Creek in Bear Valley, Portage Lake, the mouth of Byron Creek, Glacier Creek, and Byron Glacier; however, you may hunt grouse, ptarmigan, hares, and squirrels with shotguns after September 1. 
 
-(C) You may not hunt, trap, or take wildlife within a quarter mile of wildlife crossing structures along the Sterling Highway.
+(C) You may not hunt, trap, or take wildlife within a quarter mile of wildlife crossing structures along the Sterling Highway. 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
-(A) You may use bait to hunt black bear between April 15 and June 15, except in the drainages of Resurrection Creek and its tributaries.
+(A) You may use bait to hunt black bear between April 15 and June 15, except in the drainages of Resurrection Creek and its tributaries. 
 
-(B) \[Reserved\]
+(B) \[Reserved\] 
 
 Table 7 to Paragraph (n)(7)
 | Harvest limits                                                                                                                                                                                                                           | Open season      |
@@ -583,15 +583,15 @@ Table 7 to Paragraph (n)(7)
 | Wolf: No limit                                                                                                                                                                                                                           | Nov. 10-Mar. 31. |
 | Wolverine: No limit                                                                                                                                                                                                                      | Nov. 10-Feb. 28. |
 
-(8) *Unit 8.* Unit 8 consists of all islands southeast of the centerline of Shelikof Strait including Kodiak, Afognak, Whale, Raspberry, Shuyak, Spruce, Marmot, Sitkalidak, Amook, Uganik, and Chirikof Islands, the Trinity Islands, the Semidi Islands, and other adjacent islands.
+(8) *Unit 8.* Unit 8 consists of all islands southeast of the centerline of Shelikof Strait including Kodiak, Afognak, Whale, Raspberry, Shuyak, Spruce, Marmot, Sitkalidak, Amook, Uganik, and Chirikof Islands, the Trinity Islands, the Semidi Islands, and other adjacent islands. 
 
-(i) Unit-specific regulations:
+(i) Unit-specific regulations: 
 
-(A) If you have a trapping license, you may take beaver with a firearm in Unit 8 from Nov. 10 through Apr. 30.
+(A) If you have a trapping license, you may take beaver with a firearm in Unit 8 from Nov. 10 through Apr. 30. 
 
-(B) You may hunt brown bear in Unit 8 with a Federal registration permit in lieu of a State locking tag if you have obtained a Federal registration permit prior to hunting.
+(B) You may hunt brown bear in Unit 8 with a Federal registration permit in lieu of a State locking tag if you have obtained a Federal registration permit prior to hunting. 
 
-(ii) \[Reserved\]
+(ii) \[Reserved\] 
 
 Table 8 to Paragraph (n)(8)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                                      | Open season                      |
@@ -615,43 +615,43 @@ Table 8 to Paragraph (n)(8)
 | Muskrat: No limit                                                                                                                                                                                                                                                                                                                                                                   | Nov. 10-June 10.                 |
 | Otter: No limit                                                                                                                                                                                                                                                                                                                                                                     | Nov. 10-Jan. 31.                 |
 
-(9) *Unit 9.* (i) Unit 9 consists of the Alaska Peninsula and adjacent islands, including drainages east of False Pass, Pacific Ocean drainages west of and excluding the Redoubt Creek drainage; drainages into the south side of Bristol Bay, drainages into the north side of Bristol Bay east of Etolin Point, and including the Sanak and Shumagin Islands:
+(9) *Unit 9.* (i) Unit 9 consists of the Alaska Peninsula and adjacent islands, including drainages east of False Pass, Pacific Ocean drainages west of and excluding the Redoubt Creek drainage; drainages into the south side of Bristol Bay, drainages into the north side of Bristol Bay east of Etolin Point, and including the Sanak and Shumagin Islands: 
 
-(A) Unit 9A consists of that portion of Unit 9 draining into Shelikof Strait and Cook Inlet between the southern boundary of Unit 16 (Redoubt Creek) and the northern boundary of Katmai National Park and Preserve.
+(A) Unit 9A consists of that portion of Unit 9 draining into Shelikof Strait and Cook Inlet between the southern boundary of Unit 16 (Redoubt Creek) and the northern boundary of Katmai National Park and Preserve. 
 
-(B) Unit 9B consists of the Kvichak River drainage except those lands drained by the Kvichak River/Bay between the Alagnak River drainage and the Naknek River drainage.
+(B) Unit 9B consists of the Kvichak River drainage except those lands drained by the Kvichak River/Bay between the Alagnak River drainage and the Naknek River drainage. 
 
-(C) Unit 9C consists of the Alagnak (Branch) River drainage, the Naknek River drainage, lands drained by the Kvichak River/Bay between the Alagnak River drainage and the Naknek River drainage, and all land and water within Katmai National Park and Preserve.
+(C) Unit 9C consists of the Alagnak (Branch) River drainage, the Naknek River drainage, lands drained by the Kvichak River/Bay between the Alagnak River drainage and the Naknek River drainage, and all land and water within Katmai National Park and Preserve. 
 
-(D) Unit 9D consists of all Alaska Peninsula drainages west of a line from the southernmost head of Port Moller to the head of American Bay, including the Shumagin Islands and other islands of Unit 9 west of the Shumagin Islands.
+(D) Unit 9D consists of all Alaska Peninsula drainages west of a line from the southernmost head of Port Moller to the head of American Bay, including the Shumagin Islands and other islands of Unit 9 west of the Shumagin Islands. 
 
-(E) Unit 9E consists of the remainder of Unit 9.
+(E) Unit 9E consists of the remainder of Unit 9. 
 
-(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands:
+(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands: 
 
-(A) You may not take wildlife for subsistence uses in Katmai National Park; and
+(A) You may not take wildlife for subsistence uses in Katmai National Park; and 
 
-(B) You may not use motorized vehicles, except aircraft, boats, or snowmobiles used for hunting and transporting a hunter or harvested animal parts from Aug. 1 through Nov. 30 in the Naknek Controlled Use Area, which includes all of Unit 9C within the Naknek River drainage upstream from and including the King Salmon Creek drainage; however, you may use a motorized vehicle on the Naknek-King Salmon, Lake Camp, and Rapids Camp roads and on the King Salmon Creek trail, and on frozen surfaces of the Naknek River and Big Creek.
+(B) You may not use motorized vehicles, except aircraft, boats, or snowmobiles used for hunting and transporting a hunter or harvested animal parts from Aug. 1 through Nov. 30 in the Naknek Controlled Use Area, which includes all of Unit 9C within the Naknek River drainage upstream from and including the King Salmon Creek drainage; however, you may use a motorized vehicle on the Naknek-King Salmon, Lake Camp, and Rapids Camp roads and on the King Salmon Creek trail, and on frozen surfaces of the Naknek River and Big Creek. 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
-(A) If you have a trapping license, you may use a firearm to take beaver in Unit 9B from April 1 through May 31 and in the remainder of Unit 9 from April 1 through 30.
+(A) If you have a trapping license, you may use a firearm to take beaver in Unit 9B from April 1 through May 31 and in the remainder of Unit 9 from April 1 through 30. 
 
-(B) You may hunt brown bear by State registration permit in lieu of a resident tag in Unit 9B, except that portion within the Lake Clark National Park and Preserve, if you have obtained a State registration permit prior to hunting.
+(B) You may hunt brown bear by State registration permit in lieu of a resident tag in Unit 9B, except that portion within the Lake Clark National Park and Preserve, if you have obtained a State registration permit prior to hunting. 
 
-(C) In Unit 9B, Lake Clark National Park and Preserve, residents of Iliamna, Newhalen, Nondalton, Pedro Bay, Port Alsworth, and that portion of the park resident zone in Unit 9B and 13.440 permit holders may hunt brown bear by Federal registration permit in lieu of a resident tag. The season will be closed when 4 females or 10 bears have been taken, whichever occurs first. The permits will be issued and closure announcements made by the Superintendent of Lake Clark National Park and Preserve.
+(C) In Unit 9B, Lake Clark National Park and Preserve, residents of Iliamna, Newhalen, Nondalton, Pedro Bay, Port Alsworth, and that portion of the park resident zone in Unit 9B and 13.440 permit holders may hunt brown bear by Federal registration permit in lieu of a resident tag. The season will be closed when 4 females or 10 bears have been taken, whichever occurs first. The permits will be issued and closure announcements made by the Superintendent of Lake Clark National Park and Preserve. 
 
-(D) Residents of Iliamna, Newhalen, Nondalton, Pedro Bay, and Port Alsworth may take up to a total of 10 bull moose in Unit 9B for ceremonial purposes, under the terms of a Federal registration permit from July 1 through June 30. Permits will be issued to individuals only at the request of a local organization. This 10-moose limit is not cumulative with that permitted for potlatches by the State.
+(D) Residents of Iliamna, Newhalen, Nondalton, Pedro Bay, and Port Alsworth may take up to a total of 10 bull moose in Unit 9B for ceremonial purposes, under the terms of a Federal registration permit from July 1 through June 30. Permits will be issued to individuals only at the request of a local organization. This 10-moose limit is not cumulative with that permitted for potlatches by the State. 
 
-(E) For Units 9C and 9E only, a federally qualified subsistence user (recipient) of Units 9C and 9E may designate another federally qualified subsistence user of Units 9C and 9E to take bull caribou on his or her behalf. The designated hunter must obtain a designated hunter permit and must return a completed harvest report and turn over all meat to the recipient. There is no restriction on the number of possession limits the designated hunter may have in his/her possession at any one time.
+(E) For Units 9C and 9E only, a federally qualified subsistence user (recipient) of Units 9C and 9E may designate another federally qualified subsistence user of Units 9C and 9E to take bull caribou on his or her behalf. The designated hunter must obtain a designated hunter permit and must return a completed harvest report and turn over all meat to the recipient. There is no restriction on the number of possession limits the designated hunter may have in his/her possession at any one time. 
 
-(F) For Unit 9D, a federally qualified subsistence user (recipient) may designate another federally qualified subsistence user to take caribou on his or her behalf. The designated hunter must obtain a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for any number of recipients but may have no more than four harvest limits in his/her possession at any one time.
+(F) For Unit 9D, a federally qualified subsistence user (recipient) may designate another federally qualified subsistence user to take caribou on his or her behalf. The designated hunter must obtain a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for any number of recipients but may have no more than four harvest limits in his/her possession at any one time. 
 
-(G) The communities of False Pass, King Cove, Cold Bay, Sand Point, and Nelson Lagoon annually may each take, from October 1 through December 31 or May 10 through 25, one brown bear for ceremonial purposes, under the terms of a Federal registration permit. A permit will be issued to an individual only at the request of a local organization. The brown bear may be taken from either Unit 9D or Unit 10 (Unimak Island) only.
+(G) The communities of False Pass, King Cove, Cold Bay, Sand Point, and Nelson Lagoon annually may each take, from October 1 through December 31 or May 10 through 25, one brown bear for ceremonial purposes, under the terms of a Federal registration permit. A permit will be issued to an individual only at the request of a local organization. The brown bear may be taken from either Unit 9D or Unit 10 (Unimak Island) only. 
 
-(H) You may hunt brown bear in Unit 9E with a Federal registration permit in lieu of a State locking tag if you have obtained a Federal registration permit prior to hunting.
+(H) You may hunt brown bear in Unit 9E with a Federal registration permit in lieu of a State locking tag if you have obtained a Federal registration permit prior to hunting. 
 
-(I) In Units 9B and 9C, a snowmachine may be used to approach and pursue a wolf or wolverine provided the snowmachine does not contact a live animal.
+(I) In Units 9B and 9C, a snowmachine may be used to approach and pursue a wolf or wolverine provided the snowmachine does not contact a live animal. 
 
 Table 9 to Paragraph (n)(9)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                               | Open season                                                       |
@@ -712,13 +712,13 @@ Table 9 to Paragraph (n)(9)
 | Wolf: No limit                                                                                                                                                                                                                                                                                                                                               | Nov. 10-Mar. 31.                                                  |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                                                                          | Nov. 10-Feb. 28.                                                  |
 
-(10) *Unit 10.* (i) Unit 10 consists of the Aleutian Islands, Unimak Island, and the Pribilof Islands.
+(10) *Unit 10.* (i) Unit 10 consists of the Aleutian Islands, Unimak Island, and the Pribilof Islands. 
 
-(ii) You may not take any wildlife species for subsistence uses on Otter Island in the Pribilof Islands.
+(ii) You may not take any wildlife species for subsistence uses on Otter Island in the Pribilof Islands. 
 
-(iii) In Unit 10—Unimak Island only, a federally qualified subsistence user (recipient) may designate another federally qualified subsistence user to take caribou on his or her behalf. The designated hunter must obtain a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for any number of recipients but may have no more than four harvest limits in his/her possession at any one time.
+(iii) In Unit 10—Unimak Island only, a federally qualified subsistence user (recipient) may designate another federally qualified subsistence user to take caribou on his or her behalf. The designated hunter must obtain a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for any number of recipients but may have no more than four harvest limits in his/her possession at any one time. 
 
-(iv) The communities of False Pass, King Cove, Cold Bay, Sand Point, and Nelson Lagoon annually may each take, from October 1 through December 31 or May 10 through 25, one brown bear for ceremonial purposes, under the terms of a Federal registration permit. A permit will be issued to an individual only at the request of a local organization. The brown bear may be taken from either Unit 9D or Unit 10 (Unimak Island) only.
+(iv) The communities of False Pass, King Cove, Cold Bay, Sand Point, and Nelson Lagoon annually may each take, from October 1 through December 31 or May 10 through 25, one brown bear for ceremonial purposes, under the terms of a Federal registration permit. A permit will be issued to an individual only at the request of a local organization. The brown bear may be taken from either Unit 9D or Unit 10 (Unimak Island) only. 
 
 Table 10 to Paragraph (n)(10)
 | Harvest limits                                                    | Open season      |
@@ -743,33 +743,33 @@ Table 10 to Paragraph (n)(10)
 | Wolf: No limit                                                    | Nov. 10-Mar. 31. |
 | Wolverine: No limit                                               | Nov. 10-Feb. 28. |
 
-(11) *Unit 11.* Unit 11 consists of that area draining into the headwaters of the Copper River south of Suslota Creek and the area drained by all tributaries into the east bank of the Copper River between the confluence of Suslota Creek with the Slana River and Miles Glacier.
+(11) *Unit 11.* Unit 11 consists of that area draining into the headwaters of the Copper River south of Suslota Creek and the area drained by all tributaries into the east bank of the Copper River between the confluence of Suslota Creek with the Slana River and Miles Glacier. 
 
-(i) Unit-specific regulations:
+(i) Unit-specific regulations: 
 
-(A) You may use bait to hunt black and brown bear between April 15 and June 15.
+(A) You may use bait to hunt black and brown bear between April 15 and June 15. 
 
-(B) One moose without calf may be taken from June 20 through July 31 in the Wrangell-St. Elias National Park and Preserve in Unit 11 or Unit 12 for the Batzulnetas Culture Camp. Two hunters from either Chistochina or Mentasta Village may be designated by the Mt. Sanford Tribal Consortium to receive the Federal subsistence harvest permit. The permit may be obtained from a Wrangell-St. Elias National Park and Preserve office.
+(B) One moose without calf may be taken from June 20 through July 31 in the Wrangell-St. Elias National Park and Preserve in Unit 11 or Unit 12 for the Batzulnetas Culture Camp. Two hunters from either Chistochina or Mentasta Village may be designated by the Mt. Sanford Tribal Consortium to receive the Federal subsistence harvest permit. The permit may be obtained from a Wrangell-St. Elias National Park and Preserve office. 
 
-(C) For federally qualified subsistence users living within the Ahtna traditional communities of Chistochina, Chitina, Copper Center, Gakona, Gulkana, Mentasta Lake, and Tazlina, a community harvest system for moose is authorized on Federal public lands within Unit 11, subject to the framework established by the Federal Subsistence Board.
+(C) For federally qualified subsistence users living within the Ahtna traditional communities of Chistochina, Chitina, Copper Center, Gakona, Gulkana, Mentasta Lake, and Tazlina, a community harvest system for moose is authorized on Federal public lands within Unit 11, subject to the framework established by the Federal Subsistence Board. 
 
-(*1*) The boundaries of the communities are the most recent Census Designated Places as defined by the U.S. Census Bureau.
+(*1*) The boundaries of the communities are the most recent Census Designated Places as defined by the U.S. Census Bureau. 
 
-(*2*) Participants in the community harvest system may not designate another individual to harvest on their behalf any species for which they register within the community harvest system but may serve as a designated hunter, pursuant to 50 CFR 100.25(e).
+(*2*) Participants in the community harvest system may not designate another individual to harvest on their behalf any species for which they register within the community harvest system but may serve as a designated hunter, pursuant to 50 CFR 100.25(e). 
 
-(*3*) Community harvest limit for the species authorized in the community harvest system is the sum of individual harvest limits of the participants in the system.
+(*3*) Community harvest limit for the species authorized in the community harvest system is the sum of individual harvest limits of the participants in the system. 
 
-(*4*) Harvest reporting will take the form of reports collected from hunters by the Ahtna Intertribal Resource Commission and submitted directly to land managers and the Office of Subsistence Management, rather than through Federal registration permits, joint State/Federal registration permits, or State harvest tickets.
+(*4*) Harvest reporting will take the form of reports collected from hunters by the Ahtna Intertribal Resource Commission and submitted directly to land managers and the Office of Subsistence Management, rather than through Federal registration permits, joint State/Federal registration permits, or State harvest tickets. 
 
-(ii) A joint permit may be issued to a pair of a minor and an elder to hunt sheep during the Aug. 1-Oct. 20 hunt. The following conditions apply:
+(ii) A joint permit may be issued to a pair of a minor and an elder to hunt sheep during the Aug. 1-Oct. 20 hunt. The following conditions apply: 
 
-(A) The permittees must be a minor aged 8 to 15 years old and an accompanying adult 60 years of age or older.
+(A) The permittees must be a minor aged 8 to 15 years old and an accompanying adult 60 years of age or older. 
 
-(B) Both the elder and the minor must be federally qualified subsistence users with a positive customary and traditional use determination for the area they want to hunt.
+(B) Both the elder and the minor must be federally qualified subsistence users with a positive customary and traditional use determination for the area they want to hunt. 
 
-(C) The minor must hunt under the direct immediate supervision of the accompanying adult, who is responsible for ensuring that all legal requirements are met.
+(C) The minor must hunt under the direct immediate supervision of the accompanying adult, who is responsible for ensuring that all legal requirements are met. 
 
-(D) Only one animal may be harvested with this permit. The sheep harvested will count against the harvest limits of both the minor and accompanying adult.
+(D) Only one animal may be harvested with this permit. The sheep harvested will count against the harvest limits of both the minor and accompanying adult. 
 
 Table 11 to Paragraph (n)(11)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                                                                       | Open season                         |
@@ -812,37 +812,37 @@ Table 11 to Paragraph (n)(11)
 | Wolf: No limit                                                                                                                                                                                                                                                                                                                                                                                                       | Nov. 10-Mar. 31.                    |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                                                                                                                                  | Nov. 10-Feb. 28.                    |
 
-(12) *Unit 12.* Unit 12 consists of the Tanana River drainage upstream from the Robertson River, including all drainages into the east bank of the Robertson River, and the White River drainage in Alaska, but excluding the Ladue River drainage.
+(12) *Unit 12.* Unit 12 consists of the Tanana River drainage upstream from the Robertson River, including all drainages into the east bank of the Robertson River, and the White River drainage in Alaska, but excluding the Ladue River drainage. 
 
-(i) Unit-specific regulations:
+(i) Unit-specific regulations: 
 
-(A) You may use bait to hunt black and brown bear between April 15 and June 30; you may use bait to hunt wolves on FWS and BLM lands.
+(A) You may use bait to hunt black and brown bear between April 15 and June 30; you may use bait to hunt wolves on FWS and BLM lands. 
 
-(B) You may not use a steel trap, or a snare using cable smaller than 3/32-inch diameter to trap coyotes or wolves in Unit 12 during April and October.
+(B) You may not use a steel trap, or a snare using cable smaller than 3/32-inch diameter to trap coyotes or wolves in Unit 12 during April and October. 
 
-(C) One moose without calf may be taken from June 20 through July 31 in the Wrangell-St. Elias National Park and Preserve in Unit 11 or Unit 12 for the Batzulnetas Culture Camp. Two hunters from either Chistochina or Mentasta Village may be designated by the Mt. Sanford Tribal Consortium to receive the Federal subsistence harvest permit. The permit may be obtained from a Wrangell-St. Elias National Park and Preserve office.
+(C) One moose without calf may be taken from June 20 through July 31 in the Wrangell-St. Elias National Park and Preserve in Unit 11 or Unit 12 for the Batzulnetas Culture Camp. Two hunters from either Chistochina or Mentasta Village may be designated by the Mt. Sanford Tribal Consortium to receive the Federal subsistence harvest permit. The permit may be obtained from a Wrangell-St. Elias National Park and Preserve office. 
 
-(D) A community harvest system for caribou and moose is authorized on Federal public lands in Unit 12 within the Tok and Little Tok River drainages south of the Tok River bridge and east of the Tok Cutoff Road, and within the Nabesna River drainage west of the east bank of the Nabesna River upstream from the southern boundary of Tetlin National Wildlife Refuge and that portion of Unit 12 that is east of the Nabesna River and south of the Pickerel Lake Winter Trail running southeast from Pickerel Lake to the Canadian border. This community harvest system is for federally qualified subsistence users living within the Ahtna traditional communities of Chistochina, Chitina, Copper Center, Gakona, Gulkana, Mentasta Lake, and Tazlina and is subject to the framework established by the Federal Subsistence Board.
+(D) A community harvest system for caribou and moose is authorized on Federal public lands in Unit 12 within the Tok and Little Tok River drainages south of the Tok River bridge and east of the Tok Cutoff Road, and within the Nabesna River drainage west of the east bank of the Nabesna River upstream from the southern boundary of Tetlin National Wildlife Refuge and that portion of Unit 12 that is east of the Nabesna River and south of the Pickerel Lake Winter Trail running southeast from Pickerel Lake to the Canadian border. This community harvest system is for federally qualified subsistence users living within the Ahtna traditional communities of Chistochina, Chitina, Copper Center, Gakona, Gulkana, Mentasta Lake, and Tazlina and is subject to the framework established by the Federal Subsistence Board. 
 
-(*1*) The boundaries of the communities are the most recent Census Designated Places as defined by the U.S. Census Bureau.
+(*1*) The boundaries of the communities are the most recent Census Designated Places as defined by the U.S. Census Bureau. 
 
-(*2*) Participants in the community harvest system may not designate another individual to harvest on their behalf any species for which they register within the community harvest system but may serve as a designated hunter, pursuant to 50 CFR 100.25(e).
+(*2*) Participants in the community harvest system may not designate another individual to harvest on their behalf any species for which they register within the community harvest system but may serve as a designated hunter, pursuant to 50 CFR 100.25(e). 
 
-(*3*) The community harvest limit for the species authorized in the community harvest system is the sum of individual harvest limits of the participants in the system.
+(*3*) The community harvest limit for the species authorized in the community harvest system is the sum of individual harvest limits of the participants in the system. 
 
-(*4*) Harvest reporting will take the form of reports collected from hunters by the Ahtna Intertribal Resource Commission and submitted directly to the land managers and the Office of Subsistence Management, rather than through Federal registration permits, joint State/Federal registration permits, or State harvest tickets.
+(*4*) Harvest reporting will take the form of reports collected from hunters by the Ahtna Intertribal Resource Commission and submitted directly to the land managers and the Office of Subsistence Management, rather than through Federal registration permits, joint State/Federal registration permits, or State harvest tickets. 
 
-(*5*) Participants must abide by customary and traditional use determinations.
+(*5*) Participants must abide by customary and traditional use determinations. 
 
-(ii) A joint permit may be issued to a pair of a minor and an elder to hunt sheep during the Aug. 1-Oct. 20 hunt. The following conditions apply:
+(ii) A joint permit may be issued to a pair of a minor and an elder to hunt sheep during the Aug. 1-Oct. 20 hunt. The following conditions apply: 
 
-(A) The permittees must be a minor aged 8 to 15 years old and an accompanying adult 60 years of age or older.
+(A) The permittees must be a minor aged 8 to 15 years old and an accompanying adult 60 years of age or older. 
 
-(B) Both the elder and the minor must be federally qualified subsistence users with a positive customary and traditional use determination for the area they want to hunt.
+(B) Both the elder and the minor must be federally qualified subsistence users with a positive customary and traditional use determination for the area they want to hunt. 
 
-(C) The minor must hunt under the direct immediate supervision of the accompanying adult, who is responsible for ensuring that all legal requirements are met.
+(C) The minor must hunt under the direct immediate supervision of the accompanying adult, who is responsible for ensuring that all legal requirements are met. 
 
-(D) Only one animal may be harvested with this permit. The sheep harvested will count against the harvest limits of both the minor and accompanying adult.
+(D) Only one animal may be harvested with this permit. The sheep harvested will count against the harvest limits of both the minor and accompanying adult. 
 
 Table 12 to Paragraph (n)(12)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Open season                        |
@@ -885,43 +885,43 @@ Table 12 to Paragraph (n)(12)
 | Wolf: No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Oct. 1-Apr. 30.                    |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Nov. 1-Feb. 28.                    |
 
-(13) *Unit 13.* (i) Unit 13 consists of that area westerly of the east bank of the Copper River and drained by all tributaries into the west bank of the Copper River from Miles Glacier and including the Slana River drainages north of Suslota Creek; the drainages into the Delta River upstream from Falls Creek and Black Rapids Glacier; the drainages into the Nenana River upstream from the southeastern corner of Denali National Park at Windy; the drainage into the Susitna River upstream from its junction with the Chulitna River; the drainage into the east bank of the Chulitna River upstream to its confluence with Tokositna River; the drainages of the Chulitna River (south of Denali National Park) upstream from its confluence with the Tokositna River; the drainages into the north bank of the Tokositna River upstream to the base of the Tokositna Glacier; the drainages into the Tokositna Glacier; the drainages into the east bank of the Susitna River between its confluences with the Talkeetna and Chulitna Rivers; the drainages into the north and east bank of the Talkeetna River including the Talkeetna River to its confluence with Clear Creek, the eastside drainages of a line going up the south bank of Clear Creek to the first unnamed creek on the south, then up that creek to lake 4408, along the northeastern shore of lake 4408, then southeast in a straight line to the northernmost fork of the Chickaloon River; the drainages into the east bank of the Chickaloon River below the line from lake 4408; the drainages of the Matanuska River above its confluence with the Chickaloon River:
+(13) *Unit 13.* (i) Unit 13 consists of that area westerly of the east bank of the Copper River and drained by all tributaries into the west bank of the Copper River from Miles Glacier and including the Slana River drainages north of Suslota Creek; the drainages into the Delta River upstream from Falls Creek and Black Rapids Glacier; the drainages into the Nenana River upstream from the southeastern corner of Denali National Park at Windy; the drainage into the Susitna River upstream from its junction with the Chulitna River; the drainage into the east bank of the Chulitna River upstream to its confluence with Tokositna River; the drainages of the Chulitna River (south of Denali National Park) upstream from its confluence with the Tokositna River; the drainages into the north bank of the Tokositna River upstream to the base of the Tokositna Glacier; the drainages into the Tokositna Glacier; the drainages into the east bank of the Susitna River between its confluences with the Talkeetna and Chulitna Rivers; the drainages into the north and east bank of the Talkeetna River including the Talkeetna River to its confluence with Clear Creek, the eastside drainages of a line going up the south bank of Clear Creek to the first unnamed creek on the south, then up that creek to lake 4408, along the northeastern shore of lake 4408, then southeast in a straight line to the northernmost fork of the Chickaloon River; the drainages into the east bank of the Chickaloon River below the line from lake 4408; the drainages of the Matanuska River above its confluence with the Chickaloon River: 
 
-(A) Unit 13A consists of that portion of Unit 13 bounded by a line beginning at the Chickaloon River bridge at Mile 77.7 on the Glenn Highway, then along the Glenn Highway to its junction with the Richardson Highway, then south along the Richardson Highway to the foot of Simpson Hill at Mile 111.5, then east to the east bank of the Copper River, then northerly along the east bank of the Copper River to its junction with the Gulkana River, then northerly along the west bank of the Gulkana River to its junction with the West Fork of the Gulkana River, then westerly along the west bank of the West Fork of the Gulkana River to its source, an unnamed lake, then across the divide into the Tyone River drainage, down an unnamed stream into the Tyone River, then down the Tyone River to the Susitna River, then down the south bank of the Susitna River to the mouth of Kosina Creek, then up Kosina Creek to its headwaters, then across the divide and down Aspen Creek to the Talkeetna River, then southerly along the boundary of Unit 13 to the Chickaloon River bridge, the point of beginning.
+(A) Unit 13A consists of that portion of Unit 13 bounded by a line beginning at the Chickaloon River bridge at Mile 77.7 on the Glenn Highway, then along the Glenn Highway to its junction with the Richardson Highway, then south along the Richardson Highway to the foot of Simpson Hill at Mile 111.5, then east to the east bank of the Copper River, then northerly along the east bank of the Copper River to its junction with the Gulkana River, then northerly along the west bank of the Gulkana River to its junction with the West Fork of the Gulkana River, then westerly along the west bank of the West Fork of the Gulkana River to its source, an unnamed lake, then across the divide into the Tyone River drainage, down an unnamed stream into the Tyone River, then down the Tyone River to the Susitna River, then down the south bank of the Susitna River to the mouth of Kosina Creek, then up Kosina Creek to its headwaters, then across the divide and down Aspen Creek to the Talkeetna River, then southerly along the boundary of Unit 13 to the Chickaloon River bridge, the point of beginning. 
 
-(B) Unit 13B consists of that portion of Unit 13 bounded by a line beginning at the confluence of the Copper River and the Gulkana River, then up the east bank of the Copper River to the Gakona River, then up the Gakona River and Gakona Glacier to the boundary of Unit 13, then westerly along the boundary of Unit 13 to the Susitna Glacier, then southerly along the west bank of the Susitna Glacier and the Susitna River to the Tyone River, then up the Tyone River and across the divide to the headwaters of the West Fork of the Gulkana River, then down the West Fork of the Gulkana River to the confluence of the Gulkana River and the Copper River, the point of beginning.
+(B) Unit 13B consists of that portion of Unit 13 bounded by a line beginning at the confluence of the Copper River and the Gulkana River, then up the east bank of the Copper River to the Gakona River, then up the Gakona River and Gakona Glacier to the boundary of Unit 13, then westerly along the boundary of Unit 13 to the Susitna Glacier, then southerly along the west bank of the Susitna Glacier and the Susitna River to the Tyone River, then up the Tyone River and across the divide to the headwaters of the West Fork of the Gulkana River, then down the West Fork of the Gulkana River to the confluence of the Gulkana River and the Copper River, the point of beginning. 
 
-(C) Unit 13C consists of that portion of Unit 13 east of the Gakona River and Gakona Glacier.
+(C) Unit 13C consists of that portion of Unit 13 east of the Gakona River and Gakona Glacier. 
 
-(D) Unit 13D consists of that portion of Unit 13 south of Unit 13A.
+(D) Unit 13D consists of that portion of Unit 13 south of Unit 13A. 
 
-(E) Unit 13E consists of the remainder of Unit 13.
+(E) Unit 13E consists of the remainder of Unit 13. 
 
-(ii) Within the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands:
+(ii) Within the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands: 
 
-(A) You may not take wildlife for subsistence uses on lands within Mount McKinley National Park as it existed prior to December 2, 1980. Subsistence uses as authorized by this paragraph (n)(13) are permitted in Denali National Preserve and lands added to Denali National Park on December 2, 1980.
+(A) You may not take wildlife for subsistence uses on lands within Mount McKinley National Park as it existed prior to December 2, 1980. Subsistence uses as authorized by this paragraph (n)(13) are permitted in Denali National Preserve and lands added to Denali National Park on December 2, 1980. 
 
-(B) You may not use motorized vehicles or pack animals for hunting Aug. 5-25 in the Delta Controlled Use Area, the boundary of which is defined as: a line beginning at the confluence of Miller Creek and the Delta River, then west to vertical angle benchmark Miller, then west to include all drainages of Augustana Creek and Black Rapids Glacier, then north and east to include all drainages of McGinnis Creek to its confluence with the Delta River, then east in a straight line across the Delta River to Mile 236.7 Richardson Highway, then north along the Richardson Highway to its junction with the Alaska Highway, then east along the Alaska Highway to the west bank of the Johnson River, then south along the west bank of the Johnson River and Johnson Glacier to the head of the Cantwell Glacier, then west along the north bank of the Cantwell Glacier and Miller Creek to the Delta River.
+(B) You may not use motorized vehicles or pack animals for hunting Aug. 5-25 in the Delta Controlled Use Area, the boundary of which is defined as: a line beginning at the confluence of Miller Creek and the Delta River, then west to vertical angle benchmark Miller, then west to include all drainages of Augustana Creek and Black Rapids Glacier, then north and east to include all drainages of McGinnis Creek to its confluence with the Delta River, then east in a straight line across the Delta River to Mile 236.7 Richardson Highway, then north along the Richardson Highway to its junction with the Alaska Highway, then east along the Alaska Highway to the west bank of the Johnson River, then south along the west bank of the Johnson River and Johnson Glacier to the head of the Cantwell Glacier, then west along the north bank of the Cantwell Glacier and Miller Creek to the Delta River. 
 
-(C) Except for access and transportation of harvested wildlife on Sourdough and Haggard Creeks, Middle Fork trails, or other trails designated by the Board, you may not use motorized vehicles for subsistence hunting in the Sourdough Controlled Use Area. The Sourdough Controlled Use Area consists of that portion of Unit 13B bounded by a line beginning at the confluence of Sourdough Creek and the Gulkana River, then northerly along Sourdough Creek to the Richardson Highway at approximately Mile 148, then northerly along the Richardson Highway to the Middle Fork Trail at approximately Mile 170, then westerly along the trail to the Gulkana River, then southerly along the east bank of the Gulkana River to its confluence with Sourdough Creek, the point of beginning.
+(C) Except for access and transportation of harvested wildlife on Sourdough and Haggard Creeks, Middle Fork trails, or other trails designated by the Board, you may not use motorized vehicles for subsistence hunting in the Sourdough Controlled Use Area. The Sourdough Controlled Use Area consists of that portion of Unit 13B bounded by a line beginning at the confluence of Sourdough Creek and the Gulkana River, then northerly along Sourdough Creek to the Richardson Highway at approximately Mile 148, then northerly along the Richardson Highway to the Middle Fork Trail at approximately Mile 170, then westerly along the trail to the Gulkana River, then southerly along the east bank of the Gulkana River to its confluence with Sourdough Creek, the point of beginning. 
 
-(D) You may not use any motorized vehicle or pack animal for hunting, including the transportation of hunters, their hunting gear, and/or parts of game from July 26 through September 30 in the Tonsina Controlled Use Area. The Tonsina Controlled Use Area consists of that portion of Unit 13D bounded on the west by the Richardson Highway from the Tiekel River to the Tonsina River at Tonsina, on the north along the south bank of the Tonsina River to where the Edgerton Highway crosses the Tonsina River, then along the Edgerton Highway to Chitina, on the east by the Copper River from Chitina to the Tiekel River, and on the south by the north bank of the Tiekel River.
+(D) You may not use any motorized vehicle or pack animal for hunting, including the transportation of hunters, their hunting gear, and/or parts of game from July 26 through September 30 in the Tonsina Controlled Use Area. The Tonsina Controlled Use Area consists of that portion of Unit 13D bounded on the west by the Richardson Highway from the Tiekel River to the Tonsina River at Tonsina, on the north along the south bank of the Tonsina River to where the Edgerton Highway crosses the Tonsina River, then along the Edgerton Highway to Chitina, on the east by the Copper River from Chitina to the Tiekel River, and on the south by the north bank of the Tiekel River. 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
-(A) You may use bait to hunt black bear between April 15 and June 15.
+(A) You may use bait to hunt black bear between April 15 and June 15. 
 
-(B) Upon written request by the Camp Director to the Glennallen Field Office, 2 caribou, sex to be determined by the Glennallen Field Office Manager of the BLM, may be taken from Aug. 10 through Sep. 30 or Oct. 21 through Mar. 31 by Federal registration permit for the Hudson Lake Residential Treatment Camp. Additionally, 1 bull moose may be taken Aug. 1 through Sep. 20. The animals may be taken by any federally qualified hunter designated by the Camp Director. The hunter must have in his/her possession the permit and a designated hunter permit during all periods that are being hunted.
+(B) Upon written request by the Camp Director to the Glennallen Field Office, 2 caribou, sex to be determined by the Glennallen Field Office Manager of the BLM, may be taken from Aug. 10 through Sep. 30 or Oct. 21 through Mar. 31 by Federal registration permit for the Hudson Lake Residential Treatment Camp. Additionally, 1 bull moose may be taken Aug. 1 through Sep. 20. The animals may be taken by any federally qualified hunter designated by the Camp Director. The hunter must have in his/her possession the permit and a designated hunter permit during all periods that are being hunted. 
 
-(C) A community harvest system for caribou and moose is authorized on Federal public lands within Unit 13, subject to the framework established by the Federal Subsistence Board, for federally qualified subsistence users living within the Ahtna traditional communities of Cantwell, Chistochina, Chitina, Copper Center, Gakona, Gulkana, Mentasta Lake, and Tazlina.
+(C) A community harvest system for caribou and moose is authorized on Federal public lands within Unit 13, subject to the framework established by the Federal Subsistence Board, for federally qualified subsistence users living within the Ahtna traditional communities of Cantwell, Chistochina, Chitina, Copper Center, Gakona, Gulkana, Mentasta Lake, and Tazlina. 
 
-(*1*) The boundaries of the communities are the most recent Census Designated Places as defined by the U.S. Census Bureau.
+(*1*) The boundaries of the communities are the most recent Census Designated Places as defined by the U.S. Census Bureau. 
 
-(*2*) Participants in the community harvest system may not designate another individual to harvest on their behalf any species for which they register within the community harvest system but may serve as a designated hunter, pursuant to 50 CFR 100.25(e).
+(*2*) Participants in the community harvest system may not designate another individual to harvest on their behalf any species for which they register within the community harvest system but may serve as a designated hunter, pursuant to 50 CFR 100.25(e). 
 
-(*3*) The community harvest limit for the species authorized in the community harvest system is the sum of individual harvest limits of the participants in the system.
+(*3*) The community harvest limit for the species authorized in the community harvest system is the sum of individual harvest limits of the participants in the system. 
 
-(*4*) Harvest reporting will take the form of reports collected from hunters by the Ahtna Intertribal Resource Commission and submitted directly to the land managers and the Office of Subsistence Management, rather than through Federal registration permits, joint State/Federal registration permits, or State harvest tickets.
+(*4*) Harvest reporting will take the form of reports collected from hunters by the Ahtna Intertribal Resource Commission and submitted directly to the land managers and the Office of Subsistence Management, rather than through Federal registration permits, joint State/Federal registration permits, or State harvest tickets. 
 
 Table 13 to Paragraph (n)(13)
 | Harvest limits                                                                                                                                                                                                                        | Open season                        |
@@ -957,21 +957,21 @@ Table 13 to Paragraph (n)(13)
 | Wolf: No limit                                                                                                                                                                                                                        | Oct. 15-Apr. 30.                   |
 | Wolverine: No limit                                                                                                                                                                                                                   | Nov. 10-Feb. 28.                   |
 
-(14) *Unit 14.* (i) Unit 14 consists of drainages into the northern side of Turnagain Arm west of and excluding the Portage Creek drainage, drainages into Knik Arm excluding drainages of the Chickaloon and Matanuska Rivers in Unit 13, drainages into the northern side of Cook Inlet east of the Susitna River, drainages into the east bank of the Susitna River downstream from the Talkeetna River, and drainages into the south and west bank of the Talkeetna River to its confluence with Clear Creek, the western side drainages of a line going up the south bank of Clear Creek to the first unnamed creek on the south, then up that creek to lake 4408, along the northeastern shore of lake 4408, then southeast in a straight line to the northernmost fork of the Chickaloon River:
+(14) *Unit 14.* (i) Unit 14 consists of drainages into the northern side of Turnagain Arm west of and excluding the Portage Creek drainage, drainages into Knik Arm excluding drainages of the Chickaloon and Matanuska Rivers in Unit 13, drainages into the northern side of Cook Inlet east of the Susitna River, drainages into the east bank of the Susitna River downstream from the Talkeetna River, and drainages into the south and west bank of the Talkeetna River to its confluence with Clear Creek, the western side drainages of a line going up the south bank of Clear Creek to the first unnamed creek on the south, then up that creek to lake 4408, along the northeastern shore of lake 4408, then southeast in a straight line to the northernmost fork of the Chickaloon River: 
 
-(A) Unit 14A consists of drainages in Unit 14 bounded on the west by the east bank of the Susitna River, on the north by the north bank of Willow Creek and Peters Creek to its headwaters, then east along the hydrologic divide separating the Susitna River and Knik Arm drainages to the outlet creek at lake 4408, on the east by the eastern boundary of Unit 14, and on the south by Cook Inlet, Knik Arm, the south bank of the Knik River from its mouth to its junction with Knik Glacier, across the face of Knik Glacier and along the northern side of Knik Glacier to the Unit 6 boundary.
+(A) Unit 14A consists of drainages in Unit 14 bounded on the west by the east bank of the Susitna River, on the north by the north bank of Willow Creek and Peters Creek to its headwaters, then east along the hydrologic divide separating the Susitna River and Knik Arm drainages to the outlet creek at lake 4408, on the east by the eastern boundary of Unit 14, and on the south by Cook Inlet, Knik Arm, the south bank of the Knik River from its mouth to its junction with Knik Glacier, across the face of Knik Glacier and along the northern side of Knik Glacier to the Unit 6 boundary. 
 
-(B) Unit 14B consists of that portion of Unit 14 north of Unit 14A.
+(B) Unit 14B consists of that portion of Unit 14 north of Unit 14A. 
 
-(C) Unit 14C consists of that portion of Unit 14 south of Unit 14A.
+(C) Unit 14C consists of that portion of Unit 14 south of Unit 14A. 
 
-(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands:
+(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands: 
 
-(A) You may not take wildlife for subsistence uses in the Fort Richardson and Elmendorf Air Force Base Management Areas, consisting of the Fort Richardson and Elmendorf Military Reservations; and
+(A) You may not take wildlife for subsistence uses in the Fort Richardson and Elmendorf Air Force Base Management Areas, consisting of the Fort Richardson and Elmendorf Military Reservations; and 
 
-(B) You may not take wildlife for subsistence uses in the Anchorage Management Area, consisting of all drainages south of Elmendorf and Fort Richardson military reservations and north of and including Rainbow Creek.
+(B) You may not take wildlife for subsistence uses in the Anchorage Management Area, consisting of all drainages south of Elmendorf and Fort Richardson military reservations and north of and including Rainbow Creek. 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
 Table 14 to Paragraph (n)(14)
 | Harvest limits                                                                                                                                                                                          | Open season      |
@@ -999,29 +999,29 @@ Table 14 to Paragraph (n)(14)
 | Wolf: Unit 14C—No limit                                                                                                                                                                                 | Nov. 10-Feb. 28. |
 | Wolverine: Unit 14C—2 wolverines                                                                                                                                                                        | Nov. 10-Jan. 31. |
 
-(15) *Unit 15.* (i) Unit 15 consists of that portion of the Kenai Peninsula and adjacent islands draining into the Gulf of Alaska, Cook Inlet, and Turnagain Arm from Gore Point to the point where longitude line 150°00′ W crosses the coastline of Chickaloon Bay in Turnagain Arm, including that area lying west of longitude line 150°00′ W to the mouth of the Russian River, then southerly along the Chugach National Forest boundary to the upper end of Upper Russian Lake; and including the drainages into Upper Russian Lake west of the Chugach National Forest boundary:
+(15) *Unit 15.* (i) Unit 15 consists of that portion of the Kenai Peninsula and adjacent islands draining into the Gulf of Alaska, Cook Inlet, and Turnagain Arm from Gore Point to the point where longitude line 150°00′ W crosses the coastline of Chickaloon Bay in Turnagain Arm, including that area lying west of longitude line 150°00′ W to the mouth of the Russian River, then southerly along the Chugach National Forest boundary to the upper end of Upper Russian Lake; and including the drainages into Upper Russian Lake west of the Chugach National Forest boundary: 
 
-(A) Unit 15A consists of that portion of Unit 15 north of the north bank of the Kenai River and the northern shore of Skilak Lake.
+(A) Unit 15A consists of that portion of Unit 15 north of the north bank of the Kenai River and the northern shore of Skilak Lake. 
 
-(B) Unit 15B consists of that portion of Unit 15 south of the north bank of the Kenai River and the northern shore of Skilak Lake, and north of the north bank of the Kasilof River, the northern shore of Tustumena Lake, Glacier Creek, and Tustumena Glacier.
+(B) Unit 15B consists of that portion of Unit 15 south of the north bank of the Kenai River and the northern shore of Skilak Lake, and north of the north bank of the Kasilof River, the northern shore of Tustumena Lake, Glacier Creek, and Tustumena Glacier. 
 
-(C) Unit 15C consists of the remainder of Unit 15.
+(C) Unit 15C consists of the remainder of Unit 15. 
 
-(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands:
+(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands: 
 
-(A) You may not take wildlife, except for grouse, ptarmigan, and hares that may be taken only from October 1 through March 1 by bow and arrow only, in the Skilak Loop Management Area, which consists of that portion of Unit 15A bounded by a line beginning at the easternmost junction of the Sterling Highway and the Skilak Loop (milepost 76.3), then due south to the south bank of the Kenai River, then southerly along the south bank of the Kenai River to its confluence with Skilak Lake, then westerly along the northern shore of Skilak Lake to Lower Skilak Lake Campground, then northerly along the Lower Skilak Lake Campground Road and the Skilak Loop Road to its westernmost junction with the Sterling Highway, then easterly along the Sterling Highway to the point of beginning.
+(A) You may not take wildlife, except for grouse, ptarmigan, and hares that may be taken only from October 1 through March 1 by bow and arrow only, in the Skilak Loop Management Area, which consists of that portion of Unit 15A bounded by a line beginning at the easternmost junction of the Sterling Highway and the Skilak Loop (milepost 76.3), then due south to the south bank of the Kenai River, then southerly along the south bank of the Kenai River to its confluence with Skilak Lake, then westerly along the northern shore of Skilak Lake to Lower Skilak Lake Campground, then northerly along the Lower Skilak Lake Campground Road and the Skilak Loop Road to its westernmost junction with the Sterling Highway, then easterly along the Sterling Highway to the point of beginning. 
 
-(B) You may not hunt, trap, or take wildlife within a quarter mile of wildlife crossing structures along the Sterling Highway.
+(B) You may not hunt, trap, or take wildlife within a quarter mile of wildlife crossing structures along the Sterling Highway. 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
-(A) You may use bait to hunt black bear between April 15 and June 15.
+(A) You may use bait to hunt black bear between April 15 and June 15. 
 
-(B) You may not trap furbearers for subsistence in the Skilak Loop Wildlife Management Area.
+(B) You may not trap furbearers for subsistence in the Skilak Loop Wildlife Management Area. 
 
-(C) You may not trap marten in that portion of Unit 15B east of the Kenai River, Skilak Lake, Skilak River, and Skilak Glacier.
+(C) You may not trap marten in that portion of Unit 15B east of the Kenai River, Skilak Lake, Skilak River, and Skilak Glacier. 
 
-(D) You may not take red fox in Unit 15 by any means other than a steel trap or snare.
+(D) You may not take red fox in Unit 15 by any means other than a steel trap or snare. 
 
 Table 15 to Paragraph (n)(15)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                                     | Open season                                                          |
@@ -1069,19 +1069,19 @@ Table 15 to Paragraph (n)(15)
 | Wolf: No limit                                                                                                                                                                                                                                                                                                                                                                     | Nov. 10-Mar. 31.                                                     |
 | Wolverine: Unit 15B and C—No limit                                                                                                                                                                                                                                                                                                                                                 | Nov. 10-Feb. 28.                                                     |
 
-(16) *Unit 16.* (i) Unit 16 consists of the drainages into Cook Inlet between Redoubt Creek and the Susitna River, including Redoubt Creek drainage, Kalgin Island, and the drainages on the western side of the Susitna River (including the Susitna River) upstream to its confluence with the Chulitna River; the drainages into the western side of the Chulitna River (including the Chulitna River) upstream to the Tokositna River, and drainages into the southern side of the Tokositna River upstream to the base of the Tokositna Glacier, including the drainage of the Kahiltna Glacier:
+(16) *Unit 16.* (i) Unit 16 consists of the drainages into Cook Inlet between Redoubt Creek and the Susitna River, including Redoubt Creek drainage, Kalgin Island, and the drainages on the western side of the Susitna River (including the Susitna River) upstream to its confluence with the Chulitna River; the drainages into the western side of the Chulitna River (including the Chulitna River) upstream to the Tokositna River, and drainages into the southern side of the Tokositna River upstream to the base of the Tokositna Glacier, including the drainage of the Kahiltna Glacier: 
 
-(A) Unit 16A consists of that portion of Unit 16 east of the east bank of the Yentna River from its mouth upstream to the Kahiltna River, east of the east bank of the Kahiltna River, and east of the Kahiltna Glacier; and
+(A) Unit 16A consists of that portion of Unit 16 east of the east bank of the Yentna River from its mouth upstream to the Kahiltna River, east of the east bank of the Kahiltna River, and east of the Kahiltna Glacier; and 
 
-(B) Unit 16B consists of the remainder of Unit 16.
+(B) Unit 16B consists of the remainder of Unit 16. 
 
-(ii) You may not take wildlife for subsistence uses in the Mount McKinley National Park, as it existed prior to December 2, 1980. Subsistence uses as authorized by this paragraph (n)(16) are permitted in Denali National Preserve and lands added to Denali National Park on December 2, 1980.
+(ii) You may not take wildlife for subsistence uses in the Mount McKinley National Park, as it existed prior to December 2, 1980. Subsistence uses as authorized by this paragraph (n)(16) are permitted in Denali National Preserve and lands added to Denali National Park on December 2, 1980. 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
-(A) You may use bait to hunt black bear between April 15 and June 15.
+(A) You may use bait to hunt black bear between April 15 and June 15. 
 
-(B) \[Reserved\]
+(B) \[Reserved\] 
 
 Table 16 to Paragraph (n)(16)
 | Harvest limits                                                                                                                                | Open season                  |
@@ -1113,29 +1113,29 @@ Table 16 to Paragraph (n)(16)
 | Wolf: No limit                                                                                                                                | Nov. 10-Mar. 31.             |
 | Wolverine: No limit                                                                                                                           | Nov. 10-Feb. 28.             |
 
-(17) *Unit 17.* (i) Unit 17 consists of drainages into Bristol Bay and the Bering Sea between Etolin Point and Cape Newenham, and all islands between these points including Hagemeister Island and the Walrus Islands:
+(17) *Unit 17.* (i) Unit 17 consists of drainages into Bristol Bay and the Bering Sea between Etolin Point and Cape Newenham, and all islands between these points including Hagemeister Island and the Walrus Islands: 
 
-(A) Unit 17A consists of the drainages between Cape Newenham and Cape Constantine, and Hagemeister Island and the Walrus Islands.
+(A) Unit 17A consists of the drainages between Cape Newenham and Cape Constantine, and Hagemeister Island and the Walrus Islands. 
 
-(B) Unit 17B consists of the Nushagak River drainage upstream from, and including the Mulchatna River drainage and the Wood River drainage upstream from the outlet of Lake Beverley.
+(B) Unit 17B consists of the Nushagak River drainage upstream from, and including the Mulchatna River drainage and the Wood River drainage upstream from the outlet of Lake Beverley. 
 
-(C) Unit 17C consists of the remainder of Unit 17.
+(C) Unit 17C consists of the remainder of Unit 17. 
 
-(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands:
+(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public lands: 
 
-(A) Except for aircraft and boats and in legal hunting camps, you may not use any motorized vehicle for hunting ungulates, bear, wolves, and wolverine, including transportation of hunters and parts of ungulates, bear, wolves, or wolverine in the Upper Mulchatna Controlled Use Area consisting of Unit 17B, from Aug. 1 through Nov. 1.
+(A) Except for aircraft and boats and in legal hunting camps, you may not use any motorized vehicle for hunting ungulates, bear, wolves, and wolverine, including transportation of hunters and parts of ungulates, bear, wolves, or wolverine in the Upper Mulchatna Controlled Use Area consisting of Unit 17B, from Aug. 1 through Nov. 1. 
 
-(B) \[Reserved\]
+(B) \[Reserved\] 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
-(A) You may use bait to hunt black bear between April 15 and June 15.
+(A) You may use bait to hunt black bear between April 15 and June 15. 
 
-(B) You may hunt brown bear by State registration permit in lieu of a resident tag if you have obtained a State registration permit prior to hunting.
+(B) You may hunt brown bear by State registration permit in lieu of a resident tag if you have obtained a State registration permit prior to hunting. 
 
-(C) If you have a trapping license, you may use a firearm to take beaver in Unit 17 from April 15 through May 31. You may not take beaver with a firearm under a trapping license on National Park Service lands.
+(C) If you have a trapping license, you may use a firearm to take beaver in Unit 17 from April 15 through May 31. You may not take beaver with a firearm under a trapping license on National Park Service lands. 
 
-(D) In Unit 17, a snowmachine may be used to assist in the taking of a caribou, and caribou may be shot from a stationary snowmachine. “Assist in the taking of a caribou” means a snowmachine may be used to approach within 300 yards of a caribou at speeds under 15 miles per hour, in a manner that does not involve repeated approaches or that causes a caribou to run. A snowmachine may not be used to contact an animal or to pursue a fleeing caribou.
+(D) In Unit 17, a snowmachine may be used to assist in the taking of a caribou, and caribou may be shot from a stationary snowmachine. “Assist in the taking of a caribou” means a snowmachine may be used to approach within 300 yards of a caribou at speeds under 15 miles per hour, in a manner that does not involve repeated approaches or that causes a caribou to run. A snowmachine may not be used to contact an animal or to pursue a fleeing caribou. 
 
 Table 17 to Paragraph (n)(17)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                                            | Open season                                                                    |
@@ -1183,25 +1183,25 @@ Table 17 to Paragraph (n)(17)
 | Wolf: No limit                                                                                                                                                                                                                                                                                                                                                                            | Nov. 10-Mar. 31.                                                               |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                                                                                                       | Nov. 10-Feb. 28.                                                               |
 
-(18) *Unit 18.* (i) Unit 18 consists of that area draining into the Yukon and Kuskokwim Rivers westerly and downstream from a line starting at the downriver boundary of Paimiut on the north bank of the Yukon River then south across the Yukon River to the northern terminus of the Paimiut Portage, then south along the Paimiut Portage to its intersection with Arhymot Lake, then south along the northern and western bank of Arhymot Lake to the outlet at Crooked Creek (locally known as Johnson River), then along the south bank of Crooked Creek downstream to the northern terminus of Crooked Creek to the Yukon-Kuskokwim Portage (locally known as the Mud Creek Tramway), then along the west side of the tramway to Mud Creek, then along the westerly bank of Mud Creek downstream to an unnamed slough of the Kuskokwim River (locally known as First Slough or Kalskag Slough), then along the west bank of this unnamed slough downstream to its confluence with the Kuskokwim River, then southeast across the Kuskokwim River to its southerly bank, then along the south bank of the Kuskokwim River upriver to the confluence of a Kuskokwim River slough locally known as Old River, then across Old River to the downriver terminus of the island formed by Old River and the Kuskokwim River, then along the north bank of the main channel of Old River to Igyalleq Creek (Whitefish Creek), then along the south and west bank of Igyalleq Creek to Whitefish Lake, then directly across Whitefish Lake to Ophir Creek, then along the west bank of Ophir Creek to its headwaters at 61°10.22′ N lat., 159°46.05′ W long., and the drainages flowing into the Bering Sea from Cape Newenham on the south to and including the Pastolik River drainage on the north; Nunivak, St. Matthews, and adjacent islands between Cape Newenham and the Pastolik River, and all seaward waters and lands within 3 miles of these coastlines.
+(18) *Unit 18.* (i) Unit 18 consists of that area draining into the Yukon and Kuskokwim Rivers westerly and downstream from a line starting at the downriver boundary of Paimiut on the north bank of the Yukon River then south across the Yukon River to the northern terminus of the Paimiut Portage, then south along the Paimiut Portage to its intersection with Arhymot Lake, then south along the northern and western bank of Arhymot Lake to the outlet at Crooked Creek (locally known as Johnson River), then along the south bank of Crooked Creek downstream to the northern terminus of Crooked Creek to the Yukon-Kuskokwim Portage (locally known as the Mud Creek Tramway), then along the west side of the tramway to Mud Creek, then along the westerly bank of Mud Creek downstream to an unnamed slough of the Kuskokwim River (locally known as First Slough or Kalskag Slough), then along the west bank of this unnamed slough downstream to its confluence with the Kuskokwim River, then southeast across the Kuskokwim River to its southerly bank, then along the south bank of the Kuskokwim River upriver to the confluence of a Kuskokwim River slough locally known as Old River, then across Old River to the downriver terminus of the island formed by Old River and the Kuskokwim River, then along the north bank of the main channel of Old River to Igyalleq Creek (Whitefish Creek), then along the south and west bank of Igyalleq Creek to Whitefish Lake, then directly across Whitefish Lake to Ophir Creek, then along the west bank of Ophir Creek to its headwaters at 61°10.22′ N lat., 159°46.05′ W long., and the drainages flowing into the Bering Sea from Cape Newenham on the south to and including the Pastolik River drainage on the north; Nunivak, St. Matthews, and adjacent islands between Cape Newenham and the Pastolik River, and all seaward waters and lands within 3 miles of these coastlines. 
 
-(ii) In the Kalskag Controlled Use Area, which consists of that portion of Unit 18 bounded by a line from Lower Kalskag on the Kuskokwim River, northwesterly to Russian Mission on the Yukon River, then east along the north bank of the Yukon River to the old site of Paimiut, then back to Lower Kalskag, you are not allowed to use aircraft for hunting any ungulate, bear, wolf, or wolverine, including the transportation of any hunter and ungulate, bear, wolf, or wolverine part; however, this does not apply to transportation of a hunter or ungulate, bear, wolf, or wolverine part by aircraft between publicly owned airports in the Controlled Use Area or between a publicly owned airport within the Area and points outside the Area.
+(ii) In the Kalskag Controlled Use Area, which consists of that portion of Unit 18 bounded by a line from Lower Kalskag on the Kuskokwim River, northwesterly to Russian Mission on the Yukon River, then east along the north bank of the Yukon River to the old site of Paimiut, then back to Lower Kalskag, you are not allowed to use aircraft for hunting any ungulate, bear, wolf, or wolverine, including the transportation of any hunter and ungulate, bear, wolf, or wolverine part; however, this does not apply to transportation of a hunter or ungulate, bear, wolf, or wolverine part by aircraft between publicly owned airports in the Controlled Use Area or between a publicly owned airport within the Area and points outside the Area. 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
-(A) If you have a trapping license, you may use a firearm to take beaver in Unit 18 from April 1 through June 10.
+(A) If you have a trapping license, you may use a firearm to take beaver in Unit 18 from April 1 through June 10. 
 
-(B) You may hunt brown bear by State registration permit in lieu of a resident tag if you have obtained a State registration permit prior to hunting.
+(B) You may hunt brown bear by State registration permit in lieu of a resident tag if you have obtained a State registration permit prior to hunting. 
 
-(C) You may take caribou from a boat moving under power in Unit 18.
+(C) You may take caribou from a boat moving under power in Unit 18. 
 
-(D) You may take moose from a boat moving under power in that portion of Unit 18 west of a line running from the mouth of the Ishkowik River to the closest point of Dall Lake, then to the east bank of the Johnson River at its entrance into Nunavakanukakslak Lake (N 60°59.41′ Latitude; W 162°22.14′ Longitude), continuing upriver along a line 1/2 mile south and east of, and paralleling a line along the southerly bank of the Johnson River to the confluence of the east bank of Crooked Creek, then continuing upriver to the outlet at Arhymot Lake, then following the south bank west to the Unit 18 border.
+(D) You may take moose from a boat moving under power in that portion of Unit 18 west of a line running from the mouth of the Ishkowik River to the closest point of Dall Lake, then to the east bank of the Johnson River at its entrance into Nunavakanukakslak Lake (N 60°59.41′ Latitude; W 162°22.14′ Longitude), continuing upriver along a line 1/2 mile south and east of, and paralleling a line along the southerly bank of the Johnson River to the confluence of the east bank of Crooked Creek, then continuing upriver to the outlet at Arhymot Lake, then following the south bank west to the Unit 18 border. 
 
-(E) Taking of wildlife in Unit 18 while in possession of lead shot size T, .20 caliber or less in diameter, is prohibited.
+(E) Taking of wildlife in Unit 18 while in possession of lead shot size T, .20 caliber or less in diameter, is prohibited. 
 
-(F) You may not pursue with a motorized vehicle an ungulate that is at or near a full gallop.
+(F) You may not pursue with a motorized vehicle an ungulate that is at or near a full gallop. 
 
-(G) You may use artificial light when taking a bear at a den site.
+(G) You may use artificial light when taking a bear at a den site. 
 
 Table 18 to Paragraph (n)(18)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Open season                                                       |
@@ -1243,31 +1243,31 @@ Table 18 to Paragraph (n)(18)
 | Wolf: No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Nov. 10-Mar. 31.                                                  |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Nov. 10-Mar. 31.                                                  |
 
-(19) *Unit 19.* (i) Unit 19 consists of the Kuskokwim River drainage upstream, excluding the drainages of Arhymot Lake, from a line starting at the outlet of Arhymot Lake at Crooked Creek (locally known as Johnson River), then along the south bank of Crooked Creek downstream to the northern terminus of Crooked Creek to the Yukon- Kuskokwim Portage (locally known as the Mud Creek Tramway), then along the west side of the tramway to Mud Creek, then along the westerly bank of Mud Creek downstream to an unnamed slough of the Kuskokwim River (locally known as First Slough or Kalskag Slough), then along the west bank of this unnamed slough downstream to its confluence with the Kuskokwim River, then southeast across the Kuskokwim River to its southerly bank, then along the south bank of the Kuskokwim River upriver to the confluence of a Kuskokwim River slough locally known as Old River, then across Old River to the downriver terminus of the island formed by Old River and the Kuskokwim River, then along the north bank of the main channel of Old River to Igyalleq Creek (Whitefish Creek), then along the south and west bank of Igyalleq Creek to Whitefish Lake, then directly across Whitefish Lake to Ophir Creek then along the west bank of Ophir Creek to its headwaters at 61°10.22′ N lat., 159°46.05′ W long.:
+(19) *Unit 19.* (i) Unit 19 consists of the Kuskokwim River drainage upstream, excluding the drainages of Arhymot Lake, from a line starting at the outlet of Arhymot Lake at Crooked Creek (locally known as Johnson River), then along the south bank of Crooked Creek downstream to the northern terminus of Crooked Creek to the Yukon- Kuskokwim Portage (locally known as the Mud Creek Tramway), then along the west side of the tramway to Mud Creek, then along the westerly bank of Mud Creek downstream to an unnamed slough of the Kuskokwim River (locally known as First Slough or Kalskag Slough), then along the west bank of this unnamed slough downstream to its confluence with the Kuskokwim River, then southeast across the Kuskokwim River to its southerly bank, then along the south bank of the Kuskokwim River upriver to the confluence of a Kuskokwim River slough locally known as Old River, then across Old River to the downriver terminus of the island formed by Old River and the Kuskokwim River, then along the north bank of the main channel of Old River to Igyalleq Creek (Whitefish Creek), then along the south and west bank of Igyalleq Creek to Whitefish Lake, then directly across Whitefish Lake to Ophir Creek then along the west bank of Ophir Creek to its headwaters at 61°10.22′ N lat., 159°46.05′ W long.: 
 
-(A) Unit 19A consists of the Kuskokwim River drainage downstream from and including the George River drainage and downstream from and excluding the Downey Creek drainage.
+(A) Unit 19A consists of the Kuskokwim River drainage downstream from and including the George River drainage and downstream from and excluding the Downey Creek drainage. 
 
-(B) Unit 19B consists of the Aniak River drainage upstream from and including the Salmon River drainage, the Holitna River drainage upstream from and including the Bakbuk Creek drainage, that area south of a line from the mouth of Bakbuk Creek to the radar dome at Sparrevohn Air Force Base, including the Hoholitna River drainage upstream from that line, and the Stony River drainage upstream from and including the Can Creek drainage.
+(B) Unit 19B consists of the Aniak River drainage upstream from and including the Salmon River drainage, the Holitna River drainage upstream from and including the Bakbuk Creek drainage, that area south of a line from the mouth of Bakbuk Creek to the radar dome at Sparrevohn Air Force Base, including the Hoholitna River drainage upstream from that line, and the Stony River drainage upstream from and including the Can Creek drainage. 
 
-(C) Unit 19C consists of that portion of Unit 19 south and east of a line from Benchmark M#1.26 (approximately 1.26 miles south of the northwestern corner of the original Mt. McKinley National Park boundary) to the peak of Lone Mountain, then due west to Big River, including the Big River drainage upstream from that line, and including the Swift River drainage upstream from and including the North Fork drainage.
+(C) Unit 19C consists of that portion of Unit 19 south and east of a line from Benchmark M#1.26 (approximately 1.26 miles south of the northwestern corner of the original Mt. McKinley National Park boundary) to the peak of Lone Mountain, then due west to Big River, including the Big River drainage upstream from that line, and including the Swift River drainage upstream from and including the North Fork drainage. 
 
-(D) Unit 19D consists of that portion drained by the Kuskokwim River drainage upstream from and including the Swift River drainage, excluding Unit 19C.
+(D) Unit 19D consists of that portion drained by the Kuskokwim River drainage upstream from and including the Swift River drainage, excluding Unit 19C. 
 
-(E) Unit 19E consists of the remainder of Unit 19.
+(E) Unit 19E consists of the remainder of Unit 19. 
 
-(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public land:
+(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public land: 
 
-(A) You may not take wildlife for subsistence uses on lands within Mount McKinley National Park as it existed prior to December 2, 1980. Subsistence uses as authorized by this paragraph (n)(19) are permitted in Denali National Preserve and lands added to Denali National Park on December 2, 1980.
+(A) You may not take wildlife for subsistence uses on lands within Mount McKinley National Park as it existed prior to December 2, 1980. Subsistence uses as authorized by this paragraph (n)(19) are permitted in Denali National Preserve and lands added to Denali National Park on December 2, 1980. 
 
-(B) In the Upper Kuskokwim Controlled Use Area, which consists of that portion of Unit 19D upstream from the mouth of the Selatna River, but excluding the Selatna and Black River drainages, to a line extending from Dyckman Mountain on the northern Unit 19D boundary southeast to the 1,610-foot crest of Munsatli Ridge, then south along Munsatli Ridge to the 2,981-foot peak of Telida Mountain, then northeast to the intersection of the western boundary of Denali National Preserve with the Minchumina-Telida winter trail, then south along the western boundary of Denali National Preserve to the southern boundary of Unit 19D, you may not use aircraft for hunting moose, including transportation of any moose hunter or moose part; however, this does not apply to transportation of a moose hunter or moose part by aircraft between publicly owned airports in the Controlled Use Area, or between a publicly owned airport within the area and points outside the area.
+(B) In the Upper Kuskokwim Controlled Use Area, which consists of that portion of Unit 19D upstream from the mouth of the Selatna River, but excluding the Selatna and Black River drainages, to a line extending from Dyckman Mountain on the northern Unit 19D boundary southeast to the 1,610-foot crest of Munsatli Ridge, then south along Munsatli Ridge to the 2,981-foot peak of Telida Mountain, then northeast to the intersection of the western boundary of Denali National Preserve with the Minchumina-Telida winter trail, then south along the western boundary of Denali National Preserve to the southern boundary of Unit 19D, you may not use aircraft for hunting moose, including transportation of any moose hunter or moose part; however, this does not apply to transportation of a moose hunter or moose part by aircraft between publicly owned airports in the Controlled Use Area, or between a publicly owned airport within the area and points outside the area. 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
-(A) You may use bait to hunt black bear between April 15 and June 30.
+(A) You may use bait to hunt black bear between April 15 and June 30. 
 
-(B) You may hunt brown bear by State registration permit in lieu of a resident tag in those portions of Units 19A and 19B downstream of and including the Aniak River drainage if you have obtained a State registration permit prior to hunting.
+(B) You may hunt brown bear by State registration permit in lieu of a resident tag in those portions of Units 19A and 19B downstream of and including the Aniak River drainage if you have obtained a State registration permit prior to hunting. 
 
-(C) In Unit 19C, individual residents of Nikolai may harvest sheep during the Aug. 10 to Sep. 20 season and not have that animal count against the community harvest limit (during the Oct. 1 to Mar. 30 season). Individual residents of Nikolai that harvest a sheep under State regulations may not participate in the Oct. 1 to Mar. 30 community harvest.
+(C) In Unit 19C, individual residents of Nikolai may harvest sheep during the Aug. 10 to Sep. 20 season and not have that animal count against the community harvest limit (during the Oct. 1 to Mar. 30 season). Individual residents of Nikolai that harvest a sheep under State regulations may not participate in the Oct. 1 to Mar. 30 community harvest. 
 
 Table 19 to Paragraph (n)(19)
 | Harvest limits                                                                                                                                                                                                                                                                                                            | Open season                                     |
@@ -1314,41 +1314,41 @@ Table 19 to Paragraph (n)(19)
 | Wolf: No limit                                                                                                                                                                                                                                                                                                            | Nov. 1-Apr. 30.                                 |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                                       | Nov. 1-Mar. 31.                                 |
 
-(20) *Unit 20.* (i) Unit 20 consists of the Yukon River drainage upstream from and including the Tozitna River drainage to and including the Hamlin Creek drainage, drainages into the south bank of the Yukon River upstream from and including the Charley River drainage, the Ladue River and Fortymile River drainages, and the Tanana River drainage north of Unit 13 and downstream from the east bank of the Robertson River:
+(20) *Unit 20.* (i) Unit 20 consists of the Yukon River drainage upstream from and including the Tozitna River drainage to and including the Hamlin Creek drainage, drainages into the south bank of the Yukon River upstream from and including the Charley River drainage, the Ladue River and Fortymile River drainages, and the Tanana River drainage north of Unit 13 and downstream from the east bank of the Robertson River: 
 
-(A) Unit 20A consists of that portion of Unit 20 bounded on the south by the Unit 13 boundary, bounded on the east by the west bank of the Delta River, bounded on the north by the north bank of the Tanana River from its confluence with the Delta River downstream to its confluence with the Nenana River, and bounded on the west by the east bank of the Nenana River.
+(A) Unit 20A consists of that portion of Unit 20 bounded on the south by the Unit 13 boundary, bounded on the east by the west bank of the Delta River, bounded on the north by the north bank of the Tanana River from its confluence with the Delta River downstream to its confluence with the Nenana River, and bounded on the west by the east bank of the Nenana River. 
 
-(B) Unit 20B consists of drainages into the northern bank of the Tanana River from and including Hot Springs Slough upstream to and including the Banner Creek drainage.
+(B) Unit 20B consists of drainages into the northern bank of the Tanana River from and including Hot Springs Slough upstream to and including the Banner Creek drainage. 
 
-(C) Unit 20C consists of that portion of Unit 20 bounded on the east by the east bank of the Nenana River and on the north by the north bank of the Tanana River downstream from the Nenana River.
+(C) Unit 20C consists of that portion of Unit 20 bounded on the east by the east bank of the Nenana River and on the north by the north bank of the Tanana River downstream from the Nenana River. 
 
-(D) Unit 20D consists of that portion of Unit 20 bounded on the east by the east bank of the Robertson River and on the west by the west bank of the Delta River, and drainages into the north bank of the Tanana River from its confluence with the Robertson River downstream to, but excluding, the Banner Creek drainage.
+(D) Unit 20D consists of that portion of Unit 20 bounded on the east by the east bank of the Robertson River and on the west by the west bank of the Delta River, and drainages into the north bank of the Tanana River from its confluence with the Robertson River downstream to, but excluding, the Banner Creek drainage. 
 
-(E) Unit 20E consists of drainages into the south bank of the Yukon River upstream from and including the Charley River drainage, and the Ladue River drainage.
+(E) Unit 20E consists of drainages into the south bank of the Yukon River upstream from and including the Charley River drainage, and the Ladue River drainage. 
 
-(F) Unit 20F consists of the remainder of Unit 20.
+(F) Unit 20F consists of the remainder of Unit 20. 
 
-(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public land:
+(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public land: 
 
-(A) You may not take wildlife for subsistence uses on lands within Mount McKinley National Park as it existed prior to December 2, 1980. Subsistence uses as authorized by this paragraph (n)(20) are permitted in Denali National Preserve and lands added to Denali National Park on December 2, 1980.
+(A) You may not take wildlife for subsistence uses on lands within Mount McKinley National Park as it existed prior to December 2, 1980. Subsistence uses as authorized by this paragraph (n)(20) are permitted in Denali National Preserve and lands added to Denali National Park on December 2, 1980. 
 
-(B) You may not use motorized vehicles or pack animals for hunting Aug. 5-25 in the Delta Controlled Use Area, the boundary of which is defined as: a line beginning at the confluence of Miller Creek and the Delta River, then west to vertical angle benchmark Miller, then west to include all drainages of Augustana Creek and Black Rapids Glacier, then north and east to include all drainages of McGinnis Creek to its confluence with the Delta River, then east in a straight line across the Delta River to Mile 236.7 of the Richardson Highway, then north along the Richardson Highway to its junction with the Alaska Highway, then east along the Alaska Highway to the west bank of the Johnson River, then south along the west bank of the Johnson River and Johnson Glacier to the head of the Canwell Glacier, then west along the north bank of the Canwell Glacier and Miller Creek to the Delta River.
+(B) You may not use motorized vehicles or pack animals for hunting Aug. 5-25 in the Delta Controlled Use Area, the boundary of which is defined as: a line beginning at the confluence of Miller Creek and the Delta River, then west to vertical angle benchmark Miller, then west to include all drainages of Augustana Creek and Black Rapids Glacier, then north and east to include all drainages of McGinnis Creek to its confluence with the Delta River, then east in a straight line across the Delta River to Mile 236.7 of the Richardson Highway, then north along the Richardson Highway to its junction with the Alaska Highway, then east along the Alaska Highway to the west bank of the Johnson River, then south along the west bank of the Johnson River and Johnson Glacier to the head of the Canwell Glacier, then west along the north bank of the Canwell Glacier and Miller Creek to the Delta River. 
 
-(C) You may not use firearms, snowmobiles, licensed highway vehicles or motorized vehicles, except aircraft and boats, in the Dalton Highway Corridor Management Area, which consists of those portions of Units 20, 24, 25, and 26 extending 5 miles from each side of the Dalton Highway from the Yukon River to milepost 300 of the Dalton Highway, except as follows: Residents living within the Dalton Highway Corridor Management Area may use snowmobiles only for the subsistence taking of wildlife. You may use licensed highway vehicles only on designated roads within the Dalton Highway Corridor Management Area. The residents of Alatna, Allakaket, Anaktuvuk Pass, Bettles, Evansville, Stevens Village, and residents living within the Corridor may use firearms within the Corridor only for subsistence taking of wildlife.
+(C) You may not use firearms, snowmobiles, licensed highway vehicles or motorized vehicles, except aircraft and boats, in the Dalton Highway Corridor Management Area, which consists of those portions of Units 20, 24, 25, and 26 extending 5 miles from each side of the Dalton Highway from the Yukon River to milepost 300 of the Dalton Highway, except as follows: Residents living within the Dalton Highway Corridor Management Area may use snowmobiles only for the subsistence taking of wildlife. You may use licensed highway vehicles only on designated roads within the Dalton Highway Corridor Management Area. The residents of Alatna, Allakaket, Anaktuvuk Pass, Bettles, Evansville, Stevens Village, and residents living within the Corridor may use firearms within the Corridor only for subsistence taking of wildlife. 
 
-(D) You may not use any motorized vehicle for hunting August 5-September 20 in the Glacier Mountain Controlled Use Area, which consists of that portion of Unit 20E bounded by a line beginning at Mile 140 of the Taylor Highway, then north along the highway to Eagle, then west along the cat trail from Eagle to Crooked Creek, then from Crooked Creek southwest along the west bank of Mogul Creek to its headwaters on North Peak, then west across North Peak to the headwaters of Independence Creek, then southwest along the west bank of Independence Creek to its confluence with the North Fork of the Fortymile River, then easterly along the south bank of the North Fork of the Fortymile River to its confluence with Champion Creek, then across the North Fork of the Fortymile River to the south bank of Champion Creek and easterly along the south bank of Champion Creek to its confluence with Little Champion Creek, then northeast along the east bank of Little Champion Creek to its headwaters, then northeasterly in a direct line to Mile 140 on the Taylor Highway; however, this does not prohibit motorized access via, or transportation of harvested wildlife on, the Taylor Highway or any airport.
+(D) You may not use any motorized vehicle for hunting August 5-September 20 in the Glacier Mountain Controlled Use Area, which consists of that portion of Unit 20E bounded by a line beginning at Mile 140 of the Taylor Highway, then north along the highway to Eagle, then west along the cat trail from Eagle to Crooked Creek, then from Crooked Creek southwest along the west bank of Mogul Creek to its headwaters on North Peak, then west across North Peak to the headwaters of Independence Creek, then southwest along the west bank of Independence Creek to its confluence with the North Fork of the Fortymile River, then easterly along the south bank of the North Fork of the Fortymile River to its confluence with Champion Creek, then across the North Fork of the Fortymile River to the south bank of Champion Creek and easterly along the south bank of Champion Creek to its confluence with Little Champion Creek, then northeast along the east bank of Little Champion Creek to its headwaters, then northeasterly in a direct line to Mile 140 on the Taylor Highway; however, this does not prohibit motorized access via, or transportation of harvested wildlife on, the Taylor Highway or any airport. 
 
-(E) You may by permit hunt moose on the Minto Flats Management Area, which consists of that portion of Unit 20 bounded by the Elliot Highway beginning at Mile 118, then northeasterly to Mile 96, then east to the Tolovana Hotsprings Dome, then east to the Winter Cat Trail, then along the Cat Trail south to the Old Telegraph Trail at Dunbar, then westerly along the trail to a point where it joins the Tanana River 3 miles above Old Minto, then along the north bank of the Tanana River (including all channels and sloughs except Swan Neck Slough), to the confluence of the Tanana and Tolovana Rivers and then northerly to the point of beginning.
+(E) You may by permit hunt moose on the Minto Flats Management Area, which consists of that portion of Unit 20 bounded by the Elliot Highway beginning at Mile 118, then northeasterly to Mile 96, then east to the Tolovana Hotsprings Dome, then east to the Winter Cat Trail, then along the Cat Trail south to the Old Telegraph Trail at Dunbar, then westerly along the trail to a point where it joins the Tanana River 3 miles above Old Minto, then along the north bank of the Tanana River (including all channels and sloughs except Swan Neck Slough), to the confluence of the Tanana and Tolovana Rivers and then northerly to the point of beginning. 
 
-(F) You may hunt moose only by bow and arrow in the Fairbanks Management Area. The Area consists of that portion of Unit 20B bounded by a line from the confluence of Rosie Creek and the Tanana River, northerly along Rosie Creek to Isberg Road, then northeasterly on Isberg Road to Cripple Creek Road, then northeasterly on Cripple Creek Road to the Parks Highway, then north on the Parks Highway to Alder Creek, then westerly to the middle fork of Rosie Creek through section 26 to the Parks Highway, then east along the Parks Highway to Alder Creek, then upstream along Alder Creek to its confluence with Emma Creek, then upstream along Emma Creek to its headwaters, then northerly along the hydrographic divide between Goldstream Creek drainages and Cripple Creek drainages to the summit of Ester Dome, then down Sheep Creek to its confluence with Goldstream Creek, then easterly along Goldstream Creek to Sheep Creek Road, then north on Sheep Creek Road to Murphy Dome Road, then west on Murphy Dome Road to Old Murphy Dome Road, then east on Old Murphy Dome Road to the Elliot Highway, then south on the Elliot Highway to Goldstream Creek, then easterly along Goldstream Creek to its confluence with First Chance Creek, Davidson Ditch, then southeasterly along the Davidson Ditch to its confluence with the tributary to Goldstream Creek in Section 29, then downstream along the tributary to its confluence with Goldstream Creek, then in a straight line to First Chance Creek, then up First Chance Creek to Tungsten Hill, then southerly along Steele Creek to its confluence with Ruby Creek, then upstream along Ruby Creek to Esro Road, then south on Esro Road to Chena Hot Springs Road, then east on Chena Hot Springs Road to Nordale Road, then south on Nordale Road to the Chena River, to its intersection with the Trans-Alaska Pipeline right of way, then southeasterly along the easterly edge of the Trans-Alaska Pipeline right of way to the Chena River, then along the north bank of the Chena River to the Moose Creek dike, then southerly along the Moose Creek dike to its intersection with the Tanana River, and then westerly along the north bank of the Tanana River to the point of beginning.
+(F) You may hunt moose only by bow and arrow in the Fairbanks Management Area. The Area consists of that portion of Unit 20B bounded by a line from the confluence of Rosie Creek and the Tanana River, northerly along Rosie Creek to Isberg Road, then northeasterly on Isberg Road to Cripple Creek Road, then northeasterly on Cripple Creek Road to the Parks Highway, then north on the Parks Highway to Alder Creek, then westerly to the middle fork of Rosie Creek through section 26 to the Parks Highway, then east along the Parks Highway to Alder Creek, then upstream along Alder Creek to its confluence with Emma Creek, then upstream along Emma Creek to its headwaters, then northerly along the hydrographic divide between Goldstream Creek drainages and Cripple Creek drainages to the summit of Ester Dome, then down Sheep Creek to its confluence with Goldstream Creek, then easterly along Goldstream Creek to Sheep Creek Road, then north on Sheep Creek Road to Murphy Dome Road, then west on Murphy Dome Road to Old Murphy Dome Road, then east on Old Murphy Dome Road to the Elliot Highway, then south on the Elliot Highway to Goldstream Creek, then easterly along Goldstream Creek to its confluence with First Chance Creek, Davidson Ditch, then southeasterly along the Davidson Ditch to its confluence with the tributary to Goldstream Creek in Section 29, then downstream along the tributary to its confluence with Goldstream Creek, then in a straight line to First Chance Creek, then up First Chance Creek to Tungsten Hill, then southerly along Steele Creek to its confluence with Ruby Creek, then upstream along Ruby Creek to Esro Road, then south on Esro Road to Chena Hot Springs Road, then east on Chena Hot Springs Road to Nordale Road, then south on Nordale Road to the Chena River, to its intersection with the Trans-Alaska Pipeline right of way, then southeasterly along the easterly edge of the Trans-Alaska Pipeline right of way to the Chena River, then along the north bank of the Chena River to the Moose Creek dike, then southerly along the Moose Creek dike to its intersection with the Tanana River, and then westerly along the north bank of the Tanana River to the point of beginning. 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
-(A) You may use bait to hunt black bear April 15-June 30; you may use bait to hunt wolves on FWS and BLM lands.
+(A) You may use bait to hunt black bear April 15-June 30; you may use bait to hunt wolves on FWS and BLM lands. 
 
-(B) You may not use a steel trap or a snare using cable smaller than 3/32-inch diameter to trap coyotes or wolves in Unit 20E during April and October.
+(B) You may not use a steel trap or a snare using cable smaller than 3/32-inch diameter to trap coyotes or wolves in Unit 20E during April and October. 
 
-(C) Residents of Units 20 and 21 may take up to three moose per regulatory year for the celebration known as the Nuchalawoyya Potlatch, under the terms of a Federal registration permit. Permits will be issued to individuals at the request of the Native Village of Tanana only. This three-moose limit is not cumulative with that permitted by the State.
+(C) Residents of Units 20 and 21 may take up to three moose per regulatory year for the celebration known as the Nuchalawoyya Potlatch, under the terms of a Federal registration permit. Permits will be issued to individuals at the request of the Native Village of Tanana only. This three-moose limit is not cumulative with that permitted by the State. 
 
 Table 20 to Paragraph (n)(20)
 | Harvest limits                                                                                                                                                                                                                                                                                     | Open season                                                                                                            |
@@ -1408,35 +1408,35 @@ Table 20 to Paragraph (n)(20)
 | Unit 20E—No limit                                                                                                                                                                                                                                                                                  | Oct. 1-Apr. 30.                                                                                                        |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                | Nov. 1-Feb. 28.                                                                                                        |
 
-(21) *Unit 21.* (i) Unit 21 consists of drainages into the Yukon River and Arhymot Lake upstream from a line starting at the downriver boundary of Paimiut on the north bank of the Yukon River then south across the Yukon River to the northern terminus of the Paimiut Portage, then south along the Portage to its intersection with Arhymot Lake, then south along the northern and western bank of Arhymot Lake to the outlet at Crooked Creek (locally known as Johnson River) drainage then to, but not including, the Tozitna River drainage on the north bank, and to but not including the Tanana River drainage on the south bank, and excluding the Koyukuk River drainage upstream from the Dulbi River drainage:
+(21) *Unit 21.* (i) Unit 21 consists of drainages into the Yukon River and Arhymot Lake upstream from a line starting at the downriver boundary of Paimiut on the north bank of the Yukon River then south across the Yukon River to the northern terminus of the Paimiut Portage, then south along the Portage to its intersection with Arhymot Lake, then south along the northern and western bank of Arhymot Lake to the outlet at Crooked Creek (locally known as Johnson River) drainage then to, but not including, the Tozitna River drainage on the north bank, and to but not including the Tanana River drainage on the south bank, and excluding the Koyukuk River drainage upstream from the Dulbi River drainage: 
 
-(A) Unit 21A consists of the Innoko River drainage upstream from and including the Iditarod River drainage.
+(A) Unit 21A consists of the Innoko River drainage upstream from and including the Iditarod River drainage. 
 
-(B) Unit 21B consists of the Yukon River drainage upstream from Ruby and east of the Ruby-Poorman Road, downstream from and excluding the Tozitna River and Tanana River drainages, and excluding the Melozitna River drainage upstream from Grayling Creek.
+(B) Unit 21B consists of the Yukon River drainage upstream from Ruby and east of the Ruby-Poorman Road, downstream from and excluding the Tozitna River and Tanana River drainages, and excluding the Melozitna River drainage upstream from Grayling Creek. 
 
-(C) Unit 21C consists of the Melozitna River drainage upstream from Grayling Creek, and the Dulbi River drainage upstream from and including the Cottonwood Creek drainage.
+(C) Unit 21C consists of the Melozitna River drainage upstream from Grayling Creek, and the Dulbi River drainage upstream from and including the Cottonwood Creek drainage. 
 
-(D) Unit 21D consists of the Yukon River drainage from and including the Blackburn Creek drainage upstream to Ruby, including the area west of the Ruby-Poorman Road, excluding the Koyukuk River drainage upstream from the Dulbi River drainage, and excluding the Dulbi River drainage upstream from Cottonwood Creek.
+(D) Unit 21D consists of the Yukon River drainage from and including the Blackburn Creek drainage upstream to Ruby, including the area west of the Ruby-Poorman Road, excluding the Koyukuk River drainage upstream from the Dulbi River drainage, and excluding the Dulbi River drainage upstream from Cottonwood Creek. 
 
-(E) Unit 21E consists of that portion of Unit 21 in the Yukon River and Arhymot Lake drainages upstream from a line starting at the downriver boundary of Paimiut on the north bank of the Yukon River, then south across the Yukon River to the northern terminus of the Paimiut Portage, then south along the Portage to its intersection with Arhymot Lake, then along the northern and western bank of Arhymot Lake to the outlet at Crooked Creek (locally known as Johnson River) drainage, then to, but not including, the Blackburn Creek drainage, and the Innoko River drainage downstream from the Iditarod River drainage.
+(E) Unit 21E consists of that portion of Unit 21 in the Yukon River and Arhymot Lake drainages upstream from a line starting at the downriver boundary of Paimiut on the north bank of the Yukon River, then south across the Yukon River to the northern terminus of the Paimiut Portage, then south along the Portage to its intersection with Arhymot Lake, then along the northern and western bank of Arhymot Lake to the outlet at Crooked Creek (locally known as Johnson River) drainage, then to, but not including, the Blackburn Creek drainage, and the Innoko River drainage downstream from the Iditarod River drainage. 
 
-(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public land:
+(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public land: 
 
-(A) The Koyukuk Controlled Use Area, which consists of those portions of Units 21 and 24 bounded by a line from the north bank of the Yukon River at Koyukuk at 64°52.58′ N lat., 157°43.10′ W long., then northerly to the confluences of the Honhosa and Kateel Rivers at 65°28.42′ N lat., 157°44.89′ W long., then northeasterly to the confluences of Billy Hawk Creek and the Huslia River (65°57′ N lat., 156°41′ W long.) at 65°56.66′ N lat., 156°40.81′ W long., then easterly to the confluence of the forks of the Dakli River at 66°02.56′ N lat., 156° 12.71′ W long., then easterly to the confluence of McLanes Creek and the Hogatza River at 66°00.31′ N lat., 155°18.57′ W long., then southwesterly to the crest of Hochandochtla Mountain at 65°31.87′ N lat., 154°52.18′ W long., then southwest to the mouth of Cottonwood Creek at 65°3.00′ N lat., 156°06.43′ W long., then southwest to Bishop Rock (Yistletaw) at 64°49.35′ N lat., 157° 21.73′ W long., then westerly along the north bank of the Yukon River (including Koyukuk Island) to the point of beginning, is closed during moose hunting seasons to the use of aircraft for hunting moose, including transportation of any moose hunter or moose part; however, this does not apply to transportation of a moose hunter or moose part by aircraft between publicly owned airports in the controlled use area or between a publicly owned airport within the area and points outside the area; all hunters on the Koyukuk River passing the ADF&G-operated check station at Ella's Cabin (15 miles upstream from the Yukon on the Koyukuk River) are required to stop and report to ADF&G personnel at the check station.
+(A) The Koyukuk Controlled Use Area, which consists of those portions of Units 21 and 24 bounded by a line from the north bank of the Yukon River at Koyukuk at 64°52.58′ N lat., 157°43.10′ W long., then northerly to the confluences of the Honhosa and Kateel Rivers at 65°28.42′ N lat., 157°44.89′ W long., then northeasterly to the confluences of Billy Hawk Creek and the Huslia River (65°57′ N lat., 156°41′ W long.) at 65°56.66′ N lat., 156°40.81′ W long., then easterly to the confluence of the forks of the Dakli River at 66°02.56′ N lat., 156° 12.71′ W long., then easterly to the confluence of McLanes Creek and the Hogatza River at 66°00.31′ N lat., 155°18.57′ W long., then southwesterly to the crest of Hochandochtla Mountain at 65°31.87′ N lat., 154°52.18′ W long., then southwest to the mouth of Cottonwood Creek at 65°3.00′ N lat., 156°06.43′ W long., then southwest to Bishop Rock (Yistletaw) at 64°49.35′ N lat., 157° 21.73′ W long., then westerly along the north bank of the Yukon River (including Koyukuk Island) to the point of beginning, is closed during moose hunting seasons to the use of aircraft for hunting moose, including transportation of any moose hunter or moose part; however, this does not apply to transportation of a moose hunter or moose part by aircraft between publicly owned airports in the controlled use area or between a publicly owned airport within the area and points outside the area; all hunters on the Koyukuk River passing the ADF&G-operated check station at Ella's Cabin (15 miles upstream from the Yukon on the Koyukuk River) are required to stop and report to ADF&G personnel at the check station. 
 
-(B) The Paradise Controlled Use Area, which consists of that portion of Unit 21 bounded by a line beginning at the old village of Paimiut, then north along the west bank of the Yukon River to Paradise, then northwest to the mouth of Stanstrom Creek on the Bonasila River, then northeast to the mouth of the Anvik River, then along the west bank of the Yukon River to the lower end of Eagle Island (approximately 45 miles north of Grayling), then to the mouth of the Iditarod River, then extending 2 miles easterly down the east bank of the Innoko River to its confluence with Paimiut Slough, then south along the east bank of Paimiut Slough to its mouth, and then to the old village of Paimiut, is closed during moose hunting seasons to the use of aircraft for hunting moose, including transportation of any moose hunter or part of moose; however, this does not apply to transportation of a moose hunter or part of moose by aircraft between publicly owned airports in the Controlled Use Area or between a publicly owned airport within the area and points outside the area.
+(B) The Paradise Controlled Use Area, which consists of that portion of Unit 21 bounded by a line beginning at the old village of Paimiut, then north along the west bank of the Yukon River to Paradise, then northwest to the mouth of Stanstrom Creek on the Bonasila River, then northeast to the mouth of the Anvik River, then along the west bank of the Yukon River to the lower end of Eagle Island (approximately 45 miles north of Grayling), then to the mouth of the Iditarod River, then extending 2 miles easterly down the east bank of the Innoko River to its confluence with Paimiut Slough, then south along the east bank of Paimiut Slough to its mouth, and then to the old village of Paimiut, is closed during moose hunting seasons to the use of aircraft for hunting moose, including transportation of any moose hunter or part of moose; however, this does not apply to transportation of a moose hunter or part of moose by aircraft between publicly owned airports in the Controlled Use Area or between a publicly owned airport within the area and points outside the area. 
 
-(iii) In Unit 21D, you may hunt brown bear by State registration permit in lieu of a resident tag if you have obtained a State registration permit prior to hunting. Aircraft may not be used in any manner for brown bear hunting under the authority of a brown bear State registration permit, including transportation of hunters, bears, or parts of bears; however, this does not apply to transportation of bear hunters or bear parts by regularly scheduled flights to and between communities by carriers that normally provide scheduled service to this area, nor does it apply to transportation of aircraft to or between publicly owned airports.
+(iii) In Unit 21D, you may hunt brown bear by State registration permit in lieu of a resident tag if you have obtained a State registration permit prior to hunting. Aircraft may not be used in any manner for brown bear hunting under the authority of a brown bear State registration permit, including transportation of hunters, bears, or parts of bears; however, this does not apply to transportation of bear hunters or bear parts by regularly scheduled flights to and between communities by carriers that normally provide scheduled service to this area, nor does it apply to transportation of aircraft to or between publicly owned airports. 
 
-(iv) Unit-specific regulations:
+(iv) Unit-specific regulations: 
 
-(A) You may use bait to hunt black bear between April 15 and June 30; and in the Koyukuk Controlled Use Area, you may also use bait to hunt black bear between September 1 and September 25.
+(A) You may use bait to hunt black bear between April 15 and June 30; and in the Koyukuk Controlled Use Area, you may also use bait to hunt black bear between September 1 and September 25. 
 
-(B) If you have a trapping license, you may use a firearm to take beaver in Unit 21(E) from Nov. 1 through June 10.
+(B) If you have a trapping license, you may use a firearm to take beaver in Unit 21(E) from Nov. 1 through June 10. 
 
-(C) The residents of Units 20 and 21 may take up to three moose per regulatory year for the celebration known as the Nuchalawoyya Potlatch, under the terms of a Federal registration permit. Permits will be issued to individuals only at the request of the Native Village of Tanana. This three-moose limit is not cumulative with that permitted by the State.
+(C) The residents of Units 20 and 21 may take up to three moose per regulatory year for the celebration known as the Nuchalawoyya Potlatch, under the terms of a Federal registration permit. Permits will be issued to individuals only at the request of the Native Village of Tanana. This three-moose limit is not cumulative with that permitted by the State. 
 
-(D) The residents of Unit 21 may take up to three moose per regulatory year for the celebration known as the Kaltag/Nulato Stickdance, under the terms of a Federal registration permit. Permits will be issued to individuals only at the request of the Native Village of Kaltag or Nulato. This three-moose limit is not cumulative with that permitted by the State.
+(D) The residents of Unit 21 may take up to three moose per regulatory year for the celebration known as the Kaltag/Nulato Stickdance, under the terms of a Federal registration permit. Permits will be issued to individuals only at the request of the Native Village of Kaltag or Nulato. This three-moose limit is not cumulative with that permitted by the State. 
 
 Table 21 to Paragraph (n)(21)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Open season                                                   |
@@ -1490,31 +1490,31 @@ Table 21 to Paragraph (n)(21)
 | Wolf: No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Nov. 1-Apr. 30.                                               |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Nov. 1-Mar. 31.                                               |
 
-(22) *Unit 22.* (i) Unit 22 consists of Bering Sea, Norton Sound, Bering Strait, Chukchi Sea, and Kotzebue Sound drainages from, but excluding, the Pastolik River drainage in southern Norton Sound to, but not including, the Goodhope River drainage in Southern Kotzebue Sound, and all adjacent islands in the Bering Sea between the mouths of the Goodhope and Pastolik Rivers:
+(22) *Unit 22.* (i) Unit 22 consists of Bering Sea, Norton Sound, Bering Strait, Chukchi Sea, and Kotzebue Sound drainages from, but excluding, the Pastolik River drainage in southern Norton Sound to, but not including, the Goodhope River drainage in Southern Kotzebue Sound, and all adjacent islands in the Bering Sea between the mouths of the Goodhope and Pastolik Rivers: 
 
-(A) Unit 22A consists of Norton Sound drainages from, but excluding, the Pastolik River drainage to, and including, the Ungalik River drainage, and Stuart and Besboro Islands.
+(A) Unit 22A consists of Norton Sound drainages from, but excluding, the Pastolik River drainage to, and including, the Ungalik River drainage, and Stuart and Besboro Islands. 
 
-(B) Unit 22B consists of Norton Sound drainages from, but excluding, the Ungalik River drainage to, and including, the Topkok Creek drainage.
+(B) Unit 22B consists of Norton Sound drainages from, but excluding, the Ungalik River drainage to, and including, the Topkok Creek drainage. 
 
-(C) Unit 22C consists of Norton Sound and Bering Sea drainages from, but excluding, the Topkok Creek drainage to, and including, the Tisuk River drainage, and King and Sledge Islands.
+(C) Unit 22C consists of Norton Sound and Bering Sea drainages from, but excluding, the Topkok Creek drainage to, and including, the Tisuk River drainage, and King and Sledge Islands. 
 
-(D) Unit 22D consists of that portion of Unit 22 draining into the Bering Sea north of, but not including, the Tisuk River to and including Cape York and St. Lawrence Island.
+(D) Unit 22D consists of that portion of Unit 22 draining into the Bering Sea north of, but not including, the Tisuk River to and including Cape York and St. Lawrence Island. 
 
-(E) Unit 22E consists of Bering Sea, Bering Strait, Chukchi Sea, and Kotzebue Sound drainages from Cape York to, but excluding, the Goodhope River drainage, and including Little Diomede Island and Fairway Rock.
+(E) Unit 22E consists of Bering Sea, Bering Strait, Chukchi Sea, and Kotzebue Sound drainages from Cape York to, but excluding, the Goodhope River drainage, and including Little Diomede Island and Fairway Rock. 
 
-(ii) You may hunt brown bear by State registration permit in lieu of a resident tag if you have obtained a State registration permit prior to hunting. Aircraft may not be used in any manner for brown bear hunting under the authority of a brown bear State registration permit, including transportation of hunters, bears, or parts of bears; however, this does not apply to transportation of bear hunters or bear parts by regularly scheduled flights to and between communities by carriers that normally provide scheduled service to this area, nor does it apply to transportation of aircraft to or between publicly owned airports.
+(ii) You may hunt brown bear by State registration permit in lieu of a resident tag if you have obtained a State registration permit prior to hunting. Aircraft may not be used in any manner for brown bear hunting under the authority of a brown bear State registration permit, including transportation of hunters, bears, or parts of bears; however, this does not apply to transportation of bear hunters or bear parts by regularly scheduled flights to and between communities by carriers that normally provide scheduled service to this area, nor does it apply to transportation of aircraft to or between publicly owned airports. 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
-(A) If you have a trapping license, you may use a firearm to take beaver in Unit 22 during the established seasons.
+(A) If you have a trapping license, you may use a firearm to take beaver in Unit 22 during the established seasons. 
 
-(B) Coyote, incidentally taken with a trap or snare, may be used for subsistence purposes.
+(B) Coyote, incidentally taken with a trap or snare, may be used for subsistence purposes. 
 
-(C) A snowmachine may be used to position a hunter to select individual caribou for harvest provided that the animals are not shot from a moving snowmachine.
+(C) A snowmachine may be used to position a hunter to select individual caribou for harvest provided that the animals are not shot from a moving snowmachine. 
 
-(D) The taking of one bull moose and up to three musk oxen by the community of Wales is allowed for the celebration of the Kingikmuit Dance Festival under the terms of a Federal registration permit. Permits will be issued to individuals only at the request of the Native Village of Wales. The harvest may occur only within regularly established seasons in Unit 22E. The harvest will count against any established quota for the area.
+(D) The taking of one bull moose and up to three musk oxen by the community of Wales is allowed for the celebration of the Kingikmuit Dance Festival under the terms of a Federal registration permit. Permits will be issued to individuals only at the request of the Native Village of Wales. The harvest may occur only within regularly established seasons in Unit 22E. The harvest will count against any established quota for the area. 
 
-(E) A federally qualified subsistence user (recipient) may designate another federally qualified subsistence user to take musk oxen on his or her behalf. The designated hunter must get a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for any number of recipients in the course of a season, but have no more than two harvest limits in his/her possession at any one time, except in Unit 22E where a resident of Wales or Shishmaref acting as a designated hunter may hunt for any number of recipients, but have no more than four harvest limits in his/her possession at any one time.
+(E) A federally qualified subsistence user (recipient) may designate another federally qualified subsistence user to take musk oxen on his or her behalf. The designated hunter must get a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for any number of recipients in the course of a season, but have no more than two harvest limits in his/her possession at any one time, except in Unit 22E where a resident of Wales or Shishmaref acting as a designated hunter may hunt for any number of recipients, but have no more than four harvest limits in his/her possession at any one time. 
 
 Table 22 to Paragraph (n)(22)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Open season                                               |
@@ -1591,29 +1591,29 @@ Table 22 to Paragraph (n)(22)
 | Wolf: No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Nov. 1-Apr. 30.                                           |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                                                                                                                                                                             | Nov. 1-Apr. 15.                                           |
 
-(23) *Unit 23.* (i) Unit 23 consists of Kotzebue Sound, Chukchi Sea, and Arctic Ocean drainages from and including the Goodhope River drainage to Cape Lisburne.
+(23) *Unit 23.* (i) Unit 23 consists of Kotzebue Sound, Chukchi Sea, and Arctic Ocean drainages from and including the Goodhope River drainage to Cape Lisburne. 
 
-(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public land:
+(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public land: 
 
-(A) You may not use aircraft in any manner either for hunting of ungulates, bear, wolves, or wolverine, or for transportation of hunters or harvested species in the Noatak Controlled Use Area for the period August 15-September 30. The Area consists of that portion of Unit 23 in a corridor extending 5 miles on either side of the Noatak River beginning at the mouth of the Noatak River, and extending upstream to the mouth of Sapun Creek. This closure does not apply to the transportation of hunters or parts of ungulates, bear, wolves, or wolverine by regularly scheduled flights to communities by carriers that normally provide scheduled air service.
+(A) You may not use aircraft in any manner either for hunting of ungulates, bear, wolves, or wolverine, or for transportation of hunters or harvested species in the Noatak Controlled Use Area for the period August 15-September 30. The Area consists of that portion of Unit 23 in a corridor extending 5 miles on either side of the Noatak River beginning at the mouth of the Noatak River, and extending upstream to the mouth of Sapun Creek. This closure does not apply to the transportation of hunters or parts of ungulates, bear, wolves, or wolverine by regularly scheduled flights to communities by carriers that normally provide scheduled air service. 
 
-(B) \[Reserved\]
+(B) \[Reserved\] 
 
-(iii) You may not use aircraft in any manner for brown bear hunting, including transportation of hunters, bears, or parts of bears; however, this does not apply to transportation of bear hunters or bear parts by regularly scheduled flights to and between communities by carriers that normally provide scheduled service to this area, nor does it apply to transportation of aircraft to or between publicly owned airports.
+(iii) You may not use aircraft in any manner for brown bear hunting, including transportation of hunters, bears, or parts of bears; however, this does not apply to transportation of bear hunters or bear parts by regularly scheduled flights to and between communities by carriers that normally provide scheduled service to this area, nor does it apply to transportation of aircraft to or between publicly owned airports. 
 
-(iv) Unit-specific regulations:
+(iv) Unit-specific regulations: 
 
-(A) You may take caribou while hunting from a boat moving under power in Unit 23.
+(A) You may take caribou while hunting from a boat moving under power in Unit 23. 
 
-(B) In addition to other restrictions on method of take found in this section, you may also take swimming caribou with a firearm using rimfire cartridges.
+(B) In addition to other restrictions on method of take found in this section, you may also take swimming caribou with a firearm using rimfire cartridges. 
 
-(C) If you have a trapping license, you may take beaver with a firearm in all of Unit 23 from Nov. 1 through June 10.
+(C) If you have a trapping license, you may take beaver with a firearm in all of Unit 23 from Nov. 1 through June 10. 
 
-(D) For the Baird and DeLong Mountain sheep hunts—a federally qualified subsistence user (recipient) may designate another federally qualified subsistence user to take sheep on his or her behalf. The designated hunter must obtain a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for only one recipient in the course of a season and may have both his and the recipients' harvest limits in his/her possession at the same time.
+(D) For the Baird and DeLong Mountain sheep hunts—a federally qualified subsistence user (recipient) may designate another federally qualified subsistence user to take sheep on his or her behalf. The designated hunter must obtain a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for only one recipient in the course of a season and may have both his and the recipients' harvest limits in his/her possession at the same time. 
 
-(E) A snowmachine may be used to position a hunter to select individual caribou for harvest provided that the animals are not shot from a moving snowmachine. On BLM-managed lands only, a snowmachine may be used to position a caribou, wolf, or wolverine for harvest provided that the animals are not shot from a moving snowmachine.
+(E) A snowmachine may be used to position a hunter to select individual caribou for harvest provided that the animals are not shot from a moving snowmachine. On BLM-managed lands only, a snowmachine may be used to position a caribou, wolf, or wolverine for harvest provided that the animals are not shot from a moving snowmachine. 
 
-(F) A federally qualified subsistence user (recipient) may designate another federally qualified subsistence user to take musk oxen on his or her behalf. The designated hunter must get a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for any number of recipients but have no more than two harvest limits in his/her possession at any one time.
+(F) A federally qualified subsistence user (recipient) may designate another federally qualified subsistence user to take musk oxen on his or her behalf. The designated hunter must get a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for any number of recipients but have no more than two harvest limits in his/her possession at any one time. 
 
 Table 23 to Paragraph (n)(23)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Open season         |
@@ -1672,33 +1672,33 @@ Table 23 to Paragraph (n)(23)
 | Wolf: No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Nov. 1-Apr. 30.     |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Nov. 1-Apr. 15.     |
 
-(24) *Unit 24.* (i) Unit 24 consists of the Koyukuk River drainage upstream from but not including the Dulbi River drainage:
+(24) *Unit 24.* (i) Unit 24 consists of the Koyukuk River drainage upstream from but not including the Dulbi River drainage: 
 
-(A) Unit 24A consists of the Middle Fork of the Koyukuk River drainage upstream from but not including the Harriet Creek and North Fork Koyukuk River drainages, to the South Fork of the Koyukuk River drainage upstream from Squaw Creek, the Jim River Drainage, the Fish Creek drainage upstream from and including the Bonanza Creek drainage, to the 1,410 ft. peak of the hydrologic divide with the northern fork of the Kanuti Chalatna River at N lat. 66°33.303′ W long. 151°03.637′ and following the unnamed northern fork of the Kanuti Chalatna Creek to the confluence of the southern fork of the Kanuti Chalatna River at N lat. 66°27.090′ W long. 151°23.841′, 4.2 miles SSW (194 degrees true) of Clawanmenka Lake and following the unnamed southern fork of the Kanuti Chalatna Creek to the hydrologic divide with the Kanuti River drainage at N lat. 66°19.789′ W long. 151°10.102′, 3.0 miles ENE (79 degrees true) from the 2,055 ft. peak on that divide, and the Kanuti River drainage upstream from the confluence of an unnamed creek at N lat. 66°13.050′ W long. 151°05.864′, 0.9 miles SSE (155 degrees true) of a 1,980 ft. peak on that divide, and following that unnamed creek to the Unit 24 boundary on the hydrologic divide to the Ray River drainage at N lat. 66°03.827′ W long. 150°49.988′ at the 2,920 ft. peak of that divide.
+(A) Unit 24A consists of the Middle Fork of the Koyukuk River drainage upstream from but not including the Harriet Creek and North Fork Koyukuk River drainages, to the South Fork of the Koyukuk River drainage upstream from Squaw Creek, the Jim River Drainage, the Fish Creek drainage upstream from and including the Bonanza Creek drainage, to the 1,410 ft. peak of the hydrologic divide with the northern fork of the Kanuti Chalatna River at N lat. 66°33.303′ W long. 151°03.637′ and following the unnamed northern fork of the Kanuti Chalatna Creek to the confluence of the southern fork of the Kanuti Chalatna River at N lat. 66°27.090′ W long. 151°23.841′, 4.2 miles SSW (194 degrees true) of Clawanmenka Lake and following the unnamed southern fork of the Kanuti Chalatna Creek to the hydrologic divide with the Kanuti River drainage at N lat. 66°19.789′ W long. 151°10.102′, 3.0 miles ENE (79 degrees true) from the 2,055 ft. peak on that divide, and the Kanuti River drainage upstream from the confluence of an unnamed creek at N lat. 66°13.050′ W long. 151°05.864′, 0.9 miles SSE (155 degrees true) of a 1,980 ft. peak on that divide, and following that unnamed creek to the Unit 24 boundary on the hydrologic divide to the Ray River drainage at N lat. 66°03.827′ W long. 150°49.988′ at the 2,920 ft. peak of that divide. 
 
-(B) Unit 24B consists of the Koyukuk River Drainage upstream from Dog Island to the Subunit 24A boundary.
+(B) Unit 24B consists of the Koyukuk River Drainage upstream from Dog Island to the Subunit 24A boundary. 
 
-(C) Unit 24C consists of the Hogatza River Drainage, the Koyukuk River Drainage upstream from Batza River on the north side of the Koyukuk River and upstream from and including the Indian River Drainage on the south side of the Koyukuk River to the Subunit 24B boundary.
+(C) Unit 24C consists of the Hogatza River Drainage, the Koyukuk River Drainage upstream from Batza River on the north side of the Koyukuk River and upstream from and including the Indian River Drainage on the south side of the Koyukuk River to the Subunit 24B boundary. 
 
-(D) Unit 24D consists of the remainder of Unit 24.
+(D) Unit 24D consists of the remainder of Unit 24. 
 
-(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public land:
+(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public land: 
 
-(A) You may not use firearms, snowmobiles, licensed highway vehicles, or motorized vehicles, except aircraft and boats, in the Dalton Highway Corridor Management Area, which consists of those portions of Units 20, 24, 25, and 26 extending 5 miles from each side of the Dalton Highway from the Yukon River to milepost 300 of the Dalton Highway, except as follows: Residents living within the Dalton Highway Corridor Management Area may use snowmobiles only for the subsistence taking of wildlife. You may use licensed highway vehicles only on designated roads within the Dalton Highway Corridor Management Area. The residents of Alatna, Allakaket, Anaktuvuk Pass, Bettles, Evansville, and Stevens Village, and residents living within the Corridor may use firearms within the Corridor only for subsistence taking of wildlife.
+(A) You may not use firearms, snowmobiles, licensed highway vehicles, or motorized vehicles, except aircraft and boats, in the Dalton Highway Corridor Management Area, which consists of those portions of Units 20, 24, 25, and 26 extending 5 miles from each side of the Dalton Highway from the Yukon River to milepost 300 of the Dalton Highway, except as follows: Residents living within the Dalton Highway Corridor Management Area may use snowmobiles only for the subsistence taking of wildlife. You may use licensed highway vehicles only on designated roads within the Dalton Highway Corridor Management Area. The residents of Alatna, Allakaket, Anaktuvuk Pass, Bettles, Evansville, and Stevens Village, and residents living within the Corridor may use firearms within the Corridor only for subsistence taking of wildlife. 
 
-(B) You may not use aircraft for hunting moose, including transportation of any moose hunter or moose part in the Kanuti Controlled Use Area, which consists of that portion of Unit 24 bounded by a line from the Bettles Field VOR to the east side of Fish Creek Lake, to Old Dummy Lake, to the south end of Lake Todatonten (including all waters of these lakes), to the northernmost headwaters of Siruk Creek, to the highest peak of Double Point Mountain, then back to the Bettles Field VOR; however, this does not apply to transportation of a moose hunter or moose part by aircraft between publicly owned airports in the controlled use area or between a publicly owned airport within the area and points outside the area.
+(B) You may not use aircraft for hunting moose, including transportation of any moose hunter or moose part in the Kanuti Controlled Use Area, which consists of that portion of Unit 24 bounded by a line from the Bettles Field VOR to the east side of Fish Creek Lake, to Old Dummy Lake, to the south end of Lake Todatonten (including all waters of these lakes), to the northernmost headwaters of Siruk Creek, to the highest peak of Double Point Mountain, then back to the Bettles Field VOR; however, this does not apply to transportation of a moose hunter or moose part by aircraft between publicly owned airports in the controlled use area or between a publicly owned airport within the area and points outside the area. 
 
-(C) You may not use aircraft for hunting moose, including transportation of any moose hunter or moose part in the Koyukuk Controlled Use Area, which consists of those portions of Units 21 and 24 bounded by a line from the north bank of the Yukon River at Koyukuk at 64°52.58′ N lat., 157°43.10′ W long., then northerly to the confluences of the Honhosa and Kateel Rivers at 65°28.42′ N lat., 157°44.89′ W long., then northeasterly to the confluences of Billy Hawk Creek and the Huslia River (65°57 N lat., 156°41 W long.) at 65°56.66′ N lat., 156°40.81′ W long., then easterly to the confluence of the forks of the Dakli River at 66°02.56′ N lat., 156°12.71′ W long., then easterly to the confluence of McLanes Creek and the Hogatza River at 66°00.31′ N lat., 155°18.57′ W long., then southwesterly to the crest of Hochandochtla Mountain at 65°31.87′ N lat., 154°52.18′ W long., then southwest to the mouth of Cottonwood Creek at 65°13.00′ N lat., 156° 06.43′ W long., then southwest to Bishop Rock (Yistletaw) at 64° 49.35′ N. lat., 157°21.73′ W long., then westerly along the north bank of the Yukon River (including Koyukuk Island) to the point of beginning. However, this does not apply to transportation of a moose hunter or moose part by aircraft between publicly owned airports in the controlled use area or between a publicly owned airport within the area and points outside the area. All hunters on the Koyukuk River passing the ADF&G-operated check station at Ella's Cabin (15 miles upstream from the Yukon on the Koyukuk River) are required to stop and report to ADF&G personnel at the check station.
+(C) You may not use aircraft for hunting moose, including transportation of any moose hunter or moose part in the Koyukuk Controlled Use Area, which consists of those portions of Units 21 and 24 bounded by a line from the north bank of the Yukon River at Koyukuk at 64°52.58′ N lat., 157°43.10′ W long., then northerly to the confluences of the Honhosa and Kateel Rivers at 65°28.42′ N lat., 157°44.89′ W long., then northeasterly to the confluences of Billy Hawk Creek and the Huslia River (65°57 N lat., 156°41 W long.) at 65°56.66′ N lat., 156°40.81′ W long., then easterly to the confluence of the forks of the Dakli River at 66°02.56′ N lat., 156°12.71′ W long., then easterly to the confluence of McLanes Creek and the Hogatza River at 66°00.31′ N lat., 155°18.57′ W long., then southwesterly to the crest of Hochandochtla Mountain at 65°31.87′ N lat., 154°52.18′ W long., then southwest to the mouth of Cottonwood Creek at 65°13.00′ N lat., 156° 06.43′ W long., then southwest to Bishop Rock (Yistletaw) at 64° 49.35′ N. lat., 157°21.73′ W long., then westerly along the north bank of the Yukon River (including Koyukuk Island) to the point of beginning. However, this does not apply to transportation of a moose hunter or moose part by aircraft between publicly owned airports in the controlled use area or between a publicly owned airport within the area and points outside the area. All hunters on the Koyukuk River passing the ADF&G-operated check station at Ella's Cabin (15 miles upstream from the Yukon on the Koyukuk River) are required to stop and report to ADF&G personnel at the check station. 
 
-(iii) You may hunt brown bear by State registration permit in lieu of a resident tag if you have obtained a State registration permit prior to hunting. You may not use aircraft in any manner for brown bear hunting under the authority of a brown bear State registration permit, including transportation of hunters, bears, or parts of bears. However, this prohibition does not apply to transportation of bear hunters or bear parts by regularly scheduled flights to and between communities by carriers that normally provide scheduled service to this area, nor does it apply to transportation of aircraft to or between publicly owned airports.
+(iii) You may hunt brown bear by State registration permit in lieu of a resident tag if you have obtained a State registration permit prior to hunting. You may not use aircraft in any manner for brown bear hunting under the authority of a brown bear State registration permit, including transportation of hunters, bears, or parts of bears. However, this prohibition does not apply to transportation of bear hunters or bear parts by regularly scheduled flights to and between communities by carriers that normally provide scheduled service to this area, nor does it apply to transportation of aircraft to or between publicly owned airports. 
 
-(iv) Unit-specific regulations:
+(iv) Unit-specific regulations: 
 
-(A) You may use bait to hunt black bear between April 15 and June 30; and in the Koyukuk Controlled Use Area, you may also use bait to hunt black bear Sep. 1-25.
+(A) You may use bait to hunt black bear between April 15 and June 30; and in the Koyukuk Controlled Use Area, you may also use bait to hunt black bear Sep. 1-25. 
 
-(B) Arctic fox, incidentally taken with a trap or snare intended for red fox, may be used for subsistence purposes.
+(B) Arctic fox, incidentally taken with a trap or snare intended for red fox, may be used for subsistence purposes. 
 
-(C) If you are a resident of Units 24A, 24B, or 24C, during the dates of Oct. 15-Apr. 30, you may use an artificial light when taking a black bear, including a sow accompanied by cub(s), at a den site within the portions of Gates of the Arctic National Park and Preserve that are within Units 24A, 24B, or 24C.
+(C) If you are a resident of Units 24A, 24B, or 24C, during the dates of Oct. 15-Apr. 30, you may use an artificial light when taking a black bear, including a sow accompanied by cub(s), at a den site within the portions of Gates of the Arctic National Park and Preserve that are within Units 24A, 24B, or 24C. 
 
 Table 24 to Paragraph (n)(24)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Open season                       |
@@ -1766,37 +1766,37 @@ Table 24 to Paragraph (n)(24)
 | Wolf: No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Nov. 1-Apr. 30.                   |
 | Wolverine: No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Nov. 1-Mar. 31.                   |
 
-(25) *Unit 25.* (i) Unit 25 consists of the Yukon River drainage upstream from but not including the Hamlin Creek drainage, and excluding drainages into the south bank of the Yukon River upstream from the Charley River:
+(25) *Unit 25.* (i) Unit 25 consists of the Yukon River drainage upstream from but not including the Hamlin Creek drainage, and excluding drainages into the south bank of the Yukon River upstream from the Charley River: 
 
-(A) Unit 25A consists of the Hodzana River drainage upstream from the Narrows, the Chandalar River drainage upstream from and including the East Fork drainage, the Christian River drainage upstream from Christian, the Sheenjek River drainage upstream from and including the Thluichohnjik Creek, the Coleen River drainage, and the Old Crow River drainage.
+(A) Unit 25A consists of the Hodzana River drainage upstream from the Narrows, the Chandalar River drainage upstream from and including the East Fork drainage, the Christian River drainage upstream from Christian, the Sheenjek River drainage upstream from and including the Thluichohnjik Creek, the Coleen River drainage, and the Old Crow River drainage. 
 
-(B) Unit 25B consists of the Little Black River drainage upstream from but not including the Big Creek drainage, the Black River drainage upstream from and including the Salmon Fork drainage, the Porcupine River drainage upstream from the confluence of the Coleen and Porcupine Rivers, and drainages into the north bank of the Yukon River upstream from Circle, including the islands in the Yukon River.
+(B) Unit 25B consists of the Little Black River drainage upstream from but not including the Big Creek drainage, the Black River drainage upstream from and including the Salmon Fork drainage, the Porcupine River drainage upstream from the confluence of the Coleen and Porcupine Rivers, and drainages into the north bank of the Yukon River upstream from Circle, including the islands in the Yukon River. 
 
-(C) Unit 25C consists of drainages into the south bank of the Yukon River upstream from Circle to the Subunit 20E boundary, the Birch Creek drainage upstream from the Steese Highway bridge (milepost 147), the Preacher Creek drainage upstream from and including the Rock Creek drainage, and the Beaver Creek drainage upstream from and including the Moose Creek drainage.
+(C) Unit 25C consists of drainages into the south bank of the Yukon River upstream from Circle to the Subunit 20E boundary, the Birch Creek drainage upstream from the Steese Highway bridge (milepost 147), the Preacher Creek drainage upstream from and including the Rock Creek drainage, and the Beaver Creek drainage upstream from and including the Moose Creek drainage. 
 
-(D) Unit 25D consists of the remainder of Unit 25.
+(D) Unit 25D consists of the remainder of Unit 25. 
 
-(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public land:
+(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public land: 
 
-(A) You may not use firearms, snowmobiles, licensed highway vehicles or motorized vehicles, except aircraft and boats in the Dalton Highway Corridor Management Area, which consists of those portions of Units 20, 24, 25, and 26 extending 5 miles from each side of the Dalton Highway from the Yukon River to milepost 300 of the Dalton Highway, except as follows: Residents living within the Dalton Highway Corridor Management Area may use snowmobiles only for the subsistence taking of wildlife. You may use licensed highway vehicles only on designated roads within the Dalton Highway Corridor Management Area. The residents of Alatna, Allakaket, Anaktuvuk Pass, Bettles, Evansville, and Stevens Village, and residents living within the Corridor may use firearms within the Corridor only for subsistence taking of wildlife.
+(A) You may not use firearms, snowmobiles, licensed highway vehicles or motorized vehicles, except aircraft and boats in the Dalton Highway Corridor Management Area, which consists of those portions of Units 20, 24, 25, and 26 extending 5 miles from each side of the Dalton Highway from the Yukon River to milepost 300 of the Dalton Highway, except as follows: Residents living within the Dalton Highway Corridor Management Area may use snowmobiles only for the subsistence taking of wildlife. You may use licensed highway vehicles only on designated roads within the Dalton Highway Corridor Management Area. The residents of Alatna, Allakaket, Anaktuvuk Pass, Bettles, Evansville, and Stevens Village, and residents living within the Corridor may use firearms within the Corridor only for subsistence taking of wildlife. 
 
-(B) The Arctic Village Sheep Management Area consists of that portion of Unit 25A north and west of Arctic Village, which is bounded on the east by the East Fork Chandalar River beginning at the confluence of Red Sheep Creek and proceeding southwesterly downstream past Arctic Village to the confluence with Crow Nest Creek, continuing up Crow Nest Creek, through Portage Lake, to its confluence with the Junjik River; then down the Junjik River past Timber Lake and a larger tributary, to a major, unnamed tributary, northwesterly, for approximately 6 miles where the stream forks into two roughly equal drainages; the boundary follows the easternmost fork, proceeding almost due north to the headwaters and intersects the Continental Divide; the boundary then follows the Continental Divide easterly, through Carter Pass, then easterly and northeasterly approximately 62 miles along the divide to the headwaters of the most northerly tributary of Red Sheep Creek then follows southerly along the divide designating the eastern extreme of the Red Sheep Creek drainage then to the confluence of Red Sheep Creek and the East Fork Chandalar River.
+(B) The Arctic Village Sheep Management Area consists of that portion of Unit 25A north and west of Arctic Village, which is bounded on the east by the East Fork Chandalar River beginning at the confluence of Red Sheep Creek and proceeding southwesterly downstream past Arctic Village to the confluence with Crow Nest Creek, continuing up Crow Nest Creek, through Portage Lake, to its confluence with the Junjik River; then down the Junjik River past Timber Lake and a larger tributary, to a major, unnamed tributary, northwesterly, for approximately 6 miles where the stream forks into two roughly equal drainages; the boundary follows the easternmost fork, proceeding almost due north to the headwaters and intersects the Continental Divide; the boundary then follows the Continental Divide easterly, through Carter Pass, then easterly and northeasterly approximately 62 miles along the divide to the headwaters of the most northerly tributary of Red Sheep Creek then follows southerly along the divide designating the eastern extreme of the Red Sheep Creek drainage then to the confluence of Red Sheep Creek and the East Fork Chandalar River. 
 
-(iii) Unit-specific regulations:
+(iii) Unit-specific regulations: 
 
-(A) You may use bait to hunt black bear between April 15 and June 30 and between August 1 and September 25; in Unit 25D you may use bait to hunt brown bear between April 15 and June 30 and between August 1 and September 25; you may use bait to hunt wolves on FWS and BLM lands.
+(A) You may use bait to hunt black bear between April 15 and June 30 and between August 1 and September 25; in Unit 25D you may use bait to hunt brown bear between April 15 and June 30 and between August 1 and September 25; you may use bait to hunt wolves on FWS and BLM lands. 
 
-(B) You may take caribou and moose from a boat moving under power in Unit 25.
+(B) You may take caribou and moose from a boat moving under power in Unit 25. 
 
-(C) The taking of bull moose outside the seasons provided in this part for food in memorial potlatches and traditional cultural events is authorized in Unit 25D west provided that:
+(C) The taking of bull moose outside the seasons provided in this part for food in memorial potlatches and traditional cultural events is authorized in Unit 25D west provided that: 
 
-(*1*) The person organizing the religious ceremony or cultural event contacts the Refuge Manager, Yukon Flats National Wildlife Refuge, prior to taking or attempting to take bull moose and provides to the Refuge Manager the name of the decedent, the nature of the ceremony or cultural event, number to be taken, and the general area in which the taking will occur.
+(*1*) The person organizing the religious ceremony or cultural event contacts the Refuge Manager, Yukon Flats National Wildlife Refuge, prior to taking or attempting to take bull moose and provides to the Refuge Manager the name of the decedent, the nature of the ceremony or cultural event, number to be taken, and the general area in which the taking will occur. 
 
-(*2*) Each person who takes a bull moose under this section must submit a written report to the Refuge Manager, Yukon Flats National Wildlife Refuge, not more than 15 days after the harvest specifying the harvester's name and address, and the date(s) and location(s) of the taking(s).
+(*2*) Each person who takes a bull moose under this section must submit a written report to the Refuge Manager, Yukon Flats National Wildlife Refuge, not more than 15 days after the harvest specifying the harvester's name and address, and the date(s) and location(s) of the taking(s). 
 
-(*3*) No permit or harvest ticket is required for taking under this section; however, the harvester must be an Alaska rural resident with customary and traditional use in Unit 25D west.
+(*3*) No permit or harvest ticket is required for taking under this section; however, the harvester must be an Alaska rural resident with customary and traditional use in Unit 25D west. 
 
-(*4*) Any moose taken under this provision counts against the annual quota of 60 bulls.
+(*4*) Any moose taken under this provision counts against the annual quota of 60 bulls. 
 
 Table 25 to Paragraph (n)(25)
 | Harvest limits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Open season                                                                                                            |
@@ -1872,31 +1872,31 @@ Table 25 to Paragraph (n)(25)
 | Unit 25C—No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Nov. 1-Mar. 31.                                                                                                        |
 | Unit 25, remainder—No limit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Nov. 1-Mar. 31.                                                                                                        |
 
-(26) *Unit 26.* (i) Unit 26 consists of Arctic Ocean drainages between Cape Lisburne and the Alaska-Canada border, including the Firth River drainage within Alaska:
+(26) *Unit 26.* (i) Unit 26 consists of Arctic Ocean drainages between Cape Lisburne and the Alaska-Canada border, including the Firth River drainage within Alaska: 
 
-(A) Unit 26A consists of that portion of Unit 26 lying west of the Itkillik River drainage and west of the east bank of the Colville River between the mouth of the Itkillik River and the Arctic Ocean.
+(A) Unit 26A consists of that portion of Unit 26 lying west of the Itkillik River drainage and west of the east bank of the Colville River between the mouth of the Itkillik River and the Arctic Ocean. 
 
-(B) Unit 26B consists of that portion of Unit 26 east of Unit 26A, west of the west bank of the Canning River and west of the west bank of the Marsh Fork of the Canning River.
+(B) Unit 26B consists of that portion of Unit 26 east of Unit 26A, west of the west bank of the Canning River and west of the west bank of the Marsh Fork of the Canning River. 
 
-(C) Unit 26C consists of the remainder of Unit 26.
+(C) Unit 26C consists of the remainder of Unit 26. 
 
-(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public land:
+(ii) In the following areas, the taking of wildlife for subsistence uses is prohibited or restricted on public land: 
 
-(A) You may not use aircraft in any manner for moose hunting, including transportation of moose hunters or parts of moose during the periods July. 1-Sep. 14 and Jan. 1-Mar. 31 in Unit 26A; however, this does not apply to transportation of moose hunters, their gear, or moose parts by aircraft between publicly owned airports.
+(A) You may not use aircraft in any manner for moose hunting, including transportation of moose hunters or parts of moose during the periods July. 1-Sep. 14 and Jan. 1-Mar. 31 in Unit 26A; however, this does not apply to transportation of moose hunters, their gear, or moose parts by aircraft between publicly owned airports. 
 
-(B) You may not use firearms, snowmobiles, licensed highway vehicles or motorized vehicles, except aircraft and boats, in the Dalton Highway Corridor Management Area, which consists of those portions of Units 20, 24, 25, and 26 extending 5 miles from each side of the Dalton Highway from the Yukon River to milepost 300 of the Dalton Highway, except as follows: Residents living within the Dalton Highway Corridor Management Area may use snowmobiles only for the subsistence taking of wildlife. You may use licensed highway vehicles only on designated roads within the Dalton Highway Corridor Management Area. The residents of Alatna, Allakaket, Anaktuvuk Pass, Bettles, Evansville, Stevens Village, and residents living within the Corridor may use firearms within the Corridor only for subsistence taking of wildlife.
+(B) You may not use firearms, snowmobiles, licensed highway vehicles or motorized vehicles, except aircraft and boats, in the Dalton Highway Corridor Management Area, which consists of those portions of Units 20, 24, 25, and 26 extending 5 miles from each side of the Dalton Highway from the Yukon River to milepost 300 of the Dalton Highway, except as follows: Residents living within the Dalton Highway Corridor Management Area may use snowmobiles only for the subsistence taking of wildlife. You may use licensed highway vehicles only on designated roads within the Dalton Highway Corridor Management Area. The residents of Alatna, Allakaket, Anaktuvuk Pass, Bettles, Evansville, Stevens Village, and residents living within the Corridor may use firearms within the Corridor only for subsistence taking of wildlife. 
 
-(iii) You may not use aircraft in any manner for brown bear hunting, including transportation of hunters, bears or parts of bears. However, this does not apply to transportation of bear hunters or bear parts by regularly scheduled flights to and between communities by carriers that normally provide scheduled service to this area, nor does it apply to transportation of aircraft to or between publicly owned airports.
+(iii) You may not use aircraft in any manner for brown bear hunting, including transportation of hunters, bears or parts of bears. However, this does not apply to transportation of bear hunters or bear parts by regularly scheduled flights to and between communities by carriers that normally provide scheduled service to this area, nor does it apply to transportation of aircraft to or between publicly owned airports. 
 
-(iv) Unit-specific regulations:
+(iv) Unit-specific regulations: 
 
-(A) You may take caribou from a boat moving under power in Unit 26.
+(A) You may take caribou from a boat moving under power in Unit 26. 
 
-(B) In addition to other restrictions on method of take found in this section, you may also take swimming caribou with a firearm using rimfire cartridges.
+(B) In addition to other restrictions on method of take found in this section, you may also take swimming caribou with a firearm using rimfire cartridges. 
 
-(C) In Kaktovik, a federally qualified subsistence user (recipient) may designate another federally qualified subsistence user to take sheep or musk ox on his or her behalf. The designated hunter must obtain a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for any number of recipients but may have no more than two harvest limits in his/her possession at any one time.
+(C) In Kaktovik, a federally qualified subsistence user (recipient) may designate another federally qualified subsistence user to take sheep or musk ox on his or her behalf. The designated hunter must obtain a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for any number of recipients but may have no more than two harvest limits in his/her possession at any one time. 
 
-(D) For the DeLong Mountain sheep hunts, a federally qualified subsistence user (recipient) may designate another federally qualified subsistence user to take sheep on his or her behalf. The designated hunter must obtain a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for only one recipient in the course of a season and may have both his and the recipient's harvest limits in his/her possession at the same time.
+(D) For the DeLong Mountain sheep hunts, a federally qualified subsistence user (recipient) may designate another federally qualified subsistence user to take sheep on his or her behalf. The designated hunter must obtain a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for only one recipient in the course of a season and may have both his and the recipient's harvest limits in his/her possession at the same time. 
 
 Table 26 to Paragraph (n)(26)
 | Harvest limits                                                                                                                                                                                                                                                                  | Open season                               |

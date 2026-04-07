@@ -1,32 +1,32 @@
 ##### § 260.61 Sampling plans and procedures for determining lot compliance.
 
-(a) Except as otherwise provided for in this section in connection with in-plant inspection and unless otherwise approved by the Secretary, samples shall be selected from each lot in the exact number of sample units indicated for the lot size in the applicable single sampling plan or, at the discretion of the inspection service, any comparable multiple sampling plan: *Provided,* That at the discretion of the inspection service the number of sample units selected may be increased to the exact number of sample units indicated for any one of the larger sample sizes provided for in the appropriate plans.
+(a) Except as otherwise provided for in this section in connection with in-plant inspection and unless otherwise approved by the Secretary, samples shall be selected from each lot in the exact number of sample units indicated for the lot size in the applicable single sampling plan or, at the discretion of the inspection service, any comparable multiple sampling plan: *Provided,* That at the discretion of the inspection service the number of sample units selected may be increased to the exact number of sample units indicated for any one of the larger sample sizes provided for in the appropriate plans. 
 
-(b) Under the single sampling plans with respect to any specified requirement:
+(b) Under the single sampling plans with respect to any specified requirement: 
 
-(1) If the number of deviants (as defined in connection with the specific requirements) in the sample does not exceed the acceptance number prescribed for the sample size the lot meets the requirement;
+(1) If the number of deviants (as defined in connection with the specific requirements) in the sample does not exceed the acceptance number prescribed for the sample size the lot meets the requirement; 
 
-(2) If the number of deviants (as defined in connection with the specific requirement) in the sample exceeds the acceptance number prescribed for the sample size the lot fails the requirement.
+(2) If the number of deviants (as defined in connection with the specific requirement) in the sample exceeds the acceptance number prescribed for the sample size the lot fails the requirement. 
 
-(c) Under the multiple sampling plans inspection commences with the smallest sample size indicated under the appropriate plan and with respect to any specified requirement:
+(c) Under the multiple sampling plans inspection commences with the smallest sample size indicated under the appropriate plan and with respect to any specified requirement: 
 
-(1) If the number of deviants (as defined in connection with the specific requirement) in the sample being considered does not exceed the acceptance number prescribed for that sample size the lot meets the requirement;
+(1) If the number of deviants (as defined in connection with the specific requirement) in the sample being considered does not exceed the acceptance number prescribed for that sample size the lot meets the requirement; 
 
-(2) If the number of deviants (as defined in connection with the specific requirement) in the sample being considered equals or exceeds the rejection number prescribed for that sample size the lot fails the requirement; or
+(2) If the number of deviants (as defined in connection with the specific requirement) in the sample being considered equals or exceeds the rejection number prescribed for that sample size the lot fails the requirement; or 
 
-(3) If the number of deviants (as defined in connection with the specific requirement) in the sample being considered falls between the acceptance and rejection numbers of the plan, additional sample units are added to the sample so that the sample thus cumulated equals the next larger cumulative sample size in the plan. It may then be determined that the lot meets or fails the specific requirement by considering the cumulative sample and applying the procedures outlined in paragraphs (c)(1) and (2) of this section or by considering successively larger samples cumulated in the same manner until the lot meets or fails the specific requirement.
+(3) If the number of deviants (as defined in connection with the specific requirement) in the sample being considered falls between the acceptance and rejection numbers of the plan, additional sample units are added to the sample so that the sample thus cumulated equals the next larger cumulative sample size in the plan. It may then be determined that the lot meets or fails the specific requirement by considering the cumulative sample and applying the procedures outlined in paragraphs (c)(1) and (2) of this section or by considering successively larger samples cumulated in the same manner until the lot meets or fails the specific requirement. 
 
-(d) If in the conduct of any type of in-plant inspection the sample is examined before the lot size is known and the number of sample units exceeds the prescribed sample size for such lot but does not equal any of the prescribed larger sample sizes the lot may be deemed to meet or fail a specific requirement in accordance with the following procedure:
+(d) If in the conduct of any type of in-plant inspection the sample is examined before the lot size is known and the number of sample units exceeds the prescribed sample size for such lot but does not equal any of the prescribed larger sample sizes the lot may be deemed to meet or fail a specific requirement in accordance with the following procedure: 
 
-(1) If the number of deviants (as defined in connection with the specific requirement) in the nonprescribed sample does not exceed the acceptance number of the next smaller sample size the lot meets the requirements;
+(1) If the number of deviants (as defined in connection with the specific requirement) in the nonprescribed sample does not exceed the acceptance number of the next smaller sample size the lot meets the requirements; 
 
-(2) If the number of deviants (as defined in connection with the specific requirement) in the nonprescribed sample equals the acceptance number prescribed for the next larger sample size additional sample units shall be selected to increase the sample to the next larger prescribed sample size;
+(2) If the number of deviants (as defined in connection with the specific requirement) in the nonprescribed sample equals the acceptance number prescribed for the next larger sample size additional sample units shall be selected to increase the sample to the next larger prescribed sample size; 
 
-(3) If the number of deviants (as defined in connection with the specific requirement) in the nonprescribed sample exceeds the acceptance number prescribed for the next larger sample size the lot fails the requirement.
+(3) If the number of deviants (as defined in connection with the specific requirement) in the nonprescribed sample exceeds the acceptance number prescribed for the next larger sample size the lot fails the requirement. 
 
-(e) In the event that the lot compliance determination provisions of a standard or specification are based on the number of specified deviations instead of deviants the procedures set forth in this section may be applied by substituting the word “deviation” for the word “deviant” wherever it appears.
+(e) In the event that the lot compliance determination provisions of a standard or specification are based on the number of specified deviations instead of deviants the procedures set forth in this section may be applied by substituting the word “deviation” for the word “deviant” wherever it appears. 
 
-(f) Sampling plans referred to in this section are those contained in Tables I, II, III, IV, V, and VI which follow or any other plans which are applicable. For processed products not included in these tables, the minimum sample size shall be the exact number of sample units prescribed in the table, container group, and lot size that, as determined by the inspector, most closely resembles the product, type, container size and amount of product to be samples.
+(f) Sampling plans referred to in this section are those contained in Tables I, II, III, IV, V, and VI which follow or any other plans which are applicable. For processed products not included in these tables, the minimum sample size shall be the exact number of sample units prescribed in the table, container group, and lot size that, as determined by the inspector, most closely resembles the product, type, container size and amount of product to be samples. 
 
 Single Sampling Plans and Acceptance Levels
 

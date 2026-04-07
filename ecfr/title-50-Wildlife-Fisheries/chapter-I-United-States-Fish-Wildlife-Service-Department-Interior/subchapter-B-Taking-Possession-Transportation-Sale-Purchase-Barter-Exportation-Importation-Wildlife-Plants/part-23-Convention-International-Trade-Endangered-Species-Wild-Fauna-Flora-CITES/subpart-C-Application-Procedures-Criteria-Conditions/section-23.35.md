@@ -1,8 +1,8 @@
 ##### § 23.35 What are the requirements for an import permit?
 
-(a) *Purpose.* Article III(3) of the Treaty sets out the conditions under which a Management Authority can issue an import permit.
+(a) *Purpose.* Article III(3) of the Treaty sets out the conditions under which a Management Authority can issue an import permit. 
 
-(b) *U.S. application forms.* Complete the appropriate form for the proposed activity and submit it to the U.S. Management Authority:
+(b) *U.S. application forms.* Complete the appropriate form for the proposed activity and submit it to the U.S. Management Authority: 
 
 | Type of application for an import permit for an Appendix-I specimen                                                                                                                             | Form no.                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -11,7 +11,7 @@
 | (3) Marine Mammal Protection Act and CITES:   Marine Mammals                                                                                                                                    | 3-200-43                                     |
 | (4) Wild Bird Conservation Act and CITES:   Personal Pet Bird   Under an Approved Cooperative Breeding Program   Scientific Research or Zoological Breeding/Display                             | 3-200-46   3-200-48   3-200-47               |
 
-(c) *Criteria.* The criteria in this paragraph (c) apply to the issuance and acceptance of U.S. and foreign import permits. When applying for a U.S. import permit, you must provide sufficient information for us to find that your proposed activity meets all of the following criteria:
+(c) *Criteria.* The criteria in this paragraph (c) apply to the issuance and acceptance of U.S. and foreign import permits. When applying for a U.S. import permit, you must provide sufficient information for us to find that your proposed activity meets all of the following criteria: 
 
 | Criteria for an import permit for an Appendix-I specimen                                                                          | Section |
 | --------------------------------------------------------------------------------------------------------------------------------- | ------- |
@@ -20,12 +20,12 @@
 | (3) The recipients are suitably equipped to house and care for any live wildlife or plant to be imported.                         | 23.65   |
 | (4) The scientific name of the species is the standard nomenclature in the CITES Appendices or the references adopted by the CoP. | 23.23   |
 
-(d) *U.S. standard conditions.* You must meet all of the provisions on use after import in § 23.55 and the standard conditions in § 23.56.
+(d) *U.S. standard conditions.* You must meet all of the provisions on use after import in § 23.55 and the standard conditions in § 23.56. 
 
-(e) *Prior issuance of an import permit.* For Appendix-I specimens, the Management Authority of the exporting country may:
+(e) *Prior issuance of an import permit.* For Appendix-I specimens, the Management Authority of the exporting country may: 
 
-(1) Issue an export permit for live or dead specimens or a re-export certificate for live specimens only after the Management Authority of the importing country has either issued an import permit or confirmed in writing that an import permit will be issued.
+(1) Issue an export permit for live or dead specimens or a re-export certificate for live specimens only after the Management Authority of the importing country has either issued an import permit or confirmed in writing that an import permit will be issued. 
 
-(2) Accept oral confirmation from the Management Authority of the importing country that an import permit will be issued in an emergency situation where the life or health of the specimen is threatened and no means of written communication is possible.
+(2) Accept oral confirmation from the Management Authority of the importing country that an import permit will be issued in an emergency situation where the life or health of the specimen is threatened and no means of written communication is possible. 
 
 (3) Issue a re-export certificate for a dead specimen without confirmation that the import permit has been issued.
