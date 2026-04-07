@@ -1,6 +1,6 @@
 ##### § 301.53-7 Assembly and inspection of regulated articles.
 
-(a) Persons requiring certification or other services must request the services from an inspector 4/> at least 48 hours before the services are needed.
+(a) Persons requiring certification or other services must request the services from an inspector 4 at least 48 hours before the services are needed.
 
 4 See footnote 1 to § 301.53-5.
 
