@@ -2,7 +2,7 @@
 
 (a) *Distilled spirits at distilled spirits plants.* Procedural instructions in respect of claims for remission, abatement, credit, or refund of tax on spirits (including denatured spirits) lost or destroyed on or lost in transit to, or on spirits returned to, the premises of a distilled spirits plant are contained in Part 19 of Title 27 CFR. It is not necessary to file a claim for credit of tax on taxpaid samples taken by appropriate TTB officers from distilled spirits plants, as the appropriate TTB officer will allow credit, without claim, for tax on such samples.
 
-(b) *Specially denatured spirits.* Procedural instructions in respect of claims for allowance of loss on specially denatured spirits lost on the premises of a bonded dealer or user, or while in transit to such premises, are contained in part 20 of title 27 CFR.
+(b) *Specially denatured spirits.* Procedural instructions in respect of claims for allowance of loss on specially denatured spirits lost on the premises of a dealer or user, or while in transit to such premises, are contained in part 20 of title 27 CFR.
 
 (c) *Tax-free alcohol.* Procedural instructions in respect of claims for allowance of loss on tax-free alcohol lost on the premises of a qualified user, or while in transit to such premises, are contained in part 22 of title 27 CFR.
 
@@ -22,7 +22,7 @@
 
 (2) Remission of tax on distilled spirits, specially denatured spirits, wines, or beer, withdrawn without payment or free of tax and lost during transportation to the port of export, customs bonded warehouse (distilled spirits and wine only), manufacturing bonded warehouse, vessel or aircraft, or foreign-trade zone, as applicable, are contained in part 28 of title 27 CFR. Procedural instructions as to claims respecting export with benefit of drawback of tax on domestic distilled spirits products containing spirits from Puerto Rico or the Virgin Islands are contained in parts 19 and 28 of title 27 CFR.
 
-(g) *Miscellaneous.* Procedural instructions are contained in 27 CFR Part 70, subparts F and G in respect of claims for -
+(g) *Miscellaneous.* Procedural instructions are contained in 27 CFR Part 70, subparts F and G in respect of claims for—
 
 (1) Refund or credit of tax on distilled spirits, wines or beer where such refund or credit is claimed on the grounds that tax was assessed or collected erroneously, illegally, without authority, or in any manner wrongfully, or on the grounds that such amount was excessive, and where such refund or credit is subject to the limitations imposed by section 6423 of the Internal Revenue Code.
 

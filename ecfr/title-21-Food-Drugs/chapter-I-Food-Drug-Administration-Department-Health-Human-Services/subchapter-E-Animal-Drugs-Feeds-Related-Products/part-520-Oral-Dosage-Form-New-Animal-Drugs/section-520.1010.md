@@ -20,19 +20,19 @@
 
 (d) *Conditions of use.* It is used as follows:
 
-(1) *Cattle* - (i) *Amount.* 1 to 2 mg per pound (/lb) body weight using powder, or one 2-g bolus per animal, per day.
+(1) *Cattle*—(i) *Amount.* 1 to 2 mg per pound (/lb) body weight using powder, or one 2-g bolus per animal, per day.
 
 (ii) *Indications for use.* For treatment of physiological parturient edema of the mammary gland and associated structures.
 
 (iii) *Limitations.* Treatment not to exceed 48 hours post-parturition. Milk taken during treatment and for 48 hours after the last treatment must not be used for food. Cattle must not be slaughtered for food within 48 hours following last treatment.
 
-(2) *Dogs* - (i) *Amount.* 1 to 2 mg/lb body weight, once or twice daily.
+(2) *Dogs*—(i) *Amount.* 1 to 2 mg/lb body weight, once or twice daily.
 
-(ii) *Indications for use* - (A) For treatment of edema (pulmonary congestion, ascites) associated with cardiac insufficiency and acute noninflammatory tissue edema.
+(ii) *Indications for use.* (A) For treatment of edema (pulmonary congestion, ascites) associated with cardiac insufficiency and acute noninflammatory tissue edema.
 
 (B) For treatment of edema (pulmonary congestion, ascites) associated with cardiac insufficiency.
 
-(3) *Cats* - (i) *Amount.* 1 to 2 mg/lb body weight, once or twice daily.
+(3) *Cats*—(i) *Amount.* 1 to 2 mg/lb body weight, once or twice daily.
 
 (ii) *Indications for use.* For treatment of edema (pulmonary congestion, ascites) associated with cardiac insufficiency and acute noninflammatory tissue edema.
 

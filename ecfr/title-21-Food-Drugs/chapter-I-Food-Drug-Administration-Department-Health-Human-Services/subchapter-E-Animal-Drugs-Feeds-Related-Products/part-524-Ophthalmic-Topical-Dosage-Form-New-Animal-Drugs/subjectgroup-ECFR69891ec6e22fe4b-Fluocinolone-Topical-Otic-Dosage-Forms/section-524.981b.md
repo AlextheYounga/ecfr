@@ -4,9 +4,9 @@
 
 (b) *Sponsor.* See No. 099207 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use in dogs* - (1) *Amount* - A small amount of solution is applied to the affected area two or three times daily.
+(c) *Conditions of use in dogs*—(1) *Amount.* A small amount of solution is applied to the affected area two or three times daily.
 
-(2) *Indications for use* - (i) *Dogs.* For the relief of pruritis and inflammation associated with otitis externa and certain superficial acute and chronic dermatoses.
+(2) *Indications for use*—(i) *Dogs.* For the relief of pruritis and inflammation associated with otitis externa and certain superficial acute and chronic dermatoses.
 
 (ii) *Cats.* For the relief of pruritis and inflammation associated with acute otitis externa and certain superficial acute and chronic dermatoses.
 

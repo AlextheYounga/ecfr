@@ -20,7 +20,7 @@
 
 (1) *Cattle* - (i) *Amount.* 8 milligrams per kilogram (mg/kg) body weight as a drench.
 
-(ii) *Indications for use* - (A) Effective against the following nematode infections: Stomach worms (*Haemonchus, Trichostrongylus, Ostertagia*); intestinal worms (*Trichostrongylus, Cooperia, Nematodirus, Bunostomum, Oesophagostomum*); and lungworms (*Dictyocaulus*).
+(ii) *Indications for use.* (A) Effective against the following nematode infections: Stomach worms (*Haemonchus, Trichostrongylus, Ostertagia*); intestinal worms (*Trichostrongylus, Cooperia, Nematodirus, Bunostomum, Oesophagostomum*); and lungworms (*Dictyocaulus*).
 
 (B) Effective against the following adult nematode infections: Stomach worms (*Haemonchus placei, Ostertagia ostertagi, Trichostrongylus axei*); intestinal worms (*T. longispicularis, Cooperia oncophora, C. punctata, Nematodirus spathiger, Bunostomum phlebotomum, Oesophagostomum radiatum*); and lungworms (*Dictyocaulus viviparus*).
 
@@ -28,7 +28,7 @@
 
 (2) *Sheep* - (i) *Amount.* 8 mg/kg body weight as a drench.
 
-(ii) *Indications for use* - (A) Effective against the following nematode infections: Stomach worms (*Haemonchus, Trichostrongylus, Ostertagia*); intestinal worms (*Trichostrongylus, Cooperia, Nematodirus, Bunostomum, Oesophagostomum, Chabertia*); and lungworms (*Dictyocaulus*).
+(ii) *Indications for use.* (A) Effective against the following nematode infections: Stomach worms (*Haemonchus, Trichostrongylus, Ostertagia*); intestinal worms (*Trichostrongylus, Cooperia, Nematodirus, Bunostomum, Oesophagostomum, Chabertia*); and lungworms (*Dictyocaulus*).
 
 (B) Effective against the following adult nematode infections: Stomach worms (*Haemonchus contortus, Trichostrongylus axei, Teladorsagia circumcincta*); intestinal worms (*Trichostrongylus colubriformis, Cooperia curticei, Nematodirus spathiger, Bunostomum trigonocephalum, Oesophagostomum columbianum, Chabertia ovina*), and lungworms (*Dictyocaulus filaria*).
 

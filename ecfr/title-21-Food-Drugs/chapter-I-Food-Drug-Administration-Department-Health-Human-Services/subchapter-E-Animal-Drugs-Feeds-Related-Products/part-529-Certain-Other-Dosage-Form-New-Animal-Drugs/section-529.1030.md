@@ -12,9 +12,9 @@
 
 (d) *Conditions of use.* It is added to environmental water as follows:
 
-(1) *Indications for use.* (i) Penaeid shrimp. For control of external protozoan parasites *Bodo* spp., *Epistylis* spp., and *Zoothamnium* spp.
+(1) *Indications for use* - (i) *Penaeid shrimp.* For control of external protozoan parasites *Bodo* spp., *Epistylis* spp., and *Zoothamnium* spp.
 
-(ii) All finfish. For control of external protozoa *Ichthyophthirius* spp., *Chilodonella* spp., *Ichthyobodo* spp., *Ambiphrya* spp., *Epistylis* spp., and *Trichodina* spp., and the monogeneans *Cleidodiscus* spp., *Gyrodactylus* spp., and *Dactylogyrus* spp.
+(ii) *All finfish.* For control of external protozoa *Ichthyophthirius* spp., *Chilodonella* spp., *Ichthyobodo* spp., *Ambiphrya* spp., *Epistylis* spp., and *Trichodina* spp., and the monogeneans *Cleidodiscus* spp., *Gyrodactylus* spp., and *Dactylogyrus* spp.
 
 (iii) All finfish eggs: For control of fungi of the family Saprolegniaceae.
 

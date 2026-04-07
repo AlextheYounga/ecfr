@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each container of soluble powder contains tylosin tartrate equivalent to either 100 or 256 grams tylosin base.
 
-(b) *Sponsors* - (1) Nos. 016592 and 058198 for use as in paragraph (e) of this section.
+(b) *Sponsors.* (1) Nos. 016592 and 058198 for use as in paragraph (e) of this section.
 
 (2) No. 061133 for use as in paragraphs (e)(1)(i)(A), (e)(1)(ii), (e)(2), (e)(3), and (e)(4) of this section.
 

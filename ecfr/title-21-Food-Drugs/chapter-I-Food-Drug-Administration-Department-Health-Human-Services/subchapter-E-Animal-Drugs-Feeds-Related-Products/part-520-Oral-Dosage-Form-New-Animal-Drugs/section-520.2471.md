@@ -8,7 +8,7 @@
 
 (d) *Conditions of use in swine* - (1) *Amount.* Administer in drinking water at a concentration of 200 mg per liter for 5 consecutive days.
 
-(2) *Indications for use* - (i) For the control of swine respiratory disease associated with *Pasteurella multocida* and *Haemophilus parasuis* in groups of swine in buildings where a respiratory disease outbreak is diagnosed.
+(2) *Indications for use.* (i) For the control of swine respiratory disease associated with *Pasteurella multocida* and *Haemophilus parasuis* in groups of swine in buildings where a respiratory disease outbreak is diagnosed.
 
 (ii) For the control of swine respiratory disease associated with *Mycoplasma hyopneumoniae* in the presence of Porcine Reproductive and Respiratory Syndrome Virus (PRRSV) in groups of swine in buildings where a respiratory disease outbreak is diagnosed.
 

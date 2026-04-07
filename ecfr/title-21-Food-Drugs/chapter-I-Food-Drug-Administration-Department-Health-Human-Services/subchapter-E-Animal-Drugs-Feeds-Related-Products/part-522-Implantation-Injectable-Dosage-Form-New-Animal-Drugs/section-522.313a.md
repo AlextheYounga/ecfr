@@ -10,7 +10,7 @@
 
 (c) *Related tolerances.* See § 556.113 of this chapter.
 
-(d) *Conditions of use* - (1) *Swine.* The formulation described in paragraph (a)(1) of this section is used as follows:
+(d) *Conditions of use*—(1) *Swine.* The formulation described in paragraph (a)(1) of this section is used as follows:
 
 (i) *Amount.* 5.0 mg CE per kilogram (kg) of body weight by intramuscular injection in the postauricular region of the neck.
 
@@ -26,7 +26,7 @@
 
 (B) Two-dose regimen: 6.6 mg ceftiofur equivalents per kg of body weight given as two injections in the base of the ear approximately 72 hours apart.
 
-(ii) *Indications for use* - (A) Single-dose regimen: For the treatment of bovine respiratory disease (BRD, shipping fever, pneumonia) associated with *Mannheimia haemolytica, Pasteurella multocida,* and *Histophilus somni* in beef, non-lactating dairy, and lactating dairy cattle. For the control of respiratory disease in beef and non-lactating dairy cattle which are at high risk of developing BRD associated with *M. haemolytica, P. multocida,* and *H. somni.* For the treatment of bovine foot rot (interdigital necrobacillosis) associated with *Fusobacterium necrophorum* and *Porphyromonas levii* in beef, non-lactating dairy, and lactating dairy cattle.
+(ii) *Indications for use.* (A) Single-dose regimen: For the treatment of bovine respiratory disease (BRD, shipping fever, pneumonia) associated with *Mannheimia haemolytica, Pasteurella multocida,* and *Histophilus somni* in beef, non-lactating dairy, and lactating dairy cattle. For the control of respiratory disease in beef and non-lactating dairy cattle which are at high risk of developing BRD associated with *M. haemolytica, P. multocida,* and *H. somni.* For the treatment of bovine foot rot (interdigital necrobacillosis) associated with *Fusobacterium necrophorum* and *Porphyromonas levii* in beef, non-lactating dairy, and lactating dairy cattle.
 
 (B) Two-dose regimen: For the treatment of acute metritis (0-to 10-days postpartum) associated with bacterial organisms susceptible to ceftiofur in lactating dairy cattle.
 

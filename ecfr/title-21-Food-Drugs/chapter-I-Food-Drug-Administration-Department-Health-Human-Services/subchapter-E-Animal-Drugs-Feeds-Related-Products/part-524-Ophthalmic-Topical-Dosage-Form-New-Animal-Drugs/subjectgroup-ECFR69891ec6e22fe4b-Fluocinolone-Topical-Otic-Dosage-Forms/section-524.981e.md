@@ -4,7 +4,7 @@
 
 (b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use in dogs* - (1) *Amount* - Instill 4 to 6 drops (0.2 milliliter) twice daily into the ear canal for a maximum period of 14 days. The total dosage used should not exceed 17 milliliters.
+(c) *Conditions of use in dogs*—(1) *Amount.* Instill 4 to 6 drops (0.2 milliliter) twice daily into the ear canal for a maximum period of 14 days. The total dosage used should not exceed 17 milliliters.
 
 (2) *Indications for use.* For the relief of pruritis and inflammation associated with acute and chronic otitis.
 
