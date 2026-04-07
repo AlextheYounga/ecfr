@@ -1,13 +1,12 @@
 ##### 1.110 Positive law codification.
 
-Link to an amendment published at 85 FR 27089, May 6, 2020.
-
 (a) Public Law 107-217 revised, codified, and enacted as title 40, United States Code, Public Buildings, Property, and Works, certain general and permanent laws of the United States.
 
 (b) Public Law 111-350 revised, codified, and enacted as title 41, United States Code, Public Contracts, certain general and permanent laws of the United States.
 
 (c) The following table provides cross references between the historical titles of the acts, and the current reference in title 40 or title 41.
 
+Table 1 to Paragraph (c)
 | Historical title of act                                             | Division/chapter/subchapter          | Title                                                                         |
 | ------------------------------------------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------- |
 | Anti-Kickback Act                                                   | 41 U.S.C. chapter 87                 | Kickbacks.                                                                    |
@@ -24,10 +23,8 @@ Link to an amendment published at 85 FR 27089, May 6, 2020.
 | Procurement Integrity Act                                           | 41 U.S.C. chapter 21                 | Restrictions on Obtaining and Disclosing Certain Information.                 |
 | Service Contract Act of 1965                                        | 41 U.S.C. chapter 67                 | Service Contract Labor Standards.                                             |
 | Truth in Negotiations Act                                           | 41 U.S.C. chapter 35                 | Truthful Cost or Pricing Data.                                                |
-| Walsh-Healey Public Contracts Act                                   | 41 U.S.C. chapter 65                 | Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000. |
+| Walsh-Healey Public Contracts Act                                   | 41 U.S.C. chapter 65                 | Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000. |
+| 1 Except sections 3302, 3501(b), 3509, 3906, 4710, and 4711.        |                                      |                                                                               |
+| 2 Except sections 1704 and 2303.                                    |                                      |                                                                               |
 
-1 Except sections 3302, 3501(b), 3509, 3906, 4710, and 4711.
-
-2 Except sections 1704 and 2303.
-
-\[79 FR 24194, Apr. 29, 2014\]
+\[79 FR 24194, Apr. 29, 2014, as amended at 85 FR 27089, May 6, 2020\]

@@ -738,7 +738,11 @@ Some other names: TCPy
 
 (79) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3-methylbutanoate, (FUB-AMB, MMB-FUBINACA, AMB-FUBINACA)
 
-(7021)
+(7021) 
+
+(80) 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)propan-1-one (ethylone)
+
+7547 
 
 (e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
