@@ -190,7 +190,7 @@ Example 4. Separate treatment items (STIs).(i) On September 1, 2006, a $28,000 d
 (iv) Of the $32,000 of proportionate allocation items, $24,000 is allocable to W, and $8,000 is allocable to H.
 
 | W's share of allocable items |  | H's share of allocable items |
-| 3⁄4 ($24,000/$32,000)        |  | 1⁄4 ($8,000/$32,000)         |
+| 3/4 ($24,000/$32,000)        |  | 1/4 ($8,000/$32,000)         |
 
 (v) W's liability for the portion of the deficiency subject to proportionate allocation is limited to $9,000 ( 3/4 of $12,000) and H's liability for such portion is limited to $3,000 ( 1/4 of $12,000).
 

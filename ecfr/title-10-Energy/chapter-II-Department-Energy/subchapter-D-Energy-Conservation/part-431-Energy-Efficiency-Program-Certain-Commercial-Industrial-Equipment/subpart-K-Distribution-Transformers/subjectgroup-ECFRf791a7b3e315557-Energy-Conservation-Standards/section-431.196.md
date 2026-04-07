@@ -1,5 +1,7 @@
 ##### § 431.196 Energy conservation standards and their effective dates.
 
+Link to an amendment published at 89 FR 30040, Apr. 22, 2024.
+
 (a) *Low-Voltage Dry-Type Distribution Transformers.* (1) The efficiency of a low-voltage, dry-type distribution transformer manufactured on or after January 1, 2007, but before January 1, 2016, shall be no less than that required for the applicable kVA rating in the table below. Low-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
 | Single-phase | Three-phase |
@@ -88,24 +90,23 @@ All efficiency values are at 50 percent per-unit load.
 
 (c) *Medium-Voltage Dry-Type Distribution Transformers.* (1) The efficiency of a medium-voltage dry-type distribution transformer manufactured on or after January 1, 2010, but before January 1, 2016, shall be no less than that required for their kVA and BIL rating in the table below. Medium-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
-| Single-phase | Three-phase |
-| ------------ | ----------- |
-| 15           | 98.10       |
-| 25           | 98.33       |
-| 37.5         | 98.49       |
-| 50           | 98.60       |
-| 75           | 98.73       |
-| 100          | 98.82       |
-| 167          | 98.96       |
-| 250          | 99.07       |
-| 333          | 99.14       |
-| 500          | 99.22       |
-| 667          | 99.27       |
-| 833          | 99.31       |
-|              |             |
-|              |             |
-
-\* BIL means basic impulse insulation level.
+| Single-phase                                 | Three-phase |
+| -------------------------------------------- | ----------- |
+| 15                                           | 98.10       |
+| 25                                           | 98.33       |
+| 37.5                                         | 98.49       |
+| 50                                           | 98.60       |
+| 75                                           | 98.73       |
+| 100                                          | 98.82       |
+| 167                                          | 98.96       |
+| 250                                          | 99.07       |
+| 333                                          | 99.14       |
+| 500                                          | 99.22       |
+| 667                                          | 99.27       |
+| 833                                          | 99.31       |
+|                                              |             |
+|                                              |             |
+| \* BIL means basic impulse insulation level. |             |
 
 Note 5 to paragraph (c)(1):
 
@@ -113,24 +114,23 @@ All efficiency values are at 50 percent per-unit load.
 
 (2) The efficiency of a medium- voltage dry-type distribution transformer manufactured on or after January 1, 2016, shall be no less than that required for their kVA and BIL rating in the table below. Medium-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
-| Single-phase | Three-phase |
-| ------------ | ----------- |
-| 15           | 98.10       |
-| 25           | 98.33       |
-| 37.5         | 98.49       |
-| 50           | 98.60       |
-| 75           | 98.73       |
-| 100          | 98.82       |
-| 167          | 98.96       |
-| 250          | 99.07       |
-| 333          | 99.14       |
-| 500          | 99.22       |
-| 667          | 99.27       |
-| 833          | 99.31       |
-|              |             |
-|              |             |
-
-\* BIL means basic impulse insulation level.
+| Single-phase                                 | Three-phase |
+| -------------------------------------------- | ----------- |
+| 15                                           | 98.10       |
+| 25                                           | 98.33       |
+| 37.5                                         | 98.49       |
+| 50                                           | 98.60       |
+| 75                                           | 98.73       |
+| 100                                          | 98.82       |
+| 167                                          | 98.96       |
+| 250                                          | 99.07       |
+| 333                                          | 99.14       |
+| 500                                          | 99.22       |
+| 667                                          | 99.27       |
+| 833                                          | 99.31       |
+|                                              |             |
+|                                              |             |
+| \* BIL means basic impulse insulation level. |             |
 
 Note 6 to paragraph (c)(2):
 
