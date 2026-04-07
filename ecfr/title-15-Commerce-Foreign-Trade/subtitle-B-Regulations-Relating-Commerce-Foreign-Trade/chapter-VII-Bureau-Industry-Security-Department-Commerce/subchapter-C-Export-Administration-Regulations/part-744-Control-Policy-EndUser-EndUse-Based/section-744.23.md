@@ -1,6 +1,6 @@
 ##### § 744.23 “Supercomputer,” “advanced-node integrated circuits,” and semiconductor manufacturing equipment end use controls.
 
-(a) *General prohibition.* In addition to the license requirements for items specified on the CCL, you may not export, reexport, or transfer (in-country) without a license any item subject to the EAR described in paragraphs (a)(1) through (4) of this section when you have “knowledge” at the time of export, reexport, or transfer (in-country) that the item is destined for a destination, end use, or type of end user described in paragraphs (a)(1) through (4) of this section, unless excluded by paragraph (a)(5) of this section.
+(a) *General prohibition.* In addition to the license requirements for items specified on the CCL, you may not export, reexport, or transfer (in-country) without a license any item subject to the EAR described in paragraphs (a)(1) through (4) of this section when you have “knowledge” at the time of export, reexport, or transfer (in-country) that the item is destined for a destination, end use, or type of end user described in paragraphs (a)(1) through (4) of this section, unless excluded by paragraph (a)(5) of this section.Federal Register,
 
 (1) *“Supercomputers”*—(i) *Item scope.* (A) An integrated circuit (IC) subject to the EAR and specified in ECCN 3A001, 3A991, 4A994, 5A002, 5A004, or 5A992; or
 
