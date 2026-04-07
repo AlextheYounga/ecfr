@@ -1,4 +1,4 @@
-##### § 1309.2 Definition
+##### § 1309.2 Definition.
 
 *Crib bumper:*
 
