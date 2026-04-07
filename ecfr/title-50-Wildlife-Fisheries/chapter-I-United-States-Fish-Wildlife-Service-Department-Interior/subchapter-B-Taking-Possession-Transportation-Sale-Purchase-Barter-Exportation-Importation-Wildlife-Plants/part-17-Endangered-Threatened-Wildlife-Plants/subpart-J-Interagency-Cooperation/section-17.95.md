@@ -1,7 +1,5 @@
 ##### § 17.95 Critical habitat - fish and wildlife.
 
-Link to an amendment published at 86 FR 67360, Nov. 26, 2021.
-
 (a) *Mammals.*
 
 Indiana Bat (*Myotis sodalis*)
@@ -1128,7 +1126,7 @@ The map provided is for informational purposes only. Map follows:
 
 (11) Unit 7: Lemoore Wetland Reserve Unit, Kings County, California. Note: Map of Unit 7, Lemoore Wetland Reserve Unit, follows:
 
-![](/graphics/er02jy13.008.gif)Mount Graham Red Squirrel (*Tamiasciurus hudsonicus grahamensis*)
+![](/graphics/er02jy13.008.gif)Mount Graham red squirrel (*Tamiasciurus fremonti grahamensis*)
 
 *Arizona.* Areas of land, water, and airspace in the Coronado National Forest, T. 8 S., R. 24 E., and T. 9 S., R. 24 E. (Gila and Salt River Meridian), Graham County, with the following components:
 
@@ -22777,7 +22775,7 @@ Cokendolpher Cave Harvestman (*Texella cokendolpheri*)
 
 (ii) Map 3 of Unit 25 follows:
 
-![](/graphics/er14fe12.011.gif)Government Canyon Bat Cave Spider (*Neoleptoneta microps*)
+![](/graphics/er14fe12.011.gif)Government Canyon Bat Cave Spider (*Tayshaneta microps*)
 
 (1) Critical habitat for the Government Canyon Bat Cave spider in Bexar County, Texas, occurs in Unit 1b, as described at paragraph (4)(i) of the entry for the Government Canyon Bat Cave meshweaver in this paragraph (g). Unit 1b is also depicted on Map 1 (index map) provided at paragraph (5) of the entry for the Cokendolpher Cave harvestman in this paragraph (g), and on Map 2 (Unit 1b) provided at paragraph (4)(ii) of the entry for the Government Canyon Bat Cave meshweaver in this paragraph (g).
 
