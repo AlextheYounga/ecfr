@@ -126,7 +126,7 @@
 
 (*4*) Hydroelectric generating facilities and related connecting systems and appurtenances, when not eligible for Rural Electrification Administration (REA) financing;
 
-(*5*) Supplemental and supporting structures for other rural electrification or telephone systems (including facilities such as headquarters and office buildings, storage facilities, and maintenance shops) when not eligible for Rural Electrification Administration financing;
+(*5*) Supplemental and supporting structures for other rural electrification or telephone systems (including facilities such as headquarters and office buildings, storage facilities, and maintenance shops) when not eligible for Rural Electrification Administration financing. Additionally, a borrower is permitted to use up to 10 percent of the amount provided under this subpart to construct, improve, or acquire broadband infrastructure related to the project financed, subject to the requirements of 7 CFR part 1980, subpart M.
 
 (*6*) Natural gas distribution systems; and
 
@@ -694,7 +694,7 @@ In the event of dissolution of this corporation, or in the event it shall cease 
 
 (i) Section 1942.19 contains instructions for making multiple advances to public bodies.
 
-(ii) Advances will be requested by the borrower in writing. The request should be in sufficient amounts to pay cost of construction, rights-of-way and land, legal, engineering, interest, and other expenses as needed. The applicant may use Form RD 440-11, “Estimate of Funds Needed for 30 Day Period Commencing \_\_\_,” to show the amount of funds needed during the 30-day period.
+(ii) Advances will be requested by the borrower in writing. The request should be in sufficient amounts to pay cost of construction, rights-of-way and land, legal, engineering, interest, and other expenses as needed. The applicant may use Form RD 440-11, “Estimate of Funds Needed for 30 Day Period Commencing \_\_\_\_\_\_,” to show the amount of funds needed during the 30-day period.
 
 (iii) Rural Development loan funds obligated for a specific purpose, such as the paying of interest, but not needed at the time of loan closing will remain in the Finance Office until needed unless State statutes require all funds to be delivered to the borrower at the time of closing. Loan funds may be advanced to prepay costs under paragraph (d)(1)(iv)(G) of this section. If all funds must be delivered to the borrower at the time of closing to comply with State statutes, funds not needed at loan closing will be handled as follows:
 

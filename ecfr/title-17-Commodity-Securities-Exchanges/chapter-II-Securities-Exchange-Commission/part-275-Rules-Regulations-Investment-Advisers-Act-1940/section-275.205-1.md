@@ -78,7 +78,7 @@ April-June = 1.0078
 
 July-September = 1.0079
 
-October-November = 1.0053 4/>
+October-November = 1.0053 4
 
 4 The rate for October and November would be two-thirds of the yield for the quarter ended Sept. 30 (i.e. .667 × .79 = 5269) since the yield for the quarter ended Dec. 31 would not be available as of Nov. 30.
 
@@ -158,7 +158,7 @@ April-June = 1.0070
 
 July-September = 1.0071
 
-October-November = 1.0047 4/>
+October-November = 1.0047 4
 
 4 The rate for October and November would be two thirds of the yield for the quarter ended September 30 (i.e. .667 × .71 = 4736), since the yield for the quarter ended December 31 would not be available as of November 30.
 
