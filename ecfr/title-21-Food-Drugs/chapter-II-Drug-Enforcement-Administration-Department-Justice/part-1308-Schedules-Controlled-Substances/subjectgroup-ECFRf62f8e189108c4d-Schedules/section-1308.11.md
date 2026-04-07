@@ -736,6 +736,10 @@ Some other names: TCPy
 
 7020 
 
+(79) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3-methylbutanoate, (FUB-AMB, MMB-FUBINACA, AMB-FUBINACA)
+
+(7021) 
+
 (e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
 (1) gamma-hydroxybutyric acid (some other names include GHB; gamma-hydroxybutyrate; 4-hydroxybutyrate; 4-hydroxybutanoic acid; sodium oxybate; sodium oxybutyrate)
@@ -852,9 +856,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (1)-(17) \[Reserved\] 
 
-(18) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3-methylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: FUB-AMB, MMB-FUBINACA, AMB-FUBINACA)
-
-(7021) 
+(18) \[Reserved\] 
 
 (19) \[Reserved\] 
 

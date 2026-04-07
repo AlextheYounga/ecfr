@@ -1,10 +1,8 @@
 ##### 19.307 Protesting a firm's status as a service-disabled veteran-owned small business concern.
 
-Link to an amendment published at 85 FR 11760, Feb. 27, 2020.
+(a) \[Reserved\]
 
-(a) *Definition. Interested party,* as used in this section, has the meaning given in 13 CFR 125.8(b).
-
-(b)(1) An offeror that is an interested party, the contracting officer, or the SBA may protest the apparently successful offeror's status as a service-disabled veteran-owned small business (SDVOSB) concern (see 13 CFR 125.24).
+(b)(1) For sole source acquisitions, the contracting officer or SBA may protest the apparently successful offeror's service-disabled veteran-owned small business status. For all other acquisitions, any interested party may protest the apparently successful offeror's service-disabled veteran-owned small business status.
 
 (2) SBA's protest regulations are found in subpart D “Protests” at 13 CFR 125.24 through 125.28.
 
@@ -108,4 +106,4 @@ Link to an amendment published at 85 FR 11760, Feb. 27, 2020.
 
 (m) OHA will make its decision within 15 business days of the receipt of the appeal, if practicable. SBA will provide a copy of the decision to the contracting officer, the protester, and the protested SDVOSB small business concern. The OHA decision regarding the status of the concern is final and is binding on the parties.
 
-\[79 FR 43586, July 25, 2014, as amended at 79 FR 46375, Aug. 8, 2014\]
+\[79 FR 43586, July 25, 2014, as amended at 79 FR 46375, Aug. 8, 2014; 85 FR 11760, Feb. 27, 2020\]

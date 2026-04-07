@@ -1,6 +1,4 @@
-##### 19.502-6 Insufficient causes for not setting aside an acquisition.
-
-Link to an amendment published at 85 FR 11762, Feb. 27, 2020.
+##### 19.502-5 Insufficient reasons for not setting aside an acquisition.
 
 None of the following is, in itself, sufficient cause for not setting aside an acquisition:
 
@@ -20,4 +18,4 @@ None of the following is, in itself, sufficient cause for not setting aside an a
 
 (h) A “brand name or equal” product description will be used in the solicitation.
 
-\[48 FR 42240, Sept. 19, 1989, as amended at 63 FR 70270, 70292, Dec. 18, 1998. Redesignated at 76 FR 68035, Nov. 2, 2011\]
+\[48 FR 42240, Sept. 19, 1989, as amended at 63 FR 70270, 70292, Dec. 18, 1998. Redesignated at 76 FR 68035, Nov. 2, 2011. Redesignated and amended at 85 FR 11762, Feb. 27, 2020\]
