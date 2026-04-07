@@ -12,7 +12,7 @@
 
 (iii) Authority for administrative enforcement of this part's provisions.
 
-(2) Subpart B of this part contains rules regarding the duty of banks to make funds deposited into accounts available for withdrawal, including availability schedules. Subpart B of this part also contains rules regarding exceptions to the schedules, disclosure of funds availability policies, payment of interest, liability of banks for failure to comply with Subpart B of this part, and other matters.
+(2) Subpart B of this part contains rules regarding the duty of banks to make funds deposited into accounts available for withdrawal, including availability schedules. Subpart B of this part also contains rules regarding exceptions to the schedules, disclosure of funds availability policies, payment of interest, liability of banks for failure to comply with subpart B of this part, and other matters.
 
 (3) Subpart C of this part contains rules to expedite the collection and return of checks by banks. These rules cover the direct return of checks, the manner in which the paying bank and returning banks must return checks to the depositary bank, notification of nonpayment by the paying bank, indorsement and presentment of checks, same-day settlement for certain checks, the liability of banks for failure to comply with subpart C of this part, and other matters.
 

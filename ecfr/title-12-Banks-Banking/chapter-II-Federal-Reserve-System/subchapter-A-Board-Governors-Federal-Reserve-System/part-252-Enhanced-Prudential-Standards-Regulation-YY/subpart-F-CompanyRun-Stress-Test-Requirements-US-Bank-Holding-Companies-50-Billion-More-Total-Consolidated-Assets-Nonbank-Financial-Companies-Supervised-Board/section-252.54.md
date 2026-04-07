@@ -1,5 +1,7 @@
 ##### § 252.54 Annual stress test.
 
+Link to an amendment published at 82 FR 9330, Feb. 3, 2017.
+
 (a) *In general.* A covered company must conduct an annual stress test. For the stress test cycle beginning on October 1, 2014, the stress test must be conducted by January 5, 2015, based on data as of September 30, 2014, unless the time or the as-of date is extended by the Board in writing. For each stress test cycle beginning thereafter, the stress test must be conducted by April 5 of each calendar year based on data as of December 31 of the preceding calendar year, unless the time or the as-of date is extended by the Board in writing.
 
 (b) *Scenarios provided by the Board* - (1) *In general.* In conducting a stress test under this section, a covered company must, at a minimum, use the scenarios provided by the Board. Except as provided in paragraphs (b)(2) and (3) of this section, for the stress test cycle beginning on October 1, 2014, the Board will provide a description of the scenarios to each covered company no later than November 15, 2014. Except as provided in paragraphs (b)(2) and (3) of this section, for each stress test cycle beginning thereafter, the Board will provide a description of the scenarios to each covered company no later than February 15 of that calendar year.

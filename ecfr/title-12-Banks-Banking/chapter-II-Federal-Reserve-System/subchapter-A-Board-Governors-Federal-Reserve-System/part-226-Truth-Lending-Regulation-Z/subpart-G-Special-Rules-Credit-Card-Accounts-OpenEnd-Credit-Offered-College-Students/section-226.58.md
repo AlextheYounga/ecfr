@@ -2,7 +2,7 @@
 
 (a) *Applicability.* The requirements of this section apply to any card issuer that issues credit cards under a credit card account under an open-end (not home-secured) consumer credit plan.
 
-(b) *Definitions* - (1) *Agreement.* For purposes of this section, “agreement” or “credit card agreement” means the written document or documents evidencing the terms of the legal obligation, or the prospective legal obligation, between a card issuer and a consumer for a credit card account under an open-end (not home-secured) consumer credit plan. “Agreement” or “credit card agreement” also includes the pricing information, as defined in § 226.58(b)(7).
+(b) *Definitions*—(1) *Agreement.* For purposes of this section, “agreement” or “credit card agreement” means the written document or documents evidencing the terms of the legal obligation, or the prospective legal obligation, between a card issuer and a consumer for a credit card account under an open-end (not home-secured) consumer credit plan. “Agreement” or “credit card agreement” also includes the pricing information, as defined in § 226.58(b)(7).
 
 (2) *Amends.* For purposes of this section, an issuer “amends” an agreement if it makes a substantive change (an “amendment”) to the agreement. A change is substantive if it alters the rights or obligations of the card issuer or the consumer under the agreement. Any change in the pricing information, as defined in § 226.58(b)(7), is deemed to be substantive.
 
@@ -26,7 +26,7 @@
 
 (ii) “private label credit card plan” means all of the private label credit card accounts issued by a particular issuer with credit cards usable at the same single merchant or affiliated group of merchants.
 
-(c) *Submission of agreements to Board.* (1) *Quarterly submissions.* A card issuer must make quarterly submissions to the Board, in the form and manner specified by the Board. Quarterly submissions must be sent to the Board no later than the first business day on or after January 31, April 30, July 31, and October 31 of each year. Each submission must contain:
+(c) *Submission of agreements to Board*—(1) *Quarterly submissions.* A card issuer must make quarterly submissions to the Board, in the form and manner specified by the Board. Quarterly submissions must be sent to the Board no later than the first business day on or after January 31, April 30, July 31, and October 31 of each year. Each submission must contain:
 
 (i) Identifying information about the card issuer and the agreements submitted, including the issuer's name, address, and identifying number (such as an RSSD ID number or tax identification number);
 
@@ -70,7 +70,7 @@
 
 (iii) If an agreement that did not previously qualify for the product testing exception qualifies for the exception, the card issuer must continue to make quarterly submissions to the Board with respect to that agreement until the issuer notifies the Board that the agreement is being withdrawn.
 
-(8) *Form and content of agreements submitted to the Board* - (i) *Form and content generally.* (A) Each agreement must contain the provisions of the agreement and the pricing information in effect as of the last business day of the preceding calendar quarter.
+(8) *Form and content of agreements submitted to the Board*—(i) *Form and content generally.* (A) Each agreement must contain the provisions of the agreement and the pricing information in effect as of the last business day of the preceding calendar quarter.
 
 (B) Agreements must not include any personally identifiable information relating to any cardholder, such as name, address, telephone number, or account number.
 
@@ -108,7 +108,7 @@
 
 (4) The card issuer must update the agreements posted on its Web site pursuant to § 226.58(d) at least as frequently as the quarterly schedule required for submission of agreements to the Board under § 226.58(c). If the issuer chooses to update the agreements on its Web site more frequently, the agreements posted on the issuer's Web site may contain the provisions of the agreement and the pricing information in effect as of a date other than the last business day of the preceding calendar quarter.
 
-(e) *Agreements for all open accounts* - (1) *Availability of individual cardholder's agreement.* With respect to any open credit card account, a card issuer must either:
+(e) *Agreements for all open accounts*—(1) *Availability of individual cardholder's agreement.* With respect to any open credit card account, a card issuer must either:
 
 (i) Post and maintain the cardholder's agreement on its Web site; or
 

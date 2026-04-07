@@ -1,5 +1,7 @@
 ##### § 252.42 Definitions.
 
+Link to an amendment published at 82 FR 9329, Feb. 3, 2017.
+
 For purposes of this subpart F, the following definitions apply:
 
 (a) *Advanced approaches* means the risk-weighted assets calculation methodologies at 12 CFR part 217, subpart E, as applicable, and any successor regulation.
