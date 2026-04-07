@@ -1,6 +1,6 @@
 ##### § 200.44 Public school choice.
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *Requirements.* (1) In the case of a school identified for school improvement under § 200.32, for corrective action under § 200.33, or for restructuring under § 200.34, the LEA must provide all students enrolled in the school with the option to transfer to another public school served by the LEA.
 
