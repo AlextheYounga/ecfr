@@ -1,3 +1,0 @@
-##### § 538.6 Claims.
-
-Claims for conversion of military payment certificates, as well as claims arising out of the refusal of the overseas command to convert military payment certificates, will be referred to the U.S. Army Finance and Accounting Center, ATTN: FINCY-D, Indianapolis, Indiana 46249. The U.S. Army Finance and Accounting Center will adjudicate and make final determination on all claims.

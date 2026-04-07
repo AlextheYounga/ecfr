@@ -1,7 +1,5 @@
 ##### § 64.2101 Definitions.
 
-Link to an amendment published at 83 FR 21737, May 10, 2018.
-
 For purposes of this subpart, the following definitions will apply:
 
 *Affiliate.* The term “affiliate” has the same meaning as in 47 U.S.C. 153(2).
@@ -20,4 +18,6 @@ For purposes of this subpart, the following definitions will apply:
 
 *Rural OCN.* The term “rural OCN” means an operating company number that uniquely identifies an incumbent LEC (as defined in § 51.5 of this chapter) that is a rural telephone company (as defined in § 51.5 of this chapter). The term “nonrural OCN” means an operating company number that uniquely identifies an incumbent LEC (as defined in § 51.5 of this chapter) that is not a rural telephone company (as defined in § 51.5 of this chapter). We direct NECA to update the lists of rural and nonrural OCNs annually and provide them to the Wireline Competition Bureau in time for the Bureau to publish the lists no later than November 15. These lists will be the definitive lists of rural OCNs and nonrural OCNs for purposes of this subpart for the following calendar year.
 
-\[78 FR 76239, Dec. 17, 2013, as amended at 79 FR 73227, Dec. 10, 2014; 80 FR 1007, Jan. 8, 2015; 82 FR 19615, Apr. 28, 2017\]
+*Rural telephone company.* The term “rural telephone company” shall have the same meaning as in § 51.5 of this chapter.
+
+\[78 FR 76239, Dec. 17, 2013, as amended at 79 FR 73227, Dec. 10, 2014; 80 FR 1007, Jan. 8, 2015; 82 FR 19615, Apr. 28, 2017; 83 FR 21737, May 10, 2018\]
