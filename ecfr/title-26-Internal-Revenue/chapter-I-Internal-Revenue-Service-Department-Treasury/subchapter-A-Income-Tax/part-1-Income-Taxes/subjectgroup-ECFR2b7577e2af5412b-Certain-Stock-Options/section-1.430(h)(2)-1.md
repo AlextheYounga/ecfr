@@ -8,8 +8,6 @@
 
 (2) *Benefits payable within 5 years.* In the case of benefits expected to be payable during the 5-year period beginning on the valuation date for the plan year, the interest rate used in determining the present value of the benefits that are included in the target normal cost and the funding target for the plan is the first segment rate with respect to the applicable month, as described in paragraph (c)(2)(i) of this section.
 
-(ii) *Special rule for plan years beginning before January 1, 2014.* With respect to a plan year beginning before January 1, 2014, for a plan with a valuation date other than the first day of the plan year, the 5-year period beginning on the first day of the plan year is permitted to be used in lieu of the 5-year period beginning on the valuation date for the plan year under paragraph (b)(2)(i) of this section.
-
 (3) *Benefits payable after 5 years and within 20 years.* In the case of benefits expected to be payable during the 15-year period beginning after the end of the period described in paragraph (b)(2) of this section, the interest rate used in determining the present value of the benefits that are included in the target normal cost and the funding target for the plan is the second segment rate with respect to the applicable month, as described in paragraph (c)(2)(ii) of this section.
 
 (4) *Benefits payable after 20 years.* In the case of benefits expected to be payable after the period described in paragraph (b)(3) of this section, the interest rate used in determining the present value of the benefits that are included in the target normal cost and the funding target for the plan is the third segment rate with respect to the applicable month, as described in paragraph (c)(2)(iii) of this section.
