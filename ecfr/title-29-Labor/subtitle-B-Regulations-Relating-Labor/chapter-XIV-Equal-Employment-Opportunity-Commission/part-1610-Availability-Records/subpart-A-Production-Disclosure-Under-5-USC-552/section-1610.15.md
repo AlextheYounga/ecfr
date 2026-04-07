@@ -20,7 +20,7 @@
 
 (4) Educational institution refers to any school that operates a program of scholarly research. A requester in this fee category must show that the request is made in connection with his or her role at the educational institution. The Commission may seek verification from the requester that the request is in furtherance of scholarly research, and the Commission will advise requesters of their placement in this category.
 
-Example 1. A request from a professor of sociology at a university for records relating to women in the workplace, written on letterhead of the Department of Sociology, would be presumed to be from an educational institution.Example 2. A request from the same professor of sociology seeking candidate correspondence from the Commission in furtherance of a mystery book she is writing would not be presumed to be an institutional request, regardless of whether it was written on institutional stationery.Example 3. A student who makes a request in furtherance of her coursework or other school-sponsored activities and provides a copy of a course syllabus or other reasonable documentation to indicate the research purpose for the request, would qualify as part of this fee category.
+Example 1.A request from a professor of sociology at a university for records relating to women in the workplace, written on letterhead of the Department of Sociology, would be presumed to be from an educational institution.Example 2.A request from the same professor of sociology seeking candidate correspondence from the Commission in furtherance of a mystery book she is writing would not be presumed to be an institutional request, regardless of whether it was written on institutional stationery.Example 3.A student who makes a request in furtherance of her coursework or other school-sponsored activities and provides a copy of a course syllabus or other reasonable documentation to indicate the research purpose for the request, would qualify as part of this fee category.
 
 (5) Noncommercial scientific institution is an institution that is not operated on a “commercial basis,” as defined in paragraph (b)(1) of this section, and that is operated solely for the purpose of conducting scientific research the results of which are not intended to promote any particular product or industry. A requester in this category must show that the request is authorized by and is made under the auspices of a qualifying institution and that the records are sought to further scientific research and are not for a commercial use. The Commission will advise requesters of their placement in this category.
 
@@ -36,15 +36,15 @@ Example 1. A request from a professor of sociology at a university for records r
 
 (ii) For each quarter hour spent by personnel searching for requested records, including electronic searches that do not require new programming, the fees will be charged as follows:
 
-(A) By clerical personnel - at the rate of $5.00 per quarter hour.
+(A) By clerical personnel—at the rate of $5.00 per quarter hour.
 
-(B) By paralegals - at the rate of $9.00 per quarter hour.
+(B) By paralegals—at the rate of $9.00 per quarter hour.
 
-(C) By professional personnel - at the rate of $10.00 per quarter hour.
+(C) By professional personnel—at the rate of $10.00 per quarter hour.
 
-(D) By managers - at the rate of $17.50 per quarter hour.
+(D) By managers—at the rate of $17.50 per quarter hour.
 
-(E) By SES employees - at the rate of $20.00 per quarter hour.
+(E) By SES employees—at the rate of $20.00 per quarter hour.
 
 (iii) The Commission will charge the direct costs associated with conducting any search that requires the creation of a new computer program to locate the requested records. The Commission must notify the requester of the costs associated with creating such a program, and the requester must agree to pay the associated costs before the costs may be incurred.
 
@@ -84,9 +84,9 @@ Example 1. A request from a professor of sociology at a university for records r
 
 (f) *Charges for other services.* Although not required to provide special services, if the Commission chooses to do so as a matter of administrative discretion, the direct costs of providing the service will be charged. Examples of such services include certifying that records are true copies, providing multiple copies of the same document, or sending records by means other than first class mail. The Commission charges for the following special services:
 
-(1) For attestation of documents - $25.00 per authenticating affidavit or declaration. Additionally, there may be search and review charges assessed in accordance with the rates listed in paragraph (c)(1) of this section.
+(1) For attestation of documents—$25.00 per authenticating affidavit or declaration. Additionally, there may be search and review charges assessed in accordance with the rates listed in paragraph (c)(1) of this section.
 
-(2) For certification of document - $50.00 per authenticating affidavit or declaration. Additionally, there may be search and review charges assessed in accordance with the rates listed in paragraph (c)(1) of this section.
+(2) For certification of document—$50.00 per authenticating affidavit or declaration. Additionally, there may be search and review charges assessed in accordance with the rates listed in paragraph (c)(1) of this section.
 
 (g) *Charging interest.* The Commission may charge interest on any unpaid bill starting on the 31st day following the date of billing the requester. Interest charges will be assessed at the rate provided in 31 U.S.C. 3717 and will accrue from the billing date until payment is received by the agency. Agencies must follow the provisions of the Debt Collection Act of 1982, 5 U.S.C. 5514, as amended, and its administrative procedures, including the use of consumer reporting agencies, collection agencies, and offset.
 
