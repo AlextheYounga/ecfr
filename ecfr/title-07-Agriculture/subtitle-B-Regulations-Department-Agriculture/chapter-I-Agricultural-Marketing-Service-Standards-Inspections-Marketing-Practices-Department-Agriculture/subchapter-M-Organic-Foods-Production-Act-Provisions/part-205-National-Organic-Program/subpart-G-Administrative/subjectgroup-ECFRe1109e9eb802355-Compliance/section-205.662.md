@@ -28,7 +28,7 @@
 
 (3) Within 3 business days of issuing a notification of suspension or revocation, or the effective date of an operation's surrender, the certifying agent must update the operation's status in the Organic Integrity Database.
 
-(f) *Eligibility.* (1) A certified operation or a person responsibly connected with an operation whose certification has been suspended may at any time, unless otherwise stated in the notification of suspension, submit a request to the Secretary for reinstatement of its certification, or submit a request for eligibility to be certified.
+(f) *Eligibility.* (1) A certified operation or a person responsibly connected with an operation whose certification has been suspended may at any time, unless otherwise stated in the notification of suspension, submit a request to the Secretary for reinstatement of its certification, or submit a request for eligibility to be certified. The request must be accompanied by evidence demonstrating correction of each noncompliance and corrective actions taken to comply with and remain in compliance with the Act and the regulations in this part.
 
 (2) A certified operation or a person responsibly connected with an operation whose certification has been revoked will be ineligible to receive certification for a period of 5 years following the date of such revocation, *Except,* That, the Secretary may, when in the best interest of the certification program, reduce or eliminate the period of ineligibility.
 

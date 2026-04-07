@@ -22,7 +22,7 @@ As the MRO, you must do the following with respect to negative drug test results
 
 (1) On specimen results that are reviewed by your staff, you are responsible for assuring the quality of their work.
 
-(2) You are required to personally review at least 5 percent of all CCFs reviewed by your staff on a quarterly basis, including all results that required a corrective action. However, you need not review more than 500 negative results in any quarter of all specimen types combined.
+(2) You are required to personally review at least 5 percent of all CCFs reviewed by your staff on a quarterly basis, including all results that required a corrective action. However, you need not review more than 500 negative results of all specimen types combined in any quarter.
 
 (3) Your review must, as a minimum, include the CCF, negative laboratory test result, any accompanying corrective documents, and the report sent to the employer. You must correct any errors that you discover. You must take action as necessary to ensure compliance by your staff with this part and document your corrective action. You must attest to the quality assurance review by initialing the CCFs that you review.
 

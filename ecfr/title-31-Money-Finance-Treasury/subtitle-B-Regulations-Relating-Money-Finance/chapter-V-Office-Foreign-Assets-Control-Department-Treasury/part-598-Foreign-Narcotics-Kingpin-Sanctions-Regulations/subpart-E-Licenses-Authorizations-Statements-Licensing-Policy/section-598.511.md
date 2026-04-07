@@ -1,4 +1,4 @@
-##### § 598.511 Certain transactions for the expenses of maintaining blocked tangible property
+##### § 598.511 Certain transactions for the expenses of maintaining blocked tangible property.
 
 (a) Specially designated narcotics traffickers are authorized to engage in the following transactions:
 
