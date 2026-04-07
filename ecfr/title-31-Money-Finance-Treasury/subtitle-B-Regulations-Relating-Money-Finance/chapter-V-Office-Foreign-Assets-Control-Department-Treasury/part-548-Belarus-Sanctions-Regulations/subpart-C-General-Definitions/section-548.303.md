@@ -1,3 +1,3 @@
-##### § 548.303 Entity.
+##### § 548.303 Debt.
 
-The term *entity* means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization.
+The term *debt* as used in § 548.202 includes bonds, loans, extensions of credit, loan guarantees, letters of credit, drafts, bankers' acceptances, discount notes or bills, or commercial paper.
