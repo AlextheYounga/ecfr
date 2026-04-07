@@ -1,5 +1,5 @@
 ##### § 389.23 Application for waiver or modification of fees.
 
-(a) Applications may be filed asking for waiver or modification of any fee paid under this subpart. Each applicant shall set forth the reasons why a waiver or modification should be granted, and by what legal authority. 
+(a) Applications may be filed asking for waiver or modification of any fee paid under this subpart. Each applicant shall set forth the reasons why a waiver or modification should be granted, and by what legal authority.
 
 (b) Applications asking for a waiver or modification of fees shall be sent to the Director, Office of Aviation Analysis, U.S. Department of Transportation, 1200 New Jersey Avenue SE, Washington, DC 20590. This provision is in accordance § 385.30 of this chapter. When no petition for review is filed with the Department, or when the Department reviews the Director's decision, if the amount found due is not paid within 10 days after receipt of notification of the final determination, the document shall be returned to the filing party.

@@ -1,80 +1,80 @@
 ##### § 594.201 Prohibited transactions involving blocked property.
 
-(a) Except as authorized by statutes, regulations, orders, directives, rulings, instructions, licenses or otherwise, and notwithstanding any contracts entered into or any license or permit granted prior to the effective date, property and interests in property of the following persons that are in the United States, that hereafter come within the United States, or that hereafter come within the possession or control of U.S. persons, including their overseas branches, are blocked and may not be transferred, paid, exported, withdrawn or otherwise dealt in:
+(a) Except as authorized by statutes, regulations, orders, directives, rulings, instructions, licenses or otherwise, and notwithstanding any contracts entered into or any license or permit granted prior to the effective date, property and interests in property of the following persons that are in the United States, that hereafter come within the United States, or that hereafter come within the possession or control of U.S. persons, including their overseas branches, are blocked and may not be transferred, paid, exported, withdrawn or otherwise dealt in: 
 
-(1) Persons listed in the Annex to Executive Order (E.O.) 13224 of September 23, 2001, as amended;
+(1) Persons listed in the Annex to Executive Order (E.O.) 13224 of September 23, 2001, as amended; 
 
-(2) Foreign persons determined by the Secretary of State, in consultation with the Secretary of the Treasury, the Attorney General, and the Secretary of Homeland Security:
+(2) Foreign persons determined by the Secretary of State, in consultation with the Secretary of the Treasury, the Attorney General, and the Secretary of Homeland Security: 
 
-(i) To have committed or have attempted to commit, to pose a significant risk of committing, or to have participated in training to commit acts of terrorism that threaten the security of U.S. nationals or the national security, foreign policy, or economy of the United States; or
+(i) To have committed or have attempted to commit, to pose a significant risk of committing, or to have participated in training to commit acts of terrorism that threaten the security of U.S. nationals or the national security, foreign policy, or economy of the United States; or 
 
-(ii) To be a leader of an entity:
+(ii) To be a leader of an entity: 
 
-(A) Described in paragraph (a)(1) of this section; or
+(A) Described in paragraph (a)(1) of this section; or 
 
-(B) Whose property and interests in property are blocked pursuant to a determination by the Secretary of State pursuant to E.O. 13224, as amended;
+(B) Whose property and interests in property are blocked pursuant to a determination by the Secretary of State pursuant to E.O. 13224, as amended; 
 
-(3) Persons determined by the Secretary of the Treasury, in consultation with the Secretary of State, the Secretary of Homeland Security, and the Attorney General:
+(3) Persons determined by the Secretary of the Treasury, in consultation with the Secretary of State, the Secretary of Homeland Security, and the Attorney General: 
 
-(i) To be owned, controlled, or directed by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraphs (a)(1) through (a)(4) of this section;
+(i) To be owned, controlled, or directed by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraphs (a)(1) through (a)(4) of this section; 
 
-(ii) To own or control, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraphs (a)(1) through (a)(4) of this section;
+(ii) To own or control, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraphs (a)(1) through (a)(4) of this section; 
 
-(iii) To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, an act of terrorism as defined in § 594.311, or any person whose property and interest in property are blocked pursuant to paragraphs (a)(1) through (a)(4) of this section;
+(iii) To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, an act of terrorism as defined in § 594.311, or any person whose property and interest in property are blocked pursuant to paragraphs (a)(1) through (a)(4) of this section; 
 
-(iv) To have participated in training related to terrorism provided by any person whose property and interests in property are blocked pursuant to paragraphs (a)(1) through (a)(4) of this section;
+(iv) To have participated in training related to terrorism provided by any person whose property and interests in property are blocked pursuant to paragraphs (a)(1) through (a)(4) of this section; 
 
-(v) To be a leader or official of an entity whose property and interests in property are blocked pursuant to:
+(v) To be a leader or official of an entity whose property and interests in property are blocked pursuant to: 
 
-(A) A determination by the Secretary of the Treasury pursuant to paragraph (a)(3) of this section; or
+(A) A determination by the Secretary of the Treasury pursuant to paragraph (a)(3) of this section; or 
 
-(B) Paragraph (a)(4) of this section; or
+(B) Paragraph (a)(4) of this section; or 
 
-(vi) To have attempted or conspired to engage in any of the activities described in paragraphs (a)(3)(i) through (a)(3)(v) of this section;
+(vi) To have attempted or conspired to engage in any of the activities described in paragraphs (a)(3)(i) through (a)(3)(v) of this section; 
 
-(4) Persons whose property and interests in property were blocked pursuant to E.O. 12947, as amended, on or after January 23, 1995, and remained blocked immediately prior to 12:01 a.m. eastern daylight time on September 24, 2001;
+(4) Persons whose property and interests in property were blocked pursuant to E.O. 12947, as amended, on or after January 23, 1995, and remained blocked immediately prior to 12:01 a.m. eastern daylight time on September 24, 2001; 
 
-(5) Foreign persons that are identified on the Specially Designated Nationals and Blocked Persons List (SDN List) maintained by the Office of Foreign Assets Control as officials, agents, or affiliates of Iran's Islamic Revolutionary Guard Corps (IRGC);
+(5) Foreign persons that are identified on the Specially Designated Nationals and Blocked Persons List (SDN List) maintained by the Office of Foreign Assets Control as officials, agents, or affiliates of Iran's Islamic Revolutionary Guard Corps (IRGC); 
 
-(6) Foreign persons determined by the Secretary of the Treasury, in consultation with the Secretary of State, to knowingly provide significant financial, material, or technological support for or to:
+(6) Foreign persons determined by the Secretary of the Treasury, in consultation with the Secretary of State, to knowingly provide significant financial, material, or technological support for or to: 
 
-(i) Bayt al-Mal, Jihad al-Bina, the Islamic Resistance Support Association, the Foreign Relations Department of Hizballah, the External Security Organization of Hizballah, or any successor or affiliate thereof as designated by the Secretary of the Treasury, in consultation with the Secretary of State;
+(i) Bayt al-Mal, Jihad al-Bina, the Islamic Resistance Support Association, the Foreign Relations Department of Hizballah, the External Security Organization of Hizballah, or any successor or affiliate thereof as designated by the Secretary of the Treasury, in consultation with the Secretary of State; 
 
-(ii) Al-Manar TV, al Nour Radio, or the Lebanese Media Group, or any successor or affiliate thereof as designated by the Secretary of the Treasury, in consultation with the Secretary of State;
+(ii) Al-Manar TV, al Nour Radio, or the Lebanese Media Group, or any successor or affiliate thereof as designated by the Secretary of the Treasury, in consultation with the Secretary of State; 
 
-(iii) A foreign person determined by the Secretary of the Treasury, in consultation with the Secretary of State, to be engaged in fundraising or recruitment activities for Hizballah; or
+(iii) A foreign person determined by the Secretary of the Treasury, in consultation with the Secretary of State, to be engaged in fundraising or recruitment activities for Hizballah; or 
 
-(iv) A foreign person owned or controlled by a person described in paragraph (a)(6)(i), (ii), or (iii) of this section;
+(iv) A foreign person owned or controlled by a person described in paragraph (a)(6)(i), (ii), or (iii) of this section; 
 
-(7) Agencies or instrumentalities of a foreign state determined by the Secretary of the Treasury, in consultation with the Secretary of State, to have, on or after October 25, 2018, knowingly:
+(7) Agencies or instrumentalities of a foreign state determined by the Secretary of the Treasury, in consultation with the Secretary of State, to have, on or after October 25, 2018, knowingly: 
 
-(i) Conducted significant joint combat operations with, or significantly supported combat operations of, Hizballah; or
+(i) Conducted significant joint combat operations with, or significantly supported combat operations of, Hizballah; or 
 
-(ii) Provided significant financial support for or to, or significant arms or related materiel to, Hizballah;
+(ii) Provided significant financial support for or to, or significant arms or related materiel to, Hizballah; 
 
-(8) Foreign persons included on a list provided to Congress under paragraph (b) of Section 3 of the Sanctioning the Use of Civilians as Defenseless Shields Act of 2018 (Pub. L. 115-348) (Shields Act) because they have been determined by the Secretary of the Treasury, in consultation with the Secretary of State, on or after December 21, 2018:
+(8) Foreign persons included on a list provided to Congress under paragraph (b) of Section 3 of the Sanctioning the Use of Civilians as Defenseless Shields Act of 2018 (Pub. L. 115-348) (Shields Act) because they have been determined by the Secretary of the Treasury, in consultation with the Secretary of State, on or after December 21, 2018: 
 
-(i) To be a member of Hizballah or to be knowingly acting on behalf of Hizballah; and
+(i) To be a member of Hizballah or to be knowingly acting on behalf of Hizballah; and 
 
-(ii) To knowingly order, control, or otherwise direct the use of civilians protected as such by the law of war to shield military objectives from attack;
+(ii) To knowingly order, control, or otherwise direct the use of civilians protected as such by the law of war to shield military objectives from attack; 
 
-(9) Foreign persons included on a list provided to Congress under paragraph (b) of Section 3 of the Shields Act because they have been determined by the Secretary of the Treasury, in consultation with the Secretary of State, on or after December 21, 2018:
+(9) Foreign persons included on a list provided to Congress under paragraph (b) of Section 3 of the Shields Act because they have been determined by the Secretary of the Treasury, in consultation with the Secretary of State, on or after December 21, 2018: 
 
-(i) To be a member of HAMAS or to be knowingly acting on behalf of Hamas; and
+(i) To be a member of HAMAS or to be knowingly acting on behalf of Hamas; and 
 
-(ii) To knowingly order, control, or otherwise direct the use of civilians protected as such by the law of war to shield military objectives from attack;
+(ii) To knowingly order, control, or otherwise direct the use of civilians protected as such by the law of war to shield military objectives from attack; 
 
-(10) Foreign persons, agencies, or instrumentalities of a foreign state, included on a list provided to Congress under paragraph (b) of Section 3 of the Shields Act because they have been determined by the Secretary of the Treasury, in consultation with the Secretary of State, on or after December 21, 2018, to knowingly and materially support, order, control, direct, or otherwise engage in:
+(10) Foreign persons, agencies, or instrumentalities of a foreign state, included on a list provided to Congress under paragraph (b) of Section 3 of the Shields Act because they have been determined by the Secretary of the Treasury, in consultation with the Secretary of State, on or after December 21, 2018, to knowingly and materially support, order, control, direct, or otherwise engage in: 
 
-(i) Any act described in paragraph (a)(8)(ii) of this section by a person described in paragraph (a)(8) of this section; or
+(i) Any act described in paragraph (a)(8)(ii) of this section by a person described in paragraph (a)(8) of this section; or 
 
-(ii) Any act described in paragraph (a)(9)(ii) of this section by a person described in paragraph (a)(9) of this section; or
+(ii) Any act described in paragraph (a)(9)(ii) of this section by a person described in paragraph (a)(9) of this section; or 
 
-(11) Foreign persons included on a list provided to Congress under paragraph (c) of Section 3 of the Shields Act because they have been determined by the Secretary of the Treasury, in consultation with the Secretary of State, on or after December 21, 2018, to knowingly order, control, or otherwise direct the use of civilians protected as such by the law of war to shield military objectives from attack, and with respect to which the Secretary of the Treasury, in consultation with the Secretary of State, has exercised the authority to block all property and interests in property.
+(11) Foreign persons included on a list provided to Congress under paragraph (c) of Section 3 of the Shields Act because they have been determined by the Secretary of the Treasury, in consultation with the Secretary of State, on or after December 21, 2018, to knowingly order, control, or otherwise direct the use of civilians protected as such by the law of war to shield military objectives from attack, and with respect to which the Secretary of the Treasury, in consultation with the Secretary of State, has exercised the authority to block all property and interests in property. 
 
-(b) Unless otherwise authorized by this part or by a specific license expressly referring to this section, any dealing in any security (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of or known to be held for the benefit of any person whose property or interests in property are blocked pursuant to § 594.201(a) is prohibited. This prohibition includes but is not limited to the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of any such security or the endorsement or guaranty of signatures on any such security. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such security may have or might appear to have assigned, transferred, or otherwise disposed of the security.
+(b) Unless otherwise authorized by this part or by a specific license expressly referring to this section, any dealing in any security (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of or known to be held for the benefit of any person whose property or interests in property are blocked pursuant to § 594.201(a) is prohibited. This prohibition includes but is not limited to the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of any such security or the endorsement or guaranty of signatures on any such security. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such security may have or might appear to have assigned, transferred, or otherwise disposed of the security. 
 
-(c) The prohibitions in paragraph (a) of this section do not apply to the importation of any goods that would otherwise be prohibited solely due to the interest of a person whose property and interests in property are blocked solely pursuant to paragraph (a)(6) or (7) of this section. For the purposes of this paragraph (c), the term “goods” means any articles, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+(c) The prohibitions in paragraph (a) of this section do not apply to the importation of any goods that would otherwise be prohibited solely due to the interest of a person whose property and interests in property are blocked solely pursuant to paragraph (a)(6) or (7) of this section. For the purposes of this paragraph (c), the term “goods” means any articles, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data. 
 
 Note 2 to § 594.201:
 

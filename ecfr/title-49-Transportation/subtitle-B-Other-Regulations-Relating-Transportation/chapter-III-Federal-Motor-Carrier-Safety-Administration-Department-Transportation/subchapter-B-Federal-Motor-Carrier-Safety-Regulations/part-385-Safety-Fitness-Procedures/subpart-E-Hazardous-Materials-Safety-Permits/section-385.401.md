@@ -1,4 +1,4 @@
-##### § 385.401 What is the purpose and scope of this subpart?
+##### § 385.401 Hazardous materials safety permits: Purpose and scope.
 
 (a) This subpart contains the requirements for obtaining and maintaining a safety permit to transport certain hazardous materials. No one may transport the materials listed in § 385.403 without a safety permit required by this subpart.
 

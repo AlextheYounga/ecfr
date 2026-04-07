@@ -1,4 +1,4 @@
-##### § 393.116 What are the rules for securing logs?
+##### § 393.116 Specific securement requirements for logs.
 
 (a) *Applicability.* The rules in this section are applicable to the transportation of logs with the following exceptions:
 

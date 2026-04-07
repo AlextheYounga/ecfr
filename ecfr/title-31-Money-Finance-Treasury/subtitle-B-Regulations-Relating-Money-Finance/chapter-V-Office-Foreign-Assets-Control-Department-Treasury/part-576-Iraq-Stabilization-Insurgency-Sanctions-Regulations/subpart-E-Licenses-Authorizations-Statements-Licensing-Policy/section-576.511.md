@@ -1,6 +1,6 @@
 ##### § 576.511 Property controlled by the military forces of the United States and their coalition partners in Iraq.
 
-The prohibition in § 576.201(a)(3) that deals with blocked property and interests in property shall not apply to property and interests in property controlled by the military forces of the United States and their coalition partners present in Iraq and acting in their official capacity under the command or operational control of the commander of United States Central Command.
+The prohibition in § 576.201(a)(3) that deals with blocked property and interests in property shall not apply to property and interests in property controlled by the military forces of the United States and their coalition partners present in Iraq and acting in their official capacity under the command or operational control of the commander of United States Central Command. 
 
 Note to § 576.511:
 

@@ -1,35 +1,35 @@
 ##### § 121.423 Pilots: Extended Envelope Training.
 
-(a) Each certificate holder must include in its approved training program, the extended envelope training set forth in this section with respect to each airplane type for each pilot. The extended envelope training required by this section must be performed in a Level C or higher full flight simulator, approved by the Administrator in accordance with § 121.407 of this part. 
+(a) Each certificate holder must include in its approved training program, the extended envelope training set forth in this section with respect to each airplane type for each pilot. The extended envelope training required by this section must be performed in a Level C or higher full flight simulator, approved by the Administrator in accordance with § 121.407 of this part.
 
-(b) Extended envelope training must include the following maneuvers and procedures: 
+(b) Extended envelope training must include the following maneuvers and procedures:
 
-(1) Manually controlled slow flight; 
+(1) Manually controlled slow flight;
 
-(2) Manually controlled loss of reliable airspeed; 
+(2) Manually controlled loss of reliable airspeed;
 
-(3) Manually controlled instrument departure and arrival; 
+(3) Manually controlled instrument departure and arrival;
 
-(4) Upset recovery maneuvers; and 
+(4) Upset recovery maneuvers; and
 
-(5) Recovery from bounced landing. 
+(5) Recovery from bounced landing.
 
-(c) Extended envelope training must include instructor-guided hands on experience of recovery from full stall and stick pusher activation, if equipped. 
+(c) Extended envelope training must include instructor-guided hands on experience of recovery from full stall and stick pusher activation, if equipped.
 
-(d) Recurrent training: Within 24 calendar months preceding service as a pilot, each person must satisfactorily complete the extended envelope training described in paragraphs (b)(1) through (4) and (c) of this section. Within 36 calendar months preceding service as a pilot, each person must satisfactorily complete the extended envelope training described in paragraph (b)(5) of this section. 
+(d) Recurrent training: Within 24 calendar months preceding service as a pilot, each person must satisfactorily complete the extended envelope training described in paragraphs (b)(1) through (4) and (c) of this section. Within 36 calendar months preceding service as a pilot, each person must satisfactorily complete the extended envelope training described in paragraph (b)(5) of this section.
 
-(e) Deviation from use of Level C or higher full flight simulator: 
+(e) Deviation from use of Level C or higher full flight simulator:
 
-(1) A certificate holder may submit a request to the Administrator for approval of a deviation from the requirements of paragraph (a) of this section to conduct the extended envelope training using an alternative method to meet the learning objectives of this section. 
+(1) A certificate holder may submit a request to the Administrator for approval of a deviation from the requirements of paragraph (a) of this section to conduct the extended envelope training using an alternative method to meet the learning objectives of this section.
 
-(2) A request for deviation from paragraph (a) of this section must include the following information: 
+(2) A request for deviation from paragraph (a) of this section must include the following information:
 
-(i) A simulator availability assessment, including hours by specific simulator and location of the simulator, and a simulator shortfall analysis that includes the training that cannot be completed in a Level C or higher full flight simulator; and 
+(i) A simulator availability assessment, including hours by specific simulator and location of the simulator, and a simulator shortfall analysis that includes the training that cannot be completed in a Level C or higher full flight simulator; and
 
-(ii) Alternative methods for achieving the learning objectives of this section. 
+(ii) Alternative methods for achieving the learning objectives of this section.
 
-(3) A certificate holder may request an extension of a deviation issued under this section. 
+(3) A certificate holder may request an extension of a deviation issued under this section.
 
-(4) Deviations or extensions to deviations will be issued for a period not to exceed 12 months. 
+(4) Deviations or extensions to deviations will be issued for a period not to exceed 12 months.
 
 \[Doc. No. FAA-2008-0677, 78 FR 67839, Nov. 12, 2013; Amdt. 121-382, 85 FR 10923, Feb. 25, 2020, as amended by Docket No. FAA-2019-0360; Amdt. No. 121-392, 89 FR 51427, June 18, 2024\]

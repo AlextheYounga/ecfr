@@ -1,6 +1,6 @@
 ##### § 249.20 Preservation of records by certificated air carriers.
 
-Each certificated air carrier shall retain its records according to the provisions of this section. Unless otherwise specified in the “Schedule of Records,” each retention period shall begin on the date when the records are created or otherwise come into the possession of the carrier. 
+Each certificated air carrier shall retain its records according to the provisions of this section. Unless otherwise specified in the “Schedule of Records,” each retention period shall begin on the date when the records are created or otherwise come into the possession of the carrier.
 
 Schedule of Records
 

@@ -1,6 +1,6 @@
 ##### § 598.301 Blocked account; blocked property.
 
-The terms *blocked account* and *blocked property* shall mean any account or property subject to the prohibitions in § 598.202 held in the name of a specially designated narcotics trafficker, or in which such person has an interest, and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to a license or other authorization from OFAC expressly authorizing such action.
+The terms *blocked account* and *blocked property* shall mean any account or property subject to the prohibitions in § 598.202 held in the name of a specially designated narcotics trafficker, or in which such person has an interest, and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to a license or other authorization from OFAC expressly authorizing such action. 
 
 Note 1 to § 598.301:
 

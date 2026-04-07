@@ -1,4 +1,4 @@
-##### § 350.223 What are the Federal and State shares of costs incurred under MCSAP?
+##### § 350.223 MCSAP administration: Federal and State shares of costs incurred.
 
 (a) *Federal share.* FMCSA will reimburse at least 85 percent of the eligible costs incurred under MCSAP.
 

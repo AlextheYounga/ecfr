@@ -1,54 +1,54 @@
 ##### § 515.559 Certain export and import transactions by U.S.-owned or -controlled foreign firms.
 
-(a) Effective October 23, 1992, no specific licenses will be issued pursuant to paragraph (b) of this section for transactions between U.S.-owned or controlled firms in third countries and Cuba for the exportation to Cuba of commodities produced in the authorized trade zone or for the importation of goods of Cuban origin into countries in the authorized trade zone, unless, in addition to meeting all requirements of paragraph (b), one or more of the following conditions are satisfied:
+(a) Effective October 23, 1992, no specific licenses will be issued pursuant to paragraph (b) of this section for transactions between U.S.-owned or controlled firms in third countries and Cuba for the exportation to Cuba of commodities produced in the authorized trade zone or for the importation of goods of Cuban origin into countries in the authorized trade zone, unless, in addition to meeting all requirements of paragraph (b), one or more of the following conditions are satisfied: 
 
-(1) The contract underlying the proposed transaction was entered into prior to October 23, 1992;
+(1) The contract underlying the proposed transaction was entered into prior to October 23, 1992; 
 
-(2) The transaction is for the exportation of medicine or medical supplies from a third country to Cuba, which shall not be restricted:
+(2) The transaction is for the exportation of medicine or medical supplies from a third country to Cuba, which shall not be restricted: 
 
-(i) Except to the extent such restrictions would be permitted under section 5(m) of the Export Administration Act of 1979 or section 203(b)(2) of the International Emergency Economic Powers Act if the exportation were subject to these provisions;
+(i) Except to the extent such restrictions would be permitted under section 5(m) of the Export Administration Act of 1979 or section 203(b)(2) of the International Emergency Economic Powers Act if the exportation were subject to these provisions; 
 
-(ii) Except in a case in which there is a reasonable likelihood that the item to be exported will be used for purposes of torture or other human rights abuses;
+(ii) Except in a case in which there is a reasonable likelihood that the item to be exported will be used for purposes of torture or other human rights abuses; 
 
-(iii) Except in a case in which there is a reasonable likelihood that the item to be exported will be reexported; or
+(iii) Except in a case in which there is a reasonable likelihood that the item to be exported will be reexported; or 
 
-(iv) Except in a case in which the item to be exported could be used in the production of any biotechnological product; and
+(iv) Except in a case in which the item to be exported could be used in the production of any biotechnological product; and 
 
-(v) Except in a case where it is determined that the United States Government is unable to verify, by on-site inspection or other means, that the item to be exported will be used for the purpose for which it was intended and only for the use and benefit of the Cuban people, but this exception shall not apply to donations for humanitarian purposes to a nongovernmental organization in Cuba.
+(v) Except in a case where it is determined that the United States Government is unable to verify, by on-site inspection or other means, that the item to be exported will be used for the purpose for which it was intended and only for the use and benefit of the Cuban people, but this exception shall not apply to donations for humanitarian purposes to a nongovernmental organization in Cuba. 
 
-(3) The transaction is for the exportation of telecommunications equipment from a third country, when the equipment is determined to be necessary for efficient and adequate telecommunications service between the United States and Cuba.
+(3) The transaction is for the exportation of telecommunications equipment from a third country, when the equipment is determined to be necessary for efficient and adequate telecommunications service between the United States and Cuba. 
 
-(b) Specific licenses will be issued in appropriate cases for certain categories of transactions between U.S.-owned or controlled firms in third countries and Cuba, where local law requires, or policy in the third country favors, trade with Cuba. The categories include:
+(b) Specific licenses will be issued in appropriate cases for certain categories of transactions between U.S.-owned or controlled firms in third countries and Cuba, where local law requires, or policy in the third country favors, trade with Cuba. The categories include: 
 
-(1) Exportation to Cuba of commodities produced in the authorized trade territory, provided:
+(1) Exportation to Cuba of commodities produced in the authorized trade territory, provided: 
 
-(i) The commodities to be exported are non-strategic;
+(i) The commodities to be exported are non-strategic; 
 
-(ii) United States-origin technical data (other than maintenance, repair and operations data) will not be transferred;
+(ii) United States-origin technical data (other than maintenance, repair and operations data) will not be transferred; 
 
-(iii) If any U.S.-origin parts and components are included therein, such inclusion has been authorized by the Department of Commerce;
+(iii) If any U.S.-origin parts and components are included therein, such inclusion has been authorized by the Department of Commerce; 
 
-(iv) If any U.S.-origin spares are to be reexported to Cuba in connection with a licensed transaction, such reexport has been authorized by the Department of Commerce;
+(iv) If any U.S.-origin spares are to be reexported to Cuba in connection with a licensed transaction, such reexport has been authorized by the Department of Commerce; 
 
-(v) No U.S. dollar accounts are involved; and
+(v) No U.S. dollar accounts are involved; and 
 
-(vi) Any financing or other extension of credit by a U.S.-owned or controlled firm is granted on normal short-term conditions which are appropriate for the commodity to be exported.
+(vi) Any financing or other extension of credit by a U.S.-owned or controlled firm is granted on normal short-term conditions which are appropriate for the commodity to be exported. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(3) Importation of goods of Cuban origin into countries in the authorized trade territory.
+(3) Importation of goods of Cuban origin into countries in the authorized trade territory. 
 
 Note to paragraph (b):
 
 On October 23, 1992, sections 1705 and 1706 of the Cuban Democracy Act of 1992, Pub. L. 102-484 (Oct. 23, 1992) (codified at 22 U.S.C. 6004 and 6005, respectively), prohibited OFAC from issuing licenses for any transaction described in this paragraph other than those transactions currently set forth in paragraph (a).
 
-(c) The term *strategic goods* means any item, regardless of origin, of a type included in the Commodity Control List of the U.S. Department of Commerce (15 CFR part 399) and identified by the code letter “A” following the Export Control Commodity Numbers, or of a type the unauthorized exportation of which from the United States is prohibited by regulations issued under the Arms Export Control Act of 1976, 22 U.S.C. 2778, or under the Atomic Energy Act of 1954, 42 U.S.C. 2011, *et seq.,* or successor acts restricting the export of strategic goods.
+(c) The term *strategic goods* means any item, regardless of origin, of a type included in the Commodity Control List of the U.S. Department of Commerce (15 CFR part 399) and identified by the code letter “A” following the Export Control Commodity Numbers, or of a type the unauthorized exportation of which from the United States is prohibited by regulations issued under the Arms Export Control Act of 1976, 22 U.S.C. 2778, or under the Atomic Energy Act of 1954, 42 U.S.C. 2011, *et seq.,* or successor acts restricting the export of strategic goods. 
 
-(d) *General license.* Travel-related transactions set forth in § 515.560(c) and such other transactions as are directly incident to market research, commercial marketing, sales or contract negotiation, accompanied delivery, installation, leasing, servicing, or repair in Cuba of exports that are consistent with the licensing policy under paragraph (a) of this section are authorized, provided that the traveler's schedule of activities does not include free time or recreation in excess of that consistent with a full-time schedule.
+(d) *General license.* Travel-related transactions set forth in § 515.560(c) and such other transactions as are directly incident to market research, commercial marketing, sales or contract negotiation, accompanied delivery, installation, leasing, servicing, or repair in Cuba of exports that are consistent with the licensing policy under paragraph (a) of this section are authorized, provided that the traveler's schedule of activities does not include free time or recreation in excess of that consistent with a full-time schedule. 
 
-(e) *Certain travel-related transactions restricted.* Nothing in paragraph (d) of this section authorizes the lodging, paying for lodging, or making any reservation for or on behalf of a third party to lodge, at any property on the Cuba Prohibited Accommodations List to the extent prohibited by § 515.210.
+(e) *Certain travel-related transactions restricted.* Nothing in paragraph (d) of this section authorizes the lodging, paying for lodging, or making any reservation for or on behalf of a third party to lodge, at any property on the Cuba Prohibited Accommodations List to the extent prohibited by § 515.210. 
 
-(f) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to certain transactions by U.S.-owned or -controlled foreign firms with Cuba that do not qualify for the general license under paragraph (d) of this section.
+(f) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to certain transactions by U.S.-owned or -controlled foreign firms with Cuba that do not qualify for the general license under paragraph (d) of this section. 
 
 Note 1 to § 515.559:
 

@@ -1,4 +1,4 @@
-##### § 350.405 What conditions must an applicant meet to qualify for High Priority Program funds?
+##### § 350.405 High Priority Program: Funding conditions and qualifications.
 
 (a) *Motor carrier safety activities.* To qualify for High Priority Program funds related to motor carrier safety activities under § 350.403 paragraphs (a) through (g), and (i) through (k):
 

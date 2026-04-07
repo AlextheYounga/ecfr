@@ -10,11 +10,11 @@
 
 4 Agents authorized to pay Series E bonds and savings notes are authorized to accept and handle exchange subscriptions submitted by natural persons whose names are inscribed on the face of the bonds and notes as owners or coowners in their own right. However, as agents of subscribers they may forward any exchange subscription to a Federal Reserve Bank or Branch or the Bureau of the Fiscal Service, Washington, DC 20226, for acceptance and handling.
 
-(2) A Series H bond issued upon exchange will be registered in the name of the owner of the securities submitted in any authorized form of registration. However, the *principal coowner* must be named as owner or coowner.
+(2) A Series H bond issued upon exchange will be registered in the name of the owner of the securities submitted in any authorized form of registration. However, the *principal coowner* must be named as owner or coowner. 
 
-(3) The total current redemption value of the securities submitted for exchange in any one transaction must amount to $500 or more. If the total current redemption value is in an even multiple of $500, Series H bonds must be requested in that exact amount. If the total current redemption value exceeds $500, but is not in an even multiple of $500, the owner has the option of furnishing cash necessary to obtain Series H bonds of the next higher $500 multiple, or of receiving payment of the difference between the total current redemption value and the next lower multiple of $500. For example, under the rules prescribed in this circular, if the securities submitted for exchange in one transaction total $4,253.33 current redemption value, the owner may elect to:
+(3) The total current redemption value of the securities submitted for exchange in any one transaction must amount to $500 or more. If the total current redemption value is in an even multiple of $500, Series H bonds must be requested in that exact amount. If the total current redemption value exceeds $500, but is not in an even multiple of $500, the owner has the option of furnishing cash necessary to obtain Series H bonds of the next higher $500 multiple, or of receiving payment of the difference between the total current redemption value and the next lower multiple of $500. For example, under the rules prescribed in this circular, if the securities submitted for exchange in one transaction total $4,253.33 current redemption value, the owner may elect to: 
 
-(i) Receive $4,000 in Series H bonds and the amount of the difference, $253.33, or
+(i) Receive $4,000 in Series H bonds and the amount of the difference, $253.33, or 
 
 (ii) Pay the difference, $246.67, necessary to obtain $4,500 in Series H bonds. 5
 
@@ -24,6 +24,6 @@
 
 6 The amount, if any, paid to the owner in excess of the interest is a repayment on account of the purchase price of the securities exchanged, not income.
 
-(5) Each Series H bond issued under this section will be stamped “EX” or “EXCH” to show that it was issued upon exchange. Each bond also will bear a legend showing how much of its issue price represents interest on the securities exchanged. This interest must be treated as income for Federal income tax purposes for the year in which the Series H bond is redeemed, is disposed of, or finally matures, whichever is earlier.
+(5) Each Series H bond issued under this section will be stamped “EX” or “EXCH” to show that it was issued upon exchange. Each bond also will bear a legend showing how much of its issue price represents interest on the securities exchanged. This interest must be treated as income for Federal income tax purposes for the year in which the Series H bond is redeemed, is disposed of, or finally matures, whichever is earlier. 
 
 (6) The Series H bonds will be dated as of the first day of the month in which the securities, the exchange subscription, any necessary cash difference and supporting evidence, if any, are accepted for exchange by an authorized agency.

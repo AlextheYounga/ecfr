@@ -1,6 +1,6 @@
 ##### § 579.201 Prohibited transactions.
 
-All transactions prohibited pursuant to Executive Order 13848 of September 12, 2018, are also prohibited pursuant to this part.
+All transactions prohibited pursuant to Executive Order 13848 of September 12, 2018, are also prohibited pursuant to this part. 
 
 Note 1 to § 579.201:
 

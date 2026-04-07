@@ -1,4 +1,4 @@
-##### § 350.403 What are the High Priority Program objectives?
+##### § 350.403 High Priority Program: Objectives.
 
 FMCSA may use the High Priority Program funds to support, enrich, or evaluate CMV safety programs and to:
 

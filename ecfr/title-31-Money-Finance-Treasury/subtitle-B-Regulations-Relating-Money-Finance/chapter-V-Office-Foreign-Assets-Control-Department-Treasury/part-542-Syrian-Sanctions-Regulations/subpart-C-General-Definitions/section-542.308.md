@@ -1,14 +1,14 @@
 ##### § 542.308 Government of Syria.
 
-The term *Government of Syria* includes:
+The term *Government of Syria* includes: 
 
-(a) The state and the Government of the Syrian Arab Republic, as well as any political subdivision, agency, or instrumentality thereof, including the Central Bank of Syria;
+(a) The state and the Government of the Syrian Arab Republic, as well as any political subdivision, agency, or instrumentality thereof, including the Central Bank of Syria; 
 
-(b) Any entity owned or controlled, directly or indirectly, by the foregoing, including any corporation, partnership, association, or other entity in which the Government of Syria owns a 50 percent or greater interest or a controlling interest, and any entity which is otherwise controlled by that government;
+(b) Any entity owned or controlled, directly or indirectly, by the foregoing, including any corporation, partnership, association, or other entity in which the Government of Syria owns a 50 percent or greater interest or a controlling interest, and any entity which is otherwise controlled by that government; 
 
-(c) Any person that is, or has been, acting or purporting to act, directly or indirectly, for or on behalf of any of the foregoing; and
+(c) Any person that is, or has been, acting or purporting to act, directly or indirectly, for or on behalf of any of the foregoing; and 
 
-(d) Any other person determined by OFAC to be included within paragraphs (a) through (c) of this section.
+(d) Any other person determined by OFAC to be included within paragraphs (a) through (c) of this section. 
 
 Note 1 to § 542.308:
 

@@ -1,6 +1,6 @@
 ##### § 510.214 Prohibitions on persons owned or controlled by U.S. financial institutions.
 
-Except as otherwise authorized pursuant to this part, any person that is owned or controlled by a U.S. financial institution and established or maintained outside the United States is prohibited from knowingly engaging in any transaction directly or indirectly with the Government of North Korea or any person designated for the imposition of sanctions with respect to North Korea described in § 510.201(a)(3)(vii) through (ix) and under an applicable Executive order (as defined in NKSPEA, as amended) or an applicable United Nations Security Council resolution (as defined in NKSPEA, as amended).
+Except as otherwise authorized pursuant to this part, any person that is owned or controlled by a U.S. financial institution and established or maintained outside the United States is prohibited from knowingly engaging in any transaction directly or indirectly with the Government of North Korea or any person designated for the imposition of sanctions with respect to North Korea described in § 510.201(a)(3)(vii) through (ix) and under an applicable Executive order (as defined in NKSPEA, as amended) or an applicable United Nations Security Council resolution (as defined in NKSPEA, as amended). 
 
 Note 1 to § 510.214:
 

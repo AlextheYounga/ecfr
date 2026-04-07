@@ -1,10 +1,10 @@
 ##### § 589.205 Prohibited transactions with respect to oil-producing activities in the energy sector of the Russian Federation economy (Directive 4).
 
-The following activities by a U.S. person or within the United States are prohibited: The provision, exportation, or reexportation, directly or indirectly, of goods, services (except for financial services), or technology in support of exploration or production for deepwater, Arctic offshore, or shale projects:
+The following activities by a U.S. person or within the United States are prohibited: The provision, exportation, or reexportation, directly or indirectly, of goods, services (except for financial services), or technology in support of exploration or production for deepwater, Arctic offshore, or shale projects: 
 
-(a) That have the potential to produce oil in the Russian Federation, or in maritime area claimed by the Russian Federation and extending from its territory, and that involve any person determined to be subject to this section, their property, or their interests in property; or
+(a) That have the potential to produce oil in the Russian Federation, or in maritime area claimed by the Russian Federation and extending from its territory, and that involve any person determined to be subject to this section, their property, or their interests in property; or 
 
-(b) That are initiated on or after January 29, 2018, that have the potential to produce oil in any location, and in which any person determined to be subject to this section, their property, or their interests in property has a 33 percent or greater ownership interest, or ownership of a majority of the voting interests.
+(b) That are initiated on or after January 29, 2018, that have the potential to produce oil in any location, and in which any person determined to be subject to this section, their property, or their interests in property has a 33 percent or greater ownership interest, or ownership of a majority of the voting interests. 
 
 Note 1 to § 589.205:
 

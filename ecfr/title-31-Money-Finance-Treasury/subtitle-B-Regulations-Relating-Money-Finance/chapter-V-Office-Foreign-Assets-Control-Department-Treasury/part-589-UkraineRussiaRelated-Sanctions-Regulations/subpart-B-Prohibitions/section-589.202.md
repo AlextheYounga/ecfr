@@ -1,12 +1,12 @@
 ##### § 589.202 Prohibited transactions with respect to the financial services sector of the Russian Federation economy (Directive 1).
 
-The following activities by a U.S. person or within the United States are prohibited:
+The following activities by a U.S. person or within the United States are prohibited: 
 
-(a) For new debt or new equity issued on or after July 16, 2014 and before September 12, 2014, all transactions in, provision of financing for, and other dealings in new debt of longer than 90 days maturity or new equity of persons determined to be subject to this section, their property, or their interests in property;
+(a) For new debt or new equity issued on or after July 16, 2014 and before September 12, 2014, all transactions in, provision of financing for, and other dealings in new debt of longer than 90 days maturity or new equity of persons determined to be subject to this section, their property, or their interests in property; 
 
-(b) For new debt or new equity issued on or after September 12, 2014 and before November 28, 2017, all transactions in, provision of financing for, and other dealings in new debt of longer than 30 days maturity or new equity of persons determined to be subject to this section, their property, or their interests in property; and
+(b) For new debt or new equity issued on or after September 12, 2014 and before November 28, 2017, all transactions in, provision of financing for, and other dealings in new debt of longer than 30 days maturity or new equity of persons determined to be subject to this section, their property, or their interests in property; and 
 
-(c) For new debt or new equity issued on or after November 28, 2017, all transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity of persons determined to be subject to this section, their property, or their interests in property.
+(c) For new debt or new equity issued on or after November 28, 2017, all transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity of persons determined to be subject to this section, their property, or their interests in property. 
 
 Note 1 to § 589.202:
 

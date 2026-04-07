@@ -1,10 +1,10 @@
 ##### § 510.302 Blocked account; blocked property.
 
-For the purposes of this part, the terms *blocked account* and *blocked property* shall mean:
+For the purposes of this part, the terms *blocked account* and *blocked property* shall mean: 
 
-(a) Any account or property subject to the prohibitions in § 510.201(a) held in the name of the Government of North Korea, the Workers' Party of Korea, or any other person whose property and interests in property are blocked pursuant to § 510.201(a), or in which such person has an interest, and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to a license or other authorization from OFAC expressly authorizing such action; and
+(a) Any account or property subject to the prohibitions in § 510.201(a) held in the name of the Government of North Korea, the Workers' Party of Korea, or any other person whose property and interests in property are blocked pursuant to § 510.201(a), or in which such person has an interest, and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to a license or other authorization from OFAC expressly authorizing such action; and 
 
-(b) Any account or property subject to the prohibitions in § 510.201(d), and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to a license or other authorization from OFAC expressly authorizing such action.
+(b) Any account or property subject to the prohibitions in § 510.201(d), and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to a license or other authorization from OFAC expressly authorizing such action. 
 
 Note 1 to § 510.302:
 

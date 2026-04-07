@@ -10,8 +10,6 @@ As used in this part, the following words and terms are construed to mean:
 
 (2) As used in this definition, the term “any agricultural commodity” means horticultural products at risk of perishing, or degrading in quality, during transport by commercial motor vehicle, including plants, sod, flowers, shrubs, ornamentals, seedlings, live trees, and Christmas trees.
 
-*Automatic on-board recording device* means an electric, electronic, electromechanical, or mechanical device capable of recording driver's duty status information accurately and automatically as required by § 395.15. The device must be integrally synchronized with specific operations of the commercial motor vehicle in which it is installed. At a minimum, the device must record engine use, road speed, miles driven, the date, and time of day.
-
 *Driver-salesperson* means any employee who is employed solely as such by a private carrier of property by commercial motor vehicle, who is engaged both in selling goods, services, or the use of goods, and in delivering by commercial motor vehicle the goods sold or provided or upon which the services are performed, who does so entirely within a radius of 100 miles of the point at which he/she reports for duty, who devotes not more than 50 percent of his/her hours on duty to driving time. The term *selling goods* for purposes of this section shall include in all cases solicitation or obtaining of reorders or new accounts, and may also include other selling or merchandising activities designed to retain the customer or to increase the sale of goods or services, in addition to solicitation or obtaining of reorders or new accounts.
 
 *Driving time* means all time spent at the driving controls of a commercial motor vehicle in operation.

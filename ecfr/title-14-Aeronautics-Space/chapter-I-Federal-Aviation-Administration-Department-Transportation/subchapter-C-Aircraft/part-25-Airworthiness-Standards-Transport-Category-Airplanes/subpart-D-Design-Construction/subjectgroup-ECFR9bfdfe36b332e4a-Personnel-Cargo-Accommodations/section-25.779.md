@@ -1,8 +1,8 @@
 ##### § 25.779 Motion and effect of cockpit controls.
 
-Cockpit controls must be designed so that they operate in accordance with the following movement and actuation: 
+Cockpit controls must be designed so that they operate in accordance with the following movement and actuation:
 
-(a) Aerodynamic controls: 
+(a) Aerodynamic controls:
 
 (1) *Primary.*
 
@@ -19,7 +19,7 @@ Cockpit controls must be designed so that they operate in accordance with the fo
 | Flaps (or auxiliary lift devices) | Forward for flaps up; rearward for flaps down.                                                        |
 | Trim tabs (or equivalent)         | Rotate to produce similar rotation of the airplane about an axis parallel to the axis of the control. |
 
-(b) Powerplant and auxiliary controls: 
+(b) Powerplant and auxiliary controls:
 
 (1) *Powerplant.*
 

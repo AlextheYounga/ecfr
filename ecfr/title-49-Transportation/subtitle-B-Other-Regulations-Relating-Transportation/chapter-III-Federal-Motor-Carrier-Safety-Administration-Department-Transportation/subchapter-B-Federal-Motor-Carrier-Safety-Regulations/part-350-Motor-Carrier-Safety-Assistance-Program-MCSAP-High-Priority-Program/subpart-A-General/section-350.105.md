@@ -1,4 +1,4 @@
-##### § 350.105 What definitions are used in this part?
+##### § 350.105 Definitions.
 
 Unless specifically defined in this section, terms used in this part are subject to the definitions in 49 CFR part 390. As used in this part:
 

@@ -1,6 +1,6 @@
 ##### § 515.581 Transactions related to conferences in third countries.
 
-Persons subject to U.S. jurisdiction are authorized to sponsor, organize, or provide services in connection with, as well as participate in, conferences or other similar events in a third country that are attended by Cuban nationals. Nothing in this paragraph authorizes a direct financial transaction prohibited by § 515.209.
+Persons subject to U.S. jurisdiction are authorized to sponsor, organize, or provide services in connection with, as well as participate in, conferences or other similar events in a third country that are attended by Cuban nationals. Nothing in this paragraph authorizes a direct financial transaction prohibited by § 515.209. 
 
 Note to § 515.581:
 
