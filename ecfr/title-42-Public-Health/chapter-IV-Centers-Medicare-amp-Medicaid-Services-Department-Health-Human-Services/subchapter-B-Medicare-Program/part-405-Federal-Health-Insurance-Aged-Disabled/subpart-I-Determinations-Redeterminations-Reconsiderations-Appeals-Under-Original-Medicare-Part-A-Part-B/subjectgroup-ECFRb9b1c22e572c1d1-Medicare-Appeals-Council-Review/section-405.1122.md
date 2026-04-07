@@ -2,7 +2,7 @@
 
 (a) *Appeal before the Council on request for review of ALJ's or attorney adjudicator's decision.* (1) If the Council is reviewing an ALJ's or attorney adjudicator's decision, the Council limits its review of the evidence to the evidence contained in the record of the proceedings before the ALJ or attorney adjudicator. However, if the ALJ's or attorney adjudicator's decision decides a new issue that the parties were not afforded an opportunity to address at the OMHA level, the Council considers any evidence related to that issue that is submitted with the request for review.
 
-(2) If the MAC determines that additional evidence is needed to resolve the issues in the case and the administrative record indicates that the previous decision-makers have not attempted to obtain the evidence, the MAC may remand the case to an ALJ or attorney adjudicator to obtain the evidence and issue a new decision.
+(2) If the Council determines that additional evidence is needed to resolve the issues in the case and the administrative record indicates that the previous decision-makers have not attempted to obtain the evidence, the Council may remand the case to an ALJ or attorney adjudicator to obtain the evidence and issue a new decision.
 
 (b) *Appeal before Council as a result of appellant's request for escalation.* (1) If the Council is reviewing a case that is escalated from the OMHA level to the Council, the Council will decide the case based on the record constructed at the QIC and any additional evidence, including oral testimony, entered in the record by the ALJ or attorney adjudicator before the case was escalated.
 
@@ -12,7 +12,7 @@
 
 (2) If the Council determines that good cause does not exist, the Council must exclude the evidence from the proceeding, may not consider it in reaching a decision, and may not remand the issue to an ALJ or attorney adjudicator.
 
-(3) The MAC must notify all parties if it excludes the evidence. The Council may remand to an ALJ or attorney adjudicator if -
+(3) The Council must notify all parties if it excludes the evidence. The Council may remand to an ALJ or attorney adjudicator if—
 
 (i) The ALJ or attorney adjudicator did not consider the new evidence submitted by the provider, supplier, or beneficiary represented by a provider or supplier because good cause did not exist; and
 
@@ -22,7 +22,7 @@
 
 (d) *Subpoenas.* (1) Except as provided in this section, when it is reasonably necessary for the full presentation of a case, the Council may, on its own initiative or at the request of a party, issue subpoenas requiring a party to make books, records, correspondence, papers, or other documents that are material to an issue at the hearing available for inspection and copying. The Council may not issue a subpoena to CMS or its contractors, on its own initiative or at the request of a party, to compel the production of evidence.
 
-(2) A party's request for a subpoena must -
+(2) A party's request for a subpoena must—
 
 (i) Give a sufficient description of the documents to be produced;
 
@@ -32,7 +32,7 @@
 
 (3) A party to the Council review on escalation that wishes to subpoena documents must file a written request that complies with the requirements set out in paragraph (d)(2) of this section within 10 calendar days of the request for escalation.
 
-(4) A subpoena will issue only where a party -
+(4) A subpoena will issue only where a party—
 
 (i) Has sought discovery;
 
@@ -42,7 +42,7 @@
 
 (iv) Nevertheless, has still not received the requested discovery.
 
-(e) Reviewability of subpoena rulings -
+(e) Reviewability of subpoena rulings—
 
 (1) *General rule.* A Council ruling on a subpoena request is not subject to immediate review by the Secretary.
 
