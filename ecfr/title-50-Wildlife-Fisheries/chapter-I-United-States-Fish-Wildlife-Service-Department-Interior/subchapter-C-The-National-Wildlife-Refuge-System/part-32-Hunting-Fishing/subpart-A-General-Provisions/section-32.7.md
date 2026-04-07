@@ -1,5 +1,901 @@
 ##### § 32.7 What refuge units are open to hunting and/or sport fishing?
 
-Refuge units open to hunting and/or sport fishing in accordance with the provisions of subpart A of this part and §§ 32.20-32.72, inclusive, are as follows:
+Refuge units open to hunting and/or sport fishing in accordance with the provisions of this subpart and §§ 32.20 through 32.70, inclusive, are as follows:
 
-Alabama Bon Secour National Wildlife Refuge Cahaba River National Wildlife Refuge Choctaw National Wildlife Refuge Eufaula National Wildlife Refuge Grand Bay National Wildlife Refuge Key Cave National Wildlife Refuge Mountain Longleaf National Wildlife Refuge Sauta Cave National Wildlife Refuge Wheeler National Wildlife Refuge Alaska Alaska Maritime National Wildlife Refuge Alaska Peninsula National Wildlife Refuge Arctic National Wildlife Refuge Becharof National Wildlife Refuge Innoko National Wildlife Refuge Izembek National Wildlife Refuge Kanuti National Wildlife Refuge Kenai National Wildlife Refuge Kodiak National Wildlife Refuge Koyukuk National Wildlife Refuge Nowitna National Wildlife Refuge Salawik National Wildlife Refuge Tetlin National Wildlife Refuge Togiak National Wildlife Refuge Yukon Delta National Wildlife Refuge Yukon Flats National Wildlife Refuge Arizona Bill Williams River National Wildlife Refuge Buenos Aires National Wildlife Refuge Cabeza Prieta National Wildlife Refuge Cibola National Wildlife Refuge Havasu National Wildlife Refuge Imperial National Wildlife Refuge Kofa National Wildlife Refuge San Bernardino National Wildlife Refuge Arkansas Bald Knob National Wildlife Refuge Big Lake National Wildlife Refuge Cache River National Wildlife Refuge Dale Bumpers White River National Wildlife Refuge Felsenthal National Wildlife Refuge Holla Bend National Wildlife Refuge Overflow National Wildlife Refuge Pond Creek National Wildlife Refuge Wapanocca National Wildlife Refuge California Cibola National Wildlife Refuge Clear Lake National Wildlife Refuge Colusa National Wildlife Refuge Delevan National Wildlife Refuge Don Edwards San Francisco Bay National Wildlife Refuge Havasu National Wildlife Refuge Humboldt Bay National Wildlife Refuge Imperial National Wildlife Refuge Kern National Wildlife Refuge Lower Klamath National Wildlife Refuge Merced National Wildlife Refuge Modoc National Wildlife Refuge Sacramento National Wildlife Refuge Sacramento River National Wildlife Refuge Salinas River National Wildlife Refuge San Luis National Wildlife Refuge San Pablo National Wildlife Refuge Sonny Bono Salton Sea National Wildlife Refuge Stone Lakes National Wildlife Refuge Sutter National Wildlife Refuge Tule Lake National Wildlife Refuge Colorado Alamosa National Wildlife Refuge Arapaho National Wildlife Refuge Baca National Wildlife Refuge Browns Park National Wildlife Refuge Monte Vista National Wildlife Refuge Rocky Mountain Arsenal Connecticut Silvio O. Conte National Fish and Wildlife Refuge Stewart B. McKinney National Wildlife Refuge Delaware Bombay Hook National Wildlife Refuge Prime Hook National Wildlife Refuge Florida Arthur R. Marshall Loxahatchee National Wildlife Refuge Cedar Keys National Wildlife Refuge Chassahowitzka National Wildlife Refuge Egmont Key National Wildlife Refuge Hobe Sound National Wildlife Refuge J.N. “Ding” Darling National Wildlife Refuge Lake Woodruff National Wildlife Refuge Lower Suwannee National Wildlife Refuge Merrit Island National Wildlife Refuge Pelican Island National Wildlife Refuge Pinellas National Wildlife Refuge St. Marks National Wildlife Refuge St. Vincent National Wildlife Refuge Ten Thousand Islands National Wildlife Refuge Georgia Banks Lake National Wildlife Refuge Blackbeard Island National Wildlife Refuge Bond Swamp National Wildlife Refuge Eufaula National Wildlife Refuge Harris Neck National Wildlife Refuge Okefenokee National Wildlife Refuge Piedmont National Wildlife Refuge Savannah National Wildlife Refuge Wassaw National Wildlife Refuge Wolf Island National Wildlife Refuge Guam Guam National Wildlife Refuge Hawaii Hakalau Forest National Wildlife Refuge Hanalei National Wildlife Refuge Kakahaia National Wildlife Refuge Kilauea Point National Wildlife Refuge Idaho Bear Lake National Wildlife Refuge Camas National Wildlife Refuge Deer Flat National Wildlife Refuge Grays Lake National Wildlife Refuge Kootenai National Wildlife Refuge Minidoka National Wildlife Refuge Illinois Chautauqua National Wildlife Refuge Crab Orchard National Wildlife Refuge Cypress Creek National Wildlife Refuge Emiquon National Wildlife Refuge Great River National Wildlife Refuge Hackmatack National Wildlife Refuge Kankakee National Wildlife Refuge Meredosia National Wildlife Refuge Middle Mississippi River National Wildlife Refuge Port Louisa National Wildlife Refuge Two Rivers Naional Wildlife Refuge Upper Mississippi River Wildlife and Fish Refuge Indiana Big Oaks National Wildlife Refuge Muscatatuck National Wildlife Refuge Patoka River National Wildlife Refuge and Management Area Iowa De Soto National Wildlife Refuge Driftless Area National Wildlife Refuge Iowa Wetland Management District Neal Smith National Wildlife Refuge Northern Tallgrass Prairie National Wildlife Refuge Port Louisa National Wildlife Refuge Union Slough National Wildlife Refuge Upper Mississippi River Wild Life and Fish Refuge Kansas Flint Hills National Wildlife Refuge Kirwin National Wildlife Refuge Marais des Cygnes National Wildlife Refuge Quivira National Wildlife Refuge Kentucky Clarks River National Wildlife Refuge Ohio River Islands National Wildlife Refuge Reelfoot National Wildlife Refuge Louisiana Atchafalaya National Wildlife Refuge Bayou Cocodrie National Wildlife Refuge Bayou Sauvage National Wildlife Refuge Bayou Teche National Wildlife Refuge Big Branch Marsh National Wildlife Refuge Black Bayou Lake National Wildlife Refuge Bogue Chitto National Wildlife Refuge Breton National Wildlife Refuge Cameron Prairie National Wildlife Refuge Cat Island National Wildlife Refuge Catahoula National Wildlife Refuge D'Arbonne National Wildlife Refuge Delta National Wildlife Refuge Grand Cote National Wildlife Refuge Lacassine National Wildlife Refuge Lake Ophelia National Wildlife Refuge Mandalay National Wildlife Refuge Red River National Wildlife Refuge Sabine National Wildlife Refuge Tensas River National Wildlife Refuge Upper Ouachita National Wildlife Refuge Maine Moosehorn National Wildlife Refuge Petit Manan National Wildlife Refuge Rachel Carson National Wildlife Refuge Sunkhaze Meadows National Wildlife Refuge Umbagog National Wildlife Refuge Maryland Blackwater National Wildlife Refuge Eastern Neck National Wildlife Refuge Patuxent Research Refuge Massachusetts Assabet River National Wildlife Refuge Great Meadows National Wildlife Refuge Monomoy National Wildlife Refuge Nantucket National Wildlife Refuge Oxbow National Wildlife Refuge Parker River National Wildlife Refuge Silvio O. Conte National Fish and Wildlife Refuge Michigan Detroit River International Wildlife Refuge Harbor Island National Wildlife Refuge Kirtland's Warbler Wildlife Management Area Michigan Wetland Management District Seney National Wildlife Refuge Shiawassee National Wildlife Refuge Minnesota Agassiz National Wildlife Refuge Big Stone National Wildlife Refuge Big Stone Wetland Management District Crane Meadows National Wildlife Refuge Detroit Lakes Wetland Management District Fergus Falls Wetland Management District Glacial Ridge National Wildlife Refuge Hamden Slough National Wildlife Refuge Litchfield Wetland Management District Minnesota Valley National Wildlife Refuge Minnesota Valley Wetland Management Morris Wetland Management District Northern Tallgrass Prairie National Wildlife Refuge Rice Lake National Wildlife Refuge Rydell National Wildlife Refuge Sherburne National Wildlife Refuge Tamarac National Wildlife Refuge Upper Mississippi River Wild Life and Fish Refuge Windom Wetland Management District Mississippi Bogue Chitto National Wildlife Refuge Coldwater River National Wildlife Refuge Dahomey National Wildlife Refuge Grand Bay National Wildlife Refuge Hillside National Wildlife Refuge Holt Collier National Wildlife Refuge Mathews Brake National Wildlife Refuge Morgan Brake National Wildlife Refuge Panther Swamp National Wildlife Refuge St. Catherine Creek National Wildlife Refuge Sam D. Hamilton Noxubee National Wildlife Refuge Tallahatchie National Wildlife Refuge Yazoo National Wildlife Refuge Missouri Big Muddy National Wildlife Refuge Clarence Cannon National Wildlife Refuge Great River National Wildlife Refuge Loess Bluffs National Wildlife Refuge Middle Mississippi River National Wildlife Refuge Mingo National Wildlife Refuge Swan Lake National Wildlife Refuge Two Rivers National Wildlife Refuge Montana Benton Lake National Wildlife Refuge Benton Lake Wetland Management District Black Coulee National Wildlife Refuge Bowdoin National Wildlife Refuge Bowdoin Wetland Management District Charles M. Russell National Wildlife Refuge Charles M. Russell Wetland Management District Creedman Coulee National Wildlife Refuge Hailstone National Wildlife Refuge Halfbreed Lake National Wildlife Refuge Hewitt Lake National Wildlife Refuge Lake Mason National Wildlife Refuge Lake Thibadeau National Wildlife Refuge Lamesteer National Wildlife Refuge Lee Metcalf National Wildlife Refuge Lost Trail National Wildlife Refuge Medicine Lake National Wildlife Refuge National Bison Range Ninepipe National Wildlife Refuge Northeast Montana Wetland Management District Northwest Montana Wetland Management District Pablo National Wildlife Refuge Red Rock Lakes National Wildlife Refuge Swan River National Wildlife Refuge UL Bend National Wildlife Refuge War Horse National Wildlife Refuge Nebraska Boyer Chute National Wildlife Refuge Crescent Lake National Wildlife Refuge De Soto National Wildlife Refuge Fort Niobrara National Wildlife Refuge North Platte National Wildlife Refuge Rainwater Basin Wetland Management District Valentine National Wildlife Refuge Nevada Ash Meadows National Wildlife Refuge Desert National Wildlife Refuge Pahranagat National Wildlife Refuge Ruby Lake National Wildlife Refuge Sheldon National Wildlife Refuge Stillwater National Wildlife Refuge New Hampshire Great Bay National Wildlife Refuge Silvio O. Conte National Wildlife Refuge Umbagog National Wildlife Refuge New Jersey Cape May National Wildlife Refuge Edwin B. Forsythe National Wildlife Refuge Great Swamp National Wildlife Refuge Supawna Meadows National Wildlife Refuge Wallkill River National Wildlife Refuge New Mexico Bitter Lake National Wildlife Refuge Bosque del Apache National Wildlife Refuge Las Vegas National Wildlife Refuge Maxwell National Wildlife Refuge San Andres National Wildlife Refuge Sevilleta National Wildlife Refuge New York Amagansett National Wildlife Refuge Elizabeth A. Morton National Wildlife Refuge Iroquois National Wildlife Refuge Montezuma National Wildlife Refuge Oyster Bay National Wildlife Refuge Seatuck National Wildlife Refuge Shawangunk Grasslands National Wildlife Refuge Target Rock National Wildlife Refuge Wallkill National Wildlife Refuge Wertheim National Wildlife Refuge North Carolina Alligator River National Wildlife Refuge Cedar Island National Wildlife Refuge Currituck National Wildlife Refuge Great Dismal Swamp National Wildlife Refuge Mackay Island National Wildlife Refuge Mattamuskeet National Wildlife Refuge Pea Island National Wildlife Refuge Pee Dee National Wildlife Refuge Pocosin Lakes National Wildlife Refuge Roanoke River National Wildlife Refuge Swanquarter National Wildlife Refuge North Dakota Ardoch National Wildlife Refuge Arrowwood National Wildlife Refuge Arrowwood Wetland Management District Audubon National Wildlife Refuge Audubon Wetland Management District Chase Lake National Wildlife Refuge Chase Lake Wetland Management District Crosby Wetland Management District Des Lacs National Wildlife Refuge Devils Lake Wetland Management District J. Clark Salyer National Wildlife Refuge J. Clark Salyer Wetland Management District Kulm Wetland Management District Lake Alice National Wildlife Refuge Lake Ilo National Wildlife Refuge Lake Nettie National Wildlife Refuge Lake Zahl National Wildlife Refuge Long Lake National Wildlife Refuge Long Lake Wetland Management District Lostwood National Wildlife Refuge Lostwood Wetland Management District Rock Lake National Wildlife Refuge Rose Lake National Wildlife Refuge Sibley Lake National Wildlife Refuge Silver Lake National Wildlife Refuge Slade National Wildlife Refuge Stewart Lake National Wildlife Refuge Tewaukon National Wildlife Refuge Tewaukon Wetland Management District Upper Souris National Wildlife Refuge Valley City Wetland Management District Ohio Cedar Point National Wildlife Refuge Ottawa National Wildlife Refuge Oklahoma Deep Fork National Wildlife Refuge Little River National Wildlife Refuge Optima National Wildlife Refuge Salt Plains National Wildlife Refuge Sequoyah National Wildlife Refuge Tishomingo National Wildlife Refuge Tishomingo Wildlife Management Unit Washita National Wildlife Refuge Wichita Mountains National Wildlife Refuge Oregon Bandon Marsh National Wildlife Refuge Baskett Slough National Wildlife Refuge Bear Valley National Wildlife Refuge Cold Springs National Wildlife Refuge Deer Flat National Wildlife Refuge Hart Mountain National Antelope Refuge Julia Butler Hansen Refuge for the Columbian White-Tailed Deer Klamath Marsh National Wildlife Refuge Lewis and Clark National Wildlife Refuge Lower Klamath National Wildlife Refuge Malheur National Wildlife Refuge McKay Creek National Wildlife Refuge McNary National Wildlife Refuge Nestucca Bay National Wildlife Refuge Sheldon National Wildlife Refuge Siletz Bay National Wildlife Refuge Tualatin River National Wildlife Refuge Umatilla National Wildlife Refuge Upper Klamath National Wildlife Refuge William L. Finley National Wildlife Refuge Pennsylvania Cherry Valley National Wildlife Refuge Erie National Wildlife Refuge John Heinz National Wildlife Refuge at Tinicum Ohio River Islands National Wildlife Refuge Puerto Rico \[Reserved\] Rhode Island Block Island National Wildlife Refuge John H. Chafee National Wildlife Refuge Ninigret National Wildlife Refuge Sachuest Point National Wildlife Refuge Trustom Pond National Wildlife Refuge South Carolina Cape Romain National Wildlife Refuge Carolina Sandhills National Wildlife Refuge Ernest F. Hollings ACE Basin National Wildlife Refuge Pinckney Island National Wildlife Refuge Santee National Wildlife Refuge Savannah National Wildlife Refuge Waccamaw National Wildlife Refuge South Dakota Devils Lake Wetland Management District Huron Wetland Management District Lacreek National Wildlife Refuge Lake Andes National Wildlife Refuge Lake Andes Wetland Management District Madison Wetland Management District Sand Lake National Wildlife Refuge Sand Lake Wetland Management District Waubay National Wildlife Refuge Waubay Wetland Management District Tennessee Chickasaw National Wildlife Refuge Cross Creeks National Wildlife Refuge Hatchie National Wildlife Refuge Lake Isom National Wildlife Refuge Lower Hatchie National Wildlife Refuge Reelfoot National Wildlife Refuge Tennessee National Wildlife Refuge Texas Anahuac National Wildlife Refuge Aransas National Wildlife Refuge Balcones Canyonlands National Wildlife Refuge Big Boggy National Wildlife Refuge Brazoria National Wildlife Refuge Buffalo Lake National Wildlife Refuge Caddo Lake National Wildlife Refuge Hagerman National Wildlife Refuge Laguna Atascosa National Wildlife Refuge Lower Rio Grande Valley National Wildlife Refuge McFaddin National Wildlife Refuge San Bernard National Wildlife Refuge Texas Point National Wildlife Refuge Trinity River National Wildlife Refuge Utah Bear River National Wildlife Refuge Fish Springs National Wildlife Refuge Ouray National Wildlife Refuge Vermont Missisquoi National Wildlife Refuge Silvio O. Conte National Fish and Wildlife Refuge Virginia Back Bay National Wildlife Refuge Chinocteague National Wildlife Refuge Eastern Shore of Virginia National Wildlife Refuge Great Dismal Swamp National Wildlife Refuge James River National Wildilfe Refuge Mackay Island National Wildlife Refuge Mason Neck National Wildlife Refuge Occoquan Bay National Wildlife Refuge Plum Tree Island National Wildlife Refuge Presquile National Wildlife Refuge Rappahannock River Valley National Wildlife Refuge Wallops Island National Wildlife Refuge Washington Billy Frank Jr. Nisqually National Wildlife Refuge Columbia National Wildlife Refuge Conboy Lake National Wildlife Refuge Dungeness National Wildlife Refuge Hanford Reach National Monument/Saddle Mountain National Wildlife Refuge Julia Butler Hansen Refuge for the Columbian White-tailed Deer Little Pend Oreille National Wildlife Refuge McNary National Wildlife Refuge Ridgefield National Wildlife Refuge Toppenish National Wildlife Refuge Turnbull National Wildlife Refuge Umatilla National Wildlife Refuge Willapa National Wildlife Refuge West Virginia Canaan Valley National Wildlife Refuge Ohio River Islands National Wildlife Refuge Wisconsin Fox River National Wildlife Refuge Hackmatack National Wildlife Refuge Horicon National Wildlife Refuge Leopold Wetland Management District Necedah National Wildlife Refuge St. Croix Wetland Management District Trempealeau National Wildlife Refuge Upper Mississippi River National Wildlife and Fish Refuge Whittlesey Creek National Wildlife Refuge Wyoming Cokeville Meadows National Wildlife Refuge National Elk Refuge Pathfinder National Wildlife Refuge Seedskadee National Wildlife Refuge United States Unincorporated Pacific Insular Possessions Johnston Island National Wildlife Refuge Midway Atoll National Wildlife Refuge\[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29073, May 18, 1993; 58 FR 29084, May 18, 1993; 59 FR 6685, 6688, Feb. 11, 1994; 59 FR 55183, 55191, 55196, Nov. 3, 1994; 60 FR 5277, Jan. 26, 1995; 60 FR 52868, Oct. 11, 1995; 60 FR 61212, Nov. 29, 1995; 60 FR 62040, Dec. 4, 1995; 61 FR 31461, 31463, June 20, 1996; 61 FR 45366, Aug. 29, 1996; 61 FR 46393, Sept. 3, 1996; 62 FR 47375, Sept. 9, 1997; 63 FR 46914, Sept. 3, 1998; 65 FR 30777, May 12, 2000; 65 FR 56400, Sept. 18, 2000; 66 FR 46353, Sept. 4, 2001; 67 FR 58943, Sept. 18, 2002; 68 FR 57315, Oct. 2, 2003; 69 FR 54362, Sept. 8, 2004; 70 FR 54158, Sept. 13, 2005; 73 FR 33167, June 11, 2008; 73 FR 51158, Aug. 29, 2008; 75 FR 18420, Apr. 12, 2010; 76 FR 3945, Jan. 21, 2011; 76 FR 56063, Sept. 9, 2011; 77 FR 56035, Sept. 11, 2012; 79 FR 14822, Mar. 17, 2014; 80 FR 51886, Aug. 26, 2015; 81 FR 68887, Oct. 4, 2016; 82 FR 51947, Nov. 8, 2017; 83 FR 45766, Sept. 10, 2018\]
+(a) *Alabama.* (1) Bon Secour National Wildlife Refuge.
+
+(2) Cahaba River National Wildlife Refuge.
+
+(3) Choctaw National Wildlife Refuge.
+
+(4) Eufaula National Wildlife Refuge.
+
+(5) Grand Bay National Wildlife Refuge.
+
+(6) Key Cave National Wildlife Refuge.
+
+(7) Mountain Longleaf National Wildlife Refuge.
+
+(8) Sauta Cave National Wildlife Refuge.
+
+(9) Wheeler National Wildlife Refuge.
+
+(b) *Alaska.* (1) Alaska Maritime National Wildlife Refuge.
+
+(2) Alaska Peninsula National Wildlife Refuge.
+
+(3) Arctic National Wildlife Refuge.
+
+(4) Becharof National Wildlife Refuge.
+
+(5) Innoko National Wildlife Refuge.
+
+(6) Izembek National Wildlife Refuge.
+
+(7) Kanuti National Wildlife Refuge.
+
+(8) Kenai National Wildlife Refuge.
+
+(9) Kodiak National Wildlife Refuge.
+
+(10) Koyukuk National Wildlife Refuge.
+
+(11) Nowitna National Wildlife Refuge.
+
+(12) Salawik National Wildlife Refuge.
+
+(13) Tetlin National Wildlife Refuge.
+
+(14) Togiak National Wildlife Refuge.
+
+(15) Yukon Delta National Wildlife Refuge.
+
+(16) Yukon Flats National Wildlife Refuge.
+
+(c) *Arizona.* (1) Bill Williams River National Wildlife Refuge.
+
+(2) Buenos Aires National Wildlife Refuge.
+
+(3) Cabeza Prieta National Wildlife Refuge.
+
+(4) Cibola National Wildlife Refuge.
+
+(5) Havasu National Wildlife Refuge.
+
+(6) Imperial National Wildlife Refuge.
+
+(7) Kofa National Wildlife Refuge.
+
+(8) San Bernardino National Wildlife Refuge.
+
+(d) *Arkansas.* (1) Bald Knob National Wildlife Refuge.
+
+(2) Big Lake National Wildlife Refuge.
+
+(3) Cache River National Wildlife Refuge.
+
+(4) Dale Bumpers White River National Wildlife Refuge.
+
+(5) Felsenthal National Wildlife Refuge.
+
+(6) Holla Bend National Wildlife Refuge.
+
+(7) Overflow National Wildlife Refuge.
+
+(8) Pond Creek National Wildlife Refuge.
+
+(9) Wapanocca National Wildlife Refuge.
+
+(e) *California.* (1) Cibola National Wildlife Refuge.
+
+(2) Clear Lake National Wildlife Refuge.
+
+(3) Colusa National Wildlife Refuge.
+
+(4) Delevan National Wildlife Refuge.
+
+(5) Don Edwards San Francisco Bay National Wildlife Refuge.
+
+(6) Havasu National Wildlife Refuge.
+
+(7) Humboldt Bay National Wildlife Refuge.
+
+(8) Imperial National Wildlife Refuge.
+
+(9) Kern National Wildlife Refuge.
+
+(10) Lower Klamath National Wildlife Refuge.
+
+(11) Marin Islands National Wildlife Refuge.
+
+(12) Merced National Wildlife Refuge.
+
+(13) Modoc National Wildlife Refuge.
+
+(14) Sacramento National Wildlife Refuge.
+
+(15) Sacramento River National Wildlife Refuge.
+
+(16) Salinas River National Wildlife Refuge.
+
+(17) San Luis National Wildlife Refuge.
+
+(18) San Pablo Bay National Wildlife Refuge.
+
+(19) Sonny Bono Salton Sea National Wildlife Refuge.
+
+(20) Stone Lakes National Wildlife Refuge.
+
+(21) Sutter National Wildlife Refuge.
+
+(22) Tule Lake National Wildlife Refuge.
+
+(f) *Colorado.* (1) Alamosa National Wildlife Refuge.
+
+(2) Arapaho National Wildlife Refuge.
+
+(3) Baca National Wildlife Refuge.
+
+(4) Browns Park National Wildlife Refuge.
+
+(5) Monte Vista National Wildlife Refuge.
+
+(6) Rocky Mountain Arsenal.
+
+(g) *Connecticut.* (1) Silvio O. Conte National Fish and Wildlife Refuge.
+
+(2) Stewart B. McKinney National Wildlife Refuge.
+
+(h) *Delaware.* (1) Bombay Hook National Wildlife Refuge.
+
+(2) Prime Hook National Wildlife Refuge.
+
+(i) *Florida.* (1) Arthur R. Marshall Loxahatchee National Wildlife Refuge.
+
+(2) Cedar Keys National Wildlife Refuge.
+
+(3) Chassahowitzka National Wildlife Refuge.
+
+(4) Egmont Key National Wildlife Refuge.
+
+(5) Hobe Sound National Wildlife Refuge.
+
+(6) J.N. “Ding” Darling National Wildlife Refuge.
+
+(7) Lake Woodruff National Wildlife Refuge.
+
+(8) Lower Suwannee National Wildlife Refuge.
+
+(9) Merritt Island National Wildlife Refuge.
+
+(10) Pelican Island National Wildlife Refuge.
+
+(11) Pinellas National Wildlife Refuge.
+
+(12) St. Marks National Wildlife Refuge.
+
+(13) St. Vincent National Wildlife Refuge.
+
+(14) Ten Thousand Islands National Wildlife Refuge.
+
+(j) *Georgia.* (1) Banks Lake National Wildlife Refuge.
+
+(2) Blackbeard Island National Wildlife Refuge.
+
+(3) Bond Swamp National Wildlife Refuge.
+
+(4) Eufaula National Wildlife Refuge.
+
+(5) Harris Neck National Wildlife Refuge.
+
+(6) Okefenokee National Wildlife Refuge.
+
+(7) Piedmont National Wildlife Refuge.
+
+(8) Savannah National Wildlife Refuge.
+
+(9) Wassaw National Wildlife Refuge.
+
+(10) Wolf Island National Wildlife Refuge.
+
+(k) *Hawaii.* (1) Hanalei National Wildlife Refuge.
+
+(2) Kakahaia National Wildlife Refuge.
+
+(3) Kilauea Point National Wildlife Refuge.
+
+(l) *Idaho.* (1) Bear Lake National Wildlife Refuge.
+
+(2) Camas National Wildlife Refuge.
+
+(3) Deer Flat National Wildlife Refuge.
+
+(4) Grays Lake National Wildlife Refuge.
+
+(5) Kootenai National Wildlife Refuge.
+
+(6) Minidoka National Wildlife Refuge.
+
+(m) *Illinois.* (1) Chautauqua National Wildlife Refuge.
+
+(2) Crab Orchard National Wildlife Refuge.
+
+(3) Cypress Creek National Wildlife Refuge.
+
+(4) Emiquon National Wildlife Refuge.
+
+(5) Great River National Wildlife Refuge.
+
+(6) Hackmatack National Wildlife Refuge.
+
+(7) Kankakee National Wildlife Refuge.
+
+(8) Meredosia National Wildlife Refuge.
+
+(9) Middle Mississippi River National Wildlife Refuge.
+
+(10) Port Louisa National Wildlife Refuge.
+
+(11) Two Rivers National Wildlife Refuge.
+
+(12) Upper Mississippi River National Wildlife and Fish Refuge.
+
+(n) *Indiana.* (1) Big Oaks National Wildlife Refuge.
+
+(2) Muscatatuck National Wildlife Refuge.
+
+(3) Patoka River National Wildlife Refuge and Management Area
+
+(o) *Iowa.* (1) De Soto National Wildlife Refuge.
+
+(2) Driftless Area National Wildlife Refuge.
+
+(3) Iowa Wetland Management District.
+
+(4) Neal Smith National Wildlife Refuge.
+
+(5) Northern Tallgrass Prairie National Wildlife Refuge.
+
+(6) Port Louisa National Wildlife Refuge.
+
+(7) Union Slough National Wildlife Refuge.
+
+(8) Upper Mississippi River National Wildlife and Fish Refuge.
+
+(p) *Kansas.* (1) Flint Hills National Wildlife Refuge.
+
+(2) Kirwin National Wildlife Refuge.
+
+(3) Marais des Cygnes National Wildlife Refuge.
+
+(4) Quivira National Wildlife Refuge.
+
+(q) *Kentucky.* (1) Clarks River National Wildlife Refuge.
+
+(2) Ohio River Islands National Wildlife Refuge.
+
+(3) Reelfoot National Wildlife Refuge.
+
+(r) *Louisiana.* (1) Atchafalaya National Wildlife Refuge.
+
+(2) Bayou Cocodrie National Wildlife Refuge.
+
+(3) Bayou Sauvage National Wildlife Refuge.
+
+(4) Bayou Teche National Wildlife Refuge.
+
+(5) Big Branch Marsh National Wildlife Refuge.
+
+(6) Black Bayou Lake National Wildlife Refuge.
+
+(7) Bogue Chitto National Wildlife Refuge.
+
+(8) Breton National Wildlife Refuge.
+
+(9) Cameron Prairie National Wildlife Refuge.
+
+(10) Cat Island National Wildlife Refuge.
+
+(11) Catahoula National Wildlife Refuge.
+
+(12) D'Arbonne National Wildlife Refuge.
+
+(13) Delta National Wildlife Refuge.
+
+(14) Grand Cote National Wildlife Refuge.
+
+(15) Lacassine National Wildlife Refuge.
+
+(16) Lake Ophelia National Wildlife Refuge.
+
+(17) Mandalay National Wildlife Refuge.
+
+(18) Red River National Wildlife Refuge.
+
+(19) Sabine National Wildlife Refuge.
+
+(20) Tensas River National Wildlife Refuge.
+
+(21) Upper Ouachita National Wildlife Refuge.
+
+(s) *Maine.* (1) Moosehorn National Wildlife Refuge.
+
+(2) Petit Manan National Wildlife Refuge.
+
+(3) Rachel Carson National Wildlife Refuge.
+
+(4) Sunkhaze Meadows National Wildlife Refuge.
+
+(5) Umbagog National Wildlife Refuge.
+
+(t) *Maryland.* (1) Blackwater National Wildlife Refuge.
+
+(2) Eastern Neck National Wildlife Refuge.
+
+(3) Patuxent Research Refuge.
+
+(u) *Massachusetts.* (1) Assabet River National Wildlife Refuge.
+
+(2) Great Meadows National Wildlife Refuge.
+
+(3) Mashpee National Wildlife Refuge.
+
+(4) Monomoy National Wildlife Refuge.
+
+(5) Nantucket National Wildlife Refuge.
+
+(6) Oxbow National Wildlife Refuge.
+
+(7) Parker River National Wildlife Refuge.
+
+(8) Silvio O. Conte National Fish and Wildlife Refuge.
+
+(v) *Michigan.* (1) Detroit River International Wildlife Refuge.
+
+(2) Harbor Island National Wildlife Refuge.
+
+(3) Kirtland's Warbler Wildlife Management Area.
+
+(4) Michigan Wetland Management District.
+
+(5) Seney National Wildlife Refuge.
+
+(6) Shiawassee National Wildlife Refuge.
+
+(w) *Minnesota.* (1) Agassiz National Wildlife Refuge.
+
+(2) Big Stone National Wildlife Refuge.
+
+(3) Big Stone Wetland Management District.
+
+(4) Crane Meadows National Wildlife Refuge.
+
+(5) Detroit Lakes Wetland Management District.
+
+(6) Fergus Falls Wetland Management District.
+
+(7) Glacial Ridge National Wildlife Refuge.
+
+(8) Hamden Slough National Wildlife Refuge.
+
+(9) Litchfield Wetland Management District.
+
+(10) Minnesota Valley National Wildlife Refuge.
+
+(11) Minnesota Valley Wetland Management District.
+
+(12) Morris Wetland Management District.
+
+(13) Northern Tallgrass Prairie National Wildlife Refuge.
+
+(14) Rice Lake National Wildlife Refuge.
+
+(15) Rydell National Wildlife Refuge.
+
+(16) Sherburne National Wildlife Refuge.
+
+(17) Tamarac National Wildlife Refuge.
+
+(18) Upper Mississippi River National Wildlife and Fish Refuge.
+
+(19) Windom Wetland Management District.
+
+(x) *Mississippi.* (1) Bogue Chitto National Wildlife Refuge.
+
+(2) Coldwater River National Wildlife Refuge.
+
+(3) Dahomey National Wildlife Refuge.
+
+(4) Grand Bay National Wildlife Refuge.
+
+(5) Hillside National Wildlife Refuge.
+
+(6) Holt Collier National Wildlife Refuge.
+
+(7) Mathews Brake National Wildlife Refuge.
+
+(8) Morgan Brake National Wildlife Refuge.
+
+(9) Panther Swamp National Wildlife Refuge.
+
+(10) Sam D. Hamilton Noxubee National Wildlife Refuge.
+
+(11) St. Catherine Creek National Wildlife Refuge.
+
+(12) Tallahatchie National Wildlife Refuge.
+
+(13) Yazoo National Wildlife Refuge.
+
+(y) *Missouri.* (1) Big Muddy National Fish and Wildlife Refuge.
+
+(2) Clarence Cannon National Wildlife Refuge.
+
+(3) Great River National Wildlife Refuge.
+
+(4) Loess Bluffs National Wildlife Refuge.
+
+(5) Middle Mississippi River National Wildlife Refuge.
+
+(6) Mingo National Wildlife Refuge.
+
+(7) Swan Lake National Wildlife Refuge.
+
+(8) Two Rivers National Wildlife Refuge.
+
+(z) *Montana.* (1) Benton Lake National Wildlife Refuge.
+
+(2) Benton Lake Wetland Management District.
+
+(3) Black Coulee National Wildlife Refuge.
+
+(4) Bowdoin National Wildlife Refuge.
+
+(5) Bowdoin Wetland Management District.
+
+(6) Charles M. Russell National Wildlife Refuge.
+
+(7) Charles M. Russell Wetland Management District.
+
+(8) Creedman Coulee National Wildlife Refuge.
+
+(9) Hailstone National Wildlife Refuge.
+
+(10) Hewitt Lake National Wildlife Refuge.
+
+(11) Lake Mason National Wildlife Refuge.
+
+(12) Lake Thibadeau National Wildlife Refuge.
+
+(13) Lamesteer National Wildlife Refuge.
+
+(14) Lee Metcalf National Wildlife Refuge.
+
+(15) Lost Trail National Wildlife Refuge.
+
+(16) Medicine Lake National Wildlife Refuge.
+
+(17) National Bison Range.
+
+(18) Ninepipe National Wildlife Refuge.
+
+(19) Northeast Montana Wetland Management District.
+
+(20) Northwest Montana Wetland Management District.
+
+(21) Pablo National Wildlife Refuge.
+
+(22) Red Rock Lakes National Wildlife Refuge.
+
+(23) Swan River National Wildlife Refuge.
+
+(24) UL Bend National Wildlife Refuge.
+
+(25) War Horse National Wildlife Refuge.
+
+(aa) *Nebraska.* (1) Boyer Chute National Wildlife Refuge.
+
+(2) Crescent Lake National Wildlife Refuge.
+
+(3) Fort Niobrara National Wildlife Refuge.
+
+(4) North Platte National Wildlife Refuge.
+
+(5) Rainwater Basin Wetland Management District.
+
+(6) Valentine National Wildlife Refuge.
+
+(bb) *Nevada.* (1) Ash Meadows National Wildlife Refuge.
+
+(2) Desert National Wildlife Refuge.
+
+(3) Pahranagat National Wildlife Refuge.
+
+(4) Ruby Lake National Wildlife Refuge.
+
+(5) Sheldon National Wildlife Refuge.
+
+(6) Stillwater National Wildlife Refuge.
+
+(cc) *New Hampshire.* (1) Great Bay National Wildlife Refuge.
+
+(2) Silvio O. Conte National Fish and Wildlife Refuge.
+
+(3) Umbagog National Wildlife Refuge.
+
+(dd) *New Jersey.* (1) Cape May National Wildlife Refuge.
+
+(2) Edwin B. Forsythe National Wildlife Refuge.
+
+(3) Great Swamp National Wildlife Refuge.
+
+(4) Supawna Meadows National Wildlife Refuge.
+
+(5) Wallkill River National Wildlife Refuge.
+
+(ee) *New Mexico.* (1) Bitter Lake National Wildlife Refuge.
+
+(2) Bosque del Apache National Wildlife Refuge.
+
+(3) Las Vegas National Wildlife Refuge.
+
+(4) Maxwell National Wildlife Refuge.
+
+(5) San Andres National Wildlife Refuge.
+
+(6) Sevilleta National Wildlife Refuge.
+
+(ff) *New York.* (1) Amagansett National Wildlife Refuge.
+
+(2) Elizabeth A. Morton National Wildlife Refuge.
+
+(3) Iroquois National Wildlife Refuge.
+
+(4) Montezuma National Wildlife Refuge.
+
+(5) Oyster Bay National Wildlife Refuge.
+
+(6) Seatuck National Wildlife Refuge.
+
+(7) Shawangunk Grasslands National Wildlife Refuge.
+
+(8) Target Rock National Wildlife Refuge.
+
+(9) Wallkill National Wildlife Refuge.
+
+(10) Wertheim National Wildlife Refuge.
+
+(gg) *North Carolina.* (1) Alligator River National Wildlife Refuge.
+
+(2) Cedar Island National Wildlife Refuge.
+
+(3) Currituck National Wildlife Refuge.
+
+(4) Great Dismal Swamp National Wildlife Refuge.
+
+(5) Mackay Island National Wildlife Refuge.
+
+(6) Mattamuskeet National Wildlife Refuge.
+
+(7) Pea Island National Wildlife Refuge.
+
+(8) Pee Dee National Wildlife Refuge.
+
+(9) Pocosin Lakes National Wildlife Refuge.
+
+(10) Roanoke River National Wildlife Refuge.
+
+(11) Swanquarter National Wildlife Refuge.
+
+(hh) *North Dakota.* (1) Ardoch National Wildlife Refuge.
+
+(2) Arrowwood National Wildlife Refuge.
+
+(3) Arrowwood Wetland Management District.
+
+(4) Audubon National Wildlife Refuge.
+
+(5) Audubon Wetland Management District.
+
+(6) Chase Lake National Wildlife Refuge.
+
+(7) Chase Lake Wetland Management District.
+
+(8) Crosby Wetland Management District.
+
+(9) Des Lacs National Wildlife Refuge.
+
+(10) Devils Lake Wetland Management District.
+
+(11) J. Clark Salyer National Wildlife Refuge.
+
+(12) J. Clark Salyer Wetland Management District.
+
+(13) Kulm Wetland Management District.
+
+(14) Lake Alice National Wildlife Refuge.
+
+(15) Lake Ilo National Wildlife Refuge.
+
+(16) Lake Nettie National Wildlife Refuge.
+
+(17) Lake Zahl National Wildlife Refuge.
+
+(18) Long Lake National Wildlife Refuge.
+
+(19) Long Lake Wetland Management District.
+
+(20) Lostwood National Wildlife Refuge.
+
+(21) Lostwood Wetland Management District.
+
+(22) Rose Lake National Wildlife Refuge.
+
+(23) Sibley Lake National Wildlife Refuge.
+
+(24) Silver Lake National Wildlife Refuge.
+
+(25) Slade National Wildlife Refuge.
+
+(26) Stewart Lake National Wildlife Refuge.
+
+(27) Tewaukon National Wildlife Refuge.
+
+(28) Tewaukon Wetland Management District.
+
+(29) Upper Souris National Wildlife Refuge.
+
+(ii) *Ohio.* (1) Cedar Point National Wildlife Refuge.
+
+(2) Ottawa National Wildlife Refuge.
+
+(jj) *Oklahoma.* (1) Deep Fork National Wildlife Refuge.
+
+(2) Little River National Wildlife Refuge.
+
+(3) Optima National Wildlife Refuge.
+
+(4) Ozark Plateau National Wildlife Refuge.
+
+(5) Salt Plains National Wildlife Refuge.
+
+(6) Sequoyah National Wildlife Refuge.
+
+(7) Tishomingo National Wildlife Refuge.
+
+(8) Tishomingo Wildlife Management Unit.
+
+(9) Washita National Wildlife Refuge.
+
+(10) Wichita Mountains National Wildlife Refuge.
+
+(kk) *Oregon.* (1) Bandon Marsh National Wildlife Refuge.
+
+(2) Baskett Slough National Wildlife Refuge.
+
+(3) Bear Valley National Wildlife Refuge.
+
+(4) Cold Springs National Wildlife Refuge.
+
+(5) Deer Flat National Wildlife Refuge.
+
+(6) Hart Mountain National Antelope Refuge.
+
+(7) Julia Butler Hansen Refuge for the Columbian White-Tailed Deer.
+
+(8) Klamath Marsh National Wildlife Refuge.
+
+(9) Lewis and Clark National Wildlife Refuge.
+
+(10) Lower Klamath National Wildlife Refuge.
+
+(11) Malheur National Wildlife Refuge.
+
+(12) McKay Creek National Wildlife Refuge.
+
+(13) McNary National Wildlife Refuge.
+
+(14) Nestucca Bay National Wildlife Refuge.
+
+(15) Sheldon National Wildlife Refuge.
+
+(16) Siletz Bay National Wildlife Refuge.
+
+(17) Tualatin River National Wildlife Refuge.
+
+(18) Umatilla National Wildlife Refuge.
+
+(19) Upper Klamath National Wildlife Refuge.
+
+(20) William L. Finley National Wildlife Refuge.
+
+(ll) *Pennsylvania.* (1) Cherry Valley National Wildlife Refuge.
+
+(2) Erie National Wildlife Refuge.
+
+(3) John Heinz National Wildlife Refuge at Tinicum.
+
+(4) Ohio River Islands National Wildlife Refuge.
+
+(mm) *Rhode Island.* (1) Block Island National Wildlife Refuge.
+
+(2) Ninigret National Wildlife Refuge.
+
+(3) Sachuest Point National Wildlife Refuge.
+
+(4) Trustom Pond National Wildlife Refuge.
+
+(nn) *South Carolina.* (1) Cape Romain National Wildlife Refuge.
+
+(2) Carolina Sandhills National Wildlife Refuge.
+
+(3) Ernest F. Hollings ACE Basin National Wildlife Refuge.
+
+(4) Pinckney Island National Wildlife Refuge.
+
+(5) Santee National Wildlife Refuge.
+
+(6) Savannah National Wildlife Refuge.
+
+(7) Waccamaw National Wildlife Refuge.
+
+(oo) *South Dakota.* (1) Huron Wetland Management District.
+
+(2) Lacreek National Wildlife Refuge.
+
+(3) Lake Andes National Wildlife Refuge.
+
+(4) Lake Andes Wetland Management District.
+
+(5) Madison Wetland Management District.
+
+(6) Sand Lake National Wildlife Refuge.
+
+(7) Sand Lake Wetland Management District.
+
+(8) Waubay National Wildlife Refuge.
+
+(9) Waubay Wetland Management District.
+
+(pp) *Tennessee.* (1) Chickasaw National Wildlife Refuge.
+
+(2) Cross Creeks National Wildlife Refuge.
+
+(3) Hatchie National Wildlife Refuge.
+
+(4) Lake Isom National Wildlife Refuge.
+
+(5) Lower Hatchie National Wildlife Refuge.
+
+(6) Reelfoot National Wildlife Refuge.
+
+(7) Tennessee National Wildlife Refuge.
+
+(qq) *Texas.* (1) Anahuac National Wildlife Refuge.
+
+(2) Aransas National Wildlife Refuge.
+
+(3) Balcones Canyonlands National Wildlife Refuge.
+
+(4) Big Boggy National Wildlife Refuge.
+
+(5) Brazoria National Wildlife Refuge.
+
+(6) Buffalo Lake National Wildlife Refuge.
+
+(7) Caddo Lake National Wildlife Refuge.
+
+(8) Hagerman National Wildlife Refuge.
+
+(9) Laguna Atascosa National Wildlife Refuge.
+
+(10) Lower Rio Grande Valley National Wildlife Refuge.
+
+(11) McFaddin National Wildlife Refuge.
+
+(12) San Bernard National Wildlife Refuge.
+
+(13) Texas Point National Wildlife Refuge.
+
+(14) Trinity River National Wildlife Refuge.
+
+(rr) *Utah.* (1) Bear River Migratory Bird Refuge.
+
+(2) Fish Springs National Wildlife Refuge.
+
+(3) Ouray National Wildlife Refuge.
+
+(ss) *Vermont.* (1) Missisquoi National Wildlife Refuge.
+
+(2) Silvio O. Conte National Fish and Wildlife Refuge.
+
+(tt) *Virginia.* (1) Back Bay National Wildlife Refuge.
+
+(2) Chincoteague National Wildlife Refuge.
+
+(3) Eastern Shore of Virginia National Wildlife Refuge.
+
+(4) Elizabeth Hartwell Mason Neck National Wildlife Refuge.
+
+(5) Great Dismal Swamp National Wildlife Refuge.
+
+(6) James River National Wildilfe Refuge.
+
+(7) Mackay Island National Wildlife Refuge.
+
+(8) Occoquan Bay National Wildlife Refuge.
+
+(9) Plum Tree Island National Wildlife Refuge.
+
+(10) Presquile National Wildlife Refuge.
+
+(11) Rappahannock River Valley National Wildlife Refuge.
+
+(12) Wallops Island National Wildlife Refuge.
+
+(uu) *Washington.* (1) Billy Frank Jr. Nisqually National Wildlife Refuge.
+
+(2) Columbia National Wildlife Refuge.
+
+(3) Conboy Lake National Wildlife Refuge.
+
+(4) Dungeness National Wildlife Refuge.
+
+(5) Hanford Reach National Monument/Saddle Mountain National Wildlife Refuge.
+
+(6) Julia Butler Hansen Refuge for the Columbian White-tailed Deer.
+
+(7) Little Pend Oreille National Wildlife Refuge.
+
+(8) McNary National Wildlife Refuge.
+
+(9) Ridgefield National Wildlife Refuge.
+
+(10) San Juan Islands National Wildlife Refuge.
+
+(11) Toppenish National Wildlife Refuge.
+
+(12) Turnbull National Wildlife Refuge.
+
+(13) Umatilla National Wildlife Refuge.
+
+(14) Willapa National Wildlife Refuge.
+
+(vv) *West Virginia.* (1) Canaan Valley National Wildlife Refuge.
+
+(2) Ohio River Islands National Wildlife Refuge.
+
+(ww) *Wisconsin.* (1) Fox River National Wildlife Refuge.
+
+(2) Green Bay National Wildlife Refuge.
+
+(3) Hackmatack National Wildlife Refuge.
+
+(4) Horicon National Wildlife Refuge.
+
+(5) Leopold Wetland Management District.
+
+(6) Necedah National Wildlife Refuge.
+
+(7) St. Croix Wetland Management District.
+
+(8) Trempealeau National Wildlife Refuge.
+
+(9) Upper Mississippi River National Wildlife and Fish Refuge.
+
+(10) Whittlesey Creek National Wildlife Refuge.
+
+(xx) *Wyoming.* (1) Cokeville Meadows National Wildlife Refuge.
+
+(2) Hutton Lake National Wildlife Refuge.
+
+(3) National Elk Refuge.
+
+(4) Pathfinder National Wildlife Refuge.
+
+(5) Seedskadee National Wildlife Refuge.
+
+(yy) *Guam.* (1) Guam National Wildlife Refuge.
+
+(2) \[Reserved\]
+
+\[84 FR 47671, Sept. 10, 2019\]
